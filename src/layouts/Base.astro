@@ -1,0 +1,108 @@
+---
+/**
+ * 全站外壳:head、页眉、正文轨、页脚。
+ */
+interface Props {
+	/** 页面标题(不含站名)。 */
+	title?: string;
+	/** 页面描述(meta description)。 */
+	description?: string;
+}
+
+const SITE_NAME = 'Peng Wang';
+const { title, description = 'Peng Wang — full stack developer in Ottawa.' } = Astro.props;
+let pageTitle = SITE_NAME;
+if (title) {
+	pageTitle = `${title} | ${SITE_NAME}`;
+}
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="description" content={description} />
+		<title>{pageTitle}</title>
+	</head>
+	<body>
+		<header class="rail">
+			<a class="brand" href="/">{SITE_NAME}</a>
+			<nav>
+				<a href="/#projects">Projects</a>
+				<a href="https://github.com/zhizhunbao">GitHub</a>
+			</nav>
+		</header>
+		<main class="rail">
+			<slot />
+		</main>
+		<footer class="rail">© {new Date().getFullYear()} {SITE_NAME}</footer>
+	</body>
+</html>
+
+<style is:global>
+	:root {
+		--bg: #ffffff;
+		--text: #0f172a;
+		--text2: #64748b;
+		--line: #e2e8f0;
+		--accent: #1d4e79;
+		color-scheme: light;
+	}
+	@media (prefers-color-scheme: dark) {
+		:root {
+			--bg: #0b1120;
+			--text: #e2e8f0;
+			--text2: #94a3b8;
+			--line: #1e293b;
+			--accent: #7cb3e6;
+			color-scheme: dark;
+		}
+	}
+	* {
+		box-sizing: border-box;
+	}
+	body {
+		margin: 0;
+		background: var(--bg);
+		color: var(--text);
+		font: 16px/1.6 system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+	}
+	a {
+		color: var(--accent);
+	}
+	.rail {
+		max-width: 760px;
+		margin: 0 auto;
+		padding: 0 16px;
+	}
+	header.rail {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		border-bottom: 1px solid var(--line);
+	}
+	.brand {
+		font-weight: 700;
+		color: var(--text);
+		text-decoration: none;
+	}
+	nav {
+		display: flex;
+		gap: 16px;
+	}
+	main.rail {
+		padding-top: 32px;
+		padding-bottom: 48px;
+	}
+	footer.rail {
+		padding-top: 16px;
+		padding-bottom: 32px;
+		border-top: 1px solid var(--line);
+		color: var(--text2);
+		font-size: 14px;
+	}
+</style>

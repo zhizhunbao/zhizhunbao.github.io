@@ -1,0 +1,39 @@
+---
+/**
+ * 项目详情页:front matter 事实 + Markdown 正文。
+ */
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+	const projects = await getCollection('projects');
+	return projects.map((p) => ({ params: { id: p.id }, props: { p } }));
+}
+
+const { p } = Astro.props;
+const { Content } = await render(p);
+---
+
+<Base title={p.data.title} description={p.data.summary}>
+	<a href="/#projects">← All projects</a>
+	<h1>{p.data.title}</h1>
+	<div class="meta">{p.data.role} | {p.data.org} | {p.data.dates}</div>
+	<div class="meta">{p.data.stack.join(', ')}</div>
+	{p.data.url && <p><a href={p.data.url}>{p.data.url}</a></p>}
+	<article>
+		<Content />
+	</article>
+</Base>
+
+<style>
+	h1 {
+		margin: 16px 0 4px;
+	}
+	.meta {
+		color: var(--text2);
+		font-size: 14px;
+	}
+	article {
+		margin-top: 24px;
+	}
+</style>
