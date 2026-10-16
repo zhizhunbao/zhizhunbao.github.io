@@ -7,17 +7,23 @@ interface Props {
 	title?: string;
 	/** 页面描述(meta description)。 */
 	description?: string;
+	/** 分享预览图(public 下的路径;默认 /og.png)。 */
+	image?: string;
 }
 
 const SITE_NAME = 'Peng Wang';
 const {
 	title,
+	image = '/og.png',
 	description = 'Peng Wang: Cloud, DevOps, Data Engineering and Full Stack in Ottawa. 10 years building software, 7 of them running a big data platform.',
 } = Astro.props;
 let pageTitle = `${SITE_NAME} | Cloud, DevOps & Data`;
 if (title) {
 	pageTitle = `${title} | ${SITE_NAME}`;
 }
+// 分享预览(LinkedIn 等):绝对地址
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const ogImage = new URL(image, Astro.site);
 ---
 
 <html lang="en">
@@ -28,6 +34,15 @@ if (title) {
 		<link rel="icon" href="/favicon.ico" />
 		<meta name="description" content={description} />
 		<meta name="theme-color" content="#f4f7f5" />
+		<link rel="canonical" href={canonical} />
+		<link rel="sitemap" href="/sitemap.xml" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content={SITE_NAME} />
+		<meta property="og:title" content={pageTitle} />
+		<meta property="og:description" content={description} />
+		<meta property="og:url" content={canonical} />
+		<meta property="og:image" content={ogImage} />
+		<meta name="twitter:card" content="summary_large_image" />
 		<title>{pageTitle}</title>
 	</head>
 	<body>

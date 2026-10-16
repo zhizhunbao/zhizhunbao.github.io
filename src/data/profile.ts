@@ -36,7 +36,7 @@ export const JOBS = [
 		where: 'offer2pr.com, Ottawa, ON',
 		points: [
 			'Built and run a daily-updated Canadian job board with 24,000+ live postings.',
-			'Python ETL in Docker (60+ containers, hourly refresh); Next.js + Payload CMS + PostgreSQL on Render, DNS on Cloudflare.',
+			'Python ETL in Docker (about 60 containers, hourly refresh) with self-hosted health checks and daily backups; Next.js + Payload CMS + PostgreSQL on Render, DNS on Cloudflare.',
 		],
 	},
 	{

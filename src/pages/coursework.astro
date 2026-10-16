@@ -34,6 +34,7 @@ import { PROGRAMS } from '../data/coursework';
 							<div class="grid">
 								{c.items.map((it) => (
 									<article class="card">
+										{it.shot && <img class="shot" src={it.shot} alt={`${it.title} screenshot`} loading="lazy" />}
 										<div class="kind">{it.kind}</div>
 										<h4>{it.title}</h4>
 										<p>{it.what}</p>
@@ -123,6 +124,16 @@ import { PROGRAMS } from '../data/coursework';
 		border: 1px solid var(--line);
 		border-radius: var(--r);
 		background: var(--card);
+	}
+	.shot {
+		display: block;
+		width: calc(100% + 36px);
+		aspect-ratio: 16 / 10;
+		object-fit: contain;
+		background: #fff;
+		margin: -16px -18px 14px;
+		border-bottom: 1px solid var(--line);
+		border-radius: var(--r) var(--r) 0 0;
 	}
 	.kind {
 		color: var(--text2);
