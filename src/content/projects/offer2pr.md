@@ -1,6 +1,6 @@
 ---
 title: Offer2PR
-role: Founder: AI Agent Development & Operations
+role: "Founder: AI Agent Development & Operations"
 org: offer2pr.com, Ottawa, ON
 dates: Jun 2026 – Present
 order: 202606
