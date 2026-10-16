@@ -79,11 +79,18 @@ const { Content } = await render(p);
 	article :global(li) {
 		margin-bottom: 6px;
 	}
+	article :global(figure) {
+		margin: 20px 0;
+	}
+	article :global(figcaption) {
+		margin-top: 6px;
+		color: var(--text2);
+		font-size: 14px;
+	}
 	article :global(img) {
 		display: block;
 		width: 100%;
 		height: auto;
-		margin: 20px 0 4px;
 		border: 1px solid var(--line);
 		border-radius: var(--r);
 		background: var(--card);

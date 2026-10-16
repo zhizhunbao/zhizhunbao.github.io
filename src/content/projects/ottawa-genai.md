@@ -7,6 +7,7 @@ order: 202509
 summary: Designed and built a proof-of-concept generative AI research assistant for the City of Ottawa's Economic Development team, then continued it with City-side collaborators.
 stack: [Azure OpenAI, Azure AI Search, FastAPI, React, JWT auth, Docker, Render]
 repo: https://github.com/zhizhunbao/ottawa-genai-research-assistant
+cover: /projects/ottawa-genai/architecture.webp
 ---
 
 ## What it does
@@ -15,7 +16,10 @@ Economic Development analysts ask questions in plain English and get grounded an
 
 ## How it's built
 
-![Architecture: documents flow from Azure Blob Storage through Azure AI Search; queries go through FastAPI and a RAG orchestrator to Azure OpenAI](/projects/ottawa-genai/architecture.webp)
+<figure>
+  <img src="/projects/ottawa-genai/architecture.webp" alt="Architecture: documents flow from Azure Blob Storage through Azure AI Search; queries go through FastAPI and a RAG orchestrator to Azure OpenAI" loading="lazy" />
+  <figcaption>Architecture: documents flow from Azure Blob Storage through Azure AI Search; queries go through FastAPI and a RAG orchestrator to Azure OpenAI</figcaption>
+</figure>
 
 - **Ingestion**: PDFs in Azure Blob Storage → indexer → Azure OpenAI embeddings → Azure AI Search vector index
 - **Query**: FastAPI → RAG orchestrator → semantic cache → hybrid retrieval → GPT-4o with the retrieved context → answer with sources

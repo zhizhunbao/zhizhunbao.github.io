@@ -31,6 +31,8 @@ const projects = defineCollection({
 		repo: z.string().url().optional(),
 		/** 获奖 / 认证(一句话,没有就不填)。 */
 		award: z.string().optional(),
+		/** 卡片封面截图(public 下的路径,没有就不填)。 */
+		cover: z.string().optional(),
 	}),
 });
 

@@ -47,6 +47,11 @@ const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 			{
 				projects.map((p, i) => (
 					<article class:list={['card', { feature: i === 0 }]}>
+						{p.data.cover && (
+							<a class="cover" href={`/projects/${p.id}/`}>
+								<img src={p.data.cover} alt="" loading="lazy" />
+							</a>
+						)}
 						<div class="card-meta">
 							<span>{p.data.org}</span>
 							<span>{p.data.dates}</span>
@@ -240,6 +245,22 @@ const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 	.card.feature {
 		border-left: 4px solid var(--accent);
 	}
+	.cover {
+		display: block;
+		margin: -20px -20px 16px;
+		aspect-ratio: 16 / 10;
+		overflow: hidden;
+		border-bottom: 1px solid var(--line);
+		border-radius: var(--r) var(--r) 0 0;
+		background: var(--bg);
+	}
+	.cover img {
+		display: block;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		object-position: top left;
+	}
 	.card-meta {
 		display: flex;
 		flex-wrap: wrap;
@@ -359,6 +380,19 @@ const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 		}
 		.card.feature {
 			grid-column: span 3;
+			display: grid;
+			grid-template-columns: 1.3fr 1fr;
+			column-gap: 24px;
+			align-content: start;
+		}
+		.card.feature .cover {
+			grid-row: span 6;
+			margin: -20px 0 -20px -20px;
+			border-bottom: 0;
+			border-right: 1px solid var(--line);
+			border-radius: var(--r) 0 0 var(--r);
+			aspect-ratio: auto;
+			min-height: 300px;
 		}
 		.skills {
 			grid-template-columns: repeat(3, 1fr);

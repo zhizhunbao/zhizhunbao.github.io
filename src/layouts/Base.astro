@@ -36,13 +36,14 @@ if (title) {
 			<nav>
 				<a href="/#work">Work</a>
 				<a href="/#experience">Experience</a>
+				<a href="/coursework/">Coursework</a>
 				<a href="/#contact">Contact</a>
 			</nav>
 		</header>
 		<main>
 			<slot />
 		</main>
-		<footer class="rail"><div class="foot">© {new Date().getFullYear()} {SITE_NAME}</div></footer>
+		<footer class="rail"><div class="foot"><span>© {new Date().getFullYear()} {SITE_NAME}</span><span class="built">Built with Astro, deployed to GitHub Pages by GitHub Actions</span></div></footer>
 	</body>
 </html>
 
@@ -102,8 +103,14 @@ if (title) {
 	}
 	.top nav {
 		display: flex;
-		gap: 18px;
-		font-size: 15px;
+		gap: 12px;
+		font-size: 14px;
+	}
+	@media (min-width: 760px) {
+		.top nav {
+			gap: 18px;
+			font-size: 15px;
+		}
 	}
 	.top nav a {
 		color: var(--text2);
@@ -144,9 +151,17 @@ if (title) {
 		color: #fff;
 	}
 	.foot {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 4px 16px;
 		padding: 20px 0 32px;
 		border-top: 1px solid var(--line);
 		color: var(--text2);
 		font-size: 14px;
+	}
+	.built {
+		font-family: var(--mono);
+		font-size: 13px;
 	}
 </style>

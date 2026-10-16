@@ -1,0 +1,153 @@
+---
+/**
+ * Coursework 页:课程 → 一门课一组 → 每个 lab / assignment 一张卡。
+ * 发布规则见 docs/plan.md:AI 课程已结业可放代码链接;Cloud 课程本学期在上只放卡片。
+ */
+import Base from '../layouts/Base.astro';
+import { PROGRAMS } from '../data/coursework';
+---
+
+<Base title="Coursework" description="Labs, assignments and projects from Algonquin College: Cloud Development and Operations, and AI Software Development.">
+	<div class="rail">
+		<header class="intro">
+			<a href="/">← Home</a>
+			<h1>Coursework</h1>
+			<p>Labs, assignments and projects from my two programs at Algonquin College, Ottawa.</p>
+			<nav class="jump" aria-label="Programs">
+				{PROGRAMS.map((p) => <a href={`#${p.id}`}>{p.name}</a>)}
+			</nav>
+		</header>
+
+		{
+			PROGRAMS.map((p) => (
+				<section id={p.id} class="program">
+					<h2>{p.name}</h2>
+					<div class="program-meta">{p.when}</div>
+					{p.note && <p class="note">{p.note}</p>}
+					{p.courses.map((c) => (
+						<div class="course">
+							<h3>
+								<span class="code">{c.code}</span>
+								{c.name}
+							</h3>
+							<div class="grid">
+								{c.items.map((it) => (
+									<article class="card">
+										<div class="kind">{it.kind}</div>
+										<h4>{it.title}</h4>
+										<p>{it.what}</p>
+										<ul class="tags">{it.tech.map((t) => <li>{t}</li>)}</ul>
+										{it.repo && (
+											<a class="code-link" href={it.repo}>
+												Source code →
+											</a>
+										)}
+									</article>
+								))}
+							</div>
+						</div>
+					))}
+				</section>
+			))
+		}
+	</div>
+</Base>
+
+<style>
+	.intro {
+		padding: 24px 0 8px;
+	}
+	h1 {
+		margin: 16px 0 6px;
+		font-size: 40px;
+		line-height: 1.1;
+	}
+	.intro p {
+		margin: 0 0 16px;
+		color: var(--text2);
+		font-size: 17px;
+	}
+	.jump {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
+	}
+	.jump a {
+		padding: 6px 12px;
+		border: 1px solid var(--line2);
+		border-radius: var(--r);
+		background: var(--card);
+		color: var(--text);
+		font-size: 14px;
+		font-weight: 600;
+	}
+	.program {
+		padding: 32px 0 24px;
+	}
+	h2 {
+		margin: 0;
+		font-size: 26px;
+	}
+	.program-meta {
+		color: var(--accent);
+		font: 13px/1.8 var(--mono);
+	}
+	.note {
+		margin: 8px 0 0;
+		color: var(--text2);
+		font-size: 14px;
+	}
+	.course {
+		margin-top: 28px;
+	}
+	h3 {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: baseline;
+		gap: 4px 10px;
+		margin: 0 0 12px;
+		font-size: 18px;
+	}
+	.code {
+		color: var(--accent);
+		font: 600 14px var(--mono);
+	}
+	.grid {
+		display: grid;
+		gap: 12px;
+	}
+	.card {
+		padding: 16px 18px;
+		border: 1px solid var(--line);
+		border-radius: var(--r);
+		background: var(--card);
+	}
+	.kind {
+		color: var(--text2);
+		font: 12px var(--mono);
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+	}
+	h4 {
+		margin: 2px 0 6px;
+		font-size: 16px;
+	}
+	.card p {
+		margin: 0 0 10px;
+		font-size: 15px;
+	}
+	.code-link {
+		display: inline-block;
+		margin-top: 10px;
+		font-size: 14px;
+		font-weight: 600;
+	}
+	@media (min-width: 760px) {
+		h1 {
+			font-size: 52px;
+		}
+		.grid {
+			grid-template-columns: repeat(3, 1fr);
+		}
+	}
+</style>
