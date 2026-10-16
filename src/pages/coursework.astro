@@ -29,6 +29,7 @@ import { PROGRAMS } from '../data/coursework';
 							<h3>
 								<span class="code">{c.code}</span>
 								{c.name}
+								{c.term && <span class="term">{c.term}</span>}
 							</h3>
 							<div class="grid">
 								{c.items.map((it) => (
@@ -37,10 +38,11 @@ import { PROGRAMS } from '../data/coursework';
 										<h4>{it.title}</h4>
 										<p>{it.what}</p>
 										<ul class="tags">{it.tech.map((t) => <li>{t}</li>)}</ul>
-										{it.repo && (
-											<a class="code-link" href={it.repo}>
-												Source code →
-											</a>
+										{(it.repo || it.demo) && (
+											<div class="links">
+												{it.demo && <a href={it.demo}>Live demo →</a>}
+												{it.repo && <a href={it.repo}>Source code →</a>}
+											</div>
 										)}
 									</article>
 								))}
@@ -136,8 +138,14 @@ import { PROGRAMS } from '../data/coursework';
 		margin: 0 0 10px;
 		font-size: 15px;
 	}
-	.code-link {
-		display: inline-block;
+	.term {
+		color: var(--text2);
+		font: 13px var(--mono);
+	}
+	.links {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 4px 16px;
 		margin-top: 10px;
 		font-size: 14px;
 		font-weight: 600;
