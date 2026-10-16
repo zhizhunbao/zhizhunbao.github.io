@@ -1,11 +1,11 @@
 ---
 title: Offer2PR
-role: Founder & Full Stack Developer
+role: Founder: AI Agent Development & Operations
 org: offer2pr.com, Ottawa, ON
 dates: Jun 2026 – Present
 order: 202606
 summary: A daily-updated Canadian job board with 24,000+ live postings from 30 sources across all 10 provinces, tagged with immigration signals; in English, Chinese and Korean.
-stack: [TypeScript, Next.js, React, Payload CMS, PostgreSQL, Python, Docker, Render, Cloudflare]
+stack: [AI agents, Claude API, TypeScript, Next.js, Payload CMS, PostgreSQL, Python, Docker, Render, Cloudflare]
 url: https://offer2pr.com
 repo: https://github.com/zhizhunbao/pnp-job-tracker
 cover: /projects/offer2pr/jobs.webp
@@ -37,6 +37,13 @@ The job board filters by province, occupation, pathway and experience. The emplo
 - **Operations**: the ETL runs unattended in Docker on a self-managed host, about 60 containers; see below.
 - **Web**: Next.js + Payload CMS + PostgreSQL on Render, DNS on Cloudflare.
 - **CI**: GitHub Actions type-checks and lints every push; a local pre-push hook adds Python lint, type checks and a build.
+
+## AI agents in the product
+
+- **Advisor agent (Aug – Sep 2026).** A tool-calling agent with 9 tools (occupation search, job lookup, draw history, thresholds, points and more). Its rules: it never decides, ranks or computes, and every number in an answer must appear in a tool result. An output gate rewrote drafts that broke the rules, answers cited their sources, and the tool trace streamed to the page. A 24-case gold set plus real user questions served as the evaluation.
+- **Site guide (live since Sep 2026).** When the advisor was more than the job needed, I replaced it with a two-step guide on Claude Haiku: one structured call routes the question to the right page, and an optional second call answers only from database facts, with daily quotas to cap cost.
+- **Occupation resolver.** An agent with search, slot-filling and give-up tools that rejects any occupation code the search didn't return, covered by 21 integration tests.
+- **Cover letters.** One grounded call per job, from the job ad and the chosen résumé, with a switchable model provider and a daily limit.
 
 ## How I operate it
 

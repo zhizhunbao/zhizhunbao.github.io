@@ -1,25 +1,27 @@
 ---
 /**
- * 首页:首屏介绍 + 数字 + 项目(按 order 倒序)+ 技能 + 经历 + 学历 + 联系方式。
+ * 首页:首屏介绍 + 数字 + 项目(按 order 倒序)+ AI agent 开发方式 + 技能 + 经历 + 学历 + 联系方式。
+ * 主线(Frank 10-16):过去 Java 开发 → 中期大数据架构、开发、运维 → 现在 AI Agent 开发运维。
  */
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import { EDUCATION, JOBS, LINKS, SKILLS, STATS } from '../data/profile';
+import { AGENT_WAYS, EDUCATION, JOBS, LINKS, SKILLS, STATS } from '../data/profile';
 
 const projects = (await getCollection('projects')).sort((a, b) => b.data.order - a.data.order);
-const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
+const ROLES = ['AI Agents', 'DevOps / SRE', 'Data Engineering', 'Cloud'];
 ---
 
 <Base>
 	<section class="hero rail">
 		<div>
-			<div class="status"><span class="dot"></span>Ottawa, ON. Open to SRE, DevOps, Cloud &amp; Data roles</div>
+			<div class="status"><span class="dot"></span>Ottawa, ON. Open to AI agent, DevOps, Cloud &amp; Data roles</div>
 			<h1>Peng Wang</h1>
 			<ul class="roles">{ROLES.map((r) => <li>{r}</li>)}</ul>
 			<p class="lede">
-				10 years building software, 7 of them running a big data platform that handled over a billion smart-TV records a
-				day, including its move from on-prem Hadoop to Alibaba Cloud. Now studying Cloud Development and Operations at
-				Algonquin College and running <a href={LINKS.offer2pr}>offer2pr.com</a>.
+				Java developer first, then 7 years architecting, building and running a big data platform that handled over a
+				billion smart-TV records a day. Now I build and operate AI agents: <a href={LINKS.offer2pr}>offer2pr.com</a> is
+				written with coding agents behind my own guardrails and runs about 60 containers in production. Studying Cloud
+				Development and Operations at Algonquin College.
 			</p>
 			<div class="cta">
 				<a class="btn primary" href={LINKS.linkedin}>LinkedIn</a>
@@ -69,8 +71,22 @@ const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 		</div>
 	</section>
 
+	<section id="agents" class="rail">
+		<h2><span class="n">02</span>How I build with AI agents</h2>
+		<div class="ways">
+			{
+				AGENT_WAYS.map((w) => (
+					<div class="way">
+						<h3>{w.title}</h3>
+						<p>{w.body}</p>
+					</div>
+				))
+			}
+		</div>
+	</section>
+
 	<section class="rail">
-		<h2><span class="n">02</span>Skills</h2>
+		<h2><span class="n">03</span>Skills</h2>
 		<div class="skills">
 			{
 				SKILLS.map((g) => (
@@ -84,7 +100,7 @@ const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 	</section>
 
 	<section id="experience" class="rail">
-		<h2><span class="n">03</span>Experience</h2>
+		<h2><span class="n">04</span>Experience</h2>
 		<ol class="timeline">
 			{
 				JOBS.map((j) => (
@@ -102,7 +118,7 @@ const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 	</section>
 
 	<section class="rail">
-		<h2><span class="n">04</span>Education</h2>
+		<h2><span class="n">05</span>Education</h2>
 		<ol class="timeline">
 			{
 				EDUCATION.map((e) => (
@@ -119,8 +135,8 @@ const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 	</section>
 
 	<section id="contact" class="rail">
-		<h2><span class="n">05</span>Get in touch</h2>
-		<p class="contact-lede">Looking for SRE, DevOps, Cloud or Data roles in Ottawa.</p>
+		<h2><span class="n">06</span>Get in touch</h2>
+		<p class="contact-lede">Looking for AI agent, DevOps / SRE, Cloud or Data roles in Ottawa.</p>
 		<div class="cta">
 			<a class="btn primary" href={LINKS.linkedin}>LinkedIn</a>
 			<a class="btn" href={LINKS.github}>GitHub</a>
@@ -292,6 +308,26 @@ const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 		font-size: 14px;
 		font-weight: 600;
 	}
+	.ways {
+		display: grid;
+		gap: 12px;
+	}
+	.way {
+		padding: 18px 20px;
+		border: 1px solid var(--line);
+		border-left: 4px solid var(--accent);
+		border-radius: var(--r);
+		background: var(--card);
+	}
+	.way h3 {
+		margin: 0 0 6px;
+		font-size: 17px;
+	}
+	.way p {
+		margin: 0;
+		color: var(--text2);
+		font-size: 15px;
+	}
 	.skills {
 		display: grid;
 		gap: 18px;
@@ -395,6 +431,9 @@ const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 			min-height: 300px;
 		}
 		.skills {
+			grid-template-columns: repeat(3, 1fr);
+		}
+		.ways {
 			grid-template-columns: repeat(3, 1fr);
 		}
 		.timeline > li {
