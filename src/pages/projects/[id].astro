@@ -15,25 +15,57 @@ const { Content } = await render(p);
 ---
 
 <Base title={p.data.title} description={p.data.summary}>
-	<a href="/#projects">← All projects</a>
-	<h1>{p.data.title}</h1>
-	<div class="meta">{p.data.role} | {p.data.org} | {p.data.dates}</div>
-	<div class="meta">{p.data.stack.join(', ')}</div>
-	{p.data.url && <p><a href={p.data.url}>{p.data.url}</a></p>}
-	<article>
-		<Content />
-	</article>
+	<div class="rail page">
+		<a href="/#work">← All projects</a>
+		<h1>{p.data.title}</h1>
+		<div class="meta">{p.data.role}</div>
+		<div class="meta">{p.data.org}, {p.data.dates}</div>
+		<p class="summary">{p.data.summary}</p>
+		{p.data.award && <p class="award">{p.data.award}</p>}
+		<ul class="tags">{p.data.stack.map((t) => <li>{t}</li>)}</ul>
+		<div class="links">
+			{p.data.url && <a class="btn primary" href={p.data.url}>Live site</a>}
+			{p.data.repo && <a class="btn" href={p.data.repo}>Source code</a>}
+		</div>
+		<article>
+			<Content />
+		</article>
+	</div>
 </Base>
 
 <style>
+	.page {
+		max-width: 760px;
+		padding-top: 24px;
+		padding-bottom: 56px;
+	}
 	h1 {
-		margin: 16px 0 4px;
+		margin: 16px 0 6px;
+		font-size: 34px;
+		line-height: 1.15;
 	}
 	.meta {
 		color: var(--text2);
-		font-size: 14px;
+		font-size: 15px;
+	}
+	.summary {
+		margin: 16px 0;
+		font-size: 17px;
+	}
+	.award {
+		padding: 10px 14px;
+		border-radius: 8px;
+		background: #fef7e0;
+		color: #6b4e00;
+		font-weight: 600;
+	}
+	.links {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+		margin-top: 20px;
 	}
 	article {
-		margin-top: 24px;
+		margin-top: 28px;
 	}
 </style>

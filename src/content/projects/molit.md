@@ -6,6 +6,7 @@ dates: Jun 2026 – Aug 2026
 order: 202605.9
 summary: Detects construction-equipment anomalies from thermal, vibration and acoustic sensors and grades equipment health in four levels.
 stack: [Python, PyTorch, PySide6, Payload CMS, Supabase]
+award: Top grade in data quality certification for the high-risk construction equipment thermal-imaging dataset.
 ---
 
 Details coming soon.

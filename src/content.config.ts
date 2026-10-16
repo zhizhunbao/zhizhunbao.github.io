@@ -27,6 +27,10 @@ const projects = defineCollection({
 		stack: z.array(z.string()),
 		/** 线上地址(没有就不填)。 */
 		url: z.string().url().optional(),
+		/** 公开源码仓库(没有就不填)。 */
+		repo: z.string().url().optional(),
+		/** 获奖 / 认证(一句话,没有就不填)。 */
+		award: z.string().optional(),
 	}),
 });
 

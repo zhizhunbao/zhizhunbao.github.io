@@ -1,69 +1,375 @@
 ---
 /**
- * 首页:一句话介绍 + 项目列表(按 order 倒序)。
+ * 首页:首屏介绍 + 数字 + 项目(按 order 倒序)+ 技能 + 经历 + 学历 + 联系方式。
  */
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import { EDUCATION, JOBS, LINKS, SKILLS, STATS } from '../data/profile';
 
 const projects = (await getCollection('projects')).sort((a, b) => b.data.order - a.data.order);
+const ROLES = ['Cloud', 'DevOps', 'Data Engineering', 'Full Stack'];
 ---
 
 <Base>
-	<section class="intro">
-		<h1>Peng Wang</h1>
-		<p>Full stack developer in Ottawa, ON.</p>
+	<section class="hero rail">
+		<div>
+			<div class="status"><span class="dot"></span>Ottawa, ON. Open to SRE, DevOps, Cloud &amp; Data roles</div>
+			<h1>Peng (Frank) Wang</h1>
+			<ul class="roles">{ROLES.map((r) => <li>{r}</li>)}</ul>
+			<p class="lede">
+				10 years building software, 7 of them running a big data platform that handled over a billion smart-TV records a
+				day, including its move from on-prem Hadoop to Alibaba Cloud. Now studying Cloud Development and Operations at
+				Algonquin College and running <a href={LINKS.offer2pr}>offer2pr.com</a>.
+			</p>
+			<div class="cta">
+				<a class="btn primary" href={LINKS.linkedin}>LinkedIn</a>
+				<a class="btn" href={LINKS.github}>GitHub</a>
+				<a class="btn" href={LINKS.email}>Email</a>
+			</div>
+		</div>
+		<img class="photo" src="/photo.jpg" alt="Peng (Frank) Wang" width="400" height="400" />
 	</section>
 
-	<section id="projects">
-		<h2>Projects</h2>
-		<ul class="list">
+	<section class="stats rail" aria-label="Highlights">
+		{
+			STATS.map((s) => (
+				<div class="stat">
+					<div class="num">{s.num}</div>
+					<div class="lbl">{s.label}</div>
+				</div>
+			))
+		}
+	</section>
+
+	<section id="work" class="rail">
+		<h2><span class="n">01</span>Featured projects</h2>
+		<div class="grid">
 			{
-				projects.map((p) => (
-					<li>
-						<a class="name" href={`/projects/${p.id}/`}>{p.data.title}</a>
-						<div class="meta">{p.data.role} | {p.data.org} | {p.data.dates}</div>
+				projects.map((p, i) => (
+					<article class:list={['card', { feature: i === 0 }]}>
+						<div class="card-meta">
+							<span>{p.data.org}</span>
+							<span>{p.data.dates}</span>
+						</div>
+						<h3>
+							<a href={`/projects/${p.id}/`}>{p.data.title}</a>
+						</h3>
+						<div class="card-role">{p.data.role}</div>
 						<p>{p.data.summary}</p>
-						<div class="stack">{p.data.stack.join(', ')}</div>
+						{p.data.award && <p class="award">{p.data.award}</p>}
+						<ul class="tags">{p.data.stack.map((t) => <li>{t}</li>)}</ul>
+					</article>
+				))
+			}
+		</div>
+	</section>
+
+	<section class="rail">
+		<h2><span class="n">02</span>Skills</h2>
+		<div class="skills">
+			{
+				SKILLS.map((g) => (
+					<div>
+						<h3 class="skill-group">{g.group}</h3>
+						<ul class="tags">{g.items.map((t) => <li>{t}</li>)}</ul>
+					</div>
+				))
+			}
+		</div>
+	</section>
+
+	<section id="experience" class="rail">
+		<h2><span class="n">03</span>Experience</h2>
+		<ol class="timeline">
+			{
+				JOBS.map((j) => (
+					<li>
+						<div class="when">{j.when}</div>
+						<div>
+							<h3>{j.title}</h3>
+							<div class="where">{j.where}</div>
+							<ul class="points">{j.points.map((x) => <li>{x}</li>)}</ul>
+						</div>
 					</li>
 				))
 			}
-		</ul>
+		</ol>
+	</section>
+
+	<section class="rail">
+		<h2><span class="n">04</span>Education</h2>
+		<ol class="timeline">
+			{
+				EDUCATION.map((e) => (
+					<li>
+						<div class="when">{e.when}</div>
+						<div>
+							<h3>{e.title}</h3>
+							<div class="where">{e.where}</div>
+						</div>
+					</li>
+				))
+			}
+		</ol>
+	</section>
+
+	<section id="contact" class="rail">
+		<h2><span class="n">05</span>Get in touch</h2>
+		<p class="contact-lede">Looking for SRE, DevOps, Cloud or Data roles in Ottawa.</p>
+		<div class="cta">
+			<a class="btn primary" href={LINKS.linkedin}>LinkedIn</a>
+			<a class="btn" href={LINKS.github}>GitHub</a>
+			<a class="btn" href={LINKS.offer2pr}>offer2pr.com</a>
+			<a class="btn" href={LINKS.email}>Email</a>
+		</div>
 	</section>
 </Base>
 
 <style>
-	.intro h1 {
-		margin: 0 0 4px;
-		font-size: 32px;
+	section {
+		padding-bottom: 48px;
 	}
-	.intro p {
-		margin: 0 0 32px;
+	.hero {
+		display: flex;
+		flex-direction: column-reverse;
+		gap: 24px;
+		padding-top: 24px;
+		padding-bottom: 32px;
+	}
+	.photo {
+		width: 96px;
+		height: 96px;
+		border-radius: 50%;
+		object-fit: cover;
+	}
+	.status {
+		display: inline-flex;
+		align-items: center;
+		gap: 8px;
+		max-width: 100%;
+		padding: 4px 12px;
+		border: 1px solid var(--line);
+		border-radius: 999px;
+		background: var(--card);
 		color: var(--text2);
+		font: 13px/1.4 var(--mono);
 	}
-	h2 {
-		font-size: 20px;
-		border-bottom: 1px solid var(--line);
-		padding-bottom: 8px;
+	.dot {
+		flex: none;
+		width: 8px;
+		height: 8px;
+		border-radius: 50%;
+		background: #10b981;
+		box-shadow: 0 0 0 3px #d1fae5;
 	}
-	.list {
+	h1 {
+		margin: 14px 0 10px;
+		font-size: 40px;
+		line-height: 1.1;
+		letter-spacing: -0.02em;
+	}
+	.roles {
 		list-style: none;
+		margin: 0 0 18px;
 		padding: 0;
-		margin: 0;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
 	}
-	.list li {
-		padding: 16px 0;
-		border-bottom: 1px solid var(--line);
-	}
-	.name {
+	.roles li {
+		padding: 5px 12px;
+		border: 1.5px solid var(--accent);
+		border-radius: var(--r);
+		font-size: 15px;
 		font-weight: 600;
+	}
+	.lede {
+		margin: 0 0 24px;
+		max-width: 640px;
+		color: var(--text2);
 		font-size: 17px;
 	}
-	.meta,
-	.stack {
+	.cta {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px;
+	}
+	.stats {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 12px;
+	}
+	.stat,
+	.card {
+		background: var(--card);
+		border: 1px solid var(--line);
+		border-radius: var(--r);
+	}
+	.stat {
+		padding: 16px;
+	}
+	.num {
+		color: var(--accent);
+		font: 700 30px/1.1 var(--mono);
+		letter-spacing: -0.03em;
+	}
+	.lbl {
+		margin-top: 4px;
 		color: var(--text2);
 		font-size: 14px;
 	}
-	.list p {
-		margin: 6px 0;
+	h2 {
+		display: flex;
+		align-items: baseline;
+		gap: 12px;
+		margin: 0 0 20px;
+		font-size: 24px;
+	}
+	.n {
+		color: var(--accent);
+		font: 13px var(--mono);
+	}
+	.grid {
+		display: grid;
+		gap: 14px;
+	}
+	.card {
+		padding: 20px;
+		box-shadow: 0 1px 2px rgb(16 32 26 / 5%);
+	}
+	.card.feature {
+		border-left: 4px solid var(--accent);
+	}
+	.card-meta {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 0 12px;
+		color: var(--text2);
+		font-size: 13px;
+	}
+	.card h3 {
+		margin: 4px 0 2px;
+		font-size: 18px;
+	}
+	.card h3 a {
+		color: var(--text);
+	}
+	.card-role {
+		color: var(--text2);
+		font-size: 14px;
+	}
+	.card p {
+		margin: 10px 0 14px;
+		font-size: 15px;
+	}
+	.card .award {
+		padding: 8px 12px;
+		border-radius: 8px;
+		background: #fef7e0;
+		color: #6b4e00;
+		font-size: 14px;
+		font-weight: 600;
+	}
+	.skills {
+		display: grid;
+		gap: 18px;
+	}
+	.skill-group {
+		margin: 0 0 8px;
+		color: var(--text2);
+		font-size: 14px;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+	}
+	.timeline {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		border-left: 2px solid var(--line2);
+	}
+	.timeline > li {
+		position: relative;
+		padding: 0 0 24px 20px;
+	}
+	.timeline > li::before {
+		content: '';
+		position: absolute;
+		left: -7px;
+		top: 6px;
+		width: 12px;
+		height: 12px;
+		border: 2px solid var(--accent);
+		border-radius: 50%;
+		background: var(--bg);
+	}
+	.when {
+		color: var(--accent);
+		font: 13px/1.6 var(--mono);
+	}
+	.timeline h3 {
+		margin: 2px 0;
+		font-size: 17px;
+	}
+	.where {
+		color: var(--text2);
+		font-size: 14px;
+	}
+	.points {
+		margin: 8px 0 0;
+		padding-left: 18px;
+		font-size: 15px;
+	}
+	.points li {
+		margin-bottom: 4px;
+	}
+	.contact-lede {
+		margin: 0 0 14px;
+		color: var(--text2);
+	}
+	@media (min-width: 760px) {
+		section {
+			padding-bottom: 72px;
+		}
+		.hero {
+			flex-direction: row;
+			justify-content: space-between;
+			align-items: center;
+			padding-top: 72px;
+			padding-bottom: 56px;
+		}
+		.photo {
+			width: 180px;
+			height: 180px;
+		}
+		h1 {
+			font-size: 60px;
+		}
+		.roles li {
+			font-size: 16px;
+		}
+		.stats {
+			grid-template-columns: repeat(4, 1fr);
+		}
+		.num {
+			font-size: 38px;
+		}
+		.grid {
+			grid-template-columns: repeat(3, 1fr);
+		}
+		.card.feature {
+			grid-column: span 3;
+		}
+		.skills {
+			grid-template-columns: repeat(3, 1fr);
+		}
+		.timeline > li {
+			display: grid;
+			grid-template-columns: 170px 1fr;
+			gap: 16px;
+		}
+		h2 {
+			font-size: 30px;
+		}
 	}
 </style>

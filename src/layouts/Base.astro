@@ -1,6 +1,6 @@
 ---
 /**
- * 全站外壳:head、页眉、正文轨、页脚。
+ * 全站外壳:head、页眉、正文、页脚。视觉方向 B「Console」:浅灰绿底、翠绿强调色、等宽标签。
  */
 interface Props {
 	/** 页面标题(不含站名)。 */
@@ -9,9 +9,12 @@ interface Props {
 	description?: string;
 }
 
-const SITE_NAME = 'Peng Wang';
-const { title, description = 'Peng Wang — full stack developer in Ottawa.' } = Astro.props;
-let pageTitle = SITE_NAME;
+const SITE_NAME = 'Peng (Frank) Wang';
+const {
+	title,
+	description = 'Peng (Frank) Wang: Cloud, DevOps, Data Engineering and Full Stack in Ottawa. 10 years building software, 7 of them running a big data platform.',
+} = Astro.props;
+let pageTitle = `${SITE_NAME} | Cloud, DevOps & Data`;
 if (title) {
 	pageTitle = `${title} | ${SITE_NAME}`;
 }
@@ -24,41 +27,40 @@ if (title) {
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" href="/favicon.ico" />
 		<meta name="description" content={description} />
+		<meta name="theme-color" content="#f4f7f5" />
 		<title>{pageTitle}</title>
 	</head>
 	<body>
-		<header class="rail">
-			<a class="brand" href="/">{SITE_NAME}</a>
+		<header class="top rail">
+			<a class="brand" href="/">Frank Wang</a>
 			<nav>
-				<a href="/#projects">Projects</a>
-				<a href="https://github.com/zhizhunbao">GitHub</a>
+				<a href="/#work">Work</a>
+				<a href="/#experience">Experience</a>
+				<a href="/#contact">Contact</a>
 			</nav>
 		</header>
-		<main class="rail">
+		<main>
 			<slot />
 		</main>
-		<footer class="rail">© {new Date().getFullYear()} {SITE_NAME}</footer>
+		<footer class="rail"><div class="foot">© {new Date().getFullYear()} {SITE_NAME}</div></footer>
 	</body>
 </html>
 
 <style is:global>
 	:root {
-		--bg: #ffffff;
-		--text: #0f172a;
-		--text2: #64748b;
-		--line: #e2e8f0;
-		--accent: #1d4e79;
+		--bg: #f4f7f5;
+		--card: #ffffff;
+		--text: #10201a;
+		--text2: #56665f;
+		--line: #dfe7e2;
+		--line2: #c9d6cf;
+		--accent: #047857;
+		--tag: #e6f4ee;
+		--tagtext: #065f46;
+		--r: 10px;
+		--sans: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+		--mono: ui-monospace, 'Cascadia Code', 'Cascadia Mono', Consolas, monospace;
 		color-scheme: light;
-	}
-	@media (prefers-color-scheme: dark) {
-		:root {
-			--bg: #0b1120;
-			--text: #e2e8f0;
-			--text2: #94a3b8;
-			--line: #1e293b;
-			--accent: #7cb3e6;
-			color-scheme: dark;
-		}
 	}
 	* {
 		box-sizing: border-box;
@@ -67,40 +69,82 @@ if (title) {
 		margin: 0;
 		background: var(--bg);
 		color: var(--text);
-		font: 16px/1.6 system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+		font: 16px/1.6 var(--sans);
+		-webkit-font-smoothing: antialiased;
 	}
 	a {
 		color: var(--accent);
+		text-decoration: none;
+	}
+	a:hover {
+		text-decoration: underline;
 	}
 	.rail {
-		max-width: 760px;
+		max-width: 1080px;
 		margin: 0 auto;
 		padding: 0 16px;
 	}
-	header.rail {
+	.top {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding-top: 20px;
-		padding-bottom: 20px;
-		border-bottom: 1px solid var(--line);
+		padding-top: 18px;
+		padding-bottom: 18px;
 	}
 	.brand {
 		font-weight: 700;
 		color: var(--text);
-		text-decoration: none;
 	}
-	nav {
+	.brand::before {
+		content: '> ';
+		color: var(--accent);
+		font-family: var(--mono);
+	}
+	.top nav {
 		display: flex;
-		gap: 16px;
+		gap: 18px;
+		font-size: 15px;
 	}
-	main.rail {
-		padding-top: 32px;
-		padding-bottom: 48px;
+	.top nav a {
+		color: var(--text2);
 	}
-	footer.rail {
-		padding-top: 16px;
-		padding-bottom: 32px;
+	/* 技术标签:首页卡片、技能区、详情页共用 */
+	.tags {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 6px;
+	}
+	.tags li {
+		font: 12.5px/1.5 var(--mono);
+		padding: 3px 9px;
+		border-radius: 999px;
+		background: var(--tag);
+		color: var(--tagtext);
+	}
+	.btn {
+		display: inline-block;
+		padding: 10px 18px;
+		border: 1px solid var(--line2);
+		border-radius: var(--r);
+		background: var(--card);
+		color: var(--text);
+		font-weight: 600;
+		font-size: 15px;
+	}
+	.btn:hover {
+		text-decoration: none;
+		border-color: var(--accent);
+	}
+	.btn.primary {
+		background: var(--accent);
+		border-color: var(--accent);
+		color: #fff;
+	}
+	.foot {
+		padding: 20px 0 32px;
 		border-top: 1px solid var(--line);
 		color: var(--text2);
 		font-size: 14px;
