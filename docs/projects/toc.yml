@@ -1,0 +1,15 @@
+items:
+- name: Overview
+  href: index.md
+- name: Offer2PR
+  href: offer2pr.md
+- name: Construction Equipment Anomaly Detection
+  href: molit.md
+- name: ECG Viewer Modernization
+  href: ecg-viewer.md
+- name: Textbook RAG
+  href: textbook-rag.md
+- name: Gangwon State Business Portal
+  href: gangwon-portal.md
+- name: GenAI Research Assistant
+  href: ottawa-genai.md

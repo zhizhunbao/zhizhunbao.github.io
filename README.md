@@ -1,7 +1,17 @@
-# profile
+# Peng Wang Knowledge Base
 
-Peng Wang 的个人作品集站,Astro 7 静态站,部署在 GitHub Pages:<https://zhizhunbao.github.io>
+Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdown in a GitHub repository, built with [DocFX](https://dotnet.github.io/docfx/), published by GitHub Actions to GitHub Pages.
 
-- 项目:`src/content/projects/*.md`,一个项目一个文件(front matter 是卡片事实,正文是详情页)
-- 本地:`npm run dev`;构建:`npm run build`
-- 部署:push 到 main 后 `.github/workflows/deploy.yml` 自动构建发布
+- Pages: `docs/**/*.md`, each with YAML metadata (`title`, `description`, `ms.date`).
+- Navigation: `docs/toc.yml` is the top bar; each section folder has its own `toc.yml` for the left sidebar.
+- Config: `docs/docfx.json`. Colours: `docs/templates/kb/public/main.css`.
+- Preview locally: `docfx docs/docfx.json --serve`, then open <http://localhost:8080>.
+- Publish: push to `main`; `.github/workflows/docfx.yml` builds and deploys.
+
+## Content rules (the site is public)
+
+- No lecture slide text, no lab questions, no lab answers.
+- Definitions are quoted from official documentation (Microsoft Learn is CC BY 4.0) with an APA reference that names the section and paragraph and links the `#anchor`.
+- Content that exists only in course materials is rewritten in my own words, without quotation marks.
+- Cloud courses are in progress: no links to coursework code until grades are final. No student number anywhere.
+- Never use the middle dot as a separator.
