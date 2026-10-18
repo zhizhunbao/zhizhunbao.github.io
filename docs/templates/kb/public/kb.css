@@ -62,8 +62,6 @@
 .content table.table { font-size: 14px; line-height: 21px; margin: 0; }
 .content table.table th, .content table.table td { padding: 8px; vertical-align: top; }
 .content table.table th { font-weight: 700; }
-.content table.table td:first-child { min-width: 9rem; }
-.content table.table td:nth-child(4) { overflow-wrap: anywhere; min-width: 12rem; }
 
 /* Note, Tip, Important, Warning and Caution boxes */
 .alert { margin-top: 16px; padding: 16px; border: 1px solid; border-radius: 6px; }
@@ -152,3 +150,21 @@ body { line-height: 1.75; }
 /* Collapsed menu: the expand button sits in the middle of the narrow rail */
 .layout-menu-collapsed #affixed-left-container { padding-inline: 0 !important; }
 .layout-menu-collapsed #kb-toc-header { justify-content: center; padding-inline: 0; }
+
+/* Term tables: fixed widths, URLs wrap inside the Source column */
+.content table.kb-terms { table-layout: fixed; }
+.content table.kb-terms th:nth-child(1) { width: 20%; }
+.content table.kb-terms th:nth-child(2) { width: 32%; }
+.content table.kb-terms th:nth-child(3) { width: 24%; }
+.content table.kb-terms th:nth-child(4) { width: 24%; }
+.content table.kb-terms td { overflow-wrap: anywhere; }
+.content table.kb-terms td:nth-child(4) { font-size: 13px; color: var(--theme-text-subtle); }
+
+/* Wider than Learn on purpose: this is a reference site read by its owner, with wide term tables.
+   The article fills the column between the menu and "In this article" (up to 1200px), and
+   collapsing the menu gives its width to the article instead of keeping an empty spacer. */
+#main .reading-width { max-inline-size: min(100%, 1200px); padding-inline: 48px; margin-inline: 0 auto !important; }
+html.layout.layout-menu-collapsed { --layout-menu-spacer-width: 0px !important; }
+/* Side rails stay at 275px on wide screens (Atlas widens them to 320px and 450px); the extra width goes to the article */
+html.layout { --layout-menu-expanded-target-width: 275px !important; --layout-aside-expanded-target-width: 275px !important; }
+@media (max-width: 767.98px) { #main .reading-width { padding-inline: 16px; } }
