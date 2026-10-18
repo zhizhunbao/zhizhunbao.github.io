@@ -4,7 +4,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 
 - Pages: `docs/**/*.md`, each with YAML metadata (`title`, `description`, `ms.date`).
 - Navigation: `docs/toc.yml` is the top bar; each section folder has its own `toc.yml` for the left sidebar.
-- Config: `docs/docfx.json`. Colours: `docs/templates/kb/public/main.css`.
+- Config: `docs/docfx.json`. Look: `docs/templates/kb/` (Learn-style CSS in `public/main.css`, "Last updated on" line from `ms.date` via `conceptual.extension.js` + `public/main.js`; `layout/_master.tmpl` is the modern master plus one meta tag).
 - Preview locally: `docfx docs/docfx.json --serve`, then open <http://localhost:8080>.
 - Publish: push to `main`; `.github/workflows/docfx.yml` builds and deploys.
 
