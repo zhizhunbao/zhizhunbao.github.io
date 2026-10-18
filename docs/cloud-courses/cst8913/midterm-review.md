@@ -460,11 +460,11 @@ My review notes for CST8913 Cloud Migration (Algonquin College, Fall 2026). Each
 | **what App Service manages for you** (App Service 替你管什么) | "App Service is a Platform-as-a-Service (PaaS), so Azure manages the OS and application stack for you. You manage only your application and its data." *Note: An older Microsoft Learn module also lists load balancing and scaling.* | 操作系统和运行环境由 Azure 打补丁、维护；你只管自己的代码和数据。 | Microsoft. (n.d.). *Azure App Service OS and runtime patching*. Microsoft Learn. [https://learn.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime](https://learn.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime) Location: [para. 2](https://learn.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime#:~:text=App%20Service%20is%20a%20Platform%2Das%2Da%2DService) |
 | **hybrid connection** (混合连接) | "Within App Service, Hybrid Connections can be used to access application resources in any network that can make outbound calls to Azure over port 443." | 让搬到 App Service 的应用，经 443 端口安全访问还留在本地的数据库或服务。 | Microsoft. (n.d.). *Create and use hybrid connections in Azure App Service*. Microsoft Learn. [https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections](https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections) Location: [para. 2](https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections#:~:text=Within%20App%20Service%2C%20Hybrid%20Connections%20can%20be%20used%20to%20access) |
 
-## 8. Tools: Git, GitHub, Markdown
+## 7. Tools: Git, GitHub, Markdown
 
-### 8.1 Git: from your files to GitHub
+### 7.1 Git: from your files to GitHub
 
-![8.1 Git: from your files to GitHub](media/fig8_1.png)
+![7.1 Git: from your files to GitHub](media/fig8_1.png)
 
 | Term | Definition | 中文解释 | Source (APA) |
 |---|---|---|---|
@@ -480,9 +480,9 @@ My review notes for CST8913 Cloud Migration (Algonquin College, Fall 2026). Each
 | **pull** (拉取) | "Pulling a branch means to fetch it and merge it." | 拉取就是从远程仓库下载新改动并合并到本地分支，让本地保持最新。 | Git. (n.d.). *gitglossary*. [https://git-scm.com/docs/gitglossary](https://git-scm.com/docs/gitglossary) Location: ["pull" entry](https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpullapull:~:text=Pulling%20a%20branch%20means%20to%20fetch%20it%20and%20merge%20it) |
 | **clone** (克隆) | "A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy." | 克隆就是把远程仓库完整复制一份到自己电脑上，包括全部历史。 | GitHub. (n.d.). *GitHub glossary*. GitHub Docs. [https://docs.github.com/en/get-started/learning-about-github/github-glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary) Location: ["clone" section, para. 1](https://docs.github.com/en/get-started/learning-about-github/github-glossary#clone:~:text=A%20clone%20is%20a%20copy%20of%20a%20repository%20that%20lives) |
 
-### 8.2 GitHub teamwork
+### 7.2 GitHub teamwork
 
-![8.2 GitHub teamwork](media/fig8_2.png)
+![7.2 GitHub teamwork](media/fig8_2.png)
 
 | Term | Definition | 中文解释 | Source (APA) |
 |---|---|---|---|
