@@ -149,3 +149,6 @@ body { line-height: 1.75; }
 /* Section bar: one line; items that do not fit are clipped (the left tree lists them all) */
 #kb-secondary-nav .site-header-nav { overflow: hidden; min-width: 0; }
 #kb-secondary-nav .site-header-nav ul { flex-wrap: nowrap; white-space: nowrap; }
+/* Collapsed menu: the expand button sits in the middle of the narrow rail */
+.layout-menu-collapsed #affixed-left-container { padding-inline: 0 !important; }
+.layout-menu-collapsed #kb-toc-header { justify-content: center; padding-inline: 0; }
