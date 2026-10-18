@@ -1,0 +1,7 @@
+items:
+- name: Overview
+  href: index.md
+- name: CST8913 Cloud Migration
+  items:
+  - name: Midterm review
+    href: cst8913/midterm-review.md

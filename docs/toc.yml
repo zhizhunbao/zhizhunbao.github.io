@@ -1,0 +1,13 @@
+items:
+- name: Home
+  href: index.md
+- name: Resume
+  href: resume/index.md
+- name: Projects
+  href: projects/
+- name: AI courses
+  href: ai-courses/
+- name: Cloud courses
+  href: cloud-courses/
+- name: Self-study
+  href: self-study/index.md

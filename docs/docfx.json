@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dotnet/docfx/main/schemas/docfx.schema.json",
+  "build": {
+    "content": [
+      { "files": [ "**/*.{md,yml}" ], "exclude": [ "_site/**", "templates/**" ] }
+    ],
+    "resource": [
+      { "files": [ "**/images/**", "**/media/**", "favicon.svg", "logo.svg" ], "exclude": [ "_site/**" ] }
+    ],
+    "output": "_site",
+    "template": [ "default", "modern", "templates/kb" ],
+    "globalMetadata": {
+      "_appName": "Peng Wang",
+      "_appTitle": "Peng Wang Knowledge Base",
+      "_appLogoPath": "logo.svg",
+      "_appFaviconPath": "favicon.svg",
+      "_appFooter": "Peng Wang, Ottawa. Microsoft Learn quotes are used under CC BY 4.0 with attribution.",
+      "_enableSearch": true,
+      "_disableContribution": true,
+      "pdf": false
+    },
+    "sitemap": { "baseUrl": "https://zhizhunbao.github.io" }
+  }
+}
