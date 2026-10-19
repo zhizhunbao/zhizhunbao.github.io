@@ -1,0 +1,50 @@
+# CST8913: rules and allowed topics
+
+The course slides copy official pages, sometimes old versions, sometimes with mistakes or gaps. So this folder follows **the sources the slides copied**: one page per source, not one page per week or per slide deck. This README is the contract for the folder. `build_site_pages.py` (cloud notes repo, `courses/cloud-migration-cst8913/review/midterm/`) reads it and refuses to build a page that breaks it. This README is not published (`docfx.json` excludes `**/README.md`).
+
+## Rules
+
+1. **One page per source.** Each page is one row of the table below: its file name, title (H1) and source are fixed there. `index.md` is the overview (weeks to pages); no other page is allowed.
+2. **Sections (H2) are parts of that source.** Every H2 is one of the parts listed for its page, word for word, in that order: a unit, a page or a section heading of the source. Each H2 links its part. A page may leave a part out, but may not add one.
+3. **One figure per section.** Every part section has exactly one figure, drawn by us in draw.io (no copied images, so terms can be marked).
+4. **Key terms are framed on the figure.** A term worth learning is on the figure with a thick amber frame.
+5. **The table holds only framed terms.** Each section's table lists exactly the framed terms of its figure, in figure order. A term that is not on the figure is not in the table. Each term is defined on one page only, in the first section where it is framed.
+6. **Definitions are quotes from the source** (or another official page), with an in-text citation linked to the section and paragraph. Where no official text exists: my own words, marked "My own words".
+7. **Each page ends with two sections:**
+   - **Also in the source**: points the source makes that the slides leave out, in my own words, each linked to its section.
+   - **Corrections**: where the slides copied wrong or the source has changed since, with the source's exact words and a link.
+8. **Nothing from the slides or labs is published**: no slide text, no lab questions, no lab answers.
+
+## Pages
+
+| File | Title (H1) | Source | Version used | Weeks |
+|---|---|---|---|---|
+| `describe-cloud-computing.md` | Describe cloud computing | [Microsoft Learn module (AZ-900)](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/) | 2025-01-08 web archive (the slides copy it); live page for changes | 2 |
+| `describe-cloud-service-types.md` | Describe cloud service types | [Microsoft Learn module (AZ-900)](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/) | 2025-01-08 web archive; live page for changes | 2, 3 |
+| `cloud-adoption-framework-for-azure.md` | Cloud Adoption Framework for Azure | [Microsoft Learn documentation set](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) | 2022 pages at commit [a5351162](https://github.com/MicrosoftDocs/cloud-adoption-framework/tree/a5351162040659171fbb4f5674ce36ac9259deb3/docs); live pages for changes | 2, 3 |
+| `windows-n-tier-application-on-azure.md` | Windows N-tier application on Azure | [Azure Architecture Center (retired October 2023)](https://github.com/MicrosoftDocs/architecture-center/blob/b739942a2cf3c49b448970e9dc5c0783cc028dca/docs/reference-architectures/n-tier/n-tier-sql-server-content.md) | commit b739942a | 3 |
+| `what-is-azure-migrate.md` | What is Azure Migrate? | [Azure Migrate documentation](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview) | live | 2, 4 |
+| `prepare-for-cloud-adoption-with-a-data-driven-plan.md` | Prepare for cloud adoption with a data-driven plan | [Microsoft Learn module (retired)](https://web.archive.org/web/20220804114917/https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-plan/4-exercise-digital-estate-assessment) | 2022-08-04 web archive | 4 |
+| `overview-of-application-migration-examples-for-azure.md` | Overview of application migration examples for Azure | [Cloud Adoption Framework, migration examples (retired)](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/cb2149769f66/docs/migrate/azure-best-practices/contoso-migration-overview.md) | 2019 page at commit cb2149769f66 | 5, 6 |
+| `migrate-an-on-premises-web-application-to-azure-app-service.md` | Migrate an on-premises web application to Azure App Service | [Microsoft Learn module (retired)](https://web.archive.org/web/20221202123525/https://learn.microsoft.com/en-us/training/modules/migrate-app-service-migration-assistant/3-understand-assessment) | 2022-12 web archive | 6 |
+| `what-is-azure-vmware-solution.md` | What is Azure VMware Solution? | [Azure VMware Solution documentation](https://learn.microsoft.com/en-us/azure/azure-vmware/introduction) | live | 5 |
+| `pro-git-getting-started.md` | Pro Git: getting started | [Scott Chacon and Ben Straub, Pro Git, 2nd edition](https://git-scm.com/book/en/v2) | live | 1 |
+| `github-docs-collaborating.md` | GitHub Docs: collaborating with pull requests | [GitHub Docs](https://docs.github.com/en/pull-requests) | live | 1 |
+
+## Parts allowed per page
+
+| File | Parts (H2), in this order |
+|---|---|
+| `describe-cloud-computing.md` | What is cloud computing; Describe the shared responsibility model; Define cloud models; Describe the consumption-based model |
+| `describe-cloud-service-types.md` | Describe Infrastructure as a Service; Describe Platform as a Service; Describe Software as a Service |
+| `cloud-adoption-framework-for-azure.md` | Cloud Adoption Framework overview; Develop a cloud adoption strategy; Build a digital transformation timeline; Cloud rationalization; Select your cloud migration strategies; Align responsibilities across teams; Azure landing zones |
+| `windows-n-tier-application-on-azure.md` | Architecture; Networking and load balancing; Availability |
+| `what-is-azure-migrate.md` | Decide, plan, execute |
+| `prepare-for-cloud-adoption-with-a-data-driven-plan.md` | Evaluate the digital estate; Readiness and suitability analysis; Prioritize workloads and finalize the migration plan |
+| `overview-of-application-migration-examples-for-azure.md` | Rehost; Refactor |
+| `migrate-an-on-premises-web-application-to-azure-app-service.md` | Assess a web app with the Azure App Service Migration Assistant; Migrate a web app with the Azure App Service Migration Assistant |
+| `what-is-azure-vmware-solution.md` | Private clouds, clusters and hosts |
+| `pro-git-getting-started.md` | What is Git? |
+| `github-docs-collaborating.md` | About pull requests and forks |
+
+The sources were traced slide by slide on 2026-10-19; the evidence is in `review/midterm/sources/*.json` in the cloud notes repo (source per slide, gaps, corrections).

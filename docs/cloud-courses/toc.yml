@@ -15,7 +15,27 @@ items:
       href: cst8912/presentations/cloud-based-job-search-and-analytics-platform.md
 - name: CST8913 Cloud Migration
   items:
-  - name: Review
-    items:
-    - name: Cloud migration concepts (midterm, weeks 1 to 6)
-      href: cst8913/review/cloud-migration-concepts.md
+  - name: "Overview (midterm, weeks 1 to 6)"
+    href: cst8913/index.md
+  - name: "Pro Git: getting started (week 1)"
+    href: cst8913/pro-git-getting-started.md
+  - name: "GitHub Docs: collaborating with pull requests (week 1)"
+    href: cst8913/github-docs-collaborating.md
+  - name: "Describe cloud computing (week 2)"
+    href: cst8913/describe-cloud-computing.md
+  - name: "Describe cloud service types (weeks 2 and 3)"
+    href: cst8913/describe-cloud-service-types.md
+  - name: "Cloud Adoption Framework for Azure (weeks 2 and 3)"
+    href: cst8913/cloud-adoption-framework-for-azure.md
+  - name: "What is Azure Migrate? (weeks 2 and 4)"
+    href: cst8913/what-is-azure-migrate.md
+  - name: "Windows N-tier application on Azure (week 3)"
+    href: cst8913/windows-n-tier-application-on-azure.md
+  - name: "Prepare for cloud adoption with a data-driven plan (week 4)"
+    href: cst8913/prepare-for-cloud-adoption-with-a-data-driven-plan.md
+  - name: "Overview of application migration examples for Azure (weeks 5 and 6)"
+    href: cst8913/overview-of-application-migration-examples-for-azure.md
+  - name: "What is Azure VMware Solution? (week 5)"
+    href: cst8913/what-is-azure-vmware-solution.md
+  - name: "Migrate an on-premises web application to Azure App Service (week 6)"
+    href: cst8913/migrate-an-on-premises-web-application-to-azure-app-service.md
