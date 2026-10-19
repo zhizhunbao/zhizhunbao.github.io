@@ -16,8 +16,6 @@ ms.date: 2026-10-18
 | Research topic | Cloud-Based Job Search and Analytics Platform (approved by email in September) |
 | Use case | Our job platform (offer2pr), moved to Microsoft Azure |
 
-**Presenters:** not chosen yet; 10 slides, two per speaker.
-
 | # | Slide | Presenter | Handout deliverable |
 |---|---|---|---|
 | 1 | Cloud-Based Job Search and Analytics Platform | | Introductory slide with topic and presenters |
@@ -33,8 +31,6 @@ ms.date: 2026-10-18
 
 ## Slide 1: Cloud-Based Job Search and Analytics Platform
 
-**Presenter:**
-
 **On the slide**
 
 > Cloud-Based Job Search and Analytics Platform
@@ -43,8 +39,6 @@ ms.date: 2026-10-18
 >
 > Group 1: David, Lannie, Naol, Frank, Tao
 
-**Figure:** `media/fig_title.png` (our job search page on offer2pr.com), faded as the background.
-
 ![Title background](media/fig_title.png)
 
 **Speaker notes**
@@ -52,8 +46,6 @@ ms.date: 2026-10-18
 Hi, we are Group 1. Our topic is a cloud-based job search and analytics platform on Azure. Our use case is a real job platform one of us runs today. We will show the architecture, our service choices, the main challenges and what we learned.
 
 ## Slide 2: Research Progress
-
-**Presenter:** Hye Ran Yoo
 
 **On the slide**
 
@@ -70,8 +62,6 @@ Since our topic was approved, we mapped the old system, surveyed the Canadian jo
 After the break we research AI in jobs: AI search, résumé matching, AI career agents, public case studies and AI cost. We end with a proof of concept on Azure.
 
 ## Slide 3: Today's System
-
-**Presenter:**
 
 **On the slide**
 
@@ -91,8 +81,6 @@ If that one site goes down, data collection stops. That is the main reason to mo
 
 ## Slide 4: Cloud Architecture and Services
 
-**Presenter:**
-
 **On the slide**
 
 > Managed Azure services in Canada Central: serve, store, collect and process.
@@ -110,8 +98,6 @@ Scheduled tasks collect jobs, save them to Blob Storage, use Foundry and Documen
 Everything is managed, so we run no servers.
 
 ## Slide 5: Service Recommendation: Cost and Performance
-
-**Presenter:**
 
 **On the slide**
 
@@ -151,8 +137,6 @@ Edge: Front Door, 42 dollars, firewall and CDN together.
 We picked the managed option that fits at the lowest cost.
 
 ## Slide 6: Components in Every Phase
-
-**Presenter:**
 
 **On the slide**
 
@@ -195,8 +179,6 @@ AI plugs into three phases: an agent to collect, Foundry Models and Document Int
 
 ## Slide 7: Key Challenges
 
-**Presenter:** Hye Ran Yoo
-
 **On the slide**
 
 > Fragmented sources, incomplete data, blocked collection, security.
@@ -216,8 +198,6 @@ Blocked collection: sites block cloud IPs and limit robots, so we crawl slowly a
 Security: we store personal data, so we use a firewall, a private database and Key Vault.
 
 ## Slide 8: Lessons Learned
-
-**Presenter:**
 
 **On the slide**
 
@@ -241,13 +221,9 @@ Three: move when the business needs it. The hardware is paid for, so staying cos
 
 ## Slide 9: Quiz
 
-**Presenter:**
-
 **On the slide**
 
 > Quiz time! Join on Kahoot.
-
-**Figure:** Kahoot join screen with QR code.
 
 **Kahoot:** [CST8912 Group 1 Quiz](https://create.kahoot.it/details/cst8912-group-1-quiz/1b5add03-e8b6-492f-9e3e-ae3a23de1ea8) (private; open it while signed in and choose Host live to show the game PIN and QR code)
 
@@ -266,12 +242,6 @@ Three: move when the business needs it. The hardware is paid for, so staying cos
 Let's check what you remember. Please open Kahoot and enter the code on the screen. There are seven questions, one for each slide, about 20 seconds each.
 
 ## Slide 10: Bibliography
-
-**Presenter:**
-
-**On the slide:** the reference list below (smaller font allowed on this slide).
-
-**Figure:** small `media/fig_phases.png` in a corner (one image per slide).
 
 Mell, P., & Grance, T. (2011). *The NIST definition of cloud computing* (NIST Special Publication 800-145). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-145
 
