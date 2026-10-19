@@ -1,3 +1,3 @@
 ---
-redirect_url: review/cloud-migration-concepts.html
+redirect_url: index.html
 ---
