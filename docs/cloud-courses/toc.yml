@@ -17,25 +17,25 @@ items:
   items:
   - name: "Overview (midterm, weeks 1 to 6)"
     href: cst8913/index.md
-  - name: "Pro Git: getting started (week 1)"
+  - name: "1. Pro Git: getting started (week 1)"
     href: cst8913/pro-git-getting-started.md
-  - name: "GitHub Docs: collaborating with pull requests (week 1)"
+  - name: "2. GitHub Docs: collaborating with pull requests (week 1)"
     href: cst8913/github-docs-collaborating.md
-  - name: "Describe cloud computing (week 2)"
+  - name: "3. Describe cloud computing (week 2)"
     href: cst8913/describe-cloud-computing.md
-  - name: "Describe cloud service types (weeks 2 and 3)"
+  - name: "4. Describe cloud service types (weeks 2 and 3)"
     href: cst8913/describe-cloud-service-types.md
-  - name: "Cloud Adoption Framework for Azure (weeks 2 and 3)"
+  - name: "5. Cloud Adoption Framework for Azure (weeks 2 and 3)"
     href: cst8913/cloud-adoption-framework-for-azure.md
-  - name: "What is Azure Migrate? (weeks 2 and 4)"
+  - name: "6. What is Azure Migrate? (weeks 2 and 4)"
     href: cst8913/what-is-azure-migrate.md
-  - name: "Windows N-tier application on Azure (week 3)"
+  - name: "7. Windows N-tier application on Azure (week 3)"
     href: cst8913/windows-n-tier-application-on-azure.md
-  - name: "Prepare for cloud adoption with a data-driven plan (week 4)"
+  - name: "8. Prepare for cloud adoption with a data-driven plan (week 4)"
     href: cst8913/prepare-for-cloud-adoption-with-a-data-driven-plan.md
-  - name: "Overview of application migration examples for Azure (weeks 5 and 6)"
+  - name: "9. Overview of application migration examples for Azure (weeks 5 and 6)"
     href: cst8913/overview-of-application-migration-examples-for-azure.md
-  - name: "What is Azure VMware Solution? (week 5)"
+  - name: "10. What is Azure VMware Solution? (week 5)"
     href: cst8913/what-is-azure-vmware-solution.md
-  - name: "Migrate an on-premises web application to Azure App Service (week 6)"
+  - name: "11. Migrate an on-premises web application to Azure App Service (week 6)"
     href: cst8913/migrate-an-on-premises-web-application-to-azure-app-service.md
