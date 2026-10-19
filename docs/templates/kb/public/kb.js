@@ -422,7 +422,7 @@ function inPlace() {
   })
 }
 
-// The wheel scrolls what is under the pointer: the menu or the outline while it overflows, the page otherwise
+// The wheel scrolls what is under the pointer: over the menu or the outline only that rail moves, over the article the page
 function wheelScope() {
   const rails = ['affixed-left-container', 'affixed-right-container'].map((id) => document.getElementById(id)).filter(Boolean)
   // a rail ends at the bottom of the window: below the header at the top of the page, full height once the header scrolls away
@@ -430,10 +430,13 @@ function wheelScope() {
   addEventListener('scroll', fit, { passive: true })
   addEventListener('resize', fit)
   fit()
-  for (const rail of rails) {
-    rail.addEventListener('wheel', (e) => {
-      if (e.ctrlKey || rail.scrollHeight <= rail.clientHeight + 1) return // nothing to scroll here: the page scrolls
-      e.preventDefault()
+  // the whole side column listens, including the empty space under a short rail
+  for (const [col, rail] of [['layout-body-menu', rails[0]], ['layout-body-aside', rails[1]]]) {
+    const el = document.getElementById(col)
+    if (!el || !rail) continue
+    el.addEventListener('wheel', (e) => {
+      if (e.ctrlKey) return // ctrl + wheel zooms the page
+      e.preventDefault() // the pointer is on a side column: only its rail moves, the article stays put (even when the rail fits)
       const unit = e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? rail.clientHeight : 1
       rail.scrollTop += e.deltaY * unit
     }, { passive: false })
