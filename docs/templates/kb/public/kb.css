@@ -182,3 +182,6 @@ html.layout { --layout-menu-expanded-target-width: 275px !important; --layout-as
 #footer .links a { color: var(--theme-text); text-decoration: none; }
 #footer .links a:hover { text-decoration: underline; }
 .kb-ext { display: inline-flex; margin-inline-start: 3px; vertical-align: -1px; }
+
+/* Short pages: the page fills the window so the footer sits at the bottom (the content row is 1fr in Atlas's grid) */
+body.layout-body { min-height: 100vh; min-height: 100dvh; }
