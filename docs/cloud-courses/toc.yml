@@ -89,3 +89,9 @@ items:
       href: cst8914/lectures/forms-tutorial.md
     - name: "8. Understanding WCAG 2.2"
       href: cst8914/lectures/understanding-wcag-2-2.md
+  - name: Labs
+    items:
+    - name: "Semantic markup (lab 6)"
+      href: cst8914/labs/semantic-markup.md
+    - name: "Keyboard accessibility and accessible web forms (lab 7)"
+      href: cst8914/labs/keyboard-accessibility-and-accessible-web-forms.md
