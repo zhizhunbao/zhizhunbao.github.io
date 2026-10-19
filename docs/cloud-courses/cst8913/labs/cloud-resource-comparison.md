@@ -8,6 +8,11 @@ ms.date: 2026-10-19
 
 Lab 6 of CST8913 Cloud Migration (week 6): match the same kind of resource (compute, storage, databases, networking, identity, monitoring) across AWS, Azure and Google Cloud. Each section asks one question about a concept the lab needs and answers it with what I wrote in my lab.
 
+## Concepts to understand
+
+- service types
+- each provider's name for the same service
+
 ## 1. Which service models do AWS, Azure and Google Cloud all offer?
 
 - All three offer the same service models: virtual machines (row 1), PaaS app hosting (row 11), serverless functions (row 4), and managed Kubernetes (row 9).

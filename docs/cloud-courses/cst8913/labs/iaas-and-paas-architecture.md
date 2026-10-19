@@ -8,6 +8,18 @@ ms.date: 2026-10-19
 
 Lab 3 of CST8913 Cloud Migration (week 3): design the same application once on IaaS and once on PaaS, and say when each fits. Each section asks one question about a concept the lab needs and answers it with what I wrote in my lab.
 
+## Concepts to understand
+
+- IaaS
+- PaaS
+- SaaS
+- shared responsibility
+- VNet
+- subnet
+- NSG
+- load balancer
+- availability zone
+
 ## 1. How would you deploy a three-tier web application on IaaS?
 
 ![IaaS target architecture: a public IP on the active HAProxy VM receives HTTPS requests and spreads them across two Nginx web VMs, which forward /api requests to an internal HAProxy load balancer and on to two Flask VMs; the Flask VMs use a PostgreSQL primary VM that replicates to a standby; jumpbox, monitoring, NAT, and backup VMs sit in a management subnet; every tier has its own subnet and two VMs in different availability zones](media/lab3-diagrams-iaas-architecture.png)
