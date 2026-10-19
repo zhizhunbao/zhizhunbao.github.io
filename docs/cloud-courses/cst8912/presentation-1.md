@@ -1,7 +1,7 @@
 ---
 title: "Presentation 1: Cloud-Based Job Search and Analytics Platform"
 description: "CST8912 group presentation: moving a Canadian job search and analytics platform to Microsoft Azure."
-ms.date: 2026-10-16
+ms.date: 2026-10-18
 ---
 
 # Group Presentation 1: Cloud-Based Job Search and Analytics Platform
@@ -248,6 +248,8 @@ Three: move when the business needs it. The hardware is paid for, so staying cos
 > Quiz time! Join on Kahoot.
 
 **Figure:** Kahoot join screen with QR code.
+
+**Kahoot:** [CST8912 Group 1 Quiz](https://create.kahoot.it/details/cst8912-group-1-quiz/1b5add03-e8b6-492f-9e3e-ae3a23de1ea8) (private; open it while signed in and choose Host live to show the game PIN and QR code)
 
 | # | Slide | Question | Choices | Answer |
 |---|---|---|---|---|
