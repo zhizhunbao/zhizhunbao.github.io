@@ -24,8 +24,8 @@ Study notes for CST8913 Cloud Migration (Algonquin College, Fall 2026), weeks 1 
 | Week | Lab | Concepts to understand |
 |---|---|---|
 | 1 | [Git, GitHub and Markdown](labs/git-github-and-markdown.md) | working tree, staging area, commit, push, branch, pull request, merge |
-| 2 | [Levi Strauss & Co. migration case study](labs/levi-strauss-co-migration-case-study.md) | cloud models, service types, motivations, the five Rs, RACI matrix |
-| 3 | [IaaS and PaaS architecture](labs/iaas-and-paas-architecture.md) | IaaS, PaaS, SaaS, shared responsibility, VNet, subnet, NSG, load balancer, availability zone |
+| 2 | [Levi Strauss & Co. migration case study](labs/levi-strauss-co-migration-case-study.md) | motivations, the five Rs, RACI matrix |
+| 3 | [IaaS and PaaS architecture](labs/iaas-and-paas-architecture.md) | IaaS, PaaS, shared responsibility, VNet, subnet, NSG, load balancer, availability zone |
 | 4 | [Discovery and assessment](labs/discovery-and-assessment.md) | digital estate, Azure Migrate, appliance, dependency analysis, readiness, sizing, cost estimate, migration wave |
-| 5 | [Rehosting to Azure](labs/rehosting-to-azure.md) | rehost, lift and shift, replication, test migration, cutover |
+| 5 | [Rehosting to Azure](labs/rehosting-to-azure.md) | rehost, lift and shift, test migration, cutover |
 | 6 | [Cloud resource comparison](labs/cloud-resource-comparison.md) | service types, each provider's name for the same service |
