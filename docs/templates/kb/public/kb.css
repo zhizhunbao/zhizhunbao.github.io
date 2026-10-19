@@ -168,3 +168,21 @@ html.layout.layout-menu-collapsed { --layout-menu-spacer-width: 0px !important; 
 /* Side rails stay at 275px on wide screens (Atlas widens them to 320px and 450px); the extra width goes to the article */
 html.layout { --layout-menu-expanded-target-width: 275px !important; --layout-aside-expanded-target-width: 275px !important; }
 @media (max-width: 767.98px) { #main .reading-width { padding-inline: 16px; } }
+
+/* "In this article": H3 entries indented under their H2 */
+/* two levels: themes (H2) at the left in the text colour, sub-topics (H3) indented 16px, smaller and grey */
+.doc-outline li.kb-outline-h3 { margin-inline-start: 16px !important; margin-block: 2px; font-size: 13px; }
+.doc-outline li:not(.kb-outline-h3) { margin-top: 12px; }
+.doc-outline li:not(.kb-outline-h3):first-child { margin-top: 4px; }
+.doc-outline li:not(.kb-outline-h3) > a.color-text-subtle { color: var(--theme-text) !important; }
+#affixed-right-container { max-height: calc(100vh - 16px); }
+
+/* Footer, as on Learn: a control row (Theme), then a row of 14px links with 24px gaps */
+#footer .kb-theme-button { font-size: 14px; font-weight: 600; gap: 4px; }
+#footer .links { display: flex; flex-wrap: wrap; list-style: none; margin: 16px 0 0; padding: 0; font-size: 14px; }
+#footer .links li { margin: 4px 24px 0 0; }
+#footer .links a { color: var(--theme-text); text-decoration: none; }
+#footer .links a:hover { text-decoration: underline; }
+.kb-ext { display: inline-flex; margin-inline-start: 3px; vertical-align: -1px; }
+/* APA reference list: hanging indent */
+.heading-wrapper:has(#references) ~ p { padding-inline-start: 2em; text-indent: -2em; overflow-wrap: anywhere; }

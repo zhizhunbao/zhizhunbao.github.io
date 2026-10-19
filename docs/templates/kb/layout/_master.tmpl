@@ -131,11 +131,12 @@
 
     <div class="layout-body-footer">
       <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
-        <div class="display-flex flex-wrap-wrap gap-xs align-items-center justify-content-space-between">
-          <div class="kb-theme position-relative">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
             <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
-              <span class="icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zm0 1v12A6 6 0 0 1 8 2z"/></svg></span>
+              <span class="icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"/></svg></span>
               <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"/></svg></span>
             </button>
             <ul class="kb-theme-menu" hidden>
               <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
@@ -143,8 +144,15 @@
               <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
             </ul>
           </div>
-          <div class="font-size-sm">{{{_appFooter}}}</div>
         </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewBox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"/></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewBox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"/></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewBox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"/></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewBox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"/></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
       </footer>
     </div>
   </body>

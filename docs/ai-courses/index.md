@@ -17,6 +17,3 @@ AI Software Development (Graduate Certificate), Algonquin College, September 202
 | CST8507 | Natural Language Processing |
 | CST8508 | Machine Vision |
 | CST8509 | Reinforcement Learning |
-
-> [!NOTE]
-> Course notes will be added one course at a time.

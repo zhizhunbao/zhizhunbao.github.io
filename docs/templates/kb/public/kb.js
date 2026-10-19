@@ -161,7 +161,8 @@ function breadcrumbs(section, current) {
 
 // ---------- In this article ----------
 function outline() {
-  const heads = [...document.querySelectorAll('.content h2[id]')]
+  // H2 and H3, unlike Learn (H2 only): this site's long review pages need the sub-topics in the rail
+  const heads = [...document.querySelectorAll('.content h2[id], .content h3[id]')]
   if (!heads.length) return
   const lists = [['side-doc-outline', 'kb-outline'], ['center-doc-outline', 'kb-center-outline']]
   const rows = []
@@ -169,7 +170,7 @@ function outline() {
     const ol = document.getElementById(listId)
     for (const h of heads) {
       const a = el('a', { class: 'color-text-subtle', href: `#${h.id}`, text: h.textContent.trim() })
-      const li = el('li', { class: 'border-left-md padding-left-xxs border-color-transparent' }, a)
+      const li = el('li', { class: `border-left-md padding-left-xxs border-color-transparent${h.tagName === 'H3' ? ' kb-outline-h3' : ''}` }, a)
       ol.append(li)
       if (listId === 'kb-outline') rows.push([h, li, a])
     }
