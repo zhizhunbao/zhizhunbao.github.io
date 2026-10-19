@@ -424,9 +424,13 @@ function inPlace() {
 
 // The wheel scrolls what is under the pointer: the menu or the outline while it overflows, the page otherwise
 function wheelScope() {
-  for (const id of ['affixed-left-container', 'affixed-right-container']) {
-    const rail = document.getElementById(id)
-    if (!rail) continue
+  const rails = ['affixed-left-container', 'affixed-right-container'].map((id) => document.getElementById(id)).filter(Boolean)
+  // a rail ends at the bottom of the window: below the header at the top of the page, full height once the header scrolls away
+  const fit = () => { for (const r of rails) r.style.maxHeight = `${innerHeight - Math.max(0, r.getBoundingClientRect().top)}px` }
+  addEventListener('scroll', fit, { passive: true })
+  addEventListener('resize', fit)
+  fit()
+  for (const rail of rails) {
     rail.addEventListener('wheel', (e) => {
       if (e.ctrlKey || rail.scrollHeight <= rail.clientHeight + 1) return // nothing to scroll here: the page scrolls
       e.preventDefault()
