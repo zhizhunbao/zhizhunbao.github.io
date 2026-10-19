@@ -305,7 +305,45 @@ function newTabs() {
   document.addEventListener('auxclick', (e) => { const a = e.target.closest('a[href]'); if (a) mark(a) }, true)
 }
 
+// The menu's right edge can be dragged to set its width (200 to 600 px); the width is remembered, double-click resets it
+function resizeMenu() {
+  const KEY = 'kb-toc-width', MIN = 200, MAX = 600, DEFAULT = 275
+  const root = document.documentElement
+  const set = (w) => root.style.setProperty('--layout-menu-expanded-target-width', `${w}px`, 'important')
+  try { const w = Number(localStorage.getItem(KEY)); if (w >= MIN && w <= MAX) set(w) } catch {}
+  const left = document.getElementById('left-container')
+  if (!left) return
+  const handle = document.createElement('div')
+  handle.className = 'kb-resize'
+  handle.setAttribute('role', 'separator')
+  handle.setAttribute('aria-orientation', 'vertical')
+  handle.setAttribute('aria-label', 'Resize menu')
+  handle.title = 'Drag to resize, double-click to reset'
+  left.append(handle)
+  let width = null
+  const move = (e) => {
+    width = Math.round(Math.min(MAX, Math.max(MIN, e.clientX - left.getBoundingClientRect().left)))
+    set(width)
+  }
+  const stop = () => {
+    root.classList.remove('kb-resizing')
+    document.removeEventListener('pointermove', move)
+    if (width) try { localStorage.setItem(KEY, String(width)) } catch {}
+  }
+  handle.addEventListener('pointerdown', (e) => {
+    e.preventDefault()
+    root.classList.add('kb-resizing')
+    document.addEventListener('pointermove', move)
+    document.addEventListener('pointerup', stop, { once: true })
+  })
+  handle.addEventListener('dblclick', () => {
+    set(DEFAULT)
+    try { localStorage.removeItem(KEY) } catch {}
+  })
+}
+
 async function main() {
+  resizeMenu()
   newTabs()
   content()
   theme()
