@@ -155,8 +155,8 @@ function breadcrumbs(section, current) {
   for (const p of current ? current.parents : []) crumbs.push({ name: p.name, url: firstUrl(p) })
   const seen = new Set()
   for (const c of crumbs) {
-    const key = c.url?.pathname
-    if (seen.has(key) && c.url) continue
+    const key = c.name // every level shows, even when a group opens the same page as its parent
+    if (seen.has(key)) continue
     seen.add(key)
     ol.append(el('li', { class: 'breadcrumbs-item' }, c.url ? el('a', { href: c.url.href, text: c.name }) : el('span', { text: c.name })))
   }
