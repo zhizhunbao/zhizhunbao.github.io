@@ -93,3 +93,7 @@ items:
       href: cst8914/labs/semantic-markup.md
     - name: "Keyboard accessibility and accessible web forms (lab 7)"
       href: cst8914/labs/keyboard-accessibility-and-accessible-web-forms.md
+  - name: Assignments
+    items:
+    - name: "Audit against WCAG (assignment 2)"
+      href: cst8914/assignments/audit-against-wcag.md

@@ -18,3 +18,9 @@ Study notes for CST8914 Accessible by Design (Algonquin College, Fall 2026). The
 |---|---|---|
 | 7 | [Semantic markup (lab 6)](labs/semantic-markup.md) | page title, page regions and landmarks, a unique label for each repeated region, page language, an accessible name for an icon, native HTML before ARIA, no repeated semantics, heading levels, sections, articles and lists, a data table with id and headers, text alternatives for images |
 | 7 | [Keyboard accessibility and accessible web forms (lab 7)](labs/keyboard-accessibility-and-accessible-web-forms.md) | every control reachable and operable with the keyboard, a logical focus order, a visible focus indicator, labels for form controls, grouping related controls, required fields shown in text, in-line instructions, error and success notification, moving focus to the errors after submit |
+
+## Assignments
+
+| Week given | Assignment | Covers |
+|---|---|---|
+| 7 | [Audit against WCAG (assignment 2)](assignments/audit-against-wcag.md) | 34 WCAG success criteria, levels A and AA |
