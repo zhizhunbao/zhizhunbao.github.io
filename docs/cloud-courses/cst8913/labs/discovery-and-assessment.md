@@ -8,6 +8,17 @@ ms.date: 2026-10-19
 
 Lab 4 of CST8913 Cloud Migration (week 4): list the digital estate, choose how to discover it, map dependencies, check readiness, size and cost it, then prioritize and plan the migration. Each section asks one question about a concept the lab needs and answers it with what I wrote in my lab.
 
+## Concepts to understand
+
+- digital estate
+- Azure Migrate
+- appliance
+- dependency analysis
+- readiness
+- sizing
+- cost estimate
+- migration wave
+
 ## 1. What is the digital estate?
 
 The digital estate is everything IT runs today: servers, applications, data, and the connections between them. Here it is the five servers above and the applications and data on them.

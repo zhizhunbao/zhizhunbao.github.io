@@ -8,6 +8,14 @@ ms.date: 2026-10-19
 
 Lab 2 of CST8913 Cloud Migration (week 2): explain why a company moves to the cloud, choose a migration approach per workload, and decide who is responsible for what. Each section asks one question about a concept the lab needs and answers it with what I wrote in my lab.
 
+## Concepts to understand
+
+- cloud models
+- service types
+- motivations
+- the five Rs
+- RACI matrix
+
 ## 1. What motivated Levi Strauss & Co. to move to the cloud?
 
 - **New business model.** Moving from wholesale to direct-to-consumer (DTC), with a goal of becoming a USD 10 billion DTC brand, requires speed, automation, and data.

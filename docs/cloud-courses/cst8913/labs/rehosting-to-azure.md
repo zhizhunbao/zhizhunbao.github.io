@@ -8,6 +8,14 @@ ms.date: 2026-10-19
 
 Lab 5 of CST8913 Cloud Migration (week 5): state the business drivers and the migration strategy, draw the target architecture, and plan the migration and its validation. Each section asks one question about a concept the lab needs and answers it with what I wrote in my lab.
 
+## Concepts to understand
+
+- rehost
+- lift and shift
+- replication
+- test migration
+- cutover
+
 ## 1. Why did the organization move to the cloud?
 
 1. **Aging on-premises infrastructure (F1, F2).** Over 400 servers and 200 applications built up over 45 years were costly to modernize, and the old technology made it hard to hire and keep IT staff.

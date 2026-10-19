@@ -8,6 +8,16 @@ ms.date: 2026-10-19
 
 Lab 1 of CST8913 Cloud Migration (week 1): create a private repository, work on a branch, commit, push, open a pull request and write Markdown. Each section asks one question about a concept the lab needs and answers it with what I wrote in my lab.
 
+## Concepts to understand
+
+- working tree
+- staging area
+- commit
+- push
+- branch
+- pull request
+- merge
+
 ## 1. What is the difference between Git and GitHub?
 
 **Git** is a distributed version-control system. It runs on my own computer and records the history of a project as a series of commits, so I can see what changed, when it changed, and go back to any earlier state. Because every clone contains the full history, Git keeps working without a network connection.
