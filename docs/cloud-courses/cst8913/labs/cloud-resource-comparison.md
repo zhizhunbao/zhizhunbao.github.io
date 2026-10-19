@@ -6,20 +6,27 @@ ms.date: 2026-10-19
 
 # Cloud resource comparison
 
-Lab 6 of CST8913 Cloud Migration (week 6): match the same kind of resource (compute, storage, databases, networking, identity, monitoring) across AWS, Azure and Google Cloud. Each section asks one question about a concept the lab needs and answers it with what I wrote in my lab.
+Lab 6 of CST8913 Cloud Migration (week 6): match the same kind of resource (compute, storage, databases, networking, identity, monitoring) across AWS, Azure and Google Cloud. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
 ## Concepts to understand
 
-- service types
-- each provider's name for the same service
+1. [service models](#1-service-models)
+2. [each provider's name for the same service](#2-each-providers-name-for-the-same-service)
+3. [similarities and differences](#3-similarities-and-differences)
+4. [unique capabilities](#4-unique-capabilities)
+5. [naming conventions](#5-naming-conventions)
 
-## 1. Which service models do AWS, Azure and Google Cloud all offer?
+## 1. Service models
+
+### Which service models do AWS, Azure and Google Cloud all offer?
 
 - All three offer the same service models: virtual machines (row 1), PaaS app hosting (row 11), serverless functions (row 4), and managed Kubernetes (row 9).
 
 Explained in [4. Describe cloud service types](../lectures/describe-cloud-service-types.md).
 
-## 2. What is each provider's name for the same kind of service (compute, storage, databases, networking, identity, monitoring and more)?
+## 2. Each provider's name for the same service
+
+### What is each provider's name for the same kind of service (compute, storage, databases, networking, identity, monitoring and more)?
 
 | # | Description | AWS (Service Name) | Azure (Service Name) | Google Cloud (Service Name) |
 |---|---|---|---|---|
@@ -56,7 +63,9 @@ Explained in [4. Describe cloud service types](../lectures/describe-cloud-servic
 
 Explained in [4. Describe cloud service types](../lectures/describe-cloud-service-types.md).
 
-## 3. What are the key similarities and differences between equivalent services across the three providers?
+## 3. Similarities and differences
+
+### What are the key similarities and differences between equivalent services across the three providers?
 
 Similarities:
 
@@ -73,14 +82,18 @@ Differences:
 
 Explained in [4. Describe cloud service types](../lectures/describe-cloud-service-types.md).
 
-## 4. Which services offer capabilities their counterparts lack?
+## 4. Unique capabilities
+
+### Which services offer capabilities their counterparts lack?
 
 - Azure Event Hubs has built-in Apache Kafka compatibility, so existing Kafka workloads run without code changes (row 17).
 - AWS Step Functions can call over 9,000 API actions across more than 200 AWS services (row 19).
 - Amazon WorkSpaces offers two modes: Personal for persistent desktops and Pools for non-persistent desktops (row 25).
 - AWS has a separate file service for Windows, Amazon FSx for Windows File Server, with SMB and Active Directory support (row 28).
 
-## 5. How do the providers' naming conventions differ?
+## 5. Naming conventions
+
+### How do the providers' naming conventions differ?
 
 - AWS uses brand names and acronyms, such as EC2, S3, Route 53, and Redshift, so many names do not describe the job.
 - Azure uses descriptive names, usually "Azure" plus the function, such as Azure Virtual Machines, Azure Files, and Azure Backup.
