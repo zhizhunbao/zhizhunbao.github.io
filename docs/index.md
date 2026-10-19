@@ -10,8 +10,6 @@ ms.date: 2026-10-18
 
 I started as a Java developer, then spent seven years architecting, building and running a big data platform that handled over a billion smart-TV records a day. Now I build and operate AI agents: [offer2pr.com](https://offer2pr.com) is written with coding agents behind my own guardrails and runs about 60 containers in production. I am studying Cloud Development and Operations at Algonquin College in Ottawa.
 
-This site is my knowledge base. Every page is a Markdown file in a GitHub repository, built with DocFX, the same tool that builds Microsoft Learn.
-
 ## What is here
 
 - [Resume](resume/index.md): my experience, education and skills.
