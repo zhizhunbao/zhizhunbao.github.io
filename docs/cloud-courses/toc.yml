@@ -3,13 +3,19 @@ items:
   href: index.md
 - name: CST8912 Cloud Solution Architecture
   items:
-  - name: Week 1 glossary
-    href: cst8912/week-01.md
-  - name: Week 2 glossary
-    href: cst8912/week-02.md
-  - name: Presentation 1
-    href: cst8912/presentation-1.md
+  - name: Glossary
+    items:
+    - name: Introduction to cloud solution architecture (week 1)
+      href: cst8912/glossary/introduction-to-cloud-solution-architecture.md
+    - name: Design a cloud compute solution (week 2)
+      href: cst8912/glossary/design-a-cloud-compute-solution.md
+  - name: Presentations
+    items:
+    - name: Cloud-based job search and analytics platform (presentation 1)
+      href: cst8912/presentations/cloud-based-job-search-and-analytics-platform.md
 - name: CST8913 Cloud Migration
   items:
-  - name: Midterm review
-    href: cst8913/midterm-review.md
+  - name: Review
+    items:
+    - name: Cloud migration concepts (midterm, weeks 1 to 6)
+      href: cst8913/review/cloud-migration-concepts.md
