@@ -159,9 +159,9 @@ body { line-height: 1.75; }
 .content table.kb-terms td:nth-child(4) { font-size: 13px; color: var(--theme-text-subtle); }
 
 /* Wider than Learn on purpose: this is a reference site read by its owner, with wide term tables.
-   The article fills the column between the menu and "In this article" (up to 1200px), and
+   The article fills the whole column between the menu and "In this article", and
    collapsing the menu gives its width to the article instead of keeping an empty spacer. */
-#main .reading-width { max-inline-size: min(100%, 1200px); padding-inline: 48px; margin-inline: 0 auto !important; }
+#main .reading-width { max-inline-size: 100%; padding-inline: 48px; margin-inline: 0 !important; }
 html.layout.layout-menu-collapsed { --layout-menu-spacer-width: 0px !important; }
 /* Side rails stay at 275px on wide screens (Atlas widens them to 320px and 450px); the extra width goes to the article */
 html.layout { --layout-menu-expanded-target-width: 275px !important; --layout-aside-expanded-target-width: 275px !important; }
