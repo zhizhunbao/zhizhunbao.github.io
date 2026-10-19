@@ -288,7 +288,21 @@ function theme() {
   })
 }
 
+// Every link opens in a new tab, except jumps within the same page (In this article, heading anchors, skip link)
+function newTabs() {
+  const mark = (a) => {
+    const url = new URL(a.href, location.href)
+    const samePage = url.origin === location.origin && url.pathname === location.pathname && url.hash
+    if (samePage || a.href.startsWith('mailto:')) return
+    a.target = '_blank'
+    a.rel = 'noopener'
+  }
+  document.addEventListener('click', (e) => { const a = e.target.closest('a[href]'); if (a) mark(a) }, true)
+  document.addEventListener('auxclick', (e) => { const a = e.target.closest('a[href]'); if (a) mark(a) }, true)
+}
+
 async function main() {
+  newTabs()
   content()
   theme()
   search()
