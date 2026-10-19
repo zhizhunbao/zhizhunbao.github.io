@@ -16,6 +16,3 @@ Cloud Development and Operations (Co-op), Algonquin College, September 2026 to p
 | CST8914 | Accessible by Design | Coming later |
 | CST8915 | Full-stack Cloud-native Development | Coming later |
 | CST8916 | Remote Data and Real-time Applications | Coming later |
-
-> [!NOTE]
-> These are my own study notes. Definitions are quoted from official documentation, mostly Microsoft Learn, with the exact section and paragraph. They contain no lecture slides, lab questions or lab answers.
