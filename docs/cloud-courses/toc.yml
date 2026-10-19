@@ -67,3 +67,25 @@ items:
       href: cst8913/labs/rehosting-to-azure.md
     - name: "Cloud resource comparison (lab 6)"
       href: cst8913/labs/cloud-resource-comparison.md
+- name: CST8914 Accessible by Design
+  items:
+  - name: Overview
+    href: cst8914/index.md
+  - name: "Week 7"
+    items:
+    - name: "Page Structure Tutorial"
+      href: cst8914/lectures/page-structure-tutorial.md
+    - name: "Tables Tutorial"
+      href: cst8914/lectures/tables-tutorial.md
+    - name: "Techniques for WCAG 2.2"
+      href: cst8914/lectures/techniques-for-wcag-2-2.md
+    - name: "Images Tutorial"
+      href: cst8914/lectures/images-tutorial.md
+    - name: "Making Audio and Video Media Accessible"
+      href: cst8914/lectures/making-audio-and-video-media-accessible.md
+    - name: "ARIA Authoring Practices Guide"
+      href: cst8914/lectures/aria-authoring-practices-guide.md
+    - name: "Forms Tutorial"
+      href: cst8914/lectures/forms-tutorial.md
+    - name: "Understanding WCAG 2.2"
+      href: cst8914/lectures/understanding-wcag-2-2.md
