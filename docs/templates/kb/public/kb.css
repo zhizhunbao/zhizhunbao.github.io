@@ -136,11 +136,9 @@ body { line-height: 1.75; }
 #center-doc-outline ol li { padding-inline-start: 16px; }
 
 /* Theme menu in the header opens downward; the current choice is bold with a check */
-.kb-theme-menu-down { top: calc(100% + 4px); bottom: auto; inset-inline-start: auto; inset-inline-end: 0; }
 .kb-theme-menu [aria-pressed="true"] { font-weight: 600; }
 .kb-theme-menu [aria-pressed="true"]::after { content: "\2713"; margin-inline-start: auto; }
 .kb-theme-menu .button { justify-content: flex-start; }
-#kb-primary-nav .kb-theme { margin-inline-start: 4px; }
 .kb-mobile-nav { list-style: none; margin: 8px 0 0; padding: 0 24px 8px 0; font-size: 14px; border-bottom: 1px solid var(--theme-border); }
 .kb-mobile-nav a { display: block; padding: 4px 0 4px 16px; border-radius: 4px; color: var(--theme-text); text-decoration: none; }
 .kb-mobile-nav a.is-selected { font-weight: 600; background: var(--theme-body-background-dark); }
