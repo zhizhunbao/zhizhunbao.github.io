@@ -185,3 +185,7 @@ html.layout { --layout-menu-expanded-target-width: 275px !important; --layout-as
 
 /* Short pages: the page fills the window so the footer sits at the bottom (the content row is 1fr in Atlas's grid) */
 body.layout-body { min-height: 100vh; min-height: 100dvh; }
+
+/* Diagrams (media/fig*.png): white card with 24px space on every side, so the drawing never touches the edge */
+.content img[src*="media/fig"] { box-sizing: border-box; padding: 24px; background: #fff; border: 1px solid var(--theme-border); border-radius: 6px; }
+@media (max-width: 767.98px) { .content img[src*="media/fig"] { padding: 12px; } }
