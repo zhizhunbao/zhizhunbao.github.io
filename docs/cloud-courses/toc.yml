@@ -5,6 +5,8 @@ items:
   items:
   - name: Week 1 glossary
     href: cst8912/week-01.md
+  - name: Week 2 glossary
+    href: cst8912/week-02.md
   - name: Presentation 1
     href: cst8912/presentation-1.md
 - name: CST8913 Cloud Migration
