@@ -5,7 +5,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 - Pages: `docs/**/*.md`, each with YAML metadata (`title`, `description`, `ms.date`).
 - Navigation: `docs/toc.yml` is the top bar; each section folder has its own `toc.yml` for the left sidebar.
 - Config: `docs/docfx.json`. Look: `docs/templates/kb/`: the page shell follows a Microsoft Learn article page (two header bars, TOC tree, breadcrumbs, In this article, Light/Dark/Auto) and is styled by the open-source Atlas Design System (`public/atlas.min.css`, MIT); `public/kb.css` holds the Learn-only bits measured from Learn, `public/kb.js` draws the navigation from DocFX toc.json and searches index.json.
-- Preview locally: `docfx docs/docfx.json --serve`, then open <http://localhost:8080>.
+- Preview locally: `python docs/templates/kb/git_times.py`, then `docfx docs/docfx.build.json --serve`, and open <http://localhost:8080>. The script writes `docs/docfx.build.json` (ignored by git): `docfx.json` plus each page's last commit time, shown as "Last updated on MM/DD/YYYY HH:MM:SS". Building `docs/docfx.json` directly still works, with the date from `ms.date` only. GitHub Actions does the same two steps.
 - Publish: push to `main`; `.github/workflows/docfx.yml` builds and deploys.
 
 ## Content rules (the site is public)
