@@ -24,7 +24,7 @@
 .kb-search-empty { padding: 6px 8px; font-size: 14px; color: var(--theme-text-subtle); }
 
 /* Left menu: TOC filter box and tree */
-#affixed-left-container { top: 0; max-height: 100vh; }
+#affixed-left-container { top: 0; max-height: 100vh; overflow-y: auto; }
 .kb-filter { position: relative; }
 .kb-filter .input { padding-inline-start: 31px; font-size: 14px; }
 .table-of-contents { font-size: 14px; line-height: 1.75; margin-top: 8px; }
