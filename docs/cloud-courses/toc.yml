@@ -73,19 +73,19 @@ items:
     href: cst8914/index.md
   - name: "Week 7"
     items:
-    - name: "Page Structure Tutorial"
+    - name: "1. Page Structure Tutorial"
       href: cst8914/lectures/page-structure-tutorial.md
-    - name: "Tables Tutorial"
+    - name: "2. Tables Tutorial"
       href: cst8914/lectures/tables-tutorial.md
-    - name: "Techniques for WCAG 2.2"
+    - name: "3. Techniques for WCAG 2.2"
       href: cst8914/lectures/techniques-for-wcag-2-2.md
-    - name: "Images Tutorial"
+    - name: "4. Images Tutorial"
       href: cst8914/lectures/images-tutorial.md
-    - name: "Making Audio and Video Media Accessible"
+    - name: "5. Making Audio and Video Media Accessible"
       href: cst8914/lectures/making-audio-and-video-media-accessible.md
-    - name: "ARIA Authoring Practices Guide"
+    - name: "6. ARIA Authoring Practices Guide"
       href: cst8914/lectures/aria-authoring-practices-guide.md
-    - name: "Forms Tutorial"
+    - name: "7. Forms Tutorial"
       href: cst8914/lectures/forms-tutorial.md
-    - name: "Understanding WCAG 2.2"
+    - name: "8. Understanding WCAG 2.2"
       href: cst8914/lectures/understanding-wcag-2-2.md
