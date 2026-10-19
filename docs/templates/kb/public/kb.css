@@ -24,7 +24,8 @@
 .kb-search-empty { padding: 6px 8px; font-size: 14px; color: var(--theme-text-subtle); }
 
 /* Left menu: TOC filter box and tree */
-#affixed-left-container { top: 0; max-height: 100vh; overflow-y: auto; }
+#affixed-left-container { top: 0; max-height: 100vh; overflow-y: auto; overscroll-behavior: contain; scrollbar-width: none; }
+#affixed-left-container::-webkit-scrollbar { display: none; }
 .kb-filter { position: relative; }
 .kb-filter .input { padding-inline-start: 31px; font-size: 14px; }
 .table-of-contents { font-size: 14px; line-height: 1.75; margin-top: 8px; }
@@ -90,7 +91,7 @@
 .theme-dark .alert.is-danger .alert-title { color: #fde7e9; }
 
 /* "In this article" */
-#affixed-right-container { top: 0; max-height: 100vh; overflow-y: auto; padding-top: 8px; }
+#affixed-right-container { top: 0; max-height: 100vh; overflow-y: auto; overscroll-behavior: contain; padding-top: 8px; }
 .doc-outline .title.is-6 { font-size: 18px; font-weight: 600; line-height: 20.25px; margin: 8px 0 16px; }
 .doc-outline ol { list-style: none; margin: 0; padding-inline-start: 0; }
 .doc-outline li { font-size: 14px; line-height: 18.2px; margin: 4px 0; padding: 2px 0 2px 8px; }
@@ -189,3 +190,11 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 /* Diagrams (media/fig*.png): white card with 24px space on every side, so the drawing never touches the edge */
 .content img[src*="media/fig"] { box-sizing: border-box; padding: 24px; background: #fff; border: 1px solid var(--theme-border); border-radius: 6px; }
 @media (max-width: 767.98px) { .content img[src*="media/fig"] { padding: 12px; } }
+
+/* Drag the menu's right edge to change its width (kb.js saves it); hidden when the menu is collapsed or on small screens */
+#left-container { position: relative; }
+.kb-resize { position: absolute; top: 0; right: -3px; width: 6px; height: 100%; cursor: col-resize; z-index: 5; touch-action: none; }
+.kb-resize::after { content: ""; position: absolute; inset-block: 0; left: 2px; width: 2px; background: transparent; transition: background .15s; }
+.kb-resize:hover::after, .kb-resizing .kb-resize::after { background: var(--theme-primary-base, #0078D4); }
+.kb-resizing, .kb-resizing * { cursor: col-resize !important; user-select: none !important; }
+.layout-menu-collapsed .kb-resize { display: none; }
