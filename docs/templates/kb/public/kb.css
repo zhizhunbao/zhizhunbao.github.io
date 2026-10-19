@@ -182,5 +182,3 @@ html.layout { --layout-menu-expanded-target-width: 275px !important; --layout-as
 #footer .links a { color: var(--theme-text); text-decoration: none; }
 #footer .links a:hover { text-decoration: underline; }
 .kb-ext { display: inline-flex; margin-inline-start: 3px; vertical-align: -1px; }
-/* APA reference list: hanging indent */
-.heading-wrapper:has(#references) ~ p { padding-inline-start: 2em; text-indent: -2em; overflow-wrap: anywhere; }
