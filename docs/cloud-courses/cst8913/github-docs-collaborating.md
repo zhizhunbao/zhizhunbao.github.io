@@ -25,20 +25,3 @@ Study notes on [GitHub Docs](https://docs.github.com/en/pull-requests), which CS
 | **review** (代码审查) | "Pull request reviews let people comment on changes, suggest improvements, and approve or request changes before code is merged." | 审查就是别人在合并前看你的拉取请求，可以评论、批准或要求修改，保证代码质量。 | [GitHub, n.d., para. 2](https://docs.github.com/en/pull-requests/reference/pull-request-reviews#:~:text=Pull%20request%20reviews%20let%20people%20comment%20on%20changes%2C%20suggest) |
 | **merge** (合并) | "Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another." | 合并就是把一个分支的改动并入另一个分支；两边改了同一处时会出现冲突，要手动解决。 | [GitHub, n.d., "merge" section, para. 1](https://docs.github.com/en/get-started/learning-about-github/github-glossary#merge:~:text=Merging%20takes%20the%20changes%20from%20one%20branch%20%28in%20the%20same) |
 | **default branch** (默认分支) | "The base branch for new pull requests and code commits in a repository. Each repository has at least one branch, which Git creates when you initialize the repository. The first branch is usually called main, and is often the default branch." | 默认分支是仓库的主线分支，通常叫 main。新的拉取请求默认合并到这里。 | [GitHub, n.d., "default branch" section, para. 1](https://docs.github.com/en/get-started/learning-about-github/github-glossary#default-branch:~:text=The%20base%20branch%20for%20new%20pull%20requests%20and%20code) |
-
-## Also in the source
-
-Points the source makes that are easy to miss, in my own words, each linked to its section.
-
-- A pull request page gathers what reviewers need in tabs: the conversation, the commits, automated checks, the changed files and automated code review findings; a merge status shows what still blocks the merge. ([Working with pull requests](https://docs.github.com/en/pull-requests/reference/pull-requests#working-with-pull-requests))
-- A pull request can be opened as a draft to share unfinished work; a draft cannot be merged and does not ask code owners for a review until you mark it ready for review. ([Draft pull requests](https://docs.github.com/en/pull-requests/reference/pull-requests#draft-pull-requests))
-- A fork and its upstream share the same Git data, so anything uploaded to a fork can be reached from the upstream and from every other fork of it, even after the fork is deleted. ([Fork and pull model](https://docs.github.com/en/pull-requests/reference/pull-requests#fork-and-pull-model))
-- You need no permission from the upstream to push to your own fork, which is why open-source projects like this model; small teams on private projects more often use the shared repository model. ([Collaborative development models](https://docs.github.com/en/pull-requests/reference/pull-requests#collaborative-development-models))
-- A branch lives inside one repository, while a fork is a whole separate repository with its own branches, issues, pull requests and settings. ([What makes forks distinct from branches](https://docs.github.com/en/pull-requests/reference/forks#what-makes-forks-distinct-from-branches))
-- A fork always has the same visibility as its upstream: forks of a public repository are public and forks of a private repository are private. ([Visibility of forks](https://docs.github.com/en/pull-requests/reference/forks#visibility-of-forks))
-
-## Corrections
-
-Where the course copy differs from the source, or the source has changed since, with the source's exact words.
-
-- None found.

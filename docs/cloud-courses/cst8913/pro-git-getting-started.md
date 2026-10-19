@@ -27,18 +27,3 @@ Study notes on [Scott Chacon and Ben Straub, Pro Git, 2nd edition](https://git-s
 | **push** (推送) | "When you have your project at a point that you want to share, you have to push it upstream." | 推送就是把本地已经提交的内容上传到远程仓库，这样别人才能看到。命令是 git push。 | [Chacon, 2014, "Pushing to Your Remotes" section, para. 1](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes#_pushing_remotes:~:text=When%20you%20have%20your%20project%20at%20a%20point%20that) |
 | **pull** (拉取) | "Pulling a branch means to fetch it and merge it." | 拉取就是从远程仓库下载新改动并合并到本地分支，让本地保持最新。 | [Git, n.d., "pull" entry](https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpullapull:~:text=Pulling%20a%20branch%20means%20to%20fetch%20it%20and%20merge%20it) |
 | **clone** (克隆) | "If you want to get a copy of an existing Git repository — for example, a project you’d like to contribute to — the command you need is git clone." *Note: Git receives a full copy of nearly all the data on the server, not just a working copy.* | 克隆就是把一个已有的仓库完整复制到自己电脑上，包括几乎全部历史，而不只是最新的文件。 | [Chacon, 2014, "Cloning an Existing Repository" section, para. 1](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#_git_cloning:~:text=If%20you%20want%20to%20get%20a%20copy%20of%20an%20existing) |
-
-## Also in the source
-
-Points the source makes that are easy to miss, in my own words, each linked to its section.
-
-- Most other version control systems store each file as a list of changes over time; Git instead stores a snapshot of the whole project at every commit, and a file that has not changed is not stored again but linked from the earlier snapshot. ([Snapshots, Not Differences](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_snapshots_not_differences))
-- Because the whole history is on your own disk, almost every Git operation is local: you can browse the history, compare old versions and commit while you are offline, and upload later. ([Nearly Every Operation Is Local](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_nearly_every_operation_is_local))
-- Git checksums everything with a SHA-1 hash (40 hexadecimal characters) and stores content by that hash, so a changed or corrupted file cannot go unnoticed. ([Git Has Integrity](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_git_has_integrity))
-- Nearly every Git action only adds data, so a committed snapshot is very hard to lose, especially when you also push it to another repository; only changes you have not committed yet are at risk. ([Git Generally Only Adds Data](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_git_generally_only_adds_data))
-
-## Corrections
-
-Where the course copy differs from the source, or the source has changed since, with the source's exact words.
-
-- None found.

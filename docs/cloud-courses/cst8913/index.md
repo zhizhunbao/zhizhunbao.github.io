@@ -6,7 +6,7 @@ ms.date: 2026-10-19
 
 # Cloud migration
 
-Study notes for CST8913 Cloud Migration (Algonquin College, Fall 2026), weeks 1 to 6 (the midterm). The course material copies official pages, so the notes follow those sources: one page per source. Each page has one figure per part of the source with the key terms framed, a table that defines exactly those terms, and two closing sections: what the source adds, and corrections.
+Study notes for CST8913 Cloud Migration (Algonquin College, Fall 2026), weeks 1 to 6 (the midterm). The course material copies official pages, so the notes follow those sources: one page per source. Each page has one figure per part of the source with the key terms framed, and a table that defines exactly those terms in the same order.
 
 | Week | Pages |
 |---|---|

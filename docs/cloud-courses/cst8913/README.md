@@ -10,10 +10,7 @@ The course slides copy official pages, sometimes old versions, sometimes with mi
 4. **Key terms are framed on the figure.** A term worth learning is on the figure with a thick amber frame.
 5. **The table holds only framed terms.** Each section's table lists exactly the framed terms of its figure, in figure order. A term that is not on the figure is not in the table. Each term is defined on one page only, in the first section where it is framed.
 6. **Definitions are quotes from the source** (or another official page), with an in-text citation linked to the section and paragraph. Where no official text exists: my own words, marked "My own words".
-7. **Each page ends with two sections:**
-   - **Also in the source**: points the source makes that the slides leave out, in my own words, each linked to its section.
-   - **Corrections**: where the slides copied wrong or the source has changed since, with the source's exact words and a link.
-8. **Nothing from the slides or labs is published**: no slide text, no lab questions, no lab answers.
+7. **Nothing from the slides or labs is published**: no slide text, no lab questions, no lab answers.
 
 ## Pages
 
@@ -47,4 +44,4 @@ The course slides copy official pages, sometimes old versions, sometimes with mi
 | `pro-git-getting-started.md` | What is Git? |
 | `github-docs-collaborating.md` | About pull requests and forks |
 
-The sources were traced slide by slide on 2026-10-19; the evidence is in `review/midterm/sources/*.json` in the cloud notes repo (source per slide, gaps, corrections).
+The sources were traced slide by slide on 2026-10-19; the evidence is in `review/midterm/sources/*.json` in the cloud notes repo (source per slide, gaps, corrections). The gaps and corrections stay private (the `also` and `corrections` lists in the page specs); pages do not publish them.
