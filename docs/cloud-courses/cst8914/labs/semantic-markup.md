@@ -12,13 +12,13 @@ Lab 6 of CST8914 Accessible by Design (week 7) asks me to turn a page built from
 
 | # | Concept | Explained in |
 |---|---|---|
-| 1 | Page title | [8. 2.4.2 Page Titled](../lectures/understanding-wcag-2-2.md#242-page-titled) |
-| 2 | Page regions and landmarks | [1. Page Regions](../lectures/page-structure-tutorial.md#page-regions)<br>[6. Landmark Regions](../lectures/aria-authoring-practices-guide.md#landmark-regions) |
+| 1 | Page title | [7. 2.4.2 Page Titled](../lectures/wcag-2-2.md#242-page-titled) |
+| 2 | Page regions and landmarks | [1. Page Regions](../lectures/page-structure-tutorial.md#page-regions)<br>[5. Landmark Regions](../lectures/aria-authoring-practices-guide.md#landmark-regions) |
 | 3 | A unique label for each repeated region | [1. Labeling Regions](../lectures/page-structure-tutorial.md#labeling-regions) |
 | 4 | Page language | [Understanding SC 3.1.1 Language of Page (W3C)](https://www.w3.org/WAI/WCAG22/Understanding/language-of-page.html) |
-| 5 | An accessible name for an icon | [6. Providing Accessible Names and Descriptions](../lectures/aria-authoring-practices-guide.md#providing-accessible-names-and-descriptions)<br>[4. Functional Images](../lectures/images-tutorial.md#functional-images) |
-| 6 | Native HTML before ARIA, no repeated semantics | [6. Read Me First](../lectures/aria-authoring-practices-guide.md#read-me-first) |
+| 5 | An accessible name for an icon | [5. Providing Accessible Names and Descriptions](../lectures/aria-authoring-practices-guide.md#providing-accessible-names-and-descriptions)<br>[3. Functional Images](../lectures/images-tutorial.md#functional-images) |
+| 6 | Native HTML before ARIA, no repeated semantics | [5. Read Me First](../lectures/aria-authoring-practices-guide.md#read-me-first) |
 | 7 | Heading levels | [1. Headings](../lectures/page-structure-tutorial.md#headings) |
 | 8 | Sections, articles and lists | [1. Content Structure](../lectures/page-structure-tutorial.md#content-structure) |
-| 9 | A data table with id and headers | [2. Tables with Multi-Level Headers](../lectures/tables-tutorial.md#tables-with-multi-level-headers)<br>[3. H43: Using id and headers attributes to associate data cells with header cells in data tables](../lectures/techniques-for-wcag-2-2.md#h43-using-id-and-headers-attributes-to-associate-data-cells-with-header-cells-in-data-tables) |
-| 10 | Text alternatives for images | [4. Informative Images](../lectures/images-tutorial.md#informative-images)<br>[4. Decorative Images](../lectures/images-tutorial.md#decorative-images)<br>[4. An alt Decision Tree](../lectures/images-tutorial.md#an-alt-decision-tree) |
+| 9 | A data table with id and headers | [2. Tables with Multi-Level Headers](../lectures/tables-tutorial.md#tables-with-multi-level-headers)<br>[7. H43: Using id and headers attributes to associate data cells with header cells in data tables](../lectures/wcag-2-2.md#h43-using-id-and-headers-attributes-to-associate-data-cells-with-header-cells-in-data-tables) |
+| 10 | Text alternatives for images | [3. Informative Images](../lectures/images-tutorial.md#informative-images)<br>[3. Decorative Images](../lectures/images-tutorial.md#decorative-images)<br>[3. An alt Decision Tree](../lectures/images-tutorial.md#an-alt-decision-tree) |

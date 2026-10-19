@@ -77,18 +77,16 @@ items:
       href: cst8914/lectures/page-structure-tutorial.md
     - name: "2. Tables Tutorial"
       href: cst8914/lectures/tables-tutorial.md
-    - name: "3. Techniques for WCAG 2.2"
-      href: cst8914/lectures/techniques-for-wcag-2-2.md
-    - name: "4. Images Tutorial"
+    - name: "3. Images Tutorial"
       href: cst8914/lectures/images-tutorial.md
-    - name: "5. Making Audio and Video Media Accessible"
+    - name: "4. Making Audio and Video Media Accessible"
       href: cst8914/lectures/making-audio-and-video-media-accessible.md
-    - name: "6. ARIA Authoring Practices Guide"
+    - name: "5. ARIA Authoring Practices Guide"
       href: cst8914/lectures/aria-authoring-practices-guide.md
-    - name: "7. Forms Tutorial"
+    - name: "6. Forms Tutorial"
       href: cst8914/lectures/forms-tutorial.md
-    - name: "8. Understanding WCAG 2.2"
-      href: cst8914/lectures/understanding-wcag-2-2.md
+    - name: "7. WCAG 2.2"
+      href: cst8914/lectures/wcag-2-2.md
   - name: Labs
     items:
     - name: "Semantic markup (lab 6)"
