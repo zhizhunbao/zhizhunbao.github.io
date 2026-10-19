@@ -31,20 +31,3 @@ Study notes on [Microsoft Learn module (AZ-900)](https://learn.microsoft.com/en-
 | Term | Definition | 中文解释 | Source |
 |---|---|---|---|
 | **Software as a Service (SaaS)** (软件即服务) | "With SaaS, you’re essentially renting or using a fully developed application." | 软件即服务就是直接使用别人做好的完整应用，比如邮箱、财务软件。最容易上手，但能改的最少。 | [Microsoft, n.d., para. 1](https://web.archive.org/web/20250108145750/https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/4-describe-software-service#:~:text=renting%20or%20using%20a%20fully%20developed%20application) |
-
-## Also in the source
-
-Points the source makes that are easy to miss, in my own words, each linked to its section.
-
-- IaaS gives you the largest share of the shared responsibility model: besides installing and configuring the system, you handle patching, updates and security. ([Shared responsibility model](https://web.archive.org/web/20250108115137/https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/2-describe-infrastructure-service#shared-responsibility-model))
-- PaaS works like a computer joined to a company domain, where IT keeps the device updated and patched for you; depending on the setup, networking, application security and the directory may be your job or the provider's. ([Shared responsibility model](https://web.archive.org/web/20250109030533/https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/3-describe-platform-service#shared-responsibility-model))
-- PaaS development frameworks already include cloud features such as scalability, high availability and multi-tenant capability, so developers write less code. ([Scenarios](https://web.archive.org/web/20250109030533/https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/3-describe-platform-service#scenarios))
-- In SaaS you still own the data you put into the system, the devices allowed to connect to it, and the users who have access. ([Shared responsibility model](https://web.archive.org/web/20250108145750/https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/4-describe-software-service#shared-responsibility-model))
-
-## Corrections
-
-Where the course copy differs from the source, or the source has changed since, with the source's exact words.
-
-- **Missing qualifier.** The course copy says IaaS users have full control over the infrastructure. They control the operating system, network configuration and storage configuration, but the physical hardware, the internet connection and physical security stay with the provider. The source says: "In an IaaS model, the cloud provider is responsible for maintaining the hardware, network connectivity (to the internet), and physical security." ([source](https://web.archive.org/web/20250108115137/https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/2-describe-infrastructure-service))
-- **Missing qualifier.** The course copy says SaaS needs no management at all. Even with SaaS you still manage your data, the devices that connect and the users who have access. The source says: "In a SaaS environment you’re responsible for the data that you put into the system, the devices that you allow to connect to the system, and the users that have access." ([source](https://web.archive.org/web/20250108145750/https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/4-describe-software-service#shared-responsibility-model))
-- **Changed since.** The current unit says analytics services where the older version says business intelligence services, and it no longer compares PaaS components to an Excel macro. The source says: "They also maintain the operating systems, middleware, development tools, and analytics services that make up a cloud solution." ([source](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/3-describe-platform-service))
