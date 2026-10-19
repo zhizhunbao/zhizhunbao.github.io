@@ -422,6 +422,20 @@ function inPlace() {
   })
 }
 
+// The wheel scrolls what is under the pointer: the menu or the outline while it overflows, the page otherwise
+function wheelScope() {
+  for (const id of ['affixed-left-container', 'affixed-right-container']) {
+    const rail = document.getElementById(id)
+    if (!rail) continue
+    rail.addEventListener('wheel', (e) => {
+      if (e.ctrlKey || rail.scrollHeight <= rail.clientHeight + 1) return // nothing to scroll here: the page scrolls
+      e.preventDefault()
+      const unit = e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? rail.clientHeight : 1
+      rail.scrollTop += e.deltaY * unit
+    }, { passive: false })
+  }
+}
+
 async function main() {
   resizeMenu()
   newTabs()
@@ -443,6 +457,7 @@ async function main() {
   breadcrumbs(section && sectionItems.length ? section : null, sectionItems.length ? current : null)
   Object.assign(NAV, { tocUrl, tocItems, section, sectionItems })
   inPlace()
+  wheelScope()
 }
 
 main()

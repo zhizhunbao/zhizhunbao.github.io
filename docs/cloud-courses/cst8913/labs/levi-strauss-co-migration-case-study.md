@@ -6,17 +6,22 @@ ms.date: 2026-10-19
 
 # Levi Strauss & Co. migration case study
 
-Lab 2 of CST8913 Cloud Migration (week 2): explain why a company moves to the cloud, choose a migration approach per workload, and decide who is responsible for what. Each section asks one question about a concept the lab needs and answers it with what I wrote in my lab.
+Lab 2 of CST8913 Cloud Migration (week 2): explain why a company moves to the cloud, choose a migration approach per workload, and decide who is responsible for what. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
 ## Concepts to understand
 
-- cloud models
-- service types
-- motivations
-- the five Rs
-- RACI matrix
+1. [motivations](#1-motivations)
+2. [discovery questions](#2-discovery-questions)
+3. [stakeholders and RACI matrix](#3-stakeholders-and-raci-matrix)
+4. [the five Rs](#4-the-five-rs)
+5. [migration schedule](#5-migration-schedule)
+6. [decision criteria](#6-decision-criteria)
+7. [cloud models](#7-cloud-models)
+8. [service types](#8-service-types)
 
-## 1. What motivated Levi Strauss & Co. to move to the cloud?
+## 1. Motivations
+
+### What motivated Levi Strauss & Co. to move to the cloud?
 
 - **New business model.** Moving from wholesale to direct-to-consumer (DTC), with a goal of becoming a USD 10 billion DTC brand, requires speed, automation, and data.
 - **Technical debt.** About 160 applications, several datacenters, nine ERP systems, and different processes across 110 countries made the business hard to change.
@@ -26,7 +31,9 @@ Lab 2 of CST8913 Cloud Migration (week 2): explain why a company moves to the cl
 
 Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
 
-## 2. What would you ask before a migration to understand a company's existing infrastructure, applications, data, security and business requirements?
+## 2. Discovery questions
+
+### What would you ask before a migration to understand a company's existing infrastructure, applications, data, security and business requirements?
 
 | Area | Questions |
 |---|---|
@@ -40,7 +47,9 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
-## 3. Who are the migration stakeholders, and how does a RACI matrix divide the work between them?
+## 3. Stakeholders and RACI matrix
+
+### Who are the migration stakeholders, and how does a RACI matrix divide the work between them?
 
 Titles are from the case study; the responsibilities are my proposal.
 
@@ -66,7 +75,9 @@ Titles are from the case study; the responsibilities are my proposal.
 
 Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
 
-## 4. Which migration approach (of the five Rs) fits each kind of workload at Levi Strauss & Co.?
+## 4. The five Rs
+
+### Which migration approach (of the five Rs) fits each kind of workload at Levi Strauss & Co.?
 
 **Recommendation: rehost first, then refactor selectively**, choosing the approach for each workload:
 
@@ -80,7 +91,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
 
-## 5. Which migration approach did you recommend first, and why?
+### Which migration approach did you recommend first, and why?
 
 **Why rehost first:**
 
@@ -89,7 +100,9 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
 
-## 6. What does a high-level migration schedule look like?
+## 5. Migration schedule
+
+### What does a high-level migration schedule look like?
 
 | Phase | Timing | Key activities |
 |---|---|---|
@@ -104,7 +117,9 @@ The migration (months 3–8) matches the roughly six-month datacenter exit in th
 
 Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
 
-## 7. What business and technical criteria should guide migration decisions?
+## 6. Decision criteria
+
+### What business and technical criteria should guide migration decisions?
 
 | Business criteria | Technical criteria |
 |---|---|
@@ -115,3 +130,11 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 | | **Operability:** managed services and infrastructure as code |
 
 Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
+
+## 7. Cloud models
+
+My lab does not cover this. See [3. Describe cloud computing](../lectures/describe-cloud-computing.md).
+
+## 8. Service types
+
+My lab does not cover this. See [4. Describe cloud service types](../lectures/describe-cloud-service-types.md).
