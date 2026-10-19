@@ -3,9 +3,9 @@
 // Also converts DocFX's Markdown output to Learn markup (alerts, tables, heading anchors).
 
 const meta = (name) => document.querySelector(`meta[name="${name}"]`)?.content
-const page = new URL(location.href)
+let page = new URL(location.href)
 page.hash = ''
-const rel = new URL(meta('kb:rel') || './', page)
+let rel = new URL(meta('kb:rel') || './', page)
 const tocJson = (relPath) => relPath ? new URL(relPath.replace(/\.html$/, '.json'), page) : null
 const same = (a, b) => a && b && a.pathname.replace(/index\.html$/, '') === b.pathname.replace(/index\.html$/, '')
 const el = (tag, attrs = {}, ...kids) => {
@@ -163,7 +163,13 @@ function breadcrumbs(section, current) {
 }
 
 // ---------- In this article ----------
+let outlineMark = null
 function outline() {
+  // runs again after an in-place page change: clear the side rail and its scroll listener first
+  if (outlineMark) removeEventListener('scroll', outlineMark)
+  outlineMark = null
+  document.getElementById('kb-outline').replaceChildren()
+  document.getElementById('side-doc-outline').hidden = true
   // H2 and H3, unlike Learn (H2 only): this site's long review pages need the sub-topics in the rail
   const heads = [...document.querySelectorAll('.content h2[id], .content h3[id]')]
   if (!heads.length) return
@@ -202,6 +208,7 @@ function outline() {
       r[2].className = on ? 'font-weight-semibold color-text' : 'color-text-subtle'
     }
   }
+  outlineMark = mark
   addEventListener('scroll', mark, { passive: true })
   mark()
 }
@@ -342,6 +349,79 @@ function resizeMenu() {
   })
 }
 
+// ---------- in-place navigation ----------
+// Menu and breadcrumb links within the same section fetch the next page and swap only <main> (breadcrumbs, article,
+// date), so the menu keeps its scroll position and width and the page does not flash. Anything else (another section,
+// a redirect stub, a failed fetch, modifier keys) is an ordinary page load.
+const NAV = {}
+function selectLeaf() {
+  const toc = document.getElementById('kb-toc')
+  for (const a of toc.querySelectorAll('a.tree-leaf.is-selected')) { a.classList.remove('is-selected'); a.removeAttribute('aria-current') }
+  const leaf = [...toc.querySelectorAll('a.tree-leaf')].find((a) => same(new URL(a.href), page))
+  if (!leaf) return
+  leaf.classList.add('is-selected')
+  leaf.setAttribute('aria-current', 'page')
+  for (let li = leaf.parentElement.closest('li.tree-item'); li; li = li.parentElement.closest('li.tree-item')) li.setAttribute('aria-expanded', 'true')
+  leaf.scrollIntoView({ block: 'nearest' })
+}
+async function go(href, push) {
+  const url = new URL(href)
+  try {
+    const r = await fetch(url)
+    if (!r.ok) throw new Error(r.status)
+    const doc = new DOMParser().parseFromString(await r.text(), 'text/html')
+    const m = (name) => doc.querySelector(`meta[name="${name}"]`)?.content
+    const toc = m('kb:tocrel') ? new URL(m('kb:tocrel').replace(/\.html$/, '.json'), url).href : null
+    const main = doc.getElementById('main')
+    if (!main || doc.querySelector('meta[http-equiv="refresh"]') || toc !== NAV.tocUrl?.href) throw new Error('not in place')
+    if (push) {
+      history.replaceState({ y: scrollY }, '')
+      history.pushState({ y: 0 }, '', url.href)
+    }
+    document.title = doc.title
+    for (const name of ['description', 'kb:rel', 'kb:navrel', 'kb:tocrel']) {
+      const mine = document.querySelector(`meta[name="${name}"]`)
+      if (mine && m(name) !== undefined) mine.content = m(name)
+    }
+    page = new URL(url)
+    page.hash = ''
+    rel = new URL(m('kb:rel') || './', page)
+    document.getElementById('main').replaceWith(document.adoptNode(main))
+    document.documentElement.classList.remove('kb-menu-open')
+    content()
+    outline()
+    const current = flat(NAV.tocItems).find((it) => same(it.url, page)) || null
+    breadcrumbs(NAV.section && NAV.sectionItems.length ? NAV.section : null, NAV.sectionItems.length ? current : null)
+    selectLeaf()
+    const target = url.hash && document.getElementById(decodeURIComponent(url.hash.slice(1)))
+    if (target) target.scrollIntoView()
+    else if (push) scrollTo(0, 0)
+    return true
+  } catch {
+    location.href = url.href
+    return false
+  }
+}
+function inPlace() {
+  history.scrollRestoration = 'manual'
+  document.addEventListener('click', (e) => {
+    if (e.defaultPrevented || e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return
+    const a = e.target.closest('#kb-toc a[href], #kb-breadcrumbs a[href]')
+    if (!a || a.target === '_blank') return
+    const url = new URL(a.href)
+    if (url.origin !== location.origin) return
+    if (same(url, page) && url.hash) return // a jump within this page
+    e.preventDefault()
+    if (same(url, page)) return
+    go(url.href, true)
+  })
+  addEventListener('popstate', async (e) => {
+    const url = new URL(location.href)
+    if (same(url, page)) return // only the #hash changed
+    if (await go(url.href, false) && !url.hash) scrollTo(0, e.state?.y || 0)
+  })
+}
+
 async function main() {
   resizeMenu()
   newTabs()
@@ -361,6 +441,8 @@ async function main() {
   if (!sectionItems.length) document.getElementById('kb-mobile-nav').remove() // the tree already lists the sections
   tree(tocItems, current)
   breadcrumbs(section && sectionItems.length ? section : null, sectionItems.length ? current : null)
+  Object.assign(NAV, { tocUrl, tocItems, section, sectionItems })
+  inPlace()
 }
 
 main()
