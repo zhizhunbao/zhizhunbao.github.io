@@ -17,37 +17,53 @@ items:
   items:
   - name: "Overview (midterm, weeks 1 to 6)"
     href: cst8913/index.md
-  - name: "Week 1"
+  - name: Lectures
     items:
-    - name: "1. Pro Git: getting started"
-      href: cst8913/pro-git-getting-started.md
-    - name: "2. GitHub Docs: collaborating with pull requests"
-      href: cst8913/github-docs-collaborating.md
-  - name: "Week 2"
+    - name: "Week 1"
+      items:
+      - name: "1. Pro Git: getting started"
+        href: cst8913/lectures/pro-git-getting-started.md
+      - name: "2. GitHub Docs: collaborating with pull requests"
+        href: cst8913/lectures/github-docs-collaborating.md
+    - name: "Week 2"
+      items:
+      - name: "3. Describe cloud computing"
+        href: cst8913/lectures/describe-cloud-computing.md
+      - name: "4. Describe cloud service types (also week 3)"
+        href: cst8913/lectures/describe-cloud-service-types.md
+      - name: "5. Cloud Adoption Framework for Azure (also week 3)"
+        href: cst8913/lectures/cloud-adoption-framework-for-azure.md
+      - name: "6. What is Azure Migrate? (also week 4)"
+        href: cst8913/lectures/what-is-azure-migrate.md
+    - name: "Week 3"
+      items:
+      - name: "7. Windows N-tier application on Azure"
+        href: cst8913/lectures/windows-n-tier-application-on-azure.md
+    - name: "Week 4"
+      items:
+      - name: "8. Prepare for cloud adoption with a data-driven plan"
+        href: cst8913/lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md
+    - name: "Week 5"
+      items:
+      - name: "9. Overview of application migration examples for Azure (also week 6)"
+        href: cst8913/lectures/overview-of-application-migration-examples-for-azure.md
+      - name: "10. What is Azure VMware Solution?"
+        href: cst8913/lectures/what-is-azure-vmware-solution.md
+    - name: "Week 6"
+      items:
+      - name: "11. Migrate an on-premises web application to Azure App Service"
+        href: cst8913/lectures/migrate-an-on-premises-web-application-to-azure-app-service.md
+  - name: Labs
     items:
-    - name: "3. Describe cloud computing"
-      href: cst8913/describe-cloud-computing.md
-    - name: "4. Describe cloud service types (also week 3)"
-      href: cst8913/describe-cloud-service-types.md
-    - name: "5. Cloud Adoption Framework for Azure (also week 3)"
-      href: cst8913/cloud-adoption-framework-for-azure.md
-    - name: "6. What is Azure Migrate? (also week 4)"
-      href: cst8913/what-is-azure-migrate.md
-  - name: "Week 3"
-    items:
-    - name: "7. Windows N-tier application on Azure"
-      href: cst8913/windows-n-tier-application-on-azure.md
-  - name: "Week 4"
-    items:
-    - name: "8. Prepare for cloud adoption with a data-driven plan"
-      href: cst8913/prepare-for-cloud-adoption-with-a-data-driven-plan.md
-  - name: "Week 5"
-    items:
-    - name: "9. Overview of application migration examples for Azure (also week 6)"
-      href: cst8913/overview-of-application-migration-examples-for-azure.md
-    - name: "10. What is Azure VMware Solution?"
-      href: cst8913/what-is-azure-vmware-solution.md
-  - name: "Week 6"
-    items:
-    - name: "11. Migrate an on-premises web application to Azure App Service"
-      href: cst8913/migrate-an-on-premises-web-application-to-azure-app-service.md
+    - name: "Git, GitHub and Markdown (lab 1)"
+      href: cst8913/labs/git-github-and-markdown.md
+    - name: "Levi Strauss & Co. migration case study (lab 2)"
+      href: cst8913/labs/levi-strauss-co-migration-case-study.md
+    - name: "IaaS and PaaS architecture (lab 3)"
+      href: cst8913/labs/iaas-and-paas-architecture.md
+    - name: "Discovery and assessment (lab 4)"
+      href: cst8913/labs/discovery-and-assessment.md
+    - name: "Rehosting to Azure (lab 5)"
+      href: cst8913/labs/rehosting-to-azure.md
+    - name: "Cloud resource comparison (lab 6)"
+      href: cst8913/labs/cloud-resource-comparison.md
