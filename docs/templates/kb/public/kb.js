@@ -66,6 +66,9 @@ function content() {
   }
   for (const t of body.querySelectorAll('table')) {
     t.classList.add('table', 'table-sm')
+    // key-value tables written as | | | have an empty header row: drop it
+    const head = t.querySelector('thead')
+    if (head && ![...head.querySelectorAll('th')].some((th) => th.textContent.trim())) head.remove()
     // term tables (Term | Definition | 中文解释 | Source): fixed column widths so long URLs cannot squeeze the Chinese column
     if (/Source/.test(t.querySelector('th:last-child')?.textContent || '') && t.rows[0]?.cells.length === 4) t.classList.add('kb-terms')
     const wrap = el('div', { class: 'table-wrapper' })
