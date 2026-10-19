@@ -4,13 +4,13 @@ The course slides copy official pages, sometimes old versions, sometimes with mi
 
 ## Rules
 
-1. **One page per source.** Each page is one row of the table below: its file name, title (H1) and source are fixed there. `index.md` is the overview (weeks to pages); no other page is allowed.
+1. **One page per source.** Each page is one row of the table below: its file name, title (H1) and source are fixed there. `index.md` is the overview (study by week: lab topic, concepts, pages); no other page is allowed.
 2. **Sections (H2) are parts of that source.** Every H2 is one of the parts listed for its page, word for word, in that order: a unit, a page or a section heading of the source. Each H2 links its part. A page may leave a part out, but may not add one.
 3. **One figure per section.** Every part section has exactly one figure, drawn by us in draw.io (no copied images, so terms can be marked).
 4. **Key terms are framed on the figure.** A term worth learning is on the figure with a thick amber frame.
 5. **The table holds only framed terms.** Each section's table lists exactly the framed terms of its figure, in figure order. A term that is not on the figure is not in the table. Each term is defined on one page only, in the first section where it is framed.
 6. **Definitions are quotes from the source** (or another official page), with an in-text citation linked to the section and paragraph. Where no official text exists: my own words, marked "My own words".
-7. **Nothing from the slides or labs is published**: no slide text, no lab questions, no lab answers.
+7. **Nothing from the slides or labs is published**: no slide text, no lab questions, no lab answers. The one exception is the overview (`index.md`): its "Study by week" table names each week's lab topic and, in my own words, what the lab practises and which concepts it needs (decided 2026-10-19).
 
 ## Pages
 
