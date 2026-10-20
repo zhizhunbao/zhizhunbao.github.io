@@ -1,0 +1,1167 @@
+{
+ "title": "Week 2 quiz",
+ "questions": [
+  {
+   "stem": "____ is the delivery of computing services over the internet. Computing services include common IT infrastructure such as virtual machines, storage, databases, and networking.",
+   "options": [
+    "operational expenditure (OpEx)",
+    "cloud computing",
+    "multi-cloud",
+    "datacenter"
+   ],
+   "answer": 1,
+   "zhTerm": "云计算",
+   "zh": "云计算就是通过互联网提供计算服务，比如虚拟机、存储、数据库和网络。需要更多资源时直接在云上加，不用等自己盖新机房。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#what-is-cloud-computing"
+  },
+  {
+   "stem": "The physical infrastructure for Azure starts with ____. These ____ are facilities with servers arranged in racks, with dedicated power, cooling, and networking infrastructure ...",
+   "options": [
+    "on-premises",
+    "hybrid cloud",
+    "datacenter",
+    "public cloud"
+   ],
+   "answer": 2,
+   "zhTerm": "数据中心",
+   "zh": "数据中心就是放服务器的大楼，有专门的电力、制冷和网络；云的底层就是很多这样的机房。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#what-is-cloud-computing"
+  },
+  {
+   "stem": "With the ____, these responsibilities get shared between the cloud provider and the consumer.",
+   "options": [
+    "hybrid cloud",
+    "cloud provider",
+    "pay-as-you-go pricing model",
+    "shared responsibility model"
+   ],
+   "answer": 3,
+   "zhTerm": "责任共担模型",
+   "zh": "责任共担模型就是把运维和安全的工作分给云服务商和用户两边。用它来看清每种服务类型下哪一层归你管、哪一层归厂商管。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#describe-the-shared-responsibility-model"
+  },
+  {
+   "stem": "With an ____ datacenter, you’re responsible for everything.",
+   "options": [
+    "multi-cloud",
+    "datacenter",
+    "operational expenditure (OpEx)",
+    "on-premises"
+   ],
+   "answer": 3,
+   "zhTerm": "本地部署",
+   "zh": "本地部署就是服务器放在自己公司的机房里。场地、硬件、系统、数据全都由你自己负责。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#describe-the-shared-responsibility-model"
+  },
+  {
+   "stem": "Physical security, power, cooling, and network connectivity are the responsibility of the ____.",
+   "options": [
+    "cloud provider",
+    "public cloud",
+    "on-premises",
+    "operational expenditure (OpEx)"
+   ],
+   "answer": 0,
+   "zhTerm": "云服务商",
+   "zh": "云服务商就是建好机房、把计算资源租给别人用的公司，比如 Microsoft。机房的物理安全、电力、制冷和网络始终由它负责。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#describe-the-shared-responsibility-model"
+  },
+  {
+   "stem": "A ____ is built, controlled, and maintained by a third-party cloud provider. With a ____, anyone that wants to purchase cloud services can access and use resources.",
+   "options": [
+    "public cloud",
+    "datacenter",
+    "capital expenditure (CapEx)",
+    "cloud computing"
+   ],
+   "answer": 0,
+   "zhTerm": "公有云",
+   "zh": "公有云就是由第三方云服务商建设和运营、谁都可以购买使用的云。不用自己买硬件，用多少付多少。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#define-cloud-models"
+  },
+  {
+   "stem": "It’s a cloud (delivering IT services over the internet) that’s used by a single entity.",
+   "options": [
+    "pay-as-you-go pricing model",
+    "private cloud",
+    "cloud provider",
+    "datacenter"
+   ],
+   "answer": 1,
+   "zhTerm": "私有云",
+   "zh": "私有云就是只给一个组织专用的云。控制力最强，但硬件要自己买、自己维护，成本更高。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#define-cloud-models"
+  },
+  {
+   "stem": "A ____ is a computing environment that uses both public and private clouds in an inter-connected environment.",
+   "options": [
+    "shared responsibility model",
+    "cloud computing",
+    "on-premises",
+    "hybrid cloud"
+   ],
+   "answer": 3,
+   "zhTerm": "混合云",
+   "zh": "混合云就是把公有云和私有云连起来一起用。私有云不够用时，可以临时借公有云的资源扩容。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#define-cloud-models"
+  },
+  {
+   "stem": "In a ____ scenario, you use multiple public cloud providers.",
+   "options": [
+    "on-premises",
+    "cloud provider",
+    "multi-cloud",
+    "operational expenditure (OpEx)"
+   ],
+   "answer": 2,
+   "zhTerm": "多云",
+   "zh": "多云就是同时使用两家或更多公有云服务商。可以挑各家的长处，但每家的资源和安全都要分别管理。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#define-cloud-models"
+  },
+  {
+   "stem": "____ is typically a one-time, up-front expenditure to purchase or secure tangible resources.",
+   "options": [
+    "private cloud",
+    "public cloud",
+    "capital expenditure (CapEx)",
+    "hybrid cloud"
+   ],
+   "answer": 2,
+   "zhTerm": "资本支出",
+   "zh": "资本支出就是一次性先花一大笔钱买下实物资产，比如盖楼、建机房、买公司车。自建数据中心属于这种花法。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#describe-the-consumption-based-model"
+  },
+  {
+   "stem": "In contrast, ____ is spending money on services or products over time.",
+   "options": [
+    "cloud provider",
+    "capital expenditure (CapEx)",
+    "operational expenditure (OpEx)",
+    "consumption-based model"
+   ],
+   "answer": 2,
+   "zhTerm": "运营支出",
+   "zh": "运营支出就是按时间持续地为服务或产品付钱，比如租场地、租车、订阅云服务。云计算属于这一类。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#describe-the-consumption-based-model"
+  },
+  {
+   "stem": "Cloud computing falls under OpEx because cloud computing operates on a ____.",
+   "options": [
+    "shared responsibility model",
+    "consumption-based model",
+    "cloud computing",
+    "multi-cloud"
+   ],
+   "answer": 1,
+   "zhTerm": "按用量计费模式",
+   "zh": "按用量计费模式就是只为实际用到的 IT 资源付钱。这个月一点没用，就一分钱不用付。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#describe-the-consumption-based-model"
+  },
+  {
+   "stem": "Cloud computing is the delivery of computing services over the internet by using a ____. You typically pay only for the cloud services you use",
+   "options": [
+    "cloud provider",
+    "public cloud",
+    "pay-as-you-go pricing model",
+    "datacenter"
+   ],
+   "answer": 2,
+   "zhTerm": "按需付费定价模式",
+   "zh": "按需付费就是云服务的计价方式：用了哪些服务、用了多少，就按这些付费。这样更容易规划运营成本，也能随业务变化扩缩。",
+   "page": "Describe cloud computing",
+   "href": "../lectures/describe-cloud-computing.html#describe-the-consumption-based-model"
+  },
+  {
+   "stem": "The Microsoft ____ (____) helps decision makers make better decisions, faster. It provides proven guidance to reduce risk, accelerate adoption, and create a foundation that supports current and future workloads.",
+   "options": [
+    "Cloud Adoption Framework (CAF)",
+    "landing zone",
+    "Consulted",
+    "Modernize"
+   ],
+   "answer": 0,
+   "zhTerm": "云采用框架",
+   "zh": "微软官方的上云指南，按阶段告诉企业怎么一步步上 Azure；它让决策更快、风险更小。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "1. ____: What should our Azure adoption look like?",
+   "options": [
+    "Strategy",
+    "Consulted",
+    "business case",
+    "Innovate"
+   ],
+   "answer": 0,
+   "zhTerm": "策略阶段",
+   "zh": "策略阶段是 CAF 的第 1 步，先回答“我们的 Azure 采用应该是什么样子”；后面的计划和准备都以它为方向。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "Successful cloud adoption ... requires a cloud adoption ____. A cloud adoption ____ converts your cloud strategy into an actionable ____ that's specific to your goals.",
+   "options": [
+    "management",
+    "accelerator",
+    "landing zone",
+    "Plan"
+   ],
+   "answer": 3,
+   "zhTerm": "计划",
+   "zh": "CAF 第二步：把上云策略变成能执行的具体计划，比如先迁哪些系统、谁负责。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "The ____ phase of the Cloud Adoption Framework helps you design your Azure landing zone to meet your organization's requirements.",
+   "options": [
+    "migration motivation",
+    "Ready",
+    "migration strategy",
+    "Refactor"
+   ],
+   "answer": 1,
+   "zhTerm": "就绪",
+   "zh": "CAF 第三步：在搬系统之前先把 Azure 环境搭好（也就是落地区）；地基好了，后面的工作负载才有地方放。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "4. Adopt: How will we migrate, modernize, and build workloads?",
+   "options": [
+    "accelerator",
+    "CAF Adopt phase",
+    "Replace",
+    "agility outcome"
+   ],
+   "answer": 1,
+   "zhTerm": "CAF 采用阶段",
+   "zh": "采用阶段是 CAF 第 4 步，真正动手迁移、现代化或新建工作负载。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "Migration changes where or how a workload runs. Modernization changes the workload to achieve a better outcome. An initiative can do both.",
+   "options": [
+    "CAF Secure phase",
+    "management group hierarchy",
+    "Migrate (CAF)",
+    "Strategy"
+   ],
+   "answer": 2,
+   "zhTerm": "迁移（CAF 阶段）",
+   "zh": "把现有系统从本地或别的云搬到 Azure，重点是换个地方运行；它和现代化（改造系统本身）不一样。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "Modernization improves an existing workload or workload component to better meet current or future business requirements. It can change different parts of a workload, such as its platform, application, data, or operating model.",
+   "options": [
+    "Modernize",
+    "cloud adoption strategy",
+    "central IT team",
+    "Rehost"
+   ],
+   "answer": 0,
+   "zhTerm": "现代化",
+   "zh": "改造已有的系统（平台、代码、数据或运维方式），让它更好地满足业务需要；不一定要改到最新，够用就行。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "A cloud-native solution creates business value by building new workloads or enhancing existing ones. Whether you're developing a new application or adding new features to an existing system, cloud-native development is a journey through planning, building, deploying, and optimizing your workloads.",
+   "options": [
+    "reach outcome",
+    "Horizon 2 operation modernization",
+    "Innovate",
+    "adoption horizons"
+   ],
+   "answer": 2,
+   "zhTerm": "创新（现称云原生）",
+   "zh": "在云上直接开发新应用或新功能，给业务带来新价值；不是搬旧系统，而是造新东西。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "Cloud governance is how an organization controls its use of cloud services by establishing guardrails. These guardrails are a set of policies, procedures, and tools that define acceptable and unacceptable cloud activities.",
+   "options": [
+    "agility outcome",
+    "Migrate (CAF)",
+    "Informed",
+    "Govern"
+   ],
+   "answer": 3,
+   "zhTerm": "治理",
+   "zh": "给云的使用定规矩（策略、流程、工具），明确哪些能做、哪些不能做；这样可以控制风险、成本和合规。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "The Cloud Adoption Framework for Azure Secure methodology provides a structured approach for securing your Azure cloud estate.",
+   "options": [
+    "CAF Secure phase",
+    "Rebuild",
+    "financial considerations",
+    "lift and shift"
+   ],
+   "answer": 0,
+   "zhTerm": "CAF 安全阶段",
+   "zh": "安全阶段讲怎样保护整个 Azure 环境；它贯穿 CAF 的每个阶段。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "Managing your Azure environment isn't just about keeping the lights on. It's about maintaining governance and security while ensuring your cloud stays aligned with business goals over time.",
+   "options": [
+    "lift and shift",
+    "Manage",
+    "Replace",
+    "solution delivery"
+   ],
+   "answer": 1,
+   "zhTerm": "管理",
+   "zh": "上云以后的日常运维：监控、保护、持续优化；目的是让云环境长期稳定，并且一直符合业务目标。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "The ____ is a catalog of solution ideas, example workloads, reference architectures, technology decision guides, and architecture guides that help cloud architects and engineers build workloads ...",
+   "options": [
+    "Azure Architecture Center",
+    "Informed",
+    "CAF Adopt phase",
+    "business case"
+   ],
+   "answer": 0,
+   "zhTerm": "Azure 架构中心",
+   "zh": "Azure 架构中心是微软的架构资料库，有参考架构和设计指南，帮你设计云上的系统。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "The ____ is a design framework that can improve the quality of a workload by helping it to: Be resilient, available, and recoverable. Be as secure as you need it to be.",
+   "options": [
+    "Migrate (CAF)",
+    "cloud governance team",
+    "Azure Well-Architected Framework",
+    "migration strategy"
+   ],
+   "answer": 2,
+   "zhTerm": "Azure 良好架构框架",
+   "zh": "良好架构框架是检查单个工作负载设计质量的框架，分可靠性、安全、成本、运维、性能五大支柱。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
+  },
+  {
+   "stem": "A ____ directs how your business adopts cloud technology. It connects executive intent to measurable outcomes and sets the standards that every workload team operates within.",
+   "options": [
+    "cloud adoption strategy",
+    "Horizon 2 operation modernization",
+    "Responsible",
+    "Rehost"
+   ],
+   "answer": 0,
+   "zhTerm": "云采用策略",
+   "zh": "云采用策略说明企业为什么上云、怎么上云；它把高层目标变成可衡量的结果。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "Various ____ can drive business transformations that are supported by cloud adoption. Several ____ likely apply at the same time.",
+   "options": [
+    "landing zone",
+    "motivation",
+    "fiscal outcome",
+    "workload landing zone"
+   ],
+   "answer": 1,
+   "zhTerm": "动机",
+   "zh": "动机就是企业上云的理由；通常同时有好几个，先说清楚才能定策略。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "When responding to ____ is the highest priority, it's important to get started with migration early, often in parallel with strategy and planning efforts.",
+   "options": [
+    "critical business event",
+    "Horizon 4 innovation and growth",
+    "subscription",
+    "Refactor"
+   ],
+   "answer": 0,
+   "zhTerm": "关键业务事件",
+   "zh": "关键业务事件是逼着企业马上行动的事，比如数据中心到期、并购、技术停止支持；这时要尽早开始迁移。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "The ____ listed near the top of the motivations table are the most common reasons for adopting the cloud but not necessarily the most significant.",
+   "options": [
+    "reach outcome",
+    "capacity optimization",
+    "migration motivation",
+    "workload landing zone"
+   ],
+   "answer": 2,
+   "zhTerm": "迁移动机",
+   "zh": "迁移动机是把现有系统搬上云的理由，比如省钱、简化运维；最常见，但不一定最重要。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "Data is the new commodity, and modern applications are the supply chain driving that data into various experiences. In today's business market, it's hard to find a transformative product or service that isn't built on top of data, insights, and customer experiences.",
+   "options": [
+    "Replace",
+    "innovation motivation",
+    "CAF Adopt phase",
+    "Horizon 3 advanced modernization"
+   ],
+   "answer": 1,
+   "zhTerm": "创新动机",
+   "zh": "创新动机是想用云做出新产品、新体验的理由；重点不是搬家，而是靠数据和新应用创造价值。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "This article series is designed to help customers identify ____ that are concise, defined, and drive observable results or change in business performance, supported by a specific measure.",
+   "options": [
+    "cloud adoption strategy",
+    "CAF Secure phase",
+    "technical considerations",
+    "business outcome"
+   ],
+   "answer": 3,
+   "zhTerm": "业务成果",
+   "zh": "业务成果是上云后业务上能看到、能量化的变化；用业务语言讲结果，各部门才容易达成一致。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "Financial or fiscal performance is the cleanest business outcome for many business leaders, but not the only one.",
+   "options": [
+    "Responsible",
+    "migration motivation",
+    "fiscal outcome",
+    "critical business event"
+   ],
+   "answer": 2,
+   "zhTerm": "财务成果",
+   "zh": "财务成果就是钱方面的变化，比如降本、增收；最直观，但不是唯一的成果。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "Today's fast-changing business environment places a premium on time. The ability to respond to and drive market change quickly is the fundamental measure of business agility.",
+   "options": [
+    "business driver",
+    "CAF Adopt phase",
+    "Informed",
+    "agility outcome"
+   ],
+   "answer": 3,
+   "zhTerm": "敏捷成果",
+   "zh": "敏捷成果看的是速度：能多快应对或推动市场变化。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "In a constantly shrinking market, global reach (ability to support global customers and users) can be measured by compliance in geographies that are relevant to the business.",
+   "options": [
+    "reach outcome",
+    "solution delivery",
+    "Azure Well-Architected Framework",
+    "workload landing zone"
+   ],
+   "answer": 0,
+   "zhTerm": "覆盖范围成果",
+   "zh": "覆盖范围成果看的是能否服务全球客户；用在相关地区是否合规来衡量。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "Social marketplaces are redefining winners and losers at an unheard-of pace. Responding to user needs is a key measure of customer engagement.",
+   "options": [
+    "customer engagement outcome",
+    "business goal",
+    "Replatform",
+    "business case"
+   ],
+   "answer": 0,
+   "zhTerm": "客户互动成果",
+   "zh": "客户互动成果看的是对用户需求响应得好不好；响应得好，客户才留得住。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "Performance and reliability are assumed. When either falters, reputation damage can be painful and long-lasting.",
+   "options": [
+    "platform landing zone",
+    "performance outcome",
+    "Replatform",
+    "landing zone"
+   ],
+   "answer": 1,
+   "zhTerm": "性能成果",
+   "zh": "性能成果看的是系统快不快、稳不稳；一出问题，声誉损失很大。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "Environmental sustainability is quickly moving from a \"nice to have\" function of Corporate Social Responsibility (CSR) to a centerpiece of business strategy, increasingly embedded into everything a company does.",
+   "options": [
+    "security and compliance",
+    "motivation",
+    "sustainability outcome",
+    "Govern"
+   ],
+   "answer": 2,
+   "zhTerm": "可持续性成果",
+   "zh": "可持续性成果看的是环保目标，比如减少碳排放；它正从“加分项”变成企业战略的核心。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "A digital transformation goes hand-in-hand with a financial transformation. When you're making the shift to the cloud, there are ____ around how the cloud will impact your financial position, accounting KPIs, and processes...",
+   "options": [
+    "migration motivation",
+    "governance",
+    "financial considerations",
+    "Innovate"
+   ],
+   "answer": 2,
+   "zhTerm": "财务考量",
+   "zh": "财务考量是上云对公司财务的影响，比如从一次性买设备（CapEx）变成按用量付费（OpEx）；财务团队必须看懂。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "When you're making the shift to the cloud, there are ____ around how it will help improve how you manage and maintain your cloud and workloads.",
+   "options": [
+    "migration motivation",
+    "Innovate",
+    "business goal",
+    "technical considerations"
+   ],
+   "answer": 3,
+   "zhTerm": "技术考量",
+   "zh": "技术考量是上云在技术上带来的好处，比如可扩展、高可用、安全合规、按需使用容量。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "____, or the ability to scale out your resources depending on usage, utilization, and demand, is one of the foremost technical benefits of moving to the cloud.",
+   "options": [
+    "critical business event",
+    "Responsible",
+    "Rebuild",
+    "scalability"
+   ],
+   "answer": 3,
+   "zhTerm": "可扩展性",
+   "zh": "可扩展性就是按使用量和需求增减资源；这是上云最重要的技术好处之一。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "On-premises, it's more costly to build highly available infrastructure. It's less costly to architect highly available infrastructure in the cloud.",
+   "options": [
+    "Horizon 4 innovation and growth",
+    "high availability",
+    "governance",
+    "adoption horizons"
+   ],
+   "answer": 1,
+   "zhTerm": "高可用性",
+   "zh": "高可用性就是系统出故障时服务也尽量不中断；在云上搭高可用的基础设施比自建机房便宜。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "When it comes to ____, Microsoft is continually expanding our security infrastructure and toolsets to keep you on par with what's transpiring with respect to security threats on global networks.",
+   "options": [
+    "critical business event",
+    "cloud adoption team",
+    "security and compliance",
+    "capacity optimization"
+   ],
+   "answer": 2,
+   "zhTerm": "安全与合规",
+   "zh": "安全与合规指云厂商持续加强安全设施和工具，帮你跟上安全威胁并满足法规。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "____, where you only pay for the resources you utilize over time, is another technical benefit of the cloud.",
+   "options": [
+    "customer engagement outcome",
+    "capacity optimization",
+    "migration motivation",
+    "Replatform"
+   ],
+   "answer": 1,
+   "zhTerm": "容量优化",
+   "zh": "容量优化就是只为实际用到的资源付费，用弹性随时加减资源。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "A ____ provides a view of the technical and financial timeline of your environment. Developing a ____ includes building a financial plan that takes technical considerations into account and aligns with business outcomes.",
+   "options": [
+    "cloud center of excellence (CCoE)",
+    "business case",
+    "agility outcome",
+    "platform landing zone"
+   ],
+   "answer": 1,
+   "zhTerm": "商业论证",
+   "zh": "商业论证用数字说明上云值不值；它把技术和财务放在同一条时间线上，用来争取财务和管理层支持。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
+  },
+  {
+   "stem": "To create clarity and alignment, it's suggested that complex digital transformation projects align to an organization's horizons or phased program delivery. In this type of approach, the company commits to a single motivation category for a time-bound period.",
+   "options": [
+    "platform landing zone",
+    "Consulted",
+    "adoption horizons",
+    "business case"
+   ],
+   "answer": 2,
+   "zhTerm": "采用视野（分阶段推进）",
+   "zh": "采用视野就是把复杂的上云转型分阶段做：每个阶段在一段固定时间内只专注一类动机，大家一起完成后再进入下一阶段。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#build-a-digital-transformation-timeline"
+  },
+  {
+   "stem": "Prioritize the datacenter exit with a focus on modern platform as a service (PaaS) solutions over a basic lift-and-shift migration.",
+   "options": [
+    "cloud adoption strategy",
+    "landing zone",
+    "migration strategy",
+    "Horizon 1 migration and modernization"
+   ],
+   "answer": 3,
+   "zhTerm": "视野 1：迁移与现代化",
+   "zh": "第一个视野：迁移与现代化，优先完成退出数据中心，尽量迁到 PaaS，而不是简单地原样搬迁。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#build-a-digital-transformation-timeline"
+  },
+  {
+   "stem": "Prioritize operational improvements built on cloud-native governance, operations management, security, and compliance capabilities.",
+   "options": [
+    "management group hierarchy",
+    "Ready",
+    "Horizon 2 operation modernization",
+    "critical business event"
+   ],
+   "answer": 2,
+   "zhTerm": "视野 2：运营现代化",
+   "zh": "第二个视野：运营现代化，借助云原生的治理、运维管理、安全和合规能力改进日常运维。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#build-a-digital-transformation-timeline"
+  },
+  {
+   "stem": "With post-migration and operational improvements, the team will have sufficient data and cloud skills to perform deeper modernization of complex architectures.",
+   "options": [
+    "Rehost",
+    "Horizon 2 operation modernization",
+    "Horizon 3 advanced modernization",
+    "CAF Adopt phase"
+   ],
+   "answer": 2,
+   "zhTerm": "视野 3：深度现代化",
+   "zh": "第三个视野：深度现代化，迁移和运维改进之后，团队有了足够的数据和云技能，再去深度改造复杂架构。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#build-a-digital-transformation-timeline"
+  },
+  {
+   "stem": "Redirect capital reduction from datacenter exits and new skills in central IT to focus on accelerating continued innovation.",
+   "options": [
+    "Accountable",
+    "Horizon 2 operation modernization",
+    "Ready",
+    "Horizon 4 innovation and growth"
+   ],
+   "answer": 3,
+   "zhTerm": "视野 4：创新与增长",
+   "zh": "第四个视野：创新与增长，把退出数据中心省下的资金和 IT 新学到的技能，转投到持续创新上。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#build-a-digital-transformation-timeline"
+  },
+  {
+   "stem": "____ is the process of evaluating assets to determine the best way to migrate or modernize each asset in the cloud.",
+   "options": [
+    "capacity optimization",
+    "landing zone",
+    "cloud rationalization",
+    "platform operations"
+   ],
+   "answer": 2,
+   "zhTerm": "云合理化",
+   "zh": "云合理化就是逐个评估现有的 IT 资产，决定每个资产上云的最佳方式；结果用“五个 R”来标记。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
+  },
+  {
+   "stem": "Also known as a lift and shift migration, a ____ effort moves a current state asset to the chosen cloud provider with minimal change to the overall architecture.",
+   "options": [
+    "Modernize",
+    "Rehost",
+    "Migrate (CAF)",
+    "Strategy"
+   ],
+   "answer": 1,
+   "zhTerm": "重新托管",
+   "zh": "重新托管就是几乎原样把系统搬到云上，整体架构基本不改；它最快、风险最低。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
+  },
+  {
+   "stem": "Lift-and-shift migration: You set up cloud resources similar to your on-premises datacenter, and then move your workloads to the IaaS infrastructure.",
+   "options": [
+    "management",
+    "lift and shift",
+    "business outcome",
+    "customer engagement outcome"
+   ],
+   "answer": 1,
+   "zhTerm": "平移迁移",
+   "zh": "平移就是在云上搭一套和本地差不多的环境，把系统原样搬过去，基本不改代码。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
+  },
+  {
+   "stem": "Platform as a service (PaaS) options can reduce the operational costs that are associated with many applications. It's a good idea to slightly ____ an application to fit a PaaS-based model.",
+   "options": [
+    "platform landing zone",
+    "Refactor",
+    "cloud governance team",
+    "Horizon 2 operation modernization"
+   ],
+   "answer": 1,
+   "zhTerm": "重构",
+   "zh": "重构（五个 R 里的意思）就是把应用稍微改一改，让它能跑在 PaaS 上，从而降低运维成本。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
+  },
+  {
+   "stem": "Some aging applications aren't compatible with cloud providers. This incompatibility is because of the architectural decisions that were made when the application was built. In these cases, the application might need to be rearchitected before transformation.",
+   "options": [
+    "management group hierarchy",
+    "migration strategy",
+    "Rearchitect",
+    "Rebuild"
+   ],
+   "answer": 2,
+   "zhTerm": "重新架构",
+   "zh": "重新架构就是重新设计应用的架构；老应用因为当初的架构决定跑不了云，就要先改架构再迁移。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
+  },
+  {
+   "stem": "In some scenarios, the delta that must be overcome to carry an application forward can be too large to justify further investment. ... To resolve the issue, create a new code base to align with a cloud-native approach.",
+   "options": [
+    "RACI matrix",
+    "Rebuild",
+    "financial considerations",
+    "Azure Well-Architected Framework"
+   ],
+   "answer": 1,
+   "zhTerm": "重建",
+   "zh": "重建就是用云原生的方式重新写一套代码；老应用差距太大、不值得再改时用它。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
+  },
+  {
+   "stem": "____ architecture and technologies are an approach to designing, constructing, and operating workloads that are built in the cloud and take full advantage of the cloud computing model.",
+   "options": [
+    "Migrate (CAF)",
+    "CAF Adopt phase",
+    "Horizon 2 operation modernization",
+    "cloud-native"
+   ],
+   "answer": 3,
+   "zhTerm": "云原生",
+   "zh": "云原生是指一开始就为云设计和运行的系统，充分利用云的弹性和托管服务。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
+  },
+  {
+   "stem": "Sometimes software as a service (SaaS) applications can provide all the necessary functionality for the hosted application. In these scenarios, a workload can be scheduled for future replacement, which removes it from the transformation effort.",
+   "options": [
+    "Replace",
+    "management group hierarchy",
+    "business outcome",
+    "cloud governance team"
+   ],
+   "answer": 0,
+   "zhTerm": "替换",
+   "zh": "替换就是不再自己开发维护，改用现成的 SaaS 应用；这个工作负载就不用迁移了。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
+  },
+  {
+   "stem": "____ are high-level outcomes the organization wants to achieve from cloud adoption, such as adopting AI, increasing agility, accelerating innovation, reducing costs, and improving resilience.",
+   "options": [
+    "Govern",
+    "Rebuild",
+    "business goal",
+    "management"
+   ],
+   "answer": 2,
+   "zhTerm": "业务目标",
+   "zh": "业务目标是组织想通过上云得到的大方向结果，比如降本、更敏捷、更有韧性；它是所有迁移决定的背景。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
+  },
+  {
+   "stem": "A ____ defines why a workload needs to change in order to support a specific business goal.",
+   "options": [
+    "cloud-native",
+    "fiscal outcome",
+    "performance outcome",
+    "business driver"
+   ],
+   "answer": 3,
+   "zhTerm": "业务驱动因素",
+   "zh": "业务驱动因素说明某个工作负载为什么要变；它来自现状和目标之间的差距，用来选迁移策略。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
+  },
+  {
+   "stem": "A ____ defines how each workload transitions to Azure based on its business driver.",
+   "options": [
+    "migration strategy",
+    "business goal",
+    "capacity optimization",
+    "reach outcome"
+   ],
+   "answer": 0,
+   "zhTerm": "迁移策略",
+   "zh": "迁移策略说明每个工作负载怎样转到 Azure（八个 R 之一）；按它的业务驱动因素来选。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
+  },
+  {
+   "stem": "____ decommissions workloads that no longer provide business value.",
+   "options": [
+    "innovation motivation",
+    "governance",
+    "business outcome",
+    "Retire"
+   ],
+   "answer": 3,
+   "zhTerm": "停用",
+   "zh": "把已经没用、没价值的系统直接下线，不搬；省掉迁移成本。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
+  },
+  {
+   "stem": "Replatforming moves workloads to a modern hosting environment with minimal code changes.",
+   "options": [
+    "scalability",
+    "Replatform",
+    "governance",
+    "landing zone"
+   ],
+   "answer": 1,
+   "zhTerm": "更换平台",
+   "zh": "少量改动，把应用换到更现代的托管平台（如从虚拟机换到 App Service）；省掉系统维护。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
+  },
+  {
+   "stem": "A ____ strategy keeps workloads in their current environment when they're stable, compliant, and meet all current and future business needs with no near-term driver to move.",
+   "options": [
+    "migration strategy",
+    "Retain",
+    "high availability",
+    "governance"
+   ],
+   "answer": 1,
+   "zhTerm": "保留",
+   "zh": "暂时保持原样不迁移，比如受法规或技术依赖限制的系统；以后条件变了再考虑。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
+  },
+  {
+   "stem": "Align responsibilities by developing a cross-team matrix that identifies responsible, accountable, consulted, and informed (RACI) parties.",
+   "options": [
+    "CAF Adopt phase",
+    "RACI matrix",
+    "platform operations",
+    "Ready"
+   ],
+   "answer": 1,
+   "zhTerm": "RACI 责任分配矩阵",
+   "zh": "RACI 矩阵是一张表，写清每件事谁动手做（R）、谁最终担责（A）、要征求谁的意见（C）、做完通知谁（I）。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "The teams that are ____ for the outcomes.",
+   "options": [
+    "workload landing zone",
+    "management",
+    "Responsible",
+    "Strategy"
+   ],
+   "answer": 2,
+   "zhTerm": "负责执行（R）",
+   "zh": "R 是真正动手干活、对结果负责执行的团队；可以有多个。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "The one team that is ____ for a function.",
+   "options": [
+    "agility outcome",
+    "Modernize",
+    "Accountable",
+    "cloud governance team"
+   ],
+   "answer": 2,
+   "zhTerm": "最终负责（A）",
+   "zh": "A 是对某项职能最终拍板、出问题要担责的团队；每项只能有一个。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "The teams that should be ____ during planning.",
+   "options": [
+    "Consulted",
+    "performance outcome",
+    "Refactor",
+    "customer engagement outcome"
+   ],
+   "answer": 0,
+   "zhTerm": "咨询（C）",
+   "zh": "C 是在规划时要先问意见的团队；他们提建议，但不拍板。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "The teams that should be ____ when work is completed.",
+   "options": [
+    "Informed",
+    "motivation",
+    "cloud adoption strategy",
+    "capacity optimization"
+   ],
+   "answer": 0,
+   "zhTerm": "知会（I）",
+   "zh": "I 是工作完成后要被通知结果的团队；只需知道，不用参与。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "As adoption scales, the cloud governance team might struggle to keep pace with the flow of innovation from multiple cloud adoption teams... At this stage, it's common for companies to shift cloud responsibilities to an existing ____.",
+   "options": [
+    "critical business event",
+    "business driver",
+    "fiscal outcome",
+    "central IT team"
+   ],
+   "answer": 3,
+   "zhTerm": "中央 IT 团队",
+   "zh": "上云规模变大、治理团队忙不过来时，公司常把云的职责交给原有的中央 IT 团队；它要有成长心态，否则会拖慢上云。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "At the highest state of maturity, a ____ aligns teams around a modern cloud-first operating model. This approach provides centralized IT functions like governance, security, platform, and automation.",
+   "options": [
+    "Accountable",
+    "business case",
+    "sustainability outcome",
+    "cloud center of excellence (CCoE)"
+   ],
+   "answer": 3,
+   "zhTerm": "云卓越中心",
+   "zh": "云卓越中心是最成熟的团队结构：集中提供治理、安全、平台和自动化，同时尽量把控制权下放给各团队自助使用。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "Cloud adoption functions enable the implementation of technical solutions in the cloud.",
+   "options": [
+    "performance outcome",
+    "business driver",
+    "solution delivery",
+    "governance"
+   ],
+   "answer": 2,
+   "zhTerm": "方案交付",
+   "zh": "方案交付就是把技术方案真正在云上实施落地；这件事主要由云采用团队负责。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "Operate and manage the cloud platform.",
+   "options": [
+    "business case",
+    "workload landing zone",
+    "platform operations",
+    "Plan"
+   ],
+   "answer": 2,
+   "zhTerm": "平台运维",
+   "zh": "平台运维就是日常运行和管理整个云平台（落地区、共享服务）；在中央 IT 结构里由中央 IT 团队最终负责。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "The nucleus of all cloud adoption efforts is the ____. This team drives the technical changes that enable adoption.",
+   "options": [
+    "cloud-native",
+    "cloud adoption team",
+    "Retain",
+    "scalability"
+   ],
+   "answer": 1,
+   "zhTerm": "云采用团队",
+   "zh": "云采用团队是上云工作的核心，负责做具体的技术改动，把应用搬上云。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "...a ____ is dedicated to ensuring excellence in the solutions that are adopted. The ____ is accountable for platform maturity, platform operations, governance, and automation.",
+   "options": [
+    "business goal",
+    "Rehost",
+    "cloud governance team",
+    "Govern"
+   ],
+   "answer": 2,
+   "zhTerm": "云治理团队",
+   "zh": "云治理团队用来平衡云采用团队，保证上云的方案质量好；它对平台成熟度、平台运维、治理和自动化最终负责。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
+  },
+  {
+   "stem": "An Azure ____ is a proven and flexible architecture for governing, securing, and scaling a multi-subscription Azure environment.",
+   "options": [
+    "business case",
+    "landing zone",
+    "subscription",
+    "governance"
+   ],
+   "answer": 1,
+   "zhTerm": "落地区",
+   "zh": "落地区是提前搭好的 Azure 基础环境，治理、安全和网络规则都已定好；工作负载迁进来就能直接用。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
+  },
+  {
+   "stem": "The centralized foundation that establishes governance, security, and shared resources for all your Azure workloads.",
+   "options": [
+    "Retain",
+    "Accountable",
+    "platform landing zone",
+    "CAF Adopt phase"
+   ],
+   "answer": 2,
+   "zhTerm": "平台落地区",
+   "zh": "平台落地区是整个组织共用的中心底座，统一提供治理、安全和共享资源；通常一个租户只有一个。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
+  },
+  {
+   "stem": "The ____ provides the governance structure for the Azure environment. It organizes all of your Azure subscriptions and applies governance standards to those subscriptions.",
+   "options": [
+    "Migrate (CAF)",
+    "scalability",
+    "management group hierarchy",
+    "Retire"
+   ],
+   "answer": 2,
+   "zhTerm": "管理组层级",
+   "zh": "管理组层级是把所有订阅分组排好的树形结构；在上层设的治理规则会自动作用到下面的订阅。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
+  },
+  {
+   "stem": "The environments where workload teams deploy and operate workload resources within the guardrails of the platform landing zone.",
+   "options": [
+    "business goal",
+    "Replace",
+    "workload landing zone",
+    "Rebuild"
+   ],
+   "answer": 2,
+   "zhTerm": "工作负载落地区",
+   "zh": "工作负载落地区是给每个工作负载团队的环境（开发、测试、生产各自的订阅）；团队在平台落地区的规则内部署和运行。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
+  },
+  {
+   "stem": "In Azure, ____ are a unit of management, billing, and scale. ____ let you organize resource groups and control billing separately from access.",
+   "options": [
+    "CAF Secure phase",
+    "subscription",
+    "Replace",
+    "Rebuild"
+   ],
+   "answer": 1,
+   "zhTerm": "订阅",
+   "zh": "订阅是 Azure 里管理、计费和规模的单位；资源组放在订阅里，账单按订阅出。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
+  },
+  {
+   "stem": "This design area establishes a foundation for operations ____ across your Azure, hybrid, or multicloud environments.",
+   "options": [
+    "CAF Secure phase",
+    "management",
+    "capacity optimization",
+    "migration motivation"
+   ],
+   "answer": 1,
+   "zhTerm": "管理（运维）",
+   "zh": "管理就是日常运维：监控、合规运行、备份恢复，让云环境稳定运行。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
+  },
+  {
+   "stem": "Use Azure ____ to establish the tooling that you need to support cloud ____, compliance auditing, and automated guardrails.",
+   "options": [
+    "Migrate (CAF)",
+    "Cloud Adoption Framework (CAF)",
+    "governance",
+    "solution delivery"
+   ],
+   "answer": 2,
+   "zhTerm": "治理",
+   "zh": "治理就是用 Azure Policy 等工具定规则、查合规、自动拦住违规操作。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
+  },
+  {
+   "stem": "Microsoft-provided ____ for both platform landing zone and workload landing zone scenarios use infrastructure as code to deploy Azure environments based on recommended practices.",
+   "options": [
+    "Cloud Adoption Framework (CAF)",
+    "accelerator",
+    "technical considerations",
+    "Migrate (CAF)"
+   ],
+   "answer": 1,
+   "zhTerm": "加速器",
+   "zh": "加速器是微软提供的基础设施即代码模板，按推荐做法一键部署落地区；另一种做法是自己定制搭建。",
+   "page": "Cloud Adoption Framework for Azure",
+   "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
+  }
+ ]
+}

@@ -67,6 +67,20 @@ items:
       href: cst8913/labs/rehosting-to-azure.md
     - name: "Cloud resource comparison (lab 6)"
       href: cst8913/labs/cloud-resource-comparison.md
+  - name: Quizzes
+    items:
+    - name: "Week 1 quiz"
+      href: cst8913/quiz/week-1.md
+    - name: "Week 2 quiz"
+      href: cst8913/quiz/week-2.md
+    - name: "Week 3 quiz"
+      href: cst8913/quiz/week-3.md
+    - name: "Week 4 quiz"
+      href: cst8913/quiz/week-4.md
+    - name: "Week 5 quiz"
+      href: cst8913/quiz/week-5.md
+    - name: "Week 6 quiz"
+      href: cst8913/quiz/week-6.md
 - name: CST8914 Accessible by Design
   items:
   - name: Overview

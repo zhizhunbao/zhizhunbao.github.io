@@ -1,6 +1,8 @@
 // Draws the Learn-style page chrome from DocFX output: global and section navigation (toc.json),
 // the table of contents tree, breadcrumbs, "In this article", search (index.json) and the theme menu.
-// Also converts DocFX's Markdown output to Learn markup (alerts, tables, heading anchors).
+// Also converts DocFX's Markdown output to Learn markup (alerts, tables, heading anchors) and draws quizzes (quiz.js).
+
+import { quiz } from './quiz.js'
 
 const meta = (name) => document.querySelector(`meta[name="${name}"]`)?.content
 let page = new URL(location.href)
@@ -85,6 +87,7 @@ function content() {
   for (const a of body.querySelectorAll('a[href^="http"]')) {
     if (new URL(a.href).origin !== location.origin) a.setAttribute('data-linktype', 'external')
   }
+  quiz()
 }
 
 // ---------- header navigation ----------

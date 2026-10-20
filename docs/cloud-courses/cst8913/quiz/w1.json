@@ -1,0 +1,341 @@
+{
+ "title": "Week 1 quiz",
+ "questions": [
+  {
+   "stem": "____ is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+   "options": [
+    "staging area (index)",
+    "remote repository",
+    "Git",
+    "staged"
+   ],
+   "answer": 2,
+   "zhTerm": "Git 版本控制",
+   "zh": "Git 是记录文件改动历史的工具，每个人本地都有完整副本；可以回退、分支、合并。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "The ____ is a single checkout of one version of the project. These files are pulled out of the compressed database in the Git directory and placed on disk for you to use or modify.",
+   "options": [
+    "modified",
+    "working tree",
+    "remote repository",
+    "git add"
+   ],
+   "answer": 1,
+   "zhTerm": "工作区",
+   "zh": "工作区就是你电脑上能直接打开、修改的那份项目文件。你的改动先发生在这里，Git 还没有记录它们。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "____ means that you have changed the file but have not committed it to your database yet.",
+   "options": [
+    "working tree",
+    "staged",
+    "pull",
+    "modified"
+   ],
+   "answer": 3,
+   "zhTerm": "已修改",
+   "zh": "已修改是文件的一种状态：你改过了，但还没放进暂存区，也没提交。这时的改动最容易丢。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "Add contents of new or changed files to the index. The \"index\" (also known as the \"staging area\") is what you use to prepare the contents of the next commit.",
+   "options": [
+    "git add",
+    "staged",
+    "commit",
+    "working tree"
+   ],
+   "answer": 0,
+   "zhTerm": "git add 暂存",
+   "zh": "git add 把改动放进暂存区，准备下一次提交；没有 add 的改动不会进入 commit。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "The ____ is a file, generally contained in your Git directory, that stores information about what will go into your next commit. Its technical name in Git parlance is the \"____\"...",
+   "options": [
+    "staging area (index)",
+    "modified",
+    "push",
+    "commit"
+   ],
+   "answer": 0,
+   "zhTerm": "暂存区",
+   "zh": "暂存区是提交前的“候选清单”，用 git add 把改动放进来，下一次 commit 只记录这里的内容。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "____ means that you have marked a modified file in its current version to go into your next commit snapshot.",
+   "options": [
+    "modified",
+    "Git directory",
+    "staged",
+    "Git"
+   ],
+   "answer": 2,
+   "zhTerm": "已暂存",
+   "zh": "已暂存是文件的一种状态：你用 git add 把它当前的版本选进了下一次提交。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "With Git, every time you ____, or save the state of your project, Git basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot.",
+   "options": [
+    "push",
+    "commit",
+    "staging area (index)",
+    "working tree"
+   ],
+   "answer": 1,
+   "zhTerm": "提交",
+   "zh": "提交就是给整个项目拍一张快照，存进本地仓库的历史里。以后可以随时查看或回到这个版本。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "The ____ is where Git stores the metadata and object database for your project. This is the most important part of Git, and it is what is copied when you clone a repository from another computer.",
+   "options": [
+    "Git directory",
+    "Git",
+    "git add",
+    "staged"
+   ],
+   "answer": 0,
+   "zhTerm": "Git 目录（本地仓库）",
+   "zh": "Git 目录就是项目里的 .git 文件夹，也就是本地仓库，保存全部提交历史。不联网也能在这里提交和查看历史。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "____ means that the data is safely stored in your local database.",
+   "options": [
+    "push",
+    "committed",
+    "clone",
+    "Git"
+   ],
+   "answer": 1,
+   "zhTerm": "已提交",
+   "zh": "已提交是文件的一种状态：这个版本已经安全地存进了本地仓库，很难再丢失。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "A repository which is used to track the same project but resides somewhere else. To communicate with remotes, see fetch or push.",
+   "options": [
+    "Git",
+    "remote repository",
+    "clone",
+    "staging area (index)"
+   ],
+   "answer": 1,
+   "zhTerm": "远程仓库",
+   "zh": "远程仓库是放在别处（例如 GitHub）的同一个项目仓库，用来和别人共享代码、做备份。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "When you have your project at a point that you want to share, you have to ____ it upstream.",
+   "options": [
+    "git add",
+    "Git",
+    "Git directory",
+    "push"
+   ],
+   "answer": 3,
+   "zhTerm": "推送",
+   "zh": "推送就是把本地已经提交的内容上传到远程仓库，这样别人才能看到。命令是 git push。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "Pulling a branch means to fetch it and merge it.",
+   "options": [
+    "pull",
+    "working tree",
+    "clone",
+    "staged"
+   ],
+   "answer": 0,
+   "zhTerm": "拉取",
+   "zh": "拉取就是从远程仓库下载新改动并合并到本地分支，让本地保持最新。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "If you want to get a copy of an existing Git repository — for example, a project you’d like to contribute to — the command you need is git ____.",
+   "options": [
+    "modified",
+    "staged",
+    "pull",
+    "clone"
+   ],
+   "answer": 3,
+   "zhTerm": "克隆",
+   "zh": "克隆就是把一个已有的仓库完整复制到自己电脑上，包括几乎全部历史，而不只是最新的文件。",
+   "page": "Pro Git: getting started",
+   "href": "../lectures/pro-git-getting-started.html#what-is-git"
+  },
+  {
+   "stem": "____ is a platform that supports your entire software development process, from planning work to deploying and operating software.",
+   "options": [
+    "default branch",
+    "upstream repository",
+    "GitHub",
+    "shared repository model"
+   ],
+   "answer": 2,
+   "zhTerm": "GitHub 平台",
+   "zh": "GitHub 是在云上托管 Git 仓库的网站，并提供协作工具，比如拉取请求和代码审查。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "In the ____, anyone can fork an existing (\"upstream\") repository if they have read access and the owner of the upstream repository allows it.",
+   "options": [
+    "merge",
+    "fork and pull model",
+    "upstream repository",
+    "GitHub"
+   ],
+   "answer": 1,
+   "zhTerm": "复刻加拉取请求模式",
+   "zh": "复刻加拉取请求模式是一种协作方式：每个人先把原仓库复刻一份，在自己的副本里改，再用拉取请求把改动提回原仓库。开源项目最常用。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "Forks are repositories that start as copies of another repository, called the ____.",
+   "options": [
+    "branch",
+    "upstream repository",
+    "review",
+    "collaborator"
+   ],
+   "answer": 1,
+   "zhTerm": "上游仓库",
+   "zh": "上游仓库就是被复刻的那个原始仓库。复刻里的改动最后通过拉取请求合并回这里。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "A ____ is a separate repository with its own settings and collaboration space.",
+   "options": [
+    "pull request",
+    "fork and pull model",
+    "upstream repository",
+    "fork"
+   ],
+   "answer": 3,
+   "zhTerm": "复刻（Fork）",
+   "zh": "复刻是把别人的仓库复制一份到自己账号下，成为一个独立的仓库；你可以随便改，不影响原仓库。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "In the ____, collaborators have push access to a single shared repository and create topic branches when they need to make changes.",
+   "options": [
+    "merge",
+    "shared repository model",
+    "fork",
+    "collaborator"
+   ],
+   "answer": 1,
+   "zhTerm": "共享仓库模式",
+   "zh": "共享仓库模式是一种协作方式：团队成员都能直接推送到同一个仓库，每次改动开一个分支，再用拉取请求审查后合并。小团队常用。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "A ____ is a person with read and write access to a repository who has been invited to contribute by the repository owner.",
+   "options": [
+    "upstream repository",
+    "pull request",
+    "collaborator",
+    "merge"
+   ],
+   "answer": 2,
+   "zhTerm": "协作者",
+   "zh": "协作者是仓库主人邀请进来、能读也能写这个仓库的人。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "A \"____\" is a line of development. The most recent commit on a ____ is referred to as the tip of that ____.",
+   "options": [
+    "shared repository model",
+    "default branch",
+    "branch",
+    "pull request"
+   ],
+   "answer": 2,
+   "zhTerm": "分支",
+   "zh": "分支是一条独立的开发线；在分支上改代码不会影响主线，做完再合并。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "____ are proposals to merge code changes into a project.",
+   "options": [
+    "default branch",
+    "branch",
+    "shared repository model",
+    "pull request"
+   ],
+   "answer": 3,
+   "zhTerm": "拉取请求（PR）",
+   "zh": "拉取请求是在 GitHub 上提出“请把我的改动合并进来”的请求；别人先审查、讨论，再决定是否合并。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "Pull request ____ let people comment on changes, suggest improvements, and approve or request changes before code is merged.",
+   "options": [
+    "GitHub",
+    "review",
+    "fork and pull model",
+    "upstream repository"
+   ],
+   "answer": 1,
+   "zhTerm": "代码审查",
+   "zh": "审查就是别人在合并前看你的拉取请求，可以评论、批准或要求修改，保证代码质量。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another.",
+   "options": [
+    "merge",
+    "GitHub",
+    "upstream repository",
+    "default branch"
+   ],
+   "answer": 0,
+   "zhTerm": "合并",
+   "zh": "合并就是把一个分支的改动并入另一个分支；两边改了同一处时会出现冲突，要手动解决。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  },
+  {
+   "stem": "The base branch for new pull requests and code commits in a repository. Each repository has at least one branch, which Git creates when you initialize the repository. The first branch is usually called main, and is often the ____.",
+   "options": [
+    "branch",
+    "fork",
+    "default branch",
+    "shared repository model"
+   ],
+   "answer": 2,
+   "zhTerm": "默认分支",
+   "zh": "默认分支是仓库的主线分支，通常叫 main。新的拉取请求默认合并到这里。",
+   "page": "GitHub Docs: collaborating with pull requests",
+   "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
+  }
+ ]
+}
