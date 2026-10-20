@@ -234,9 +234,9 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 .kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+4), .kb-key[data-key="4"] { background: var(--kb-key-4); }
 .kb-key { font-weight: 600; }
 
-/* The verb or verb group (谓语) of a definition and of its translation (marks.js): a red wavy underline */
-.kb-role-V { text-decoration: underline wavy #c50f1f 1.5px; text-underline-offset: 4px; text-decoration-skip-ink: none; }
-.theme-dark .kb-role-V { text-decoration-color: #ff8f8f; }
+/* The main-clause predicate (谓语) of each sentence and of its translation (marks.js): a thin, light red wavy line */
+.kb-role-V { text-decoration: underline wavy rgba(197, 15, 31, .55) 1px; text-underline-offset: 4px; text-decoration-skip-ink: none; }
+.theme-dark .kb-role-V { text-decoration-color: rgba(255, 143, 143, .6); }
 
 /* Figures open on their own when clicked (kb.js lightbox): fixed size so browser zoom enlarges them, the overlay scrolls */
 .content img:not(a img) { cursor: zoom-in; }
