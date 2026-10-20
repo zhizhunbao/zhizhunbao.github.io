@@ -1,17 +1,9 @@
 {
  "GitHub": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "GitHub"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a platform"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -22,18 +14,10 @@
   ]
  },
  "fork and pull model": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "anyone"
-   ],
-   [
-    "V",
-    "can fork"
-   ],
-   [
-    "O",
-    "an existing (\"upstream\") repository"
+    "can fork",
+    0
    ]
   ],
   "zhVerbs": [
@@ -44,18 +28,10 @@
   ]
  },
  "upstream repository": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Forks"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "repositories"
+    "are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -66,18 +42,10 @@
   ]
  },
  "fork": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A fork"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a separate repository"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -88,26 +56,14 @@
   ]
  },
  "shared repository model": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "collaborators"
+    "have",
+    0
    ],
    [
-    "V",
-    "have"
-   ],
-   [
-    "O",
-    "push access"
-   ],
-   [
-    "V",
-    "create"
-   ],
-   [
-    "O",
-    "topic branches"
+    "create",
+    0
    ]
   ],
   "zhVerbs": [
@@ -122,18 +78,10 @@
   ]
  },
  "collaborator": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A collaborator"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a person"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -144,30 +92,14 @@
   ]
  },
  "branch": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A \"branch\""
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a line"
-   ],
-   [
-    "S",
-    "The most recent commit"
-   ],
-   [
-    "V",
-    "is referred to"
-   ],
-   [
-    "O",
-    "the tip"
+    "is referred to as",
+    0
    ]
   ],
   "zhVerbs": [
@@ -182,18 +114,10 @@
   ]
  },
  "pull request": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Pull requests"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "proposals"
+    "are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -204,18 +128,10 @@
   ]
  },
  "review": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Pull request reviews"
-   ],
-   [
-    "V",
-    "let"
-   ],
-   [
-    "O",
-    "people"
+    "let",
+    0
    ]
   ],
   "zhVerbs": [
@@ -226,26 +142,14 @@
   ]
  },
  "merge": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Merging"
+    "takes",
+    0
    ],
    [
-    "V",
-    "takes"
-   ],
-   [
-    "O",
-    "the changes"
-   ],
-   [
-    "V",
-    "applies"
-   ],
-   [
-    "O",
-    "them"
+    "applies",
+    0
    ]
   ],
   "zhVerbs": [
@@ -254,44 +158,24 @@
     0
    ],
    [
-    "应用",
+    "应用到",
     0
    ]
   ]
  },
  "default branch": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Each repository"
+    "has",
+    0
    ],
    [
-    "V",
-    "has"
+    "is usually called",
+    0
    ],
    [
-    "O",
-    "at least one branch"
-   ],
-   [
-    "S",
-    "The first branch"
-   ],
-   [
-    "V",
-    "is usually called"
-   ],
-   [
-    "O",
-    "main"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the default branch"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [

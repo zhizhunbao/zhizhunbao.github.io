@@ -69,18 +69,34 @@ items:
       href: cst8913/labs/cloud-resource-comparison.md
   - name: Quizzes
     items:
-    - name: "Week 1 quiz"
-      href: cst8913/quiz/week-1.md
-    - name: "Week 2 quiz"
-      href: cst8913/quiz/week-2.md
-    - name: "Week 3 quiz"
-      href: cst8913/quiz/week-3.md
-    - name: "Week 4 quiz"
-      href: cst8913/quiz/week-4.md
-    - name: "Week 5 quiz"
-      href: cst8913/quiz/week-5.md
-    - name: "Week 6 quiz"
-      href: cst8913/quiz/week-6.md
+    - name: Labs
+      items:
+      - name: "Git, GitHub and Markdown (lab 1)"
+        href: cst8913/quiz/lab-1.md
+      - name: "Levi Strauss & Co. migration case study (lab 2)"
+        href: cst8913/quiz/lab-2.md
+      - name: "IaaS and PaaS architecture (lab 3)"
+        href: cst8913/quiz/lab-3.md
+      - name: "Discovery and assessment (lab 4)"
+        href: cst8913/quiz/lab-4.md
+      - name: "Rehosting to Azure (lab 5)"
+        href: cst8913/quiz/lab-5.md
+      - name: "Cloud resource comparison (lab 6)"
+        href: cst8913/quiz/lab-6.md
+    - name: Lectures
+      items:
+      - name: "Week 1"
+        href: cst8913/quiz/lecture-week-1.md
+      - name: "Week 2"
+        href: cst8913/quiz/lecture-week-2.md
+      - name: "Week 3"
+        href: cst8913/quiz/lecture-week-3.md
+      - name: "Week 4"
+        href: cst8913/quiz/lecture-week-4.md
+      - name: "Week 5"
+        href: cst8913/quiz/lecture-week-5.md
+      - name: "Week 6"
+        href: cst8913/quiz/lecture-week-6.md
 - name: CST8914 Accessible by Design
   items:
   - name: Overview

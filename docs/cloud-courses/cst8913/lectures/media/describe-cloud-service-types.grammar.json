@@ -1,17 +1,9 @@
 {
  "Infrastructure as a Service (IaaS)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Infrastructure as a service (IaaS)"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the most flexible category"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -22,18 +14,10 @@
   ]
  },
  "Platform as a Service (PaaS)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Platform as a service (PaaS)"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a middle ground"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -44,23 +28,15 @@
   ]
  },
  "Software as a Service (SaaS)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "you"
-   ],
-   [
-    "V",
-    "’re essentially renting or using"
-   ],
-   [
-    "O",
-    "a fully developed application"
+    "renting or using",
+    0
    ]
   ],
   "zhVerbs": [
    [
-    "是在租用或使用",
+    "租用或使用",
     0
    ]
   ]

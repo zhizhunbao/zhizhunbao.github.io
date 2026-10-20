@@ -1,0 +1,725 @@
+{
+ "title": "Week 5 lecture quiz",
+ "questions": [
+  {
+   "stem": "Contoso has started moving its on-premises VMs to Azure with Azure Migrate. Azure first copies a snapshot of each VM's disks to seed disks and then keeps sending only the data that has changed since. What is this ongoing copy process called?",
+   "zhStem": "Contoso 已开始用 Azure Migrate 把本地虚拟机迁到 Azure。Azure 先把每台虚拟机磁盘的快照复制到种子磁盘，之后持续只发送此后变化的数据。这个持续进行的复制过程叫什么？",
+   "options": [
+    "test migration",
+    "discovery",
+    "replication",
+    "cutover"
+   ],
+   "answer": 2,
+   "zhTerm": "复制",
+   "definition": "During initial replication, a VM snapshot is created. Disk data from the snapshot is replicated to replica managed disks (seed disks) in Azure. After initial replication finishes, delta replication begins.",
+   "zh": "在初始复制期间，会创建虚拟机快照。快照中的磁盘数据会复制到 Azure 中的副本托管磁盘（种子磁盘）。初始复制完成后，增量复制开始。",
+   "keys": [
+    [
+     "initial replication",
+     "初始复制"
+    ],
+    [
+     "VM snapshot",
+     "虚拟机快照"
+    ],
+    [
+     "replica managed disks (seed disks)",
+     "副本托管磁盘（种子磁盘）"
+    ],
+    [
+     "delta replication",
+     "增量复制"
+    ]
+   ],
+   "verbs": [
+    [
+     "is created",
+     0
+    ],
+    [
+     "is replicated to",
+     0
+    ],
+    [
+     "begins",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "创建",
+     0
+    ],
+    [
+     "复制到",
+     0
+    ],
+    [
+     "开始",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Before switching any users over, Contoso wants to start an Azure VM from the copied disk data in an isolated, non-production VNet to check that the app works, while the source server keeps running. Which step should the team run?",
+   "zhStem": "在切换任何用户之前，Contoso 想用已复制的磁盘数据在一个隔离的非生产 VNet 中启动一台 Azure 虚拟机，检查应用是否正常，同时源服务器继续运行。团队应该执行哪一步？",
+   "options": [
+    "test migration",
+    "assessment",
+    "cutover",
+    "replication"
+   ],
+   "answer": 0,
+   "zhTerm": "测试迁移",
+   "definition": "Test migration simulates the migration by creating an Azure VM using replicated data (usually migrating to a non-production VNet in your Azure subscription).",
+   "zh": "测试迁移会模拟迁移，方法是使用复制的数据创建 Azure 虚拟机（通常迁移到你 Azure 订阅中的非生产虚拟网络）。",
+   "keys": [
+    [
+     "Test migration",
+     "测试迁移"
+    ],
+    [
+     "simulates the migration",
+     "模拟迁移"
+    ],
+    [
+     "replicated data",
+     "复制的数据"
+    ],
+    [
+     "non-production VNet",
+     "非生产虚拟网络"
+    ]
+   ],
+   "verbs": [
+    [
+     "simulates",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "模拟",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's VMs have finished copying to Azure and passed validation. Now the team wants the final move, in which Azure Migrate shuts down the source VM, syncs its last changes, and the Azure VM becomes the production server. Which step is this?",
+   "zhStem": "Contoso 的虚拟机已复制到 Azure 并通过验证。现在团队要做最后一步：Azure Migrate 关闭源虚拟机，同步最后的变化，然后 Azure 虚拟机成为生产服务器。这是哪一步？",
+   "options": [
+    "replication",
+    "cutover",
+    "test migration",
+    "discovery"
+   ],
+   "answer": 1,
+   "zhTerm": "切换",
+   "definition": "You can perform final migrations (Cutover) for these servers. ... By default Azure Migrate shuts down the source (on-premises or AVS) VM, and runs an on-demand replication to synchronize any VM changes that occurred since the last replication occurred.",
+   "zh": "你可以对这些服务器执行最终迁移（切换）。……默认情况下，Azure Migrate 会关闭源（本地或 AVS）虚拟机，并运行按需复制，以同步自上次复制以来发生的任何虚拟机更改。",
+   "keys": [
+    [
+     "final migrations (Cutover)",
+     "最终迁移（切换）"
+    ],
+    [
+     "shuts down the source",
+     "关闭源"
+    ],
+    [
+     "on-demand replication",
+     "按需复制"
+    ],
+    [
+     "synchronize",
+     "同步"
+    ]
+   ],
+   "verbs": [
+    [
+     "can perform",
+     0
+    ],
+    [
+     "shuts down",
+     0
+    ],
+    [
+     "runs",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "执行",
+     0
+    ],
+    [
+     "关闭",
+     0
+    ],
+    [
+     "运行",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's developers are refactoring an app and want one service that hosts their Git repositories, builds packages, and automatically releases changes to dev, test, and production environments. Which service should they use?",
+   "zhStem": "Contoso 的开发人员正在重构一个应用，想用一个服务来托管 Git 仓库、构建软件包，并自动把改动发布到开发、测试和生产环境。他们应该使用哪个服务？",
+   "options": [
+    "Azure Architecture Center",
+    "Azure DevOps",
+    "Azure App Service",
+    "Azure Migrate"
+   ],
+   "answer": 1,
+   "zhTerm": "Azure DevOps",
+   "definition": "Provides a continuous integration and continuous deployment (CI/CD) pipeline for app development. The pipeline starts with a Git repository for managing app code, a build system for producing packages and other build artifacts, and a Release Management system to deploy changes in dev, test, and production environments.",
+   "zh": "为应用开发提供持续集成和持续部署 (CI/CD) 管道。该管道首先包括：用于管理应用代码的 Git 仓库、用于生成包和其他生成项目的生成系统，以及用于在开发、测试和生产环境中部署更改的 Release Management 系统。",
+   "keys": [
+    [
+     "continuous integration and continuous deployment (CI/CD) pipeline",
+     "持续集成和持续部署 (CI/CD) 管道"
+    ],
+    [
+     "Git repository",
+     "Git 仓库"
+    ],
+    [
+     "build system",
+     "生成系统"
+    ],
+    [
+     "Release Management system",
+     "Release Management 系统"
+    ]
+   ],
+   "verbs": [
+    [
+     "Provides",
+     0
+    ],
+    [
+     "starts with",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "首先包括",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Before moving its SQL Server databases to Azure, Contoso's database administrator wants a standalone tool that scans them for unsupported features and other problems that would block the move. Which tool should the administrator run?",
+   "zhStem": "在把 SQL Server 数据库迁到 Azure 之前，Contoso 的数据库管理员想要一个独立工具，扫描数据库中不受支持的功能和其他会阻碍迁移的问题。管理员应该运行哪个工具？",
+   "options": [
+    "Movere",
+    "Azure Migrate appliance",
+    "Data Migration Assistant (DMA)",
+    "App Service Migration Assistant"
+   ],
+   "answer": 2,
+   "zhTerm": "数据迁移助手",
+   "definition": "Data Migration Assistant is a standalone tool to assess SQL servers. It helps pinpoint potential problems that block migration. It finds unsupported features, new features that can benefit you after migration, and the right path for database migration.",
+   "zh": "数据迁移助手是用于评估 SQL 服务器的独立工具。它有助于找出阻碍迁移的潜在问题。它会找出不受支持的功能、迁移后可为你带来好处的新功能，以及数据库迁移的正确路径。",
+   "keys": [
+    [
+     "Data Migration Assistant",
+     "数据迁移助手"
+    ],
+    [
+     "standalone tool",
+     "独立工具"
+    ],
+    [
+     "potential problems",
+     "潜在问题"
+    ],
+    [
+     "unsupported features",
+     "不受支持的功能"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "helps pinpoint",
+     0
+    ],
+    [
+     "finds",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "有助于找出",
+     0
+    ],
+    [
+     "会找出",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso wants to move its on-premises SQL Server databases to a PaaS service that is almost fully compatible with SQL Server Enterprise Edition, so the app and the databases need very few changes. Which service fits?",
+   "zhStem": "Contoso 想把本地 SQL Server 数据库迁到一个 PaaS 服务，该服务与 SQL Server 企业版几乎完全兼容，这样应用和数据库只需极少改动。哪个服务合适？",
+   "options": [
+    "Azure Database for MySQL",
+    "SQL Server",
+    "Azure Cosmos DB",
+    "Azure SQL Managed Instance"
+   ],
+   "answer": 3,
+   "zhTerm": "Azure SQL 托管实例",
+   "definition": "Azure SQL Managed Instance is a PaaS service that has near 100% compatibility with the latest Enterprise Edition SQL Server Database Engine. ... SQL Managed Instance enables existing SQL Server customers to lift and shift their on-premises applications to the cloud with minimal application and database changes.",
+   "zh": "Azure SQL 托管实例是一项 PaaS 服务，与最新的企业版 SQL Server 数据库引擎具有近乎 100% 的兼容性。……SQL 托管实例使现有 SQL Server 客户能够以最少的应用程序和数据库更改，将其本地应用程序直接迁移到云中。",
+   "keys": [
+    [
+     "Azure SQL Managed Instance",
+     "Azure SQL 托管实例"
+    ],
+    [
+     "PaaS service",
+     "PaaS 服务"
+    ],
+    [
+     "near 100% compatibility",
+     "近乎 100% 的兼容性"
+    ],
+    [
+     "lift and shift",
+     "直接迁移"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "enables",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "使",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso is refactoring a LAMP-stack website and wants to move its open-source relational database to a fully managed Azure service without changing the database engine. Which service should it choose?",
+   "zhStem": "Contoso 正在重构一个 LAMP 架构的网站，想把其开源关系数据库迁到一个完全托管的 Azure 服务，且不更换数据库引擎。它应该选择哪个服务？",
+   "options": [
+    "Azure SQL Managed Instance",
+    "Azure Database for MySQL",
+    "SQL Server",
+    "Azure Cosmos DB"
+   ],
+   "answer": 1,
+   "zhTerm": "Azure MySQL 数据库",
+   "definition": "Azure Database for MySQL flexible server is a fully managed, production-ready relational database service in the Microsoft Cloud.",
+   "zh": "Azure MySQL 数据库灵活服务器是一种完全托管的、可用于生产的关系数据库服务，位于 Microsoft 云中。",
+   "keys": [
+    [
+     "flexible server",
+     "灵活服务器"
+    ],
+    [
+     "fully managed",
+     "完全托管"
+    ],
+    [
+     "production-ready",
+     "可用于生产"
+    ],
+    [
+     "relational database service",
+     "关系数据库服务"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's new mobile game stores player profiles as schema-free JSON documents and needs single-digit millisecond reads and automatic scaling as players grow worldwide. Which fully managed database fits?",
+   "zhStem": "Contoso 的新手机游戏把玩家资料存为无固定结构的 JSON 文档，需要个位数毫秒级的读取，并随着全球玩家增长自动扩展。哪个完全托管的数据库合适？",
+   "options": [
+    "Azure Database for MySQL",
+    "Azure Cosmos DB",
+    "Azure SQL Managed Instance",
+    "SQL Server"
+   ],
+   "answer": 1,
+   "zhTerm": "Azure Cosmos DB（非关系数据库）",
+   "definition": "Azure Cosmos DB is a fully managed NoSQL and vector database. It offers single-digit millisecond response times, automatic and instant scalability, along with guaranteed speed at any scale.",
+   "zh": "Azure Cosmos DB 是一种完全托管的 NoSQL 和矢量数据库。它提供个位数毫秒级的响应时间、自动且即时的可扩展性，以及在任何规模下都有保证的速度。",
+   "keys": [
+    [
+     "Azure Cosmos DB",
+     "Azure Cosmos DB"
+    ],
+    [
+     "NoSQL and vector database",
+     "NoSQL 和矢量数据库"
+    ],
+    [
+     "single-digit millisecond response times",
+     "个位数毫秒级的响应时间"
+    ],
+    [
+     "automatic and instant scalability",
+     "自动且即时的可扩展性"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "offers",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "提供",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso wants its datacenter network to reach Azure over a private, dedicated connection set up through a connectivity provider, instead of over the public internet. What should it use?",
+   "zhStem": "Contoso 希望其数据中心网络通过连接服务商建立的私有专用连接访问 Azure，而不是走公共互联网。它应该使用什么？",
+   "options": [
+    "gateway subnet",
+    "Azure ExpressRoute",
+    "Azure Load Balancer",
+    "hybrid connection"
+   ],
+   "answer": 1,
+   "zhTerm": "ExpressRoute 专线",
+   "definition": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider.",
+   "zh": "ExpressRoute 让你可以将本地网络扩展到 Microsoft 云，方式是通过专用连接，并借助连接服务提供商的帮助。",
+   "keys": [
+    [
+     "ExpressRoute",
+     "ExpressRoute"
+    ],
+    [
+     "on-premises networks",
+     "本地网络"
+    ],
+    [
+     "Microsoft cloud",
+     "Microsoft 云"
+    ],
+    [
+     "private connection",
+     "专用连接"
+    ]
+   ],
+   "verbs": [
+    [
+     "lets",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "让",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso runs hundreds of VMs on VMware vSphere and wants to move them to Azure while keeping the same VMware tools and skills, running on dedicated bare-metal Azure hardware. Which service should it choose?",
+   "zhStem": "Contoso 在 VMware vSphere 上运行数百台虚拟机，想把它们迁到 Azure，同时保留相同的 VMware 工具和技能，并运行在专用的 Azure 裸机硬件上。它应该选择哪个服务？",
+   "options": [
+    "Azure DevOps",
+    "Azure Migrate",
+    "Azure App Service",
+    "Azure VMware Solution (AVS)"
+   ],
+   "answer": 3,
+   "zhTerm": "Azure VMware 解决方案",
+   "definition": "Azure VMware Solution provides private clouds that contain VMware vSphere clusters built from dedicated bare-metal Azure infrastructure.",
+   "zh": "Azure VMware 解决方案提供私有云，其中包含 VMware vSphere 群集，这些群集基于专用裸机 Azure 基础结构构建。",
+   "keys": [
+    [
+     "Azure VMware Solution",
+     "Azure VMware 解决方案"
+    ],
+    [
+     "private clouds",
+     "私有云"
+    ],
+    [
+     "VMware vSphere clusters",
+     "VMware vSphere 群集"
+    ],
+    [
+     "dedicated bare-metal Azure infrastructure",
+     "专用裸机 Azure 基础结构"
+    ]
+   ],
+   "verbs": [
+    [
+     "provides",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "In Azure VMware Solution, Contoso deploys one unit that bundles compute, networking, and storage, with vCenter Server, NSX, vSAN, and bare-metal ESXi hosts inside it, and it can hold several clusters. What is this unit called?",
+   "zhStem": "在 Azure VMware Solution 中，Contoso 部署了一个单元，它把计算、网络和存储打包在一起，内含 vCenter Server、NSX、vSAN 和裸机 ESXi 主机，并可包含多个集群。这个单元叫什么？",
+   "options": [
+    "VMware vSAN",
+    "Azure VMware Solution private cloud",
+    "ESXi host",
+    "cluster"
+   ],
+   "answer": 1,
+   "zhTerm": "AVS 私有云",
+   "definition": "Azure VMware Solution private cloud: Offers compute, networking, and storage resources by using VMware software, including vCenter Server, NSX software-defined networking, vSAN software-defined storage, and Azure bare-metal ESXi hosts.",
+   "zh": "Azure VMware Solution 私有云：使用 VMware 软件提供计算、网络和存储资源，包括 vCenter Server、NSX 软件定义网络、vSAN 软件定义存储和 Azure 裸机 ESXi 主机。",
+   "keys": [
+    [
+     "Azure VMware Solution private cloud",
+     "Azure VMware Solution 私有云"
+    ],
+    [
+     "VMware software",
+     "VMware 软件"
+    ],
+    [
+     "vCenter Server",
+     "vCenter Server"
+    ],
+    [
+     "Azure bare-metal ESXi hosts",
+     "Azure 裸机 ESXi 主机"
+    ]
+   ],
+   "verbs": [
+    [
+     "Offers",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's VMware administrators need the central management console they use to manage the ESXi hosts and vSAN storage in their Azure VMware Solution environment. Which component is it?",
+   "zhStem": "Contoso 的 VMware 管理员需要一个集中管理控制台，用来管理其 Azure VMware Solution 环境中的 ESXi 主机和 vSAN 存储。这是哪个组件？",
+   "options": [
+    "vCenter Server",
+    "VMware NSX",
+    "VMware vSAN",
+    "ESXi host"
+   ],
+   "answer": 0,
+   "zhTerm": "vCenter 服务器",
+   "definition": "VMware vCenter Server for managing ESXi and vSAN.",
+   "zh": "VMware vCenter Server，用于管理 ESXi 和 vSAN。",
+   "keys": [
+    [
+     "VMware vCenter Server",
+     "VMware vCenter Server"
+    ],
+    [
+     "managing ESXi and vSAN",
+     "管理 ESXi 和 vSAN"
+    ]
+   ],
+   "verbs": [],
+   "zhVerbs": []
+  },
+  {
+   "stem": "Contoso's VMware team needs to create software-defined network segments and routing for the workload VMs in its Azure VMware Solution private cloud. Which component provides this?",
+   "zhStem": "Contoso 的 VMware 团队需要为其 Azure VMware Solution 私有云中的工作负载虚拟机创建软件定义的网络段和路由。哪个组件提供这项功能？",
+   "options": [
+    "VMware vSAN",
+    "vCenter Server",
+    "VMware NSX",
+    "ESXi host"
+   ],
+   "answer": 2,
+   "zhTerm": "NSX 网络",
+   "definition": "VMware NSX software-defined networking for vSphere workload virtual machines (VMs).",
+   "zh": "VMware NSX 软件定义网络，用于 vSphere 工作负载虚拟机 (VM)。",
+   "keys": [
+    [
+     "VMware NSX",
+     "VMware NSX"
+    ],
+    [
+     "software-defined networking",
+     "软件定义网络"
+    ],
+    [
+     "vSphere workload virtual machines (VMs)",
+     "vSphere 工作负载虚拟机 (VM)"
+    ]
+   ],
+   "verbs": [],
+   "zhVerbs": []
+  },
+  {
+   "stem": "Contoso is planning an Azure VMware Solution deployment and must group at least three dedicated hosts into one hyperconverged unit inside its private cloud. What is this group called?",
+   "zhStem": "Contoso 正在规划 Azure VMware Solution 部署，必须在私有云中把至少三台专用主机组成一个超融合单元。这个组叫什么？",
+   "options": [
+    "availability set",
+    "Azure VMware Solution private cloud",
+    "ESXi host",
+    "cluster"
+   ],
+   "answer": 3,
+   "zhTerm": "集群",
+   "definition": "Azure VMware Solution clusters are based on a hyperconverged infrastructure. ... An Azure VMware Solution cluster requires a minimum number of three hosts.",
+   "zh": "Azure VMware Solution 集群基于超融合基础结构。……Azure VMware Solution 集群至少需要三台主机。",
+   "keys": [
+    [
+     "Azure VMware Solution clusters",
+     "Azure VMware Solution 集群"
+    ],
+    [
+     "hyperconverged infrastructure",
+     "超融合基础结构"
+    ],
+    [
+     "minimum number of three hosts",
+     "至少需要三台主机"
+    ]
+   ],
+   "verbs": [
+    [
+     "are based on",
+     0
+    ],
+    [
+     "requires",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "基于",
+     0
+    ],
+    [
+     "需要",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "In Contoso's Azure VMware Solution environment, each dedicated bare-metal server runs the VMware vSphere hypervisor that the workload VMs sit on. What is each such server called?",
+   "zhStem": "在 Contoso 的 Azure VMware Solution 环境中，每台专用裸机服务器都运行 VMware vSphere 虚拟机监控程序，工作负载虚拟机就运行在上面。每台这样的服务器叫什么？",
+   "options": [
+    "vCenter Server",
+    "VMware NSX",
+    "ESXi host",
+    "cluster"
+   ],
+   "answer": 2,
+   "zhTerm": "ESXi 主机",
+   "definition": "Dedicated bare-metal server hosts provisioned with VMware vSphere Hypervisor (ESXi).",
+   "zh": "专用裸机服务器主机，预配了 VMware vSphere Hypervisor (ESXi)。",
+   "keys": [
+    [
+     "Dedicated",
+     "专用"
+    ],
+    [
+     "bare-metal server hosts",
+     "裸机服务器主机"
+    ],
+    [
+     "VMware vSphere Hypervisor (ESXi)",
+     "VMware vSphere Hypervisor (ESXi)"
+    ]
+   ],
+   "verbs": [],
+   "zhVerbs": []
+  },
+  {
+   "stem": "Contoso's VMware administrators need the software-defined datastore, pooled from the hosts' local disks, that holds the disks of the workload VMs in Azure VMware Solution. Which component provides it?",
+   "zhStem": "Contoso 的 VMware 管理员需要一个软件定义的数据存储，它由各主机的本地磁盘汇集而成，用来存放 Azure VMware Solution 中工作负载虚拟机的磁盘。哪个组件提供它？",
+   "options": [
+    "ESXi host",
+    "VMware NSX",
+    "vCenter Server",
+    "VMware vSAN"
+   ],
+   "answer": 3,
+   "zhTerm": "vSAN 存储",
+   "definition": "VMware vSAN datastore for vSphere workload VMs.",
+   "zh": "VMware vSAN 数据存储，供 vSphere 工作负载虚拟机使用。",
+   "keys": [
+    [
+     "VMware vSAN",
+     "VMware vSAN"
+    ],
+    [
+     "datastore",
+     "数据存储"
+    ],
+    [
+     "vSphere workload VMs",
+     "vSphere 工作负载虚拟机"
+    ]
+   ],
+   "verbs": [],
+   "zhVerbs": []
+  }
+ ]
+}

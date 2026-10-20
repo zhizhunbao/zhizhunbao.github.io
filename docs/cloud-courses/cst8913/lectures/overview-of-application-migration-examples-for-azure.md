@@ -6,7 +6,7 @@ ms.date: 2026-10-19
 
 # Overview of application migration examples for Azure
 
-Study notes on [Cloud Adoption Framework, migration examples (retired)](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/cb2149769f66/docs/migrate/azure-best-practices/contoso-migration-overview.md), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in weeks 5 and 6. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The verb of each sentence is in a red box, in the English and in the Chinese.
+Study notes on [Cloud Adoption Framework, migration examples (retired)](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/cb2149769f66/docs/migrate/azure-best-practices/contoso-migration-overview.md), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in weeks 5 and 6. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The verb of each sentence has a red wavy underline, in the English and in the Chinese.
 
 ## [Rehost](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/cb2149769f66/docs/migrate/azure-best-practices/contoso-migration-overview.md#migration-patterns)
 

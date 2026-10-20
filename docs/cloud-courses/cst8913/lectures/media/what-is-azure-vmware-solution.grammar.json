@@ -1,17 +1,9 @@
 {
  "Azure ExpressRoute": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "ExpressRoute"
-   ],
-   [
-    "V",
-    "lets"
-   ],
-   [
-    "O",
-    "you"
+    "lets",
+    0
    ]
   ],
   "zhVerbs": [
@@ -22,18 +14,10 @@
   ]
  },
  "Azure VMware Solution (AVS)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure VMware Solution"
-   ],
-   [
-    "V",
-    "provides"
-   ],
-   [
-    "O",
-    "private clouds"
+    "provides",
+    0
    ]
   ],
   "zhVerbs": [
@@ -44,14 +28,10 @@
   ]
  },
  "Azure VMware Solution private cloud": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Offers"
-   ],
-   [
-    "O",
-    "compute, networking, and storage resources"
+    "Offers",
+    0
    ]
   ],
   "zhVerbs": [
@@ -62,34 +42,22 @@
   ]
  },
  "vCenter Server": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "VMware NSX": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "cluster": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure VMware Solution clusters"
+    "are based on",
+    0
    ],
    [
-    "V",
-    "are based"
-   ],
-   [
-    "S",
-    "An Azure VMware Solution cluster"
-   ],
-   [
-    "V",
-    "requires"
-   ],
-   [
-    "O",
-    "a minimum number"
+    "requires",
+    0
    ]
   ],
   "zhVerbs": [
@@ -104,11 +72,11 @@
   ]
  },
  "ESXi host": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "VMware vSAN": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  }
 }

@@ -1,25 +1,13 @@
 {
  "digital estate": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "the first step"
+    "starts with",
+    0
    ],
    [
-    "V",
-    "starts"
-   ],
-   [
-    "S",
-    "Those assets"
-   ],
-   [
-    "V",
-    "are referred to as"
-   ],
-   [
-    "O",
-    "your digital estate"
+    "are referred to as",
+    0
    ]
   ],
   "zhVerbs": [
@@ -34,30 +22,14 @@
   ]
  },
  "agentless discovery": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure Migrate"
+    "uses",
+    0
    ],
    [
-    "V",
-    "uses"
-   ],
-   [
-    "O",
-    "a lightweight Azure Migrate appliance"
-   ],
-   [
-    "S",
-    "Continuous discovery"
-   ],
-   [
-    "V",
-    "collects"
-   ],
-   [
-    "O",
-    "machine configuration information"
+    "collects",
+    0
    ]
   ],
   "zhVerbs": [
@@ -72,14 +44,10 @@
   ]
  },
  "Azure Migrate project": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A project"
-   ],
-   [
-    "V",
-    "is used"
+    "is used",
+    0
    ]
   ],
   "zhVerbs": [
@@ -90,26 +58,14 @@
   ]
  },
  "group (Azure Migrate)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "you"
+    "can create",
+    0
    ],
    [
-    "V",
-    "can create"
-   ],
-   [
-    "O",
-    "high-confidence groups"
-   ],
-   [
-    "V",
-    "start assessing"
-   ],
-   [
-    "O",
-    "them"
+    "start assessing",
+    0
    ]
   ],
   "zhVerbs": [
@@ -124,14 +80,10 @@
   ]
  },
  "Ready for Azure": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Machines"
-   ],
-   [
-    "V",
-    "can be migrated"
+    "can be migrated",
+    0
    ]
   ],
   "zhVerbs": [
@@ -142,22 +94,14 @@
   ]
  },
  "Conditionally ready for Azure": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Machines"
+    "can be migrated",
+    0
    ],
    [
-    "V",
-    "can be migrated"
-   ],
-   [
-    "V",
-    "need"
-   ],
-   [
-    "O",
-    "minor changes"
+    "need",
+    0
    ]
   ],
   "zhVerbs": [
@@ -172,22 +116,14 @@
   ]
  },
  "Not ready for Azure": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Machines"
+    "can't be migrated",
+    0
    ],
    [
-    "V",
-    "can't be migrated"
-   ],
-   [
-    "S",
-    "Issues"
-   ],
-   [
-    "V",
-    "must be fixed"
+    "must be fixed",
+    0
    ]
   ],
   "zhVerbs": [
@@ -202,18 +138,10 @@
   ]
  },
  "Readiness unknown": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure Migrate"
-   ],
-   [
-    "V",
-    "can't determine"
-   ],
-   [
-    "O",
-    "machine readiness"
+    "can't determine",
+    0
    ]
   ],
   "zhVerbs": [
@@ -224,22 +152,14 @@
   ]
  },
  "performance-based sizing": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The performance-based sizing option"
+    "helps",
+    0
    ],
    [
-    "V",
-    "helps"
-   ],
-   [
-    "O",
-    "you"
-   ],
-   [
-    "V",
-    "should be used"
+    "should be used as",
+    0
    ]
   ],
   "zhVerbs": [
@@ -248,24 +168,16 @@
     0
    ],
    [
-    "加以使用",
+    "应作为",
     0
    ]
   ]
  },
  "as on-premises (as-is) sizing": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "You"
-   ],
-   [
-    "V",
-    "can get"
-   ],
-   [
-    "O",
-    "sizing recommendations"
+    "can get",
+    0
    ]
   ],
   "zhVerbs": [
@@ -276,18 +188,10 @@
   ]
  },
  "database assessment": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "you"
-   ],
-   [
-    "V",
-    "can assess"
-   ],
-   [
-    "O",
-    "the readiness"
+    "can assess",
+    0
    ]
   ],
   "zhVerbs": [
@@ -298,14 +202,10 @@
   ]
  },
  "blocker": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "review and mitigate"
-   ],
-   [
-    "O",
-    "any compatibility issues or unsupported features"
+    "review and mitigate",
+    0
    ]
   ],
   "zhVerbs": [
@@ -316,27 +216,14 @@
   ]
  },
  "workload prioritization": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "you",
-    1
+    "can identify",
+    0
    ],
    [
-    "V",
-    "can identify"
-   ],
-   [
-    "O",
-    "which applications and workloads to migrate first"
-   ],
-   [
-    "V",
-    "consider"
-   ],
-   [
-    "O",
-    "factors"
+    "consider",
+    0
    ]
   ],
   "zhVerbs": [
@@ -351,14 +238,10 @@
   ]
  },
  "migration plan": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Create"
-   ],
-   [
-    "O",
-    "an effective cloud migration plan"
+    "Create",
+    0
    ]
   ],
   "zhVerbs": [
@@ -369,22 +252,14 @@
   ]
  },
  "migration wave": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "plan"
+    "plan",
+    0
    ],
    [
-    "O",
-    "a series"
-   ],
-   [
-    "V",
-    "Identify"
-   ],
-   [
-    "O",
-    "a small set"
+    "Identify",
+    0
    ]
   ],
   "zhVerbs": [
@@ -399,26 +274,18 @@
   ]
  },
  "recovery time objective (RTO)": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "maintenance window": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Build"
+    "Build",
+    0
    ],
    [
-    "O",
-    "a migration roadmap"
-   ],
-   [
-    "V",
-    "Declare"
-   ],
-   [
-    "O",
-    "a maintenance window"
+    "Declare",
+    0
    ]
   ],
   "zhVerbs": [
@@ -433,18 +300,10 @@
   ]
  },
  "post-migration testing": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A post-migration testing plan"
-   ],
-   [
-    "V",
-    "should include"
-   ],
-   [
-    "O",
-    "functional, integration, security, and performance testing and use cases"
+    "should include",
+    0
    ]
   ],
   "zhVerbs": [
