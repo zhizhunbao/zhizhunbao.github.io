@@ -2,8 +2,8 @@
  "title": "IaaS and PaaS architecture (lab 3) quiz",
  "questions": [
   {
-   "stem": "Contoso wants to move its React, Flask and PostgreSQL web app to Azure VMs and keep full control of every server. How should the team lay out the three tiers on IaaS?",
-   "zhStem": "Contoso 想把它的 React、Flask 和 PostgreSQL Web 应用迁移到 Azure 虚拟机上，并完全掌控每台服务器。团队应该如何在 IaaS 上布置这三层？",
+   "stem": "How can this application be deployed in the cloud using IaaS infrastructure?",
+   "zhStem": "这个应用如何使用 IaaS 基础设施部署到云中？",
    "options": [
     "Put all three tiers on one large VM to keep management simple",
     "Give each tier its own subnet with two VMs in different availability zones",
@@ -12,11 +12,89 @@
    ],
    "answer": 1,
    "explain": "Each tier gets its own subnet and two VMs in different availability zones, because the N-tier reference architecture isolates tiers and survives the loss of one zone.",
-   "zhExplain": "每一层都有自己的子网和分布在不同可用区的两台虚拟机，因为 N 层参考架构既隔离各层，又能在一个可用区故障时继续运行。"
+   "zhExplain": "每一层都有自己的子网和分布在不同可用区的两台虚拟机，因为 N 层参考架构既隔离各层，又能在一个可用区故障时继续运行。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "application",
+       "应用"
+      ],
+      [
+       "IaaS infrastructure",
+       "IaaS 基础设施"
+      ]
+     ],
+     "verbs": [
+      [
+       "can",
+       0
+      ],
+      [
+       "be deployed",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "部署到",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "subnet",
+       "子网"
+      ],
+      [
+       "availability zones",
+       "可用区"
+      ],
+      [
+       "N-tier reference architecture",
+       "N 层参考架构"
+      ]
+     ],
+     "verbs": [
+      [
+       "gets",
+       0
+      ],
+      [
+       "isolates",
+       0
+      ],
+      [
+       "survives",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "有",
+       0
+      ],
+      [
+       "隔离",
+       0
+      ],
+      [
+       "继续运行",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "A Contoso operations team runs its Flask API on Azure virtual machines. On this IaaS setup, what does Azure supply and what must the team manage itself?",
-   "zhStem": "Contoso 的运维团队在 Azure 虚拟机上运行 Flask API。在这种 IaaS 部署中，Azure 提供什么，团队自己必须管理什么？",
+   "stem": "On IaaS, what does Azure supply and what must the customer manage?",
+   "zhStem": "在 IaaS 中，Azure 提供什么，客户必须自己管理什么？",
    "options": [
     "Azure patches the guest OS; the team manages only the application code",
     "Azure manages the OS and runtime; the team manages only the data",
@@ -25,11 +103,97 @@
    ],
    "answer": 3,
    "explain": "Azure supplies only the VMs, disks and network, because on IaaS the customer builds and maintains every piece of software, including the OS, on those VMs.",
-   "zhExplain": "Azure 只提供虚拟机、磁盘和网络，因为在 IaaS 中客户要自己构建和维护虚拟机上的所有软件，包括操作系统。"
+   "zhExplain": "Azure 只提供虚拟机、磁盘和网络，因为在 IaaS 中客户要自己构建和维护虚拟机上的所有软件，包括操作系统。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "IaaS",
+       "IaaS"
+      ],
+      [
+       "Azure",
+       "Azure"
+      ],
+      [
+       "customer",
+       "客户"
+      ]
+     ],
+     "verbs": [
+      [
+       "supply",
+       0
+      ],
+      [
+       "manage",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提供",
+       0
+      ],
+      [
+       "管理",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "VMs",
+       "虚拟机"
+      ],
+      [
+       "disks",
+       "磁盘"
+      ],
+      [
+       "network",
+       "网络"
+      ],
+      [
+       "software",
+       "软件"
+      ]
+     ],
+     "verbs": [
+      [
+       "supplies",
+       0
+      ],
+      [
+       "builds",
+       0
+      ],
+      [
+       "maintains",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提供",
+       0
+      ],
+      [
+       "构建",
+       0
+      ],
+      [
+       "维护",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "In Contoso's IaaS design, the web VMs must not be reachable from the internet directly, and only the web tier may call the API tier. How are subnets, NSGs and load balancers used to achieve this?",
-   "zhStem": "在 Contoso 的 IaaS 设计中，Web 虚拟机不能直接从互联网访问，并且只有 Web 层可以调用 API 层。如何使用子网、NSG 和负载均衡器来实现这一点？",
+   "stem": "On IaaS, how do you keep web VMs off the internet and let only the web tier call the API tier?",
+   "zhStem": "在 IaaS 中，如何让 Web VM 不直接暴露在互联网上，并且只允许 Web 层调用 API 层？",
    "options": [
     "One subnet per tier; each NSG allows only traffic from the tier in front",
     "One shared subnet for all tiers; one NSG allows all traffic inside the VNet",
@@ -38,11 +202,117 @@
    ],
    "answer": 0,
    "explain": "Each tier sits in its own subnet whose NSG admits only the tier in front of it, because then the public load balancer is the only entry point and the API is reached only through the internal load balancer.",
-   "zhExplain": "每一层都位于自己的子网中，其 NSG 只允许前一层的流量进入，因为这样公共负载均衡器就是唯一入口，而 API 只能通过内部负载均衡器访问。"
+   "zhExplain": "每一层都位于自己的子网中，其 NSG 只允许前一层的流量进入，因为这样公共负载均衡器就是唯一入口，而 API 只能通过内部负载均衡器访问。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "web VMs",
+       "Web VM"
+      ],
+      [
+       "internet",
+       "互联网"
+      ],
+      [
+       "web tier",
+       "Web 层"
+      ],
+      [
+       "API tier",
+       "API 层"
+      ]
+     ],
+     "verbs": [
+      [
+       "keep",
+       0
+      ],
+      [
+       "let",
+       0
+      ],
+      [
+       "call",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "不直接暴露",
+       0
+      ],
+      [
+       "允许",
+       0
+      ],
+      [
+       "调用",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "subnet",
+       "子网"
+      ],
+      [
+       "NSG",
+       "NSG"
+      ],
+      [
+       "public load balancer",
+       "公共负载均衡器"
+      ],
+      [
+       "internal load balancer",
+       "内部负载均衡器"
+      ]
+     ],
+     "verbs": [
+      [
+       "sits in",
+       0
+      ],
+      [
+       "admits",
+       0
+      ],
+      [
+       "is",
+       0
+      ],
+      [
+       "is reached",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "位于",
+       0
+      ],
+      [
+       "允许",
+       0
+      ],
+      [
+       "就是",
+       0
+      ],
+      [
+       "访问",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso's architect worries that a power failure in one Azure datacenter could take the whole app offline. How should the IaaS design use availability zones?",
-   "zhStem": "Contoso 的架构师担心一个 Azure 数据中心断电会让整个应用下线。IaaS 设计应如何使用可用区？",
+   "stem": "How should an IaaS design use availability zones so one datacenter failure does not take the app offline?",
+   "zhStem": "IaaS 设计应如何使用可用性区域，使一个数据中心故障不会让应用下线？",
    "options": [
     "Put both VMs of each tier in the same zone for lower latency",
     "Use zones only for the database and keep the web tier in one zone",
@@ -51,11 +321,89 @@
    ],
    "answer": 2,
    "explain": "The two VMs of every tier go in different availability zones, because a failure in one zone then leaves a working VM in each tier.",
-   "zhExplain": "每一层的两台虚拟机放在不同的可用区，因为这样一个可用区故障时，每一层仍有一台虚拟机在运行。"
+   "zhExplain": "每一层的两台虚拟机放在不同的可用区，因为这样一个可用区故障时，每一层仍有一台虚拟机在运行。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "IaaS design",
+       "IaaS 设计"
+      ],
+      [
+       "availability zones",
+       "可用性区域"
+      ],
+      [
+       "datacenter failure",
+       "数据中心故障"
+      ],
+      [
+       "app",
+       "应用"
+      ]
+     ],
+     "verbs": [
+      [
+       "use",
+       0
+      ],
+      [
+       "does not take",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "使用",
+       0
+      ],
+      [
+       "不会让",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "VMs",
+       "虚拟机"
+      ],
+      [
+       "availability zones",
+       "可用区"
+      ],
+      [
+       "failure",
+       "故障"
+      ]
+     ],
+     "verbs": [
+      [
+       "go in",
+       0
+      ],
+      [
+       "leaves",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "放在",
+       0
+      ],
+      [
+       "仍有",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso now wants to run the same React and Flask app without managing any servers. How should the team deploy it on PaaS?",
-   "zhStem": "Contoso 现在想在不管理任何服务器的情况下运行同一个 React 和 Flask 应用。团队应如何在 PaaS 上部署它？",
+   "stem": "How can this application be deployed in the cloud using PaaS infrastructure?",
+   "zhStem": "这个应用如何使用 PaaS 基础设施部署到云中？",
    "options": [
     "Keep the VMs but turn on automatic OS updates for each of them",
     "Move each VM into a container and run the containers on more VMs",
@@ -64,11 +412,89 @@
    ],
    "answer": 3,
    "explain": "Each tier is replaced by a managed Azure service behind one public entry point, because Azure then runs the servers, patching, scaling and backups and the API is never called directly.",
-   "zhExplain": "每一层都换成一个托管的 Azure 服务，并只保留一个公共入口，因为这样服务器、补丁、扩缩和备份都由 Azure 负责，而且 API 不会被直接调用。"
+   "zhExplain": "每一层都换成一个托管的 Azure 服务，并只保留一个公共入口，因为这样服务器、补丁、扩缩和备份都由 Azure 负责，而且 API 不会被直接调用。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "application",
+       "应用"
+      ],
+      [
+       "PaaS infrastructure",
+       "PaaS 基础设施"
+      ]
+     ],
+     "verbs": [
+      [
+       "can",
+       0
+      ],
+      [
+       "be deployed",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "部署到",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "managed Azure service",
+       "托管的 Azure 服务"
+      ],
+      [
+       "public entry point",
+       "公共入口"
+      ],
+      [
+       "API",
+       "API"
+      ]
+     ],
+     "verbs": [
+      [
+       "is replaced by",
+       0
+      ],
+      [
+       "runs",
+       0
+      ],
+      [
+       "is never called",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "换成",
+       0
+      ],
+      [
+       "负责",
+       0
+      ],
+      [
+       "不会被直接调用",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "In Contoso's PaaS design, the Flask API must run on at least two instances in different zones and scale out automatically. Which managed service should host the Flask API?",
-   "zhStem": "在 Contoso 的 PaaS 设计中，Flask API 必须在不同可用区运行至少两个实例，并能自动横向扩展。应该用哪个托管服务来托管 Flask API？",
+   "stem": "Which service should host a Flask API that needs at least two instances across zones and automatic scale-out?",
+   "zhStem": "哪个服务应托管需要跨区域至少两个实例并自动横向扩展的 Flask API？",
    "options": [
     "Azure Static Web Apps, which serves the React build from a CDN",
     "Azure App Service (Premium v3) with its built-in load balancer and autoscale",
@@ -77,11 +503,93 @@
    ],
    "answer": 1,
    "explain": "App Service (Premium v3) hosts the Flask API, because it runs multiple zone-spread instances behind a built-in load balancer and autoscale adds instances.",
-   "zhExplain": "Flask API 由 App Service（Premium v3）托管，因为它能在内置负载均衡器后面运行分布在多个可用区的实例，并通过自动缩放增加实例。"
+   "zhExplain": "Flask API 由 App Service（Premium v3）托管，因为它能在内置负载均衡器后面运行分布在多个可用区的实例，并通过自动缩放增加实例。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "service",
+       "服务"
+      ],
+      [
+       "zones",
+       "区域"
+      ],
+      [
+       "scale-out",
+       "横向扩展"
+      ]
+     ],
+     "verbs": [
+      [
+       "should host",
+       0
+      ],
+      [
+       "needs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "应托管",
+       0
+      ],
+      [
+       "需要",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "App Service (Premium v3)",
+       "App Service（Premium v3）"
+      ],
+      [
+       "built-in load balancer",
+       "内置负载均衡器"
+      ],
+      [
+       "autoscale",
+       "自动缩放"
+      ]
+     ],
+     "verbs": [
+      [
+       "hosts",
+       0
+      ],
+      [
+       "runs",
+       0
+      ],
+      [
+       "adds",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "托管",
+       0
+      ],
+      [
+       "运行",
+       0
+      ],
+      [
+       "增加",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "A small Contoso team must choose between 14 self-managed VMs on IaaS and managed services on PaaS for its web app. When is PaaS the better choice?",
-   "zhStem": "Contoso 的一个小团队需要为其 Web 应用在 IaaS 上的 14 台自管虚拟机和 PaaS 上的托管服务之间做出选择。什么情况下 PaaS 是更好的选择？",
+   "stem": "For a web app, when is PaaS a better choice than self-managed VMs on IaaS?",
+   "zhStem": "对于 Web 应用，什么时候 PaaS 比 IaaS 上自管理的虚拟机更合适？",
    "options": [
     "When every tier can run as a managed service and the team wants to focus on code",
     "When the team needs full control of the OS and every server setting",
@@ -90,7 +598,188 @@
    ],
    "answer": 0,
    "explain": "PaaS is the better fit when every tier runs as a managed service, because Azure then handles patching, scaling, monitoring and backups and the team can focus on the code.",
-   "zhExplain": "当每一层都能以托管服务运行时，PaaS 更合适，因为补丁、扩缩、监控和备份都由 Azure 处理，团队可以专注于代码。"
+   "zhExplain": "当每一层都能以托管服务运行时，PaaS 更合适，因为补丁、扩缩、监控和备份都由 Azure 处理，团队可以专注于代码。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "web app",
+       "Web 应用"
+      ],
+      [
+       "PaaS",
+       "PaaS"
+      ],
+      [
+       "self-managed VMs",
+       "自管理的虚拟机"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "更合适",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "PaaS",
+       "PaaS"
+      ],
+      [
+       "patching",
+       "补丁"
+      ],
+      [
+       "code",
+       "代码"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "runs as",
+       0
+      ],
+      [
+       "handles",
+       0
+      ],
+      [
+       "can focus on",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "更合适",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "处理",
+       0
+      ],
+      [
+       "可以专注于",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "For each case, how do you draw a diagram that represents the target architecture and describe each of the chosen cloud components?",
+   "zhStem": "对于每种情况，如何画出表示目标架构的图，并描述所选的每个云组件？",
+   "options": [
+    "Draw one diagram for both cases and list only the tier names",
+    "Draw only the current app diagram and skip the cloud services",
+    "Draw each case's Azure components and links, then state each one's role",
+    "Skip the diagrams and compare the monthly price of each case"
+   ],
+   "answer": 2,
+   "explain": "Draw one diagram per case with every chosen component and its connections, then give each component's role, because the rubric gives 1 mark for the diagram and 2 marks for the description.",
+   "zhExplain": "每种情况画一张图，标出所选的每个组件及其连线，再写出每个组件的作用，因为评分标准给图 1 分、给描述 2 分。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "target architecture",
+       "目标架构"
+      ],
+      [
+       "cloud components",
+       "云组件"
+      ]
+     ],
+     "verbs": [
+      [
+       "draw",
+       0
+      ],
+      [
+       "represents",
+       0
+      ],
+      [
+       "describe",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "画出",
+       0
+      ],
+      [
+       "表示",
+       0
+      ],
+      [
+       "描述",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "diagram",
+       "图"
+      ],
+      [
+       "role",
+       "作用"
+      ],
+      [
+       "rubric",
+       "评分标准"
+      ]
+     ],
+     "verbs": [
+      [
+       "Draw",
+       0
+      ],
+      [
+       "give",
+       0
+      ],
+      [
+       "gives",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "画",
+       0
+      ],
+      [
+       "写出",
+       0
+      ],
+      [
+       "给",
+       0
+      ]
+     ]
+    }
+   }
   }
  ]
 }

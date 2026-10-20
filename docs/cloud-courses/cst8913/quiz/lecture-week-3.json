@@ -2,8 +2,42 @@
  "title": "Week 3 lecture quiz",
  "questions": [
   {
-   "stem": "Before designing a three-tier Windows app on Azure from scratch, Contoso's architect wants a proven, validated design for this common kind of workload to start from, so decisions are faster and less risky. What should the architect look for?",
-   "zhStem": "在从零开始设计 Azure 上的三层 Windows 应用之前，Contoso 的架构师想找一个针对这类常见工作负载、经过验证的成熟设计作为起点，让决策更快、风险更低。架构师应该找什么？",
+   "stem": "Instead of designing a common workload from scratch, what proven, validated design should an architect start from?",
+   "zhStem": "与其从零设计常见工作负载，架构师应该从哪种经过验证的设计入手？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "common workload",
+       "常见工作负载"
+      ],
+      [
+       "validated design",
+       "经过验证的设计"
+      ]
+     ],
+     "verbs": [
+      [
+       "should",
+       0
+      ],
+      [
+       "start from",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "应该",
+       0
+      ],
+      [
+       "入手",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "reference architecture",
     "Azure Well-Architected Framework",
@@ -70,8 +104,42 @@
    ]
   },
   {
-   "stem": "Contoso wants to split its order app into separate layers for the user interface, the business logic and the database, with each layer running on its own group of VMs. Which architecture style is this?",
-   "zhStem": "Contoso 想把订单应用拆分为用户界面、业务逻辑和数据库几个独立的层，每一层运行在自己的一组虚拟机上。这是哪种架构风格？",
+   "stem": "Which architecture style splits an app into separate UI, business logic and database layers, each on its own VMs?",
+   "zhStem": "哪种架构风格把应用拆成界面、业务逻辑和数据库三个独立层，各自运行在自己的虚拟机上？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "architecture style",
+       "架构风格"
+      ],
+      [
+       "UI",
+       "界面"
+      ],
+      [
+       "business logic",
+       "业务逻辑"
+      ],
+      [
+       "database layers",
+       "数据库"
+      ]
+     ],
+     "verbs": [
+      [
+       "splits",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "拆成",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "N-tier architecture",
     "multi-cloud",
@@ -122,8 +190,50 @@
    ]
   },
   {
-   "stem": "Contoso's team puts all the VMs, networks and databases of one app into a single container so they can manage them together, and later remove every one of them with a single delete. What is this container?",
-   "zhStem": "Contoso 的团队把一个应用的所有虚拟机、网络和数据库放进同一个容器中统一管理，之后只需一次删除就能把它们全部移除。这个容器是什么？",
+   "stem": "Which Azure container holds an app's related resources so you can manage them together and delete them all at once?",
+   "zhStem": "哪种 Azure 容器存放一个应用的相关资源，便于统一管理并一次全部删除？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure container",
+       "Azure 容器"
+      ],
+      [
+       "related resources",
+       "相关资源"
+      ]
+     ],
+     "verbs": [
+      [
+       "holds",
+       0
+      ],
+      [
+       "can manage",
+       0
+      ],
+      [
+       "delete",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "存放",
+       0
+      ],
+      [
+       "管理",
+       0
+      ],
+      [
+       "删除",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "availability set",
     "management group hierarchy",
@@ -174,8 +284,50 @@
    ]
   },
   {
-   "stem": "In Contoso's three-tier app on Azure, which tier receives users' browser requests and shows them the pages, running on stateless VMs so any VM can serve any request?",
-   "zhStem": "在 Contoso 部署于 Azure 的三层应用中，哪一层接收用户的浏览器请求并向其显示页面，并运行在无状态虚拟机上，使任何一台虚拟机都能处理任何请求？",
+   "stem": "In a three-tier app, which tier receives browser requests and shows pages, running on stateless VMs?",
+   "zhStem": "在三层应用中，哪一层接收浏览器请求并显示页面，运行在无状态虚拟机上？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "three-tier app",
+       "三层应用"
+      ],
+      [
+       "browser requests",
+       "浏览器请求"
+      ],
+      [
+       "pages",
+       "页面"
+      ],
+      [
+       "stateless VMs",
+       "无状态虚拟机"
+      ]
+     ],
+     "verbs": [
+      [
+       "receives",
+       0
+      ],
+      [
+       "shows",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "接收",
+       0
+      ],
+      [
+       "显示",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "web tier",
     "N-tier architecture",
@@ -234,8 +386,38 @@
    ]
   },
   {
-   "stem": "In Contoso's three-tier app on Azure, which tier runs the order-processing rules that sit between the user-facing front end and the database?",
-   "zhStem": "在 Contoso 部署于 Azure 的三层应用中，哪一层运行位于面向用户的前端和数据库之间的订单处理规则？",
+   "stem": "In a three-tier app, which tier runs the processing rules between the front end and the database?",
+   "zhStem": "在三层应用中，哪一层运行位于前端和数据库之间的处理规则？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "three-tier app",
+       "三层应用"
+      ],
+      [
+       "front end",
+       "前端"
+      ],
+      [
+       "database",
+       "数据库"
+      ]
+     ],
+     "verbs": [
+      [
+       "runs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "运行",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "N-tier architecture",
     "business tier",
@@ -294,8 +476,46 @@
    ]
   },
   {
-   "stem": "In Contoso's three-tier app on Azure, which tier holds the replicated database and should accept requests only from the middle tier?",
-   "zhStem": "在 Contoso 部署于 Azure 的三层应用中，哪一层存放复制的数据库，并且应只接受来自中间层的请求？",
+   "stem": "In a three-tier app, which tier holds the replicated database and accepts requests only from the middle tier?",
+   "zhStem": "在三层应用中，哪一层存放复制的数据库，并且只接受来自中间层的请求？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "three-tier app",
+       "三层应用"
+      ],
+      [
+       "replicated database",
+       "复制的数据库"
+      ],
+      [
+       "middle tier",
+       "中间层"
+      ]
+     ],
+     "verbs": [
+      [
+       "holds",
+       0
+      ],
+      [
+       "accepts",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "存放",
+       0
+      ],
+      [
+       "接受",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "business tier",
     "web tier",
@@ -342,8 +562,34 @@
    ]
   },
   {
-   "stem": "Contoso installs a Microsoft relational database engine on the VMs of its database layer, and the app sends it queries written in T-SQL. Which product is this?",
-   "zhStem": "Contoso 在数据库层的虚拟机上安装了一个 Microsoft 关系型数据库引擎，应用用 T-SQL 编写的查询与它通信。这是哪个产品？",
+   "stem": "Which Microsoft relational database engine do applications query using T-SQL?",
+   "zhStem": "应用程序使用 T-SQL 查询的是哪个 Microsoft 关系型数据库引擎？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "applications",
+       "应用程序"
+      ],
+      [
+       "T-SQL",
+       "T-SQL"
+      ]
+     ],
+     "verbs": [
+      [
+       "query",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "查询",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "SQL Server",
     "Azure Database for MySQL",
@@ -402,8 +648,50 @@
    ]
   },
   {
-   "stem": "Contoso wants its Azure VMs to talk to each other privately, reach the internet and connect to the on-premises network, all inside its own isolated private network in Azure. What should it create first?",
-   "zhStem": "Contoso 希望其 Azure 虚拟机能私下互相通信、访问互联网并连接本地网络，而这一切都在 Azure 中自己独立的专用网络内完成。它应该先创建什么？",
+   "stem": "What Azure resource gives VMs an isolated private network to reach each other, the internet and on-premises?",
+   "zhStem": "哪个 Azure 资源为虚拟机提供隔离的专用网络，使其能互相通信、访问互联网和本地网络？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure resource",
+       "Azure 资源"
+      ],
+      [
+       "VMs",
+       "虚拟机"
+      ],
+      [
+       "isolated private network",
+       "隔离的专用网络"
+      ],
+      [
+       "internet",
+       "互联网"
+      ]
+     ],
+     "verbs": [
+      [
+       "gives",
+       0
+      ],
+      [
+       "reach",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提供",
+       0
+      ],
+      [
+       "通信",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "subnet",
     "network security group (NSG)",
@@ -454,8 +742,34 @@
    ]
   },
   {
-   "stem": "Contoso is adding a layer-7 web traffic load balancer to its existing Azure virtual network, and Azure requires that this service sit in a dedicated address range of its own, separate from the VMs. What must Contoso create for it?",
-   "zhStem": "Contoso 正在向现有的 Azure 虚拟网络中添加一个第 7 层 Web 流量负载均衡器，Azure 要求该服务位于专属于它的地址范围内，与虚拟机分开。Contoso 必须为它创建什么？",
+   "stem": "In a virtual network, what dedicated address range must an application gateway be deployed into?",
+   "zhStem": "在虚拟网络中，应用程序网关必须部署到哪个专用地址范围中？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "virtual network",
+       "虚拟网络"
+      ],
+      [
+       "dedicated address range",
+       "专用地址范围"
+      ]
+     ],
+     "verbs": [
+      [
+       "be deployed into",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "部署到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "availability zone",
     "network security group (NSG)",
@@ -506,8 +820,38 @@
    ]
   },
   {
-   "stem": "Contoso's website must send requests for /images to one pool of VMs and requests for /api to another, deciding by the URL path of each HTTP request. Which Azure service should sit in front of the VMs?",
-   "zhStem": "Contoso 的网站必须根据每个 HTTP 请求的 URL 路径，把 /images 的请求发送到一组虚拟机，把 /api 的请求发送到另一组。哪个 Azure 服务应放在这些虚拟机前面？",
+   "stem": "Which Azure service routes HTTP requests to different VM pools based on the URL path?",
+   "zhStem": "哪个 Azure 服务根据 URL 路径把 HTTP 请求路由到不同的虚拟机池？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure service",
+       "Azure 服务"
+      ],
+      [
+       "HTTP requests",
+       "HTTP 请求"
+      ],
+      [
+       "VM pools",
+       "虚拟机池"
+      ]
+     ],
+     "verbs": [
+      [
+       "routes",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "路由到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure Application Gateway",
     "Azure Load Balancer",
@@ -558,8 +902,50 @@
    ]
   },
   {
-   "stem": "Contoso's network admin divides the company's Azure virtual network into smaller address ranges, one for the web VMs and one for the database VMs, so each group of resources is deployed into its own range. What are these ranges called?",
-   "zhStem": "Contoso 的网络管理员把公司的 Azure 虚拟网络划分为更小的地址范围，一个给 Web 虚拟机，一个给数据库虚拟机，让每组资源部署在各自的范围中。这些范围叫什么？",
+   "stem": "What are the smaller address ranges inside an Azure virtual network that resources are deployed into called?",
+   "zhStem": "Azure 虚拟网络中供资源部署的更小地址范围叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure virtual network",
+       "Azure 虚拟网络"
+      ],
+      [
+       "resources",
+       "资源"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ],
+      [
+       "are deployed into",
+       0
+      ],
+      [
+       "called",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "部署",
+       0
+      ],
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure region",
     "subnet",
@@ -598,8 +984,46 @@
    ]
   },
   {
-   "stem": "Contoso wants the database VMs to accept traffic on port 1433 only from the business-tier VMs and to deny all other inbound traffic. What should it apply to the database VMs' network?",
-   "zhStem": "Contoso 希望数据库虚拟机只接受来自业务层虚拟机的 1433 端口流量，并拒绝所有其他入站流量。它应在数据库虚拟机的网络上应用什么？",
+   "stem": "What filters inbound traffic so database VMs accept port 1433 only from business-tier VMs?",
+   "zhStem": "用什么来过滤入站流量，使数据库虚拟机只接受来自业务层虚拟机的 1433 端口流量？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "inbound traffic",
+       "入站流量"
+      ],
+      [
+       "database VMs",
+       "数据库虚拟机"
+      ],
+      [
+       "business-tier VMs",
+       "业务层虚拟机"
+      ]
+     ],
+     "verbs": [
+      [
+       "filters",
+       0
+      ],
+      [
+       "accept",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "过滤",
+       0
+      ],
+      [
+       "接受",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "internal load balancer",
     "Azure Load Balancer",
@@ -650,8 +1074,42 @@
    ]
   },
   {
-   "stem": "Contoso needs to spread incoming TCP traffic from the internet across several backend VMs at layer 4, without inspecting URLs or HTTP headers. Which Azure service fits?",
-   "zhStem": "Contoso 需要在第 4 层把来自互联网的入站 TCP 流量分散到多台后端虚拟机上，而不检查 URL 或 HTTP 标头。哪个 Azure 服务合适？",
+   "stem": "Which Azure service spreads internet TCP traffic across backend VMs at layer 4, without reading URLs?",
+   "zhStem": "哪个 Azure 服务在第 4 层把来自互联网的 TCP 流量分配到后端虚拟机，而不读取 URL？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure service",
+       "Azure 服务"
+      ],
+      [
+       "internet",
+       "互联网"
+      ],
+      [
+       "TCP traffic",
+       "TCP 流量"
+      ],
+      [
+       "backend VMs",
+       "后端虚拟机"
+      ]
+     ],
+     "verbs": [
+      [
+       "spreads",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "分配到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure Application Gateway",
     "Azure Load Balancer",
@@ -702,8 +1160,38 @@
    ]
   },
   {
-   "stem": "Contoso's web-tier VMs call the business-tier VMs, and those calls must be spread evenly across the business VMs while never being exposed to the internet, staying inside the virtual network. What should Contoso place in front of the business tier?",
-   "zhStem": "Contoso 的 Web 层虚拟机会调用业务层虚拟机，这些调用必须均匀分散到各台业务虚拟机上，并且始终留在虚拟网络内、永不暴露到互联网。Contoso 应在业务层前面放置什么？",
+   "stem": "What spreads traffic across business-tier VMs inside a virtual network without exposing them to the internet?",
+   "zhStem": "什么能在虚拟网络内部把流量分配到业务层 VM 上，且不暴露到互联网？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "traffic",
+       "流量"
+      ],
+      [
+       "business-tier VMs",
+       "业务层 VM"
+      ],
+      [
+       "internet",
+       "互联网"
+      ]
+     ],
+     "verbs": [
+      [
+       "spreads",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "分配到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "gateway subnet",
     "availability set",
@@ -742,8 +1230,42 @@
    ]
   },
   {
-   "stem": "Contoso must keep customer data in Canada for compliance, so it picks a geographic area of Azure datacenters, such as Canada Central, in which to deploy all its resources. What is Contoso choosing?",
-   "zhStem": "出于合规要求，Contoso 必须把客户数据保留在加拿大，因此它选择了一个 Azure 数据中心所在的地理区域（例如 Canada Central）来部署所有资源。Contoso 选择的是什么？",
+   "stem": "To keep data in Canada, what do you pick, such as Canada Central, to deploy resources in?",
+   "zhStem": "为了把数据留在加拿大，你要选择什么（例如 Canada Central）来部署资源？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "data",
+       "数据"
+      ],
+      [
+       "Canada",
+       "加拿大"
+      ],
+      [
+       "Canada Central",
+       "Canada Central"
+      ],
+      [
+       "resources",
+       "资源"
+      ]
+     ],
+     "verbs": [
+      [
+       "pick",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "选择",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "resource group",
     "availability zone",
@@ -786,8 +1308,42 @@
    ]
   },
   {
-   "stem": "Contoso wants its VMs in Canada Central to keep running even if a whole datacenter fails, so it spreads them across separate groups of datacenters in that same area, each with independent power, cooling and networking. What is Contoso using?",
-   "zhStem": "Contoso 希望其位于 Canada Central 的虚拟机即使整个数据中心发生故障也能继续运行，因此把它们分散到同一地区内彼此独立的数据中心组中，每组都有独立的电力、冷却和网络。Contoso 使用的是什么？",
+   "stem": "What are separate groups of datacenters within one Azure region, each with independent power, cooling and networking?",
+   "zhStem": "一个 Azure 区域内彼此分隔、各自拥有独立电力、冷却和网络的数据中心组叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure region",
+       "Azure 区域"
+      ],
+      [
+       "independent power",
+       "独立电力"
+      ],
+      [
+       "cooling",
+       "冷却"
+      ],
+      [
+       "networking",
+       "网络"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "availability set",
     "Azure region",
@@ -834,8 +1390,42 @@
    ]
   },
   {
-   "stem": "Contoso has two web VMs in one datacenter and wants to protect them from the failure of a single server, rack or network switch, without spreading them across separate datacenters. What should it place the VMs in?",
-   "zhStem": "Contoso 在同一个数据中心里有两台 Web 虚拟机，希望在不把它们分散到不同数据中心的情况下，防止单台服务器、机架或网络交换机故障带来的影响。它应把这些虚拟机放进什么？",
+   "stem": "Which option protects VMs in one datacenter from a single server, rack or switch failure?",
+   "zhStem": "哪个选项能保护同一数据中心内的 VM，免受单台服务器、机架或交换机故障影响？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "option",
+       "选项"
+      ],
+      [
+       "VMs",
+       "VM"
+      ],
+      [
+       "single server",
+       "单台服务器"
+      ],
+      [
+       "switch failure",
+       "交换机故障"
+      ]
+     ],
+     "verbs": [
+      [
+       "protects",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "能保护",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure region",
     "resource group",

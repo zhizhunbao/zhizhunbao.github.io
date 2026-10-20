@@ -18,7 +18,7 @@ Lab 6 of CST8913 Cloud Migration (week 6): match the same kind of resource (comp
 
 ## 1. Service models
 
-### Which service models do AWS, Azure and Google Cloud all offer?
+#### Which service models do AWS, Azure and Google Cloud all offer?
 
 - All three offer the same service models: virtual machines (row 1), PaaS app hosting (row 11), serverless functions (row 4), and managed Kubernetes (row 9).
 
@@ -26,7 +26,7 @@ Explained in [4. Describe cloud service types](../lectures/describe-cloud-servic
 
 ## 2. Each provider's name for the same service
 
-### What is each provider's name for the same kind of service (compute, storage, databases, networking, identity, monitoring and more)?
+#### What is each provider's name for the same kind of service (compute, storage, databases, networking, identity, monitoring and more)?
 
 | # | Description | AWS (Service Name) | Azure (Service Name) | Google Cloud (Service Name) |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ Explained in [4. Describe cloud service types](../lectures/describe-cloud-servic
 
 ## 3. Similarities and differences
 
-### What are the key similarities and differences between equivalent services across the three providers?
+#### What are the key similarities and differences between equivalent services across the three providers?
 
 Similarities:
 
@@ -84,7 +84,7 @@ Explained in [4. Describe cloud service types](../lectures/describe-cloud-servic
 
 ## 4. Unique capabilities
 
-### Which services offer capabilities their counterparts lack?
+#### Which services offer capabilities their counterparts lack?
 
 - Azure Event Hubs has built-in Apache Kafka compatibility, so existing Kafka workloads run without code changes (row 17).
 - AWS Step Functions can call over 9,000 API actions across more than 200 AWS services (row 19).
@@ -93,7 +93,7 @@ Explained in [4. Describe cloud service types](../lectures/describe-cloud-servic
 
 ## 5. Naming conventions
 
-### How do the providers' naming conventions differ?
+#### How do the providers' naming conventions differ?
 
 - AWS uses brand names and acronyms, such as EC2, S3, Route 53, and Redshift, so many names do not describe the job.
 - Azure uses descriptive names, usually "Azure" plus the function, such as Azure Virtual Machines, Azure Files, and Azure Backup.

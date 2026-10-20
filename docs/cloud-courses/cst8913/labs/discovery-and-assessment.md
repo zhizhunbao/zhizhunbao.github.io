@@ -23,13 +23,13 @@ Lab 4 of CST8913 Cloud Migration (week 4): list the digital estate, choose how t
 
 ## 1. Digital estate
 
-### What is the digital estate?
+#### What is the digital estate?
 
 The digital estate is everything IT runs today: servers, applications, data, and the connections between them. Here it is the five servers above and the applications and data on them.
 
 Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
 
-### Why must you understand the digital estate before planning a migration?
+#### Why must you understand the digital estate before planning a migration?
 
 Sizing, cost, and migration order all depend on knowing what exists and how it connects. The inventory here lists only roles and OS versions, so it is a starting point, not a full picture.
 
@@ -37,7 +37,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 ## 2. Discovery and assessment
 
-### What can go wrong if you migrate without discovery and assessment?
+#### What can go wrong if you migrate without discovery and assessment?
 
 1. **Outages from missed dependencies.** For example, moving APP-01 without DB-01, or moving servers before DC-01 is reachable from Azure.
 2. **Blockers found too late.** For example, finding at cutover that FILE-01's OS no longer gets security updates.
@@ -45,7 +45,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md), [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
-### What information does discovery collect?
+#### What information does discovery collect?
 
 - **Configuration:** vCPU, RAM, disks, NICs, OS version.
 - **Performance:** CPU and memory use, disk IOPS and throughput, network traffic.
@@ -54,7 +54,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
-### What is the difference between discovery and assessment?
+#### What is the difference between discovery and assessment?
 
 Discovery collects facts: what servers exist and how they are configured, used, and connected. Assessment uses those facts to judge each server's Azure readiness, VM size, and monthly cost.
 
@@ -62,7 +62,7 @@ Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
 ## 3. Azure Migrate appliance
 
-### How does agentless discovery with Azure Migrate work?
+#### How does agentless discovery with Azure Migrate work?
 
 Discovery is agentless:
 
@@ -73,7 +73,7 @@ Discovery is agentless:
 
 Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md), [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
 
-### What does the Azure Migrate appliance do, and how does it connect to vCenter?
+#### What does the Azure Migrate appliance do, and how does it connect to vCenter?
 
 The appliance is a VM deployed on vCenter from an OVA template. It connects to vCenter Server with a read-only account on port 443 and reads VM configuration and performance through the vSphere APIs. With guest credentials, it can also read software inventory, SQL Server details, and network connections inside each VM. Nothing is installed on the five servers.
 
@@ -81,19 +81,19 @@ Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
 ## 4. Dependency analysis
 
-### What does dependency analysis find, and how does it confirm assumed dependencies?
+#### What does dependency analysis find, and how does it confirm assumed dependencies?
 
 Turn on agentless dependency analysis in Azure Migrate. It shows each server's TCP connections with process and port. For example, connections to DC-01 on ports 88, 389, or 53 would confirm A2. Then check the results with the application owners.
 
 Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
-### Why does dependency analysis matter?
+#### Why does dependency analysis matter?
 
 Servers that depend on each other are moved together, so nothing is left behind or cut off from what it needs.
 
 Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
-### Which servers belong in the same migration group, and why?
+#### Which servers belong in the same migration group, and why?
 
 **WEB-01 + APP-01 + DB-01.** They form one application and contain the only confirmed dependency (APP-01 → DB-01). Splitting them would send database traffic over the VPN, adding delay and a new point of failure. DC-01 and FILE-01 serve all servers, so they are handled separately.
 
@@ -101,7 +101,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 ## 5. Readiness
 
-### How do you classify each server's Azure readiness?
+#### How do you classify each server's Azure readiness?
 
 These are provisional judgments, to be confirmed by the Azure Migrate assessment.
 
@@ -117,13 +117,13 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 ## 6. Sizing
 
-### How does Azure Migrate produce VM sizes and cost estimates?
+#### How does Azure Migrate produce VM sizes and cost estimates?
 
 The Azure Migrate assessment uses the collected configuration and performance data to recommend a VM size and disk type for each server. It also estimates the monthly compute and storage cost for the chosen region and pricing options.
 
 Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
-### What is the difference between performance-based sizing and as-is sizing?
+#### What is the difference between performance-based sizing and as-is sizing?
 
 - **Performance-based sizing** uses actual CPU, memory, and disk usage over time, so VMs are right-sized.
 - **As-is sizing** copies the current on-premises specs without usage data, so VMs are often oversized.
@@ -132,7 +132,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 ## 7. Cost estimate
 
-### What factors change the estimated Azure operating cost?
+#### What factors change the estimated Azure operating cost?
 
 1. **VM size and disk type.** This is the biggest part of the bill. DB-01 likely needs Premium SSD.
 2. **Licensing.** Pay-as-you-go includes the licenses, while Azure Hybrid Benefit reuses existing ones.
@@ -142,7 +142,7 @@ Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
 ## 8. Migration plan
 
-### How do you prioritize workloads in a migration plan?
+#### How do you prioritize workloads in a migration plan?
 
 - **Business criticality and migration risk:** move from lowest to highest risk, so the mission-critical DB-01 goes last, after the process has been proven on less critical servers.
 - **Dependencies and migration groups:** the new DC comes first because every server depends on it. WEB-01, APP-01, and DB-01 move together as group 1 (Section 3).
@@ -151,7 +151,7 @@ Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
 Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
 
-### In what order would you migrate the workloads, and why?
+#### In what order would you migrate the workloads, and why?
 
 1. **New DC in Azure:** every other server needs sign-in and DNS.
 2. **FILE-01:** it has few dependencies and a security deadline.
@@ -162,7 +162,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 ## 9. Rollback
 
-### When would you roll back a migration, and how?
+#### When would you roll back a migration, and how?
 
 - **Trigger:** a failed check that can't be fixed within the maintenance window, for example APP-01 can't reach DB-01.
 - **Recovery:**
@@ -174,7 +174,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 ## 10. Test migration
 
-### How can you test a migration without disrupting production?
+#### How can you test a migration without disrupting production?
 
 Azure Migrate's test migration creates a copy in an isolated Azure network while the original server keeps running, so users and dependent systems are not affected. After testing, the copy is cleaned up.
 

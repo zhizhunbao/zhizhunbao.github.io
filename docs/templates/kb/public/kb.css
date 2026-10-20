@@ -39,7 +39,7 @@
 .content h1 { font-size: 40px; font-weight: 600; line-height: 52px; margin: 20px 0; }
 .content h2 { font-size: 32px; font-weight: 600; line-height: 41.6px; }
 .content h3 { font-size: 28px; font-weight: 600; line-height: 36.4px; }
-.content h4 { font-size: 24px; font-weight: 600; line-height: 31.2px; margin: 20px 0; }
+.content h4 { font-size: 18px; font-weight: 600; line-height: 27px; margin: 24px 0 8px; } /* lab questions: smaller than Learn (user, 2026-10-20) */
 .content p, .content ul, .content ol { margin: 16px 0 0; }
 .content ul, .content ol { padding-inline-start: 38px; }
 .content ul { list-style: disc; }

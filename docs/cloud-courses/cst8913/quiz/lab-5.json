@@ -2,8 +2,8 @@
  "title": "Rehosting to Azure (lab 5) quiz",
  "questions": [
   {
-   "stem": "A state agency at Contoso runs over 400 servers and 200 applications built up over decades in its own datacenters. Which pair of reasons best explains its decision to move to the cloud?",
-   "zhStem": "Contoso 的一个州政府机构在自有数据中心里运行着几十年积累下来的 400 多台服务器和 200 个应用。下面哪一对理由最能说明它为什么决定迁移到云？",
+   "stem": "What are two reasons the organization migrated to the cloud?",
+   "zhStem": "该机构是因为哪两个原因迁移到云的？",
    "options": [
     "Lower software license prices and faster laptops for staff",
     "A vendor contract ending and a wish to stop using virtual machines",
@@ -12,11 +12,89 @@
    ],
    "answer": 2,
    "explain": "Aging infrastructure plus state legislation are the drivers, because the old servers were costly to modernize and hard to staff, and the law encouraged agencies to use the cloud.",
-   "zhExplain": "驱动因素是老旧基础设施加上州立法，因为旧服务器现代化成本高且难以招到和留住人员，而法律鼓励政府机构使用云。"
+   "zhExplain": "驱动因素是老旧基础设施加上州立法，因为旧服务器现代化成本高且难以招到和留住人员，而法律鼓励政府机构使用云。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "two reasons",
+       "两个原因"
+      ],
+      [
+       "cloud",
+       "云"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ],
+      [
+       "migrated to",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "迁移到",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "Aging infrastructure",
+       "老旧基础设施"
+      ],
+      [
+       "state legislation",
+       "州立法"
+      ],
+      [
+       "law",
+       "法律"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ],
+      [
+       "were",
+       0
+      ],
+      [
+       "encouraged",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "鼓励",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso must leave its datacenters within nine months and has 200 VMware-based applications. Why is rehosting (lift and shift) the right first strategy?",
-   "zhStem": "Contoso 必须在九个月内撤出其数据中心，并且有 200 个基于 VMware 的应用。为什么重新托管（lift and shift）是合适的第一步策略？",
+   "stem": "Why was rehosting appropriate?",
+   "zhStem": "为什么重新托管是合适的？",
    "options": [
     "It moves VMs without code changes, so it fits the tight timeline",
     "It rewrites each application as cloud-native microservices during the move",
@@ -25,11 +103,89 @@
    ],
    "answer": 0,
    "explain": "Rehosting fits the deadline, because it moves VMs as they are without code changes, while changing 200 applications one by one could not finish in nine months.",
-   "zhExplain": "重新托管符合截止期限，因为它按原样迁移 VM 而不改代码，而逐个修改 200 个应用无法在九个月内完成。"
+   "zhExplain": "重新托管符合截止期限，因为它按原样迁移 VM 而不改代码，而逐个修改 200 个应用无法在九个月内完成。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "rehosting",
+       "重新托管"
+      ],
+      [
+       "appropriate",
+       "合适"
+      ]
+     ],
+     "verbs": [
+      [
+       "was",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "Rehosting",
+       "重新托管"
+      ],
+      [
+       "code changes",
+       "改代码"
+      ],
+      [
+       "nine months",
+       "九个月"
+      ]
+     ],
+     "verbs": [
+      [
+       "fits",
+       0
+      ],
+      [
+       "moves",
+       0
+      ],
+      [
+       "are",
+       0
+      ],
+      [
+       "could not finish",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "符合",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "无法",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "A Contoso team is moving a SQL Server database that runs in a VM. One option keeps the VM as is; the other moves the database to Azure SQL Managed Instance. Which statement describes the difference correctly?",
-   "zhStem": "Contoso 的一个团队要迁移一个在 VM 中运行的 SQL Server 数据库。一个方案保持 VM 原样，另一个方案把数据库迁到 Azure SQL Managed Instance。哪种说法正确描述了两者的区别？",
+   "stem": "How does rehosting differ from replatforming?",
+   "zhStem": "重新托管与平台重构有什么不同？",
    "options": [
     "Rehosting rewrites the code; replatforming keeps the VM unchanged",
     "Both approaches require a full rewrite of the application",
@@ -38,11 +194,89 @@
    ],
    "answer": 3,
    "explain": "Rehosting keeps the VM as is while replatforming makes small changes to use a managed service, because replatforming adapts the workload to a platform such as Azure SQL Managed Instance without rewriting it.",
-   "zhExplain": "重新托管保持 VM 原样，而平台重构做少量修改以使用托管服务，因为平台重构是在不重写的前提下让工作负载适配 Azure SQL Managed Instance 等平台。"
+   "zhExplain": "重新托管保持 VM 原样，而平台重构做少量修改以使用托管服务，因为平台重构是在不重写的前提下让工作负载适配 Azure SQL Managed Instance 等平台。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "rehosting",
+       "重新托管"
+      ],
+      [
+       "replatforming",
+       "平台重构"
+      ]
+     ],
+     "verbs": [
+      [
+       "does",
+       0
+      ],
+      [
+       "differ from",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "有什么不同",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "Rehosting",
+       "重新托管"
+      ],
+      [
+       "replatforming",
+       "平台重构"
+      ],
+      [
+       "Azure SQL Managed Instance",
+       "Azure SQL Managed Instance"
+      ]
+     ],
+     "verbs": [
+      [
+       "keeps",
+       0
+      ],
+      [
+       "makes",
+       0
+      ],
+      [
+       "adapts",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "保持",
+       0
+      ],
+      [
+       "做",
+       0
+      ],
+      [
+       "适配",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso plans to move its on-premises vSphere VMs to an Azure VMware Solution private cloud over a private link, in waves, keeping their IP addresses. Which components form this path?",
-   "zhStem": "Contoso 计划通过私有连接，分批把本地 vSphere VM 迁移到 Azure VMware Solution 私有云，并保留它们的 IP 地址。哪些组件构成这条路径？",
+   "stem": "What is the connectivity between the environments?",
+   "zhStem": "连接两个环境的网络是什么？",
    "options": [
     "A site-to-site VPN and Azure Migrate agentless replication to App Service",
     "ExpressRoute with Global Reach for the link and HCX to move VMs and extend networks",
@@ -51,11 +285,89 @@
    ],
    "answer": 1,
    "explain": "ExpressRoute Global Reach plus HCX is the path, because Global Reach privately links the on-premises circuit to the private cloud and HCX migrates VMs while extending networks so they keep their IPs.",
-   "zhExplain": "路径是 ExpressRoute Global Reach 加 HCX，因为 Global Reach 将本地线路与私有云私密连接，HCX 迁移 VM 并扩展网络使其保留 IP。"
+   "zhExplain": "路径是 ExpressRoute Global Reach 加 HCX，因为 Global Reach 将本地线路与私有云私密连接，HCX 迁移 VM 并扩展网络使其保留 IP。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "connectivity",
+       "连接"
+      ],
+      [
+       "environments",
+       "环境"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "ExpressRoute Global Reach",
+       "ExpressRoute Global Reach"
+      ],
+      [
+       "HCX",
+       "HCX"
+      ],
+      [
+       "private cloud",
+       "私有云"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "links",
+       0
+      ],
+      [
+       "migrates",
+       0
+      ],
+      [
+       "keep",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "连接",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ],
+      [
+       "保留",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "A Contoso engineer reviews the Azure VMware Solution private cloud design and asks which component turns the local disks of the bare-metal hosts into shared storage for the VMs. Which component is it?",
-   "zhStem": "Contoso 的一名工程师在审查 Azure VMware Solution 私有云设计时，询问哪个组件把裸金属主机的本地磁盘变成供 VM 使用的共享存储。是哪个组件？",
+   "stem": "In Azure VMware Solution, which component turns the hosts' local disks into shared storage?",
+   "zhStem": "在 Azure VMware Solution 中，哪个组件把主机的本地磁盘变成共享存储？",
    "options": [
     "NSX",
     "vCenter Server",
@@ -64,37 +376,291 @@
    ],
    "answer": 2,
    "explain": "vSAN is the answer, because it pools the hosts' local disks into shared storage, while NSX handles networking, vCenter manages hosts, and HCX moves VMs.",
-   "zhExplain": "答案是 vSAN，因为它把主机的本地磁盘汇聚成共享存储，而 NSX 负责网络，vCenter 管理主机，HCX 负责迁移 VM。"
+   "zhExplain": "答案是 vSAN，因为它把主机的本地磁盘汇聚成共享存储，而 NSX 负责网络，vCenter 管理主机，HCX 负责迁移 VM。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure VMware Solution",
+       "Azure VMware Solution"
+      ],
+      [
+       "component",
+       "组件"
+      ],
+      [
+       "hosts' local disks",
+       "主机的本地磁盘"
+      ],
+      [
+       "shared storage",
+       "共享存储"
+      ]
+     ],
+     "verbs": [
+      [
+       "turns",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "变成",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "vSAN",
+       "vSAN"
+      ],
+      [
+       "NSX",
+       "NSX"
+      ],
+      [
+       "vCenter",
+       "vCenter"
+      ],
+      [
+       "HCX",
+       "HCX"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "pools",
+       0
+      ],
+      [
+       "handles",
+       0
+      ],
+      [
+       "manages",
+       0
+      ],
+      [
+       "moves",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "汇聚成",
+       0
+      ],
+      [
+       "负责",
+       0
+      ],
+      [
+       "管理",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso has deployed the Azure VMware Solution private cloud, ExpressRoute and HCX, recorded performance baselines and built its migration waves. What should the team do next?",
-   "zhStem": "Contoso 已部署 Azure VMware Solution 私有云、ExpressRoute 和 HCX，记录了性能基线并划分好迁移批次。团队下一步应该做什么？",
+   "stem": "What phased migration plan do you propose?",
+   "zhStem": "你会提出怎样的分阶段迁移计划？",
    "options": [
-    "Migrate a pilot wave of about 10 low-risk VMs to prove the tools and runbook",
-    "Migrate the claims and payments systems first because they matter most",
-    "Decommission the on-premises datacenter before moving any VMs",
-    "Replatform every application before starting the rehost"
+    "Move all VMs in one cutover, then test them in production",
+    "Prepare, run a small pilot wave, move main waves, then stabilize and retire",
+    "Migrate the most critical systems first, then run a pilot wave",
+    "Retire the datacenter first, then build the private cloud"
    ],
-   "answer": 0,
-   "explain": "A pilot wave comes next, because migrating about 10 low-risk VMs first proves the tools, network and runbook before larger waves and critical systems move.",
-   "zhExplain": "下一步是试点批次，因为先迁移约 10 台低风险 VM 能在更大批次和关键系统迁移之前验证工具、网络和操作手册。"
+   "answer": 1,
+   "explain": "Prepare, pilot, main waves, then stabilize is the plan, because a small pilot wave proves the tools and runbook before larger waves and critical systems move.",
+   "zhExplain": "计划是准备、试点、主批次，再稳定和退役，因为小规模试点批次能先验证工具和操作手册，再迁移更大批次和关键系统。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "phased",
+       "分阶段"
+      ],
+      [
+       "migration plan",
+       "迁移计划"
+      ]
+     ],
+     "verbs": [
+      [
+       "do",
+       0
+      ],
+      [
+       "propose",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "会",
+       0
+      ],
+      [
+       "提出",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "pilot wave",
+       "试点批次"
+      ],
+      [
+       "tools",
+       "工具"
+      ],
+      [
+       "critical systems",
+       "关键系统"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "proves",
+       0
+      ],
+      [
+       "move",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "验证",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso's dependency analysis shows that a web VM, an application VM and a database VM all talk to each other. How should the team place them in migration waves?",
-   "zhStem": "Contoso 的依赖分析显示，一台 Web VM、一台应用 VM 和一台数据库 VM 彼此通信。团队应如何把它们分配到迁移批次中？",
+   "stem": "How would you group dependent workloads?",
+   "zhStem": "你会如何把互相依赖的工作负载分组？",
    "options": [
-    "Move the database first in its own wave, then the web VM later",
     "Spread them across waves so each wave has the same VM count",
-    "Move AD DS and DNS with them in the first wave, before any other application",
-    "Put all three in the same wave so no dependency is left across the link"
+    "Move each database first in its own wave, then its web VMs",
+    "Move shared AD DS and DNS first, before any application",
+    "Put an application and everything it calls in the same wave"
    ],
    "answer": 3,
-   "explain": "They belong in the same wave, because grouping an application with everything it calls avoids leaving a dependency on the other side of the link.",
-   "zhExplain": "它们应放在同一批次，因为把应用及其调用的所有组件放在一起，可以避免把依赖留在链路的另一侧。"
+   "explain": "Dependent workloads belong in the same wave, because grouping an application with everything it calls avoids leaving a dependency on the other side of the link.",
+   "zhExplain": "互相依赖的工作负载应放在同一批次，因为把应用及其调用的所有组件放在一起，可以避免把依赖留在链路的另一侧。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "dependent",
+       "互相依赖"
+      ],
+      [
+       "workloads",
+       "工作负载"
+      ]
+     ],
+     "verbs": [
+      [
+       "would",
+       0
+      ],
+      [
+       "group",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "会",
+       0
+      ],
+      [
+       "分组",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "same wave",
+       "同一批次"
+      ],
+      [
+       "dependency",
+       "依赖"
+      ],
+      [
+       "link",
+       "链路"
+      ]
+     ],
+     "verbs": [
+      [
+       "belong in",
+       0
+      ],
+      [
+       "calls",
+       0
+      ],
+      [
+       "avoids",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "放在",
+       0
+      ],
+      [
+       "调用",
+       0
+      ],
+      [
+       "避免",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Before cutting over a migration wave, Contoso wants to check the migrated copies while production keeps running on premises. What should the team do?",
-   "zhStem": "在一个迁移批次切换之前，Contoso 希望在本地生产继续运行的同时检查迁移后的副本。团队应该怎么做？",
+   "stem": "How would you test a migration wave?",
+   "zhStem": "你会如何测试一个迁移批次？",
    "options": [
     "Shut down production and test directly in the private cloud network",
     "Run a test migration into an isolated network segment in the private cloud",
@@ -103,20 +669,655 @@
    ],
    "answer": 1,
    "explain": "A test migration into an isolated segment is right, because it lets the team check the copy without touching production or causing IP conflicts.",
-   "zhExplain": "应在隔离网段中做测试迁移，因为这样团队可以检查副本而不影响生产，也不会造成 IP 冲突。"
+   "zhExplain": "应在隔离网段中做测试迁移，因为这样团队可以检查副本而不影响生产，也不会造成 IP 冲突。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "test",
+       "测试"
+      ],
+      [
+       "migration wave",
+       "迁移批次"
+      ]
+     ],
+     "verbs": [
+      [
+       "would",
+       0
+      ],
+      [
+       "test",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "会",
+       0
+      ],
+      [
+       "测试",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "isolated segment",
+       "隔离网段"
+      ],
+      [
+       "production",
+       "生产"
+      ],
+      [
+       "IP conflicts",
+       "IP 冲突"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "lets",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "可以",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso has just cut over a wave, and one critical application fails its tests and cannot be fixed within the agreed 4-hour window. What makes a quick rollback possible?",
-   "zhStem": "Contoso 刚完成一个批次的切换，有一个关键应用测试失败，且无法在约定的 4 小时窗口内修复。什么让快速回滚成为可能？",
+   "stem": "How would you decide whether to proceed or roll back?",
+   "zhStem": "你会如何决定继续推进还是回滚？",
    "options": [
-    "Deleting the on-premises VMs right after cutover to save cost",
-    "Restoring the app from the first Azure Backup taken after cutover",
-    "Keeping the on-premises VMs shut down but intact until stabilization ends",
-    "Moving straight to the next wave and fixing the app later"
+    "Proceed once the VMs boot; never roll back after cutover",
+    "Roll back on any small issue; proceed only if users ask",
+    "Proceed if tests and baselines pass; roll back if a critical app fails",
+    "Proceed after deleting the on-premises VMs; roll back from backups"
    ],
    "answer": 2,
-   "explain": "Keeping the on-premises VMs intact enables rollback, because the team can restart the originals or move the VMs back with HCX and point users to them.",
-   "zhExplain": "保留完整的本地 VM 使回滚成为可能，因为团队可以重启原 VM 或用 HCX 迁回，并把用户重新指向它们。"
+   "explain": "Clear pass and fail criteria decide it, because the team proceeds only when tests, sign-offs and the baseline pass, and if a critical app fails and cannot be fixed in time, it rolls back.",
+   "zhExplain": "由明确的通过和失败标准来决定，因为团队继续推进的前提是测试、签核和基线都通过，而如果关键应用失败且无法及时修复，就回滚。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "proceed",
+       "继续推进"
+      ],
+      [
+       "roll back",
+       "回滚"
+      ]
+     ],
+     "verbs": [
+      [
+       "would",
+       0
+      ],
+      [
+       "decide",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "会",
+       0
+      ],
+      [
+       "决定",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "criteria",
+       "标准"
+      ],
+      [
+       "baseline",
+       "基线"
+      ],
+      [
+       "critical app",
+       "关键应用"
+      ]
+     ],
+     "verbs": [
+      [
+       "decide",
+       0
+      ],
+      [
+       "proceeds",
+       0
+      ],
+      [
+       "pass",
+       0
+      ],
+      [
+       "fails",
+       0
+      ],
+      [
+       "cannot be fixed",
+       0
+      ],
+      [
+       "rolls back",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "决定",
+       0
+      ],
+      [
+       "继续推进",
+       0
+      ],
+      [
+       "通过",
+       0
+      ],
+      [
+       "失败",
+       0
+      ],
+      [
+       "无法及时修复",
+       0
+      ],
+      [
+       "回滚",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "How would you draw a high-level diagram showing the migration from an on-premises VMware environment to Azure VMware Solution?",
+   "zhStem": "你会如何画一张高层架构图，展示从本地 VMware 环境迁移到 Azure VMware Solution 的过程？",
+   "options": [
+    "On-premises vSphere to an Azure VMware Solution private cloud over ExpressRoute and HCX",
+    "On-premises vSphere to Azure App Service over the public internet",
+    "On-premises Hyper-V to Azure virtual machines over a site-to-site VPN",
+    "Azure VMware Solution to on-premises vSphere over Azure Front Door"
+   ],
+   "answer": 0,
+   "explain": "Draw on-premises vSphere linked by ExpressRoute and HCX to an Azure VMware Solution private cloud, because the VMs move unchanged from one VMware environment to another.",
+   "zhExplain": "画出本地 vSphere 通过 ExpressRoute 和 HCX 连接到 Azure VMware Solution 私有云，因为 VM 原样从一个 VMware 环境迁移到另一个 VMware 环境。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "high-level diagram",
+       "高层架构图"
+      ],
+      [
+       "on-premises VMware environment",
+       "本地 VMware 环境"
+      ],
+      [
+       "Azure VMware Solution",
+       "Azure VMware Solution"
+      ]
+     ],
+     "verbs": [
+      [
+       "would",
+       0
+      ],
+      [
+       "draw",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "会",
+       0
+      ],
+      [
+       "画",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "on-premises vSphere",
+       "本地 vSphere"
+      ],
+      [
+       "ExpressRoute",
+       "ExpressRoute"
+      ],
+      [
+       "private cloud",
+       "私有云"
+      ]
+     ],
+     "verbs": [
+      [
+       "Draw",
+       0
+      ],
+      [
+       "move",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "画出",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What are the source and destination environments?",
+   "zhStem": "源环境和目标环境是什么？",
+   "options": [
+    "Azure virtual machines to on-premises vSphere",
+    "On-premises Hyper-V to Azure Stack HCI",
+    "AWS EC2 instances to Azure VMware Solution",
+    "On-premises VMware vSphere to an Azure VMware Solution private cloud"
+   ],
+   "answer": 3,
+   "explain": "The source is the on-premises VMware vSphere environment and the destination is an Azure VMware Solution private cloud, because the agency already ran VMware and chose Azure VMware Solution.",
+   "zhExplain": "源环境是本地 VMware vSphere 环境，目标环境是 Azure VMware Solution 私有云，因为该机构原本就运行 VMware，并选择了 Azure VMware Solution。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "source",
+       "源环境"
+      ],
+      [
+       "destination",
+       "目标环境"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "source",
+       "源环境"
+      ],
+      [
+       "destination",
+       "目标环境"
+      ],
+      [
+       "private cloud",
+       "私有云"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "is",
+       0
+      ],
+      [
+       "ran",
+       0
+      ],
+      [
+       "chose",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "是",
+       0
+      ],
+      [
+       "运行",
+       0
+      ],
+      [
+       "选择了",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What are the application and database workloads?",
+   "zhStem": "应用工作负载和数据库工作负载是什么？",
+   "options": [
+    "Azure Functions and Azure Cosmos DB created during the move",
+    "Application VMs and SQL Server VMs that move unchanged",
+    "Containers in Azure Kubernetes Service and Azure SQL Database",
+    "Power Platform apps and Azure SQL Managed Instance from day one"
+   ],
+   "answer": 1,
+   "explain": "They are application VMs and database VMs such as SQL Server, because rehosting moves the existing VMs to Azure VMware Solution without changing them.",
+   "zhExplain": "它们是应用 VM 和 SQL Server 等数据库 VM，因为重新托管把现有 VM 原样迁移到 Azure VMware Solution，不做修改。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "application",
+       "应用"
+      ],
+      [
+       "database",
+       "数据库"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "application VMs",
+       "应用 VM"
+      ],
+      [
+       "SQL Server",
+       "SQL Server"
+      ],
+      [
+       "rehosting",
+       "重新托管"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ],
+      [
+       "moves",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "Which components do you assume because they are not described in the article?",
+   "zhStem": "哪些组件是你假设的，因为文章里没有描述？",
+   "options": [
+    "Azure VMware Solution as the destination",
+    "More than 300 VMs moved in waves",
+    "ExpressRoute Global Reach and VMware HCX",
+    "The VMware environment the agency already ran"
+   ],
+   "answer": 2,
+   "explain": "ExpressRoute Global Reach and HCX are assumptions, because the article names Azure VMware Solution, the existing VMware environment and the waves but not how the sites connect.",
+   "zhExplain": "ExpressRoute Global Reach 和 HCX 是假设，因为文章提到了 Azure VMware Solution、现有 VMware 环境和迁移批次，却没有说明站点如何连接。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "components",
+       "组件"
+      ],
+      [
+       "article",
+       "文章"
+      ]
+     ],
+     "verbs": [
+      [
+       "do",
+       0
+      ],
+      [
+       "assume",
+       0
+      ],
+      [
+       "are not described",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "假设",
+       0
+      ],
+      [
+       "没有描述",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "ExpressRoute Global Reach",
+       "ExpressRoute Global Reach"
+      ],
+      [
+       "article",
+       "文章"
+      ],
+      [
+       "waves",
+       "迁移批次"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ],
+      [
+       "names",
+       0
+      ],
+      [
+       "connect",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "提到了",
+       0
+      ],
+      [
+       "连接",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "How do you distinguish case-study facts from assumptions and proposed recommendations?",
+   "zhStem": "你如何把案例事实与假设和提出的建议区分开？",
+   "options": [
+    "Facts are your proposals, assumptions come from the article, recommendations fill gaps",
+    "Facts come from the article, assumptions fill its gaps, recommendations are your proposals",
+    "Facts and assumptions are the same, recommendations come from the article",
+    "Everything in the article is an assumption until it is tested"
+   ],
+   "answer": 1,
+   "explain": "Label each statement by its source, because facts come from the case study, assumptions fill gaps the article does not cover, and recommendations are your own proposals.",
+   "zhExplain": "按来源标注每一条内容，因为事实来自案例，假设填补文章没有涵盖的空白，建议是你自己的提议。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "case-study facts",
+       "案例事实"
+      ],
+      [
+       "assumptions",
+       "假设"
+      ],
+      [
+       "recommendations",
+       "建议"
+      ]
+     ],
+     "verbs": [
+      [
+       "do",
+       0
+      ],
+      [
+       "distinguish",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "区分开",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "facts",
+       "事实"
+      ],
+      [
+       "assumptions",
+       "假设"
+      ],
+      [
+       "recommendations",
+       "建议"
+      ]
+     ],
+     "verbs": [
+      [
+       "Label",
+       0
+      ],
+      [
+       "come from",
+       0
+      ],
+      [
+       "fill",
+       0
+      ],
+      [
+       "does not cover",
+       0
+      ],
+      [
+       "are",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "标注",
+       0
+      ],
+      [
+       "来自",
+       0
+      ],
+      [
+       "填补",
+       0
+      ],
+      [
+       "没有涵盖",
+       0
+      ],
+      [
+       "是",
+       0
+      ]
+     ]
+    }
+   }
   }
  ]
 }
