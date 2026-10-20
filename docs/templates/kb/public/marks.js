@@ -13,7 +13,8 @@ export function find(text, ph, from) {
   return -1
 }
 
-// make(index) returns the span for phrase `index`; a phrase not found (or empty) is skipped and the search goes on.
+// make(index) returns the span for phrase `index`, or null to leave it unmarked (it still moves the search on);
+// a phrase not found (or empty) is skipped and the search goes on.
 // skips[index] whole-word matches are passed over first (a word that also occurs earlier in a subordinate clause).
 export function markPhrases(root, phrases, make, skips = []) {
   const text = root.textContent
@@ -39,19 +40,21 @@ export function markPhrases(root, phrases, make, skips = []) {
       const mid = a > 0 ? node.splitText(a) : node
       if (b - a < mid.data.length) mid.splitText(b - a)
       const span = make(n)
+      if (!span) break
       mid.replaceWith(span)
       span.append(mid)
     }
   }
 }
 
-// Sentence trunk of an English definition: [["S" | "V" | "O", phrase, skip?], ...] in order
+// Sentence trunk of an English definition: [["S" | "V" | "O", phrase, skip?], ...] in order. Only the verb (谓语) is
+// underlined (user, 2026-10-20); subject and object stay in the data and only keep the search in place.
 export function markGrammar(root, roles) {
-  const names = { S: 'subject', V: 'verb', O: 'object or complement' }
   markPhrases(root, roles.map((r) => r[1]), (n) => {
+    if (roles[n][0] !== 'V') return null
     const s = document.createElement('span')
-    s.className = `kb-role kb-role-${roles[n][0]}`
-    s.title = names[roles[n][0]]
+    s.className = 'kb-role kb-role-V'
+    s.title = 'verb'
     return s
   }, roles.map((r) => r[2] || 0))
 }

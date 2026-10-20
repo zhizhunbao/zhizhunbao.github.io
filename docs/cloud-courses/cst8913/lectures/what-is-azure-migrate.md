@@ -6,7 +6,7 @@ ms.date: 2026-10-19
 
 # What is Azure Migrate?
 
-Study notes on [Azure Migrate documentation](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in weeks 2 and 4. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. In the English, the subject is underlined twice, the verb once and the object or complement with a wavy line.
+Study notes on [Azure Migrate documentation](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in weeks 2 and 4. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. In the English, the verb of each sentence is underlined.
 
 ## [Decide, plan, execute](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#migration-phases)
 
