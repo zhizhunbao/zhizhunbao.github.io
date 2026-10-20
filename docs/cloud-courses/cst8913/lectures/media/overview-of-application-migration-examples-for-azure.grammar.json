@@ -1,0 +1,206 @@
+{
+ "replication": [
+  [
+   "S",
+   "a VM snapshot"
+  ],
+  [
+   "V",
+   "is created"
+  ],
+  [
+   "S",
+   "Disk data"
+  ],
+  [
+   "V",
+   "is replicated"
+  ],
+  [
+   "S",
+   "delta replication"
+  ],
+  [
+   "V",
+   "begins"
+  ]
+ ],
+ "test migration": [
+  [
+   "S",
+   "Test migration"
+  ],
+  [
+   "V",
+   "simulates"
+  ],
+  [
+   "O",
+   "the migration"
+  ]
+ ],
+ "cutover": [
+  [
+   "S",
+   "You"
+  ],
+  [
+   "V",
+   "can perform"
+  ],
+  [
+   "O",
+   "final migrations"
+  ],
+  [
+   "S",
+   "Azure Migrate"
+  ],
+  [
+   "V",
+   "shuts down"
+  ],
+  [
+   "O",
+   "the source (on-premises or AVS) VM"
+  ],
+  [
+   "V",
+   "runs"
+  ],
+  [
+   "O",
+   "an on-demand replication"
+  ]
+ ],
+ "Azure DevOps": [
+  [
+   "V",
+   "Provides"
+  ],
+  [
+   "O",
+   "a continuous integration and continuous deployment (CI/CD) pipeline"
+  ],
+  [
+   "S",
+   "The pipeline"
+  ],
+  [
+   "V",
+   "starts"
+  ]
+ ],
+ "Data Migration Assistant (DMA)": [
+  [
+   "S",
+   "Data Migration Assistant"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a standalone tool"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "helps pinpoint"
+  ],
+  [
+   "O",
+   "potential problems"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "finds"
+  ],
+  [
+   "O",
+   "unsupported features"
+  ],
+  [
+   "O",
+   "new features"
+  ],
+  [
+   "O",
+   "the right path"
+  ]
+ ],
+ "Azure SQL Managed Instance": [
+  [
+   "S",
+   "Azure SQL Managed Instance"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a PaaS service"
+  ],
+  [
+   "S",
+   "SQL Managed Instance"
+  ],
+  [
+   "V",
+   "enables"
+  ],
+  [
+   "O",
+   "existing SQL Server customers"
+  ]
+ ],
+ "Azure Database for MySQL": [
+  [
+   "S",
+   "Azure Database for MySQL flexible server"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a fully managed, production-ready relational database service"
+  ]
+ ],
+ "Azure Cosmos DB": [
+  [
+   "S",
+   "Azure Cosmos DB"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a fully managed NoSQL and vector database"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "offers"
+  ],
+  [
+   "O",
+   "single-digit millisecond response times, automatic and instant scalability"
+  ]
+ ]
+}

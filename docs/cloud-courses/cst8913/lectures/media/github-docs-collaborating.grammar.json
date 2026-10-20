@@ -1,0 +1,204 @@
+{
+ "GitHub": [
+  [
+   "S",
+   "GitHub"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a platform"
+  ]
+ ],
+ "fork and pull model": [
+  [
+   "S",
+   "anyone"
+  ],
+  [
+   "V",
+   "can fork"
+  ],
+  [
+   "O",
+   "an existing (\"upstream\") repository"
+  ]
+ ],
+ "upstream repository": [
+  [
+   "S",
+   "Forks"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "repositories"
+  ]
+ ],
+ "fork": [
+  [
+   "S",
+   "A fork"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a separate repository"
+  ]
+ ],
+ "shared repository model": [
+  [
+   "S",
+   "collaborators"
+  ],
+  [
+   "V",
+   "have"
+  ],
+  [
+   "O",
+   "push access"
+  ],
+  [
+   "V",
+   "create"
+  ],
+  [
+   "O",
+   "topic branches"
+  ]
+ ],
+ "collaborator": [
+  [
+   "S",
+   "A collaborator"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a person"
+  ]
+ ],
+ "branch": [
+  [
+   "S",
+   "A \"branch\""
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a line"
+  ],
+  [
+   "S",
+   "The most recent commit"
+  ],
+  [
+   "V",
+   "is referred to"
+  ],
+  [
+   "O",
+   "the tip"
+  ]
+ ],
+ "pull request": [
+  [
+   "S",
+   "Pull requests"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "proposals"
+  ]
+ ],
+ "review": [
+  [
+   "S",
+   "Pull request reviews"
+  ],
+  [
+   "V",
+   "let"
+  ],
+  [
+   "O",
+   "people"
+  ]
+ ],
+ "merge": [
+  [
+   "S",
+   "Merging"
+  ],
+  [
+   "V",
+   "takes"
+  ],
+  [
+   "O",
+   "the changes"
+  ],
+  [
+   "V",
+   "applies"
+  ],
+  [
+   "O",
+   "them"
+  ]
+ ],
+ "default branch": [
+  [
+   "S",
+   "Each repository"
+  ],
+  [
+   "V",
+   "has"
+  ],
+  [
+   "O",
+   "at least one branch"
+  ],
+  [
+   "S",
+   "The first branch"
+  ],
+  [
+   "V",
+   "is usually called"
+  ],
+  [
+   "O",
+   "main"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the default branch"
+  ]
+ ]
+}

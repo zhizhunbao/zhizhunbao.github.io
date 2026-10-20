@@ -1,0 +1,1217 @@
+{
+ "Cloud Adoption Framework (CAF)": [
+  [
+   "S",
+   "The Microsoft Cloud Adoption Framework (CAF)"
+  ],
+  [
+   "V",
+   "helps"
+  ],
+  [
+   "O",
+   "decision makers"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "provides"
+  ],
+  [
+   "O",
+   "proven guidance"
+  ]
+ ],
+ "Strategy": [
+  [
+   "O",
+   "What"
+  ],
+  [
+   "V",
+   "should"
+  ],
+  [
+   "S",
+   "our Azure adoption"
+  ],
+  [
+   "V",
+   "look like"
+  ]
+ ],
+ "Plan": [
+  [
+   "S",
+   "Successful cloud adoption"
+  ],
+  [
+   "V",
+   "requires"
+  ],
+  [
+   "O",
+   "a cloud adoption plan"
+  ],
+  [
+   "S",
+   "A cloud adoption plan"
+  ],
+  [
+   "V",
+   "converts"
+  ],
+  [
+   "O",
+   "your cloud strategy"
+  ]
+ ],
+ "Ready": [
+  [
+   "S",
+   "The Ready phase"
+  ],
+  [
+   "V",
+   "helps"
+  ],
+  [
+   "O",
+   "you"
+  ]
+ ],
+ "CAF Adopt phase": [
+  [
+   "V",
+   "will"
+  ],
+  [
+   "S",
+   "we"
+  ],
+  [
+   "V",
+   "migrate, modernize, and build"
+  ],
+  [
+   "O",
+   "workloads"
+  ]
+ ],
+ "Migrate (CAF)": [
+  [
+   "S",
+   "Migration"
+  ],
+  [
+   "V",
+   "changes"
+  ],
+  [
+   "O",
+   "where or how a workload runs"
+  ],
+  [
+   "S",
+   "Modernization"
+  ],
+  [
+   "V",
+   "changes"
+  ],
+  [
+   "O",
+   "the workload"
+  ],
+  [
+   "S",
+   "An initiative"
+  ],
+  [
+   "V",
+   "can do"
+  ],
+  [
+   "O",
+   "both"
+  ]
+ ],
+ "Modernize": [
+  [
+   "S",
+   "Modernization"
+  ],
+  [
+   "V",
+   "improves"
+  ],
+  [
+   "O",
+   "an existing workload or workload component"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "can change"
+  ],
+  [
+   "O",
+   "different parts"
+  ]
+ ],
+ "Innovate": [
+  [
+   "S",
+   "A cloud-native solution"
+  ],
+  [
+   "V",
+   "creates"
+  ],
+  [
+   "O",
+   "business value"
+  ],
+  [
+   "S",
+   "cloud-native development"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a journey"
+  ]
+ ],
+ "Govern": [
+  [
+   "S",
+   "Cloud governance"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "how an organization controls its use of cloud services"
+  ],
+  [
+   "S",
+   "These guardrails"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "a set"
+  ]
+ ],
+ "CAF Secure phase": [
+  [
+   "S",
+   "The Cloud Adoption Framework for Azure Secure methodology"
+  ],
+  [
+   "V",
+   "provides"
+  ],
+  [
+   "O",
+   "a structured approach"
+  ]
+ ],
+ "Manage": [
+  [
+   "S",
+   "Managing your Azure environment"
+  ],
+  [
+   "V",
+   "isn't"
+  ],
+  [
+   "O",
+   "about keeping the lights on"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "'s"
+  ],
+  [
+   "O",
+   "about maintaining governance and security"
+  ]
+ ],
+ "Azure Architecture Center": [
+  [
+   "S",
+   "The Azure Architecture Center"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a catalog"
+  ]
+ ],
+ "Azure Well-Architected Framework": [
+  [
+   "S",
+   "The Azure Well-Architected Framework"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a design framework"
+  ],
+  [
+   "V",
+   "Be"
+  ],
+  [
+   "O",
+   "resilient, available, and recoverable"
+  ],
+  [
+   "V",
+   "Be"
+  ],
+  [
+   "O",
+   "as secure"
+  ]
+ ],
+ "cloud adoption strategy": [
+  [
+   "S",
+   "A cloud adoption strategy"
+  ],
+  [
+   "V",
+   "directs"
+  ],
+  [
+   "O",
+   "how your business adopts cloud technology"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "connects"
+  ],
+  [
+   "O",
+   "executive intent"
+  ],
+  [
+   "V",
+   "sets"
+  ],
+  [
+   "O",
+   "the standards"
+  ]
+ ],
+ "motivation": [
+  [
+   "S",
+   "Various motivations"
+  ],
+  [
+   "V",
+   "can drive"
+  ],
+  [
+   "O",
+   "business transformations"
+  ],
+  [
+   "S",
+   "Several motivations"
+  ],
+  [
+   "V",
+   "apply"
+  ]
+ ],
+ "critical business event": [
+  [
+   "S",
+   "it"
+  ],
+  [
+   "V",
+   "'s"
+  ],
+  [
+   "O",
+   "important"
+  ]
+ ],
+ "migration motivation": [
+  [
+   "S",
+   "The migration motivations"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "the most common reasons"
+  ]
+ ],
+ "innovation motivation": [
+  [
+   "S",
+   "Data"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the new commodity"
+  ],
+  [
+   "S",
+   "modern applications"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "the supply chain"
+  ],
+  [
+   "S",
+   "it"
+  ],
+  [
+   "V",
+   "'s"
+  ],
+  [
+   "O",
+   "hard"
+  ]
+ ],
+ "business outcome": [
+  [
+   "S",
+   "This article series"
+  ],
+  [
+   "V",
+   "is designed"
+  ]
+ ],
+ "fiscal outcome": [
+  [
+   "S",
+   "Financial or fiscal performance"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the cleanest business outcome"
+  ]
+ ],
+ "agility outcome": [
+  [
+   "S",
+   "Today's fast-changing business environment"
+  ],
+  [
+   "V",
+   "places"
+  ],
+  [
+   "O",
+   "a premium"
+  ],
+  [
+   "S",
+   "The ability"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the fundamental measure"
+  ]
+ ],
+ "reach outcome": [
+  [
+   "S",
+   "global reach"
+  ],
+  [
+   "V",
+   "can be measured"
+  ]
+ ],
+ "customer engagement outcome": [
+  [
+   "S",
+   "Social marketplaces"
+  ],
+  [
+   "V",
+   "are redefining"
+  ],
+  [
+   "O",
+   "winners and losers"
+  ],
+  [
+   "S",
+   "Responding to user needs"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a key measure"
+  ]
+ ],
+ "performance outcome": [
+  [
+   "S",
+   "Performance and reliability"
+  ],
+  [
+   "V",
+   "are assumed"
+  ],
+  [
+   "S",
+   "reputation damage"
+  ],
+  [
+   "V",
+   "can be"
+  ],
+  [
+   "O",
+   "painful and long-lasting"
+  ]
+ ],
+ "sustainability outcome": [
+  [
+   "S",
+   "Environmental sustainability"
+  ],
+  [
+   "V",
+   "is quickly moving"
+  ]
+ ],
+ "financial considerations": [
+  [
+   "S",
+   "A digital transformation"
+  ],
+  [
+   "V",
+   "goes"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "S",
+   "financial considerations"
+  ]
+ ],
+ "technical considerations": [
+  [
+   "V",
+   "are"
+  ],
+  [
+   "S",
+   "technical considerations"
+  ]
+ ],
+ "scalability": [
+  [
+   "S",
+   "Scalability"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "one"
+  ]
+ ],
+ "high availability": [
+  [
+   "S",
+   "it"
+  ],
+  [
+   "V",
+   "'s"
+  ],
+  [
+   "O",
+   "more costly"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "'s"
+  ],
+  [
+   "O",
+   "less costly"
+  ]
+ ],
+ "security and compliance": [
+  [
+   "S",
+   "Microsoft"
+  ],
+  [
+   "V",
+   "is continually expanding"
+  ],
+  [
+   "O",
+   "our security infrastructure and toolsets"
+  ]
+ ],
+ "capacity optimization": [
+  [
+   "S",
+   "Capacity optimization"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "another technical benefit"
+  ]
+ ],
+ "business case": [
+  [
+   "S",
+   "A business case"
+  ],
+  [
+   "V",
+   "provides"
+  ],
+  [
+   "O",
+   "a view"
+  ],
+  [
+   "S",
+   "Developing a business case"
+  ],
+  [
+   "V",
+   "includes"
+  ],
+  [
+   "O",
+   "building a financial plan"
+  ]
+ ],
+ "adoption horizons": [
+  [
+   "S",
+   "it"
+  ],
+  [
+   "V",
+   "'s suggested"
+  ],
+  [
+   "S",
+   "the company"
+  ],
+  [
+   "V",
+   "commits"
+  ]
+ ],
+ "Horizon 1 migration and modernization": [
+  [
+   "V",
+   "Prioritize"
+  ],
+  [
+   "O",
+   "the datacenter exit"
+  ]
+ ],
+ "Horizon 2 operation modernization": [
+  [
+   "V",
+   "Prioritize"
+  ],
+  [
+   "O",
+   "operational improvements"
+  ]
+ ],
+ "Horizon 3 advanced modernization": [
+  [
+   "S",
+   "the team"
+  ],
+  [
+   "V",
+   "will have"
+  ],
+  [
+   "O",
+   "sufficient data and cloud skills"
+  ]
+ ],
+ "Horizon 4 innovation and growth": [
+  [
+   "V",
+   "Redirect"
+  ],
+  [
+   "O",
+   "capital reduction"
+  ]
+ ],
+ "cloud rationalization": [
+  [
+   "S",
+   "Cloud rationalization"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the process"
+  ]
+ ],
+ "Rehost": [
+  [
+   "S",
+   "a rehost effort"
+  ],
+  [
+   "V",
+   "moves"
+  ],
+  [
+   "O",
+   "a current state asset"
+  ]
+ ],
+ "lift and shift": [
+  [
+   "S",
+   "You"
+  ],
+  [
+   "V",
+   "set up"
+  ],
+  [
+   "O",
+   "cloud resources"
+  ],
+  [
+   "V",
+   "move"
+  ],
+  [
+   "O",
+   "your workloads"
+  ]
+ ],
+ "Refactor": [
+  [
+   "S",
+   "Platform as a service (PaaS) options"
+  ],
+  [
+   "V",
+   "can reduce"
+  ],
+  [
+   "O",
+   "the operational costs"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "'s"
+  ],
+  [
+   "O",
+   "a good idea"
+  ]
+ ],
+ "Rearchitect": [
+  [
+   "S",
+   "Some aging applications"
+  ],
+  [
+   "V",
+   "aren't"
+  ],
+  [
+   "O",
+   "compatible"
+  ],
+  [
+   "S",
+   "This incompatibility"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "S",
+   "the application",
+   1
+  ],
+  [
+   "V",
+   "might need to be rearchitected"
+  ]
+ ],
+ "Rebuild": [
+  [
+   "S",
+   "the delta"
+  ],
+  [
+   "V",
+   "can be"
+  ],
+  [
+   "O",
+   "too large"
+  ],
+  [
+   "V",
+   "create"
+  ],
+  [
+   "O",
+   "a new code base"
+  ]
+ ],
+ "cloud-native": [
+  [
+   "S",
+   "Cloud-native architecture and technologies"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "an approach"
+  ]
+ ],
+ "Replace": [
+  [
+   "S",
+   "software as a service (SaaS) applications"
+  ],
+  [
+   "V",
+   "can provide"
+  ],
+  [
+   "O",
+   "all the necessary functionality"
+  ],
+  [
+   "S",
+   "a workload"
+  ],
+  [
+   "V",
+   "can be scheduled"
+  ]
+ ],
+ "business goal": [
+  [
+   "S",
+   "Business goals"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "high-level outcomes"
+  ]
+ ],
+ "business driver": [
+  [
+   "S",
+   "A business driver"
+  ],
+  [
+   "V",
+   "defines"
+  ]
+ ],
+ "migration strategy": [
+  [
+   "S",
+   "A migration strategy"
+  ],
+  [
+   "V",
+   "defines"
+  ]
+ ],
+ "Retire": [
+  [
+   "S",
+   "Retire"
+  ],
+  [
+   "V",
+   "decommissions"
+  ],
+  [
+   "O",
+   "workloads"
+  ]
+ ],
+ "Replatform": [
+  [
+   "S",
+   "Replatforming"
+  ],
+  [
+   "V",
+   "moves"
+  ],
+  [
+   "O",
+   "workloads"
+  ]
+ ],
+ "Retain": [
+  [
+   "S",
+   "A retain strategy"
+  ],
+  [
+   "V",
+   "keeps"
+  ],
+  [
+   "O",
+   "workloads"
+  ]
+ ],
+ "RACI matrix": [
+  [
+   "V",
+   "Align"
+  ],
+  [
+   "O",
+   "responsibilities"
+  ]
+ ],
+ "Responsible": [],
+ "Accountable": [],
+ "Consulted": [],
+ "Informed": [],
+ "central IT team": [
+  [
+   "S",
+   "the cloud governance team"
+  ],
+  [
+   "V",
+   "might struggle"
+  ],
+  [
+   "S",
+   "it"
+  ],
+  [
+   "V",
+   "'s"
+  ],
+  [
+   "O",
+   "common"
+  ]
+ ],
+ "cloud center of excellence (CCoE)": [
+  [
+   "S",
+   "a cloud center of excellence"
+  ],
+  [
+   "V",
+   "aligns"
+  ],
+  [
+   "O",
+   "teams"
+  ],
+  [
+   "S",
+   "This approach"
+  ],
+  [
+   "V",
+   "provides"
+  ],
+  [
+   "O",
+   "centralized IT functions"
+  ]
+ ],
+ "solution delivery": [
+  [
+   "S",
+   "Cloud adoption functions"
+  ],
+  [
+   "V",
+   "enable"
+  ],
+  [
+   "O",
+   "the implementation"
+  ]
+ ],
+ "platform operations": [
+  [
+   "V",
+   "Operate and manage"
+  ],
+  [
+   "O",
+   "the cloud platform"
+  ]
+ ],
+ "cloud adoption team": [
+  [
+   "S",
+   "The nucleus"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the cloud adoption team"
+  ],
+  [
+   "S",
+   "This team"
+  ],
+  [
+   "V",
+   "drives"
+  ],
+  [
+   "O",
+   "the technical changes"
+  ]
+ ],
+ "cloud governance team": [
+  [
+   "S",
+   "a cloud governance team"
+  ],
+  [
+   "V",
+   "is dedicated"
+  ],
+  [
+   "S",
+   "The cloud governance team"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "accountable"
+  ]
+ ],
+ "landing zone": [
+  [
+   "S",
+   "An Azure landing zone"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a proven and flexible architecture"
+  ]
+ ],
+ "platform landing zone": [],
+ "management group hierarchy": [
+  [
+   "S",
+   "The management group hierarchy"
+  ],
+  [
+   "V",
+   "provides"
+  ],
+  [
+   "O",
+   "the governance structure"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "organizes"
+  ],
+  [
+   "O",
+   "all of your Azure subscriptions"
+  ],
+  [
+   "V",
+   "applies"
+  ],
+  [
+   "O",
+   "governance standards"
+  ]
+ ],
+ "workload landing zone": [],
+ "subscription": [
+  [
+   "S",
+   "subscriptions"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "a unit"
+  ],
+  [
+   "S",
+   "Subscriptions"
+  ],
+  [
+   "V",
+   "let"
+  ],
+  [
+   "O",
+   "you"
+  ]
+ ],
+ "management": [
+  [
+   "S",
+   "This design area"
+  ],
+  [
+   "V",
+   "establishes"
+  ],
+  [
+   "O",
+   "a foundation"
+  ]
+ ],
+ "governance": [
+  [
+   "V",
+   "Use"
+  ],
+  [
+   "O",
+   "Azure governance"
+  ]
+ ],
+ "accelerator": [
+  [
+   "S",
+   "Microsoft-provided accelerators"
+  ],
+  [
+   "V",
+   "use"
+  ],
+  [
+   "O",
+   "infrastructure as code"
+  ]
+ ]
+}

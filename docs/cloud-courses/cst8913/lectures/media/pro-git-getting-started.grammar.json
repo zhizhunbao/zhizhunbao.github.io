@@ -1,0 +1,222 @@
+{
+ "Git": [
+  [
+   "S",
+   "Git"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a free and open source distributed version control system"
+  ]
+ ],
+ "working tree": [
+  [
+   "S",
+   "The working tree"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a single checkout"
+  ],
+  [
+   "S",
+   "These files"
+  ],
+  [
+   "V",
+   "are pulled out"
+  ],
+  [
+   "V",
+   "placed"
+  ]
+ ],
+ "modified": [
+  [
+   "S",
+   "Modified"
+  ],
+  [
+   "V",
+   "means"
+  ]
+ ],
+ "git add": [
+  [
+   "V",
+   "Add"
+  ],
+  [
+   "O",
+   "contents"
+  ],
+  [
+   "S",
+   "The \"index\""
+  ],
+  [
+   "V",
+   "is"
+  ]
+ ],
+ "staging area (index)": [
+  [
+   "S",
+   "The staging area"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a file"
+  ],
+  [
+   "S",
+   "Its technical name"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the \"index\""
+  ]
+ ],
+ "staged": [
+  [
+   "S",
+   "Staged"
+  ],
+  [
+   "V",
+   "means"
+  ]
+ ],
+ "commit": [
+  [
+   "S",
+   "Git",
+   1
+  ],
+  [
+   "V",
+   "takes"
+  ],
+  [
+   "O",
+   "a picture"
+  ],
+  [
+   "V",
+   "stores"
+  ],
+  [
+   "O",
+   "a reference"
+  ]
+ ],
+ "Git directory": [
+  [
+   "S",
+   "The Git directory"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "S",
+   "This"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the most important part"
+  ],
+  [
+   "S",
+   "it"
+  ],
+  [
+   "V",
+   "is"
+  ]
+ ],
+ "committed": [
+  [
+   "S",
+   "Committed"
+  ],
+  [
+   "V",
+   "means"
+  ]
+ ],
+ "remote repository": [
+  [
+   "V",
+   "see"
+  ],
+  [
+   "O",
+   "fetch or push"
+  ]
+ ],
+ "push": [
+  [
+   "S",
+   "you",
+   2
+  ],
+  [
+   "V",
+   "have to push"
+  ],
+  [
+   "O",
+   "it"
+  ]
+ ],
+ "pull": [
+  [
+   "S",
+   "Pulling a branch"
+  ],
+  [
+   "V",
+   "means"
+  ],
+  [
+   "O",
+   "to fetch it and merge it"
+  ]
+ ],
+ "clone": [
+  [
+   "S",
+   "the command"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "git clone"
+  ]
+ ]
+}
