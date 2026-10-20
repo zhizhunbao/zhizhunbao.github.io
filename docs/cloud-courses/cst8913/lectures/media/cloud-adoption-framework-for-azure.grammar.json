@@ -525,28 +525,6 @@
    ]
   ]
  },
- "business case": {
-  "verbs": [
-   [
-    "provides",
-    0
-   ],
-   [
-    "includes",
-    0
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "提供",
-    0
-   ],
-   [
-    "包括",
-    0
-   ]
-  ]
- },
  "adoption horizons": {
   "verbs": [
    [
@@ -621,6 +599,28 @@
   "zhVerbs": [
    [
     "重新调配",
+    0
+   ]
+  ]
+ },
+ "business case": {
+  "verbs": [
+   [
+    "provides",
+    0
+   ],
+   [
+    "includes",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ],
+   [
+    "包括",
     0
    ]
   ]
@@ -1009,6 +1009,10 @@
   "verbs": [],
   "zhVerbs": []
  },
+ "workload landing zone": {
+  "verbs": [],
+  "zhVerbs": []
+ },
  "management group hierarchy": {
   "verbs": [
    [
@@ -1030,10 +1034,6 @@
     0
    ]
   ]
- },
- "workload landing zone": {
-  "verbs": [],
-  "zhVerbs": []
  },
  "subscription": {
   "verbs": [
