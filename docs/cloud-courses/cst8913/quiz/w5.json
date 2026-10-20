@@ -1,0 +1,229 @@
+{
+ "title": "Week 5 quiz",
+ "questions": [
+  {
+   "stem": "During initial ____, a VM snapshot is created. Disk data from the snapshot is replicated to replica managed disks (seed disks) in Azure. After initial ____ finishes, delta ____ begins.",
+   "options": [
+    "cutover",
+    "test migration",
+    "Azure SQL Managed Instance",
+    "replication"
+   ],
+   "answer": 3,
+   "zhTerm": "复制",
+   "zh": "把本地虚拟机的磁盘数据先整体复制到 Azure，再不断同步新的改动；源机器在这期间照常运行。",
+   "page": "Overview of application migration examples for Azure",
+   "href": "../lectures/overview-of-application-migration-examples-for-azure.html#rehost"
+  },
+  {
+   "stem": "____ simulates the migration by creating an Azure VM using replicated data (usually migrating to a non-production VNet in your Azure subscription).",
+   "options": [
+    "Azure SQL Managed Instance",
+    "test migration",
+    "Azure Database for MySQL",
+    "Data Migration Assistant (DMA)"
+   ],
+   "answer": 1,
+   "zhTerm": "测试迁移",
+   "zh": "正式迁移前的演练：用复制好的数据在隔离网络里建一台测试 VM 来验证；不影响源机器。",
+   "page": "Overview of application migration examples for Azure",
+   "href": "../lectures/overview-of-application-migration-examples-for-azure.html#rehost"
+  },
+  {
+   "stem": "You can perform final migrations (____) for these servers. ... By default Azure Migrate shuts down the source (on-premises or AVS) VM, and runs an on-demand replication to synchronize any VM changes that occurred since the last replication occurred.",
+   "options": [
+    "Azure SQL Managed Instance",
+    "cutover",
+    "Azure Database for MySQL",
+    "Azure DevOps"
+   ],
+   "answer": 1,
+   "zhTerm": "切换",
+   "zh": "正式切换：关掉源机器、同步最后的改动，让 Azure 上的新 VM 接手业务；这一步之后用户就用云上的系统了。",
+   "page": "Overview of application migration examples for Azure",
+   "href": "../lectures/overview-of-application-migration-examples-for-azure.html#rehost"
+  },
+  {
+   "stem": "Provides a continuous integration and continuous deployment (CI/CD) pipeline for app development. The pipeline starts with a Git repository for managing app code, a build system for producing packages and other build artifacts, and a Release Management system to deploy changes in dev, test, and production environments.",
+   "options": [
+    "Azure DevOps",
+    "Azure SQL Managed Instance",
+    "Azure Cosmos DB",
+    "cutover"
+   ],
+   "answer": 0,
+   "zhTerm": "Azure DevOps",
+   "zh": "Azure DevOps 是微软的一套开发协作服务：放代码的 Git 仓库、自动构建和自动发布。重构例子里用它把代码自动部署到 App Service。",
+   "page": "Overview of application migration examples for Azure",
+   "href": "../lectures/overview-of-application-migration-examples-for-azure.html#refactor"
+  },
+  {
+   "stem": "____ is a standalone tool to assess SQL servers. It helps pinpoint potential problems that block migration. It finds unsupported features, new features that can benefit you after migration, and the right path for database migration.",
+   "options": [
+    "Data Migration Assistant (DMA)",
+    "Azure Cosmos DB",
+    "test migration",
+    "Azure DevOps"
+   ],
+   "answer": 0,
+   "zhTerm": "数据迁移助手",
+   "zh": "数据迁移助手是一个单独安装的小工具，用来检查 SQL Server 数据库能不能搬到 Azure，并可以把数据库搬过去。重构例子里用它把数据库迁到 Azure SQL Database。",
+   "page": "Overview of application migration examples for Azure",
+   "href": "../lectures/overview-of-application-migration-examples-for-azure.html#refactor"
+  },
+  {
+   "stem": "____ is a PaaS service that has near 100% compatibility with the latest Enterprise Edition SQL Server Database Engine. ... SQL Managed Instance enables existing SQL Server customers to lift and shift their on-premises applications to the cloud with minimal application and database changes.",
+   "options": [
+    "Azure SQL Managed Instance",
+    "Data Migration Assistant (DMA)",
+    "test migration",
+    "Azure Cosmos DB"
+   ],
+   "answer": 0,
+   "zhTerm": "Azure SQL 托管实例",
+   "zh": "Azure SQL 托管实例是微软托管的数据库服务，和本地 SQL Server 几乎完全兼容。整个数据库实例搬上云时，改动最少。",
+   "page": "Overview of application migration examples for Azure",
+   "href": "../lectures/overview-of-application-migration-examples-for-azure.html#refactor"
+  },
+  {
+   "stem": "____ flexible server is a fully managed, production-ready relational database service in the Microsoft Cloud.",
+   "options": [
+    "cutover",
+    "Azure Database for MySQL",
+    "Azure Cosmos DB",
+    "Azure DevOps"
+   ],
+   "answer": 1,
+   "zhTerm": "Azure MySQL 数据库",
+   "zh": "微软托管的 MySQL 数据库，重构时可把自建 MySQL 换成它。",
+   "page": "Overview of application migration examples for Azure",
+   "href": "../lectures/overview-of-application-migration-examples-for-azure.html#refactor"
+  },
+  {
+   "stem": "____ is a fully managed NoSQL and vector database. It offers single-digit millisecond response times, automatic and instant scalability, along with guaranteed speed at any scale.",
+   "options": [
+    "Data Migration Assistant (DMA)",
+    "Azure SQL Managed Instance",
+    "test migration",
+    "Azure Cosmos DB"
+   ],
+   "answer": 3,
+   "zhTerm": "Azure Cosmos DB（非关系数据库）",
+   "zh": "微软托管的 NoSQL 数据库，速度快、能自动扩展；非关系型数据可以迁到它。",
+   "page": "Overview of application migration examples for Azure",
+   "href": "../lectures/overview-of-application-migration-examples-for-azure.html#refactor"
+  },
+  {
+   "stem": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider.",
+   "options": [
+    "cluster",
+    "Azure VMware Solution private cloud",
+    "Azure ExpressRoute",
+    "VMware vSAN"
+   ],
+   "answer": 2,
+   "zhTerm": "ExpressRoute 专线",
+   "zh": "ExpressRoute 是本地机房到 Azure 的私有专线，不走公网，更稳、更快、更安全。",
+   "page": "What is Azure VMware Solution?",
+   "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
+  },
+  {
+   "stem": "____ provides private clouds that contain VMware vSphere clusters built from dedicated bare-metal Azure infrastructure.",
+   "options": [
+    "Azure ExpressRoute",
+    "VMware NSX",
+    "vCenter Server",
+    "Azure VMware Solution (AVS)"
+   ],
+   "answer": 3,
+   "zhTerm": "Azure VMware 解决方案",
+   "zh": "在 Azure 的专用物理机上跑 VMware 环境；VMware 虚拟机可以原样搬过去，不用改格式。",
+   "page": "What is Azure VMware Solution?",
+   "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
+  },
+  {
+   "stem": "____: Offers compute, networking, and storage resources by using VMware software, including vCenter Server, NSX software-defined networking, vSAN software-defined storage, and Azure bare-metal ESXi hosts.",
+   "options": [
+    "vCenter Server",
+    "Azure ExpressRoute",
+    "ESXi host",
+    "Azure VMware Solution private cloud"
+   ],
+   "answer": 3,
+   "zhTerm": "AVS 私有云",
+   "zh": "AVS 私有云是微软在 Azure 专用物理机上替你搭好的一整套 VMware 环境（vCenter、NSX、vSAN、ESXi 主机）；本地的 VMware 虚拟机可以直接搬进去运行。",
+   "page": "What is Azure VMware Solution?",
+   "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
+  },
+  {
+   "stem": "VMware ____ for managing ESXi and vSAN.",
+   "options": [
+    "vCenter Server",
+    "cluster",
+    "Azure VMware Solution (AVS)",
+    "VMware NSX"
+   ],
+   "answer": 0,
+   "zhTerm": "vCenter 服务器",
+   "zh": "vCenter Server 是 VMware 的集中管理平台，用来管理所有 ESXi 主机和 vSAN 存储；在 AVS 私有云里它已经装好，你照旧用它管虚拟机。",
+   "page": "What is Azure VMware Solution?",
+   "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
+  },
+  {
+   "stem": "____ software-defined networking for vSphere workload virtual machines (VMs).",
+   "options": [
+    "VMware NSX",
+    "Azure VMware Solution private cloud",
+    "ESXi host",
+    "cluster"
+   ],
+   "answer": 0,
+   "zhTerm": "NSX 网络",
+   "zh": "NSX 是 VMware 的软件定义网络，用软件给虚拟机建网段、路由和防火墙。",
+   "page": "What is Azure VMware Solution?",
+   "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
+  },
+  {
+   "stem": "Azure VMware Solution ____ are based on a hyperconverged infrastructure. ... An Azure VMware Solution ____ requires a minimum number of three hosts.",
+   "options": [
+    "Azure VMware Solution (AVS)",
+    "ESXi host",
+    "VMware vSAN",
+    "cluster"
+   ],
+   "answer": 3,
+   "zhTerm": "集群",
+   "zh": "集群是一组 ESXi 主机，它们的计算、内存和硬盘合在一起使用（超融合）；AVS 的每个集群至少 3 台、最多 16 台主机，主机多了就能放更多虚拟机。",
+   "page": "What is Azure VMware Solution?",
+   "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
+  },
+  {
+   "stem": "Dedicated bare-metal server hosts provisioned with VMware vSphere Hypervisor (ESXi).",
+   "options": [
+    "VMware NSX",
+    "Azure VMware Solution private cloud",
+    "ESXi host",
+    "Azure ExpressRoute"
+   ],
+   "answer": 2,
+   "zhTerm": "ESXi 主机",
+   "zh": "ESXi 是装在物理服务器上的 VMware 虚拟化软件；AVS 私有云由这些专用裸金属主机组成。",
+   "page": "What is Azure VMware Solution?",
+   "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
+  },
+  {
+   "stem": "____ datastore for vSphere workload VMs.",
+   "options": [
+    "Azure VMware Solution private cloud",
+    "vCenter Server",
+    "VMware vSAN",
+    "cluster"
+   ],
+   "answer": 2,
+   "zhTerm": "vSAN 存储",
+   "zh": "vSAN 把各主机的本地硬盘合成一个共享存储，给虚拟机用。",
+   "page": "What is Azure VMware Solution?",
+   "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
+  }
+ ]
+}

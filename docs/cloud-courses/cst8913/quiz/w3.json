@@ -1,0 +1,285 @@
+{
+ "title": "Week 3 quiz",
+ "questions": [
+  {
+   "stem": "____ (____) is the most flexible category of cloud services, as it provides you the maximum amount of control for your cloud resources.",
+   "options": [
+    "Azure Application Gateway",
+    "Infrastructure as a Service (IaaS)",
+    "gateway subnet",
+    "resource group"
+   ],
+   "answer": 1,
+   "zhTerm": "基础设施即服务",
+   "zh": "基础设施即服务就是在云上租用硬件（如虚拟机），操作系统、网络配置和存储配置都由你自己管。最灵活、控制力最大，适合直接搬迁（lift-and-shift）和开发测试环境。",
+   "page": "Describe cloud service types",
+   "href": "../lectures/describe-cloud-service-types.html#describe-infrastructure-as-a-service"
+  },
+  {
+   "stem": "____ (____) is a middle ground between renting space in a datacenter (infrastructure as a service) and paying for a complete and deployed solution (software as a service).",
+   "options": [
+    "availability zone",
+    "business tier",
+    "Platform as a Service (PaaS)",
+    "N-tier architecture"
+   ],
+   "answer": 2,
+   "zhTerm": "平台即服务",
+   "zh": "平台即服务就是厂商管好硬件、操作系统、中间件和开发工具，你只管自己的应用和数据。不用操心系统授权和打补丁，适合直接开发应用。",
+   "page": "Describe cloud service types",
+   "href": "../lectures/describe-cloud-service-types.html#describe-platform-as-a-service"
+  },
+  {
+   "stem": "With ____, you’re essentially renting or using a fully developed application.",
+   "options": [
+    "reference architecture",
+    "Software as a Service (SaaS)",
+    "Infrastructure as a Service (IaaS)",
+    "gateway subnet"
+   ],
+   "answer": 1,
+   "zhTerm": "软件即服务",
+   "zh": "软件即服务就是直接使用别人做好的完整应用，比如邮箱、财务软件。最容易上手，但能改的最少。",
+   "page": "Describe cloud service types",
+   "href": "../lectures/describe-cloud-service-types.html#describe-software-as-a-service"
+  },
+  {
+   "stem": "Before inventing an architecture from scratch, review validated ____ and fundamentals from the Azure Architecture Center. Explore validated ____ for common workloads. These architectures help accelerate design decisions and reduce risk.",
+   "options": [
+    "gateway subnet",
+    "reference architecture",
+    "N-tier architecture",
+    "subnet"
+   ],
+   "answer": 1,
+   "zhTerm": "参考架构",
+   "zh": "微软已经验证过的常见系统架构样板；照着它来设计，速度更快、风险更小，不用从零开始。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
+  },
+  {
+   "stem": "An ____ divides an application into logical layers and physical tiers. ... A traditional three-tier application has a presentation tier, an optional middle tier, and a database tier.",
+   "options": [
+    "N-tier architecture",
+    "availability set",
+    "virtual network (VNet)",
+    "subnet"
+   ],
+   "answer": 0,
+   "zhTerm": "N 层架构",
+   "zh": "把应用分成几层（常见是网页层、业务层、数据层），每层放在不同的机器上；这样更容易扩展，也更安全。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
+  },
+  {
+   "stem": "A ____ is a container that you use to manage related resources for an Azure solution. ... When you delete a ____, all resources in the ____ are also deleted.",
+   "options": [
+    "web tier",
+    "network security group (NSG)",
+    "resource group",
+    "reference architecture"
+   ],
+   "answer": 2,
+   "zhTerm": "资源组",
+   "zh": "Azure 里装相关资源的文件夹，可以一起管理、一起删除；实验做完删掉资源组，就不会继续扣费。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
+  },
+  {
+   "stem": "The presentation tier is labeled ____. ... The web and business tiers are stateless. Any VM can handle any request for that tier.",
+   "options": [
+    "data tier",
+    "virtual network (VNet)",
+    "web tier",
+    "gateway subnet"
+   ],
+   "answer": 2,
+   "zhTerm": "Web 层（展示层）",
+   "zh": "N 层架构里最前面的一层，负责接收用户请求、显示页面；它不保存状态，所以可以随便加机器。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
+  },
+  {
+   "stem": "The layer labeled ____ in the reference diagram refers to the business logic tier. ... The web and ____ are stateless. Any VM can handle any request for that tier.",
+   "options": [
+    "Azure Load Balancer",
+    "business tier",
+    "availability set",
+    "Azure region"
+   ],
+   "answer": 1,
+   "zhTerm": "业务层（中间层）",
+   "zh": "N 层架构的中间层，放业务逻辑（比如计算价格、处理订单）；它在网页层和数据层之间。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
+  },
+  {
+   "stem": "The ____ should consist of a replicated database. ... Restrict access to the ____ by allowing requests from a middle tier only.",
+   "options": [
+    "internal load balancer",
+    "availability zone",
+    "reference architecture",
+    "data tier"
+   ],
+   "answer": 3,
+   "zhTerm": "数据层",
+   "zh": "N 层架构最后面的一层，存放数据库；只允许业务层访问它，这样数据更安全。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
+  },
+  {
+   "stem": "Microsoft ____ is a relational database management system (RDBMS). Applications and tools connect to a ____ instance or database, and communicate using Transact-SQL (T-SQL).",
+   "options": [
+    "resource group",
+    "Azure region",
+    "SQL Server",
+    "availability set"
+   ],
+   "answer": 2,
+   "zhTerm": "SQL Server 数据库",
+   "zh": "SQL Server 是微软的关系型数据库，装在自己的服务器上；迁移时可搬到 Azure SQL 或 SQL 托管实例。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
+  },
+  {
+   "stem": "Azure ____ provides the fundamental building block for your private network in Azure. This service enables Azure resources like virtual machines (VMs) to securely communicate with each other, the internet, and on-premises networks.",
+   "options": [
+    "internal load balancer",
+    "business tier",
+    "Azure region",
+    "virtual network (VNet)"
+   ],
+   "answer": 3,
+   "zhTerm": "虚拟网络",
+   "zh": "你在 Azure 里的私有网络，让虚拟机等资源之间、和互联网、和本地机房安全地通信；它是云上网络的基础。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
+  },
+  {
+   "stem": "An application gateway is a dedicated deployment in your virtual network. Within your virtual network, a dedicated subnet is required for the application gateway.",
+   "options": [
+    "network security group (NSG)",
+    "gateway subnet",
+    "internal load balancer",
+    "availability zone"
+   ],
+   "answer": 1,
+   "zhTerm": "网关子网",
+   "zh": "Application Gateway 必须放在自己专用的子网里；这个子网里不能再放别的资源。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
+  },
+  {
+   "stem": "____ is a web traffic load balancer that helps you manage traffic to your web applications. ... Application Gateway makes intelligent routing decisions based on HTTP request attributes like URL paths and host headers.",
+   "options": [
+    "Azure Application Gateway",
+    "network security group (NSG)",
+    "availability set",
+    "business tier"
+   ],
+   "answer": 0,
+   "zhTerm": "Azure 应用程序网关",
+   "zh": "Azure 的网页流量负载均衡器，能看懂 HTTP 请求（比如网址路径），按内容把请求分给不同服务器；工作在第 7 层。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
+  },
+  {
+   "stem": "Azure virtual network ____ are essential containers where all Azure resources are deployed within a virtual network.",
+   "options": [
+    "reference architecture",
+    "resource group",
+    "SQL Server",
+    "subnet"
+   ],
+   "answer": 3,
+   "zhTerm": "子网",
+   "zh": "把虚拟网络再切成的小网段，资源就放在子网里；N 层架构里每一层放一个子网，方便分别设安全规则。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
+  },
+  {
+   "stem": "You can use an Azure ____ to filter network traffic between Azure resources in Azure virtual networks. A ____ contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources.",
+   "options": [
+    "network security group (NSG)",
+    "internal load balancer",
+    "availability set",
+    "gateway subnet"
+   ],
+   "answer": 0,
+   "zhTerm": "网络安全组",
+   "zh": "Azure 里的一组防火墙规则，决定哪些进出流量允许、哪些拒绝；可以挂在子网或网卡上。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
+  },
+  {
+   "stem": "____ is a cloud service that distributes incoming network traffic across backend virtual machines (VMs) or virtual machine scale sets (VMSS). ... ____ operates at layer 4 of the Open Systems Interconnection (OSI) model.",
+   "options": [
+    "Azure region",
+    "business tier",
+    "internal load balancer",
+    "Azure Load Balancer"
+   ],
+   "answer": 3,
+   "zhTerm": "Azure 负载均衡器",
+   "zh": "把进来的网络流量平均分给后面的多台虚拟机；只看 IP 和端口，工作在第 4 层，一台坏了也不影响服务。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
+  },
+  {
+   "stem": "Alternatively, an internal (or private) load balancer is used to load balance traffic inside a virtual network.",
+   "options": [
+    "Azure Load Balancer",
+    "internal load balancer",
+    "availability set",
+    "availability zone"
+   ],
+   "answer": 1,
+   "zhTerm": "内部负载均衡器",
+   "zh": "只在虚拟网络内部分发流量的负载均衡器，没有公网入口；常放在 Web 层和后端层之间。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
+  },
+  {
+   "stem": "Each region is a set of physical facilities that include datacenters and networking infrastructure.",
+   "options": [
+    "reference architecture",
+    "SQL Server",
+    "Azure region",
+    "business tier"
+   ],
+   "answer": 2,
+   "zhTerm": "Azure 区域",
+   "zh": "区域就是 Azure 在某个地理位置的一组数据中心；选区域会影响延迟、数据存放地和可用服务。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#availability"
+  },
+  {
+   "stem": "Many Azure regions provide ____, which are separated groups of datacenters within a region. Each ____ has independent power, cooling, and networking infrastructure...",
+   "options": [
+    "SQL Server",
+    "web tier",
+    "internal load balancer",
+    "availability zone"
+   ],
+   "answer": 3,
+   "zhTerm": "可用区",
+   "zh": "同一个区域里互相独立的几组数据中心，各自有电源、冷却和网络；一个区出故障，其他区还能继续服务。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#availability"
+  },
+  {
+   "stem": "VMs within the same ____ are deployed across multiple physical servers, compute racks, storage units, and network switches for redundancy.",
+   "options": [
+    "availability set",
+    "Azure Application Gateway",
+    "reference architecture",
+    "SQL Server"
+   ],
+   "answer": 0,
+   "zhTerm": "可用性集",
+   "zh": "可用性集是把同一层的几台虚拟机分散到不同物理服务器、机架和交换机上的分组；所在区域没有可用区时，用它防止一台硬件坏了整层停掉。",
+   "page": "Windows N-tier application on Azure",
+   "href": "../lectures/windows-n-tier-application-on-azure.html#availability"
+  }
+ ]
+}
