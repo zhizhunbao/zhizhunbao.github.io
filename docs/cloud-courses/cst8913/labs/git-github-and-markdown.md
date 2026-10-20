@@ -22,7 +22,7 @@ Lab 1 of CST8913 Cloud Migration (week 1): create a private repository, work on 
 
 ## 1. Git and GitHub
 
-### What is the difference between Git and GitHub?
+#### What is the difference between Git and GitHub?
 
 **Git** is a distributed version-control system. It runs on my own computer and records the history of a project as a series of commits, so I can see what changed, when it changed, and go back to any earlier state. Because every clone contains the full history, Git keeps working without a network connection.
 
@@ -32,7 +32,7 @@ Explained in [1. Pro Git: getting started](../lectures/pro-git-getting-started.m
 
 ## 2. Working tree and staging area
 
-### What are the working tree, the staging area and the repository, and how does a change move through them?
+#### What are the working tree, the staging area and the repository, and how does a change move through them?
 
 A commit moves through three areas before it becomes part of the history:
 
@@ -48,7 +48,7 @@ Explained in [1. Pro Git: getting started](../lectures/pro-git-getting-started.m
 
 ## 3. Commit
 
-### What does a commit record?
+#### What does a commit record?
 
 Git tracks three things about every commit:
 
@@ -58,13 +58,13 @@ Git tracks three things about every commit:
 
 Explained in [1. Pro Git: getting started](../lectures/pro-git-getting-started.md).
 
-### Why commit in small stages rather than once at the end?
+#### Why commit in small stages rather than once at the end?
 
 5. **Wrote the report in stages.** I committed after each section, so the history shows how the report grew.
 
 Explained in [1. Pro Git: getting started](../lectures/pro-git-getting-started.md).
 
-### How does GitHub decide which account a commit belongs to?
+#### How does GitHub decide which account a commit belongs to?
 
 > GitHub attributes a commit to an account by matching the commit's email address. My GitHub account is registered with my Algonquin student email, which is its verified primary address, so the same address is used for every commit in this repository.
 
@@ -72,7 +72,7 @@ Explained in [1. Pro Git: getting started](../lectures/pro-git-getting-started.m
 
 ## 4. Git commands
 
-### Which everyday Git commands move work from the working tree to the remote repository, and what does each one do?
+#### Which everyday Git commands move work from the working tree to the remote repository, and what does each one do?
 
 | Command        | Purpose                                                                          | Example                                   |
 | -------------- | -------------------------------------------------------------------------------- | ----------------------------------------- |
@@ -86,7 +86,7 @@ Explained in [1. Pro Git: getting started](../lectures/pro-git-getting-started.m
 
 ## 5. Branch
 
-### Why do the work on a branch instead of directly on main?
+#### Why do the work on a branch instead of directly on main?
 
 4. **Created a working branch** so that the lab work stayed off `main` until it was reviewed:
 
@@ -98,7 +98,7 @@ Explained in [2. GitHub Docs: collaborating with pull requests](../lectures/gith
 
 ## 6. Push
 
-### What does pushing a branch do?
+#### What does pushing a branch do?
 
 6. **Pushed the branch** to GitHub so the work existed remotely as well as locally:
 
@@ -110,7 +110,7 @@ Explained in [1. Pro Git: getting started](../lectures/pro-git-getting-started.m
 
 ## 7. Pull request
 
-### What is a pull request for, and what happens when you merge it?
+#### What is a pull request for, and what happens when you merge it?
 
 6. **Pushed the branch and opened a pull request.** The pull request let me review every change in **Files changed** before merging it into `main`.
 
@@ -118,7 +118,7 @@ Explained in [2. GitHub Docs: collaborating with pull requests](../lectures/gith
 
 ## 8. Merge
 
-### What steps take a change from a pull request into main?
+#### What steps take a change from a pull request into main?
 
 7. **Opened a pull request** titled `Complete Lab 1` from `lab-01` into `main`, reviewed the **Files changed** tab, and merged it.
 8. **Verified the result** by opening `lab-01/README.md` on the `main` branch on GitHub and confirming that every element rendered correctly.
@@ -127,7 +127,7 @@ Explained in [2. GitHub Docs: collaborating with pull requests](../lectures/gith
 
 ## 9. Fork
 
-### What is a fork?
+#### What is a fork?
 
 1. **Read the instructions.** The course repository is private, so I forked it to read Lab 1. This showed me that a fork is a copy on GitHub, not on my computer.
 

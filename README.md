@@ -12,7 +12,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 
 ## Content rules (the site is public)
 
-- No lecture slide text, no lab questions, no lab answers.
+- No lecture slide text, no lab answers. Exception (user, 2026-10-20): the lab quizzes use the instructor's lab questions word for word as their stems; options and explanations are my own.
 - Definitions are quoted from official documentation (Microsoft Learn is CC BY 4.0) with an APA reference that names the section and paragraph and links the `#anchor`.
 - Content that exists only in course materials is rewritten in my own words, without quotation marks.
 - Cloud courses are in progress: no links to coursework code until grades are final. No student number anywhere.

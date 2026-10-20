@@ -2,8 +2,46 @@
  "title": "Week 2 lecture quiz",
  "questions": [
   {
-   "stem": "Contoso no longer wants to buy its own servers; instead it wants virtual machines, storage, databases and networking delivered over the internet whenever it needs them. What is this way of getting IT services called?",
-   "zhStem": "Contoso 不想再自己购买服务器，而是希望在需要时通过互联网获得虚拟机、存储、数据库和网络。这种获取 IT 服务的方式叫什么？",
+   "stem": "What is the delivery of virtual machines, storage, databases and networking over the internet called?",
+   "zhStem": "通过互联网提供虚拟机、存储、数据库和网络的方式叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "virtual machines",
+       "虚拟机"
+      ],
+      [
+       "storage",
+       "存储"
+      ],
+      [
+       "databases",
+       "数据库"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "called",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "capital expenditure (CapEx)",
     "datacenter",
@@ -54,8 +92,50 @@
    ]
   },
   {
-   "stem": "A new Contoso hire asks what Azure's physical infrastructure is built on at the lowest level: buildings full of servers in racks, each with dedicated power, cooling and networking. What are these facilities called?",
-   "zhStem": "Contoso 的一名新员工问 Azure 的物理基础设施在最底层由什么构成：装满机架服务器、配有专用电力、冷却和网络的建筑。这些设施叫什么？",
+   "stem": "What are the facilities with racks of servers and dedicated power, cooling and networking that underpin Azure?",
+   "zhStem": "构成 Azure 物理基础、装有服务器机架并配有专用电力、制冷和网络的设施叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "racks of servers",
+       "服务器机架"
+      ],
+      [
+       "dedicated power",
+       "专用电力"
+      ],
+      [
+       "cooling",
+       "制冷"
+      ],
+      [
+       "networking",
+       "网络"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ],
+      [
+       "underpin",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "构成",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "subscription",
     "datacenter",
@@ -106,8 +186,46 @@
    ]
   },
   {
-   "stem": "Contoso's security team is moving workloads to Azure and wants to know which duties Microsoft now handles and which ones Contoso still owns. Which concept explains this split of duties?",
-   "zhStem": "Contoso 的安全团队正在把工作负载迁到 Azure，想知道哪些职责现在由 Microsoft 承担、哪些仍由 Contoso 负责。哪个概念解释了这种职责划分？",
+   "stem": "Which concept describes how duties are split between the cloud provider and the customer?",
+   "zhStem": "哪个概念描述了云提供商和客户之间的职责划分？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "concept",
+       "概念"
+      ],
+      [
+       "cloud provider",
+       "云提供商"
+      ],
+      [
+       "customer",
+       "客户"
+      ]
+     ],
+     "verbs": [
+      [
+       "describes",
+       0
+      ],
+      [
+       "are split",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "描述",
+       0
+      ],
+      [
+       "划分",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "consumption-based model",
     "Cloud Adoption Framework (CAF)",
@@ -146,8 +264,42 @@
    ]
   },
   {
-   "stem": "Fabrikam runs all of its servers in a room inside its own office building, so its IT staff are responsible for everything from the hardware up to the applications. How is this kind of deployment described?",
-   "zhStem": "Fabrikam 把所有服务器放在自己办公楼内的一个机房里，因此其 IT 人员要负责从硬件到应用程序的一切。这种部署方式被称为什么？",
+   "stem": "Which deployment runs all servers in your own building, making your IT staff responsible for everything?",
+   "zhStem": "哪种部署把所有服务器放在自己的楼里，由自己的 IT 人员负责一切？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "deployment",
+       "部署"
+      ],
+      [
+       "servers",
+       "服务器"
+      ],
+      [
+       "building",
+       "楼"
+      ],
+      [
+       "IT staff",
+       "IT 人员"
+      ]
+     ],
+     "verbs": [
+      [
+       "runs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "放在",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "on-premises",
     "public cloud",
@@ -176,8 +328,42 @@
    "zhVerbs": []
   },
   {
-   "stem": "After moving to Azure, Contoso asks who now takes care of the physical security, power, cooling and network connectivity of the buildings that host its workloads. Who is responsible for these?",
-   "zhStem": "迁到 Azure 后，Contoso 问现在由谁负责托管其工作负载的建筑的物理安全、电力、冷却和网络连接。这些由谁负责？",
+   "stem": "In the cloud, who is responsible for physical security, power, cooling and network connectivity?",
+   "zhStem": "在云中，谁负责物理安全、电力、制冷和网络连接？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud",
+       "云"
+      ],
+      [
+       "physical security",
+       "物理安全"
+      ],
+      [
+       "power",
+       "电力"
+      ],
+      [
+       "network connectivity",
+       "网络连接"
+      ]
+     ],
+     "verbs": [
+      [
+       "is responsible for",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "负责",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "cloud center of excellence (CCoE)",
     "cloud provider",
@@ -216,8 +402,46 @@
    ]
   },
   {
-   "stem": "A startup wants to rent compute from a third-party company that builds and runs the infrastructure and sells its services to anyone who signs up. Which cloud model is this?",
-   "zhStem": "一家初创公司想向一家第三方公司租用计算资源，该公司自建并运营基础设施，任何注册的人都可以购买其服务。这是哪种云模型？",
+   "stem": "Which cloud model is run by a third-party provider and open to anyone who buys its services?",
+   "zhStem": "哪种云模型由第三方提供商运营，任何购买服务的人都能使用？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud model",
+       "云模型"
+      ],
+      [
+       "third-party provider",
+       "第三方提供商"
+      ],
+      [
+       "services",
+       "服务"
+      ]
+     ],
+     "verbs": [
+      [
+       "is run by",
+       0
+      ],
+      [
+       "buys",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "运营",
+       0
+      ],
+      [
+       "购买",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "hybrid cloud",
     "multi-cloud",
@@ -268,8 +492,46 @@
    ]
   },
   {
-   "stem": "A bank wants cloud-style IT services delivered to its staff, but the environment must be used by the bank alone and never shared with any other customer. Which cloud model fits?",
-   "zhStem": "一家银行希望以云的方式向员工提供 IT 服务，但该环境只能由这家银行单独使用，绝不与其他客户共享。哪种云模型合适？",
+   "stem": "Which cloud model delivers cloud services to a single organization only, never shared with others?",
+   "zhStem": "哪种云模型只为单个组织提供云服务，从不与他人共享？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud model",
+       "云模型"
+      ],
+      [
+       "single organization",
+       "单个组织"
+      ],
+      [
+       "others",
+       "他人"
+      ]
+     ],
+     "verbs": [
+      [
+       "delivers",
+       0
+      ],
+      [
+       "shared with",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提供",
+       0
+      ],
+      [
+       "共享",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "hybrid cloud",
     "private cloud",
@@ -298,8 +560,42 @@
    "zhVerbs": []
   },
   {
-   "stem": "Contoso keeps its sensitive databases in its own private environment but connects them to web servers running on Azure, so both work together as one inter-connected environment. Which cloud model is this?",
-   "zhStem": "Contoso 把敏感数据库保留在自己的私有环境中，但将其与运行在 Azure 上的 Web 服务器相连，使两者作为一个互联环境协同工作。这是哪种云模型？",
+   "stem": "Which cloud model connects a private environment and a public cloud into one inter-connected environment?",
+   "zhStem": "哪种云模型把私有环境和公有云连接成一个互通的环境？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud model",
+       "云模型"
+      ],
+      [
+       "private environment",
+       "私有环境"
+      ],
+      [
+       "public cloud",
+       "公有云"
+      ],
+      [
+       "inter-connected environment",
+       "互通的环境"
+      ]
+     ],
+     "verbs": [
+      [
+       "connects",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "连接",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "public cloud",
     "hybrid cloud",
@@ -338,8 +634,42 @@
    ]
   },
   {
-   "stem": "Fabrikam runs some workloads on Azure and others on AWS, using more than one public provider at the same time. Which cloud model is this?",
-   "zhStem": "Fabrikam 把一些工作负载放在 Azure 上，另一些放在 AWS 上，同时使用不止一家公有云服务商。这是哪种云模型？",
+   "stem": "Which cloud model uses more than one public cloud provider, such as Azure and AWS, at the same time?",
+   "zhStem": "哪种云模型同时使用不止一个公有云提供商，例如 Azure 和 AWS？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud model",
+       "云模型"
+      ],
+      [
+       "public cloud provider",
+       "公有云提供商"
+      ],
+      [
+       "Azure",
+       "Azure"
+      ],
+      [
+       "AWS",
+       "AWS"
+      ]
+     ],
+     "verbs": [
+      [
+       "uses",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "使用",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "hybrid cloud",
     "on-premises",
@@ -374,8 +704,46 @@
    ]
   },
   {
-   "stem": "Contoso's finance team pays a large one-time sum up front to buy new servers and storage hardware for its office server room. Which type of expenditure is this?",
-   "zhStem": "Contoso 的财务团队一次性预先支付一大笔钱，为办公室机房购买新的服务器和存储硬件。这属于哪种支出？",
+   "stem": "Which type of expenditure is a large one-time, up-front payment to buy servers and storage hardware?",
+   "zhStem": "一次性预先支付一大笔钱购买服务器和存储硬件，属于哪种支出？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "one-time",
+       "一次性"
+      ],
+      [
+       "servers",
+       "服务器"
+      ],
+      [
+       "storage hardware",
+       "存储硬件"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "buy",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "购买",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "consumption-based model",
     "capital expenditure (CapEx)",
@@ -418,8 +786,34 @@
    ]
   },
   {
-   "stem": "After moving to Azure, Contoso's finance team no longer buys hardware; instead it pays a bill every month for the services it keeps using over time. Which type of expenditure is this?",
-   "zhStem": "迁到 Azure 后，Contoso 的财务团队不再购买硬件，而是每月为持续使用的服务付账单。这属于哪种支出？",
+   "stem": "Which type of expenditure is paying a monthly bill for services over time instead of buying hardware?",
+   "zhStem": "不买硬件，而是随时间按月为服务付费，属于哪种支出？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "monthly bill",
+       "按月"
+      ],
+      [
+       "services",
+       "服务"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "capital expenditure (CapEx)",
     "financial considerations",
@@ -458,8 +852,54 @@
    ]
   },
   {
-   "stem": "Contoso's CFO asks why cloud spending counts as operating cost: Azure has no up-front cost, measures what each workload actually uses, and bills only for that. What is this billing model called?",
-   "zhStem": "Contoso 的首席财务官问为什么云支出算作运营成本：Azure 没有前期费用，它计量每个工作负载的实际用量并只按此收费。这种计费模式叫什么？",
+   "stem": "Which billing model has no up-front cost and charges only for the resources you actually use?",
+   "zhStem": "哪种计费模式没有预付成本，只按你实际使用的资源收费？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "billing model",
+       "计费模式"
+      ],
+      [
+       "up-front cost",
+       "预付成本"
+      ],
+      [
+       "resources",
+       "资源"
+      ]
+     ],
+     "verbs": [
+      [
+       "has",
+       0
+      ],
+      [
+       "charges",
+       0
+      ],
+      [
+       "use",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "没有",
+       0
+      ],
+      [
+       "收费",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "consumption-based model",
     "hybrid cloud",
@@ -498,8 +938,50 @@
    ]
   },
   {
-   "stem": "A Contoso developer runs a test VM for three hours and wants to know how Azure charges for it: no contract or up-front fee, only a charge for the services actually used. Which pricing model is this?",
-   "zhStem": "Contoso 的一名开发人员运行一台测试虚拟机三小时，想知道 Azure 如何收费：没有合同或预付费用，只对实际使用的服务收费。这是哪种定价模式？",
+   "stem": "Which pricing model has no contract or up-front fee and charges only for services used?",
+   "zhStem": "哪种定价模式没有合同或预付费用，只按实际使用的服务收费？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "pricing model",
+       "定价模式"
+      ],
+      [
+       "contract",
+       "合同"
+      ],
+      [
+       "up-front fee",
+       "预付费用"
+      ],
+      [
+       "services",
+       "服务"
+      ]
+     ],
+     "verbs": [
+      [
+       "has",
+       0
+      ],
+      [
+       "charges",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "没有",
+       0
+      ],
+      [
+       "收费",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "pay-as-you-go pricing model",
     "private cloud",
@@ -546,8 +1028,42 @@
    ]
   },
   {
-   "stem": "Contoso must move an old business app that depends on a custom operating system setup and special drivers. Its admins want to rent hardware from Azure but keep full control of the operating system, patches and installed software. Which cloud service type fits best?",
-   "zhStem": "Contoso 需要迁移一个依赖自定义操作系统配置和特殊驱动程序的旧业务应用。管理员希望从 Azure 租用硬件，但对操作系统、补丁和已安装软件保留完全控制。哪种云服务类型最合适？",
+   "stem": "Which cloud service type gives you full control of the operating system, patches and installed software?",
+   "zhStem": "哪种云服务类型让你完全控制操作系统、补丁和已安装的软件？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud service type",
+       "云服务类型"
+      ],
+      [
+       "operating system",
+       "操作系统"
+      ],
+      [
+       "patches",
+       "补丁"
+      ],
+      [
+       "installed software",
+       "已安装的软件"
+      ]
+     ],
+     "verbs": [
+      [
+       "gives",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "让",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Infrastructure as a Service (IaaS)",
     "Platform as a Service (PaaS)",
@@ -586,8 +1102,50 @@
    ]
   },
   {
-   "stem": "Contoso's developers want to deploy the web app code they wrote to Azure without managing servers, operating systems or patching, while still controlling the application itself. Which cloud service type fits best?",
-   "zhStem": "Contoso 的开发人员希望把自己编写的 Web 应用代码部署到 Azure，不想管理服务器、操作系统或打补丁，但仍要控制应用本身。哪种云服务类型最合适？",
+   "stem": "Which cloud service type lets you deploy your own code without managing servers, operating systems or patching?",
+   "zhStem": "哪种云服务类型让你部署自己的代码，而不必管理服务器、操作系统或打补丁？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud service type",
+       "云服务类型"
+      ],
+      [
+       "code",
+       "代码"
+      ],
+      [
+       "servers",
+       "服务器"
+      ],
+      [
+       "operating systems",
+       "操作系统"
+      ]
+     ],
+     "verbs": [
+      [
+       "lets",
+       0
+      ],
+      [
+       "deploy",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "让",
+       0
+      ],
+      [
+       "部署",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Platform as a Service (PaaS)",
     "Infrastructure as a Service (IaaS)",
@@ -630,8 +1188,54 @@
    ]
   },
   {
-   "stem": "Contoso's HR team wants a ready-made email and calendar application that the vendor fully runs and updates; staff only sign in and use it. Which cloud service type is this?",
-   "zhStem": "Contoso 的人力资源团队想要一个现成的邮件和日历应用，由供应商完全负责运行和更新；员工只需登录使用。这属于哪种云服务类型？",
+   "stem": "Which cloud service type gives users a ready-made application that the vendor fully runs and updates?",
+   "zhStem": "哪种云服务类型给用户提供一个由供应商完全运行和更新的现成应用？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud service type",
+       "云服务类型"
+      ],
+      [
+       "users",
+       "用户"
+      ],
+      [
+       "vendor",
+       "供应商"
+      ]
+     ],
+     "verbs": [
+      [
+       "gives",
+       0
+      ],
+      [
+       "runs",
+       0
+      ],
+      [
+       "updates",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提供",
+       0
+      ],
+      [
+       "运行",
+       0
+      ],
+      [
+       "更新",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Platform as a Service (PaaS)",
     "on-premises",
@@ -670,8 +1274,38 @@
    ]
   },
   {
-   "stem": "Contoso's executives want Microsoft's proven, end-to-end guidance that walks them through deciding, preparing and carrying out their whole cloud journey with less risk. Which resource should they use?",
-   "zhStem": "Contoso 的高管希望获得 Microsoft 经过验证的端到端指导，带领他们以更低风险完成整个上云历程的决策、准备和实施。他们应该使用哪项资源？",
+   "stem": "Which Microsoft resource gives proven, end-to-end guidance for a whole cloud journey, from deciding to carrying it out?",
+   "zhStem": "哪个 Microsoft 资源为整个上云历程（从决策到执行）提供经过验证的端到端指导？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Microsoft resource",
+       "Microsoft 资源"
+      ],
+      [
+       "cloud journey",
+       "上云历程"
+      ],
+      [
+       "deciding",
+       "决策"
+      ]
+     ],
+     "verbs": [
+      [
+       "gives",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提供",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure Architecture Center",
     "Azure Migrate",
@@ -722,8 +1356,54 @@
    ]
   },
   {
-   "stem": "Contoso's leaders are just starting out and are asking what their Azure move should look like and why they are doing it at all. Which CAF phase are they in?",
-   "zhStem": "Contoso 的领导层刚刚起步，正在思考他们迁往 Azure 应该是什么样子，以及到底为什么要这样做。他们处于 CAF 的哪个阶段？",
+   "stem": "Which CAF phase asks what your Azure move should look like and why you are doing it?",
+   "zhStem": "CAF 的哪个阶段回答你的 Azure 迁移应是什么样子、以及为什么要做？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "CAF",
+       "CAF"
+      ],
+      [
+       "phase",
+       "阶段"
+      ],
+      [
+       "Azure move",
+       "Azure 迁移"
+      ]
+     ],
+     "verbs": [
+      [
+       "asks",
+       0
+      ],
+      [
+       "should look like",
+       0
+      ],
+      [
+       "are doing",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "回答",
+       0
+      ],
+      [
+       "应是",
+       0
+      ],
+      [
+       "要做",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Plan",
     "Strategy",
@@ -766,8 +1446,42 @@
    ]
   },
   {
-   "stem": "Contoso has agreed on why it is moving to Azure and now needs to turn that intent into concrete, actionable steps specific to its goals. Which CAF phase comes next?",
-   "zhStem": "Contoso 已就为什么迁往 Azure 达成一致，现在需要把这一意图转化为针对自身目标的具体、可执行的步骤。接下来是 CAF 的哪个阶段？",
+   "stem": "Which CAF phase turns the agreed cloud intent into concrete, actionable steps?",
+   "zhStem": "CAF 的哪个阶段把已商定的上云意图变成具体可执行的步骤？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "CAF",
+       "CAF"
+      ],
+      [
+       "phase",
+       "阶段"
+      ],
+      [
+       "cloud intent",
+       "上云意图"
+      ],
+      [
+       "actionable steps",
+       "可执行的步骤"
+      ]
+     ],
+     "verbs": [
+      [
+       "turns",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "变成",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Ready",
     "Strategy",
@@ -814,8 +1528,38 @@
    ]
   },
   {
-   "stem": "Before moving any workloads, Contoso's platform team designs its Azure landing zone so the environment meets the organization's requirements. Which CAF phase is this?",
-   "zhStem": "在迁移任何工作负载之前，Contoso 的平台团队设计其 Azure 登陆区，使环境满足组织的要求。这是 CAF 的哪个阶段？",
+   "stem": "Which CAF phase designs the Azure landing zone before any workloads move?",
+   "zhStem": "在迁移任何工作负载之前设计 Azure 登录区，属于 CAF 的哪个阶段？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure landing zone",
+       "Azure 登录区"
+      ]
+     ],
+     "verbs": [
+      [
+       "designs",
+       0
+      ],
+      [
+       "move",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "设计",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "CAF Adopt phase",
     "Ready",
@@ -854,8 +1598,34 @@
    ]
   },
   {
-   "stem": "Contoso's teams are now actually moving, improving and building workloads in Azure. Which CAF phase covers this work?",
-   "zhStem": "Contoso 的团队现在正在 Azure 中实际迁移、改进和构建工作负载。哪个 CAF 阶段涵盖这项工作？",
+   "stem": "Which CAF phase covers migrating, modernizing and building workloads in Azure?",
+   "zhStem": "哪个 CAF 阶段涵盖在 Azure 中迁移、现代化和构建工作负载？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "CAF phase",
+       "CAF 阶段"
+      ],
+      [
+       "workloads",
+       "工作负载"
+      ]
+     ],
+     "verbs": [
+      [
+       "covers",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "涵盖",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "CAF Adopt phase",
     "Ready",
@@ -906,8 +1676,62 @@
    ]
   },
   {
-   "stem": "Contoso moves its inventory app from its server room to Azure VMs without changing the app itself; only where it runs is different. Which kind of CAF work is this?",
-   "zhStem": "Contoso 把库存应用从机房搬到 Azure 虚拟机上，应用本身不做任何改动，只是运行的位置不同了。这是哪种 CAF 工作？",
+   "stem": "In CAF, what is it called when you change where a workload runs but not the workload itself?",
+   "zhStem": "在 CAF 中，只改变工作负载的运行位置而不改变工作负载本身，叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "CAF",
+       "CAF"
+      ],
+      [
+       "workload",
+       "工作负载"
+      ],
+      [
+       "workload itself",
+       "工作负载本身"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "called",
+       0
+      ],
+      [
+       "change",
+       0
+      ],
+      [
+       "runs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "改变",
+       0
+      ],
+      [
+       "运行",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Innovate",
     "Modernize",
@@ -966,8 +1790,66 @@
    ]
   },
   {
-   "stem": "Contoso's existing order app already runs in Azure, and the team now changes its platform and data layer so it better meets future business requirements. Which kind of CAF work is this?",
-   "zhStem": "Contoso 现有的订单应用已经在 Azure 中运行，团队现在要更改其平台和数据层，使其更好地满足未来的业务需求。这是哪种 CAF 工作？",
+   "stem": "In CAF, what is it called when you improve an existing workload's platform or data to meet future needs?",
+   "zhStem": "在 CAF 中，改进现有工作负载的平台或数据以满足未来需求，叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "CAF",
+       "CAF"
+      ],
+      [
+       "existing workload",
+       "现有工作负载"
+      ],
+      [
+       "platform",
+       "平台"
+      ],
+      [
+       "future needs",
+       "未来需求"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "called",
+       0
+      ],
+      [
+       "improve",
+       0
+      ],
+      [
+       "meet",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "改进",
+       0
+      ],
+      [
+       "满足",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Migrate (CAF)",
     "Manage",
@@ -1018,8 +1900,62 @@
    ]
   },
   {
-   "stem": "Contoso wants to build a brand-new cloud-native app that creates new business value, rather than move or improve an existing one. Which kind of CAF work is this?",
-   "zhStem": "Contoso 想构建一个全新的云原生应用来创造新的业务价值，而不是迁移或改进现有应用。这是哪种 CAF 工作？",
+   "stem": "In CAF, what is it called when you build a new cloud-native app to create new business value?",
+   "zhStem": "在 CAF 中，构建新的云原生应用来创造新的业务价值，叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "CAF",
+       "CAF"
+      ],
+      [
+       "cloud-native app",
+       "云原生应用"
+      ],
+      [
+       "business value",
+       "业务价值"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "called",
+       0
+      ],
+      [
+       "build",
+       0
+      ],
+      [
+       "create",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "构建",
+       0
+      ],
+      [
+       "创造",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Modernize",
     "Migrate (CAF)",
@@ -1070,8 +2006,42 @@
    ]
   },
   {
-   "stem": "Contoso's cloud team sets guardrails: policies, procedures and tools that define which cloud activities are acceptable, such as allowed regions and required tags. Which CAF methodology is this?",
-   "zhStem": "Contoso 的云团队设置护栏：用策略、流程和工具来规定哪些云活动是可接受的，例如允许的区域和必需的标记。这是哪种 CAF 方法？",
+   "stem": "Which CAF methodology sets guardrails, such as allowed regions and required tags, for acceptable cloud use?",
+   "zhStem": "CAF 的哪个方法为可接受的云使用设置护栏，例如允许的区域和必需的标记？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "CAF",
+       "CAF"
+      ],
+      [
+       "methodology",
+       "方法"
+      ],
+      [
+       "guardrails",
+       "护栏"
+      ],
+      [
+       "allowed regions",
+       "允许的区域"
+      ]
+     ],
+     "verbs": [
+      [
+       "sets",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "设置",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "CAF Secure phase",
     "Govern",
@@ -1122,8 +2092,42 @@
    ]
   },
   {
-   "stem": "Contoso wants a structured approach to protect its whole Azure estate against attacks, from identities to data. Which CAF methodology helps?",
-   "zhStem": "Contoso 希望用一种结构化的方法保护其整个 Azure 资产免受攻击，从身份到数据。哪种 CAF 方法有帮助？",
+   "stem": "Which CAF methodology gives a structured approach to protecting the whole Azure estate, from identities to data?",
+   "zhStem": "哪个 CAF 方法为保护整个 Azure 环境（从身份到数据）提供结构化的方法？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "CAF methodology",
+       "CAF 方法"
+      ],
+      [
+       "Azure estate",
+       "Azure 环境"
+      ],
+      [
+       "identities",
+       "身份"
+      ],
+      [
+       "data",
+       "数据"
+      ]
+     ],
+     "verbs": [
+      [
+       "gives",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提供",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Manage",
     "Govern",
@@ -1166,8 +2170,42 @@
    ]
   },
   {
-   "stem": "Contoso's workloads are live in Azure, and the operations team must keep them running day to day while staying aligned with business goals over time. Which CAF methodology covers this?",
-   "zhStem": "Contoso 的工作负载已在 Azure 中上线，运维团队必须保证其日常运行，同时长期与业务目标保持一致。哪种 CAF 方法涵盖这项工作？",
+   "stem": "Which CAF methodology keeps live workloads running day to day and aligned with business goals?",
+   "zhStem": "CAF 的哪个方法让已上线的工作负载日常稳定运行，并与业务目标保持一致？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "CAF",
+       "CAF"
+      ],
+      [
+       "methodology",
+       "方法"
+      ],
+      [
+       "live workloads",
+       "已上线的工作负载"
+      ],
+      [
+       "business goals",
+       "业务目标"
+      ]
+     ],
+     "verbs": [
+      [
+       "keeps",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "让",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Manage",
     "Govern",
@@ -1210,8 +2248,42 @@
    ]
   },
   {
-   "stem": "A Contoso engineer wants to browse a catalog of reference architectures, solution ideas and technology decision guides before designing a new web workload. Which Microsoft resource should they open?",
-   "zhStem": "Contoso 的一名工程师想在设计新的 Web 工作负载之前浏览一个包含参考架构、解决方案思路和技术决策指南的目录。他应该打开哪项 Microsoft 资源？",
+   "stem": "Which Microsoft resource is a catalog of reference architectures, solution ideas and technology decision guides?",
+   "zhStem": "哪个 Microsoft 资源是参考架构、解决方案思路和技术决策指南的目录？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Microsoft resource",
+       "Microsoft 资源"
+      ],
+      [
+       "reference architectures",
+       "参考架构"
+      ],
+      [
+       "solution ideas",
+       "解决方案思路"
+      ],
+      [
+       "technology decision guides",
+       "技术决策指南"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure Well-Architected Framework",
     "Cloud Adoption Framework (CAF)",
@@ -1254,8 +2326,46 @@
    ]
   },
   {
-   "stem": "Contoso wants to review the design of one workload so it becomes resilient, available, recoverable and as secure as it needs to be. Which design framework should it use?",
-   "zhStem": "Contoso 想审查某个工作负载的设计，使其具备弹性、可用、可恢复，并达到所需的安全程度。它应该使用哪个设计框架？",
+   "stem": "Which design framework improves one workload's quality so it is resilient, recoverable and secure enough?",
+   "zhStem": "哪个设计框架用于提升单个工作负载的质量，使其具备弹性、可恢复且足够安全？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "design framework",
+       "设计框架"
+      ],
+      [
+       "workload",
+       "工作负载"
+      ],
+      [
+       "quality",
+       "质量"
+      ]
+     ],
+     "verbs": [
+      [
+       "improves",
+       0
+      ],
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提升",
+       0
+      ],
+      [
+       "具备",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure Architecture Center",
     "Cloud Adoption Framework (CAF)",
@@ -1314,8 +2424,46 @@
    ]
   },
   {
-   "stem": "Contoso's leaders want one direction for the company's move to the cloud that links executive intent to measurable outcomes and sets the standards every workload team must work within. What should they create?",
-   "zhStem": "Contoso 的领导层希望为公司上云确定统一方向，把高管意图与可衡量的成果联系起来，并制定每个工作负载团队都必须遵守的标准。他们应该制定什么？",
+   "stem": "What sets one direction for a company's cloud move and links executive intent to measurable outcomes?",
+   "zhStem": "什么为公司的上云设定统一方向，并把高管意图与可衡量的成果联系起来？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "one direction",
+       "统一方向"
+      ],
+      [
+       "executive intent",
+       "高管意图"
+      ],
+      [
+       "measurable outcomes",
+       "可衡量的成果"
+      ]
+     ],
+     "verbs": [
+      [
+       "sets",
+       0
+      ],
+      [
+       "links",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "设定",
+       0
+      ],
+      [
+       "联系起来",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "critical business event",
     "motivation",
@@ -1374,8 +2522,38 @@
    ]
   },
   {
-   "stem": "Before setting any goals, Contoso's leaders list why the company wants the cloud at all, such as cutting costs, meeting a deadline and launching new products, several reasons applying at once. What do these reasons represent?",
-   "zhStem": "在设定任何目标之前，Contoso 的领导层列出公司为什么要上云，例如降低成本、赶上截止日期和推出新产品，多个原因同时存在。这些原因代表什么？",
+   "stem": "What are a company's reasons for wanting the cloud, such as cutting costs or launching products, often several at once?",
+   "zhStem": "公司想要上云的原因（例如降低成本或推出产品，常常多个同时存在）叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "reasons",
+       "原因"
+      ],
+      [
+       "cutting costs",
+       "降低成本"
+      ],
+      [
+       "launching products",
+       "推出产品"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "business outcome",
     "Govern",
@@ -1422,8 +2600,42 @@
    ]
   },
   {
-   "stem": "Contoso's datacenter lease ends in four months, so it must start moving workloads right away, in parallel with its strategy work. What kind of driver is this?",
-   "zhStem": "Contoso 的数据中心租约四个月后到期，因此必须立即开始迁移工作负载，并与战略工作同时进行。这是哪种驱动因素？",
+   "stem": "What kind of driver is a datacenter lease ending in four months, so moving must start right away?",
+   "zhStem": "数据中心租约四个月后到期，必须立即开始迁移，这属于哪种驱动因素？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "datacenter lease",
+       "数据中心租约"
+      ],
+      [
+       "four months",
+       "四个月"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "must start",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "必须立即开始",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "agility outcome",
     "migration motivation",
@@ -1456,8 +2668,38 @@
    "zhVerbs": []
   },
   {
-   "stem": "Contoso wants to cut costs and reduce technical complexity, the most common reasons companies give for moving to the cloud, and no deadline is forcing the move. Which category of driver is this?",
-   "zhStem": "Contoso 想降低成本并减少技术复杂度，这是企业上云最常见的原因，而且没有截止日期在逼迫这次迁移。这属于哪类驱动因素？",
+   "stem": "Which category of cloud driver covers cutting costs and reducing technical complexity, with no deadline forcing the move?",
+   "zhStem": "降低成本和减少技术复杂度、且没有截止日期逼迫，属于哪类上云驱动因素？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cutting costs",
+       "降低成本"
+      ],
+      [
+       "technical complexity",
+       "技术复杂度"
+      ],
+      [
+       "deadline",
+       "截止日期"
+      ]
+     ],
+     "verbs": [
+      [
+       "covers",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "sustainability outcome",
     "critical business event",
@@ -1500,8 +2742,34 @@
    ]
   },
   {
-   "stem": "Contoso wants the cloud so it can build new products and customer experiences on top of its data and insights. Which category of driver is this?",
-   "zhStem": "Contoso 想上云，以便基于其数据和洞察构建新产品和客户体验。这属于哪类驱动因素？",
+   "stem": "Which category of cloud driver covers building new products and customer experiences on data and insights?",
+   "zhStem": "基于数据和洞察打造新产品与客户体验，属于哪类上云驱动因素？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "new products",
+       "新产品"
+      ],
+      [
+       "customer experiences",
+       "客户体验"
+      ]
+     ],
+     "verbs": [
+      [
+       "covers",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "critical business event",
     "innovation motivation",
@@ -1552,8 +2820,34 @@
    ]
   },
   {
-   "stem": "Contoso's leaders want to state the concise, observable change in business performance they expect from the cloud, each backed by a specific measure. What are they defining?",
-   "zhStem": "Contoso 的领导层希望说明他们期望通过上云带来的简洁、可观察的业务绩效变化，并为每一项配上具体的衡量指标。他们在定义什么？",
+   "stem": "What is a concise, observable change in business performance expected from the cloud, backed by a specific measure?",
+   "zhStem": "期望从云中获得的、简明可观察且有具体指标支撑的业务表现变化，叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud",
+       "云"
+      ],
+      [
+       "specific measure",
+       "具体指标"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "financial considerations",
     "cloud adoption strategy",
@@ -1596,8 +2890,34 @@
    ]
   },
   {
-   "stem": "Contoso will judge its cloud move by the revenue it gains and the costs it saves. Which type of result is it measuring?",
-   "zhStem": "Contoso 将根据获得的收入和节省的成本来评判其上云成效。它在衡量哪种成果？",
+   "stem": "Which type of business result is measured by revenue gained and costs saved?",
+   "zhStem": "以增加的收入和节省的成本来衡量的，是哪类业务成果？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "revenue",
+       "收入"
+      ],
+      [
+       "costs",
+       "成本"
+      ]
+     ],
+     "verbs": [
+      [
+       "is measured by",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "衡量",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "reach outcome",
     "performance outcome",
@@ -1636,8 +2956,50 @@
    ]
   },
   {
-   "stem": "Contoso wants to cut the time it takes to ship new features so it can respond to market changes quickly. Which type of result is it aiming for?",
-   "zhStem": "Contoso 希望缩短新功能上线所需的时间，以便快速响应市场变化。它追求的是哪种成果？",
+   "stem": "Which type of business result is measured by how fast you ship features and respond to market changes?",
+   "zhStem": "以发布功能和响应市场变化的速度来衡量的，是哪类业务成果？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "features",
+       "功能"
+      ],
+      [
+       "market changes",
+       "市场变化"
+      ]
+     ],
+     "verbs": [
+      [
+       "is measured by",
+       0
+      ],
+      [
+       "ship",
+       0
+      ],
+      [
+       "respond to",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "发布",
+       0
+      ],
+      [
+       "响应",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "agility outcome",
     "reach outcome",
@@ -1688,8 +3050,34 @@
    ]
   },
   {
-   "stem": "Contoso wants to serve customers in new countries and stay compliant with the rules in each of those geographies. Which type of result is it aiming for?",
-   "zhStem": "Contoso 希望服务新国家的客户，并符合每个地区的法规。它追求的是哪种成果？",
+   "stem": "Which type of business result is about serving customers in new countries while staying compliant there?",
+   "zhStem": "在新的国家服务客户并在当地保持合规，是哪类业务成果？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "new countries",
+       "新的国家"
+      ],
+      [
+       "compliant",
+       "合规"
+      ]
+     ],
+     "verbs": [
+      [
+       "is about",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "reach outcome",
     "customer engagement outcome",
@@ -1728,8 +3116,38 @@
    ]
   },
   {
-   "stem": "Contoso's online store wants to respond faster to what shoppers ask for on social marketplaces. Which type of result is it aiming for?",
-   "zhStem": "Contoso 的网店希望更快地回应购物者在社交市场上提出的需求。它追求的是哪种成果？",
+   "stem": "Which type of business result is about responding faster to shoppers' needs on social marketplaces?",
+   "zhStem": "更快响应社交市场上购物者的需求，是哪类业务成果？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "responding faster",
+       "更快响应"
+      ],
+      [
+       "shoppers",
+       "购物者"
+      ],
+      [
+       "needs",
+       "需求"
+      ]
+     ],
+     "verbs": [
+      [
+       "is about",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "reach outcome",
     "fiscal outcome",
@@ -1780,8 +3198,46 @@
    ]
   },
   {
-   "stem": "Contoso's booking site went down twice last year and hurt the brand, so the company wants it to stay fast and reliable. Which type of result is it aiming for?",
-   "zhStem": "Contoso 的预订网站去年宕机两次，损害了品牌，因此公司希望它保持快速和可靠。它追求的是哪种成果？",
+   "stem": "Which type of business result is about keeping a site fast and reliable so outages do not hurt the brand?",
+   "zhStem": "让网站保持快速可靠、避免故障损害品牌，是哪类业务成果？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "site",
+       "网站"
+      ],
+      [
+       "outages",
+       "故障"
+      ],
+      [
+       "brand",
+       "品牌"
+      ]
+     ],
+     "verbs": [
+      [
+       "is about",
+       0
+      ],
+      [
+       "do not hurt",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "损害",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "agility outcome",
     "performance outcome",
@@ -1832,8 +3288,34 @@
    ]
   },
   {
-   "stem": "Contoso's board wants to lower the company's carbon footprint and make environmental goals part of its core business strategy. Which type of result is it aiming for?",
-   "zhStem": "Contoso 的董事会希望降低公司的碳足迹，并把环境目标纳入核心业务战略。它追求的是哪种成果？",
+   "stem": "Which type of business result is about lowering the carbon footprint and meeting environmental goals?",
+   "zhStem": "降低碳足迹、实现环境目标，是哪类业务成果？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "carbon footprint",
+       "碳足迹"
+      ],
+      [
+       "environmental goals",
+       "环境目标"
+      ]
+     ],
+     "verbs": [
+      [
+       "is about",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "performance outcome",
     "reach outcome",
@@ -1876,8 +3358,42 @@
    ]
   },
   {
-   "stem": "Contoso's CFO asks how the cloud move will change the company's balance sheet, accounting KPIs and budgeting processes. Which area of the strategy is this?",
-   "zhStem": "Contoso 的首席财务官问上云将如何改变公司的资产负债表、会计 KPI 和预算流程。这属于战略的哪个方面？",
+   "stem": "Which area of cloud strategy covers effects on the balance sheet, accounting KPIs and budgeting?",
+   "zhStem": "云战略的哪个方面涉及对资产负债表、会计 KPI 和预算流程的影响？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud strategy",
+       "云战略"
+      ],
+      [
+       "balance sheet",
+       "资产负债表"
+      ],
+      [
+       "accounting KPIs",
+       "会计 KPI"
+      ],
+      [
+       "budgeting",
+       "预算"
+      ]
+     ],
+     "verbs": [
+      [
+       "covers",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "涉及",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "financial considerations",
     "agility outcome",
@@ -1928,8 +3444,58 @@
    ]
   },
   {
-   "stem": "Contoso's IT lead asks how the cloud move will change the way the team runs and maintains its environment and workloads. Which area of the strategy is this?",
-   "zhStem": "Contoso 的 IT 负责人问上云将如何改变团队运行和维护其环境与工作负载的方式。这属于战略的哪个方面？",
+   "stem": "Which area of cloud strategy covers how the team will run and maintain its environment and workloads?",
+   "zhStem": "云战略的哪个方面涉及团队如何运行和维护其环境与工作负载？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud strategy",
+       "云战略"
+      ],
+      [
+       "team",
+       "团队"
+      ],
+      [
+       "environment",
+       "环境"
+      ],
+      [
+       "workloads",
+       "工作负载"
+      ]
+     ],
+     "verbs": [
+      [
+       "covers",
+       0
+      ],
+      [
+       "will run",
+       0
+      ],
+      [
+       "maintain",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "涉及",
+       0
+      ],
+      [
+       "运行",
+       0
+      ],
+      [
+       "维护",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "fiscal outcome",
     "business outcome",
@@ -1968,8 +3534,50 @@
    ]
   },
   {
-   "stem": "Contoso's ticket site gets huge traffic during big events, so it wants to add resources when demand rises and remove them afterwards. Which technical benefit of the cloud is this?",
-   "zhStem": "Contoso 的售票网站在大型活动期间流量巨大，因此希望在需求上升时增加资源，之后再减少资源。这是云的哪项技术优势？",
+   "stem": "Which cloud benefit adds resources when demand rises and removes them afterwards?",
+   "zhStem": "哪项云优势在需求上升时增加资源、之后再减少资源？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud benefit",
+       "云优势"
+      ],
+      [
+       "resources",
+       "资源"
+      ]
+     ],
+     "verbs": [
+      [
+       "adds",
+       0
+      ],
+      [
+       "rises",
+       0
+      ],
+      [
+       "removes",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "增加",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "减少",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "security and compliance",
     "capacity optimization",
@@ -2008,8 +3616,42 @@
    ]
   },
   {
-   "stem": "Contoso's online store must keep running even when a server or a whole datacenter fails, but building that kind of redundancy on-premises is too expensive. Which cloud benefit lets them reach this goal at a lower cost?",
-   "zhStem": "Contoso 的网店即使在一台服务器甚至整个数据中心发生故障时也必须持续运行，但在本地构建这种冗余成本太高。哪项云优势能让他们以更低成本实现这一目标？",
+   "stem": "Which cloud benefit keeps a service running through server or datacenter failures, at lower cost than on-premises?",
+   "zhStem": "哪项云优势让服务在服务器或数据中心故障时继续运行，且成本低于本地？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud benefit",
+       "云优势"
+      ],
+      [
+       "service",
+       "服务"
+      ],
+      [
+       "datacenter failures",
+       "数据中心故障"
+      ],
+      [
+       "cost",
+       "成本"
+      ]
+     ],
+     "verbs": [
+      [
+       "keeps",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "继续运行",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "capacity optimization",
     "high availability",
@@ -2038,8 +3680,42 @@
    "zhVerbs": []
   },
   {
-   "stem": "Contoso's small IT team cannot keep up with new threats appearing on global networks, so leaders want a provider that keeps expanding its protective infrastructure and toolsets for them. Which cloud benefit are they counting on?",
-   "zhStem": "Contoso 的小型 IT 团队跟不上全球网络上不断出现的新威胁，因此领导层希望由云服务商持续为他们扩展防护基础设施和工具集。他们依赖的是哪项云优势？",
+   "stem": "Which cloud benefit relies on the provider continually expanding its protective infrastructure and tools against global threats?",
+   "zhStem": "哪项云优势依靠提供商不断扩展防护基础设施和工具来应对全球威胁？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud benefit",
+       "云优势"
+      ],
+      [
+       "provider",
+       "提供商"
+      ],
+      [
+       "protective infrastructure",
+       "防护基础设施"
+      ],
+      [
+       "global threats",
+       "全球威胁"
+      ]
+     ],
+     "verbs": [
+      [
+       "relies on",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "依靠",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "scalability",
     "capacity optimization",
@@ -2082,8 +3758,50 @@
    ]
   },
   {
-   "stem": "Contoso's servers sit mostly idle except during a short monthly reporting period, yet the company pays for them all year. Which cloud benefit would let them pay only for the resources they actually use over time?",
-   "zhStem": "Contoso 的服务器除了每月很短的报表期之外大部分时间都处于空闲状态，但公司全年都在为它们付费。哪项云优势能让他们只为一段时间内实际使用的资源付费？",
+   "stem": "Which cloud benefit means you pay only for the resources you actually use over time?",
+   "zhStem": "哪项云优势意味着你只为一段时间内实际使用的资源付费？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud benefit",
+       "云优势"
+      ],
+      [
+       "resources",
+       "资源"
+      ]
+     ],
+     "verbs": [
+      [
+       "means",
+       0
+      ],
+      [
+       "pay",
+       0
+      ],
+      [
+       "use",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "意味着",
+       0
+      ],
+      [
+       "付费",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "business case",
     "security and compliance",
@@ -2126,8 +3844,42 @@
    ]
   },
   {
-   "stem": "Before approving a move to Azure, Contoso's CFO asks for a document that shows the technical and financial timeline of the environment and a financial plan tied to business outcomes. What should the team prepare?",
-   "zhStem": "在批准迁移到 Azure 之前，Contoso 的首席财务官要求一份文件，展示环境的技术与财务时间线，以及与业务成果挂钩的财务计划。团队应该准备什么？",
+   "stem": "Before approving a cloud move, which document shows the technical and financial timeline and a financial plan?",
+   "zhStem": "批准上云之前，哪份文件展示技术和财务时间线以及财务计划？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud move",
+       "上云"
+      ],
+      [
+       "document",
+       "文件"
+      ],
+      [
+       "timeline",
+       "时间线"
+      ],
+      [
+       "financial plan",
+       "财务计划"
+      ]
+     ],
+     "verbs": [
+      [
+       "shows",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "展示",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "cloud adoption strategy",
     "business case",
@@ -2178,8 +3930,38 @@
    ]
   },
   {
-   "stem": "Contoso's digital transformation is large and complex, so leaders decide to deliver it in phases, committing to one motivation category for a fixed period at a time. What is this phased approach called?",
-   "zhStem": "Contoso 的数字化转型规模大且复杂，因此领导层决定分阶段推进，每次在一段固定时间内只专注于一个动机类别。这种分阶段的方法叫什么？",
+   "stem": "What is delivering a large transformation in phases, one motivation category for a fixed period at a time?",
+   "zhStem": "把大型转型分阶段交付、每段固定时间只专注一类动机，这种做法叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "large transformation",
+       "大型转型"
+      ],
+      [
+       "phases",
+       "阶段"
+      ],
+      [
+       "motivation category",
+       "动机"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "workload prioritization",
     "migration wave",
@@ -2230,8 +4012,42 @@
    ]
   },
   {
-   "stem": "Contoso is starting its transformation program, and the first phase focuses on exiting the datacenter, preferring modern PaaS services over a basic copy of the existing servers. Which phase is this?",
-   "zhStem": "Contoso 正在启动转型计划，第一阶段专注于退出数据中心，并优先采用现代 PaaS 服务，而不是简单复制现有服务器。这是哪个阶段？",
+   "stem": "Which horizon focuses on exiting the datacenter, preferring PaaS over a basic lift-and-shift?",
+   "zhStem": "哪个阶段聚焦于退出数据中心，并优先采用 PaaS 而非简单的直接迁移？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "horizon",
+       "阶段"
+      ],
+      [
+       "datacenter",
+       "数据中心"
+      ],
+      [
+       "PaaS",
+       "PaaS"
+      ],
+      [
+       "lift-and-shift",
+       "直接迁移"
+      ]
+     ],
+     "verbs": [
+      [
+       "focuses on",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "聚焦于",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Horizon 1 migration and modernization",
     "Horizon 2 operation modernization",
@@ -2274,8 +4090,46 @@
    ]
   },
   {
-   "stem": "Contoso has left its datacenter, and the next phase now focuses on improving how workloads are run, using cloud-native governance, operations management, security, and compliance capabilities. Which phase is this?",
-   "zhStem": "Contoso 已经撤出数据中心，下一阶段专注于改进工作负载的运行方式，利用云原生的治理、运营管理、安全与合规能力。这是哪个阶段？",
+   "stem": "After leaving the datacenter, which horizon improves how workloads are run with cloud-native governance, security and compliance?",
+   "zhStem": "退出数据中心后，哪个阶段借助云原生的治理、安全和合规来改进工作负载的运行方式？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "datacenter",
+       "数据中心"
+      ],
+      [
+       "horizon",
+       "阶段"
+      ],
+      [
+       "workloads",
+       "工作负载"
+      ]
+     ],
+     "verbs": [
+      [
+       "improves",
+       0
+      ],
+      [
+       "are run",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "改进",
+       0
+      ],
+      [
+       "运行",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Horizon 4 innovation and growth",
     "Horizon 1 migration and modernization",
@@ -2318,8 +4172,42 @@
    ]
   },
   {
-   "stem": "After migrating and improving operations, Contoso's team now has enough data and cloud skills to redesign its most complex architectures in depth. Which phase are they entering?",
-   "zhStem": "在完成迁移并改进运营之后，Contoso 的团队现在拥有足够的数据和云技能，可以对其最复杂的架构进行深入的重新设计。他们正在进入哪个阶段？",
+   "stem": "Which horizon uses post-migration data and cloud skills to redesign complex architectures in depth?",
+   "zhStem": "哪个阶段利用迁移后的数据和云技能，深入重新设计复杂架构？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "horizon",
+       "阶段"
+      ],
+      [
+       "post-migration data",
+       "迁移后的数据"
+      ],
+      [
+       "cloud skills",
+       "云技能"
+      ],
+      [
+       "complex architectures",
+       "复杂架构"
+      ]
+     ],
+     "verbs": [
+      [
+       "uses",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "利用",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Horizon 4 innovation and growth",
     "Horizon 1 migration and modernization",
@@ -2362,8 +4250,42 @@
    ]
   },
   {
-   "stem": "Contoso has saved capital by closing its datacenters, and its central IT staff have new skills, so leaders now redirect that money and talent to speed up continued innovation. Which phase is this?",
-   "zhStem": "Contoso 通过关闭数据中心节省了资本，其中央 IT 人员也掌握了新技能，因此领导层现在将这些资金和人才转向加速持续创新。这是哪个阶段？",
+   "stem": "Which horizon redirects datacenter savings and new IT skills toward speeding up new development?",
+   "zhStem": "哪个阶段把退出数据中心节省的资金和新的 IT 技能转向加快新的发展？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "horizon",
+       "阶段"
+      ],
+      [
+       "datacenter savings",
+       "节省的资金"
+      ],
+      [
+       "IT skills",
+       "IT 技能"
+      ],
+      [
+       "new development",
+       "新的发展"
+      ]
+     ],
+     "verbs": [
+      [
+       "redirects",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "转向",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Horizon 1 migration and modernization",
     "Horizon 3 advanced modernization",
@@ -2402,8 +4324,34 @@
    ]
   },
   {
-   "stem": "Contoso has 300 applications and must decide, one by one, whether each should be moved as-is, changed, rewritten, replaced by SaaS, or kept where it is. What is this evaluation process called?",
-   "zhStem": "Contoso 有 300 个应用程序，必须逐个决定每个应用是原样迁移、修改、重写、用 SaaS 替换，还是保留原处。这个评估过程叫什么？",
+   "stem": "What is evaluating each application to decide the best way to migrate or modernize it called?",
+   "zhStem": "逐个评估应用以决定最佳迁移或现代化方式，这叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "evaluating",
+       "评估"
+      ],
+      [
+       "application",
+       "应用"
+      ]
+     ],
+     "verbs": [
+      [
+       "called",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "cloud rationalization",
     "business case",
@@ -2446,8 +4394,42 @@
    ]
   },
   {
-   "stem": "Contoso must move a stable inventory application to Azure virtual machines quickly, keeping its architecture almost exactly as it is today. Which strategy fits?",
-   "zhStem": "Contoso 必须将一个稳定的库存应用程序快速迁移到 Azure 虚拟机，并几乎完全保持其现有架构。哪种策略合适？",
+   "stem": "Which migration strategy moves an app to Azure VMs quickly with almost no change to its architecture?",
+   "zhStem": "哪种迁移策略把应用快速迁到 Azure 虚拟机上，架构几乎不变？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "migration strategy",
+       "迁移策略"
+      ],
+      [
+       "app",
+       "应用"
+      ],
+      [
+       "Azure VMs",
+       "Azure 虚拟机"
+      ],
+      [
+       "architecture",
+       "架构"
+      ]
+     ],
+     "verbs": [
+      [
+       "moves",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "迁到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Refactor",
     "Rebuild",
@@ -2490,8 +4472,50 @@
    ]
   },
   {
-   "stem": "Contoso's team creates Azure virtual machines and networks that mirror their on-premises datacenter, then moves the workloads onto that IaaS setup unchanged. What type of migration is this?",
-   "zhStem": "Contoso 的团队创建了与本地数据中心对应的 Azure 虚拟机和网络，然后将工作负载原样迁移到这个 IaaS 环境中。这是哪种类型的迁移？",
+   "stem": "Which migration type recreates the on-premises setup as Azure IaaS and moves workloads unchanged?",
+   "zhStem": "哪种迁移类型把本地环境在 Azure IaaS 上重建，并原样迁移工作负载？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "migration type",
+       "迁移类型"
+      ],
+      [
+       "on-premises setup",
+       "本地环境"
+      ],
+      [
+       "Azure IaaS",
+       "Azure IaaS"
+      ],
+      [
+       "workloads",
+       "工作负载"
+      ]
+     ],
+     "verbs": [
+      [
+       "recreates",
+       0
+      ],
+      [
+       "moves",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "重建",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Refactor",
     "Replace",
@@ -2542,8 +4566,54 @@
    ]
   },
   {
-   "stem": "Contoso wants to cut the operating costs of a web application by making small changes to its code so it fits a PaaS-based model. Which strategy is this?",
-   "zhStem": "Contoso 希望通过对代码做少量修改，使一个 Web 应用适配基于 PaaS 的模式，从而降低其运营成本。这是哪种策略？",
+   "stem": "Which migration strategy slightly changes an app's code so it fits a PaaS model and costs less to run?",
+   "zhStem": "哪种迁移策略稍微修改应用代码，使其适合 PaaS 模型并降低运营成本？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "migration strategy",
+       "迁移策略"
+      ],
+      [
+       "code",
+       "代码"
+      ],
+      [
+       "PaaS model",
+       "PaaS 模型"
+      ]
+     ],
+     "verbs": [
+      [
+       "changes",
+       0
+      ],
+      [
+       "fits",
+       0
+      ],
+      [
+       "costs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "修改",
+       0
+      ],
+      [
+       "适合",
+       0
+      ],
+      [
+       "降低",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Rehost",
     "Refactor",
@@ -2586,8 +4656,42 @@
    ]
   },
   {
-   "stem": "An aging Contoso application cannot run on Azure because of design decisions made when it was first built, so its structure must be changed before it can move. Which strategy is needed?",
-   "zhStem": "Contoso 的一个老旧应用由于最初构建时的设计决策而无法在 Azure 上运行，因此必须先改变其结构才能迁移。需要哪种策略？",
+   "stem": "Which migration strategy changes an app's structure because its original design cannot run in the cloud?",
+   "zhStem": "应用的原始设计无法在云上运行，需要改变其结构，这是哪种迁移策略？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "original design",
+       "原始设计"
+      ],
+      [
+       "cloud",
+       "云"
+      ]
+     ],
+     "verbs": [
+      [
+       "changes",
+       0
+      ],
+      [
+       "cannot run",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "改变",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Retain",
     "Rearchitect",
@@ -2646,8 +4750,42 @@
    ]
   },
   {
-   "stem": "Contoso's legacy order system is so far behind that further investment in its old code cannot be justified, so the team decides to write a brand-new code base designed for the cloud. Which strategy is this?",
-   "zhStem": "Contoso 的旧订单系统落后太多，已不值得再投资其旧代码，因此团队决定编写一套为云设计的全新代码库。这是哪种策略？",
+   "stem": "Which migration strategy writes a new cloud-native code base because the old code is not worth further investment?",
+   "zhStem": "旧代码不值得继续投入，于是编写全新的云原生代码库，这是哪种迁移策略？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "old code",
+       "旧代码"
+      ],
+      [
+       "investment",
+       "投入"
+      ]
+     ],
+     "verbs": [
+      [
+       "writes",
+       0
+      ],
+      [
+       "is not worth",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "编写",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Retain",
     "Refactor",
@@ -2698,8 +4836,58 @@
    ]
   },
   {
-   "stem": "Contoso's new app is designed, built, and operated in Azure from the start so that it takes full advantage of the cloud computing model. How is this approach described?",
-   "zhStem": "Contoso 的新应用从一开始就在 Azure 中设计、构建和运行，以充分利用云计算模式。这种方法被称为什么？",
+   "stem": "How is an app described that is designed, built and run in the cloud to use the cloud model fully?",
+   "zhStem": "在云中设计、构建并运行、充分利用云计算模式的应用被称为什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud",
+       "云"
+      ],
+      [
+       "cloud model",
+       "云计算模式"
+      ]
+     ],
+     "verbs": [
+      [
+       "described",
+       0
+      ],
+      [
+       "is designed",
+       0
+      ],
+      [
+       "built",
+       0
+      ],
+      [
+       "run",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "设计",
+       0
+      ],
+      [
+       "构建",
+       0
+      ],
+      [
+       "运行",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "hybrid cloud",
     "cloud-native",
@@ -2742,8 +4930,46 @@
    ]
   },
   {
-   "stem": "Contoso's in-house email application does nothing that a SaaS product cannot already do, so the team schedules a switch to that product and drops the app from the migration effort. Which strategy is this?",
-   "zhStem": "Contoso 自建的电子邮件应用的所有功能都能由一款 SaaS 产品完成，因此团队安排改用该产品，并将此应用从迁移工作中移除。这是哪种策略？",
+   "stem": "Which migration strategy swaps an in-house app for a SaaS product that already does everything it does?",
+   "zhStem": "用一个已具备全部功能的 SaaS 产品取代自建应用，这是哪种迁移策略？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "SaaS product",
+       "SaaS 产品"
+      ]
+     ],
+     "verbs": [
+      [
+       "swaps",
+       0
+      ],
+      [
+       "does",
+       0
+      ],
+      [
+       "does",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "取代",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Replace",
     "Retain",
@@ -2794,8 +5020,38 @@
    ]
   },
   {
-   "stem": "Contoso's board states that, through cloud adoption, the company wants to increase agility and reduce costs across the organization. What do these high-level outcomes represent?",
-   "zhStem": "Contoso 的董事会表示，希望通过采用云在整个组织范围内提高敏捷性并降低成本。这些高层次的成果代表什么？",
+   "stem": "In cloud adoption, what are high-level outcomes such as increasing agility and reducing costs?",
+   "zhStem": "在云采用中，提高敏捷性、降低成本这类高层次成果是什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud adoption",
+       "云采用"
+      ],
+      [
+       "agility",
+       "敏捷性"
+      ],
+      [
+       "costs",
+       "成本"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "critical business event",
     "migration strategy",
@@ -2838,8 +5094,42 @@
    ]
   },
   {
-   "stem": "To support the company's aim of faster releases, Contoso notes that its billing workload must change because its hardware cannot scale during peak sales. What does this reason for changing the workload represent?",
-   "zhStem": "为了支持公司加快发布的目标，Contoso 指出其计费工作负载必须改变，因为其硬件无法在销售高峰期扩展。这种说明工作负载为何必须改变的理由代表什么？",
+   "stem": "What defines why a workload must change to support a specific business goal?",
+   "zhStem": "什么定义了工作负载为何必须改变以支持某个具体业务目标？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "workload",
+       "工作负载"
+      ],
+      [
+       "business goal",
+       "业务目标"
+      ]
+     ],
+     "verbs": [
+      [
+       "defines",
+       0
+      ],
+      [
+       "must change",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "定义了",
+       0
+      ],
+      [
+       "必须改变",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "business goal",
     "migration strategy",
@@ -2882,8 +5172,50 @@
    ]
   },
   {
-   "stem": "For each workload, Contoso's architects now choose how it will move to Azure, such as keeping it as-is on VMs or switching to PaaS, based on why it needs to change. What are they defining?",
-   "zhStem": "Contoso 的架构师现在针对每个工作负载，根据其需要改变的原因，选择它迁移到 Azure 的方式，例如原样保留在虚拟机上或改用 PaaS。他们正在定义什么？",
+   "stem": "What defines how each workload moves to Azure, such as rehosting on VMs or switching to PaaS?",
+   "zhStem": "什么定义了每个工作负载如何迁移到 Azure，例如在 VM 上重新托管或改用 PaaS？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "workload",
+       "工作负载"
+      ],
+      [
+       "Azure",
+       "Azure"
+      ],
+      [
+       "VMs",
+       "VM"
+      ],
+      [
+       "PaaS",
+       "PaaS"
+      ]
+     ],
+     "verbs": [
+      [
+       "defines",
+       0
+      ],
+      [
+       "moves to",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "定义了",
+       0
+      ],
+      [
+       "迁移到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "migration strategy",
     "business goal",
@@ -2926,8 +5258,42 @@
    ]
   },
   {
-   "stem": "During assessment, Contoso finds an old reporting server that no one has used in two years and that no longer provides any business value. Which strategy fits it?",
-   "zhStem": "在评估过程中，Contoso 发现一台两年无人使用、已不再提供任何业务价值的旧报表服务器。哪种策略适合它？",
+   "stem": "Which migration strategy fits an unused server that no longer provides any business value?",
+   "zhStem": "一台没人使用、不再提供任何业务价值的服务器，适合哪种迁移策略？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "unused",
+       "没人使用"
+      ],
+      [
+       "business value",
+       "业务价值"
+      ]
+     ],
+     "verbs": [
+      [
+       "fits",
+       0
+      ],
+      [
+       "no longer provides",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "不再提供",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Retire",
     "Rehost",
@@ -2966,8 +5332,42 @@
    ]
   },
   {
-   "stem": "Contoso wants to move a web app from its own servers to a modern managed hosting environment such as App Service, with only minimal code changes. Which strategy fits?",
-   "zhStem": "Contoso 希望将一个 Web 应用从自有服务器迁移到 App Service 这类现代托管环境，只做最少的代码修改。哪种策略合适？",
+   "stem": "Which migration strategy moves a web app to a managed host like App Service with minimal code changes?",
+   "zhStem": "哪种迁移策略把 Web 应用迁到 App Service 这类托管平台，只做极少的代码改动？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "migration strategy",
+       "迁移策略"
+      ],
+      [
+       "web app",
+       "Web 应用"
+      ],
+      [
+       "App Service",
+       "App Service"
+      ],
+      [
+       "code changes",
+       "代码改动"
+      ]
+     ],
+     "verbs": [
+      [
+       "moves",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "迁到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Rebuild",
     "Retain",
@@ -3006,8 +5406,62 @@
    ]
   },
   {
-   "stem": "Contoso's factory control system is stable, compliant, and meets all current and future needs, and there is no near-term reason to move it. Which strategy fits?",
-   "zhStem": "Contoso 的工厂控制系统稳定、合规，满足当前和未来的所有需求，近期也没有迁移它的理由。哪种策略合适？",
+   "stem": "Which migration strategy fits a stable, compliant workload that meets all needs and has no reason to move?",
+   "zhStem": "一个稳定、合规、满足所有需求且没有理由迁移的工作负载，适合哪种迁移策略？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "stable",
+       "稳定"
+      ],
+      [
+       "compliant",
+       "合规"
+      ],
+      [
+       "needs",
+       "需求"
+      ]
+     ],
+     "verbs": [
+      [
+       "fits",
+       0
+      ],
+      [
+       "meets",
+       0
+      ],
+      [
+       "has",
+       0
+      ],
+      [
+       "move",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "满足",
+       0
+      ],
+      [
+       "没有",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Retain",
     "Replatform",
@@ -3050,8 +5504,66 @@
    ]
   },
   {
-   "stem": "Contoso's migration involves several teams, and people keep asking who does the work, who owns the result, who must be asked, and who just needs updates. What cross-team tool should they build?",
-   "zhStem": "Contoso 的迁移涉及多个团队，大家不断询问谁做事、谁对结果负最终责任、需要征求谁的意见，以及谁只需要获得更新。他们应该建立什么跨团队工具？",
+   "stem": "Which cross-team tool shows who does the work, who owns the result, who must be asked and who gets updates?",
+   "zhStem": "哪种跨团队工具说明谁做事、谁对结果负责、谁需要征询、谁只需知会？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cross-team tool",
+       "跨团队工具"
+      ],
+      [
+       "result",
+       "结果"
+      ]
+     ],
+     "verbs": [
+      [
+       "shows",
+       0
+      ],
+      [
+       "does",
+       0
+      ],
+      [
+       "owns",
+       0
+      ],
+      [
+       "must be asked",
+       0
+      ],
+      [
+       "gets",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "说明",
+       0
+      ],
+      [
+       "做",
+       0
+      ],
+      [
+       "负责",
+       0
+      ],
+      [
+       "需要征询",
+       0
+      ],
+      [
+       "知会",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "business case",
     "management group hierarchy",
@@ -3090,8 +5602,50 @@
    ]
   },
   {
-   "stem": "In Contoso's migration chart, the network and database teams are the ones who actually do the work and deliver the outcomes. Which role are they given?",
-   "zhStem": "在 Contoso 的迁移分工表中，网络团队和数据库团队是实际执行工作并交付成果的团队。他们被分配的是哪个角色？",
+   "stem": "In a RACI matrix, which role do the teams that do the work and deliver outcomes have?",
+   "zhStem": "在 RACI 矩阵中，实际干活并交付成果的团队担任哪个角色？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "RACI matrix",
+       "RACI 矩阵"
+      ],
+      [
+       "outcomes",
+       "成果"
+      ]
+     ],
+     "verbs": [
+      [
+       "do",
+       1
+      ],
+      [
+       "deliver",
+       0
+      ],
+      [
+       "have",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "干活",
+       0
+      ],
+      [
+       "交付",
+       0
+      ],
+      [
+       "担任",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Accountable",
     "Responsible",
@@ -3116,8 +5670,46 @@
    "zhVerbs": []
   },
   {
-   "stem": "In Contoso's migration chart, exactly one team owns the final result of the identity function and answers for it. Which role does that team hold?",
-   "zhStem": "在 Contoso 的迁移分工表中，只有一个团队拥有身份功能的最终结果并为其负责。该团队担任的是哪个角色？",
+   "stem": "In a RACI matrix, which role does the one team that owns a function's final result hold?",
+   "zhStem": "在 RACI 矩阵中，对某项职能的最终结果负责的那一个团队担任哪个角色？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "RACI matrix",
+       "RACI 矩阵"
+      ],
+      [
+       "function",
+       "职能"
+      ],
+      [
+       "final result",
+       "最终结果"
+      ]
+     ],
+     "verbs": [
+      [
+       "owns",
+       0
+      ],
+      [
+       "hold",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "负责",
+       0
+      ],
+      [
+       "担任",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Responsible",
     "Consulted",
@@ -3142,8 +5734,42 @@
    "zhVerbs": []
   },
   {
-   "stem": "In Contoso's migration chart, the security team does not do the work but must be asked for input while the plan is being made. Which role does it have?",
-   "zhStem": "在 Contoso 的迁移分工表中，安全团队不执行工作，但在制定计划时必须征求其意见。它担任的是哪个角色？",
+   "stem": "In a RACI matrix, which role do teams have that must give input during planning?",
+   "zhStem": "在 RACI 矩阵中，在规划时必须提供意见的团队担任哪个角色？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "RACI matrix",
+       "RACI 矩阵"
+      ],
+      [
+       "input",
+       "意见"
+      ]
+     ],
+     "verbs": [
+      [
+       "have",
+       0
+      ],
+      [
+       "must give",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "必须提供",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Responsible",
     "Consulted",
@@ -3168,8 +5794,50 @@
    "zhVerbs": []
   },
   {
-   "stem": "In Contoso's migration chart, the help desk only needs to be told once the work is completed. Which role does it have?",
-   "zhStem": "在 Contoso 的迁移分工表中，服务台只需要在工作完成后收到通知。它担任的是哪个角色？",
+   "stem": "In a RACI matrix, which role do teams have that are only told when work is completed?",
+   "zhStem": "在 RACI 矩阵中，只在工作完成后被通知的团队担任哪个角色？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "RACI matrix",
+       "RACI 矩阵"
+      ],
+      [
+       "work",
+       "工作"
+      ]
+     ],
+     "verbs": [
+      [
+       "have",
+       0
+      ],
+      [
+       "are only told",
+       0
+      ],
+      [
+       "is completed",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "被通知",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Consulted",
     "Informed",
@@ -3194,8 +5862,54 @@
    "zhVerbs": []
   },
   {
-   "stem": "Contoso's cloud governance team can no longer keep pace with the many adoption teams as cloud use grows, so the company hands cloud responsibilities to its existing in-house IT department. Which team takes them over?",
-   "zhStem": "随着云使用的增长，Contoso 的云治理团队已跟不上众多采用团队的步伐，因此公司将云职责交给现有的内部 IT 部门。由哪个团队接手？",
+   "stem": "When governance cannot keep pace as cloud use grows, which existing in-house team often takes over cloud responsibilities?",
+   "zhStem": "当云使用增长、治理跟不上时，哪个已有的内部团队通常接管云职责？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "governance",
+       "治理"
+      ],
+      [
+       "in-house team",
+       "内部团队"
+      ],
+      [
+       "cloud responsibilities",
+       "云职责"
+      ]
+     ],
+     "verbs": [
+      [
+       "cannot keep pace",
+       0
+      ],
+      [
+       "grows",
+       0
+      ],
+      [
+       "takes over",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "跟不上",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "接管",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "central IT team",
     "cloud adoption team",
@@ -3238,8 +5952,42 @@
    ]
   },
   {
-   "stem": "Contoso has reached the highest level of cloud maturity and wants one group that aligns all teams around a modern cloud-first operating model and provides governance, security, platform, and automation centrally. What should it set up?",
-   "zhStem": "Contoso 已达到最高的云成熟度，希望由一个团体让所有团队围绕现代的云优先运营模式保持一致，并集中提供治理、安全、平台和自动化。它应该建立什么？",
+   "stem": "At the highest cloud maturity, which group aligns teams around a cloud-first model with centralized governance and platform?",
+   "zhStem": "在最高云成熟度阶段，哪个团队以云优先模式统一各团队，并集中提供治理和平台？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "highest cloud maturity",
+       "最高云成熟度"
+      ],
+      [
+       "cloud-first model",
+       "云优先模式"
+      ],
+      [
+       "governance",
+       "治理"
+      ],
+      [
+       "platform",
+       "平台"
+      ]
+     ],
+     "verbs": [
+      [
+       "aligns",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "统一",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "cloud governance team",
     "central IT team",
@@ -3290,8 +6038,38 @@
    ]
   },
   {
-   "stem": "In Contoso's list of cloud functions, one function covers implementing the actual technical solutions in Azure, such as building and deploying workloads. Which function is it?",
-   "zhStem": "在 Contoso 的云职能列表中，有一项职能负责在 Azure 中实现实际的技术方案，例如构建和部署工作负载。这是哪项职能？",
+   "stem": "Which cloud function covers implementing technical solutions in Azure, such as building and deploying workloads?",
+   "zhStem": "哪项云职能负责在 Azure 中实现技术方案，例如构建和部署工作负载？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud function",
+       "云职能"
+      ],
+      [
+       "technical solutions",
+       "技术方案"
+      ],
+      [
+       "workloads",
+       "工作负载"
+      ]
+     ],
+     "verbs": [
+      [
+       "covers",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "负责",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "governance",
     "platform operations",
@@ -3330,8 +6108,34 @@
    ]
   },
   {
-   "stem": "In Contoso's list of cloud functions, one function covers running and looking after the shared Azure platform day to day. Which function is it?",
-   "zhStem": "在 Contoso 的云职能列表中，有一项职能负责日常运行和维护共享的 Azure 平台。这是哪项职能？",
+   "stem": "Which cloud function covers running and managing the shared cloud platform day to day?",
+   "zhStem": "哪项云职能负责日常运行和管理共享云平台？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "cloud function",
+       "云职能"
+      ],
+      [
+       "shared cloud platform",
+       "共享云平台"
+      ]
+     ],
+     "verbs": [
+      [
+       "covers",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "负责",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "platform operations",
     "business case",
@@ -3370,8 +6174,38 @@
    ]
   },
   {
-   "stem": "At Contoso, one team sits at the center of the cloud effort and actually carries out the technical changes, such as migrating and modernizing workloads. Which team is it?",
-   "zhStem": "在 Contoso，有一个团队处于云工作的核心，实际执行技术变更，例如迁移和现代化工作负载。这是哪个团队？",
+   "stem": "Which team carries out the technical changes, such as migrating and modernizing workloads?",
+   "zhStem": "哪个团队执行技术变更，例如迁移和现代化工作负载？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "team",
+       "团队"
+      ],
+      [
+       "technical changes",
+       "技术变更"
+      ],
+      [
+       "workloads",
+       "工作负载"
+      ]
+     ],
+     "verbs": [
+      [
+       "carries out",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "执行",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "cloud center of excellence (CCoE)",
     "cloud governance team",
@@ -3418,8 +6252,58 @@
    ]
   },
   {
-   "stem": "At Contoso, one dedicated team makes sure adopted solutions meet quality standards and is accountable for platform maturity, platform operations, and automation, while other teams do the migrations. Which team is it?",
-   "zhStem": "在 Contoso，有一个专门的团队确保所采用的方案达到质量标准，并对平台成熟度、平台运维和自动化负最终责任，而其他团队负责执行迁移。这是哪个团队？",
+   "stem": "Which team ensures adopted solutions meet standards and is accountable for platform maturity and operations?",
+   "zhStem": "哪个团队确保所采用的方案达到标准，并对平台成熟度和运维负责？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "team",
+       "团队"
+      ],
+      [
+       "solutions",
+       "方案"
+      ],
+      [
+       "standards",
+       "标准"
+      ],
+      [
+       "platform maturity",
+       "平台成熟度"
+      ]
+     ],
+     "verbs": [
+      [
+       "ensures",
+       0
+      ],
+      [
+       "meet",
+       0
+      ],
+      [
+       "is accountable for",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "确保",
+       0
+      ],
+      [
+       "达到",
+       0
+      ],
+      [
+       "负责",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "cloud adoption team",
     "cloud center of excellence (CCoE)",
@@ -3470,8 +6354,42 @@
    ]
   },
   {
-   "stem": "Before migrating, Contoso wants a proven, flexible Azure architecture for governing, securing, and scaling an environment made of many subscriptions. What should it deploy?",
-   "zhStem": "在迁移之前，Contoso 需要一个经过验证、灵活的 Azure 架构，用于治理、保护和扩展由多个订阅组成的环境。它应该部署什么？",
+   "stem": "What is a proven Azure architecture for governing, securing and scaling a multi-subscription environment?",
+   "zhStem": "用于治理、保护和扩展多订阅 Azure 环境的成熟架构叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "governing",
+       "治理"
+      ],
+      [
+       "securing",
+       "保护"
+      ],
+      [
+       "scaling",
+       "扩展"
+      ],
+      [
+       "multi-subscription environment",
+       "多订阅 Azure 环境"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "landing zone",
     "virtual network (VNet)",
@@ -3510,8 +6428,42 @@
    ]
   },
   {
-   "stem": "Contoso needs one centralized foundation that sets up governance, security, and shared resources such as networking and identity for all of its Azure workloads. Which part of the Azure setup provides this?",
-   "zhStem": "Contoso 需要一个集中式基础，为其所有 Azure 工作负载建立治理、安全以及网络和身份等共享资源。Azure 环境中的哪个部分提供这一点？",
+   "stem": "What provides the centralized governance, security, networking and identity foundation for all Azure workloads?",
+   "zhStem": "什么为所有 Azure 工作负载提供集中的治理、安全、网络和身份基础？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "governance",
+       "治理"
+      ],
+      [
+       "security",
+       "安全"
+      ],
+      [
+       "networking",
+       "网络"
+      ],
+      [
+       "identity foundation",
+       "身份基础"
+      ]
+     ],
+     "verbs": [
+      [
+       "provides",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提供",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "workload landing zone",
     "platform landing zone",
@@ -3540,8 +6492,42 @@
    "zhVerbs": []
   },
   {
-   "stem": "Contoso has dozens of Azure subscriptions and wants a structure that organizes them all and applies the same policies to every subscription beneath each level. What should it use?",
-   "zhStem": "Contoso 有几十个 Azure 订阅，希望用一个结构将它们全部组织起来，并对每一层下的所有订阅应用相同的策略。它应该使用什么？",
+   "stem": "What organizes many Azure subscriptions and applies the same policies to all subscriptions beneath it?",
+   "zhStem": "什么用来组织大量 Azure 订阅，并对其下所有订阅应用相同策略？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure subscriptions",
+       "Azure 订阅"
+      ],
+      [
+       "same policies",
+       "相同策略"
+      ]
+     ],
+     "verbs": [
+      [
+       "organizes",
+       0
+      ],
+      [
+       "applies",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "组织",
+       0
+      ],
+      [
+       "应用",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "management group hierarchy",
     "resource group",
@@ -3600,8 +6586,38 @@
    ]
   },
   {
-   "stem": "Contoso's e-commerce team needs its own environment to deploy and run its application resources, while staying inside the guardrails set by the central platform. Where do they deploy?",
-   "zhStem": "Contoso 的电商团队需要一个自己的环境来部署和运行其应用资源，同时遵守中央平台设定的防护规则。他们应该部署在哪里？",
+   "stem": "Where does a workload team deploy its application resources within the central platform's guardrails?",
+   "zhStem": "工作负载团队在中央平台的护栏内把应用资源部署到哪里？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "workload team",
+       "工作负载团队"
+      ],
+      [
+       "central platform",
+       "中央平台"
+      ],
+      [
+       "guardrails",
+       "护栏"
+      ]
+     ],
+     "verbs": [
+      [
+       "deploy",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "部署到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "workload landing zone",
     "platform landing zone",
@@ -3634,8 +6650,50 @@
    "zhVerbs": []
   },
   {
-   "stem": "Contoso wants each department to get a separate Azure bill and its own scale limits, with resource groups organized beneath that unit. Which Azure unit of management, billing, and scale should it create per department?",
-   "zhStem": "Contoso 希望每个部门都有单独的 Azure 账单和各自的规模限制，并在该单元下组织资源组。它应该为每个部门创建哪个兼具管理、计费和规模功能的 Azure 单元？",
+   "stem": "Which Azure unit of management, billing and scale holds resource groups and gets its own bill?",
+   "zhStem": "哪个 Azure 管理、计费和规模单位包含资源组，并有单独的账单？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure",
+       "Azure"
+      ],
+      [
+       "billing",
+       "计费"
+      ],
+      [
+       "resource groups",
+       "资源组"
+      ],
+      [
+       "own bill",
+       "单独的账单"
+      ]
+     ],
+     "verbs": [
+      [
+       "holds",
+       0
+      ],
+      [
+       "gets",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "包含",
+       0
+      ],
+      [
+       "有",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure region",
     "management group hierarchy",
@@ -3686,8 +6744,38 @@
    ]
   },
   {
-   "stem": "When designing its landing zone, Contoso wants to set up the foundation for day-to-day operations, such as monitoring and backup, across Azure, hybrid, and multicloud environments. Which design area covers this?",
-   "zhStem": "在设计落地区时，Contoso 希望为跨 Azure、混合云和多云环境的日常运维（例如监控和备份）建立基础。哪个设计领域涵盖这一点？",
+   "stem": "Which landing zone design area sets up the foundation for operations such as monitoring and backup?",
+   "zhStem": "哪个登陆区设计领域为监控、备份等运维工作打基础？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "landing zone design area",
+       "登陆区设计领域"
+      ],
+      [
+       "monitoring",
+       "监控"
+      ],
+      [
+       "backup",
+       "备份"
+      ]
+     ],
+     "verbs": [
+      [
+       "sets up",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "打基础",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "governance",
     "security and compliance",
@@ -3726,8 +6814,42 @@
    ]
   },
   {
-   "stem": "When designing its landing zone, Contoso needs tooling for compliance auditing and automated guardrails such as policies that block unapproved regions. Which design area covers this?",
-   "zhStem": "在设计落地区时，Contoso 需要用于合规审计和自动化防护规则（例如阻止未经批准区域的策略）的工具。哪个设计领域涵盖这一点？",
+   "stem": "Which landing zone design area covers compliance auditing and automated guardrails such as region policies?",
+   "zhStem": "哪个登陆区设计领域涵盖合规审计和自动护栏（如区域策略）？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "landing zone design area",
+       "登陆区设计领域"
+      ],
+      [
+       "compliance auditing",
+       "合规审计"
+      ],
+      [
+       "automated guardrails",
+       "自动护栏"
+      ],
+      [
+       "region policies",
+       "区域策略"
+      ]
+     ],
+     "verbs": [
+      [
+       "covers",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "涵盖",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "management",
     "governance",
@@ -3770,8 +6892,42 @@
    ]
   },
   {
-   "stem": "Contoso does not want to build its landing zones by hand, so it uses a Microsoft-provided package of infrastructure as code that deploys the environment following recommended practices. What is this package called?",
-   "zhStem": "Contoso 不想手动构建落地区，因此使用 Microsoft 提供的一套基础设施即代码包，按照推荐做法部署环境。这套包叫什么？",
+   "stem": "What is the Microsoft-provided infrastructure-as-code package that deploys landing zones following recommended practices?",
+   "zhStem": "Microsoft 提供的、按推荐实践部署登录区的基础设施即代码包叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Microsoft-provided",
+       "Microsoft 提供的"
+      ],
+      [
+       "infrastructure-as-code package",
+       "基础设施即代码包"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "deploys",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "部署",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "reference architecture",
     "Migration and modernization tool",
@@ -3814,8 +6970,50 @@
    ]
   },
   {
-   "stem": "Contoso runs its order system on servers in its own building and wants to move the application and its data onto a public provider's servers so it can stop buying hardware. What is this overall process called?",
-   "zhStem": "Contoso 的订单系统运行在自家机房的服务器上，公司想把应用和数据搬到公有云提供商的服务器上，从而不再购买硬件。这一整体过程叫什么？",
+   "stem": "What is the process of moving applications and data from on-premises servers to a public cloud provider called?",
+   "zhStem": "把应用和数据从本地服务器迁到公有云提供商的过程叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "applications",
+       "应用"
+      ],
+      [
+       "data",
+       "数据"
+      ],
+      [
+       "on-premises servers",
+       "本地服务器"
+      ],
+      [
+       "public cloud provider",
+       "公有云提供商"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "called",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "discovery",
     "cloud migration",
@@ -3866,8 +7064,50 @@
    ]
   },
   {
-   "stem": "Contoso's payroll process relies on two VMs, a SQL database, some scripts and a file share. What is this collection of IT components that together support one business process called?",
-   "zhStem": "Contoso 的薪资流程依赖两台虚拟机、一个 SQL 数据库、一些脚本和一个文件共享。这些共同支撑一个业务流程的 IT 组件集合叫什么？",
+   "stem": "What is a collection of IT components, such as VMs, databases and scripts, that supports a business process?",
+   "zhStem": "支持一个业务流程的一组 IT 组件（如虚拟机、数据库和脚本）叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "IT components",
+       "IT 组件"
+      ],
+      [
+       "VMs",
+       "虚拟机"
+      ],
+      [
+       "databases",
+       "数据库"
+      ],
+      [
+       "scripts",
+       "脚本"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "supports",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "支持",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "migration wave",
     "resource group",
@@ -3910,8 +7150,50 @@
    ]
   },
   {
-   "stem": "Contoso wants something running inside its own datacenter that keeps collecting configuration and performance data from its servers and sends it to Azure. What should the team deploy?",
-   "zhStem": "Contoso 希望在自家数据中心里运行一个组件，持续收集服务器的配置和性能数据并发送到 Azure。团队应部署什么？",
+   "stem": "What runs in your own datacenter and continuously sends server configuration and performance data to Azure?",
+   "zhStem": "什么部署在你自己的数据中心里，持续把服务器的配置和性能数据发送到 Azure？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "datacenter",
+       "数据中心"
+      ],
+      [
+       "server configuration",
+       "服务器的配置"
+      ],
+      [
+       "performance data",
+       "性能数据"
+      ],
+      [
+       "Azure",
+       "Azure"
+      ]
+     ],
+     "verbs": [
+      [
+       "runs",
+       0
+      ],
+      [
+       "sends",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "部署",
+       0
+      ],
+      [
+       "发送",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure Migrate project",
     "Azure Migrate appliance",
@@ -3970,8 +7252,50 @@
    ]
   },
   {
-   "stem": "Contoso wants one Azure service that guides the whole move: finding the best path, checking whether servers can run in Azure, estimating hosting cost, and then performing the move with little downtime. Which service should it use?",
-   "zhStem": "Contoso 想用一个 Azure 服务来指导整个迁移：找到最佳路径、检查服务器能否在 Azure 上运行、估算托管成本，然后以很少的停机时间完成迁移。应使用哪个服务？",
+   "stem": "Which Azure service assesses readiness and hosting cost, then performs the move to Azure with little downtime?",
+   "zhStem": "哪个 Azure 服务评估就绪情况和托管成本，然后以极少停机完成迁移到 Azure？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure service",
+       "Azure 服务"
+      ],
+      [
+       "readiness",
+       "就绪情况"
+      ],
+      [
+       "hosting cost",
+       "托管成本"
+      ],
+      [
+       "little downtime",
+       "极少停机"
+      ]
+     ],
+     "verbs": [
+      [
+       "assesses",
+       0
+      ],
+      [
+       "performs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "评估",
+       0
+      ],
+      [
+       "完成",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Data Migration Assistant (DMA)",
     "Azure Migrate",
@@ -4022,8 +7346,46 @@
    ]
   },
   {
-   "stem": "Before planning anything, Contoso's team must first find out which servers and applications it actually runs. What is this first step of the migration journey called?",
-   "zhStem": "在做任何规划之前，Contoso 团队必须先弄清楚自己实际运行着哪些服务器和应用。迁移旅程的这第一步叫什么？",
+   "stem": "What is the first migration step, identifying which servers and applications you run, called?",
+   "zhStem": "迁移的第一步，即找出你运行了哪些服务器和应用，叫什么？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "first migration step",
+       "第一步"
+      ],
+      [
+       "servers",
+       "服务器"
+      ],
+      [
+       "applications",
+       "应用"
+      ]
+     ],
+     "verbs": [
+      [
+       "run",
+       0
+      ],
+      [
+       "called",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "运行",
+       0
+      ],
+      [
+       "叫",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "cutover",
     "migration wave",
@@ -4070,8 +7432,46 @@
    ]
   },
   {
-   "stem": "An old runbook tells Contoso's team to inventory servers with a Microsoft tool that was retired in March 2024, and Azure Migrate should now be used instead. Which tool does the runbook name?",
-   "zhStem": "一份旧的操作手册让 Contoso 团队用一个已于 2024 年 3 月退役的 Microsoft 工具来盘点服务器，现在应改用 Azure Migrate。手册里提到的是哪个工具？",
+   "stem": "Which Microsoft discovery tool retired in March 2024, with Azure Migrate used instead?",
+   "zhStem": "哪个 Microsoft 发现工具已于 2024 年 3 月退役，改用 Azure Migrate？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Microsoft discovery tool",
+       "Microsoft 发现工具"
+      ],
+      [
+       "March 2024",
+       "2024 年 3 月"
+      ],
+      [
+       "Azure Migrate",
+       "Azure Migrate"
+      ]
+     ],
+     "verbs": [
+      [
+       "retired",
+       0
+      ],
+      [
+       "used",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "退役",
+       0
+      ],
+      [
+       "改用",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Data Migration Assistant (DMA)",
     "Azure Migrate appliance",
@@ -4122,8 +7522,54 @@
    ]
   },
   {
-   "stem": "Contoso has an inventory of its on-premises servers and now wants a report that measures whether they can run in Azure and estimates the effect of moving them. What should it create?",
-   "zhStem": "Contoso 已有本地服务器清单，现在需要一份报告，衡量这些服务器能否在 Azure 上运行，并估计迁移它们的影响。应创建什么？",
+   "stem": "What measures whether on-premises servers can run in Azure and estimates the effect of migrating them?",
+   "zhStem": "什么用来衡量本地服务器能否在 Azure 上运行，并估计迁移它们的影响？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "on-premises servers",
+       "本地服务器"
+      ],
+      [
+       "Azure",
+       "Azure"
+      ],
+      [
+       "effect",
+       "影响"
+      ]
+     ],
+     "verbs": [
+      [
+       "measures",
+       0
+      ],
+      [
+       "can run in",
+       0
+      ],
+      [
+       "estimates",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "衡量",
+       0
+      ],
+      [
+       "运行",
+       0
+      ],
+      [
+       "估计",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "migration plan",
     "dependency analysis",
@@ -4174,8 +7620,46 @@
    ]
   },
   {
-   "stem": "In a report, Contoso's team only wants to know whether each server, SQL server and web app can be moved to Azure at all, not what it will cost or what size it needs. Which part should the team look at?",
-   "zhStem": "在报告中，Contoso 团队只想知道每台服务器、SQL 服务器和 Web 应用究竟能否迁到 Azure，而不关心成本或所需规格。团队应查看哪一部分？",
+   "stem": "Which part of an Azure Migrate assessment shows whether each server can move to Azure at all?",
+   "zhStem": "Azure Migrate 评估报告的哪一部分显示每台服务器能否迁移到 Azure？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure Migrate assessment",
+       "Azure Migrate 评估报告"
+      ],
+      [
+       "server",
+       "服务器"
+      ],
+      [
+       "Azure",
+       "Azure"
+      ]
+     ],
+     "verbs": [
+      [
+       "shows",
+       0
+      ],
+      [
+       "can move to",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "显示",
+       0
+      ],
+      [
+       "能否迁移到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "sizing",
     "dependency analysis",
@@ -4218,8 +7702,42 @@
    ]
   },
   {
-   "stem": "Contoso wants to know how large each Azure VM should be, which Azure SQL configuration to pick, and how many Azure VMware Solution nodes it will need after the move. Which part of the report answers this?",
-   "zhStem": "Contoso 想知道迁移后每台 Azure 虚拟机应选多大、Azure SQL 用哪种配置、需要多少个 Azure VMware Solution 节点。报告的哪一部分回答这个问题？",
+   "stem": "Which part of an assessment estimates Azure VM size, SQL configuration and AVS node count after migration?",
+   "zhStem": "评估报告的哪一部分估算迁移后的 Azure VM 大小、SQL 配置和 AVS 节点数量？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "assessment",
+       "评估报告"
+      ],
+      [
+       "Azure VM size",
+       "Azure VM 大小"
+      ],
+      [
+       "SQL configuration",
+       "SQL 配置"
+      ],
+      [
+       "AVS node count",
+       "AVS 节点数量"
+      ]
+     ],
+     "verbs": [
+      [
+       "estimates",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "估算",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "sizing",
     "cost estimate",
@@ -4262,8 +7780,38 @@
    ]
   },
   {
-   "stem": "Contoso's finance manager asks how much Azure will bill each month if the current on-premises servers run there. Which part of the report answers this?",
-   "zhStem": "Contoso 的财务经理问：如果现有本地服务器放到 Azure 上运行，Azure 每月会收多少钱。报告的哪一部分回答这个问题？",
+   "stem": "Which part of an assessment shows the monthly bill for running the current servers in Azure?",
+   "zhStem": "评估中的哪一部分显示当前服务器在 Azure 上运行的每月费用？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "assessment",
+       "评估"
+      ],
+      [
+       "current servers",
+       "当前服务器"
+      ],
+      [
+       "Azure",
+       "Azure"
+      ]
+     ],
+     "verbs": [
+      [
+       "shows",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "显示",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "readiness",
     "dependency analysis",
@@ -4298,8 +7846,50 @@
    ]
   },
   {
-   "stem": "Contoso fears that moving its web servers without the database server they call would break the app, so it wants to see which servers talk to each other over the network. What should it run?",
-   "zhStem": "Contoso 担心只迁移 Web 服务器而漏掉它们调用的数据库服务器会让应用出故障，因此想看清哪些服务器之间有网络通信。应执行什么？",
+   "stem": "Which Azure Migrate feature shows which servers talk to each other over the network?",
+   "zhStem": "Azure Migrate 的哪项功能显示哪些服务器之间通过网络通信？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure Migrate",
+       "Azure Migrate"
+      ],
+      [
+       "feature",
+       "功能"
+      ],
+      [
+       "servers",
+       "服务器"
+      ],
+      [
+       "network",
+       "网络"
+      ]
+     ],
+     "verbs": [
+      [
+       "shows",
+       0
+      ],
+      [
+       "talk to",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "显示",
+       0
+      ],
+      [
+       "通信",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "discovery",
     "workload prioritization",
@@ -4342,8 +7932,50 @@
    ]
   },
   {
-   "stem": "Contoso has finished evaluating its servers and is ready to actually move them to Azure, using the Azure Migrate tool built specifically for server migration. Which tool should it use?",
-   "zhStem": "Contoso 已完成服务器评估，准备用 Azure Migrate 中专为服务器迁移打造的工具，把服务器真正迁到 Azure。应使用哪个工具？",
+   "stem": "Which Azure Migrate tool is built specifically to move servers to Azure?",
+   "zhStem": "Azure Migrate 中哪个工具专门用于把服务器迁移到 Azure？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure Migrate",
+       "Azure Migrate"
+      ],
+      [
+       "tool",
+       "工具"
+      ],
+      [
+       "servers",
+       "服务器"
+      ],
+      [
+       "Azure",
+       "Azure"
+      ]
+     ],
+     "verbs": [
+      [
+       "is built",
+       0
+      ],
+      [
+       "move",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "用于",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Migration and modernization tool",
     "App Service Migration Assistant",

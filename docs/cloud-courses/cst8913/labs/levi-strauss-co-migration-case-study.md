@@ -21,7 +21,7 @@ Lab 2 of CST8913 Cloud Migration (week 2): explain why a company moves to the cl
 
 ## 1. Motivations
 
-### What motivated Levi Strauss & Co. to move to the cloud?
+#### What motivated Levi Strauss & Co. to move to the cloud?
 
 - **New business model.** Moving from wholesale to direct-to-consumer (DTC), with a goal of becoming a USD 10 billion DTC brand, requires speed, automation, and data.
 - **Technical debt.** About 160 applications, several datacenters, nine ERP systems, and different processes across 110 countries made the business hard to change.
@@ -33,7 +33,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 ## 2. Discovery questions
 
-### What would you ask before a migration to understand a company's existing infrastructure, applications, data, security and business requirements?
+#### What would you ask before a migration to understand a company's existing infrastructure, applications, data, security and business requirements?
 
 | Area | Questions |
 |---|---|
@@ -49,7 +49,7 @@ Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
 ## 3. Stakeholders and RACI matrix
 
-### Who are the migration stakeholders, and how does a RACI matrix divide the work between them?
+#### Who are the migration stakeholders, and how does a RACI matrix divide the work between them?
 
 Titles are from the case study; the responsibilities are my proposal.
 
@@ -77,7 +77,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 ## 4. The five Rs
 
-### Which migration approach (of the five Rs) fits each kind of workload at Levi Strauss & Co.?
+#### Which migration approach (of the five Rs) fits each kind of workload at Levi Strauss & Co.?
 
 **Recommendation: rehost first, then refactor selectively**, choosing the approach for each workload:
 
@@ -91,7 +91,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
 
-### Which migration approach did you recommend first, and why?
+#### Which migration approach did you recommend first, and why?
 
 **Why rehost first:**
 
@@ -102,7 +102,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 ## 5. Migration schedule
 
-### What does a high-level migration schedule look like?
+#### What does a high-level migration schedule look like?
 
 | Phase | Timing | Key activities |
 |---|---|---|
@@ -119,7 +119,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 ## 6. Decision criteria
 
-### What business and technical criteria should guide migration decisions?
+#### What business and technical criteria should guide migration decisions?
 
 | Business criteria | Technical criteria |
 |---|---|

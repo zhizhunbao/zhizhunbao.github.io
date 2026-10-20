@@ -2,8 +2,8 @@
  "title": "Discovery and assessment (lab 4) quiz",
  "questions": [
   {
-   "stem": "Contoso's IT team is starting a cloud migration, and the manager asks them to document the company's digital estate first. What should the digital estate include?",
-   "zhStem": "Contoso 的 IT 团队正在启动云迁移，经理要求他们先把公司的数字资产（digital estate）整理清楚。数字资产应该包括什么？",
+   "stem": "What is digital estate in your own words?",
+   "zhStem": "数字资产是什么？请用你自己的话说。",
    "options": [
     "Only the servers that will move to Azure first",
     "All servers, applications, data, and the connections between them",
@@ -12,11 +12,85 @@
    ],
    "answer": 1,
    "explain": "The digital estate is everything IT runs today, because it covers all servers, applications, data, and how they connect, not just the first servers to move.",
-   "zhExplain": "数字资产是 IT 当前运行的全部内容，因为它涵盖所有服务器、应用、数据以及它们之间的连接，而不只是最先迁移的服务器。"
+   "zhExplain": "数字资产是 IT 当前运行的全部内容，因为它涵盖所有服务器、应用、数据以及它们之间的连接，而不只是最先迁移的服务器。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "digital estate",
+       "数字资产"
+      ],
+      [
+       "your own words",
+       "你自己的话"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "digital estate",
+       "数字资产"
+      ],
+      [
+       "all servers",
+       "所有服务器"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "runs",
+       0
+      ],
+      [
+       "covers",
+       0
+      ],
+      [
+       "connect",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "运行",
+       0
+      ],
+      [
+       "涵盖",
+       0
+      ],
+      [
+       "连接",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Fabrikam wants to move to Azure next month, but its only inventory is a list of server roles and OS versions. Why must the team understand the full digital estate before planning?",
-   "zhStem": "Fabrikam 想在下个月迁移到 Azure，但它唯一的清单只列出了服务器角色和操作系统版本。为什么团队在制定计划前必须了解完整的数字资产？",
+   "stem": "Why is understanding the digital estate necessary before planning a cloud migration?",
+   "zhStem": "为什么了解数字资产是规划云迁移之前的必要工作？",
    "options": [
     "Azure refuses to create VMs until an inventory file is uploaded",
     "Azure Migrate can only replicate servers listed in a spreadsheet",
@@ -25,24 +99,156 @@
    ],
    "answer": 2,
    "explain": "The team must know the full estate first, because VM sizing, cost, and migration order all depend on what exists and how it connects.",
-   "zhExplain": "团队必须先了解完整的数字资产，因为虚拟机规格、成本和迁移顺序都取决于有哪些资源以及它们如何连接。"
+   "zhExplain": "团队必须先了解完整的数字资产，因为虚拟机规格、成本和迁移顺序都取决于有哪些资源以及它们如何连接。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "digital estate",
+       "数字资产"
+      ],
+      [
+       "cloud migration",
+       "云迁移"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "full estate",
+       "完整的数字资产"
+      ],
+      [
+       "migration order",
+       "迁移顺序"
+      ]
+     ],
+     "verbs": [
+      [
+       "must know",
+       0
+      ],
+      [
+       "depend on",
+       0
+      ],
+      [
+       "exists",
+       0
+      ],
+      [
+       "connects",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "必须先了解",
+       0
+      ],
+      [
+       "取决于",
+       0
+      ],
+      [
+       "有",
+       0
+      ],
+      [
+       "连接",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso moves its application server to Azure without any discovery or assessment, and the database it uses stays on-premises. What is the most likely result?",
-   "zhStem": "Contoso 在没有做任何发现和评估的情况下把应用服务器迁到了 Azure，而它使用的数据库仍留在本地。最可能出现什么结果？",
+   "stem": "What are three risks of migrating without adequate discovery and assessment?",
+   "zhStem": "有哪三个风险会出现在没有充分发现和评估的迁移中？",
    "options": [
-    "Azure automatically moves the database along with the app server",
-    "Nothing, because Azure VMs detect and fix missing dependencies",
-    "The migration is blocked until the database server is deleted",
-    "The app fails or slows down because a missed dependency was split"
+    "Higher licensing fees, slower Internet, and data loss in Azure",
+    "Azure refusing VMs, expired subscriptions, and lost backups",
+    "Outages, late-found blockers, and wrong size and cost",
+    "Longer replication, extra appliances, and more vCenter accounts"
    ],
-   "answer": 3,
-   "explain": "The app fails or slows down, because skipping discovery missed the dependency between the app server and its database.",
-   "zhExplain": "应用会出错或变慢，因为跳过发现步骤漏掉了应用服务器与数据库之间的依赖关系。"
+   "answer": 2,
+   "explain": "The three risks are outages, late blockers, and wrong sizing, because missed dependencies, unsupported operating systems, and missing usage data only show up through discovery and assessment.",
+   "zhExplain": "三个风险是停机、阻碍因素发现太晚和规格错误，因为遗漏的依赖、不受支持的操作系统和缺失的使用数据只有通过发现和评估才能暴露。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "three risks",
+       "三个风险"
+      ],
+      [
+       "adequate discovery and assessment",
+       "充分发现和评估"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "有",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "outages",
+       "停机"
+      ],
+      [
+       "missing usage data",
+       "缺失的使用数据"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ],
+      [
+       "show up",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "暴露",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso runs its servers as VMware VMs managed by vCenter and wants to discover them without installing anything on each VM. What is the correct approach?",
-   "zhStem": "Contoso 的服务器是由 vCenter 管理的 VMware 虚拟机，团队希望在不往每台虚拟机上安装任何东西的情况下发现它们。正确的做法是什么？",
+   "stem": "What is the discovery approach and how does it work at a high level?",
+   "zhStem": "发现方法是什么？它在高层次上如何工作？",
    "options": [
     "Deploy the Azure Migrate appliance on vCenter and collect data for about 30 days",
     "Install a discovery agent on each VM and collect data for one hour",
@@ -50,25 +256,157 @@
     "Replicate every VM to Azure first, then measure usage there"
    ],
    "answer": 0,
-   "explain": "Deploying the Azure Migrate appliance on vCenter is correct, because it discovers VMs agentlessly through vCenter and about 30 days of data captures peak usage.",
-   "zhExplain": "在 vCenter 上部署 Azure Migrate 设备是正确的，因为它通过 vCenter 无代理地发现虚拟机，收集约 30 天的数据能捕捉到使用高峰。"
+   "explain": "The approach is agentless discovery with the Azure Migrate appliance on vCenter, because the appliance reads every VM through vCenter and about 30 days of data captures peak usage.",
+   "zhExplain": "该方法是用部署在 vCenter 上的 Azure Migrate 设备进行无代理发现，因为设备通过 vCenter 读取每台 VM 的数据，约 30 天的数据能捕捉到使用高峰。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "discovery approach",
+       "发现方法"
+      ],
+      [
+       "high level",
+       "高层次"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "work",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "工作",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "agentless discovery",
+       "无代理发现"
+      ],
+      [
+       "30 days",
+       "30 天"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "reads",
+       0
+      ],
+      [
+       "captures",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "读取",
+       0
+      ],
+      [
+       "捕捉到",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "A Contoso administrator has deployed the Azure Migrate appliance from an OVA template on vCenter. How does the appliance get each VM's configuration and performance data?",
-   "zhStem": "Contoso 的一位管理员已用 OVA 模板在 vCenter 上部署了 Azure Migrate 设备。该设备如何获取每台虚拟机的配置和性能数据？",
+   "stem": "What is the role of the Azure Migrate appliance and its connection to vCenter?",
+   "zhStem": "Azure Migrate 设备的作用是什么？它与 vCenter 如何连接？",
    "options": [
     "It installs an agent on each VM through Remote Desktop",
     "It needs a domain admin account with write access to every VM",
-    "It connects to vCenter Server with a read-only account over port 443",
+    "It reads VM data from vCenter Server with a read-only account over port 443",
     "It copies VM disk files to Azure Storage and scans them there"
    ],
    "answer": 2,
    "explain": "The appliance uses a read-only vCenter account over port 443, because it reads VM configuration and performance through the vSphere APIs without installing anything on the servers.",
-   "zhExplain": "设备通过 443 端口使用只读的 vCenter 账户，因为它通过 vSphere API 读取虚拟机配置和性能，无需在服务器上安装任何东西。"
+   "zhExplain": "设备通过 443 端口使用只读的 vCenter 账户，因为它通过 vSphere API 读取虚拟机配置和性能，无需在服务器上安装任何东西。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "role",
+       "作用"
+      ],
+      [
+       "connection to vCenter",
+       "与 vCenter 如何连接"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "read-only vCenter account",
+       "只读的 vCenter 账户"
+      ],
+      [
+       "vSphere APIs",
+       "vSphere API"
+      ]
+     ],
+     "verbs": [
+      [
+       "uses",
+       0
+      ],
+      [
+       "reads",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "使用",
+       0
+      ],
+      [
+       "读取",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso's discovery has been running in Azure Migrate for two weeks. Which set of information is it collecting about each server?",
-   "zhStem": "Contoso 已经在 Azure Migrate 中运行发现两周了。它正在收集每台服务器的哪一组信息？",
+   "stem": "What configuration and performance information would you collect?",
+   "zhStem": "你会收集哪些配置和性能信息？",
    "options": [
     "Only server names and IP addresses",
     "Configuration, performance, installed software, and server dependencies",
@@ -77,11 +415,69 @@
    ],
    "answer": 1,
    "explain": "Discovery collects configuration, performance, software, and dependencies, because assessment later needs all of these facts to judge readiness, size, and cost.",
-   "zhExplain": "发现会收集配置、性能、软件和依赖关系，因为后续评估需要这些事实来判断就绪度、规格和成本。"
+   "zhExplain": "发现会收集配置、性能、软件和依赖关系，因为后续评估需要这些事实来判断就绪度、规格和成本。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "configuration",
+       "配置"
+      ],
+      [
+       "performance information",
+       "性能信息"
+      ]
+     ],
+     "verbs": [
+      [
+       "collect",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "收集",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "configuration",
+       "配置"
+      ],
+      [
+       "readiness",
+       "就绪度"
+      ]
+     ],
+     "verbs": [
+      [
+       "collects",
+       0
+      ],
+      [
+       "needs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "会收集",
+       0
+      ],
+      [
+       "需要",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "A new analyst at Contoso says discovery and assessment are the same step in Azure Migrate. Which statement correctly separates them?",
-   "zhStem": "Contoso 的一位新分析师说，在 Azure Migrate 中发现和评估是同一个步骤。哪种说法正确区分了二者？",
+   "stem": "What distinguishes discovering assets from assessing their suitability for migration?",
+   "zhStem": "发现资产与评估其迁移适用性有什么区别？",
    "options": [
     "Discovery estimates cost; assessment lists which servers exist",
     "Discovery runs in Azure; assessment runs only on-premises",
@@ -90,11 +486,77 @@
    ],
    "answer": 3,
    "explain": "Discovery gathers facts and assessment judges them, because assessment turns the collected data into readiness, VM size, and monthly cost.",
-   "zhExplain": "发现负责收集事实，评估负责判断，因为评估把收集到的数据转化为就绪度、虚拟机规格和月度成本。"
+   "zhExplain": "发现负责收集事实，评估负责判断，因为评估把收集到的数据转化为就绪度、虚拟机规格和月度成本。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "discovering assets",
+       "发现资产"
+      ],
+      [
+       "suitability for migration",
+       "迁移适用性"
+      ]
+     ],
+     "verbs": [
+      [
+       "distinguishes",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "有",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "gathers facts",
+       "收集事实"
+      ],
+      [
+       "monthly cost",
+       "月度成本"
+      ]
+     ],
+     "verbs": [
+      [
+       "gathers",
+       0
+      ],
+      [
+       "judges",
+       0
+      ],
+      [
+       "turns",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "收集",
+       0
+      ],
+      [
+       "判断",
+       0
+      ],
+      [
+       "转化为",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso assumes that every server depends on the domain controller DC-01, but nobody has proof. How can the team confirm this assumption?",
-   "zhStem": "Contoso 假设每台服务器都依赖域控制器 DC-01，但没有人能证明。团队如何确认这一假设？",
+   "stem": "How would you validate assumed dependencies during discovery?",
+   "zhStem": "你会如何在发现期间验证假设的依赖关系？",
    "options": [
     "Check each server's OS version in the vCenter inventory",
     "Shut down DC-01 in production and see what breaks",
@@ -102,12 +564,70 @@
     "Read the VM size recommendation in the assessment report"
    ],
    "answer": 2,
-   "explain": "Dependency analysis confirms it, because it shows each server's TCP connections with process and port, such as Kerberos, LDAP, or DNS traffic to DC-01.",
-   "zhExplain": "依赖关系分析可以确认这一点，因为它会显示每台服务器的 TCP 连接及其进程和端口，例如发往 DC-01 的 Kerberos、LDAP 或 DNS 流量。"
+   "explain": "Agentless dependency analysis validates them, because it shows each server's TCP connections with process and port, such as traffic to DC-01 on ports 88, 389, or 53.",
+   "zhExplain": "无代理依赖分析可以验证这些假设，因为它会显示每台服务器的 TCP 连接及其进程和端口，例如发往 DC-01 的 88、389 或 53 端口的流量。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "validate",
+       "验证"
+      ],
+      [
+       "assumed dependencies",
+       "假设的依赖关系"
+      ]
+     ],
+     "verbs": [
+      [
+       "validate",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "验证",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "dependency analysis",
+       "依赖分析"
+      ],
+      [
+       "TCP connections",
+       "TCP 连接"
+      ]
+     ],
+     "verbs": [
+      [
+       "validates",
+       0
+      ],
+      [
+       "shows",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "验证",
+       0
+      ],
+      [
+       "显示",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "A Contoso team plans to migrate its servers one at a time in any order that fits the schedule. Why should they run dependency analysis first?",
-   "zhStem": "Contoso 的一个团队计划按日程方便的任意顺序逐台迁移服务器。为什么他们应该先做依赖关系分析？",
+   "stem": "How does dependency analysis reduce the risk of outages?",
+   "zhStem": "依赖分析如何降低停机风险？",
    "options": [
     "So servers that depend on each other move together and nothing is cut off",
     "So Azure can choose a cheaper region for each server",
@@ -115,12 +635,94 @@
     "So each server can be migrated in a separate month"
    ],
    "answer": 0,
-   "explain": "Dependency analysis comes first, because servers that depend on each other must move together so none is left cut off from what it needs.",
-   "zhExplain": "应先做依赖关系分析，因为相互依赖的服务器必须一起迁移，才不会有服务器与所需资源断开。"
+   "explain": "It reduces outages, because servers that depend on each other move together and none is left cut off from what it needs.",
+   "zhExplain": "它能减少停机，因为相互依赖的服务器会一起迁移，没有服务器会与所需资源断开。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "dependency analysis",
+       "依赖分析"
+      ],
+      [
+       "risk of outages",
+       "停机风险"
+      ]
+     ],
+     "verbs": [
+      [
+       "reduce",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "降低",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "outages",
+       "停机"
+      ],
+      [
+       "move together",
+       "一起迁移"
+      ]
+     ],
+     "verbs": [
+      [
+       "reduces",
+       0
+      ],
+      [
+       "depend on",
+       0
+      ],
+      [
+       "move",
+       0
+      ],
+      [
+       "is left",
+       0
+      ],
+      [
+       "needs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "减少",
+       0
+      ],
+      [
+       "依赖",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ],
+      [
+       "断开",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso has WEB-01, APP-01, and DB-01 (APP-01 connects to DB-01), plus DC-01 and FILE-01, which serve all servers. Which servers belong in the same migration group?",
-   "zhStem": "Contoso 有 WEB-01、APP-01 和 DB-01（APP-01 连接 DB-01），还有为所有服务器提供服务的 DC-01 和 FILE-01。哪些服务器应放在同一个迁移组中？",
+   "stem": "What one logical migration group would you propose, and why do its servers belong together?",
+   "zhStem": "你会提出哪一个逻辑迁移组？为什么其中的服务器应放在一起？",
    "options": [
     "All five servers, because they share the same domain",
     "WEB-01, APP-01, and DB-01, because they form one application",
@@ -129,11 +731,85 @@
    ],
    "answer": 1,
    "explain": "WEB-01, APP-01, and DB-01 form one group, because they are one application and splitting them would send database traffic over the VPN.",
-   "zhExplain": "WEB-01、APP-01 和 DB-01 构成一组，因为它们是同一个应用，拆开迁移会让数据库流量走 VPN。"
+   "zhExplain": "WEB-01、APP-01 和 DB-01 构成一组，因为它们是同一个应用，拆开迁移会让数据库流量走 VPN。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "logical migration group",
+       "逻辑迁移组"
+      ],
+      [
+       "servers",
+       "服务器"
+      ]
+     ],
+     "verbs": [
+      [
+       "would you propose",
+       0
+      ],
+      [
+       "belong",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提出",
+       0
+      ],
+      [
+       "放在一起",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "one application",
+       "同一个应用"
+      ],
+      [
+       "database traffic",
+       "数据库流量"
+      ]
+     ],
+     "verbs": [
+      [
+       "form",
+       0
+      ],
+      [
+       "are",
+       0
+      ],
+      [
+       "would send",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "构成",
+       0
+      ],
+      [
+       "是",
+       0
+      ],
+      [
+       "会让",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso's FILE-01 runs Windows Server 2012 R2, whose Extended Security Updates end in October 2026. How should its Azure readiness be classified?",
-   "zhStem": "Contoso 的 FILE-01 运行 Windows Server 2012 R2，其扩展安全更新将于 2026 年 10 月结束。它的 Azure 就绪度应如何分类？",
+   "stem": "What is the Readiness Category of FILE-01?",
+   "zhStem": "就绪类别中，FILE-01 属于哪一类？",
    "options": [
     "Ready, because Azure VMs can run any Windows version",
     "Insufficient Information, because the file share sizes are unknown",
@@ -142,89 +818,611 @@
    ],
    "answer": 3,
    "explain": "FILE-01 is Not Ready, because an out-of-support OS with no security patches is a blocker that needs an OS upgrade during migration.",
-   "zhExplain": "FILE-01 属于未就绪（Not Ready），因为不再获得安全补丁的过期操作系统是一个阻碍因素，需要在迁移时升级操作系统。"
+   "zhExplain": "FILE-01 属于未就绪（Not Ready），因为不再获得安全补丁的过期操作系统是一个阻碍因素，需要在迁移时升级操作系统。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Readiness Category",
+       "就绪类别"
+      ],
+      [
+       "FILE-01",
+       "FILE-01"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "Not Ready",
+       "Not Ready"
+      ],
+      [
+       "OS upgrade",
+       "升级操作系统"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "is",
+       0
+      ],
+      [
+       "needs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ],
+      [
+       "是",
+       0
+      ],
+      [
+       "需要",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso's Azure Migrate assessment shows a recommended VM size and a monthly cost for each server. Where do these numbers come from?",
-   "zhStem": "Contoso 的 Azure Migrate 评估为每台服务器给出了推荐的虚拟机规格和月度成本。这些数字来自哪里？",
+   "stem": "How does Azure Migrate support Azure VM sizing and cost estimation?",
+   "zhStem": "Azure Migrate 如何支持 Azure VM 规格确定和成本估算？",
    "options": [
-    "Collected configuration and performance data, priced for the chosen region and options",
-    "A fixed global price list that ignores the region",
-    "The largest VM size available, chosen to be safe",
-    "Manual estimates typed in by the server owners"
+    "It maps collected configuration and performance data to VM sizes and prices them",
+    "It applies a fixed global price list that ignores the region",
+    "It always picks the largest VM size to be safe",
+    "It uses manual estimates typed in by the server owners"
    ],
    "answer": 0,
-   "explain": "The numbers come from collected data, because the assessment maps each server's configuration and performance to a VM size and disk type and prices them for the chosen region and pricing options.",
-   "zhExplain": "这些数字来自收集的数据，因为评估会把每台服务器的配置和性能映射到虚拟机规格和磁盘类型，并按所选区域和定价选项计价。"
+   "explain": "Azure Migrate sizes and prices VMs from collected data, because the assessment maps each server's configuration and performance to a VM size and disk type and prices them for the chosen region and pricing options.",
+   "zhExplain": "Azure Migrate 根据收集的数据确定 VM 规格并计价，因为评估会把每台服务器的配置和性能映射到 VM 规格和磁盘类型，并按所选区域和定价选项计价。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Azure VM sizing",
+       "Azure VM 规格确定"
+      ],
+      [
+       "cost estimation",
+       "成本估算"
+      ]
+     ],
+     "verbs": [
+      [
+       "support",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "支持",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "collected data",
+       "收集的数据"
+      ],
+      [
+       "chosen region",
+       "所选区域"
+      ]
+     ],
+     "verbs": [
+      [
+       "sizes",
+       0
+      ],
+      [
+       "maps",
+       0
+      ],
+      [
+       "prices",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "确定",
+       0
+      ],
+      [
+       "映射到",
+       0
+      ],
+      [
+       "计价",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso's on-premises servers each have 16 vCPUs but use only about 10 percent of their CPU. Which sizing option avoids paying for unused capacity in Azure?",
-   "zhStem": "Contoso 的每台本地服务器都有 16 个 vCPU，但 CPU 使用率只有约 10%。哪种规格选项可以避免在 Azure 中为闲置容量付费？",
+   "stem": "What is the difference between performance-based sizing and as-is sizing?",
+   "zhStem": "基于性能的规格确定与按现状规格确定有什么区别？",
    "options": [
-    "As-is sizing, because it copies the current specs exactly",
-    "As-is sizing, because it is based on peak usage data",
-    "Performance-based sizing, because it uses actual usage over time",
-    "Performance-based sizing, because it always picks the smallest VM"
+    "Performance-based copies current specs; as-is uses actual usage over time",
+    "Both use actual usage, but as-is adds a safety buffer",
+    "Performance-based uses actual usage over time; as-is copies current specs",
+    "Both copy current specs, but performance-based adds Premium SSD"
    ],
    "answer": 2,
-   "explain": "Performance-based sizing avoids waste, because it right-sizes VMs from actual CPU, memory, and disk usage instead of copying on-premises specs.",
-   "zhExplain": "基于性能的规格可以避免浪费，因为它根据实际的 CPU、内存和磁盘使用情况确定合适的虚拟机规格，而不是照搬本地配置。"
+   "explain": "Performance-based sizing right-sizes VMs from actual usage, because it uses CPU, memory, and disk data over time, while as-is sizing copies on-premises specs and often oversizes.",
+   "zhExplain": "基于性能的规格确定能根据实际使用情况合理确定 VM 规格，因为它使用一段时间内的 CPU、内存和磁盘数据，而按现状规格确定照搬本地配置，常常规格过大。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "performance-based sizing",
+       "基于性能的规格确定"
+      ],
+      [
+       "as-is sizing",
+       "按现状规格确定"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "有",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "actual usage",
+       "实际使用情况"
+      ],
+      [
+       "on-premises specs",
+       "本地配置"
+      ]
+     ],
+     "verbs": [
+      [
+       "right-sizes",
+       0
+      ],
+      [
+       "uses",
+       0
+      ],
+      [
+       "copies",
+       0
+      ],
+      [
+       "oversizes",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "合理确定",
+       0
+      ],
+      [
+       "使用",
+       0
+      ],
+      [
+       "照搬",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso already owns Windows Server licenses with Software Assurance and will run its VMs for three years. Which choices lower the estimated Azure cost?",
-   "zhStem": "Contoso 已拥有带软件保障的 Windows Server 许可证，并将运行虚拟机三年。哪些选择可以降低 Azure 的估算成本？",
+   "stem": "What are three factors that could affect the estimated Azure operating cost?",
+   "zhStem": "哪三个因素可能影响估算的 Azure 运营成本？",
    "options": [
-    "Pay-as-you-go licensing and Premium SSD for every disk",
-    "Azure Hybrid Benefit and reserved instances",
-    "As-is sizing and pay-as-you-go pricing",
-    "Larger VM sizes and shorter commitments"
+    "Server names, IP addresses, and domain names",
+    "VM size and disk type, licensing, and commitment",
+    "vCenter version, appliance OS, and port 443",
+    "Diagram style, Markdown files, and GitHub folders"
    ],
    "answer": 1,
-   "explain": "Azure Hybrid Benefit and reserved instances lower the cost, because the first reuses existing licenses and the second gives a discount for a long-term commitment.",
-   "zhExplain": "Azure Hybrid Benefit 和预留实例可以降低成本，因为前者复用现有许可证，后者通过长期承诺获得折扣。"
+   "explain": "VM size and disk type, licensing, and commitment drive the cost, because compute and storage are most of the bill, Azure Hybrid Benefit reuses licenses, and reserved instances cost less than pay-as-you-go.",
+   "zhExplain": "VM 规格和磁盘类型、许可和承诺期会影响成本，因为计算和存储占账单的大头，Azure Hybrid Benefit 复用现有许可证，预留实例比即用即付便宜。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "three factors",
+       "三个因素"
+      ],
+      [
+       "Azure operating cost",
+       "Azure 运营成本"
+      ]
+     ],
+     "verbs": [
+      [
+       "are",
+       0
+      ],
+      [
+       "could affect",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "可能影响",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "disk type",
+       "磁盘类型"
+      ],
+      [
+       "Azure Hybrid Benefit",
+       "Azure Hybrid Benefit"
+      ]
+     ],
+     "verbs": [
+      [
+       "drive",
+       0
+      ],
+      [
+       "are",
+       0
+      ],
+      [
+       "reuses",
+       0
+      ],
+      [
+       "cost",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "影响",
+       0
+      ],
+      [
+       "占",
+       0
+      ],
+      [
+       "复用",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso has one mission-critical database server and several low-risk servers to migrate. Following risk-based prioritization, when should the database server move?",
-   "zhStem": "Contoso 有一台关键任务数据库服务器和若干台低风险服务器需要迁移。按照基于风险的优先级排序，数据库服务器应在何时迁移？",
+   "stem": "What high-level migration plan considers business criticality, dependencies and migration groups, downtime constraints, migration risk, and readiness and required remediation?",
+   "zhStem": "什么样的高层迁移计划能兼顾业务关键性、依赖关系和迁移组、停机限制、迁移风险以及就绪度和所需修复？",
    "options": [
-    "First, because the most important server should move earliest",
-    "Alone on a weekend, before any dependency analysis",
-    "At any time, because risk does not affect migration order",
-    "Last, after the process is proven on less critical servers"
+    "Most critical server first, each server alone, no maintenance window",
+    "All servers at once, with blockers fixed after cutover",
+    "Random order, with DB-01 moved before its dependency analysis",
+    "Lowest risk first, dependent servers together, one window, blockers fixed first"
    ],
    "answer": 3,
-   "explain": "The database server should move last, because moving from lowest to highest risk proves the process on less critical servers first.",
-   "zhExplain": "数据库服务器应最后迁移，因为按从低到高的风险顺序迁移，可以先在不太关键的服务器上验证流程。"
+   "explain": "The plan moves from lowest to highest risk with dependent servers together, because the process is proven on less critical servers before DB-01, and blockers are fixed before each move.",
+   "zhExplain": "该计划从低风险到高风险推进，相互依赖的服务器一起迁移，因为流程要先在不太关键的服务器上验证后再迁移 DB-01，而阻碍因素要在每次迁移前修复。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "business criticality",
+       "业务关键性"
+      ],
+      [
+       "downtime constraints",
+       "停机限制"
+      ],
+      [
+       "required remediation",
+       "所需修复"
+      ]
+     ],
+     "verbs": [
+      [
+       "considers",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "兼顾",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "highest risk",
+       "高风险"
+      ],
+      [
+       "DB-01",
+       "DB-01"
+      ]
+     ],
+     "verbs": [
+      [
+       "moves",
+       0
+      ],
+      [
+       "is proven",
+       0
+      ],
+      [
+       "are fixed",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "推进",
+       0
+      ],
+      [
+       "验证",
+       0
+      ],
+      [
+       "修复",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso's plan is: build a new domain controller in Azure, move FILE-01, move the WEB/APP/DB group, then retire DC-01. Why does the new domain controller come first?",
-   "zhStem": "Contoso 的计划是：先在 Azure 中建一台新的域控制器，再迁移 FILE-01，然后迁移 WEB/APP/DB 组，最后停用 DC-01。为什么新的域控制器要排在第一步？",
+   "stem": "What order of the remaining workloads or groups would you propose, and why?",
+   "zhStem": "你会为其余工作负载或迁移组提出什么顺序？为什么？",
    "options": [
-    "Every other server needs it for sign-in and DNS",
-    "It is the largest server and takes the longest to copy",
-    "Azure requires a domain controller before any VM can be created",
-    "It has the most security blockers to fix"
+    "DB-01 first, then APP-01, WEB-01, FILE-01, and DC-01 last",
+    "New DC, then FILE-01, then WEB-01, APP-01, and DB-01 together, then retire DC-01",
+    "Retire DC-01 first, then move all other servers in one window",
+    "FILE-01 last, after group 1, because it is the oldest server"
    ],
-   "answer": 0,
-   "explain": "The new domain controller goes first, because every other server depends on it for sign-in and DNS once it runs in Azure.",
-   "zhExplain": "新的域控制器排在第一步，因为其他所有服务器在 Azure 中运行时都依赖它来登录和解析 DNS。"
+   "answer": 1,
+   "explain": "The new DC goes first and DC-01 is retired last, because every server needs sign-in and DNS, and group 1 waits until the SQL assessment of DB-01 is done.",
+   "zhExplain": "新的域控制器排在第一步，DC-01 最后退役，因为每台服务器都需要登录和 DNS，而迁移组 1 要等 DB-01 的 SQL 评估完成后再迁移。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "remaining workloads",
+       "其余工作负载"
+      ],
+      [
+       "why",
+       "为什么"
+      ]
+     ],
+     "verbs": [
+      [
+       "would you propose",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提出",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "new DC",
+       "新的域控制器"
+      ],
+      [
+       "group 1",
+       "迁移组 1"
+      ]
+     ],
+     "verbs": [
+      [
+       "goes",
+       0
+      ],
+      [
+       "is retired",
+       0
+      ],
+      [
+       "needs",
+       0
+      ],
+      [
+       "waits",
+       0
+      ],
+      [
+       "is done",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "排在",
+       0
+      ],
+      [
+       "退役",
+       0
+      ],
+      [
+       "需要",
+       0
+      ],
+      [
+       "等",
+       0
+      ],
+      [
+       "完成",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "During cutover, Contoso finds that APP-01 in Azure cannot reach DB-01, and the fix will not fit in the maintenance window. What should the team do?",
-   "zhStem": "在切换过程中，Contoso 发现 Azure 中的 APP-01 无法连接 DB-01，而修复工作在维护窗口内无法完成。团队应该怎么做？",
+   "stem": "What condition would trigger rollback, and what is the high-level recovery approach?",
+   "zhStem": "什么条件会触发回滚？高层恢复方法是什么？",
    "options": [
-    "Delete the original servers so users must use Azure",
-    "Keep Azure live and fix the problem next week",
-    "Point DNS back on-premises, restart the original servers, and stop the Azure VMs",
-    "Rebuild DB-01 from scratch in a different Azure region"
+    "A failed check fixable next week; keep Azure live",
+    "Any warning in the logs; delete the original servers",
+    "A failed check not fixable in the window; point DNS back and restart the originals",
+    "A slow sign-in; rebuild DB-01 in another region"
    ],
    "answer": 2,
-   "explain": "The team should roll back, because a failed check that cannot be fixed in the window is the trigger, and the original servers were shut down, not deleted.",
-   "zhExplain": "团队应该回滚，因为无法在维护窗口内修复的检查失败就是回滚的触发条件，而原服务器只是关机而没有删除。"
+   "explain": "A failed check that cannot be fixed in the window triggers rollback, because DNS can be pointed back and the original servers were shut down, not deleted.",
+   "zhExplain": "无法在维护窗口内修复的检查失败会触发回滚，因为 DNS 可以指回本地，而原服务器只是关机而没有删除。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "rollback",
+       "回滚"
+      ],
+      [
+       "recovery approach",
+       "恢复方法"
+      ]
+     ],
+     "verbs": [
+      [
+       "would trigger",
+       0
+      ],
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "会触发",
+       0
+      ],
+      [
+       "是",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "failed check",
+       "检查失败"
+      ],
+      [
+       "original servers",
+       "原服务器"
+      ]
+     ],
+     "verbs": [
+      [
+       "cannot be fixed",
+       0
+      ],
+      [
+       "triggers",
+       0
+      ],
+      [
+       "can be pointed back",
+       0
+      ],
+      [
+       "were shut down",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "修复",
+       0
+      ],
+      [
+       "会触发",
+       0
+      ],
+      [
+       "可以指回",
+       0
+      ],
+      [
+       "关机",
+       0
+      ]
+     ]
+    }
+   }
   },
   {
-   "stem": "Contoso wants to check that a replicated server boots and its application works in Azure, without affecting any users. What should the team use?",
-   "zhStem": "Contoso 想确认一台已复制的服务器能在 Azure 中启动且其应用正常运行，同时不影响任何用户。团队应该使用什么？",
+   "stem": "If you propose a pilot, how can it be tested without disrupting dependent production systems?",
+   "zhStem": "如果你提出试点，如何在不干扰依赖它的生产系统的情况下测试它？",
    "options": [
     "A full migration with the original server shut down",
     "An Azure Migrate test migration into an isolated Azure network",
@@ -233,7 +1431,1626 @@
    ],
    "answer": 1,
    "explain": "A test migration into an isolated network is correct, because it creates a copy while the original keeps running, so users and dependent systems are not affected.",
-   "zhExplain": "迁移到隔离网络的测试迁移是正确的，因为它在原服务器继续运行的同时创建一个副本，用户和依赖系统都不受影响。"
+   "zhExplain": "迁移到隔离网络的测试迁移是正确的，因为它创建一个副本，而原服务器继续运行，所以用户和依赖系统都不受影响。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "pilot",
+       "试点"
+      ],
+      [
+       "production systems",
+       "生产系统"
+      ]
+     ],
+     "verbs": [
+      [
+       "propose",
+       0
+      ],
+      [
+       "can it be tested",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提出",
+       0
+      ],
+      [
+       "测试",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "isolated network",
+       "隔离网络"
+      ],
+      [
+       "dependent systems",
+       "依赖系统"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "creates",
+       0
+      ],
+      [
+       "keeps running",
+       0
+      ],
+      [
+       "are not affected",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "创建",
+       0
+      ],
+      [
+       "继续运行",
+       0
+      ],
+      [
+       "不受影响",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "Which servers and workloads would you investigate?",
+   "zhStem": "你会调查哪些服务器和工作负载？",
+   "options": [
+    "Only WEB-01, because it is public-facing",
+    "Only DB-01, because it is mission-critical",
+    "All five, especially DB-01, FILE-01, and DC-01",
+    "Only servers already running in Azure"
+   ],
+   "answer": 2,
+   "explain": "Investigate all five servers with extra focus on DB-01, FILE-01, and DC-01, because they hold the unknown SQL version, the legacy OS, and the identity and DNS role.",
+   "zhExplain": "要调查全部五台服务器，并重点关注 DB-01、FILE-01 和 DC-01，因为它们分别涉及未知的 SQL 版本、过时的操作系统以及身份和 DNS 角色。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "servers",
+       "服务器"
+      ],
+      [
+       "workloads",
+       "工作负载"
+      ]
+     ],
+     "verbs": [
+      [
+       "would you investigate",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "会调查",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "all five servers",
+       "全部五台服务器"
+      ],
+      [
+       "legacy OS",
+       "过时的操作系统"
+      ]
+     ],
+     "verbs": [
+      [
+       "Investigate",
+       0
+      ],
+      [
+       "hold",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "调查",
+       0
+      ],
+      [
+       "涉及",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What additional information is needed from the organization to complete the assessment?",
+   "zhStem": "还需要组织提供哪些额外信息才能完成评估？",
+   "options": [
+    "The billing address of the Azure subscription",
+    "The OVA template version of the appliance",
+    "Office floor plans and desk numbers",
+    "Downtime limits, RPO/RTO, app versions and owners, and licenses"
+   ],
+   "answer": 3,
+   "explain": "The organization must supply downtime limits, RPO/RTO, application versions and owners, and licenses, because discovery cannot read business requirements or license agreements from the servers.",
+   "zhExplain": "组织必须提供停机限制、RPO/RTO、应用版本和负责人以及许可证信息，因为发现无法从服务器读取业务要求或许可协议。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "additional information",
+       "额外信息"
+      ],
+      [
+       "assessment",
+       "评估"
+      ]
+     ],
+     "verbs": [
+      [
+       "is needed",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "需要",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "downtime limits",
+       "停机限制"
+      ],
+      [
+       "business requirements",
+       "业务要求"
+      ]
+     ],
+     "verbs": [
+      [
+       "must supply",
+       0
+      ],
+      [
+       "cannot read",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "必须提供",
+       0
+      ],
+      [
+       "读取",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "Which dependencies can you identify between the servers?",
+   "zhStem": "你能识别出哪些依赖关系存在于这些服务器之间？",
+   "options": [
+    "APP-01 to DB-01, WEB-01 to APP-01, all to DC-01, users to FILE-01",
+    "DB-01 to WEB-01 only",
+    "None, because each server runs alone",
+    "DC-01 to FILE-01 only"
+   ],
+   "answer": 0,
+   "explain": "The servers form a chain from WEB-01 to APP-01 to DB-01 and all use DC-01 and FILE-01, because the inventory says APP-01 depends on DB-01 and the other links follow the stated assumptions.",
+   "zhExplain": "这些服务器构成 WEB-01 到 APP-01 到 DB-01 的链路，且都使用 DC-01 和 FILE-01，因为清单写明 APP-01 依赖 DB-01，其他连接则来自已声明的假设。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "dependencies",
+       "依赖关系"
+      ],
+      [
+       "servers",
+       "服务器"
+      ]
+     ],
+     "verbs": [
+      [
+       "can you identify",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "识别出",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "inventory",
+       "清单"
+      ],
+      [
+       "stated assumptions",
+       "已声明的假设"
+      ]
+     ],
+     "verbs": [
+      [
+       "form",
+       0
+      ],
+      [
+       "use",
+       0
+      ],
+      [
+       "says",
+       0
+      ],
+      [
+       "depends on",
+       0
+      ],
+      [
+       "follow",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "构成",
+       0
+      ],
+      [
+       "使用",
+       0
+      ],
+      [
+       "写明",
+       0
+      ],
+      [
+       "依赖",
+       0
+      ],
+      [
+       "来自",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "How do you clearly distinguish confirmed dependencies from assumed dependencies?",
+   "zhStem": "你如何清楚地区分已确认的依赖关系和假设的依赖关系？",
+   "options": [
+    "Confirmed ones are any you expect from the server roles",
+    "Confirmed ones are stated in the inventory; the rest stay assumed until validated",
+    "All dependencies count as confirmed once the diagram is drawn",
+    "Assumed ones are those Azure Migrate has already measured"
+   ],
+   "answer": 1,
+   "explain": "Only APP-01 to DB-01 and users to WEB-01 are confirmed, because the inventory states them, while every other link stays assumed until dependency analysis validates it.",
+   "zhExplain": "只有 APP-01 到 DB-01 和用户到 WEB-01 是已确认的，因为清单写明了它们，其他连接在依赖分析验证之前都只是假设。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "confirmed dependencies",
+       "已确认的依赖关系"
+      ],
+      [
+       "assumed dependencies",
+       "假设的依赖关系"
+      ]
+     ],
+     "verbs": [
+      [
+       "distinguish",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "区分",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "confirmed",
+       "已确认"
+      ],
+      [
+       "dependency analysis",
+       "依赖分析"
+      ]
+     ],
+     "verbs": [
+      [
+       "are confirmed",
+       0
+      ],
+      [
+       "states",
+       0
+      ],
+      [
+       "stays",
+       0
+      ],
+      [
+       "validates",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "写明",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "验证",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What should a simple dependency diagram include?",
+   "zhStem": "一张简单的依赖关系图应包含什么？",
+   "options": [
+    "Only the VM sizes and monthly costs",
+    "Only server names in alphabetical order",
+    "Resource group names and tags",
+    "Servers, solid confirmed links, dotted assumed links, and the migration group"
+   ],
+   "answer": 3,
+   "explain": "It shows the servers, confirmed and assumed links, and the migration group, because readers must see what is certain and what moves together.",
+   "zhExplain": "它显示服务器、已确认和假设的连接以及迁移组，因为读者必须看清哪些是确定的、哪些要一起迁移。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "simple",
+       "简单"
+      ],
+      [
+       "dependency diagram",
+       "依赖关系图"
+      ]
+     ],
+     "verbs": [
+      [
+       "include",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "包含",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "migration group",
+       "迁移组"
+      ],
+      [
+       "moves together",
+       "一起迁移"
+      ]
+     ],
+     "verbs": [
+      [
+       "shows",
+       0
+      ],
+      [
+       "must see",
+       0
+      ],
+      [
+       "is",
+       0
+      ],
+      [
+       "moves",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "显示",
+       0
+      ],
+      [
+       "必须看清",
+       0
+      ],
+      [
+       "是",
+       0
+      ],
+      [
+       "迁移",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What is the Readiness Category of WEB-01?",
+   "zhStem": "就绪类别中，WEB-01 属于哪一类？",
+   "options": [
+    "Not Ready, because Windows Server 2019 is out of support",
+    "Conditionally Ready, because it needs a secure endpoint, certificate, and DNS change",
+    "Ready, because a newer OS guarantees readiness",
+    "Insufficient Information, because IIS cannot run on Azure"
+   ],
+   "answer": 1,
+   "explain": "WEB-01 is Conditionally Ready, because Windows Server 2019 and IIS run on Azure VMs but the public-facing site still needs a secure endpoint, certificate, and DNS change.",
+   "zhExplain": "WEB-01 属于有条件就绪（Conditionally Ready），因为 Windows Server 2019 和 IIS 可以在 Azure VM 上运行，但面向公网的站点仍需要安全端点、证书和 DNS 更改。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Readiness Category",
+       "就绪类别"
+      ],
+      [
+       "WEB-01",
+       "WEB-01"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "Conditionally Ready",
+       "Conditionally Ready"
+      ],
+      [
+       "DNS change",
+       "DNS 更改"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "run",
+       0
+      ],
+      [
+       "needs",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ],
+      [
+       "运行",
+       0
+      ],
+      [
+       "需要",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What is the Readiness Category of APP-01?",
+   "zhStem": "就绪类别中，APP-01 属于哪一类？",
+   "options": [
+    "Ready, because it has no dependencies",
+    "Not Ready, because Windows Server 2016 is already out of support",
+    "Insufficient Information, because its OS is unknown",
+    "Conditionally Ready, because it must move with DB-01 and needs vendor support confirmed"
+   ],
+   "answer": 3,
+   "explain": "APP-01 is Conditionally Ready, because Windows Server 2016 is supported until January 2027 but it must move with DB-01 and its vendor support is unconfirmed.",
+   "zhExplain": "APP-01 属于有条件就绪（Conditionally Ready），因为 Windows Server 2016 支持到 2027 年 1 月，但它必须与 DB-01 一起迁移，且其厂商支持尚未确认。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Readiness Category",
+       "就绪类别"
+      ],
+      [
+       "APP-01",
+       "APP-01"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "January 2027",
+       "2027 年 1 月"
+      ],
+      [
+       "vendor support",
+       "厂商支持"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "is supported",
+       0
+      ],
+      [
+       "must move",
+       0
+      ],
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ],
+      [
+       "支持到",
+       0
+      ],
+      [
+       "必须",
+       0
+      ],
+      [
+       "尚未确认",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What is the Readiness Category of DB-01?",
+   "zhStem": "就绪类别中，DB-01 属于哪一类？",
+   "options": [
+    "Insufficient Information, because the SQL Server version is unknown",
+    "Ready, because SQL Server always runs on Azure VMs",
+    "Not Ready, because mission-critical servers cannot migrate",
+    "Conditionally Ready, because it needs only a DNS change"
+   ],
+   "answer": 0,
+   "explain": "DB-01 is Insufficient Information, because without the SQL Server version its support status and size cannot be judged.",
+   "zhExplain": "DB-01 属于信息不足（Insufficient Information），因为不知道 SQL Server 版本，就无法判断其支持状态和规格。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Readiness Category",
+       "就绪类别"
+      ],
+      [
+       "DB-01",
+       "DB-01"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "SQL Server version",
+       "SQL Server 版本"
+      ],
+      [
+       "support status",
+       "支持状态"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "cannot be judged",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ],
+      [
+       "无法判断",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "How would you justify your classification of DC-01 using the scenario and clearly stated assumptions?",
+   "zhStem": "你会如何依据场景和明确陈述的假设，来说明对 DC-01 的分类理由？",
+   "options": [
+    "Not Ready, because AD DS cannot run on Azure VMs",
+    "Ready, because Windows Server 2019 guarantees readiness",
+    "Conditionally Ready, because AD DS runs on Azure but a lone DC is a single point of failure",
+    "Insufficient Information, because its OS version is unknown"
+   ],
+   "answer": 2,
+   "explain": "DC-01 is Conditionally Ready, because AD DS runs on Azure VMs but, under assumption A4, it is the only DC and a single point of failure.",
+   "zhExplain": "DC-01 属于有条件就绪（Conditionally Ready），因为 AD DS 可以在 Azure VM 上运行，但按假设 A4 它是唯一的域控制器，存在单点故障。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "scenario",
+       "场景"
+      ],
+      [
+       "clearly stated assumptions",
+       "明确陈述的假设"
+      ]
+     ],
+     "verbs": [
+      [
+       "would you justify",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "说明",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "AD DS",
+       "AD DS"
+      ],
+      [
+       "single point of failure",
+       "单点故障"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ],
+      [
+       "runs",
+       0
+      ],
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "属于",
+       0
+      ],
+      [
+       "运行",
+       0
+      ],
+      [
+       "是",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What information is needed to confirm your judgment of DB-01?",
+   "zhStem": "需要哪些信息来确认你对 DB-01 的判断？",
+   "options": [
+    "The number of users on WEB-01",
+    "SQL Server version, database size, IOPS, and RPO/RTO",
+    "The host name of the appliance only",
+    "The rack position of the server"
+   ],
+   "answer": 1,
+   "explain": "The SQL Server version, database size, IOPS, and RPO/RTO are needed, because they decide support status, VM and disk size, and how much downtime DB-01 can take.",
+   "zhExplain": "需要 SQL Server 版本、数据库大小、IOPS 和 RPO/RTO，因为它们决定支持状态、VM 和磁盘规格以及 DB-01 能承受多少停机。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "information",
+       "信息"
+      ],
+      [
+       "judgment",
+       "判断"
+      ]
+     ],
+     "verbs": [
+      [
+       "is needed",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "需要",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "database size",
+       "数据库大小"
+      ],
+      [
+       "downtime",
+       "停机"
+      ]
+     ],
+     "verbs": [
+      [
+       "are needed",
+       0
+      ],
+      [
+       "decide",
+       0
+      ],
+      [
+       "can take",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "需要",
+       0
+      ],
+      [
+       "决定",
+       0
+      ],
+      [
+       "能承受",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What remediation or further assessment would you propose for FILE-01?",
+   "zhStem": "你会提出什么修复或进一步评估来处理 FILE-01？",
+   "options": [
+    "Leave it on-premises with no changes",
+    "Move it as-is and skip security patches",
+    "Upgrade the OS during migration, tested first",
+    "Delete it before discovery starts"
+   ],
+   "answer": 2,
+   "explain": "Upgrade the OS during migration, because Azure Migrate supports upgrading Windows Server 2012 R2 to 2016 or 2019, and a test migration proves it first.",
+   "zhExplain": "应在迁移时升级操作系统，因为 Azure Migrate 支持将 Windows Server 2012 R2 升级到 2016 或 2019，测试迁移可以先验证这一点。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "remediation",
+       "修复"
+      ],
+      [
+       "FILE-01",
+       "FILE-01"
+      ]
+     ],
+     "verbs": [
+      [
+       "would you propose",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "提出",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "OS",
+       "操作系统"
+      ],
+      [
+       "test migration",
+       "测试迁移"
+      ]
+     ],
+     "verbs": [
+      [
+       "Upgrade",
+       0
+      ],
+      [
+       "supports",
+       0
+      ],
+      [
+       "proves",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "升级",
+       0
+      ],
+      [
+       "支持",
+       0
+      ],
+      [
+       "验证",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What should you consider for each server?",
+   "zhStem": "你应考虑每台服务器的哪些方面？",
+   "options": [
+    "Only the OS version",
+    "Only the monthly cost",
+    "Technical compatibility, app requirements, security, OS support, and dependencies",
+    "Only the physical location of the server"
+   ],
+   "answer": 2,
+   "explain": "Consider all five factors, because an older OS alone does not prove migration is impossible and a newer OS alone does not guarantee readiness.",
+   "zhExplain": "要综合考虑这五个因素，因为较旧的操作系统本身并不能证明无法迁移，较新的操作系统本身也不能保证就绪。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "consider",
+       "考虑"
+      ],
+      [
+       "each server",
+       "每台服务器"
+      ]
+     ],
+     "verbs": [
+      [
+       "consider",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "考虑",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "older OS",
+       "较旧的操作系统"
+      ],
+      [
+       "newer OS",
+       "较新的操作系统"
+      ]
+     ],
+     "verbs": [
+      [
+       "Consider",
+       0
+      ],
+      [
+       "does not prove",
+       0
+      ],
+      [
+       "is",
+       0
+      ],
+      [
+       "does not guarantee",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "考虑",
+       0
+      ],
+      [
+       "不能证明",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "不能保证",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "Does an older operating system alone prove that migration is impossible?",
+   "zhStem": "仅凭较旧的操作系统，能证明无法迁移吗？",
+   "options": [
+    "Yes, any OS older than 2016 cannot run on Azure",
+    "No, it is a risk to assess, and an upgrade during migration may resolve it",
+    "Yes, Azure Migrate cannot discover older systems",
+    "No, because older systems never need remediation"
+   ],
+   "answer": 1,
+   "explain": "An older OS alone does not prove migration is impossible, because support status, Extended Security Updates, and an OS upgrade during migration all change the outcome.",
+   "zhExplain": "仅凭较旧的操作系统并不能证明无法迁移，因为支持状态、扩展安全更新以及迁移时的操作系统升级都会改变结果。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "older operating system",
+       "较旧的操作系统"
+      ],
+      [
+       "impossible",
+       "无法迁移"
+      ]
+     ],
+     "verbs": [
+      [
+       "prove",
+       0
+      ],
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "证明",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "older OS",
+       "较旧的操作系统"
+      ],
+      [
+       "OS upgrade",
+       "操作系统升级"
+      ]
+     ],
+     "verbs": [
+      [
+       "does not prove",
+       0
+      ],
+      [
+       "is",
+       0
+      ],
+      [
+       "change",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "不能证明",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "改变",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What configuration and utilization data is needed to recommend appropriate Azure VM sizes?",
+   "zhStem": "需要哪些配置和利用率数据，才能推荐合适的 Azure VM 规格？",
+   "options": [
+    "Only server names and roles",
+    "Only the Windows Server edition",
+    "Only the number of users",
+    "vCPU, RAM, disks, CPU and memory use, and disk IOPS and throughput"
+   ],
+   "answer": 3,
+   "explain": "Sizing needs configuration plus average and peak utilization, because Azure Migrate matches the actual CPU, memory, and disk load of each server to a VM size and disk type.",
+   "zhExplain": "确定规格需要配置以及平均和峰值利用率，因为 Azure Migrate 会把每台服务器实际的 CPU、内存和磁盘负载匹配到 VM 规格和磁盘类型。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "configuration",
+       "配置"
+      ],
+      [
+       "utilization data",
+       "利用率数据"
+      ],
+      [
+       "Azure VM sizes",
+       "Azure VM 规格"
+      ]
+     ],
+     "verbs": [
+      [
+       "is needed",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "需要",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "peak utilization",
+       "峰值利用率"
+      ],
+      [
+       "disk type",
+       "磁盘类型"
+      ]
+     ],
+     "verbs": [
+      [
+       "needs",
+       0
+      ],
+      [
+       "matches",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "需要",
+       0
+      ],
+      [
+       "匹配到",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "Why is the provided inventory insufficient to produce reliable estimates?",
+   "zhStem": "为什么现有清单不足以得出可靠的估算？",
+   "options": [
+    "It lists too many servers for Azure Migrate",
+    "It has no CPU, memory, disk, or usage data, nor the SQL Server version",
+    "It uses server names that Azure does not accept",
+    "It includes a domain controller, which cannot be priced"
+   ],
+   "answer": 1,
+   "explain": "Any size or price now would be a guess, because the inventory has no CPU, memory, disk, or usage data and not even the SQL Server version.",
+   "zhExplain": "现在给出的任何规格或价格都只是猜测，因为清单没有 CPU、内存、磁盘或使用数据，甚至没有 SQL Server 版本。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "provided inventory",
+       "现有清单"
+      ],
+      [
+       "reliable estimates",
+       "可靠的估算"
+      ]
+     ],
+     "verbs": [
+      [
+       "is",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "不足以",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "guess",
+       "猜测"
+      ],
+      [
+       "SQL Server version",
+       "SQL Server 版本"
+      ]
+     ],
+     "verbs": [
+      [
+       "would be",
+       0
+      ],
+      [
+       "has",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "是",
+       0
+      ],
+      [
+       "没有",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What prerequisites are needed before migrating production workloads?",
+   "zhStem": "需要先具备哪些前提条件，才能迁移生产工作负载？",
+   "options": [
+    "Azure network, VPN, finished assessment, RPO/RTO, backups, and maintenance windows",
+    "Deleting the on-premises servers",
+    "Buying new on-premises hardware",
+    "Turning off dependency analysis"
+   ],
+   "answer": 0,
+   "explain": "The Azure network, VPN, finished assessment, agreed RPO/RTO, backups, and maintenance windows must be in place, because production servers can only move safely once the landing zone and a way back exist.",
+   "zhExplain": "Azure 网络、VPN、完成的评估、商定的 RPO/RTO、备份和维护窗口都必须到位，因为生产服务器只有在目标环境和回退手段都存在后才能安全迁移。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "prerequisites",
+       "前提条件"
+      ],
+      [
+       "production workloads",
+       "生产工作负载"
+      ]
+     ],
+     "verbs": [
+      [
+       "are needed",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "需要",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "VPN",
+       "VPN"
+      ],
+      [
+       "production servers",
+       "生产服务器"
+      ]
+     ],
+     "verbs": [
+      [
+       "must be",
+       0
+      ],
+      [
+       "can only move",
+       0
+      ],
+      [
+       "exist",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "必须到位",
+       0
+      ],
+      [
+       "才能安全迁移",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "What would you migrate or test first and why?",
+   "zhStem": "你会先迁移或测试什么？为什么？",
+   "options": [
+    "DB-01, because the most critical server should go first",
+    "DC-01, lifted and shifted as a normal server",
+    "All five servers in one weekend",
+    "A test migration of FILE-01 with its OS upgrade"
+   ],
+   "answer": 3,
+   "explain": "A test migration of FILE-01 comes first, because it is outside the application group and its 2012 R2 upgrade must be proven early.",
+   "zhExplain": "先对 FILE-01 做测试迁移，因为它不属于应用组，而且它的 2012 R2 升级必须尽早验证。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "migrate or test first",
+       "先迁移或测试"
+      ],
+      [
+       "why",
+       "为什么"
+      ]
+     ],
+     "verbs": [
+      [
+       "would you migrate",
+       0
+      ],
+      [
+       "test",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "迁移",
+       0
+      ],
+      [
+       "测试",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "FILE-01",
+       "FILE-01"
+      ],
+      [
+       "application group",
+       "应用组"
+      ]
+     ],
+     "verbs": [
+      [
+       "comes",
+       0
+      ],
+      [
+       "is",
+       0
+      ],
+      [
+       "must be proven",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "做",
+       0
+      ],
+      [
+       "不属于",
+       0
+      ],
+      [
+       "必须尽早验证",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "How would you confirm that migrated services work correctly?",
+   "zhStem": "你会如何确认迁移后的服务正常工作？",
+   "options": [
+    "Check domain join, DNS, the HTTPS site, APP-01 to DB-01, data, and file shares",
+    "Check that the Azure bill was issued",
+    "Confirm only that the VMs appear in the portal",
+    "Wait one month for user complaints"
+   ],
+   "answer": 0,
+   "explain": "Validate each service end to end, because a VM that boots can still fail at sign-in, DNS, the website, the database connection, or the file shares.",
+   "zhExplain": "要端到端验证每项服务，因为能启动的 VM 仍可能在登录、DNS、网站、数据库连接或文件共享上出错。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "migrated services",
+       "迁移后的服务"
+      ],
+      [
+       "correctly",
+       "正常"
+      ]
+     ],
+     "verbs": [
+      [
+       "would you confirm",
+       0
+      ],
+      [
+       "work",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "确认",
+       0
+      ],
+      [
+       "工作",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "end to end",
+       "端到端"
+      ],
+      [
+       "database connection",
+       "数据库连接"
+      ]
+     ],
+     "verbs": [
+      [
+       "Validate",
+       0
+      ],
+      [
+       "boots",
+       0
+      ],
+      [
+       "can still fail",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "验证",
+       0
+      ],
+      [
+       "启动",
+       0
+      ],
+      [
+       "出错",
+       0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "stem": "Should you present assumed dependencies, readiness results, VM sizes, or costs as confirmed findings?",
+   "zhStem": "你应该把假设的依赖关系、就绪结果、VM 规格或成本当作已确认的结论来呈现吗？",
+   "options": [
+    "Yes, if they look reasonable",
+    "Yes, because the inventory is complete",
+    "No, but only because Azure Migrate forbids it",
+    "No, label them as assumptions to validate"
+   ],
+   "answer": 3,
+   "explain": "No, they must be labeled as assumptions, because the inventory is incomplete and only discovery and assessment can confirm them.",
+   "zhExplain": "不应该，它们必须标为假设，因为清单不完整，只有发现和评估才能确认它们。",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "assumed dependencies",
+       "假设的依赖关系"
+      ],
+      [
+       "confirmed findings",
+       "已确认的结论"
+      ]
+     ],
+     "verbs": [
+      [
+       "present",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "呈现",
+       0
+      ]
+     ]
+    },
+    "explain": {
+     "keys": [
+      [
+       "assumptions",
+       "假设"
+      ],
+      [
+       "inventory",
+       "清单"
+      ]
+     ],
+     "verbs": [
+      [
+       "must be labeled",
+       0
+      ],
+      [
+       "is",
+       0
+      ],
+      [
+       "can confirm",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "必须标为",
+       0
+      ],
+      [
+       "",
+       0
+      ],
+      [
+       "确认",
+       0
+      ]
+     ]
+    }
+   }
   }
  ]
 }

@@ -2,8 +2,46 @@
  "title": "Week 6 lecture quiz",
  "questions": [
   {
-   "stem": "Contoso runs an old ASP.NET intranet site on a Windows Server machine. Before migrating, the team needs to name the Microsoft web server software that hosts the site and processes its requests through modules that can be added or removed. What is it?",
-   "zhStem": "Contoso 在一台 Windows Server 机器上运行一个旧的 ASP.NET 内网网站。迁移前，团队需要说出托管该网站、并通过可增减的模块处理其请求的 Microsoft 网站服务器软件。它是什么？",
+   "stem": "Which Microsoft web server on Windows Server hosts ASP.NET sites using modules you can add or remove?",
+   "zhStem": "哪个 Windows Server 上的 Microsoft Web 服务器托管 ASP.NET 网站，并使用可增删的模块？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "Microsoft web server",
+       "Microsoft Web 服务器"
+      ],
+      [
+       "ASP.NET sites",
+       "ASP.NET 网站"
+      ],
+      [
+       "modules",
+       "模块"
+      ]
+     ],
+     "verbs": [
+      [
+       "hosts",
+       0
+      ],
+      [
+       "can add or remove",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "托管",
+       0
+      ],
+      [
+       "可增删",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Hybrid Connection Manager",
     "SQL Server",
@@ -46,8 +84,42 @@
    ]
   },
   {
-   "stem": "Contoso wants to move its web app to Azure without managing any virtual machines. Microsoft should take care of the operating system updates, load balancing and scaling. Which service should the team choose?",
-   "zhStem": "Contoso 想把它的 Web 应用迁移到 Azure，而且不想管理任何虚拟机。操作系统更新、负载均衡和扩缩应由 Microsoft 负责。团队应选择哪项服务？",
+   "stem": "Which service hosts web apps without managing VMs, with Microsoft handling OS updates, load balancing and scaling?",
+   "zhStem": "哪个服务托管 Web 应用而无需管理虚拟机，由 Microsoft 负责操作系统更新、负载均衡和扩缩？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "web apps",
+       "Web 应用"
+      ],
+      [
+       "VMs",
+       "虚拟机"
+      ],
+      [
+       "OS updates",
+       "操作系统更新"
+      ],
+      [
+       "load balancing",
+       "负载均衡"
+      ]
+     ],
+     "verbs": [
+      [
+       "hosts",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "托管",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure VMware Solution (AVS)",
     "Azure Cosmos DB",
@@ -106,8 +178,50 @@
    ]
   },
   {
-   "stem": "Fabrikam's web app on App Service gets sudden traffic spikes during sales. The administrator wants instances added automatically when traffic passes a set threshold, but never more than ten instances. Which feature should be configured?",
-   "zhStem": "Fabrikam 在 App Service 上的 Web 应用在促销期间会突然出现流量高峰。管理员希望流量超过设定阈值时自动增加实例，但实例数永远不超过十个。应配置哪项功能？",
+   "stem": "Which App Service feature adds instances when traffic passes a threshold, up to a set maximum?",
+   "zhStem": "哪个 App Service 功能在流量超过阈值时增加实例，直到设定的上限？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "App Service feature",
+       "App Service 功能"
+      ],
+      [
+       "traffic",
+       "流量"
+      ],
+      [
+       "threshold",
+       "阈值"
+      ],
+      [
+       "set maximum",
+       "设定的上限"
+      ]
+     ],
+     "verbs": [
+      [
+       "adds",
+       0
+      ],
+      [
+       "passes",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "增加",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "App Service diagnostics",
     "autoscale",
@@ -150,8 +264,42 @@
    ]
   },
   {
-   "stem": "Contoso's DevOps team wants to put a new version of its web app into a live staging environment and run integration tests there before it becomes the production version. Which App Service feature should they use?",
-   "zhStem": "Contoso 的 DevOps 团队想把 Web 应用的新版本放到一个在线的预发布环境中，并在它成为生产版本之前在那里运行集成测试。他们应使用哪项 App Service 功能？",
+   "stem": "Which App Service feature lets you test a new version in a live staging environment before production?",
+   "zhStem": "哪个 App Service 功能让你在上线生产前，先在实时预发布环境中测试新版本？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "App Service feature",
+       "App Service 功能"
+      ],
+      [
+       "live staging environment",
+       "实时预发布环境"
+      ]
+     ],
+     "verbs": [
+      [
+       "lets",
+       0
+      ],
+      [
+       "test",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "让",
+       0
+      ],
+      [
+       "测试",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "autoscale",
     "location tag",
@@ -194,8 +342,46 @@
    ]
   },
   {
-   "stem": "After migration, Contoso's web app starts returning errors. A support engineer wants to answer a few guided questions in the portal and get a full report specific to that type of problem. Which tool should the engineer use?",
-   "zhStem": "迁移后，Contoso 的 Web 应用开始返回错误。一名支持工程师想在门户中回答几个引导式问题，并得到一份针对该类问题的完整报告。这名工程师应使用哪个工具？",
+   "stem": "Which App Service tool asks a few guided questions and produces a report for the app's problem type?",
+   "zhStem": "哪个 App Service 工具通过几个引导问题，生成针对应用问题类型的报告？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "App Service tool",
+       "App Service 工具"
+      ],
+      [
+       "guided questions",
+       "引导问题"
+      ],
+      [
+       "report",
+       "报告"
+      ]
+     ],
+     "verbs": [
+      [
+       "asks",
+       0
+      ],
+      [
+       "produces",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "",
+       0
+      ],
+      [
+       "生成",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "App Service Migration Assistant",
     "Data Migration Assistant (DMA)",
@@ -246,8 +432,50 @@
    ]
   },
   {
-   "stem": "Contoso wants a guided, wizard-style tool that first checks whether a web site on its on-premises IIS server is compatible with App Service and then moves that site there. Which tool fits?",
-   "zhStem": "Contoso 想要一个引导式、向导风格的工具，先检查其本地 IIS 服务器上的某个网站是否与 App Service 兼容，然后把该网站迁移过去。哪个工具合适？",
+   "stem": "Which wizard-style tool checks an IIS web site for App Service compatibility and then moves it?",
+   "zhStem": "哪个向导式工具检查 IIS 网站与 App Service 的兼容性，然后把它迁移过去？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "wizard-style tool",
+       "向导式工具"
+      ],
+      [
+       "IIS web site",
+       "IIS 网站"
+      ],
+      [
+       "App Service",
+       "App Service"
+      ],
+      [
+       "compatibility",
+       "兼容性"
+      ]
+     ],
+     "verbs": [
+      [
+       "checks",
+       0
+      ],
+      [
+       "moves",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "检查",
+       0
+      ],
+      [
+       "迁移过去",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Data Migration Assistant (DMA)",
     "App Service Migration Assistant",
@@ -298,8 +526,42 @@
    ]
   },
   {
-   "stem": "Contoso's IIS server hosts twelve web apps, and their settings are kept together in one server-level configuration file instead of a separate web.config file for each app. The assessment warns about this. Which IIS setting is it flagging?",
-   "zhStem": "Contoso 的 IIS 服务器托管了十二个 Web 应用，它们的设置集中保存在一个服务器级配置文件中，而不是每个应用各有一个 web.config 文件。评估对此发出了警告。它标记的是哪项 IIS 设置？",
+   "stem": "Which IIS setting keeps all web apps' configuration in one server-level file instead of separate web.config files?",
+   "zhStem": "哪个 IIS 设置把所有 Web 应用的配置放在一个服务器级文件中，而不是各自的 web.config 文件？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "IIS setting",
+       "IIS 设置"
+      ],
+      [
+       "configuration",
+       "配置"
+      ],
+      [
+       "server-level file",
+       "服务器级文件"
+      ],
+      [
+       "web.config files",
+       "web.config 文件"
+      ]
+     ],
+     "verbs": [
+      [
+       "keeps",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "放在",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "hybrid connection",
     "deployment slots",
@@ -342,8 +604,46 @@
    ]
   },
   {
-   "stem": "A legacy Contoso site does its logging and security checks in a native component that sees every incoming request before the ASP.NET application handles it. The assessment flags this component. What is it?",
-   "zhStem": "Contoso 的一个旧网站在一个原生组件中做日志记录和安全检查，该组件会在 ASP.NET 应用处理之前看到每个传入请求。评估标记了这个组件。它是什么？",
+   "stem": "In IIS, which native component sees every request before the ASP.NET application handles it?",
+   "zhStem": "在 IIS 中，哪个本机组件会在 ASP.NET 应用处理之前看到每个请求？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "IIS",
+       "IIS"
+      ],
+      [
+       "native component",
+       "本机组件"
+      ],
+      [
+       "ASP.NET application",
+       "ASP.NET 应用"
+      ]
+     ],
+     "verbs": [
+      [
+       "sees",
+       0
+      ],
+      [
+       "handles",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "看到",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "location tag",
     "hybrid connection",
@@ -390,8 +690,50 @@
    ]
   },
   {
-   "stem": "Before migrating its web app, Contoso must decide on the set of compute resources, such as the machine size and number of instances, that the app will run on in App Service. What does the team choose?",
-   "zhStem": "在迁移 Web 应用之前，Contoso 必须决定该应用在 App Service 中运行所用的一组计算资源，例如机器大小和实例数量。团队选择的是什么？",
+   "stem": "In App Service, what defines the compute resources, such as machine size and instance count, a web app runs on?",
+   "zhStem": "在 App Service 中，什么定义了 Web 应用运行所用的计算资源，例如机器大小和实例数量？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "App Service",
+       "App Service"
+      ],
+      [
+       "compute resources",
+       "计算资源"
+      ],
+      [
+       "machine size",
+       "机器大小"
+      ],
+      [
+       "instance count",
+       "实例数量"
+      ]
+     ],
+     "verbs": [
+      [
+       "defines",
+       0
+      ],
+      [
+       "runs on",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "定义了",
+       0
+      ],
+      [
+       "运行",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "deployment slots",
     "subscription",
@@ -430,8 +772,42 @@
    ]
   },
   {
-   "stem": "After moving its web app to App Service, Contoso's app still has to reach a database that stays in the on-premises network, and that network only allows outbound calls to Azure on port 443. Which App Service feature lets the app reach the database?",
-   "zhStem": "把 Web 应用迁移到 App Service 后，Contoso 的应用仍需访问留在本地网络中的数据库，而该网络只允许通过 443 端口向 Azure 发起出站调用。哪项 App Service 功能能让应用访问该数据库？",
+   "stem": "Which App Service feature reaches an on-premises database when the network allows only outbound calls on port 443?",
+   "zhStem": "当本地网络只允许通过 443 端口向外调用时，App Service 的哪项功能能访问本地数据库？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "App Service",
+       "App Service"
+      ],
+      [
+       "on-premises database",
+       "本地数据库"
+      ]
+     ],
+     "verbs": [
+      [
+       "reaches",
+       0
+      ],
+      [
+       "allows",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "能访问",
+       0
+      ],
+      [
+       "",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "deployment slots",
     "location tag",
@@ -470,8 +846,38 @@
    ]
   },
   {
-   "stem": "To finish the setup, Contoso installs a component on a server inside its datacenter so the cloud web app can talk through Azure Service Bus Relay to the on-premises database endpoint. Which component did the team install?",
-   "zhStem": "为完成设置，Contoso 在其数据中心内的一台服务器上安装了一个组件，使云端 Web 应用能通过 Azure Service Bus Relay 与本地数据库端点通信。团队安装的是哪个组件？",
+   "stem": "Which on-premises component links an App Service web app through Service Bus Relay to an on-premises database?",
+   "zhStem": "哪个本地组件通过 Service Bus Relay 把 App Service Web 应用连接到本地数据库？",
+   "marks": {
+    "stem": {
+     "keys": [
+      [
+       "on-premises component",
+       "本地组件"
+      ],
+      [
+       "Service Bus Relay",
+       "Service Bus Relay"
+      ],
+      [
+       "on-premises database",
+       "本地数据库"
+      ]
+     ],
+     "verbs": [
+      [
+       "links",
+       0
+      ]
+     ],
+     "zhVerbs": [
+      [
+       "连接到",
+       0
+      ]
+     ]
+    }
+   },
    "options": [
     "Azure Migrate appliance",
     "Hybrid Connection Manager",

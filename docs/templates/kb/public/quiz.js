@@ -3,6 +3,7 @@
 // stem is a scenario and zhStem its Chinese; definition is the answer's official English definition and zh its Chinese,
 // keys their key words as [English, Chinese] pairs in the same order on both sides, verbs and zhVerbs their verb phrases.
 // A lab question has "explain" and "zhExplain" (one line each) instead of definition, zh, keys and verbs.
+// "marks" holds the same kind of marks for the stem (and a lab explanation): { stem: { keys, verbs, zhVerbs }, explain }.
 // Click an option to check it: the right option turns green (a wrong pick red), then the question in Chinese and the
 // definition in both languages show, each key word coloured the same on both sides (kb.css .kb-key) and the verb
 // phrases underlined (marks.js).
@@ -25,9 +26,19 @@ const LETTERS = 'ABCDEFGH'
 // Key word n of the stem and of the translation share a colour; a key word blanked out of the stem is skipped
 const keySpan = (n) => el('span', { class: 'kb-key', 'data-key': (n % 4) + 1 })
 
+// Key words and verb phrases of an English text (lang 0) or its Chinese (lang 1); m = { keys, verbs, zhVerbs }
+function marked(tag, attrs, text, m, lang) {
+  const e = el(tag, { ...attrs, text })
+  if (!m) return e
+  markPhrases(e, (m.keys || []).map((k) => k[lang]), keySpan)
+  markVerbs(e, (lang ? m.zhVerbs : m.verbs) || [])
+  return e
+}
+
 // After answering: a lab question's one-line explanation, or the term's definition in English and Chinese, marked
 function explanation(q) {
-  if (q.explain) return [el('p', { text: q.explain }), el('p', { text: q.zhExplain })]
+  const m = q.marks?.explain
+  if (q.explain) return [marked('p', {}, q.explain, m, 0), marked('p', {}, q.zhExplain, m, 1)]
   const en = el('p', {}, el('strong', { text: q.options[q.answer] }), el('span', { text: `: ${q.definition}` }))
   markPhrases(en.lastChild, (q.keys || []).map((k) => k[0]), keySpan)
   markVerbs(en.lastChild, q.verbs || [])
@@ -48,7 +59,7 @@ function render(box, data, src) {
   const list = el('ol', { class: 'kb-quiz-list' })
   qs.forEach((q, i) => {
     const id = `kb-quiz-q${i + 1}`
-    const stem = el('p', { class: 'kb-quiz-stem', id, text: q.stem })
+    const stem = marked('p', { class: 'kb-quiz-stem', id }, q.stem, q.marks?.stem, 0)
     const opts = el('ul', { class: 'kb-quiz-options', role: 'list', 'aria-labelledby': id })
     const result = el('div', { class: 'kb-quiz-result', hidden: true, 'aria-live': 'polite' })
     const buttons = q.options.map((o, j) => {
@@ -63,7 +74,7 @@ function render(box, data, src) {
           else if (k === j) x.classList.add('is-wrong')
         })
         result.className = `kb-quiz-result ${right ? 'is-correct' : 'is-wrong'}`
-        result.replaceChildren(el('p', { class: 'kb-quiz-zhstem', text: q.zhStem }), ...explanation(q))
+        result.replaceChildren(marked('p', { class: 'kb-quiz-zhstem' }, q.zhStem, q.marks?.stem, 1), ...explanation(q))
         result.hidden = false
         showScore()
       })

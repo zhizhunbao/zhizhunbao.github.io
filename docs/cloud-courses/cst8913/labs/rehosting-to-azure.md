@@ -22,7 +22,7 @@ Lab 5 of CST8913 Cloud Migration (week 5): state the business drivers and the mi
 
 ## 1. Business drivers
 
-### Why did the organization move to the cloud?
+#### Why did the organization move to the cloud?
 
 1. **Aging on-premises infrastructure (F1, F2).** Over 400 servers and 200 applications built up over 45 years were costly to modernize, and the old technology made it hard to hire and keep IT staff.
 2. **State legislation (F3).** The 2021 law encouraged agencies to use the cloud for efficiency, resiliency, better customer experience, and stronger cybersecurity.
@@ -31,7 +31,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 ## 2. Rehost (lift and shift)
 
-### Why was rehosting (lift and shift) the right strategy?
+#### Why was rehosting (lift and shift) the right strategy?
 
 - **Speed (F4).** Changing 200 applications one by one could not finish in nine months. Rehosting moves VMs without code changes.
 - **No disruption (F4, F5).** Azure VMware Solution runs the same VMware stack, so VMs move without conversion, applications run unchanged, and the IT team keeps using the tools it knows.
@@ -42,7 +42,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 ## 3. Rehost or replatform
 
-### How does rehosting differ from replatforming?
+#### How does rehosting differ from replatforming?
 
 - **Rehosting** moves the VM as is: same operating system, same application, same configuration. Only where it runs changes.
 - **Replatforming** makes small changes during the move so the workload can use a managed platform, without rewriting it. For example, a SQL Server database moves from a VM to Azure SQL Managed Instance, or an application moves into containers.
@@ -52,13 +52,13 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 ## 4. Azure VMware Solution
 
-### What does the target architecture for moving VMware to Azure VMware Solution look like?
+#### What does the target architecture for moving VMware to Azure VMware Solution look like?
 
 ![Migration from on-premises VMware to Azure VMware Solution: application, database, AD DS/DNS VMs and vCenter run in the on-premises vSphere datacenter; an ExpressRoute circuit with Global Reach links it privately to an Azure VMware Solution private cloud (vCenter Server, NSX and vSAN on dedicated bare-metal hosts); HCX Connector on premises and HCX Cloud Manager in Azure migrate the VMs in waves (a pilot of about 10 VMs, then about 75 per wave) and extend networks so VMs keep their IPs; the private cloud connects to an Azure virtual network with Azure Monitor and Azure Backup; dashed outlines mark assumed components](media/lab5-diagrams-avs-migration.png)
 
 Explained in [10. What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md).
 
-### What do vCenter, ESXi, HCX, ExpressRoute Global Reach, NSX and vSAN do in that architecture?
+#### What do vCenter, ESXi, HCX, ExpressRoute Global Reach, NSX and vSAN do in that architecture?
 
 | Term | Meaning |
 |---|---|
@@ -80,7 +80,7 @@ Explained in [10. What is Azure VMware Solution?](../lectures/what-is-azure-vmwa
 
 ## 5. Migration phases
 
-### What are the phases of a rehost migration?
+#### What are the phases of a rehost migration?
 
 1. **Prepare.** Deploy the Azure VMware Solution private cloud, ExpressRoute with Global Reach, and HCX (A3, A4). Record a baseline of each application's response time and resource use on premises.
 2. **Discover and group.** Map dependencies and build migration waves (see Q3.2).
@@ -92,7 +92,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 ## 6. Migration waves
 
-### How do you group dependent workloads into migration waves?
+#### How do you group dependent workloads into migration waves?
 
 - Use Azure Migrate dependency analysis plus application-owner interviews to see which VMs talk to each other.
 - Put an application and everything it calls, such as its web, application, and database VMs, in the same wave, so no wave leaves a dependency on the other side of the link.
@@ -103,7 +103,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 ## 7. Test migration
 
-### How do you test a migration wave before, at and after cutover?
+#### How do you test a migration wave before, at and after cutover?
 
 - **Before cutover:** run a test migration into an isolated network segment in the private cloud, so production keeps running while the copy is checked.
 - **At cutover, check:**
@@ -117,7 +117,7 @@ Explained in [9. Overview of application migration examples for Azure](../lectur
 
 ## 8. Cutover
 
-### After cutover, how do you decide whether to proceed or roll back?
+#### After cutover, how do you decide whether to proceed or roll back?
 
 - **Proceed** to the next wave when all of these are true:
   - All smoke tests and owner sign-offs pass.

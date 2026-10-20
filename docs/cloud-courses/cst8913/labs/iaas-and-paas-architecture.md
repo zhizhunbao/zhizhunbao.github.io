@@ -20,7 +20,7 @@ Lab 3 of CST8913 Cloud Migration (week 3): design the same application once on I
 
 ## 1. IaaS
 
-### How would you deploy a three-tier web application on IaaS?
+#### How would you deploy a three-tier web application on IaaS?
 
 ![IaaS target architecture: a public IP on the active HAProxy VM receives HTTPS requests and spreads them across two Nginx web VMs, which forward /api requests to an internal HAProxy load balancer and on to two Flask VMs; the Flask VMs use a PostgreSQL primary VM that replicates to a standby; jumpbox, monitoring, NAT, and backup VMs sit in a management subnet; every tier has its own subnet and two VMs in different availability zones](media/lab3-diagrams-iaas-architecture.png)
 
@@ -30,7 +30,7 @@ Explained in [4. Describe cloud service types](../lectures/describe-cloud-servic
 
 ## 2. Shared responsibility
 
-### On IaaS, what do you manage yourself and what does the cloud provider supply?
+#### On IaaS, what do you manage yourself and what does the cloud provider supply?
 
 Every piece of software runs on virtual machines that we build and maintain; Azure provides only the VMs, their disks, and the network.
 
@@ -38,7 +38,7 @@ Explained in [3. Describe cloud computing](../lectures/describe-cloud-computing.
 
 ## 3. VNet, subnets, NSGs and load balancers
 
-### How are the virtual network, subnets, network security groups and load balancers used in the IaaS design?
+#### How are the virtual network, subnets, network security groups and load balancers used in the IaaS design?
 
 | Component | Role |
 |---|---|
@@ -51,7 +51,7 @@ Explained in [7. Windows N-tier application on Azure](../lectures/windows-n-tier
 
 ## 4. Availability zone
 
-### How does the design use availability zones?
+#### How does the design use availability zones?
 
 Following the lecture's N-tier reference architecture, each tier has its own subnet and two VMs in different availability zones.
 
@@ -59,7 +59,7 @@ Explained in [7. Windows N-tier application on Azure](../lectures/windows-n-tier
 
 ## 5. PaaS
 
-### How would you deploy the same application on PaaS?
+#### How would you deploy the same application on PaaS?
 
 ![PaaS target architecture: the browser sends every request to Azure Static Web Apps, which serves the React files and forwards /api requests to App Service, whose built-in load balancer spreads them across two instances in different zones; App Service reads a secret from Key Vault, sends telemetry to Application Insights, and reaches PostgreSQL Flexible Server in a private subnet through VNet integration; an administrator manages the services through the Azure portal or CLI](media/lab3-diagrams-paas-architecture.png)
 
@@ -67,7 +67,7 @@ Each tier is replaced by a managed Azure service, so Azure runs the servers, pat
 
 Explained in [4. Describe cloud service types](../lectures/describe-cloud-service-types.md).
 
-### Which managed services replace each tier in the PaaS design?
+#### Which managed services replace each tier in the PaaS design?
 
 | Component | Role |
 |---|---|
@@ -83,7 +83,7 @@ Explained in [4. Describe cloud service types](../lectures/describe-cloud-servic
 
 ## 6. IaaS or PaaS
 
-### How do IaaS and PaaS differ in control and operations work, and when would you choose PaaS?
+#### How do IaaS and PaaS differ in control and operations work, and when would you choose PaaS?
 
 | | IaaS | PaaS |
 |---|---|---|
