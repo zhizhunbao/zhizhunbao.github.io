@@ -6,7 +6,7 @@ ms.date: 2026-10-19
 
 # Windows N-tier application on Azure
 
-Study notes on [Azure Architecture Center (retired October 2023)](https://github.com/MicrosoftDocs/architecture-center/blob/b739942a2cf3c49b448970e9dc5c0783cc028dca/docs/reference-architectures/n-tier/n-tier-sql-server-content.md), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 3. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The verb of each sentence has a red wavy underline, in the English and in the Chinese.
+Study notes on [Azure Architecture Center (retired October 2023)](https://github.com/MicrosoftDocs/architecture-center/blob/b739942a2cf3c49b448970e9dc5c0783cc028dca/docs/reference-architectures/n-tier/n-tier-sql-server-content.md), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 3. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The main verb of each sentence has a red wavy underline, in the English and in the Chinese.
 
 ## [Architecture](https://github.com/MicrosoftDocs/architecture-center/blob/b739942a2cf3c49b448970e9dc5c0783cc028dca/docs/reference-architectures/n-tier/n-tier-sql-server-content.md#architecture)
 

@@ -16,7 +16,8 @@ export function find(text, ph, from) {
 // make(index) returns the span for phrase `index`, or null to leave it unmarked (it still moves the search on);
 // a phrase not found (or empty) is skipped and the search goes on.
 // skips[index] whole-word matches are passed over first (a word that also occurs earlier in a subordinate clause).
-export function markPhrases(root, phrases, make, skips = []) {
+// A phrase that touches an element matching `avoid` is found (it still moves the search on) but left unmarked.
+export function markPhrases(root, phrases, make, skips = [], avoid = null) {
   const text = root.textContent
   const ranges = []
   let at = 0
@@ -36,6 +37,7 @@ export function markPhrases(root, phrases, make, skips = []) {
       if (pos + len > start && pos < end) nodes.push([node, Math.max(0, start - pos), Math.min(len, end - pos)])
       pos += len
     }
+    if (avoid && nodes.some(([node]) => node.parentElement?.closest(avoid))) continue
     for (const [node, a, b] of nodes) {
       const mid = a > 0 ? node.splitText(a) : node
       if (b - a < mid.data.length) mid.splitText(b - a)
@@ -53,8 +55,8 @@ const verbMark = () => {
   return s
 }
 
-// The verb phrases (谓语, 动词词组) of a definition or of its translation: [[phrase, skip], ...] in order, "" for none;
-// red wavy underline (user, 2026-10-20)
+// The main-clause predicate (谓语) of each sentence of a definition or of its translation: [[phrase, skip], ...] in
+// order, "" for none; a thin, light red wavy underline, never on a key word (user, 2026-10-20: less cluttered)
 export function markVerbs(root, verbs) {
-  markPhrases(root, verbs.map((v) => v[0]), verbMark, verbs.map((v) => v[1] || 0))
+  markPhrases(root, verbs.map((v) => v[0]), verbMark, verbs.map((v) => v[1] || 0), '.kb-key, .kb-terms td strong')
 }
