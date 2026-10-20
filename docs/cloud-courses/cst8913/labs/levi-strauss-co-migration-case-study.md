@@ -8,6 +8,8 @@ ms.date: 2026-10-19
 
 Lab 2 of CST8913 Cloud Migration (week 2): explain why a company moves to the cloud, choose a migration approach per workload, and decide who is responsible for what. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
+![Overview of lab 2: motivations, discovery questions, stakeholders and RACI matrix, the five Rs and the migration schedule, with decision criteria (informed by cloud models and service types) feeding the five Rs](media/lab-2.png)
+
 ## Concepts to understand
 
 1. [motivations](#1-motivations)

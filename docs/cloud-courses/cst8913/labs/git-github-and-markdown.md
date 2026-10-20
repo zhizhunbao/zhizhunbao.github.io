@@ -8,6 +8,8 @@ ms.date: 2026-10-19
 
 Lab 1 of CST8913 Cloud Migration (week 1): create a private repository, work on a branch, commit, push, open a pull request and write Markdown. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
+![Overview of lab 1: a branch, then the working tree, the staging area and a commit in Git; a push, a pull request and a merge on GitHub; a fork can also open a pull request](media/lab-1.png)
+
 ## Concepts to understand
 
 1. [Git and GitHub](#1-git-and-github)
