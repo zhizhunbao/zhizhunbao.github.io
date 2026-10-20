@@ -47,22 +47,14 @@ export function markPhrases(root, phrases, make, skips = []) {
   }
 }
 
-const verbBox = () => {
+const verbMark = () => {
   const s = document.createElement('span')
-  s.className = 'kb-role kb-role-V'
+  s.className = 'kb-role-V'
   return s
 }
 
-// Sentence trunk of an English definition: [["S" | "V" | "O", phrase, skip?], ...] in order. Only the verb (谓语) is
-// boxed (user, 2026-10-20); subject and object stay in the data and only keep the search in place.
-export function markGrammar(root, roles) {
-  markPhrases(root, roles.map((r) => r[1]), (n) => {
-    if (roles[n][0] !== 'V') return null
-    return verbBox()
-  }, roles.map((r) => r[2] || 0))
-}
-
-// The same verbs in the Chinese translation: [[phrase, skip], ...], one per English verb ("" when it has none)
+// The verb phrases (谓语, 动词词组) of a definition or of its translation: [[phrase, skip], ...] in order, "" for none;
+// red wavy underline (user, 2026-10-20)
 export function markVerbs(root, verbs) {
-  markPhrases(root, verbs.map((v) => v[0]), verbBox, verbs.map((v) => v[1] || 0))
+  markPhrases(root, verbs.map((v) => v[0]), verbMark, verbs.map((v) => v[1] || 0))
 }

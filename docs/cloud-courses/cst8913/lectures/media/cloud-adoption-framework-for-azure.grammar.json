@@ -1,29 +1,13 @@
 {
  "Cloud Adoption Framework (CAF)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Microsoft Cloud Adoption Framework (CAF)"
+    "helps",
+    0
    ],
    [
-    "V",
-    "helps"
-   ],
-   [
-    "O",
-    "decision makers"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "provides"
-   ],
-   [
-    "O",
-    "proven guidance"
+    "provides",
+    0
    ]
   ],
   "zhVerbs": [
@@ -38,22 +22,14 @@
   ]
  },
  "Strategy": {
-  "roles": [
+  "verbs": [
    [
-    "O",
-    "What"
+    "should",
+    0
    ],
    [
-    "V",
-    "should"
-   ],
-   [
-    "S",
-    "our Azure adoption"
-   ],
-   [
-    "V",
-    "look like"
+    "look like",
+    0
    ]
   ],
   "zhVerbs": [
@@ -68,30 +44,14 @@
   ]
  },
  "Plan": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Successful cloud adoption"
+    "requires",
+    0
    ],
    [
-    "V",
-    "requires"
-   ],
-   [
-    "O",
-    "a cloud adoption plan"
-   ],
-   [
-    "S",
-    "A cloud adoption plan"
-   ],
-   [
-    "V",
-    "converts"
-   ],
-   [
-    "O",
-    "your cloud strategy"
+    "converts",
+    0
    ]
   ],
   "zhVerbs": [
@@ -106,18 +66,10 @@
   ]
  },
  "Ready": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Ready phase"
-   ],
-   [
-    "V",
-    "helps"
-   ],
-   [
-    "O",
-    "you"
+    "helps",
+    0
    ]
   ],
   "zhVerbs": [
@@ -128,22 +80,14 @@
   ]
  },
  "CAF Adopt phase": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "will"
+    "will",
+    0
    ],
    [
-    "S",
-    "we"
-   ],
-   [
-    "V",
-    "migrate, modernize, and build"
-   ],
-   [
-    "O",
-    "workloads"
+    "migrate, modernize, and build",
+    0
    ]
   ],
   "zhVerbs": [
@@ -158,42 +102,18 @@
   ]
  },
  "Migrate (CAF)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Migration"
+    "changes",
+    0
    ],
    [
-    "V",
-    "changes"
+    "changes",
+    0
    ],
    [
-    "O",
-    "where or how a workload runs"
-   ],
-   [
-    "S",
-    "Modernization"
-   ],
-   [
-    "V",
-    "changes"
-   ],
-   [
-    "O",
-    "the workload"
-   ],
-   [
-    "S",
-    "An initiative"
-   ],
-   [
-    "V",
-    "can do"
-   ],
-   [
-    "O",
-    "both"
+    "can do",
+    0
    ]
   ],
   "zhVerbs": [
@@ -212,30 +132,14 @@
   ]
  },
  "Modernize": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Modernization"
+    "improves",
+    0
    ],
    [
-    "V",
-    "improves"
-   ],
-   [
-    "O",
-    "an existing workload or workload component"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "can change"
-   ],
-   [
-    "O",
-    "different parts"
+    "can change",
+    0
    ]
   ],
   "zhVerbs": [
@@ -250,30 +154,14 @@
   ]
  },
  "Innovate": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A cloud-native solution"
+    "creates",
+    0
    ],
    [
-    "V",
-    "creates"
-   ],
-   [
-    "O",
-    "business value"
-   ],
-   [
-    "S",
-    "cloud-native development"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a journey"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -288,30 +176,14 @@
   ]
  },
  "Govern": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Cloud governance"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "how an organization controls its use of cloud services"
-   ],
-   [
-    "S",
-    "These guardrails"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "a set"
+    "are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -326,18 +198,10 @@
   ]
  },
  "CAF Secure phase": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Cloud Adoption Framework for Azure Secure methodology"
-   ],
-   [
-    "V",
-    "provides"
-   ],
-   [
-    "O",
-    "a structured approach"
+    "provides",
+    0
    ]
   ],
   "zhVerbs": [
@@ -348,56 +212,24 @@
   ]
  },
  "Manage": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Managing your Azure environment"
-   ],
-   [
-    "V",
-    "isn't"
-   ],
-   [
-    "O",
-    "about keeping the lights on"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "'s"
-   ],
-   [
-    "O",
-    "about maintaining governance and security"
+    "isn't just about",
+    0
    ]
   ],
   "zhVerbs": [
    [
     "不仅仅是",
     0
-   ],
-   [
-    "关乎",
-    0
    ]
   ]
  },
  "Azure Architecture Center": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Azure Architecture Center"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a catalog"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -408,34 +240,18 @@
   ]
  },
  "Azure Well-Architected Framework": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Azure Well-Architected Framework"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
+    "Be",
+    0
    ],
    [
-    "O",
-    "a design framework"
-   ],
-   [
-    "V",
-    "Be"
-   ],
-   [
-    "O",
-    "resilient, available, and recoverable"
-   ],
-   [
-    "V",
-    "Be"
-   ],
-   [
-    "O",
-    "as secure"
+    "Be",
+    0
    ]
   ],
   "zhVerbs": [
@@ -454,38 +270,18 @@
   ]
  },
  "cloud adoption strategy": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A cloud adoption strategy"
+    "directs",
+    0
    ],
    [
-    "V",
-    "directs"
+    "connects",
+    0
    ],
    [
-    "O",
-    "how your business adopts cloud technology"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "connects"
-   ],
-   [
-    "O",
-    "executive intent"
-   ],
-   [
-    "V",
-    "sets"
-   ],
-   [
-    "O",
-    "the standards"
+    "sets",
+    0
    ]
   ],
   "zhVerbs": [
@@ -504,26 +300,14 @@
   ]
  },
  "motivation": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Various motivations"
+    "can drive",
+    0
    ],
    [
-    "V",
-    "can drive"
-   ],
-   [
-    "O",
-    "business transformations"
-   ],
-   [
-    "S",
-    "Several motivations"
-   ],
-   [
-    "V",
-    "apply"
+    "apply",
+    0
    ]
   ],
   "zhVerbs": [
@@ -538,40 +322,14 @@
   ]
  },
  "critical business event": {
-  "roles": [
-   [
-    "S",
-    "it"
-   ],
-   [
-    "V",
-    "'s"
-   ],
-   [
-    "O",
-    "important"
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "是",
-    0
-   ]
-  ]
+  "verbs": [],
+  "zhVerbs": []
  },
  "migration motivation": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The migration motivations"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "the most common reasons"
+    "are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -582,42 +340,14 @@
   ]
  },
  "innovation motivation": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Data"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the new commodity"
-   ],
-   [
-    "S",
-    "modern applications"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "the supply chain"
-   ],
-   [
-    "S",
-    "it"
-   ],
-   [
-    "V",
-    "'s"
-   ],
-   [
-    "O",
-    "hard"
+    "are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -628,22 +358,14 @@
    [
     "是",
     0
-   ],
-   [
-    "很难",
-    0
    ]
   ]
  },
  "business outcome": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "This article series"
-   ],
-   [
-    "V",
-    "is designed"
+    "is designed to",
+    0
    ]
   ],
   "zhVerbs": [
@@ -654,18 +376,10 @@
   ]
  },
  "fiscal outcome": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Financial or fiscal performance"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the cleanest business outcome"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -676,35 +390,19 @@
   ]
  },
  "agility outcome": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Today's fast-changing business environment"
+    "places a premium on",
+    0
    ],
    [
-    "V",
-    "places"
-   ],
-   [
-    "O",
-    "a premium"
-   ],
-   [
-    "S",
-    "The ability"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the fundamental measure"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
    [
-    "重视",
+    "非常重视",
     0
    ],
    [
@@ -714,14 +412,10 @@
   ]
  },
  "reach outcome": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "global reach"
-   ],
-   [
-    "V",
-    "can be measured"
+    "can be measured by",
+    0
    ]
   ],
   "zhVerbs": [
@@ -732,30 +426,14 @@
   ]
  },
  "customer engagement outcome": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Social marketplaces"
+    "are redefining",
+    0
    ],
    [
-    "V",
-    "are redefining"
-   ],
-   [
-    "O",
-    "winners and losers"
-   ],
-   [
-    "S",
-    "Responding to user needs"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a key measure"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -770,31 +448,19 @@
   ]
  },
  "performance outcome": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Performance and reliability"
+    "are assumed",
+    0
    ],
    [
-    "V",
-    "are assumed"
-   ],
-   [
-    "S",
-    "reputation damage"
-   ],
-   [
-    "V",
-    "can be"
-   ],
-   [
-    "O",
-    "painful and long-lasting"
+    "can be",
+    0
    ]
   ],
   "zhVerbs": [
    [
-    "被视为",
+    "被视为理所当然",
     0
    ],
    [
@@ -804,14 +470,10 @@
   ]
  },
  "sustainability outcome": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Environmental sustainability"
-   ],
-   [
-    "V",
-    "is quickly moving"
+    "is quickly moving from",
+    0
    ]
   ],
   "zhVerbs": [
@@ -822,22 +484,14 @@
   ]
  },
  "financial considerations": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A digital transformation"
+    "goes hand-in-hand with",
+    0
    ],
    [
-    "V",
-    "goes"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "S",
-    "financial considerations"
+    "there are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -852,14 +506,10 @@
   ]
  },
  "technical considerations": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "are"
-   ],
-   [
-    "S",
-    "technical considerations"
+    "there are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -870,18 +520,10 @@
   ]
  },
  "scalability": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Scalability"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "one"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -892,56 +534,14 @@
   ]
  },
  "high availability": {
-  "roles": [
-   [
-    "S",
-    "it"
-   ],
-   [
-    "V",
-    "'s"
-   ],
-   [
-    "O",
-    "more costly"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "'s"
-   ],
-   [
-    "O",
-    "less costly"
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "更高",
-    0
-   ],
-   [
-    "更低",
-    0
-   ]
-  ]
+  "verbs": [],
+  "zhVerbs": []
  },
  "security and compliance": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Microsoft"
-   ],
-   [
-    "V",
-    "is continually expanding"
-   ],
-   [
-    "O",
-    "our security infrastructure and toolsets"
+    "is continually expanding",
+    0
    ]
   ],
   "zhVerbs": [
@@ -952,18 +552,10 @@
   ]
  },
  "capacity optimization": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Capacity optimization"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "another technical benefit"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -974,30 +566,14 @@
   ]
  },
  "business case": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A business case"
+    "provides",
+    0
    ],
    [
-    "V",
-    "provides"
-   ],
-   [
-    "O",
-    "a view"
-   ],
-   [
-    "S",
-    "Developing a business case"
-   ],
-   [
-    "V",
-    "includes"
-   ],
-   [
-    "O",
-    "building a financial plan"
+    "includes",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1012,22 +588,14 @@
   ]
  },
  "adoption horizons": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "it"
+    "suggested",
+    0
    ],
    [
-    "V",
-    "'s suggested"
-   ],
-   [
-    "S",
-    "the company"
-   ],
-   [
-    "V",
-    "commits"
+    "commits to",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1042,14 +610,10 @@
   ]
  },
  "Horizon 1 migration and modernization": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Prioritize"
-   ],
-   [
-    "O",
-    "the datacenter exit"
+    "Prioritize",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1060,14 +624,10 @@
   ]
  },
  "Horizon 2 operation modernization": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Prioritize"
-   ],
-   [
-    "O",
-    "operational improvements"
+    "Prioritize",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1078,18 +638,10 @@
   ]
  },
  "Horizon 3 advanced modernization": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "the team"
-   ],
-   [
-    "V",
-    "will have"
-   ],
-   [
-    "O",
-    "sufficient data and cloud skills"
+    "will have",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1100,14 +652,10 @@
   ]
  },
  "Horizon 4 innovation and growth": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Redirect"
-   ],
-   [
-    "O",
-    "capital reduction"
+    "Redirect",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1118,18 +666,10 @@
   ]
  },
  "cloud rationalization": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Cloud rationalization"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the process"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1140,18 +680,10 @@
   ]
  },
  "Rehost": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "a rehost effort"
-   ],
-   [
-    "V",
-    "moves"
-   ],
-   [
-    "O",
-    "a current state asset"
+    "moves",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1162,26 +694,14 @@
   ]
  },
  "lift and shift": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "You"
+    "set up",
+    0
    ],
    [
-    "V",
-    "set up"
-   ],
-   [
-    "O",
-    "cloud resources"
-   ],
-   [
-    "V",
-    "move"
-   ],
-   [
-    "O",
-    "your workloads"
+    "move",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1196,73 +716,32 @@
   ]
  },
  "Refactor": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Platform as a service (PaaS) options"
-   ],
-   [
-    "V",
-    "can reduce"
-   ],
-   [
-    "O",
-    "the operational costs"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "'s"
-   ],
-   [
-    "O",
-    "a good idea"
+    "can reduce",
+    0
    ]
   ],
   "zhVerbs": [
    [
     "可以降低",
     0
-   ],
-   [
-    "是",
-    0
    ]
   ]
  },
  "Rearchitect": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Some aging applications"
+    "aren't compatible with",
+    0
    ],
    [
-    "V",
-    "aren't"
+    "is because of",
+    0
    ],
    [
-    "O",
-    "compatible"
-   ],
-   [
-    "S",
-    "This incompatibility"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "S",
-    "the application",
-    1
-   ],
-   [
-    "V",
-    "might need to be rearchitected"
+    "might need to be rearchitected",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1271,7 +750,7 @@
     0
    ],
    [
-    "是",
+    "是由于",
     0
    ],
    [
@@ -1281,26 +760,14 @@
   ]
  },
  "Rebuild": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "the delta"
+    "can be",
+    0
    ],
    [
-    "V",
-    "can be"
-   ],
-   [
-    "O",
-    "too large"
-   ],
-   [
-    "V",
-    "create"
-   ],
-   [
-    "O",
-    "a new code base"
+    "create",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1315,18 +782,10 @@
   ]
  },
  "cloud-native": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Cloud-native architecture and technologies"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "an approach"
+    "are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1337,26 +796,14 @@
   ]
  },
  "Replace": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "software as a service (SaaS) applications"
+    "can provide",
+    0
    ],
    [
-    "V",
-    "can provide"
-   ],
-   [
-    "O",
-    "all the necessary functionality"
-   ],
-   [
-    "S",
-    "a workload"
-   ],
-   [
-    "V",
-    "can be scheduled"
+    "can be scheduled for",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1365,24 +812,16 @@
     0
    ],
    [
-    "安排",
+    "安排在",
     0
    ]
   ]
  },
  "business goal": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Business goals"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "high-level outcomes"
+    "are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1393,14 +832,10 @@
   ]
  },
  "business driver": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A business driver"
-   ],
-   [
-    "V",
-    "defines"
+    "defines",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1411,14 +846,10 @@
   ]
  },
  "migration strategy": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A migration strategy"
-   ],
-   [
-    "V",
-    "defines"
+    "defines",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1429,18 +860,10 @@
   ]
  },
  "Retire": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Retire"
-   ],
-   [
-    "V",
-    "decommissions"
-   ],
-   [
-    "O",
-    "workloads"
+    "decommissions",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1451,18 +874,10 @@
   ]
  },
  "Replatform": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Replatforming"
-   ],
-   [
-    "V",
-    "moves"
-   ],
-   [
-    "O",
-    "workloads"
+    "moves",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1473,18 +888,10 @@
   ]
  },
  "Retain": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A retain strategy"
-   ],
-   [
-    "V",
-    "keeps"
-   ],
-   [
-    "O",
-    "workloads"
+    "keeps",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1495,14 +902,10 @@
   ]
  },
  "RACI matrix": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Align"
-   ],
-   [
-    "O",
-    "responsibilities"
+    "Align",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1513,80 +916,44 @@
   ]
  },
  "Responsible": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "Accountable": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "Consulted": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "Informed": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "central IT team": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "the cloud governance team"
-   ],
-   [
-    "V",
-    "might struggle"
-   ],
-   [
-    "S",
-    "it"
-   ],
-   [
-    "V",
-    "'s"
-   ],
-   [
-    "O",
-    "common"
+    "might struggle to keep pace with",
+    0
    ]
   ],
   "zhVerbs": [
    [
-    "可能难以",
-    0
-   ],
-   [
-    "通常会",
+    "可能难以跟上",
     0
    ]
   ]
  },
  "cloud center of excellence (CCoE)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "a cloud center of excellence"
+    "aligns",
+    0
    ],
    [
-    "V",
-    "aligns"
-   ],
-   [
-    "O",
-    "teams"
-   ],
-   [
-    "S",
-    "This approach"
-   ],
-   [
-    "V",
-    "provides"
-   ],
-   [
-    "O",
-    "centralized IT functions"
+    "provides",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1601,18 +968,10 @@
   ]
  },
  "solution delivery": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Cloud adoption functions"
-   ],
-   [
-    "V",
-    "enable"
-   ],
-   [
-    "O",
-    "the implementation"
+    "enable",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1623,14 +982,10 @@
   ]
  },
  "platform operations": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Operate and manage"
-   ],
-   [
-    "O",
-    "the cloud platform"
+    "Operate and manage",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1641,30 +996,14 @@
   ]
  },
  "cloud adoption team": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The nucleus"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the cloud adoption team"
-   ],
-   [
-    "S",
-    "This team"
-   ],
-   [
-    "V",
-    "drives"
-   ],
-   [
-    "O",
-    "the technical changes"
+    "drives",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1679,26 +1018,14 @@
   ]
  },
  "cloud governance team": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "a cloud governance team"
+    "is dedicated to",
+    0
    ],
    [
-    "V",
-    "is dedicated"
-   ],
-   [
-    "S",
-    "The cloud governance team"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "accountable"
+    "is accountable for",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1713,18 +1040,10 @@
   ]
  },
  "landing zone": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "An Azure landing zone"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a proven and flexible architecture"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1735,42 +1054,22 @@
   ]
  },
  "platform landing zone": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "management group hierarchy": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The management group hierarchy"
+    "provides",
+    0
    ],
    [
-    "V",
-    "provides"
+    "organizes",
+    0
    ],
    [
-    "O",
-    "the governance structure"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "organizes"
-   ],
-   [
-    "O",
-    "all of your Azure subscriptions"
-   ],
-   [
-    "V",
-    "applies"
-   ],
-   [
-    "O",
-    "governance standards"
+    "applies",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1789,34 +1088,18 @@
   ]
  },
  "workload landing zone": {
-  "roles": [],
+  "verbs": [],
   "zhVerbs": []
  },
  "subscription": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "subscriptions"
+    "are",
+    0
    ],
    [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "a unit"
-   ],
-   [
-    "S",
-    "Subscriptions"
-   ],
-   [
-    "V",
-    "let"
-   ],
-   [
-    "O",
-    "you"
+    "let",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1831,36 +1114,24 @@
   ]
  },
  "management": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "This design area"
-   ],
-   [
-    "V",
-    "establishes"
-   ],
-   [
-    "O",
-    "a foundation"
+    "establishes a foundation for",
+    0
    ]
   ],
   "zhVerbs": [
    [
-    "奠定",
+    "奠定基础",
     0
    ]
   ]
  },
  "governance": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Use"
-   ],
-   [
-    "O",
-    "Azure governance"
+    "Use",
+    0
    ]
   ],
   "zhVerbs": [
@@ -1871,18 +1142,10 @@
   ]
  },
  "accelerator": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Microsoft-provided accelerators"
-   ],
-   [
-    "V",
-    "use"
-   ],
-   [
-    "O",
-    "infrastructure as code"
+    "use",
+    0
    ]
   ],
   "zhVerbs": [

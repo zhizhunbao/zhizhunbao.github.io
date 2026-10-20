@@ -1,29 +1,13 @@
 {
  "cloud computing": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Cloud computing"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the delivery"
-   ],
-   [
-    "S",
-    "Computing services"
-   ],
-   [
-    "V",
-    "include"
-   ],
-   [
-    "O",
-    "common IT infrastructure"
+    "include",
+    0
    ]
   ],
   "zhVerbs": [
@@ -38,26 +22,14 @@
   ]
  },
  "datacenter": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The physical infrastructure"
+    "starts with",
+    0
    ],
    [
-    "V",
-    "starts"
-   ],
-   [
-    "S",
-    "These datacenters"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "facilities"
+    "are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -72,14 +44,10 @@
   ]
  },
  "shared responsibility model": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "these responsibilities"
-   ],
-   [
-    "V",
-    "get shared"
+    "get shared between",
+    0
    ]
   ],
   "zhVerbs": [
@@ -90,40 +58,14 @@
   ]
  },
  "on-premises": {
-  "roles": [
-   [
-    "S",
-    "you"
-   ],
-   [
-    "V",
-    "’re"
-   ],
-   [
-    "O",
-    "responsible"
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "负责",
-    0
-   ]
-  ]
+  "verbs": [],
+  "zhVerbs": []
  },
  "cloud provider": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Physical security, power, cooling, and network connectivity"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "the responsibility"
+    "are the responsibility of",
+    0
    ]
   ],
   "zhVerbs": [
@@ -134,26 +76,14 @@
   ]
  },
  "public cloud": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A public cloud"
+    "is built, controlled, and maintained",
+    0
    ],
    [
-    "V",
-    "is built, controlled, and maintained"
-   ],
-   [
-    "S",
-    "anyone"
-   ],
-   [
-    "V",
-    "can access and use"
-   ],
-   [
-    "O",
-    "resources"
+    "can access and use",
+    0
    ]
   ],
   "zhVerbs": [
@@ -168,40 +98,14 @@
   ]
  },
  "private cloud": {
-  "roles": [
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "’s"
-   ],
-   [
-    "O",
-    "a cloud"
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "是",
-    0
-   ]
-  ]
+  "verbs": [],
+  "zhVerbs": []
  },
  "hybrid cloud": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A hybrid cloud"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a computing environment"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -212,18 +116,10 @@
   ]
  },
  "multi-cloud": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "you"
-   ],
-   [
-    "V",
-    "use"
-   ],
-   [
-    "O",
-    "multiple public cloud providers"
+    "use",
+    0
    ]
   ],
   "zhVerbs": [
@@ -234,18 +130,10 @@
   ]
  },
  "capital expenditure (CapEx)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "CapEx"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a one-time, up-front expenditure"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -256,18 +144,10 @@
   ]
  },
  "operational expenditure (OpEx)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "OpEx"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "spending money"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -278,18 +158,10 @@
   ]
  },
  "consumption-based model": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Cloud computing"
-   ],
-   [
-    "V",
-    "falls under"
-   ],
-   [
-    "O",
-    "OpEx"
+    "falls under",
+    0
    ]
   ],
   "zhVerbs": [
@@ -300,26 +172,14 @@
   ]
  },
  "pay-as-you-go pricing model": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Cloud computing"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the delivery"
-   ],
-   [
-    "S",
-    "You"
-   ],
-   [
-    "V",
-    "pay"
+    "pay only for",
+    0
    ]
   ],
   "zhVerbs": [

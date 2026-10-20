@@ -1,29 +1,17 @@
 {
  "replication": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "a VM snapshot"
+    "is created",
+    0
    ],
    [
-    "V",
-    "is created"
+    "is replicated to",
+    0
    ],
    [
-    "S",
-    "Disk data"
-   ],
-   [
-    "V",
-    "is replicated"
-   ],
-   [
-    "S",
-    "delta replication"
-   ],
-   [
-    "V",
-    "begins"
+    "begins",
+    0
    ]
   ],
   "zhVerbs": [
@@ -32,7 +20,7 @@
     0
    ],
    [
-    "复制",
+    "复制到",
     0
    ],
    [
@@ -42,18 +30,10 @@
   ]
  },
  "test migration": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Test migration"
-   ],
-   [
-    "V",
-    "simulates"
-   ],
-   [
-    "O",
-    "the migration"
+    "simulates",
+    0
    ]
   ],
   "zhVerbs": [
@@ -64,38 +44,18 @@
   ]
  },
  "cutover": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "You"
+    "can perform",
+    0
    ],
    [
-    "V",
-    "can perform"
+    "shuts down",
+    0
    ],
    [
-    "O",
-    "final migrations"
-   ],
-   [
-    "S",
-    "Azure Migrate"
-   ],
-   [
-    "V",
-    "shuts down"
-   ],
-   [
-    "O",
-    "the source (on-premises or AVS) VM"
-   ],
-   [
-    "V",
-    "runs"
-   ],
-   [
-    "O",
-    "an on-demand replication"
+    "runs",
+    0
    ]
   ],
   "zhVerbs": [
@@ -114,22 +74,14 @@
   ]
  },
  "Azure DevOps": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Provides"
+    "Provides",
+    0
    ],
    [
-    "O",
-    "a continuous integration and continuous deployment (CI/CD) pipeline"
-   ],
-   [
-    "S",
-    "The pipeline"
-   ],
-   [
-    "V",
-    "starts"
+    "starts with",
+    0
    ]
   ],
   "zhVerbs": [
@@ -144,50 +96,18 @@
   ]
  },
  "Data Migration Assistant (DMA)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Data Migration Assistant"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
+    "helps pinpoint",
+    0
    ],
    [
-    "O",
-    "a standalone tool"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "helps pinpoint"
-   ],
-   [
-    "O",
-    "potential problems"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "finds"
-   ],
-   [
-    "O",
-    "unsupported features"
-   ],
-   [
-    "O",
-    "new features"
-   ],
-   [
-    "O",
-    "the right path"
+    "finds",
+    0
    ]
   ],
   "zhVerbs": [
@@ -206,30 +126,14 @@
   ]
  },
  "Azure SQL Managed Instance": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure SQL Managed Instance"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a PaaS service"
-   ],
-   [
-    "S",
-    "SQL Managed Instance"
-   ],
-   [
-    "V",
-    "enables"
-   ],
-   [
-    "O",
-    "existing SQL Server customers"
+    "enables",
+    0
    ]
   ],
   "zhVerbs": [
@@ -244,18 +148,10 @@
   ]
  },
  "Azure Database for MySQL": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure Database for MySQL flexible server"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a fully managed, production-ready relational database service"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -266,30 +162,14 @@
   ]
  },
  "Azure Cosmos DB": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure Cosmos DB"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a fully managed NoSQL and vector database"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "offers"
-   ],
-   [
-    "O",
-    "single-digit millisecond response times, automatic and instant scalability"
+    "offers",
+    0
    ]
   ],
   "zhVerbs": [

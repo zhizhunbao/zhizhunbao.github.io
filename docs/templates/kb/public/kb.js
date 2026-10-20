@@ -1,10 +1,10 @@
 // Draws the Learn-style page chrome from DocFX output: global and section navigation (toc.json),
 // the table of contents tree, breadcrumbs, "In this article", search (index.json) and the theme menu.
 // Also converts DocFX's Markdown output to Learn markup (alerts, tables, heading anchors), draws quizzes (quiz.js) and
-// boxes the verb of each definition and of its translation in term tables (marks.js, data in media/<page>.grammar.json).
+// underlines (red, wavy) the verb of each definition and of its translation in term tables (marks.js, data in media/<page>.grammar.json).
 
 import { quiz } from './quiz.js'
-import { markGrammar, markVerbs } from './marks.js'
+import { markVerbs } from './marks.js'
 
 const meta = (name) => document.querySelector(`meta[name="${name}"]`)?.content
 let page = new URL(location.href)
@@ -93,7 +93,7 @@ function content() {
   grammar(body)
 }
 
-// Term tables: media/<page>.grammar.json maps each term to { roles: the [role, phrase] trunk of its definition (column 2),
+// Term tables: media/<page>.grammar.json maps each term to { verbs: the verb phrases of its definition (column 2),
 // zhVerbs: the same verbs in the translation (column 3) }
 async function grammar(body) {
   const tables = body.querySelectorAll('table.kb-terms')
@@ -104,7 +104,7 @@ async function grammar(body) {
   for (const tr of [...tables].flatMap((t) => [...t.tBodies[0].rows])) {
     const g = data[tr.cells[0]?.querySelector('strong')?.textContent.trim()]
     if (!g || tr.cells.length < 3) continue
-    markGrammar(tr.cells[1], g.roles)
+    markVerbs(tr.cells[1], g.verbs)
     markVerbs(tr.cells[2], g.zhVerbs)
   }
 }

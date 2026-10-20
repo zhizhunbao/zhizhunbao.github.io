@@ -6,7 +6,7 @@ ms.date: 2026-10-19
 
 # Prepare for cloud adoption with a data-driven plan
 
-Study notes on [Microsoft Learn module (retired)](https://web.archive.org/web/20220804114917/https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-plan/4-exercise-digital-estate-assessment), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 4. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The verb of each sentence is in a red box, in the English and in the Chinese.
+Study notes on [Microsoft Learn module (retired)](https://web.archive.org/web/20220804114917/https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-plan/4-exercise-digital-estate-assessment), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 4. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The verb of each sentence has a red wavy underline, in the English and in the Chinese.
 
 ## [Evaluate the digital estate](https://web.archive.org/web/20220804114917/https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-plan/4-exercise-digital-estate-assessment#evaluate-the-digital-estate)
 

@@ -1,41 +1,21 @@
 {
  "reference architecture": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "review"
+    "review",
+    0
    ],
    [
-    "O",
-    "validated reference architectures and fundamentals"
+    "Explore",
+    0
    ],
    [
-    "V",
-    "Explore"
+    "help accelerate",
+    0
    ],
    [
-    "O",
-    "validated reference architectures"
-   ],
-   [
-    "S",
-    "These architectures"
-   ],
-   [
-    "V",
-    "help accelerate"
-   ],
-   [
-    "O",
-    "design decisions"
-   ],
-   [
-    "V",
-    "reduce"
-   ],
-   [
-    "O",
-    "risk"
+    "reduce",
+    0
    ]
   ],
   "zhVerbs": [
@@ -58,30 +38,14 @@
   ]
  },
  "N-tier architecture": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "An N-tier architecture"
+    "divides",
+    0
    ],
    [
-    "V",
-    "divides"
-   ],
-   [
-    "O",
-    "an application"
-   ],
-   [
-    "S",
-    "A traditional three-tier application"
-   ],
-   [
-    "V",
-    "has"
-   ],
-   [
-    "O",
-    "a presentation tier, an optional middle tier, and a database tier"
+    "has",
+    0
    ]
   ],
   "zhVerbs": [
@@ -96,26 +60,14 @@
   ]
  },
  "resource group": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A resource group"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a container"
-   ],
-   [
-    "S",
-    "all resources"
-   ],
-   [
-    "V",
-    "are also deleted"
+    "are also deleted",
+    0
    ]
   ],
   "zhVerbs": [
@@ -130,42 +82,18 @@
   ]
  },
  "web tier": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The presentation tier"
+    "is labeled",
+    0
    ],
    [
-    "V",
-    "is labeled"
+    "are",
+    0
    ],
    [
-    "O",
-    "Web tier"
-   ],
-   [
-    "S",
-    "The web and business tiers"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "stateless"
-   ],
-   [
-    "S",
-    "Any VM"
-   ],
-   [
-    "V",
-    "can handle"
-   ],
-   [
-    "O",
-    "any request"
+    "can handle",
+    0
    ]
   ],
   "zhVerbs": [
@@ -184,42 +112,18 @@
   ]
  },
  "business tier": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The layer"
+    "refers to",
+    0
    ],
    [
-    "V",
-    "refers to"
+    "are",
+    0
    ],
    [
-    "O",
-    "the business logic tier"
-   ],
-   [
-    "S",
-    "The web and business tiers"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "stateless"
-   ],
-   [
-    "S",
-    "Any VM"
-   ],
-   [
-    "V",
-    "can handle"
-   ],
-   [
-    "O",
-    "any request"
+    "can handle",
+    0
    ]
   ],
   "zhVerbs": [
@@ -238,26 +142,14 @@
   ]
  },
  "data tier": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The data tier"
+    "should consist of",
+    0
    ],
    [
-    "V",
-    "should consist of"
-   ],
-   [
-    "O",
-    "a replicated database"
-   ],
-   [
-    "V",
-    "Restrict"
-   ],
-   [
-    "O",
-    "access"
+    "Restrict access to",
+    0
    ]
   ],
   "zhVerbs": [
@@ -272,30 +164,18 @@
   ]
  },
  "SQL Server": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Microsoft SQL Server"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
+    "connect to",
+    0
    ],
    [
-    "O",
-    "a relational database management system"
-   ],
-   [
-    "S",
-    "Applications and tools"
-   ],
-   [
-    "V",
-    "connect"
-   ],
-   [
-    "V",
-    "communicate"
+    "communicate",
+    0
    ]
   ],
   "zhVerbs": [
@@ -314,30 +194,14 @@
   ]
  },
  "virtual network (VNet)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure Virtual Network"
+    "provides",
+    0
    ],
    [
-    "V",
-    "provides"
-   ],
-   [
-    "O",
-    "the fundamental building block"
-   ],
-   [
-    "S",
-    "This service"
-   ],
-   [
-    "V",
-    "enables"
-   ],
-   [
-    "O",
-    "Azure resources"
+    "enables",
+    0
    ]
   ],
   "zhVerbs": [
@@ -352,26 +216,14 @@
   ]
  },
  "gateway subnet": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "An application gateway"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a dedicated deployment"
-   ],
-   [
-    "S",
-    "a dedicated subnet"
-   ],
-   [
-    "V",
-    "is required"
+    "is required for",
+    0
    ]
   ],
   "zhVerbs": [
@@ -386,30 +238,14 @@
   ]
  },
  "Azure Application Gateway": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure Application Gateway"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a web traffic load balancer"
-   ],
-   [
-    "S",
-    "Application Gateway"
-   ],
-   [
-    "V",
-    "makes"
-   ],
-   [
-    "O",
-    "intelligent routing decisions"
+    "makes intelligent routing decisions",
+    0
    ]
   ],
   "zhVerbs": [
@@ -418,24 +254,16 @@
     0
    ],
    [
-    "做出",
+    "做出智能路由决策",
     0
    ]
   ]
  },
  "subnet": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure virtual network subnets"
-   ],
-   [
-    "V",
-    "are"
-   ],
-   [
-    "O",
-    "essential containers"
+    "are",
+    0
    ]
   ],
   "zhVerbs": [
@@ -446,30 +274,14 @@
   ]
  },
  "network security group (NSG)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "You"
+    "can use",
+    0
    ],
    [
-    "V",
-    "can use"
-   ],
-   [
-    "O",
-    "an Azure network security group"
-   ],
-   [
-    "S",
-    "A network security group"
-   ],
-   [
-    "V",
-    "contains"
-   ],
-   [
-    "O",
-    "security rules"
+    "contains",
+    0
    ]
   ],
   "zhVerbs": [
@@ -484,26 +296,14 @@
   ]
  },
  "Azure Load Balancer": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure Load Balancer"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a cloud service"
-   ],
-   [
-    "S",
-    "Azure Load Balancer"
-   ],
-   [
-    "V",
-    "operates"
+    "operates at",
+    0
    ]
   ],
   "zhVerbs": [
@@ -518,14 +318,10 @@
   ]
  },
  "internal load balancer": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "an internal (or private) load balancer"
-   ],
-   [
-    "V",
-    "is used"
+    "is used",
+    0
    ]
   ],
   "zhVerbs": [
@@ -536,18 +332,10 @@
   ]
  },
  "Azure region": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Each region"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a set"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -558,30 +346,14 @@
   ]
  },
  "availability zone": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Many Azure regions"
+    "provide",
+    0
    ],
    [
-    "V",
-    "provide"
-   ],
-   [
-    "O",
-    "availability zones"
-   ],
-   [
-    "S",
-    "Each availability zone"
-   ],
-   [
-    "V",
-    "has"
-   ],
-   [
-    "O",
-    "independent power, cooling, and networking infrastructure"
+    "has",
+    0
    ]
   ],
   "zhVerbs": [
@@ -596,19 +368,15 @@
   ]
  },
  "availability set": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "VMs"
-   ],
-   [
-    "V",
-    "are deployed"
+    "are deployed",
+    0
    ]
   ],
   "zhVerbs": [
    [
-    "部署",
+    "部署在",
     0
    ]
   ]

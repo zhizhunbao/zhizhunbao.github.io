@@ -1,17 +1,9 @@
 {
  "Git": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Git"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a free and open source distributed version control system"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -22,30 +14,18 @@
   ]
  },
  "working tree": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The working tree"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
+    "are pulled out of",
+    0
    ],
    [
-    "O",
-    "a single checkout"
-   ],
-   [
-    "S",
-    "These files"
-   ],
-   [
-    "V",
-    "are pulled out"
-   ],
-   [
-    "V",
-    "placed"
+    "placed",
+    0
    ]
   ],
   "zhVerbs": [
@@ -64,14 +44,10 @@
   ]
  },
  "modified": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Modified"
-   ],
-   [
-    "V",
-    "means"
+    "means",
+    0
    ]
   ],
   "zhVerbs": [
@@ -82,22 +58,14 @@
   ]
  },
  "git add": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Add"
+    "Add",
+    0
    ],
    [
-    "O",
-    "contents"
-   ],
-   [
-    "S",
-    "The \"index\""
-   ],
-   [
-    "V",
-    "is"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -112,30 +80,14 @@
   ]
  },
  "staging area (index)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The staging area"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a file"
-   ],
-   [
-    "S",
-    "Its technical name"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the \"index\""
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -150,14 +102,10 @@
   ]
  },
  "staged": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Staged"
-   ],
-   [
-    "V",
-    "means"
+    "means",
+    0
    ]
   ],
   "zhVerbs": [
@@ -168,32 +116,19 @@
   ]
  },
  "commit": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Git",
-    1
+    "takes a picture of",
+    0
    ],
    [
-    "V",
-    "takes"
-   ],
-   [
-    "O",
-    "a picture"
-   ],
-   [
-    "V",
-    "stores"
-   ],
-   [
-    "O",
-    "a reference"
+    "stores",
+    0
    ]
   ],
   "zhVerbs": [
    [
-    "拍",
+    "拍一张照片",
     0
    ],
    [
@@ -203,34 +138,18 @@
   ]
  },
  "Git directory": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Git directory"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
+    "is",
+    0
    ],
    [
-    "S",
-    "This"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the most important part"
-   ],
-   [
-    "S",
-    "it"
-   ],
-   [
-    "V",
-    "is"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -249,14 +168,10 @@
   ]
  },
  "committed": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Committed"
-   ],
-   [
-    "V",
-    "means"
+    "means",
+    0
    ]
   ],
   "zhVerbs": [
@@ -267,14 +182,10 @@
   ]
  },
  "remote repository": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "see"
-   ],
-   [
-    "O",
-    "fetch or push"
+    "see",
+    0
    ]
   ],
   "zhVerbs": [
@@ -285,41 +196,24 @@
   ]
  },
  "push": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "you",
-    2
-   ],
-   [
-    "V",
-    "have to push"
-   ],
-   [
-    "O",
-    "it"
+    "have to push",
+    0
    ]
   ],
   "zhVerbs": [
    [
-    "推送",
+    "推送到",
     0
    ]
   ]
  },
  "pull": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Pulling a branch"
-   ],
-   [
-    "V",
-    "means"
-   ],
-   [
-    "O",
-    "to fetch it and merge it"
+    "means",
+    0
    ]
   ],
   "zhVerbs": [
@@ -330,18 +224,10 @@
   ]
  },
  "clone": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "the command"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "git clone"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [

@@ -1,0 +1,881 @@
+{
+ "title": "Week 3 lecture quiz",
+ "questions": [
+  {
+   "stem": "Before designing a three-tier Windows app on Azure from scratch, Contoso's architect wants a proven, validated design for this common kind of workload to start from, so decisions are faster and less risky. What should the architect look for?",
+   "zhStem": "在从零开始设计 Azure 上的三层 Windows 应用之前，Contoso 的架构师想找一个针对这类常见工作负载、经过验证的成熟设计作为起点，让决策更快、风险更低。架构师应该找什么？",
+   "options": [
+    "reference architecture",
+    "Azure Well-Architected Framework",
+    "business case",
+    "N-tier architecture"
+   ],
+   "answer": 0,
+   "zhTerm": "参考架构",
+   "definition": "Before inventing an architecture from scratch, review validated reference architectures and fundamentals from the Azure Architecture Center. Explore validated reference architectures for common workloads. These architectures help accelerate design decisions and reduce risk.",
+   "zh": "在从零开始发明一种架构之前，请先查看 Azure 体系结构中心提供的经过验证的参考架构和基础知识。探索针对常见工作负载的经过验证的参考架构。这些架构有助于加快设计决策并降低风险。",
+   "keys": [
+    [
+     "validated reference architectures",
+     "经过验证的参考架构"
+    ],
+    [
+     "common workloads",
+     "常见工作负载"
+    ],
+    [
+     "accelerate design decisions",
+     "加快设计决策"
+    ],
+    [
+     "reduce risk",
+     "降低风险"
+    ]
+   ],
+   "verbs": [
+    [
+     "review",
+     0
+    ],
+    [
+     "Explore",
+     0
+    ],
+    [
+     "help accelerate",
+     0
+    ],
+    [
+     "reduce",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "查看",
+     0
+    ],
+    [
+     "探索",
+     0
+    ],
+    [
+     "有助于加快",
+     0
+    ],
+    [
+     "降低",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso wants to split its order app into separate layers for the user interface, the business logic and the database, with each layer running on its own group of VMs. Which architecture style is this?",
+   "zhStem": "Contoso 想把订单应用拆分为用户界面、业务逻辑和数据库几个独立的层，每一层运行在自己的一组虚拟机上。这是哪种架构风格？",
+   "options": [
+    "N-tier architecture",
+    "multi-cloud",
+    "hybrid cloud",
+    "reference architecture"
+   ],
+   "answer": 0,
+   "zhTerm": "N 层架构",
+   "definition": "An N-tier architecture divides an application into logical layers and physical tiers. ... A traditional three-tier application has a presentation tier, an optional middle tier, and a database tier.",
+   "zh": "N 层架构将应用程序划分为逻辑层和物理层。……传统的三层应用程序具有表示层、可选的中间层和数据库层。",
+   "keys": [
+    [
+     "N-tier architecture",
+     "N 层架构"
+    ],
+    [
+     "logical layers",
+     "逻辑层"
+    ],
+    [
+     "physical tiers",
+     "物理层"
+    ],
+    [
+     "three-tier application",
+     "三层应用程序"
+    ]
+   ],
+   "verbs": [
+    [
+     "divides",
+     0
+    ],
+    [
+     "has",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "划分为",
+     0
+    ],
+    [
+     "具有",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's team puts all the VMs, networks and databases of one app into a single container so they can manage them together, and later remove every one of them with a single delete. What is this container?",
+   "zhStem": "Contoso 的团队把一个应用的所有虚拟机、网络和数据库放进同一个容器中统一管理，之后只需一次删除就能把它们全部移除。这个容器是什么？",
+   "options": [
+    "availability set",
+    "management group hierarchy",
+    "subscription",
+    "resource group"
+   ],
+   "answer": 3,
+   "zhTerm": "资源组",
+   "definition": "A resource group is a container that you use to manage related resources for an Azure solution. ... When you delete a resource group, all resources in the resource group are also deleted.",
+   "zh": "资源组是一个容器，用于管理 Azure 解决方案的相关资源。……删除资源组时，资源组中的所有资源也会被删除。",
+   "keys": [
+    [
+     "resource group",
+     "资源组"
+    ],
+    [
+     "container",
+     "容器"
+    ],
+    [
+     "related resources",
+     "相关资源"
+    ],
+    [
+     "all resources",
+     "所有资源"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "are also deleted",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "也会被删除",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "In Contoso's three-tier app on Azure, which tier receives users' browser requests and shows them the pages, running on stateless VMs so any VM can serve any request?",
+   "zhStem": "在 Contoso 部署于 Azure 的三层应用中，哪一层接收用户的浏览器请求并向其显示页面，并运行在无状态虚拟机上，使任何一台虚拟机都能处理任何请求？",
+   "options": [
+    "web tier",
+    "N-tier architecture",
+    "data tier",
+    "business tier"
+   ],
+   "answer": 0,
+   "zhTerm": "Web 层（展示层）",
+   "definition": "The presentation tier is labeled Web tier. ... The web and business tiers are stateless. Any VM can handle any request for that tier.",
+   "zh": "表示层标记为 Web 层。……Web 层和业务层是无状态的。任何虚拟机都可以处理该层的任何请求。",
+   "keys": [
+    [
+     "presentation tier",
+     "表示层"
+    ],
+    [
+     "Web tier",
+     "Web 层"
+    ],
+    [
+     "stateless",
+     "无状态"
+    ],
+    [
+     "Any VM",
+     "任何虚拟机"
+    ]
+   ],
+   "verbs": [
+    [
+     "is labeled",
+     0
+    ],
+    [
+     "are",
+     0
+    ],
+    [
+     "can handle",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "标记为",
+     0
+    ],
+    [
+     "是",
+     0
+    ],
+    [
+     "可以处理",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "In Contoso's three-tier app on Azure, which tier runs the order-processing rules that sit between the user-facing front end and the database?",
+   "zhStem": "在 Contoso 部署于 Azure 的三层应用中，哪一层运行位于面向用户的前端和数据库之间的订单处理规则？",
+   "options": [
+    "N-tier architecture",
+    "business tier",
+    "data tier",
+    "web tier"
+   ],
+   "answer": 1,
+   "zhTerm": "业务层（中间层）",
+   "definition": "The layer labeled Business tier in the reference diagram refers to the business logic tier. ... The web and business tiers are stateless. Any VM can handle any request for that tier.",
+   "zh": "参考关系图中标记为业务层的层是指业务逻辑层。……Web 层和业务层是无状态的。任何虚拟机都可以处理该层的任何请求。",
+   "keys": [
+    [
+     "Business tier",
+     "业务层"
+    ],
+    [
+     "business logic tier",
+     "业务逻辑层"
+    ],
+    [
+     "stateless",
+     "无状态"
+    ],
+    [
+     "Any VM",
+     "任何虚拟机"
+    ]
+   ],
+   "verbs": [
+    [
+     "refers to",
+     0
+    ],
+    [
+     "are",
+     0
+    ],
+    [
+     "can handle",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是指",
+     0
+    ],
+    [
+     "是",
+     0
+    ],
+    [
+     "可以处理",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "In Contoso's three-tier app on Azure, which tier holds the replicated database and should accept requests only from the middle tier?",
+   "zhStem": "在 Contoso 部署于 Azure 的三层应用中，哪一层存放复制的数据库，并且应只接受来自中间层的请求？",
+   "options": [
+    "business tier",
+    "web tier",
+    "data tier",
+    "N-tier architecture"
+   ],
+   "answer": 2,
+   "zhTerm": "数据层",
+   "definition": "The data tier should consist of a replicated database. ... Restrict access to the data tier by allowing requests from a middle tier only.",
+   "zh": "数据层应由复制的数据库组成。……通过仅允许来自中间层的请求来限制对数据层的访问。",
+   "keys": [
+    [
+     "data tier",
+     "数据层"
+    ],
+    [
+     "replicated database",
+     "复制的数据库"
+    ],
+    [
+     "middle tier",
+     "中间层"
+    ]
+   ],
+   "verbs": [
+    [
+     "should consist of",
+     0
+    ],
+    [
+     "Restrict access to",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "组成",
+     0
+    ],
+    [
+     "限制",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso installs a Microsoft relational database engine on the VMs of its database layer, and the app sends it queries written in T-SQL. Which product is this?",
+   "zhStem": "Contoso 在数据库层的虚拟机上安装了一个 Microsoft 关系型数据库引擎，应用用 T-SQL 编写的查询与它通信。这是哪个产品？",
+   "options": [
+    "SQL Server",
+    "Azure Database for MySQL",
+    "Internet Information Services (IIS)",
+    "Azure Cosmos DB"
+   ],
+   "answer": 0,
+   "zhTerm": "SQL Server 数据库",
+   "definition": "Microsoft SQL Server is a relational database management system (RDBMS). Applications and tools connect to a SQL Server instance or database, and communicate using Transact-SQL (T-SQL).",
+   "zh": "Microsoft SQL Server 是一种关系数据库管理系统（RDBMS）。应用程序和工具连接到 SQL Server 实例或数据库，并使用 Transact-SQL（T-SQL）进行通信。",
+   "keys": [
+    [
+     "Microsoft SQL Server",
+     "Microsoft SQL Server"
+    ],
+    [
+     "relational database management system (RDBMS)",
+     "关系数据库管理系统（RDBMS）"
+    ],
+    [
+     "SQL Server instance",
+     "SQL Server 实例"
+    ],
+    [
+     "Transact-SQL (T-SQL)",
+     "Transact-SQL（T-SQL）"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "connect to",
+     0
+    ],
+    [
+     "communicate",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "连接到",
+     0
+    ],
+    [
+     "进行通信",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso wants its Azure VMs to talk to each other privately, reach the internet and connect to the on-premises network, all inside its own isolated private network in Azure. What should it create first?",
+   "zhStem": "Contoso 希望其 Azure 虚拟机能私下互相通信、访问互联网并连接本地网络，而这一切都在 Azure 中自己独立的专用网络内完成。它应该先创建什么？",
+   "options": [
+    "subnet",
+    "network security group (NSG)",
+    "virtual network (VNet)",
+    "Azure ExpressRoute"
+   ],
+   "answer": 2,
+   "zhTerm": "虚拟网络",
+   "definition": "Azure Virtual Network provides the fundamental building block for your private network in Azure. This service enables Azure resources like virtual machines (VMs) to securely communicate with each other, the internet, and on-premises networks.",
+   "zh": "Azure 虚拟网络为你在 Azure 中的专用网络提供基本构建块。此服务使虚拟机（VM）等 Azure 资源能够安全地相互通信、与 Internet 通信以及与本地网络通信。",
+   "keys": [
+    [
+     "Azure Virtual Network",
+     "Azure 虚拟网络"
+    ],
+    [
+     "private network",
+     "专用网络"
+    ],
+    [
+     "securely communicate",
+     "安全地相互通信"
+    ],
+    [
+     "on-premises networks",
+     "本地网络"
+    ]
+   ],
+   "verbs": [
+    [
+     "provides",
+     0
+    ],
+    [
+     "enables",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "使",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso is adding a layer-7 web traffic load balancer to its existing Azure virtual network, and Azure requires that this service sit in a dedicated address range of its own, separate from the VMs. What must Contoso create for it?",
+   "zhStem": "Contoso 正在向现有的 Azure 虚拟网络中添加一个第 7 层 Web 流量负载均衡器，Azure 要求该服务位于专属于它的地址范围内，与虚拟机分开。Contoso 必须为它创建什么？",
+   "options": [
+    "availability zone",
+    "network security group (NSG)",
+    "virtual network (VNet)",
+    "gateway subnet"
+   ],
+   "answer": 3,
+   "zhTerm": "网关子网",
+   "definition": "An application gateway is a dedicated deployment in your virtual network. Within your virtual network, a dedicated subnet is required for the application gateway.",
+   "zh": "应用程序网关是一个专用部署，位于你的虚拟网络中。在你的虚拟网络中，应用程序网关需要一个专用子网。",
+   "keys": [
+    [
+     "application gateway",
+     "应用程序网关"
+    ],
+    [
+     "dedicated deployment",
+     "专用部署"
+    ],
+    [
+     "virtual network",
+     "虚拟网络"
+    ],
+    [
+     "dedicated subnet",
+     "专用子网"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "is required for",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "需要",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's website must send requests for /images to one pool of VMs and requests for /api to another, deciding by the URL path of each HTTP request. Which Azure service should sit in front of the VMs?",
+   "zhStem": "Contoso 的网站必须根据每个 HTTP 请求的 URL 路径，把 /images 的请求发送到一组虚拟机，把 /api 的请求发送到另一组。哪个 Azure 服务应放在这些虚拟机前面？",
+   "options": [
+    "Azure Application Gateway",
+    "Azure Load Balancer",
+    "internal load balancer",
+    "network security group (NSG)"
+   ],
+   "answer": 0,
+   "zhTerm": "Azure 应用程序网关",
+   "definition": "Azure Application Gateway is a web traffic load balancer that helps you manage traffic to your web applications. ... Application Gateway makes intelligent routing decisions based on HTTP request attributes like URL paths and host headers.",
+   "zh": "Azure 应用程序网关是一种 Web 流量负载均衡器，可帮助你管理流向 Web 应用程序的流量。……应用程序网关会做出智能路由决策，依据是 HTTP 请求属性，例如 URL 路径和主机标头。",
+   "keys": [
+    [
+     "Azure Application Gateway",
+     "Azure 应用程序网关"
+    ],
+    [
+     "web traffic load balancer",
+     "Web 流量负载均衡器"
+    ],
+    [
+     "intelligent routing decisions",
+     "智能路由决策"
+    ],
+    [
+     "HTTP request attributes",
+     "HTTP 请求属性"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "makes intelligent routing decisions",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "做出智能路由决策",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's network admin divides the company's Azure virtual network into smaller address ranges, one for the web VMs and one for the database VMs, so each group of resources is deployed into its own range. What are these ranges called?",
+   "zhStem": "Contoso 的网络管理员把公司的 Azure 虚拟网络划分为更小的地址范围，一个给 Web 虚拟机，一个给数据库虚拟机，让每组资源部署在各自的范围中。这些范围叫什么？",
+   "options": [
+    "Azure region",
+    "subnet",
+    "resource group",
+    "availability zone"
+   ],
+   "answer": 1,
+   "zhTerm": "子网",
+   "definition": "Azure virtual network subnets are essential containers where all Azure resources are deployed within a virtual network.",
+   "zh": "Azure 虚拟网络子网是必不可少的容器，虚拟网络中的所有 Azure 资源都部署在其中。",
+   "keys": [
+    [
+     "virtual network subnets",
+     "虚拟网络子网"
+    ],
+    [
+     "essential containers",
+     "必不可少的容器"
+    ],
+    [
+     "deployed",
+     "部署"
+    ]
+   ],
+   "verbs": [
+    [
+     "are",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso wants the database VMs to accept traffic on port 1433 only from the business-tier VMs and to deny all other inbound traffic. What should it apply to the database VMs' network?",
+   "zhStem": "Contoso 希望数据库虚拟机只接受来自业务层虚拟机的 1433 端口流量，并拒绝所有其他入站流量。它应在数据库虚拟机的网络上应用什么？",
+   "options": [
+    "internal load balancer",
+    "Azure Load Balancer",
+    "network security group (NSG)",
+    "Azure Application Gateway"
+   ],
+   "answer": 2,
+   "zhTerm": "网络安全组",
+   "definition": "You can use an Azure network security group to filter network traffic between Azure resources in Azure virtual networks. A network security group contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources.",
+   "zh": "你可以使用 Azure 网络安全组来筛选 Azure 虚拟网络中 Azure 资源之间的网络流量。网络安全组包含安全规则，这些规则允许或拒绝流向多种类型 Azure 资源的入站网络流量，或来自这些资源的出站网络流量。",
+   "keys": [
+    [
+     "network security group",
+     "网络安全组"
+    ],
+    [
+     "filter network traffic",
+     "筛选"
+    ],
+    [
+     "security rules",
+     "安全规则"
+    ],
+    [
+     "allow or deny",
+     "允许或拒绝"
+    ]
+   ],
+   "verbs": [
+    [
+     "can use",
+     0
+    ],
+    [
+     "contains",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以使用",
+     0
+    ],
+    [
+     "包含",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso needs to spread incoming TCP traffic from the internet across several backend VMs at layer 4, without inspecting URLs or HTTP headers. Which Azure service fits?",
+   "zhStem": "Contoso 需要在第 4 层把来自互联网的入站 TCP 流量分散到多台后端虚拟机上，而不检查 URL 或 HTTP 标头。哪个 Azure 服务合适？",
+   "options": [
+    "Azure Application Gateway",
+    "Azure Load Balancer",
+    "internal load balancer",
+    "network security group (NSG)"
+   ],
+   "answer": 1,
+   "zhTerm": "Azure 负载均衡器",
+   "definition": "Azure Load Balancer is a cloud service that distributes incoming network traffic across backend virtual machines (VMs) or virtual machine scale sets (VMSS). ... Azure Load Balancer operates at layer 4 of the Open Systems Interconnection (OSI) model.",
+   "zh": "Azure 负载均衡器是一种云服务，可将传入的网络流量分配到后端虚拟机（VM）或虚拟机规模集（VMSS）。……Azure 负载均衡器在开放式系统互连（OSI）模型的第 4 层运行。",
+   "keys": [
+    [
+     "Azure Load Balancer",
+     "Azure 负载均衡器"
+    ],
+    [
+     "incoming network traffic",
+     "传入的网络流量"
+    ],
+    [
+     "backend virtual machines",
+     "后端虚拟机"
+    ],
+    [
+     "layer 4",
+     "第 4 层"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "operates at",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "运行",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's web-tier VMs call the business-tier VMs, and those calls must be spread evenly across the business VMs while never being exposed to the internet, staying inside the virtual network. What should Contoso place in front of the business tier?",
+   "zhStem": "Contoso 的 Web 层虚拟机会调用业务层虚拟机，这些调用必须均匀分散到各台业务虚拟机上，并且始终留在虚拟网络内、永不暴露到互联网。Contoso 应在业务层前面放置什么？",
+   "options": [
+    "gateway subnet",
+    "availability set",
+    "network security group (NSG)",
+    "internal load balancer"
+   ],
+   "answer": 3,
+   "zhTerm": "内部负载均衡器",
+   "definition": "Alternatively, an internal (or private) load balancer is used to load balance traffic inside a virtual network.",
+   "zh": "或者，内部（或专用）负载均衡器用于对虚拟网络内部的流量进行负载均衡。",
+   "keys": [
+    [
+     "Alternatively",
+     "或者"
+    ],
+    [
+     "internal (or private) load balancer",
+     "内部（或专用）负载均衡器"
+    ],
+    [
+     "virtual network",
+     "虚拟网络"
+    ]
+   ],
+   "verbs": [
+    [
+     "is used",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "用于",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso must keep customer data in Canada for compliance, so it picks a geographic area of Azure datacenters, such as Canada Central, in which to deploy all its resources. What is Contoso choosing?",
+   "zhStem": "出于合规要求，Contoso 必须把客户数据保留在加拿大，因此它选择了一个 Azure 数据中心所在的地理区域（例如 Canada Central）来部署所有资源。Contoso 选择的是什么？",
+   "options": [
+    "resource group",
+    "availability zone",
+    "availability set",
+    "Azure region"
+   ],
+   "answer": 3,
+   "zhTerm": "Azure 区域",
+   "definition": "Each region is a set of physical facilities that include datacenters and networking infrastructure.",
+   "zh": "每个区域都是一组物理设施，其中包括数据中心和网络基础结构。",
+   "keys": [
+    [
+     "region",
+     "区域"
+    ],
+    [
+     "physical facilities",
+     "物理设施"
+    ],
+    [
+     "datacenters",
+     "数据中心"
+    ],
+    [
+     "networking infrastructure",
+     "网络基础结构"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso wants its VMs in Canada Central to keep running even if a whole datacenter fails, so it spreads them across separate groups of datacenters in that same area, each with independent power, cooling and networking. What is Contoso using?",
+   "zhStem": "Contoso 希望其位于 Canada Central 的虚拟机即使整个数据中心发生故障也能继续运行，因此把它们分散到同一地区内彼此独立的数据中心组中，每组都有独立的电力、冷却和网络。Contoso 使用的是什么？",
+   "options": [
+    "availability set",
+    "Azure region",
+    "availability zone",
+    "subnet"
+   ],
+   "answer": 2,
+   "zhTerm": "可用区",
+   "definition": "Many Azure regions provide availability zones, which are separated groups of datacenters within a region. Each availability zone has independent power, cooling, and networking infrastructure...",
+   "zh": "许多 Azure 区域都提供可用区，即区域内彼此分隔的数据中心组。每个可用区都有独立的电源、冷却和网络基础结构……",
+   "keys": [
+    [
+     "availability zones",
+     "可用区"
+    ],
+    [
+     "separated groups of datacenters",
+     "彼此分隔的数据中心组"
+    ],
+    [
+     "independent power, cooling, and networking infrastructure",
+     "独立的电源、冷却和网络基础结构"
+    ]
+   ],
+   "verbs": [
+    [
+     "provide",
+     0
+    ],
+    [
+     "has",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "都有",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso has two web VMs in one datacenter and wants to protect them from the failure of a single server, rack or network switch, without spreading them across separate datacenters. What should it place the VMs in?",
+   "zhStem": "Contoso 在同一个数据中心里有两台 Web 虚拟机，希望在不把它们分散到不同数据中心的情况下，防止单台服务器、机架或网络交换机故障带来的影响。它应把这些虚拟机放进什么？",
+   "options": [
+    "Azure region",
+    "resource group",
+    "availability zone",
+    "availability set"
+   ],
+   "answer": 3,
+   "zhTerm": "可用性集",
+   "definition": "VMs within the same availability set are deployed across multiple physical servers, compute racks, storage units, and network switches for redundancy.",
+   "zh": "同一可用性集中的虚拟机部署在多个物理服务器、计算机架、存储单元和网络交换机上，以实现冗余。",
+   "keys": [
+    [
+     "availability set",
+     "可用性集"
+    ],
+    [
+     "multiple physical servers",
+     "多个物理服务器"
+    ],
+    [
+     "network switches",
+     "网络交换机"
+    ],
+    [
+     "redundancy",
+     "冗余"
+    ]
+   ],
+   "verbs": [
+    [
+     "are deployed",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "部署在",
+     0
+    ]
+   ]
+  }
+ ]
+}

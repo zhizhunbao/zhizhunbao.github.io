@@ -1,17 +1,9 @@
 {
  "Internet Information Services (IIS)": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Internet Information Services (IIS) 7 and later"
-   ],
-   [
-    "V",
-    "provide"
-   ],
-   [
-    "O",
-    "a request-processing architecture"
+    "provide",
+    0
    ]
   ],
   "zhVerbs": [
@@ -22,42 +14,18 @@
   ]
  },
  "Azure App Service": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure App Service"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
+    "can use",
+    0
    ],
    [
-    "O",
-    "a fully managed platform"
-   ],
-   [
-    "S",
-    "You"
-   ],
-   [
-    "V",
-    "can use"
-   ],
-   [
-    "O",
-    "it"
-   ],
-   [
-    "S",
-    "Microsoft"
-   ],
-   [
-    "V",
-    "manages"
-   ],
-   [
-    "O",
-    "the infrastructure, operating system updates, load balancing, and scale-up/scale-down logic"
+    "manages",
+    0
    ]
   ],
   "zhVerbs": [
@@ -76,18 +44,10 @@
   ]
  },
  "autoscale": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The autoscale feature"
-   ],
-   [
-    "V",
-    "allows"
-   ],
-   [
-    "O",
-    "an administrator"
+    "allows",
+    0
    ]
   ],
   "zhVerbs": [
@@ -98,18 +58,10 @@
   ]
  },
  "deployment slots": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Deployment slots"
-   ],
-   [
-    "V",
-    "allow"
-   ],
-   [
-    "O",
-    "operations or DevOps"
+    "allow",
+    0
    ]
   ],
   "zhVerbs": [
@@ -120,30 +72,14 @@
   ]
  },
  "App Service diagnostics": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "App Service diagnostics"
+    "provide",
+    0
    ],
    [
-    "V",
-    "provide"
-   ],
-   [
-    "O",
-    "an interactive interface"
-   ],
-   [
-    "S",
-    "The interface"
-   ],
-   [
-    "V",
-    "produces"
-   ],
-   [
-    "O",
-    "a full diagnostic report"
+    "produces",
+    0
    ]
   ],
   "zhVerbs": [
@@ -158,30 +94,14 @@
   ]
  },
  "App Service Migration Assistant": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Azure App Service Migration Assistant"
+    "is part of",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "part"
-   ],
-   [
-    "S",
-    "The Migration Assistant"
-   ],
-   [
-    "V",
-    "provides"
-   ],
-   [
-    "O",
-    "a guided wizard-like user experience"
+    "provides",
+    0
    ]
   ],
   "zhVerbs": [
@@ -196,18 +116,10 @@
   ]
  },
  "location tag": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Location tags"
-   ],
-   [
-    "V",
-    "allow"
-   ],
-   [
-    "O",
-    "you"
+    "allow",
+    0
    ]
   ],
   "zhVerbs": [
@@ -218,30 +130,14 @@
   ]
  },
  "ISAPI filter": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "some developers"
+    "built",
+    0
    ],
    [
-    "V",
-    "built"
-   ],
-   [
-    "O",
-    "features"
-   ],
-   [
-    "S",
-    "The filters"
-   ],
-   [
-    "V",
-    "provided"
-   ],
-   [
-    "O",
-    "access"
+    "provided access to",
+    0
    ]
   ],
   "zhVerbs": [
@@ -256,18 +152,10 @@
   ]
  },
  "App Service plan": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "An Azure App Service plan"
-   ],
-   [
-    "V",
-    "defines"
-   ],
-   [
-    "O",
-    "a set"
+    "defines",
+    0
    ]
   ],
   "zhVerbs": [
@@ -278,14 +166,10 @@
   ]
  },
  "hybrid connection": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Hybrid Connections"
-   ],
-   [
-    "V",
-    "can be used"
+    "can be used",
+    0
    ]
   ],
   "zhVerbs": [
@@ -296,18 +180,10 @@
   ]
  },
  "Hybrid Connection Manager": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Hybrid Connection Manager"
-   ],
-   [
-    "V",
-    "connects"
-   ],
-   [
-    "O",
-    "your web app"
+    "connects",
+    0
    ]
   ],
   "zhVerbs": [

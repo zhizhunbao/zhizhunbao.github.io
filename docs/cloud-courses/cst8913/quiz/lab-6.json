@@ -1,0 +1,70 @@
+{
+ "title": "Cloud resource comparison (lab 6) quiz",
+ "questions": [
+  {
+   "stem": "Contoso wants to keep the option of moving between AWS, Azure and Google Cloud later, so it plans to use only service models that all three providers offer. Which set of service models fits that plan?",
+   "zhStem": "Contoso 希望保留日后在 AWS、Azure 和 Google Cloud 之间迁移的可能，因此计划只使用三家云服务商都提供的服务模型。哪一组服务模型符合这个计划？",
+   "options": [
+    "Virtual machines only; the other models exist on Azure alone",
+    "Serverless functions and Kubernetes, but no PaaS app hosting on Google Cloud",
+    "Virtual machines, PaaS app hosting, serverless functions and managed Kubernetes",
+    "PaaS app hosting and serverless functions, but no managed Kubernetes on AWS"
+   ],
+   "answer": 2,
+   "explain": "All four models fit the plan, because AWS, Azure and Google Cloud each offer virtual machines, PaaS app hosting, serverless functions and managed Kubernetes.",
+   "zhExplain": "四种模型都符合计划，因为 AWS、Azure 和 Google Cloud 都提供虚拟机、PaaS 应用托管、无服务器函数和托管 Kubernetes。"
+  },
+  {
+   "stem": "A developer at Contoso runs event-driven code on AWS Lambda and must move it to Azure without managing any servers. Which Azure service is the direct counterpart of AWS Lambda?",
+   "zhStem": "Contoso 的一名开发人员在 AWS Lambda 上运行事件驱动的代码，现在需要把它迁移到 Azure，并且不管理任何服务器。哪个 Azure 服务与 AWS Lambda 直接对应？",
+   "options": [
+    "Azure Functions",
+    "Azure Logic Apps",
+    "Azure App Service",
+    "Azure Virtual Machines"
+   ],
+   "answer": 0,
+   "explain": "Azure Functions is the counterpart, because it is Azure's serverless compute service that runs code in response to events, just like AWS Lambda.",
+   "zhExplain": "对应的是 Azure Functions，因为它是 Azure 的无服务器计算服务，像 AWS Lambda 一样按事件触发运行代码。"
+  },
+  {
+   "stem": "Contoso uses Amazon RDS to run both MySQL and PostgreSQL databases and is planning a move to Azure. What key difference should the team expect for its managed relational databases?",
+   "zhStem": "Contoso 使用 Amazon RDS 运行 MySQL 和 PostgreSQL 两种数据库，正在计划迁移到 Azure。对于托管关系数据库，团队应预期哪项关键差异？",
+   "options": [
+    "Azure has no managed relational database, so the team must use VMs",
+    "Azure runs every engine inside one service called Azure SQL Database",
+    "Azure supports only SQL Server, so both databases must be converted",
+    "Azure offers a separate managed service for each database engine"
+   ],
+   "answer": 3,
+   "explain": "Azure uses one service per engine, because it splits relational databases into Azure SQL Database, Azure Database for MySQL and Azure Database for PostgreSQL, while Amazon RDS covers several engines in one service.",
+   "zhExplain": "Azure 每种引擎一个服务，因为它把关系数据库分成 Azure SQL Database、Azure Database for MySQL 和 Azure Database for PostgreSQL，而 Amazon RDS 在一个服务里支持多种引擎。"
+  },
+  {
+   "stem": "Contoso has many producer and consumer apps written for Apache Kafka and wants a managed streaming service on Azure. Which capability lets these apps keep working without code changes?",
+   "zhStem": "Contoso 有许多为 Apache Kafka 编写的生产者和消费者应用，想在 Azure 上使用托管的流式数据服务。哪项能力让这些应用无需修改代码就能继续工作？",
+   "options": [
+    "Azure Queue Storage stores Kafka topics as queues",
+    "Azure Event Hubs has built-in Apache Kafka compatibility",
+    "Azure Logic Apps converts Kafka calls into workflow steps",
+    "Azure Synapse Analytics reads Kafka streams directly as tables"
+   ],
+   "answer": 1,
+   "explain": "Azure Event Hubs is the right choice, because it is compatible with Apache Kafka, so existing Kafka workloads run on it without code changes.",
+   "zhExplain": "应选择 Azure Event Hubs，因为它兼容 Apache Kafka，现有的 Kafka 工作负载无需修改代码即可在其上运行。"
+  },
+  {
+   "stem": "A new Contoso cloud engineer finds it hard to guess what EC2, S3 and Route 53 do, but finds Azure Files and Cloud DNS easy to understand. Which statement best explains this?",
+   "zhStem": "Contoso 的一名新云工程师发现很难从名字猜出 EC2、S3 和 Route 53 的用途，却很容易理解 Azure Files 和 Cloud DNS。哪项说法最能解释这一点？",
+   "options": [
+    "All three providers use acronyms, but Azure and Google explain them in the portal",
+    "Azure and Google Cloud use brand names, while AWS uses descriptive names",
+    "AWS uses brand names and acronyms, while Azure and Google Cloud use descriptive names",
+    "AWS names describe the job, while Azure and Google Cloud names are codes"
+   ],
+   "answer": 2,
+   "explain": "AWS names are harder to guess, because AWS uses brand names and acronyms, while Azure adds \"Azure\" and Google Cloud adds \"Cloud\" to a plain name of the function.",
+   "zhExplain": "AWS 的名字更难猜，因为 AWS 使用品牌名和缩写，而 Azure 用“Azure”、Google Cloud 用“Cloud”加上功能的直白名称。"
+  }
+ ]
+}

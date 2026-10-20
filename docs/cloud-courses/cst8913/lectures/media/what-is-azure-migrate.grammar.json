@@ -1,29 +1,13 @@
 {
  "cloud migration": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Cloud migration"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "the process"
-   ],
-   [
-    "S",
-    "it"
-   ],
-   [
-    "V",
-    "can also entail"
-   ],
-   [
-    "O",
-    "moving resources"
+    "can also entail",
+    0
    ]
   ],
   "zhVerbs": [
@@ -38,18 +22,10 @@
   ]
  },
  "workload": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "A workload"
-   ],
-   [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a collection"
+    "is",
+    0
    ]
   ],
   "zhVerbs": [
@@ -60,38 +36,18 @@
   ]
  },
  "Azure Migrate appliance": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Azure Migrate appliance"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
+    "collects",
+    0
    ],
    [
-    "O",
-    "a virtual appliance"
-   ],
-   [
-    "S",
-    "The appliance"
-   ],
-   [
-    "V",
-    "collects"
-   ],
-   [
-    "O",
-    "the configuration and performance data"
-   ],
-   [
-    "V",
-    "continually sends"
-   ],
-   [
-    "O",
-    "it"
+    "continually sends",
+    0
    ]
   ],
   "zhVerbs": [
@@ -110,30 +66,14 @@
   ]
  },
  "Azure Migrate": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "Azure Migrate"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "a service"
-   ],
-   [
-    "S",
-    "Azure Migrate"
-   ],
-   [
-    "V",
-    "helps"
-   ],
-   [
-    "O",
-    "you"
+    "helps",
+    1
    ]
   ],
   "zhVerbs": [
@@ -148,30 +88,14 @@
   ]
  },
  "discovery": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The first step"
+    "is",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "to identify your workloads"
-   ],
-   [
-    "S",
-    "This process"
-   ],
-   [
-    "V",
-    "is called"
-   ],
-   [
-    "O",
-    "discovery"
+    "is called",
+    0
    ]
   ],
   "zhVerbs": [
@@ -186,26 +110,14 @@
   ]
  },
  "Movere": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Movere service"
+    "retired",
+    0
    ],
    [
-    "V",
-    "retired"
-   ],
-   [
-    "S",
-    "Users"
-   ],
-   [
-    "V",
-    "should use"
-   ],
-   [
-    "O",
-    "Azure Migrate"
+    "should use",
+    0
    ]
   ],
   "zhVerbs": [
@@ -220,26 +132,14 @@
   ]
  },
  "assessment": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "An assessment"
+    "measures",
+    0
    ],
    [
-    "V",
-    "measures"
-   ],
-   [
-    "O",
-    "the readiness"
-   ],
-   [
-    "V",
-    "estimates"
-   ],
-   [
-    "O",
-    "the effect"
+    "estimates",
+    0
    ]
   ],
   "zhVerbs": [
@@ -254,10 +154,10 @@
   ]
  },
  "readiness": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Assess"
+    "Assess",
+    0
    ]
   ],
   "zhVerbs": [
@@ -268,22 +168,10 @@
   ]
  },
  "sizing": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Estimate"
-   ],
-   [
-    "O",
-    "the size"
-   ],
-   [
-    "O",
-    "the Azure SQL configuration"
-   ],
-   [
-    "O",
-    "the number"
+    "Estimate",
+    0
    ]
   ],
   "zhVerbs": [
@@ -294,14 +182,10 @@
   ]
  },
  "cost estimate": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Estimate"
-   ],
-   [
-    "O",
-    "costs"
+    "Estimate",
+    0
    ]
   ],
   "zhVerbs": [
@@ -312,14 +196,10 @@
   ]
  },
  "dependency analysis": {
-  "roles": [
+  "verbs": [
    [
-    "V",
-    "Understand"
-   ],
-   [
-    "O",
-    "the network dependencies"
+    "Understand",
+    0
    ]
   ],
   "zhVerbs": [
@@ -330,26 +210,14 @@
   ]
  },
  "Migration and modernization tool": {
-  "roles": [
+  "verbs": [
    [
-    "S",
-    "The Migration and modernization tool"
+    "is purpose-built for",
+    0
    ],
    [
-    "V",
-    "is"
-   ],
-   [
-    "O",
-    "purpose-built"
-   ],
-   [
-    "S",
-    "It"
-   ],
-   [
-    "V",
-    "'s optimized"
+    "optimized for",
+    0
    ]
   ],
   "zhVerbs": [

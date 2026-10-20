@@ -1,0 +1,811 @@
+{
+ "title": "Week 4 lecture quiz",
+ "questions": [
+  {
+   "stem": "Before choosing a strategy, Contoso lists every application, data store and VM it is responsible for today. What is this full set of assets called?",
+   "zhStem": "在选择策略之前，Contoso 列出了目前由它负责的所有应用、数据和虚拟机。这整套资产叫什么？",
+   "options": [
+    "digital estate",
+    "Azure Migrate project",
+    "landing zone",
+    "workload"
+   ],
+   "answer": 0,
+   "zhTerm": "数字资产",
+   "definition": "For each of these outcomes, the first step starts with a clear understanding of the assets (applications, data, and VMs) you are responsible for today. Those assets collectively are referred to as your digital estate.",
+   "zh": "对于上述每种结果，第一步都是清楚了解你目前负责的资产（应用程序、数据和虚拟机）。这些资产统称为你的数字资产。",
+   "keys": [
+    [
+     "clear understanding",
+     "清楚了解"
+    ],
+    [
+     "assets",
+     "资产"
+    ],
+    [
+     "digital estate",
+     "数字资产"
+    ]
+   ],
+   "verbs": [
+    [
+     "starts with",
+     0
+    ],
+    [
+     "are referred to as",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "都是",
+     0
+    ],
+    [
+     "统称为",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's security team will not allow any software to be installed on its VMware VMs, but still wants their configuration and performance data collected through a lightweight appliance. Which approach fits?",
+   "zhStem": "Contoso 的安全团队不允许在 VMware 虚拟机上安装任何软件，但仍希望通过一个轻量设备收集它们的配置和性能数据。哪种方式合适？",
+   "options": [
+    "performance-based sizing",
+    "dependency analysis",
+    "replication",
+    "agentless discovery"
+   ],
+   "answer": 3,
+   "zhTerm": "无代理发现",
+   "definition": "Azure Migrate uses a lightweight Azure Migrate appliance to perform agentless discovery of on-premises VMware VMs, Hyper-V VMs, other virtualized machines, and physical servers. Continuous discovery collects machine configuration information, and performance metadata, as well as application data.",
+   "zh": "Azure Migrate 使用轻量级的 Azure Migrate 设备执行无代理发现，对象是本地 VMware VM、Hyper-V VM、其他虚拟化计算机和物理服务器。持续发现会收集计算机配置信息和性能元数据以及应用程序数据。",
+   "keys": [
+    [
+     "Azure Migrate appliance",
+     "Azure Migrate 设备"
+    ],
+    [
+     "agentless discovery",
+     "无代理发现"
+    ],
+    [
+     "physical servers",
+     "物理服务器"
+    ],
+    [
+     "Continuous discovery",
+     "持续发现"
+    ]
+   ],
+   "verbs": [
+    [
+     "uses",
+     0
+    ],
+    [
+     "collects",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "使用",
+     0
+    ],
+    [
+     "收集",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso needs a place in Azure that stores all the discovery, assessment and migration metadata collected from the environment it is moving. What should it create first?",
+   "zhStem": "Contoso 需要在 Azure 中有一个地方，存放从待迁移环境收集到的所有发现、评估和迁移元数据。应首先创建什么？",
+   "options": [
+    "resource group",
+    "Azure Migrate appliance",
+    "Azure Migrate project",
+    "landing zone"
+   ],
+   "answer": 2,
+   "zhTerm": "Azure Migrate 项目",
+   "definition": "A project is used to store discovery, assessment, and migration metadata collected from the environment you're assessing or migrating.",
+   "zh": "项目用于存储发现、评估和迁移元数据，这些元数据收集自你正在评估或迁移的环境。",
+   "keys": [
+    [
+     "project",
+     "项目"
+    ],
+    [
+     "discovery, assessment, and migration metadata",
+     "发现、评估和迁移元数据"
+    ],
+    [
+     "environment",
+     "环境"
+    ]
+   ],
+   "verbs": [
+    [
+     "is used",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "用于",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso has finished its inventory and dependency analysis and now wants to put the three servers of its HR app together so they can be assessed as one unit. What should it create?",
+   "zhStem": "Contoso 已完成清单和依赖分析，现在想把人事应用的三台服务器放在一起，作为一个整体进行评估。应创建什么？",
+   "options": [
+    "migration wave",
+    "group (Azure Migrate)",
+    "Azure Migrate project",
+    "resource group"
+   ],
+   "answer": 1,
+   "zhTerm": "分组（服务器组）",
+   "definition": "With your application inventory and dependency analysis done, you can create high-confidence groups of servers and start assessing them.",
+   "zh": "完成应用程序清单和依赖分析后，你可以创建高可信度的服务器组，并开始对其进行评估。",
+   "keys": [
+    [
+     "application inventory",
+     "应用程序清单"
+    ],
+    [
+     "dependency analysis",
+     "依赖分析"
+    ],
+    [
+     "high-confidence groups of servers",
+     "高可信度的服务器组"
+    ],
+    [
+     "assessing",
+     "评估"
+    ]
+   ],
+   "verbs": [
+    [
+     "can create",
+     0
+    ],
+    [
+     "start assessing",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以创建",
+     0
+    ],
+    [
+     "开始",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "The report says Contoso's file server can be moved to Azure exactly as it is, with no changes at all. Which status did the server get?",
+   "zhStem": "报告显示 Contoso 的文件服务器可以原样迁移到 Azure，完全不需要任何改动。该服务器得到的是哪种状态？",
+   "options": [
+    "Conditionally ready for Azure",
+    "Ready for Azure",
+    "Not ready for Azure",
+    "Readiness unknown"
+   ],
+   "answer": 1,
+   "zhTerm": "可迁移（Azure 就绪）",
+   "definition": "Ready for Azure: Machines can be migrated as-is to Azure, without any changes.",
+   "zh": "Azure 就绪：计算机可以按原样迁移到 Azure，无需任何更改。",
+   "keys": [
+    [
+     "Ready for Azure",
+     "Azure 就绪"
+    ],
+    [
+     "as-is",
+     "按原样"
+    ],
+    [
+     "without any changes",
+     "无需任何更改"
+    ]
+   ],
+   "verbs": [
+    [
+     "can be migrated",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以按原样迁移",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "The report says a Contoso server can be moved to Azure, but only after a few minor changes listed in the remediation guidance. Which status did the server get?",
+   "zhStem": "报告显示 Contoso 的一台服务器可以迁移到 Azure，但需要先按修复指南做几处小改动。该服务器得到的是哪种状态？",
+   "options": [
+    "Conditionally ready for Azure",
+    "Not ready for Azure",
+    "Ready for Azure",
+    "Readiness unknown"
+   ],
+   "answer": 0,
+   "zhTerm": "有条件可迁移",
+   "definition": "Conditionally ready for Azure: Machines can be migrated to Azure, but need minor changes in accordance with the remediation guidance provided in the assessment.",
+   "zh": "有条件地为 Azure 就绪：计算机可以迁移到 Azure，但需要进行少量更改，更改须遵循评估中提供的修正指南。",
+   "keys": [
+    [
+     "Conditionally ready for Azure",
+     "有条件地为 Azure 就绪"
+    ],
+    [
+     "minor changes",
+     "少量更改"
+    ],
+    [
+     "remediation guidance",
+     "修正指南"
+    ]
+   ],
+   "verbs": [
+    [
+     "can be migrated",
+     0
+    ],
+    [
+     "need",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以迁移",
+     0
+    ],
+    [
+     "需要",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "The report says a Contoso server cannot be moved to Azure in its current state, and its issues must be fixed using the remediation guidance before any move. Which status did the server get?",
+   "zhStem": "报告显示 Contoso 的一台服务器无法以当前状态迁移到 Azure，必须先按修复指南解决问题才能迁移。该服务器得到的是哪种状态？",
+   "options": [
+    "Conditionally ready for Azure",
+    "Ready for Azure",
+    "Not ready for Azure",
+    "Readiness unknown"
+   ],
+   "answer": 2,
+   "zhTerm": "不可迁移（未就绪）",
+   "definition": "Not ready for Azure: Machines can't be migrated to Azure as-is. Issues must be fixed in accordance with remediation guidance before migration.",
+   "zh": "未为 Azure 就绪：计算机无法按原样迁移到 Azure。迁移前必须按照修正指南修复问题。",
+   "keys": [
+    [
+     "Not ready for Azure",
+     "未为 Azure 就绪"
+    ],
+    [
+     "can't be migrated to Azure as-is",
+     "无法按原样迁移到 Azure"
+    ],
+    [
+     "remediation guidance",
+     "修正指南"
+    ]
+   ],
+   "verbs": [
+    [
+     "can't be migrated",
+     0
+    ],
+    [
+     "must be fixed",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "无法按原样迁移",
+     0
+    ],
+    [
+     "修复",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "The report cannot say whether a Contoso server can move to Azure, because too little metadata was collected about it. Which status did the server get?",
+   "zhStem": "由于收集到的元数据太少，报告无法判断 Contoso 的一台服务器能否迁移到 Azure。该服务器得到的是哪种状态？",
+   "options": [
+    "Readiness unknown",
+    "Not ready for Azure",
+    "Conditionally ready for Azure",
+    "Ready for Azure"
+   ],
+   "answer": 0,
+   "zhTerm": "就绪性未知",
+   "definition": "Readiness unknown: Azure Migrate can't determine machine readiness, because of insufficient metadata.",
+   "zh": "就绪性未知：Azure Migrate 无法确定计算机的就绪性，原因是元数据不足。",
+   "keys": [
+    [
+     "Readiness unknown",
+     "就绪性未知"
+    ],
+    [
+     "can't determine machine readiness",
+     "无法确定计算机的就绪性"
+    ],
+    [
+     "insufficient metadata",
+     "元数据不足"
+    ]
+   ],
+   "verbs": [
+    [
+     "can't determine",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "无法确定",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso wants VM recommendations based on how much CPU and memory its servers actually used over the past month, so it does not pay for idle capacity. Which option should it choose?",
+   "zhStem": "Contoso 希望根据服务器过去一个月实际使用的 CPU 和内存来获得虚拟机推荐，以免为闲置容量付费。应选择哪个选项？",
+   "options": [
+    "cost estimate",
+    "dependency analysis",
+    "performance-based sizing",
+    "as on-premises (as-is) sizing"
+   ],
+   "answer": 2,
+   "zhTerm": "按性能定规格",
+   "definition": "The performance-based sizing option in Azure Migrate assessments helps you to right-size VMs, and should be used as a best practice for optimizing workloads in Azure.",
+   "zh": "Azure Migrate 评估中的按性能定规格选项可帮助你合理调整虚拟机规格，并且应作为在 Azure 中优化工作负载的最佳做法加以使用。",
+   "keys": [
+    [
+     "performance-based sizing",
+     "按性能定规格"
+    ],
+    [
+     "right-size VMs",
+     "合理调整虚拟机规格"
+    ],
+    [
+     "best practice",
+     "最佳做法"
+    ]
+   ],
+   "verbs": [
+    [
+     "helps",
+     0
+    ],
+    [
+     "should be used as",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可帮助",
+     0
+    ],
+    [
+     "应作为",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso has no usage history for some servers, so it wants Azure VM recommendations that simply match each machine's current CPU and memory settings. Which option should it choose?",
+   "zhStem": "Contoso 有些服务器没有使用历史，因此希望 Azure 虚拟机推荐直接匹配每台机器当前的 CPU 和内存配置。应选择哪个选项？",
+   "options": [
+    "dependency analysis",
+    "performance-based sizing",
+    "as on-premises (as-is) sizing",
+    "cost estimate"
+   ],
+   "answer": 2,
+   "zhTerm": "按本地配置定规格",
+   "definition": "You can get sizing recommendations based on performance history (to optimize resources as you migrate), or based on on-premises machine settings without performance history.",
+   "zh": "你可以获取规格建议，依据可以是性能历史记录（以便在迁移时优化资源），也可以是不含性能历史记录的本地计算机设置。",
+   "keys": [
+    [
+     "sizing recommendations",
+     "规格建议"
+    ],
+    [
+     "performance history",
+     "性能历史记录"
+    ],
+    [
+     "on-premises machine settings",
+     "本地计算机设置"
+    ]
+   ],
+   "verbs": [
+    [
+     "can get",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以获取",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso wants to check whether its SQL Server databases are ready to move to Azure SQL Database or Azure SQL Managed Instance. Which kind of evaluation should it run?",
+   "zhStem": "Contoso 想检查自己的 SQL Server 数据库是否已准备好迁移到 Azure SQL Database 或 Azure SQL Managed Instance。应执行哪种评估？",
+   "options": [
+    "database assessment",
+    "dependency analysis",
+    "cost estimate",
+    "post-migration testing"
+   ],
+   "answer": 0,
+   "zhTerm": "数据库评估",
+   "definition": "Using database assessments, you can assess the readiness of your SQL Server data estate for migration to Azure SQL Database, or Azure SQL Managed Instance.",
+   "zh": "使用数据库评估，你可以评估 SQL Server 数据资产迁移到 Azure SQL 数据库或 Azure SQL 托管实例的就绪情况。",
+   "keys": [
+    [
+     "database assessments",
+     "数据库评估"
+    ],
+    [
+     "SQL Server data estate",
+     "SQL Server 数据资产"
+    ],
+    [
+     "Azure SQL Database",
+     "Azure SQL 数据库"
+    ],
+    [
+     "Azure SQL Managed Instance",
+     "Azure SQL 托管实例"
+    ]
+   ],
+   "verbs": [
+    [
+     "can assess",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以评估",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "While planning, Contoso finds that one app relies on a feature Azure does not support, which will stop the migration unless it is fixed first. What is such an issue called?",
+   "zhStem": "在规划时，Contoso 发现某个应用依赖一项 Azure 不支持的功能，若不先解决，迁移就无法进行。这类问题叫什么？",
+   "options": [
+    "blocker",
+    "critical business event",
+    "business driver",
+    "maintenance window"
+   ],
+   "answer": 0,
+   "zhTerm": "阻碍项",
+   "definition": "Before you migrate, review and mitigate any compatibility issues or unsupported features that might block the migration.",
+   "zh": "在迁移之前，请检查并缓解任何兼容性问题或不受支持的功能，它们可能会阻碍迁移。",
+   "keys": [
+    [
+     "review and mitigate",
+     "检查并缓解"
+    ],
+    [
+     "compatibility issues",
+     "兼容性问题"
+    ],
+    [
+     "unsupported features",
+     "不受支持的功能"
+    ],
+    [
+     "block the migration",
+     "阻碍迁移"
+    ]
+   ],
+   "verbs": [
+    [
+     "review and mitigate",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "检查并缓解",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso has its inventory and must now decide which applications to move first, weighing complexity, time to move and business urgency. What is this activity called?",
+   "zhStem": "Contoso 已有清单，现在必须权衡复杂度、迁移所需时间和业务紧迫性，决定先迁哪些应用。这项活动叫什么？",
+   "options": [
+    "discovery",
+    "workload prioritization",
+    "dependency analysis",
+    "post-migration testing"
+   ],
+   "answer": 1,
+   "zhTerm": "工作负载优先级排序",
+   "definition": "After you've collected information about your inventory, you can identify which applications and workloads to migrate first. ... To prioritize migration order, consider factors such as complexity, time-to-migrate, business urgency, production considerations, compliance, security requirements, and application knowledge.",
+   "zh": "收集有关清单的信息后，你可以确定首先迁移哪些应用程序和工作负载。……若要确定迁移顺序的优先级，请考虑复杂性、迁移所需时间、业务紧迫性、生产注意事项、合规性、安全要求和应用程序知识等因素。",
+   "keys": [
+    [
+     "inventory",
+     "清单"
+    ],
+    [
+     "which applications and workloads to migrate first",
+     "首先迁移哪些应用程序和工作负载"
+    ],
+    [
+     "prioritize migration order",
+     "确定迁移顺序的优先级"
+    ],
+    [
+     "business urgency",
+     "业务紧迫性"
+    ]
+   ],
+   "verbs": [
+    [
+     "can identify",
+     0
+    ],
+    [
+     "consider",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以确定",
+     0
+    ],
+    [
+     "考虑",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso needs one document that lists the applications to move, their database availability needs, the allowed downtime and the key milestones. What should it write?",
+   "zhStem": "Contoso 需要一份文档，列出要迁移的应用、其数据库可用性要求、允许的停机时间和关键里程碑。应编写什么？",
+   "options": [
+    "business case",
+    "migration plan",
+    "assessment",
+    "RACI matrix"
+   ],
+   "answer": 1,
+   "zhTerm": "迁移计划",
+   "definition": "Create an effective cloud migration plan that includes detailed information about the applications you want to migrate, application and database availability, downtime constraints, and migration milestones.",
+   "zh": "制定有效的云迁移计划，其中包括有关要迁移的应用程序的详细信息、应用程序和数据库可用性、停机时间限制以及迁移里程碑。",
+   "keys": [
+    [
+     "cloud migration plan",
+     "云迁移计划"
+    ],
+    [
+     "application and database availability",
+     "应用程序和数据库可用性"
+    ],
+    [
+     "downtime constraints",
+     "停机时间限制"
+    ],
+    [
+     "migration milestones",
+     "迁移里程碑"
+    ]
+   ],
+   "verbs": [
+    [
+     "Create",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "制定",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Instead of moving everything at once, Contoso moves a small set of top apps, tests them and releases them to production within a two-week sprint, then repeats with the next set. What is each such round called?",
+   "zhStem": "Contoso 不一次性迁移全部内容，而是在两周的冲刺内迁移一小批优先应用、测试并发布到生产环境，然后对下一批重复。每一轮这样的迁移叫什么？",
+   "options": [
+    "migration wave",
+    "cutover",
+    "maintenance window",
+    "test migration"
+   ],
+   "answer": 0,
+   "zhTerm": "迁移批次（波次）",
+   "definition": "To improve your odds of success, plan a series of subsequent waves of migrations. Identify a small set of prioritized workloads to migrate, test, and release to production in a two-week sprint.",
+   "zh": "为了提高成功几率，请规划一系列后续的迁移波次。确定一小组优先工作负载，在为期两周的冲刺中完成迁移、测试并发布到生产环境。",
+   "keys": [
+    [
+     "waves of migrations",
+     "迁移波次"
+    ],
+    [
+     "small set of prioritized workloads",
+     "一小组优先工作负载"
+    ],
+    [
+     "two-week sprint",
+     "两周的冲刺"
+    ]
+   ],
+   "verbs": [
+    [
+     "plan",
+     0
+    ],
+    [
+     "Identify",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "规划",
+     0
+    ],
+    [
+     "确定",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's business says the ordering app may be down for at most two hours after an incident before the impact becomes unacceptable. Which planning value is this?",
+   "zhStem": "Contoso 的业务部门表示，订单应用在发生事故后最多只能中断两小时，否则影响无法接受。这是哪个规划指标？",
+   "options": [
+    "recovery time objective (RTO)",
+    "maintenance window",
+    "migration wave",
+    "high availability"
+   ],
+   "answer": 0,
+   "zhTerm": "恢复时间目标",
+   "definition": "Recovery time objective (RTO): The maximum acceptable time that an application can be unavailable after an incident.",
+   "zh": "恢复时间目标（RTO）：应用程序在发生事件后可以不可用的最长可接受时间。",
+   "keys": [
+    [
+     "Recovery time objective (RTO)",
+     "恢复时间目标（RTO）"
+    ],
+    [
+     "maximum acceptable time",
+     "最长可接受时间"
+    ]
+   ],
+   "verbs": [],
+   "zhVerbs": []
+  },
+  {
+   "stem": "Contoso agrees with the business on a Saturday night slot when the app may be moved with little or no downtime and limited impact on users. What is this agreed slot called?",
+   "zhStem": "Contoso 与业务部门约定在周六晚上的一个时段迁移应用，尽量减少或避免停机，并限制对用户的影响。这个约定的时段叫什么？",
+   "options": [
+    "cutover",
+    "migration wave",
+    "maintenance window",
+    "recovery time objective (RTO)"
+   ],
+   "answer": 2,
+   "zhTerm": "维护窗口",
+   "definition": "Build a migration roadmap. Declare a maintenance window to migrate your applications and databases with minimal to zero downtime, and to limit the potential operational and business impact during migration.",
+   "zh": "制定迁移路线图。声明一个维护窗口，以便在停机时间极短甚至为零的情况下迁移应用程序和数据库，并限制迁移期间可能产生的运营和业务影响。",
+   "keys": [
+    [
+     "migration roadmap",
+     "迁移路线图"
+    ],
+    [
+     "maintenance window",
+     "维护窗口"
+    ],
+    [
+     "minimal to zero downtime",
+     "停机时间极短甚至为零"
+    ],
+    [
+     "business impact",
+     "业务影响"
+    ]
+   ],
+   "verbs": [
+    [
+     "Build",
+     0
+    ],
+    [
+     "Declare",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "制定",
+     0
+    ],
+    [
+     "声明",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "After the app has been moved to Azure, Contoso's team checks that its features, integrations, security and performance all still work as expected. What is this activity called?",
+   "zhStem": "应用迁到 Azure 之后，Contoso 团队检查其功能、集成、安全和性能是否仍按预期工作。这项活动叫什么？",
+   "options": [
+    "post-migration testing",
+    "dependency analysis",
+    "assessment",
+    "test migration"
+   ],
+   "answer": 0,
+   "zhTerm": "迁移后测试",
+   "definition": "A post-migration testing plan should include functional, integration, security, and performance testing and use cases.",
+   "zh": "迁移后测试计划应包括功能测试、集成测试、安全测试和性能测试以及用例。",
+   "keys": [
+    [
+     "post-migration testing plan",
+     "迁移后测试计划"
+    ],
+    [
+     "functional, integration, security, and performance testing",
+     "功能测试、集成测试、安全测试和性能测试"
+    ],
+    [
+     "use cases",
+     "用例"
+    ]
+   ],
+   "verbs": [
+    [
+     "should include",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "应包括",
+     0
+    ]
+   ]
+  }
+ ]
+}

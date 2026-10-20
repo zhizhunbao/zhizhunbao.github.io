@@ -1,0 +1,122 @@
+{
+ "title": "Rehosting to Azure (lab 5) quiz",
+ "questions": [
+  {
+   "stem": "A state agency at Contoso runs over 400 servers and 200 applications built up over decades in its own datacenters. Which pair of reasons best explains its decision to move to the cloud?",
+   "zhStem": "Contoso 的一个州政府机构在自有数据中心里运行着几十年积累下来的 400 多台服务器和 200 个应用。下面哪一对理由最能说明它为什么决定迁移到云？",
+   "options": [
+    "Lower software license prices and faster laptops for staff",
+    "A vendor contract ending and a wish to stop using virtual machines",
+    "Aging infrastructure that is costly to modernize, and a state law encouraging cloud use",
+    "A need to rewrite every application and remove all on-premises networking"
+   ],
+   "answer": 2,
+   "explain": "Aging infrastructure plus state legislation are the drivers, because the old servers were costly to modernize and hard to staff, and the law encouraged agencies to use the cloud.",
+   "zhExplain": "驱动因素是老旧基础设施加上州立法，因为旧服务器现代化成本高且难以招到和留住人员，而法律鼓励政府机构使用云。"
+  },
+  {
+   "stem": "Contoso must leave its datacenters within nine months and has 200 VMware-based applications. Why is rehosting (lift and shift) the right first strategy?",
+   "zhStem": "Contoso 必须在九个月内撤出其数据中心，并且有 200 个基于 VMware 的应用。为什么重新托管（lift and shift）是合适的第一步策略？",
+   "options": [
+    "It moves VMs without code changes, so it fits the tight timeline",
+    "It rewrites each application as cloud-native microservices during the move",
+    "It converts every VM to Azure SQL Managed Instance automatically",
+    "It removes the need to test applications after the move"
+   ],
+   "answer": 0,
+   "explain": "Rehosting fits the deadline, because it moves VMs as they are without code changes, while changing 200 applications one by one could not finish in nine months.",
+   "zhExplain": "重新托管符合截止期限，因为它按原样迁移 VM 而不改代码，而逐个修改 200 个应用无法在九个月内完成。"
+  },
+  {
+   "stem": "A Contoso team is moving a SQL Server database that runs in a VM. One option keeps the VM as is; the other moves the database to Azure SQL Managed Instance. Which statement describes the difference correctly?",
+   "zhStem": "Contoso 的一个团队要迁移一个在 VM 中运行的 SQL Server 数据库。一个方案保持 VM 原样，另一个方案把数据库迁到 Azure SQL Managed Instance。哪种说法正确描述了两者的区别？",
+   "options": [
+    "Rehosting rewrites the code; replatforming keeps the VM unchanged",
+    "Both approaches require a full rewrite of the application",
+    "Replatforming is always faster because it needs less testing",
+    "Rehosting keeps the VM unchanged; replatforming makes small changes to use a managed platform"
+   ],
+   "answer": 3,
+   "explain": "Rehosting keeps the VM as is while replatforming makes small changes to use a managed service, because replatforming adapts the workload to a platform such as Azure SQL Managed Instance without rewriting it.",
+   "zhExplain": "重新托管保持 VM 原样，而平台重构做少量修改以使用托管服务，因为平台重构是在不重写的前提下让工作负载适配 Azure SQL Managed Instance 等平台。"
+  },
+  {
+   "stem": "Contoso plans to move its on-premises vSphere VMs to an Azure VMware Solution private cloud over a private link, in waves, keeping their IP addresses. Which components form this path?",
+   "zhStem": "Contoso 计划通过私有连接，分批把本地 vSphere VM 迁移到 Azure VMware Solution 私有云，并保留它们的 IP 地址。哪些组件构成这条路径？",
+   "options": [
+    "A site-to-site VPN and Azure Migrate agentless replication to App Service",
+    "ExpressRoute with Global Reach for the link and HCX to move VMs and extend networks",
+    "Azure Front Door for the link and Azure Backup to copy the VMs",
+    "The public internet and manual VHD uploads to Azure Storage"
+   ],
+   "answer": 1,
+   "explain": "ExpressRoute Global Reach plus HCX is the path, because Global Reach privately links the on-premises circuit to the private cloud and HCX migrates VMs while extending networks so they keep their IPs.",
+   "zhExplain": "路径是 ExpressRoute Global Reach 加 HCX，因为 Global Reach 将本地线路与私有云私密连接，HCX 迁移 VM 并扩展网络使其保留 IP。"
+  },
+  {
+   "stem": "A Contoso engineer reviews the Azure VMware Solution private cloud design and asks which component turns the local disks of the bare-metal hosts into shared storage for the VMs. Which component is it?",
+   "zhStem": "Contoso 的一名工程师在审查 Azure VMware Solution 私有云设计时，询问哪个组件把裸金属主机的本地磁盘变成供 VM 使用的共享存储。是哪个组件？",
+   "options": [
+    "NSX",
+    "vCenter Server",
+    "vSAN",
+    "VMware HCX"
+   ],
+   "answer": 2,
+   "explain": "vSAN is the answer, because it pools the hosts' local disks into shared storage, while NSX handles networking, vCenter manages hosts, and HCX moves VMs.",
+   "zhExplain": "答案是 vSAN，因为它把主机的本地磁盘汇聚成共享存储，而 NSX 负责网络，vCenter 管理主机，HCX 负责迁移 VM。"
+  },
+  {
+   "stem": "Contoso has deployed the Azure VMware Solution private cloud, ExpressRoute and HCX, recorded performance baselines and built its migration waves. What should the team do next?",
+   "zhStem": "Contoso 已部署 Azure VMware Solution 私有云、ExpressRoute 和 HCX，记录了性能基线并划分好迁移批次。团队下一步应该做什么？",
+   "options": [
+    "Migrate a pilot wave of about 10 low-risk VMs to prove the tools and runbook",
+    "Migrate the claims and payments systems first because they matter most",
+    "Decommission the on-premises datacenter before moving any VMs",
+    "Replatform every application before starting the rehost"
+   ],
+   "answer": 0,
+   "explain": "A pilot wave comes next, because migrating about 10 low-risk VMs first proves the tools, network and runbook before larger waves and critical systems move.",
+   "zhExplain": "下一步是试点批次，因为先迁移约 10 台低风险 VM 能在更大批次和关键系统迁移之前验证工具、网络和操作手册。"
+  },
+  {
+   "stem": "Contoso's dependency analysis shows that a web VM, an application VM and a database VM all talk to each other. How should the team place them in migration waves?",
+   "zhStem": "Contoso 的依赖分析显示，一台 Web VM、一台应用 VM 和一台数据库 VM 彼此通信。团队应如何把它们分配到迁移批次中？",
+   "options": [
+    "Move the database first in its own wave, then the web VM later",
+    "Spread them across waves so each wave has the same VM count",
+    "Move AD DS and DNS with them in the first wave, before any other application",
+    "Put all three in the same wave so no dependency is left across the link"
+   ],
+   "answer": 3,
+   "explain": "They belong in the same wave, because grouping an application with everything it calls avoids leaving a dependency on the other side of the link.",
+   "zhExplain": "它们应放在同一批次，因为把应用及其调用的所有组件放在一起，可以避免把依赖留在链路的另一侧。"
+  },
+  {
+   "stem": "Before cutting over a migration wave, Contoso wants to check the migrated copies while production keeps running on premises. What should the team do?",
+   "zhStem": "在一个迁移批次切换之前，Contoso 希望在本地生产继续运行的同时检查迁移后的副本。团队应该怎么做？",
+   "options": [
+    "Shut down production and test directly in the private cloud network",
+    "Run a test migration into an isolated network segment in the private cloud",
+    "Skip testing and rely on Azure Monitor alerts after cutover",
+    "Ask users to test the copies on the production network"
+   ],
+   "answer": 1,
+   "explain": "A test migration into an isolated segment is right, because it lets the team check the copy without touching production or causing IP conflicts.",
+   "zhExplain": "应在隔离网段中做测试迁移，因为这样团队可以检查副本而不影响生产，也不会造成 IP 冲突。"
+  },
+  {
+   "stem": "Contoso has just cut over a wave, and one critical application fails its tests and cannot be fixed within the agreed 4-hour window. What makes a quick rollback possible?",
+   "zhStem": "Contoso 刚完成一个批次的切换，有一个关键应用测试失败，且无法在约定的 4 小时窗口内修复。什么让快速回滚成为可能？",
+   "options": [
+    "Deleting the on-premises VMs right after cutover to save cost",
+    "Restoring the app from the first Azure Backup taken after cutover",
+    "Keeping the on-premises VMs shut down but intact until stabilization ends",
+    "Moving straight to the next wave and fixing the app later"
+   ],
+   "answer": 2,
+   "explain": "Keeping the on-premises VMs intact enables rollback, because the team can restart the originals or move the VMs back with HCX and point users to them.",
+   "zhExplain": "保留完整的本地 VM 使回滚成为可能，因为团队可以重启原 VM 或用 HCX 迁回，并把用户重新指向它们。"
+  }
+ ]
+}

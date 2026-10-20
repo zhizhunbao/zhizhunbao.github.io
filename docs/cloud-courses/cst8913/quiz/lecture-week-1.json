@@ -1,0 +1,1129 @@
+{
+ "title": "Week 1 lecture quiz",
+ "questions": [
+  {
+   "stem": "Contoso's developers want a free, open source tool on each laptop that keeps the full history of their source code, so they can work offline and go back to any earlier version. Which tool should they use?",
+   "zhStem": "Contoso 的开发人员想在每台笔记本电脑上使用一个免费、开源的工具，保存源代码的完整历史，这样他们可以离线工作，并回到任何早期版本。他们应该使用哪个工具？",
+   "options": [
+    "Git",
+    "Azure Migrate",
+    "Azure DevOps",
+    "GitHub"
+   ],
+   "answer": 0,
+   "zhTerm": "Git 版本控制",
+   "definition": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+   "zh": "Git 是一个免费且开源的分布式版本控制系统，旨在处理从小型到超大型的各种项目，并做到快速、高效。",
+   "keys": [
+    [
+     "Git",
+     "Git"
+    ],
+    [
+     "free and open source",
+     "免费且开源"
+    ],
+    [
+     "distributed version control system",
+     "分布式版本控制系统"
+    ],
+    [
+     "speed and efficiency",
+     "快速、高效"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer checks out version 2.0 of a project, and Git places the project files on disk where she can open and edit them in her code editor. What is this set of files called?",
+   "zhStem": "Contoso 的一名开发人员检出了项目的 2.0 版本，Git 把项目文件放到磁盘上，她可以在代码编辑器里打开和编辑这些文件。这组文件叫什么？",
+   "options": [
+    "working tree",
+    "staging area (index)",
+    "remote repository",
+    "Git directory"
+   ],
+   "answer": 0,
+   "zhTerm": "工作区",
+   "definition": "The working tree is a single checkout of one version of the project. These files are pulled out of the compressed database in the Git directory and placed on disk for you to use or modify.",
+   "zh": "工作区是项目某一版本的单次检出。这些文件从 Git 目录中的压缩数据库中提取出来，放在磁盘上供你使用或修改。",
+   "keys": [
+    [
+     "working tree",
+     "工作区"
+    ],
+    [
+     "single checkout",
+     "单次检出"
+    ],
+    [
+     "compressed database",
+     "压缩数据库"
+    ],
+    [
+     "placed on disk",
+     "放在磁盘上"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "are pulled out of",
+     0
+    ],
+    [
+     "placed",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "提取出来",
+     0
+    ],
+    [
+     "放在",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer edits config.yaml and saves it in her editor, but has not run any Git command on it yet. Which state is the file in?",
+   "zhStem": "Contoso 的一名开发人员在编辑器里编辑并保存了 config.yaml，但还没有对它运行任何 Git 命令。这个文件处于哪种状态？",
+   "options": [
+    "staged",
+    "committed",
+    "Ready for Azure",
+    "modified"
+   ],
+   "answer": 3,
+   "zhTerm": "已修改",
+   "definition": "Modified means that you have changed the file but have not committed it to your database yet.",
+   "zh": "已修改表示你已更改文件，但尚未将其提交到数据库。",
+   "keys": [
+    [
+     "Modified",
+     "已修改"
+    ],
+    [
+     "changed the file",
+     "已更改文件"
+    ],
+    [
+     "not committed",
+     "尚未将其提交"
+    ],
+    [
+     "database",
+     "数据库"
+    ]
+   ],
+   "verbs": [
+    [
+     "means",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "表示",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer changed three files but wants only two of them in the next snapshot. Which command marks just those two files for inclusion?",
+   "zhStem": "Contoso 的一名开发人员改了三个文件，但只想让其中两个进入下一个快照。哪个命令只把这两个文件标记为要包含的内容？",
+   "options": [
+    "clone",
+    "commit",
+    "git add",
+    "push"
+   ],
+   "answer": 2,
+   "zhTerm": "git add 暂存",
+   "definition": "Add contents of new or changed files to the index. The \"index\" (also known as the \"staging area\") is what you use to prepare the contents of the next commit.",
+   "zh": "将新文件或已更改文件的内容添加到索引中。“索引”（也称为“暂存区”）是你用来准备下一次提交内容的地方。",
+   "keys": [
+    [
+     "new or changed files",
+     "新文件或已更改文件"
+    ],
+    [
+     "index",
+     "索引"
+    ],
+    [
+     "staging area",
+     "暂存区"
+    ],
+    [
+     "next commit",
+     "下一次提交"
+    ]
+   ],
+   "verbs": [
+    [
+     "Add",
+     0
+    ],
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "添加到",
+     0
+    ],
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Before saving a snapshot, a Contoso developer wants to see the changes that are lined up to go into the next one, kept apart from other edits still in progress. Where are those lined-up changes recorded?",
+   "zhStem": "在保存快照之前，Contoso 的一名开发人员想查看已经排好、要进入下一个快照的更改，这些更改与其他仍在进行中的编辑分开。这些排好的更改记录在哪里？",
+   "options": [
+    "staging area (index)",
+    "upstream repository",
+    "working tree",
+    "remote repository"
+   ],
+   "answer": 0,
+   "zhTerm": "暂存区",
+   "definition": "The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. Its technical name in Git parlance is the \"index\"...",
+   "zh": "暂存区是一个文件，通常位于你的 Git 目录中，存储着有关下一次提交将包含哪些内容的信息。用 Git 的术语来说，它的技术名称是“索引”……",
+   "keys": [
+    [
+     "staging area",
+     "暂存区"
+    ],
+    [
+     "Git directory",
+     "Git 目录"
+    ],
+    [
+     "next commit",
+     "下一次提交"
+    ],
+    [
+     "index",
+     "索引"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer edited app.py and then ran git add on it, but has not saved a snapshot yet. Which state is app.py in?",
+   "zhStem": "Contoso 的一名开发人员编辑了 app.py，然后对它运行了 git add，但还没有保存快照。app.py 处于哪种状态？",
+   "options": [
+    "Ready for Azure",
+    "modified",
+    "staged",
+    "committed"
+   ],
+   "answer": 2,
+   "zhTerm": "已暂存",
+   "definition": "Staged means that you have marked a modified file in its current version to go into your next commit snapshot.",
+   "zh": "已暂存表示你已将修改过的文件的当前版本标记为要放入下一次提交快照中。",
+   "keys": [
+    [
+     "Staged",
+     "已暂存"
+    ],
+    [
+     "modified file",
+     "修改过的文件"
+    ],
+    [
+     "current version",
+     "当前版本"
+    ],
+    [
+     "next commit snapshot",
+     "下一次提交快照"
+    ]
+   ],
+   "verbs": [
+    [
+     "means",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "表示",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer has prepared her changes and now wants to save a snapshot of the whole project in her local history, with a message that describes the change. What should she do?",
+   "zhStem": "Contoso 的一名开发人员已经准备好更改，现在想把整个项目的快照保存到本地历史中，并附上一条描述更改的消息。她应该做什么？",
+   "options": [
+    "clone",
+    "merge",
+    "commit",
+    "push"
+   ],
+   "answer": 2,
+   "zhTerm": "提交",
+   "definition": "With Git, every time you commit, or save the state of your project, Git basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot.",
+   "zh": "在 Git 中，每当你提交，或者说保存你的项目状态时，Git 基本上会为你所有文件在那一刻的样子拍一张照片，并存储对该快照的一个引用。",
+   "keys": [
+    [
+     "commit",
+     "提交"
+    ],
+    [
+     "save the state",
+     "保存你的项目状态"
+    ],
+    [
+     "takes a picture",
+     "拍一张照片"
+    ],
+    [
+     "snapshot",
+     "快照"
+    ]
+   ],
+   "verbs": [
+    [
+     "takes a picture of",
+     0
+    ],
+    [
+     "stores",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "拍一张照片",
+     0
+    ],
+    [
+     "存储",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer wants to find the hidden folder where version control keeps the project's metadata and object database, the part that is copied when someone clones the repository. What is this folder called?",
+   "zhStem": "Contoso 的一名开发人员想找到版本控制保存项目元数据和对象数据库的隐藏文件夹，也就是别人克隆仓库时被复制的那部分。这个文件夹叫什么？",
+   "options": [
+    "working tree",
+    "Git directory",
+    "remote repository",
+    "staging area (index)"
+   ],
+   "answer": 1,
+   "zhTerm": "Git 目录（本地仓库）",
+   "definition": "The Git directory is where Git stores the metadata and object database for your project. This is the most important part of Git, and it is what is copied when you clone a repository from another computer.",
+   "zh": "Git 目录是 Git 存储项目元数据和对象数据库的地方。这是 Git 最重要的部分，也是你从另一台计算机克隆仓库时所复制的内容。",
+   "keys": [
+    [
+     "Git directory",
+     "Git 目录"
+    ],
+    [
+     "metadata",
+     "元数据"
+    ],
+    [
+     "object database",
+     "对象数据库"
+    ],
+    [
+     "clone a repository",
+     "克隆仓库"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "is",
+     0
+    ],
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "是",
+     0
+    ],
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer's change has been saved as a snapshot and is now stored safely in her local database, but she has not shared it with anyone yet. Which state is the change in?",
+   "zhStem": "Contoso 的一名开发人员的更改已经保存为快照，并安全地存储在她的本地数据库中，但她还没有和任何人共享。这个更改处于哪种状态？",
+   "options": [
+    "Ready for Azure",
+    "modified",
+    "staged",
+    "committed"
+   ],
+   "answer": 3,
+   "zhTerm": "已提交",
+   "definition": "Committed means that the data is safely stored in your local database.",
+   "zh": "已提交表示数据已安全地存储在本地数据库中。",
+   "keys": [
+    [
+     "Committed",
+     "已提交"
+    ],
+    [
+     "safely stored",
+     "安全地存储"
+    ],
+    [
+     "local database",
+     "本地数据库"
+    ]
+   ],
+   "verbs": [
+    [
+     "means",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "表示",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso's team keeps a copy of their project on a company server that everyone fetches from and sends work to, while each developer works in a local copy on a laptop. From a developer's point of view, what is the copy on the server called?",
+   "zhStem": "Contoso 的团队在公司服务器上保存一份项目副本，每个人都从那里获取并把工作发送过去，而每个开发人员在笔记本电脑上的本地副本中工作。从开发人员的角度看，服务器上的副本叫什么？",
+   "options": [
+    "working tree",
+    "Git directory",
+    "remote repository",
+    "staging area (index)"
+   ],
+   "answer": 2,
+   "zhTerm": "远程仓库",
+   "definition": "A repository which is used to track the same project but resides somewhere else. To communicate with remotes, see fetch or push.",
+   "zh": "一个用于跟踪同一项目、但位于其他位置的仓库。要与远程仓库通信，请参阅 fetch 或 push。",
+   "keys": [
+    [
+     "track the same project",
+     "跟踪同一项目"
+    ],
+    [
+     "resides somewhere else",
+     "位于其他位置"
+    ],
+    [
+     "remotes",
+     "远程仓库"
+    ]
+   ],
+   "verbs": [
+    [
+     "see",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "请参阅",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer has finished some local snapshots and wants to share them by sending them up to the team's server. Which operation should she use?",
+   "zhStem": "Contoso 的一名开发人员完成了一些本地快照，想把它们发送到团队的服务器上与大家共享。她应该使用哪个操作？",
+   "options": [
+    "clone",
+    "push",
+    "merge",
+    "pull"
+   ],
+   "answer": 1,
+   "zhTerm": "推送",
+   "definition": "When you have your project at a point that you want to share, you have to push it upstream.",
+   "zh": "当你的项目进展到你想要分享的程度时，你必须将它推送到上游。",
+   "keys": [
+    [
+     "your project",
+     "你的项目"
+    ],
+    [
+     "share",
+     "分享"
+    ],
+    [
+     "push it upstream",
+     "推送到上游"
+    ]
+   ],
+   "verbs": [
+    [
+     "have to push",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "推送到",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer wants to download the latest changes from the team's server and combine them into her current line of work in one step. Which operation should she use?",
+   "zhStem": "Contoso 的一名开发人员想从团队服务器下载最新更改，并一步把它们合入她当前的工作线。她应该使用哪个操作？",
+   "options": [
+    "clone",
+    "commit",
+    "push",
+    "pull"
+   ],
+   "answer": 3,
+   "zhTerm": "拉取",
+   "definition": "Pulling a branch means to fetch it and merge it.",
+   "zh": "拉取一个分支意味着获取它并合并它。",
+   "keys": [
+    [
+     "Pulling",
+     "拉取"
+    ],
+    [
+     "branch",
+     "分支"
+    ],
+    [
+     "fetch",
+     "获取"
+    ],
+    [
+     "merge",
+     "合并"
+    ]
+   ],
+   "verbs": [
+    [
+     "means",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "意味着",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A new developer joins Contoso and needs a full local copy of an existing repository, including its history, on a laptop that has no copy of it yet. Which command should he run?",
+   "zhStem": "一名新开发人员加入 Contoso，需要在一台还没有该仓库的笔记本电脑上获得现有仓库的完整本地副本，包括其历史。他应该运行哪个命令？",
+   "options": [
+    "pull",
+    "push",
+    "clone",
+    "fork"
+   ],
+   "answer": 2,
+   "zhTerm": "克隆",
+   "definition": "If you want to get a copy of an existing Git repository — for example, a project you’d like to contribute to — the command you need is git clone.",
+   "zh": "如果你想获取一个现有 Git 仓库的副本——例如，一个你想参与贡献的项目——你需要的命令是 git clone。",
+   "keys": [
+    [
+     "existing Git repository",
+     "现有 Git 仓库"
+    ],
+    [
+     "contribute",
+     "参与贡献"
+    ],
+    [
+     "git clone",
+     "git clone"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Contoso wants one online platform where its teams can host repositories, plan work, review code and deploy software. Which should they choose?",
+   "zhStem": "Contoso 想要一个在线平台，让各团队在上面托管仓库、规划工作、审查代码并部署软件。他们应该选择哪个？",
+   "options": [
+    "Git",
+    "Movere",
+    "GitHub",
+    "Azure Migrate"
+   ],
+   "answer": 2,
+   "zhTerm": "GitHub 平台",
+   "definition": "GitHub is a platform that supports your entire software development process, from planning work to deploying and operating software.",
+   "zh": "GitHub 是一个平台，支持你的整个软件开发流程，从规划工作到部署和运营软件。",
+   "keys": [
+    [
+     "GitHub",
+     "GitHub"
+    ],
+    [
+     "platform",
+     "平台"
+    ],
+    [
+     "entire software development process",
+     "整个软件开发流程"
+    ],
+    [
+     "planning work",
+     "规划工作"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso open source project lets anyone with read access copy the repository into their own account, make changes there, and then ask the owner to bring those changes in. Which collaboration approach is this?",
+   "zhStem": "Contoso 的一个开源项目允许任何有读取权限的人把仓库复制到自己的账户中，在那里修改，然后请所有者把这些更改合并进来。这是哪种协作方式？",
+   "options": [
+    "shared repository model",
+    "shared responsibility model",
+    "consumption-based model",
+    "fork and pull model"
+   ],
+   "answer": 3,
+   "zhTerm": "复刻加拉取请求模式",
+   "definition": "In the fork and pull model, anyone can fork an existing (\"upstream\") repository if they have read access and the owner of the upstream repository allows it.",
+   "zh": "在复刻加拉取请求模式中，任何人都可以复刻现有的（“上游”）仓库，前提是他们拥有读取权限，并且上游仓库的所有者允许这样做。",
+   "keys": [
+    [
+     "fork and pull model",
+     "复刻加拉取请求模式"
+    ],
+    [
+     "read access",
+     "读取权限"
+    ],
+    [
+     "owner of the upstream repository",
+     "上游仓库的所有者"
+    ]
+   ],
+   "verbs": [
+    [
+     "can fork",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以复刻",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A developer copied Contoso's public repository into her own account to work on it. What is the original Contoso repository called in relation to her copy?",
+   "zhStem": "一名开发人员把 Contoso 的公共仓库复制到自己的账户中进行开发。相对于她的副本，Contoso 原来的仓库叫什么？",
+   "options": [
+    "fork",
+    "Git directory",
+    "upstream repository",
+    "working tree"
+   ],
+   "answer": 2,
+   "zhTerm": "上游仓库",
+   "definition": "Forks are repositories that start as copies of another repository, called the upstream repository.",
+   "zh": "复刻是一些仓库，它们最初是另一个仓库的副本，该仓库称为上游仓库。",
+   "keys": [
+    [
+     "Forks",
+     "复刻"
+    ],
+    [
+     "copies",
+     "副本"
+    ],
+    [
+     "upstream repository",
+     "上游仓库"
+    ]
+   ],
+   "verbs": [
+    [
+     "are",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A developer wants her own separate repository on the platform, with its own settings, that starts as a copy of a Contoso project she can only read. What should she create?",
+   "zhStem": "一名开发人员想在平台上拥有一个自己的独立仓库，有自己的设置，并以她只能读取的 Contoso 项目的副本为起点。她应该创建什么？",
+   "options": [
+    "pull request",
+    "fork",
+    "clone",
+    "branch"
+   ],
+   "answer": 1,
+   "zhTerm": "复刻（Fork）",
+   "definition": "A fork is a separate repository with its own settings and collaboration space.",
+   "zh": "复刻是一个独立的仓库，拥有自己的设置和协作空间。",
+   "keys": [
+    [
+     "fork",
+     "复刻"
+    ],
+    [
+     "separate repository",
+     "独立的仓库"
+    ],
+    [
+     "own settings",
+     "自己的设置"
+    ],
+    [
+     "collaboration space",
+     "协作空间"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Everyone on Contoso's small internal team has write access to one common repository, and each developer starts a topic line of work there for each change. Which collaboration approach is this?",
+   "zhStem": "Contoso 小型内部团队的每个人都对同一个公共仓库有写入权限，每个开发人员为每项更改在其中开一条主题工作线。这是哪种协作方式？",
+   "options": [
+    "shared responsibility model",
+    "consumption-based model",
+    "fork and pull model",
+    "shared repository model"
+   ],
+   "answer": 3,
+   "zhTerm": "共享仓库模式",
+   "definition": "In the shared repository model, collaborators have push access to a single shared repository and create topic branches when they need to make changes.",
+   "zh": "在共享仓库模式中，协作者对单个共享仓库拥有推送权限，并在需要进行更改时创建主题分支。",
+   "keys": [
+    [
+     "shared repository model",
+     "共享仓库模式"
+    ],
+    [
+     "collaborators",
+     "协作者"
+    ],
+    [
+     "push access",
+     "推送权限"
+    ],
+    [
+     "topic branches",
+     "主题分支"
+    ]
+   ],
+   "verbs": [
+    [
+     "have",
+     0
+    ],
+    [
+     "create",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "拥有",
+     0
+    ],
+    [
+     "创建",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "The owner of a Contoso repository invites a contractor and gives her read and write access so she can contribute directly. What role does the contractor now have on the repository?",
+   "zhStem": "Contoso 某个仓库的所有者邀请了一名外包人员，并给她读取和写入权限，让她可以直接贡献。这名外包人员现在在该仓库中是什么角色？",
+   "options": [
+    "Consulted",
+    "Informed",
+    "collaborator",
+    "Accountable"
+   ],
+   "answer": 2,
+   "zhTerm": "协作者",
+   "definition": "A collaborator is a person with read and write access to a repository who has been invited to contribute by the repository owner.",
+   "zh": "协作者是对某个仓库拥有读写访问权限的人，此人已受仓库所有者邀请参与贡献。",
+   "keys": [
+    [
+     "collaborator",
+     "协作者"
+    ],
+    [
+     "read and write access",
+     "读写访问权限"
+    ],
+    [
+     "invited to contribute",
+     "邀请参与贡献"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer wants to build a new feature on its own line of development inside the same repository, without disturbing the main code. What should she create?",
+   "zhStem": "Contoso 的一名开发人员想在同一个仓库内，用一条独立的开发线来开发新功能，而不影响主代码。她应该创建什么？",
+   "options": [
+    "fork",
+    "clone",
+    "branch",
+    "commit"
+   ],
+   "answer": 2,
+   "zhTerm": "分支",
+   "definition": "A \"branch\" is a line of development. The most recent commit on a branch is referred to as the tip of that branch.",
+   "zh": "“分支”是一条开发线。分支上最近的一次提交被称为该分支的末端（tip）。",
+   "keys": [
+    [
+     "branch",
+     "分支"
+    ],
+    [
+     "line of development",
+     "开发线"
+    ],
+    [
+     "most recent commit",
+     "最近的一次提交"
+    ],
+    [
+     "tip",
+     "末端"
+    ]
+   ],
+   "verbs": [
+    [
+     "is",
+     0
+    ],
+    [
+     "is referred to as",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "被称为",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A Contoso developer has finished a feature on her own line of work and wants to propose adding the changes to the main code, so the team can discuss them first. What should she create?",
+   "zhStem": "Contoso 的一名开发人员在自己的工作线上完成了一个功能，想提议把这些更改加入主代码，让团队先讨论。她应该创建什么？",
+   "options": [
+    "commit",
+    "fork",
+    "branch",
+    "pull request"
+   ],
+   "answer": 3,
+   "zhTerm": "拉取请求（PR）",
+   "definition": "Pull requests are proposals to merge code changes into a project.",
+   "zh": "拉取请求是一种提议：将代码更改合并到一个项目中。",
+   "keys": [
+    [
+     "Pull requests",
+     "拉取请求"
+    ],
+    [
+     "proposals",
+     "提议"
+    ],
+    [
+     "code changes",
+     "代码更改"
+    ],
+    [
+     "project",
+     "项目"
+    ]
+   ],
+   "verbs": [
+    [
+     "are",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A pull request is open at Contoso, and a senior developer must comment on the changes, suggest fixes, and approve them or ask for changes before anything is combined. What is she doing?",
+   "zhStem": "Contoso 有一个打开的拉取请求，一名高级开发人员必须在任何内容被合并之前对更改发表评论、提出修改建议，并批准或要求修改。她在做什么？",
+   "options": [
+    "merge",
+    "push",
+    "commit",
+    "review"
+   ],
+   "answer": 3,
+   "zhTerm": "代码审查",
+   "definition": "Pull request reviews let people comment on changes, suggest improvements, and approve or request changes before code is merged.",
+   "zh": "拉取请求审查让人们可以在代码合并之前对更改发表评论、提出改进建议，以及批准或请求更改。",
+   "keys": [
+    [
+     "Pull request reviews",
+     "拉取请求审查"
+    ],
+    [
+     "comment on changes",
+     "对更改发表评论"
+    ],
+    [
+     "suggest improvements",
+     "提出改进建议"
+    ],
+    [
+     "approve or request changes",
+     "批准或请求更改"
+    ]
+   ],
+   "verbs": [
+    [
+     "let",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "让",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "A pull request at Contoso has been approved, and the team now wants the changes from the feature line of work applied into the main line. Which action does this?",
+   "zhStem": "Contoso 的一个拉取请求已经获批，团队现在想把功能工作线上的更改应用到主线中。哪个操作能做到这一点？",
+   "options": [
+    "clone",
+    "push",
+    "merge",
+    "review"
+   ],
+   "answer": 2,
+   "zhTerm": "合并",
+   "definition": "Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another.",
+   "zh": "合并会获取来自一个分支（位于同一仓库中或来自某个复刻）的更改，并将其应用到另一个分支中。",
+   "keys": [
+    [
+     "Merging",
+     "合并"
+    ],
+    [
+     "one branch",
+     "一个分支"
+    ],
+    [
+     "fork",
+     "复刻"
+    ],
+    [
+     "applies them into another",
+     "应用到另一个分支"
+    ]
+   ],
+   "verbs": [
+    [
+     "takes",
+     0
+    ],
+    [
+     "applies",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "会获取",
+     0
+    ],
+    [
+     "应用到",
+     0
+    ]
+   ]
+  },
+  {
+   "stem": "Whenever someone opens a new pull request on a Contoso repository, the base is set automatically to main, the line created when the repository was first initialized. What is main in this repository?",
+   "zhStem": "每当有人在 Contoso 的仓库上新建拉取请求时，目标基准都会自动设为 main，也就是仓库初始化时创建的那条开发线。main 在这个仓库中是什么？",
+   "options": [
+    "default branch",
+    "remote repository",
+    "upstream repository",
+    "fork"
+   ],
+   "answer": 0,
+   "zhTerm": "默认分支",
+   "definition": "The base branch for new pull requests and code commits in a repository. Each repository has at least one branch, which Git creates when you initialize the repository. The first branch is usually called main, and is often the default branch.",
+   "zh": "仓库中新拉取请求和代码提交的基础分支。每个仓库至少有一个分支，该分支由 Git 在你初始化仓库时创建。第一个分支通常称为 main，并且通常是默认分支。",
+   "keys": [
+    [
+     "base branch",
+     "基础分支"
+    ],
+    [
+     "at least one branch",
+     "至少有一个分支"
+    ],
+    [
+     "initialize",
+     "初始化"
+    ],
+    [
+     "default branch",
+     "默认分支"
+    ]
+   ],
+   "verbs": [
+    [
+     "has",
+     0
+    ],
+    [
+     "is usually called",
+     0
+    ],
+    [
+     "is",
+     0
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "有",
+     0
+    ],
+    [
+     "通常称为",
+     0
+    ],
+    [
+     "是",
+     0
+    ]
+   ]
+  }
+ ]
+}

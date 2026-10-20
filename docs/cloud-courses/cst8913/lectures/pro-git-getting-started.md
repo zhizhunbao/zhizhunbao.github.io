@@ -6,7 +6,7 @@ ms.date: 2026-10-19
 
 # Pro Git: getting started
 
-Study notes on [Scott Chacon and Ben Straub, Pro Git, 2nd edition](https://git-scm.com/book/en/v2), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 1. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The verb of each sentence is in a red box, in the English and in the Chinese.
+Study notes on [Scott Chacon and Ben Straub, Pro Git, 2nd edition](https://git-scm.com/book/en/v2), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 1. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The verb of each sentence has a red wavy underline, in the English and in the Chinese.
 
 ## [What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
