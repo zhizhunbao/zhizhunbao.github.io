@@ -40,6 +40,12 @@
      "the most flexible category"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Describe cloud service types",
    "href": "../lectures/describe-cloud-service-types.html#describe-infrastructure-as-a-service"
   },
@@ -86,6 +92,12 @@
      "a middle ground"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Describe cloud service types",
    "href": "../lectures/describe-cloud-service-types.html#describe-platform-as-a-service"
   },
@@ -126,6 +138,12 @@
     [
      "O",
      "a fully developed application"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是在租用或使用",
+     0
     ]
    ],
    "page": "Describe cloud service types",
@@ -198,6 +216,24 @@
      "risk"
     ]
    ],
+   "zhVerbs": [
+    [
+     "查看",
+     0
+    ],
+    [
+     "探索",
+     0
+    ],
+    [
+     "有助于加快",
+     0
+    ],
+    [
+     "降低",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
   },
@@ -256,6 +292,16 @@
      "a presentation tier, an optional middle tier, and a database tier"
     ]
    ],
+   "zhVerbs": [
+    [
+     "划分为",
+     0
+    ],
+    [
+     "具有",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
   },
@@ -308,6 +354,16 @@
     [
      "V",
      "are also deleted"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "也会被删除",
+     0
     ]
    ],
    "page": "Windows N-tier application on Azure",
@@ -380,6 +436,20 @@
      "any request"
     ]
    ],
+   "zhVerbs": [
+    [
+     "标记为",
+     0
+    ],
+    [
+     "是",
+     0
+    ],
+    [
+     "可以处理",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
   },
@@ -450,6 +520,20 @@
      "any request"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是指",
+     0
+    ],
+    [
+     "是",
+     0
+    ],
+    [
+     "可以处理",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
   },
@@ -498,6 +582,16 @@
     [
      "O",
      "access"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "组成",
+     0
+    ],
+    [
+     "限制",
+     0
     ]
    ],
    "page": "Windows N-tier application on Azure",
@@ -558,6 +652,20 @@
      "communicate"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "连接到",
+     0
+    ],
+    [
+     "进行通信",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#architecture"
   },
@@ -616,6 +724,16 @@
      "Azure resources"
     ]
    ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "使",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
   },
@@ -668,6 +786,16 @@
     [
      "V",
      "is required"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "需要",
+     0
     ]
    ],
    "page": "Windows N-tier application on Azure",
@@ -728,6 +856,16 @@
      "intelligent routing decisions"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "做出",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
   },
@@ -768,6 +906,12 @@
     [
      "O",
      "essential containers"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Windows N-tier application on Azure",
@@ -828,6 +972,16 @@
      "security rules"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可以使用",
+     0
+    ],
+    [
+     "包含",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
   },
@@ -882,6 +1036,16 @@
      "operates"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "运行",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#networking-and-load-balancing"
   },
@@ -918,6 +1082,12 @@
     [
      "V",
      "is used"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "用于",
+     0
     ]
    ],
    "page": "Windows N-tier application on Azure",
@@ -964,6 +1134,12 @@
     [
      "O",
      "a set"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Windows N-tier application on Azure",
@@ -1020,6 +1196,16 @@
      "independent power, cooling, and networking infrastructure"
     ]
    ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "都有",
+     0
+    ]
+   ],
    "page": "Windows N-tier application on Azure",
    "href": "../lectures/windows-n-tier-application-on-azure.html#availability"
   },
@@ -1060,6 +1246,12 @@
     [
      "V",
      "are deployed"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "部署",
+     0
     ]
    ],
    "page": "Windows N-tier application on Azure",

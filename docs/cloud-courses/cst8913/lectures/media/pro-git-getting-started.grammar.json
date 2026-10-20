@@ -1,222 +1,354 @@
 {
- "Git": [
-  [
-   "S",
-   "Git"
+ "Git": {
+  "roles": [
+   [
+    "S",
+    "Git"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a free and open source distributed version control system"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a free and open source distributed version control system"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "working tree": [
-  [
-   "S",
-   "The working tree"
+ },
+ "working tree": {
+  "roles": [
+   [
+    "S",
+    "The working tree"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a single checkout"
+   ],
+   [
+    "S",
+    "These files"
+   ],
+   [
+    "V",
+    "are pulled out"
+   ],
+   [
+    "V",
+    "placed"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a single checkout"
-  ],
-  [
-   "S",
-   "These files"
-  ],
-  [
-   "V",
-   "are pulled out"
-  ],
-  [
-   "V",
-   "placed"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "提取出来",
+    0
+   ],
+   [
+    "放在",
+    0
+   ]
   ]
- ],
- "modified": [
-  [
-   "S",
-   "Modified"
+ },
+ "modified": {
+  "roles": [
+   [
+    "S",
+    "Modified"
+   ],
+   [
+    "V",
+    "means"
+   ]
   ],
-  [
-   "V",
-   "means"
+  "zhVerbs": [
+   [
+    "表示",
+    0
+   ]
   ]
- ],
- "git add": [
-  [
-   "V",
-   "Add"
+ },
+ "git add": {
+  "roles": [
+   [
+    "V",
+    "Add"
+   ],
+   [
+    "O",
+    "contents"
+   ],
+   [
+    "S",
+    "The \"index\""
+   ],
+   [
+    "V",
+    "is"
+   ]
   ],
-  [
-   "O",
-   "contents"
-  ],
-  [
-   "S",
-   "The \"index\""
-  ],
-  [
-   "V",
-   "is"
+  "zhVerbs": [
+   [
+    "添加到",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "staging area (index)": [
-  [
-   "S",
-   "The staging area"
+ },
+ "staging area (index)": {
+  "roles": [
+   [
+    "S",
+    "The staging area"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a file"
+   ],
+   [
+    "S",
+    "Its technical name"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the \"index\""
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a file"
-  ],
-  [
-   "S",
-   "Its technical name"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the \"index\""
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "staged": [
-  [
-   "S",
-   "Staged"
+ },
+ "staged": {
+  "roles": [
+   [
+    "S",
+    "Staged"
+   ],
+   [
+    "V",
+    "means"
+   ]
   ],
-  [
-   "V",
-   "means"
+  "zhVerbs": [
+   [
+    "表示",
+    0
+   ]
   ]
- ],
- "commit": [
-  [
-   "S",
-   "Git",
-   1
+ },
+ "commit": {
+  "roles": [
+   [
+    "S",
+    "Git",
+    1
+   ],
+   [
+    "V",
+    "takes"
+   ],
+   [
+    "O",
+    "a picture"
+   ],
+   [
+    "V",
+    "stores"
+   ],
+   [
+    "O",
+    "a reference"
+   ]
   ],
-  [
-   "V",
-   "takes"
-  ],
-  [
-   "O",
-   "a picture"
-  ],
-  [
-   "V",
-   "stores"
-  ],
-  [
-   "O",
-   "a reference"
+  "zhVerbs": [
+   [
+    "拍",
+    0
+   ],
+   [
+    "存储",
+    0
+   ]
   ]
- ],
- "Git directory": [
-  [
-   "S",
-   "The Git directory"
+ },
+ "Git directory": {
+  "roles": [
+   [
+    "S",
+    "The Git directory"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "S",
+    "This"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the most important part"
+   ],
+   [
+    "S",
+    "it"
+   ],
+   [
+    "V",
+    "is"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "S",
-   "This"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the most important part"
-  ],
-  [
-   "S",
-   "it"
-  ],
-  [
-   "V",
-   "is"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "是",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "committed": [
-  [
-   "S",
-   "Committed"
+ },
+ "committed": {
+  "roles": [
+   [
+    "S",
+    "Committed"
+   ],
+   [
+    "V",
+    "means"
+   ]
   ],
-  [
-   "V",
-   "means"
+  "zhVerbs": [
+   [
+    "表示",
+    0
+   ]
   ]
- ],
- "remote repository": [
-  [
-   "V",
-   "see"
+ },
+ "remote repository": {
+  "roles": [
+   [
+    "V",
+    "see"
+   ],
+   [
+    "O",
+    "fetch or push"
+   ]
   ],
-  [
-   "O",
-   "fetch or push"
+  "zhVerbs": [
+   [
+    "请参阅",
+    0
+   ]
   ]
- ],
- "push": [
-  [
-   "S",
-   "you",
-   2
+ },
+ "push": {
+  "roles": [
+   [
+    "S",
+    "you",
+    2
+   ],
+   [
+    "V",
+    "have to push"
+   ],
+   [
+    "O",
+    "it"
+   ]
   ],
-  [
-   "V",
-   "have to push"
-  ],
-  [
-   "O",
-   "it"
+  "zhVerbs": [
+   [
+    "推送",
+    0
+   ]
   ]
- ],
- "pull": [
-  [
-   "S",
-   "Pulling a branch"
+ },
+ "pull": {
+  "roles": [
+   [
+    "S",
+    "Pulling a branch"
+   ],
+   [
+    "V",
+    "means"
+   ],
+   [
+    "O",
+    "to fetch it and merge it"
+   ]
   ],
-  [
-   "V",
-   "means"
-  ],
-  [
-   "O",
-   "to fetch it and merge it"
+  "zhVerbs": [
+   [
+    "意味着",
+    0
+   ]
   ]
- ],
- "clone": [
-  [
-   "S",
-   "the command"
+ },
+ "clone": {
+  "roles": [
+   [
+    "S",
+    "the command"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "git clone"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "git clone"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ]
+ }
 }

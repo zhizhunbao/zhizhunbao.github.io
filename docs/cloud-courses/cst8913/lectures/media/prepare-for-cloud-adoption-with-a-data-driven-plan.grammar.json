@@ -1,282 +1,457 @@
 {
- "digital estate": [
-  [
-   "S",
-   "the first step"
+ "digital estate": {
+  "roles": [
+   [
+    "S",
+    "the first step"
+   ],
+   [
+    "V",
+    "starts"
+   ],
+   [
+    "S",
+    "Those assets"
+   ],
+   [
+    "V",
+    "are referred to as"
+   ],
+   [
+    "O",
+    "your digital estate"
+   ]
   ],
-  [
-   "V",
-   "starts"
-  ],
-  [
-   "S",
-   "Those assets"
-  ],
-  [
-   "V",
-   "are referred to as"
-  ],
-  [
-   "O",
-   "your digital estate"
+  "zhVerbs": [
+   [
+    "都是",
+    0
+   ],
+   [
+    "统称为",
+    0
+   ]
   ]
- ],
- "agentless discovery": [
-  [
-   "S",
-   "Azure Migrate"
+ },
+ "agentless discovery": {
+  "roles": [
+   [
+    "S",
+    "Azure Migrate"
+   ],
+   [
+    "V",
+    "uses"
+   ],
+   [
+    "O",
+    "a lightweight Azure Migrate appliance"
+   ],
+   [
+    "S",
+    "Continuous discovery"
+   ],
+   [
+    "V",
+    "collects"
+   ],
+   [
+    "O",
+    "machine configuration information"
+   ]
   ],
-  [
-   "V",
-   "uses"
-  ],
-  [
-   "O",
-   "a lightweight Azure Migrate appliance"
-  ],
-  [
-   "S",
-   "Continuous discovery"
-  ],
-  [
-   "V",
-   "collects"
-  ],
-  [
-   "O",
-   "machine configuration information"
+  "zhVerbs": [
+   [
+    "使用",
+    0
+   ],
+   [
+    "收集",
+    0
+   ]
   ]
- ],
- "Azure Migrate project": [
-  [
-   "S",
-   "A project"
+ },
+ "Azure Migrate project": {
+  "roles": [
+   [
+    "S",
+    "A project"
+   ],
+   [
+    "V",
+    "is used"
+   ]
   ],
-  [
-   "V",
-   "is used"
+  "zhVerbs": [
+   [
+    "用于",
+    0
+   ]
   ]
- ],
- "group (Azure Migrate)": [
-  [
-   "S",
-   "you"
+ },
+ "group (Azure Migrate)": {
+  "roles": [
+   [
+    "S",
+    "you"
+   ],
+   [
+    "V",
+    "can create"
+   ],
+   [
+    "O",
+    "high-confidence groups"
+   ],
+   [
+    "V",
+    "start assessing"
+   ],
+   [
+    "O",
+    "them"
+   ]
   ],
-  [
-   "V",
-   "can create"
-  ],
-  [
-   "O",
-   "high-confidence groups"
-  ],
-  [
-   "V",
-   "start assessing"
-  ],
-  [
-   "O",
-   "them"
+  "zhVerbs": [
+   [
+    "可以创建",
+    0
+   ],
+   [
+    "开始",
+    0
+   ]
   ]
- ],
- "Ready for Azure": [
-  [
-   "S",
-   "Machines"
+ },
+ "Ready for Azure": {
+  "roles": [
+   [
+    "S",
+    "Machines"
+   ],
+   [
+    "V",
+    "can be migrated"
+   ]
   ],
-  [
-   "V",
-   "can be migrated"
+  "zhVerbs": [
+   [
+    "可以按原样迁移",
+    0
+   ]
   ]
- ],
- "Conditionally ready for Azure": [
-  [
-   "S",
-   "Machines"
+ },
+ "Conditionally ready for Azure": {
+  "roles": [
+   [
+    "S",
+    "Machines"
+   ],
+   [
+    "V",
+    "can be migrated"
+   ],
+   [
+    "V",
+    "need"
+   ],
+   [
+    "O",
+    "minor changes"
+   ]
   ],
-  [
-   "V",
-   "can be migrated"
-  ],
-  [
-   "V",
-   "need"
-  ],
-  [
-   "O",
-   "minor changes"
+  "zhVerbs": [
+   [
+    "可以迁移",
+    0
+   ],
+   [
+    "需要",
+    0
+   ]
   ]
- ],
- "Not ready for Azure": [
-  [
-   "S",
-   "Machines"
+ },
+ "Not ready for Azure": {
+  "roles": [
+   [
+    "S",
+    "Machines"
+   ],
+   [
+    "V",
+    "can't be migrated"
+   ],
+   [
+    "S",
+    "Issues"
+   ],
+   [
+    "V",
+    "must be fixed"
+   ]
   ],
-  [
-   "V",
-   "can't be migrated"
-  ],
-  [
-   "S",
-   "Issues"
-  ],
-  [
-   "V",
-   "must be fixed"
+  "zhVerbs": [
+   [
+    "无法按原样迁移",
+    0
+   ],
+   [
+    "修复",
+    0
+   ]
   ]
- ],
- "Readiness unknown": [
-  [
-   "S",
-   "Azure Migrate"
+ },
+ "Readiness unknown": {
+  "roles": [
+   [
+    "S",
+    "Azure Migrate"
+   ],
+   [
+    "V",
+    "can't determine"
+   ],
+   [
+    "O",
+    "machine readiness"
+   ]
   ],
-  [
-   "V",
-   "can't determine"
-  ],
-  [
-   "O",
-   "machine readiness"
+  "zhVerbs": [
+   [
+    "无法确定",
+    0
+   ]
   ]
- ],
- "performance-based sizing": [
-  [
-   "S",
-   "The performance-based sizing option"
+ },
+ "performance-based sizing": {
+  "roles": [
+   [
+    "S",
+    "The performance-based sizing option"
+   ],
+   [
+    "V",
+    "helps"
+   ],
+   [
+    "O",
+    "you"
+   ],
+   [
+    "V",
+    "should be used"
+   ]
   ],
-  [
-   "V",
-   "helps"
-  ],
-  [
-   "O",
-   "you"
-  ],
-  [
-   "V",
-   "should be used"
+  "zhVerbs": [
+   [
+    "可帮助",
+    0
+   ],
+   [
+    "加以使用",
+    0
+   ]
   ]
- ],
- "as on-premises (as-is) sizing": [
-  [
-   "S",
-   "You"
+ },
+ "as on-premises (as-is) sizing": {
+  "roles": [
+   [
+    "S",
+    "You"
+   ],
+   [
+    "V",
+    "can get"
+   ],
+   [
+    "O",
+    "sizing recommendations"
+   ]
   ],
-  [
-   "V",
-   "can get"
-  ],
-  [
-   "O",
-   "sizing recommendations"
+  "zhVerbs": [
+   [
+    "可以获取",
+    0
+   ]
   ]
- ],
- "database assessment": [
-  [
-   "S",
-   "you"
+ },
+ "database assessment": {
+  "roles": [
+   [
+    "S",
+    "you"
+   ],
+   [
+    "V",
+    "can assess"
+   ],
+   [
+    "O",
+    "the readiness"
+   ]
   ],
-  [
-   "V",
-   "can assess"
-  ],
-  [
-   "O",
-   "the readiness"
+  "zhVerbs": [
+   [
+    "可以评估",
+    0
+   ]
   ]
- ],
- "blocker": [
-  [
-   "V",
-   "review and mitigate"
+ },
+ "blocker": {
+  "roles": [
+   [
+    "V",
+    "review and mitigate"
+   ],
+   [
+    "O",
+    "any compatibility issues or unsupported features"
+   ]
   ],
-  [
-   "O",
-   "any compatibility issues or unsupported features"
+  "zhVerbs": [
+   [
+    "检查并缓解",
+    0
+   ]
   ]
- ],
- "workload prioritization": [
-  [
-   "S",
-   "you",
-   1
+ },
+ "workload prioritization": {
+  "roles": [
+   [
+    "S",
+    "you",
+    1
+   ],
+   [
+    "V",
+    "can identify"
+   ],
+   [
+    "O",
+    "which applications and workloads to migrate first"
+   ],
+   [
+    "V",
+    "consider"
+   ],
+   [
+    "O",
+    "factors"
+   ]
   ],
-  [
-   "V",
-   "can identify"
-  ],
-  [
-   "O",
-   "which applications and workloads to migrate first"
-  ],
-  [
-   "V",
-   "consider"
-  ],
-  [
-   "O",
-   "factors"
+  "zhVerbs": [
+   [
+    "可以确定",
+    0
+   ],
+   [
+    "考虑",
+    0
+   ]
   ]
- ],
- "migration plan": [
-  [
-   "V",
-   "Create"
+ },
+ "migration plan": {
+  "roles": [
+   [
+    "V",
+    "Create"
+   ],
+   [
+    "O",
+    "an effective cloud migration plan"
+   ]
   ],
-  [
-   "O",
-   "an effective cloud migration plan"
+  "zhVerbs": [
+   [
+    "制定",
+    0
+   ]
   ]
- ],
- "migration wave": [
-  [
-   "V",
-   "plan"
+ },
+ "migration wave": {
+  "roles": [
+   [
+    "V",
+    "plan"
+   ],
+   [
+    "O",
+    "a series"
+   ],
+   [
+    "V",
+    "Identify"
+   ],
+   [
+    "O",
+    "a small set"
+   ]
   ],
-  [
-   "O",
-   "a series"
-  ],
-  [
-   "V",
-   "Identify"
-  ],
-  [
-   "O",
-   "a small set"
+  "zhVerbs": [
+   [
+    "规划",
+    0
+   ],
+   [
+    "确定",
+    0
+   ]
   ]
- ],
- "recovery time objective (RTO)": [],
- "maintenance window": [
-  [
-   "V",
-   "Build"
+ },
+ "recovery time objective (RTO)": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "maintenance window": {
+  "roles": [
+   [
+    "V",
+    "Build"
+   ],
+   [
+    "O",
+    "a migration roadmap"
+   ],
+   [
+    "V",
+    "Declare"
+   ],
+   [
+    "O",
+    "a maintenance window"
+   ]
   ],
-  [
-   "O",
-   "a migration roadmap"
-  ],
-  [
-   "V",
-   "Declare"
-  ],
-  [
-   "O",
-   "a maintenance window"
+  "zhVerbs": [
+   [
+    "制定",
+    0
+   ],
+   [
+    "声明",
+    0
+   ]
   ]
- ],
- "post-migration testing": [
-  [
-   "S",
-   "A post-migration testing plan"
+ },
+ "post-migration testing": {
+  "roles": [
+   [
+    "S",
+    "A post-migration testing plan"
+   ],
+   [
+    "V",
+    "should include"
+   ],
+   [
+    "O",
+    "functional, integration, security, and performance testing and use cases"
+   ]
   ],
-  [
-   "V",
-   "should include"
-  ],
-  [
-   "O",
-   "functional, integration, security, and performance testing and use cases"
+  "zhVerbs": [
+   [
+    "应包括",
+    0
+   ]
   ]
- ]
+ }
 }

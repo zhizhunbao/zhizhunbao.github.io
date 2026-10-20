@@ -1,238 +1,366 @@
 {
- "cloud migration": [
-  [
-   "S",
-   "Cloud migration"
+ "cloud migration": {
+  "roles": [
+   [
+    "S",
+    "Cloud migration"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the process"
+   ],
+   [
+    "S",
+    "it"
+   ],
+   [
+    "V",
+    "can also entail"
+   ],
+   [
+    "O",
+    "moving resources"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the process"
-  ],
-  [
-   "S",
-   "it"
-  ],
-  [
-   "V",
-   "can also entail"
-  ],
-  [
-   "O",
-   "moving resources"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "也可能涉及",
+    0
+   ]
   ]
- ],
- "workload": [
-  [
-   "S",
-   "A workload"
+ },
+ "workload": {
+  "roles": [
+   [
+    "S",
+    "A workload"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a collection"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a collection"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "Azure Migrate appliance": [
-  [
-   "S",
-   "The Azure Migrate appliance"
+ },
+ "Azure Migrate appliance": {
+  "roles": [
+   [
+    "S",
+    "The Azure Migrate appliance"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a virtual appliance"
+   ],
+   [
+    "S",
+    "The appliance"
+   ],
+   [
+    "V",
+    "collects"
+   ],
+   [
+    "O",
+    "the configuration and performance data"
+   ],
+   [
+    "V",
+    "continually sends"
+   ],
+   [
+    "O",
+    "it"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a virtual appliance"
-  ],
-  [
-   "S",
-   "The appliance"
-  ],
-  [
-   "V",
-   "collects"
-  ],
-  [
-   "O",
-   "the configuration and performance data"
-  ],
-  [
-   "V",
-   "continually sends"
-  ],
-  [
-   "O",
-   "it"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "收集",
+    0
+   ],
+   [
+    "发送",
+    0
+   ]
   ]
- ],
- "Azure Migrate": [
-  [
-   "S",
-   "Azure Migrate"
+ },
+ "Azure Migrate": {
+  "roles": [
+   [
+    "S",
+    "Azure Migrate"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a service"
+   ],
+   [
+    "S",
+    "Azure Migrate"
+   ],
+   [
+    "V",
+    "helps"
+   ],
+   [
+    "O",
+    "you"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a service"
-  ],
-  [
-   "S",
-   "Azure Migrate"
-  ],
-  [
-   "V",
-   "helps"
-  ],
-  [
-   "O",
-   "you"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "可帮助",
+    1
+   ]
   ]
- ],
- "discovery": [
-  [
-   "S",
-   "The first step"
+ },
+ "discovery": {
+  "roles": [
+   [
+    "S",
+    "The first step"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "to identify your workloads"
+   ],
+   [
+    "S",
+    "This process"
+   ],
+   [
+    "V",
+    "is called"
+   ],
+   [
+    "O",
+    "discovery"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "to identify your workloads"
-  ],
-  [
-   "S",
-   "This process"
-  ],
-  [
-   "V",
-   "is called"
-  ],
-  [
-   "O",
-   "discovery"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "称为",
+    0
+   ]
   ]
- ],
- "Movere": [
-  [
-   "S",
-   "The Movere service"
+ },
+ "Movere": {
+  "roles": [
+   [
+    "S",
+    "The Movere service"
+   ],
+   [
+    "V",
+    "retired"
+   ],
+   [
+    "S",
+    "Users"
+   ],
+   [
+    "V",
+    "should use"
+   ],
+   [
+    "O",
+    "Azure Migrate"
+   ]
   ],
-  [
-   "V",
-   "retired"
-  ],
-  [
-   "S",
-   "Users"
-  ],
-  [
-   "V",
-   "should use"
-  ],
-  [
-   "O",
-   "Azure Migrate"
+  "zhVerbs": [
+   [
+    "停用",
+    0
+   ],
+   [
+    "应使用",
+    0
+   ]
   ]
- ],
- "assessment": [
-  [
-   "S",
-   "An assessment"
+ },
+ "assessment": {
+  "roles": [
+   [
+    "S",
+    "An assessment"
+   ],
+   [
+    "V",
+    "measures"
+   ],
+   [
+    "O",
+    "the readiness"
+   ],
+   [
+    "V",
+    "estimates"
+   ],
+   [
+    "O",
+    "the effect"
+   ]
   ],
-  [
-   "V",
-   "measures"
-  ],
-  [
-   "O",
-   "the readiness"
-  ],
-  [
-   "V",
-   "estimates"
-  ],
-  [
-   "O",
-   "the effect"
+  "zhVerbs": [
+   [
+    "衡量",
+    0
+   ],
+   [
+    "估算",
+    0
+   ]
   ]
- ],
- "readiness": [
-  [
-   "V",
-   "Assess"
+ },
+ "readiness": {
+  "roles": [
+   [
+    "V",
+    "Assess"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "评估",
+    0
+   ]
   ]
- ],
- "sizing": [
-  [
-   "V",
-   "Estimate"
+ },
+ "sizing": {
+  "roles": [
+   [
+    "V",
+    "Estimate"
+   ],
+   [
+    "O",
+    "the size"
+   ],
+   [
+    "O",
+    "the Azure SQL configuration"
+   ],
+   [
+    "O",
+    "the number"
+   ]
   ],
-  [
-   "O",
-   "the size"
-  ],
-  [
-   "O",
-   "the Azure SQL configuration"
-  ],
-  [
-   "O",
-   "the number"
+  "zhVerbs": [
+   [
+    "估算",
+    0
+   ]
   ]
- ],
- "cost estimate": [
-  [
-   "V",
-   "Estimate"
+ },
+ "cost estimate": {
+  "roles": [
+   [
+    "V",
+    "Estimate"
+   ],
+   [
+    "O",
+    "costs"
+   ]
   ],
-  [
-   "O",
-   "costs"
+  "zhVerbs": [
+   [
+    "估算",
+    1
+   ]
   ]
- ],
- "dependency analysis": [
-  [
-   "V",
-   "Understand"
+ },
+ "dependency analysis": {
+  "roles": [
+   [
+    "V",
+    "Understand"
+   ],
+   [
+    "O",
+    "the network dependencies"
+   ]
   ],
-  [
-   "O",
-   "the network dependencies"
+  "zhVerbs": [
+   [
+    "了解",
+    0
+   ]
   ]
- ],
- "Migration and modernization tool": [
-  [
-   "S",
-   "The Migration and modernization tool"
+ },
+ "Migration and modernization tool": {
+  "roles": [
+   [
+    "S",
+    "The Migration and modernization tool"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "purpose-built"
+   ],
+   [
+    "S",
+    "It"
+   ],
+   [
+    "V",
+    "'s optimized"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "purpose-built"
-  ],
-  [
-   "S",
-   "It"
-  ],
-  [
-   "V",
-   "'s optimized"
+  "zhVerbs": [
+   [
+    "构建",
+    0
+   ],
+   [
+    "进行了优化",
+    0
+   ]
   ]
- ]
+ }
 }

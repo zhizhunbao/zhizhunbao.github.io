@@ -1,66 +1,114 @@
 {
- "Azure ExpressRoute": [
-  [
-   "S",
-   "ExpressRoute"
+ "Azure ExpressRoute": {
+  "roles": [
+   [
+    "S",
+    "ExpressRoute"
+   ],
+   [
+    "V",
+    "lets"
+   ],
+   [
+    "O",
+    "you"
+   ]
   ],
-  [
-   "V",
-   "lets"
-  ],
-  [
-   "O",
-   "you"
+  "zhVerbs": [
+   [
+    "让",
+    0
+   ]
   ]
- ],
- "Azure VMware Solution (AVS)": [
-  [
-   "S",
-   "Azure VMware Solution"
+ },
+ "Azure VMware Solution (AVS)": {
+  "roles": [
+   [
+    "S",
+    "Azure VMware Solution"
+   ],
+   [
+    "V",
+    "provides"
+   ],
+   [
+    "O",
+    "private clouds"
+   ]
   ],
-  [
-   "V",
-   "provides"
-  ],
-  [
-   "O",
-   "private clouds"
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ]
   ]
- ],
- "Azure VMware Solution private cloud": [
-  [
-   "V",
-   "Offers"
+ },
+ "Azure VMware Solution private cloud": {
+  "roles": [
+   [
+    "V",
+    "Offers"
+   ],
+   [
+    "O",
+    "compute, networking, and storage resources"
+   ]
   ],
-  [
-   "O",
-   "compute, networking, and storage resources"
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ]
   ]
- ],
- "vCenter Server": [],
- "VMware NSX": [],
- "cluster": [
-  [
-   "S",
-   "Azure VMware Solution clusters"
+ },
+ "vCenter Server": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "VMware NSX": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "cluster": {
+  "roles": [
+   [
+    "S",
+    "Azure VMware Solution clusters"
+   ],
+   [
+    "V",
+    "are based"
+   ],
+   [
+    "S",
+    "An Azure VMware Solution cluster"
+   ],
+   [
+    "V",
+    "requires"
+   ],
+   [
+    "O",
+    "a minimum number"
+   ]
   ],
-  [
-   "V",
-   "are based"
-  ],
-  [
-   "S",
-   "An Azure VMware Solution cluster"
-  ],
-  [
-   "V",
-   "requires"
-  ],
-  [
-   "O",
-   "a minimum number"
+  "zhVerbs": [
+   [
+    "基于",
+    0
+   ],
+   [
+    "需要",
+    0
+   ]
   ]
- ],
- "ESXi host": [],
- "VMware vSAN": []
+ },
+ "ESXi host": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "VMware vSAN": {
+  "roles": [],
+  "zhVerbs": []
+ }
 }

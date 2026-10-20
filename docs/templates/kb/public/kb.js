@@ -1,10 +1,10 @@
 // Draws the Learn-style page chrome from DocFX output: global and section navigation (toc.json),
 // the table of contents tree, breadcrumbs, "In this article", search (index.json) and the theme menu.
 // Also converts DocFX's Markdown output to Learn markup (alerts, tables, heading anchors), draws quizzes (quiz.js) and
-// underlines the verb of each definition in term tables (marks.js, data in media/<page>.grammar.json).
+// boxes the verb of each definition and of its translation in term tables (marks.js, data in media/<page>.grammar.json).
 
 import { quiz } from './quiz.js'
-import { markGrammar } from './marks.js'
+import { markGrammar, markVerbs } from './marks.js'
 
 const meta = (name) => document.querySelector(`meta[name="${name}"]`)?.content
 let page = new URL(location.href)
@@ -93,7 +93,8 @@ function content() {
   grammar(body)
 }
 
-// Term tables: media/<page>.grammar.json maps each term to the [role, phrase] trunk of its definition (column 2)
+// Term tables: media/<page>.grammar.json maps each term to { roles: the [role, phrase] trunk of its definition (column 2),
+// zhVerbs: the same verbs in the translation (column 3) }
 async function grammar(body) {
   const tables = body.querySelectorAll('table.kb-terms')
   if (!tables.length) return
@@ -101,8 +102,10 @@ async function grammar(body) {
   const data = await load(new URL(`media/${slug}.grammar.json`, page))
   if (!data) return
   for (const tr of [...tables].flatMap((t) => [...t.tBodies[0].rows])) {
-    const roles = data[tr.cells[0]?.querySelector('strong')?.textContent.trim()]
-    if (roles && tr.cells[1]) markGrammar(tr.cells[1], roles)
+    const g = data[tr.cells[0]?.querySelector('strong')?.textContent.trim()]
+    if (!g || tr.cells.length < 3) continue
+    markGrammar(tr.cells[1], g.roles)
+    markVerbs(tr.cells[2], g.zhVerbs)
   }
 }
 
@@ -441,6 +444,28 @@ function inPlace() {
   })
 }
 
+// Figures: the article column caps an image at its width, so browser zoom does not enlarge it. Clicking one opens it
+// on its own, at a fixed size (half its pixels: figures are exported at 2x), where zoom does enlarge it and the overlay
+// scrolls; clicking the image switches to fit-to-window and back, Esc or the backdrop closes it (like Learn's lightbox).
+function lightbox() {
+  let open = null
+  const close = () => { open?.remove(); open = null; document.documentElement.classList.remove('kb-lightbox-open') }
+  document.addEventListener('click', (e) => {
+    const img = e.target.closest('.content img')
+    if (!img || img.closest('a')) return
+    const big = el('img', { src: img.currentSrc || img.src, alt: img.alt, class: 'kb-lightbox-img' })
+    big.style.width = `${Math.round(img.naturalWidth / 2)}px`
+    big.addEventListener('click', (ev) => { ev.stopPropagation(); open.classList.toggle('is-fit') })
+    const shut = el('button', { class: 'kb-lightbox-close', type: 'button', 'aria-label': 'Close', text: '×' })
+    open = el('div', { class: 'kb-lightbox', role: 'dialog', 'aria-modal': 'true', 'aria-label': img.alt || 'Figure' }, shut, big)
+    open.addEventListener('click', close)
+    document.body.append(open)
+    document.documentElement.classList.add('kb-lightbox-open')
+    shut.focus()
+  })
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && open) close() })
+}
+
 // The wheel scrolls what is under the pointer: over the menu or the outline only that rail moves, over the article the page
 function wheelScope() {
   const rails = ['affixed-left-container', 'affixed-right-container'].map((id) => document.getElementById(id)).filter(Boolean)
@@ -484,6 +509,7 @@ async function main() {
   Object.assign(NAV, { tocUrl, tocItems, section, sectionItems })
   inPlace()
   wheelScope()
+  lightbox()
 }
 
 main()

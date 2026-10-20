@@ -1,44 +1,68 @@
 {
- "Infrastructure as a Service (IaaS)": [
-  [
-   "S",
-   "Infrastructure as a service (IaaS)"
+ "Infrastructure as a Service (IaaS)": {
+  "roles": [
+   [
+    "S",
+    "Infrastructure as a service (IaaS)"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the most flexible category"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the most flexible category"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "Platform as a Service (PaaS)": [
-  [
-   "S",
-   "Platform as a service (PaaS)"
+ },
+ "Platform as a Service (PaaS)": {
+  "roles": [
+   [
+    "S",
+    "Platform as a service (PaaS)"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a middle ground"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a middle ground"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "Software as a Service (SaaS)": [
-  [
-   "S",
-   "you"
+ },
+ "Software as a Service (SaaS)": {
+  "roles": [
+   [
+    "S",
+    "you"
+   ],
+   [
+    "V",
+    "’re essentially renting or using"
+   ],
+   [
+    "O",
+    "a fully developed application"
+   ]
   ],
-  [
-   "V",
-   "’re essentially renting or using"
-  ],
-  [
-   "O",
-   "a fully developed application"
+  "zhVerbs": [
+   [
+    "是在租用或使用",
+    0
+   ]
   ]
- ]
+ }
 }

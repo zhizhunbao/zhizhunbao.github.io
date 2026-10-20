@@ -56,6 +56,16 @@
      "common IT infrastructure"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "包括",
+     0
+    ]
+   ],
    "page": "Describe cloud computing",
    "href": "../lectures/describe-cloud-computing.html#what-is-cloud-computing"
   },
@@ -110,6 +120,16 @@
      "facilities"
     ]
    ],
+   "zhVerbs": [
+    [
+     "开始",
+     0
+    ],
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Describe cloud computing",
    "href": "../lectures/describe-cloud-computing.html#what-is-cloud-computing"
   },
@@ -146,6 +166,12 @@
     [
      "V",
      "get shared"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "共同承担",
+     0
     ]
    ],
    "page": "Describe cloud computing",
@@ -190,6 +216,12 @@
      "responsible"
     ]
    ],
+   "zhVerbs": [
+    [
+     "负责",
+     0
+    ]
+   ],
    "page": "Describe cloud computing",
    "href": "../lectures/describe-cloud-computing.html#describe-the-shared-responsibility-model"
   },
@@ -230,6 +262,12 @@
     [
      "O",
      "the responsibility"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "负责",
+     0
     ]
    ],
    "page": "Describe cloud computing",
@@ -286,6 +324,16 @@
      "resources"
     ]
    ],
+   "zhVerbs": [
+    [
+     "构建、控制和维护",
+     0
+    ],
+    [
+     "可以访问和使用",
+     0
+    ]
+   ],
    "page": "Describe cloud computing",
    "href": "../lectures/describe-cloud-computing.html#define-cloud-models"
   },
@@ -326,6 +374,12 @@
     [
      "O",
      "a cloud"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Describe cloud computing",
@@ -370,6 +424,12 @@
      "a computing environment"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Describe cloud computing",
    "href": "../lectures/describe-cloud-computing.html#define-cloud-models"
   },
@@ -406,6 +466,12 @@
     [
      "O",
      "multiple public cloud providers"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "使用",
+     0
     ]
    ],
    "page": "Describe cloud computing",
@@ -454,6 +520,12 @@
      "a one-time, up-front expenditure"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Describe cloud computing",
    "href": "../lectures/describe-cloud-computing.html#describe-the-consumption-based-model"
   },
@@ -496,6 +568,12 @@
      "spending money"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Describe cloud computing",
    "href": "../lectures/describe-cloud-computing.html#describe-the-consumption-based-model"
   },
@@ -536,6 +614,12 @@
     [
      "O",
      "OpEx"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "属于",
+     0
     ]
    ],
    "page": "Describe cloud computing",
@@ -586,6 +670,16 @@
     [
      "V",
      "pay"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是指",
+     0
+    ],
+    [
+     "付费",
+     1
     ]
    ],
    "page": "Describe cloud computing",
@@ -646,6 +740,16 @@
      "proven guidance"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可帮助",
+     0
+    ],
+    [
+     "提供",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
   },
@@ -686,6 +790,16 @@
     [
      "V",
      "look like"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "应该",
+     0
+    ],
+    [
+     "是什么样子",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -742,6 +856,16 @@
      "your cloud strategy"
     ]
    ],
+   "zhVerbs": [
+    [
+     "需要",
+     0
+    ],
+    [
+     "转化为",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
   },
@@ -782,6 +906,12 @@
     [
      "O",
      "you"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可帮助",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -832,6 +962,16 @@
     [
      "O",
      "workloads"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "将",
+     0
+    ],
+    [
+     "迁移、现代化和构建",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -904,6 +1044,20 @@
      "both"
     ]
    ],
+   "zhVerbs": [
+    [
+     "改变",
+     0
+    ],
+    [
+     "改变",
+     0
+    ],
+    [
+     "可以同时做到",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
   },
@@ -960,6 +1114,16 @@
     [
      "O",
      "different parts"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "改进",
+     0
+    ],
+    [
+     "可以改变",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -1020,6 +1184,16 @@
      "a journey"
     ]
    ],
+   "zhVerbs": [
+    [
+     "创造",
+     0
+    ],
+    [
+     "都是",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
   },
@@ -1078,6 +1252,16 @@
      "a set"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "是",
+     1
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
   },
@@ -1122,6 +1306,12 @@
     [
      "O",
      "a structured approach"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "提供了",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -1182,6 +1372,16 @@
      "about maintaining governance and security"
     ]
    ],
+   "zhVerbs": [
+    [
+     "不仅仅是",
+     0
+    ],
+    [
+     "关乎",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-adoption-framework-overview"
   },
@@ -1226,6 +1426,12 @@
     [
      "O",
      "a catalog"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -1288,6 +1494,20 @@
     [
      "O",
      "as secure"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "具有",
+     0
+    ],
+    [
+     "达到",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -1356,6 +1576,20 @@
      "the standards"
     ]
    ],
+   "zhVerbs": [
+    [
+     "指导",
+     0
+    ],
+    [
+     "联系起来",
+     0
+    ],
+    [
+     "设定",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -1406,6 +1640,16 @@
      "apply"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可以推动",
+     0
+    ],
+    [
+     "适用",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -1452,6 +1696,12 @@
      "important"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -1496,6 +1746,12 @@
     [
      "O",
      "the most common reasons"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -1568,6 +1824,20 @@
      "hard"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "是",
+     0
+    ],
+    [
+     "很难",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -1610,6 +1880,12 @@
      "is designed"
     ]
    ],
+   "zhVerbs": [
+    [
+     "旨在",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -1650,6 +1926,12 @@
     [
      "O",
      "the cleanest business outcome"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -1710,6 +1992,16 @@
      "the fundamental measure"
     ]
    ],
+   "zhVerbs": [
+    [
+     "重视",
+     0
+    ],
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -1746,6 +2038,12 @@
     [
      "V",
      "can be measured"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "来衡量",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -1806,6 +2104,16 @@
      "a key measure"
     ]
    ],
+   "zhVerbs": [
+    [
+     "重新定义",
+     0
+    ],
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -1860,6 +2168,16 @@
      "painful and long-lasting"
     ]
    ],
+   "zhVerbs": [
+    [
+     "被视为",
+     0
+    ],
+    [
+     "可能是",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -1900,6 +2218,12 @@
     [
      "V",
      "is quickly moving"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "转变为",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -1952,6 +2276,16 @@
      "financial considerations"
     ]
    ],
+   "zhVerbs": [
+    [
+     "相辅相成",
+     0
+    ],
+    [
+     "存在",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -1988,6 +2322,12 @@
     [
      "S",
      "technical considerations"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "存在",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -2030,6 +2370,12 @@
     [
      "O",
      "one"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -2086,6 +2432,16 @@
      "less costly"
     ]
    ],
+   "zhVerbs": [
+    [
+     "更高",
+     0
+    ],
+    [
+     "更低",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -2132,6 +2488,12 @@
      "our security infrastructure and toolsets"
     ]
    ],
+   "zhVerbs": [
+    [
+     "正在不断扩展",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -2176,6 +2538,12 @@
     [
      "O",
      "another technical benefit"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -2236,6 +2604,16 @@
      "building a financial plan"
     ]
    ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "包括",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#develop-a-cloud-adoption-strategy"
   },
@@ -2286,6 +2664,16 @@
      "commits"
     ]
    ],
+   "zhVerbs": [
+    [
+     "建议",
+     0
+    ],
+    [
+     "致力于",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#build-a-digital-transformation-timeline"
   },
@@ -2328,6 +2716,12 @@
      "the datacenter exit"
     ]
    ],
+   "zhVerbs": [
+    [
+     "优先考虑",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#build-a-digital-transformation-timeline"
   },
@@ -2368,6 +2762,12 @@
     [
      "O",
      "operational improvements"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "优先考虑",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -2416,6 +2816,12 @@
      "sufficient data and cloud skills"
     ]
    ],
+   "zhVerbs": [
+    [
+     "将拥有",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#build-a-digital-transformation-timeline"
   },
@@ -2452,6 +2858,12 @@
     [
      "O",
      "capital reduction"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "重新调配",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -2500,6 +2912,12 @@
      "the process"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
   },
@@ -2544,6 +2962,12 @@
     [
      "O",
      "a current state asset"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "迁移",
+     1
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -2598,6 +3022,16 @@
     [
      "O",
      "your workloads"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "设置",
+     0
+    ],
+    [
+     "移到",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -2656,6 +3090,16 @@
     [
      "O",
      "a good idea"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以降低",
+     0
+    ],
+    [
+     "是",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -2721,6 +3165,20 @@
      "might need to be rearchitected"
     ]
    ],
+   "zhVerbs": [
+    [
+     "不兼容",
+     0
+    ],
+    [
+     "是",
+     0
+    ],
+    [
+     "可能需要先重新架构",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
   },
@@ -2775,6 +3233,16 @@
      "a new code base"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可能",
+     0
+    ],
+    [
+     "创建",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
   },
@@ -2819,6 +3287,12 @@
     [
      "O",
      "an approach"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -2875,6 +3349,16 @@
      "can be scheduled"
     ]
    ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "安排",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#cloud-rationalization"
   },
@@ -2921,6 +3405,12 @@
      "high-level outcomes"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
   },
@@ -2961,6 +3451,12 @@
     [
      "V",
      "defines"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "定义了",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -3005,6 +3501,12 @@
      "defines"
     ]
    ],
+   "zhVerbs": [
+    [
+     "定义",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
   },
@@ -3047,6 +3549,12 @@
      "workloads"
     ]
    ],
+   "zhVerbs": [
+    [
+     "退役",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
   },
@@ -3087,6 +3595,12 @@
     [
      "O",
      "workloads"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "迁移",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -3135,6 +3649,12 @@
      "workloads"
     ]
    ],
+   "zhVerbs": [
+    [
+     "保留",
+     1
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#select-your-cloud-migration-strategies"
   },
@@ -3173,6 +3693,12 @@
      "responsibilities"
     ]
    ],
+   "zhVerbs": [
+    [
+     "协调",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
   },
@@ -3198,6 +3724,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
   },
@@ -3223,6 +3750,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
   },
@@ -3248,6 +3776,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
   },
@@ -3273,6 +3802,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
   },
@@ -3325,6 +3855,16 @@
     [
      "O",
      "common"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可能难以",
+     0
+    ],
+    [
+     "通常会",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -3385,6 +3925,16 @@
      "centralized IT functions"
     ]
    ],
+   "zhVerbs": [
+    [
+     "协调",
+     0
+    ],
+    [
+     "提供",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
   },
@@ -3427,6 +3977,12 @@
      "the implementation"
     ]
    ],
+   "zhVerbs": [
+    [
+     "支持",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
   },
@@ -3463,6 +4019,12 @@
     [
      "O",
      "the cloud platform"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "运行并管理",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -3519,6 +4081,16 @@
      "the technical changes"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "推动",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
   },
@@ -3573,6 +4145,16 @@
      "accountable"
     ]
    ],
+   "zhVerbs": [
+    [
+     "致力于",
+     0
+    ],
+    [
+     "负责",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#align-responsibilities-across-teams"
   },
@@ -3615,6 +4197,12 @@
      "a proven and flexible architecture"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
   },
@@ -3644,6 +4232,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
   },
@@ -3710,6 +4299,20 @@
      "governance standards"
     ]
    ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "组织",
+     0
+    ],
+    [
+     "应用",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
   },
@@ -3743,6 +4346,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
   },
@@ -3801,6 +4405,16 @@
      "you"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "让",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
   },
@@ -3843,6 +4457,12 @@
      "a foundation"
     ]
    ],
+   "zhVerbs": [
+    [
+     "奠定",
+     0
+    ]
+   ],
    "page": "Cloud Adoption Framework for Azure",
    "href": "../lectures/cloud-adoption-framework-for-azure.html#azure-landing-zones"
   },
@@ -3883,6 +4503,12 @@
     [
      "O",
      "Azure governance"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "使用",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",
@@ -3929,6 +4555,12 @@
     [
      "O",
      "infrastructure as code"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "使用",
+     0
     ]
    ],
    "page": "Cloud Adoption Framework for Azure",

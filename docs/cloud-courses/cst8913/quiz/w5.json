@@ -56,6 +56,20 @@
      "begins"
     ]
    ],
+   "zhVerbs": [
+    [
+     "创建",
+     0
+    ],
+    [
+     "复制",
+     0
+    ],
+    [
+     "开始",
+     0
+    ]
+   ],
    "page": "Overview of application migration examples for Azure",
    "href": "../lectures/overview-of-application-migration-examples-for-azure.html#rehost"
   },
@@ -100,6 +114,12 @@
     [
      "O",
      "the migration"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "模拟",
+     0
     ]
    ],
    "page": "Overview of application migration examples for Azure",
@@ -168,6 +188,20 @@
      "an on-demand replication"
     ]
    ],
+   "zhVerbs": [
+    [
+     "执行",
+     0
+    ],
+    [
+     "关闭",
+     0
+    ],
+    [
+     "运行",
+     0
+    ]
+   ],
    "page": "Overview of application migration examples for Azure",
    "href": "../lectures/overview-of-application-migration-examples-for-azure.html#rehost"
   },
@@ -216,6 +250,16 @@
     [
      "V",
      "starts"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "首先包括",
+     0
     ]
    ],
    "page": "Overview of application migration examples for Azure",
@@ -296,6 +340,20 @@
      "the right path"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "有助于找出",
+     0
+    ],
+    [
+     "会找出",
+     0
+    ]
+   ],
    "page": "Overview of application migration examples for Azure",
    "href": "../lectures/overview-of-application-migration-examples-for-azure.html#refactor"
   },
@@ -354,6 +412,16 @@
      "existing SQL Server customers"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "使",
+     0
+    ]
+   ],
    "page": "Overview of application migration examples for Azure",
    "href": "../lectures/overview-of-application-migration-examples-for-azure.html#refactor"
   },
@@ -398,6 +466,12 @@
     [
      "O",
      "a fully managed, production-ready relational database service"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Overview of application migration examples for Azure",
@@ -458,6 +532,16 @@
      "single-digit millisecond response times, automatic and instant scalability"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "提供",
+     0
+    ]
+   ],
    "page": "Overview of application migration examples for Azure",
    "href": "../lectures/overview-of-application-migration-examples-for-azure.html#refactor"
   },
@@ -502,6 +586,12 @@
     [
      "O",
      "you"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "让",
+     0
     ]
    ],
    "page": "What is Azure VMware Solution?",
@@ -550,6 +640,12 @@
      "private clouds"
     ]
    ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ]
+   ],
    "page": "What is Azure VMware Solution?",
    "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
   },
@@ -592,6 +688,12 @@
      "compute, networking, and storage resources"
     ]
    ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ]
+   ],
    "page": "What is Azure VMware Solution?",
    "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
   },
@@ -617,6 +719,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "What is Azure VMware Solution?",
    "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
   },
@@ -646,6 +749,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "What is Azure VMware Solution?",
    "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
   },
@@ -696,6 +800,16 @@
      "a minimum number"
     ]
    ],
+   "zhVerbs": [
+    [
+     "基于",
+     0
+    ],
+    [
+     "需要",
+     0
+    ]
+   ],
    "page": "What is Azure VMware Solution?",
    "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
   },
@@ -725,6 +839,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "What is Azure VMware Solution?",
    "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
   },
@@ -754,6 +869,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "What is Azure VMware Solution?",
    "href": "../lectures/what-is-azure-vmware-solution.html#private-clouds-clusters-and-hosts"
   }

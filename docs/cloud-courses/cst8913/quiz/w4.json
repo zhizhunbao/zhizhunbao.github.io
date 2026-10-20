@@ -56,6 +56,16 @@
      "moving resources"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "也可能涉及",
+     0
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -100,6 +110,12 @@
     [
      "O",
      "a collection"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "What is Azure Migrate?",
@@ -168,6 +184,20 @@
      "it"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "收集",
+     0
+    ],
+    [
+     "发送",
+     0
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -226,6 +256,16 @@
      "you"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "可帮助",
+     1
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -278,6 +318,16 @@
     [
      "O",
      "discovery"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "称为",
+     0
     ]
    ],
    "page": "What is Azure Migrate?",
@@ -334,6 +384,16 @@
      "Azure Migrate"
     ]
    ],
+   "zhVerbs": [
+    [
+     "停用",
+     0
+    ],
+    [
+     "应使用",
+     0
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -388,6 +448,16 @@
      "the effect"
     ]
    ],
+   "zhVerbs": [
+    [
+     "衡量",
+     0
+    ],
+    [
+     "估算",
+     0
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -424,6 +494,12 @@
     [
      "V",
      "Assess"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "评估",
+     0
     ]
    ],
    "page": "What is Azure Migrate?",
@@ -476,6 +552,12 @@
      "the number"
     ]
    ],
+   "zhVerbs": [
+    [
+     "估算",
+     0
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -508,6 +590,12 @@
     [
      "O",
      "costs"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "估算",
+     1
     ]
    ],
    "page": "What is Azure Migrate?",
@@ -550,6 +638,12 @@
     [
      "O",
      "the network dependencies"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "了解",
+     0
     ]
    ],
    "page": "What is Azure Migrate?",
@@ -606,6 +700,16 @@
      "'s optimized"
     ]
    ],
+   "zhVerbs": [
+    [
+     "构建",
+     0
+    ],
+    [
+     "进行了优化",
+     0
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -654,6 +758,16 @@
     [
      "O",
      "your digital estate"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "都是",
+     0
+    ],
+    [
+     "统称为",
+     0
     ]
    ],
    "page": "Prepare for cloud adoption with a data-driven plan",
@@ -714,6 +828,16 @@
      "machine configuration information"
     ]
    ],
+   "zhVerbs": [
+    [
+     "使用",
+     0
+    ],
+    [
+     "收集",
+     0
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#evaluate-the-digital-estate"
   },
@@ -750,6 +874,12 @@
     [
      "V",
      "is used"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "用于",
+     0
     ]
    ],
    "page": "Prepare for cloud adoption with a data-driven plan",
@@ -806,6 +936,16 @@
      "them"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可以创建",
+     0
+    ],
+    [
+     "开始",
+     0
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#evaluate-the-digital-estate"
   },
@@ -842,6 +982,12 @@
     [
      "V",
      "can be migrated"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以按原样迁移",
+     0
     ]
    ],
    "page": "Prepare for cloud adoption with a data-driven plan",
@@ -890,6 +1036,16 @@
      "minor changes"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可以迁移",
+     0
+    ],
+    [
+     "需要",
+     0
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -936,6 +1092,16 @@
      "must be fixed"
     ]
    ],
+   "zhVerbs": [
+    [
+     "无法按原样迁移",
+     0
+    ],
+    [
+     "修复",
+     0
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -976,6 +1142,12 @@
     [
      "O",
      "machine readiness"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "无法确定",
+     0
     ]
    ],
    "page": "Prepare for cloud adoption with a data-driven plan",
@@ -1024,6 +1196,16 @@
      "should be used"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可帮助",
+     0
+    ],
+    [
+     "加以使用",
+     0
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -1064,6 +1246,12 @@
     [
      "O",
      "sizing recommendations"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可以获取",
+     0
     ]
    ],
    "page": "Prepare for cloud adoption with a data-driven plan",
@@ -1112,6 +1300,12 @@
      "the readiness"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可以评估",
+     0
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -1152,6 +1346,12 @@
     [
      "O",
      "any compatibility issues or unsupported features"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "检查并缓解",
+     0
     ]
    ],
    "page": "Prepare for cloud adoption with a data-driven plan",
@@ -1209,6 +1409,16 @@
      "factors"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可以确定",
+     0
+    ],
+    [
+     "考虑",
+     0
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -1249,6 +1459,12 @@
     [
      "O",
      "an effective cloud migration plan"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "制定",
+     0
     ]
    ],
    "page": "Prepare for cloud adoption with a data-driven plan",
@@ -1297,6 +1513,16 @@
      "a small set"
     ]
    ],
+   "zhVerbs": [
+    [
+     "规划",
+     0
+    ],
+    [
+     "确定",
+     0
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -1322,6 +1548,7 @@
     ]
    ],
    "roles": [],
+   "zhVerbs": [],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -1372,6 +1599,16 @@
      "a maintenance window"
     ]
    ],
+   "zhVerbs": [
+    [
+     "制定",
+     0
+    ],
+    [
+     "声明",
+     0
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -1412,6 +1649,12 @@
     [
      "O",
      "functional, integration, security, and performance testing and use cases"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "应包括",
+     0
     ]
    ],
    "page": "Prepare for cloud adoption with a data-driven plan",

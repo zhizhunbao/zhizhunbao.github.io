@@ -1,408 +1,616 @@
 {
- "reference architecture": [
-  [
-   "V",
-   "review"
+ "reference architecture": {
+  "roles": [
+   [
+    "V",
+    "review"
+   ],
+   [
+    "O",
+    "validated reference architectures and fundamentals"
+   ],
+   [
+    "V",
+    "Explore"
+   ],
+   [
+    "O",
+    "validated reference architectures"
+   ],
+   [
+    "S",
+    "These architectures"
+   ],
+   [
+    "V",
+    "help accelerate"
+   ],
+   [
+    "O",
+    "design decisions"
+   ],
+   [
+    "V",
+    "reduce"
+   ],
+   [
+    "O",
+    "risk"
+   ]
   ],
-  [
-   "O",
-   "validated reference architectures and fundamentals"
-  ],
-  [
-   "V",
-   "Explore"
-  ],
-  [
-   "O",
-   "validated reference architectures"
-  ],
-  [
-   "S",
-   "These architectures"
-  ],
-  [
-   "V",
-   "help accelerate"
-  ],
-  [
-   "O",
-   "design decisions"
-  ],
-  [
-   "V",
-   "reduce"
-  ],
-  [
-   "O",
-   "risk"
+  "zhVerbs": [
+   [
+    "查看",
+    0
+   ],
+   [
+    "探索",
+    0
+   ],
+   [
+    "有助于加快",
+    0
+   ],
+   [
+    "降低",
+    0
+   ]
   ]
- ],
- "N-tier architecture": [
-  [
-   "S",
-   "An N-tier architecture"
+ },
+ "N-tier architecture": {
+  "roles": [
+   [
+    "S",
+    "An N-tier architecture"
+   ],
+   [
+    "V",
+    "divides"
+   ],
+   [
+    "O",
+    "an application"
+   ],
+   [
+    "S",
+    "A traditional three-tier application"
+   ],
+   [
+    "V",
+    "has"
+   ],
+   [
+    "O",
+    "a presentation tier, an optional middle tier, and a database tier"
+   ]
   ],
-  [
-   "V",
-   "divides"
-  ],
-  [
-   "O",
-   "an application"
-  ],
-  [
-   "S",
-   "A traditional three-tier application"
-  ],
-  [
-   "V",
-   "has"
-  ],
-  [
-   "O",
-   "a presentation tier, an optional middle tier, and a database tier"
+  "zhVerbs": [
+   [
+    "划分为",
+    0
+   ],
+   [
+    "具有",
+    0
+   ]
   ]
- ],
- "resource group": [
-  [
-   "S",
-   "A resource group"
+ },
+ "resource group": {
+  "roles": [
+   [
+    "S",
+    "A resource group"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a container"
+   ],
+   [
+    "S",
+    "all resources"
+   ],
+   [
+    "V",
+    "are also deleted"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a container"
-  ],
-  [
-   "S",
-   "all resources"
-  ],
-  [
-   "V",
-   "are also deleted"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "也会被删除",
+    0
+   ]
   ]
- ],
- "web tier": [
-  [
-   "S",
-   "The presentation tier"
+ },
+ "web tier": {
+  "roles": [
+   [
+    "S",
+    "The presentation tier"
+   ],
+   [
+    "V",
+    "is labeled"
+   ],
+   [
+    "O",
+    "Web tier"
+   ],
+   [
+    "S",
+    "The web and business tiers"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "stateless"
+   ],
+   [
+    "S",
+    "Any VM"
+   ],
+   [
+    "V",
+    "can handle"
+   ],
+   [
+    "O",
+    "any request"
+   ]
   ],
-  [
-   "V",
-   "is labeled"
-  ],
-  [
-   "O",
-   "Web tier"
-  ],
-  [
-   "S",
-   "The web and business tiers"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "stateless"
-  ],
-  [
-   "S",
-   "Any VM"
-  ],
-  [
-   "V",
-   "can handle"
-  ],
-  [
-   "O",
-   "any request"
+  "zhVerbs": [
+   [
+    "标记为",
+    0
+   ],
+   [
+    "是",
+    0
+   ],
+   [
+    "可以处理",
+    0
+   ]
   ]
- ],
- "business tier": [
-  [
-   "S",
-   "The layer"
+ },
+ "business tier": {
+  "roles": [
+   [
+    "S",
+    "The layer"
+   ],
+   [
+    "V",
+    "refers to"
+   ],
+   [
+    "O",
+    "the business logic tier"
+   ],
+   [
+    "S",
+    "The web and business tiers"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "stateless"
+   ],
+   [
+    "S",
+    "Any VM"
+   ],
+   [
+    "V",
+    "can handle"
+   ],
+   [
+    "O",
+    "any request"
+   ]
   ],
-  [
-   "V",
-   "refers to"
-  ],
-  [
-   "O",
-   "the business logic tier"
-  ],
-  [
-   "S",
-   "The web and business tiers"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "stateless"
-  ],
-  [
-   "S",
-   "Any VM"
-  ],
-  [
-   "V",
-   "can handle"
-  ],
-  [
-   "O",
-   "any request"
+  "zhVerbs": [
+   [
+    "是指",
+    0
+   ],
+   [
+    "是",
+    0
+   ],
+   [
+    "可以处理",
+    0
+   ]
   ]
- ],
- "data tier": [
-  [
-   "S",
-   "The data tier"
+ },
+ "data tier": {
+  "roles": [
+   [
+    "S",
+    "The data tier"
+   ],
+   [
+    "V",
+    "should consist of"
+   ],
+   [
+    "O",
+    "a replicated database"
+   ],
+   [
+    "V",
+    "Restrict"
+   ],
+   [
+    "O",
+    "access"
+   ]
   ],
-  [
-   "V",
-   "should consist of"
-  ],
-  [
-   "O",
-   "a replicated database"
-  ],
-  [
-   "V",
-   "Restrict"
-  ],
-  [
-   "O",
-   "access"
+  "zhVerbs": [
+   [
+    "组成",
+    0
+   ],
+   [
+    "限制",
+    0
+   ]
   ]
- ],
- "SQL Server": [
-  [
-   "S",
-   "Microsoft SQL Server"
+ },
+ "SQL Server": {
+  "roles": [
+   [
+    "S",
+    "Microsoft SQL Server"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a relational database management system"
+   ],
+   [
+    "S",
+    "Applications and tools"
+   ],
+   [
+    "V",
+    "connect"
+   ],
+   [
+    "V",
+    "communicate"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a relational database management system"
-  ],
-  [
-   "S",
-   "Applications and tools"
-  ],
-  [
-   "V",
-   "connect"
-  ],
-  [
-   "V",
-   "communicate"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "连接到",
+    0
+   ],
+   [
+    "进行通信",
+    0
+   ]
   ]
- ],
- "virtual network (VNet)": [
-  [
-   "S",
-   "Azure Virtual Network"
+ },
+ "virtual network (VNet)": {
+  "roles": [
+   [
+    "S",
+    "Azure Virtual Network"
+   ],
+   [
+    "V",
+    "provides"
+   ],
+   [
+    "O",
+    "the fundamental building block"
+   ],
+   [
+    "S",
+    "This service"
+   ],
+   [
+    "V",
+    "enables"
+   ],
+   [
+    "O",
+    "Azure resources"
+   ]
   ],
-  [
-   "V",
-   "provides"
-  ],
-  [
-   "O",
-   "the fundamental building block"
-  ],
-  [
-   "S",
-   "This service"
-  ],
-  [
-   "V",
-   "enables"
-  ],
-  [
-   "O",
-   "Azure resources"
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ],
+   [
+    "使",
+    0
+   ]
   ]
- ],
- "gateway subnet": [
-  [
-   "S",
-   "An application gateway"
+ },
+ "gateway subnet": {
+  "roles": [
+   [
+    "S",
+    "An application gateway"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a dedicated deployment"
+   ],
+   [
+    "S",
+    "a dedicated subnet"
+   ],
+   [
+    "V",
+    "is required"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a dedicated deployment"
-  ],
-  [
-   "S",
-   "a dedicated subnet"
-  ],
-  [
-   "V",
-   "is required"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "需要",
+    0
+   ]
   ]
- ],
- "Azure Application Gateway": [
-  [
-   "S",
-   "Azure Application Gateway"
+ },
+ "Azure Application Gateway": {
+  "roles": [
+   [
+    "S",
+    "Azure Application Gateway"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a web traffic load balancer"
+   ],
+   [
+    "S",
+    "Application Gateway"
+   ],
+   [
+    "V",
+    "makes"
+   ],
+   [
+    "O",
+    "intelligent routing decisions"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a web traffic load balancer"
-  ],
-  [
-   "S",
-   "Application Gateway"
-  ],
-  [
-   "V",
-   "makes"
-  ],
-  [
-   "O",
-   "intelligent routing decisions"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "做出",
+    0
+   ]
   ]
- ],
- "subnet": [
-  [
-   "S",
-   "Azure virtual network subnets"
+ },
+ "subnet": {
+  "roles": [
+   [
+    "S",
+    "Azure virtual network subnets"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "essential containers"
+   ]
   ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "essential containers"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "network security group (NSG)": [
-  [
-   "S",
-   "You"
+ },
+ "network security group (NSG)": {
+  "roles": [
+   [
+    "S",
+    "You"
+   ],
+   [
+    "V",
+    "can use"
+   ],
+   [
+    "O",
+    "an Azure network security group"
+   ],
+   [
+    "S",
+    "A network security group"
+   ],
+   [
+    "V",
+    "contains"
+   ],
+   [
+    "O",
+    "security rules"
+   ]
   ],
-  [
-   "V",
-   "can use"
-  ],
-  [
-   "O",
-   "an Azure network security group"
-  ],
-  [
-   "S",
-   "A network security group"
-  ],
-  [
-   "V",
-   "contains"
-  ],
-  [
-   "O",
-   "security rules"
+  "zhVerbs": [
+   [
+    "可以使用",
+    0
+   ],
+   [
+    "包含",
+    0
+   ]
   ]
- ],
- "Azure Load Balancer": [
-  [
-   "S",
-   "Azure Load Balancer"
+ },
+ "Azure Load Balancer": {
+  "roles": [
+   [
+    "S",
+    "Azure Load Balancer"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a cloud service"
+   ],
+   [
+    "S",
+    "Azure Load Balancer"
+   ],
+   [
+    "V",
+    "operates"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a cloud service"
-  ],
-  [
-   "S",
-   "Azure Load Balancer"
-  ],
-  [
-   "V",
-   "operates"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "运行",
+    0
+   ]
   ]
- ],
- "internal load balancer": [
-  [
-   "S",
-   "an internal (or private) load balancer"
+ },
+ "internal load balancer": {
+  "roles": [
+   [
+    "S",
+    "an internal (or private) load balancer"
+   ],
+   [
+    "V",
+    "is used"
+   ]
   ],
-  [
-   "V",
-   "is used"
+  "zhVerbs": [
+   [
+    "用于",
+    0
+   ]
   ]
- ],
- "Azure region": [
-  [
-   "S",
-   "Each region"
+ },
+ "Azure region": {
+  "roles": [
+   [
+    "S",
+    "Each region"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a set"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a set"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "availability zone": [
-  [
-   "S",
-   "Many Azure regions"
+ },
+ "availability zone": {
+  "roles": [
+   [
+    "S",
+    "Many Azure regions"
+   ],
+   [
+    "V",
+    "provide"
+   ],
+   [
+    "O",
+    "availability zones"
+   ],
+   [
+    "S",
+    "Each availability zone"
+   ],
+   [
+    "V",
+    "has"
+   ],
+   [
+    "O",
+    "independent power, cooling, and networking infrastructure"
+   ]
   ],
-  [
-   "V",
-   "provide"
-  ],
-  [
-   "O",
-   "availability zones"
-  ],
-  [
-   "S",
-   "Each availability zone"
-  ],
-  [
-   "V",
-   "has"
-  ],
-  [
-   "O",
-   "independent power, cooling, and networking infrastructure"
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ],
+   [
+    "都有",
+    0
+   ]
   ]
- ],
- "availability set": [
-  [
-   "S",
-   "VMs"
+ },
+ "availability set": {
+  "roles": [
+   [
+    "S",
+    "VMs"
+   ],
+   [
+    "V",
+    "are deployed"
+   ]
   ],
-  [
-   "V",
-   "are deployed"
+  "zhVerbs": [
+   [
+    "部署",
+    0
+   ]
   ]
- ]
+ }
 }
