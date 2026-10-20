@@ -1,7 +1,7 @@
 // Draws the Learn-style page chrome from DocFX output: global and section navigation (toc.json),
 // the table of contents tree, breadcrumbs, "In this article", search (index.json) and the theme menu.
 // Also converts DocFX's Markdown output to Learn markup (alerts, tables, heading anchors), draws quizzes (quiz.js) and
-// underlines the subject, verb and object of each definition in term tables (marks.js, data in media/<page>.grammar.json).
+// underlines the verb of each definition in term tables (marks.js, data in media/<page>.grammar.json).
 
 import { quiz } from './quiz.js'
 import { markGrammar } from './marks.js'

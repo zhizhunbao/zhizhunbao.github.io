@@ -6,7 +6,7 @@ ms.date: 2026-10-19
 
 # Cloud Adoption Framework for Azure
 
-Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in weeks 2 and 3. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. In the English, the subject is underlined twice, the verb once and the object or complement with a wavy line.
+Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in weeks 2 and 3. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. In the English, the verb of each sentence is underlined.
 
 ## [Cloud Adoption Framework overview](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview)
 

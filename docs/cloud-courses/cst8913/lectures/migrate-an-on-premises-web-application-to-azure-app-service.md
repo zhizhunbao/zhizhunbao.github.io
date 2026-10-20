@@ -6,7 +6,7 @@ ms.date: 2026-10-19
 
 # Migrate an on-premises web application to Azure App Service
 
-Study notes on [Microsoft Learn module (retired)](https://web.archive.org/web/20221202123525/https://learn.microsoft.com/en-us/training/modules/migrate-app-service-migration-assistant/3-understand-assessment), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 6. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. In the English, the subject is underlined twice, the verb once and the object or complement with a wavy line.
+Study notes on [Microsoft Learn module (retired)](https://web.archive.org/web/20221202123525/https://learn.microsoft.com/en-us/training/modules/migrate-app-service-migration-assistant/3-understand-assessment), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 6. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. In the English, the verb of each sentence is underlined.
 
 ## [Assess a web app with the Azure App Service Migration Assistant](https://web.archive.org/web/20221202123525/https://learn.microsoft.com/en-us/training/modules/migrate-app-service-migration-assistant/3-understand-assessment)
 

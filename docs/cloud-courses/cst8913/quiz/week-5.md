@@ -6,6 +6,6 @@ ms.date: 2026-10-20
 
 # Week 5 quiz
 
-16 questions for week 5 (Rehosting to Azure), one per framed term of these lecture pages: [Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md), [What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md). Each question shows a definition with the term blanked out; pick the term. The definitions are quoted from the official sources cited on the lecture pages. After you answer, the Chinese name and the Chinese translation of the definition show, key words in the same colour as in the English, with a link to the section that defines the term. In each question the subject is underlined twice, the verb once and the object or complement with a wavy line.
+16 questions for week 5 (Rehosting to Azure), one per framed term of these lecture pages: [Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md), [What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md). Each question shows a definition with the term blanked out; pick the term. The definitions are quoted from the official sources cited on the lecture pages. After you answer, the Chinese name and the Chinese translation of the definition show, key words in the same colour as in the English, with a link to the section that defines the term. In each question the verb is underlined.
 
 [Start the quiz](w5.json)
