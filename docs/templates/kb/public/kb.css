@@ -222,7 +222,6 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 .kb-quiz-result.is-wrong { border-color: var(--theme-danger-base); }
 .content .kb-quiz-result p { margin: 4px 0 0; }
 .content .kb-quiz-result p:first-child { margin-top: 0; }
-.kb-quiz-verdict { font-weight: 600; }
 
 /* Key words: the n-th key word of an English definition and of its Chinese translation share a colour. Term tables
    bold them in order (Definition is column 2, 中文翻译 column 3); quiz.js marks them as .kb-key[data-key=n]. */
