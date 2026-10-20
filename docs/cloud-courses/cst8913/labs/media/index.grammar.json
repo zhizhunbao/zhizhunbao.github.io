@@ -1,0 +1,996 @@
+{
+ "Git": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "GitHub": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "branch": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "is referred to as",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "被称为",
+    0
+   ]
+  ]
+ },
+ "working tree": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "are pulled out of",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "提取出来",
+    0
+   ]
+  ]
+ },
+ "staging area (index)": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "commit": {
+  "verbs": [
+   [
+    "takes a picture of",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "拍一张照片",
+    0
+   ]
+  ]
+ },
+ "push": {
+  "verbs": [
+   [
+    "have to push",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "推送到",
+    0
+   ]
+  ]
+ },
+ "pull request": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "merge": {
+  "verbs": [
+   [
+    "takes",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "会获取",
+    0
+   ]
+  ]
+ },
+ "fork": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "motivation": {
+  "verbs": [
+   [
+    "can drive",
+    0
+   ],
+   [
+    "apply",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以推动",
+    0
+   ],
+   [
+    "适用",
+    0
+   ]
+  ]
+ },
+ "Discovery questions": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "RACI matrix": {
+  "verbs": [
+   [
+    "Align",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "协调",
+    0
+   ]
+  ]
+ },
+ "The five Rs": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Migration schedule": {
+  "verbs": [
+   [
+    "sets",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "规定",
+    0
+   ]
+  ]
+ },
+ "Decision criteria": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Cloud models": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Service types": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "IaaS or PaaS": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    1
+   ]
+  ]
+ },
+ "Infrastructure as a Service (IaaS)": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "VNet, subnets, NSGs and load balancers": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "availability zone": {
+  "verbs": [
+   [
+    "provide",
+    0
+   ],
+   [
+    "has",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ],
+   [
+    "都有",
+    0
+   ]
+  ]
+ },
+ "Load balancer VM": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Web VM": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "App VM": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Database VM": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "shared responsibility model": {
+  "verbs": [
+   [
+    "get shared between",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "共同承担",
+    0
+   ]
+  ]
+ },
+ "Platform as a Service (PaaS)": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Azure Static Web Apps": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Azure App Service": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "can use",
+    0
+   ],
+   [
+    "manages",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "可以使用",
+    0
+   ],
+   [
+    "管理",
+    0
+   ]
+  ]
+ },
+ "Azure Database for PostgreSQL": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Software as a Service (SaaS)": {
+  "verbs": [
+   [
+    "renting or using",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "租用或使用",
+    0
+   ]
+  ]
+ },
+ "digital estate": {
+  "verbs": [
+   [
+    "starts with",
+    0
+   ],
+   [
+    "are referred to as",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "都是",
+    0
+   ],
+   [
+    "统称为",
+    0
+   ]
+  ]
+ },
+ "Discovery and assessment": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "dependency analysis": {
+  "verbs": [
+   [
+    "Understand",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "了解",
+    0
+   ]
+  ]
+ },
+ "readiness": {
+  "verbs": [
+   [
+    "Assess",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "评估",
+    0
+   ]
+  ]
+ },
+ "sizing": {
+  "verbs": [
+   [
+    "Estimate",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "估算",
+    0
+   ]
+  ]
+ },
+ "cost estimate": {
+  "verbs": [
+   [
+    "Estimate",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "估算",
+    1
+   ]
+  ]
+ },
+ "migration plan": {
+  "verbs": [
+   [
+    "Create",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "制定",
+    0
+   ]
+  ]
+ },
+ "Azure Migrate appliance": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "collects",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "收集",
+    0
+   ]
+  ]
+ },
+ "test migration": {
+  "verbs": [
+   [
+    "simulates",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "模拟",
+    0
+   ]
+  ]
+ },
+ "Rollback": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "business driver": {
+  "verbs": [
+   [
+    "defines",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "定义了",
+    0
+   ]
+  ]
+ },
+ "Rehost": {
+  "verbs": [
+   [
+    "moves",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "迁移",
+    1
+   ]
+  ]
+ },
+ "Azure VMware Solution (AVS)": {
+  "verbs": [
+   [
+    "provides",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ]
+  ]
+ },
+ "Migration phases": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "replication": {
+  "verbs": [
+   [
+    "is created",
+    0
+   ],
+   [
+    "is replicated to",
+    0
+   ],
+   [
+    "begins",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "创建",
+    0
+   ],
+   [
+    "复制到",
+    0
+   ],
+   [
+    "开始",
+    0
+   ]
+  ]
+ },
+ "cutover": {
+  "verbs": [
+   [
+    "can perform",
+    0
+   ],
+   [
+    "shuts down",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "执行",
+    0
+   ],
+   [
+    "关闭",
+    0
+   ]
+  ]
+ },
+ "Rehost or replatform": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    1
+   ]
+  ]
+ },
+ "migration wave": {
+  "verbs": [
+   [
+    "plan",
+    0
+   ],
+   [
+    "Identify",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "规划",
+    0
+   ],
+   [
+    "确定",
+    0
+   ]
+  ]
+ },
+ "Virtual machines": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Serverless functions": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Managed Kubernetes": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "PaaS app hosting": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Autoscaling": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Virtual desktops": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Object storage": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Block storage": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "File storage": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Backup and disaster recovery": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Relational database": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "NoSQL database": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Data warehouse": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Big data analytics": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Data integration": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Data catalog and governance": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Virtual network": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Content delivery network": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "DNS": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Load balancing": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Identity and keys": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Monitoring and logging": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Infrastructure as code": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "CI/CD": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Message queue": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Data streaming": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Workflow automation": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "AI and machine learning": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Media transcoding": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Notifications": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Each provider's name for the same service": {
+  "verbs": [
+   [
+    "gives",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "起",
+    0
+   ]
+  ]
+ },
+ "Service models": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Similarities and differences": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是指",
+    0
+   ]
+  ]
+ },
+ "Unique capabilities": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Naming conventions": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ }
+}
