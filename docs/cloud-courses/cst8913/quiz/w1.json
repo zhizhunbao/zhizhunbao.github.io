@@ -44,6 +44,12 @@
      "a free and open source distributed version control system"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -102,6 +108,20 @@
      "placed"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "提取出来",
+     0
+    ],
+    [
+     "放在",
+     0
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -142,6 +162,12 @@
     [
      "V",
      "means"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "表示",
+     0
     ]
    ],
    "page": "Pro Git: getting started",
@@ -192,6 +218,16 @@
     [
      "V",
      "is"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "添加到",
+     0
+    ],
+    [
+     "是",
+     0
     ]
    ],
    "page": "Pro Git: getting started",
@@ -252,6 +288,16 @@
      "the \"index\""
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -292,6 +338,12 @@
     [
      "V",
      "means"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "表示",
+     0
     ]
    ],
    "page": "Pro Git: getting started",
@@ -347,6 +399,16 @@
     [
      "O",
      "a reference"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "拍",
+     0
+    ],
+    [
+     "存储",
+     0
     ]
    ],
    "page": "Pro Git: getting started",
@@ -411,6 +473,20 @@
      "is"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "是",
+     0
+    ],
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -449,6 +525,12 @@
      "means"
     ]
    ],
+   "zhVerbs": [
+    [
+     "表示",
+     0
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -485,6 +567,12 @@
     [
      "O",
      "fetch or push"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "请参阅",
+     0
     ]
    ],
    "page": "Pro Git: getting started",
@@ -528,6 +616,12 @@
     [
      "O",
      "it"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "推送",
+     0
     ]
    ],
    "page": "Pro Git: getting started",
@@ -576,6 +670,12 @@
      "to fetch it and merge it"
     ]
    ],
+   "zhVerbs": [
+    [
+     "意味着",
+     0
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -616,6 +716,12 @@
     [
      "O",
      "git clone"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "Pro Git: getting started",
@@ -664,6 +770,12 @@
      "a platform"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -706,6 +818,12 @@
      "an existing (\"upstream\") repository"
     ]
    ],
+   "zhVerbs": [
+    [
+     "可以复刻",
+     0
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -746,6 +864,12 @@
     [
      "O",
      "repositories"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "GitHub Docs: collaborating with pull requests",
@@ -792,6 +916,12 @@
     [
      "O",
      "a separate repository"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "GitHub Docs: collaborating with pull requests",
@@ -848,6 +978,16 @@
      "topic branches"
     ]
    ],
+   "zhVerbs": [
+    [
+     "拥有",
+     0
+    ],
+    [
+     "创建",
+     0
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -888,6 +1028,12 @@
     [
      "O",
      "a person"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "是",
+     0
     ]
    ],
    "page": "GitHub Docs: collaborating with pull requests",
@@ -948,6 +1094,16 @@
      "the tip"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "被称为",
+     0
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -994,6 +1150,12 @@
      "proposals"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -1038,6 +1200,12 @@
     [
      "O",
      "people"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "让",
+     0
     ]
    ],
    "page": "GitHub Docs: collaborating with pull requests",
@@ -1092,6 +1260,16 @@
     [
      "O",
      "them"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "会获取",
+     0
+    ],
+    [
+     "应用",
+     0
     ]
    ],
    "page": "GitHub Docs: collaborating with pull requests",
@@ -1158,6 +1336,20 @@
     [
      "O",
      "the default branch"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "有",
+     0
+    ],
+    [
+     "通常称为",
+     0
+    ],
+    [
+     "是",
+     0
     ]
    ],
    "page": "GitHub Docs: collaborating with pull requests",

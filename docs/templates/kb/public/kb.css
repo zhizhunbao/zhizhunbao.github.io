@@ -235,6 +235,15 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 .kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+4), .kb-key[data-key="4"] { background: var(--kb-key-4); }
 .kb-key { font-weight: 600; }
 
-/* The verb (谓语) of an English definition (marks.js): a single red line */
-.kb-role-V { text-decoration: underline solid #c50f1f 1.5px; text-underline-offset: 4px; text-decoration-skip-ink: none; }
-.theme-dark .kb-role-V { text-decoration-color: #ff8f8f; }
+/* The verb (谓语) of a definition and of its translation (marks.js): a red box */
+.kb-role-V { border: 1.5px solid #c50f1f; border-radius: 3px; padding: 0 2px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.theme-dark .kb-role-V { border-color: #ff8f8f; }
+
+/* Figures open on their own when clicked (kb.js lightbox): fixed size so browser zoom enlarges them, the overlay scrolls */
+.content img:not(a img) { cursor: zoom-in; }
+.kb-lightbox-open, .kb-lightbox-open body { overflow: hidden; }
+.kb-lightbox { position: fixed; inset: 0; z-index: 1000; overflow: auto; padding: 48px 24px 24px; background: rgba(0, 0, 0, .85); cursor: zoom-out; text-align: center; }
+.kb-lightbox-img { max-width: none; height: auto; background: #fff; border-radius: 4px; cursor: zoom-out; }
+.kb-lightbox.is-fit .kb-lightbox-img { width: auto !important; max-width: 100%; max-height: calc(100vh - 72px); }
+.kb-lightbox-close { position: fixed; top: 8px; right: 16px; width: 36px; height: 36px; border: 0; border-radius: 50%; background: rgba(255, 255, 255, .15); color: #fff; font-size: 24px; line-height: 36px; cursor: pointer; }
+.kb-lightbox-close:hover, .kb-lightbox-close:focus-visible { background: rgba(255, 255, 255, .3); }

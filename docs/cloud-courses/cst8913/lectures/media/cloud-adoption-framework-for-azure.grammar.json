@@ -1,1217 +1,1895 @@
 {
- "Cloud Adoption Framework (CAF)": [
-  [
-   "S",
-   "The Microsoft Cloud Adoption Framework (CAF)"
-  ],
-  [
-   "V",
-   "helps"
-  ],
-  [
-   "O",
-   "decision makers"
-  ],
-  [
-   "S",
-   "It"
-  ],
-  [
-   "V",
-   "provides"
-  ],
-  [
-   "O",
-   "proven guidance"
-  ]
- ],
- "Strategy": [
-  [
-   "O",
-   "What"
-  ],
-  [
-   "V",
-   "should"
-  ],
-  [
-   "S",
-   "our Azure adoption"
-  ],
-  [
-   "V",
-   "look like"
-  ]
- ],
- "Plan": [
-  [
-   "S",
-   "Successful cloud adoption"
-  ],
-  [
-   "V",
-   "requires"
-  ],
-  [
-   "O",
-   "a cloud adoption plan"
-  ],
-  [
-   "S",
-   "A cloud adoption plan"
-  ],
-  [
-   "V",
-   "converts"
-  ],
-  [
-   "O",
-   "your cloud strategy"
-  ]
- ],
- "Ready": [
-  [
-   "S",
-   "The Ready phase"
-  ],
-  [
-   "V",
-   "helps"
-  ],
-  [
-   "O",
-   "you"
-  ]
- ],
- "CAF Adopt phase": [
-  [
-   "V",
-   "will"
-  ],
-  [
-   "S",
-   "we"
-  ],
-  [
-   "V",
-   "migrate, modernize, and build"
-  ],
-  [
-   "O",
-   "workloads"
-  ]
- ],
- "Migrate (CAF)": [
-  [
-   "S",
-   "Migration"
-  ],
-  [
-   "V",
-   "changes"
-  ],
-  [
-   "O",
-   "where or how a workload runs"
-  ],
-  [
-   "S",
-   "Modernization"
-  ],
-  [
-   "V",
-   "changes"
-  ],
-  [
-   "O",
-   "the workload"
-  ],
-  [
-   "S",
-   "An initiative"
-  ],
-  [
-   "V",
-   "can do"
-  ],
-  [
-   "O",
-   "both"
-  ]
- ],
- "Modernize": [
-  [
-   "S",
-   "Modernization"
-  ],
-  [
-   "V",
-   "improves"
-  ],
-  [
-   "O",
-   "an existing workload or workload component"
-  ],
-  [
-   "S",
-   "It"
-  ],
-  [
-   "V",
-   "can change"
-  ],
-  [
-   "O",
-   "different parts"
-  ]
- ],
- "Innovate": [
-  [
-   "S",
-   "A cloud-native solution"
-  ],
-  [
-   "V",
-   "creates"
-  ],
-  [
-   "O",
-   "business value"
-  ],
-  [
-   "S",
-   "cloud-native development"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a journey"
-  ]
- ],
- "Govern": [
-  [
-   "S",
-   "Cloud governance"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "how an organization controls its use of cloud services"
-  ],
-  [
-   "S",
-   "These guardrails"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "a set"
-  ]
- ],
- "CAF Secure phase": [
-  [
-   "S",
-   "The Cloud Adoption Framework for Azure Secure methodology"
-  ],
-  [
-   "V",
-   "provides"
-  ],
-  [
-   "O",
-   "a structured approach"
-  ]
- ],
- "Manage": [
-  [
-   "S",
-   "Managing your Azure environment"
-  ],
-  [
-   "V",
-   "isn't"
-  ],
-  [
-   "O",
-   "about keeping the lights on"
-  ],
-  [
-   "S",
-   "It"
-  ],
-  [
-   "V",
-   "'s"
-  ],
-  [
-   "O",
-   "about maintaining governance and security"
-  ]
- ],
- "Azure Architecture Center": [
-  [
-   "S",
-   "The Azure Architecture Center"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a catalog"
-  ]
- ],
- "Azure Well-Architected Framework": [
-  [
-   "S",
-   "The Azure Well-Architected Framework"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a design framework"
-  ],
-  [
-   "V",
-   "Be"
-  ],
-  [
-   "O",
-   "resilient, available, and recoverable"
-  ],
-  [
-   "V",
-   "Be"
-  ],
-  [
-   "O",
-   "as secure"
-  ]
- ],
- "cloud adoption strategy": [
-  [
-   "S",
-   "A cloud adoption strategy"
-  ],
-  [
-   "V",
-   "directs"
-  ],
-  [
-   "O",
-   "how your business adopts cloud technology"
-  ],
-  [
-   "S",
-   "It"
-  ],
-  [
-   "V",
-   "connects"
-  ],
-  [
-   "O",
-   "executive intent"
-  ],
-  [
-   "V",
-   "sets"
-  ],
-  [
-   "O",
-   "the standards"
-  ]
- ],
- "motivation": [
-  [
-   "S",
-   "Various motivations"
-  ],
-  [
-   "V",
-   "can drive"
-  ],
-  [
-   "O",
-   "business transformations"
-  ],
-  [
-   "S",
-   "Several motivations"
-  ],
-  [
-   "V",
-   "apply"
-  ]
- ],
- "critical business event": [
-  [
-   "S",
-   "it"
-  ],
-  [
-   "V",
-   "'s"
-  ],
-  [
-   "O",
-   "important"
-  ]
- ],
- "migration motivation": [
-  [
-   "S",
-   "The migration motivations"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "the most common reasons"
-  ]
- ],
- "innovation motivation": [
-  [
-   "S",
-   "Data"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the new commodity"
-  ],
-  [
-   "S",
-   "modern applications"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "the supply chain"
-  ],
-  [
-   "S",
-   "it"
-  ],
-  [
-   "V",
-   "'s"
-  ],
-  [
-   "O",
-   "hard"
-  ]
- ],
- "business outcome": [
-  [
-   "S",
-   "This article series"
-  ],
-  [
-   "V",
-   "is designed"
-  ]
- ],
- "fiscal outcome": [
-  [
-   "S",
-   "Financial or fiscal performance"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the cleanest business outcome"
-  ]
- ],
- "agility outcome": [
-  [
-   "S",
-   "Today's fast-changing business environment"
-  ],
-  [
-   "V",
-   "places"
-  ],
-  [
-   "O",
-   "a premium"
-  ],
-  [
-   "S",
-   "The ability"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the fundamental measure"
-  ]
- ],
- "reach outcome": [
-  [
-   "S",
-   "global reach"
-  ],
-  [
-   "V",
-   "can be measured"
-  ]
- ],
- "customer engagement outcome": [
-  [
-   "S",
-   "Social marketplaces"
-  ],
-  [
-   "V",
-   "are redefining"
-  ],
-  [
-   "O",
-   "winners and losers"
-  ],
-  [
-   "S",
-   "Responding to user needs"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a key measure"
-  ]
- ],
- "performance outcome": [
-  [
-   "S",
-   "Performance and reliability"
-  ],
-  [
-   "V",
-   "are assumed"
-  ],
-  [
-   "S",
-   "reputation damage"
-  ],
-  [
-   "V",
-   "can be"
-  ],
-  [
-   "O",
-   "painful and long-lasting"
-  ]
- ],
- "sustainability outcome": [
-  [
-   "S",
-   "Environmental sustainability"
-  ],
-  [
-   "V",
-   "is quickly moving"
-  ]
- ],
- "financial considerations": [
-  [
-   "S",
-   "A digital transformation"
-  ],
-  [
-   "V",
-   "goes"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "S",
-   "financial considerations"
-  ]
- ],
- "technical considerations": [
-  [
-   "V",
-   "are"
-  ],
-  [
-   "S",
-   "technical considerations"
-  ]
- ],
- "scalability": [
-  [
-   "S",
-   "Scalability"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "one"
-  ]
- ],
- "high availability": [
-  [
-   "S",
-   "it"
-  ],
-  [
-   "V",
-   "'s"
-  ],
-  [
-   "O",
-   "more costly"
-  ],
-  [
-   "S",
-   "It"
-  ],
-  [
-   "V",
-   "'s"
-  ],
-  [
-   "O",
-   "less costly"
-  ]
- ],
- "security and compliance": [
-  [
-   "S",
-   "Microsoft"
-  ],
-  [
-   "V",
-   "is continually expanding"
-  ],
-  [
-   "O",
-   "our security infrastructure and toolsets"
-  ]
- ],
- "capacity optimization": [
-  [
-   "S",
-   "Capacity optimization"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "another technical benefit"
-  ]
- ],
- "business case": [
-  [
-   "S",
-   "A business case"
-  ],
-  [
-   "V",
-   "provides"
-  ],
-  [
-   "O",
-   "a view"
-  ],
-  [
-   "S",
-   "Developing a business case"
-  ],
-  [
-   "V",
-   "includes"
-  ],
-  [
-   "O",
-   "building a financial plan"
-  ]
- ],
- "adoption horizons": [
-  [
-   "S",
-   "it"
-  ],
-  [
-   "V",
-   "'s suggested"
-  ],
-  [
-   "S",
-   "the company"
-  ],
-  [
-   "V",
-   "commits"
-  ]
- ],
- "Horizon 1 migration and modernization": [
-  [
-   "V",
-   "Prioritize"
-  ],
-  [
-   "O",
-   "the datacenter exit"
-  ]
- ],
- "Horizon 2 operation modernization": [
-  [
-   "V",
-   "Prioritize"
-  ],
-  [
-   "O",
-   "operational improvements"
-  ]
- ],
- "Horizon 3 advanced modernization": [
-  [
-   "S",
-   "the team"
-  ],
-  [
-   "V",
-   "will have"
-  ],
-  [
-   "O",
-   "sufficient data and cloud skills"
-  ]
- ],
- "Horizon 4 innovation and growth": [
-  [
-   "V",
-   "Redirect"
-  ],
-  [
-   "O",
-   "capital reduction"
-  ]
- ],
- "cloud rationalization": [
-  [
-   "S",
-   "Cloud rationalization"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the process"
-  ]
- ],
- "Rehost": [
-  [
-   "S",
-   "a rehost effort"
-  ],
-  [
-   "V",
-   "moves"
-  ],
-  [
-   "O",
-   "a current state asset"
-  ]
- ],
- "lift and shift": [
-  [
-   "S",
-   "You"
-  ],
-  [
-   "V",
-   "set up"
-  ],
-  [
-   "O",
-   "cloud resources"
-  ],
-  [
-   "V",
-   "move"
-  ],
-  [
-   "O",
-   "your workloads"
-  ]
- ],
- "Refactor": [
-  [
-   "S",
-   "Platform as a service (PaaS) options"
-  ],
-  [
-   "V",
-   "can reduce"
-  ],
-  [
-   "O",
-   "the operational costs"
-  ],
-  [
-   "S",
-   "It"
-  ],
-  [
-   "V",
-   "'s"
-  ],
-  [
-   "O",
-   "a good idea"
-  ]
- ],
- "Rearchitect": [
-  [
-   "S",
-   "Some aging applications"
-  ],
-  [
-   "V",
-   "aren't"
-  ],
-  [
-   "O",
-   "compatible"
-  ],
-  [
-   "S",
-   "This incompatibility"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "S",
-   "the application",
-   1
-  ],
-  [
-   "V",
-   "might need to be rearchitected"
-  ]
- ],
- "Rebuild": [
-  [
-   "S",
-   "the delta"
-  ],
-  [
-   "V",
-   "can be"
-  ],
-  [
-   "O",
-   "too large"
-  ],
-  [
-   "V",
-   "create"
-  ],
-  [
-   "O",
-   "a new code base"
-  ]
- ],
- "cloud-native": [
-  [
-   "S",
-   "Cloud-native architecture and technologies"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "an approach"
-  ]
- ],
- "Replace": [
-  [
-   "S",
-   "software as a service (SaaS) applications"
-  ],
-  [
-   "V",
-   "can provide"
-  ],
-  [
-   "O",
-   "all the necessary functionality"
-  ],
-  [
-   "S",
-   "a workload"
-  ],
-  [
-   "V",
-   "can be scheduled"
-  ]
- ],
- "business goal": [
-  [
-   "S",
-   "Business goals"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "high-level outcomes"
-  ]
- ],
- "business driver": [
-  [
-   "S",
-   "A business driver"
-  ],
-  [
-   "V",
-   "defines"
-  ]
- ],
- "migration strategy": [
-  [
-   "S",
-   "A migration strategy"
-  ],
-  [
-   "V",
-   "defines"
-  ]
- ],
- "Retire": [
-  [
-   "S",
-   "Retire"
-  ],
-  [
-   "V",
-   "decommissions"
-  ],
-  [
-   "O",
-   "workloads"
-  ]
- ],
- "Replatform": [
-  [
-   "S",
-   "Replatforming"
-  ],
-  [
-   "V",
-   "moves"
-  ],
-  [
-   "O",
-   "workloads"
-  ]
- ],
- "Retain": [
-  [
-   "S",
-   "A retain strategy"
-  ],
-  [
-   "V",
-   "keeps"
-  ],
-  [
-   "O",
-   "workloads"
-  ]
- ],
- "RACI matrix": [
-  [
-   "V",
-   "Align"
-  ],
-  [
-   "O",
-   "responsibilities"
-  ]
- ],
- "Responsible": [],
- "Accountable": [],
- "Consulted": [],
- "Informed": [],
- "central IT team": [
-  [
-   "S",
-   "the cloud governance team"
-  ],
-  [
-   "V",
-   "might struggle"
-  ],
-  [
-   "S",
-   "it"
-  ],
-  [
-   "V",
-   "'s"
-  ],
-  [
-   "O",
-   "common"
-  ]
- ],
- "cloud center of excellence (CCoE)": [
-  [
-   "S",
-   "a cloud center of excellence"
-  ],
-  [
-   "V",
-   "aligns"
-  ],
-  [
-   "O",
-   "teams"
-  ],
-  [
-   "S",
-   "This approach"
-  ],
-  [
-   "V",
-   "provides"
-  ],
-  [
-   "O",
-   "centralized IT functions"
-  ]
- ],
- "solution delivery": [
-  [
-   "S",
-   "Cloud adoption functions"
-  ],
-  [
-   "V",
-   "enable"
-  ],
-  [
-   "O",
-   "the implementation"
-  ]
- ],
- "platform operations": [
-  [
-   "V",
-   "Operate and manage"
-  ],
-  [
-   "O",
-   "the cloud platform"
-  ]
- ],
- "cloud adoption team": [
-  [
-   "S",
-   "The nucleus"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the cloud adoption team"
-  ],
-  [
-   "S",
-   "This team"
-  ],
-  [
-   "V",
-   "drives"
-  ],
-  [
-   "O",
-   "the technical changes"
-  ]
- ],
- "cloud governance team": [
-  [
-   "S",
-   "a cloud governance team"
-  ],
-  [
-   "V",
-   "is dedicated"
-  ],
-  [
-   "S",
-   "The cloud governance team"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "accountable"
-  ]
- ],
- "landing zone": [
-  [
-   "S",
-   "An Azure landing zone"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a proven and flexible architecture"
-  ]
- ],
- "platform landing zone": [],
- "management group hierarchy": [
-  [
-   "S",
-   "The management group hierarchy"
-  ],
-  [
-   "V",
-   "provides"
-  ],
-  [
-   "O",
-   "the governance structure"
-  ],
-  [
-   "S",
-   "It"
-  ],
-  [
-   "V",
-   "organizes"
-  ],
-  [
-   "O",
-   "all of your Azure subscriptions"
-  ],
-  [
-   "V",
-   "applies"
-  ],
-  [
-   "O",
-   "governance standards"
-  ]
- ],
- "workload landing zone": [],
- "subscription": [
-  [
-   "S",
-   "subscriptions"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "a unit"
-  ],
-  [
-   "S",
-   "Subscriptions"
-  ],
-  [
-   "V",
-   "let"
-  ],
-  [
-   "O",
-   "you"
-  ]
- ],
- "management": [
-  [
-   "S",
-   "This design area"
-  ],
-  [
-   "V",
-   "establishes"
-  ],
-  [
-   "O",
-   "a foundation"
-  ]
- ],
- "governance": [
-  [
-   "V",
-   "Use"
-  ],
-  [
-   "O",
-   "Azure governance"
-  ]
- ],
- "accelerator": [
-  [
-   "S",
-   "Microsoft-provided accelerators"
-  ],
-  [
-   "V",
-   "use"
-  ],
-  [
-   "O",
-   "infrastructure as code"
-  ]
- ]
+ "Cloud Adoption Framework (CAF)": {
+  "roles": [
+   [
+    "S",
+    "The Microsoft Cloud Adoption Framework (CAF)"
+   ],
+   [
+    "V",
+    "helps"
+   ],
+   [
+    "O",
+    "decision makers"
+   ],
+   [
+    "S",
+    "It"
+   ],
+   [
+    "V",
+    "provides"
+   ],
+   [
+    "O",
+    "proven guidance"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可帮助",
+    0
+   ],
+   [
+    "提供",
+    0
+   ]
+  ]
+ },
+ "Strategy": {
+  "roles": [
+   [
+    "O",
+    "What"
+   ],
+   [
+    "V",
+    "should"
+   ],
+   [
+    "S",
+    "our Azure adoption"
+   ],
+   [
+    "V",
+    "look like"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "应该",
+    0
+   ],
+   [
+    "是什么样子",
+    0
+   ]
+  ]
+ },
+ "Plan": {
+  "roles": [
+   [
+    "S",
+    "Successful cloud adoption"
+   ],
+   [
+    "V",
+    "requires"
+   ],
+   [
+    "O",
+    "a cloud adoption plan"
+   ],
+   [
+    "S",
+    "A cloud adoption plan"
+   ],
+   [
+    "V",
+    "converts"
+   ],
+   [
+    "O",
+    "your cloud strategy"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "需要",
+    0
+   ],
+   [
+    "转化为",
+    0
+   ]
+  ]
+ },
+ "Ready": {
+  "roles": [
+   [
+    "S",
+    "The Ready phase"
+   ],
+   [
+    "V",
+    "helps"
+   ],
+   [
+    "O",
+    "you"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可帮助",
+    0
+   ]
+  ]
+ },
+ "CAF Adopt phase": {
+  "roles": [
+   [
+    "V",
+    "will"
+   ],
+   [
+    "S",
+    "we"
+   ],
+   [
+    "V",
+    "migrate, modernize, and build"
+   ],
+   [
+    "O",
+    "workloads"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "将",
+    0
+   ],
+   [
+    "迁移、现代化和构建",
+    0
+   ]
+  ]
+ },
+ "Migrate (CAF)": {
+  "roles": [
+   [
+    "S",
+    "Migration"
+   ],
+   [
+    "V",
+    "changes"
+   ],
+   [
+    "O",
+    "where or how a workload runs"
+   ],
+   [
+    "S",
+    "Modernization"
+   ],
+   [
+    "V",
+    "changes"
+   ],
+   [
+    "O",
+    "the workload"
+   ],
+   [
+    "S",
+    "An initiative"
+   ],
+   [
+    "V",
+    "can do"
+   ],
+   [
+    "O",
+    "both"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "改变",
+    0
+   ],
+   [
+    "改变",
+    0
+   ],
+   [
+    "可以同时做到",
+    0
+   ]
+  ]
+ },
+ "Modernize": {
+  "roles": [
+   [
+    "S",
+    "Modernization"
+   ],
+   [
+    "V",
+    "improves"
+   ],
+   [
+    "O",
+    "an existing workload or workload component"
+   ],
+   [
+    "S",
+    "It"
+   ],
+   [
+    "V",
+    "can change"
+   ],
+   [
+    "O",
+    "different parts"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "改进",
+    0
+   ],
+   [
+    "可以改变",
+    0
+   ]
+  ]
+ },
+ "Innovate": {
+  "roles": [
+   [
+    "S",
+    "A cloud-native solution"
+   ],
+   [
+    "V",
+    "creates"
+   ],
+   [
+    "O",
+    "business value"
+   ],
+   [
+    "S",
+    "cloud-native development"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a journey"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "创造",
+    0
+   ],
+   [
+    "都是",
+    0
+   ]
+  ]
+ },
+ "Govern": {
+  "roles": [
+   [
+    "S",
+    "Cloud governance"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "how an organization controls its use of cloud services"
+   ],
+   [
+    "S",
+    "These guardrails"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "a set"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "是",
+    1
+   ]
+  ]
+ },
+ "CAF Secure phase": {
+  "roles": [
+   [
+    "S",
+    "The Cloud Adoption Framework for Azure Secure methodology"
+   ],
+   [
+    "V",
+    "provides"
+   ],
+   [
+    "O",
+    "a structured approach"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "提供了",
+    0
+   ]
+  ]
+ },
+ "Manage": {
+  "roles": [
+   [
+    "S",
+    "Managing your Azure environment"
+   ],
+   [
+    "V",
+    "isn't"
+   ],
+   [
+    "O",
+    "about keeping the lights on"
+   ],
+   [
+    "S",
+    "It"
+   ],
+   [
+    "V",
+    "'s"
+   ],
+   [
+    "O",
+    "about maintaining governance and security"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "不仅仅是",
+    0
+   ],
+   [
+    "关乎",
+    0
+   ]
+  ]
+ },
+ "Azure Architecture Center": {
+  "roles": [
+   [
+    "S",
+    "The Azure Architecture Center"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a catalog"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Azure Well-Architected Framework": {
+  "roles": [
+   [
+    "S",
+    "The Azure Well-Architected Framework"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a design framework"
+   ],
+   [
+    "V",
+    "Be"
+   ],
+   [
+    "O",
+    "resilient, available, and recoverable"
+   ],
+   [
+    "V",
+    "Be"
+   ],
+   [
+    "O",
+    "as secure"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "具有",
+    0
+   ],
+   [
+    "达到",
+    0
+   ]
+  ]
+ },
+ "cloud adoption strategy": {
+  "roles": [
+   [
+    "S",
+    "A cloud adoption strategy"
+   ],
+   [
+    "V",
+    "directs"
+   ],
+   [
+    "O",
+    "how your business adopts cloud technology"
+   ],
+   [
+    "S",
+    "It"
+   ],
+   [
+    "V",
+    "connects"
+   ],
+   [
+    "O",
+    "executive intent"
+   ],
+   [
+    "V",
+    "sets"
+   ],
+   [
+    "O",
+    "the standards"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "指导",
+    0
+   ],
+   [
+    "联系起来",
+    0
+   ],
+   [
+    "设定",
+    0
+   ]
+  ]
+ },
+ "motivation": {
+  "roles": [
+   [
+    "S",
+    "Various motivations"
+   ],
+   [
+    "V",
+    "can drive"
+   ],
+   [
+    "O",
+    "business transformations"
+   ],
+   [
+    "S",
+    "Several motivations"
+   ],
+   [
+    "V",
+    "apply"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以推动",
+    0
+   ],
+   [
+    "适用",
+    0
+   ]
+  ]
+ },
+ "critical business event": {
+  "roles": [
+   [
+    "S",
+    "it"
+   ],
+   [
+    "V",
+    "'s"
+   ],
+   [
+    "O",
+    "important"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "migration motivation": {
+  "roles": [
+   [
+    "S",
+    "The migration motivations"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "the most common reasons"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "innovation motivation": {
+  "roles": [
+   [
+    "S",
+    "Data"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the new commodity"
+   ],
+   [
+    "S",
+    "modern applications"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "the supply chain"
+   ],
+   [
+    "S",
+    "it"
+   ],
+   [
+    "V",
+    "'s"
+   ],
+   [
+    "O",
+    "hard"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "是",
+    0
+   ],
+   [
+    "很难",
+    0
+   ]
+  ]
+ },
+ "business outcome": {
+  "roles": [
+   [
+    "S",
+    "This article series"
+   ],
+   [
+    "V",
+    "is designed"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "旨在",
+    0
+   ]
+  ]
+ },
+ "fiscal outcome": {
+  "roles": [
+   [
+    "S",
+    "Financial or fiscal performance"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the cleanest business outcome"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "agility outcome": {
+  "roles": [
+   [
+    "S",
+    "Today's fast-changing business environment"
+   ],
+   [
+    "V",
+    "places"
+   ],
+   [
+    "O",
+    "a premium"
+   ],
+   [
+    "S",
+    "The ability"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the fundamental measure"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "重视",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "reach outcome": {
+  "roles": [
+   [
+    "S",
+    "global reach"
+   ],
+   [
+    "V",
+    "can be measured"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "来衡量",
+    0
+   ]
+  ]
+ },
+ "customer engagement outcome": {
+  "roles": [
+   [
+    "S",
+    "Social marketplaces"
+   ],
+   [
+    "V",
+    "are redefining"
+   ],
+   [
+    "O",
+    "winners and losers"
+   ],
+   [
+    "S",
+    "Responding to user needs"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a key measure"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "重新定义",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "performance outcome": {
+  "roles": [
+   [
+    "S",
+    "Performance and reliability"
+   ],
+   [
+    "V",
+    "are assumed"
+   ],
+   [
+    "S",
+    "reputation damage"
+   ],
+   [
+    "V",
+    "can be"
+   ],
+   [
+    "O",
+    "painful and long-lasting"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "被视为",
+    0
+   ],
+   [
+    "可能是",
+    0
+   ]
+  ]
+ },
+ "sustainability outcome": {
+  "roles": [
+   [
+    "S",
+    "Environmental sustainability"
+   ],
+   [
+    "V",
+    "is quickly moving"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "转变为",
+    0
+   ]
+  ]
+ },
+ "financial considerations": {
+  "roles": [
+   [
+    "S",
+    "A digital transformation"
+   ],
+   [
+    "V",
+    "goes"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "S",
+    "financial considerations"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "相辅相成",
+    0
+   ],
+   [
+    "存在",
+    0
+   ]
+  ]
+ },
+ "technical considerations": {
+  "roles": [
+   [
+    "V",
+    "are"
+   ],
+   [
+    "S",
+    "technical considerations"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "存在",
+    0
+   ]
+  ]
+ },
+ "scalability": {
+  "roles": [
+   [
+    "S",
+    "Scalability"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "one"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "high availability": {
+  "roles": [
+   [
+    "S",
+    "it"
+   ],
+   [
+    "V",
+    "'s"
+   ],
+   [
+    "O",
+    "more costly"
+   ],
+   [
+    "S",
+    "It"
+   ],
+   [
+    "V",
+    "'s"
+   ],
+   [
+    "O",
+    "less costly"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "更高",
+    0
+   ],
+   [
+    "更低",
+    0
+   ]
+  ]
+ },
+ "security and compliance": {
+  "roles": [
+   [
+    "S",
+    "Microsoft"
+   ],
+   [
+    "V",
+    "is continually expanding"
+   ],
+   [
+    "O",
+    "our security infrastructure and toolsets"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "正在不断扩展",
+    0
+   ]
+  ]
+ },
+ "capacity optimization": {
+  "roles": [
+   [
+    "S",
+    "Capacity optimization"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "another technical benefit"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "business case": {
+  "roles": [
+   [
+    "S",
+    "A business case"
+   ],
+   [
+    "V",
+    "provides"
+   ],
+   [
+    "O",
+    "a view"
+   ],
+   [
+    "S",
+    "Developing a business case"
+   ],
+   [
+    "V",
+    "includes"
+   ],
+   [
+    "O",
+    "building a financial plan"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ],
+   [
+    "包括",
+    0
+   ]
+  ]
+ },
+ "adoption horizons": {
+  "roles": [
+   [
+    "S",
+    "it"
+   ],
+   [
+    "V",
+    "'s suggested"
+   ],
+   [
+    "S",
+    "the company"
+   ],
+   [
+    "V",
+    "commits"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "建议",
+    0
+   ],
+   [
+    "致力于",
+    0
+   ]
+  ]
+ },
+ "Horizon 1 migration and modernization": {
+  "roles": [
+   [
+    "V",
+    "Prioritize"
+   ],
+   [
+    "O",
+    "the datacenter exit"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "优先考虑",
+    0
+   ]
+  ]
+ },
+ "Horizon 2 operation modernization": {
+  "roles": [
+   [
+    "V",
+    "Prioritize"
+   ],
+   [
+    "O",
+    "operational improvements"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "优先考虑",
+    0
+   ]
+  ]
+ },
+ "Horizon 3 advanced modernization": {
+  "roles": [
+   [
+    "S",
+    "the team"
+   ],
+   [
+    "V",
+    "will have"
+   ],
+   [
+    "O",
+    "sufficient data and cloud skills"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "将拥有",
+    0
+   ]
+  ]
+ },
+ "Horizon 4 innovation and growth": {
+  "roles": [
+   [
+    "V",
+    "Redirect"
+   ],
+   [
+    "O",
+    "capital reduction"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "重新调配",
+    0
+   ]
+  ]
+ },
+ "cloud rationalization": {
+  "roles": [
+   [
+    "S",
+    "Cloud rationalization"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the process"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Rehost": {
+  "roles": [
+   [
+    "S",
+    "a rehost effort"
+   ],
+   [
+    "V",
+    "moves"
+   ],
+   [
+    "O",
+    "a current state asset"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "迁移",
+    1
+   ]
+  ]
+ },
+ "lift and shift": {
+  "roles": [
+   [
+    "S",
+    "You"
+   ],
+   [
+    "V",
+    "set up"
+   ],
+   [
+    "O",
+    "cloud resources"
+   ],
+   [
+    "V",
+    "move"
+   ],
+   [
+    "O",
+    "your workloads"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "设置",
+    0
+   ],
+   [
+    "移到",
+    0
+   ]
+  ]
+ },
+ "Refactor": {
+  "roles": [
+   [
+    "S",
+    "Platform as a service (PaaS) options"
+   ],
+   [
+    "V",
+    "can reduce"
+   ],
+   [
+    "O",
+    "the operational costs"
+   ],
+   [
+    "S",
+    "It"
+   ],
+   [
+    "V",
+    "'s"
+   ],
+   [
+    "O",
+    "a good idea"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以降低",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Rearchitect": {
+  "roles": [
+   [
+    "S",
+    "Some aging applications"
+   ],
+   [
+    "V",
+    "aren't"
+   ],
+   [
+    "O",
+    "compatible"
+   ],
+   [
+    "S",
+    "This incompatibility"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "S",
+    "the application",
+    1
+   ],
+   [
+    "V",
+    "might need to be rearchitected"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "不兼容",
+    0
+   ],
+   [
+    "是",
+    0
+   ],
+   [
+    "可能需要先重新架构",
+    0
+   ]
+  ]
+ },
+ "Rebuild": {
+  "roles": [
+   [
+    "S",
+    "the delta"
+   ],
+   [
+    "V",
+    "can be"
+   ],
+   [
+    "O",
+    "too large"
+   ],
+   [
+    "V",
+    "create"
+   ],
+   [
+    "O",
+    "a new code base"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可能",
+    0
+   ],
+   [
+    "创建",
+    0
+   ]
+  ]
+ },
+ "cloud-native": {
+  "roles": [
+   [
+    "S",
+    "Cloud-native architecture and technologies"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "an approach"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Replace": {
+  "roles": [
+   [
+    "S",
+    "software as a service (SaaS) applications"
+   ],
+   [
+    "V",
+    "can provide"
+   ],
+   [
+    "O",
+    "all the necessary functionality"
+   ],
+   [
+    "S",
+    "a workload"
+   ],
+   [
+    "V",
+    "can be scheduled"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ],
+   [
+    "安排",
+    0
+   ]
+  ]
+ },
+ "business goal": {
+  "roles": [
+   [
+    "S",
+    "Business goals"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "high-level outcomes"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "business driver": {
+  "roles": [
+   [
+    "S",
+    "A business driver"
+   ],
+   [
+    "V",
+    "defines"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "定义了",
+    0
+   ]
+  ]
+ },
+ "migration strategy": {
+  "roles": [
+   [
+    "S",
+    "A migration strategy"
+   ],
+   [
+    "V",
+    "defines"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "定义",
+    0
+   ]
+  ]
+ },
+ "Retire": {
+  "roles": [
+   [
+    "S",
+    "Retire"
+   ],
+   [
+    "V",
+    "decommissions"
+   ],
+   [
+    "O",
+    "workloads"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "退役",
+    0
+   ]
+  ]
+ },
+ "Replatform": {
+  "roles": [
+   [
+    "S",
+    "Replatforming"
+   ],
+   [
+    "V",
+    "moves"
+   ],
+   [
+    "O",
+    "workloads"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "迁移",
+    0
+   ]
+  ]
+ },
+ "Retain": {
+  "roles": [
+   [
+    "S",
+    "A retain strategy"
+   ],
+   [
+    "V",
+    "keeps"
+   ],
+   [
+    "O",
+    "workloads"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "保留",
+    1
+   ]
+  ]
+ },
+ "RACI matrix": {
+  "roles": [
+   [
+    "V",
+    "Align"
+   ],
+   [
+    "O",
+    "responsibilities"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "协调",
+    0
+   ]
+  ]
+ },
+ "Responsible": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "Accountable": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "Consulted": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "Informed": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "central IT team": {
+  "roles": [
+   [
+    "S",
+    "the cloud governance team"
+   ],
+   [
+    "V",
+    "might struggle"
+   ],
+   [
+    "S",
+    "it"
+   ],
+   [
+    "V",
+    "'s"
+   ],
+   [
+    "O",
+    "common"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可能难以",
+    0
+   ],
+   [
+    "通常会",
+    0
+   ]
+  ]
+ },
+ "cloud center of excellence (CCoE)": {
+  "roles": [
+   [
+    "S",
+    "a cloud center of excellence"
+   ],
+   [
+    "V",
+    "aligns"
+   ],
+   [
+    "O",
+    "teams"
+   ],
+   [
+    "S",
+    "This approach"
+   ],
+   [
+    "V",
+    "provides"
+   ],
+   [
+    "O",
+    "centralized IT functions"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "协调",
+    0
+   ],
+   [
+    "提供",
+    0
+   ]
+  ]
+ },
+ "solution delivery": {
+  "roles": [
+   [
+    "S",
+    "Cloud adoption functions"
+   ],
+   [
+    "V",
+    "enable"
+   ],
+   [
+    "O",
+    "the implementation"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "支持",
+    0
+   ]
+  ]
+ },
+ "platform operations": {
+  "roles": [
+   [
+    "V",
+    "Operate and manage"
+   ],
+   [
+    "O",
+    "the cloud platform"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "运行并管理",
+    0
+   ]
+  ]
+ },
+ "cloud adoption team": {
+  "roles": [
+   [
+    "S",
+    "The nucleus"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the cloud adoption team"
+   ],
+   [
+    "S",
+    "This team"
+   ],
+   [
+    "V",
+    "drives"
+   ],
+   [
+    "O",
+    "the technical changes"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "推动",
+    0
+   ]
+  ]
+ },
+ "cloud governance team": {
+  "roles": [
+   [
+    "S",
+    "a cloud governance team"
+   ],
+   [
+    "V",
+    "is dedicated"
+   ],
+   [
+    "S",
+    "The cloud governance team"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "accountable"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "致力于",
+    0
+   ],
+   [
+    "负责",
+    0
+   ]
+  ]
+ },
+ "landing zone": {
+  "roles": [
+   [
+    "S",
+    "An Azure landing zone"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a proven and flexible architecture"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "platform landing zone": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "management group hierarchy": {
+  "roles": [
+   [
+    "S",
+    "The management group hierarchy"
+   ],
+   [
+    "V",
+    "provides"
+   ],
+   [
+    "O",
+    "the governance structure"
+   ],
+   [
+    "S",
+    "It"
+   ],
+   [
+    "V",
+    "organizes"
+   ],
+   [
+    "O",
+    "all of your Azure subscriptions"
+   ],
+   [
+    "V",
+    "applies"
+   ],
+   [
+    "O",
+    "governance standards"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ],
+   [
+    "组织",
+    0
+   ],
+   [
+    "应用",
+    0
+   ]
+  ]
+ },
+ "workload landing zone": {
+  "roles": [],
+  "zhVerbs": []
+ },
+ "subscription": {
+  "roles": [
+   [
+    "S",
+    "subscriptions"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "a unit"
+   ],
+   [
+    "S",
+    "Subscriptions"
+   ],
+   [
+    "V",
+    "let"
+   ],
+   [
+    "O",
+    "you"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "让",
+    0
+   ]
+  ]
+ },
+ "management": {
+  "roles": [
+   [
+    "S",
+    "This design area"
+   ],
+   [
+    "V",
+    "establishes"
+   ],
+   [
+    "O",
+    "a foundation"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "奠定",
+    0
+   ]
+  ]
+ },
+ "governance": {
+  "roles": [
+   [
+    "V",
+    "Use"
+   ],
+   [
+    "O",
+    "Azure governance"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "使用",
+    0
+   ]
+  ]
+ },
+ "accelerator": {
+  "roles": [
+   [
+    "S",
+    "Microsoft-provided accelerators"
+   ],
+   [
+    "V",
+    "use"
+   ],
+   [
+    "O",
+    "infrastructure as code"
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "使用",
+    0
+   ]
+  ]
+ }
 }

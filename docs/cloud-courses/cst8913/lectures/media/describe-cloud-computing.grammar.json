@@ -1,216 +1,336 @@
 {
- "cloud computing": [
-  [
-   "S",
-   "Cloud computing"
+ "cloud computing": {
+  "roles": [
+   [
+    "S",
+    "Cloud computing"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the delivery"
+   ],
+   [
+    "S",
+    "Computing services"
+   ],
+   [
+    "V",
+    "include"
+   ],
+   [
+    "O",
+    "common IT infrastructure"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the delivery"
-  ],
-  [
-   "S",
-   "Computing services"
-  ],
-  [
-   "V",
-   "include"
-  ],
-  [
-   "O",
-   "common IT infrastructure"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "包括",
+    0
+   ]
   ]
- ],
- "datacenter": [
-  [
-   "S",
-   "The physical infrastructure"
+ },
+ "datacenter": {
+  "roles": [
+   [
+    "S",
+    "The physical infrastructure"
+   ],
+   [
+    "V",
+    "starts"
+   ],
+   [
+    "S",
+    "These datacenters"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "facilities"
+   ]
   ],
-  [
-   "V",
-   "starts"
-  ],
-  [
-   "S",
-   "These datacenters"
-  ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "facilities"
+  "zhVerbs": [
+   [
+    "开始",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "shared responsibility model": [
-  [
-   "S",
-   "these responsibilities"
+ },
+ "shared responsibility model": {
+  "roles": [
+   [
+    "S",
+    "these responsibilities"
+   ],
+   [
+    "V",
+    "get shared"
+   ]
   ],
-  [
-   "V",
-   "get shared"
+  "zhVerbs": [
+   [
+    "共同承担",
+    0
+   ]
   ]
- ],
- "on-premises": [
-  [
-   "S",
-   "you"
+ },
+ "on-premises": {
+  "roles": [
+   [
+    "S",
+    "you"
+   ],
+   [
+    "V",
+    "’re"
+   ],
+   [
+    "O",
+    "responsible"
+   ]
   ],
-  [
-   "V",
-   "’re"
-  ],
-  [
-   "O",
-   "responsible"
+  "zhVerbs": [
+   [
+    "负责",
+    0
+   ]
   ]
- ],
- "cloud provider": [
-  [
-   "S",
-   "Physical security, power, cooling, and network connectivity"
+ },
+ "cloud provider": {
+  "roles": [
+   [
+    "S",
+    "Physical security, power, cooling, and network connectivity"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "the responsibility"
+   ]
   ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "the responsibility"
+  "zhVerbs": [
+   [
+    "负责",
+    0
+   ]
   ]
- ],
- "public cloud": [
-  [
-   "S",
-   "A public cloud"
+ },
+ "public cloud": {
+  "roles": [
+   [
+    "S",
+    "A public cloud"
+   ],
+   [
+    "V",
+    "is built, controlled, and maintained"
+   ],
+   [
+    "S",
+    "anyone"
+   ],
+   [
+    "V",
+    "can access and use"
+   ],
+   [
+    "O",
+    "resources"
+   ]
   ],
-  [
-   "V",
-   "is built, controlled, and maintained"
-  ],
-  [
-   "S",
-   "anyone"
-  ],
-  [
-   "V",
-   "can access and use"
-  ],
-  [
-   "O",
-   "resources"
+  "zhVerbs": [
+   [
+    "构建、控制和维护",
+    0
+   ],
+   [
+    "可以访问和使用",
+    0
+   ]
   ]
- ],
- "private cloud": [
-  [
-   "S",
-   "It"
+ },
+ "private cloud": {
+  "roles": [
+   [
+    "S",
+    "It"
+   ],
+   [
+    "V",
+    "’s"
+   ],
+   [
+    "O",
+    "a cloud"
+   ]
   ],
-  [
-   "V",
-   "’s"
-  ],
-  [
-   "O",
-   "a cloud"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "hybrid cloud": [
-  [
-   "S",
-   "A hybrid cloud"
+ },
+ "hybrid cloud": {
+  "roles": [
+   [
+    "S",
+    "A hybrid cloud"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a computing environment"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a computing environment"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "multi-cloud": [
-  [
-   "S",
-   "you"
+ },
+ "multi-cloud": {
+  "roles": [
+   [
+    "S",
+    "you"
+   ],
+   [
+    "V",
+    "use"
+   ],
+   [
+    "O",
+    "multiple public cloud providers"
+   ]
   ],
-  [
-   "V",
-   "use"
-  ],
-  [
-   "O",
-   "multiple public cloud providers"
+  "zhVerbs": [
+   [
+    "使用",
+    0
+   ]
   ]
- ],
- "capital expenditure (CapEx)": [
-  [
-   "S",
-   "CapEx"
+ },
+ "capital expenditure (CapEx)": {
+  "roles": [
+   [
+    "S",
+    "CapEx"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a one-time, up-front expenditure"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a one-time, up-front expenditure"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "operational expenditure (OpEx)": [
-  [
-   "S",
-   "OpEx"
+ },
+ "operational expenditure (OpEx)": {
+  "roles": [
+   [
+    "S",
+    "OpEx"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "spending money"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "spending money"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "consumption-based model": [
-  [
-   "S",
-   "Cloud computing"
+ },
+ "consumption-based model": {
+  "roles": [
+   [
+    "S",
+    "Cloud computing"
+   ],
+   [
+    "V",
+    "falls under"
+   ],
+   [
+    "O",
+    "OpEx"
+   ]
   ],
-  [
-   "V",
-   "falls under"
-  ],
-  [
-   "O",
-   "OpEx"
+  "zhVerbs": [
+   [
+    "属于",
+    0
+   ]
   ]
- ],
- "pay-as-you-go pricing model": [
-  [
-   "S",
-   "Cloud computing"
+ },
+ "pay-as-you-go pricing model": {
+  "roles": [
+   [
+    "S",
+    "Cloud computing"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the delivery"
+   ],
+   [
+    "S",
+    "You"
+   ],
+   [
+    "V",
+    "pay"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the delivery"
-  ],
-  [
-   "S",
-   "You"
-  ],
-  [
-   "V",
-   "pay"
+  "zhVerbs": [
+   [
+    "是指",
+    0
+   ],
+   [
+    "付费",
+    1
+   ]
   ]
- ]
+ }
 }

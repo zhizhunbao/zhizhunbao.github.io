@@ -44,6 +44,12 @@
      "a request-processing architecture"
     ]
    ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -114,6 +120,20 @@
      "the infrastructure, operating system updates, load balancing, and scale-up/scale-down logic"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "可以使用",
+     0
+    ],
+    [
+     "管理",
+     0
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -160,6 +180,12 @@
      "an administrator"
     ]
    ],
+   "zhVerbs": [
+    [
+     "允许",
+     0
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -204,6 +230,12 @@
     [
      "O",
      "operations or DevOps"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "允许",
+     0
     ]
    ],
    "page": "Migrate an on-premises web application to Azure App Service",
@@ -264,6 +296,16 @@
      "a full diagnostic report"
     ]
    ],
+   "zhVerbs": [
+    [
+     "提供",
+     0
+    ],
+    [
+     "会生成",
+     0
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -322,6 +364,16 @@
      "a guided wizard-like user experience"
     ]
    ],
+   "zhVerbs": [
+    [
+     "是",
+     0
+    ],
+    [
+     "提供",
+     0
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -366,6 +418,12 @@
     [
      "O",
      "you"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "让",
+     0
     ]
    ],
    "page": "Migrate an on-premises web application to Azure App Service",
@@ -422,6 +480,16 @@
      "access"
     ]
    ],
+   "zhVerbs": [
+    [
+     "构建了",
+     0
+    ],
+    [
+     "访问",
+     0
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -464,6 +532,12 @@
      "a set"
     ]
    ],
+   "zhVerbs": [
+    [
+     "定义了",
+     0
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#migrate-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -500,6 +574,12 @@
     [
      "V",
      "can be used"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "可用于",
+     0
     ]
    ],
    "page": "Migrate an on-premises web application to Azure App Service",
@@ -546,6 +626,12 @@
     [
      "O",
      "your web app"
+    ]
+   ],
+   "zhVerbs": [
+    [
+     "连接到",
+     0
     ]
    ],
    "page": "Migrate an on-premises web application to Azure App Service",

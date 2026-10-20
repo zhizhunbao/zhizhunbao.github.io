@@ -1,7 +1,7 @@
 // Multiple-choice quizzes: a paragraph that is only a link to a .json file inside the article becomes the quiz.
 // Data: { "questions": [{ "stem", "options", "answer", "zhTerm", "zh", "keys", "roles", "page", "href" }] }, href relative
 // to the JSON file; zh is the definition in Chinese, keys its key words as [English, Chinese] pairs in the same order on
-// both sides, roles the subject, verb and object of the English (marks.js).
+// both sides, roles the subject, verb and object of the English and zhVerbs the same verbs in the Chinese (marks.js).
 // Click an option to check it; the answer, the Chinese name and translation and a link to the page section then show,
 // each key word coloured the same in the stem and the translation (kb.css .kb-key).
 
@@ -16,7 +16,7 @@ const el = (tag, attrs = {}, ...kids) => {
   e.append(...kids.filter(Boolean))
   return e
 }
-import { markPhrases, markGrammar } from './marks.js'
+import { markPhrases, markGrammar, markVerbs } from './marks.js'
 
 const LETTERS = 'ABCDEFGH'
 
@@ -52,6 +52,7 @@ function render(box, data, src) {
         })
         const zh = el('p', {}, el('strong', { text: q.zhTerm }), el('span', { text: `：${q.zh}` }))
         markPhrases(zh.lastChild, (q.keys || []).map((k) => k[1]), keySpan)
+        markVerbs(zh.lastChild, q.zhVerbs || [])
         result.className = `kb-quiz-result ${right ? 'is-correct' : 'is-wrong'}`
         result.replaceChildren(
           el('p', { class: 'kb-quiz-verdict', text: right ? 'Correct.' : `Not quite. The answer is ${LETTERS[q.answer]}: ${q.options[q.answer]}.` }),

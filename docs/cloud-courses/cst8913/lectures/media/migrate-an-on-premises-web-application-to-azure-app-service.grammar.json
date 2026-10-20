@@ -1,212 +1,320 @@
 {
- "Internet Information Services (IIS)": [
-  [
-   "S",
-   "Internet Information Services (IIS) 7 and later"
+ "Internet Information Services (IIS)": {
+  "roles": [
+   [
+    "S",
+    "Internet Information Services (IIS) 7 and later"
+   ],
+   [
+    "V",
+    "provide"
+   ],
+   [
+    "O",
+    "a request-processing architecture"
+   ]
   ],
-  [
-   "V",
-   "provide"
-  ],
-  [
-   "O",
-   "a request-processing architecture"
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ]
   ]
- ],
- "Azure App Service": [
-  [
-   "S",
-   "Azure App Service"
+ },
+ "Azure App Service": {
+  "roles": [
+   [
+    "S",
+    "Azure App Service"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a fully managed platform"
+   ],
+   [
+    "S",
+    "You"
+   ],
+   [
+    "V",
+    "can use"
+   ],
+   [
+    "O",
+    "it"
+   ],
+   [
+    "S",
+    "Microsoft"
+   ],
+   [
+    "V",
+    "manages"
+   ],
+   [
+    "O",
+    "the infrastructure, operating system updates, load balancing, and scale-up/scale-down logic"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a fully managed platform"
-  ],
-  [
-   "S",
-   "You"
-  ],
-  [
-   "V",
-   "can use"
-  ],
-  [
-   "O",
-   "it"
-  ],
-  [
-   "S",
-   "Microsoft"
-  ],
-  [
-   "V",
-   "manages"
-  ],
-  [
-   "O",
-   "the infrastructure, operating system updates, load balancing, and scale-up/scale-down logic"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "可以使用",
+    0
+   ],
+   [
+    "管理",
+    0
+   ]
   ]
- ],
- "autoscale": [
-  [
-   "S",
-   "The autoscale feature"
+ },
+ "autoscale": {
+  "roles": [
+   [
+    "S",
+    "The autoscale feature"
+   ],
+   [
+    "V",
+    "allows"
+   ],
+   [
+    "O",
+    "an administrator"
+   ]
   ],
-  [
-   "V",
-   "allows"
-  ],
-  [
-   "O",
-   "an administrator"
+  "zhVerbs": [
+   [
+    "允许",
+    0
+   ]
   ]
- ],
- "deployment slots": [
-  [
-   "S",
-   "Deployment slots"
+ },
+ "deployment slots": {
+  "roles": [
+   [
+    "S",
+    "Deployment slots"
+   ],
+   [
+    "V",
+    "allow"
+   ],
+   [
+    "O",
+    "operations or DevOps"
+   ]
   ],
-  [
-   "V",
-   "allow"
-  ],
-  [
-   "O",
-   "operations or DevOps"
+  "zhVerbs": [
+   [
+    "允许",
+    0
+   ]
   ]
- ],
- "App Service diagnostics": [
-  [
-   "S",
-   "App Service diagnostics"
+ },
+ "App Service diagnostics": {
+  "roles": [
+   [
+    "S",
+    "App Service diagnostics"
+   ],
+   [
+    "V",
+    "provide"
+   ],
+   [
+    "O",
+    "an interactive interface"
+   ],
+   [
+    "S",
+    "The interface"
+   ],
+   [
+    "V",
+    "produces"
+   ],
+   [
+    "O",
+    "a full diagnostic report"
+   ]
   ],
-  [
-   "V",
-   "provide"
-  ],
-  [
-   "O",
-   "an interactive interface"
-  ],
-  [
-   "S",
-   "The interface"
-  ],
-  [
-   "V",
-   "produces"
-  ],
-  [
-   "O",
-   "a full diagnostic report"
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ],
+   [
+    "会生成",
+    0
+   ]
   ]
- ],
- "App Service Migration Assistant": [
-  [
-   "S",
-   "The Azure App Service Migration Assistant"
+ },
+ "App Service Migration Assistant": {
+  "roles": [
+   [
+    "S",
+    "The Azure App Service Migration Assistant"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "part"
+   ],
+   [
+    "S",
+    "The Migration Assistant"
+   ],
+   [
+    "V",
+    "provides"
+   ],
+   [
+    "O",
+    "a guided wizard-like user experience"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "part"
-  ],
-  [
-   "S",
-   "The Migration Assistant"
-  ],
-  [
-   "V",
-   "provides"
-  ],
-  [
-   "O",
-   "a guided wizard-like user experience"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "提供",
+    0
+   ]
   ]
- ],
- "location tag": [
-  [
-   "S",
-   "Location tags"
+ },
+ "location tag": {
+  "roles": [
+   [
+    "S",
+    "Location tags"
+   ],
+   [
+    "V",
+    "allow"
+   ],
+   [
+    "O",
+    "you"
+   ]
   ],
-  [
-   "V",
-   "allow"
-  ],
-  [
-   "O",
-   "you"
+  "zhVerbs": [
+   [
+    "让",
+    0
+   ]
   ]
- ],
- "ISAPI filter": [
-  [
-   "S",
-   "some developers"
+ },
+ "ISAPI filter": {
+  "roles": [
+   [
+    "S",
+    "some developers"
+   ],
+   [
+    "V",
+    "built"
+   ],
+   [
+    "O",
+    "features"
+   ],
+   [
+    "S",
+    "The filters"
+   ],
+   [
+    "V",
+    "provided"
+   ],
+   [
+    "O",
+    "access"
+   ]
   ],
-  [
-   "V",
-   "built"
-  ],
-  [
-   "O",
-   "features"
-  ],
-  [
-   "S",
-   "The filters"
-  ],
-  [
-   "V",
-   "provided"
-  ],
-  [
-   "O",
-   "access"
+  "zhVerbs": [
+   [
+    "构建了",
+    0
+   ],
+   [
+    "访问",
+    0
+   ]
   ]
- ],
- "App Service plan": [
-  [
-   "S",
-   "An Azure App Service plan"
+ },
+ "App Service plan": {
+  "roles": [
+   [
+    "S",
+    "An Azure App Service plan"
+   ],
+   [
+    "V",
+    "defines"
+   ],
+   [
+    "O",
+    "a set"
+   ]
   ],
-  [
-   "V",
-   "defines"
-  ],
-  [
-   "O",
-   "a set"
+  "zhVerbs": [
+   [
+    "定义了",
+    0
+   ]
   ]
- ],
- "hybrid connection": [
-  [
-   "S",
-   "Hybrid Connections"
+ },
+ "hybrid connection": {
+  "roles": [
+   [
+    "S",
+    "Hybrid Connections"
+   ],
+   [
+    "V",
+    "can be used"
+   ]
   ],
-  [
-   "V",
-   "can be used"
+  "zhVerbs": [
+   [
+    "可用于",
+    0
+   ]
   ]
- ],
- "Hybrid Connection Manager": [
-  [
-   "S",
-   "Hybrid Connection Manager"
+ },
+ "Hybrid Connection Manager": {
+  "roles": [
+   [
+    "S",
+    "Hybrid Connection Manager"
+   ],
+   [
+    "V",
+    "connects"
+   ],
+   [
+    "O",
+    "your web app"
+   ]
   ],
-  [
-   "V",
-   "connects"
-  ],
-  [
-   "O",
-   "your web app"
+  "zhVerbs": [
+   [
+    "连接到",
+    0
+   ]
   ]
- ]
+ }
 }

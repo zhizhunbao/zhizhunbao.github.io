@@ -6,6 +6,6 @@ ms.date: 2026-10-20
 
 # Week 3 quiz
 
-20 questions for week 3 (IaaS and PaaS architecture), one per framed term of these lecture pages: [Describe cloud service types](../lectures/describe-cloud-service-types.md), [Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md). Each question shows a definition with the term blanked out; pick the term. The definitions are quoted from the official sources cited on the lecture pages. After you answer, the Chinese name and the Chinese translation of the definition show, key words in the same colour as in the English, with a link to the section that defines the term. In each question the verb is underlined.
+20 questions for week 3 (IaaS and PaaS architecture), one per framed term of these lecture pages: [Describe cloud service types](../lectures/describe-cloud-service-types.md), [Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md). Each question shows a definition with the term blanked out; pick the term. The definitions are quoted from the official sources cited on the lecture pages. After you answer, the Chinese name and the Chinese translation of the definition show, key words in the same colour as in the English, with a link to the section that defines the term. The verb of each sentence is in a red box, in the question and in the Chinese.
 
 [Start the quiz](w3.json)

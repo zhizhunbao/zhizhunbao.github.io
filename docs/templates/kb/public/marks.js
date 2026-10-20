@@ -47,14 +47,22 @@ export function markPhrases(root, phrases, make, skips = []) {
   }
 }
 
+const verbBox = () => {
+  const s = document.createElement('span')
+  s.className = 'kb-role kb-role-V'
+  return s
+}
+
 // Sentence trunk of an English definition: [["S" | "V" | "O", phrase, skip?], ...] in order. Only the verb (谓语) is
-// underlined (user, 2026-10-20); subject and object stay in the data and only keep the search in place.
+// boxed (user, 2026-10-20); subject and object stay in the data and only keep the search in place.
 export function markGrammar(root, roles) {
   markPhrases(root, roles.map((r) => r[1]), (n) => {
     if (roles[n][0] !== 'V') return null
-    const s = document.createElement('span')
-    s.className = 'kb-role kb-role-V'
-    s.title = 'verb'
-    return s
+    return verbBox()
   }, roles.map((r) => r[2] || 0))
+}
+
+// The same verbs in the Chinese translation: [[phrase, skip], ...], one per English verb ("" when it has none)
+export function markVerbs(root, verbs) {
+  markPhrases(root, verbs.map((v) => v[0]), verbBox, verbs.map((v) => v[1] || 0))
 }

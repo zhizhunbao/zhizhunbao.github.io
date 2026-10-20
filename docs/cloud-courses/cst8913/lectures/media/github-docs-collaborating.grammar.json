@@ -1,204 +1,312 @@
 {
- "GitHub": [
-  [
-   "S",
-   "GitHub"
+ "GitHub": {
+  "roles": [
+   [
+    "S",
+    "GitHub"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a platform"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a platform"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "fork and pull model": [
-  [
-   "S",
-   "anyone"
+ },
+ "fork and pull model": {
+  "roles": [
+   [
+    "S",
+    "anyone"
+   ],
+   [
+    "V",
+    "can fork"
+   ],
+   [
+    "O",
+    "an existing (\"upstream\") repository"
+   ]
   ],
-  [
-   "V",
-   "can fork"
-  ],
-  [
-   "O",
-   "an existing (\"upstream\") repository"
+  "zhVerbs": [
+   [
+    "可以复刻",
+    0
+   ]
   ]
- ],
- "upstream repository": [
-  [
-   "S",
-   "Forks"
+ },
+ "upstream repository": {
+  "roles": [
+   [
+    "S",
+    "Forks"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "repositories"
+   ]
   ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "repositories"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "fork": [
-  [
-   "S",
-   "A fork"
+ },
+ "fork": {
+  "roles": [
+   [
+    "S",
+    "A fork"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a separate repository"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a separate repository"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "shared repository model": [
-  [
-   "S",
-   "collaborators"
+ },
+ "shared repository model": {
+  "roles": [
+   [
+    "S",
+    "collaborators"
+   ],
+   [
+    "V",
+    "have"
+   ],
+   [
+    "O",
+    "push access"
+   ],
+   [
+    "V",
+    "create"
+   ],
+   [
+    "O",
+    "topic branches"
+   ]
   ],
-  [
-   "V",
-   "have"
-  ],
-  [
-   "O",
-   "push access"
-  ],
-  [
-   "V",
-   "create"
-  ],
-  [
-   "O",
-   "topic branches"
+  "zhVerbs": [
+   [
+    "拥有",
+    0
+   ],
+   [
+    "创建",
+    0
+   ]
   ]
- ],
- "collaborator": [
-  [
-   "S",
-   "A collaborator"
+ },
+ "collaborator": {
+  "roles": [
+   [
+    "S",
+    "A collaborator"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a person"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a person"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "branch": [
-  [
-   "S",
-   "A \"branch\""
+ },
+ "branch": {
+  "roles": [
+   [
+    "S",
+    "A \"branch\""
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "a line"
+   ],
+   [
+    "S",
+    "The most recent commit"
+   ],
+   [
+    "V",
+    "is referred to"
+   ],
+   [
+    "O",
+    "the tip"
+   ]
   ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "a line"
-  ],
-  [
-   "S",
-   "The most recent commit"
-  ],
-  [
-   "V",
-   "is referred to"
-  ],
-  [
-   "O",
-   "the tip"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "被称为",
+    0
+   ]
   ]
- ],
- "pull request": [
-  [
-   "S",
-   "Pull requests"
+ },
+ "pull request": {
+  "roles": [
+   [
+    "S",
+    "Pull requests"
+   ],
+   [
+    "V",
+    "are"
+   ],
+   [
+    "O",
+    "proposals"
+   ]
   ],
-  [
-   "V",
-   "are"
-  ],
-  [
-   "O",
-   "proposals"
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
   ]
- ],
- "review": [
-  [
-   "S",
-   "Pull request reviews"
+ },
+ "review": {
+  "roles": [
+   [
+    "S",
+    "Pull request reviews"
+   ],
+   [
+    "V",
+    "let"
+   ],
+   [
+    "O",
+    "people"
+   ]
   ],
-  [
-   "V",
-   "let"
-  ],
-  [
-   "O",
-   "people"
+  "zhVerbs": [
+   [
+    "让",
+    0
+   ]
   ]
- ],
- "merge": [
-  [
-   "S",
-   "Merging"
+ },
+ "merge": {
+  "roles": [
+   [
+    "S",
+    "Merging"
+   ],
+   [
+    "V",
+    "takes"
+   ],
+   [
+    "O",
+    "the changes"
+   ],
+   [
+    "V",
+    "applies"
+   ],
+   [
+    "O",
+    "them"
+   ]
   ],
-  [
-   "V",
-   "takes"
-  ],
-  [
-   "O",
-   "the changes"
-  ],
-  [
-   "V",
-   "applies"
-  ],
-  [
-   "O",
-   "them"
+  "zhVerbs": [
+   [
+    "会获取",
+    0
+   ],
+   [
+    "应用",
+    0
+   ]
   ]
- ],
- "default branch": [
-  [
-   "S",
-   "Each repository"
+ },
+ "default branch": {
+  "roles": [
+   [
+    "S",
+    "Each repository"
+   ],
+   [
+    "V",
+    "has"
+   ],
+   [
+    "O",
+    "at least one branch"
+   ],
+   [
+    "S",
+    "The first branch"
+   ],
+   [
+    "V",
+    "is usually called"
+   ],
+   [
+    "O",
+    "main"
+   ],
+   [
+    "V",
+    "is"
+   ],
+   [
+    "O",
+    "the default branch"
+   ]
   ],
-  [
-   "V",
-   "has"
-  ],
-  [
-   "O",
-   "at least one branch"
-  ],
-  [
-   "S",
-   "The first branch"
-  ],
-  [
-   "V",
-   "is usually called"
-  ],
-  [
-   "O",
-   "main"
-  ],
-  [
-   "V",
-   "is"
-  ],
-  [
-   "O",
-   "the default branch"
+  "zhVerbs": [
+   [
+    "有",
+    0
+   ],
+   [
+    "通常称为",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
   ]
- ]
+ }
 }
