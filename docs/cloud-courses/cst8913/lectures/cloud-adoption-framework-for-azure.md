@@ -35,10 +35,28 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **cloud adoption strategy**<br>云采用策略 | "A **cloud adoption strategy** directs how your business adopts cloud technology. It connects **executive intent** to **measurable outcomes** and sets the **standards** that every workload team operates within." | **云采用策略**指导你的企业如何采用云技术。它将**高管意图**与**可衡量的成果**联系起来，并设定每个工作负载团队在其中运作的**标准**。 | [Microsoft, n.d., para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/#:~:text=A%20cloud%20adoption%20strategy%20directs%20how%20your%20business%20adopts) |
+
+### Assess cloud adoption strategy
+
+To be added.
+
+### [Motivations](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/motivations.md)
+
+![Diagram: Motivations](media/cloud-adoption-framework-for-azure-8.png)
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
 | **motivation**<br>动机 | "Various **motivations** can drive **business transformations** that are supported by cloud adoption. Several motivations likely apply **at the same time**." | 各种**动机**可以推动由云采用所支持的**业务转型**。可能**同时**有多个动机适用。 | [Microsoft, 2022, October 18, "Motivations" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/motivations.md#motivations:~:text=Various%20motivations%20can%20drive%20business%20transformations%20that%20are) |
 | **critical business event**<br>关键业务事件 | "When responding to **critical business events** is the **highest priority**, it's important to get started with **migration** early, often in parallel with **strategy and planning efforts**." | 当应对**关键业务事件**是**最高优先级**时，务必尽早开始**迁移**，并且通常与**策略和规划工作**并行进行。 | [Microsoft, 2022, October 18, "Classify your motivations" section, para. 2](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/motivations.md#classify-your-motivations:~:text=When%20responding%20to%20critical%20business%20events%20is%20the%20highest) |
 | **migration motivation**<br>迁移动机 | "The **migration motivations** listed near the top of the **motivations table** are the **most common reasons** for adopting the cloud but not necessarily the **most significant**." | **迁移动机**列于**动机表**的顶部附近，它们是采用云的**最常见原因**，但不一定是**最重要**的原因。 | [Microsoft, 2022, October 18, "Migration" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/motivations.md#migration:~:text=The%20migration%20motivations%20listed%20near%20the%20top%20of%20the) |
 | **innovation motivation**<br>创新动机 | "Data is the **new commodity**, and **modern applications** are the **supply chain** driving that data into various experiences. In today's business market, it's hard to find a **transformative product or service** that isn't built on top of data, insights, and customer experiences." | 数据是**新的商品**，而**现代应用程序**是将这些数据输送到各种体验中的**供应链**。在当今的商业市场中，很难找到不是建立在数据、见解和客户体验之上的**变革性产品或服务**。 | [Microsoft, 2022, October 18, "Innovation" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/motivations.md#innovation:~:text=Data%20is%20the%20new%20commodity%2C%20and%20modern%20applications%20are) |
+
+### [Business outcomes](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/business-outcomes/index.md)
+
+![Diagram: Business outcomes](media/cloud-adoption-framework-for-azure-9.png)
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
 | **business outcome**<br>业务成果 | "This article series is designed to help customers identify **business outcomes** that are **concise, defined**, and drive **observable results** or change in business performance, supported by a **specific measure**." | 本系列文章旨在帮助客户确定**业务成果**，这些成果应**简洁、明确**，并能推动**可观察的结果**或业务绩效的变化，且有**具体的衡量指标**作为支撑。 | [Microsoft, 2022, October 18, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/business-outcomes/index.md#:~:text=This%20article%20series%20is%20designed%20to%20help%20customers%20identify) |
 | **fiscal outcome**<br>财务成果 | "**Financial or fiscal performance** is the **cleanest business outcome** for many business leaders, but **not the only one**." | 对于许多业务领导者来说，**财务或财政绩效**是**最清晰的业务成果**，但并**不是唯一的**成果。 | [Microsoft, 2022, October 18, "Fiscal outcomes" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/business-outcomes/index.md#fiscal-outcomes:~:text=Financial%20or%20fiscal%20performance%20is%20the%20cleanest%20business%20outcome) |
 | **agility outcome**<br>敏捷成果 | "Today's **fast-changing business environment** places a **premium on time**. The ability to respond to and **drive market change** quickly is the fundamental measure of **business agility**." | 当今**快速变化的商业环境**非常**重视时间**。快速响应并**推动市场变化**的能力，是衡量**业务敏捷性**的基本指标。 | [Microsoft, 2022, October 18, "Agility outcomes" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/business-outcomes/index.md#agility-outcomes:~:text=Today%27s%20fast%2Dchanging%20business%20environment%20places%20a%20premium%20on%20time) |
@@ -46,13 +64,26 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **customer engagement outcome**<br>客户互动成果 | "**Social marketplaces** are redefining **winners and losers** at an unheard-of pace. Responding to **user needs** is a key measure of **customer engagement**." | **社交市场**正以前所未有的速度重新定义**赢家和输家**。响应**用户需求**是衡量**客户互动**的关键指标。 | [Microsoft, 2022, October 18, "Customer engagement outcomes" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/business-outcomes/index.md#customer-engagement-outcomes:~:text=Social%20marketplaces%20are%20redefining%20winners%20and%20losers%20at%20an) |
 | **performance outcome**<br>性能成果 | "**Performance and reliability** are **assumed**. When either falters, **reputation damage** can be painful and **long-lasting**." | **性能和可靠性**被视为**理所当然**。当其中任何一个出现问题时，**声誉损害**可能是痛苦且**长期**的。 | [Microsoft, 2022, October 18, "Performance outcomes" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/business-outcomes/index.md#performance-outcomes:~:text=Performance%20and%20reliability%20are%20assumed) |
 | **sustainability outcome**<br>可持续性成果 | "**Environmental sustainability** is quickly moving from a "nice to have" function of **Corporate Social Responsibility (CSR**) to a **centerpiece of business strategy**, increasingly **embedded** into everything a company does." | **环境可持续性**正迅速从**企业社会责任（CSR**）中的“锦上添花”功能，转变为**业务战略的核心**，并日益**融入**公司所做的一切。 | [Microsoft, 2022, October 18, "Sustainability outcomes" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/business-outcomes/index.md#sustainability-outcomes:~:text=Environmental%20sustainability%20is%20quickly%20moving%20from%20a) |
+
+### [Financial considerations](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/financial-considerations/index.md)
+
+![Diagram: Financial considerations](media/cloud-adoption-framework-for-azure-10.png)
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
 | **financial considerations**<br>财务考量 | "A **digital transformation** goes hand-in-hand with a **financial transformation**. When you're making the shift to the cloud, there are **financial considerations** around how the cloud will impact your **financial position**, accounting KPIs, and processes..." | **数字化转型**与**财务转型**相辅相成。当你向云转变时，存在一些**财务考量**，涉及云将如何影响你的**财务状况**、会计 KPI 和流程…… | [Microsoft, 2022, October 18, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/financial-considerations/index.md#:~:text=A%20digital%20transformation%20goes%20hand%2Din%2Dhand%20with%20a%20financial%20transformation) |
+
+### [Technical considerations](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/technical-considerations/index.md)
+
+![Diagram: Technical considerations](media/cloud-adoption-framework-for-azure-11.png)
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
 | **technical considerations**<br>技术考量 | "When you're making the **shift to the cloud**, there are **technical considerations** around how it will help improve how you **manage and maintain** your cloud and workloads." | 当你**向云转变**时，存在一些**技术考量**，涉及它将如何帮助你改进对云和工作负载的**管理与维护**方式。 | [Microsoft, 2022, October 18, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/technical-considerations/index.md#:~:text=When%20you%27re%20making%20the%20shift%20to%20the%20cloud%2C%20there) |
 | **scalability**<br>可扩展性 | "**Scalability**, or the ability to **scale out your resources** depending on usage, utilization, and demand, is one of the **foremost technical benefits** of moving to the cloud." | **可扩展性**，即根据使用情况、利用率和需求**横向扩展你的资源**的能力，是迁移到云的**首要技术优势**之一。 | [Microsoft, 2022, October 18, "Scalability" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/technical-considerations/index.md#scalability:~:text=Scalability%2C%20or%20the%20ability%20to%20scale%20out%20your%20resources%20depending) |
 | **high availability**<br>高可用性 | "**On-premises**, it's more costly to build **highly available infrastructure**. It's **less costly** to architect highly available infrastructure in the cloud." | **在本地**，构建**高可用基础结构**的成本更高。在云中设计高可用基础结构的**成本更低**。 | [Microsoft, 2022, October 18, "Availability" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/technical-considerations/index.md#availability:~:text=On%2Dpremises%2C%20it%27s%20more%20costly%20to%20build%20highly%20available%20infrastructure) |
 | **security and compliance**<br>安全与合规 | "When it comes to **security and compliance**, Microsoft is continually expanding our **security infrastructure and toolsets** to **keep you on par** with what's transpiring with respect to **security threats on global networks**." | 在**安全与合规**方面，Microsoft 正在不断扩展我们的**安全基础结构和工具集**，让你能够**跟上**​**全球网络上安全威胁**的动态。 | [Microsoft, 2022, October 18, "Security and compliance" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/technical-considerations/index.md#security-and-compliance:~:text=When%20it%20comes%20to%20security%20and%20compliance%2C%20Microsoft%20is) |
 | **capacity optimization**<br>容量优化 | "**Capacity optimization**, where you **only pay** for the **resources you utilize** over time, is **another technical benefit** of the cloud." | **容量优化**，即你**只需**为一段时间内**实际使用的资源**付费，是云的**另一项技术优势**。 | [Microsoft, 2022, October 18, "Capacity optimization" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/technical-considerations/index.md#capacity-optimization:~:text=Capacity%20optimization%2C%20where%20you%20only%20pay%20for%20the) |
-| **business case**<br>商业论证 | "A **business case** provides a view of the **technical and financial timeline** of your environment. Developing a business case includes building a **financial plan** that takes technical considerations into account and aligns with **business outcomes**." | **商业论证**提供了你环境的**技术和财务时间线**视图。制定商业论证包括构建一份**财务计划**，该计划考虑技术考量并与**业务成果**保持一致。 | [Microsoft, 2022, August 5, para. 3](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/cloud-migration-business-case.md#:~:text=A%20business%20case%20provides%20a%20view%20of%20the%20technical) |
 
 ### [Timeline](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/digital-transformation-timeline.md)
 
@@ -66,7 +97,29 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **Horizon 3 advanced modernization**<br>视野 3：深度现代化 | "With **post-migration** and **operational improvements**, the team will have **sufficient data and cloud skills** to perform **deeper modernization** of complex architectures." | 借助**迁移后**的改进和**运营改进**，团队将拥有**足够的数据和云技能**，对复杂架构执行**更深入的现代化**。 | [Microsoft, 2021, May 1, "Example of a cloud adoption plan with four horizons" section, table, row 3, Objective](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/digital-transformation-timeline.md#example-of-a-cloud-adoption-plan-with-four-horizons:~:text=With%20post%2Dmigration%20and%20operational%20improvements%2C%20the%20team%20will%20have) |
 | **Horizon 4 innovation and growth**<br>视野 4：创新与增长 | "Redirect capital reduction from **datacenter exits** and **new skills** in central IT to focus on **accelerating continued innovation**." | 将**退出数据中心**带来的资本削减和中央 IT 部门的**新技能**重新调配，以专注于**加速持续创新**。 | [Microsoft, 2021, May 1, "Example of a cloud adoption plan with four horizons" section, table, row 4, Objective](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/digital-transformation-timeline.md#example-of-a-cloud-adoption-plan-with-four-horizons:~:text=Redirect%20capital%20reduction%20from%20datacenter%20exits%20and%20new%20skills%20in) |
 
-## Plan
+### [Business case](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/cloud-migration-business-case.md)
+
+![Diagram: Business case](media/cloud-adoption-framework-for-azure-12.png)
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **business case**<br>商业论证 | "A **business case** provides a view of the **technical and financial timeline** of your environment. Developing a business case includes building a **financial plan** that takes technical considerations into account and aligns with **business outcomes**." | **商业论证**提供了你环境的**技术和财务时间线**视图。制定商业论证包括构建一份**财务计划**，该计划考虑技术考量并与**业务成果**保持一致。 | [Microsoft, 2022, August 5, para. 3](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/cloud-migration-business-case.md#:~:text=A%20business%20case%20provides%20a%20view%20of%20the%20technical) |
+
+### Building your DevOps practice
+
+To be added.
+
+### Share your strategy
+
+To be added.
+
+### Additional considerations
+
+To be added.
+
+## [Plan](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/plan/index.md)
+
+![Diagram: Plan](media/cloud-adoption-framework-for-azure-14.png)
 
 ### [Rationalization](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/e29e30c4ebd52d8446d00f5dfdee5742328c2c11/docs/digital-estate/5-rs-of-rationalization.md)
 
@@ -114,7 +167,37 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **cloud adoption team**<br>云采用团队 | "The nucleus of all **cloud adoption efforts** is the **cloud adoption team**. This team drives the **technical changes** that enable adoption." | 所有**云采用工作**的核心是**云采用团队**。该团队推动实现采用的**技术变革**。 | [Microsoft, n.d., "Cloud adoption team only" section, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures#cloud-adoption-team-only:~:text=The%20nucleus%20of%20all%20cloud%20adoption%20efforts%20is%20the) |
 | **cloud governance team**<br>云治理团队 | "...a **cloud governance team** is dedicated to ensuring **excellence** in the solutions that are adopted. The cloud governance team is **accountable** for **platform maturity**, platform operations, governance, and automation." | ……**云治理团队**致力于确保所采用解决方案的**卓越**品质。云治理团队**负责**​**平台成熟度**、平台运维、治理和自动化。 | [Microsoft, n.d., "Best practice: minimum viable product (MVP)" section, bullet 2](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures#best-practice-minimum-viable-product-mvp:~:text=Cloud%20governance%20team%3A%20To%20balance%20the%20cloud%20adoption%20team) |
 
-## Ready
+### Skills readiness plan
+
+To be added.
+
+### Cloud adoption plan
+
+To be added.
+
+### Best practices
+
+To be added.
+
+### Strategic Migration Assessment and Readiness Tool (SMART)
+
+To be added.
+
+### Sustainability considerations
+
+To be added.
+
+## [Ready](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/ready/index.md)
+
+![Diagram: Ready](media/cloud-adoption-framework-for-azure-15.png)
+
+### Azure setup guide
+
+To be added.
+
+### Operating model
+
+To be added.
 
 ### [Landing zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
 
@@ -124,18 +207,30 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 |---|---|---|---|
 | **landing zone**<br>落地区 | "An **Azure landing zone** is a proven and flexible **architecture** for governing, securing, and scaling a **multi-subscription Azure environment**." | **Azure 落地区**是一种经过验证且灵活的**架构**，用于治理、保护和扩展**多订阅 Azure 环境**。 | [Microsoft, n.d., para. 1, sentence 2](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:~:text=An%20Azure%20landing%20zone%20is%20a%20proven%20and%20flexible%20architecture) |
 | **platform landing zone**<br>平台落地区 | "The **centralized foundation** that establishes **governance**, security, and **shared resources** for all your Azure workloads." | **集中式基础**，为所有 Azure 工作负载建立**治理**、安全和**共享资源**。 | [Microsoft, n.d., bullet 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:~:text=The%20centralized%20foundation%20that%20establishes%20governance%2C%20security%2C%20and%20shared) |
-| **management group hierarchy**<br>管理组层级 | "The **management group hierarchy** provides the **governance structure** for the Azure environment. It organizes all of your **Azure subscriptions** and applies **governance standards** to those subscriptions." | **管理组层级**为 Azure 环境提供**治理结构**。它组织你的所有 **Azure 订阅**，并对这些订阅应用**治理标准**。 | [Microsoft, n.d., "Platform landing zone" section, bullet 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#platform-landing-zone:~:text=The%20management%20group%20hierarchy%20provides%20the%20governance%20structure%20for%20the) |
 | **workload landing zone**<br>工作负载落地区 | "The environments where **workload teams** **deploy and operate** **workload resources** within the guardrails of the **platform landing zone**." | **工作负载团队**在其中**部署和运营**​**工作负载资源**的环境，位于**平台落地区**的护栏之内。 | [Microsoft, n.d., bullet 2](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:~:text=The%20environments%20where%20workload%20teams%20deploy%20and%20operate%20workload%20resources) |
+| **management group hierarchy**<br>管理组层级 | "The **management group hierarchy** provides the **governance structure** for the Azure environment. It organizes all of your **Azure subscriptions** and applies **governance standards** to those subscriptions." | **管理组层级**为 Azure 环境提供**治理结构**。它组织你的所有 **Azure 订阅**，并对这些订阅应用**治理标准**。 | [Microsoft, n.d., "Platform landing zone" section, bullet 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#platform-landing-zone:~:text=The%20management%20group%20hierarchy%20provides%20the%20governance%20structure%20for%20the) |
 | **subscription**<br>订阅 | "In Azure, **subscriptions** are a **unit of management, billing, and scale**. Subscriptions let you organize **resource groups** and **control billing separately from access**." | 在 Azure 中，**订阅**是**管理、计费和缩放的单位**。订阅让你能够组织**资源组**，并**将计费与访问分开控制**。 | [Microsoft, n.d., "Azure subscriptions" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/6-describe-azure-management-infrastructure#azure-subscriptions:~:text=In%20Azure%2C%20subscriptions%20are%20a%20unit%20of%20management%2C%20billing) |
 | **management**<br>管理（运维） | "This **design area** establishes a **foundation for operations management** across your Azure, hybrid, or **multicloud environments**." | 此**设计领域**​**为运营管理奠定基础**，范围涵盖你的 Azure、混合或**多云环境**。 | [Microsoft, n.d., para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/management#:~:text=This%20design%20area%20establishes%20a%20foundation%20for%20operations%20management) |
 | **governance**<br>治理 | "Use **Azure governance** to establish the **tooling** that you need to support cloud governance, **compliance auditing**, and **automated guardrails**." | 使用 **Azure 治理**来建立所需的**工具**，以支持云治理、**合规性审核**和**自动化防护措施**。 | [Microsoft, n.d., para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/governance#:~:text=Use%20Azure%20governance%20to%20establish%20the%20tooling%20that%20you) |
 | **accelerator**<br>加速器 | "Microsoft-provided **accelerators** for both **platform landing zone** and workload landing zone scenarios use **infrastructure as code** to deploy **Azure environments** based on recommended practices." | Microsoft 提供的**加速器**适用于**平台落地区**和工作负载落地区两种场景，它们使用**基础结构即代码**来部署 **Azure 环境**，所依据的是建议做法。 | [Microsoft, n.d., bullet 3](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:~:text=Microsoft%2Dprovided%20accelerators%20for%20both%20platform%20landing%20zone%20and%20workload) |
 
-## Adopt
+## [Adopt](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/adopt/index.md)
 
-### Migrate
+![Diagram: Adopt](media/cloud-adoption-framework-for-azure-13.png)
 
-To be added. For now, see [What is Azure Migrate?](what-is-azure-migrate.md).
+### Cloud adoption journey
+
+To be added.
+
+### Migrate or modernize first?
+
+To be added.
+
+### [Migrate](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/migrate/index.md)
+
+![Diagram: Migrate](media/cloud-adoption-framework-for-azure-17.png)
+
+See also [What is Azure Migrate?](what-is-azure-migrate.md).
 
 ### Modernize
 
@@ -145,7 +240,13 @@ To be added.
 
 To be added.
 
-## Ongoing
+### Relocate
+
+To be added.
+
+## [Ongoing](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/overview.md)
+
+![Diagram: Ongoing](media/cloud-adoption-framework-for-azure-16.png)
 
 ### Govern
 
