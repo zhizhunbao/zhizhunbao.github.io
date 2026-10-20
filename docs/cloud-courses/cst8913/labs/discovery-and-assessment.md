@@ -8,20 +8,20 @@ ms.date: 2026-10-19
 
 Lab 4 of CST8913 Cloud Migration (week 4): list the digital estate, choose how to discover it, map dependencies, check readiness, size and cost it, then prioritize and plan the migration. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
-![Overview of lab 4: digital estate, discovery and assessment (with the Azure Migrate appliance), dependency analysis, readiness, sizing, cost estimate and the migration plan with test migration and rollback](media/lab-4.png)
-
 ## Concepts to understand
 
-1. [digital estate](#1-digital-estate)
-2. [discovery and assessment](#2-discovery-and-assessment)
-3. [Azure Migrate appliance](#3-azure-migrate-appliance)
-4. [dependency analysis](#4-dependency-analysis)
-5. [readiness](#5-readiness)
-6. [sizing](#6-sizing)
-7. [cost estimate](#7-cost-estimate)
-8. [migration plan](#8-migration-plan)
-9. [rollback](#9-rollback)
-10. [test migration](#10-test-migration)
+| # | Concept | Explained in |
+|---|---|---|
+| 1 | [digital estate](#1-digital-estate) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 2 | [discovery and assessment](#2-discovery-and-assessment) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 3 | [Azure Migrate appliance](#3-azure-migrate-appliance) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 4 | [dependency analysis](#4-dependency-analysis) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 5 | [readiness](#5-readiness) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 6 | [sizing](#6-sizing) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 7 | [cost estimate](#7-cost-estimate) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md) |
+| 8 | [migration plan](#8-migration-plan) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 9 | [rollback](#9-rollback) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 10 | [test migration](#10-test-migration) | [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
 
 ## 1. Digital estate
 
