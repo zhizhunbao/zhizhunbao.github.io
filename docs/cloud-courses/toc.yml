@@ -55,6 +55,8 @@ items:
         href: cst8913/lectures/migrate-an-on-premises-web-application-to-azure-app-service.md
   - name: Labs
     items:
+    - name: "Overview"
+      href: cst8913/labs/index.md
     - name: "Git, GitHub and Markdown (lab 1)"
       href: cst8913/labs/git-github-and-markdown.md
     - name: "Levi Strauss & Co. migration case study (lab 2)"

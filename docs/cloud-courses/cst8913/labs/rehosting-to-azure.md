@@ -8,19 +8,19 @@ ms.date: 2026-10-19
 
 Lab 5 of CST8913 Cloud Migration (week 5): state the business drivers and the migration strategy, draw the target architecture, and plan the migration and its validation. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
-![Overview of lab 5: business drivers, rehost (lift and shift, or replatform), Azure VMware Solution, then the migration phases replication, test migration and cutover, repeated in migration waves](media/lab-5.png)
-
 ## Concepts to understand
 
-1. [business drivers](#1-business-drivers)
-2. [rehost (lift and shift)](#2-rehost-lift-and-shift)
-3. [rehost or replatform](#3-rehost-or-replatform)
-4. [Azure VMware Solution](#4-azure-vmware-solution)
-5. [migration phases](#5-migration-phases)
-6. [migration waves](#6-migration-waves)
-7. [test migration](#7-test-migration)
-8. [cutover](#8-cutover)
-9. [replication](#9-replication)
+| # | Concept | Explained in |
+|---|---|---|
+| 1 | [business drivers](#1-business-drivers) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
+| 2 | [rehost (lift and shift)](#2-rehost-lift-and-shift) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md)<br>[10. What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md) |
+| 3 | [rehost or replatform](#3-rehost-or-replatform) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
+| 4 | [Azure VMware Solution](#4-azure-vmware-solution) | [10. What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md) |
+| 5 | [migration phases](#5-migration-phases) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md)<br>[9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
+| 6 | [migration waves](#6-migration-waves) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 7 | [test migration](#7-test-migration) | [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
+| 8 | [cutover](#8-cutover) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md)<br>[9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
+| 9 | [replication](#9-replication) | [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
 
 ## 1. Business drivers
 

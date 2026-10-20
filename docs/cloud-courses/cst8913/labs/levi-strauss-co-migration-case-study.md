@@ -8,18 +8,18 @@ ms.date: 2026-10-19
 
 Lab 2 of CST8913 Cloud Migration (week 2): explain why a company moves to the cloud, choose a migration approach per workload, and decide who is responsible for what. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
-![Overview of lab 2: motivations, discovery questions, stakeholders and RACI matrix, the five Rs and the migration schedule, with decision criteria (informed by cloud models and service types) feeding the five Rs](media/lab-2.png)
-
 ## Concepts to understand
 
-1. [motivations](#1-motivations)
-2. [discovery questions](#2-discovery-questions)
-3. [stakeholders and RACI matrix](#3-stakeholders-and-raci-matrix)
-4. [the five Rs](#4-the-five-rs)
-5. [migration schedule](#5-migration-schedule)
-6. [decision criteria](#6-decision-criteria)
-7. [cloud models](#7-cloud-models)
-8. [service types](#8-service-types)
+| # | Concept | Explained in |
+|---|---|---|
+| 1 | [motivations](#1-motivations) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
+| 2 | [discovery questions](#2-discovery-questions) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md) |
+| 3 | [stakeholders and RACI matrix](#3-stakeholders-and-raci-matrix) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
+| 4 | [the five Rs](#4-the-five-rs) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
+| 5 | [migration schedule](#5-migration-schedule) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
+| 6 | [decision criteria](#6-decision-criteria) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
+| 7 | [cloud models](#7-cloud-models) | [3. Describe cloud computing](../lectures/describe-cloud-computing.md) |
+| 8 | [service types](#8-service-types) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
 
 ## 1. Motivations
 

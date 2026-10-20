@@ -8,17 +8,17 @@ ms.date: 2026-10-19
 
 Lab 3 of CST8913 Cloud Migration (week 3): design the same application once on IaaS and once on PaaS, and say when each fits. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
-![Overview of lab 3: the same app on IaaS (load balancer, web, app and database VMs in two availability zones inside a VNet with subnets and NSGs; you manage the OS and up) and on PaaS (Static Web Apps, App Service, Azure Database for PostgreSQL; Azure manages the OS and runtime), with SaaS beyond](media/lab-3.png)
-
 ## Concepts to understand
 
-1. [IaaS](#1-iaas)
-2. [shared responsibility](#2-shared-responsibility)
-3. [VNet, subnets, NSGs and load balancers](#3-vnet-subnets-nsgs-and-load-balancers)
-4. [availability zone](#4-availability-zone)
-5. [PaaS](#5-paas)
-6. [IaaS or PaaS](#6-iaas-or-paas)
-7. [SaaS](#7-saas)
+| # | Concept | Explained in |
+|---|---|---|
+| 1 | [IaaS](#1-iaas) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md)<br>[7. Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md) |
+| 2 | [shared responsibility](#2-shared-responsibility) | [3. Describe cloud computing](../lectures/describe-cloud-computing.md)<br>[4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
+| 3 | [VNet, subnets, NSGs and load balancers](#3-vnet-subnets-nsgs-and-load-balancers) | [7. Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md) |
+| 4 | [availability zone](#4-availability-zone) | [7. Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md) |
+| 5 | [PaaS](#5-paas) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
+| 6 | [IaaS or PaaS](#6-iaas-or-paas) | [3. Describe cloud computing](../lectures/describe-cloud-computing.md)<br>[4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
+| 7 | [SaaS](#7-saas) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
 
 ## 1. IaaS
 

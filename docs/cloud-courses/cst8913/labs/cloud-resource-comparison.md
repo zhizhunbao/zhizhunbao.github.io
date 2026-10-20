@@ -8,15 +8,15 @@ ms.date: 2026-10-19
 
 Lab 6 of CST8913 Cloud Migration (week 6): match the same kind of resource (compute, storage, databases, networking, identity, monitoring) across AWS, Azure and Google Cloud. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
-![Overview of lab 6: five service models with each provider's name (AWS, Azure, Google Cloud), and the three points to compare: similarities and differences, unique capabilities, naming conventions](media/lab-6.png)
-
 ## Concepts to understand
 
-1. [service models](#1-service-models)
-2. [each provider's name for the same service](#2-each-providers-name-for-the-same-service)
-3. [similarities and differences](#3-similarities-and-differences)
-4. [unique capabilities](#4-unique-capabilities)
-5. [naming conventions](#5-naming-conventions)
+| # | Concept | Explained in |
+|---|---|---|
+| 1 | [service models](#1-service-models) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
+| 2 | [each provider's name for the same service](#2-each-providers-name-for-the-same-service) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
+| 3 | [similarities and differences](#3-similarities-and-differences) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
+| 4 | [unique capabilities](#4-unique-capabilities) | None |
+| 5 | [naming conventions](#5-naming-conventions) | None |
 
 ## 1. Service models
 
