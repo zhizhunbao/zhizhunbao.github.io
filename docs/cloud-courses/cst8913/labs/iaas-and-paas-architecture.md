@@ -8,6 +8,8 @@ ms.date: 2026-10-19
 
 Lab 3 of CST8913 Cloud Migration (week 3): design the same application once on IaaS and once on PaaS, and say when each fits. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
+![Overview of lab 3: the same app on IaaS (load balancer, web, app and database VMs in two availability zones inside a VNet with subnets and NSGs; you manage the OS and up) and on PaaS (Static Web Apps, App Service, Azure Database for PostgreSQL; Azure manages the OS and runtime), with SaaS beyond](media/lab-3.png)
+
 ## Concepts to understand
 
 1. [IaaS](#1-iaas)

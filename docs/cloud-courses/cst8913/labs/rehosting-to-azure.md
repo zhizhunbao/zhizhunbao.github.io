@@ -8,6 +8,8 @@ ms.date: 2026-10-19
 
 Lab 5 of CST8913 Cloud Migration (week 5): state the business drivers and the migration strategy, draw the target architecture, and plan the migration and its validation. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
+![Overview of lab 5: business drivers, rehost (lift and shift, or replatform), Azure VMware Solution, then the migration phases replication, test migration and cutover, repeated in migration waves](media/lab-5.png)
+
 ## Concepts to understand
 
 1. [business drivers](#1-business-drivers)

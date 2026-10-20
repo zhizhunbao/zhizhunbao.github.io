@@ -8,6 +8,8 @@ ms.date: 2026-10-19
 
 Lab 4 of CST8913 Cloud Migration (week 4): list the digital estate, choose how to discover it, map dependencies, check readiness, size and cost it, then prioritize and plan the migration. Each concept below has its own section with the questions it raises, answered with what I wrote in my lab.
 
+![Overview of lab 4: digital estate, discovery and assessment (with the Azure Migrate appliance), dependency analysis, readiness, sizing, cost estimate and the migration plan with test migration and rollback](media/lab-4.png)
+
 ## Concepts to understand
 
 1. [digital estate](#1-digital-estate)
