@@ -2,8 +2,8 @@
 // Data: { "questions": [{ "stem", "options", "answer", "zhTerm", "zh", "keys", "roles", "page", "href" }] }, href relative
 // to the JSON file; zh is the definition in Chinese, keys its key words as [English, Chinese] pairs in the same order on
 // both sides, roles the subject, verb and object of the English and zhVerbs the same verbs in the Chinese (marks.js).
-// Click an option to check it: the right option turns green (a wrong pick red), and the Chinese name and translation and
-// a link to the page section show, each key word coloured the same in the stem and the translation (kb.css .kb-key).
+// Click an option to check it: the right option turns green (a wrong pick red), and the Chinese name and translation
+// show, each key word coloured the same in the stem and the translation (kb.css .kb-key). page and href are not shown.
 
 const el = (tag, attrs = {}, ...kids) => {
   const e = document.createElement(tag)
@@ -54,10 +54,7 @@ function render(box, data, src) {
         markPhrases(zh.lastChild, (q.keys || []).map((k) => k[1]), keySpan)
         markVerbs(zh.lastChild, q.zhVerbs || [])
         result.className = `kb-quiz-result ${right ? 'is-correct' : 'is-wrong'}`
-        result.replaceChildren(
-          zh,
-          el('p', {}, el('a', { href: new URL(q.href, src).href, text: `Read it on ${q.page}` })),
-        )
+        result.replaceChildren(zh)
         result.hidden = false
         showScore()
       })
