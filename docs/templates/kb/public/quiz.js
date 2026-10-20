@@ -5,7 +5,7 @@
 // A lab question has "explain" and "zhExplain" (one line each) instead of definition, zh, keys and verbs.
 // "marks" holds the same kind of marks for the stem (and a lab explanation): { stem: { keys, verbs, zhVerbs }, explain }.
 // Click an option to check it: the right option turns green (a wrong pick red), then the question in Chinese and the
-// definition in both languages show, each key word coloured the same on both sides (kb.css .kb-key) and the verb
+// definition in both languages show (open after a wrong pick, folded after a right one), each key word coloured the same on both sides (kb.css .kb-key) and the verb
 // phrases underlined (marks.js).
 
 const el = (tag, attrs = {}, ...kids) => {
@@ -61,7 +61,8 @@ function render(box, data, src) {
     const id = `kb-quiz-q${i + 1}`
     const stem = marked('p', { class: 'kb-quiz-stem', id }, q.stem, q.marks?.stem, 0)
     const opts = el('ul', { class: 'kb-quiz-options', role: 'list', 'aria-labelledby': id })
-    const result = el('div', { class: 'kb-quiz-result', hidden: true, 'aria-live': 'polite' })
+    // the explanation opens by itself after a wrong pick and stays folded after a right one (user, 2026-10-20)
+    const result = el('details', { class: 'kb-quiz-result', hidden: true })
     const buttons = q.options.map((o, j) => {
       const b = el('button', { class: 'kb-quiz-option', type: 'button' }, el('span', { class: 'kb-quiz-letter', text: LETTERS[j] }), el('span', { text: o }))
       b.addEventListener('click', () => {
@@ -74,7 +75,9 @@ function render(box, data, src) {
           else if (k === j) x.classList.add('is-wrong')
         })
         result.className = `kb-quiz-result ${right ? 'is-correct' : 'is-wrong'}`
-        result.replaceChildren(marked('p', { class: 'kb-quiz-zhstem' }, q.zhStem, q.marks?.stem, 1), ...explanation(q))
+        result.replaceChildren(el('summary', { text: 'Explanation' }),
+          marked('p', { class: 'kb-quiz-zhstem' }, q.zhStem, q.marks?.stem, 1), ...explanation(q))
+        result.open = !right
         result.hidden = false
         showScore()
       })

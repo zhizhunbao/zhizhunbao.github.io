@@ -247,3 +247,5 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 .kb-lightbox-close { position: fixed; top: 8px; right: 16px; width: 36px; height: 36px; border: 0; border-radius: 50%; background: rgba(255, 255, 255, .15); color: #fff; font-size: 24px; line-height: 36px; cursor: pointer; }
 .kb-lightbox-close:hover, .kb-lightbox-close:focus-visible { background: rgba(255, 255, 255, .3); }
 .content .kb-quiz-result .kb-quiz-zhstem { color: var(--theme-text-subtle); padding-bottom: 6px; margin-bottom: 6px; border-bottom: 1px solid var(--theme-border); }
+.kb-quiz-result > summary { cursor: pointer; color: var(--theme-text-subtle); font-size: 13px; }
+.kb-quiz-result[open] > summary { margin-bottom: 6px; }
