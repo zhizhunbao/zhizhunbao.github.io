@@ -8,9 +8,9 @@ ms.date: 2026-10-19
 
 Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in weeks 2 and 3. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The main verb of each sentence has a red wavy underline, in the English and in the Chinese.
 
-## [Cloud Adoption Framework overview](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview)
+## [Overview](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview)
 
-![Diagram: Cloud Adoption Framework overview](media/cloud-adoption-framework-for-azure-1.png)
+![Diagram: Overview](media/cloud-adoption-framework-for-azure-1.png)
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
@@ -28,9 +28,9 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **Azure Architecture Center**<br>Azure 架构中心 | "The **Azure Architecture Center** is a **catalog** of solution ideas, example workloads, **reference architectures**, technology decision guides, and architecture guides that help **cloud architects and engineers** build workloads ..." | **Azure 架构中心**是一个**目录**，其中包含解决方案构想、示例工作负载、**参考架构**、技术决策指南和架构指南，可帮助**云架构师和工程师**构建工作负载…… | [Microsoft, n.d., para. 1](https://learn.microsoft.com/en-us/azure/architecture/#:~:text=Design%20solutions%20on%20Azure%20by%20using%20established%20patterns) |
 | **Azure Well-Architected Framework**<br>Azure 良好架构框架 | "The **Azure Well-Architected Framework** is a **design framework** that can improve the **quality of a workload** by helping it to: Be **resilient, available, and recoverable**. Be as secure as you need it to be." | **Azure 良好架构框架**是一个**设计框架**，可以提高**工作负载的质量**，方法是帮助它做到：**具有复原能力、可用且可恢复**。按你的需要达到相应的安全程度。 | [Microsoft, n.d., para. 1](https://learn.microsoft.com/en-us/azure/well-architected/what-is-well-architected-framework#:~:text=The%20Azure%20Well%2DArchitected%20Framework%20is%20a%20design%20framework) |
 
-## [Develop a cloud adoption strategy](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/index.md)
+## [Strategy](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/index.md)
 
-![Diagram: Develop a cloud adoption strategy](media/cloud-adoption-framework-for-azure-2.png)
+![Diagram: Strategy](media/cloud-adoption-framework-for-azure-2.png)
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
@@ -54,9 +54,9 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **capacity optimization**<br>容量优化 | "**Capacity optimization**, where you **only pay** for the **resources you utilize** over time, is **another technical benefit** of the cloud." | **容量优化**，即你**只需**为一段时间内**实际使用的资源**付费，是云的**另一项技术优势**。 | [Microsoft, 2022, October 18, "Capacity optimization" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/technical-considerations/index.md#capacity-optimization:~:text=Capacity%20optimization%2C%20where%20you%20only%20pay%20for%20the) |
 | **business case**<br>商业论证 | "A **business case** provides a view of the **technical and financial timeline** of your environment. Developing a business case includes building a **financial plan** that takes technical considerations into account and aligns with **business outcomes**." | **商业论证**提供了你环境的**技术和财务时间线**视图。制定商业论证包括构建一份**财务计划**，该计划考虑技术考量并与**业务成果**保持一致。 | [Microsoft, 2022, August 5, para. 3](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/cloud-migration-business-case.md#:~:text=A%20business%20case%20provides%20a%20view%20of%20the%20technical) |
 
-## [Build a digital transformation timeline](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/digital-transformation-timeline.md)
+## [Timeline](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/digital-transformation-timeline.md)
 
-![Diagram: Build a digital transformation timeline](media/cloud-adoption-framework-for-azure-3.png)
+![Diagram: Timeline](media/cloud-adoption-framework-for-azure-3.png)
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
@@ -66,9 +66,9 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **Horizon 3 advanced modernization**<br>视野 3：深度现代化 | "With **post-migration** and **operational improvements**, the team will have **sufficient data and cloud skills** to perform **deeper modernization** of complex architectures." | 借助**迁移后**的改进和**运营改进**，团队将拥有**足够的数据和云技能**，对复杂架构执行**更深入的现代化**。 | [Microsoft, 2021, May 1, "Example of a cloud adoption plan with four horizons" section, table, row 3, Objective](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/digital-transformation-timeline.md#example-of-a-cloud-adoption-plan-with-four-horizons:~:text=With%20post%2Dmigration%20and%20operational%20improvements%2C%20the%20team%20will%20have) |
 | **Horizon 4 innovation and growth**<br>视野 4：创新与增长 | "Redirect capital reduction from **datacenter exits** and **new skills** in central IT to focus on **accelerating continued innovation**." | 将**退出数据中心**带来的资本削减和中央 IT 部门的**新技能**重新调配，以专注于**加速持续创新**。 | [Microsoft, 2021, May 1, "Example of a cloud adoption plan with four horizons" section, table, row 4, Objective](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a5351162040659171fbb4f5674ce36ac9259deb3/docs/strategy/digital-transformation-timeline.md#example-of-a-cloud-adoption-plan-with-four-horizons:~:text=Redirect%20capital%20reduction%20from%20datacenter%20exits%20and%20new%20skills%20in) |
 
-## [Cloud rationalization](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/e29e30c4ebd52d8446d00f5dfdee5742328c2c11/docs/digital-estate/5-rs-of-rationalization.md)
+## [Rationalization](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/e29e30c4ebd52d8446d00f5dfdee5742328c2c11/docs/digital-estate/5-rs-of-rationalization.md)
 
-![Diagram: Cloud rationalization](media/cloud-adoption-framework-for-azure-4.png)
+![Diagram: Rationalization](media/cloud-adoption-framework-for-azure-4.png)
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
@@ -81,9 +81,9 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **cloud-native**<br>云原生 | "**Cloud-native** architecture and technologies are an approach to designing, constructing, and **operating workloads** that are **built in the cloud** and **take full advantage of the cloud computing model**." | **云原生**架构和技术是一种设计、构建和**运营工作负载**的方法，这些工作负载**在云中构建**，并**充分利用云计算模型**。 | [Microsoft, n.d., para. 3](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/definition#:~:text=Cloud%2Dnative%20architecture%20and%20technologies%20are%20an%20approach%20to%20designing) |
 | **Replace**<br>替换 | "Sometimes **software as a service (SaaS**) applications can provide all the **necessary functionality** for the hosted application. In these scenarios, a workload can be scheduled for **future replacement**, which removes it from the **transformation effort**." | 有时，**软件即服务（SaaS**）应用程序可以为托管的应用程序提供所有**必要的功能**。在这些场景中，可以将工作负载安排在**将来替换**，从而将其从**转型工作**中移除。 | [Microsoft, 2023, March 1, "Replace" section, para. 1](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/e29e30c4ebd52d8446d00f5dfdee5742328c2c11/docs/digital-estate/5-rs-of-rationalization.md#replace:~:text=Sometimes%20software%20as%20a%20service%20%28SaaS%29%20applications%20can%20provide%20all) |
 
-## [Select your cloud migration strategies](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/select-cloud-migration-strategy)
+## [Migration strategies](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/select-cloud-migration-strategy)
 
-![Diagram: Select your cloud migration strategies](media/cloud-adoption-framework-for-azure-5.png)
+![Diagram: Migration strategies](media/cloud-adoption-framework-for-azure-5.png)
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
@@ -94,9 +94,9 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **Replatform**<br>更换平台 | "**Replatforming** moves workloads to a **modern hosting environment** with **minimal code changes**." | **更换平台**会将工作负载迁移到**现代托管环境**，同时只需**最少的代码更改**。 | [Microsoft, n.d., "3. Replatform (modernize hosting environment)" section, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/select-cloud-migration-strategy#3-replatform-modernize-hosting-environment:~:text=Replatforming%20moves%20workloads%20to%20a%20modern%20hosting%20environment%20with%20minimal) |
 | **Retain**<br>保留 | "A **retain strategy** keeps workloads in their **current environment** when they're **stable, compliant**, and meet all current and future business needs with **no near-term driver to move**." | **保留策略**会将工作负载保留在其**当前环境**中，前提是它们**稳定、合规**，满足所有当前和未来的业务需求，并且**近期没有迁移的驱动因素**。 | [Microsoft, n.d., "8. Retain (keep as is)" section, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/select-cloud-migration-strategy#8-retain-keep-as-is:~:text=A%20retain%20strategy%20keeps%20workloads%20in%20their%20current%20environment%20when) |
 
-## [Align responsibilities across teams](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
+## [Team responsibilities](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
 
-![Diagram: Align responsibilities across teams](media/cloud-adoption-framework-for-azure-6.png)
+![Diagram: Team responsibilities](media/cloud-adoption-framework-for-azure-6.png)
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
@@ -112,9 +112,9 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **cloud adoption team**<br>云采用团队 | "The nucleus of all **cloud adoption efforts** is the **cloud adoption team**. This team drives the **technical changes** that enable adoption." | 所有**云采用工作**的核心是**云采用团队**。该团队推动实现采用的**技术变革**。 | [Microsoft, n.d., "Cloud adoption team only" section, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures#cloud-adoption-team-only:~:text=The%20nucleus%20of%20all%20cloud%20adoption%20efforts%20is%20the) |
 | **cloud governance team**<br>云治理团队 | "...a **cloud governance team** is dedicated to ensuring **excellence** in the solutions that are adopted. The cloud governance team is **accountable** for **platform maturity**, platform operations, governance, and automation." | ……**云治理团队**致力于确保所采用解决方案的**卓越**品质。云治理团队**负责**​**平台成熟度**、平台运维、治理和自动化。 | [Microsoft, n.d., "Best practice: minimum viable product (MVP)" section, bullet 2](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures#best-practice-minimum-viable-product-mvp:~:text=Cloud%20governance%20team%3A%20To%20balance%20the%20cloud%20adoption%20team) |
 
-## [Azure landing zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
+## [Landing zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
 
-![Diagram: Azure landing zones](media/cloud-adoption-framework-for-azure-7.png)
+![Diagram: Landing zones](media/cloud-adoption-framework-for-azure-7.png)
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
@@ -126,3 +126,23 @@ Study notes on [Microsoft Learn documentation set](https://learn.microsoft.com/e
 | **management**<br>管理（运维） | "This **design area** establishes a **foundation for operations management** across your Azure, hybrid, or **multicloud environments**." | 此**设计领域**​**为运营管理奠定基础**，范围涵盖你的 Azure、混合或**多云环境**。 | [Microsoft, n.d., para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/management#:~:text=This%20design%20area%20establishes%20a%20foundation%20for%20operations%20management) |
 | **governance**<br>治理 | "Use **Azure governance** to establish the **tooling** that you need to support cloud governance, **compliance auditing**, and **automated guardrails**." | 使用 **Azure 治理**来建立所需的**工具**，以支持云治理、**合规性审核**和**自动化防护措施**。 | [Microsoft, n.d., para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/governance#:~:text=Use%20Azure%20governance%20to%20establish%20the%20tooling%20that%20you) |
 | **accelerator**<br>加速器 | "Microsoft-provided **accelerators** for both **platform landing zone** and workload landing zone scenarios use **infrastructure as code** to deploy **Azure environments** based on recommended practices." | Microsoft 提供的**加速器**适用于**平台落地区**和工作负载落地区两种场景，它们使用**基础结构即代码**来部署 **Azure 环境**，所依据的是建议做法。 | [Microsoft, n.d., bullet 3](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:~:text=Microsoft%2Dprovided%20accelerators%20for%20both%20platform%20landing%20zone%20and%20workload) |
+
+## Adopt
+
+To be added.
+
+## Migrate
+
+To be added. For now, see [What is Azure Migrate?](what-is-azure-migrate.md).
+
+## Ongoing
+
+To be added.
+
+## Azure Architecture Center
+
+To be added.
+
+## Well-Architected Framework
+
+To be added.
