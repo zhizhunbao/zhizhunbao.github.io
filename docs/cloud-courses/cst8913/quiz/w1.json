@@ -11,7 +11,39 @@
    ],
    "answer": 2,
    "zhTerm": "Git 版本控制",
-   "zh": "Git 是记录文件改动历史的工具，每个人本地都有完整副本；可以回退、分支、合并。",
+   "zh": "Git 是一个免费且开源的分布式版本控制系统，旨在处理从小型到超大型的各种项目，并做到快速、高效。",
+   "keys": [
+    [
+     "Git",
+     "Git"
+    ],
+    [
+     "free and open source",
+     "免费且开源"
+    ],
+    [
+     "distributed version control system",
+     "分布式版本控制系统"
+    ],
+    [
+     "speed and efficiency",
+     "快速、高效"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Git"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a free and open source distributed version control system"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -25,7 +57,51 @@
    ],
    "answer": 1,
    "zhTerm": "工作区",
-   "zh": "工作区就是你电脑上能直接打开、修改的那份项目文件。你的改动先发生在这里，Git 还没有记录它们。",
+   "zh": "工作区是项目某一版本的单次检出。这些文件从 Git 目录中的压缩数据库中提取出来，放在磁盘上供你使用或修改。",
+   "keys": [
+    [
+     "working tree",
+     "工作区"
+    ],
+    [
+     "single checkout",
+     "单次检出"
+    ],
+    [
+     "compressed database",
+     "压缩数据库"
+    ],
+    [
+     "placed on disk",
+     "放在磁盘上"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The working tree"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a single checkout"
+    ],
+    [
+     "S",
+     "These files"
+    ],
+    [
+     "V",
+     "are pulled out"
+    ],
+    [
+     "V",
+     "placed"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -39,7 +115,35 @@
    ],
    "answer": 3,
    "zhTerm": "已修改",
-   "zh": "已修改是文件的一种状态：你改过了，但还没放进暂存区，也没提交。这时的改动最容易丢。",
+   "zh": "已修改表示你已更改文件，但尚未将其提交到数据库。",
+   "keys": [
+    [
+     "Modified",
+     "已修改"
+    ],
+    [
+     "changed the file",
+     "已更改文件"
+    ],
+    [
+     "not committed",
+     "尚未将其提交"
+    ],
+    [
+     "database",
+     "数据库"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Modified"
+    ],
+    [
+     "V",
+     "means"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -53,7 +157,43 @@
    ],
    "answer": 0,
    "zhTerm": "git add 暂存",
-   "zh": "git add 把改动放进暂存区，准备下一次提交；没有 add 的改动不会进入 commit。",
+   "zh": "将新文件或已更改文件的内容添加到索引中。“索引”（也称为“暂存区”）是你用来准备下一次提交内容的地方。",
+   "keys": [
+    [
+     "new or changed files",
+     "新文件或已更改文件"
+    ],
+    [
+     "index",
+     "索引"
+    ],
+    [
+     "staging area",
+     "暂存区"
+    ],
+    [
+     "next commit",
+     "下一次提交"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "Add"
+    ],
+    [
+     "O",
+     "contents"
+    ],
+    [
+     "S",
+     "The \"index\""
+    ],
+    [
+     "V",
+     "is"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -67,7 +207,51 @@
    ],
    "answer": 0,
    "zhTerm": "暂存区",
-   "zh": "暂存区是提交前的“候选清单”，用 git add 把改动放进来，下一次 commit 只记录这里的内容。",
+   "zh": "暂存区是一个文件，通常位于你的 Git 目录中，存储着有关下一次提交将包含哪些内容的信息。用 Git 的术语来说，它的技术名称是“索引”……",
+   "keys": [
+    [
+     "staging area",
+     "暂存区"
+    ],
+    [
+     "Git directory",
+     "Git 目录"
+    ],
+    [
+     "next commit",
+     "下一次提交"
+    ],
+    [
+     "index",
+     "索引"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The staging area"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a file"
+    ],
+    [
+     "S",
+     "Its technical name"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "the \"index\""
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -81,7 +265,35 @@
    ],
    "answer": 2,
    "zhTerm": "已暂存",
-   "zh": "已暂存是文件的一种状态：你用 git add 把它当前的版本选进了下一次提交。",
+   "zh": "已暂存表示你已将修改过的文件的当前版本标记为要放入下一次提交快照中。",
+   "keys": [
+    [
+     "Staged",
+     "已暂存"
+    ],
+    [
+     "modified file",
+     "修改过的文件"
+    ],
+    [
+     "current version",
+     "当前版本"
+    ],
+    [
+     "next commit snapshot",
+     "下一次提交快照"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Staged"
+    ],
+    [
+     "V",
+     "means"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -95,7 +307,48 @@
    ],
    "answer": 1,
    "zhTerm": "提交",
-   "zh": "提交就是给整个项目拍一张快照，存进本地仓库的历史里。以后可以随时查看或回到这个版本。",
+   "zh": "在 Git 中，每当你提交，或者说保存你的项目状态时，Git 基本上会为你所有文件在那一刻的样子拍一张照片，并存储对该快照的一个引用。",
+   "keys": [
+    [
+     "commit",
+     "提交"
+    ],
+    [
+     "save the state",
+     "保存你的项目状态"
+    ],
+    [
+     "takes a picture",
+     "拍一张照片"
+    ],
+    [
+     "snapshot",
+     "快照"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Git",
+     1
+    ],
+    [
+     "V",
+     "takes"
+    ],
+    [
+     "O",
+     "a picture"
+    ],
+    [
+     "V",
+     "stores"
+    ],
+    [
+     "O",
+     "a reference"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -109,7 +362,55 @@
    ],
    "answer": 0,
    "zhTerm": "Git 目录（本地仓库）",
-   "zh": "Git 目录就是项目里的 .git 文件夹，也就是本地仓库，保存全部提交历史。不联网也能在这里提交和查看历史。",
+   "zh": "Git 目录是 Git 存储项目元数据和对象数据库的地方。这是 Git 最重要的部分，也是你从另一台计算机克隆仓库时所复制的内容。",
+   "keys": [
+    [
+     "Git directory",
+     "Git 目录"
+    ],
+    [
+     "metadata",
+     "元数据"
+    ],
+    [
+     "object database",
+     "对象数据库"
+    ],
+    [
+     "clone a repository",
+     "克隆仓库"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The Git directory"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "S",
+     "This"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "the most important part"
+    ],
+    [
+     "S",
+     "it"
+    ],
+    [
+     "V",
+     "is"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -123,7 +424,31 @@
    ],
    "answer": 1,
    "zhTerm": "已提交",
-   "zh": "已提交是文件的一种状态：这个版本已经安全地存进了本地仓库，很难再丢失。",
+   "zh": "已提交表示数据已安全地存储在本地数据库中。",
+   "keys": [
+    [
+     "Committed",
+     "已提交"
+    ],
+    [
+     "safely stored",
+     "安全地存储"
+    ],
+    [
+     "local database",
+     "本地数据库"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Committed"
+    ],
+    [
+     "V",
+     "means"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -137,7 +462,31 @@
    ],
    "answer": 1,
    "zhTerm": "远程仓库",
-   "zh": "远程仓库是放在别处（例如 GitHub）的同一个项目仓库，用来和别人共享代码、做备份。",
+   "zh": "一个用于跟踪同一项目、但位于其他位置的仓库。要与远程仓库通信，请参阅 fetch 或 push。",
+   "keys": [
+    [
+     "track the same project",
+     "跟踪同一项目"
+    ],
+    [
+     "resides somewhere else",
+     "位于其他位置"
+    ],
+    [
+     "remotes",
+     "远程仓库"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "see"
+    ],
+    [
+     "O",
+     "fetch or push"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -151,7 +500,36 @@
    ],
    "answer": 3,
    "zhTerm": "推送",
-   "zh": "推送就是把本地已经提交的内容上传到远程仓库，这样别人才能看到。命令是 git push。",
+   "zh": "当你的项目进展到你想要分享的程度时，你必须将它推送到上游。",
+   "keys": [
+    [
+     "your project",
+     "你的项目"
+    ],
+    [
+     "share",
+     "分享"
+    ],
+    [
+     "push it upstream",
+     "推送到上游"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "you",
+     2
+    ],
+    [
+     "V",
+     "have to push"
+    ],
+    [
+     "O",
+     "it"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -165,7 +543,39 @@
    ],
    "answer": 0,
    "zhTerm": "拉取",
-   "zh": "拉取就是从远程仓库下载新改动并合并到本地分支，让本地保持最新。",
+   "zh": "拉取一个分支意味着获取它并合并它。",
+   "keys": [
+    [
+     "Pulling",
+     "拉取"
+    ],
+    [
+     "branch",
+     "分支"
+    ],
+    [
+     "fetch",
+     "获取"
+    ],
+    [
+     "merge",
+     "合并"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Pulling a branch"
+    ],
+    [
+     "V",
+     "means"
+    ],
+    [
+     "O",
+     "to fetch it and merge it"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -179,7 +589,35 @@
    ],
    "answer": 3,
    "zhTerm": "克隆",
-   "zh": "克隆就是把一个已有的仓库完整复制到自己电脑上，包括几乎全部历史，而不只是最新的文件。",
+   "zh": "如果你想获取一个现有 Git 仓库的副本——例如，一个你想参与贡献的项目——你需要的命令是 git clone。",
+   "keys": [
+    [
+     "existing Git repository",
+     "现有 Git 仓库"
+    ],
+    [
+     "contribute",
+     "参与贡献"
+    ],
+    [
+     "git clone",
+     "git clone"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "the command"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "git clone"
+    ]
+   ],
    "page": "Pro Git: getting started",
    "href": "../lectures/pro-git-getting-started.html#what-is-git"
   },
@@ -193,7 +631,39 @@
    ],
    "answer": 2,
    "zhTerm": "GitHub 平台",
-   "zh": "GitHub 是在云上托管 Git 仓库的网站，并提供协作工具，比如拉取请求和代码审查。",
+   "zh": "GitHub 是一个平台，支持你的整个软件开发流程，从规划工作到部署和运营软件。",
+   "keys": [
+    [
+     "GitHub",
+     "GitHub"
+    ],
+    [
+     "platform",
+     "平台"
+    ],
+    [
+     "entire software development process",
+     "整个软件开发流程"
+    ],
+    [
+     "planning work",
+     "规划工作"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "GitHub"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a platform"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -207,7 +677,35 @@
    ],
    "answer": 1,
    "zhTerm": "复刻加拉取请求模式",
-   "zh": "复刻加拉取请求模式是一种协作方式：每个人先把原仓库复刻一份，在自己的副本里改，再用拉取请求把改动提回原仓库。开源项目最常用。",
+   "zh": "在复刻加拉取请求模式中，任何人都可以复刻现有的（“上游”）仓库，前提是他们拥有读取权限，并且上游仓库的所有者允许这样做。",
+   "keys": [
+    [
+     "fork and pull model",
+     "复刻加拉取请求模式"
+    ],
+    [
+     "read access",
+     "读取权限"
+    ],
+    [
+     "owner of the upstream repository",
+     "上游仓库的所有者"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "anyone"
+    ],
+    [
+     "V",
+     "can fork"
+    ],
+    [
+     "O",
+     "an existing (\"upstream\") repository"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -221,7 +719,35 @@
    ],
    "answer": 1,
    "zhTerm": "上游仓库",
-   "zh": "上游仓库就是被复刻的那个原始仓库。复刻里的改动最后通过拉取请求合并回这里。",
+   "zh": "复刻是一些仓库，它们最初是另一个仓库的副本，该仓库称为上游仓库。",
+   "keys": [
+    [
+     "Forks",
+     "复刻"
+    ],
+    [
+     "copies",
+     "副本"
+    ],
+    [
+     "upstream repository",
+     "上游仓库"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Forks"
+    ],
+    [
+     "V",
+     "are"
+    ],
+    [
+     "O",
+     "repositories"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -235,7 +761,39 @@
    ],
    "answer": 3,
    "zhTerm": "复刻（Fork）",
-   "zh": "复刻是把别人的仓库复制一份到自己账号下，成为一个独立的仓库；你可以随便改，不影响原仓库。",
+   "zh": "复刻是一个独立的仓库，拥有自己的设置和协作空间。",
+   "keys": [
+    [
+     "fork",
+     "复刻"
+    ],
+    [
+     "separate repository",
+     "独立的仓库"
+    ],
+    [
+     "own settings",
+     "自己的设置"
+    ],
+    [
+     "collaboration space",
+     "协作空间"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "A fork"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a separate repository"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -249,7 +807,47 @@
    ],
    "answer": 1,
    "zhTerm": "共享仓库模式",
-   "zh": "共享仓库模式是一种协作方式：团队成员都能直接推送到同一个仓库，每次改动开一个分支，再用拉取请求审查后合并。小团队常用。",
+   "zh": "在共享仓库模式中，协作者对单个共享仓库拥有推送权限，并在需要进行更改时创建主题分支。",
+   "keys": [
+    [
+     "shared repository model",
+     "共享仓库模式"
+    ],
+    [
+     "collaborators",
+     "协作者"
+    ],
+    [
+     "push access",
+     "推送权限"
+    ],
+    [
+     "topic branches",
+     "主题分支"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "collaborators"
+    ],
+    [
+     "V",
+     "have"
+    ],
+    [
+     "O",
+     "push access"
+    ],
+    [
+     "V",
+     "create"
+    ],
+    [
+     "O",
+     "topic branches"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -263,7 +861,35 @@
    ],
    "answer": 2,
    "zhTerm": "协作者",
-   "zh": "协作者是仓库主人邀请进来、能读也能写这个仓库的人。",
+   "zh": "协作者是对某个仓库拥有读写访问权限的人，此人已受仓库所有者邀请参与贡献。",
+   "keys": [
+    [
+     "collaborator",
+     "协作者"
+    ],
+    [
+     "read and write access",
+     "读写访问权限"
+    ],
+    [
+     "invited to contribute",
+     "邀请参与贡献"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "A collaborator"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a person"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -277,7 +903,51 @@
    ],
    "answer": 2,
    "zhTerm": "分支",
-   "zh": "分支是一条独立的开发线；在分支上改代码不会影响主线，做完再合并。",
+   "zh": "“分支”是一条开发线。分支上最近的一次提交被称为该分支的末端（tip）。",
+   "keys": [
+    [
+     "branch",
+     "分支"
+    ],
+    [
+     "line of development",
+     "开发线"
+    ],
+    [
+     "most recent commit",
+     "最近的一次提交"
+    ],
+    [
+     "tip",
+     "末端"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "A \"branch\""
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a line"
+    ],
+    [
+     "S",
+     "The most recent commit"
+    ],
+    [
+     "V",
+     "is referred to"
+    ],
+    [
+     "O",
+     "the tip"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -291,7 +961,39 @@
    ],
    "answer": 3,
    "zhTerm": "拉取请求（PR）",
-   "zh": "拉取请求是在 GitHub 上提出“请把我的改动合并进来”的请求；别人先审查、讨论，再决定是否合并。",
+   "zh": "拉取请求是一种提议：将代码更改合并到一个项目中。",
+   "keys": [
+    [
+     "Pull requests",
+     "拉取请求"
+    ],
+    [
+     "proposals",
+     "提议"
+    ],
+    [
+     "code changes",
+     "代码更改"
+    ],
+    [
+     "project",
+     "项目"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Pull requests"
+    ],
+    [
+     "V",
+     "are"
+    ],
+    [
+     "O",
+     "proposals"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -305,7 +1007,39 @@
    ],
    "answer": 1,
    "zhTerm": "代码审查",
-   "zh": "审查就是别人在合并前看你的拉取请求，可以评论、批准或要求修改，保证代码质量。",
+   "zh": "拉取请求审查让人们可以在代码合并之前对更改发表评论、提出改进建议，以及批准或请求更改。",
+   "keys": [
+    [
+     "Pull request reviews",
+     "拉取请求审查"
+    ],
+    [
+     "comment on changes",
+     "对更改发表评论"
+    ],
+    [
+     "suggest improvements",
+     "提出改进建议"
+    ],
+    [
+     "approve or request changes",
+     "批准或请求更改"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Pull request reviews"
+    ],
+    [
+     "V",
+     "let"
+    ],
+    [
+     "O",
+     "people"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -319,7 +1053,47 @@
    ],
    "answer": 0,
    "zhTerm": "合并",
-   "zh": "合并就是把一个分支的改动并入另一个分支；两边改了同一处时会出现冲突，要手动解决。",
+   "zh": "合并会获取来自一个分支（位于同一仓库中或来自某个复刻）的更改，并将其应用到另一个分支中。",
+   "keys": [
+    [
+     "Merging",
+     "合并"
+    ],
+    [
+     "one branch",
+     "一个分支"
+    ],
+    [
+     "fork",
+     "复刻"
+    ],
+    [
+     "applies them into another",
+     "应用到另一个分支"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Merging"
+    ],
+    [
+     "V",
+     "takes"
+    ],
+    [
+     "O",
+     "the changes"
+    ],
+    [
+     "V",
+     "applies"
+    ],
+    [
+     "O",
+     "them"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   },
@@ -333,7 +1107,59 @@
    ],
    "answer": 2,
    "zhTerm": "默认分支",
-   "zh": "默认分支是仓库的主线分支，通常叫 main。新的拉取请求默认合并到这里。",
+   "zh": "仓库中新拉取请求和代码提交的基础分支。每个仓库至少有一个分支，该分支由 Git 在你初始化仓库时创建。第一个分支通常称为 main，并且通常是默认分支。",
+   "keys": [
+    [
+     "base branch",
+     "基础分支"
+    ],
+    [
+     "at least one branch",
+     "至少有一个分支"
+    ],
+    [
+     "initialize",
+     "初始化"
+    ],
+    [
+     "default branch",
+     "默认分支"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Each repository"
+    ],
+    [
+     "V",
+     "has"
+    ],
+    [
+     "O",
+     "at least one branch"
+    ],
+    [
+     "S",
+     "The first branch"
+    ],
+    [
+     "V",
+     "is usually called"
+    ],
+    [
+     "O",
+     "main"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "the default branch"
+    ]
+   ],
    "page": "GitHub Docs: collaborating with pull requests",
    "href": "../lectures/github-docs-collaborating.html#about-pull-requests-and-forks"
   }

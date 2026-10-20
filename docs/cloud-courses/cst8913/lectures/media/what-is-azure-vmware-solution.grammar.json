@@ -1,0 +1,66 @@
+{
+ "Azure ExpressRoute": [
+  [
+   "S",
+   "ExpressRoute"
+  ],
+  [
+   "V",
+   "lets"
+  ],
+  [
+   "O",
+   "you"
+  ]
+ ],
+ "Azure VMware Solution (AVS)": [
+  [
+   "S",
+   "Azure VMware Solution"
+  ],
+  [
+   "V",
+   "provides"
+  ],
+  [
+   "O",
+   "private clouds"
+  ]
+ ],
+ "Azure VMware Solution private cloud": [
+  [
+   "V",
+   "Offers"
+  ],
+  [
+   "O",
+   "compute, networking, and storage resources"
+  ]
+ ],
+ "vCenter Server": [],
+ "VMware NSX": [],
+ "cluster": [
+  [
+   "S",
+   "Azure VMware Solution clusters"
+  ],
+  [
+   "V",
+   "are based"
+  ],
+  [
+   "S",
+   "An Azure VMware Solution cluster"
+  ],
+  [
+   "V",
+   "requires"
+  ],
+  [
+   "O",
+   "a minimum number"
+  ]
+ ],
+ "ESXi host": [],
+ "VMware vSAN": []
+}

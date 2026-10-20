@@ -1,0 +1,216 @@
+{
+ "cloud computing": [
+  [
+   "S",
+   "Cloud computing"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the delivery"
+  ],
+  [
+   "S",
+   "Computing services"
+  ],
+  [
+   "V",
+   "include"
+  ],
+  [
+   "O",
+   "common IT infrastructure"
+  ]
+ ],
+ "datacenter": [
+  [
+   "S",
+   "The physical infrastructure"
+  ],
+  [
+   "V",
+   "starts"
+  ],
+  [
+   "S",
+   "These datacenters"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "facilities"
+  ]
+ ],
+ "shared responsibility model": [
+  [
+   "S",
+   "these responsibilities"
+  ],
+  [
+   "V",
+   "get shared"
+  ]
+ ],
+ "on-premises": [
+  [
+   "S",
+   "you"
+  ],
+  [
+   "V",
+   "’re"
+  ],
+  [
+   "O",
+   "responsible"
+  ]
+ ],
+ "cloud provider": [
+  [
+   "S",
+   "Physical security, power, cooling, and network connectivity"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "the responsibility"
+  ]
+ ],
+ "public cloud": [
+  [
+   "S",
+   "A public cloud"
+  ],
+  [
+   "V",
+   "is built, controlled, and maintained"
+  ],
+  [
+   "S",
+   "anyone"
+  ],
+  [
+   "V",
+   "can access and use"
+  ],
+  [
+   "O",
+   "resources"
+  ]
+ ],
+ "private cloud": [
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "’s"
+  ],
+  [
+   "O",
+   "a cloud"
+  ]
+ ],
+ "hybrid cloud": [
+  [
+   "S",
+   "A hybrid cloud"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a computing environment"
+  ]
+ ],
+ "multi-cloud": [
+  [
+   "S",
+   "you"
+  ],
+  [
+   "V",
+   "use"
+  ],
+  [
+   "O",
+   "multiple public cloud providers"
+  ]
+ ],
+ "capital expenditure (CapEx)": [
+  [
+   "S",
+   "CapEx"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a one-time, up-front expenditure"
+  ]
+ ],
+ "operational expenditure (OpEx)": [
+  [
+   "S",
+   "OpEx"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "spending money"
+  ]
+ ],
+ "consumption-based model": [
+  [
+   "S",
+   "Cloud computing"
+  ],
+  [
+   "V",
+   "falls under"
+  ],
+  [
+   "O",
+   "OpEx"
+  ]
+ ],
+ "pay-as-you-go pricing model": [
+  [
+   "S",
+   "Cloud computing"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the delivery"
+  ],
+  [
+   "S",
+   "You"
+  ],
+  [
+   "V",
+   "pay"
+  ]
+ ]
+}

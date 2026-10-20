@@ -11,7 +11,51 @@
    ],
    "answer": 3,
    "zhTerm": "云迁移",
-   "zh": "把应用和数据从原来的地方（通常是自己的机房）搬到公有云上，也可以在不同云之间搬。",
+   "zh": "云迁移是将应用程序和数据从一个位置（通常是公司私有的本地服务器）迁移到公有云提供商的服务器的过程，但它也可能涉及在不同云之间迁移资源。",
+   "keys": [
+    [
+     "Cloud migration",
+     "云迁移"
+    ],
+    [
+     "applications and data",
+     "应用程序和数据"
+    ],
+    [
+     "on-premises servers",
+     "本地服务器"
+    ],
+    [
+     "public cloud provider's servers",
+     "公有云提供商的服务器"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Cloud migration"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "the process"
+    ],
+    [
+     "S",
+     "it"
+    ],
+    [
+     "V",
+     "can also entail"
+    ],
+    [
+     "O",
+     "moving resources"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -25,7 +69,39 @@
    ],
    "answer": 1,
    "zhTerm": "工作负载",
-   "zh": "工作负载是一起支撑某项业务的一组 IT 部件（服务器、应用、数据等）；迁移时按工作负载来划分和排序。",
+   "zh": "工作负载是一组 IT 组件，例如服务器、虚拟机（VM）、云服务、应用程序、代码、数据或设备，这些组件支持一个或多个业务流程。",
+   "keys": [
+    [
+     "workload",
+     "工作负载"
+    ],
+    [
+     "IT components",
+     "IT 组件"
+    ],
+    [
+     "virtual machines",
+     "虚拟机"
+    ],
+    [
+     "business processes",
+     "业务流程"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "A workload"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a collection"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -39,7 +115,59 @@
    ],
    "answer": 1,
    "zhTerm": "Azure Migrate 设备（发现用虚拟机）",
-   "zh": "装在本地机房的一台轻量虚拟机，负责收集服务器的配置和性能数据并持续发给 Azure Migrate；评估的数据都靠它。",
+   "zh": "Azure Migrate 设备是一种虚拟设备，可部署在你数据中心的服务器上。该设备收集服务器的配置和性能数据，并持续将其发送到 Azure Migrate 服务。",
+   "keys": [
+    [
+     "Azure Migrate appliance",
+     "Azure Migrate 设备"
+    ],
+    [
+     "virtual appliance",
+     "虚拟设备"
+    ],
+    [
+     "configuration and performance data",
+     "配置和性能数据"
+    ],
+    [
+     "continually sends",
+     "持续将其发送"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The Azure Migrate appliance"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a virtual appliance"
+    ],
+    [
+     "S",
+     "The appliance"
+    ],
+    [
+     "V",
+     "collects"
+    ],
+    [
+     "O",
+     "the configuration and performance data"
+    ],
+    [
+     "V",
+     "continually sends"
+    ],
+    [
+     "O",
+     "it"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -53,7 +181,51 @@
    ],
    "answer": 0,
    "zhTerm": "Azure Migrate 迁移中心",
-   "zh": "微软上云的总入口服务，从发现、评估到迁移都在一个地方完成；而且本身免费。",
+   "zh": "Azure Migrate 是一项服务，可帮助你决定、规划和执行到 Azure 的迁移。Azure Migrate 可帮助你找到最佳迁移路径，评估 Azure 就绪性以及在 Azure 上托管工作负载的成本，并以最短的停机时间和最低的风险执行迁移。",
+   "keys": [
+    [
+     "Azure Migrate",
+     "Azure Migrate"
+    ],
+    [
+     "decide on, plan, and execute",
+     "决定、规划和执行"
+    ],
+    [
+     "best migration path",
+     "最佳迁移路径"
+    ],
+    [
+     "minimal downtime and risk",
+     "最短的停机时间和最低的风险"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Azure Migrate"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a service"
+    ],
+    [
+     "S",
+     "Azure Migrate"
+    ],
+    [
+     "V",
+     "helps"
+    ],
+    [
+     "O",
+     "you"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -67,7 +239,47 @@
    ],
    "answer": 2,
    "zhTerm": "发现",
-   "zh": "发现就是先摸清本地有哪些服务器和工作负载，通常用 Azure Migrate 设备自动收集清单。",
+   "zh": "迁移之旅的第一步是识别你的工作负载。这一识别过程称为发现。",
+   "keys": [
+    [
+     "migration journey",
+     "迁移之旅"
+    ],
+    [
+     "identify your workloads",
+     "识别你的工作负载"
+    ],
+    [
+     "discovery",
+     "发现"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The first step"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "to identify your workloads"
+    ],
+    [
+     "S",
+     "This process"
+    ],
+    [
+     "V",
+     "is called"
+    ],
+    [
+     "O",
+     "discovery"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -81,7 +293,47 @@
    ],
    "answer": 2,
    "zhTerm": "Movere（已退役的发现评估工具）",
-   "zh": "微软以前的发现和评估工具，2024 年 3 月 1 日已退役；现在改用 Azure Migrate。",
+   "zh": "Movere：Movere 服务已于 2024 年 3 月 1 日停用。用户应使用 Azure Migrate 来发现和评估本地工作负载。",
+   "keys": [
+    [
+     "Movere service",
+     "Movere 服务"
+    ],
+    [
+     "retired",
+     "停用"
+    ],
+    [
+     "Azure Migrate",
+     "Azure Migrate"
+    ],
+    [
+     "discovery and assessment",
+     "发现和评估"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The Movere service"
+    ],
+    [
+     "V",
+     "retired"
+    ],
+    [
+     "S",
+     "Users"
+    ],
+    [
+     "V",
+     "should use"
+    ],
+    [
+     "O",
+     "Azure Migrate"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -95,7 +347,47 @@
    ],
    "answer": 2,
    "zhTerm": "评估报告",
-   "zh": "对本地服务器做一次体检：能不能上云、上云用多大规格、每月花多少钱。",
+   "zh": "评估（使用发现和评估工具进行）会衡量就绪情况，并估算将本地服务器迁移到 Azure 的影响。",
+   "keys": [
+    [
+     "assessment",
+     "评估"
+    ],
+    [
+     "Discovery and assessment tool",
+     "发现和评估工具"
+    ],
+    [
+     "readiness",
+     "就绪情况"
+    ],
+    [
+     "effect",
+     "影响"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "An assessment"
+    ],
+    [
+     "V",
+     "measures"
+    ],
+    [
+     "O",
+     "the readiness"
+    ],
+    [
+     "V",
+     "estimates"
+    ],
+    [
+     "O",
+     "the effect"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -109,7 +401,31 @@
    ],
    "answer": 2,
    "zhTerm": "就绪性（Azure 就绪度）",
-   "zh": "就绪性是评估给出的一个结论：某台服务器、数据库或网站现在能不能直接搬到 Azure。评估报告用它来决定哪些可以先迁、哪些要先修。",
+   "zh": "Azure 就绪度：评估本地服务器、SQL 服务器和 Web 应用是否已准备好迁移到 Azure。",
+   "keys": [
+    [
+     "Azure readiness",
+     "Azure 就绪度"
+    ],
+    [
+     "on-premises servers",
+     "本地服务器"
+    ],
+    [
+     "web apps",
+     "Web 应用"
+    ],
+    [
+     "ready for migration",
+     "准备好迁移"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "Assess"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -123,7 +439,43 @@
    ],
    "answer": 3,
    "zhTerm": "规格估算（合理定型）",
-   "zh": "规格估算就是算出搬上云后该用多大的虚拟机、什么样的数据库配置。估得合适，既不浪费钱也不会不够用。",
+   "zh": "合理定型：估算 Azure 虚拟机（VM）的大小、Azure SQL 配置，以及迁移后 Azure VMware Solution 节点的数量。",
+   "keys": [
+    [
+     "Right-sizing",
+     "合理定型"
+    ],
+    [
+     "size of Azure virtual machines (VMs)",
+     "Azure 虚拟机（VM）的大小"
+    ],
+    [
+     "Azure SQL configuration",
+     "Azure SQL 配置"
+    ],
+    [
+     "Azure VMware Solution nodes",
+     "Azure VMware Solution 节点"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "Estimate"
+    ],
+    [
+     "O",
+     "the size"
+    ],
+    [
+     "O",
+     "the Azure SQL configuration"
+    ],
+    [
+     "O",
+     "the number"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -137,7 +489,27 @@
    ],
    "answer": 0,
    "zhTerm": "成本估算",
-   "zh": "成本估算就是预先算出这些服务器搬到 Azure 后每月大概要花多少钱。做迁移决定和预算时用它。",
+   "zh": "Azure 成本估算：估算在 Azure 中运行本地服务器的成本。",
+   "keys": [
+    [
+     "Azure cost estimation",
+     "Azure 成本估算"
+    ],
+    [
+     "on-premises servers",
+     "本地服务器"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "Estimate"
+    ],
+    [
+     "O",
+     "costs"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -151,7 +523,35 @@
    ],
    "answer": 1,
    "zhTerm": "依赖分析",
-   "zh": "依赖分析就是查清哪些服务器之间有网络往来、互相依赖。这样互相依赖的服务器可以一起迁，不会漏掉关键的一台。",
+   "zh": "依赖分析：了解数据中心内服务器之间的网络依赖关系，以便制定高可信度的迁移计划，而不会遗漏任何关键依赖关系。",
+   "keys": [
+    [
+     "Dependency analysis",
+     "依赖分析"
+    ],
+    [
+     "network dependencies",
+     "网络依赖关系"
+    ],
+    [
+     "high-confidence migration plans",
+     "高可信度的迁移计划"
+    ],
+    [
+     "critical dependency",
+     "关键依赖关系"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "Understand"
+    ],
+    [
+     "O",
+     "the network dependencies"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -165,7 +565,47 @@
    ],
    "answer": 1,
    "zhTerm": "迁移和现代化工具",
-   "zh": "迁移与现代化工具是 Azure Migrate 里真正负责搬服务器的工具。它把服务器数据复制到 Azure，先做测试迁移，再做正式迁移。",
+   "zh": "迁移和现代化工具专为服务器迁移到 Azure 而构建。它针对迁移进行了优化。",
+   "keys": [
+    [
+     "Migration and modernization tool",
+     "迁移和现代化工具"
+    ],
+    [
+     "purpose-built",
+     "专为"
+    ],
+    [
+     "server migration",
+     "服务器迁移"
+    ],
+    [
+     "optimized for migration",
+     "针对迁移进行了优化"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The Migration and modernization tool"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "purpose-built"
+    ],
+    [
+     "S",
+     "It"
+    ],
+    [
+     "V",
+     "'s optimized"
+    ]
+   ],
    "page": "What is Azure Migrate?",
    "href": "../lectures/what-is-azure-migrate.html#decide-plan-execute"
   },
@@ -179,7 +619,43 @@
    ],
    "answer": 3,
    "zhTerm": "数字资产",
-   "zh": "数字资产就是一个组织现在手里所有的 IT 资产：应用、数据和虚拟机。规划上云的第一步就是把它盘清楚。",
+   "zh": "对于上述每种结果，第一步都是清楚了解你目前负责的资产（应用程序、数据和虚拟机）。这些资产统称为你的数字资产。",
+   "keys": [
+    [
+     "clear understanding",
+     "清楚了解"
+    ],
+    [
+     "assets",
+     "资产"
+    ],
+    [
+     "digital estate",
+     "数字资产"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "the first step"
+    ],
+    [
+     "V",
+     "starts"
+    ],
+    [
+     "S",
+     "Those assets"
+    ],
+    [
+     "V",
+     "are referred to as"
+    ],
+    [
+     "O",
+     "your digital estate"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#evaluate-the-digital-estate"
   },
@@ -193,7 +669,51 @@
    ],
    "answer": 3,
    "zhTerm": "无代理发现",
-   "zh": "无代理发现就是不用在每台服务器上装软件，只靠一台 Azure Migrate 设备远程收集服务器的配置、性能和应用信息。部署快，对业务服务器没有打扰。",
+   "zh": "Azure Migrate 使用轻量级的 Azure Migrate 设备执行无代理发现，对象是本地 VMware VM、Hyper-V VM、其他虚拟化计算机和物理服务器。持续发现会收集计算机配置信息和性能元数据以及应用程序数据。",
+   "keys": [
+    [
+     "Azure Migrate appliance",
+     "Azure Migrate 设备"
+    ],
+    [
+     "agentless discovery",
+     "无代理发现"
+    ],
+    [
+     "physical servers",
+     "物理服务器"
+    ],
+    [
+     "Continuous discovery",
+     "持续发现"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Azure Migrate"
+    ],
+    [
+     "V",
+     "uses"
+    ],
+    [
+     "O",
+     "a lightweight Azure Migrate appliance"
+    ],
+    [
+     "S",
+     "Continuous discovery"
+    ],
+    [
+     "V",
+     "collects"
+    ],
+    [
+     "O",
+     "machine configuration information"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#evaluate-the-digital-estate"
   },
@@ -207,7 +727,31 @@
    ],
    "answer": 2,
    "zhTerm": "Azure Migrate 项目",
-   "zh": "项目是 Azure Migrate 的工作容器，存放发现、评估和迁移的数据；所有迁移工作都从建项目开始。",
+   "zh": "项目用于存储发现、评估和迁移元数据，这些元数据收集自你正在评估或迁移的环境。",
+   "keys": [
+    [
+     "project",
+     "项目"
+    ],
+    [
+     "discovery, assessment, and migration metadata",
+     "发现、评估和迁移元数据"
+    ],
+    [
+     "environment",
+     "环境"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "A project"
+    ],
+    [
+     "V",
+     "is used"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#evaluate-the-digital-estate"
   },
@@ -221,7 +765,47 @@
    ],
    "answer": 1,
    "zhTerm": "分组（服务器组）",
-   "zh": "分组就是把要一起评估、一起迁移的服务器放进同一个组。通常按依赖分析的结果来分，互相依赖的放一组。",
+   "zh": "完成应用程序清单和依赖分析后，你可以创建高可信度的服务器组，并开始对其进行评估。",
+   "keys": [
+    [
+     "application inventory",
+     "应用程序清单"
+    ],
+    [
+     "dependency analysis",
+     "依赖分析"
+    ],
+    [
+     "high-confidence groups of servers",
+     "高可信度的服务器组"
+    ],
+    [
+     "assessing",
+     "评估"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "you"
+    ],
+    [
+     "V",
+     "can create"
+    ],
+    [
+     "O",
+     "high-confidence groups"
+    ],
+    [
+     "V",
+     "start assessing"
+    ],
+    [
+     "O",
+     "them"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#evaluate-the-digital-estate"
   },
@@ -235,7 +819,31 @@
    ],
    "answer": 2,
    "zhTerm": "可迁移（Azure 就绪）",
-   "zh": "评估结果的一类：这台机器不用改就能直接搬到 Azure。通常最先迁这一类。",
+   "zh": "Azure 就绪：计算机可以按原样迁移到 Azure，无需任何更改。",
+   "keys": [
+    [
+     "Ready for Azure",
+     "Azure 就绪"
+    ],
+    [
+     "as-is",
+     "按原样"
+    ],
+    [
+     "without any changes",
+     "无需任何更改"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Machines"
+    ],
+    [
+     "V",
+     "can be migrated"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -249,7 +857,39 @@
    ],
    "answer": 3,
    "zhTerm": "有条件可迁移",
-   "zh": "评估结果的一类：能搬，但要先按评估给的修复建议做一些小改动。",
+   "zh": "有条件地为 Azure 就绪：计算机可以迁移到 Azure，但需要进行少量更改，更改须遵循评估中提供的修正指南。",
+   "keys": [
+    [
+     "Conditionally ready for Azure",
+     "有条件地为 Azure 就绪"
+    ],
+    [
+     "minor changes",
+     "少量更改"
+    ],
+    [
+     "remediation guidance",
+     "修正指南"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Machines"
+    ],
+    [
+     "V",
+     "can be migrated"
+    ],
+    [
+     "V",
+     "need"
+    ],
+    [
+     "O",
+     "minor changes"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -263,7 +903,39 @@
    ],
    "answer": 0,
    "zhTerm": "不可迁移（未就绪）",
-   "zh": "评估结果的一类：照原样搬不过去，必须先把问题修好再迁。",
+   "zh": "未为 Azure 就绪：计算机无法按原样迁移到 Azure。迁移前必须按照修正指南修复问题。",
+   "keys": [
+    [
+     "Not ready for Azure",
+     "未为 Azure 就绪"
+    ],
+    [
+     "can't be migrated to Azure as-is",
+     "无法按原样迁移到 Azure"
+    ],
+    [
+     "remediation guidance",
+     "修正指南"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Machines"
+    ],
+    [
+     "V",
+     "can't be migrated"
+    ],
+    [
+     "S",
+     "Issues"
+    ],
+    [
+     "V",
+     "must be fixed"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -277,7 +949,35 @@
    ],
    "answer": 2,
    "zhTerm": "就绪性未知",
-   "zh": "评估结果的一类：收集到的信息不够，Azure Migrate 判断不了能不能迁。要补充数据后再评估。",
+   "zh": "就绪性未知：Azure Migrate 无法确定计算机的就绪性，原因是元数据不足。",
+   "keys": [
+    [
+     "Readiness unknown",
+     "就绪性未知"
+    ],
+    [
+     "can't determine machine readiness",
+     "无法确定计算机的就绪性"
+    ],
+    [
+     "insufficient metadata",
+     "元数据不足"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Azure Migrate"
+    ],
+    [
+     "V",
+     "can't determine"
+    ],
+    [
+     "O",
+     "machine readiness"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -291,7 +991,39 @@
    ],
    "answer": 0,
    "zhTerm": "按性能定规格",
-   "zh": "按性能定规格就是根据服务器过去实际用了多少 CPU 和内存来推荐 Azure 规格。往往比原来的配置小，更省钱，是推荐做法。",
+   "zh": "Azure Migrate 评估中的按性能定规格选项可帮助你合理调整虚拟机规格，并且应作为在 Azure 中优化工作负载的最佳做法加以使用。",
+   "keys": [
+    [
+     "performance-based sizing",
+     "按性能定规格"
+    ],
+    [
+     "right-size VMs",
+     "合理调整虚拟机规格"
+    ],
+    [
+     "best practice",
+     "最佳做法"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The performance-based sizing option"
+    ],
+    [
+     "V",
+     "helps"
+    ],
+    [
+     "O",
+     "you"
+    ],
+    [
+     "V",
+     "should be used"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -305,7 +1037,35 @@
    ],
    "answer": 1,
    "zhTerm": "按本地配置定规格",
-   "zh": "按本地配置定规格就是不看实际用量，照服务器现在的配置在 Azure 上找一样大的规格。没有性能数据时用它。",
+   "zh": "你可以获取规格建议，依据可以是性能历史记录（以便在迁移时优化资源），也可以是不含性能历史记录的本地计算机设置。",
+   "keys": [
+    [
+     "sizing recommendations",
+     "规格建议"
+    ],
+    [
+     "performance history",
+     "性能历史记录"
+    ],
+    [
+     "on-premises machine settings",
+     "本地计算机设置"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "You"
+    ],
+    [
+     "V",
+     "can get"
+    ],
+    [
+     "O",
+     "sizing recommendations"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -319,7 +1079,39 @@
    ],
    "answer": 0,
    "zhTerm": "数据库评估",
-   "zh": "数据库评估就是专门检查 SQL Server 数据库能不能搬到 Azure SQL，并给出推荐目标和阻碍项。服务器评估管机器，它管数据库。",
+   "zh": "使用数据库评估，你可以评估 SQL Server 数据资产迁移到 Azure SQL 数据库或 Azure SQL 托管实例的就绪情况。",
+   "keys": [
+    [
+     "database assessments",
+     "数据库评估"
+    ],
+    [
+     "SQL Server data estate",
+     "SQL Server 数据资产"
+    ],
+    [
+     "Azure SQL Database",
+     "Azure SQL 数据库"
+    ],
+    [
+     "Azure SQL Managed Instance",
+     "Azure SQL 托管实例"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "you"
+    ],
+    [
+     "V",
+     "can assess"
+    ],
+    [
+     "O",
+     "the readiness"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#readiness-and-suitability-analysis"
   },
@@ -333,7 +1125,35 @@
    ],
    "answer": 0,
    "zhTerm": "阻碍项",
-   "zh": "阻碍项就是会让迁移做不成的问题，比如不兼容或 Azure 不支持的功能。迁移前要先找出来并解决。",
+   "zh": "在迁移之前，请检查并缓解任何兼容性问题或不受支持的功能，它们可能会阻碍迁移。",
+   "keys": [
+    [
+     "review and mitigate",
+     "检查并缓解"
+    ],
+    [
+     "compatibility issues",
+     "兼容性问题"
+    ],
+    [
+     "unsupported features",
+     "不受支持的功能"
+    ],
+    [
+     "block the migration",
+     "阻碍迁移"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "review and mitigate"
+    ],
+    [
+     "O",
+     "any compatibility issues or unsupported features"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -347,7 +1167,48 @@
    ],
    "answer": 3,
    "zhTerm": "工作负载优先级排序",
-   "zh": "优先级排序就是决定哪些应用先迁、哪些后迁。看复杂度、耗时、业务紧急程度、合规等因素，一般先迁简单、风险低的。",
+   "zh": "收集有关清单的信息后，你可以确定首先迁移哪些应用程序和工作负载。……若要确定迁移顺序的优先级，请考虑复杂性、迁移所需时间、业务紧迫性、生产注意事项、合规性、安全要求和应用程序知识等因素。",
+   "keys": [
+    [
+     "inventory",
+     "清单"
+    ],
+    [
+     "which applications and workloads to migrate first",
+     "首先迁移哪些应用程序和工作负载"
+    ],
+    [
+     "prioritize migration order",
+     "确定迁移顺序的优先级"
+    ],
+    [
+     "business urgency",
+     "业务紧迫性"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "you",
+     1
+    ],
+    [
+     "V",
+     "can identify"
+    ],
+    [
+     "O",
+     "which applications and workloads to migrate first"
+    ],
+    [
+     "V",
+     "consider"
+    ],
+    [
+     "O",
+     "factors"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -361,7 +1222,35 @@
    ],
    "answer": 1,
    "zhTerm": "迁移计划",
-   "zh": "迁移计划就是写清楚要迁哪些应用、它们能停多久、各阶段什么时候完成。整个迁移按它来执行。",
+   "zh": "制定有效的云迁移计划，其中包括有关要迁移的应用程序的详细信息、应用程序和数据库可用性、停机时间限制以及迁移里程碑。",
+   "keys": [
+    [
+     "cloud migration plan",
+     "云迁移计划"
+    ],
+    [
+     "application and database availability",
+     "应用程序和数据库可用性"
+    ],
+    [
+     "downtime constraints",
+     "停机时间限制"
+    ],
+    [
+     "migration milestones",
+     "迁移里程碑"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "Create"
+    ],
+    [
+     "O",
+     "an effective cloud migration plan"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -375,7 +1264,39 @@
    ],
    "answer": 0,
    "zhTerm": "迁移批次（波次）",
-   "zh": "迁移批次就是把要迁的系统分成一批一批，每批在一个短周期里迁完、测完、上线。先迁小批积累经验，后面的批次越来越大。",
+   "zh": "为了提高成功几率，请规划一系列后续的迁移波次。确定一小组优先工作负载，在为期两周的冲刺中完成迁移、测试并发布到生产环境。",
+   "keys": [
+    [
+     "waves of migrations",
+     "迁移波次"
+    ],
+    [
+     "small set of prioritized workloads",
+     "一小组优先工作负载"
+    ],
+    [
+     "two-week sprint",
+     "两周的冲刺"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "plan"
+    ],
+    [
+     "O",
+     "a series"
+    ],
+    [
+     "V",
+     "Identify"
+    ],
+    [
+     "O",
+     "a small set"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -389,7 +1310,18 @@
    ],
    "answer": 0,
    "zhTerm": "恢复时间目标",
-   "zh": "恢复时间目标就是出事后一个应用最多可以停多久。迁移计划要保证停机时间不超过它。",
+   "zh": "恢复时间目标（RTO）：应用程序在发生事件后可以不可用的最长可接受时间。",
+   "keys": [
+    [
+     "Recovery time objective (RTO)",
+     "恢复时间目标（RTO）"
+    ],
+    [
+     "maximum acceptable time",
+     "最长可接受时间"
+    ]
+   ],
+   "roles": [],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -403,7 +1335,43 @@
    ],
    "answer": 2,
    "zhTerm": "维护窗口",
-   "zh": "维护窗口就是事先宣布的一段可以动系统的时间。迁移安排在这段时间里做，停机最少，对业务影响最小。",
+   "zh": "制定迁移路线图。声明一个维护窗口，以便在停机时间极短甚至为零的情况下迁移应用程序和数据库，并限制迁移期间可能产生的运营和业务影响。",
+   "keys": [
+    [
+     "migration roadmap",
+     "迁移路线图"
+    ],
+    [
+     "maintenance window",
+     "维护窗口"
+    ],
+    [
+     "minimal to zero downtime",
+     "停机时间极短甚至为零"
+    ],
+    [
+     "business impact",
+     "业务影响"
+    ]
+   ],
+   "roles": [
+    [
+     "V",
+     "Build"
+    ],
+    [
+     "O",
+     "a migration roadmap"
+    ],
+    [
+     "V",
+     "Declare"
+    ],
+    [
+     "O",
+     "a maintenance window"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   },
@@ -417,7 +1385,35 @@
    ],
    "answer": 1,
    "zhTerm": "迁移后测试",
-   "zh": "迁移后测试就是搬完以后检查功能、对接、安全和性能是否正常。确认数据和应用都没问题才算迁完。",
+   "zh": "迁移后测试计划应包括功能测试、集成测试、安全测试和性能测试以及用例。",
+   "keys": [
+    [
+     "post-migration testing plan",
+     "迁移后测试计划"
+    ],
+    [
+     "functional, integration, security, and performance testing",
+     "功能测试、集成测试、安全测试和性能测试"
+    ],
+    [
+     "use cases",
+     "用例"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "A post-migration testing plan"
+    ],
+    [
+     "V",
+     "should include"
+    ],
+    [
+     "O",
+     "functional, integration, security, and performance testing and use cases"
+    ]
+   ],
    "page": "Prepare for cloud adoption with a data-driven plan",
    "href": "../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html#prioritize-workloads-and-finalize-the-migration-plan"
   }

@@ -1,0 +1,238 @@
+{
+ "cloud migration": [
+  [
+   "S",
+   "Cloud migration"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the process"
+  ],
+  [
+   "S",
+   "it"
+  ],
+  [
+   "V",
+   "can also entail"
+  ],
+  [
+   "O",
+   "moving resources"
+  ]
+ ],
+ "workload": [
+  [
+   "S",
+   "A workload"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a collection"
+  ]
+ ],
+ "Azure Migrate appliance": [
+  [
+   "S",
+   "The Azure Migrate appliance"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a virtual appliance"
+  ],
+  [
+   "S",
+   "The appliance"
+  ],
+  [
+   "V",
+   "collects"
+  ],
+  [
+   "O",
+   "the configuration and performance data"
+  ],
+  [
+   "V",
+   "continually sends"
+  ],
+  [
+   "O",
+   "it"
+  ]
+ ],
+ "Azure Migrate": [
+  [
+   "S",
+   "Azure Migrate"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a service"
+  ],
+  [
+   "S",
+   "Azure Migrate"
+  ],
+  [
+   "V",
+   "helps"
+  ],
+  [
+   "O",
+   "you"
+  ]
+ ],
+ "discovery": [
+  [
+   "S",
+   "The first step"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "to identify your workloads"
+  ],
+  [
+   "S",
+   "This process"
+  ],
+  [
+   "V",
+   "is called"
+  ],
+  [
+   "O",
+   "discovery"
+  ]
+ ],
+ "Movere": [
+  [
+   "S",
+   "The Movere service"
+  ],
+  [
+   "V",
+   "retired"
+  ],
+  [
+   "S",
+   "Users"
+  ],
+  [
+   "V",
+   "should use"
+  ],
+  [
+   "O",
+   "Azure Migrate"
+  ]
+ ],
+ "assessment": [
+  [
+   "S",
+   "An assessment"
+  ],
+  [
+   "V",
+   "measures"
+  ],
+  [
+   "O",
+   "the readiness"
+  ],
+  [
+   "V",
+   "estimates"
+  ],
+  [
+   "O",
+   "the effect"
+  ]
+ ],
+ "readiness": [
+  [
+   "V",
+   "Assess"
+  ]
+ ],
+ "sizing": [
+  [
+   "V",
+   "Estimate"
+  ],
+  [
+   "O",
+   "the size"
+  ],
+  [
+   "O",
+   "the Azure SQL configuration"
+  ],
+  [
+   "O",
+   "the number"
+  ]
+ ],
+ "cost estimate": [
+  [
+   "V",
+   "Estimate"
+  ],
+  [
+   "O",
+   "costs"
+  ]
+ ],
+ "dependency analysis": [
+  [
+   "V",
+   "Understand"
+  ],
+  [
+   "O",
+   "the network dependencies"
+  ]
+ ],
+ "Migration and modernization tool": [
+  [
+   "S",
+   "The Migration and modernization tool"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "purpose-built"
+  ],
+  [
+   "S",
+   "It"
+  ],
+  [
+   "V",
+   "'s optimized"
+  ]
+ ]
+}

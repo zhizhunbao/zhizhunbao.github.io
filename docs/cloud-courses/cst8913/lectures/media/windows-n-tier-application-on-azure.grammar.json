@@ -1,0 +1,408 @@
+{
+ "reference architecture": [
+  [
+   "V",
+   "review"
+  ],
+  [
+   "O",
+   "validated reference architectures and fundamentals"
+  ],
+  [
+   "V",
+   "Explore"
+  ],
+  [
+   "O",
+   "validated reference architectures"
+  ],
+  [
+   "S",
+   "These architectures"
+  ],
+  [
+   "V",
+   "help accelerate"
+  ],
+  [
+   "O",
+   "design decisions"
+  ],
+  [
+   "V",
+   "reduce"
+  ],
+  [
+   "O",
+   "risk"
+  ]
+ ],
+ "N-tier architecture": [
+  [
+   "S",
+   "An N-tier architecture"
+  ],
+  [
+   "V",
+   "divides"
+  ],
+  [
+   "O",
+   "an application"
+  ],
+  [
+   "S",
+   "A traditional three-tier application"
+  ],
+  [
+   "V",
+   "has"
+  ],
+  [
+   "O",
+   "a presentation tier, an optional middle tier, and a database tier"
+  ]
+ ],
+ "resource group": [
+  [
+   "S",
+   "A resource group"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a container"
+  ],
+  [
+   "S",
+   "all resources"
+  ],
+  [
+   "V",
+   "are also deleted"
+  ]
+ ],
+ "web tier": [
+  [
+   "S",
+   "The presentation tier"
+  ],
+  [
+   "V",
+   "is labeled"
+  ],
+  [
+   "O",
+   "Web tier"
+  ],
+  [
+   "S",
+   "The web and business tiers"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "stateless"
+  ],
+  [
+   "S",
+   "Any VM"
+  ],
+  [
+   "V",
+   "can handle"
+  ],
+  [
+   "O",
+   "any request"
+  ]
+ ],
+ "business tier": [
+  [
+   "S",
+   "The layer"
+  ],
+  [
+   "V",
+   "refers to"
+  ],
+  [
+   "O",
+   "the business logic tier"
+  ],
+  [
+   "S",
+   "The web and business tiers"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "stateless"
+  ],
+  [
+   "S",
+   "Any VM"
+  ],
+  [
+   "V",
+   "can handle"
+  ],
+  [
+   "O",
+   "any request"
+  ]
+ ],
+ "data tier": [
+  [
+   "S",
+   "The data tier"
+  ],
+  [
+   "V",
+   "should consist of"
+  ],
+  [
+   "O",
+   "a replicated database"
+  ],
+  [
+   "V",
+   "Restrict"
+  ],
+  [
+   "O",
+   "access"
+  ]
+ ],
+ "SQL Server": [
+  [
+   "S",
+   "Microsoft SQL Server"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a relational database management system"
+  ],
+  [
+   "S",
+   "Applications and tools"
+  ],
+  [
+   "V",
+   "connect"
+  ],
+  [
+   "V",
+   "communicate"
+  ]
+ ],
+ "virtual network (VNet)": [
+  [
+   "S",
+   "Azure Virtual Network"
+  ],
+  [
+   "V",
+   "provides"
+  ],
+  [
+   "O",
+   "the fundamental building block"
+  ],
+  [
+   "S",
+   "This service"
+  ],
+  [
+   "V",
+   "enables"
+  ],
+  [
+   "O",
+   "Azure resources"
+  ]
+ ],
+ "gateway subnet": [
+  [
+   "S",
+   "An application gateway"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a dedicated deployment"
+  ],
+  [
+   "S",
+   "a dedicated subnet"
+  ],
+  [
+   "V",
+   "is required"
+  ]
+ ],
+ "Azure Application Gateway": [
+  [
+   "S",
+   "Azure Application Gateway"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a web traffic load balancer"
+  ],
+  [
+   "S",
+   "Application Gateway"
+  ],
+  [
+   "V",
+   "makes"
+  ],
+  [
+   "O",
+   "intelligent routing decisions"
+  ]
+ ],
+ "subnet": [
+  [
+   "S",
+   "Azure virtual network subnets"
+  ],
+  [
+   "V",
+   "are"
+  ],
+  [
+   "O",
+   "essential containers"
+  ]
+ ],
+ "network security group (NSG)": [
+  [
+   "S",
+   "You"
+  ],
+  [
+   "V",
+   "can use"
+  ],
+  [
+   "O",
+   "an Azure network security group"
+  ],
+  [
+   "S",
+   "A network security group"
+  ],
+  [
+   "V",
+   "contains"
+  ],
+  [
+   "O",
+   "security rules"
+  ]
+ ],
+ "Azure Load Balancer": [
+  [
+   "S",
+   "Azure Load Balancer"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a cloud service"
+  ],
+  [
+   "S",
+   "Azure Load Balancer"
+  ],
+  [
+   "V",
+   "operates"
+  ]
+ ],
+ "internal load balancer": [
+  [
+   "S",
+   "an internal (or private) load balancer"
+  ],
+  [
+   "V",
+   "is used"
+  ]
+ ],
+ "Azure region": [
+  [
+   "S",
+   "Each region"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a set"
+  ]
+ ],
+ "availability zone": [
+  [
+   "S",
+   "Many Azure regions"
+  ],
+  [
+   "V",
+   "provide"
+  ],
+  [
+   "O",
+   "availability zones"
+  ],
+  [
+   "S",
+   "Each availability zone"
+  ],
+  [
+   "V",
+   "has"
+  ],
+  [
+   "O",
+   "independent power, cooling, and networking infrastructure"
+  ]
+ ],
+ "availability set": [
+  [
+   "S",
+   "VMs"
+  ],
+  [
+   "V",
+   "are deployed"
+  ]
+ ]
+}

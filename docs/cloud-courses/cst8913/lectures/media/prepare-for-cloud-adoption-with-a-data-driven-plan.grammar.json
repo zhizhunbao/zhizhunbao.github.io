@@ -1,0 +1,282 @@
+{
+ "digital estate": [
+  [
+   "S",
+   "the first step"
+  ],
+  [
+   "V",
+   "starts"
+  ],
+  [
+   "S",
+   "Those assets"
+  ],
+  [
+   "V",
+   "are referred to as"
+  ],
+  [
+   "O",
+   "your digital estate"
+  ]
+ ],
+ "agentless discovery": [
+  [
+   "S",
+   "Azure Migrate"
+  ],
+  [
+   "V",
+   "uses"
+  ],
+  [
+   "O",
+   "a lightweight Azure Migrate appliance"
+  ],
+  [
+   "S",
+   "Continuous discovery"
+  ],
+  [
+   "V",
+   "collects"
+  ],
+  [
+   "O",
+   "machine configuration information"
+  ]
+ ],
+ "Azure Migrate project": [
+  [
+   "S",
+   "A project"
+  ],
+  [
+   "V",
+   "is used"
+  ]
+ ],
+ "group (Azure Migrate)": [
+  [
+   "S",
+   "you"
+  ],
+  [
+   "V",
+   "can create"
+  ],
+  [
+   "O",
+   "high-confidence groups"
+  ],
+  [
+   "V",
+   "start assessing"
+  ],
+  [
+   "O",
+   "them"
+  ]
+ ],
+ "Ready for Azure": [
+  [
+   "S",
+   "Machines"
+  ],
+  [
+   "V",
+   "can be migrated"
+  ]
+ ],
+ "Conditionally ready for Azure": [
+  [
+   "S",
+   "Machines"
+  ],
+  [
+   "V",
+   "can be migrated"
+  ],
+  [
+   "V",
+   "need"
+  ],
+  [
+   "O",
+   "minor changes"
+  ]
+ ],
+ "Not ready for Azure": [
+  [
+   "S",
+   "Machines"
+  ],
+  [
+   "V",
+   "can't be migrated"
+  ],
+  [
+   "S",
+   "Issues"
+  ],
+  [
+   "V",
+   "must be fixed"
+  ]
+ ],
+ "Readiness unknown": [
+  [
+   "S",
+   "Azure Migrate"
+  ],
+  [
+   "V",
+   "can't determine"
+  ],
+  [
+   "O",
+   "machine readiness"
+  ]
+ ],
+ "performance-based sizing": [
+  [
+   "S",
+   "The performance-based sizing option"
+  ],
+  [
+   "V",
+   "helps"
+  ],
+  [
+   "O",
+   "you"
+  ],
+  [
+   "V",
+   "should be used"
+  ]
+ ],
+ "as on-premises (as-is) sizing": [
+  [
+   "S",
+   "You"
+  ],
+  [
+   "V",
+   "can get"
+  ],
+  [
+   "O",
+   "sizing recommendations"
+  ]
+ ],
+ "database assessment": [
+  [
+   "S",
+   "you"
+  ],
+  [
+   "V",
+   "can assess"
+  ],
+  [
+   "O",
+   "the readiness"
+  ]
+ ],
+ "blocker": [
+  [
+   "V",
+   "review and mitigate"
+  ],
+  [
+   "O",
+   "any compatibility issues or unsupported features"
+  ]
+ ],
+ "workload prioritization": [
+  [
+   "S",
+   "you",
+   1
+  ],
+  [
+   "V",
+   "can identify"
+  ],
+  [
+   "O",
+   "which applications and workloads to migrate first"
+  ],
+  [
+   "V",
+   "consider"
+  ],
+  [
+   "O",
+   "factors"
+  ]
+ ],
+ "migration plan": [
+  [
+   "V",
+   "Create"
+  ],
+  [
+   "O",
+   "an effective cloud migration plan"
+  ]
+ ],
+ "migration wave": [
+  [
+   "V",
+   "plan"
+  ],
+  [
+   "O",
+   "a series"
+  ],
+  [
+   "V",
+   "Identify"
+  ],
+  [
+   "O",
+   "a small set"
+  ]
+ ],
+ "recovery time objective (RTO)": [],
+ "maintenance window": [
+  [
+   "V",
+   "Build"
+  ],
+  [
+   "O",
+   "a migration roadmap"
+  ],
+  [
+   "V",
+   "Declare"
+  ],
+  [
+   "O",
+   "a maintenance window"
+  ]
+ ],
+ "post-migration testing": [
+  [
+   "S",
+   "A post-migration testing plan"
+  ],
+  [
+   "V",
+   "should include"
+  ],
+  [
+   "O",
+   "functional, integration, security, and performance testing and use cases"
+  ]
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "Infrastructure as a Service (IaaS)": [
+  [
+   "S",
+   "Infrastructure as a service (IaaS)"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "the most flexible category"
+  ]
+ ],
+ "Platform as a Service (PaaS)": [
+  [
+   "S",
+   "Platform as a service (PaaS)"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a middle ground"
+  ]
+ ],
+ "Software as a Service (SaaS)": [
+  [
+   "S",
+   "you"
+  ],
+  [
+   "V",
+   "’re essentially renting or using"
+  ],
+  [
+   "O",
+   "a fully developed application"
+  ]
+ ]
+}

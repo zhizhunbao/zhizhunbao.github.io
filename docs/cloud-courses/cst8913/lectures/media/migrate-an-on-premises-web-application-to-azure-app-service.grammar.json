@@ -1,0 +1,212 @@
+{
+ "Internet Information Services (IIS)": [
+  [
+   "S",
+   "Internet Information Services (IIS) 7 and later"
+  ],
+  [
+   "V",
+   "provide"
+  ],
+  [
+   "O",
+   "a request-processing architecture"
+  ]
+ ],
+ "Azure App Service": [
+  [
+   "S",
+   "Azure App Service"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "a fully managed platform"
+  ],
+  [
+   "S",
+   "You"
+  ],
+  [
+   "V",
+   "can use"
+  ],
+  [
+   "O",
+   "it"
+  ],
+  [
+   "S",
+   "Microsoft"
+  ],
+  [
+   "V",
+   "manages"
+  ],
+  [
+   "O",
+   "the infrastructure, operating system updates, load balancing, and scale-up/scale-down logic"
+  ]
+ ],
+ "autoscale": [
+  [
+   "S",
+   "The autoscale feature"
+  ],
+  [
+   "V",
+   "allows"
+  ],
+  [
+   "O",
+   "an administrator"
+  ]
+ ],
+ "deployment slots": [
+  [
+   "S",
+   "Deployment slots"
+  ],
+  [
+   "V",
+   "allow"
+  ],
+  [
+   "O",
+   "operations or DevOps"
+  ]
+ ],
+ "App Service diagnostics": [
+  [
+   "S",
+   "App Service diagnostics"
+  ],
+  [
+   "V",
+   "provide"
+  ],
+  [
+   "O",
+   "an interactive interface"
+  ],
+  [
+   "S",
+   "The interface"
+  ],
+  [
+   "V",
+   "produces"
+  ],
+  [
+   "O",
+   "a full diagnostic report"
+  ]
+ ],
+ "App Service Migration Assistant": [
+  [
+   "S",
+   "The Azure App Service Migration Assistant"
+  ],
+  [
+   "V",
+   "is"
+  ],
+  [
+   "O",
+   "part"
+  ],
+  [
+   "S",
+   "The Migration Assistant"
+  ],
+  [
+   "V",
+   "provides"
+  ],
+  [
+   "O",
+   "a guided wizard-like user experience"
+  ]
+ ],
+ "location tag": [
+  [
+   "S",
+   "Location tags"
+  ],
+  [
+   "V",
+   "allow"
+  ],
+  [
+   "O",
+   "you"
+  ]
+ ],
+ "ISAPI filter": [
+  [
+   "S",
+   "some developers"
+  ],
+  [
+   "V",
+   "built"
+  ],
+  [
+   "O",
+   "features"
+  ],
+  [
+   "S",
+   "The filters"
+  ],
+  [
+   "V",
+   "provided"
+  ],
+  [
+   "O",
+   "access"
+  ]
+ ],
+ "App Service plan": [
+  [
+   "S",
+   "An Azure App Service plan"
+  ],
+  [
+   "V",
+   "defines"
+  ],
+  [
+   "O",
+   "a set"
+  ]
+ ],
+ "hybrid connection": [
+  [
+   "S",
+   "Hybrid Connections"
+  ],
+  [
+   "V",
+   "can be used"
+  ]
+ ],
+ "Hybrid Connection Manager": [
+  [
+   "S",
+   "Hybrid Connection Manager"
+  ],
+  [
+   "V",
+   "connects"
+  ],
+  [
+   "O",
+   "your web app"
+  ]
+ ]
+}

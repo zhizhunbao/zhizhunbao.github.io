@@ -11,7 +11,39 @@
    ],
    "answer": 0,
    "zhTerm": "IIS 网站服务器",
-   "zh": "IIS 是 Windows Server 自带的网站服务器，用来托管 ASP.NET 等网站；迁移时常搬到 App Service。",
+   "zh": "Internet Information Services（IIS）7 及更高版本提供一种请求处理架构，其中包括：……一个 Web 服务器引擎，可通过添加或删除模块对其进行自定义。",
+   "keys": [
+    [
+     "Internet Information Services (IIS)",
+     "Internet Information Services（IIS）"
+    ],
+    [
+     "request-processing architecture",
+     "请求处理架构"
+    ],
+    [
+     "Web server engine",
+     "Web 服务器引擎"
+    ],
+    [
+     "adding or removing modules",
+     "添加或删除模块"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Internet Information Services (IIS) 7 and later"
+    ],
+    [
+     "V",
+     "provide"
+    ],
+    [
+     "O",
+     "a request-processing architecture"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -25,7 +57,63 @@
    ],
    "answer": 3,
    "zhTerm": "Azure 应用服务",
-   "zh": "Azure 应用服务是微软全托管的网站运行平台（PaaS）：服务器、系统补丁、负载均衡和扩缩容都由微软管。把网站搬到这里后，你只管应用本身。",
+   "zh": "Azure 应用服务是适用于 Web 应用的完全托管平台。你可以使用它以最少的设置运行和缩放 Web 应用。Microsoft 根据需要管理基础结构、操作系统更新、负载均衡以及纵向扩展/纵向缩减逻辑。",
+   "keys": [
+    [
+     "Azure App Service",
+     "Azure 应用服务"
+    ],
+    [
+     "fully managed platform",
+     "完全托管平台"
+    ],
+    [
+     "run and scale",
+     "运行和缩放"
+    ],
+    [
+     "infrastructure",
+     "基础结构"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Azure App Service"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "a fully managed platform"
+    ],
+    [
+     "S",
+     "You"
+    ],
+    [
+     "V",
+     "can use"
+    ],
+    [
+     "O",
+     "it"
+    ],
+    [
+     "S",
+     "Microsoft"
+    ],
+    [
+     "V",
+     "manages"
+    ],
+    [
+     "O",
+     "the infrastructure, operating system updates, load balancing, and scale-up/scale-down logic"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -39,7 +127,39 @@
    ],
    "answer": 2,
    "zhTerm": "自动缩放",
-   "zh": "自动缩放就是按访问量自动增加或减少运行网站的实例数。管理员只设最多几个实例和流量阈值，其余由 App Service 决定。",
+   "zh": "自动缩放功能允许管理员设置 Web 应用应允许缩放到的最大实例数，以及流量阈值。",
+   "keys": [
+    [
+     "autoscale feature",
+     "自动缩放功能"
+    ],
+    [
+     "administrator",
+     "管理员"
+    ],
+    [
+     "maximum number of instances",
+     "最大实例数"
+    ],
+    [
+     "traffic thresholds",
+     "流量阈值"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The autoscale feature"
+    ],
+    [
+     "V",
+     "allows"
+    ],
+    [
+     "O",
+     "an administrator"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -53,7 +173,39 @@
    ],
    "answer": 2,
    "zhTerm": "部署槽位",
-   "zh": "部署槽位就是同一个网站旁边的预备环境：新版本先部署到这里测试，没问题再和生产环境对调；出了问题可以再对调回来。",
+   "zh": "部署槽位允许运维人员或 DevOps 将 Web 应用程序的新版本部署到实时测试或过渡环境，在其中可以执行手动或自动集成测试。",
+   "keys": [
+    [
+     "Deployment slots",
+     "部署槽位"
+    ],
+    [
+     "new version",
+     "新版本"
+    ],
+    [
+     "live testing or staging environment",
+     "实时测试或过渡环境"
+    ],
+    [
+     "integration tests",
+     "集成测试"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Deployment slots"
+    ],
+    [
+     "V",
+     "allow"
+    ],
+    [
+     "O",
+     "operations or DevOps"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -67,7 +219,51 @@
    ],
    "answer": 1,
    "zhTerm": "App Service 诊断",
-   "zh": "App Service 诊断是一个问答式的排错界面：回答几个问题，它就针对你的问题生成一份诊断报告。网站出故障时用它找原因。",
+   "zh": "App Service 诊断提供交互式界面，故障排除人员可在其中回答几个问题。该界面会生成一份完整的诊断报告，专门针对应用程序所遇到的问题类型。",
+   "keys": [
+    [
+     "App Service diagnostics",
+     "App Service 诊断"
+    ],
+    [
+     "interactive interface",
+     "交互式界面"
+    ],
+    [
+     "full diagnostic report",
+     "完整的诊断报告"
+    ],
+    [
+     "type of problem",
+     "问题类型"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "App Service diagnostics"
+    ],
+    [
+     "V",
+     "provide"
+    ],
+    [
+     "O",
+     "an interactive interface"
+    ],
+    [
+     "S",
+     "The interface"
+    ],
+    [
+     "V",
+     "produces"
+    ],
+    [
+     "O",
+     "a full diagnostic report"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -81,7 +277,51 @@
    ],
    "answer": 0,
    "zhTerm": "应用服务迁移助手",
-   "zh": "应用服务迁移助手是微软的一个向导式小工具：先检查 Windows Server 上的某个网站能不能直接搬到 App Service，能的话再帮你把它搬过去。",
+   "zh": "Azure 应用服务迁移助手是一个更大的应用程序套件的一部分，这些应用程序可帮助组织向云过渡。迁移助手提供引导式的类向导用户体验，可执行以下两项任务：",
+   "keys": [
+    [
+     "Azure App Service Migration Assistant",
+     "Azure 应用服务迁移助手"
+    ],
+    [
+     "larger suite of applications",
+     "更大的应用程序套件"
+    ],
+    [
+     "transition to the cloud",
+     "向云过渡"
+    ],
+    [
+     "guided wizard-like user experience",
+     "引导式的类向导用户体验"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "The Azure App Service Migration Assistant"
+    ],
+    [
+     "V",
+     "is"
+    ],
+    [
+     "O",
+     "part"
+    ],
+    [
+     "S",
+     "The Migration Assistant"
+    ],
+    [
+     "V",
+     "provides"
+    ],
+    [
+     "O",
+     "a guided wizard-like user experience"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -95,7 +335,39 @@
    ],
    "answer": 3,
    "zhTerm": "位置标签",
-   "zh": "位置标签是 IIS 的一种写法：把一台服务器上所有网站的配置写在同一个文件里。App Service 不支持它，迁移前要把配置拆回各网站自己的 web.config。",
+   "zh": "位置标签让你可以将服务器上托管的所有 Web 应用的配置保存在单个文件中，而不是托管在每个 Web 应用各自的 web.config 文件中。",
+   "keys": [
+    [
+     "Location tags",
+     "位置标签"
+    ],
+    [
+     "configuration",
+     "配置"
+    ],
+    [
+     "single file",
+     "单个文件"
+    ],
+    [
+     "individual web.config files",
+     "各自的 web.config 文件"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Location tags"
+    ],
+    [
+     "V",
+     "allow"
+    ],
+    [
+     "O",
+     "you"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -109,7 +381,47 @@
    ],
    "answer": 2,
    "zhTerm": "ISAPI 筛选器",
-   "zh": "ISAPI 筛选器是挂在 IIS 上的底层插件，能在请求交给 ASP.NET 之前先拦下来处理。依赖它的网站，迁移助手不会自动迁，要先去掉再迁。",
+   "zh": "例如，一些开发人员在 ISAPI 筛选器之上构建了监视、日志记录和安全等功能。这些筛选器可在传入请求传递给 ASP.NET 应用程序之前访问这些请求。",
+   "keys": [
+    [
+     "ISAPI filters",
+     "ISAPI 筛选器"
+    ],
+    [
+     "incoming requests",
+     "传入请求"
+    ],
+    [
+     "ASP.NET application",
+     "ASP.NET 应用程序"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "some developers"
+    ],
+    [
+     "V",
+     "built"
+    ],
+    [
+     "O",
+     "features"
+    ],
+    [
+     "S",
+     "The filters"
+    ],
+    [
+     "V",
+     "provided"
+    ],
+    [
+     "O",
+     "access"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#assess-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -123,7 +435,35 @@
    ],
    "answer": 2,
    "zhTerm": "App Service 计划",
-   "zh": "App Service 计划就是网站运行用的一组计算资源：选哪个档位决定了实例数量、功能和 SLA，也决定网站放在哪个区域。几个网站可以共用一个计划。",
+   "zh": "Azure App Service 计划定义了一组计算资源，供 Web 应用运行。",
+   "keys": [
+    [
+     "Azure App Service plan",
+     "Azure App Service 计划"
+    ],
+    [
+     "compute resources",
+     "计算资源"
+    ],
+    [
+     "web app",
+     "Web 应用"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "An Azure App Service plan"
+    ],
+    [
+     "V",
+     "defines"
+    ],
+    [
+     "O",
+     "a set"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#migrate-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -137,7 +477,31 @@
    ],
    "answer": 0,
    "zhTerm": "混合连接",
-   "zh": "让搬到 App Service 的应用，经 443 端口安全访问还留在本地的数据库或服务。",
+   "zh": "在 App Service 中，混合连接可用于访问任何能够通过端口 443 向 Azure 发起出站调用的网络中的应用程序资源。",
+   "keys": [
+    [
+     "App Service",
+     "App Service"
+    ],
+    [
+     "Hybrid Connections",
+     "混合连接"
+    ],
+    [
+     "outbound calls",
+     "出站调用"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Hybrid Connections"
+    ],
+    [
+     "V",
+     "can be used"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#migrate-a-web-app-with-the-azure-app-service-migration-assistant"
   },
@@ -151,7 +515,39 @@
    ],
    "answer": 2,
    "zhTerm": "混合连接管理器",
-   "zh": "混合连接管理器是装在本地服务器上的一个中继小程序：它向外连到 Azure Relay，让云上的网站能访问本地的数据库。",
+   "zh": "混合连接管理器将在 Azure App Service 中运行的 Web 应用连接到 Azure Service Bus Relay，以便与本地数据库终结点建立连接。",
+   "keys": [
+    [
+     "Hybrid Connection Manager",
+     "混合连接管理器"
+    ],
+    [
+     "web app",
+     "Web 应用"
+    ],
+    [
+     "Azure Service Bus Relay",
+     "Azure Service Bus Relay"
+    ],
+    [
+     "on-premises database endpoint",
+     "本地数据库终结点"
+    ]
+   ],
+   "roles": [
+    [
+     "S",
+     "Hybrid Connection Manager"
+    ],
+    [
+     "V",
+     "connects"
+    ],
+    [
+     "O",
+     "your web app"
+    ]
+   ],
    "page": "Migrate an on-premises web application to Azure App Service",
    "href": "../lectures/migrate-an-on-premises-web-application-to-azure-app-service.html#migrate-a-web-app-with-the-azure-app-service-migration-assistant"
   }

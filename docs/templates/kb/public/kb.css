@@ -223,3 +223,24 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 .content .kb-quiz-result p { margin: 4px 0 0; }
 .content .kb-quiz-result p:first-child { margin-top: 0; }
 .kb-quiz-verdict { font-weight: 600; }
+
+/* Key words: the n-th key word of an English definition and of its Chinese translation share a colour. Term tables
+   bold them in order (Definition is column 2, 中文翻译 column 3); quiz.js marks them as .kb-key[data-key=n]. */
+:root { --kb-key-1: #fff1b8; --kb-key-2: #cfe4ff; --kb-key-3: #d3f5d6; --kb-key-4: #fbd8ec; }
+.theme-dark { --kb-key-1: #5c4a0c; --kb-key-2: #173a63; --kb-key-3: #1d4d27; --kb-key-4: #5e1f45; }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong, .kb-key { padding: 0 2px; border-radius: 3px; color: var(--theme-text); }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+1), .kb-key[data-key="1"] { background: var(--kb-key-1); }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+2), .kb-key[data-key="2"] { background: var(--kb-key-2); }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+3), .kb-key[data-key="3"] { background: var(--kb-key-3); }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+4), .kb-key[data-key="4"] { background: var(--kb-key-4); }
+.kb-key { font-weight: 600; }
+
+/* Sentence trunk of an English definition (marks.js), the Chinese school marks: subject double line, verb single line,
+   object or complement wavy line */
+.kb-role { text-decoration-line: underline; text-decoration-thickness: 1.5px; text-underline-offset: 4px; text-decoration-skip-ink: none; }
+.kb-role-S { text-decoration-style: double; text-decoration-color: #0f6cbd; }
+.kb-role-V { text-decoration-style: solid; text-decoration-color: #c50f1f; }
+.kb-role-O { text-decoration-style: wavy; text-decoration-color: #107c10; }
+.theme-dark .kb-role-S { text-decoration-color: #62abf5; }
+.theme-dark .kb-role-V { text-decoration-color: #ff8f8f; }
+.theme-dark .kb-role-O { text-decoration-color: #6ccb5f; }
