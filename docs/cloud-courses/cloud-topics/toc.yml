@@ -1,6 +1,4 @@
 items:
-- name: Overview
-  href: index.md
 - name: "1. Cloud concepts"
   href: 01-cloud-concepts/index.md
 - name: "2. Core architectural components of Azure"
