@@ -1,6 +1,6 @@
 items:
 - name: Microsoft Azure
-  href: cloud-topics/toc.yml
+  href: azure/toc.yml
 - name: CST8912 Cloud Solution Architecture
   items:
   - name: Glossary

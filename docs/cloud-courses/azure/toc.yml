@@ -1,0 +1,50 @@
+items:
+- name: "1. Cloud concepts"
+  href: cloud-concepts/index.md
+  items:
+  - name: "1.1 Describe cloud computing"
+    href: cloud-concepts/describe-cloud-computing.md
+  - name: "1.2 Describe the benefits of using cloud services"
+    href: cloud-concepts/describe-the-benefits-of-using-cloud-services.md
+  - name: "1.3 Describe cloud service types"
+    href: cloud-concepts/describe-cloud-service-types.md
+  - name: "1.4 The NIST Definition of Cloud Computing"
+    href: cloud-concepts/the-nist-definition-of-cloud-computing.md
+  - name: "1.5 NIST Cloud Computing Reference Architecture"
+    href: cloud-concepts/nist-cloud-computing-reference-architecture.md
+- name: "2. Core architectural components of Azure"
+  href: core-architectural-components/index.md
+- name: "3. Compute"
+  href: compute/index.md
+- name: "4. Containers"
+  href: containers/index.md
+- name: "5. Networking"
+  href: networking/index.md
+- name: "6. Storage"
+  href: storage/index.md
+- name: "7. Databases"
+  href: databases/index.md
+- name: "8. Integration"
+  href: integration/index.md
+- name: "9. Analytics"
+  href: analytics/index.md
+- name: "10. Internet of Things"
+  href: internet-of-things/index.md
+- name: "11. AI + Machine Learning"
+  href: ai-machine-learning/index.md
+- name: "12. Identity"
+  href: identity/index.md
+- name: "13. Security"
+  href: security/index.md
+- name: "14. Management and Governance"
+  href: management-and-governance/index.md
+- name: "15. DevOps"
+  href: devops/index.md
+- name: "16. Migration"
+  href: migration/index.md
+- name: "17. Azure Well-Architected Framework"
+  href: well-architected-framework/index.md
+- name: "18. Cloud Adoption Framework for Azure"
+  href: cloud-adoption-framework/index.md
+- name: "19. Azure Architecture Center"
+  href: architecture-center/index.md
