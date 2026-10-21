@@ -1,6 +1,9 @@
 items:
 - name: Overview
   href: index.md
+- name: Cloud topics
+  href: cloud-topics/toc.yml
+  topicHref: cloud-topics/index.md
 - name: CST8912 Cloud Solution Architecture
   items:
   - name: Glossary
@@ -19,40 +22,36 @@ items:
     href: cst8913/index.md
   - name: Lectures
     items:
-    - name: "Week 1"
+    - name: "Basics"
       items:
-      - name: "1. Pro Git: getting started"
-        href: cst8913/lectures/pro-git-getting-started.md
-      - name: "2. GitHub Docs: collaborating with pull requests"
-        href: cst8913/lectures/github-docs-collaborating.md
-    - name: "Week 2"
-      items:
-      - name: "3. Describe cloud computing"
+      - name: "Describe cloud computing (week 2)"
         href: cst8913/lectures/describe-cloud-computing.md
-      - name: "4. Describe cloud service types (also week 3)"
+      - name: "Describe cloud service types (weeks 2 and 3)"
         href: cst8913/lectures/describe-cloud-service-types.md
-      - name: "5. Cloud Adoption Framework for Azure (also week 3)"
-        href: cst8913/lectures/cloud-adoption-framework-for-azure.md
-      - name: "6. What is Azure Migrate? (also week 4)"
-        href: cst8913/lectures/what-is-azure-migrate.md
-    - name: "Week 3"
+    - name: "Cloud Adoption Framework"
       items:
-      - name: "7. Windows N-tier application on Azure"
-        href: cst8913/lectures/windows-n-tier-application-on-azure.md
-    - name: "Week 4"
+      - name: "Overview (weeks 2 and 3)"
+        href: cst8913/lectures/cloud-adoption-framework.md
+      - name: "Strategy (weeks 2 and 3)"
+        href: cst8913/lectures/strategy.md
+      - name: "Plan (weeks 2 and 4)"
+        href: cst8913/lectures/plan.md
+      - name: "Ready (week 3)"
+        href: cst8913/lectures/ready.md
+      - name: "Adopt (weeks 2, 4, 5 and 6)"
+        href: cst8913/lectures/adopt.md
+      - name: "Govern (not covered yet)"
+      - name: "Secure (not covered yet)"
+      - name: "Manage (not covered yet)"
+      - name: "Azure Architecture Center (week 3)"
+        href: cst8913/lectures/azure-architecture-center.md
+      - name: "Azure Well-Architected Framework (not covered yet)"
+    - name: "Tools"
       items:
-      - name: "8. Prepare for cloud adoption with a data-driven plan"
-        href: cst8913/lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md
-    - name: "Week 5"
-      items:
-      - name: "9. Overview of application migration examples for Azure (also week 6)"
-        href: cst8913/lectures/overview-of-application-migration-examples-for-azure.md
-      - name: "10. What is Azure VMware Solution?"
-        href: cst8913/lectures/what-is-azure-vmware-solution.md
-    - name: "Week 6"
-      items:
-      - name: "11. Migrate an on-premises web application to Azure App Service"
-        href: cst8913/lectures/migrate-an-on-premises-web-application-to-azure-app-service.md
+      - name: "Pro Git: getting started (week 1)"
+        href: cst8913/lectures/pro-git-getting-started.md
+      - name: "GitHub Docs: collaborating with pull requests (week 1)"
+        href: cst8913/lectures/github-docs-collaborating.md
   - name: Labs
     items:
     - name: "Overview"
