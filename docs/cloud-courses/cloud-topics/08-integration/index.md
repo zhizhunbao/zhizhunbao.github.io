@@ -1,6 +1,6 @@
 ---
 title: "8. Integration"
-description: "Cloud topics, 8. Integration: overview figure and sub-pages."
+description: "Microsoft Azure, 8. Integration: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

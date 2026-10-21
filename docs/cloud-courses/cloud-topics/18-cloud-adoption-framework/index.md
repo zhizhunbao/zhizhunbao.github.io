@@ -1,6 +1,6 @@
 ---
 title: "18. Cloud Adoption Framework for Azure"
-description: "Cloud topics, 18. Cloud Adoption Framework for Azure: overview figure and sub-pages."
+description: "Microsoft Azure, 18. Cloud Adoption Framework for Azure: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

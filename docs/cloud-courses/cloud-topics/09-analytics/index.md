@@ -1,6 +1,6 @@
 ---
 title: "9. Analytics"
-description: "Cloud topics, 9. Analytics: overview figure and sub-pages."
+description: "Microsoft Azure, 9. Analytics: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

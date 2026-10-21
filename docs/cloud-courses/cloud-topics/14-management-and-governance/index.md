@@ -1,6 +1,6 @@
 ---
 title: "14. Management and Governance"
-description: "Cloud topics, 14. Management and Governance: overview figure and sub-pages."
+description: "Microsoft Azure, 14. Management and Governance: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

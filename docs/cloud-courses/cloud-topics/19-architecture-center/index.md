@@ -1,6 +1,6 @@
 ---
 title: "19. Azure Architecture Center"
-description: "Cloud topics, 19. Azure Architecture Center: overview figure and sub-pages."
+description: "Microsoft Azure, 19. Azure Architecture Center: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

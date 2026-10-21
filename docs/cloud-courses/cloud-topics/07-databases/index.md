@@ -1,6 +1,6 @@
 ---
 title: "7. Databases"
-description: "Cloud topics, 7. Databases: overview figure and sub-pages."
+description: "Microsoft Azure, 7. Databases: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

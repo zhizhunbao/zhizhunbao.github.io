@@ -1,6 +1,6 @@
 ---
 title: "13. Security"
-description: "Cloud topics, 13. Security: overview figure and sub-pages."
+description: "Microsoft Azure, 13. Security: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

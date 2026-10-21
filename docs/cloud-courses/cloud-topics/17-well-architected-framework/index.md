@@ -1,6 +1,6 @@
 ---
 title: "17. Azure Well-Architected Framework"
-description: "Cloud topics, 17. Azure Well-Architected Framework: overview figure and sub-pages."
+description: "Microsoft Azure, 17. Azure Well-Architected Framework: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

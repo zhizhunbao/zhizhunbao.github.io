@@ -1,6 +1,6 @@
 ---
 title: "16. Migration"
-description: "Cloud topics, 16. Migration: overview figure and sub-pages."
+description: "Microsoft Azure, 16. Migration: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

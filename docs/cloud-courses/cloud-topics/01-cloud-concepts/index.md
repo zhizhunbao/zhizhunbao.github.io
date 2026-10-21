@@ -1,6 +1,6 @@
 ---
 title: "1. Cloud concepts"
-description: "Cloud topics, 1. Cloud concepts: overview figure and sub-pages."
+description: "Microsoft Azure, 1. Cloud concepts: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 
