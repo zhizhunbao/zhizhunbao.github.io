@@ -1,6 +1,6 @@
 ---
 title: "15. DevOps"
-description: "Cloud topics, 15. DevOps: overview figure and sub-pages."
+description: "Microsoft Azure, 15. DevOps: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

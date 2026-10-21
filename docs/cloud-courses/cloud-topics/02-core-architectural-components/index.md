@@ -1,6 +1,6 @@
 ---
 title: "2. Core architectural components of Azure"
-description: "Cloud topics, 2. Core architectural components of Azure: overview figure and sub-pages."
+description: "Microsoft Azure, 2. Core architectural components of Azure: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "10. Internet of Things"
-description: "Cloud topics, 10. Internet of Things: overview figure and sub-pages."
+description: "Microsoft Azure, 10. Internet of Things: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

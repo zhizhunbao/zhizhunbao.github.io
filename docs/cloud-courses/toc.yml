@@ -1,5 +1,5 @@
 items:
-- name: Cloud topics
+- name: Microsoft Azure
   href: cloud-topics/toc.yml
 - name: CST8912 Cloud Solution Architecture
   items:

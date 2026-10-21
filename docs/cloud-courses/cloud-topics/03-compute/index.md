@@ -1,6 +1,6 @@
 ---
 title: "3. Compute"
-description: "Cloud topics, 3. Compute: overview figure and sub-pages."
+description: "Microsoft Azure, 3. Compute: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

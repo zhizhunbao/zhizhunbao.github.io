@@ -1,6 +1,6 @@
 ---
 title: "5. Networking"
-description: "Cloud topics, 5. Networking: overview figure and sub-pages."
+description: "Microsoft Azure, 5. Networking: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

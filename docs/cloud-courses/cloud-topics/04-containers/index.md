@@ -1,6 +1,6 @@
 ---
 title: "4. Containers"
-description: "Cloud topics, 4. Containers: overview figure and sub-pages."
+description: "Microsoft Azure, 4. Containers: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 

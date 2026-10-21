@@ -5,9 +5,9 @@ items:
   href: resume/index.md
 - name: Projects
   href: projects/
-- name: AI courses
+- name: AI
   href: ai-courses/
-- name: Cloud courses
+- name: Cloud
   href: cloud-courses/
 - name: Self-study
   href: self-study/index.md

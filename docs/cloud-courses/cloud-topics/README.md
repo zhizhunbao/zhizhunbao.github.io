@@ -1,4 +1,4 @@
-# Cloud topics: rules and allowed folders
+# Microsoft Azure (folder cloud-topics): rules and allowed folders
 
 This folder holds the shared glossary of every cloud course (CST8911, CST8912, CST8913, CST8915, CST8916). It is organised by official topic, not by course or week, so each term is written once. The course folders next to this one (`../cst8911/` and so on) keep only their week indexes and course-only pages (labs, presentations), and link here. This README is the contract for the folder; the build checks it. It is not published (`docfx.json` excludes `**/README.md`).
 

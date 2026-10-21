@@ -1,6 +1,6 @@
 ---
 title: "12. Identity"
-description: "Cloud topics, 12. Identity: overview figure and sub-pages."
+description: "Microsoft Azure, 12. Identity: overview figure and sub-pages."
 ms.date: 2026-10-21
 ---
 
