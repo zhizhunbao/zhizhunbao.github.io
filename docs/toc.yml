@@ -9,7 +9,5 @@ items:
   href: ai-courses/
 - name: Cloud courses
   href: cloud-courses/
-- name: Cloud topics
-  href: cloud-topics/
 - name: Self-study
   href: self-study/index.md
