@@ -32,43 +32,43 @@ ms.date: 2026-10-21
 
 | Week | Terms in the course |
 |---|---|
-| 1 | cloud computing, Gartner's definition of cloud computing, cloud provider, public cloud, private cloud, hybrid cloud, essential characteristics of cloud computing, on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service, scalability, pay-as-you-go, service model (service delivery model), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model |
-| 2 | high availability |
-| 4 | cloud computing (cloud environment), deployment model, hybrid cloud |
-| 6 | Infrastructure Platform (IaaS), Application Platform (PaaS / aPaaS), Software Platform (SaaS) |
-| 7 | cloud consumer, cloud provider, cloud auditor, cloud broker, cloud carrier, cloud deployment model, community cloud, hybrid cloud, multi-cloud, cloud service model, reliability, governance |
+| 1 | **Cloud computing**: cloud computing, Gartner's definition of cloud computing<br>**Deployment models**: public cloud, private cloud, hybrid cloud<br>**Service models**: service model (service delivery model), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model<br>**Actors**: cloud provider<br>**Essential characteristics**: essential characteristics of cloud computing, on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service<br>**Benefits**: scalability<br>**Consumption-based model**: pay-as-you-go |
+| 2 | **Benefits**: high availability |
+| 4 | **Cloud computing**: cloud computing (cloud environment)<br>**Deployment models**: deployment model, hybrid cloud |
+| 6 | **Service models**: Infrastructure Platform (IaaS), Application Platform (PaaS / aPaaS), Software Platform (SaaS) |
+| 7 | **Deployment models**: cloud deployment model, community cloud, hybrid cloud, multi-cloud<br>**Service models**: cloud service model<br>**Actors**: cloud consumer, cloud provider, cloud auditor, cloud broker, cloud carrier<br>**Benefits**: reliability, governance |
 
 **CST8912 Cloud Solution Architecture**
 
 | Week | Terms in the course |
 |---|---|
-| 1 | deployment model, public cloud, private cloud, hybrid cloud, multi-cloud, service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model, resource pooling, elasticity, scalability, high availability, pay-as-you-go, capital expenditure (CapEx), operational expenditure (OpEx) |
-| 3 | deployment model |
-| 5 | dynamic scalability, governance |
-| 6 | cloud provider, hybrid cloud, multi-cloud, shared responsibility model, reliability, cloud governance |
+| 1 | **Deployment models**: deployment model, public cloud, private cloud, hybrid cloud, multi-cloud<br>**Service models**: service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model<br>**Essential characteristics**: resource pooling, elasticity<br>**Benefits**: scalability, high availability<br>**Consumption-based model**: pay-as-you-go, capital expenditure (CapEx), operational expenditure (OpEx) |
+| 3 | **Deployment models**: deployment model |
+| 5 | **Benefits**: dynamic scalability, governance |
+| 6 | **Deployment models**: hybrid cloud, multi-cloud<br>**Service models**: shared responsibility model<br>**Actors**: cloud provider<br>**Benefits**: reliability, cloud governance |
 
 **CST8913 Cloud Migration**
 
 | Week | Terms in the course |
 |---|---|
-| 2 | cloud computing, cloud provider, deployment model (cloud model), public cloud, private cloud, hybrid cloud, multi-cloud, service model (service type), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model, scalability, high availability, consumption-based model, capital expenditure (CapEx), operational expenditure (OpEx) |
-| 3 | elasticity, CapEx to OpEx shift |
+| 2 | **Cloud computing**: cloud computing<br>**Deployment models**: deployment model (cloud model), public cloud, private cloud, hybrid cloud, multi-cloud<br>**Service models**: service model (service type), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model<br>**Actors**: cloud provider<br>**Benefits**: scalability, high availability<br>**Consumption-based model**: consumption-based model, capital expenditure (CapEx), operational expenditure (OpEx) |
+| 3 | **Essential characteristics**: elasticity<br>**Consumption-based model**: CapEx to OpEx shift |
 
 **CST8915 Full-stack Cloud-native Development**
 
 | Week | Terms in the course |
 |---|---|
-| 1 | cloud computing, public cloud, private cloud, hybrid cloud, service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), scalability, elasticity, pay-as-you-go (pay for what you use) |
-| 2 | high availability |
-| 4 | resource pooling, rapid elasticity |
+| 1 | **Cloud computing**: cloud computing<br>**Deployment models**: public cloud, private cloud, hybrid cloud<br>**Service models**: service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)<br>**Essential characteristics**: elasticity<br>**Benefits**: scalability<br>**Consumption-based model**: pay-as-you-go (pay for what you use) |
+| 2 | **Benefits**: high availability |
+| 4 | **Essential characteristics**: resource pooling, rapid elasticity |
 
 **CST8916 Remote Data and Real-time Applications**
 
 | Week | Terms in the course |
 |---|---|
-| 1 | cloud computing, public cloud, private cloud, hybrid cloud, service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), scalability, elasticity, reliability, pay-as-you-go |
-| 5 | multi-cloud, high availability |
-| 6 | service model |
+| 1 | **Cloud computing**: cloud computing<br>**Deployment models**: public cloud, private cloud, hybrid cloud<br>**Service models**: service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)<br>**Essential characteristics**: elasticity<br>**Benefits**: scalability, reliability<br>**Consumption-based model**: pay-as-you-go |
+| 5 | **Deployment models**: multi-cloud<br>**Benefits**: high availability |
+| 6 | **Service models**: service model |
 
 ## References
 

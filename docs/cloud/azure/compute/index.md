@@ -30,47 +30,43 @@ ms.date: 2026-10-22
 
 | Week | Terms in the course |
 |---|---|
-| 1 | virtual machine (VM), serverless computing, Function as a Service (FaaS) |
-| 2 | Virtual Machine Scale Sets, VM size (VM series), Spot Virtual Machines |
-| 3 | Azure Functions, function app, App Service plan |
-| 4 | Azure Functions |
-| 6 | Azure Virtual Machines (Azure VMs), OpenShift, Function Platform (FaaS) |
+| 1 | **IaaS**: virtual machine (VM)<br>**FaaS**: serverless computing, Function as a Service (FaaS) |
+| 2 | **IaaS**: Virtual Machine Scale Sets, Spot Virtual Machines |
+| 3 | **FaaS**: Azure Functions |
+| 4 | **FaaS**: Azure Functions |
+| 6 | **IaaS**: Azure Virtual Machines (Azure VMs)<br>**PaaS**: OpenShift<br>**FaaS**: Function Platform (FaaS) |
 
 **CST8912 Cloud Solution Architecture**
 
 | Week | Terms in the course |
 |---|---|
-| 2 | compute service, hosting model, virtual machine (VM), Azure Virtual Machines, VM image, VM size, generation 2 VM (Gen2), burstable VM (B-series), Azure Spot Virtual Machines, VM extension, Virtual Machine Scale Sets (VMSS), Azure App Service, App Service plan, web app, Azure Kubernetes Service (AKS), Azure Container Apps (ACA), Azure Container Instances (ACI), Azure Red Hat OpenShift (ARO), Azure Batch, Azure Spring Apps, serverless, Azure Functions, Function as a Service (FaaS), Azure Service Fabric |
-| 3 | VM size substitution |
-| 6 | Azure Batch account |
+| 2 | **Compute**: compute service, hosting model<br>**IaaS**: Azure Virtual Machines, Virtual Machine Scale Sets (VMSS), Azure Spot Virtual Machines<br>**PaaS**: Azure App Service, Azure Kubernetes Service (AKS), Azure Container Apps (ACA), Azure Container Instances (ACI), Azure Red Hat OpenShift (ARO), Azure Batch, Azure Spring Apps<br>**FaaS**: Azure Functions, Function as a Service (FaaS)<br>**Specialty workloads**: Azure Service Fabric |
 
 **CST8913 Cloud Migration**
 
 | Week | Terms in the course |
 |---|---|
-| 2 | virtual machine (VM), Azure Kubernetes Service (AKS) |
-| 4 | Azure Virtual Machines, Azure VMware Solution node |
-| 5 | Azure VMware Solution (AVS), Azure VMware Solution private cloud |
-| 6 | Azure App Service, web app, Azure App Service Migration Assistant |
+| 2 | **IaaS**: virtual machine (VM)<br>**PaaS**: Azure Kubernetes Service (AKS) |
+| 4 | **IaaS**: Azure Virtual Machines, Azure VMware Solution node |
+| 5 | **IaaS**: Azure VMware Solution (AVS) |
+| 6 | **PaaS**: Azure App Service |
 
 **CST8915 Full-stack Cloud-native Development**
 
 | Week | Terms in the course |
 |---|---|
-| 1 | virtual machine (VM), serverless |
-| 2 | VM size |
-| 3 | dedicated VM, App Services, Azure Spring Apps, Function Apps |
-| 4 | Azure App Service, Azure Web App (Web App), Azure Static Web Apps, Azure Functions, serverless function runtime |
+| 1 | **IaaS**: virtual machine (VM)<br>**FaaS**: serverless |
+| 3 | **PaaS**: App Services, Azure Spring Apps<br>**FaaS**: Function Apps |
+| 4 | **PaaS**: Azure App Service, Azure Static Web Apps<br>**FaaS**: Azure Functions |
 
 **CST8916 Remote Data and Real-time Applications**
 
 | Week | Terms in the course |
 |---|---|
-| 1 | virtual machine (VM), serverless function |
-| 2 | VM option (IaaS), Azure App Service, serverless option |
-| 3 | App Service plan |
-| 5 | compute service, Azure App Service, Azure Functions, function (Azure Functions), Function as a Service (FaaS), serverless |
-| 6 | Azure App Service, Azure Spring Apps, Azure Functions, function app |
+| 1 | **IaaS**: virtual machine (VM)<br>**FaaS**: serverless function |
+| 2 | **IaaS**: VM option (IaaS)<br>**PaaS**: Azure App Service |
+| 5 | **Compute**: compute service<br>**PaaS**: Azure App Service<br>**FaaS**: Azure Functions, Function as a Service (FaaS) |
+| 6 | **PaaS**: Azure App Service, Azure Spring Apps<br>**FaaS**: Azure Functions |
 
 ## References
 
