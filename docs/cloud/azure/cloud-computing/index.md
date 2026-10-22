@@ -28,13 +28,47 @@ ms.date: 2026-10-21
 |---|---|
 | AZ-900 Microsoft Azure Fundamentals | [Describe cloud concepts (25–30%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#describe-cloud-concepts-2530) |
 
-| Course | Weeks | Groups |
-|---|---|---|
-| CST8911 Introduction to Cloud Computing | 1, 2, 4, 7 | Deployment models, service models, actors, essential characteristics, benefits, consumption-based model |
-| CST8912 Cloud Solution Architecture | 1, 5, 6 | Deployment models, service models, actors, essential characteristics, benefits, consumption-based model |
-| CST8913 Cloud Migration | 2, 3, 5 | Deployment models, service models, actors, benefits, consumption-based model |
-| CST8915 Full-stack Cloud-native Development | 1, 2, 4, 6 | Deployment models, service models, essential characteristics, benefits |
-| CST8916 Remote Data and Real-time Applications | 1, 5 | Deployment models, service models, benefits |
+**CST8911 Introduction to Cloud Computing**
+
+| Week | Terms in the course |
+|---|---|
+| 1 | cloud computing, Gartner's definition of cloud computing, cloud provider, public cloud, private cloud, hybrid cloud, essential characteristics of cloud computing, on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service, scalability, pay-as-you-go, service model (service delivery model), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model |
+| 2 | high availability |
+| 4 | cloud computing (cloud environment), deployment model, hybrid cloud |
+| 6 | Infrastructure Platform (IaaS), Application Platform (PaaS / aPaaS), Software Platform (SaaS) |
+| 7 | cloud consumer, cloud provider, cloud auditor, cloud broker, cloud carrier, cloud deployment model, community cloud, hybrid cloud, multi-cloud, cloud service model, reliability, governance |
+
+**CST8912 Cloud Solution Architecture**
+
+| Week | Terms in the course |
+|---|---|
+| 1 | deployment model, public cloud, private cloud, hybrid cloud, multi-cloud, service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model, resource pooling, elasticity, scalability, high availability, pay-as-you-go, capital expenditure (CapEx), operational expenditure (OpEx) |
+| 3 | deployment model |
+| 5 | dynamic scalability, governance |
+| 6 | cloud provider, hybrid cloud, multi-cloud, shared responsibility model, reliability, cloud governance |
+
+**CST8913 Cloud Migration**
+
+| Week | Terms in the course |
+|---|---|
+| 2 | cloud computing, cloud provider, deployment model (cloud model), public cloud, private cloud, hybrid cloud, multi-cloud, service model (service type), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model, scalability, high availability, consumption-based model, capital expenditure (CapEx), operational expenditure (OpEx) |
+| 3 | elasticity, CapEx to OpEx shift |
+
+**CST8915 Full-stack Cloud-native Development**
+
+| Week | Terms in the course |
+|---|---|
+| 1 | cloud computing, public cloud, private cloud, hybrid cloud, service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), scalability, elasticity, pay-as-you-go (pay for what you use) |
+| 2 | high availability |
+| 4 | resource pooling, rapid elasticity |
+
+**CST8916 Remote Data and Real-time Applications**
+
+| Week | Terms in the course |
+|---|---|
+| 1 | cloud computing, public cloud, private cloud, hybrid cloud, service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), scalability, elasticity, reliability, pay-as-you-go |
+| 5 | multi-cloud, high availability |
+| 6 | service model |
 
 ## References
 

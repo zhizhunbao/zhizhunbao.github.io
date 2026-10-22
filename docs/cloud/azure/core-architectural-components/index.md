@@ -24,13 +24,47 @@ ms.date: 2026-10-22
 |---|---|
 | AZ-900 Microsoft Azure Fundamentals | [Describe Azure architecture and services (35–40%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#describe-azure-architecture-and-services-3540) |
 
-| Course | Weeks | Groups |
-|---|---|---|
-| CST8911 Introduction to Cloud Computing | 1, 2, 3 | Physical infrastructure, management infrastructure |
-| CST8912 Cloud Solution Architecture | 1, 2, 3, 4, 5, 6 | Physical infrastructure, management infrastructure |
-| CST8913 Cloud Migration | 2, 3, 5, 6 | Physical infrastructure, management infrastructure |
-| CST8915 Full-stack Cloud-native Development | 2, 3 | Management infrastructure |
-| CST8916 Remote Data and Real-time Applications | 1, 3, 5, 6 | Management infrastructure |
+**CST8911 Introduction to Cloud Computing**
+
+| Week | Terms in the course |
+|---|---|
+| 1 | subscription |
+| 2 | region, availability zone (AZ), resource group |
+| 3 | Azure resource |
+| 4 | data center |
+
+**CST8912 Cloud Solution Architecture**
+
+| Week | Terms in the course |
+|---|---|
+| 1 | subscription |
+| 2 | region, availability zone, resource, resource group, subscription ID |
+| 3 | datacenter, region, primary region, secondary region, availability zone |
+| 4 | Availability Zone-enabled region, region pair, primary region, secondary region |
+| 6 | management group, multi-subscription environment |
+
+**CST8913 Cloud Migration**
+
+| Week | Terms in the course |
+|---|---|
+| 2 | datacenter, region, management group |
+| 3 | availability zone, data sovereignty, resource group |
+| 6 | Azure account |
+
+**CST8915 Full-stack Cloud-native Development**
+
+| Week | Terms in the course |
+|---|---|
+| 1 | data center |
+| 2 | region, resource, resource group, subscription |
+| 3 | subscription |
+
+**CST8916 Remote Data and Real-time Applications**
+
+| Week | Terms in the course |
+|---|---|
+| 1 | resource, subscription |
+| 3 | Azure resource |
 
 ## References
 
