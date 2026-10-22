@@ -43,6 +43,19 @@ items:
     href: containers/azure-container-services.md
 - name: "5. Networking"
   href: networking/index.md
+  items:
+  - name: "5.1 Networking foundation"
+    href: networking/networking-foundation.md
+  - name: "5.2 Load balancing and content delivery"
+    href: networking/load-balancing-and-content-delivery.md
+  - name: "5.3 Hybrid connectivity"
+    href: networking/hybrid-connectivity.md
+  - name: "5.4 Network security"
+    href: networking/network-security.md
+  - name: "5.5 Network management and monitoring"
+    href: networking/network-management-and-monitoring.md
+  - name: "5.6 Container networking"
+    href: networking/container-networking.md
 - name: "6. Storage"
   href: storage/index.md
 - name: "7. Databases"
