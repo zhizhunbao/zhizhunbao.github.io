@@ -26,45 +26,45 @@ ms.date: 2026-10-22
 
 **CST8911 Introduction to Cloud Computing**
 
-| Week | Terms in the course |
-|---|---|
-| 1 | **Management infrastructure**: subscription |
-| 2 | **Physical infrastructure**: region, availability zone (AZ)<br>**Management infrastructure**: resource group |
-| 3 | **Management infrastructure**: Azure resource |
-| 4 | **Physical infrastructure**: data center |
+| Week | Terms in the course | Source |
+|---|---|---|
+| 1 | **Management infrastructure**: subscription | Course Section Information (CSI): Azure subscription and budget |
+| 2 | **Physical infrastructure**: region, availability zone (AZ)<br>**Management infrastructure**: resource group | Introduction to Cloud Computing (Lecture 2): slide 5<br>Lab 1: Storage: Resource groups and cleanup (task 8) |
+| 3 | **Management infrastructure**: Azure resource | Lab 2: Azure Functions: Cleanup (task 5) |
+| 4 | **Physical infrastructure**: data center | Introduction to Cloud Computing (Lecture 3): slide 3 |
 
 **CST8912 Cloud Solution Architecture**
 
-| Week | Terms in the course |
-|---|---|
-| 1 | **Management infrastructure**: subscription |
-| 2 | **Physical infrastructure**: region, availability zone<br>**Management infrastructure**: resource, resource group |
-| 3 | **Physical infrastructure**: datacenter, region, availability zone |
-| 4 | **Physical infrastructure**: region pair |
-| 6 | **Management infrastructure**: management group |
+| Week | Terms in the course | Source |
+|---|---|---|
+| 1 | **Management infrastructure**: subscription | How to connect to Azure (resource guide): slide 18 |
+| 2 | **Physical infrastructure**: region, availability zone<br>**Management infrastructure**: resource, resource group | Provisioning and Managing an Azure Virtual Machine (Lab 1): Organizing resources (Prerequisites, Task 1), Virtual machine settings (Tasks 2, 5) |
+| 3 | **Physical infrastructure**: datacenter, region, availability zone | Design Cloud Networking Solution: slides 6, 8 |
+| 4 | **Physical infrastructure**: region pair | Design Cloud Storage Solution: slide 13 |
+| 6 | **Management infrastructure**: management group | Graded Lab Activity 5: Microsoft Entra ID users, groups and RBAC (Lab 5): Task 3: Implement Management Groups |
 
 **CST8913 Cloud Migration**
 
-| Week | Terms in the course |
-|---|---|
-| 2 | **Physical infrastructure**: datacenter, region<br>**Management infrastructure**: management group |
-| 3 | **Physical infrastructure**: availability zone, data sovereignty<br>**Management infrastructure**: resource group |
-| 6 | **Management infrastructure**: Azure account |
+| Week | Terms in the course | Source |
+|---|---|---|
+| 2 | **Physical infrastructure**: datacenter, region<br>**Management infrastructure**: management group | Introduction to Cloud Computing: slide 7<br>Cloud Migration (slides 18–20 + Lab 2): Migration execution and operations (Lab 2)<br>Cloud Adoption Framework (CAF) (Online Quiz reading module): Manage and Secure (Units 9–10) |
+| 3 | **Physical infrastructure**: availability zone, data sovereignty<br>**Management infrastructure**: resource group | Target Cloud Architecture: slide 6<br>Cloud adoption strategy: slide 6 |
+| 6 | **Management infrastructure**: Azure account | Refactoring Migration: slide 8 |
 
 **CST8915 Full-stack Cloud-native Development**
 
-| Week | Terms in the course |
-|---|---|
-| 1 | **Physical infrastructure**: data center |
-| 2 | **Physical infrastructure**: region<br>**Management infrastructure**: resource, resource group, subscription |
-| 3 | **Management infrastructure**: subscription |
+| Week | Terms in the course | Source |
+|---|---|---|
+| 1 | **Physical infrastructure**: data center | Introduction to Cloud-Native Applications: slide 24 |
+| 2 | **Physical infrastructure**: region<br>**Management infrastructure**: resource, resource group, subscription | Azure Virtual Machines and Networking (Lab 1 + announcement): Subscriptions and resources |
+| 3 | **Management infrastructure**: subscription | Microservices: slide 31 |
 
 **CST8916 Remote Data and Real-time Applications**
 
-| Week | Terms in the course |
-|---|---|
-| 1 | **Management infrastructure**: resource, subscription |
-| 3 | **Management infrastructure**: Azure resource |
+| Week | Terms in the course | Source |
+|---|---|---|
+| 1 | **Management infrastructure**: resource, subscription | Introduction to Remote Data and Real-time Applications: slides 43, 44, 45 |
+| 3 | **Management infrastructure**: Azure resource | Assignment 1: REST API Extension: Deploy to Azure App Service and Video Demo (Parts 4–5) |
 
 ## References
 
