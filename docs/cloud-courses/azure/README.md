@@ -33,15 +33,15 @@ Not used by any course yet, so no folder: Developer Tools, Hybrid + multicloud, 
 ## Files (level 2: inside a topic folder)
 
 - `README.md`: the folder's own contract: the allowed sub-pages and, for each, its allowed sections.
-- `index.md`: the topic overview. H1 is `<No.>. <Title>`. It opens with one big classification figure: an outer frame named after the topic (top left) holding its parts, grouped by kind in dashed groups, names only, no connecting lines and no section numbers. Parts taught in a course are blue; parts in the official sources but not taught yet are grey dashed. Architecture and process figures belong in the sub-pages. Right below the figure comes one term table, `Term | Definition | 中文翻译 | Source`, with one row per group in the figure, in figure order: the official definition quoted with its key words bolded, the Chinese translation with the same key words bolded in the same order, and the source with section and paragraph. Then, in this order: `## Coverage` (certifications and courses that cover the topic) and `## References` (the official sources, APA). No `## Contents` section: the left menu already lists the sub-pages.
-- One file per sub-page, listed in the folder README. A sub-page is one official service or document (for example `virtual-network.md` for Azure Virtual Network), titled with its official name, numbered `<No.>.<n>` in official order.
+- `index.md`: the topic overview. H1 is `<No.>. <Title>`. It opens with one big classification figure: an outer frame named after the topic (top left) holding its parts, grouped by kind in dashed groups, names only, no connecting lines and no section numbers. Parts taught in a course are blue; parts in the official sources but not taught yet are grey dashed. Architecture and process figures belong in the sub-pages. Right below the figure comes one term table, `Term | Definition | 中文翻译 | Source`, with one row per group in the figure, in figure order, each term linking to its sub-page: the official definition quoted with its key words bolded, the Chinese translation with the same key words bolded in the same order, and the source with section and paragraph. Then, in this order: `## Coverage` (certifications and courses that cover the topic) and `## References` (the official sources, APA). No `## Contents` section: the left menu already lists the sub-pages.
+- One file per sub-page, listed in the folder README. The sub-pages are the groups of the topic figure, one page per dashed group, in figure order, titled with the group name and numbered `<No.>.<n>` (for example `1.1 Deployment models`). The menu, the figure and the term table under it therefore show the same second level.
 - `media/`: the figures, drawn by us in draw.io (no copied images).
 
 Nothing else.
 
 ## Sections (level 3: inside a sub-page)
 
-- H2 sections are the parts of the sub-page's official documentation, word for word and in its order (`<No.>.<n>.<m> <name>`), as listed in the folder README. A page may leave a part out but may not add one.
+- H2 sections are the parts inside that group of the figure (the boxes), with their names and in figure order (`<No.>.<n>.<m> <name>`), as listed in the folder README. A page may leave a part out but may not add one; a new part is added to the figure first. Each sub-page lists its official sources under the H1.
 - H3 is free, in sentence case.
 - Each H2 has one figure and one term table: `Term | Definition | 中文解释 | Courses`. Definitions quote official documentation with section, paragraph and `#:~:text=` anchor; my own words only where no official definition exists. `Courses` names the course and week, such as `CST8911 W7`.
 - A term appears in one place only in the whole folder. Other places link to it.

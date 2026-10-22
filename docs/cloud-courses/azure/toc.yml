@@ -2,16 +2,18 @@ items:
 - name: "1. Cloud concepts"
   href: cloud-concepts/index.md
   items:
-  - name: "1.1 Describe cloud computing"
-    href: cloud-concepts/describe-cloud-computing.md
-  - name: "1.2 Describe the benefits of using cloud services"
-    href: cloud-concepts/describe-the-benefits-of-using-cloud-services.md
-  - name: "1.3 Describe cloud service types"
-    href: cloud-concepts/describe-cloud-service-types.md
-  - name: "1.4 The NIST Definition of Cloud Computing"
-    href: cloud-concepts/the-nist-definition-of-cloud-computing.md
-  - name: "1.5 NIST Cloud Computing Reference Architecture"
-    href: cloud-concepts/nist-cloud-computing-reference-architecture.md
+  - name: "1.1 Deployment models"
+    href: cloud-concepts/deployment-models.md
+  - name: "1.2 Service models"
+    href: cloud-concepts/service-models.md
+  - name: "1.3 Actors"
+    href: cloud-concepts/actors.md
+  - name: "1.4 Essential characteristics"
+    href: cloud-concepts/essential-characteristics.md
+  - name: "1.5 Benefits"
+    href: cloud-concepts/benefits.md
+  - name: "1.6 Consumption-based model"
+    href: cloud-concepts/consumption-based-model.md
 - name: "2. Core architectural components of Azure"
   href: core-architectural-components/index.md
 - name: "3. Compute"
