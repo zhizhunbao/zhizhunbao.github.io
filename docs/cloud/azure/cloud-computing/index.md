@@ -36,7 +36,7 @@ ms.date: 2026-10-21
 | 2 | **Benefits**: high availability | Introduction to Cloud Computing (Lecture 2): slide 5 |
 | 4 | **Cloud computing**: cloud computing (cloud environment)<br>**Deployment models**: deployment model, hybrid cloud | Introduction to Cloud Computing (Lecture 3): slides 4, 5 |
 | 6 | **Service models**: Infrastructure Platform (IaaS), Application Platform (PaaS / aPaaS), Software Platform (SaaS) | Introduction to Cloud Computing (Lecture 5): slide 7 |
-| 7 | **Deployment models**: cloud deployment model, community cloud, hybrid cloud, multi-cloud<br>**Service models**: cloud service model<br>**Actors**: cloud consumer, cloud provider, cloud auditor, cloud broker, cloud carrier<br>**Benefits**: reliability, governance | Introduction to Cloud Computing (Lecture 6): slides 3, 5, 9, 10, 15 |
+| 7 | **Cloud computing**: National Institute of Standards and Technology (NIST)<br>**Deployment models**: cloud deployment model, community cloud, hybrid cloud, multi-cloud<br>**Service models**: cloud service model<br>**Actors**: cloud consumer, cloud provider, cloud auditor, cloud broker, cloud carrier<br>**Benefits**: reliability, governance | Introduction to Cloud Computing (Lecture 6): slides 3, 5, 9, 10, 15 |
 
 **CST8912 Cloud Solution Architecture**
 

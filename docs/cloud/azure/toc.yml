@@ -58,6 +58,17 @@ items:
     href: networking/container-networking.md
 - name: "6. Storage"
   href: storage/index.md
+  items:
+  - name: "6.1 Storage accounts"
+    href: storage/storage-accounts.md
+  - name: "6.2 Storage redundancy"
+    href: storage/storage-redundancy.md
+  - name: "6.3 Storage services"
+    href: storage/storage-services.md
+  - name: "6.4 Data migration options"
+    href: storage/data-migration-options.md
+  - name: "6.5 File movement options"
+    href: storage/file-movement-options.md
 - name: "7. Databases"
   href: databases/index.md
 - name: "8. Integration"
