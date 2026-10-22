@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/overview-of-application-migration-examples-for-azure.html
+redirect_url: lectures/adopt.html#rehost
 ---

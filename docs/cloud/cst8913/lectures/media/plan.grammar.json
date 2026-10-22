@@ -1,0 +1,658 @@
+{
+ "digital estate": {
+  "verbs": [
+   [
+    "starts with",
+    0
+   ],
+   [
+    "are referred to as",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "都是",
+    0
+   ],
+   [
+    "统称为",
+    0
+   ]
+  ]
+ },
+ "cloud rationalization": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Rehost": {
+  "verbs": [
+   [
+    "moves",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "迁移",
+    1
+   ]
+  ]
+ },
+ "lift and shift": {
+  "verbs": [
+   [
+    "set up",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "设置",
+    0
+   ]
+  ]
+ },
+ "Refactor": {
+  "verbs": [
+   [
+    "can reduce",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以降低",
+    0
+   ]
+  ]
+ },
+ "Rearchitect": {
+  "verbs": [
+   [
+    "aren't compatible with",
+    0
+   ],
+   [
+    "is because of",
+    0
+   ],
+   [
+    "might need to be rearchitected",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "不兼容",
+    0
+   ],
+   [
+    "是由于",
+    0
+   ],
+   [
+    "可能需要先重新架构",
+    0
+   ]
+  ]
+ },
+ "cloud-native": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Rebuild": {
+  "verbs": [
+   [
+    "can be",
+    0
+   ],
+   [
+    "create",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可能",
+    0
+   ],
+   [
+    "创建",
+    0
+   ]
+  ]
+ },
+ "Replace": {
+  "verbs": [
+   [
+    "can provide",
+    0
+   ],
+   [
+    "can be scheduled for",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "提供",
+    0
+   ],
+   [
+    "安排在",
+    0
+   ]
+  ]
+ },
+ "migration strategy": {
+  "verbs": [
+   [
+    "defines",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "定义",
+    0
+   ]
+  ]
+ },
+ "business goal": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "business driver": {
+  "verbs": [
+   [
+    "defines",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "定义了",
+    0
+   ]
+  ]
+ },
+ "Retire": {
+  "verbs": [
+   [
+    "decommissions",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "退役",
+    0
+   ]
+  ]
+ },
+ "Replatform": {
+  "verbs": [
+   [
+    "moves",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "迁移",
+    0
+   ]
+  ]
+ },
+ "Retain": {
+  "verbs": [
+   [
+    "keeps",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "保留",
+    1
+   ]
+  ]
+ },
+ "agentless discovery": {
+  "verbs": [
+   [
+    "uses",
+    0
+   ],
+   [
+    "collects",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "使用",
+    0
+   ],
+   [
+    "收集",
+    0
+   ]
+  ]
+ },
+ "Azure Migrate project": {
+  "verbs": [
+   [
+    "is used",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "用于",
+    0
+   ]
+  ]
+ },
+ "group (Azure Migrate)": {
+  "verbs": [
+   [
+    "can create",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以创建",
+    0
+   ]
+  ]
+ },
+ "Ready for Azure": {
+  "verbs": [
+   [
+    "can be migrated",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以按原样迁移",
+    0
+   ]
+  ]
+ },
+ "Conditionally ready for Azure": {
+  "verbs": [
+   [
+    "can be migrated",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以迁移",
+    0
+   ]
+  ]
+ },
+ "Not ready for Azure": {
+  "verbs": [
+   [
+    "can't be migrated",
+    0
+   ],
+   [
+    "must be fixed",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "无法按原样迁移",
+    0
+   ],
+   [
+    "修复",
+    0
+   ]
+  ]
+ },
+ "Readiness unknown": {
+  "verbs": [
+   [
+    "can't determine",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "无法确定",
+    0
+   ]
+  ]
+ },
+ "performance-based sizing": {
+  "verbs": [
+   [
+    "helps",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可帮助",
+    0
+   ]
+  ]
+ },
+ "as on-premises (as-is) sizing": {
+  "verbs": [
+   [
+    "can get",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以获取",
+    0
+   ]
+  ]
+ },
+ "database assessment": {
+  "verbs": [
+   [
+    "can assess",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以评估",
+    0
+   ]
+  ]
+ },
+ "RACI matrix": {
+  "verbs": [
+   [
+    "Align",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "协调",
+    0
+   ]
+  ]
+ },
+ "Responsible": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Accountable": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Consulted": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "Informed": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "cloud adoption team": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "drives",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "推动",
+    0
+   ]
+  ]
+ },
+ "cloud governance team": {
+  "verbs": [
+   [
+    "is dedicated to",
+    0
+   ],
+   [
+    "is accountable for",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "致力于",
+    0
+   ],
+   [
+    "负责",
+    0
+   ]
+  ]
+ },
+ "central IT team": {
+  "verbs": [
+   [
+    "might struggle to keep pace with",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可能难以跟上",
+    0
+   ]
+  ]
+ },
+ "cloud center of excellence (CCoE)": {
+  "verbs": [
+   [
+    "aligns",
+    0
+   ],
+   [
+    "provides",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "协调",
+    0
+   ],
+   [
+    "提供",
+    0
+   ]
+  ]
+ },
+ "solution delivery": {
+  "verbs": [
+   [
+    "enable",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "支持",
+    0
+   ]
+  ]
+ },
+ "platform operations": {
+  "verbs": [
+   [
+    "Operate and manage",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "运行并管理",
+    0
+   ]
+  ]
+ },
+ "workload prioritization": {
+  "verbs": [
+   [
+    "can identify",
+    0
+   ],
+   [
+    "consider",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以确定",
+    0
+   ],
+   [
+    "考虑",
+    0
+   ]
+  ]
+ },
+ "blocker": {
+  "verbs": [
+   [
+    "review and mitigate",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "检查并缓解",
+    0
+   ]
+  ]
+ },
+ "migration plan": {
+  "verbs": [
+   [
+    "Create",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "制定",
+    0
+   ]
+  ]
+ },
+ "migration wave": {
+  "verbs": [
+   [
+    "plan",
+    0
+   ],
+   [
+    "Identify",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "规划",
+    0
+   ],
+   [
+    "确定",
+    0
+   ]
+  ]
+ },
+ "maintenance window": {
+  "verbs": [
+   [
+    "Build",
+    0
+   ],
+   [
+    "Declare",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "制定",
+    0
+   ],
+   [
+    "声明",
+    0
+   ]
+  ]
+ },
+ "recovery time objective (RTO)": {
+  "verbs": [],
+  "zhVerbs": []
+ },
+ "post-migration testing": {
+  "verbs": [
+   [
+    "should include",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "应包括",
+    0
+   ]
+  ]
+ }
+}

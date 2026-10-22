@@ -12,10 +12,10 @@ Lab 3 of CST8913 Cloud Migration (week 3): design the same application once on I
 
 | # | Concept | Explained in |
 |---|---|---|
-| 1 | [IaaS](#1-iaas) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md)<br>[7. Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md) |
+| 1 | [IaaS](#1-iaas) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md)<br>[10. Azure Architecture Center](../lectures/azure-architecture-center.md) |
 | 2 | [shared responsibility](#2-shared-responsibility) | [3. Describe cloud computing](../lectures/describe-cloud-computing.md)<br>[4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
-| 3 | [VNet, subnets, NSGs and load balancers](#3-vnet-subnets-nsgs-and-load-balancers) | [7. Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md) |
-| 4 | [availability zone](#4-availability-zone) | [7. Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md) |
+| 3 | [VNet, subnets, NSGs and load balancers](#3-vnet-subnets-nsgs-and-load-balancers) | [10. Azure Architecture Center](../lectures/azure-architecture-center.md) |
+| 4 | [availability zone](#4-availability-zone) | [10. Azure Architecture Center](../lectures/azure-architecture-center.md) |
 | 5 | [PaaS](#5-paas) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
 | 6 | [IaaS or PaaS](#6-iaas-or-paas) | [3. Describe cloud computing](../lectures/describe-cloud-computing.md)<br>[4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
 | 7 | [SaaS](#7-saas) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
@@ -28,7 +28,7 @@ Lab 3 of CST8913 Cloud Migration (week 3): design the same application once on I
 
 Every piece of software runs on virtual machines that we build and maintain; Azure provides only the VMs, their disks, and the network. Following the lecture's N-tier reference architecture, each tier has its own subnet and two VMs in different availability zones.
 
-Explained in [4. Describe cloud service types](../lectures/describe-cloud-service-types.md), [7. Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md).
+Explained in [4. Describe cloud service types](../lectures/describe-cloud-service-types.md), [10. Azure Architecture Center](../lectures/azure-architecture-center.md).
 
 ## 2. Shared responsibility
 
@@ -49,7 +49,7 @@ Explained in [3. Describe cloud computing](../lectures/describe-cloud-computing.
 | **Web VMs (Nginx)** | Serve the React files and forward `/api` requests to the internal load balancer |
 | **Internal LB VMs (HAProxy + keepalived)** | Spread `/api` requests across the Flask VMs through one private IP |
 
-Explained in [7. Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md).
+Explained in [10. Azure Architecture Center](../lectures/azure-architecture-center.md).
 
 ## 4. Availability zone
 
@@ -57,7 +57,7 @@ Explained in [7. Windows N-tier application on Azure](../lectures/windows-n-tier
 
 Following the lecture's N-tier reference architecture, each tier has its own subnet and two VMs in different availability zones.
 
-Explained in [7. Windows N-tier application on Azure](../lectures/windows-n-tier-application-on-azure.md).
+Explained in [10. Azure Architecture Center](../lectures/azure-architecture-center.md).
 
 ## 5. PaaS
 

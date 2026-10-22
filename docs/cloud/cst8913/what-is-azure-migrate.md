@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/what-is-azure-migrate.html
+redirect_url: lectures/adopt.html#azure-migrate
 ---

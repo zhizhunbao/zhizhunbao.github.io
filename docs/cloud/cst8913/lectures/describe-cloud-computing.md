@@ -6,7 +6,11 @@ ms.date: 2026-10-19
 
 # Describe cloud computing
 
-Study notes on [Microsoft Learn module (AZ-900)](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 2. Each section follows one part of the source. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The main verb of each sentence has a red wavy underline, in the English and in the Chinese.
+Study notes on [Microsoft Learn module (AZ-900)](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/), which CST8913 Cloud Migration (Algonquin College, Fall 2026) uses in week 2. Each section links the official page it follows; a section the course has not covered yet is a placeholder. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The main verb of each sentence has a red wavy underline, in the English and in the Chinese.
+
+## [Overview](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/)
+
+![Diagram: Overview](media/describe-cloud-computing-0.png)
 
 ## [What is cloud computing](https://web.archive.org/web/20250108132404/https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/3-what-cloud-compute)
 

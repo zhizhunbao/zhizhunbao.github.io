@@ -12,15 +12,15 @@ Lab 5 of CST8913 Cloud Migration (week 5): state the business drivers and the mi
 
 | # | Concept | Explained in |
 |---|---|---|
-| 1 | [business drivers](#1-business-drivers) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
-| 2 | [rehost (lift and shift)](#2-rehost-lift-and-shift) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md)<br>[10. What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md) |
-| 3 | [rehost or replatform](#3-rehost-or-replatform) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
-| 4 | [Azure VMware Solution](#4-azure-vmware-solution) | [10. What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md) |
-| 5 | [migration phases](#5-migration-phases) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md)<br>[9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
-| 6 | [migration waves](#6-migration-waves) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 7 | [test migration](#7-test-migration) | [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
-| 8 | [cutover](#8-cutover) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md)<br>[9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
-| 9 | [replication](#9-replication) | [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
+| 1 | [business drivers](#1-business-drivers) | [7. Plan](../lectures/plan.md) |
+| 2 | [rehost (lift and shift)](#2-rehost-lift-and-shift) | [7. Plan](../lectures/plan.md)<br>[8. Adopt](../lectures/adopt.md) |
+| 3 | [rehost or replatform](#3-rehost-or-replatform) | [7. Plan](../lectures/plan.md) |
+| 4 | [Azure VMware Solution](#4-azure-vmware-solution) | [8. Adopt](../lectures/adopt.md) |
+| 5 | [migration phases](#5-migration-phases) | [7. Plan](../lectures/plan.md)<br>[8. Adopt](../lectures/adopt.md) |
+| 6 | [migration waves](#6-migration-waves) | [7. Plan](../lectures/plan.md)<br>[8. Adopt](../lectures/adopt.md) |
+| 7 | [test migration](#7-test-migration) | [8. Adopt](../lectures/adopt.md) |
+| 8 | [cutover](#8-cutover) | [7. Plan](../lectures/plan.md)<br>[8. Adopt](../lectures/adopt.md) |
+| 9 | [replication](#9-replication) | [8. Adopt](../lectures/adopt.md) |
 
 ## 1. Business drivers
 
@@ -29,7 +29,7 @@ Lab 5 of CST8913 Cloud Migration (week 5): state the business drivers and the mi
 1. **Aging on-premises infrastructure (F1, F2).** Over 400 servers and 200 applications built up over 45 years were costly to modernize, and the old technology made it hard to hire and keep IT staff.
 2. **State legislation (F3).** The 2021 law encouraged agencies to use the cloud for efficiency, resiliency, better customer experience, and stronger cybersecurity.
 
-Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 2. Rehost (lift and shift)
 
@@ -40,7 +40,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 - **Safe partial progress (F5, F6).** Waves of whole environments meant a half-finished migration still worked.
 - **Modernize later (F7).** Once out of the datacenters, L&I improves applications one at a time.
 
-Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md), [10. What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md).
+Explained in [7. Plan](../lectures/plan.md), [8. Adopt](../lectures/adopt.md).
 
 ## 3. Rehost or replatform
 
@@ -50,7 +50,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 - **Replatforming** makes small changes during the move so the workload can use a managed platform, without rewriting it. For example, a SQL Server database moves from a VM to Azure SQL Managed Instance, or an application moves into containers.
 - Replatforming cuts more operations work but needs more testing for each application, so it is slower. L&I rehosted first for speed and is replatforming afterwards (F7).
 
-Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 4. Azure VMware Solution
 
@@ -58,7 +58,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 ![Migration from on-premises VMware to Azure VMware Solution: application, database, AD DS/DNS VMs and vCenter run in the on-premises vSphere datacenter; an ExpressRoute circuit with Global Reach links it privately to an Azure VMware Solution private cloud (vCenter Server, NSX and vSAN on dedicated bare-metal hosts); HCX Connector on premises and HCX Cloud Manager in Azure migrate the VMs in waves (a pilot of about 10 VMs, then about 75 per wave) and extend networks so VMs keep their IPs; the private cloud connects to an Azure virtual network with Azure Monitor and Azure Backup; dashed outlines mark assumed components](media/lab5-diagrams-avs-migration.png)
 
-Explained in [10. What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 #### What do vCenter, ESXi, HCX, ExpressRoute Global Reach, NSX and vSAN do in that architecture?
 
@@ -78,7 +78,7 @@ Explained in [10. What is Azure VMware Solution?](../lectures/what-is-azure-vmwa
 | Azure Monitor | Collects metrics and logs from the migrated VMs. |
 | Azure Backup | Backs up the migrated VMs. |
 
-Explained in [10. What is Azure VMware Solution?](../lectures/what-is-azure-vmware-solution.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 ## 5. Migration phases
 
@@ -90,7 +90,7 @@ Explained in [10. What is Azure VMware Solution?](../lectures/what-is-azure-vmwa
 4. **Main waves.** Move about 75 VMs per wave (F6), in maintenance windows outside busy business cycles (F4). Leave the most critical systems, such as workers' compensation claims and payments, for later waves when the team has practice.
 5. **Stabilize and decommission.** After each wave's stabilization period, retire the on-premises copies. Once all waves finish, modernize applications one at a time (F7).
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md), [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md).
+Explained in [7. Plan](../lectures/plan.md), [8. Adopt](../lectures/adopt.md).
 
 ## 6. Migration waves
 
@@ -101,7 +101,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 - Keep shared services (AD DS, DNS) reachable from both sides throughout (A5), and move them last.
 - Order waves from lowest to highest business criticality.
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md), [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [7. Plan](../lectures/plan.md), [8. Adopt](../lectures/adopt.md).
 
 ## 7. Test migration
 
@@ -115,7 +115,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
   - Application owners sign off on key business tasks.
 - **After cutover:** compare response time and resource use with the baseline, and confirm monitoring and backup cover the moved VMs.
 
-Explained in [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 ## 8. Cutover
 
@@ -137,8 +137,8 @@ Explained in [9. Overview of application migration examples for Azure](../lectur
   4. Reconcile any data written in Azure after cutover.
 - Fix the cause before trying the same wave again.
 
-Explained in [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md), [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [8. Adopt](../lectures/adopt.md), [7. Plan](../lectures/plan.md).
 
 ## 9. Replication
 
-My lab does not cover this. See [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md).
+My lab does not cover this. See [8. Adopt](../lectures/adopt.md).
