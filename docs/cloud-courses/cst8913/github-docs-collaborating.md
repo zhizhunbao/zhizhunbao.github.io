@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/github-docs-collaborating.html
+redirect_url: ../../cloud/cst8913/github-docs-collaborating.html
 ---

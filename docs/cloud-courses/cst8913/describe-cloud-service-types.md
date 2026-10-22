@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/describe-cloud-service-types.html
+redirect_url: ../../cloud/cst8913/describe-cloud-service-types.html
 ---

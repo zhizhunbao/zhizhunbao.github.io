@@ -1,3 +1,3 @@
 ---
-redirect_url: ../index.html
+redirect_url: ../../../cloud/cst8913/review/cloud-migration-concepts.html
 ---

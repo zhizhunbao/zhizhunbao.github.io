@@ -8,6 +8,6 @@ items:
 - name: AI
   href: ai-courses/
 - name: Cloud
-  href: cloud-courses/
+  href: cloud/
 - name: Self-study
   href: self-study/index.md

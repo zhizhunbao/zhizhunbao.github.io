@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/overview-of-application-migration-examples-for-azure.html
+redirect_url: ../../cloud/cst8913/overview-of-application-migration-examples-for-azure.html
 ---

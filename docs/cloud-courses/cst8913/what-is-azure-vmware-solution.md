@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/what-is-azure-vmware-solution.html
+redirect_url: ../../cloud/cst8913/what-is-azure-vmware-solution.html
 ---
