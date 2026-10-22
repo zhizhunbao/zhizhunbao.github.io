@@ -1,3 +1,3 @@
 ---
-redirect_url: ../../../cloud/azure/cloud-concepts/deployment-models.html
+redirect_url: ../../../cloud/azure/cloud-computing/deployment-models.html
 ---

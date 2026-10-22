@@ -15,7 +15,7 @@ I started as a Java developer, then spent seven years architecting, building and
 - [Resume](resume/index.md): my experience, education and skills.
 - [Projects](projects/index.md): things I have built and run, one page each.
 - [AI](ai-courses/index.md): the AI Software Development graduate certificate.
-- [Cloud](cloud/azure/cloud-concepts/index.md): study notes for the Cloud Development and Operations program.
+- [Cloud](cloud/azure/cloud-computing/index.md): study notes for the Cloud Development and Operations program.
 - [Self-study](self-study/index.md): courses I take on my own.
 
 ## Contact

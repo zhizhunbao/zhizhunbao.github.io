@@ -519,4 +519,20 @@ async function main() {
   lightbox()
 }
 
+// Local preview only: watch.py rewrites kb-build.txt after each rebuild; reload the page when it changes.
+function liveReload() {
+  if (location.hostname !== 'localhost') return
+  let seen = null
+  const check = async () => {
+    const r = await fetch(`${rel}kb-build.txt`, { cache: 'no-store' }).catch(() => null)
+    if (!r?.ok) return // not served by watch.py
+    const stamp = await r.text()
+    if (seen !== null && stamp !== seen) location.reload()
+    seen = stamp
+    setTimeout(check, 1000)
+  }
+  check()
+}
+
 main()
+liveReload()
