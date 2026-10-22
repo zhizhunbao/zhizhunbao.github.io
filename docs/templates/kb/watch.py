@@ -2,7 +2,7 @@
 
 docfx 2.81 has no watch mode (`docfx --serve` builds once), so this polls the sources every second. After each build
 it writes _site/kb-build.txt; kb.js, on localhost only, polls that file and reloads the page when it changes.
-Run from the repo root (a full build takes about 10 s):
+Run it with start-knowledge-base.bat, or (a full build takes about 10 s):
     python docs/templates/kb/watch.py [port]
 """
 import functools
@@ -33,8 +33,10 @@ def snapshot():
 
 
 def build():
+    """git_times.py first (docfx.build.json = docfx.json plus each page's "Last updated" time), then docfx."""
     start = time.time()
-    r = subprocess.run([str(DOCFX), str(DOCS / "docfx.json")], capture_output=True, text=True, encoding="utf-8",
+    subprocess.run([sys.executable, str(Path(__file__).with_name("git_times.py"))], capture_output=True)
+    r = subprocess.run([str(DOCFX), str(DOCS / "docfx.build.json")], capture_output=True, text=True, encoding="utf-8",
                        errors="replace")
     tail = [line for line in r.stdout.splitlines() if "warning(s)" in line or "error(s)" in line]
     print(f"[{time.strftime('%H:%M:%S')}] built in {time.time() - start:.1f}s: {' '.join(s.strip() for s in tail)}",
