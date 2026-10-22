@@ -1,3 +1,3 @@
 ---
-redirect_url: ../../../cloud/azure/cloud-concepts/essential-characteristics.html
+redirect_url: ../../../cloud/azure/cloud-computing/essential-characteristics.html
 ---

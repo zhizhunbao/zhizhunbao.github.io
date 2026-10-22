@@ -1,3 +1,3 @@
 ---
-redirect_url: ../../../cloud/azure/cloud-concepts/consumption-based-model.html
+redirect_url: ../../../cloud/azure/cloud-computing/consumption-based-model.html
 ---

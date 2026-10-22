@@ -1,3 +1,3 @@
 ---
-redirect_url: azure/cloud-concepts/index.html
+redirect_url: azure/cloud-computing/index.html
 ---

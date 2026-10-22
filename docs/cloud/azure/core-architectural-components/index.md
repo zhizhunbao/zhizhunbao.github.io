@@ -6,18 +6,23 @@ ms.date: 2026-10-22
 
 # 2. Core architectural components of Azure
 
-![Core architectural components of Azure sorted into two groups: physical infrastructure (datacenters, regions, availability zones, region pairs, sovereign regions) and management infrastructure (Azure account, management groups, subscriptions, resource groups, resources).](media/core-architectural-components.png)
+## Classification
+
+![Core architectural components of Azure sorted into two groups: physical infrastructure (datacenters, availability zones, regions, region pairs, sovereign regions) and management infrastructure (resources, resource groups, subscriptions, management groups, Azure account).](media/core-architectural-components.png)
+
+## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
+| **Core architectural components of Azure**<br>Azure 核心体系结构组件 | "Azure's **core architectural components** can be broken down into **two main groupings**: the **physical infrastructure** and the **management infrastructure**." | Azure 的**核心体系结构组件**可以分为**两个主要分组**：**物理基础结构**和**管理基础结构**。 | [Microsoft, n.d., "Describe Azure physical infrastructure" unit, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:~:text=Azure%27s%20core%20architectural%20components%20can%20be%20broken%20down) |
 | **[Physical infrastructure](physical-infrastructure.md)**<br>物理基础结构 | "The **physical infrastructure** for Azure starts with **datacenters**. These datacenters are facilities with **servers arranged in racks**, with dedicated **power, cooling, and networking infrastructure** ..." | Azure 的**物理基础结构**从**数据中心**开始。这些数据中心是一些设施，其中的**服务器排列在机架中**，并配有专用的**电源、冷却和网络基础结构**…… | [Microsoft, n.d., "Describe Azure physical infrastructure" unit, "Physical infrastructure" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:~:text=The%20physical%20infrastructure%20for%20Azure%20starts%20with%20datacenters) |
 | **[Management infrastructure](management-infrastructure.md)**<br>管理基础结构 | "The **management infrastructure** includes Azure **resources and resource groups**, **subscriptions**, and **accounts**." | **管理基础结构**包括 Azure **资源和资源组**、**订阅**以及**帐户**。 | [Microsoft, n.d., "Describe Azure management infrastructure" unit, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/6-describe-azure-management-infrastructure#:~:text=The%20management%20infrastructure%20includes%20Azure%20resources) |
 
 ## Coverage
 
-| Certification | Part of the exam |
+| Certification | Skill area |
 |---|---|
-| AZ-900 Microsoft Azure Fundamentals | [Describe Azure architecture and services (35–40%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#describe-azure-architecture-and-services-3540): Describe the core architectural components of Azure |
+| AZ-900 Microsoft Azure Fundamentals | [Describe Azure architecture and services (35–40%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#describe-azure-architecture-and-services-3540) |
 
 | Course | Weeks | Groups |
 |---|---|---|

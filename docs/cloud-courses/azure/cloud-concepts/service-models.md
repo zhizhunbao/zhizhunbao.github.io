@@ -1,3 +1,3 @@
 ---
-redirect_url: ../../../cloud/azure/cloud-concepts/service-models.html
+redirect_url: ../../../cloud/azure/cloud-computing/service-models.html
 ---

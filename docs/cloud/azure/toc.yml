@@ -1,19 +1,19 @@
 items:
-- name: "1. Cloud concepts"
-  href: cloud-concepts/index.md
+- name: "1. Cloud computing"
+  href: cloud-computing/index.md
   items:
   - name: "1.1 Deployment models"
-    href: cloud-concepts/deployment-models.md
+    href: cloud-computing/deployment-models.md
   - name: "1.2 Service models"
-    href: cloud-concepts/service-models.md
+    href: cloud-computing/service-models.md
   - name: "1.3 Actors"
-    href: cloud-concepts/actors.md
+    href: cloud-computing/actors.md
   - name: "1.4 Essential characteristics"
-    href: cloud-concepts/essential-characteristics.md
+    href: cloud-computing/essential-characteristics.md
   - name: "1.5 Benefits"
-    href: cloud-concepts/benefits.md
+    href: cloud-computing/benefits.md
   - name: "1.6 Consumption-based model"
-    href: cloud-concepts/consumption-based-model.md
+    href: cloud-computing/consumption-based-model.md
 - name: "2. Core architectural components of Azure"
   href: core-architectural-components/index.md
   items:

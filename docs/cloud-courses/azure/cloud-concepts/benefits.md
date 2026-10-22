@@ -1,3 +1,3 @@
 ---
-redirect_url: ../../../cloud/azure/cloud-concepts/benefits.html
+redirect_url: ../../../cloud/azure/cloud-computing/benefits.html
 ---
