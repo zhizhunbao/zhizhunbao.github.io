@@ -16,6 +16,11 @@ items:
     href: cloud-concepts/consumption-based-model.md
 - name: "2. Core architectural components of Azure"
   href: core-architectural-components/index.md
+  items:
+  - name: "2.1 Physical infrastructure"
+    href: core-architectural-components/physical-infrastructure.md
+  - name: "2.2 Management infrastructure"
+    href: core-architectural-components/management-infrastructure.md
 - name: "3. Compute"
   href: compute/index.md
 - name: "4. Containers"

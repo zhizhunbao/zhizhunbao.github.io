@@ -1,11 +1,3 @@
 ---
-title: "17. Azure Well-Architected Framework"
-description: "Microsoft Azure, 17. Azure Well-Architected Framework: overview figure and sub-pages."
-ms.date: 2026-10-21
+redirect_url: ../../../cloud/azure/well-architected-framework/index.html
 ---
-
-# 17. Azure Well-Architected Framework
-
-Official source: [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/).
-
-Not written yet.

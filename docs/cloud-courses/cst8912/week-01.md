@@ -1,3 +1,3 @@
 ---
-redirect_url: glossary/introduction-to-cloud-solution-architecture.html
+redirect_url: ../../cloud/cst8912/week-01.html
 ---

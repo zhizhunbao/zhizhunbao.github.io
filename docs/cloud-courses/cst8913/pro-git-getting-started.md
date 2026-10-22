@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/pro-git-getting-started.html
+redirect_url: ../../cloud/cst8913/pro-git-getting-started.html
 ---

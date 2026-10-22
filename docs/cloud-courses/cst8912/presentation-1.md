@@ -1,3 +1,3 @@
 ---
-redirect_url: presentations/cloud-based-job-search-and-analytics-platform.html
+redirect_url: ../../cloud/cst8912/presentation-1.html
 ---

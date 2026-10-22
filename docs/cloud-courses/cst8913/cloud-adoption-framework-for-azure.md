@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/cloud-adoption-framework-for-azure.html
+redirect_url: ../../cloud/cst8913/cloud-adoption-framework-for-azure.html
 ---
