@@ -23,6 +23,15 @@ items:
     href: core-architectural-components/management-infrastructure.md
 - name: "3. Compute"
   href: compute/index.md
+  items:
+  - name: "3.1 Infrastructure as a service (IaaS)"
+    href: compute/infrastructure-as-a-service.md
+  - name: "3.2 Platform as a service (PaaS)"
+    href: compute/platform-as-a-service.md
+  - name: "3.3 Functions as a service (FaaS)"
+    href: compute/functions-as-a-service.md
+  - name: "3.4 Specialty workloads"
+    href: compute/specialty-workloads.md
 - name: "4. Containers"
   href: containers/index.md
 - name: "5. Networking"
