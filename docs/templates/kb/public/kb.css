@@ -105,8 +105,17 @@
 .layout-body-footer footer { background: var(--theme-body-background-accent); font-size: 14px; padding: 24px; }
 .kb-theme-menu { position: absolute; bottom: calc(100% + 4px); inset-inline-start: 0; z-index: 20; list-style: none; margin: 0; padding: 4px; min-width: 160px; background: var(--theme-body-background); border: 1px solid var(--theme-border); border-radius: 6px; box-shadow: 0 8px 16px rgba(0, 0, 0, .14); }
 
-/* Home page photo */
-.content img[src$="photo.jpg"] { width: 180px; border-radius: 50%; }
+/* Home page profile: photo on the left, name, one-line title and intro on the right (GitHub and LinkedIn profiles);
+   stacked on phones */
+.content .kb-profile { display: flex; gap: 32px; align-items: flex-start; margin-top: 20px; }
+.content .kb-profile > p:first-child { flex: none; margin: 0; }
+.content img[src$="photo.jpg"] { width: 140px; margin: 0; border-radius: 50%; }
+.content .kb-profile h1 { margin: 0 0 4px; }
+.content .kb-profile-text > p:first-of-type { margin-top: 0; color: var(--theme-text-subtle); }
+@media (max-width: 767.98px) {
+  .content .kb-profile { flex-direction: column; gap: 16px; }
+  .content img[src$="photo.jpg"] { width: 112px; }
+}
 
 /* Skip link: hidden until it gets keyboard focus */
 .visually-hidden-until-focused:not(:focus) { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }

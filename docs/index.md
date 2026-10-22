@@ -4,11 +4,20 @@ description: "Peng Wang's knowledge base, with resume, projects and course notes
 ms.date: 2026-10-18
 ---
 
-# Peng Wang
+<div class="kb-profile">
 
 ![Peng Wang](images/photo.jpg)
 
+<div class="kb-profile-text">
+
+# Peng Wang
+
+**Full-stack developer: from code to production**
+
 I started as a Java developer, then spent seven years architecting, building and running a big data platform that handled over a billion smart-TV records a day. Now I build and operate AI agents: [offer2pr.com](https://offer2pr.com) is written with coding agents behind my own guardrails and runs about 60 containers in production. I am studying Cloud Development and Operations at Algonquin College in Ottawa.
+
+</div>
+</div>
 
 ## What is here
 

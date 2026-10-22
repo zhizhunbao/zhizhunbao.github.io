@@ -216,7 +216,8 @@ function outline() {
   }
   // Phones and tablets: the outline sits under the title, first four entries, then "Show N more"
   const center = document.getElementById('center-doc-outline')
-  document.querySelector('.content h1')?.after(center)
+  // after the H1, or after the whole home-page profile card that holds it
+  ;(document.querySelector('.content .kb-profile') || document.querySelector('.content h1'))?.after(center)
   const extra = [...center.querySelectorAll('li')].slice(4)
   if (extra.length) {
     extra.forEach((li) => li.classList.add('is-extra'))
