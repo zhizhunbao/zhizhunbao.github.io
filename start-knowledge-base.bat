@@ -1,6 +1,7 @@
 @echo off
 title Knowledge base (localhost:8080)
-rem Double-click: build the site with each page's last commit time and serve it on http://localhost:8080.
+rem Double-click: serve the site on http://localhost:8080 and rebuild it whenever a file under docs\ changes;
+rem the open page reloads itself after each rebuild (templates\kb\watch.py).
 cd /d "%~dp0docs"
 
 rem Only one instance: if something already listens on 8080, just open the browser.
@@ -11,15 +12,7 @@ if %errorlevel%==0 (
     exit /b 0
 )
 
-echo [knowledge base] Writing docfx.build.json with last commit times ...
-python templates\kb\git_times.py
-if errorlevel 1 (
-    echo [knowledge base] git_times.py failed.
-    pause
-    exit /b 1
-)
-
-echo [knowledge base] Building and serving http://localhost:8080 ... close this window to stop.
-start "" /b cmd /c "timeout /t 30 /nobreak >nul && start "" http://localhost:8080"
-"%USERPROFILE%\.dotnet\tools\docfx.exe" docfx.build.json --serve --port 8080
+echo [knowledge base] Building, serving http://localhost:8080 and watching docs\ ... close this window to stop.
+start "" /b cmd /c "timeout /t 15 /nobreak >nul && start "" http://localhost:8080"
+python -u templates\kb\watch.py 8080
 pause
