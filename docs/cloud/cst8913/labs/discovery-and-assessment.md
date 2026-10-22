@@ -12,16 +12,16 @@ Lab 4 of CST8913 Cloud Migration (week 4): list the digital estate, choose how t
 
 | # | Concept | Explained in |
 |---|---|---|
-| 1 | [digital estate](#1-digital-estate) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 2 | [discovery and assessment](#2-discovery-and-assessment) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 3 | [Azure Migrate appliance](#3-azure-migrate-appliance) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 4 | [dependency analysis](#4-dependency-analysis) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 5 | [readiness](#5-readiness) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 6 | [sizing](#6-sizing) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md)<br>[8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 7 | [cost estimate](#7-cost-estimate) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md) |
-| 8 | [migration plan](#8-migration-plan) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 9 | [rollback](#9-rollback) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 10 | [test migration](#10-test-migration) | [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md) |
+| 1 | [digital estate](#1-digital-estate) | [7. Plan](../lectures/plan.md) |
+| 2 | [discovery and assessment](#2-discovery-and-assessment) | [7. Plan](../lectures/plan.md)<br>[8. Adopt](../lectures/adopt.md) |
+| 3 | [Azure Migrate appliance](#3-azure-migrate-appliance) | [7. Plan](../lectures/plan.md)<br>[8. Adopt](../lectures/adopt.md) |
+| 4 | [dependency analysis](#4-dependency-analysis) | [7. Plan](../lectures/plan.md)<br>[8. Adopt](../lectures/adopt.md) |
+| 5 | [readiness](#5-readiness) | [7. Plan](../lectures/plan.md)<br>[8. Adopt](../lectures/adopt.md) |
+| 6 | [sizing](#6-sizing) | [7. Plan](../lectures/plan.md)<br>[8. Adopt](../lectures/adopt.md) |
+| 7 | [cost estimate](#7-cost-estimate) | [8. Adopt](../lectures/adopt.md) |
+| 8 | [migration plan](#8-migration-plan) | [7. Plan](../lectures/plan.md) |
+| 9 | [rollback](#9-rollback) | [7. Plan](../lectures/plan.md) |
+| 10 | [test migration](#10-test-migration) | [8. Adopt](../lectures/adopt.md) |
 
 ## 1. Digital estate
 
@@ -29,13 +29,13 @@ Lab 4 of CST8913 Cloud Migration (week 4): list the digital estate, choose how t
 
 The digital estate is everything IT runs today: servers, applications, data, and the connections between them. Here it is the five servers above and the applications and data on them.
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 #### Why must you understand the digital estate before planning a migration?
 
 Sizing, cost, and migration order all depend on knowing what exists and how it connects. The inventory here lists only roles and OS versions, so it is a starting point, not a full picture.
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 2. Discovery and assessment
 
@@ -45,7 +45,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 2. **Blockers found too late.** For example, finding at cutover that FILE-01's OS no longer gets security updates.
 3. **Wrong size and cost.** Copying on-premises specs without usage data oversizes most VMs and may undersize DB-01.
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md), [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [7. Plan](../lectures/plan.md), [8. Adopt](../lectures/adopt.md).
 
 #### What information does discovery collect?
 
@@ -54,13 +54,13 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 - **Software:** installed applications, SQL Server version, IIS sites.
 - **Dependencies:** TCP connections between servers, with process and port.
 
-Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 #### What is the difference between discovery and assessment?
 
 Discovery collects facts: what servers exist and how they are configured, used, and connected. Assessment uses those facts to judge each server's Azure readiness, VM size, and monthly cost.
 
-Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 ## 3. Azure Migrate appliance
 
@@ -73,13 +73,13 @@ Discovery is agentless:
 3. Collect for about 30 days to capture peak usage.
 4. Create assessments from the collected data.
 
-Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md), [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [8. Adopt](../lectures/adopt.md), [7. Plan](../lectures/plan.md).
 
 #### What does the Azure Migrate appliance do, and how does it connect to vCenter?
 
 The appliance is a VM deployed on vCenter from an OVA template. It connects to vCenter Server with a read-only account on port 443 and reads VM configuration and performance through the vSphere APIs. With guest credentials, it can also read software inventory, SQL Server details, and network connections inside each VM. Nothing is installed on the five servers.
 
-Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 ## 4. Dependency analysis
 
@@ -87,19 +87,19 @@ Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 
 Turn on agentless dependency analysis in Azure Migrate. It shows each server's TCP connections with process and port. For example, connections to DC-01 on ports 88, 389, or 53 would confirm A2. Then check the results with the application owners.
 
-Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 #### Why does dependency analysis matter?
 
 Servers that depend on each other are moved together, so nothing is left behind or cut off from what it needs.
 
-Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 #### Which servers belong in the same migration group, and why?
 
 **WEB-01 + APP-01 + DB-01.** They form one application and contain the only confirmed dependency (APP-01 → DB-01). Splitting them would send database traffic over the VPN, adding delay and a new point of failure. DC-01 and FILE-01 serve all servers, so they are handled separately.
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 5. Readiness
 
@@ -115,7 +115,7 @@ These are provisional judgments, to be confirmed by the Azure Migrate assessment
 | DC-01 | Conditionally Ready | AD DS runs on Azure VMs, but a domain controller shouldn't be lifted and shifted like a normal server. If it is the only DC (A4), it is a single point of failure. **Missing:** number of DCs, DNS role. | Build a new DC in Azure and let AD replicate; retire DC-01 later. |
 | FILE-01 | Not Ready | Windows Server 2012 R2 is out of support, and its Extended Security Updates end on October 13, 2026. With no security patches after that, this is a blocker. **Missing:** share sizes, users. | Upgrade the OS during migration (Azure Migrate supports 2012 R2 → 2016/2019); test it first. |
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md), [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [7. Plan](../lectures/plan.md), [8. Adopt](../lectures/adopt.md).
 
 ## 6. Sizing
 
@@ -123,14 +123,14 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 The Azure Migrate assessment uses the collected configuration and performance data to recommend a VM size and disk type for each server. It also estimates the monthly compute and storage cost for the chosen region and pricing options.
 
-Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 #### What is the difference between performance-based sizing and as-is sizing?
 
 - **Performance-based sizing** uses actual CPU, memory, and disk usage over time, so VMs are right-sized.
 - **As-is sizing** copies the current on-premises specs without usage data, so VMs are often oversized.
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 7. Cost estimate
 
@@ -140,7 +140,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 2. **Licensing.** Pay-as-you-go includes the licenses, while Azure Hybrid Benefit reuses existing ones.
 3. **Commitment.** Reserved instances cost less than pay-as-you-go.
 
-Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 ## 8. Migration plan
 
@@ -151,7 +151,7 @@ Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
 - **Downtime constraints:** group 1 moves in one maintenance window. Azure Migrate replicates the servers while they keep running, so downtime is limited to the final sync and cutover.
 - **Readiness and remediation:** FILE-01 moves only with its OS upgrade. Group 1 moves only after the SQL assessment re-classifies DB-01 from Insufficient Information to Ready or Conditionally Ready (Section 4).
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 #### In what order would you migrate the workloads, and why?
 
@@ -160,7 +160,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 3. **Group 1 (WEB-01, APP-01, DB-01), in one maintenance window:** it goes last because DB-01 is mission-critical and needs the most preparation, including the SQL assessment.
 4. **Retire DC-01:** only after nothing uses it.
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 9. Rollback
 
@@ -172,7 +172,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
   2. Restart the original servers, which were shut down, not deleted.
   3. Stop the Azure VMs.
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 10. Test migration
 
@@ -180,4 +180,4 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 
 Azure Migrate's test migration creates a copy in an isolated Azure network while the original server keeps running, so users and dependent systems are not affected. After testing, the copy is cleaned up.
 
-Explained in [9. Overview of application migration examples for Azure](../lectures/overview-of-application-migration-examples-for-azure.md).
+Explained in [8. Adopt](../lectures/adopt.md).

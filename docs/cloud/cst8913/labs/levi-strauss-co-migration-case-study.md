@@ -12,12 +12,12 @@ Lab 2 of CST8913 Cloud Migration (week 2): explain why a company moves to the cl
 
 | # | Concept | Explained in |
 |---|---|---|
-| 1 | [motivations](#1-motivations) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
-| 2 | [discovery questions](#2-discovery-questions) | [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md) |
-| 3 | [stakeholders and RACI matrix](#3-stakeholders-and-raci-matrix) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
-| 4 | [the five Rs](#4-the-five-rs) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
-| 5 | [migration schedule](#5-migration-schedule) | [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md) |
-| 6 | [decision criteria](#6-decision-criteria) | [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md) |
+| 1 | [motivations](#1-motivations) | [6. Strategy](../lectures/strategy.md) |
+| 2 | [discovery questions](#2-discovery-questions) | [8. Adopt](../lectures/adopt.md) |
+| 3 | [stakeholders and RACI matrix](#3-stakeholders-and-raci-matrix) | [7. Plan](../lectures/plan.md) |
+| 4 | [the five Rs](#4-the-five-rs) | [7. Plan](../lectures/plan.md) |
+| 5 | [migration schedule](#5-migration-schedule) | [7. Plan](../lectures/plan.md) |
+| 6 | [decision criteria](#6-decision-criteria) | [7. Plan](../lectures/plan.md) |
 | 7 | [cloud models](#7-cloud-models) | [3. Describe cloud computing](../lectures/describe-cloud-computing.md) |
 | 8 | [service types](#8-service-types) | [4. Describe cloud service types](../lectures/describe-cloud-service-types.md) |
 
@@ -31,7 +31,7 @@ Lab 2 of CST8913 Cloud Migration (week 2): explain why a company moves to the cl
 - **Standardization.** One global ERP platform means consistent processes and consistent data.
 - **AI readiness.** Unified data on a standard platform is the foundation for scaling AI and agents.
 
-Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
+Explained in [6. Strategy](../lectures/strategy.md).
 
 ## 2. Discovery questions
 
@@ -47,7 +47,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 | Dependencies | Which applications depend on each other or on the ERP systems, and so must move in the same wave? |
 | Business requirements | How much downtime is acceptable, which retail peak periods must be avoided, and what are the budget and deadline? |
 
-Explained in [6. What is Azure Migrate?](../lectures/what-is-azure-migrate.md).
+Explained in [8. Adopt](../lectures/adopt.md).
 
 ## 3. Stakeholders and RACI matrix
 
@@ -75,7 +75,7 @@ Titles are from the case study; the responsibilities are my proposal.
 | Cut over and decommission the datacenters | I | C | **A** | R | C | C | I |
 | Optimize cost, performance, and resilience | I | C | **A** | R | C | C | C |
 
-Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 4. The five Rs
 
@@ -91,7 +91,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 | Nine regional ERP systems | **Replace** with one global ERP platform | Standard processes and unified data are the main goal |
 | Applications no longer needed | **Retire** | Less to migrate, secure, and pay for |
 
-Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 #### Which migration approach did you recommend first, and why?
 
@@ -100,7 +100,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 1. Every month on-premises costs money. The case study shows the approach works: the datacenter exit shrank from a nine-month plan to about six months, saving 2–3 hours per server.
 2. Rearchitecting 160 applications before moving would delay both the exit and the savings. Improvements can follow one workload at a time once everything runs on Azure.
 
-Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 5. Migration schedule
 
@@ -117,7 +117,7 @@ Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-
 
 The migration (months 3–8) matches the roughly six-month datacenter exit in the case study, while ERP consolidation continues within the company's seven-year digital transformation.
 
-Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 6. Decision criteria
 
@@ -131,7 +131,7 @@ Explained in [8. Prepare for cloud adoption with a data-driven plan](../lectures
 | **Strategic fit:** the DTC model, standard processes, and AI | **Resilience:** backup, disaster recovery, and cross-region replication |
 | | **Operability:** managed services and infrastructure as code |
 
-Explained in [5. Cloud Adoption Framework for Azure](../lectures/cloud-adoption-framework-for-azure.md).
+Explained in [7. Plan](../lectures/plan.md).
 
 ## 7. Cloud models
 

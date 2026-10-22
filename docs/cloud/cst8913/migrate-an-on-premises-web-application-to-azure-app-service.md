@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/migrate-an-on-premises-web-application-to-azure-app-service.html
+redirect_url: lectures/adopt.html#assess-a-web-app
 ---

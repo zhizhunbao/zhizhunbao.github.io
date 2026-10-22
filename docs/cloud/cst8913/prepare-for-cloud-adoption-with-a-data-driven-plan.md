@@ -1,3 +1,3 @@
 ---
-redirect_url: lectures/prepare-for-cloud-adoption-with-a-data-driven-plan.html
+redirect_url: lectures/plan.html#evaluate-the-digital-estate
 ---

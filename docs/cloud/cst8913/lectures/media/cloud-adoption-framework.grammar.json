@@ -1,176 +1,164 @@
 {
- "replication": {
+ "Cloud Adoption Framework (CAF)": {
   "verbs": [
    [
-    "is created",
+    "helps",
     0
    ],
    [
-    "is replicated to",
-    0
-   ],
-   [
-    "begins",
+    "provides",
     0
    ]
   ],
   "zhVerbs": [
    [
-    "创建",
-    0
-   ],
-   [
-    "复制到",
-    0
-   ],
-   [
-    "开始",
-    0
-   ]
-  ]
- },
- "test migration": {
-  "verbs": [
-   [
-    "simulates",
-    0
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "模拟",
-    0
-   ]
-  ]
- },
- "cutover": {
-  "verbs": [
-   [
-    "can perform",
-    0
-   ],
-   [
-    "shuts down",
-    0
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "执行",
-    0
-   ],
-   [
-    "关闭",
-    0
-   ]
-  ]
- },
- "Azure DevOps": {
-  "verbs": [
-   [
-    "Provides",
-    0
-   ],
-   [
-    "starts with",
-    0
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "提供",
-    0
-   ],
-   [
-    "首先包括",
-    0
-   ]
-  ]
- },
- "Data Migration Assistant (DMA)": {
-  "verbs": [
-   [
-    "is",
-    0
-   ],
-   [
-    "helps pinpoint",
-    0
-   ],
-   [
-    "finds",
-    0
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "是",
-    0
-   ],
-   [
-    "有助于找出",
-    0
-   ],
-   [
-    "会找出",
-    0
-   ]
-  ]
- },
- "Azure SQL Managed Instance": {
-  "verbs": [
-   [
-    "is",
-    0
-   ],
-   [
-    "enables",
-    0
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "是",
-    0
-   ],
-   [
-    "使",
-    0
-   ]
-  ]
- },
- "Azure Database for MySQL": {
-  "verbs": [
-   [
-    "is",
-    0
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "是",
-    0
-   ]
-  ]
- },
- "Azure Cosmos DB": {
-  "verbs": [
-   [
-    "is",
-    0
-   ],
-   [
-    "offers",
-    0
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "是",
+    "可帮助",
     0
    ],
    [
     "提供",
+    0
+   ]
+  ]
+ },
+ "Strategy": {
+  "verbs": [
+   [
+    "look like",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是什么样子",
+    0
+   ]
+  ]
+ },
+ "Plan": {
+  "verbs": [
+   [
+    "requires",
+    0
+   ],
+   [
+    "converts",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "需要",
+    0
+   ],
+   [
+    "转化为",
+    0
+   ]
+  ]
+ },
+ "Ready": {
+  "verbs": [
+   [
+    "helps",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可帮助",
+    0
+   ]
+  ]
+ },
+ "CAF Adopt phase": {
+  "verbs": [
+   [
+    "migrate, modernize, and build",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "迁移、现代化和构建",
+    0
+   ]
+  ]
+ },
+ "Govern": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "是",
+    1
+   ]
+  ]
+ },
+ "CAF Secure phase": {
+  "verbs": [
+   [
+    "provides",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "提供了",
+    0
+   ]
+  ]
+ },
+ "Manage": {
+  "verbs": [
+   [
+    "isn't just about",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "不仅仅是",
+    0
+   ]
+  ]
+ },
+ "Azure Architecture Center": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "Azure Well-Architected Framework": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
     0
    ]
   ]

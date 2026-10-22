@@ -51,28 +51,6 @@
    ]
   ]
  },
- "resource group": {
-  "verbs": [
-   [
-    "is",
-    0
-   ],
-   [
-    "are also deleted",
-    0
-   ]
-  ],
-  "zhVerbs": [
-   [
-    "是",
-    0
-   ],
-   [
-    "也会被删除",
-    0
-   ]
-  ]
- },
  "web tier": {
   "verbs": [
    [
@@ -151,6 +129,28 @@
    ],
    [
     "限制",
+    0
+   ]
+  ]
+ },
+ "resource group": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "are also deleted",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "也会被删除",
     0
    ]
   ]
