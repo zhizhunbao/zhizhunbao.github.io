@@ -45,7 +45,9 @@ async function load(url) {
 // Resolve every href in a toc.json against the toc file itself.
 function resolve(items, base, parents = []) {
   for (const it of items || []) {
-    it.url = it.href ? new URL(it.href, base) : null
+    // A node with both a page and children only expands in the tree, so its page becomes an "Overview" child (as on Learn).
+    if (it.href && it.items?.length && it.items[0].href !== it.href) it.items.unshift({ name: 'Overview', href: it.href })
+    it.url = it.href && !it.items?.length ? new URL(it.href, base) : null
     it.tocUrl = it.tocHref ? new URL(it.tocHref.replace(/\.html$/, '.json'), base) : null
     it.parents = parents
     resolve(it.items, base, [...parents, it])
@@ -88,6 +90,11 @@ function content() {
   }
   for (const a of body.querySelectorAll('a[href^="http"]')) {
     if (new URL(a.href).origin !== location.origin) a.setAttribute('data-linktype', 'external')
+  }
+  // Figures are exported at 2x: show them at half their pixels; max-width caps them at the article, the width of its tables.
+  for (const img of body.querySelectorAll('img[src*="media/"]')) {
+    const fix = () => { if (img.naturalWidth) img.style.width = `${Math.round(img.naturalWidth / 2)}px` }
+    img.complete ? fix() : img.addEventListener('load', fix, { once: true })
   }
   quiz()
   grammar(body)

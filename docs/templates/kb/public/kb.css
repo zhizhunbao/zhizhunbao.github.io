@@ -160,12 +160,20 @@ body { line-height: 1.75; }
 .content table.kb-terms td:nth-child(4) { font-size: 13px; color: var(--theme-text-subtle); }
 
 /* Wider than Learn on purpose: this is a reference site read by its owner, with wide term tables.
-   The article fills the whole column between the menu and "In this article", and
-   collapsing the menu gives its width to the article instead of keeping an empty spacer. */
-#main .reading-width { max-inline-size: 100%; padding-inline: 48px; margin-inline: 0 !important; }
+   The article fills the column between the menu and "In this article" up to 1200px of text, so figures and tables
+   share one width and browser zoom enlarges both (as on GitHub); collapsing the menu gives its width to the article
+   instead of keeping an empty spacer. */
+#main .reading-width { max-inline-size: calc(1200px + 96px); padding-inline: 48px; margin-inline: 0 !important; }
 html.layout.layout-menu-collapsed { --layout-menu-spacer-width: 0px !important; }
 /* Side rails stay at 275px on wide screens (Atlas widens them to 320px and 450px); the extra width goes to the article */
 html.layout { --layout-menu-expanded-target-width: 275px !important; --layout-aside-expanded-target-width: 275px !important; }
+/* Below 1600px (a 1920 screen zoomed to 125% or more) "In this article" moves from the right rail to the top of the
+   article, as GitHub folds its sidebar, so zooming gives the article more room instead of less (Atlas waits until 1088px) */
+@media screen and (width < 1600px) {
+  html.layout { --layout-aside-width: 0px !important; }
+  #layout-body-aside { display: none !important; }
+  #center-doc-outline.display-none-desktop:not([hidden]) { display: block !important; }
+}
 @media (max-width: 767.98px) { #main .reading-width { padding-inline: 16px; } }
 
 /* "In this article": H3 entries indented under their H2 */
