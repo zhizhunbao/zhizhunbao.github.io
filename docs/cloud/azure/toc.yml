@@ -34,6 +34,13 @@ items:
     href: compute/specialty-workloads.md
 - name: "4. Containers"
   href: containers/index.md
+  items:
+  - name: "4.1 Docker"
+    href: containers/docker.md
+  - name: "4.2 Kubernetes"
+    href: containers/kubernetes.md
+  - name: "4.3 Azure container services"
+    href: containers/azure-container-services.md
 - name: "5. Networking"
   href: networking/index.md
 - name: "6. Storage"
