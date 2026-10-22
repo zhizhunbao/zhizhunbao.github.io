@@ -70,5 +70,5 @@ if __name__ == "__main__":
         now = snapshot()
         if now != last:
             time.sleep(0.5)  # let an editor or script finish writing
+            last = snapshot()  # taken before the build, so a save during the build triggers the next one
             build()
-            last = snapshot()
