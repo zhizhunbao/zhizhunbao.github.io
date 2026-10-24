@@ -28,45 +28,61 @@ ms.date: 2026-10-22
 
 **CST8911 Introduction to Cloud Computing**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 1 | **IaaS**: virtual machine (VM)<br>**FaaS**: serverless computing, Function as a Service (FaaS) | Introduction to Cloud Computing (Lecture 1): slides 9, 11, 14 |
-| 2 | **IaaS**: Virtual Machine Scale Sets, Spot Virtual Machines | Introduction to Cloud Computing (Lecture 2): slide 5<br>Week 2 readings: Amazon EC2 and Azure Virtual Machines (product pages) |
-| 3 | **FaaS**: Azure Functions | Lab 2: Azure Functions: Function app and hosting plan (tasks 1–2) |
-| 4 | **FaaS**: Azure Functions | Introduction to Cloud Computing (Lecture 3): slide 9 |
-| 6 | **IaaS**: Azure Virtual Machines (Azure VMs)<br>**PaaS**: OpenShift<br>**FaaS**: Function Platform (FaaS) | Introduction to Cloud Computing (Lecture 5): slide 7 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 1 | IaaS | virtual machine (VM) | Lecture 1: slide 9 |
+|  | FaaS | serverless computing<br>Function as a Service (FaaS) | Lecture 1: slides 11, 14 |
+| 2 | IaaS | Virtual Machine Scale Sets<br>Spot Virtual Machines | Lecture 2: slide 5<br>Reading: Amazon EC2 and Azure Virtual Machines (product pages) |
+| 3 | FaaS | Azure Functions | Lab 2: Function app and hosting plan (tasks 1–2) |
+| 4 | FaaS | Azure Functions | Lecture 3: slide 9 |
+| 6 | IaaS | Azure Virtual Machines (Azure VMs) | Lecture 5: slide 7 |
+|  | PaaS | OpenShift | Lecture 5: slide 7 |
+|  | FaaS | Function Platform (FaaS) | Lecture 5: slide 7 |
 
 **CST8912 Cloud Solution Architecture**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 2 | **Compute**: compute service, hosting model<br>**IaaS**: Azure Virtual Machines, Virtual Machine Scale Sets (VMSS), Azure Spot Virtual Machines<br>**PaaS**: Azure App Service, Azure Kubernetes Service (AKS), Azure Container Apps (ACA), Azure Container Instances (ACI), Azure Red Hat OpenShift (ARO), Azure Batch, Azure Spring Apps<br>**FaaS**: Azure Functions, Function as a Service (FaaS)<br>**Specialty workloads**: Azure Service Fabric | Design Cloud Compute Solution: slides 4, 6, 7, 9, 10, 11, 12, 13<br>Provisioning and Managing an Azure Virtual Machine (Lab 1): Virtual machine settings (Tasks 2, 5) |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 2 | Compute | compute service<br>hosting model | Design Cloud Compute Solution: slides 4, 12 |
+|  | IaaS | Azure Virtual Machines<br>Virtual Machine Scale Sets (VMSS)<br>Azure Spot Virtual Machines | Design Cloud Compute Solution: slides 6, 7<br>Lab 1: Virtual machine settings (Tasks 2, 5) |
+|  | PaaS | Azure App Service<br>Azure Kubernetes Service (AKS)<br>Azure Container Apps (ACA)<br>Azure Container Instances (ACI)<br>Azure Red Hat OpenShift (ARO)<br>Azure Batch<br>Azure Spring Apps | Design Cloud Compute Solution: slides 9, 10, 11, 13 |
+|  | FaaS | Azure Functions<br>Function as a Service (FaaS) | Design Cloud Compute Solution: slide 12 |
+|  | Specialty workloads | Azure Service Fabric | Design Cloud Compute Solution: slide 13 |
 
 **CST8913 Cloud Migration**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 2 | **IaaS**: virtual machine (VM)<br>**PaaS**: Azure Kubernetes Service (AKS) | Introduction to Cloud Computing: slide 5<br>Cloud Migration (slides 18–20 + Lab 2): Azure services (Lab 2 case study) |
-| 4 | **IaaS**: Azure Virtual Machines, Azure VMware Solution node | Lab 4 — Cloud Migration Discovery and Assessment (Lab 4): Scenario and On-Premises Environment<br>Migration Assessment Process: slide 7 |
-| 5 | **IaaS**: Azure VMware Solution (AVS) | Lab 5 Rehosting to Microsoft Azure (Lab 5): Questions and submission |
-| 6 | **PaaS**: Azure App Service | Refactoring Migration: slide 7 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 2 | IaaS | virtual machine (VM) | Introduction to Cloud Computing: slide 5 |
+|  | PaaS | Azure Kubernetes Service (AKS) | Lab 2: Azure services (Lab 2 case study) |
+| 4 | IaaS | Azure Virtual Machines<br>Azure VMware Solution node | Lab 4: Scenario and On-Premises Environment<br>Migration Assessment Process: slide 7 |
+| 5 | IaaS | Azure VMware Solution (AVS) | Lab 5: Questions and submission |
+| 6 | PaaS | Azure App Service | Refactoring Migration: slide 7 |
 
 **CST8915 Full-stack Cloud-native Development**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 1 | **IaaS**: virtual machine (VM)<br>**FaaS**: serverless | Introduction to Cloud-Native Applications: slides 33, 37 |
-| 3 | **PaaS**: App Services, Azure Spring Apps<br>**FaaS**: Function Apps | Microservices: slides 32, 33 |
-| 4 | **PaaS**: Azure App Service, Azure Static Web Apps<br>**FaaS**: Azure Functions | Lab 3: Deploying the Algonquin Pet Store on Azure (Lab 3 + slide 33): Understanding Azure Web App and Azure Static Web Apps |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 1 | IaaS | virtual machine (VM) | Introduction to Cloud-Native Applications: slide 37 |
+|  | FaaS | serverless | Introduction to Cloud-Native Applications: slide 33 |
+| 3 | PaaS | App Services<br>Azure Spring Apps | Microservices: slides 32, 33 |
+|  | FaaS | Function Apps | Microservices: slides 32, 33 |
+| 4 | PaaS | Azure App Service<br>Azure Static Web Apps | Lab 3: Understanding Azure Web App and Azure Static Web Apps |
+|  | FaaS | Azure Functions | Lab 3: Understanding Azure Web App and Azure Static Web Apps |
 
 **CST8916 Remote Data and Real-time Applications**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 1 | **IaaS**: virtual machine (VM)<br>**FaaS**: serverless function | Introduction to Remote Data and Real-time Applications: slides 8, 15 |
-| 2 | **IaaS**: VM option (IaaS)<br>**PaaS**: Azure App Service | REST (Representational State Transfer): slides 43, 44, 45 |
-| 5 | **Compute**: compute service<br>**PaaS**: Azure App Service<br>**FaaS**: Azure Functions, Function as a Service (FaaS) | Popular Cloud Services for Real-time Applications I: slides 19, 20, 21, 26 |
-| 6 | **PaaS**: Azure App Service, Azure Spring Apps<br>**FaaS**: Azure Functions | Popular Cloud Services for Real-time Applications II: slides 3, 7 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 1 | IaaS | virtual machine (VM) | Introduction to Remote Data and Real-time Applications: slide 8 |
+|  | FaaS | serverless function | Introduction to Remote Data and Real-time Applications: slide 15 |
+| 2 | IaaS | VM option (IaaS) | REST (Representational State Transfer): slides 43, 44, 45 |
+|  | PaaS | Azure App Service | REST (Representational State Transfer): slides 43, 44, 45 |
+| 5 | Compute | compute service | Popular Cloud Services for Real-time Applications I: slides 19, 20 |
+|  | PaaS | Azure App Service | Popular Cloud Services for Real-time Applications I: slide 21 |
+|  | FaaS | Azure Functions<br>Function as a Service (FaaS) | Popular Cloud Services for Real-time Applications I: slides 19, 20, 26 |
+| 6 | PaaS | Azure App Service<br>Azure Spring Apps | Popular Cloud Services for Real-time Applications II: slides 3, 7 |
+|  | FaaS | Azure Functions | Popular Cloud Services for Real-time Applications II: slide 3 |
 
 ## References
 

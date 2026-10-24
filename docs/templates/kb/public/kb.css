@@ -168,6 +168,14 @@ body { line-height: 1.75; }
 .content table.kb-terms td { overflow-wrap: anywhere; }
 .content table.kb-terms td:nth-child(4) { font-size: 13px; color: var(--theme-text-subtle); }
 
+/* Coverage tables (Week | Group | Terms in the course | Source): same widths in every course table */
+.content table.kb-coverage { table-layout: fixed; }
+.content table.kb-coverage th:nth-child(1) { width: 8%; }
+.content table.kb-coverage th:nth-child(2) { width: 24%; }
+.content table.kb-coverage th:nth-child(3) { width: 38%; }
+.content table.kb-coverage th:nth-child(4) { width: 30%; }
+.content table.kb-coverage td:nth-child(4) { font-size: 13px; color: var(--theme-text-subtle); }
+
 /* Wider than Learn on purpose: this is a reference site read by its owner, with wide term tables.
    The article fills the column between the menu and "In this article" up to 1200px of text, so figures and tables
    share one width and browser zoom enlarges both (as on GitHub); collapsing the menu gives its width to the article

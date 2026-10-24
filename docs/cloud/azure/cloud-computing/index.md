@@ -30,45 +30,80 @@ ms.date: 2026-10-21
 
 **CST8911 Introduction to Cloud Computing**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 1 | **Cloud computing**: cloud computing, Gartner's definition of cloud computing<br>**Deployment models**: public cloud, private cloud, hybrid cloud<br>**Service models**: service model (service delivery model), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model<br>**Actors**: cloud provider<br>**Essential characteristics**: essential characteristics of cloud computing, on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service<br>**Benefits**: scalability<br>**Consumption-based model**: pay-as-you-go | Introduction to Cloud Computing (Lecture 1): slides 3, 4, 5, 6, 7, 8, 10, 13, 14 |
-| 2 | **Benefits**: high availability | Introduction to Cloud Computing (Lecture 2): slide 5 |
-| 4 | **Cloud computing**: cloud computing (cloud environment)<br>**Deployment models**: deployment model, hybrid cloud | Introduction to Cloud Computing (Lecture 3): slides 4, 5 |
-| 6 | **Service models**: Infrastructure Platform (IaaS), Application Platform (PaaS / aPaaS), Software Platform (SaaS) | Introduction to Cloud Computing (Lecture 5): slide 7 |
-| 7 | **Cloud computing**: National Institute of Standards and Technology (NIST)<br>**Deployment models**: cloud deployment model, community cloud, hybrid cloud, multi-cloud<br>**Service models**: cloud service model<br>**Actors**: cloud consumer, cloud provider, cloud auditor, cloud broker, cloud carrier<br>**Benefits**: reliability, governance | Introduction to Cloud Computing (Lecture 6): slides 3, 5, 9, 10, 15 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 1 | Cloud computing | cloud computing<br>Gartner's definition of cloud computing | Lecture 1: slide 3 |
+|  | Deployment models | public cloud<br>private cloud<br>hybrid cloud | Lecture 1: slides 5, 6, 7, 8 |
+|  | Service models | service model (service delivery model)<br>Infrastructure as a Service (IaaS)<br>Platform as a Service (PaaS)<br>Software as a Service (SaaS)<br>shared responsibility model | Lecture 1: slides 13, 14 |
+|  | Actors | cloud provider | Lecture 1: slide 5 |
+|  | Essential characteristics | essential characteristics of cloud computing<br>on-demand self-service<br>broad network access<br>resource pooling<br>rapid elasticity<br>measured service | Lecture 1: slide 10 |
+|  | Benefits | scalability | Lecture 1: slide 4 |
+|  | Consumption-based model | pay-as-you-go | Lecture 1: slide 10 |
+| 2 | Benefits | high availability | Lecture 2: slide 5 |
+| 4 | Cloud computing | cloud computing (cloud environment) | Lecture 3: slide 4 |
+|  | Deployment models | deployment model<br>hybrid cloud | Lecture 3: slide 5 |
+| 6 | Service models | Infrastructure Platform (IaaS)<br>Application Platform (PaaS / aPaaS)<br>Software Platform (SaaS) | Lecture 5: slide 7 |
+| 7 | Cloud computing | National Institute of Standards and Technology (NIST) | Lecture 6: slide 5 |
+|  | Deployment models | cloud deployment model<br>community cloud<br>hybrid cloud<br>multi-cloud | Lecture 6: slides 10, 15 |
+|  | Service models | cloud service model | Lecture 6: slide 10 |
+|  | Actors | cloud consumer<br>cloud provider<br>cloud auditor<br>cloud broker<br>cloud carrier | Lecture 6: slide 5 |
+|  | Benefits | reliability<br>governance | Lecture 6: slides 3, 9 |
 
 **CST8912 Cloud Solution Architecture**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 1 | **Deployment models**: deployment model, public cloud, private cloud, hybrid cloud, multi-cloud<br>**Service models**: service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model<br>**Essential characteristics**: resource pooling, elasticity<br>**Benefits**: scalability, high availability<br>**Consumption-based model**: pay-as-you-go, capital expenditure (CapEx), operational expenditure (OpEx) | Introduction to Cloud Solution Architecture: slides 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18 |
-| 3 | **Deployment models**: deployment model | Design Cloud Networking Solution: slides 15, 16 |
-| 5 | **Benefits**: dynamic scalability, governance | Design Cloud Database Solution: slides 9, 15 |
-| 6 | **Deployment models**: hybrid cloud, multi-cloud<br>**Service models**: shared responsibility model<br>**Actors**: cloud provider<br>**Benefits**: reliability, cloud governance | Week 6 – Cloud Architecture best practices: slides 16, 23, 24, 26, 28 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 1 | Deployment models | deployment model<br>public cloud<br>private cloud<br>hybrid cloud<br>multi-cloud | Introduction to Cloud Solution Architecture: slides 14, 15, 16, 17, 18 |
+|  | Service models | service model<br>Infrastructure as a Service (IaaS)<br>Platform as a Service (PaaS)<br>Software as a Service (SaaS)<br>shared responsibility model | Introduction to Cloud Solution Architecture: slides 6, 7, 8, 9, 10, 11, 14 |
+|  | Essential characteristics | resource pooling<br>elasticity | Introduction to Cloud Solution Architecture: slides 6, 7, 8, 15 |
+|  | Benefits | scalability<br>high availability | Introduction to Cloud Solution Architecture: slide 12 |
+|  | Consumption-based model | pay-as-you-go<br>capital expenditure (CapEx)<br>operational expenditure (OpEx) | Introduction to Cloud Solution Architecture: slides 12, 15 |
+| 3 | Deployment models | deployment model | Design Cloud Networking Solution: slides 15, 16 |
+| 5 | Benefits | dynamic scalability<br>governance | Design Cloud Database Solution: slides 9, 15 |
+| 6 | Deployment models | hybrid cloud<br>multi-cloud | Week 6 – Cloud Architecture best practices: slide 24 |
+|  | Service models | shared responsibility model | Week 6 – Cloud Architecture best practices: slide 26 |
+|  | Actors | cloud provider | Week 6 – Cloud Architecture best practices: slide 23 |
+|  | Benefits | reliability<br>cloud governance | Week 6 – Cloud Architecture best practices: slides 16, 28 |
 
 **CST8913 Cloud Migration**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 2 | **Cloud computing**: cloud computing<br>**Deployment models**: deployment model (cloud model), public cloud, private cloud, hybrid cloud, multi-cloud<br>**Service models**: service model (service type), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), shared responsibility model<br>**Actors**: cloud provider<br>**Benefits**: scalability, high availability<br>**Consumption-based model**: consumption-based model, capital expenditure (CapEx), operational expenditure (OpEx) | Introduction to Cloud Computing: slides 5, 6, 7, 9, 10, 12, 13, 14, 16<br>Cloud Adoption Framework (CAF) (Online Quiz reading module): Manage and Secure (Units 9–10) |
-| 3 | **Essential characteristics**: elasticity<br>**Consumption-based model**: CapEx to OpEx shift | Cloud adoption strategy: slides 9, 10 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 2 | Cloud computing | cloud computing | Introduction to Cloud Computing: slide 5 |
+|  | Deployment models | deployment model (cloud model)<br>public cloud<br>private cloud<br>hybrid cloud<br>multi-cloud | Introduction to Cloud Computing: slide 6 |
+|  | Service models | service model (service type)<br>Infrastructure as a Service (IaaS)<br>Platform as a Service (PaaS)<br>Software as a Service (SaaS)<br>shared responsibility model | Introduction to Cloud Computing: slides 9, 10, 12, 14, 16<br>Reading: Manage and Secure (Units 9–10) |
+|  | Actors | cloud provider | Introduction to Cloud Computing: slide 6 |
+|  | Benefits | scalability<br>high availability | Introduction to Cloud Computing: slide 13 |
+|  | Consumption-based model | consumption-based model<br>capital expenditure (CapEx)<br>operational expenditure (OpEx) | Introduction to Cloud Computing: slide 7 |
+| 3 | Essential characteristics | elasticity | Cloud adoption strategy: slide 10 |
+|  | Consumption-based model | CapEx to OpEx shift | Cloud adoption strategy: slide 9 |
 
 **CST8915 Full-stack Cloud-native Development**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 1 | **Cloud computing**: cloud computing<br>**Deployment models**: public cloud, private cloud, hybrid cloud<br>**Service models**: service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)<br>**Essential characteristics**: elasticity<br>**Benefits**: scalability<br>**Consumption-based model**: pay-as-you-go (pay for what you use) | Introduction to Cloud-Native Applications: slides 6, 31, 32, 33, 34, 35 |
-| 2 | **Benefits**: high availability | The Twelve-Factor Application: slide 37 |
-| 4 | **Essential characteristics**: resource pooling, rapid elasticity | Containers I: slide 19 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 1 | Cloud computing | cloud computing | Introduction to Cloud-Native Applications: slide 6 |
+|  | Deployment models | public cloud<br>private cloud<br>hybrid cloud | Introduction to Cloud-Native Applications: slides 31, 35 |
+|  | Service models | service model<br>Infrastructure as a Service (IaaS)<br>Platform as a Service (PaaS)<br>Software as a Service (SaaS) | Introduction to Cloud-Native Applications: slides 32, 33, 34 |
+|  | Essential characteristics | elasticity | Introduction to Cloud-Native Applications: slide 35 |
+|  | Benefits | scalability | Introduction to Cloud-Native Applications: slide 35 |
+|  | Consumption-based model | pay-as-you-go (pay for what you use) | Introduction to Cloud-Native Applications: slide 6 |
+| 2 | Benefits | high availability | The Twelve-Factor Application: slide 37 |
+| 4 | Essential characteristics | resource pooling<br>rapid elasticity | Containers I: slide 19 |
 
 **CST8916 Remote Data and Real-time Applications**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 1 | **Cloud computing**: cloud computing<br>**Deployment models**: public cloud, private cloud, hybrid cloud<br>**Service models**: service model, Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)<br>**Essential characteristics**: elasticity<br>**Benefits**: scalability, reliability<br>**Consumption-based model**: pay-as-you-go | Introduction to Remote Data and Real-time Applications: slides 4, 13, 14, 15, 16, 17, 28 |
-| 5 | **Deployment models**: multi-cloud<br>**Benefits**: high availability | Popular Cloud Services for Real-time Applications I: slides 31, 33 |
-| 6 | **Service models**: service model | Popular Cloud Services for Real-time Applications II: slide 3 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 1 | Cloud computing | cloud computing | Introduction to Remote Data and Real-time Applications: slide 4 |
+|  | Deployment models | public cloud<br>private cloud<br>hybrid cloud | Introduction to Remote Data and Real-time Applications: slides 13, 17 |
+|  | Service models | service model<br>Infrastructure as a Service (IaaS)<br>Platform as a Service (PaaS)<br>Software as a Service (SaaS) | Introduction to Remote Data and Real-time Applications: slides 14, 15, 16 |
+|  | Essential characteristics | elasticity | Introduction to Remote Data and Real-time Applications: slide 17 |
+|  | Benefits | scalability<br>reliability | Introduction to Remote Data and Real-time Applications: slides 17, 28 |
+|  | Consumption-based model | pay-as-you-go | Introduction to Remote Data and Real-time Applications: slide 4 |
+| 5 | Deployment models | multi-cloud | Popular Cloud Services for Real-time Applications I: slide 31 |
+|  | Benefits | high availability | Popular Cloud Services for Real-time Applications I: slide 33 |
+| 6 | Service models | service model | Popular Cloud Services for Real-time Applications II: slide 3 |
 
 ## References
 

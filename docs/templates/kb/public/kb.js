@@ -76,7 +76,10 @@ function content() {
     const head = t.querySelector('thead')
     if (head && ![...head.querySelectorAll('th')].some((th) => th.textContent.trim())) head.remove()
     // term tables (Term | Definition | 中文解释 | Source): fixed column widths so long URLs cannot squeeze the Chinese column
-    if (/Source/.test(t.querySelector('th:last-child')?.textContent || '') && t.rows[0]?.cells.length === 4) t.classList.add('kb-terms')
+    const first = t.querySelector('th')?.textContent.trim()
+    if (first === 'Term' && /Source/.test(t.querySelector('th:last-child')?.textContent || '') && t.rows[0]?.cells.length === 4) t.classList.add('kb-terms')
+    // coverage tables (Week | Group | Terms in the course | Source): narrow week, wide terms
+    if (first === 'Week' && t.rows[0]?.cells.length === 4) t.classList.add('kb-coverage')
     const wrap = el('div', { class: 'table-wrapper' })
     t.replaceWith(wrap)
     wrap.append(t)

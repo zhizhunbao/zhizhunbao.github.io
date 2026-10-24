@@ -29,39 +29,50 @@ ms.date: 2026-10-22
 
 **CST8911 Introduction to Cloud Computing**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 1 | **Storage**: cloud storage, storage<br>**Storage services**: Azure Blob Storage, Azure Disk Storage (managed disks) | Introduction to Cloud Computing (Lecture 1): slides 3, 12 |
-| 2 | **Storage accounts**: storage account, general-purpose v2 (StorageV2), endpoint<br>**Storage redundancy**: redundancy, locally redundant storage (LRS), zone-redundant storage (ZRS), geo-redundant storage (GRS)<br>**Storage services**: file share<br>**File movement options**: AzCopy | Lab 1: Storage: Storage account and redundancy (task 1), Command-line tools (before you start), Containers and file shares (tasks 2–3) |
-| 6 | **Storage**: cloud storage (cloud component)<br>**Storage services**: Azure Files, Azure Queue Storage | Introduction to Cloud Computing (Lecture 5): slides 5, 10 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 1 | Storage | cloud storage<br>storage | Lecture 1: slides 3, 12 |
+|  | Storage services | Azure Blob Storage<br>Azure Disk Storage (managed disks) | Lecture 1: slide 12 |
+| 2 | Storage accounts | storage account<br>general-purpose v2 (StorageV2)<br>endpoint | Lab 1: Storage account and redundancy (task 1), Command-line tools (before you start) |
+|  | Storage redundancy | redundancy<br>locally redundant storage (LRS)<br>zone-redundant storage (ZRS)<br>geo-redundant storage (GRS) | Lab 1: Storage account and redundancy (task 1) |
+|  | Storage services | file share | Lab 1: Containers and file shares (tasks 2–3) |
+|  | File movement options | AzCopy | Lab 1: Command-line tools (before you start) |
+| 6 | Storage | cloud storage (cloud component) | Lecture 5: slide 5 |
+|  | Storage services | Azure Files<br>Azure Queue Storage | Lecture 5: slide 10 |
 
 **CST8912 Cloud Solution Architecture**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 1 | **Storage**: storage<br>**Storage redundancy**: redundancy | Introduction to Cloud Solution Architecture: slides 6, 7, 8, 18 |
-| 2 | **Storage redundancy**: locally redundant storage (LRS)<br>**Storage services**: managed disk | Provisioning and Managing an Azure Virtual Machine (Lab 1): Disks and networking (Tasks 3–4) |
-| 4 | **Storage accounts**: storage account, general-purpose v2 account (StorageV2), storage account type<br>**Storage redundancy**: storage redundancy options, Azure Storage redundancy, locally redundant storage (LRS), zone-redundant storage (ZRS), geo-redundant storage (GRS), geo-zone-redundant storage (GZRS), read-access geo-redundant storage (RA-GRS)<br>**Storage services**: Azure Blob Storage, Azure Files, Azure Queue Storage, Azure Table storage, Azure Disk Storage | Design Cloud Storage Solution: slides 4, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 23 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 1 | Storage | storage | Introduction to Cloud Solution Architecture: slides 6, 7, 8 |
+|  | Storage redundancy | redundancy | Introduction to Cloud Solution Architecture: slide 18 |
+| 2 | Storage redundancy | locally redundant storage (LRS) | Lab 1: Disks and networking (Tasks 3–4) |
+|  | Storage services | managed disk | Lab 1: Disks and networking (Tasks 3–4) |
+| 4 | Storage accounts | storage account<br>general-purpose v2 account (StorageV2)<br>storage account type | Design Cloud Storage Solution: slides 14, 23 |
+|  | Storage redundancy | storage redundancy options<br>Azure Storage redundancy<br>locally redundant storage (LRS)<br>zone-redundant storage (ZRS)<br>geo-redundant storage (GRS)<br>geo-zone-redundant storage (GZRS)<br>read-access geo-redundant storage (RA-GRS) | Design Cloud Storage Solution: slides 4, 10, 11, 12, 13, 23 |
+|  | Storage services | Azure Blob Storage<br>Azure Files<br>Azure Queue Storage<br>Azure Table storage<br>Azure Disk Storage | Design Cloud Storage Solution: slides 15, 16, 17, 18, 19 |
 
 **CST8913 Cloud Migration**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 2 | **Storage**: storage<br>**Data migration options**: Azure Migrate, Azure Data Box | Introduction to Cloud Computing: slide 5<br>Cloud Migration (slides 18–20 + Lab 2): Azure services (Lab 2 case study)<br>Cloud Adoption Framework (CAF) (Online Quiz reading module): Migrate, Modernize, and Cloud-native (Units 5–7) |
-| 3 | **Storage accounts**: storage account | Target Cloud Architecture: slide 6 |
-| 4 | **Storage services**: managed disk | Migration Assessment Process: slide 12 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 2 | Storage | storage | Introduction to Cloud Computing: slide 5 |
+|  | Data migration options | Azure Migrate<br>Azure Data Box | Lab 2: Azure services (Lab 2 case study)<br>Reading: Migrate, Modernize, and Cloud-native (Units 5–7) |
+| 3 | Storage accounts | storage account | Target Cloud Architecture: slide 6 |
+| 4 | Storage services | managed disk | Migration Assessment Process: slide 12 |
 
 **CST8915 Full-stack Cloud-native Development**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 3 | **Storage services**: Blob storage | Microservices: slides 32, 33 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 3 | Storage services | Blob storage | Microservices: slides 32, 33 |
 
 **CST8916 Remote Data and Real-time Applications**
 
-| Week | Terms in the course | Source |
-|---|---|---|
-| 6 | **Storage**: storage<br>**Storage services**: Azure Blob Storage | Popular Cloud Services for Real-time Applications II: slides 7, 29 |
+| Week | Group | Terms in the course | Source |
+|---|---|---|---|
+| 6 | Storage | storage | Popular Cloud Services for Real-time Applications II: slide 29 |
+|  | Storage services | Azure Blob Storage | Popular Cloud Services for Real-time Applications II: slide 7 |
 
 ## References
 
