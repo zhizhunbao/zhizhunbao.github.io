@@ -180,6 +180,15 @@ items:
     href: devops/operate.md
 - name: "16. Migration"
   href: migration/index.md
+  items:
+  - name: "16.1 Migration strategies"
+    href: migration/migration-strategies.md
+  - name: "16.2 Decide"
+    href: migration/decide.md
+  - name: "16.3 Plan"
+    href: migration/plan.md
+  - name: "16.4 Execute"
+    href: migration/execute.md
 - name: "17. Azure Well-Architected Framework"
   href: well-architected-framework/index.md
 - name: "18. Cloud Adoption Framework for Azure"
