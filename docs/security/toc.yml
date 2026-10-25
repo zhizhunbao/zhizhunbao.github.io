@@ -16,6 +16,6 @@ items:
 - name: "OWASP Top 10:2025"
   href: owasp-top-10/toc.yml
 - name: OWASP Web Security Testing Guide
-  href: owasp-web-security-testing-guide/index.md
+  href: owasp-web-security-testing-guide/toc.yml
 - name: SSCP
   href: sscp/toc.yml

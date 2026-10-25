@@ -1,0 +1,97 @@
+items:
+- name: Overview
+  href: index.md
+- name: "0. Foreword by Eoin Keary"
+  href: foreword-by-eoin-keary/index.md
+- name: "1. Frontispiece"
+  href: frontispiece/index.md
+- name: "2. Introduction"
+  href: introduction/index.md
+  items:
+  - name: "2.1 The OWASP Testing Project"
+    href: introduction/the-owasp-testing-project.md
+  - name: "2.2 Principles of Testing"
+    href: introduction/principles-of-testing.md
+  - name: "2.3 Testing Techniques Explained"
+    href: introduction/testing-techniques-explained.md
+  - name: "2.4 Manual Inspections and Reviews"
+    href: introduction/manual-inspections-and-reviews.md
+  - name: "2.5 Threat Modeling"
+    href: introduction/threat-modeling.md
+  - name: "2.6 Source Code Review"
+    href: introduction/source-code-review.md
+  - name: "2.7 Penetration Testing"
+    href: introduction/penetration-testing.md
+  - name: "2.8 The Need for a Balanced Approach"
+    href: introduction/the-need-for-a-balanced-approach.md
+  - name: "2.9 Deriving Security Test Requirements"
+    href: introduction/deriving-security-test-requirements.md
+  - name: "2.10 Security Tests Integrated in Development and Testing Workflows"
+    href: introduction/security-tests-integrated-in-development-and-testing-workflows.md
+  - name: "2.11 Security Test Data Analysis and Reporting"
+    href: introduction/security-test-data-analysis-and-reporting.md
+- name: "3. The OWASP Testing Framework"
+  href: the-owasp-testing-framework/index.md
+  items:
+  - name: "3.1 The Web Security Testing Framework"
+    href: the-owasp-testing-framework/the-web-security-testing-framework.md
+  - name: "3.2 Phase 1 Before Development Begins"
+    href: the-owasp-testing-framework/phase-1-before-development-begins.md
+  - name: "3.3 Phase 2 During Definition and Design"
+    href: the-owasp-testing-framework/phase-2-during-definition-and-design.md
+  - name: "3.4 Phase 3 During Development"
+    href: the-owasp-testing-framework/phase-3-during-development.md
+  - name: "3.5 Phase 4 During Deployment"
+    href: the-owasp-testing-framework/phase-4-during-deployment.md
+  - name: "3.6 Phase 5 During Maintenance and Operations"
+    href: the-owasp-testing-framework/phase-5-during-maintenance-and-operations.md
+  - name: "3.7 A Typical SDLC Testing Workflow"
+    href: the-owasp-testing-framework/a-typical-sdlc-testing-workflow.md
+  - name: "3.8 Penetration Testing Methodologies"
+    href: the-owasp-testing-framework/penetration-testing-methodologies.md
+- name: "4. Web Application Security Testing"
+  href: web-application-security-testing/index.md
+  items:
+  - name: "4.0 Introduction and Objectives"
+    href: web-application-security-testing/introduction-and-objectives.md
+  - name: "4.1 Information Gathering"
+    href: web-application-security-testing/information-gathering.md
+  - name: "4.2 Configuration and Deployment Management Testing"
+    href: web-application-security-testing/configuration-and-deployment-management-testing.md
+  - name: "4.3 Identity Management Testing"
+    href: web-application-security-testing/identity-management-testing.md
+  - name: "4.4 Authentication Testing"
+    href: web-application-security-testing/authentication-testing.md
+  - name: "4.5 Authorization Testing"
+    href: web-application-security-testing/authorization-testing.md
+  - name: "4.6 Session Management Testing"
+    href: web-application-security-testing/session-management-testing.md
+  - name: "4.7 Input Validation Testing"
+    href: web-application-security-testing/input-validation-testing.md
+  - name: "4.8 Testing for Error Handling"
+    href: web-application-security-testing/testing-for-error-handling.md
+  - name: "4.9 Testing for Weak Cryptography"
+    href: web-application-security-testing/testing-for-weak-cryptography.md
+  - name: "4.10 Business Logic Testing"
+    href: web-application-security-testing/business-logic-testing.md
+  - name: "4.11 Client-side Testing"
+    href: web-application-security-testing/client-side-testing.md
+  - name: "4.12 API Testing"
+    href: web-application-security-testing/api-testing.md
+- name: "5. Reporting"
+  href: reporting/index.md
+- name: "6. Appendix"
+  href: appendix/index.md
+  items:
+  - name: "Appendix A Testing Tools Resource"
+    href: appendix/testing-tools-resource.md
+  - name: "Appendix B Suggested Reading"
+    href: appendix/suggested-reading.md
+  - name: "Appendix C Fuzz Vectors"
+    href: appendix/fuzz-vectors.md
+  - name: "Appendix D Encoded Injection"
+    href: appendix/encoded-injection.md
+  - name: "Appendix E History"
+    href: appendix/history.md
+  - name: "Appendix F Leveraging Dev Tools"
+    href: appendix/leveraging-dev-tools.md
