@@ -169,6 +169,15 @@ items:
     href: management-and-governance/monitoring-tools.md
 - name: "15. DevOps"
   href: devops/index.md
+  items:
+  - name: "15.1 Plan"
+    href: devops/plan.md
+  - name: "15.2 Develop"
+    href: devops/develop.md
+  - name: "15.3 Deliver"
+    href: devops/deliver.md
+  - name: "15.4 Operate"
+    href: devops/operate.md
 - name: "16. Migration"
   href: migration/index.md
 - name: "17. Azure Well-Architected Framework"
