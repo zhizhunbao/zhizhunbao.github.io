@@ -7,5 +7,7 @@ items:
   href: nist-csf/index.md
 - name: NIST SP 800-115
   href: nist-sp-800-115/index.md
-- name: OWASP
-  href: owasp/index.md
+- name: OWASP Top 10:2025
+  href: owasp-top-10/index.md
+- name: OWASP Web Security Testing Guide
+  href: owasp-web-security-testing-guide/index.md

@@ -3,5 +3,5 @@ items:
   href: index.md
 - name: ISO/IEC/IEEE 29119
   href: iso-iec-ieee-29119/index.md
-- name: ISTQB
-  href: istqb/index.md
+- name: ISTQB Certified Tester Foundation Level (CTFL) v4.0
+  href: istqb-ctfl/index.md
