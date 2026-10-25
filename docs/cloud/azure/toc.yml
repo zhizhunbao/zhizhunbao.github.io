@@ -97,6 +97,21 @@ items:
     href: integration/events.md
 - name: "9. Analytics"
   href: analytics/index.md
+  items:
+  - name: "9.1 Data storage"
+    href: analytics/data-storage.md
+  - name: "9.2 Batch processing"
+    href: analytics/batch-processing.md
+  - name: "9.3 Real-time message ingestion"
+    href: analytics/real-time-message-ingestion.md
+  - name: "9.4 Stream processing"
+    href: analytics/stream-processing.md
+  - name: "9.5 Analytical data store"
+    href: analytics/analytical-data-store.md
+  - name: "9.6 Analytics and reporting"
+    href: analytics/analytics-and-reporting.md
+  - name: "9.7 Orchestration"
+    href: analytics/orchestration.md
 - name: "10. Internet of Things"
   href: internet-of-things/index.md
 - name: "11. AI + Machine Learning"

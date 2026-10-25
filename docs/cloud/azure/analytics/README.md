@@ -1,10 +1,17 @@
 # 9. Analytics: allowed sub-pages
 
-Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`). Source: [Azure documentation: Analytics](https://learn.microsoft.com/en-us/azure/?product=analytics).
+Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`). Source: [Big data architectures](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture) (Azure Architecture Center), with services from the [Analytics category](https://learn.microsoft.com/en-us/azure/?product=analytics) of the Azure documentation.
 
 ## Sub-pages
 
-| No. | File | Title (official name) | Source | Allowed sections (H2, official order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
 |---|---|---|---|---|
+| 9.1 | `data-storage.md` | Data storage | [Big data architectures: Data storage](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture) | 9.1.1 Azure Data Lake Storage, 9.1.2 OneLake |
+| 9.2 | `batch-processing.md` | Batch processing | [Big data architectures: Batch processing](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture); [Azure documentation: Analytics](https://learn.microsoft.com/en-us/azure/?product=analytics) | 9.2.1 Azure Databricks, 9.2.2 Fabric notebooks, 9.2.3 Azure HDInsight |
+| 9.3 | `real-time-message-ingestion.md` | Real-time message ingestion | [Big data architectures: Real-time message ingestion](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture) | 9.3.1 Azure Event Hubs, 9.3.2 Azure IoT Hub, 9.3.3 Apache Kafka |
+| 9.4 | `stream-processing.md` | Stream processing | [Big data architectures: Stream processing](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture); [Azure documentation: Analytics](https://learn.microsoft.com/en-us/azure/?product=analytics) | 9.4.1 Azure Stream Analytics, 9.4.2 Spark Streaming, 9.4.3 Azure Functions, 9.4.4 Fabric eventstreams |
+| 9.5 | `analytical-data-store.md` | Analytical data store | [Big data architectures: Analytical data store](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture); [Azure documentation: Analytics](https://learn.microsoft.com/en-us/azure/?product=analytics) | 9.5.1 Azure Synapse Analytics, 9.5.2 Azure Data Explorer, 9.5.3 Azure Analysis Services, 9.5.4 Fabric data warehouse, 9.5.5 Fabric lakehouse |
+| 9.6 | `analytics-and-reporting.md` | Analytics and reporting | [Big data architectures: Analytics and reporting](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture); [Azure documentation: Analytics](https://learn.microsoft.com/en-us/azure/?product=analytics) | 9.6.1 Power BI, 9.6.2 Power BI Embedded |
+| 9.7 | `orchestration.md` | Orchestration | [Big data architectures: Orchestration](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture) | 9.7.1 Azure Data Factory, 9.7.2 Data Factory in Microsoft Fabric |
 
-None yet. Add a row before writing a page.
+Defined elsewhere, linked from here: Azure Data Lake Storage in `../storage/` (6.3.1 Azure Blobs), Azure Event Hubs in `../integration/` (8.4), Azure IoT Hub in `../internet-of-things/`, Azure Functions in `../compute/` (3.3). Azure Data Explorer is defined here (9.5.2); 7.6 Time-series data stores links here. Lambda, Kappa and Lakehouse architectures, from the same guide, are architecture figures on 9.4 and 9.5.
