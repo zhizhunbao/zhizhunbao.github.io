@@ -1,6 +1,6 @@
 ---
 title: "13. Data Interoperability"
-description: "scikit-learn, 13. Data Interoperability: 13.1 Pandas/Polars Output for Transformers withset_outputAPI, 13.2 Array API support (experimental)."
+description: "scikit-learn, 13. Data Interoperability: 13.1 Pandas/Polars Output for Transformers with set_output API, 13.2 Array API support (experimental)."
 ms.date: 2026-10-25
 ---
 

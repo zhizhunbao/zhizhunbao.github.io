@@ -156,8 +156,8 @@ items:
     href: model-persistence/onnx.md
   - name: "11.3 skops.io"
     href: model-persistence/skops-io.md
-  - name: "11.4 pickle,joblib, andcloudpickle"
-    href: model-persistence/pickle-joblib-andcloudpickle.md
+  - name: "11.4 pickle, joblib, and cloudpickle"
+    href: model-persistence/pickle-joblib-and-cloudpickle.md
   - name: "11.5 Security & Maintainability Limitations"
     href: model-persistence/security-maintainability-limitations.md
   - name: "11.6 Summarizing the key points"
@@ -174,8 +174,8 @@ items:
 - name: "13. Data Interoperability"
   href: data-interoperability/index.md
   items:
-  - name: "13.1 Pandas/Polars Output for Transformers withset_outputAPI"
-    href: data-interoperability/pandas-polars-output-for-transformers-withset-outputapi.md
+  - name: "13.1 Pandas/Polars Output for Transformers with set_output API"
+    href: data-interoperability/pandas-polars-output-for-transformers-with-set-output-api.md
   - name: "13.2 Array API support (experimental)"
     href: data-interoperability/array-api-support-experimental.md
 - name: "14. Choosing the right estimator"
