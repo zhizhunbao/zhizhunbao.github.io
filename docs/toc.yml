@@ -11,6 +11,8 @@ items:
   href: data/
 - name: Hardware
   href: hardware/
+- name: Math
+  href: math/
 - name: Networking
   href: networking/
 - name: Operating Systems

@@ -1,3 +1,9 @@
 items:
 - name: Overview
   href: index.md
+- name: MITRE ATT&CK
+  href: mitre-attack/index.md
+- name: NIST Cybersecurity Framework
+  href: nist-csf/index.md
+- name: OWASP
+  href: owasp/index.md

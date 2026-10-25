@@ -1,3 +1,7 @@
 items:
 - name: Overview
   href: index.md
+- name: ISO/IEC/IEEE 29119
+  href: iso-iec-ieee-29119/index.md
+- name: ISTQB
+  href: istqb/index.md

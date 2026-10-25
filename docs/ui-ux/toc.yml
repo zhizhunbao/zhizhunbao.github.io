@@ -1,3 +1,13 @@
 items:
 - name: Overview
   href: index.md
+- name: Apple Human Interface Guidelines
+  href: apple-hig/index.md
+- name: Fluent 2 Design System
+  href: fluent-2/index.md
+- name: ISO 9241
+  href: iso-9241/index.md
+- name: Material Design
+  href: material-design/index.md
+- name: WCAG 2.2
+  href: wcag-2-2/index.md

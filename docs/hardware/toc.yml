@@ -1,3 +1,7 @@
 items:
 - name: Overview
   href: index.md
+- name: Arm A-profile Architecture
+  href: arm-a-profile/index.md
+- name: Intel 64 and IA-32 Architectures
+  href: intel-64-ia-32/index.md

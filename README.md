@@ -14,9 +14,10 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 
 Content has official sources; section names are the common names of the field.
 
-- Top bar (`docs/toc.yml`): Home and Projects first, then the sections in alphabetical order of their names. A section name is the common name of the field (AI, Security, UI/UX). It is not an official classification, so each section states the knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), it maps to, as in the table below.
-- Inside a section (second bar, left menu): the field's current official sources, cited in APA. Not roadmap.sh or similar community sites, which cannot be cited as official sources.
-- A planned section has only its index page (name, CS2023 mapping) until content arrives.
+- Top bar (`docs/toc.yml`): Home and Projects first, then the sections in alphabetical order of their names. A section name is the common name of the field (AI, Math, Security, UI/UX). It is not an official classification, so each section states the knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), it maps to, as in the table below.
+- Second level (second bar): one entry per official source, named with the source's official name, like `Microsoft Azure` under Cloud: a vendor's documentation set, a standard or a standards body's framework, in alphabetical order. The third level follows that source's own classification; comparisons between sources come after. Sources are current and cited in APA; not roadmap.sh or similar community sites, which cannot be cited. Exception: Math uses the CS2023 knowledge units of MSF as its second level, in the CS2023 order, because mathematics does not date.
+- Courses are not second-level entries either (the Cloud course entries are still to be moved).
+- A planned section or second-level entry has only its index page (name, CS2023 mapping or official source) until content arrives.
 - Cloud is organised by the Azure documentation categories and certifications, and `docs/cloud/azure/README.md` lists the CS2023 knowledge units it maps to.
 - Courses get no top-level section. What a course teaches lands in the section of its field.
 
@@ -40,7 +41,7 @@ The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Sy
 | Applications | HCI | Human-Computer Interaction | 人机交互 | UI/UX |
 | Applications | SPD | Specialized Platform Development | 专用平台开发 | Cloud (SPD-Web) |
 | All | SEP | Society, Ethics, and the Profession | 社会、伦理与职业 | |
-| All | MSF | Mathematical and Statistical Foundations | 数学与统计基础 | |
+| All | MSF | Mathematical and Statistical Foundations | 数学与统计基础 | Math |
 
 ## Content rules (the site is public)
 
