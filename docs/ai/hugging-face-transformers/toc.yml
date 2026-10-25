@@ -1,0 +1,124 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Get started"
+  href: get-started/index.md
+  items:
+  - name: "1.1 Transformers"
+    href: get-started/transformers.md
+  - name: "1.2 Installation"
+    href: get-started/installation.md
+  - name: "1.3 Quickstart"
+    href: get-started/quickstart.md
+- name: "2. Base classes"
+  href: base-classes/index.md
+  items:
+  - name: "2.1 Models"
+    href: base-classes/models.md
+  - name: "2.2 Preprocessors"
+    href: base-classes/preprocessors.md
+- name: "3. Inference"
+  href: inference/index.md
+  items:
+  - name: "3.1 Pipeline API"
+    href: inference/pipeline-api.md
+  - name: "3.2 Generate API"
+    href: inference/generate-api.md
+  - name: "3.3 Optimization"
+    href: inference/optimization.md
+  - name: "3.4 Chat with models"
+    href: inference/chat-with-models.md
+  - name: "3.5 Serving"
+    href: inference/serving.md
+- name: "4. Training"
+  href: training/index.md
+  items:
+  - name: "4.1 Get started"
+    href: training/get-started.md
+  - name: "4.2 Customization"
+    href: training/customization.md
+  - name: "4.3 Parameter-efficient fine-tuning"
+    href: training/parameter-efficient-fine-tuning.md
+  - name: "4.4 Performance"
+    href: training/performance.md
+  - name: "4.5 Distributed training"
+    href: training/distributed-training.md
+- name: "5. Hardware"
+  href: hardware/index.md
+  items:
+  - name: "5.1 Overview"
+    href: hardware/overview.md
+  - name: "5.2 CPU"
+    href: hardware/cpu.md
+  - name: "5.3 NVIDIA GPU"
+    href: hardware/nvidia-gpu.md
+  - name: "5.4 AMD GPU"
+    href: hardware/amd-gpu.md
+  - name: "5.5 Intel GPU"
+    href: hardware/intel-gpu.md
+  - name: "5.6 Apple Silicon"
+    href: hardware/apple-silicon.md
+  - name: "5.7 Intel Gaudi"
+    href: hardware/intel-gaudi.md
+  - name: "5.8 AWS Trainium"
+    href: hardware/aws-trainium.md
+- name: "6. Quantization"
+  href: quantization/index.md
+  items:
+  - name: "6.1 Overview"
+    href: quantization/overview.md
+  - name: "6.2 Selecting a quantization method"
+    href: quantization/selecting-a-quantization-method.md
+  - name: "6.3 Quantization concepts"
+    href: quantization/quantization-concepts.md
+  - name: "6.4 Quantize on the fly"
+    href: quantization/quantize-on-the-fly.md
+  - name: "6.5 FP4 and FP8 formats"
+    href: quantization/fp4-and-fp8-formats.md
+  - name: "6.6 Calibration-based methods"
+    href: quantization/calibration-based-methods.md
+  - name: "6.7 Load pre-quantized models"
+    href: quantization/load-pre-quantized-models.md
+  - name: "6.8 Hardware toolkits"
+    href: quantization/hardware-toolkits.md
+  - name: "6.9 Contribute"
+    href: quantization/contribute.md
+- name: "7. Ecosystem integrations"
+  href: ecosystem-integrations/index.md
+  items:
+  - name: "7.1 Inference engines"
+    href: ecosystem-integrations/inference-engines.md
+  - name: "7.2 Local deployment"
+    href: ecosystem-integrations/local-deployment.md
+  - name: "7.3 Pretraining"
+    href: ecosystem-integrations/pretraining.md
+  - name: "7.4 Fine-tuning"
+    href: ecosystem-integrations/fine-tuning.md
+- name: "8. Resources"
+  href: resources/index.md
+  items:
+  - name: "8.1 Task recipes"
+    href: resources/task-recipes.md
+  - name: "8.2 Glossary"
+    href: resources/glossary.md
+  - name: "8.3 Philosophy"
+    href: resources/philosophy.md
+  - name: "8.4 Models timeline"
+    href: resources/models-timeline.md
+  - name: "8.5 Notebooks with examples"
+    href: resources/notebooks-with-examples.md
+  - name: "8.6 Community resources"
+    href: resources/community-resources.md
+  - name: "8.7 Troubleshoot"
+    href: resources/troubleshoot.md
+- name: "9. API"
+  href: api/index.md
+  items:
+  - name: "9.1 Main classes"
+    href: api/main-classes.md
+  - name: "9.2 Models"
+    href: api/models.md
+  - name: "9.3 Internal helpers"
+    href: api/internal-helpers.md
+  - name: "9.4 Reference"
+    href: api/reference.md

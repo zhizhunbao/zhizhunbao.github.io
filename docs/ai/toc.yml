@@ -5,9 +5,19 @@ items:
   href: claude/index.md
 - name: CS2023 AI
   href: cs2023/toc.yml
+- name: Gymnasium
+  href: gymnasium/toc.yml
+- name: Hugging Face Transformers
+  href: hugging-face-transformers/toc.yml
 - name: Microsoft Foundry
   href: microsoft-foundry/index.md
 - name: NIST AI Risk Management Framework
   href: nist-ai-rmf/index.md
 - name: OpenAI
   href: openai/index.md
+- name: OpenCV
+  href: opencv/toc.yml
+- name: PyTorch
+  href: pytorch/toc.yml
+- name: scikit-learn
+  href: scikit-learn/toc.yml

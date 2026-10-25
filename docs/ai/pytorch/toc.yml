@@ -1,0 +1,290 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Intro"
+  href: intro/index.md
+  items:
+  - name: "1.1 Learn the Basics"
+    href: intro/learn-the-basics.md
+  - name: "1.2 Introduction to PyTorch - YouTube Series"
+    href: intro/introduction-to-pytorch-youtube-series.md
+  - name: "1.3 Deep Learning with PyTorch: A 60 Minute Blitz"
+    href: intro/deep-learning-with-pytorch-a-60-minute-blitz.md
+  - name: "1.4 Learning PyTorch with Examples"
+    href: intro/learning-pytorch-with-examples.md
+  - name: "1.5 What is torch.nn really?"
+    href: intro/what-is-torch-nn-really.md
+  - name: "1.6 Understanding requires_grad, retain_grad, Leaf, and Non-leaf Tensors"
+    href: intro/understanding-requires-grad-retain-grad-leaf-and-non-leaf-tensors.md
+  - name: "1.7 NLP from Scratch"
+    href: intro/nlp-from-scratch.md
+  - name: "1.8 Visualizing Models, Data, and Training with TensorBoard"
+    href: intro/visualizing-models-data-and-training-with-tensorboard.md
+  - name: "1.9 A guide on good usage of non_blocking and pin_memory() in PyTorch"
+    href: intro/a-guide-on-good-usage-of-non-blocking-and-pin-memory-in-pytorch.md
+  - name: "1.10 Data Loading Optimization in PyTorch"
+    href: intro/data-loading-optimization-in-pytorch.md
+  - name: "1.11 Visualizing Gradients"
+    href: intro/visualizing-gradients.md
+- name: "2. Compilers"
+  href: compilers/index.md
+  items:
+  - name: "2.1 Introduction to torch.compile"
+    href: compilers/introduction-to-torch-compile.md
+  - name: "2.2 torch.compile End-to-End Tutorial"
+    href: compilers/torch-compile-end-to-end-tutorial.md
+  - name: "2.3 Compiled Autograd: Capturing a larger backward graph for torch.compile"
+    href: compilers/compiled-autograd-capturing-a-larger-backward-graph-for-torch-compile.md
+  - name: "2.4 Inductor CPU backend debugging and profiling"
+    href: compilers/inductor-cpu-backend-debugging-and-profiling.md
+  - name: "2.5 Dynamic Compilation Control with torch.compiler.set_stance"
+    href: compilers/dynamic-compilation-control-with-torch-compiler-set-stance.md
+  - name: "2.6 Demonstration of torch.export flow, common challenges and the solutions to address them"
+    href: compilers/demonstration-of-torch-export-flow-common-challenges-and-the-solutions.md
+  - name: "2.7 (beta) Compiling the optimizer with torch.compile"
+    href: compilers/beta-compiling-the-optimizer-with-torch-compile.md
+  - name: "2.8 (beta) Running the compiled optimizer with an LR Scheduler"
+    href: compilers/beta-running-the-compiled-optimizer-with-an-lr-scheduler.md
+  - name: "2.9 Using Variable Length Attention in PyTorch"
+    href: compilers/using-variable-length-attention-in-pytorch.md
+  - name: "2.10 Using User-Defined Triton Kernels with torch.compile"
+    href: compilers/using-user-defined-triton-kernels-with-torch-compile.md
+  - name: "2.11 Compile Time Caching in torch.compile"
+    href: compilers/compile-time-caching-in-torch-compile.md
+  - name: "2.12 Reducing torch.compile cold start compilation time with regional compilation"
+    href: compilers/reducing-torch-compile-cold-start-compilation-time-with-regional-compi.md
+  - name: "2.13 torch.export Tutorial"
+    href: compilers/torch-export-tutorial.md
+  - name: "2.14 torch.export AOTInductor Tutorial for Python runtime (Beta)"
+    href: compilers/torch-export-aotinductor-tutorial-for-python-runtime-beta.md
+  - name: "2.15 Introduction to ONNX"
+    href: compilers/introduction-to-onnx.md
+  - name: "2.16 Export a PyTorch model to ONNX"
+    href: compilers/export-a-pytorch-model-to-onnx.md
+  - name: "2.17 Extending the ONNX Exporter Operator Support"
+    href: compilers/extending-the-onnx-exporter-operator-support.md
+  - name: "2.18 Export a model with control flow to ONNX"
+    href: compilers/export-a-model-with-control-flow-to-onnx.md
+  - name: "2.19 Building a Convolution/Batch Norm fuser with torch.compile"
+    href: compilers/building-a-convolution-batch-norm-fuser-with-torch-compile.md
+  - name: "2.20 (beta) Building a Simple CPU Performance Profiler with FX"
+    href: compilers/beta-building-a-simple-cpu-performance-profiler-with-fx.md
+- name: "3. Domains"
+  href: domains/index.md
+  items:
+  - name: "3.1 TorchVision Object Detection Finetuning Tutorial"
+    href: domains/torchvision-object-detection-finetuning-tutorial.md
+  - name: "3.2 Transfer Learning for Computer Vision Tutorial"
+    href: domains/transfer-learning-for-computer-vision-tutorial.md
+  - name: "3.3 Adversarial Example Generation"
+    href: domains/adversarial-example-generation.md
+  - name: "3.4 DCGAN Tutorial"
+    href: domains/dcgan-tutorial.md
+  - name: "3.5 Spatial Transformer Networks Tutorial"
+    href: domains/spatial-transformer-networks-tutorial.md
+  - name: "3.6 Reinforcement Learning (DQN) Tutorial"
+    href: domains/reinforcement-learning-dqn-tutorial.md
+  - name: "3.7 Reinforcement Learning (PPO) with TorchRL Tutorial"
+    href: domains/reinforcement-learning-ppo-with-torchrl-tutorial.md
+  - name: "3.8 Train a Mario-playing RL Agent"
+    href: domains/train-a-mario-playing-rl-agent.md
+  - name: "3.9 Pendulum: Writing your environment and transforms with TorchRL"
+    href: domains/pendulum-writing-your-environment-and-transforms-with-torchrl.md
+  - name: "3.10 Introduction to TorchRec"
+    href: domains/introduction-to-torchrec.md
+  - name: "3.11 Exploring TorchRec sharding"
+    href: domains/exploring-torchrec-sharding.md
+- name: "4. Distributed"
+  href: distributed/index.md
+  items:
+  - name: "4.1 PyTorch Distributed Overview"
+    href: distributed/pytorch-distributed-overview.md
+  - name: "4.2 Distributed Data Parallel in PyTorch - Video Tutorials"
+    href: distributed/distributed-data-parallel-in-pytorch-video-tutorials.md
+  - name: "4.3 Getting Started with Distributed Data Parallel"
+    href: distributed/getting-started-with-distributed-data-parallel.md
+  - name: "4.4 Writing Distributed Applications with PyTorch"
+    href: distributed/writing-distributed-applications-with-pytorch.md
+  - name: "4.5 Getting Started with Fully Sharded Data Parallel (FSDP2)"
+    href: distributed/getting-started-with-fully-sharded-data-parallel-fsdp2.md
+  - name: "4.6 Introduction to Libuv TCPStore Backend"
+    href: distributed/introduction-to-libuv-tcpstore-backend.md
+  - name: "4.7 Large Scale Transformer model training with Tensor Parallel (TP)"
+    href: distributed/large-scale-transformer-model-training-with-tensor-parallel-tp.md
+  - name: "4.8 Introduction to Distributed Pipeline Parallelism"
+    href: distributed/introduction-to-distributed-pipeline-parallelism.md
+  - name: "4.9 Customize Process Group Backends Using Cpp Extensions"
+    href: distributed/customize-process-group-backends-using-cpp-extensions.md
+  - name: "4.10 Getting Started with Distributed RPC Framework"
+    href: distributed/getting-started-with-distributed-rpc-framework.md
+  - name: "4.11 Implementing a Parameter Server Using Distributed RPC Framework"
+    href: distributed/implementing-a-parameter-server-using-distributed-rpc-framework.md
+  - name: "4.12 Implementing Batch RPC Processing Using Asynchronous Executions"
+    href: distributed/implementing-batch-rpc-processing-using-asynchronous-executions.md
+  - name: "4.13 Interactive Distributed Applications with Monarch"
+    href: distributed/interactive-distributed-applications-with-monarch.md
+  - name: "4.14 Debugging Hangs with Flight Recorder Using TorchComms and Debug Server"
+    href: distributed/debugging-hangs-with-flight-recorder-using-torchcomms-and-debug-server.md
+  - name: "4.15 Combining Distributed DataParallel with Distributed RPC Framework"
+    href: distributed/combining-distributed-dataparallel-with-distributed-rpc-framework.md
+  - name: "4.16 Distributed Training with Uneven Inputs Using the Join Context Manager"
+    href: distributed/distributed-training-with-uneven-inputs-using-the-join-context-manager.md
+  - name: "4.17 Distributed training at scale with PyTorch and Ray Train"
+    href: distributed/distributed-training-at-scale-with-pytorch-and-ray-train.md
+- name: "5. Deep Dive"
+  href: deep-dive/index.md
+  items:
+  - name: "5.1 Profiling your PyTorch Module"
+    href: deep-dive/profiling-your-pytorch-module.md
+  - name: "5.2 CUDA Graph Kernel Annotations and Profiling"
+    href: deep-dive/cuda-graph-kernel-annotations-and-profiling.md
+  - name: "5.3 Parametrizations Tutorial"
+    href: deep-dive/parametrizations-tutorial.md
+  - name: "5.4 Pruning Tutorial"
+    href: deep-dive/pruning-tutorial.md
+  - name: "5.5 Inductor CPU backend debugging and profiling"
+    href: deep-dive/inductor-cpu-backend-debugging-and-profiling.md
+  - name: "5.6 (Beta) Implementing High-Performance Transformers with Scaled Dot Product Attention (SDPA)"
+    href: deep-dive/beta-implementing-high-performance-transformers-with-scaled-dot-produc.md
+  - name: "5.7 Knowledge Distillation Tutorial"
+    href: deep-dive/knowledge-distillation-tutorial.md
+  - name: "5.8 Channels Last Memory Format in PyTorch"
+    href: deep-dive/channels-last-memory-format-in-pytorch.md
+  - name: "5.9 Forward-mode Automatic Differentiation (Beta)"
+    href: deep-dive/forward-mode-automatic-differentiation-beta.md
+  - name: "5.10 Jacobians, Hessians, hvp, vhp, and more: composing function transforms"
+    href: deep-dive/jacobians-hessians-hvp-vhp-and-more-composing-function-transforms.md
+  - name: "5.11 Model ensembling"
+    href: deep-dive/model-ensembling.md
+  - name: "5.12 Per-sample-gradients"
+    href: deep-dive/per-sample-gradients.md
+  - name: "5.13 Using the PyTorch C++ Frontend"
+    href: deep-dive/using-the-pytorch-c-frontend.md
+  - name: "5.14 Autograd in C++ Frontend"
+    href: deep-dive/autograd-in-c-frontend.md
+- name: "6. Extension"
+  href: extension/index.md
+  items:
+  - name: "6.1 PyTorch Custom Operators"
+    href: extension/pytorch-custom-operators.md
+  - name: "6.2 Double Backward with Custom Functions"
+    href: extension/double-backward-with-custom-functions.md
+  - name: "6.3 Fusing Convolution and Batch Norm using Custom Function"
+    href: extension/fusing-convolution-and-batch-norm-using-custom-function.md
+  - name: "6.4 Registering a Dispatched Operator in C++"
+    href: extension/registering-a-dispatched-operator-in-c.md
+  - name: "6.5 Extending dispatcher for a new backend in C++"
+    href: extension/extending-dispatcher-for-a-new-backend-in-c.md
+  - name: "6.6 Facilitating New Backend Integration by PrivateUse1"
+    href: extension/facilitating-new-backend-integration-by-privateuse1.md
+- name: "7. Ecosystem"
+  href: ecosystem/index.md
+  items:
+  - name: "7.1 Hyperparameter tuning using Ray Tune"
+    href: ecosystem/hyperparameter-tuning-using-ray-tune.md
+  - name: "7.2 Serve PyTorch models at scale with Ray Serve"
+    href: ecosystem/serve-pytorch-models-at-scale-with-ray-serve.md
+  - name: "7.3 Multi-Objective NAS with Ax"
+    href: ecosystem/multi-objective-nas-with-ax.md
+  - name: "7.4 Real Time Inference on Raspberry Pi 4 and 5 (40 fps!)"
+    href: ecosystem/real-time-inference-on-raspberry-pi-4-and-5-40-fps.md
+  - name: "7.5 Mosaic: Memory Profiling for PyTorch"
+    href: ecosystem/mosaic-memory-profiling-for-pytorch.md
+  - name: "7.6 Distributed training at scale with PyTorch and Ray Train"
+    href: ecosystem/distributed-training-at-scale-with-pytorch-and-ray-train.md
+- name: "8. Recipes"
+  href: recipes/index.md
+  items:
+  - name: "8.1 Defining a Neural Network in PyTorch"
+    href: recipes/defining-a-neural-network-in-pytorch.md
+  - name: "8.2 (beta) Using TORCH_LOGS python API with torch.compile"
+    href: recipes/beta-using-torch-logs-python-api-with-torch-compile.md
+  - name: "8.3 What is a state_dict in PyTorch"
+    href: recipes/what-is-a-state-dict-in-pytorch.md
+  - name: "8.4 Warmstarting model using parameters from a different model in PyTorch"
+    href: recipes/warmstarting-model-using-parameters-from-a-different-model-in-pytorch.md
+  - name: "8.5 Zeroing out gradients in PyTorch"
+    href: recipes/zeroing-out-gradients-in-pytorch.md
+  - name: "8.6 PyTorch Profiler"
+    href: recipes/pytorch-profiler.md
+  - name: "8.7 Model Interpretability using Captum"
+    href: recipes/model-interpretability-using-captum.md
+  - name: "8.8 How to use TensorBoard with PyTorch"
+    href: recipes/how-to-use-tensorboard-with-pytorch.md
+  - name: "8.9 Automatic Mixed Precision"
+    href: recipes/automatic-mixed-precision.md
+  - name: "8.10 Performance Tuning Guide"
+    href: recipes/performance-tuning-guide.md
+  - name: "8.11 (beta) Compiling the optimizer with torch.compile"
+    href: recipes/beta-compiling-the-optimizer-with-torch-compile.md
+  - name: "8.12 Timer quick start"
+    href: recipes/timer-quick-start.md
+  - name: "8.13 Shard Optimizer States with ZeroRedundancyOptimizer"
+    href: recipes/shard-optimizer-states-with-zeroredundancyoptimizer.md
+  - name: "8.14 Getting Started with CommDebugMode"
+    href: recipes/getting-started-with-commdebugmode.md
+  - name: "8.15 Demonstration of torch.export flow, common challenges and the solutions to address them"
+    href: recipes/demonstration-of-torch-export-flow-common-challenges-and-the-solutions.md
+  - name: "8.16 PyTorch Benchmark"
+    href: recipes/pytorch-benchmark.md
+  - name: "8.17 Tips for Loading an nn.Module from a Checkpoint"
+    href: recipes/tips-for-loading-an-nn-module-from-a-checkpoint.md
+  - name: "8.18 Reasoning about Shapes in PyTorch"
+    href: recipes/reasoning-about-shapes-in-pytorch.md
+  - name: "8.19 Extension points in nn.Module for load_state_dict and tensor subclasses"
+    href: recipes/extension-points-in-nn-module-for-load-state-dict-and-tensor-subclasse.md
+  - name: "8.20 torch.export AOTInductor Tutorial for Python runtime (Beta)"
+    href: recipes/torch-export-aotinductor-tutorial-for-python-runtime-beta.md
+  - name: "8.21 (beta) Utilizing Torch Function modes with torch.compile"
+    href: recipes/beta-utilizing-torch-function-modes-with-torch-compile.md
+  - name: "8.22 (beta) Running the compiled optimizer with an LR Scheduler"
+    href: recipes/beta-running-the-compiled-optimizer-with-an-lr-scheduler.md
+  - name: "8.23 Explicit horizontal fusion with foreach_map and torch.compile"
+    href: recipes/explicit-horizontal-fusion-with-foreach-map-and-torch-compile.md
+  - name: "8.24 Using User-Defined Triton Kernels with torch.compile"
+    href: recipes/using-user-defined-triton-kernels-with-torch-compile.md
+  - name: "8.25 Compile Time Caching in torch.compile"
+    href: recipes/compile-time-caching-in-torch-compile.md
+  - name: "8.26 Compile Time Caching Configuration"
+    href: recipes/compile-time-caching-configuration.md
+  - name: "8.27 Reducing torch.compile cold start compilation time with regional compilation"
+    href: recipes/reducing-torch-compile-cold-start-compilation-time-with-regional-compi.md
+  - name: "8.28 Reducing AoT cold start compilation time with regional compilation"
+    href: recipes/reducing-aot-cold-start-compilation-time-with-regional-compilation.md
+  - name: "8.29 Ease-of-use quantization for PyTorch with Intel® Neural Compressor"
+    href: recipes/ease-of-use-quantization-for-pytorch-with-intel-neural-compressor.md
+  - name: "8.30 Getting Started with DeviceMesh"
+    href: recipes/getting-started-with-devicemesh.md
+  - name: "8.31 Getting Started with Distributed Checkpoint (DCP)"
+    href: recipes/getting-started-with-distributed-checkpoint-dcp.md
+  - name: "8.32 Asynchronous Saving with Distributed Checkpoint (DCP)"
+    href: recipes/asynchronous-saving-with-distributed-checkpoint-dcp.md
+  - name: "8.33 DebugMode: Recording Dispatched Operations and Numerical Debugging"
+    href: recipes/debugmode-recording-dispatched-operations-and-numerical-debugging.md
+- name: "9. Unstable"
+  href: unstable/index.md
+  items:
+  - name: "9.1 Introduction to Context Parallel"
+    href: unstable/introduction-to-context-parallel.md
+  - name: "9.2 Flight Recorder for Debugging Stuck Jobs"
+    href: unstable/flight-recorder-for-debugging-stuck-jobs.md
+  - name: "9.3 TorchInductor C++ Wrapper Tutorial"
+    href: unstable/torchinductor-c-wrapper-tutorial.md
+  - name: "9.4 How to use torch.compile on Windows CPU/XPU"
+    href: unstable/how-to-use-torch-compile-on-windows-cpu-xpu.md
+  - name: "9.5 torch.vmap"
+    href: unstable/torch-vmap.md
+  - name: "9.6 Getting Started with Nested Tensors"
+    href: unstable/getting-started-with-nested-tensors.md
+  - name: "9.7 MaskedTensor Overview"
+    href: unstable/maskedtensor-overview.md
+  - name: "9.8 MaskedTensor Sparsity"
+    href: unstable/maskedtensor-sparsity.md
+  - name: "9.9 MaskedTensor Advanced Semantics"
+    href: unstable/maskedtensor-advanced-semantics.md
+  - name: "9.10 Efficiently writing “sparse” semantics for Adagrad with MaskedTensor"
+    href: unstable/efficiently-writing-sparse-semantics-for-adagrad-with-maskedtensor.md
+  - name: "9.11 Autoloading Out-of-Tree Extension"
+    href: unstable/autoloading-out-of-tree-extension.md
+  - name: "9.12 Using Max-Autotune Compilation on CPU for Better Performance"
+    href: unstable/using-max-autotune-compilation-on-cpu-for-better-performance.md
