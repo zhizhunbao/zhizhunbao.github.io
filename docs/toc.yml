@@ -1,8 +1,6 @@
 items:
 - name: Home
   href: index.md
-- name: Resume
-  href: resume/index.md
 - name: Projects
   href: projects/
 - name: AI
