@@ -12,6 +12,6 @@ items:
 - name: Java
   href: java/toc.yml
 - name: Python
-  href: python/index.md
+  href: python/toc.yml
 - name: TypeScript
   href: typescript/index.md

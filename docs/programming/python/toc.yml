@@ -1,0 +1,199 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Whetting Your Appetite"
+  href: whetting-your-appetite/index.md
+- name: "2. Using the Python Interpreter"
+  href: using-the-python-interpreter/index.md
+  items:
+  - name: "2.1 Invoking the Interpreter"
+    href: using-the-python-interpreter/invoking-the-interpreter.md
+  - name: "2.2 The Interpreter and Its Environment"
+    href: using-the-python-interpreter/the-interpreter-and-its-environment.md
+- name: "3. An Informal Introduction to Python"
+  href: an-informal-introduction-to-python/index.md
+  items:
+  - name: "3.1 Using Python as a Calculator"
+    href: an-informal-introduction-to-python/using-python-as-a-calculator.md
+  - name: "3.2 First Steps Towards Programming"
+    href: an-informal-introduction-to-python/first-steps-towards-programming.md
+- name: "4. More Control Flow Tools"
+  href: more-control-flow-tools/index.md
+  items:
+  - name: "4.1 if Statements"
+    href: more-control-flow-tools/if-statements.md
+  - name: "4.2 for Statements"
+    href: more-control-flow-tools/for-statements.md
+  - name: "4.3 The range() Function"
+    href: more-control-flow-tools/the-range-function.md
+  - name: "4.4 break and continue Statements"
+    href: more-control-flow-tools/break-and-continue-statements.md
+  - name: "4.5 else Clauses on Loops"
+    href: more-control-flow-tools/else-clauses-on-loops.md
+  - name: "4.6 pass Statements"
+    href: more-control-flow-tools/pass-statements.md
+  - name: "4.7 match Statements"
+    href: more-control-flow-tools/match-statements.md
+  - name: "4.8 Defining Functions"
+    href: more-control-flow-tools/defining-functions.md
+  - name: "4.9 More on Defining Functions"
+    href: more-control-flow-tools/more-on-defining-functions.md
+  - name: "4.10 Intermezzo: Coding Style"
+    href: more-control-flow-tools/intermezzo-coding-style.md
+- name: "5. Data Structures"
+  href: data-structures/index.md
+  items:
+  - name: "5.1 More on Lists"
+    href: data-structures/more-on-lists.md
+  - name: "5.2 The del statement"
+    href: data-structures/the-del-statement.md
+  - name: "5.3 Tuples and Sequences"
+    href: data-structures/tuples-and-sequences.md
+  - name: "5.4 Sets"
+    href: data-structures/sets.md
+  - name: "5.5 Dictionaries"
+    href: data-structures/dictionaries.md
+  - name: "5.6 Looping Techniques"
+    href: data-structures/looping-techniques.md
+  - name: "5.7 More on Conditions"
+    href: data-structures/more-on-conditions.md
+  - name: "5.8 Comparing Sequences and Other Types"
+    href: data-structures/comparing-sequences-and-other-types.md
+- name: "6. Modules"
+  href: modules/index.md
+  items:
+  - name: "6.1 More on Modules"
+    href: modules/more-on-modules.md
+  - name: "6.2 Standard Modules"
+    href: modules/standard-modules.md
+  - name: "6.3 The dir() Function"
+    href: modules/the-dir-function.md
+  - name: "6.4 Packages"
+    href: modules/packages.md
+- name: "7. Input and output"
+  href: input-and-output/index.md
+  items:
+  - name: "7.1 Fancier output formatting"
+    href: input-and-output/fancier-output-formatting.md
+  - name: "7.2 Reading and writing files"
+    href: input-and-output/reading-and-writing-files.md
+- name: "8. Errors and Exceptions"
+  href: errors-and-exceptions/index.md
+  items:
+  - name: "8.1 Syntax Errors"
+    href: errors-and-exceptions/syntax-errors.md
+  - name: "8.2 Exceptions"
+    href: errors-and-exceptions/exceptions.md
+  - name: "8.3 Handling Exceptions"
+    href: errors-and-exceptions/handling-exceptions.md
+  - name: "8.4 Raising Exceptions"
+    href: errors-and-exceptions/raising-exceptions.md
+  - name: "8.5 Exception Chaining"
+    href: errors-and-exceptions/exception-chaining.md
+  - name: "8.6 User-defined Exceptions"
+    href: errors-and-exceptions/user-defined-exceptions.md
+  - name: "8.7 Defining Clean-up Actions"
+    href: errors-and-exceptions/defining-clean-up-actions.md
+  - name: "8.8 Predefined Clean-up Actions"
+    href: errors-and-exceptions/predefined-clean-up-actions.md
+  - name: "8.9 Raising and Handling Multiple Unrelated Exceptions"
+    href: errors-and-exceptions/raising-and-handling-multiple-unrelated-exceptions.md
+  - name: "8.10 Enriching Exceptions with Notes"
+    href: errors-and-exceptions/enriching-exceptions-with-notes.md
+- name: "9. Classes"
+  href: classes/index.md
+  items:
+  - name: "9.1 A Word About Names and Objects"
+    href: classes/a-word-about-names-and-objects.md
+  - name: "9.2 Python Scopes and Namespaces"
+    href: classes/python-scopes-and-namespaces.md
+  - name: "9.3 A First Look at Classes"
+    href: classes/a-first-look-at-classes.md
+  - name: "9.4 Random Remarks"
+    href: classes/random-remarks.md
+  - name: "9.5 Inheritance"
+    href: classes/inheritance.md
+  - name: "9.6 Private Variables"
+    href: classes/private-variables.md
+  - name: "9.7 Odds and Ends"
+    href: classes/odds-and-ends.md
+  - name: "9.8 Iterators"
+    href: classes/iterators.md
+  - name: "9.9 Generators"
+    href: classes/generators.md
+  - name: "9.10 Generator Expressions"
+    href: classes/generator-expressions.md
+- name: "10. Brief tour of the standard library"
+  href: brief-tour-of-the-standard-library/index.md
+  items:
+  - name: "10.1 Operating system interface"
+    href: brief-tour-of-the-standard-library/operating-system-interface.md
+  - name: "10.2 File wildcards"
+    href: brief-tour-of-the-standard-library/file-wildcards.md
+  - name: "10.3 Command-line arguments"
+    href: brief-tour-of-the-standard-library/command-line-arguments.md
+  - name: "10.4 Error output redirection and program termination"
+    href: brief-tour-of-the-standard-library/error-output-redirection-and-program-termination.md
+  - name: "10.5 String pattern matching"
+    href: brief-tour-of-the-standard-library/string-pattern-matching.md
+  - name: "10.6 Mathematics"
+    href: brief-tour-of-the-standard-library/mathematics.md
+  - name: "10.7 Internet access"
+    href: brief-tour-of-the-standard-library/internet-access.md
+  - name: "10.8 Dates and times"
+    href: brief-tour-of-the-standard-library/dates-and-times.md
+  - name: "10.9 Data compression"
+    href: brief-tour-of-the-standard-library/data-compression.md
+  - name: "10.10 Performance measurement"
+    href: brief-tour-of-the-standard-library/performance-measurement.md
+  - name: "10.11 Quality control"
+    href: brief-tour-of-the-standard-library/quality-control.md
+  - name: "10.12 Batteries included"
+    href: brief-tour-of-the-standard-library/batteries-included.md
+- name: "11. Brief tour of the standard library — part II"
+  href: brief-tour-of-the-standard-library-part-ii/index.md
+  items:
+  - name: "11.1 Output formatting"
+    href: brief-tour-of-the-standard-library-part-ii/output-formatting.md
+  - name: "11.2 Templating"
+    href: brief-tour-of-the-standard-library-part-ii/templating.md
+  - name: "11.3 Working with binary data record layouts"
+    href: brief-tour-of-the-standard-library-part-ii/working-with-binary-data-record-layouts.md
+  - name: "11.4 Multi-threading"
+    href: brief-tour-of-the-standard-library-part-ii/multi-threading.md
+  - name: "11.5 Logging"
+    href: brief-tour-of-the-standard-library-part-ii/logging.md
+  - name: "11.6 Weak references"
+    href: brief-tour-of-the-standard-library-part-ii/weak-references.md
+  - name: "11.7 Tools for working with lists"
+    href: brief-tour-of-the-standard-library-part-ii/tools-for-working-with-lists.md
+  - name: "11.8 Decimal floating-point arithmetic"
+    href: brief-tour-of-the-standard-library-part-ii/decimal-floating-point-arithmetic.md
+- name: "12. Virtual Environments and Packages"
+  href: virtual-environments-and-packages/index.md
+  items:
+  - name: "12.1 Introduction"
+    href: virtual-environments-and-packages/introduction.md
+  - name: "12.2 Creating Virtual Environments"
+    href: virtual-environments-and-packages/creating-virtual-environments.md
+  - name: "12.3 Managing Packages with pip"
+    href: virtual-environments-and-packages/managing-packages-with-pip.md
+- name: "13. What Now?"
+  href: what-now/index.md
+- name: "14. Interactive Input Editing and History Substitution"
+  href: interactive-input-editing-and-history-substitution/index.md
+  items:
+  - name: "14.1 Tab Completion and History Editing"
+    href: interactive-input-editing-and-history-substitution/tab-completion-and-history-editing.md
+  - name: "14.2 Alternatives to the Interactive Interpreter"
+    href: interactive-input-editing-and-history-substitution/alternatives-to-the-interactive-interpreter.md
+- name: "15. Floating-Point Arithmetic: Issues and Limitations"
+  href: floating-point-arithmetic-issues-and-limitations/index.md
+  items:
+  - name: "15.1 Representation Error"
+    href: floating-point-arithmetic-issues-and-limitations/representation-error.md
+- name: "16. Appendix"
+  href: appendix/index.md
+  items:
+  - name: "16.1 Interactive Mode"
+    href: appendix/interactive-mode.md
