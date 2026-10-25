@@ -14,7 +14,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 
 Every classification has an official source. Two layers: the top bar from a stable standard, everything inside a section from that field's current official sources.
 
-- Top bar (`docs/toc.yml`): one section per knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), one to one, no merging, no invented names. The top-bar entry is the CS2023 full name, word for word, so it matches the official documents and certifications; if the bar gets too long, switch to the CS2023 abbreviations (also official). The section's index page H1 is the full name with the abbreviation, for example `Operating Systems (OS)`, and its first line says in plain Chinese what the area is about (my words, not a definition; the definitions in the term tables stay official).
+- Top bar (`docs/toc.yml`): one section per knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), one to one, no merging, no invented names. The top-bar entry is the CS2023 full name, word for word, so it matches the official documents and certifications. Exception: AI keeps its abbreviation, which everyone knows. If the bar gets too long, switch to the CS2023 abbreviations (also official). The section's index page H1 is the full name with the abbreviation, for example `Operating Systems (OS)`.
 - Order: Home and Projects first; then the knowledge areas in the CS2023 order, "listed in alphabetical order of their abbreviation" (CS2023 Knowledge Model); then Cloud.
 - A knowledge area enters the top bar only when it has content. The others are listed below as planned, with no empty pages.
 - The CS2023 competency areas (Software, Systems, Applications) are not used as top-bar groups: CS2023 puts SEC and DM in two of them and calls the list "neither prescriptive nor comprehensive". They only order the table below, as a reading aid.
@@ -22,7 +22,7 @@ Every classification has an official source. Two layers: the top bar from a stab
 - Exception: Cloud is not a CS2023 knowledge area. It is organised by the Azure documentation categories and certifications, and `docs/cloud/azure/README.md` lists the CS2023 knowledge units it maps to.
 - Courses get no top-level section. What a course teaches lands in the section of its field.
 
-The `大白话` column is my own one-line plain description, so a beginner knows what each area is about before reading the official sources.
+The `大白话` column is my own one-line plain description, a reading aid for this README only; it is not put on the pages.
 
 | Competency area | Abbreviation | Knowledge area | 中文 | 大白话 | Status |
 |---|---|---|---|---|---|

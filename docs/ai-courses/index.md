@@ -6,8 +6,6 @@ ms.date: 2026-10-24
 
 # Artificial Intelligence (AI)
 
-大白话：让电脑学会看、听、说、想。
-
 The section name is the knowledge area Artificial Intelligence (AI) of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023 (Joint Task Force on Computing Curricula, 2024). The classification inside this section will come from current official sources, because the CS2023 details say little about large language models and agents: for those, the official documentation of Anthropic, OpenAI and Microsoft Foundry, and the NIST Generative AI Profile (National Institute of Standards and Technology, 2024).
 
 ## Courses
