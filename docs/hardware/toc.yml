@@ -1,7 +1,7 @@
 items:
 - name: Overview
   href: index.md
-- name: Arm Architecture Reference Manual for A-profile architecture
-  href: arm-a-profile-reference-manual/index.md
-- name: Intel 64 and IA-32 Architectures
-  href: intel-64-ia-32/index.md
+- name: Arm
+  href: arm/index.md
+- name: x86
+  href: x86/index.md

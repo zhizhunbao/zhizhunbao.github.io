@@ -1,10 +1,10 @@
 ---
-title: Fluent 2 Design System
-description: "Planned second-level page: Fluent 2 Design System."
+title: Fluent 2
+description: "Planned second-level page: Fluent 2, from its official documentation, Fluent 2 Design System."
 ms.date: 2026-10-24
 ---
 
-# Fluent 2 Design System
+# Fluent 2
 
 Planned, no content yet. The pages under this one will follow this source's own classification.
 

@@ -1,11 +1,11 @@
 items:
 - name: Overview
   href: index.md
-- name: Claude Platform
-  href: claude-platform/index.md
+- name: Claude
+  href: claude/index.md
 - name: Microsoft Foundry
   href: microsoft-foundry/index.md
 - name: NIST AI Risk Management Framework
   href: nist-ai-rmf/index.md
-- name: OpenAI Platform
-  href: openai-platform/index.md
+- name: OpenAI
+  href: openai/index.md

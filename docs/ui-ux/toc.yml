@@ -5,7 +5,7 @@ items:
   href: apple-hig/index.md
 - name: ARIA Authoring Practices Guide
   href: apg/toc.yml
-- name: Fluent 2 Design System
+- name: Fluent 2
   href: fluent-2/index.md
 - name: ISO 9241
   href: iso-9241/index.md

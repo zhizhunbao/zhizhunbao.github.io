@@ -1,10 +1,10 @@
 ---
-title: Linux Kernel
-description: "Planned second-level page: The Linux Kernel documentation."
+title: Linux
+description: "Planned second-level page: Linux, from its official documentation, The Linux Kernel documentation."
 ms.date: 2026-10-24
 ---
 
-# Linux Kernel
+# Linux
 
 Planned, no content yet. The pages under this one will follow this source's own classification.
 

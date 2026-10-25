@@ -1,10 +1,10 @@
 ---
-title: OpenAI Platform
-description: "Planned second-level page: OpenAI Platform documentation."
+title: OpenAI
+description: "Planned second-level page: OpenAI, from its official documentation, OpenAI Platform documentation."
 ms.date: 2026-10-24
 ---
 
-# OpenAI Platform
+# OpenAI
 
 Planned, no content yet. The pages under this one will follow this source's own classification.
 

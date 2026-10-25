@@ -1,10 +1,10 @@
 ---
-title: Claude Platform
-description: "Planned second-level page: Claude Platform Docs."
+title: Claude
+description: "Planned second-level page: Claude, from its official documentation, Claude Platform Docs."
 ms.date: 2026-10-24
 ---
 
-# Claude Platform
+# Claude
 
 Planned, no content yet. The pages under this one will follow this source's own classification.
 

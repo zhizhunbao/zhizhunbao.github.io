@@ -3,7 +3,7 @@ items:
   href: index.md
 - name: GraphQL
   href: graphql/toc.yml
-- name: HTML Standard
-  href: html-standard/index.md
+- name: HTML
+  href: html/index.md
 - name: MDN Web Docs
   href: mdn-web-docs/index.md

@@ -1,10 +1,10 @@
 ---
-title: Intel 64 and IA-32 Architectures
-description: "Planned second-level page: Intel 64 and IA-32 Architectures Software Developer Manuals."
+title: x86
+description: "Planned second-level page: x86, from its official documentation, Intel 64 and IA-32 Architectures Software Developer Manuals."
 ms.date: 2026-10-24
 ---
 
-# Intel 64 and IA-32 Architectures
+# x86
 
 Planned, no content yet. The pages under this one will follow this source's own classification.
 

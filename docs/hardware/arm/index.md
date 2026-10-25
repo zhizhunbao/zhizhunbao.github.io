@@ -1,10 +1,10 @@
 ---
-title: Arm Architecture Reference Manual for A-profile architecture
-description: "Planned second-level page: Arm Architecture Reference Manual for A-profile architecture."
+title: Arm
+description: "Planned second-level page: Arm, from its official documentation, Arm Architecture Reference Manual for A-profile architecture."
 ms.date: 2026-10-24
 ---
 
-# Arm Architecture Reference Manual for A-profile architecture
+# Arm
 
 Planned, no content yet. The pages under this one will follow this source's own classification.
 

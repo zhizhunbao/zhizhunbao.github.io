@@ -1,10 +1,10 @@
 ---
-title: HTML Standard
-description: "Planned second-level page: HTML Standard."
+title: HTML
+description: "Planned second-level page: HTML, from its official documentation, HTML Standard."
 ms.date: 2026-10-24
 ---
 
-# HTML Standard
+# HTML
 
 Planned, no content yet. The pages under this one will follow this source's own classification.
 
