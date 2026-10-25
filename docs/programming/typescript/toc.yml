@@ -1,0 +1,244 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Get Started"
+  href: get-started/index.md
+  items:
+  - name: "1.1 TS for the New Programmer"
+    href: get-started/ts-for-the-new-programmer.md
+  - name: "1.2 TypeScript for JS Programmers"
+    href: get-started/typescript-for-js-programmers.md
+  - name: "1.3 TS for Java/C# Programmers"
+    href: get-started/ts-for-java-c-programmers.md
+  - name: "1.4 TS for Functional Programmers"
+    href: get-started/ts-for-functional-programmers.md
+  - name: "1.5 TypeScript Tooling in 5 minutes"
+    href: get-started/typescript-tooling-in-5-minutes.md
+- name: "2. Handbook"
+  href: handbook/index.md
+  items:
+  - name: "2.1 The TypeScript Handbook"
+    href: handbook/the-typescript-handbook.md
+  - name: "2.2 The Basics"
+    href: handbook/the-basics.md
+  - name: "2.3 Everyday Types"
+    href: handbook/everyday-types.md
+  - name: "2.4 Narrowing"
+    href: handbook/narrowing.md
+  - name: "2.5 More on Functions"
+    href: handbook/more-on-functions.md
+  - name: "2.6 Object Types"
+    href: handbook/object-types.md
+  - name: "2.7 Type Manipulation"
+    href: handbook/type-manipulation.md
+  - name: "2.8 Classes"
+    href: handbook/classes.md
+  - name: "2.9 Modules"
+    href: handbook/modules.md
+- name: "3. Reference"
+  href: reference/index.md
+  items:
+  - name: "3.1 Utility Types"
+    href: reference/utility-types.md
+  - name: "3.2 Cheat Sheets"
+    href: reference/cheat-sheets.md
+  - name: "3.3 Decorators"
+    href: reference/decorators.md
+  - name: "3.4 Declaration Merging"
+    href: reference/declaration-merging.md
+  - name: "3.5 Enums"
+    href: reference/enums.md
+  - name: "3.6 Iterators and Generators"
+    href: reference/iterators-and-generators.md
+  - name: "3.7 JSX"
+    href: reference/jsx.md
+  - name: "3.8 Mixins"
+    href: reference/mixins.md
+  - name: "3.9 Namespaces"
+    href: reference/namespaces.md
+  - name: "3.10 Namespaces and Modules"
+    href: reference/namespaces-and-modules.md
+  - name: "3.11 Symbols"
+    href: reference/symbols.md
+  - name: "3.12 Triple-Slash Directives"
+    href: reference/triple-slash-directives.md
+  - name: "3.13 Type Compatibility"
+    href: reference/type-compatibility.md
+  - name: "3.14 Type Inference"
+    href: reference/type-inference.md
+  - name: "3.15 Variable Declaration"
+    href: reference/variable-declaration.md
+- name: "4. Modules Reference"
+  href: modules-reference/index.md
+  items:
+  - name: "4.1 Introduction"
+    href: modules-reference/introduction.md
+  - name: "4.2 Theory"
+    href: modules-reference/theory.md
+  - name: "4.3 Guides"
+    href: modules-reference/guides.md
+  - name: "4.4 Reference"
+    href: modules-reference/reference.md
+  - name: "4.5 Appendices"
+    href: modules-reference/appendices.md
+- name: "5. Tutorials"
+  href: tutorials/index.md
+  items:
+  - name: "5.1 ASP.NET Core"
+    href: tutorials/asp-net-core.md
+  - name: "5.2 Gulp"
+    href: tutorials/gulp.md
+  - name: "5.3 DOM Manipulation"
+    href: tutorials/dom-manipulation.md
+  - name: "5.4 Migrating from JavaScript"
+    href: tutorials/migrating-from-javascript.md
+  - name: "5.5 Using Babel with TypeScript"
+    href: tutorials/using-babel-with-typescript.md
+- name: "6. What's New"
+  href: what-s-new/index.md
+  items:
+  - name: "6.1 TypeScript 6.0"
+    href: what-s-new/typescript-6-0.md
+  - name: "6.2 TypeScript 5.9"
+    href: what-s-new/typescript-5-9.md
+  - name: "6.3 TypeScript 5.8"
+    href: what-s-new/typescript-5-8.md
+  - name: "6.4 TypeScript 5.7"
+    href: what-s-new/typescript-5-7.md
+  - name: "6.5 TypeScript 5.6"
+    href: what-s-new/typescript-5-6.md
+  - name: "6.6 TypeScript 5.5"
+    href: what-s-new/typescript-5-5.md
+  - name: "6.7 TypeScript 5.4"
+    href: what-s-new/typescript-5-4.md
+  - name: "6.8 TypeScript 5.3"
+    href: what-s-new/typescript-5-3.md
+  - name: "6.9 TypeScript 5.2"
+    href: what-s-new/typescript-5-2.md
+  - name: "6.10 TypeScript 5.1"
+    href: what-s-new/typescript-5-1.md
+  - name: "6.11 TypeScript 5.0"
+    href: what-s-new/typescript-5-0.md
+  - name: "6.12 TypeScript 4.9"
+    href: what-s-new/typescript-4-9.md
+  - name: "6.13 TypeScript 4.8"
+    href: what-s-new/typescript-4-8.md
+  - name: "6.14 TypeScript 4.7"
+    href: what-s-new/typescript-4-7.md
+  - name: "6.15 TypeScript 4.6"
+    href: what-s-new/typescript-4-6.md
+  - name: "6.16 TypeScript 4.5"
+    href: what-s-new/typescript-4-5.md
+  - name: "6.17 TypeScript 4.4"
+    href: what-s-new/typescript-4-4.md
+  - name: "6.18 TypeScript 4.3"
+    href: what-s-new/typescript-4-3.md
+  - name: "6.19 TypeScript 4.2"
+    href: what-s-new/typescript-4-2.md
+  - name: "6.20 TypeScript 4.1"
+    href: what-s-new/typescript-4-1.md
+  - name: "6.21 TypeScript 4.0"
+    href: what-s-new/typescript-4-0.md
+  - name: "6.22 TypeScript 3.9"
+    href: what-s-new/typescript-3-9.md
+  - name: "6.23 TypeScript 3.8"
+    href: what-s-new/typescript-3-8.md
+  - name: "6.24 TypeScript 3.7"
+    href: what-s-new/typescript-3-7.md
+  - name: "6.25 TypeScript 3.6"
+    href: what-s-new/typescript-3-6.md
+  - name: "6.26 TypeScript 3.5"
+    href: what-s-new/typescript-3-5.md
+  - name: "6.27 TypeScript 3.4"
+    href: what-s-new/typescript-3-4.md
+  - name: "6.28 TypeScript 3.3"
+    href: what-s-new/typescript-3-3.md
+  - name: "6.29 TypeScript 3.2"
+    href: what-s-new/typescript-3-2.md
+  - name: "6.30 TypeScript 3.1"
+    href: what-s-new/typescript-3-1.md
+  - name: "6.31 TypeScript 3.0"
+    href: what-s-new/typescript-3-0.md
+  - name: "6.32 TypeScript 2.9"
+    href: what-s-new/typescript-2-9.md
+  - name: "6.33 TypeScript 2.8"
+    href: what-s-new/typescript-2-8.md
+  - name: "6.34 TypeScript 2.7"
+    href: what-s-new/typescript-2-7.md
+  - name: "6.35 TypeScript 2.6"
+    href: what-s-new/typescript-2-6.md
+  - name: "6.36 TypeScript 2.5"
+    href: what-s-new/typescript-2-5.md
+  - name: "6.37 TypeScript 2.4"
+    href: what-s-new/typescript-2-4.md
+  - name: "6.38 TypeScript 2.3"
+    href: what-s-new/typescript-2-3.md
+  - name: "6.39 TypeScript 2.2"
+    href: what-s-new/typescript-2-2.md
+  - name: "6.40 TypeScript 2.1"
+    href: what-s-new/typescript-2-1.md
+  - name: "6.41 TypeScript 2.0"
+    href: what-s-new/typescript-2-0.md
+  - name: "6.42 TypeScript 1.8"
+    href: what-s-new/typescript-1-8.md
+  - name: "6.43 TypeScript 1.7"
+    href: what-s-new/typescript-1-7.md
+  - name: "6.44 TypeScript 1.6"
+    href: what-s-new/typescript-1-6.md
+  - name: "6.45 TypeScript 1.5"
+    href: what-s-new/typescript-1-5.md
+  - name: "6.46 TypeScript 1.4"
+    href: what-s-new/typescript-1-4.md
+  - name: "6.47 TypeScript 1.3"
+    href: what-s-new/typescript-1-3.md
+  - name: "6.48 TypeScript 1.1"
+    href: what-s-new/typescript-1-1.md
+- name: "7. Declaration Files"
+  href: declaration-files/index.md
+  items:
+  - name: "7.1 Introduction"
+    href: declaration-files/introduction.md
+  - name: "7.2 Declaration Reference"
+    href: declaration-files/declaration-reference.md
+  - name: "7.3 Library Structures"
+    href: declaration-files/library-structures.md
+  - name: "7.4 .d.ts Templates"
+    href: declaration-files/d-ts-templates.md
+  - name: "7.5 Do's and Don'ts"
+    href: declaration-files/do-s-and-don-ts.md
+  - name: "7.6 Deep Dive"
+    href: declaration-files/deep-dive.md
+  - name: "7.7 Publishing"
+    href: declaration-files/publishing.md
+  - name: "7.8 Consumption"
+    href: declaration-files/consumption.md
+- name: "8. JavaScript"
+  href: javascript/index.md
+  items:
+  - name: "8.1 JS Projects Utilizing TypeScript"
+    href: javascript/js-projects-utilizing-typescript.md
+  - name: "8.2 Type Checking JavaScript Files"
+    href: javascript/type-checking-javascript-files.md
+  - name: "8.3 JSDoc Reference"
+    href: javascript/jsdoc-reference.md
+  - name: "8.4 Creating .d.ts Files from .js files"
+    href: javascript/creating-d-ts-files-from-js-files.md
+- name: "9. Project Configuration"
+  href: project-configuration/index.md
+  items:
+  - name: "9.1 What is a tsconfig.json"
+    href: project-configuration/what-is-a-tsconfig-json.md
+  - name: "9.2 Compiler Options in MSBuild"
+    href: project-configuration/compiler-options-in-msbuild.md
+  - name: "9.3 TSConfig Reference"
+    href: project-configuration/tsconfig-reference.md
+  - name: "9.4 tsc CLI Options"
+    href: project-configuration/tsc-cli-options.md
+  - name: "9.5 Project References"
+    href: project-configuration/project-references.md
+  - name: "9.6 Integrating with Build Tools"
+    href: project-configuration/integrating-with-build-tools.md
+  - name: "9.7 Configuring Watch"
+    href: project-configuration/configuring-watch.md
+  - name: "9.8 Nightly Builds"
+    href: project-configuration/nightly-builds.md

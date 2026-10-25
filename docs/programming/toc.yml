@@ -14,4 +14,6 @@ items:
 - name: Python
   href: python/toc.yml
 - name: TypeScript
-  href: typescript/index.md
+  href: typescript/toc.yml
+- name: uv
+  href: uv/toc.yml
