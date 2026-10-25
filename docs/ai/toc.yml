@@ -3,6 +3,8 @@ items:
   href: index.md
 - name: Claude
   href: claude/index.md
+- name: CS2023 AI
+  href: cs2023/toc.yml
 - name: Microsoft Foundry
   href: microsoft-foundry/index.md
 - name: NIST AI Risk Management Framework
