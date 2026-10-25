@@ -14,8 +14,8 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 
 Content has official sources; section names are the common names of the field.
 
-- Top bar (`docs/toc.yml`): Home and Projects first, then the sections in alphabetical order of their names. A section name is the common name of the field (AI, Math, Security, UI/UX). It is not an official classification, so each section states the knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), it maps to, as in the table below.
-- Second level (second bar): one entry per official source, named with the source's official name, like `Microsoft Azure` under Cloud: a vendor's documentation set, a standard or a standards body's framework, in alphabetical order. The third level follows that source's own classification; comparisons between sources come after. Sources are current and cited in APA; not roadmap.sh or similar community sites, which cannot be cited. Exception: Math uses the CS2023 knowledge units of MSF as its second level, in the CS2023 order, because mathematics does not date.
+- Top bar (`docs/toc.yml`): Home and Projects first, then the sections in alphabetical order of their names. A section name is the common name of the field (AI, Algorithms, Security, UI/UX). It is not an official classification, so each section states the knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), it maps to, as in the table below.
+- Second level (second bar): one entry per official source, named with the source's official name, like `Microsoft Azure` under Cloud: a vendor's documentation set, a standard or a standards body's framework, in alphabetical order. The third level follows that source's own classification; comparisons between sources come after. Sources are current and cited in APA; not roadmap.sh or similar community sites, which cannot be cited. Exception: Math and Algorithms use the CS2023 knowledge units of MSF and AL as their second level, in the CS2023 order, because they do not date.
 - Courses are not second-level entries either (the Cloud course entries are still to be moved).
 - A planned section or second-level entry has only its index page (name, CS2023 mapping or official source) until content arrives.
 - Cloud is organised by the Azure documentation categories and certifications, and `docs/cloud/azure/README.md` lists the CS2023 knowledge units it maps to.
@@ -25,9 +25,9 @@ The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Sy
 
 | Competency area | Abbreviation | Knowledge area | 中文 | Section |
 |---|---|---|---|---|
-| Software | SDF | Software Development Fundamentals | 软件开发基础 | |
-| Software | AL | Algorithmic Foundations | 算法基础 | |
-| Software | FPL | Foundations of Programming Languages | 编程语言基础 | |
+| Software | SDF | Software Development Fundamentals | 软件开发基础 | Programming |
+| Software | AL | Algorithmic Foundations | 算法基础 | Algorithms |
+| Software | FPL | Foundations of Programming Languages | 编程语言基础 | Programming |
 | Software | SE | Software Engineering | 软件工程 | QA (SE-Validation); System Design (SE-Design) |
 | Systems | AR | Architecture and Organization | 计算机体系结构与组成 | Hardware |
 | Systems | OS | Operating Systems | 操作系统 | Operating Systems |
@@ -37,10 +37,10 @@ The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Sy
 | Systems | DM | Data Management | 数据管理 | Data; Cloud |
 | Systems | SEC | Security | 安全 | Security |
 | Applications | AI | Artificial Intelligence | 人工智能 | AI |
-| Applications | GIT | Graphics and Interactive Techniques | 图形与交互技术 | |
+| Applications | GIT | Graphics and Interactive Techniques | 图形与交互技术 | Graphics |
 | Applications | HCI | Human-Computer Interaction | 人机交互 | UI/UX |
-| Applications | SPD | Specialized Platform Development | 专用平台开发 | Cloud (SPD-Web) |
-| All | SEP | Society, Ethics, and the Profession | 社会、伦理与职业 | |
+| Applications | SPD | Specialized Platform Development | 专用平台开发 | Web Development (SPD-Web); Cloud (SPD-Web) |
+| All | SEP | Society, Ethics, and the Profession | 社会、伦理与职业 | Ethics |
 | All | MSF | Mathematical and Statistical Foundations | 数学与统计基础 | Math |
 
 ## Content rules (the site is public)

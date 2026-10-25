@@ -5,10 +5,16 @@ items:
   href: projects/
 - name: AI
   href: ai-courses/
+- name: Algorithms
+  href: algorithms/
 - name: Cloud
   href: cloud/
 - name: Data
   href: data/
+- name: Ethics
+  href: ethics/
+- name: Graphics
+  href: graphics/
 - name: Hardware
   href: hardware/
 - name: Math
@@ -17,6 +23,8 @@ items:
   href: networking/
 - name: Operating Systems
   href: operating-systems/
+- name: Programming
+  href: programming/
 - name: QA
   href: qa/
 - name: Security
@@ -25,3 +33,5 @@ items:
   href: system-design/
 - name: UI/UX
   href: ui-ux/
+- name: Web Development
+  href: web-development/
