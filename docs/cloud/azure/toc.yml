@@ -114,6 +114,13 @@ items:
     href: analytics/orchestration.md
 - name: "10. Internet of Things"
   href: internet-of-things/index.md
+  items:
+  - name: "10.1 IoT devices"
+    href: internet-of-things/iot-devices.md
+  - name: "10.2 IoT cloud services"
+    href: internet-of-things/iot-cloud-services.md
+  - name: "10.3 Edge runtime"
+    href: internet-of-things/edge-runtime.md
 - name: "11. AI + Machine Learning"
   href: ai-machine-learning/index.md
 - name: "12. Identity"
