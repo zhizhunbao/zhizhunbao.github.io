@@ -4,4 +4,4 @@ items:
 - name: CCNA
   href: ccna/toc.yml
 - name: RFC Series
-  href: rfc-series/index.md
+  href: rfc-series/toc.yml

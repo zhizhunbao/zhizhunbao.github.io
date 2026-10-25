@@ -1,0 +1,11 @@
+---
+title: "8. Representation Data and Metadata"
+description: "RFC Series, RFC 9110 HTTP Semantics, 8. Representation Data and Metadata."
+ms.date: 2026-10-25
+---
+
+# 8. Representation Data and Metadata
+
+Sources: [RFC 9110, 8. Representation Data and Metadata](https://www.rfc-editor.org/rfc/rfc9110.html#section-8).
+
+Not written yet.

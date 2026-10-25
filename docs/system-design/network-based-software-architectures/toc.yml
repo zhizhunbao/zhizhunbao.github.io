@@ -1,0 +1,103 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Abstract of the Dissertation"
+  href: abstract-of-the-dissertation.md
+- name: "Introduction"
+  href: introduction.md
+- name: "Chapter 1. Software Architecture"
+  href: chapter-1/index.md
+  items:
+  - name: "1.1 Run-time Abstraction"
+    href: chapter-1/1-1-run-time-abstraction.md
+  - name: "1.2 Elements"
+    href: chapter-1/1-2-elements.md
+  - name: "1.3 Configurations"
+    href: chapter-1/1-3-configurations.md
+  - name: "1.4 Properties"
+    href: chapter-1/1-4-properties.md
+  - name: "1.5 Styles"
+    href: chapter-1/1-5-styles.md
+  - name: "1.6 Patterns and Pattern Languages"
+    href: chapter-1/1-6-patterns-and-pattern-languages.md
+  - name: "1.7 Views"
+    href: chapter-1/1-7-views.md
+  - name: "1.8 Related Work"
+    href: chapter-1/1-8-related-work.md
+  - name: "1.9 Summary"
+    href: chapter-1/1-9-summary.md
+- name: "Chapter 2. Network-based Application Architectures"
+  href: chapter-2/index.md
+  items:
+  - name: "2.1 Scope"
+    href: chapter-2/2-1-scope.md
+  - name: "2.2 Evaluating the Design of Application Architectures"
+    href: chapter-2/2-2-evaluating-the-design-of-application-architectures.md
+  - name: "2.3 Architectural Properties of Key Interest"
+    href: chapter-2/2-3-architectural-properties-of-key-interest.md
+  - name: "2.4 Summary"
+    href: chapter-2/2-4-summary.md
+- name: "Chapter 3. Network-based Architectural Styles"
+  href: chapter-3/index.md
+  items:
+  - name: "3.1 Classification Methodology"
+    href: chapter-3/3-1-classification-methodology.md
+  - name: "3.2 Data-flow Styles"
+    href: chapter-3/3-2-data-flow-styles.md
+  - name: "3.3 Replication Styles"
+    href: chapter-3/3-3-replication-styles.md
+  - name: "3.4 Hierarchical Styles"
+    href: chapter-3/3-4-hierarchical-styles.md
+  - name: "3.5 Mobile Code Styles"
+    href: chapter-3/3-5-mobile-code-styles.md
+  - name: "3.6 Peer-to-Peer Styles"
+    href: chapter-3/3-6-peer-to-peer-styles.md
+  - name: "3.7 Limitations"
+    href: chapter-3/3-7-limitations.md
+  - name: "3.8 Related Work"
+    href: chapter-3/3-8-related-work.md
+  - name: "3.9 Summary"
+    href: chapter-3/3-9-summary.md
+- name: "Chapter 4. Designing the Web Architecture: Problems and Insights"
+  href: chapter-4/index.md
+  items:
+  - name: "4.1 WWW Application Domain Requirements"
+    href: chapter-4/4-1-www-application-domain-requirements.md
+  - name: "4.2 Problem"
+    href: chapter-4/4-2-problem.md
+  - name: "4.3 Approach"
+    href: chapter-4/4-3-approach.md
+  - name: "4.4 Summary"
+    href: chapter-4/4-4-summary.md
+- name: "Chapter 5. Representational State Transfer (REST)"
+  href: chapter-5/index.md
+  items:
+  - name: "5.1 Deriving REST"
+    href: chapter-5/5-1-deriving-rest.md
+  - name: "5.2 REST Architectural Elements"
+    href: chapter-5/5-2-rest-architectural-elements.md
+  - name: "5.3 REST Architectural Views"
+    href: chapter-5/5-3-rest-architectural-views.md
+  - name: "5.4 Related Work"
+    href: chapter-5/5-4-related-work.md
+  - name: "5.5 Summary"
+    href: chapter-5/5-5-summary.md
+- name: "Chapter 6. Experience and Evaluation"
+  href: chapter-6/index.md
+  items:
+  - name: "6.1 Standardizing the Web"
+    href: chapter-6/6-1-standardizing-the-web.md
+  - name: "6.2 REST Applied to URI"
+    href: chapter-6/6-2-rest-applied-to-uri.md
+  - name: "6.3 REST Applied to HTTP"
+    href: chapter-6/6-3-rest-applied-to-http.md
+  - name: "6.4 Technology Transfer"
+    href: chapter-6/6-4-technology-transfer.md
+  - name: "6.5 Architectural Lessons"
+    href: chapter-6/6-5-architectural-lessons.md
+  - name: "6.6 Summary"
+    href: chapter-6/6-6-summary.md
+- name: "Conclusions"
+  href: conclusions.md
+- name: "References"
+  href: references.md

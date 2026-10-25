@@ -1,7 +1,11 @@
 items:
 - name: Overview
   href: index.md
+- name: Architectural Styles and the Design of Network-based Software Architectures
+  href: network-based-software-architectures/toc.yml
 - name: AWS Well-Architected Framework
   href: aws-well-architected/index.md
 - name: Azure Architecture Center
   href: azure-architecture-center/index.md
+- name: The Twelve-Factor App
+  href: twelve-factor-app/toc.yml
