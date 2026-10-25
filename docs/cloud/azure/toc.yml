@@ -158,6 +158,15 @@ items:
     href: security/microsoft-defender-for-cloud.md
 - name: "14. Management and Governance"
   href: management-and-governance/index.md
+  items:
+  - name: "14.1 Cost management"
+    href: management-and-governance/cost-management.md
+  - name: "14.2 Governance and compliance"
+    href: management-and-governance/governance-and-compliance.md
+  - name: "14.3 Managing and deploying resources"
+    href: management-and-governance/managing-and-deploying-resources.md
+  - name: "14.4 Monitoring tools"
+    href: management-and-governance/monitoring-tools.md
 - name: "15. DevOps"
   href: devops/index.md
 - name: "16. Migration"
