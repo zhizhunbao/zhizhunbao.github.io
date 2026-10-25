@@ -1,10 +1,10 @@
 ---
-title: "3. Practices"
-description: "ARIA Authoring Practices Guide, 3. Practices: Communicating Value and Limits for Range Widgets, Developing a Keyboard Interface, Grid and Table Properties, Hiding Semantics with the presentation Role, Landmark Regions, Providing Accessible Names and Descriptions, Read Me First, Structural Roles."
+title: "2. Practices"
+description: "ARIA Authoring Practices Guide, 2. Practices: Read Me First, Landmark Regions, Providing Accessible Names and Descriptions, Developing a Keyboard Interface, Grid and Table Properties, Communicating Value and Limits for Range Widgets, Structural Roles, Hiding Semantics with the presentation Role."
 ms.date: 2026-10-24
 ---
 
-# 3. Practices
+# 2. Practices
 
 Sources: [ARIA Authoring Practices Guide: Practices](https://www.w3.org/WAI/ARIA/apg/practices/).
 

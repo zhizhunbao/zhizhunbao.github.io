@@ -6,7 +6,7 @@ ms.date: 2026-10-24
 
 # ARIA Authoring Practices Guide
 
-Planned, no content yet. The pages under this one will follow this source's own classification: About, Patterns and Practices.
+Planned, no content yet. The pages under this one will follow this source's own classification and order: Patterns, Practices and About.
 
 | Item | Value |
 |---|---|

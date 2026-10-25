@@ -1,96 +1,96 @@
 items:
 - name: Overview
   href: index.md
-- name: "1. About"
-  href: about/index.md
-  items:
-  - name: "1.1 ARIA Basics"
-    href: about/aria-basics.md
-  - name: "1.2 Assistive Technology Support Tables"
-    href: about/at-support-tables.md
-  - name: "1.3 Introduction"
-    href: about/introduction.md
-  - name: "1.4 Related Specifications"
-    href: about/related-specifications.md
-- name: "2. Patterns"
+- name: "1. Patterns"
   href: patterns/index.md
   items:
-  - name: "2.1 Accordion (Sections With Show/Hide Functionality)"
+  - name: "1.1 Accordion (Sections With Show/Hide Functionality)"
     href: patterns/accordion.md
-  - name: "2.2 Alert"
+  - name: "1.2 Alert"
     href: patterns/alert.md
-  - name: "2.3 Alert and Message Dialogs"
+  - name: "1.3 Alert and Message Dialogs"
     href: patterns/alertdialog.md
-  - name: "2.4 Breadcrumb"
+  - name: "1.4 Breadcrumb"
     href: patterns/breadcrumb.md
-  - name: "2.5 Button"
+  - name: "1.5 Button"
     href: patterns/button.md
-  - name: "2.6 Carousel (Slide Show or Image Rotator)"
+  - name: "1.6 Carousel (Slide Show or Image Rotator)"
     href: patterns/carousel.md
-  - name: "2.7 Checkbox"
+  - name: "1.7 Checkbox"
     href: patterns/checkbox.md
-  - name: "2.8 Combobox"
+  - name: "1.8 Combobox"
     href: patterns/combobox.md
-  - name: "2.9 Dialog (Modal)"
+  - name: "1.9 Dialog (Modal)"
     href: patterns/dialog-modal.md
-  - name: "2.10 Disclosure (Show/Hide)"
+  - name: "1.10 Disclosure (Show/Hide)"
     href: patterns/disclosure.md
-  - name: "2.11 Feed"
+  - name: "1.11 Feed"
     href: patterns/feed.md
-  - name: "2.12 Grid (Interactive Tabular Data and Layout Containers)"
+  - name: "1.12 Grid (Interactive Tabular Data and Layout Containers)"
     href: patterns/grid.md
-  - name: "2.13 Landmarks"
+  - name: "1.13 Landmarks"
     href: patterns/landmarks.md
-  - name: "2.14 Link"
+  - name: "1.14 Link"
     href: patterns/link.md
-  - name: "2.15 Listbox"
+  - name: "1.15 Listbox"
     href: patterns/listbox.md
-  - name: "2.16 Menu and Menubar"
+  - name: "1.16 Menu and Menubar"
     href: patterns/menubar.md
-  - name: "2.17 Menu Button"
+  - name: "1.17 Menu Button"
     href: patterns/menu-button.md
-  - name: "2.18 Meter"
+  - name: "1.18 Meter"
     href: patterns/meter.md
-  - name: "2.19 Radio Group"
+  - name: "1.19 Radio Group"
     href: patterns/radio.md
-  - name: "2.20 Slider"
+  - name: "1.20 Slider"
     href: patterns/slider.md
-  - name: "2.21 Slider (Multi-Thumb)"
+  - name: "1.21 Slider (Multi-Thumb)"
     href: patterns/slider-multithumb.md
-  - name: "2.22 Spinbutton"
+  - name: "1.22 Spinbutton"
     href: patterns/spinbutton.md
-  - name: "2.23 Switch"
+  - name: "1.23 Switch"
     href: patterns/switch.md
-  - name: "2.24 Table"
+  - name: "1.24 Table"
     href: patterns/table.md
-  - name: "2.25 Tabs"
+  - name: "1.25 Tabs"
     href: patterns/tabs.md
-  - name: "2.26 Toolbar"
+  - name: "1.26 Toolbar"
     href: patterns/toolbar.md
-  - name: "2.27 Tooltip"
+  - name: "1.27 Tooltip"
     href: patterns/tooltip.md
-  - name: "2.28 Tree View"
+  - name: "1.28 Tree View"
     href: patterns/treeview.md
-  - name: "2.29 Treegrid"
+  - name: "1.29 Treegrid"
     href: patterns/treegrid.md
-  - name: "2.30 Window Splitter"
+  - name: "1.30 Window Splitter"
     href: patterns/windowsplitter.md
-- name: "3. Practices"
+- name: "2. Practices"
   href: practices/index.md
   items:
-  - name: "3.1 Communicating Value and Limits for Range Widgets"
-    href: practices/range-related-properties.md
-  - name: "3.2 Developing a Keyboard Interface"
-    href: practices/keyboard-interface.md
-  - name: "3.3 Grid and Table Properties"
-    href: practices/grid-and-table-properties.md
-  - name: "3.4 Hiding Semantics with the presentation Role"
-    href: practices/hiding-semantics.md
-  - name: "3.5 Landmark Regions"
-    href: practices/landmark-regions.md
-  - name: "3.6 Providing Accessible Names and Descriptions"
-    href: practices/names-and-descriptions.md
-  - name: "3.7 Read Me First"
+  - name: "2.1 Read Me First"
     href: practices/read-me-first.md
-  - name: "3.8 Structural Roles"
+  - name: "2.2 Landmark Regions"
+    href: practices/landmark-regions.md
+  - name: "2.3 Providing Accessible Names and Descriptions"
+    href: practices/names-and-descriptions.md
+  - name: "2.4 Developing a Keyboard Interface"
+    href: practices/keyboard-interface.md
+  - name: "2.5 Grid and Table Properties"
+    href: practices/grid-and-table-properties.md
+  - name: "2.6 Communicating Value and Limits for Range Widgets"
+    href: practices/range-related-properties.md
+  - name: "2.7 Structural Roles"
     href: practices/structural-roles.md
+  - name: "2.8 Hiding Semantics with the presentation Role"
+    href: practices/hiding-semantics.md
+- name: "3. About"
+  href: about/index.md
+  items:
+  - name: "3.1 Introduction"
+    href: about/introduction.md
+  - name: "3.2 ARIA Basics"
+    href: about/aria-basics.md
+  - name: "3.3 Related Specifications"
+    href: about/related-specifications.md
+  - name: "3.4 Assistive Technology Support Tables"
+    href: about/at-support-tables.md
