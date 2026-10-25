@@ -1,4 +1,5 @@
 # DocFX output
 docs/_site/
+_site/
 docs/obj/
 docs/docfx.build.json

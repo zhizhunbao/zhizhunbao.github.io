@@ -1,8 +1,10 @@
-"""Local preview with automatic rebuild: serve docs/_site and rebuild it whenever a source file under docs/ changes.
+"""Local preview with automatic rebuild: serve _site (repo root), rebuild it when a source file under docs/ changes.
 
 docfx 2.81 has no watch mode (`docfx --serve` builds once), so this polls the sources every second. After each build
 it writes _site/kb-build.txt; kb.js, on localhost only, polls that file and reloads the page when it changes.
-Run it with start-knowledge-base.bat, or (a full build takes about 10 s):
+The preview builds into _site at the repo root, outside docs/: built into docs/_site (the GitHub Actions output) a
+full build took 390 s instead of about 55 s (measured 2026-10-25, 4,300 pages).
+Run it with start-knowledge-base.bat, or:
     python docs/templates/kb/watch.py [port]
 """
 import functools
@@ -15,7 +17,7 @@ import time
 from pathlib import Path
 
 DOCS = Path(__file__).resolve().parents[2]
-SITE = DOCS / "_site"
+SITE = DOCS.parent / "_site"
 DOCFX = Path.home() / ".dotnet" / "tools" / "docfx.exe"
 PORT = int(sys.argv[1]) if len(sys.argv) > 1 else 8080
 
@@ -36,8 +38,8 @@ def build():
     """git_times.py first (docfx.build.json = docfx.json plus each page's "Last updated" time), then docfx."""
     start = time.time()
     subprocess.run([sys.executable, str(Path(__file__).with_name("git_times.py"))], capture_output=True)
-    r = subprocess.run([str(DOCFX), str(DOCS / "docfx.build.json")], capture_output=True, text=True, encoding="utf-8",
-                       errors="replace")
+    r = subprocess.run([str(DOCFX), str(DOCS / "docfx.build.json"), "-o", str(SITE)], capture_output=True, text=True,
+                       encoding="utf-8", errors="replace")
     tail = [line for line in r.stdout.splitlines() if "warning(s)" in line or "error(s)" in line]
     print(f"[{time.strftime('%H:%M:%S')}] built in {time.time() - start:.1f}s: {' '.join(s.strip() for s in tail)}",
           flush=True)
