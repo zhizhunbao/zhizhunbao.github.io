@@ -1,0 +1,19 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Vectors"
+  href: vectors.md
+- name: "2. Matrices, matrix-vector equation, geometric interpretation, geometric transformations with matrices"
+  href: matrices-matrix-vector-equation-geometric-interpretation-geometric-transformations-with-matrices.md
+- name: "3. Solving equations, row-reduction"
+  href: solving-equations-row-reduction.md
+- name: "4. Linear independence, span, basis"
+  href: linear-independence-span-basis.md
+- name: "5. Orthogonality, projection, least-squares, orthogonal bases"
+  href: orthogonality-projection-least-squares-orthogonal-bases.md
+- name: "6. Linear combinations of polynomials, Bezier curves"
+  href: linear-combinations-of-polynomials-bezier-curves.md
+- name: "7. Eigenvectors and eigenvalues"
+  href: eigenvectors-and-eigenvalues.md
+- name: "8. Applications to computer science"
+  href: applications-to-computer-science.md

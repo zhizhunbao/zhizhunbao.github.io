@@ -1,0 +1,15 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Basic definitions and concepts"
+  href: basic-definitions-and-concepts.md
+- name: "2. Univariate data"
+  href: univariate-data.md
+- name: "3. Multivariate data"
+  href: multivariate-data.md
+- name: "4. Data transformation"
+  href: data-transformation.md
+- name: "5. Statistical models and algorithms"
+  href: statistical-models-and-algorithms.md
+- name: "6. Hypothesis testing"
+  href: hypothesis-testing.md

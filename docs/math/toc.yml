@@ -2,12 +2,12 @@ items:
 - name: Overview
   href: index.md
 - name: Calculus
-  href: calculus/index.md
+  href: calculus/toc.yml
 - name: Discrete Mathematics
-  href: discrete-mathematics/index.md
+  href: discrete-mathematics/toc.yml
 - name: Linear Algebra
-  href: linear-algebra/index.md
+  href: linear-algebra/toc.yml
 - name: Probability
-  href: probability/index.md
+  href: probability/toc.yml
 - name: Statistics
-  href: statistics/index.md
+  href: statistics/toc.yml
