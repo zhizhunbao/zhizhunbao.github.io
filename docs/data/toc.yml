@@ -3,5 +3,7 @@ items:
   href: index.md
 - name: Apache Spark
   href: apache-spark/index.md
+- name: CS2023 DM
+  href: cs2023/toc.yml
 - name: PostgreSQL
   href: postgresql/index.md

@@ -1,0 +1,13 @@
+---
+title: "6.1 Distinction between bugs, faults, and failures"
+description: "CS2023 SF-Reliability, 6.1 Distinction between bugs, faults, and failures (CS Core)."
+ms.date: 2026-10-25
+---
+
+# 6.1 Distinction between bugs, faults, and failures
+
+Sources: [CS2023 Body of Knowledge, SF-Reliability, topic 1, p. 234](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=234).
+
+Tier: CS Core. See also: PDC-Coordination, SE-Reliability.
+
+Not written yet.

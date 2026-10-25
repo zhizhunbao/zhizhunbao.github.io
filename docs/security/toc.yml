@@ -5,13 +5,15 @@ items:
   href: cissp/toc.yml
 - name: CompTIA Security+
   href: comptia-security-plus/toc.yml
-- name: MITRE ATT&CK
+- name: CS2023 SEC
+  href: cs2023/toc.yml
+- name: "MITRE ATT&CK"
   href: mitre-attack/index.md
 - name: NIST Cybersecurity Framework
   href: nist-csf/index.md
 - name: NIST SP 800-115
   href: nist-sp-800-115/index.md
-- name: OWASP Top 10:2025
+- name: "OWASP Top 10:2025"
   href: owasp-top-10/index.md
 - name: OWASP Web Security Testing Guide
   href: owasp-web-security-testing-guide/index.md

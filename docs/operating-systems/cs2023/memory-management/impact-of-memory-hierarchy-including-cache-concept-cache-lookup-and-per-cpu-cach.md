@@ -1,0 +1,13 @@
+---
+title: "7.2 Impact of memory hierarchy including cache concept, cache lookup, and per-CPU caching on operating system mechanisms and policy"
+description: "CS2023 OS-Memory, 7.2 Impact of memory hierarchy including cache concept, cache lookup, and per-CPU caching on operating system mechanisms and policy (KA Core)."
+ms.date: 2026-10-25
+---
+
+# 7.2 Impact of memory hierarchy including cache concept, cache lookup, and per-CPU caching on operating system mechanisms and policy
+
+Sources: [CS2023 Body of Knowledge, OS-Memory, topic 2, p. 148](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=148).
+
+Tier: KA Core. See also: AR-Memory, SF-Performance.
+
+Not written yet.

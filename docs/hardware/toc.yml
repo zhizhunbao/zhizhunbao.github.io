@@ -3,5 +3,7 @@ items:
   href: index.md
 - name: Arm
   href: arm/index.md
+- name: CS2023 AR
+  href: cs2023/toc.yml
 - name: x86
   href: x86/index.md

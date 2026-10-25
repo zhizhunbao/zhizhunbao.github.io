@@ -1,0 +1,13 @@
+---
+title: "8.3 Security and cybersecurity"
+description: "CS2023 SPD-SEP/Mobile, 8.3 Security and cybersecurity (Non-core)."
+ms.date: 2026-10-25
+---
+
+# 8.3 Security and cybersecurity
+
+Sources: [CS2023 Body of Knowledge, SPD-SEP/Mobile, topic 3, p. 247](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=247).
+
+Tier: Non-core.
+
+Not written yet.

@@ -1,0 +1,184 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Foundational Security"
+  href: foundational-security/index.md
+  items:
+  - name: "1.1 Developing a security mindset incorporating crosscutting concepts: confidentiality, integrity, availability, risk assessment, systems thinking, adversarial thinking, human-centered thinking"
+    href: foundational-security/developing-a-security-mindset-incorporating-crosscutting-concepts-confidentialit.md
+  - name: "1.2 Basic concepts of authentication and authorization/access control"
+    href: foundational-security/basic-concepts-of-authentication-and-authorization-access-control.md
+  - name: "1.3 Vulnerabilities, threats, attack surfaces, and attack vectors F"
+    href: foundational-security/vulnerabilities-threats-attack-surfaces-and-attack-vectors-f.md
+  - name: "1.4 Denial of Service (DoS) and Distributed Denial of Service (DDoS)"
+    href: foundational-security/denial-of-service-and-distributed-denial-of-service.md
+  - name: "1.5 Principles and practices of protection, e.g., least privilege, open design, fail-safe defaults, defense in depth, and zero trust; and how they can be implemented"
+    href: foundational-security/principles-and-practices-of-protection-e-g-least-privilege-open-design-fail-safe.md
+  - name: "1.6 Optimization considerations between security, privacy, performance, and other design goals"
+    href: foundational-security/optimization-considerations-between-security-privacy-performance-and-other-desig.md
+  - name: "1.7 Impact of AI on security and privacy: using AI to bolster defenses as well as address increased adversarial capabilities due to AI"
+    href: foundational-security/impact-of-ai-on-security-and-privacy-using-ai-to-bolster-defenses-as-well-as-add.md
+  - name: "1.8 Access control models (e.g., discretionary, mandatory, role-based, and attribute-based)"
+    href: foundational-security/access-control-models.md
+  - name: "1.9 Security controls"
+    href: foundational-security/security-controls.md
+  - name: "1.10 Concepts of trust and trustworthiness"
+    href: foundational-security/concepts-of-trust-and-trustworthiness.md
+  - name: "1.11 Applications of a security mindset: web, cloud, and mobile devices"
+    href: foundational-security/applications-of-a-security-mindset-web-cloud-and-mobile-devices.md
+  - name: "1.12 Protecting embedded and cyber-physical systems"
+    href: foundational-security/protecting-embedded-and-cyber-physical-systems.md
+  - name: "1.13 Principles of usable security and human-centered computing"
+    href: foundational-security/principles-of-usable-security-and-human-centered-computing.md
+  - name: "1.14 Security and trust in AI/machine learning systems, e.g., fit for purpose, ethical operating boundaries, authoritative knowledge sources, verified training data, repeatable system evaluation tests, system attestation, independent validation/certification; unintended consequences from: adverse effect"
+    href: foundational-security/security-and-trust-in-ai-machine-learning-systems-e-g-fit-for-purpose-ethical-op.md
+  - name: "1.15 Security risks in building and operating AI/machine learning systems (e.g., algorithm bias, knowledge corpus bias, training corpus bias, copyright violation)"
+    href: foundational-security/security-risks-in-building-and-operating-ai-machine-learning-systems.md
+  - name: "1.16 Hardware considerations in security, e.g., principles of secure hardware, secure processor architectures, cryptographic acceleration, compartmentalization, software-hardware interaction"
+    href: foundational-security/hardware-considerations-in-security-e-g-principles-of-secure-hardware-secure-pro.md
+- name: "2. Society, Ethics, and the Profession"
+  href: society-ethics-and-the-profession/index.md
+  items:
+  - name: "2.1 Principles and practices of privacy"
+    href: society-ethics-and-the-profession/principles-and-practices-of-privacy.md
+  - name: "2.2 Societal impacts on breakdowns in security and privacy"
+    href: society-ethics-and-the-profession/societal-impacts-on-breakdowns-in-security-and-privacy.md
+  - name: "2.3 Applicability of laws and regulations on security and privacy"
+    href: society-ethics-and-the-profession/applicability-of-laws-and-regulations-on-security-and-privacy.md
+  - name: "2.4 Professional ethical considerations when designing secure systems and maintaining privacy; ethical hacking KA-Core"
+    href: society-ethics-and-the-profession/professional-ethical-considerations-when-designing-secure-systems-and-maintainin.md
+  - name: "2.5 Security by design"
+    href: society-ethics-and-the-profession/security-by-design.md
+  - name: "2.6 Privacy by design and privacy engineering"
+    href: society-ethics-and-the-profession/privacy-by-design-and-privacy-engineering.md
+  - name: "2.7 Security and privacy implications of malicious AI/machine learning actors, e.g., identifying deep fakes"
+    href: society-ethics-and-the-profession/security-and-privacy-implications-of-malicious-ai-machine-learning-actors-e-g-id.md
+  - name: "2.8 Societal impacts of Internet of Things (IoT) devices and other emerging technologies on security and privacy"
+    href: society-ethics-and-the-profession/societal-impacts-of-internet-of-things-devices-and-other-emerging-technologies-o.md
+- name: "3. Secure Coding"
+  href: secure-coding/index.md
+  items:
+  - name: "3.1 Common vulnerabilities and weaknesses"
+    href: secure-coding/common-vulnerabilities-and-weaknesses.md
+  - name: "3.2 SQL injection and other injection attacks"
+    href: secure-coding/sql-injection-and-other-injection-attacks.md
+  - name: "3.3 Cross-site scripting techniques and mitigations"
+    href: secure-coding/cross-site-scripting-techniques-and-mitigations.md
+  - name: "3.4 Input validation and data sanitization"
+    href: secure-coding/input-validation-and-data-sanitization.md
+  - name: "3.5 Type safety and type-safe languages"
+    href: secure-coding/type-safety-and-type-safe-languages.md
+  - name: "3.6 Buffer overflows, stack smashing, and integer overflows"
+    href: secure-coding/buffer-overflows-stack-smashing-and-integer-overflows.md
+  - name: "3.7 Security issues due to race conditions"
+    href: secure-coding/security-issues-due-to-race-conditions.md
+  - name: "3.8 Principles of noninterference and nondeducibility"
+    href: secure-coding/principles-of-noninterference-and-nondeducibility.md
+  - name: "3.9 Preventing information flow attacks"
+    href: secure-coding/preventing-information-flow-attacks.md
+  - name: "3.10 Offensive security techniques as a defense"
+    href: secure-coding/offensive-security-techniques-as-a-defense.md
+  - name: "3.11 AI-assisted malware detection techniques"
+    href: secure-coding/ai-assisted-malware-detection-techniques.md
+  - name: "3.12 Ransomware: creation, prevention, and mitigation"
+    href: secure-coding/ransomware-creation-prevention-and-mitigation.md
+  - name: "3.13 Secure use of third-party components"
+    href: secure-coding/secure-use-of-third-party-components.md
+  - name: "3.14 Malware: varieties, creation, reverse engineering, and defense against them"
+    href: secure-coding/malware-varieties-creation-reverse-engineering-and-defense-against-them.md
+  - name: "3.15 Assurance: testing (including fuzzing and penetration testing), verification, and validation"
+    href: secure-coding/assurance-testing-verification-and-validation.md
+  - name: "3.16 Static and dynamic analyses"
+    href: secure-coding/static-and-dynamic-analyses.md
+  - name: "3.17 Secure compilers and secure code generation"
+    href: secure-coding/secure-compilers-and-secure-code-generation.md
+- name: "4. Cryptography"
+  href: cryptography/index.md
+  items:
+  - name: "4.1 Differences between algorithmic, applied, and mathematical views of cryptography"
+    href: cryptography/differences-between-algorithmic-applied-and-mathematical-views-of-cryptography.md
+  - name: "4.2 Mathematical preliminaries: modular arithmetic, Euclidean algorithm, probabilistic independence, linear algebra basics, number theory, finite fields, complexity, asymptotic analysis"
+    href: cryptography/mathematical-preliminaries-modular-arithmetic-euclidean-algorithm-probabilistic.md
+  - name: "4.3 Basic cryptography: symmetric key and public key cryptography"
+    href: cryptography/basic-cryptography-symmetric-key-and-public-key-cryptography.md
+  - name: "4.4 Basic cryptographic building blocks, including symmetric encryption, asymmetric encryption, hashing, and message authentication"
+    href: cryptography/basic-cryptographic-building-blocks-including-symmetric-encryption-asymmetric-en.md
+  - name: "4.5 Classical cryptosystems, such as shift, substitution, transposition ciphers, code books, and machines"
+    href: cryptography/classical-cryptosystems-such-as-shift-substitution-transposition-ciphers-code-bo.md
+  - name: "4.6 Kerckhoff’s principle and use of vetted libraries"
+    href: cryptography/kerckhoffs-principle-and-use-of-vetted-libraries.md
+  - name: "4.7 Usage of cryptography in real-world applications, e.g., electronic cash, secure channels between clients and servers, secure electronic mail, entity authentication, device pairing, steganography, and voting systems"
+    href: cryptography/usage-of-cryptography-in-real-world-applications-e-g-electronic-cash-secure-chan.md
+  - name: "4.8 Additional mathematics: primality, factoring, and elliptic curve cryptography"
+    href: cryptography/additional-mathematics-primality-factoring-and-elliptic-curve-cryptography.md
+  - name: "4.9 Private-key cryptosystems: substitution-permutation networks, linear cryptanalysis, differential cryptanalysis, DES, and AES"
+    href: cryptography/private-key-cryptosystems-substitution-permutation-networks-linear-cryptanalysis.md
+  - name: "4.10 Public-key cryptosystems: Diffie-Hellman and RSA"
+    href: cryptography/public-key-cryptosystems-diffie-hellman-and-rsa.md
+  - name: "4.11 Data integrity and authentication: hashing, and digital signatures"
+    href: cryptography/data-integrity-and-authentication-hashing-and-digital-signatures.md
+  - name: "4.12 Cryptographic protocols: challenge-response authentication, zero-knowledge protocols, commitment, oblivious transfer, secure two- or multi-party computation, hash functions, secret sharing, and applications"
+    href: cryptography/cryptographic-protocols-challenge-response-authentication-zero-knowledge-protoco.md
+  - name: "4.13 Attacker capabilities: chosen-message attack (for signatures), birthday attacks, side channel attacks, and fault injection attacks"
+    href: cryptography/attacker-capabilities-chosen-message-attack-birthday-attacks-side-channel-attack.md
+  - name: "4.14 Quantum cryptography; Post Quantum/Quantum resistant cryptography"
+    href: cryptography/quantum-cryptography-post-quantum-quantum-resistant-cryptography.md
+  - name: "4.15 Blockchain and cryptocurrencies"
+    href: cryptography/blockchain-and-cryptocurrencies.md
+- name: "5. Security Analysis, Design, and Engineering"
+  href: security-analysis-design-and-engineering/index.md
+  items:
+  - name: "5.1 Security engineering goals: building systems that remain dependable despite errors, accidents, or malicious adversaries"
+    href: security-analysis-design-and-engineering/security-engineering-goals-building-systems-that-remain-dependable-despite-error.md
+  - name: "5.2 Privacy engineering goals: building systems that design, implement, and deploy privacy features and controls"
+    href: security-analysis-design-and-engineering/privacy-engineering-goals-building-systems-that-design-implement-and-deploy-priv.md
+  - name: "5.3 Problem analysis and situational analysis to address system security"
+    href: security-analysis-design-and-engineering/problem-analysis-and-situational-analysis-to-address-system-security.md
+  - name: "5.4 Engineering tradeoff analysis based on time, cost, risk tolerance, risk acceptance, return on investment, and so on"
+    href: security-analysis-design-and-engineering/engineering-tradeoff-analysis-based-on-time-cost-risk-tolerance-risk-acceptance.md
+  - name: "5.5 Security design and engineering, including functional requirements, security subsystems, information protection, security testing, security assessment, and evaluation"
+    href: security-analysis-design-and-engineering/security-design-and-engineering-including-functional-requirements-security-subsy.md
+  - name: "5.6 Security analysis, covering security requirements analysis; security controls analysis; threat analysis; and vulnerability analysis"
+    href: security-analysis-design-and-engineering/security-analysis-covering-security-requirements-analysis-security-controls-anal.md
+  - name: "5.7 Security attack domains and attack surfaces, e.g., communications and networking, hardware, physical, social engineering, software, and supply chain"
+    href: security-analysis-design-and-engineering/security-attack-domains-and-attack-surfaces-e-g-communications-and-networking-ha.md
+  - name: "5.8 Security attack modes, techniques, and tactics, e.g., authentication abuse; brute force; buffer manipulation; code injection; content insertion; denial of service; eavesdropping; function bypass; impersonation; integrity attack; interception; phishing; protocol analysis; privilege abuse; spoofing; and traffic injection"
+    href: security-analysis-design-and-engineering/security-attack-modes-techniques-and-tactics-e-g-authentication-abuse-brute-forc.md
+  - name: "5.9 Attestation of software products with respect to their specification and adaptiveness"
+    href: security-analysis-design-and-engineering/attestation-of-software-products-with-respect-to-their-specification-and-adaptiv.md
+  - name: "5.10 Design and development of cyber-physical systems"
+    href: security-analysis-design-and-engineering/design-and-development-of-cyber-physical-systems.md
+  - name: "5.11 Considerations for trustworthy computing, e.g., tamper resistant packaging, trusted boot, trusted kernel, hardware root of trust, software signing and verification, hardware-based cryptography, virtualization, and containers"
+    href: security-analysis-design-and-engineering/considerations-for-trustworthy-computing-e-g-tamper-resistant-packaging-trusted.md
+- name: "6. Digital Forensics"
+  href: digital-forensics/index.md
+  items:
+  - name: "6.1 Basic principles and methodologies for digital forensics"
+    href: digital-forensics/basic-principles-and-methodologies-for-digital-forensics.md
+  - name: "6.2 System design for forensics"
+    href: digital-forensics/system-design-for-forensics.md
+  - name: "6.3 Forensics in different situations: operating systems, file systems, application forensics, web forensics, network forensics, mobile device forensics, use of database auditing"
+    href: digital-forensics/forensics-in-different-situations-operating-systems-file-systems-application-for.md
+  - name: "6.4 Attacks on forensics and preventing such attacks"
+    href: digital-forensics/attacks-on-forensics-and-preventing-such-attacks.md
+  - name: "6.5 Incident handling processes"
+    href: digital-forensics/incident-handling-processes.md
+  - name: "6.6 Rules of evidence – general concepts and differences between jurisdictions"
+    href: digital-forensics/rules-of-evidence-general-concepts-and-differences-between-jurisdictions.md
+  - name: "6.7 Legal issues: digital evidence protection and management, chains of custody, reporting, serving as an expert witness"
+    href: digital-forensics/legal-issues-digital-evidence-protection-and-management-chains-of-custody-report.md
+- name: "7. Security Governance"
+  href: security-governance/index.md
+  items:
+  - name: "7.1 Protecting critical assets from threats"
+    href: security-governance/protecting-critical-assets-from-threats.md
+  - name: "7.2 Security governance: organizational objectives and general risk assessment"
+    href: security-governance/security-governance-organizational-objectives-and-general-risk-assessment.md
+  - name: "7.3 Security management: achieve and maintain appropriate levels of confidentiality, integrity, availability, accountability, authenticity, and reliability"
+    href: security-governance/security-management-achieve-and-maintain-appropriate-levels-of-confidentiality-i.md
+  - name: "7.4 Security policy: organizational policies, issue-specific policies, system-specific policies"
+    href: security-governance/security-policy-organizational-policies-issue-specific-policies-system-specific.md
+  - name: "7.5 Approaches to identifying and mitigating risks to computing infrastructure"
+    href: security-governance/approaches-to-identifying-and-mitigating-risks-to-computing-infrastructure.md
+  - name: "7.6 Data lifecycle management policies: data collection, backups, and retention; cloud storage and services; breach disclosure"
+    href: security-governance/data-lifecycle-management-policies-data-collection-backups-and-retention-cloud-s.md

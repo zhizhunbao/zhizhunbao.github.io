@@ -1,0 +1,72 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Fundamental Programming Concepts and Practices"
+  href: fundamental-programming-concepts-and-practices/index.md
+  items:
+  - name: "1.1 Basic concepts such as variables, primitive data types, expressions, and their evaluation"
+    href: fundamental-programming-concepts-and-practices/basic-concepts-such-as-variables-primitive-data-types-expressions-and-their-eval.md
+  - name: "1.2 How imperative programs work: state and state transitions on execution of statements, flow of control"
+    href: fundamental-programming-concepts-and-practices/how-imperative-programs-work-state-and-state-transitions-on-execution-of-stateme.md
+  - name: "1.3 Basic constructs such as assignment statements, conditional and iterative statements, basic I/O"
+    href: fundamental-programming-concepts-and-practices/basic-constructs-such-as-assignment-statements-conditional-and-iterative-stateme.md
+  - name: "1.4 Key modularity constructs such as functions (and methods and classes, if supported in the language) and related concepts like parameter passing, scope, abstraction, data encapsulation"
+    href: fundamental-programming-concepts-and-practices/key-modularity-constructs-such-as-functions-and-related-concepts-like-parameter.md
+  - name: "1.5 Input and output using files and APIs"
+    href: fundamental-programming-concepts-and-practices/input-and-output-using-files-and-apis.md
+  - name: "1.6 Structured data types available in the chosen programming language like sequences (e.g., arrays, lists), associative containers (e.g., dictionaries, maps), others (e.g., sets, tuples) and when and how to use them"
+    href: fundamental-programming-concepts-and-practices/structured-data-types-available-in-the-chosen-programming-language-like-sequence.md
+  - name: "1.7 Libraries and frameworks provided by the language (when/where applicable)"
+    href: fundamental-programming-concepts-and-practices/libraries-and-frameworks-provided-by-the-language.md
+  - name: "1.8 Recursion"
+    href: fundamental-programming-concepts-and-practices/recursion.md
+  - name: "1.9 Dealing with runtime errors in programs (e.g., exception handling)."
+    href: fundamental-programming-concepts-and-practices/dealing-with-runtime-errors-in-programs.md
+  - name: "1.10 Basic concepts of programming errors, testing, and debugging"
+    href: fundamental-programming-concepts-and-practices/basic-concepts-of-programming-errors-testing-and-debugging.md
+  - name: "1.11 Documenting/commenting code at the program and module level."
+    href: fundamental-programming-concepts-and-practices/documenting-commenting-code-at-the-program-and-module-level.md
+  - name: "1.12 Develop a security mindset."
+    href: fundamental-programming-concepts-and-practices/develop-a-security-mindset.md
+- name: "2. Fundamental Data Structures"
+  href: fundamental-data-structures/index.md
+  items:
+  - name: "2.1 Standard abstract data types such as lists, stacks, queues, sets, and maps/dictionaries, including operations on them."
+    href: fundamental-data-structures/standard-abstract-data-types-such-as-lists-stacks-queues-sets-and-maps-dictionar.md
+  - name: "2.2 Selecting and using appropriate data structures."
+    href: fundamental-data-structures/selecting-and-using-appropriate-data-structures.md
+  - name: "2.3 Performance implications of choice of data structure(s)."
+    href: fundamental-data-structures/performance-implications-of-choice-of-data-structure.md
+  - name: "2.4 Strings and string processing."
+    href: fundamental-data-structures/strings-and-string-processing.md
+- name: "3. Algorithms"
+  href: algorithms/index.md
+  items:
+  - name: "3.1 Concept of algorithm and notion of algorithm efficiency"
+    href: algorithms/concept-of-algorithm-and-notion-of-algorithm-efficiency.md
+  - name: "3.2 Some common algorithms (e.g., sorting, searching, tree traversal, graph traversal)"
+    href: algorithms/some-common-algorithms.md
+  - name: "3.3 Impact of algorithms on time-space efficiency of programs"
+    href: algorithms/impact-of-algorithms-on-time-space-efficiency-of-programs.md
+- name: "4. Software Development Practices"
+  href: software-development-practices/index.md
+  items:
+  - name: "4.1 Basic testing, including test case design"
+    href: software-development-practices/basic-testing-including-test-case-design.md
+  - name: "4.2 Use of a general-purpose IDE, including its debugger"
+    href: software-development-practices/use-of-a-general-purpose-ide-including-its-debugger.md
+  - name: "4.3 Programming style that improves readability"
+    href: software-development-practices/programming-style-that-improves-readability.md
+  - name: "4.4 Specifying functionality of a module in a natural language."
+    href: software-development-practices/specifying-functionality-of-a-module-in-a-natural-language.md
+- name: "5. Society, Ethics, and the Profession"
+  href: society-ethics-and-the-profession/index.md
+  items:
+  - name: "5.1 Intellectual property rights of programmers for programs they develop."
+    href: society-ethics-and-the-profession/intellectual-property-rights-of-programmers-for-programs-they-develop.md
+  - name: "5.2 Plagiarism and academic integrity."
+    href: society-ethics-and-the-profession/plagiarism-and-academic-integrity.md
+  - name: "5.3 Responsibility and liability of programmers regarding code they develop for solutions."
+    href: society-ethics-and-the-profession/responsibility-and-liability-of-programmers-regarding-code-they-develop-for-solu.md
+  - name: "5.4 Basic professional work ethics of programmers."
+    href: society-ethics-and-the-profession/basic-professional-work-ethics-of-programmers.md

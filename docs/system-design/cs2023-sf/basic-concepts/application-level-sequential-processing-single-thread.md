@@ -1,0 +1,13 @@
+---
+title: "2.9 Application-level sequential processing: single thread"
+description: "CS2023 SF-Foundations, 2.9 Application-level sequential processing: single thread (CS Core)."
+ms.date: 2026-10-25
+---
+
+# 2.9 Application-level sequential processing: single thread
+
+Sources: [CS2023 Body of Knowledge, SF-Foundations, topic 9, p. 231](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=231).
+
+Tier: CS Core. See also: PDC-Programs, OS-Concurrency.
+
+Not written yet.

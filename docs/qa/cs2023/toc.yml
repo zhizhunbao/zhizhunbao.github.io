@@ -1,0 +1,200 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Teamwork"
+  href: teamwork/index.md
+  items:
+  - name: "1.1 Effective communication, including oral and written, as well as formal (email, docs, comments, presentations) and informal (team chat, meetings)."
+    href: teamwork/effective-communication-including-oral-and-written-as-well-as-formal-and-informa.md
+  - name: "1.2 Common causes of team conflict, and approaches for conflict resolution."
+    href: teamwork/common-causes-of-team-conflict-and-approaches-for-conflict-resolution.md
+  - name: "1.3 Cooperative programming"
+    href: teamwork/cooperative-programming.md
+  - name: "1.4 Roles and responsibilities in a software team"
+    href: teamwork/roles-and-responsibilities-in-a-software-team.md
+  - name: "1.5 Team processes – responsibilities for tasks, effort estimation, meeting structure, work schedule"
+    href: teamwork/team-processes-responsibilities-for-tasks-effort-estimation-meeting-structure-wo.md
+  - name: "1.6 Importance of team diversity and inclusivity."
+    href: teamwork/importance-of-team-diversity-and-inclusivity.md
+  - name: "1.7 Interfacing with stakeholders, as a team"
+    href: teamwork/interfacing-with-stakeholders-as-a-team.md
+  - name: "1.8 Risks associated with physical, distributed, hybrid, and virtual teams – including communication, perception, structure, points of failure, mitigation, and recovery, etc."
+    href: teamwork/risks-associated-with-physical-distributed-hybrid-and-virtual-teams-including-co.md
+- name: "2. Tools and Environments"
+  href: tools-and-environments/index.md
+  items:
+  - name: "2.1 Software configuration management and version control"
+    href: tools-and-environments/software-configuration-management-and-version-control.md
+  - name: "2.2 Release management."
+    href: tools-and-environments/release-management.md
+  - name: "2.3 Testing tools including static and dynamic analysis tools."
+    href: tools-and-environments/testing-tools-including-static-and-dynamic-analysis-tools.md
+  - name: "2.4 Software process automation"
+    href: tools-and-environments/software-process-automation.md
+  - name: "2.5 Design and communication tools (docs, diagrams, common forms of design diagrams like UML)."
+    href: tools-and-environments/design-and-communication-tools.md
+  - name: "2.6 Tool integration concepts and mechanisms."
+    href: tools-and-environments/tool-integration-concepts-and-mechanisms.md
+  - name: "2.7 Use of modern IDE facilities – debugging, refactoring, searching/indexing, ML-powered code assistants, etc."
+    href: tools-and-environments/use-of-modern-ide-facilities-debugging-refactoring-searching-indexing-ml-powered.md
+- name: "3. Product Requirements"
+  href: product-requirements/index.md
+  items:
+  - name: "3.1 Describe functional requirements using, for example, use cases or user stories."
+    href: product-requirements/describe-functional-requirements-using-for-example-use-cases-or-user-stories.md
+  - name: "3.2 Properties of requirements including consistency, validity, completeness, and feasibility."
+    href: product-requirements/properties-of-requirements-including-consistency-validity-completeness-and-feasi.md
+  - name: "3.3 Requirements elicitation."
+    href: product-requirements/requirements-elicitation.md
+  - name: "3.4 Non-functional requirements, for example, security, usability, or performance, also called as Quality Attributes."
+    href: product-requirements/non-functional-requirements-for-example-security-usability-or-performance-also-c.md
+  - name: "3.5 Risk identification and management, including ethical considerations surrounding the proposed product."
+    href: product-requirements/risk-identification-and-management-including-ethical-considerations-surrounding.md
+  - name: "3.6 Communicating and/or formalizing requirement specifications."
+    href: product-requirements/communicating-and-or-formalizing-requirement-specifications.md
+  - name: "3.7 Prototyping a tool for both eliciting and validating/confirming requirements."
+    href: product-requirements/prototyping-a-tool-for-both-eliciting-and-validating-confirming-requirements.md
+  - name: "3.8 Product evolution: when requirements change, how to understand what effect that has and what changes need to be made."
+    href: product-requirements/product-evolution-when-requirements-change-how-to-understand-what-effect-that-ha.md
+  - name: "3.9 Effort estimation"
+    href: product-requirements/effort-estimation.md
+- name: "4. Software Design"
+  href: software-design/index.md
+  items:
+  - name: "4.1 System design principles."
+    href: software-design/system-design-principles.md
+  - name: "4.2 Software architecture."
+    href: software-design/software-architecture.md
+  - name: "4.3 Programming in the large vs programming in the small."
+    href: software-design/programming-in-the-large-vs-programming-in-the-small.md
+  - name: "4.4 Code smells and other indications of code quality, distinct from correctness."
+    href: software-design/code-smells-and-other-indications-of-code-quality-distinct-from-correctness.md
+  - name: "4.5 API design principles"
+    href: software-design/api-design-principles.md
+  - name: "4.6 Identifying and codifying data invariants and time invariants"
+    href: software-design/identifying-and-codifying-data-invariants-and-time-invariants.md
+  - name: "4.7 Structural and behavioral models of software designs"
+    href: software-design/structural-and-behavioral-models-of-software-designs.md
+  - name: "4.8 Data design"
+    href: software-design/data-design.md
+  - name: "4.9 Requirement traceability"
+    href: software-design/requirement-traceability.md
+  - name: "4.10 Design modeling, for instance with class diagrams, entity relationship diagrams, or sequence diagrams"
+    href: software-design/design-modeling-for-instance-with-class-diagrams-entity-relationship-diagrams-or.md
+  - name: "4.11 Measurement and analysis of design quality"
+    href: software-design/measurement-and-analysis-of-design-quality.md
+  - name: "4.12 Principles of secure design and coding"
+    href: software-design/principles-of-secure-design-and-coding.md
+  - name: "4.13 Evaluating design tradeoffs (e.g., efficiency vs reliability, security vs usability)"
+    href: software-design/evaluating-design-tradeoffs.md
+- name: "5. Software Construction"
+  href: software-construction/index.md
+  items:
+  - name: "5.1 Practical small-scale testing"
+    href: software-construction/practical-small-scale-testing.md
+  - name: "5.2 Documentation"
+    href: software-construction/documentation.md
+  - name: "5.3 Coding style"
+    href: software-construction/coding-style.md
+  - name: "5.4 “Best Practices” for coding: techniques, idioms/patterns, mechanisms for building quality programs"
+    href: software-construction/best-practices-for-coding-techniques-idioms-patterns-mechanisms-for-building-qua.md
+  - name: "5.5 Debugging"
+    href: software-construction/debugging.md
+  - name: "5.6 Logging"
+    href: software-construction/logging.md
+  - name: "5.7 Use of libraries and frameworks developed by others"
+    href: software-construction/use-of-libraries-and-frameworks-developed-by-others.md
+  - name: "5.8 Larger-scale testing"
+    href: software-construction/larger-scale-testing.md
+  - name: "5.9 Work sequencing, including dependency identification, milestones, and risk retirement"
+    href: software-construction/work-sequencing-including-dependency-identification-milestones-and-risk-retireme.md
+  - name: "5.10 Potential security problems in programs"
+    href: software-construction/potential-security-problems-in-programs.md
+  - name: "5.11 Documentation (autogenerated)"
+    href: software-construction/documentation-non-core.md
+  - name: "5.12 Development context: “green field” vs existing code base"
+    href: software-construction/development-context-green-field-vs-existing-code-base.md
+  - name: "5.13 Release management"
+    href: software-construction/release-management.md
+  - name: "5.14 DevOps practices"
+    href: software-construction/devops-practices.md
+- name: "6. Software Verification and Validation"
+  href: software-verification-and-validation/index.md
+  items:
+  - name: "6.1 Verification and validation concepts"
+    href: software-verification-and-validation/verification-and-validation-concepts.md
+  - name: "6.2 Why testing matters: Does the component remain functional as the code evolves?"
+    href: software-verification-and-validation/why-testing-matters-does-the-component-remain-functional-as-the-code-evolves.md
+  - name: "6.3 Testing objectives"
+    href: software-verification-and-validation/testing-objectives.md
+  - name: "6.4 Test kinds"
+    href: software-verification-and-validation/test-kinds.md
+  - name: "6.5 Stylistic differences between tests and production code: DAMP vs DRY – more duplication is warranted in test code."
+    href: software-verification-and-validation/stylistic-differences-between-tests-and-production-code-damp-vs-dry-more-duplica.md
+  - name: "6.6 Test planning and generation"
+    href: software-verification-and-validation/test-planning-and-generation.md
+  - name: "6.7 Test development"
+    href: software-verification-and-validation/test-development.md
+  - name: "6.8 Verification and validation in the development cycle"
+    href: software-verification-and-validation/verification-and-validation-in-the-development-cycle.md
+  - name: "6.9 Domain specific verification and validation challenges"
+    href: software-verification-and-validation/domain-specific-verification-and-validation-challenges.md
+  - name: "6.10 Verification and validation tooling and automation"
+    href: software-verification-and-validation/verification-and-validation-tooling-and-automation.md
+  - name: "6.11 Test planning and generation"
+    href: software-verification-and-validation/test-planning-and-generation-non-core.md
+  - name: "6.12 Performance testing and benchmarking"
+    href: software-verification-and-validation/performance-testing-and-benchmarking.md
+  - name: "6.13 Testing asynchronous, parallel, and concurrent systems"
+    href: software-verification-and-validation/testing-asynchronous-parallel-and-concurrent-systems.md
+  - name: "6.14 Verification and validation of non-code artifacts (documentation, training materials)"
+    href: software-verification-and-validation/verification-and-validation-of-non-code-artifacts.md
+- name: "7. Refactoring and Code Evolution"
+  href: refactoring-and-code-evolution/index.md
+  items:
+  - name: "7.1 Hyrum’s Law/The Law of Implicit Interfaces"
+    href: refactoring-and-code-evolution/hyrums-law-the-law-of-implicit-interfaces.md
+  - name: "7.2 Backward compatibility"
+    href: refactoring-and-code-evolution/backward-compatibility.md
+  - name: "7.3 Refactoring"
+    href: refactoring-and-code-evolution/refactoring.md
+  - name: "7.4 Versioning"
+    href: refactoring-and-code-evolution/versioning.md
+  - name: "7.5 “Large Scale” Refactoring – techniques when a refactoring change is too large to commit safely (large projects), or when it is impossible to synchronize change between provider + all consumers (multiple repositories, consumers with private code)."
+    href: refactoring-and-code-evolution/large-scale-refactoring-techniques-when-a-refactoring-change-is-too-large-to-com.md
+- name: "8. Software Reliability"
+  href: software-reliability/index.md
+  items:
+  - name: "8.1 Concept of reliability as probability of failure or mean time between failures, and faults as cause of failures"
+    href: software-reliability/concept-of-reliability-as-probability-of-failure-or-mean-time-between-failures-a.md
+  - name: "8.2 Identifying reliability requirements for different kinds of software"
+    href: software-reliability/identifying-reliability-requirements-for-different-kinds-of-software.md
+  - name: "8.3 Software failures caused by defects/bugs, and so for high reliability the goal is to have minimum defects – by injecting fewer defects (better training, education, planning), and by removing most of the injected defects (testing, code review, etc.)"
+    href: software-reliability/software-failures-caused-by-defects-bugs-and-so-for-high-reliability-the-goal-is.md
+  - name: "8.4 Software reliability, system reliability and failure behavior"
+    href: software-reliability/software-reliability-system-reliability-and-failure-behavior.md
+  - name: "8.5 Defect injection and removal cycle, and different approaches for defect removal"
+    href: software-reliability/defect-injection-and-removal-cycle-and-different-approaches-for-defect-removal.md
+  - name: "8.6 Compare the “error budget” approach to reliability with the “error-free” approach and identify domains where each is relevant."
+    href: software-reliability/compare-the-error-budget-approach-to-reliability-with-the-error-free-approach-an.md
+  - name: "8.7 Software reliability models"
+    href: software-reliability/software-reliability-models.md
+  - name: "8.8 Software fault tolerance techniques and models"
+    href: software-reliability/software-fault-tolerance-techniques-and-models.md
+  - name: "8.9 Software reliability engineering practices – including reviews, testing, practical model checking"
+    href: software-reliability/software-reliability-engineering-practices-including-reviews-testing-practical-m.md
+  - name: "8.10 Identification of dependent and independent failure domains, and their impact on system reliability"
+    href: software-reliability/identification-of-dependent-and-independent-failure-domains-and-their-impact-on.md
+  - name: "8.11 Measurement-based analysis of software reliability – telemetry, monitoring and alerting, dashboards, release qualification metrics, etc."
+    href: software-reliability/measurement-based-analysis-of-software-reliability-telemetry-monitoring-and-aler.md
+- name: "9. Formal Methods"
+  href: formal-methods/index.md
+  items:
+  - name: "9.1 Formal specification of interfaces"
+    href: formal-methods/formal-specification-of-interfaces.md
+  - name: "9.2 Problem areas well served by formal methods"
+    href: formal-methods/problem-areas-well-served-by-formal-methods.md
+  - name: "9.3 Comparison to other tools and techniques for defect detection"
+    href: formal-methods/comparison-to-other-tools-and-techniques-for-defect-detection.md
+  - name: "9.4 Formal approaches to software modeling and analysis"
+    href: formal-methods/formal-approaches-to-software-modeling-and-analysis.md

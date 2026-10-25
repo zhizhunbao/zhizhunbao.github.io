@@ -1,6 +1,10 @@
 items:
 - name: Overview
   href: index.md
+- name: CS2023 FPL
+  href: cs2023-fpl/toc.yml
+- name: CS2023 SDF
+  href: cs2023-sdf/toc.yml
 - name: Git
   href: git/toc.yml
 - name: GitHub

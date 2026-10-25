@@ -1,0 +1,209 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Fundamental Concepts"
+  href: fundamental-concepts/index.md
+  items:
+  - name: "1.1 Uses of computer graphics and interactive techniques and their potential risks and abuses."
+    href: fundamental-concepts/uses-of-computer-graphics-and-interactive-techniques-and-their-potential-risks-a.md
+  - name: "1.2 Graphic output"
+    href: fundamental-concepts/graphic-output.md
+  - name: "1.3 Human vision system"
+    href: fundamental-concepts/human-vision-system.md
+  - name: "1.4 Standard image formats"
+    href: fundamental-concepts/standard-image-formats.md
+  - name: "1.5 Digitization of analog data"
+    href: fundamental-concepts/digitization-of-analog-data.md
+  - name: "1.6 Color models: additive (RGB), subtractive (CMYK), and color perception (HSV)"
+    href: fundamental-concepts/color-models-additive-subtractive-and-color-perception.md
+  - name: "1.7 Tradeoffs between storing image data and re-computing image data"
+    href: fundamental-concepts/tradeoffs-between-storing-image-data-and-re-computing-image-data.md
+  - name: "1.8 Spatialization: coordinate systems, absolute and relative positioning"
+    href: fundamental-concepts/spatialization-coordinate-systems-absolute-and-relative-positioning.md
+  - name: "1.9 Animation as a sequence of still images"
+    href: fundamental-concepts/animation-as-a-sequence-of-still-images.md
+  - name: "1.10 Applied interactive graphics (e.g., processing, python)"
+    href: fundamental-concepts/applied-interactive-graphics.md
+  - name: "1.11 Display characteristics (protocols and ports)"
+    href: fundamental-concepts/display-characteristics.md
+- name: "2. Visualization"
+  href: visualization/index.md
+  items:
+  - name: "2.1 Scientific Data Visualization and Information Visualization"
+    href: visualization/scientific-data-visualization-and-information-visualization.md
+  - name: "2.2 Visualization techniques"
+    href: visualization/visualization-techniques.md
+  - name: "2.3 Visualization pipeline"
+    href: visualization/visualization-pipeline.md
+  - name: "2.4 Common data formats (e.g., HDF, netCDF, geotiff, GeoJSON, shape files, raw binary, JSON, CSV, plain text)"
+    href: visualization/common-data-formats.md
+  - name: "2.5 High-dimensional data handling techniques"
+    href: visualization/high-dimensional-data-handling-techniques.md
+  - name: "2.6 Perceptual and cognitive foundations that drive visual abstractions."
+    href: visualization/perceptual-and-cognitive-foundations-that-drive-visual-abstractions.md
+  - name: "2.7 Design and evaluation of visualizations"
+    href: visualization/design-and-evaluation-of-visualizations.md
+- name: "3. Applied Rendering and Techniques"
+  href: applied-rendering-and-techniques/index.md
+  items:
+  - name: "3.1 Object and scene modeling"
+    href: applied-rendering-and-techniques/object-and-scene-modeling.md
+  - name: "3.2 Camera and projection modeling"
+    href: applied-rendering-and-techniques/camera-and-projection-modeling.md
+  - name: "3.3 Radiometry and light models"
+    href: applied-rendering-and-techniques/radiometry-and-light-models.md
+  - name: "3.4 Rendering"
+    href: applied-rendering-and-techniques/rendering.md
+- name: "4. Geometric Modeling"
+  href: geometric-modeling/index.md
+  items:
+  - name: "4.1 Basic geometric operations such as intersection calculation and proximity tests on 2D objects"
+    href: geometric-modeling/basic-geometric-operations-such-as-intersection-calculation-and-proximity-tests.md
+  - name: "4.2 Surface representation/model"
+    href: geometric-modeling/surface-representation-model.md
+  - name: "4.3 Volumetric representation/model"
+    href: geometric-modeling/volumetric-representation-model.md
+  - name: "4.4 Procedural representation/model"
+    href: geometric-modeling/procedural-representation-model.md
+  - name: "4.5 Multi-resolution modeling"
+    href: geometric-modeling/multi-resolution-modeling.md
+  - name: "4.6 Reconstruction, e.g., 3D scanning, photogrammetry"
+    href: geometric-modeling/reconstruction-e-g-3d-scanning-photogrammetry.md
+- name: "5. Shading and Advanced Rendering"
+  href: shading-and-advanced-rendering/index.md
+  items:
+  - name: "5.1 Solutions and approximations to the rendering equation, for example"
+    href: shading-and-advanced-rendering/solutions-and-approximations-to-the-rendering-equation-for-example.md
+  - name: "5.2 Time (motion blur), lens position (focus), and continuous frequency (color) and their impact on rendering"
+    href: shading-and-advanced-rendering/time-lens-position-and-continuous-frequency-and-their-impact-on-rendering.md
+  - name: "5.3 Shadow mapping"
+    href: shading-and-advanced-rendering/shadow-mapping.md
+  - name: "5.4 Occlusion culling"
+    href: shading-and-advanced-rendering/occlusion-culling.md
+  - name: "5.5 Bidirectional Scattering Distribution function (BSDF) theory and microfacets"
+    href: shading-and-advanced-rendering/bidirectional-scattering-distribution-function-theory-and-microfacets.md
+  - name: "5.6 Subsurface scattering"
+    href: shading-and-advanced-rendering/subsurface-scattering.md
+  - name: "5.7 Area light sources"
+    href: shading-and-advanced-rendering/area-light-sources.md
+  - name: "5.8 Hierarchical depth buffering"
+    href: shading-and-advanced-rendering/hierarchical-depth-buffering.md
+  - name: "5.9 Image-based rendering"
+    href: shading-and-advanced-rendering/image-based-rendering.md
+  - name: "5.10 Non-photorealistic rendering"
+    href: shading-and-advanced-rendering/non-photorealistic-rendering.md
+  - name: "5.11 Realtime rendering"
+    href: shading-and-advanced-rendering/realtime-rendering.md
+  - name: "5.12 GPU architecture"
+    href: shading-and-advanced-rendering/gpu-architecture.md
+  - name: "5.13 Human visual systems including adaptation to light, sensitivity to noise, and flicker fusion"
+    href: shading-and-advanced-rendering/human-visual-systems-including-adaptation-to-light-sensitivity-to-noise-and-flic.md
+- name: "6. Computer Animation"
+  href: computer-animation/index.md
+  items:
+  - name: "6.1 Principles of Animation: Squash and Stretch, Timing, Anticipation, Staging, Follow Through and Overlapping Action, Straight Ahead Action, and Pose-to-Pose Action, Slow In and Out, Arcs, Exaggeration, and Appeal"
+    href: computer-animation/principles-of-animation-squash-and-stretch-timing-anticipation-staging-follow-th.md
+  - name: "6.2 Types of animation"
+    href: computer-animation/types-of-animation.md
+  - name: "6.3 Key-frame animation"
+    href: computer-animation/key-frame-animation.md
+  - name: "6.4 Forward and inverse kinematics"
+    href: computer-animation/forward-and-inverse-kinematics.md
+  - name: "6.5 Skinning algorithms"
+    href: computer-animation/skinning-algorithms.md
+  - name: "6.6 Motion capture"
+    href: computer-animation/motion-capture.md
+- name: "7. Simulation"
+  href: simulation/index.md
+  items:
+  - name: "7.1 Collision detection and response"
+    href: simulation/collision-detection-and-response.md
+  - name: "7.2 Procedural animation using noise"
+    href: simulation/procedural-animation-using-noise.md
+  - name: "7.3 Particle systems"
+    href: simulation/particle-systems.md
+  - name: "7.4 Grid-based fluids"
+    href: simulation/grid-based-fluids.md
+  - name: "7.5 Heightfields"
+    href: simulation/heightfields.md
+  - name: "7.6 Rule-based systems (e.g., L-systems, space-colonizing systems, Game of Life)"
+    href: simulation/rule-based-systems.md
+- name: "8. Immersion"
+  href: immersion/index.md
+  items:
+  - name: "8.1 Immersion levels (i.e., Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR))"
+    href: immersion/immersion-levels-augmented-reality-and-mixed-reality.md
+  - name: "8.2 Definitions of and distinctions between immersion and presence"
+    href: immersion/definitions-of-and-distinctions-between-immersion-and-presence.md
+  - name: "8.3 360 Video"
+    href: immersion/360-video.md
+  - name: "8.4 Stereoscopic display"
+    href: immersion/stereoscopic-display.md
+  - name: "8.5 Viewer tracking"
+    href: immersion/viewer-tracking.md
+  - name: "8.6 Time-critical rendering to achieve optimal Motion To Photon (MTP) latency"
+    href: immersion/time-critical-rendering-to-achieve-optimal-motion-to-photon-latency.md
+  - name: "8.7 Distributed VR, collaboration over computer network"
+    href: immersion/distributed-vr-collaboration-over-computer-network.md
+  - name: "8.8 Presence and factors that impact level of immersion"
+    href: immersion/presence-and-factors-that-impact-level-of-immersion.md
+  - name: "8.9 3D interaction"
+    href: immersion/3d-interaction.md
+  - name: "8.10 Applications in medicine, simulation, training, and visualization"
+    href: immersion/applications-in-medicine-simulation-training-and-visualization.md
+  - name: "8.11 Safety in immersive applications"
+    href: immersion/safety-in-immersive-applications.md
+- name: "9. Interaction"
+  href: interaction/index.md
+  items:
+  - name: "9.1 Event Driven Programming"
+    href: interaction/event-driven-programming.md
+  - name: "9.2 Graphical User Interface (Single Channel)"
+    href: interaction/graphical-user-interface.md
+  - name: "9.3 Accessibility"
+    href: interaction/accessibility.md
+  - name: "9.4 Gestural Interfaces"
+    href: interaction/gestural-interfaces.md
+  - name: "9.5 Haptic Interfaces"
+    href: interaction/haptic-interfaces.md
+  - name: "9.6 Multimodal Interfaces"
+    href: interaction/multimodal-interfaces.md
+  - name: "9.7 Head-worn Interfaces"
+    href: interaction/head-worn-interfaces.md
+  - name: "9.8 Natural Language Interfaces"
+    href: interaction/natural-language-interfaces.md
+- name: "10. Image Processing"
+  href: image-processing/index.md
+  items:
+  - name: "10.1 Morphological operations"
+    href: image-processing/morphological-operations.md
+  - name: "10.2 Color histograms"
+    href: image-processing/color-histograms.md
+  - name: "10.3 Image enhancement"
+    href: image-processing/image-enhancement.md
+  - name: "10.4 Image restoration"
+    href: image-processing/image-restoration.md
+  - name: "10.5 Image coding"
+    href: image-processing/image-coding.md
+  - name: "10.6 Connections to deep learning (e.g., Convolutional Neural Networks)"
+    href: image-processing/connections-to-deep-learning.md
+- name: "11. Tangible/Physical Computing"
+  href: tangible-physical-computing/index.md
+  items:
+  - name: "11.1 Interaction with the physical world"
+    href: tangible-physical-computing/interaction-with-the-physical-world.md
+  - name: "11.2 Connection to physical artifacts"
+    href: tangible-physical-computing/connection-to-physical-artifacts.md
+  - name: "11.3 Internet of Things"
+    href: tangible-physical-computing/internet-of-things.md
+- name: "12. Society, Ethics, and the Profession"
+  href: society-ethics-and-the-profession/index.md
+  items:
+  - name: "12.1 Accessibility in immersive, interactive, and physical computing applications"
+    href: society-ethics-and-the-profession/accessibility-in-immersive-interactive-and-physical-computing-applications.md
+  - name: "12.2 Ethics/privacy in graphics applications."
+    href: society-ethics-and-the-profession/ethics-privacy-in-graphics-applications.md
+  - name: "12.3 Intellectual Property law as it relates to computer graphics and interactive techniques"
+    href: society-ethics-and-the-profession/intellectual-property-law-as-it-relates-to-computer-graphics-and-interactive-tec.md
+  - name: "12.4 Current and past contributors to the field"
+    href: society-ethics-and-the-profession/current-and-past-contributors-to-the-field.md

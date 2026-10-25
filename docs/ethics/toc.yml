@@ -3,3 +3,5 @@ items:
   href: index.md
 - name: ACM Code of Ethics and Professional Conduct
   href: acm-code-of-ethics/index.md
+- name: CS2023 SEP
+  href: cs2023/toc.yml

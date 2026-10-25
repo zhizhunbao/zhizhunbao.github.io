@@ -3,5 +3,7 @@ items:
   href: index.md
 - name: CCNA
   href: ccna/toc.yml
+- name: CS2023 NC
+  href: cs2023/toc.yml
 - name: RFC Series
   href: rfc-series/toc.yml

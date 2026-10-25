@@ -5,6 +5,8 @@ items:
   href: apple-hig/index.md
 - name: ARIA Authoring Practices Guide
   href: apg/toc.yml
+- name: CS2023 HCI
+  href: cs2023/toc.yml
 - name: Fluent 2
   href: fluent-2/index.md
 - name: ISO 9241

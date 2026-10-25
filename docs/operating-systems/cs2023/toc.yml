@@ -1,0 +1,255 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Role and Purpose of Operating Systems"
+  href: role-and-purpose-of-operating-systems/index.md
+  items:
+  - name: "1.1 Operating systems mediate between general purpose hardware and application-specific software."
+    href: role-and-purpose-of-operating-systems/operating-systems-mediate-between-general-purpose-hardware-and-application-speci.md
+  - name: "1.2 Universal operating system functions (e.g., process, user and device interfaces, persistence of data)"
+    href: role-and-purpose-of-operating-systems/universal-operating-system-functions.md
+  - name: "1.3 Extended and/or specialized operating system functions (e.g., embedded systems, server types such as file, web, multimedia, boot loaders and boot security)"
+    href: role-and-purpose-of-operating-systems/extended-and-or-specialized-operating-system-functions.md
+  - name: "1.4 Design issues (e.g., efficiency, robustness, flexibility, portability, security, compatibility, power, safety, tradeoffs between error checking and performance, flexibility and performance, and security and performance)"
+    href: role-and-purpose-of-operating-systems/design-issues.md
+  - name: "1.5 Influences of security, networking, multimedia, parallel and distributed computing"
+    href: role-and-purpose-of-operating-systems/influences-of-security-networking-multimedia-parallel-and-distributed-computing.md
+  - name: "1.6 Overarching concern of security/protection: Neglecting to consider security at every layer creates an opportunity to inappropriately access resources. Example concepts"
+    href: role-and-purpose-of-operating-systems/overarching-concern-of-security-protection-neglecting-to-consider-security-at-ev.md
+  - name: "1.7 Exposure of operating systems functions in shells and systems programming."
+    href: role-and-purpose-of-operating-systems/exposure-of-operating-systems-functions-in-shells-and-systems-programming.md
+- name: "2. Principles of Operating System"
+  href: principles-of-operating-system/index.md
+  items:
+  - name: "2.1 Operating system software design and approaches (e.g., monolithic, layered, modular, micro- kernel, unikernel)"
+    href: principles-of-operating-system/operating-system-software-design-and-approaches.md
+  - name: "2.2 Abstractions, processes, and resources"
+    href: principles-of-operating-system/abstractions-processes-and-resources.md
+  - name: "2.3 Concept of system calls and links to application program interfaces (e.g., Win32, Java, Posix)."
+    href: principles-of-operating-system/concept-of-system-calls-and-links-to-application-program-interfaces.md
+  - name: "2.4 The evolution of the link between hardware architecture and the operating system functions"
+    href: principles-of-operating-system/the-evolution-of-the-link-between-hardware-architecture-and-the-operating-system.md
+  - name: "2.5 Protection of resources means protecting some machine instructions/functions Example concepts"
+    href: principles-of-operating-system/protection-of-resources-means-protecting-some-machine-instructions-functions-exa.md
+  - name: "2.6 Leveraging interrupts from hardware level: service routines and implementations. Example concepts"
+    href: principles-of-operating-system/leveraging-interrupts-from-hardware-level-service-routines-and-implementations-e.md
+  - name: "2.7 Concept of user/system state and protection, transition to kernel mode using system calls"
+    href: principles-of-operating-system/concept-of-user-system-state-and-protection-transition-to-kernel-mode-using-syst.md
+  - name: "2.8 Mechanism for invoking system calls, the corresponding mode and context switch and return from interrupt"
+    href: principles-of-operating-system/mechanism-for-invoking-system-calls-the-corresponding-mode-and-context-switch-an.md
+  - name: "2.9 Performance costs of context switches and associated cache flushes when performing process switches in Spectre-mitigated environments."
+    href: principles-of-operating-system/performance-costs-of-context-switches-and-associated-cache-flushes-when-performi.md
+- name: "3. Concurrency"
+  href: concurrency/index.md
+  items:
+  - name: "3.1 Thread abstraction relative to concurrency"
+    href: concurrency/thread-abstraction-relative-to-concurrency.md
+  - name: "3.2 Race conditions, critical regions (role of interrupts, if needed)"
+    href: concurrency/race-conditions-critical-regions.md
+  - name: "3.3 Deadlocks and starvation"
+    href: concurrency/deadlocks-and-starvation.md
+  - name: "3.4 Multiprocessor issues (spin-locks, reentrancy)."
+    href: concurrency/multiprocessor-issues.md
+  - name: "3.5 Multiprocess concurrency vs multithreading"
+    href: concurrency/multiprocess-concurrency-vs-multithreading.md
+  - name: "3.6 Thread creation, states, structures"
+    href: concurrency/thread-creation-states-structures.md
+  - name: "3.7 Thread APIs"
+    href: concurrency/thread-apis.md
+  - name: "3.8 Deadlocks and starvation (necessary conditions/mitigations)"
+    href: concurrency/deadlocks-and-starvation-ka-core.md
+  - name: "3.9 Implementing thread safe code (semaphores, mutex locks, condition variables)."
+    href: concurrency/implementing-thread-safe-code.md
+  - name: "3.10 Race conditions in shared memory"
+    href: concurrency/race-conditions-in-shared-memory.md
+  - name: "3.11 Managing atomic access to OS objects (e.g., big kernel lock vs many small locks vs lockless data structures like lists)"
+    href: concurrency/managing-atomic-access-to-os-objects.md
+- name: "4. Protection and Safety"
+  href: protection-and-safety/index.md
+  items:
+  - name: "4.1 Overview of operating system security mechanisms"
+    href: protection-and-safety/overview-of-operating-system-security-mechanisms.md
+  - name: "4.2 Attacks and antagonism (scheduling, etc.)"
+    href: protection-and-safety/attacks-and-antagonism.md
+  - name: "4.3 Review of major vulnerabilities in real operating systems"
+    href: protection-and-safety/review-of-major-vulnerabilities-in-real-operating-systems.md
+  - name: "4.4 Operating systems mitigation strategies such as backups"
+    href: protection-and-safety/operating-systems-mitigation-strategies-such-as-backups.md
+  - name: "4.5 Policy/mechanism separation"
+    href: protection-and-safety/policy-mechanism-separation.md
+  - name: "4.6 Security methods and devices Example concepts"
+    href: protection-and-safety/security-methods-and-devices-example-concepts.md
+  - name: "4.7 Protection, access control, and authentication"
+    href: protection-and-safety/protection-access-control-and-authentication.md
+- name: "5. Scheduling"
+  href: scheduling/index.md
+  items:
+  - name: "5.1 Preemptive and non-preemptive scheduling"
+    href: scheduling/preemptive-and-non-preemptive-scheduling.md
+  - name: "5.2 Schedulers and policies (e.g., first come, first serve, shortest job first, priority, round robin, multilevel)"
+    href: scheduling/schedulers-and-policies.md
+  - name: "5.3 Concepts of Symmetric Multi-Processor (SMP) scheduling and cache coherence"
+    href: scheduling/concepts-of-symmetric-multi-processor-scheduling-and-cache-coherence.md
+  - name: "5.4 Timers (e.g., building many timers out of finite hardware timers)"
+    href: scheduling/timers.md
+  - name: "5.5 Fairness and starvation"
+    href: scheduling/fairness-and-starvation.md
+  - name: "5.6 Subtopics of operating systems such as energy-aware scheduling and real-time scheduling"
+    href: scheduling/subtopics-of-operating-systems-such-as-energy-aware-scheduling-and-real-time-sch.md
+  - name: "5.7 Cooperative scheduling, such as Linux futexes and userland scheduling."
+    href: scheduling/cooperative-scheduling-such-as-linux-futexes-and-userland-scheduling.md
+- name: "6. Process Model"
+  href: process-model/index.md
+  items:
+  - name: "6.1 Processes and threads relative to virtualization protected memory, process state, memory isolation, etc."
+    href: process-model/processes-and-threads-relative-to-virtualization-protected-memory-process-state.md
+  - name: "6.2 Memory footprint/segmentation (e.g., stack, heap, etc.)"
+    href: process-model/memory-footprint-segmentation.md
+  - name: "6.3 Creating and loading executables, shared libraries, and dynamic linking"
+    href: process-model/creating-and-loading-executables-shared-libraries-and-dynamic-linking.md
+  - name: "6.4 Dispatching and context switching"
+    href: process-model/dispatching-and-context-switching.md
+  - name: "6.5 Interprocess communication (e.g., shared memory, message passing, signals, environment variables)"
+    href: process-model/interprocess-communication.md
+- name: "7. Memory Management"
+  href: memory-management/index.md
+  items:
+  - name: "7.1 Review of physical memory, address translation and memory management hardware"
+    href: memory-management/review-of-physical-memory-address-translation-and-memory-management-hardware.md
+  - name: "7.2 Impact of memory hierarchy including cache concept, cache lookup, and per-CPU caching on operating system mechanisms and policy"
+    href: memory-management/impact-of-memory-hierarchy-including-cache-concept-cache-lookup-and-per-cpu-cach.md
+  - name: "7.3 Logical and physical addressing, address space virtualization"
+    href: memory-management/logical-and-physical-addressing-address-space-virtualization.md
+  - name: "7.4 Concepts of paging, page replacement, thrashing and allocation of pages and frames"
+    href: memory-management/concepts-of-paging-page-replacement-thrashing-and-allocation-of-pages-and-frames.md
+  - name: "7.5 Allocation/deallocation/storage techniques (algorithms and data structure) performance and flexibility Example concept: Arenas, slab allocators, free lists, size classes, heterogeneously sized pages (huge pages)"
+    href: memory-management/allocation-deallocation-storage-techniques-performance-and-flexibility-example-c.md
+  - name: "7.6 Memory caching and cache coherence and the effect of flushing the cache to avoid speculative execution vulnerabilities"
+    href: memory-management/memory-caching-and-cache-coherence-and-the-effect-of-flushing-the-cache-to-avoid.md
+  - name: "7.7 Security mechanisms and concepts in memory management including sandboxing, protection, isolation, and relevant vectors of attack"
+    href: memory-management/security-mechanisms-and-concepts-in-memory-management-including-sandboxing-prote.md
+  - name: "7.8 Virtual memory: leveraging virtual memory hardware for OS services and efficiency"
+    href: memory-management/virtual-memory-leveraging-virtual-memory-hardware-for-os-services-and-efficiency.md
+- name: "8. Device management"
+  href: device-management/index.md
+  items:
+  - name: "8.1 Buffering strategies"
+    href: device-management/buffering-strategies.md
+  - name: "8.2 Direct Memory Access (DMA) and polled I/O, Memory-mapped I/O Example concept: DMA communication protocols (e.g., ring buffers etc.)"
+    href: device-management/direct-memory-access-and-polled-i-o-memory-mapped-i-o-example-concept-dma-commun.md
+  - name: "8.3 Historical and contextual - Persistent storage device management (e.g., magnetic, Solid State Device (SSD))"
+    href: device-management/historical-and-contextual-persistent-storage-device-management.md
+  - name: "8.4 Device interface abstractions, hardware abstraction layer"
+    href: device-management/device-interface-abstractions-hardware-abstraction-layer.md
+  - name: "8.5 Device driver purpose, abstraction, implementation, and testing challenges"
+    href: device-management/device-driver-purpose-abstraction-implementation-and-testing-challenges.md
+  - name: "8.6 High-level fault tolerance in device communication"
+    href: device-management/high-level-fault-tolerance-in-device-communication.md
+- name: "9. File Systems API and Implementation"
+  href: file-systems-api-and-implementation/index.md
+  items:
+  - name: "9.1 Concept of a file including data, metadata, operations, and access-mode"
+    href: file-systems-api-and-implementation/concept-of-a-file-including-data-metadata-operations-and-access-mode.md
+  - name: "9.2 File system mounting"
+    href: file-systems-api-and-implementation/file-system-mounting.md
+  - name: "9.3 File access control"
+    href: file-systems-api-and-implementation/file-access-control.md
+  - name: "9.4 File sharing"
+    href: file-systems-api-and-implementation/file-sharing.md
+  - name: "9.5 Basic file allocation methods, including linked allocation table"
+    href: file-systems-api-and-implementation/basic-file-allocation-methods-including-linked-allocation-table.md
+  - name: "9.6 File system structures comprising file allocation including various directory structures and methods for uniquely identifying files (e.g., name, identified or metadata storage location)"
+    href: file-systems-api-and-implementation/file-system-structures-comprising-file-allocation-including-various-directory-st.md
+  - name: "9.7 Allocation/deallocation/storage techniques (algorithms and data structure) impact on performance and flexibility (i.e., internal and external fragmentation and compaction)"
+    href: file-systems-api-and-implementation/allocation-deallocation-storage-techniques-impact-on-performance-and-flexibility.md
+  - name: "9.8 Free space management such as using bit tables vs linking"
+    href: file-systems-api-and-implementation/free-space-management-such-as-using-bit-tables-vs-linking.md
+  - name: "9.9 Implementation of directories to segment and track file location"
+    href: file-systems-api-and-implementation/implementation-of-directories-to-segment-and-track-file-location.md
+- name: "10. Advanced File systems"
+  href: advanced-file-systems/index.md
+  items:
+  - name: "10.1 File systems: partitioning, mount/unmount, virtual file systems"
+    href: advanced-file-systems/file-systems-partitioning-mount-unmount-virtual-file-systems.md
+  - name: "10.2 In-depth implementation techniques"
+    href: advanced-file-systems/in-depth-implementation-techniques.md
+  - name: "10.3 Memory-mapped files"
+    href: advanced-file-systems/memory-mapped-files.md
+  - name: "10.4 Special-purpose file systems"
+    href: advanced-file-systems/special-purpose-file-systems.md
+  - name: "10.5 Naming, searching, access, backups"
+    href: advanced-file-systems/naming-searching-access-backups.md
+  - name: "10.6 Journaling and log-structured file systems"
+    href: advanced-file-systems/journaling-and-log-structured-file-systems.md
+  - name: "10.1 Distributed file systems"
+    href: advanced-file-systems/distributed-file-systems.md
+  - name: "10.2 Encrypted file systems"
+    href: advanced-file-systems/encrypted-file-systems.md
+  - name: "10.3 Fault tolerance"
+    href: advanced-file-systems/fault-tolerance.md
+- name: "11. Virtualization"
+  href: virtualization/index.md
+  items:
+  - name: "11.1 Using virtualization and isolation to achieve protection and predictable performance."
+    href: virtualization/using-virtualization-and-isolation-to-achieve-protection-and-predictable-perform.md
+  - name: "11.2 Advanced paging and virtual memory."
+    href: virtualization/advanced-paging-and-virtual-memory.md
+  - name: "11.3 Virtual file systems and virtual devices."
+    href: virtualization/virtual-file-systems-and-virtual-devices.md
+  - name: "11.4 Containers and their comparison to virtual machines."
+    href: virtualization/containers-and-their-comparison-to-virtual-machines.md
+  - name: "11.5 Thrashing (e.g., Popek and Goldberg requirements for recursively virtualizable systems)."
+    href: virtualization/thrashing.md
+  - name: "11.6 Types of virtualizations (including hardware/software, OS, server, service, network)."
+    href: virtualization/types-of-virtualizations.md
+  - name: "11.7 Portable virtualization; emulation vs isolation."
+    href: virtualization/portable-virtualization-emulation-vs-isolation.md
+  - name: "11.8 Cost of virtualization."
+    href: virtualization/cost-of-virtualization.md
+  - name: "11.9 Virtual machines and container escapes, dangers from a security perspective."
+    href: virtualization/virtual-machines-and-container-escapes-dangers-from-a-security-perspective.md
+  - name: "11.10 Hypervisors- hardware virtual machine extensions, hosts with kernel support, QEMU KVM"
+    href: virtualization/hypervisors-hardware-virtual-machine-extensions-hosts-with-kernel-support-qemu-k.md
+- name: "12. Real-time and Embedded Systems"
+  href: real-time-and-embedded-systems/index.md
+  items:
+  - name: "12.1 Process and task scheduling."
+    href: real-time-and-embedded-systems/process-and-task-scheduling.md
+  - name: "12.2 Deadlines and real-time issues."
+    href: real-time-and-embedded-systems/deadlines-and-real-time-issues.md
+  - name: "12.3 Low-latency vs ”soft real-time\" vs \"hard real time.\""
+    href: real-time-and-embedded-systems/low-latency-vs-soft-real-time-vs-hard-real-time.md
+  - name: "12.4 Memory/disk management requirements in a real-time environment."
+    href: real-time-and-embedded-systems/memory-disk-management-requirements-in-a-real-time-environment.md
+  - name: "12.5 Failures, risks, and recovery."
+    href: real-time-and-embedded-systems/failures-risks-and-recovery.md
+  - name: "12.6 Special concerns in real-time systems (safety)."
+    href: real-time-and-embedded-systems/special-concerns-in-real-time-systems.md
+- name: "13. Fault tolerance"
+  href: fault-tolerance/index.md
+  items:
+  - name: "13.1 Reliable and available systems."
+    href: fault-tolerance/reliable-and-available-systems.md
+  - name: "13.2 Software and hardware approaches to address tolerance (RAID)."
+    href: fault-tolerance/software-and-hardware-approaches-to-address-tolerance.md
+  - name: "13.3 Spatial and temporal redundancy."
+    href: fault-tolerance/spatial-and-temporal-redundancy.md
+  - name: "13.4 Methods used to implement fault tolerance."
+    href: fault-tolerance/methods-used-to-implement-fault-tolerance.md
+  - name: "13.5 Error identification and correction mechanisms, checksums of volatile memory in RAM."
+    href: fault-tolerance/error-identification-and-correction-mechanisms-checksums-of-volatile-memory-in-r.md
+  - name: "13.6 File system consistency check and recovery."
+    href: fault-tolerance/file-system-consistency-check-and-recovery.md
+  - name: "13.7 Journaling and log-structured file systems."
+    href: fault-tolerance/journaling-and-log-structured-file-systems.md
+  - name: "13.8 Use-cases for fault-tolerance (databases, safety-critical)."
+    href: fault-tolerance/use-cases-for-fault-tolerance.md
+  - name: "13.9 Examples of OS mechanisms for detection, recovery, restart to implement fault tolerance, use of these techniques for the OS’s own services."
+    href: fault-tolerance/examples-of-os-mechanisms-for-detection-recovery-restart-to-implement-fault-tole.md
+- name: "14. Society, Ethics, and the Profession"
+  href: society-ethics-and-the-profession/index.md
+  items:
+  - name: "14.1 Open source in operating systems. Example concepts"
+    href: society-ethics-and-the-profession/open-source-in-operating-systems-example-concepts.md
+  - name: "14.2 End-of-life issues with sunsetting operating systems. Example concept: Privacy implications of using proprietary operating systems/operating environments, including telemetry, automated scanning of personal data, built-in advertising, and automatic cloud integration."
+    href: society-ethics-and-the-profession/end-of-life-issues-with-sunsetting-operating-systems-example-concept-privacy-imp.md

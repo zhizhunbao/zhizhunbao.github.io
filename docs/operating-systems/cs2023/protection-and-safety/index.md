@@ -1,0 +1,18 @@
+---
+title: "4. Protection and Safety"
+description: "CS2023 knowledge unit OS-Protection: Protection and Safety, 7 topics."
+ms.date: 2026-10-25
+---
+
+# 4. Protection and Safety
+
+The pages under this one are the topics of the CS2023 knowledge unit OS-Protection, with CS2023's numbering and order: 4 CS Core, 3 KA Core topics.
+
+| Item | Value |
+|---|---|
+| CS2023 knowledge unit | OS-Protection: Protection and Safety |
+| Source | [CS2023 Body of Knowledge, OS-Protection, p. 147](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=147) |
+
+## References
+
+Joint Task Force on Computing Curricula. (2024). *Computer science curricula 2023*. Association for Computing Machinery. <https://doi.org/10.1145/3664191>

@@ -1,0 +1,121 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Understanding the User: Individual goals and interactions with others"
+  href: understanding-the-user-individual-goals-and-interactions-with-others/index.md
+  items:
+  - name: "1.1 User-centered design and evaluation methods."
+    href: understanding-the-user-individual-goals-and-interactions-with-others/user-centered-design-and-evaluation-methods.md
+  - name: "1.2 User-centered design methodology."
+    href: understanding-the-user-individual-goals-and-interactions-with-others/user-centered-design-methodology.md
+  - name: "1.3 Physical and cognitive characteristics of the user"
+    href: understanding-the-user-individual-goals-and-interactions-with-others/physical-and-cognitive-characteristics-of-the-user.md
+  - name: "1.4 Designing for diverse user populations."
+    href: understanding-the-user-individual-goals-and-interactions-with-others/designing-for-diverse-user-populations.md
+  - name: "1.5 Collaboration and communication"
+    href: understanding-the-user-individual-goals-and-interactions-with-others/collaboration-and-communication.md
+  - name: "1.6 Multi-user systems"
+    href: understanding-the-user-individual-goals-and-interactions-with-others/multi-user-systems.md
+- name: "2. Accountability and Responsibility in Design"
+  href: accountability-and-responsibility-in-design/index.md
+  items:
+  - name: "2.1 Design impact"
+    href: accountability-and-responsibility-in-design/design-impact.md
+  - name: "2.2 Ethics in design methods and solutions"
+    href: accountability-and-responsibility-in-design/ethics-in-design-methods-and-solutions.md
+  - name: "2.3 Requirements in design"
+    href: accountability-and-responsibility-in-design/requirements-in-design.md
+  - name: "2.4 Value-sensitive design"
+    href: accountability-and-responsibility-in-design/value-sensitive-design.md
+  - name: "2.5 Persuasion through design"
+    href: accountability-and-responsibility-in-design/persuasion-through-design.md
+- name: "3. Accessibility and Inclusive Design"
+  href: accessibility-and-inclusive-design/index.md
+  items:
+  - name: "3.1 Background"
+    href: accessibility-and-inclusive-design/background.md
+  - name: "3.2 Techniques"
+    href: accessibility-and-inclusive-design/techniques.md
+  - name: "3.3 Technologies"
+    href: accessibility-and-inclusive-design/technologies.md
+  - name: "3.4 IDFs (Inclusive Design Frameworks)"
+    href: accessibility-and-inclusive-design/idfs.md
+  - name: "3.5 Universal design"
+    href: accessibility-and-inclusive-design/universal-design.md
+  - name: "3.6 Background"
+    href: accessibility-and-inclusive-design/background-ka-core.md
+  - name: "3.7 Techniques"
+    href: accessibility-and-inclusive-design/techniques-ka-core.md
+  - name: "3.8 Technologies"
+    href: accessibility-and-inclusive-design/technologies-ka-core.md
+  - name: "3.9 Inclusive Design Frameworks"
+    href: accessibility-and-inclusive-design/inclusive-design-frameworks.md
+  - name: "3.10 Background"
+    href: accessibility-and-inclusive-design/background-non-core.md
+  - name: "3.11 Technologies: the Return On Investment (ROI) of inclusion"
+    href: accessibility-and-inclusive-design/technologies-the-return-on-investment-of-inclusion.md
+  - name: "3.12 Inclusive Design Frameworks: user-sensitive inclusive design"
+    href: accessibility-and-inclusive-design/inclusive-design-frameworks-user-sensitive-inclusive-design.md
+  - name: "3.13 Critical approaches to HCI (e.g., inclusivity)"
+    href: accessibility-and-inclusive-design/critical-approaches-to-hci.md
+- name: "4. Evaluating the Design"
+  href: evaluating-the-design/index.md
+  items:
+  - name: "4.1 Methods for evaluation with users"
+    href: evaluating-the-design/methods-for-evaluation-with-users.md
+  - name: "4.2 Methods for evaluation with users"
+    href: evaluating-the-design/methods-for-evaluation-with-users-ka-core.md
+  - name: "4.3 Study planning"
+    href: evaluating-the-design/study-planning.md
+  - name: "4.4 Implications and impacts of design with respect to the environment, material, society, security, privacy, ethics, and broader impacts."
+    href: evaluating-the-design/implications-and-impacts-of-design-with-respect-to-the-environment-material-soci.md
+  - name: "4.5 Techniques and tools for quantitative analysis"
+    href: evaluating-the-design/techniques-and-tools-for-quantitative-analysis.md
+  - name: "4.6 Data management"
+    href: evaluating-the-design/data-management.md
+- name: "5. System Design"
+  href: system-design/index.md
+  items:
+  - name: "5.1 Prototyping techniques and tools"
+    href: system-design/prototyping-techniques-and-tools.md
+  - name: "5.2 Design patterns"
+    href: system-design/design-patterns.md
+  - name: "5.3 Design constraints"
+    href: system-design/design-constraints.md
+  - name: "5.4 Design patterns and guidelines"
+    href: system-design/design-patterns-and-guidelines.md
+  - name: "5.5 Design processes"
+    href: system-design/design-processes.md
+  - name: "5.6 Interaction techniques"
+    href: system-design/interaction-techniques.md
+  - name: "5.7 Visual UI design"
+    href: system-design/visual-ui-design.md
+  - name: "5.8 Immersive environments"
+    href: system-design/immersive-environments.md
+  - name: "5.9 3D printing and fabrication"
+    href: system-design/3d-printing-and-fabrication.md
+  - name: "5.10 Asynchronous interaction models"
+    href: system-design/asynchronous-interaction-models.md
+  - name: "5.11 Creativity support tools"
+    href: system-design/creativity-support-tools.md
+  - name: "5.12 Voice UI designs"
+    href: system-design/voice-ui-designs.md
+- name: "6. Society, Ethics, and the Profession"
+  href: society-ethics-and-the-profession/index.md
+  items:
+  - name: "6.1 Universal and user-centered design"
+    href: society-ethics-and-the-profession/universal-and-user-centered-design.md
+  - name: "6.2 Accountability"
+    href: society-ethics-and-the-profession/accountability.md
+  - name: "6.3 Accessibility and inclusive design"
+    href: society-ethics-and-the-profession/accessibility-and-inclusive-design.md
+  - name: "6.4 Evaluating the design"
+    href: society-ethics-and-the-profession/evaluating-the-design.md
+  - name: "6.5 System design"
+    href: society-ethics-and-the-profession/system-design.md
+  - name: "6.6 Participatory and inclusive design processes"
+    href: society-ethics-and-the-profession/participatory-and-inclusive-design-processes.md
+  - name: "6.7 Evaluating the design: Implications and impacts of design: with respect to the environment, material, society, security, privacy, ethics, and broader impacts"
+    href: society-ethics-and-the-profession/evaluating-the-design-implications-and-impacts-of-design-with-respect-to-the-env.md
+  - name: "6.8 VR/AR/MR scenarios"
+    href: society-ethics-and-the-profession/vr-ar-mr-scenarios.md

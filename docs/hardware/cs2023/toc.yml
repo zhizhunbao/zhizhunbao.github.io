@@ -1,0 +1,168 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Digital Logic and Digital Systems"
+  href: digital-logic-and-digital-systems/index.md
+  items:
+  - name: "1.1 Combinational vs sequential logic/field programmable gate arrays (FPGAs)"
+    href: digital-logic-and-digital-systems/combinational-vs-sequential-logic-field-programmable-gate-arrays.md
+  - name: "1.2 Computer-aided design tools that process hardware and architectural representations"
+    href: digital-logic-and-digital-systems/computer-aided-design-tools-that-process-hardware-and-architectural-representati.md
+  - name: "1.3 High-level synthesis"
+    href: digital-logic-and-digital-systems/high-level-synthesis.md
+  - name: "1.4 System-on-chip (SoC) design flow"
+    href: digital-logic-and-digital-systems/system-on-chip-design-flow.md
+  - name: "1.5 Physical constraints"
+    href: digital-logic-and-digital-systems/physical-constraints.md
+- name: "2. Machine-Level Data Representation"
+  href: machine-level-data-representation/index.md
+  items:
+  - name: "2.1 Overview and history of computer architecture"
+    href: machine-level-data-representation/overview-and-history-of-computer-architecture.md
+  - name: "2.2 Bits, bytes, and words"
+    href: machine-level-data-representation/bits-bytes-and-words.md
+  - name: "2.3 Unsigned, signed and two’s complement representations"
+    href: machine-level-data-representation/unsigned-signed-and-twos-complement-representations.md
+  - name: "2.4 Numeric data representation and number bases"
+    href: machine-level-data-representation/numeric-data-representation-and-number-bases.md
+  - name: "2.5 Representation of non-numeric data"
+    href: machine-level-data-representation/representation-of-non-numeric-data.md
+  - name: "2.6 Representation of records, arrays and UTF data types"
+    href: machine-level-data-representation/representation-of-records-arrays-and-utf-data-types.md
+- name: "3. Assembly Level Machine Organization"
+  href: assembly-level-machine-organization/index.md
+  items:
+  - name: "3.1 von Neumann machine architecture"
+    href: assembly-level-machine-organization/von-neumann-machine-architecture.md
+  - name: "3.2 Control unit: instruction fetch, decode, and execution"
+    href: assembly-level-machine-organization/control-unit-instruction-fetch-decode-and-execution.md
+  - name: "3.3 Introduction to SIMD vs MIMD and the Flynn taxonomy"
+    href: assembly-level-machine-organization/introduction-to-simd-vs-mimd-and-the-flynn-taxonomy.md
+  - name: "3.4 Shared memory multiprocessors/multicore organization"
+    href: assembly-level-machine-organization/shared-memory-multiprocessors-multicore-organization.md
+  - name: "3.5 Instruction set architecture (ISA) (e.g., x86, ARM and RISC-V)"
+    href: assembly-level-machine-organization/instruction-set-architecture.md
+  - name: "3.6 Subroutine call and return mechanisms"
+    href: assembly-level-machine-organization/subroutine-call-and-return-mechanisms.md
+  - name: "3.7 I/O and interrupts"
+    href: assembly-level-machine-organization/i-o-and-interrupts.md
+  - name: "3.8 Heap, static, stack, and code segments"
+    href: assembly-level-machine-organization/heap-static-stack-and-code-segments.md
+- name: "4. Memory Hierarchy"
+  href: memory-hierarchy/index.md
+  items:
+  - name: "4.1 Memory hierarchy: the importance of temporal and spatial locality"
+    href: memory-hierarchy/memory-hierarchy-the-importance-of-temporal-and-spatial-locality.md
+  - name: "4.2 Main memory organization and operations"
+    href: memory-hierarchy/main-memory-organization-and-operations.md
+  - name: "4.3 Persistent memory (e.g., SSD, standard disks)"
+    href: memory-hierarchy/persistent-memory.md
+  - name: "4.4 Latency, cycle time, bandwidth, and interleaving"
+    href: memory-hierarchy/latency-cycle-time-bandwidth-and-interleaving.md
+  - name: "4.5 Cache memories"
+    href: memory-hierarchy/cache-memories.md
+  - name: "4.6 Multiprocessor cache coherence"
+    href: memory-hierarchy/multiprocessor-cache-coherence.md
+  - name: "4.7 Virtual memory (hardware support)"
+    href: memory-hierarchy/virtual-memory.md
+  - name: "4.8 Fault handling and reliability"
+    href: memory-hierarchy/fault-handling-and-reliability.md
+  - name: "4.9 Reliability"
+    href: memory-hierarchy/reliability.md
+  - name: "4.10 Processing In-Memory (PIM)"
+    href: memory-hierarchy/processing-in-memory.md
+- name: "5. Interfacing and Communication"
+  href: interfacing-and-communication/index.md
+  items:
+  - name: "5.1 I/O fundamentals"
+    href: interfacing-and-communication/i-o-fundamentals.md
+  - name: "5.2 Interrupt structures: vectored and prioritized, interrupt acknowledgment"
+    href: interfacing-and-communication/interrupt-structures-vectored-and-prioritized-interrupt-acknowledgment.md
+  - name: "5.3 I/O devices (e.g., mouse, keyboard, display, camera, sensors, actuators)"
+    href: interfacing-and-communication/i-o-devices.md
+  - name: "5.4 External storage, physical organization, and drives"
+    href: interfacing-and-communication/external-storage-physical-organization-and-drives.md
+  - name: "5.5 Buses fundamentals"
+    href: interfacing-and-communication/buses-fundamentals.md
+- name: "6. Functional Organization"
+  href: functional-organization/index.md
+  items:
+  - name: "6.1 Implementation of simple datapaths, including instruction pipelining, hazard detection, and resolution (e.g., stalls, forwarding)"
+    href: functional-organization/implementation-of-simple-datapaths-including-instruction-pipelining-hazard-detec.md
+  - name: "6.2 Control unit"
+    href: functional-organization/control-unit.md
+  - name: "6.3 Instruction pipelining"
+    href: functional-organization/instruction-pipelining.md
+  - name: "6.4 Introduction to instruction-level parallelism (ILP)"
+    href: functional-organization/introduction-to-instruction-level-parallelism.md
+- name: "7. Performance and Energy Efficiency"
+  href: performance-and-energy-efficiency/index.md
+  items:
+  - name: "7.1 Performance-energy evaluation (introduction): performance, power consumption, memory, and communication costs"
+    href: performance-and-energy-efficiency/performance-energy-evaluation-performance-power-consumption-memory-and-communica.md
+  - name: "7.2 Branch prediction, speculative execution, out-of-order execution, Tomasulo's algorithm"
+    href: performance-and-energy-efficiency/branch-prediction-speculative-execution-out-of-order-execution-tomasulo-s-algori.md
+  - name: "7.3 Enhancements for vector processors and GPUs"
+    href: performance-and-energy-efficiency/enhancements-for-vector-processors-and-gpus.md
+  - name: "7.4 Hardware support for multithreading"
+    href: performance-and-energy-efficiency/hardware-support-for-multithreading.md
+  - name: "7.5 Scalability"
+    href: performance-and-energy-efficiency/scalability.md
+  - name: "7.6 Alternative architectures including VLIW/EPIC, accelerators, and other special purpose processors"
+    href: performance-and-energy-efficiency/alternative-architectures-including-vliw-epic-accelerators-and-other-special-pur.md
+  - name: "7.7 Dynamic voltage and frequency scaling (DVFS)"
+    href: performance-and-energy-efficiency/dynamic-voltage-and-frequency-scaling.md
+  - name: "7.8 Dark Silicon"
+    href: performance-and-energy-efficiency/dark-silicon.md
+- name: "8. Heterogeneous Architectures"
+  href: heterogeneous-architectures/index.md
+  items:
+  - name: "8.1 SIMD and MIMD architectures (e.g., General-Purpose GPUs, TPUs, and NPUs)"
+    href: heterogeneous-architectures/simd-and-mimd-architectures.md
+  - name: "8.2 Heterogeneous memory systems"
+    href: heterogeneous-architectures/heterogeneous-memory-systems.md
+  - name: "8.3 Domain-Specific Architectures (DSAs)"
+    href: heterogeneous-architectures/domain-specific-architectures.md
+  - name: "8.4 Packaging and integration solutions such as 3DIC and chiplets"
+    href: heterogeneous-architectures/packaging-and-integration-solutions-such-as-3dic-and-chiplets.md
+  - name: "8.5 Machine learning in architecture design"
+    href: heterogeneous-architectures/machine-learning-in-architecture-design.md
+- name: "9. Secure Processor Architectures"
+  href: secure-processor-architectures/index.md
+  items:
+  - name: "9.1 Principles of Secure Hardware"
+    href: secure-processor-architectures/principles-of-secure-hardware.md
+  - name: "9.2 Roots of trust in hardware, Physically Unclonable Functions (PUF)"
+    href: secure-processor-architectures/roots-of-trust-in-hardware-physically-unclonable-functions.md
+  - name: "9.3 Hardware Random Number Generators"
+    href: secure-processor-architectures/hardware-random-number-generators.md
+  - name: "9.4 Memory protection extensions"
+    href: secure-processor-architectures/memory-protection-extensions.md
+  - name: "9.5 Trusted Execution Environment (TEE)"
+    href: secure-processor-architectures/trusted-execution-environment.md
+  - name: "9.6 Homomorphic encryption for privacy-preserving data processing"
+    href: secure-processor-architectures/homomorphic-encryption-for-privacy-preserving-data-processing.md
+- name: "10. Quantum Architectures"
+  href: quantum-architectures/index.md
+  items:
+  - name: "10.1 Principles"
+    href: quantum-architectures/principles.md
+  - name: "10.2 Axioms of QM: superposition principle, measurement axiom, unitary evolution"
+    href: quantum-architectures/axioms-of-qm-superposition-principle-measurement-axiom-unitary-evolution.md
+  - name: "10.3 Single qubit gates for the circuit model of quantum computation: X, Z, H"
+    href: quantum-architectures/single-qubit-gates-for-the-circuit-model-of-quantum-computation-x-z-h.md
+  - name: "10.4 Two qubit gates and tensor products, working with matrices"
+    href: quantum-architectures/two-qubit-gates-and-tensor-products-working-with-matrices.md
+  - name: "10.5 The No-Cloning Theorem. The Quantum Teleportation protocol"
+    href: quantum-architectures/the-no-cloning-theorem-the-quantum-teleportation-protocol.md
+  - name: "10.6 Algorithms"
+    href: quantum-architectures/algorithms.md
+  - name: "10.7 Implementation aspects"
+    href: quantum-architectures/implementation-aspects.md
+  - name: "10.8 Emerging Applications"
+    href: quantum-architectures/emerging-applications.md
+- name: "11. Sustainability Issues"
+  href: sustainability-issues/index.md
+  items:
+  - name: "11.1 Environmental impacts of implementation decisions"
+    href: sustainability-issues/environmental-impacts-of-implementation-decisions.md
