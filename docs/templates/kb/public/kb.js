@@ -331,13 +331,12 @@ function theme() {
   })
 }
 
-// Links written in the Markdown (inside the article) open in a new tab; navigation (header, TOC, breadcrumbs, footer)
-// and jumps within the same page stay in this tab
+// Links in the article to other sites open in a new tab; links to pages of this site (and navigation: header, TOC,
+// breadcrumbs, footer) stay in this tab
 function newTabs() {
   const mark = (a) => {
     const url = new URL(a.href, location.href)
-    const samePage = url.origin === location.origin && url.pathname === location.pathname && url.hash
-    if (!a.closest('.content') || a.closest('.doc-outline') || samePage || a.href.startsWith('mailto:')) return
+    if (!a.closest('.content') || a.closest('.doc-outline') || url.origin === location.origin || !/^https?:$/.test(url.protocol)) return
     a.target = '_blank'
     a.rel = 'noopener'
   }
