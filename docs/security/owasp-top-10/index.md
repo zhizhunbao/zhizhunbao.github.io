@@ -10,9 +10,9 @@ Planned, no content yet. The pages under this one will follow this source's own 
 
 | Item | Value |
 |---|---|
-| Official source | [OWASP Top 10:2025](https://owasp.org/Top10/) |
+| Official source | [OWASP Top 10:2025](https://top10.owasp.org/2025) |
 | Publisher | OWASP Foundation |
 
 ## References
 
-OWASP Foundation. (2025). *OWASP Top 10:2025*. Retrieved October 24, 2026, from <https://owasp.org/Top10/>
+OWASP Foundation. (2025). *OWASP Top 10:2025*. Retrieved October 24, 2026, from <https://top10.owasp.org/2025>
