@@ -46,3 +46,17 @@ Nothing else.
 - Each H2 has one figure and one term table: `Term | Definition | 中文解释 | Courses`. Definitions quote official documentation with section, paragraph and `#:~:text=` anchor; my own words only where no official definition exists. `Courses` names the course and week, such as `CST8911 W7`.
 - A term appears in one place only in the whole folder. Other places link to it.
 - Figures show names only, no section numbers; the table under the topic figure maps them to sub-pages. Green step circles only on process figures (see `figure_rules.md` in the cloud notes repo).
+
+## Place in the knowledge base
+
+Cloud is the one top-bar section that is not a CS2023 knowledge area (see the navigation rules in the repository README). Its topics map to these CS2023 knowledge units (Joint Task Force on Computing Curricula, 2024, <https://doi.org/10.1145/3664191>):
+
+| CS2023 knowledge unit | What CS2023 says | Azure topics here |
+|---|---|---|
+| PDC-Programs | "Clusters, clouds; elastic provisioning" | Compute, Containers |
+| DM-Distributed | Distributed Databases/Cloud Computing | Storage, Databases, Analytics |
+| NC-Applications | Distributed application paradigms: client/server, peer-to-peer, cloud, edge, fog | Networking, Internet of Things |
+| SPD-Web | Web platforms: cloud services; deploy, scale and manage applications on AWS, Azure, Google Cloud | Compute, Integration, DevOps |
+| OS-Virtualization | Virtualization, containers compared with virtual machines | Compute, Containers |
+| SEC-Foundations, SEC-Governance | Security mindset for web, cloud and mobile; cloud storage and services | Identity, Security |
+| SF-Design | Criteria of system design: liveness, safety, robustness, scalability, security | Azure Well-Architected Framework, Azure Architecture Center |
