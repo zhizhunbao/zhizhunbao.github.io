@@ -28,56 +28,6 @@ ms.date: 2026-10-22
 |---|---|
 | AZ-900 Microsoft Azure Fundamentals | [Describe Azure architecture and services (35–40%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#describe-azure-architecture-and-services-3540) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Load balancing and content delivery | load balancer | Lecture 1: slide 4 |
-| 2 | Networking foundation | Azure Virtual Network (VNet)<br>Domain Name System (DNS)<br>Azure Traffic Manager | Lecture 2: slide 7<br>Reading: Virtual networks (readings: Networking services compared, What is Azure Virtual Network?, What is Amazon VPC?), Load balancing (Networking services compared) |
-|  | Load balancing and content delivery | Azure Load Balancer<br>Application Gateway | Reading: Load balancing (Networking services compared) |
-|  | Hybrid connectivity | virtual private network gateway (VPN gateway)<br>Azure ExpressRoute | Reading: Virtual networks (readings: Networking services compared, What is Azure Virtual Network?, What is Amazon VPC?) |
-|  | Network management and monitoring | Azure Monitor | Lecture 2: slide 9 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Networking foundation | virtual network (VNet) | Lab 1: Disks and networking (Tasks 3–4) |
-|  | Network management and monitoring | Azure Monitor | Lab 1: Power state and monitoring (Tasks 6–8) |
-| 3 | Networking foundation | virtual network (VNet)<br>Azure Private Link<br>Azure DNS<br>Azure Bastion<br>Azure Route Server<br>Azure NAT Gateway<br>Azure Traffic Manager | Design Cloud Networking Solution: slides 9, 11, 18<br>Reading: slide 22 |
-|  | Load balancing and content delivery | Azure Load Balancer<br>Azure Application Gateway<br>Azure Front Door | Design Cloud Networking Solution: slides 10, 12, 14 |
-|  | Hybrid connectivity | Azure VPN Gateway<br>Azure ExpressRoute<br>Azure Virtual WAN | Design Cloud Networking Solution: slides 9, 15, 16 |
-|  | Network security | Azure Firewall<br>Azure Web Application Firewall (WAF)<br>Azure DDoS Protection | Design Cloud Networking Solution: slides 9, 12 |
-|  | Network management and monitoring | Azure Network Watcher<br>Azure Virtual Network Manager | Design Cloud Networking Solution: slide 10<br>Reading: slide 22 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Networking | networking | Introduction to Cloud Computing: slide 5 |
-|  | Hybrid connectivity | ExpressRoute<br>virtual private network gateway (VPN gateway) | Reading: Migrate, Modernize, and Cloud-native (Units 5–7) |
-| 3 | Networking foundation | virtual network (VNet)<br>Domain Name System (DNS, name resolution) | Target Cloud Architecture: slide 6 |
-|  | Load balancing and content delivery | Azure Load Balancer<br>Azure Application Gateway | Target Cloud Architecture: slide 6 |
-|  | Network security | Azure DDoS Protection | Target Cloud Architecture: slide 6 |
-|  | Network management and monitoring | Azure Monitor | Target Cloud Architecture: slide 8 |
-
-**CST8915 Full-stack Cloud-native Development**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Load balancing and content delivery | load balancer | Introduction to Cloud-Native Applications: slide 32 |
-| 2 | Networking foundation | virtual network (VNet) | Lab 1: Configure the Network Security Group (Step 2) |
-|  | Network management and monitoring | Azure Monitor | The Twelve-Factor Application: slide 40 |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Load balancing and content delivery | load balancer | Introduction to Remote Data and Real-time Applications: slide 14 |
-| 2 | Networking foundation | Domain Name System (DNS) | REST (Representational State Transfer): slide 6 |
-| 5 | Network management and monitoring | Azure Monitor | Popular Cloud Services for Real-time Applications I: slide 22 |
-| 6 | Load balancing and content delivery | front door | Popular Cloud Services for Real-time Applications II: slide 6 |
-
 ## References
 
 - Microsoft. (n.d.). *Describe Azure networking services* [Training module]. Microsoft Learn. Retrieved October 22, 2026, from https://learn.microsoft.com/en-us/training/modules/describe-azure-networking-services/

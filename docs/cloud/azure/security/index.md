@@ -27,44 +27,6 @@ ms.date: 2026-10-24
 | AZ-900 Microsoft Azure Fundamentals | [Describe Azure architecture and services (35–40%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#describe-azure-architecture-and-services-3540) |
 | AZ-500 Microsoft Azure Security Technologies | [Secure compute, storage, and databases (20–25%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500#secure-compute-storage-and-databases-2025)<br>[Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel (30–35%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500#secure-azure-using-microsoft-defender-for-cloud-and-microsoft-sentinel-3035) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Security | security | Lecture 1: slide 4 |
-| 2 | Zero Trust model | principle of least privilege | Lab 1: Authentication and SAS (tasks 4–5) |
-|  | Encryption and key management | encryption at rest | Reading: Azure Blob Storage (product page) |
-| 6 | Security | security (cloud architecture) | Lecture 5: slides 3, 4 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Security | security | Introduction to Cloud Solution Architecture: slides 6, 7, 8 |
-|  | Microsoft Defender for Cloud | Microsoft Defender for Cloud | Reading: How to connect to Azure |
-| 5 | Encryption and key management | Transparent Data Encryption (TDE)<br>Encryption<br>Azure Key Vault | Design Cloud Database Solution: slide 8<br>Lab 4: Storage account (Steps 10–11), Azure Data Factory (Steps 12–21) |
-|  | Microsoft Defender for Cloud | Microsoft Defender for SQL | Lab 4: Azure SQL Database (Steps 1–6) |
-| 6 | Security | security | Week 6 – Cloud Architecture best practices: slide 28 |
-|  | Defense-in-depth | implement security in every layer | Week 6 – Cloud Architecture best practices: slide 4 |
-|  | Encryption and key management | encryption at rest<br>encryption in transit | Week 6 – Cloud Architecture best practices: slide 26 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Zero Trust model | zero trust<br>Zero Trust principles | Lab 2: Migration execution and operations<br>Reading: Cloud Adoption Framework (Units 9–10) |
-|  | Defense-in-depth | physical security | Introduction to Cloud Computing: slide 10 |
-|  | Microsoft Defender for Cloud | security posture | Reading: Cloud Adoption Framework (Units 9–10) |
-| 3 | Encryption and key management | Azure Key Vault | Target Cloud Architecture: slide 10 |
-| 4 | Defense-in-depth | identity and access | Migration Assessment Process: slide 4 |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Security | security | Introduction to Remote Data and Real-time Applications: slide 28 |
-| 5 | Encryption and key management | encryption | Popular Cloud Services for Real-time Applications I: slide 41 |
-
 ## References
 
 - Microsoft. (n.d.). *What is cybersecurity?* Microsoft Security. Retrieved October 24, 2026, from https://www.microsoft.com/en-us/security/business/security-101/what-is-cybersecurity

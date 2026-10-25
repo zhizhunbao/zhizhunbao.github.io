@@ -23,36 +23,6 @@ ms.date: 2026-10-24
 
 No current Microsoft certification covers Azure IoT; the Azure IoT Developer exam (AZ-220) has been retired.
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 7 | Internet of Things | Internet of Things (IoT) | Lecture 6: slide 8 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 5 | Internet of Things | Internet of Things (IoT) | Design Cloud Database Solution: slide 7 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Internet of Things | Internet of Things (IoT) | Introduction to Cloud Computing: slide 5 |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Internet of Things | Internet of Things (IoT) | Introduction to Remote Data and Real-time Applications: slide 35 |
-|  | IoT devices | edge device<br>IoT sensor | Introduction to Remote Data and Real-time Applications: slides 29, 37 |
-|  | Edge runtime | edge computing | Introduction to Remote Data and Real-time Applications: slide 29 |
-| 6 | Internet of Things | IoT connectivity<br>industrial IoT | Popular Cloud Services for Real-time Applications II: slides 4, 23 |
-|  | IoT devices | wearable device | Popular Cloud Services for Real-time Applications II: slide 23 |
-|  | IoT cloud services | Azure IoT Hub | Popular Cloud Services for Real-time Applications II: slide 20 |
-|  | Edge runtime | edge computing<br>Azure IoT Edge | Popular Cloud Services for Real-time Applications II: slide 22 |
-
 ## References
 
 - Microsoft. (2026a). *Introduction to Azure IoT*. Microsoft Learn. https://learn.microsoft.com/en-us/azure/iot/iot-introduction

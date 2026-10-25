@@ -26,46 +26,6 @@ ms.date: 2026-10-24
 |---|---|
 | AZ-400 Designing and Implementing Microsoft DevOps Solutions | [Design and implement a source control strategy (10–15%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400#design-and-implement-a-source-control-strategy-1015)<br>[Design and implement build and release pipelines (50–55%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400#design-and-implement-build-and-release-pipelines-5055) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Deliver | infrastructure as code (IaC) | Reading: What is CloudFormation? |
-| 7 | DevOps | DevOps<br>continuous integration and continuous deployment (CI/CD) | Lecture 6: slide 6 |
-|  | Develop | continuous integration (CI)<br>automated testing | Lecture 6: slide 6 |
-|  | Deliver | continuous deployment (CD)<br>pipeline as code | Lecture 6: slide 6 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 6 | Plan | agile approach | Week 6 – Cloud Architecture best practices: slide 18 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Develop | version control<br>distributed version control system<br>pull request (PR) | Lab 1: Basic concepts, Collaborating on GitHub |
-| 2 | Deliver | infrastructure as code (IaC)<br>Terraform | Lab 2: Migration execution and operations<br>Reading: Cloud Adoption Framework (Unit 4) |
-| 6 | DevOps | DevOps<br>DevOps practices | Refactoring Migration: slide 6 |
-
-**CST8915 Full-stack Cloud-native Development**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | DevOps | DevOps | Introduction to Cloud-Native Applications: slide 44 |
-|  | Develop | continuous integration (CI) | Introduction to Cloud-Native Applications: slide 44 |
-|  | Deliver | continuous delivery (CD)<br>continuous deployment (CD) | Introduction to Cloud-Native Applications: slide 44 |
-| 2 | Develop | version control (revision control) | The Twelve-Factor Application: slides 12, 13, 14 |
-| 4 | Deliver | GitHub Actions | Lab 3: Step 4: Deploy Store-Front on Azure Static Web Apps |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 5 | DevOps | continuous integration and continuous delivery (CI/CD)<br>Azure DevOps | Popular Cloud Services for Real-time Applications I: slides 21, 22 |
-|  | Deliver | GitHub Actions | Popular Cloud Services for Real-time Applications I: slide 22 |
-
 ## References
 
 - Microsoft. (2023). *What is DevOps?* Microsoft Learn. https://learn.microsoft.com/en-us/devops/what-is-devops

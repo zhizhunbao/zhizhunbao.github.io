@@ -28,59 +28,6 @@ ms.date: 2026-10-24
 |---|---|
 | DP-900 Microsoft Azure Data Fundamentals | [Identify considerations for relational data on Azure (20–25%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-900#identify-considerations-for-relational-data-on-azure-2025)<br>[Describe considerations for working with non-relational data on Azure (15–20%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-900#describe-considerations-for-working-with-non-relational-data-on-azure-1520) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 7 | Databases | database | Lecture 6: slide 11 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Document data stores | Azure Cosmos DB | Design Cloud Compute Solution: slides 14, 15 |
-| 4 | Databases | NoSQL | Design Cloud Storage Solution: slide 17 |
-|  | Relational data stores | relational database<br>Structured Query Language (SQL)<br>Azure SQL Database | Design Cloud Storage Solution: slides 7, 22 |
-|  | Document data stores | document | Design Cloud Storage Solution: slide 8 |
-|  | Key-value data stores | key-value store<br>Azure Cosmos DB for Table | Design Cloud Storage Solution: slides 8, 17 |
-|  | Graph data stores | graph database | Design Cloud Storage Solution: slide 8 |
-| 5 | Databases | database service<br>multi-model database<br>cloud database | Design Cloud Database Solution: slides 4, 6<br>Lab 4: Introduction and purpose |
-|  | Relational data stores | relational<br>Azure SQL Database<br>Azure SQL Managed Instance<br>Azure Database for MySQL<br>Azure Database for PostgreSQL | Design Cloud Database Solution: slides 8, 12, 13, 14, 15<br>Lab 4: Azure SQL Database (Steps 1–6) |
-|  | Document data stores | Azure Cosmos DB<br>Azure Cosmos DB for NoSQL (SQL API)<br>Azure Cosmos DB for MongoDB | Design Cloud Database Solution: slide 6 |
-|  | Column-family data stores | Azure Cosmos DB for Apache Cassandra (Cassandra API) | Design Cloud Database Solution: slide 6 |
-|  | Key-value data stores | in-memory database<br>Redis | Design Cloud Database Solution: slide 15 |
-|  | Graph data stores | Azure Cosmos DB for Apache Gremlin (Gremlin API) | Design Cloud Database Solution: slide 6 |
-|  | Time-series data stores | time series | Design Cloud Database Solution: slide 15 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Databases | database | Introduction to Cloud Computing: slide 5 |
-|  | Relational data stores | Azure SQL Managed Instance | Lab 2: Azure services (Lab 2 case study) |
-| 3 | Document data stores | Azure Cosmos DB | Target Cloud Architecture: slide 8 |
-| 6 | Databases | database management system (DBMS)<br>nonrelational database | Refactoring Migration: slides 4, 5 |
-|  | Relational data stores | relational database<br>Azure Database for MySQL<br>Azure Database for PostgreSQL | Refactoring Migration: slide 5 |
-
-**CST8915 Full-stack Cloud-native Development**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Databases | managed database<br>not only SQL database (NoSQL database) | Introduction to Cloud-Native Applications: slides 33, 42 |
-|  | Relational data stores | relational database | Introduction to Cloud-Native Applications: slide 42 |
-|  | Key-value data stores | Redis | Introduction to Cloud-Native Applications: slide 42 |
-| 3 | Relational data stores | Azure SQL | Microservices: slides 32, 33 |
-|  | Document data stores | Azure Cosmos DB | Microservices: slides 32, 33 |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Databases | managed database | Introduction to Remote Data and Real-time Applications: slide 15 |
-| 3 | Relational data stores | relational database | GraphQL: slides 17, 18, 19 |
-| 6 | Relational data stores | Azure SQL | Popular Cloud Services for Real-time Applications II: slide 7 |
-|  | Document data stores | Azure Cosmos DB | Popular Cloud Services for Real-time Applications II: slide 7 |
-
 ## References
 
 - Microsoft. (n.d.). *What is a database?* Microsoft Azure. Retrieved October 24, 2026, from https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-databases

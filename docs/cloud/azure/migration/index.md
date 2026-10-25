@@ -27,31 +27,6 @@ ms.date: 2026-10-24
 | AZ-900 Microsoft Azure Fundamentals | [Describe Azure architecture and services (35–40%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#describe-azure-architecture-and-services-3540) |
 | AZ-305 Designing Microsoft Azure Infrastructure Solutions | [Design infrastructure solutions (30–35%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-305#design-infrastructure-solutions-3035) |
 
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Migration | cloud migration | Introduction to Cloud Solution Architecture: slide 17 |
-|  | Migration strategies | lift and shift<br>refactor | Introduction to Cloud Solution Architecture: slides 9, 10 |
-| 5 | Execute | Azure Database Migration Service (DMS) | Design Cloud Database Solution: slide 11 |
-| 6 | Migration strategies | rehost<br>rearchitect<br>rebuild<br>replace | Week 6 – Cloud Architecture best practices: slide 18 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Migration | cloud migration | Cloud Migration: slide 18 |
-|  | Migration strategies | Rehost<br>lift and shift<br>Replatform (Re-platform)<br>Refactor<br>Rearchitect<br>Rebuild<br>Replace<br>Retire<br>Retain | Cloud Migration: slides 4, 19, 20<br>Reading: Cloud Adoption Framework (Unit 3) |
-|  | Decide | business case | Lab 2: Planning and stakeholders |
-|  | Plan | right-sizing | Lab 2: Migration execution and operations |
-|  | Execute | Azure Migrate<br>Azure Data Box | Lab 2: Azure services (Lab 2 case study)<br>Reading: Cloud Adoption Framework (Units 5–7) |
-| 4 | Decide | discovery and assessment (D&A)<br>Azure Migrate appliance | Migration Assessment Process: slides 4, 7 |
-|  | Plan | migration assessment<br>Azure readiness<br>dependency analysis | Migration Assessment Process: slides 4, 7 |
-| 5 | Migration strategies | Rehosting (lift-and-shift migration) | Rehosting Migration: slide 5 |
-|  | Execute | Azure Migrate: Server Migration tool | Rehosting Migration: slide 7 |
-| 6 | Migration strategies | refactoring (repackaging) | Refactoring Migration: slide 5 |
-|  | Execute | Azure App Service Migration Assistant | Refactoring Migration: slide 8 |
-
 ## References
 
 - Microsoft. (n.d.). *What is cloud migration?* Microsoft Azure. Retrieved October 24, 2026, from https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-migration

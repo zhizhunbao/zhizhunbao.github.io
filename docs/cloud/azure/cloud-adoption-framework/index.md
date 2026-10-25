@@ -31,36 +31,6 @@ Each phase is defined by the key decision it answers, as the framework's overvie
 |---|---|
 | AZ-305 Designing Microsoft Azure Infrastructure Solutions | [Design identity, governance, and monitoring solutions (25–30%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-305#design-identity-governance-and-monitoring-solutions-2530)<br>[Design infrastructure solutions (30–35%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-305#design-infrastructure-solutions-3035) |
 
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Cloud Adoption Framework for Azure | Cloud Adoption Framework (CAF) | Introduction to Cloud Solution Architecture: slide 13 |
-| 6 | Cloud Adoption Framework for Azure | Cloud Adoption Framework (CAF)<br>cloud adoption journey | Week 6 – Cloud Architecture best practices: slide 16 |
-|  | Strategy | Define strategy<br>motivation<br>business outcome<br>organizational alignment | Week 6 – Cloud Architecture best practices: slides 16, 17, 18 |
-|  | Plan | cloud adoption plan<br>cloud rationalization<br>skills readiness plan<br>cloud operating model | Week 6 – Cloud Architecture best practices: slides 16, 18, 19 |
-|  | Ready | Ready<br>landing zone<br>Azure landing zone<br>Azure landing zone design areas | Week 6 – Cloud Architecture best practices: slides 16, 19 |
-|  | Adopt | Adopt<br>adopt methodology<br>Modernize<br>Innovate<br>cloud-native solution | Week 6 – Cloud Architecture best practices: slides 16, 20 |
-|  | Govern | Govern<br>cloud governance | Week 6 – Cloud Architecture best practices: slide 16 |
-|  | Manage | Manage<br>well-managed operations<br>management baseline | Week 6 – Cloud Architecture best practices: slides 16, 22 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Cloud Adoption Framework for Azure | Cloud Adoption Framework (CAF) | Reading: Cloud Adoption Framework (Unit 1) |
-|  | Strategy | cloud adoption strategy<br>motivations<br>cloud strategy team<br>organizational alignment | Reading: Cloud Adoption Framework (Unit 2) |
-|  | Plan | operating model readiness<br>cloud adoption plan<br>cloud operating model | Reading: Cloud Adoption Framework (Units 2, 3, 4) |
-|  | Ready | Ready methodology<br>landing zone | Reading: Cloud Adoption Framework (Unit 4) |
-|  | Adopt | cloud-native solution | Reading: Cloud Adoption Framework (Units 5–7) |
-|  | Govern | Govern methodology<br>cloud governance team<br>cloud governance policy | Reading: Cloud Adoption Framework (Unit 8) |
-|  | Secure | Secure methodology | Reading: Cloud Adoption Framework (Units 9–10) |
-|  | Manage | Ready, Administer, Monitor, Protect model (RAMP model)<br>management baseline | Reading: Cloud Adoption Framework (Units 3, 9–10) |
-| 3 | Strategy | developing a cloud adoption strategy<br>business outcome<br>migration motivation<br>innovation motivation | Cloud adoption strategy: slides 5, 6 |
-|  | Plan | skills readiness plan<br>cloud adoption planning | Cloud adoption strategy: slide 5 |
-| 4 | Plan | digital estate<br>evaluate the digital estate | Migration Assessment Process: slides 5, 6 |
-|  | Adopt | modernize<br>cloud-native approach | Migration Assessment Process: slide 5 |
-
 ## References
 
 - Microsoft. (2026). *Cloud Adoption Framework for Azure*. Microsoft Learn. https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview

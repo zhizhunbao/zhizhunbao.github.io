@@ -25,58 +25,6 @@ ms.date: 2026-10-22
 |---|---|
 | AZ-900 Microsoft Azure Fundamentals | [Describe Azure architecture and services (35–40%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#describe-azure-architecture-and-services-3540) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Containers | container (Docker container) | Lecture 1: slide 15 |
-|  | Docker | Docker<br>Dockerfile<br>Docker image<br>registry<br>repository<br>Docker Hub | Lecture 1: slide 15 |
-|  | Kubernetes | Kubernetes management | Lecture 1: slide 11 |
-| 6 | Kubernetes | Kubernetes | Lecture 5: slide 6 |
-|  | Azure container services | Azure Container Service (ACS) | Lecture 5: slide 7 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Containers | container | Design Cloud Compute Solution: slide 8 |
-|  | Docker | container image | Design Cloud Compute Solution: slide 8 |
-|  | Kubernetes | Kubernetes (K8s)<br>cluster<br>control plane<br>node<br>node pool | Design Cloud Compute Solution: slides 10, 14, 15 |
-|  | Azure container services | Azure Kubernetes Service (AKS)<br>Azure Container Apps (ACA)<br>Azure Red Hat OpenShift (ARO)<br>Azure Container Instances (ACI)<br>Azure Service Fabric | Design Cloud Compute Solution: slides 9, 10, 13 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Azure container services | Azure Kubernetes Service (AKS) | Lab 2: Azure services (Lab 2 case study) |
-| 3 | Azure container services | Azure Container Registry | Target Cloud Architecture: slide 10 |
-| 5 | Containers | container | Lab 5: Case study: Washington State Department of Labor & Industries |
-
-**CST8915 Full-stack Cloud-native Development**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Containers | container | Introduction to Cloud-Native Applications: slide 37 |
-|  | Docker | Docker | Introduction to Cloud-Native Applications: slide 38 |
-|  | Kubernetes | Kubernetes (K8s) | Introduction to Cloud-Native Applications: slide 38 |
-| 2 | Docker | container image<br>release ID (version tag)<br>container registry | The Twelve-Factor Application: slides 26, 27, 28 |
-| 3 | Docker | Docker container image<br>compose | Microservices: slides 26, 38 |
-| 4 | Docker | Docker<br>Dockerfile<br>repository (library) for images<br>Docker Hub<br>public registry | Containers I: slides 27, 28, 29, 30 |
-|  | Kubernetes | Kubernetes (K8s) | Containers I: slide 28 |
-| 5 | Docker | Docker<br>image (Docker image)<br>Dockerfile<br>build the image<br>volume (Docker volume)<br>registry<br>private registry<br>Docker Hub<br>Docker Compose | Containers II: Docker: slides 2, 7, 12, 13, 15, 16, 19 |
-|  | Kubernetes | Kubernetes (K8s) | Containers II: Docker: slide 7 |
-| 6 | Docker | Docker Hub repository | Lab 5: Step 4: Push Images to Docker Hub |
-|  | Kubernetes | Kubernetes (K8s)<br>cluster | Container Orchestrator: slides 19, 20 |
-|  | Azure container services | Azure Container Registry | Container Orchestrator: slides 5, 6 |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 5 | Containers | container | Popular Cloud Services for Real-time Applications I: slide 22 |
-|  | Docker | Docker | Popular Cloud Services for Real-time Applications I: slide 15 |
-|  | Kubernetes | Kubernetes | Popular Cloud Services for Real-time Applications I: slide 15 |
-
 ## References
 
 - Microsoft. (n.d.-a). *Containers on Azure*. Microsoft Azure. Retrieved October 22, 2026, from https://azure.microsoft.com/en-us/products/category/containers

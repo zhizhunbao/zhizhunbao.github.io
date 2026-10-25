@@ -27,35 +27,6 @@ ms.date: 2026-10-24
 |---|---|
 | AZ-305 Designing Microsoft Azure Infrastructure Solutions | [Design business continuity solutions (15–20%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-305#design-business-continuity-solutions-1520)<br>[Design infrastructure solutions (30–35%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-305#design-infrastructure-solutions-3035) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 7 | Azure Well-Architected Framework | pillar | Lecture 6: slide 3 |
-|  | Reliability | reliability | Lecture 6: slide 3 |
-|  | Cost Optimization | cost optimization | Lecture 6: slide 3 |
-|  | Operational Excellence | operational excellence | Lecture 6: slide 3 |
-|  | Performance Efficiency | performance efficiency | Lecture 6: slide 3 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Azure Well-Architected Framework | Azure Well-Architected Framework (WAF)<br>five pillars | Introduction to Cloud Solution Architecture: slide 4 |
-| 2 | Azure Well-Architected Framework | design principles | Design Cloud Compute Solution: slide 16 |
-| 6 | Azure Well-Architected Framework | well-architected cloud | Week 6 – Cloud Architecture best practices: slide 28 |
-|  | Reliability | reliability | Week 6 – Cloud Architecture best practices: slide 28 |
-|  | Security | security | Week 6 – Cloud Architecture best practices: slide 28 |
-|  | Cost Optimization | cost optimization | Week 6 – Cloud Architecture best practices: slide 25 |
-|  | Operational Excellence | operational excellence | Week 6 – Cloud Architecture best practices: slide 28 |
-|  | Performance Efficiency | performance efficiency | Week 6 – Cloud Architecture best practices: slide 28 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Azure Well-Architected Framework | Well-Architected Framework (WAF)<br>the five WAF pillars | Reading: Cloud Adoption Framework (Unit 1) |
-
 ## References
 
 - Microsoft. (2025a). *Cost Optimization quick links*. Microsoft Azure Well-Architected Framework. https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/

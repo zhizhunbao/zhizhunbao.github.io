@@ -24,53 +24,6 @@ ms.date: 2026-10-22
 |---|---|
 | AZ-900 Microsoft Azure Fundamentals | [Describe Azure architecture and services (35–40%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#describe-azure-architecture-and-services-3540) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Management infrastructure | subscription | Course Section Information (CSI): Azure subscription and budget |
-| 2 | Physical infrastructure | region<br>availability zone (AZ) | Lecture 2: slide 5 |
-|  | Management infrastructure | resource group | Lab 1: Resource groups and cleanup (task 8) |
-| 3 | Management infrastructure | Azure resource | Lab 2: Cleanup (task 5) |
-| 4 | Physical infrastructure | data center | Lecture 3: slide 3 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Management infrastructure | subscription | How to connect to Azure (resource guide): slide 18 |
-| 2 | Physical infrastructure | region<br>availability zone | Lab 1: Organizing resources (Prerequisites, Task 1), Virtual machine settings (Tasks 2, 5) |
-|  | Management infrastructure | resource<br>resource group | Lab 1: Organizing resources (Prerequisites, Task 1) |
-| 3 | Physical infrastructure | datacenter<br>region<br>availability zone | Design Cloud Networking Solution: slides 6, 8 |
-| 4 | Physical infrastructure | region pair | Design Cloud Storage Solution: slide 13 |
-| 6 | Management infrastructure | management group | Lab 5: Task 3: Implement Management Groups |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Physical infrastructure | datacenter<br>region | Introduction to Cloud Computing: slide 7<br>Lab 2: Migration execution and operations (Lab 2) |
-|  | Management infrastructure | management group | Reading: Manage and Secure (Units 9–10) |
-| 3 | Physical infrastructure | availability zone<br>data sovereignty | Target Cloud Architecture: slide 6<br>Cloud adoption strategy: slide 6 |
-|  | Management infrastructure | resource group | Target Cloud Architecture: slide 6 |
-| 6 | Management infrastructure | Azure account | Refactoring Migration: slide 8 |
-
-**CST8915 Full-stack Cloud-native Development**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Physical infrastructure | data center | Introduction to Cloud-Native Applications: slide 24 |
-| 2 | Physical infrastructure | region | Lab 1: Subscriptions and resources |
-|  | Management infrastructure | resource<br>resource group<br>subscription | Lab 1: Subscriptions and resources |
-| 3 | Management infrastructure | subscription | Microservices: slide 31 |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Management infrastructure | resource<br>subscription | Introduction to Remote Data and Real-time Applications: slides 43, 44, 45 |
-| 3 | Management infrastructure | Azure resource | Assignment 1: REST API Extension: Deploy to Azure App Service and Video Demo (Parts 4–5) |
-
 ## References
 
 - Microsoft. (n.d.). *Describe the core architectural components of Azure* [Training module]. Microsoft Learn. Retrieved October 22, 2026, from https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/

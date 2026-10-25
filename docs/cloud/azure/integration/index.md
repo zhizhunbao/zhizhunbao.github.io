@@ -26,55 +26,6 @@ ms.date: 2026-10-24
 |---|---|
 | AZ-204 Developing Solutions for Microsoft Azure | [Connect to and consume Azure services and third-party services (20–25%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204#connect-to-and-consume-azure-services-and-third-party-services-2025) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 4 | Integration | integration | Lecture 3: slide 9 |
-|  | Workflows | Azure Logic Apps | Lecture 3: slide 9 |
-|  | Messages | queue | Lecture 3: slide 9 |
-|  | Events | event | Lecture 3: slide 9 |
-| 6 | Messages | Azure Queue Storage | Lecture 5: slide 10 |
-|  | Events | Event Grid topic | Lecture 5: slide 10 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Workflows | Azure Logic Apps<br>workflow | Design Cloud Compute Solution: slide 13 |
-|  | Events | event-driven | Design Cloud Compute Solution: slide 13 |
-| 4 | Messages | Azure Queue Storage<br>message<br>queue | Design Cloud Storage Solution: slide 16 |
-|  | Events | event-driven architecture | Design Cloud Storage Solution: slide 16 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 3 | Events | Azure Event Hubs | Target Cloud Architecture: slide 8 |
-
-**CST8915 Full-stack Cloud-native Development**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | API management | API gateway | Introduction to Cloud-Native Applications: slide 42 |
-|  | Events | event bus<br>publish-subscribe | Introduction to Cloud-Native Applications: slide 42 |
-| 2 | Messages | messaging system (queueing system)<br>message broker<br>message queue | The Twelve-Factor Application: slides 22, 23<br>Lab 1: Message queues and RabbitMQ |
-| 3 | API management | Azure API Management | Microservices: slide 12 |
-|  | Messages | Azure Service Bus | Microservices: slide 31 |
-|  | Events | event<br>event-driven<br>Azure Event Hubs (Azure Events Hub)<br>event streaming | Microservices: slides 30, 32, 33 |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Events | publish/subscribe (pub/sub) | Introduction to Remote Data and Real-time Applications: slide 34 |
-| 5 | API management | Azure API Management<br>API gateway | Popular Cloud Services for Real-time Applications I: slides 19, 20, 30 |
-|  | Events | event-driven architecture<br>Event Hub (Azure Event Hubs)<br>Azure Web PubSub<br>event notification | Popular Cloud Services for Real-time Applications I: slides 15, 19, 20, 27, 33, 34 |
-| 6 | Workflows | Azure Logic Apps<br>workflow | Popular Cloud Services for Real-time Applications II: slide 25 |
-|  | API management | Azure API Management | Popular Cloud Services for Real-time Applications II: slide 3 |
-|  | Messages | message queuing<br>Azure Service Bus<br>message broker<br>message queue<br>messaging | Popular Cloud Services for Real-time Applications II: slides 4, 16, 17, 28 |
-|  | Events | Azure Web PubSub<br>event trigger<br>event-driven computing<br>event streaming<br>Azure Event Hubs<br>event-triggered | Popular Cloud Services for Real-time Applications II: slides 3, 4, 5, 6, 28 |
-
 ## References
 
 - Microsoft. (n.d.). *Azure Integration Services*. Microsoft Azure. Retrieved October 24, 2026, from https://azure.microsoft.com/en-us/solutions/integration-services

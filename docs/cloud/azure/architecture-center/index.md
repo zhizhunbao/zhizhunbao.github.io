@@ -27,53 +27,6 @@ ms.date: 2026-10-24
 |---|---|
 | AZ-305 Designing Microsoft Azure Infrastructure Solutions | [Design infrastructure solutions (30–35%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-305#design-infrastructure-solutions-3035) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Best practices | autoscaling | Lecture 2: slide 5 |
-| 6 | Architectures | cloud reference architecture | Lecture 5: slide 6 |
-| 7 | Architecture styles | microservices<br>big data analytics | Lecture 6: slides 6, 8 |
-|  | Best practices | best practice | Lecture 6: slide 2 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Azure Architecture Center | Azure Architecture Center | Design Cloud Compute Solution: slide 13 |
-|  | Architecture styles | microservices | Design Cloud Compute Solution: slide 12 |
-|  | Best practices | autoscale<br>cache | Design Cloud Compute Solution: slides 7, 14, 15 |
-|  | Architectures | reference architecture | Design Cloud Compute Solution: slides 14, 15 |
-| 3 | Architecture styles | N-tier architecture | Design Cloud Networking Solution: slide 18 |
-| 4 | Architecture styles | event-driven architecture<br>big data analytics | Design Cloud Storage Solution: slides 16, 20 |
-| 6 | Best practices | best practice | Week 6 – Cloud Architecture best practices: slide 4 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | Azure Architecture Center | Azure Architecture Center | Reading: Cloud Adoption Framework (Units 5–7) |
-| 3 | Architecture styles | N-tier architecture | Target Cloud Architecture: slide 6 |
-|  | Architectures | reference architecture | Target Cloud Architecture: slide 6 |
-
-**CST8915 Full-stack Cloud-native Development**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | Architecture styles | microservices architecture | Introduction to Cloud-Native Applications: slide 36 |
-|  | Cloud design patterns | API gateway<br>publish-subscribe | Introduction to Cloud-Native Applications: slide 42 |
-| 3 | Architecture styles | microservices architecture | Microservices: slides 4, 5 |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 5 | Architecture styles | event-driven architecture | Popular Cloud Services for Real-time Applications I: slide 15 |
-|  | Best practices | best practice | Popular Cloud Services for Real-time Applications I: slide 5 |
-|  | Cloud design patterns | API gateway<br>database-per-service pattern | Popular Cloud Services for Real-time Applications I: slides 30, 38 |
-| 6 | Architecture styles | big data | Popular Cloud Services for Real-time Applications II: slide 6 |
-|  | Cloud design patterns | event sourcing | Popular Cloud Services for Real-time Applications II: slide 9 |
-
 ## References
 
 - Microsoft. (2025). *Architecture styles*. Azure Architecture Center. https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/

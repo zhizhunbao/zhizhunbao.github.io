@@ -27,46 +27,6 @@ ms.date: 2026-10-24
 | AI-901 Microsoft Azure AI Fundamentals | [Identify AI concepts and capabilities (40–45%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901#identify-ai-concepts-and-capabilities-4045)<br>[Implement AI solutions by using Microsoft Foundry (55–60%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901#implement-ai-solutions-by-using-microsoft-foundry-5560) |
 | AI-103 Developing AI Apps and Agents on Azure | [Plan and manage an Azure AI solution (25–30%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103#plan-and-manage-an-azure-ai-solution-2530)<br>[Implement generative AI and agentic solutions (30–35%)](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103#implement-generative-ai-and-agentic-solutions-3035) |
 
-**CST8911 Introduction to Cloud Computing**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 4 | AI + Machine Learning | chatbot | Lecture 3: slide 6 |
-| 6 | Prebuilt AI services | Azure speech to text<br>Azure OpenAI Service | Lecture 5: slide 9 |
-
-**CST8912 Cloud Solution Architecture**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | AI + Machine Learning | model (machine learning) | Design Cloud Compute Solution: slides 14, 15 |
-|  | AI development platforms | Azure Machine Learning | Design Cloud Compute Solution: slides 14, 15 |
-|  | Data platforms for AI | Azure Databricks | Design Cloud Compute Solution: slides 14, 15 |
-
-**CST8913 Cloud Migration**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 2 | AI + Machine Learning | machine learning (ML)<br>artificial intelligence (AI) | Introduction to Cloud Computing: slide 5 |
-|  | Data platforms for AI | Microsoft Fabric | Lab 2: Azure services (Lab 2 case study) |
-| 3 | AI development platforms | Azure Machine Learning | Target Cloud Architecture: slide 10 |
-|  | Data platforms for AI | Azure Databricks<br>Azure Data Lake Storage | Target Cloud Architecture: slides 8, 10 |
-
-**CST8915 Full-stack Cloud-native Development**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 3 | Data platforms for AI | Azure Databricks<br>Data Lake Storage Gen2 | Microservices: slides 32, 33 |
-
-**CST8916 Remote Data and Real-time Applications**
-
-| Week | Group | Terms in the course | Source |
-|---|---|---|---|
-| 1 | AI + Machine Learning | computer vision<br>AI model training | Introduction to Remote Data and Real-time Applications: slides 24, 30 |
-| 6 | AI + Machine Learning | built-in machine learning<br>large language model (LLM)<br>chatbot | Popular Cloud Services for Real-time Applications II: slides 13, 26, 27 |
-|  | AI development platforms | Azure Machine Learning (Azure ML)<br>Azure AI Foundry<br>Azure AI Foundry portal | Popular Cloud Services for Real-time Applications II: slides 12, 24, 25 |
-|  | Prebuilt AI services | OpenAI<br>Azure OpenAI<br>Azure AI Search<br>content safety | Popular Cloud Services for Real-time Applications II: slides 24, 25, 26 |
-|  | Data platforms for AI | Azure Databricks<br>Data Lake Storage Gen2 | Popular Cloud Services for Real-time Applications II: slide 7 |
-
 ## References
 
 - Microsoft. (2026a). *Study guide for Exam AI-103: Developing AI apps and agents on Azure*. Microsoft Learn. https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103
