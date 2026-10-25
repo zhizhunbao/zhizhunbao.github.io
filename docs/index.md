@@ -44,7 +44,7 @@ offer2pr.com, Ottawa, ON. June 2026 to present.
 Guangzhou Huan Technology (HuanTV), Guangzhou. April 2015 to September 2022.
 
 - Ran a platform processing 1+ billion smart-TV device records a day with sub-second queries (ClickHouse, Spark).
-- Led the on-premises Hadoop CDH to Alibaba Cloud EMR migration (VPC and VPN, security groups, auto-scaling); infrastructure cost down 35%.
+- Led the migration of self-managed CDH Hadoop clusters on Tencent Cloud VMs to Alibaba Cloud EMR (VPC and VPN, security groups, auto-scaling); infrastructure cost down 35%.
 - Built monitoring and alerting for Hadoop, NGINX, Tomcat and databases.
 
 ### Java Developer
