@@ -1,0 +1,65 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Fundamentals of Testing"
+  href: fundamentals-of-testing/index.md
+  items:
+  - name: "1.1 What is Testing?"
+    href: fundamentals-of-testing/what-is-testing.md
+  - name: "1.2 Why is Testing Necessary?"
+    href: fundamentals-of-testing/why-is-testing-necessary.md
+  - name: "1.3 Testing Principles"
+    href: fundamentals-of-testing/testing-principles.md
+  - name: "1.4 Test Activities, Testware and Test Roles"
+    href: fundamentals-of-testing/test-activities-testware-and-test-roles.md
+  - name: "1.5 Essential Skills and Good Practices in Testing"
+    href: fundamentals-of-testing/essential-skills-and-good-practices-in-testing.md
+- name: "2. Testing Throughout the Software Development Lifecycle"
+  href: testing-throughout-the-software-development-lifecycle/index.md
+  items:
+  - name: "2.1 Testing in the Context of a Software Development Lifecycle (SDLC)"
+    href: testing-throughout-the-software-development-lifecycle/testing-in-the-context-of-a-software-development-lifecycle-sdlc.md
+  - name: "2.2 Test Levels and Test Types"
+    href: testing-throughout-the-software-development-lifecycle/test-levels-and-test-types.md
+  - name: "2.3 Maintenance Testing"
+    href: testing-throughout-the-software-development-lifecycle/maintenance-testing.md
+- name: "3. Static Testing"
+  href: static-testing/index.md
+  items:
+  - name: "3.1 Static Testing Basics"
+    href: static-testing/static-testing-basics.md
+  - name: "3.2 Feedback and Review Process"
+    href: static-testing/feedback-and-review-process.md
+- name: "4. Test Analysis and Design"
+  href: test-analysis-and-design/index.md
+  items:
+  - name: "4.1 Test Techniques Overview"
+    href: test-analysis-and-design/test-techniques-overview.md
+  - name: "4.2 Black-Box Test Techniques"
+    href: test-analysis-and-design/black-box-test-techniques.md
+  - name: "4.3 White-Box Test Techniques"
+    href: test-analysis-and-design/white-box-test-techniques.md
+  - name: "4.4 Experience-based Test Techniques"
+    href: test-analysis-and-design/experience-based-test-techniques.md
+  - name: "4.5 Collaboration-based Test Approaches"
+    href: test-analysis-and-design/collaboration-based-test-approaches.md
+- name: "5. Managing the Test Activities"
+  href: managing-the-test-activities/index.md
+  items:
+  - name: "5.1 Test Planning"
+    href: managing-the-test-activities/test-planning.md
+  - name: "5.2 Risk Management"
+    href: managing-the-test-activities/risk-management.md
+  - name: "5.3 Test Monitoring, Test Control and Test Completion"
+    href: managing-the-test-activities/test-monitoring-test-control-and-test-completion.md
+  - name: "5.4 Configuration Management"
+    href: managing-the-test-activities/configuration-management.md
+  - name: "5.5 Defect Management"
+    href: managing-the-test-activities/defect-management.md
+- name: "6. Test Tools"
+  href: test-tools/index.md
+  items:
+  - name: "6.1 Tool Support for Testing"
+    href: test-tools/tool-support-for-testing.md
+  - name: "6.2 Benefits and Risks of Test Automation"
+    href: test-tools/benefits-and-risks-of-test-automation.md

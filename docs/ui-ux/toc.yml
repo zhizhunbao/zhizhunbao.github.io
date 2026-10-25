@@ -3,6 +3,8 @@ items:
   href: index.md
 - name: Apple Human Interface Guidelines
   href: apple-hig/index.md
+- name: ARIA Authoring Practices Guide
+  href: apg/toc.yml
 - name: Fluent 2 Design System
   href: fluent-2/index.md
 - name: ISO 9241
@@ -10,4 +12,4 @@ items:
 - name: Material Design
   href: material-design/index.md
 - name: WCAG 2.2
-  href: wcag-2-2/index.md
+  href: wcag-2-2/toc.yml
