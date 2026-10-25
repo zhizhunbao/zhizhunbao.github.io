@@ -14,7 +14,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 
 Every classification has an official source. Two layers: the top bar from a stable standard, everything inside a section from that field's current official sources.
 
-- Top bar (`docs/toc.yml`): one section per knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), one to one, no merging, no invented names. The top-bar entry is the CS2023 abbreviation; the section's index page H1 is the full name with the abbreviation, for example `Operating Systems (OS)`.
+- Top bar (`docs/toc.yml`): one section per knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), one to one, no merging, no invented names. The top-bar entry is the CS2023 full name, word for word, so it matches the official documents and certifications; if the bar gets too long, switch to the CS2023 abbreviations (also official). The section's index page H1 is the full name with the abbreviation, for example `Operating Systems (OS)`, and its first line says in plain Chinese what the area is about (my words, not a definition; the definitions in the term tables stay official).
 - Order: Home and Projects first; then the knowledge areas in the CS2023 order, "listed in alphabetical order of their abbreviation" (CS2023 Knowledge Model); then Cloud.
 - A knowledge area enters the top bar only when it has content. The others are listed below as planned, with no empty pages.
 - The CS2023 competency areas (Software, Systems, Applications) are not used as top-bar groups: CS2023 puts SEC and DM in two of them and calls the list "neither prescriptive nor comprehensive". They only order the table below, as a reading aid.
@@ -22,25 +22,27 @@ Every classification has an official source. Two layers: the top bar from a stab
 - Exception: Cloud is not a CS2023 knowledge area. It is organised by the Azure documentation categories and certifications, and `docs/cloud/azure/README.md` lists the CS2023 knowledge units it maps to.
 - Courses get no top-level section. What a course teaches lands in the section of its field.
 
-| Competency area | Abbreviation | Knowledge area | 中文 | Status |
-|---|---|---|---|---|
-| Software | SDF | Software Development Fundamentals | 软件开发基础 | |
-| Software | AL | Algorithmic Foundations | 算法基础 | |
-| Software | FPL | Foundations of Programming Languages | 编程语言基础 | |
-| Software | SE | Software Engineering | 软件工程 | Planned: testing and quality (SE-Validation), software architecture (SE-Design) |
-| Systems | AR | Architecture and Organization | 计算机体系结构与组成 | Planned: hardware |
-| Systems | OS | Operating Systems | 操作系统 | Planned |
-| Systems | NC | Networking and Communication | 网络与通信 | Planned: CCNA, CCNP |
-| Systems | PDC | Parallel and Distributed Computing | 并行与分布式计算 | Planned: big data |
-| Systems | SF | Systems Fundamentals | 系统基础 | System design is its knowledge unit SF-Design, not a knowledge area |
-| Systems | DM | Data Management | 数据管理 | Planned |
-| Systems | SEC | Security | 安全 | Planned |
-| Applications | AI | Artificial Intelligence | 人工智能 | Section `ai-courses/` |
-| Applications | GIT | Graphics and Interactive Techniques | 图形与交互技术 | |
-| Applications | HCI | Human-Computer Interaction | 人机交互 | Planned: UI/UX, accessibility (HCI-Accessibility) |
-| Applications | SPD | Specialized Platform Development | 专用平台开发 | |
-| All | SEP | Society, Ethics, and the Profession | 社会、伦理与职业 | |
-| All | MSF | Mathematical and Statistical Foundations | 数学与统计基础 | |
+The `大白话` column is my own one-line plain description, so a beginner knows what each area is about before reading the official sources.
+
+| Competency area | Abbreviation | Knowledge area | 中文 | 大白话 | Status |
+|---|---|---|---|---|---|
+| Software | SDF | Software Development Fundamentals | 软件开发基础 | 入门写程序 | |
+| Software | AL | Algorithmic Foundations | 算法基础 | 解题的步骤，怎样算得又快又省 | |
+| Software | FPL | Foundations of Programming Languages | 编程语言基础 | 写给电脑看的语言是怎么设计的 | |
+| Software | SE | Software Engineering | 软件工程 | 一群人怎么把软件做好、测好 | Planned: testing and quality (SE-Validation), software architecture (SE-Design) |
+| Systems | AR | Architecture and Organization | 计算机体系结构与组成 | 电脑里面的零件怎么拼起来工作 | Planned: hardware |
+| Systems | OS | Operating Systems | 操作系统 | 管电脑的大管家，比如 Windows、Linux | Planned |
+| Systems | NC | Networking and Communication | 网络与通信 | 电脑之间怎么传消息，比如上网 | Planned: CCNA, CCNP |
+| Systems | PDC | Parallel and Distributed Computing | 并行与分布式计算 | 很多台电脑一起干一件大活 | Planned: big data |
+| Systems | SF | Systems Fundamentals | 系统基础 | 一个大系统怎么设计才稳、才快 | System design is its knowledge unit SF-Design, not a knowledge area |
+| Systems | DM | Data Management | 数据管理 | 怎么存东西、找东西，比如数据库 | Planned |
+| Systems | SEC | Security | 安全 | 防坏人偷东西、搞破坏 | Planned |
+| Applications | AI | Artificial Intelligence | 人工智能 | 让电脑学会看、听、说、想 | Section `ai-courses/` |
+| Applications | GIT | Graphics and Interactive Techniques | 图形与交互技术 | 电脑怎么画图、做动画和游戏画面 | |
+| Applications | HCI | Human-Computer Interaction | 人机交互 | 软件怎么做得好用、好看、人人能用 | Planned: UI/UX, accessibility (HCI-Accessibility) |
+| Applications | SPD | Specialized Platform Development | 专用平台开发 | 给网页、手机、机器人写程序 | |
+| All | SEP | Society, Ethics, and the Profession | 社会、伦理与职业 | 做技术的人要守的规矩和责任 | |
+| All | MSF | Mathematical and Statistical Foundations | 数学与统计基础 | 计算机要用到的数学 | |
 
 ## Content rules (the site is public)
 
