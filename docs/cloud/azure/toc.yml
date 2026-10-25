@@ -204,5 +204,20 @@ items:
     href: well-architected-framework/performance-efficiency.md
 - name: "18. Cloud Adoption Framework for Azure"
   href: cloud-adoption-framework/index.md
+  items:
+  - name: "18.1 Strategy"
+    href: cloud-adoption-framework/strategy.md
+  - name: "18.2 Plan"
+    href: cloud-adoption-framework/plan.md
+  - name: "18.3 Ready"
+    href: cloud-adoption-framework/ready.md
+  - name: "18.4 Adopt"
+    href: cloud-adoption-framework/adopt.md
+  - name: "18.5 Govern"
+    href: cloud-adoption-framework/govern.md
+  - name: "18.6 Secure"
+    href: cloud-adoption-framework/secure.md
+  - name: "18.7 Manage"
+    href: cloud-adoption-framework/manage.md
 - name: "19. Azure Architecture Center"
   href: architecture-center/index.md
