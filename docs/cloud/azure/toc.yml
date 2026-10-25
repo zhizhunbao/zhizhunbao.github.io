@@ -147,6 +147,15 @@ items:
     href: identity/role-based-access-control.md
 - name: "13. Security"
   href: security/index.md
+  items:
+  - name: "13.1 Zero Trust model"
+    href: security/zero-trust-model.md
+  - name: "13.2 Defense-in-depth"
+    href: security/defense-in-depth.md
+  - name: "13.3 Encryption and key management"
+    href: security/encryption-and-key-management.md
+  - name: "13.4 Microsoft Defender for Cloud"
+    href: security/microsoft-defender-for-cloud.md
 - name: "14. Management and Governance"
   href: management-and-governance/index.md
 - name: "15. DevOps"
