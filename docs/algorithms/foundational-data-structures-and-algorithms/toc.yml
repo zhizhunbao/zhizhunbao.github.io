@@ -1,0 +1,47 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Abstract Data Type (ADT) and operations on an ADT"
+  href: abstract-data-type-adt-and-operations-on-an-adt.md
+- name: "2. Arrays"
+  href: arrays.md
+- name: "3. Records/Structs/Tuples and Objects"
+  href: records-structs-tuples-and-objects.md
+- name: "4. Linked lists (for historical reasons)"
+  href: linked-lists.md
+- name: "5. Stacks"
+  href: stacks.md
+- name: "6. Queues and deques"
+  href: queues-and-deques.md
+- name: "7. Hash tables/maps"
+  href: hash-tables-maps.md
+- name: "8. Graphs (e.g., [un]directed, [a]cyclic, [un]connected, and [un]weighted)"
+  href: graphs.md
+- name: "9. Trees"
+  href: trees.md
+- name: "10. Sets"
+  href: sets.md
+- name: "11. Search algorithms"
+  href: search-algorithms.md
+- name: "12. Sorting algorithms (e.g., stable, unstable)"
+  href: sorting-algorithms.md
+- name: "13. Graph algorithms"
+  href: graph-algorithms.md
+- name: "14. Sorting algorithms"
+  href: sorting-algorithms-ka-core.md
+- name: "15. Graph algorithms"
+  href: graph-algorithms-ka-core.md
+- name: "16. Matching"
+  href: matching.md
+- name: "17. Cryptography algorithms (e.g., SHA-256)"
+  href: cryptography-algorithms.md
+- name: "18. Parallel algorithms"
+  href: parallel-algorithms.md
+- name: "19. Consensus algorithms (e.g., Blockchain)"
+  href: consensus-algorithms.md
+- name: "20. Quantum computing algorithms"
+  href: quantum-computing-algorithms.md
+- name: "21. Fast-Fourier Transform (FFT) algorithm"
+  href: fast-fourier-transform-fft-algorithm.md
+- name: "22. Differential evolution algorithm"
+  href: differential-evolution-algorithm.md

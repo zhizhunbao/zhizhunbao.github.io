@@ -1,16 +1,17 @@
 ---
-title: Computational Models and Formal Languages
-description: "Planned second-level page: CS2023 knowledge unit AL-Models."
-ms.date: 2026-10-24
+title: "Computational Models and Formal Languages"
+description: "CS2023 knowledge unit AL-Models: Computational Models and Formal Languages, 14 topics."
+ms.date: 2026-10-25
 ---
 
 # Computational Models and Formal Languages
 
-Planned, no content yet.
+The pages under this one are the topics of the CS2023 knowledge unit AL-Models, with CS2023's numbering and order: 6 CS Core, 7 KA Core, 1 Non-core topics.
 
 | Item | Value |
 |---|---|
 | CS2023 knowledge unit | AL-Models: Computational Models and Formal Languages |
+| Source | [CS2023 Body of Knowledge, AL-Models, p. 31](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=31) |
 
 ## References
 

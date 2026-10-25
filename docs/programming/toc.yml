@@ -3,8 +3,8 @@ items:
   href: index.md
 - name: Git
   href: git/toc.yml
-- name: GitHub Docs
-  href: github-docs/toc.yml
+- name: GitHub
+  href: github/toc.yml
 - name: Java
   href: java/toc.yml
 - name: Python

@@ -1,0 +1,31 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Formal automata"
+  href: formal-automata.md
+- name: "2. Formal languages, grammars and Chomsky Hierarchy"
+  href: formal-languages-grammars-and-chomsky-hierarchy.md
+- name: "3. Relations among formal automata, languages, and grammars"
+  href: relations-among-formal-automata-languages-and-grammars.md
+- name: "4. Decidability, (un)computability, and halting"
+  href: decidability-un-computability-and-halting.md
+- name: "5. The Church-Turing thesis"
+  href: the-church-turing-thesis.md
+- name: "6. Algorithmic correctness"
+  href: algorithmic-correctness.md
+- name: "7. Deterministic and nondeterministic automata"
+  href: deterministic-and-nondeterministic-automata.md
+- name: "8. Pumping Lemma proofs"
+  href: pumping-lemma-proofs.md
+- name: "9. Decidability"
+  href: decidability.md
+- name: "10. Reducibility and reductions"
+  href: reducibility-and-reductions.md
+- name: "11. Time complexity based on Turing Machine"
+  href: time-complexity-based-on-turing-machine.md
+- name: "12. Space complexity (e.g., Pspace, Savitch’s Theorem)"
+  href: space-complexity.md
+- name: "13. Equivalent models of algorithmic computation"
+  href: equivalent-models-of-algorithmic-computation.md
+- name: "14. Quantum computation"
+  href: quantum-computation.md

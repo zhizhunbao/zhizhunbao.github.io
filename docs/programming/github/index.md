@@ -1,10 +1,10 @@
 ---
-title: GitHub Docs
-description: "Second-level page: GitHub Docs."
+title: GitHub
+description: "Second-level page: GitHub, from its official documentation, GitHub Docs."
 ms.date: 2026-10-24
 ---
 
-# GitHub Docs
+# GitHub
 
 The pages under this one follow this source's own classification.
 

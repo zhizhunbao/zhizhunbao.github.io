@@ -1,16 +1,17 @@
 ---
-title: Complexity
-description: "Planned second-level page: CS2023 knowledge unit AL-Complexity."
-ms.date: 2026-10-24
+title: "Complexity"
+description: "CS2023 knowledge unit AL-Complexity: Complexity, 9 topics."
+ms.date: 2026-10-25
 ---
 
 # Complexity
 
-Planned, no content yet.
+The pages under this one are the topics of the CS2023 knowledge unit AL-Complexity, with CS2023's numbering and order: 5 CS Core, 4 KA Core topics.
 
 | Item | Value |
 |---|---|
 | CS2023 knowledge unit | AL-Complexity: Complexity |
+| Source | [CS2023 Body of Knowledge, AL-Complexity, p. 29](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=29) |
 
 ## References
 
