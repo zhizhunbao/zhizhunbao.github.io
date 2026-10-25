@@ -3,6 +3,8 @@ items:
   href: index.md
 - name: CISSP
   href: cissp/toc.yml
+- name: CompTIA Security+
+  href: comptia-security-plus/toc.yml
 - name: MITRE ATT&CK
   href: mitre-attack/index.md
 - name: NIST Cybersecurity Framework
