@@ -1,12 +1,12 @@
 ---
 title: Algorithms
 description: Planned section of the knowledge base; maps to CS2023 Algorithmic Foundations (AL).
-ms.date: 2026-10-24
+ms.date: 2026-10-25
 ---
 
 # Algorithms
 
-Planned, no content yet. Algorithms do not date like the other fields, so the second level is the knowledge units of CS2023 itself, in alphabetical order.
+Planned, no content yet. The second level has two sources: CS2023 AL, the knowledge units of the CS2023 knowledge area itself, which is the map of what to learn (algorithms do not date like the other fields); and the NIST Dictionary of Algorithms and Data Structures, the reference for definitions, which lists the data structures and algorithms CS2023 does not name.
 
 | Item | Value |
 |---|---|

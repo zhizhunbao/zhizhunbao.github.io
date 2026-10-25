@@ -1,15 +1,7 @@
 items:
 - name: Overview
   href: index.md
-- name: Algorithmic Strategies
-  href: algorithmic-strategies/toc.yml
-- name: Complexity
-  href: complexity/toc.yml
-- name: Computational Models and Formal Languages
-  href: computational-models-and-formal-languages/toc.yml
+- name: CS2023 AL
+  href: cs2023/toc.yml
 - name: Dictionary of Algorithms and Data Structures
   href: dictionary-of-algorithms-and-data-structures/toc.yml
-- name: Foundational Data Structures and Algorithms
-  href: foundational-data-structures-and-algorithms/toc.yml
-- name: Society, Ethics, and the Profession
-  href: society-ethics-and-the-profession/toc.yml
