@@ -1,0 +1,218 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Preface"
+  href: preface/index.md
+  items:
+  - name: "1. What Is PostgreSQL?"
+    href: preface/what-is-postgresql.md
+  - name: "2. A Brief History of PostgreSQL"
+    href: preface/a-brief-history-of-postgresql.md
+  - name: "3. Conventions"
+    href: preface/conventions.md
+  - name: "4. Further Information"
+    href: preface/further-information.md
+  - name: "5. Bug Reporting Guidelines"
+    href: preface/bug-reporting-guidelines.md
+- name: "I. Tutorial"
+  href: tutorial/index.md
+  items:
+  - name: "1. Getting Started"
+    href: tutorial/getting-started.md
+  - name: "2. The SQL Language"
+    href: tutorial/the-sql-language.md
+  - name: "3. Advanced Features"
+    href: tutorial/advanced-features.md
+- name: "II. The SQL Language"
+  href: the-sql-language/index.md
+  items:
+  - name: "4. SQL Syntax"
+    href: the-sql-language/sql-syntax.md
+  - name: "5. Data Definition"
+    href: the-sql-language/data-definition.md
+  - name: "6. Data Manipulation"
+    href: the-sql-language/data-manipulation.md
+  - name: "7. Queries"
+    href: the-sql-language/queries.md
+  - name: "8. Data Types"
+    href: the-sql-language/data-types.md
+  - name: "9. Functions and Operators"
+    href: the-sql-language/functions-and-operators.md
+  - name: "10. Type Conversion"
+    href: the-sql-language/type-conversion.md
+  - name: "11. Indexes"
+    href: the-sql-language/indexes.md
+  - name: "12. Full Text Search"
+    href: the-sql-language/full-text-search.md
+  - name: "13. Concurrency Control"
+    href: the-sql-language/concurrency-control.md
+  - name: "14. Performance Tips"
+    href: the-sql-language/performance-tips.md
+  - name: "15. Parallel Query"
+    href: the-sql-language/parallel-query.md
+- name: "III. Server Administration"
+  href: server-administration/index.md
+  items:
+  - name: "16. Installation from Binaries"
+    href: server-administration/installation-from-binaries.md
+  - name: "17. Installation from Source Code"
+    href: server-administration/installation-from-source-code.md
+  - name: "18. Server Setup and Operation"
+    href: server-administration/server-setup-and-operation.md
+  - name: "19. Server Configuration"
+    href: server-administration/server-configuration.md
+  - name: "20. Client Authentication"
+    href: server-administration/client-authentication.md
+  - name: "21. Database Roles"
+    href: server-administration/database-roles.md
+  - name: "22. Managing Databases"
+    href: server-administration/managing-databases.md
+  - name: "23. Localization"
+    href: server-administration/localization.md
+  - name: "24. Routine Database Maintenance Tasks"
+    href: server-administration/routine-database-maintenance-tasks.md
+  - name: "25. Backup and Restore"
+    href: server-administration/backup-and-restore.md
+  - name: "26. High Availability, Load Balancing, and Replication"
+    href: server-administration/high-availability-load-balancing-and-replication.md
+  - name: "27. Monitoring Database Activity"
+    href: server-administration/monitoring-database-activity.md
+  - name: "28. Reliability and the Write-Ahead Log"
+    href: server-administration/reliability-and-the-write-ahead-log.md
+  - name: "29. Logical Replication"
+    href: server-administration/logical-replication.md
+  - name: "30. Just-in-Time Compilation ( JIT )"
+    href: server-administration/just-in-time-compilation-jit.md
+  - name: "31. Regression Tests"
+    href: server-administration/regression-tests.md
+- name: "IV. Client Interfaces"
+  href: client-interfaces/index.md
+  items:
+  - name: "32. libpq — C Library"
+    href: client-interfaces/libpq-c-library.md
+  - name: "33. Large Objects"
+    href: client-interfaces/large-objects.md
+  - name: "34. ECPG — Embedded SQL in C"
+    href: client-interfaces/ecpg-embedded-sql-in-c.md
+  - name: "35. The Information Schema"
+    href: client-interfaces/the-information-schema.md
+- name: "V. Server Programming"
+  href: server-programming/index.md
+  items:
+  - name: "36. Extending SQL"
+    href: server-programming/extending-sql.md
+  - name: "37. Triggers"
+    href: server-programming/triggers.md
+  - name: "38. Event Triggers"
+    href: server-programming/event-triggers.md
+  - name: "39. The Rule System"
+    href: server-programming/the-rule-system.md
+  - name: "40. Procedural Languages"
+    href: server-programming/procedural-languages.md
+  - name: "41. PL/pgSQL — SQL Procedural Language"
+    href: server-programming/pl-pgsql-sql-procedural-language.md
+  - name: "42. PL/Tcl — Tcl Procedural Language"
+    href: server-programming/pl-tcl-tcl-procedural-language.md
+  - name: "43. PL/Perl — Perl Procedural Language"
+    href: server-programming/pl-perl-perl-procedural-language.md
+  - name: "44. PL/Python — Python Procedural Language"
+    href: server-programming/pl-python-python-procedural-language.md
+  - name: "45. Server Programming Interface"
+    href: server-programming/server-programming-interface.md
+  - name: "46. Background Worker Processes"
+    href: server-programming/background-worker-processes.md
+  - name: "47. Logical Decoding"
+    href: server-programming/logical-decoding.md
+  - name: "48. Replication Progress Tracking"
+    href: server-programming/replication-progress-tracking.md
+  - name: "49. Archive Modules"
+    href: server-programming/archive-modules.md
+  - name: "50. OAuth Validator Modules"
+    href: server-programming/oauth-validator-modules.md
+- name: "VI. Reference"
+  href: reference/index.md
+  items:
+  - name: "I. SQL Commands"
+    href: reference/sql-commands.md
+  - name: "II. PostgreSQL Client Applications"
+    href: reference/postgresql-client-applications.md
+  - name: "III. PostgreSQL Server Applications"
+    href: reference/postgresql-server-applications.md
+- name: "VII. Internals"
+  href: internals/index.md
+  items:
+  - name: "51. Overview of PostgreSQL Internals"
+    href: internals/overview-of-postgresql-internals.md
+  - name: "52. System Catalogs"
+    href: internals/system-catalogs.md
+  - name: "53. System Views"
+    href: internals/system-views.md
+  - name: "54. Frontend/Backend Protocol"
+    href: internals/frontend-backend-protocol.md
+  - name: "55. PostgreSQL Coding Conventions"
+    href: internals/postgresql-coding-conventions.md
+  - name: "56. Native Language Support"
+    href: internals/native-language-support.md
+  - name: "57. Writing a Procedural Language Handler"
+    href: internals/writing-a-procedural-language-handler.md
+  - name: "58. Writing a Foreign Data Wrapper"
+    href: internals/writing-a-foreign-data-wrapper.md
+  - name: "59. Writing a Table Sampling Method"
+    href: internals/writing-a-table-sampling-method.md
+  - name: "60. Writing a Custom Scan Provider"
+    href: internals/writing-a-custom-scan-provider.md
+  - name: "61. Genetic Query Optimizer"
+    href: internals/genetic-query-optimizer.md
+  - name: "62. Table Access Method Interface Definition"
+    href: internals/table-access-method-interface-definition.md
+  - name: "63. Index Access Method Interface Definition"
+    href: internals/index-access-method-interface-definition.md
+  - name: "64. Write Ahead Logging for Extensions"
+    href: internals/write-ahead-logging-for-extensions.md
+  - name: "65. Built-in Index Access Methods"
+    href: internals/built-in-index-access-methods.md
+  - name: "66. Database Physical Storage"
+    href: internals/database-physical-storage.md
+  - name: "67. Transaction Processing"
+    href: internals/transaction-processing.md
+  - name: "68. System Catalog Declarations and Initial Contents"
+    href: internals/system-catalog-declarations-and-initial-contents.md
+  - name: "69. How the Planner Uses Statistics"
+    href: internals/how-the-planner-uses-statistics.md
+  - name: "70. Backup Manifest Format"
+    href: internals/backup-manifest-format.md
+- name: "VIII. Appendixes"
+  href: appendixes/index.md
+  items:
+  - name: "A. PostgreSQL Error Codes"
+    href: appendixes/postgresql-error-codes.md
+  - name: "B. Date/Time Support"
+    href: appendixes/date-time-support.md
+  - name: "C. SQL Key Words"
+    href: appendixes/sql-key-words.md
+  - name: "D. SQL Conformance"
+    href: appendixes/sql-conformance.md
+  - name: "E. Release Notes"
+    href: appendixes/release-notes.md
+  - name: "F. Additional Supplied Modules and Extensions"
+    href: appendixes/additional-supplied-modules-and-extensions.md
+  - name: "G. Additional Supplied Programs"
+    href: appendixes/additional-supplied-programs.md
+  - name: "H. External Projects"
+    href: appendixes/external-projects.md
+  - name: "I. The Source Code Repository"
+    href: appendixes/the-source-code-repository.md
+  - name: "J. Documentation"
+    href: appendixes/documentation.md
+  - name: "K. PostgreSQL Limits"
+    href: appendixes/postgresql-limits.md
+  - name: "L. Acronyms"
+    href: appendixes/acronyms.md
+  - name: "M. Glossary"
+    href: appendixes/glossary.md
+  - name: "N. Color Support"
+    href: appendixes/color-support.md
+  - name: "O. Obsolete or Renamed Features"
+    href: appendixes/obsolete-or-renamed-features.md
+- name: "Bibliography"
+  href: bibliography/index.md

@@ -6,4 +6,4 @@ items:
 - name: CS2023 DM
   href: cs2023/toc.yml
 - name: PostgreSQL
-  href: postgresql/index.md
+  href: postgresql/toc.yml
