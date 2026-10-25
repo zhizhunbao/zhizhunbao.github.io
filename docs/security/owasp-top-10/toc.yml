@@ -1,0 +1,36 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Introduction"
+  href: introduction/index.md
+- name: "2. About OWASP"
+  href: about-owasp/index.md
+- name: "3. What are Application Security Risks?"
+  href: what-are-application-security-risks/index.md
+- name: "4. Establishing a Modern Application Security Program"
+  href: establishing-a-modern-application-security-program/index.md
+- name: "5. Top 10:2025 List"
+  href: top-10-2025-list/index.md
+  items:
+  - name: "A01 Broken Access Control"
+    href: top-10-2025-list/broken-access-control.md
+  - name: "A02 Security Misconfiguration"
+    href: top-10-2025-list/security-misconfiguration.md
+  - name: "A03 Software Supply Chain Failures"
+    href: top-10-2025-list/software-supply-chain-failures.md
+  - name: "A04 Cryptographic Failures"
+    href: top-10-2025-list/cryptographic-failures.md
+  - name: "A05 Injection"
+    href: top-10-2025-list/injection.md
+  - name: "A06 Insecure Design"
+    href: top-10-2025-list/insecure-design.md
+  - name: "A07 Authentication Failures"
+    href: top-10-2025-list/authentication-failures.md
+  - name: "A08 Software or Data Integrity Failures"
+    href: top-10-2025-list/software-or-data-integrity-failures.md
+  - name: "A09 Security Logging and Alerting Failures"
+    href: top-10-2025-list/security-logging-and-alerting-failures.md
+  - name: "A10 Mishandling of Exceptional Conditions"
+    href: top-10-2025-list/mishandling-of-exceptional-conditions.md
+- name: "6. Next Steps"
+  href: next-steps/index.md
