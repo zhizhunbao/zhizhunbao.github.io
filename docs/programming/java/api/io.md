@@ -1,10 +1,10 @@
 ---
-title: "5.3 Managing Out-of-Memory Data"
-description: "Java, 5.3 Managing Out-of-Memory Data."
+title: "3.2 Managing Out-of-Memory Data"
+description: "Java, 3.2 Managing Out-of-Memory Data."
 ms.date: 2026-10-25
 ---
 
-# 5.3 Managing Out-of-Memory Data
+# 3.2 Managing Out-of-Memory Data
 
 Sources: [Dev.java, Managing Out-of-Memory Data](https://dev.java/learn/api/io/).
 

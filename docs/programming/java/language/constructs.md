@@ -1,10 +1,10 @@
 ---
-title: "4.3 Language Basics"
-description: "Java, 4.3 Language Basics."
+title: "2.1 Language Basics"
+description: "Java, 2.1 Language Basics."
 ms.date: 2026-10-25
 ---
 
-# 4.3 Language Basics
+# 2.1 Language Basics
 
 Sources: [Dev.java, Language Basics](https://dev.java/learn/language/constructs/).
 

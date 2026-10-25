@@ -1,10 +1,10 @@
 ---
-title: "4.4 Object Oriented Programming"
-description: "Java, 4.4 Object Oriented Programming."
+title: "2.2 Object Oriented Programming"
+description: "Java, 2.2 Object Oriented Programming."
 ms.date: 2026-10-25
 ---
 
-# 4.4 Object Oriented Programming
+# 2.2 Object Oriented Programming
 
 Sources: [Dev.java, Object Oriented Programming](https://dev.java/learn/language/oop/).
 

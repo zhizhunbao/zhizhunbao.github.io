@@ -1,10 +1,10 @@
 ---
-title: "6.1 Creating Runtime and Application Images with JLink"
-description: "Java, 6.1 Creating Runtime and Application Images with JLink."
+title: "4.2 Creating Runtime and Application Images with JLink"
+description: "Java, 4.2 Creating Runtime and Application Images with JLink."
 ms.date: 2026-10-25
 ---
 
-# 6.1 Creating Runtime and Application Images with JLink
+# 4.2 Creating Runtime and Application Images with JLink
 
 Sources: [Dev.java, Creating Runtime and Application Images with JLink](https://dev.java/learn/organizing/jlink/).
 

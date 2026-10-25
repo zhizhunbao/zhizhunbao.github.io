@@ -6,7 +6,7 @@ ms.date: 2026-10-25
 
 # Java
 
-Planned, no content yet. The pages under this one follow the groups and tutorials of [Dev.java Learn](https://dev.java/learn/), the official Java tutorials from Oracle, with their titles. Dev.java has no numbering, so both levels are in alphabetical order. Dev.java follows the latest release (JDK 27, September 2026); the latest long-term support release is JDK 25 (September 2025), whose documentation is the reference for the rest.
+Planned, no content yet. The pages under this one follow the groups and tutorials of [Dev.java Learn](https://dev.java/learn/), the official Java tutorials from Oracle, with their titles and in their order (numbered here; Dev.java has no numbers). Dev.java follows the latest release (JDK 27, September 2026); the latest long-term support release is JDK 25 (September 2025), whose documentation is the reference for the rest.
 
 | Item | Value |
 |---|---|
