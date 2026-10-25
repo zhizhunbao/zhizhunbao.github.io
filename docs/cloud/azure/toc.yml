@@ -191,6 +191,17 @@ items:
     href: migration/execute.md
 - name: "17. Azure Well-Architected Framework"
   href: well-architected-framework/index.md
+  items:
+  - name: "17.1 Reliability"
+    href: well-architected-framework/reliability.md
+  - name: "17.2 Security"
+    href: well-architected-framework/security.md
+  - name: "17.3 Cost Optimization"
+    href: well-architected-framework/cost-optimization.md
+  - name: "17.4 Operational Excellence"
+    href: well-architected-framework/operational-excellence.md
+  - name: "17.5 Performance Efficiency"
+    href: well-architected-framework/performance-efficiency.md
 - name: "18. Cloud Adoption Framework for Azure"
   href: cloud-adoption-framework/index.md
 - name: "19. Azure Architecture Center"
