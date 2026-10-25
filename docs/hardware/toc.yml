@@ -5,5 +5,9 @@ items:
   href: arm/index.md
 - name: CS2023 AR
   href: cs2023/toc.yml
+- name: CUDA
+  href: cuda/index.md
+- name: RISC-V
+  href: risc-v/index.md
 - name: x86
   href: x86/index.md

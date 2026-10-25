@@ -1,6 +1,10 @@
 items:
 - name: Overview
   href: index.md
+- name: C
+  href: c/index.md
+- name: "C++"
+  href: cpp/index.md
 - name: CS2023 FPL
   href: cs2023-fpl/toc.yml
 - name: CS2023 SDF
@@ -11,6 +15,8 @@ items:
   href: github/toc.yml
 - name: Java
   href: java/toc.yml
+- name: LLVM
+  href: llvm/index.md
 - name: Python
   href: python/toc.yml
 - name: TypeScript

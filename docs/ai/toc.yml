@@ -9,15 +9,29 @@ items:
   href: gymnasium/toc.yml
 - name: Hugging Face Transformers
   href: hugging-face-transformers/toc.yml
+- name: LlamaIndex
+  href: llamaindex/index.md
 - name: Microsoft Foundry
   href: microsoft-foundry/index.md
+- name: Model Context Protocol
+  href: model-context-protocol/index.md
+- name: MuJoCo
+  href: mujoco/index.md
 - name: NIST AI Risk Management Framework
   href: nist-ai-rmf/index.md
+- name: Ollama
+  href: ollama/index.md
 - name: OpenAI
   href: openai/index.md
 - name: OpenCV
   href: opencv/toc.yml
 - name: PyTorch
   href: pytorch/toc.yml
+- name: ROS 2
+  href: ros-2/index.md
 - name: scikit-learn
   href: scikit-learn/toc.yml
+- name: Stable-Baselines3
+  href: stable-baselines3/index.md
+- name: Ultralytics YOLO
+  href: ultralytics-yolo/index.md
