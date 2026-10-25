@@ -4,6 +4,6 @@ items:
 - name: CS2023 OS
   href: cs2023/toc.yml
 - name: Linux
-  href: linux/index.md
+  href: linux/toc.yml
 - name: Windows
   href: windows/index.md
