@@ -71,6 +71,19 @@ items:
     href: storage/file-movement-options.md
 - name: "7. Databases"
   href: databases/index.md
+  items:
+  - name: "7.1 Relational data stores"
+    href: databases/relational-data-stores.md
+  - name: "7.2 Document data stores"
+    href: databases/document-data-stores.md
+  - name: "7.3 Column-family data stores"
+    href: databases/column-family-data-stores.md
+  - name: "7.4 Key-value data stores"
+    href: databases/key-value-data-stores.md
+  - name: "7.5 Graph data stores"
+    href: databases/graph-data-stores.md
+  - name: "7.6 Time-series data stores"
+    href: databases/time-series-data-stores.md
 - name: "8. Integration"
   href: integration/index.md
 - name: "9. Analytics"

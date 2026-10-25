@@ -14,7 +14,7 @@ Only the folders below may exist, in this order. The number is the learning orde
 | 4 | `containers/` | Containers | classification | [Azure documentation: Containers](https://learn.microsoft.com/en-us/azure/?product=containers) |
 | 5 | `networking/` | Networking | classification | [Azure documentation: Networking](https://learn.microsoft.com/en-us/azure/?product=networking) |
 | 6 | `storage/` | Storage | classification | [Azure documentation: Storage](https://learn.microsoft.com/en-us/azure/?product=storage) |
-| 7 | `databases/` | Databases | classification | [Azure documentation: Databases](https://learn.microsoft.com/en-us/azure/?product=databases) |
+| 7 | `databases/` | Databases | classification | [Azure documentation: Databases](https://learn.microsoft.com/en-us/azure/?product=databases); [Azure Architecture Center: Understand data models](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models) |
 | 8 | `integration/` | Integration | classification | [Azure documentation: Integration](https://learn.microsoft.com/en-us/azure/?product=integration) |
 | 9 | `analytics/` | Analytics | classification | [Azure documentation: Analytics](https://learn.microsoft.com/en-us/azure/?product=analytics) |
 | 10 | `internet-of-things/` | Internet of Things | classification | [Azure documentation: Internet of Things](https://learn.microsoft.com/en-us/azure/?product=iot) |
