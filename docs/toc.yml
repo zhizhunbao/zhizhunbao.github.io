@@ -7,3 +7,19 @@ items:
   href: ai-courses/
 - name: Cloud
   href: cloud/
+- name: Data
+  href: data/
+- name: Hardware
+  href: hardware/
+- name: Networking
+  href: networking/
+- name: Operating Systems
+  href: operating-systems/
+- name: QA
+  href: qa/
+- name: Security
+  href: security/
+- name: System Design
+  href: system-design/
+- name: UI/UX
+  href: ui-ux/

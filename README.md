@@ -12,33 +12,33 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 
 ## Navigation rules
 
-Every classification has an official source. Two layers: the top bar from a stable standard, everything inside a section from that field's current official sources.
+Content has official sources; section names are the common names of the field.
 
-- Top bar (`docs/toc.yml`): one section per knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), one to one, no merging, no invented names. The top-bar entry is the CS2023 full name, word for word, so it matches the official documents and certifications. Exception: AI keeps its abbreviation, which everyone knows. If the bar gets too long, switch to the CS2023 abbreviations (also official). The section's index page H1 is the full name with the abbreviation, for example `Operating Systems (OS)`.
-- Order: Home and Projects first; then the knowledge areas in the CS2023 order, "listed in alphabetical order of their abbreviation" (CS2023 Knowledge Model); then Cloud.
-- A knowledge area enters the top bar only when it has content. The others are listed below as planned, with no empty pages.
-- The CS2023 competency areas (Software, Systems, Applications) are not used as top-bar groups: CS2023 puts SEC and DM in two of them and calls the list "neither prescriptive nor comprehensive". They only order the table below, as a reading aid.
-- Inside a section (second bar, left menu): the field's current official sources, because the CS2023 details lag behind (drafted 2021 to 2023, little on LLMs and agents). Each section names its sources on its index page or in its folder README.
-- Exception: Cloud is not a CS2023 knowledge area. It is organised by the Azure documentation categories and certifications, and `docs/cloud/azure/README.md` lists the CS2023 knowledge units it maps to.
+- Top bar (`docs/toc.yml`): Home and Projects first, then the sections in alphabetical order of their names. A section name is the common name of the field (AI, Security, UI/UX). It is not an official classification, so each section states the knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), it maps to, as in the table below.
+- Inside a section (second bar, left menu): the field's current official sources, cited in APA. Not roadmap.sh or similar community sites, which cannot be cited as official sources.
+- A planned section has only its index page (name, CS2023 mapping) until content arrives.
+- Cloud is organised by the Azure documentation categories and certifications, and `docs/cloud/azure/README.md` lists the CS2023 knowledge units it maps to.
 - Courses get no top-level section. What a course teaches lands in the section of its field.
 
-| Competency area | Abbreviation | Knowledge area | 中文 | Status |
+The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Systems, Applications, then the two that apply to all), with the section each one maps to:
+
+| Competency area | Abbreviation | Knowledge area | 中文 | Section |
 |---|---|---|---|---|
 | Software | SDF | Software Development Fundamentals | 软件开发基础 | |
 | Software | AL | Algorithmic Foundations | 算法基础 | |
 | Software | FPL | Foundations of Programming Languages | 编程语言基础 | |
-| Software | SE | Software Engineering | 软件工程 | Planned: testing and quality (SE-Validation), software architecture (SE-Design) |
-| Systems | AR | Architecture and Organization | 计算机体系结构与组成 | Planned: hardware |
-| Systems | OS | Operating Systems | 操作系统 | Planned |
-| Systems | NC | Networking and Communication | 网络与通信 | Planned: CCNA, CCNP |
-| Systems | PDC | Parallel and Distributed Computing | 并行与分布式计算 | Planned: big data |
-| Systems | SF | Systems Fundamentals | 系统基础 | System design is its knowledge unit SF-Design, not a knowledge area |
-| Systems | DM | Data Management | 数据管理 | Planned |
-| Systems | SEC | Security | 安全 | Planned |
-| Applications | AI | Artificial Intelligence | 人工智能 | Section `ai-courses/` |
+| Software | SE | Software Engineering | 软件工程 | QA (SE-Validation); System Design (SE-Design) |
+| Systems | AR | Architecture and Organization | 计算机体系结构与组成 | Hardware |
+| Systems | OS | Operating Systems | 操作系统 | Operating Systems |
+| Systems | NC | Networking and Communication | 网络与通信 | Networking |
+| Systems | PDC | Parallel and Distributed Computing | 并行与分布式计算 | Cloud; System Design |
+| Systems | SF | Systems Fundamentals | 系统基础 | System Design (SF-Design) |
+| Systems | DM | Data Management | 数据管理 | Data; Cloud |
+| Systems | SEC | Security | 安全 | Security |
+| Applications | AI | Artificial Intelligence | 人工智能 | AI |
 | Applications | GIT | Graphics and Interactive Techniques | 图形与交互技术 | |
-| Applications | HCI | Human-Computer Interaction | 人机交互 | Planned: UI/UX, accessibility (HCI-Accessibility) |
-| Applications | SPD | Specialized Platform Development | 专用平台开发 | |
+| Applications | HCI | Human-Computer Interaction | 人机交互 | UI/UX |
+| Applications | SPD | Specialized Platform Development | 专用平台开发 | Cloud (SPD-Web) |
 | All | SEP | Society, Ethics, and the Profession | 社会、伦理与职业 | |
 | All | MSF | Mathematical and Statistical Foundations | 数学与统计基础 | |
 

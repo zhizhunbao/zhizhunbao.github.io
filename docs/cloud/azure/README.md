@@ -49,7 +49,7 @@ Nothing else.
 
 ## Place in the knowledge base
 
-Cloud is the one top-bar section that is not a CS2023 knowledge area (see the navigation rules in the repository README). Its topics map to these CS2023 knowledge units (Joint Task Force on Computing Curricula, 2024, <https://doi.org/10.1145/3664191>):
+Cloud spans several CS2023 knowledge areas (see the navigation rules in the repository README). Its topics map to these CS2023 knowledge units (Joint Task Force on Computing Curricula, 2024, <https://doi.org/10.1145/3664191>):
 
 | CS2023 knowledge unit | What CS2023 says | Azure topics here |
 |---|---|---|
