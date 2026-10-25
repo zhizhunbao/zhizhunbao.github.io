@@ -12,7 +12,7 @@ items:
 - name: NIST Cybersecurity Framework
   href: nist-csf/index.md
 - name: NIST SP 800-115
-  href: nist-sp-800-115/index.md
+  href: nist-sp-800-115/toc.yml
 - name: "OWASP Top 10:2025"
   href: owasp-top-10/toc.yml
 - name: OWASP Web Security Testing Guide

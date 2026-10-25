@@ -1,0 +1,119 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Executive Summary"
+  href: executive-summary/index.md
+- name: "1. Introduction"
+  href: introduction/index.md
+  items:
+  - name: "1.1 Authority"
+    href: introduction/authority.md
+  - name: "1.2 Purpose and Scope"
+    href: introduction/purpose-and-scope.md
+  - name: "1.3 Audience"
+    href: introduction/audience.md
+  - name: "1.4 Document Structure"
+    href: introduction/document-structure.md
+- name: "2. Security Testing and Examination Overview"
+  href: security-testing-and-examination-overview/index.md
+  items:
+  - name: "2.1 Information Security Assessment Methodology"
+    href: security-testing-and-examination-overview/information-security-assessment-methodology.md
+  - name: "2.2 Technical Assessment Techniques"
+    href: security-testing-and-examination-overview/technical-assessment-techniques.md
+  - name: "2.3 Comparing Tests and Examinations"
+    href: security-testing-and-examination-overview/comparing-tests-and-examinations.md
+  - name: "2.4 Testing Viewpoints"
+    href: security-testing-and-examination-overview/testing-viewpoints.md
+- name: "3. Review Techniques"
+  href: review-techniques/index.md
+  items:
+  - name: "3.1 Documentation Review"
+    href: review-techniques/documentation-review.md
+  - name: "3.2 Log Review"
+    href: review-techniques/log-review.md
+  - name: "3.3 Ruleset Review"
+    href: review-techniques/ruleset-review.md
+  - name: "3.4 System Configuration Review"
+    href: review-techniques/system-configuration-review.md
+  - name: "3.5 Network Sniffing"
+    href: review-techniques/network-sniffing.md
+  - name: "3.6 File Integrity Checking"
+    href: review-techniques/file-integrity-checking.md
+  - name: "3.7 Summary"
+    href: review-techniques/summary.md
+- name: "4. Target Identification and Analysis Techniques"
+  href: target-identification-and-analysis-techniques/index.md
+  items:
+  - name: "4.1 Network Discovery"
+    href: target-identification-and-analysis-techniques/network-discovery.md
+  - name: "4.2 Network Port and Service Identification"
+    href: target-identification-and-analysis-techniques/network-port-and-service-identification.md
+  - name: "4.3 Vulnerability Scanning"
+    href: target-identification-and-analysis-techniques/vulnerability-scanning.md
+  - name: "4.4 Wireless Scanning"
+    href: target-identification-and-analysis-techniques/wireless-scanning.md
+  - name: "4.5 Summary"
+    href: target-identification-and-analysis-techniques/summary.md
+- name: "5. Target Vulnerability Validation Techniques"
+  href: target-vulnerability-validation-techniques/index.md
+  items:
+  - name: "5.1 Password Cracking"
+    href: target-vulnerability-validation-techniques/password-cracking.md
+  - name: "5.2 Penetration Testing"
+    href: target-vulnerability-validation-techniques/penetration-testing.md
+  - name: "5.3 Social Engineering"
+    href: target-vulnerability-validation-techniques/social-engineering.md
+  - name: "5.4 Summary"
+    href: target-vulnerability-validation-techniques/summary.md
+- name: "6. Security Assessment Planning"
+  href: security-assessment-planning/index.md
+  items:
+  - name: "6.1 Developing a Security Assessment Policy"
+    href: security-assessment-planning/developing-a-security-assessment-policy.md
+  - name: "6.2 Prioritizing and Scheduling Assessments"
+    href: security-assessment-planning/prioritizing-and-scheduling-assessments.md
+  - name: "6.3 Selecting and Customizing Techniques"
+    href: security-assessment-planning/selecting-and-customizing-techniques.md
+  - name: "6.4 Assessment Logistics"
+    href: security-assessment-planning/assessment-logistics.md
+  - name: "6.5 Assessment Plan Development"
+    href: security-assessment-planning/assessment-plan-development.md
+  - name: "6.6 Legal Considerations"
+    href: security-assessment-planning/legal-considerations.md
+  - name: "6.7 Summary"
+    href: security-assessment-planning/summary.md
+- name: "7. Security Assessment Execution"
+  href: security-assessment-execution/index.md
+  items:
+  - name: "7.1 Coordination"
+    href: security-assessment-execution/coordination.md
+  - name: "7.2 Assessing"
+    href: security-assessment-execution/assessing.md
+  - name: "7.3 Analysis"
+    href: security-assessment-execution/analysis.md
+  - name: "7.4 Data Handling"
+    href: security-assessment-execution/data-handling.md
+- name: "8. Post-Testing Activities"
+  href: post-testing-activities/index.md
+  items:
+  - name: "8.1 Mitigation Recommendations"
+    href: post-testing-activities/mitigation-recommendations.md
+  - name: "8.2 Reporting"
+    href: post-testing-activities/reporting.md
+  - name: "8.3 Remediation/Mitigation"
+    href: post-testing-activities/remediation-mitigation.md
+- name: "Appendix A. Live CD Distributions for Security Testing"
+  href: live-cd-distributions-for-security-testing/index.md
+- name: "Appendix B. Rules of Engagement Template"
+  href: rules-of-engagement-template/index.md
+- name: "Appendix C. Application Security Testing and Examination"
+  href: application-security-testing-and-examination/index.md
+- name: "Appendix D. Remote Access Testing"
+  href: remote-access-testing/index.md
+- name: "Appendix E. Resources"
+  href: resources/index.md
+- name: "Appendix F. Glossary"
+  href: glossary/index.md
+- name: "Appendix G. Acronyms and Abbreviations"
+  href: acronyms-and-abbreviations/index.md
