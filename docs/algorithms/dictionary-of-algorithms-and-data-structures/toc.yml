@@ -1,0 +1,55 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Data Structures"
+  href: data-structures/index.md
+  items:
+  - name: "1.1 Basic"
+    href: data-structures/basic.md
+  - name: "1.2 Cryptography and Compression"
+    href: data-structures/cryptography-and-compression.md
+  - name: "1.3 External Memory Algorithms and Data Structures"
+    href: data-structures/external-memory-algorithms-and-data-structures.md
+  - name: "1.4 Computational Geometry"
+    href: data-structures/computational-geometry.md
+  - name: "1.5 Graphs"
+    href: data-structures/graphs.md
+  - name: "1.6 Searching"
+    href: data-structures/searching.md
+  - name: "1.7 Sorting"
+    href: data-structures/sorting.md
+  - name: "1.8 Theory"
+    href: data-structures/theory.md
+  - name: "1.9 Trees"
+    href: data-structures/trees.md
+- name: "2. Algorithms"
+  href: algorithms/index.md
+  items:
+  - name: "2.1 Automata and State Machines"
+    href: algorithms/automata-and-state-machines.md
+  - name: "2.2 Basic"
+    href: algorithms/basic.md
+  - name: "2.3 Combinatorics"
+    href: algorithms/combinatorics.md
+  - name: "2.4 Cryptography and Compression"
+    href: algorithms/cryptography-and-compression.md
+  - name: "2.5 External Memory Algorithms and Data Structures"
+    href: algorithms/external-memory-algorithms-and-data-structures.md
+  - name: "2.6 Computational Geometry"
+    href: algorithms/computational-geometry.md
+  - name: "2.7 Graphs"
+    href: algorithms/graphs.md
+  - name: "2.8 Numeric Computation"
+    href: algorithms/numeric-computation.md
+  - name: "2.9 Parallel"
+    href: algorithms/parallel.md
+  - name: "2.10 Quantum Computation"
+    href: algorithms/quantum-computation.md
+  - name: "2.11 Searching"
+    href: algorithms/searching.md
+  - name: "2.12 Sorting"
+    href: algorithms/sorting.md
+  - name: "2.13 Theory"
+    href: algorithms/theory.md
+  - name: "2.14 Trees"
+    href: algorithms/trees.md

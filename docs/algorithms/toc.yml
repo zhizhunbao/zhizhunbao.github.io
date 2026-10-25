@@ -7,6 +7,8 @@ items:
   href: complexity/toc.yml
 - name: Computational Models and Formal Languages
   href: computational-models-and-formal-languages/toc.yml
+- name: Dictionary of Algorithms and Data Structures
+  href: dictionary-of-algorithms-and-data-structures/toc.yml
 - name: Foundational Data Structures and Algorithms
   href: foundational-data-structures-and-algorithms/toc.yml
 - name: Society, Ethics, and the Profession
