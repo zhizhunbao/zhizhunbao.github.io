@@ -31,7 +31,7 @@ ms.date: 2026-10-24
 | Week | Group | Terms in the course | Source |
 |---|---|---|---|
 | 4 | Integration | integration | Lecture 3: slide 9 |
-|  | Workflows | Azure Logic Apps<br>connector | Lecture 3: slide 9 |
+|  | Workflows | Azure Logic Apps | Lecture 3: slide 9 |
 |  | Messages | queue | Lecture 3: slide 9 |
 |  | Events | event | Lecture 3: slide 9 |
 | 6 | Messages | Azure Queue Storage | Lecture 5: slide 10 |
@@ -45,7 +45,6 @@ ms.date: 2026-10-24
 |  | Events | event-driven | Design Cloud Compute Solution: slide 13 |
 | 4 | Messages | Azure Queue Storage<br>message<br>queue | Design Cloud Storage Solution: slide 16 |
 |  | Events | event-driven architecture | Design Cloud Storage Solution: slide 16 |
-| 6 | Workflows | Azure Logic Apps integration account | Week 6 – Cloud Architecture best practices: slides 34, 35 |
 
 **CST8913 Cloud Migration**
 
@@ -61,22 +60,20 @@ ms.date: 2026-10-24
 |  | Events | event bus<br>publish-subscribe | Introduction to Cloud-Native Applications: slide 42 |
 | 2 | Messages | messaging system (queueing system)<br>message broker<br>message queue | The Twelve-Factor Application: slides 22, 23<br>Lab 1: Message queues and RabbitMQ |
 | 3 | API management | Azure API Management | Microservices: slide 12 |
-|  | Messages | consume messages<br>Azure Service Bus<br>point-to-point messaging | Microservices: slides 29, 31 |
-|  | Events | publish<br>event<br>event-driven<br>topic<br>Azure Event Hubs (Azure Events Hub)<br>event streaming | Microservices: slides 30, 32, 33 |
+|  | Messages | Azure Service Bus | Microservices: slide 31 |
+|  | Events | event<br>event-driven<br>Azure Event Hubs (Azure Events Hub)<br>event streaming | Microservices: slides 30, 32, 33 |
 
 **CST8916 Remote Data and Real-time Applications**
 
 | Week | Group | Terms in the course | Source |
 |---|---|---|---|
 | 1 | Events | publish/subscribe (pub/sub) | Introduction to Remote Data and Real-time Applications: slide 34 |
-| 2 | Events | webhook | REST (Representational State Transfer): slide 46 |
 | 5 | API management | Azure API Management<br>API gateway | Popular Cloud Services for Real-time Applications I: slides 19, 20, 30 |
-|  | Messages | queue message | Popular Cloud Services for Real-time Applications I: slide 27 |
 |  | Events | event-driven architecture<br>Event Hub (Azure Event Hubs)<br>Azure Web PubSub<br>event notification | Popular Cloud Services for Real-time Applications I: slides 15, 19, 20, 27, 33, 34 |
-| 6 | Workflows | Azure Logic Apps<br>workflow<br>connector | Popular Cloud Services for Real-time Applications II: slide 25 |
+| 6 | Workflows | Azure Logic Apps<br>workflow | Popular Cloud Services for Real-time Applications II: slide 25 |
 |  | API management | Azure API Management | Popular Cloud Services for Real-time Applications II: slide 3 |
-|  | Messages | Azure Service Bus<br>message broker<br>message queue<br>dead-letter queue | Popular Cloud Services for Real-time Applications II: slides 16, 17, 18 |
-|  | Events | Azure Web PubSub<br>event streaming<br>Azure Event Hubs<br>event producer<br>event consumer | Popular Cloud Services for Real-time Applications II: slides 3, 5, 6 |
+|  | Messages | message queuing<br>Azure Service Bus<br>message broker<br>message queue<br>messaging | Popular Cloud Services for Real-time Applications II: slides 4, 16, 17, 28 |
+|  | Events | Azure Web PubSub<br>event trigger<br>event-driven computing<br>event streaming<br>Azure Event Hubs<br>event-triggered | Popular Cloud Services for Real-time Applications II: slides 3, 4, 5, 6, 28 |
 
 ## References
 
