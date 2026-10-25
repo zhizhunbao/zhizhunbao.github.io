@@ -95,7 +95,8 @@ function content() {
     if (new URL(a.href).origin !== location.origin) a.setAttribute('data-linktype', 'external')
   }
   // Figures are exported at 2x: show them at half their pixels; max-width caps them at the article, the width of its tables.
-  for (const img of body.querySelectorAll('img[src*="media/"]')) {
+  // Screenshots (.webp, the project pages) fill the article width instead (kb.css).
+  for (const img of body.querySelectorAll('img[src*="media/"]:not([src$=".webp"])')) {
     const fix = () => { if (img.naturalWidth) img.style.width = `${Math.round(img.naturalWidth / 2)}px` }
     img.complete ? fix() : img.addEventListener('load', fix, { once: true })
   }
@@ -141,6 +142,45 @@ function nav(rootItems, sectionItems, section) {
   } else {
     document.getElementById('kb-secondary-nav').remove()
   }
+  more(ul)
+  if (section) more(secUl)
+}
+
+// Header bars: the items that do not fit on one line go, in order, into a "More" menu at the end (like Learn's header).
+// The menu is marked when it holds the current section; it is laid out again when the window is resized.
+function more(ul) {
+  const items = [...ul.children]
+  const menu = el('ul', { class: 'kb-more-menu', hidden: '' })
+  const btn = el('button', { class: 'site-header-button kb-more-button', type: 'button', 'aria-expanded': 'false' },
+    el('span', { text: 'More' }), el('span', { class: 'icon' }, svg('M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z', 12)))
+  const li = el('li', { class: 'kb-more position-relative' }, btn, menu)
+  const close = () => { menu.hidden = true; btn.setAttribute('aria-expanded', 'false') }
+  btn.addEventListener('click', (e) => { e.stopPropagation(); menu.hidden = !menu.hidden; btn.setAttribute('aria-expanded', String(!menu.hidden)) })
+  document.addEventListener('click', close)
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close() })
+  const nav = ul.closest('nav')
+  // the bar may reach the next element in the header (the search box) or the end of the header row
+  const limit = () => {
+    const next = nav.nextElementSibling
+    if (next) return next.getBoundingClientRect().left - 16
+    const row = nav.parentElement
+    return row.getBoundingClientRect().right - parseFloat(getComputedStyle(row).paddingRight)
+  }
+  const layout = () => {
+    close()
+    ul.replaceChildren(...items)
+    if (!ul.offsetParent || !items.length || items.at(-1).getBoundingClientRect().right <= limit()) return
+    ul.append(li)
+    let n = items.length
+    while (n > 0 && li.getBoundingClientRect().right > limit()) items[--n].remove()
+    const moved = items.slice(n)
+    menu.replaceChildren(...moved) // in the original order
+    btn.classList.toggle('is-active', moved.some((it) => it.querySelector('.is-active')))
+  }
+  let frame = 0
+  addEventListener('resize', () => { cancelAnimationFrame(frame); frame = requestAnimationFrame(layout) })
+  document.fonts?.ready.then(layout)
+  layout()
 }
 
 // ---------- left table of contents (Atlas tree) ----------
@@ -464,7 +504,7 @@ function lightbox() {
     const img = e.target.closest('.content img')
     if (!img || img.closest('a')) return
     const big = el('img', { src: img.currentSrc || img.src, alt: img.alt, class: 'kb-lightbox-img' })
-    big.style.width = `${Math.round(img.naturalWidth / 2)}px`
+    big.style.width = `${Math.round(img.naturalWidth / (img.src.endsWith('.webp') ? 1 : 2))}px` // screenshots are 1x
     big.addEventListener('click', (ev) => { ev.stopPropagation(); open.classList.toggle('is-fit') })
     const shut = el('button', { class: 'kb-lightbox-close', type: 'button', 'aria-label': 'Close', text: '×' })
     open = el('div', { class: 'kb-lightbox', role: 'dialog', 'aria-modal': 'true', 'aria-label': img.alt || 'Figure' }, shut, big)
