@@ -1,0 +1,81 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Developing Rich Client Applications with JavaFX"
+  href: javafx/index.md
+  items:
+  - name: "1.1 Accessibility in JavaFX"
+    href: javafx/a11y.md
+  - name: "1.2 Download and Setup JavaFX"
+    href: javafx/install.md
+  - name: "1.3 Introduction to JavaFX animations"
+    href: javafx/javafx-animations.md
+  - name: "1.4 JavaFX Fundamentals"
+    href: javafx/core.md
+- name: "2. Fundamentals of Security using JDK Libraries"
+  href: security/index.md
+  items:
+  - name: "2.1 Fundamentals of Digital Signatures and Certificates in Java"
+    href: security/digital-signature.md
+  - name: "2.2 Introduction to Java Encryption/Decryption"
+    href: security/intro.md
+  - name: "2.3 Leveraging JDK Tools and Updates to Help Safeguard Java Applications"
+    href: security/app-integrity-tools.md
+  - name: "2.4 Monitoring Java Application Security with JDK tools and JFR Events"
+    href: security/monitor.md
+- name: "3. Getting to know the JVM"
+  href: jvm/index.md
+  items:
+  - name: "3.1 JFR, Monitoring and Troubleshooting"
+    href: jvm/monitoring-troubleshooting.md
+  - name: "3.2 Other Tools"
+    href: jvm/other-tools.md
+  - name: "3.3 Security and Garbage Collection"
+    href: jvm/security-gc.md
+  - name: "3.4 The Core JDK Tools"
+    href: jvm/core-tools.md
+- name: "4. Getting to Know the Language"
+  href: language/index.md
+  items:
+  - name: "4.1 Annotations and Exceptions"
+    href: language/annotations-exceptions.md
+  - name: "4.2 Generics, Lambda, and Pattern Matching"
+    href: language/fp.md
+  - name: "4.3 Language Basics"
+    href: language/constructs.md
+  - name: "4.4 Object Oriented Programming"
+    href: language/oop.md
+- name: "5. Mastering the API"
+  href: api/index.md
+  items:
+  - name: "5.1 Collections and Streams"
+    href: api/collections-and-streams.md
+  - name: "5.2 Managing Dates and Regular Expressions"
+    href: api/date-time-regex.md
+  - name: "5.3 Managing Out-of-Memory Data"
+    href: api/io.md
+  - name: "5.4 Reflection and Method Handles"
+    href: api/reflection-method-handles.md
+- name: "6. Organizing your Application"
+  href: organizing/index.md
+  items:
+  - name: "6.1 Creating Runtime and Application Images with JLink"
+    href: organizing/jlink.md
+  - name: "6.2 Modules"
+    href: organizing/modules.md
+- name: "7. Validate Foundational Knowledge"
+  href: validate/index.md
+  items:
+  - name: "7.1 Getting Started with Java Certification"
+    href: validate/java-cert-overview.md
+- name: "8. Your First Steps in Java"
+  href: first-steps/index.md
+  items:
+  - name: "8.1 JShell - The Java Shell Tool"
+    href: first-steps/jshell-tool.md
+  - name: "8.2 Launching Simple Source-Code Programs"
+    href: first-steps/launch-simple-source-code-programs.md
+  - name: "8.3 Using IDEs"
+    href: first-steps/using-ides.md
+  - name: "8.4 Your first Java code"
+    href: first-steps/first-java-code.md

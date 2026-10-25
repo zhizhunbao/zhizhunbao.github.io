@@ -6,7 +6,7 @@ items:
 - name: GitHub Docs
   href: github-docs/toc.yml
 - name: Java
-  href: java/index.md
+  href: java/toc.yml
 - name: Python
   href: python/index.md
 - name: TypeScript
