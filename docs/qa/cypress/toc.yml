@@ -1,0 +1,156 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Get started"
+  href: get-started/index.md
+  items:
+  - name: "1.1 Why Cypress?"
+    href: get-started/why-cypress.md
+  - name: "1.2 Choose a testing type"
+    href: get-started/choose-a-testing-type.md
+  - name: "1.3 Install Cypress"
+    href: get-started/install-cypress.md
+  - name: "1.4 Installation options"
+    href: get-started/installation-options.md
+  - name: "1.5 Open the app"
+    href: get-started/open-the-app.md
+  - name: "1.6 Write your first test"
+    href: get-started/write-your-first-test.md
+  - name: "1.7 Migrate from another tool"
+    href: get-started/migrate-from-another-tool.md
+- name: "2. Core concepts"
+  href: core-concepts/index.md
+  items:
+  - name: "2.1 How Cypress works"
+    href: core-concepts/how-cypress-works.md
+  - name: "2.2 Writing and organizing tests"
+    href: core-concepts/writing-and-organizing-tests.md
+  - name: "2.3 Interacting with elements"
+    href: core-concepts/interacting-with-elements.md
+  - name: "2.4 Assertions"
+    href: core-concepts/assertions.md
+  - name: "2.5 Retry-ability"
+    href: core-concepts/retry-ability.md
+  - name: "2.6 Test isolation"
+    href: core-concepts/test-isolation.md
+  - name: "2.7 Variables and aliases"
+    href: core-concepts/variables-and-aliases.md
+  - name: "2.8 Open mode"
+    href: core-concepts/open-mode.md
+  - name: "2.9 Best practices"
+    href: core-concepts/best-practices.md
+  - name: "2.10 Trade-offs"
+    href: core-concepts/trade-offs.md
+- name: "3. Write tests"
+  href: write-tests/index.md
+  items:
+  - name: "3.1 End-to-end testing"
+    href: write-tests/end-to-end-testing.md
+  - name: "3.2 Component testing"
+    href: write-tests/component-testing.md
+  - name: "3.3 Intercepting network requests"
+    href: write-tests/intercepting-network-requests.md
+  - name: "3.4 Native Network Interception"
+    href: write-tests/native-network-interception.md
+  - name: "3.5 API testing"
+    href: write-tests/api-testing.md
+  - name: "3.6 Stubs, spies, and clocks"
+    href: write-tests/stubs-spies-and-clocks.md
+  - name: "3.7 Conditional testing"
+    href: write-tests/conditional-testing.md
+  - name: "3.8 Cross-origin testing"
+    href: write-tests/cross-origin-testing.md
+  - name: "3.9 Accessibility testing"
+    href: write-tests/accessibility-testing.md
+  - name: "3.10 Visual testing"
+    href: write-tests/visual-testing.md
+  - name: "3.11 TypeScript"
+    href: write-tests/typescript.md
+  - name: "3.12 Authentication"
+    href: write-tests/authentication.md
+- name: "4. Run tests"
+  href: run-tests/index.md
+  items:
+  - name: "4.1 Command line (CLI)"
+    href: run-tests/command-line-cli.md
+  - name: "4.2 Run Cypress from Node.js"
+    href: run-tests/run-cypress-from-node-js.md
+  - name: "4.3 Continuous integration"
+    href: run-tests/continuous-integration.md
+  - name: "4.4 Cross-browser testing"
+    href: run-tests/cross-browser-testing.md
+  - name: "4.5 Browser launch options"
+    href: run-tests/browser-launch-options.md
+  - name: "4.6 Test retries"
+    href: run-tests/test-retries.md
+  - name: "4.7 Optimize test performance"
+    href: run-tests/optimize-test-performance.md
+  - name: "4.8 Screenshots and videos"
+    href: run-tests/screenshots-and-videos.md
+  - name: "4.9 Reporters"
+    href: run-tests/reporters.md
+  - name: "4.10 Code coverage"
+    href: run-tests/code-coverage.md
+- name: "5. Work with AI"
+  href: work-with-ai/index.md
+  items:
+  - name: "5.1 AI in Cypress"
+    href: work-with-ai/ai-in-cypress.md
+  - name: "5.2 cypress tap"
+    href: work-with-ai/cypress-tap.md
+  - name: "5.3 Cypress Studio AI"
+    href: work-with-ai/cypress-studio-ai.md
+  - name: "5.4 Generate tests with cy.prompt"
+    href: work-with-ai/generate-tests-with-cy-prompt.md
+  - name: "5.5 Cypress AI Skills"
+    href: work-with-ai/cypress-ai-skills.md
+- name: "6. Configure"
+  href: configure/index.md
+  items:
+  - name: "6.1 Configuration"
+    href: configure/configuration.md
+  - name: "6.2 Environment variables and secrets"
+    href: configure/environment-variables-and-secrets.md
+  - name: "6.3 Experimental features"
+    href: configure/experimental-features.md
+  - name: "6.4 Proxy configuration"
+    href: configure/proxy-configuration.md
+  - name: "6.5 Client certificates"
+    href: configure/client-certificates.md
+  - name: "6.6 Content security policy"
+    href: configure/content-security-policy.md
+  - name: "6.7 Bundled libraries"
+    href: configure/bundled-libraries.md
+- name: "7. Debug & troubleshoot"
+  href: debug-troubleshoot/index.md
+  items:
+  - name: "7.1 Debugging"
+    href: debug-troubleshoot/debugging.md
+  - name: "7.2 Troubleshooting"
+    href: debug-troubleshoot/troubleshooting.md
+  - name: "7.3 Common errors"
+    href: debug-troubleshoot/common-errors.md
+  - name: "7.4 FAQ"
+    href: debug-troubleshoot/faq.md
+- name: "8. Extend Cypress"
+  href: extend-cypress/index.md
+  items:
+  - name: "8.1 Use plugins"
+    href: extend-cypress/use-plugins.md
+  - name: "8.2 Plugin directory"
+    href: extend-cypress/plugin-directory.md
+  - name: "8.3 Editor and IDE setup"
+    href: extend-cypress/editor-and-ide-setup.md
+  - name: "8.4 Custom component testing frameworks"
+    href: extend-cypress/custom-component-testing-frameworks.md
+  - name: "8.5 Example projects"
+    href: extend-cypress/example-projects.md
+- name: "9. Releases"
+  href: releases/index.md
+  items:
+  - name: "9.1 Changelog"
+    href: releases/changelog.md
+  - name: "9.2 Upgrade Cypress"
+    href: releases/upgrade-cypress.md
+  - name: "9.3 Release stages"
+    href: releases/release-stages.md

@@ -1,0 +1,467 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Guide: Introduction"
+  href: guide-introduction/index.md
+  items:
+  - name: "1.1 Why Vitest"
+    href: guide-introduction/why-vitest.md
+  - name: "1.2 Getting Started"
+    href: guide-introduction/getting-started.md
+  - name: "1.3 Features"
+    href: guide-introduction/features.md
+- name: "2. Guide: Learn"
+  href: guide-learn/index.md
+  items:
+  - name: "2.1 Writing Tests"
+    href: guide-learn/writing-tests.md
+  - name: "2.2 Using Matchers"
+    href: guide-learn/using-matchers.md
+  - name: "2.3 Testing Async Code"
+    href: guide-learn/testing-async-code.md
+  - name: "2.4 Setup and Teardown"
+    href: guide-learn/setup-and-teardown.md
+  - name: "2.5 Mock Functions"
+    href: guide-learn/mock-functions.md
+  - name: "2.6 Snapshot Testing"
+    href: guide-learn/snapshot-testing.md
+  - name: "2.7 Testing in Practice"
+    href: guide-learn/testing-in-practice.md
+  - name: "2.8 Debugging Tests"
+    href: guide-learn/debugging-tests.md
+  - name: "2.9 Writing Tests with AI"
+    href: guide-learn/writing-tests-with-ai.md
+- name: "3. Guide: Browser Mode"
+  href: guide-browser-mode/index.md
+  items:
+  - name: "3.1 Why Browser Mode"
+    href: guide-browser-mode/why-browser-mode.md
+  - name: "3.2 Getting Started"
+    href: guide-browser-mode/getting-started.md
+  - name: "3.3 Multiple Setups"
+    href: guide-browser-mode/multiple-setups.md
+  - name: "3.4 Component Testing"
+    href: guide-browser-mode/component-testing.md
+  - name: "3.5 Visual Regression Testing"
+    href: guide-browser-mode/visual-regression-testing.md
+  - name: "3.6 Trace View"
+    href: guide-browser-mode/trace-view.md
+  - name: "3.7 Playwright Traces"
+    href: guide-browser-mode/playwright-traces.md
+  - name: "3.8 ARIA Snapshots"
+    href: guide-browser-mode/aria-snapshots.md
+- name: "4. Guide: Authoring"
+  href: guide-authoring/index.md
+  items:
+  - name: "4.1 Test Context"
+    href: guide-authoring/test-context.md
+  - name: "4.2 Test Run Lifecycle"
+    href: guide-authoring/test-run-lifecycle.md
+  - name: "4.3 Snapshot"
+    href: guide-authoring/snapshot.md
+  - name: "4.4 Mocking"
+    href: guide-authoring/mocking.md
+  - name: "4.5 Dates"
+    href: guide-authoring/dates.md
+  - name: "4.6 Functions"
+    href: guide-authoring/functions.md
+  - name: "4.7 Globals"
+    href: guide-authoring/globals.md
+  - name: "4.8 Modules"
+    href: guide-authoring/modules.md
+  - name: "4.9 File System"
+    href: guide-authoring/file-system.md
+  - name: "4.10 Requests"
+    href: guide-authoring/requests.md
+  - name: "4.11 Timers"
+    href: guide-authoring/timers.md
+  - name: "4.12 Classes"
+    href: guide-authoring/classes.md
+  - name: "4.13 Test Tags"
+    href: guide-authoring/test-tags.md
+  - name: "4.14 Test Annotations"
+    href: guide-authoring/test-annotations.md
+  - name: "4.15 Extending Matchers"
+    href: guide-authoring/extending-matchers.md
+  - name: "4.16 Testing Types"
+    href: guide-authoring/testing-types.md
+  - name: "4.17 Benchmarking"
+    href: guide-authoring/benchmarking.md
+  - name: "4.18 In-Source Testing"
+    href: guide-authoring/in-source-testing.md
+- name: "5. Guide: Workflow"
+  href: guide-workflow/index.md
+  items:
+  - name: "5.1 CLI"
+    href: guide-workflow/cli.md
+  - name: "5.2 Test Filtering"
+    href: guide-workflow/test-filtering.md
+  - name: "5.3 Test Projects"
+    href: guide-workflow/test-projects.md
+  - name: "5.4 Test Environment"
+    href: guide-workflow/test-environment.md
+  - name: "5.5 Parallelism"
+    href: guide-workflow/parallelism.md
+  - name: "5.6 Reporters"
+    href: guide-workflow/reporters.md
+  - name: "5.7 Vitest UI"
+    href: guide-workflow/vitest-ui.md
+  - name: "5.8 IDE Integration"
+    href: guide-workflow/ide-integration.md
+- name: "6. Guide: Quality & Debugging"
+  href: guide-quality-debugging/index.md
+  items:
+  - name: "6.1 Coverage"
+    href: guide-quality-debugging/coverage.md
+  - name: "6.2 Debugging"
+    href: guide-quality-debugging/debugging.md
+  - name: "6.3 Common Errors"
+    href: guide-quality-debugging/common-errors.md
+  - name: "6.4 Profiling Test Performance"
+    href: guide-quality-debugging/profiling-test-performance.md
+  - name: "6.5 Improving Performance"
+    href: guide-quality-debugging/improving-performance.md
+  - name: "6.6 OpenTelemetry"
+    href: guide-quality-debugging/opentelemetry.md
+- name: "7. Guide: Recipes"
+  href: guide-recipes/index.md
+  items:
+  - name: "7.1 Database Transaction per Test"
+    href: guide-recipes/database-transaction-per-test.md
+  - name: "7.2 Cancelling Long-Running Operations Gracefully"
+    href: guide-recipes/cancelling-long-running-operations-gracefully.md
+  - name: "7.3 Waiting for Async Conditions"
+    href: guide-recipes/waiting-for-async-conditions.md
+  - name: "7.4 Type Narrowing in Tests"
+    href: guide-recipes/type-narrowing-in-tests.md
+  - name: "7.5 Custom Assertion Helpers"
+    href: guide-recipes/custom-assertion-helpers.md
+  - name: "7.6 Watching Non-Imported Files"
+    href: guide-recipes/watching-non-imported-files.md
+  - name: "7.7 Extending Browser Locators"
+    href: guide-recipes/extending-browser-locators.md
+  - name: "7.8 Schema-Driven Assertions"
+    href: guide-recipes/schema-driven-assertions.md
+  - name: "7.9 Auto-Cleanup with `using`"
+    href: guide-recipes/auto-cleanup-with-using.md
+  - name: "7.10 Conditional Mocking with `vi.when`"
+    href: guide-recipes/conditional-mocking-with-vi-when.md
+  - name: "7.11 Per-File Isolation Settings"
+    href: guide-recipes/per-file-isolation-settings.md
+  - name: "7.12 Parallel and Sequential Test Files"
+    href: guide-recipes/parallel-and-sequential-test-files.md
+- name: "8. Guide: Advanced"
+  href: guide-advanced/index.md
+  items:
+  - name: "8.1 Getting Started"
+    href: guide-advanced/getting-started.md
+  - name: "8.2 Running Tests via API"
+    href: guide-advanced/running-tests-via-api.md
+  - name: "8.3 Extending Reporters"
+    href: guide-advanced/extending-reporters.md
+  - name: "8.4 Custom Pool"
+    href: guide-advanced/custom-pool.md
+  - name: "8.5 Benchmark Provider"
+    href: guide-advanced/benchmark-provider.md
+- name: "9. Guide: Migration"
+  href: guide-migration/index.md
+  items:
+  - name: "9.1 Migration"
+    href: guide-migration/migration.md
+  - name: "9.2 Migrating to Vitest 5.0"
+    href: guide-migration/migrating-to-vitest-5-0.md
+  - name: "9.3 Migrating from Jest"
+    href: guide-migration/migrating-from-jest.md
+  - name: "9.4 Migrating from Mocha + Chai + Sinon"
+    href: guide-migration/migrating-from-mocha-chai-sinon.md
+- name: "10. Guide: Comparisons"
+  href: guide-comparisons/index.md
+  items:
+  - name: "10.1 Comparisons"
+    href: guide-comparisons/comparisons.md
+- name: "11. API: Test API Reference"
+  href: api-test-api-reference/index.md
+  items:
+  - name: "11.1 Test"
+    href: api-test-api-reference/test.md
+  - name: "11.2 Describe"
+    href: api-test-api-reference/describe.md
+  - name: "11.3 Hooks"
+    href: api-test-api-reference/hooks.md
+- name: "12. API: Mocks"
+  href: api-mocks/index.md
+  items:
+  - name: "12.1 Mocks"
+    href: api-mocks/mocks.md
+  - name: "12.2 Vi Utility"
+    href: api-mocks/vi-utility.md
+  - name: "12.3 Expect"
+    href: api-mocks/expect.md
+  - name: "12.4 ExpectTypeOf"
+    href: api-mocks/expecttypeof.md
+  - name: "12.5 Assert"
+    href: api-mocks/assert.md
+  - name: "12.6 AssertType"
+    href: api-mocks/asserttype.md
+- name: "13. API: Browser Mode"
+  href: api-browser-mode/index.md
+  items:
+  - name: "13.1 react"
+    href: api-browser-mode/react.md
+  - name: "13.2 vue"
+    href: api-browser-mode/vue.md
+  - name: "13.3 svelte"
+    href: api-browser-mode/svelte.md
+  - name: "13.4 Context"
+    href: api-browser-mode/context.md
+  - name: "13.5 Interactivity"
+    href: api-browser-mode/interactivity.md
+  - name: "13.6 Locators"
+    href: api-browser-mode/locators.md
+  - name: "13.7 Assertions"
+    href: api-browser-mode/assertions.md
+  - name: "13.8 Commands"
+    href: api-browser-mode/commands.md
+- name: "14. API: Advanced"
+  href: api-advanced/index.md
+  items:
+  - name: "14.1 Vitest"
+    href: api-advanced/vitest.md
+  - name: "14.2 TestProject"
+    href: api-advanced/testproject.md
+  - name: "14.3 TestSpecification"
+    href: api-advanced/testspecification.md
+  - name: "14.4 TestCase"
+    href: api-advanced/testcase.md
+  - name: "14.5 TestSuite"
+    href: api-advanced/testsuite.md
+  - name: "14.6 TestModule"
+    href: api-advanced/testmodule.md
+  - name: "14.7 TestCollection"
+    href: api-advanced/testcollection.md
+  - name: "14.8 VitestPlugin"
+    href: api-advanced/vitestplugin.md
+  - name: "14.9 VitestRunner"
+    href: api-advanced/vitestrunner.md
+  - name: "14.10 Reporter"
+    href: api-advanced/reporter.md
+  - name: "14.11 TaskMeta"
+    href: api-advanced/taskmeta.md
+  - name: "14.12 TestArtifact"
+    href: api-advanced/testartifact.md
+- name: "15. Config: Config Reference"
+  href: config-config-reference/index.md
+  items:
+  - name: "15.1 Config File"
+    href: config-config-reference/config-file.md
+  - name: "15.2 include"
+    href: config-config-reference/include.md
+  - name: "15.3 exclude"
+    href: config-config-reference/exclude.md
+  - name: "15.4 includeSource"
+    href: config-config-reference/includesource.md
+  - name: "15.5 name"
+    href: config-config-reference/name.md
+  - name: "15.6 server"
+    href: config-config-reference/server.md
+  - name: "15.7 deps"
+    href: config-config-reference/deps.md
+  - name: "15.8 runner"
+    href: config-config-reference/runner.md
+  - name: "15.9 benchmark"
+    href: config-config-reference/benchmark.md
+  - name: "15.10 alias"
+    href: config-config-reference/alias.md
+  - name: "15.11 globals"
+    href: config-config-reference/globals.md
+  - name: "15.12 injectCjsGlobals"
+    href: config-config-reference/injectcjsglobals.md
+  - name: "15.13 environment"
+    href: config-config-reference/environment.md
+  - name: "15.14 environmentOptions"
+    href: config-config-reference/environmentoptions.md
+  - name: "15.15 watch"
+    href: config-config-reference/watch.md
+  - name: "15.16 watchTriggerPatterns"
+    href: config-config-reference/watchtriggerpatterns.md
+  - name: "15.17 root"
+    href: config-config-reference/root.md
+  - name: "15.18 dir"
+    href: config-config-reference/dir.md
+  - name: "15.19 reporters"
+    href: config-config-reference/reporters.md
+  - name: "15.20 outputFile"
+    href: config-config-reference/outputfile.md
+  - name: "15.21 pool"
+    href: config-config-reference/pool.md
+  - name: "15.22 execArgv"
+    href: config-config-reference/execargv.md
+  - name: "15.23 vmMemoryLimit"
+    href: config-config-reference/vmmemorylimit.md
+  - name: "15.24 fileParallelism"
+    href: config-config-reference/fileparallelism.md
+  - name: "15.25 maxWorkers"
+    href: config-config-reference/maxworkers.md
+  - name: "15.26 testTimeout"
+    href: config-config-reference/testtimeout.md
+  - name: "15.27 hookTimeout"
+    href: config-config-reference/hooktimeout.md
+  - name: "15.28 teardownTimeout"
+    href: config-config-reference/teardowntimeout.md
+  - name: "15.29 silent"
+    href: config-config-reference/silent.md
+  - name: "15.30 setupFiles"
+    href: config-config-reference/setupfiles.md
+  - name: "15.31 provide"
+    href: config-config-reference/provide.md
+  - name: "15.32 globalSetup"
+    href: config-config-reference/globalsetup.md
+  - name: "15.33 forceRerunTriggers"
+    href: config-config-reference/forcereruntriggers.md
+  - name: "15.34 coverage"
+    href: config-config-reference/coverage.md
+  - name: "15.35 testNamePattern"
+    href: config-config-reference/testnamepattern.md
+  - name: "15.36 ui"
+    href: config-config-reference/ui.md
+  - name: "15.37 open"
+    href: config-config-reference/open.md
+  - name: "15.38 api"
+    href: config-config-reference/api.md
+  - name: "15.39 clearMocks"
+    href: config-config-reference/clearmocks.md
+  - name: "15.40 mockReset"
+    href: config-config-reference/mockreset.md
+  - name: "15.41 restoreMocks"
+    href: config-config-reference/restoremocks.md
+  - name: "15.42 unstubEnvs"
+    href: config-config-reference/unstubenvs.md
+  - name: "15.43 unstubGlobals"
+    href: config-config-reference/unstubglobals.md
+  - name: "15.44 snapshotFormat"
+    href: config-config-reference/snapshotformat.md
+  - name: "15.45 snapshotSerializers"
+    href: config-config-reference/snapshotserializers.md
+  - name: "15.46 resolveSnapshotPath"
+    href: config-config-reference/resolvesnapshotpath.md
+  - name: "15.47 allowOnly"
+    href: config-config-reference/allowonly.md
+  - name: "15.48 passWithNoTests"
+    href: config-config-reference/passwithnotests.md
+  - name: "15.49 logHeapUsage"
+    href: config-config-reference/logheapusage.md
+  - name: "15.50 css"
+    href: config-config-reference/css.md
+  - name: "15.51 maxConcurrency"
+    href: config-config-reference/maxconcurrency.md
+  - name: "15.52 cache"
+    href: config-config-reference/cache.md
+  - name: "15.53 fsModuleCache"
+    href: config-config-reference/fsmodulecache.md
+  - name: "15.54 fsModuleCachePath"
+    href: config-config-reference/fsmodulecachepath.md
+  - name: "15.55 sequence"
+    href: config-config-reference/sequence.md
+  - name: "15.56 tags"
+    href: config-config-reference/tags.md
+  - name: "15.57 strictTags"
+    href: config-config-reference/stricttags.md
+  - name: "15.58 typecheck"
+    href: config-config-reference/typecheck.md
+  - name: "15.59 slowTestThreshold"
+    href: config-config-reference/slowtestthreshold.md
+  - name: "15.60 chaiConfig"
+    href: config-config-reference/chaiconfig.md
+  - name: "15.61 bail"
+    href: config-config-reference/bail.md
+  - name: "15.62 retry"
+    href: config-config-reference/retry.md
+  - name: "15.63 repeats"
+    href: config-config-reference/repeats.md
+  - name: "15.64 onConsoleLog"
+    href: config-config-reference/onconsolelog.md
+  - name: "15.65 onStackTrace"
+    href: config-config-reference/onstacktrace.md
+  - name: "15.66 onUnhandledError"
+    href: config-config-reference/onunhandlederror.md
+  - name: "15.67 dangerouslyIgnoreUnhandled..."
+    href: config-config-reference/dangerouslyignoreunhandled.md
+  - name: "15.68 diff"
+    href: config-config-reference/diff.md
+  - name: "15.69 fakeTimers"
+    href: config-config-reference/faketimers.md
+  - name: "15.70 projects"
+    href: config-config-reference/projects.md
+  - name: "15.71 sharedViteServer"
+    href: config-config-reference/sharedviteserver.md
+  - name: "15.72 isolate"
+    href: config-config-reference/isolate.md
+  - name: "15.73 includeTaskLocation"
+    href: config-config-reference/includetasklocation.md
+  - name: "15.74 snapshotEnvironment"
+    href: config-config-reference/snapshotenvironment.md
+  - name: "15.75 env"
+    href: config-config-reference/env.md
+  - name: "15.76 expect"
+    href: config-config-reference/expect.md
+  - name: "15.77 printConsoleTrace"
+    href: config-config-reference/printconsoletrace.md
+  - name: "15.78 attachmentsDir"
+    href: config-config-reference/attachmentsdir.md
+  - name: "15.79 hideSkippedTests"
+    href: config-config-reference/hideskippedtests.md
+  - name: "15.80 mode"
+    href: config-config-reference/mode.md
+  - name: "15.81 expandSnapshotDiff"
+    href: config-config-reference/expandsnapshotdiff.md
+  - name: "15.82 disableConsoleIntercept"
+    href: config-config-reference/disableconsoleintercept.md
+  - name: "15.83 changed"
+    href: config-config-reference/changed.md
+  - name: "15.84 experimental"
+    href: config-config-reference/experimental.md
+- name: "16. Config: Browser Mode"
+  href: config-browser-mode/index.md
+  items:
+  - name: "16.1 playwright"
+    href: config-browser-mode/playwright.md
+  - name: "16.2 webdriverio"
+    href: config-browser-mode/webdriverio.md
+  - name: "16.3 preview"
+    href: config-browser-mode/preview.md
+  - name: "16.4 browser.enabled"
+    href: config-browser-mode/browser-enabled.md
+  - name: "16.5 browser.instances"
+    href: config-browser-mode/browser-instances.md
+  - name: "16.6 browser.headless"
+    href: config-browser-mode/browser-headless.md
+  - name: "16.7 browser.testerHtmlPath"
+    href: config-browser-mode/browser-testerhtmlpath.md
+  - name: "16.8 browser.provider"
+    href: config-browser-mode/browser-provider.md
+  - name: "16.9 browser.ui"
+    href: config-browser-mode/browser-ui.md
+  - name: "16.10 browser.detailsPanelPosition"
+    href: config-browser-mode/browser-detailspanelposition.md
+  - name: "16.11 browser.viewport"
+    href: config-browser-mode/browser-viewport.md
+  - name: "16.12 browser.locators"
+    href: config-browser-mode/browser-locators.md
+  - name: "16.13 browser.screenshotDirectory"
+    href: config-browser-mode/browser-screenshotdirectory.md
+  - name: "16.14 browser.screenshotFailures"
+    href: config-browser-mode/browser-screenshotfailures.md
+  - name: "16.15 browser.dependencySourcemaps"
+    href: config-browser-mode/browser-dependencysourcemaps.md
+  - name: "16.16 browser.orchestratorScripts"
+    href: config-browser-mode/browser-orchestratorscripts.md
+  - name: "16.17 browser.commands"
+    href: config-browser-mode/browser-commands.md
+  - name: "16.18 browser.connectTimeout"
+    href: config-browser-mode/browser-connecttimeout.md
+  - name: "16.19 browser.trace"
+    href: config-browser-mode/browser-trace.md
+  - name: "16.20 browser.trackUnhandledErrors"
+    href: config-browser-mode/browser-trackunhandlederrors.md
+  - name: "16.21 browser.expect"
+    href: config-browser-mode/browser-expect.md

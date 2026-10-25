@@ -3,7 +3,21 @@ items:
   href: index.md
 - name: CS2023 SE
   href: cs2023/toc.yml
+- name: Cypress
+  href: cypress/toc.yml
 - name: ISO/IEC/IEEE 29119
   href: iso-iec-ieee-29119/index.md
 - name: ISTQB Certified Tester Foundation Level (CTFL) v4.0
   href: istqb-ctfl/toc.yml
+- name: Jest
+  href: jest/toc.yml
+- name: Playwright
+  href: playwright/toc.yml
+- name: pytest
+  href: pytest/toc.yml
+- name: Selenium
+  href: selenium/toc.yml
+- name: unittest
+  href: unittest/toc.yml
+- name: Vitest
+  href: vitest/toc.yml

@@ -1,0 +1,92 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Introduction"
+  href: introduction/index.md
+  items:
+  - name: "1.1 Getting Started"
+    href: introduction/getting-started.md
+  - name: "1.2 Using Matchers"
+    href: introduction/using-matchers.md
+  - name: "1.3 Testing Asynchronous Code"
+    href: introduction/testing-asynchronous-code.md
+  - name: "1.4 Setup and Teardown"
+    href: introduction/setup-and-teardown.md
+  - name: "1.5 Mock Functions"
+    href: introduction/mock-functions.md
+  - name: "1.6 Jest Platform"
+    href: introduction/jest-platform.md
+  - name: "1.7 Jest Community"
+    href: introduction/jest-community.md
+  - name: "1.8 More Resources"
+    href: introduction/more-resources.md
+- name: "2. Guides"
+  href: guides/index.md
+  items:
+  - name: "2.1 Snapshot Testing"
+    href: guides/snapshot-testing.md
+  - name: "2.2 Test Environment"
+    href: guides/test-environment.md
+  - name: "2.3 An Async Example"
+    href: guides/an-async-example.md
+  - name: "2.4 Timer Mocks"
+    href: guides/timer-mocks.md
+  - name: "2.5 Manual Mocks"
+    href: guides/manual-mocks.md
+  - name: "2.6 ES6 Class Mocks"
+    href: guides/es6-class-mocks.md
+  - name: "2.7 Bypassing module mocks"
+    href: guides/bypassing-module-mocks.md
+  - name: "2.8 ECMAScript Modules"
+    href: guides/ecmascript-modules.md
+  - name: "2.9 Using with webpack"
+    href: guides/using-with-webpack.md
+  - name: "2.10 Using with puppeteer"
+    href: guides/using-with-puppeteer.md
+  - name: "2.11 Using with MongoDB"
+    href: guides/using-with-mongodb.md
+  - name: "2.12 Using with DynamoDB"
+    href: guides/using-with-dynamodb.md
+  - name: "2.13 DOM Manipulation"
+    href: guides/dom-manipulation.md
+  - name: "2.14 Watch Plugins"
+    href: guides/watch-plugins.md
+  - name: "2.15 Migrating to Jest"
+    href: guides/migrating-to-jest.md
+  - name: "2.16 Troubleshooting"
+    href: guides/troubleshooting.md
+  - name: "2.17 Architecture"
+    href: guides/architecture.md
+- name: "3. Framework Guides"
+  href: framework-guides/index.md
+  items:
+  - name: "3.1 Testing React Native Apps"
+    href: framework-guides/testing-react-native-apps.md
+  - name: "3.2 Testing Web Frameworks"
+    href: framework-guides/testing-web-frameworks.md
+- name: "4. Upgrade Guides"
+  href: upgrade-guides/index.md
+  items:
+  - name: "4.1 From v28 to v29"
+    href: upgrade-guides/from-v28-to-v29.md
+  - name: "4.2 From v29 to v30"
+    href: upgrade-guides/from-v29-to-v30.md
+- name: "5. API Reference"
+  href: api-reference/index.md
+  items:
+  - name: "5.1 Globals"
+    href: api-reference/globals.md
+  - name: "5.2 Expect"
+    href: api-reference/expect.md
+  - name: "5.3 Mock Functions"
+    href: api-reference/mock-functions.md
+  - name: "5.4 The Jest Object"
+    href: api-reference/the-jest-object.md
+  - name: "5.5 Configuring Jest"
+    href: api-reference/configuring-jest.md
+  - name: "5.6 Jest CLI Options"
+    href: api-reference/jest-cli-options.md
+  - name: "5.7 Environment Variables"
+    href: api-reference/environment-variables.md
+  - name: "5.8 Code Transformation"
+    href: api-reference/code-transformation.md

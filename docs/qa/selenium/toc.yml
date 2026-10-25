@@ -1,0 +1,105 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Overview"
+  href: overview/index.md
+  items:
+  - name: "1.1 Components"
+    href: overview/components.md
+  - name: "1.2 Details"
+    href: overview/details.md
+- name: "2. WebDriver"
+  href: webdriver/index.md
+  items:
+  - name: "2.1 Getting Started"
+    href: webdriver/getting-started.md
+  - name: "2.2 Drivers"
+    href: webdriver/drivers.md
+  - name: "2.3 Browsers"
+    href: webdriver/browsers.md
+  - name: "2.4 Waits"
+    href: webdriver/waits.md
+  - name: "2.5 Elements"
+    href: webdriver/elements.md
+  - name: "2.6 Interactions"
+    href: webdriver/interactions.md
+  - name: "2.7 Actions API"
+    href: webdriver/actions-api.md
+  - name: "2.8 BiDi"
+    href: webdriver/bidi.md
+  - name: "2.9 Support Features"
+    href: webdriver/support-features.md
+  - name: "2.10 Troubleshooting"
+    href: webdriver/troubleshooting.md
+- name: "3. Selenium Manager"
+  href: selenium-manager/index.md
+- name: "4. Grid"
+  href: grid/index.md
+  items:
+  - name: "4.1 Getting Started"
+    href: grid/getting-started.md
+  - name: "4.2 When to Use Grid"
+    href: grid/when-to-use-grid.md
+  - name: "4.3 Components"
+    href: grid/components.md
+  - name: "4.4 Configuration"
+    href: grid/configuration.md
+  - name: "4.5 Architecture"
+    href: grid/architecture.md
+  - name: "4.6 Advanced Features"
+    href: grid/advanced-features.md
+- name: "5. IE Driver Server"
+  href: ie-driver-server/index.md
+  items:
+  - name: "5.1 Internals"
+    href: ie-driver-server/internals.md
+- name: "6. IDE"
+  href: ide/index.md
+- name: "7. AI Agents"
+  href: ai-agents/index.md
+- name: "8. Test Practices"
+  href: test-practices/index.md
+  items:
+  - name: "8.1 Design Strategies"
+    href: test-practices/design-strategies.md
+  - name: "8.2 Overview"
+    href: test-practices/overview.md
+  - name: "8.3 Testing Types"
+    href: test-practices/testing-types.md
+  - name: "8.4 Encouraged"
+    href: test-practices/encouraged.md
+  - name: "8.5 Discouraged"
+    href: test-practices/discouraged.md
+- name: "9. Legacy"
+  href: legacy/index.md
+  items:
+  - name: "9.1 Selenium 1"
+    href: legacy/selenium-1.md
+  - name: "9.2 Selenium 2"
+    href: legacy/selenium-2.md
+  - name: "9.3 Selenium 3"
+    href: legacy/selenium-3.md
+  - name: "9.4 Selenium IDE"
+    href: legacy/selenium-ide.md
+  - name: "9.5 JSON Wire Protocol"
+    href: legacy/json-wire-protocol.md
+  - name: "9.6 Desired Capabilities"
+    href: legacy/desired-capabilities.md
+  - name: "9.7 Developers"
+    href: legacy/developers.md
+- name: "10. Warnings"
+  href: warnings/index.md
+  items:
+  - name: "10.1 BiDi implementation API"
+    href: warnings/bidi-implementation-api.md
+- name: "11. About"
+  href: about/index.md
+  items:
+  - name: "11.1 Copyright"
+    href: about/copyright.md
+  - name: "11.2 Contributing"
+    href: about/contributing.md
+  - name: "11.3 Style"
+    href: about/style.md
+  - name: "11.4 History"
+    href: about/history.md
