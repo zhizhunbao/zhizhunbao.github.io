@@ -86,6 +86,15 @@ items:
     href: databases/time-series-data-stores.md
 - name: "8. Integration"
   href: integration/index.md
+  items:
+  - name: "8.1 Workflows"
+    href: integration/workflows.md
+  - name: "8.2 API management"
+    href: integration/api-management.md
+  - name: "8.3 Messages"
+    href: integration/messages.md
+  - name: "8.4 Events"
+    href: integration/events.md
 - name: "9. Analytics"
   href: analytics/index.md
 - name: "10. Internet of Things"

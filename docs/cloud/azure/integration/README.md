@@ -1,10 +1,14 @@
 # 8. Integration: allowed sub-pages
 
-Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`). Source: [Azure documentation: Integration](https://learn.microsoft.com/en-us/azure/?product=integration).
+Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`). Sources: [Azure Integration Services](https://azure.microsoft.com/en-us/solutions/integration-services) (workflows, API management) and [Compare messaging services](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services) (messages versus events).
 
 ## Sub-pages
 
-| No. | File | Title (official name) | Source | Allowed sections (H2, official order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
 |---|---|---|---|---|
+| 8.1 | `workflows.md` | Workflows | [Azure Integration Services](https://azure.microsoft.com/en-us/solutions/integration-services); [What is Azure Logic Apps?](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview) | 8.1.1 Azure Logic Apps |
+| 8.2 | `api-management.md` | API management | [Azure Integration Services](https://azure.microsoft.com/en-us/solutions/integration-services); [Azure API Management overview](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts) | 8.2.1 Azure API Management |
+| 8.3 | `messages.md` | Messages | [Compare messaging services](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services#events-vs-messages-in-azure-messaging-services); [Storage queues and Service Bus queues compared](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted) | 8.3.1 Azure Service Bus, 8.3.2 Azure Queue Storage |
+| 8.4 | `events.md` | Events | [Compare messaging services](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services#events-vs-messages-in-azure-messaging-services); [What is Azure Web PubSub?](https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview) | 8.4.1 Azure Event Grid, 8.4.2 Azure Event Hubs, 8.4.3 Azure Web PubSub |
 
-None yet. Add a row before writing a page.
+Azure Queue Storage is defined in `../storage/` (6.3 Storage services); 8.3.2 compares it with Service Bus queues and links there. The comparison of Event Grid, Event Hubs and Service Bus (purpose, data model, ordering, transactions) is a comparison figure on 8.4, with a link from 8.3. Azure Data Factory belongs to 9. Analytics and Azure Functions to 3. Compute.
