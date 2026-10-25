@@ -6,4 +6,6 @@ items:
 - name: Linux
   href: linux/toc.yml
 - name: Windows
-  href: windows/index.md
+  href: windows/toc.yml
+- name: Windows API
+  href: windows-api/toc.yml

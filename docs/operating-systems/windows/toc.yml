@@ -1,0 +1,113 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Application developers"
+  href: application-developers/index.md
+  items:
+  - name: "1.1 Getting started"
+    href: application-developers/getting-started.md
+  - name: "1.2 Design"
+    href: application-developers/design.md
+  - name: "1.3 Add Windows features"
+    href: application-developers/add-windows-features.md
+  - name: "1.4 Migrate and modernize"
+    href: application-developers/migrate-and-modernize.md
+  - name: "1.5 Package and deploy"
+    href: application-developers/package-and-deploy.md
+  - name: "1.6 Distribute through the Store"
+    href: application-developers/distribute-through-the-store.md
+  - name: "1.7 Tools and samples"
+    href: application-developers/tools-and-samples.md
+- name: "2. Developer tools"
+  href: developer-tools/index.md
+  items:
+  - name: "2.1 Tools to get you started"
+    href: developer-tools/tools-to-get-you-started.md
+  - name: "2.2 Setup guides"
+    href: developer-tools/setup-guides.md
+- name: "3. Hardware developers"
+  href: hardware-developers/index.md
+  items:
+  - name: "3.1 Getting Started Guides"
+    href: hardware-developers/getting-started-guides.md
+  - name: "3.2 Development and Debugging"
+    href: hardware-developers/development-and-debugging.md
+  - name: "3.3 Testing and verification"
+    href: hardware-developers/testing-and-verification.md
+  - name: "3.4 Deployment and Distribution"
+    href: hardware-developers/deployment-and-distribution.md
+- name: "4. Windows client for IT pros"
+  href: windows-client-for-it-pros/index.md
+  items:
+  - name: "4.1 Deploy Windows"
+    href: windows-client-for-it-pros/deploy-windows.md
+  - name: "4.2 Secure Windows"
+    href: windows-client-for-it-pros/secure-windows.md
+  - name: "4.3 Privacy in Windows"
+    href: windows-client-for-it-pros/privacy-in-windows.md
+  - name: "4.4 Manage Windows"
+    href: windows-client-for-it-pros/manage-windows.md
+  - name: "4.5 Configure Windows"
+    href: windows-client-for-it-pros/configure-windows.md
+  - name: "4.6 Windows for Education"
+    href: windows-client-for-it-pros/windows-for-education.md
+- name: "5. Windows Server for IT pros"
+  href: windows-server-for-it-pros/index.md
+  items:
+  - name: "5.1 Windows Server and Azure"
+    href: windows-server-for-it-pros/windows-server-and-azure.md
+  - name: "5.2 Identity"
+    href: windows-server-for-it-pros/identity.md
+  - name: "5.3 Files and Storage"
+    href: windows-server-for-it-pros/files-and-storage.md
+  - name: "5.4 Security"
+    href: windows-server-for-it-pros/security.md
+  - name: "5.5 Manage"
+    href: windows-server-for-it-pros/manage.md
+  - name: "5.6 Network"
+    href: windows-server-for-it-pros/network.md
+  - name: "5.7 Remote Desktop"
+    href: windows-server-for-it-pros/remote-desktop.md
+  - name: "5.8 Virtualization"
+    href: windows-server-for-it-pros/virtualization.md
+  - name: "5.9 Clustering"
+    href: windows-server-for-it-pros/clustering.md
+  - name: "5.10 AI inference"
+    href: windows-server-for-it-pros/ai-inference.md
+  - name: "5.11 Command reference"
+    href: windows-server-for-it-pros/command-reference.md
+- name: "6. Windows for IoT"
+  href: windows-for-iot/index.md
+  items:
+  - name: "6.1 Windows IoT Enterprise"
+    href: windows-for-iot/windows-iot-enterprise.md
+  - name: "6.2 Windows Server IoT"
+    href: windows-for-iot/windows-server-iot.md
+  - name: "6.3 SQL Server IoT"
+    href: windows-for-iot/sql-server-iot.md
+  - name: "6.4 Companion Azure Services"
+    href: windows-for-iot/companion-azure-services.md
+  - name: "6.5 Previous Versions"
+    href: windows-for-iot/previous-versions.md
+  - name: "6.6 Get Started"
+    href: windows-for-iot/get-started.md
+- name: "7. Windows Insider Program"
+  href: windows-insider-program/index.md
+  items:
+  - name: "7.1 Windows Insider Program"
+    href: windows-insider-program/windows-insider-program.md
+  - name: "7.2 Windows Insider Program for Business"
+    href: windows-insider-program/windows-insider-program-for-business.md
+  - name: "7.3 Windows Insider Program for Developers"
+    href: windows-insider-program/windows-insider-program-for-developers.md
+- name: "8. Windows 365"
+  href: windows-365/index.md
+  items:
+  - name: "8.1 Windows 365 Enterprise and Windows 365 Flex"
+    href: windows-365/windows-365-enterprise-and-windows-365-flex.md
+  - name: "8.2 Windows 365 Business"
+    href: windows-365/windows-365-business.md
+  - name: "8.3 Windows 365 for Agents"
+    href: windows-365/windows-365-for-agents.md
+  - name: "8.4 Windows 365 Link"
+    href: windows-365/windows-365-link.md

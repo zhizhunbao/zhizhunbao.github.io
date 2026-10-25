@@ -1,0 +1,437 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. User interface"
+  href: user-interface/index.md
+  items:
+  - name: "1.1 Accessibility"
+    href: user-interface/accessibility.md
+  - name: "1.2 Desktop Window Manager (DWM)"
+    href: user-interface/desktop-window-manager-dwm.md
+  - name: "1.3 Globalization Services"
+    href: user-interface/globalization-services.md
+  - name: "1.4 High DPI"
+    href: user-interface/high-dpi.md
+  - name: "1.5 Multilingual User Interface (MUI)"
+    href: user-interface/multilingual-user-interface-mui.md
+  - name: "1.6 National Language Support (NLS)"
+    href: user-interface/national-language-support-nls.md
+  - name: "1.7 User Interface elements"
+    href: user-interface/user-interface-elements.md
+  - name: "1.8 Windows Animation Manager"
+    href: user-interface/windows-animation-manager.md
+  - name: "1.9 Windows Ribbon Framework"
+    href: user-interface/windows-ribbon-framework.md
+- name: "2. Windows environment (Shell)"
+  href: windows-environment-shell/index.md
+  items:
+  - name: "2.1 Windows Property System"
+    href: windows-environment-shell/windows-property-system.md
+  - name: "2.2 Windows Shell"
+    href: windows-environment-shell/windows-shell.md
+  - name: "2.3 Windows Search"
+    href: windows-environment-shell/windows-search.md
+  - name: "2.4 Consoles"
+    href: windows-environment-shell/consoles.md
+- name: "3. User input and messaging"
+  href: user-input-and-messaging/index.md
+  items:
+  - name: "3.1 User Interaction"
+    href: user-input-and-messaging/user-interaction.md
+  - name: "3.2 Legacy User Interaction"
+    href: user-input-and-messaging/legacy-user-interaction.md
+  - name: "3.3 Windows and Messages"
+    href: user-input-and-messaging/windows-and-messages.md
+- name: "4. Data access and storage"
+  href: data-access-and-storage/index.md
+  items:
+  - name: "4.1 Background Intelligent Transfer Service (BITS)"
+    href: data-access-and-storage/background-intelligent-transfer-service-bits.md
+  - name: "4.2 Bind Link"
+    href: data-access-and-storage/bind-link.md
+  - name: "4.3 Data Backup"
+    href: data-access-and-storage/data-backup.md
+  - name: "4.4 Data Exchange"
+    href: data-access-and-storage/data-exchange.md
+  - name: "4.5 Directory Management"
+    href: data-access-and-storage/directory-management.md
+  - name: "4.6 Disk Management"
+    href: data-access-and-storage/disk-management.md
+  - name: "4.7 Distributed File System (DFS)"
+    href: data-access-and-storage/distributed-file-system-dfs.md
+  - name: "4.8 Distributed File System Replication"
+    href: data-access-and-storage/distributed-file-system-replication.md
+  - name: "4.9 Extensible Storage Engine"
+    href: data-access-and-storage/extensible-storage-engine.md
+  - name: "4.10 Files and I/O (Local file system)"
+    href: data-access-and-storage/files-and-i-o-local-file-system.md
+  - name: "4.11 iSCSI Discovery Library API"
+    href: data-access-and-storage/iscsi-discovery-library-api.md
+  - name: "4.12 Offline Files"
+    href: data-access-and-storage/offline-files.md
+  - name: "4.13 Packaging"
+    href: data-access-and-storage/packaging.md
+  - name: "4.14 Remote Differential Compression"
+    href: data-access-and-storage/remote-differential-compression.md
+  - name: "4.15 Transactional NTFS"
+    href: data-access-and-storage/transactional-ntfs.md
+  - name: "4.16 Volume Management"
+    href: data-access-and-storage/volume-management.md
+  - name: "4.17 Virtual Hard Disk (VHD)"
+    href: data-access-and-storage/virtual-hard-disk-vhd.md
+  - name: "4.18 Windows Storage Management"
+    href: data-access-and-storage/windows-storage-management.md
+  - name: "4.19 Windows Data Access Components"
+    href: data-access-and-storage/windows-data-access-components.md
+- name: "5. Diagnostics"
+  href: diagnostics/index.md
+  items:
+  - name: "5.1 Application Recovery and Restart"
+    href: diagnostics/application-recovery-and-restart.md
+  - name: "5.2 Debugging"
+    href: diagnostics/debugging.md
+  - name: "5.3 Error Handling"
+    href: diagnostics/error-handling.md
+  - name: "5.4 Event Logging"
+    href: diagnostics/event-logging.md
+  - name: "5.5 Event Tracing"
+    href: diagnostics/event-tracing.md
+  - name: "5.6 Hardware Counter Profiling (HCP)"
+    href: diagnostics/hardware-counter-profiling-hcp.md
+  - name: "5.7 Network Diagnostics Framework (NDF)"
+    href: diagnostics/network-diagnostics-framework-ndf.md
+  - name: "5.8 Network Monitor"
+    href: diagnostics/network-monitor.md
+  - name: "5.9 Performance Counters"
+    href: diagnostics/performance-counters.md
+  - name: "5.10 Performance Logs and Alerts (PLA)"
+    href: diagnostics/performance-logs-and-alerts-pla.md
+  - name: "5.11 Process Snapshotting"
+    href: diagnostics/process-snapshotting.md
+  - name: "5.12 Process Status (PSAPI)"
+    href: diagnostics/process-status-psapi.md
+  - name: "5.13 Structured Exception Handling"
+    href: diagnostics/structured-exception-handling.md
+  - name: "5.14 System Monitor"
+    href: diagnostics/system-monitor.md
+  - name: "5.15 Wait Chain Traversal"
+    href: diagnostics/wait-chain-traversal.md
+  - name: "5.16 Windows Error Reporting (WER)"
+    href: diagnostics/windows-error-reporting-wer.md
+  - name: "5.17 Windows Event Log"
+    href: diagnostics/windows-event-log.md
+  - name: "5.18 Windows Troubleshooting Platform"
+    href: diagnostics/windows-troubleshooting-platform.md
+- name: "6. Graphics and multimedia"
+  href: graphics-and-multimedia/index.md
+  items:
+  - name: "6.1 Core Audio"
+    href: graphics-and-multimedia/core-audio.md
+  - name: "6.2 Direct2D"
+    href: graphics-and-multimedia/direct2d.md
+  - name: "6.3 DirectComposition"
+    href: graphics-and-multimedia/directcomposition.md
+  - name: "6.4 DirectShow"
+    href: graphics-and-multimedia/directshow.md
+  - name: "6.5 DirectWrite"
+    href: graphics-and-multimedia/directwrite.md
+  - name: "6.6 DirectX"
+    href: graphics-and-multimedia/directx.md
+  - name: "6.7 Graphics Device Interface (GDI)"
+    href: graphics-and-multimedia/graphics-device-interface-gdi.md
+  - name: "6.8 GDI+"
+    href: graphics-and-multimedia/gdi-plus.md
+  - name: "6.9 Media Streaming"
+    href: graphics-and-multimedia/media-streaming.md
+  - name: "6.10 Microsoft Media Foundation"
+    href: graphics-and-multimedia/microsoft-media-foundation.md
+  - name: "6.11 Microsoft TV Technologies"
+    href: graphics-and-multimedia/microsoft-tv-technologies.md
+  - name: "6.12 OpenGL"
+    href: graphics-and-multimedia/opengl.md
+  - name: "6.13 Monitor Configuration"
+    href: graphics-and-multimedia/monitor-configuration.md
+  - name: "6.14 Multiple Display Monitors"
+    href: graphics-and-multimedia/multiple-display-monitors.md
+  - name: "6.15 Picture Acquisition"
+    href: graphics-and-multimedia/picture-acquisition.md
+  - name: "6.16 Windows Color System"
+    href: graphics-and-multimedia/windows-color-system.md
+  - name: "6.17 Windows Imaging Component (WIC)"
+    href: graphics-and-multimedia/windows-imaging-component-wic.md
+  - name: "6.18 Windows Media Audio and Video Codec and DSP"
+    href: graphics-and-multimedia/windows-media-audio-and-video-codec-and-dsp.md
+  - name: "6.19 Windows Media Center"
+    href: graphics-and-multimedia/windows-media-center.md
+  - name: "6.20 Windows Media Format"
+    href: graphics-and-multimedia/windows-media-format.md
+  - name: "6.21 Windows Media Library Sharing Services"
+    href: graphics-and-multimedia/windows-media-library-sharing-services.md
+  - name: "6.22 Windows Media Player"
+    href: graphics-and-multimedia/windows-media-player.md
+  - name: "6.23 Windows Media Services"
+    href: graphics-and-multimedia/windows-media-services.md
+  - name: "6.24 Windows Movie Maker"
+    href: graphics-and-multimedia/windows-movie-maker.md
+  - name: "6.25 Windows Multimedia"
+    href: graphics-and-multimedia/windows-multimedia.md
+- name: "7. Devices"
+  href: devices/index.md
+  items:
+  - name: "7.1 AllJoyn"
+    href: devices/alljoyn.md
+  - name: "7.2 Communications Resources"
+    href: devices/communications-resources.md
+  - name: "7.3 Device Access"
+    href: devices/device-access.md
+  - name: "7.4 Device Management"
+    href: devices/device-management.md
+  - name: "7.5 Enhanced Storage"
+    href: devices/enhanced-storage.md
+  - name: "7.6 Function Discovery"
+    href: devices/function-discovery.md
+  - name: "7.7 Image Mastering"
+    href: devices/image-mastering.md
+  - name: "7.8 Location"
+    href: devices/location.md
+  - name: "7.9 PnP-X Association Database"
+    href: devices/pnp-x-association-database.md
+  - name: "7.10 Printing"
+    href: devices/printing.md
+  - name: "7.11 Sensors"
+    href: devices/sensors.md
+  - name: "7.12 System Event Notification Service (SENS)"
+    href: devices/system-event-notification-service-sens.md
+  - name: "7.13 Tool Help"
+    href: devices/tool-help.md
+  - name: "7.14 UPnP"
+    href: devices/upnp.md
+  - name: "7.15 Web Services on Devices"
+    href: devices/web-services-on-devices.md
+  - name: "7.16 Windows Image Acquisition (WIA)"
+    href: devices/windows-image-acquisition-wia.md
+  - name: "7.17 Windows Media Device Manager"
+    href: devices/windows-media-device-manager.md
+  - name: "7.18 Windows Portable Devices"
+    href: devices/windows-portable-devices.md
+- name: "8. System services"
+  href: system-services/index.md
+  items:
+  - name: "8.1 Activity Coordinator"
+    href: system-services/activity-coordinator.md
+  - name: "8.2 COM"
+    href: system-services/com.md
+  - name: "8.3 COM+"
+    href: system-services/com-plus.md
+  - name: "8.4 Compression API"
+    href: system-services/compression-api.md
+  - name: "8.5 Distributed Transaction Coordinator (DTC)"
+    href: system-services/distributed-transaction-coordinator-dtc.md
+  - name: "8.6 Dynamic-Link Libraries (DLLs)"
+    href: system-services/dynamic-link-libraries-dlls.md
+  - name: "8.7 Hardware Requirement Evaluator (HWREQCHK)"
+    href: system-services/hardware-requirement-evaluator-hwreqchk.md
+  - name: "8.8 Help API"
+    href: system-services/help-api.md
+  - name: "8.9 Interprocess Communications"
+    href: system-services/interprocess-communications.md
+  - name: "8.10 Kernel Transaction Manager (KTM)"
+    href: system-services/kernel-transaction-manager-ktm.md
+  - name: "8.11 Memory Management"
+    href: system-services/memory-management.md
+  - name: "8.12 Operation Recorder"
+    href: system-services/operation-recorder.md
+  - name: "8.13 Power Management"
+    href: system-services/power-management.md
+  - name: "8.14 Remote Desktop Services"
+    href: system-services/remote-desktop-services.md
+  - name: "8.15 Processes"
+    href: system-services/processes.md
+  - name: "8.16 Services"
+    href: system-services/services.md
+  - name: "8.17 Synchronization"
+    href: system-services/synchronization.md
+  - name: "8.18 Threads"
+    href: system-services/threads.md
+  - name: "8.19 Windows Desktop Sharing"
+    href: system-services/windows-desktop-sharing.md
+  - name: "8.20 Windows System Information"
+    href: system-services/windows-system-information.md
+- name: "9. Security and identity"
+  href: security-and-identity/index.md
+  items:
+  - name: "9.1 Authentication"
+    href: security-and-identity/authentication.md
+  - name: "9.2 Authorization"
+    href: security-and-identity/authorization.md
+  - name: "9.3 Certificate Enrollment"
+    href: security-and-identity/certificate-enrollment.md
+  - name: "9.4 Cryptography"
+    href: security-and-identity/cryptography.md
+  - name: "9.5 Cryptographic Next Generation (CNG)"
+    href: security-and-identity/cryptographic-next-generation-cng.md
+  - name: "9.6 Directory Services"
+    href: security-and-identity/directory-services.md
+  - name: "9.7 Extensible Authentication Protocol (EAP)"
+    href: security-and-identity/extensible-authentication-protocol-eap.md
+  - name: "9.8 Extensible Authentication Protocol Host (EAPHost)"
+    href: security-and-identity/extensible-authentication-protocol-host-eaphost.md
+  - name: "9.9 MS-CHAP Password Management"
+    href: security-and-identity/ms-chap-password-management.md
+  - name: "9.10 Network Access Protection (NAP)"
+    href: security-and-identity/network-access-protection-nap.md
+  - name: "9.11 Network Policy Server Extensions (NPS)"
+    href: security-and-identity/network-policy-server-extensions-nps.md
+  - name: "9.12 Parental Controls"
+    href: security-and-identity/parental-controls.md
+  - name: "9.13 Security WMI Providers"
+    href: security-and-identity/security-wmi-providers.md
+  - name: "9.14 TPM Base Services (TBS)"
+    href: security-and-identity/tpm-base-services-tbs.md
+  - name: "9.15 Windows Biometric Framework"
+    href: security-and-identity/windows-biometric-framework.md
+- name: "10. Application installation and servicing"
+  href: application-installation-and-servicing/index.md
+  items:
+  - name: "10.1 Games Explorer"
+    href: application-installation-and-servicing/games-explorer.md
+  - name: "10.2 Side-by-side Assemblies"
+    href: application-installation-and-servicing/side-by-side-assemblies.md
+  - name: "10.3 Packaging, deployment, and query APIs"
+    href: application-installation-and-servicing/packaging-deployment-and-query-apis.md
+  - name: "10.4 Developer License"
+    href: application-installation-and-servicing/developer-license.md
+  - name: "10.5 Restart Manager"
+    href: application-installation-and-servicing/restart-manager.md
+  - name: "10.6 Windows Installer"
+    href: application-installation-and-servicing/windows-installer.md
+- name: "11. System admin and management"
+  href: system-admin-and-management/index.md
+  items:
+  - name: "11.1 Boot Configuration Data WMI Provider"
+    href: system-admin-and-management/boot-configuration-data-wmi-provider.md
+  - name: "11.2 Failover Clusters"
+    href: system-admin-and-management/failover-clusters.md
+  - name: "11.3 File Server Resource Manager (FSRM)"
+    href: system-admin-and-management/file-server-resource-manager-fsrm.md
+  - name: "11.4 Group Policy"
+    href: system-admin-and-management/group-policy.md
+  - name: "11.5 Microsoft Management Console (MMC) 2.0"
+    href: system-admin-and-management/microsoft-management-console-mmc-2-0.md
+  - name: "11.6 NetShell"
+    href: system-admin-and-management/netshell.md
+  - name: "11.7 Settings Management Infrastructure"
+    href: system-admin-and-management/settings-management-infrastructure.md
+  - name: "11.8 Software Inventory Logging"
+    href: system-admin-and-management/software-inventory-logging.md
+  - name: "11.9 Software Licensing"
+    href: system-admin-and-management/software-licensing.md
+  - name: "11.10 Restart Manager"
+    href: system-admin-and-management/restart-manager.md
+  - name: "11.11 System Restore"
+    href: system-admin-and-management/system-restore.md
+  - name: "11.12 System Shutdown"
+    href: system-admin-and-management/system-shutdown.md
+  - name: "11.13 Task Scheduler"
+    href: system-admin-and-management/task-scheduler.md
+  - name: "11.14 User Access Logging"
+    href: system-admin-and-management/user-access-logging.md
+  - name: "11.15 Windows Virtual PC"
+    href: system-admin-and-management/windows-virtual-pc.md
+  - name: "11.16 Microsoft Virtual Server"
+    href: system-admin-and-management/microsoft-virtual-server.md
+  - name: "11.17 Network Load Balancing Provider"
+    href: system-admin-and-management/network-load-balancing-provider.md
+  - name: "11.18 Windows Defender WMI v2"
+    href: system-admin-and-management/windows-defender-wmi-v2.md
+  - name: "11.19 Windows Deployment Services"
+    href: system-admin-and-management/windows-deployment-services.md
+  - name: "11.20 Windows Genuine Advantage"
+    href: system-admin-and-management/windows-genuine-advantage.md
+  - name: "11.21 Windows Management Infrastructure"
+    href: system-admin-and-management/windows-management-infrastructure.md
+  - name: "11.22 Windows Management Instrumentation (WMI)"
+    href: system-admin-and-management/windows-management-instrumentation-wmi.md
+  - name: "11.23 Windows Remote Management"
+    href: system-admin-and-management/windows-remote-management.md
+  - name: "11.24 Windows Resource Protection"
+    href: system-admin-and-management/windows-resource-protection.md
+  - name: "11.25 Windows Server Update Services"
+    href: system-admin-and-management/windows-server-update-services.md
+  - name: "11.26 Windows System Assessment Tool"
+    href: system-admin-and-management/windows-system-assessment-tool.md
+  - name: "11.27 Windows Update Agent"
+    href: system-admin-and-management/windows-update-agent.md
+- name: "12. Networking and internet"
+  href: networking-and-internet/index.md
+  items:
+  - name: "12.1 Domain Name System (DNS)"
+    href: networking-and-internet/domain-name-system-dns.md
+  - name: "12.2 Dynamic Host Configuration Protocol (DHCP)"
+    href: networking-and-internet/dynamic-host-configuration-protocol-dhcp.md
+  - name: "12.3 Fax Service"
+    href: networking-and-internet/fax-service.md
+  - name: "12.4 Get Connected Wizard"
+    href: networking-and-internet/get-connected-wizard.md
+  - name: "12.5 HTTP Server"
+    href: networking-and-internet/http-server.md
+  - name: "12.6 Internet Connection Sharing and Firewall"
+    href: networking-and-internet/internet-connection-sharing-and-firewall.md
+  - name: "12.7 IP Helper"
+    href: networking-and-internet/ip-helper.md
+  - name: "12.8 IPv6 Internet Connection Firewall"
+    href: networking-and-internet/ipv6-internet-connection-firewall.md
+  - name: "12.9 Management Information Base"
+    href: networking-and-internet/management-information-base.md
+  - name: "12.10 Message Queuing (MSMQ)"
+    href: networking-and-internet/message-queuing-msmq.md
+  - name: "12.11 Multicast Address Dynamic Client Allocation Protocol (MADCAP)"
+    href: networking-and-internet/multicast-address-dynamic-client-allocation-protocol-madcap.md
+  - name: "12.12 Network Address Translation (NAT)"
+    href: networking-and-internet/network-address-translation-nat.md
+  - name: "12.13 Network List Manager (NLM)"
+    href: networking-and-internet/network-list-manager-nlm.md
+  - name: "12.14 Network Management"
+    href: networking-and-internet/network-management.md
+  - name: "12.15 Network Share Management"
+    href: networking-and-internet/network-share-management.md
+  - name: "12.16 Peer-to-Peer"
+    href: networking-and-internet/peer-to-peer.md
+  - name: "12.17 Quality of Service (QOS)"
+    href: networking-and-internet/quality-of-service-qos.md
+  - name: "12.18 Remote Procedure Call"
+    href: networking-and-internet/remote-procedure-call.md
+  - name: "12.19 Routing and Remote Access Service (RAS)"
+    href: networking-and-internet/routing-and-remote-access-service-ras.md
+  - name: "12.20 Simple Network Management Protocol (SNMP)"
+    href: networking-and-internet/simple-network-management-protocol-snmp.md
+  - name: "12.21 SMB Management"
+    href: networking-and-internet/smb-management.md
+  - name: "12.22 Telephony Application Programming Interfaces (TAPI)"
+    href: networking-and-internet/telephony-application-programming-interfaces-tapi.md
+  - name: "12.23 WebDAV"
+    href: networking-and-internet/webdav.md
+  - name: "12.24 WebSocket Protocol Component"
+    href: networking-and-internet/websocket-protocol-component.md
+  - name: "12.25 Wireless networking"
+    href: networking-and-internet/wireless-networking.md
+  - name: "12.26 Windows Filtering Platform"
+    href: networking-and-internet/windows-filtering-platform.md
+  - name: "12.27 Windows Firewall with Advanced Security"
+    href: networking-and-internet/windows-firewall-with-advanced-security.md
+  - name: "12.28 Windows HTTP Services (WinHTTP)"
+    href: networking-and-internet/windows-http-services-winhttp.md
+  - name: "12.29 Windows Internet (WinINet)"
+    href: networking-and-internet/windows-internet-wininet.md
+  - name: "12.30 Windows Networking (WNet)"
+    href: networking-and-internet/windows-networking-wnet.md
+  - name: "12.31 Windows Network Virtualization"
+    href: networking-and-internet/windows-network-virtualization.md
+  - name: "12.32 Windows RSS Platform"
+    href: networking-and-internet/windows-rss-platform.md
+  - name: "12.33 Windows Sockets (Winsock)"
+    href: networking-and-internet/windows-sockets-winsock.md
+  - name: "12.34 Windows Web Services"
+    href: networking-and-internet/windows-web-services.md
+  - name: "12.35 XML HTTP Extended Request"
+    href: networking-and-internet/xml-http-extended-request.md

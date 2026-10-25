@@ -3,7 +3,13 @@ items:
   href: index.md
 - name: Apache Spark
   href: apache-spark/index.md
+- name: Chroma
+  href: chroma/index.md
 - name: CS2023 DM
   href: cs2023/toc.yml
+- name: MongoDB
+  href: mongodb/index.md
 - name: PostgreSQL
   href: postgresql/toc.yml
+- name: Redis
+  href: redis/index.md
