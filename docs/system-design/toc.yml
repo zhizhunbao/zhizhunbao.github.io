@@ -7,5 +7,7 @@ items:
   href: aws-well-architected/index.md
 - name: Azure Architecture Center
   href: azure-architecture-center/index.md
+- name: CS2023 PDC
+  href: cs2023/toc.yml
 - name: The Twelve-Factor App
   href: twelve-factor-app/toc.yml

@@ -1,0 +1,64 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Programs"
+  href: programs/index.md
+  items:
+  - name: "1.1 Parallelism"
+    href: programs/parallelism.md
+  - name: "1.2 Distribution"
+    href: programs/distribution.md
+  - name: "1.3 Starting activities"
+    href: programs/starting-activities.md
+  - name: "1.4 Execution Properties"
+    href: programs/execution-properties.md
+  - name: "1.5 One or more of the following mappings and mechanisms across layered systems"
+    href: programs/one-or-more-of-the-following-mappings-and-mechanisms-across-layered-systems.md
+- name: "2. Communication"
+  href: communication/index.md
+  items:
+  - name: "2.1 Media"
+    href: communication/media.md
+  - name: "2.2 Channels"
+    href: communication/channels.md
+  - name: "2.3 Memory"
+    href: communication/memory.md
+  - name: "2.4 Data Stores"
+    href: communication/data-stores.md
+  - name: "2.5 One or more of the following properties and extensions"
+    href: communication/one-or-more-of-the-following-properties-and-extensions.md
+- name: "3. Coordination"
+  href: coordination/index.md
+  items:
+  - name: "3.1 Dependencies"
+    href: coordination/dependencies.md
+  - name: "3.2 Control constructs and design patterns"
+    href: coordination/control-constructs-and-design-patterns.md
+  - name: "3.3 Atomicity"
+    href: coordination/atomicity.md
+  - name: "3.4 One or more of the following properties and extensions"
+    href: coordination/one-or-more-of-the-following-properties-and-extensions.md
+- name: "4. Evaluation"
+  href: evaluation/index.md
+  items:
+  - name: "4.1 Safety and liveness requirements in terms of temporal logic constructs to express “always” and “eventually”"
+    href: evaluation/safety-and-liveness-requirements-in-terms-of-temporal-logic-constructs-to-expres.md
+  - name: "4.2 Identifying, testing for, and repairing violations, including common forms of errors such as failure to ensure necessary ordering (race errors), atomicity (including check-then-act errors), and termination (livelock)"
+    href: evaluation/identifying-testing-for-and-repairing-violations-including-common-forms-of-error.md
+  - name: "4.3 Performance requirements metrics for throughput, responsiveness, latency, availability, energy consumption, scalability, resource usage, communication costs, waiting and rate control, fairness; service level agreements"
+    href: evaluation/performance-requirements-metrics-for-throughput-responsiveness-latency-availabil.md
+  - name: "4.4 Performance impact of design and implementation choices, including granularity, overhead, consensus costs, and energy consumption"
+    href: evaluation/performance-impact-of-design-and-implementation-choices-including-granularity-ov.md
+  - name: "4.5 Estimating scalability limitations, for example using Amdahl’s Law or Universal Scalability Law"
+    href: evaluation/estimating-scalability-limitations-for-example-using-amdahls-law-or-universal-sc.md
+  - name: "4.6 One or more of the following methods and tools"
+    href: evaluation/one-or-more-of-the-following-methods-and-tools.md
+- name: "5. Algorithms"
+  href: algorithms/index.md
+  items:
+  - name: "5.1 Expressing and implementing algorithms in given languages and frameworks, to initiate activities (for example threads), use shared memory constructs, and channel, socket, and/or remote procedure call APIs.."
+    href: algorithms/expressing-and-implementing-algorithms-in-given-languages-and-frameworks-to-init.md
+  - name: "5.2 Survey of common application domains across multicore, reactive, data parallel, cluster, cloud, open distributed systems, and frameworks (with reference to the following table)."
+    href: algorithms/survey-of-common-application-domains-across-multicore-reactive-data-parallel-clu.md
+  - name: "5.3 One of more of the following algorithmic domains."
+    href: algorithms/one-of-more-of-the-following-algorithmic-domains.md
