@@ -1,10 +1,10 @@
 ---
-title: "1.22 Spinbutton"
-description: "ARIA Authoring Practices Guide, 1.22 Spinbutton."
+title: "1.8 Spinbutton"
+description: "ARIA Authoring Practices Guide, 1.8 Spinbutton."
 ms.date: 2026-10-24
 ---
 
-# 1.22 Spinbutton
+# 1.8 Spinbutton
 
 Sources: [ARIA Authoring Practices Guide: Spinbutton](https://www.w3.org/WAI/ARIA/apg/patterns/spinbutton/).
 

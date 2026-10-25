@@ -1,10 +1,10 @@
 ---
-title: "1.15 Listbox"
-description: "ARIA Authoring Practices Guide, 1.15 Listbox."
+title: "1.10 Listbox"
+description: "ARIA Authoring Practices Guide, 1.10 Listbox."
 ms.date: 2026-10-24
 ---
 
-# 1.15 Listbox
+# 1.10 Listbox
 
 Sources: [ARIA Authoring Practices Guide: Listbox](https://www.w3.org/WAI/ARIA/apg/patterns/listbox/).
 

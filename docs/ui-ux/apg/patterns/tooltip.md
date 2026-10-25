@@ -1,10 +1,10 @@
 ---
-title: "1.27 Tooltip"
-description: "ARIA Authoring Practices Guide, 1.27 Tooltip."
+title: "1.23 Tooltip"
+description: "ARIA Authoring Practices Guide, 1.23 Tooltip."
 ms.date: 2026-10-24
 ---
 
-# 1.27 Tooltip
+# 1.23 Tooltip
 
 Sources: [ARIA Authoring Practices Guide: Tooltip](https://www.w3.org/WAI/ARIA/apg/patterns/tooltip/).
 

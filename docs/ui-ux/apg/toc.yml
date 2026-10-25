@@ -4,66 +4,66 @@ items:
 - name: "1. Patterns"
   href: patterns/index.md
   items:
-  - name: "1.1 Accordion (Sections With Show/Hide Functionality)"
-    href: patterns/accordion.md
-  - name: "1.2 Alert"
-    href: patterns/alert.md
-  - name: "1.3 Alert and Message Dialogs"
-    href: patterns/alertdialog.md
-  - name: "1.4 Breadcrumb"
-    href: patterns/breadcrumb.md
-  - name: "1.5 Button"
+  - name: "1.1 Button"
     href: patterns/button.md
-  - name: "1.6 Carousel (Slide Show or Image Rotator)"
-    href: patterns/carousel.md
-  - name: "1.7 Checkbox"
-    href: patterns/checkbox.md
-  - name: "1.8 Combobox"
-    href: patterns/combobox.md
-  - name: "1.9 Dialog (Modal)"
-    href: patterns/dialog-modal.md
-  - name: "1.10 Disclosure (Show/Hide)"
-    href: patterns/disclosure.md
-  - name: "1.11 Feed"
-    href: patterns/feed.md
-  - name: "1.12 Grid (Interactive Tabular Data and Layout Containers)"
-    href: patterns/grid.md
-  - name: "1.13 Landmarks"
-    href: patterns/landmarks.md
-  - name: "1.14 Link"
+  - name: "1.2 Link"
     href: patterns/link.md
-  - name: "1.15 Listbox"
+  - name: "1.3 Checkbox"
+    href: patterns/checkbox.md
+  - name: "1.4 Radio Group"
+    href: patterns/radio.md
+  - name: "1.5 Switch"
+    href: patterns/switch.md
+  - name: "1.6 Slider"
+    href: patterns/slider.md
+  - name: "1.7 Slider (Multi-Thumb)"
+    href: patterns/slider-multithumb.md
+  - name: "1.8 Spinbutton"
+    href: patterns/spinbutton.md
+  - name: "1.9 Meter"
+    href: patterns/meter.md
+  - name: "1.10 Listbox"
     href: patterns/listbox.md
-  - name: "1.16 Menu and Menubar"
-    href: patterns/menubar.md
+  - name: "1.11 Combobox"
+    href: patterns/combobox.md
+  - name: "1.12 Disclosure (Show/Hide)"
+    href: patterns/disclosure.md
+  - name: "1.13 Accordion (Sections With Show/Hide Functionality)"
+    href: patterns/accordion.md
+  - name: "1.14 Tabs"
+    href: patterns/tabs.md
+  - name: "1.15 Carousel (Slide Show or Image Rotator)"
+    href: patterns/carousel.md
+  - name: "1.16 Feed"
+    href: patterns/feed.md
   - name: "1.17 Menu Button"
     href: patterns/menu-button.md
-  - name: "1.18 Meter"
-    href: patterns/meter.md
-  - name: "1.19 Radio Group"
-    href: patterns/radio.md
-  - name: "1.20 Slider"
-    href: patterns/slider.md
-  - name: "1.21 Slider (Multi-Thumb)"
-    href: patterns/slider-multithumb.md
-  - name: "1.22 Spinbutton"
-    href: patterns/spinbutton.md
-  - name: "1.23 Switch"
-    href: patterns/switch.md
-  - name: "1.24 Table"
-    href: patterns/table.md
-  - name: "1.25 Tabs"
-    href: patterns/tabs.md
-  - name: "1.26 Toolbar"
+  - name: "1.18 Menu and Menubar"
+    href: patterns/menubar.md
+  - name: "1.19 Toolbar"
     href: patterns/toolbar.md
-  - name: "1.27 Tooltip"
+  - name: "1.20 Alert"
+    href: patterns/alert.md
+  - name: "1.21 Alert and Message Dialogs"
+    href: patterns/alertdialog.md
+  - name: "1.22 Dialog (Modal)"
+    href: patterns/dialog-modal.md
+  - name: "1.23 Tooltip"
     href: patterns/tooltip.md
-  - name: "1.28 Tree View"
-    href: patterns/treeview.md
-  - name: "1.29 Treegrid"
-    href: patterns/treegrid.md
-  - name: "1.30 Window Splitter"
+  - name: "1.24 Breadcrumb"
+    href: patterns/breadcrumb.md
+  - name: "1.25 Landmarks"
+    href: patterns/landmarks.md
+  - name: "1.26 Window Splitter"
     href: patterns/windowsplitter.md
+  - name: "1.27 Table"
+    href: patterns/table.md
+  - name: "1.28 Grid (Interactive Tabular Data and Layout Containers)"
+    href: patterns/grid.md
+  - name: "1.29 Tree View"
+    href: patterns/treeview.md
+  - name: "1.30 Treegrid"
+    href: patterns/treegrid.md
 - name: "2. Practices"
   href: practices/index.md
   items:
