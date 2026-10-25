@@ -134,6 +134,17 @@ items:
     href: ai-machine-learning/enterprise-intelligence-layers.md
 - name: "12. Identity"
   href: identity/index.md
+  items:
+  - name: "12.1 Directory services"
+    href: identity/directory-services.md
+  - name: "12.2 Authentication methods"
+    href: identity/authentication-methods.md
+  - name: "12.3 External identities"
+    href: identity/external-identities.md
+  - name: "12.4 Conditional Access"
+    href: identity/conditional-access.md
+  - name: "12.5 Role-based access control"
+    href: identity/role-based-access-control.md
 - name: "13. Security"
   href: security/index.md
 - name: "14. Management and Governance"
