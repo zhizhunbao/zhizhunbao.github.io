@@ -6,7 +6,7 @@ ms.date: 2026-10-24
 
 # Algorithms
 
-Planned, no content yet. Algorithms do not date like the other fields, so the second level is the knowledge units of CS2023 itself, in the CS2023 order.
+Planned, no content yet. Algorithms do not date like the other fields, so the second level is the knowledge units of CS2023 itself, in alphabetical order.
 
 | Item | Value |
 |---|---|

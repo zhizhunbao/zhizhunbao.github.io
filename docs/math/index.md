@@ -6,7 +6,7 @@ ms.date: 2026-10-24
 
 # Math
 
-Planned, no content yet. Mathematics does not date like the other fields, so its second level is the knowledge units of CS2023 itself, in the CS2023 order.
+Planned, no content yet. Mathematics does not date like the other fields, so its second level is the knowledge units of CS2023 itself, in alphabetical order.
 
 | Item | Value |
 |---|---|

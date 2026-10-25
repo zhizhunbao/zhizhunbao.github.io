@@ -1,11 +1,11 @@
 items:
 - name: Overview
   href: index.md
-- name: Foundational Data Structures and Algorithms
-  href: foundational-data-structures-and-algorithms/index.md
 - name: Algorithmic Strategies
   href: algorithmic-strategies/index.md
 - name: Complexity
   href: complexity/index.md
 - name: Computational Models and Formal Languages
   href: computational-models-and-formal-languages/index.md
+- name: Foundational Data Structures and Algorithms
+  href: foundational-data-structures-and-algorithms/index.md
