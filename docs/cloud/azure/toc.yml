@@ -123,6 +123,15 @@ items:
     href: internet-of-things/edge-runtime.md
 - name: "11. AI + Machine Learning"
   href: ai-machine-learning/index.md
+  items:
+  - name: "11.1 AI development platforms"
+    href: ai-machine-learning/ai-development-platforms.md
+  - name: "11.2 Prebuilt AI services"
+    href: ai-machine-learning/prebuilt-ai-services.md
+  - name: "11.3 Data platforms for AI"
+    href: ai-machine-learning/data-platforms-for-ai.md
+  - name: "11.4 Enterprise intelligence layers"
+    href: ai-machine-learning/enterprise-intelligence-layers.md
 - name: "12. Identity"
   href: identity/index.md
 - name: "13. Security"
