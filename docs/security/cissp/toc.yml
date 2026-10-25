@@ -1,0 +1,151 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Security and Risk Management"
+  href: security-and-risk-management/index.md
+  items:
+  - name: "1.1 Professional ethics"
+    href: security-and-risk-management/professional-ethics.md
+  - name: "1.2 Security concepts"
+    href: security-and-risk-management/security-concepts.md
+  - name: "1.3 Security governance principles"
+    href: security-and-risk-management/security-governance-principles.md
+  - name: "1.4 Legal, regulatory, and compliance issues"
+    href: security-and-risk-management/legal-regulatory-and-compliance-issues.md
+  - name: "1.5 Investigation types"
+    href: security-and-risk-management/investigation-types.md
+  - name: "1.6 Security policy, standards, procedures, and guidelines"
+    href: security-and-risk-management/security-policy-standards-procedures-and-guidelines.md
+  - name: "1.7 Business Continuity (BC) requirements"
+    href: security-and-risk-management/business-continuity-requirements.md
+  - name: "1.8 Personnel security policies and procedures"
+    href: security-and-risk-management/personnel-security-policies-and-procedures.md
+  - name: "1.9 Risk management concepts"
+    href: security-and-risk-management/risk-management-concepts.md
+  - name: "1.10 Threat modeling concepts and methodologies"
+    href: security-and-risk-management/threat-modeling-concepts-and-methodologies.md
+  - name: "1.11 Supply Chain Risk Management (SCRM)"
+    href: security-and-risk-management/supply-chain-risk-management.md
+  - name: "1.12 Security awareness, education, and training program"
+    href: security-and-risk-management/security-awareness-education-and-training-program.md
+- name: "2. Asset Security"
+  href: asset-security/index.md
+  items:
+  - name: "2.1 Information and asset classification"
+    href: asset-security/information-and-asset-classification.md
+  - name: "2.2 Information and asset handling requirements"
+    href: asset-security/information-and-asset-handling-requirements.md
+  - name: "2.3 Information and asset provisioning"
+    href: asset-security/information-and-asset-provisioning.md
+  - name: "2.4 Data lifecycle"
+    href: asset-security/data-lifecycle.md
+  - name: "2.5 Asset retention"
+    href: asset-security/asset-retention.md
+  - name: "2.6 Data security controls and compliance requirements"
+    href: asset-security/data-security-controls-and-compliance-requirements.md
+- name: "3. Security Architecture and Engineering"
+  href: security-architecture-and-engineering/index.md
+  items:
+  - name: "3.1 Secure design principles"
+    href: security-architecture-and-engineering/secure-design-principles.md
+  - name: "3.2 Security models"
+    href: security-architecture-and-engineering/security-models.md
+  - name: "3.3 Controls for systems security requirements"
+    href: security-architecture-and-engineering/controls-for-systems-security-requirements.md
+  - name: "3.4 Security capabilities of Information Systems (IS)"
+    href: security-architecture-and-engineering/security-capabilities-of-information-systems.md
+  - name: "3.5 Vulnerabilities of security architectures, designs, and solution elements"
+    href: security-architecture-and-engineering/vulnerabilities-of-security-architectures-designs-and-solution-elements.md
+  - name: "3.6 Cryptographic solutions"
+    href: security-architecture-and-engineering/cryptographic-solutions.md
+  - name: "3.7 Cryptanalytic attacks"
+    href: security-architecture-and-engineering/cryptanalytic-attacks.md
+  - name: "3.8 Site and facility design"
+    href: security-architecture-and-engineering/site-and-facility-design.md
+  - name: "3.9 Site and facility security controls"
+    href: security-architecture-and-engineering/site-and-facility-security-controls.md
+  - name: "3.10 Information system lifecycle"
+    href: security-architecture-and-engineering/information-system-lifecycle.md
+- name: "4. Communication and Network Security"
+  href: communication-and-network-security/index.md
+  items:
+  - name: "4.1 Secure design principles in network architectures"
+    href: communication-and-network-security/secure-design-principles-in-network-architectures.md
+  - name: "4.2 Network components"
+    href: communication-and-network-security/network-components.md
+  - name: "4.3 Secure communication channels"
+    href: communication-and-network-security/secure-communication-channels.md
+- name: "5. Identity and Access Management (IAM)"
+  href: identity-and-access-management/index.md
+  items:
+  - name: "5.1 Physical and logical access to assets"
+    href: identity-and-access-management/physical-and-logical-access-to-assets.md
+  - name: "5.2 Identification and authentication strategy"
+    href: identity-and-access-management/identification-and-authentication-strategy.md
+  - name: "5.3 Federated identity with a third-party service"
+    href: identity-and-access-management/federated-identity-with-a-third-party-service.md
+  - name: "5.4 Authorization mechanisms"
+    href: identity-and-access-management/authorization-mechanisms.md
+  - name: "5.5 Identity and access provisioning lifecycle"
+    href: identity-and-access-management/identity-and-access-provisioning-lifecycle.md
+  - name: "5.6 Authentication systems"
+    href: identity-and-access-management/authentication-systems.md
+- name: "6. Security Assessment and Testing"
+  href: security-assessment-and-testing/index.md
+  items:
+  - name: "6.1 Assessment, test, and audit strategies"
+    href: security-assessment-and-testing/assessment-test-and-audit-strategies.md
+  - name: "6.2 Security control testing"
+    href: security-assessment-and-testing/security-control-testing.md
+  - name: "6.3 Security process data"
+    href: security-assessment-and-testing/security-process-data.md
+  - name: "6.4 Test output and reports"
+    href: security-assessment-and-testing/test-output-and-reports.md
+  - name: "6.5 Security audits"
+    href: security-assessment-and-testing/security-audits.md
+- name: "7. Security Operations"
+  href: security-operations/index.md
+  items:
+  - name: "7.1 Investigations"
+    href: security-operations/investigations.md
+  - name: "7.2 Logging and monitoring"
+    href: security-operations/logging-and-monitoring.md
+  - name: "7.3 Configuration Management (CM)"
+    href: security-operations/configuration-management.md
+  - name: "7.4 Foundational security operations concepts"
+    href: security-operations/foundational-security-operations-concepts.md
+  - name: "7.5 Resource protection"
+    href: security-operations/resource-protection.md
+  - name: "7.6 Incident management"
+    href: security-operations/incident-management.md
+  - name: "7.7 Detection and preventative measures"
+    href: security-operations/detection-and-preventative-measures.md
+  - name: "7.8 Patch and vulnerability management"
+    href: security-operations/patch-and-vulnerability-management.md
+  - name: "7.9 Change management processes"
+    href: security-operations/change-management-processes.md
+  - name: "7.10 Recovery strategies"
+    href: security-operations/recovery-strategies.md
+  - name: "7.11 Disaster Recovery (DR) processes"
+    href: security-operations/disaster-recovery-processes.md
+  - name: "7.12 Disaster Recovery Plan (DRP) testing"
+    href: security-operations/disaster-recovery-plan-testing.md
+  - name: "7.13 Business Continuity (BC) planning and exercises"
+    href: security-operations/business-continuity-planning-and-exercises.md
+  - name: "7.14 Physical security"
+    href: security-operations/physical-security.md
+  - name: "7.15 Personnel safety and security"
+    href: security-operations/personnel-safety-and-security.md
+- name: "8. Software Development Security"
+  href: software-development-security/index.md
+  items:
+  - name: "8.1 Security in the Software Development Life Cycle (SDLC)"
+    href: software-development-security/security-in-the-software-development-life-cycle.md
+  - name: "8.2 Security controls in software development ecosystems"
+    href: software-development-security/security-controls-in-software-development-ecosystems.md
+  - name: "8.3 Software security effectiveness"
+    href: software-development-security/software-security-effectiveness.md
+  - name: "8.4 Security impact of acquired software"
+    href: software-development-security/security-impact-of-acquired-software.md
+  - name: "8.5 Secure coding guidelines and standards"
+    href: software-development-security/secure-coding-guidelines-and-standards.md

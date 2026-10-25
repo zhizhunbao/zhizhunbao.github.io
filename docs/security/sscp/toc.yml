@@ -1,0 +1,96 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Security Concepts and Practices"
+  href: security-concepts-and-practices/index.md
+  items:
+  - name: "1.1 Codes of ethics"
+    href: security-concepts-and-practices/codes-of-ethics.md
+  - name: "1.2 Security concepts"
+    href: security-concepts-and-practices/security-concepts.md
+  - name: "1.3 Security controls"
+    href: security-concepts-and-practices/security-controls.md
+  - name: "1.4 Functional security controls"
+    href: security-concepts-and-practices/functional-security-controls.md
+  - name: "1.5 Asset management lifecycle"
+    href: security-concepts-and-practices/asset-management-lifecycle.md
+  - name: "1.6 Change management lifecycle"
+    href: security-concepts-and-practices/change-management-lifecycle.md
+  - name: "1.7 Security awareness and training"
+    href: security-concepts-and-practices/security-awareness-and-training.md
+  - name: "1.8 Physical security operations"
+    href: security-concepts-and-practices/physical-security-operations.md
+- name: "2. Access Controls"
+  href: access-controls/index.md
+  items:
+  - name: "2.1 Authentication methods"
+    href: access-controls/authentication-methods.md
+  - name: "2.2 Internetwork trust architectures"
+    href: access-controls/internetwork-trust-architectures.md
+  - name: "2.3 Identity management lifecycle"
+    href: access-controls/identity-management-lifecycle.md
+  - name: "2.4 Access controls"
+    href: access-controls/access-controls.md
+- name: "3. Risk Identification, Monitoring and Analysis"
+  href: risk-identification-monitoring-and-analysis/index.md
+  items:
+  - name: "3.1 Risk management"
+    href: risk-identification-monitoring-and-analysis/risk-management.md
+  - name: "3.2 Legal and regulatory concerns"
+    href: risk-identification-monitoring-and-analysis/legal-and-regulatory-concerns.md
+  - name: "3.3 Security assessments and vulnerability management"
+    href: risk-identification-monitoring-and-analysis/security-assessments-and-vulnerability-management.md
+  - name: "3.4 Security platforms"
+    href: risk-identification-monitoring-and-analysis/security-platforms.md
+  - name: "3.5 Monitoring results"
+    href: risk-identification-monitoring-and-analysis/monitoring-results.md
+- name: "4. Incident Response and Recovery"
+  href: incident-response-and-recovery/index.md
+  items:
+  - name: "4.1 Incident response lifecycle"
+    href: incident-response-and-recovery/incident-response-lifecycle.md
+  - name: "4.2 Forensic investigations"
+    href: incident-response-and-recovery/forensic-investigations.md
+  - name: "4.3 Business continuity plan (BCP) and disaster recovery plan (DRP)"
+    href: incident-response-and-recovery/business-continuity-plan-and-disaster-recovery-plan.md
+- name: "5. Cryptography"
+  href: cryptography/index.md
+  items:
+  - name: "5.1 Reasons and requirements for cryptography"
+    href: cryptography/reasons-and-requirements-for-cryptography.md
+  - name: "5.2 Cryptography concepts"
+    href: cryptography/cryptography-concepts.md
+  - name: "5.3 Secure protocols"
+    href: cryptography/secure-protocols.md
+  - name: "5.4 Public key infrastructure (PKI)"
+    href: cryptography/public-key-infrastructure.md
+- name: "6. Network and Communications Security"
+  href: network-and-communications-security/index.md
+  items:
+  - name: "6.1 Fundamental concepts of networking"
+    href: network-and-communications-security/fundamental-concepts-of-networking.md
+  - name: "6.2 Network attacks"
+    href: network-and-communications-security/network-attacks.md
+  - name: "6.3 Network access controls"
+    href: network-and-communications-security/network-access-controls.md
+  - name: "6.4 Network security"
+    href: network-and-communications-security/network-security.md
+  - name: "6.5 Network-based security appliances and services"
+    href: network-and-communications-security/network-based-security-appliances-and-services.md
+  - name: "6.6 Wireless communications"
+    href: network-and-communications-security/wireless-communications.md
+  - name: "6.7 Internet of Things (IoT)"
+    href: network-and-communications-security/internet-of-things.md
+- name: "7. Systems and Application Security"
+  href: systems-and-application-security/index.md
+  items:
+  - name: "7.1 Malicious code and activity"
+    href: systems-and-application-security/malicious-code-and-activity.md
+  - name: "7.2 Endpoint device security"
+    href: systems-and-application-security/endpoint-device-security.md
+  - name: "7.3 Mobile devices"
+    href: systems-and-application-security/mobile-devices.md
+  - name: "7.4 Cloud security"
+    href: systems-and-application-security/cloud-security.md
+  - name: "7.5 Secure virtual environments"
+    href: systems-and-application-security/secure-virtual-environments.md
