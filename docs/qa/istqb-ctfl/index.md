@@ -10,9 +10,9 @@ Planned, no content yet. The pages under this one will follow this source's own 
 
 | Item | Value |
 |---|---|
-| Official source | [Certified Tester Foundation Level (CTFL) v4.0](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/) |
+| Official source | [Certified Tester Foundation Level (CTFL) v4.0](https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/) |
 | Publisher | International Software Testing Qualifications Board |
 
 ## References
 
-International Software Testing Qualifications Board. (n.d.). *Certified tester foundation level (CTFL) v4.0*. Retrieved October 24, 2026, from <https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/>
+International Software Testing Qualifications Board. (n.d.). *Certified tester foundation level (CTFL) v4.0*. Retrieved October 24, 2026, from <https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/>
