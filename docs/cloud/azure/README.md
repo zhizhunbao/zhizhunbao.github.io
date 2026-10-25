@@ -26,7 +26,7 @@ Only the folders below may exist, in this order. The number is the learning orde
 | 16 | `migration/` | Migration | classification | [Azure documentation: Migration](https://learn.microsoft.com/en-us/azure/?product=migration); [About Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview); [Select your cloud migration strategies](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/select-cloud-migration-strategy) |
 | 17 | `well-architected-framework/` | Azure Well-Architected Framework | classification | [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) |
 | 18 | `cloud-adoption-framework/` | Cloud Adoption Framework for Azure | classification | [Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) |
-| 19 | `architecture-center/` | Azure Architecture Center | classification | [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/) |
+| 19 | `architecture-center/` | Azure Architecture Center | classification | [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/); [Azure application architecture fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/) |
 
 Not used by any course yet, so no folder: Developer Tools, Hybrid + multicloud, Media, Mixed Reality, Mobile, Virtual Desktop Infrastructure, Web (App Service sits under Compute, as in AZ-900).
 

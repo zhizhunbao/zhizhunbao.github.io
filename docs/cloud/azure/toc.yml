@@ -221,3 +221,14 @@ items:
     href: cloud-adoption-framework/manage.md
 - name: "19. Azure Architecture Center"
   href: architecture-center/index.md
+  items:
+  - name: "19.1 Architecture styles"
+    href: architecture-center/architecture-styles.md
+  - name: "19.2 Best practices"
+    href: architecture-center/best-practices.md
+  - name: "19.3 Cloud design patterns"
+    href: architecture-center/cloud-design-patterns.md
+  - name: "19.4 Technology choices"
+    href: architecture-center/technology-choices.md
+  - name: "19.5 Architectures"
+    href: architecture-center/architectures.md
