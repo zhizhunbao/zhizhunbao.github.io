@@ -4,7 +4,7 @@ items:
 - name: Projects
   href: projects/
 - name: AI
-  href: ai-courses/
+  href: ai/
 - name: Algorithms
   href: algorithms/
 - name: Cloud
