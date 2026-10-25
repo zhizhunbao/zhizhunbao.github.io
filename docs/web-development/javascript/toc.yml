@@ -1,0 +1,432 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Scope"
+  href: scope/index.md
+- name: "2. Conformance"
+  href: conformance/index.md
+  items:
+  - name: "2.1 Example Normative Optional Clause Heading"
+    href: conformance/example-normative-optional-clause-heading.md
+  - name: "2.2 Example Legacy Clause Heading"
+    href: conformance/example-legacy-clause-heading.md
+  - name: "2.3 Example Legacy Normative Optional Clause Heading"
+    href: conformance/example-legacy-normative-optional-clause-heading.md
+- name: "3. Normative References"
+  href: normative-references/index.md
+- name: "4. Overview"
+  href: overview/index.md
+  items:
+  - name: "4.1 Web Scripting"
+    href: overview/web-scripting.md
+  - name: "4.2 Hosts and Implementations"
+    href: overview/hosts-and-implementations.md
+  - name: "4.3 ECMAScript Overview"
+    href: overview/ecmascript-overview.md
+  - name: "4.4 Terms and Definitions"
+    href: overview/terms-and-definitions.md
+  - name: "4.5 Organization of This Specification"
+    href: overview/organization-of-this-specification.md
+- name: "5. Notational Conventions"
+  href: notational-conventions/index.md
+  items:
+  - name: "5.1 Syntactic and Lexical Grammars"
+    href: notational-conventions/syntactic-and-lexical-grammars.md
+  - name: "5.2 Algorithm Conventions"
+    href: notational-conventions/algorithm-conventions.md
+- name: "6. ECMAScript Data Types and Values"
+  href: ecmascript-data-types-and-values/index.md
+  items:
+  - name: "6.1 ECMAScript Language Types"
+    href: ecmascript-data-types-and-values/ecmascript-language-types.md
+  - name: "6.2 ECMAScript Specification Types"
+    href: ecmascript-data-types-and-values/ecmascript-specification-types.md
+- name: "7. Abstract Operations"
+  href: abstract-operations/index.md
+  items:
+  - name: "7.1 Type Conversion"
+    href: abstract-operations/type-conversion.md
+  - name: "7.2 Testing and Comparison Operations"
+    href: abstract-operations/testing-and-comparison-operations.md
+  - name: "7.3 Operations on Objects"
+    href: abstract-operations/operations-on-objects.md
+  - name: "7.4 Operations on Iterator Objects"
+    href: abstract-operations/operations-on-iterator-objects.md
+- name: "8. Syntax-Directed Operations"
+  href: syntax-directed-operations/index.md
+  items:
+  - name: "8.1 RS: Evaluation"
+    href: syntax-directed-operations/rs-evaluation.md
+  - name: "8.2 Scope Analysis"
+    href: syntax-directed-operations/scope-analysis.md
+  - name: "8.3 Labels"
+    href: syntax-directed-operations/labels.md
+  - name: "8.4 Function Name Inference"
+    href: syntax-directed-operations/function-name-inference.md
+  - name: "8.5 Contains"
+    href: syntax-directed-operations/contains.md
+  - name: "8.6 Miscellaneous"
+    href: syntax-directed-operations/miscellaneous.md
+- name: "9. Executable Code and Execution Contexts"
+  href: executable-code-and-execution-contexts/index.md
+  items:
+  - name: "9.1 Environment Records"
+    href: executable-code-and-execution-contexts/environment-records.md
+  - name: "9.2 PrivateEnvironment Records"
+    href: executable-code-and-execution-contexts/privateenvironment-records.md
+  - name: "9.3 Realms"
+    href: executable-code-and-execution-contexts/realms.md
+  - name: "9.4 Execution Contexts"
+    href: executable-code-and-execution-contexts/execution-contexts.md
+  - name: "9.5 Jobs and Host Operations to Enqueue Jobs"
+    href: executable-code-and-execution-contexts/jobs-and-host-operations-to-enqueue-jobs.md
+  - name: "9.6 Agents"
+    href: executable-code-and-execution-contexts/agents.md
+  - name: "9.7 Agent Clusters"
+    href: executable-code-and-execution-contexts/agent-clusters.md
+  - name: "9.8 Forward Progress"
+    href: executable-code-and-execution-contexts/forward-progress.md
+  - name: "9.9 Processing Model of WeakRef and FinalizationRegistry Targets"
+    href: executable-code-and-execution-contexts/processing-model-of-weakref-and-finalizationregistry-targets.md
+  - name: "9.10 ClearKeptObjects ( )"
+    href: executable-code-and-execution-contexts/clearkeptobjects.md
+  - name: "9.11 AddToKeptObjects ( value )"
+    href: executable-code-and-execution-contexts/addtokeptobjects-value.md
+  - name: "9.12 CleanupFinalizationRegistry ( finalizationRegistry )"
+    href: executable-code-and-execution-contexts/cleanupfinalizationregistry-finalizationregistry.md
+  - name: "9.13 CanBeHeldWeakly ( v )"
+    href: executable-code-and-execution-contexts/canbeheldweakly-v.md
+- name: "10. Ordinary and Exotic Objects Behaviours"
+  href: ordinary-and-exotic-objects-behaviours/index.md
+  items:
+  - name: "10.1 Ordinary Object Internal Methods and Internal Slots"
+    href: ordinary-and-exotic-objects-behaviours/ordinary-object-internal-methods-and-internal-slots.md
+  - name: "10.2 ECMAScript Function Objects"
+    href: ordinary-and-exotic-objects-behaviours/ecmascript-function-objects.md
+  - name: "10.3 Built-in Function Objects"
+    href: ordinary-and-exotic-objects-behaviours/built-in-function-objects.md
+  - name: "10.4 Built-in Exotic Object Internal Methods and Slots"
+    href: ordinary-and-exotic-objects-behaviours/built-in-exotic-object-internal-methods-and-slots.md
+  - name: "10.5 Proxy Object Internal Methods and Internal Slots"
+    href: ordinary-and-exotic-objects-behaviours/proxy-object-internal-methods-and-internal-slots.md
+- name: "11. ECMAScript Language: Source Text"
+  href: ecmascript-language-source-text/index.md
+  items:
+  - name: "11.1 Source Text"
+    href: ecmascript-language-source-text/source-text.md
+  - name: "11.2 Types of Source Code"
+    href: ecmascript-language-source-text/types-of-source-code.md
+- name: "12. ECMAScript Language: Lexical Grammar"
+  href: ecmascript-language-lexical-grammar/index.md
+  items:
+  - name: "12.1 Unicode Format-Control Characters"
+    href: ecmascript-language-lexical-grammar/unicode-format-control-characters.md
+  - name: "12.2 White Space"
+    href: ecmascript-language-lexical-grammar/white-space.md
+  - name: "12.3 Line Terminators"
+    href: ecmascript-language-lexical-grammar/line-terminators.md
+  - name: "12.4 Comments"
+    href: ecmascript-language-lexical-grammar/comments.md
+  - name: "12.5 Hashbang Comments"
+    href: ecmascript-language-lexical-grammar/hashbang-comments.md
+  - name: "12.6 Tokens"
+    href: ecmascript-language-lexical-grammar/tokens.md
+  - name: "12.7 Names and Keywords"
+    href: ecmascript-language-lexical-grammar/names-and-keywords.md
+  - name: "12.8 Punctuators"
+    href: ecmascript-language-lexical-grammar/punctuators.md
+  - name: "12.9 Literals"
+    href: ecmascript-language-lexical-grammar/literals.md
+  - name: "12.10 Automatic Semicolon Insertion"
+    href: ecmascript-language-lexical-grammar/automatic-semicolon-insertion.md
+- name: "13. ECMAScript Language: Expressions"
+  href: ecmascript-language-expressions/index.md
+  items:
+  - name: "13.1 Identifiers"
+    href: ecmascript-language-expressions/identifiers.md
+  - name: "13.2 Primary Expression"
+    href: ecmascript-language-expressions/primary-expression.md
+  - name: "13.3 Left-Hand-Side Expressions"
+    href: ecmascript-language-expressions/left-hand-side-expressions.md
+  - name: "13.4 Update Expressions"
+    href: ecmascript-language-expressions/update-expressions.md
+  - name: "13.5 Unary Operators"
+    href: ecmascript-language-expressions/unary-operators.md
+  - name: "13.6 Exponentiation Operator"
+    href: ecmascript-language-expressions/exponentiation-operator.md
+  - name: "13.7 Multiplicative Operators"
+    href: ecmascript-language-expressions/multiplicative-operators.md
+  - name: "13.8 Additive Operators"
+    href: ecmascript-language-expressions/additive-operators.md
+  - name: "13.9 Bitwise Shift Operators"
+    href: ecmascript-language-expressions/bitwise-shift-operators.md
+  - name: "13.10 Relational Operators"
+    href: ecmascript-language-expressions/relational-operators.md
+  - name: "13.11 Equality Operators"
+    href: ecmascript-language-expressions/equality-operators.md
+  - name: "13.12 Binary Bitwise Operators"
+    href: ecmascript-language-expressions/binary-bitwise-operators.md
+  - name: "13.13 Binary Logical Operators"
+    href: ecmascript-language-expressions/binary-logical-operators.md
+  - name: "13.14 Conditional Operator ( ? : )"
+    href: ecmascript-language-expressions/conditional-operator.md
+  - name: "13.15 Assignment Operators"
+    href: ecmascript-language-expressions/assignment-operators.md
+  - name: "13.16 Comma Operator ( , )"
+    href: ecmascript-language-expressions/comma-operator.md
+- name: "14. ECMAScript Language: Statements and Declarations"
+  href: ecmascript-language-statements-and-declarations/index.md
+  items:
+  - name: "14.1 Statement Semantics"
+    href: ecmascript-language-statements-and-declarations/statement-semantics.md
+  - name: "14.2 Block"
+    href: ecmascript-language-statements-and-declarations/block.md
+  - name: "14.3 Declarations and the Variable Statement"
+    href: ecmascript-language-statements-and-declarations/declarations-and-the-variable-statement.md
+  - name: "14.4 Empty Statement"
+    href: ecmascript-language-statements-and-declarations/empty-statement.md
+  - name: "14.5 Expression Statement"
+    href: ecmascript-language-statements-and-declarations/expression-statement.md
+  - name: "14.6 The if Statement"
+    href: ecmascript-language-statements-and-declarations/the-if-statement.md
+  - name: "14.7 Iteration Statements"
+    href: ecmascript-language-statements-and-declarations/iteration-statements.md
+  - name: "14.8 The continue Statement"
+    href: ecmascript-language-statements-and-declarations/the-continue-statement.md
+  - name: "14.9 The break Statement"
+    href: ecmascript-language-statements-and-declarations/the-break-statement.md
+  - name: "14.10 The return Statement"
+    href: ecmascript-language-statements-and-declarations/the-return-statement.md
+  - name: "14.11 The with Statement"
+    href: ecmascript-language-statements-and-declarations/the-with-statement.md
+  - name: "14.12 The switch Statement"
+    href: ecmascript-language-statements-and-declarations/the-switch-statement.md
+  - name: "14.13 Labelled Statements"
+    href: ecmascript-language-statements-and-declarations/labelled-statements.md
+  - name: "14.14 The throw Statement"
+    href: ecmascript-language-statements-and-declarations/the-throw-statement.md
+  - name: "14.15 The try Statement"
+    href: ecmascript-language-statements-and-declarations/the-try-statement.md
+  - name: "14.16 The debugger Statement"
+    href: ecmascript-language-statements-and-declarations/the-debugger-statement.md
+- name: "15. ECMAScript Language: Functions and Classes"
+  href: ecmascript-language-functions-and-classes/index.md
+  items:
+  - name: "15.1 Parameter Lists"
+    href: ecmascript-language-functions-and-classes/parameter-lists.md
+  - name: "15.2 Function Definitions"
+    href: ecmascript-language-functions-and-classes/function-definitions.md
+  - name: "15.3 Arrow Function Definitions"
+    href: ecmascript-language-functions-and-classes/arrow-function-definitions.md
+  - name: "15.4 Method Definitions"
+    href: ecmascript-language-functions-and-classes/method-definitions.md
+  - name: "15.5 Generator Function Definitions"
+    href: ecmascript-language-functions-and-classes/generator-function-definitions.md
+  - name: "15.6 Async Generator Function Definitions"
+    href: ecmascript-language-functions-and-classes/async-generator-function-definitions.md
+  - name: "15.7 Class Definitions"
+    href: ecmascript-language-functions-and-classes/class-definitions.md
+  - name: "15.8 Async Function Definitions"
+    href: ecmascript-language-functions-and-classes/async-function-definitions.md
+  - name: "15.9 Async Arrow Function Definitions"
+    href: ecmascript-language-functions-and-classes/async-arrow-function-definitions.md
+  - name: "15.10 Tail Position Calls"
+    href: ecmascript-language-functions-and-classes/tail-position-calls.md
+- name: "16. ECMAScript Language: Scripts and Modules"
+  href: ecmascript-language-scripts-and-modules/index.md
+  items:
+  - name: "16.1 Scripts"
+    href: ecmascript-language-scripts-and-modules/scripts.md
+  - name: "16.2 Modules"
+    href: ecmascript-language-scripts-and-modules/modules.md
+- name: "17. Error Handling and Language Extensions"
+  href: error-handling-and-language-extensions/index.md
+  items:
+  - name: "17.1 Forbidden Extensions"
+    href: error-handling-and-language-extensions/forbidden-extensions.md
+- name: "18. ECMAScript Standard Built-in Objects"
+  href: ecmascript-standard-built-in-objects/index.md
+- name: "19. The Global Object"
+  href: the-global-object/index.md
+  items:
+  - name: "19.1 Value Properties of the Global Object"
+    href: the-global-object/value-properties-of-the-global-object.md
+  - name: "19.2 Function Properties of the Global Object"
+    href: the-global-object/function-properties-of-the-global-object.md
+  - name: "19.3 Constructor Properties of the Global Object"
+    href: the-global-object/constructor-properties-of-the-global-object.md
+  - name: "19.4 Other Properties of the Global Object"
+    href: the-global-object/other-properties-of-the-global-object.md
+- name: "20. Fundamental Objects"
+  href: fundamental-objects/index.md
+  items:
+  - name: "20.1 Object Objects"
+    href: fundamental-objects/object-objects.md
+  - name: "20.2 Function Objects"
+    href: fundamental-objects/function-objects.md
+  - name: "20.3 Boolean Objects"
+    href: fundamental-objects/boolean-objects.md
+  - name: "20.4 Symbol Objects"
+    href: fundamental-objects/symbol-objects.md
+  - name: "20.5 Error Objects"
+    href: fundamental-objects/error-objects.md
+- name: "21. Numbers and Dates"
+  href: numbers-and-dates/index.md
+  items:
+  - name: "21.1 Number Objects"
+    href: numbers-and-dates/number-objects.md
+  - name: "21.2 BigInt Objects"
+    href: numbers-and-dates/bigint-objects.md
+  - name: "21.3 The Math Object"
+    href: numbers-and-dates/the-math-object.md
+  - name: "21.4 Date Objects"
+    href: numbers-and-dates/date-objects.md
+- name: "22. Text Processing"
+  href: text-processing/index.md
+  items:
+  - name: "22.1 String Objects"
+    href: text-processing/string-objects.md
+  - name: "22.2 RegExp (Regular Expression) Objects"
+    href: text-processing/regexp-regular-expression-objects.md
+- name: "23. Indexed Collections"
+  href: indexed-collections/index.md
+  items:
+  - name: "23.1 Array Objects"
+    href: indexed-collections/array-objects.md
+  - name: "23.2 TypedArray Objects"
+    href: indexed-collections/typedarray-objects.md
+  - name: "23.3 Uint8Array Objects"
+    href: indexed-collections/uint8array-objects.md
+- name: "24. Keyed Collections"
+  href: keyed-collections/index.md
+  items:
+  - name: "24.1 Map Objects"
+    href: keyed-collections/map-objects.md
+  - name: "24.2 Set Objects"
+    href: keyed-collections/set-objects.md
+  - name: "24.3 WeakMap Objects"
+    href: keyed-collections/weakmap-objects.md
+  - name: "24.4 WeakSet Objects"
+    href: keyed-collections/weakset-objects.md
+  - name: "24.5 Abstract Operations for Keyed Collections"
+    href: keyed-collections/abstract-operations-for-keyed-collections.md
+- name: "25. Structured Data"
+  href: structured-data/index.md
+  items:
+  - name: "25.1 ArrayBuffer Objects"
+    href: structured-data/arraybuffer-objects.md
+  - name: "25.2 SharedArrayBuffer Objects"
+    href: structured-data/sharedarraybuffer-objects.md
+  - name: "25.3 DataView Objects"
+    href: structured-data/dataview-objects.md
+  - name: "25.4 The Atomics Object"
+    href: structured-data/the-atomics-object.md
+  - name: "25.5 The JSON Object"
+    href: structured-data/the-json-object.md
+- name: "26. Managing Memory"
+  href: managing-memory/index.md
+  items:
+  - name: "26.1 WeakRef Objects"
+    href: managing-memory/weakref-objects.md
+  - name: "26.2 FinalizationRegistry Objects"
+    href: managing-memory/finalizationregistry-objects.md
+- name: "27. Control Abstraction Objects"
+  href: control-abstraction-objects/index.md
+  items:
+  - name: "27.1 Iteration"
+    href: control-abstraction-objects/iteration.md
+  - name: "27.2 Promise Objects"
+    href: control-abstraction-objects/promise-objects.md
+  - name: "27.3 GeneratorFunction Objects"
+    href: control-abstraction-objects/generatorfunction-objects.md
+  - name: "27.4 AsyncGeneratorFunction Objects"
+    href: control-abstraction-objects/asyncgeneratorfunction-objects.md
+  - name: "27.5 Generator Objects"
+    href: control-abstraction-objects/generator-objects.md
+  - name: "27.6 AsyncGenerator Objects"
+    href: control-abstraction-objects/asyncgenerator-objects.md
+  - name: "27.7 AsyncFunction Objects"
+    href: control-abstraction-objects/asyncfunction-objects.md
+- name: "28. Reflection"
+  href: reflection/index.md
+  items:
+  - name: "28.1 The Reflect Object"
+    href: reflection/the-reflect-object.md
+  - name: "28.2 Proxy Objects"
+    href: reflection/proxy-objects.md
+  - name: "28.3 Module Namespace Objects"
+    href: reflection/module-namespace-objects.md
+- name: "29. Memory Model"
+  href: memory-model/index.md
+  items:
+  - name: "29.1 Memory Model Fundamentals"
+    href: memory-model/memory-model-fundamentals.md
+  - name: "29.2 Agent Events Records"
+    href: memory-model/agent-events-records.md
+  - name: "29.3 Chosen Value Records"
+    href: memory-model/chosen-value-records.md
+  - name: "29.4 Candidate Executions"
+    href: memory-model/candidate-executions.md
+  - name: "29.5 Abstract Operations for the Memory Model"
+    href: memory-model/abstract-operations-for-the-memory-model.md
+  - name: "29.6 Relations of Candidate Executions"
+    href: memory-model/relations-of-candidate-executions.md
+  - name: "29.7 Properties of Valid Executions"
+    href: memory-model/properties-of-valid-executions.md
+  - name: "29.8 Races"
+    href: memory-model/races.md
+  - name: "29.9 Data Races"
+    href: memory-model/data-races.md
+  - name: "29.10 Data Race Freedom"
+    href: memory-model/data-race-freedom.md
+  - name: "29.11 Shared Memory Guidelines"
+    href: memory-model/shared-memory-guidelines.md
+- name: "Annex A. Grammar Summary"
+  href: grammar-summary/index.md
+  items:
+  - name: "A.1 Lexical Grammar"
+    href: grammar-summary/lexical-grammar.md
+  - name: "A.2 Expressions"
+    href: grammar-summary/expressions.md
+  - name: "A.3 Statements"
+    href: grammar-summary/statements.md
+  - name: "A.4 Functions and Classes"
+    href: grammar-summary/functions-and-classes.md
+  - name: "A.5 Scripts and Modules"
+    href: grammar-summary/scripts-and-modules.md
+  - name: "A.6 Number Conversions"
+    href: grammar-summary/number-conversions.md
+  - name: "A.7 Time Zone Offset String Format"
+    href: grammar-summary/time-zone-offset-string-format.md
+  - name: "A.8 Regular Expressions"
+    href: grammar-summary/regular-expressions.md
+- name: "Annex B. Additional ECMAScript Features for Web Browsers"
+  href: additional-ecmascript-features-for-web-browsers/index.md
+  items:
+  - name: "B.1 Additional Syntax"
+    href: additional-ecmascript-features-for-web-browsers/additional-syntax.md
+  - name: "B.2 Additional Built-in Properties"
+    href: additional-ecmascript-features-for-web-browsers/additional-built-in-properties.md
+  - name: "B.3 Other Additional Features"
+    href: additional-ecmascript-features-for-web-browsers/other-additional-features.md
+- name: "Annex C. The Strict Mode of ECMAScript"
+  href: the-strict-mode-of-ecmascript/index.md
+- name: "Annex D. Host Layering Points"
+  href: host-layering-points/index.md
+  items:
+  - name: "D.1 Host Hooks"
+    href: host-layering-points/host-hooks.md
+  - name: "D.2 Host-defined Fields"
+    href: host-layering-points/host-defined-fields.md
+  - name: "D.3 Host-defined Objects"
+    href: host-layering-points/host-defined-objects.md
+  - name: "D.4 Running Jobs"
+    href: host-layering-points/running-jobs.md
+  - name: "D.5 Internal Methods of Exotic Objects"
+    href: host-layering-points/internal-methods-of-exotic-objects.md
+  - name: "D.6 Built-in Objects and Methods"
+    href: host-layering-points/built-in-objects-and-methods.md
+- name: "Annex E. Corrections and Clarifications in ECMAScript 2015 with Possible Compatibility Impact"
+  href: corrections-and-clarifications-in-ecmascript-2015-with-possible-compat/index.md
+- name: "Annex F. Additions and Changes That Introduce Incompatibilities with Prior Editions"
+  href: additions-and-changes-that-introduce-incompatibilities-with-prior-edit/index.md

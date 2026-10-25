@@ -3,9 +3,13 @@ items:
   href: index.md
 - name: CS2023 SPD
   href: cs2023/toc.yml
+- name: CSS
+  href: css/toc.yml
 - name: GraphQL
   href: graphql/toc.yml
 - name: HTML
   href: html/index.md
+- name: JavaScript
+  href: javascript/toc.yml
 - name: MDN Web Docs
-  href: mdn-web-docs/index.md
+  href: mdn-web-docs/toc.yml

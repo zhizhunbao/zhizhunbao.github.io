@@ -1,0 +1,65 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Getting started modules"
+  href: getting-started-modules/index.md
+  items:
+  - name: "1.1 Environment setup"
+    href: getting-started-modules/environment-setup.md
+  - name: "1.2 Your first website"
+    href: getting-started-modules/your-first-website.md
+  - name: "1.3 Web standards"
+    href: getting-started-modules/web-standards.md
+  - name: "1.4 Soft skills"
+    href: getting-started-modules/soft-skills.md
+- name: "2. Core modules"
+  href: core-modules/index.md
+  items:
+  - name: "2.1 Structuring content with HTML"
+    href: core-modules/structuring-content-with-html.md
+  - name: "2.2 CSS styling basics"
+    href: core-modules/css-styling-basics.md
+  - name: "2.3 CSS text styling"
+    href: core-modules/css-text-styling.md
+  - name: "2.4 CSS layout"
+    href: core-modules/css-layout.md
+  - name: "2.5 Dynamic scripting with JavaScript"
+    href: core-modules/dynamic-scripting-with-javascript.md
+  - name: "2.6 JavaScript frameworks and libraries"
+    href: core-modules/javascript-frameworks-and-libraries.md
+  - name: "2.7 Accessibility"
+    href: core-modules/accessibility.md
+  - name: "2.8 Design for developers"
+    href: core-modules/design-for-developers.md
+  - name: "2.9 Version control"
+    href: core-modules/version-control.md
+- name: "3. Extension modules"
+  href: extension-modules/index.md
+  items:
+  - name: "3.1 Advanced JavaScript objects"
+    href: extension-modules/advanced-javascript-objects.md
+  - name: "3.2 Client-side web APIs"
+    href: extension-modules/client-side-web-apis.md
+  - name: "3.3 Asynchronous JavaScript"
+    href: extension-modules/asynchronous-javascript.md
+  - name: "3.4 Web forms"
+    href: extension-modules/web-forms.md
+  - name: "3.5 Understanding client-side tools"
+    href: extension-modules/understanding-client-side-tools.md
+  - name: "3.6 Server-side websites"
+    href: extension-modules/server-side-websites.md
+  - name: "3.7 Web performance"
+    href: extension-modules/web-performance.md
+  - name: "3.8 Testing"
+    href: extension-modules/testing.md
+- name: "4. Further resources"
+  href: further-resources/index.md
+  items:
+  - name: "4.1 How to solve common problems"
+    href: further-resources/how-to-solve-common-problems.md
+  - name: "4.2 About"
+    href: further-resources/about.md
+  - name: "4.3 Resources for educators"
+    href: further-resources/resources-for-educators.md
+  - name: "4.4 Changelog"
+    href: further-resources/changelog.md
