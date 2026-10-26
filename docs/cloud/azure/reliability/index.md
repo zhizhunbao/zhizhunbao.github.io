@@ -8,7 +8,7 @@ ms.date: 2026-10-26
 
 ## Classification
 
-![Reliability sorted into five groups, as in the table of contents of the Azure reliability documentation: Reliability guides for Azure services (16 pages); Azure regions (6 pages); Azure availability zones (4 pages); Reliability concepts (6 pages); Resources (5 pages).](media/reliability.png)
+![Reliability sorted into five groups, as in the table of contents of the Azure reliability documentation: reliability guides for Azure services, Azure regions, Azure availability zones, reliability concepts (redundancy, replication, backup) and resources.](media/reliability.png)
 
 ## Glossary
 

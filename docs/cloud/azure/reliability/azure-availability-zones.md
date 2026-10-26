@@ -1,6 +1,6 @@
 ---
 title: "3.3 Azure availability zones"
-description: "Microsoft Azure, 3.3 Azure availability zones: What are Azure availability zones?, Services with availability zone support, Single zone (zonal) resources, Enable zone resiliency."
+description: "Microsoft Azure, 3.3 Azure availability zones: not written yet."
 ms.date: 2026-10-26
 ---
 

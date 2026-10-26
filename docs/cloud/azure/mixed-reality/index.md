@@ -15,7 +15,7 @@ ms.date: 2026-10-26
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Mixed Reality**<br>混合现实 | — | — | [Microsoft, n.d., "Browse Azure products" section, Mixed Reality](https://learn.microsoft.com/en-us/azure/?product=mixed-reality) |
-| **Azure Digital Twins**<br>Azure Digital Twins | Defined in [12.2.4 Azure Digital Twins](../internet-of-things/iot-cloud-services.md). | 定义见 12.2.4 Azure Digital Twins。 | — |
+| **Azure Digital Twins**<br>Azure 数字孪生 | Defined in [12.2.4 Azure Digital Twins](../internet-of-things/iot-cloud-services.md). | 定义见 12.2.4 Azure Digital Twins。 | — |
 
 ## Coverage
 

@@ -1,6 +1,6 @@
 ---
 title: "3.1 Reliability guides for Azure services"
-description: "Microsoft Azure, 3.1 Reliability guides for Azure services: Overview, AI and machine learning, Analytics, Compute, Containers, Databases, Developer tools, DevOps, Integration, Internet of Things, Management and governance, Migration, Networking, Security, Storage, Web."
+description: "Microsoft Azure, 3.1 Reliability guides for Azure services: not written yet."
 ms.date: 2026-10-26
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "3.2 Azure regions"
-description: "Microsoft Azure, 3.2 Azure regions: What are Azure regions?, Paired and nonpaired regions, Services with multiregion support, Multiregion solutions in nonpaired regions, Nonregional Azure services, Azure regions list."
+description: "Microsoft Azure, 3.2 Azure regions: not written yet."
 ms.date: 2026-10-26
 ---
 

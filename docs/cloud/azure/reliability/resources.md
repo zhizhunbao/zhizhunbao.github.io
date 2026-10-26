@@ -1,6 +1,6 @@
 ---
 title: "3.5 Resources"
-description: "Microsoft Azure, 3.5 Resources: Azure service incident response, Service availability, Azure Reliability feature page, Reliability testing - Chaos engineering, Reliability in Microsoft Azure Well-Architected Framework."
+description: "Microsoft Azure, 3.5 Resources: not written yet."
 ms.date: 2026-10-26
 ---
 
