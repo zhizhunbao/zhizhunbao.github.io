@@ -101,6 +101,7 @@ A topic folder holds only:
   - A list of what a part does or when to use it is not boxed, except for a term added under section 6.
   - A definition found in another section of the same source is quoted with its real section.
   - A term defined elsewhere in the folder keeps its box, and its table row only links there.
+  - Several rows quoting the same sentence: fine when the sentence names several components of the part (Datacenters: servers arranged in racks, power, cooling, networking infrastructure). When the boxes are example names (US DoD Central, China East), the source is giving examples, not kinds: find the kinds in the product documentation and box those instead (2.1 Sovereign regions: Azure Government, Microsoft Azure operated by 21Vianet, Microsoft Sovereign Cloud).
   - Double quotes inside a quote become single quotes.
   - The Chinese term names are my translation, without a note.
 
