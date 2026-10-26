@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 13.1 | `zero-trust-model.md` | Zero Trust model | [AZ-900 unit: Describe Zero Trust model](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/7-describe-zero-trust-model) | 13.1.1 Verify explicitly, 13.1.2 Use least privilege access, 13.1.3 Assume breach |
 | 13.2 | `defense-in-depth.md` | Defense-in-depth | [AZ-900 unit: Describe defense-in-depth](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/8-describe-defense-depth) | 13.2.1 Physical security, 13.2.2 Identity and access, 13.2.3 Perimeter, 13.2.4 Network, 13.2.5 Compute, 13.2.6 Application, 13.2.7 Data |

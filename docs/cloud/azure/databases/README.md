@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 7.1 | `relational-data-stores.md` | Relational data stores | [Understand data models: Relational data stores](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models#relational-data-stores) | 7.1.1 SQL Database, 7.1.2 Azure SQL Managed Instance, 7.1.3 SQL Database (Hyperscale), 7.1.4 Azure Database for PostgreSQL, 7.1.5 Azure Database for MySQL, 7.1.6 SQL Database in Fabric |
 | 7.2 | `document-data-stores.md` | Document data stores | [Understand data models: Document data stores](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models#document-data-stores-); [Azure Cosmos DB overview](https://learn.microsoft.com/en-us/azure/cosmos-db/overview) | 7.2.1 Azure Cosmos DB for NoSQL, 7.2.2 Azure Cosmos DB for MongoDB, 7.2.3 Azure DocumentDB, 7.2.4 Azure Cosmos DB in Fabric |

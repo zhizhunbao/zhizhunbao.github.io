@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 8.1 | `workflows.md` | Workflows | [Azure Integration Services](https://azure.microsoft.com/en-us/solutions/integration-services); [What is Azure Logic Apps?](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview) | 8.1.1 Azure Logic Apps |
 | 8.2 | `api-management.md` | API management | [Azure Integration Services](https://azure.microsoft.com/en-us/solutions/integration-services); [Azure API Management overview](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts) | 8.2.1 Azure API Management |

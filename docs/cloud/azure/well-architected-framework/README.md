@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 17.1 | `reliability.md` | Reliability | [Reliability design principles](https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles) | 17.1.1 Design for business requirements, 17.1.2 Design for resilience, 17.1.3 Design for recovery, 17.1.4 Design for operations, 17.1.5 Keep it simple |
 | 17.2 | `security.md` | Security | [Security design principles](https://learn.microsoft.com/en-us/azure/well-architected/security/principles) | 17.2.1 Plan your security readiness, 17.2.2 Design to protect confidentiality, 17.2.3 Design to protect integrity, 17.2.4 Design to protect availability, 17.2.5 Sustain and evolve your security posture |

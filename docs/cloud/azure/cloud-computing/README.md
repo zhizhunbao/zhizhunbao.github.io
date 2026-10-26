@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 1.1 | `deployment-models.md` | Deployment models | [AZ-900 unit: Define cloud models](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/5-define-cloud-models); [Azure: Types of cloud computing](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/types-of-cloud-computing); [NIST SP 800-145, The NIST Definition of Cloud Computing](https://doi.org/10.6028/NIST.SP.800-145) | 1.1.1 Private cloud, 1.1.2 Community cloud, 1.1.3 Public cloud, 1.1.4 Hybrid cloud, 1.1.5 Multicloud |
 | 1.2 | `service-models.md` | Service models | [AZ-900 module: Describe cloud service types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/); [AZ-900 unit: Describe the shared responsibility model](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/4-describe-shared-responsibility-model); [Azure: Types of cloud computing](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/types-of-cloud-computing); [NIST SP 800-145, The NIST Definition of Cloud Computing](https://doi.org/10.6028/NIST.SP.800-145) | 1.2.1 Infrastructure as a service (IaaS), 1.2.2 Platform as a service (PaaS), 1.2.3 Software as a service (SaaS), 1.2.4 Shared responsibility model |

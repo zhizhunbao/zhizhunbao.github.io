@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 19.1 | `architecture-styles.md` | Architecture styles | [Architecture styles](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/) | 19.1.1 N-tier, 19.1.2 Web-Queue-Worker, 19.1.3 Microservices, 19.1.4 Event-driven architecture, 19.1.5 Big data, 19.1.6 Big compute |
 | 19.2 | `best-practices.md` | Best practices | [Best practices in cloud applications](https://learn.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices) | 19.2.1 API design, 19.2.2 API implementation, 19.2.3 Autoscaling, 19.2.4 Background jobs, 19.2.5 Caching, 19.2.6 Content Delivery Network, 19.2.7 Data partitioning, 19.2.8 Data partitioning strategies, 19.2.9 Host name preservation, 19.2.10 Message encoding considerations, 19.2.11 Monitoring and diagnostics, 19.2.12 Transient fault handling |

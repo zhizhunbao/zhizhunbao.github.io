@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 6.1 | `storage-accounts.md` | Storage accounts | [AZ-900 unit: Describe Azure storage accounts](https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/2-accounts) | 6.1.1 Standard general-purpose v2, 6.1.2 Premium block blobs, 6.1.3 Premium file shares, 6.1.4 Premium page blobs, 6.1.5 Storage account endpoints |
 | 6.2 | `storage-redundancy.md` | Storage redundancy | [AZ-900 unit: Describe Azure storage redundancy](https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/3-redundancy) | 6.2.1 Locally redundant storage (LRS), 6.2.2 Zone-redundant storage (ZRS), 6.2.3 Geo-redundant storage (GRS), 6.2.4 Geo-zone-redundant storage (GZRS), 6.2.5 Read-access GRS (RA-GRS), 6.2.6 Read-access GZRS (RA-GZRS) |

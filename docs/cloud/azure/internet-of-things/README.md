@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 10.1 | `iot-devices.md` | IoT devices | [Introduction to Azure IoT: IoT device categories](https://learn.microsoft.com/en-us/azure/iot/iot-introduction#iot-device-categories) | 10.1.1 Cloud-connected device, 10.1.2 Edge-connected device, 10.1.3 Protocol-specific device |
 | 10.2 | `iot-cloud-services.md` | IoT cloud services | [Introduction to Azure IoT: IoT services comparisons](https://learn.microsoft.com/en-us/azure/iot/iot-introduction#iot-services-comparisons) | 10.2.1 Azure IoT Hub, 10.2.2 Device Provisioning Service, 10.2.3 Device Update for IoT Hub, 10.2.4 Azure Digital Twins, 10.2.5 Azure Device Registry, 10.2.6 Azure IoT Central |

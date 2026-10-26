@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 12.1 | `directory-services.md` | Directory services | [AZ-900 unit: Describe Azure directory services](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/2-directory-services) | 12.1.1 Microsoft Entra ID, 12.1.2 Microsoft Entra Connect, 12.1.3 Microsoft Entra Domain Services |
 | 12.2 | `authentication-methods.md` | Authentication methods | [AZ-900 unit: Describe Azure authentication methods](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/3-authentication-methods) | 12.2.1 Single sign-on (SSO), 12.2.2 Multifactor authentication (MFA), 12.2.3 Passwordless authentication |

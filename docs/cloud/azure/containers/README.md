@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 4.1 | `docker.md` | Docker | [Docker terminology](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/docker-terminology) | 4.1.1 Container image, 4.1.2 Dockerfile, 4.1.3 Build, 4.1.4 Volumes, 4.1.5 Tag, 4.1.6 Multi-stage build, 4.1.7 Repository, 4.1.8 Registry, 4.1.9 Multi-arch image, 4.1.10 Docker Hub, 4.1.11 Compose |
 | 4.2 | `kubernetes.md` | Kubernetes | [Core Kubernetes concepts for Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/core-aks-concepts) | 4.2.1 Cluster, 4.2.2 Control plane, 4.2.3 Nodes, 4.2.4 Pods, 4.2.5 Node pools, 4.2.6 Namespaces |

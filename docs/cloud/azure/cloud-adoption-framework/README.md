@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 18.1 | `strategy.md` | Strategy | [Cloud Adoption Framework: Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/) | 18.1.1 Motivations, mission and objectives, 18.1.2 Strategy team, 18.1.3 Prepare your organization, 18.1.4 Inform your strategy |
 | 18.2 | `plan.md` | Plan | [Cloud Adoption Framework: Plan](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/) | 18.2.1 Define operating model, 18.2.2 Gain cloud skills, 18.2.3 Plan migration, 18.2.4 Estimate cloud costs, 18.2.5 Document adoption plan |

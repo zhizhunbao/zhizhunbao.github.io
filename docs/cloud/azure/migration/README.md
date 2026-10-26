@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 16.1 | `migration-strategies.md` | Migration strategies | [Select your cloud migration strategies](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/select-cloud-migration-strategy) | 16.1.1 Retire, 16.1.2 Rehost, 16.1.3 Replatform, 16.1.4 Refactor, 16.1.5 Rearchitect, 16.1.6 Replace, 16.1.7 Rebuild, 16.1.8 Retain |
 | 16.2 | `decide.md` | Decide | [About Azure Migrate: Decide](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#decide) | 16.2.1 Azure Migrate appliance, 16.2.2 Azure Migrate Collector, 16.2.3 Business case |

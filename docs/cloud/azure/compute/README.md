@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 3.1 | `infrastructure-as-a-service.md` | Infrastructure as a service (IaaS) | [Azure Architecture Center: Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) | 3.1.1 Virtual Machines, 3.1.2 Virtual Machine Scale Sets, 3.1.3 Azure Spot Virtual Machines, 3.1.4 Azure VMware Solution |
 | 3.2 | `platform-as-a-service.md` | Platform as a service (PaaS) | [Azure Architecture Center: Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) | 3.2.1 Azure App Service, 3.2.2 Azure Kubernetes Service (AKS), 3.2.3 Azure Kubernetes Fleet Manager, 3.2.4 Azure Container Apps, 3.2.5 Azure Container Instances, 3.2.6 Azure Red Hat OpenShift, 3.2.7 Azure Batch, 3.2.8 Azure Static Web Apps, 3.2.9 Azure Spring Apps, 3.2.10 Azure Cloud Services (extended support) |

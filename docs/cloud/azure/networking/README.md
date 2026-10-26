@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 5.1 | `networking-foundation.md` | Networking foundation | [Azure networking services overview](https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview) | 5.1.1 Virtual Network, 5.1.2 Azure Private Link, 5.1.3 Azure DNS, 5.1.4 Azure Bastion, 5.1.5 Azure Route Server, 5.1.6 NAT Gateway, 5.1.7 Traffic Manager |
 | 5.2 | `load-balancing-and-content-delivery.md` | Load balancing and content delivery | [Azure networking services overview](https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview) | 5.2.1 Load Balancer, 5.2.2 Application Gateway, 5.2.3 Azure Front Door |

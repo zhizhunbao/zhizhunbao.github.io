@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 14.1 | `cost-management.md` | Cost management | [AZ-900 module: Describe cost management in Azure](https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/) | 14.1.1 Factors that affect costs, 14.1.2 Pricing calculator, 14.1.3 Microsoft Cost Management, 14.1.4 Tags, 14.1.5 Cost optimization options |
 | 14.2 | `governance-and-compliance.md` | Governance and compliance | [AZ-900 module: Describe features and tools in Azure for governance and compliance](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/) | 14.2.1 Microsoft Purview, 14.2.2 Azure Policy, 14.2.3 Resource locks, 14.2.4 Service Trust Portal |

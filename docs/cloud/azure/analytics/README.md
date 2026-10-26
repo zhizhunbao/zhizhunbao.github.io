@@ -4,7 +4,7 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-| No. | File | Title (group name in the figure) | Sources | Allowed sections (H2 = the parts in the figure, in figure order) |
+| No. | File | Title (group name in the figure) | Sources | Allowed sections (the groups of the sub-page figure, in figure order) |
 |---|---|---|---|---|
 | 9.1 | `data-storage.md` | Data storage | [Big data architectures: Data storage](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture) | 9.1.1 Azure Data Lake Storage, 9.1.2 OneLake |
 | 9.2 | `batch-processing.md` | Batch processing | [Big data architectures: Batch processing](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#components-of-a-big-data-architecture); [Azure documentation: Analytics](https://learn.microsoft.com/en-us/azure/?product=analytics) | 9.2.1 Azure Databricks, 9.2.2 Fabric notebooks, 9.2.3 Azure HDInsight |
