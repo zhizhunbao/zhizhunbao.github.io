@@ -1,14 +1,14 @@
 ---
-title: "6. Storage"
-description: "Microsoft Azure, 6. Storage: storage accounts, storage redundancy, storage services, data migration options and file movement options."
+title: "8. Storage"
+description: "Microsoft Azure, 8. Storage: storage accounts, storage redundancy, storage services, data migration options and file movement options."
 ms.date: 2026-10-22
 ---
 
-# 6. Storage
+# 8. Storage
 
 ## Classification
 
-![Storage sorted into the five units of the AZ-900 storage module: storage accounts, storage redundancy, storage services, data migration options and file movement options. Grey: not taught in a course yet.](media/storage.png)
+![Storage sorted into the five units of the AZ-900 storage module: storage accounts, storage redundancy, storage services, data migration options and file movement options.](media/storage.png)
 
 ## Glossary
 

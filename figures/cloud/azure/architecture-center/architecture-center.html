@@ -1,0 +1,85 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 20px; align-items: stretch; }
+  .row + .row { margin-top: 20px; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { min-width: 390px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 6px; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Azure Architecture Center</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Architecture styles</div>
+        <div class="item">N-tier</div>
+        <div class="item">Web-Queue-Worker</div>
+        <div class="item">Microservices</div>
+        <div class="item">Event-driven architecture</div>
+        <div class="item">Big data</div>
+        <div class="item">Big compute</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Best practices</div>
+        <div class="item">API design</div>
+        <div class="item">API implementation</div>
+        <div class="item">Autoscaling</div>
+        <div class="item">Background jobs</div>
+        <div class="item">Caching</div>
+        <div class="item">Content Delivery Network</div>
+        <div class="item">Data partitioning</div>
+        <div class="item">Data partitioning strategies</div>
+        <div class="item">Host name preservation</div>
+        <div class="item">Message encoding considerations</div>
+        <div class="item">Monitoring and diagnostics</div>
+        <div class="item">Transient fault handling</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Cloud design patterns</div>
+        <div class="item">Cache-Aside</div>
+        <div class="item">Circuit Breaker</div>
+        <div class="item">Competing Consumers</div>
+        <div class="item">Event Sourcing</div>
+        <div class="item">Gateway Aggregation</div>
+        <div class="item">Gateway Offloading</div>
+        <div class="item">Gateway Routing</div>
+        <div class="item">Publisher-Subscriber</div>
+        <div class="item">Queue-Based Load Leveling</div>
+        <div class="item">Retry</div>
+        <div class="item">Sharding</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Technology choices</div>
+        <div class="item">Compute</div>
+        <div class="item">Data stores</div>
+        <div class="item">Messaging</div>
+        <div class="item">AI</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Architectures</div>
+        <div class="item">Solution ideas</div>
+        <div class="item">Example workloads</div>
+        <div class="item">Reference architectures</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>

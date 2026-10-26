@@ -6,7 +6,7 @@ This README is the contract for the folder. It is not published (`docfx.json` ex
 
 - The aim is the complete official Azure documentation, not one course or one exam.
 - Content is organised by official topic, never by course or week, so each term is written once in the whole folder. Other places link to it.
-- It is built one term at a time (section 6), so some parts stay unfinished for a while; the figures show which (section 4).
+- It is built one term at a time (section 6), so some parts stay unfinished for a while.
 
 ## 2. Sources
 
@@ -20,31 +20,39 @@ This README is the contract for the folder. It is not published (`docfx.json` ex
 
 ## 3. Topics (level 1: folders)
 
-Only the folders below may exist, in this order. The number is the learning order: a topic comes after the topics it builds on. Names are the official names, word for word: the AZ-900 learning path and module names, the product categories of the [Azure documentation](https://learn.microsoft.com/en-us/azure/) home page (checked on 2026-10-21), and the names of the three Microsoft documentation sets. A new folder needs an official name from those sources.
+Only the folders below may exist, in this order. The number is the learning order: a topic comes after the topics it builds on. Names are the official names, word for word: the AZ-900 learning path and module names, the product categories of the [Azure documentation](https://learn.microsoft.com/en-us/azure/) home page (checked on 2026-10-21), and the names of four Microsoft documentation sets (Azure reliability documentation, which sits directly under Azure with no product category, and the three architecture sets). A new folder needs an official name from those sources.
 
 | No. | Folder | Title | Figure | Source |
 |---|---|---|---|---|
 | 1 | `cloud-computing/` | Cloud computing | classification | [AZ-900 learning path: Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/); [NIST SP 800-145, The NIST Definition of Cloud Computing](https://csrc.nist.gov/pubs/sp/800/145/final); [NIST SP 500-292, NIST Cloud Computing Reference Architecture](https://www.nist.gov/publications/nist-cloud-computing-reference-architecture) |
 | 2 | `core-architectural-components/` | Core architectural components of Azure | classification | [AZ-900 module: Describe the core architectural components of Azure](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/) |
-| 3 | `compute/` | Compute | classification | [Azure documentation: Compute](https://learn.microsoft.com/en-us/azure/?product=compute) |
-| 4 | `containers/` | Containers | classification | [Azure documentation: Containers](https://learn.microsoft.com/en-us/azure/?product=containers) |
-| 5 | `networking/` | Networking | classification | [Azure documentation: Networking](https://learn.microsoft.com/en-us/azure/?product=networking) |
-| 6 | `storage/` | Storage | classification | [Azure documentation: Storage](https://learn.microsoft.com/en-us/azure/?product=storage) |
-| 7 | `databases/` | Databases | classification | [Azure documentation: Databases](https://learn.microsoft.com/en-us/azure/?product=databases); [Azure Architecture Center: Understand data models](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models) |
-| 8 | `integration/` | Integration | classification | [Azure documentation: Integration](https://learn.microsoft.com/en-us/azure/?product=integration); [Azure Integration Services](https://azure.microsoft.com/en-us/solutions/integration-services); [Compare messaging services](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services) |
-| 9 | `analytics/` | Analytics | classification | [Azure documentation: Analytics](https://learn.microsoft.com/en-us/azure/?product=analytics); [Azure Architecture Center: Big data architectures](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures) |
-| 10 | `internet-of-things/` | Internet of Things | classification | [Azure documentation: Internet of Things](https://learn.microsoft.com/en-us/azure/?product=iot); [Introduction to Azure IoT](https://learn.microsoft.com/en-us/azure/iot/iot-introduction) |
-| 11 | `ai-machine-learning/` | AI + Machine Learning | classification | [Azure documentation: AI + Machine Learning](https://learn.microsoft.com/en-us/azure/?product=ai-machine-learning); [Azure Architecture Center: Get started with AI architecture design](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/ai-get-started) |
-| 12 | `identity/` | Identity | classification | [Azure documentation: Identity](https://learn.microsoft.com/en-us/azure/?product=identity); [AZ-900 module: Describe Azure identity, access, and security](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/) |
-| 13 | `security/` | Security | classification | [Azure documentation: Security](https://learn.microsoft.com/en-us/azure/?product=security); [AZ-900 module: Describe Azure identity, access, and security](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/) |
-| 14 | `management-and-governance/` | Management and Governance | classification | [Azure documentation: Management and Governance](https://learn.microsoft.com/en-us/azure/?product=management-and-governance); [AZ-900 learning path: Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/) |
-| 15 | `devops/` | DevOps | classification | [Azure documentation: DevOps](https://learn.microsoft.com/en-us/azure/?product=devops); [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops) |
-| 16 | `migration/` | Migration | classification | [Azure documentation: Migration](https://learn.microsoft.com/en-us/azure/?product=migration); [About Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview); [Select your cloud migration strategies](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/select-cloud-migration-strategy) |
-| 17 | `well-architected-framework/` | Azure Well-Architected Framework | classification | [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) |
-| 18 | `cloud-adoption-framework/` | Cloud Adoption Framework for Azure | classification | [Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) |
-| 19 | `architecture-center/` | Azure Architecture Center | classification | [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/); [Azure application architecture fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/) |
+| 3 | `reliability/` | Reliability | classification | [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/) |
+| 4 | `compute/` | Compute | classification | [Azure documentation: Compute](https://learn.microsoft.com/en-us/azure/?product=compute) |
+| 5 | `containers/` | Containers | classification | [Azure documentation: Containers](https://learn.microsoft.com/en-us/azure/?product=containers) |
+| 6 | `web/` | Web | classification | [Azure documentation: Web](https://learn.microsoft.com/en-us/azure/?product=web) |
+| 7 | `networking/` | Networking | classification | [Azure documentation: Networking](https://learn.microsoft.com/en-us/azure/?product=networking) |
+| 8 | `storage/` | Storage | classification | [Azure documentation: Storage](https://learn.microsoft.com/en-us/azure/?product=storage) |
+| 9 | `databases/` | Databases | classification | [Azure documentation: Databases](https://learn.microsoft.com/en-us/azure/?product=databases); [Azure Architecture Center: Understand data models](https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models) |
+| 10 | `integration/` | Integration | classification | [Azure documentation: Integration](https://learn.microsoft.com/en-us/azure/?product=integration); [Azure Integration Services](https://azure.microsoft.com/en-us/solutions/integration-services); [Compare messaging services](https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services) |
+| 11 | `analytics/` | Analytics | classification | [Azure documentation: Analytics](https://learn.microsoft.com/en-us/azure/?product=analytics); [Azure Architecture Center: Big data architectures](https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures) |
+| 12 | `internet-of-things/` | Internet of Things | classification | [Azure documentation: Internet of Things](https://learn.microsoft.com/en-us/azure/?product=iot); [Introduction to Azure IoT](https://learn.microsoft.com/en-us/azure/iot/iot-introduction) |
+| 13 | `ai-machine-learning/` | AI + Machine Learning | classification | [Azure documentation: AI + Machine Learning](https://learn.microsoft.com/en-us/azure/?product=ai-machine-learning); [Azure Architecture Center: Get started with AI architecture design](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/ai-get-started) |
+| 14 | `media-category/` | Media | classification | [Azure documentation: Media](https://learn.microsoft.com/en-us/azure/?product=media) |
+| 15 | `mixed-reality/` | Mixed Reality | classification | [Azure documentation: Mixed Reality](https://learn.microsoft.com/en-us/azure/?product=mixed-reality) |
+| 16 | `mobile/` | Mobile | classification | [Azure documentation: Mobile](https://learn.microsoft.com/en-us/azure/?product=mobile) |
+| 17 | `identity/` | Identity | classification | [Azure documentation: Identity](https://learn.microsoft.com/en-us/azure/?product=identity); [AZ-900 module: Describe Azure identity, access, and security](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/) |
+| 18 | `security/` | Security | classification | [Azure documentation: Security](https://learn.microsoft.com/en-us/azure/?product=security); [AZ-900 module: Describe Azure identity, access, and security](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/) |
+| 19 | `virtual-desktop-infrastructure/` | Virtual Desktop Infrastructure | classification | [Azure documentation: Virtual Desktop Infrastructure](https://learn.microsoft.com/en-us/azure/?product=azure-virtual-desktop) |
+| 20 | `management-and-governance/` | Management and Governance | classification | [Azure documentation: Management and Governance](https://learn.microsoft.com/en-us/azure/?product=management-and-governance); [AZ-900 learning path: Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/) |
+| 21 | `hybrid-multicloud/` | Hybrid + multicloud | classification | [Azure documentation: Hybrid + multicloud](https://learn.microsoft.com/en-us/azure/?product=hybrid) |
+| 22 | `developer-tools/` | Developer Tools | classification | [Azure documentation: Developer Tools](https://learn.microsoft.com/en-us/azure/?product=developer-tools) |
+| 23 | `devops/` | DevOps | classification | [Azure documentation: DevOps](https://learn.microsoft.com/en-us/azure/?product=devops); [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops) |
+| 24 | `migration/` | Migration | classification | [Azure documentation: Migration](https://learn.microsoft.com/en-us/azure/?product=migration); [About Azure Migrate](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview); [Select your cloud migration strategies](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/select-cloud-migration-strategy) |
+| 25 | `well-architected-framework/` | Azure Well-Architected Framework | classification | [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) |
+| 26 | `cloud-adoption-framework/` | Cloud Adoption Framework for Azure | classification | [Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) |
+| 27 | `architecture-center/` | Azure Architecture Center | classification | [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/); [Azure application architecture fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/) |
 
-No folder yet: Developer Tools, Hybrid + multicloud, Media, Mixed Reality, Mobile, Virtual Desktop Infrastructure, Web (App Service sits under Compute, as in AZ-900).
+All the product categories of the Azure documentation home page have a folder. Media is in `media-category/`, because `media/` holds the figures in every folder. App Service sits under Compute, as in AZ-900.
 
 A topic folder holds only:
 
@@ -59,7 +67,7 @@ A topic folder holds only:
 - `## Classification`: one classification figure.
   - An outer frame named after the topic (top left) holds its parts, grouped by kind in dashed groups. Names only, no connecting lines, no section numbers.
   - Inside a group the boxes follow one order you can name: small to large when the parts contain each other (datacenters, availability zones, regions, region pairs), otherwise the order of the official source.
-  - Blue solid box: the part is complete: its sub-page has a box and a table row for every term its listed sources present as a component or kind of it. Grey dashed box: still to be filled in (sub-page not written, or written in part, for example after a new source was listed). Grey boxes are the to-do list.
+  - Every box is blue (solid blue border, light blue fill). The figure does not show which parts are finished; an unwritten page says "Not written yet."
 - `## Glossary`: one table, `Term | Definition | 中文翻译 | Source`.
   - First row: the topic name framed at the top left of the figure. Then one row per group in the figure, in figure order, each group linking to its sub-page.
   - Definition: the official definition quoted, key words bolded. 中文翻译: the Chinese translation, the same key words bolded in the same order. Source: section and paragraph.
@@ -89,7 +97,7 @@ A topic folder holds only:
 - The boxes in a group: every noun that the page's listed sources present as a component or a kind of that part, in the source's words (never shortened) and in the source's order. A word is not left out for looking ordinary: in context it has its own meaning ("dedicated power, cooling, and networking").
 - The table: one row per box, in figure order, `Term | Definition | 中文解释 | Source`. Where the source defines the term, the Definition quotes that definition; where it only mentions the term, it quotes the sentence where the term appears, marked "(context)". The Source gives section, paragraph and `#:~:text=` anchor.
 - Default cases (follow them without asking; ask only about a case not listed):
-  - Where the source gives a part no components or kinds, the parts themselves are the boxes inside the outer frame (16.1 to 16.4).
+  - Where the source gives a part no components or kinds, the parts themselves are the boxes inside the outer frame (24.1 to 24.4).
   - A list of what a part does or when to use it is not boxed, except for a term added under section 6.
   - A definition found in another section of the same source is quoted with its real section.
   - A term defined elsewhere in the folder keeps its box, and its table row only links there.
@@ -107,7 +115,7 @@ When I meet a new term (in a lecture, a slide, a lab):
 
 ## 7. Figures
 
-- `media/`: the figures, drawn by us (no copied images). Each has an HTML source in `figures/` at the repo root, rendered to PNG with `figures/shot.py` (see the repository README, "Figures"). Older figures were drawn in draw.io and have no source yet.
+- `media/`: the figures, drawn by us (no copied images). Each has an HTML source in `figures/` at the repo root, rendered to PNG with `figures/shot.py` (see the repository README, "Figures"). Every figure in this folder has its source there.
 - Names only, no section numbers; the table under the topic figure maps them to sub-pages.
 - Green step circles only on process figures (see `figure_rules.md` in the cloud notes repo).
 

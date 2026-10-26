@@ -1,14 +1,14 @@
 ---
-title: "16. Migration"
-description: "Microsoft Azure, 16. Migration: migration strategies, and the decide, plan and execute phases of Azure Migrate."
+title: "24. Migration"
+description: "Microsoft Azure, 24. Migration: migration strategies, and the decide, plan and execute phases of Azure Migrate."
 ms.date: 2026-10-24
 ---
 
-# 16. Migration
+# 24. Migration
 
 ## Classification
 
-![Migration sorted into the Cloud Adoption Framework's migration strategies, then the three migration phases of Azure Migrate (decide, plan, execute) with what Azure Migrate offers in each. Grey: not taught in a course yet.](media/migration.png)
+![Migration sorted into the Cloud Adoption Framework's migration strategies, then the three migration phases of Azure Migrate (decide, plan, execute) with what Azure Migrate offers in each.](media/migration.png)
 
 ## Glossary
 

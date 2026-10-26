@@ -13,7 +13,7 @@ Planned, no content yet. The pages under this one will follow this source's own 
 | Official source | [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/) |
 | Publisher | Microsoft |
 
-The Azure Architecture Center topic already exists in the Cloud section: [19. Azure Architecture Center](../../cloud/azure/architecture-center/index.md).
+The Azure Architecture Center topic already exists in the Cloud section: [27. Azure Architecture Center](../../cloud/azure/architecture-center/index.md).
 
 ## References
 

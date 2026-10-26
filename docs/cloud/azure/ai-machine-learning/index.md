@@ -1,14 +1,14 @@
 ---
-title: "11. AI + Machine Learning"
-description: "Microsoft Azure, 11. AI + Machine Learning: AI development platforms, prebuilt AI services, data platforms for AI and enterprise intelligence layers."
+title: "13. AI + Machine Learning"
+description: "Microsoft Azure, 13. AI + Machine Learning: AI development platforms, prebuilt AI services, data platforms for AI and enterprise intelligence layers."
 ms.date: 2026-10-24
 ---
 
-# 11. AI + Machine Learning
+# 13. AI + Machine Learning
 
 ## Classification
 
-![AI + Machine Learning sorted into the four kinds of Azure services for AI in the Architecture Center's getting-started guide: AI development platforms, prebuilt AI services, data platforms for AI and enterprise intelligence layers. Grey: not taught in a course yet.](media/ai-machine-learning.png)
+![AI + Machine Learning sorted into the four kinds of Azure services for AI in the Architecture Center's getting-started guide: AI development platforms, prebuilt AI services, data platforms for AI and enterprise intelligence layers.](media/ai-machine-learning.png)
 
 ## Glossary
 

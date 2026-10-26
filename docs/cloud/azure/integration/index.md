@@ -1,14 +1,14 @@
 ---
-title: "8. Integration"
-description: "Microsoft Azure, 8. Integration: workflows, API management, messages and events."
+title: "10. Integration"
+description: "Microsoft Azure, 10. Integration: workflows, API management, messages and events."
 ms.date: 2026-10-24
 ---
 
-# 8. Integration
+# 10. Integration
 
 ## Classification
 
-![Integration sorted into four groups: workflows and API management from the Azure Integration Services portfolio, then messages and events, the split that the comparison of Azure messaging services draws. Grey: not taught in a course yet.](media/integration.png)
+![Integration sorted into four groups: workflows and API management from the Azure Integration Services portfolio, then messages and events, the split that the comparison of Azure messaging services draws.](media/integration.png)
 
 ## Glossary
 

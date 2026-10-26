@@ -1,14 +1,14 @@
 ---
-title: "12. Identity"
-description: "Microsoft Azure, 12. Identity: directory services, authentication methods, external identities, Conditional Access and role-based access control."
+title: "17. Identity"
+description: "Microsoft Azure, 17. Identity: directory services, authentication methods, external identities, Conditional Access and role-based access control."
 ms.date: 2026-10-24
 ---
 
-# 12. Identity
+# 17. Identity
 
 ## Classification
 
-![Identity sorted into the five identity units of the AZ-900 identity, access and security module: directory services, authentication methods, external identities, Conditional Access and role-based access control. Grey: not taught in a course yet.](media/identity.png)
+![Identity sorted into the five identity units of the AZ-900 identity, access and security module: directory services, authentication methods, external identities, Conditional Access and role-based access control.](media/identity.png)
 
 ## Glossary
 

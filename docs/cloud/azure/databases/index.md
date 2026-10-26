@@ -1,14 +1,14 @@
 ---
-title: "7. Databases"
-description: "Microsoft Azure, 7. Databases: relational, document, column-family, key-value, graph and time-series data stores."
+title: "9. Databases"
+description: "Microsoft Azure, 9. Databases: relational, document, column-family, key-value, graph and time-series data stores."
 ms.date: 2026-10-24
 ---
 
-# 7. Databases
+# 9. Databases
 
 ## Classification
 
-![Databases sorted into the six database models of the Architecture Center's data models guide: relational, document, column-family, key-value, graph and time-series data stores, with the Azure services for each. Grey: not taught in a course yet.](media/databases.png)
+![Databases sorted into the six database models of the Architecture Center's data models guide: relational, document, column-family, key-value, graph and time-series data stores, with the Azure services for each.](media/databases.png)
 
 ## Glossary
 

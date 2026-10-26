@@ -8,7 +8,7 @@ ms.date: 2026-10-21
 
 ## Classification
 
-![Cloud computing sorted into six groups: deployment models, service models, actors, essential characteristics, benefits and the consumption-based model. Predictability and manageability are grey: not taught in a course yet.](media/cloud-computing.png)
+![Cloud computing sorted into six groups: deployment models, service models, actors, essential characteristics, benefits and the consumption-based model.](media/cloud-computing.png)
 
 ## Glossary
 

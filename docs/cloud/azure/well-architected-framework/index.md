@@ -1,14 +1,14 @@
 ---
-title: "17. Azure Well-Architected Framework"
-description: "Microsoft Azure, 17. Azure Well-Architected Framework: the five pillars (reliability, security, cost optimization, operational excellence, performance efficiency) and their design principles."
+title: "25. Azure Well-Architected Framework"
+description: "Microsoft Azure, 25. Azure Well-Architected Framework: the five pillars (reliability, security, cost optimization, operational excellence, performance efficiency) and their design principles."
 ms.date: 2026-10-24
 ---
 
-# 17. Azure Well-Architected Framework
+# 25. Azure Well-Architected Framework
 
 ## Classification
 
-![The Azure Well-Architected Framework sorted into its five pillars, each with its design principles. Grey: not taught in a course yet; the courses name the pillars only.](media/well-architected-framework.png)
+![The Azure Well-Architected Framework sorted into its five pillars, each with its design principles.](media/well-architected-framework.png)
 
 ## Glossary
 

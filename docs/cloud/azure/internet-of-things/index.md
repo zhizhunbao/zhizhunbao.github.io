@@ -1,14 +1,14 @@
 ---
-title: "10. Internet of Things"
-description: "Microsoft Azure, 10. Internet of Things: IoT devices, IoT cloud services and edge runtime."
+title: "12. Internet of Things"
+description: "Microsoft Azure, 12. Internet of Things: IoT devices, IoT cloud services and edge runtime."
 ms.date: 2026-10-24
 ---
 
-# 10. Internet of Things
+# 12. Internet of Things
 
 ## Classification
 
-![Internet of Things sorted into the three key groups of components that the Azure IoT introduction names: IoT devices, IoT cloud services for the cloud-connected pattern, and the edge runtime for the edge-connected pattern. Grey: not taught in a course yet.](media/internet-of-things.png)
+![Internet of Things sorted into the three key groups of components that the Azure IoT introduction names: IoT devices, IoT cloud services for the cloud-connected pattern, and the edge runtime for the edge-connected pattern.](media/internet-of-things.png)
 
 ## Glossary
 

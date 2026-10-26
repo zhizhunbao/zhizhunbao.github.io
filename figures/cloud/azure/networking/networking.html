@@ -1,0 +1,77 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 20px; align-items: stretch; }
+  .row + .row { margin-top: 20px; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { min-width: 390px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 6px; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Networking</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Networking foundation</div>
+        <div class="item">Virtual Network</div>
+        <div class="item">Azure Private Link</div>
+        <div class="item">Azure DNS</div>
+        <div class="item">Azure Bastion</div>
+        <div class="item">Azure Route Server</div>
+        <div class="item">NAT Gateway</div>
+        <div class="item">Traffic Manager</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Load balancing and content delivery</div>
+        <div class="item">Load Balancer</div>
+        <div class="item">Application Gateway</div>
+        <div class="item">Azure Front Door</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Hybrid connectivity</div>
+        <div class="item">VPN Gateway</div>
+        <div class="item">ExpressRoute</div>
+        <div class="item">Virtual WAN</div>
+        <div class="item">Peering Service</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Network security</div>
+        <div class="item">Firewall Manager</div>
+        <div class="item">Azure Firewall</div>
+        <div class="item">Web Application Firewall</div>
+        <div class="item">DDoS Protection</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Network management and monitoring</div>
+        <div class="item">Azure Network Watcher</div>
+        <div class="item">Azure Monitor</div>
+        <div class="item">Azure Virtual Network Manager</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Container networking</div>
+        <div class="item">Container network security</div>
+        <div class="item">Container network observability</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>

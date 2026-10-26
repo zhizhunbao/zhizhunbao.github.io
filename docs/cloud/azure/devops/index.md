@@ -1,14 +1,14 @@
 ---
-title: "15. DevOps"
-description: "Microsoft Azure, 15. DevOps: the plan, develop, deliver and operate phases of the application lifecycle, with their practices and tools."
+title: "23. DevOps"
+description: "Microsoft Azure, 23. DevOps: the plan, develop, deliver and operate phases of the application lifecycle, with their practices and tools."
 ms.date: 2026-10-24
 ---
 
-# 15. DevOps
+# 23. DevOps
 
 ## Classification
 
-![DevOps sorted into the four phases of the application lifecycle: plan, develop, deliver and operate, each with its practices and then its tools. Grey: not taught in a course yet.](media/devops.png)
+![DevOps sorted into the four phases of the application lifecycle: plan, develop, deliver and operate, each with its practices and then its tools.](media/devops.png)
 
 ## Glossary
 

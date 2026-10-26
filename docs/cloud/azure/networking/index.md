@@ -1,14 +1,14 @@
 ---
-title: "5. Networking"
-description: "Microsoft Azure, 5. Networking: networking foundation, load balancing and content delivery, hybrid connectivity, network security, network management and monitoring, and container networking."
+title: "7. Networking"
+description: "Microsoft Azure, 7. Networking: networking foundation, load balancing and content delivery, hybrid connectivity, network security, network management and monitoring, and container networking."
 ms.date: 2026-10-22
 ---
 
-# 5. Networking
+# 7. Networking
 
 ## Classification
 
-![Networking sorted into the six categories of the Azure networking services overview, with the services in each. Grey: not taught in a course yet.](media/networking.png)
+![Networking sorted into the six categories of the Azure networking services overview, with the services in each.](media/networking.png)
 
 ## Glossary
 

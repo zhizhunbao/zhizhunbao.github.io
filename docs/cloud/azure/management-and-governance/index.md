@@ -1,14 +1,14 @@
 ---
-title: "14. Management and Governance"
-description: "Microsoft Azure, 14. Management and Governance: cost management, governance and compliance, managing and deploying resources, and monitoring tools."
+title: "20. Management and Governance"
+description: "Microsoft Azure, 20. Management and Governance: cost management, governance and compliance, managing and deploying resources, and monitoring tools."
 ms.date: 2026-10-24
 ---
 
-# 14. Management and Governance
+# 20. Management and Governance
 
 ## Classification
 
-![Management and Governance sorted into the four modules of the AZ-900 management and governance learning path: cost management, governance and compliance, managing and deploying resources, and monitoring tools. Grey: not taught in a course yet.](media/management-and-governance.png)
+![Management and Governance sorted into the four modules of the AZ-900 management and governance learning path: cost management, governance and compliance, managing and deploying resources, and monitoring tools.](media/management-and-governance.png)
 
 ## Glossary
 

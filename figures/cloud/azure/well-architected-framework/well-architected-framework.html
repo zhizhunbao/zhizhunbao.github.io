@@ -1,0 +1,71 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 20px; align-items: stretch; }
+  .row + .row { margin-top: 20px; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { min-width: 390px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 6px; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Azure Well-Architected Framework</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Reliability</div>
+        <div class="item">Design for business requirements</div>
+        <div class="item">Design for resilience</div>
+        <div class="item">Design for recovery</div>
+        <div class="item">Design for operations</div>
+        <div class="item">Keep it simple</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Security</div>
+        <div class="item">Plan your security readiness</div>
+        <div class="item">Design to protect confidentiality</div>
+        <div class="item">Design to protect integrity</div>
+        <div class="item">Design to protect availability</div>
+        <div class="item">Sustain and evolve your security posture</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Cost Optimization</div>
+        <div class="item">Develop cost-management discipline</div>
+        <div class="item">Design with a cost-efficiency mindset</div>
+        <div class="item">Design for usage optimization</div>
+        <div class="item">Design for rate optimization</div>
+        <div class="item">Monitor and optimize over time</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Operational Excellence</div>
+        <div class="item">Embrace DevOps culture</div>
+        <div class="item">Establish development standards</div>
+        <div class="item">Evolve operations with observability</div>
+        <div class="item">Automate for efficiency</div>
+        <div class="item">Adopt safe deployment practices</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Performance Efficiency</div>
+        <div class="item">Negotiate realistic performance targets</div>
+        <div class="item">Design to meet capacity requirements</div>
+        <div class="item">Achieve and sustain performance</div>
+        <div class="item">Optimize for long-term improvement</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>

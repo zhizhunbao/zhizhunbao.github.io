@@ -1,14 +1,14 @@
 ---
-title: "13. Security"
-description: "Microsoft Azure, 13. Security: Zero Trust model, defense-in-depth, encryption and key management, and Microsoft Defender for Cloud."
+title: "18. Security"
+description: "Microsoft Azure, 18. Security: Zero Trust model, defense-in-depth, encryption and key management, and Microsoft Defender for Cloud."
 ms.date: 2026-10-24
 ---
 
-# 13. Security
+# 18. Security
 
 ## Classification
 
-![Security sorted into the four security units of the AZ-900 identity, access and security module: the Zero Trust model, defense-in-depth, encryption and key management, and Microsoft Defender for Cloud. Grey: not taught in a course yet.](media/security.png)
+![Security sorted into the four security units of the AZ-900 identity, access and security module: the Zero Trust model, defense-in-depth, encryption and key management, and Microsoft Defender for Cloud.](media/security.png)
 
 ## Glossary
 

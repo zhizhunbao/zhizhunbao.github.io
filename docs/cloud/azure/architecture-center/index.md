@@ -1,14 +1,14 @@
 ---
-title: "19. Azure Architecture Center"
-description: "Microsoft Azure, 19. Azure Architecture Center: architecture styles, best practices, cloud design patterns, technology choices and architectures."
+title: "27. Azure Architecture Center"
+description: "Microsoft Azure, 27. Azure Architecture Center: architecture styles, best practices, cloud design patterns, technology choices and architectures."
 ms.date: 2026-10-24
 ---
 
-# 19. Azure Architecture Center
+# 27. Azure Architecture Center
 
 ## Classification
 
-![The Azure Architecture Center sorted into the parts of its application architecture fundamentals: architecture styles, best practices, cloud design patterns, technology choices and the catalog of architectures. Grey: not taught in a course yet.](media/architecture-center.png)
+![The Azure Architecture Center sorted into the parts of its application architecture fundamentals: architecture styles, best practices, cloud design patterns, technology choices and the catalog of architectures.](media/architecture-center.png)
 
 ## Glossary
 

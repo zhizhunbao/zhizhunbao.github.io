@@ -1,14 +1,14 @@
 ---
-title: "3. Compute"
-description: "Microsoft Azure, 3. Compute: infrastructure as a service, platform as a service, functions as a service and specialty workloads."
+title: "4. Compute"
+description: "Microsoft Azure, 4. Compute: infrastructure as a service, platform as a service, functions as a service and specialty workloads."
 ms.date: 2026-10-22
 ---
 
-# 3. Compute
+# 4. Compute
 
 ## Classification
 
-![Compute sorted into four groups by hosting model: infrastructure as a service, platform as a service, functions as a service and specialty workloads, with the Azure services in each. Grey: not taught in a course yet.](media/compute.png)
+![Compute sorted into four groups by hosting model: infrastructure as a service, platform as a service, functions as a service and specialty workloads, with the Azure services in each.](media/compute.png)
 
 ## Glossary
 

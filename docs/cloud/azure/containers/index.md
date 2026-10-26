@@ -1,14 +1,14 @@
 ---
-title: "4. Containers"
-description: "Microsoft Azure, 4. Containers: Docker, Kubernetes and the Azure container services."
+title: "5. Containers"
+description: "Microsoft Azure, 5. Containers: Docker, Kubernetes and the Azure container services."
 ms.date: 2026-10-22
 ---
 
-# 4. Containers
+# 5. Containers
 
 ## Classification
 
-![Containers sorted into three groups: Docker terms, Kubernetes concepts and the Azure container services. Grey: not taught in a course yet. The container hosting services are defined in 3. Compute.](media/containers.png)
+![Containers sorted into three groups: Docker terms, Kubernetes concepts and the Azure container services. The container hosting services are defined in 3. Compute.](media/containers.png)
 
 ## Glossary
 

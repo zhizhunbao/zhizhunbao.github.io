@@ -1,14 +1,14 @@
 ---
-title: "18. Cloud Adoption Framework for Azure"
-description: "Microsoft Azure, 18. Cloud Adoption Framework for Azure: the seven Azure adoption phases (Strategy, Plan, Ready, Adopt, Govern, Secure, Manage) and their sections."
+title: "26. Cloud Adoption Framework for Azure"
+description: "Microsoft Azure, 26. Cloud Adoption Framework for Azure: the seven Azure adoption phases (Strategy, Plan, Ready, Adopt, Govern, Secure, Manage) and their sections."
 ms.date: 2026-10-24
 ---
 
-# 18. Cloud Adoption Framework for Azure
+# 26. Cloud Adoption Framework for Azure
 
 ## Classification
 
-![The Cloud Adoption Framework sorted into its seven Azure adoption phases: Strategy, Plan, Ready and Adopt in sequence, then Govern, Secure and Manage, each with its sections in the current table of contents. Grey: not taught in a course yet.](media/cloud-adoption-framework.png)
+![The Cloud Adoption Framework sorted into its seven Azure adoption phases: Strategy, Plan, Ready and Adopt in sequence, then Govern, Secure and Manage, each with its sections in the current table of contents.](media/cloud-adoption-framework.png)
 
 ## Glossary
 

@@ -1,14 +1,14 @@
 ---
-title: "9. Analytics"
-description: "Microsoft Azure, 9. Analytics: data storage, batch processing, real-time message ingestion, stream processing, analytical data store, analytics and reporting, and orchestration."
+title: "11. Analytics"
+description: "Microsoft Azure, 11. Analytics: data storage, batch processing, real-time message ingestion, stream processing, analytical data store, analytics and reporting, and orchestration."
 ms.date: 2026-10-24
 ---
 
-# 9. Analytics
+# 11. Analytics
 
 ## Classification
 
-![Analytics sorted into the seven components of a big data architecture, in the order the data flows through them, with the Azure services for each. Grey: not taught in a course yet.](media/analytics.png)
+![Analytics sorted into the seven components of a big data architecture, in the order the data flows through them, with the Azure services for each.](media/analytics.png)
 
 ## Glossary
 
