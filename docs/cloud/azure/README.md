@@ -4,7 +4,7 @@ This folder holds the cloud glossary. It is organised by official topic, not by 
 
 ## Topics (level 1: folders)
 
-Only the folders below may exist, in this order. The number is the learning order: a topic comes after the topics it builds on. Names are the official names, word for word: the AZ-900 learning path and module names, the product categories of the [Azure documentation](https://learn.microsoft.com/en-us/azure/) home page (checked on 2026-10-21), and the names of the three Microsoft documentation sets. A new folder needs a course that uses it and an official name from those sources.
+Only the folders below may exist, in this order. The number is the learning order: a topic comes after the topics it builds on. Names are the official names, word for word: the AZ-900 learning path and module names, the product categories of the [Azure documentation](https://learn.microsoft.com/en-us/azure/) home page (checked on 2026-10-21), and the names of the three Microsoft documentation sets. A new folder needs a registered certification that lists it (see "Registered certifications" below) and an official name from those sources.
 
 | No. | Folder | Title | Figure | Source |
 |---|---|---|---|---|
@@ -28,7 +28,26 @@ Only the folders below may exist, in this order. The number is the learning orde
 | 18 | `cloud-adoption-framework/` | Cloud Adoption Framework for Azure | classification | [Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) |
 | 19 | `architecture-center/` | Azure Architecture Center | classification | [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/); [Azure application architecture fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/) |
 
-Not used by any course yet, so no folder: Developer Tools, Hybrid + multicloud, Media, Mixed Reality, Mobile, Virtual Desktop Infrastructure, Web (App Service sits under Compute, as in AZ-900).
+No folder yet: Developer Tools, Hybrid + multicloud, Media, Mixed Reality, Mobile, Virtual Desktop Infrastructure, Web (App Service sits under Compute, as in AZ-900). Internet of Things was added for a course before this rule; no current certification covers it (AZ-220 retired, see its Coverage).
+
+## Registered certifications
+
+Content is added by registered certification (decided 2026-10-25; it replaces "a course that uses it"). A folder, sub-page, group or term is added only when the "Skills measured" list of a certification below names it. The certification decides only what goes in: folders stay by official Azure topic, and names, order and definitions come from the official pages the content quotes (the Learn module or Azure documentation page for that skill, listed in the folder README "Sources"), never from the study guide's wording. A term is still written once in the whole folder. To add a certification, add its row here first. When a study guide gets a new "Skills measured as of" date, update the row and check the content against the new list. Each topic's `## Coverage` names the skill areas it covers.
+
+| Certification | Skills measured as of | Study guide |
+|---|---|---|
+| AI-103 Developing AI Apps and Agents on Azure | April 16, 2026 | [Study guide for Exam AI-103](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103) |
+| AI-901 Microsoft Azure AI Fundamentals | April 15, 2026 | [Study guide for Exam AI-901](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901) |
+| AZ-104 Microsoft Azure Administrator | April 17, 2026 | [Study guide for Exam AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104) |
+| AZ-204 Developing Solutions for Microsoft Azure | January 14, 2026 | [Study guide for Exam AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204) |
+| AZ-305 Designing Microsoft Azure Infrastructure Solutions | April 17, 2026 | [Study guide for Exam AZ-305](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-305) |
+| AZ-400 Designing and Implementing Microsoft DevOps Solutions | July 27, 2026 | [Study guide for Exam AZ-400](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400) |
+| AZ-500 Microsoft Azure Security Technologies | January 22, 2026 | [Study guide for Exam AZ-500](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) |
+| AZ-900 Microsoft Azure Fundamentals | July 20, 2026 | [Study guide for Exam AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900) |
+| DP-900 Microsoft Azure Data Fundamentals | July 21, 2026 | [Study guide for Exam DP-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-900) |
+| SC-300 Microsoft Identity and Access Administrator | October 28, 2026 (the study guide also lists the version before that date) | [Study guide for Exam SC-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300) |
+
+The rows are the certifications the topics' Coverage already named on 2026-10-25, in alphabetical order; dates checked that day in the cached study guides.
 
 ## Files (level 2: inside a topic folder)
 
