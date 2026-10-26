@@ -23,6 +23,17 @@ items:
     href: core-architectural-components/management-infrastructure.md
 - name: "3. Reliability"
   href: reliability/index.md
+  items:
+  - name: "3.1 Reliability guides for Azure services"
+    href: reliability/reliability-guides-for-azure-services.md
+  - name: "3.2 Azure regions"
+    href: reliability/azure-regions.md
+  - name: "3.3 Azure availability zones"
+    href: reliability/azure-availability-zones.md
+  - name: "3.4 Reliability concepts"
+    href: reliability/reliability-concepts.md
+  - name: "3.5 Resources"
+    href: reliability/resources.md
 - name: "4. Compute"
   href: compute/index.md
   items:
@@ -45,6 +56,21 @@ items:
     href: containers/azure-container-services.md
 - name: "6. Web"
   href: web/index.md
+  items:
+  - name: "6.1 App Configuration"
+    href: web/app-configuration.md
+  - name: "6.2 Azure Communication Services"
+    href: web/azure-communication-services.md
+  - name: "6.3 Azure Fluid Relay"
+    href: web/azure-fluid-relay.md
+  - name: "6.4 Azure Maps"
+    href: web/azure-maps.md
+  - name: "6.5 Azure SignalR Service"
+    href: web/azure-signalr-service.md
+  - name: "6.6 Microsoft Playwright Testing (Preview)"
+    href: web/microsoft-playwright-testing-preview.md
+  - name: "6.7 Notification Hubs"
+    href: web/notification-hubs.md
 - name: "7. Networking"
   href: networking/index.md
   items:
@@ -138,10 +164,26 @@ items:
     href: ai-machine-learning/enterprise-intelligence-layers.md
 - name: "14. Media"
   href: media-category/index.md
+  items:
+  - name: "14.1 Azure AI Video Indexer"
+    href: media-category/azure-ai-video-indexer.md
+  - name: "14.2 Azure Media Player"
+    href: media-category/azure-media-player.md
+  - name: "14.3 Content Protection"
+    href: media-category/content-protection.md
+  - name: "14.4 Encoding"
+    href: media-category/encoding.md
+  - name: "14.5 Live and On-Demand Streaming"
+    href: media-category/live-and-on-demand-streaming.md
+  - name: "14.6 Media Services"
+    href: media-category/media-services.md
 - name: "15. Mixed Reality"
   href: mixed-reality/index.md
 - name: "16. Mobile"
   href: mobile/index.md
+  items:
+  - name: "16.1 Visual Studio App Center"
+    href: mobile/visual-studio-app-center.md
 - name: "17. Identity"
   href: identity/index.md
   items:
@@ -168,6 +210,11 @@ items:
     href: security/microsoft-defender-for-cloud.md
 - name: "19. Virtual Desktop Infrastructure"
   href: virtual-desktop-infrastructure/index.md
+  items:
+  - name: "19.1 Azure Lab Services"
+    href: virtual-desktop-infrastructure/azure-lab-services.md
+  - name: "19.2 Microsoft Dev Box"
+    href: virtual-desktop-infrastructure/microsoft-dev-box.md
 - name: "20. Management and Governance"
   href: management-and-governance/index.md
   items:
@@ -181,8 +228,30 @@ items:
     href: management-and-governance/monitoring-tools.md
 - name: "21. Hybrid + multicloud"
   href: hybrid-multicloud/index.md
+  items:
+  - name: "21.1 Azure DevOps"
+    href: hybrid-multicloud/azure-devops.md
+  - name: "21.2 Azure Kubernetes Service Edge Essentials"
+    href: hybrid-multicloud/azure-kubernetes-service-edge-essentials.md
+  - name: "21.3 Azure Local"
+    href: hybrid-multicloud/azure-local.md
+  - name: "21.4 Azure Operator Nexus"
+    href: hybrid-multicloud/azure-operator-nexus.md
+  - name: "21.5 Azure Operator Service Manager"
+    href: hybrid-multicloud/azure-operator-service-manager.md
+  - name: "21.6 Azure Stack Edge"
+    href: hybrid-multicloud/azure-stack-edge.md
+  - name: "21.7 Azure Stack Hub"
+    href: hybrid-multicloud/azure-stack-hub.md
 - name: "22. Developer Tools"
   href: developer-tools/index.md
+  items:
+  - name: "22.1 Azure DevTest Labs"
+    href: developer-tools/azure-devtest-labs.md
+  - name: "22.2 Visual Studio"
+    href: developer-tools/visual-studio.md
+  - name: "22.3 Visual Studio Code"
+    href: developer-tools/visual-studio-code.md
 - name: "23. DevOps"
   href: devops/index.md
   items:
