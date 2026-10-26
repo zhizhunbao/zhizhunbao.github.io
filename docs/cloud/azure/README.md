@@ -1,10 +1,26 @@
 # Microsoft Azure (folder azure): rules and allowed folders
 
-This folder holds the cloud glossary. It is organised by official topic, not by course or week, so each term is written once. Courses have no pages here (the course pages were removed on 2026-10-24). This README is the contract for the folder; the build checks it. It is not published (`docfx.json` excludes `**/README.md`).
+This README is the contract for the folder. It is not published (`docfx.json` excludes `**/README.md`).
 
-## Topics (level 1: folders)
+## 1. Purpose
 
-Only the folders below may exist, in this order. The number is the learning order: a topic comes after the topics it builds on. Names are the official names, word for word: the AZ-900 learning path and module names, the product categories of the [Azure documentation](https://learn.microsoft.com/en-us/azure/) home page (checked on 2026-10-21), and the names of the three Microsoft documentation sets. A new folder needs a registered certification that lists it (see "Registered certifications" below) and an official name from those sources.
+- The aim is the complete official Azure documentation, not one course or one exam.
+- Content is organised by official topic, never by course or week, so each term is written once in the whole folder. Other places link to it.
+- It is built one term at a time (section 6), so some parts stay unfinished for a while; the figures show which (section 4).
+
+## 2. Sources
+
+- Two kinds of official source, both listed for each sub-page in the folder README ("Sources"):
+  - Microsoft Learn training units (for example the AZ-900 units). They are short.
+  - The matching product documentation (for example the Azure reliability documentation for regions and availability zones). It gives the full definitions.
+- A page uses only its own listed sources. A new source is added to the folder README first.
+- Where a training unit only mentions a term, the Definition quotes the product documentation, and the Source cites both.
+- Check the official docs cache before fetching a page (`design-refs/official-docs`, see CLAUDE.md); add any new official page to it.
+- Every quote cites section and paragraph with a `#:~:text=` anchor. No words of my own. `## References` lists the sources in APA.
+
+## 3. Topics (level 1: folders)
+
+Only the folders below may exist, in this order. The number is the learning order: a topic comes after the topics it builds on. Names are the official names, word for word: the AZ-900 learning path and module names, the product categories of the [Azure documentation](https://learn.microsoft.com/en-us/azure/) home page (checked on 2026-10-21), and the names of the three Microsoft documentation sets. A new folder needs an official name from those sources.
 
 | No. | Folder | Title | Figure | Source |
 |---|---|---|---|---|
@@ -28,47 +44,74 @@ Only the folders below may exist, in this order. The number is the learning orde
 | 18 | `cloud-adoption-framework/` | Cloud Adoption Framework for Azure | classification | [Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) |
 | 19 | `architecture-center/` | Azure Architecture Center | classification | [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/); [Azure application architecture fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/) |
 
-No folder yet: Developer Tools, Hybrid + multicloud, Media, Mixed Reality, Mobile, Virtual Desktop Infrastructure, Web (App Service sits under Compute, as in AZ-900). Internet of Things was added for a course before this rule; no current certification covers it (AZ-220 retired, see its Coverage).
+No folder yet: Developer Tools, Hybrid + multicloud, Media, Mixed Reality, Mobile, Virtual Desktop Infrastructure, Web (App Service sits under Compute, as in AZ-900).
 
-## Registered certifications
+A topic folder holds only:
 
-Content is added by registered certification (decided 2026-10-25; it replaces "a course that uses it"). A folder, sub-page, group or term is added only when the "Skills measured" list of a certification below names it. The certification decides only what goes in: folders stay by official Azure topic, and names, order and definitions come from the official pages the content quotes (the Learn module or Azure documentation page for that skill, listed in the folder README "Sources"), never from the study guide's wording. A term is still written once in the whole folder. To add a certification, add its row here first. When a study guide gets a new "Skills measured as of" date, update the row and check the content against the new list. Each topic's `## Coverage` names the skill areas it covers.
+- `README.md`: the folder's contract: its sub-pages and, for each, its sources and allowed sections (the groups of the sub-page figure, in figure order).
+- `index.md`: the topic overview (section 4).
+- One file per sub-page (section 5), listed in the folder README.
+- `media/`: the figures (section 7).
 
-| Certification | Skills measured as of | Study guide |
-|---|---|---|
-| AI-103 Developing AI Apps and Agents on Azure | April 16, 2026 | [Study guide for Exam AI-103](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103) |
-| AI-901 Microsoft Azure AI Fundamentals | April 15, 2026 | [Study guide for Exam AI-901](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901) |
-| AZ-104 Microsoft Azure Administrator | April 17, 2026 | [Study guide for Exam AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104) |
-| AZ-204 Developing Solutions for Microsoft Azure | January 14, 2026 | [Study guide for Exam AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204) |
-| AZ-305 Designing Microsoft Azure Infrastructure Solutions | April 17, 2026 | [Study guide for Exam AZ-305](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-305) |
-| AZ-400 Designing and Implementing Microsoft DevOps Solutions | July 27, 2026 | [Study guide for Exam AZ-400](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400) |
-| AZ-500 Microsoft Azure Security Technologies | January 22, 2026 | [Study guide for Exam AZ-500](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) |
-| AZ-900 Microsoft Azure Fundamentals | July 20, 2026 | [Study guide for Exam AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900) |
-| DP-900 Microsoft Azure Data Fundamentals | July 21, 2026 | [Study guide for Exam DP-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-900) |
-| SC-300 Microsoft Identity and Access Administrator | October 28, 2026 (the study guide also lists the version before that date) | [Study guide for Exam SC-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300) |
+## 4. Topic overview (`index.md`)
 
-The rows are the certifications the topics' Coverage already named on 2026-10-25, in alphabetical order; dates checked that day in the cached study guides.
+- H1: `<No.>. <Title>`. Then these H2s, in this order: `## Classification`, `## Glossary`, `## Coverage`, `## References`. No `## Contents`: the left menu already lists the sub-pages.
+- `## Classification`: one classification figure.
+  - An outer frame named after the topic (top left) holds its parts, grouped by kind in dashed groups. Names only, no connecting lines, no section numbers.
+  - Inside a group the boxes follow one order you can name: small to large when the parts contain each other (datacenters, availability zones, regions, region pairs), otherwise the order of the official source.
+  - Blue solid box: the part is complete: its sub-page has a box and a table row for every term its listed sources present as a component or kind of it. Grey dashed box: still to be filled in (sub-page not written, or written in part, for example after a new source was listed). Grey boxes are the to-do list.
+- `## Glossary`: one table, `Term | Definition | 中文翻译 | Source`.
+  - First row: the topic name framed at the top left of the figure. Then one row per group in the figure, in figure order, each group linking to its sub-page.
+  - Definition: the official definition quoted, key words bolded. 中文翻译: the Chinese translation, the same key words bolded in the same order. Source: section and paragraph.
+- `## Coverage`: `Certification | Skill area`, the certifications whose skill areas cover the topic, each skill area linked to its study guide anchor. This is the only place certifications appear: they do not decide what goes in, and terms are not marked by exam. The certifications used:
 
-## Files (level 2: inside a topic folder)
+  | Certification | Skills measured as of | Study guide |
+  |---|---|---|
+  | AI-103 Developing AI Apps and Agents on Azure | April 16, 2026 | [Study guide for Exam AI-103](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103) |
+  | AI-901 Microsoft Azure AI Fundamentals | April 15, 2026 | [Study guide for Exam AI-901](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901) |
+  | AZ-104 Microsoft Azure Administrator | April 17, 2026 | [Study guide for Exam AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104) |
+  | AZ-204 Developing Solutions for Microsoft Azure | January 14, 2026 | [Study guide for Exam AZ-204](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204) |
+  | AZ-305 Designing Microsoft Azure Infrastructure Solutions | April 17, 2026 | [Study guide for Exam AZ-305](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-305) |
+  | AZ-400 Designing and Implementing Microsoft DevOps Solutions | July 27, 2026 | [Study guide for Exam AZ-400](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400) |
+  | AZ-500 Microsoft Azure Security Technologies | January 22, 2026 | [Study guide for Exam AZ-500](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500) |
+  | AZ-900 Microsoft Azure Fundamentals | July 20, 2026 | [Study guide for Exam AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900) |
+  | DP-900 Microsoft Azure Data Fundamentals | July 21, 2026 | [Study guide for Exam DP-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-900) |
+  | SC-300 Microsoft Identity and Access Administrator | October 28, 2026 (the study guide also lists the version before that date) | [Study guide for Exam SC-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300) |
 
-- `README.md`: the folder's own contract: the allowed sub-pages and, for each, its allowed sections.
-- `index.md`: the topic overview. H1 is `<No.>. <Title>`. It opens with `## Classification` holding one big classification figure: an outer frame named after the topic (top left) holding its parts, grouped by kind in dashed groups, names only, no connecting lines and no section numbers. Inside a group the boxes follow one order you can name: small to large when the parts contain each other (datacenters, availability zones, regions, region pairs), otherwise the order of the official source. Parts taught in a course are blue; parts in the official sources but not taught yet are grey dashed. Each sub-page has its own figure of its terms (see "Sections" below). Right below the figure comes `## Glossary` with one term table, `Term | Definition | 中文翻译 | Source`, whose first row is the topic name framed at the top left of the figure, followed by one row per group in the figure, in figure order, each group linking to its sub-page: the official definition quoted with its key words bolded, the Chinese translation with the same key words bolded in the same order, and the source with section and paragraph. Then, in this order: `## Coverage` (`Certification | Skill area`: the certifications whose skill areas cover the topic; no course tables, removed 2026-10-24) and `## References` (the official sources, APA). No `## Contents` section: the left menu already lists the sub-pages.
-- One file per sub-page, listed in the folder README. The sub-pages are the groups of the topic figure, one page per dashed group, in figure order, titled with the group name and numbered `<No.>.<n>` (for example `1.1 Deployment models`). The menu, the figure and the term table under it therefore show the same second level.
-- `media/`: the figures, drawn by us in draw.io (no copied images).
+  In alphabetical order; dates checked on 2026-10-25 in the cached study guides. When a study guide gets a new "Skills measured as of" date, update its row and the Coverage rows that link to it.
+- `## References`: the official sources, APA.
 
-Nothing else.
+## 5. Sub-pages
 
-## Sections (level 3: inside a sub-page)
+- The sub-pages are the groups of the topic figure, one page per dashed group, in figure order, titled with the group name and numbered `<No.>.<n>` (for example `1.1 Deployment models`). The menu, the topic figure and its table therefore show the same second level.
+- A sub-page: the H1, its official sources under it, then `## Classification` (one figure), `## Glossary` (one table) and `## References` (APA). No other H2, no H3.
+- The figure: an outer frame named after the sub-page (top left), and one dashed group per part listed for it in the folder README ("Allowed sections"), with the part's name and in that order, without its `<No.>.<n>.<m>` number. A new part is added to the folder README first.
+- The boxes in a group: every noun that the page's listed sources present as a component or a kind of that part, in the source's words (never shortened) and in the source's order. A word is not left out for looking ordinary: in context it has its own meaning ("dedicated power, cooling, and networking").
+- The table: one row per box, in figure order, `Term | Definition | 中文解释 | Source`. Where the source defines the term, the Definition quotes that definition; where it only mentions the term, it quotes the sentence where the term appears, marked "(context)". The Source gives section, paragraph and `#:~:text=` anchor.
+- Default cases (follow them without asking; ask only about a case not listed):
+  - Where the source gives a part no components or kinds, the parts themselves are the boxes inside the outer frame (16.1 to 16.4).
+  - A list of what a part does or when to use it is not boxed, except for a term added under section 6.
+  - A definition found in another section of the same source is quoted with its real section.
+  - A term defined elsewhere in the folder keeps its box, and its table row only links there.
+  - Double quotes inside a quote become single quotes.
+  - The Chinese term names are my translation, without a note.
 
-- A sub-page has one figure and one term table, like the topic overview (decided 2026-10-25): the H1, its official sources under it, then `## Classification` (one figure), `## Glossary` (one table) and `## References` (APA). No other H2, no H3.
-- The figure: an outer frame named after the sub-page (top left), and one dashed group per part listed for it in the folder README ("Allowed sections"), with the part's name and in that order, without its `<No.>.<n>.<m>` number. A page may leave a part out but may not add one; a new part is added to the folder README first.
-- The boxes in a group: every noun that the page's own listed sources present as a component or a kind of that part, in the source's words (never shortened) and in the source's order. A word is not left out for looking ordinary: in context it has its own meaning ("dedicated power, cooling, and networking"). No other document is mixed in.
-- The table: one row per box, in figure order, `Term | Definition | 中文解释 | Source`. Where the source defines the term, the Definition quotes that definition; where it only mentions the term, it quotes the sentence where the term appears, marked "(context)". The Source gives section, paragraph and `#:~:text=` anchor. No words of my own.
-- Default cases (decided 2026-10-25; follow them without asking, ask only about a case not listed): where the source gives a part no components or kinds, the parts themselves are the boxes inside the outer frame (16.1 to 16.4); a list of what a part does or when to use it is not boxed; a definition found in another section of the same source is quoted with its real section; a term the folder README defines elsewhere keeps its box, and its table row only links there; double quotes inside a quote become single quotes; the Chinese term names are my translation, without a note.
-- A term appears in one place only in the whole folder. Other places link to it.
-- Figures show names only, no section numbers; the table under the topic figure maps them to sub-pages. Green step circles only on process figures (see `figure_rules.md` in the cloud notes repo).
+## 6. Adding a term
 
-## Place in the knowledge base
+When I meet a new term (in a lecture, a slide, a lab):
+
+1. I search the site. If it is there, I read it.
+2. If not, find the sentence in the official sources (the cache first).
+3. Add a box and a table row on the sub-page whose listed source contains it, at its place in that source, quoting it (a definition, or "(context)"). It is added even when it sits in a list of what a part does (Data-residency in 2.1, from "Additional advantages of region pairs").
+4. When only a source not yet listed for any page has it, propose that source for the folder README first.
+
+## 7. Figures
+
+- `media/`: the figures, drawn by us (no copied images). Each has an HTML source in `figures/` at the repo root, rendered to PNG with `figures/shot.py` (see the repository README, "Figures"). Older figures were drawn in draw.io and have no source yet.
+- Names only, no section numbers; the table under the topic figure maps them to sub-pages.
+- Green step circles only on process figures (see `figure_rules.md` in the cloud notes repo).
+
+## 8. Place in the knowledge base
 
 Cloud spans several CS2023 knowledge areas (see the navigation rules in the repository README). Its topics map to these CS2023 knowledge units (Joint Task Force on Computing Curricula, 2024, <https://doi.org/10.1145/3664191>):
 
