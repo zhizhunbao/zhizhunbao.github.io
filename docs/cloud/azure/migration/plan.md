@@ -1,6 +1,6 @@
 ---
 title: "24.3 Plan"
-description: "Microsoft Azure, 24.3 Plan: Assessment, Azure readiness (Ready for Azure, Conditionally ready for Azure, Not ready for Azure, Readiness unknown), Right-sizing, Azure cost estimation, Dependency analysis."
+description: "Microsoft Azure, 24.3 Plan: Discovery and Assessment, Movere, Assessment, Azure readiness (Ready for Azure, Conditionally ready for Azure, Not ready for Azure, Readiness unknown), Right-sizing, Azure cost estimation, Dependency analysis."
 ms.date: 2026-10-26
 ---
 
@@ -10,13 +10,15 @@ Sources: [About Azure Migrate: Plan](https://learn.microsoft.com/en-us/azure/mig
 
 ## Classification
 
-![Plan: Assessment, then Azure readiness with its four readiness categories (Ready for Azure, Conditionally ready for Azure, Not ready for Azure, Readiness unknown), then Right-sizing, Azure cost estimation, Dependency analysis.](media/plan.png)
+![Plan: the Discovery and Assessment tool and the retired Movere, then Assessment, then Azure readiness with its four readiness categories (Ready for Azure, Conditionally ready for Azure, Not ready for Azure, Readiness unknown), then Right-sizing, Azure cost estimation, Dependency analysis.](media/plan.png)
 
 ## Glossary
 
 | Term | Definition | 中文解释 | Source |
 |---|---|---|---|
 | **Plan**<br>计划 | "After you make the decision to migrate to Azure, the next important phase of migration is **planning**. To plan migration in detail, use **Azure Migrate assessments** to find:" | 决定迁移到 Azure 之后，迁移的下一个重要阶段是**规划**。要详细规划迁移，请使用 **Azure Migrate 评估**来确定： | [Microsoft, n.d., "Plan" section, para. 1](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:~:text=the%20next%20important%20phase%20of%20migration%20is%20planning) |
+| **Discovery and Assessment**<br>发现和评估 | "**Discover and assess on-premises servers** running on **VMware, Hyper-V, and physical servers** in preparation for migration to Azure." | **发现并评估本地服务器**，这些服务器运行在 **VMware、Hyper-V 和物理服务器**上，为迁移到 Azure 做准备。 | [Microsoft, n.d., "Integrated tools and features" section, "Discovery and Assessment" row, Details](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:~:text=Discover%20and%20assess%20on%2Dpremises%20servers%20running) |
+| **Movere**<br>Movere | "**Discover and assess on-premises workloads.** This tool is **retired**. Use Azure Migrate for your migration journey." | **发现并评估本地工作负载。** 此工具已**停用**。请使用 Azure Migrate 完成迁移之旅。 | [Microsoft, n.d., "Integrated tools and features" section, "Movere" row, Function and Details](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:~:text=This%20tool%20is%20retired) |
 | **Assessment**<br>评估 | "An assessment with the Discovery and assessment tool **measures the readiness** and **estimates the effect of migrating on-premises servers to Azure**." | 使用发现和评估工具进行的评估会**衡量就绪性**，并**估算把本地服务器迁移到 Azure 的影响**。 | [Microsoft, 2026, "What's an assessment?" section, para. 1](https://learn.microsoft.com/en-us/azure/migrate/concepts-assessment-calculation?view=migrate-classic#:~:text=measures%20the%20readiness%20and%20estimates) |
 | **Azure readiness**<br>Azure 就绪性 | "**Azure readiness**: Assess whether **on-premises servers, SQL servers, and web apps** are **ready for migration to Azure**." | **Azure 就绪性**：评估**本地服务器、SQL 服务器和 Web 应用**是否**已准备好迁移到 Azure**。 | [Microsoft, n.d., "Plan" section, list item 1](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:~:text=Assess%20whether%20on%2Dpremises%20servers) |
 | **Ready for Azure**<br>Azure 就绪 | "**Ready for Azure**: The server can be **migrated as-is to Azure without any changes**. It will start in Azure with **full Azure support**." | **Azure 就绪**：服务器可以**不做任何更改、按原样迁移到 Azure**。它会在 Azure 中启动，并获得**完整的 Azure 支持**。 | [Microsoft, 2026, "Calculate readiness" section, list item 1](https://learn.microsoft.com/en-us/azure/migrate/concepts-assessment-calculation?view=migrate-classic#:~:text=migrated%20as%2Dis%20to%20Azure%20without%20any%20changes) |
