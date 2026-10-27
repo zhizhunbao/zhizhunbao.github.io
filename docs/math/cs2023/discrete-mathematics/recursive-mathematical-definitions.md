@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 1.2 Recursive mathematical definitions
 
-Tier: CS Core.
-
 ## Classification
 
 ![Recursive mathematical definitions: its 1 terms in one column, in the order CS2023 names them: Recursive mathematical definition.](media/recursive-mathematical-definitions.png)

@@ -3,3 +3,5 @@ items:
   href: index.md
 - name: CS2023 MSF
   href: cs2023/toc.yml
+- name: MSC2020
+  href: msc2020/toc.yml

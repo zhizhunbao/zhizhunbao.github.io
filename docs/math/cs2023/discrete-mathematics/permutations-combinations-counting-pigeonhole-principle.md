@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 1.4 Permutations, combinations, counting, pigeonhole principle
 
-Tier: CS Core.
-
 ## Classification
 
 ![Permutations, combinations, counting, pigeonhole principle: its 4 terms in one column, in the order CS2023 names them: Permutation, Combination, Counting, Pigeonhole principle.](media/permutations-combinations-counting-pigeonhole-principle.png)

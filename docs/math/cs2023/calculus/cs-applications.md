@@ -8,8 +8,6 @@ ms.date: 2026-10-27
 
 Sources: [CS2023 Body of Knowledge, MSF-Calculus, topic 9, p. 131](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=131).
 
-Tier: KA Core.
-
 Parts:
 
 - gradient descent for machine learning

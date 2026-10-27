@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 1.5 Modular arithmetic
 
-Tier: CS Core.
-
 ## Classification
 
 ![Modular arithmetic: its 1 terms in one column, in the order CS2023 names them: Modular arithmetic.](media/modular-arithmetic.png)

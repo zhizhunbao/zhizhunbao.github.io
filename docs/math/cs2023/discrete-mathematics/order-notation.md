@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 1.8 Order notation
 
-Tier: CS Core.
-
 ## Classification
 
 ![Order notation: its 1 terms in one column, in the order CS2023 names them: Order notation.](media/order-notation.png)

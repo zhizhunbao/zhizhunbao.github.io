@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 1.6 Logic
 
-Tier: CS Core.
-
 ## Classification
 
 ![Logic: its 6 terms in one column, in the order CS2023 names them: Truth table, Connective (operator), Inference rule, Formula, Normal form, Predicate logic.](media/logic.png)

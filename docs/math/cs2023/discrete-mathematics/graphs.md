@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 1.7 Graphs
 
-Tier: CS Core.
-
 ## Classification
 
 ![Graphs: its 2 terms in one column, in the order CS2023 names them: Graph, Tree.](media/graphs.png)

@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 1.3 Proof techniques (induction, proof by contradiction)
 
-Tier: CS Core.
-
 ## Classification
 
 ![Proof techniques (induction, proof by contradiction): its 2 terms in one column, in the order CS2023 names them: Induction, Proof by contradiction.](media/proof-techniques-induction-proof-by-contradiction.png)
