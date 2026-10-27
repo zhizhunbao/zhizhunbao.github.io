@@ -1,0 +1,85 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .groups { display: grid; gap: 20px; align-items: stretch; }
+  .group { min-width: 300px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px; white-space: nowrap;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 10px; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Calculus</div>
+  <div class="groups">
+    <div class="group">
+      <div class="title">Sequences, series, limits</div>
+      <div class="item">Sequences</div>
+      <div class="item">series</div>
+      <div class="item">limits</div>
+    </div>
+    <div class="group">
+      <div class="title">Single-variable derivatives</div>
+      <div class="item">definition</div>
+      <div class="item">computation rules (chain rule etc.)</div>
+      <div class="item">derivatives of important functions</div>
+      <div class="item">applications</div>
+    </div>
+    <div class="group">
+      <div class="title">Single-variable integration</div>
+      <div class="item">definition</div>
+      <div class="item">computation rules</div>
+      <div class="item">integrals of important functions</div>
+      <div class="item">fundamental theorem of calculus</div>
+      <div class="item">definite vs indefinite</div>
+      <div class="item">applications (including in probability)</div>
+    </div>
+    <div class="group">
+      <div class="title">Parametric and polar representations</div>
+      <div class="item">Parametric and polar representations</div>
+    </div>
+    <div class="group">
+      <div class="title">Taylor series</div>
+      <div class="item">Taylor series</div>
+    </div>
+    <div class="group">
+      <div class="title">Multivariate calculus</div>
+      <div class="item">partial derivatives</div>
+      <div class="item">gradient</div>
+      <div class="item">chain-rule</div>
+      <div class="item">vector valued functions</div>
+    </div>
+    <div class="group">
+      <div class="title">Optimization</div>
+      <div class="item">convexity</div>
+      <div class="item">global vs local minima</div>
+      <div class="item">gradient descent</div>
+      <div class="item">constrained optimization, and Lagrange multipliers</div>
+    </div>
+    <div class="group">
+      <div class="title">Ordinary Differential Equations (ODEs)</div>
+      <div class="item">definition</div>
+      <div class="item">Euler method</div>
+      <div class="item">applications to simulation</div>
+      <div class="item">Monte Carlo integration</div>
+    </div>
+    <div class="group">
+      <div class="title">CS applications</div>
+      <div class="item">gradient descent for machine learning</div>
+      <div class="item">forward and inverse kinematics</div>
+      <div class="item">applications of calculus to probability</div>
+    </div>
+  </div>
+</div>
+<script>
+  // every group as wide as the widest group title; as many columns as fit about 2000 px, rows balanced, groups in CS2023 order
+  const box = document.querySelector('.groups');
+  const groups = [...box.querySelectorAll('.group')];
+  const w = Math.max(...groups.map(g => g.getBoundingClientRect().width));
+  const fit = Math.max(1, Math.min(groups.length, Math.floor(2000 / (w + 20))));
+  const cols = Math.ceil(groups.length / Math.ceil(groups.length / fit));
+  box.style.gridTemplateColumns = `repeat(${cols}, ${w}px)`;
+</script>
+</body></html>

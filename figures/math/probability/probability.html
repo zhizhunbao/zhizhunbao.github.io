@@ -1,0 +1,60 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .groups { display: grid; gap: 20px; align-items: stretch; }
+  .group { min-width: 300px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px; white-space: nowrap;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 10px; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Probability</div>
+  <div class="groups">
+    <div class="group">
+      <div class="title">Basic notions</div>
+      <div class="item">sample spaces</div>
+      <div class="item">events</div>
+      <div class="item">probability</div>
+      <div class="item">conditional probability</div>
+      <div class="item">Bayes’ rule</div>
+    </div>
+    <div class="group">
+      <div class="title">Discrete random variables and distributions</div>
+      <div class="item">Discrete random variables and distributions</div>
+    </div>
+    <div class="group">
+      <div class="title">Continuous random variables and distributions</div>
+      <div class="item">Continuous random variables and distributions</div>
+    </div>
+    <div class="group">
+      <div class="title">Expectation, variance, law of large numbers, central limit theorem</div>
+      <div class="item">Expectation</div>
+      <div class="item">variance</div>
+      <div class="item">law of large numbers</div>
+      <div class="item">central limit theorem</div>
+    </div>
+    <div class="group">
+      <div class="title">Conditional distributions and expectation</div>
+      <div class="item">Conditional distributions and expectation</div>
+    </div>
+    <div class="group">
+      <div class="title">Applications to computing, the difference between probability and statistics (as subjects)</div>
+      <div class="item">Applications to computing</div>
+      <div class="item">the difference between probability and statistics (as subjects)</div>
+    </div>
+  </div>
+</div>
+<script>
+  // every group as wide as the widest group title; as many columns as fit about 2000 px, rows balanced, groups in CS2023 order
+  const box = document.querySelector('.groups');
+  const groups = [...box.querySelectorAll('.group')];
+  const w = Math.max(...groups.map(g => g.getBoundingClientRect().width));
+  const fit = Math.max(1, Math.min(groups.length, Math.floor(2000 / (w + 20))));
+  const cols = Math.ceil(groups.length / Math.ceil(groups.length / fit));
+  box.style.gridTemplateColumns = `repeat(${cols}, ${w}px)`;
+</script>
+</body></html>

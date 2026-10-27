@@ -1,0 +1,59 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .groups { display: grid; gap: 20px; align-items: stretch; }
+  .group { min-width: 300px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px; white-space: nowrap;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 10px; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Statistics</div>
+  <div class="groups">
+    <div class="group">
+      <div class="title">Basic definitions and concepts</div>
+      <div class="item">populations</div>
+      <div class="item">samples</div>
+      <div class="item">measures of central tendency</div>
+      <div class="item">variance</div>
+    </div>
+    <div class="group">
+      <div class="title">Univariate data</div>
+      <div class="item">point estimation</div>
+      <div class="item">confidence intervals</div>
+    </div>
+    <div class="group">
+      <div class="title">Multivariate data</div>
+      <div class="item">estimation</div>
+      <div class="item">correlation</div>
+      <div class="item">regression</div>
+    </div>
+    <div class="group">
+      <div class="title">Data transformation</div>
+      <div class="item">dimension reduction</div>
+      <div class="item">smoothing</div>
+    </div>
+    <div class="group">
+      <div class="title">Statistical models and algorithms</div>
+      <div class="item">Statistical models and algorithms</div>
+    </div>
+    <div class="group">
+      <div class="title">Hypothesis testing</div>
+      <div class="item">Hypothesis testing</div>
+    </div>
+  </div>
+</div>
+<script>
+  // every group as wide as the widest group title; as many columns as fit about 2000 px, rows balanced, groups in CS2023 order
+  const box = document.querySelector('.groups');
+  const groups = [...box.querySelectorAll('.group')];
+  const w = Math.max(...groups.map(g => g.getBoundingClientRect().width));
+  const fit = Math.max(1, Math.min(groups.length, Math.floor(2000 / (w + 20))));
+  const cols = Math.ceil(groups.length / Math.ceil(groups.length / fit));
+  box.style.gridTemplateColumns = `repeat(${cols}, ${w}px)`;
+</script>
+</body></html>

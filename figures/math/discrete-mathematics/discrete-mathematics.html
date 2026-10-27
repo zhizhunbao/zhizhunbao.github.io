@@ -1,0 +1,72 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .groups { display: grid; gap: 20px; align-items: stretch; }
+  .group { min-width: 300px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px; white-space: nowrap;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 10px; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Discrete Mathematics</div>
+  <div class="groups">
+    <div class="group">
+      <div class="title">Sets, relations, functions, cardinality</div>
+      <div class="item">Sets</div>
+      <div class="item">relations</div>
+      <div class="item">functions</div>
+      <div class="item">cardinality</div>
+    </div>
+    <div class="group">
+      <div class="title">Recursive mathematical definitions</div>
+      <div class="item">Recursive mathematical definitions</div>
+    </div>
+    <div class="group">
+      <div class="title">Proof techniques (induction, proof by contradiction)</div>
+      <div class="item">induction</div>
+      <div class="item">proof by contradiction</div>
+    </div>
+    <div class="group">
+      <div class="title">Permutations, combinations, counting, pigeonhole principle</div>
+      <div class="item">Permutations</div>
+      <div class="item">combinations</div>
+      <div class="item">counting</div>
+      <div class="item">pigeonhole principle</div>
+    </div>
+    <div class="group">
+      <div class="title">Modular arithmetic</div>
+      <div class="item">Modular arithmetic</div>
+    </div>
+    <div class="group">
+      <div class="title">Logic</div>
+      <div class="item">truth tables</div>
+      <div class="item">connectives (operators)</div>
+      <div class="item">inference rules</div>
+      <div class="item">formulas</div>
+      <div class="item">normal forms</div>
+      <div class="item">simple predicate logic</div>
+    </div>
+    <div class="group">
+      <div class="title">Graphs</div>
+      <div class="item">basic definitions</div>
+    </div>
+    <div class="group">
+      <div class="title">Order notation</div>
+      <div class="item">Order notation</div>
+    </div>
+  </div>
+</div>
+<script>
+  // every group as wide as the widest group title; as many columns as fit about 2000 px, rows balanced, groups in CS2023 order
+  const box = document.querySelector('.groups');
+  const groups = [...box.querySelectorAll('.group')];
+  const w = Math.max(...groups.map(g => g.getBoundingClientRect().width));
+  const fit = Math.max(1, Math.min(groups.length, Math.floor(2000 / (w + 20))));
+  const cols = Math.ceil(groups.length / Math.ceil(groups.length / fit));
+  box.style.gridTemplateColumns = `repeat(${cols}, ${w}px)`;
+</script>
+</body></html>

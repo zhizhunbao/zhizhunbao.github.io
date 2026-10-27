@@ -1,0 +1,77 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .groups { display: grid; gap: 20px; align-items: stretch; }
+  .group { min-width: 300px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px; white-space: nowrap;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 10px; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Linear Algebra</div>
+  <div class="groups">
+    <div class="group">
+      <div class="title">Vectors</div>
+      <div class="item">definitions</div>
+      <div class="item">vector operations</div>
+      <div class="item">geometric interpretation</div>
+      <div class="item">angles</div>
+      <div class="item">Matrices: definition, matrix operations, meaning of Ax=b</div>
+    </div>
+    <div class="group">
+      <div class="title">Matrices, matrix-vector equation, geometric interpretation, geometric transformations with matrices</div>
+      <div class="item">Matrices</div>
+      <div class="item">matrix-vector equation</div>
+      <div class="item">geometric interpretation</div>
+      <div class="item">geometric transformations with matrices</div>
+    </div>
+    <div class="group">
+      <div class="title">Solving equations, row-reduction</div>
+      <div class="item">Solving equations</div>
+      <div class="item">row-reduction</div>
+    </div>
+    <div class="group">
+      <div class="title">Linear independence, span, basis</div>
+      <div class="item">Linear independence</div>
+      <div class="item">span</div>
+      <div class="item">basis</div>
+    </div>
+    <div class="group">
+      <div class="title">Orthogonality, projection, least-squares, orthogonal bases</div>
+      <div class="item">Orthogonality</div>
+      <div class="item">projection</div>
+      <div class="item">least-squares</div>
+      <div class="item">orthogonal bases</div>
+    </div>
+    <div class="group">
+      <div class="title">Linear combinations of polynomials, Bezier curves</div>
+      <div class="item">Linear combinations of polynomials</div>
+      <div class="item">Bezier curves</div>
+    </div>
+    <div class="group">
+      <div class="title">Eigenvectors and eigenvalues</div>
+      <div class="item">Eigenvectors and eigenvalues</div>
+    </div>
+    <div class="group">
+      <div class="title">Applications to computer science</div>
+      <div class="item">Principal Components Analysis (PCA)</div>
+      <div class="item">Singular Value Decomposition (SVD)</div>
+      <div class="item">page-rank</div>
+      <div class="item">graphics</div>
+    </div>
+  </div>
+</div>
+<script>
+  // every group as wide as the widest group title; as many columns as fit about 2000 px, rows balanced, groups in CS2023 order
+  const box = document.querySelector('.groups');
+  const groups = [...box.querySelectorAll('.group')];
+  const w = Math.max(...groups.map(g => g.getBoundingClientRect().width));
+  const fit = Math.max(1, Math.min(groups.length, Math.floor(2000 / (w + 20))));
+  const cols = Math.ceil(groups.length / Math.ceil(groups.length / fit));
+  box.style.gridTemplateColumns = `repeat(${cols}, ${w}px)`;
+</script>
+</body></html>
