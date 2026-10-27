@@ -120,6 +120,7 @@ When I meet a new term (in a lecture, a slide, a lab):
 - `media/`: the figures, drawn by us (no copied images). Each has an HTML source in `figures/` at the repo root, rendered to PNG with `figures/shot.py` (see the repository README, "Figures"). Every figure in this folder has its source there.
 - Names only, no section numbers; the table under the topic figure maps them to sub-pages.
 - Green step circles only on process figures (see `figure_rules.md` in the cloud notes repo).
+- A box with sub-terms of its own stays in its column, in source order; its sub-terms go in a separate group beside the column, titled with the same name, joined by a blue dashed curve from the box to that title (template: `figures/cloud/azure/migration/plan.html`, Azure readiness in 24.3). The topic figure shows only the box.
 
 ## 8. Place in the knowledge base
 

@@ -13,17 +13,38 @@
           display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; text-align: center; padding: 0 6px; color: #222; }
 </style></head>
 <body>
-<div class="frame" id="fig">
+<div class="frame" id="fig" style="position:relative;">
   <div class="title">Plan</div>
-  <div class="row">
+  <div class="row" style="gap:70px;align-items:center;">
     <div class="col">
       <div class="group" style="border:none;padding:0 12px 0 12px;">
-        <div class="item">Azure readiness</div>
+        <div class="item">Assessment</div>
+        <div class="item" id="from">Azure readiness</div>
         <div class="item">Right-sizing</div>
         <div class="item">Azure cost estimation</div>
         <div class="item">Dependency analysis</div>
       </div>
     </div>
+    <div class="col">
+      <div class="group">
+        <div class="title" id="to">Azure readiness</div>
+        <div class="item">Ready for Azure</div>
+        <div class="item">Conditionally ready for Azure</div>
+        <div class="item">Not ready for Azure</div>
+        <div class="item">Readiness unknown</div>
+      </div>
+    </div>
   </div>
+  <svg id="link" style="position:absolute;left:0;top:0;overflow:visible;pointer-events:none;"></svg>
 </div>
+<script>
+  const fig = document.getElementById('fig').getBoundingClientRect();
+  const a = document.getElementById('from').getBoundingClientRect();
+  const b = document.getElementById('to').getBoundingClientRect();
+  const x1 = a.right - fig.left, y1 = a.top + a.height / 2 - fig.top;
+  const x2 = b.left - fig.left, y2 = b.top + b.height / 2 - fig.top;
+  const mx = (x1 + x2) / 2;
+  document.getElementById('link').innerHTML =
+    `<path d="M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}" fill="none" stroke="#0f6cbd" stroke-width="1.5" stroke-dasharray="5 4"/>`;
+</script>
 </body></html>
