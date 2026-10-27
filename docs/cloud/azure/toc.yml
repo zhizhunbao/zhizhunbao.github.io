@@ -80,6 +80,8 @@ items:
     href: storage/data-migration-options.md
   - name: "8.5 File movement options"
     href: storage/file-movement-options.md
+  - name: "8.6 Data management"
+    href: storage/data-management.md
 - name: "9. Databases"
   href: databases/index.md
   items:
