@@ -8,7 +8,7 @@ ms.date: 2026-10-26
 
 ## Classification
 
-![Reliability sorted into three groups, as in the table of contents of the Azure reliability documentation (groups that only list links, Reliability guides for Azure services and Resources, are left out): Azure regions (region, geography, sovereign cloud, region pairs, nonpaired regions, nonregional services), Azure availability zones (availability zone, zone-redundant resources, zonal resources, zone-resilient, nonzonal deployment, physical zone, logical zone) and reliability concepts (redundancy, replication, backup).](media/reliability.png)
+![Reliability sorted into three groups, as in the table of contents of the Azure reliability documentation (groups that only list links, Reliability guides for Azure services and Resources, are left out): Azure regions (region, geography, sovereign cloud, region pairs, nonpaired regions, nonregional services), Azure availability zones (availability zone, zone-redundant resources, zonal resources, zone-resilient, nonzonal deployment, physical zone, logical zone) and reliability concepts (high availability, fault tolerance, redundancy, replication, backup).](media/reliability.png)
 
 ## Glossary
 

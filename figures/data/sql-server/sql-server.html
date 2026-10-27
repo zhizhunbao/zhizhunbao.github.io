@@ -1,0 +1,169 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 20px; align-items: stretch; }
+  .row + .row { margin-top: 20px; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { min-width: 390px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 6px; color: #222; }
+  .group { width: max-content; }
+  .lone { border: 2px solid #e8a317; width: 330px; margin-bottom: 20px; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">SQL Server</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Database Engine</div>
+        <div class="item">SQL Database Engine</div>
+        <div class="item">SQL Server editions</div>
+        <div class="item">Ghost cleanup</div>
+        <div class="item">Index</div>
+        <div class="item">Page</div>
+        <div class="item">Extent</div>
+        <div class="item">Query processing</div>
+        <div class="item">Disk I/O</div>
+        <div class="item">Security cache</div>
+        <div class="item">Thread</div>
+        <div class="item">Task</div>
+        <div class="item">Transaction log</div>
+        <div class="item">Locking</div>
+        <div class="item">Optimized locking</div>
+        <div class="item">Deadlock</div>
+        <div class="item">Memory management</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Database design</div>
+        <div class="item">Hierarchical data</div>
+        <div class="item">Collation</div>
+        <div class="item">Database</div>
+        <div class="item">Event notification</div>
+        <div class="item">FILESTREAM</div>
+        <div class="item">FileTable</div>
+        <div class="item">Graph database</div>
+        <div class="item">Sequence</div>
+        <div class="item">Service Broker</div>
+        <div class="item">Spatial data</div>
+        <div class="item">Stored procedure</div>
+        <div class="item">Table</div>
+        <div class="item">Change data capture</div>
+        <div class="item">Change tracking</div>
+        <div class="item">Logon trigger</div>
+        <div class="item">User-defined function</div>
+        <div class="item">View</div>
+        <div class="item">xml data type</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Query data</div>
+        <div class="item">Cursor</div>
+        <div class="item">Join</div>
+        <div class="item">Database Engine scripting</div>
+        <div class="item">Subquery</div>
+        <div class="item">PolyBase</div>
+        <div class="item">Linked server</div>
+        <div class="item">Full-Text Search</div>
+        <div class="item">Synonym</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Development</div>
+        <div class="item">Common language runtime (CLR)</div>
+        <div class="item">Extended stored procedure</div>
+        <div class="item">JSON</div>
+        <div class="item">Fuzzy string matching</div>
+        <div class="item">Regular expression</div>
+        <div class="item">Language Extensions</div>
+        <div class="item">SQL Server Native Client (SNAC)</div>
+        <div class="item">SQL Server Native Client OLE DB provider (SQLNCLI)</div>
+        <div class="item">ODBC</div>
+        <div class="item">SQL Server Management Objects (SMO)</div>
+        <div class="item">SQLXML</div>
+        <div class="item">WMI provider</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Business continuity</div>
+        <div class="item">Always On</div>
+        <div class="item">Backup</div>
+        <div class="item">Restore</div>
+        <div class="item">Always On availability groups</div>
+        <div class="item">Always On failover cluster instance</div>
+        <div class="item">Database mirroring</div>
+        <div class="item">Log shipping</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Security</div>
+        <div class="item">Permission</div>
+        <div class="item">Security principal</div>
+        <div class="item">Encryption</div>
+        <div class="item">Auditing</div>
+        <div class="item">Audit</div>
+        <div class="item">Ledger</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Data movement</div>
+        <div class="item">SQL Server Integration Services (SSIS)</div>
+        <div class="item">Data Quality Services (DQS)</div>
+        <div class="item">Replication</div>
+        <div class="item">SQL Server Migration Assistant (SSMA)</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Reporting & Analytics</div>
+        <div class="item">Azure Synapse Link for SQL</div>
+        <div class="item">Database Hub</div>
+        <div class="item">SQL machine learning</div>
+        <div class="item">SQL Server Analysis Services (SSAS)</div>
+        <div class="item">SQL Server Reporting Services (SSRS)</div>
+        <div class="item">Master Data Services (MDS)</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">AI</div>
+        <div class="item">Intelligent application</div>
+        <div class="item">Retrieval-Augmented Generation (RAG)</div>
+        <div class="item">Vector</div>
+        <div class="item">Embedding</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Tools</div>
+        <div class="item">dta utility</div>
+        <div class="item">Distributed Replay</div>
+        <div class="item">SQL Server Configuration Manager</div>
+        <div class="item">bulk copy program utility (bcp)</div>
+        <div class="item">sqlcmd utility</div>
+        <div class="item">ssbdiagnose utility</div>
+        <div class="item">SQL Server Data Tools (SSDT)</div>
+        <div class="item">SQL Server Management Studio (SSMS)</div>
+        <div class="item">SQL database project</div>
+        <div class="item">SqlPackage</div>
+        <div class="item">SQL Server Profiler</div>
+        <div class="item">MSSQL extension for Visual Studio Code</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>

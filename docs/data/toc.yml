@@ -13,3 +13,5 @@ items:
   href: postgresql/toc.yml
 - name: Redis
   href: redis/index.md
+- name: SQL Server
+  href: sql-server/toc.yml

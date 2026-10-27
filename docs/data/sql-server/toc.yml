@@ -1,0 +1,217 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Database Engine"
+  href: database-engine/index.md
+  items:
+  - name: "1.1 SQL Database Engine"
+    href: database-engine/sql-database-engine.md
+  - name: "1.2 SQL Server editions"
+    href: database-engine/sql-server-editions.md
+  - name: "1.3 Ghost cleanup"
+    href: database-engine/ghost-cleanup.md
+  - name: "1.4 Index"
+    href: database-engine/indexes.md
+  - name: "1.5 Page"
+    href: database-engine/page.md
+  - name: "1.6 Extent"
+    href: database-engine/extent.md
+  - name: "1.7 Query processing"
+    href: database-engine/query-processing.md
+  - name: "1.8 Disk I/O"
+    href: database-engine/disk-i-o.md
+  - name: "1.9 Security cache"
+    href: database-engine/security-cache.md
+  - name: "1.10 Thread"
+    href: database-engine/thread.md
+  - name: "1.11 Task"
+    href: database-engine/task.md
+  - name: "1.12 Transaction log"
+    href: database-engine/transaction-log.md
+  - name: "1.13 Locking"
+    href: database-engine/locking.md
+  - name: "1.14 Optimized locking"
+    href: database-engine/optimized-locking.md
+  - name: "1.15 Deadlock"
+    href: database-engine/deadlock.md
+  - name: "1.16 Memory management"
+    href: database-engine/memory-management.md
+- name: "2. Database design"
+  href: database-design/index.md
+  items:
+  - name: "2.1 Hierarchical data"
+    href: database-design/hierarchical-data.md
+  - name: "2.2 Collation"
+    href: database-design/collation.md
+  - name: "2.3 Database"
+    href: database-design/database.md
+  - name: "2.4 Event notification"
+    href: database-design/event-notification.md
+  - name: "2.5 FILESTREAM"
+    href: database-design/filestream.md
+  - name: "2.6 FileTable"
+    href: database-design/filetable.md
+  - name: "2.7 Graph database"
+    href: database-design/graph-database.md
+  - name: "2.8 Sequence"
+    href: database-design/sequence.md
+  - name: "2.9 Service Broker"
+    href: database-design/service-broker.md
+  - name: "2.10 Spatial data"
+    href: database-design/spatial-data.md
+  - name: "2.11 Stored procedure"
+    href: database-design/stored-procedure.md
+  - name: "2.12 Table"
+    href: database-design/table.md
+  - name: "2.13 Change data capture"
+    href: database-design/change-data-capture.md
+  - name: "2.14 Change tracking"
+    href: database-design/change-tracking.md
+  - name: "2.15 Logon trigger"
+    href: database-design/logon-trigger.md
+  - name: "2.16 User-defined function"
+    href: database-design/user-defined-function.md
+  - name: "2.17 View"
+    href: database-design/view.md
+  - name: "2.18 xml data type"
+    href: database-design/xml-data-type.md
+- name: "3. Query data"
+  href: query-data/index.md
+  items:
+  - name: "3.1 Cursor"
+    href: query-data/cursor.md
+  - name: "3.2 Join"
+    href: query-data/join.md
+  - name: "3.3 Database Engine scripting"
+    href: query-data/database-engine-scripting.md
+  - name: "3.4 Subquery"
+    href: query-data/subquery.md
+  - name: "3.5 PolyBase"
+    href: query-data/polybase.md
+  - name: "3.6 Linked server"
+    href: query-data/linked-server.md
+  - name: "3.7 Full-Text Search"
+    href: query-data/full-text-search.md
+  - name: "3.8 Synonym"
+    href: query-data/synonym.md
+- name: "4. Development"
+  href: development/index.md
+  items:
+  - name: "4.1 Common language runtime (CLR)"
+    href: development/common-language-runtime-clr.md
+  - name: "4.2 Extended stored procedure"
+    href: development/extended-stored-procedure.md
+  - name: "4.3 JSON"
+    href: development/json.md
+  - name: "4.4 Fuzzy string matching"
+    href: development/fuzzy-string-matching.md
+  - name: "4.5 Regular expression"
+    href: development/regular-expression.md
+  - name: "4.6 Language Extensions"
+    href: development/language-extensions.md
+  - name: "4.7 SQL Server Native Client (SNAC)"
+    href: development/sql-server-native-client-snac.md
+  - name: "4.8 SQL Server Native Client OLE DB provider (SQLNCLI)"
+    href: development/sql-server-native-client-ole-db-provider-sqlncli.md
+  - name: "4.9 ODBC"
+    href: development/odbc.md
+  - name: "4.10 SQL Server Management Objects (SMO)"
+    href: development/sql-server-management-objects-smo.md
+  - name: "4.11 SQLXML"
+    href: development/sqlxml.md
+  - name: "4.12 WMI provider"
+    href: development/wmi-provider.md
+- name: "5. Business continuity"
+  href: business-continuity/index.md
+  items:
+  - name: "5.1 Backup"
+    href: business-continuity/backup.md
+  - name: "5.2 Restore"
+    href: business-continuity/restore.md
+  - name: "5.3 Always On availability groups"
+    href: business-continuity/always-on-availability-groups.md
+  - name: "5.4 Always On failover cluster instance"
+    href: business-continuity/always-on-failover-cluster-instance.md
+  - name: "5.5 Database mirroring"
+    href: business-continuity/database-mirroring.md
+  - name: "5.6 Log shipping"
+    href: business-continuity/log-shipping.md
+- name: "6. Security"
+  href: security/index.md
+  items:
+  - name: "6.1 Permission"
+    href: security/permission.md
+  - name: "6.2 Security principal"
+    href: security/security-principal.md
+  - name: "6.3 Encryption"
+    href: security/encryption.md
+  - name: "6.4 Auditing"
+    href: security/auditing.md
+  - name: "6.5 Audit"
+    href: security/audit.md
+  - name: "6.6 Ledger"
+    href: security/ledger.md
+- name: "7. Data movement"
+  href: data-movement/index.md
+  items:
+  - name: "7.1 SQL Server Integration Services (SSIS)"
+    href: data-movement/sql-server-integration-services-ssis.md
+  - name: "7.2 Data Quality Services (DQS)"
+    href: data-movement/data-quality-services-dqs.md
+  - name: "7.3 Replication"
+    href: data-movement/replication.md
+  - name: "7.4 SQL Server Migration Assistant (SSMA)"
+    href: data-movement/sql-server-migration-assistant-ssma.md
+- name: "8. Reporting & Analytics"
+  href: reporting-and-analytics/index.md
+  items:
+  - name: "8.1 Azure Synapse Link for SQL"
+    href: reporting-and-analytics/azure-synapse-link-for-sql.md
+  - name: "8.2 Database Hub"
+    href: reporting-and-analytics/database-hub.md
+  - name: "8.3 SQL machine learning"
+    href: reporting-and-analytics/sql-machine-learning.md
+  - name: "8.4 SQL Server Analysis Services (SSAS)"
+    href: reporting-and-analytics/sql-server-analysis-services-ssas.md
+  - name: "8.5 SQL Server Reporting Services (SSRS)"
+    href: reporting-and-analytics/sql-server-reporting-services-ssrs.md
+  - name: "8.6 Master Data Services (MDS)"
+    href: reporting-and-analytics/master-data-services-mds.md
+- name: "9. AI"
+  href: ai/index.md
+  items:
+  - name: "9.1 Intelligent application"
+    href: ai/intelligent-application.md
+  - name: "9.2 Retrieval-Augmented Generation (RAG)"
+    href: ai/retrieval-augmented-generation-rag.md
+  - name: "9.3 Vector"
+    href: ai/vector.md
+  - name: "9.4 Embedding"
+    href: ai/embedding.md
+- name: "10. Tools"
+  href: tools/index.md
+  items:
+  - name: "10.1 dta utility"
+    href: tools/dta-utility.md
+  - name: "10.2 Distributed Replay"
+    href: tools/distributed-replay.md
+  - name: "10.3 SQL Server Configuration Manager"
+    href: tools/sql-server-configuration-manager.md
+  - name: "10.4 bulk copy program utility (bcp)"
+    href: tools/bulk-copy-program-utility-bcp.md
+  - name: "10.5 sqlcmd utility"
+    href: tools/sqlcmd-utility.md
+  - name: "10.6 ssbdiagnose utility"
+    href: tools/ssbdiagnose-utility.md
+  - name: "10.7 SQL Server Data Tools (SSDT)"
+    href: tools/sql-server-data-tools-ssdt.md
+  - name: "10.8 SQL Server Management Studio (SSMS)"
+    href: tools/sql-server-management-studio-ssms.md
+  - name: "10.9 SQL database project"
+    href: tools/sql-database-project.md
+  - name: "10.10 SqlPackage"
+    href: tools/sqlpackage.md
+  - name: "10.11 SQL Server Profiler"
+    href: tools/sql-server-profiler.md
+  - name: "10.12 MSSQL extension for Visual Studio Code"
+    href: tools/mssql-extension-for-visual-studio-code.md

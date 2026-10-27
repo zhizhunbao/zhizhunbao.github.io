@@ -8,7 +8,7 @@ ms.date: 2026-10-25
 
 ## Classification
 
-![Data sorted into six groups: the curriculum CS2023 DM with its 13 knowledge units, the analytics engine Apache Spark, the document database MongoDB, the in-memory data store Redis, the relational database system PostgreSQL, and the vector database Chroma.](media/data.png)
+![Data sorted into six groups: the curriculum CS2023 DM with its 13 knowledge units, the analytics engine Apache Spark, the document database MongoDB, the in-memory data store Redis, the relational database systems PostgreSQL and SQL Server, and the vector database Chroma.](media/data.png)
 
 ## Glossary
 
