@@ -1,6 +1,6 @@
 # 6. Web: allowed sub-pages
 
-Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`). Source: [Azure documentation: Web](https://learn.microsoft.com/en-us/azure/?product=web), the "Browse Azure products" section, in the order of that list.
+Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`). Source: [Azure documentation: Web](https://learn.microsoft.com/en-us/azure/?product=web), the "Browse Azure products" section, in the order of that list. Each product's definition is quoted from its own documentation (its overview page), not from the one-line description in that list.
 
 ## Sub-pages
 
