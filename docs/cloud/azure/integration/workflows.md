@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 10.1 Workflows
 
-Sources: [Azure Integration Services](https://azure.microsoft.com/en-us/solutions/integration-services); [What is Azure Logic Apps?](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview).
-
 ## Classification
 
 ![Workflows, so far one term: Azure Logic Apps, from What is Azure Logic Apps?](media/workflows.png)

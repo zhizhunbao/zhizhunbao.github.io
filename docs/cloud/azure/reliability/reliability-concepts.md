@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 3.3 Reliability concepts
 
-Sources: [Shared responsibility for reliability](https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility); [Business continuity, high availability, and disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery); [Redundancy, replication, and backup](https://learn.microsoft.com/en-us/azure/reliability/concept-redundancy-replication-backup); [Failover and failback](https://learn.microsoft.com/en-us/azure/reliability/concept-failover-failback); [Reliability and sovereignty in Azure](https://learn.microsoft.com/en-us/azure/reliability/concept-reliability-sovereignty); [How to read a service-level agreement (SLA)](https://learn.microsoft.com/en-us/azure/reliability/concept-service-level-agreements).
-
 ## Classification
 
 ![Reliability concepts, so far eight terms: high availability, fault tolerance, scalability and elasticity, Recovery Point Objective (RPO) and Recovery Time Objective (RTO) from What are business continuity, high availability, and disaster recovery?, and redundancy, replication and backup from What are redundancy, replication, and backup?](media/reliability-concepts.png)

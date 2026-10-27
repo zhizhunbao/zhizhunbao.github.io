@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 3.1 Azure regions
 
-Sources: [What are Azure regions?](https://learn.microsoft.com/en-us/azure/reliability/regions-overview); [Paired and nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-paired); [Services with multiregion support](https://learn.microsoft.com/en-us/azure/reliability/regions-multiregion-support); [Multiregion solutions in nonpaired regions](https://learn.microsoft.com/en-us/azure/reliability/regions-multi-region-nonpaired); [Nonregional Azure services](https://learn.microsoft.com/en-us/azure/reliability/regions-nonregional-services); [Azure regions list](https://learn.microsoft.com/en-us/azure/reliability/regions-list).
-
 ## Classification
 
 ![Azure regions, so far the terms of What are Azure regions?: region, geography, sovereign cloud, region pairs, nonpaired regions, nonregional services.](media/azure-regions.png)

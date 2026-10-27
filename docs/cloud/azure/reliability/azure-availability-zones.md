@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 3.2 Azure availability zones
 
-Sources: [What are Azure availability zones?](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview); [Services with availability zone support](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support); [Single zone (zonal) resources](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-zonal-resource-resiliency); [Enable zone resiliency](https://learn.microsoft.com/en-us/azure/reliability/availability-zones-enable-zone-resiliency).
-
 ## Classification
 
 ![Azure availability zones, so far the terms of What are availability zones?: availability zone, zone-redundant resources, zonal resources, zone-resilient, nonzonal deployment, physical zone, logical zone.](media/azure-availability-zones.png)
