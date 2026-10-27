@@ -1,11 +1,35 @@
 ---
 title: "4.2 Platform as a service (PaaS)"
 description: "Microsoft Azure, 4.2 Platform as a service (PaaS): Azure App Service, Azure Kubernetes Service (AKS), Azure Kubernetes Fleet Manager, Azure Container Apps, Azure Container Instances, Azure Red Hat OpenShift, Azure Batch, Azure Static Web Apps, Azure Spring Apps, Azure Cloud Services (extended support)."
-ms.date: 2026-10-22
+ms.date: 2026-10-26
 ---
 
 # 4.2 Platform as a service (PaaS)
 
-Sources: [Azure Architecture Center: Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree).
+Sources: [Azure documentation: Compute](https://learn.microsoft.com/en-us/azure/?product=compute); [Azure Architecture Center: Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree); [What are Azure App Service plans?](https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans).
 
-Not written yet.
+## Classification
+
+![Platform as a service (PaaS), ten terms: Azure App Service, AKS, Container Apps, Container Instances, Red Hat OpenShift and Batch, defined in Choose an Azure compute service, and Kubernetes Fleet Manager, Static Web Apps, Spring Apps and Cloud Services (extended support), described in the Compute list of the Azure documentation; Azure App Service expanded into the Azure App Service plan, from What are Azure App Service plans?](media/platform-as-a-service.png)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Azure App Service**<br>Azure 应用服务 | "Azure App Service is a **managed service** for **hosting web apps, mobile app back ends, RESTful APIs, or automated business processes**." | Azure App Service 是一项**托管服务**，用于**托管 Web 应用、移动应用后端、RESTful API 或自动化业务流程**。 | [Microsoft, 2026a, "Understand the basic features" section, list item 2](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:~:text=is%20a%20managed%20service%20for%20hosting%20web%20apps) |
+| **Azure App Service plan**<br>Azure 应用服务计划 | "An Azure App Service plan **defines a set of compute resources** for **a web app to run**. An app service always runs in an App Service plan." | Azure App Service 计划**定义一组计算资源**，供 **Web 应用运行**。应用服务始终在某个 App Service 计划中运行。 | [Microsoft, 2026b, para. 1](https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans#:~:text=defines%20a%20set%20of%20compute%20resources) |
+| **Azure Kubernetes Service (AKS)**<br>Azure Kubernetes 服务（AKS） | "Azure Kubernetes Service (AKS) is a **managed Kubernetes service** for **running containerized applications**." | Azure Kubernetes Service（AKS）是一项**托管 Kubernetes 服务**，用于**运行容器化应用程序**。 | [Microsoft, 2026a, "Understand the basic features" section, list item 4](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:~:text=is%20a%20managed%20Kubernetes%20service) |
+| **Azure Kubernetes Fleet Manager**<br>Azure Kubernetes 舰队管理器 | "**Enable multi-cluster and at-scale scenarios** for **Azure Kubernetes Service clusters**" | **启用多群集和大规模场景**，面向 **Azure Kubernetes Service 群集**。 | [Microsoft, n.d., "Browse Azure products" section, Compute, item 7](https://learn.microsoft.com/en-us/azure/#:~:text=Enable%20multi%2Dcluster%20and%20at%2Dscale) |
+| **Azure Container Apps**<br>Azure 容器应用 | "Azure Container Apps is a **managed service built on Kubernetes**, which simplifies the deployment of containerized applications in a **serverless environment**." | Azure Container Apps 是一项**基于 Kubernetes 构建的托管服务**，可简化在**无服务器环境**中部署容器化应用程序。 | [Microsoft, 2026a, "Understand the basic features" section, list item 5](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:~:text=is%20a%20managed%20service%20built%20on%20Kubernetes) |
+| **Azure Container Instances**<br>Azure 容器实例 | "Azure Container Instances is a service for **running a single container or group of containers** in Azure. Container Instances doesn't provide full container orchestration, but you can implement containers **without the need to provision VMs** or adopt a higher-level service." | Azure Container Instances 是一项服务，用于在 Azure 中**运行单个容器或一组容器**。Container Instances 不提供完整的容器编排，但你可以**无需预配 VM** 或采用更高层级的服务就实现容器。 | [Microsoft, 2026a, "Understand the basic features" section, list item 6](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:~:text=is%20a%20service%20for%20running%20a%20single%20container) |
+| **Azure Red Hat OpenShift**<br>Azure Red Hat OpenShift | "Azure Red Hat OpenShift is a **fully managed OpenShift cluster** for **running containers in production with Kubernetes**." | Azure Red Hat OpenShift 是一个**完全托管的 OpenShift 群集**，用于**借助 Kubernetes 在生产环境中运行容器**。 | [Microsoft, 2026a, "Understand the basic features" section, list item 7](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:~:text=is%20a%20fully%20managed%20OpenShift%20cluster) |
+| **Azure Batch**<br>Azure 批处理 | "Azure Batch is a **managed service** for **running large-scale parallel and high-performance computing** (HPC) applications." | Azure Batch 是一项**托管服务**，用于**运行大规模并行和高性能计算**（HPC）应用程序。 | [Microsoft, 2026a, "Understand the basic features" section, list item 8](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:~:text=running%20large%2Dscale%20parallel%20and%20high%2Dperformance) |
+| **Azure Static Web Apps**<br>Azure 静态 Web 应用 | "A **modern web app service** that offers **streamlined full-stack development** from source code to global high availability" | 一种**现代 Web 应用服务**，提供从源代码到全球高可用性的**简化全栈开发**。 | [Microsoft, n.d., "Browse Azure products" section, Compute, item 18](https://learn.microsoft.com/en-us/azure/#:~:text=A%20modern%20web%20app%20service%20that%20offers) |
+| **Azure Spring Apps**<br>Azure Spring Apps | "A **fully managed Spring Cloud service**, built and operated with **Pivotal**" | 一项**完全托管的 Spring Cloud 服务**，与 **Pivotal** 共同构建和运营。 | [Microsoft, n.d., "Browse Azure products" section, Compute, item 12](https://learn.microsoft.com/en-us/azure/#:~:text=A%20fully%20managed%20Spring%20Cloud%20service) |
+| **Azure Cloud Services (extended support)**<br>Azure 云服务（扩展支持） | "Create **highly available, infinitely scalable cloud applications and APIs**" | 创建**高可用、可无限扩展的云应用程序和 API**。 | [Microsoft, n.d., "Browse Azure products" section, Compute, item 16](https://learn.microsoft.com/en-us/azure/#:~:text=Create%20highly%20available%2C%20infinitely%20scalable) |
+
+## References
+
+- Microsoft. (n.d.). *Azure documentation*. Microsoft Learn. Retrieved October 26, 2026, from https://learn.microsoft.com/en-us/azure/
+- Microsoft. (2026a, February 19). *Choose an Azure compute service*. Azure Architecture Center. https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
+- Microsoft. (2026b, August 24). *What are Azure App Service plans?* Microsoft Learn. https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans
