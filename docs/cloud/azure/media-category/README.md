@@ -4,6 +4,4 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-None: the topic has no groups, so its overview (`index.md`) is the fourth level and holds every product, each with its Glossary row.
-
-Products defined elsewhere, linked from the Glossary: Azure Front Door and Content Delivery Network (CDN) (7.2.3 Azure Front Door).
+None: the topic has no groups, so its overview (`index.md`) is the fourth level and holds every product, each with its Glossary row quoting its one-line description on the home page, also where the product is defined in another topic.

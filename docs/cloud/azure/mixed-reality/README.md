@@ -5,5 +5,3 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 ## Sub-pages
 
 None: every product is defined in another topic.
-
-Products defined elsewhere, linked from the Glossary: Azure Digital Twins (12.2.4 Azure Digital Twins).

@@ -14,9 +14,9 @@ ms.date: 2026-10-26
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **Media**<br>媒体 | — | — | [Microsoft, n.d., "Browse Azure products" section, Media](https://learn.microsoft.com/en-us/azure/?product=media) |
+| **Media**<br>媒体 | "**videos, music, and photographs** that are **stored as particular types of file on a computer**" | 以**特定文件类型存储在计算机上**的**视频、音乐和照片**。 | [Cambridge University Press & Assessment, n.d., "media" noun (VIDEO/MUSIC FILES)](https://dictionary.cambridge.org/dictionary/english/media) |
 | **Azure AI Video Indexer**<br>Azure AI 视频索引器 | "Unlock **video insights**" | 解锁**视频洞察**。 | [Microsoft, n.d., "Browse Azure products" section, Media, item 1](https://learn.microsoft.com/en-us/azure/#:~:text=Unlock%20video%20insights) |
-| **Azure Front Door and Content Delivery Network (CDN)**<br>Azure Front Door和内容分发网络（CDN） | Defined in [7.2.3 Azure Front Door](../networking/load-balancing-and-content-delivery.md). | 定义见 7.2.3 Azure Front Door。 | — |
+| **Azure Front Door and Content Delivery Network (CDN)**<br>Azure Front Door和内容分发网络（CDN） | "Ensure **secure, reliable content delivery** with **broad global reach**" | 确保**安全、可靠的内容分发**，具有**广泛的全球覆盖**。 | [Microsoft, n.d., "Browse Azure products" section, Media, item 2](https://learn.microsoft.com/en-us/azure/#:~:text=Ensure%20secure%2C%20reliable%20content%20delivery%20with%20broad) |
 | **Azure Media Player**<br>Azure 媒体播放器 | "**A single player** for **all your playback needs**" | **一个播放器**满足**你的所有播放需求**。 | [Microsoft, n.d., "Browse Azure products" section, Media, item 3](https://learn.microsoft.com/en-us/azure/#:~:text=A%20single%20player%20for%20all%20your%20playback%20needs) |
 | **Content Protection**<br>内容保护 | "**Securely deliver content** using AES, PlayReady, Widevine, and Fairplay" | **安全地分发内容**，使用 AES、PlayReady、Widevine 和 Fairplay。 | [Microsoft, n.d., "Browse Azure products" section, Media, item 4](https://learn.microsoft.com/en-us/azure/#:~:text=Securely%20deliver%20content%20using%20AES%2C%20PlayReady%2C%20Widevine%2C%20and%20Fairplay) |
 | **Encoding**<br>编码 | "**Studio grade encoding** at **cloud scale**" | **演播室级编码**，达到**云规模**。 | [Microsoft, n.d., "Browse Azure products" section, Media, item 5](https://learn.microsoft.com/en-us/azure/#:~:text=Studio%20grade%20encoding%20at%20cloud%20scale) |
@@ -29,4 +29,5 @@ None of the certifications listed in the folder README names this topic's own pr
 
 ## References
 
+- Cambridge University Press & Assessment. (n.d.). Media. In *Cambridge Dictionary*. Retrieved October 26, 2026, from https://dictionary.cambridge.org/dictionary/english/media
 - Microsoft. (n.d.). *Azure documentation*. Microsoft Learn. Retrieved October 25, 2026, from https://learn.microsoft.com/en-us/azure/

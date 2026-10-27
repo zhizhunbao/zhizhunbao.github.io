@@ -24,16 +24,12 @@ items:
 - name: "3. Reliability"
   href: reliability/index.md
   items:
-  - name: "3.1 Reliability guides for Azure services"
-    href: reliability/reliability-guides-for-azure-services.md
-  - name: "3.2 Azure regions"
+  - name: "3.1 Azure regions"
     href: reliability/azure-regions.md
-  - name: "3.3 Azure availability zones"
+  - name: "3.2 Azure availability zones"
     href: reliability/azure-availability-zones.md
-  - name: "3.4 Reliability concepts"
+  - name: "3.3 Reliability concepts"
     href: reliability/reliability-concepts.md
-  - name: "3.5 Resources"
-    href: reliability/resources.md
 - name: "4. Compute"
   href: compute/index.md
   items:

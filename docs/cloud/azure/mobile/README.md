@@ -4,6 +4,4 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 
 ## Sub-pages
 
-None: the topic has no groups, so its overview (`index.md`) is the fourth level and holds every product, each with its Glossary row.
-
-Products defined elsewhere, linked from the Glossary: API Management (10.2.1 Azure API Management); App Configuration (6. Web); App Service (4.2.1 Azure App Service); Azure AI Search (13.2.8 Azure AI Search); Azure Communication Services (6. Web); Azure Maps (6. Web); Microsoft Foundry (13.1.1 Microsoft Foundry); Notification Hubs (6. Web).
+None: the topic has no groups, so its overview (`index.md`) is the fourth level and holds every product, each with its Glossary row quoting its one-line description on the home page, also where the product is defined in another topic.
