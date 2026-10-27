@@ -12,3 +12,5 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 | 20.4 | `monitoring-tools.md` | Monitoring tools | [AZ-900 module: Describe monitoring tools in Azure](https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/) | 20.4.1 Azure Advisor, 20.4.2 Azure Service Health, 20.4.3 Azure Monitor, 20.4.4 Log Analytics, 20.4.5 Azure Monitor alerts, 20.4.6 Application Insights |
 
 Management groups, subscriptions and resource groups are 2.2 Management infrastructure. Total cost of ownership (taught in CST8913 and CST8912) is H3 inside 20.1.1 Factors that affect costs. Azure Monitor also appears in 5. Networking (7.5); it is defined here (20.4.3).
+
+Product rows in 20.1, 20.3 and 20.4 quote each product's own documentation (2026-10-27). "Factors that affect costs" and "Cost optimization options" are AZ-900 unit topics with no product page, so those two rows quote the units as context.
