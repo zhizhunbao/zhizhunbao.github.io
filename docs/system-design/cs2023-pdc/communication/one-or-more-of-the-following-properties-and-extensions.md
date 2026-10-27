@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, PDC-Communication, topic 5, p. 159](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=159).
 
-Tier: KA Core.
-
 Parts:
 
 - a. Topologies: Unicast, Multicast, Mailboxes, Switches; Routing via hardware and software interconnection networks

@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, SPD-Game, topic 4, p. 245](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=245).
 
-Tier: KA Core.
-
 Parts:
 
 - a. Open Game Engines (e.g., Unreal; Unity; Godot; CryEngine; Phyre; Source 2; Pygame and Ren’Py; Phaser; Twine; Spring RTS)

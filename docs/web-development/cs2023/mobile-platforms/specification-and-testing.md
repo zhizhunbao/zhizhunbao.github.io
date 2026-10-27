@@ -8,6 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, SPD-Mobile, topic 7, p. 242](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=242).
 
-Tier: Non-core. See also: SDF-Practices, SE-Validation.
+See also: SDF-Practices, SE-Validation.
 
 Not written yet.

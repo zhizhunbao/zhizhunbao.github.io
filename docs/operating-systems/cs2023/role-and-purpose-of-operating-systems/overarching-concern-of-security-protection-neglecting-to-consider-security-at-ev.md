@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, OS-Purpose, topic 6, p. 144](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=144).
 
-Tier: CS Core.
-
 Parts:
 
 - a. Unauthorized access to files on an unencrypted drive can be achieved by moving the media to another computer.

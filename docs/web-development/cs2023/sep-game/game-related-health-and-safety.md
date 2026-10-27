@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, SPD-SEP/Game, topic 3, p. 248](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=248).
 
-Tier: Non-core.
-
 Parts:
 
 - a. Injuries in Play: ways of mitigating common upper body injuries, such as repetitive strain injury; exercise psychology and physiotherapy in eSports

@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, AR-SEP, topic 1, p. 47](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=47).
 
-Tier: Non-core.
-
 Parts:
 
 - a. Sustainability goals, resource consumption, and economic viability

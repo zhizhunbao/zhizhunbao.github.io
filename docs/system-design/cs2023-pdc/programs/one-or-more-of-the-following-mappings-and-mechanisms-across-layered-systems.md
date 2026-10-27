@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, PDC-Programs, topic 5, p. 158](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=158).
 
-Tier: KA Core.
-
 Parts:
 
 - a. CPU data- and instruction-level-parallelism (See also: AR-Organization)

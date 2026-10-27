@@ -8,6 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, SF-Evaluation, topic 2, p. 233](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=233).
 
-Tier: CS Core. See also: AR-Performance-Energy, PDC-Evaluation.
+See also: AR-Performance-Energy, PDC-Evaluation.
 
 Not written yet.

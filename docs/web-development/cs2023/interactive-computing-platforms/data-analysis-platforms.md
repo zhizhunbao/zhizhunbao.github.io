@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, SPD-Interactive, topic 1, p. 246](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=246).
 
-Tier: Non-core.
-
 Parts:
 
 - a. Jupyter notebooks; Google Colab; R; SPSS; Observable.

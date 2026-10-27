@@ -8,7 +8,7 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, DM-Processing, topic 3, p. 57](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=57).
 
-Tier: KA Core. See also: OS-Files.
+See also: OS-Files.
 
 Parts:
 

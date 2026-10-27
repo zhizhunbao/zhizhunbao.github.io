@@ -8,6 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, FPL-Scripting, topic 4, p. 72](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=72).
 
-Tier: CS Core. See also: SF-Overview.
+See also: SF-Overview.
 
 Not written yet.

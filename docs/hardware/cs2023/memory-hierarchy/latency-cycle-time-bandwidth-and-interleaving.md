@@ -8,6 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, AR-Memory, topic 4, p. 42](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=42).
 
-Tier: CS Core. See also: SF-Performance.
+See also: SF-Performance.
 
 Not written yet.

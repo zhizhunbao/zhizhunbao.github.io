@@ -8,7 +8,7 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, GIT-SEP, topic 2, p. 103](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=103).
 
-Tier: KA Core. See also: SEP-Privacy, SEP-Professional-Ethics, and SEP-Security.
+See also: SEP-Privacy, SEP-Professional-Ethics, and SEP-Security.
 
 Parts:
 

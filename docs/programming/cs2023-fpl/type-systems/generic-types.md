@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, FPL-Types, topic 6, p. 75](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=75).
 
-Tier: CS Core.
-
 Parts:
 
 - a. Definition and advantages of polymorphism: parametric, subtyping, overloading, and coercion

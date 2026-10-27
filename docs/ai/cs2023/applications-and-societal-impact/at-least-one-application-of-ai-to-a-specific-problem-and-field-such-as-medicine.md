@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, AI-SEP, topic 1, p. 13](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=13).
 
-Tier: CS Core.
-
 Parts:
 
 - a. Formulating and evaluating a specific application as an AI problem

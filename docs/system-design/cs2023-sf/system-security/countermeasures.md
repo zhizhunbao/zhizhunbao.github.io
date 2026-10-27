@@ -8,7 +8,7 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, SF-Security, topic 2, p. 235](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=235).
 
-Tier: CS Core. See also: OS-Principles, OS-Protection, NC-Security.
+See also: OS-Principles, OS-Protection, NC-Security.
 
 Parts:
 

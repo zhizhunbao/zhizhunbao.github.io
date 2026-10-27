@@ -8,6 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, NC-Fundamentals, topic 5, p. 136](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=136).
 
-Tier: CS Core. See also: SF-Foundations.
+See also: SF-Foundations.
 
 Not written yet.

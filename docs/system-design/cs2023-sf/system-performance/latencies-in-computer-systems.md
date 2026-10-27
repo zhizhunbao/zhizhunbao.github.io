@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, SF-Performance, topic 1, p. 232](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=232).
 
-Tier: CS Core.
-
 Parts:
 
 - a. Speed of light and computers (one foot per nanosecond vs one GHz clocks) (See also: AR- Organization)

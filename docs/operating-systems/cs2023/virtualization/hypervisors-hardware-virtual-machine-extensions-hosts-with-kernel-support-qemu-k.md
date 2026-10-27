@@ -8,8 +8,6 @@ ms.date: 2026-10-27
 
 Sources: [CS2023 Body of Knowledge, OS-Virtualization, topic 10, p. 151](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=151); [NIST SP 800-125, Guide to Security for Full Virtualization Technologies](https://doi.org/10.6028/NIST.SP.800-125).
 
-Tier: Non-core.
-
 ## Classification
 
 ![Hypervisors: full virtualization and the hypervisor, with full virtualization expanded into its two forms, bare metal and hosted, from NIST SP 800-125.](media/hypervisors-hardware-virtual-machine-extensions-hosts-with-kernel-support-qemu-k.png)

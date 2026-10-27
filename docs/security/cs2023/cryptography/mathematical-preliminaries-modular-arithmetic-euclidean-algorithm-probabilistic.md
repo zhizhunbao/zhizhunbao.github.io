@@ -8,6 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, SEC-Crypto, topic 2, p. 198](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=198).
 
-Tier: CS Core. See also: MSF- Discrete, MSF-Linear.
+See also: MSF- Discrete, MSF-Linear.
 
 Not written yet.

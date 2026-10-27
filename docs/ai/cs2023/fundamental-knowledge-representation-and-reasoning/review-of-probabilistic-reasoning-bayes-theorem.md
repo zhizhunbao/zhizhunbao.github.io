@@ -8,6 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, AI-KRR, topic 2, p. 8](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=8).
 
-Tier: CS Core. See also: MSF-Probability.
+See also: MSF-Probability.
 
 Not written yet.

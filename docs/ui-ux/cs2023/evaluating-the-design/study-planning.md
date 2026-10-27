@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, HCI-Evaluation, topic 3, p. 116](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=116).
 
-Tier: KA Core.
-
 Parts:
 
 - a. How to set study goals

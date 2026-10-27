@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, GIT-Simulation, topic 5, p. 99](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=99).
 
-Tier: KA Core.
-
 Parts:
 
 - a. Terrain: transport, erosion

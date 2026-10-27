@@ -8,8 +8,6 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, HCI-User, topic 3, p. 112](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=112).
 
-Tier: KA Core.
-
 Parts:
 
 - a. Physical capabilities that inform interaction design (e.g., color perception, ergonomics) Knowledge Unit Understanding the User Accountability and Responsibility in Design Accessibility and Inclusive Design Evaluating the Design System Design Society, Ethics, and the Profession Included in SEP hours Total Hours

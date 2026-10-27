@@ -8,7 +8,7 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, FPL-Functional, topic 1, p. 69](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=69).
 
-Tier: CS Core. See also: AL-Models, FPL-Formalism.
+See also: AL-Models, FPL-Formalism.
 
 Parts:
 

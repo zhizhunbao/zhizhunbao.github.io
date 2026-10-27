@@ -8,7 +8,7 @@ ms.date: 2026-10-25
 
 Sources: [CS2023 Body of Knowledge, HCI-User, topic 1, p. 112](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=112).
 
-Tier: CS Core. See also: SEP-Context, SEP-Ethical-Analysis, SEP-Professional-Ethics.
+See also: SEP-Context, SEP-Ethical-Analysis, SEP-Professional-Ethics.
 
 Parts:
 
