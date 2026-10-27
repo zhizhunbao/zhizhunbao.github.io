@@ -98,6 +98,7 @@ A topic folder holds only:
 - The table: one row per box, in figure order, `Term | Definition | 中文解释 | Source`. Where the source defines the term, the Definition quotes that definition; where it only mentions the term, it quotes the sentence where the term appears, marked "(context)". The Source gives section, paragraph and `#:~:text=` anchor.
 - Default cases (follow them without asking; ask only about a case not listed):
   - Where the source gives a part no components or kinds, the parts themselves are the boxes inside the outer frame (24.1 to 24.4).
+  - Where only some parts have components or kinds, every part is still a dashed group, in the source's order: a part without them is a group with only its name (1.5 Benefits: Scalability, Predictability and Manageability hold their kinds; High availability, Reliability, Security and Governance are name-only groups). One level never mixes boxes and groups. Groups are as tall as their content.
   - A list of what a part does or when to use it is not boxed, except for a term added under section 6.
   - A definition found in another section of the same source is quoted with its real section.
   - A term defined elsewhere in the folder keeps its box, and its table row only links there.

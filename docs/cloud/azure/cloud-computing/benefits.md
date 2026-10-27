@@ -1,11 +1,40 @@
 ---
 title: "1.5 Benefits"
 description: "Microsoft Azure, 1.5 Benefits: high availability, scalability, reliability, predictability, security, governance, manageability."
-ms.date: 2026-10-22
+ms.date: 2026-10-26
 ---
 
 # 1.5 Benefits
 
 Sources: [AZ-900 module: Describe the benefits of using cloud services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/).
 
-Not written yet.
+## Classification
+
+![Benefits sorted into seven groups: high availability, scalability (vertical scaling, horizontal scaling), reliability, predictability (performance predictability, cost predictability), security, governance and manageability (management of the cloud, management in the cloud).](media/benefits.png)
+
+## Glossary
+
+| Term | Definition | 中文解释 | Source |
+|---|---|---|---|
+| **Benefits**<br>优势 | "You learn how cloud computing can help you **meet variable demand** while providing a **good experience** for your customer. You also learn about **security**, **governance**, sustainability, and overall **manageability** in the cloud." | 你将了解云计算如何帮助你**满足可变需求**，同时为客户提供**良好的体验**。你还将了解云中的**安全性**、**治理**、可持续性和整体**可管理性**。 | [Microsoft, n.d.-a, "Introduction" unit, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/1-introduction#:~:text=You%20learn%20how%20cloud%20computing%20can%20help%20you%20meet%20variable%20demand) |
+| **High availability**<br>高可用性 | "High availability focuses on **ensuring maximum availability**, **regardless of disruptions or events** that may occur." | 高可用性侧重于**确保最大可用性**，**无论可能发生何种中断或事件**。 | [Microsoft, n.d.-b, "High availability" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud#:~:text=High%20availability%20focuses%20on%20ensuring%20maximum%20availability) |
+| **Scalability**<br>可伸缩性 | "Scalability refers to the **ability to adjust resources** to **meet demand**." | 可伸缩性是指**调整资源的能力**，以**满足需求**。 | [Microsoft, n.d.-b, "Scalability" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud#:~:text=Scalability%20refers%20to%20the%20ability%20to%20adjust%20resources) |
+| **Vertical scaling**<br>垂直缩放 | "Vertical scaling is focused on **increasing or decreasing the capabilities** of resources." | 垂直缩放侧重于**增加或减少资源的能力**。 | [Microsoft, n.d.-b, "Scalability" section, para. 3](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud#:~:text=Vertical%20scaling%20is%20focused%20on%20increasing%20or%20decreasing%20the%20capabilities) |
+| **Horizontal scaling**<br>水平缩放 | "Horizontal scaling is **adding or subtracting the number of resources**." | 水平缩放是**增加或减少资源的数量**。 | [Microsoft, n.d.-b, "Scalability" section, para. 3](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud#:~:text=Horizontal%20scaling%20is%20adding%20or%20subtracting%20the%20number%20of%20resources) |
+| **Reliability**<br>可靠性 | "Reliability is the ability of a system to **recover from failures** and **continue to function**." | 可靠性是系统**从故障中恢复**并**继续运行**的能力。 | [Microsoft, n.d.-c, "Reliability" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud#:~:text=Reliability%20is%20the%20ability%20of%20a%20system%20to%20recover%20from%20failures) |
+| **Predictability**<br>可预测性 | "Predictability can be focused on **performance predictability** or **cost predictability**." | 可预测性可以侧重于**性能可预测性**或**成本可预测性**。 | [Microsoft, n.d.-c, "Predictability" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud#:~:text=Predictability%20can%20be%20focused%20on%20performance%20predictability) |
+| **Performance predictability**<br>性能可预测性 | "Performance predictability focuses on **predicting the resources needed** to deliver a **positive experience** for your customers." | 性能可预测性侧重于**预测所需的资源**，以便为客户提供**良好的体验**。 | [Microsoft, n.d.-c, "Performance" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud#:~:text=Performance%20predictability%20focuses%20on%20predicting%20the%20resources%20needed) |
+| **Cost predictability**<br>成本可预测性 | "Cost predictability is focused on **predicting or forecasting the cost** of the **cloud spend**." | 成本可预测性侧重于**预测或预估成本**，对象是**云支出**。 | [Microsoft, n.d.-c, "Cost" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud#:~:text=Cost%20predictability%20is%20focused%20on%20predicting%20or%20forecasting%20the%20cost) |
+| **Security**<br>安全性 | (context) "On the **security** side, you can find a cloud solution that **matches your security needs**." | （语境）在**安全性**方面，你可以找到**符合你安全需求**的云解决方案。 | [Microsoft, n.d.-d, "Describe the benefits of security and governance in the cloud" unit, para. 3](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud#:~:text=On%20the%20security%20side%2C%20you%20can%20find%20a%20cloud%20solution) |
+| **Governance**<br>治理 | (context) "Whether you're deploying infrastructure as a service or software as a service, **cloud features support governance and compliance**." | （语境）无论你部署的是基础结构即服务还是软件即服务，**云功能都支持治理和合规性**。 | [Microsoft, n.d.-d, "Describe the benefits of security and governance in the cloud" unit, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud#:~:text=cloud%20features%20support%20governance%20and%20compliance) |
+| **Manageability**<br>可管理性 | (context) "There are **two types of manageability** for cloud computing, and both are **excellent benefits**." | （语境）云计算有**两种类型的可管理性**，两者都是**出色的优势**。 | [Microsoft, n.d.-e, "Describe the benefits of manageability in the cloud" unit, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud#:~:text=There%20are%20two%20types%20of%20manageability%20for%20cloud%20computing) |
+| **Management of the cloud**<br>云管理 | "Management of the cloud speaks to **managing your cloud resources**." | 云管理指的是**管理你的云资源**。 | [Microsoft, n.d.-e, "Management of the cloud" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud#:~:text=Management%20of%20the%20cloud%20speaks%20to%20managing%20your%20cloud%20resources) |
+| **Management in the cloud**<br>云中的管理 | "Management in the cloud speaks to **how you're able to manage** your cloud environment and resources." | 云中的管理指的是**你能够通过什么方式管理**云环境和资源。 | [Microsoft, n.d.-e, "Management in the cloud" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud#:~:text=Management%20in%20the%20cloud%20speaks%20to%20how%20you) |
+
+## References
+
+- Microsoft. (n.d.-a). *Introduction* [Training unit of *Describe the benefits of using cloud services*]. Microsoft Learn. Retrieved October 26, 2026, from <https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/1-introduction>
+- Microsoft. (n.d.-b). *Describe the benefits of high availability and scalability in the cloud* [Training unit]. Microsoft Learn. Retrieved October 18, 2026, from <https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud>
+- Microsoft. (n.d.-c). *Describe the benefits of reliability and predictability in the cloud* [Training unit]. Microsoft Learn. Retrieved October 26, 2026, from <https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud>
+- Microsoft. (n.d.-d). *Describe the benefits of security and governance in the cloud* [Training unit]. Microsoft Learn. Retrieved October 19, 2026, from <https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud>
+- Microsoft. (n.d.-e). *Describe the benefits of manageability in the cloud* [Training unit]. Microsoft Learn. Retrieved October 26, 2026, from <https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud>
