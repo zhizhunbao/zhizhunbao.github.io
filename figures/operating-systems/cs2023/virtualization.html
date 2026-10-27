@@ -1,0 +1,36 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 20px; align-items: stretch; }
+  .row + .row { margin-top: 20px; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { width: 620px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; min-height: 50px; padding: 6px 8px; box-sizing: border-box; margin-bottom: 10px;
+          display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; text-align: center; padding: 6px 10px; line-height: 1.3; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Virtualization</div>
+  <div class="row">
+    <div class="col">
+      <div class="group" style="border:none;padding:0;">
+        <div class="item">Using virtualization and isolation to achieve protection and predictable performance</div>
+        <div class="item">Advanced paging and virtual memory</div>
+        <div class="item">Virtual file systems and virtual devices</div>
+        <div class="item">Containers and their comparison to virtual machines</div>
+        <div class="item">Thrashing (e.g., Popek and Goldberg requirements for recursively virtualizable systems)</div>
+        <div class="item">Types of virtualizations (including hardware/software, OS, server, service, network)</div>
+        <div class="item">Portable virtualization; emulation vs isolation</div>
+        <div class="item">Cost of virtualization</div>
+        <div class="item">Virtual machines and container escapes, dangers from a security perspective</div>
+        <div class="item">Hypervisors- hardware virtual machine extensions, hosts with kernel support, QEMU KVM</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>
