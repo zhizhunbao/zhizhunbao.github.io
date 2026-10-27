@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Discrete Mathematics: the 8 topics of the CS2023 knowledge unit MSF-Discrete, one group each in CS2023 order; each group holds the parts CS2023 lists for the topic, or the items named in its title.](media/discrete-mathematics.png)
+![Discrete Mathematics: the 8 topics of the CS2023 knowledge unit MSF-Discrete, one group each in CS2023 order, each holding the terms defined on its page.](media/discrete-mathematics.png)
 
 ## Glossary
 
