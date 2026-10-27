@@ -5,28 +5,62 @@
   .frame { display: inline-block; margin: 2px; padding: 14px 14px 14px; border: 1.5px dashed #333; border-radius: 10px; }
   .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
   .row { display: flex; gap: 14px; align-items: stretch; }
-  .frame > .col { width: 330px; gap: 0; }
   .col { display: flex; flex-direction: column; gap: 14px; }
   .col .group { flex: 1 0 auto; }
-  .group { min-width: 330px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group { width: 420px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px;
           display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; text-align: center; padding: 0 6px; color: #222; }
 </style></head>
 <body>
-<div class="frame" id="fig">
+<div class="frame" id="fig" style="position:relative;">
   <div class="title">Reliability concepts</div>
-  <div class="col">
-    <div class="item">High availability</div>
-    <div class="item">Fault tolerance</div>
-    <div class="item">Scalability and elasticity</div>
-    <div class="item">Chaos engineering</div>
-    <div class="item">Azure Chaos Studio</div>
-    <div class="item">Recovery Point Objective (RPO)</div>
-    <div class="item">Recovery Time Objective (RTO)</div>
-    <div class="item">Redundancy</div>
-    <div class="item">Replication</div>
-    <div class="item">Backup</div>
+  <div class="row" style="gap:70px;align-items:flex-start;">
+    <div class="col">
+      <div class="group" style="border:none;padding:0 12px 0 12px;">
+        <div class="item" id="f0">Shared responsibility model for reliability</div>
+        <div class="item">High availability</div>
+        <div class="item">Fault tolerance</div>
+        <div class="item">Scalability and elasticity</div>
+        <div class="item">Chaos engineering</div>
+        <div class="item">Azure Chaos Studio</div>
+        <div class="item">Recovery Point Objective (RPO)</div>
+        <div class="item">Recovery Time Objective (RTO)</div>
+        <div class="item">Redundancy</div>
+        <div class="item">Replication</div>
+        <div class="item">Backup</div>
+        <div class="item" id="f11">Failover</div>
+        <div class="item">Failback</div>
+        <div class="item">Service-level agreement (SLA)</div>
+        <div class="item">Service-level objective (SLO)</div>
+        <div class="item">Service credits</div>
+      </div>
+    </div>
+    <div class="col" style="gap:16px;">
+      <div class="group">
+        <div class="title" id="t0">Shared responsibility model for reliability</div>
+        <div class="item">Core platform reliability</div>
+        <div class="item">Reliability-enhancing capabilities</div>
+        <div class="item">Applications</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t11">Failover</div>
+        <div class="item">Active-active</div>
+        <div class="item">Planned failover</div>
+        <div class="item">Unplanned failover</div>
+      </div>
+    </div>
   </div>
+  <svg id="link" style="position:absolute;left:0;top:0;overflow:visible;pointer-events:none;"></svg>
 </div>
+<script>
+  const fig = document.getElementById('fig').getBoundingClientRect();
+  let p = '';
+  for (const [f, t] of [['f0','t0'],['f11','t11']]) {
+    const a = document.getElementById(f).getBoundingClientRect(), b = document.getElementById(t).getBoundingClientRect();
+    const x1 = a.right - fig.left, y1 = a.top + a.height / 2 - fig.top, x2 = b.left - fig.left, y2 = b.top + b.height / 2 - fig.top, mx = (x1 + x2) / 2;
+    p += `<path d="M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}" fill="none" stroke="#0f6cbd" stroke-width="1.5" stroke-dasharray="5 4"/>`;
+  }
+  document.getElementById('link').innerHTML = p;
+</script>
 </body></html>
