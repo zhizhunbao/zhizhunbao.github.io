@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Govern, in its sections: Build governance team, Assess risks, Document policies, Enforce policies, Monitor compliance (no terms yet in any section).](media/govern.png)
+![Govern, in its sections: Build governance team, Assess risks, Document policies, Enforce policies, Monitor compliance.](media/govern.png)
 
 ## Glossary
 

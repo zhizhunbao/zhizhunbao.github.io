@@ -147,10 +147,6 @@ items:
     href: ai-machine-learning/enterprise-intelligence-layers.md
 - name: "14. Media"
   href: media-category/index.md
-- name: "15. Mixed Reality"
-  href: mixed-reality/index.md
-- name: "16. Mobile"
-  href: mobile/index.md
 - name: "17. Identity"
   href: identity/index.md
   items:
@@ -190,8 +186,6 @@ items:
     href: management-and-governance/monitoring-tools.md
 - name: "21. Hybrid + multicloud"
   href: hybrid-multicloud/index.md
-- name: "22. Developer Tools"
-  href: developer-tools/index.md
 - name: "23. DevOps"
   href: devops/index.md
   items:

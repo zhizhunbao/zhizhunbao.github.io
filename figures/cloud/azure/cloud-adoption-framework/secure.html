@@ -7,51 +7,24 @@
   .row { display: flex; gap: 14px; align-items: stretch; }
   .col { display: flex; flex-direction: column; gap: 14px; }
   .col .group { flex: 1 0 auto; }
-  .group { width: 330px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group { width: 420px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px;
           display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; text-align: center; padding: 0 6px; color: #222; }
-  .group { width: max-content; }
 </style></head>
 <body>
-<div class="frame" id="fig">
+<div class="frame" id="fig" style="position:relative;">
   <div class="title">Secure</div>
-  <div class="row" style="margin-bottom:14px;">
+  <div class="row" style="gap:70px;align-items:flex-start;">
     <div class="col">
-      <div class="group">
-        <div class="title">Teams and roles</div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="group">
-        <div class="title">Strategy</div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="group">
-        <div class="title">Plan</div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="group">
-        <div class="title">Ready</div>
-      </div>
-    </div>
-  </div>
-  <div class="row" style="margin-bottom:14px;">
-    <div class="col">
-      <div class="group">
-        <div class="title">Adopt</div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="group">
-        <div class="title">Govern</div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="group">
-        <div class="title">Manage</div>
+      <div class="group" style="border:none;padding:0 12px 0 12px;">
+        <div class="item">Teams and roles</div>
+        <div class="item">Strategy</div>
+        <div class="item">Plan</div>
+        <div class="item">Ready</div>
+        <div class="item">Adopt</div>
+        <div class="item">Govern</div>
+        <div class="item">Manage</div>
       </div>
     </div>
   </div>

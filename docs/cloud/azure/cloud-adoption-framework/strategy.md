@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Strategy, in its sections: Motivations, mission and objectives (Motivations); Strategy team (no terms yet); Prepare your organization (no terms yet); Inform your strategy (no terms yet).](media/strategy.png)
+![Strategy, in its sections: Motivations, mission and objectives (expanded into Motivations), Strategy team, Prepare your organization, Inform your strategy.](media/strategy.png)
 
 ## Glossary
 

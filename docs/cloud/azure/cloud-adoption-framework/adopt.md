@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Adopt, in its sections: Migration, Modernization, Cloud-native (no terms yet in any section).](media/adopt.png)
+![Adopt, in its sections: Migration, Modernization, Cloud-native.](media/adopt.png)
 
 ## Glossary
 

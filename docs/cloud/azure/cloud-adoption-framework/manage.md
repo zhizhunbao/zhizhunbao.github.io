@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Manage, in its sections: Ready operations, Administer Azure, Monitor Azure, Protect Azure (no terms yet in any section).](media/manage.png)
+![Manage, in its sections: Ready operations, Administer Azure, Monitor Azure, Protect Azure.](media/manage.png)
 
 ## Glossary
 

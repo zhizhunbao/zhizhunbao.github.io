@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Ready, in its sections: Design principles, Journey to the target architecture, Design areas, Implementation options, Align, Enhance, Prepare your landing zone for migration (no terms yet in any section).](media/ready.png)
+![Ready, in its sections: Design principles, Journey to the target architecture, Design areas, Implementation options, Align, Enhance, Prepare your landing zone for migration.](media/ready.png)
 
 ## Glossary
 

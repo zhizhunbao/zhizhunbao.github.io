@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Secure, in its sections: Teams and roles, Strategy, Plan, Ready, Adopt, Govern, Manage (no terms yet in any section).](media/secure.png)
+![Secure, in its sections: Teams and roles, Strategy, Plan, Ready, Adopt, Govern, Manage.](media/secure.png)
 
 ## Glossary
 

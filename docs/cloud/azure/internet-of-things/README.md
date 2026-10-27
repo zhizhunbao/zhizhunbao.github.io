@@ -11,3 +11,5 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 | 12.3 | `edge-runtime.md` | Edge runtime | [Introduction to Azure IoT: Edge runtime](https://learn.microsoft.com/en-us/azure/iot/iot-introduction#edge-runtime); [What is Azure IoT Edge](https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge) | 12.3.1 Azure IoT Operations, 12.3.2 Azure IoT Edge |
 
 The cloud-connected and edge-connected patterns are architecture figures on 12.2 and 12.3. IoT Hub details taught in CST8916 (device identity registry, device twin, device-to-cloud telemetry, cloud-to-device commands) are H3 inside 12.2.1 Azure IoT Hub. Microsoft Fabric, the shared data plane, belongs to 9. Analytics.
+
+Mixed Reality (former 15) is merged here: its only product, Azure Digital Twins, is 12.2.4 (2026-10-27).

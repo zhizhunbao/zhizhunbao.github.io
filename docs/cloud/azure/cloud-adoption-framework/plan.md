@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Plan, in its sections: Define operating model (no terms yet); Gain cloud skills (no terms yet); Plan migration (Migration waves, Nonproduction environment, Downtime migration, Near-zero downtime migration, Rollback plan, Performance benchmark); Estimate cloud costs (no terms yet); Document adoption plan (no terms yet).](media/plan.png)
+![Plan, in its sections: Define operating model, Gain cloud skills, Plan migration (expanded into Migration waves, Nonproduction environment, Downtime migration, Near-zero downtime migration, Rollback plan, Performance benchmark), Estimate cloud costs, Document adoption plan.](media/plan.png)
 
 ## Glossary
 
