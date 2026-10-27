@@ -1,0 +1,208 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. General and reference"
+  href: general-and-reference/index.md
+  items:
+  - name: "1.1 Cross-computing tools and techniques"
+    href: general-and-reference/cross-computing-tools-and-techniques.md
+- name: "2. Hardware"
+  href: hardware/index.md
+  items:
+  - name: "2.1 Printed circuit boards"
+    href: hardware/printed-circuit-boards.md
+  - name: "2.2 Communication hardware, interfaces and storage"
+    href: hardware/communication-hardware-interfaces-and-storage.md
+  - name: "2.3 Integrated circuits"
+    href: hardware/integrated-circuits.md
+  - name: "2.4 Very large scale integration design"
+    href: hardware/very-large-scale-integration-design.md
+  - name: "2.5 Power and energy"
+    href: hardware/power-and-energy.md
+  - name: "2.6 Electronic design automation"
+    href: hardware/electronic-design-automation.md
+  - name: "2.7 Hardware validation"
+    href: hardware/hardware-validation.md
+  - name: "2.8 Hardware test"
+    href: hardware/hardware-test.md
+  - name: "2.9 Robustness"
+    href: hardware/robustness.md
+  - name: "2.10 Emerging technologies"
+    href: hardware/emerging-technologies.md
+- name: "3. Computer systems organization"
+  href: computer-systems-organization/index.md
+  items:
+  - name: "3.1 Architectures"
+    href: computer-systems-organization/architectures.md
+  - name: "3.2 Embedded and cyber-physical systems"
+    href: computer-systems-organization/embedded-and-cyber-physical-systems.md
+  - name: "3.3 Real-time systems"
+    href: computer-systems-organization/real-time-systems.md
+  - name: "3.4 Dependable and fault-tolerant systems and networks"
+    href: computer-systems-organization/dependable-and-fault-tolerant-systems-and-networks.md
+- name: "4. Networks"
+  href: networks/index.md
+  items:
+  - name: "4.1 Network architectures"
+    href: networks/network-architectures.md
+  - name: "4.2 Network protocols"
+    href: networks/network-protocols.md
+  - name: "4.3 Network components"
+    href: networks/network-components.md
+  - name: "4.4 Network algorithms"
+    href: networks/network-algorithms.md
+  - name: "4.5 Network performance evaluation"
+    href: networks/network-performance-evaluation.md
+  - name: "4.6 Network properties"
+    href: networks/network-properties.md
+  - name: "4.7 Network services"
+    href: networks/network-services.md
+  - name: "4.8 Network types"
+    href: networks/network-types.md
+- name: "5. Software and its engineering"
+  href: software-and-its-engineering/index.md
+  items:
+  - name: "5.1 Software organization and properties"
+    href: software-and-its-engineering/software-organization-and-properties.md
+  - name: "5.2 Software notations and tools"
+    href: software-and-its-engineering/software-notations-and-tools.md
+  - name: "5.3 Software creation and management"
+    href: software-and-its-engineering/software-creation-and-management.md
+- name: "6. Theory of computation"
+  href: theory-of-computation/index.md
+  items:
+  - name: "6.1 Models of computation"
+    href: theory-of-computation/models-of-computation.md
+  - name: "6.2 Formal languages and automata theory"
+    href: theory-of-computation/formal-languages-and-automata-theory.md
+  - name: "6.3 Computational complexity and cryptography"
+    href: theory-of-computation/computational-complexity-and-cryptography.md
+  - name: "6.4 Logic"
+    href: theory-of-computation/logic.md
+  - name: "6.5 Design and analysis of algorithms"
+    href: theory-of-computation/design-and-analysis-of-algorithms.md
+  - name: "6.6 Randomness, geometry and discrete structures"
+    href: theory-of-computation/randomness-geometry-and-discrete-structures.md
+  - name: "6.7 Theory and algorithms for application domains"
+    href: theory-of-computation/theory-and-algorithms-for-application-domains.md
+  - name: "6.8 Semantics and reasoning"
+    href: theory-of-computation/semantics-and-reasoning.md
+- name: "7. Mathematics of computing"
+  href: mathematics-of-computing/index.md
+  items:
+  - name: "7.1 Discrete mathematics"
+    href: mathematics-of-computing/discrete-mathematics.md
+  - name: "7.2 Probability and statistics"
+    href: mathematics-of-computing/probability-and-statistics.md
+  - name: "7.3 Mathematical software"
+    href: mathematics-of-computing/mathematical-software.md
+  - name: "7.4 Information theory"
+    href: mathematics-of-computing/information-theory.md
+  - name: "7.5 Mathematical analysis"
+    href: mathematics-of-computing/mathematical-analysis.md
+  - name: "7.6 Continuous mathematics"
+    href: mathematics-of-computing/continuous-mathematics.md
+- name: "8. Information systems"
+  href: information-systems/index.md
+  items:
+  - name: "8.1 Data management systems"
+    href: information-systems/data-management-systems.md
+  - name: "8.2 Information storage systems"
+    href: information-systems/information-storage-systems.md
+  - name: "8.3 Information systems applications"
+    href: information-systems/information-systems-applications.md
+  - name: "8.4 World Wide Web"
+    href: information-systems/world-wide-web.md
+  - name: "8.5 Information retrieval"
+    href: information-systems/information-retrieval.md
+- name: "9. Security and privacy"
+  href: security-and-privacy/index.md
+  items:
+  - name: "9.1 Cryptography"
+    href: security-and-privacy/cryptography.md
+  - name: "9.2 Formal methods and theory of security"
+    href: security-and-privacy/formal-methods-and-theory-of-security.md
+  - name: "9.3 Security services"
+    href: security-and-privacy/security-services.md
+  - name: "9.4 Intrusion/anomaly detection and malware mitigation"
+    href: security-and-privacy/intrusion-anomaly-detection-and-malware-mitigation.md
+  - name: "9.5 Security in hardware"
+    href: security-and-privacy/security-in-hardware.md
+  - name: "9.6 Systems security"
+    href: security-and-privacy/systems-security.md
+  - name: "9.7 Network security"
+    href: security-and-privacy/network-security.md
+  - name: "9.8 Database and storage security"
+    href: security-and-privacy/database-and-storage-security.md
+  - name: "9.9 Software and application security"
+    href: security-and-privacy/software-and-application-security.md
+  - name: "9.10 Human and societal aspects of security and privacy"
+    href: security-and-privacy/human-and-societal-aspects-of-security-and-privacy.md
+- name: "10. Human-centered computing"
+  href: human-centered-computing/index.md
+  items:
+  - name: "10.1 Human computer interaction (HCI)"
+    href: human-centered-computing/human-computer-interaction-hci.md
+  - name: "10.2 Interaction design"
+    href: human-centered-computing/interaction-design.md
+  - name: "10.3 Collaborative and social computing"
+    href: human-centered-computing/collaborative-and-social-computing.md
+  - name: "10.4 Ubiquitous and mobile computing"
+    href: human-centered-computing/ubiquitous-and-mobile-computing.md
+  - name: "10.5 Visualization"
+    href: human-centered-computing/visualization.md
+  - name: "10.6 Accessibility"
+    href: human-centered-computing/accessibility.md
+- name: "11. Computing methodologies"
+  href: computing-methodologies/index.md
+  items:
+  - name: "11.1 Symbolic and algebraic manipulation"
+    href: computing-methodologies/symbolic-and-algebraic-manipulation.md
+  - name: "11.2 Parallel computing methodologies"
+    href: computing-methodologies/parallel-computing-methodologies.md
+  - name: "11.3 Artificial intelligence"
+    href: computing-methodologies/artificial-intelligence.md
+  - name: "11.4 Machine learning"
+    href: computing-methodologies/machine-learning.md
+  - name: "11.5 Modeling and simulation"
+    href: computing-methodologies/modeling-and-simulation.md
+  - name: "11.6 Computer graphics"
+    href: computing-methodologies/computer-graphics.md
+  - name: "11.7 Distributed computing methodologies"
+    href: computing-methodologies/distributed-computing-methodologies.md
+  - name: "11.8 Concurrent computing methodologies"
+    href: computing-methodologies/concurrent-computing-methodologies.md
+- name: "12. Applied computing"
+  href: applied-computing/index.md
+  items:
+  - name: "12.1 Electronic commerce"
+    href: applied-computing/electronic-commerce.md
+  - name: "12.2 Enterprise computing"
+    href: applied-computing/enterprise-computing.md
+  - name: "12.3 Physical sciences and engineering"
+    href: applied-computing/physical-sciences-and-engineering.md
+  - name: "12.4 Life and medical sciences"
+    href: applied-computing/life-and-medical-sciences.md
+  - name: "12.5 Law, social and behavioral sciences"
+    href: applied-computing/law-social-and-behavioral-sciences.md
+  - name: "12.6 Computer forensics"
+    href: applied-computing/computer-forensics.md
+  - name: "12.7 Arts and humanities"
+    href: applied-computing/arts-and-humanities.md
+  - name: "12.8 Computers in other domains"
+    href: applied-computing/computers-in-other-domains.md
+  - name: "12.9 Operations research"
+    href: applied-computing/operations-research.md
+  - name: "12.10 Education"
+    href: applied-computing/education.md
+  - name: "12.11 Document management and text processing"
+    href: applied-computing/document-management-and-text-processing.md
+- name: "13. Social and professional topics"
+  href: social-and-professional-topics/index.md
+  items:
+  - name: "13.1 Professional topics"
+    href: social-and-professional-topics/professional-topics.md
+  - name: "13.2 Computing / technology policy"
+    href: social-and-professional-topics/computing-technology-policy.md
+  - name: "13.3 User characteristics"
+    href: social-and-professional-topics/user-characteristics.md
