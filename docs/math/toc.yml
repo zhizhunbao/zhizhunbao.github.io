@@ -1,13 +1,5 @@
 items:
 - name: Overview
   href: index.md
-- name: Calculus
-  href: calculus/toc.yml
-- name: Discrete Mathematics
-  href: discrete-mathematics/toc.yml
-- name: Linear Algebra
-  href: linear-algebra/toc.yml
-- name: Probability
-  href: probability/toc.yml
-- name: Statistics
-  href: statistics/toc.yml
+- name: CS2023 MSF
+  href: cs2023/toc.yml

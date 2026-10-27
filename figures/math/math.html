@@ -4,77 +4,28 @@
   body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
   .frame { display: inline-block; margin: 2px; padding: 14px 14px 14px; border: 1.5px dashed #333; border-radius: 10px; }
   .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
-  .groups { display: grid; gap: 20px; align-items: stretch; }
-  .group { min-width: 300px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .row { display: flex; gap: 14px; align-items: stretch; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { width: 440px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
-  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
 </style></head>
 <body>
 <div class="frame" id="fig">
   <div class="title">Math</div>
-  <div class="groups">
-    <div class="group">
-      <div class="title">Discrete Mathematics</div>
-      <div class="item">Sets, relations, functions, cardinality</div>
-      <div class="item">Recursive mathematical definitions</div>
-      <div class="item">Proof techniques (induction, proof by contradiction)</div>
-      <div class="item">Permutations, combinations, counting, pigeonhole principle</div>
-      <div class="item">Modular arithmetic</div>
-      <div class="item">Logic</div>
-      <div class="item">Graphs</div>
-      <div class="item">Order notation</div>
-    </div>
-    <div class="group">
-      <div class="title">Probability</div>
-      <div class="item">Basic notions</div>
-      <div class="item">Discrete random variables and distributions</div>
-      <div class="item">Continuous random variables and distributions</div>
-      <div class="item">Expectation, variance, law of large numbers, central limit theorem</div>
-      <div class="item">Conditional distributions and expectation</div>
-      <div class="item">Applications to computing, the difference between probability and statistics (as subjects)</div>
-    </div>
-    <div class="group">
-      <div class="title">Statistics</div>
-      <div class="item">Basic definitions and concepts</div>
-      <div class="item">Univariate data</div>
-      <div class="item">Multivariate data</div>
-      <div class="item">Data transformation</div>
-      <div class="item">Statistical models and algorithms</div>
-      <div class="item">Hypothesis testing</div>
-    </div>
-    <div class="group">
-      <div class="title">Linear Algebra</div>
-      <div class="item">Vectors</div>
-      <div class="item">Matrices, matrix-vector equation, geometric interpretation, geometric transformations with matrices</div>
-      <div class="item">Solving equations, row-reduction</div>
-      <div class="item">Linear independence, span, basis</div>
-      <div class="item">Orthogonality, projection, least-squares, orthogonal bases</div>
-      <div class="item">Linear combinations of polynomials, Bezier curves</div>
-      <div class="item">Eigenvectors and eigenvalues</div>
-      <div class="item">Applications to computer science</div>
-    </div>
-    <div class="group">
-      <div class="title">Calculus</div>
-      <div class="item">Sequences, series, limits</div>
-      <div class="item">Single-variable derivatives</div>
-      <div class="item">Single-variable integration</div>
-      <div class="item">Parametric and polar representations</div>
-      <div class="item">Taylor series</div>
-      <div class="item">Multivariate calculus</div>
-      <div class="item">Optimization</div>
-      <div class="item">Ordinary Differential Equations (ODEs)</div>
-      <div class="item">CS applications</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">CS2023 MSF</div>
+        <div class="item">Discrete Mathematics</div>
+        <div class="item">Probability</div>
+        <div class="item">Statistics</div>
+        <div class="item">Linear Algebra</div>
+        <div class="item">Calculus</div>
+      </div>
     </div>
   </div>
 </div>
-<script>
-  // every group as wide as the widest one; as many columns as fit about 2000 px, rows balanced, groups in CS2023 order
-  const box = document.querySelector('.groups');
-  const groups = [...box.querySelectorAll('.group')];
-  const w = Math.max(...groups.map(g => g.getBoundingClientRect().width));
-  const fit = Math.max(1, Math.min(groups.length, Math.floor(2000 / (w + 20))));
-  const cols = Math.ceil(groups.length / Math.ceil(groups.length / fit));
-  box.style.gridTemplateColumns = `repeat(${cols}, ${w}px)`;
-</script>
 </body></html>
