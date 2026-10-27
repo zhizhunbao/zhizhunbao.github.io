@@ -1,0 +1,84 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 20px; align-items: stretch; }
+  .row + .row { margin-top: 20px; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { width: max-content; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 6px; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">CCNA</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Network Infrastructure and Connectivity</div>
+        <div class="item">Interface and cable issues</div>
+        <div class="item">Hypervisors, virtual machines, and containers</div>
+        <div class="item">IPv4 addresses</div>
+        <div class="item">IPv6 addresses</div>
+        <div class="item">Wireless principles</div>
+        <div class="item">Wired and wireless client connectivity</div>
+        <div class="item">DHCPv4</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Switching and Network Access</div>
+        <div class="item">Network infrastructure connectivity</div>
+        <div class="item">Layer 2 switch port attributes</div>
+        <div class="item">Network documentation</div>
+        <div class="item">Layer 2/Layer 3 connectivity</div>
+        <div class="item">Rapid PVST+</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">IP Routing</div>
+        <div class="item">Routing table</div>
+        <div class="item">Static routing</div>
+        <div class="item">Single area OSPFv2 and OSPFv3</div>
+        <div class="item">First Hop Redundancy Protocols</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Network Services and Security</div>
+        <div class="item">Local usernames and AAA</div>
+        <div class="item">Secure file transfer</div>
+        <div class="item">NAT/PAT</div>
+        <div class="item">DNS records</div>
+        <div class="item">IPsec VPNs</div>
+        <div class="item">IPv4 access control lists</div>
+        <div class="item">Layer 2 security features</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">AI, and Network Operations and Management</div>
+        <div class="item">Agentic AI</div>
+        <div class="item">Generative AI prompts</div>
+        <div class="item">Network management approaches</div>
+        <div class="item">SNMP</div>
+        <div class="item">Configuration management</div>
+        <div class="item">Syslog</div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  // every group as wide as the widest group title, so long names fit and columns stay equal
+  const groups = [...document.querySelectorAll('#fig .group')];
+  const w = Math.max(...groups.map(g => g.getBoundingClientRect().width));
+  groups.forEach(g => { g.style.width = w + 'px'; });
+</script>
+</body></html>
