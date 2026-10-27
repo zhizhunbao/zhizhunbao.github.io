@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 20.2 Governance and compliance
 
-Sources: [AZ-900 module: Describe features and tools in Azure for governance and compliance](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/).
-
 ## Classification
 
 ![Governance and compliance: Microsoft Purview, Azure Policy, resource locks and the Service Trust Portal, one unit each of the AZ-900 module, with Microsoft Purview expanded into its two solution areas, risk and compliance and unified data governance.](media/governance-and-compliance.png)

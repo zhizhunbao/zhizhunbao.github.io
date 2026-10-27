@@ -6,8 +6,6 @@ ms.date: 2026-10-25
 
 # 24.1 Migration strategies
 
-Sources: [Select your cloud migration strategies](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/select-cloud-migration-strategy).
-
 ## Classification
 
 ![Migration strategies: Retire, Rehost, Replatform, Refactor, Rearchitect, Replace, Rebuild, Retain.](media/migration-strategies.png)

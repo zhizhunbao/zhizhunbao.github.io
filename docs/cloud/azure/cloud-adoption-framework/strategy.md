@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 26.1 Strategy
 
-Sources: [Determine your motivations, mission, and objectives](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/motivations); [Develop a cloud adoption strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/).
-
 ## Classification
 
 ![Strategy, in its sections: Motivations, mission and objectives (Motivations); Strategy team (no terms yet); Prepare your organization (no terms yet); Inform your strategy (no terms yet).](media/strategy.png)

@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 24.2 Decide
 
-Sources: [About Azure Migrate: Decide](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#decide); [Quickstart: Create an Azure Migrate project using portal](https://learn.microsoft.com/en-us/azure/migrate/quickstart-create-project?view=migrate).
-
 ## Classification
 
 ![Decide: Azure Migrate project, Discovery, Azure Migrate appliance, Azure Migrate Collector, Business case.](media/decide.png)

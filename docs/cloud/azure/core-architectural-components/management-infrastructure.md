@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 2.2 Management infrastructure
 
-Sources: [AZ-900 unit: Describe Azure management infrastructure](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/6-describe-azure-management-infrastructure); [AZ-900 unit: Get started with Azure accounts](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/3-get-started-azure-accounts).
-
 ## Classification
 
 ![Management infrastructure sorted into five groups: resources, resource groups, subscriptions (billing boundary, access control boundary), management groups (Tenant Root Group) and Azure account (Azure free account, Azure free student account).](media/management-infrastructure.png)

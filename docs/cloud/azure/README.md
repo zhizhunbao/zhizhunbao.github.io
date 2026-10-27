@@ -17,6 +17,7 @@ This README is the contract for the folder. It is not published (`docfx.json` ex
 - Where a training unit only mentions a term, the Definition quotes the product documentation, and the Source cites both.
 - Check the official docs cache before fetching a page (`design-refs/official-docs`, see CLAUDE.md); add any new official page to it.
 - Every quote cites section and paragraph with a `#:~:text=` anchor. No words of my own. `## References` lists the sources in APA.
+- A written page has no "Sources:" line under its H1; `## References` already lists every source it quotes (2026-10-27). Only an unwritten stub keeps that line, as its plan.
 
 ## 3. Topics (level 1: folders)
 

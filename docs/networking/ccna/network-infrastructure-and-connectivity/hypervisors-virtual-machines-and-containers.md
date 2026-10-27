@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 1.2 Hypervisors, virtual machines, and containers
 
-Sources: [200-301 CCNA v2.0 Exam Topics, 1.2](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics); [What Is Virtualization?](https://www.cisco.com/site/us/en/learn/topics/networking/what-is-virtualization.html); [What Is a Virtual Machine?](https://www.cisco.com/site/us/en/learn/topics/computing/what-is-a-virtual-machine.html); [What Are Containers?](https://www.cisco.com/site/us/en/learn/topics/computing/what-are-containers.html).
-
 Exam objective: Describe the role and function of hypervisors, virtual machines, and containers.
 
 ## Classification

@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 5. Business continuity
 
-Sources: [SQL Server documentation, Business continuity](https://learn.microsoft.com/en-us/sql/sql-server/): [Business continuity and database recovery - SQL Server](https://learn.microsoft.com/en-us/sql/database-engine/sql-server-business-continuity-dr); [What is an Always On availability group?](https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/overview-of-always-on-availability-groups-sql-server); [Always On failover cluster instances (SQL Server)](https://learn.microsoft.com/en-us/sql/sql-server/failover-clusters/windows/always-on-failover-cluster-instances-sql-server).
-
 ## Classification
 
 ![Business continuity: the umbrella term Always On, then its five table-of-contents entries: Backup & restore, Always On availability groups, Always On failover cluster instance, Database mirroring, Log shipping.](media/business-continuity.png)

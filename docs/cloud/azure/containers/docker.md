@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 5.1 Docker
 
-Sources: [Docker terminology](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/docker-terminology).
-
 ## Classification
 
 ![Docker, eleven terms from Docker terminology, in source order.](media/docker.png)

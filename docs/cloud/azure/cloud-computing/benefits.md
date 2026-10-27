@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 1.5 Benefits
 
-Sources: [AZ-900 module: Describe the benefits of using cloud services](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/).
-
 ## Classification
 
 ![Benefits sorted into seven groups: high availability, scalability (vertical scaling, horizontal scaling), reliability, predictability (performance predictability, cost predictability), security, governance and manageability (management of the cloud, management in the cloud).](media/benefits.png)

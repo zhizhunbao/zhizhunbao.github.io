@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 5.3 Files and Storage
 
-Sources: [Windows Server documentation, Key areas, Files and Storage](https://learn.microsoft.com/en-us/windows-server/); [DFS Namespaces overview](https://learn.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview); [Distributed File System (DFS) Replication overview](https://learn.microsoft.com/en-us/windows-server/storage/dfs-replication/dfsr-overview).
-
 ## Classification
 
 ![Files and Storage, so far the terms asked for: Distributed File System (DFS) (DFS Replication (DFSR)).](media/files-and-storage.png)

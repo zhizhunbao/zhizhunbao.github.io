@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 4.3 Functions as a service (FaaS)
 
-Sources: [Azure Architecture Center: Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree).
-
 ## Classification
 
 ![Functions as a service (FaaS), one term: Azure Functions, from Choose an Azure compute service.](media/functions-as-a-service.png)

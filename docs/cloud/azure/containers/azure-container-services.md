@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 5.3 Azure container services
 
-Sources: [Azure documentation: Containers](https://learn.microsoft.com/en-us/azure/?product=containers), and each service's own documentation.
-
 ## Classification
 
 ![Azure container services, nine services from the Containers list of the Azure documentation, in source order.](media/azure-container-services.png)

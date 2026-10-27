@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 4.2 Platform as a service (PaaS)
 
-Sources: [Azure documentation: Compute](https://learn.microsoft.com/en-us/azure/?product=compute); [Azure Architecture Center: Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree); [Create and use hybrid connections in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections); [What are Azure App Service plans?](https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans).
-
 ## Classification
 
 ![Platform as a service (PaaS), ten terms: Azure App Service, AKS, Container Apps, Container Instances, Red Hat OpenShift and Batch, defined in Choose an Azure compute service, and Kubernetes Fleet Manager, Static Web Apps, Spring Apps and Cloud Services (extended support), described in the Compute list of the Azure documentation; Azure App Service expanded into the Azure App Service plan and Hybrid Connections, from What are Azure App Service plans? and Create and use hybrid connections in Azure App Service.](media/platform-as-a-service.png)

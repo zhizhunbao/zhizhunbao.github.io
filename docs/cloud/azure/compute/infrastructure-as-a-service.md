@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 4.1 Infrastructure as a service (IaaS)
 
-Sources: [Azure documentation: Compute](https://learn.microsoft.com/en-us/azure/?product=compute); [Azure Architecture Center: Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree); [Azure managed disks overview](https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview).
-
 ## Classification
 
 ![Infrastructure as a service (IaaS), four terms: Virtual Machines and Azure VMware Solution, defined in Choose an Azure compute service, and Virtual Machine Scale Sets and Azure Spot Virtual Machines, described in the Compute list of the Azure documentation; Virtual Machines expanded into the temporary disk, from Azure managed disks overview.](media/infrastructure-as-a-service.png)

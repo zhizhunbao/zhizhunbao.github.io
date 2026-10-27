@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 5.2 Kubernetes
 
-Sources: [Docker terminology](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/docker-terminology); [Core Kubernetes concepts for Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/core-aks-concepts).
-
 ## Classification
 
 ![Kubernetes, six concepts: cluster, from Docker terminology, then control plane, nodes, pods, node pools and namespaces, from Core Kubernetes concepts for AKS.](media/kubernetes.png)

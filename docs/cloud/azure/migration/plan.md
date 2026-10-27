@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 24.3 Plan
 
-Sources: [About Azure Migrate: Plan](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#plan); [Assessment overview (migrate to Azure VMs)](https://learn.microsoft.com/en-us/azure/migrate/concepts-assessment-calculation?view=migrate-classic).
-
 ## Classification
 
 ![Plan: the Discovery and Assessment tool and the retired Movere, then Assessment, then Azure readiness with its four readiness categories (Ready for Azure, Conditionally ready for Azure, Not ready for Azure, Readiness unknown), then Right-sizing, Azure cost estimation, Dependency analysis.](media/plan.png)

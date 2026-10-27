@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 26.2 Plan
 
-Sources: [Document your cloud adoption plan](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/document-cloud-adoption-plan); [Plan your Azure environment for cost estimation](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/estimate-total-cost-of-ownership); [Plan your migration](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration); [Prepare your organization for the cloud](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/); [Prepare your people for the cloud](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/prepare-people-for-cloud).
-
 ## Classification
 
 ![Plan, in its sections: Define operating model (no terms yet); Gain cloud skills (no terms yet); Plan migration (Migration waves, Nonproduction environment, Downtime migration, Near-zero downtime migration, Rollback plan, Performance benchmark); Estimate cloud costs (no terms yet); Document adoption plan (no terms yet).](media/plan.png)

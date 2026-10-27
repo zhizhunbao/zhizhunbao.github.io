@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 1.3 Actors
 
-Sources: [NIST SP 500-292, NIST Cloud Computing Reference Architecture](https://doi.org/10.6028/NIST.SP.500-292).
-
 ## Classification
 
 ![Actors sorted into five groups: cloud consumer (SaaS, PaaS and IaaS consumers), cloud provider (service deployment, service orchestration, cloud service management, security, privacy), cloud auditor (security controls, privacy impact, performance), cloud broker (service intermediation, service aggregation, service arbitrage) and cloud carrier (network and telecommunication carriers, transport agent).](media/actors.png)

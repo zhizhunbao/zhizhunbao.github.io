@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 5.2 Identity
 
-Sources: [Windows Server documentation, Key areas, Identity](https://learn.microsoft.com/en-us/windows-server/); [Active Directory Domain Services overview](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview).
-
 ## Classification
 
 ![Identity, so far the terms asked for: Active Directory Domain Services (AD DS) (Replication service, Domain controller).](media/identity.png)

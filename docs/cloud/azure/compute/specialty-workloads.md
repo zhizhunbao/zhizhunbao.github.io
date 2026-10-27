@@ -6,8 +6,6 @@ ms.date: 2026-10-27
 
 # 4.4 Specialty workloads
 
-Sources: [Azure documentation: Compute](https://learn.microsoft.com/en-us/azure/?product=compute); [Azure Architecture Center: Choose an Azure compute service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree); and each product's own documentation.
-
 ## Classification
 
 ![Specialty workloads, five terms: Azure CycleCloud, Azure Service Fabric, Azure Quantum, Azure Virtual Desktop and Azure Dedicated Host, described in the Compute list of the Azure documentation.](media/specialty-workloads.png)

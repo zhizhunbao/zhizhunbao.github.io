@@ -6,8 +6,6 @@ ms.date: 2026-10-26
 
 # 1.4 Essential characteristics
 
-Sources: [NIST SP 800-145, The NIST Definition of Cloud Computing](https://doi.org/10.6028/NIST.SP.800-145).
-
 ## Classification
 
 ![Essential characteristics: on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service.](media/essential-characteristics.png)

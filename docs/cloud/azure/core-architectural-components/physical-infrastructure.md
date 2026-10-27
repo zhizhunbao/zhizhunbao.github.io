@@ -6,8 +6,6 @@ ms.date: 2026-10-25
 
 # 2.1 Physical infrastructure
 
-Sources: [AZ-900 unit: Describe Azure physical infrastructure](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure); [Azure documentation, "Azure clouds"](https://learn.microsoft.com/en-us/azure/#azure-clouds); [What are Azure regions?](https://learn.microsoft.com/en-us/azure/reliability/regions-overview); [Reliability and sovereignty in Azure](https://learn.microsoft.com/en-us/azure/reliability/concept-reliability-sovereignty).
-
 ## Classification
 
 ![Physical infrastructure sorted into five groups: datacenters (servers arranged in racks, power, cooling, networking infrastructure), availability zones (zonal, zone-redundant and non-regional services), regions (low-latency network), region pairs (paired in two directions, paired in only one direction, data-residency) and sovereign regions (sovereignty, Azure Government, Microsoft Azure operated by 21Vianet, Microsoft Sovereign Cloud).](media/physical-infrastructure.png)
