@@ -3,6 +3,8 @@ items:
   href: index.md
 - name: Projects
   href: projects/
+- name: Sources
+  href: sources/
 - name: AI
   href: ai/
 - name: Algorithms
