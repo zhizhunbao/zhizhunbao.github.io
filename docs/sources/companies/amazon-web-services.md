@@ -1,7 +1,7 @@
 ---
-title: "8.2 Amazon Web Services"
+title: "8.1 Amazon Web Services"
 description: "Sources > Companies > Amazon Web Services."
 ms.date: 2026-10-27
 ---
 
-# 8.2 Amazon Web Services
+# 8.1 Amazon Web Services

@@ -1,7 +1,7 @@
 ---
-title: "7.4 Cisco"
+title: "7.1 Cisco"
 description: "Sources > Certification Bodies > Cisco."
 ms.date: 2026-10-27
 ---
 
-# 7.4 Cisco
+# 7.1 Cisco

@@ -1,7 +1,7 @@
 ---
-title: "7.1 ISTQB"
+title: "7.4 ISTQB"
 description: "Sources > Certification Bodies > ISTQB."
 ms.date: 2026-10-27
 ---
 
-# 7.1 ISTQB
+# 7.4 ISTQB

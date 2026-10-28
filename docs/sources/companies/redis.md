@@ -1,7 +1,7 @@
 ---
-title: "8.16 Redis"
+title: "8.22 Redis"
 description: "Sources > Companies > Redis."
 ms.date: 2026-10-27
 ---
 
-# 8.16 Redis
+# 8.22 Redis

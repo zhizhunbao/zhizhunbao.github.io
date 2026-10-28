@@ -1,7 +1,7 @@
 ---
-title: "9.8 Git"
+title: "9.3 Git"
 description: "Sources > Open-Source Projects > Git."
 ms.date: 2026-10-27
 ---
 
-# 9.8 Git
+# 9.3 Git

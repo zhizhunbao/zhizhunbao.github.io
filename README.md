@@ -89,6 +89,7 @@ Content has official sources; section names are the common names of the field.
 
 - Sources (since 2026-10-27) is not a field: its Overview sorts every publisher and document the site cites into kinds (standards developing organizations, government agencies, learned societies, classification systems, curricula, reference works, certification bodies, companies, open-source projects), each kind defined from Cambridge Dictionary or the NIST CSRC glossary.
 - Organizations are never second-level entries of a field.
+- Order: by importance first, alphabetical within a tie. The kinds are numbered from the most formal source to product documentation (standards developing organizations, government agencies, learned societies, then the documents: classification systems, curricula, reference works, then certification bodies, companies, open-source projects); the members of a kind are equally important, so they are alphabetical (case ignored).
 
 ### Science dropdown
 
