@@ -288,3 +288,14 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 .content .kb-quiz-result .kb-quiz-zhstem { color: var(--theme-text-subtle); padding-bottom: 6px; margin-bottom: 6px; border-bottom: 1px solid var(--theme-border); }
 .kb-quiz-result > summary { cursor: pointer; color: var(--theme-text-subtle); font-size: 13px; }
 .kb-quiz-result[open] > summary { margin-bottom: 6px; }
+
+/* Phones: the open menu scrolls with the page, so an expanded node is never cut off below the screen;
+   "In this article" is hidden; the header is one compact row (menu, logo, name, search) */
+@media (max-width: 767.98px) {
+  .kb-menu-open #affixed-left-container { position: static; max-height: none; overflow: visible; }
+  #center-doc-outline.display-none-desktop:not([hidden]) { display: none !important; }
+  #kb-primary-nav { min-height: 48px; padding-inline: 8px; gap: 4px; }
+  #kb-primary-nav .site-header-logo img { width: 20px; height: 20px; }
+  #kb-primary-nav .site-header-divider { margin-inline: 6px; height: 20px; }
+  #kb-primary-nav .site-header-brand { font-size: 17px; font-weight: 600; padding-inline: 0; }
+}
