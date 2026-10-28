@@ -1,0 +1,742 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px 14px 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .group { flex: 1 1 auto; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">MSC2020</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">00 General and Overarching Topics; Collections</div>
+      <div class="item">00A General and Miscellaneous Specific Topics</div>
+      <div class="item">00B Conference Proceedings and Collections of Articles</div>
+    </div>
+    <div class="group">
+      <div class="title">01 History and Biography</div>
+      <div class="item">01A History of Mathematics and Mathematicians</div>
+    </div>
+    <div class="group">
+      <div class="title">03 Mathematical Logic and Foundations</div>
+      <div class="item">03A Philosophical Aspects of Logic and Foundations</div>
+      <div class="item">03B General Logic</div>
+      <div class="item">03C Model Theory</div>
+      <div class="item">03D Computability and Recursion Theory</div>
+      <div class="item">03E Set Theory</div>
+      <div class="item">03F Proof Theory and Constructive Mathematics</div>
+      <div class="item">03G Algebraic Logic</div>
+      <div class="item">03H Nonstandard Models</div>
+    </div>
+    <div class="group">
+      <div class="title">05 Combinatorics</div>
+      <div class="item">05A Enumerative Combinatorics</div>
+      <div class="item">05B Designs and Configurations</div>
+      <div class="item">05C Graph Theory</div>
+      <div class="item">05D Extremal Combinatorics</div>
+      <div class="item">05E Algebraic Combinatorics</div>
+    </div>
+    <div class="group">
+      <div class="title">06 Order, Lattices, Ordered Algebraic Structures</div>
+      <div class="item">06A Ordered Sets</div>
+      <div class="item">06B Lattices</div>
+      <div class="item">06C Modular Lattices, Complemented Lattices</div>
+      <div class="item">06D Distributive Lattices</div>
+      <div class="item">06E Boolean Algebras (Boolean rings)</div>
+      <div class="item">06F Ordered Structures</div>
+    </div>
+    <div class="group">
+      <div class="title">08 General Algebraic Systems</div>
+      <div class="item">08A Algebraic Structures</div>
+      <div class="item">08B Varieties</div>
+      <div class="item">08C Other Classes of Algebras</div>
+    </div>
+    <div class="group">
+      <div class="title">11 Number Theory</div>
+      <div class="item">11A Elementary Number Theory</div>
+      <div class="item">11B Sequences and Sets</div>
+      <div class="item">11C Polynomials and Matrices</div>
+      <div class="item">11D Diophantine Equations</div>
+      <div class="item">11E Forms and Linear Algebraic Groups</div>
+      <div class="item">11F Discontinuous Groups and Automorphic Forms</div>
+      <div class="item">11G Arithmetic Algebraic Geometry (Diophantine geometry)</div>
+      <div class="item">11H Geometry of Numbers</div>
+      <div class="item">11J Diophantine Approximation, Transcendental Number Theory</div>
+      <div class="item">11K Probabilistic Theory: Distribution Modulo 1; Metric Theory of Algorithms</div>
+      <div class="item">11L Exponential Sums and Character Sums</div>
+      <div class="item">11M Zeta and L-Functions: Analytic Theory</div>
+      <div class="item">11N Multiplicative Number Theory</div>
+      <div class="item">11P Additive Number Theory; Partitions</div>
+      <div class="item">11R Algebraic Number Theory: Global Fields</div>
+      <div class="item">11S Algebraic Number Theory: Local Fields</div>
+      <div class="item">11T Finite Fields and Commutative Rings (number-theoretic aspects)</div>
+      <div class="item">11U Connections of Number Theory and Logic</div>
+      <div class="item">11Y Computational Number Theory</div>
+      <div class="item">11Z Miscellaneous Applications of Number Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">12 Field Theory and Polynomials</div>
+      <div class="item">12D Real and Complex Fields</div>
+      <div class="item">12E General Field Theory</div>
+      <div class="item">12F Field Extensions</div>
+      <div class="item">12G Homological Methods (field theory)</div>
+      <div class="item">12H Differential and Difference Algebra</div>
+      <div class="item">12J Topological Fields</div>
+      <div class="item">12K Generalizations of Fields</div>
+      <div class="item">12L Connections Between Field Theory and Logic</div>
+    </div>
+    <div class="group">
+      <div class="title">13 Commutative Algebra</div>
+      <div class="item">13A General Commutative Ring Theory</div>
+      <div class="item">13B Commutative Ring Extensions and Related Topics</div>
+      <div class="item">13C Theory of Modules and Ideals in Commutative Rings</div>
+      <div class="item">13D Homological Methods in Commutative Ring Theory</div>
+      <div class="item">13E Chain Conditions, Finiteness Conditions in Commutative Ring Theory</div>
+      <div class="item">13F Arithmetic Rings and Other Special Commutative Rings</div>
+      <div class="item">13G Integral Domains</div>
+      <div class="item">13H Local Rings and Semilocal Rings</div>
+      <div class="item">13J Topological Rings and Modules</div>
+      <div class="item">13L Applications of Logic to Commutative Algebra</div>
+      <div class="item">13M Finite Commutative Rings</div>
+      <div class="item">13N Differential Algebra</div>
+      <div class="item">13P Computational Aspects and Applications of Commutative Rings</div>
+    </div>
+    <div class="group">
+      <div class="title">14 Algebraic Geometry</div>
+      <div class="item">14A Foundations of Algebraic Geometry</div>
+      <div class="item">14B Local Theory in Algebraic Geometry</div>
+      <div class="item">14C Cycles and Subschemes</div>
+      <div class="item">14D Families, Fibrations in Algebraic Geometry</div>
+      <div class="item">14E Birational Geometry</div>
+      <div class="item">14F (Co)homology Theory in Algebraic Geometry</div>
+      <div class="item">14G Arithmetic Problems in Algebraic Geometry; Diophantine Geometry</div>
+      <div class="item">14H Curves in Algebraic Geometry</div>
+      <div class="item">14J Surfaces and Higher-Dimensional Varieties</div>
+      <div class="item">14K Abelian Varieties and Schemes</div>
+      <div class="item">14L Algebraic Groups</div>
+      <div class="item">14M Special Varieties</div>
+      <div class="item">14N Projective and Enumerative Algebraic Geometry</div>
+      <div class="item">14P Real Algebraic and Real-Analytic Geometry</div>
+      <div class="item">14Q Computational Aspects in Algebraic Geometry</div>
+      <div class="item">14R Affine Geometry</div>
+      <div class="item">14T Tropical Geometry</div>
+    </div>
+    <div class="group">
+      <div class="title">15 Linear and Multilinear Algebra; Matrix Theory</div>
+      <div class="item">15A Basic Linear Algebra</div>
+      <div class="item">15B Special Matrices</div>
+    </div>
+    <div class="group">
+      <div class="title">16 Associative Rings and Algebras</div>
+      <div class="item">16B General and Miscellaneous</div>
+      <div class="item">16D Modules, Bimodules and Ideals in Associative Algebras</div>
+      <div class="item">16E Homological Methods in Associative Algebras</div>
+      <div class="item">16G Representation Theory of Associative Rings and Algebras</div>
+      <div class="item">16H Associative Algebras and Orders</div>
+      <div class="item">16K Division Rings and Semisimple Artin Rings</div>
+      <div class="item">16L Local Rings and Generalizations</div>
+      <div class="item">16N Radicals and Radical Properties of Associative Rings</div>
+      <div class="item">16P Chain Conditions, Growth Conditions, and Other Forms of Finiteness for Associative Rings and Algebras</div>
+      <div class="item">16R Rings with Polynomial Identity</div>
+      <div class="item">16S Associative Rings and Algebras Arising under Various Constructions</div>
+      <div class="item">16T Hopf Algebras, Quantum Groups and Related Topics</div>
+      <div class="item">16U Conditions on Elements</div>
+      <div class="item">16W Associative Rings and Algebras with Additional Structure</div>
+      <div class="item">16Y Generalizations</div>
+      <div class="item">16Z Computational Aspects of Associative Rings</div>
+    </div>
+    <div class="group">
+      <div class="title">17 Nonassociative Rings and Algebras</div>
+      <div class="item">17A General Nonassociative Rings</div>
+      <div class="item">17B Lie Algebras and Lie Superalgebras</div>
+      <div class="item">17C Jordan Algebras (algebras, triples and pairs)</div>
+      <div class="item">17D Other Nonassociative Rings and Algebras</div>
+    </div>
+    <div class="group">
+      <div class="title">18 Category Theory; Homological Algebra</div>
+      <div class="item">18A General Theory of Categories and Functors</div>
+      <div class="item">18B Special Categories</div>
+      <div class="item">18C Categories and Theories</div>
+      <div class="item">18D Categorical Structures</div>
+      <div class="item">18E Categorical Algebra</div>
+      <div class="item">18F Categories in Geometry and Topology</div>
+      <div class="item">18G Homological Algebra in Category Theory, Derived Categories and Functors</div>
+      <div class="item">18M Monoidal Categories and Operads</div>
+      <div class="item">18N Higher Categories and Homotopical Algebra</div>
+    </div>
+    <div class="group">
+      <div class="title">19 K-Theory</div>
+      <div class="item">19A Grothendieck Groups and K0</div>
+      <div class="item">19B Whitehead Groups and K1</div>
+      <div class="item">19C Steinberg Groups and K2</div>
+      <div class="item">19D Higher Algebraic K-Theory</div>
+      <div class="item">19E K-Theory in Geometry</div>
+      <div class="item">19F K-Theory in Number Theory</div>
+      <div class="item">19G K-Theory of Forms</div>
+      <div class="item">19J Obstructions from Topology</div>
+      <div class="item">19K K-Theory and Operator Algebras [See Mainly 46L80, and Also 46M20]</div>
+      <div class="item">19L Topological K-Theory</div>
+      <div class="item">19M Miscellaneous Applications of K-Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">20 Group Theory and Generalizations</div>
+      <div class="item">20A Foundations</div>
+      <div class="item">20B Permutation Groups</div>
+      <div class="item">20C Representation Theory of Groups</div>
+      <div class="item">20D Abstract Finite Groups</div>
+      <div class="item">20E Structure and Classification of Infinite or Finite Groups</div>
+      <div class="item">20F Special Aspects of Infinite or Finite Groups</div>
+      <div class="item">20G Linear Algebraic Groups and Related Topics</div>
+      <div class="item">20H Other Groups of Matrices</div>
+      <div class="item">20J Connections of Group Theory with Homological Algebra and Category Theory</div>
+      <div class="item">20K Abelian Groups</div>
+      <div class="item">20L Groupoids (i.e. small categories in which all morphisms are isomorphisms)</div>
+      <div class="item">20M Semigroups</div>
+      <div class="item">20N Other Generalizations of Groups</div>
+      <div class="item">20P Probabilistic Methods in Group Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">22 Topological Groups, Lie Groups</div>
+      <div class="item">22A Topological and Differentiable Algebraic Systems</div>
+      <div class="item">22B Locally Compact Abelian Groups (LCA groups)</div>
+      <div class="item">22C Compact Groups</div>
+      <div class="item">22D Locally Compact Groups and Their Algebras</div>
+      <div class="item">22E Lie Groups</div>
+      <div class="item">22F Noncompact Transformation Groups</div>
+    </div>
+    <div class="group">
+      <div class="title">26 Real Functions</div>
+      <div class="item">26A Functions of One Variable</div>
+      <div class="item">26B Functions of Several Variables</div>
+      <div class="item">26C Polynomials, Rational Functions in Real Analysis</div>
+      <div class="item">26D Inequalities in Real Analysis</div>
+      <div class="item">26E Miscellaneous Topics in Real Functions</div>
+    </div>
+    <div class="group">
+      <div class="title">28 Measure and Integration</div>
+      <div class="item">28A Classical Measure Theory</div>
+      <div class="item">28B Set Functions, Measures and Integrals with Values in Abstract Spaces</div>
+      <div class="item">28C Set Functions and Measures on Spaces with Additional Structure</div>
+      <div class="item">28D Measure-Theoretic Ergodic Theory</div>
+      <div class="item">28E Miscellaneous Topics in Measure Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">30 Functions of a Complex Variable</div>
+      <div class="item">30A General Properties of Functions of One Complex Variable</div>
+      <div class="item">30B Series Expansions of Functions of One Complex Variable</div>
+      <div class="item">30C Geometric Function Theory</div>
+      <div class="item">30D Entire and Meromorphic Functions of One Complex Variable, and Related Topics</div>
+      <div class="item">30E Miscellaneous Topics of Analysis in the Complex Plane</div>
+      <div class="item">30F Riemann Surfaces</div>
+      <div class="item">30G Generalized Function Theory</div>
+      <div class="item">30H Spaces and Algebras of Analytic Functions of One Complex Variable</div>
+      <div class="item">30J Function Theory on the Disc</div>
+      <div class="item">30K Universal Holomorphic Functions of One Complex Variable</div>
+      <div class="item">30L Analysis on Metric Spaces</div>
+    </div>
+    <div class="group">
+      <div class="title">31 Potential Theory</div>
+      <div class="item">31A Two-Dimensional Potential Theory</div>
+      <div class="item">31B Higher-Dimensional Potential Theory</div>
+      <div class="item">31C Generalizations of Potential Theory</div>
+      <div class="item">31D Axiomatic Potential Theory</div>
+      <div class="item">31E Potential Theory on Fractals and Metric Spaces</div>
+    </div>
+    <div class="group">
+      <div class="title">32 Several Complex Variables and Analytic Spaces</div>
+      <div class="item">32A Holomorphic Functions of Several Complex Variables</div>
+      <div class="item">32B Local Analytic Geometry</div>
+      <div class="item">32C Analytic Spaces</div>
+      <div class="item">32D Analytic Continuation</div>
+      <div class="item">32E Holomorphic Convexity</div>
+      <div class="item">32F Geometric Convexity in Several Complex Variables</div>
+      <div class="item">32G Deformations of Analytic Structures</div>
+      <div class="item">32H Holomorphic Mappings and Correspondences</div>
+      <div class="item">32J Compact Analytic Spaces</div>
+      <div class="item">32K Generalizations of Analytic Spaces</div>
+      <div class="item">32L Holomorphic Fiber Spaces</div>
+      <div class="item">32M Complex Spaces with a Group of Automorphisms</div>
+      <div class="item">32N Automorphic Functions</div>
+      <div class="item">32P Non-Archimedean Analysis</div>
+      <div class="item">32Q Complex Manifolds</div>
+      <div class="item">32S Complex Singularities</div>
+      <div class="item">32T Pseudoconvex Domains</div>
+      <div class="item">32U Pluripotential Theory</div>
+      <div class="item">32V CR Manifolds</div>
+      <div class="item">32W Differential Operators in Several Variables</div>
+    </div>
+    <div class="group">
+      <div class="title">33 Special Functions</div>
+      <div class="item">33B Elementary Classical Functions</div>
+      <div class="item">33C Hypergeometric Functions</div>
+      <div class="item">33D Basic Hypergeometric Functions</div>
+      <div class="item">33E Other Special Functions</div>
+      <div class="item">33F Computational Aspects of Special Functions</div>
+    </div>
+    <div class="group">
+      <div class="title">34 Ordinary Differential Equations</div>
+      <div class="item">34A General Theory for Ordinary Differential Equations</div>
+      <div class="item">34B Boundary Value Problems for Ordinary Differential Equations</div>
+      <div class="item">34C Qualitative Theory for Ordinary Differential Equations</div>
+      <div class="item">34D Stability Theory for Ordinary Differential Equations</div>
+      <div class="item">34E Asymptotic Theory for Ordinary Differential Equations</div>
+      <div class="item">34F Ordinary Differential Equations and Systems with Randomness</div>
+      <div class="item">34G Differential Equations in Abstract Spaces</div>
+      <div class="item">34H Control Problems Involving Ordinary Differential Equations</div>
+      <div class="item">34K Functional-Differential Equations (including equations with delayed, advanced or state-dependent argument)</div>
+      <div class="item">34L Ordinary Differential Operators</div>
+      <div class="item">34M Ordinary Differential Equations in the Complex Domain</div>
+      <div class="item">34N Dynamic Equations on Time Scales or Measure Chains</div>
+    </div>
+    <div class="group">
+      <div class="title">35 Partial Differential Equations</div>
+      <div class="item">35A General Topics in Partial Differential Equations</div>
+      <div class="item">35B Qualitative Properties of Solutions to Partial Differential Equations</div>
+      <div class="item">35C Representations of Solutions to Partial Differential Equations</div>
+      <div class="item">35D Generalized Solutions to Partial Differential Equations</div>
+      <div class="item">35E Partial Differential Equations and Systems of Partial Differential Equations with Constant Coefficients</div>
+      <div class="item">35F General First-Order Partial Differential Equations and Systems of First-Order Partial Differential Equations</div>
+      <div class="item">35G General Higher-Order Partial Differential Equations and Systems of Higher-Order Partial Differential Equations</div>
+      <div class="item">35H Close-to-Elliptic Equations</div>
+      <div class="item">35J Elliptic Equations and Elliptic Systems</div>
+      <div class="item">35K Parabolic Equations and Parabolic Systems</div>
+      <div class="item">35L Hyperbolic Equations and Hyperbolic Systems</div>
+      <div class="item">35M Partial Differential Equations of Mixed Type and Mixed-Type Systems of Partial Differential Equations</div>
+      <div class="item">35N Overdetermined Problems for Partial Differential Equations and Systems of Partial Differential Equations</div>
+      <div class="item">35P Spectral Theory and Eigenvalue Problems for Partial Differential Equations</div>
+      <div class="item">35Q Partial Differential Equations of Mathematical Physics and Other Areas of Application</div>
+      <div class="item">35R Miscellaneous Topics in Partial Differential Equations</div>
+      <div class="item">35S Pseudodifferential Operators and Other Generalizations of Partial Differential Operators</div>
+    </div>
+    <div class="group">
+      <div class="title">37 Dynamical Systems and Ergodic Theory</div>
+      <div class="item">37A Ergodic Theory</div>
+      <div class="item">37B Topological Dynamics</div>
+      <div class="item">37C Smooth Dynamical Systems: General Theory</div>
+      <div class="item">37D Dynamical Systems with Hyperbolic Behavior</div>
+      <div class="item">37E Low-Dimensional Dynamical Systems</div>
+      <div class="item">37F Dynamical Systems over Complex Numbers</div>
+      <div class="item">37G Local and Nonlocal Bifurcation Theory for Dynamical Systems</div>
+      <div class="item">37H Random Dynamical Systems</div>
+      <div class="item">37J Dynamical Aspects of Finite-Dimensional Hamiltonian and Lagrangian Systems</div>
+      <div class="item">37K Dynamical System Aspects of Infinite-Dimensional Hamiltonian and Lagrangian Systems</div>
+      <div class="item">37L Infinite-Dimensional Dissipative Dynamical Systems</div>
+      <div class="item">37M Approximation Methods and Numerical Treatment of Dynamical Systems</div>
+      <div class="item">37N Applications of Dynamical Systems</div>
+      <div class="item">37P Arithmetic and Non-Archimedean Dynamical Systems</div>
+    </div>
+    <div class="group">
+      <div class="title">39 Difference and Functional Equations</div>
+      <div class="item">39A Difference Equations</div>
+      <div class="item">39B Functional Equations and Inequalities</div>
+    </div>
+    <div class="group">
+      <div class="title">40 Sequences, Series, Summability</div>
+      <div class="item">40A Convergence and Divergence of Infinite Limiting Processes</div>
+      <div class="item">40B Multiple Sequences and Series</div>
+      <div class="item">40C General Summability Methods</div>
+      <div class="item">40D Direct Theorems on Summability</div>
+      <div class="item">40E Inversion Theorems</div>
+      <div class="item">40F Absolute and Strong Summability</div>
+      <div class="item">40G Special Methods of Summability</div>
+      <div class="item">40H Functional Analytic Methods in Summability</div>
+      <div class="item">40J Summability in Abstract Structures</div>
+    </div>
+    <div class="group">
+      <div class="title">41 Approximations and Expansions</div>
+      <div class="item">41A Approximations and Expansions</div>
+    </div>
+    <div class="group">
+      <div class="title">42 Harmonic Analysis on Euclidean Spaces</div>
+      <div class="item">42A Harmonic Analysis in One Variable</div>
+      <div class="item">42B Harmonic Analysis in Several Variables</div>
+      <div class="item">42C Nontrigonometric Harmonic Analysis</div>
+    </div>
+    <div class="group">
+      <div class="title">43 Abstract Harmonic Analysis</div>
+      <div class="item">43A Abstract Harmonic Analysis</div>
+    </div>
+    <div class="group">
+      <div class="title">44 Integral Transforms, Operational Calculus</div>
+      <div class="item">44A Integral Transforms, Operational Calculus</div>
+    </div>
+    <div class="group">
+      <div class="title">45 Integral Equations</div>
+      <div class="item">45A Linear Integral Equations</div>
+      <div class="item">45B Fredholm Integral Equations</div>
+      <div class="item">45C Eigenvalue Problems for Integral Equations</div>
+      <div class="item">45D Volterra Integral Equations</div>
+      <div class="item">45E Singular Integral Equations</div>
+      <div class="item">45F Systems of Linear Integral Equations</div>
+      <div class="item">45G Nonlinear Integral Equations</div>
+      <div class="item">45H Integral Equations with Miscellaneous Special Kernels</div>
+      <div class="item">45J Integro-Ordinary Differential Equations</div>
+      <div class="item">45K Integro-Partial Differential Equations</div>
+      <div class="item">45L Theoretical Approximation of Solutions to Integral Equations</div>
+      <div class="item">45M Qualitative Behavior of Solutions to Integral Equations</div>
+      <div class="item">45N Abstract Integral Equations, Integral Equations in Abstract Spaces</div>
+      <div class="item">45P Integral Operators</div>
+      <div class="item">45Q Inverse Problems for Integral Equations</div>
+      <div class="item">45R Random Integral Equations</div>
+    </div>
+    <div class="group">
+      <div class="title">46 Functional Analysis</div>
+      <div class="item">46A Topological Linear Spaces and Related Structures</div>
+      <div class="item">46B Normed Linear Spaces and Banach Spaces; Banach Lattices</div>
+      <div class="item">46C Inner Product Spaces and Their Generalizations, Hilbert Spaces</div>
+      <div class="item">46E Linear Function Spaces and Their Duals</div>
+      <div class="item">46F Distributions, Generalized Functions, Distribution Spaces</div>
+      <div class="item">46G Measures, Integration, Derivative, Holomorphy (all involving infinite-dimensional spaces)</div>
+      <div class="item">46H Topological Algebras, Normed Rings and Algebras, Banach Algebras</div>
+      <div class="item">46J Commutative Banach Algebras and Commutative Topological Algebras</div>
+      <div class="item">46K Topological (rings and) Algebras with an Involution</div>
+      <div class="item">46L Selfadjoint Operator Algebras ( C ∗-algebras, von Neumann ( W ∗-) algebras, etc.)</div>
+      <div class="item">46M Methods of Category Theory in Functional Analysis</div>
+      <div class="item">46N Miscellaneous Applications of Functional Analysis</div>
+      <div class="item">46S Other (nonclassical) Types of Functional Analysis</div>
+      <div class="item">46T Nonlinear Functional Analysis</div>
+    </div>
+    <div class="group">
+      <div class="title">47 Operator Theory</div>
+      <div class="item">47A General Theory of Linear Operators</div>
+      <div class="item">47B Special Classes of Linear Operators</div>
+      <div class="item">47C Individual Linear Operators as Elements of Algebraic Systems</div>
+      <div class="item">47D Groups and Semigroups of Linear Operators, Their Generalizations and Applications</div>
+      <div class="item">47E Ordinary Differential Operators</div>
+      <div class="item">47F Partial Differential Operators</div>
+      <div class="item">47G Integral, Integro-Differential, and Pseudodifferential Operators</div>
+      <div class="item">47H Nonlinear Operators and Their Properties</div>
+      <div class="item">47J Equations and Inequalities Involving Nonlinear Operators</div>
+      <div class="item">47L Linear Spaces and Algebras of Operators</div>
+      <div class="item">47N Miscellaneous Applications of Operator Theory</div>
+      <div class="item">47S Other (nonclassical) Types of Operator Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">49 Calculus of Variations and Optimal Control; Optimization</div>
+      <div class="item">49J Existence Theories in Calculus of Variations and Optimal Control</div>
+      <div class="item">49K Optimality Conditions</div>
+      <div class="item">49L Hamilton-Jacobi Theories</div>
+      <div class="item">49M Numerical Methods in Optimal Control</div>
+      <div class="item">49N Miscellaneous Topics in Calculus of Variations and Optimal Control</div>
+      <div class="item">49Q Manifolds and Measure-Geometric Topics</div>
+      <div class="item">49R Variational Methods for Eigenvalues of Operators</div>
+      <div class="item">49S Variational Principles of Physics</div>
+    </div>
+    <div class="group">
+      <div class="title">51 Geometry</div>
+      <div class="item">51A Linear Incidence Geometry</div>
+      <div class="item">51B Nonlinear Incidence Geometry</div>
+      <div class="item">51C Ring Geometry (Hjelmslev, Barbilian, etc.)</div>
+      <div class="item">51D Geometric Closure Systems</div>
+      <div class="item">51E Finite Geometry and Special Incidence Structures</div>
+      <div class="item">51F Metric Geometry</div>
+      <div class="item">51G Ordered Geometries (ordered incidence structures, etc.)</div>
+      <div class="item">51H Topological Geometry</div>
+      <div class="item">51J Incidence Groups</div>
+      <div class="item">51K Distance Geometry</div>
+      <div class="item">51L Geometric Order Structures</div>
+      <div class="item">51M Real and Complex Geometry</div>
+      <div class="item">51N Analytic and Descriptive Geometry</div>
+      <div class="item">51P Classical or Axiomatic Geometry and Physics</div>
+    </div>
+    <div class="group">
+      <div class="title">52 Convex and Discrete Geometry</div>
+      <div class="item">52A General Convexity</div>
+      <div class="item">52B Polytopes and Polyhedra</div>
+      <div class="item">52C Discrete Geometry</div>
+    </div>
+    <div class="group">
+      <div class="title">53 Differential Geometry</div>
+      <div class="item">53A Classical Differential Geometry</div>
+      <div class="item">53B Local Differential Geometry</div>
+      <div class="item">53C Global Differential Geometry</div>
+      <div class="item">53D Symplectic Geometry, Contact Geometry</div>
+      <div class="item">53E Geometric Evolution Equations</div>
+      <div class="item">53Z Applications of Differential Geometry to Sciences and Engineering</div>
+    </div>
+    <div class="group">
+      <div class="title">54 General Topology</div>
+      <div class="item">54A Generalities in Topology</div>
+      <div class="item">54B Basic Constructions in General Topology</div>
+      <div class="item">54C Maps and General Types of Topological Spaces Defined by Maps</div>
+      <div class="item">54D Fairly General Properties of Topological Spaces</div>
+      <div class="item">54E Topological Spaces with Richer Structures</div>
+      <div class="item">54F Special Properties of Topological Spaces</div>
+      <div class="item">54G Peculiar Topological Spaces</div>
+      <div class="item">54H Connections of General Topology with Other Structures, Applications</div>
+      <div class="item">54J Nonstandard Topology</div>
+    </div>
+    <div class="group">
+      <div class="title">55 Algebraic Topology</div>
+      <div class="item">55M Classical Topics in Algebraic Topology</div>
+      <div class="item">55N Homology and Cohomology Theories in Algebraic Topology</div>
+      <div class="item">55P Homotopy Theory</div>
+      <div class="item">55Q Homotopy Groups</div>
+      <div class="item">55R Fiber Spaces and Bundles in Algebraic Topology</div>
+      <div class="item">55S Operations and Obstructions in Algebraic Topology</div>
+      <div class="item">55T Spectral Sequences in Algebraic Topology</div>
+      <div class="item">55U Applied Homological Algebra and Category Theory in Algebraic Topology</div>
+    </div>
+    <div class="group">
+      <div class="title">57 Manifolds and Cell Complexes</div>
+      <div class="item">57K Low-Dimensional Topology in Specific Dimensions</div>
+      <div class="item">57M General Low-Dimensional Topology</div>
+      <div class="item">57N Topological Manifolds</div>
+      <div class="item">57P Generalized Manifolds</div>
+      <div class="item">57Q PL-topology</div>
+      <div class="item">57R Differential Topology</div>
+      <div class="item">57S Topological Transformation Groups</div>
+      <div class="item">57T Homology and Homotopy of Topological Groups and Related Structures</div>
+      <div class="item">57Z Relations of Manifolds and Cell Complexes with Science and Engineering</div>
+    </div>
+    <div class="group">
+      <div class="title">58 Global Analysis, Analysis on Manifolds</div>
+      <div class="item">58A General Theory of Differentiable Manifolds</div>
+      <div class="item">58B Infinite-Dimensional Manifolds</div>
+      <div class="item">58C Calculus on Manifolds; Nonlinear Operators</div>
+      <div class="item">58D Spaces and Manifolds of Mappings (including nonlinear versions of 46Exx)</div>
+      <div class="item">58E Variational Problems in Infinite-Dimensional Spaces</div>
+      <div class="item">58H Pseudogroups, Differentiable Groupoids and General Structures on Manifolds</div>
+      <div class="item">58J Partial Differential Equations on Manifolds; Differential Operators</div>
+      <div class="item">58K Theory of Singularities and Catastrophe Theory</div>
+      <div class="item">58Z Applications of Global Analysis to the Sciences</div>
+    </div>
+    <div class="group">
+      <div class="title">60 Probability Theory and Stochastic Processes</div>
+      <div class="item">60A Foundations of Probability Theory</div>
+      <div class="item">60B Probability Theory on Algebraic and Topological Structures</div>
+      <div class="item">60C Combinatorial Probability</div>
+      <div class="item">60D Geometric Probability and Stochastic Geometry</div>
+      <div class="item">60E Distribution Theory</div>
+      <div class="item">60F Limit Theorems in Probability Theory</div>
+      <div class="item">60G Stochastic Processes</div>
+      <div class="item">60H Stochastic Analysis</div>
+      <div class="item">60J Markov Processes</div>
+      <div class="item">60K Special Processes</div>
+      <div class="item">60L Rough Analysis</div>
+    </div>
+    <div class="group">
+      <div class="title">62 Statistics</div>
+      <div class="item">62A Foundational Topics in Statistics</div>
+      <div class="item">62B Sufficiency and Information</div>
+      <div class="item">62C Statistical Decision Theory</div>
+      <div class="item">62D Statistical Sampling Theory and Related Topics</div>
+      <div class="item">62E Statistical Distribution Theory</div>
+      <div class="item">62F Parametric Inference</div>
+      <div class="item">62G Nonparametric Inference</div>
+      <div class="item">62H Multivariate Analysis</div>
+      <div class="item">62J Linear Inference, Regression</div>
+      <div class="item">62K Design of Statistical Experiments</div>
+      <div class="item">62L Sequential Statistical Methods</div>
+      <div class="item">62M Inference from Stochastic Processes</div>
+      <div class="item">62N Survival Analysis and Censored Data</div>
+      <div class="item">62P Applications of Statistics</div>
+      <div class="item">62Q Statistical Tables</div>
+      <div class="item">62R Statistics on Algebraic and Topological Structures</div>
+    </div>
+    <div class="group">
+      <div class="title">65 Numerical Analysis</div>
+      <div class="item">65A Tables in Numerical Analysis</div>
+      <div class="item">65B Acceleration of Convergence in Numerical Analysis</div>
+      <div class="item">65C Probabilistic Methods, Stochastic Differential Equations</div>
+      <div class="item">65D Numerical Approximation and Computational Geometry (primarily algorithms)</div>
+      <div class="item">65E Numerical Methods in Complex Analysis (potential theory, etc.)</div>
+      <div class="item">65F Numerical Linear Algebra</div>
+      <div class="item">65G Error Analysis and Interval Analysis</div>
+      <div class="item">65H Nonlinear Algebraic or Transcendental Equations</div>
+      <div class="item">65J Numerical Analysis in Abstract Spaces</div>
+      <div class="item">65K Numerical Methods for Mathematical Programming, Optimization and Variational Techniques</div>
+      <div class="item">65L Numerical Methods for Ordinary Differential Equations</div>
+      <div class="item">65M Numerical Methods for Partial Differential Equations, Initial Value and Time-Dependent Initial-Boundary Value Problems</div>
+      <div class="item">65N Numerical Methods for Partial Differential Equations, Boundary Value Problems</div>
+      <div class="item">65P Numerical Problems in Dynamical Systems</div>
+      <div class="item">65Q Numerical Methods for Difference and Functional Equations, Recurrence Relations</div>
+      <div class="item">65R Numerical Methods for Integral Equations, Integral Transforms</div>
+      <div class="item">65S Graphical Methods in Numerical Analysis</div>
+      <div class="item">65T Numerical Methods in Fourier Analysis</div>
+      <div class="item">65Y Computer Aspects of Numerical Algorithms</div>
+      <div class="item">65Z Applications to the Sciences</div>
+    </div>
+    <div class="group">
+      <div class="title">68 Computer Science</div>
+      <div class="item">68M Computer System Organization</div>
+      <div class="item">68N Theory of Software</div>
+      <div class="item">68P Theory of Data</div>
+      <div class="item">68Q Theory of Computing</div>
+      <div class="item">68R Discrete Mathematics in Relation to Computer Science</div>
+      <div class="item">68T Artificial Intelligence</div>
+      <div class="item">68U Computing Methodologies and Applications</div>
+      <div class="item">68V Computer Science Support for Mathematical Research and Practice</div>
+      <div class="item">68W Algorithms in Computer Science</div>
+    </div>
+    <div class="group">
+      <div class="title">70 Mechanics of Particles and Systems</div>
+      <div class="item">70A Axiomatics, Foundations</div>
+      <div class="item">70B Kinematics</div>
+      <div class="item">70C Statics</div>
+      <div class="item">70E Dynamics of a Rigid Body and of Multibody Systems</div>
+      <div class="item">70F Dynamics of a System of Particles, Including Celestial Mechanics</div>
+      <div class="item">70G General Models, Approaches, and Methods in Mechanics of Particles and Systems</div>
+      <div class="item">70H Hamiltonian and Lagrangian Mechanics</div>
+      <div class="item">70J Linear Vibration Theory</div>
+      <div class="item">70K Nonlinear Dynamics in Mechanics</div>
+      <div class="item">70L Random and Stochastic Aspects of the Mechanics of Particles and Systems</div>
+      <div class="item">70M Orbital Mechanics</div>
+      <div class="item">70P Variable Mass, Rockets</div>
+      <div class="item">70Q Control of Mechanical Systems</div>
+      <div class="item">70S Classical Field Theories</div>
+    </div>
+    <div class="group">
+      <div class="title">74 Mechanics of Deformable Solids</div>
+      <div class="item">74A Generalities, Axiomatics, Foundations of Continuum Mechanics of Solids</div>
+      <div class="item">74B Elastic Materials</div>
+      <div class="item">74C Plastic Materials, Materials of Stress-Rate and Internal-Variable Type</div>
+      <div class="item">74D Materials of Strain-Rate Type and History Type, Other Materials with Memory (including elastic materials with viscous damping, various viscoelastic materials)</div>
+      <div class="item">74E Material Properties Given Special Treatment</div>
+      <div class="item">74F Coupling of Solid Mechanics with Other Effects</div>
+      <div class="item">74G Equilibrium (steady-state) Problems in Solid Mechanics</div>
+      <div class="item">74H Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74J Waves in Solid Mechanics</div>
+      <div class="item">74K Thin Bodies, Structures</div>
+      <div class="item">74L Special Subfields of Solid Mechanics</div>
+      <div class="item">74M Special Kinds of Problems in Solid Mechanics</div>
+      <div class="item">74N Phase Transformations in Solids</div>
+      <div class="item">74P Optimization Problems in Solid Mechanics</div>
+      <div class="item">74Q Homogenization, Determination of Effective Properties in Solid Mechanics</div>
+      <div class="item">74R Fracture and Damage</div>
+      <div class="item">74S Numerical and Other Methods in Solid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">76 Fluid Mechanics</div>
+      <div class="item">76A Foundations, Constitutive Equations, Rheology, Hydrodynamical Models of Non-Fluid Phenomena</div>
+      <div class="item">76B Incompressible Inviscid Fluids</div>
+      <div class="item">76D Incompressible Viscous Fluids</div>
+      <div class="item">76E Hydrodynamic Stability</div>
+      <div class="item">76F Turbulence</div>
+      <div class="item">76G General Aerodynamics and Subsonic Flows</div>
+      <div class="item">76H Transonic Flows</div>
+      <div class="item">76J Supersonic Flows</div>
+      <div class="item">76K Hypersonic Flows</div>
+      <div class="item">76L Shock Waves and Blast Waves in Fluid Mechanics</div>
+      <div class="item">76M Basic Methods in Fluid Mechanics</div>
+      <div class="item">76N Compressible Fluids and Gas Dynamics</div>
+      <div class="item">76P Rarefied Gas Flows, Boltzmann Equation in Fluid Mechanics</div>
+      <div class="item">76Q Hydro- and Aero-Acoustics</div>
+      <div class="item">76R Diffusion and Convection</div>
+      <div class="item">76S Flows in Porous Media; Filtration; Seepage</div>
+      <div class="item">76T Multiphase and Multicomponent Flows</div>
+      <div class="item">76U Rotating Fluids</div>
+      <div class="item">76V Reaction Effects in Flows</div>
+      <div class="item">76W Magnetohydrodynamics and Electrohydrodynamics</div>
+      <div class="item">76X Ionized Gas Flow in Electromagnetic Fields; Plasmic Flow</div>
+      <div class="item">76Y Quantum Hydrodynamics and Relativistic Hydrodynamics</div>
+      <div class="item">76Z Biological Fluid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">78 Optics, Electromagnetic Theory</div>
+      <div class="item">78A General Topics in Optics and Electromagnetic Theory</div>
+      <div class="item">78M Basic Methods for Problems in Optics and Electromagnetic Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">80 Classical Thermodynamics, Heat Transfer</div>
+      <div class="item">80A Thermodynamics and Heat Transfer</div>
+      <div class="item">80M Basic Methods in Thermodynamics and Heat Transfer</div>
+    </div>
+    <div class="group">
+      <div class="title">81 Quantum Theory</div>
+      <div class="item">81P Foundations, Quantum Information and Its Processing, Quantum Axioms, and Philosophy</div>
+      <div class="item">81Q General Mathematical Topics and Methods in Quantum Theory</div>
+      <div class="item">81R Groups and Algebras in Quantum Theory</div>
+      <div class="item">81S General Quantum Mechanics and Problems of Quantization</div>
+      <div class="item">81T Quantum Field Theory; Related Classical Field Theories</div>
+      <div class="item">81U Quantum Scattering Theory</div>
+      <div class="item">81V Applications of Quantum Theory to Specific Physical Systems</div>
+    </div>
+    <div class="group">
+      <div class="title">82 Statistical Mechanics, Structure of Matter</div>
+      <div class="item">82B Equilibrium Statistical Mechanics</div>
+      <div class="item">82C Time-Dependent Statistical Mechanics (dynamic and nonequilibrium)</div>
+      <div class="item">82D Applications of Statistical Mechanics to Specific Types of Physical Systems</div>
+      <div class="item">82M Basic Methods in Statistical Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">83 Relativity and Gravitational Theory</div>
+      <div class="item">83A Special Relativity</div>
+      <div class="item">83B Observational and Experimental Questions in Relativity and Gravitational Theory</div>
+      <div class="item">83C General Relativity</div>
+      <div class="item">83D Relativistic Gravitational Theories Other than Einstein&#x27;s, Including Asymmetric Field Theories</div>
+      <div class="item">83E Unified, Higher-Dimensional and Super Field Theories</div>
+      <div class="item">83F Relativistic Cosmology</div>
+    </div>
+    <div class="group">
+      <div class="title">85 Astronomy and Astrophysics</div>
+      <div class="item">85A Astronomy and Astrophysics</div>
+    </div>
+    <div class="group">
+      <div class="title">86 Geophysics</div>
+      <div class="item">86A Geophysics</div>
+    </div>
+    <div class="group">
+      <div class="title">90 Operations Research, Mathematical Programming</div>
+      <div class="item">90B Operations Research and Management Science</div>
+      <div class="item">90C Mathematical Programming</div>
+    </div>
+    <div class="group">
+      <div class="title">91 Game Theory, Economics, Finance, and Other Social and Behavioral Sciences</div>
+      <div class="item">91A Game Theory</div>
+      <div class="item">91B Mathematical Economics</div>
+      <div class="item">91C Social and Behavioral Sciences: General Topics</div>
+      <div class="item">91D Mathematical Sociology (including anthropology)</div>
+      <div class="item">91E Mathematical Psychology</div>
+      <div class="item">91F Other Social and Behavioral Sciences (mathematical treatment)</div>
+      <div class="item">91G Actuarial Science and Mathematical Finance</div>
+    </div>
+    <div class="group">
+      <div class="title">92 Biology and Other Natural Sciences</div>
+      <div class="item">92B Mathematical Biology in General</div>
+      <div class="item">92C Physiological, Cellular and Medical Topics</div>
+      <div class="item">92D Genetics and Population Dynamics</div>
+      <div class="item">92E Chemistry</div>
+      <div class="item">92F Other Natural Sciences (mathematical treatment)</div>
+    </div>
+    <div class="group">
+      <div class="title">93 Systems Theory; Control</div>
+      <div class="item">93A General Systems Theory</div>
+      <div class="item">93B Controllability, Observability, and System Structure</div>
+      <div class="item">93C Model Systems in Control Theory</div>
+      <div class="item">93D Stability of Control Systems</div>
+      <div class="item">93E Stochastic Systems and Control</div>
+    </div>
+    <div class="group">
+      <div class="title">94 Information and Communication Theory, Circuits</div>
+      <div class="item">94A Communication, Information</div>
+      <div class="item">94B Theory of Error-Correcting Codes and Error-Detecting Codes</div>
+      <div class="item">94C Circuits, Networks</div>
+      <div class="item">94D Miscellaneous Topics in Information and Communication Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">97 Mathematics Education</div>
+      <div class="item">97A History and Society (aspects of mathematics education)</div>
+      <div class="item">97B Educational Policy and Systems</div>
+      <div class="item">97C Psychology of Mathematics Education, Research in Mathematics Education</div>
+      <div class="item">97D Education and Instruction in Mathematics</div>
+      <div class="item">97E Education of Foundations of Mathematics</div>
+      <div class="item">97F Education of Arithmetic and Number Theory</div>
+      <div class="item">97G Geometry Education</div>
+      <div class="item">97H Algebra Education</div>
+      <div class="item">97I Analysis Education</div>
+      <div class="item">97K Education of Combinatorics, Graph Theory, Probability Theory, and Statistics</div>
+      <div class="item">97M Education of Mathematical Modeling and Applications of Mathematics</div>
+      <div class="item">97N Education of Numerical Mathematics</div>
+      <div class="item">97P Computer Science (educational aspects)</div>
+      <div class="item">97U Educational Material and Media and Educational Technology in Mathematics Education</div>
+    </div>
+  </div>
+</div>
+</body></html>

@@ -95,9 +95,10 @@ function content() {
     if (new URL(a.href).origin !== location.origin) a.setAttribute('data-linktype', 'external')
   }
   // Figures are exported at 2x: show them at half their pixels; max-width caps them at the article, the width of its tables.
-  // Screenshots (.webp, the project pages) fill the article width instead (kb.css).
+  // A figure too large for 2x is exported at 1x and named *@1x.png (MSC2020). Screenshots (.webp, the project pages) fill the
+  // article width instead (kb.css).
   for (const img of body.querySelectorAll('img[src*="media/"]:not([src$=".webp"])')) {
-    const fix = () => { if (img.naturalWidth) img.style.width = `${Math.round(img.naturalWidth / 2)}px` }
+    const fix = () => { if (img.naturalWidth) img.style.width = `${Math.round(img.naturalWidth / (decodeURIComponent(img.src).endsWith('@1x.png') ? 1 : 2))}px` }
     img.complete ? fix() : img.addEventListener('load', fix, { once: true })
   }
   quiz()
@@ -311,8 +312,15 @@ function outline() {
     center.append(more)
   }
   const mark = () => {
+    // the last heading above 120px; at the bottom of the page, where the last headings can no longer scroll that
+    // high (a click on Glossary or References after a tall figure), the heading just clicked (the #hash) if it is
+    // on screen, else the last heading on screen
+    const bottom = scrollY + innerHeight >= document.documentElement.scrollHeight - 2
+    const line = bottom ? innerHeight : 120
     let active = rows[0]
-    for (const r of rows) if (r[0].getBoundingClientRect().top < 120) active = r
+    for (const r of rows) if (r[0].getBoundingClientRect().top < line) active = r
+    const picked = bottom && rows.find((r) => `#${r[0].id}` === decodeURIComponent(location.hash))
+    if (picked && picked[0].getBoundingClientRect().top >= 0 && picked[0].getBoundingClientRect().top < innerHeight) active = picked
     for (const r of rows) {
       const on = r === active
       r[1].classList.toggle('border-color-primary', on)
@@ -543,7 +551,7 @@ function lightbox() {
     const img = e.target.closest('.content img')
     if (!img || img.closest('a')) return
     const big = el('img', { src: img.currentSrc || img.src, alt: img.alt, class: 'kb-lightbox-img' })
-    big.style.width = `${Math.round(img.naturalWidth / (img.src.endsWith('.webp') ? 1 : 2))}px` // screenshots are 1x
+    big.style.width = `${Math.round(img.naturalWidth / (/(\.webp|@1x\.png)$/.test(decodeURIComponent(img.src)) ? 1 : 2))}px` // screenshots and @1x figures are 1x
     big.addEventListener('click', (ev) => { ev.stopPropagation(); open.classList.toggle('is-fit') })
     const shut = el('button', { class: 'kb-lightbox-close', type: 'button', 'aria-label': 'Close', text: '×' })
     open = el('div', { class: 'kb-lightbox', role: 'dialog', 'aria-modal': 'true', 'aria-label': img.alt || 'Figure' }, shut, big)
