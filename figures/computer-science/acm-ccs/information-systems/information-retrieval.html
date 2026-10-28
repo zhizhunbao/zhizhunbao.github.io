@@ -1,0 +1,121 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 70px; align-items: flex-start; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig" style="position:relative;">
+  <div class="title">Information Retrieval</div>
+  <div class="row">
+    <div class="col">
+      <div class="group" style="border:none;padding:0 12px;">
+        <div class="item" data-to="t0">Document Representation</div>
+        <div class="item" data-to="t1">Information Retrieval Query Processing</div>
+        <div class="item" data-to="t2">Users and Interactive Retrieval</div>
+        <div class="item" data-to="t3">Retrieval Models and Ranking</div>
+        <div class="item" data-to="t4">Retrieval Tasks and Goals</div>
+        <div class="item" data-to="t5">Evaluation of Retrieval Results</div>
+        <div class="item" data-to="t6">Search Engine Architectures and Scalability</div>
+        <div class="item" data-to="t7">Specialized Information Retrieval</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title" id="t0">Document Representation</div>
+        <div class="item">Document Structure</div>
+        <div class="item">Document Topic Models</div>
+        <div class="item">Content Analysis and Feature Selection</div>
+        <div class="item">Data Encoding and Canonicalization</div>
+        <div class="item">Document Collection Models</div>
+        <div class="item">Ontologies</div>
+        <div class="item">Dictionaries</div>
+        <div class="item">Thesauri</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t1">Information Retrieval Query Processing</div>
+        <div class="item">Query Representation</div>
+        <div class="item">Query Intent</div>
+        <div class="item">Query Log Analysis</div>
+        <div class="item">Query Suggestion</div>
+        <div class="item">Query Reformulation</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t2">Users and Interactive Retrieval</div>
+        <div class="item">Personalization</div>
+        <div class="item">Task Models</div>
+        <div class="item">Search Interfaces</div>
+        <div class="item">Collaborative Search</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t3">Retrieval Models and Ranking</div>
+        <div class="item">Rank Aggregation</div>
+        <div class="item">Probabilistic Retrieval Models</div>
+        <div class="item">Language Models</div>
+        <div class="item">Similarity Measures</div>
+        <div class="item">Learning to Rank</div>
+        <div class="item">Combination, Fusion and Federated Search</div>
+        <div class="item">Information Retrieval Diversity</div>
+        <div class="item">Top-K Retrieval in Databases</div>
+        <div class="item">Novelty in Information Retrieval</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t4">Retrieval Tasks and Goals</div>
+        <div class="item">Question Answering</div>
+        <div class="item">Document Filtering</div>
+        <div class="item">Recommender Systems</div>
+        <div class="item">Information Extraction</div>
+        <div class="item">Sentiment Analysis</div>
+        <div class="item">Expert Search</div>
+        <div class="item">Near-Duplicate and Plagiarism Detection</div>
+        <div class="item">Clustering and Classification</div>
+        <div class="item">Summarization</div>
+        <div class="item">Business Intelligence</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t5">Evaluation of Retrieval Results</div>
+        <div class="item">Test Collections</div>
+        <div class="item">Relevance Assessment</div>
+        <div class="item">Retrieval Effectiveness</div>
+        <div class="item">Retrieval Efficiency</div>
+        <div class="item">Presentation of Retrieval Results</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t6">Search Engine Architectures and Scalability</div>
+        <div class="item">Search Engine Indexing</div>
+        <div class="item">Search Index Compression</div>
+        <div class="item">Distributed Retrieval</div>
+        <div class="item">Peer-To-Peer Retrieval</div>
+        <div class="item">Retrieval on Mobile Devices</div>
+        <div class="item">Adversarial Retrieval</div>
+        <div class="item">Link and Co-Citation Analysis</div>
+        <div class="item">Searching with Auxiliary Databases</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t7">Specialized Information Retrieval</div>
+        <div class="item">Structure and Multilingual Text Search</div>
+        <div class="item">Multimedia and Multimodal Retrieval</div>
+        <div class="item">Environment-Specific Retrieval</div>
+      </div>
+    </div>
+  </div>
+  <svg id="link" style="position:absolute;left:0;top:0;overflow:visible;pointer-events:none;"></svg>
+</div>
+<script>
+  const fig = document.getElementById('fig').getBoundingClientRect();
+  let p = '';
+  for (const a0 of document.querySelectorAll('[data-to]')) {
+    const a = a0.getBoundingClientRect(), b = document.getElementById(a0.dataset.to).getBoundingClientRect();
+    const x1 = a.right - fig.left, y1 = a.top + a.height / 2 - fig.top, x2 = b.left - fig.left, y2 = b.top + b.height / 2 - fig.top, mx = (x1 + x2) / 2;
+    p += `<path d="M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}" fill="none" stroke="#0f6cbd" stroke-width="1.5" stroke-dasharray="5 4"/>`;
+  }
+  document.getElementById('link').innerHTML = p;
+</script>
+</body></html>

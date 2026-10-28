@@ -1,0 +1,121 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 70px; align-items: flex-start; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig" style="position:relative;">
+  <div class="title">Design and Analysis of Algorithms</div>
+  <div class="row">
+    <div class="col">
+      <div class="group" style="border:none;padding:0 12px;">
+        <div class="item" data-to="t0">Graph Algorithms Analysis</div>
+        <div class="item" data-to="t1">Approximation Algorithms Analysis</div>
+        <div class="item" data-to="t2">Mathematical Optimization</div>
+        <div class="item" data-to="t3">Data Structures Design and Analysis</div>
+        <div class="item" data-to="t4">Online Algorithms</div>
+        <div class="item" data-to="t5">Parameterized Complexity and Exact Algorithms</div>
+        <div class="item" data-to="t6">Streaming, Sublinear and Near Linear Time Algorithms</div>
+        <div class="item" data-to="t7">Parallel Algorithms</div>
+        <div class="item" data-to="t8">Distributed Algorithms</div>
+        <div class="item" data-to="t9">Algorithm Design Techniques</div>
+        <div class="item">Concurrent Algorithms</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title" id="t0">Graph Algorithms Analysis</div>
+        <div class="item">Network Flows</div>
+        <div class="item">Sparsification and Spanners</div>
+        <div class="item">Shortest Paths</div>
+        <div class="item">Dynamic Graph Algorithms</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t1">Approximation Algorithms Analysis</div>
+        <div class="item">Scheduling Algorithms</div>
+        <div class="item">Packing and Covering Problems</div>
+        <div class="item">Routing and Network Design Problems</div>
+        <div class="item">Facility Location and Clustering</div>
+        <div class="item">Rounding Techniques</div>
+        <div class="item">Stochastic Approximation</div>
+        <div class="item">Numeric Approximation Algorithms</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t2">Mathematical Optimization</div>
+        <div class="item">Discrete Optimization</div>
+        <div class="item">Continuous Optimization</div>
+        <div class="item">Mixed Discrete-Continuous Optimization</div>
+        <div class="item">Non-Parametric Optimization</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t3">Data Structures Design and Analysis</div>
+        <div class="item">Data Compression</div>
+        <div class="item">Pattern Matching</div>
+        <div class="item">Sorting and Searching</div>
+        <div class="item">Predecessor Queries</div>
+        <div class="item">Cell Probe Models and Lower Bounds</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t4">Online Algorithms</div>
+        <div class="item">Online Learning Algorithms</div>
+        <div class="item">Caching and Paging Algorithms</div>
+        <div class="item">K-Server Algorithms</div>
+        <div class="item">Adversary Models</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t5">Parameterized Complexity and Exact Algorithms</div>
+        <div class="item">Fixed Parameter Tractability</div>
+        <div class="item">W Hierarchy</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t6">Streaming, Sublinear and Near Linear Time Algorithms</div>
+        <div class="item">Bloom Filters and Hashing</div>
+        <div class="item">Sketching and Sampling</div>
+        <div class="item">Lower Bounds and Information Complexity</div>
+        <div class="item">Random Order and Robust Communication Complexity</div>
+        <div class="item">Nearest Neighbor Algorithms</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t7">Parallel Algorithms</div>
+        <div class="item">MapReduce Algorithms</div>
+        <div class="item">Self-Organization</div>
+        <div class="item">Shared Memory Algorithms</div>
+        <div class="item">Vector / Streaming Algorithms</div>
+        <div class="item">Massively Parallel Algorithms</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t8">Distributed Algorithms</div>
+        <div class="item">MapReduce Algorithms</div>
+        <div class="item">Self-Organization</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t9">Algorithm Design Techniques</div>
+        <div class="item">Backtracking</div>
+        <div class="item">Branch-And-Bound</div>
+        <div class="item">Divide and Conquer</div>
+        <div class="item">Dynamic Programming</div>
+        <div class="item">Preconditioning</div>
+      </div>
+    </div>
+  </div>
+  <svg id="link" style="position:absolute;left:0;top:0;overflow:visible;pointer-events:none;"></svg>
+</div>
+<script>
+  const fig = document.getElementById('fig').getBoundingClientRect();
+  let p = '';
+  for (const a0 of document.querySelectorAll('[data-to]')) {
+    const a = a0.getBoundingClientRect(), b = document.getElementById(a0.dataset.to).getBoundingClientRect();
+    const x1 = a.right - fig.left, y1 = a.top + a.height / 2 - fig.top, x2 = b.left - fig.left, y2 = b.top + b.height / 2 - fig.top, mx = (x1 + x2) / 2;
+    p += `<path d="M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}" fill="none" stroke="#0f6cbd" stroke-width="1.5" stroke-dasharray="5 4"/>`;
+  }
+  document.getElementById('link').innerHTML = p;
+</script>
+</body></html>

@@ -1,0 +1,53 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 70px; align-items: flex-start; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig" style="position:relative;">
+  <div class="title">Operations Research</div>
+  <div class="row">
+    <div class="col">
+      <div class="group" style="border:none;padding:0 12px;">
+        <div class="item">Consumer Products</div>
+        <div class="item" data-to="t1">Industry and Manufacturing</div>
+        <div class="item">Computer-Aided Manufacturing</div>
+        <div class="item" data-to="t3">Decision Analysis</div>
+        <div class="item">Transportation</div>
+        <div class="item">Forecasting</div>
+        <div class="item">Marketing</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title" id="t1">Industry and Manufacturing</div>
+        <div class="item">Supply Chain Management</div>
+        <div class="item">Command and Control</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t3">Decision Analysis</div>
+        <div class="item">Multi-Criterion Optimization and Decision-Making</div>
+      </div>
+    </div>
+  </div>
+  <svg id="link" style="position:absolute;left:0;top:0;overflow:visible;pointer-events:none;"></svg>
+</div>
+<script>
+  const fig = document.getElementById('fig').getBoundingClientRect();
+  let p = '';
+  for (const a0 of document.querySelectorAll('[data-to]')) {
+    const a = a0.getBoundingClientRect(), b = document.getElementById(a0.dataset.to).getBoundingClientRect();
+    const x1 = a.right - fig.left, y1 = a.top + a.height / 2 - fig.top, x2 = b.left - fig.left, y2 = b.top + b.height / 2 - fig.top, mx = (x1 + x2) / 2;
+    p += `<path d="M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}" fill="none" stroke="#0f6cbd" stroke-width="1.5" stroke-dasharray="5 4"/>`;
+  }
+  document.getElementById('link').innerHTML = p;
+</script>
+</body></html>
