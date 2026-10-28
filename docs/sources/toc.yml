@@ -29,8 +29,6 @@ items:
     href: government-agencies/nist.md
   - name: "2.2 NLM"
     href: government-agencies/nlm.md
-  - name: "2.3 OECD"
-    href: government-agencies/oecd.md
 - name: "3. Learned Societies"
   href: learned-societies/index.md
   items:
@@ -69,13 +67,9 @@ items:
     href: classification-systems/mesh.md
   - name: "4.9 MSC2020"
     href: classification-systems/msc2020.md
-  - name: "4.10 OECD FORD"
-    href: classification-systems/oecd-ford.md
-  - name: "4.11 OpenAlex Topics"
-    href: classification-systems/openalex-topics.md
-  - name: "4.12 PhySH"
+  - name: "4.10 PhySH"
     href: classification-systems/physh.md
-  - name: "4.13 UNESCO Thesaurus"
+  - name: "4.11 UNESCO Thesaurus"
     href: classification-systems/unesco-thesaurus.md
 - name: "5. Curricula"
   href: curricula/index.md

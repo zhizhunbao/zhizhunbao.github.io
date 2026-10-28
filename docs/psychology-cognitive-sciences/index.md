@@ -1,6 +1,6 @@
 ---
 title: "Psychology and Cognitive Sciences"
-description: "The Psychology and Cognitive Sciences section (OECD Frascati Manual field 5.1): OpenAlex fields and subfields as its framework."
+description: "The Psychology and Cognitive Sciences section: MeSH category F as its framework."
 ms.date: 2026-10-27
 ---
 

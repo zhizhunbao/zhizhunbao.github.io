@@ -1,6 +1,6 @@
 ---
 title: "Humanities and the Arts"
-description: "The Humanities and the Arts section (OECD Frascati Manual field 6): OpenAlex fields and subfields as its framework."
+description: "The Humanities and the Arts section: UNESCO Thesaurus, domain 3 Culture, as its framework."
 ms.date: 2026-10-27
 ---
 

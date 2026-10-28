@@ -27,7 +27,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 - `public/kb.css` holds the Learn-only bits measured from Learn; `public/kb.js` draws the navigation from DocFX toc.json and searches index.json.
 - Header items that do not fit on one line go into a "More" menu at the end, as on Learn.
 - Header buttons have no underline (Atlas's ::after line is switched off in kb.css); the current item is marked by bold only.
-- A top-bar entry with no page of its own whose items are sections is drawn as a dropdown (Science); its subgroups (the OECD fields) are menu rows with a chevron that open their sections in a submenu beside it, as Learn's Products menu does, with no small headings; when the current section is inside it, the button is marked like an active section and the section is marked in the menu, and the section keeps its own second bar.
+- A top-bar entry with no page of its own whose items are sections is drawn as a dropdown (Science); its items are sections, one menu row each (subgroups, if ever added, are rows with a chevron that open their sections in a submenu beside it, as Learn's Products menu does); when the current section is inside it, the button is marked like an active section and the section is marked in the menu, and the section keeps its own second bar.
 - In this article marks the last heading above the top of the window; at the bottom of the page, the heading just clicked (or else the last one on screen).
 - Images under `media/` show at half their pixels (figures are exported at 2x), except `*@1x.png` figures, shown at full size, and `.webp` screenshots (project pages), which fill the article width.
 
@@ -93,13 +93,8 @@ Content has official sources; section names are the common names of the field.
 
 ### Science dropdown
 
-- The sciences sit in one dropdown entry, Science, placed alphabetically like a section and grouped by the six broad fields of the OECD Frascati Manual 2015 (Table 2.2, Fields of R&D classification), in OECD's order and written in title case like every menu name:
-  - Natural Sciences (Mathematical Sciences, Computer Science, Physical Sciences, Chemical Sciences, Earth and Related Environmental Sciences, Biological Sciences)
-  - Engineering and Technology (Engineering and Technology: one entry, IEEE Thesaurus; OECD's 11 fields and OpenAlex were dropped on 2026-10-28 as too coarse for the field)
-  - Medical and Health Sciences (Medical and Health Sciences)
-  - Agricultural and Veterinary Sciences (Agricultural and Veterinary Sciences)
-  - Social Sciences (Psychology and Cognitive Sciences, Economics and Business, Social Sciences)
-  - Humanities and the Arts (Humanities and the Arts)
+- The sciences sit in one dropdown entry, Science, placed alphabetically like a section; it lists its sections alphabetically, with no subgroups (since 2026-10-28; before, it was grouped by the six fields of the OECD Frascati Manual, which the site no longer uses): Agricultural and Veterinary Sciences, Chemical Sciences, Computer Science, Earth and Related Environmental Sciences, Economics and Business, Engineering and Technology (one entry, IEEE Thesaurus), Humanities and the Arts, Mathematical Sciences, Medical and Health Sciences, Physical Sciences, Psychology and Cognitive Sciences, Social Sciences.
+- There is no Biological Sciences section (removed 2026-10-28): biology is read in Medical and Health Sciences, whose MeSH holds B Organisms, G Phenomena and Processes and H01.158 Biological Science Disciplines.
 - Each science section has one entry, its field's official classification, titles only at first:
   - PhySH (American Physical Society; 17 disciplines, then the facets each uses)
   - CA Sections (CAS; 5 groups, 80 sections)
@@ -110,9 +105,9 @@ Content has official sources; section names are the common names of the field.
   - AGROVOC (FAO, CC BY 4.0, with official Chinese labels) for Agricultural and Veterinary Sciences: its 25 top concepts, then their narrower concepts, in this site's title case.
   - ELSST (CESSDA, version 7, CC BY-SA 4.0) for Social Sciences: its 259 top concepts (it has no groups), then their narrower concepts; labels are in capitals at the source and in title case here, and the entry is shared under the same license.
   - UNESCO Thesaurus (CC BY-SA 3.0 IGO) for Humanities and the Arts: domain 3, Culture, its 13 subject thesauri with UNESCO's notation (3.05 to 3.65), then their top concepts; shared under the same license.
-  - MeSH branches where no open whole-field classification exists: category F, Psychiatry and Psychology, for Psychology and Cognitive Sciences, and categories B, Organisms, and G, Phenomena and Processes, for Biological Sciences (2026-10-28; the APA Thesaurus is open only inside paid databases, and NAL's thesaurus site no longer resolves).
-- OpenAlex (CC0; fields and subfields from Scopus ASJC, its LLM-named topics not used) remains only in Economics and Business, beside JEL. It filled the fields without a classification until 2026-10-28, when each got a professional vocabulary instead (IEEE Thesaurus, AGROVOC, ELSST, UNESCO Thesaurus, MeSH).
-- Medicine keeps MeSH alone; the MeSH entries of Psychology and Biology copy its F, B and G branches.
+  - MeSH category F, Psychiatry and Psychology, for Psychology and Cognitive Sciences, where no open whole-field classification exists (2026-10-28; the APA Thesaurus is open only inside paid databases).
+- OpenAlex is no longer used (2026-10-28): it filled the fields without a classification until each got a professional vocabulary (IEEE Thesaurus, AGROVOC, ELSST, UNESCO Thesaurus, MeSH), and Economics and Business keeps JEL alone.
+- Medicine keeps MeSH alone; the MeSH entry of Psychology copies its F branch.
 
 ### Second level
 
