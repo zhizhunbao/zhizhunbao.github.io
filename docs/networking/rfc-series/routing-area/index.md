@@ -1,0 +1,7 @@
+---
+title: "Routing Area"
+description: "IETF Routing Area (rtg): the RFCs of its working groups that this site covers."
+ms.date: 2026-10-28
+---
+
+# Routing Area

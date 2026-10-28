@@ -1,85 +1,101 @@
 items:
 - name: Overview
   href: index.md
-- name: "RFC 6455 The WebSocket Protocol"
-  href: rfc6455/index.md
+- name: "Applications and Real-Time Area"
+  href: applications-and-real-time-area/index.md
   items:
-  - name: "1. Introduction"
-    href: rfc6455/1-introduction.md
-  - name: "2. Conformance Requirements"
-    href: rfc6455/2-conformance-requirements.md
-  - name: "3. WebSocket URIs"
-    href: rfc6455/3-websocket-uris.md
-  - name: "4. Opening Handshake"
-    href: rfc6455/4-opening-handshake.md
-  - name: "5. Data Framing"
-    href: rfc6455/5-data-framing.md
-  - name: "6. Sending and Receiving Data"
-    href: rfc6455/6-sending-and-receiving-data.md
-  - name: "7. Closing the Connection"
-    href: rfc6455/7-closing-the-connection.md
-  - name: "8. Error Handling"
-    href: rfc6455/8-error-handling.md
-  - name: "9. Extensions"
-    href: rfc6455/9-extensions.md
-  - name: "10. Security Considerations"
-    href: rfc6455/10-security-considerations.md
-  - name: "11. IANA Considerations"
-    href: rfc6455/11-iana-considerations.md
-  - name: "12. Using the WebSocket Protocol from Other Specifications"
-    href: rfc6455/12-using-the-websocket-protocol-from-other-specifications.md
-  - name: "13. Acknowledgements"
-    href: rfc6455/13-acknowledgements.md
-  - name: "14. References"
-    href: rfc6455/14-references.md
-- name: "RFC 9110 HTTP Semantics"
-  href: rfc9110/index.md
+  - name: "RFC 6455 The WebSocket Protocol"
+    href: applications-and-real-time-area/rfc6455/index.md
+    items:
+    - name: "1. Introduction"
+      href: applications-and-real-time-area/rfc6455/1-introduction.md
+    - name: "2. Conformance Requirements"
+      href: applications-and-real-time-area/rfc6455/2-conformance-requirements.md
+    - name: "3. WebSocket URIs"
+      href: applications-and-real-time-area/rfc6455/3-websocket-uris.md
+    - name: "4. Opening Handshake"
+      href: applications-and-real-time-area/rfc6455/4-opening-handshake.md
+    - name: "5. Data Framing"
+      href: applications-and-real-time-area/rfc6455/5-data-framing.md
+    - name: "6. Sending and Receiving Data"
+      href: applications-and-real-time-area/rfc6455/6-sending-and-receiving-data.md
+    - name: "7. Closing the Connection"
+      href: applications-and-real-time-area/rfc6455/7-closing-the-connection.md
+    - name: "8. Error Handling"
+      href: applications-and-real-time-area/rfc6455/8-error-handling.md
+    - name: "9. Extensions"
+      href: applications-and-real-time-area/rfc6455/9-extensions.md
+    - name: "10. Security Considerations"
+      href: applications-and-real-time-area/rfc6455/10-security-considerations.md
+    - name: "11. IANA Considerations"
+      href: applications-and-real-time-area/rfc6455/11-iana-considerations.md
+    - name: "12. Using the WebSocket Protocol from Other Specifications"
+      href: applications-and-real-time-area/rfc6455/12-using-the-websocket-protocol-from-other-specifications.md
+    - name: "13. Acknowledgements"
+      href: applications-and-real-time-area/rfc6455/13-acknowledgements.md
+    - name: "14. References"
+      href: applications-and-real-time-area/rfc6455/14-references.md
+- name: "General Area"
+  href: general-area/index.md
+- name: "Internet Area"
+  href: internet-area/index.md
+- name: "Operations and Management Area"
+  href: operations-and-management-area/index.md
+- name: "Routing Area"
+  href: routing-area/index.md
+- name: "Security Area"
+  href: security-area/index.md
+- name: "Web and Internet Transport Area"
+  href: web-and-internet-transport-area/index.md
   items:
-  - name: "1. Introduction"
-    href: rfc9110/1-introduction.md
-  - name: "2. Conformance"
-    href: rfc9110/2-conformance.md
-  - name: "3. Terminology and Core Concepts"
-    href: rfc9110/3-terminology-and-core-concepts.md
-  - name: "4. Identifiers in HTTP"
-    href: rfc9110/4-identifiers-in-http.md
-  - name: "5. Fields"
-    href: rfc9110/5-fields.md
-  - name: "6. Message Abstraction"
-    href: rfc9110/6-message-abstraction.md
-  - name: "7. Routing HTTP Messages"
-    href: rfc9110/7-routing-http-messages.md
-  - name: "8. Representation Data and Metadata"
-    href: rfc9110/8-representation-data-and-metadata.md
-  - name: "9. Methods"
-    href: rfc9110/9-methods.md
-  - name: "10. Message Context"
-    href: rfc9110/10-message-context.md
-  - name: "11. HTTP Authentication"
-    href: rfc9110/11-http-authentication.md
-  - name: "12. Content Negotiation"
-    href: rfc9110/12-content-negotiation.md
-  - name: "13. Conditional Requests"
-    href: rfc9110/13-conditional-requests.md
-  - name: "14. Range Requests"
-    href: rfc9110/14-range-requests.md
-  - name: "15. Status Codes"
-    href: rfc9110/15-status-codes.md
-  - name: "16. Extending HTTP"
-    href: rfc9110/16-extending-http.md
-  - name: "17. Security Considerations"
-    href: rfc9110/17-security-considerations.md
-  - name: "18. IANA Considerations"
-    href: rfc9110/18-iana-considerations.md
-  - name: "19. References"
-    href: rfc9110/19-references.md
-  - name: "Appendix A. Collected ABNF"
-    href: rfc9110/a-collected-abnf.md
-  - name: "Appendix B. Changes from Previous RFCs"
-    href: rfc9110/b-changes-from-previous-rfcs.md
-  - name: "Appendix C. Acknowledgements"
-    href: rfc9110/c-acknowledgements.md
-  - name: "Appendix D. Index"
-    href: rfc9110/d-index.md
-  - name: "Appendix E. Authors' Addresses"
-    href: rfc9110/e-authors-addresses.md
+  - name: "RFC 9110 HTTP Semantics"
+    href: web-and-internet-transport-area/rfc9110/index.md
+    items:
+    - name: "1. Introduction"
+      href: web-and-internet-transport-area/rfc9110/1-introduction.md
+    - name: "2. Conformance"
+      href: web-and-internet-transport-area/rfc9110/2-conformance.md
+    - name: "3. Terminology and Core Concepts"
+      href: web-and-internet-transport-area/rfc9110/3-terminology-and-core-concepts.md
+    - name: "4. Identifiers in HTTP"
+      href: web-and-internet-transport-area/rfc9110/4-identifiers-in-http.md
+    - name: "5. Fields"
+      href: web-and-internet-transport-area/rfc9110/5-fields.md
+    - name: "6. Message Abstraction"
+      href: web-and-internet-transport-area/rfc9110/6-message-abstraction.md
+    - name: "7. Routing HTTP Messages"
+      href: web-and-internet-transport-area/rfc9110/7-routing-http-messages.md
+    - name: "8. Representation Data and Metadata"
+      href: web-and-internet-transport-area/rfc9110/8-representation-data-and-metadata.md
+    - name: "9. Methods"
+      href: web-and-internet-transport-area/rfc9110/9-methods.md
+    - name: "10. Message Context"
+      href: web-and-internet-transport-area/rfc9110/10-message-context.md
+    - name: "11. HTTP Authentication"
+      href: web-and-internet-transport-area/rfc9110/11-http-authentication.md
+    - name: "12. Content Negotiation"
+      href: web-and-internet-transport-area/rfc9110/12-content-negotiation.md
+    - name: "13. Conditional Requests"
+      href: web-and-internet-transport-area/rfc9110/13-conditional-requests.md
+    - name: "14. Range Requests"
+      href: web-and-internet-transport-area/rfc9110/14-range-requests.md
+    - name: "15. Status Codes"
+      href: web-and-internet-transport-area/rfc9110/15-status-codes.md
+    - name: "16. Extending HTTP"
+      href: web-and-internet-transport-area/rfc9110/16-extending-http.md
+    - name: "17. Security Considerations"
+      href: web-and-internet-transport-area/rfc9110/17-security-considerations.md
+    - name: "18. IANA Considerations"
+      href: web-and-internet-transport-area/rfc9110/18-iana-considerations.md
+    - name: "19. References"
+      href: web-and-internet-transport-area/rfc9110/19-references.md
+    - name: "Appendix A. Collected ABNF"
+      href: web-and-internet-transport-area/rfc9110/a-collected-abnf.md
+    - name: "Appendix B. Changes from Previous RFCs"
+      href: web-and-internet-transport-area/rfc9110/b-changes-from-previous-rfcs.md
+    - name: "Appendix C. Acknowledgements"
+      href: web-and-internet-transport-area/rfc9110/c-acknowledgements.md
+    - name: "Appendix D. Index"
+      href: web-and-internet-transport-area/rfc9110/d-index.md
+    - name: "Appendix E. Authors' Addresses"
+      href: web-and-internet-transport-area/rfc9110/e-authors-addresses.md
