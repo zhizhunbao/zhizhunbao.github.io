@@ -1,7 +1,5 @@
 items:
 - name: Overview
   href: index.md
-- name: OECD Fields
-  href: oecd-fields/toc.yml
-- name: OpenAlex
-  href: openalex/toc.yml
+- name: IEEE Thesaurus
+  href: ieee-thesaurus/toc.yml

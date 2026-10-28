@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Reference Works: its 7 members in one column: Cambridge Dictionary, MathWorld, MITRE ATT&CK, NIST CSRC Glossary, NIST DADS, World of Physics, zbMATH Open.](media/reference-works.png)
+![Reference Works: its 8 members in one column: Cambridge Dictionary, MathWorld, MITRE ATT&CK, NIST CSRC Glossary, NIST DADS, RFC Editor, World of Physics, zbMATH Open.](media/reference-works.png)
 
 ## Glossary
 
@@ -20,6 +20,7 @@ ms.date: 2026-10-27
 | **[MITRE ATT&CK](mitre-att-ck.md)**<br>MITRE ATT&CK | "MITRE ATT&CK® is a **globally-accessible knowledge base** of **adversary tactics and techniques** based on **real-world observations**." | MITRE ATT&CK® 是一个**全球可访问的知识库**，收录基于**真实世界观察**的**对手战术与技术**。 | [The MITRE Corporation, n.d., para. 1](https://attack.mitre.org/#:~:text=MITRE%20ATT%26CK%C2%AE%20is%20a%20globally%2Daccessible%20knowledge%20base%20of%20adversary) |
 | **[NIST CSRC Glossary](nist-csrc-glossary.md)**<br>NIST CSRC 术语表 | "This Glossary is **an aggregation of terms and definitions** specified in **NIST's cybersecurity and privacy standards, guidelines, and other technical publications**, and in CNSSI 4009-2022." | 本术语表**汇集了术语和定义**，它们出自 **NIST 的网络安全与隐私标准、指南及其他技术出版物**，以及 CNSSI 4009-2022。 | [National Institute of Standards and Technology, n.d., para. 2](https://csrc.nist.gov/glossary#:~:text=This%20Glossary%20is%20an%20aggregation%20of%20terms%20and%20definitions) |
 | **[NIST DADS](nist-dads.md)**<br>算法与数据结构词典（DADS） | "This is a dictionary of **algorithms**, algorithmic techniques, **data structures**, **archetypal problems**, and related definitions." | 这是一部词典，收录**算法**、算法技术、**数据结构**、**典型问题**以及相关定义。 | [Black, P. E., 2024, para. 2](https://xlinux.nist.gov/dads/#:~:text=This%20is%20a%20dictionary%20of%20algorithms%2C%20algorithmic%20techniques%2C%20data) |
+| **[RFC Editor](rfc-editor.md)**<br>RFC 编辑部 | (context) "RFCs outline **computer networking and Internet foundations**, including Internet Standards and historical or informative content. They are **published by the RFC Editor** for the IETF, IRTF, IAB, and ISE ..." | （语境）RFC 阐述**计算机网络和互联网的基础**，包括互联网标准以及历史性或信息性的内容。它们**由 RFC 编辑部出版**，出版对象包括 IETF、IRTF、IAB 和 ISE…… | [RFC Editor, n.d., para. 1](https://www.rfc-editor.org/#:~:text=RFCs%20outline%20computer%20networking%20and%20Internet%20foundations) |
 | **[World of Physics](world-of-physics.md)**<br>物理学世界（Eric Weisstein's World of Physics） | (context) "Eric Weisstein's World of Science contains **budding encyclopedias** of astronomy, scientific biography, chemistry, and **physics**." | （语境）Eric Weisstein 的科学世界（World of Science）包含若干**正在成长的百科全书**，涵盖天文学、科学传记、化学和**物理学**。 | [Weisstein, E. W., n.d., para. 1](https://scienceworld.wolfram.com/info/#:~:text=Eric%20Weisstein%27s%20World%20of%20Science%20contains%20budding%20encyclopedias%20of) |
 | **[zbMATH Open](zbmath-open.md)**<br>zbMATH Open | "zbMATH Open (formerly known as Zentralblatt MATH) is the **world's most comprehensive and longest-running abstracting and reviewing service** in **pure and applied mathematics**." | zbMATH Open（原名 Zentralblatt MATH）是**世界上最全面、历史最悠久的文摘与评论服务**，覆盖**纯粹数学和应用数学**。 | [FIZ Karlsruhe, n.d., "Overview" section, para. 1](https://zbmath.org/about/#:~:text=zbMATH%20Open%20%28formerly%20known%20as%20Zentralblatt%20MATH%29) |
 
@@ -34,6 +35,8 @@ Cambridge University Press & Assessment. (n.d.). Reference book. In *Cambridge D
 FIZ Karlsruhe. (n.d.). *About*. Retrieved October 27, 2026, from <https://zbmath.org/about/>
 
 National Institute of Standards and Technology. (n.d.). *Glossary*. Retrieved October 27, 2026, from <https://csrc.nist.gov/glossary>
+
+RFC Editor. (n.d.). *The official home of RFCs*. Retrieved October 27, 2026, from <https://www.rfc-editor.org/>
 
 The MITRE Corporation. (n.d.). *MITRE ATT&CK®*. Retrieved October 27, 2026, from <https://attack.mitre.org/>
 

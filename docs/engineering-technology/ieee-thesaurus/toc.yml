@@ -1,0 +1,1171 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Aerospace and electronic systems"
+  href: aerospace-and-electronic-systems/index.md
+  items:
+  - name: "Aerospace control"
+    href: aerospace-and-electronic-systems/aerospace-control.md
+  - name: "Aerospace engineering"
+    href: aerospace-and-electronic-systems/aerospace-engineering.md
+  - name: "Aerospace materials"
+    href: aerospace-and-electronic-systems/aerospace-materials.md
+  - name: "Aircraft manufacture"
+    href: aerospace-and-electronic-systems/aircraft-manufacture.md
+  - name: "Aircraft navigation"
+    href: aerospace-and-electronic-systems/aircraft-navigation.md
+  - name: "Aircraft propulsion"
+    href: aerospace-and-electronic-systems/aircraft-propulsion.md
+  - name: "Command and control systems"
+    href: aerospace-and-electronic-systems/command-and-control-systems.md
+  - name: "Electronic warfare"
+    href: aerospace-and-electronic-systems/electronic-warfare.md
+  - name: "Military equipment"
+    href: aerospace-and-electronic-systems/military-equipment.md
+  - name: "Sensor systems"
+    href: aerospace-and-electronic-systems/sensor-systems.md
+  - name: "Sonar"
+    href: aerospace-and-electronic-systems/sonar.md
+  - name: "Telemetry"
+    href: aerospace-and-electronic-systems/telemetry.md
+- name: "Antennas and propagation"
+  href: antennas-and-propagation/index.md
+  items:
+  - name: "Antennas"
+    href: antennas-and-propagation/antennas.md
+  - name: "Electromagnetic propagation"
+    href: antennas-and-propagation/electromagnetic-propagation.md
+  - name: "Radio astronomy"
+    href: antennas-and-propagation/radio-astronomy.md
+- name: "Broadcast technology"
+  href: broadcast-technology/index.md
+  items:
+  - name: "Broadcasting"
+    href: broadcast-technology/broadcasting.md
+- name: "Circuits and systems"
+  href: circuits-and-systems/index.md
+  items:
+  - name: "Circuits"
+    href: circuits-and-systems/circuits.md
+  - name: "Contacts"
+    href: circuits-and-systems/contacts.md
+  - name: "Filtering"
+    href: circuits-and-systems/filtering.md
+  - name: "Integrated circuit technology"
+    href: circuits-and-systems/integrated-circuit-technology.md
+  - name: "Logic devices"
+    href: circuits-and-systems/logic-devices.md
+  - name: "Oscillators"
+    href: circuits-and-systems/oscillators.md
+  - name: "Single electron devices"
+    href: circuits-and-systems/single-electron-devices.md
+  - name: "Tunable circuits and devices"
+    href: circuits-and-systems/tunable-circuits-and-devices.md
+- name: "Components, packaging, and manufacturing technology"
+  href: components-packaging-and-manufacturing-technology/index.md
+  items:
+  - name: "Component architectures"
+    href: components-packaging-and-manufacturing-technology/component-architectures.md
+  - name: "Electronic components"
+    href: components-packaging-and-manufacturing-technology/electronic-components.md
+  - name: "Electronic equipment manufacture"
+    href: components-packaging-and-manufacturing-technology/electronic-equipment-manufacture.md
+  - name: "Electronics packaging"
+    href: components-packaging-and-manufacturing-technology/electronics-packaging.md
+  - name: "Environmentally friendly manufacturing techniques"
+    href: components-packaging-and-manufacturing-technology/environmentally-friendly-manufacturing-techniques.md
+  - name: "Integrated circuit manufacture"
+    href: components-packaging-and-manufacturing-technology/integrated-circuit-manufacture.md
+  - name: "Integrated circuit packaging"
+    href: components-packaging-and-manufacturing-technology/integrated-circuit-packaging.md
+  - name: "Semiconductor device packaging"
+    href: components-packaging-and-manufacturing-technology/semiconductor-device-packaging.md
+  - name: "Thermal management of electronics"
+    href: components-packaging-and-manufacturing-technology/thermal-management-of-electronics.md
+- name: "Consumer electronics"
+  href: consumer-electronics/index.md
+  items:
+  - name: "Ambient intelligence"
+    href: consumer-electronics/ambient-intelligence.md
+  - name: "Audio systems"
+    href: consumer-electronics/audio-systems.md
+  - name: "Home automation"
+    href: consumer-electronics/home-automation.md
+  - name: "Home computing"
+    href: consumer-electronics/home-computing.md
+  - name: "Low power electronics"
+    href: consumer-electronics/low-power-electronics.md
+  - name: "Microwave ovens"
+    href: consumer-electronics/microwave-ovens.md
+  - name: "Multimedia systems"
+    href: consumer-electronics/multimedia-systems.md
+- name: "Dielectrics and electrical insulation"
+  href: dielectrics-and-electrical-insulation/index.md
+  items:
+  - name: "Dielectrics"
+    href: dielectrics-and-electrical-insulation/dielectrics.md
+  - name: "Electric breakdown"
+    href: dielectrics-and-electrical-insulation/electric-breakdown.md
+  - name: "Electromagnetic fields"
+    href: dielectrics-and-electrical-insulation/electromagnetic-fields.md
+  - name: "Insulation"
+    href: dielectrics-and-electrical-insulation/insulation.md
+- name: "Education"
+  href: education/index.md
+  items:
+  - name: "Adaptive learning"
+    href: education/adaptive-learning.md
+  - name: "Career development"
+    href: education/career-development.md
+  - name: "Educational courses"
+    href: education/educational-courses.md
+  - name: "Educational institutions"
+    href: education/educational-institutions.md
+  - name: "Educational programs"
+    href: education/educational-programs.md
+  - name: "Educational technology"
+    href: education/educational-technology.md
+  - name: "Engineering education"
+    href: education/engineering-education.md
+  - name: "Humanities"
+    href: education/humanities.md
+  - name: "Training"
+    href: education/training.md
+- name: "Electromagnetic compatibility and interference"
+  href: electromagnetic-compatibility-and-interference/index.md
+  items:
+  - name: "Electromagnetic compatibility"
+    href: electromagnetic-compatibility-and-interference/electromagnetic-compatibility.md
+  - name: "Electromagnetics"
+    href: electromagnetic-compatibility-and-interference/electromagnetics.md
+  - name: "Interference"
+    href: electromagnetic-compatibility-and-interference/interference.md
+  - name: "Radar"
+    href: electromagnetic-compatibility-and-interference/radar.md
+- name: "Electron devices"
+  href: electron-devices/index.md
+  items:
+  - name: "Cathode ray tubes"
+    href: electron-devices/cathode-ray-tubes.md
+  - name: "Electron guns"
+    href: electron-devices/electron-guns.md
+  - name: "Electron multipliers"
+    href: electron-devices/electron-multipliers.md
+  - name: "Electron tubes"
+    href: electron-devices/electron-tubes.md
+  - name: "Mechatronics"
+    href: electron-devices/mechatronics.md
+  - name: "Microelectromechanical systems"
+    href: electron-devices/microelectromechanical-systems.md
+  - name: "Microfluidics"
+    href: electron-devices/microfluidics.md
+  - name: "Micromechanical devices"
+    href: electron-devices/micromechanical-devices.md
+  - name: "Photoelectricity"
+    href: electron-devices/photoelectricity.md
+  - name: "Photovoltaic cells"
+    href: electron-devices/photovoltaic-cells.md
+  - name: "Quantum computing"
+    href: electron-devices/quantum-computing.md
+  - name: "Quantum well devices"
+    href: electron-devices/quantum-well-devices.md
+  - name: "Semiconductivity"
+    href: electron-devices/semiconductivity.md
+  - name: "Semiconductor devices"
+    href: electron-devices/semiconductor-devices.md
+  - name: "Single electron devices"
+    href: electron-devices/single-electron-devices.md
+  - name: "Thick film devices"
+    href: electron-devices/thick-film-devices.md
+  - name: "Thin film devices"
+    href: electron-devices/thin-film-devices.md
+  - name: "Tunneling"
+    href: electron-devices/tunneling.md
+  - name: "Vacuum technology"
+    href: electron-devices/vacuum-technology.md
+- name: "Engineering - general"
+  href: engineering-general/index.md
+  items:
+  - name: "Acoustical engineering"
+    href: engineering-general/acoustical-engineering.md
+  - name: "Agricultural engineering"
+    href: engineering-general/agricultural-engineering.md
+  - name: "Bio-inspired engineering"
+    href: engineering-general/bio-inspired-engineering.md
+  - name: "Chemical engineering"
+    href: engineering-general/chemical-engineering.md
+  - name: "Civil engineering"
+    href: engineering-general/civil-engineering.md
+  - name: "Concurrent engineering"
+    href: engineering-general/concurrent-engineering.md
+  - name: "Design engineering"
+    href: engineering-general/design-engineering.md
+  - name: "Electrical engineering"
+    href: engineering-general/electrical-engineering.md
+  - name: "Engineering profession"
+    href: engineering-general/engineering-profession.md
+  - name: "Environmental engineering"
+    href: engineering-general/environmental-engineering.md
+  - name: "Maintenance engineering"
+    href: engineering-general/maintenance-engineering.md
+  - name: "Marine engineering"
+    href: engineering-general/marine-engineering.md
+  - name: "Mechanical engineering"
+    href: engineering-general/mechanical-engineering.md
+  - name: "Optical engineering"
+    href: engineering-general/optical-engineering.md
+  - name: "Precision engineering"
+    href: engineering-general/precision-engineering.md
+  - name: "Production engineering"
+    href: engineering-general/production-engineering.md
+  - name: "Research and development"
+    href: engineering-general/research-and-development.md
+  - name: "Reverse engineering"
+    href: engineering-general/reverse-engineering.md
+  - name: "Sanitary engineering"
+    href: engineering-general/sanitary-engineering.md
+  - name: "Standardization"
+    href: engineering-general/standardization.md
+  - name: "Thermal engineering"
+    href: engineering-general/thermal-engineering.md
+- name: "Engineering in medicine and biology"
+  href: engineering-in-medicine-and-biology/index.md
+  items:
+  - name: "Biology"
+    href: engineering-in-medicine-and-biology/biology.md
+  - name: "Biomedical communication"
+    href: engineering-in-medicine-and-biology/biomedical-communication.md
+  - name: "Biomedical computing"
+    href: engineering-in-medicine-and-biology/biomedical-computing.md
+  - name: "Biomedical engineering"
+    href: engineering-in-medicine-and-biology/biomedical-engineering.md
+  - name: "Biomedical equipment"
+    href: engineering-in-medicine-and-biology/biomedical-equipment.md
+  - name: "Biomedical imaging"
+    href: engineering-in-medicine-and-biology/biomedical-imaging.md
+  - name: "Bionanotechnology"
+    href: engineering-in-medicine-and-biology/bionanotechnology.md
+  - name: "Bioterrorism"
+    href: engineering-in-medicine-and-biology/bioterrorism.md
+  - name: "Computational biology"
+    href: engineering-in-medicine-and-biology/computational-biology.md
+  - name: "Genetic engineering"
+    href: engineering-in-medicine-and-biology/genetic-engineering.md
+  - name: "Medical services"
+    href: engineering-in-medicine-and-biology/medical-services.md
+  - name: "Medical specialties"
+    href: engineering-in-medicine-and-biology/medical-specialties.md
+  - name: "Nuclear medicine"
+    href: engineering-in-medicine-and-biology/nuclear-medicine.md
+  - name: "Synthetic biology"
+    href: engineering-in-medicine-and-biology/synthetic-biology.md
+- name: "Engineering management"
+  href: engineering-management/index.md
+  items:
+  - name: "Business"
+    href: engineering-management/business.md
+  - name: "Commercialization"
+    href: engineering-management/commercialization.md
+  - name: "Consortia"
+    href: engineering-management/consortia.md
+  - name: "Economics"
+    href: engineering-management/economics.md
+  - name: "Innovation management"
+    href: engineering-management/innovation-management.md
+  - name: "Legal factors"
+    href: engineering-management/legal-factors.md
+  - name: "Market research"
+    href: engineering-management/market-research.md
+  - name: "Planning"
+    href: engineering-management/planning.md
+  - name: "Product development"
+    href: engineering-management/product-development.md
+  - name: "Project engineering"
+    href: engineering-management/project-engineering.md
+  - name: "Research and development management"
+    href: engineering-management/research-and-development-management.md
+  - name: "Research initiatives"
+    href: engineering-management/research-initiatives.md
+  - name: "Software development management"
+    href: engineering-management/software-development-management.md
+- name: "Geoscience and remote sensing"
+  href: geoscience-and-remote-sensing/index.md
+  items:
+  - name: "Environmental factors"
+    href: geoscience-and-remote-sensing/environmental-factors.md
+  - name: "Geographic information systems"
+    href: geoscience-and-remote-sensing/geographic-information-systems.md
+  - name: "Geophysical measurement techniques"
+    href: geoscience-and-remote-sensing/geophysical-measurement-techniques.md
+  - name: "Geophysical measurements"
+    href: geoscience-and-remote-sensing/geophysical-measurements.md
+  - name: "Geophysical signal processing"
+    href: geoscience-and-remote-sensing/geophysical-signal-processing.md
+  - name: "Geoscience"
+    href: geoscience-and-remote-sensing/geoscience.md
+  - name: "Photometry"
+    href: geoscience-and-remote-sensing/photometry.md
+  - name: "Radiometry"
+    href: geoscience-and-remote-sensing/radiometry.md
+  - name: "Remote sensing"
+    href: geoscience-and-remote-sensing/remote-sensing.md
+  - name: "Terrain mapping"
+    href: geoscience-and-remote-sensing/terrain-mapping.md
+  - name: "Terrestrial atmosphere"
+    href: geoscience-and-remote-sensing/terrestrial-atmosphere.md
+  - name: "Vegetation mapping"
+    href: geoscience-and-remote-sensing/vegetation-mapping.md
+  - name: "Land surface temperature"
+    href: geoscience-and-remote-sensing/land-surface-temperature.md
+- name: "IEEE organization"
+  href: ieee-organization/index.md
+  items:
+  - name: "IEEE activities"
+    href: ieee-organization/ieee-activities.md
+  - name: "IEEE entities"
+    href: ieee-organization/ieee-entities.md
+  - name: "IEEE governance"
+    href: ieee-organization/ieee-governance.md
+  - name: "IEEE indexing"
+    href: ieee-organization/ieee-indexing.md
+  - name: "IEEE members"
+    href: ieee-organization/ieee-members.md
+  - name: "IEEE products"
+    href: ieee-organization/ieee-products.md
+- name: "Imaging"
+  href: imaging/index.md
+  items:
+  - name: "Biomedical imaging"
+    href: imaging/biomedical-imaging.md
+  - name: "Cameras"
+    href: imaging/cameras.md
+  - name: "Focusing"
+    href: imaging/focusing.md
+  - name: "Ground penetrating radar"
+    href: imaging/ground-penetrating-radar.md
+  - name: "Holography"
+    href: imaging/holography.md
+  - name: "Image converters"
+    href: imaging/image-converters.md
+  - name: "Image sensors"
+    href: imaging/image-sensors.md
+  - name: "Image storage"
+    href: imaging/image-storage.md
+  - name: "Infrared imaging"
+    href: imaging/infrared-imaging.md
+  - name: "Magnetic resonance imaging"
+    href: imaging/magnetic-resonance-imaging.md
+  - name: "Magneto electrical resistivity imaging technique"
+    href: imaging/magneto-electrical-resistivity-imaging-technique.md
+  - name: "Microscopy"
+    href: imaging/microscopy.md
+  - name: "Microwave imaging"
+    href: imaging/microwave-imaging.md
+  - name: "Multispectral imaging"
+    href: imaging/multispectral-imaging.md
+  - name: "Nuclear imaging"
+    href: imaging/nuclear-imaging.md
+  - name: "Optical imaging"
+    href: imaging/optical-imaging.md
+  - name: "Photography"
+    href: imaging/photography.md
+  - name: "Radiation imaging"
+    href: imaging/radiation-imaging.md
+  - name: "Radiography"
+    href: imaging/radiography.md
+  - name: "Stereo vision"
+    href: imaging/stereo-vision.md
+  - name: "Terahertz wave imaging"
+    href: imaging/terahertz-wave-imaging.md
+  - name: "Tomography"
+    href: imaging/tomography.md
+- name: "Industrial electronics"
+  href: industrial-electronics/index.md
+  items:
+  - name: "Assembly systems"
+    href: industrial-electronics/assembly-systems.md
+  - name: "Computer aided manufacturing"
+    href: industrial-electronics/computer-aided-manufacturing.md
+  - name: "Cryogenic electronics"
+    href: industrial-electronics/cryogenic-electronics.md
+  - name: "Industrial control"
+    href: industrial-electronics/industrial-control.md
+  - name: "Integrated manufacturing systems"
+    href: industrial-electronics/integrated-manufacturing-systems.md
+  - name: "Machine control"
+    href: industrial-electronics/machine-control.md
+  - name: "Manufacturing automation"
+    href: industrial-electronics/manufacturing-automation.md
+  - name: "Testing"
+    href: industrial-electronics/testing.md
+- name: "Industry applications"
+  href: industry-applications/index.md
+  items:
+  - name: "Accident prevention"
+    href: industry-applications/accident-prevention.md
+  - name: "Chemical technology"
+    href: industry-applications/chemical-technology.md
+  - name: "Cryogenics"
+    href: industry-applications/cryogenics.md
+  - name: "Electrochemical devices"
+    href: industry-applications/electrochemical-devices.md
+  - name: "Electrochemical processes"
+    href: industry-applications/electrochemical-processes.md
+  - name: "Electromechanical systems"
+    href: industry-applications/electromechanical-systems.md
+  - name: "Electrostatic devices"
+    href: industry-applications/electrostatic-devices.md
+  - name: "Electrostatic precipitators"
+    href: industry-applications/electrostatic-precipitators.md
+  - name: "Electrostatic processes"
+    href: industry-applications/electrostatic-processes.md
+  - name: "Engines"
+    href: industry-applications/engines.md
+  - name: "Environmental management"
+    href: industry-applications/environmental-management.md
+  - name: "Food technology"
+    href: industry-applications/food-technology.md
+  - name: "High-temperature techniques"
+    href: industry-applications/high-temperature-techniques.md
+  - name: "Industrial engineering"
+    href: industry-applications/industrial-engineering.md
+  - name: "Industries"
+    href: industry-applications/industries.md
+  - name: "Inspection"
+    href: industry-applications/inspection.md
+  - name: "Machinery"
+    href: industry-applications/machinery.md
+  - name: "Manufacturing"
+    href: industry-applications/manufacturing.md
+  - name: "Packaging"
+    href: industry-applications/packaging.md
+  - name: "Paper technology"
+    href: industry-applications/paper-technology.md
+  - name: "Production"
+    href: industry-applications/production.md
+  - name: "Safety"
+    href: industry-applications/safety.md
+  - name: "Security"
+    href: industry-applications/security.md
+  - name: "Wine industry"
+    href: industry-applications/wine-industry.md
+- name: "Information theory"
+  href: information-theory/index.md
+  items:
+  - name: "Audio coding"
+    href: information-theory/audio-coding.md
+  - name: "Biological information theory"
+    href: information-theory/biological-information-theory.md
+  - name: "Channel coding"
+    href: information-theory/channel-coding.md
+  - name: "Codes"
+    href: information-theory/codes.md
+  - name: "Communication channels"
+    href: information-theory/communication-channels.md
+  - name: "Decoding"
+    href: information-theory/decoding.md
+  - name: "Encoding"
+    href: information-theory/encoding.md
+  - name: "Error compensation"
+    href: information-theory/error-compensation.md
+  - name: "Genetic communication"
+    href: information-theory/genetic-communication.md
+  - name: "Hamming distances"
+    href: information-theory/hamming-distances.md
+  - name: "Hamming weight"
+    href: information-theory/hamming-weight.md
+  - name: "Information entropy"
+    href: information-theory/information-entropy.md
+  - name: "Mutual information"
+    href: information-theory/mutual-information.md
+  - name: "Network coding"
+    href: information-theory/network-coding.md
+  - name: "Rate distortion theory"
+    href: information-theory/rate-distortion-theory.md
+  - name: "Rate-distortion"
+    href: information-theory/rate-distortion.md
+  - name: "Source coding"
+    href: information-theory/source-coding.md
+  - name: "Speech coding"
+    href: information-theory/speech-coding.md
+  - name: "Technology acceptance model"
+    href: information-theory/technology-acceptance-model.md
+- name: "Intelligent transportation systems"
+  href: intelligent-transportation-systems/index.md
+  items:
+  - name: "Automated highways"
+    href: intelligent-transportation-systems/automated-highways.md
+  - name: "Geographic information systems"
+    href: intelligent-transportation-systems/geographic-information-systems.md
+  - name: "Intelligent vehicles"
+    href: intelligent-transportation-systems/intelligent-vehicles.md
+  - name: "Navigation"
+    href: intelligent-transportation-systems/navigation.md
+  - name: "Transportation"
+    href: intelligent-transportation-systems/transportation.md
+- name: "Lasers and electrooptics"
+  href: lasers-and-electrooptics/index.md
+  items:
+  - name: "Electro-optic devices"
+    href: lasers-and-electrooptics/electro-optic-devices.md
+  - name: "Electro-optic effects"
+    href: lasers-and-electrooptics/electro-optic-effects.md
+  - name: "Lasers"
+    href: lasers-and-electrooptics/lasers.md
+  - name: "Optics"
+    href: lasers-and-electrooptics/optics.md
+  - name: "Optoelectronic devices"
+    href: lasers-and-electrooptics/optoelectronic-devices.md
+  - name: "Photonics"
+    href: lasers-and-electrooptics/photonics.md
+- name: "Mathematics"
+  href: mathematics/index.md
+  items:
+  - name: "Algebra"
+    href: mathematics/algebra.md
+  - name: "Algorithms"
+    href: mathematics/algorithms.md
+  - name: "Arithmetic"
+    href: mathematics/arithmetic.md
+  - name: "Azimuth"
+    href: mathematics/azimuth.md
+  - name: "Boundary value problems"
+    href: mathematics/boundary-value-problems.md
+  - name: "Calculus"
+    href: mathematics/calculus.md
+  - name: "Chemical reaction network theory"
+    href: mathematics/chemical-reaction-network-theory.md
+  - name: "Closed-form solutions"
+    href: mathematics/closed-form-solutions.md
+  - name: "Combinatorial mathematics"
+    href: mathematics/combinatorial-mathematics.md
+  - name: "Computational efficiency"
+    href: mathematics/computational-efficiency.md
+  - name: "Conformal mapping"
+    href: mathematics/conformal-mapping.md
+  - name: "Convergence"
+    href: mathematics/convergence.md
+  - name: "Convex functions"
+    href: mathematics/convex-functions.md
+  - name: "Cyclic redundancy check"
+    href: mathematics/cyclic-redundancy-check.md
+  - name: "Dynamical systems"
+    href: mathematics/dynamical-systems.md
+  - name: "Eigenvalues and eigenfunctions"
+    href: mathematics/eigenvalues-and-eigenfunctions.md
+  - name: "Equations"
+    href: mathematics/equations.md
+  - name: "Estimation"
+    href: mathematics/estimation.md
+  - name: "Euclidean distance"
+    href: mathematics/euclidean-distance.md
+  - name: "Finite difference methods"
+    href: mathematics/finite-difference-methods.md
+  - name: "Finite element analysis"
+    href: mathematics/finite-element-analysis.md
+  - name: "Fourier series"
+    href: mathematics/fourier-series.md
+  - name: "Functional analysis"
+    href: mathematics/functional-analysis.md
+  - name: "Geometry"
+    href: mathematics/geometry.md
+  - name: "Gradient methods"
+    href: mathematics/gradient-methods.md
+  - name: "Graph theory"
+    href: mathematics/graph-theory.md
+  - name: "Harmonic analysis"
+    href: mathematics/harmonic-analysis.md
+  - name: "Hypercomplex"
+    href: mathematics/hypercomplex.md
+  - name: "Iterative methods"
+    href: mathematics/iterative-methods.md
+  - name: "Kernel"
+    href: mathematics/kernel.md
+  - name: "Laplace equations"
+    href: mathematics/laplace-equations.md
+  - name: "Lattices"
+    href: mathematics/lattices.md
+  - name: "Lie groups"
+    href: mathematics/lie-groups.md
+  - name: "Limit-cycles"
+    href: mathematics/limit-cycles.md
+  - name: "Linear matrix inequalities"
+    href: mathematics/linear-matrix-inequalities.md
+  - name: "Linear systems"
+    href: mathematics/linear-systems.md
+  - name: "Linearization techniques"
+    href: mathematics/linearization-techniques.md
+  - name: "Mathematical models"
+    href: mathematics/mathematical-models.md
+  - name: "Mathematical programming"
+    href: mathematics/mathematical-programming.md
+  - name: "Method of moments"
+    href: mathematics/method-of-moments.md
+  - name: "Minimization"
+    href: mathematics/minimization.md
+  - name: "Mode matching methods"
+    href: mathematics/mode-matching-methods.md
+  - name: "Network theory (graphs)"
+    href: mathematics/network-theory-graphs.md
+  - name: "Nonlinear equations"
+    href: mathematics/nonlinear-equations.md
+  - name: "Nonlinear systems"
+    href: mathematics/nonlinear-systems.md
+  - name: "Numerical analysis"
+    href: mathematics/numerical-analysis.md
+  - name: "Optimization"
+    href: mathematics/optimization.md
+  - name: "Piecewise linear techniques"
+    href: mathematics/piecewise-linear-techniques.md
+  - name: "Predator prey systems"
+    href: mathematics/predator-prey-systems.md
+  - name: "Probability"
+    href: mathematics/probability.md
+  - name: "Quaternions"
+    href: mathematics/quaternions.md
+  - name: "Random processes"
+    href: mathematics/random-processes.md
+  - name: "Root mean square"
+    href: mathematics/root-mean-square.md
+  - name: "Sequences"
+    href: mathematics/sequences.md
+  - name: "Set theory"
+    href: mathematics/set-theory.md
+  - name: "Simulated annealing"
+    href: mathematics/simulated-annealing.md
+  - name: "Smoothing methods"
+    href: mathematics/smoothing-methods.md
+  - name: "Spirals"
+    href: mathematics/spirals.md
+  - name: "Statistics"
+    href: mathematics/statistics.md
+  - name: "Stochastic processes"
+    href: mathematics/stochastic-processes.md
+  - name: "Superposition calculus"
+    href: mathematics/superposition-calculus.md
+  - name: "Taylor series"
+    href: mathematics/taylor-series.md
+  - name: "Tensors"
+    href: mathematics/tensors.md
+  - name: "Topology"
+    href: mathematics/topology.md
+  - name: "Transforms"
+    href: mathematics/transforms.md
+  - name: "Transmission line matrix methods"
+    href: mathematics/transmission-line-matrix-methods.md
+  - name: "Uncertain systems"
+    href: mathematics/uncertain-systems.md
+  - name: "Utility theory"
+    href: mathematics/utility-theory.md
+- name: "Microwave theory and techniques"
+  href: microwave-theory-and-techniques/index.md
+  items:
+  - name: "Microwave technology"
+    href: microwave-theory-and-techniques/microwave-technology.md
+  - name: "Millimeter wave technology"
+    href: microwave-theory-and-techniques/millimeter-wave-technology.md
+  - name: "Submillimeter wave technology"
+    href: microwave-theory-and-techniques/submillimeter-wave-technology.md
+- name: "Nanotechnology"
+  href: nanotechnology/index.md
+  items:
+  - name: "Bionanotechnology"
+    href: nanotechnology/bionanotechnology.md
+  - name: "Casimir effect"
+    href: nanotechnology/casimir-effect.md
+  - name: "Molecular computing"
+    href: nanotechnology/molecular-computing.md
+  - name: "Molecular electronics"
+    href: nanotechnology/molecular-electronics.md
+  - name: "Nanobioscience"
+    href: nanotechnology/nanobioscience.md
+  - name: "Nanocommunication"
+    href: nanotechnology/nanocommunication.md
+  - name: "Nanoelectromechanical systems"
+    href: nanotechnology/nanoelectromechanical-systems.md
+  - name: "Nanoelectronics"
+    href: nanotechnology/nanoelectronics.md
+  - name: "Nanofabrication"
+    href: nanotechnology/nanofabrication.md
+  - name: "Nanofluidics"
+    href: nanotechnology/nanofluidics.md
+  - name: "Nanolithography"
+    href: nanotechnology/nanolithography.md
+  - name: "Nanomagnetics"
+    href: nanotechnology/nanomagnetics.md
+  - name: "Nanomaterials"
+    href: nanotechnology/nanomaterials.md
+  - name: "Nanopackaging"
+    href: nanotechnology/nanopackaging.md
+  - name: "Nanopatterning"
+    href: nanotechnology/nanopatterning.md
+  - name: "Nanophotonics"
+    href: nanotechnology/nanophotonics.md
+  - name: "Nanoplasmonics"
+    href: nanotechnology/nanoplasmonics.md
+  - name: "Nanopositioning"
+    href: nanotechnology/nanopositioning.md
+  - name: "Nanoscale technology"
+    href: nanotechnology/nanoscale-technology.md
+  - name: "Nanosensors"
+    href: nanotechnology/nanosensors.md
+  - name: "Nanostructured materials"
+    href: nanotechnology/nanostructured-materials.md
+  - name: "Nanostructures"
+    href: nanotechnology/nanostructures.md
+  - name: "Self-assembly"
+    href: nanotechnology/self-assembly.md
+  - name: "Self-replicating machines"
+    href: nanotechnology/self-replicating-machines.md
+- name: "Oceanic engineering and marine technology"
+  href: oceanic-engineering-and-marine-technology/index.md
+  items:
+  - name: "Marine navigation"
+    href: oceanic-engineering-and-marine-technology/marine-navigation.md
+  - name: "Marine technology"
+    href: oceanic-engineering-and-marine-technology/marine-technology.md
+  - name: "Ocean temperature"
+    href: oceanic-engineering-and-marine-technology/ocean-temperature.md
+  - name: "Oceanographic techniques"
+    href: oceanic-engineering-and-marine-technology/oceanographic-techniques.md
+  - name: "Water pollution"
+    href: oceanic-engineering-and-marine-technology/water-pollution.md
+- name: "Power electronics"
+  href: power-electronics/index.md
+  items:
+  - name: "Converters"
+    href: power-electronics/converters.md
+  - name: "Current limiters"
+    href: power-electronics/current-limiters.md
+  - name: "Gate drivers"
+    href: power-electronics/gate-drivers.md
+  - name: "Inverters"
+    href: power-electronics/inverters.md
+  - name: "Phase control"
+    href: power-electronics/phase-control.md
+  - name: "Power conditioning"
+    href: power-electronics/power-conditioning.md
+  - name: "Power semiconductor devices"
+    href: power-electronics/power-semiconductor-devices.md
+  - name: "Power semiconductor switches"
+    href: power-electronics/power-semiconductor-switches.md
+  - name: "Snubbers"
+    href: power-electronics/snubbers.md
+  - name: "Three-phase electric power"
+    href: power-electronics/three-phase-electric-power.md
+- name: "Power engineering and energy"
+  href: power-engineering-and-energy/index.md
+  items:
+  - name: "Electric variables control"
+    href: power-engineering-and-energy/electric-variables-control.md
+  - name: "Energy"
+    href: power-engineering-and-energy/energy.md
+  - name: "Power engineering"
+    href: power-engineering-and-energy/power-engineering.md
+  - name: "Power generation"
+    href: power-engineering-and-energy/power-generation.md
+  - name: "Power systems"
+    href: power-engineering-and-energy/power-systems.md
+- name: "Professional communication"
+  href: professional-communication/index.md
+  items:
+  - name: "Collaboration"
+    href: professional-communication/collaboration.md
+  - name: "Communication aids"
+    href: professional-communication/communication-aids.md
+  - name: "Communication effectiveness"
+    href: professional-communication/communication-effectiveness.md
+  - name: "Communication symbols"
+    href: professional-communication/communication-symbols.md
+  - name: "Context"
+    href: professional-communication/context.md
+  - name: "Databases"
+    href: professional-communication/databases.md
+  - name: "Global communication"
+    href: professional-communication/global-communication.md
+  - name: "Grammar"
+    href: professional-communication/grammar.md
+  - name: "Inclusive language"
+    href: professional-communication/inclusive-language.md
+  - name: "Information analysis"
+    href: professional-communication/information-analysis.md
+  - name: "Information integrity"
+    href: professional-communication/information-integrity.md
+  - name: "Information resources"
+    href: professional-communication/information-resources.md
+  - name: "Information retrieval"
+    href: professional-communication/information-retrieval.md
+  - name: "Information science"
+    href: professional-communication/information-science.md
+  - name: "Information services"
+    href: professional-communication/information-services.md
+  - name: "Information systems"
+    href: professional-communication/information-systems.md
+  - name: "Information technology"
+    href: professional-communication/information-technology.md
+  - name: "Manuals"
+    href: professional-communication/manuals.md
+  - name: "Meetings"
+    href: professional-communication/meetings.md
+  - name: "Oral communication"
+    href: professional-communication/oral-communication.md
+  - name: "Plagiarism"
+    href: professional-communication/plagiarism.md
+  - name: "Portfolios"
+    href: professional-communication/portfolios.md
+  - name: "Professional societies"
+    href: professional-communication/professional-societies.md
+  - name: "Public speaking"
+    href: professional-communication/public-speaking.md
+  - name: "Rhetoric"
+    href: professional-communication/rhetoric.md
+  - name: "Writing"
+    href: professional-communication/writing.md
+- name: "Reliability"
+  href: reliability/index.md
+  items:
+  - name: "Availability"
+    href: reliability/availability.md
+  - name: "Fault diagnosis"
+    href: reliability/fault-diagnosis.md
+  - name: "Fault tolerance"
+    href: reliability/fault-tolerance.md
+  - name: "Fluctuations"
+    href: reliability/fluctuations.md
+  - name: "Integrated circuit reliability"
+    href: reliability/integrated-circuit-reliability.md
+  - name: "Maintenance"
+    href: reliability/maintenance.md
+  - name: "Maldistribution"
+    href: reliability/maldistribution.md
+  - name: "Materials reliability"
+    href: reliability/materials-reliability.md
+  - name: "Reliability engineering"
+    href: reliability/reliability-engineering.md
+  - name: "Reliability theory"
+    href: reliability/reliability-theory.md
+  - name: "Robustness"
+    href: reliability/robustness.md
+  - name: "Semiconductor device reliability"
+    href: reliability/semiconductor-device-reliability.md
+  - name: "Software reliability"
+    href: reliability/software-reliability.md
+  - name: "Stability"
+    href: reliability/stability.md
+  - name: "Telecommunication network reliability"
+    href: reliability/telecommunication-network-reliability.md
+- name: "Robotics and automation"
+  href: robotics-and-automation/index.md
+  items:
+  - name: "Animatronics"
+    href: robotics-and-automation/animatronics.md
+  - name: "Automation"
+    href: robotics-and-automation/automation.md
+  - name: "Autonomous systems"
+    href: robotics-and-automation/autonomous-systems.md
+  - name: "Cloud robotics"
+    href: robotics-and-automation/cloud-robotics.md
+  - name: "Multi-robot systems"
+    href: robotics-and-automation/multi-robot-systems.md
+  - name: "Robots"
+    href: robotics-and-automation/robots.md
+- name: "Science - general"
+  href: science-general/index.md
+  items:
+  - name: "Astronomy"
+    href: science-general/astronomy.md
+  - name: "Atmospheric science"
+    href: science-general/atmospheric-science.md
+  - name: "Biology"
+    href: science-general/biology.md
+  - name: "Chemistry"
+    href: science-general/chemistry.md
+  - name: "Electricity"
+    href: science-general/electricity.md
+  - name: "Environmental science"
+    href: science-general/environmental-science.md
+  - name: "Epidemiology"
+    href: science-general/epidemiology.md
+  - name: "Geoscience"
+    href: science-general/geoscience.md
+  - name: "Life sciences"
+    href: science-general/life-sciences.md
+  - name: "Metrology"
+    href: science-general/metrology.md
+  - name: "Neuroscience"
+    href: science-general/neuroscience.md
+  - name: "Paleontology"
+    href: science-general/paleontology.md
+  - name: "Physics"
+    href: science-general/physics.md
+  - name: "Social sciences"
+    href: science-general/social-sciences.md
+  - name: "Thermodynamics"
+    href: science-general/thermodynamics.md
+- name: "Signal processing"
+  href: signal-processing/index.md
+  items:
+  - name: "Acoustic signal processing"
+    href: signal-processing/acoustic-signal-processing.md
+  - name: "Adaptive signal processing"
+    href: signal-processing/adaptive-signal-processing.md
+  - name: "Amplifiers"
+    href: signal-processing/amplifiers.md
+  - name: "Array signal processing"
+    href: signal-processing/array-signal-processing.md
+  - name: "Attenuators"
+    href: signal-processing/attenuators.md
+  - name: "Chirp"
+    href: signal-processing/chirp.md
+  - name: "Convolution"
+    href: signal-processing/convolution.md
+  - name: "Cyclostationary process"
+    href: signal-processing/cyclostationary-process.md
+  - name: "Decorrelation"
+    href: signal-processing/decorrelation.md
+  - name: "Digital signal processing"
+    href: signal-processing/digital-signal-processing.md
+  - name: "Dispersion"
+    href: signal-processing/dispersion.md
+  - name: "Distortion"
+    href: signal-processing/distortion.md
+  - name: "Error correction"
+    href: signal-processing/error-correction.md
+  - name: "Fading channels"
+    href: signal-processing/fading-channels.md
+  - name: "Filters"
+    href: signal-processing/filters.md
+  - name: "Frequency locked loops"
+    href: signal-processing/frequency-locked-loops.md
+  - name: "Geophysical signal processing"
+    href: signal-processing/geophysical-signal-processing.md
+  - name: "Limiting"
+    href: signal-processing/limiting.md
+  - name: "Local field potentials"
+    href: signal-processing/local-field-potentials.md
+  - name: "Modulation"
+    href: signal-processing/modulation.md
+  - name: "Multidimensional signal processing"
+    href: signal-processing/multidimensional-signal-processing.md
+  - name: "Noise"
+    href: signal-processing/noise.md
+  - name: "Optical signal processing"
+    href: signal-processing/optical-signal-processing.md
+  - name: "Optical wavelength conversion"
+    href: signal-processing/optical-wavelength-conversion.md
+  - name: "Phase locked loops"
+    href: signal-processing/phase-locked-loops.md
+  - name: "Pulse compression methods"
+    href: signal-processing/pulse-compression-methods.md
+  - name: "Pulse shaping methods"
+    href: signal-processing/pulse-shaping-methods.md
+  - name: "Quantization (signal)"
+    href: signal-processing/quantization-signal.md
+  - name: "Radar signal processing"
+    href: signal-processing/radar-signal-processing.md
+  - name: "Received signal strength indicator"
+    href: signal-processing/received-signal-strength-indicator.md
+  - name: "Recording"
+    href: signal-processing/recording.md
+  - name: "RF signals"
+    href: signal-processing/rf-signals.md
+  - name: "Signal analysis"
+    href: signal-processing/signal-analysis.md
+  - name: "Signal design"
+    href: signal-processing/signal-design.md
+  - name: "Signal detection"
+    href: signal-processing/signal-detection.md
+  - name: "Signal generators"
+    href: signal-processing/signal-generators.md
+  - name: "Signal integrity"
+    href: signal-processing/signal-integrity.md
+  - name: "Signal reconstruction"
+    href: signal-processing/signal-reconstruction.md
+  - name: "Signal resolution"
+    href: signal-processing/signal-resolution.md
+  - name: "Signal restoration"
+    href: signal-processing/signal-restoration.md
+  - name: "Signal sampling"
+    href: signal-processing/signal-sampling.md
+  - name: "Signal synthesis"
+    href: signal-processing/signal-synthesis.md
+  - name: "Source separation"
+    href: signal-processing/source-separation.md
+  - name: "Spectrogram"
+    href: signal-processing/spectrogram.md
+  - name: "Tracking loops"
+    href: signal-processing/tracking-loops.md
+- name: "Social implications of technology"
+  href: social-implications-of-technology/index.md
+  items:
+  - name: "Cultural aspects"
+    href: social-implications-of-technology/cultural-aspects.md
+  - name: "Cultural differences"
+    href: social-implications-of-technology/cultural-differences.md
+  - name: "Environmental factors"
+    href: social-implications-of-technology/environmental-factors.md
+  - name: "Ethical aspects"
+    href: social-implications-of-technology/ethical-aspects.md
+  - name: "Ethics"
+    href: social-implications-of-technology/ethics.md
+  - name: "Globalization"
+    href: social-implications-of-technology/globalization.md
+  - name: "International relations"
+    href: social-implications-of-technology/international-relations.md
+  - name: "Peace technology"
+    href: social-implications-of-technology/peace-technology.md
+  - name: "Philosophical considerations"
+    href: social-implications-of-technology/philosophical-considerations.md
+  - name: "Social factors"
+    href: social-implications-of-technology/social-factors.md
+  - name: "Sustainable development"
+    href: social-implications-of-technology/sustainable-development.md
+  - name: "Technology"
+    href: social-implications-of-technology/technology.md
+- name: "Solid state circuits"
+  href: solid-state-circuits/index.md
+  items:
+  - name: "Circuit subsystems"
+    href: solid-state-circuits/circuit-subsystems.md
+  - name: "Circuit theory"
+    href: solid-state-circuits/circuit-theory.md
+  - name: "FET circuits"
+    href: solid-state-circuits/fet-circuits.md
+  - name: "Gate leakage"
+    href: solid-state-circuits/gate-leakage.md
+  - name: "Solid state circuit design"
+    href: solid-state-circuits/solid-state-circuit-design.md
+  - name: "Transistors"
+    href: solid-state-circuits/transistors.md
+- name: "Systems engineering and theory"
+  href: systems-engineering-and-theory/index.md
+  items:
+  - name: "Adaptive systems"
+    href: systems-engineering-and-theory/adaptive-systems.md
+  - name: "Capability engineering"
+    href: systems-engineering-and-theory/capability-engineering.md
+  - name: "Complex systems"
+    href: systems-engineering-and-theory/complex-systems.md
+  - name: "Configuration management"
+    href: systems-engineering-and-theory/configuration-management.md
+  - name: "Failure state"
+    href: systems-engineering-and-theory/failure-state.md
+  - name: "Hierarchical systems"
+    href: systems-engineering-and-theory/hierarchical-systems.md
+  - name: "Integrated design"
+    href: systems-engineering-and-theory/integrated-design.md
+  - name: "Interface management"
+    href: systems-engineering-and-theory/interface-management.md
+  - name: "Military systems"
+    href: systems-engineering-and-theory/military-systems.md
+  - name: "Modeling"
+    href: systems-engineering-and-theory/modeling.md
+  - name: "Multidimensional systems"
+    href: systems-engineering-and-theory/multidimensional-systems.md
+  - name: "Network systems"
+    href: systems-engineering-and-theory/network-systems.md
+  - name: "Physical design"
+    href: systems-engineering-and-theory/physical-design.md
+  - name: "Reduced order systems"
+    href: systems-engineering-and-theory/reduced-order-systems.md
+  - name: "Requirements engineering"
+    href: systems-engineering-and-theory/requirements-engineering.md
+  - name: "Requirements management"
+    href: systems-engineering-and-theory/requirements-management.md
+  - name: "Service-oriented systems engineering"
+    href: systems-engineering-and-theory/service-oriented-systems-engineering.md
+  - name: "Solution design"
+    href: systems-engineering-and-theory/solution-design.md
+  - name: "Stochastic systems"
+    href: systems-engineering-and-theory/stochastic-systems.md
+  - name: "System analysis and design"
+    href: systems-engineering-and-theory/system-analysis-and-design.md
+  - name: "System implementation"
+    href: systems-engineering-and-theory/system-implementation.md
+  - name: "System improvement"
+    href: systems-engineering-and-theory/system-improvement.md
+  - name: "System integration"
+    href: systems-engineering-and-theory/system-integration.md
+  - name: "System of systems"
+    href: systems-engineering-and-theory/system-of-systems.md
+  - name: "System realization"
+    href: systems-engineering-and-theory/system-realization.md
+  - name: "System validation"
+    href: systems-engineering-and-theory/system-validation.md
+  - name: "System verification"
+    href: systems-engineering-and-theory/system-verification.md
+  - name: "Systems architecture"
+    href: systems-engineering-and-theory/systems-architecture.md
+  - name: "Systems engineering education"
+    href: systems-engineering-and-theory/systems-engineering-education.md
+  - name: "Systems operation"
+    href: systems-engineering-and-theory/systems-operation.md
+  - name: "Systems simulation"
+    href: systems-engineering-and-theory/systems-simulation.md
+  - name: "Systems support"
+    href: systems-engineering-and-theory/systems-support.md
+  - name: "Systems thinking"
+    href: systems-engineering-and-theory/systems-thinking.md
+  - name: "Task analysis"
+    href: systems-engineering-and-theory/task-analysis.md
+  - name: "Technical management"
+    href: systems-engineering-and-theory/technical-management.md
+- name: "Systems, man, and cybernetics"
+  href: systems-man-and-cybernetics/index.md
+  items:
+  - name: "Behavioral sciences"
+    href: systems-man-and-cybernetics/behavioral-sciences.md
+  - name: "Biological control systems"
+    href: systems-man-and-cybernetics/biological-control-systems.md
+  - name: "Computational linguistics"
+    href: systems-man-and-cybernetics/computational-linguistics.md
+  - name: "Cybernetics"
+    href: systems-man-and-cybernetics/cybernetics.md
+  - name: "Ergonomics"
+    href: systems-man-and-cybernetics/ergonomics.md
+  - name: "Human factors"
+    href: systems-man-and-cybernetics/human-factors.md
+  - name: "Human-machine systems"
+    href: systems-man-and-cybernetics/human-machine-systems.md
+  - name: "Identification of persons"
+    href: systems-man-and-cybernetics/identification-of-persons.md
+  - name: "Pervasive computing"
+    href: systems-man-and-cybernetics/pervasive-computing.md
+  - name: "Posthuman"
+    href: systems-man-and-cybernetics/posthuman.md
+  - name: "Remote working"
+    href: systems-man-and-cybernetics/remote-working.md
+  - name: "Transhuman"
+    href: systems-man-and-cybernetics/transhuman.md
+  - name: "User interfaces"
+    href: systems-man-and-cybernetics/user-interfaces.md
+- name: "Ultrasonics, ferroelectrics, and frequency control"
+  href: ultrasonics-ferroelectrics-and-frequency-control/index.md
+  items:
+  - name: "Ferroelectric materials"
+    href: ultrasonics-ferroelectrics-and-frequency-control/ferroelectric-materials.md
+  - name: "Frequency control"
+    href: ultrasonics-ferroelectrics-and-frequency-control/frequency-control.md
+  - name: "Piezoelectricity"
+    href: ultrasonics-ferroelectrics-and-frequency-control/piezoelectricity.md
+  - name: "Pyroelectricity"
+    href: ultrasonics-ferroelectrics-and-frequency-control/pyroelectricity.md
+  - name: "Ultrasonic imaging"
+    href: ultrasonics-ferroelectrics-and-frequency-control/ultrasonic-imaging.md
+  - name: "Ultrasonic transducers"
+    href: ultrasonics-ferroelectrics-and-frequency-control/ultrasonic-transducers.md
+- name: "Vehicular and wireless technologies"
+  href: vehicular-and-wireless-technologies/index.md
+  items:
+  - name: "Automotive engineering"
+    href: vehicular-and-wireless-technologies/automotive-engineering.md
+  - name: "Land mobile radio equipment"
+    href: vehicular-and-wireless-technologies/land-mobile-radio-equipment.md
+  - name: "Navigation"
+    href: vehicular-and-wireless-technologies/navigation.md
+  - name: "Propulsion"
+    href: vehicular-and-wireless-technologies/propulsion.md
+  - name: "Vehicles"
+    href: vehicular-and-wireless-technologies/vehicles.md
+  - name: "Wireless sensor networks"
+    href: vehicular-and-wireless-technologies/wireless-sensor-networks.md

@@ -53,22 +53,30 @@ items:
   items:
   - name: "4.1 ACM CCS"
     href: classification-systems/acm-ccs.md
-  - name: "4.2 AGU Index Terms"
+  - name: "4.2 AGROVOC"
+    href: classification-systems/agrovoc.md
+  - name: "4.3 AGU Index Terms"
     href: classification-systems/agu-index-terms.md
-  - name: "4.3 CAS Sections"
+  - name: "4.4 CAS Sections"
     href: classification-systems/cas-sections.md
-  - name: "4.4 JEL"
+  - name: "4.5 ELSST"
+    href: classification-systems/elsst.md
+  - name: "4.6 IEEE Thesaurus"
+    href: classification-systems/ieee-thesaurus.md
+  - name: "4.7 JEL"
     href: classification-systems/jel.md
-  - name: "4.5 MeSH"
+  - name: "4.8 MeSH"
     href: classification-systems/mesh.md
-  - name: "4.6 MSC2020"
+  - name: "4.9 MSC2020"
     href: classification-systems/msc2020.md
-  - name: "4.7 OECD FORD"
+  - name: "4.10 OECD FORD"
     href: classification-systems/oecd-ford.md
-  - name: "4.8 OpenAlex Topics"
+  - name: "4.11 OpenAlex Topics"
     href: classification-systems/openalex-topics.md
-  - name: "4.9 PhySH"
+  - name: "4.12 PhySH"
     href: classification-systems/physh.md
+  - name: "4.13 UNESCO Thesaurus"
+    href: classification-systems/unesco-thesaurus.md
 - name: "5. Curricula"
   href: curricula/index.md
   items:
@@ -89,9 +97,11 @@ items:
     href: reference-works/nist-csrc-glossary.md
   - name: "6.5 NIST DADS"
     href: reference-works/nist-dads.md
-  - name: "6.6 World of Physics"
+  - name: "6.6 RFC Editor"
+    href: reference-works/rfc-editor.md
+  - name: "6.7 World of Physics"
     href: reference-works/world-of-physics.md
-  - name: "6.7 zbMATH Open"
+  - name: "6.8 zbMATH Open"
     href: reference-works/zbmath-open.md
 - name: "7. Certification Bodies"
   href: certification-bodies/index.md

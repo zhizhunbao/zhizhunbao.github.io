@@ -95,7 +95,7 @@ Content has official sources; section names are the common names of the field.
 
 - The sciences sit in one dropdown entry, Science, placed alphabetically like a section and grouped by the six broad fields of the OECD Frascati Manual 2015 (Table 2.2, Fields of R&D classification), in OECD's order and written in title case like every menu name:
   - Natural Sciences (Mathematical Sciences, Computer Science, Physical Sciences, Chemical Sciences, Earth and Related Environmental Sciences, Biological Sciences)
-  - Engineering and Technology (Engineering and Technology: entries OECD Fields, OECD's own 11 fields 2.1 to 2.11, and OpenAlex; IEEE's Thesaurus needs a request form and is CC BY-NC-ND, so it is not published)
+  - Engineering and Technology (Engineering and Technology: one entry, IEEE Thesaurus; OECD's 11 fields and OpenAlex were dropped on 2026-10-28 as too coarse for the field)
   - Medical and Health Sciences (Medical and Health Sciences)
   - Agricultural and Veterinary Sciences (Agricultural and Veterinary Sciences)
   - Social Sciences (Psychology and Cognitive Sciences, Economics and Business, Social Sciences)
@@ -106,8 +106,13 @@ Content has official sources; section names are the common names of the field.
   - AGU Index Terms (50 categories in title case, without 9800 General or Miscellaneous and 9900 Corrections; their index terms later go on the category pages)
   - MeSH 2026 (NLM; 15 categories without V Publication Characteristics, then first-level headings)
   - JEL (American Economic Association; 19 letter classes without Y Miscellaneous Categories, then two-character classes)
-- Where a field has no classification of its own, OpenAlex fills it (CC0; its fields and subfields come from Scopus ASJC, its LLM-named topics are not used), one entry named OpenAlex with its fields (third level) and subfields (fourth level): Biological Sciences (1.6), Agricultural and Veterinary Sciences (4), Psychology and Cognitive Sciences (5.1), Social Sciences (5.3 to 5.9), Humanities and the Arts (6), and beside the existing entries in Engineering and Technology (whose 11 OECD fields now sit under an entry OECD Fields) and Economics and Business (beside JEL).
-- Medicine keeps MeSH alone.
+  - IEEE Thesaurus (July 2026; its 38 top terms, then their narrower terms; obtained through IEEE's access form, filled in by me). It is CC BY-NC-ND 4.0, so it is shared unaltered: terms exactly as IEEE writes them (no title case), in IEEE's own alphabetical order, no numbering, and its index page carries IEEE's attribution line and the license link. Chinese names next to its terms are this site's own translations and the index page says so; deeper levels are added when a direction is studied.
+  - AGROVOC (FAO, CC BY 4.0, with official Chinese labels) for Agricultural and Veterinary Sciences: its 25 top concepts, then their narrower concepts, in this site's title case.
+  - ELSST (CESSDA, version 7, CC BY-SA 4.0) for Social Sciences: its 259 top concepts (it has no groups), then their narrower concepts; labels are in capitals at the source and in title case here, and the entry is shared under the same license.
+  - UNESCO Thesaurus (CC BY-SA 3.0 IGO) for Humanities and the Arts: domain 3, Culture, its 13 subject thesauri with UNESCO's notation (3.05 to 3.65), then their top concepts; shared under the same license.
+  - MeSH branches where no open whole-field classification exists: category F, Psychiatry and Psychology, for Psychology and Cognitive Sciences, and categories B, Organisms, and G, Phenomena and Processes, for Biological Sciences (2026-10-28; the APA Thesaurus is open only inside paid databases, and NAL's thesaurus site no longer resolves).
+- OpenAlex (CC0; fields and subfields from Scopus ASJC, its LLM-named topics not used) remains only in Economics and Business, beside JEL. It filled the fields without a classification until 2026-10-28, when each got a professional vocabulary instead (IEEE Thesaurus, AGROVOC, ELSST, UNESCO Thesaurus, MeSH).
+- Medicine keeps MeSH alone; the MeSH entries of Psychology and Biology copy its F, B and G branches.
 
 ### Second level
 
@@ -115,7 +120,7 @@ Content has official sources; section names are the common names of the field.
 - An entry must pass three tests: (1) it has one official documentation set; (2) that set has its own classification, which the third level follows; (3) it carries the name people use for it. So it is a product or platform (PostgreSQL, Python) or a standard or framework (WCAG 2.2, NIST Cybersecurity Framework), never an organization (OWASP, ISTQB).
 - For a technology the entry is named by the technology itself (Docker, Kubernetes, GraphQL, Claude, Linux, HTML, Arm, x86), not by its documentation set ("Docker Docs", "Claude Platform", "The Linux Kernel documentation", "HTML Standard") or a suffix ("Fluent 2 Design System"); the index page names the documentation set, word for word, as the official source.
 - Standards and frameworks keep their full names, and Microsoft entries keep the Microsoft name (Microsoft Azure, Microsoft Foundry).
-- Protocols defined in RFCs stay under RFC Series in Networking, one third-level page per RFC (RFC 9110 HTTP Semantics), with all its sections.
+- Protocols defined in RFCs stay under RFC Series in Networking, grouped by the seven IETF areas (third level, in the order of ietf.org/topics/areas), each RFC under the area of the working group that produced it as the IETF Datatracker records it (fourth level: RFC 6455 under Applications and Real-Time, RFC 9110 under Web and Internet Transport), with all its sections (fifth level).
 - Courses are not second-level entries either. A course decides which topics of a source get pages (only the ones I study, in the source's own order and titles), never their names, order or content. The course pages under Cloud (CST8912, CST8913, CST8914) were removed on 2026-10-24; only the two Git pages moved, to Programming.
 - Alphabetical order, Overview first.
 - Sources are current and cited in APA; not roadmap.sh or similar community sites, which cannot be cited.

@@ -1,0 +1,14 @@
+items:
+- name: Overview
+  href: index.md
+- name: "F Psychiatry and Psychology"
+  href: f-psychiatry-and-psychology/index.md
+  items:
+  - name: "F01 Behavior and Behavior Mechanisms"
+    href: f-psychiatry-and-psychology/f01-behavior-and-behavior-mechanisms.md
+  - name: "F02 Psychological Phenomena"
+    href: f-psychiatry-and-psychology/f02-psychological-phenomena.md
+  - name: "F03 Mental Disorders"
+    href: f-psychiatry-and-psychology/f03-mental-disorders.md
+  - name: "F04 Behavioral Disciplines and Activities"
+    href: f-psychiatry-and-psychology/f04-behavioral-disciplines-and-activities.md
