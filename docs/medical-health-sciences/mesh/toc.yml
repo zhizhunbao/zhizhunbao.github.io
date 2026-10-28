@@ -1,0 +1,270 @@
+items:
+- name: Overview
+  href: index.md
+- name: "A Anatomy"
+  href: a-anatomy/index.md
+  items:
+  - name: "A01 Body Regions"
+    href: a-anatomy/a01-body-regions.md
+  - name: "A02 Musculoskeletal System"
+    href: a-anatomy/a02-musculoskeletal-system.md
+  - name: "A03 Digestive System"
+    href: a-anatomy/a03-digestive-system.md
+  - name: "A04 Respiratory System"
+    href: a-anatomy/a04-respiratory-system.md
+  - name: "A05 Urogenital System"
+    href: a-anatomy/a05-urogenital-system.md
+  - name: "A06 Endocrine System"
+    href: a-anatomy/a06-endocrine-system.md
+  - name: "A07 Cardiovascular System"
+    href: a-anatomy/a07-cardiovascular-system.md
+  - name: "A08 Nervous System"
+    href: a-anatomy/a08-nervous-system.md
+  - name: "A09 Sense Organs"
+    href: a-anatomy/a09-sense-organs.md
+  - name: "A10 Tissues"
+    href: a-anatomy/a10-tissues.md
+  - name: "A11 Cells"
+    href: a-anatomy/a11-cells.md
+  - name: "A12 Fluids and Secretions"
+    href: a-anatomy/a12-fluids-and-secretions.md
+  - name: "A13 Animal Structures"
+    href: a-anatomy/a13-animal-structures.md
+  - name: "A14 Stomatognathic System"
+    href: a-anatomy/a14-stomatognathic-system.md
+  - name: "A15 Hemic and Immune Systems"
+    href: a-anatomy/a15-hemic-and-immune-systems.md
+  - name: "A16 Embryonic Structures"
+    href: a-anatomy/a16-embryonic-structures.md
+  - name: "A17 Integumentary System"
+    href: a-anatomy/a17-integumentary-system.md
+  - name: "A18 Plant Structures"
+    href: a-anatomy/a18-plant-structures.md
+  - name: "A19 Fungal Structures"
+    href: a-anatomy/a19-fungal-structures.md
+  - name: "A20 Bacterial Structures"
+    href: a-anatomy/a20-bacterial-structures.md
+  - name: "A21 Viral Structures"
+    href: a-anatomy/a21-viral-structures.md
+- name: "B Organisms"
+  href: b-organisms/index.md
+  items:
+  - name: "B01 Eukaryota"
+    href: b-organisms/b01-eukaryota.md
+  - name: "B02 Archaea"
+    href: b-organisms/b02-archaea.md
+  - name: "B03 Bacteria"
+    href: b-organisms/b03-bacteria.md
+  - name: "B04 Viruses"
+    href: b-organisms/b04-viruses.md
+  - name: "B05 Organism Forms"
+    href: b-organisms/b05-organism-forms.md
+- name: "C Diseases"
+  href: c-diseases/index.md
+  items:
+  - name: "C01 Infections"
+    href: c-diseases/c01-infections.md
+  - name: "C04 Neoplasms"
+    href: c-diseases/c04-neoplasms.md
+  - name: "C05 Musculoskeletal Diseases"
+    href: c-diseases/c05-musculoskeletal-diseases.md
+  - name: "C06 Digestive System Diseases"
+    href: c-diseases/c06-digestive-system-diseases.md
+  - name: "C07 Stomatognathic Diseases"
+    href: c-diseases/c07-stomatognathic-diseases.md
+  - name: "C08 Respiratory Tract Diseases"
+    href: c-diseases/c08-respiratory-tract-diseases.md
+  - name: "C09 Otorhinolaryngologic Diseases"
+    href: c-diseases/c09-otorhinolaryngologic-diseases.md
+  - name: "C10 Nervous System Diseases"
+    href: c-diseases/c10-nervous-system-diseases.md
+  - name: "C11 Eye Diseases"
+    href: c-diseases/c11-eye-diseases.md
+  - name: "C12 Urogenital Diseases"
+    href: c-diseases/c12-urogenital-diseases.md
+  - name: "C14 Cardiovascular Diseases"
+    href: c-diseases/c14-cardiovascular-diseases.md
+  - name: "C15 Hemic and Lymphatic Diseases"
+    href: c-diseases/c15-hemic-and-lymphatic-diseases.md
+  - name: "C16 Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+    href: c-diseases/c16-congenital-hereditary-and-neonatal-diseases-and-abnormal.md
+  - name: "C17 Skin and Connective Tissue Diseases"
+    href: c-diseases/c17-skin-and-connective-tissue-diseases.md
+  - name: "C18 Nutritional and Metabolic Diseases"
+    href: c-diseases/c18-nutritional-and-metabolic-diseases.md
+  - name: "C19 Endocrine System Diseases"
+    href: c-diseases/c19-endocrine-system-diseases.md
+  - name: "C20 Immune System Diseases"
+    href: c-diseases/c20-immune-system-diseases.md
+  - name: "C21 Disorders of Environmental Origin"
+    href: c-diseases/c21-disorders-of-environmental-origin.md
+  - name: "C22 Animal Diseases"
+    href: c-diseases/c22-animal-diseases.md
+  - name: "C23 Pathological Conditions, Signs and Symptoms"
+    href: c-diseases/c23-pathological-conditions-signs-and-symptoms.md
+  - name: "C24 Occupational Diseases"
+    href: c-diseases/c24-occupational-diseases.md
+  - name: "C25 Chemically-Induced Disorders"
+    href: c-diseases/c25-chemically-induced-disorders.md
+  - name: "C26 Wounds and Injuries"
+    href: c-diseases/c26-wounds-and-injuries.md
+- name: "D Chemicals and Drugs"
+  href: d-chemicals-and-drugs/index.md
+  items:
+  - name: "D01 Inorganic Chemicals"
+    href: d-chemicals-and-drugs/d01-inorganic-chemicals.md
+  - name: "D02 Organic Chemicals"
+    href: d-chemicals-and-drugs/d02-organic-chemicals.md
+  - name: "D03 Heterocyclic Compounds"
+    href: d-chemicals-and-drugs/d03-heterocyclic-compounds.md
+  - name: "D04 Polycyclic Compounds"
+    href: d-chemicals-and-drugs/d04-polycyclic-compounds.md
+  - name: "D05 Macromolecular Substances"
+    href: d-chemicals-and-drugs/d05-macromolecular-substances.md
+  - name: "D06 Hormones, Hormone Substitutes, and Hormone Antagonists"
+    href: d-chemicals-and-drugs/d06-hormones-hormone-substitutes-and-hormone-antagonists.md
+  - name: "D08 Enzymes and Coenzymes"
+    href: d-chemicals-and-drugs/d08-enzymes-and-coenzymes.md
+  - name: "D09 Carbohydrates"
+    href: d-chemicals-and-drugs/d09-carbohydrates.md
+  - name: "D10 Lipids"
+    href: d-chemicals-and-drugs/d10-lipids.md
+  - name: "D12 Amino Acids, Peptides, and Proteins"
+    href: d-chemicals-and-drugs/d12-amino-acids-peptides-and-proteins.md
+  - name: "D13 Nucleic Acids, Nucleotides, and Nucleosides"
+    href: d-chemicals-and-drugs/d13-nucleic-acids-nucleotides-and-nucleosides.md
+  - name: "D20 Complex Mixtures"
+    href: d-chemicals-and-drugs/d20-complex-mixtures.md
+  - name: "D23 Biological Factors"
+    href: d-chemicals-and-drugs/d23-biological-factors.md
+  - name: "D25 Biomedical and Dental Materials"
+    href: d-chemicals-and-drugs/d25-biomedical-and-dental-materials.md
+  - name: "D26 Pharmaceutical Preparations"
+    href: d-chemicals-and-drugs/d26-pharmaceutical-preparations.md
+  - name: "D27 Chemical Actions and Uses"
+    href: d-chemicals-and-drugs/d27-chemical-actions-and-uses.md
+- name: "E Analytical, Diagnostic and Therapeutic Techniques, and Equipment"
+  href: e-analytical-diagnostic-and-therapeutic-techniques-and-equip/index.md
+  items:
+  - name: "E01 Diagnosis"
+    href: e-analytical-diagnostic-and-therapeutic-techniques-and-equip/e01-diagnosis.md
+  - name: "E02 Therapeutics"
+    href: e-analytical-diagnostic-and-therapeutic-techniques-and-equip/e02-therapeutics.md
+  - name: "E03 Anesthesia and Analgesia"
+    href: e-analytical-diagnostic-and-therapeutic-techniques-and-equip/e03-anesthesia-and-analgesia.md
+  - name: "E04 Surgical Procedures, Operative"
+    href: e-analytical-diagnostic-and-therapeutic-techniques-and-equip/e04-surgical-procedures-operative.md
+  - name: "E05 Investigative Techniques"
+    href: e-analytical-diagnostic-and-therapeutic-techniques-and-equip/e05-investigative-techniques.md
+  - name: "E06 Dentistry"
+    href: e-analytical-diagnostic-and-therapeutic-techniques-and-equip/e06-dentistry.md
+  - name: "E07 Equipment and Supplies"
+    href: e-analytical-diagnostic-and-therapeutic-techniques-and-equip/e07-equipment-and-supplies.md
+- name: "F Psychiatry and Psychology"
+  href: f-psychiatry-and-psychology/index.md
+  items:
+  - name: "F01 Behavior and Behavior Mechanisms"
+    href: f-psychiatry-and-psychology/f01-behavior-and-behavior-mechanisms.md
+  - name: "F02 Psychological Phenomena"
+    href: f-psychiatry-and-psychology/f02-psychological-phenomena.md
+  - name: "F03 Mental Disorders"
+    href: f-psychiatry-and-psychology/f03-mental-disorders.md
+  - name: "F04 Behavioral Disciplines and Activities"
+    href: f-psychiatry-and-psychology/f04-behavioral-disciplines-and-activities.md
+- name: "G Phenomena and Processes"
+  href: g-phenomena-and-processes/index.md
+  items:
+  - name: "G01 Physical Phenomena"
+    href: g-phenomena-and-processes/g01-physical-phenomena.md
+  - name: "G02 Chemical Phenomena"
+    href: g-phenomena-and-processes/g02-chemical-phenomena.md
+  - name: "G03 Metabolism"
+    href: g-phenomena-and-processes/g03-metabolism.md
+  - name: "G04 Cell Physiological Phenomena"
+    href: g-phenomena-and-processes/g04-cell-physiological-phenomena.md
+  - name: "G05 Genetic Phenomena"
+    href: g-phenomena-and-processes/g05-genetic-phenomena.md
+  - name: "G06 Microbiological Phenomena"
+    href: g-phenomena-and-processes/g06-microbiological-phenomena.md
+  - name: "G07 Physiological Phenomena"
+    href: g-phenomena-and-processes/g07-physiological-phenomena.md
+  - name: "G08 Reproductive and Urinary Physiological Phenomena"
+    href: g-phenomena-and-processes/g08-reproductive-and-urinary-physiological-phenomena.md
+  - name: "G09 Circulatory and Respiratory Physiological Phenomena"
+    href: g-phenomena-and-processes/g09-circulatory-and-respiratory-physiological-phenomena.md
+  - name: "G10 Digestive System and Oral Physiological Phenomena"
+    href: g-phenomena-and-processes/g10-digestive-system-and-oral-physiological-phenomena.md
+  - name: "G11 Musculoskeletal and Neural Physiological Phenomena"
+    href: g-phenomena-and-processes/g11-musculoskeletal-and-neural-physiological-phenomena.md
+  - name: "G12 Immune System Phenomena"
+    href: g-phenomena-and-processes/g12-immune-system-phenomena.md
+  - name: "G13 Integumentary System Physiological Phenomena"
+    href: g-phenomena-and-processes/g13-integumentary-system-physiological-phenomena.md
+  - name: "G14 Ocular Physiological Phenomena"
+    href: g-phenomena-and-processes/g14-ocular-physiological-phenomena.md
+  - name: "G15 Plant Physiological Phenomena"
+    href: g-phenomena-and-processes/g15-plant-physiological-phenomena.md
+  - name: "G16 Biological Phenomena"
+    href: g-phenomena-and-processes/g16-biological-phenomena.md
+  - name: "G17 Mathematical Concepts"
+    href: g-phenomena-and-processes/g17-mathematical-concepts.md
+- name: "H Disciplines and Occupations"
+  href: h-disciplines-and-occupations/index.md
+  items:
+  - name: "H01 Natural Science Disciplines"
+    href: h-disciplines-and-occupations/h01-natural-science-disciplines.md
+  - name: "H02 Health Occupations"
+    href: h-disciplines-and-occupations/h02-health-occupations.md
+- name: "I Anthropology, Education, Sociology, and Social Phenomena"
+  href: i-anthropology-education-sociology-and-social-phenomena/index.md
+  items:
+  - name: "I01 Social Sciences"
+    href: i-anthropology-education-sociology-and-social-phenomena/i01-social-sciences.md
+  - name: "I02 Education"
+    href: i-anthropology-education-sociology-and-social-phenomena/i02-education.md
+  - name: "I03 Human Activities"
+    href: i-anthropology-education-sociology-and-social-phenomena/i03-human-activities.md
+- name: "J Technology, Industry, and Agriculture"
+  href: j-technology-industry-and-agriculture/index.md
+  items:
+  - name: "J01 Technology, Industry, and Agriculture"
+    href: j-technology-industry-and-agriculture/j01-technology-industry-and-agriculture.md
+  - name: "J02 Food and Beverages"
+    href: j-technology-industry-and-agriculture/j02-food-and-beverages.md
+  - name: "J03 Non-Medical Public and Private Facilities"
+    href: j-technology-industry-and-agriculture/j03-non-medical-public-and-private-facilities.md
+- name: "K Humanities"
+  href: k-humanities/index.md
+  items:
+  - name: "K01 Humanities"
+    href: k-humanities/k01-humanities.md
+- name: "L Information Science"
+  href: l-information-science/index.md
+  items:
+  - name: "L01 Information Science"
+    href: l-information-science/l01-information-science.md
+- name: "M Named Groups"
+  href: m-named-groups/index.md
+  items:
+  - name: "M01 Persons"
+    href: m-named-groups/m01-persons.md
+- name: "N Health Care"
+  href: n-health-care/index.md
+  items:
+  - name: "N01 Population Characteristics"
+    href: n-health-care/n01-population-characteristics.md
+  - name: "N02 Health Care Facilities Workforce and Services"
+    href: n-health-care/n02-health-care-facilities-workforce-and-services.md
+  - name: "N03 Health Care Economics and Organizations"
+    href: n-health-care/n03-health-care-economics-and-organizations.md
+  - name: "N04 Health Services Administration"
+    href: n-health-care/n04-health-services-administration.md
+  - name: "N05 Health Care Quality, Access, and Evaluation"
+    href: n-health-care/n05-health-care-quality-access-and-evaluation.md
+  - name: "N06 Environment and Public Health"
+    href: n-health-care/n06-environment-and-public-health.md
+- name: "Z Geographicals"
+  href: z-geographicals/index.md
+  items:
+  - name: "Z01 Geographic Locations"
+    href: z-geographicals/z01-geographic-locations.md

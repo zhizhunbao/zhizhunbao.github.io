@@ -161,6 +161,12 @@ body { line-height: 1.75; }
 .kb-more-menu { position: absolute; top: calc(100% + 4px); inset-inline-end: 0; z-index: 20; list-style: none; margin: 0; padding: 4px; min-width: 200px; background: var(--theme-body-background); border: 1px solid var(--theme-border); border-radius: 6px; box-shadow: 0 8px 16px rgba(0, 0, 0, .14); }
 .kb-more-menu .site-header-button { display: flex; width: 100%; justify-content: flex-start; text-align: start; }
 .kb-more-menu .site-header-button:hover { background: var(--theme-body-background-dark); }
+.kb-group-menu { inset-inline-start: 0; inset-inline-end: auto; }
+.kb-group-menu .site-header-button { white-space: nowrap; }
+.kb-sub { position: relative; }
+.kb-sub-button { justify-content: space-between !important; gap: 16px; }
+.kb-sub-button.is-active, .kb-group-menu .is-active { font-weight: 600; }
+.kb-submenu { top: -5px; inset-inline-start: calc(100% + 4px); inset-inline-end: auto; }
 /* Collapsed menu: the expand button sits in the middle of the narrow rail */
 .layout-menu-collapsed #affixed-left-container { padding-inline: 0 !important; }
 .layout-menu-collapsed #kb-toc-header { justify-content: center; padding-inline: 0; }

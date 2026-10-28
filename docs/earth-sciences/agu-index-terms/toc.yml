@@ -1,0 +1,103 @@
+items:
+- name: Overview
+  href: index.md
+- name: "0200 Geohealth"
+  href: 0200-geohealth/index.md
+- name: "0300 Atmospheric Composition and Structure"
+  href: 0300-atmospheric-composition-and-structure/index.md
+- name: "0400 Biogeosciences"
+  href: 0400-biogeosciences/index.md
+- name: "0500 Computational Geophysics"
+  href: 0500-computational-geophysics/index.md
+- name: "1400 Critical Zone"
+  href: 1400-critical-zone/index.md
+- name: "0700 Cryosphere"
+  href: 0700-cryosphere/index.md
+- name: "0800 Education"
+  href: 0800-education/index.md
+- name: "0600 Electromagnetics"
+  href: 0600-electromagnetics/index.md
+- name: "0900 Exploration Geophysics"
+  href: 0900-exploration-geophysics/index.md
+- name: "1000 Geochemistry"
+  href: 1000-geochemistry/index.md
+- name: "1100 Geochronology"
+  href: 1100-geochronology/index.md
+- name: "1200 Geodesy and Gravity"
+  href: 1200-geodesy-and-gravity/index.md
+- name: "1500 Geomagnetism and Paleomagnetism"
+  href: 1500-geomagnetism-and-paleomagnetism/index.md
+- name: "1600 Global Change"
+  href: 1600-global-change/index.md
+- name: "1700 History of Geophysics"
+  href: 1700-history-of-geophysics/index.md
+- name: "1800 Hydrology"
+  href: 1800-hydrology/index.md
+- name: "1900 Informatics"
+  href: 1900-informatics/index.md
+- name: "2100 Interplanetary Physics"
+  href: 2100-interplanetary-physics/index.md
+- name: "2400 Ionosphere"
+  href: 2400-ionosphere/index.md
+- name: "2700 Magnetospheric Physics"
+  href: 2700-magnetospheric-physics/index.md
+- name: "3000 Marine Geology and Geophysics"
+  href: 3000-marine-geology-and-geophysics/index.md
+- name: "3200 Mathematical Geophysics"
+  href: 3200-mathematical-geophysics/index.md
+- name: "3300 Atmospheric Processes"
+  href: 3300-atmospheric-processes/index.md
+- name: "3600 Mineralogy and Petrology"
+  href: 3600-mineralogy-and-petrology/index.md
+- name: "3900 Mineral Physics"
+  href: 3900-mineral-physics/index.md
+- name: "4300 Natural Hazards"
+  href: 4300-natural-hazards/index.md
+- name: "4400 Nonlinear Geophysics"
+  href: 4400-nonlinear-geophysics/index.md
+- name: "4200 Oceanography: General"
+  href: 4200-oceanography-general/index.md
+- name: "4500 Oceanography: Physical"
+  href: 4500-oceanography-physical/index.md
+- name: "4522 ENSO"
+  href: 4522-enso/index.md
+- name: "4800 Oceanography: Biological and Chemical"
+  href: 4800-oceanography-biological-and-chemical/index.md
+- name: "4900 Paleoceanography"
+  href: 4900-paleoceanography/index.md
+- name: "5100 Physical Properties of Rocks"
+  href: 5100-physical-properties-of-rocks/index.md
+- name: "5200 Planetary Sciences: Astrobiology"
+  href: 5200-planetary-sciences-astrobiology/index.md
+- name: "5400 Planetary Sciences: Solid Surface Planets"
+  href: 5400-planetary-sciences-solid-surface-planets/index.md
+- name: "5700 Planetary Sciences: Fluid Planets"
+  href: 5700-planetary-sciences-fluid-planets/index.md
+- name: "6000 Planetary Sciences: Comets and Small Bodies"
+  href: 6000-planetary-sciences-comets-and-small-bodies/index.md
+- name: "6200 Planetary Sciences: Solar System Objects"
+  href: 6200-planetary-sciences-solar-system-objects/index.md
+- name: "6300 Policy Sciences"
+  href: 6300-policy-sciences/index.md
+- name: "6600 Public Issues"
+  href: 6600-public-issues/index.md
+- name: "6900 Radio Science"
+  href: 6900-radio-science/index.md
+- name: "7200 Seismology"
+  href: 7200-seismology/index.md
+- name: "7500 Solar Physics, Astrophysics, and Astronomy"
+  href: 7500-solar-physics-astrophysics-and-astronomy/index.md
+- name: "7800 Space Plasma Physics"
+  href: 7800-space-plasma-physics/index.md
+- name: "7900 Space Weather"
+  href: 7900-space-weather/index.md
+- name: "8000 Structural Geology"
+  href: 8000-structural-geology/index.md
+- name: "8100 Tectonophysics"
+  href: 8100-tectonophysics/index.md
+- name: "8400 Volcanology"
+  href: 8400-volcanology/index.md
+- name: "9300 Geographic Location"
+  href: 9300-geographic-location/index.md
+- name: "9600 Information Related to Geologic Time"
+  href: 9600-information-related-to-geologic-time/index.md

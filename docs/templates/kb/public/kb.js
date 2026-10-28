@@ -124,6 +124,12 @@ async function grammar(body) {
 function nav(rootItems, sectionItems, section) {
   const ul = document.getElementById('kb-nav')
   for (const it of rootItems) {
+    const kids = group(it)
+    if (kids) {
+      ul.append(dropdown(it, kids, section))
+      for (const k of kids) document.getElementById('kb-mobile-nav').append(el('li', {}, el('a', { class: `tree-item tree-leaf${k === section ? ' is-selected' : ''}`, href: firstUrl(k).href, text: k.name })))
+      continue
+    }
     const url = firstUrl(it)
     if (!url) continue
     const active = it === section
@@ -144,6 +150,39 @@ function nav(rootItems, sectionItems, section) {
   }
   more(ul)
   if (section) more(secUl)
+}
+
+// A top-bar entry with no page of its own whose items are sections (Science: Computer Science, Mathematical Sciences)
+// is a group: a button that opens its sections; the button and the current section in the menu are marked when it holds the current section.
+// Its items may also be subgroups (Natural Sciences, Social Sciences) that hold sections: as on Learn, each is a menu row
+// with a chevron that opens its sections in a submenu beside it, and it is marked when it holds the current section.
+const group = (it) => {
+  const kids = it.href ? [] : flat(it.items).filter((k) => k.tocUrl && firstUrl(k))
+  return kids.length ? kids : null
+}
+function dropdown(it, kids, section) {
+  const link = (k) => el('li', {}, el('a', { class: `site-header-button${k === section ? ' is-active' : ''}`, href: firstUrl(k).href, 'aria-current': k === section ? 'true' : null, text: k.name }))
+  const subs = []
+  const sub = (k) => {
+    const list = el('ul', { class: 'kb-more-menu kb-submenu', hidden: '' }, ...(k.items || []).filter((s) => kids.includes(s)).map(link))
+    const holds = (k.items || []).includes(section)
+    const b = el('button', { class: `site-header-button kb-sub-button${holds ? ' is-active' : ''}`, type: 'button', 'aria-expanded': 'false' },
+      el('span', { text: k.name }), el('span', { class: 'icon' }, svg('M5.65 12.65l-.7-.7L8.88 8 4.95 4.05l.7-.7L10.3 8z', 12)))
+    const open = (show) => { subs.forEach((s) => { s.list.hidden = true; s.b.setAttribute('aria-expanded', 'false') }); list.hidden = !show; b.setAttribute('aria-expanded', String(show)) }
+    b.addEventListener('click', (e) => { e.stopPropagation(); open(list.hidden) })
+    b.addEventListener('mouseenter', () => open(true))
+    subs.push({ list, b })
+    return el('li', { class: 'kb-sub' }, b, list)
+  }
+  const rows = (it.items || []).map((k) => (k.tocUrl ? link(k) : sub(k)))
+  const menu = el('ul', { class: 'kb-more-menu kb-group-menu', hidden: '' }, ...rows)
+  const btn = el('button', { class: `site-header-button kb-more-button${kids.includes(section) ? ' is-active' : ''}`, type: 'button', 'aria-expanded': 'false' },
+    el('span', { text: it.name }), el('span', { class: 'icon' }, svg('M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z', 12)))
+  const close = () => { menu.hidden = true; btn.setAttribute('aria-expanded', 'false'); subs.forEach((s) => { s.list.hidden = true; s.b.setAttribute('aria-expanded', 'false') }) }
+  btn.addEventListener('click', (e) => { e.stopPropagation(); const show = menu.hidden; close(); menu.hidden = !show; btn.setAttribute('aria-expanded', String(show)) })
+  document.addEventListener('click', close)
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close() })
+  return el('li', { class: 'position-relative' }, btn, menu)
 }
 
 // Header bars: the items that do not fit on one line go, in order, into a "More" menu at the end (like Learn's header).
@@ -549,7 +588,8 @@ async function main() {
   const root = navUrl ? resolve((await load(navUrl))?.items, navUrl) : []
   const sameToc = navUrl && tocUrl && navUrl.href === tocUrl.href
   const sectionItems = tocUrl && !sameToc ? resolve((await load(tocUrl))?.items, tocUrl) : []
-  const section = root.find((it) => it.tocUrl && tocUrl && it.tocUrl.href === tocUrl.href) || root.find((it) => same(it.url, page)) || null
+  // sections may sit inside a top-bar group (Science), so search the whole top-bar tree
+  const section = flat(root).find((it) => it.tocUrl && tocUrl && it.tocUrl.href === tocUrl.href) || root.find((it) => same(it.url, page)) || null
   const tocItems = sectionItems.length ? sectionItems : root
   const current = flat(tocItems).find((it) => same(it.url, page)) || null
   nav(root, sectionItems, section)

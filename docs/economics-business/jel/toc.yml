@@ -1,0 +1,320 @@
+items:
+- name: Overview
+  href: index.md
+- name: "A General Economics and Teaching"
+  href: a-general-economics-and-teaching/index.md
+  items:
+  - name: "A1 General Economics"
+    href: a-general-economics-and-teaching/a1-general-economics.md
+  - name: "A2 Economic Education and Teaching of Economics"
+    href: a-general-economics-and-teaching/a2-economic-education-and-teaching-of-economics.md
+  - name: "A3 Collective Works"
+    href: a-general-economics-and-teaching/a3-collective-works.md
+- name: "B History of Economic Thought, Methodology, and Heterodox Approaches"
+  href: b-history-of-economic-thought-methodology-and-heterodox-appr/index.md
+  items:
+  - name: "B0 General"
+    href: b-history-of-economic-thought-methodology-and-heterodox-appr/b0-general.md
+  - name: "B1 History of Economic Thought through 1925"
+    href: b-history-of-economic-thought-methodology-and-heterodox-appr/b1-history-of-economic-thought-through-1925.md
+  - name: "B2 History of Economic Thought since 1925"
+    href: b-history-of-economic-thought-methodology-and-heterodox-appr/b2-history-of-economic-thought-since-1925.md
+  - name: "B3 History of Economic Thought: Individuals"
+    href: b-history-of-economic-thought-methodology-and-heterodox-appr/b3-history-of-economic-thought-individuals.md
+  - name: "B4 Economic Methodology"
+    href: b-history-of-economic-thought-methodology-and-heterodox-appr/b4-economic-methodology.md
+  - name: "B5 Current Heterodox Approaches"
+    href: b-history-of-economic-thought-methodology-and-heterodox-appr/b5-current-heterodox-approaches.md
+- name: "C Mathematical and Quantitative Methods"
+  href: c-mathematical-and-quantitative-methods/index.md
+  items:
+  - name: "C0 General"
+    href: c-mathematical-and-quantitative-methods/c0-general.md
+  - name: "C1 Econometric and Statistical Methods and Methodology: General"
+    href: c-mathematical-and-quantitative-methods/c1-econometric-and-statistical-methods-and-methodology-gener.md
+  - name: "C2 Single Equation Models • Single Variables"
+    href: c-mathematical-and-quantitative-methods/c2-single-equation-models-single-variables.md
+  - name: "C3 Multiple or Simultaneous Equation Models • Multiple Variables"
+    href: c-mathematical-and-quantitative-methods/c3-multiple-or-simultaneous-equation-models-multiple-variabl.md
+  - name: "C4 Econometric and Statistical Methods: Special Topics"
+    href: c-mathematical-and-quantitative-methods/c4-econometric-and-statistical-methods-special-topics.md
+  - name: "C5 Econometric Modeling"
+    href: c-mathematical-and-quantitative-methods/c5-econometric-modeling.md
+  - name: "C6 Mathematical Methods • Programming Models • Mathematical and Simulation Modeling"
+    href: c-mathematical-and-quantitative-methods/c6-mathematical-methods-programming-models-mathematical-and.md
+  - name: "C7 Game Theory and Bargaining Theory"
+    href: c-mathematical-and-quantitative-methods/c7-game-theory-and-bargaining-theory.md
+  - name: "C8 Data Collection and Data Estimation Methodology • Computer Programs"
+    href: c-mathematical-and-quantitative-methods/c8-data-collection-and-data-estimation-methodology-computer.md
+  - name: "C9 Design of Experiments"
+    href: c-mathematical-and-quantitative-methods/c9-design-of-experiments.md
+- name: "D Microeconomics"
+  href: d-microeconomics/index.md
+  items:
+  - name: "D0 General"
+    href: d-microeconomics/d0-general.md
+  - name: "D1 Household Behavior and Family Economics"
+    href: d-microeconomics/d1-household-behavior-and-family-economics.md
+  - name: "D2 Production and Organizations"
+    href: d-microeconomics/d2-production-and-organizations.md
+  - name: "D3 Distribution"
+    href: d-microeconomics/d3-distribution.md
+  - name: "D4 Market Structure, Pricing, and Design"
+    href: d-microeconomics/d4-market-structure-pricing-and-design.md
+  - name: "D5 General Equilibrium and Disequilibrium"
+    href: d-microeconomics/d5-general-equilibrium-and-disequilibrium.md
+  - name: "D6 Welfare Economics"
+    href: d-microeconomics/d6-welfare-economics.md
+  - name: "D7 Analysis of Collective Decision-Making"
+    href: d-microeconomics/d7-analysis-of-collective-decision-making.md
+  - name: "D8 Information, Knowledge, and Uncertainty"
+    href: d-microeconomics/d8-information-knowledge-and-uncertainty.md
+  - name: "D9 Micro-Based Behavioral Economics"
+    href: d-microeconomics/d9-micro-based-behavioral-economics.md
+- name: "E Macroeconomics and Monetary Economics"
+  href: e-macroeconomics-and-monetary-economics/index.md
+  items:
+  - name: "E0 General"
+    href: e-macroeconomics-and-monetary-economics/e0-general.md
+  - name: "E1 General Aggregative Models"
+    href: e-macroeconomics-and-monetary-economics/e1-general-aggregative-models.md
+  - name: "E2 Consumption, Saving, Production, Investment, Labor Markets, and Informal Economy"
+    href: e-macroeconomics-and-monetary-economics/e2-consumption-saving-production-investment-labor-markets-an.md
+  - name: "E3 Prices, Business Fluctuations, and Cycles"
+    href: e-macroeconomics-and-monetary-economics/e3-prices-business-fluctuations-and-cycles.md
+  - name: "E4 Money and Interest Rates"
+    href: e-macroeconomics-and-monetary-economics/e4-money-and-interest-rates.md
+  - name: "E5 Monetary Policy, Central Banking, and the Supply of Money and Credit"
+    href: e-macroeconomics-and-monetary-economics/e5-monetary-policy-central-banking-and-the-supply-of-money-a.md
+  - name: "E6 Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook"
+    href: e-macroeconomics-and-monetary-economics/e6-macroeconomic-policy-macroeconomic-aspects-of-public-fina.md
+  - name: "E7 Macro-Based Behavioral Economics"
+    href: e-macroeconomics-and-monetary-economics/e7-macro-based-behavioral-economics.md
+- name: "F International Economics"
+  href: f-international-economics/index.md
+  items:
+  - name: "F0 General"
+    href: f-international-economics/f0-general.md
+  - name: "F1 Trade"
+    href: f-international-economics/f1-trade.md
+  - name: "F2 International Factor Movements and International Business"
+    href: f-international-economics/f2-international-factor-movements-and-international-business.md
+  - name: "F3 International Finance"
+    href: f-international-economics/f3-international-finance.md
+  - name: "F4 Macroeconomic Aspects of International Trade and Finance"
+    href: f-international-economics/f4-macroeconomic-aspects-of-international-trade-and-finance.md
+  - name: "F5 International Relations, National Security, and International Political Economy"
+    href: f-international-economics/f5-international-relations-national-security-and-internation.md
+  - name: "F6 Economic Impacts of Globalization"
+    href: f-international-economics/f6-economic-impacts-of-globalization.md
+- name: "G Financial Economics"
+  href: g-financial-economics/index.md
+  items:
+  - name: "G0 General"
+    href: g-financial-economics/g0-general.md
+  - name: "G1 General Financial Markets"
+    href: g-financial-economics/g1-general-financial-markets.md
+  - name: "G2 Financial Institutions and Services"
+    href: g-financial-economics/g2-financial-institutions-and-services.md
+  - name: "G3 Corporate Finance and Governance"
+    href: g-financial-economics/g3-corporate-finance-and-governance.md
+  - name: "G4 Behavioral Finance"
+    href: g-financial-economics/g4-behavioral-finance.md
+  - name: "G5 Household Finance"
+    href: g-financial-economics/g5-household-finance.md
+- name: "H Public Economics"
+  href: h-public-economics/index.md
+  items:
+  - name: "H0 General"
+    href: h-public-economics/h0-general.md
+  - name: "H1 Structure and Scope of Government"
+    href: h-public-economics/h1-structure-and-scope-of-government.md
+  - name: "H2 Taxation, Subsidies, and Revenue"
+    href: h-public-economics/h2-taxation-subsidies-and-revenue.md
+  - name: "H3 Fiscal Policies and Behavior of Economic Agents"
+    href: h-public-economics/h3-fiscal-policies-and-behavior-of-economic-agents.md
+  - name: "H4 Publicly Provided Goods"
+    href: h-public-economics/h4-publicly-provided-goods.md
+  - name: "H5 National Government Expenditures and Related Policies"
+    href: h-public-economics/h5-national-government-expenditures-and-related-policies.md
+  - name: "H6 National Budget, Deficit, and Debt"
+    href: h-public-economics/h6-national-budget-deficit-and-debt.md
+  - name: "H7 State and Local Government • Intergovernmental Relations"
+    href: h-public-economics/h7-state-and-local-government-intergovernmental-relations.md
+  - name: "H8 Miscellaneous Issues"
+    href: h-public-economics/h8-miscellaneous-issues.md
+- name: "I Health, Education, and Welfare"
+  href: i-health-education-and-welfare/index.md
+  items:
+  - name: "I0 General"
+    href: i-health-education-and-welfare/i0-general.md
+  - name: "I1 Health"
+    href: i-health-education-and-welfare/i1-health.md
+  - name: "I2 Education and Research Institutions"
+    href: i-health-education-and-welfare/i2-education-and-research-institutions.md
+  - name: "I3 Welfare, Well-Being, and Poverty"
+    href: i-health-education-and-welfare/i3-welfare-well-being-and-poverty.md
+- name: "J Labor and Demographic Economics"
+  href: j-labor-and-demographic-economics/index.md
+  items:
+  - name: "J0 General"
+    href: j-labor-and-demographic-economics/j0-general.md
+  - name: "J1 Demographic Economics"
+    href: j-labor-and-demographic-economics/j1-demographic-economics.md
+  - name: "J2 Demand and Supply of Labor"
+    href: j-labor-and-demographic-economics/j2-demand-and-supply-of-labor.md
+  - name: "J3 Wages, Compensation, and Labor Costs"
+    href: j-labor-and-demographic-economics/j3-wages-compensation-and-labor-costs.md
+  - name: "J4 Particular Labor Markets"
+    href: j-labor-and-demographic-economics/j4-particular-labor-markets.md
+  - name: "J5 Labor–Management Relations, Trade Unions, and Collective Bargaining"
+    href: j-labor-and-demographic-economics/j5-labor-management-relations-trade-unions-and-collective-ba.md
+  - name: "J6 Mobility, Unemployment, Vacancies, and Immigrant Workers"
+    href: j-labor-and-demographic-economics/j6-mobility-unemployment-vacancies-and-immigrant-workers.md
+  - name: "J7 Labor Discrimination"
+    href: j-labor-and-demographic-economics/j7-labor-discrimination.md
+  - name: "J8 Labor Standards: National and International"
+    href: j-labor-and-demographic-economics/j8-labor-standards-national-and-international.md
+- name: "K Law and Economics"
+  href: k-law-and-economics/index.md
+  items:
+  - name: "K0 General"
+    href: k-law-and-economics/k0-general.md
+  - name: "K1 Basic Areas of Law"
+    href: k-law-and-economics/k1-basic-areas-of-law.md
+  - name: "K2 Regulation and Business Law"
+    href: k-law-and-economics/k2-regulation-and-business-law.md
+  - name: "K3 Other Substantive Areas of Law"
+    href: k-law-and-economics/k3-other-substantive-areas-of-law.md
+  - name: "K4 Legal Procedure, the Legal System, and Illegal Behavior"
+    href: k-law-and-economics/k4-legal-procedure-the-legal-system-and-illegal-behavior.md
+- name: "L Industrial Organization"
+  href: l-industrial-organization/index.md
+  items:
+  - name: "L0 General"
+    href: l-industrial-organization/l0-general.md
+  - name: "L1 Market Structure, Firm Strategy, and Market Performance"
+    href: l-industrial-organization/l1-market-structure-firm-strategy-and-market-performance.md
+  - name: "L2 Firm Objectives, Organization, and Behavior"
+    href: l-industrial-organization/l2-firm-objectives-organization-and-behavior.md
+  - name: "L3 Nonprofit Organizations and Public Enterprise"
+    href: l-industrial-organization/l3-nonprofit-organizations-and-public-enterprise.md
+  - name: "L4 Antitrust Issues and Policies"
+    href: l-industrial-organization/l4-antitrust-issues-and-policies.md
+  - name: "L5 Regulation and Industrial Policy"
+    href: l-industrial-organization/l5-regulation-and-industrial-policy.md
+  - name: "L6 Industry Studies: Manufacturing"
+    href: l-industrial-organization/l6-industry-studies-manufacturing.md
+  - name: "L7 Industry Studies: Primary Products and Construction"
+    href: l-industrial-organization/l7-industry-studies-primary-products-and-construction.md
+  - name: "L8 Industry Studies: Services"
+    href: l-industrial-organization/l8-industry-studies-services.md
+  - name: "L9 Industry Studies: Transportation and Utilities"
+    href: l-industrial-organization/l9-industry-studies-transportation-and-utilities.md
+- name: "M Business Administration and Business Economics • Marketing • Accounting • Personnel Economics"
+  href: m-business-administration-and-business-economics-marketing-a/index.md
+  items:
+  - name: "M0 General"
+    href: m-business-administration-and-business-economics-marketing-a/m0-general.md
+  - name: "M1 Business Administration"
+    href: m-business-administration-and-business-economics-marketing-a/m1-business-administration.md
+  - name: "M2 Business Economics"
+    href: m-business-administration-and-business-economics-marketing-a/m2-business-economics.md
+  - name: "M3 Marketing and Advertising"
+    href: m-business-administration-and-business-economics-marketing-a/m3-marketing-and-advertising.md
+  - name: "M4 Accounting and Auditing"
+    href: m-business-administration-and-business-economics-marketing-a/m4-accounting-and-auditing.md
+  - name: "M5 Personnel Economics"
+    href: m-business-administration-and-business-economics-marketing-a/m5-personnel-economics.md
+- name: "N Economic History"
+  href: n-economic-history/index.md
+  items:
+  - name: "N0 General"
+    href: n-economic-history/n0-general.md
+  - name: "N1 Macroeconomics and Monetary Economics • Industrial Structure • Growth • Fluctuations"
+    href: n-economic-history/n1-macroeconomics-and-monetary-economics-industrial-structur.md
+  - name: "N2 Financial Markets and Institutions"
+    href: n-economic-history/n2-financial-markets-and-institutions.md
+  - name: "N3 Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy"
+    href: n-economic-history/n3-labor-and-consumers-demography-education-health-welfare-i.md
+  - name: "N4 Government, War, Law, International Relations, and Regulation"
+    href: n-economic-history/n4-government-war-law-international-relations-and-regulation.md
+  - name: "N5 Agriculture, Natural Resources, Environment, and Extractive Industries"
+    href: n-economic-history/n5-agriculture-natural-resources-environment-and-extractive.md
+  - name: "N6 Manufacturing and Construction"
+    href: n-economic-history/n6-manufacturing-and-construction.md
+  - name: "N7 Transport, Trade, Energy, Technology, and Other Services"
+    href: n-economic-history/n7-transport-trade-energy-technology-and-other-services.md
+  - name: "N8 Micro-Business History"
+    href: n-economic-history/n8-micro-business-history.md
+  - name: "N9 Regional and Urban History"
+    href: n-economic-history/n9-regional-and-urban-history.md
+- name: "O Economic Development, Innovation, Technological Change, and Growth"
+  href: o-economic-development-innovation-technological-change-and-g/index.md
+  items:
+  - name: "O1 Economic Development"
+    href: o-economic-development-innovation-technological-change-and-g/o1-economic-development.md
+  - name: "O2 Development Planning and Policy"
+    href: o-economic-development-innovation-technological-change-and-g/o2-development-planning-and-policy.md
+  - name: "O3 Innovation • Research and Development • Technological Change • Intellectual Property Rights"
+    href: o-economic-development-innovation-technological-change-and-g/o3-innovation-research-and-development-technological-change.md
+  - name: "O4 Economic Growth and Aggregate Productivity"
+    href: o-economic-development-innovation-technological-change-and-g/o4-economic-growth-and-aggregate-productivity.md
+  - name: "O5 Economywide Country Studies"
+    href: o-economic-development-innovation-technological-change-and-g/o5-economywide-country-studies.md
+- name: "P Political Economy and Comparative Economic Systems"
+  href: p-political-economy-and-comparative-economic-systems/index.md
+  items:
+  - name: "P0 General"
+    href: p-political-economy-and-comparative-economic-systems/p0-general.md
+  - name: "P1 Capitalist Economies"
+    href: p-political-economy-and-comparative-economic-systems/p1-capitalist-economies.md
+  - name: "P2 Socialist and Transition Economies"
+    href: p-political-economy-and-comparative-economic-systems/p2-socialist-and-transition-economies.md
+  - name: "P3 Socialist Institutions and Their Transitions"
+    href: p-political-economy-and-comparative-economic-systems/p3-socialist-institutions-and-their-transitions.md
+  - name: "P4 Other Economic Systems"
+    href: p-political-economy-and-comparative-economic-systems/p4-other-economic-systems.md
+  - name: "P5 Comparative Economic Systems"
+    href: p-political-economy-and-comparative-economic-systems/p5-comparative-economic-systems.md
+- name: "Q Agricultural and Natural Resource Economics • Environmental and Ecological Economics"
+  href: q-agricultural-and-natural-resource-economics-environmental/index.md
+  items:
+  - name: "Q0 General"
+    href: q-agricultural-and-natural-resource-economics-environmental/q0-general.md
+  - name: "Q1 Agriculture"
+    href: q-agricultural-and-natural-resource-economics-environmental/q1-agriculture.md
+  - name: "Q2 Renewable Resources and Conservation"
+    href: q-agricultural-and-natural-resource-economics-environmental/q2-renewable-resources-and-conservation.md
+  - name: "Q3 Nonrenewable Resources and Conservation"
+    href: q-agricultural-and-natural-resource-economics-environmental/q3-nonrenewable-resources-and-conservation.md
+  - name: "Q4 Energy"
+    href: q-agricultural-and-natural-resource-economics-environmental/q4-energy.md
+  - name: "Q5 Environmental Economics"
+    href: q-agricultural-and-natural-resource-economics-environmental/q5-environmental-economics.md
+- name: "R Urban, Rural, Regional, Real Estate, and Transportation Economics"
+  href: r-urban-rural-regional-real-estate-and-transportation-econom/index.md
+  items:
+  - name: "R0 General"
+    href: r-urban-rural-regional-real-estate-and-transportation-econom/r0-general.md
+  - name: "R1 General Regional Economics"
+    href: r-urban-rural-regional-real-estate-and-transportation-econom/r1-general-regional-economics.md
+  - name: "R2 Household Analysis"
+    href: r-urban-rural-regional-real-estate-and-transportation-econom/r2-household-analysis.md
+  - name: "R3 Real Estate Markets, Spatial Production Analysis, and Firm Location"
+    href: r-urban-rural-regional-real-estate-and-transportation-econom/r3-real-estate-markets-spatial-production-analysis-and-firm.md
+  - name: "R4 Transportation Economics"
+    href: r-urban-rural-regional-real-estate-and-transportation-econom/r4-transportation-economics.md
+  - name: "R5 Regional Government Analysis"
+    href: r-urban-rural-regional-real-estate-and-transportation-econom/r5-regional-government-analysis.md
+- name: "Z Other Special Topics"
+  href: z-other-special-topics/index.md
+  items:
+  - name: "Z0 General"
+    href: z-other-special-topics/z0-general.md
+  - name: "Z1 Cultural Economics • Economic Sociology • Economic Anthropology"
+    href: z-other-special-topics/z1-cultural-economics-economic-sociology-economic-anthropolo.md
+  - name: "Z2 Sports Economics"
+    href: z-other-special-topics/z2-sports-economics.md
+  - name: "Z3 Tourism Economics"
+    href: z-other-special-topics/z3-tourism-economics.md

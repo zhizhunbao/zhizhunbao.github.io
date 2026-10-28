@@ -9,8 +9,6 @@ items:
   href: algorithms/
 - name: Cloud
   href: cloud/
-- name: Computer Science
-  href: computer-science/
 - name: Data
   href: data/
 - name: Ethics
@@ -19,8 +17,6 @@ items:
   href: graphics/
 - name: Hardware
   href: hardware/
-- name: Mathematical Sciences
-  href: math/
 - name: Networking
   href: networking/
 - name: Operating Systems
@@ -29,6 +25,46 @@ items:
   href: programming/
 - name: QA
   href: qa/
+- name: Science
+  items:
+  - name: Natural Sciences
+    items:
+    - name: Mathematical Sciences
+      href: math/
+    - name: Computer Science
+      href: computer-science/
+    - name: Physical Sciences
+      href: physical-sciences/
+    - name: Chemical Sciences
+      href: chemical-sciences/
+    - name: Earth and Related Environmental Sciences
+      href: earth-sciences/
+    - name: Biological Sciences
+      href: biological-sciences/
+  - name: Engineering and Technology
+    items:
+    - name: Engineering and Technology
+      href: engineering-technology/
+  - name: Medical and Health Sciences
+    items:
+    - name: Medical and Health Sciences
+      href: medical-health-sciences/
+  - name: Agricultural and Veterinary Sciences
+    items:
+    - name: Agricultural and Veterinary Sciences
+      href: agricultural-veterinary-sciences/
+  - name: Social Sciences
+    items:
+    - name: Psychology and Cognitive Sciences
+      href: psychology-cognitive-sciences/
+    - name: Economics and Business
+      href: economics-business/
+    - name: Social Sciences
+      href: social-sciences/
+  - name: Humanities and the Arts
+    items:
+    - name: Humanities and the Arts
+      href: humanities-arts/
 - name: Security
   href: security/
 - name: System Design

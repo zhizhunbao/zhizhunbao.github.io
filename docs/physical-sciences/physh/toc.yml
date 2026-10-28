@@ -1,0 +1,180 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Accelerators & Beams"
+  href: accelerators-beams/index.md
+  items:
+  - name: "Physical Systems"
+    href: accelerators-beams/physical-systems.md
+  - name: "Research Areas"
+    href: accelerators-beams/research-areas.md
+- name: "Atomic, Molecular & Optical"
+  href: atomic-molecular-optical/index.md
+  items:
+  - name: "Computational Techniques"
+    href: atomic-molecular-optical/computational-techniques.md
+  - name: "Experimental Techniques"
+    href: atomic-molecular-optical/experimental-techniques.md
+  - name: "Physical Systems"
+    href: atomic-molecular-optical/physical-systems.md
+  - name: "Properties"
+    href: atomic-molecular-optical/properties.md
+  - name: "Research Areas"
+    href: atomic-molecular-optical/research-areas.md
+  - name: "Theoretical Techniques"
+    href: atomic-molecular-optical/theoretical-techniques.md
+- name: "Condensed Matter, Materials & Applied Physics"
+  href: condensed-matter-materials-applied-physics/index.md
+  items:
+  - name: "Experimental Techniques"
+    href: condensed-matter-materials-applied-physics/experimental-techniques.md
+  - name: "Physical Systems"
+    href: condensed-matter-materials-applied-physics/physical-systems.md
+  - name: "Research Areas"
+    href: condensed-matter-materials-applied-physics/research-areas.md
+  - name: "Theoretical & Computational Techniques"
+    href: condensed-matter-materials-applied-physics/theoretical-computational-techniques.md
+- name: "Energy Science & Technology"
+  href: energy-science-technology/index.md
+  items:
+  - name: "Research Areas"
+    href: energy-science-technology/research-areas.md
+- name: "Fluid Dynamics"
+  href: fluid-dynamics/index.md
+  items:
+  - name: "Computational Techniques"
+    href: fluid-dynamics/computational-techniques.md
+  - name: "Experimental Techniques"
+    href: fluid-dynamics/experimental-techniques.md
+  - name: "Physical Systems"
+    href: fluid-dynamics/physical-systems.md
+  - name: "Properties"
+    href: fluid-dynamics/properties.md
+  - name: "Research Areas"
+    href: fluid-dynamics/research-areas.md
+  - name: "Theoretical Techniques"
+    href: fluid-dynamics/theoretical-techniques.md
+- name: "Gravitation, Cosmology & Astrophysics"
+  href: gravitation-cosmology-astrophysics/index.md
+  items:
+  - name: "Computational Techniques"
+    href: gravitation-cosmology-astrophysics/computational-techniques.md
+  - name: "Experimental Techniques"
+    href: gravitation-cosmology-astrophysics/experimental-techniques.md
+  - name: "Physical Systems"
+    href: gravitation-cosmology-astrophysics/physical-systems.md
+  - name: "Properties"
+    href: gravitation-cosmology-astrophysics/properties.md
+  - name: "Research Areas"
+    href: gravitation-cosmology-astrophysics/research-areas.md
+- name: "Interdisciplinary Physics"
+  href: interdisciplinary-physics/index.md
+  items:
+  - name: "Research Areas"
+    href: interdisciplinary-physics/research-areas.md
+- name: "Networks"
+  href: networks/index.md
+  items:
+  - name: "Experimental Techniques"
+    href: networks/experimental-techniques.md
+  - name: "Physical Systems"
+    href: networks/physical-systems.md
+  - name: "Research Areas"
+    href: networks/research-areas.md
+  - name: "Theoretical Techniques"
+    href: networks/theoretical-techniques.md
+- name: "Nonlinear Dynamics"
+  href: nonlinear-dynamics/index.md
+  items:
+  - name: "Physical Systems"
+    href: nonlinear-dynamics/physical-systems.md
+  - name: "Research Areas"
+    href: nonlinear-dynamics/research-areas.md
+  - name: "Theoretical Techniques"
+    href: nonlinear-dynamics/theoretical-techniques.md
+- name: "Nuclear Physics"
+  href: nuclear-physics/index.md
+  items:
+  - name: "Experimental Techniques"
+    href: nuclear-physics/experimental-techniques.md
+  - name: "Properties"
+    href: nuclear-physics/properties.md
+  - name: "Research Areas"
+    href: nuclear-physics/research-areas.md
+  - name: "Theoretical Techniques"
+    href: nuclear-physics/theoretical-techniques.md
+- name: "Particles & Fields"
+  href: particles-fields/index.md
+  items:
+  - name: "Computational Techniques"
+    href: particles-fields/computational-techniques.md
+  - name: "Experimental Techniques"
+    href: particles-fields/experimental-techniques.md
+  - name: "Physical Systems"
+    href: particles-fields/physical-systems.md
+  - name: "Properties"
+    href: particles-fields/properties.md
+  - name: "Research Areas"
+    href: particles-fields/research-areas.md
+  - name: "Theoretical Techniques"
+    href: particles-fields/theoretical-techniques.md
+- name: "Physics Education Research"
+  href: physics-education-research/index.md
+  items:
+  - name: "Professional Topics"
+    href: physics-education-research/professional-topics.md
+  - name: "Research Areas"
+    href: physics-education-research/research-areas.md
+- name: "Physics of Living Systems"
+  href: physics-of-living-systems/index.md
+  items:
+  - name: "Computational Techniques"
+    href: physics-of-living-systems/computational-techniques.md
+  - name: "Experimental Techniques"
+    href: physics-of-living-systems/experimental-techniques.md
+  - name: "Physical Systems"
+    href: physics-of-living-systems/physical-systems.md
+  - name: "Research Areas"
+    href: physics-of-living-systems/research-areas.md
+  - name: "Theoretical Techniques"
+    href: physics-of-living-systems/theoretical-techniques.md
+- name: "Plasma Physics"
+  href: plasma-physics/index.md
+  items:
+  - name: "Experimental Techniques"
+    href: plasma-physics/experimental-techniques.md
+  - name: "Physical Systems"
+    href: plasma-physics/physical-systems.md
+  - name: "Research Areas"
+    href: plasma-physics/research-areas.md
+  - name: "Theoretical & Computational Techniques"
+    href: plasma-physics/theoretical-computational-techniques.md
+- name: "Polymers & Soft Matter"
+  href: polymers-soft-matter/index.md
+  items:
+  - name: "Experimental Techniques"
+    href: polymers-soft-matter/experimental-techniques.md
+  - name: "Physical Systems"
+    href: polymers-soft-matter/physical-systems.md
+  - name: "Research Areas"
+    href: polymers-soft-matter/research-areas.md
+  - name: "Theoretical Techniques"
+    href: polymers-soft-matter/theoretical-techniques.md
+- name: "Quantum Information, Science & Technology"
+  href: quantum-information-science-technology/index.md
+  items:
+  - name: "Research Areas"
+    href: quantum-information-science-technology/research-areas.md
+- name: "Statistical Physics & Thermodynamics"
+  href: statistical-physics-thermodynamics/index.md
+  items:
+  - name: "Computational Techniques"
+    href: statistical-physics-thermodynamics/computational-techniques.md
+  - name: "Experimental Techniques"
+    href: statistical-physics-thermodynamics/experimental-techniques.md
+  - name: "Physical Systems"
+    href: statistical-physics-thermodynamics/physical-systems.md
+  - name: "Research Areas"
+    href: statistical-physics-thermodynamics/research-areas.md
+  - name: "Theoretical Techniques"
+    href: statistical-physics-thermodynamics/theoretical-techniques.md

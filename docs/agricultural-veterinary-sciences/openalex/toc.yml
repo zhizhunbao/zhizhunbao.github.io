@@ -1,0 +1,35 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Agricultural and Biological Sciences"
+  href: agricultural-and-biological-sciences/index.md
+  items:
+  - name: "Plant Science"
+    href: agricultural-and-biological-sciences/plant-science.md
+  - name: "Ecology, Evolution, Behavior and Systematics"
+    href: agricultural-and-biological-sciences/ecology-evolution-behavior-and-systematics.md
+  - name: "Food Science"
+    href: agricultural-and-biological-sciences/food-science.md
+  - name: "Agronomy and Crop Science"
+    href: agricultural-and-biological-sciences/agronomy-and-crop-science.md
+  - name: "Soil Science"
+    href: agricultural-and-biological-sciences/soil-science.md
+  - name: "Insect Science"
+    href: agricultural-and-biological-sciences/insect-science.md
+  - name: "General Agricultural and Biological Sciences"
+    href: agricultural-and-biological-sciences/general-agricultural-and-biological-sciences.md
+  - name: "Animal Science and Zoology"
+    href: agricultural-and-biological-sciences/animal-science-and-zoology.md
+  - name: "Aquatic Science"
+    href: agricultural-and-biological-sciences/aquatic-science.md
+  - name: "Forestry"
+    href: agricultural-and-biological-sciences/forestry.md
+  - name: "Horticulture"
+    href: agricultural-and-biological-sciences/horticulture.md
+- name: "Veterinary"
+  href: veterinary/index.md
+  items:
+  - name: "Small Animals"
+    href: veterinary/small-animals.md
+  - name: "Equine"
+    href: veterinary/equine.md

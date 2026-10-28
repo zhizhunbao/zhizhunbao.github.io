@@ -1,0 +1,85 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Engineering"
+  href: engineering/index.md
+  items:
+  - name: "Electrical and Electronic Engineering"
+    href: engineering/electrical-and-electronic-engineering.md
+  - name: "Aerospace Engineering"
+    href: engineering/aerospace-engineering.md
+  - name: "Mechanical Engineering"
+    href: engineering/mechanical-engineering.md
+  - name: "Biomedical Engineering"
+    href: engineering/biomedical-engineering.md
+  - name: "Civil and Structural Engineering"
+    href: engineering/civil-and-structural-engineering.md
+  - name: "Control and Systems Engineering"
+    href: engineering/control-and-systems-engineering.md
+  - name: "Mechanics of Materials"
+    href: engineering/mechanics-of-materials.md
+  - name: "Computational Mechanics"
+    href: engineering/computational-mechanics.md
+  - name: "Building and Construction"
+    href: engineering/building-and-construction.md
+  - name: "Ocean Engineering"
+    href: engineering/ocean-engineering.md
+  - name: "Architecture"
+    href: engineering/architecture.md
+  - name: "Industrial and Manufacturing Engineering"
+    href: engineering/industrial-and-manufacturing-engineering.md
+  - name: "Safety, Risk, Reliability and Quality"
+    href: engineering/safety-risk-reliability-and-quality.md
+  - name: "Media Technology"
+    href: engineering/media-technology.md
+  - name: "Automotive Engineering"
+    href: engineering/automotive-engineering.md
+  - name: "General Engineering"
+    href: engineering/general-engineering.md
+- name: "Chemical Engineering"
+  href: chemical-engineering/index.md
+  items:
+  - name: "Fluid Flow and Transfer Processes"
+    href: chemical-engineering/fluid-flow-and-transfer-processes.md
+  - name: "Catalysis"
+    href: chemical-engineering/catalysis.md
+  - name: "Chemical Health and Safety"
+    href: chemical-engineering/chemical-health-and-safety.md
+  - name: "Bioengineering"
+    href: chemical-engineering/bioengineering.md
+  - name: "Process Chemistry and Technology"
+    href: chemical-engineering/process-chemistry-and-technology.md
+  - name: "Filtration and Separation"
+    href: chemical-engineering/filtration-and-separation.md
+- name: "Materials Science"
+  href: materials-science/index.md
+  items:
+  - name: "Materials Chemistry"
+    href: materials-science/materials-chemistry.md
+  - name: "Electronic, Optical and Magnetic Materials"
+    href: materials-science/electronic-optical-and-magnetic-materials.md
+  - name: "Polymers and Plastics"
+    href: materials-science/polymers-and-plastics.md
+  - name: "Biomaterials"
+    href: materials-science/biomaterials.md
+  - name: "Ceramics and Composites"
+    href: materials-science/ceramics-and-composites.md
+  - name: "Surfaces, Coatings and Films"
+    href: materials-science/surfaces-coatings-and-films.md
+  - name: "General Materials Science"
+    href: materials-science/general-materials-science.md
+  - name: "Metals and Alloys"
+    href: materials-science/metals-and-alloys.md
+- name: "Energy"
+  href: energy/index.md
+  items:
+  - name: "Renewable Energy, Sustainability and the Environment"
+    href: energy/renewable-energy-sustainability-and-the-environment.md
+  - name: "General Energy"
+    href: energy/general-energy.md
+  - name: "Energy Engineering and Power Technology"
+    href: energy/energy-engineering-and-power-technology.md
+  - name: "Fuel Technology"
+    href: energy/fuel-technology.md
+  - name: "Nuclear Energy and Engineering"
+    href: energy/nuclear-energy-and-engineering.md

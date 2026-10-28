@@ -1,0 +1,7 @@
+---
+title: "PHYSICAL, INORGANIC, AND ANALYTICAL (PIA/SC)"
+description: "CA Sections class PHYSICAL, INORGANIC, AND ANALYTICAL (PIA/SC): 16 subclasses."
+ms.date: 2026-10-27
+---
+
+# PHYSICAL, INORGANIC, AND ANALYTICAL (PIA/SC)

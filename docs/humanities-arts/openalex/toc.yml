@@ -1,0 +1,32 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Arts and Humanities"
+  href: arts-and-humanities/index.md
+  items:
+  - name: "History"
+    href: arts-and-humanities/history.md
+  - name: "Literature and Literary Theory"
+    href: arts-and-humanities/literature-and-literary-theory.md
+  - name: "Language and Linguistics"
+    href: arts-and-humanities/language-and-linguistics.md
+  - name: "Visual Arts and Performing Arts"
+    href: arts-and-humanities/visual-arts-and-performing-arts.md
+  - name: "Philosophy"
+    href: arts-and-humanities/philosophy.md
+  - name: "Archeology"
+    href: arts-and-humanities/archeology.md
+  - name: "Religious studies"
+    href: arts-and-humanities/religious-studies.md
+  - name: "Music"
+    href: arts-and-humanities/music.md
+  - name: "History and Philosophy of Science"
+    href: arts-and-humanities/history-and-philosophy-of-science.md
+  - name: "Museology"
+    href: arts-and-humanities/museology.md
+  - name: "Classics"
+    href: arts-and-humanities/classics.md
+  - name: "Conservation"
+    href: arts-and-humanities/conservation.md
+  - name: "General Arts and Humanities"
+    href: arts-and-humanities/general-arts-and-humanities.md

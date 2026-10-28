@@ -1,0 +1,7 @@
+---
+title: "Properties"
+description: "PhySH class Atomic, Molecular & Optical > Properties."
+ms.date: 2026-10-27
+---
+
+# Properties
