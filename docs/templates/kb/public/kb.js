@@ -571,6 +571,8 @@ function wheelScope() {
   addEventListener('scroll', fit, { passive: true })
   addEventListener('resize', fit)
   fit()
+  // on phones the menu is hidden until the menu button opens it, so it is measured again then
+  document.getElementById('kb-menu-button')?.addEventListener('click', () => requestAnimationFrame(fit))
   // the whole side column listens, including the empty space under a short rail
   for (const [col, rail] of [['layout-body-menu', rails[0]], ['layout-body-aside', rails[1]]]) {
     const el = document.getElementById(col)
