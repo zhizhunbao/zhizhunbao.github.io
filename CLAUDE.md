@@ -16,7 +16,8 @@ README.md holds the site's rules (what the site looks like and why); this file h
 
 - Official pages are cached in `C:\Users\40270\Desktop\workspace\design-refs\official-docs\cache\` (outside this repo; read its `README.md`). Before answering any question about what an official source says, and before fetching one, grep `cache\md\` first; never answer from memory.
 - Add newly used pages from the `pnp-job-tracker` root: `.venv/Scripts/python.exe ../design-refs/official-docs/cache_official.py <urls file> ../design-refs/official-docs/cache [--plain]` (`--plain` for sites that challenge the automated browser). One `urls_kb_*.txt` per batch, noted in that README with the date and anything odd. PDFs go in `cache/pdf/`, registered in `index.json` with a `pdf` field.
-- Every quote is checked against the cached page before it goes on the site (exact words; only `**` added). Sites that block scripts (CAPTCHA, bot checks) are not worked around: use the built-in browser with the user's OK, or ask the user.
+- Every quote is checked against the cached page before it goes on the site (exact words; only `**` added).
+- A site that blocks scripts or the crawler (403, CAPTCHA, bot check, rate limit) is not worked around and not retried in a loop: open it in the user's own Chrome (Claude in Chrome, the user's standing instruction since 2026-10-27), in a new tab of Claude's group. A verification page there is the user's to pass by hand; never click it. Read the main text, save it by hand as `cache/md/<slug>.md` with `source`, `title`, `fetched` and a `method` line saying it was read in the user's Chrome, add the `index.json` entry, note it in the cache README, and close the tab. w3.org challenges the crawler's automated Chrome every time, so read w3.org pages this way too.
 
 ## Checking
 
