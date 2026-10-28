@@ -1,15 +1,59 @@
 items:
 - name: Overview
   href: index.md
-- name: Offer2PR
-  href: offer2pr.md
-- name: Construction Equipment Anomaly Detection
-  href: molit.md
-- name: ECG Viewer Modernization
-  href: ecg-viewer.md
-- name: Textbook RAG
-  href: textbook-rag.md
-- name: Gangwon State Business Portal
-  href: gangwon-portal.md
-- name: GenAI Research Assistant
-  href: ottawa-genai.md
+- name: "11 Agriculture, Forestry, Fishing and Hunting"
+  href: 11-agriculture-forestry-fishing-and-hunting/index.md
+- name: "21 Mining, Quarrying, and Oil and Gas Extraction"
+  href: 21-mining-quarrying-and-oil-and-gas-extraction/index.md
+- name: "22 Utilities"
+  href: 22-utilities/index.md
+- name: "23 Construction"
+  href: 23-construction/index.md
+- name: "31-33 Manufacturing"
+  href: 31-33-manufacturing/index.md
+  items:
+  - name: "ECG Viewer Modernization"
+    href: ecg-viewer.md
+- name: "41 Wholesale Trade"
+  href: 41-wholesale-trade/index.md
+- name: "44-45 Retail Trade"
+  href: 44-45-retail-trade/index.md
+- name: "48-49 Transportation and Warehousing"
+  href: 48-49-transportation-and-warehousing/index.md
+- name: "51 Information and Cultural Industries"
+  href: 51-information-and-cultural-industries/index.md
+- name: "52 Finance and Insurance"
+  href: 52-finance-and-insurance/index.md
+- name: "53 Real Estate and Rental and Leasing"
+  href: 53-real-estate-and-rental-and-leasing/index.md
+- name: "54 Professional, Scientific and Technical Services"
+  href: 54-professional-scientific-and-technical-services/index.md
+- name: "55 Management of Companies and Enterprises"
+  href: 55-management-of-companies-and-enterprises/index.md
+- name: "56 Administrative and Support, Waste Management and Remediation Services"
+  href: 56-administrative-and-support-waste-management-and-remediation-services/index.md
+  items:
+  - name: "Offer2PR"
+    href: offer2pr.md
+- name: "61 Educational Services"
+  href: 61-educational-services/index.md
+  items:
+  - name: "Textbook RAG"
+    href: textbook-rag.md
+- name: "62 Health Care and Social Assistance"
+  href: 62-health-care-and-social-assistance/index.md
+- name: "71 Arts, Entertainment and Recreation"
+  href: 71-arts-entertainment-and-recreation/index.md
+- name: "72 Accommodation and Food Services"
+  href: 72-accommodation-and-food-services/index.md
+- name: "81 Other Services (except public administration)"
+  href: 81-other-services-except-public-administration/index.md
+- name: "91 Public Administration"
+  href: 91-public-administration/index.md
+  items:
+  - name: "Construction Equipment Anomaly Detection"
+    href: molit.md
+  - name: "Gangwon State Business Portal"
+    href: gangwon-portal.md
+  - name: "GenAI Research Assistant"
+    href: ottawa-genai.md

@@ -85,6 +85,12 @@ Content has official sources; section names are the common names of the field.
 - A section name is the common name of the field (AI, Algorithms, Security, UI/UX). It is not an official classification, so each section states the knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), it maps to, as in the table under CS2023 entries.
 - Courses get no top-level section. What a course teaches lands in the section of its field.
 
+### Projects
+
+- Projects (since 2026-10-28) are grouped by industry: the 20 sectors of NAICS Canada 2022 Version 1.0 (Statistics Canada), all of them in the menu in NAICS order, each with its own page quoting the first sentence of the sector's official definition; a sector without projects says "No projects yet."
+- A project goes under the industry of the organization it was built for (NAICS classifies establishments): Offer2PR under 56 (561310, "Internet job listing services"), the ECG viewer under 31-33 (its client makes the ECG recorder), Textbook RAG under 61, and the MOLIT, Gangwon and City of Ottawa projects under 91.
+- Project pages stay at `docs/projects/<name>.md` (their links are shared) and are listed under their sector in the menu; the Overview keeps the full project table, newest first.
+
 ### Sources
 
 - Sources (since 2026-10-27) is not a field: its Overview sorts every publisher and document the site cites into kinds (standards developing organizations, government agencies, learned societies, classification systems, curricula, reference works, certification bodies, companies, open-source projects), each kind defined from Cambridge Dictionary or the NIST CSRC glossary.
@@ -162,14 +168,14 @@ The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Sy
 - Mathematical Sciences, like the other sections, has CS2023 MSF as its entry (since 2026-10-27; before, the MSF units were its second level in alphabetical order): its five units numbered in CS2023's order (1. Discrete Mathematics, 2. Probability, 3. Statistics, 4. Linear Algebra, 5. Calculus, from most to fewest CS Core hours), which is also the order to learn them in, and definitions quoted from Wolfram MathWorld (web sources only).
 - Beside it, MSC2020 (the Mathematics Subject Classification, msc2020.org, kept by Mathematical Reviews and zbMATH) is the framework for the whole field, since mathematics has no single official documentation set.
 - Because MSC classifies "the mathematical sciences literature", the section is named Mathematical Sciences (renamed from Math on 2026-10-27; the folder stays `docs/math`) and keeps all 63 MSC top classes, including the mathematical treatment of physics, chemistry, engineering, electronics and biology (70 to 86, 92, 93, 94); those subjects themselves would get sections of their own with their own classifications.
-- Third level: the 63 top classes (MSC code and name, in MSC order); fourth level: their 534 subclasses, one page each, titles only at first.
+- Third level: the 63 top classes (MSC code and name, in MSC order); fourth level: their 534 subclasses, one page each (since 2026-10-28 every class has an Overview whose groups list its subclasses' five-digit classes, and every subclass page a figure and a Glossary row per five-digit class: code and name from the cached MSC2020 CSV, TeX turned into plain text, a standard Chinese name, and "(No definition)" since MSC gives none).
 - Left out: every class's fixed general codes (NN-00 to NN-11: reference works, textbooks, surveys, history, software, proceedings, computational methods, data) and the "other" classes ending in 99.
 - The MSC2020 Overview's Glossary has a row per class quoting the class's term in Wolfram MathWorld, or in Eric Weisstein's World of Physics (scienceworld.wolfram.com) for physics classes MathWorld lacks, marked (context) when the entry defines a related term rather than the class itself; classes with neither (01, 70, 74, 82, 86, 97) have placeholder rows (definition pending) until a web source is found, such as the Encyclopedia of Mathematics.
 - Terms are later hung under the MSC classes from web textbooks (one per CS2023 MSF unit), each citing its book and section; there is no separate textbook directory.
 
 ### Computer Science
 
-- Computer Science (since 2026-10-27) is the whole-field framework for computing, as MSC2020 is for Mathematical Sciences: its one entry, ACM CCS, holds the 2012 ACM Computing Classification System (acm.org/publications/class-2012, full tree at dl.acm.org/ccs), its 13 classes (third level) and their subclasses (fourth level, one page each, titles only at first), numbered in ACM's own order since CCS has no codes.
+- Computer Science (since 2026-10-27) is the whole-field framework for computing, as MSC2020 is for Mathematical Sciences: its one entry, ACM CCS, holds the 2012 ACM Computing Classification System (acm.org/publications/class-2012, full tree at dl.acm.org/ccs), its 13 classes (third level) and their subclasses (fourth level, one page each; since 2026-10-28 each has a figure of its classes with their narrower classes in groups and a Glossary row per class, "(No definition)" since ACM gives none), numbered in ACM's own order since CCS has no codes.
 - Left out: General and reference > Document types (surveys, reference works, proceedings and the like are document types, not topics).
 - The other sections stay as they are; each keeps its CS2023 entry as the learning route, and ACM CCS shows what the whole field contains.
 
