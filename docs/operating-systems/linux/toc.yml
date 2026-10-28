@@ -1,20 +1,20 @@
 items:
 - name: Overview
   href: index.md
-- name: "1. Working with the development community"
+- name: "1. Working with the Development Community"
   href: working-with-the-development-community/index.md
   items:
-  - name: "1.1 Development process"
+  - name: "1.1 Development Process"
     href: working-with-the-development-community/development-process.md
-  - name: "1.2 Submitting patches"
+  - name: "1.2 Submitting Patches"
     href: working-with-the-development-community/submitting-patches.md
-  - name: "1.3 Code of conduct"
+  - name: "1.3 Code of Conduct"
     href: working-with-the-development-community/code-of-conduct.md
-  - name: "1.4 Maintainer handbook"
+  - name: "1.4 Maintainer Handbook"
     href: working-with-the-development-community/maintainer-handbook.md
-  - name: "1.5 All development-process docs"
+  - name: "1.5 All Development-Process Docs"
     href: working-with-the-development-community/all-development-process-docs.md
-- name: "2. Internal API manuals"
+- name: "2. Internal API Manuals"
   href: internal-api-manuals/index.md
   items:
   - name: "2.1 Core API"
@@ -25,55 +25,55 @@ items:
     href: internal-api-manuals/subsystems.md
   - name: "2.4 Locking"
     href: internal-api-manuals/locking.md
-- name: "3. Development tools and processes"
+- name: "3. Development Tools and Processes"
   href: development-tools-and-processes/index.md
   items:
-  - name: "3.1 Licensing rules"
+  - name: "3.1 Licensing Rules"
     href: development-tools-and-processes/licensing-rules.md
-  - name: "3.2 Writing documentation"
+  - name: "3.2 Writing Documentation"
     href: development-tools-and-processes/writing-documentation.md
-  - name: "3.3 Development tools"
+  - name: "3.3 Development Tools"
     href: development-tools-and-processes/development-tools.md
-  - name: "3.4 Testing guide"
+  - name: "3.4 Testing Guide"
     href: development-tools-and-processes/testing-guide.md
-  - name: "3.5 Hacking guide"
+  - name: "3.5 Hacking Guide"
     href: development-tools-and-processes/hacking-guide.md
   - name: "3.6 Tracing"
     href: development-tools-and-processes/tracing.md
-  - name: "3.7 Fault injection"
+  - name: "3.7 Fault Injection"
     href: development-tools-and-processes/fault-injection.md
   - name: "3.8 Livepatching"
     href: development-tools-and-processes/livepatching.md
   - name: "3.9 Rust"
     href: development-tools-and-processes/rust.md
-- name: "4. User-oriented documentation"
+- name: "4. User-Oriented Documentation"
   href: user-oriented-documentation/index.md
   items:
   - name: "4.1 Administration"
     href: user-oriented-documentation/administration.md
-  - name: "4.2 Build system"
+  - name: "4.2 Build System"
     href: user-oriented-documentation/build-system.md
-  - name: "4.3 Reporting issues"
+  - name: "4.3 Reporting Issues"
     href: user-oriented-documentation/reporting-issues.md
-  - name: "4.4 Userspace tools"
+  - name: "4.4 Userspace Tools"
     href: user-oriented-documentation/userspace-tools.md
   - name: "4.5 Userspace API"
     href: user-oriented-documentation/userspace-api.md
-  - name: "4.6 Linux man pages"
+  - name: "4.6 Linux Man Pages"
     href: user-oriented-documentation/linux-man-pages.md
-- name: "5. Firmware-related documentation"
+- name: "5. Firmware-Related Documentation"
   href: firmware-related-documentation/index.md
   items:
   - name: "5.1 Firmware"
     href: firmware-related-documentation/firmware.md
   - name: "5.2 Firmware and Devicetree"
     href: firmware-related-documentation/firmware-and-devicetree.md
-- name: "6. Architecture-specific documentation"
+- name: "6. Architecture-Specific Documentation"
   href: architecture-specific-documentation/index.md
   items:
-  - name: "6.1 CPU architectures"
+  - name: "6.1 CPU Architectures"
     href: architecture-specific-documentation/cpu-architectures.md
-  - name: "6.2 ARC architecture"
+  - name: "6.2 ARC Architecture"
     href: architecture-specific-documentation/arc-architecture.md
   - name: "6.3 ARM Architecture"
     href: architecture-specific-documentation/arm-architecture.md
@@ -91,9 +91,9 @@ items:
     href: architecture-specific-documentation/openrisc-architecture.md
   - name: "6.10 PA-RISC Architecture"
     href: architecture-specific-documentation/pa-risc-architecture.md
-  - name: "6.11 powerpc"
+  - name: "6.11 Powerpc"
     href: architecture-specific-documentation/powerpc.md
-  - name: "6.12 RISC-V architecture"
+  - name: "6.12 RISC-V Architecture"
     href: architecture-specific-documentation/risc-v-architecture.md
   - name: "6.13 s390 Architecture"
     href: architecture-specific-documentation/s390-architecture.md
@@ -105,8 +105,8 @@ items:
     href: architecture-specific-documentation/x86-specific-documentation.md
   - name: "6.17 Xtensa Architecture"
     href: architecture-specific-documentation/xtensa-architecture.md
-- name: "7. Other documentation"
+- name: "7. Other Documentation"
   href: other-documentation/index.md
   items:
-  - name: "7.1 Unsorted documentation"
+  - name: "7.1 Unsorted Documentation"
     href: other-documentation/unsorted-documentation.md

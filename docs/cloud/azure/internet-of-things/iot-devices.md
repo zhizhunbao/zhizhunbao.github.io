@@ -1,10 +1,10 @@
 ---
-title: "12.1 IoT devices"
+title: "12.1 IoT Devices"
 description: "Microsoft Azure, 12.1 IoT devices: Cloud-connected device, Edge-connected device, Protocol-specific device."
 ms.date: 2026-10-27
 ---
 
-# 12.1 IoT devices
+# 12.1 IoT Devices
 
 ## Classification
 

@@ -1,10 +1,10 @@
 ---
-title: "1.3 Code of conduct"
+title: "1.3 Code of Conduct"
 description: "Linux, 1.3 Code of conduct."
 ms.date: 2026-10-25
 ---
 
-# 1.3 Code of conduct
+# 1.3 Code of Conduct
 
 Sources: [The Linux Kernel documentation, 1.3 Code of conduct](https://docs.kernel.org/process/code-of-conduct.html).
 

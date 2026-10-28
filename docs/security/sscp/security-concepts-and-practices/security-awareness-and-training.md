@@ -1,10 +1,10 @@
 ---
-title: "1.7 Security awareness and training"
+title: "1.7 Security Awareness and Training"
 description: "SSCP, 1.7 Security awareness and training: Social engineering, Phishing, Tabletop exercises, Awareness communications."
 ms.date: 2026-10-25
 ---
 
-# 1.7 Security awareness and training
+# 1.7 Security Awareness and Training
 
 Sources: [SSCP Certification Exam Outline, 1.7](https://www.isc2.org/certifications/sscp/sscp-certification-exam-outline).
 

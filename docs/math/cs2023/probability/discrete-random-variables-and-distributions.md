@@ -1,10 +1,10 @@
 ---
-title: "2.2 Discrete random variables and distributions"
+title: "2.2 Discrete Random Variables and Distributions"
 description: "CS2023 MSF-Probability, 2.2 Discrete random variables and distributions (CS Core): Discrete random variable, Discrete distribution."
 ms.date: 2026-10-27
 ---
 
-# 2.2 Discrete random variables and distributions
+# 2.2 Discrete Random Variables and Distributions
 
 ## Classification
 

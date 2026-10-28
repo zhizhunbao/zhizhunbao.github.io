@@ -1,10 +1,10 @@
 ---
-title: "12. Real-time and Embedded Systems"
+title: "12. Real-Time and Embedded Systems"
 description: "CS2023 knowledge unit OS-Real-time: Real-time and Embedded Systems, 6 topics."
 ms.date: 2026-10-25
 ---
 
-# 12. Real-time and Embedded Systems
+# 12. Real-Time and Embedded Systems
 
 The pages under this one are the topics of the CS2023 knowledge unit OS-Real-time, with CS2023's numbering and order: 3 KA Core, 3 Non-core topics.
 

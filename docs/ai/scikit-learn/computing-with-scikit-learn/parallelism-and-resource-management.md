@@ -1,10 +1,10 @@
 ---
-title: "10.3 Parallelism and resource management"
+title: "10.3 Parallelism and Resource Management"
 description: "scikit-learn, 10.3 Parallelism and resource management: 10.3.1 Parallelism."
 ms.date: 2026-10-25
 ---
 
-# 10.3 Parallelism and resource management
+# 10.3 Parallelism and Resource Management
 
 Sources: [scikit-learn User Guide, 10.3 Parallelism and resource management](https://scikit-learn.org/stable/computing/parallelism.html).
 

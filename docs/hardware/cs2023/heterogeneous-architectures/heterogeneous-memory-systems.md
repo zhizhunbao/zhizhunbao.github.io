@@ -1,10 +1,10 @@
 ---
-title: "8.2 Heterogeneous memory systems"
+title: "8.2 Heterogeneous Memory Systems"
 description: "CS2023 AR-Heterogeneity, 8.2 Heterogeneous memory systems (KA Core): Shared memory versus distributed memory, Volatile vs non-volatile memory, Coherence protocols."
 ms.date: 2026-10-25
 ---
 
-# 8.2 Heterogeneous memory systems
+# 8.2 Heterogeneous Memory Systems
 
 Sources: [CS2023 Body of Knowledge, AR-Heterogeneity, topic 2, p. 45](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=45).
 

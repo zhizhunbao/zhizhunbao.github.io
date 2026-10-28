@@ -1,10 +1,10 @@
 ---
-title: "7.4 Concepts of paging, page replacement, thrashing and allocation of pages and frames"
+title: "7.4 Concepts of Paging, Page Replacement, Thrashing and Allocation of Pages and Frames"
 description: "CS2023 OS-Memory, 7.4 Concepts of paging, page replacement, thrashing and allocation of pages and frames (KA Core)."
 ms.date: 2026-10-25
 ---
 
-# 7.4 Concepts of paging, page replacement, thrashing and allocation of pages and frames
+# 7.4 Concepts of Paging, Page Replacement, Thrashing and Allocation of Pages and Frames
 
 Sources: [CS2023 Body of Knowledge, OS-Memory, topic 4, p. 149](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=149).
 

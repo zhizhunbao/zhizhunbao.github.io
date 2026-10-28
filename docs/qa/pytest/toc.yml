@@ -3,75 +3,75 @@ items:
   href: index.md
 - name: "1. Get Started"
   href: get-started/index.md
-- name: "2. How-to guides"
+- name: "2. How-to Guides"
   href: how-to-guides/index.md
   items:
-  - name: "2.1 How to invoke pytest"
+  - name: "2.1 How to Invoke pytest"
     href: how-to-guides/how-to-invoke-pytest.md
-  - name: "2.2 How to write and report assertions in tests"
+  - name: "2.2 How to Write and Report Assertions in Tests"
     href: how-to-guides/how-to-write-and-report-assertions-in-tests.md
-  - name: "2.3 How to use fixtures"
+  - name: "2.3 How to Use Fixtures"
     href: how-to-guides/how-to-use-fixtures.md
-  - name: "2.4 How to mark test functions with attributes"
+  - name: "2.4 How to Mark Test Functions with Attributes"
     href: how-to-guides/how-to-mark-test-functions-with-attributes.md
-  - name: "2.5 How to parametrize fixtures and test functions"
+  - name: "2.5 How to Parametrize Fixtures and Test Functions"
     href: how-to-guides/how-to-parametrize-fixtures-and-test-functions.md
-  - name: "2.6 How to use subtests"
+  - name: "2.6 How to Use Subtests"
     href: how-to-guides/how-to-use-subtests.md
-  - name: "2.7 How to use temporary directories and files in tests"
+  - name: "2.7 How to Use Temporary Directories and Files in Tests"
     href: how-to-guides/how-to-use-temporary-directories-and-files-in-tests.md
-  - name: "2.8 How to monkeypatch/mock modules and environments"
+  - name: "2.8 How to monkeypatch/mock Modules and Environments"
     href: how-to-guides/how-to-monkeypatch-mock-modules-and-environments.md
-  - name: "2.9 How to run doctests"
+  - name: "2.9 How to Run Doctests"
     href: how-to-guides/how-to-run-doctests.md
-  - name: "2.10 How to re-run failed tests and maintain state between test runs"
+  - name: "2.10 How to Re-Run Failed Tests and Maintain State Between Test Runs"
     href: how-to-guides/how-to-re-run-failed-tests-and-maintain-state-between-test-runs.md
-- name: "3. Reference guides"
+- name: "3. Reference Guides"
   href: reference-guides/index.md
   items:
   - name: "3.1 API Reference"
     href: reference-guides/api-reference.md
-  - name: "3.2 Fixtures reference"
+  - name: "3.2 Fixtures Reference"
     href: reference-guides/fixtures-reference.md
   - name: "3.3 Configuration"
     href: reference-guides/configuration.md
-  - name: "3.4 Exit codes"
+  - name: "3.4 Exit Codes"
     href: reference-guides/exit-codes.md
   - name: "3.5 Pytest Plugin List"
     href: reference-guides/pytest-plugin-list.md
 - name: "4. Explanation"
   href: explanation/index.md
   items:
-  - name: "4.1 Anatomy of a test"
+  - name: "4.1 Anatomy of a Test"
     href: explanation/anatomy-of-a-test.md
-  - name: "4.2 About fixtures"
+  - name: "4.2 About Fixtures"
     href: explanation/about-fixtures.md
   - name: "4.3 Good Integration Practices"
     href: explanation/good-integration-practices.md
-  - name: "4.4 pytest import mechanisms and sys.path / PYTHONPATH"
+  - name: "4.4 pytest Import Mechanisms and sys.path / PYTHONPATH"
     href: explanation/pytest-import-mechanisms-and-sys-path-pythonpath.md
   - name: "4.5 Typing in pytest"
     href: explanation/typing-in-pytest.md
   - name: "4.6 CI Pipelines"
     href: explanation/ci-pipelines.md
-  - name: "4.7 Flaky tests"
+  - name: "4.7 Flaky Tests"
     href: explanation/flaky-tests.md
-- name: "5. Examples and customization tricks"
+- name: "5. Examples and Customization Tricks"
   href: examples-and-customization-tricks/index.md
   items:
-  - name: "5.1 Demo of Python failure reports with pytest"
+  - name: "5.1 Demo of Python Failure Reports with pytest"
     href: examples-and-customization-tricks/demo-of-python-failure-reports-with-pytest.md
-  - name: "5.2 Basic patterns and examples"
+  - name: "5.2 Basic Patterns and Examples"
     href: examples-and-customization-tricks/basic-patterns-and-examples.md
-  - name: "5.3 Parametrizing tests"
+  - name: "5.3 Parametrizing Tests"
     href: examples-and-customization-tricks/parametrizing-tests.md
-  - name: "5.4 Working with custom markers"
+  - name: "5.4 Working with Custom Markers"
     href: examples-and-customization-tricks/working-with-custom-markers.md
-  - name: "5.5 A session-fixture which can look at all collected tests"
+  - name: "5.5 A Session-Fixture Which Can Look at All Collected Tests"
     href: examples-and-customization-tricks/a-session-fixture-which-can-look-at-all-collected-tests.md
-  - name: "5.6 Changing standard (Python) test discovery"
+  - name: "5.6 Changing Standard (Python) Test Discovery"
     href: examples-and-customization-tricks/changing-standard-python-test-discovery.md
-  - name: "5.7 Working with non-python tests"
+  - name: "5.7 Working with Non-Python Tests"
     href: examples-and-customization-tricks/working-with-non-python-tests.md
-  - name: "5.8 Using a custom directory collector"
+  - name: "5.8 Using a Custom Directory Collector"
     href: examples-and-customization-tricks/using-a-custom-directory-collector.md

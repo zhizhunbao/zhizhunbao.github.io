@@ -1,10 +1,10 @@
 ---
-title: "6.4 Forward and inverse kinematics"
+title: "6.4 Forward and Inverse Kinematics"
 description: "CS2023 GIT-Animation, 6.4 Forward and inverse kinematics (KA Core)."
 ms.date: 2026-10-25
 ---
 
-# 6.4 Forward and inverse kinematics
+# 6.4 Forward and Inverse Kinematics
 
 Sources: [CS2023 Body of Knowledge, GIT-Animation, topic 4, p. 98](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=98).
 

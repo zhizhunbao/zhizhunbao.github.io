@@ -1,7 +1,7 @@
 items:
 - name: Overview
   href: index.md
-- name: "1. User interface"
+- name: "1. User Interface"
   href: user-interface/index.md
   items:
   - name: "1.1 Accessibility"
@@ -16,13 +16,13 @@ items:
     href: user-interface/multilingual-user-interface-mui.md
   - name: "1.6 National Language Support (NLS)"
     href: user-interface/national-language-support-nls.md
-  - name: "1.7 User Interface elements"
+  - name: "1.7 User Interface Elements"
     href: user-interface/user-interface-elements.md
   - name: "1.8 Windows Animation Manager"
     href: user-interface/windows-animation-manager.md
   - name: "1.9 Windows Ribbon Framework"
     href: user-interface/windows-ribbon-framework.md
-- name: "2. Windows environment (Shell)"
+- name: "2. Windows Environment (Shell)"
   href: windows-environment-shell/index.md
   items:
   - name: "2.1 Windows Property System"
@@ -33,7 +33,7 @@ items:
     href: windows-environment-shell/windows-search.md
   - name: "2.4 Consoles"
     href: windows-environment-shell/consoles.md
-- name: "3. User input and messaging"
+- name: "3. User Input and Messaging"
   href: user-input-and-messaging/index.md
   items:
   - name: "3.1 User Interaction"
@@ -42,7 +42,7 @@ items:
     href: user-input-and-messaging/legacy-user-interaction.md
   - name: "3.3 Windows and Messages"
     href: user-input-and-messaging/windows-and-messages.md
-- name: "4. Data access and storage"
+- name: "4. Data Access and Storage"
   href: data-access-and-storage/index.md
   items:
   - name: "4.1 Background Intelligent Transfer Service (BITS)"
@@ -122,7 +122,7 @@ items:
     href: diagnostics/windows-event-log.md
   - name: "5.18 Windows Troubleshooting Platform"
     href: diagnostics/windows-troubleshooting-platform.md
-- name: "6. Graphics and multimedia"
+- name: "6. Graphics and Multimedia"
   href: graphics-and-multimedia/index.md
   items:
   - name: "6.1 Core Audio"
@@ -214,7 +214,7 @@ items:
     href: devices/windows-media-device-manager.md
   - name: "7.18 Windows Portable Devices"
     href: devices/windows-portable-devices.md
-- name: "8. System services"
+- name: "8. System Services"
   href: system-services/index.md
   items:
   - name: "8.1 Activity Coordinator"
@@ -257,7 +257,7 @@ items:
     href: system-services/windows-desktop-sharing.md
   - name: "8.20 Windows System Information"
     href: system-services/windows-system-information.md
-- name: "9. Security and identity"
+- name: "9. Security and Identity"
   href: security-and-identity/index.md
   items:
   - name: "9.1 Authentication"
@@ -290,14 +290,14 @@ items:
     href: security-and-identity/tpm-base-services-tbs.md
   - name: "9.15 Windows Biometric Framework"
     href: security-and-identity/windows-biometric-framework.md
-- name: "10. Application installation and servicing"
+- name: "10. Application Installation and Servicing"
   href: application-installation-and-servicing/index.md
   items:
   - name: "10.1 Games Explorer"
     href: application-installation-and-servicing/games-explorer.md
-  - name: "10.2 Side-by-side Assemblies"
+  - name: "10.2 Side-by-Side Assemblies"
     href: application-installation-and-servicing/side-by-side-assemblies.md
-  - name: "10.3 Packaging, deployment, and query APIs"
+  - name: "10.3 Packaging, Deployment, and Query APIs"
     href: application-installation-and-servicing/packaging-deployment-and-query-apis.md
   - name: "10.4 Developer License"
     href: application-installation-and-servicing/developer-license.md
@@ -305,7 +305,7 @@ items:
     href: application-installation-and-servicing/restart-manager.md
   - name: "10.6 Windows Installer"
     href: application-installation-and-servicing/windows-installer.md
-- name: "11. System admin and management"
+- name: "11. System Admin and Management"
   href: system-admin-and-management/index.md
   items:
   - name: "11.1 Boot Configuration Data WMI Provider"
@@ -362,7 +362,7 @@ items:
     href: system-admin-and-management/windows-system-assessment-tool.md
   - name: "11.27 Windows Update Agent"
     href: system-admin-and-management/windows-update-agent.md
-- name: "12. Networking and internet"
+- name: "12. Networking and Internet"
   href: networking-and-internet/index.md
   items:
   - name: "12.1 Domain Name System (DNS)"
@@ -413,7 +413,7 @@ items:
     href: networking-and-internet/webdav.md
   - name: "12.24 WebSocket Protocol Component"
     href: networking-and-internet/websocket-protocol-component.md
-  - name: "12.25 Wireless networking"
+  - name: "12.25 Wireless Networking"
     href: networking-and-internet/wireless-networking.md
   - name: "12.26 Windows Filtering Platform"
     href: networking-and-internet/windows-filtering-platform.md

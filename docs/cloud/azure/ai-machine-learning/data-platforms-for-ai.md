@@ -1,10 +1,10 @@
 ---
-title: "13.3 Data platforms for AI"
+title: "13.3 Data Platforms for AI"
 description: "Microsoft Azure, 13.3 Data platforms for AI: Microsoft Fabric, Azure Databricks, Azure HDInsight, Azure Data Lake Storage."
 ms.date: 2026-10-27
 ---
 
-# 13.3 Data platforms for AI
+# 13.3 Data Platforms for AI
 
 ## Classification
 

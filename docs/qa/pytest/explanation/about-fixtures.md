@@ -1,10 +1,10 @@
 ---
-title: "4.2 About fixtures"
+title: "4.2 About Fixtures"
 description: "pytest, 4.2 About fixtures."
 ms.date: 2026-10-25
 ---
 
-# 4.2 About fixtures
+# 4.2 About Fixtures
 
 Sources: [pytest documentation, 4.2 About fixtures](https://docs.pytest.org/en/stable/explanation/fixtures.html).
 

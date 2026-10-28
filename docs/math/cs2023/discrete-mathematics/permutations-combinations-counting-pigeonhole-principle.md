@@ -1,10 +1,10 @@
 ---
-title: "1.4 Permutations, combinations, counting, pigeonhole principle"
+title: "1.4 Permutations, Combinations, Counting, Pigeonhole Principle"
 description: "CS2023 MSF-Discrete, 1.4 Permutations, combinations, counting, pigeonhole principle (CS Core): Permutation, Combination, Counting, Pigeonhole principle."
 ms.date: 2026-10-27
 ---
 
-# 1.4 Permutations, combinations, counting, pigeonhole principle
+# 1.4 Permutations, Combinations, Counting, Pigeonhole Principle
 
 ## Classification
 

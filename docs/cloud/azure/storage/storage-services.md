@@ -1,10 +1,10 @@
 ---
-title: "8.3 Storage services"
+title: "8.3 Storage Services"
 description: "Microsoft Azure, 8.3 Storage services: Azure Blobs, Azure Files, Azure Elastic SAN, Azure Container Storage, Azure Queues, Azure Tables, Azure Disks, Azure NetApp Files, Azure Managed Lustre."
 ms.date: 2026-10-27
 ---
 
-# 8.3 Storage services
+# 8.3 Storage Services
 
 ## Classification
 

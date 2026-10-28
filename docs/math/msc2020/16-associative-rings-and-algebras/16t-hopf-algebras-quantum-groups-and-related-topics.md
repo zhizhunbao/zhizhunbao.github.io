@@ -1,7 +1,7 @@
 ---
-title: "16T Hopf algebras, quantum groups and related topics"
+title: "16T Hopf Algebras, Quantum Groups and Related Topics"
 description: "MSC2020 class 16Txx, Hopf algebras, quantum groups and related topics: 6 classes."
 ms.date: 2026-10-27
 ---
 
-# 16T Hopf algebras, quantum groups and related topics
+# 16T Hopf Algebras, Quantum Groups and Related Topics

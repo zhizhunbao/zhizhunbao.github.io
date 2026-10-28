@@ -1,7 +1,7 @@
 ---
-title: "13J Topological rings and modules"
+title: "13J Topological Rings and Modules"
 description: "MSC2020 class 13Jxx, Topological rings and modules: 7 classes."
 ms.date: 2026-10-27
 ---
 
-# 13J Topological rings and modules
+# 13J Topological Rings and Modules

@@ -8,11 +8,11 @@ items:
     href: programs/parallelism.md
   - name: "1.2 Distribution"
     href: programs/distribution.md
-  - name: "1.3 Starting activities"
+  - name: "1.3 Starting Activities"
     href: programs/starting-activities.md
   - name: "1.4 Execution Properties"
     href: programs/execution-properties.md
-  - name: "1.5 One or more of the following mappings and mechanisms across layered systems"
+  - name: "1.5 One or More of the Following Mappings and Mechanisms Across Layered Systems"
     href: programs/one-or-more-of-the-following-mappings-and-mechanisms-across-layered-systems.md
 - name: "2. Communication"
   href: communication/index.md
@@ -25,33 +25,33 @@ items:
     href: communication/memory.md
   - name: "2.4 Data Stores"
     href: communication/data-stores.md
-  - name: "2.5 One or more of the following properties and extensions"
+  - name: "2.5 One or More of the Following Properties and Extensions"
     href: communication/one-or-more-of-the-following-properties-and-extensions.md
 - name: "3. Coordination"
   href: coordination/index.md
   items:
   - name: "3.1 Dependencies"
     href: coordination/dependencies.md
-  - name: "3.2 Control constructs and design patterns"
+  - name: "3.2 Control Constructs and Design Patterns"
     href: coordination/control-constructs-and-design-patterns.md
   - name: "3.3 Atomicity"
     href: coordination/atomicity.md
-  - name: "3.4 One or more of the following properties and extensions"
+  - name: "3.4 One or More of the Following Properties and Extensions"
     href: coordination/one-or-more-of-the-following-properties-and-extensions.md
 - name: "4. Evaluation"
   href: evaluation/index.md
   items:
-  - name: "4.1 Safety and liveness requirements in terms of temporal logic constructs to express “always” and “eventually”"
+  - name: "4.1 Safety and Liveness Requirements in Terms of Temporal Logic Constructs to Express “Always” and “Eventually”"
     href: evaluation/safety-and-liveness-requirements-in-terms-of-temporal-logic-constructs-to-expres.md
-  - name: "4.2 Identifying, testing for, and repairing violations, including common forms of errors such as failure to ensure necessary ordering (race errors), atomicity (including check-then-act errors), and termination (livelock)"
+  - name: "4.2 Identifying, Testing for, and Repairing Violations, Including Common Forms of Errors Such as Failure to Ensure Necessary Ordering (race errors), Atomicity (including check-then-act errors), and Termination (livelock)"
     href: evaluation/identifying-testing-for-and-repairing-violations-including-common-forms-of-error.md
-  - name: "4.3 Performance requirements metrics for throughput, responsiveness, latency, availability, energy consumption, scalability, resource usage, communication costs, waiting and rate control, fairness; service level agreements"
+  - name: "4.3 Performance Requirements Metrics for Throughput, Responsiveness, Latency, Availability, Energy Consumption, Scalability, Resource Usage, Communication Costs, Waiting and Rate Control, Fairness; Service Level Agreements"
     href: evaluation/performance-requirements-metrics-for-throughput-responsiveness-latency-availabil.md
-  - name: "4.4 Performance impact of design and implementation choices, including granularity, overhead, consensus costs, and energy consumption"
+  - name: "4.4 Performance Impact of Design and Implementation Choices, Including Granularity, Overhead, Consensus Costs, and Energy Consumption"
     href: evaluation/performance-impact-of-design-and-implementation-choices-including-granularity-ov.md
-  - name: "4.5 Estimating scalability limitations, for example using Amdahl’s Law or Universal Scalability Law"
+  - name: "4.5 Estimating Scalability Limitations, for Example Using Amdahl’s Law or Universal Scalability Law"
     href: evaluation/estimating-scalability-limitations-for-example-using-amdahls-law-or-universal-sc.md
-  - name: "4.6 One or more of the following methods and tools"
+  - name: "4.6 One or More of the Following Methods and Tools"
     href: evaluation/one-or-more-of-the-following-methods-and-tools.md
 - name: "5. Algorithms"
   href: algorithms/index.md

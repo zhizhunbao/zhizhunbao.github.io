@@ -1,10 +1,10 @@
 ---
-title: "4.1 Infrastructure as a service (IaaS)"
+title: "4.1 Infrastructure as a Service (IaaS)"
 description: "Microsoft Azure, 4.1 Infrastructure as a service (IaaS): Virtual Machines, Virtual Machine Scale Sets, Azure Spot Virtual Machines, Azure VMware Solution."
 ms.date: 2026-10-27
 ---
 
-# 4.1 Infrastructure as a service (IaaS)
+# 4.1 Infrastructure as a Service (IaaS)
 
 ## Classification
 

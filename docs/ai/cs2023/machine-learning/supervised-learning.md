@@ -1,10 +1,10 @@
 ---
-title: "4.18 Supervised learning"
+title: "4.18 Supervised Learning"
 description: "CS2023 AI-ML, 4.18 Supervised learning (Non-core): Decision trees, Nearest-neighbor classification and regression, Learning simple neural networks / multi-layer perceptrons, Linear regression, Logistic regression, Support vector machines (SVMs) and kernels, Gaussian Processes."
 ms.date: 2026-10-25
 ---
 
-# 4.18 Supervised learning
+# 4.18 Supervised Learning
 
 Sources: [CS2023 Body of Knowledge, AI-ML, topic 18, p. 10](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=10).
 

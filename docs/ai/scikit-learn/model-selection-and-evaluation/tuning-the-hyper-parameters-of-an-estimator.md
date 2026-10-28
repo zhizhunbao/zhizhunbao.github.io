@@ -1,10 +1,10 @@
 ---
-title: "3.2 Tuning the hyper-parameters of an estimator"
+title: "3.2 Tuning the Hyper-Parameters of an Estimator"
 description: "scikit-learn, 3.2 Tuning the hyper-parameters of an estimator: 3.2.1 Exhaustive Grid Search, 3.2.2 Randomized Parameter Optimization, 3.2.3 Searching for optimal parameters with successive halving, 3.2.4 Tips for parameter search, 3.2.5 Alternatives to brute force parameter search."
 ms.date: 2026-10-25
 ---
 
-# 3.2 Tuning the hyper-parameters of an estimator
+# 3.2 Tuning the Hyper-Parameters of an Estimator
 
 Sources: [scikit-learn User Guide, 3.2 Tuning the hyper-parameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html).
 

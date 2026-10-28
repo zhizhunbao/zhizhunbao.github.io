@@ -1,10 +1,10 @@
 ---
-title: "1. Understanding the User: Individual goals and interactions with others"
+title: "1. Understanding the User: Individual Goals and Interactions with Others"
 description: "CS2023 knowledge unit HCI-User: Understanding the User: Individual goals and interactions with others, 6 topics."
 ms.date: 2026-10-25
 ---
 
-# 1. Understanding the User: Individual goals and interactions with others
+# 1. Understanding the User: Individual Goals and Interactions with Others
 
 The pages under this one are the topics of the CS2023 knowledge unit HCI-User, with CS2023's numbering and order: 1 CS Core, 4 KA Core, 1 Non-core topics.
 

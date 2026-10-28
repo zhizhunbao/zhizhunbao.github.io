@@ -1,10 +1,10 @@
 ---
-title: "4.3 Continuous integration"
+title: "4.3 Continuous Integration"
 description: "Cypress, 4.3 Continuous integration: CI overview, AWS CodeBuild, Bitbucket Pipelines, CircleCI, GitHub Actions, GitLab CI."
 ms.date: 2026-10-25
 ---
 
-# 4.3 Continuous integration
+# 4.3 Continuous Integration
 
 Sources: [Cypress documentation, 4.3 Continuous integration](https://docs.cypress.io/app/get-started/why-cypress).
 

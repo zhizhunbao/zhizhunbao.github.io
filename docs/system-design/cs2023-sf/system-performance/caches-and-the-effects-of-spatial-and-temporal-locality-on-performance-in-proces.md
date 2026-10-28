@@ -1,10 +1,10 @@
 ---
-title: "4.2 Caches and the effects of spatial and temporal locality on performance in processors and systems"
+title: "4.2 Caches and the Effects of Spatial and Temporal Locality on Performance in Processors and Systems"
 description: "CS2023 SF-Performance, 4.2 Caches and the effects of spatial and temporal locality on performance in processors and systems (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 4.2 Caches and the effects of spatial and temporal locality on performance in processors and systems
+# 4.2 Caches and the Effects of Spatial and Temporal Locality on Performance in Processors and Systems
 
 Sources: [CS2023 Body of Knowledge, SF-Performance, topic 2, p. 232](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=232).
 

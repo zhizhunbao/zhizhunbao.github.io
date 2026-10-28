@@ -1,10 +1,10 @@
 ---
-title: "12.1 Vectorized unstructured data (text, video, audio, etc.) and vector storage"
+title: "12.1 Vectorized Unstructured Data (text, video, audio, etc.) and Vector Storage"
 description: "CS2023 DM-Unstructured, 12.1 Vectorized unstructured data (text, video, audio, etc.) and vector storage (Non-core): TF-IDF Vectorizer with ngram, Word2Vec, Array database or array data type handling."
 ms.date: 2026-10-25
 ---
 
-# 12.1 Vectorized unstructured data (text, video, audio, etc.) and vector storage
+# 12.1 Vectorized Unstructured Data (text, video, audio, etc.) and Vector Storage
 
 Sources: [CS2023 Body of Knowledge, DM-Unstructured, topic 1, p. 60](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=60).
 

@@ -1,10 +1,10 @@
 ---
-title: "6.6 Calibration-based methods"
+title: "6.6 Calibration-Based Methods"
 description: "Hugging Face Transformers, 6.6 Calibration-based methods: AutoRound, AWQ, GPTQ."
 ms.date: 2026-10-25
 ---
 
-# 6.6 Calibration-based methods
+# 6.6 Calibration-Based Methods
 
 Sources: [Transformers documentation, 6.6 Calibration-based methods](https://huggingface.co/docs/transformers/v5.20.2/en/index).
 

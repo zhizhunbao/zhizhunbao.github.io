@@ -1,7 +1,7 @@
 ---
-title: "47 Operator theory"
+title: "47 Operator Theory"
 description: "MSC2020 class 47-XX, Operator theory: 12 subclasses, 144 classes."
 ms.date: 2026-10-27
 ---
 
-# 47 Operator theory
+# 47 Operator Theory

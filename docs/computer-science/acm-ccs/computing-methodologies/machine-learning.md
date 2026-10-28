@@ -1,7 +1,7 @@
 ---
-title: "11.4 Machine learning"
+title: "11.4 Machine Learning"
 description: "ACM CCS 2012 class Computing methodologies > Machine learning."
 ms.date: 2026-10-27
 ---
 
-# 11.4 Machine learning
+# 11.4 Machine Learning

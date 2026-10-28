@@ -1,10 +1,10 @@
 ---
-title: "2. Database design"
+title: "2. Database Design"
 description: "SQL Server, 2. Database design: Hierarchical data, Collation, Database, Event notification, FILESTREAM, FileTable, Graph database, Sequence, Service Broker, Spatial data, Stored procedure, Table, Change data capture, Change tracking, Logon trigger, User-defined function, View, xml data type."
 ms.date: 2026-10-26
 ---
 
-# 2. Database design
+# 2. Database Design
 
 ## Classification
 

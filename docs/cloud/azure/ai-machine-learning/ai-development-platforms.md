@@ -1,10 +1,10 @@
 ---
-title: "13.1 AI development platforms"
+title: "13.1 AI Development Platforms"
 description: "Microsoft Azure, 13.1 AI development platforms: Microsoft Foundry, Azure Machine Learning, Microsoft Copilot Studio."
 ms.date: 2026-10-27
 ---
 
-# 13.1 AI development platforms
+# 13.1 AI Development Platforms
 
 ## Classification
 

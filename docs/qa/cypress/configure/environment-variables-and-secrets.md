@@ -1,10 +1,10 @@
 ---
-title: "6.2 Environment variables and secrets"
+title: "6.2 Environment Variables and Secrets"
 description: "Cypress, 6.2 Environment variables and secrets."
 ms.date: 2026-10-25
 ---
 
-# 6.2 Environment variables and secrets
+# 6.2 Environment Variables and Secrets
 
 Sources: [Cypress documentation, 6.2 Environment variables and secrets](https://docs.cypress.io/app/guides/environment-variables).
 

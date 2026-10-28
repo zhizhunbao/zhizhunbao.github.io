@@ -1,10 +1,10 @@
 ---
-title: "27.1 Architecture styles"
+title: "27.1 Architecture Styles"
 description: "Microsoft Azure, 27.1 Architecture styles: N-tier, Web-Queue-Worker, Microservices, Event-driven architecture, Big data, Big compute."
 ms.date: 2026-10-27
 ---
 
-# 27.1 Architecture styles
+# 27.1 Architecture Styles
 
 ## Classification
 

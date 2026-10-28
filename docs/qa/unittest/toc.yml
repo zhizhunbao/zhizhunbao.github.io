@@ -1,31 +1,31 @@
 items:
 - name: Overview
   href: index.md
-- name: "1. Basic example"
+- name: "1. Basic Example"
   href: basic-example/index.md
 - name: "2. Command-Line Interface"
   href: command-line-interface/index.md
   items:
-  - name: "2.1 Command-line options"
+  - name: "2.1 Command-Line Options"
     href: command-line-interface/command-line-options.md
 - name: "3. Test Discovery"
   href: test-discovery/index.md
-- name: "4. Organizing test code"
+- name: "4. Organizing Test Code"
   href: organizing-test-code/index.md
-- name: "5. Re-using old test code"
+- name: "5. Re-Using Old Test Code"
   href: re-using-old-test-code/index.md
-- name: "6. Skipping tests and expected failures"
+- name: "6. Skipping Tests and Expected Failures"
   href: skipping-tests-and-expected-failures/index.md
-- name: "7. Distinguishing test iterations using subtests"
+- name: "7. Distinguishing Test Iterations Using Subtests"
   href: distinguishing-test-iterations-using-subtests/index.md
-- name: "8. Classes and functions"
+- name: "8. Classes and Functions"
   href: classes-and-functions/index.md
   items:
-  - name: "8.1 Test cases"
+  - name: "8.1 Test Cases"
     href: classes-and-functions/test-cases.md
-  - name: "8.2 Grouping tests"
+  - name: "8.2 Grouping Tests"
     href: classes-and-functions/grouping-tests.md
-  - name: "8.3 Loading and running tests"
+  - name: "8.3 Loading and Running Tests"
     href: classes-and-functions/loading-and-running-tests.md
 - name: "9. Class and Module Fixtures"
   href: class-and-module-fixtures/index.md

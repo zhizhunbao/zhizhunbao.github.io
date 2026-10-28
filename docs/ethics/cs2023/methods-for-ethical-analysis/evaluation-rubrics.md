@@ -1,10 +1,10 @@
 ---
-title: "2.6 Evaluation rubrics"
+title: "2.6 Evaluation Rubrics"
 description: "CS2023 SEP-Ethical-Analysis, 2.6 Evaluation rubrics (KA Core)."
 ms.date: 2026-10-25
 ---
 
-# 2.6 Evaluation rubrics
+# 2.6 Evaluation Rubrics
 
 Sources: [CS2023 Body of Knowledge, SEP-Ethical-Analysis, topic 6, p. 213](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=213).
 

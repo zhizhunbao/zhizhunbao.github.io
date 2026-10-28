@@ -1,10 +1,10 @@
 ---
-title: "4.12 Principles of secure design and coding"
+title: "4.12 Principles of Secure Design and Coding"
 description: "CS2023 SE-Design, 4.12 Principles of secure design and coding (Non-core): Principle of least privilege, Principle of fail-safe defaults, Principle of psychological acceptability."
 ms.date: 2026-10-25
 ---
 
-# 4.12 Principles of secure design and coding
+# 4.12 Principles of Secure Design and Coding
 
 Sources: [CS2023 Body of Knowledge, SE-Design, topic 12, p. 182](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=182).
 

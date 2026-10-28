@@ -1,10 +1,10 @@
 ---
-title: "11.2 Connection to physical artifacts"
+title: "11.2 Connection to Physical Artifacts"
 description: "CS2023 GIT-Physical, 11.2 Connection to physical artifacts (KA Core): Computer-Aided Design (CAD), Computer-Aided Manufacturing (CAM), Fabrication (See also: HCI-Design)."
 ms.date: 2026-10-25
 ---
 
-# 11.2 Connection to physical artifacts
+# 11.2 Connection to Physical Artifacts
 
 Sources: [CS2023 Body of Knowledge, GIT-Physical, topic 2, p. 102](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=102).
 

@@ -1,10 +1,10 @@
 ---
-title: "6.2 Types of animation"
+title: "6.2 Types of Animation"
 description: "CS2023 GIT-Animation, 6.2 Types of animation (KA Core): 2- and 3-dimensional animation, Motion graphics, Motion capture, Motion graphics, Stop animation."
 ms.date: 2026-10-25
 ---
 
-# 6.2 Types of animation
+# 6.2 Types of Animation
 
 Sources: [CS2023 Body of Knowledge, GIT-Animation, topic 2, p. 98](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=98).
 

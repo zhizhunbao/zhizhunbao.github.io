@@ -1,10 +1,10 @@
 ---
-title: "16. Run-time Behavior and Systems"
+title: "16. Run-Time Behavior and Systems"
 description: "CS2023 knowledge unit FPL-Run-Time: Run-time Behavior and Systems, 13 topics."
 ms.date: 2026-10-25
 ---
 
-# 16. Run-time Behavior and Systems
+# 16. Run-Time Behavior and Systems
 
 The pages under this one are the topics of the CS2023 knowledge unit FPL-Run-Time, with CS2023's numbering and order: 13 Non-core topics.
 

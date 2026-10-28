@@ -1,10 +1,10 @@
 ---
-title: "4.2 Use of a general-purpose IDE, including its debugger"
+title: "4.2 Use of a General-Purpose IDE, Including Its Debugger"
 description: "CS2023 SDF-Practices, 4.2 Use of a general-purpose IDE, including its debugger (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 4.2 Use of a general-purpose IDE, including its debugger
+# 4.2 Use of a General-Purpose IDE, Including Its Debugger
 
 Sources: [CS2023 Body of Knowledge, SDF-Practices, topic 2, p. 170](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=170).
 

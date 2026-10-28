@@ -1,10 +1,10 @@
 ---
-title: "3. Query data"
+title: "3. Query Data"
 description: "SQL Server, 3. Query data: Cursor, Join, Database Engine scripting, Subquery, PolyBase, Linked server, Full-Text Search, Synonym."
 ms.date: 2026-10-26
 ---
 
-# 3. Query data
+# 3. Query Data
 
 ## Classification
 

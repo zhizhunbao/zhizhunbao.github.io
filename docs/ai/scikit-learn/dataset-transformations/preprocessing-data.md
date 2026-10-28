@@ -1,10 +1,10 @@
 ---
-title: "8.3 Preprocessing data"
+title: "8.3 Preprocessing Data"
 description: "scikit-learn, 8.3 Preprocessing data: 8.3.1 Standardization, or mean removal and variance scaling, 8.3.2 Non-linear transformation, 8.3.3 Normalization, 8.3.4 Encoding categorical features, 8.3.5 Discretization, 8.3.6 Imputation of missing values, 8.3.7 Generating polynomial features, 8.3.8 Custom transformers."
 ms.date: 2026-10-25
 ---
 
-# 8.3 Preprocessing data
+# 8.3 Preprocessing Data
 
 Sources: [scikit-learn User Guide, 8.3 Preprocessing data](https://scikit-learn.org/stable/modules/preprocessing.html).
 

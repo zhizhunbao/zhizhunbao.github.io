@@ -1,10 +1,10 @@
 ---
-title: "18.2 Defense-in-depth"
+title: "18.2 Defense-in-Depth"
 description: "Microsoft Azure, 18.2 Defense-in-depth: Physical security, Identity and access, Perimeter, Network, Compute, Application, Data."
 ms.date: 2026-10-27
 ---
 
-# 18.2 Defense-in-depth
+# 18.2 Defense-in-Depth
 
 ## Classification
 

@@ -1,10 +1,10 @@
 ---
-title: "4.1 Local usernames and AAA"
+title: "4.1 Local Usernames and AAA"
 description: "CCNA v2.0, 4.1 Local usernames and AAA: Local usernames, TACACS+, RADIUS."
 ms.date: 2026-10-25
 ---
 
-# 4.1 Local usernames and AAA
+# 4.1 Local Usernames and AAA
 
 Sources: [200-301 CCNA v2.0 Exam Topics, 4.1](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics).
 

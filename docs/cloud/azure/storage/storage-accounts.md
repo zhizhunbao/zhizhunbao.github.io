@@ -1,10 +1,10 @@
 ---
-title: "8.1 Storage accounts"
+title: "8.1 Storage Accounts"
 description: "Microsoft Azure, 8.1 Storage accounts: Standard general-purpose v2, Premium block blobs, Premium file shares, Premium page blobs, Storage account endpoints."
 ms.date: 2026-10-27
 ---
 
-# 8.1 Storage accounts
+# 8.1 Storage Accounts
 
 ## Classification
 

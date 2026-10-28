@@ -1,10 +1,10 @@
 ---
-title: "5.1 I/O fundamentals"
+title: "5.1 I/O Fundamentals"
 description: "CS2023 AR-IO, 5.1 I/O fundamentals (CS Core): Handshaking and buffering, Programmed I/O, Interrupt-driven I/O (See also: OS-Principles)."
 ms.date: 2026-10-25
 ---
 
-# 5.1 I/O fundamentals
+# 5.1 I/O Fundamentals
 
 Sources: [CS2023 Body of Knowledge, AR-IO, topic 1, p. 43](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=43).
 

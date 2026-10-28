@@ -1,10 +1,10 @@
 ---
-title: "1.1 Security concepts and controls"
+title: "1.1 Security Concepts and Controls"
 description: "CompTIA Security+, 1.1 Security concepts and controls: Defense in depth, Control categories, Control types."
 ms.date: 2026-10-25
 ---
 
-# 1.1 Security concepts and controls
+# 1.1 Security Concepts and Controls
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 1.1](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

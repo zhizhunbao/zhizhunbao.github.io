@@ -1,10 +1,10 @@
 ---
-title: "2.4 Expectation, variance, law of large numbers, central limit theorem"
+title: "2.4 Expectation, Variance, Law of Large Numbers, Central Limit Theorem"
 description: "CS2023 MSF-Probability, 2.4 Expectation, variance, law of large numbers, central limit theorem (CS Core): Expectation, Variance, Law of large numbers, Central limit theorem."
 ms.date: 2026-10-27
 ---
 
-# 2.4 Expectation, variance, law of large numbers, central limit theorem
+# 2.4 Expectation, Variance, Law of Large Numbers, Central Limit Theorem
 
 ## Classification
 

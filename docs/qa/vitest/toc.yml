@@ -206,11 +206,11 @@ items:
 - name: "13. API: Browser Mode"
   href: api-browser-mode/index.md
   items:
-  - name: "13.1 react"
+  - name: "13.1 React"
     href: api-browser-mode/react.md
-  - name: "13.2 vue"
+  - name: "13.2 Vue"
     href: api-browser-mode/vue.md
-  - name: "13.3 svelte"
+  - name: "13.3 Svelte"
     href: api-browser-mode/svelte.md
   - name: "13.4 Context"
     href: api-browser-mode/context.md
@@ -254,45 +254,45 @@ items:
   items:
   - name: "15.1 Config File"
     href: config-config-reference/config-file.md
-  - name: "15.2 include"
+  - name: "15.2 Include"
     href: config-config-reference/include.md
-  - name: "15.3 exclude"
+  - name: "15.3 Exclude"
     href: config-config-reference/exclude.md
   - name: "15.4 includeSource"
     href: config-config-reference/includesource.md
-  - name: "15.5 name"
+  - name: "15.5 Name"
     href: config-config-reference/name.md
-  - name: "15.6 server"
+  - name: "15.6 Server"
     href: config-config-reference/server.md
-  - name: "15.7 deps"
+  - name: "15.7 Deps"
     href: config-config-reference/deps.md
-  - name: "15.8 runner"
+  - name: "15.8 Runner"
     href: config-config-reference/runner.md
-  - name: "15.9 benchmark"
+  - name: "15.9 Benchmark"
     href: config-config-reference/benchmark.md
-  - name: "15.10 alias"
+  - name: "15.10 Alias"
     href: config-config-reference/alias.md
-  - name: "15.11 globals"
+  - name: "15.11 Globals"
     href: config-config-reference/globals.md
   - name: "15.12 injectCjsGlobals"
     href: config-config-reference/injectcjsglobals.md
-  - name: "15.13 environment"
+  - name: "15.13 Environment"
     href: config-config-reference/environment.md
   - name: "15.14 environmentOptions"
     href: config-config-reference/environmentoptions.md
-  - name: "15.15 watch"
+  - name: "15.15 Watch"
     href: config-config-reference/watch.md
   - name: "15.16 watchTriggerPatterns"
     href: config-config-reference/watchtriggerpatterns.md
-  - name: "15.17 root"
+  - name: "15.17 Root"
     href: config-config-reference/root.md
-  - name: "15.18 dir"
+  - name: "15.18 Dir"
     href: config-config-reference/dir.md
-  - name: "15.19 reporters"
+  - name: "15.19 Reporters"
     href: config-config-reference/reporters.md
   - name: "15.20 outputFile"
     href: config-config-reference/outputfile.md
-  - name: "15.21 pool"
+  - name: "15.21 Pool"
     href: config-config-reference/pool.md
   - name: "15.22 execArgv"
     href: config-config-reference/execargv.md
@@ -308,25 +308,25 @@ items:
     href: config-config-reference/hooktimeout.md
   - name: "15.28 teardownTimeout"
     href: config-config-reference/teardowntimeout.md
-  - name: "15.29 silent"
+  - name: "15.29 Silent"
     href: config-config-reference/silent.md
   - name: "15.30 setupFiles"
     href: config-config-reference/setupfiles.md
-  - name: "15.31 provide"
+  - name: "15.31 Provide"
     href: config-config-reference/provide.md
   - name: "15.32 globalSetup"
     href: config-config-reference/globalsetup.md
   - name: "15.33 forceRerunTriggers"
     href: config-config-reference/forcereruntriggers.md
-  - name: "15.34 coverage"
+  - name: "15.34 Coverage"
     href: config-config-reference/coverage.md
   - name: "15.35 testNamePattern"
     href: config-config-reference/testnamepattern.md
-  - name: "15.36 ui"
+  - name: "15.36 Ui"
     href: config-config-reference/ui.md
-  - name: "15.37 open"
+  - name: "15.37 Open"
     href: config-config-reference/open.md
-  - name: "15.38 api"
+  - name: "15.38 Api"
     href: config-config-reference/api.md
   - name: "15.39 clearMocks"
     href: config-config-reference/clearmocks.md
@@ -350,33 +350,33 @@ items:
     href: config-config-reference/passwithnotests.md
   - name: "15.49 logHeapUsage"
     href: config-config-reference/logheapusage.md
-  - name: "15.50 css"
+  - name: "15.50 Css"
     href: config-config-reference/css.md
   - name: "15.51 maxConcurrency"
     href: config-config-reference/maxconcurrency.md
-  - name: "15.52 cache"
+  - name: "15.52 Cache"
     href: config-config-reference/cache.md
   - name: "15.53 fsModuleCache"
     href: config-config-reference/fsmodulecache.md
   - name: "15.54 fsModuleCachePath"
     href: config-config-reference/fsmodulecachepath.md
-  - name: "15.55 sequence"
+  - name: "15.55 Sequence"
     href: config-config-reference/sequence.md
-  - name: "15.56 tags"
+  - name: "15.56 Tags"
     href: config-config-reference/tags.md
   - name: "15.57 strictTags"
     href: config-config-reference/stricttags.md
-  - name: "15.58 typecheck"
+  - name: "15.58 Typecheck"
     href: config-config-reference/typecheck.md
   - name: "15.59 slowTestThreshold"
     href: config-config-reference/slowtestthreshold.md
   - name: "15.60 chaiConfig"
     href: config-config-reference/chaiconfig.md
-  - name: "15.61 bail"
+  - name: "15.61 Bail"
     href: config-config-reference/bail.md
-  - name: "15.62 retry"
+  - name: "15.62 Retry"
     href: config-config-reference/retry.md
-  - name: "15.63 repeats"
+  - name: "15.63 Repeats"
     href: config-config-reference/repeats.md
   - name: "15.64 onConsoleLog"
     href: config-config-reference/onconsolelog.md
@@ -386,23 +386,23 @@ items:
     href: config-config-reference/onunhandlederror.md
   - name: "15.67 dangerouslyIgnoreUnhandled..."
     href: config-config-reference/dangerouslyignoreunhandled.md
-  - name: "15.68 diff"
+  - name: "15.68 Diff"
     href: config-config-reference/diff.md
   - name: "15.69 fakeTimers"
     href: config-config-reference/faketimers.md
-  - name: "15.70 projects"
+  - name: "15.70 Projects"
     href: config-config-reference/projects.md
   - name: "15.71 sharedViteServer"
     href: config-config-reference/sharedviteserver.md
-  - name: "15.72 isolate"
+  - name: "15.72 Isolate"
     href: config-config-reference/isolate.md
   - name: "15.73 includeTaskLocation"
     href: config-config-reference/includetasklocation.md
   - name: "15.74 snapshotEnvironment"
     href: config-config-reference/snapshotenvironment.md
-  - name: "15.75 env"
+  - name: "15.75 Env"
     href: config-config-reference/env.md
-  - name: "15.76 expect"
+  - name: "15.76 Expect"
     href: config-config-reference/expect.md
   - name: "15.77 printConsoleTrace"
     href: config-config-reference/printconsoletrace.md
@@ -410,24 +410,24 @@ items:
     href: config-config-reference/attachmentsdir.md
   - name: "15.79 hideSkippedTests"
     href: config-config-reference/hideskippedtests.md
-  - name: "15.80 mode"
+  - name: "15.80 Mode"
     href: config-config-reference/mode.md
   - name: "15.81 expandSnapshotDiff"
     href: config-config-reference/expandsnapshotdiff.md
   - name: "15.82 disableConsoleIntercept"
     href: config-config-reference/disableconsoleintercept.md
-  - name: "15.83 changed"
+  - name: "15.83 Changed"
     href: config-config-reference/changed.md
-  - name: "15.84 experimental"
+  - name: "15.84 Experimental"
     href: config-config-reference/experimental.md
 - name: "16. Config: Browser Mode"
   href: config-browser-mode/index.md
   items:
-  - name: "16.1 playwright"
+  - name: "16.1 Playwright"
     href: config-browser-mode/playwright.md
-  - name: "16.2 webdriverio"
+  - name: "16.2 Webdriverio"
     href: config-browser-mode/webdriverio.md
-  - name: "16.3 preview"
+  - name: "16.3 Preview"
     href: config-browser-mode/preview.md
   - name: "16.4 browser.enabled"
     href: config-browser-mode/browser-enabled.md

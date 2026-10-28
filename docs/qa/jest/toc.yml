@@ -35,13 +35,13 @@ items:
     href: guides/manual-mocks.md
   - name: "2.6 ES6 Class Mocks"
     href: guides/es6-class-mocks.md
-  - name: "2.7 Bypassing module mocks"
+  - name: "2.7 Bypassing Module Mocks"
     href: guides/bypassing-module-mocks.md
   - name: "2.8 ECMAScript Modules"
     href: guides/ecmascript-modules.md
-  - name: "2.9 Using with webpack"
+  - name: "2.9 Using with Webpack"
     href: guides/using-with-webpack.md
-  - name: "2.10 Using with puppeteer"
+  - name: "2.10 Using with Puppeteer"
     href: guides/using-with-puppeteer.md
   - name: "2.11 Using with MongoDB"
     href: guides/using-with-mongodb.md

@@ -1,10 +1,10 @@
 ---
-title: "8.2 Feature extraction"
+title: "8.2 Feature Extraction"
 description: "scikit-learn, 8.2 Feature extraction: 8.2.1 Loading features from dicts, 8.2.2 Feature hashing, 8.2.3 Text feature extraction, 8.2.4 Image feature extraction."
 ms.date: 2026-10-25
 ---
 
-# 8.2 Feature extraction
+# 8.2 Feature Extraction
 
 Sources: [scikit-learn User Guide, 8.2 Feature extraction](https://scikit-learn.org/stable/modules/feature_extraction.html).
 

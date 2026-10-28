@@ -1,10 +1,10 @@
 ---
-title: "11.1 Data storage"
+title: "11.1 Data Storage"
 description: "Microsoft Azure, 11.1 Data storage: Azure Data Lake Storage, Azure Blob Storage, OneLake."
 ms.date: 2026-10-27
 ---
 
-# 11.1 Data storage
+# 11.1 Data Storage
 
 ## Classification
 

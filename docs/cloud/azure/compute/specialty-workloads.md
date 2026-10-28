@@ -1,10 +1,10 @@
 ---
-title: "4.4 Specialty workloads"
+title: "4.4 Specialty Workloads"
 description: "Microsoft Azure, 4.4 Specialty workloads: Azure CycleCloud, Azure Service Fabric, Azure Quantum, Azure Virtual Desktop, Azure Dedicated Host."
 ms.date: 2026-10-27
 ---
 
-# 4.4 Specialty workloads
+# 4.4 Specialty Workloads
 
 ## Classification
 

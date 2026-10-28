@@ -1,10 +1,10 @@
 ---
-title: "13.4 Enterprise intelligence layers"
+title: "13.4 Enterprise Intelligence Layers"
 description: "Microsoft Azure, 13.4 Enterprise intelligence layers: Work IQ, Fabric IQ, Foundry IQ."
 ms.date: 2026-10-27
 ---
 
-# 13.4 Enterprise intelligence layers
+# 13.4 Enterprise Intelligence Layers
 
 ## Classification
 

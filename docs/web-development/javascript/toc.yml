@@ -187,27 +187,27 @@ items:
     href: ecmascript-language-statements-and-declarations/empty-statement.md
   - name: "14.5 Expression Statement"
     href: ecmascript-language-statements-and-declarations/expression-statement.md
-  - name: "14.6 The if Statement"
+  - name: "14.6 The If Statement"
     href: ecmascript-language-statements-and-declarations/the-if-statement.md
   - name: "14.7 Iteration Statements"
     href: ecmascript-language-statements-and-declarations/iteration-statements.md
-  - name: "14.8 The continue Statement"
+  - name: "14.8 The Continue Statement"
     href: ecmascript-language-statements-and-declarations/the-continue-statement.md
-  - name: "14.9 The break Statement"
+  - name: "14.9 The Break Statement"
     href: ecmascript-language-statements-and-declarations/the-break-statement.md
-  - name: "14.10 The return Statement"
+  - name: "14.10 The Return Statement"
     href: ecmascript-language-statements-and-declarations/the-return-statement.md
   - name: "14.11 The with Statement"
     href: ecmascript-language-statements-and-declarations/the-with-statement.md
-  - name: "14.12 The switch Statement"
+  - name: "14.12 The Switch Statement"
     href: ecmascript-language-statements-and-declarations/the-switch-statement.md
   - name: "14.13 Labelled Statements"
     href: ecmascript-language-statements-and-declarations/labelled-statements.md
-  - name: "14.14 The throw Statement"
+  - name: "14.14 The Throw Statement"
     href: ecmascript-language-statements-and-declarations/the-throw-statement.md
-  - name: "14.15 The try Statement"
+  - name: "14.15 The Try Statement"
     href: ecmascript-language-statements-and-declarations/the-try-statement.md
-  - name: "14.16 The debugger Statement"
+  - name: "14.16 The Debugger Statement"
     href: ecmascript-language-statements-and-declarations/the-debugger-statement.md
 - name: "15. ECMAScript Language: Functions and Classes"
   href: ecmascript-language-functions-and-classes/index.md
@@ -416,9 +416,9 @@ items:
   items:
   - name: "D.1 Host Hooks"
     href: host-layering-points/host-hooks.md
-  - name: "D.2 Host-defined Fields"
+  - name: "D.2 Host-Defined Fields"
     href: host-layering-points/host-defined-fields.md
-  - name: "D.3 Host-defined Objects"
+  - name: "D.3 Host-Defined Objects"
     href: host-layering-points/host-defined-objects.md
   - name: "D.4 Running Jobs"
     href: host-layering-points/running-jobs.md

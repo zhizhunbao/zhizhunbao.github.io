@@ -8,7 +8,7 @@ items:
 - name: "Chapter 1. Software Architecture"
   href: chapter-1/index.md
   items:
-  - name: "1.1 Run-time Abstraction"
+  - name: "1.1 Run-Time Abstraction"
     href: chapter-1/1-1-run-time-abstraction.md
   - name: "1.2 Elements"
     href: chapter-1/1-2-elements.md
@@ -26,7 +26,7 @@ items:
     href: chapter-1/1-8-related-work.md
   - name: "1.9 Summary"
     href: chapter-1/1-9-summary.md
-- name: "Chapter 2. Network-based Application Architectures"
+- name: "Chapter 2. Network-Based Application Architectures"
   href: chapter-2/index.md
   items:
   - name: "2.1 Scope"
@@ -37,12 +37,12 @@ items:
     href: chapter-2/2-3-architectural-properties-of-key-interest.md
   - name: "2.4 Summary"
     href: chapter-2/2-4-summary.md
-- name: "Chapter 3. Network-based Architectural Styles"
+- name: "Chapter 3. Network-Based Architectural Styles"
   href: chapter-3/index.md
   items:
   - name: "3.1 Classification Methodology"
     href: chapter-3/3-1-classification-methodology.md
-  - name: "3.2 Data-flow Styles"
+  - name: "3.2 Data-Flow Styles"
     href: chapter-3/3-2-data-flow-styles.md
   - name: "3.3 Replication Styles"
     href: chapter-3/3-3-replication-styles.md

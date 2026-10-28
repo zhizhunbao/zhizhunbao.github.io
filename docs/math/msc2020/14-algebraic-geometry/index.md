@@ -1,7 +1,7 @@
 ---
-title: "14 Algebraic geometry"
+title: "14 Algebraic Geometry"
 description: "MSC2020 class 14-XX, Algebraic geometry: 17 subclasses, 174 classes."
 ms.date: 2026-10-27
 ---
 
-# 14 Algebraic geometry
+# 14 Algebraic Geometry

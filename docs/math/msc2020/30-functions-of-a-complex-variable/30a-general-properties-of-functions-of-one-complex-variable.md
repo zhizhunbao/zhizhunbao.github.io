@@ -1,7 +1,7 @@
 ---
-title: "30A General properties of functions of one complex variable"
+title: "30A General Properties of Functions of One Complex Variable"
 description: "MSC2020 class 30Axx, General properties of functions of one complex variable: 2 classes."
 ms.date: 2026-10-27
 ---
 
-# 30A General properties of functions of one complex variable
+# 30A General Properties of Functions of One Complex Variable

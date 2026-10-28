@@ -1,10 +1,10 @@
 ---
-title: "4.1 Basic testing, including test case design"
+title: "4.1 Basic Testing, Including Test Case Design"
 description: "CS2023 SDF-Practices, 4.1 Basic testing, including test case design (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 4.1 Basic testing, including test case design
+# 4.1 Basic Testing, Including Test Case Design
 
 Sources: [CS2023 Body of Knowledge, SDF-Practices, topic 1, p. 170](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=170).
 

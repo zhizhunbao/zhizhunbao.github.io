@@ -1,7 +1,7 @@
 ---
-title: "6.3 Computational complexity and cryptography"
+title: "6.3 Computational Complexity and Cryptography"
 description: "ACM CCS 2012 class Theory of computation > Computational complexity and cryptography."
 ms.date: 2026-10-27
 ---
 
-# 6.3 Computational complexity and cryptography
+# 6.3 Computational Complexity and Cryptography

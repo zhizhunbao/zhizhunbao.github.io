@@ -1,10 +1,10 @@
 ---
-title: "2.1 Threats and vulnerabilities"
+title: "2.1 Threats and Vulnerabilities"
 description: "CompTIA Security+, 2.1 Threats and vulnerabilities: Threats, Vulnerabilities."
 ms.date: 2026-10-25
 ---
 
-# 2.1 Threats and vulnerabilities
+# 2.1 Threats and Vulnerabilities
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 2.1](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

@@ -1,10 +1,10 @@
 ---
-title: "11.5 Analytical data store"
+title: "11.5 Analytical Data Store"
 description: "Microsoft Azure, 11.5 Analytical data store: SQL database in Fabric, Fabric Data Warehouse, Fabric lakehouse, Eventhouse, Azure Databricks, Azure Data Explorer, Azure SQL Database, Azure Cosmos DB, Azure Synapse Analytics."
 ms.date: 2026-10-27
 ---
 
-# 11.5 Analytical data store
+# 11.5 Analytical Data Store
 
 ## Classification
 

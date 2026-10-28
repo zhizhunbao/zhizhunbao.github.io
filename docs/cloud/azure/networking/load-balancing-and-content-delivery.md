@@ -1,10 +1,10 @@
 ---
-title: "7.2 Load balancing and content delivery"
+title: "7.2 Load Balancing and Content Delivery"
 description: "Microsoft Azure, 7.2 Load balancing and content delivery: Load Balancer, Application Gateway, Azure Front Door."
 ms.date: 2026-10-27
 ---
 
-# 7.2 Load balancing and content delivery
+# 7.2 Load Balancing and Content Delivery
 
 ## Classification
 

@@ -1,10 +1,10 @@
 ---
-title: "17.5 Role-based access control"
+title: "17.5 Role-Based Access Control"
 description: "Microsoft Azure, 17.5 Role-based access control: Security principal, Role definition, Scope, Role assignment."
 ms.date: 2026-10-27
 ---
 
-# 17.5 Role-based access control
+# 17.5 Role-Based Access Control
 
 ## Classification
 

@@ -1,10 +1,10 @@
 ---
-title: "13.2 Prebuilt AI services"
+title: "13.2 Prebuilt AI Services"
 description: "Microsoft Azure, 13.2 Prebuilt AI services: Foundry Tools, Azure OpenAI."
 ms.date: 2026-10-27
 ---
 
-# 13.2 Prebuilt AI services
+# 13.2 Prebuilt AI Services
 
 ## Classification
 

@@ -45,7 +45,7 @@ items:
   items:
   - name: "5.1 More on Lists"
     href: data-structures/more-on-lists.md
-  - name: "5.2 The del statement"
+  - name: "5.2 The del Statement"
     href: data-structures/the-del-statement.md
   - name: "5.3 Tuples and Sequences"
     href: data-structures/tuples-and-sequences.md
@@ -70,12 +70,12 @@ items:
     href: modules/the-dir-function.md
   - name: "6.4 Packages"
     href: modules/packages.md
-- name: "7. Input and output"
+- name: "7. Input and Output"
   href: input-and-output/index.md
   items:
-  - name: "7.1 Fancier output formatting"
+  - name: "7.1 Fancier Output Formatting"
     href: input-and-output/fancier-output-formatting.md
-  - name: "7.2 Reading and writing files"
+  - name: "7.2 Reading and Writing Files"
     href: input-and-output/reading-and-writing-files.md
 - name: "8. Errors and Exceptions"
   href: errors-and-exceptions/index.md
@@ -90,7 +90,7 @@ items:
     href: errors-and-exceptions/raising-exceptions.md
   - name: "8.5 Exception Chaining"
     href: errors-and-exceptions/exception-chaining.md
-  - name: "8.6 User-defined Exceptions"
+  - name: "8.6 User-Defined Exceptions"
     href: errors-and-exceptions/user-defined-exceptions.md
   - name: "8.7 Defining Clean-up Actions"
     href: errors-and-exceptions/defining-clean-up-actions.md
@@ -123,51 +123,51 @@ items:
     href: classes/generators.md
   - name: "9.10 Generator Expressions"
     href: classes/generator-expressions.md
-- name: "10. Brief tour of the standard library"
+- name: "10. Brief Tour of the Standard Library"
   href: brief-tour-of-the-standard-library/index.md
   items:
-  - name: "10.1 Operating system interface"
+  - name: "10.1 Operating System Interface"
     href: brief-tour-of-the-standard-library/operating-system-interface.md
-  - name: "10.2 File wildcards"
+  - name: "10.2 File Wildcards"
     href: brief-tour-of-the-standard-library/file-wildcards.md
-  - name: "10.3 Command-line arguments"
+  - name: "10.3 Command-Line Arguments"
     href: brief-tour-of-the-standard-library/command-line-arguments.md
-  - name: "10.4 Error output redirection and program termination"
+  - name: "10.4 Error Output Redirection and Program Termination"
     href: brief-tour-of-the-standard-library/error-output-redirection-and-program-termination.md
-  - name: "10.5 String pattern matching"
+  - name: "10.5 String Pattern Matching"
     href: brief-tour-of-the-standard-library/string-pattern-matching.md
   - name: "10.6 Mathematics"
     href: brief-tour-of-the-standard-library/mathematics.md
-  - name: "10.7 Internet access"
+  - name: "10.7 Internet Access"
     href: brief-tour-of-the-standard-library/internet-access.md
-  - name: "10.8 Dates and times"
+  - name: "10.8 Dates and Times"
     href: brief-tour-of-the-standard-library/dates-and-times.md
-  - name: "10.9 Data compression"
+  - name: "10.9 Data Compression"
     href: brief-tour-of-the-standard-library/data-compression.md
-  - name: "10.10 Performance measurement"
+  - name: "10.10 Performance Measurement"
     href: brief-tour-of-the-standard-library/performance-measurement.md
-  - name: "10.11 Quality control"
+  - name: "10.11 Quality Control"
     href: brief-tour-of-the-standard-library/quality-control.md
-  - name: "10.12 Batteries included"
+  - name: "10.12 Batteries Included"
     href: brief-tour-of-the-standard-library/batteries-included.md
-- name: "11. Brief tour of the standard library — part II"
+- name: "11. Brief Tour of the Standard Library — Part II"
   href: brief-tour-of-the-standard-library-part-ii/index.md
   items:
-  - name: "11.1 Output formatting"
+  - name: "11.1 Output Formatting"
     href: brief-tour-of-the-standard-library-part-ii/output-formatting.md
   - name: "11.2 Templating"
     href: brief-tour-of-the-standard-library-part-ii/templating.md
-  - name: "11.3 Working with binary data record layouts"
+  - name: "11.3 Working with Binary Data Record Layouts"
     href: brief-tour-of-the-standard-library-part-ii/working-with-binary-data-record-layouts.md
-  - name: "11.4 Multi-threading"
+  - name: "11.4 Multi-Threading"
     href: brief-tour-of-the-standard-library-part-ii/multi-threading.md
   - name: "11.5 Logging"
     href: brief-tour-of-the-standard-library-part-ii/logging.md
-  - name: "11.6 Weak references"
+  - name: "11.6 Weak References"
     href: brief-tour-of-the-standard-library-part-ii/weak-references.md
-  - name: "11.7 Tools for working with lists"
+  - name: "11.7 Tools for Working with Lists"
     href: brief-tour-of-the-standard-library-part-ii/tools-for-working-with-lists.md
-  - name: "11.8 Decimal floating-point arithmetic"
+  - name: "11.8 Decimal Floating-Point Arithmetic"
     href: brief-tour-of-the-standard-library-part-ii/decimal-floating-point-arithmetic.md
 - name: "12. Virtual Environments and Packages"
   href: virtual-environments-and-packages/index.md

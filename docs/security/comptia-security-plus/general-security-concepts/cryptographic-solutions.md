@@ -1,10 +1,10 @@
 ---
-title: "1.3 Cryptographic solutions"
+title: "1.3 Cryptographic Solutions"
 description: "CompTIA Security+, 1.3 Cryptographic solutions: Public key infrastructure (PKI), Certificates, Encryption, Digital signatures, Salting, Tools, Obfuscation, Hashing algorithms."
 ms.date: 2026-10-25
 ---
 
-# 1.3 Cryptographic solutions
+# 1.3 Cryptographic Solutions
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 1.3](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

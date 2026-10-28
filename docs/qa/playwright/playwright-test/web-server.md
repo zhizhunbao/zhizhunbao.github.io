@@ -1,10 +1,10 @@
 ---
-title: "4.18 Web server"
+title: "4.18 Web Server"
 description: "Playwright, 4.18 Web server."
 ms.date: 2026-10-25
 ---
 
-# 4.18 Web server
+# 4.18 Web Server
 
 Sources: [Playwright documentation (Node.js), 4.18 Web server](https://playwright.dev/docs/test-webserver).
 

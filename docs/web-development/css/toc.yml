@@ -4,7 +4,7 @@ items:
 - name: "1. Introduction"
   href: introduction/index.md
   items:
-  - name: "1.1 What is CSS?"
+  - name: "1.1 What Is CSS?"
     href: introduction/what-is-css.md
   - name: "1.2 Background: The W3C Process and CSS"
     href: introduction/background-the-w3c-process-and-css.md
@@ -15,7 +15,7 @@ items:
     href: classification-of-css-specifications/cascading-style-sheets-css-the-official-definition.md
   - name: "2.2 Reliable Candidate Recommendations"
     href: classification-of-css-specifications/reliable-candidate-recommendations.md
-  - name: "2.3 Fairly Stable Modules with limited implementation experience"
+  - name: "2.3 Fairly Stable Modules with Limited Implementation Experience"
     href: classification-of-css-specifications/fairly-stable-modules-with-limited-implementation-experience.md
   - name: "2.4 Modules with Rough Interoperability"
     href: classification-of-css-specifications/modules-with-rough-interoperability.md
@@ -34,7 +34,7 @@ items:
     href: requirements-for-responsible-implementation-of-css/implementations-of-cr-level-features.md
 - name: "4. Safe to Release pre-CR Exceptions"
   href: safe-to-release-pre-cr-exceptions/index.md
-- name: "5. The text/css media type"
+- name: "5. The text/css Media Type"
   href: the-text-css-media-type/index.md
 - name: "6. Security Considerations"
   href: security-considerations/index.md

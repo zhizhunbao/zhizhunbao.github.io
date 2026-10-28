@@ -1,10 +1,10 @@
 ---
-title: "15.6 Instruction selection"
+title: "15.6 Instruction Selection"
 description: "CS2023 FPL-Code, 15.6 Instruction selection (Non-core)."
 ms.date: 2026-10-25
 ---
 
-# 15.6 Instruction selection
+# 15.6 Instruction Selection
 
 Sources: [CS2023 Body of Knowledge, FPL-Code, topic 6, p. 81](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=81).
 

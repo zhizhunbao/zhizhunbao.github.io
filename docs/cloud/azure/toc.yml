@@ -1,45 +1,45 @@
 items:
-- name: "1. Cloud computing"
+- name: "1. Cloud Computing"
   href: cloud-computing/index.md
   items:
-  - name: "1.1 Deployment models"
+  - name: "1.1 Deployment Models"
     href: cloud-computing/deployment-models.md
-  - name: "1.2 Service models"
+  - name: "1.2 Service Models"
     href: cloud-computing/service-models.md
   - name: "1.3 Actors"
     href: cloud-computing/actors.md
-  - name: "1.4 Essential characteristics"
+  - name: "1.4 Essential Characteristics"
     href: cloud-computing/essential-characteristics.md
   - name: "1.5 Benefits"
     href: cloud-computing/benefits.md
-  - name: "1.6 Consumption-based model"
+  - name: "1.6 Consumption-Based Model"
     href: cloud-computing/consumption-based-model.md
-- name: "2. Core architectural components of Azure"
+- name: "2. Core Architectural Components of Azure"
   href: core-architectural-components/index.md
   items:
-  - name: "2.1 Physical infrastructure"
+  - name: "2.1 Physical Infrastructure"
     href: core-architectural-components/physical-infrastructure.md
-  - name: "2.2 Management infrastructure"
+  - name: "2.2 Management Infrastructure"
     href: core-architectural-components/management-infrastructure.md
 - name: "3. Reliability"
   href: reliability/index.md
   items:
-  - name: "3.1 Azure regions"
+  - name: "3.1 Azure Regions"
     href: reliability/azure-regions.md
-  - name: "3.2 Azure availability zones"
+  - name: "3.2 Azure Availability Zones"
     href: reliability/azure-availability-zones.md
-  - name: "3.3 Reliability concepts"
+  - name: "3.3 Reliability Concepts"
     href: reliability/reliability-concepts.md
 - name: "4. Compute"
   href: compute/index.md
   items:
-  - name: "4.1 Infrastructure as a service (IaaS)"
+  - name: "4.1 Infrastructure as a Service (IaaS)"
     href: compute/infrastructure-as-a-service.md
-  - name: "4.2 Platform as a service (PaaS)"
+  - name: "4.2 Platform as a Service (PaaS)"
     href: compute/platform-as-a-service.md
-  - name: "4.3 Functions as a service (FaaS)"
+  - name: "4.3 Functions as a Service (FaaS)"
     href: compute/functions-as-a-service.md
-  - name: "4.4 Specialty workloads"
+  - name: "4.4 Specialty Workloads"
     href: compute/specialty-workloads.md
 - name: "5. Containers"
   href: containers/index.md
@@ -48,61 +48,61 @@ items:
     href: containers/docker.md
   - name: "5.2 Kubernetes"
     href: containers/kubernetes.md
-  - name: "5.3 Azure container services"
+  - name: "5.3 Azure Container Services"
     href: containers/azure-container-services.md
 - name: "6. Web"
   href: web/index.md
 - name: "7. Networking"
   href: networking/index.md
   items:
-  - name: "7.1 Networking foundation"
+  - name: "7.1 Networking Foundation"
     href: networking/networking-foundation.md
-  - name: "7.2 Load balancing and content delivery"
+  - name: "7.2 Load Balancing and Content Delivery"
     href: networking/load-balancing-and-content-delivery.md
-  - name: "7.3 Hybrid connectivity"
+  - name: "7.3 Hybrid Connectivity"
     href: networking/hybrid-connectivity.md
-  - name: "7.4 Network security"
+  - name: "7.4 Network Security"
     href: networking/network-security.md
-  - name: "7.5 Network management and monitoring"
+  - name: "7.5 Network Management and Monitoring"
     href: networking/network-management-and-monitoring.md
-  - name: "7.6 Container networking"
+  - name: "7.6 Container Networking"
     href: networking/container-networking.md
 - name: "8. Storage"
   href: storage/index.md
   items:
-  - name: "8.1 Storage accounts"
+  - name: "8.1 Storage Accounts"
     href: storage/storage-accounts.md
-  - name: "8.2 Storage redundancy"
+  - name: "8.2 Storage Redundancy"
     href: storage/storage-redundancy.md
-  - name: "8.3 Storage services"
+  - name: "8.3 Storage Services"
     href: storage/storage-services.md
-  - name: "8.4 Data migration options"
+  - name: "8.4 Data Migration Options"
     href: storage/data-migration-options.md
-  - name: "8.5 File movement options"
+  - name: "8.5 File Movement Options"
     href: storage/file-movement-options.md
-  - name: "8.6 Data management"
+  - name: "8.6 Data Management"
     href: storage/data-management.md
 - name: "9. Databases"
   href: databases/index.md
   items:
-  - name: "9.1 Relational data stores"
+  - name: "9.1 Relational Data Stores"
     href: databases/relational-data-stores.md
-  - name: "9.2 Document data stores"
+  - name: "9.2 Document Data Stores"
     href: databases/document-data-stores.md
-  - name: "9.3 Column-family data stores"
+  - name: "9.3 Column-Family Data Stores"
     href: databases/column-family-data-stores.md
-  - name: "9.4 Key-value data stores"
+  - name: "9.4 Key-Value Data Stores"
     href: databases/key-value-data-stores.md
-  - name: "9.5 Graph data stores"
+  - name: "9.5 Graph Data Stores"
     href: databases/graph-data-stores.md
-  - name: "9.6 Time-series data stores"
+  - name: "9.6 Time-Series Data Stores"
     href: databases/time-series-data-stores.md
 - name: "10. Integration"
   href: integration/index.md
   items:
   - name: "10.1 Workflows"
     href: integration/workflows.md
-  - name: "10.2 API management"
+  - name: "10.2 API Management"
     href: integration/api-management.md
   - name: "10.3 Messages"
     href: integration/messages.md
@@ -111,63 +111,63 @@ items:
 - name: "11. Analytics"
   href: analytics/index.md
   items:
-  - name: "11.1 Data storage"
+  - name: "11.1 Data Storage"
     href: analytics/data-storage.md
-  - name: "11.2 Batch processing"
+  - name: "11.2 Batch Processing"
     href: analytics/batch-processing.md
-  - name: "11.3 Real-time message ingestion"
+  - name: "11.3 Real-Time Message Ingestion"
     href: analytics/real-time-message-ingestion.md
-  - name: "11.4 Stream processing"
+  - name: "11.4 Stream Processing"
     href: analytics/stream-processing.md
-  - name: "11.5 Analytical data store"
+  - name: "11.5 Analytical Data Store"
     href: analytics/analytical-data-store.md
-  - name: "11.6 Analytics and reporting"
+  - name: "11.6 Analytics and Reporting"
     href: analytics/analytics-and-reporting.md
   - name: "11.7 Orchestration"
     href: analytics/orchestration.md
 - name: "12. Internet of Things"
   href: internet-of-things/index.md
   items:
-  - name: "12.1 IoT devices"
+  - name: "12.1 IoT Devices"
     href: internet-of-things/iot-devices.md
-  - name: "12.2 IoT cloud services"
+  - name: "12.2 IoT Cloud Services"
     href: internet-of-things/iot-cloud-services.md
-  - name: "12.3 Edge runtime"
+  - name: "12.3 Edge Runtime"
     href: internet-of-things/edge-runtime.md
 - name: "13. AI + Machine Learning"
   href: ai-machine-learning/index.md
   items:
-  - name: "13.1 AI development platforms"
+  - name: "13.1 AI Development Platforms"
     href: ai-machine-learning/ai-development-platforms.md
-  - name: "13.2 Prebuilt AI services"
+  - name: "13.2 Prebuilt AI Services"
     href: ai-machine-learning/prebuilt-ai-services.md
-  - name: "13.3 Data platforms for AI"
+  - name: "13.3 Data Platforms for AI"
     href: ai-machine-learning/data-platforms-for-ai.md
-  - name: "13.4 Enterprise intelligence layers"
+  - name: "13.4 Enterprise Intelligence Layers"
     href: ai-machine-learning/enterprise-intelligence-layers.md
 - name: "14. Media"
   href: media-category/index.md
 - name: "17. Identity"
   href: identity/index.md
   items:
-  - name: "17.1 Directory services"
+  - name: "17.1 Directory Services"
     href: identity/directory-services.md
-  - name: "17.2 Authentication methods"
+  - name: "17.2 Authentication Methods"
     href: identity/authentication-methods.md
-  - name: "17.3 External identities"
+  - name: "17.3 External Identities"
     href: identity/external-identities.md
   - name: "17.4 Conditional Access"
     href: identity/conditional-access.md
-  - name: "17.5 Role-based access control"
+  - name: "17.5 Role-Based Access Control"
     href: identity/role-based-access-control.md
 - name: "18. Security"
   href: security/index.md
   items:
-  - name: "18.1 Zero Trust model"
+  - name: "18.1 Zero Trust Model"
     href: security/zero-trust-model.md
-  - name: "18.2 Defense-in-depth"
+  - name: "18.2 Defense-in-Depth"
     href: security/defense-in-depth.md
-  - name: "18.3 Encryption and key management"
+  - name: "18.3 Encryption and Key Management"
     href: security/encryption-and-key-management.md
   - name: "18.4 Microsoft Defender for Cloud"
     href: security/microsoft-defender-for-cloud.md
@@ -176,15 +176,15 @@ items:
 - name: "20. Management and Governance"
   href: management-and-governance/index.md
   items:
-  - name: "20.1 Cost management"
+  - name: "20.1 Cost Management"
     href: management-and-governance/cost-management.md
-  - name: "20.2 Governance and compliance"
+  - name: "20.2 Governance and Compliance"
     href: management-and-governance/governance-and-compliance.md
-  - name: "20.3 Managing and deploying resources"
+  - name: "20.3 Managing and Deploying Resources"
     href: management-and-governance/managing-and-deploying-resources.md
-  - name: "20.4 Monitoring tools"
+  - name: "20.4 Monitoring Tools"
     href: management-and-governance/monitoring-tools.md
-- name: "21. Hybrid + multicloud"
+- name: "21. Hybrid + Multicloud"
   href: hybrid-multicloud/index.md
 - name: "23. DevOps"
   href: devops/index.md
@@ -200,7 +200,7 @@ items:
 - name: "24. Migration"
   href: migration/index.md
   items:
-  - name: "24.1 Migration strategies"
+  - name: "24.1 Migration Strategies"
     href: migration/migration-strategies.md
   - name: "24.2 Decide"
     href: migration/decide.md
@@ -241,13 +241,13 @@ items:
 - name: "27. Azure Architecture Center"
   href: architecture-center/index.md
   items:
-  - name: "27.1 Architecture styles"
+  - name: "27.1 Architecture Styles"
     href: architecture-center/architecture-styles.md
-  - name: "27.2 Best practices"
+  - name: "27.2 Best Practices"
     href: architecture-center/best-practices.md
-  - name: "27.3 Cloud design patterns"
+  - name: "27.3 Cloud Design Patterns"
     href: architecture-center/cloud-design-patterns.md
-  - name: "27.4 Technology choices"
+  - name: "27.4 Technology Choices"
     href: architecture-center/technology-choices.md
   - name: "27.5 Architectures"
     href: architecture-center/architectures.md

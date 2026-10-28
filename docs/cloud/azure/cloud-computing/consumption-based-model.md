@@ -1,10 +1,10 @@
 ---
-title: "1.6 Consumption-based model"
+title: "1.6 Consumption-Based Model"
 description: "Microsoft Azure, 1.6 Consumption-based model: capital expenditure (CapEx), operational expenditure (OpEx), pay-as-you-go pricing."
 ms.date: 2026-10-26
 ---
 
-# 1.6 Consumption-based model
+# 1.6 Consumption-Based Model
 
 ## Classification
 

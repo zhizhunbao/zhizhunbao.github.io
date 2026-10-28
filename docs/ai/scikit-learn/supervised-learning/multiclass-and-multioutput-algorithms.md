@@ -1,10 +1,10 @@
 ---
-title: "1.12 Multiclass and multioutput algorithms"
+title: "1.12 Multiclass and Multioutput Algorithms"
 description: "scikit-learn, 1.12 Multiclass and multioutput algorithms: 1.12.1 Multiclass classification, 1.12.2 Multilabel classification, 1.12.3 Multiclass-multioutput classification, 1.12.4 Multioutput regression."
 ms.date: 2026-10-25
 ---
 
-# 1.12 Multiclass and multioutput algorithms
+# 1.12 Multiclass and Multioutput Algorithms
 
 Sources: [scikit-learn User Guide, 1.12 Multiclass and multioutput algorithms](https://scikit-learn.org/stable/modules/multiclass.html).
 

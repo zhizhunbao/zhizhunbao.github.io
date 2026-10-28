@@ -1,7 +1,7 @@
 ---
-title: "14N Projective and enumerative algebraic geometry"
+title: "14N Projective and Enumerative Algebraic Geometry"
 description: "MSC2020 class 14Nxx, Projective and enumerative algebraic geometry: 8 classes."
 ms.date: 2026-10-27
 ---
 
-# 14N Projective and enumerative algebraic geometry
+# 14N Projective and Enumerative Algebraic Geometry

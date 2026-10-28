@@ -1,10 +1,10 @@
 ---
-title: "4.4 Performance impact of design and implementation choices, including granularity, overhead, consensus costs, and energy consumption"
+title: "4.4 Performance Impact of Design and Implementation Choices, Including Granularity, Overhead, Consensus Costs, and Energy Consumption"
 description: "CS2023 PDC-Evaluation, 4.4 Performance impact of design and implementation choices, including granularity, overhead, consensus costs, and energy consumption (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 4.4 Performance impact of design and implementation choices, including granularity, overhead, consensus costs, and energy consumption
+# 4.4 Performance Impact of Design and Implementation Choices, Including Granularity, Overhead, Consensus Costs, and Energy Consumption
 
 Sources: [CS2023 Body of Knowledge, PDC-Evaluation, topic 4, p. 162](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=162).
 

@@ -1,10 +1,10 @@
 ---
-title: "1.8 Physical security operations"
+title: "1.8 Physical Security Operations"
 description: "SSCP, 1.8 Physical security operations: Data center/facility assessment, Badging and visitor management, Personal device restrictions."
 ms.date: 2026-10-25
 ---
 
-# 1.8 Physical security operations
+# 1.8 Physical Security Operations
 
 Sources: [SSCP Certification Exam Outline, 1.8](https://www.isc2.org/certifications/sscp/sscp-certification-exam-outline).
 

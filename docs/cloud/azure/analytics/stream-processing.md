@@ -1,10 +1,10 @@
 ---
-title: "11.4 Stream processing"
+title: "11.4 Stream Processing"
 description: "Microsoft Azure, 11.4 Stream processing: Spark Streaming, Azure Databricks, Azure Functions, Fabric eventstreams, Azure Stream Analytics."
 ms.date: 2026-10-27
 ---
 
-# 11.4 Stream processing
+# 11.4 Stream Processing
 
 ## Classification
 

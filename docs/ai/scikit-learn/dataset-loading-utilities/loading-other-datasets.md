@@ -1,10 +1,10 @@
 ---
-title: "9.4 Loading other datasets"
+title: "9.4 Loading Other Datasets"
 description: "scikit-learn, 9.4 Loading other datasets: 9.4.1 Sample images, 9.4.2 Datasets in svmlight / libsvm format, 9.4.3 Downloading datasets from the openml.org repository, 9.4.4 Loading from external datasets."
 ms.date: 2026-10-25
 ---
 
-# 9.4 Loading other datasets
+# 9.4 Loading Other Datasets
 
 Sources: [scikit-learn User Guide, 9.4 Loading other datasets](https://scikit-learn.org/stable/datasets/loading_other_datasets.html).
 

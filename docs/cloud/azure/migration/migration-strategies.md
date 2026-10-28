@@ -1,10 +1,10 @@
 ---
-title: "24.1 Migration strategies"
+title: "24.1 Migration Strategies"
 description: "Microsoft Azure, 24.1 Migration strategies: Retire, Rehost, Replatform, Refactor, Rearchitect, Replace, Rebuild, Retain."
 ms.date: 2026-10-25
 ---
 
-# 24.1 Migration strategies
+# 24.1 Migration Strategies
 
 ## Classification
 

@@ -1,10 +1,10 @@
 ---
-title: "6.1 Fundamental concepts of networking"
+title: "6.1 Fundamental Concepts of Networking"
 description: "SSCP, 6.1 Fundamental concepts of networking."
 ms.date: 2026-10-25
 ---
 
-# 6.1 Fundamental concepts of networking
+# 6.1 Fundamental Concepts of Networking
 
 Sources: [SSCP Certification Exam Outline, 6.1](https://www.isc2.org/certifications/sscp/sscp-certification-exam-outline).
 

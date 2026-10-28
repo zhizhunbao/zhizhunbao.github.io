@@ -1,10 +1,10 @@
 ---
-title: "9.6 Time-series data stores"
+title: "9.6 Time-Series Data Stores"
 description: "Microsoft Azure, 9.6 Time-series data stores: Azure Data Explorer, Eventhouse in Microsoft Fabric."
 ms.date: 2026-10-27
 ---
 
-# 9.6 Time-series data stores
+# 9.6 Time-Series Data Stores
 
 ## Classification
 

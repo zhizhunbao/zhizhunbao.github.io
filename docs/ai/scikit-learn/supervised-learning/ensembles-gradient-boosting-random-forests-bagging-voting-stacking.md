@@ -1,10 +1,10 @@
 ---
-title: "1.11 Ensembles: Gradient boosting, random forests, bagging, voting, stacking"
+title: "1.11 Ensembles: Gradient Boosting, Random Forests, Bagging, Voting, Stacking"
 description: "scikit-learn, 1.11 Ensembles: Gradient boosting, random forests, bagging, voting, stacking: 1.11.1 Gradient-boosted trees, 1.11.2 Random forests and other randomized tree ensembles, 1.11.3 Bagging meta-estimator, 1.11.4 Voting Classifier, 1.11.5 Voting Regressor, 1.11.6 Stacked generalization, 1.11.7 AdaBoost."
 ms.date: 2026-10-25
 ---
 
-# 1.11 Ensembles: Gradient boosting, random forests, bagging, voting, stacking
+# 1.11 Ensembles: Gradient Boosting, Random Forests, Bagging, Voting, Stacking
 
 Sources: [scikit-learn User Guide, 1.11 Ensembles: Gradient boosting, random forests, bagging, voting, stacking](https://scikit-learn.org/stable/modules/ensemble.html).
 

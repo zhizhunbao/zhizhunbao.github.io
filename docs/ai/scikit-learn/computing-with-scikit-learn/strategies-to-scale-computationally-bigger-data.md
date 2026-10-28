@@ -1,10 +1,10 @@
 ---
-title: "10.1 Strategies to scale computationally: bigger data"
+title: "10.1 Strategies to Scale Computationally: Bigger Data"
 description: "scikit-learn, 10.1 Strategies to scale computationally: bigger data: 10.1.1 Scaling with instances using out-of-core learning."
 ms.date: 2026-10-25
 ---
 
-# 10.1 Strategies to scale computationally: bigger data
+# 10.1 Strategies to Scale Computationally: Bigger Data
 
 Sources: [scikit-learn User Guide, 10.1 Strategies to scale computationally: bigger data](https://scikit-learn.org/stable/computing/scaling_strategies.html).
 

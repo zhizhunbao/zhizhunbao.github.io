@@ -1,7 +1,7 @@
 ---
-title: "4.1 Network architectures"
+title: "4.1 Network Architectures"
 description: "ACM CCS 2012 class Networks > Network architectures."
 ms.date: 2026-10-27
 ---
 
-# 4.1 Network architectures
+# 4.1 Network Architectures

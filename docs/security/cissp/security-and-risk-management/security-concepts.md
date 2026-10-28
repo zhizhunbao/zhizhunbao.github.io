@@ -1,10 +1,10 @@
 ---
-title: "1.2 Security concepts"
+title: "1.2 Security Concepts"
 description: "CISSP, 1.2 Security concepts."
 ms.date: 2026-10-25
 ---
 
-# 1.2 Security concepts
+# 1.2 Security Concepts
 
 Sources: [CISSP Certification Exam Outline, 1.2](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

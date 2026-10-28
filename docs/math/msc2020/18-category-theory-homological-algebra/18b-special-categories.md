@@ -1,7 +1,7 @@
 ---
-title: "18B Special categories"
+title: "18B Special Categories"
 description: "MSC2020 class 18Bxx, Special categories: 8 classes."
 ms.date: 2026-10-27
 ---
 
-# 18B Special categories
+# 18B Special Categories

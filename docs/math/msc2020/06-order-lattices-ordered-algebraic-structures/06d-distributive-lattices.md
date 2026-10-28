@@ -1,7 +1,7 @@
 ---
-title: "06D Distributive lattices"
+title: "06D Distributive Lattices"
 description: "MSC2020 class 06Dxx, Distributive lattices: 11 classes."
 ms.date: 2026-10-27
 ---
 
-# 06D Distributive lattices
+# 06D Distributive Lattices

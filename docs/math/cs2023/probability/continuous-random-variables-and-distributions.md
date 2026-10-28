@@ -1,10 +1,10 @@
 ---
-title: "2.3 Continuous random variables and distributions"
+title: "2.3 Continuous Random Variables and Distributions"
 description: "CS2023 MSF-Probability, 2.3 Continuous random variables and distributions (CS Core): Continuous random variable, Continuous distribution."
 ms.date: 2026-10-27
 ---
 
-# 2.3 Continuous random variables and distributions
+# 2.3 Continuous Random Variables and Distributions
 
 ## Classification
 

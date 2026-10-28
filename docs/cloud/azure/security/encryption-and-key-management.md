@@ -1,10 +1,10 @@
 ---
-title: "18.3 Encryption and key management"
+title: "18.3 Encryption and Key Management"
 description: "Microsoft Azure, 18.3 Encryption and key management: Encryption at rest, Encryption in transit, Azure Key Vault."
 ms.date: 2026-10-27
 ---
 
-# 18.3 Encryption and key management
+# 18.3 Encryption and Key Management
 
 ## Classification
 

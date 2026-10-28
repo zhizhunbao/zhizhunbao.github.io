@@ -1,10 +1,10 @@
 ---
-title: "1.8 Additional depth on nature of agents with examples"
+title: "1.8 Additional Depth on Nature of Agents with Examples"
 description: "CS2023 AI-Introduction, 1.8 Additional depth on nature of agents with examples (KA Core)."
 ms.date: 2026-10-25
 ---
 
-# 1.8 Additional depth on nature of agents with examples
+# 1.8 Additional Depth on Nature of Agents with Examples
 
 Sources: [CS2023 Body of Knowledge, AI-Introduction, topic 8, p. 6](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=6).
 

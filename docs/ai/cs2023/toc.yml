@@ -4,154 +4,154 @@ items:
 - name: "1. Fundamental Issues"
   href: fundamental-issues/index.md
   items:
-  - name: "1.1 Overview of AI problems, Examples of successful recent AI applications"
+  - name: "1.1 Overview of AI Problems, Examples of Successful Recent AI Applications"
     href: fundamental-issues/overview-of-ai-problems-examples-of-successful-recent-ai-applications.md
-  - name: "1.2 Definitions of agents with examples (e.g., reactive, deliberative)"
+  - name: "1.2 Definitions of Agents with Examples (e.g., reactive, deliberative)"
     href: fundamental-issues/definitions-of-agents-with-examples.md
-  - name: "1.3 What is intelligent behavior?"
+  - name: "1.3 What Is Intelligent Behavior?"
     href: fundamental-issues/what-is-intelligent-behavior.md
-  - name: "1.4 Problem characteristics"
+  - name: "1.4 Problem Characteristics"
     href: fundamental-issues/problem-characteristics.md
-  - name: "1.5 Nature of agents"
+  - name: "1.5 Nature of Agents"
     href: fundamental-issues/nature-of-agents.md
-  - name: "1.6 Overview of AI Applications, growth, and impact (economic, societal, ethics)"
+  - name: "1.6 Overview of AI Applications, Growth, and Impact (economic, societal, ethics)"
     href: fundamental-issues/overview-of-ai-applications-growth-and-impact.md
-  - name: "1.7 Practice identifying problem characteristics in example environments"
+  - name: "1.7 Practice Identifying Problem Characteristics in Example Environments"
     href: fundamental-issues/practice-identifying-problem-characteristics-in-example-environments.md
-  - name: "1.8 Additional depth on nature of agents with examples"
+  - name: "1.8 Additional Depth on Nature of Agents with Examples"
     href: fundamental-issues/additional-depth-on-nature-of-agents-with-examples.md
-  - name: "1.9 Additional depth on AI Applications, Growth, and Impact (economic, societal, ethics, security)"
+  - name: "1.9 Additional Depth on AI Applications, Growth, and Impact (economic, societal, ethics, security)"
     href: fundamental-issues/additional-depth-on-ai-applications-growth-and-impact.md
-  - name: "1.10 Philosophical issues"
+  - name: "1.10 Philosophical Issues"
     href: fundamental-issues/philosophical-issues.md
   - name: "1.11 History of AI"
     href: fundamental-issues/history-of-ai.md
 - name: "2. Search"
   href: search/index.md
   items:
-  - name: "2.1 State space representation of a problem"
+  - name: "2.1 State Space Representation of a Problem"
     href: search/state-space-representation-of-a-problem.md
-  - name: "2.2 Uninformed graph search for problem solving"
+  - name: "2.2 Uninformed Graph Search for Problem Solving"
     href: search/uninformed-graph-search-for-problem-solving.md
-  - name: "2.3 Heuristic graph search for problem solving"
+  - name: "2.3 Heuristic Graph Search for Problem Solving"
     href: search/heuristic-graph-search-for-problem-solving.md
-  - name: "2.4 Space and time complexities of graph search algorithms"
+  - name: "2.4 Space and Time Complexities of Graph Search Algorithms"
     href: search/space-and-time-complexities-of-graph-search-algorithms.md
-  - name: "2.5 Bidirectional search"
+  - name: "2.5 Bidirectional Search"
     href: search/bidirectional-search.md
-  - name: "2.6 Beam search"
+  - name: "2.6 Beam Search"
     href: search/beam-search.md
-  - name: "2.7 Two-player adversarial games"
+  - name: "2.7 Two-Player Adversarial Games"
     href: search/two-player-adversarial-games.md
-  - name: "2.8 Implementation of A* search"
+  - name: "2.8 Implementation of A* Search"
     href: search/implementation-of-a-star-search.md
-  - name: "2.9 Constraint satisfaction"
+  - name: "2.9 Constraint Satisfaction"
     href: search/constraint-satisfaction.md
-  - name: "2.10 Understanding the search space"
+  - name: "2.10 Understanding the Search Space"
     href: search/understanding-the-search-space.md
-  - name: "2.11 Local search"
+  - name: "2.11 Local Search"
     href: search/local-search.md
-  - name: "2.12 Tabu search"
+  - name: "2.12 Tabu Search"
     href: search/tabu-search.md
   - name: "2.13 Variations on A* (IDA*, SMA*, RBFS)"
     href: search/variations-on-a-star.md
-  - name: "2.14 Two-player adversarial games"
+  - name: "2.14 Two-Player Adversarial Games"
     href: search/two-player-adversarial-games-non-core.md
-  - name: "2.15 Implementation of minimax search, beam search"
+  - name: "2.15 Implementation of Minimax Search, Beam Search"
     href: search/implementation-of-minimax-search-beam-search.md
-  - name: "2.16 Expectimax search (MDP-solving) and chance nodes"
+  - name: "2.16 Expectimax Search (MDP-solving) and Chance Nodes"
     href: search/expectimax-search-and-chance-nodes.md
-  - name: "2.17 Stochastic search"
+  - name: "2.17 Stochastic Search"
     href: search/stochastic-search.md
 - name: "3. Fundamental Knowledge Representation and Reasoning"
   href: fundamental-knowledge-representation-and-reasoning/index.md
   items:
-  - name: "3.1 Types of representations"
+  - name: "3.1 Types of Representations"
     href: fundamental-knowledge-representation-and-reasoning/types-of-representations.md
-  - name: "3.2 Review of probabilistic reasoning, Bayes theorem"
+  - name: "3.2 Review of Probabilistic Reasoning, Bayes Theorem"
     href: fundamental-knowledge-representation-and-reasoning/review-of-probabilistic-reasoning-bayes-theorem.md
-  - name: "3.3 Bayesian reasoning"
+  - name: "3.3 Bayesian Reasoning"
     href: fundamental-knowledge-representation-and-reasoning/bayesian-reasoning.md
-  - name: "3.4 Random variables and probability distributions"
+  - name: "3.4 Random Variables and Probability Distributions"
     href: fundamental-knowledge-representation-and-reasoning/random-variables-and-probability-distributions.md
   - name: "3.5 Independence"
     href: fundamental-knowledge-representation-and-reasoning/independence.md
   - name: "3.6 Conditional Independence"
     href: fundamental-knowledge-representation-and-reasoning/conditional-independence.md
-  - name: "3.7 Markov chains and Markov models"
+  - name: "3.7 Markov Chains and Markov Models"
     href: fundamental-knowledge-representation-and-reasoning/markov-chains-and-markov-models.md
-  - name: "3.8 Utility and decision making"
+  - name: "3.8 Utility and Decision Making"
     href: fundamental-knowledge-representation-and-reasoning/utility-and-decision-making.md
 - name: "4. Machine Learning"
   href: machine-learning/index.md
   items:
-  - name: "4.1 Definition and examples of a broad variety of machine learning tasks"
+  - name: "4.1 Definition and Examples of a Broad Variety of Machine Learning Tasks"
     href: machine-learning/definition-and-examples-of-a-broad-variety-of-machine-learning-tasks.md
-  - name: "4.2 Fundamental ideas"
+  - name: "4.2 Fundamental Ideas"
     href: machine-learning/fundamental-ideas.md
-  - name: "4.3 A simple statistical-based supervised learning such as linear regression or decision trees"
+  - name: "4.3 A Simple Statistical-Based Supervised Learning Such as Linear Regression or Decision Trees"
     href: machine-learning/a-simple-statistical-based-supervised-learning-such-as-linear-regression-or-deci.md
-  - name: "4.4 The overfitting problem/controlling solution complexity (regularization, pruning – intuition only)"
+  - name: "4.4 The Overfitting problem/controlling Solution Complexity (regularization, pruning – intuition only)"
     href: machine-learning/the-overfitting-problem-controlling-solution-complexity.md
   - name: "4.5 Working with Data"
     href: machine-learning/working-with-data.md
   - name: "4.6 Representations"
     href: machine-learning/representations.md
-  - name: "4.7 Machine learning evaluation"
+  - name: "4.7 Machine Learning Evaluation"
     href: machine-learning/machine-learning-evaluation.md
-  - name: "4.8 Basic neural networks"
+  - name: "4.8 Basic Neural Networks"
     href: machine-learning/basic-neural-networks.md
   - name: "4.9 Ethics for Machine Learning"
     href: machine-learning/ethics-for-machine-learning.md
-  - name: "4.10 Formulation of simple machine learning as an optimization problem, such as least squares linear regression or logistic regression"
+  - name: "4.10 Formulation of Simple Machine Learning as an Optimization Problem, Such as Least Squares Linear Regression or Logistic Regression"
     href: machine-learning/formulation-of-simple-machine-learning-as-an-optimization-problem-such-as-least.md
-  - name: "4.11 Ensembles of models"
+  - name: "4.11 Ensembles of Models"
     href: machine-learning/ensembles-of-models.md
-  - name: "4.12 Deep learning"
+  - name: "4.12 Deep Learning"
     href: machine-learning/deep-learning.md
-  - name: "4.13 Performance evaluation"
+  - name: "4.13 Performance Evaluation"
     href: machine-learning/performance-evaluation.md
-  - name: "4.14 Overview of reinforcement learning methods"
+  - name: "4.14 Overview of Reinforcement Learning Methods"
     href: machine-learning/overview-of-reinforcement-learning-methods.md
-  - name: "4.15 Two or more applications of machine learning algorithms"
+  - name: "4.15 Two or More Applications of Machine Learning Algorithms"
     href: machine-learning/two-or-more-applications-of-machine-learning-algorithms.md
   - name: "4.16 Ethics for Machine Learning"
     href: machine-learning/ethics-for-machine-learning-ka-core.md
-  - name: "4.17 General statistical-based learning, parameter estimation (maximum likelihood)"
+  - name: "4.17 General Statistical-Based Learning, Parameter Estimation (maximum likelihood)"
     href: machine-learning/general-statistical-based-learning-parameter-estimation.md
-  - name: "4.18 Supervised learning"
+  - name: "4.18 Supervised Learning"
     href: machine-learning/supervised-learning.md
   - name: "4.19 Overfitting"
     href: machine-learning/overfitting.md
-  - name: "4.20 Experimental design"
+  - name: "4.20 Experimental Design"
     href: machine-learning/experimental-design.md
-  - name: "4.21 Bayesian learning"
+  - name: "4.21 Bayesian Learning"
     href: machine-learning/bayesian-learning.md
-  - name: "4.22 Deep learning"
+  - name: "4.22 Deep Learning"
     href: machine-learning/deep-learning-non-core.md
   - name: "4.23 Representations"
     href: machine-learning/representations-non-core.md
-  - name: "4.24 Unsupervised learning and clustering"
+  - name: "4.24 Unsupervised Learning and Clustering"
     href: machine-learning/unsupervised-learning-and-clustering.md
-  - name: "4.25 Graph analysis (e.g., PageRank)"
+  - name: "4.25 Graph Analysis (e.g., PageRank)"
     href: machine-learning/graph-analysis.md
-  - name: "4.26 Semi-supervised learning"
+  - name: "4.26 Semi-Supervised Learning"
     href: machine-learning/semi-supervised-learning.md
-  - name: "4.27 Graphical models"
+  - name: "4.27 Graphical Models"
     href: machine-learning/graphical-models.md
   - name: "4.28 Ensembles"
     href: machine-learning/ensembles.md
-  - name: "4.29 Learning theory"
+  - name: "4.29 Learning Theory"
     href: machine-learning/learning-theory.md
-  - name: "4.30 Reinforcement learning"
+  - name: "4.30 Reinforcement Learning"
     href: machine-learning/reinforcement-learning.md
-  - name: "4.31 Explainable / interpretable machine learning"
+  - name: "4.31 Explainable / Interpretable Machine Learning"
     href: machine-learning/explainable-interpretable-machine-learning.md
-  - name: "4.32 Recommender systems"
+  - name: "4.32 Recommender Systems"
     href: machine-learning/recommender-systems.md
-  - name: "4.33 Hardware for machine learning"
+  - name: "4.33 Hardware for Machine Learning"
     href: machine-learning/hardware-for-machine-learning.md
-  - name: "4.34 Application of machine learning algorithms to"
+  - name: "4.34 Application of Machine Learning Algorithms to"
     href: machine-learning/application-of-machine-learning-algorithms-to.md
   - name: "4.35 Ethics for Machine Learning"
     href: machine-learning/ethics-for-machine-learning-non-core.md
@@ -160,166 +160,166 @@ items:
   items:
   - name: "5.1 At least one application of AI to a specific problem and field, such as medicine, health, sustainability, social media, economics, education, robotics, etc. (choose at least one for the CS Core)."
     href: applications-and-societal-impact/at-least-one-application-of-ai-to-a-specific-problem-and-field-such-as-medicine.md
-  - name: "5.2 Deployed deep generative models"
+  - name: "5.2 Deployed Deep Generative Models"
     href: applications-and-societal-impact/deployed-deep-generative-models.md
-  - name: "5.3 Overview of societal impact of AI"
+  - name: "5.3 Overview of Societal Impact of AI"
     href: applications-and-societal-impact/overview-of-societal-impact-of-ai.md
   - name: "5.4 One or more additional applications of AI to a broad set of problems and diverse fields, such as medicine, health, sustainability, social media, economics, education, robotics, etc. (choose a different area from that chosen for the CS Core)."
     href: applications-and-societal-impact/one-or-more-additional-applications-of-ai-to-a-broad-set-of-problems-and-diverse.md
-  - name: "5.5 Additional depth on deployed deep generative models"
+  - name: "5.5 Additional Depth on Deployed Deep Generative Models"
     href: applications-and-societal-impact/additional-depth-on-deployed-deep-generative-models.md
-  - name: "5.6 Analysis and discussion of the societal impact of AI"
+  - name: "5.6 Analysis and Discussion of the Societal Impact of AI"
     href: applications-and-societal-impact/analysis-and-discussion-of-the-societal-impact-of-ai.md
 - name: "6. Logical Representation and Reasoning"
   href: logical-representation-and-reasoning/index.md
   items:
-  - name: "6.1 Review of propositional and predicate logic"
+  - name: "6.1 Review of Propositional and Predicate Logic"
     href: logical-representation-and-reasoning/review-of-propositional-and-predicate-logic.md
-  - name: "6.2 Resolution and theorem proving (propositional logic only)"
+  - name: "6.2 Resolution and Theorem Proving (propositional logic only)"
     href: logical-representation-and-reasoning/resolution-and-theorem-proving.md
-  - name: "6.3 Knowledge representation issues"
+  - name: "6.3 Knowledge Representation Issues"
     href: logical-representation-and-reasoning/knowledge-representation-issues.md
-  - name: "6.4 Semantic web"
+  - name: "6.4 Semantic Web"
     href: logical-representation-and-reasoning/semantic-web.md
-  - name: "6.5 Non-monotonic reasoning (e.g., non-classical logics, default reasoning)"
+  - name: "6.5 Non-Monotonic Reasoning (e.g., non-classical logics, default reasoning)"
     href: logical-representation-and-reasoning/non-monotonic-reasoning.md
   - name: "6.6 Argumentation"
     href: logical-representation-and-reasoning/argumentation.md
-  - name: "6.7 Reasoning about action and change (e.g., situation and event calculus)"
+  - name: "6.7 Reasoning About Action and Change (e.g., situation and event calculus)"
     href: logical-representation-and-reasoning/reasoning-about-action-and-change.md
-  - name: "6.8 Temporal and spatial reasoning"
+  - name: "6.8 Temporal and Spatial Reasoning"
     href: logical-representation-and-reasoning/temporal-and-spatial-reasoning.md
-  - name: "6.9 Logic programming"
+  - name: "6.9 Logic Programming"
     href: logical-representation-and-reasoning/logic-programming.md
-  - name: "6.10 Rule-based Expert Systems"
+  - name: "6.10 Rule-Based Expert Systems"
     href: logical-representation-and-reasoning/rule-based-expert-systems.md
-  - name: "6.11 Semantic networks"
+  - name: "6.11 Semantic Networks"
     href: logical-representation-and-reasoning/semantic-networks.md
-  - name: "6.12 Model-based and Case-based reasoning"
+  - name: "6.12 Model-Based and Case-Based Reasoning"
     href: logical-representation-and-reasoning/model-based-and-case-based-reasoning.md
 - name: "7. Probabilistic Representation and Reasoning"
   href: probabilistic-representation-and-reasoning/index.md
   items:
-  - name: "7.1 Conditional Independence review"
+  - name: "7.1 Conditional Independence Review"
     href: probabilistic-representation-and-reasoning/conditional-independence-review.md
-  - name: "7.2 Knowledge representations"
+  - name: "7.2 Knowledge Representations"
     href: probabilistic-representation-and-reasoning/knowledge-representations.md
   - name: "7.3 Decision Theory"
     href: probabilistic-representation-and-reasoning/decision-theory.md
 - name: "8. Planning"
   href: planning/index.md
   items:
-  - name: "8.1 Review of propositional and first-order logic"
+  - name: "8.1 Review of Propositional and First-Order Logic"
     href: planning/review-of-propositional-and-first-order-logic.md
-  - name: "8.2 Planning operators and state representations"
+  - name: "8.2 Planning Operators and State Representations"
     href: planning/planning-operators-and-state-representations.md
-  - name: "8.3 Total order planning"
+  - name: "8.3 Total Order Planning"
     href: planning/total-order-planning.md
-  - name: "8.4 Partial-order planning"
+  - name: "8.4 Partial-Order Planning"
     href: planning/partial-order-planning.md
-  - name: "8.5 Plan graphs and GraphPlan"
+  - name: "8.5 Plan Graphs and GraphPlan"
     href: planning/plan-graphs-and-graphplan.md
-  - name: "8.6 Hierarchical planning"
+  - name: "8.6 Hierarchical Planning"
     href: planning/hierarchical-planning.md
-  - name: "8.7 Planning languages and representations"
+  - name: "8.7 Planning Languages and Representations"
     href: planning/planning-languages-and-representations.md
-  - name: "8.8 Multi-agent planning"
+  - name: "8.8 Multi-Agent Planning"
     href: planning/multi-agent-planning.md
-  - name: "8.9 MDP-based planning"
+  - name: "8.9 MDP-based Planning"
     href: planning/mdp-based-planning.md
-  - name: "8.10 Interconnecting planning, execution, and dynamic replanning"
+  - name: "8.10 Interconnecting Planning, Execution, and Dynamic Replanning"
     href: planning/interconnecting-planning-execution-and-dynamic-replanning.md
 - name: "9. Agents and Cognitive Systems"
   href: agents-and-cognitive-systems/index.md
   items:
-  - name: "9.1 Agent architectures (e.g., reactive, layered, cognitive)"
+  - name: "9.1 Agent Architectures (e.g., reactive, layered, cognitive)"
     href: agents-and-cognitive-systems/agent-architectures.md
-  - name: "9.2 Agent theory (including mathematical formalisms)"
+  - name: "9.2 Agent Theory (including mathematical formalisms)"
     href: agents-and-cognitive-systems/agent-theory.md
   - name: "9.3 Rationality, Game Theory"
     href: agents-and-cognitive-systems/rationality-game-theory.md
-  - name: "9.4 Software agents, personal assistants, and information access"
+  - name: "9.4 Software Agents, Personal Assistants, and Information Access"
     href: agents-and-cognitive-systems/software-agents-personal-assistants-and-information-access.md
-  - name: "9.5 Learning agents"
+  - name: "9.5 Learning Agents"
     href: agents-and-cognitive-systems/learning-agents.md
-  - name: "9.6 Cognitive systems"
+  - name: "9.6 Cognitive Systems"
     href: agents-and-cognitive-systems/cognitive-systems.md
-  - name: "9.7 Multi-agent systems"
+  - name: "9.7 Multi-Agent Systems"
     href: agents-and-cognitive-systems/multi-agent-systems.md
-  - name: "9.8 Human-agent interaction"
+  - name: "9.8 Human-Agent Interaction"
     href: agents-and-cognitive-systems/human-agent-interaction.md
 - name: "10. Natural Language Processing"
   href: natural-language-processing/index.md
   items:
-  - name: "10.1 Deterministic and stochastic grammars"
+  - name: "10.1 Deterministic and Stochastic Grammars"
     href: natural-language-processing/deterministic-and-stochastic-grammars.md
-  - name: "10.2 Parsing algorithms"
+  - name: "10.2 Parsing Algorithms"
     href: natural-language-processing/parsing-algorithms.md
   - name: "10.3 Representing meaning/Semantics"
     href: natural-language-processing/representing-meaning-semantics.md
-  - name: "10.4 Corpus-based methods"
+  - name: "10.4 Corpus-Based Methods"
     href: natural-language-processing/corpus-based-methods.md
-  - name: "10.5 N-grams and HMMs"
+  - name: "10.5 N-Grams and HMMs"
     href: natural-language-processing/n-grams-and-hmms.md
-  - name: "10.6 Smoothing and backoff"
+  - name: "10.6 Smoothing and Backoff"
     href: natural-language-processing/smoothing-and-backoff.md
-  - name: "10.7 Examples of use: POS tagging and morphology"
+  - name: "10.7 Examples of Use: POS Tagging and Morphology"
     href: natural-language-processing/examples-of-use-pos-tagging-and-morphology.md
-  - name: "10.8 Information retrieval"
+  - name: "10.8 Information Retrieval"
     href: natural-language-processing/information-retrieval.md
-  - name: "10.9 Information extraction"
+  - name: "10.9 Information Extraction"
     href: natural-language-processing/information-extraction.md
-  - name: "10.10 Language translation"
+  - name: "10.10 Language Translation"
     href: natural-language-processing/language-translation.md
-  - name: "10.11 Text classification, categorization"
+  - name: "10.11 Text Classification, Categorization"
     href: natural-language-processing/text-classification-categorization.md
-  - name: "10.12 Deep learning for NLP"
+  - name: "10.12 Deep Learning for NLP"
     href: natural-language-processing/deep-learning-for-nlp.md
 - name: "11. Robotics"
   href: robotics/index.md
   items:
-  - name: "11.1 Overview: problems and progress"
+  - name: "11.1 Overview: Problems and Progress"
     href: robotics/overview-problems-and-progress.md
-  - name: "11.2 Sensors and effectors"
+  - name: "11.2 Sensors and Effectors"
     href: robotics/sensors-and-effectors.md
-  - name: "11.3 Coordinate frames, translation, and rotation (2D and 3D)"
+  - name: "11.3 Coordinate Frames, Translation, and Rotation (2D and 3D)"
     href: robotics/coordinate-frames-translation-and-rotation.md
-  - name: "11.4 Configuration space and environmental maps"
+  - name: "11.4 Configuration Space and Environmental Maps"
     href: robotics/configuration-space-and-environmental-maps.md
-  - name: "11.5 Interpreting uncertain sensor data"
+  - name: "11.5 Interpreting Uncertain Sensor Data"
     href: robotics/interpreting-uncertain-sensor-data.md
-  - name: "11.6 Localization and mapping"
+  - name: "11.6 Localization and Mapping"
     href: robotics/localization-and-mapping.md
-  - name: "11.7 Navigation and control"
+  - name: "11.7 Navigation and Control"
     href: robotics/navigation-and-control.md
-  - name: "11.8 Forward and inverse kinematics"
+  - name: "11.8 Forward and Inverse Kinematics"
     href: robotics/forward-and-inverse-kinematics.md
-  - name: "11.9 Motion path planning and trajectory optimization"
+  - name: "11.9 Motion Path Planning and Trajectory Optimization"
     href: robotics/motion-path-planning-and-trajectory-optimization.md
-  - name: "11.10 Manipulation and grasping"
+  - name: "11.10 Manipulation and Grasping"
     href: robotics/manipulation-and-grasping.md
-  - name: "11.11 Joint control and dynamics"
+  - name: "11.11 Joint Control and Dynamics"
     href: robotics/joint-control-and-dynamics.md
-  - name: "11.12 Vision-based control"
+  - name: "11.12 Vision-Based Control"
     href: robotics/vision-based-control.md
-  - name: "11.13 Multiple-robot coordination and collaboration"
+  - name: "11.13 Multiple-Robot Coordination and Collaboration"
     href: robotics/multiple-robot-coordination-and-collaboration.md
-  - name: "11.14 Human-robot interaction"
+  - name: "11.14 Human-Robot Interaction"
     href: robotics/human-robot-interaction.md
   - name: "11.15 Applications and Societal, Economic, and Ethical Issues"
     href: robotics/applications-and-societal-economic-and-ethical-issues.md
 - name: "12. Perception and Computer Vision"
   href: perception-and-computer-vision/index.md
   items:
-  - name: "12.1 Computer vision"
+  - name: "12.1 Computer Vision"
     href: perception-and-computer-vision/computer-vision.md
-  - name: "12.2 Audio and speech recognition"
+  - name: "12.2 Audio and Speech Recognition"
     href: perception-and-computer-vision/audio-and-speech-recognition.md
-  - name: "12.3 Touch and proprioception"
+  - name: "12.3 Touch and Proprioception"
     href: perception-and-computer-vision/touch-and-proprioception.md
-  - name: "12.4 Other modalities (e.g., olfaction)"
+  - name: "12.4 Other Modalities (e.g., olfaction)"
     href: perception-and-computer-vision/other-modalities.md
-  - name: "12.5 Modularity in recognition"
+  - name: "12.5 Modularity in Recognition"
     href: perception-and-computer-vision/modularity-in-recognition.md
-  - name: "12.6 Approaches to pattern recognition"
+  - name: "12.6 Approaches to Pattern Recognition"
     href: perception-and-computer-vision/approaches-to-pattern-recognition.md

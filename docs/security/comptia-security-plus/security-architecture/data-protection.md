@@ -1,10 +1,10 @@
 ---
-title: "3.3 Data protection"
+title: "3.3 Data Protection"
 description: "CompTIA Security+, 3.3 Data protection: Data types, Data states, Data classifications, Methods used to secure data, Data protection roles, Data handling, Data management life cycle, Data compliance."
 ms.date: 2026-10-25
 ---
 
-# 3.3 Data protection
+# 3.3 Data Protection
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 3.3](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

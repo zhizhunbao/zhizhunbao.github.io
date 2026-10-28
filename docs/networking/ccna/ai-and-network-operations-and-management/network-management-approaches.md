@@ -1,10 +1,10 @@
 ---
-title: "5.3 Network management approaches"
+title: "5.3 Network Management Approaches"
 description: "CCNA v2.0, 5.3 Network management approaches: Device-based, Cloud-based, Controller-based, Automation-based, Infrastructure as code."
 ms.date: 2026-10-25
 ---
 
-# 5.3 Network management approaches
+# 5.3 Network Management Approaches
 
 Sources: [200-301 CCNA v2.0 Exam Topics, 5.3](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics).
 

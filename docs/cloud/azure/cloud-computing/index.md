@@ -1,10 +1,10 @@
 ---
-title: "1. Cloud computing"
+title: "1. Cloud Computing"
 description: "Microsoft Azure, 1. Cloud computing: deployment models, service models, actors, essential characteristics, benefits and the consumption-based model."
 ms.date: 2026-10-21
 ---
 
-# 1. Cloud computing
+# 1. Cloud Computing
 
 ## Classification
 

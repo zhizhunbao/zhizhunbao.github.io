@@ -1,10 +1,10 @@
 ---
-title: "15.58 typecheck"
+title: "15.58 Typecheck"
 description: "Vitest, 15.58 typecheck."
 ms.date: 2026-10-25
 ---
 
-# 15.58 typecheck
+# 15.58 Typecheck
 
 Sources: [Vitest documentation, 15.58 typecheck](https://vitest.dev/config/typecheck).
 

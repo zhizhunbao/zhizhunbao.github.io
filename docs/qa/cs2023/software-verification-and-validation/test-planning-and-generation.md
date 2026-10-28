@@ -1,10 +1,10 @@
 ---
-title: "6.6 Test planning and generation"
+title: "6.6 Test Planning and Generation"
 description: "CS2023 SE-Validation, 6.6 Test planning and generation (KA Core): Test case generation, from formal models, specifications, etc., Test coverage, Test data and inputs."
 ms.date: 2026-10-25
 ---
 
-# 6.6 Test planning and generation
+# 6.6 Test Planning and Generation
 
 Sources: [CS2023 Body of Knowledge, SE-Validation, topic 6, p. 185](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=185).
 

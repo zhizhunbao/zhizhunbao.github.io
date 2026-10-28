@@ -1,10 +1,10 @@
 ---
-title: "3.1 Azure regions"
+title: "3.1 Azure Regions"
 description: "Microsoft Azure, 3.1 Azure regions: Region, Geography, Sovereign cloud, Region pairs, Asymmetrical region pairs, Nonpaired regions, Nonregional services, Global services, Geographic services."
 ms.date: 2026-10-27
 ---
 
-# 3.1 Azure regions
+# 3.1 Azure Regions
 
 ## Classification
 

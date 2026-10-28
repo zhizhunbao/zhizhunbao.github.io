@@ -1,10 +1,10 @@
 ---
-title: "8. Device management"
+title: "8. Device Management"
 description: "CS2023 knowledge unit OS-Devices: Device management, 6 topics."
 ms.date: 2026-10-25
 ---
 
-# 8. Device management
+# 8. Device Management
 
 The pages under this one are the topics of the CS2023 knowledge unit OS-Devices, with CS2023's numbering and order: 3 KA Core, 3 Non-core topics.
 

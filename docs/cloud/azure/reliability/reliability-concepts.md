@@ -1,10 +1,10 @@
 ---
-title: "3.3 Reliability concepts"
+title: "3.3 Reliability Concepts"
 description: "Microsoft Azure, 3.3 Reliability concepts: Shared responsibility model for reliability, Core platform reliability, Reliability-enhancing capabilities, Applications, High availability, Fault tolerance, Scalability and elasticity, Chaos engineering, Azure Chaos Studio, Recovery Point Objective (RPO), Recovery Time Objective (RTO), Redundancy, Replication, Backup, Failover, Active-active, Planned failover, Unplanned failover, Failback, Service-level agreement (SLA), Service-level objective (SLO), Service credits."
 ms.date: 2026-10-27
 ---
 
-# 3.3 Reliability concepts
+# 3.3 Reliability Concepts
 
 ## Classification
 

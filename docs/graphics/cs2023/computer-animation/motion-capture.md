@@ -1,10 +1,10 @@
 ---
-title: "6.6 Motion capture"
+title: "6.6 Motion Capture"
 description: "CS2023 GIT-Animation, 6.6 Motion capture (KA Core): Set up and fundamentals, Blending motion capture clips, Blending motion capture and keyframe animation, Ethical considerations (See also: SEP-DEIA, SEP-Privacy)."
 ms.date: 2026-10-25
 ---
 
-# 6.6 Motion capture
+# 6.6 Motion Capture
 
 Sources: [CS2023 Body of Knowledge, GIT-Animation, topic 6, p. 98](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=98).
 

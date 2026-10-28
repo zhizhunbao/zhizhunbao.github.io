@@ -1,10 +1,10 @@
 ---
-title: "4.7 Incident response activities"
+title: "4.7 Incident Response Activities"
 description: "CompTIA Security+, 4.7 Incident response activities: Preparation, Identification, Investigation, Containment, Negotiation, Eradication/recovery, Notification/external reporting, Post-incident."
 ms.date: 2026-10-25
 ---
 
-# 4.7 Incident response activities
+# 4.7 Incident Response Activities
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 4.7](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

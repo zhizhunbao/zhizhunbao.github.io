@@ -1,10 +1,10 @@
 ---
-title: "5.34 Touch events (legacy)"
+title: "5.34 Touch Events (legacy)"
 description: "Playwright, 5.34 Touch events (legacy)."
 ms.date: 2026-10-25
 ---
 
-# 5.34 Touch events (legacy)
+# 5.34 Touch Events (legacy)
 
 Sources: [Playwright documentation (Node.js), 5.34 Touch events (legacy)](https://playwright.dev/docs/touch-events).
 

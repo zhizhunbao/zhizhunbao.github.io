@@ -1,10 +1,10 @@
 ---
-title: "6.2 Security control testing"
+title: "6.2 Security Control Testing"
 description: "CISSP, 6.2 Security control testing."
 ms.date: 2026-10-25
 ---
 
-# 6.2 Security control testing
+# 6.2 Security Control Testing
 
 Sources: [CISSP Certification Exam Outline, 6.2](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

@@ -1,7 +1,7 @@
 ---
-title: "62Q Statistical tables"
+title: "62Q Statistical Tables"
 description: "MSC2020 class 62Qxx, Statistical tables: 1 classes."
 ms.date: 2026-10-27
 ---
 
-# 62Q Statistical tables
+# 62Q Statistical Tables

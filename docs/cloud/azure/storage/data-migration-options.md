@@ -1,10 +1,10 @@
 ---
-title: "8.4 Data migration options"
+title: "8.4 Data Migration Options"
 description: "Microsoft Azure, 8.4 Data migration options: Azure Migrate, Azure Data Box."
 ms.date: 2026-10-27
 ---
 
-# 8.4 Data migration options
+# 8.4 Data Migration Options
 
 ## Classification
 

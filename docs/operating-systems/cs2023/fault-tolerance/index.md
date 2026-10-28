@@ -1,10 +1,10 @@
 ---
-title: "13. Fault tolerance"
+title: "13. Fault Tolerance"
 description: "CS2023 knowledge unit OS-Faults: Fault tolerance, 9 topics."
 ms.date: 2026-10-25
 ---
 
-# 13. Fault tolerance
+# 13. Fault Tolerance
 
 The pages under this one are the topics of the CS2023 knowledge unit OS-Faults, with CS2023's numbering and order: 2 KA Core, 7 Non-core topics.
 

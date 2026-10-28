@@ -1,10 +1,10 @@
 ---
-title: "3.7 Formal recursive analysis"
+title: "3.7 Formal Recursive Analysis"
 description: "CS2023 AL-Complexity, 3.7 Formal recursive analysis (KA Core)."
 ms.date: 2026-10-25
 ---
 
-# 3.7 Formal recursive analysis
+# 3.7 Formal Recursive Analysis
 
 Sources: [CS2023 Body of Knowledge, AL-Complexity, topic 7, p. 30](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=30).
 

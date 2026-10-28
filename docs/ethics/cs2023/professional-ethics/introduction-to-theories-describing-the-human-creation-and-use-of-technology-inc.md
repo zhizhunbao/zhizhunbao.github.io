@@ -1,10 +1,10 @@
 ---
-title: "3.6 Introduction to theories describing the human creation and use of technology including instrumentalism, sociology of technological systems, disability justice, neutrality thesis, pragmatism, and decolonial models, including developing and using technology to right wrongs and do good"
+title: "3.6 Introduction to Theories Describing the Human Creation and Use of Technology Including Instrumentalism, Sociology of Technological Systems, Disability Justice, Neutrality Thesis, Pragmatism, and Decolonial Models, Including Developing and Using Technology to Right Wrongs and Do Good"
 description: "CS2023 SEP-Professional-Ethics, 3.6 Introduction to theories describing the human creation and use of technology including instrumentalism, sociology of technological systems, disability justice, neutrality thesis, pragmatism, and decolonial models, including developing and using technology to right wrongs and do good (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 3.6 Introduction to theories describing the human creation and use of technology including instrumentalism, sociology of technological systems, disability justice, neutrality thesis, pragmatism, and decolonial models, including developing and using technology to right wrongs and do good
+# 3.6 Introduction to Theories Describing the Human Creation and Use of Technology Including Instrumentalism, Sociology of Technological Systems, Disability Justice, Neutrality Thesis, Pragmatism, and Decolonial Models, Including Developing and Using Technology to Right Wrongs and Do Good
 
 Sources: [CS2023 Body of Knowledge, SEP-Professional-Ethics, topic 6, p. 214](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=214).
 

@@ -1,10 +1,10 @@
 ---
-title: "1.12 Protecting embedded and cyber-physical systems"
+title: "1.12 Protecting Embedded and Cyber-Physical Systems"
 description: "CS2023 SEC-Foundations, 1.12 Protecting embedded and cyber-physical systems (KA Core)."
 ms.date: 2026-10-25
 ---
 
-# 1.12 Protecting embedded and cyber-physical systems
+# 1.12 Protecting Embedded and Cyber-Physical Systems
 
 Sources: [CS2023 Body of Knowledge, SEC-Foundations, topic 12, p. 196](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=196).
 

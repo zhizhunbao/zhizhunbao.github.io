@@ -1,10 +1,10 @@
 ---
-title: "5.12 Development context: “green field” vs existing code base"
+title: "5.12 Development Context: “Green Field” vs Existing Code Base"
 description: "CS2023 SE-Construction, 5.12 Development context: “green field” vs existing code base (Non-core): Change impact analysis, Change actualization."
 ms.date: 2026-10-25
 ---
 
-# 5.12 Development context: “green field” vs existing code base
+# 5.12 Development Context: “Green Field” vs Existing Code Base
 
 Sources: [CS2023 Body of Knowledge, SE-Construction, topic 12, p. 184](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=184).
 

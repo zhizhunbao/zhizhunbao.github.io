@@ -1,7 +1,7 @@
 ---
-title: "97I Analysis education"
+title: "97I Analysis Education"
 description: "MSC2020 class 97Ixx, Analysis education: 8 classes."
 ms.date: 2026-10-27
 ---
 
-# 97I Analysis education
+# 97I Analysis Education

@@ -1,10 +1,10 @@
 ---
-title: "3.2 Azure availability zones"
+title: "3.2 Azure Availability Zones"
 description: "Microsoft Azure, 3.2 Azure availability zones: availability zone, zone-redundant resources, zonal resources, zone-resilient, nonzonal deployment, physical zone, logical zone."
 ms.date: 2026-10-26
 ---
 
-# 3.2 Azure availability zones
+# 3.2 Azure Availability Zones
 
 ## Classification
 

@@ -1,10 +1,10 @@
 ---
-title: "9.3 Column-family data stores"
+title: "9.3 Column-Family Data Stores"
 description: "Microsoft Azure, 9.3 Column-family data stores: Azure Managed Instance for Apache Cassandra, Apache HBase on Azure HDInsight, Azure Data Explorer (Kusto)."
 ms.date: 2026-10-27
 ---
 
-# 9.3 Column-family data stores
+# 9.3 Column-Family Data Stores
 
 ## Classification
 

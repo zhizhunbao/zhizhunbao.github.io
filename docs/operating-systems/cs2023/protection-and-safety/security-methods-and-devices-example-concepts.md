@@ -1,10 +1,10 @@
 ---
-title: "4.6 Security methods and devices Example concepts"
+title: "4.6 Security Methods and Devices Example Concepts"
 description: "CS2023 OS-Protection, 4.6 Security methods and devices Example concepts (KA Core): Rings of protection (history from Multics to virtualized x86), x86_64 rings -1 and -2 (hypervisor and ME/PSP)."
 ms.date: 2026-10-25
 ---
 
-# 4.6 Security methods and devices Example concepts
+# 4.6 Security Methods and Devices Example Concepts
 
 Sources: [CS2023 Body of Knowledge, OS-Protection, topic 6, p. 147](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=147).
 

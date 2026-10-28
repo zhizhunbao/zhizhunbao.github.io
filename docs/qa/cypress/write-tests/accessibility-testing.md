@@ -1,10 +1,10 @@
 ---
-title: "3.9 Accessibility testing"
+title: "3.9 Accessibility Testing"
 description: "Cypress, 3.9 Accessibility testing."
 ms.date: 2026-10-25
 ---
 
-# 3.9 Accessibility testing
+# 3.9 Accessibility Testing
 
 Sources: [Cypress documentation, 3.9 Accessibility testing](https://docs.cypress.io/app/guides/accessibility-testing).
 

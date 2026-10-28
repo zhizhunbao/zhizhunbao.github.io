@@ -1,10 +1,10 @@
 ---
-title: "4.1 Get started"
+title: "4.1 Get Started"
 description: "Hugging Face Transformers, 4.1 Get started: Trainer overview, Fine-tuning."
 ms.date: 2026-10-25
 ---
 
-# 4.1 Get started
+# 4.1 Get Started
 
 Sources: [Transformers documentation, 4.1 Get started](https://huggingface.co/docs/transformers/v5.20.2/en/index).
 

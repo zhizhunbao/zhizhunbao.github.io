@@ -9,67 +9,67 @@ items:
 - name: "2. Core Database System Concepts"
   href: core-database-system-concepts/index.md
   items:
-  - name: "2.1 Purpose and advantages of database systems"
+  - name: "2.1 Purpose and Advantages of Database Systems"
     href: core-database-system-concepts/purpose-and-advantages-of-database-systems.md
-  - name: "2.2 Components of database systems"
+  - name: "2.2 Components of Database Systems"
     href: core-database-system-concepts/components-of-database-systems.md
-  - name: "2.3 Design of core DBMS functions (e.g., query mechanisms, transaction management, buffer management, access methods)"
+  - name: "2.3 Design of Core DBMS Functions (e.g., query mechanisms, transaction management, buffer management, access methods)"
     href: core-database-system-concepts/design-of-core-dbms-functions.md
-  - name: "2.4 Database architecture, data independence, and data abstraction"
+  - name: "2.4 Database Architecture, Data Independence, and Data Abstraction"
     href: core-database-system-concepts/database-architecture-data-independence-and-data-abstraction.md
-  - name: "2.5 Transaction management"
+  - name: "2.5 Transaction Management"
     href: core-database-system-concepts/transaction-management.md
   - name: "2.6 Normalization"
     href: core-database-system-concepts/normalization.md
-  - name: "2.7 Approaches for managing large volumes of data (e.g., NoSQL database systems, use of MapReduce)"
+  - name: "2.7 Approaches for Managing Large Volumes of Data (e.g., NoSQL database systems, use of MapReduce)"
     href: core-database-system-concepts/approaches-for-managing-large-volumes-of-data.md
-  - name: "2.8 How to support CRUD-only applications"
+  - name: "2.8 How to Support CRUD-only Applications"
     href: core-database-system-concepts/how-to-support-crud-only-applications.md
-  - name: "2.9 Distributed databases/cloud-based systems"
+  - name: "2.9 Distributed databases/cloud-based Systems"
     href: core-database-system-concepts/distributed-databases-cloud-based-systems.md
-  - name: "2.10 Structured, semi-structured, and unstructured data"
+  - name: "2.10 Structured, Semi-Structured, and Unstructured Data"
     href: core-database-system-concepts/structured-semi-structured-and-unstructured-data.md
-  - name: "2.11 Use of a declarative query language"
+  - name: "2.11 Use of a Declarative Query Language"
     href: core-database-system-concepts/use-of-a-declarative-query-language.md
-  - name: "2.12 Systems supporting structured and/or stream content"
+  - name: "2.12 Systems Supporting Structured and/or Stream Content"
     href: core-database-system-concepts/systems-supporting-structured-and-or-stream-content.md
 - name: "3. Data Modeling"
   href: data-modeling/index.md
   items:
-  - name: "3.1 Data modeling"
+  - name: "3.1 Data Modeling"
     href: data-modeling/data-modeling.md
-  - name: "3.2 Relational data model"
+  - name: "3.2 Relational Data Model"
     href: data-modeling/relational-data-model.md
-  - name: "3.3 Conceptual models (e.g., entity-relationship, UML diagrams)"
+  - name: "3.3 Conceptual Models (e.g., entity-relationship, UML diagrams)"
     href: data-modeling/conceptual-models.md
-  - name: "3.4 Semi-structured data models (expressed using DTD, XML, or JSON Schema, for example)"
+  - name: "3.4 Semi-Structured Data Models (expressed using DTD, XML, or JSON Schema, for example)"
     href: data-modeling/semi-structured-data-models.md
-  - name: "3.5 Spreadsheet models"
+  - name: "3.5 Spreadsheet Models"
     href: data-modeling/spreadsheet-models.md
-  - name: "3.6 Object-oriented models"
+  - name: "3.6 Object-Oriented Models"
     href: data-modeling/object-oriented-models.md
-  - name: "3.7 New features in SQL"
+  - name: "3.7 New Features in SQL"
     href: data-modeling/new-features-in-sql.md
-  - name: "3.8 Specialized Data Modeling topics"
+  - name: "3.8 Specialized Data Modeling Topics"
     href: data-modeling/specialized-data-modeling-topics.md
 - name: "4. Relational Databases"
   href: relational-databases/index.md
   items:
-  - name: "4.1 Entity and referential integrity: Candidate key, superkeys"
+  - name: "4.1 Entity and Referential Integrity: Candidate Key, Superkeys"
     href: relational-databases/entity-and-referential-integrity-candidate-key-superkeys.md
-  - name: "4.2 Relational database design"
+  - name: "4.2 Relational Database Design"
     href: relational-databases/relational-database-design.md
-  - name: "4.3 Mapping conceptual schema to a relational schema"
+  - name: "4.3 Mapping Conceptual Schema to a Relational Schema"
     href: relational-databases/mapping-conceptual-schema-to-a-relational-schema.md
-  - name: "4.4 Physical database design: file and storage structures"
+  - name: "4.4 Physical Database Design: File and Storage Structures"
     href: relational-databases/physical-database-design-file-and-storage-structures.md
-  - name: "4.5 Introduction to Functional dependency theory"
+  - name: "4.5 Introduction to Functional Dependency Theory"
     href: relational-databases/introduction-to-functional-dependency-theory.md
   - name: "4.6 Normalization Theory"
     href: relational-databases/normalization-theory.md
-  - name: "4.7 Functional dependency theory"
+  - name: "4.7 Functional Dependency Theory"
     href: relational-databases/functional-dependency-theory.md
-  - name: "4.8 Normalization theory"
+  - name: "4.8 Normalization Theory"
     href: relational-databases/normalization-theory-non-core.md
 - name: "5. Query Construction"
   href: query-construction/index.md
@@ -82,28 +82,28 @@ items:
     href: query-construction/sql.md
   - name: "5.4 Relational Calculus"
     href: query-construction/relational-calculus.md
-  - name: "5.5 QBE and 4th-generation environments"
+  - name: "5.5 QBE and 4th-generation Environments"
     href: query-construction/qbe-and-4th-generation-environments.md
-  - name: "5.6 Different ways to invoke non-procedural queries in conventional languages"
+  - name: "5.6 Different Ways to Invoke Non-Procedural Queries in Conventional Languages"
     href: query-construction/different-ways-to-invoke-non-procedural-queries-in-conventional-languages.md
-  - name: "5.7 Introduction to other major query languages (e.g., XPATH, SPARQL)"
+  - name: "5.7 Introduction to Other Major Query Languages (e.g., XPATH, SPARQL)"
     href: query-construction/introduction-to-other-major-query-languages.md
-  - name: "5.8 Stored procedures"
+  - name: "5.8 Stored Procedures"
     href: query-construction/stored-procedures.md
 - name: "6. Query Processing"
   href: query-processing/index.md
   items:
-  - name: "6.1 Page structures"
+  - name: "6.1 Page Structures"
     href: query-processing/page-structures.md
-  - name: "6.2 Index structures"
+  - name: "6.2 Index Structures"
     href: query-processing/index-structures.md
-  - name: "6.3 File structures"
+  - name: "6.3 File Structures"
     href: query-processing/file-structures.md
-  - name: "6.4 Algorithms for query operators"
+  - name: "6.4 Algorithms for Query Operators"
     href: query-processing/algorithms-for-query-operators.md
-  - name: "6.5 Query transformations"
+  - name: "6.5 Query Transformations"
     href: query-processing/query-transformations.md
-  - name: "6.6 Query optimization"
+  - name: "6.6 Query Optimization"
     href: query-processing/query-optimization.md
   - name: "6.7 Parallel Query Processing (e.g., parallel scan, parallel join, parallel aggregation)"
     href: query-processing/parallel-query-processing.md
@@ -129,9 +129,9 @@ items:
   items:
   - name: "8.1 Why NoSQL? (e.g., Impedance mismatch between Application [CRUD] and RDBMS)"
     href: nosql-systems/why-nosql.md
-  - name: "8.2 Key-Value and Document data model"
+  - name: "8.2 Key-Value and Document Data Model"
     href: nosql-systems/key-value-and-document-data-model.md
-  - name: "8.3 Storage systems (e.g., Key-Value systems, Data Lakes)"
+  - name: "8.3 Storage Systems (e.g., Key-Value systems, Data Lakes)"
     href: nosql-systems/storage-systems.md
   - name: "8.4 Distribution Models (Sharding and Replication)"
     href: nosql-systems/distribution-models.md
@@ -139,49 +139,49 @@ items:
     href: nosql-systems/graph-databases.md
   - name: "8.6 Consistency Models (Update and Read, Quorum consistency, CAP theorem)"
     href: nosql-systems/consistency-models.md
-  - name: "8.7 Processing model (e.g., Map-Reduce, multi-stage map-reduce, incremental map-reduce)"
+  - name: "8.7 Processing Model (e.g., Map-Reduce, multi-stage map-reduce, incremental map-reduce)"
     href: nosql-systems/processing-model.md
-  - name: "8.8 Case Studies: Cloud storage system (e.g., S3); Graph databases; “When not to use NoSQL”"
+  - name: "8.8 Case Studies: Cloud Storage System (e.g., S3); Graph Databases; “When Not to Use NoSQL”"
     href: nosql-systems/case-studies-cloud-storage-system-graph-databases-when-not-to-use-nosql.md
 - name: "9. Data Security and Privacy"
   href: data-security-and-privacy/index.md
   items:
-  - name: "9.1 Differences between data security and data privacy"
+  - name: "9.1 Differences Between Data Security and Data Privacy"
     href: data-security-and-privacy/differences-between-data-security-and-data-privacy.md
-  - name: "9.2 Protecting data and database systems from attacks, including injection attacks such as SQL injection"
+  - name: "9.2 Protecting Data and Database Systems from Attacks, Including Injection Attacks Such as SQL Injection"
     href: data-security-and-privacy/protecting-data-and-database-systems-from-attacks-including-injection-attacks-su.md
-  - name: "9.3 Personally identifying information (PII) and its protection"
+  - name: "9.3 Personally Identifying Information (PII) and Its Protection"
     href: data-security-and-privacy/personally-identifying-information-and-its-protection.md
-  - name: "9.4 Ethical considerations in ensuring the security and privacy of data"
+  - name: "9.4 Ethical Considerations in Ensuring the Security and Privacy of Data"
     href: data-security-and-privacy/ethical-considerations-in-ensuring-the-security-and-privacy-of-data.md
-  - name: "9.5 Need for, and different approaches to securing data at rest, in transit, and during processing"
+  - name: "9.5 Need for, and Different Approaches to Securing Data at Rest, in Transit, and During Processing"
     href: data-security-and-privacy/need-for-and-different-approaches-to-securing-data-at-rest-in-transit-and-during.md
-  - name: "9.6 Database auditing and its role in digital forensics"
+  - name: "9.6 Database Auditing and Its Role in Digital Forensics"
     href: data-security-and-privacy/database-auditing-and-its-role-in-digital-forensics.md
-  - name: "9.7 Data inferencing and preventing attacks"
+  - name: "9.7 Data Inferencing and Preventing Attacks"
     href: data-security-and-privacy/data-inferencing-and-preventing-attacks.md
-  - name: "9.8 Laws and regulations governing data security and data privacy"
+  - name: "9.8 Laws and Regulations Governing Data Security and Data Privacy"
     href: data-security-and-privacy/laws-and-regulations-governing-data-security-and-data-privacy.md
-  - name: "9.9 Typical risk factors and prevention measures for ensuring data integrity"
+  - name: "9.9 Typical Risk Factors and Prevention Measures for Ensuring Data Integrity"
     href: data-security-and-privacy/typical-risk-factors-and-prevention-measures-for-ensuring-data-integrity.md
-  - name: "9.10 Ransomware and prevention of data loss and destruction"
+  - name: "9.10 Ransomware and Prevention of Data Loss and Destruction"
     href: data-security-and-privacy/ransomware-and-prevention-of-data-loss-and-destruction.md
 - name: "10. Data Analytics"
   href: data-analytics/index.md
   items:
-  - name: "10.1 Exploratory data techniques (motivation, representation, descriptive statistics, visualizations)"
+  - name: "10.1 Exploratory Data Techniques (motivation, representation, descriptive statistics, visualizations)"
     href: data-analytics/exploratory-data-techniques.md
-  - name: "10.2 Data science lifecycle: business understanding, data understanding, data preparation, modeling, evaluation, deployment, and user acceptance"
+  - name: "10.2 Data Science Lifecycle: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, Deployment, and User Acceptance"
     href: data-analytics/data-science-lifecycle-business-understanding-data-understanding-data-preparatio.md
-  - name: "10.3 Data mining and machine learning algorithms: e.g., classification, clustering, association, regression"
+  - name: "10.3 Data Mining and Machine Learning Algorithms: e.g., Classification, Clustering, Association, Regression"
     href: data-analytics/data-mining-and-machine-learning-algorithms-e-g-classification-clustering-associ.md
-  - name: "10.4 Data acquisition and governance"
+  - name: "10.4 Data Acquisition and Governance"
     href: data-analytics/data-acquisition-and-governance.md
-  - name: "10.5 Data security and privacy considerations"
+  - name: "10.5 Data Security and Privacy Considerations"
     href: data-analytics/data-security-and-privacy-considerations.md
-  - name: "10.6 Data fairness and bias"
+  - name: "10.6 Data Fairness and Bias"
     href: data-analytics/data-fairness-and-bias.md
-  - name: "10.7 Data visualization techniques and their use in data analytics"
+  - name: "10.7 Data Visualization Techniques and Their Use in Data Analytics"
     href: data-analytics/data-visualization-techniques-and-their-use-in-data-analytics.md
   - name: "10.8 Entity Resolution"
     href: data-analytics/entity-resolution.md
@@ -192,29 +192,29 @@ items:
     href: distributed-databases-cloud-computing/distributed-dbms.md
   - name: "11.2 Parallel DBMS"
     href: distributed-databases-cloud-computing/parallel-dbms.md
-- name: "12. Semi-structured and Unstructured Databases"
+- name: "12. Semi-Structured and Unstructured Databases"
   href: semi-structured-and-unstructured-databases/index.md
   items:
-  - name: "12.1 Vectorized unstructured data (text, video, audio, etc.) and vector storage"
+  - name: "12.1 Vectorized Unstructured Data (text, video, audio, etc.) and Vector Storage"
     href: semi-structured-and-unstructured-databases/vectorized-unstructured-data-and-vector-storage.md
-  - name: "12.2 Semi-structured databases (e.g., JSON)"
+  - name: "12.2 Semi-Structured Databases (e.g., JSON)"
     href: semi-structured-and-unstructured-databases/semi-structured-databases.md
 - name: "13. Society, Ethics, and the Profession"
   href: society-ethics-and-the-profession/index.md
   items:
-  - name: "13.1 Issues related to scale"
+  - name: "13.1 Issues Related to Scale"
     href: society-ethics-and-the-profession/issues-related-to-scale.md
-  - name: "13.2 Data privacy overall"
+  - name: "13.2 Data Privacy Overall"
     href: society-ethics-and-the-profession/data-privacy-overall.md
-  - name: "13.3 Data anonymity"
+  - name: "13.3 Data Anonymity"
     href: society-ethics-and-the-profession/data-anonymity.md
   - name: "13.4 Data ownership/custodianship"
     href: society-ethics-and-the-profession/data-ownership-custodianship.md
-  - name: "13.5 Intended and unintended applications of stored data"
+  - name: "13.5 Intended and Unintended Applications of Stored Data"
     href: society-ethics-and-the-profession/intended-and-unintended-applications-of-stored-data.md
-  - name: "13.6 Reliability of data"
+  - name: "13.6 Reliability of Data"
     href: society-ethics-and-the-profession/reliability-of-data.md
-  - name: "13.7 Provenance, data lineage, and metadata management"
+  - name: "13.7 Provenance, Data Lineage, and Metadata Management"
     href: society-ethics-and-the-profession/provenance-data-lineage-and-metadata-management.md
-  - name: "13.8 Data security"
+  - name: "13.8 Data Security"
     href: society-ethics-and-the-profession/data-security.md

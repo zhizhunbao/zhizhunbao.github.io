@@ -1,10 +1,10 @@
 ---
-title: "3.4 Security platforms"
+title: "3.4 Security Platforms"
 description: "SSCP, 3.4 Security platforms: Continuous monitoring."
 ms.date: 2026-10-25
 ---
 
-# 3.4 Security platforms
+# 3.4 Security Platforms
 
 Sources: [SSCP Certification Exam Outline, 3.4](https://www.isc2.org/certifications/sscp/sscp-certification-exam-outline).
 

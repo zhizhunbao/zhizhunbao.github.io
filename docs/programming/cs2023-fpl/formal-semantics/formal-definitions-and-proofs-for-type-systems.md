@@ -1,10 +1,10 @@
 ---
-title: "19.7 Formal definitions and proofs for type systems"
+title: "19.7 Formal Definitions and Proofs for Type Systems"
 description: "CS2023 FPL-Formalism, 19.7 Formal definitions and proofs for type systems (Non-core): Propositions as types (implication as a function, conjunction as a product, disjunction as a sum), Dependent types (universal quantification as dependent function, existential quantification as dependent product), Parametricity."
 ms.date: 2026-10-25
 ---
 
-# 19.7 Formal definitions and proofs for type systems
+# 19.7 Formal Definitions and Proofs for Type Systems
 
 Sources: [CS2023 Body of Knowledge, FPL-Formalism, topic 7, p. 83](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=83).
 

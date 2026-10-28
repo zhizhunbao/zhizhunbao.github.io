@@ -1,10 +1,10 @@
 ---
-title: "4.2 Forensic investigations"
+title: "4.2 Forensic Investigations"
 description: "SSCP, 4.2 Forensic investigations."
 ms.date: 2026-10-25
 ---
 
-# 4.2 Forensic investigations
+# 4.2 Forensic Investigations
 
 Sources: [SSCP Certification Exam Outline, 4.2](https://www.isc2.org/certifications/sscp/sscp-certification-exam-outline).
 

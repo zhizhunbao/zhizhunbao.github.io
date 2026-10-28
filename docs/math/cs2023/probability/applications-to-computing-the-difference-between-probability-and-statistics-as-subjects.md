@@ -1,10 +1,10 @@
 ---
-title: "2.6 Applications to computing, the difference between probability and statistics (as subjects)"
+title: "2.6 Applications to Computing, the Difference Between Probability and Statistics (as subjects)"
 description: "CS2023 MSF-Probability, 2.6 Applications to computing, the difference between probability and statistics (as subjects) (CS Core): Probability (as a subject), Statistics (as a subject)."
 ms.date: 2026-10-27
 ---
 
-# 2.6 Applications to computing, the difference between probability and statistics (as subjects)
+# 2.6 Applications to Computing, the Difference Between Probability and Statistics (as subjects)
 
 ## Classification
 

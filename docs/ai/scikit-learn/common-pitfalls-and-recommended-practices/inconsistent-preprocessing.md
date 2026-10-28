@@ -1,10 +1,10 @@
 ---
-title: "12.1 Inconsistent preprocessing"
+title: "12.1 Inconsistent Preprocessing"
 description: "scikit-learn, 12.1 Inconsistent preprocessing."
 ms.date: 2026-10-25
 ---
 
-# 12.1 Inconsistent preprocessing
+# 12.1 Inconsistent Preprocessing
 
 Sources: [scikit-learn User Guide, 12.1 Inconsistent preprocessing](https://scikit-learn.org/stable/common_pitfalls.html#inconsistent-preprocessing).
 

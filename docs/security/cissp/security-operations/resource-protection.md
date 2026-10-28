@@ -1,10 +1,10 @@
 ---
-title: "7.5 Resource protection"
+title: "7.5 Resource Protection"
 description: "CISSP, 7.5 Resource protection."
 ms.date: 2026-10-25
 ---
 
-# 7.5 Resource protection
+# 7.5 Resource Protection
 
 Sources: [CISSP Certification Exam Outline, 7.5](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

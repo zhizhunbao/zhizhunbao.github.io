@@ -1,10 +1,10 @@
 ---
-title: "8.6 Data management"
+title: "8.6 Data Management"
 description: "Microsoft Azure, 8.6 Data management: Azure Storage Discovery, Azure Storage Actions, Azure Data Share, Azure Backup, Azure HPC Cache."
 ms.date: 2026-10-27
 ---
 
-# 8.6 Data management
+# 8.6 Data Management
 
 ## Classification
 

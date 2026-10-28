@@ -1,10 +1,10 @@
 ---
-title: "20.2 Governance and compliance"
+title: "20.2 Governance and Compliance"
 description: "Microsoft Azure, 20.2 Governance and compliance: Microsoft Purview, Azure Policy, Resource locks, Service Trust Portal."
 ms.date: 2026-10-26
 ---
 
-# 20.2 Governance and compliance
+# 20.2 Governance and Compliance
 
 ## Classification
 

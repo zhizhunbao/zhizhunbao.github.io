@@ -1,10 +1,10 @@
 ---
-title: "9.6 Addressing cyberbullying and harassment"
+title: "9.6 Addressing Cyberbullying and Harassment"
 description: "CS2023 SPD-SEP/Web, 9.6 Addressing cyberbullying and harassment (Non-core)."
 ms.date: 2026-10-25
 ---
 
-# 9.6 Addressing cyberbullying and harassment
+# 9.6 Addressing Cyberbullying and Harassment
 
 Sources: [CS2023 Body of Knowledge, SPD-SEP/Web, topic 6, p. 248](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=248).
 

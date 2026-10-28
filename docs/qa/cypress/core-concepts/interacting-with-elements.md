@@ -1,10 +1,10 @@
 ---
-title: "2.3 Interacting with elements"
+title: "2.3 Interacting with Elements"
 description: "Cypress, 2.3 Interacting with elements."
 ms.date: 2026-10-25
 ---
 
-# 2.3 Interacting with elements
+# 2.3 Interacting with Elements
 
 Sources: [Cypress documentation, 2.3 Interacting with elements](https://docs.cypress.io/app/core-concepts/interacting-with-elements).
 

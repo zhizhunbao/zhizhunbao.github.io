@@ -1,10 +1,10 @@
 ---
-title: "12. Semi-structured and Unstructured Databases"
+title: "12. Semi-Structured and Unstructured Databases"
 description: "CS2023 knowledge unit DM-Unstructured: Semi-structured and Unstructured Databases, 2 topics."
 ms.date: 2026-10-25
 ---
 
-# 12. Semi-structured and Unstructured Databases
+# 12. Semi-Structured and Unstructured Databases
 
 The pages under this one are the topics of the CS2023 knowledge unit DM-Unstructured, with CS2023's numbering and order: 2 Non-core topics.
 

@@ -1,10 +1,10 @@
 ---
-title: "1.5 Modular arithmetic"
+title: "1.5 Modular Arithmetic"
 description: "CS2023 MSF-Discrete, 1.5 Modular arithmetic (CS Core): Modular arithmetic."
 ms.date: 2026-10-27
 ---
 
-# 1.5 Modular arithmetic
+# 1.5 Modular Arithmetic
 
 ## Classification
 

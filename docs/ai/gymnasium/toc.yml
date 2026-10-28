@@ -21,7 +21,7 @@ items:
   items:
   - name: "2.1 Env"
     href: api/env.md
-  - name: "2.2 Make and register"
+  - name: "2.2 Make and Register"
     href: api/make-and-register.md
   - name: "2.3 Spaces"
     href: api/spaces.md
@@ -29,7 +29,7 @@ items:
     href: api/wrappers.md
   - name: "2.5 Vectorize"
     href: api/vectorize.md
-  - name: "2.6 Utility functions"
+  - name: "2.6 Utility Functions"
     href: api/utility-functions.md
   - name: "2.7 Typing"
     href: api/typing.md

@@ -1,10 +1,10 @@
 ---
-title: "10. Advanced File systems"
+title: "10. Advanced File Systems"
 description: "CS2023 knowledge unit OS-Advanced-Files: Advanced File systems, 9 topics."
 ms.date: 2026-10-25
 ---
 
-# 10. Advanced File systems
+# 10. Advanced File Systems
 
 The pages under this one are the topics of the CS2023 knowledge unit OS-Advanced-Files, with CS2023's numbering and order: 6 KA Core, 3 Non-core topics. CS2023 notes: (including emerging topics)
 

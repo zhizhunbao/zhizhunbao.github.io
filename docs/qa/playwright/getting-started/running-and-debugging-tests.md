@@ -1,10 +1,10 @@
 ---
-title: "1.4 Running and debugging tests"
+title: "1.4 Running and Debugging Tests"
 description: "Playwright, 1.4 Running and debugging tests."
 ms.date: 2026-10-25
 ---
 
-# 1.4 Running and debugging tests
+# 1.4 Running and Debugging Tests
 
 Sources: [Playwright documentation (Node.js), 1.4 Running and debugging tests](https://playwright.dev/docs/running-tests).
 

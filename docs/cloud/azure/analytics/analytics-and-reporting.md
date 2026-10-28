@@ -1,10 +1,10 @@
 ---
-title: "11.6 Analytics and reporting"
+title: "11.6 Analytics and Reporting"
 description: "Microsoft Azure, 11.6 Analytics and reporting: Power BI semantic models, Power BI, Azure Databricks, Fabric Data Science, Azure Analysis Services, Power BI Embedded."
 ms.date: 2026-10-27
 ---
 
-# 11.6 Analytics and reporting
+# 11.6 Analytics and Reporting
 
 ## Classification
 

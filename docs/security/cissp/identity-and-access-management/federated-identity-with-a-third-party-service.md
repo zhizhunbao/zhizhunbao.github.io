@@ -1,10 +1,10 @@
 ---
-title: "5.3 Federated identity with a third-party service"
+title: "5.3 Federated Identity with a Third-Party Service"
 description: "CISSP, 5.3 Federated identity with a third-party service."
 ms.date: 2026-10-25
 ---
 
-# 5.3 Federated identity with a third-party service
+# 5.3 Federated Identity with a Third-Party Service
 
 Sources: [CISSP Certification Exam Outline, 5.3](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

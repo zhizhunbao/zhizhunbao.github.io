@@ -1,10 +1,10 @@
 ---
-title: "3.4 Metrics and scoring: quantifying the quality of predictions"
+title: "3.4 Metrics and Scoring: Quantifying the Quality of Predictions"
 description: "scikit-learn, 3.4 Metrics and scoring: quantifying the quality of predictions: 3.4.1 Which scoring function should I use?, 3.4.2 Scoring API overview, 3.4.3 The scoring parameter: defining model evaluation rules, 3.4.4 Classification metrics, 3.4.5 Multilabel ranking metrics, 3.4.6 Regression metrics, 3.4.7 Clustering metrics, 3.4.8 Dummy estimators."
 ms.date: 2026-10-25
 ---
 
-# 3.4 Metrics and scoring: quantifying the quality of predictions
+# 3.4 Metrics and Scoring: Quantifying the Quality of Predictions
 
 Sources: [scikit-learn User Guide, 3.4 Metrics and scoring: quantifying the quality of predictions](https://scikit-learn.org/stable/modules/model_evaluation.html).
 

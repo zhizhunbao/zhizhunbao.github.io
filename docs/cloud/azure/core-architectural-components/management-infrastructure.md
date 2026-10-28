@@ -1,10 +1,10 @@
 ---
-title: "2.2 Management infrastructure"
+title: "2.2 Management Infrastructure"
 description: "Microsoft Azure, 2.2 Management infrastructure: resources, resource groups, subscriptions, management groups, Azure account."
 ms.date: 2026-10-26
 ---
 
-# 2.2 Management infrastructure
+# 2.2 Management Infrastructure
 
 ## Classification
 

@@ -1,10 +1,10 @@
 ---
-title: "1.1 Deployment models"
+title: "1.1 Deployment Models"
 description: "Microsoft Azure, 1.1 Deployment models: private cloud, community cloud, public cloud, hybrid cloud, multicloud."
 ms.date: 2026-10-26
 ---
 
-# 1.1 Deployment models
+# 1.1 Deployment Models
 
 ## Classification
 

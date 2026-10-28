@@ -1,10 +1,10 @@
 ---
-title: "12.2 Accountability for AI-generated outputs"
+title: "12.2 Accountability for AI-generated Outputs"
 description: "CS2023 SPD-SEP/Interactive, 12.2 Accountability for AI-generated outputs (Non-core)."
 ms.date: 2026-10-25
 ---
 
-# 12.2 Accountability for AI-generated outputs
+# 12.2 Accountability for AI-generated Outputs
 
 Sources: [CS2023 Body of Knowledge, SPD-SEP/Interactive, topic 2, p. 250](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=250).
 

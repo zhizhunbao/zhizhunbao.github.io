@@ -1,10 +1,10 @@
 ---
-title: "11.3 Real-time message ingestion"
+title: "11.3 Real-Time Message Ingestion"
 description: "Microsoft Azure, 11.3 Real-time message ingestion: Azure Event Hubs, Azure IoT Hub, Apache Kafka."
 ms.date: 2026-10-27
 ---
 
-# 11.3 Real-time message ingestion
+# 11.3 Real-Time Message Ingestion
 
 ## Classification
 

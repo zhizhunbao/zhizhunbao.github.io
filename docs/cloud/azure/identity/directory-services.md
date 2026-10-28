@@ -1,10 +1,10 @@
 ---
-title: "17.1 Directory services"
+title: "17.1 Directory Services"
 description: "Microsoft Azure, 17.1 Directory services: Microsoft Entra ID, Microsoft Entra Connect, Microsoft Entra Domain Services."
 ms.date: 2026-10-27
 ---
 
-# 17.1 Directory services
+# 17.1 Directory Services
 
 ## Classification
 

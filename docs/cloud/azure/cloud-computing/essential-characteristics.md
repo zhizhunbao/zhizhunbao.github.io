@@ -1,10 +1,10 @@
 ---
-title: "1.4 Essential characteristics"
+title: "1.4 Essential Characteristics"
 description: "Microsoft Azure, 1.4 Essential characteristics: on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service."
 ms.date: 2026-10-26
 ---
 
-# 1.4 Essential characteristics
+# 1.4 Essential Characteristics
 
 ## Classification
 

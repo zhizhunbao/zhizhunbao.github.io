@@ -1,10 +1,10 @@
 ---
-title: "1.8 Order notation"
+title: "1.8 Order Notation"
 description: "CS2023 MSF-Discrete, 1.8 Order notation (CS Core): Order notation."
 ms.date: 2026-10-27
 ---
 
-# 1.8 Order notation
+# 1.8 Order Notation
 
 ## Classification
 

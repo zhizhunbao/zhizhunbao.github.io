@@ -74,7 +74,7 @@ items:
     href: web-application-security-testing/testing-for-weak-cryptography.md
   - name: "4.10 Business Logic Testing"
     href: web-application-security-testing/business-logic-testing.md
-  - name: "4.11 Client-side Testing"
+  - name: "4.11 Client-Side Testing"
     href: web-application-security-testing/client-side-testing.md
   - name: "4.12 API Testing"
     href: web-application-security-testing/api-testing.md

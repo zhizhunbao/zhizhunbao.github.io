@@ -1,10 +1,10 @@
 ---
-title: "3.3 Advantages and disadvantages of common scheduling algorithms"
+title: "3.3 Advantages and Disadvantages of Common Scheduling Algorithms"
 description: "CS2023 SF-Resource, 3.3 Advantages and disadvantages of common scheduling algorithms (KA Core)."
 ms.date: 2026-10-25
 ---
 
-# 3.3 Advantages and disadvantages of common scheduling algorithms
+# 3.3 Advantages and Disadvantages of Common Scheduling Algorithms
 
 Sources: [CS2023 Body of Knowledge, SF-Resource, topic 3, p. 232](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=232).
 

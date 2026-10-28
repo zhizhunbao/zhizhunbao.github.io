@@ -1,10 +1,10 @@
 ---
-title: "3.5 Spreadsheet models"
+title: "3.5 Spreadsheet Models"
 description: "CS2023 DM-Modeling, 3.5 Spreadsheet models (Non-core)."
 ms.date: 2026-10-25
 ---
 
-# 3.5 Spreadsheet models
+# 3.5 Spreadsheet Models
 
 Sources: [CS2023 Body of Knowledge, DM-Modeling, topic 5, p. 54](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=54).
 

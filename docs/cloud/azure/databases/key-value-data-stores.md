@@ -1,10 +1,10 @@
 ---
-title: "9.4 Key-value data stores"
+title: "9.4 Key-Value Data Stores"
 description: "Microsoft Azure, 9.4 Key-value data stores: Azure Managed Redis, Azure Cosmos DB for Table, Azure Cosmos DB for NoSQL."
 ms.date: 2026-10-27
 ---
 
-# 9.4 Key-value data stores
+# 9.4 Key-Value Data Stores
 
 ## Classification
 

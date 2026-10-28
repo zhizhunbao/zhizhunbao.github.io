@@ -1,10 +1,10 @@
 ---
-title: "2.5 Conditional distributions and expectation"
+title: "2.5 Conditional Distributions and Expectation"
 description: "CS2023 MSF-Probability, 2.5 Conditional distributions and expectation (CS Core): Conditional distribution, Conditional expectation."
 ms.date: 2026-10-27
 ---
 
-# 2.5 Conditional distributions and expectation
+# 2.5 Conditional Distributions and Expectation
 
 ## Classification
 

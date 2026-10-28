@@ -1,10 +1,10 @@
 ---
-title: "17.11 Domain specific languages, such as database languages, data science languages, embedded computing languages, synchronous languages, hardware interface languages"
+title: "17.11 Domain Specific Languages, Such as Database Languages, Data Science Languages, Embedded Computing Languages, Synchronous Languages, Hardware Interface Languages"
 description: "CS2023 FPL-Constructs, 17.11 Domain specific languages, such as database languages, data science languages, embedded computing languages, synchronous languages, hardware interface languages (Non-core)."
 ms.date: 2026-10-25
 ---
 
-# 17.11 Domain specific languages, such as database languages, data science languages, embedded computing languages, synchronous languages, hardware interface languages
+# 17.11 Domain Specific Languages, Such as Database Languages, Data Science Languages, Embedded Computing Languages, Synchronous Languages, Hardware Interface Languages
 
 Sources: [CS2023 Body of Knowledge, FPL-Constructs, topic 11, p. 82](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=82).
 

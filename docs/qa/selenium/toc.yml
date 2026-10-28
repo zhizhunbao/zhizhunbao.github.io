@@ -90,7 +90,7 @@ items:
 - name: "10. Warnings"
   href: warnings/index.md
   items:
-  - name: "10.1 BiDi implementation API"
+  - name: "10.1 BiDi Implementation API"
     href: warnings/bidi-implementation-api.md
 - name: "11. About"
   href: about/index.md

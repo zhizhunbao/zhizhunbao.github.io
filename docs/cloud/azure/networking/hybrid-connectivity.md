@@ -1,10 +1,10 @@
 ---
-title: "7.3 Hybrid connectivity"
+title: "7.3 Hybrid Connectivity"
 description: "Microsoft Azure, 7.3 Hybrid connectivity: VPN Gateway, ExpressRoute, Virtual WAN, Peering Service."
 ms.date: 2026-10-27
 ---
 
-# 7.3 Hybrid connectivity
+# 7.3 Hybrid Connectivity
 
 ## Classification
 

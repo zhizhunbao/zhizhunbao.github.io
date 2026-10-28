@@ -1,10 +1,10 @@
 ---
-title: "4.3 Functions as a service (FaaS)"
+title: "4.3 Functions as a Service (FaaS)"
 description: "Microsoft Azure, 4.3 Functions as a service (FaaS): Azure Functions."
 ms.date: 2026-10-26
 ---
 
-# 4.3 Functions as a service (FaaS)
+# 4.3 Functions as a Service (FaaS)
 
 ## Classification
 

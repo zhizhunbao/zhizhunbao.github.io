@@ -1,10 +1,10 @@
 ---
-title: "1.3 Proof techniques (induction, proof by contradiction)"
+title: "1.3 Proof Techniques (induction, proof by contradiction)"
 description: "CS2023 MSF-Discrete, 1.3 Proof techniques (induction, proof by contradiction) (CS Core): Induction, Proof by contradiction."
 ms.date: 2026-10-27
 ---
 
-# 1.3 Proof techniques (induction, proof by contradiction)
+# 1.3 Proof Techniques (induction, proof by contradiction)
 
 ## Classification
 

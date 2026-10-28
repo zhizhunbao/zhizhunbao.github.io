@@ -17,7 +17,7 @@ items:
   href: pytest/toc.yml
 - name: Selenium
   href: selenium/toc.yml
-- name: unittest
+- name: Unittest
   href: unittest/toc.yml
 - name: Vitest
   href: vitest/toc.yml

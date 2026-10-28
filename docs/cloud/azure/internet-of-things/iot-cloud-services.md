@@ -1,10 +1,10 @@
 ---
-title: "12.2 IoT cloud services"
+title: "12.2 IoT Cloud Services"
 description: "Microsoft Azure, 12.2 IoT cloud services: Azure IoT Hub, Device Provisioning Service, Device Update for IoT Hub, Azure Digital Twins, Azure Device Registry, Azure IoT Central."
 ms.date: 2026-10-27
 ---
 
-# 12.2 IoT cloud services
+# 12.2 IoT Cloud Services
 
 ## Classification
 

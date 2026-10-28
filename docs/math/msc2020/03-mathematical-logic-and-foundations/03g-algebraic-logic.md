@@ -1,7 +1,7 @@
 ---
-title: "03G Algebraic logic"
+title: "03G Algebraic Logic"
 description: "MSC2020 class 03Gxx, Algebraic logic: 8 classes."
 ms.date: 2026-10-27
 ---
 
-# 03G Algebraic logic
+# 03G Algebraic Logic

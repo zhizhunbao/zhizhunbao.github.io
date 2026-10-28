@@ -1,10 +1,10 @@
 ---
-title: "2.2 Threat actors and motivations"
+title: "2.2 Threat Actors and Motivations"
 description: "CompTIA Security+, 2.2 Threat actors and motivations: Threat actors, Motivations, Attributes of actors."
 ms.date: 2026-10-25
 ---
 
-# 2.2 Threat actors and motivations
+# 2.2 Threat Actors and Motivations
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 2.2](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

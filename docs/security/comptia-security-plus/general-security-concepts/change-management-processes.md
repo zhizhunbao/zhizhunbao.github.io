@@ -1,10 +1,10 @@
 ---
-title: "1.2 Change management processes"
+title: "1.2 Change Management Processes"
 description: "CompTIA Security+, 1.2 Change management processes: Business processes impacting security operations, Technical implications, Documentation, Version control."
 ms.date: 2026-10-25
 ---
 
-# 1.2 Change management processes
+# 1.2 Change Management Processes
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 1.2](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

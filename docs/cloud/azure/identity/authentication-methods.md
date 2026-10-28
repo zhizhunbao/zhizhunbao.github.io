@@ -1,10 +1,10 @@
 ---
-title: "17.2 Authentication methods"
+title: "17.2 Authentication Methods"
 description: "Microsoft Azure, 17.2 Authentication methods: Single sign-on (SSO), Multifactor authentication (MFA), Passwordless authentication."
 ms.date: 2026-10-27
 ---
 
-# 17.2 Authentication methods
+# 17.2 Authentication Methods
 
 ## Classification
 

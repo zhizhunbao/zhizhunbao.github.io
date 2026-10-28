@@ -1,7 +1,7 @@
 ---
-title: "76A Foundations, constitutive equations, rheology, hydrodynamical models of non-fluid phenomena"
+title: "76A Foundations, Constitutive Equations, Rheology, Hydrodynamical Models of Non-Fluid Phenomena"
 description: "MSC2020 class 76Axx, Foundations, constitutive equations, rheology, hydrodynamical models of non-fluid phenomena: 7 classes."
 ms.date: 2026-10-27
 ---
 
-# 76A Foundations, constitutive equations, rheology, hydrodynamical models of non-fluid phenomena
+# 76A Foundations, Constitutive Equations, Rheology, Hydrodynamical Models of Non-Fluid Phenomena

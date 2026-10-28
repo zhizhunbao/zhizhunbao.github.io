@@ -6,7 +6,7 @@ items:
   items:
   - name: "1.1 Imperative programming as a subset of object-oriented programming."
     href: object-oriented-programming/imperative-programming-as-a-subset-of-object-oriented-programming.md
-  - name: "1.2 Object-oriented design"
+  - name: "1.2 Object-Oriented Design"
     href: object-oriented-programming/object-oriented-design.md
   - name: "1.3 Definition of classes: fields, methods, and constructors."
     href: object-oriented-programming/definition-of-classes-fields-methods-and-constructors.md
@@ -16,7 +16,7 @@ items:
     href: object-oriented-programming/dynamic-dispatch-definition-of-method-call.md
   - name: "1.6 Exception handling."
     href: object-oriented-programming/exception-handling.md
-  - name: "1.7 Object-oriented idioms for encapsulation"
+  - name: "1.7 Object-Oriented Idioms for Encapsulation"
     href: object-oriented-programming/object-oriented-idioms-for-encapsulation.md
   - name: "1.8 Dynamic vs static properties."
     href: object-oriented-programming/dynamic-vs-static-properties.md
@@ -31,11 +31,11 @@ items:
 - name: "2. Functional Programming"
   href: functional-programming/index.md
   items:
-  - name: "2.1 Lambda expressions and evaluation"
+  - name: "2.1 Lambda Expressions and Evaluation"
     href: functional-programming/lambda-expressions-and-evaluation.md
-  - name: "2.2 Effect-free programming"
+  - name: "2.2 Effect-Free Programming"
     href: functional-programming/effect-free-programming.md
-  - name: "2.3 Processing structured data (e.g., trees) via functions with cases for each data variant"
+  - name: "2.3 Processing Structured Data (e.g., trees) via Functions with Cases for Each Data Variant"
     href: functional-programming/processing-structured-data-via-functions-with-cases-for-each-data-variant.md
   - name: "2.4 Using higher-order functions (taking, returning, and storing functions)."
     href: functional-programming/using-higher-order-functions.md
@@ -85,21 +85,21 @@ items:
 - name: "4. Shell Scripting"
   href: shell-scripting/index.md
   items:
-  - name: "4.1 Error/exception handling"
+  - name: "4.1 Error/exception Handling"
     href: shell-scripting/error-exception-handling.md
   - name: "4.2 Piping"
     href: shell-scripting/piping.md
-  - name: "4.3 System commands"
+  - name: "4.3 System Commands"
     href: shell-scripting/system-commands.md
-  - name: "4.4 Environment variables"
+  - name: "4.4 Environment Variables"
     href: shell-scripting/environment-variables.md
-  - name: "4.5 File abstraction and operators"
+  - name: "4.5 File Abstraction and Operators"
     href: shell-scripting/file-abstraction-and-operators.md
   - name: "4.6 Data structures, such as arrays and lists."
     href: shell-scripting/data-structures-such-as-arrays-and-lists.md
-  - name: "4.7 Regular expressions"
+  - name: "4.7 Regular Expressions"
     href: shell-scripting/regular-expressions.md
-  - name: "4.8 Programs and processes"
+  - name: "4.8 Programs and Processes"
     href: shell-scripting/programs-and-processes.md
   - name: "4.9 Workflow"
     href: shell-scripting/workflow.md
@@ -114,145 +114,145 @@ items:
     href: event-driven-and-reactive-programming/stateless-and-state-transition-models-of-event-based-programming.md
   - name: "5.4 Canonical uses such as GUIs, mobile devices, robots, servers."
     href: event-driven-and-reactive-programming/canonical-uses-such-as-guis-mobile-devices-robots-servers.md
-  - name: "5.5 Using a reactive framework"
+  - name: "5.5 Using a Reactive Framework"
     href: event-driven-and-reactive-programming/using-a-reactive-framework.md
-  - name: "5.6 Separation of model, view, and controller"
+  - name: "5.6 Separation of Model, View, and Controller"
     href: event-driven-and-reactive-programming/separation-of-model-view-and-controller.md
-  - name: "5.7 Event-driven and reactive programs as state-transition systems"
+  - name: "5.7 Event-Driven and Reactive Programs as State-Transition Systems"
     href: event-driven-and-reactive-programming/event-driven-and-reactive-programs-as-state-transition-systems.md
 - name: "6. Parallel and Distributed Computing"
   href: parallel-and-distributed-computing/index.md
   items:
-  - name: "6.1 Safety and liveness"
+  - name: "6.1 Safety and Liveness"
     href: parallel-and-distributed-computing/safety-and-liveness.md
-  - name: "6.2 Programming models One or more of the following"
+  - name: "6.2 Programming Models One or More of the Following"
     href: parallel-and-distributed-computing/programming-models-one-or-more-of-the-following.md
   - name: "6.3 Properties"
     href: parallel-and-distributed-computing/properties.md
-  - name: "6.4 Execution control"
+  - name: "6.4 Execution Control"
     href: parallel-and-distributed-computing/execution-control.md
-  - name: "6.5 Communication and coordination"
+  - name: "6.5 Communication and Coordination"
     href: parallel-and-distributed-computing/communication-and-coordination.md
   - name: "6.6 Futures"
     href: parallel-and-distributed-computing/futures.md
-  - name: "6.7 Language support for data parallelism such as forall, loop unrolling, map/reduce"
+  - name: "6.7 Language Support for Data Parallelism Such as Forall, Loop Unrolling, map/reduce"
     href: parallel-and-distributed-computing/language-support-for-data-parallelism-such-as-forall-loop-unrolling-map-reduce.md
-  - name: "6.8 Effect of memory-consistency models on language semantics and correct code generation"
+  - name: "6.8 Effect of Memory-Consistency Models on Language Semantics and Correct Code Generation"
     href: parallel-and-distributed-computing/effect-of-memory-consistency-models-on-language-semantics-and-correct-code-gener.md
   - name: "6.9 Representational State Transfer Application Programming Interfaces (REST APIs)"
     href: parallel-and-distributed-computing/representational-state-transfer-application-programming-interfaces.md
-  - name: "6.10 Technologies and approaches: cloud computing, high performance computing, quantum computing, ubiquitous computing"
+  - name: "6.10 Technologies and Approaches: Cloud Computing, High Performance Computing, Quantum Computing, Ubiquitous Computing"
     href: parallel-and-distributed-computing/technologies-and-approaches-cloud-computing-high-performance-computing-quantum-c.md
-  - name: "6.11 Overheads of message-passing"
+  - name: "6.11 Overheads of Message-Passing"
     href: parallel-and-distributed-computing/overheads-of-message-passing.md
-  - name: "6.12 Granularity of program for efficient exploitation of concurrency"
+  - name: "6.12 Granularity of Program for Efficient Exploitation of Concurrency"
     href: parallel-and-distributed-computing/granularity-of-program-for-efficient-exploitation-of-concurrency.md
-  - name: "6.13 Concurrency and other programming paradigms (e.g., functional)"
+  - name: "6.13 Concurrency and Other Programming Paradigms (e.g., functional)"
     href: parallel-and-distributed-computing/concurrency-and-other-programming-paradigms.md
 - name: "7. Aspect-Oriented Programming"
   href: aspect-oriented-programming/index.md
   items:
   - name: "7.1 Aspects"
     href: aspect-oriented-programming/aspects.md
-  - name: "7.2 Join points"
+  - name: "7.2 Join Points"
     href: aspect-oriented-programming/join-points.md
   - name: "7.3 Advice"
     href: aspect-oriented-programming/advice.md
-  - name: "7.4 Point cuts"
+  - name: "7.4 Point Cuts"
     href: aspect-oriented-programming/point-cuts.md
-  - name: "7.5 Weaving – static and dynamic"
+  - name: "7.5 Weaving – Static and Dynamic"
     href: aspect-oriented-programming/weaving-static-and-dynamic.md
-  - name: "7.6 Alternatives including annotations and IDEs"
+  - name: "7.6 Alternatives Including Annotations and IDEs"
     href: aspect-oriented-programming/alternatives-including-annotations-and-ides.md
 - name: "8. Type Systems"
   href: type-systems/index.md
   items:
-  - name: "8.1 A type as a set of values together with a set of operations"
+  - name: "8.1 A Type as a Set of Values Together with a Set of Operations"
     href: type-systems/a-type-as-a-set-of-values-together-with-a-set-of-operations.md
-  - name: "8.2 Association of types to variables, arguments, results, and fields"
+  - name: "8.2 Association of Types to Variables, Arguments, Results, and Fields"
     href: type-systems/association-of-types-to-variables-arguments-results-and-fields.md
-  - name: "8.3 Type safety as an aspect of program correctness"
+  - name: "8.3 Type Safety as an Aspect of Program Correctness"
     href: type-systems/type-safety-as-an-aspect-of-program-correctness.md
-  - name: "8.4 Type safety and errors caused by using values inconsistently given their intended types"
+  - name: "8.4 Type Safety and Errors Caused by Using Values Inconsistently Given Their Intended Types"
     href: type-systems/type-safety-and-errors-caused-by-using-values-inconsistently-given-their-intende.md
   - name: "8.5 Goals and limitations of static and dynamic typing: detecting and eliminating errors as early as possible."
     href: type-systems/goals-and-limitations-of-static-and-dynamic-typing-detecting-and-eliminating-err.md
-  - name: "8.6 Generic types (parametric polymorphism)"
+  - name: "8.6 Generic Types (parametric polymorphism)"
     href: type-systems/generic-types.md
-  - name: "8.7 Type equivalence: structural vs name equivalence"
+  - name: "8.7 Type Equivalence: Structural vs Name Equivalence"
     href: type-systems/type-equivalence-structural-vs-name-equivalence.md
-  - name: "8.8 Complementary benefits of static and dynamic typing"
+  - name: "8.8 Complementary Benefits of Static and Dynamic Typing"
     href: type-systems/complementary-benefits-of-static-and-dynamic-typing.md
-  - name: "8.9 Compositional type constructors, such as product types (for aggregates), sum types (for unions), function types, quantified types, and recursive types"
+  - name: "8.9 Compositional Type Constructors, Such as Product Types (for aggregates), Sum Types (for unions), Function Types, Quantified Types, and Recursive Types"
     href: type-systems/compositional-type-constructors-such-as-product-types-sum-types-function-types-q.md
-  - name: "8.10 Type checking"
+  - name: "8.10 Type Checking"
     href: type-systems/type-checking.md
   - name: "8.11 Subtyping"
     href: type-systems/subtyping.md
-  - name: "8.12 Type safety as preservation plus progress"
+  - name: "8.12 Type Safety as Preservation Plus Progress"
     href: type-systems/type-safety-as-preservation-plus-progress.md
-  - name: "8.13 Type inference"
+  - name: "8.13 Type Inference"
     href: type-systems/type-inference.md
-  - name: "8.14 Static overloading"
+  - name: "8.14 Static Overloading"
     href: type-systems/static-overloading.md
-  - name: "8.15 Propositions as types (implication as a function, conjunction as a product, disjunction as a sum)"
+  - name: "8.15 Propositions as Types (implication as a function, conjunction as a product, disjunction as a sum)"
     href: type-systems/propositions-as-types.md
   - name: "8.16 Dependent types (universal quantification as dependent function, existential quantification as dependent product)."
     href: type-systems/dependent-types.md
 - name: "9. Systems Execution and Memory Model"
   href: systems-execution-and-memory-model/index.md
   items:
-  - name: "9.1 Data structures for translation, execution, translation, and code mobility such as stack, heap, aliasing (sharing using pointers), indexed sequence and string"
+  - name: "9.1 Data Structures for Translation, Execution, Translation, and Code Mobility Such as Stack, Heap, Aliasing (sharing using pointers), Indexed Sequence and String"
     href: systems-execution-and-memory-model/data-structures-for-translation-execution-translation-and-code-mobility-such-as.md
-  - name: "9.2 Direct, indirect, and indexed access to memory location"
+  - name: "9.2 Direct, Indirect, and Indexed Access to Memory Location"
     href: systems-execution-and-memory-model/direct-indirect-and-indexed-access-to-memory-location.md
-  - name: "9.3 Run-time representation of data abstractions such as variables, arrays, vectors, records, pointer- based data elements such as linked-lists and trees, and objects"
+  - name: "9.3 Run-Time Representation of Data Abstractions Such as Variables, Arrays, Vectors, Records, pointer- Based Data Elements Such as Linked-Lists and Trees, and Objects"
     href: systems-execution-and-memory-model/run-time-representation-of-data-abstractions-such-as-variables-arrays-vectors-re.md
-  - name: "9.4 Abstract low-level machine with simple instruction, stack, and heap to explain translation and execution"
+  - name: "9.4 Abstract Low-Level Machine with Simple Instruction, Stack, and Heap to Explain Translation and Execution"
     href: systems-execution-and-memory-model/abstract-low-level-machine-with-simple-instruction-stack-and-heap-to-explain-tra.md
-  - name: "9.5 Run-time layout of memory: activation record (with various pointers), static data, call-stack, heap"
+  - name: "9.5 Run-Time Layout of Memory: Activation Record (with various pointers), Static Data, Call-Stack, Heap"
     href: systems-execution-and-memory-model/run-time-layout-of-memory-activation-record-static-data-call-stack-heap.md
-  - name: "9.6 Memory management"
+  - name: "9.6 Memory Management"
     href: systems-execution-and-memory-model/memory-management.md
   - name: "9.7 Green computing."
     href: systems-execution-and-memory-model/green-computing.md
 - name: "10. Language Translation and Execution"
   href: language-translation-and-execution/index.md
   items:
-  - name: "10.1 Execution models for JIT (Just-In-Time), compiler, interpreter"
+  - name: "10.1 Execution Models for JIT (Just-In-Time), Compiler, Interpreter"
     href: language-translation-and-execution/execution-models-for-jit-compiler-interpreter.md
-  - name: "10.2 Use of intermediate code, e.g., bytecode"
+  - name: "10.2 Use of Intermediate Code, e.g., Bytecode"
     href: language-translation-and-execution/use-of-intermediate-code-e-g-bytecode.md
-  - name: "10.3 Limitations and benefits of JIT, compiler, and interpreter"
+  - name: "10.3 Limitations and Benefits of JIT, Compiler, and Interpreter"
     href: language-translation-and-execution/limitations-and-benefits-of-jit-compiler-and-interpreter.md
   - name: "10.4 Cross compilers/transpilers"
     href: language-translation-and-execution/cross-compilers-transpilers.md
-  - name: "10.5 BNF and extended BNF representation of context-free grammar"
+  - name: "10.5 BNF and Extended BNF Representation of Context-Free Grammar"
     href: language-translation-and-execution/bnf-and-extended-bnf-representation-of-context-free-grammar.md
-  - name: "10.6 Parse tree using a simple sentence such as arithmetic expression or if-then-else statement"
+  - name: "10.6 Parse Tree Using a Simple Sentence Such as Arithmetic Expression or If-Then-Else Statement"
     href: language-translation-and-execution/parse-tree-using-a-simple-sentence-such-as-arithmetic-expression-or-if-then-else.md
-  - name: "10.7 Execution as native code or within a virtual machine"
+  - name: "10.7 Execution as Native Code or within a Virtual Machine"
     href: language-translation-and-execution/execution-as-native-code-or-within-a-virtual-machine.md
-  - name: "10.8 Language translation pipeline: syntax analysis, parsing, optional type-checking, translation/code generation and optimization, linking, loading, execution"
+  - name: "10.8 Language Translation Pipeline: Syntax Analysis, Parsing, Optional Type-Checking, translation/code Generation and Optimization, Linking, Loading, Execution"
     href: language-translation-and-execution/language-translation-pipeline-syntax-analysis-parsing-optional-type-checking-tra.md
-  - name: "10.9 Run-time representation of core language constructs such as objects (method tables) and first-class functions (closures)"
+  - name: "10.9 Run-Time Representation of Core Language Constructs Such as Objects (method tables) and First-Class Functions (closures)"
     href: language-translation-and-execution/run-time-representation-of-core-language-constructs-such-as-objects-and-first-cl.md
-  - name: "10.10 Secure compiler development"
+  - name: "10.10 Secure Compiler Development"
     href: language-translation-and-execution/secure-compiler-development.md
 - name: "11. Program Abstraction and Representation"
   href: program-abstraction-and-representation/index.md
   items:
-  - name: "11.1 BNF and regular expressions"
+  - name: "11.1 BNF and Regular Expressions"
     href: program-abstraction-and-representation/bnf-and-regular-expressions.md
-  - name: "11.2 Programs that take (other) programs as input such as interpreters, compilers, type-checkers, documentation generators"
+  - name: "11.2 Programs That Take (other) Programs as Input Such as Interpreters, Compilers, Type-Checkers, Documentation Generators"
     href: program-abstraction-and-representation/programs-that-take-programs-as-input-such-as-interpreters-compilers-type-checker.md
-  - name: "11.3 Components of a language"
+  - name: "11.3 Components of a Language"
     href: program-abstraction-and-representation/components-of-a-language.md
-  - name: "11.4 Program as a set of non-ambiguous meaningful sentences"
+  - name: "11.4 Program as a Set of Non-Ambiguous Meaningful Sentences"
     href: program-abstraction-and-representation/program-as-a-set-of-non-ambiguous-meaningful-sentences.md
-  - name: "11.5 Basic programming abstractions: constants, variables, declarations (including nested declarations), command, expression, assignment, selection, definite and indefinite iteration, iterators, function, procedure, modules, exception handling"
+  - name: "11.5 Basic Programming Abstractions: Constants, Variables, Declarations (including nested declarations), Command, Expression, Assignment, Selection, Definite and Indefinite Iteration, Iterators, Function, Procedure, Modules, Exception Handling"
     href: program-abstraction-and-representation/basic-programming-abstractions-constants-variables-declarations-command-expressi.md
-  - name: "11.6 Mutable vs immutable variables: advantages and disadvantages of reusing existing memory location vs advantages of copying and keeping old values; storing partial computation vs recomputation"
+  - name: "11.6 Mutable vs Immutable Variables: Advantages and Disadvantages of Reusing Existing Memory Location vs Advantages of Copying and Keeping Old Values; Storing Partial Computation vs Recomputation"
     href: program-abstraction-and-representation/mutable-vs-immutable-variables-advantages-and-disadvantages-of-reusing-existing.md
   - name: "11.7 Types of variables: static, local, nonlocal, global; need and issues with nonlocal and global variables."
     href: program-abstraction-and-representation/types-of-variables-static-local-nonlocal-global-need-and-issues-with-nonlocal-an.md
@@ -260,17 +260,17 @@ items:
     href: program-abstraction-and-representation/scope-rules-static-vs-dynamic-visibility-of-variables-side-effects.md
   - name: "11.9 Side-effects induced by nonlocal variables, global variables and aliased variables."
     href: program-abstraction-and-representation/side-effects-induced-by-nonlocal-variables-global-variables-and-aliased-variable.md
-  - name: "11.10 L-values and R-values: mapping mutable variable-name to L-values; mapping immutable variable- names to R-values"
+  - name: "11.10 L-Values and R-Values: Mapping Mutable Variable-Name to L-Values; Mapping Immutable variable- Names to R-Values"
     href: program-abstraction-and-representation/l-values-and-r-values-mapping-mutable-variable-name-to-l-values-mapping-immutabl.md
-  - name: "11.11 Environment vs store and their properties"
+  - name: "11.11 Environment vs Store and Their Properties"
     href: program-abstraction-and-representation/environment-vs-store-and-their-properties.md
-  - name: "11.12 Data and control abstraction"
+  - name: "11.12 Data and Control Abstraction"
     href: program-abstraction-and-representation/data-and-control-abstraction.md
-  - name: "11.13 Mechanisms for information exchange between program units such as procedures, functions, and modules: nonlocal variables, global variables, parameter-passing, import-export between modules"
+  - name: "11.13 Mechanisms for Information Exchange Between Program Units Such as Procedures, Functions, and Modules: Nonlocal Variables, Global Variables, Parameter-Passing, Import-Export Between Modules"
     href: program-abstraction-and-representation/mechanisms-for-information-exchange-between-program-units-such-as-procedures-fun.md
   - name: "11.14 Data structures to represent code for execution, translation, or transmission."
     href: program-abstraction-and-representation/data-structures-to-represent-code-for-execution-translation-or-transmission.md
-  - name: "11.15 Low level instruction representation such as virtual machine instructions, assembly language, and binary representation"
+  - name: "11.15 Low Level Instruction Representation Such as Virtual Machine Instructions, Assembly Language, and Binary Representation"
     href: program-abstraction-and-representation/low-level-instruction-representation-such-as-virtual-machine-instructions-assemb.md
   - name: "11.16 Lambda calculus, variable binding, and variable renaming."
     href: program-abstraction-and-representation/lambda-calculus-variable-binding-and-variable-renaming.md
@@ -279,185 +279,185 @@ items:
 - name: "12. Syntax Analysis"
   href: syntax-analysis/index.md
   items:
-  - name: "12.1 Regular grammars vs context-free grammars"
+  - name: "12.1 Regular Grammars vs Context-Free Grammars"
     href: syntax-analysis/regular-grammars-vs-context-free-grammars.md
-  - name: "12.2 Scanning and parsing based on language specifications"
+  - name: "12.2 Scanning and Parsing Based on Language Specifications"
     href: syntax-analysis/scanning-and-parsing-based-on-language-specifications.md
-  - name: "12.3 Lexical analysis using regular expressions"
+  - name: "12.3 Lexical Analysis Using Regular Expressions"
     href: syntax-analysis/lexical-analysis-using-regular-expressions.md
-  - name: "12.4 Tokens and their use"
+  - name: "12.4 Tokens and Their Use"
     href: syntax-analysis/tokens-and-their-use.md
-  - name: "12.5 Parsing strategies including top-down (e.g., recursive descent, or LL) and bottom-up (e.g., LR or GLR) techniques"
+  - name: "12.5 Parsing Strategies Including Top-Down (e.g., recursive descent, or LL) and Bottom-up (e.g., LR or GLR) Techniques"
     href: syntax-analysis/parsing-strategies-including-top-down-and-bottom-up-techniques.md
-  - name: "12.6 Language theory"
+  - name: "12.6 Language Theory"
     href: syntax-analysis/language-theory.md
-  - name: "12.7 Parser error recovery mechanisms"
+  - name: "12.7 Parser Error Recovery Mechanisms"
     href: syntax-analysis/parser-error-recovery-mechanisms.md
-  - name: "12.8 Generating scanners and parsers from declarative specifications"
+  - name: "12.8 Generating Scanners and Parsers from Declarative Specifications"
     href: syntax-analysis/generating-scanners-and-parsers-from-declarative-specifications.md
 - name: "13. Compiler Semantic Analysis"
   href: compiler-semantic-analysis/index.md
   items:
-  - name: "13.1 Abstract syntax trees; contrast with concrete syntax"
+  - name: "13.1 Abstract Syntax Trees; Contrast with Concrete Syntax"
     href: compiler-semantic-analysis/abstract-syntax-trees-contrast-with-concrete-syntax.md
-  - name: "13.2 Defining, traversing, and modifying high-level program representations"
+  - name: "13.2 Defining, Traversing, and Modifying High-Level Program Representations"
     href: compiler-semantic-analysis/defining-traversing-and-modifying-high-level-program-representations.md
-  - name: "13.3 Scope and binding resolution"
+  - name: "13.3 Scope and Binding Resolution"
     href: compiler-semantic-analysis/scope-and-binding-resolution.md
-  - name: "13.4 Static semantics"
+  - name: "13.4 Static Semantics"
     href: compiler-semantic-analysis/static-semantics.md
   - name: "13.5 L-values/R-values"
     href: compiler-semantic-analysis/l-values-r-values.md
-  - name: "13.6 Call semantics"
+  - name: "13.6 Call Semantics"
     href: compiler-semantic-analysis/call-semantics.md
-  - name: "13.7 Types of parameter-passing with simple illustrations and comparison: call by value, call by reference, call by value-result, call by name, call by need and their variations"
+  - name: "13.7 Types of Parameter-Passing with Simple Illustrations and Comparison: Call by Value, Call by Reference, Call by Value-Result, Call by Name, Call by Need and Their Variations"
     href: compiler-semantic-analysis/types-of-parameter-passing-with-simple-illustrations-and-comparison-call-by-valu.md
-  - name: "13.8 Declarative specifications such as attribute grammars and their applications in handling limited context-base grammar"
+  - name: "13.8 Declarative Specifications Such as Attribute Grammars and Their Applications in Handling Limited Context-Base Grammar"
     href: compiler-semantic-analysis/declarative-specifications-such-as-attribute-grammars-and-their-applications-in.md
 - name: "14. Program Analysis and Analyzers"
   href: program-analysis-and-analyzers/index.md
   items:
-  - name: "14.4 Relevant program representations, such as basic blocks, control-flow graphs, def-use chains, and static single assignment"
+  - name: "14.4 Relevant Program Representations, Such as Basic Blocks, Control-Flow Graphs, Def-Use Chains, and Static Single Assignment"
     href: program-analysis-and-analyzers/relevant-program-representations-such-as-basic-blocks-control-flow-graphs-def-us.md
-  - name: "14.5 Undecidability and consequences for program analysis"
+  - name: "14.5 Undecidability and Consequences for Program Analysis"
     href: program-analysis-and-analyzers/undecidability-and-consequences-for-program-analysis.md
-  - name: "14.6 Flow-insensitive analysis, such as type-checking and scalable pointer and alias analysis"
+  - name: "14.6 Flow-Insensitive Analysis, Such as Type-Checking and Scalable Pointer and Alias Analysis"
     href: program-analysis-and-analyzers/flow-insensitive-analysis-such-as-type-checking-and-scalable-pointer-and-alias-a.md
-  - name: "14.7 Flow-sensitive analysis, such as forward and backward dataflow analyses"
+  - name: "14.7 Flow-Sensitive Analysis, Such as Forward and Backward Dataflow Analyses"
     href: program-analysis-and-analyzers/flow-sensitive-analysis-such-as-forward-and-backward-dataflow-analyses.md
-  - name: "14.8 Path-sensitive analysis, such as software model checking and software verification"
+  - name: "14.8 Path-Sensitive Analysis, Such as Software Model Checking and Software Verification"
     href: program-analysis-and-analyzers/path-sensitive-analysis-such-as-software-model-checking-and-software-verificatio.md
-  - name: "14.9 Tools and frameworks for implementing analyzers"
+  - name: "14.9 Tools and Frameworks for Implementing Analyzers"
     href: program-analysis-and-analyzers/tools-and-frameworks-for-implementing-analyzers.md
-  - name: "14.10 Role of static analysis in program optimization and data dependency analysis during exploitation of concurrency"
+  - name: "14.10 Role of Static Analysis in Program Optimization and Data Dependency Analysis During Exploitation of Concurrency"
     href: program-analysis-and-analyzers/role-of-static-analysis-in-program-optimization-and-data-dependency-analysis-dur.md
-  - name: "14.11 Role of program analysis in (partial) verification and bug-finding"
+  - name: "14.11 Role of Program Analysis in (partial) Verification and Bug-Finding"
     href: program-analysis-and-analyzers/role-of-program-analysis-in-verification-and-bug-finding.md
   - name: "14.12 Parallelization"
     href: program-analysis-and-analyzers/parallelization.md
 - name: "15. Code Generation"
   href: code-generation/index.md
   items:
-  - name: "15.1 Instruction sets"
+  - name: "15.1 Instruction Sets"
     href: code-generation/instruction-sets.md
-  - name: "15.2 Control flow"
+  - name: "15.2 Control Flow"
     href: code-generation/control-flow.md
-  - name: "15.3 Memory management"
+  - name: "15.3 Memory Management"
     href: code-generation/memory-management.md
-  - name: "15.4 Procedure calls and method dispatching"
+  - name: "15.4 Procedure Calls and Method Dispatching"
     href: code-generation/procedure-calls-and-method-dispatching.md
-  - name: "15.5 Separate compilation; linking"
+  - name: "15.5 Separate Compilation; Linking"
     href: code-generation/separate-compilation-linking.md
-  - name: "15.6 Instruction selection"
+  - name: "15.6 Instruction Selection"
     href: code-generation/instruction-selection.md
-  - name: "15.7 Instruction scheduling (e.g., pipelining)"
+  - name: "15.7 Instruction Scheduling (e.g., pipelining)"
     href: code-generation/instruction-scheduling.md
-  - name: "15.8 Register allocation"
+  - name: "15.8 Register Allocation"
     href: code-generation/register-allocation.md
-  - name: "15.9 Code optimization as a form of program analysis"
+  - name: "15.9 Code Optimization as a Form of Program Analysis"
     href: code-generation/code-optimization-as-a-form-of-program-analysis.md
-  - name: "15.10 Program generation through generative AI"
+  - name: "15.10 Program Generation Through Generative AI"
     href: code-generation/program-generation-through-generative-ai.md
-- name: "16. Run-time Behavior and Systems"
+- name: "16. Run-Time Behavior and Systems"
   href: run-time-behavior-and-systems/index.md
   items:
-  - name: "16.1 Process models using stacks and heaps to allocate and deallocate activation records and recovering environments using frame pointers and return addresses during a procedure call including parameter-passing examples"
+  - name: "16.1 Process Models Using Stacks and Heaps to Allocate and Deallocate Activation Records and Recovering Environments Using Frame Pointers and Return Addresses During a Procedure Call Including Parameter-Passing Examples"
     href: run-time-behavior-and-systems/process-models-using-stacks-and-heaps-to-allocate-and-deallocate-activation-reco.md
-  - name: "16.2 Schematics of code lookup using hash tables for methods in implementations of object-oriented programs"
+  - name: "16.2 Schematics of Code Lookup Using Hash Tables for Methods in Implementations of Object-Oriented Programs"
     href: run-time-behavior-and-systems/schematics-of-code-lookup-using-hash-tables-for-methods-in-implementations-of-ob.md
-  - name: "16.3 Data layout for objects and activation records"
+  - name: "16.3 Data Layout for Objects and Activation Records"
     href: run-time-behavior-and-systems/data-layout-for-objects-and-activation-records.md
-  - name: "16.4 Object allocation in heap"
+  - name: "16.4 Object Allocation in Heap"
     href: run-time-behavior-and-systems/object-allocation-in-heap.md
-  - name: "16.5 Implementing virtual entities and virtual methods; virtual method tables and their application"
+  - name: "16.5 Implementing Virtual Entities and Virtual Methods; Virtual Method Tables and Their Application"
     href: run-time-behavior-and-systems/implementing-virtual-entities-and-virtual-methods-virtual-method-tables-and-thei.md
-  - name: "16.6 Run-time behavior of object-oriented programs"
+  - name: "16.6 Run-Time Behavior of Object-Oriented Programs"
     href: run-time-behavior-and-systems/run-time-behavior-of-object-oriented-programs.md
   - name: "16.7 Compare and contrast allocation of memory during information exchange using parameter-passing and non-local variables (using chain of static links)."
     href: run-time-behavior-and-systems/compare-and-contrast-allocation-of-memory-during-information-exchange-using-para.md
-  - name: "16.8 Dynamic memory management approaches and techniques: malloc/free, garbage collection (mark- sweep, copying, reference counting), regions (also known as arenas or zones)"
+  - name: "16.8 Dynamic Memory Management Approaches and Techniques: malloc/free, Garbage Collection (mark- sweep, copying, reference counting), Regions (also known as arenas or zones)"
     href: run-time-behavior-and-systems/dynamic-memory-management-approaches-and-techniques-malloc-free-garbage-collecti.md
-  - name: "16.9 Just-in-time compilation and dynamic recompilation"
+  - name: "16.9 Just-in-Time Compilation and Dynamic Recompilation"
     href: run-time-behavior-and-systems/just-in-time-compilation-and-dynamic-recompilation.md
-  - name: "16.10 Interface to operating system (e.g., for program initialization)"
+  - name: "16.10 Interface to Operating System (e.g., for program initialization)"
     href: run-time-behavior-and-systems/interface-to-operating-system.md
-  - name: "16.11 Interoperability between programming languages including parameter-passing mechanisms and data representation"
+  - name: "16.11 Interoperability Between Programming Languages Including Parameter-Passing Mechanisms and Data Representation"
     href: run-time-behavior-and-systems/interoperability-between-programming-languages-including-parameter-passing-mecha.md
-  - name: "16.12 Other common features of virtual machines, such as class loading, threads, and security checking"
+  - name: "16.12 Other Common Features of Virtual Machines, Such as Class Loading, Threads, and Security Checking"
     href: run-time-behavior-and-systems/other-common-features-of-virtual-machines-such-as-class-loading-threads-and-secu.md
   - name: "16.13 Sandboxing"
     href: run-time-behavior-and-systems/sandboxing.md
 - name: "17. Advanced Programming Constructs"
   href: advanced-programming-constructs/index.md
   items:
-  - name: "17.1 Encapsulation mechanisms"
+  - name: "17.1 Encapsulation Mechanisms"
     href: advanced-programming-constructs/encapsulation-mechanisms.md
-  - name: "17.2 Lazy evaluation and infinite streams"
+  - name: "17.2 Lazy Evaluation and Infinite Streams"
     href: advanced-programming-constructs/lazy-evaluation-and-infinite-streams.md
-  - name: "17.3 Compare and contrast lazy evaluation vs eager evaluation"
+  - name: "17.3 Compare and Contrast Lazy Evaluation vs Eager Evaluation"
     href: advanced-programming-constructs/compare-and-contrast-lazy-evaluation-vs-eager-evaluation.md
-  - name: "17.4 Unification vs assertion vs expression evaluation"
+  - name: "17.4 Unification vs Assertion vs Expression Evaluation"
     href: advanced-programming-constructs/unification-vs-assertion-vs-expression-evaluation.md
   - name: "17.5 Control abstractions: exception handling, continuations, monads."
     href: advanced-programming-constructs/control-abstractions-exception-handling-continuations-monads.md
-  - name: "17.6 Object-oriented abstractions: multiple inheritance, mixins, traits, multimethods"
+  - name: "17.6 Object-Oriented Abstractions: Multiple Inheritance, Mixins, Traits, Multimethods"
     href: advanced-programming-constructs/object-oriented-abstractions-multiple-inheritance-mixins-traits-multimethods.md
-  - name: "17.7 Metaprogramming: macros, generative programming, model-based development"
+  - name: "17.7 Metaprogramming: Macros, Generative Programming, Model-Based Development"
     href: advanced-programming-constructs/metaprogramming-macros-generative-programming-model-based-development.md
-  - name: "17.8 String manipulation via pattern-matching (regular expressions)"
+  - name: "17.8 String Manipulation via Pattern-Matching (regular expressions)"
     href: advanced-programming-constructs/string-manipulation-via-pattern-matching.md
   - name: "17.9 Dynamic code evaluation (\"eval\")"
     href: advanced-programming-constructs/dynamic-code-evaluation.md
-  - name: "17.10 Language support for checking assertions, invariants, and pre/post-conditions"
+  - name: "17.10 Language Support for Checking Assertions, Invariants, and pre/post-conditions"
     href: advanced-programming-constructs/language-support-for-checking-assertions-invariants-and-pre-post-conditions.md
-  - name: "17.11 Domain specific languages, such as database languages, data science languages, embedded computing languages, synchronous languages, hardware interface languages"
+  - name: "17.11 Domain Specific Languages, Such as Database Languages, Data Science Languages, Embedded Computing Languages, Synchronous Languages, Hardware Interface Languages"
     href: advanced-programming-constructs/domain-specific-languages-such-as-database-languages-data-science-languages-embe.md
-  - name: "17.12 Massive parallel high performance computing models and languages"
+  - name: "17.12 Massive Parallel High Performance Computing Models and Languages"
     href: advanced-programming-constructs/massive-parallel-high-performance-computing-models-and-languages.md
 - name: "18. Language Pragmatics"
   href: language-pragmatics/index.md
   items:
-  - name: "18.1 Effect of technology needs and software requirements on programming language development and evolution"
+  - name: "18.1 Effect of Technology Needs and Software Requirements on Programming Language Development and Evolution"
     href: language-pragmatics/effect-of-technology-needs-and-software-requirements-on-programming-language-dev.md
-  - name: "18.2 Problem domains and programming paradigm"
+  - name: "18.2 Problem Domains and Programming Paradigm"
     href: language-pragmatics/problem-domains-and-programming-paradigm.md
-  - name: "18.3 Criteria for good programming language design"
+  - name: "18.3 Criteria for Good Programming Language Design"
     href: language-pragmatics/criteria-for-good-programming-language-design.md
-  - name: "18.4 Evaluation order, precedence, and associativity"
+  - name: "18.4 Evaluation Order, Precedence, and Associativity"
     href: language-pragmatics/evaluation-order-precedence-and-associativity.md
-  - name: "18.5 Eager vs delayed evaluation"
+  - name: "18.5 Eager vs Delayed Evaluation"
     href: language-pragmatics/eager-vs-delayed-evaluation.md
-  - name: "18.6 Defining control and iteration constructs"
+  - name: "18.6 Defining Control and Iteration Constructs"
     href: language-pragmatics/defining-control-and-iteration-constructs.md
-  - name: "18.7 External calls and system libraries"
+  - name: "18.7 External Calls and System Libraries"
     href: language-pragmatics/external-calls-and-system-libraries.md
 - name: "19. Formal Semantics"
   href: formal-semantics/index.md
   items:
-  - name: "19.1 Syntax vs semantics"
+  - name: "19.1 Syntax vs Semantics"
     href: formal-semantics/syntax-vs-semantics.md
-  - name: "19.2 Approaches to semantics: axiomatic, operational, denotational, type-based"
+  - name: "19.2 Approaches to Semantics: Axiomatic, Operational, Denotational, Type-Based"
     href: formal-semantics/approaches-to-semantics-axiomatic-operational-denotational-type-based.md
-  - name: "19.3 Axiomatic semantics of abstract constructs such as assignment, selection, iteration using pre- condition, post-conditions, and loop invariant"
+  - name: "19.3 Axiomatic Semantics of Abstract Constructs Such as Assignment, Selection, Iteration Using pre- Condition, Post-Conditions, and Loop Invariant"
     href: formal-semantics/axiomatic-semantics-of-abstract-constructs-such-as-assignment-selection-iteratio.md
-  - name: "19.4 Operational semantics analysis of abstract constructs and sequence of such as assignment, expression evaluation, selection, iteration using environment and store"
+  - name: "19.4 Operational Semantics Analysis of Abstract Constructs and Sequence of Such as Assignment, Expression Evaluation, Selection, Iteration Using Environment and Store"
     href: formal-semantics/operational-semantics-analysis-of-abstract-constructs-and-sequence-of-such-as-as.md
-  - name: "19.5 Denotational semantics"
+  - name: "19.5 Denotational Semantics"
     href: formal-semantics/denotational-semantics.md
-  - name: "19.6 Proofs by induction over language semantics"
+  - name: "19.6 Proofs by Induction over Language Semantics"
     href: formal-semantics/proofs-by-induction-over-language-semantics.md
-  - name: "19.7 Formal definitions and proofs for type systems"
+  - name: "19.7 Formal Definitions and Proofs for Type Systems"
     href: formal-semantics/formal-definitions-and-proofs-for-type-systems.md
 - name: "20. Formal Development Methodologies"
   href: formal-development-methodologies/index.md
   items:
-  - name: "20.1 Formal specification languages and methodologies"
+  - name: "20.1 Formal Specification Languages and Methodologies"
     href: formal-development-methodologies/formal-specification-languages-and-methodologies.md
-  - name: "20.2 Theorem provers, proof assistants, and logics"
+  - name: "20.2 Theorem Provers, Proof Assistants, and Logics"
     href: formal-development-methodologies/theorem-provers-proof-assistants-and-logics.md
-  - name: "20.3 Constraint checkers"
+  - name: "20.3 Constraint Checkers"
     href: formal-development-methodologies/constraint-checkers.md
-  - name: "20.4 Dependent types (universal quantification as dependent function, existential quantification as dependent product)"
+  - name: "20.4 Dependent Types (universal quantification as dependent function, existential quantification as dependent product)"
     href: formal-development-methodologies/dependent-types.md
   - name: "20.5 Specification and proof discharge for fully verified software systems using pre/post conditions, refinement types, etc."
     href: formal-development-methodologies/specification-and-proof-discharge-for-fully-verified-software-systems-using-pre.md
@@ -472,28 +472,28 @@ items:
 - name: "21. Design Principles of Programming Languages"
   href: design-principles-of-programming-languages/index.md
   items:
-  - name: "21.1 Language design principles"
+  - name: "21.1 Language Design Principles"
     href: design-principles-of-programming-languages/language-design-principles.md
-  - name: "21.2 Designing a language to fit a specific domain or problem"
+  - name: "21.2 Designing a Language to Fit a Specific Domain or Problem"
     href: design-principles-of-programming-languages/designing-a-language-to-fit-a-specific-domain-or-problem.md
-  - name: "21.3 Interoperability between programming languages"
+  - name: "21.3 Interoperability Between Programming Languages"
     href: design-principles-of-programming-languages/interoperability-between-programming-languages.md
-  - name: "21.4 Language portability"
+  - name: "21.4 Language Portability"
     href: design-principles-of-programming-languages/language-portability.md
-  - name: "21.5 Formal description of a programming language"
+  - name: "21.5 Formal Description of a Programming Language"
     href: design-principles-of-programming-languages/formal-description-of-a-programming-language.md
-  - name: "21.6 Green computing principles"
+  - name: "21.6 Green Computing Principles"
     href: design-principles-of-programming-languages/green-computing-principles.md
 - name: "22. Society, Ethics, and the Profession"
   href: society-ethics-and-the-profession/index.md
   items:
-  - name: "22.1 Impact of English-centric programming languages"
+  - name: "22.1 Impact of English-Centric Programming Languages"
     href: society-ethics-and-the-profession/impact-of-english-centric-programming-languages.md
-  - name: "22.2 Enhancing accessibility and inclusivity for people with disabilities – Supporting assistive technologies"
+  - name: "22.2 Enhancing Accessibility and Inclusivity for People with Disabilities – Supporting Assistive Technologies"
     href: society-ethics-and-the-profession/enhancing-accessibility-and-inclusivity-for-people-with-disabilities-supporting.md
-  - name: "22.3 Human factors related to programming languages and usability"
+  - name: "22.3 Human Factors Related to Programming Languages and Usability"
     href: society-ethics-and-the-profession/human-factors-related-to-programming-languages-and-usability.md
-  - name: "22.4 Etymology of terms such as “class,” “master,” and “slave” in programming languages"
+  - name: "22.4 Etymology of Terms Such as “Class,” “Master,” and “Slave” in Programming Languages"
     href: society-ethics-and-the-profession/etymology-of-terms-such-as-class-master-and-slave-in-programming-languages.md
-  - name: "22.5 Increasing accessibility by supporting multiple languages within applications (UTF)"
+  - name: "22.5 Increasing Accessibility by Supporting Multiple Languages within Applications (UTF)"
     href: society-ethics-and-the-profession/increasing-accessibility-by-supporting-multiple-languages-within-applications.md

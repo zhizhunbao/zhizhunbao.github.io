@@ -1,10 +1,10 @@
 ---
-title: "2.1 State space representation of a problem"
+title: "2.1 State Space Representation of a Problem"
 description: "CS2023 AI-Search, 2.1 State space representation of a problem (CS Core): Specifying states, goals, and operators, Factoring states into representations (hypothesis spaces), Problem solving by graph search, g., Graphs as a space, and tree traversals as exploration of that space."
 ms.date: 2026-10-25
 ---
 
-# 2.1 State space representation of a problem
+# 2.1 State Space Representation of a Problem
 
 Sources: [CS2023 Body of Knowledge, AI-Search, topic 1, p. 6](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=6).
 

@@ -1,10 +1,10 @@
 ---
-title: "1.1 Sets, relations, functions, cardinality"
+title: "1.1 Sets, Relations, Functions, Cardinality"
 description: "CS2023 MSF-Discrete, 1.1 Sets, relations, functions, cardinality (CS Core): Set, Relation, Function, Cardinality, Finite set, Countable set, Uncountable set, Sum rule, Product rule, Inclusion-exclusion principle."
 ms.date: 2026-10-27
 ---
 
-# 1.1 Sets, relations, functions, cardinality
+# 1.1 Sets, Relations, Functions, Cardinality
 
 ## Classification
 

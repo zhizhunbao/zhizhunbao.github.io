@@ -1,10 +1,10 @@
 ---
-title: "1.9 Risk management concepts"
+title: "1.9 Risk Management Concepts"
 description: "CISSP, 1.9 Risk management concepts."
 ms.date: 2026-10-25
 ---
 
-# 1.9 Risk management concepts
+# 1.9 Risk Management Concepts
 
 Sources: [CISSP Certification Exam Outline, 1.9](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

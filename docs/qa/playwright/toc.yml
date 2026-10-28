@@ -6,21 +6,21 @@ items:
   items:
   - name: "1.1 Installation"
     href: getting-started/installation.md
-  - name: "1.2 Writing tests"
+  - name: "1.2 Writing Tests"
     href: getting-started/writing-tests.md
-  - name: "1.3 Generating tests"
+  - name: "1.3 Generating Tests"
     href: getting-started/generating-tests.md
-  - name: "1.4 Running and debugging tests"
+  - name: "1.4 Running and Debugging Tests"
     href: getting-started/running-and-debugging-tests.md
-  - name: "1.5 Trace viewer"
+  - name: "1.5 Trace Viewer"
     href: getting-started/trace-viewer.md
   - name: "1.6 Setting up CI"
     href: getting-started/setting-up-ci.md
   - name: "1.7 VS Code"
     href: getting-started/vs-code.md
-- name: "2. Release notes"
+- name: "2. Release Notes"
   href: release-notes/index.md
-- name: "3. Canary releases"
+- name: "3. Canary Releases"
   href: canary-releases/index.md
 - name: "4. Playwright Test"
   href: playwright-test/index.md
@@ -29,7 +29,7 @@ items:
     href: playwright-test/agents.md
   - name: "4.2 Annotations"
     href: playwright-test/annotations.md
-  - name: "4.3 Command line"
+  - name: "4.3 Command Line"
     href: playwright-test/command-line.md
   - name: "4.4 Configuration"
     href: playwright-test/configuration.md
@@ -39,11 +39,11 @@ items:
     href: playwright-test/emulation.md
   - name: "4.7 Fixtures"
     href: playwright-test/fixtures.md
-  - name: "4.8 Global setup and teardown"
+  - name: "4.8 Global Setup and Teardown"
     href: playwright-test/global-setup-and-teardown.md
   - name: "4.9 Parallelism"
     href: playwright-test/parallelism.md
-  - name: "4.10 Parameterize tests"
+  - name: "4.10 Parameterize Tests"
     href: playwright-test/parameterize-tests.md
   - name: "4.11 Projects"
     href: playwright-test/projects.md
@@ -59,34 +59,34 @@ items:
     href: playwright-test/typescript.md
   - name: "4.17 UI Mode"
     href: playwright-test/ui-mode.md
-  - name: "4.18 Web server"
+  - name: "4.18 Web Server"
     href: playwright-test/web-server.md
 - name: "5. Guides"
   href: guides/index.md
   items:
   - name: "5.1 Library"
     href: guides/library.md
-  - name: "5.2 Accessibility testing"
+  - name: "5.2 Accessibility Testing"
     href: guides/accessibility-testing.md
   - name: "5.3 Actions"
     href: guides/actions.md
   - name: "5.4 Assertions"
     href: guides/assertions.md
-  - name: "5.5 API testing"
+  - name: "5.5 API Testing"
     href: guides/api-testing.md
   - name: "5.6 Authentication"
     href: guides/authentication.md
-  - name: "5.7 Auto-waiting"
+  - name: "5.7 Auto-Waiting"
     href: guides/auto-waiting.md
   - name: "5.8 Best Practices"
     href: guides/best-practices.md
   - name: "5.9 Browsers"
     href: guides/browsers.md
-  - name: "5.10 Chrome extensions"
+  - name: "5.10 Chrome Extensions"
     href: guides/chrome-extensions.md
   - name: "5.11 Clock"
     href: guides/clock.md
-  - name: "5.12 Component testing"
+  - name: "5.12 Component Testing"
     href: guides/component-testing.md
   - name: "5.13 Debugging Tests"
     href: guides/debugging-tests.md
@@ -110,33 +110,33 @@ items:
     href: guides/locators.md
   - name: "5.23 Mock APIs"
     href: guides/mock-apis.md
-  - name: "5.24 Mock browser APIs"
+  - name: "5.24 Mock Browser APIs"
     href: guides/mock-browser-apis.md
   - name: "5.25 Navigations"
     href: guides/navigations.md
   - name: "5.26 Network"
     href: guides/network.md
-  - name: "5.27 Other locators"
+  - name: "5.27 Other Locators"
     href: guides/other-locators.md
   - name: "5.28 Pages"
     href: guides/pages.md
-  - name: "5.29 Page object models"
+  - name: "5.29 Page Object Models"
     href: guides/page-object-models.md
   - name: "5.30 Screenshots"
     href: guides/screenshots.md
   - name: "5.31 Service Workers"
     href: guides/service-workers.md
-  - name: "5.32 Snapshot testing"
+  - name: "5.32 Snapshot Testing"
     href: guides/snapshot-testing.md
-  - name: "5.33 Test generator"
+  - name: "5.33 Test Generator"
     href: guides/test-generator.md
-  - name: "5.34 Touch events (legacy)"
+  - name: "5.34 Touch Events (legacy)"
     href: guides/touch-events-legacy.md
-  - name: "5.35 Trace viewer"
+  - name: "5.35 Trace Viewer"
     href: guides/trace-viewer.md
   - name: "5.36 Videos"
     href: guides/videos.md
-  - name: "5.37 Visual comparisons"
+  - name: "5.37 Visual Comparisons"
     href: guides/visual-comparisons.md
   - name: "5.38 WebView2"
     href: guides/webview2.md
@@ -158,5 +158,5 @@ items:
     href: integrations/continuous-integration.md
   - name: "7.3 Selenium Grid (experimental)"
     href: integrations/selenium-grid-experimental.md
-- name: "8. Supported languages"
+- name: "8. Supported Languages"
   href: supported-languages/index.md

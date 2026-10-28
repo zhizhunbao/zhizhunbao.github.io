@@ -1,10 +1,10 @@
 ---
-title: "4.4 DNS records"
+title: "4.4 DNS Records"
 description: "CCNA v2.0, 4.4 DNS records: A, AAAA, CNAME, MX, NS, PTR."
 ms.date: 2026-10-25
 ---
 
-# 4.4 DNS records
+# 4.4 DNS Records
 
 Sources: [200-301 CCNA v2.0 Exam Topics, 4.4](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics).
 

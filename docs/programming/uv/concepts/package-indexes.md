@@ -1,10 +1,10 @@
 ---
-title: "4.5 Package indexes"
+title: "4.5 Package Indexes"
 description: "uv, 4.5 Package indexes."
 ms.date: 2026-10-25
 ---
 
-# 4.5 Package indexes
+# 4.5 Package Indexes
 
 Sources: [uv documentation, 4.5 Package indexes](https://docs.astral.sh/uv/concepts/indexes/).
 

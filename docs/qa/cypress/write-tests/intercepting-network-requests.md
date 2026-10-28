@@ -1,10 +1,10 @@
 ---
-title: "3.3 Intercepting network requests"
+title: "3.3 Intercepting Network Requests"
 description: "Cypress, 3.3 Intercepting network requests."
 ms.date: 2026-10-25
 ---
 
-# 3.3 Intercepting network requests
+# 3.3 Intercepting Network Requests
 
 Sources: [Cypress documentation, 3.3 Intercepting network requests](https://docs.cypress.io/app/guides/network-requests).
 

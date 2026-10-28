@@ -1,10 +1,10 @@
 ---
-title: "4.6 One or more of the following methods and tools"
+title: "4.6 One or More of the Following Methods and Tools"
 description: "CS2023 PDC-Evaluation, 4.6 One or more of the following methods and tools (KA Core): Extensions to formal sequential requirements such as linearizability, Protocol, session, and transactional specifications, Use of tools such as Unified Modelling Language (UML), Temporal Logic of Actions (TLA), program logics, Security analysis: safety and liveness in the presence of hostile or buggy behaviors by other parties; required properties of communication mechanisms (for example lack of cross-layer leakage), input screening, rate limiting (See also: SEC-Foundations), Static analysis applied to correctness, throughput, latency, resources, energy (See also: SEP-Sustainability), Directed Acyclic Graph (DAG) model analysis of algorithmic efficiency (work, span, critical paths), Testing and debugging; tools such as race detectors, fuzzers, lock dependency checkers, unit/stress/torture tests, visualizations, continuous integration, continuous deployment, and test generators, Measuring and comparing throughput, overhead, waiting, contention, communication, data movement, locality, resource usage, behavior in the presence of excessive numbers of events, clients, or threads (See also: SF-Evaluation), Application domain specific analyses and evaluation techniques."
 ms.date: 2026-10-25
 ---
 
-# 4.6 One or more of the following methods and tools
+# 4.6 One or More of the Following Methods and Tools
 
 Sources: [CS2023 Body of Knowledge, PDC-Evaluation, topic 6, p. 162](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=162).
 

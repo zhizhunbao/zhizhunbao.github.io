@@ -1,10 +1,10 @@
 ---
-title: "1.2 Hypervisors, virtual machines, and containers"
+title: "1.2 Hypervisors, Virtual Machines, and Containers"
 description: "CCNA v2.0, 1.2 Hypervisors, virtual machines, and containers: Hypervisors, Virtual machines, Containers."
 ms.date: 2026-10-27
 ---
 
-# 1.2 Hypervisors, virtual machines, and containers
+# 1.2 Hypervisors, Virtual Machines, and Containers
 
 Exam objective: Describe the role and function of hypervisors, virtual machines, and containers.
 

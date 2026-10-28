@@ -1,10 +1,10 @@
 ---
-title: "3.2 Asymptotic complexity analysis (average and worst-case bounds)"
+title: "3.2 Asymptotic Complexity Analysis (average and worst-case bounds)"
 description: "CS2023 AL-Complexity, 3.2 Asymptotic complexity analysis (average and worst-case bounds) (CS Core): a. Big-O, Big-Omega, and Big-Theta formal notations, b. Foundational Complexity Classes and Representative Examples/Problems."
 ms.date: 2026-10-25
 ---
 
-# 3.2 Asymptotic complexity analysis (average and worst-case bounds)
+# 3.2 Asymptotic Complexity Analysis (average and worst-case bounds)
 
 Sources: [CS2023 Body of Knowledge, AL-Complexity, topic 2, p. 29](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=29).
 

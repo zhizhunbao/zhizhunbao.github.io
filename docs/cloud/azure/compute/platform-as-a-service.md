@@ -1,10 +1,10 @@
 ---
-title: "4.2 Platform as a service (PaaS)"
+title: "4.2 Platform as a Service (PaaS)"
 description: "Microsoft Azure, 4.2 Platform as a service (PaaS): Azure App Service, Azure Kubernetes Service (AKS), Azure Kubernetes Fleet Manager, Azure Container Apps, Azure Container Instances, Azure Red Hat OpenShift, Azure Batch, Azure Static Web Apps, Azure Spring Apps, Azure Cloud Services (extended support)."
 ms.date: 2026-10-27
 ---
 
-# 4.2 Platform as a service (PaaS)
+# 4.2 Platform as a Service (PaaS)
 
 ## Classification
 

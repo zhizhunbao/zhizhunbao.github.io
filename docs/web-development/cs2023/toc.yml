@@ -6,106 +6,106 @@ items:
   items:
   - name: "1.1 Overview of development platforms (i.e., web, mobile, game, robotics, embedded, and interactive)."
     href: common-aspects-shared-concerns/overview-of-development-platforms.md
-  - name: "1.2 Programming via platform-specific Application Programming Interface (API) vs traditional application construction"
+  - name: "1.2 Programming via Platform-Specific Application Programming Interface (API) vs Traditional Application Construction"
     href: common-aspects-shared-concerns/programming-via-platform-specific-application-programming-interface-vs-tradition.md
-  - name: "1.3 Overview of platform Languages (e.g., Python, Swift, Lua, Kotlin)"
+  - name: "1.3 Overview of Platform Languages (e.g., Python, Swift, Lua, Kotlin)"
     href: common-aspects-shared-concerns/overview-of-platform-languages.md
-  - name: "1.4 Programming under platform constraints and requirements (e.g., available development tools, development, security considerations)"
+  - name: "1.4 Programming under Platform Constraints and Requirements (e.g., available development tools, development, security considerations)"
     href: common-aspects-shared-concerns/programming-under-platform-constraints-and-requirements.md
-  - name: "1.5 Techniques for learning and mastering a platform-specific programming language"
+  - name: "1.5 Techniques for Learning and Mastering a Platform-Specific Programming Language"
     href: common-aspects-shared-concerns/techniques-for-learning-and-mastering-a-platform-specific-programming-language.md
 - name: "2. Web Platforms"
   href: web-platforms/index.md
   items:
-  - name: "2.1 Web programming languages (e.g., HTML5, JavaScript, PHP, CSS)"
+  - name: "2.1 Web Programming Languages (e.g., HTML5, JavaScript, PHP, CSS)"
     href: web-platforms/web-programming-languages.md
-  - name: "2.2 Web platforms, frameworks, or meta-frameworks"
+  - name: "2.2 Web Platforms, Frameworks, or Meta-Frameworks"
     href: web-platforms/web-platforms-frameworks-or-meta-frameworks.md
   - name: "2.3 Software as a Service (SaaS)"
     href: web-platforms/software-as-a-service.md
-  - name: "2.4 Web standards such as document object model, accessibility"
+  - name: "2.4 Web Standards Such as Document Object Model, Accessibility"
     href: web-platforms/web-standards-such-as-document-object-model-accessibility.md
   - name: "2.5 Security and Privacy Considerations"
     href: web-platforms/security-and-privacy-considerations.md
-  - name: "2.6 Analyzing requirements for web applications"
+  - name: "2.6 Analyzing Requirements for Web Applications"
     href: web-platforms/analyzing-requirements-for-web-applications.md
-  - name: "2.7 Computing services"
+  - name: "2.7 Computing Services"
     href: web-platforms/computing-services.md
-  - name: "2.8 Data management"
+  - name: "2.8 Data Management"
     href: web-platforms/data-management.md
   - name: "2.9 Architecture"
     href: web-platforms/architecture.md
-  - name: "2.10 Storage solutions"
+  - name: "2.10 Storage Solutions"
     href: web-platforms/storage-solutions.md
 - name: "3. Mobile Platforms"
   href: mobile-platforms/index.md
   items:
   - name: "3.1 Development with"
     href: mobile-platforms/development-with.md
-  - name: "3.2 Mobile platform constraints"
+  - name: "3.2 Mobile Platform Constraints"
     href: mobile-platforms/mobile-platform-constraints.md
   - name: "3.3 Access"
     href: mobile-platforms/access.md
   - name: "3.4 Development"
     href: mobile-platforms/development.md
-  - name: "3.5 Mobile platform constraints"
+  - name: "3.5 Mobile Platform Constraints"
     href: mobile-platforms/mobile-platform-constraints-non-core.md
-  - name: "3.6 Mobile computing affordances"
+  - name: "3.6 Mobile Computing Affordances"
     href: mobile-platforms/mobile-computing-affordances.md
-  - name: "3.7 Specification and testing"
+  - name: "3.7 Specification and Testing"
     href: mobile-platforms/specification-and-testing.md
-  - name: "3.8 Asynchronous computing"
+  - name: "3.8 Asynchronous Computing"
     href: mobile-platforms/asynchronous-computing.md
 - name: "4. Robot Platforms"
   href: robot-platforms/index.md
   items:
-  - name: "4.1 Types of robotic platforms and devices"
+  - name: "4.1 Types of Robotic Platforms and Devices"
     href: robot-platforms/types-of-robotic-platforms-and-devices.md
-  - name: "4.2 Sensors, embedded computation, and effectors (actuators)"
+  - name: "4.2 Sensors, Embedded Computation, and Effectors (actuators)"
     href: robot-platforms/sensors-embedded-computation-and-effectors.md
-  - name: "4.3 Robot-specific languages and libraries"
+  - name: "4.3 Robot-Specific Languages and Libraries"
     href: robot-platforms/robot-specific-languages-and-libraries.md
-  - name: "4.4 Robotic software architecture (e.g., using the Robot Operating System (ROS))"
+  - name: "4.4 Robotic Software Architecture (e.g., using the Robot Operating System (ROS))"
     href: robot-platforms/robotic-software-architecture.md
-  - name: "4.5 Robotic platform constraints and design considerations"
+  - name: "4.5 Robotic Platform Constraints and Design Considerations"
     href: robot-platforms/robotic-platform-constraints-and-design-considerations.md
-  - name: "4.6 Interconnections with physical or simulated systems"
+  - name: "4.6 Interconnections with Physical or Simulated Systems"
     href: robot-platforms/interconnections-with-physical-or-simulated-systems.md
   - name: "4.7 Robotic Algorithms"
     href: robot-platforms/robotic-algorithms.md
-  - name: "4.8 Safety and interaction considerations"
+  - name: "4.8 Safety and Interaction Considerations"
     href: robot-platforms/safety-and-interaction-considerations.md
 - name: "5. Embedded Platforms"
   href: embedded-platforms/index.md
   items:
-  - name: "5.1 Introduction to the unique characteristics of embedded systems"
+  - name: "5.1 Introduction to the Unique Characteristics of Embedded Systems"
     href: embedded-platforms/introduction-to-the-unique-characteristics-of-embedded-systems.md
-  - name: "5.2 API for custom architectures"
+  - name: "5.2 API for Custom Architectures"
     href: embedded-platforms/api-for-custom-architectures.md
   - name: "5.3 Embedded Systems"
     href: embedded-platforms/embedded-systems.md
-  - name: "5.4 Embedded programming"
+  - name: "5.4 Embedded Programming"
     href: embedded-platforms/embedded-programming.md
-  - name: "5.5 Hard real-time systems vs soft real-time systems"
+  - name: "5.5 Hard Real-Time Systems vs Soft Real-Time Systems"
     href: embedded-platforms/hard-real-time-systems-vs-soft-real-time-systems.md
-  - name: "5.6 Real-time resource management"
+  - name: "5.6 Real-Time Resource Management"
     href: embedded-platforms/real-time-resource-management.md
-  - name: "5.7 Memory management"
+  - name: "5.7 Memory Management"
     href: embedded-platforms/memory-management.md
-  - name: "5.8 Safety considerations and safety analysis"
+  - name: "5.8 Safety Considerations and Safety Analysis"
     href: embedded-platforms/safety-considerations-and-safety-analysis.md
-  - name: "5.9 Sensors and actuators"
+  - name: "5.9 Sensors and Actuators"
     href: embedded-platforms/sensors-and-actuators.md
-  - name: "5.10 Analysis and verification"
+  - name: "5.10 Analysis and Verification"
     href: embedded-platforms/analysis-and-verification.md
-  - name: "5.11 Application design"
+  - name: "5.11 Application Design"
     href: embedded-platforms/application-design.md
 - name: "6. Game Platforms"
   href: game-platforms/index.md
   items:
-  - name: "6.1 Historical and contemporary platforms for games"
+  - name: "6.1 Historical and Contemporary Platforms for Games"
     href: game-platforms/historical-and-contemporary-platforms-for-games.md
-  - name: "6.2 Real-time Simulation and Rendering Systems"
+  - name: "6.2 Real-Time Simulation and Rendering Systems"
     href: game-platforms/real-time-simulation-and-rendering-systems.md
   - name: "6.3 Game Development Tools and Techniques"
     href: game-platforms/game-development-tools-and-techniques.md
@@ -118,43 +118,43 @@ items:
   items:
   - name: "7.1 Data Analysis Platforms"
     href: interactive-computing-platforms/data-analysis-platforms.md
-  - name: "7.2 Prompt programming"
+  - name: "7.2 Prompt Programming"
     href: interactive-computing-platforms/prompt-programming.md
   - name: "7.3 Quantum Platforms"
     href: interactive-computing-platforms/quantum-platforms.md
 - name: "8. SEP/Mobile"
   href: sep-mobile/index.md
   items:
-  - name: "8.1 Privacy and data protection"
+  - name: "8.1 Privacy and Data Protection"
     href: sep-mobile/privacy-and-data-protection.md
-  - name: "8.2 Accessibility in mobile design"
+  - name: "8.2 Accessibility in Mobile Design"
     href: sep-mobile/accessibility-in-mobile-design.md
-  - name: "8.3 Security and cybersecurity"
+  - name: "8.3 Security and Cybersecurity"
     href: sep-mobile/security-and-cybersecurity.md
-  - name: "8.4 Social impacts of mobile technology"
+  - name: "8.4 Social Impacts of Mobile Technology"
     href: sep-mobile/social-impacts-of-mobile-technology.md
-  - name: "8.5 Ethical use of AI and algorithms"
+  - name: "8.5 Ethical Use of AI and Algorithms"
     href: sep-mobile/ethical-use-of-ai-and-algorithms.md
 - name: "9. SEP/Web"
   href: sep-web/index.md
   items:
-  - name: "9.1 Privacy concerns with mobile apps"
+  - name: "9.1 Privacy Concerns with Mobile Apps"
     href: sep-web/privacy-concerns-with-mobile-apps.md
-  - name: "9.2 Designing for inclusivity and accessibility"
+  - name: "9.2 Designing for Inclusivity and Accessibility"
     href: sep-web/designing-for-inclusivity-and-accessibility.md
-  - name: "9.3 Ethical use of AI in mobile apps"
+  - name: "9.3 Ethical Use of AI in Mobile Apps"
     href: sep-web/ethical-use-of-ai-in-mobile-apps.md
-  - name: "9.4 Sustainable app development and server hosting"
+  - name: "9.4 Sustainable App Development and Server Hosting"
     href: sep-web/sustainable-app-development-and-server-hosting.md
-  - name: "9.5 Avoiding spam or intrusive notifications"
+  - name: "9.5 Avoiding Spam or Intrusive Notifications"
     href: sep-web/avoiding-spam-or-intrusive-notifications.md
-  - name: "9.6 Addressing cyberbullying and harassment"
+  - name: "9.6 Addressing Cyberbullying and Harassment"
     href: sep-web/addressing-cyberbullying-and-harassment.md
-  - name: "9.7 Promoting positive online communities"
+  - name: "9.7 Promoting Positive Online Communities"
     href: sep-web/promoting-positive-online-communities.md
-  - name: "9.8 Monetization and advertising"
+  - name: "9.8 Monetization and Advertising"
     href: sep-web/monetization-and-advertising.md
-  - name: "9.9 Ethical use of gamification"
+  - name: "9.9 Ethical Use of Gamification"
     href: sep-web/ethical-use-of-gamification.md
 - name: "10. SEP/Game"
   href: sep-game/index.md
@@ -172,24 +172,24 @@ items:
 - name: "11. SEP/Robotics"
   href: sep-robotics/index.md
   items:
-  - name: "11.1 Fairness, transparency, and accountability in robotic algorithms"
+  - name: "11.1 Fairness, Transparency, and Accountability in Robotic Algorithms"
     href: sep-robotics/fairness-transparency-and-accountability-in-robotic-algorithms.md
-  - name: "11.2 Mitigating biases in robot decision-making"
+  - name: "11.2 Mitigating Biases in Robot Decision-Making"
     href: sep-robotics/mitigating-biases-in-robot-decision-making.md
-  - name: "11.3 Public safety in shared spaces with robots"
+  - name: "11.3 Public Safety in Shared Spaces with Robots"
     href: sep-robotics/public-safety-in-shared-spaces-with-robots.md
-  - name: "11.4 Compliance with data protection laws"
+  - name: "11.4 Compliance with Data Protection Laws"
     href: sep-robotics/compliance-with-data-protection-laws.md
-  - name: "11.5 Patient consent and trust in medical robots"
+  - name: "11.5 Patient Consent and Trust in Medical Robots"
     href: sep-robotics/patient-consent-and-trust-in-medical-robots.md
 - name: "12. SEP/Interactive"
   href: sep-interactive/index.md
   items:
-  - name: "12.1 Ethical guidelines when using AI models to assist in journalism and content creation"
+  - name: "12.1 Ethical Guidelines When Using AI Models to Assist in Journalism and Content Creation"
     href: sep-interactive/ethical-guidelines-when-using-ai-models-to-assist-in-journalism-and-content-crea.md
-  - name: "12.2 Accountability for AI-generated outputs"
+  - name: "12.2 Accountability for AI-generated Outputs"
     href: sep-interactive/accountability-for-ai-generated-outputs.md
-  - name: "12.3 Behavior among prompt programmers and AI developers"
+  - name: "12.3 Behavior Among Prompt Programmers and AI Developers"
     href: sep-interactive/behavior-among-prompt-programmers-and-ai-developers.md
-  - name: "12.4 Trust with the public when using AI models"
+  - name: "12.4 Trust with the Public When Using AI Models"
     href: sep-interactive/trust-with-the-public-when-using-ai-models.md

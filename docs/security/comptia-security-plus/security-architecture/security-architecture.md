@@ -1,10 +1,10 @@
 ---
-title: "3.2 Security architecture"
+title: "3.2 Security Architecture"
 description: "CompTIA Security+, 3.2 Security architecture: Infrastructure considerations, Zero Trust architecture, Secure communication/access, Identity management, Failure modes."
 ms.date: 2026-10-25
 ---
 
-# 3.2 Security architecture
+# 3.2 Security Architecture
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 3.2](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

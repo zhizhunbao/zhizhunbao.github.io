@@ -1,10 +1,10 @@
 ---
-title: "15.63 repeats"
+title: "15.63 Repeats"
 description: "Vitest, 15.63 repeats."
 ms.date: 2026-10-25
 ---
 
-# 15.63 repeats
+# 15.63 Repeats
 
 Sources: [Vitest documentation, 15.63 repeats](https://vitest.dev/config/repeats).
 

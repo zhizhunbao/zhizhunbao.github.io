@@ -1,10 +1,10 @@
 ---
-title: "8.5 File movement options"
+title: "8.5 File Movement Options"
 description: "Microsoft Azure, 8.5 File movement options: AzCopy, Azure Storage Explorer, Azure File Sync."
 ms.date: 2026-10-27
 ---
 
-# 8.5 File movement options
+# 8.5 File Movement Options
 
 ## Classification
 

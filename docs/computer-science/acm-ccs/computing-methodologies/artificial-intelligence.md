@@ -1,7 +1,7 @@
 ---
-title: "11.3 Artificial intelligence"
+title: "11.3 Artificial Intelligence"
 description: "ACM CCS 2012 class Computing methodologies > Artificial intelligence."
 ms.date: 2026-10-27
 ---
 
-# 11.3 Artificial intelligence
+# 11.3 Artificial Intelligence

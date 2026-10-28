@@ -1,10 +1,10 @@
 ---
-title: "3.2 Static routing"
+title: "3.2 Static Routing"
 description: "CCNA v2.0, 3.2 Static routing: 3.2.a Default route, 3.2.b Network route, 3.2.c Host route, 3.2.d Floating static."
 ms.date: 2026-10-25
 ---
 
-# 3.2 Static routing
+# 3.2 Static Routing
 
 Sources: [200-301 CCNA v2.0 Exam Topics, 3.2](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics).
 

@@ -1,10 +1,10 @@
 ---
-title: "3.6 Buffer overflows, stack smashing, and integer overflows"
+title: "3.6 Buffer Overflows, Stack Smashing, and Integer Overflows"
 description: "CS2023 SEC-Coding, 3.6 Buffer overflows, stack smashing, and integer overflows (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 3.6 Buffer overflows, stack smashing, and integer overflows
+# 3.6 Buffer Overflows, Stack Smashing, and Integer Overflows
 
 Sources: [CS2023 Body of Knowledge, SEC-Coding, topic 6, p. 197](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=197).
 

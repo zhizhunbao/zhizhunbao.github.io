@@ -1,10 +1,10 @@
 ---
-title: "8.3 Software security effectiveness"
+title: "8.3 Software Security Effectiveness"
 description: "CISSP, 8.3 Software security effectiveness."
 ms.date: 2026-10-25
 ---
 
-# 8.3 Software security effectiveness
+# 8.3 Software Security Effectiveness
 
 Sources: [CISSP Certification Exam Outline, 8.3](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

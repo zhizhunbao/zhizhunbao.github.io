@@ -1,10 +1,10 @@
 ---
-title: "7.4 Network security"
+title: "7.4 Network Security"
 description: "Microsoft Azure, 7.4 Network security: Firewall Manager, Azure Firewall, Web Application Firewall, DDoS Protection."
 ms.date: 2026-10-27
 ---
 
-# 7.4 Network security
+# 7.4 Network Security
 
 ## Classification
 

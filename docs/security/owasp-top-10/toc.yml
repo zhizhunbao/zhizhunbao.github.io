@@ -5,7 +5,7 @@ items:
   href: introduction/index.md
 - name: "2. About OWASP"
   href: about-owasp/index.md
-- name: "3. What are Application Security Risks?"
+- name: "3. What Are Application Security Risks?"
   href: what-are-application-security-risks/index.md
 - name: "4. Establishing a Modern Application Security Program"
   href: establishing-a-modern-application-security-program/index.md

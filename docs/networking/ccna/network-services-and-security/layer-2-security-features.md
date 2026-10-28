@@ -1,10 +1,10 @@
 ---
-title: "4.7 Layer 2 security features"
+title: "4.7 Layer 2 Security Features"
 description: "CCNA v2.0, 4.7 Layer 2 security features: 4.7.a DHCP snooping, 4.7.b Dynamic ARP inspection, 4.7.c Storm control, 4.7.d RA guard, 4.7.e Port security."
 ms.date: 2026-10-25
 ---
 
-# 4.7 Layer 2 security features
+# 4.7 Layer 2 Security Features
 
 Sources: [200-301 CCNA v2.0 Exam Topics, 4.7](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics).
 

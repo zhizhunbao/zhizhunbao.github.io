@@ -1,10 +1,10 @@
 ---
-title: "3.5 Type safety and type-safe languages"
+title: "3.5 Type Safety and Type-Safe Languages"
 description: "CS2023 SEC-Coding, 3.5 Type safety and type-safe languages (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 3.5 Type safety and type-safe languages
+# 3.5 Type Safety and Type-Safe Languages
 
 Sources: [CS2023 Body of Knowledge, SEC-Coding, topic 5, p. 197](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=197).
 

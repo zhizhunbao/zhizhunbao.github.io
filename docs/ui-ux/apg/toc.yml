@@ -81,7 +81,7 @@ items:
     href: practices/range-related-properties.md
   - name: "2.7 Structural Roles"
     href: practices/structural-roles.md
-  - name: "2.8 Hiding Semantics with the presentation Role"
+  - name: "2.8 Hiding Semantics with the Presentation Role"
     href: practices/hiding-semantics.md
 - name: "3. About"
   href: about/index.md

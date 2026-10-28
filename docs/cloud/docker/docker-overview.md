@@ -1,10 +1,10 @@
 ---
-title: "1. What is Docker?"
+title: "1. What Is Docker?"
 description: "Docker, 1. What is Docker?."
 ms.date: 2026-10-25
 ---
 
-# 1. What is Docker?
+# 1. What Is Docker?
 
 Sources: [Docker Docs, What is Docker?](https://docs.docker.com/get-started/docker-overview/).
 

@@ -1,10 +1,10 @@
 ---
-title: "4.1 Mitigating controls, techniques, and solutions"
+title: "4.1 Mitigating Controls, Techniques, and Solutions"
 description: "CompTIA Security+, 4.1 Mitigating controls, techniques, and solutions: Segmentation, Access controls, Hardening, Sandboxing, Deception and disruption technology, Monitoring/alerting, Mobile device management (MDM), Application control, Intrusion detection/prevention systems, Firewalls, Content filter, Endpoint security, Network access control, Repositories, Application security, Email security, Operating systems security."
 ms.date: 2026-10-25
 ---
 
-# 4.1 Mitigating controls, techniques, and solutions
+# 4.1 Mitigating Controls, Techniques, and Solutions
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 4.1](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

@@ -1,10 +1,10 @@
 ---
-title: "5.3 Azure container services"
+title: "5.3 Azure Container Services"
 description: "Microsoft Azure, 5.3 Azure container services: Azure Container Apps, Azure Container Instances, Azure Container Registry, Azure Container Storage, Azure Kubernetes Fleet Manager, Azure Kubernetes Service (AKS), Azure Red Hat OpenShift, Azure Service Fabric, Web App for Containers."
 ms.date: 2026-10-27
 ---
 
-# 5.3 Azure container services
+# 5.3 Azure Container Services
 
 ## Classification
 

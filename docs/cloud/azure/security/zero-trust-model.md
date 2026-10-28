@@ -1,10 +1,10 @@
 ---
-title: "18.1 Zero Trust model"
+title: "18.1 Zero Trust Model"
 description: "Microsoft Azure, 18.1 Zero Trust model: Verify explicitly, Use least privilege access, Assume breach."
 ms.date: 2026-10-27
 ---
 
-# 18.1 Zero Trust model
+# 18.1 Zero Trust Model
 
 ## Classification
 

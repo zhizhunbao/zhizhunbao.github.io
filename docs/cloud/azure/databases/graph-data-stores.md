@@ -1,10 +1,10 @@
 ---
-title: "9.5 Graph data stores"
+title: "9.5 Graph Data Stores"
 description: "Microsoft Azure, 9.5 Graph data stores: SQL Server graph extensions."
 ms.date: 2026-10-27
 ---
 
-# 9.5 Graph data stores
+# 9.5 Graph Data Stores
 
 ## Classification
 

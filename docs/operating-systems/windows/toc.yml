@@ -1,42 +1,42 @@
 items:
 - name: Overview
   href: index.md
-- name: "1. Application developers"
+- name: "1. Application Developers"
   href: application-developers/index.md
   items:
-  - name: "1.1 Getting started"
+  - name: "1.1 Getting Started"
     href: application-developers/getting-started.md
   - name: "1.2 Design"
     href: application-developers/design.md
-  - name: "1.3 Add Windows features"
+  - name: "1.3 Add Windows Features"
     href: application-developers/add-windows-features.md
-  - name: "1.4 Migrate and modernize"
+  - name: "1.4 Migrate and Modernize"
     href: application-developers/migrate-and-modernize.md
-  - name: "1.5 Package and deploy"
+  - name: "1.5 Package and Deploy"
     href: application-developers/package-and-deploy.md
-  - name: "1.6 Distribute through the Store"
+  - name: "1.6 Distribute Through the Store"
     href: application-developers/distribute-through-the-store.md
-  - name: "1.7 Tools and samples"
+  - name: "1.7 Tools and Samples"
     href: application-developers/tools-and-samples.md
-- name: "2. Developer tools"
+- name: "2. Developer Tools"
   href: developer-tools/index.md
   items:
-  - name: "2.1 Tools to get you started"
+  - name: "2.1 Tools to Get You Started"
     href: developer-tools/tools-to-get-you-started.md
-  - name: "2.2 Setup guides"
+  - name: "2.2 Setup Guides"
     href: developer-tools/setup-guides.md
-- name: "3. Hardware developers"
+- name: "3. Hardware Developers"
   href: hardware-developers/index.md
   items:
   - name: "3.1 Getting Started Guides"
     href: hardware-developers/getting-started-guides.md
   - name: "3.2 Development and Debugging"
     href: hardware-developers/development-and-debugging.md
-  - name: "3.3 Testing and verification"
+  - name: "3.3 Testing and Verification"
     href: hardware-developers/testing-and-verification.md
   - name: "3.4 Deployment and Distribution"
     href: hardware-developers/deployment-and-distribution.md
-- name: "4. Windows client for IT pros"
+- name: "4. Windows Client for IT Pros"
   href: windows-client-for-it-pros/index.md
   items:
   - name: "4.1 Deploy Windows"
@@ -51,7 +51,7 @@ items:
     href: windows-client-for-it-pros/configure-windows.md
   - name: "4.6 Windows for Education"
     href: windows-client-for-it-pros/windows-for-education.md
-- name: "5. Windows Server for IT pros"
+- name: "5. Windows Server for IT Pros"
   href: windows-server-for-it-pros/index.md
   items:
   - name: "5.1 Windows Server and Azure"
@@ -72,9 +72,9 @@ items:
     href: windows-server-for-it-pros/virtualization.md
   - name: "5.9 Clustering"
     href: windows-server-for-it-pros/clustering.md
-  - name: "5.10 AI inference"
+  - name: "5.10 AI Inference"
     href: windows-server-for-it-pros/ai-inference.md
-  - name: "5.11 Command reference"
+  - name: "5.11 Command Reference"
     href: windows-server-for-it-pros/command-reference.md
 - name: "6. Windows for IoT"
   href: windows-for-iot/index.md

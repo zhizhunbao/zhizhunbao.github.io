@@ -1,5 +1,5 @@
 items:
 - name: Overview
   href: index.md
-- name: "Pro Git: getting started"
+- name: "Pro Git: Getting Started"
   href: pro-git-getting-started.md

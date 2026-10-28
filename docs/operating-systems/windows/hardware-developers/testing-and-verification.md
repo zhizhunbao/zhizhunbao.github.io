@@ -1,10 +1,10 @@
 ---
-title: "3.3 Testing and verification"
+title: "3.3 Testing and Verification"
 description: "Windows, 3.3 Testing and verification."
 ms.date: 2026-10-25
 ---
 
-# 3.3 Testing and verification
+# 3.3 Testing and Verification
 
 Sources: [Windows documentation, 3.3 Testing and verification](https://learn.microsoft.com/en-us/windows-hardware/drivers/).
 

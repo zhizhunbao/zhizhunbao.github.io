@@ -1,10 +1,10 @@
 ---
-title: "20.1 Cost management"
+title: "20.1 Cost Management"
 description: "Microsoft Azure, 20.1 Cost management: Factors that affect costs, Pricing calculator, Microsoft Cost Management, Tags, Cost optimization options."
 ms.date: 2026-10-27
 ---
 
-# 20.1 Cost management
+# 20.1 Cost Management
 
 ## Classification
 

@@ -1,10 +1,10 @@
 ---
-title: "5.5 Audit and assessment"
+title: "5.5 Audit and Assessment"
 description: "CompTIA Security+, 5.5 Audit and assessment: Data gathering, Scoping, Engagement types, Penetration testing, Frameworks and standards, Functional testing, Behavioral testing."
 ms.date: 2026-10-25
 ---
 
-# 5.5 Audit and assessment
+# 5.5 Audit and Assessment
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 5.5](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

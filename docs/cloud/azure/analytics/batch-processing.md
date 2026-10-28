@@ -1,10 +1,10 @@
 ---
-title: "11.2 Batch processing"
+title: "11.2 Batch Processing"
 description: "Microsoft Azure, 11.2 Batch processing: Azure Databricks, Fabric notebooks, Azure Data Lake Analytics."
 ms.date: 2026-10-27
 ---
 
-# 11.2 Batch processing
+# 11.2 Batch Processing
 
 ## Classification
 

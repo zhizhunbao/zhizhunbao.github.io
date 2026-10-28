@@ -14,35 +14,35 @@ items:
     href: introduction/scripts.md
   - name: "1.5 Tools"
     href: introduction/tools.md
-  - name: "1.6 Python versions"
+  - name: "1.6 Python Versions"
     href: introduction/python-versions.md
-  - name: "1.7 The pip interface"
+  - name: "1.7 The pip Interface"
     href: introduction/the-pip-interface.md
-  - name: "1.8 Learn more"
+  - name: "1.8 Learn More"
     href: introduction/learn-more.md
-- name: "2. Getting started"
+- name: "2. Getting Started"
   href: getting-started/index.md
   items:
   - name: "2.1 Installation"
     href: getting-started/installation.md
-  - name: "2.2 First steps"
+  - name: "2.2 First Steps"
     href: getting-started/first-steps.md
   - name: "2.3 Features"
     href: getting-started/features.md
-  - name: "2.4 Getting help"
+  - name: "2.4 Getting Help"
     href: getting-started/getting-help.md
 - name: "3. Guides"
   href: guides/index.md
   items:
   - name: "3.1 Installing Python"
     href: guides/installing-python.md
-  - name: "3.2 Running scripts"
+  - name: "3.2 Running Scripts"
     href: guides/running-scripts.md
-  - name: "3.3 Using tools"
+  - name: "3.3 Using Tools"
     href: guides/using-tools.md
-  - name: "3.4 Working on projects"
+  - name: "3.4 Working on Projects"
     href: guides/working-on-projects.md
-  - name: "3.5 Publishing packages"
+  - name: "3.5 Publishing Packages"
     href: guides/publishing-packages.md
   - name: "3.6 Migration"
     href: guides/migration.md
@@ -55,23 +55,23 @@ items:
     href: concepts/projects.md
   - name: "4.2 Tools"
     href: concepts/tools.md
-  - name: "4.3 Python versions"
+  - name: "4.3 Python Versions"
     href: concepts/python-versions.md
-  - name: "4.4 Configuration files"
+  - name: "4.4 Configuration Files"
     href: concepts/configuration-files.md
-  - name: "4.5 Package indexes"
+  - name: "4.5 Package Indexes"
     href: concepts/package-indexes.md
   - name: "4.6 Resolution"
     href: concepts/resolution.md
-  - name: "4.7 Build backend"
+  - name: "4.7 Build Backend"
     href: concepts/build-backend.md
   - name: "4.8 Authentication"
     href: concepts/authentication.md
   - name: "4.9 Caching"
     href: concepts/caching.md
-  - name: "4.10 Preview features"
+  - name: "4.10 Preview Features"
     href: concepts/preview-features.md
-  - name: "4.11 The pip interface"
+  - name: "4.11 The pip Interface"
     href: concepts/the-pip-interface.md
 - name: "5. Reference"
   href: reference/index.md
@@ -80,11 +80,11 @@ items:
     href: reference/commands.md
   - name: "5.2 Settings"
     href: reference/settings.md
-  - name: "5.3 Environment variables"
+  - name: "5.3 Environment Variables"
     href: reference/environment-variables.md
   - name: "5.4 Storage"
     href: reference/storage.md
-  - name: "5.5 Installer options"
+  - name: "5.5 Installer Options"
     href: reference/installer-options.md
   - name: "5.6 Troubleshooting"
     href: reference/troubleshooting.md

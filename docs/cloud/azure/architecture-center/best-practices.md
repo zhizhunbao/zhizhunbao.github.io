@@ -1,10 +1,10 @@
 ---
-title: "27.2 Best practices"
+title: "27.2 Best Practices"
 description: "Microsoft Azure, 27.2 Best practices: API design, API implementation, Autoscaling, Background jobs, Caching, Content Delivery Network, Data partitioning, Host name preservation, Message encoding considerations, Monitoring and diagnostics, Transient fault handling."
 ms.date: 2026-10-27
 ---
 
-# 27.2 Best practices
+# 27.2 Best Practices
 
 ## Classification
 

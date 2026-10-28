@@ -1,10 +1,10 @@
 ---
-title: "20.4 Monitoring tools"
+title: "20.4 Monitoring Tools"
 description: "Microsoft Azure, 20.4 Monitoring tools: Azure Advisor, Azure Service Health, Azure Monitor, Log Analytics, Azure Monitor alerts, Application Insights."
 ms.date: 2026-10-27
 ---
 
-# 20.4 Monitoring tools
+# 20.4 Monitoring Tools
 
 ## Classification
 

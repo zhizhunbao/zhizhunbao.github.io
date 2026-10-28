@@ -69,7 +69,7 @@ items:
     href: image-processing-in-opencv/hough-circle-transform.md
   - name: "4.15 Image Segmentation with Watershed Algorithm"
     href: image-processing-in-opencv/image-segmentation-with-watershed-algorithm.md
-  - name: "4.16 Interactive Foreground Extraction using GrabCut Algorithm"
+  - name: "4.16 Interactive Foreground Extraction Using GrabCut Algorithm"
     href: image-processing-in-opencv/interactive-foreground-extraction-using-grabcut-algorithm.md
 - name: "5. Feature Detection and Description"
   href: feature-detection-and-description/index.md
@@ -92,12 +92,12 @@ items:
     href: feature-detection-and-description/orb-oriented-fast-and-rotated-brief.md
   - name: "5.9 Feature Matching"
     href: feature-detection-and-description/feature-matching.md
-  - name: "5.10 Feature Matching + Homography to find Objects"
+  - name: "5.10 Feature Matching + Homography to Find Objects"
     href: feature-detection-and-description/feature-matching-homography-to-find-objects.md
-- name: "6. Video analysis (video module)"
+- name: "6. Video Analysis (video module)"
   href: video-analysis-video-module/index.md
   items:
-  - name: "6.1 Other tutorials (ml, objdetect, photo, stitching, video)"
+  - name: "6.1 Other Tutorials (ml, objdetect, photo, stitching, video)"
     href: video-analysis-video-module/other-tutorials-ml-objdetect-photo-stitching-video.md
 - name: "7. Camera Calibration and 3D Reconstruction"
   href: camera-calibration-and-3d-reconstruction/index.md
@@ -133,7 +133,7 @@ items:
   items:
   - name: "10.1 Detection of ArUco Markers"
     href: object-detection-objdetect-module/detection-of-aruco-markers.md
-  - name: "10.2 Detection of ArUco boards"
+  - name: "10.2 Detection of ArUco Boards"
     href: object-detection-objdetect-module/detection-of-aruco-boards.md
   - name: "10.3 Detection of ChArUco Boards"
     href: object-detection-objdetect-module/detection-of-charuco-boards.md
@@ -141,7 +141,7 @@ items:
     href: object-detection-objdetect-module/detection-of-diamond-markers.md
   - name: "10.5 Calibration with ArUco and ChArUco"
     href: object-detection-objdetect-module/calibration-with-aruco-and-charuco.md
-  - name: "10.6 Aruco module FAQ"
+  - name: "10.6 Aruco Module FAQ"
     href: object-detection-objdetect-module/aruco-module-faq.md
 - name: "11. OpenCV-Python Bindings"
   href: opencv-python-bindings/index.md

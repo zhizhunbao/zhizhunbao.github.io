@@ -1,10 +1,10 @@
 ---
-title: "2.2 Simple logic gates, logical expressions, Boolean logic simplification"
+title: "2.2 Simple Logic Gates, Logical Expressions, Boolean Logic Simplification"
 description: "CS2023 SF-Foundations, 2.2 Simple logic gates, logical expressions, Boolean logic simplification (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 2.2 Simple logic gates, logical expressions, Boolean logic simplification
+# 2.2 Simple Logic Gates, Logical Expressions, Boolean Logic Simplification
 
 Sources: [CS2023 Body of Knowledge, SF-Foundations, topic 2, p. 231](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=231).
 

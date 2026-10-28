@@ -88,7 +88,7 @@ items:
 - name: "IV. Client Interfaces"
   href: client-interfaces/index.md
   items:
-  - name: "32. libpq — C Library"
+  - name: "32. Libpq — C Library"
     href: client-interfaces/libpq-c-library.md
   - name: "33. Large Objects"
     href: client-interfaces/large-objects.md

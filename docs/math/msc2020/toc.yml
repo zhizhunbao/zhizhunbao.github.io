@@ -1,1260 +1,1260 @@
 items:
 - name: Overview
   href: index.md
-- name: "00 General and overarching topics; collections"
+- name: "00 General and Overarching Topics; Collections"
   href: 00-general-and-overarching-topics-collections/index.md
   items:
-  - name: "00A General and miscellaneous specific topics"
+  - name: "00A General and Miscellaneous Specific Topics"
     href: 00-general-and-overarching-topics-collections/00a-general-and-miscellaneous-specific-topics.md
-  - name: "00B Conference proceedings and collections of articles"
+  - name: "00B Conference Proceedings and Collections of Articles"
     href: 00-general-and-overarching-topics-collections/00b-conference-proceedings-and-collections-of-articles.md
-- name: "01 History and biography"
+- name: "01 History and Biography"
   href: 01-history-and-biography/index.md
   items:
-  - name: "01A History of mathematics and mathematicians"
+  - name: "01A History of Mathematics and Mathematicians"
     href: 01-history-and-biography/01a-history-of-mathematics-and-mathematicians.md
-- name: "03 Mathematical logic and foundations"
+- name: "03 Mathematical Logic and Foundations"
   href: 03-mathematical-logic-and-foundations/index.md
   items:
-  - name: "03A Philosophical aspects of logic and foundations"
+  - name: "03A Philosophical Aspects of Logic and Foundations"
     href: 03-mathematical-logic-and-foundations/03a-philosophical-aspects-of-logic-and-foundations.md
-  - name: "03B General logic"
+  - name: "03B General Logic"
     href: 03-mathematical-logic-and-foundations/03b-general-logic.md
-  - name: "03C Model theory"
+  - name: "03C Model Theory"
     href: 03-mathematical-logic-and-foundations/03c-model-theory.md
-  - name: "03D Computability and recursion theory"
+  - name: "03D Computability and Recursion Theory"
     href: 03-mathematical-logic-and-foundations/03d-computability-and-recursion-theory.md
-  - name: "03E Set theory"
+  - name: "03E Set Theory"
     href: 03-mathematical-logic-and-foundations/03e-set-theory.md
-  - name: "03F Proof theory and constructive mathematics"
+  - name: "03F Proof Theory and Constructive Mathematics"
     href: 03-mathematical-logic-and-foundations/03f-proof-theory-and-constructive-mathematics.md
-  - name: "03G Algebraic logic"
+  - name: "03G Algebraic Logic"
     href: 03-mathematical-logic-and-foundations/03g-algebraic-logic.md
-  - name: "03H Nonstandard models"
+  - name: "03H Nonstandard Models"
     href: 03-mathematical-logic-and-foundations/03h-nonstandard-models.md
 - name: "05 Combinatorics"
   href: 05-combinatorics/index.md
   items:
-  - name: "05A Enumerative combinatorics"
+  - name: "05A Enumerative Combinatorics"
     href: 05-combinatorics/05a-enumerative-combinatorics.md
-  - name: "05B Designs and configurations"
+  - name: "05B Designs and Configurations"
     href: 05-combinatorics/05b-designs-and-configurations.md
-  - name: "05C Graph theory"
+  - name: "05C Graph Theory"
     href: 05-combinatorics/05c-graph-theory.md
-  - name: "05D Extremal combinatorics"
+  - name: "05D Extremal Combinatorics"
     href: 05-combinatorics/05d-extremal-combinatorics.md
-  - name: "05E Algebraic combinatorics"
+  - name: "05E Algebraic Combinatorics"
     href: 05-combinatorics/05e-algebraic-combinatorics.md
-- name: "06 Order, lattices, ordered algebraic structures"
+- name: "06 Order, Lattices, Ordered Algebraic Structures"
   href: 06-order-lattices-ordered-algebraic-structures/index.md
   items:
-  - name: "06A Ordered sets"
+  - name: "06A Ordered Sets"
     href: 06-order-lattices-ordered-algebraic-structures/06a-ordered-sets.md
   - name: "06B Lattices"
     href: 06-order-lattices-ordered-algebraic-structures/06b-lattices.md
-  - name: "06C Modular lattices, complemented lattices"
+  - name: "06C Modular Lattices, Complemented Lattices"
     href: 06-order-lattices-ordered-algebraic-structures/06c-modular-lattices-complemented-lattices.md
-  - name: "06D Distributive lattices"
+  - name: "06D Distributive Lattices"
     href: 06-order-lattices-ordered-algebraic-structures/06d-distributive-lattices.md
-  - name: "06E Boolean algebras (Boolean rings)"
+  - name: "06E Boolean Algebras (Boolean rings)"
     href: 06-order-lattices-ordered-algebraic-structures/06e-boolean-algebras-boolean-rings.md
-  - name: "06F Ordered structures"
+  - name: "06F Ordered Structures"
     href: 06-order-lattices-ordered-algebraic-structures/06f-ordered-structures.md
-- name: "08 General algebraic systems"
+- name: "08 General Algebraic Systems"
   href: 08-general-algebraic-systems/index.md
   items:
-  - name: "08A Algebraic structures"
+  - name: "08A Algebraic Structures"
     href: 08-general-algebraic-systems/08a-algebraic-structures.md
   - name: "08B Varieties"
     href: 08-general-algebraic-systems/08b-varieties.md
-  - name: "08C Other classes of algebras"
+  - name: "08C Other Classes of Algebras"
     href: 08-general-algebraic-systems/08c-other-classes-of-algebras.md
-- name: "11 Number theory"
+- name: "11 Number Theory"
   href: 11-number-theory/index.md
   items:
-  - name: "11A Elementary number theory"
+  - name: "11A Elementary Number Theory"
     href: 11-number-theory/11a-elementary-number-theory.md
-  - name: "11B Sequences and sets"
+  - name: "11B Sequences and Sets"
     href: 11-number-theory/11b-sequences-and-sets.md
-  - name: "11C Polynomials and matrices"
+  - name: "11C Polynomials and Matrices"
     href: 11-number-theory/11c-polynomials-and-matrices.md
-  - name: "11D Diophantine equations"
+  - name: "11D Diophantine Equations"
     href: 11-number-theory/11d-diophantine-equations.md
-  - name: "11E Forms and linear algebraic groups"
+  - name: "11E Forms and Linear Algebraic Groups"
     href: 11-number-theory/11e-forms-and-linear-algebraic-groups.md
-  - name: "11F Discontinuous groups and automorphic forms"
+  - name: "11F Discontinuous Groups and Automorphic Forms"
     href: 11-number-theory/11f-discontinuous-groups-and-automorphic-forms.md
-  - name: "11G Arithmetic algebraic geometry (Diophantine geometry)"
+  - name: "11G Arithmetic Algebraic Geometry (Diophantine geometry)"
     href: 11-number-theory/11g-arithmetic-algebraic-geometry-diophantine-geometry.md
-  - name: "11H Geometry of numbers"
+  - name: "11H Geometry of Numbers"
     href: 11-number-theory/11h-geometry-of-numbers.md
-  - name: "11J Diophantine approximation, transcendental number theory"
+  - name: "11J Diophantine Approximation, Transcendental Number Theory"
     href: 11-number-theory/11j-diophantine-approximation-transcendental-number-theory.md
-  - name: "11K Probabilistic theory: distribution modulo 1; metric theory of algorithms"
+  - name: "11K Probabilistic Theory: Distribution Modulo 1; Metric Theory of Algorithms"
     href: 11-number-theory/11k-probabilistic-theory-distribution-modulo-1-metric-theory-of.md
-  - name: "11L Exponential sums and character sums"
+  - name: "11L Exponential Sums and Character Sums"
     href: 11-number-theory/11l-exponential-sums-and-character-sums.md
-  - name: "11M Zeta and L-functions: analytic theory"
+  - name: "11M Zeta and L-Functions: Analytic Theory"
     href: 11-number-theory/11m-zeta-and-l-functions-analytic-theory.md
-  - name: "11N Multiplicative number theory"
+  - name: "11N Multiplicative Number Theory"
     href: 11-number-theory/11n-multiplicative-number-theory.md
-  - name: "11P Additive number theory; partitions"
+  - name: "11P Additive Number Theory; Partitions"
     href: 11-number-theory/11p-additive-number-theory-partitions.md
-  - name: "11R Algebraic number theory: global fields"
+  - name: "11R Algebraic Number Theory: Global Fields"
     href: 11-number-theory/11r-algebraic-number-theory-global-fields.md
-  - name: "11S Algebraic number theory: local fields"
+  - name: "11S Algebraic Number Theory: Local Fields"
     href: 11-number-theory/11s-algebraic-number-theory-local-fields.md
-  - name: "11T Finite fields and commutative rings (number-theoretic aspects)"
+  - name: "11T Finite Fields and Commutative Rings (number-theoretic aspects)"
     href: 11-number-theory/11t-finite-fields-and-commutative-rings-number-theoretic-aspects.md
-  - name: "11U Connections of number theory and logic"
+  - name: "11U Connections of Number Theory and Logic"
     href: 11-number-theory/11u-connections-of-number-theory-and-logic.md
-  - name: "11Y Computational number theory"
+  - name: "11Y Computational Number Theory"
     href: 11-number-theory/11y-computational-number-theory.md
-  - name: "11Z Miscellaneous applications of number theory"
+  - name: "11Z Miscellaneous Applications of Number Theory"
     href: 11-number-theory/11z-miscellaneous-applications-of-number-theory.md
-- name: "12 Field theory and polynomials"
+- name: "12 Field Theory and Polynomials"
   href: 12-field-theory-and-polynomials/index.md
   items:
-  - name: "12D Real and complex fields"
+  - name: "12D Real and Complex Fields"
     href: 12-field-theory-and-polynomials/12d-real-and-complex-fields.md
-  - name: "12E General field theory"
+  - name: "12E General Field Theory"
     href: 12-field-theory-and-polynomials/12e-general-field-theory.md
-  - name: "12F Field extensions"
+  - name: "12F Field Extensions"
     href: 12-field-theory-and-polynomials/12f-field-extensions.md
-  - name: "12G Homological methods (field theory)"
+  - name: "12G Homological Methods (field theory)"
     href: 12-field-theory-and-polynomials/12g-homological-methods-field-theory.md
-  - name: "12H Differential and difference algebra"
+  - name: "12H Differential and Difference Algebra"
     href: 12-field-theory-and-polynomials/12h-differential-and-difference-algebra.md
-  - name: "12J Topological fields"
+  - name: "12J Topological Fields"
     href: 12-field-theory-and-polynomials/12j-topological-fields.md
-  - name: "12K Generalizations of fields"
+  - name: "12K Generalizations of Fields"
     href: 12-field-theory-and-polynomials/12k-generalizations-of-fields.md
-  - name: "12L Connections between field theory and logic"
+  - name: "12L Connections Between Field Theory and Logic"
     href: 12-field-theory-and-polynomials/12l-connections-between-field-theory-and-logic.md
-- name: "13 Commutative algebra"
+- name: "13 Commutative Algebra"
   href: 13-commutative-algebra/index.md
   items:
-  - name: "13A General commutative ring theory"
+  - name: "13A General Commutative Ring Theory"
     href: 13-commutative-algebra/13a-general-commutative-ring-theory.md
-  - name: "13B Commutative ring extensions and related topics"
+  - name: "13B Commutative Ring Extensions and Related Topics"
     href: 13-commutative-algebra/13b-commutative-ring-extensions-and-related-topics.md
-  - name: "13C Theory of modules and ideals in commutative rings"
+  - name: "13C Theory of Modules and Ideals in Commutative Rings"
     href: 13-commutative-algebra/13c-theory-of-modules-and-ideals-in-commutative-rings.md
-  - name: "13D Homological methods in commutative ring theory"
+  - name: "13D Homological Methods in Commutative Ring Theory"
     href: 13-commutative-algebra/13d-homological-methods-in-commutative-ring-theory.md
-  - name: "13E Chain conditions, finiteness conditions in commutative ring theory"
+  - name: "13E Chain Conditions, Finiteness Conditions in Commutative Ring Theory"
     href: 13-commutative-algebra/13e-chain-conditions-finiteness-conditions-in-commutative-ring-t.md
-  - name: "13F Arithmetic rings and other special commutative rings"
+  - name: "13F Arithmetic Rings and Other Special Commutative Rings"
     href: 13-commutative-algebra/13f-arithmetic-rings-and-other-special-commutative-rings.md
-  - name: "13G Integral domains"
+  - name: "13G Integral Domains"
     href: 13-commutative-algebra/13g-integral-domains.md
-  - name: "13H Local rings and semilocal rings"
+  - name: "13H Local Rings and Semilocal Rings"
     href: 13-commutative-algebra/13h-local-rings-and-semilocal-rings.md
-  - name: "13J Topological rings and modules"
+  - name: "13J Topological Rings and Modules"
     href: 13-commutative-algebra/13j-topological-rings-and-modules.md
-  - name: "13L Applications of logic to commutative algebra"
+  - name: "13L Applications of Logic to Commutative Algebra"
     href: 13-commutative-algebra/13l-applications-of-logic-to-commutative-algebra.md
-  - name: "13M Finite commutative rings"
+  - name: "13M Finite Commutative Rings"
     href: 13-commutative-algebra/13m-finite-commutative-rings.md
-  - name: "13N Differential algebra"
+  - name: "13N Differential Algebra"
     href: 13-commutative-algebra/13n-differential-algebra.md
-  - name: "13P Computational aspects and applications of commutative rings"
+  - name: "13P Computational Aspects and Applications of Commutative Rings"
     href: 13-commutative-algebra/13p-computational-aspects-and-applications-of-commutative-rings.md
-- name: "14 Algebraic geometry"
+- name: "14 Algebraic Geometry"
   href: 14-algebraic-geometry/index.md
   items:
-  - name: "14A Foundations of algebraic geometry"
+  - name: "14A Foundations of Algebraic Geometry"
     href: 14-algebraic-geometry/14a-foundations-of-algebraic-geometry.md
-  - name: "14B Local theory in algebraic geometry"
+  - name: "14B Local Theory in Algebraic Geometry"
     href: 14-algebraic-geometry/14b-local-theory-in-algebraic-geometry.md
-  - name: "14C Cycles and subschemes"
+  - name: "14C Cycles and Subschemes"
     href: 14-algebraic-geometry/14c-cycles-and-subschemes.md
-  - name: "14D Families, fibrations in algebraic geometry"
+  - name: "14D Families, Fibrations in Algebraic Geometry"
     href: 14-algebraic-geometry/14d-families-fibrations-in-algebraic-geometry.md
-  - name: "14E Birational geometry"
+  - name: "14E Birational Geometry"
     href: 14-algebraic-geometry/14e-birational-geometry.md
-  - name: "14F (Co)homology theory in algebraic geometry"
+  - name: "14F (Co)homology Theory in Algebraic Geometry"
     href: 14-algebraic-geometry/14f-co-homology-theory-in-algebraic-geometry.md
-  - name: "14G Arithmetic problems in algebraic geometry; Diophantine geometry"
+  - name: "14G Arithmetic Problems in Algebraic Geometry; Diophantine Geometry"
     href: 14-algebraic-geometry/14g-arithmetic-problems-in-algebraic-geometry-diophantine-geomet.md
-  - name: "14H Curves in algebraic geometry"
+  - name: "14H Curves in Algebraic Geometry"
     href: 14-algebraic-geometry/14h-curves-in-algebraic-geometry.md
-  - name: "14J Surfaces and higher-dimensional varieties"
+  - name: "14J Surfaces and Higher-Dimensional Varieties"
     href: 14-algebraic-geometry/14j-surfaces-and-higher-dimensional-varieties.md
-  - name: "14K Abelian varieties and schemes"
+  - name: "14K Abelian Varieties and Schemes"
     href: 14-algebraic-geometry/14k-abelian-varieties-and-schemes.md
-  - name: "14L Algebraic groups"
+  - name: "14L Algebraic Groups"
     href: 14-algebraic-geometry/14l-algebraic-groups.md
-  - name: "14M Special varieties"
+  - name: "14M Special Varieties"
     href: 14-algebraic-geometry/14m-special-varieties.md
-  - name: "14N Projective and enumerative algebraic geometry"
+  - name: "14N Projective and Enumerative Algebraic Geometry"
     href: 14-algebraic-geometry/14n-projective-and-enumerative-algebraic-geometry.md
-  - name: "14P Real algebraic and real-analytic geometry"
+  - name: "14P Real Algebraic and Real-Analytic Geometry"
     href: 14-algebraic-geometry/14p-real-algebraic-and-real-analytic-geometry.md
-  - name: "14Q Computational aspects in algebraic geometry"
+  - name: "14Q Computational Aspects in Algebraic Geometry"
     href: 14-algebraic-geometry/14q-computational-aspects-in-algebraic-geometry.md
-  - name: "14R Affine geometry"
+  - name: "14R Affine Geometry"
     href: 14-algebraic-geometry/14r-affine-geometry.md
-  - name: "14T Tropical geometry"
+  - name: "14T Tropical Geometry"
     href: 14-algebraic-geometry/14t-tropical-geometry.md
-- name: "15 Linear and multilinear algebra; matrix theory"
+- name: "15 Linear and Multilinear Algebra; Matrix Theory"
   href: 15-linear-and-multilinear-algebra-matrix-theory/index.md
   items:
-  - name: "15A Basic linear algebra"
+  - name: "15A Basic Linear Algebra"
     href: 15-linear-and-multilinear-algebra-matrix-theory/15a-basic-linear-algebra.md
-  - name: "15B Special matrices"
+  - name: "15B Special Matrices"
     href: 15-linear-and-multilinear-algebra-matrix-theory/15b-special-matrices.md
-- name: "16 Associative rings and algebras"
+- name: "16 Associative Rings and Algebras"
   href: 16-associative-rings-and-algebras/index.md
   items:
-  - name: "16B General and miscellaneous"
+  - name: "16B General and Miscellaneous"
     href: 16-associative-rings-and-algebras/16b-general-and-miscellaneous.md
-  - name: "16D Modules, bimodules and ideals in associative algebras"
+  - name: "16D Modules, Bimodules and Ideals in Associative Algebras"
     href: 16-associative-rings-and-algebras/16d-modules-bimodules-and-ideals-in-associative-algebras.md
-  - name: "16E Homological methods in associative algebras"
+  - name: "16E Homological Methods in Associative Algebras"
     href: 16-associative-rings-and-algebras/16e-homological-methods-in-associative-algebras.md
-  - name: "16G Representation theory of associative rings and algebras"
+  - name: "16G Representation Theory of Associative Rings and Algebras"
     href: 16-associative-rings-and-algebras/16g-representation-theory-of-associative-rings-and-algebras.md
-  - name: "16H Associative algebras and orders"
+  - name: "16H Associative Algebras and Orders"
     href: 16-associative-rings-and-algebras/16h-associative-algebras-and-orders.md
-  - name: "16K Division rings and semisimple Artin rings"
+  - name: "16K Division Rings and Semisimple Artin Rings"
     href: 16-associative-rings-and-algebras/16k-division-rings-and-semisimple-artin-rings.md
-  - name: "16L Local rings and generalizations"
+  - name: "16L Local Rings and Generalizations"
     href: 16-associative-rings-and-algebras/16l-local-rings-and-generalizations.md
-  - name: "16N Radicals and radical properties of associative rings"
+  - name: "16N Radicals and Radical Properties of Associative Rings"
     href: 16-associative-rings-and-algebras/16n-radicals-and-radical-properties-of-associative-rings.md
-  - name: "16P Chain conditions, growth conditions, and other forms of finiteness for associative rings and algebras"
+  - name: "16P Chain Conditions, Growth Conditions, and Other Forms of Finiteness for Associative Rings and Algebras"
     href: 16-associative-rings-and-algebras/16p-chain-conditions-growth-conditions-and-other-forms-of-finite.md
-  - name: "16R Rings with polynomial identity"
+  - name: "16R Rings with Polynomial Identity"
     href: 16-associative-rings-and-algebras/16r-rings-with-polynomial-identity.md
-  - name: "16S Associative rings and algebras arising under various constructions"
+  - name: "16S Associative Rings and Algebras Arising under Various Constructions"
     href: 16-associative-rings-and-algebras/16s-associative-rings-and-algebras-arising-under-various-constru.md
-  - name: "16T Hopf algebras, quantum groups and related topics"
+  - name: "16T Hopf Algebras, Quantum Groups and Related Topics"
     href: 16-associative-rings-and-algebras/16t-hopf-algebras-quantum-groups-and-related-topics.md
-  - name: "16U Conditions on elements"
+  - name: "16U Conditions on Elements"
     href: 16-associative-rings-and-algebras/16u-conditions-on-elements.md
-  - name: "16W Associative rings and algebras with additional structure"
+  - name: "16W Associative Rings and Algebras with Additional Structure"
     href: 16-associative-rings-and-algebras/16w-associative-rings-and-algebras-with-additional-structure.md
   - name: "16Y Generalizations"
     href: 16-associative-rings-and-algebras/16y-generalizations.md
-  - name: "16Z Computational aspects of associative rings"
+  - name: "16Z Computational Aspects of Associative Rings"
     href: 16-associative-rings-and-algebras/16z-computational-aspects-of-associative-rings.md
-- name: "17 Nonassociative rings and algebras"
+- name: "17 Nonassociative Rings and Algebras"
   href: 17-nonassociative-rings-and-algebras/index.md
   items:
-  - name: "17A General nonassociative rings"
+  - name: "17A General Nonassociative Rings"
     href: 17-nonassociative-rings-and-algebras/17a-general-nonassociative-rings.md
-  - name: "17B Lie algebras and Lie superalgebras"
+  - name: "17B Lie Algebras and Lie Superalgebras"
     href: 17-nonassociative-rings-and-algebras/17b-lie-algebras-and-lie-superalgebras.md
-  - name: "17C Jordan algebras (algebras, triples and pairs)"
+  - name: "17C Jordan Algebras (algebras, triples and pairs)"
     href: 17-nonassociative-rings-and-algebras/17c-jordan-algebras-algebras-triples-and-pairs.md
-  - name: "17D Other nonassociative rings and algebras"
+  - name: "17D Other Nonassociative Rings and Algebras"
     href: 17-nonassociative-rings-and-algebras/17d-other-nonassociative-rings-and-algebras.md
-- name: "18 Category theory; homological algebra"
+- name: "18 Category Theory; Homological Algebra"
   href: 18-category-theory-homological-algebra/index.md
   items:
-  - name: "18A General theory of categories and functors"
+  - name: "18A General Theory of Categories and Functors"
     href: 18-category-theory-homological-algebra/18a-general-theory-of-categories-and-functors.md
-  - name: "18B Special categories"
+  - name: "18B Special Categories"
     href: 18-category-theory-homological-algebra/18b-special-categories.md
-  - name: "18C Categories and theories"
+  - name: "18C Categories and Theories"
     href: 18-category-theory-homological-algebra/18c-categories-and-theories.md
-  - name: "18D Categorical structures"
+  - name: "18D Categorical Structures"
     href: 18-category-theory-homological-algebra/18d-categorical-structures.md
-  - name: "18E Categorical algebra"
+  - name: "18E Categorical Algebra"
     href: 18-category-theory-homological-algebra/18e-categorical-algebra.md
-  - name: "18F Categories in geometry and topology"
+  - name: "18F Categories in Geometry and Topology"
     href: 18-category-theory-homological-algebra/18f-categories-in-geometry-and-topology.md
-  - name: "18G Homological algebra in category theory, derived categories and functors"
+  - name: "18G Homological Algebra in Category Theory, Derived Categories and Functors"
     href: 18-category-theory-homological-algebra/18g-homological-algebra-in-category-theory-derived-categories-an.md
-  - name: "18M Monoidal categories and operads"
+  - name: "18M Monoidal Categories and Operads"
     href: 18-category-theory-homological-algebra/18m-monoidal-categories-and-operads.md
-  - name: "18N Higher categories and homotopical algebra"
+  - name: "18N Higher Categories and Homotopical Algebra"
     href: 18-category-theory-homological-algebra/18n-higher-categories-and-homotopical-algebra.md
-- name: "19 K-theory"
+- name: "19 K-Theory"
   href: 19-k-theory/index.md
   items:
-  - name: "19A Grothendieck groups and K0"
+  - name: "19A Grothendieck Groups and K0"
     href: 19-k-theory/19a-grothendieck-groups-and-k0.md
-  - name: "19B Whitehead groups and K1"
+  - name: "19B Whitehead Groups and K1"
     href: 19-k-theory/19b-whitehead-groups-and-k1.md
-  - name: "19C Steinberg groups and K2"
+  - name: "19C Steinberg Groups and K2"
     href: 19-k-theory/19c-steinberg-groups-and-k2.md
-  - name: "19D Higher algebraic K-theory"
+  - name: "19D Higher Algebraic K-Theory"
     href: 19-k-theory/19d-higher-algebraic-k-theory.md
-  - name: "19E K-theory in geometry"
+  - name: "19E K-Theory in Geometry"
     href: 19-k-theory/19e-k-theory-in-geometry.md
-  - name: "19F K-theory in number theory"
+  - name: "19F K-Theory in Number Theory"
     href: 19-k-theory/19f-k-theory-in-number-theory.md
-  - name: "19G K-theory of forms"
+  - name: "19G K-Theory of Forms"
     href: 19-k-theory/19g-k-theory-of-forms.md
-  - name: "19J Obstructions from topology"
+  - name: "19J Obstructions from Topology"
     href: 19-k-theory/19j-obstructions-from-topology.md
-  - name: "19K K-theory and operator algebras [See mainly 46L80, and also 46M20]"
+  - name: "19K K-Theory and Operator Algebras [See Mainly 46L80, and Also 46M20]"
     href: 19-k-theory/19k-k-theory-and-operator-algebras-see-mainly-46l80-and-also-46m.md
-  - name: "19L Topological K-theory"
+  - name: "19L Topological K-Theory"
     href: 19-k-theory/19l-topological-k-theory.md
-  - name: "19M Miscellaneous applications of K-theory"
+  - name: "19M Miscellaneous Applications of K-Theory"
     href: 19-k-theory/19m-miscellaneous-applications-of-k-theory.md
-- name: "20 Group theory and generalizations"
+- name: "20 Group Theory and Generalizations"
   href: 20-group-theory-and-generalizations/index.md
   items:
   - name: "20A Foundations"
     href: 20-group-theory-and-generalizations/20a-foundations.md
-  - name: "20B Permutation groups"
+  - name: "20B Permutation Groups"
     href: 20-group-theory-and-generalizations/20b-permutation-groups.md
-  - name: "20C Representation theory of groups"
+  - name: "20C Representation Theory of Groups"
     href: 20-group-theory-and-generalizations/20c-representation-theory-of-groups.md
-  - name: "20D Abstract finite groups"
+  - name: "20D Abstract Finite Groups"
     href: 20-group-theory-and-generalizations/20d-abstract-finite-groups.md
-  - name: "20E Structure and classification of infinite or finite groups"
+  - name: "20E Structure and Classification of Infinite or Finite Groups"
     href: 20-group-theory-and-generalizations/20e-structure-and-classification-of-infinite-or-finite-groups.md
-  - name: "20F Special aspects of infinite or finite groups"
+  - name: "20F Special Aspects of Infinite or Finite Groups"
     href: 20-group-theory-and-generalizations/20f-special-aspects-of-infinite-or-finite-groups.md
-  - name: "20G Linear algebraic groups and related topics"
+  - name: "20G Linear Algebraic Groups and Related Topics"
     href: 20-group-theory-and-generalizations/20g-linear-algebraic-groups-and-related-topics.md
-  - name: "20H Other groups of matrices"
+  - name: "20H Other Groups of Matrices"
     href: 20-group-theory-and-generalizations/20h-other-groups-of-matrices.md
-  - name: "20J Connections of group theory with homological algebra and category theory"
+  - name: "20J Connections of Group Theory with Homological Algebra and Category Theory"
     href: 20-group-theory-and-generalizations/20j-connections-of-group-theory-with-homological-algebra-and-cat.md
-  - name: "20K Abelian groups"
+  - name: "20K Abelian Groups"
     href: 20-group-theory-and-generalizations/20k-abelian-groups.md
   - name: "20L Groupoids (i.e. small categories in which all morphisms are isomorphisms)"
     href: 20-group-theory-and-generalizations/20l-groupoids-i-e-small-categories-in-which-all-morphisms-are-is.md
   - name: "20M Semigroups"
     href: 20-group-theory-and-generalizations/20m-semigroups.md
-  - name: "20N Other generalizations of groups"
+  - name: "20N Other Generalizations of Groups"
     href: 20-group-theory-and-generalizations/20n-other-generalizations-of-groups.md
-  - name: "20P Probabilistic methods in group theory"
+  - name: "20P Probabilistic Methods in Group Theory"
     href: 20-group-theory-and-generalizations/20p-probabilistic-methods-in-group-theory.md
-- name: "22 Topological groups, Lie groups"
+- name: "22 Topological Groups, Lie Groups"
   href: 22-topological-groups-lie-groups/index.md
   items:
-  - name: "22A Topological and differentiable algebraic systems"
+  - name: "22A Topological and Differentiable Algebraic Systems"
     href: 22-topological-groups-lie-groups/22a-topological-and-differentiable-algebraic-systems.md
-  - name: "22B Locally compact abelian groups (LCA groups)"
+  - name: "22B Locally Compact Abelian Groups (LCA groups)"
     href: 22-topological-groups-lie-groups/22b-locally-compact-abelian-groups-lca-groups.md
-  - name: "22C Compact groups"
+  - name: "22C Compact Groups"
     href: 22-topological-groups-lie-groups/22c-compact-groups.md
-  - name: "22D Locally compact groups and their algebras"
+  - name: "22D Locally Compact Groups and Their Algebras"
     href: 22-topological-groups-lie-groups/22d-locally-compact-groups-and-their-algebras.md
-  - name: "22E Lie groups"
+  - name: "22E Lie Groups"
     href: 22-topological-groups-lie-groups/22e-lie-groups.md
-  - name: "22F Noncompact transformation groups"
+  - name: "22F Noncompact Transformation Groups"
     href: 22-topological-groups-lie-groups/22f-noncompact-transformation-groups.md
-- name: "26 Real functions"
+- name: "26 Real Functions"
   href: 26-real-functions/index.md
   items:
-  - name: "26A Functions of one variable"
+  - name: "26A Functions of One Variable"
     href: 26-real-functions/26a-functions-of-one-variable.md
-  - name: "26B Functions of several variables"
+  - name: "26B Functions of Several Variables"
     href: 26-real-functions/26b-functions-of-several-variables.md
-  - name: "26C Polynomials, rational functions in real analysis"
+  - name: "26C Polynomials, Rational Functions in Real Analysis"
     href: 26-real-functions/26c-polynomials-rational-functions-in-real-analysis.md
-  - name: "26D Inequalities in real analysis"
+  - name: "26D Inequalities in Real Analysis"
     href: 26-real-functions/26d-inequalities-in-real-analysis.md
-  - name: "26E Miscellaneous topics in real functions"
+  - name: "26E Miscellaneous Topics in Real Functions"
     href: 26-real-functions/26e-miscellaneous-topics-in-real-functions.md
-- name: "28 Measure and integration"
+- name: "28 Measure and Integration"
   href: 28-measure-and-integration/index.md
   items:
-  - name: "28A Classical measure theory"
+  - name: "28A Classical Measure Theory"
     href: 28-measure-and-integration/28a-classical-measure-theory.md
-  - name: "28B Set functions, measures and integrals with values in abstract spaces"
+  - name: "28B Set Functions, Measures and Integrals with Values in Abstract Spaces"
     href: 28-measure-and-integration/28b-set-functions-measures-and-integrals-with-values-in-abstract.md
-  - name: "28C Set functions and measures on spaces with additional structure"
+  - name: "28C Set Functions and Measures on Spaces with Additional Structure"
     href: 28-measure-and-integration/28c-set-functions-and-measures-on-spaces-with-additional-structu.md
-  - name: "28D Measure-theoretic ergodic theory"
+  - name: "28D Measure-Theoretic Ergodic Theory"
     href: 28-measure-and-integration/28d-measure-theoretic-ergodic-theory.md
-  - name: "28E Miscellaneous topics in measure theory"
+  - name: "28E Miscellaneous Topics in Measure Theory"
     href: 28-measure-and-integration/28e-miscellaneous-topics-in-measure-theory.md
-- name: "30 Functions of a complex variable"
+- name: "30 Functions of a Complex Variable"
   href: 30-functions-of-a-complex-variable/index.md
   items:
-  - name: "30A General properties of functions of one complex variable"
+  - name: "30A General Properties of Functions of One Complex Variable"
     href: 30-functions-of-a-complex-variable/30a-general-properties-of-functions-of-one-complex-variable.md
-  - name: "30B Series expansions of functions of one complex variable"
+  - name: "30B Series Expansions of Functions of One Complex Variable"
     href: 30-functions-of-a-complex-variable/30b-series-expansions-of-functions-of-one-complex-variable.md
-  - name: "30C Geometric function theory"
+  - name: "30C Geometric Function Theory"
     href: 30-functions-of-a-complex-variable/30c-geometric-function-theory.md
-  - name: "30D Entire and meromorphic functions of one complex variable, and related topics"
+  - name: "30D Entire and Meromorphic Functions of One Complex Variable, and Related Topics"
     href: 30-functions-of-a-complex-variable/30d-entire-and-meromorphic-functions-of-one-complex-variable-and.md
-  - name: "30E Miscellaneous topics of analysis in the complex plane"
+  - name: "30E Miscellaneous Topics of Analysis in the Complex Plane"
     href: 30-functions-of-a-complex-variable/30e-miscellaneous-topics-of-analysis-in-the-complex-plane.md
-  - name: "30F Riemann surfaces"
+  - name: "30F Riemann Surfaces"
     href: 30-functions-of-a-complex-variable/30f-riemann-surfaces.md
-  - name: "30G Generalized function theory"
+  - name: "30G Generalized Function Theory"
     href: 30-functions-of-a-complex-variable/30g-generalized-function-theory.md
-  - name: "30H Spaces and algebras of analytic functions of one complex variable"
+  - name: "30H Spaces and Algebras of Analytic Functions of One Complex Variable"
     href: 30-functions-of-a-complex-variable/30h-spaces-and-algebras-of-analytic-functions-of-one-complex-var.md
-  - name: "30J Function theory on the disc"
+  - name: "30J Function Theory on the Disc"
     href: 30-functions-of-a-complex-variable/30j-function-theory-on-the-disc.md
-  - name: "30K Universal holomorphic functions of one complex variable"
+  - name: "30K Universal Holomorphic Functions of One Complex Variable"
     href: 30-functions-of-a-complex-variable/30k-universal-holomorphic-functions-of-one-complex-variable.md
-  - name: "30L Analysis on metric spaces"
+  - name: "30L Analysis on Metric Spaces"
     href: 30-functions-of-a-complex-variable/30l-analysis-on-metric-spaces.md
-- name: "31 Potential theory"
+- name: "31 Potential Theory"
   href: 31-potential-theory/index.md
   items:
-  - name: "31A Two-dimensional potential theory"
+  - name: "31A Two-Dimensional Potential Theory"
     href: 31-potential-theory/31a-two-dimensional-potential-theory.md
-  - name: "31B Higher-dimensional potential theory"
+  - name: "31B Higher-Dimensional Potential Theory"
     href: 31-potential-theory/31b-higher-dimensional-potential-theory.md
-  - name: "31C Generalizations of potential theory"
+  - name: "31C Generalizations of Potential Theory"
     href: 31-potential-theory/31c-generalizations-of-potential-theory.md
-  - name: "31D Axiomatic potential theory"
+  - name: "31D Axiomatic Potential Theory"
     href: 31-potential-theory/31d-axiomatic-potential-theory.md
-  - name: "31E Potential theory on fractals and metric spaces"
+  - name: "31E Potential Theory on Fractals and Metric Spaces"
     href: 31-potential-theory/31e-potential-theory-on-fractals-and-metric-spaces.md
-- name: "32 Several complex variables and analytic spaces"
+- name: "32 Several Complex Variables and Analytic Spaces"
   href: 32-several-complex-variables-and-analytic-spaces/index.md
   items:
-  - name: "32A Holomorphic functions of several complex variables"
+  - name: "32A Holomorphic Functions of Several Complex Variables"
     href: 32-several-complex-variables-and-analytic-spaces/32a-holomorphic-functions-of-several-complex-variables.md
-  - name: "32B Local analytic geometry"
+  - name: "32B Local Analytic Geometry"
     href: 32-several-complex-variables-and-analytic-spaces/32b-local-analytic-geometry.md
-  - name: "32C Analytic spaces"
+  - name: "32C Analytic Spaces"
     href: 32-several-complex-variables-and-analytic-spaces/32c-analytic-spaces.md
-  - name: "32D Analytic continuation"
+  - name: "32D Analytic Continuation"
     href: 32-several-complex-variables-and-analytic-spaces/32d-analytic-continuation.md
-  - name: "32E Holomorphic convexity"
+  - name: "32E Holomorphic Convexity"
     href: 32-several-complex-variables-and-analytic-spaces/32e-holomorphic-convexity.md
-  - name: "32F Geometric convexity in several complex variables"
+  - name: "32F Geometric Convexity in Several Complex Variables"
     href: 32-several-complex-variables-and-analytic-spaces/32f-geometric-convexity-in-several-complex-variables.md
-  - name: "32G Deformations of analytic structures"
+  - name: "32G Deformations of Analytic Structures"
     href: 32-several-complex-variables-and-analytic-spaces/32g-deformations-of-analytic-structures.md
-  - name: "32H Holomorphic mappings and correspondences"
+  - name: "32H Holomorphic Mappings and Correspondences"
     href: 32-several-complex-variables-and-analytic-spaces/32h-holomorphic-mappings-and-correspondences.md
-  - name: "32J Compact analytic spaces"
+  - name: "32J Compact Analytic Spaces"
     href: 32-several-complex-variables-and-analytic-spaces/32j-compact-analytic-spaces.md
-  - name: "32K Generalizations of analytic spaces"
+  - name: "32K Generalizations of Analytic Spaces"
     href: 32-several-complex-variables-and-analytic-spaces/32k-generalizations-of-analytic-spaces.md
-  - name: "32L Holomorphic fiber spaces"
+  - name: "32L Holomorphic Fiber Spaces"
     href: 32-several-complex-variables-and-analytic-spaces/32l-holomorphic-fiber-spaces.md
-  - name: "32M Complex spaces with a group of automorphisms"
+  - name: "32M Complex Spaces with a Group of Automorphisms"
     href: 32-several-complex-variables-and-analytic-spaces/32m-complex-spaces-with-a-group-of-automorphisms.md
-  - name: "32N Automorphic functions"
+  - name: "32N Automorphic Functions"
     href: 32-several-complex-variables-and-analytic-spaces/32n-automorphic-functions.md
-  - name: "32P Non-Archimedean analysis"
+  - name: "32P Non-Archimedean Analysis"
     href: 32-several-complex-variables-and-analytic-spaces/32p-non-archimedean-analysis.md
-  - name: "32Q Complex manifolds"
+  - name: "32Q Complex Manifolds"
     href: 32-several-complex-variables-and-analytic-spaces/32q-complex-manifolds.md
-  - name: "32S Complex singularities"
+  - name: "32S Complex Singularities"
     href: 32-several-complex-variables-and-analytic-spaces/32s-complex-singularities.md
-  - name: "32T Pseudoconvex domains"
+  - name: "32T Pseudoconvex Domains"
     href: 32-several-complex-variables-and-analytic-spaces/32t-pseudoconvex-domains.md
-  - name: "32U Pluripotential theory"
+  - name: "32U Pluripotential Theory"
     href: 32-several-complex-variables-and-analytic-spaces/32u-pluripotential-theory.md
-  - name: "32V CR manifolds"
+  - name: "32V CR Manifolds"
     href: 32-several-complex-variables-and-analytic-spaces/32v-cr-manifolds.md
-  - name: "32W Differential operators in several variables"
+  - name: "32W Differential Operators in Several Variables"
     href: 32-several-complex-variables-and-analytic-spaces/32w-differential-operators-in-several-variables.md
-- name: "33 Special functions"
+- name: "33 Special Functions"
   href: 33-special-functions/index.md
   items:
-  - name: "33B Elementary classical functions"
+  - name: "33B Elementary Classical Functions"
     href: 33-special-functions/33b-elementary-classical-functions.md
-  - name: "33C Hypergeometric functions"
+  - name: "33C Hypergeometric Functions"
     href: 33-special-functions/33c-hypergeometric-functions.md
-  - name: "33D Basic hypergeometric functions"
+  - name: "33D Basic Hypergeometric Functions"
     href: 33-special-functions/33d-basic-hypergeometric-functions.md
-  - name: "33E Other special functions"
+  - name: "33E Other Special Functions"
     href: 33-special-functions/33e-other-special-functions.md
-  - name: "33F Computational aspects of special functions"
+  - name: "33F Computational Aspects of Special Functions"
     href: 33-special-functions/33f-computational-aspects-of-special-functions.md
-- name: "34 Ordinary differential equations"
+- name: "34 Ordinary Differential Equations"
   href: 34-ordinary-differential-equations/index.md
   items:
-  - name: "34A General theory for ordinary differential equations"
+  - name: "34A General Theory for Ordinary Differential Equations"
     href: 34-ordinary-differential-equations/34a-general-theory-for-ordinary-differential-equations.md
-  - name: "34B Boundary value problems for ordinary differential equations"
+  - name: "34B Boundary Value Problems for Ordinary Differential Equations"
     href: 34-ordinary-differential-equations/34b-boundary-value-problems-for-ordinary-differential-equations.md
-  - name: "34C Qualitative theory for ordinary differential equations"
+  - name: "34C Qualitative Theory for Ordinary Differential Equations"
     href: 34-ordinary-differential-equations/34c-qualitative-theory-for-ordinary-differential-equations.md
-  - name: "34D Stability theory for ordinary differential equations"
+  - name: "34D Stability Theory for Ordinary Differential Equations"
     href: 34-ordinary-differential-equations/34d-stability-theory-for-ordinary-differential-equations.md
-  - name: "34E Asymptotic theory for ordinary differential equations"
+  - name: "34E Asymptotic Theory for Ordinary Differential Equations"
     href: 34-ordinary-differential-equations/34e-asymptotic-theory-for-ordinary-differential-equations.md
-  - name: "34F Ordinary differential equations and systems with randomness"
+  - name: "34F Ordinary Differential Equations and Systems with Randomness"
     href: 34-ordinary-differential-equations/34f-ordinary-differential-equations-and-systems-with-randomness.md
-  - name: "34G Differential equations in abstract spaces"
+  - name: "34G Differential Equations in Abstract Spaces"
     href: 34-ordinary-differential-equations/34g-differential-equations-in-abstract-spaces.md
-  - name: "34H Control problems involving ordinary differential equations"
+  - name: "34H Control Problems Involving Ordinary Differential Equations"
     href: 34-ordinary-differential-equations/34h-control-problems-involving-ordinary-differential-equations.md
-  - name: "34K Functional-differential equations (including equations with delayed, advanced or state-dependent argument)"
+  - name: "34K Functional-Differential Equations (including equations with delayed, advanced or state-dependent argument)"
     href: 34-ordinary-differential-equations/34k-functional-differential-equations-including-equations-with-d.md
-  - name: "34L Ordinary differential operators"
+  - name: "34L Ordinary Differential Operators"
     href: 34-ordinary-differential-equations/34l-ordinary-differential-operators.md
-  - name: "34M Ordinary differential equations in the complex domain"
+  - name: "34M Ordinary Differential Equations in the Complex Domain"
     href: 34-ordinary-differential-equations/34m-ordinary-differential-equations-in-the-complex-domain.md
-  - name: "34N Dynamic equations on time scales or measure chains"
+  - name: "34N Dynamic Equations on Time Scales or Measure Chains"
     href: 34-ordinary-differential-equations/34n-dynamic-equations-on-time-scales-or-measure-chains.md
-- name: "35 Partial differential equations"
+- name: "35 Partial Differential Equations"
   href: 35-partial-differential-equations/index.md
   items:
-  - name: "35A General topics in partial differential equations"
+  - name: "35A General Topics in Partial Differential Equations"
     href: 35-partial-differential-equations/35a-general-topics-in-partial-differential-equations.md
-  - name: "35B Qualitative properties of solutions to partial differential equations"
+  - name: "35B Qualitative Properties of Solutions to Partial Differential Equations"
     href: 35-partial-differential-equations/35b-qualitative-properties-of-solutions-to-partial-differential.md
-  - name: "35C Representations of solutions to partial differential equations"
+  - name: "35C Representations of Solutions to Partial Differential Equations"
     href: 35-partial-differential-equations/35c-representations-of-solutions-to-partial-differential-equatio.md
-  - name: "35D Generalized solutions to partial differential equations"
+  - name: "35D Generalized Solutions to Partial Differential Equations"
     href: 35-partial-differential-equations/35d-generalized-solutions-to-partial-differential-equations.md
-  - name: "35E Partial differential equations and systems of partial differential equations with constant coefficients"
+  - name: "35E Partial Differential Equations and Systems of Partial Differential Equations with Constant Coefficients"
     href: 35-partial-differential-equations/35e-partial-differential-equations-and-systems-of-partial-differ.md
-  - name: "35F General first-order partial differential equations and systems of first-order partial differential equations"
+  - name: "35F General First-Order Partial Differential Equations and Systems of First-Order Partial Differential Equations"
     href: 35-partial-differential-equations/35f-general-first-order-partial-differential-equations-and-syste.md
-  - name: "35G General higher-order partial differential equations and systems of higher-order partial differential equations"
+  - name: "35G General Higher-Order Partial Differential Equations and Systems of Higher-Order Partial Differential Equations"
     href: 35-partial-differential-equations/35g-general-higher-order-partial-differential-equations-and-syst.md
-  - name: "35H Close-to-elliptic equations"
+  - name: "35H Close-to-Elliptic Equations"
     href: 35-partial-differential-equations/35h-close-to-elliptic-equations.md
-  - name: "35J Elliptic equations and elliptic systems"
+  - name: "35J Elliptic Equations and Elliptic Systems"
     href: 35-partial-differential-equations/35j-elliptic-equations-and-elliptic-systems.md
-  - name: "35K Parabolic equations and parabolic systems"
+  - name: "35K Parabolic Equations and Parabolic Systems"
     href: 35-partial-differential-equations/35k-parabolic-equations-and-parabolic-systems.md
-  - name: "35L Hyperbolic equations and hyperbolic systems"
+  - name: "35L Hyperbolic Equations and Hyperbolic Systems"
     href: 35-partial-differential-equations/35l-hyperbolic-equations-and-hyperbolic-systems.md
-  - name: "35M Partial differential equations of mixed type and mixed-type systems of partial differential equations"
+  - name: "35M Partial Differential Equations of Mixed Type and Mixed-Type Systems of Partial Differential Equations"
     href: 35-partial-differential-equations/35m-partial-differential-equations-of-mixed-type-and-mixed-type.md
-  - name: "35N Overdetermined problems for partial differential equations and systems of partial differential equations"
+  - name: "35N Overdetermined Problems for Partial Differential Equations and Systems of Partial Differential Equations"
     href: 35-partial-differential-equations/35n-overdetermined-problems-for-partial-differential-equations-a.md
-  - name: "35P Spectral theory and eigenvalue problems for partial differential equations"
+  - name: "35P Spectral Theory and Eigenvalue Problems for Partial Differential Equations"
     href: 35-partial-differential-equations/35p-spectral-theory-and-eigenvalue-problems-for-partial-differen.md
-  - name: "35Q Partial differential equations of mathematical physics and other areas of application"
+  - name: "35Q Partial Differential Equations of Mathematical Physics and Other Areas of Application"
     href: 35-partial-differential-equations/35q-partial-differential-equations-of-mathematical-physics-and-o.md
-  - name: "35R Miscellaneous topics in partial differential equations"
+  - name: "35R Miscellaneous Topics in Partial Differential Equations"
     href: 35-partial-differential-equations/35r-miscellaneous-topics-in-partial-differential-equations.md
-  - name: "35S Pseudodifferential operators and other generalizations of partial differential operators"
+  - name: "35S Pseudodifferential Operators and Other Generalizations of Partial Differential Operators"
     href: 35-partial-differential-equations/35s-pseudodifferential-operators-and-other-generalizations-of-pa.md
-- name: "37 Dynamical systems and ergodic theory"
+- name: "37 Dynamical Systems and Ergodic Theory"
   href: 37-dynamical-systems-and-ergodic-theory/index.md
   items:
-  - name: "37A Ergodic theory"
+  - name: "37A Ergodic Theory"
     href: 37-dynamical-systems-and-ergodic-theory/37a-ergodic-theory.md
-  - name: "37B Topological dynamics"
+  - name: "37B Topological Dynamics"
     href: 37-dynamical-systems-and-ergodic-theory/37b-topological-dynamics.md
-  - name: "37C Smooth dynamical systems: general theory"
+  - name: "37C Smooth Dynamical Systems: General Theory"
     href: 37-dynamical-systems-and-ergodic-theory/37c-smooth-dynamical-systems-general-theory.md
-  - name: "37D Dynamical systems with hyperbolic behavior"
+  - name: "37D Dynamical Systems with Hyperbolic Behavior"
     href: 37-dynamical-systems-and-ergodic-theory/37d-dynamical-systems-with-hyperbolic-behavior.md
-  - name: "37E Low-dimensional dynamical systems"
+  - name: "37E Low-Dimensional Dynamical Systems"
     href: 37-dynamical-systems-and-ergodic-theory/37e-low-dimensional-dynamical-systems.md
-  - name: "37F Dynamical systems over complex numbers"
+  - name: "37F Dynamical Systems over Complex Numbers"
     href: 37-dynamical-systems-and-ergodic-theory/37f-dynamical-systems-over-complex-numbers.md
-  - name: "37G Local and nonlocal bifurcation theory for dynamical systems"
+  - name: "37G Local and Nonlocal Bifurcation Theory for Dynamical Systems"
     href: 37-dynamical-systems-and-ergodic-theory/37g-local-and-nonlocal-bifurcation-theory-for-dynamical-systems.md
-  - name: "37H Random dynamical systems"
+  - name: "37H Random Dynamical Systems"
     href: 37-dynamical-systems-and-ergodic-theory/37h-random-dynamical-systems.md
-  - name: "37J Dynamical aspects of finite-dimensional Hamiltonian and Lagrangian systems"
+  - name: "37J Dynamical Aspects of Finite-Dimensional Hamiltonian and Lagrangian Systems"
     href: 37-dynamical-systems-and-ergodic-theory/37j-dynamical-aspects-of-finite-dimensional-hamiltonian-and-lagr.md
-  - name: "37K Dynamical system aspects of infinite-dimensional Hamiltonian and Lagrangian systems"
+  - name: "37K Dynamical System Aspects of Infinite-Dimensional Hamiltonian and Lagrangian Systems"
     href: 37-dynamical-systems-and-ergodic-theory/37k-dynamical-system-aspects-of-infinite-dimensional-hamiltonian.md
-  - name: "37L Infinite-dimensional dissipative dynamical systems"
+  - name: "37L Infinite-Dimensional Dissipative Dynamical Systems"
     href: 37-dynamical-systems-and-ergodic-theory/37l-infinite-dimensional-dissipative-dynamical-systems.md
-  - name: "37M Approximation methods and numerical treatment of dynamical systems"
+  - name: "37M Approximation Methods and Numerical Treatment of Dynamical Systems"
     href: 37-dynamical-systems-and-ergodic-theory/37m-approximation-methods-and-numerical-treatment-of-dynamical-s.md
-  - name: "37N Applications of dynamical systems"
+  - name: "37N Applications of Dynamical Systems"
     href: 37-dynamical-systems-and-ergodic-theory/37n-applications-of-dynamical-systems.md
-  - name: "37P Arithmetic and non-Archimedean dynamical systems"
+  - name: "37P Arithmetic and Non-Archimedean Dynamical Systems"
     href: 37-dynamical-systems-and-ergodic-theory/37p-arithmetic-and-non-archimedean-dynamical-systems.md
-- name: "39 Difference and functional equations"
+- name: "39 Difference and Functional Equations"
   href: 39-difference-and-functional-equations/index.md
   items:
-  - name: "39A Difference equations"
+  - name: "39A Difference Equations"
     href: 39-difference-and-functional-equations/39a-difference-equations.md
-  - name: "39B Functional equations and inequalities"
+  - name: "39B Functional Equations and Inequalities"
     href: 39-difference-and-functional-equations/39b-functional-equations-and-inequalities.md
-- name: "40 Sequences, series, summability"
+- name: "40 Sequences, Series, Summability"
   href: 40-sequences-series-summability/index.md
   items:
-  - name: "40A Convergence and divergence of infinite limiting processes"
+  - name: "40A Convergence and Divergence of Infinite Limiting Processes"
     href: 40-sequences-series-summability/40a-convergence-and-divergence-of-infinite-limiting-processes.md
-  - name: "40B Multiple sequences and series"
+  - name: "40B Multiple Sequences and Series"
     href: 40-sequences-series-summability/40b-multiple-sequences-and-series.md
-  - name: "40C General summability methods"
+  - name: "40C General Summability Methods"
     href: 40-sequences-series-summability/40c-general-summability-methods.md
-  - name: "40D Direct theorems on summability"
+  - name: "40D Direct Theorems on Summability"
     href: 40-sequences-series-summability/40d-direct-theorems-on-summability.md
-  - name: "40E Inversion theorems"
+  - name: "40E Inversion Theorems"
     href: 40-sequences-series-summability/40e-inversion-theorems.md
-  - name: "40F Absolute and strong summability"
+  - name: "40F Absolute and Strong Summability"
     href: 40-sequences-series-summability/40f-absolute-and-strong-summability.md
-  - name: "40G Special methods of summability"
+  - name: "40G Special Methods of Summability"
     href: 40-sequences-series-summability/40g-special-methods-of-summability.md
-  - name: "40H Functional analytic methods in summability"
+  - name: "40H Functional Analytic Methods in Summability"
     href: 40-sequences-series-summability/40h-functional-analytic-methods-in-summability.md
-  - name: "40J Summability in abstract structures"
+  - name: "40J Summability in Abstract Structures"
     href: 40-sequences-series-summability/40j-summability-in-abstract-structures.md
-- name: "41 Approximations and expansions"
+- name: "41 Approximations and Expansions"
   href: 41-approximations-and-expansions/index.md
   items:
-  - name: "41A Approximations and expansions"
+  - name: "41A Approximations and Expansions"
     href: 41-approximations-and-expansions/41a-approximations-and-expansions.md
-- name: "42 Harmonic analysis on Euclidean spaces"
+- name: "42 Harmonic Analysis on Euclidean Spaces"
   href: 42-harmonic-analysis-on-euclidean-spaces/index.md
   items:
-  - name: "42A Harmonic analysis in one variable"
+  - name: "42A Harmonic Analysis in One Variable"
     href: 42-harmonic-analysis-on-euclidean-spaces/42a-harmonic-analysis-in-one-variable.md
-  - name: "42B Harmonic analysis in several variables"
+  - name: "42B Harmonic Analysis in Several Variables"
     href: 42-harmonic-analysis-on-euclidean-spaces/42b-harmonic-analysis-in-several-variables.md
-  - name: "42C Nontrigonometric harmonic analysis"
+  - name: "42C Nontrigonometric Harmonic Analysis"
     href: 42-harmonic-analysis-on-euclidean-spaces/42c-nontrigonometric-harmonic-analysis.md
-- name: "43 Abstract harmonic analysis"
+- name: "43 Abstract Harmonic Analysis"
   href: 43-abstract-harmonic-analysis/index.md
   items:
-  - name: "43A Abstract harmonic analysis"
+  - name: "43A Abstract Harmonic Analysis"
     href: 43-abstract-harmonic-analysis/43a-abstract-harmonic-analysis.md
-- name: "44 Integral transforms, operational calculus"
+- name: "44 Integral Transforms, Operational Calculus"
   href: 44-integral-transforms-operational-calculus/index.md
   items:
-  - name: "44A Integral transforms, operational calculus"
+  - name: "44A Integral Transforms, Operational Calculus"
     href: 44-integral-transforms-operational-calculus/44a-integral-transforms-operational-calculus.md
-- name: "45 Integral equations"
+- name: "45 Integral Equations"
   href: 45-integral-equations/index.md
   items:
-  - name: "45A Linear integral equations"
+  - name: "45A Linear Integral Equations"
     href: 45-integral-equations/45a-linear-integral-equations.md
-  - name: "45B Fredholm integral equations"
+  - name: "45B Fredholm Integral Equations"
     href: 45-integral-equations/45b-fredholm-integral-equations.md
-  - name: "45C Eigenvalue problems for integral equations"
+  - name: "45C Eigenvalue Problems for Integral Equations"
     href: 45-integral-equations/45c-eigenvalue-problems-for-integral-equations.md
-  - name: "45D Volterra integral equations"
+  - name: "45D Volterra Integral Equations"
     href: 45-integral-equations/45d-volterra-integral-equations.md
-  - name: "45E Singular integral equations"
+  - name: "45E Singular Integral Equations"
     href: 45-integral-equations/45e-singular-integral-equations.md
-  - name: "45F Systems of linear integral equations"
+  - name: "45F Systems of Linear Integral Equations"
     href: 45-integral-equations/45f-systems-of-linear-integral-equations.md
-  - name: "45G Nonlinear integral equations"
+  - name: "45G Nonlinear Integral Equations"
     href: 45-integral-equations/45g-nonlinear-integral-equations.md
-  - name: "45H Integral equations with miscellaneous special kernels"
+  - name: "45H Integral Equations with Miscellaneous Special Kernels"
     href: 45-integral-equations/45h-integral-equations-with-miscellaneous-special-kernels.md
-  - name: "45J Integro-ordinary differential equations"
+  - name: "45J Integro-Ordinary Differential Equations"
     href: 45-integral-equations/45j-integro-ordinary-differential-equations.md
-  - name: "45K Integro-partial differential equations"
+  - name: "45K Integro-Partial Differential Equations"
     href: 45-integral-equations/45k-integro-partial-differential-equations.md
-  - name: "45L Theoretical approximation of solutions to integral equations"
+  - name: "45L Theoretical Approximation of Solutions to Integral Equations"
     href: 45-integral-equations/45l-theoretical-approximation-of-solutions-to-integral-equations.md
-  - name: "45M Qualitative behavior of solutions to integral equations"
+  - name: "45M Qualitative Behavior of Solutions to Integral Equations"
     href: 45-integral-equations/45m-qualitative-behavior-of-solutions-to-integral-equations.md
-  - name: "45N Abstract integral equations, integral equations in abstract spaces"
+  - name: "45N Abstract Integral Equations, Integral Equations in Abstract Spaces"
     href: 45-integral-equations/45n-abstract-integral-equations-integral-equations-in-abstract-s.md
-  - name: "45P Integral operators"
+  - name: "45P Integral Operators"
     href: 45-integral-equations/45p-integral-operators.md
-  - name: "45Q Inverse problems for integral equations"
+  - name: "45Q Inverse Problems for Integral Equations"
     href: 45-integral-equations/45q-inverse-problems-for-integral-equations.md
-  - name: "45R Random integral equations"
+  - name: "45R Random Integral Equations"
     href: 45-integral-equations/45r-random-integral-equations.md
-- name: "46 Functional analysis"
+- name: "46 Functional Analysis"
   href: 46-functional-analysis/index.md
   items:
-  - name: "46A Topological linear spaces and related structures"
+  - name: "46A Topological Linear Spaces and Related Structures"
     href: 46-functional-analysis/46a-topological-linear-spaces-and-related-structures.md
-  - name: "46B Normed linear spaces and Banach spaces; Banach lattices"
+  - name: "46B Normed Linear Spaces and Banach Spaces; Banach Lattices"
     href: 46-functional-analysis/46b-normed-linear-spaces-and-banach-spaces-banach-lattices.md
-  - name: "46C Inner product spaces and their generalizations, Hilbert spaces"
+  - name: "46C Inner Product Spaces and Their Generalizations, Hilbert Spaces"
     href: 46-functional-analysis/46c-inner-product-spaces-and-their-generalizations-hilbert-space.md
-  - name: "46E Linear function spaces and their duals"
+  - name: "46E Linear Function Spaces and Their Duals"
     href: 46-functional-analysis/46e-linear-function-spaces-and-their-duals.md
-  - name: "46F Distributions, generalized functions, distribution spaces"
+  - name: "46F Distributions, Generalized Functions, Distribution Spaces"
     href: 46-functional-analysis/46f-distributions-generalized-functions-distribution-spaces.md
-  - name: "46G Measures, integration, derivative, holomorphy (all involving infinite-dimensional spaces)"
+  - name: "46G Measures, Integration, Derivative, Holomorphy (all involving infinite-dimensional spaces)"
     href: 46-functional-analysis/46g-measures-integration-derivative-holomorphy-all-involving-inf.md
-  - name: "46H Topological algebras, normed rings and algebras, Banach algebras"
+  - name: "46H Topological Algebras, Normed Rings and Algebras, Banach Algebras"
     href: 46-functional-analysis/46h-topological-algebras-normed-rings-and-algebras-banach-algebr.md
-  - name: "46J Commutative Banach algebras and commutative topological algebras"
+  - name: "46J Commutative Banach Algebras and Commutative Topological Algebras"
     href: 46-functional-analysis/46j-commutative-banach-algebras-and-commutative-topological-alge.md
-  - name: "46K Topological (rings and) algebras with an involution"
+  - name: "46K Topological (rings and) Algebras with an Involution"
     href: 46-functional-analysis/46k-topological-rings-and-algebras-with-an-involution.md
-  - name: "46L Selfadjoint operator algebras ( C ∗-algebras, von Neumann ( W ∗-) algebras, etc.)"
+  - name: "46L Selfadjoint Operator Algebras ( C ∗-algebras, von Neumann ( W ∗-) algebras, etc.)"
     href: 46-functional-analysis/46l-selfadjoint-operator-algebras-c-algebras-von-neumann-w-algeb.md
-  - name: "46M Methods of category theory in functional analysis"
+  - name: "46M Methods of Category Theory in Functional Analysis"
     href: 46-functional-analysis/46m-methods-of-category-theory-in-functional-analysis.md
-  - name: "46N Miscellaneous applications of functional analysis"
+  - name: "46N Miscellaneous Applications of Functional Analysis"
     href: 46-functional-analysis/46n-miscellaneous-applications-of-functional-analysis.md
-  - name: "46S Other (nonclassical) types of functional analysis"
+  - name: "46S Other (nonclassical) Types of Functional Analysis"
     href: 46-functional-analysis/46s-other-nonclassical-types-of-functional-analysis.md
-  - name: "46T Nonlinear functional analysis"
+  - name: "46T Nonlinear Functional Analysis"
     href: 46-functional-analysis/46t-nonlinear-functional-analysis.md
-- name: "47 Operator theory"
+- name: "47 Operator Theory"
   href: 47-operator-theory/index.md
   items:
-  - name: "47A General theory of linear operators"
+  - name: "47A General Theory of Linear Operators"
     href: 47-operator-theory/47a-general-theory-of-linear-operators.md
-  - name: "47B Special classes of linear operators"
+  - name: "47B Special Classes of Linear Operators"
     href: 47-operator-theory/47b-special-classes-of-linear-operators.md
-  - name: "47C Individual linear operators as elements of algebraic systems"
+  - name: "47C Individual Linear Operators as Elements of Algebraic Systems"
     href: 47-operator-theory/47c-individual-linear-operators-as-elements-of-algebraic-systems.md
-  - name: "47D Groups and semigroups of linear operators, their generalizations and applications"
+  - name: "47D Groups and Semigroups of Linear Operators, Their Generalizations and Applications"
     href: 47-operator-theory/47d-groups-and-semigroups-of-linear-operators-their-generalizati.md
-  - name: "47E Ordinary differential operators"
+  - name: "47E Ordinary Differential Operators"
     href: 47-operator-theory/47e-ordinary-differential-operators.md
-  - name: "47F Partial differential operators"
+  - name: "47F Partial Differential Operators"
     href: 47-operator-theory/47f-partial-differential-operators.md
-  - name: "47G Integral, integro-differential, and pseudodifferential operators"
+  - name: "47G Integral, Integro-Differential, and Pseudodifferential Operators"
     href: 47-operator-theory/47g-integral-integro-differential-and-pseudodifferential-operato.md
-  - name: "47H Nonlinear operators and their properties"
+  - name: "47H Nonlinear Operators and Their Properties"
     href: 47-operator-theory/47h-nonlinear-operators-and-their-properties.md
-  - name: "47J Equations and inequalities involving nonlinear operators"
+  - name: "47J Equations and Inequalities Involving Nonlinear Operators"
     href: 47-operator-theory/47j-equations-and-inequalities-involving-nonlinear-operators.md
-  - name: "47L Linear spaces and algebras of operators"
+  - name: "47L Linear Spaces and Algebras of Operators"
     href: 47-operator-theory/47l-linear-spaces-and-algebras-of-operators.md
-  - name: "47N Miscellaneous applications of operator theory"
+  - name: "47N Miscellaneous Applications of Operator Theory"
     href: 47-operator-theory/47n-miscellaneous-applications-of-operator-theory.md
-  - name: "47S Other (nonclassical) types of operator theory"
+  - name: "47S Other (nonclassical) Types of Operator Theory"
     href: 47-operator-theory/47s-other-nonclassical-types-of-operator-theory.md
-- name: "49 Calculus of variations and optimal control; optimization"
+- name: "49 Calculus of Variations and Optimal Control; Optimization"
   href: 49-calculus-of-variations-and-optimal-control-optimization/index.md
   items:
-  - name: "49J Existence theories in calculus of variations and optimal control"
+  - name: "49J Existence Theories in Calculus of Variations and Optimal Control"
     href: 49-calculus-of-variations-and-optimal-control-optimization/49j-existence-theories-in-calculus-of-variations-and-optimal-con.md
-  - name: "49K Optimality conditions"
+  - name: "49K Optimality Conditions"
     href: 49-calculus-of-variations-and-optimal-control-optimization/49k-optimality-conditions.md
-  - name: "49L Hamilton-Jacobi theories"
+  - name: "49L Hamilton-Jacobi Theories"
     href: 49-calculus-of-variations-and-optimal-control-optimization/49l-hamilton-jacobi-theories.md
-  - name: "49M Numerical methods in optimal control"
+  - name: "49M Numerical Methods in Optimal Control"
     href: 49-calculus-of-variations-and-optimal-control-optimization/49m-numerical-methods-in-optimal-control.md
-  - name: "49N Miscellaneous topics in calculus of variations and optimal control"
+  - name: "49N Miscellaneous Topics in Calculus of Variations and Optimal Control"
     href: 49-calculus-of-variations-and-optimal-control-optimization/49n-miscellaneous-topics-in-calculus-of-variations-and-optimal-c.md
-  - name: "49Q Manifolds and measure-geometric topics"
+  - name: "49Q Manifolds and Measure-Geometric Topics"
     href: 49-calculus-of-variations-and-optimal-control-optimization/49q-manifolds-and-measure-geometric-topics.md
-  - name: "49R Variational methods for eigenvalues of operators"
+  - name: "49R Variational Methods for Eigenvalues of Operators"
     href: 49-calculus-of-variations-and-optimal-control-optimization/49r-variational-methods-for-eigenvalues-of-operators.md
-  - name: "49S Variational principles of physics"
+  - name: "49S Variational Principles of Physics"
     href: 49-calculus-of-variations-and-optimal-control-optimization/49s-variational-principles-of-physics.md
 - name: "51 Geometry"
   href: 51-geometry/index.md
   items:
-  - name: "51A Linear incidence geometry"
+  - name: "51A Linear Incidence Geometry"
     href: 51-geometry/51a-linear-incidence-geometry.md
-  - name: "51B Nonlinear incidence geometry"
+  - name: "51B Nonlinear Incidence Geometry"
     href: 51-geometry/51b-nonlinear-incidence-geometry.md
-  - name: "51C Ring geometry (Hjelmslev, Barbilian, etc.)"
+  - name: "51C Ring Geometry (Hjelmslev, Barbilian, etc.)"
     href: 51-geometry/51c-ring-geometry-hjelmslev-barbilian-etc.md
-  - name: "51D Geometric closure systems"
+  - name: "51D Geometric Closure Systems"
     href: 51-geometry/51d-geometric-closure-systems.md
-  - name: "51E Finite geometry and special incidence structures"
+  - name: "51E Finite Geometry and Special Incidence Structures"
     href: 51-geometry/51e-finite-geometry-and-special-incidence-structures.md
-  - name: "51F Metric geometry"
+  - name: "51F Metric Geometry"
     href: 51-geometry/51f-metric-geometry.md
-  - name: "51G Ordered geometries (ordered incidence structures, etc.)"
+  - name: "51G Ordered Geometries (ordered incidence structures, etc.)"
     href: 51-geometry/51g-ordered-geometries-ordered-incidence-structures-etc.md
-  - name: "51H Topological geometry"
+  - name: "51H Topological Geometry"
     href: 51-geometry/51h-topological-geometry.md
-  - name: "51J Incidence groups"
+  - name: "51J Incidence Groups"
     href: 51-geometry/51j-incidence-groups.md
-  - name: "51K Distance geometry"
+  - name: "51K Distance Geometry"
     href: 51-geometry/51k-distance-geometry.md
-  - name: "51L Geometric order structures"
+  - name: "51L Geometric Order Structures"
     href: 51-geometry/51l-geometric-order-structures.md
-  - name: "51M Real and complex geometry"
+  - name: "51M Real and Complex Geometry"
     href: 51-geometry/51m-real-and-complex-geometry.md
-  - name: "51N Analytic and descriptive geometry"
+  - name: "51N Analytic and Descriptive Geometry"
     href: 51-geometry/51n-analytic-and-descriptive-geometry.md
-  - name: "51P Classical or axiomatic geometry and physics"
+  - name: "51P Classical or Axiomatic Geometry and Physics"
     href: 51-geometry/51p-classical-or-axiomatic-geometry-and-physics.md
-- name: "52 Convex and discrete geometry"
+- name: "52 Convex and Discrete Geometry"
   href: 52-convex-and-discrete-geometry/index.md
   items:
-  - name: "52A General convexity"
+  - name: "52A General Convexity"
     href: 52-convex-and-discrete-geometry/52a-general-convexity.md
-  - name: "52B Polytopes and polyhedra"
+  - name: "52B Polytopes and Polyhedra"
     href: 52-convex-and-discrete-geometry/52b-polytopes-and-polyhedra.md
-  - name: "52C Discrete geometry"
+  - name: "52C Discrete Geometry"
     href: 52-convex-and-discrete-geometry/52c-discrete-geometry.md
-- name: "53 Differential geometry"
+- name: "53 Differential Geometry"
   href: 53-differential-geometry/index.md
   items:
-  - name: "53A Classical differential geometry"
+  - name: "53A Classical Differential Geometry"
     href: 53-differential-geometry/53a-classical-differential-geometry.md
-  - name: "53B Local differential geometry"
+  - name: "53B Local Differential Geometry"
     href: 53-differential-geometry/53b-local-differential-geometry.md
-  - name: "53C Global differential geometry"
+  - name: "53C Global Differential Geometry"
     href: 53-differential-geometry/53c-global-differential-geometry.md
-  - name: "53D Symplectic geometry, contact geometry"
+  - name: "53D Symplectic Geometry, Contact Geometry"
     href: 53-differential-geometry/53d-symplectic-geometry-contact-geometry.md
-  - name: "53E Geometric evolution equations"
+  - name: "53E Geometric Evolution Equations"
     href: 53-differential-geometry/53e-geometric-evolution-equations.md
-  - name: "53Z Applications of differential geometry to sciences and engineering"
+  - name: "53Z Applications of Differential Geometry to Sciences and Engineering"
     href: 53-differential-geometry/53z-applications-of-differential-geometry-to-sciences-and-engine.md
-- name: "54 General topology"
+- name: "54 General Topology"
   href: 54-general-topology/index.md
   items:
-  - name: "54A Generalities in topology"
+  - name: "54A Generalities in Topology"
     href: 54-general-topology/54a-generalities-in-topology.md
-  - name: "54B Basic constructions in general topology"
+  - name: "54B Basic Constructions in General Topology"
     href: 54-general-topology/54b-basic-constructions-in-general-topology.md
-  - name: "54C Maps and general types of topological spaces defined by maps"
+  - name: "54C Maps and General Types of Topological Spaces Defined by Maps"
     href: 54-general-topology/54c-maps-and-general-types-of-topological-spaces-defined-by-maps.md
-  - name: "54D Fairly general properties of topological spaces"
+  - name: "54D Fairly General Properties of Topological Spaces"
     href: 54-general-topology/54d-fairly-general-properties-of-topological-spaces.md
-  - name: "54E Topological spaces with richer structures"
+  - name: "54E Topological Spaces with Richer Structures"
     href: 54-general-topology/54e-topological-spaces-with-richer-structures.md
-  - name: "54F Special properties of topological spaces"
+  - name: "54F Special Properties of Topological Spaces"
     href: 54-general-topology/54f-special-properties-of-topological-spaces.md
-  - name: "54G Peculiar topological spaces"
+  - name: "54G Peculiar Topological Spaces"
     href: 54-general-topology/54g-peculiar-topological-spaces.md
-  - name: "54H Connections of general topology with other structures, applications"
+  - name: "54H Connections of General Topology with Other Structures, Applications"
     href: 54-general-topology/54h-connections-of-general-topology-with-other-structures-applic.md
-  - name: "54J Nonstandard topology"
+  - name: "54J Nonstandard Topology"
     href: 54-general-topology/54j-nonstandard-topology.md
-- name: "55 Algebraic topology"
+- name: "55 Algebraic Topology"
   href: 55-algebraic-topology/index.md
   items:
-  - name: "55M Classical topics in algebraic topology"
+  - name: "55M Classical Topics in Algebraic Topology"
     href: 55-algebraic-topology/55m-classical-topics-in-algebraic-topology.md
-  - name: "55N Homology and cohomology theories in algebraic topology"
+  - name: "55N Homology and Cohomology Theories in Algebraic Topology"
     href: 55-algebraic-topology/55n-homology-and-cohomology-theories-in-algebraic-topology.md
-  - name: "55P Homotopy theory"
+  - name: "55P Homotopy Theory"
     href: 55-algebraic-topology/55p-homotopy-theory.md
-  - name: "55Q Homotopy groups"
+  - name: "55Q Homotopy Groups"
     href: 55-algebraic-topology/55q-homotopy-groups.md
-  - name: "55R Fiber spaces and bundles in algebraic topology"
+  - name: "55R Fiber Spaces and Bundles in Algebraic Topology"
     href: 55-algebraic-topology/55r-fiber-spaces-and-bundles-in-algebraic-topology.md
-  - name: "55S Operations and obstructions in algebraic topology"
+  - name: "55S Operations and Obstructions in Algebraic Topology"
     href: 55-algebraic-topology/55s-operations-and-obstructions-in-algebraic-topology.md
-  - name: "55T Spectral sequences in algebraic topology"
+  - name: "55T Spectral Sequences in Algebraic Topology"
     href: 55-algebraic-topology/55t-spectral-sequences-in-algebraic-topology.md
-  - name: "55U Applied homological algebra and category theory in algebraic topology"
+  - name: "55U Applied Homological Algebra and Category Theory in Algebraic Topology"
     href: 55-algebraic-topology/55u-applied-homological-algebra-and-category-theory-in-algebraic.md
-- name: "57 Manifolds and cell complexes"
+- name: "57 Manifolds and Cell Complexes"
   href: 57-manifolds-and-cell-complexes/index.md
   items:
-  - name: "57K Low-dimensional topology in specific dimensions"
+  - name: "57K Low-Dimensional Topology in Specific Dimensions"
     href: 57-manifolds-and-cell-complexes/57k-low-dimensional-topology-in-specific-dimensions.md
-  - name: "57M General low-dimensional topology"
+  - name: "57M General Low-Dimensional Topology"
     href: 57-manifolds-and-cell-complexes/57m-general-low-dimensional-topology.md
-  - name: "57N Topological manifolds"
+  - name: "57N Topological Manifolds"
     href: 57-manifolds-and-cell-complexes/57n-topological-manifolds.md
-  - name: "57P Generalized manifolds"
+  - name: "57P Generalized Manifolds"
     href: 57-manifolds-and-cell-complexes/57p-generalized-manifolds.md
   - name: "57Q PL-topology"
     href: 57-manifolds-and-cell-complexes/57q-pl-topology.md
-  - name: "57R Differential topology"
+  - name: "57R Differential Topology"
     href: 57-manifolds-and-cell-complexes/57r-differential-topology.md
-  - name: "57S Topological transformation groups"
+  - name: "57S Topological Transformation Groups"
     href: 57-manifolds-and-cell-complexes/57s-topological-transformation-groups.md
-  - name: "57T Homology and homotopy of topological groups and related structures"
+  - name: "57T Homology and Homotopy of Topological Groups and Related Structures"
     href: 57-manifolds-and-cell-complexes/57t-homology-and-homotopy-of-topological-groups-and-related-stru.md
-  - name: "57Z Relations of manifolds and cell complexes with science and engineering"
+  - name: "57Z Relations of Manifolds and Cell Complexes with Science and Engineering"
     href: 57-manifolds-and-cell-complexes/57z-relations-of-manifolds-and-cell-complexes-with-science-and-e.md
-- name: "58 Global analysis, analysis on manifolds"
+- name: "58 Global Analysis, Analysis on Manifolds"
   href: 58-global-analysis-analysis-on-manifolds/index.md
   items:
-  - name: "58A General theory of differentiable manifolds"
+  - name: "58A General Theory of Differentiable Manifolds"
     href: 58-global-analysis-analysis-on-manifolds/58a-general-theory-of-differentiable-manifolds.md
-  - name: "58B Infinite-dimensional manifolds"
+  - name: "58B Infinite-Dimensional Manifolds"
     href: 58-global-analysis-analysis-on-manifolds/58b-infinite-dimensional-manifolds.md
-  - name: "58C Calculus on manifolds; nonlinear operators"
+  - name: "58C Calculus on Manifolds; Nonlinear Operators"
     href: 58-global-analysis-analysis-on-manifolds/58c-calculus-on-manifolds-nonlinear-operators.md
-  - name: "58D Spaces and manifolds of mappings (including nonlinear versions of 46Exx)"
+  - name: "58D Spaces and Manifolds of Mappings (including nonlinear versions of 46Exx)"
     href: 58-global-analysis-analysis-on-manifolds/58d-spaces-and-manifolds-of-mappings-including-nonlinear-version.md
-  - name: "58E Variational problems in infinite-dimensional spaces"
+  - name: "58E Variational Problems in Infinite-Dimensional Spaces"
     href: 58-global-analysis-analysis-on-manifolds/58e-variational-problems-in-infinite-dimensional-spaces.md
-  - name: "58H Pseudogroups, differentiable groupoids and general structures on manifolds"
+  - name: "58H Pseudogroups, Differentiable Groupoids and General Structures on Manifolds"
     href: 58-global-analysis-analysis-on-manifolds/58h-pseudogroups-differentiable-groupoids-and-general-structures.md
-  - name: "58J Partial differential equations on manifolds; differential operators"
+  - name: "58J Partial Differential Equations on Manifolds; Differential Operators"
     href: 58-global-analysis-analysis-on-manifolds/58j-partial-differential-equations-on-manifolds-differential-ope.md
-  - name: "58K Theory of singularities and catastrophe theory"
+  - name: "58K Theory of Singularities and Catastrophe Theory"
     href: 58-global-analysis-analysis-on-manifolds/58k-theory-of-singularities-and-catastrophe-theory.md
-  - name: "58Z Applications of global analysis to the sciences"
+  - name: "58Z Applications of Global Analysis to the Sciences"
     href: 58-global-analysis-analysis-on-manifolds/58z-applications-of-global-analysis-to-the-sciences.md
-- name: "60 Probability theory and stochastic processes"
+- name: "60 Probability Theory and Stochastic Processes"
   href: 60-probability-theory-and-stochastic-processes/index.md
   items:
-  - name: "60A Foundations of probability theory"
+  - name: "60A Foundations of Probability Theory"
     href: 60-probability-theory-and-stochastic-processes/60a-foundations-of-probability-theory.md
-  - name: "60B Probability theory on algebraic and topological structures"
+  - name: "60B Probability Theory on Algebraic and Topological Structures"
     href: 60-probability-theory-and-stochastic-processes/60b-probability-theory-on-algebraic-and-topological-structures.md
-  - name: "60C Combinatorial probability"
+  - name: "60C Combinatorial Probability"
     href: 60-probability-theory-and-stochastic-processes/60c-combinatorial-probability.md
-  - name: "60D Geometric probability and stochastic geometry"
+  - name: "60D Geometric Probability and Stochastic Geometry"
     href: 60-probability-theory-and-stochastic-processes/60d-geometric-probability-and-stochastic-geometry.md
-  - name: "60E Distribution theory"
+  - name: "60E Distribution Theory"
     href: 60-probability-theory-and-stochastic-processes/60e-distribution-theory.md
-  - name: "60F Limit theorems in probability theory"
+  - name: "60F Limit Theorems in Probability Theory"
     href: 60-probability-theory-and-stochastic-processes/60f-limit-theorems-in-probability-theory.md
-  - name: "60G Stochastic processes"
+  - name: "60G Stochastic Processes"
     href: 60-probability-theory-and-stochastic-processes/60g-stochastic-processes.md
-  - name: "60H Stochastic analysis"
+  - name: "60H Stochastic Analysis"
     href: 60-probability-theory-and-stochastic-processes/60h-stochastic-analysis.md
-  - name: "60J Markov processes"
+  - name: "60J Markov Processes"
     href: 60-probability-theory-and-stochastic-processes/60j-markov-processes.md
-  - name: "60K Special processes"
+  - name: "60K Special Processes"
     href: 60-probability-theory-and-stochastic-processes/60k-special-processes.md
-  - name: "60L Rough analysis"
+  - name: "60L Rough Analysis"
     href: 60-probability-theory-and-stochastic-processes/60l-rough-analysis.md
 - name: "62 Statistics"
   href: 62-statistics/index.md
   items:
-  - name: "62A Foundational topics in statistics"
+  - name: "62A Foundational Topics in Statistics"
     href: 62-statistics/62a-foundational-topics-in-statistics.md
-  - name: "62B Sufficiency and information"
+  - name: "62B Sufficiency and Information"
     href: 62-statistics/62b-sufficiency-and-information.md
-  - name: "62C Statistical decision theory"
+  - name: "62C Statistical Decision Theory"
     href: 62-statistics/62c-statistical-decision-theory.md
-  - name: "62D Statistical sampling theory and related topics"
+  - name: "62D Statistical Sampling Theory and Related Topics"
     href: 62-statistics/62d-statistical-sampling-theory-and-related-topics.md
-  - name: "62E Statistical distribution theory"
+  - name: "62E Statistical Distribution Theory"
     href: 62-statistics/62e-statistical-distribution-theory.md
-  - name: "62F Parametric inference"
+  - name: "62F Parametric Inference"
     href: 62-statistics/62f-parametric-inference.md
-  - name: "62G Nonparametric inference"
+  - name: "62G Nonparametric Inference"
     href: 62-statistics/62g-nonparametric-inference.md
-  - name: "62H Multivariate analysis"
+  - name: "62H Multivariate Analysis"
     href: 62-statistics/62h-multivariate-analysis.md
-  - name: "62J Linear inference, regression"
+  - name: "62J Linear Inference, Regression"
     href: 62-statistics/62j-linear-inference-regression.md
-  - name: "62K Design of statistical experiments"
+  - name: "62K Design of Statistical Experiments"
     href: 62-statistics/62k-design-of-statistical-experiments.md
-  - name: "62L Sequential statistical methods"
+  - name: "62L Sequential Statistical Methods"
     href: 62-statistics/62l-sequential-statistical-methods.md
-  - name: "62M Inference from stochastic processes"
+  - name: "62M Inference from Stochastic Processes"
     href: 62-statistics/62m-inference-from-stochastic-processes.md
-  - name: "62N Survival analysis and censored data"
+  - name: "62N Survival Analysis and Censored Data"
     href: 62-statistics/62n-survival-analysis-and-censored-data.md
-  - name: "62P Applications of statistics"
+  - name: "62P Applications of Statistics"
     href: 62-statistics/62p-applications-of-statistics.md
-  - name: "62Q Statistical tables"
+  - name: "62Q Statistical Tables"
     href: 62-statistics/62q-statistical-tables.md
-  - name: "62R Statistics on algebraic and topological structures"
+  - name: "62R Statistics on Algebraic and Topological Structures"
     href: 62-statistics/62r-statistics-on-algebraic-and-topological-structures.md
-- name: "65 Numerical analysis"
+- name: "65 Numerical Analysis"
   href: 65-numerical-analysis/index.md
   items:
-  - name: "65A Tables in numerical analysis"
+  - name: "65A Tables in Numerical Analysis"
     href: 65-numerical-analysis/65a-tables-in-numerical-analysis.md
-  - name: "65B Acceleration of convergence in numerical analysis"
+  - name: "65B Acceleration of Convergence in Numerical Analysis"
     href: 65-numerical-analysis/65b-acceleration-of-convergence-in-numerical-analysis.md
-  - name: "65C Probabilistic methods, stochastic differential equations"
+  - name: "65C Probabilistic Methods, Stochastic Differential Equations"
     href: 65-numerical-analysis/65c-probabilistic-methods-stochastic-differential-equations.md
-  - name: "65D Numerical approximation and computational geometry (primarily algorithms)"
+  - name: "65D Numerical Approximation and Computational Geometry (primarily algorithms)"
     href: 65-numerical-analysis/65d-numerical-approximation-and-computational-geometry-primarily.md
-  - name: "65E Numerical methods in complex analysis (potential theory, etc.)"
+  - name: "65E Numerical Methods in Complex Analysis (potential theory, etc.)"
     href: 65-numerical-analysis/65e-numerical-methods-in-complex-analysis-potential-theory-etc.md
-  - name: "65F Numerical linear algebra"
+  - name: "65F Numerical Linear Algebra"
     href: 65-numerical-analysis/65f-numerical-linear-algebra.md
-  - name: "65G Error analysis and interval analysis"
+  - name: "65G Error Analysis and Interval Analysis"
     href: 65-numerical-analysis/65g-error-analysis-and-interval-analysis.md
-  - name: "65H Nonlinear algebraic or transcendental equations"
+  - name: "65H Nonlinear Algebraic or Transcendental Equations"
     href: 65-numerical-analysis/65h-nonlinear-algebraic-or-transcendental-equations.md
-  - name: "65J Numerical analysis in abstract spaces"
+  - name: "65J Numerical Analysis in Abstract Spaces"
     href: 65-numerical-analysis/65j-numerical-analysis-in-abstract-spaces.md
-  - name: "65K Numerical methods for mathematical programming, optimization and variational techniques"
+  - name: "65K Numerical Methods for Mathematical Programming, Optimization and Variational Techniques"
     href: 65-numerical-analysis/65k-numerical-methods-for-mathematical-programming-optimization.md
-  - name: "65L Numerical methods for ordinary differential equations"
+  - name: "65L Numerical Methods for Ordinary Differential Equations"
     href: 65-numerical-analysis/65l-numerical-methods-for-ordinary-differential-equations.md
-  - name: "65M Numerical methods for partial differential equations, initial value and time-dependent initial-boundary value problems"
+  - name: "65M Numerical Methods for Partial Differential Equations, Initial Value and Time-Dependent Initial-Boundary Value Problems"
     href: 65-numerical-analysis/65m-numerical-methods-for-partial-differential-equations-initial.md
-  - name: "65N Numerical methods for partial differential equations, boundary value problems"
+  - name: "65N Numerical Methods for Partial Differential Equations, Boundary Value Problems"
     href: 65-numerical-analysis/65n-numerical-methods-for-partial-differential-equations-boundar.md
-  - name: "65P Numerical problems in dynamical systems"
+  - name: "65P Numerical Problems in Dynamical Systems"
     href: 65-numerical-analysis/65p-numerical-problems-in-dynamical-systems.md
-  - name: "65Q Numerical methods for difference and functional equations, recurrence relations"
+  - name: "65Q Numerical Methods for Difference and Functional Equations, Recurrence Relations"
     href: 65-numerical-analysis/65q-numerical-methods-for-difference-and-functional-equations-re.md
-  - name: "65R Numerical methods for integral equations, integral transforms"
+  - name: "65R Numerical Methods for Integral Equations, Integral Transforms"
     href: 65-numerical-analysis/65r-numerical-methods-for-integral-equations-integral-transforms.md
-  - name: "65S Graphical methods in numerical analysis"
+  - name: "65S Graphical Methods in Numerical Analysis"
     href: 65-numerical-analysis/65s-graphical-methods-in-numerical-analysis.md
-  - name: "65T Numerical methods in Fourier analysis"
+  - name: "65T Numerical Methods in Fourier Analysis"
     href: 65-numerical-analysis/65t-numerical-methods-in-fourier-analysis.md
-  - name: "65Y Computer aspects of numerical algorithms"
+  - name: "65Y Computer Aspects of Numerical Algorithms"
     href: 65-numerical-analysis/65y-computer-aspects-of-numerical-algorithms.md
-  - name: "65Z Applications to the sciences"
+  - name: "65Z Applications to the Sciences"
     href: 65-numerical-analysis/65z-applications-to-the-sciences.md
-- name: "68 Computer science"
+- name: "68 Computer Science"
   href: 68-computer-science/index.md
   items:
-  - name: "68M Computer system organization"
+  - name: "68M Computer System Organization"
     href: 68-computer-science/68m-computer-system-organization.md
-  - name: "68N Theory of software"
+  - name: "68N Theory of Software"
     href: 68-computer-science/68n-theory-of-software.md
-  - name: "68P Theory of data"
+  - name: "68P Theory of Data"
     href: 68-computer-science/68p-theory-of-data.md
-  - name: "68Q Theory of computing"
+  - name: "68Q Theory of Computing"
     href: 68-computer-science/68q-theory-of-computing.md
-  - name: "68R Discrete mathematics in relation to computer science"
+  - name: "68R Discrete Mathematics in Relation to Computer Science"
     href: 68-computer-science/68r-discrete-mathematics-in-relation-to-computer-science.md
-  - name: "68T Artificial intelligence"
+  - name: "68T Artificial Intelligence"
     href: 68-computer-science/68t-artificial-intelligence.md
-  - name: "68U Computing methodologies and applications"
+  - name: "68U Computing Methodologies and Applications"
     href: 68-computer-science/68u-computing-methodologies-and-applications.md
-  - name: "68V Computer science support for mathematical research and practice"
+  - name: "68V Computer Science Support for Mathematical Research and Practice"
     href: 68-computer-science/68v-computer-science-support-for-mathematical-research-and-pract.md
-  - name: "68W Algorithms in computer science"
+  - name: "68W Algorithms in Computer Science"
     href: 68-computer-science/68w-algorithms-in-computer-science.md
-- name: "70 Mechanics of particles and systems"
+- name: "70 Mechanics of Particles and Systems"
   href: 70-mechanics-of-particles-and-systems/index.md
   items:
-  - name: "70A Axiomatics, foundations"
+  - name: "70A Axiomatics, Foundations"
     href: 70-mechanics-of-particles-and-systems/70a-axiomatics-foundations.md
   - name: "70B Kinematics"
     href: 70-mechanics-of-particles-and-systems/70b-kinematics.md
   - name: "70C Statics"
     href: 70-mechanics-of-particles-and-systems/70c-statics.md
-  - name: "70E Dynamics of a rigid body and of multibody systems"
+  - name: "70E Dynamics of a Rigid Body and of Multibody Systems"
     href: 70-mechanics-of-particles-and-systems/70e-dynamics-of-a-rigid-body-and-of-multibody-systems.md
-  - name: "70F Dynamics of a system of particles, including celestial mechanics"
+  - name: "70F Dynamics of a System of Particles, Including Celestial Mechanics"
     href: 70-mechanics-of-particles-and-systems/70f-dynamics-of-a-system-of-particles-including-celestial-mechan.md
-  - name: "70G General models, approaches, and methods in mechanics of particles and systems"
+  - name: "70G General Models, Approaches, and Methods in Mechanics of Particles and Systems"
     href: 70-mechanics-of-particles-and-systems/70g-general-models-approaches-and-methods-in-mechanics-of-partic.md
-  - name: "70H Hamiltonian and Lagrangian mechanics"
+  - name: "70H Hamiltonian and Lagrangian Mechanics"
     href: 70-mechanics-of-particles-and-systems/70h-hamiltonian-and-lagrangian-mechanics.md
-  - name: "70J Linear vibration theory"
+  - name: "70J Linear Vibration Theory"
     href: 70-mechanics-of-particles-and-systems/70j-linear-vibration-theory.md
-  - name: "70K Nonlinear dynamics in mechanics"
+  - name: "70K Nonlinear Dynamics in Mechanics"
     href: 70-mechanics-of-particles-and-systems/70k-nonlinear-dynamics-in-mechanics.md
-  - name: "70L Random and stochastic aspects of the mechanics of particles and systems"
+  - name: "70L Random and Stochastic Aspects of the Mechanics of Particles and Systems"
     href: 70-mechanics-of-particles-and-systems/70l-random-and-stochastic-aspects-of-the-mechanics-of-particles.md
-  - name: "70M Orbital mechanics"
+  - name: "70M Orbital Mechanics"
     href: 70-mechanics-of-particles-and-systems/70m-orbital-mechanics.md
-  - name: "70P Variable mass, rockets"
+  - name: "70P Variable Mass, Rockets"
     href: 70-mechanics-of-particles-and-systems/70p-variable-mass-rockets.md
-  - name: "70Q Control of mechanical systems"
+  - name: "70Q Control of Mechanical Systems"
     href: 70-mechanics-of-particles-and-systems/70q-control-of-mechanical-systems.md
-  - name: "70S Classical field theories"
+  - name: "70S Classical Field Theories"
     href: 70-mechanics-of-particles-and-systems/70s-classical-field-theories.md
-- name: "74 Mechanics of deformable solids"
+- name: "74 Mechanics of Deformable Solids"
   href: 74-mechanics-of-deformable-solids/index.md
   items:
-  - name: "74A Generalities, axiomatics, foundations of continuum mechanics of solids"
+  - name: "74A Generalities, Axiomatics, Foundations of Continuum Mechanics of Solids"
     href: 74-mechanics-of-deformable-solids/74a-generalities-axiomatics-foundations-of-continuum-mechanics-o.md
-  - name: "74B Elastic materials"
+  - name: "74B Elastic Materials"
     href: 74-mechanics-of-deformable-solids/74b-elastic-materials.md
-  - name: "74C Plastic materials, materials of stress-rate and internal-variable type"
+  - name: "74C Plastic Materials, Materials of Stress-Rate and Internal-Variable Type"
     href: 74-mechanics-of-deformable-solids/74c-plastic-materials-materials-of-stress-rate-and-internal-vari.md
-  - name: "74D Materials of strain-rate type and history type, other materials with memory (including elastic materials with viscous damping, various viscoelastic materials)"
+  - name: "74D Materials of Strain-Rate Type and History Type, Other Materials with Memory (including elastic materials with viscous damping, various viscoelastic materials)"
     href: 74-mechanics-of-deformable-solids/74d-materials-of-strain-rate-type-and-history-type-other-materia.md
-  - name: "74E Material properties given special treatment"
+  - name: "74E Material Properties Given Special Treatment"
     href: 74-mechanics-of-deformable-solids/74e-material-properties-given-special-treatment.md
-  - name: "74F Coupling of solid mechanics with other effects"
+  - name: "74F Coupling of Solid Mechanics with Other Effects"
     href: 74-mechanics-of-deformable-solids/74f-coupling-of-solid-mechanics-with-other-effects.md
-  - name: "74G Equilibrium (steady-state) problems in solid mechanics"
+  - name: "74G Equilibrium (steady-state) Problems in Solid Mechanics"
     href: 74-mechanics-of-deformable-solids/74g-equilibrium-steady-state-problems-in-solid-mechanics.md
-  - name: "74H Dynamical problems in solid mechanics"
+  - name: "74H Dynamical Problems in Solid Mechanics"
     href: 74-mechanics-of-deformable-solids/74h-dynamical-problems-in-solid-mechanics.md
-  - name: "74J Waves in solid mechanics"
+  - name: "74J Waves in Solid Mechanics"
     href: 74-mechanics-of-deformable-solids/74j-waves-in-solid-mechanics.md
-  - name: "74K Thin bodies, structures"
+  - name: "74K Thin Bodies, Structures"
     href: 74-mechanics-of-deformable-solids/74k-thin-bodies-structures.md
-  - name: "74L Special subfields of solid mechanics"
+  - name: "74L Special Subfields of Solid Mechanics"
     href: 74-mechanics-of-deformable-solids/74l-special-subfields-of-solid-mechanics.md
-  - name: "74M Special kinds of problems in solid mechanics"
+  - name: "74M Special Kinds of Problems in Solid Mechanics"
     href: 74-mechanics-of-deformable-solids/74m-special-kinds-of-problems-in-solid-mechanics.md
-  - name: "74N Phase transformations in solids"
+  - name: "74N Phase Transformations in Solids"
     href: 74-mechanics-of-deformable-solids/74n-phase-transformations-in-solids.md
-  - name: "74P Optimization problems in solid mechanics"
+  - name: "74P Optimization Problems in Solid Mechanics"
     href: 74-mechanics-of-deformable-solids/74p-optimization-problems-in-solid-mechanics.md
-  - name: "74Q Homogenization, determination of effective properties in solid mechanics"
+  - name: "74Q Homogenization, Determination of Effective Properties in Solid Mechanics"
     href: 74-mechanics-of-deformable-solids/74q-homogenization-determination-of-effective-properties-in-soli.md
-  - name: "74R Fracture and damage"
+  - name: "74R Fracture and Damage"
     href: 74-mechanics-of-deformable-solids/74r-fracture-and-damage.md
-  - name: "74S Numerical and other methods in solid mechanics"
+  - name: "74S Numerical and Other Methods in Solid Mechanics"
     href: 74-mechanics-of-deformable-solids/74s-numerical-and-other-methods-in-solid-mechanics.md
-- name: "76 Fluid mechanics"
+- name: "76 Fluid Mechanics"
   href: 76-fluid-mechanics/index.md
   items:
-  - name: "76A Foundations, constitutive equations, rheology, hydrodynamical models of non-fluid phenomena"
+  - name: "76A Foundations, Constitutive Equations, Rheology, Hydrodynamical Models of Non-Fluid Phenomena"
     href: 76-fluid-mechanics/76a-foundations-constitutive-equations-rheology-hydrodynamical-m.md
-  - name: "76B Incompressible inviscid fluids"
+  - name: "76B Incompressible Inviscid Fluids"
     href: 76-fluid-mechanics/76b-incompressible-inviscid-fluids.md
-  - name: "76D Incompressible viscous fluids"
+  - name: "76D Incompressible Viscous Fluids"
     href: 76-fluid-mechanics/76d-incompressible-viscous-fluids.md
-  - name: "76E Hydrodynamic stability"
+  - name: "76E Hydrodynamic Stability"
     href: 76-fluid-mechanics/76e-hydrodynamic-stability.md
   - name: "76F Turbulence"
     href: 76-fluid-mechanics/76f-turbulence.md
-  - name: "76G General aerodynamics and subsonic flows"
+  - name: "76G General Aerodynamics and Subsonic Flows"
     href: 76-fluid-mechanics/76g-general-aerodynamics-and-subsonic-flows.md
-  - name: "76H Transonic flows"
+  - name: "76H Transonic Flows"
     href: 76-fluid-mechanics/76h-transonic-flows.md
-  - name: "76J Supersonic flows"
+  - name: "76J Supersonic Flows"
     href: 76-fluid-mechanics/76j-supersonic-flows.md
-  - name: "76K Hypersonic flows"
+  - name: "76K Hypersonic Flows"
     href: 76-fluid-mechanics/76k-hypersonic-flows.md
-  - name: "76L Shock waves and blast waves in fluid mechanics"
+  - name: "76L Shock Waves and Blast Waves in Fluid Mechanics"
     href: 76-fluid-mechanics/76l-shock-waves-and-blast-waves-in-fluid-mechanics.md
-  - name: "76M Basic methods in fluid mechanics"
+  - name: "76M Basic Methods in Fluid Mechanics"
     href: 76-fluid-mechanics/76m-basic-methods-in-fluid-mechanics.md
-  - name: "76N Compressible fluids and gas dynamics"
+  - name: "76N Compressible Fluids and Gas Dynamics"
     href: 76-fluid-mechanics/76n-compressible-fluids-and-gas-dynamics.md
-  - name: "76P Rarefied gas flows, Boltzmann equation in fluid mechanics"
+  - name: "76P Rarefied Gas Flows, Boltzmann Equation in Fluid Mechanics"
     href: 76-fluid-mechanics/76p-rarefied-gas-flows-boltzmann-equation-in-fluid-mechanics.md
-  - name: "76Q Hydro- and aero-acoustics"
+  - name: "76Q Hydro- and Aero-Acoustics"
     href: 76-fluid-mechanics/76q-hydro-and-aero-acoustics.md
-  - name: "76R Diffusion and convection"
+  - name: "76R Diffusion and Convection"
     href: 76-fluid-mechanics/76r-diffusion-and-convection.md
-  - name: "76S Flows in porous media; filtration; seepage"
+  - name: "76S Flows in Porous Media; Filtration; Seepage"
     href: 76-fluid-mechanics/76s-flows-in-porous-media-filtration-seepage.md
-  - name: "76T Multiphase and multicomponent flows"
+  - name: "76T Multiphase and Multicomponent Flows"
     href: 76-fluid-mechanics/76t-multiphase-and-multicomponent-flows.md
-  - name: "76U Rotating fluids"
+  - name: "76U Rotating Fluids"
     href: 76-fluid-mechanics/76u-rotating-fluids.md
-  - name: "76V Reaction effects in flows"
+  - name: "76V Reaction Effects in Flows"
     href: 76-fluid-mechanics/76v-reaction-effects-in-flows.md
-  - name: "76W Magnetohydrodynamics and electrohydrodynamics"
+  - name: "76W Magnetohydrodynamics and Electrohydrodynamics"
     href: 76-fluid-mechanics/76w-magnetohydrodynamics-and-electrohydrodynamics.md
-  - name: "76X Ionized gas flow in electromagnetic fields; plasmic flow"
+  - name: "76X Ionized Gas Flow in Electromagnetic Fields; Plasmic Flow"
     href: 76-fluid-mechanics/76x-ionized-gas-flow-in-electromagnetic-fields-plasmic-flow.md
-  - name: "76Y Quantum hydrodynamics and relativistic hydrodynamics"
+  - name: "76Y Quantum Hydrodynamics and Relativistic Hydrodynamics"
     href: 76-fluid-mechanics/76y-quantum-hydrodynamics-and-relativistic-hydrodynamics.md
-  - name: "76Z Biological fluid mechanics"
+  - name: "76Z Biological Fluid Mechanics"
     href: 76-fluid-mechanics/76z-biological-fluid-mechanics.md
-- name: "78 Optics, electromagnetic theory"
+- name: "78 Optics, Electromagnetic Theory"
   href: 78-optics-electromagnetic-theory/index.md
   items:
-  - name: "78A General topics in optics and electromagnetic theory"
+  - name: "78A General Topics in Optics and Electromagnetic Theory"
     href: 78-optics-electromagnetic-theory/78a-general-topics-in-optics-and-electromagnetic-theory.md
-  - name: "78M Basic methods for problems in optics and electromagnetic theory"
+  - name: "78M Basic Methods for Problems in Optics and Electromagnetic Theory"
     href: 78-optics-electromagnetic-theory/78m-basic-methods-for-problems-in-optics-and-electromagnetic-the.md
-- name: "80 Classical thermodynamics, heat transfer"
+- name: "80 Classical Thermodynamics, Heat Transfer"
   href: 80-classical-thermodynamics-heat-transfer/index.md
   items:
-  - name: "80A Thermodynamics and heat transfer"
+  - name: "80A Thermodynamics and Heat Transfer"
     href: 80-classical-thermodynamics-heat-transfer/80a-thermodynamics-and-heat-transfer.md
-  - name: "80M Basic methods in thermodynamics and heat transfer"
+  - name: "80M Basic Methods in Thermodynamics and Heat Transfer"
     href: 80-classical-thermodynamics-heat-transfer/80m-basic-methods-in-thermodynamics-and-heat-transfer.md
-- name: "81 Quantum theory"
+- name: "81 Quantum Theory"
   href: 81-quantum-theory/index.md
   items:
-  - name: "81P Foundations, quantum information and its processing, quantum axioms, and philosophy"
+  - name: "81P Foundations, Quantum Information and Its Processing, Quantum Axioms, and Philosophy"
     href: 81-quantum-theory/81p-foundations-quantum-information-and-its-processing-quantum-a.md
-  - name: "81Q General mathematical topics and methods in quantum theory"
+  - name: "81Q General Mathematical Topics and Methods in Quantum Theory"
     href: 81-quantum-theory/81q-general-mathematical-topics-and-methods-in-quantum-theory.md
-  - name: "81R Groups and algebras in quantum theory"
+  - name: "81R Groups and Algebras in Quantum Theory"
     href: 81-quantum-theory/81r-groups-and-algebras-in-quantum-theory.md
-  - name: "81S General quantum mechanics and problems of quantization"
+  - name: "81S General Quantum Mechanics and Problems of Quantization"
     href: 81-quantum-theory/81s-general-quantum-mechanics-and-problems-of-quantization.md
-  - name: "81T Quantum field theory; related classical field theories"
+  - name: "81T Quantum Field Theory; Related Classical Field Theories"
     href: 81-quantum-theory/81t-quantum-field-theory-related-classical-field-theories.md
-  - name: "81U Quantum scattering theory"
+  - name: "81U Quantum Scattering Theory"
     href: 81-quantum-theory/81u-quantum-scattering-theory.md
-  - name: "81V Applications of quantum theory to specific physical systems"
+  - name: "81V Applications of Quantum Theory to Specific Physical Systems"
     href: 81-quantum-theory/81v-applications-of-quantum-theory-to-specific-physical-systems.md
-- name: "82 Statistical mechanics, structure of matter"
+- name: "82 Statistical Mechanics, Structure of Matter"
   href: 82-statistical-mechanics-structure-of-matter/index.md
   items:
-  - name: "82B Equilibrium statistical mechanics"
+  - name: "82B Equilibrium Statistical Mechanics"
     href: 82-statistical-mechanics-structure-of-matter/82b-equilibrium-statistical-mechanics.md
-  - name: "82C Time-dependent statistical mechanics (dynamic and nonequilibrium)"
+  - name: "82C Time-Dependent Statistical Mechanics (dynamic and nonequilibrium)"
     href: 82-statistical-mechanics-structure-of-matter/82c-time-dependent-statistical-mechanics-dynamic-and-nonequilibr.md
-  - name: "82D Applications of statistical mechanics to specific types of physical systems"
+  - name: "82D Applications of Statistical Mechanics to Specific Types of Physical Systems"
     href: 82-statistical-mechanics-structure-of-matter/82d-applications-of-statistical-mechanics-to-specific-types-of-p.md
-  - name: "82M Basic methods in statistical mechanics"
+  - name: "82M Basic Methods in Statistical Mechanics"
     href: 82-statistical-mechanics-structure-of-matter/82m-basic-methods-in-statistical-mechanics.md
-- name: "83 Relativity and gravitational theory"
+- name: "83 Relativity and Gravitational Theory"
   href: 83-relativity-and-gravitational-theory/index.md
   items:
-  - name: "83A Special relativity"
+  - name: "83A Special Relativity"
     href: 83-relativity-and-gravitational-theory/83a-special-relativity.md
-  - name: "83B Observational and experimental questions in relativity and gravitational theory"
+  - name: "83B Observational and Experimental Questions in Relativity and Gravitational Theory"
     href: 83-relativity-and-gravitational-theory/83b-observational-and-experimental-questions-in-relativity-and-g.md
-  - name: "83C General relativity"
+  - name: "83C General Relativity"
     href: 83-relativity-and-gravitational-theory/83c-general-relativity.md
-  - name: "83D Relativistic gravitational theories other than Einstein's, including asymmetric field theories"
+  - name: "83D Relativistic Gravitational Theories Other than Einstein's, Including Asymmetric Field Theories"
     href: 83-relativity-and-gravitational-theory/83d-relativistic-gravitational-theories-other-than-einstein-s-in.md
-  - name: "83E Unified, higher-dimensional and super field theories"
+  - name: "83E Unified, Higher-Dimensional and Super Field Theories"
     href: 83-relativity-and-gravitational-theory/83e-unified-higher-dimensional-and-super-field-theories.md
-  - name: "83F Relativistic cosmology"
+  - name: "83F Relativistic Cosmology"
     href: 83-relativity-and-gravitational-theory/83f-relativistic-cosmology.md
-- name: "85 Astronomy and astrophysics"
+- name: "85 Astronomy and Astrophysics"
   href: 85-astronomy-and-astrophysics/index.md
   items:
-  - name: "85A Astronomy and astrophysics"
+  - name: "85A Astronomy and Astrophysics"
     href: 85-astronomy-and-astrophysics/85a-astronomy-and-astrophysics.md
 - name: "86 Geophysics"
   href: 86-geophysics/index.md
   items:
   - name: "86A Geophysics"
     href: 86-geophysics/86a-geophysics.md
-- name: "90 Operations research, mathematical programming"
+- name: "90 Operations Research, Mathematical Programming"
   href: 90-operations-research-mathematical-programming/index.md
   items:
-  - name: "90B Operations research and management science"
+  - name: "90B Operations Research and Management Science"
     href: 90-operations-research-mathematical-programming/90b-operations-research-and-management-science.md
-  - name: "90C Mathematical programming"
+  - name: "90C Mathematical Programming"
     href: 90-operations-research-mathematical-programming/90c-mathematical-programming.md
-- name: "91 Game theory, economics, finance, and other social and behavioral sciences"
+- name: "91 Game Theory, Economics, Finance, and Other Social and Behavioral Sciences"
   href: 91-game-theory-economics-finance-and-other-social-and-behaviora/index.md
   items:
-  - name: "91A Game theory"
+  - name: "91A Game Theory"
     href: 91-game-theory-economics-finance-and-other-social-and-behaviora/91a-game-theory.md
-  - name: "91B Mathematical economics"
+  - name: "91B Mathematical Economics"
     href: 91-game-theory-economics-finance-and-other-social-and-behaviora/91b-mathematical-economics.md
-  - name: "91C Social and behavioral sciences: general topics"
+  - name: "91C Social and Behavioral Sciences: General Topics"
     href: 91-game-theory-economics-finance-and-other-social-and-behaviora/91c-social-and-behavioral-sciences-general-topics.md
-  - name: "91D Mathematical sociology (including anthropology)"
+  - name: "91D Mathematical Sociology (including anthropology)"
     href: 91-game-theory-economics-finance-and-other-social-and-behaviora/91d-mathematical-sociology-including-anthropology.md
-  - name: "91E Mathematical psychology"
+  - name: "91E Mathematical Psychology"
     href: 91-game-theory-economics-finance-and-other-social-and-behaviora/91e-mathematical-psychology.md
-  - name: "91F Other social and behavioral sciences (mathematical treatment)"
+  - name: "91F Other Social and Behavioral Sciences (mathematical treatment)"
     href: 91-game-theory-economics-finance-and-other-social-and-behaviora/91f-other-social-and-behavioral-sciences-mathematical-treatment.md
-  - name: "91G Actuarial science and mathematical finance"
+  - name: "91G Actuarial Science and Mathematical Finance"
     href: 91-game-theory-economics-finance-and-other-social-and-behaviora/91g-actuarial-science-and-mathematical-finance.md
-- name: "92 Biology and other natural sciences"
+- name: "92 Biology and Other Natural Sciences"
   href: 92-biology-and-other-natural-sciences/index.md
   items:
-  - name: "92B Mathematical biology in general"
+  - name: "92B Mathematical Biology in General"
     href: 92-biology-and-other-natural-sciences/92b-mathematical-biology-in-general.md
-  - name: "92C Physiological, cellular and medical topics"
+  - name: "92C Physiological, Cellular and Medical Topics"
     href: 92-biology-and-other-natural-sciences/92c-physiological-cellular-and-medical-topics.md
-  - name: "92D Genetics and population dynamics"
+  - name: "92D Genetics and Population Dynamics"
     href: 92-biology-and-other-natural-sciences/92d-genetics-and-population-dynamics.md
   - name: "92E Chemistry"
     href: 92-biology-and-other-natural-sciences/92e-chemistry.md
-  - name: "92F Other natural sciences (mathematical treatment)"
+  - name: "92F Other Natural Sciences (mathematical treatment)"
     href: 92-biology-and-other-natural-sciences/92f-other-natural-sciences-mathematical-treatment.md
-- name: "93 Systems theory; control"
+- name: "93 Systems Theory; Control"
   href: 93-systems-theory-control/index.md
   items:
-  - name: "93A General systems theory"
+  - name: "93A General Systems Theory"
     href: 93-systems-theory-control/93a-general-systems-theory.md
-  - name: "93B Controllability, observability, and system structure"
+  - name: "93B Controllability, Observability, and System Structure"
     href: 93-systems-theory-control/93b-controllability-observability-and-system-structure.md
-  - name: "93C Model systems in control theory"
+  - name: "93C Model Systems in Control Theory"
     href: 93-systems-theory-control/93c-model-systems-in-control-theory.md
-  - name: "93D Stability of control systems"
+  - name: "93D Stability of Control Systems"
     href: 93-systems-theory-control/93d-stability-of-control-systems.md
-  - name: "93E Stochastic systems and control"
+  - name: "93E Stochastic Systems and Control"
     href: 93-systems-theory-control/93e-stochastic-systems-and-control.md
-- name: "94 Information and communication theory, circuits"
+- name: "94 Information and Communication Theory, Circuits"
   href: 94-information-and-communication-theory-circuits/index.md
   items:
-  - name: "94A Communication, information"
+  - name: "94A Communication, Information"
     href: 94-information-and-communication-theory-circuits/94a-communication-information.md
-  - name: "94B Theory of error-correcting codes and error-detecting codes"
+  - name: "94B Theory of Error-Correcting Codes and Error-Detecting Codes"
     href: 94-information-and-communication-theory-circuits/94b-theory-of-error-correcting-codes-and-error-detecting-codes.md
-  - name: "94C Circuits, networks"
+  - name: "94C Circuits, Networks"
     href: 94-information-and-communication-theory-circuits/94c-circuits-networks.md
-  - name: "94D Miscellaneous topics in information and communication theory"
+  - name: "94D Miscellaneous Topics in Information and Communication Theory"
     href: 94-information-and-communication-theory-circuits/94d-miscellaneous-topics-in-information-and-communication-theory.md
-- name: "97 Mathematics education"
+- name: "97 Mathematics Education"
   href: 97-mathematics-education/index.md
   items:
-  - name: "97A History and society (aspects of mathematics education)"
+  - name: "97A History and Society (aspects of mathematics education)"
     href: 97-mathematics-education/97a-history-and-society-aspects-of-mathematics-education.md
-  - name: "97B Educational policy and systems"
+  - name: "97B Educational Policy and Systems"
     href: 97-mathematics-education/97b-educational-policy-and-systems.md
-  - name: "97C Psychology of mathematics education, research in mathematics education"
+  - name: "97C Psychology of Mathematics Education, Research in Mathematics Education"
     href: 97-mathematics-education/97c-psychology-of-mathematics-education-research-in-mathematics.md
-  - name: "97D Education and instruction in mathematics"
+  - name: "97D Education and Instruction in Mathematics"
     href: 97-mathematics-education/97d-education-and-instruction-in-mathematics.md
-  - name: "97E Education of foundations of mathematics"
+  - name: "97E Education of Foundations of Mathematics"
     href: 97-mathematics-education/97e-education-of-foundations-of-mathematics.md
-  - name: "97F Education of arithmetic and number theory"
+  - name: "97F Education of Arithmetic and Number Theory"
     href: 97-mathematics-education/97f-education-of-arithmetic-and-number-theory.md
-  - name: "97G Geometry education"
+  - name: "97G Geometry Education"
     href: 97-mathematics-education/97g-geometry-education.md
-  - name: "97H Algebra education"
+  - name: "97H Algebra Education"
     href: 97-mathematics-education/97h-algebra-education.md
-  - name: "97I Analysis education"
+  - name: "97I Analysis Education"
     href: 97-mathematics-education/97i-analysis-education.md
-  - name: "97K Education of combinatorics, graph theory, probability theory, and statistics"
+  - name: "97K Education of Combinatorics, Graph Theory, Probability Theory, and Statistics"
     href: 97-mathematics-education/97k-education-of-combinatorics-graph-theory-probability-theory-a.md
-  - name: "97M Education of mathematical modeling and applications of mathematics"
+  - name: "97M Education of Mathematical Modeling and Applications of Mathematics"
     href: 97-mathematics-education/97m-education-of-mathematical-modeling-and-applications-of-mathe.md
-  - name: "97N Education of numerical mathematics"
+  - name: "97N Education of Numerical Mathematics"
     href: 97-mathematics-education/97n-education-of-numerical-mathematics.md
-  - name: "97P Computer science (educational aspects)"
+  - name: "97P Computer Science (educational aspects)"
     href: 97-mathematics-education/97p-computer-science-educational-aspects.md
-  - name: "97U Educational material and media and educational technology in mathematics education"
+  - name: "97U Educational Material and Media and Educational Technology in Mathematics Education"
     href: 97-mathematics-education/97u-educational-material-and-media-and-educational-technology-in.md

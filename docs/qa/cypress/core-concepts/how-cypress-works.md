@@ -1,10 +1,10 @@
 ---
-title: "2.1 How Cypress works"
+title: "2.1 How Cypress Works"
 description: "Cypress, 2.1 How Cypress works."
 ms.date: 2026-10-25
 ---
 
-# 2.1 How Cypress works
+# 2.1 How Cypress Works
 
 Sources: [Cypress documentation, 2.1 How Cypress works](https://docs.cypress.io/app/core-concepts/introduction-to-cypress).
 

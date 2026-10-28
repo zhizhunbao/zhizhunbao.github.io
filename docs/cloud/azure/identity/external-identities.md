@@ -1,10 +1,10 @@
 ---
-title: "17.3 External identities"
+title: "17.3 External Identities"
 description: "Microsoft Azure, 17.3 External identities: B2B collaboration, B2B direct connect, External ID for customers."
 ms.date: 2026-10-27
 ---
 
-# 17.3 External identities
+# 17.3 External Identities
 
 ## Classification
 

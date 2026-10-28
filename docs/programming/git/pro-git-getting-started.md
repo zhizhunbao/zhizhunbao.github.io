@@ -1,10 +1,10 @@
 ---
-title: "Pro Git: getting started"
+title: "Pro Git: Getting Started"
 description: "Pro Git: getting started: one figure per part, key terms framed, official definitions and their Chinese translations."
 ms.date: 2026-10-19
 ---
 
-# Pro Git: getting started
+# Pro Git: Getting Started
 
 Study notes on [Scott Chacon and Ben Straub, Pro Git, 2nd edition](https://git-scm.com/book/en/v2). Each section links the official page it follows. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The main verb of each sentence has a red wavy underline, in the English and in the Chinese.
 

@@ -1,10 +1,10 @@
 ---
-title: "2.3 Threat vectors and sources"
+title: "2.3 Threat Vectors and Sources"
 description: "CompTIA Security+, 2.3 Threat vectors and sources: Advanced persistent threat (APT), Message-based, Image-based, Attachment-based, Browser-based, Network-based, Remote access, Endpoint-based, Supply chain-based, External media-based, Human-based, Internet of Things (IoT)-based, Operational technology (OT)-based, Physical-based, Signal-based."
 ms.date: 2026-10-25
 ---
 
-# 2.3 Threat vectors and sources
+# 2.3 Threat Vectors and Sources
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 2.3](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

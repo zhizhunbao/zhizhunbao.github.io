@@ -1,7 +1,7 @@
 ---
-title: "55P Homotopy theory"
+title: "55P Homotopy Theory"
 description: "MSC2020 class 55Pxx, Homotopy theory: 21 classes."
 ms.date: 2026-10-27
 ---
 
-# 55P Homotopy theory
+# 55P Homotopy Theory

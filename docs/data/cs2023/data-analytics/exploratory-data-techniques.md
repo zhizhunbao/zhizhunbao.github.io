@@ -1,10 +1,10 @@
 ---
-title: "10.1 Exploratory data techniques (motivation, representation, descriptive statistics, visualizations)"
+title: "10.1 Exploratory Data Techniques (motivation, representation, descriptive statistics, visualizations)"
 description: "CS2023 DM-Analytics, 10.1 Exploratory data techniques (motivation, representation, descriptive statistics, visualizations) (KA Core)."
 ms.date: 2026-10-25
 ---
 
-# 10.1 Exploratory data techniques (motivation, representation, descriptive statistics, visualizations)
+# 10.1 Exploratory Data Techniques (motivation, representation, descriptive statistics, visualizations)
 
 Sources: [CS2023 Body of Knowledge, DM-Analytics, topic 1, p. 60](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=60).
 

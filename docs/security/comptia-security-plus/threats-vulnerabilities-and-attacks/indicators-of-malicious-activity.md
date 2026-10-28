@@ -1,10 +1,10 @@
 ---
-title: "2.5 Indicators of malicious activity"
+title: "2.5 Indicators of Malicious Activity"
 description: "CompTIA Security+, 2.5 Indicators of malicious activity: Malware attacks, Physical attacks, Network attacks, Social engineering attacks, Indicators of compromise, Application attacks, Credential attacks."
 ms.date: 2026-10-25
 ---
 
-# 2.5 Indicators of malicious activity
+# 2.5 Indicators of Malicious Activity
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 2.5](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

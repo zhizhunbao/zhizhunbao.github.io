@@ -1,10 +1,10 @@
 ---
-title: "9.1 Relational data stores"
+title: "9.1 Relational Data Stores"
 description: "Microsoft Azure, 9.1 Relational data stores: SQL Database, Azure SQL Managed Instance, SQL Database (Hyperscale), Azure Database for PostgreSQL, Azure Database for MySQL, SQL Database in Fabric."
 ms.date: 2026-10-27
 ---
 
-# 9.1 Relational data stores
+# 9.1 Relational Data Stores
 
 ## Classification
 

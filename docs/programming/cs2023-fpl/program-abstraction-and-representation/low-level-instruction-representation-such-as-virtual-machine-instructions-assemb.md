@@ -1,10 +1,10 @@
 ---
-title: "11.15 Low level instruction representation such as virtual machine instructions, assembly language, and binary representation"
+title: "11.15 Low Level Instruction Representation Such as Virtual Machine Instructions, Assembly Language, and Binary Representation"
 description: "CS2023 FPL-Abstraction, 11.15 Low level instruction representation such as virtual machine instructions, assembly language, and binary representation (Non-core)."
 ms.date: 2026-10-25
 ---
 
-# 11.15 Low level instruction representation such as virtual machine instructions, assembly language, and binary representation
+# 11.15 Low Level Instruction Representation Such as Virtual Machine Instructions, Assembly Language, and Binary Representation
 
 Sources: [CS2023 Body of Knowledge, FPL-Abstraction, topic 15, p. 78](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=78).
 

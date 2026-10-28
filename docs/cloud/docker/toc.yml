@@ -1,32 +1,32 @@
 items:
 - name: Overview
   href: index.md
-- name: "1. What is Docker?"
+- name: "1. What Is Docker?"
   href: docker-overview.md
-- name: "2. The basics"
+- name: "2. The Basics"
   href: the-basics/index.md
   items:
-  - name: "2.1 What is a container?"
+  - name: "2.1 What Is a Container?"
     href: the-basics/what-is-a-container.md
-  - name: "2.2 What is an image?"
+  - name: "2.2 What Is an Image?"
     href: the-basics/what-is-an-image.md
-  - name: "2.3 What is a registry?"
+  - name: "2.3 What Is a Registry?"
     href: the-basics/what-is-a-registry.md
-  - name: "2.4 What is Docker Compose?"
+  - name: "2.4 What Is Docker Compose?"
     href: the-basics/what-is-docker-compose.md
-- name: "3. Building images"
+- name: "3. Building Images"
   href: building-images/index.md
   items:
-  - name: "3.1 Understanding the image layers"
+  - name: "3.1 Understanding the Image Layers"
     href: building-images/understanding-image-layers.md
   - name: "3.2 Writing a Dockerfile"
     href: building-images/writing-a-dockerfile.md
-  - name: "3.3 Using the build cache"
+  - name: "3.3 Using the Build Cache"
     href: building-images/using-the-build-cache.md
-- name: "4. Running containers"
+- name: "4. Running Containers"
   href: running-containers/index.md
   items:
-  - name: "4.1 Publishing and exposing ports"
+  - name: "4.1 Publishing and Exposing Ports"
     href: running-containers/publishing-ports.md
-  - name: "4.2 Multi-container applications"
+  - name: "4.2 Multi-Container Applications"
     href: running-containers/multi-container-applications.md

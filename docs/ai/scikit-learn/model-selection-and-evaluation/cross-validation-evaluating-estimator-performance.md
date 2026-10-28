@@ -1,10 +1,10 @@
 ---
-title: "3.1 Cross-validation: evaluating estimator performance"
+title: "3.1 Cross-Validation: Evaluating Estimator Performance"
 description: "scikit-learn, 3.1 Cross-validation: evaluating estimator performance: 3.1.1 Computing cross-validated metrics, 3.1.2 Cross validation iterators, 3.1.3 A note on shuffling, 3.1.4 Cross validation and model selection, 3.1.5 Permutation test score."
 ms.date: 2026-10-25
 ---
 
-# 3.1 Cross-validation: evaluating estimator performance
+# 3.1 Cross-Validation: Evaluating Estimator Performance
 
 Sources: [scikit-learn User Guide, 3.1 Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html).
 

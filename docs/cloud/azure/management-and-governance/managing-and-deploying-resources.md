@@ -1,10 +1,10 @@
 ---
-title: "20.3 Managing and deploying resources"
+title: "20.3 Managing and Deploying Resources"
 description: "Microsoft Azure, 20.3 Managing and deploying resources: Azure portal, Azure Cloud Shell, Azure PowerShell, Azure CLI, Azure Arc, Azure Resource Manager, ARM templates, Bicep."
 ms.date: 2026-10-27
 ---
 
-# 20.3 Managing and deploying resources
+# 20.3 Managing and Deploying Resources
 
 ## Classification
 

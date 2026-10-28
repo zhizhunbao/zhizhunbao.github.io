@@ -1,10 +1,10 @@
 ---
-title: "2.1 Physical infrastructure"
+title: "2.1 Physical Infrastructure"
 description: "Microsoft Azure, 2.1 Physical infrastructure: datacenters, availability zones, regions, region pairs, sovereign regions."
 ms.date: 2026-10-25
 ---
 
-# 2.1 Physical infrastructure
+# 2.1 Physical Infrastructure
 
 ## Classification
 

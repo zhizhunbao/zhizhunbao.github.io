@@ -1,10 +1,10 @@
 ---
-title: "GitHub Docs: collaborating with pull requests"
+title: "GitHub Docs: Collaborating with Pull Requests"
 description: "GitHub Docs: collaborating with pull requests: one figure per part, key terms framed, official definitions and their Chinese translations."
 ms.date: 2026-10-19
 ---
 
-# GitHub Docs: collaborating with pull requests
+# GitHub Docs: Collaborating with Pull Requests
 
 Study notes on [GitHub Docs](https://docs.github.com/en/pull-requests). Each section links the official page it follows. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The main verb of each sentence has a red wavy underline, in the English and in the Chinese.
 

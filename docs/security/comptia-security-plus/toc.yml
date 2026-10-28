@@ -4,69 +4,69 @@ items:
 - name: "1. General Security Concepts"
   href: general-security-concepts/index.md
   items:
-  - name: "1.1 Security concepts and controls"
+  - name: "1.1 Security Concepts and Controls"
     href: general-security-concepts/security-concepts-and-controls.md
-  - name: "1.2 Change management processes"
+  - name: "1.2 Change Management Processes"
     href: general-security-concepts/change-management-processes.md
-  - name: "1.3 Cryptographic solutions"
+  - name: "1.3 Cryptographic Solutions"
     href: general-security-concepts/cryptographic-solutions.md
 - name: "2. Threats, Vulnerabilities, and Attacks"
   href: threats-vulnerabilities-and-attacks/index.md
   items:
-  - name: "2.1 Threats and vulnerabilities"
+  - name: "2.1 Threats and Vulnerabilities"
     href: threats-vulnerabilities-and-attacks/threats-and-vulnerabilities.md
-  - name: "2.2 Threat actors and motivations"
+  - name: "2.2 Threat Actors and Motivations"
     href: threats-vulnerabilities-and-attacks/threat-actors-and-motivations.md
-  - name: "2.3 Threat vectors and sources"
+  - name: "2.3 Threat Vectors and Sources"
     href: threats-vulnerabilities-and-attacks/threat-vectors-and-sources.md
-  - name: "2.4 Vulnerabilities and attack surfaces"
+  - name: "2.4 Vulnerabilities and Attack Surfaces"
     href: threats-vulnerabilities-and-attacks/vulnerabilities-and-attack-surfaces.md
-  - name: "2.5 Indicators of malicious activity"
+  - name: "2.5 Indicators of Malicious Activity"
     href: threats-vulnerabilities-and-attacks/indicators-of-malicious-activity.md
-  - name: "2.6 Artificial intelligence (AI) usage"
+  - name: "2.6 Artificial Intelligence (AI) Usage"
     href: threats-vulnerabilities-and-attacks/artificial-intelligence-usage.md
 - name: "3. Security Architecture"
   href: security-architecture/index.md
   items:
-  - name: "3.1 Architecture models"
+  - name: "3.1 Architecture Models"
     href: security-architecture/architecture-models.md
-  - name: "3.2 Security architecture"
+  - name: "3.2 Security Architecture"
     href: security-architecture/security-architecture.md
-  - name: "3.3 Data protection"
+  - name: "3.3 Data Protection"
     href: security-architecture/data-protection.md
-  - name: "3.4 Resilience and recovery"
+  - name: "3.4 Resilience and Recovery"
     href: security-architecture/resilience-and-recovery.md
 - name: "4. Security Operations"
   href: security-operations/index.md
   items:
-  - name: "4.1 Mitigating controls, techniques, and solutions"
+  - name: "4.1 Mitigating Controls, Techniques, and Solutions"
     href: security-operations/mitigating-controls-techniques-and-solutions.md
-  - name: "4.2 Hardware, software, and data asset management"
+  - name: "4.2 Hardware, Software, and Data Asset Management"
     href: security-operations/hardware-software-and-data-asset-management.md
-  - name: "4.3 Vulnerability management"
+  - name: "4.3 Vulnerability Management"
     href: security-operations/vulnerability-management.md
-  - name: "4.4 Security alerting and monitoring"
+  - name: "4.4 Security Alerting and Monitoring"
     href: security-operations/security-alerting-and-monitoring.md
-  - name: "4.5 Identity and access management"
+  - name: "4.5 Identity and Access Management"
     href: security-operations/identity-and-access-management.md
-  - name: "4.6 Automation and orchestration"
+  - name: "4.6 Automation and Orchestration"
     href: security-operations/automation-and-orchestration.md
-  - name: "4.7 Incident response activities"
+  - name: "4.7 Incident Response Activities"
     href: security-operations/incident-response-activities.md
-  - name: "4.8 Security investigations"
+  - name: "4.8 Security Investigations"
     href: security-operations/security-investigations.md
 - name: "5. Security Program Management and Oversight"
   href: security-program-management-and-oversight/index.md
   items:
-  - name: "5.1 Governance, risk, and compliance artifacts"
+  - name: "5.1 Governance, Risk, and Compliance Artifacts"
     href: security-program-management-and-oversight/governance-risk-and-compliance-artifacts.md
-  - name: "5.2 Risk management processes"
+  - name: "5.2 Risk Management Processes"
     href: security-program-management-and-oversight/risk-management-processes.md
-  - name: "5.3 Third-party risk"
+  - name: "5.3 Third-Party Risk"
     href: security-program-management-and-oversight/third-party-risk.md
-  - name: "5.4 Security compliance"
+  - name: "5.4 Security Compliance"
     href: security-program-management-and-oversight/security-compliance.md
-  - name: "5.5 Audit and assessment"
+  - name: "5.5 Audit and Assessment"
     href: security-program-management-and-oversight/audit-and-assessment.md
-  - name: "5.6 Security awareness"
+  - name: "5.6 Security Awareness"
     href: security-program-management-and-oversight/security-awareness.md

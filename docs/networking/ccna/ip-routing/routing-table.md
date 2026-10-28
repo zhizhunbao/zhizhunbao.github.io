@@ -1,10 +1,10 @@
 ---
-title: "3.1 Routing table"
+title: "3.1 Routing Table"
 description: "CCNA v2.0, 3.1 Routing table: Routing protocol, Prefix/mask, Administrative distance, Metric, Default route."
 ms.date: 2026-10-25
 ---
 
-# 3.1 Routing table
+# 3.1 Routing Table
 
 Sources: [200-301 CCNA v2.0 Exam Topics, 3.1](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics).
 

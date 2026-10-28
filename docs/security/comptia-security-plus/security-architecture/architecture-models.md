@@ -1,10 +1,10 @@
 ---
-title: "3.1 Architecture models"
+title: "3.1 Architecture Models"
 description: "CompTIA Security+, 3.1 Architecture models: Architecture and infrastructure concepts, Technical considerations, Business considerations."
 ms.date: 2026-10-25
 ---
 
-# 3.1 Architecture models
+# 3.1 Architecture Models
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 3.1](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

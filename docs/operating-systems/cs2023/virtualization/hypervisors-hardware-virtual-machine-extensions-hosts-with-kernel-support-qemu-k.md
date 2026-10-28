@@ -1,10 +1,10 @@
 ---
-title: "11.10 Hypervisors- hardware virtual machine extensions, hosts with kernel support, QEMU KVM"
+title: "11.10 Hypervisors- Hardware Virtual Machine Extensions, Hosts with Kernel Support, QEMU KVM"
 description: "CS2023 OS-Virtualization, 11.10 Hypervisors- hardware virtual machine extensions, hosts with kernel support, QEMU KVM (Non-core): Full virtualization, Hypervisor, Bare metal virtualization, Hosted virtualization."
 ms.date: 2026-10-27
 ---
 
-# 11.10 Hypervisors- hardware virtual machine extensions, hosts with kernel support, QEMU KVM
+# 11.10 Hypervisors- Hardware Virtual Machine Extensions, Hosts with Kernel Support, QEMU KVM
 
 Sources: [CS2023 Body of Knowledge, OS-Virtualization, topic 10, p. 151](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=151); [NIST SP 800-125, Guide to Security for Full Virtualization Technologies](https://doi.org/10.6028/NIST.SP.800-125).
 

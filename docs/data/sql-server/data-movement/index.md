@@ -1,10 +1,10 @@
 ---
-title: "7. Data movement"
+title: "7. Data Movement"
 description: "SQL Server, 7. Data movement: SQL Server Integration Services (SSIS), Data Quality Services (DQS), Replication, SQL Server Migration Assistant (SSMA)."
 ms.date: 2026-10-26
 ---
 
-# 7. Data movement
+# 7. Data Movement
 
 ## Classification
 

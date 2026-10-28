@@ -4,89 +4,89 @@ items:
 - name: "1. Discrete Mathematics"
   href: discrete-mathematics/index.md
   items:
-  - name: "1.1 Sets, relations, functions, cardinality"
+  - name: "1.1 Sets, Relations, Functions, Cardinality"
     href: discrete-mathematics/sets-relations-functions-cardinality.md
-  - name: "1.2 Recursive mathematical definitions"
+  - name: "1.2 Recursive Mathematical Definitions"
     href: discrete-mathematics/recursive-mathematical-definitions.md
-  - name: "1.3 Proof techniques (induction, proof by contradiction)"
+  - name: "1.3 Proof Techniques (induction, proof by contradiction)"
     href: discrete-mathematics/proof-techniques-induction-proof-by-contradiction.md
-  - name: "1.4 Permutations, combinations, counting, pigeonhole principle"
+  - name: "1.4 Permutations, Combinations, Counting, Pigeonhole Principle"
     href: discrete-mathematics/permutations-combinations-counting-pigeonhole-principle.md
-  - name: "1.5 Modular arithmetic"
+  - name: "1.5 Modular Arithmetic"
     href: discrete-mathematics/modular-arithmetic.md
   - name: "1.6 Logic"
     href: discrete-mathematics/logic.md
   - name: "1.7 Graphs"
     href: discrete-mathematics/graphs.md
-  - name: "1.8 Order notation"
+  - name: "1.8 Order Notation"
     href: discrete-mathematics/order-notation.md
 - name: "2. Probability"
   href: probability/index.md
   items:
-  - name: "2.1 Basic notions"
+  - name: "2.1 Basic Notions"
     href: probability/basic-notions.md
-  - name: "2.2 Discrete random variables and distributions"
+  - name: "2.2 Discrete Random Variables and Distributions"
     href: probability/discrete-random-variables-and-distributions.md
-  - name: "2.3 Continuous random variables and distributions"
+  - name: "2.3 Continuous Random Variables and Distributions"
     href: probability/continuous-random-variables-and-distributions.md
-  - name: "2.4 Expectation, variance, law of large numbers, central limit theorem"
+  - name: "2.4 Expectation, Variance, Law of Large Numbers, Central Limit Theorem"
     href: probability/expectation-variance-law-of-large-numbers-central-limit-theorem.md
-  - name: "2.5 Conditional distributions and expectation"
+  - name: "2.5 Conditional Distributions and Expectation"
     href: probability/conditional-distributions-and-expectation.md
-  - name: "2.6 Applications to computing, the difference between probability and statistics (as subjects)"
+  - name: "2.6 Applications to Computing, the Difference Between Probability and Statistics (as subjects)"
     href: probability/applications-to-computing-the-difference-between-probability-and-statistics-as-subjects.md
 - name: "3. Statistics"
   href: statistics/index.md
   items:
-  - name: "3.1 Basic definitions and concepts"
+  - name: "3.1 Basic Definitions and Concepts"
     href: statistics/basic-definitions-and-concepts.md
-  - name: "3.2 Univariate data"
+  - name: "3.2 Univariate Data"
     href: statistics/univariate-data.md
-  - name: "3.3 Multivariate data"
+  - name: "3.3 Multivariate Data"
     href: statistics/multivariate-data.md
-  - name: "3.4 Data transformation"
+  - name: "3.4 Data Transformation"
     href: statistics/data-transformation.md
-  - name: "3.5 Statistical models and algorithms"
+  - name: "3.5 Statistical Models and Algorithms"
     href: statistics/statistical-models-and-algorithms.md
-  - name: "3.6 Hypothesis testing"
+  - name: "3.6 Hypothesis Testing"
     href: statistics/hypothesis-testing.md
 - name: "4. Linear Algebra"
   href: linear-algebra/index.md
   items:
   - name: "4.1 Vectors"
     href: linear-algebra/vectors.md
-  - name: "4.2 Matrices, matrix-vector equation, geometric interpretation, geometric transformations with matrices"
+  - name: "4.2 Matrices, Matrix-Vector Equation, Geometric Interpretation, Geometric Transformations with Matrices"
     href: linear-algebra/matrices-matrix-vector-equation-geometric-interpretation-geometric-transformations-with-matrices.md
-  - name: "4.3 Solving equations, row-reduction"
+  - name: "4.3 Solving Equations, Row-Reduction"
     href: linear-algebra/solving-equations-row-reduction.md
-  - name: "4.4 Linear independence, span, basis"
+  - name: "4.4 Linear Independence, Span, Basis"
     href: linear-algebra/linear-independence-span-basis.md
-  - name: "4.5 Orthogonality, projection, least-squares, orthogonal bases"
+  - name: "4.5 Orthogonality, Projection, Least-Squares, Orthogonal Bases"
     href: linear-algebra/orthogonality-projection-least-squares-orthogonal-bases.md
-  - name: "4.6 Linear combinations of polynomials, Bezier curves"
+  - name: "4.6 Linear Combinations of Polynomials, Bezier Curves"
     href: linear-algebra/linear-combinations-of-polynomials-bezier-curves.md
-  - name: "4.7 Eigenvectors and eigenvalues"
+  - name: "4.7 Eigenvectors and Eigenvalues"
     href: linear-algebra/eigenvectors-and-eigenvalues.md
-  - name: "4.8 Applications to computer science"
+  - name: "4.8 Applications to Computer Science"
     href: linear-algebra/applications-to-computer-science.md
 - name: "5. Calculus"
   href: calculus/index.md
   items:
-  - name: "5.1 Sequences, series, limits"
+  - name: "5.1 Sequences, Series, Limits"
     href: calculus/sequences-series-limits.md
-  - name: "5.2 Single-variable derivatives"
+  - name: "5.2 Single-Variable Derivatives"
     href: calculus/single-variable-derivatives.md
-  - name: "5.3 Single-variable integration"
+  - name: "5.3 Single-Variable Integration"
     href: calculus/single-variable-integration.md
-  - name: "5.4 Parametric and polar representations"
+  - name: "5.4 Parametric and Polar Representations"
     href: calculus/parametric-and-polar-representations.md
-  - name: "5.5 Taylor series"
+  - name: "5.5 Taylor Series"
     href: calculus/taylor-series.md
-  - name: "5.6 Multivariate calculus"
+  - name: "5.6 Multivariate Calculus"
     href: calculus/multivariate-calculus.md
   - name: "5.7 Optimization"
     href: calculus/optimization.md
   - name: "5.8 Ordinary Differential Equations (ODEs)"
     href: calculus/ordinary-differential-equations-odes.md
-  - name: "5.9 CS applications"
+  - name: "5.9 CS Applications"
     href: calculus/cs-applications.md

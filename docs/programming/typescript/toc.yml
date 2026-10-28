@@ -12,7 +12,7 @@ items:
     href: get-started/ts-for-java-c-programmers.md
   - name: "1.4 TS for Functional Programmers"
     href: get-started/ts-for-functional-programmers.md
-  - name: "1.5 TypeScript Tooling in 5 minutes"
+  - name: "1.5 TypeScript Tooling in 5 Minutes"
     href: get-started/typescript-tooling-in-5-minutes.md
 - name: "2. Handbook"
   href: handbook/index.md
@@ -221,18 +221,18 @@ items:
     href: javascript/type-checking-javascript-files.md
   - name: "8.3 JSDoc Reference"
     href: javascript/jsdoc-reference.md
-  - name: "8.4 Creating .d.ts Files from .js files"
+  - name: "8.4 Creating .d.ts Files from .js Files"
     href: javascript/creating-d-ts-files-from-js-files.md
 - name: "9. Project Configuration"
   href: project-configuration/index.md
   items:
-  - name: "9.1 What is a tsconfig.json"
+  - name: "9.1 What Is a tsconfig.json"
     href: project-configuration/what-is-a-tsconfig-json.md
   - name: "9.2 Compiler Options in MSBuild"
     href: project-configuration/compiler-options-in-msbuild.md
   - name: "9.3 TSConfig Reference"
     href: project-configuration/tsconfig-reference.md
-  - name: "9.4 tsc CLI Options"
+  - name: "9.4 Tsc CLI Options"
     href: project-configuration/tsc-cli-options.md
   - name: "9.5 Project References"
     href: project-configuration/project-references.md

@@ -1,10 +1,10 @@
 ---
-title: "10.2 API management"
+title: "10.2 API Management"
 description: "Microsoft Azure, 10.2 API management: Azure API Management."
 ms.date: 2026-10-27
 ---
 
-# 10.2 API management
+# 10.2 API Management
 
 ## Classification
 

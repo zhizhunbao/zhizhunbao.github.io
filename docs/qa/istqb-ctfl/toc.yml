@@ -4,9 +4,9 @@ items:
 - name: "1. Fundamentals of Testing"
   href: fundamentals-of-testing/index.md
   items:
-  - name: "1.1 What is Testing?"
+  - name: "1.1 What Is Testing?"
     href: fundamentals-of-testing/what-is-testing.md
-  - name: "1.2 Why is Testing Necessary?"
+  - name: "1.2 Why Is Testing Necessary?"
     href: fundamentals-of-testing/why-is-testing-necessary.md
   - name: "1.3 Testing Principles"
     href: fundamentals-of-testing/testing-principles.md
@@ -39,9 +39,9 @@ items:
     href: test-analysis-and-design/black-box-test-techniques.md
   - name: "4.3 White-Box Test Techniques"
     href: test-analysis-and-design/white-box-test-techniques.md
-  - name: "4.4 Experience-based Test Techniques"
+  - name: "4.4 Experience-Based Test Techniques"
     href: test-analysis-and-design/experience-based-test-techniques.md
-  - name: "4.5 Collaboration-based Test Approaches"
+  - name: "4.5 Collaboration-Based Test Approaches"
     href: test-analysis-and-design/collaboration-based-test-approaches.md
 - name: "5. Managing the Test Activities"
   href: managing-the-test-activities/index.md

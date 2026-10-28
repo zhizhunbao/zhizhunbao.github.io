@@ -1,7 +1,7 @@
 ---
-title: "70H Hamiltonian and Lagrangian mechanics"
+title: "70H Hamiltonian and Lagrangian Mechanics"
 description: "MSC2020 class 70Hxx, Hamiltonian and Lagrangian mechanics: 17 classes."
 ms.date: 2026-10-27
 ---
 
-# 70H Hamiltonian and Lagrangian mechanics
+# 70H Hamiltonian and Lagrangian Mechanics

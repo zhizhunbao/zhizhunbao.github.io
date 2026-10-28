@@ -1,10 +1,10 @@
 ---
-title: "4.6 Automation and orchestration"
+title: "4.6 Automation and Orchestration"
 description: "CompTIA Security+, 4.6 Automation and orchestration: Use cases of automation and scripting, Considerations, AI, Intended outcomes, SecOps, Workflows."
 ms.date: 2026-10-25
 ---
 
-# 4.6 Automation and orchestration
+# 4.6 Automation and Orchestration
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 4.6](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

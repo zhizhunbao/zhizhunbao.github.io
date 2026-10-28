@@ -1,10 +1,10 @@
 ---
-title: "7.1 Networking foundation"
+title: "7.1 Networking Foundation"
 description: "Microsoft Azure, 7.1 Networking foundation: Virtual Network, Azure Private Link, Azure DNS, Azure Bastion, Azure Route Server, NAT Gateway, Traffic Manager."
 ms.date: 2026-10-27
 ---
 
-# 7.1 Networking foundation
+# 7.1 Networking Foundation
 
 ## Classification
 

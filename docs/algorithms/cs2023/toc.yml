@@ -4,17 +4,17 @@ items:
 - name: "1. Foundational Data Structures and Algorithms"
   href: foundational-data-structures-and-algorithms/index.md
   items:
-  - name: "1.1 Abstract Data Type (ADT) and operations on an ADT"
+  - name: "1.1 Abstract Data Type (ADT) and Operations on an ADT"
     href: foundational-data-structures-and-algorithms/abstract-data-type-adt-and-operations-on-an-adt.md
   - name: "1.2 Arrays"
     href: foundational-data-structures-and-algorithms/arrays.md
   - name: "1.3 Records/Structs/Tuples and Objects"
     href: foundational-data-structures-and-algorithms/records-structs-tuples-and-objects.md
-  - name: "1.4 Linked lists (for historical reasons)"
+  - name: "1.4 Linked Lists (for historical reasons)"
     href: foundational-data-structures-and-algorithms/linked-lists.md
   - name: "1.5 Stacks"
     href: foundational-data-structures-and-algorithms/stacks.md
-  - name: "1.6 Queues and deques"
+  - name: "1.6 Queues and Deques"
     href: foundational-data-structures-and-algorithms/queues-and-deques.md
   - name: "1.7 Hash tables/maps"
     href: foundational-data-structures-and-algorithms/hash-tables-maps.md
@@ -24,111 +24,111 @@ items:
     href: foundational-data-structures-and-algorithms/trees.md
   - name: "1.10 Sets"
     href: foundational-data-structures-and-algorithms/sets.md
-  - name: "1.11 Search algorithms"
+  - name: "1.11 Search Algorithms"
     href: foundational-data-structures-and-algorithms/search-algorithms.md
-  - name: "1.12 Sorting algorithms (e.g., stable, unstable)"
+  - name: "1.12 Sorting Algorithms (e.g., stable, unstable)"
     href: foundational-data-structures-and-algorithms/sorting-algorithms.md
-  - name: "1.13 Graph algorithms"
+  - name: "1.13 Graph Algorithms"
     href: foundational-data-structures-and-algorithms/graph-algorithms.md
-  - name: "1.14 Sorting algorithms"
+  - name: "1.14 Sorting Algorithms"
     href: foundational-data-structures-and-algorithms/sorting-algorithms-ka-core.md
-  - name: "1.15 Graph algorithms"
+  - name: "1.15 Graph Algorithms"
     href: foundational-data-structures-and-algorithms/graph-algorithms-ka-core.md
   - name: "1.16 Matching"
     href: foundational-data-structures-and-algorithms/matching.md
-  - name: "1.17 Cryptography algorithms (e.g., SHA-256)"
+  - name: "1.17 Cryptography Algorithms (e.g., SHA-256)"
     href: foundational-data-structures-and-algorithms/cryptography-algorithms.md
-  - name: "1.18 Parallel algorithms"
+  - name: "1.18 Parallel Algorithms"
     href: foundational-data-structures-and-algorithms/parallel-algorithms.md
-  - name: "1.19 Consensus algorithms (e.g., Blockchain)"
+  - name: "1.19 Consensus Algorithms (e.g., Blockchain)"
     href: foundational-data-structures-and-algorithms/consensus-algorithms.md
-  - name: "1.20 Quantum computing algorithms"
+  - name: "1.20 Quantum Computing Algorithms"
     href: foundational-data-structures-and-algorithms/quantum-computing-algorithms.md
-  - name: "1.21 Fast-Fourier Transform (FFT) algorithm"
+  - name: "1.21 Fast-Fourier Transform (FFT) Algorithm"
     href: foundational-data-structures-and-algorithms/fast-fourier-transform-fft-algorithm.md
-  - name: "1.22 Differential evolution algorithm"
+  - name: "1.22 Differential Evolution Algorithm"
     href: foundational-data-structures-and-algorithms/differential-evolution-algorithm.md
 - name: "2. Algorithmic Strategies"
   href: algorithmic-strategies/index.md
   items:
   - name: "2.1 Paradigms"
     href: algorithmic-strategies/paradigms.md
-  - name: "2.2 Handling exponential growth (e.g., heuristic A*, branch-and-bound, backtracking)"
+  - name: "2.2 Handling Exponential Growth (e.g., heuristic A*, branch-and-bound, backtracking)"
     href: algorithmic-strategies/handling-exponential-growth.md
-  - name: "2.3 Iteration vs recursion (e.g., factorial, tree search)"
+  - name: "2.3 Iteration vs Recursion (e.g., factorial, tree search)"
     href: algorithmic-strategies/iteration-vs-recursion.md
   - name: "2.4 Paradigms"
     href: algorithmic-strategies/paradigms-ka-core.md
-  - name: "2.5 Quantum computing"
+  - name: "2.5 Quantum Computing"
     href: algorithmic-strategies/quantum-computing.md
 - name: "3. Complexity"
   href: complexity/index.md
   items:
   - name: "3.1 Complexity Analysis Framework"
     href: complexity/complexity-analysis-framework.md
-  - name: "3.2 Asymptotic complexity analysis (average and worst-case bounds)"
+  - name: "3.2 Asymptotic Complexity Analysis (average and worst-case bounds)"
     href: complexity/asymptotic-complexity-analysis.md
-  - name: "3.3 Empirical measurements of performance"
+  - name: "3.3 Empirical Measurements of Performance"
     href: complexity/empirical-measurements-of-performance.md
-  - name: "3.4 Tractability and intractability"
+  - name: "3.4 Tractability and Intractability"
     href: complexity/tractability-and-intractability.md
-  - name: "3.5 Time and space tradeoffs in algorithms"
+  - name: "3.5 Time and Space Tradeoffs in Algorithms"
     href: complexity/time-and-space-tradeoffs-in-algorithms.md
-  - name: "3.6 Little-o, Little-Omega, and Little Theta notations"
+  - name: "3.6 Little-O, Little-Omega, and Little Theta Notations"
     href: complexity/little-o-little-omega-and-little-theta-notations.md
-  - name: "3.7 Formal recursive analysis"
+  - name: "3.7 Formal Recursive Analysis"
     href: complexity/formal-recursive-analysis.md
-  - name: "3.8 Amortized analysis"
+  - name: "3.8 Amortized Analysis"
     href: complexity/amortized-analysis.md
-  - name: "3.9 Turing Machine-based models of complexity"
+  - name: "3.9 Turing Machine-Based Models of Complexity"
     href: complexity/turing-machine-based-models-of-complexity.md
 - name: "4. Computational Models and Formal Languages"
   href: computational-models-and-formal-languages/index.md
   items:
-  - name: "4.1 Formal automata"
+  - name: "4.1 Formal Automata"
     href: computational-models-and-formal-languages/formal-automata.md
-  - name: "4.2 Formal languages, grammars and Chomsky Hierarchy"
+  - name: "4.2 Formal Languages, Grammars and Chomsky Hierarchy"
     href: computational-models-and-formal-languages/formal-languages-grammars-and-chomsky-hierarchy.md
-  - name: "4.3 Relations among formal automata, languages, and grammars"
+  - name: "4.3 Relations Among Formal Automata, Languages, and Grammars"
     href: computational-models-and-formal-languages/relations-among-formal-automata-languages-and-grammars.md
-  - name: "4.4 Decidability, (un)computability, and halting"
+  - name: "4.4 Decidability, (un)computability, and Halting"
     href: computational-models-and-formal-languages/decidability-un-computability-and-halting.md
-  - name: "4.5 The Church-Turing thesis"
+  - name: "4.5 The Church-Turing Thesis"
     href: computational-models-and-formal-languages/the-church-turing-thesis.md
-  - name: "4.6 Algorithmic correctness"
+  - name: "4.6 Algorithmic Correctness"
     href: computational-models-and-formal-languages/algorithmic-correctness.md
-  - name: "4.7 Deterministic and nondeterministic automata"
+  - name: "4.7 Deterministic and Nondeterministic Automata"
     href: computational-models-and-formal-languages/deterministic-and-nondeterministic-automata.md
-  - name: "4.8 Pumping Lemma proofs"
+  - name: "4.8 Pumping Lemma Proofs"
     href: computational-models-and-formal-languages/pumping-lemma-proofs.md
   - name: "4.9 Decidability"
     href: computational-models-and-formal-languages/decidability.md
-  - name: "4.10 Reducibility and reductions"
+  - name: "4.10 Reducibility and Reductions"
     href: computational-models-and-formal-languages/reducibility-and-reductions.md
-  - name: "4.11 Time complexity based on Turing Machine"
+  - name: "4.11 Time Complexity Based on Turing Machine"
     href: computational-models-and-formal-languages/time-complexity-based-on-turing-machine.md
-  - name: "4.12 Space complexity (e.g., Pspace, Savitch’s Theorem)"
+  - name: "4.12 Space Complexity (e.g., Pspace, Savitch’s Theorem)"
     href: computational-models-and-formal-languages/space-complexity.md
-  - name: "4.13 Equivalent models of algorithmic computation"
+  - name: "4.13 Equivalent Models of Algorithmic Computation"
     href: computational-models-and-formal-languages/equivalent-models-of-algorithmic-computation.md
-  - name: "4.14 Quantum computation"
+  - name: "4.14 Quantum Computation"
     href: computational-models-and-formal-languages/quantum-computation.md
 - name: "5. Society, Ethics, and the Profession"
   href: society-ethics-and-the-profession/index.md
   items:
-  - name: "5.1 Social, ethical, and secure algorithms"
+  - name: "5.1 Social, Ethical, and Secure Algorithms"
     href: society-ethics-and-the-profession/social-ethical-and-secure-algorithms.md
-  - name: "5.2 Algorithmic fairness"
+  - name: "5.2 Algorithmic Fairness"
     href: society-ethics-and-the-profession/algorithmic-fairness.md
   - name: "5.3 Anonymity (e.g., Differential Privacy)"
     href: society-ethics-and-the-profession/anonymity.md
   - name: "5.4 Accountability/Transparency"
     href: society-ethics-and-the-profession/accountability-transparency.md
-  - name: "5.5 Responsible algorithms"
+  - name: "5.5 Responsible Algorithms"
     href: society-ethics-and-the-profession/responsible-algorithms.md
-  - name: "5.6 Economic and other impacts of inefficient algorithms"
+  - name: "5.6 Economic and Other Impacts of Inefficient Algorithms"
     href: society-ethics-and-the-profession/economic-and-other-impacts-of-inefficient-algorithms.md
   - name: "5.7 Sustainability"
     href: society-ethics-and-the-profession/sustainability.md
-  - name: "5.8 Context aware computing"
+  - name: "5.8 Context Aware Computing"
     href: society-ethics-and-the-profession/context-aware-computing.md

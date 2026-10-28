@@ -1,10 +1,10 @@
 ---
-title: "15.50 css"
+title: "15.50 Css"
 description: "Vitest, 15.50 css."
 ms.date: 2026-10-25
 ---
 
-# 15.50 css
+# 15.50 Css
 
 Sources: [Vitest documentation, 15.50 css](https://vitest.dev/config/css).
 

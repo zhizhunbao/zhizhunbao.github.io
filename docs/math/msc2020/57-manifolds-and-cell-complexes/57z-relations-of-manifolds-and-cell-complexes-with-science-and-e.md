@@ -1,7 +1,7 @@
 ---
-title: "57Z Relations of manifolds and cell complexes with science and engineering"
+title: "57Z Relations of Manifolds and Cell Complexes with Science and Engineering"
 description: "MSC2020 class 57Zxx, Relations of manifolds and cell complexes with science and engineering: 5 classes."
 ms.date: 2026-10-27
 ---
 
-# 57Z Relations of manifolds and cell complexes with science and engineering
+# 57Z Relations of Manifolds and Cell Complexes with Science and Engineering

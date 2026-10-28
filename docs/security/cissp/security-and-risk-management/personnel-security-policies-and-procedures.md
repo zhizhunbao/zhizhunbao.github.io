@@ -1,10 +1,10 @@
 ---
-title: "1.8 Personnel security policies and procedures"
+title: "1.8 Personnel Security Policies and Procedures"
 description: "CISSP, 1.8 Personnel security policies and procedures."
 ms.date: 2026-10-25
 ---
 
-# 1.8 Personnel security policies and procedures
+# 1.8 Personnel Security Policies and Procedures
 
 Sources: [CISSP Certification Exam Outline, 1.8](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

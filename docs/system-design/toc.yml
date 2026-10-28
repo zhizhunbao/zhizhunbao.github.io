@@ -1,7 +1,7 @@
 items:
 - name: Overview
   href: index.md
-- name: Architectural Styles and the Design of Network-based Software Architectures
+- name: Architectural Styles and the Design of Network-Based Software Architectures
   href: network-based-software-architectures/toc.yml
 - name: AWS Well-Architected Framework
   href: aws-well-architected/index.md

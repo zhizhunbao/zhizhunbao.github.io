@@ -1,10 +1,10 @@
 ---
-title: "1.5 Open the app"
+title: "1.5 Open the App"
 description: "Cypress, 1.5 Open the app."
 ms.date: 2026-10-25
 ---
 
-# 1.5 Open the app
+# 1.5 Open the App
 
 Sources: [Cypress documentation, 1.5 Open the app](https://docs.cypress.io/app/get-started/open-the-app).
 

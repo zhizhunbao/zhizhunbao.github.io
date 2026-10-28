@@ -1,10 +1,10 @@
 ---
-title: "6.3 Key-frame animation"
+title: "6.3 Key-Frame Animation"
 description: "CS2023 GIT-Animation, 6.3 Key-frame animation (KA Core): Keyframe Interpolation Methods: Lerp/Slerp/Spline."
 ms.date: 2026-10-25
 ---
 
-# 6.3 Key-frame animation
+# 6.3 Key-Frame Animation
 
 Sources: [CS2023 Body of Knowledge, GIT-Animation, topic 3, p. 98](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=98).
 

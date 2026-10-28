@@ -1,10 +1,10 @@
 ---
-title: "9.2 Document data stores"
+title: "9.2 Document Data Stores"
 description: "Microsoft Azure, 9.2 Document data stores: Azure Cosmos DB for NoSQL, Azure DocumentDB, Azure Cosmos DB in Fabric."
 ms.date: 2026-10-27
 ---
 
-# 9.2 Document data stores
+# 9.2 Document Data Stores
 
 ## Classification
 

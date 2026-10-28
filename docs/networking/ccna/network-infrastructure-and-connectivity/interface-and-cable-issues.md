@@ -1,10 +1,10 @@
 ---
-title: "1.1 Interface and cable issues"
+title: "1.1 Interface and Cable Issues"
 description: "CCNA v2.0, 1.1 Interface and cable issues: Collisions, Errors, Mismatched duplex, Speed, Distance, Interface, Signal levels, Pin out, Cable types."
 ms.date: 2026-10-25
 ---
 
-# 1.1 Interface and cable issues
+# 1.1 Interface and Cable Issues
 
 Sources: [200-301 CCNA v2.0 Exam Topics, 1.1](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics).
 

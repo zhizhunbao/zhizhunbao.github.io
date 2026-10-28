@@ -1,10 +1,10 @@
 ---
-title: "5.2 Identification and authentication strategy"
+title: "5.2 Identification and Authentication Strategy"
 description: "CISSP, 5.2 Identification and authentication strategy: People, Devices, Services."
 ms.date: 2026-10-25
 ---
 
-# 5.2 Identification and authentication strategy
+# 5.2 Identification and Authentication Strategy
 
 Sources: [CISSP Certification Exam Outline, 5.2](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

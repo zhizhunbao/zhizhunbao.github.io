@@ -1,10 +1,10 @@
 ---
-title: "13.2 Array API support (experimental)"
+title: "13.2 Array API Support (experimental)"
 description: "scikit-learn, 13.2 Array API support (experimental): 13.2.1 Supported array libraries, 13.2.2 Enabling array API support, 13.2.3 Example usage, 13.2.4 Support for array API compatible inputs, 13.2.5 Input and output array type handling, 13.2.6 Common estimator checks (for developers), 13.2.7 Notes."
 ms.date: 2026-10-25
 ---
 
-# 13.2 Array API support (experimental)
+# 13.2 Array API Support (experimental)
 
 Sources: [scikit-learn User Guide, 13.2 Array API support (experimental)](https://scikit-learn.org/stable/modules/array_api.html).
 

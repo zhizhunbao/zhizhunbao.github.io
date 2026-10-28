@@ -1,10 +1,10 @@
 ---
-title: "1.4 IPv6 addresses"
+title: "1.4 IPv6 Addresses"
 description: "CCNA v2.0, 1.4 IPv6 addresses: Configuration, Assignment, Prefix sizing (unicast and modified EUI 64)."
 ms.date: 2026-10-25
 ---
 
-# 1.4 IPv6 addresses
+# 1.4 IPv6 Addresses
 
 Sources: [200-301 CCNA v2.0 Exam Topics, 1.4](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics).
 

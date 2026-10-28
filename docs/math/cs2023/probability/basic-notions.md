@@ -1,10 +1,10 @@
 ---
-title: "2.1 Basic notions"
+title: "2.1 Basic Notions"
 description: "CS2023 MSF-Probability, 2.1 Basic notions (CS Core): Sample space, Event, Probability, Conditional probability, Bayes' rule."
 ms.date: 2026-10-27
 ---
 
-# 2.1 Basic notions
+# 2.1 Basic Notions
 
 ## Classification
 

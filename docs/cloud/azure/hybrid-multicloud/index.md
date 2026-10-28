@@ -1,10 +1,10 @@
 ---
-title: "21. Hybrid + multicloud"
+title: "21. Hybrid + Multicloud"
 description: "Microsoft Azure, 21. Hybrid + multicloud: Azure Arc, Azure Database for PostgreSQL, Azure DevOps, Azure ExpressRoute, Azure IoT Edge, Azure Kubernetes Service Edge Essentials, Azure Local, Azure Operator Nexus, Azure Operator Service Manager, Azure SQL Database, Azure Stack Edge, Azure Stack Hub, Microsoft Defender for Cloud, Microsoft Sentinel."
 ms.date: 2026-10-27
 ---
 
-# 21. Hybrid + multicloud
+# 21. Hybrid + Multicloud
 
 ## Classification
 

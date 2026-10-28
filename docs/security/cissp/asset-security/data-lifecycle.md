@@ -1,10 +1,10 @@
 ---
-title: "2.4 Data lifecycle"
+title: "2.4 Data Lifecycle"
 description: "CISSP, 2.4 Data lifecycle."
 ms.date: 2026-10-25
 ---
 
-# 2.4 Data lifecycle
+# 2.4 Data Lifecycle
 
 Sources: [CISSP Certification Exam Outline, 2.4](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

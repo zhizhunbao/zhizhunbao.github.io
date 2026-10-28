@@ -1,10 +1,10 @@
 ---
-title: "4.8 Security investigations"
+title: "4.8 Security Investigations"
 description: "CompTIA Security+, 4.8 Security investigations: Log and trace data types, Data sources, File/log integrity, System image, Stakeholders, Log-parsing techniques."
 ms.date: 2026-10-25
 ---
 
-# 4.8 Security investigations
+# 4.8 Security Investigations
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 4.8](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

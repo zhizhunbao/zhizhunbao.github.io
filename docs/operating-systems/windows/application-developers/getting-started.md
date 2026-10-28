@@ -1,10 +1,10 @@
 ---
-title: "1.1 Getting started"
+title: "1.1 Getting Started"
 description: "Windows, 1.1 Getting started."
 ms.date: 2026-10-25
 ---
 
-# 1.1 Getting started
+# 1.1 Getting Started
 
 Sources: [Windows documentation, 1.1 Getting started](https://learn.microsoft.com/en-us/windows/apps/).
 

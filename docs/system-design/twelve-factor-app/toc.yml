@@ -7,21 +7,21 @@ items:
   href: dependencies.md
 - name: "III. Config"
   href: config.md
-- name: "IV. Backing services"
+- name: "IV. Backing Services"
   href: backing-services.md
-- name: "V. Build, release, run"
+- name: "V. Build, Release, Run"
   href: build-release-run.md
 - name: "VI. Processes"
   href: processes.md
-- name: "VII. Port binding"
+- name: "VII. Port Binding"
   href: port-binding.md
 - name: "VIII. Concurrency"
   href: concurrency.md
 - name: "IX. Disposability"
   href: disposability.md
-- name: "X. Dev/prod parity"
+- name: "X. Dev/prod Parity"
   href: dev-prod-parity.md
 - name: "XI. Logs"
   href: logs.md
-- name: "XII. Admin processes"
+- name: "XII. Admin Processes"
   href: admin-processes.md

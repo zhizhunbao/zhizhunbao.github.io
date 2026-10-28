@@ -1,10 +1,10 @@
 ---
-title: "1.2 Recursive mathematical definitions"
+title: "1.2 Recursive Mathematical Definitions"
 description: "CS2023 MSF-Discrete, 1.2 Recursive mathematical definitions (CS Core): Recursive mathematical definition."
 ms.date: 2026-10-27
 ---
 
-# 1.2 Recursive mathematical definitions
+# 1.2 Recursive Mathematical Definitions
 
 ## Classification
 

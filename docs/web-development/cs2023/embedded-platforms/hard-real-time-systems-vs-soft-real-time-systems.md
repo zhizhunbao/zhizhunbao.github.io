@@ -1,10 +1,10 @@
 ---
-title: "5.5 Hard real-time systems vs soft real-time systems"
+title: "5.5 Hard Real-Time Systems vs Soft Real-Time Systems"
 description: "CS2023 SPD-Embedded, 5.5 Hard real-time systems vs soft real-time systems (KA Core): Timeliness, Time synchronization/scheduling, Prioritization, Latency, Compute jitter."
 ms.date: 2026-10-25
 ---
 
-# 5.5 Hard real-time systems vs soft real-time systems
+# 5.5 Hard Real-Time Systems vs Soft Real-Time Systems
 
 Sources: [CS2023 Body of Knowledge, SPD-Embedded, topic 5, p. 243](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=243).
 

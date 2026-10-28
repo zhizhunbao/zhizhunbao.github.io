@@ -1,10 +1,10 @@
 ---
-title: "5.1 Governance, risk, and compliance artifacts"
+title: "5.1 Governance, Risk, and Compliance Artifacts"
 description: "CompTIA Security+, 5.1 Governance, risk, and compliance artifacts: Guidelines, Standards, Procedures, Plans, Policies."
 ms.date: 2026-10-25
 ---
 
-# 5.1 Governance, risk, and compliance artifacts
+# 5.1 Governance, Risk, and Compliance Artifacts
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 5.1](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

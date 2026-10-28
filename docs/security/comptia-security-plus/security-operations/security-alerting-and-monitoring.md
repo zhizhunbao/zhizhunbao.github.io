@@ -1,10 +1,10 @@
 ---
-title: "4.4 Security alerting and monitoring"
+title: "4.4 Security Alerting and Monitoring"
 description: "CompTIA Security+, 4.4 Security alerting and monitoring: Monitoring computing resources, Activities, Tools, Protocols, Automated alerts, Port mirroring, Dashboards, Network management systems."
 ms.date: 2026-10-25
 ---
 
-# 4.4 Security alerting and monitoring
+# 4.4 Security Alerting and Monitoring
 
 Sources: [CompTIA Security+ SY0-801 V8 Exam Objectives, 4.4](https://lecbyo.files.cmp.optimizely.com/download/77f3bd3223ac11f180820e495f189928).
 

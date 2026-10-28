@@ -1,10 +1,10 @@
 ---
-title: "7.3 Common errors"
+title: "7.3 Common Errors"
 description: "Cypress, 7.3 Common errors."
 ms.date: 2026-10-25
 ---
 
-# 7.3 Common errors
+# 7.3 Common Errors
 
 Sources: [Cypress documentation, 7.3 Common errors](https://docs.cypress.io/app/references/error-messages).
 

@@ -1,10 +1,10 @@
 ---
-title: "2. Core architectural components of Azure"
+title: "2. Core Architectural Components of Azure"
 description: "Microsoft Azure, 2. Core architectural components of Azure: physical infrastructure and management infrastructure."
 ms.date: 2026-10-22
 ---
 
-# 2. Core architectural components of Azure
+# 2. Core Architectural Components of Azure
 
 ## Classification
 

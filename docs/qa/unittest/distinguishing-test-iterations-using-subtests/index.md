@@ -1,10 +1,10 @@
 ---
-title: "7. Distinguishing test iterations using subtests"
+title: "7. Distinguishing Test Iterations Using Subtests"
 description: "unittest, 7. Distinguishing test iterations using subtests."
 ms.date: 2026-10-25
 ---
 
-# 7. Distinguishing test iterations using subtests
+# 7. Distinguishing Test Iterations Using Subtests
 
 Sources: [unittest — Unit testing framework, 7. Distinguishing test iterations using subtests](https://docs.python.org/3/library/unittest.html#distinguishing-test-iterations-using-subtests).
 

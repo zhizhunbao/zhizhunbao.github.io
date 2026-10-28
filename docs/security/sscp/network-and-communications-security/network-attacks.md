@@ -1,10 +1,10 @@
 ---
-title: "6.2 Network attacks"
+title: "6.2 Network Attacks"
 description: "SSCP, 6.2 Network attacks: Distributed denial of service (DDoS), Man-in-the-middle (MITM), Domain Name System (DNS) cache poisoning."
 ms.date: 2026-10-25
 ---
 
-# 6.2 Network attacks
+# 6.2 Network Attacks
 
 Sources: [SSCP Certification Exam Outline, 6.2](https://www.isc2.org/certifications/sscp/sscp-certification-exam-outline).
 

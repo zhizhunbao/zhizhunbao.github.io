@@ -1,10 +1,10 @@
 ---
-title: "5.2 Generative AI prompts"
+title: "5.2 Generative AI Prompts"
 description: "CCNA v2.0, 5.2 Generative AI prompts: Data classification, Output format, Persona, Instructions."
 ms.date: 2026-10-25
 ---
 
-# 5.2 Generative AI prompts
+# 5.2 Generative AI Prompts
 
 Sources: [200-301 CCNA v2.0 Exam Topics, 5.2](https://learningnetwork.cisco.com/s/ccna-v2-exam-topics).
 

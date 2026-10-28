@@ -1,10 +1,10 @@
 ---
-title: "8.6 Time-critical rendering to achieve optimal Motion To Photon (MTP) latency"
+title: "8.6 Time-Critical Rendering to Achieve Optimal Motion To Photon (MTP) Latency"
 description: "CS2023 GIT-Immersion, 8.6 Time-critical rendering to achieve optimal Motion To Photon (MTP) latency (KA Core): Multiple Levels Of Details (LOD), Image-based VR, Branching movies."
 ms.date: 2026-10-25
 ---
 
-# 8.6 Time-critical rendering to achieve optimal Motion To Photon (MTP) latency
+# 8.6 Time-Critical Rendering to Achieve Optimal Motion To Photon (MTP) Latency
 
 Sources: [CS2023 Body of Knowledge, GIT-Immersion, topic 6, p. 100](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=100).
 

@@ -1,10 +1,10 @@
 ---
-title: "5.5 API testing"
+title: "5.5 API Testing"
 description: "Playwright, 5.5 API testing."
 ms.date: 2026-10-25
 ---
 
-# 5.5 API testing
+# 5.5 API Testing
 
 Sources: [Playwright documentation (Node.js), 5.5 API testing](https://playwright.dev/docs/api-testing).
 

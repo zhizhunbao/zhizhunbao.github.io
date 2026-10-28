@@ -4,125 +4,125 @@ items:
 - name: "1. Overview of Computer Systems"
   href: overview-of-computer-systems/index.md
   items:
-  - name: "1.1 Basic building blocks and components of a computer (gates, flip-flops, registers, interconnections; datapath + control + memory)"
+  - name: "1.1 Basic Building Blocks and Components of a Computer (gates, flip-flops, registers, interconnections; datapath + control + memory)"
     href: overview-of-computer-systems/basic-building-blocks-and-components-of-a-computer.md
-  - name: "1.2 Hardware as a computational paradigm: Fundamental logic building blocks; Logic expressions, minimization, sum of product forms"
+  - name: "1.2 Hardware as a Computational Paradigm: Fundamental Logic Building Blocks; Logic Expressions, Minimization, Sum of Product Forms"
     href: overview-of-computer-systems/hardware-as-a-computational-paradigm-fundamental-logic-building-blocks-logic-exp.md
-  - name: "1.3 Programming abstractions, interfaces, use of libraries"
+  - name: "1.3 Programming Abstractions, Interfaces, Use of Libraries"
     href: overview-of-computer-systems/programming-abstractions-interfaces-use-of-libraries.md
-  - name: "1.4 Distinction and interaction between application and OS services, remote procedure call"
+  - name: "1.4 Distinction and Interaction Between Application and OS Services, Remote Procedure Call"
     href: overview-of-computer-systems/distinction-and-interaction-between-application-and-os-services-remote-procedure.md
-  - name: "1.5 Basic concept of pipelining, overlapped processing stages"
+  - name: "1.5 Basic Concept of Pipelining, Overlapped Processing Stages"
     href: overview-of-computer-systems/basic-concept-of-pipelining-overlapped-processing-stages.md
-  - name: "1.6 Basic concept of scaling: performance vs problem size"
+  - name: "1.6 Basic Concept of Scaling: Performance vs Problem Size"
     href: overview-of-computer-systems/basic-concept-of-scaling-performance-vs-problem-size.md
 - name: "2. Basic Concepts"
   href: basic-concepts/index.md
   items:
   - name: "2.1 Digital vs Analog/Discrete vs Continuous Systems"
     href: basic-concepts/digital-vs-analog-discrete-vs-continuous-systems.md
-  - name: "2.2 Simple logic gates, logical expressions, Boolean logic simplification"
+  - name: "2.2 Simple Logic Gates, Logical Expressions, Boolean Logic Simplification"
     href: basic-concepts/simple-logic-gates-logical-expressions-boolean-logic-simplification.md
   - name: "2.3 Clocks, State, Sequencing"
     href: basic-concepts/clocks-state-sequencing.md
-  - name: "2.4 State and state transition (e.g., starting state, final state, life cycle of states)"
+  - name: "2.4 State and State Transition (e.g., starting state, final state, life cycle of states)"
     href: basic-concepts/state-and-state-transition.md
-  - name: "2.5 Finite state machines (e.g., NFA, DFA)"
+  - name: "2.5 Finite State Machines (e.g., NFA, DFA)"
     href: basic-concepts/finite-state-machines.md
   - name: "2.6 Combinational Logic, Sequential Logic, Registers, Memories"
     href: basic-concepts/combinational-logic-sequential-logic-registers-memories.md
-  - name: "2.7 Computers and Network Protocols as examples of State Machines"
+  - name: "2.7 Computers and Network Protocols as Examples of State Machines"
     href: basic-concepts/computers-and-network-protocols-as-examples-of-state-machines.md
   - name: "2.8 Sequential vs parallel processing."
     href: basic-concepts/sequential-vs-parallel-processing.md
-  - name: "2.9 Application-level sequential processing: single thread"
+  - name: "2.9 Application-Level Sequential Processing: Single Thread"
     href: basic-concepts/application-level-sequential-processing-single-thread.md
-  - name: "2.10 Simple application-level parallel processing: request level (web services/client-server/distributed), single thread per server, multiple threads with multiple servers, pipelining"
+  - name: "2.10 Simple Application-Level Parallel Processing: Request Level (web services/client-server/distributed), Single Thread per Server, Multiple Threads with Multiple Servers, Pipelining"
     href: basic-concepts/simple-application-level-parallel-processing-request-level-single-thread-per-ser.md
 - name: "3. Resource Management"
   href: resource-management/index.md
   items:
-  - name: "3.1 Different types of resources (e.g., processor share, memory, disk, net bandwidth)"
+  - name: "3.1 Different Types of Resources (e.g., processor share, memory, disk, net bandwidth)"
     href: resource-management/different-types-of-resources.md
-  - name: "3.2 Common resource allocation/scheduling algorithms (e.g., first-come-first-serve, priority-based scheduling, fair scheduling, and preemptive scheduling)"
+  - name: "3.2 Common Resource allocation/scheduling Algorithms (e.g., first-come-first-serve, priority-based scheduling, fair scheduling, and preemptive scheduling)"
     href: resource-management/common-resource-allocation-scheduling-algorithms.md
-  - name: "3.3 Advantages and disadvantages of common scheduling algorithms"
+  - name: "3.3 Advantages and Disadvantages of Common Scheduling Algorithms"
     href: resource-management/advantages-and-disadvantages-of-common-scheduling-algorithms.md
 - name: "4. System Performance"
   href: system-performance/index.md
   items:
-  - name: "4.1 Latencies in computer systems"
+  - name: "4.1 Latencies in Computer Systems"
     href: system-performance/latencies-in-computer-systems.md
-  - name: "4.2 Caches and the effects of spatial and temporal locality on performance in processors and systems"
+  - name: "4.2 Caches and the Effects of Spatial and Temporal Locality on Performance in Processors and Systems"
     href: system-performance/caches-and-the-effects-of-spatial-and-temporal-locality-on-performance-in-proces.md
-  - name: "4.3 Caches and cache coherency in databases, operating systems, distributed systems, and computer architecture"
+  - name: "4.3 Caches and Cache Coherency in Databases, Operating Systems, Distributed Systems, and Computer Architecture"
     href: system-performance/caches-and-cache-coherency-in-databases-operating-systems-distributed-systems-an.md
-  - name: "4.4 Introduction to the processor memory hierarchy"
+  - name: "4.4 Introduction to the Processor Memory Hierarchy"
     href: system-performance/introduction-to-the-processor-memory-hierarchy.md
-  - name: "4.5 The formula for average memory access time"
+  - name: "4.5 The Formula for Average Memory Access Time"
     href: system-performance/the-formula-for-average-memory-access-time.md
-  - name: "4.6 Rationale of virtualization and isolation: protection and predictable performance"
+  - name: "4.6 Rationale of Virtualization and Isolation: Protection and Predictable Performance"
     href: system-performance/rationale-of-virtualization-and-isolation-protection-and-predictable-performance.md
-  - name: "4.7 Levels of indirection, illustrated by virtual memory for managing physical memory resources"
+  - name: "4.7 Levels of Indirection, Illustrated by Virtual Memory for Managing Physical Memory Resources"
     href: system-performance/levels-of-indirection-illustrated-by-virtual-memory-for-managing-physical-memory.md
-  - name: "4.8 Methods for implementing virtual memory and virtual machines"
+  - name: "4.8 Methods for Implementing Virtual Memory and Virtual Machines"
     href: system-performance/methods-for-implementing-virtual-memory-and-virtual-machines.md
 - name: "5. Performance Evaluation"
   href: performance-evaluation/index.md
   items:
-  - name: "5.1 Performance figures of merit"
+  - name: "5.1 Performance Figures of Merit"
     href: performance-evaluation/performance-figures-of-merit.md
-  - name: "5.2 Workloads and representative benchmarks, and methods of collecting and analyzing performance figures of merit"
+  - name: "5.2 Workloads and Representative Benchmarks, and Methods of Collecting and Analyzing Performance Figures of Merit"
     href: performance-evaluation/workloads-and-representative-benchmarks-and-methods-of-collecting-and-analyzing.md
-  - name: "5.3 CPI (Cycles per Instruction) equation as a tool for understanding tradeoffs in the design of instruction sets, processor pipelines, and memory system organizations"
+  - name: "5.3 CPI (Cycles per Instruction) Equation as a Tool for Understanding Tradeoffs in the Design of Instruction Sets, Processor Pipelines, and Memory System Organizations"
     href: performance-evaluation/cpi-equation-as-a-tool-for-understanding-tradeoffs-in-the-design-of-instruction.md
-  - name: "5.4 Amdahl’s Law: the part of the computation that cannot be sped up limits the effect of the parts that can"
+  - name: "5.4 Amdahl’s Law: The Part of the Computation That Cannot Be Sped up Limits the Effect of the Parts That Can"
     href: performance-evaluation/amdahls-law-the-part-of-the-computation-that-cannot-be-sped-up-limits-the-effect.md
-  - name: "5.5 Order of magnitude analysis (Big O notation)"
+  - name: "5.5 Order of Magnitude Analysis (Big O notation)"
     href: performance-evaluation/order-of-magnitude-analysis.md
-  - name: "5.6 Analysis of slow and fast paths of a system"
+  - name: "5.6 Analysis of Slow and Fast Paths of a System"
     href: performance-evaluation/analysis-of-slow-and-fast-paths-of-a-system.md
-  - name: "5.7 Events on their effect on performance (e.g., instruction stalls, cache misses, page faults)"
+  - name: "5.7 Events on Their Effect on Performance (e.g., instruction stalls, cache misses, page faults)"
     href: performance-evaluation/events-on-their-effect-on-performance.md
-  - name: "5.7 Analytical tools to guide quantitative evaluation"
+  - name: "5.7 Analytical Tools to Guide Quantitative Evaluation"
     href: performance-evaluation/analytical-tools-to-guide-quantitative-evaluation.md
-  - name: "5.8 Understanding layered systems, workloads, and platforms, their implications for performance, and the challenges they represent for evaluation"
+  - name: "5.8 Understanding Layered Systems, Workloads, and Platforms, Their Implications for Performance, and the Challenges They Represent for Evaluation"
     href: performance-evaluation/understanding-layered-systems-workloads-and-platforms-their-implications-for-per.md
-  - name: "5.9 Microbenchmark pitfalls"
+  - name: "5.9 Microbenchmark Pitfalls"
     href: performance-evaluation/microbenchmark-pitfalls.md
 - name: "6. System Reliability"
   href: system-reliability/index.md
   items:
-  - name: "6.1 Distinction between bugs, faults, and failures"
+  - name: "6.1 Distinction Between Bugs, Faults, and Failures"
     href: system-reliability/distinction-between-bugs-faults-and-failures.md
-  - name: "6.2 Reliability vs availability"
+  - name: "6.2 Reliability vs Availability"
     href: system-reliability/reliability-vs-availability.md
-  - name: "6.3 Reliability through redundancy"
+  - name: "6.3 Reliability Through Redundancy"
     href: system-reliability/reliability-through-redundancy.md
-  - name: "6.4 Other approaches to reliability (e.g., journaling)"
+  - name: "6.4 Other Approaches to Reliability (e.g., journaling)"
     href: system-reliability/other-approaches-to-reliability.md
 - name: "7. System Security"
   href: system-security/index.md
   items:
-  - name: "7.1 Common system security issues (e.g., viruses, denial-of-service attacks, and eavesdropping)"
+  - name: "7.1 Common System Security Issues (e.g., viruses, denial-of-service attacks, and eavesdropping)"
     href: system-security/common-system-security-issues.md
   - name: "7.2 Countermeasures"
     href: system-security/countermeasures.md
-  - name: "7.3 Representative countermeasure systems"
+  - name: "7.3 Representative Countermeasure Systems"
     href: system-security/representative-countermeasure-systems.md
 - name: "8. System Design"
   href: system-design/index.md
   items:
-  - name: "8.1 Common criteria of system design (e.g., liveness, safety, robustness, scalability, and security)"
+  - name: "8.1 Common Criteria of System Design (e.g., liveness, safety, robustness, scalability, and security)"
     href: system-design/common-criteria-of-system-design.md
-  - name: "8.2 Designs of representative systems (e.g., Apache web server, Spark, and Linux)"
+  - name: "8.2 Designs of Representative Systems (e.g., Apache web server, Spark, and Linux)"
     href: system-design/designs-of-representative-systems.md
 - name: "9. Society, Ethics, and the Profession"
   href: society-ethics-and-the-profession/index.md
   items:
-  - name: "9.1 Intellectual property rights of computer systems"
+  - name: "9.1 Intellectual Property Rights of Computer Systems"
     href: society-ethics-and-the-profession/intellectual-property-rights-of-computer-systems.md
-  - name: "9.2 Common software licenses"
+  - name: "9.2 Common Software Licenses"
     href: society-ethics-and-the-profession/common-software-licenses.md
-  - name: "9.3 Computer crimes"
+  - name: "9.3 Computer Crimes"
     href: society-ethics-and-the-profession/computer-crimes.md

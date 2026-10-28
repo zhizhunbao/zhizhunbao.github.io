@@ -1,10 +1,10 @@
 ---
-title: "27.3 Cloud design patterns"
+title: "27.3 Cloud Design Patterns"
 description: "Microsoft Azure, 27.3 Cloud design patterns: Cache-Aside, Circuit Breaker, Competing Consumers, Event Sourcing, Gateway Aggregation, Gateway Offloading, Gateway Routing, Publisher-Subscriber, Queue-Based Load Leveling, Retry, Sharding."
 ms.date: 2026-10-27
 ---
 
-# 27.3 Cloud design patterns
+# 27.3 Cloud Design Patterns
 
 ## Classification
 

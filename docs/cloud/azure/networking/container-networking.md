@@ -1,10 +1,10 @@
 ---
-title: "7.6 Container networking"
+title: "7.6 Container Networking"
 description: "Microsoft Azure, 7.6 Container networking: Container network security, Container network observability."
 ms.date: 2026-10-27
 ---
 
-# 7.6 Container networking
+# 7.6 Container Networking
 
 ## Classification
 

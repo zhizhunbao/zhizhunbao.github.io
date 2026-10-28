@@ -1,10 +1,10 @@
 ---
-title: "27.4 Technology choices"
+title: "27.4 Technology Choices"
 description: "Microsoft Azure, 27.4 Technology choices: Compute, Data stores, Messaging, AI."
 ms.date: 2026-10-27
 ---
 
-# 27.4 Technology choices
+# 27.4 Technology Choices
 
 ## Classification
 

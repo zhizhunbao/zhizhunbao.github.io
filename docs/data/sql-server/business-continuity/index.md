@@ -1,10 +1,10 @@
 ---
-title: "5. Business continuity"
+title: "5. Business Continuity"
 description: "SQL Server, 5. Business continuity: Always On; Backup & restore, Always On availability groups, Always On failover cluster instance, Database mirroring, Log shipping."
 ms.date: 2026-10-26
 ---
 
-# 5. Business continuity
+# 5. Business Continuity
 
 ## Classification
 

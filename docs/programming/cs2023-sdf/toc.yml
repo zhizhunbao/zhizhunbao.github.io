@@ -4,25 +4,25 @@ items:
 - name: "1. Fundamental Programming Concepts and Practices"
   href: fundamental-programming-concepts-and-practices/index.md
   items:
-  - name: "1.1 Basic concepts such as variables, primitive data types, expressions, and their evaluation"
+  - name: "1.1 Basic Concepts Such as Variables, Primitive Data Types, Expressions, and Their Evaluation"
     href: fundamental-programming-concepts-and-practices/basic-concepts-such-as-variables-primitive-data-types-expressions-and-their-eval.md
-  - name: "1.2 How imperative programs work: state and state transitions on execution of statements, flow of control"
+  - name: "1.2 How Imperative Programs Work: State and State Transitions on Execution of Statements, Flow of Control"
     href: fundamental-programming-concepts-and-practices/how-imperative-programs-work-state-and-state-transitions-on-execution-of-stateme.md
-  - name: "1.3 Basic constructs such as assignment statements, conditional and iterative statements, basic I/O"
+  - name: "1.3 Basic Constructs Such as Assignment Statements, Conditional and Iterative Statements, Basic I/O"
     href: fundamental-programming-concepts-and-practices/basic-constructs-such-as-assignment-statements-conditional-and-iterative-stateme.md
-  - name: "1.4 Key modularity constructs such as functions (and methods and classes, if supported in the language) and related concepts like parameter passing, scope, abstraction, data encapsulation"
+  - name: "1.4 Key Modularity Constructs Such as Functions (and methods and classes, if supported in the language) and Related Concepts Like Parameter Passing, Scope, Abstraction, Data Encapsulation"
     href: fundamental-programming-concepts-and-practices/key-modularity-constructs-such-as-functions-and-related-concepts-like-parameter.md
-  - name: "1.5 Input and output using files and APIs"
+  - name: "1.5 Input and Output Using Files and APIs"
     href: fundamental-programming-concepts-and-practices/input-and-output-using-files-and-apis.md
-  - name: "1.6 Structured data types available in the chosen programming language like sequences (e.g., arrays, lists), associative containers (e.g., dictionaries, maps), others (e.g., sets, tuples) and when and how to use them"
+  - name: "1.6 Structured Data Types Available in the Chosen Programming Language Like Sequences (e.g., arrays, lists), Associative Containers (e.g., dictionaries, maps), Others (e.g., sets, tuples) and When and How to Use Them"
     href: fundamental-programming-concepts-and-practices/structured-data-types-available-in-the-chosen-programming-language-like-sequence.md
-  - name: "1.7 Libraries and frameworks provided by the language (when/where applicable)"
+  - name: "1.7 Libraries and Frameworks Provided by the Language (when/where applicable)"
     href: fundamental-programming-concepts-and-practices/libraries-and-frameworks-provided-by-the-language.md
   - name: "1.8 Recursion"
     href: fundamental-programming-concepts-and-practices/recursion.md
   - name: "1.9 Dealing with runtime errors in programs (e.g., exception handling)."
     href: fundamental-programming-concepts-and-practices/dealing-with-runtime-errors-in-programs.md
-  - name: "1.10 Basic concepts of programming errors, testing, and debugging"
+  - name: "1.10 Basic Concepts of Programming Errors, Testing, and Debugging"
     href: fundamental-programming-concepts-and-practices/basic-concepts-of-programming-errors-testing-and-debugging.md
   - name: "1.11 Documenting/commenting code at the program and module level."
     href: fundamental-programming-concepts-and-practices/documenting-commenting-code-at-the-program-and-module-level.md
@@ -42,20 +42,20 @@ items:
 - name: "3. Algorithms"
   href: algorithms/index.md
   items:
-  - name: "3.1 Concept of algorithm and notion of algorithm efficiency"
+  - name: "3.1 Concept of Algorithm and Notion of Algorithm Efficiency"
     href: algorithms/concept-of-algorithm-and-notion-of-algorithm-efficiency.md
-  - name: "3.2 Some common algorithms (e.g., sorting, searching, tree traversal, graph traversal)"
+  - name: "3.2 Some Common Algorithms (e.g., sorting, searching, tree traversal, graph traversal)"
     href: algorithms/some-common-algorithms.md
-  - name: "3.3 Impact of algorithms on time-space efficiency of programs"
+  - name: "3.3 Impact of Algorithms on Time-Space Efficiency of Programs"
     href: algorithms/impact-of-algorithms-on-time-space-efficiency-of-programs.md
 - name: "4. Software Development Practices"
   href: software-development-practices/index.md
   items:
-  - name: "4.1 Basic testing, including test case design"
+  - name: "4.1 Basic Testing, Including Test Case Design"
     href: software-development-practices/basic-testing-including-test-case-design.md
-  - name: "4.2 Use of a general-purpose IDE, including its debugger"
+  - name: "4.2 Use of a General-Purpose IDE, Including Its Debugger"
     href: software-development-practices/use-of-a-general-purpose-ide-including-its-debugger.md
-  - name: "4.3 Programming style that improves readability"
+  - name: "4.3 Programming Style That Improves Readability"
     href: software-development-practices/programming-style-that-improves-readability.md
   - name: "4.4 Specifying functionality of a module in a natural language."
     href: software-development-practices/specifying-functionality-of-a-module-in-a-natural-language.md

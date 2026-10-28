@@ -1,10 +1,10 @@
 ---
-title: "8.4 Security impact of acquired software"
+title: "8.4 Security Impact of Acquired Software"
 description: "CISSP, 8.4 Security impact of acquired software."
 ms.date: 2026-10-25
 ---
 
-# 8.4 Security impact of acquired software
+# 8.4 Security Impact of Acquired Software
 
 Sources: [CISSP Certification Exam Outline, 8.4](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

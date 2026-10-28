@@ -1,10 +1,10 @@
 ---
-title: "8.2 Storage redundancy"
+title: "8.2 Storage Redundancy"
 description: "Microsoft Azure, 8.2 Storage redundancy: Locally redundant storage (LRS), Zone-redundant storage (ZRS), Geo-redundant storage (GRS), Geo-zone-redundant storage (GZRS), Read-access GRS (RA-GRS), Read-access GZRS (RA-GZRS)."
 ms.date: 2026-10-27
 ---
 
-# 8.2 Storage redundancy
+# 8.2 Storage Redundancy
 
 ## Classification
 

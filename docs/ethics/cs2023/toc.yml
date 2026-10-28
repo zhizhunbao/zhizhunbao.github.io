@@ -12,141 +12,141 @@ items:
     href: social-context/consequences-of-involving-computing-technologies-particularly-artificial-intelli.md
   - name: "1.4 How deficits in diversity and accessibility in computing affect society and what steps can be taken to improve equity in computing."
     href: social-context/how-deficits-in-diversity-and-accessibility-in-computing-affect-society-and-what.md
-  - name: "1.5 Growth and control of the internet, data, computing, and artificial intelligence"
+  - name: "1.5 Growth and Control of the Internet, Data, Computing, and Artificial Intelligence"
     href: social-context/growth-and-control-of-the-internet-data-computing-and-artificial-intelligence.md
   - name: "1.6 Often referred to as the digital divide, differences in access to digital technology resources and its resulting ramifications for gender, class, ethnicity, geography, and/or developing countries, including consideration of responsibility to those who might be less wealthy, under threat, or who would struggle to have their voices heard."
     href: social-context/often-referred-to-as-the-digital-divide-differences-in-access-to-digital-technol.md
-  - name: "1.7 Accessibility issues, including legal requirements such as Web Content Accessibility Guidelines (www.w3.org/TR/WCAG21)"
+  - name: "1.7 Accessibility Issues, Including Legal Requirements Such as Web Content Accessibility Guidelines (www.w3.org/TR/WCAG21)"
     href: social-context/accessibility-issues-including-legal-requirements-such-as-web-content-accessibil.md
-  - name: "1.8 Context-aware computing"
+  - name: "1.8 Context-Aware Computing"
     href: social-context/context-aware-computing.md
 - name: "2. Methods for Ethical Analysis"
   href: methods-for-ethical-analysis/index.md
   items:
-  - name: "2.1 Avoiding fallacies and misrepresentation in argumentation"
+  - name: "2.1 Avoiding Fallacies and Misrepresentation in Argumentation"
     href: methods-for-ethical-analysis/avoiding-fallacies-and-misrepresentation-in-argumentation.md
-  - name: "2.2 Ethical theories and decision-making (philosophical and social frameworks, e.g. [1])"
+  - name: "2.2 Ethical Theories and Decision-Making (philosophical and social frameworks, e.g. [1])"
     href: methods-for-ethical-analysis/ethical-theories-and-decision-making.md
-  - name: "2.3 Recognition of the role culture plays in our understanding, adoption, design, and use of computing technology"
+  - name: "2.3 Recognition of the Role Culture Plays in Our Understanding, Adoption, Design, and Use of Computing Technology"
     href: methods-for-ethical-analysis/recognition-of-the-role-culture-plays-in-our-understanding-adoption-design-and-u.md
-  - name: "2.4 Why ethics is important in computing, and how ethics is similar to, and different from, laws and social norms"
+  - name: "2.4 Why Ethics Is Important in Computing, and How Ethics Is Similar to, and Different from, Laws and Social Norms"
     href: methods-for-ethical-analysis/why-ethics-is-important-in-computing-and-how-ethics-is-similar-to-and-different.md
-  - name: "2.5 Professional checklists"
+  - name: "2.5 Professional Checklists"
     href: methods-for-ethical-analysis/professional-checklists.md
-  - name: "2.6 Evaluation rubrics"
+  - name: "2.6 Evaluation Rubrics"
     href: methods-for-ethical-analysis/evaluation-rubrics.md
-  - name: "2.7 Stakeholder analysis"
+  - name: "2.7 Stakeholder Analysis"
     href: methods-for-ethical-analysis/stakeholder-analysis.md
-  - name: "2.8 Standpoint theory"
+  - name: "2.8 Standpoint Theory"
     href: methods-for-ethical-analysis/standpoint-theory.md
-  - name: "2.9 Introduction to ethical frameworks (e.g., consequentialism such as utilitarianism, non- consequentialism such as duty, rights, or justice, agent-centered such as virtue or feminism, contractarianism, ethics of care) and their use for analyzing an ethical dilemma"
+  - name: "2.9 Introduction to Ethical Frameworks (e.g., consequentialism such as utilitarianism, non- consequentialism such as duty, rights, or justice, agent-centered such as virtue or feminism, contractarianism, ethics of care) and Their Use for Analyzing an Ethical Dilemma"
     href: methods-for-ethical-analysis/introduction-to-ethical-frameworks-and-their-use-for-analyzing-an-ethical-dilemm.md
 - name: "3. Professional Ethics"
   href: professional-ethics/index.md
   items:
-  - name: "3.1 Community values and the laws by which we live"
+  - name: "3.1 Community Values and the Laws by Which We Live"
     href: professional-ethics/community-values-and-the-laws-by-which-we-live.md
-  - name: "3.2 The nature of being a professional including care, attention, discipline, fiduciary responsibility, and mentoring"
+  - name: "3.2 The Nature of Being a Professional Including Care, Attention, Discipline, Fiduciary Responsibility, and Mentoring"
     href: professional-ethics/the-nature-of-being-a-professional-including-care-attention-discipline-fiduciary.md
-  - name: "3.3 Keeping up to date as a computing professional in terms of familiarity, tools, skills, legal and professional frameworks as well as the ability and responsibility to self-assess and progress in the computing field"
+  - name: "3.3 Keeping up to Date as a Computing Professional in Terms of Familiarity, Tools, Skills, Legal and Professional Frameworks as Well as the Ability and Responsibility to Self-Assess and Progress in the Computing Field"
     href: professional-ethics/keeping-up-to-date-as-a-computing-professional-in-terms-of-familiarity-tools-ski.md
-  - name: "3.4 Professional certification, codes of ethics, conduct, and practice, such as the ACM, IEEE, AAAI, and other international societies"
+  - name: "3.4 Professional Certification, Codes of Ethics, Conduct, and Practice, Such as the ACM, IEEE, AAAI, and Other International Societies"
     href: professional-ethics/professional-certification-codes-of-ethics-conduct-and-practice-such-as-the-acm.md
   - name: "3.5 Accountability, responsibility, and liability (e.g., software correctness, reliability and safety, warranty, negligence, strict liability, ethical approaches to security vulnerability disclosures) including whether a product/service should be built, not just doing so because it is technically possible."
     href: professional-ethics/accountability-responsibility-and-liability-including-whether-a-product-service.md
-  - name: "3.6 Introduction to theories describing the human creation and use of technology including instrumentalism, sociology of technological systems, disability justice, neutrality thesis, pragmatism, and decolonial models, including developing and using technology to right wrongs and do good"
+  - name: "3.6 Introduction to Theories Describing the Human Creation and Use of Technology Including Instrumentalism, Sociology of Technological Systems, Disability Justice, Neutrality Thesis, Pragmatism, and Decolonial Models, Including Developing and Using Technology to Right Wrongs and Do Good"
     href: professional-ethics/introduction-to-theories-describing-the-human-creation-and-use-of-technology-inc.md
-  - name: "3.7 Strategies for recognizing and reporting designs, systems, software, and professional conduct (or their outcomes) that may violate law or professional codes of ethics"
+  - name: "3.7 Strategies for Recognizing and Reporting Designs, Systems, Software, and Professional Conduct (or their outcomes) That May Violate Law or Professional Codes of Ethics"
     href: professional-ethics/strategies-for-recognizing-and-reporting-designs-systems-software-and-profession.md
-  - name: "3.8 The role of the computing professional and professional societies in public policy"
+  - name: "3.8 The Role of the Computing Professional and Professional Societies in Public Policy"
     href: professional-ethics/the-role-of-the-computing-professional-and-professional-societies-in-public-poli.md
-  - name: "3.9 Maintaining awareness of consequences"
+  - name: "3.9 Maintaining Awareness of Consequences"
     href: professional-ethics/maintaining-awareness-of-consequences.md
-  - name: "3.10 Ethical dissent and whistleblowing"
+  - name: "3.10 Ethical Dissent and Whistleblowing"
     href: professional-ethics/ethical-dissent-and-whistleblowing.md
-  - name: "3.11 The relationship between regional culture and ethical dilemmas"
+  - name: "3.11 The Relationship Between Regional Culture and Ethical Dilemmas"
     href: professional-ethics/the-relationship-between-regional-culture-and-ethical-dilemmas.md
-  - name: "3.12 Dealing with harassment and discrimination"
+  - name: "3.12 Dealing with Harassment and Discrimination"
     href: professional-ethics/dealing-with-harassment-and-discrimination.md
-  - name: "3.13 Forms of professional credentialing"
+  - name: "3.13 Forms of Professional Credentialing"
     href: professional-ethics/forms-of-professional-credentialing.md
-  - name: "3.14 Ergonomics and healthy computing environments"
+  - name: "3.14 Ergonomics and Healthy Computing Environments"
     href: professional-ethics/ergonomics-and-healthy-computing-environments.md
-  - name: "3.15 Time-to-market and cost considerations versus quality professional standards"
+  - name: "3.15 Time-to-Market and Cost Considerations versus Quality Professional Standards"
     href: professional-ethics/time-to-market-and-cost-considerations-versus-quality-professional-standards.md
 - name: "4. Intellectual Property"
   href: intellectual-property/index.md
   items:
-  - name: "4.1 Intellectual property rights"
+  - name: "4.1 Intellectual Property Rights"
     href: intellectual-property/intellectual-property-rights.md
-  - name: "4.2 Intangible digital intellectual property (IDIP)"
+  - name: "4.2 Intangible Digital Intellectual Property (IDIP)"
     href: intellectual-property/intangible-digital-intellectual-property.md
-  - name: "4.3 Legal foundations for intellectual property protection"
+  - name: "4.3 Legal Foundations for Intellectual Property Protection"
     href: intellectual-property/legal-foundations-for-intellectual-property-protection.md
-  - name: "4.4 Common software licenses (e.g., MIT, GPL and its variants, Apache, Mozilla, Creative Commons)"
+  - name: "4.4 Common Software Licenses (e.g., MIT, GPL and its variants, Apache, Mozilla, Creative Commons)"
     href: intellectual-property/common-software-licenses.md
-  - name: "4.5 Plagiarism and authorship"
+  - name: "4.5 Plagiarism and Authorship"
     href: intellectual-property/plagiarism-and-authorship.md
-  - name: "4.6 Philosophical foundations of intellectual property"
+  - name: "4.6 Philosophical Foundations of Intellectual Property"
     href: intellectual-property/philosophical-foundations-of-intellectual-property.md
-  - name: "4.7 Forms of intellectual property (e.g., copyrights, patents, trade secrets, trademarks) and the rights they protect"
+  - name: "4.7 Forms of Intellectual Property (e.g., copyrights, patents, trade secrets, trademarks) and the Rights They Protect"
     href: intellectual-property/forms-of-intellectual-property-and-the-rights-they-protect.md
-  - name: "4.8 Limitations on copyright protections, including fair use and the first sale doctrine"
+  - name: "4.8 Limitations on Copyright Protections, Including Fair Use and the First Sale Doctrine"
     href: intellectual-property/limitations-on-copyright-protections-including-fair-use-and-the-first-sale-doctr.md
-  - name: "4.9 Intellectual property laws and treaties that impact the enforcement of copyrights"
+  - name: "4.9 Intellectual Property Laws and Treaties That Impact the Enforcement of Copyrights"
     href: intellectual-property/intellectual-property-laws-and-treaties-that-impact-the-enforcement-of-copyright.md
-  - name: "4.10 Software piracy and technical methods for enforcing intellectual property rights, such as digital rights management and closed source software as a trade secret"
+  - name: "4.10 Software Piracy and Technical Methods for Enforcing Intellectual Property Rights, Such as Digital Rights Management and Closed Source Software as a Trade Secret"
     href: intellectual-property/software-piracy-and-technical-methods-for-enforcing-intellectual-property-rights.md
-  - name: "4.11 Moral and legal foundations of the open-source movement"
+  - name: "4.11 Moral and Legal Foundations of the Open-Source Movement"
     href: intellectual-property/moral-and-legal-foundations-of-the-open-source-movement.md
-  - name: "4.12 Systems that use others’ data (e.g., large language models)"
+  - name: "4.12 Systems That Use Others’ Data (e.g., large language models)"
     href: intellectual-property/systems-that-use-others-data.md
 - name: "5. Privacy and Civil Liberties"
   href: privacy-and-civil-liberties/index.md
   items:
-  - name: "5.1 Privacy implications of widespread data collection including but not limited to transactional databases, data warehouses, surveillance systems, cloud computing, and artificial intelligence"
+  - name: "5.1 Privacy Implications of Widespread Data Collection Including but Not Limited to Transactional Databases, Data Warehouses, Surveillance Systems, Cloud Computing, and Artificial Intelligence"
     href: privacy-and-civil-liberties/privacy-implications-of-widespread-data-collection-including-but-not-limited-to.md
-  - name: "5.2 Conceptions of anonymity, pseudonymity, and identity"
+  - name: "5.2 Conceptions of Anonymity, Pseudonymity, and Identity"
     href: privacy-and-civil-liberties/conceptions-of-anonymity-pseudonymity-and-identity.md
-  - name: "5.3 Technology-based solutions for privacy protection (e.g., end-to-end encryption and differential privacy)"
+  - name: "5.3 Technology-Based Solutions for Privacy Protection (e.g., end-to-end encryption and differential privacy)"
     href: privacy-and-civil-liberties/technology-based-solutions-for-privacy-protection.md
-  - name: "5.4 Civil liberties, privacy rights, and cultural differences"
+  - name: "5.4 Civil Liberties, Privacy Rights, and Cultural Differences"
     href: privacy-and-civil-liberties/civil-liberties-privacy-rights-and-cultural-differences.md
-  - name: "5.5 Philosophical and legal conceptions of the nature of privacy including the right to privacy"
+  - name: "5.5 Philosophical and Legal Conceptions of the Nature of Privacy Including the Right to Privacy"
     href: privacy-and-civil-liberties/philosophical-and-legal-conceptions-of-the-nature-of-privacy-including-the-right.md
-  - name: "5.6 Legal foundations of privacy protection in relevant jurisdictions (e.g., GDPR in the EU)"
+  - name: "5.6 Legal Foundations of Privacy Protection in Relevant Jurisdictions (e.g., GDPR in the EU)"
     href: privacy-and-civil-liberties/legal-foundations-of-privacy-protection-in-relevant-jurisdictions.md
-  - name: "5.7 Privacy legislation in areas of practice (e.g., HIPAA in the US, AI Act in the EU)"
+  - name: "5.7 Privacy Legislation in Areas of Practice (e.g., HIPAA in the US, AI Act in the EU)"
     href: privacy-and-civil-liberties/privacy-legislation-in-areas-of-practice.md
-  - name: "5.8 Basic Principles of human-subjects research and principles beyond what the law requires (e.g., Belmont Report, UN Universal Declaration on Human Rights and how this relates to technology)"
+  - name: "5.8 Basic Principles of Human-Subjects Research and Principles Beyond What the Law Requires (e.g., Belmont Report, UN Universal Declaration on Human Rights and how this relates to technology)"
     href: privacy-and-civil-liberties/basic-principles-of-human-subjects-research-and-principles-beyond-what-the-law-r.md
-  - name: "5.9 Freedom of expression and its limitations"
+  - name: "5.9 Freedom of Expression and Its Limitations"
     href: privacy-and-civil-liberties/freedom-of-expression-and-its-limitations.md
-  - name: "5.10 User-generated content, content moderation, and liability"
+  - name: "5.10 User-Generated Content, Content Moderation, and Liability"
     href: privacy-and-civil-liberties/user-generated-content-content-moderation-and-liability.md
 - name: "6. Communication"
   href: communication/index.md
   items:
-  - name: "6.1 Oral, written, and electronic team and group communication"
+  - name: "6.1 Oral, Written, and Electronic Team and Group Communication"
     href: communication/oral-written-and-electronic-team-and-group-communication.md
-  - name: "6.2 Technical communication materials (e.g., source code, and documentation, tutorials, reference materials, API documentation)"
+  - name: "6.2 Technical Communication Materials (e.g., source code, and documentation, tutorials, reference materials, API documentation)"
     href: communication/technical-communication-materials.md
-  - name: "6.3 Communicating with different stakeholders such as customers, leadership, or the public"
+  - name: "6.3 Communicating with Different Stakeholders Such as Customers, Leadership, or the Public"
     href: communication/communicating-with-different-stakeholders-such-as-customers-leadership-or-the-pu.md
-  - name: "6.4 Team collaboration (including tools) and conflict resolution"
+  - name: "6.4 Team Collaboration (including tools) and Conflict Resolution"
     href: communication/team-collaboration-and-conflict-resolution.md
-  - name: "6.5 Accessibility and inclusivity requirements for addressing professional audiences"
+  - name: "6.5 Accessibility and Inclusivity Requirements for Addressing Professional Audiences"
     href: communication/accessibility-and-inclusivity-requirements-for-addressing-professional-audiences.md
-  - name: "6.6 Cultural competence in communication including considering the impact of difference in natural language"
+  - name: "6.6 Cultural Competence in Communication Including Considering the Impact of Difference in Natural Language"
     href: communication/cultural-competence-in-communication-including-considering-the-impact-of-differe.md
-  - name: "6.7 Tradeoffs in competing factors that affect communication channels and choices"
+  - name: "6.7 Tradeoffs in Competing Factors That Affect Communication Channels and Choices"
     href: communication/tradeoffs-in-competing-factors-that-affect-communication-channels-and-choices.md
-  - name: "6.8 Communicating to solve problems or make recommendations in the workplace, such as raising ethical concerns or addressing accessibility issues"
+  - name: "6.8 Communicating to Solve Problems or Make Recommendations in the Workplace, Such as Raising Ethical Concerns or Addressing Accessibility Issues"
     href: communication/communicating-to-solve-problems-or-make-recommendations-in-the-workplace-such-as.md
 - name: "7. Sustainability"
   href: sustainability/index.md
   items:
-  - name: "7.1 Environmental, social, and cultural impacts of implementation decisions (e.g., sustainability goals, algorithmic bias/outcomes, economic viability, and resource consumption)"
+  - name: "7.1 Environmental, Social, and Cultural Impacts of Implementation Decisions (e.g., sustainability goals, algorithmic bias/outcomes, economic viability, and resource consumption)"
     href: sustainability/environmental-social-and-cultural-impacts-of-implementation-decisions.md
   - name: "7.2 Local/regional/global social and environmental impacts of computing systems and their use (e.g., carbon footprints, resource usage, e-waste) due to hardware (e.g., e-waste, data centers, rare element and resource utilization, recycling) and software (e.g., cloud-based services, blockchain, AI model training and use). This includes everyday use of hardware (cheap hardware replaced frequently) and software (web-browsing, email, and other services with hidden/remote computational demands)."
     href: sustainability/local-regional-global-social-and-environmental-impacts-of-computing-systems-and.md
@@ -165,72 +165,72 @@ items:
     href: computing-history/the-history-of-computing-hardware-software-and-human-organizational.md
   - name: "8.2 The role of history in the present including within different social contexts, and the relevance of this history on the future."
     href: computing-history/the-role-of-history-in-the-present-including-within-different-social-contexts-an.md
-  - name: "8.3 Age I (Pre-digital): Ancient analog computing (Stonehenge, Antikythera mechanism, Salisbury Cathedral clock, etc.), human-calculated number tables, Euclid, Lovelace, Babbage, Gödel, Church, Turing, pre-electronic (electro-mechanical and mechanical) hardware"
+  - name: "8.3 Age I (Pre-digital): Ancient Analog Computing (Stonehenge, Antikythera mechanism, Salisbury Cathedral clock, etc.), Human-Calculated Number Tables, Euclid, Lovelace, Babbage, Gödel, Church, Turing, Pre-Electronic (electro-mechanical and mechanical) Hardware"
     href: computing-history/age-i-ancient-analog-computing-human-calculated-number-tables-euclid-lovelace-ba.md
   - name: "8.4 Age II (Early modern computing): ENIAC, UNIVAC, Bombes (Bletchley Park and codebreakers), computer companies (e.g., IBM), mainframes, etc."
     href: computing-history/age-ii-eniac-univac-bombes-computer-companies-mainframes-etc.md
-  - name: "8.5 Age III (PC era): PCs, modern computer hardware and software, Moore’s Law"
+  - name: "8.5 Age III (PC era): PCs, Modern Computer Hardware and Software, Moore’s Law"
     href: computing-history/age-iii-pcs-modern-computer-hardware-and-software-moores-law.md
-  - name: "8.6 Age IV (Internet): Networking, internet architecture, browsers and their evolution, standards, born- on-the-internet companies, and services (e.g., Google, Amazon, Microsoft, etc.), distributed computing"
+  - name: "8.6 Age IV (Internet): Networking, Internet Architecture, Browsers and Their Evolution, Standards, born- On-the-Internet Companies, and Services (e.g., Google, Amazon, Microsoft, etc.), Distributed Computing"
     href: computing-history/age-iv-networking-internet-architecture-browsers-and-their-evolution-standards-b.md
-  - name: "8.7 Age V (Mobile & Cloud): Mobile computing and smartphones, cloud computing and models thereof (e.g., SaaS), remote servers, security and privacy, social media"
+  - name: "8.7 Age V (Mobile & Cloud): Mobile Computing and Smartphones, Cloud Computing and Models Thereof (e.g., SaaS), Remote Servers, Security and Privacy, Social Media"
     href: computing-history/age-v-mobile-computing-and-smartphones-cloud-computing-and-models-thereof-remote.md
-  - name: "8.8 Age VI (AI): Decision making systems, recommender systems, generative AI and other machine learning driven tools and technologies"
+  - name: "8.8 Age VI (AI): Decision Making Systems, Recommender Systems, Generative AI and Other Machine Learning Driven Tools and Technologies"
     href: computing-history/age-vi-decision-making-systems-recommender-systems-generative-ai-and-other-machi.md
 - name: "9. Economies of Computing"
   href: economies-of-computing/index.md
   items:
-  - name: "9.1 Economic models: regulated and unregulated, monopolies, network effects, and open market; knowledge and attention economies"
+  - name: "9.1 Economic Models: Regulated and Unregulated, Monopolies, Network Effects, and Open Market; Knowledge and Attention Economies"
     href: economies-of-computing/economic-models-regulated-and-unregulated-monopolies-network-effects-and-open-ma.md
-  - name: "9.2 Pricing and deployment strategies: planned obsolescence, subscriptions, freemium, software licensing, open-source, free software, adware"
+  - name: "9.2 Pricing and Deployment Strategies: Planned Obsolescence, Subscriptions, Freemium, Software Licensing, Open-Source, Free Software, Adware"
     href: economies-of-computing/pricing-and-deployment-strategies-planned-obsolescence-subscriptions-freemium-so.md
-  - name: "9.3 Impacts of differences in access to computing resources, and the effect of skilled labor supply and demand on the quality of computing products"
+  - name: "9.3 Impacts of Differences in Access to Computing Resources, and the Effect of Skilled Labor Supply and Demand on the Quality of Computing Products"
     href: economies-of-computing/impacts-of-differences-in-access-to-computing-resources-and-the-effect-of-skille.md
-  - name: "9.4 Automation, AI, and their effects on job markets, developers, and users"
+  - name: "9.4 Automation, AI, and Their Effects on Job Markets, Developers, and Users"
     href: economies-of-computing/automation-ai-and-their-effects-on-job-markets-developers-and-users.md
-  - name: "9.5 Ethical concerns surrounding the attention economy and other economies of computing (e.g. informed consent, data collection, use of verbose legalese in user agreements)"
+  - name: "9.5 Ethical Concerns Surrounding the Attention Economy and Other Economies of Computing (e.g. informed consent, data collection, use of verbose legalese in user agreements)"
     href: economies-of-computing/ethical-concerns-surrounding-the-attention-economy-and-other-economies-of-comput.md
 - name: "10. Security Policies, Laws and Computer Crimes"
   href: security-policies-laws-and-computer-crimes/index.md
   items:
-  - name: "10.1 Computer crimes, legal redress for computer criminals and impact on victims and society"
+  - name: "10.1 Computer Crimes, Legal Redress for Computer Criminals and Impact on Victims and Society"
     href: security-policies-laws-and-computer-crimes/computer-crimes-legal-redress-for-computer-criminals-and-impact-on-victims-and-s.md
-  - name: "10.2 Social engineering, computing-enabled fraud, identity theft and recovery from these"
+  - name: "10.2 Social Engineering, Computing-Enabled Fraud, Identity Theft and Recovery from These"
     href: security-policies-laws-and-computer-crimes/social-engineering-computing-enabled-fraud-identity-theft-and-recovery-from-thes.md
-  - name: "10.3 Cyber terrorism, criminal hacking, and hacktivism"
+  - name: "10.3 Cyber Terrorism, Criminal Hacking, and Hacktivism"
     href: security-policies-laws-and-computer-crimes/cyber-terrorism-criminal-hacking-and-hacktivism.md
-  - name: "10.4 Malware, viruses, worms"
+  - name: "10.4 Malware, Viruses, Worms"
     href: security-policies-laws-and-computer-crimes/malware-viruses-worms.md
-  - name: "10.5 Attacks on critical infrastructure such as electrical grids and pipelines"
+  - name: "10.5 Attacks on Critical Infrastructure Such as Electrical Grids and Pipelines"
     href: security-policies-laws-and-computer-crimes/attacks-on-critical-infrastructure-such-as-electrical-grids-and-pipelines.md
-  - name: "10.6 Non-technical fundamentals of security (e.g., human engineering, policy, confidentiality)"
+  - name: "10.6 Non-Technical Fundamentals of Security (e.g., human engineering, policy, confidentiality)"
     href: security-policies-laws-and-computer-crimes/non-technical-fundamentals-of-security.md
-  - name: "10.7 Benefits and challenges of existing and proposed computer crime laws"
+  - name: "10.7 Benefits and Challenges of Existing and Proposed Computer Crime Laws"
     href: security-policies-laws-and-computer-crimes/benefits-and-challenges-of-existing-and-proposed-computer-crime-laws.md
-  - name: "10.8 Security policies and the challenges of change and compliance"
+  - name: "10.8 Security Policies and the Challenges of Change and Compliance"
     href: security-policies-laws-and-computer-crimes/security-policies-and-the-challenges-of-change-and-compliance.md
-  - name: "10.9 Responsibility for security throughout the computing life cycle"
+  - name: "10.9 Responsibility for Security Throughout the Computing Life Cycle"
     href: security-policies-laws-and-computer-crimes/responsibility-for-security-throughout-the-computing-life-cycle.md
-  - name: "10.10 International and local laws and how they intersect"
+  - name: "10.10 International and Local Laws and How They Intersect"
     href: security-policies-laws-and-computer-crimes/international-and-local-laws-and-how-they-intersect.md
 - name: "11. Diversity, Equity, Inclusion, and Accessibility"
   href: diversity-equity-inclusion-and-accessibility/index.md
   items:
-  - name: "11.1 How identity impacts and is impacted by computing technologies and environments (academic and professional)"
+  - name: "11.1 How Identity Impacts and Is Impacted by Computing Technologies and Environments (academic and professional)"
     href: diversity-equity-inclusion-and-accessibility/how-identity-impacts-and-is-impacted-by-computing-technologies-and-environments.md
-  - name: "11.2 The benefits of diverse development teams and the impacts of teams that are not diverse"
+  - name: "11.2 The Benefits of Diverse Development Teams and the Impacts of Teams That Are Not Diverse"
     href: diversity-equity-inclusion-and-accessibility/the-benefits-of-diverse-development-teams-and-the-impacts-of-teams-that-are-not.md
-  - name: "11.3 Inclusive language and charged terminology, and why their use matters"
+  - name: "11.3 Inclusive Language and Charged Terminology, and Why Their Use Matters"
     href: diversity-equity-inclusion-and-accessibility/inclusive-language-and-charged-terminology-and-why-their-use-matters.md
-  - name: "11.4 Inclusive behaviors and why they matter"
+  - name: "11.4 Inclusive Behaviors and Why They Matter"
     href: diversity-equity-inclusion-and-accessibility/inclusive-behaviors-and-why-they-matter.md
-  - name: "11.5 Designing and developing technology with accessibility in mind"
+  - name: "11.5 Designing and Developing Technology with Accessibility in Mind"
     href: diversity-equity-inclusion-and-accessibility/designing-and-developing-technology-with-accessibility-in-mind.md
-  - name: "11.6 How computing professionals can influence and impact diversity, equity, inclusion and accessibility, including but not only through the software they create"
+  - name: "11.6 How Computing Professionals Can Influence and Impact Diversity, Equity, Inclusion and Accessibility, Including but Not Only Through the Software They Create"
     href: diversity-equity-inclusion-and-accessibility/how-computing-professionals-can-influence-and-impact-diversity-equity-inclusion.md
-  - name: "11.7 Experts and their practices that reflect the identities of the classroom and the world through practical DEIA principles"
+  - name: "11.7 Experts and Their Practices That Reflect the Identities of the Classroom and the World Through Practical DEIA Principles"
     href: diversity-equity-inclusion-and-accessibility/experts-and-their-practices-that-reflect-the-identities-of-the-classroom-and-the.md
-  - name: "11.8 Historic marginalization due to systemic social mechanisms, technological supremacy and global infrastructure challenges to diversity, equity, inclusion, and accessibility"
+  - name: "11.8 Historic Marginalization Due to Systemic Social Mechanisms, Technological Supremacy and Global Infrastructure Challenges to Diversity, Equity, Inclusion, and Accessibility"
     href: diversity-equity-inclusion-and-accessibility/historic-marginalization-due-to-systemic-social-mechanisms-technological-suprema.md
-  - name: "11.9 Cross-cultural differences in, and needs for, diversity, equity, inclusion, and accessibility"
+  - name: "11.9 Cross-Cultural Differences in, and Needs for, Diversity, Equity, Inclusion, and Accessibility"
     href: diversity-equity-inclusion-and-accessibility/cross-cultural-differences-in-and-needs-for-diversity-equity-inclusion-and-acces.md

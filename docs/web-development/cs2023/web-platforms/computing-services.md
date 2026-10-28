@@ -1,10 +1,10 @@
 ---
-title: "2.7 Computing services"
+title: "2.7 Computing Services"
 description: "CS2023 SPD-Web, 2.7 Computing services (Non-core): Cloud Hosting, Scalability (e.g., Autoscaling, Clusters), Cost estimation for services."
 ms.date: 2026-10-25
 ---
 
-# 2.7 Computing services
+# 2.7 Computing Services
 
 Sources: [CS2023 Body of Knowledge, SPD-Web, topic 7, p. 241](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=241).
 

@@ -1,10 +1,10 @@
 ---
-title: "6.1 Universal and user-centered design"
+title: "6.1 Universal and User-Centered Design"
 description: "CS2023 HCI-SEP, 6.1 Universal and user-centered design (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 6.1 Universal and user-centered design
+# 6.1 Universal and User-Centered Design
 
 Sources: [CS2023 Body of Knowledge, HCI-SEP, topic 1, p. 119](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=119).
 

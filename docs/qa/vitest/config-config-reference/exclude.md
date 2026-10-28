@@ -1,10 +1,10 @@
 ---
-title: "15.3 exclude"
+title: "15.3 Exclude"
 description: "Vitest, 15.3 exclude."
 ms.date: 2026-10-25
 ---
 
-# 15.3 exclude
+# 15.3 Exclude
 
 Sources: [Vitest documentation, 15.3 exclude](https://vitest.dev/config/exclude).
 

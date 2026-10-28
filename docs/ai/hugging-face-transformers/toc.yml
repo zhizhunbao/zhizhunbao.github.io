@@ -1,7 +1,7 @@
 items:
 - name: Overview
   href: index.md
-- name: "1. Get started"
+- name: "1. Get Started"
   href: get-started/index.md
   items:
   - name: "1.1 Transformers"
@@ -10,7 +10,7 @@ items:
     href: get-started/installation.md
   - name: "1.3 Quickstart"
     href: get-started/quickstart.md
-- name: "2. Base classes"
+- name: "2. Base Classes"
   href: base-classes/index.md
   items:
   - name: "2.1 Models"
@@ -26,22 +26,22 @@ items:
     href: inference/generate-api.md
   - name: "3.3 Optimization"
     href: inference/optimization.md
-  - name: "3.4 Chat with models"
+  - name: "3.4 Chat with Models"
     href: inference/chat-with-models.md
   - name: "3.5 Serving"
     href: inference/serving.md
 - name: "4. Training"
   href: training/index.md
   items:
-  - name: "4.1 Get started"
+  - name: "4.1 Get Started"
     href: training/get-started.md
   - name: "4.2 Customization"
     href: training/customization.md
-  - name: "4.3 Parameter-efficient fine-tuning"
+  - name: "4.3 Parameter-Efficient Fine-Tuning"
     href: training/parameter-efficient-fine-tuning.md
   - name: "4.4 Performance"
     href: training/performance.md
-  - name: "4.5 Distributed training"
+  - name: "4.5 Distributed Training"
     href: training/distributed-training.md
 - name: "5. Hardware"
   href: hardware/index.md
@@ -67,58 +67,58 @@ items:
   items:
   - name: "6.1 Overview"
     href: quantization/overview.md
-  - name: "6.2 Selecting a quantization method"
+  - name: "6.2 Selecting a Quantization Method"
     href: quantization/selecting-a-quantization-method.md
-  - name: "6.3 Quantization concepts"
+  - name: "6.3 Quantization Concepts"
     href: quantization/quantization-concepts.md
-  - name: "6.4 Quantize on the fly"
+  - name: "6.4 Quantize on the Fly"
     href: quantization/quantize-on-the-fly.md
-  - name: "6.5 FP4 and FP8 formats"
+  - name: "6.5 FP4 and FP8 Formats"
     href: quantization/fp4-and-fp8-formats.md
-  - name: "6.6 Calibration-based methods"
+  - name: "6.6 Calibration-Based Methods"
     href: quantization/calibration-based-methods.md
-  - name: "6.7 Load pre-quantized models"
+  - name: "6.7 Load Pre-Quantized Models"
     href: quantization/load-pre-quantized-models.md
-  - name: "6.8 Hardware toolkits"
+  - name: "6.8 Hardware Toolkits"
     href: quantization/hardware-toolkits.md
   - name: "6.9 Contribute"
     href: quantization/contribute.md
-- name: "7. Ecosystem integrations"
+- name: "7. Ecosystem Integrations"
   href: ecosystem-integrations/index.md
   items:
-  - name: "7.1 Inference engines"
+  - name: "7.1 Inference Engines"
     href: ecosystem-integrations/inference-engines.md
-  - name: "7.2 Local deployment"
+  - name: "7.2 Local Deployment"
     href: ecosystem-integrations/local-deployment.md
   - name: "7.3 Pretraining"
     href: ecosystem-integrations/pretraining.md
-  - name: "7.4 Fine-tuning"
+  - name: "7.4 Fine-Tuning"
     href: ecosystem-integrations/fine-tuning.md
 - name: "8. Resources"
   href: resources/index.md
   items:
-  - name: "8.1 Task recipes"
+  - name: "8.1 Task Recipes"
     href: resources/task-recipes.md
   - name: "8.2 Glossary"
     href: resources/glossary.md
   - name: "8.3 Philosophy"
     href: resources/philosophy.md
-  - name: "8.4 Models timeline"
+  - name: "8.4 Models Timeline"
     href: resources/models-timeline.md
-  - name: "8.5 Notebooks with examples"
+  - name: "8.5 Notebooks with Examples"
     href: resources/notebooks-with-examples.md
-  - name: "8.6 Community resources"
+  - name: "8.6 Community Resources"
     href: resources/community-resources.md
   - name: "8.7 Troubleshoot"
     href: resources/troubleshoot.md
 - name: "9. API"
   href: api/index.md
   items:
-  - name: "9.1 Main classes"
+  - name: "9.1 Main Classes"
     href: api/main-classes.md
   - name: "9.2 Models"
     href: api/models.md
-  - name: "9.3 Internal helpers"
+  - name: "9.3 Internal Helpers"
     href: api/internal-helpers.md
   - name: "9.4 Reference"
     href: api/reference.md

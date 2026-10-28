@@ -1,10 +1,10 @@
 ---
-title: "12.3 Edge runtime"
+title: "12.3 Edge Runtime"
 description: "Microsoft Azure, 12.3 Edge runtime: Azure IoT Operations, Azure IoT Edge."
 ms.date: 2026-10-27
 ---
 
-# 12.3 Edge runtime
+# 12.3 Edge Runtime
 
 ## Classification
 

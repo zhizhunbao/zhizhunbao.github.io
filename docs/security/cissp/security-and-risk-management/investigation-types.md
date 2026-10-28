@@ -1,10 +1,10 @@
 ---
-title: "1.5 Investigation types"
+title: "1.5 Investigation Types"
 description: "CISSP, 1.5 Investigation types: Administrative, Criminal, Civil, Regulatory, Industry standards."
 ms.date: 2026-10-25
 ---
 
-# 1.5 Investigation types
+# 1.5 Investigation Types
 
 Sources: [CISSP Certification Exam Outline, 1.5](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

@@ -1,10 +1,10 @@
 ---
-title: "1.2 Service models"
+title: "1.2 Service Models"
 description: "Microsoft Azure, 1.2 Service models: infrastructure as a service (IaaS), platform as a service (PaaS), software as a service (SaaS), shared responsibility model."
 ms.date: 2026-10-26
 ---
 
-# 1.2 Service models
+# 1.2 Service Models
 
 ## Classification
 

@@ -1,10 +1,10 @@
 ---
-title: "4.1 Secure design principles in network architectures"
+title: "4.1 Secure Design Principles in Network Architectures"
 description: "CISSP, 4.1 Secure design principles in network architectures."
 ms.date: 2026-10-25
 ---
 
-# 4.1 Secure design principles in network architectures
+# 4.1 Secure Design Principles in Network Architectures
 
 Sources: [CISSP Certification Exam Outline, 4.1](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

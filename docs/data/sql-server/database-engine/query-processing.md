@@ -1,10 +1,10 @@
 ---
-title: "1.7 Query processing"
+title: "1.7 Query Processing"
 description: "SQL Server, 1.7 Query processing: not written yet."
 ms.date: 2026-10-26
 ---
 
-# 1.7 Query processing
+# 1.7 Query Processing
 
 Sources: [SQL Server documentation](https://learn.microsoft.com/en-us/sql/sql-server/), table of contents: Internals & architecture > Query processing architecture ([Query processing architecture guide](https://learn.microsoft.com/en-us/sql/relational-databases/query-processing-architecture-guide)).
 

@@ -1,10 +1,10 @@
 ---
-title: "2.5 Decomposing signals in components (matrix factorization problems)"
+title: "2.5 Decomposing Signals in Components (matrix factorization problems)"
 description: "scikit-learn, 2.5 Decomposing signals in components (matrix factorization problems): 2.5.1 Principal component analysis (PCA), 2.5.2 Kernel Principal Component Analysis (kPCA), 2.5.3 Truncated singular value decomposition and latent semantic analysis, 2.5.4 Dictionary Learning, 2.5.5 Factor Analysis, 2.5.6 Independent component analysis (ICA), 2.5.7 Non-negative matrix factorization (NMF or NNMF), 2.5.8 Latent Dirichlet Allocation (LDA)."
 ms.date: 2026-10-25
 ---
 
-# 2.5 Decomposing signals in components (matrix factorization problems)
+# 2.5 Decomposing Signals in Components (matrix factorization problems)
 
 Sources: [scikit-learn User Guide, 2.5 Decomposing signals in components (matrix factorization problems)](https://scikit-learn.org/stable/modules/decomposition.html).
 

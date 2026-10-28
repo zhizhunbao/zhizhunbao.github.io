@@ -1,10 +1,10 @@
 ---
-title: "3.10 Information system lifecycle"
+title: "3.10 Information System Lifecycle"
 description: "CISSP, 3.10 Information system lifecycle."
 ms.date: 2026-10-25
 ---
 
-# 3.10 Information system lifecycle
+# 3.10 Information System Lifecycle
 
 Sources: [CISSP Certification Exam Outline, 3.10](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

@@ -1,10 +1,10 @@
 ---
-title: "5.5 Identity and access provisioning lifecycle"
+title: "5.5 Identity and Access Provisioning Lifecycle"
 description: "CISSP, 5.5 Identity and access provisioning lifecycle."
 ms.date: 2026-10-25
 ---
 
-# 5.5 Identity and access provisioning lifecycle
+# 5.5 Identity and Access Provisioning Lifecycle
 
 Sources: [CISSP Certification Exam Outline, 5.5](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline).
 

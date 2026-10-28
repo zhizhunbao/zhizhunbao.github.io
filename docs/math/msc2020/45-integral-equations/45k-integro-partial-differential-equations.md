@@ -1,7 +1,7 @@
 ---
-title: "45K Integro-partial differential equations"
+title: "45K Integro-Partial Differential Equations"
 description: "MSC2020 class 45Kxx, Integro-partial differential equations: 1 classes."
 ms.date: 2026-10-27
 ---
 
-# 45K Integro-partial differential equations
+# 45K Integro-Partial Differential Equations

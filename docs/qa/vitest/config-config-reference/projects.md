@@ -1,10 +1,10 @@
 ---
-title: "15.70 projects"
+title: "15.70 Projects"
 description: "Vitest, 15.70 projects."
 ms.date: 2026-10-25
 ---
 
-# 15.70 projects
+# 15.70 Projects
 
 Sources: [Vitest documentation, 15.70 projects](https://vitest.dev/config/projects).
 
