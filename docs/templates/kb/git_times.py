@@ -27,7 +27,9 @@ for block in git("log", "--format=@%cI", "--name-only", "--", "docs").split("@")
     for f in files:
         if f.endswith(".md") and f.startswith("docs/"):
             times.setdefault(f[len("docs/"):], when)
-dirty = {line[3:].strip().strip('"') for line in git("status", "--porcelain", "--", "docs").splitlines()}
+# every new file listed on its own (a plain status shows a new folder as one line, so its pages had no time); for a
+# rename "old -> new", the new path
+dirty = {line[3:].split(" -> ")[-1].strip().strip('"') for line in git("status", "--porcelain", "--untracked-files=all", "--", "docs").splitlines()}
 for f in dirty:
     p = ROOT / f
     if f.endswith(".md") and p.is_file():

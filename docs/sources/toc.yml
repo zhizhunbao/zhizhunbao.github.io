@@ -1,3 +1,202 @@
 items:
 - name: Overview
   href: index.md
+- name: "1. Standards Developing Organizations"
+  href: standards-developing-organizations/index.md
+  items:
+  - name: "1.1 ISO"
+    href: standards-developing-organizations/iso.md
+  - name: "1.2 IEC"
+    href: standards-developing-organizations/iec.md
+  - name: "1.3 ISO/IEC JTC 1"
+    href: standards-developing-organizations/iso-iec-jtc-1.md
+  - name: "1.4 W3C"
+    href: standards-developing-organizations/w3c.md
+  - name: "1.5 WHATWG"
+    href: standards-developing-organizations/whatwg.md
+  - name: "1.6 Ecma International"
+    href: standards-developing-organizations/ecma-international.md
+  - name: "1.7 IETF"
+    href: standards-developing-organizations/ietf.md
+  - name: "1.8 Khronos Group"
+    href: standards-developing-organizations/khronos-group.md
+  - name: "1.9 RISC-V International"
+    href: standards-developing-organizations/risc-v-international.md
+- name: "2. Government Agencies"
+  href: government-agencies/index.md
+  items:
+  - name: "2.1 NIST"
+    href: government-agencies/nist.md
+  - name: "2.2 NLM"
+    href: government-agencies/nlm.md
+  - name: "2.3 OECD"
+    href: government-agencies/oecd.md
+- name: "3. Learned Societies"
+  href: learned-societies/index.md
+  items:
+  - name: "3.1 ACM"
+    href: learned-societies/acm.md
+  - name: "3.2 IEEE Computer Society"
+    href: learned-societies/ieee-computer-society.md
+  - name: "3.3 American Mathematical Society"
+    href: learned-societies/american-mathematical-society.md
+  - name: "3.4 American Physical Society"
+    href: learned-societies/american-physical-society.md
+  - name: "3.5 American Chemical Society"
+    href: learned-societies/american-chemical-society.md
+  - name: "3.6 American Geophysical Union"
+    href: learned-societies/american-geophysical-union.md
+  - name: "3.7 American Economic Association"
+    href: learned-societies/american-economic-association.md
+- name: "4. Classification Systems"
+  href: classification-systems/index.md
+  items:
+  - name: "4.1 MSC2020"
+    href: classification-systems/msc2020.md
+  - name: "4.2 ACM CCS"
+    href: classification-systems/acm-ccs.md
+  - name: "4.3 PhySH"
+    href: classification-systems/physh.md
+  - name: "4.4 CAS Sections"
+    href: classification-systems/cas-sections.md
+  - name: "4.5 AGU Index Terms"
+    href: classification-systems/agu-index-terms.md
+  - name: "4.6 MeSH"
+    href: classification-systems/mesh.md
+  - name: "4.7 JEL"
+    href: classification-systems/jel.md
+  - name: "4.8 OECD FORD"
+    href: classification-systems/oecd-ford.md
+  - name: "4.9 OpenAlex Topics"
+    href: classification-systems/openalex-topics.md
+- name: "5. Curricula"
+  href: curricula/index.md
+  items:
+  - name: "5.1 CS2023"
+    href: curricula/cs2023.md
+  - name: "5.2 CC2020"
+    href: curricula/cc2020.md
+- name: "6. Reference Works"
+  href: reference-works/index.md
+  items:
+  - name: "6.1 MathWorld"
+    href: reference-works/mathworld.md
+  - name: "6.2 World of Physics"
+    href: reference-works/world-of-physics.md
+  - name: "6.3 zbMATH Open"
+    href: reference-works/zbmath-open.md
+  - name: "6.4 NIST CSRC Glossary"
+    href: reference-works/nist-csrc-glossary.md
+  - name: "6.5 NIST DADS"
+    href: reference-works/nist-dads.md
+  - name: "6.6 Cambridge Dictionary"
+    href: reference-works/cambridge-dictionary.md
+  - name: "6.7 MITRE ATT&CK"
+    href: reference-works/mitre-att-ck.md
+- name: "7. Certification Bodies"
+  href: certification-bodies/index.md
+  items:
+  - name: "7.1 ISTQB"
+    href: certification-bodies/istqb.md
+  - name: "7.2 CompTIA"
+    href: certification-bodies/comptia.md
+  - name: "7.3 ISC2"
+    href: certification-bodies/isc2.md
+  - name: "7.4 Cisco"
+    href: certification-bodies/cisco.md
+  - name: "7.5 Microsoft"
+    href: certification-bodies/microsoft.md
+- name: "8. Companies"
+  href: companies/index.md
+  items:
+  - name: "8.1 Microsoft"
+    href: companies/microsoft.md
+  - name: "8.2 Amazon Web Services"
+    href: companies/amazon-web-services.md
+  - name: "8.3 Google"
+    href: companies/google.md
+  - name: "8.4 Google DeepMind"
+    href: companies/google-deepmind.md
+  - name: "8.5 Apple"
+    href: companies/apple.md
+  - name: "8.6 NVIDIA"
+    href: companies/nvidia.md
+  - name: "8.7 Intel"
+    href: companies/intel.md
+  - name: "8.8 Arm"
+    href: companies/arm.md
+  - name: "8.9 Anthropic"
+    href: companies/anthropic.md
+  - name: "8.10 OpenAI"
+    href: companies/openai.md
+  - name: "8.11 Docker"
+    href: companies/docker.md
+  - name: "8.12 GitHub"
+    href: companies/github.md
+  - name: "8.13 Oracle"
+    href: companies/oracle.md
+  - name: "8.14 Cisco"
+    href: companies/cisco.md
+  - name: "8.15 MongoDB"
+    href: companies/mongodb.md
+  - name: "8.16 Redis"
+    href: companies/redis.md
+  - name: "8.17 Hugging Face"
+    href: companies/hugging-face.md
+  - name: "8.18 Ultralytics"
+    href: companies/ultralytics.md
+  - name: "8.19 Astral"
+    href: companies/astral.md
+  - name: "8.20 Cypress.io"
+    href: companies/cypress-io.md
+  - name: "8.21 Ollama"
+    href: companies/ollama.md
+  - name: "8.22 LlamaIndex"
+    href: companies/llamaindex.md
+  - name: "8.23 Chroma"
+    href: companies/chroma.md
+- name: "9. Open-Source Projects"
+  href: open-source-projects/index.md
+  items:
+  - name: "9.1 Apache Software Foundation"
+    href: open-source-projects/apache-software-foundation.md
+  - name: "9.2 Python Software Foundation"
+    href: open-source-projects/python-software-foundation.md
+  - name: "9.3 Linux Kernel"
+    href: open-source-projects/linux-kernel.md
+  - name: "9.4 PostgreSQL"
+    href: open-source-projects/postgresql.md
+  - name: "9.5 Kubernetes"
+    href: open-source-projects/kubernetes.md
+  - name: "9.6 PyTorch Foundation"
+    href: open-source-projects/pytorch-foundation.md
+  - name: "9.7 LLVM"
+    href: open-source-projects/llvm.md
+  - name: "9.8 Git"
+    href: open-source-projects/git.md
+  - name: "9.9 OpenJS Foundation"
+    href: open-source-projects/openjs-foundation.md
+  - name: "9.10 GraphQL Foundation"
+    href: open-source-projects/graphql-foundation.md
+  - name: "9.11 OWASP Foundation"
+    href: open-source-projects/owasp-foundation.md
+  - name: "9.12 Mozilla"
+    href: open-source-projects/mozilla.md
+  - name: "9.13 Model Context Protocol"
+    href: open-source-projects/model-context-protocol.md
+  - name: "9.14 Farama Foundation"
+    href: open-source-projects/farama-foundation.md
+  - name: "9.15 Open Robotics"
+    href: open-source-projects/open-robotics.md
+  - name: "9.16 OpenCV"
+    href: open-source-projects/opencv.md
+  - name: "9.17 scikit-learn"
+    href: open-source-projects/scikit-learn.md
+  - name: "9.18 pytest"
+    href: open-source-projects/pytest.md
+  - name: "9.19 Selenium"
+    href: open-source-projects/selenium.md
+  - name: "9.20 Vitest"
+    href: open-source-projects/vitest.md
+  - name: "9.21 Stable-Baselines3"
+    href: open-source-projects/stable-baselines3.md
