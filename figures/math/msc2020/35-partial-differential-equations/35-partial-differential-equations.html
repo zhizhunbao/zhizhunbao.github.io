@@ -1,0 +1,352 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; max-width: 1220px; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; min-height: 34px; margin-bottom: 8px; padding: 4px 12px; box-sizing: border-box; max-width: 560px;
+          display: flex; align-items: center; justify-content: center; text-align: center; font-size: 15px; font-weight: 600; color: #222; line-height: 1.3; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">35 Partial Differential Equations</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">35A General Topics in Partial Differential Equations</div>
+      <div class="item">35A01 Existence Problems for PDEs: Global Existence, Local Existence, Non-Existence</div>
+      <div class="item">35A02 Uniqueness Problems for PDEs: Global Uniqueness, Local Uniqueness, Non-Uniqueness</div>
+      <div class="item">35A08 Fundamental Solutions to PDEs</div>
+      <div class="item">35A09 Classical Solutions to PDEs</div>
+      <div class="item">35A10 Cauchy-Kovalevskaya Theorems</div>
+      <div class="item">35A15 Variational Methods Applied to PDEs</div>
+      <div class="item">35A16 Topological and Monotonicity Methods Applied to PDEs</div>
+      <div class="item">35A17 Parametrices in Context of PDEs</div>
+      <div class="item">35A18 Wave Front Sets in Context of PDEs</div>
+      <div class="item">35A20 Analyticity in Context of PDEs</div>
+      <div class="item">35A21 Singularity in Context of PDEs</div>
+      <div class="item">35A22 Transform Methods (e.g., integral transforms) Applied to PDEs</div>
+      <div class="item">35A23 Inequalities Applied to PDEs Involving Derivatives, Differential and Integral Operators, or Integrals</div>
+      <div class="item">35A24 Methods of Ordinary Differential Equations Applied to PDEs</div>
+      <div class="item">35A25 Other Special Methods Applied to PDEs</div>
+      <div class="item">35A27 Microlocal Methods and Methods of Sheaf Theory and Homological Algebra Applied to PDEs</div>
+      <div class="item">35A30 Geometric Theory, Characteristics, Transformations in Context of PDEs</div>
+      <div class="item">35A35 Theoretical Approximation in Context of PDEs</div>
+    </div>
+    <div class="group">
+      <div class="title">35B Qualitative Properties of Solutions to Partial Differential Equations</div>
+      <div class="item">35B05 Oscillation, Zeros of Solutions, Mean Value Theorems, etc. in Context of PDEs</div>
+      <div class="item">35B06 Symmetries, Invariants, etc. in Context of PDEs</div>
+      <div class="item">35B07 Axially Symmetric Solutions to PDEs</div>
+      <div class="item">35B08 Entire Solutions to PDEs</div>
+      <div class="item">35B09 Positive Solutions to PDEs</div>
+      <div class="item">35B10 Periodic Solutions to PDEs</div>
+      <div class="item">35B15 Almost and Pseudo-Almost Periodic Solutions to PDEs</div>
+      <div class="item">35B20 Perturbations in Context of PDEs</div>
+      <div class="item">35B25 Singular Perturbations in Context of PDEs</div>
+      <div class="item">35B27 Homogenization in Context of PDEs; PDEs in Media with Periodic Structure</div>
+      <div class="item">35B30 Dependence of Solutions to PDEs on Initial And/or Boundary Data And/or on Parameters of PDEs</div>
+      <div class="item">35B32 Bifurcations in Context of PDEs</div>
+      <div class="item">35B33 Critical Exponents in Context of PDEs</div>
+      <div class="item">35B34 Resonance in Context of PDEs</div>
+      <div class="item">35B35 Stability in Context of PDEs</div>
+      <div class="item">35B36 Pattern Formations in Context of PDEs</div>
+      <div class="item">35B38 Critical Points of Functionals in Context of PDEs (e.g., energy functionals)</div>
+      <div class="item">35B40 Asymptotic Behavior of Solutions to PDEs</div>
+      <div class="item">35B41 Attractors</div>
+      <div class="item">35B42 Inertial Manifolds</div>
+      <div class="item">35B44 Blow-Up in Context of PDEs</div>
+      <div class="item">35B45 A Priori Estimates in Context of PDEs</div>
+      <div class="item">35B50 Maximum Principles in Context of PDEs</div>
+      <div class="item">35B51 Comparison Principles in Context of PDEs</div>
+      <div class="item">35B53 Liouville Theorems and Phragmén-Lindelöf Theorems in Context of PDEs</div>
+      <div class="item">35B60 Continuation and Prolongation of Solutions to PDEs</div>
+      <div class="item">35B65 Smoothness and Regularity of Solutions to PDEs</div>
+    </div>
+    <div class="group">
+      <div class="title">35C Representations of Solutions to Partial Differential Equations</div>
+      <div class="item">35C05 Solutions to PDEs in Closed Form</div>
+      <div class="item">35C06 Self-Similar Solutions to PDEs</div>
+      <div class="item">35C07 Traveling Wave Solutions</div>
+      <div class="item">35C08 Soliton Solutions</div>
+      <div class="item">35C09 Trigonometric Solutions to PDEs</div>
+      <div class="item">35C10 Series Solutions to PDEs</div>
+      <div class="item">35C11 Polynomial Solutions to PDEs</div>
+      <div class="item">35C15 Integral Representations of Solutions to PDEs</div>
+      <div class="item">35C20 Asymptotic Expansions of Solutions to PDEs</div>
+    </div>
+    <div class="group">
+      <div class="title">35D Generalized Solutions to Partial Differential Equations</div>
+      <div class="item">35D30 Weak Solutions to PDEs</div>
+      <div class="item">35D35 Strong Solutions to PDEs</div>
+      <div class="item">35D40 Viscosity Solutions to PDEs</div>
+    </div>
+    <div class="group">
+      <div class="title">35E Partial Differential Equations and Systems of Partial Differential Equations with Constant Coefficients</div>
+      <div class="item">35E05 Fundamental Solutions to PDEs and Systems of PDEs with Constant Coefficients</div>
+      <div class="item">35E10 Convexity Properties of Solutions to PDEs with Constant Coefficients</div>
+      <div class="item">35E15 Initial Value Problems for PDEs and Systems of PDEs with Constant Coefficients</div>
+      <div class="item">35E20 General Theory of PDEs and Systems of PDEs with Constant Coefficients</div>
+    </div>
+    <div class="group">
+      <div class="title">35F General First-Order Partial Differential Equations and Systems of First-Order Partial Differential Equations</div>
+      <div class="item">35F05 Linear First-Order PDEs</div>
+      <div class="item">35F10 Initial Value Problems for Linear First-Order PDEs</div>
+      <div class="item">35F15 Boundary Value Problems for Linear First-Order PDEs</div>
+      <div class="item">35F16 Initial-Boundary Value Problems for Linear First-Order PDEs</div>
+      <div class="item">35F20 Nonlinear First-Order PDEs</div>
+      <div class="item">35F21 Hamilton-Jacobi Equations</div>
+      <div class="item">35F25 Initial Value Problems for Nonlinear First-Order PDEs</div>
+      <div class="item">35F30 Boundary Value Problems for Nonlinear First-Order PDEs</div>
+      <div class="item">35F31 Initial-Boundary Value Problems for Nonlinear First-Order PDEs</div>
+      <div class="item">35F35 Systems of Linear First-Order PDEs</div>
+      <div class="item">35F40 Initial Value Problems for Systems of Linear First-Order PDEs</div>
+      <div class="item">35F45 Boundary Value Problems for Systems of Linear First-Order PDEs</div>
+      <div class="item">35F46 Initial-Boundary Value Problems for Systems of Linear First-Order PDEs</div>
+      <div class="item">35F50 Systems of Nonlinear First-Order PDEs</div>
+      <div class="item">35F55 Initial Value Problems for Systems of Nonlinear First-Order PDEs</div>
+      <div class="item">35F60 Boundary Value Problems for Systems of Nonlinear First-Order PDEs</div>
+      <div class="item">35F61 Initial-Boundary Value Problems for Systems of Nonlinear First-Order PDEs</div>
+    </div>
+    <div class="group">
+      <div class="title">35G General Higher-Order Partial Differential Equations and Systems of Higher-Order Partial Differential Equations</div>
+      <div class="item">35G05 Linear Higher-Order PDEs</div>
+      <div class="item">35G10 Initial Value Problems for Linear Higher-Order PDEs</div>
+      <div class="item">35G15 Boundary Value Problems for Linear Higher-Order PDEs</div>
+      <div class="item">35G16 Initial-Boundary Value Problems for Linear Higher-Order PDEs</div>
+      <div class="item">35G20 Nonlinear Higher-Order PDEs</div>
+      <div class="item">35G25 Initial Value Problems for Nonlinear Higher-Order PDEs</div>
+      <div class="item">35G30 Boundary Value Problems for Nonlinear Higher-Order PDEs</div>
+      <div class="item">35G31 Initial-Boundary Value Problems for Nonlinear Higher-Order PDEs</div>
+      <div class="item">35G35 Systems of Linear Higher-Order PDEs</div>
+      <div class="item">35G40 Initial Value Problems for Systems of Linear Higher-Order PDEs</div>
+      <div class="item">35G45 Boundary Value Problems for Systems of Linear Higher-Order PDEs</div>
+      <div class="item">35G46 Initial-Boundary Value Problems for Systems of Linear Higher-Order PDEs</div>
+      <div class="item">35G50 Systems of Nonlinear Higher-Order PDEs</div>
+      <div class="item">35G55 Initial Value Problems for Systems of Nonlinear Higher-Order PDEs</div>
+      <div class="item">35G60 Boundary Value Problems for Systems of Nonlinear Higher-Order PDEs</div>
+      <div class="item">35G61 Initial-Boundary Value Problems for Systems of Nonlinear Higher-Order PDEs</div>
+    </div>
+    <div class="group">
+      <div class="title">35H Close-to-Elliptic Equations</div>
+      <div class="item">35H10 Hypoelliptic Equations</div>
+      <div class="item">35H20 Subelliptic Equations</div>
+      <div class="item">35H30 Quasielliptic Equations</div>
+    </div>
+    <div class="group">
+      <div class="title">35J Elliptic Equations and Elliptic Systems</div>
+      <div class="item">35J05 Laplace Operator, Helmholtz Equation (reduced wave equation), Poisson Equation</div>
+      <div class="item">35J08 Green's Functions for Elliptic Equations</div>
+      <div class="item">35J10 Schrödinger Operator, Schrödinger Equation</div>
+      <div class="item">35J15 Second-Order Elliptic Equations</div>
+      <div class="item">35J20 Variational Methods for Second-Order Elliptic Equations</div>
+      <div class="item">35J25 Boundary Value Problems for Second-Order Elliptic Equations</div>
+      <div class="item">35J30 Higher-Order Elliptic Equations</div>
+      <div class="item">35J35 Variational Methods for Higher-Order Elliptic Equations</div>
+      <div class="item">35J40 Boundary Value Problems for Higher-Order Elliptic Equations</div>
+      <div class="item">35J46 First-Order Elliptic Systems</div>
+      <div class="item">35J47 Second-Order Elliptic Systems</div>
+      <div class="item">35J48 Higher-Order Elliptic Systems</div>
+      <div class="item">35J50 Variational Methods for Elliptic Systems</div>
+      <div class="item">35J56 Boundary Value Problems for First-Order Elliptic Systems</div>
+      <div class="item">35J57 Boundary Value Problems for Second-Order Elliptic Systems</div>
+      <div class="item">35J58 Boundary Value Problems for Higher-Order Elliptic Systems</div>
+      <div class="item">35J60 Nonlinear Elliptic Equations</div>
+      <div class="item">35J61 Semilinear Elliptic Equations</div>
+      <div class="item">35J62 Quasilinear Elliptic Equations</div>
+      <div class="item">35J65 Nonlinear Boundary Value Problems for Linear Elliptic Equations</div>
+      <div class="item">35J66 Nonlinear Boundary Value Problems for Nonlinear Elliptic Equations</div>
+      <div class="item">35J67 Boundary Values of Solutions to Elliptic Equations and Elliptic Systems</div>
+      <div class="item">35J70 Degenerate Elliptic Equations</div>
+      <div class="item">35J75 Singular Elliptic Equations</div>
+      <div class="item">35J86 Unilateral Problems for Linear Elliptic Equations and Variational Inequalities with Linear Elliptic Operators</div>
+      <div class="item">35J87 Unilateral Problems for Nonlinear Elliptic Equations and Variational Inequalities with Nonlinear Elliptic Operators</div>
+      <div class="item">35J88 Unilateral Problems for Elliptic Systems and Systems of Variational Inequalities with Elliptic Operators</div>
+      <div class="item">35J91 Semilinear Elliptic Equations with Laplacian, Bi-Laplacian or Poly-Laplacian</div>
+      <div class="item">35J92 Quasilinear Elliptic Equations with p-Laplacian</div>
+      <div class="item">35J93 Quasilinear Elliptic Equations with Mean Curvature Operator</div>
+      <div class="item">35J94 Elliptic Equations with Infinity-Laplacian</div>
+      <div class="item">35J96 Monge-Ampère Equations</div>
+    </div>
+    <div class="group">
+      <div class="title">35K Parabolic Equations and Parabolic Systems</div>
+      <div class="item">35K05 Heat Equation</div>
+      <div class="item">35K08 Heat Kernel</div>
+      <div class="item">35K10 Second-Order Parabolic Equations</div>
+      <div class="item">35K15 Initial Value Problems for Second-Order Parabolic Equations</div>
+      <div class="item">35K20 Initial-Boundary Value Problems for Second-Order Parabolic Equations</div>
+      <div class="item">35K25 Higher-Order Parabolic Equations</div>
+      <div class="item">35K30 Initial Value Problems for Higher-Order Parabolic Equations</div>
+      <div class="item">35K35 Initial-Boundary Value Problems for Higher-Order Parabolic Equations</div>
+      <div class="item">35K40 Second-Order Parabolic Systems</div>
+      <div class="item">35K41 Higher-Order Parabolic Systems</div>
+      <div class="item">35K45 Initial Value Problems for Second-Order Parabolic Systems</div>
+      <div class="item">35K46 Initial Value Problems for Higher-Order Parabolic Systems</div>
+      <div class="item">35K51 Initial-Boundary Value Problems for Second-Order Parabolic Systems</div>
+      <div class="item">35K52 Initial-Boundary Value Problems for Higher-Order Parabolic Systems</div>
+      <div class="item">35K55 Nonlinear Parabolic Equations</div>
+      <div class="item">35K57 Reaction-Diffusion Equations</div>
+      <div class="item">35K58 Semilinear Parabolic Equations</div>
+      <div class="item">35K59 Quasilinear Parabolic Equations</div>
+      <div class="item">35K60 Nonlinear Initial, Boundary and Initial-Boundary Value Problems for Linear Parabolic Equations</div>
+      <div class="item">35K61 Nonlinear Initial, Boundary and Initial-Boundary Value Problems for Nonlinear Parabolic Equations</div>
+      <div class="item">35K65 Degenerate Parabolic Equations</div>
+      <div class="item">35K67 Singular Parabolic Equations</div>
+      <div class="item">35K70 Ultraparabolic Equations, Pseudoparabolic Equations, etc.</div>
+      <div class="item">35K85 Unilateral Problems for Linear Parabolic Equations and Variational Inequalities with Linear Parabolic Operators</div>
+      <div class="item">35K86 Unilateral Problems for Nonlinear Parabolic Equations and Variational Inequalities with Nonlinear Parabolic Operators</div>
+      <div class="item">35K87 Unilateral Problems for Parabolic Systems and Systems of Variational Inequalities with Parabolic Operators</div>
+      <div class="item">35K90 Abstract Parabolic Equations</div>
+      <div class="item">35K91 Semilinear Parabolic Equations with Laplacian, Bi-Laplacian or Poly-Laplacian</div>
+      <div class="item">35K92 Quasilinear Parabolic Equations with p-Laplacian</div>
+      <div class="item">35K93 Quasilinear Parabolic Equations with Mean Curvature Operator</div>
+      <div class="item">35K96 Parabolic Monge-Ampère Equations</div>
+    </div>
+    <div class="group">
+      <div class="title">35L Hyperbolic Equations and Hyperbolic Systems</div>
+      <div class="item">35L02 First-Order Hyperbolic Equations</div>
+      <div class="item">35L03 Initial Value Problems for First-Order Hyperbolic Equations</div>
+      <div class="item">35L04 Initial-Boundary Value Problems for First-Order Hyperbolic Equations</div>
+      <div class="item">35L05 Wave Equation</div>
+      <div class="item">35L10 Second-Order Hyperbolic Equations</div>
+      <div class="item">35L15 Initial Value Problems for Second-Order Hyperbolic Equations</div>
+      <div class="item">35L20 Initial-Boundary Value Problems for Second-Order Hyperbolic Equations</div>
+      <div class="item">35L25 Higher-Order Hyperbolic Equations</div>
+      <div class="item">35L30 Initial Value Problems for Higher-Order Hyperbolic Equations</div>
+      <div class="item">35L35 Initial-Boundary Value Problems for Higher-Order Hyperbolic Equations</div>
+      <div class="item">35L40 First-Order Hyperbolic Systems</div>
+      <div class="item">35L45 Initial Value Problems for First-Order Hyperbolic Systems</div>
+      <div class="item">35L50 Initial-Boundary Value Problems for First-Order Hyperbolic Systems</div>
+      <div class="item">35L51 Second-Order Hyperbolic Systems</div>
+      <div class="item">35L52 Initial Value Problems for Second-Order Hyperbolic Systems</div>
+      <div class="item">35L53 Initial-Boundary Value Problems for Second-Order Hyperbolic Systems</div>
+      <div class="item">35L55 Higher-Order Hyperbolic Systems</div>
+      <div class="item">35L56 Initial Value Problems for Higher-Order Hyperbolic Systems</div>
+      <div class="item">35L57 Initial-Boundary Value Problems for Higher-Order Hyperbolic Systems</div>
+      <div class="item">35L60 First-Order Nonlinear Hyperbolic Equations</div>
+      <div class="item">35L65 Hyperbolic Conservation Laws</div>
+      <div class="item">35L67 Shocks and Singularities for Hyperbolic Equations</div>
+      <div class="item">35L70 Second-Order Nonlinear Hyperbolic Equations</div>
+      <div class="item">35L71 Second-Order Semilinear Hyperbolic Equations</div>
+      <div class="item">35L72 Second-Order Quasilinear Hyperbolic Equations</div>
+      <div class="item">35L75 Higher-Order Nonlinear Hyperbolic Equations</div>
+      <div class="item">35L76 Higher-Order Semilinear Hyperbolic Equations</div>
+      <div class="item">35L77 Higher-Order Quasilinear Hyperbolic Equations</div>
+      <div class="item">35L80 Degenerate Hyperbolic Equations</div>
+      <div class="item">35L81 Singular Hyperbolic Equations</div>
+      <div class="item">35L82 Pseudohyperbolic Equations</div>
+      <div class="item">35L85 Unilateral Problems for Linear Hyperbolic Equations and Variational Inequalities with Linear Hyperbolic Operators</div>
+      <div class="item">35L86 Unilateral Problems for Nonlinear Hyperbolic Equations and Variational Inequalities with Nonlinear Hyperbolic Operators</div>
+      <div class="item">35L87 Unilateral Problems for Hyperbolic Systems and Systems of Variational Inequalities with Hyperbolic Operators</div>
+      <div class="item">35L90 Abstract Hyperbolic Equations</div>
+    </div>
+    <div class="group">
+      <div class="title">35M Partial Differential Equations of Mixed Type and Mixed-Type Systems of Partial Differential Equations</div>
+      <div class="item">35M10 PDEs of Mixed Type</div>
+      <div class="item">35M11 Initial Value Problems for PDEs of Mixed Type</div>
+      <div class="item">35M12 Boundary Value Problems for PDEs of Mixed Type</div>
+      <div class="item">35M13 Initial-Boundary Value Problems for PDEs of Mixed Type</div>
+      <div class="item">35M30 Mixed-Type Systems of PDEs</div>
+      <div class="item">35M31 Initial Value Problems for Mixed-Type Systems of PDEs</div>
+      <div class="item">35M32 Boundary Value Problems for Mixed-Type Systems of PDEs</div>
+      <div class="item">35M33 Initial-Boundary Value Problems for Mixed-Type Systems of PDEs</div>
+      <div class="item">35M85 Unilateral Problems for Linear PDEs of Mixed Type and Variational Inequalities with Partial Differential Operators of Mixed Type</div>
+      <div class="item">35M86 Unilateral Problems for Nonlinear PDEs of Mixed Type and Variational Inequalities with Nonlinear Partial Differential Operators of Mixed Type</div>
+      <div class="item">35M87 Unilateral Problems for Mixed-Type Systems of PDEs and Systems of Variational Inequalities with Partial Differential Operators of Mixed Type</div>
+    </div>
+    <div class="group">
+      <div class="title">35N Overdetermined Problems for Partial Differential Equations and Systems of Partial Differential Equations</div>
+      <div class="item">35N05 Overdetermined Systems of PDEs with Constant Coefficients</div>
+      <div class="item">35N10 Overdetermined Systems of PDEs with Variable Coefficients</div>
+      <div class="item">35N15 ∂̅-Neumann Problems and Formal Complexes in Context of PDEs</div>
+      <div class="item">35N20 Overdetermined Initial Value Problems for PDEs and Systems of PDEs</div>
+      <div class="item">35N25 Overdetermined Boundary Value Problems for PDEs and Systems of PDEs</div>
+      <div class="item">35N30 Overdetermined Initial-Boundary Value Problems for PDEs and Systems of PDEs</div>
+    </div>
+    <div class="group">
+      <div class="title">35P Spectral Theory and Eigenvalue Problems for Partial Differential Equations</div>
+      <div class="item">35P05 General Topics in Linear Spectral Theory for PDEs</div>
+      <div class="item">35P10 Completeness of Eigenfunctions and Eigenfunction Expansions in Context of PDEs</div>
+      <div class="item">35P15 Estimates of Eigenvalues in Context of PDEs</div>
+      <div class="item">35P20 Asymptotic Distributions of Eigenvalues in Context of PDEs</div>
+      <div class="item">35P25 Scattering Theory for PDEs</div>
+      <div class="item">35P30 Nonlinear Eigenvalue Problems and Nonlinear Spectral Theory for PDEs</div>
+    </div>
+    <div class="group">
+      <div class="title">35Q Partial Differential Equations of Mathematical Physics and Other Areas of Application</div>
+      <div class="item">35Q05 Euler-Poisson-Darboux Equations</div>
+      <div class="item">35Q07 Fuchsian PDEs</div>
+      <div class="item">35Q15 Riemann-Hilbert Problems in Context of PDEs</div>
+      <div class="item">35Q20 Boltzmann Equations</div>
+      <div class="item">35Q30 Navier-Stokes Equations</div>
+      <div class="item">35Q31 Euler Equations</div>
+      <div class="item">35Q35 PDEs in Connection with Fluid Mechanics</div>
+      <div class="item">35Q40 PDEs in Connection with Quantum Mechanics</div>
+      <div class="item">35Q41 Time-Dependent Schrödinger Equations and Dirac Equations</div>
+      <div class="item">35Q49 Transport Equations</div>
+      <div class="item">35Q51 Soliton Equations</div>
+      <div class="item">35Q53 KdV Equations (Korteweg-de Vries equations)</div>
+      <div class="item">35Q55 NLS Equations (nonlinear Schrödinger equations)</div>
+      <div class="item">35Q56 Ginzburg-Landau Equations</div>
+      <div class="item">35Q60 PDEs in Connection with Optics and Electromagnetic Theory</div>
+      <div class="item">35Q61 Maxwell Equations</div>
+      <div class="item">35Q62 PDEs in Connection with Statistics</div>
+      <div class="item">35Q68 PDEs in Connection with Computer Science</div>
+      <div class="item">35Q70 PDEs in Connection with Mechanics of Particles and Systems of Particles</div>
+      <div class="item">35Q74 PDEs in Connection with Mechanics of Deformable Solids</div>
+      <div class="item">35Q75 PDEs in Connection with Relativity and Gravitational Theory</div>
+      <div class="item">35Q76 Einstein Equations</div>
+      <div class="item">35Q79 PDEs in Connection with Classical Thermodynamics and Heat Transfer</div>
+      <div class="item">35Q81 PDEs in Connection with Semiconductor Devices</div>
+      <div class="item">35Q82 PDEs in Connection with Statistical Mechanics</div>
+      <div class="item">35Q83 Vlasov Equations</div>
+      <div class="item">35Q84 Fokker-Planck Equations</div>
+      <div class="item">35Q85 PDEs in Connection with Astronomy and Astrophysics</div>
+      <div class="item">35Q86 PDEs in Connection with Geophysics</div>
+      <div class="item">35Q89 PDEs in Connection with Mean Field Game Theory</div>
+      <div class="item">35Q90 PDEs in Connection with Mathematical Programming</div>
+      <div class="item">35Q91 PDEs in Connection with Game Theory, Economics, Social and Behavioral Sciences</div>
+      <div class="item">35Q92 PDEs in Connection with Biology, Chemistry and Other Natural Sciences</div>
+      <div class="item">35Q93 PDEs in Connection with Control and Optimization</div>
+      <div class="item">35Q94 PDEs in Connection with Information and Communication</div>
+    </div>
+    <div class="group">
+      <div class="title">35R Miscellaneous Topics in Partial Differential Equations</div>
+      <div class="item">35R01 PDEs on Manifolds</div>
+      <div class="item">35R02 PDEs on Graphs and Networks (ramified or polygonal spaces)</div>
+      <div class="item">35R03 PDEs on Heisenberg Groups, Lie Groups, Carnot Groups, etc.</div>
+      <div class="item">35R05 PDEs with Low Regular Coefficients And/or Low Regular Data</div>
+      <div class="item">35R06 PDEs with Measure</div>
+      <div class="item">35R07 PDEs on Time Scales</div>
+      <div class="item">35R09 Integro-Partial Differential Equations</div>
+      <div class="item">35R10 Partial Functional-Differential Equations</div>
+      <div class="item">35R11 Fractional Partial Differential Equations</div>
+      <div class="item">35R12 Impulsive Partial Differential Equations</div>
+      <div class="item">35R13 Fuzzy Partial Differential Equations</div>
+      <div class="item">35R15 PDEs on Infinite-Dimensional (e.g., function) Spaces (= PDEs in infinitely many variables)</div>
+      <div class="item">35R20 Operator Partial Differential Equations (= PDEs on finite-dimensional spaces for abstract space valued functions)</div>
+      <div class="item">35R25 Ill-Posed Problems for PDEs</div>
+      <div class="item">35R30 Inverse Problems for PDEs</div>
+      <div class="item">35R35 Free Boundary Problems for PDEs</div>
+      <div class="item">35R37 Moving Boundary Problems for PDEs</div>
+      <div class="item">35R45 Partial Differential Inequalities and Systems of Partial Differential Inequalities</div>
+      <div class="item">35R50 PDEs of Infinite Order</div>
+      <div class="item">35R60 PDEs with Randomness, Stochastic Partial Differential Equations</div>
+      <div class="item">35R70 PDEs with Multivalued Right-Hand Sides</div>
+    </div>
+    <div class="group">
+      <div class="title">35S Pseudodifferential Operators and Other Generalizations of Partial Differential Operators</div>
+      <div class="item">35S05 Pseudodifferential Operators as Generalizations of Partial Differential Operators</div>
+      <div class="item">35S10 Initial Value Problems for PDEs with Pseudodifferential Operators</div>
+      <div class="item">35S15 Boundary Value Problems for PDEs with Pseudodifferential Operators</div>
+      <div class="item">35S16 Initial-Boundary Value Problems for PDEs with Pseudodifferential Operators</div>
+      <div class="item">35S30 Fourier Integral Operators Applied to PDEs</div>
+      <div class="item">35S35 Topological Aspects for Pseudodifferential Operators in Context of PDEs: Intersection Cohomology, Stratified Sets, etc.</div>
+      <div class="item">35S50 Paradifferential Operators as Generalizations of Partial Differential Operators in Context of PDEs</div>
+    </div>
+  </div>
+</div>
+</body></html>

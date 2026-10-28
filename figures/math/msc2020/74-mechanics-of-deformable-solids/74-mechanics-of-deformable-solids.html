@@ -1,0 +1,188 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; max-width: 1220px; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; min-height: 34px; margin-bottom: 8px; padding: 4px 12px; box-sizing: border-box; max-width: 560px;
+          display: flex; align-items: center; justify-content: center; text-align: center; font-size: 15px; font-weight: 600; color: #222; line-height: 1.3; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">74 Mechanics of Deformable Solids</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">74A Generalities, Axiomatics, Foundations of Continuum Mechanics of Solids</div>
+      <div class="item">74A05 Kinematics of Deformation</div>
+      <div class="item">74A10 Stress</div>
+      <div class="item">74A15 Thermodynamics in Solid Mechanics</div>
+      <div class="item">74A20 Theory of Constitutive Functions in Solid Mechanics</div>
+      <div class="item">74A25 Molecular, Statistical, and Kinetic Theories in Solid Mechanics</div>
+      <div class="item">74A30 Nonsimple Materials</div>
+      <div class="item">74A35 Polar Materials</div>
+      <div class="item">74A40 Random Materials and Composite Materials</div>
+      <div class="item">74A45 Theories of Fracture and Damage</div>
+      <div class="item">74A50 Structured Surfaces and Interfaces, Coexistent Phases</div>
+      <div class="item">74A55 Theories of Friction (tribology)</div>
+      <div class="item">74A60 Micromechanical Theories</div>
+      <div class="item">74A65 Reactive Materials</div>
+      <div class="item">74A70 Peridynamics</div>
+    </div>
+    <div class="group">
+      <div class="title">74B Elastic Materials</div>
+      <div class="item">74B05 Classical Linear Elasticity</div>
+      <div class="item">74B10 Linear Elasticity with Initial Stresses</div>
+      <div class="item">74B15 Equations Linearized About a Deformed State (small deformations superposed on large)</div>
+      <div class="item">74B20 Nonlinear Elasticity</div>
+    </div>
+    <div class="group">
+      <div class="title">74C Plastic Materials, Materials of Stress-Rate and Internal-Variable Type</div>
+      <div class="item">74C05 Small-Strain, Rate-Independent Theories of Plasticity (including rigid-plastic and elasto-plastic materials)</div>
+      <div class="item">74C10 Small-Strain, Rate-Dependent Theories of Plasticity (including theories of viscoplasticity)</div>
+      <div class="item">74C15 Large-Strain, Rate-Independent Theories of Plasticity (including nonlinear plasticity)</div>
+      <div class="item">74C20 Large-Strain, Rate-Dependent Theories of Plasticity</div>
+    </div>
+    <div class="group">
+      <div class="title">74D Materials of Strain-Rate Type and History Type, Other Materials with Memory (including elastic materials with viscous damping, various viscoelastic materials)</div>
+      <div class="item">74D05 Linear Constitutive Equations for Materials with Memory</div>
+      <div class="item">74D10 Nonlinear Constitutive Equations for Materials with Memory</div>
+    </div>
+    <div class="group">
+      <div class="title">74E Material Properties Given Special Treatment</div>
+      <div class="item">74E05 Inhomogeneity in Solid Mechanics</div>
+      <div class="item">74E10 Anisotropy in Solid Mechanics</div>
+      <div class="item">74E15 Crystalline Structure</div>
+      <div class="item">74E20 Granularity</div>
+      <div class="item">74E25 Texture in Solid Mechanics</div>
+      <div class="item">74E30 Composite and Mixture Properties</div>
+      <div class="item">74E35 Random Structure in Solid Mechanics</div>
+      <div class="item">74E40 Chemical Structure in Solid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">74F Coupling of Solid Mechanics with Other Effects</div>
+      <div class="item">74F05 Thermal Effects in Solid Mechanics</div>
+      <div class="item">74F10 Fluid-Solid Interactions (including aero- and hydro-elasticity, porosity, etc.)</div>
+      <div class="item">74F15 Electromagnetic Effects in Solid Mechanics</div>
+      <div class="item">74F20 Mixture Effects in Solid Mechanics</div>
+      <div class="item">74F25 Chemical and Reactive Effects in Solid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">74G Equilibrium (steady-state) Problems in Solid Mechanics</div>
+      <div class="item">74G05 Explicit Solutions of Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G10 Analytic Approximation of Solutions (perturbation methods, asymptotic methods, series, etc.) of Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G15 Numerical Approximation of Solutions of Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G22 Existence of Solutions of Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G30 Uniqueness of Solutions of Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G35 Multiplicity of Solutions of Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G40 Regularity of Solutions of Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G45 Bounds for Solutions of Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G50 Saint-Venant's Principle</div>
+      <div class="item">74G55 Qualitative Behavior of Solutions of Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G60 Bifurcation and Buckling</div>
+      <div class="item">74G65 Energy Minimization in Equilibrium Problems in Solid Mechanics</div>
+      <div class="item">74G70 Stress Concentrations, Singularities in Solid Mechanics</div>
+      <div class="item">74G75 Inverse Problems in Equilibrium Solid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">74H Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H05 Explicit Solutions of Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H10 Analytic Approximation of Solutions (perturbation methods, asymptotic methods, series, etc.) of Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H15 Numerical Approximation of Solutions of Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H20 Existence of Solutions of Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H25 Uniqueness of Solutions of Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H30 Regularity of Solutions of Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H35 Singularities, Blow-Up, Stress Concentrations for Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H40 Long-Time Behavior of Solutions for Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H45 Vibrations in Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H50 Random Vibrations in Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H55 Stability of Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H60 Dynamical Bifurcation of Solutions to Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H65 Chaotic Behavior of Solutions to Dynamical Problems in Solid Mechanics</div>
+      <div class="item">74H75 Inverse Problems in Dynamical Solid Mechanics</div>
+      <div class="item">74H80 Energy Minimization in Dynamical Problems in Solid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">74J Waves in Solid Mechanics</div>
+      <div class="item">74J05 Linear Waves in Solid Mechanics</div>
+      <div class="item">74J10 Bulk Waves in Solid Mechanics</div>
+      <div class="item">74J15 Surface Waves in Solid Mechanics</div>
+      <div class="item">74J20 Wave Scattering in Solid Mechanics</div>
+      <div class="item">74J25 Inverse Problems for Waves in Solid Mechanics</div>
+      <div class="item">74J30 Nonlinear Waves in Solid Mechanics</div>
+      <div class="item">74J35 Solitary Waves in Solid Mechanics</div>
+      <div class="item">74J40 Shocks and Related Discontinuities in Solid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">74K Thin Bodies, Structures</div>
+      <div class="item">74K05 Strings</div>
+      <div class="item">74K10 Rods (beams, columns, shafts, arches, rings, etc.)</div>
+      <div class="item">74K15 Membranes</div>
+      <div class="item">74K20 Plates</div>
+      <div class="item">74K25 Shells</div>
+      <div class="item">74K30 Junctions</div>
+      <div class="item">74K35 Thin Films</div>
+    </div>
+    <div class="group">
+      <div class="title">74L Special Subfields of Solid Mechanics</div>
+      <div class="item">74L05 Geophysical Solid Mechanics</div>
+      <div class="item">74L10 Soil and Rock Mechanics</div>
+      <div class="item">74L15 Biomechanical Solid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">74M Special Kinds of Problems in Solid Mechanics</div>
+      <div class="item">74M05 Control, Switches and Devices ("smart materials") in Solid Mechanics</div>
+      <div class="item">74M10 Friction in Solid Mechanics</div>
+      <div class="item">74M15 Contact in Solid Mechanics</div>
+      <div class="item">74M20 Impact in Solid Mechanics</div>
+      <div class="item">74M25 Micromechanics of Solids</div>
+    </div>
+    <div class="group">
+      <div class="title">74N Phase Transformations in Solids</div>
+      <div class="item">74N05 Crystals in Solids</div>
+      <div class="item">74N10 Displacive Transformations in Solids</div>
+      <div class="item">74N15 Analysis of Microstructure in Solids</div>
+      <div class="item">74N20 Dynamics of Phase Boundaries in Solids</div>
+      <div class="item">74N25 Transformations Involving Diffusion in Solids</div>
+      <div class="item">74N30 Problems Involving Hysteresis in Solids</div>
+    </div>
+    <div class="group">
+      <div class="title">74P Optimization Problems in Solid Mechanics</div>
+      <div class="item">74P05 Compliance or Weight Optimization in Solid Mechanics</div>
+      <div class="item">74P10 Optimization of Other Properties in Solid Mechanics</div>
+      <div class="item">74P15 Topological Methods for Optimization Problems in Solid Mechanics</div>
+      <div class="item">74P20 Geometrical Methods for Optimization Problems in Solid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">74Q Homogenization, Determination of Effective Properties in Solid Mechanics</div>
+      <div class="item">74Q05 Homogenization in Equilibrium Problems of Solid Mechanics</div>
+      <div class="item">74Q10 Homogenization and Oscillations in Dynamical Problems of Solid Mechanics</div>
+      <div class="item">74Q15 Effective Constitutive Equations in Solid Mechanics</div>
+      <div class="item">74Q20 Bounds on Effective Properties in Solid Mechanics</div>
+    </div>
+    <div class="group">
+      <div class="title">74R Fracture and Damage</div>
+      <div class="item">74R05 Brittle Damage</div>
+      <div class="item">74R10 Brittle Fracture</div>
+      <div class="item">74R15 High-Velocity Fracture</div>
+      <div class="item">74R20 Anelastic Fracture and Damage</div>
+    </div>
+    <div class="group">
+      <div class="title">74S Numerical and Other Methods in Solid Mechanics</div>
+      <div class="item">74S05 Finite Element Methods Applied to Problems in Solid Mechanics</div>
+      <div class="item">74S10 Finite Volume Methods Applied to Problems in Solid Mechanics</div>
+      <div class="item">74S15 Boundary Element Methods Applied to Problems in Solid Mechanics</div>
+      <div class="item">74S20 Finite Difference Methods Applied to Problems in Solid Mechanics</div>
+      <div class="item">74S22 Isogeometric Methods Applied to Problems in Solid Mechanics</div>
+      <div class="item">74S25 Spectral and Related Methods Applied to Problems in Solid Mechanics</div>
+      <div class="item">74S40 Applications of Fractional Calculus in Solid Mechanics</div>
+      <div class="item">74S50 Applications of Graph Theory in Solid Mechanics</div>
+      <div class="item">74S60 Stochastic and Other Probabilistic Methods Applied to Problems in Solid Mechanics</div>
+      <div class="item">74S70 Complex-Variable Methods Applied to Problems in Solid Mechanics</div>
+    </div>
+  </div>
+</div>
+</body></html>

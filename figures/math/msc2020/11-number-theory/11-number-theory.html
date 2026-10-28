@@ -1,0 +1,336 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; max-width: 1220px; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; min-height: 34px; margin-bottom: 8px; padding: 4px 12px; box-sizing: border-box; max-width: 560px;
+          display: flex; align-items: center; justify-content: center; text-align: center; font-size: 15px; font-weight: 600; color: #222; line-height: 1.3; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">11 Number Theory</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">11A Elementary Number Theory</div>
+      <div class="item">11A05 Multiplicative Structure; Euclidean Algorithm; Greatest Common Divisors</div>
+      <div class="item">11A07 Congruences; Primitive Roots; Residue Systems</div>
+      <div class="item">11A15 Power Residues, Reciprocity</div>
+      <div class="item">11A25 Arithmetic Functions; Related Numbers; Inversion Formulas</div>
+      <div class="item">11A41 Primes</div>
+      <div class="item">11A51 Factorization; Primality</div>
+      <div class="item">11A55 Continued Fractions</div>
+      <div class="item">11A63 Radix Representation; Digital Problems</div>
+      <div class="item">11A67 Other Number Representations</div>
+    </div>
+    <div class="group">
+      <div class="title">11B Sequences and Sets</div>
+      <div class="item">11B05 Density, Gaps, Topology</div>
+      <div class="item">11B13 Additive Bases, Including Sumsets</div>
+      <div class="item">11B25 Arithmetic Progressions</div>
+      <div class="item">11B30 Arithmetic Combinatorics; Higher Degree Uniformity</div>
+      <div class="item">11B34 Representation Functions</div>
+      <div class="item">11B37 Recurrences</div>
+      <div class="item">11B39 Fibonacci and Lucas Numbers and Polynomials and Generalizations</div>
+      <div class="item">11B50 Sequences (mod m)</div>
+      <div class="item">11B57 Farey Sequences; The Sequences 1^k, 2^k, …</div>
+      <div class="item">11B65 Binomial Coefficients; Factorials; q-identities</div>
+      <div class="item">11B68 Bernoulli and Euler Numbers and Polynomials</div>
+      <div class="item">11B73 Bell and Stirling Numbers</div>
+      <div class="item">11B75 Other Combinatorial Number Theory</div>
+      <div class="item">11B83 Special Sequences and Polynomials</div>
+      <div class="item">11B85 Automata Sequences</div>
+    </div>
+    <div class="group">
+      <div class="title">11C Polynomials and Matrices</div>
+      <div class="item">11C08 Polynomials in Number Theory</div>
+      <div class="item">11C20 Matrices, Determinants in Number Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">11D Diophantine Equations</div>
+      <div class="item">11D04 Linear Diophantine Equations</div>
+      <div class="item">11D07 The Frobenius Problem</div>
+      <div class="item">11D09 Quadratic and Bilinear Diophantine Equations</div>
+      <div class="item">11D25 Cubic and Quartic Diophantine Equations</div>
+      <div class="item">11D41 Higher Degree Equations; Fermat's Equation</div>
+      <div class="item">11D45 Counting Solutions of Diophantine Equations</div>
+      <div class="item">11D57 Multiplicative and Norm Form Equations</div>
+      <div class="item">11D59 Thue-Mahler Equations</div>
+      <div class="item">11D61 Exponential Diophantine Equations</div>
+      <div class="item">11D68 Rational Numbers as Sums of Fractions</div>
+      <div class="item">11D72 Diophantine Equations in Many Variables</div>
+      <div class="item">11D75 Diophantine Inequalities</div>
+      <div class="item">11D79 Congruences in Many Variables</div>
+      <div class="item">11D85 Representation Problems</div>
+      <div class="item">11D88 p-adic and Power Series Fields</div>
+    </div>
+    <div class="group">
+      <div class="title">11E Forms and Linear Algebraic Groups</div>
+      <div class="item">11E04 Quadratic Forms over General Fields</div>
+      <div class="item">11E08 Quadratic Forms over Local Rings and Fields</div>
+      <div class="item">11E10 Forms over Real Fields</div>
+      <div class="item">11E12 Quadratic Forms over Global Rings and Fields</div>
+      <div class="item">11E16 General Binary Quadratic Forms</div>
+      <div class="item">11E20 General Ternary and Quaternary Quadratic Forms; Forms of More Than Two Variables</div>
+      <div class="item">11E25 Sums of Squares and Representations by Other Particular Quadratic Forms</div>
+      <div class="item">11E39 Bilinear and Hermitian Forms</div>
+      <div class="item">11E41 Class Numbers of Quadratic and Hermitian Forms</div>
+      <div class="item">11E45 Analytic Theory (Epstein zeta functions; relations with automorphic forms and functions)</div>
+      <div class="item">11E57 Classical Groups</div>
+      <div class="item">11E70 K-Theory of Quadratic and Hermitian Forms</div>
+      <div class="item">11E72 Galois Cohomology of Linear Algebraic Groups</div>
+      <div class="item">11E76 Forms of Degree Higher Than Two</div>
+      <div class="item">11E81 Algebraic Theory of Quadratic Forms; Witt Groups and Rings</div>
+      <div class="item">11E88 Quadratic Spaces; Clifford Algebras</div>
+      <div class="item">11E95 p-adic Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">11F Discontinuous Groups and Automorphic Forms</div>
+      <div class="item">11F03 Modular and Automorphic Functions</div>
+      <div class="item">11F06 Structure of Modular Groups and Generalizations; Arithmetic Groups</div>
+      <div class="item">11F11 Holomorphic Modular Forms of Integral Weight</div>
+      <div class="item">11F12 Automorphic Forms, One Variable</div>
+      <div class="item">11F20 Dedekind Eta Function, Dedekind Sums</div>
+      <div class="item">11F22 Relationship to Lie Algebras and Finite Simple Groups</div>
+      <div class="item">11F23 Relations with Algebraic Geometry and Topology</div>
+      <div class="item">11F25 Hecke-Petersson Operators, Differential Operators (one variable)</div>
+      <div class="item">11F27 Theta Series; Weil Representation; Theta Correspondences</div>
+      <div class="item">11F30 Fourier Coefficients of Automorphic Forms</div>
+      <div class="item">11F32 Modular Correspondences, etc.</div>
+      <div class="item">11F33 Congruences for Modular and p-adic Modular Forms</div>
+      <div class="item">11F37 Forms of Half-Integer Weight; Nonholomorphic Modular Forms</div>
+      <div class="item">11F41 Automorphic Forms on GL(2); Hilbert and Hilbert-Siegel Modular Groups and Their Modular and Automorphic Forms; Hilbert Modular Surfaces</div>
+      <div class="item">11F46 Siegel Modular Groups; Siegel and Hilbert-Siegel Modular and Automorphic Forms</div>
+      <div class="item">11F50 Jacobi Forms</div>
+      <div class="item">11F52 Modular Forms Associated to Drinfel'd Modules</div>
+      <div class="item">11F55 Other Groups and Their Modular and Automorphic Forms (several variables)</div>
+      <div class="item">11F60 Hecke-Petersson Operators, Differential Operators (several variables)</div>
+      <div class="item">11F66 Langlands L-Functions; One Variable Dirichlet Series and Functional Equations</div>
+      <div class="item">11F67 Special Values of Automorphic L-Series, Periods of Automorphic Forms, Cohomology, Modular Symbols</div>
+      <div class="item">11F68 Dirichlet Series in Several Complex Variables Associated to Automorphic Forms; Weyl Group Multiple Dirichlet Series</div>
+      <div class="item">11F70 Representation-Theoretic Methods; Automorphic Representations over Local and Global Fields</div>
+      <div class="item">11F72 Spectral Theory; Trace Formulas (e.g., that of Selberg)</div>
+      <div class="item">11F75 Cohomology of Arithmetic Groups</div>
+      <div class="item">11F77 Automorphic Forms and Their Relations with Perfectoid Spaces</div>
+      <div class="item">11F80 Galois Representations</div>
+      <div class="item">11F85 p-adic Theory, Local Fields</div>
+    </div>
+    <div class="group">
+      <div class="title">11G Arithmetic Algebraic Geometry (Diophantine geometry)</div>
+      <div class="item">11G05 Elliptic Curves over Global Fields</div>
+      <div class="item">11G07 Elliptic Curves over Local Fields</div>
+      <div class="item">11G09 Drinfel'd Modules; Higher-Dimensional Motives, etc.</div>
+      <div class="item">11G10 Abelian Varieties of Dimension > 1</div>
+      <div class="item">11G15 Complex Multiplication and Moduli of Abelian Varieties</div>
+      <div class="item">11G16 Elliptic and Modular Units</div>
+      <div class="item">11G18 Arithmetic Aspects of Modular and Shimura Varieties</div>
+      <div class="item">11G20 Curves over Finite and Local Fields</div>
+      <div class="item">11G25 Varieties over Finite and Local Fields</div>
+      <div class="item">11G30 Curves of Arbitrary Genus or Genus ≠1 over Global Fields</div>
+      <div class="item">11G32 Arithmetic Aspects of Dessins D'enfants, Belyĭ Theory</div>
+      <div class="item">11G35 Varieties over Global Fields</div>
+      <div class="item">11G40 L-Functions of Varieties over Global Fields; Birch-Swinnerton-Dyer Conjecture</div>
+      <div class="item">11G42 Arithmetic Mirror Symmetry</div>
+      <div class="item">11G45 Geometric Class Field Theory</div>
+      <div class="item">11G50 Heights</div>
+      <div class="item">11G55 Polylogarithms and Relations with K-Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">11H Geometry of Numbers</div>
+      <div class="item">11H06 Lattices and Convex Bodies (number-theoretic aspects)</div>
+      <div class="item">11H16 Nonconvex Bodies</div>
+      <div class="item">11H31 Lattice Packing and Covering (number-theoretic aspects)</div>
+      <div class="item">11H46 Products of Linear Forms</div>
+      <div class="item">11H50 Minima of Forms</div>
+      <div class="item">11H55 Quadratic Forms (reduction theory, extreme forms, etc.)</div>
+      <div class="item">11H56 Automorphism Groups of Lattices</div>
+      <div class="item">11H60 Mean Value and Transfer Theorems</div>
+      <div class="item">11H71 Relations with Coding Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">11J Diophantine Approximation, Transcendental Number Theory</div>
+      <div class="item">11J04 Homogeneous Approximation to One Number</div>
+      <div class="item">11J06 Markov and Lagrange Spectra and Generalizations</div>
+      <div class="item">11J13 Simultaneous Homogeneous Approximation, Linear Forms</div>
+      <div class="item">11J17 Approximation by Numbers from a Fixed Field</div>
+      <div class="item">11J20 Inhomogeneous Linear Forms</div>
+      <div class="item">11J25 Diophantine Inequalities</div>
+      <div class="item">11J54 Small Fractional Parts of Polynomials and Generalizations</div>
+      <div class="item">11J61 Approximation in Non-Archimedean Valuations</div>
+      <div class="item">11J68 Approximation to Algebraic Numbers</div>
+      <div class="item">11J70 Continued Fractions and Generalizations</div>
+      <div class="item">11J71 Distribution Modulo One</div>
+      <div class="item">11J72 Irrationality; Linear Independence over a Field</div>
+      <div class="item">11J81 Transcendence (general theory)</div>
+      <div class="item">11J82 Measures of Irrationality and of Transcendence</div>
+      <div class="item">11J83 Metric Theory</div>
+      <div class="item">11J85 Algebraic Independence; Gel'fond's Method</div>
+      <div class="item">11J86 Linear Forms in Logarithms; Baker's Method</div>
+      <div class="item">11J87 Schmidt Subspace Theorem and Applications</div>
+      <div class="item">11J89 Transcendence Theory of Elliptic and Abelian Functions</div>
+      <div class="item">11J91 Transcendence Theory of Other Special Functions</div>
+      <div class="item">11J93 Transcendence Theory of Drinfel'd and t-modules</div>
+      <div class="item">11J95 Results Involving Abelian Varieties</div>
+      <div class="item">11J97 Number-Theoretic Analogues of Methods in Nevanlinna Theory (work of Vojta et al.)</div>
+    </div>
+    <div class="group">
+      <div class="title">11K Probabilistic Theory: Distribution Modulo 1; Metric Theory of Algorithms</div>
+      <div class="item">11K06 General Theory of Distribution Modulo 1</div>
+      <div class="item">11K16 Normal Numbers, Radix Expansions, Pisot Numbers, Salem Numbers, Good Lattice Points, etc.</div>
+      <div class="item">11K31 Special Sequences</div>
+      <div class="item">11K36 Well-Distributed Sequences and Other Variations</div>
+      <div class="item">11K38 Irregularities of Distribution, Discrepancy</div>
+      <div class="item">11K41 Continuous, p-adic and Abstract Analogues</div>
+      <div class="item">11K45 Pseudo-Random Numbers; Monte Carlo Methods</div>
+      <div class="item">11K50 Metric Theory of Continued Fractions</div>
+      <div class="item">11K55 Metric Theory of Other Algorithms and Expansions; Measure and Hausdorff Dimension</div>
+      <div class="item">11K60 Diophantine Approximation in Probabilistic Number Theory</div>
+      <div class="item">11K65 Arithmetic Functions in Probabilistic Number Theory</div>
+      <div class="item">11K70 Harmonic Analysis and Almost Periodicity in Probabilistic Number Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">11L Exponential Sums and Character Sums</div>
+      <div class="item">11L03 Trigonometric and Exponential Sums (general theory)</div>
+      <div class="item">11L05 Gauss and Kloosterman Sums; Generalizations</div>
+      <div class="item">11L07 Estimates on Exponential Sums</div>
+      <div class="item">11L10 Jacobsthal and Brewer Sums; Other Complete Character Sums</div>
+      <div class="item">11L15 Weyl Sums</div>
+      <div class="item">11L20 Sums over Primes</div>
+      <div class="item">11L26 Sums over Arbitrary Intervals</div>
+      <div class="item">11L40 Estimates on Character Sums</div>
+    </div>
+    <div class="group">
+      <div class="title">11M Zeta and L-Functions: Analytic Theory</div>
+      <div class="item">11M06 ζ(s) and L(s, χ)</div>
+      <div class="item">11M20 Real Zeros of L(s, χ); Results on L(1, χ)</div>
+      <div class="item">11M26 Nonreal Zeros of ζ(s) and L(s, χ); Riemann and Other Hypotheses</div>
+      <div class="item">11M32 Multiple Dirichlet Series and Zeta Functions and Multizeta Values</div>
+      <div class="item">11M35 Hurwitz and Lerch Zeta Functions</div>
+      <div class="item">11M36 Selberg Zeta Functions and Regularized Determinants; Applications to Spectral Theory, Dirichlet Series, Eisenstein Series, etc. (explicit formulas)</div>
+      <div class="item">11M38 Zeta and L-Functions in Characteristic p</div>
+      <div class="item">11M41 Other Dirichlet Series and Zeta Functions</div>
+      <div class="item">11M45 Tauberian Theorems</div>
+      <div class="item">11M50 Relations with Random Matrices</div>
+      <div class="item">11M55 Relations with Noncommutative Geometry</div>
+    </div>
+    <div class="group">
+      <div class="title">11N Multiplicative Number Theory</div>
+      <div class="item">11N05 Distribution of Primes</div>
+      <div class="item">11N13 Primes in Congruence Classes</div>
+      <div class="item">11N25 Distribution of Integers with Specified Multiplicative Constraints</div>
+      <div class="item">11N30 Turán Theory</div>
+      <div class="item">11N32 Primes Represented by Polynomials; Other Multiplicative Structures of Polynomial Values</div>
+      <div class="item">11N35 Sieves</div>
+      <div class="item">11N36 Applications of Sieve Methods</div>
+      <div class="item">11N37 Asymptotic Results on Arithmetic Functions</div>
+      <div class="item">11N45 Asymptotic Results on Counting Functions for Algebraic and Topological Structures</div>
+      <div class="item">11N56 Rate of Growth of Arithmetic Functions</div>
+      <div class="item">11N60 Distribution Functions Associated with Additive and Positive Multiplicative Functions</div>
+      <div class="item">11N64 Other Results on the Distribution of Values or the Characterization of Arithmetic Functions</div>
+      <div class="item">11N69 Distribution of Integers in Special Residue Classes</div>
+      <div class="item">11N75 Applications of Automorphic Functions and Forms to Multiplicative Problems</div>
+      <div class="item">11N80 Generalized Primes and Integers</div>
+    </div>
+    <div class="group">
+      <div class="title">11P Additive Number Theory; Partitions</div>
+      <div class="item">11P05 Waring's Problem and Variants</div>
+      <div class="item">11P21 Lattice Points in Specified Regions</div>
+      <div class="item">11P32 Goldbach-Type Theorems; Other Additive Questions Involving Primes</div>
+      <div class="item">11P55 Applications of the Hardy-Littlewood Method</div>
+      <div class="item">11P70 Inverse Problems of Additive Number Theory, Including Sumsets</div>
+      <div class="item">11P81 Elementary Theory of Partitions</div>
+      <div class="item">11P82 Analytic Theory of Partitions</div>
+      <div class="item">11P83 Partitions; Congruences and Congruential Restrictions</div>
+      <div class="item">11P84 Partition Identities; Identities of Rogers-Ramanujan Type</div>
+    </div>
+    <div class="group">
+      <div class="title">11R Algebraic Number Theory: Global Fields</div>
+      <div class="item">11R04 Algebraic Numbers; Rings of Algebraic Integers</div>
+      <div class="item">11R06 PV-Numbers and Generalizations; Other Special Algebraic Numbers; Mahler Measure</div>
+      <div class="item">11R09 Polynomials (irreducibility, etc.)</div>
+      <div class="item">11R11 Quadratic Extensions</div>
+      <div class="item">11R16 Cubic and Quartic Extensions</div>
+      <div class="item">11R18 Cyclotomic Extensions</div>
+      <div class="item">11R20 Other Abelian and Metabelian Extensions</div>
+      <div class="item">11R21 Other Number Fields</div>
+      <div class="item">11R23 Iwasawa Theory</div>
+      <div class="item">11R27 Units and Factorization</div>
+      <div class="item">11R29 Class Numbers, Class Groups, Discriminants</div>
+      <div class="item">11R32 Galois Theory</div>
+      <div class="item">11R33 Integral Representations Related to Algebraic Numbers; Galois Module Structure of Rings of Integers</div>
+      <div class="item">11R34 Galois Cohomology</div>
+      <div class="item">11R37 Class Field Theory</div>
+      <div class="item">11R39 Langlands-Weil Conjectures, Nonabelian Class Field Theory</div>
+      <div class="item">11R42 Zeta Functions and L-Functions of Number Fields</div>
+      <div class="item">11R44 Distribution of Prime Ideals</div>
+      <div class="item">11R45 Density Theorems</div>
+      <div class="item">11R47 Other Analytic Theory</div>
+      <div class="item">11R52 Quaternion and Other Division Algebras: Arithmetic, Zeta Functions</div>
+      <div class="item">11R54 Other Algebras and Orders, and Their Zeta and L-Functions</div>
+      <div class="item">11R56 Adèle Rings and Groups</div>
+      <div class="item">11R58 Arithmetic Theory of Algebraic Function Fields</div>
+      <div class="item">11R59 Zeta Functions and L-Functions of Function Fields</div>
+      <div class="item">11R60 Cyclotomic Function Fields (class groups, Bernoulli objects, etc.)</div>
+      <div class="item">11R65 Class Groups and Picard Groups of Orders</div>
+      <div class="item">11R70 K-Theory of Global Fields</div>
+      <div class="item">11R80 Totally Real Fields</div>
+    </div>
+    <div class="group">
+      <div class="title">11S Algebraic Number Theory: Local Fields</div>
+      <div class="item">11S05 Polynomials</div>
+      <div class="item">11S15 Ramification and Extension Theory</div>
+      <div class="item">11S20 Galois Theory</div>
+      <div class="item">11S23 Integral Representations</div>
+      <div class="item">11S25 Galois Cohomology</div>
+      <div class="item">11S31 Class Field Theory; p-adic Formal Groups</div>
+      <div class="item">11S37 Langlands-Weil Conjectures, Nonabelian Class Field Theory</div>
+      <div class="item">11S40 Zeta Functions and L-Functions</div>
+      <div class="item">11S45 Algebras and Orders, and Their Zeta Functions</div>
+      <div class="item">11S70 K-Theory of Local Fields</div>
+      <div class="item">11S80 Other Analytic Theory (analogues of beta and gamma functions, p-adic integration, etc.)</div>
+      <div class="item">11S82 Non-Archimedean Dynamical Systems</div>
+      <div class="item">11S85 Other Nonanalytic Theory</div>
+      <div class="item">11S90 Prehomogeneous Vector Spaces</div>
+    </div>
+    <div class="group">
+      <div class="title">11T Finite Fields and Commutative Rings (number-theoretic aspects)</div>
+      <div class="item">11T06 Polynomials over Finite Fields</div>
+      <div class="item">11T22 Cyclotomy</div>
+      <div class="item">11T23 Exponential Sums</div>
+      <div class="item">11T24 Other Character Sums and Gauss Sums</div>
+      <div class="item">11T30 Structure Theory for Finite Fields and Commutative Rings (number-theoretic aspects)</div>
+      <div class="item">11T55 Arithmetic Theory of Polynomial Rings over Finite Fields</div>
+      <div class="item">11T60 Finite Upper Half-Planes</div>
+      <div class="item">11T71 Algebraic Coding Theory; Cryptography (number-theoretic aspects)</div>
+    </div>
+    <div class="group">
+      <div class="title">11U Connections of Number Theory and Logic</div>
+      <div class="item">11U05 Decidability (number-theoretic aspects)</div>
+      <div class="item">11U07 Ultraproducts (number-theoretic aspects)</div>
+      <div class="item">11U09 Model Theory (number-theoretic aspects)</div>
+      <div class="item">11U10 Nonstandard Arithmetic (number-theoretic aspects)</div>
+    </div>
+    <div class="group">
+      <div class="title">11Y Computational Number Theory</div>
+      <div class="item">11Y05 Factorization</div>
+      <div class="item">11Y11 Primality</div>
+      <div class="item">11Y16 Number-Theoretic Algorithms; Complexity</div>
+      <div class="item">11Y35 Analytic Computations</div>
+      <div class="item">11Y40 Algebraic Number Theory Computations</div>
+      <div class="item">11Y50 Computer Solution of Diophantine Equations</div>
+      <div class="item">11Y55 Calculation of Integer Sequences</div>
+      <div class="item">11Y60 Evaluation of Number-Theoretic Constants</div>
+      <div class="item">11Y65 Continued Fraction Calculations (number-theoretic aspects)</div>
+      <div class="item">11Y70 Values of Arithmetic Functions; Tables</div>
+    </div>
+    <div class="group">
+      <div class="title">11Z Miscellaneous Applications of Number Theory</div>
+      <div class="item">11Z05 Miscellaneous Applications of Number Theory</div>
+    </div>
+  </div>
+</div>
+</body></html>
