@@ -93,8 +93,8 @@ Content has official sources; section names are the common names of the field.
 
 ### Science dropdown
 
-- The sciences sit in one dropdown entry, Science, placed alphabetically like a section; it lists its sections alphabetically, with no subgroups (since 2026-10-28; before, it was grouped by the six fields of the OECD Frascati Manual, which the site no longer uses): Agricultural and Veterinary Sciences, Chemical Sciences, Computer Science, Earth and Related Environmental Sciences, Economics and Business, Engineering and Technology (one entry, IEEE Thesaurus), Humanities and the Arts, Mathematical Sciences, Medical and Health Sciences, Physical Sciences, Psychology and Cognitive Sciences, Social Sciences.
-- There is no Biological Sciences section (removed 2026-10-28): biology is read in Medical and Health Sciences, whose MeSH holds B Organisms, G Phenomena and Processes and H01.158 Biological Science Disciplines.
+- The sciences sit in one dropdown entry, Science, placed alphabetically like a section; it lists its sections with no subgroups (OECD's grouping was dropped on 2026-10-28), ordered by relevance to my work (software, cloud, data, AI), most relevant first (since 2026-10-28): Computer Science, Mathematical Sciences, Engineering and Technology (one entry, IEEE Thesaurus), Economics and Business, Social Sciences and Humanities (one section since 2026-10-28, as in SSHRC and UNESCO's 'Social and human sciences': entries ELSST and UNESCO Thesaurus), Medical and Health Sciences, Physical Sciences, Chemical Sciences, Agricultural and Veterinary Sciences, Earth and Related Environmental Sciences. This is the one menu ordered by relevance rather than alphabetically.
+- There are no Biological Sciences or Psychology and Cognitive Sciences sections (removed 2026-10-28): both are read in Medical and Health Sciences, whose MeSH holds B Organisms, G Phenomena and Processes and H01.158 Biological Science Disciplines for biology, and F Psychiatry and Psychology for psychology (psychology as MeSH sees it, from the medical side; the APA Thesaurus is open only inside paid databases).
 - Each science section has one entry, its field's official classification, titles only at first:
   - PhySH (American Physical Society; 17 disciplines, then the facets each uses)
   - CA Sections (CAS; 5 groups, 80 sections)
@@ -103,11 +103,10 @@ Content has official sources; section names are the common names of the field.
   - JEL (American Economic Association; 19 letter classes without Y Miscellaneous Categories, then two-character classes)
   - IEEE Thesaurus (July 2026; its 38 top terms, then their narrower terms; obtained through IEEE's access form, filled in by me). It is CC BY-NC-ND 4.0, so it is shared unaltered: terms exactly as IEEE writes them (no title case), in IEEE's own alphabetical order, no numbering, and its index page carries IEEE's attribution line and the license link. Chinese names next to its terms are this site's own translations and the index page says so; deeper levels are added when a direction is studied.
   - AGROVOC (FAO, CC BY 4.0, with official Chinese labels) for Agricultural and Veterinary Sciences: its 25 top concepts, then their narrower concepts, in this site's title case.
-  - ELSST (CESSDA, version 7, CC BY-SA 4.0) for Social Sciences: its 259 top concepts (it has no groups), then their narrower concepts; labels are in capitals at the source and in title case here, and the entry is shared under the same license.
-  - UNESCO Thesaurus (CC BY-SA 3.0 IGO) for Humanities and the Arts: domain 3, Culture, its 13 subject thesauri with UNESCO's notation (3.05 to 3.65), then their top concepts; shared under the same license.
-  - MeSH category F, Psychiatry and Psychology, for Psychology and Cognitive Sciences, where no open whole-field classification exists (2026-10-28; the APA Thesaurus is open only inside paid databases).
+  - ELSST (CESSDA, version 7, CC BY-SA 4.0) for the social sciences in Social Sciences and Humanities: its 259 top concepts (it has no groups), then their narrower concepts; labels are in capitals at the source and in title case here, and the entry is shared under the same license.
+  - UNESCO Thesaurus (CC BY-SA 3.0 IGO) for the humanities and the arts in Social Sciences and Humanities: domain 3, Culture, its 13 subject thesauri with UNESCO's notation (3.05 to 3.65), then their top concepts; shared under the same license.
 - OpenAlex is no longer used (2026-10-28): it filled the fields without a classification until each got a professional vocabulary (IEEE Thesaurus, AGROVOC, ELSST, UNESCO Thesaurus, MeSH), and Economics and Business keeps JEL alone.
-- Medicine keeps MeSH alone; the MeSH entry of Psychology copies its F branch.
+- Medicine keeps MeSH alone.
 
 ### Second level
 

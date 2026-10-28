@@ -29,30 +29,26 @@ items:
   href: qa/
 - name: Science
   items:
-  - name: Agricultural and Veterinary Sciences
-    href: agricultural-veterinary-sciences/
-  - name: Chemical Sciences
-    href: chemical-sciences/
   - name: Computer Science
     href: computer-science/
-  - name: Earth and Related Environmental Sciences
-    href: earth-sciences/
-  - name: Economics and Business
-    href: economics-business/
-  - name: Engineering and Technology
-    href: engineering-technology/
-  - name: Humanities and the Arts
-    href: humanities-arts/
   - name: Mathematical Sciences
     href: math/
+  - name: Engineering and Technology
+    href: engineering-technology/
+  - name: Economics and Business
+    href: economics-business/
+  - name: Social Sciences and Humanities
+    href: social-sciences-humanities/
   - name: Medical and Health Sciences
     href: medical-health-sciences/
   - name: Physical Sciences
     href: physical-sciences/
-  - name: Psychology and Cognitive Sciences
-    href: psychology-cognitive-sciences/
-  - name: Social Sciences
-    href: social-sciences/
+  - name: Chemical Sciences
+    href: chemical-sciences/
+  - name: Agricultural and Veterinary Sciences
+    href: agricultural-veterinary-sciences/
+  - name: Earth and Related Environmental Sciences
+    href: earth-sciences/
 - name: Security
   href: security/
 - name: System Design
