@@ -3,9 +3,11 @@ items:
   href: index.md
 - name: MSF
   href: cs2023/toc.yml
+- name: Intermediate
+  href: intermediate/toc.yml
 - name: MSC2020
   href: msc2020/toc.yml
 - name: IUPAC Green Book
   href: green-book/toc.yml
-- name: Metamath
-  href: metamath/toc.yml
+- name: Axioms
+  href: axioms/toc.yml
