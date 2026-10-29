@@ -14,6 +14,8 @@ ms.date: 2026-10-29
 
 | Symbol | Description | 中文翻译 | Source |
 |---|---|---|---|
+| **[IUPAC Green Book](index.md)**<br>IUPAC 绿皮书 | "The purpose of this manual is **to improve the exchange of scientific information** among the readers in different disciplines and across different nations." | 本手册的目的是**促进科学信息的交流**，使不同学科、不同国家的读者能够互相沟通。 | [Cohen et al., 2007, Preface, para. 1](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=9) |
+| **[5 Vectors](5-vectors.md)**<br>向量 | (No definition) | （无定义） | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |
 | $\boldsymbol{a},\ \vec{a}$ | "vector $\boldsymbol{a}$" | 向量 $\boldsymbol{a}$ | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |
 | $a_x,\ a_y,\ a_z$ | "cartesian components of $\boldsymbol{a}$" | $\boldsymbol{a}$ 的笛卡儿分量 | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |
 | $\boldsymbol{e}_x,\ \boldsymbol{e}_y,\ \boldsymbol{e}_z \text{ or } \boldsymbol{i},\ \boldsymbol{j},\ \boldsymbol{k}$ | "unit vectors in cartesian coordinate system" | 笛卡儿坐标系中的单位向量 | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |

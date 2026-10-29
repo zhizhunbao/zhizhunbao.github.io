@@ -14,6 +14,8 @@ ms.date: 2026-10-29
 
 | Symbol | Description | 中文翻译 | Source |
 |---|---|---|---|
+| **[IUPAC Green Book](index.md)**<br>IUPAC 绿皮书 | "The purpose of this manual is **to improve the exchange of scientific information** among the readers in different disciplines and across different nations." | 本手册的目的是**促进科学信息的交流**，使不同学科、不同国家的读者能够互相沟通。 | [Cohen et al., 2007, Preface, para. 1](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=9) |
+| **[7 Sets and Logical Operators](7-sets-and-logical-operators.md)**<br>集合与逻辑运算符 | (No definition) | （无定义） | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |
 | $p \wedge q$ | "$p$ and $q$ (conjunction sign)" | $p$ 且 $q$（合取号） | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |
 | $p \vee q$ | "$p$ or $q$ or both (disjunction sign)" | $p$ 或 $q$ 或两者（析取号） | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |
 | $\neg p$ | "negation of $p$, not $p$" | $p$ 的否定，非 $p$ | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |

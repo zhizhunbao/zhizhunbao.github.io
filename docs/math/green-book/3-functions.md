@@ -14,6 +14,8 @@ ms.date: 2026-10-29
 
 | Symbol | Description | 中文翻译 | Source |
 |---|---|---|---|
+| **[IUPAC Green Book](index.md)**<br>IUPAC 绿皮书 | "The purpose of this manual is **to improve the exchange of scientific information** among the readers in different disciplines and across different nations." | 本手册的目的是**促进科学信息的交流**，使不同学科、不同国家的读者能够互相沟通。 | [Cohen et al., 2007, Preface, para. 1](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=9) |
+| **[3 Functions](3-functions.md)**<br>函数 | (No definition) | （无定义） | [Cohen et al., 2007, section 4.2, p. 105](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=119) |
 | $\sin x$ | "sine of $x$" | $x$ 的正弦 | [Cohen et al., 2007, section 4.2, p. 105](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=119) |
 | $\cos x$ | "cosine of $x$" | $x$ 的余弦 | [Cohen et al., 2007, section 4.2, p. 105](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=119) |
 | $\tan x$ | "tangent of $x$" | $x$ 的正切 | [Cohen et al., 2007, section 4.2, p. 105](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=119) |

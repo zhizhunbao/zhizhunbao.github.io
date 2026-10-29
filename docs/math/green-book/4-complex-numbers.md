@@ -14,6 +14,8 @@ ms.date: 2026-10-29
 
 | Symbol | Description | 中文翻译 | Source |
 |---|---|---|---|
+| **[IUPAC Green Book](index.md)**<br>IUPAC 绿皮书 | "The purpose of this manual is **to improve the exchange of scientific information** among the readers in different disciplines and across different nations." | 本手册的目的是**促进科学信息的交流**，使不同学科、不同国家的读者能够互相沟通。 | [Cohen et al., 2007, Preface, para. 1](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=9) |
+| **[4 Complex Numbers](4-complex-numbers.md)**<br>复数 | (No definition) | （无定义） | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |
 | $\mathrm{i}$ | "square root of $-1$, $\sqrt{-1}$" | $-1$ 的平方根，$\sqrt{-1}$ | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |
 | $\operatorname{Re} z = a$ | "real part of $z = a + \mathrm{i}b$" | $z = a + \mathrm{i}b$ 的实部 | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |
 | $\operatorname{Im} z = b$ | "imaginary part of $z = a + \mathrm{i}b$" | $z = a + \mathrm{i}b$ 的虚部 | [Cohen et al., 2007, section 4.2, p. 107](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf#page=121) |

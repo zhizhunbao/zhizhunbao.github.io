@@ -7,3 +7,5 @@ items:
   href: msc2020/toc.yml
 - name: IUPAC Green Book
   href: green-book/toc.yml
+- name: Metamath
+  href: metamath/toc.yml
