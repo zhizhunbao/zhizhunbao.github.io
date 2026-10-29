@@ -155,6 +155,11 @@ body { line-height: 1.75; }
 .kb-mobile-nav { list-style: none; margin: 8px 0 0; padding: 0 24px 8px 0; font-size: 14px; border-bottom: 1px solid var(--theme-border); }
 .kb-mobile-nav a { display: block; padding: 4px 0 4px 16px; border-radius: 4px; color: var(--theme-text); text-decoration: none; }
 .kb-mobile-nav a.is-selected { font-weight: 600; background: var(--theme-body-background-dark); }
+.kb-mobile-nav .tree-expander { display: block; padding: 4px 0 4px 16px; cursor: pointer; position: relative; }
+.kb-mobile-nav .tree-expander::before { content: ""; position: absolute; inset-inline-start: 2px; top: 50%; width: 6px; height: 6px; border: solid currentColor; border-width: 0 1px 1px 0; transform: translateY(-75%) rotate(-45deg); }
+.kb-mobile-nav [aria-expanded="true"] > .tree-expander::before { transform: translateY(-75%) rotate(45deg); }
+.kb-mobile-nav [aria-expanded="false"] > .tree-group { display: none; }
+.kb-mobile-nav .tree-group { list-style: none; padding: 0 0 0 16px; margin: 0; }
 /* Header bars: one line; items that do not fit go into the "More" menu (kb.js more()) */
 #kb-primary-nav .site-header-nav, #kb-secondary-nav .site-header-nav { min-width: 0; }
 #kb-nav, #kb-section-nav { flex-wrap: nowrap; white-space: nowrap; }
@@ -289,8 +294,17 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 .kb-quiz-result > summary { cursor: pointer; color: var(--theme-text-subtle); font-size: 13px; }
 .kb-quiz-result[open] > summary { margin-bottom: 6px; }
 
-/* Phones: "In this article" is hidden; the header is one compact row (menu, logo, name, search) */
+/* Phones: "In this article" is hidden; the header is one compact row (menu, logo, name, search);
+   the drawer shows either the site sections (menu button) or the section's tree (Table of contents button), as on Learn */
+.kb-toc-open #left-container { display: block !important; }
+.kb-toc-title { display: flex; align-items: center; justify-content: space-between; padding: 12px 8px 8px 0; font-weight: 600; }
 @media (max-width: 767.98px) {
+  .kb-menu-open #kb-toc-title, .kb-menu-open #kb-toc-header, .kb-menu-open .kb-filter, .kb-menu-open #kb-toc { display: none !important; }
+  .kb-toc-open #kb-mobile-nav, .kb-toc-open #kb-toc-header { display: none !important; }
+  html:not(.kb-toc-open) #kb-toc-title { display: none; }
+  .kb-mobile-nav { border-bottom: 0; }
+  html:has(#kb-toc:empty) .kb-toc-button { display: none; }
+  .kb-filter { margin-inline-end: 16px; }
   #center-doc-outline.display-none-desktop:not([hidden]) { display: none !important; }
   #kb-primary-nav { min-height: 48px; padding-inline: 8px; gap: 4px; }
   #kb-primary-nav .site-header-logo img { width: 20px; height: 20px; }

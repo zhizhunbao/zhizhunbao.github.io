@@ -58,9 +58,30 @@ const flat = (items) => (items || []).flatMap((it) => [it, ...flat(it.items)])
 const firstUrl = (it) => it.url || (it.items || []).map(firstUrl).find(Boolean) || null
 
 // ---------- content: Learn markup ----------
+// LaTeX math: Markdig writes $...$ as <span class="math">\(...\)</span>; load MathJax only on pages that have math
+let mathJax = null
+function math(body) {
+  if (!body.querySelector('.math')) return
+  if (!mathJax) {
+    // mhchem adds \ce{...} for chemical formulas and equations
+    window.MathJax = {
+      loader: { load: ['[tex]/mhchem'] },
+      tex: { inlineMath: [['\\(', '\\)']], displayMath: [['\\[', '\\]']], packages: { '[+]': ['mhchem'] } },
+      startup: { typeset: false },
+    }
+    mathJax = new Promise((done) => {
+      const s = el('script', { src: 'https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js', async: '' })
+      s.onload = () => window.MathJax.startup.promise.then(done)
+      document.head.append(s)
+    })
+  }
+  mathJax.then(() => window.MathJax.typesetPromise([body]))
+}
+
 function content() {
   const body = document.querySelector('.content')
   if (!body) return
+  math(body)
   const kinds = { NOTE: ['is-info', 'info'], TIP: ['is-success', 'tip'], IMPORTANT: ['is-primary', 'info'], CAUTION: ['is-danger', 'warning'], WARNING: ['is-warning', 'warning'] }
   for (const box of body.querySelectorAll('div.NOTE, div.TIP, div.IMPORTANT, div.CAUTION, div.WARNING')) {
     const kind = Object.keys(kinds).find((k) => box.classList.contains(k)) || 'NOTE'
@@ -128,7 +149,12 @@ function nav(rootItems, sectionItems, section) {
     const kids = group(it)
     if (kids) {
       ul.append(dropdown(it, kids, section))
-      for (const k of kids) document.getElementById('kb-mobile-nav').append(el('li', {}, el('a', { class: `tree-item tree-leaf${k === section ? ' is-selected' : ''}`, href: firstUrl(k).href, text: k.name })))
+      // on phones the group is a folded tree node, open when it holds the current section
+      const li = el('li', { class: 'tree-item', role: 'treeitem', 'aria-expanded': String(kids.includes(section)) })
+      const exp = el('span', { class: 'tree-expander', text: it.name })
+      exp.addEventListener('click', () => li.setAttribute('aria-expanded', String(li.getAttribute('aria-expanded') !== 'true')))
+      li.append(exp, el('ul', { class: 'tree-group', role: 'group' }, ...kids.map((k) => el('li', {}, el('a', { class: `tree-item tree-leaf${k === section ? ' is-selected' : ''}`, href: firstUrl(k).href, text: k.name })))))
+      document.getElementById('kb-mobile-nav').append(li)
       continue
     }
     const url = firstUrl(it)
@@ -411,11 +437,24 @@ function theme() {
     setCollapsed(on)
     try { localStorage.setItem('kb-toc-collapsed', on ? '1' : '0') } catch {}
   })
+  // Phones, as on Learn: the menu button opens the site sections only; the "Table of contents" button by the
+  // breadcrumbs opens the section's tree with "Find by title". One drawer at a time.
+  const root = document.documentElement
   const mb = document.getElementById('kb-menu-button')
   mb.addEventListener('click', () => {
-    const open = document.documentElement.classList.toggle('kb-menu-open')
+    root.classList.remove('kb-toc-open')
+    const open = root.classList.toggle('kb-menu-open')
     mb.setAttribute('aria-expanded', String(open))
   })
+  document.addEventListener('click', (e) => { // delegated: the button lives in <main>, which is swapped on navigation
+    if (!e.target.closest('.kb-toc-button')) return
+    root.classList.remove('kb-menu-open')
+    mb.setAttribute('aria-expanded', 'false')
+    root.classList.add('kb-toc-open')
+    scrollTo(0, 0)
+    document.querySelector('#kb-toc .is-selected')?.scrollIntoView({ block: 'center' })
+  })
+  document.getElementById('kb-toc-close').addEventListener('click', () => root.classList.remove('kb-toc-open'))
 }
 
 // Links in the article to other sites open in a new tab; links to pages of this site (and navigation: header, TOC,
@@ -506,7 +545,7 @@ async function go(href, push) {
     page.hash = ''
     rel = new URL(m('kb:rel') || './', page)
     document.getElementById('main').replaceWith(document.adoptNode(main))
-    document.documentElement.classList.remove('kb-menu-open')
+    document.documentElement.classList.remove('kb-menu-open', 'kb-toc-open')
     content()
     outline()
     const current = flat(NAV.tocItems).find((it) => same(it.url, page)) || null
@@ -572,13 +611,14 @@ function wheelScope() {
   addEventListener('resize', fit)
   fit()
   // on phones the menu is hidden until the menu button opens it, so it is measured again then
-  document.getElementById('kb-menu-button')?.addEventListener('click', () => requestAnimationFrame(fit))
+  document.addEventListener('click', (e) => { if (e.target.closest('#kb-menu-button, .kb-toc-button')) requestAnimationFrame(fit) })
   // the whole side column listens, including the empty space under a short rail
   for (const [col, rail] of [['layout-body-menu', rails[0]], ['layout-body-aside', rails[1]]]) {
     const el = document.getElementById(col)
     if (!el || !rail) continue
     el.addEventListener('wheel', (e) => {
       if (e.ctrlKey) return // ctrl + wheel zooms the page
+      if (matchMedia('(max-width: 767.98px)').matches) return // phones: the drawer and the page scroll as usual
       e.preventDefault() // the pointer is on a side column: only its rail moves, the article stays put (even when the rail fits)
       const unit = e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? rail.clientHeight : 1
       rail.scrollTop += e.deltaY * unit

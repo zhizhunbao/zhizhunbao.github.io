@@ -69,6 +69,12 @@
       <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
         <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
           <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"/></svg></span>
+            </button>
+          </div>
           <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
             <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
               <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewBox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"/></svg></span>
@@ -86,10 +92,13 @@
 
     <main id="main" role="main" class="layout-body-main">
       <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
-        <div id="article-header" class="margin-bottom-xs">
-          <nav aria-label="Breadcrumb">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
             <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
           </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewBox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"/></svg></span>
+          </button>
         </div>
         <article class="content" data-uid="{{uid}}">
           {{!body}}
