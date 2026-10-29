@@ -10,10 +10,14 @@
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
-</style></head>
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">Boolean Algebra</div>
+  <div class="title">13 Boolean Algebra</div>
   <div class="row">
     <div class="group">
       <div class="title">13.1 Posets Revisited</div>
@@ -21,6 +25,7 @@
       <div class="item">Lower Bound, Upper Bound</div>
       <div class="item">Greatest Lower Bound</div>
       <div class="item">Least Upper Bound</div>
+      <div class="item">Uniqueness of Least Upper and Greatest Lower Bounds</div>
       <div class="item">Greatest Element, Least Element</div>
       <div class="item">The Set of Divisors of an Integer</div>
     </div>
@@ -36,8 +41,19 @@
       <div class="item">The Complement of a Lattice Element</div>
       <div class="item">Complemented Lattice</div>
       <div class="item">Complementation as an operation</div>
+      <div class="item">One condition for unique complements</div>
       <div class="item">Boolean Algebra</div>
       <div class="item">Principle of Duality for Boolean Algebras</div>
+      <div class="item">Commutative Laws</div>
+      <div class="item">Associative Laws</div>
+      <div class="item">Distributive Laws</div>
+      <div class="item">Identity Laws</div>
+      <div class="item">Complement Laws</div>
+      <div class="item">Idempotent Laws</div>
+      <div class="item">Null Laws</div>
+      <div class="item">Absorption Laws</div>
+      <div class="item">DeMorgan’s Laws</div>
+      <div class="item">Involution Law</div>
     </div>
     <div class="group">
       <div class="title">13.4 Atoms of a Boolean Algebra</div>
@@ -45,10 +61,14 @@
       <div class="item">The Covering Relation</div>
     </div>
     <div class="group">
+      <div class="title">13.5 Finite Boolean Algebras as n-tuples of 0’s and 1’s</div>
+    </div>
+    <div class="group">
       <div class="title">13.6 Boolean Expressions</div>
       <div class="item">Boolean Expression</div>
       <div class="item">Minterm</div>
       <div class="item">Minterm Normal Form</div>
+      <div class="item">Uniqueness of Minterm Normal Form</div>
     </div>
     <div class="group">
       <div class="title">13.7 A Brief Introduction to Switching Theory and Logic Design</div>

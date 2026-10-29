@@ -10,10 +10,14 @@
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
-</style></head>
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">Relations</div>
+  <div class="title">6 Relations</div>
   <div class="row">
     <div class="group">
       <div class="title">6.1 Basic Definitions</div>
@@ -41,10 +45,13 @@
       <div class="title">6.4 Matrices of Relations</div>
       <div class="item">Relation Matrix</div>
       <div class="item">Boolean Arithmetic</div>
+      <div class="item">Composition is Matrix Multiplication</div>
     </div>
     <div class="group">
       <div class="title">6.5 Closure Operations on Relations</div>
       <div class="item">Transitive Closure</div>
+      <div class="item">Transitive Closure on a Finite Set</div>
+      <div class="item">Matrix of a Transitive Closure</div>
       <div class="item">Transitive Closure Algorithm</div>
       <div class="item">Warshall’s Algorithm</div>
     </div>

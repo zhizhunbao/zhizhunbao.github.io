@@ -10,11 +10,21 @@
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
-</style></head>
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">Testing Means</div>
+  <div class="title">12 Testing Means</div>
   <div class="row">
+    <div class="group">
+      <div class="title">12.1 Single Mean</div>
+    </div>
+    <div class="group">
+      <div class="title">12.2 Difference between Two Means (Independent Groups)</div>
+    </div>
     <div class="group">
       <div class="title">12.3 All Pairwise Comparisons Among Means</div>
       <div class="item">Comparisons Among Means</div>
@@ -37,6 +47,9 @@
       <div class="title">12.5 Difference between Two Means (Correlated Pairs)</div>
       <div class="item">Correlated Pairs T Test</div>
       <div class="item">T Test</div>
+    </div>
+    <div class="group">
+      <div class="title">12.6 Specific Comparisons (Correlated Observations)</div>
     </div>
     <div class="group">
       <div class="title">12.7 Pairwise Comparisons (Correlated Observations)</div>

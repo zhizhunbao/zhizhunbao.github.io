@@ -10,10 +10,14 @@
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
-</style></head>
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">Graph Theory</div>
+  <div class="title">9 Graph Theory</div>
   <div class="row">
     <div class="group">
       <div class="title">9.1 Graphs - General Introduction</div>
@@ -56,6 +60,7 @@
       <div class="item">The Closest Neighbor Algorithm</div>
       <div class="item">The Strip Algorithm</div>
       <div class="item">Network</div>
+      <div class="item">Flow out of Source equals Flow in Sink</div>
       <div class="item">The Value of a Flow</div>
       <div class="item">Flow Augmenting Path</div>
       <div class="item">The Ford and Fulkerson Algorithm</div>
@@ -66,11 +71,14 @@
       <div class="item">Planar Graph/Plane Graph</div>
       <div class="item">Path Graph</div>
       <div class="item">Euler’s Formula</div>
+      <div class="item">A Bound on Edges of a Planar Graph</div>
+      <div class="item">A Vertex of Degree Five</div>
       <div class="item">Graph Coloring</div>
       <div class="item">The Four-Color Theorem</div>
       <div class="item">The Five-Color Theorem</div>
       <div class="item">Bipartite Graph</div>
       <div class="item">Planarity</div>
+      <div class="item">No Odd Circuits in a Bipartite Graph</div>
     </div>
   </div>
 </div>

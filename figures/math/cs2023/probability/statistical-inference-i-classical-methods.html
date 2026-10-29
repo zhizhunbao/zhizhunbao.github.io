@@ -2,121 +2,62 @@
 <html><head><meta charset="utf-8">
 <style>
   body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
-  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .frame { display: inline-block; margin: 2px; padding: 14px 14px 14px; border: 1.5px dashed #333; border-radius: 10px; }
   .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
   .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
-  .row .group { flex: 1 1 auto; }
-  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group { flex: 1 1 auto; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
-  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
 </style></head>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">Statistical Inference I: Classical Methods</div>
+  <div class="title">8 Statistical Inference I: Classical Methods</div>
   <div class="row">
     <div class="group">
-      <div class="title">8.1.0 Introduction</div>
-      <div class="item">Statistical Inference</div>
-      <div class="item">Frequentist Inference</div>
-      <div class="item">Bayesian Inference</div>
-      <div class="item">Statistics (as a subject)</div>
+      <div class="title">8.1 Introduction</div>
+      <div class="item">8.1.0 Introduction</div>
+      <div class="item">8.1.1 Random Sampling</div>
     </div>
     <div class="group">
-      <div class="title">8.1.1 Random Sampling</div>
-      <div class="item">Random Sample</div>
-      <div class="item">Point Estimator</div>
-      <div class="item">Estimate</div>
-      <div class="item">Order Statistics</div>
+      <div class="title">8.2 Point Estimation</div>
+      <div class="item">8.2.0 Point Estimation</div>
+      <div class="item">8.2.1 Evaluating Estimators</div>
+      <div class="item">8.2.2 Point Estimators for Mean and Variance</div>
+      <div class="item">8.2.3 Maximum Likelihood Estimation (MLE)</div>
+      <div class="item">8.2.4 Asymptotic Properties of MLEs</div>
+      <div class="item">8.2.5 Solved Problems</div>
     </div>
     <div class="group">
-      <div class="title">8.2.1 Evaluating Estimators</div>
-      <div class="item">Bias of a Point Estimator</div>
-      <div class="item">Consistent Estimator</div>
+      <div class="title">8.3 Interval Estimation (Confidence Intervals)</div>
+      <div class="item">8.3.0 Interval Estimation (Confidence Intervals)</div>
+      <div class="item">8.3.1 The general framework of Interval Estimation</div>
+      <div class="item">8.3.2 Finding Interval Estimators</div>
+      <div class="item">8.3.3 Confidence Intervals for Normal Samples</div>
+      <div class="item">8.3.4 Solved Problems</div>
     </div>
     <div class="group">
-      <div class="title">8.2.2 Point Estimators for Mean and Variance</div>
-      <div class="item">Sample Variance</div>
-      <div class="item">Sample Variance</div>
-      <div class="item">Sample Standard Deviation</div>
+      <div class="title">8.4 Hypothesis Testing</div>
+      <div class="item">8.4.1 Introduction</div>
+      <div class="item">8.4.2 General Setting and Definitions</div>
+      <div class="item">8.4.3 Hypothesis Testing for the Mean</div>
+      <div class="item">8.4.4 P-Values</div>
+      <div class="item">8.4.5 Likelihood Ratio Tests</div>
+      <div class="item">8.4.6 Solved Problems</div>
     </div>
     <div class="group">
-      <div class="title">8.2.3 Maximum Likelihood Estimation (MLE)</div>
-      <div class="item">Likelihood Function</div>
-      <div class="item">Likelihood Function</div>
+      <div class="title">8.5 Linear Regression</div>
+      <div class="item">8.5.0 Linear Regression</div>
+      <div class="item">8.5.1 Simple Linear Regression Model</div>
+      <div class="item">8.5.2 The First Method for Finding beta</div>
+      <div class="item">8.5.3 The Method of Least Squares</div>
+      <div class="item">8.5.4 Extensions and Issues</div>
+      <div class="item">8.5.5 Solved Problems</div>
     </div>
     <div class="group">
-      <div class="title">8.2.4 Asymptotic Properties of MLEs</div>
-      <div class="item">Asymptotic Properties of MLEs</div>
-    </div>
-    <div class="group">
-      <div class="title">8.3.0 Interval Estimation (Confidence Intervals)</div>
-      <div class="item">Interval Estimation</div>
-      <div class="item">Length of an Interval</div>
-      <div class="item">Confidence Level</div>
-    </div>
-    <div class="group">
-      <div class="title">8.3.1 The general framework of Interval Estimation</div>
-      <div class="item">Interval Estimation</div>
-    </div>
-    <div class="group">
-      <div class="title">8.3.2 Finding Interval Estimators</div>
-      <div class="item">Pivotal Quantity</div>
-    </div>
-    <div class="group">
-      <div class="title">8.3.3 Confidence Intervals for Normal Samples</div>
-      <div class="item">Chi-Squared Critical Value</div>
-      <div class="item">Chi-Squared Distribution</div>
-      <div class="item">Chi-Squared Distribution of the Scaled Sample Variance</div>
-      <div class="item">Student's t-Distribution</div>
-    </div>
-    <div class="group">
-      <div class="title">8.4.2 General Setting and Definitions</div>
-      <div class="item">Statistic</div>
-      <div class="item">Statistic</div>
-      <div class="item">Alternative Hypothesis</div>
-      <div class="item">Simple Hypothesis</div>
-      <div class="item">Composite Hypothesis</div>
-      <div class="item">Acceptance Region</div>
-      <div class="item">Rejection Region</div>
-      <div class="item">Hypothesis</div>
-      <div class="item">Significance Level</div>
-      <div class="item">Type II Error</div>
-      <div class="item">Trade-off Between Type I and Type II Error</div>
-    </div>
-    <div class="group">
-      <div class="title">8.4.4 P-Values</div>
-      <div class="item">P-Value</div>
-      <div class="item">P-Value</div>
-    </div>
-    <div class="group">
-      <div class="title">8.4.5 Likelihood Ratio Tests</div>
-      <div class="item">Likelihood Ratio Test</div>
-    </div>
-    <div class="group">
-      <div class="title">8.5.0 Linear Regression</div>
-      <div class="item">Linear Model</div>
-      <div class="item">Regression Line</div>
-      <div class="item">Predictor</div>
-      <div class="item">Response Variable</div>
-    </div>
-    <div class="group">
-      <div class="title">8.5.1 Simple Linear Regression Model</div>
-      <div class="item">Simple Linear Regression</div>
-    </div>
-    <div class="group">
-      <div class="title">8.5.2 The First Method for Finding beta</div>
-      <div class="item">Coefficient of Determination</div>
-      <div class="item">Fitted Value</div>
-      <div class="item">Residuals</div>
-    </div>
-    <div class="group">
-      <div class="title">8.5.3 The Method of Least Squares</div>
-      <div class="item">Method of Least Squares</div>
-    </div>
-    <div class="group">
-      <div class="title">8.5.4 Extensions and Issues</div>
-      <div class="item">Multiple Linear Regression</div>
+      <div class="title">8.6 Problems</div>
+      <div class="item">8.6.0 End of Chapter Problems</div>
     </div>
   </div>
 </div>

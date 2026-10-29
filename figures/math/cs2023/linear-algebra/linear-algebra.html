@@ -4,74 +4,78 @@
   body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
   .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
   .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
-  .groups { display: grid; gap: 20px; align-items: stretch; }
-  .group { min-width: 300px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
-  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 50px; margin-bottom: 10px; white-space: nowrap;
-          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 10px; color: #222; }
-</style></head>
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
   <div class="title">Linear Algebra</div>
-  <div class="groups">
+  <div class="row">
     <div class="group">
-      <div class="title">Vectors</div>
-      <div class="item">definitions</div>
-      <div class="item">vector operations</div>
-      <div class="item">geometric interpretation</div>
-      <div class="item">angles</div>
-      <div class="item">Matrices: definition, matrix operations, meaning of Ax=b</div>
+      <div class="title">1 Systems of Equations</div>
+      <div class="item">1.1 What Can We Expect</div>
+      <div class="item">1.2 Finding Solutions to Linear Systems</div>
+      <div class="item">1.3 Computation with Sage</div>
+      <div class="item">1.4 Pivots and their Influence on Solution Spaces</div>
     </div>
     <div class="group">
-      <div class="title">Matrices, matrix-vector equation, geometric interpretation, geometric transformations with matrices</div>
-      <div class="item">Matrices</div>
-      <div class="item">matrix-vector equation</div>
-      <div class="item">geometric interpretation</div>
-      <div class="item">geometric transformations with matrices</div>
+      <div class="title">2 Vectors, Matrices, and Linear Combinations</div>
+      <div class="item">2.1 Vectors and Linear Combinations</div>
+      <div class="item">2.2 Matrix Multiplication and Linear Combinations</div>
+      <div class="item">2.3 The Span of a Set of Vectors</div>
+      <div class="item">2.4 Linear Independence</div>
+      <div class="item">2.5 Matrix Transformations</div>
+      <div class="item">2.6 The Geometry of Matrix Transformations</div>
     </div>
     <div class="group">
-      <div class="title">Solving equations, row-reduction</div>
-      <div class="item">Solving equations</div>
-      <div class="item">row-reduction</div>
+      <div class="title">3 Invertibility, Bases, and Coordinate Systems</div>
+      <div class="item">3.1 Invertibility</div>
+      <div class="item">3.2 Bases and Coordinate Systems</div>
+      <div class="item">3.3 Image Compression</div>
+      <div class="item">3.4 Determinants</div>
+      <div class="item">3.5 Subspaces</div>
     </div>
     <div class="group">
-      <div class="title">Linear independence, span, basis</div>
-      <div class="item">Linear independence</div>
-      <div class="item">span</div>
-      <div class="item">basis</div>
+      <div class="title">4 Eigenvalues and Eigenvectors</div>
+      <div class="item">4.1 An Introduction to Eigenvalues and Eigenvectors</div>
+      <div class="item">4.2 Finding Eigenvalues and Eigenvectors</div>
+      <div class="item">4.3 Diagonalization, Similarity, and Powers of a Matrix</div>
+      <div class="item">4.4 Dynamical Systems</div>
+      <div class="item">4.5 Markov Chains and Google’s PageRank Algorithm</div>
     </div>
     <div class="group">
-      <div class="title">Orthogonality, projection, least-squares, orthogonal bases</div>
-      <div class="item">Orthogonality</div>
-      <div class="item">projection</div>
-      <div class="item">least-squares</div>
-      <div class="item">orthogonal bases</div>
+      <div class="title">5 Linear Algebra and Computing</div>
+      <div class="item">5.1 Gaussian Elimination Revisited</div>
+      <div class="item">5.2 Finding Eigenvectors Numerically</div>
     </div>
     <div class="group">
-      <div class="title">Linear combinations of polynomials, Bezier curves</div>
-      <div class="item">Linear combinations of polynomials</div>
-      <div class="item">Bezier curves</div>
+      <div class="title">6 Orthogonality and Least Squares</div>
+      <div class="item">6.1 The Dot Product</div>
+      <div class="item">6.2 Orthogonal Complements and the Matrix Transpose</div>
+      <div class="item">6.3 Orthogonal Bases and Projections</div>
+      <div class="item">6.4 Finding Orthogonal Bases</div>
+      <div class="item">6.5 Orthogonal Least Squares</div>
     </div>
     <div class="group">
-      <div class="title">Eigenvectors and eigenvalues</div>
-      <div class="item">Eigenvectors and eigenvalues</div>
+      <div class="title">7 Singular Value Decompositions</div>
+      <div class="item">7.1 Symmetric Matrices and Variance</div>
+      <div class="item">7.2 Quadratic Forms</div>
+      <div class="item">7.3 Principal Component Analysis</div>
+      <div class="item">7.4 Singular Value Decompositions</div>
+      <div class="item">7.5 Using Singular Value Decompositions</div>
     </div>
     <div class="group">
-      <div class="title">Applications to computer science</div>
-      <div class="item">Principal Components Analysis (PCA)</div>
-      <div class="item">Singular Value Decomposition (SVD)</div>
-      <div class="item">page-rank</div>
-      <div class="item">graphics</div>
+      <div class="title">8 Bézier Curves</div>
+      <div class="item">Bézier Curve</div>
+      <div class="item">Bernstein Polynomial</div>
     </div>
   </div>
 </div>
-<script>
-  // every group as wide as the widest group title; as many columns as fit about 2000 px, rows balanced, groups in CS2023 order
-  const box = document.querySelector('.groups');
-  const groups = [...box.querySelectorAll('.group')];
-  const w = Math.max(...groups.map(g => g.getBoundingClientRect().width));
-  const fit = Math.max(1, Math.min(groups.length, Math.floor(2000 / (w + 20))));
-  const cols = Math.ceil(groups.length / Math.ceil(groups.length / fit));
-  box.style.gridTemplateColumns = `repeat(${cols}, ${w}px)`;
-</script>
 </body></html>

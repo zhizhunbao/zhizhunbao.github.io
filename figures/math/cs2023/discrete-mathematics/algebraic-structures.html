@@ -10,10 +10,14 @@
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
-</style></head>
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">Algebraic Structures</div>
+  <div class="title">11 Algebraic Structures</div>
   <div class="row">
     <div class="group">
       <div class="title">11.1 Operations</div>
@@ -32,13 +36,22 @@
     </div>
     <div class="group">
       <div class="title">11.2 Algebraic Systems</div>
+      <div class="item">A Monoid Theorem</div>
       <div class="item">Group</div>
       <div class="item">Abelian Group</div>
     </div>
     <div class="group">
       <div class="title">11.3 Some General Properties of Groups</div>
+      <div class="item">Identities are Unique</div>
+      <div class="item">Identities are Unique - Rephrased</div>
+      <div class="item">Inverses are Unique</div>
+      <div class="item">Inverse of Inverse Theorem</div>
+      <div class="item">Inverse of Inverse Theorem (Rephrased)</div>
+      <div class="item">Inverse of a Product</div>
       <div class="item">Cancellation Laws</div>
+      <div class="item">Linear Equations in a Group</div>
       <div class="item">Exponentiation in Groups</div>
+      <div class="item">Properties of Exponentiation</div>
     </div>
     <div class="group">
       <div class="title">11.4 Greatest Common Divisors and the Integers Modulo n</div>
@@ -49,6 +62,7 @@
       <div class="item">The Integers Modulo n</div>
       <div class="item">Modular Addition</div>
       <div class="item">Modular Multiplication</div>
+      <div class="item">Additive Inverses in ℤn</div>
       <div class="item">The Additive Group of Integers Modulo n</div>
       <div class="item">The Multiplicative Group of Integers Modulo n</div>
       <div class="item">Modular arithmetic</div>
@@ -56,6 +70,8 @@
     <div class="group">
       <div class="title">11.5 Subsystems</div>
       <div class="item">Subsystem</div>
+      <div class="item">Subgroup Conditions</div>
+      <div class="item">Condition for a Subgroup of a Finite Group</div>
       <div class="item">Cyclic Subgroup</div>
       <div class="item">Cyclic Group</div>
       <div class="item">Order of a Group Element</div>
@@ -64,11 +80,14 @@
       <div class="title">11.6 Direct Products</div>
       <div class="item">Direct Product</div>
       <div class="item">Direct Product of Two Groups</div>
+      <div class="item">The Direct Product of Groups is a Group</div>
+      <div class="item">Properties of Direct Products of Groups</div>
     </div>
     <div class="group">
       <div class="title">11.7 Isomorphisms</div>
       <div class="item">Isomorphic Systems/Isomorphism - Informal Version</div>
       <div class="item">Group Isomorphism</div>
+      <div class="item">Properties of Isomorphisms</div>
       <div class="item">Order Sequence</div>
     </div>
   </div>

@@ -2,7 +2,7 @@
 
 Not built (README). Source: Doerr and Levasseur, *Applied Discrete Structures* (discretemath.org/ads, whole book, cached 2026-10-28 in `design-refs/official-docs/cache/data/ads-raw/`). Every box the book titles Definition, Theorem, Corollary, Lemma, Axiom, Algorithm or Heuristic was extracted by script (242 definitions, 112 named results), then each row got a decision; core words of section titles that no box defines were added by hand. Order Notation (CS2023 MSF topic 8) is not in the book and comes from Lehman, Leighton and Meyer, *Mathematics for Computer Science* (MIT 6.042, spring 2018 edition, section 14.7, cached as `cache/pdf/mit-mcs-2018.pdf`).
 
-Decisions: **term** (goes on the chapter page), **same term** (another box of a term already listed), **left out** (a statement, not a name for a concept), **section title** (core word of a section title; definition from the section text or MathWorld).
+Decisions: **term** (goes on the section page), **same term** (another box of a term already listed), **left out** (not a name for a concept), **section title** (core word of a section title; definition from the section text or MathWorld). Since 2026-10-29 named theorems, corollaries and laws count as terms: the 62 named results first left out as statements are terms, and so are the named rows of the book's tables of laws (Tables 3.4.3, 3.4.4, 4.2.1, 5.3.1 and 13.3.11, quoted as the tables give them).
 
 
 ## Chapter 1
@@ -79,6 +79,25 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 3.3.14 | The Sheffer Stroke | Definition | term |
 | **3.4** | **The Laws of Logic** | [section](https://discretemath.org/ads/s-logic-laws.html) | |
 | 3.4 | Laws of Logic | Section title | section title |
+| 3.4.3 | Commutative Laws | Table 3.4.3 | term |
+| 3.4.3 | Associative Laws | Table 3.4.3 | term |
+| 3.4.3 | Distributive Laws | Table 3.4.3 | term |
+| 3.4.3 | Identity Laws | Table 3.4.3 | term |
+| 3.4.3 | Negation Laws | Table 3.4.3 | term |
+| 3.4.3 | Idempotent Laws | Table 3.4.3 | term |
+| 3.4.3 | Null Laws | Table 3.4.3 | term |
+| 3.4.3 | Absorption Laws | Table 3.4.3 | term |
+| 3.4.3 | DeMorgan’s Laws | Table 3.4.3 | term |
+| 3.4.3 | Involution Law | Table 3.4.3 | term |
+| 3.4.4 | Detachment (AKA Modus Ponens) | Table 3.4.4 | term |
+| 3.4.4 | Indirect Reasoning (AKA Modus Tollens) | Table 3.4.4 | term |
+| 3.4.4 | Disjunctive Addition | Table 3.4.4 | term |
+| 3.4.4 | Conjunctive Simplification | Table 3.4.4 | term |
+| 3.4.4 | Disjunctive Simplification | Table 3.4.4 | term |
+| 3.4.4 | Chain Rule | Table 3.4.4 | term |
+| 3.4.4 | Conditional Equivalence | Table 3.4.4 | term |
+| 3.4.4 | Biconditional Equivalences | Table 3.4.4 | term |
+| 3.4.4 | Contrapositive | Table 3.4.4 | term |
 | **3.5** | **Mathematical Systems and Proofs** | [section](https://discretemath.org/ads/s-math-systems.html) | |
 | 3.5.1 | Mathematical System | Definition | term |
 | 3.5.4 | Theorem | Definition | term |
@@ -93,7 +112,7 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 3.7.3 | The Principle of Mathematical Induction | Theorem | term |
 | 3.7.7 | Principle of Mathematical Induction (Generalized) (generalized form of 3.7.3) | Theorem | same term |
 | 3.7.9 | The Course-of-Values Principle of Mathematical Induction | Theorem | term |
-| 3.7.10 | Existence of Prime Factorizations | Theorem | left out |
+| 3.7.10 | Existence of Prime Factorizations | Theorem | term |
 | 3.7.11 | Peano Postulates | Axiom | term |
 | **3.8** | **Quantifiers** | [section](https://discretemath.org/ads/s-quantifiers.html) | |
 | 3.8.1 | The Existential Quantifier | Definition | term |
@@ -109,10 +128,20 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | **4.1** | **Methods of Proof for Sets** | [section](https://discretemath.org/ads/s-proof-methods-sets.html) | |
 | 4.1.1 | Counterexample | Definition | term |
 | 4.1.7 | The Distributive Law of Intersection over Union | Theorem | term |
-| 4.1.8 | Another Proof using Definitions | Theorem | left out |
+| 4.1.8 | Another Proof using Definitions | Theorem | term |
 | **4.2** | **Laws of Set Theory** | [section](https://discretemath.org/ads/s-laws-of-set-theory.html) | |
-| 4.2.2 | A Corollary to the Distributive Law of Sets | Corollary | left out |
-| 4.2.3 | An Indirect Proof in Set Theory | Theorem | left out |
+| 4.2.2 | A Corollary to the Distributive Law of Sets | Corollary | term |
+| 4.2.3 | An Indirect Proof in Set Theory | Theorem | term |
+| 4.2.1 | Commutative Laws | Table 4.2.1 | term |
+| 4.2.1 | Associative Laws | Table 4.2.1 | term |
+| 4.2.1 | Distributive Laws | Table 4.2.1 | term |
+| 4.2.1 | Identity Laws | Table 4.2.1 | term |
+| 4.2.1 | Complement Laws | Table 4.2.1 | term |
+| 4.2.1 | Idempotent Laws | Table 4.2.1 | term |
+| 4.2.1 | Null Laws | Table 4.2.1 | term |
+| 4.2.1 | Absorption Laws | Table 4.2.1 | term |
+| 4.2.1 | DeMorgan’s Laws | Table 4.2.1 | term |
+| 4.2.1 | Involution Law | Table 4.2.1 | term |
 | **4.3** | **Minsets** | [section](https://discretemath.org/ads/s-minsets.html) | |
 | 4.3.4 | Minset | Definition | term |
 | 4.3.8 | Minset Partition Theorem | Theorem | term |
@@ -136,11 +165,26 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 5.2.1 | Diagonal Matrix | Definition | term |
 | 5.2.4 | Identity Matrix | Definition | term |
 | 5.2.5 | Matrix Inverse | Definition | term |
-| 5.2.6 | Inverses are unique | Theorem | left out |
+| 5.2.6 | Inverses are unique | Theorem | term |
 | 5.2.7 | Determinant of a 2 by 2 matrix | Definition | term |
-| 5.2.9 | Inverse of 2 by 2 matrix | Theorem | left out |
+| 5.2.9 | Inverse of 2 by 2 matrix | Theorem | term |
 | **5.3** | **Laws of Matrix Algebra** | [section](https://discretemath.org/ads/s-laws-of-matrix-algebra.html) | |
 | 5.3 | Laws of Matrix Algebra | Section title | section title |
+| 5.3.1 | Commutative Law of Addition | Table 5.3.1 | term |
+| 5.3.1 | Associative Law of Addition | Table 5.3.1 | term |
+| 5.3.1 | Distributive Law of a Scalar over Matrices | Table 5.3.1 | term |
+| 5.3.1 | Distributive Law of Scalars over a Matrix | Table 5.3.1 | term |
+| 5.3.1 | Associative Law of Scalar Multiplication | Table 5.3.1 | term |
+| 5.3.1 | Zero Matrix Annihilates all Products | Table 5.3.1 | term |
+| 5.3.1 | Zero Scalar Annihilates all Products | Table 5.3.1 | term |
+| 5.3.1 | Zero Matrix is an identity for Addition | Table 5.3.1 | term |
+| 5.3.1 | Negation produces additive inverses | Table 5.3.1 | term |
+| 5.3.1 | Right Distributive Law of Matrix Multiplication | Table 5.3.1 | term |
+| 5.3.1 | Left Distributive Law of Matrix Multiplication | Table 5.3.1 | term |
+| 5.3.1 | Associative Law of Multiplication | Table 5.3.1 | term |
+| 5.3.1 | Identity Matrix is a Multiplicative Identity | Table 5.3.1 | term |
+| 5.3.1 | Involution Property of Inverses | Table 5.3.1 | term |
+| 5.3.1 | Inverse of Product Rule | Table 5.3.1 | term |
 | **5.4** | **Matrix Oddities** | [section](https://discretemath.org/ads/s-matrix-oddities.html) | |
 
 ## Chapter 6
@@ -166,11 +210,11 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | **6.4** | **Matrices of Relations** | [section](https://discretemath.org/ads/s-matrices-of-relations.html) | |
 | 6.4.1 | Relation Matrix | Definition | term |
 | 6.4.4 | Boolean Arithmetic | Definition | term |
-| 6.4.7 | Composition is Matrix Multiplication | Theorem | left out |
+| 6.4.7 | Composition is Matrix Multiplication | Theorem | term |
 | **6.5** | **Closure Operations on Relations** | [section](https://discretemath.org/ads/s-closure-operations-on-relations.html) | |
 | 6.5.1 | Transitive Closure | Definition | term |
-| 6.5.2 | Transitive Closure on a Finite Set | Theorem | left out |
-| 6.5.4 | Matrix of a Transitive Closure | Theorem | left out |
+| 6.5.2 | Transitive Closure on a Finite Set | Theorem | term |
+| 6.5.4 | Matrix of a Transitive Closure | Theorem | term |
 | 6.5.5 | Transitive Closure Algorithm | Algorithm | term |
 | 6.5.7 | Warshall’s Algorithm | Algorithm | term |
 
@@ -193,22 +237,22 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | **7.3** | **Function Composition** | [section](https://discretemath.org/ads/s-function-composition.html) | |
 | 7.3.1 | Equality of Functions | Definition | term |
 | 7.3.2 | Composition of Functions | Definition | term |
-| 7.3.4 | Function composition is associative | Theorem | left out |
+| 7.3.4 | Function composition is associative | Theorem | term |
 | 7.3.5 | Powers of Functions | Definition | term |
-| 7.3.6 | The composition of injections is an injection | Theorem | left out |
-| 7.3.7 | The composition of surjections is a surjection | Theorem | left out |
+| 7.3.6 | The composition of injections is an injection | Theorem | term |
+| 7.3.7 | The composition of surjections is a surjection | Theorem | term |
 | 7.3.8 | Identity Function | Definition | term |
 | 7.3.11 | Inverse of a Function on a Set | Definition | term |
-| 7.3.14 | Bijections have inverses | Theorem | left out |
+| 7.3.14 | Bijections have inverses | Theorem | term |
 | 7.3.15 | Permutation | Definition | term |
 | 7.3.16 | Inverse of a Function (General Case) | Definition | term |
-| 7.3.17 | When does a function have an inverse? | Theorem | left out |
+| 7.3.17 | When does a function have an inverse? | Theorem | term |
 | **7.4** | **Basic Notions of Probability** | [section](https://discretemath.org/ads/s-probability-basics.html) | |
 | 7.4.1 | Sample Space for a Random Experiment | Definition | term |
 | 7.4.2 | Probability Distribution | Definition | term |
 | 7.4.3 | Random Variable | Definition | term |
 | 7.4.6 | Expected Value of a Random Variable | Definition | term |
-| 7.4.7 | Probability Formulae For Uniform Distribution | Theorem | left out |
+| 7.4.7 | Probability Formulae For Uniform Distribution | Theorem | term |
 | 7.4 | Probability | Section title | section title |
 | **7.5** | **Binomial Processes** | [section](https://discretemath.org/ads/sec-binomial-processes.html) | |
 | 7.5.1 | Binomial Trial | Definition | term |
@@ -241,7 +285,7 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 8.5.3 | Operations on Sequences | Definition | term |
 | 8.5.6 | Multiple Pop and Push | Definition | term |
 | 8.5.7 | Operations on Generating Functions | Definition | term |
-| 8.5.9 | Generating functions related to Pop and Push | Theorem | left out |
+| 8.5.9 | Generating functions related to Pop and Push | Theorem | term |
 
 ## Chapter 9
 
@@ -279,7 +323,7 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 9.5.5 | The Closest Neighbor Algorithm | Algorithm | term |
 | 9.5.13 | The Strip Algorithm | Heuristic | term |
 | 9.5.15 | Network | Definition | term |
-| 9.5.20 | Flow out of Source equals Flow in Sink | Theorem | left out |
+| 9.5.20 | Flow out of Source equals Flow in Sink | Theorem | term |
 | 9.5.21 | The Value of a Flow | Definition | term |
 | 9.5.22 | Flow Augmenting Path | Definition | term |
 | 9.5.24 | The Ford and Fulkerson Algorithm | Algorithm | term |
@@ -288,13 +332,13 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 9.6.1 | Planar Graph/Plane Graph | Definition | term |
 | 9.6.4 | Path Graph | Definition | term |
 | 9.6.8 | Euler’s Formula | Theorem | term |
-| 9.6.10 | A Bound on Edges of a Planar Graph | Theorem | left out |
-| 9.6.12 | A Vertex of Degree Five | Theorem | left out |
+| 9.6.10 | A Bound on Edges of a Planar Graph | Theorem | term |
+| 9.6.12 | A Vertex of Degree Five | Theorem | term |
 | 9.6.15 | Graph Coloring | Definition | term |
 | 9.6.16 | The Four-Color Theorem | Theorem | term |
 | 9.6.17 | The Five-Color Theorem | Theorem | term |
 | 9.6.19 | Bipartite Graph | Definition | term |
-| 9.6.21 | No Odd Circuits in a Bipartite Graph | Theorem | left out |
+| 9.6.21 | No Odd Circuits in a Bipartite Graph | Theorem | term |
 | 9.6 | Planarity | Section title | section title |
 
 ## Chapter 10
@@ -305,7 +349,7 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 10.1.1 | Cycle | Definition | term |
 | 10.1.2 | Tree | Definition | term |
 | 10.1.8 | Forest | Definition | term |
-| 10.1.11 | Equivalent Conditions for a Graph to be a Tree | Theorem | left out |
+| 10.1.11 | Equivalent Conditions for a Graph to be a Tree | Theorem | term |
 | **10.2** | **Spanning Trees** | [section](https://discretemath.org/ads/s-spanning-trees.html) | |
 | 10.2.2 | Spanning Tree | Definition | term |
 | 10.2.4 | Minimal Spanning Tree | Definition | term |
@@ -339,20 +383,20 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 11.1.13 | Involution Property | Definition | term |
 | 11.1.14 | Closure Property | Definition | term |
 | **11.2** | **Algebraic Systems** | [section](https://discretemath.org/ads/s-algebraic-systems.html) | |
-| 11.2.1 | A Monoid Theorem | Theorem | left out |
+| 11.2.1 | A Monoid Theorem | Theorem | term |
 | 11.2.3 | Group | Definition | term |
 | 11.2.6 | Abelian Group | Definition | term |
 | **11.3** | **Some General Properties of Groups** | [section](https://discretemath.org/ads/s-general-properties-of-groups.html) | |
-| 11.3.1 | Identities are Unique | Theorem | left out |
-| 11.3.2 | Identities are Unique - Rephrased | Theorem | left out |
-| 11.3.3 | Inverses are Unique | Theorem | left out |
-| 11.3.5 | Inverse of Inverse Theorem | Theorem | left out |
-| 11.3.6 | Inverse of Inverse Theorem (Rephrased) | Theorem | left out |
-| 11.3.7 | Inverse of a Product | Theorem | left out |
+| 11.3.1 | Identities are Unique | Theorem | term |
+| 11.3.2 | Identities are Unique - Rephrased | Theorem | term |
+| 11.3.3 | Inverses are Unique | Theorem | term |
+| 11.3.5 | Inverse of Inverse Theorem | Theorem | term |
+| 11.3.6 | Inverse of Inverse Theorem (Rephrased) | Theorem | term |
+| 11.3.7 | Inverse of a Product | Theorem | term |
 | 11.3.8 | Cancellation Laws | Theorem | term |
-| 11.3.9 | Linear Equations in a Group | Theorem | left out |
+| 11.3.9 | Linear Equations in a Group | Theorem | term |
 | 11.3.11 | Exponentiation in Groups | Definition | term |
-| 11.3.14 | Properties of Exponentiation | Theorem | left out |
+| 11.3.14 | Properties of Exponentiation | Theorem | term |
 | **11.4** | **Greatest Common Divisors and the Integers Modulo n** | [section](https://discretemath.org/ads/s-gcds-and-zsubn.html) | |
 | 11.4.1 | The Division Property for Integers | Theorem | term |
 | 11.4.5 | Greatest Common Divisor | Definition | term |
@@ -361,25 +405,25 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 11.4.13 | The Integers Modulo n | Definition | term |
 | 11.4.14 | Modular Addition | Definition | term |
 | 11.4.15 | Modular Multiplication | Definition | term |
-| 11.4.18 | Additive Inverses in ℤn | Theorem | left out |
+| 11.4.18 | Additive Inverses in ℤn | Theorem | term |
 | 11.4.19 | The Additive Group of Integers Modulo n | Definition | term |
 | 11.4.20 | The Multiplicative Group of Integers Modulo n | Definition | term |
 | **11.5** | **Subsystems** | [section](https://discretemath.org/ads/s-Subsystems.html) | |
 | 11.5.1 | Subsystem | Definition | term |
-| 11.5.3 | Subgroup Conditions | Theorem | left out |
-| 11.5.5 | Condition for a Subgroup of a Finite Group | Theorem | left out |
+| 11.5.3 | Subgroup Conditions | Theorem | term |
+| 11.5.5 | Condition for a Subgroup of a Finite Group | Theorem | term |
 | 11.5.6 | Cyclic Subgroup | Definition | term |
 | 11.5.7 | Cyclic Group | Definition | term |
 | 11.5.9 | Order of a Group Element | Definition | term |
 | **11.6** | **Direct Products** | [section](https://discretemath.org/ads/s-direct-products.html) | |
 | 11.6.1 | Direct Product | Definition | term |
 | 11.6.3 | Direct Product of Two Groups | Definition | term |
-| 11.6.6 | The Direct Product of Groups is a Group | Theorem | left out |
-| 11.6.9 | Properties of Direct Products of Groups | Theorem | left out |
+| 11.6.6 | The Direct Product of Groups is a Group | Theorem | term |
+| 11.6.9 | Properties of Direct Products of Groups | Theorem | term |
 | **11.7** | **Isomorphisms** | [section](https://discretemath.org/ads/s-isomorphisms.html) | |
 | 11.7.1 | Isomorphic Systems/Isomorphism - Informal Version | Definition | term |
 | 11.7.9 | Group Isomorphism | Definition | term |
-| 11.7.14 | Properties of Isomorphisms | Theorem | left out |
+| 11.7.14 | Properties of Isomorphisms | Theorem | term |
 | 11.7.15 | Order Sequence | Definition | term |
 
 ## Chapter 12
@@ -401,15 +445,15 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 12.3.9 | Generation of a Vector Space | Definition | term |
 | 12.3.13 | Linear Independence/Linear Dependence | Definition | term |
 | 12.3.14 | Basis | Definition | term |
-| 12.3.15 | The fundamental property of a basis | Theorem | left out |
-| 12.3.17 | Basis Size is Constant | Theorem | left out |
+| 12.3.15 | The fundamental property of a basis | Theorem | term |
+| 12.3.17 | Basis Size is Constant | Theorem | term |
 | 12.3.18 | Dimension of a Vector Space | Definition | term |
 | **12.4** | **The Diagonalization Process** | [section](https://discretemath.org/ads/s-the-diagonalization-process.html) | |
 | 12.4.1 | Eigenvalue, Eigenvector | Definition | term |
-| 12.4.3 | Characterization of Eigenvalues of a Square Matrix | Theorem | left out |
-| 12.4.4 | Linear Independence of Eigenvectors | Theorem | left out |
+| 12.4.3 | Characterization of Eigenvalues of a Square Matrix | Theorem | term |
+| 12.4.4 | Linear Independence of Eigenvectors | Theorem | term |
 | 12.4.5 | Diagonalizable Matrix | Definition | term |
-| 12.4.9 | A condition for diagonalizability | Theorem | left out |
+| 12.4.9 | A condition for diagonalizability | Theorem | term |
 | **12.5** | **Some Applications** | [section](https://discretemath.org/ads/s-some-applications.html) | |
 | 12.5.2 | Path Counting Theorem | Theorem | term |
 | **12.6** | **Linear Equations over the Integers Mod 2** | [section](https://discretemath.org/ads/s-systems-linear-equations-mod-2.html) | |
@@ -423,7 +467,7 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 13.1.3 | Lower Bound, Upper Bound | Definition | term |
 | 13.1.4 | Greatest Lower Bound | Definition | term |
 | 13.1.5 | Least Upper Bound | Definition | term |
-| 13.1.6 | Uniqueness of Least Upper and Greatest Lower Bounds | Theorem | left out |
+| 13.1.6 | Uniqueness of Least Upper and Greatest Lower Bounds | Theorem | term |
 | 13.1.7 | Greatest Element, Least Element | Definition | term |
 | 13.1.9 | The Set of Divisors of an Integer | Definition | term |
 | **13.2** | **Lattices** | [section](https://discretemath.org/ads/s-lattices.html) | |
@@ -435,9 +479,19 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 13.3.2 | The Complement of a Lattice Element | Definition | term |
 | 13.3.3 | Complemented Lattice | Definition | term |
 | 13.3.6 | Complementation as an operation | Definition | term |
-| 13.3.7 | One condition for unique complements | Theorem | left out |
+| 13.3.7 | One condition for unique complements | Theorem | term |
 | 13.3.8 | Boolean Algebra | Definition | term |
 | 13.3.12 | Principle of Duality for Boolean Algebras | Definition | term |
+| 13.3.11 | Commutative Laws | Table 13.3.11 | term |
+| 13.3.11 | Associative Laws | Table 13.3.11 | term |
+| 13.3.11 | Distributive Laws | Table 13.3.11 | term |
+| 13.3.11 | Identity Laws | Table 13.3.11 | term |
+| 13.3.11 | Complement Laws | Table 13.3.11 | term |
+| 13.3.11 | Idempotent Laws | Table 13.3.11 | term |
+| 13.3.11 | Null Laws | Table 13.3.11 | term |
+| 13.3.11 | Absorption Laws | Table 13.3.11 | term |
+| 13.3.11 | DeMorgan’s Laws | Table 13.3.11 | term |
+| 13.3.11 | Involution Law | Table 13.3.11 | term |
 | **13.4** | **Atoms of a Boolean Algebra** | [section](https://discretemath.org/ads/s-atoms-of-a-boolean-algebra.html) | |
 | 13.4.2 | Atom | Definition | term |
 | 13.4.4 | The Covering Relation | Definition | term |
@@ -446,7 +500,7 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 13.6.1 | Boolean Expression | Definition | term |
 | 13.6.3 | Minterm | Definition | term |
 | 13.6.4 | Minterm Normal Form | Definition | term |
-| 13.6.6 | Uniqueness of Minterm Normal Form | Theorem | left out |
+| 13.6.6 | Uniqueness of Minterm Normal Form | Theorem | term |
 | **13.7** | **A Brief Introduction to Switching Theory and Logic Design** | [section](https://discretemath.org/ads/s-logic-design.html) | |
 | 13.7 | Switching Theory | Section title | section title |
 | 13.7 | Logic Design | Section title | section title |
@@ -464,7 +518,7 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 14.2.4 | Concatenation | Definition | term |
 | 14.2.6 | Formal Language | Definition | term |
 | 14.2.9 | Recursive Language | Definition | term |
-| 14.2.12 | Recursive implies Generating | Theorem | left out |
+| 14.2.12 | Recursive implies Generating | Theorem | term |
 | 14.2.15 | Phrase Structure Grammar | Definition | term |
 | 14.2.21 | Regular Grammar | Definition | term |
 | **14.3** | **Automata, Finite-State Machines** | [section](https://discretemath.org/ads/s-automata-finite-state-machines.html) | |
@@ -479,30 +533,30 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 |---|---|---|---|
 | **15.1** | **Cyclic Groups** | [section](https://discretemath.org/ads/s-cyclic-groups.html) | |
 | 15.1.1 | Cyclic Group | Definition | term |
-| 15.1.5 | Cyclic Implies Abelian | Theorem | left out |
-| 15.1.9 | Possible Cyclic Group Structures | Theorem | left out |
-| 15.1.10 | Subgroups of Cyclic Groups | Theorem | left out |
-| 15.1.13 | The order of elements of a finite cyclic group | Theorem | left out |
+| 15.1.5 | Cyclic Implies Abelian | Theorem | term |
+| 15.1.9 | Possible Cyclic Group Structures | Theorem | term |
+| 15.1.10 | Subgroups of Cyclic Groups | Theorem | term |
+| 15.1.13 | The order of elements of a finite cyclic group | Theorem | term |
 | 15.1.15 | Sun Tzu’s Theorem | Theorem | term |
 | **15.2** | **Cosets and Factor Groups** | [section](https://discretemath.org/ads/s-cosets-and-factor-groups.html) | |
 | 15.2.2 | Coset | Definition | term |
 | 15.2.4 | Coset Representative | Definition | term |
-| 15.2.8 | Cosets Partition a Group | Theorem | left out |
-| 15.2.9 | A Coset Counting Formula | Corollary | left out |
+| 15.2.8 | Cosets Partition a Group | Theorem | term |
+| 15.2.9 | A Coset Counting Formula | Corollary | term |
 | 15.2.12 | Lagrange’s Theorem | Theorem | term |
 | 15.2.13 | Operation on Cosets | Definition | term |
-| 15.2.18 | Coset operation is well-defined (Abelian Case) | Theorem | left out |
+| 15.2.18 | Coset operation is well-defined (Abelian Case) | Theorem | term |
 | 15.2.20 | Factor Group | Definition | term |
 | **15.3** | **Permutation Groups** | [section](https://discretemath.org/ads/s-permutation-groups.html) | |
 | 15.3.5 | Symmetric Group | Definition | term |
 | 15.3.14 | Transposition | Definition | term |
-| 15.3.16 | Decomposition into Cycles | Theorem | left out |
+| 15.3.16 | Decomposition into Cycles | Theorem | term |
 | 15.3.18 | The Alternating Group | Definition | term |
 | 15.3.26 | Dihedral Group | Definition | term |
 | **15.4** | **Normal Subgroups and Group Homomorphisms** | [section](https://discretemath.org/ads/s-normal-subgroups-homomorphisms.html) | |
 | 15.4.5 | Normal Subgroup | Definition | term |
 | 15.4.12 | Homomorphism | Definition | term |
-| 15.4.14 | Group Homomorphism Properties | Theorem | left out |
+| 15.4.14 | Group Homomorphism Properties | Theorem | term |
 | 15.4.18 | Natural Homomorphism | Definition | term |
 | 15.4.19 | Kernel of a homomorphism | Definition | term |
 | 15.4.21 | Fundamental Theorem of Group Homomorphisms | Theorem | term |
@@ -521,19 +575,19 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 16.1.6 | Unity of a Ring | Definition | term |
 | 16.1.10 | Multiplicative Inverses | Definition | term |
 | 16.1.13 | Ring Isomorphism | Definition | term |
-| 16.1.18 | Some Basic Properties | Theorem | left out |
+| 16.1.18 | Some Basic Properties | Theorem | term |
 | 16.1.20 | Zero Divisor | Definition | term |
-| 16.1.22 | Multiplicative Cancellation | Theorem | left out |
+| 16.1.22 | Multiplicative Cancellation | Theorem | term |
 | 16.1.23 | Integral Domain | Definition | term |
 | **16.2** | **Fields** | [section](https://discretemath.org/ads/s-fields.html) | |
 | 16.2.1 | Field | Definition | term |
-| 16.2.4 | Field ⇒ Integral Domain | Theorem | left out |
-| 16.2.5 | Finite Integral Domain ⇒ Field | Theorem | left out |
+| 16.2.4 | Field ⇒ Integral Domain | Theorem | term |
+| 16.2.5 | Finite Integral Domain ⇒ Field | Theorem | term |
 | **16.3** | **Polynomial Rings** | [section](https://discretemath.org/ads/s-polynomial-rings.html) | |
 | 16.3.1 | Polynomial over a Ring | Definition | term |
 | 16.3.3 | Polynomial Addition | Definition | term |
 | 16.3.4 | Polynomial Multiplication | Definition | term |
-| 16.3.8 | Properties of Polynomial Rings | Theorem | left out |
+| 16.3.8 | Properties of Polynomial Rings | Theorem | term |
 | 16.3.13 | Division Property for Polynomials | Theorem | term |
 | 16.3.14 | The Factor Theorem | Theorem | term |
 | 16.3.17 | Reducibility over a Field | Definition | term |
@@ -543,9 +597,9 @@ Decisions: **term** (goes on the chapter page), **same term** (another box of a 
 | 16.5.1 | Power Series | Definition | term |
 | 16.5.2 | Power Series Addition | Definition | term |
 | 16.5.3 | Power Series Multiplication | Definition | term |
-| 16.5.5 | Properties of Power Series | Theorem | left out |
-| 16.5.6 | Polynomial Units | Theorem | left out |
-| 16.5.7 | Power Series Units | Theorem | left out |
+| 16.5.5 | Properties of Power Series | Theorem | term |
+| 16.5.6 | Polynomial Units | Theorem | term |
+| 16.5.7 | Power Series Units | Theorem | term |
 
 ## Order Notation (from *Mathematics for Computer Science*)
 
