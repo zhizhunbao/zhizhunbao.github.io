@@ -1,6 +1,6 @@
 ---
 title: "Medical and Health Sciences"
-description: "The Medical and Health Sciences section: MeSH as its framework, and the WHO ATC classification for drugs."
+description: "The Medical and Health Sciences section: MeSH as its framework, the WHO ATC classification for drugs, and MedlinePlus for explanations."
 ms.date: 2026-10-27
 ---
 
@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Medical and Health Sciences: MeSH, with its 15 classes (A Anatomy, B Organisms, C Diseases, D Chemicals and Drugs, E Analytical, Diagnostic and Therapeutic Techniques, and Equipment, F Psychiatry and Psychology, G Phenomena and Processes, H Disciplines and Occupations, I Anthropology, Education, Sociology, and Social Phenomena, J Technology, Industry, and Agriculture, K Humanities, L Information Science, M Named Groups, N Health Care, Z Geographicals), and the WHO ATC classification, with its 14 anatomical main groups (A to V).](media/medical-health-sciences.png)
+![Medical and Health Sciences: MeSH, with its 15 classes (A Anatomy, B Organisms, C Diseases, D Chemicals and Drugs, E Analytical, Diagnostic and Therapeutic Techniques, and Equipment, F Psychiatry and Psychology, G Phenomena and Processes, H Disciplines and Occupations, I Anthropology, Education, Sociology, and Social Phenomena, J Technology, Industry, and Agriculture, K Humanities, L Information Science, M Named Groups, N Health Care, Z Geographicals), and the WHO ATC classification, with its 14 anatomical main groups (A to V), and MedlinePlus, with its 5 Health Topics categories.](media/medical-health-sciences.png)
 
 ## Glossary
 
@@ -17,6 +17,7 @@ ms.date: 2026-10-27
 | **Medical and Health Sciences**<br>医学主题词表（MeSH） | (context) "**treatment for illness or injury**, or **the study of this**" | （语境）**对疾病或损伤的治疗**，或**对此的研究** | [Cambridge University Press & Assessment, n.d., "medicine" noun (TREATMENT)](https://dictionary.cambridge.org/dictionary/english/medicine) |
 | **[MeSH](mesh/index.md)**<br>医学主题词表（MeSH） | "The Medical Subject Headings (MeSH) thesaurus is a **controlled and hierarchically-organized vocabulary** produced by the National Library of Medicine. It is used for **indexing, cataloging, and searching** of biomedical and health-related information." | 医学主题词表（MeSH）叙词表是美国国家医学图书馆编制的一套**受控且分层组织的词表**。它用于对生物医学和健康相关信息进行**标引、编目和检索**。 | [National Library of Medicine, n.d., para. 1](https://www.nlm.nih.gov/mesh/meshhome.html#:~:text=The%20Medical%20Subject%20Headings%20%28MeSH%29%20thesaurus%20is%20a%20controlled) |
 | **[ATC](atc/index.md)**<br>解剖学治疗学及化学分类系统 | "In the ATC classification system, the **active substances** are classified in a **hierarchy with five different levels**." | 在 ATC 分类系统中，**活性物质**按**五个层级的层次结构**分类。 | [WHO Collaborating Centre for Drug Statistics Methodology, n.d., "Structure" section, para. 1](https://atcddd.fhi.no/atc/structure_and_principles/) |
+| **[MedlinePlus](medlineplus/index.md)**<br>MedlinePlus 健康信息网 | "MedlinePlus is an **online health information resource** for **patients and their families and friends**." | MedlinePlus 是面向**患者及其家人和朋友**的**在线健康信息资源**。 | [National Library of Medicine, n.d., para. 1](https://medlineplus.gov/about/) |
 
 ## References
 
@@ -25,3 +26,5 @@ Cambridge University Press & Assessment. (n.d.). Medicine. In *Cambridge Diction
 National Library of Medicine. (n.d.). *Welcome to Medical Subject Headings*. Retrieved October 27, 2026, from <https://www.nlm.nih.gov/mesh/meshhome.html>
 
 WHO Collaborating Centre for Drug Statistics Methodology. (n.d.). *Structure and principles*. Retrieved October 28, 2026, from <https://atcddd.fhi.no/atc/structure_and_principles/>
+
+National Library of Medicine. (n.d.). *About MedlinePlus*. Retrieved October 28, 2026, from <https://medlineplus.gov/about/>

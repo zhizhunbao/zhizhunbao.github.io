@@ -5,3 +5,5 @@ items:
   href: mesh/toc.yml
 - name: ATC
   href: atc/toc.yml
+- name: MedlinePlus
+  href: medlineplus/toc.yml
