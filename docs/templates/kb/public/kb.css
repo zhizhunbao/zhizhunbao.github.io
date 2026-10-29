@@ -185,6 +185,9 @@ body { line-height: 1.75; }
 .content table.kb-terms th:nth-child(3) { width: 24%; }
 .content table.kb-terms th:nth-child(4) { width: 24%; }
 .content table.kb-terms td { overflow-wrap: anywhere; }
+/* MathJax formulas wider than their cell scroll inside it instead of spilling into the next column */
+.content table.kb-terms td mjx-container { display: inline-block; vertical-align: middle; max-width: 100%; overflow-x: auto; overflow-y: hidden; }
+.content table.kb-terms td mjx-container[display="true"] { display: block; }
 .content table.kb-terms td:nth-child(4) { font-size: 13px; color: var(--theme-text-subtle); }
 
 /* Coverage tables (Week | Group | Terms in the course | Source): same widths in every course table */

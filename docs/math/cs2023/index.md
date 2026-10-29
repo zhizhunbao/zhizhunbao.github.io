@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![MSF: its five knowledge units, one group each in CS2023 order (Discrete Mathematics, Probability, Statistics, Linear Algebra, Calculus), each listing its topics (for Discrete Mathematics, the chapters of its textbook).](media/cs2023-msf.png)
+![MSF: its five knowledge units, one group each in CS2023 order (Discrete Mathematics, Probability, Statistics, Linear Algebra, Calculus), each listing its topics (for Discrete Mathematics and Probability, the chapters of their textbooks).](media/cs2023-msf.png)
 
 ## Glossary
 

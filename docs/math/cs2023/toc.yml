@@ -41,18 +41,28 @@ items:
 - name: "2. Probability"
   href: probability/index.md
   items:
-  - name: "2.1 Basic Notions"
-    href: probability/basic-notions.md
-  - name: "2.2 Discrete Random Variables and Distributions"
-    href: probability/discrete-random-variables-and-distributions.md
-  - name: "2.3 Continuous Random Variables and Distributions"
-    href: probability/continuous-random-variables-and-distributions.md
-  - name: "2.4 Expectation, Variance, Law of Large Numbers, Central Limit Theorem"
-    href: probability/expectation-variance-law-of-large-numbers-central-limit-theorem.md
-  - name: "2.5 Conditional Distributions and Expectation"
-    href: probability/conditional-distributions-and-expectation.md
-  - name: "2.6 Applications to Computing, the Difference Between Probability and Statistics (as subjects)"
-    href: probability/applications-to-computing-the-difference-between-probability-and-statistics-as-subjects.md
+  - name: "1 Basic Concepts"
+    href: probability/basic-concepts.md
+  - name: "2 Combinatorics: Counting Methods"
+    href: probability/combinatorics-counting-methods.md
+  - name: "3 Discrete Random Variables"
+    href: probability/discrete-random-variables.md
+  - name: "4 Continuous and Mixed Random Variables"
+    href: probability/continuous-and-mixed-random-variables.md
+  - name: "5 Joint Distributions"
+    href: probability/joint-distributions.md
+  - name: "6 Multiple Random Variables"
+    href: probability/multiple-random-variables.md
+  - name: "7 Limit Theorems and Convergence of Random Variables"
+    href: probability/limit-theorems-and-convergence-of-random-variables.md
+  - name: "8 Statistical Inference I: Classical Methods"
+    href: probability/statistical-inference-i-classical-methods.md
+  - name: "9 Statistical Inference II: Bayesian Inference"
+    href: probability/statistical-inference-ii-bayesian-inference.md
+  - name: "10 Introduction to Random Processes"
+    href: probability/introduction-to-random-processes.md
+  - name: "11 Some Important Random Processes"
+    href: probability/some-important-random-processes.md
 - name: "3. Statistics"
   href: statistics/index.md
   items:
