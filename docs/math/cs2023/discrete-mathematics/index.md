@@ -1,38 +1,42 @@
 ---
 title: "1. Discrete Mathematics"
-description: "CS2023 knowledge unit MSF-Discrete: Discrete Mathematics, 8 topics."
-ms.date: 2026-10-27
+description: "MSF unit Discrete Mathematics: the 16 chapters of Applied Discrete Structures and Asymptotic Notation from Mathematics for Computer Science, 332 terms."
+ms.date: 2026-10-28
 ---
 
 # 1. Discrete Mathematics
 
 ## Classification
 
-![Discrete Mathematics: the 8 topics of the CS2023 knowledge unit MSF-Discrete, one group each in CS2023 order, each holding the terms defined on its page.](media/discrete-mathematics.png)
+![Discrete Mathematics: the 16 chapters of Applied Discrete Structures in the book's order and Asymptotic Notation, one group each listing the terms defined on its page (332 in all); the groups wrap at the page width.](media/discrete-mathematics@1x.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **Discrete Mathematics**<br>离散数学 | "Discrete mathematics is the branch of mathematics dealing with objects that can assume **only distinct, separated values**." | 离散数学是处理一类对象的数学分支，这些对象**只能取彼此分开的不同值**。 | [Weisstein, n.d.-a, "Discrete mathematics" entry, para. 1](https://mathworld.wolfram.com/DiscreteMathematics.html#:~:text=dealing%20with%20objects%20that%20can%20assume%20only%20distinct) |
-| **[Sets, relations, functions, cardinality](sets-relations-functions-cardinality.md)**<br>集合、关系、函数、基数 | "A set is a finite or infinite **collection of objects** in which **order has no significance**, and multiplicity is generally also ignored (unlike a list or multiset)." | 集合是有限或无限的**对象的汇集**，其中**顺序没有意义**，重复次数通常也被忽略（不同于列表或多重集）。 | [Weisstein, n.d.-i, "Set" entry, para. 1](https://mathworld.wolfram.com/Set.html#:~:text=A%20set%20is%20a%20finite%20or%20infinite%20collection%20of%20objects) |
-| **[Recursive mathematical definitions](recursive-mathematical-definitions.md)**<br>递归数学定义 | (context) "A recursive process is one in which objects are **defined in terms of other objects of the same type**." | （语境）递归过程是这样一种过程：对象**用同类型的其他对象来定义**。 | [Weisstein, n.d.-h, "Recursion" entry, para. 1](https://mathworld.wolfram.com/Recursion.html#:~:text=A%20recursive%20process%20is%20one%20in%20which%20objects%20are%20defined) |
-| **[Proof techniques (induction, proof by contradiction)](proof-techniques-induction-proof-by-contradiction.md)**<br>证明技巧（归纳法、反证法） | (context) "A proof by contradiction establishes the truth of a given proposition by the **supposition that it is false** and the subsequent drawing of a conclusion that is **contradictory to something that is proven to be true**." | （语境）反证法这样确立一个命题为真：先**假设它为假**，再推出一个**与某个已证明为真的事实相矛盾**的结论。 | [Weisstein, n.d.-g, "Proof by contradiction" entry, para. 1](https://mathworld.wolfram.com/ProofbyContradiction.html#:~:text=A%20proof%20by%20contradiction%20establishes%20the%20truth) |
-| **[Permutations, combinations, counting, pigeonhole principle](permutations-combinations-counting-pigeonhole-principle.md)**<br>排列、组合、计数、鸽巢原理 | "A permutation of a set S is a **one-to-one correspondence of S with itself**." | 集合 S 的排列是 **S 与它自身之间的一一对应**。 | [Weisstein, n.d.-f, "Permutation" entry, para. 1](https://mathworld.wolfram.com/Permutation.html#:~:text=is%20a%20one%2Dto%2Done%20correspondence%20of) |
-| **[Modular arithmetic](modular-arithmetic.md)**<br>模运算 | "Modular arithmetic is the **arithmetic of congruences**, sometimes known informally as '**clock arithmetic**.'" | 模运算是**同余的算术**，非正式地也称为“**时钟算术**”。 | [Weisstein, n.d.-e, "Modular arithmetic" entry, para. 1](https://mathworld.wolfram.com/ModularArithmetic.html#:~:text=Modular%20arithmetic%20is%20the%20arithmetic%20of%20congruences) |
-| **[Logic](logic.md)**<br>逻辑 | "Logic is the **formal mathematical study** of the methods, structure, and validity of **mathematical deduction and proof**." | 逻辑是一种**形式化的数学研究**，研究对象是**数学演绎和证明**的方法、结构和有效性。 | [Weisstein, n.d.-d, "Logic" entry, para. 1](https://mathworld.wolfram.com/Logic.html#:~:text=Logic%20is%20the%20formal%20mathematical%20study) |
-| **[Graphs](graphs.md)**<br>图 | "In a mathematician's terminology, a graph is a **collection of points and lines** connecting **some (possibly empty) subset of them**." | 按数学家的术语，图是**点和线的集合**，这些线连接**其中某个子集的点**（子集可能为空）。 | [Weisstein, n.d.-b, "Graph" entry, para. 3](https://mathworld.wolfram.com/Graph.html#:~:text=a%20graph%20is%20a%20collection%20of%20points%20and%20lines) |
-| **[Order notation](order-notation.md)**<br>阶的记号 | (context) "... the symbols **O(x)** (sometimes called 'big-O') and o(x) (sometimes called 'little-o') are known as the **Landau symbols** ..." | （语境）……符号 **O(x)**（有时称为“大 O”）和 o(x)（有时称为“小 o”）称为**朗道符号**…… | [Weisstein, n.d.-c, "Landau symbols" entry, para. 1](https://mathworld.wolfram.com/LandauSymbols.html#:~:text=are%20known%20as%20the%20Landau%20symbols) |
+| **Discrete Mathematics**<br>离散数学 | "Discrete mathematics is the branch of mathematics dealing with objects that can assume **only distinct, separated values**." | 离散数学是处理一类对象的数学分支，这些对象**只能取彼此分开的不同值**。 | [Weisstein, n.d., "Discrete mathematics" entry, para. 1](https://mathworld.wolfram.com/DiscreteMathematics.html#:~:text=dealing%20with%20objects%20that%20can%20assume%20only%20distinct) |
+| **[1 Set Theory](set-theory.md)**<br>集合论 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 1](https://discretemath.org/ads/chapter_1.html) |
+| **[2 Combinatorics](combinatorics.md)**<br>组合数学 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 2](https://discretemath.org/ads/chapter_2.html) |
+| **[3 Logic](logic.md)**<br>逻辑 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 3](https://discretemath.org/ads/chapter3.html) |
+| **[4 More on Sets](more-on-sets.md)**<br>集合再论 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 4](https://discretemath.org/ads/chapter_4.html) |
+| **[5 Introduction to Matrix Algebra](introduction-to-matrix-algebra.md)**<br>矩阵代数导论 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 5](https://discretemath.org/ads/chapter_5.html) |
+| **[6 Relations](relations.md)**<br>关系 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 6](https://discretemath.org/ads/chapter_6.html) |
+| **[7 Functions and Probability](functions-and-probability.md)**<br>函数与概率 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 7](https://discretemath.org/ads/chapter_7.html) |
+| **[8 Recursion and Recurrence Relations](recursion-and-recurrence-relations.md)**<br>递归与递推关系 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 8](https://discretemath.org/ads/chapter_8.html) |
+| **[9 Graph Theory](graph-theory.md)**<br>图论 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 9](https://discretemath.org/ads/chapter_9.html) |
+| **[10 Trees](trees.md)**<br>树 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 10](https://discretemath.org/ads/chapter_10.html) |
+| **[11 Algebraic Structures](algebraic-structures.md)**<br>代数结构 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 11](https://discretemath.org/ads/chapter_11.html) |
+| **[12 More Matrix Algebra](more-matrix-algebra.md)**<br>矩阵代数再论 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 12](https://discretemath.org/ads/chapter_12.html) |
+| **[13 Boolean Algebra](boolean-algebra.md)**<br>布尔代数 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 13](https://discretemath.org/ads/chapter_13.html) |
+| **[14 Monoids and Automata](monoids-and-automata.md)**<br>幺半群与自动机 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 14](https://discretemath.org/ads/chapter_14.html) |
+| **[15 Group Theory and Applications](group-theory-and-applications.md)**<br>群论及其应用 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 15](https://discretemath.org/ads/chapter_15.html) |
+| **[16 An Introduction to Rings and Fields](an-introduction-to-rings-and-fields.md)**<br>环与域导论 | (No definition) | （无定义） | [Doerr & Levasseur, n.d., chapter 16](https://discretemath.org/ads/chapter_16.html) |
+| **[17 Asymptotic Notation](asymptotic-notation.md)**<br>渐近记号 | (No definition) | （无定义） | [Lehman et al., 2018, section 14.7](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) |
 
 ## References
 
-- Joint Task Force on Computing Curricula. (2024). *Computer science curricula 2023*. Association for Computing Machinery. <https://doi.org/10.1145/3664191>
-- Weisstein, E. W. (n.d.-a). *Discrete mathematics*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/DiscreteMathematics.html>
-- Weisstein, E. W. (n.d.-b). *Graph*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/Graph.html>
-- Weisstein, E. W. (n.d.-c). *Landau symbols*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/LandauSymbols.html>
-- Weisstein, E. W. (n.d.-d). *Logic*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/Logic.html>
-- Weisstein, E. W. (n.d.-e). *Modular arithmetic*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/ModularArithmetic.html>
-- Weisstein, E. W. (n.d.-f). *Permutation*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/Permutation.html>
-- Weisstein, E. W. (n.d.-g). *Proof by contradiction*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/ProofbyContradiction.html>
-- Weisstein, E. W. (n.d.-h). *Recursion*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/Recursion.html>
-- Weisstein, E. W. (n.d.-i). *Set*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/Set.html>
+Doerr, A., & Levasseur, K. (n.d.). *Applied discrete structures*. Retrieved October 28, 2026, from <https://discretemath.org/ads/index-ads.html>
+
+Lehman, E., Leighton, F. T., & Meyer, A. R. (2018). *Mathematics for computer science*. Massachusetts Institute of Technology. <https://courses.csail.mit.edu/6.042/spring18/mcs.pdf>
+
+Weisstein, E. W. (n.d.). *Discrete mathematics*. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <https://mathworld.wolfram.com/DiscreteMathematics.html>

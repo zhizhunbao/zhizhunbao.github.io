@@ -165,13 +165,14 @@ The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Sy
 
 ### Mathematical Sciences
 
-- Mathematical Sciences, like the other sections, has CS2023 MSF as its entry (since 2026-10-27; before, the MSF units were its second level in alphabetical order): its five units numbered in CS2023's order (1. Discrete Mathematics, 2. Probability, 3. Statistics, 4. Linear Algebra, 5. Calculus, from most to fewest CS Core hours), which is also the order to learn them in, and definitions quoted from Wolfram MathWorld (web sources only).
+- Mathematical Sciences, like the other sections, has MSF (Mathematical and Statistical Foundations; named "CS2023 MSF" until 2026-10-28, when its units began to follow web textbooks) as its entry (since 2026-10-27; before, the MSF units were its second level in alphabetical order): its five units numbered in CS2023's order (1. Discrete Mathematics, 2. Probability, 3. Statistics, 4. Linear Algebra, 5. Calculus, from most to fewest CS Core hours), which is also the order to learn them in, and definitions quoted from Wolfram MathWorld (web sources only).
+- Inside an MSF unit (Discrete Mathematics since 2026-10-28; the other four still show their CS2023 topics), the pages are the chapters of one web textbook, the whole book (Discrete Mathematics: Doerr and Levasseur, *Applied Discrete Structures*), numbered with the book's own chapter numbers (1 to 16, so the section numbers in the figures, 1.1, 1.2..., are the book's); a gap against the CS2023 topic list is filled from a second book as one more page, numbered after the last chapter (17 Asymptotic Notation, from *Mathematics for Computer Science* section 14.7). A chapter page has one figure group per section and a Glossary row per term the section defines (every titled Definition, Theorem, Algorithm... box, extracted by script; named results that are statements are left out), each linking to its box; definitions are pending until quoted. The unit's folder README is the term checklist (every extracted box with its decision). Terms kept from the earlier CS2023 topic pages stay, with their MathWorld definitions, in the section that covers them.
 - Beside it, MSC2020 (the Mathematics Subject Classification, msc2020.org, kept by Mathematical Reviews and zbMATH) is the framework for the whole field, since mathematics has no single official documentation set.
 - Because MSC classifies "the mathematical sciences literature", the section is named Mathematical Sciences (renamed from Math on 2026-10-27; the folder stays `docs/math`) and keeps all 63 MSC top classes, including the mathematical treatment of physics, chemistry, engineering, electronics and biology (70 to 86, 92, 93, 94); those subjects themselves would get sections of their own with their own classifications.
 - Third level: the 63 top classes (MSC code and name, in MSC order); fourth level: their 534 subclasses, one page each (since 2026-10-28 every class has an Overview whose groups list its subclasses' five-digit classes, and every subclass page a figure and a Glossary row per five-digit class: code and name from the cached MSC2020 CSV, TeX turned into plain text, a standard Chinese name, and "(No definition)" since MSC gives none).
 - Left out: every class's fixed general codes (NN-00 to NN-11: reference works, textbooks, surveys, history, software, proceedings, computational methods, data) and the "other" classes ending in 99.
 - The MSC2020 Overview's Glossary has a row per class quoting the class's term in Wolfram MathWorld, or in Eric Weisstein's World of Physics (scienceworld.wolfram.com) for physics classes MathWorld lacks, marked (context) when the entry defines a related term rather than the class itself; classes with neither (01, 70, 74, 82, 86, 97) have placeholder rows (definition pending) until a web source is found, such as the Encyclopedia of Mathematics.
-- Terms are later hung under the MSC classes from web textbooks (one per CS2023 MSF unit), each citing its book and section; there is no separate textbook directory.
+- Terms are later hung under the MSC classes from web textbooks (one per MSF unit), each citing its book and section; there is no separate textbook directory.
 
 ### Computer Science
 
@@ -227,3 +228,12 @@ The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Sy
 - Left as they are: codes and numbers at the start (05C, A01, 2.1), words with capitals, digits or code characters (macOS, torch.compile, pin_memory()), names that are lowercase on purpose (pip, pytest, scikit-learn, uv, Python keywords in the Python tutorial such as if, for, del), text in parentheses, and titles that are sentences ending with a period.
 - Quotes inside glossary definitions are never changed.
 - Never use the middle dot as a separator.
+
+### Formulas
+
+- Math and chemistry are LaTeX inside `$...$` (`$$...$$` for a block), rendered by MathJax 3, which `public/kb.js` loads only on pages that have a formula (since 2026-10-28); chemistry uses the mhchem extension, `$\ce{H2O}$`, `$\ce{2H2 + O2 -> 2H2O}$`.
+- A quoted definition keeps its source's TeX exactly (`\(...\)` written as `$...$`); the Chinese translation copies the same `$...$`, dropping only a `	ext{.}` or `	ext{,}` at its end in favour of full-width punctuation.
+- Spacing (Markdig only reads `$...$` as math this way): a space between a formula and the letters or Chinese characters around it, none just inside the `$`; letters glued to a formula (the "th" of "$i$th") go inside it as `	ext{th}`.
+- Bold goes on words, never on a span that starts or ends with a formula (`**$x$**` is not read as bold): "**there exists a constant** $c \ge 0$".
+- In tables, a vertical bar inside a formula is `\vert` or `\mid`, never `|`, which would split the cell.
+- Term names, menu names and figures stay plain text (no LaTeX), so they can be searched and drawn.
