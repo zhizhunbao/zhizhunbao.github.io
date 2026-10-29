@@ -1,0 +1,11 @@
+---
+title: "H01 PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES"
+description: "ATC 2nd level, therapeutic subgroup H01 of H SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS."
+ms.date: 2026-10-28
+---
+
+# H01 PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES
+
+Sources: [WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, H01](https://atcddd.fhi.no/atc_ddd_index/?code=H01&showdescription=no).
+
+Not written yet.
