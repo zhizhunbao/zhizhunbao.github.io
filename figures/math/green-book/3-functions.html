@@ -1,0 +1,71 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px 14px 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; max-width: 1220px; gap: 14px; align-items: stretch; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { min-width: 440px; white-space: nowrap; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; padding: 0 14px; white-space: nowrap; }
+ .group { min-width: 0; } .sym { font-family: "Cambria Math", "Segoe UI Symbol", serif; font-size: 17px; font-weight: 400; color: #0f6cbd; } .desc { font-weight: 600; } .group { width: 1180px; white-space: normal; } .items { display: flex; flex-wrap: wrap; gap: 8px; } .items .item { min-width: 130px; margin-bottom: 0; }</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">IUPAC Green Book</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">3 Functions</div>
+        <div class="items">
+        <div class="item"><span class="sym">sin <i>x</i></span></div>
+        <div class="item"><span class="sym">cos <i>x</i></span></div>
+        <div class="item"><span class="sym">tan <i>x</i></span></div>
+        <div class="item"><span class="sym">cot <i>x</i></span></div>
+        <div class="item"><span class="sym">arcsin <i>x</i></span></div>
+        <div class="item"><span class="sym">arccos <i>x</i></span></div>
+        <div class="item"><span class="sym">arctan <i>x</i></span></div>
+        <div class="item"><span class="sym">arccot <i>x</i></span></div>
+        <div class="item"><span class="sym">sinh <i>x</i></span></div>
+        <div class="item"><span class="sym">cosh <i>x</i></span></div>
+        <div class="item"><span class="sym">tanh <i>x</i></span></div>
+        <div class="item"><span class="sym">coth <i>x</i></span></div>
+        <div class="item"><span class="sym">arsinh <i>x</i></span></div>
+        <div class="item"><span class="sym">arcosh <i>x</i></span></div>
+        <div class="item"><span class="sym">artanh <i>x</i></span></div>
+        <div class="item"><span class="sym">arcoth <i>x</i></span></div>
+        <div class="item"><span class="sym">e</span></div>
+        <div class="item"><span class="sym">exp <i>x</i>, e<sup><i>x</i></sup></span></div>
+        <div class="item"><span class="sym">log<sub><i>a</i></sub> <i>x</i></span></div>
+        <div class="item"><span class="sym">ln <i>x</i>, log<sub>e</sub> <i>x</i></span></div>
+        <div class="item"><span class="sym">lg <i>x</i>, log<sub>10</sub> <i>x</i></span></div>
+        <div class="item"><span class="sym">lb <i>x</i>, log<sub>2</sub> <i>x</i></span></div>
+        <div class="item"><span class="sym">ent <i>x</i></span></div>
+        <div class="item"><span class="sym">int <i>x</i></span></div>
+        <div class="item"><span class="sym">int(<i>n</i>/<i>m</i>)</span></div>
+        <div class="item"><span class="sym"><i>n</i>/<i>m</i> − int(<i>n</i>/<i>m</i>)</span></div>
+        <div class="item"><span class="sym">Δ<i>x</i> = <i>x</i>(final) − <i>x</i>(initial)</span></div>
+        <div class="item"><span class="sym">δ<i>f</i></span></div>
+        <div class="item"><span class="sym">lim<sub><i>x</i>→<i>a</i></sub> <i>f</i>(<i>x</i>)</span></div>
+        <div class="item"><span class="sym">d<i>f</i>/d<i>x</i>, <i>f</i> ′, (d/d<i>x</i>)<i>f</i></span></div>
+        <div class="item"><span class="sym">d<sup>2</sup><i>f</i>/d<i>x</i><sup>2</sup>, <i>f</i> ″</span></div>
+        <div class="item"><span class="sym">d<sup><i>n</i></sup><i>f</i>/d<i>x</i><sup><i>n</i></sup>, <i>f</i><sup>(<i>n</i>)</sup></span></div>
+        <div class="item"><span class="sym">∂<i>f</i>/∂<i>x</i>, ∂<sub><i>x</i></sub><i>f</i>, D<sub><i>x</i></sub><i>f</i></span></div>
+        <div class="item"><span class="sym">d<i>f</i></span></div>
+        <div class="item"><span class="sym">đ<i>f</i></span></div>
+        <div class="item"><span class="sym"><i>ẋ</i>, d<i>x</i>/d<i>t</i></span></div>
+        <div class="item"><span class="sym">∫ <i>f</i>(<i>x</i>) d<i>x</i>, ∫ d<i>x</i> <i>f</i>(<i>x</i>)</span></div>
+        <div class="item"><span class="sym">δ<sub><i>ij</i></sub> = 1 if <i>i</i> = <i>j</i>, 0 if <i>i</i> ≠ <i>j</i></span></div>
+        <div class="item"><span class="sym">ε<sub><i>ijk</i></sub></span></div>
+        <div class="item"><span class="sym">δ(<i>x</i>), ∫ <i>f</i>(<i>x</i>) δ(<i>x</i>) d<i>x</i> = <i>f</i>(0)</span></div>
+        <div class="item"><span class="sym">ε(<i>x</i>), <i>H</i>(<i>x</i>), <i>h</i>(<i>x</i>)</span></div>
+        <div class="item"><span class="sym">Γ(<i>x</i>) = ∫<sub>0</sub><sup>∞</sup> <i>t</i><sup><i>x</i>−1</sup>e<sup>−<i>t</i></sup> d<i>t</i></span></div>
+        <div class="item"><span class="sym"><i>f</i> ∗ <i>g</i> = ∫<sub>−∞</sub><sup>+∞</sup> <i>f</i>(<i>x</i> − <i>x</i>′) <i>g</i>(<i>x</i>′) d<i>x</i>′</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>

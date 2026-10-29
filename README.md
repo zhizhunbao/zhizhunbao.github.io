@@ -65,6 +65,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 - Long group names are never shortened or wrapped.
 - A figure too wide for one row splits its groups over two rows, in order, and all groups take the width of the widest group title (a short script at the end of the source sets it, as in `figures/networking/ccna/ccna.html`).
 - A figure with many groups (since 2026-10-27, MSC2020) instead wraps its groups at the page width (1220 px), so the browser fits as many in each row as their content allows (`figures/math/msc2020/msc2020.html`).
+- Boxes are not forced into one column when the space to their right would stay empty: a group of short boxes (symbols, codes) flows them in rows, left to right in source order, wrapping at the page width, an exception to the single column of a sub-page figure (since 2026-10-29, `figures/math/green-book/3-functions.html`).
 
 ### Boxes and groups
 
@@ -176,6 +177,7 @@ The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Sy
 - Left out: every class's fixed general codes (NN-00 to NN-11: reference works, textbooks, surveys, history, software, proceedings, computational methods, data) and the "other" classes ending in 99.
 - The MSC2020 Overview's Glossary has a row per class quoting the class's term in Wolfram MathWorld, or in Eric Weisstein's World of Physics (scienceworld.wolfram.com) for physics classes MathWorld lacks, marked (context) when the entry defines a related term rather than the class itself; classes with neither (01, 70, 74, 82, 86, 97) have placeholder rows (definition pending) until a web source is found, such as the Encyclopedia of Mathematics.
 - Terms are later hung under the MSC classes from web textbooks (one per MSF unit), each citing its book and section; there is no separate textbook directory.
+- Mathematical symbols (since 2026-10-29) are the third entry, IUPAC Green Book (*Quantities, Units and Symbols in Physical Chemistry*, 3rd edition, free PDF at iupac.org), chapter 4, section 4.2 "Symbols, operators, and functions": its 7 groups in the book's order, one page each, whose figure is the Green Book frame holding the group (each item is the symbol alone, with every form the Glossary row's Symbol shows; its description is in the Glossary), with a row per symbol (Symbol rendered, the book's description quoted with its note if any, a Chinese translation, the book page). ISO 80000-2, the international standard for mathematical symbols, is not used because its text is paid; national standards (GB/T 3102.11) are not used either. Groups have no definition in the book ("(No definition)").
 
 ### Computer Science
 
