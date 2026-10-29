@@ -75,7 +75,12 @@ function math(body) {
       document.head.append(s)
     })
   }
-  mathJax.then(() => window.MathJax.typesetPromise([body]))
+  mathJax.then(() => window.MathJax.typesetPromise([body])).then(() => {
+    // only a formula wider than its table cell gets a scrollbar (kb.css .kb-wide)
+    for (const m of body.querySelectorAll('td mjx-container')) {
+      if (m.getBoundingClientRect().width > m.closest('td').clientWidth) m.classList.add('kb-wide')
+    }
+  })
 }
 
 function content() {
@@ -445,6 +450,7 @@ function theme() {
     root.classList.remove('kb-toc-open')
     const open = root.classList.toggle('kb-menu-open')
     mb.setAttribute('aria-expanded', String(open))
+    if (open) scrollTo(0, 0) // the drawer sits at the top of the page: opened from further down it would be out of sight
   })
   document.addEventListener('click', (e) => { // delegated: the button lives in <main>, which is swapped on navigation
     if (!e.target.closest('.kb-toc-button')) return
@@ -454,7 +460,7 @@ function theme() {
     scrollTo(0, 0)
     document.querySelector('#kb-toc .is-selected')?.scrollIntoView({ block: 'center' })
   })
-  document.getElementById('kb-toc-close').addEventListener('click', () => root.classList.remove('kb-toc-open'))
+  document.getElementById('kb-toc-close')?.addEventListener('click', () => root.classList.remove('kb-toc-open'))
 }
 
 // Links in the article to other sites open in a new tab; links to pages of this site (and navigation: header, TOC,
@@ -643,7 +649,8 @@ async function main() {
   const tocItems = sectionItems.length ? sectionItems : root
   const current = flat(tocItems).find((it) => same(it.url, page)) || null
   nav(root, sectionItems, section)
-  if (!sectionItems.length) document.getElementById('kb-mobile-nav').remove() // the tree already lists the sections
+  // outside a section (Home) the tree only repeats the site sections: on phones ☰ shows them and there is no Table of contents button
+  document.documentElement.classList.toggle('kb-no-section', !sectionItems.length)
   tree(tocItems, current)
   breadcrumbs(section && sectionItems.length ? section : null, sectionItems.length ? current : null)
   Object.assign(NAV, { tocUrl, tocItems, section, sectionItems })

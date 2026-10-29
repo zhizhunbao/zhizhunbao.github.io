@@ -66,18 +66,48 @@ items:
 - name: "3. Statistics"
   href: statistics/index.md
   items:
-  - name: "3.1 Basic Definitions and Concepts"
-    href: statistics/basic-definitions-and-concepts.md
-  - name: "3.2 Univariate Data"
-    href: statistics/univariate-data.md
-  - name: "3.3 Multivariate Data"
-    href: statistics/multivariate-data.md
-  - name: "3.4 Data Transformation"
-    href: statistics/data-transformation.md
-  - name: "3.5 Statistical Models and Algorithms"
-    href: statistics/statistical-models-and-algorithms.md
-  - name: "3.6 Hypothesis Testing"
-    href: statistics/hypothesis-testing.md
+  - name: "1 Hello Data"
+    href: statistics/hello-data.md
+  - name: "2 Study Design"
+    href: statistics/study-design.md
+  - name: "4 Exploring Categorical Data"
+    href: statistics/exploring-categorical-data.md
+  - name: "5 Exploring Numerical Data"
+    href: statistics/exploring-numerical-data.md
+  - name: "7 Linear Regression with a Single Predictor"
+    href: statistics/linear-regression-with-a-single-predictor.md
+  - name: "8 Linear Regression with Multiple Predictors"
+    href: statistics/linear-regression-with-multiple-predictors.md
+  - name: "9 Logistic Regression"
+    href: statistics/logistic-regression.md
+  - name: "11 Hypothesis Testing with Randomization"
+    href: statistics/hypothesis-testing-with-randomization.md
+  - name: "12 Confidence Intervals with Bootstrapping"
+    href: statistics/confidence-intervals-with-bootstrapping.md
+  - name: "13 Inference with Mathematical Models"
+    href: statistics/inference-with-mathematical-models.md
+  - name: "14 Decision Errors"
+    href: statistics/decision-errors.md
+  - name: "16 Inference for a Single Proportion"
+    href: statistics/inference-for-a-single-proportion.md
+  - name: "17 Inference for Comparing Two Proportions"
+    href: statistics/inference-for-comparing-two-proportions.md
+  - name: "18 Inference for Two-way Tables"
+    href: statistics/inference-for-two-way-tables.md
+  - name: "19 Inference for a Single Mean"
+    href: statistics/inference-for-a-single-mean.md
+  - name: "20 Inference for Comparing Two Independent Means"
+    href: statistics/inference-for-comparing-two-independent-means.md
+  - name: "21 Inference for Comparing Paired Means"
+    href: statistics/inference-for-comparing-paired-means.md
+  - name: "22 Inference for Comparing Many Means"
+    href: statistics/inference-for-comparing-many-means.md
+  - name: "24 Inference for Linear Regression with a Single Predictor"
+    href: statistics/inference-for-linear-regression-with-a-single-predictor.md
+  - name: "25 Inference for Linear Regression with Multiple Predictors"
+    href: statistics/inference-for-linear-regression-with-multiple-predictors.md
+  - name: "26 Inference for Logistic Regression"
+    href: statistics/inference-for-logistic-regression.md
 - name: "4. Linear Algebra"
   href: linear-algebra/index.md
   items:

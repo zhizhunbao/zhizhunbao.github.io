@@ -135,13 +135,13 @@ body { line-height: 1.75; }
   .content h2 { font-size: 24px; line-height: 31.2px; }
   .content h3 { font-size: 20px; line-height: 26px; }
   .kb-search { width: auto; }
-  .kb-search:not(.is-open) .input { position: absolute; width: 1px; opacity: 0; pointer-events: none; }
+  .kb-search:not(.is-open) .input, .kb-search:not(.is-open) .kb-search-icon { display: none; }
   .kb-search.is-open { position: absolute; inset-inline: 12px; top: 10px; z-index: 30; }
   .kb-search-toggle { display: flex; }
   .kb-search.is-open .kb-search-toggle { display: none; }
   #kb-primary-nav .site-header-brand { margin-inline-end: auto; }
 }
-.kb-search-toggle { display: none; }
+@media (min-width: 768px) { .kb-search-toggle { display: none; } }
 #center-doc-outline .show-more[hidden] + * { display: none; }
 #center-doc-outline li.is-extra { display: none; }
 #center-doc-outline.is-expanded li.is-extra { display: list-item; }
@@ -186,8 +186,8 @@ body { line-height: 1.75; }
 .content table.kb-terms th:nth-child(4) { width: 24%; }
 .content table.kb-terms td { overflow-wrap: anywhere; }
 /* MathJax formulas wider than their cell scroll inside it instead of spilling into the next column */
-.content table.kb-terms td mjx-container { display: inline-block; vertical-align: middle; max-width: 100%; overflow-x: auto; overflow-y: hidden; }
-.content table.kb-terms td mjx-container[display="true"] { display: block; }
+.content table.kb-terms td mjx-container.kb-wide { display: inline-block; vertical-align: middle; max-width: 100%; overflow-x: auto; overflow-y: hidden; }
+.content table.kb-terms td mjx-container.kb-wide[display="true"] { display: block; }
 .content table.kb-terms td:nth-child(4) { font-size: 13px; color: var(--theme-text-subtle); }
 
 /* Coverage tables (Week | Group | Terms in the course | Source): same widths in every course table */
@@ -306,7 +306,7 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
   .kb-toc-open #kb-mobile-nav, .kb-toc-open #kb-toc-header { display: none !important; }
   html:not(.kb-toc-open) #kb-toc-title { display: none; }
   .kb-mobile-nav { border-bottom: 0; }
-  html:has(#kb-toc:empty) .kb-toc-button { display: none; }
+  html:has(#kb-toc:empty) .kb-toc-button, .kb-no-section .kb-toc-button { display: none; }
   .kb-filter { margin-inline-end: 16px; }
   #center-doc-outline.display-none-desktop:not([hidden]) { display: none !important; }
   #kb-primary-nav { min-height: 48px; padding-inline: 8px; gap: 4px; }
