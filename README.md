@@ -113,6 +113,7 @@ Content has official sources; section names are the common names of the field.
   - UNESCO Thesaurus (CC BY-SA 3.0 IGO) for the humanities and the arts in Social Sciences and Humanities: domain 3, Culture, its 13 subject thesauri with UNESCO's notation (3.05 to 3.65), then their top concepts; shared under the same license.
 - OpenAlex is no longer used (2026-10-28): it filled the fields without a classification until each got a professional vocabulary (IEEE Thesaurus, AGROVOC, ELSST, UNESCO Thesaurus, MeSH), and Economics and Business keeps JEL alone.
 - Medicine keeps MeSH alone.
+- MeSH has its own depth rule (since 2026-10-28), since its tree goes 13 levels deep with 65,361 nodes where MSC2020 and ACM CCS stop at a few levels: pages follow the MeSH tree down until a page holds at most 300 nodes. A heading with more than 300 nodes below it gets an Overview (figure of its narrower headings as groups listing theirs, a Glossary row per narrower heading) and a page or folder for each narrower heading, checked the same way. A heading with 300 or fewer nodes below it is one page: its figure shows up to three levels, and its Glossary lists every node below it in tree order, the full tree number before each name, the definition quoted from the MeSH scope note. A descriptor in several places has a row in each.
 
 ### Second level
 

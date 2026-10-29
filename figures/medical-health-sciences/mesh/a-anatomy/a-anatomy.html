@@ -1,0 +1,325 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">A Anatomy</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">A01 Body Regions</div>
+      <div class="item">A01.111 Anatomic Landmarks</div>
+      <div class="item">A01.236 Breast</div>
+      <div class="item">A01.378 Extremities</div>
+      <div class="item">A01.456 Head</div>
+      <div class="item">A01.598 Neck</div>
+      <div class="item">A01.635 Organs at Risk</div>
+      <div class="item">A01.719 Perineum</div>
+      <div class="item">A01.923 Torso</div>
+      <div class="item">A01.935 Transplant Donor Site</div>
+      <div class="item">A01.941 Transplants</div>
+      <div class="item">A01.947 Trigger Points</div>
+      <div class="item">A01.960 Viscera</div>
+    </div>
+    <div class="group">
+      <div class="title">A02 Musculoskeletal System</div>
+      <div class="item">A02.083 Aponeurosis</div>
+      <div class="item">A02.165 Cartilage</div>
+      <div class="item">A02.340 Fascia</div>
+      <div class="item">A02.513 Ligaments</div>
+      <div class="item">A02.633 Muscles</div>
+      <div class="item">A02.734 Myotendinous Junction</div>
+      <div class="item">A02.835 Skeleton</div>
+      <div class="item">A02.880 Tendons</div>
+    </div>
+    <div class="group">
+      <div class="title">A03 Digestive System</div>
+      <div class="item">A03.159 Biliary Tract</div>
+      <div class="item">A03.556 Gastrointestinal Tract</div>
+      <div class="item">A03.620 Liver</div>
+      <div class="item">A03.734 Pancreas</div>
+    </div>
+    <div class="group">
+      <div class="title">A04 Respiratory System</div>
+      <div class="item">A04.329 Larynx</div>
+      <div class="item">A04.411 Lung</div>
+      <div class="item">A04.531 Nose</div>
+      <div class="item">A04.623 Pharynx</div>
+      <div class="item">A04.716 Pleura</div>
+      <div class="item">A04.760 Respiratory Mucosa</div>
+      <div class="item">A04.889 Trachea</div>
+    </div>
+    <div class="group">
+      <div class="title">A05 Urogenital System</div>
+      <div class="item">A05.360 Genitalia</div>
+      <div class="item">A05.810 Urinary Tract</div>
+    </div>
+    <div class="group">
+      <div class="title">A06 Endocrine System</div>
+      <div class="item">A06.224 Chromaffin System</div>
+      <div class="item">A06.300 Endocrine Glands</div>
+      <div class="item">A06.390 Enteroendocrine Cells</div>
+      <div class="item">A06.688 Neurosecretory Systems</div>
+    </div>
+    <div class="group">
+      <div class="title">A07 Cardiovascular System</div>
+      <div class="item">A07.015 Blood Vessels</div>
+      <div class="item">A07.020 Blood-Air Barrier</div>
+      <div class="item">A07.030 Blood-Aqueous Barrier</div>
+      <div class="item">A07.035 Blood-Brain Barrier</div>
+      <div class="item">A07.037 Blood-Nerve Barrier</div>
+      <div class="item">A07.040 Blood-Retinal Barrier</div>
+      <div class="item">A07.043 Blood-Spinal Cord Barrier</div>
+      <div class="item">A07.045 Blood-Testis Barrier</div>
+      <div class="item">A07.500 Glomerular Filtration Barrier</div>
+      <div class="item">A07.521 Glymphatic System</div>
+      <div class="item">A07.541 Heart</div>
+    </div>
+    <div class="group">
+      <div class="title">A08 Nervous System</div>
+      <div class="item">A08.186 Central Nervous System</div>
+      <div class="item">A08.340 Ganglia</div>
+      <div class="item">A08.511 Nerve Net</div>
+      <div class="item">A08.612 Neural Pathways</div>
+      <div class="item">A08.637 Neuroglia</div>
+      <div class="item">A08.675 Neurons</div>
+      <div class="item">A08.713 Neurosecretory Systems</div>
+      <div class="item">A08.800 Peripheral Nervous System</div>
+      <div class="item">A08.850 Synapses</div>
+    </div>
+    <div class="group">
+      <div class="title">A09 Sense Organs</div>
+      <div class="item">A09.246 Ear</div>
+      <div class="item">A09.371 Eye</div>
+      <div class="item">A09.531 Nose</div>
+      <div class="item">A09.846 Taste Buds</div>
+      <div class="item">A09.923 Vestibular System</div>
+    </div>
+    <div class="group">
+      <div class="title">A10 Tissues</div>
+      <div class="item">A10.082 Body Fluid Compartments</div>
+      <div class="item">A10.165 Connective Tissue</div>
+      <div class="item">A10.272 Epithelium</div>
+      <div class="item">A10.336 Exocrine Glands</div>
+      <div class="item">A10.549 Lymphoid Tissue</div>
+      <div class="item">A10.615 Membranes</div>
+      <div class="item">A10.690 Muscles</div>
+      <div class="item">A10.755 Nerve Tissue</div>
+      <div class="item">A10.802 Organoids</div>
+      <div class="item">A10.806 Parenchymal Tissue</div>
+      <div class="item">A10.810 Peritoneal Stomata</div>
+      <div class="item">A10.830 Margins of Excision</div>
+      <div class="item">A10.850 Surgically-Created Structures</div>
+    </div>
+    <div class="group">
+      <div class="title">A11 Cells</div>
+      <div class="item">A11.031 Acinar Cells</div>
+      <div class="item">A11.047 Allogeneic Cells</div>
+      <div class="item">A11.063 Antibody-Producing Cells</div>
+      <div class="item">A11.066 Antigen-Presenting Cells</div>
+      <div class="item">A11.118 Blood Cells</div>
+      <div class="item">A11.148 Bone Marrow Cells</div>
+      <div class="item">A11.251 Cells, Cultured</div>
+      <div class="item">A11.270 Cells, Immobilized</div>
+      <div class="item">A11.284 Cellular Structures</div>
+      <div class="item">A11.299 Chromaffin Cells</div>
+      <div class="item">A11.329 Connective Tissue Cells</div>
+      <div class="item">A11.382 Endocrine Cells</div>
+      <div class="item">A11.409 Epidermal Cells</div>
+      <div class="item">A11.436 Epithelial Cells</div>
+      <div class="item">A11.443 Erythroid Cells</div>
+      <div class="item">A11.450 Eukaryotic Cells</div>
+      <div class="item">A11.497 Germ Cells</div>
+      <div class="item">A11.500 Giant Cells</div>
+      <div class="item">A11.561 Hepatic Stellate Cells</div>
+      <div class="item">A11.600 Mesophyll Cells</div>
+      <div class="item">A11.620 Muscle Cells</div>
+      <div class="item">A11.627 Myeloid Cells</div>
+      <div class="item">A11.642 Neoplastic Cells, Circulating</div>
+      <div class="item">A11.650 Neuroglia</div>
+      <div class="item">A11.671 Neurons</div>
+      <div class="item">A11.690 Oxyphil Cells</div>
+      <div class="item">A11.700 Pancreatic Stellate Cells</div>
+      <div class="item">A11.710 Pericytes</div>
+      <div class="item">A11.733 Phagocytes</div>
+      <div class="item">A11.750 Plant Cells</div>
+      <div class="item">A11.760 Prokaryotic Cells</div>
+      <div class="item">A11.789 Protoplasts</div>
+      <div class="item">A11.828 Reed-Sternberg Cells</div>
+      <div class="item">A11.868 Spheroplasts</div>
+      <div class="item">A11.870 Spores</div>
+      <div class="item">A11.872 Stem Cells</div>
+      <div class="item">A11.900 Thymocytes</div>
+    </div>
+    <div class="group">
+      <div class="title">A12 Fluids and Secretions</div>
+      <div class="item">A12.098 Amniotic Fluid</div>
+      <div class="item">A12.200 Bodily Secretions</div>
+      <div class="item">A12.207 Body Fluids</div>
+      <div class="item">A12.383 Exudates and Transudates</div>
+      <div class="item">A12.459 Feces</div>
+      <div class="item">A12.519 Gastrointestinal Contents</div>
+      <div class="item">A12.580 Hyalin</div>
+      <div class="item">A12.790 Milk</div>
+      <div class="item">A12.895 Secretome</div>
+    </div>
+    <div class="group">
+      <div class="title">A13 Animal Structures</div>
+      <div class="item">A13.048 Air Sacs</div>
+      <div class="item">A13.073 Anal Sacs</div>
+      <div class="item">A13.075 Animal Fins</div>
+      <div class="item">A13.078 Animal Fur</div>
+      <div class="item">A13.079 Animal Scales</div>
+      <div class="item">A13.080 Animal Shells</div>
+      <div class="item">A13.093 Arthropod Antennae</div>
+      <div class="item">A13.114 Beak</div>
+      <div class="item">A13.163 Bursa of Fabricius</div>
+      <div class="item">A13.223 Cloaca</div>
+      <div class="item">A13.242 Comb and Wattles</div>
+      <div class="item">A13.246 Compound Eye, Arthropod</div>
+      <div class="item">A13.250 Corpora Allata</div>
+      <div class="item">A13.265 Crop, Avian</div>
+      <div class="item">A13.316 Egg Shell</div>
+      <div class="item">A13.332 Electric Organ</div>
+      <div class="item">A13.350 Embryo, Nonmammalian</div>
+      <div class="item">A13.365 Fat Body</div>
+      <div class="item">A13.370 Feathers</div>
+      <div class="item">A13.395 Forelimb</div>
+      <div class="item">A13.408 Ganglia, Invertebrate</div>
+      <div class="item">A13.421 Gills</div>
+      <div class="item">A13.433 Gizzard, Non-avian</div>
+      <div class="item">A13.445 Harderian Gland</div>
+      <div class="item">A13.449 Head Kidney</div>
+      <div class="item">A13.453 Hemolymph</div>
+      <div class="item">A13.463 Hepatopancreas</div>
+      <div class="item">A13.468 High Vocal Center</div>
+      <div class="item">A13.473 Hindlimb</div>
+      <div class="item">A13.491 Hoof and Claw</div>
+      <div class="item">A13.507 Horns</div>
+      <div class="item">A13.518 Imaginal Discs</div>
+      <div class="item">A13.530 Interrenal Gland</div>
+      <div class="item">A13.564 Lateral Line System</div>
+      <div class="item">A13.574 Malpighian Tubules</div>
+      <div class="item">A13.589 Mammary Glands, Animal</div>
+      <div class="item">A13.600 Metrial Gland</div>
+      <div class="item">A13.641 Mushroom Bodies</div>
+      <div class="item">A13.655 Nematocyst</div>
+      <div class="item">A13.660 Nictitating Membrane</div>
+      <div class="item">A13.686 Optic Lobe, Nonmammalian</div>
+      <div class="item">A13.706 Oviducts</div>
+      <div class="item">A13.734 Perianal Glands</div>
+      <div class="item">A13.750 Photoreceptor Cells, Invertebrate</div>
+      <div class="item">A13.811 Salt Gland</div>
+      <div class="item">A13.820 Scent Glands</div>
+      <div class="item">A13.853 Stomach, Avian</div>
+      <div class="item">A13.869 Stomach, Ruminant</div>
+      <div class="item">A13.895 Tail</div>
+      <div class="item">A13.939 Ultimobranchial Body</div>
+      <div class="item">A13.950 Vibrissae</div>
+      <div class="item">A13.970 Wool</div>
+    </div>
+    <div class="group">
+      <div class="title">A14 Stomatognathic System</div>
+      <div class="item">A14.194 Cheek</div>
+      <div class="item">A14.363 Facial Muscles</div>
+      <div class="item">A14.521 Jaw</div>
+      <div class="item">A14.530 Masticatory Muscles</div>
+      <div class="item">A14.549 Mouth</div>
+      <div class="item">A14.724 Pharynx</div>
+      <div class="item">A14.907 Temporomandibular Joint</div>
+    </div>
+    <div class="group">
+      <div class="title">A15 Hemic and Immune Systems</div>
+      <div class="item">A15.145 Blood</div>
+      <div class="item">A15.378 Hematopoietic System</div>
+      <div class="item">A15.382 Immune System</div>
+    </div>
+    <div class="group">
+      <div class="title">A16 Embryonic Structures</div>
+      <div class="item">A16.094 Blastomeres</div>
+      <div class="item">A16.142 Branchial Region</div>
+      <div class="item">A16.166 Cleavage Stage, Ovum</div>
+      <div class="item">A16.178 Cloaca</div>
+      <div class="item">A16.216 Ectodermal Placodes</div>
+      <div class="item">A16.254 Embryo, Mammalian</div>
+      <div class="item">A16.331 Embryo, Nonmammalian</div>
+      <div class="item">A16.378 Fetus</div>
+      <div class="item">A16.441 Gastrula</div>
+      <div class="item">A16.504 Germ Layers</div>
+      <div class="item">A16.535 Gestational Sac</div>
+      <div class="item">A16.551 Gubernaculum</div>
+      <div class="item">A16.567 Limb Buds</div>
+      <div class="item">A16.599 Mesonephros</div>
+      <div class="item">A16.615 Morula</div>
+      <div class="item">A16.623 Mullerian Ducts</div>
+      <div class="item">A16.627 Neural Crest</div>
+      <div class="item">A16.629 Neural Plate</div>
+      <div class="item">A16.630 Neural Tube</div>
+      <div class="item">A16.660 Notochord</div>
+      <div class="item">A16.675 Organizers, Embryonic</div>
+      <div class="item">A16.690 Ovum</div>
+      <div class="item">A16.710 Placenta</div>
+      <div class="item">A16.830 Primitive Streak</div>
+      <div class="item">A16.835 Pronephros</div>
+      <div class="item">A16.890 Urachus</div>
+      <div class="item">A16.920 Vitelline Duct</div>
+      <div class="item">A16.935 Wolffian Ducts</div>
+      <div class="item">A16.950 Zygote</div>
+    </div>
+    <div class="group">
+      <div class="title">A17 Integumentary System</div>
+      <div class="item">A17.100 Animal Scales</div>
+      <div class="item">A17.360 Hair</div>
+      <div class="item">A17.600 Nails</div>
+      <div class="item">A17.815 Skin</div>
+    </div>
+    <div class="group">
+      <div class="title">A18 Plant Structures</div>
+      <div class="item">A18.005 Chromosomes, Plant</div>
+      <div class="item">A18.024 Plant Components, Aerial</div>
+      <div class="item">A18.400 Plant Roots</div>
+      <div class="item">A18.450 Plant Vascular Bundle</div>
+      <div class="item">A18.550 Seedlings</div>
+      <div class="item">A18.560 Sporangia</div>
+    </div>
+    <div class="group">
+      <div class="title">A19 Fungal Structures</div>
+      <div class="item">A19.311 Chromosomes, Fungal</div>
+      <div class="item">A19.374 Fruiting Bodies, Fungal</div>
+      <div class="item">A19.530 Fungal Capsules</div>
+      <div class="item">A19.687 Mycelium</div>
+      <div class="item">A19.690 Mycorrhizae</div>
+      <div class="item">A19.800 Sporangia</div>
+    </div>
+    <div class="group">
+      <div class="title">A20 Bacterial Structures</div>
+      <div class="item">A20.186 Bacterial Capsules</div>
+      <div class="item">A20.374 Bacterial Chromatophores</div>
+      <div class="item">A20.484 Bacterial Outer Membrane</div>
+      <div class="item">A20.593 Biofilms</div>
+      <div class="item">A20.812 Chromosomes, Bacterial</div>
+      <div class="item">A20.843 Fimbriae, Bacterial</div>
+      <div class="item">A20.859 Magnetosomes</div>
+      <div class="item">A20.867 Pili, Sex</div>
+      <div class="item">A20.871 Purple Membrane</div>
+      <div class="item">A20.873 Ribosome Subunits, Large, Bacterial</div>
+      <div class="item">A20.874 Ribosome Subunits, Small, Bacterial</div>
+    </div>
+    <div class="group">
+      <div class="title">A21 Viral Structures</div>
+      <div class="item">A21.063 Artificial Virus-Like Particles</div>
+      <div class="item">A21.125 Occlusion Bodies, Viral</div>
+      <div class="item">A21.249 Virion</div>
+    </div>
+  </div>
+</div>
+</body></html>

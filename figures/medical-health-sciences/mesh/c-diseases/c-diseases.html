@@ -1,0 +1,400 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">C Diseases</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">C01 Infections</div>
+      <div class="item">C01.069 Aneurysm, Infected</div>
+      <div class="item">C01.100 Arthritis, Infectious</div>
+      <div class="item">C01.125 Asymptomatic Infections</div>
+      <div class="item">C01.150 Bacterial Infections and Mycoses</div>
+      <div class="item">C01.160 Bone Diseases, Infectious</div>
+      <div class="item">C01.175 Breakthrough Infections</div>
+      <div class="item">C01.190 Cardiovascular Infections</div>
+      <div class="item">C01.195 Catheter-Related Infections</div>
+      <div class="item">C01.207 Central Nervous System Infections</div>
+      <div class="item">C01.218 Coinfection</div>
+      <div class="item">C01.221 Communicable Diseases</div>
+      <div class="item">C01.234 Community-Acquired Infections</div>
+      <div class="item">C01.248 Cross Infection</div>
+      <div class="item">C01.375 Eye Infections</div>
+      <div class="item">C01.392 Focal Infection</div>
+      <div class="item">C01.408 Gingivitis</div>
+      <div class="item">C01.436 Hepatitis, Animal</div>
+      <div class="item">C01.463 Intraabdominal Infections</div>
+      <div class="item">C01.503 Laboratory Infection</div>
+      <div class="item">C01.550 Latent Infection</div>
+      <div class="item">C01.597 Opportunistic Infections</div>
+      <div class="item">C01.610 Parasitic Diseases</div>
+      <div class="item">C01.635 Pelvic Infection</div>
+      <div class="item">C01.645 Persistent Infection</div>
+      <div class="item">C01.655 Poult Enteritis Mortality Syndrome</div>
+      <div class="item">C01.674 Pregnancy Complications, Infectious</div>
+      <div class="item">C01.685 Prosthesis-Related Infections</div>
+      <div class="item">C01.730 Reproductive Tract Infections</div>
+      <div class="item">C01.748 Respiratory Tract Infections</div>
+      <div class="item">C01.757 Sepsis</div>
+      <div class="item">C01.778 Sexually Transmitted Diseases</div>
+      <div class="item">C01.800 Skin Diseases, Infectious</div>
+      <div class="item">C01.820 Soft Tissue Infections</div>
+      <div class="item">C01.830 Suppuration</div>
+      <div class="item">C01.861 Toxemia</div>
+      <div class="item">C01.915 Urinary Tract Infections</div>
+      <div class="item">C01.918 Vaccine-Preventable Diseases</div>
+      <div class="item">C01.920 Vector Borne Diseases</div>
+      <div class="item">C01.925 Virus Diseases</div>
+      <div class="item">C01.936 Waterborne Diseases</div>
+      <div class="item">C01.947 Wound Infection</div>
+      <div class="item">C01.973 Zoonoses</div>
+    </div>
+    <div class="group">
+      <div class="title">C04 Neoplasms</div>
+      <div class="item">C04.182 Cysts</div>
+      <div class="item">C04.445 Hamartoma</div>
+      <div class="item">C04.557 Neoplasms by Histologic Type</div>
+      <div class="item">C04.588 Neoplasms by Site</div>
+      <div class="item">C04.619 Neoplasms, Experimental</div>
+      <div class="item">C04.626 Neoplasms, Hormone-Dependent</div>
+      <div class="item">C04.651 Neoplasms, Multiple Primary</div>
+      <div class="item">C04.666 Neoplasms, Post-Traumatic</div>
+      <div class="item">C04.682 Neoplasms, Radiation-Induced</div>
+      <div class="item">C04.692 Neoplasms, Second Primary</div>
+      <div class="item">C04.697 Neoplastic Processes</div>
+      <div class="item">C04.700 Neoplastic Syndromes, Hereditary</div>
+      <div class="item">C04.730 Paraneoplastic Syndromes</div>
+      <div class="item">C04.834 Precancerous Conditions</div>
+      <div class="item">C04.850 Pregnancy Complications, Neoplastic</div>
+    </div>
+    <div class="group">
+      <div class="title">C05 Musculoskeletal Diseases</div>
+      <div class="item">C05.116 Bone Diseases</div>
+      <div class="item">C05.182 Cartilage Diseases</div>
+      <div class="item">C05.321 Fasciitis</div>
+      <div class="item">C05.330 Foot Deformities</div>
+      <div class="item">C05.360 Foot Diseases</div>
+      <div class="item">C05.390 Hand Deformities</div>
+      <div class="item">C05.500 Jaw Diseases</div>
+      <div class="item">C05.550 Joint Diseases</div>
+      <div class="item">C05.651 Muscular Diseases</div>
+      <div class="item">C05.660 Musculoskeletal Abnormalities</div>
+      <div class="item">C05.799 Rheumatic Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C06 Digestive System Diseases</div>
+      <div class="item">C06.130 Biliary Tract Diseases</div>
+      <div class="item">C06.198 Digestive System Abnormalities</div>
+      <div class="item">C06.267 Digestive System Fistula</div>
+      <div class="item">C06.301 Digestive System Neoplasms</div>
+      <div class="item">C06.405 Gastrointestinal Diseases</div>
+      <div class="item">C06.552 Liver Diseases</div>
+      <div class="item">C06.689 Pancreatic Diseases</div>
+      <div class="item">C06.844 Peritoneal Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C07 Stomatognathic Diseases</div>
+      <div class="item">C07.160 Ankyloglossia</div>
+      <div class="item">C07.320 Jaw Diseases</div>
+      <div class="item">C07.465 Mouth Diseases</div>
+      <div class="item">C07.550 Pharyngeal Diseases</div>
+      <div class="item">C07.650 Stomatognathic System Abnormalities</div>
+      <div class="item">C07.678 Temporomandibular Joint Disorders</div>
+      <div class="item">C07.793 Tooth Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C08 Respiratory Tract Diseases</div>
+      <div class="item">C08.127 Bronchial Diseases</div>
+      <div class="item">C08.200 Ciliary Motility Disorders</div>
+      <div class="item">C08.280 Granuloma, Respiratory Tract</div>
+      <div class="item">C08.360 Laryngeal Diseases</div>
+      <div class="item">C08.381 Lung Diseases</div>
+      <div class="item">C08.460 Nose Diseases</div>
+      <div class="item">C08.528 Pleural Diseases</div>
+      <div class="item">C08.618 Respiration Disorders</div>
+      <div class="item">C08.674 Respiratory Hypersensitivity</div>
+      <div class="item">C08.695 Respiratory System Abnormalities</div>
+      <div class="item">C08.702 Respiratory Tract Fistula</div>
+      <div class="item">C08.730 Respiratory Tract Infections</div>
+      <div class="item">C08.785 Respiratory Tract Neoplasms</div>
+      <div class="item">C08.846 Thoracic Diseases</div>
+      <div class="item">C08.907 Tracheal Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C09 Otorhinolaryngologic Diseases</div>
+      <div class="item">C09.150 Ciliary Motility Disorders</div>
+      <div class="item">C09.218 Ear Diseases</div>
+      <div class="item">C09.400 Laryngeal Diseases</div>
+      <div class="item">C09.603 Nose Diseases</div>
+      <div class="item">C09.647 Otorhinolaryngologic Neoplasms</div>
+      <div class="item">C09.775 Pharyngeal Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C10 Nervous System Diseases</div>
+      <div class="item">C10.114 Autoimmune Diseases of the Nervous System</div>
+      <div class="item">C10.177 Autonomic Nervous System Diseases</div>
+      <div class="item">C10.228 Central Nervous System Diseases</div>
+      <div class="item">C10.281 Chronobiology Disorders</div>
+      <div class="item">C10.292 Cranial Nerve Diseases</div>
+      <div class="item">C10.314 Demyelinating Diseases</div>
+      <div class="item">C10.500 Nervous System Malformations</div>
+      <div class="item">C10.551 Nervous System Neoplasms</div>
+      <div class="item">C10.562 Neurocutaneous Syndromes</div>
+      <div class="item">C10.574 Neurodegenerative Diseases</div>
+      <div class="item">C10.586 Neuroinflammatory Diseases</div>
+      <div class="item">C10.597 Neurologic Manifestations</div>
+      <div class="item">C10.668 Neuromuscular Diseases</div>
+      <div class="item">C10.720 Neurotoxicity Syndromes</div>
+      <div class="item">C10.803 Restless Legs Syndrome</div>
+      <div class="item">C10.886 Sleep Wake Disorders</div>
+      <div class="item">C10.900 Trauma, Nervous System</div>
+    </div>
+    <div class="group">
+      <div class="title">C11 Eye Diseases</div>
+      <div class="item">C11.093 Asthenopia</div>
+      <div class="item">C11.180 Cogan Syndrome</div>
+      <div class="item">C11.187 Conjunctival Diseases</div>
+      <div class="item">C11.204 Corneal Diseases</div>
+      <div class="item">C11.250 Eye Abnormalities</div>
+      <div class="item">C11.270 Eye Diseases, Hereditary</div>
+      <div class="item">C11.290 Eye Hemorrhage</div>
+      <div class="item">C11.294 Eye Infections</div>
+      <div class="item">C11.297 Eye Injuries</div>
+      <div class="item">C11.300 Eye Manifestations</div>
+      <div class="item">C11.319 Eye Neoplasms</div>
+      <div class="item">C11.338 Eyelid Diseases</div>
+      <div class="item">C11.496 Lacrimal Apparatus Diseases</div>
+      <div class="item">C11.510 Lens Diseases</div>
+      <div class="item">C11.525 Ocular Hypertension</div>
+      <div class="item">C11.540 Ocular Hypotension</div>
+      <div class="item">C11.590 Ocular Motility Disorders</div>
+      <div class="item">C11.640 Optic Nerve Diseases</div>
+      <div class="item">C11.675 Orbital Diseases</div>
+      <div class="item">C11.710 Pupil Disorders</div>
+      <div class="item">C11.744 Refractive Errors</div>
+      <div class="item">C11.768 Retinal Diseases</div>
+      <div class="item">C11.790 Scleral Diseases</div>
+      <div class="item">C11.941 Uveal Diseases</div>
+      <div class="item">C11.966 Vision Disorders</div>
+      <div class="item">C11.980 Vitreous Detachment</div>
+    </div>
+    <div class="group">
+      <div class="title">C12 Urogenital Diseases</div>
+      <div class="item">C12.050 Female Urogenital Diseases and Pregnancy Complications</div>
+      <div class="item">C12.100 Genital Diseases</div>
+      <div class="item">C12.200 Male Urogenital Diseases</div>
+      <div class="item">C12.400 Pelvic Floor Disorders</div>
+      <div class="item">C12.600 Tuberculosis, Urogenital</div>
+      <div class="item">C12.800 Urogenital Abnormalities</div>
+      <div class="item">C12.900 Urogenital Neoplasms</div>
+      <div class="item">C12.950 Urologic Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C14 Cardiovascular Diseases</div>
+      <div class="item">C14.240 Cardiovascular Abnormalities</div>
+      <div class="item">C14.260 Cardiovascular Infections</div>
+      <div class="item">C14.280 Heart Diseases</div>
+      <div class="item">C14.583 Pregnancy Complications, Cardiovascular</div>
+      <div class="item">C14.907 Vascular Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C15 Hemic and Lymphatic Diseases</div>
+      <div class="item">C15.378 Hematologic Diseases</div>
+      <div class="item">C15.604 Lymphatic Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C16 Congenital, Hereditary, and Neonatal Diseases and Abnormalities</div>
+      <div class="item">C16.131 Congenital Abnormalities</div>
+      <div class="item">C16.300 Fetal Diseases</div>
+      <div class="item">C16.320 Genetic Diseases, Inborn</div>
+      <div class="item">C16.614 Infant, Newborn, Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C17 Skin and Connective Tissue Diseases</div>
+      <div class="item">C17.300 Connective Tissue Diseases</div>
+      <div class="item">C17.800 Skin Diseases</div>
+    </div>
+    <div class="group">
+      <div class="title">C18 Nutritional and Metabolic Diseases</div>
+      <div class="item">C18.452 Metabolic Diseases</div>
+      <div class="item">C18.654 Nutrition Disorders</div>
+    </div>
+    <div class="group">
+      <div class="title">C19 Endocrine System Diseases</div>
+      <div class="item">C19.053 Adrenal Gland Diseases</div>
+      <div class="item">C19.149 Bone Diseases, Endocrine</div>
+      <div class="item">C19.246 Diabetes Mellitus</div>
+      <div class="item">C19.297 Dwarfism</div>
+      <div class="item">C19.344 Endocrine Gland Neoplasms</div>
+      <div class="item">C19.391 Gonadal Disorders</div>
+      <div class="item">C19.642 Parathyroid Diseases</div>
+      <div class="item">C19.700 Pituitary Diseases</div>
+      <div class="item">C19.787 Polyendocrinopathies, Autoimmune</div>
+      <div class="item">C19.874 Thyroid Diseases</div>
+      <div class="item">C19.927 Tuberculosis, Endocrine</div>
+    </div>
+    <div class="group">
+      <div class="title">C20 Immune System Diseases</div>
+      <div class="item">C20.111 Autoimmune Diseases</div>
+      <div class="item">C20.306 Erythroblastosis, Fetal</div>
+      <div class="item">C20.425 Glomerulonephritis, Membranoproliferative</div>
+      <div class="item">C20.452 Graft vs Host Disease</div>
+      <div class="item">C20.543 Hypersensitivity</div>
+      <div class="item">C20.608 Immune Reconstitution Inflammatory Syndrome</div>
+      <div class="item">C20.673 Immunologic Deficiency Syndromes</div>
+      <div class="item">C20.683 Immunoproliferative Disorders</div>
+      <div class="item">C20.762 Mast Cell Activation Disorders</div>
+      <div class="item">C20.841 Purpura, Thrombocytopenic</div>
+      <div class="item">C20.920 Transfusion Reaction</div>
+    </div>
+    <div class="group">
+      <div class="title">C21 Disorders of Environmental Origin</div>
+      <div class="item">C21.223 Environmental Illness</div>
+      <div class="item">C21.676 Preconception Injuries</div>
+    </div>
+    <div class="group">
+      <div class="title">C22 Animal Diseases</div>
+      <div class="item">C22.021 Abortion, Veterinary</div>
+      <div class="item">C22.039 Actinobacillosis</div>
+      <div class="item">C22.062 Aleutian Mink Disease</div>
+      <div class="item">C22.073 Anal Gland Neoplasms</div>
+      <div class="item">C22.085 Anaplasmosis</div>
+      <div class="item">C22.131 Bird Diseases</div>
+      <div class="item">C22.152 Borna Disease</div>
+      <div class="item">C22.180 Cat Diseases</div>
+      <div class="item">C22.196 Cattle Diseases</div>
+      <div class="item">C22.214 Digital Dermatitis</div>
+      <div class="item">C22.232 Disease Models, Animal</div>
+      <div class="item">C22.268 Dog Diseases</div>
+      <div class="item">C22.313 Enterotoxemia</div>
+      <div class="item">C22.331 Erysipelothrix Infections</div>
+      <div class="item">C22.362 Fish Diseases</div>
+      <div class="item">C22.380 Foot-and-Mouth Disease</div>
+      <div class="item">C22.394 Foot Rot</div>
+      <div class="item">C22.405 Goat Diseases</div>
+      <div class="item">C22.434 Heartwater Disease</div>
+      <div class="item">C22.467 Hepatitis, Animal</div>
+      <div class="item">C22.488 Horse Diseases</div>
+      <div class="item">C22.500 Keratoconjunctivitis, Infectious</div>
+      <div class="item">C22.510 Lameness, Animal</div>
+      <div class="item">C22.520 Mammary Neoplasms, Animal</div>
+      <div class="item">C22.557 Mink Viral Enteritis</div>
+      <div class="item">C22.595 Muscular Dystrophy, Animal</div>
+      <div class="item">C22.627 Myxomatosis, Infectious</div>
+      <div class="item">C22.674 Parasitic Diseases, Animal</div>
+      <div class="item">C22.688 Paratuberculosis</div>
+      <div class="item">C22.695 Parturient Paresis</div>
+      <div class="item">C22.706 Peste-des-Petits-Ruminants</div>
+      <div class="item">C22.717 Pleuropneumonia, Contagious</div>
+      <div class="item">C22.735 Primate Diseases</div>
+      <div class="item">C22.742 Pseudorabies</div>
+      <div class="item">C22.761 Pythiosis</div>
+      <div class="item">C22.780 Rinderpest</div>
+      <div class="item">C22.795 Rodent Diseases</div>
+      <div class="item">C22.812 Salmonella Infections, Animal</div>
+      <div class="item">C22.836 Sheep Diseases</div>
+      <div class="item">C22.880 Steatitis</div>
+      <div class="item">C22.905 Swine Diseases</div>
+      <div class="item">C22.950 Venereal Tumors, Veterinary</div>
+      <div class="item">C22.952 Vesicular Stomatitis</div>
+      <div class="item">C22.955 Wasting Disease, Chronic</div>
+      <div class="item">C22.969 Zoonoses</div>
+    </div>
+    <div class="group">
+      <div class="title">C23 Pathological Conditions, Signs and Symptoms</div>
+      <div class="item">C23.149 Morphological and Microscopic Findings</div>
+      <div class="item">C23.300 Pathological Conditions, Anatomical</div>
+      <div class="item">C23.550 Pathologic Processes</div>
+      <div class="item">C23.888 Signs and Symptoms</div>
+    </div>
+    <div class="group">
+      <div class="title">C24 Occupational Diseases</div>
+      <div class="item">C24.080 Agricultural Workers&#x27; Diseases</div>
+      <div class="item">C24.102 Asthma, Occupational</div>
+      <div class="item">C24.125 Bird Fancier&#x27;s Lung</div>
+      <div class="item">C24.270 Dermatitis, Occupational</div>
+      <div class="item">C24.400 Hand-Arm Vibration Syndrome</div>
+      <div class="item">C24.410 High Pressure Neurological Syndrome</div>
+      <div class="item">C24.426 Inert Gas Narcosis</div>
+      <div class="item">C24.506 Laboratory Infection</div>
+      <div class="item">C24.580 Occupational Stress</div>
+      <div class="item">C24.653 Persian Gulf Syndrome</div>
+      <div class="item">C24.800 Pneumoconiosis</div>
+      <div class="item">C24.900 Sleep Disorders, Circadian Rhythm</div>
+    </div>
+    <div class="group">
+      <div class="title">C25 Chemically-Induced Disorders</div>
+      <div class="item">C25.100 Drug-Related Side Effects and Adverse Reactions</div>
+      <div class="item">C25.723 Poisoning</div>
+      <div class="item">C25.775 Substance-Related Disorders</div>
+    </div>
+    <div class="group">
+      <div class="title">C26 Wounds and Injuries</div>
+      <div class="item">C26.017 Abdominal Injuries</div>
+      <div class="item">C26.040 Accidental Injuries</div>
+      <div class="item">C26.062 Amputation, Traumatic</div>
+      <div class="item">C26.088 Arm Injuries</div>
+      <div class="item">C26.103 Asphyxia</div>
+      <div class="item">C26.115 Athletic Injuries</div>
+      <div class="item">C26.117 Back Injuries</div>
+      <div class="item">C26.120 Barotrauma</div>
+      <div class="item">C26.141 Birth Injuries</div>
+      <div class="item">C26.176 Bites and Stings</div>
+      <div class="item">C26.200 Burns</div>
+      <div class="item">C26.212 Cold Injury</div>
+      <div class="item">C26.224 Contrecoup Injury</div>
+      <div class="item">C26.257 Crush Injuries</div>
+      <div class="item">C26.289 Joint Dislocations</div>
+      <div class="item">C26.304 Drowning</div>
+      <div class="item">C26.324 Electric Injuries</div>
+      <div class="item">C26.348 Esophageal Perforation</div>
+      <div class="item">C26.371 Extravasation of Diagnostic and Therapeutic Materials</div>
+      <div class="item">C26.392 Foreign Bodies</div>
+      <div class="item">C26.404 Fractures, Bone</div>
+      <div class="item">C26.411 Fractures, Cartilage</div>
+      <div class="item">C26.417 Frostbite</div>
+      <div class="item">C26.448 Hand Injuries</div>
+      <div class="item">C26.522 Heat Stress Disorders</div>
+      <div class="item">C26.531 Hip Injuries</div>
+      <div class="item">C26.540 Lacerations</div>
+      <div class="item">C26.558 Leg Injuries</div>
+      <div class="item">C26.599 Microtrauma, Physical</div>
+      <div class="item">C26.640 Multiple Trauma</div>
+      <div class="item">C26.670 Nasal Septal Perforation</div>
+      <div class="item">C26.700 Neck Injuries</div>
+      <div class="item">C26.716 Occupational Injuries</div>
+      <div class="item">C26.733 Radiation Injuries</div>
+      <div class="item">C26.741 Reinjuries</div>
+      <div class="item">C26.748 Retropneumoperitoneum</div>
+      <div class="item">C26.761 Rupture</div>
+      <div class="item">C26.780 Self Mutilation</div>
+      <div class="item">C26.797 Shock, Traumatic</div>
+      <div class="item">C26.803 Shoulder Injuries</div>
+      <div class="item">C26.808 Soft Tissue Injuries</div>
+      <div class="item">C26.819 Spinal Cord Injuries</div>
+      <div class="item">C26.844 Sprains and Strains</div>
+      <div class="item">C26.859 Surgical Wound</div>
+      <div class="item">C26.874 Tendon Injuries</div>
+      <div class="item">C26.891 Thoracic Injuries</div>
+      <div class="item">C26.900 Tooth Injuries</div>
+      <div class="item">C26.915 Trauma, Nervous System</div>
+      <div class="item">C26.930 Tympanic Membrane Perforation</div>
+      <div class="item">C26.940 Vascular System Injuries</div>
+      <div class="item">C26.946 War-Related Injuries</div>
+      <div class="item">C26.974 Wounds, Nonpenetrating</div>
+      <div class="item">C26.986 Wounds, Penetrating</div>
+    </div>
+  </div>
+</div>
+</body></html>

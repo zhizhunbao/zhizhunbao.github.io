@@ -89,7 +89,107 @@ items:
   - name: "C16 Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
     href: c-diseases/c16-congenital-hereditary-and-neonatal-diseases-and-abnormal.md
   - name: "C17 Skin and Connective Tissue Diseases"
-    href: c-diseases/c17-skin-and-connective-tissue-diseases.md
+    href: c-diseases/c17-skin-and-connective-tissue-diseases/index.md
+    items:
+    - name: "C17.300 Connective Tissue Diseases"
+      href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-300-connective-tissue-diseases.md
+    - name: "C17.800 Skin Diseases"
+      href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/index.md
+      items:
+      - name: "C17.800.030 Acneiform Eruptions"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-030-acneiform-eruptions.md
+      - name: "C17.800.060 Angiolymphoid Hyperplasia with Eosinophilia"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-060-angiolymphoid-hyperplasia-with-eosinophilia.md
+      - name: "C17.800.090 Breast Diseases"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-090-breast-diseases.md
+      - name: "C17.800.113 Calcinosis Cutis"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-113-calcinosis-cutis.md
+      - name: "C17.800.135 Cutaneous Fistula"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-135-cutaneous-fistula.md
+      - name: "C17.800.174 Dermatitis"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-174-dermatitis.md
+      - name: "C17.800.185 Dermatomyositis"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-185-dermatomyositis.md
+      - name: "C17.800.229 Erythema"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-229-erythema.md
+      - name: "C17.800.257 Exanthema"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-257-exanthema.md
+      - name: "C17.800.271 Facial Dermatoses"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-271-facial-dermatoses.md
+      - name: "C17.800.321 Foot Diseases"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-321-foot-diseases.md
+      - name: "C17.800.329 Hair Diseases"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-329-hair-diseases.md
+      - name: "C17.800.338 Hand Dermatoses"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-338-hand-dermatoses.md
+      - name: "C17.800.417 Keratoacanthoma"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-417-keratoacanthoma.md
+      - name: "C17.800.428 Keratosis"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-428-keratosis.md
+      - name: "C17.800.446 Leg Dermatoses"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-446-leg-dermatoses.md
+      - name: "C17.800.463 Lipomatosis"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-463-lipomatosis.md
+      - name: "C17.800.480 Lupus Erythematosus, Cutaneous"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-480-lupus-erythematosus-cutaneous.md
+      - name: "C17.800.518 Morgellons Disease"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-518-morgellons-disease.md
+      - name: "C17.800.529 Nail Diseases"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-529-nail-diseases.md
+      - name: "C17.800.550 Necrobiotic Disorders"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-550-necrobiotic-disorders.md
+      - name: "C17.800.551 Necrolytic Migratory Erythema"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-551-necrolytic-migratory-erythema.md
+      - name: "C17.800.553 Nephrogenic Fibrosing Dermopathy"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-553-nephrogenic-fibrosing-dermopathy.md
+      - name: "C17.800.566 Panniculitis"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-566-panniculitis.md
+      - name: "C17.800.600 Photosensitivity Disorders"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-600-photosensitivity-disorders.md
+      - name: "C17.800.621 Pigmentation Disorders"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-621-pigmentation-disorders.md
+      - name: "C17.800.674 Prurigo"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-674-prurigo.md
+      - name: "C17.800.685 Pruritus"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-685-pruritus.md
+      - name: "C17.800.695 Pyoderma"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-695-pyoderma.md
+      - name: "C17.800.716 Rosacea"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-716-rosacea.md
+      - name: "C17.800.738 Scalp Dermatoses"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-738-scalp-dermatoses.md
+      - name: "C17.800.751 Scleredema Adultorum"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-751-scleredema-adultorum.md
+      - name: "C17.800.767 Scleroderma, Localized"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-767-scleroderma-localized.md
+      - name: "C17.800.784 Scleroderma, Systemic"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-784-scleroderma-systemic.md
+      - name: "C17.800.794 Sebaceous Gland Diseases"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-794-sebaceous-gland-diseases.md
+      - name: "C17.800.804 Skin Abnormalities"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-804-skin-abnormalities.md
+      - name: "C17.800.815 Skin Diseases, Eczematous"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-815-skin-diseases-eczematous.md
+      - name: "C17.800.827 Skin Diseases, Genetic"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-827-skin-diseases-genetic.md
+      - name: "C17.800.838 Skin Diseases, Infectious"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-838-skin-diseases-infectious.md
+      - name: "C17.800.849 Skin Diseases, Metabolic"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-849-skin-diseases-metabolic.md
+      - name: "C17.800.859 Skin Diseases, Papulosquamous"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-859-skin-diseases-papulosquamous.md
+      - name: "C17.800.862 Skin Diseases, Vascular"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-862-skin-diseases-vascular.md
+      - name: "C17.800.865 Skin Diseases, Vesiculobullous"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-865-skin-diseases-vesiculobullous.md
+      - name: "C17.800.882 Skin Neoplasms"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-882-skin-neoplasms.md
+      - name: "C17.800.893 Skin Ulcer"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-893-skin-ulcer.md
+      - name: "C17.800.946 Sweat Gland Diseases"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-946-sweat-gland-diseases.md
+      - name: "C17.800.973 Xanthogranuloma, Juvenile"
+        href: c-diseases/c17-skin-and-connective-tissue-diseases/c17-800-skin-diseases/c17-800-973-xanthogranuloma-juvenile.md
   - name: "C18 Nutritional and Metabolic Diseases"
     href: c-diseases/c18-nutritional-and-metabolic-diseases.md
   - name: "C19 Endocrine System Diseases"
