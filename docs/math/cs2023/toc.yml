@@ -66,48 +66,52 @@ items:
 - name: "3. Statistics"
   href: statistics/index.md
   items:
-  - name: "1 Hello Data"
-    href: statistics/hello-data.md
-  - name: "2 Study Design"
-    href: statistics/study-design.md
-  - name: "4 Exploring Categorical Data"
-    href: statistics/exploring-categorical-data.md
-  - name: "5 Exploring Numerical Data"
-    href: statistics/exploring-numerical-data.md
-  - name: "7 Linear Regression with a Single Predictor"
-    href: statistics/linear-regression-with-a-single-predictor.md
-  - name: "8 Linear Regression with Multiple Predictors"
-    href: statistics/linear-regression-with-multiple-predictors.md
-  - name: "9 Logistic Regression"
+  - name: "1 Introduction"
+    href: statistics/introduction.md
+  - name: "2 Graphing Distributions"
+    href: statistics/graphing-distributions.md
+  - name: "3 Summarizing Distributions"
+    href: statistics/summarizing-distributions.md
+  - name: "4 Describing Bivariate Data"
+    href: statistics/describing-bivariate-data.md
+  - name: "5 Probability"
+    href: statistics/probability.md
+  - name: "6 Research Design"
+    href: statistics/research-design.md
+  - name: "7 Normal Distributions"
+    href: statistics/normal-distributions.md
+  - name: "8 Advanced Graphs"
+    href: statistics/advanced-graphs.md
+  - name: "9 Sampling Distributions"
+    href: statistics/sampling-distributions.md
+  - name: "10 Estimation"
+    href: statistics/estimation.md
+  - name: "11 Logic of Hypothesis Testing"
+    href: statistics/logic-of-hypothesis-testing.md
+  - name: "12 Testing Means"
+    href: statistics/testing-means.md
+  - name: "13 Power"
+    href: statistics/power.md
+  - name: "14 Regression"
+    href: statistics/regression.md
+  - name: "15 ANOVA"
+    href: statistics/anova.md
+  - name: "16 Transformations"
+    href: statistics/transformations.md
+  - name: "17 Chi Square"
+    href: statistics/chi-square.md
+  - name: "18 Distribution Free Tests"
+    href: statistics/distribution-free-tests.md
+  - name: "19 Effect Size"
+    href: statistics/effect-size.md
+  - name: "20 Bootstrapping"
+    href: statistics/bootstrapping.md
+  - name: "21 Logistic Regression"
     href: statistics/logistic-regression.md
-  - name: "11 Hypothesis Testing with Randomization"
-    href: statistics/hypothesis-testing-with-randomization.md
-  - name: "12 Confidence Intervals with Bootstrapping"
-    href: statistics/confidence-intervals-with-bootstrapping.md
-  - name: "13 Inference with Mathematical Models"
-    href: statistics/inference-with-mathematical-models.md
-  - name: "14 Decision Errors"
-    href: statistics/decision-errors.md
-  - name: "16 Inference for a Single Proportion"
-    href: statistics/inference-for-a-single-proportion.md
-  - name: "17 Inference for Comparing Two Proportions"
-    href: statistics/inference-for-comparing-two-proportions.md
-  - name: "18 Inference for Two-way Tables"
-    href: statistics/inference-for-two-way-tables.md
-  - name: "19 Inference for a Single Mean"
-    href: statistics/inference-for-a-single-mean.md
-  - name: "20 Inference for Comparing Two Independent Means"
-    href: statistics/inference-for-comparing-two-independent-means.md
-  - name: "21 Inference for Comparing Paired Means"
-    href: statistics/inference-for-comparing-paired-means.md
-  - name: "22 Inference for Comparing Many Means"
-    href: statistics/inference-for-comparing-many-means.md
-  - name: "24 Inference for Linear Regression with a Single Predictor"
-    href: statistics/inference-for-linear-regression-with-a-single-predictor.md
-  - name: "25 Inference for Linear Regression with Multiple Predictors"
-    href: statistics/inference-for-linear-regression-with-multiple-predictors.md
-  - name: "26 Inference for Logistic Regression"
-    href: statistics/inference-for-logistic-regression.md
+  - name: "22 Cross-validation"
+    href: statistics/cross-validation.md
+  - name: "23 Bayesian Statistics"
+    href: statistics/bayesian-statistics.md
 - name: "4. Linear Algebra"
   href: linear-algebra/index.md
   items:
