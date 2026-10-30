@@ -61,6 +61,49 @@ items:
     href: circuits-and-systems/single-electron-devices.md
   - name: "Tunable circuits and devices"
     href: circuits-and-systems/tunable-circuits-and-devices.md
+- name: "Communications technology"
+  href: communications-technology/index.md
+  items:
+  - name: "Communication equipment"
+    href: communications-technology/communication-equipment.md
+  - name: "Communication switching"
+    href: communications-technology/communication-switching.md
+  - name: "Communication systems"
+    href: communications-technology/communication-systems.md
+  - name: "Couplers"
+    href: communications-technology/couplers.md
+  - name: "Green communications"
+    href: communications-technology/green-communications.md
+  - name: "High-speed electronics"
+    href: communications-technology/high-speed-electronics.md
+  - name: "Image communication"
+    href: communications-technology/image-communication.md
+  - name: "Information and communication technology"
+    href: communications-technology/information-and-communication-technology.md
+  - name: "MIMO"
+    href: communications-technology/mimo.md
+  - name: "MISO"
+    href: communications-technology/miso.md
+  - name: "Message systems"
+    href: communications-technology/message-systems.md
+  - name: "Modulation"
+    href: communications-technology/modulation.md
+  - name: "Multiplexing"
+    href: communications-technology/multiplexing.md
+  - name: "Network topology"
+    href: communications-technology/network-topology.md
+  - name: "Presence network agents"
+    href: communications-technology/presence-network-agents.md
+  - name: "SISO"
+    href: communications-technology/siso.md
+  - name: "TV"
+    href: communications-technology/tv.md
+  - name: "UHF technology"
+    href: communications-technology/uhf-technology.md
+  - name: "Ultra wideband technology"
+    href: communications-technology/ultra-wideband-technology.md
+  - name: "VHF devices"
+    href: communications-technology/vhf-devices.md
 - name: "Components, packaging, and manufacturing technology"
   href: components-packaging-and-manufacturing-technology/index.md
   items:
@@ -82,6 +125,104 @@ items:
     href: components-packaging-and-manufacturing-technology/semiconductor-device-packaging.md
   - name: "Thermal management of electronics"
     href: components-packaging-and-manufacturing-technology/thermal-management-of-electronics.md
+- name: "Computational and artificial intelligence"
+  href: computational-and-artificial-intelligence/index.md
+  items:
+  - name: "Artificial intelligence"
+    href: computational-and-artificial-intelligence/artificial-intelligence.md
+  - name: "Autonomous mental development"
+    href: computational-and-artificial-intelligence/autonomous-mental-development.md
+  - name: "Computational intelligence"
+    href: computational-and-artificial-intelligence/computational-intelligence.md
+  - name: "Logic"
+    href: computational-and-artificial-intelligence/logic.md
+  - name: "Machine intelligence"
+    href: computational-and-artificial-intelligence/machine-intelligence.md
+  - name: "Neural networks"
+    href: computational-and-artificial-intelligence/neural-networks.md
+- name: "Computers and information processing"
+  href: computers-and-information-processing/index.md
+  items:
+  - name: "Approximate computing"
+    href: computers-and-information-processing/approximate-computing.md
+  - name: "Computer applications"
+    href: computers-and-information-processing/computer-applications.md
+  - name: "Computer architecture"
+    href: computers-and-information-processing/computer-architecture.md
+  - name: "Computer interfaces"
+    href: computers-and-information-processing/computer-interfaces.md
+  - name: "Computer networks"
+    href: computers-and-information-processing/computer-networks.md
+  - name: "Computer performance"
+    href: computers-and-information-processing/computer-performance.md
+  - name: "Computer peripherals"
+    href: computers-and-information-processing/computer-peripherals.md
+  - name: "Computer science"
+    href: computers-and-information-processing/computer-science.md
+  - name: "Computer security"
+    href: computers-and-information-processing/computer-security.md
+  - name: "Computers"
+    href: computers-and-information-processing/computers.md
+  - name: "Concurrency control"
+    href: computers-and-information-processing/concurrency-control.md
+  - name: "DNA computing"
+    href: computers-and-information-processing/dna-computing.md
+  - name: "Data systems"
+    href: computers-and-information-processing/data-systems.md
+  - name: "Database machines"
+    href: computers-and-information-processing/database-machines.md
+  - name: "Digital systems"
+    href: computers-and-information-processing/digital-systems.md
+  - name: "Distributed computing"
+    href: computers-and-information-processing/distributed-computing.md
+  - name: "File servers"
+    href: computers-and-information-processing/file-servers.md
+  - name: "Hardware"
+    href: computers-and-information-processing/hardware.md
+  - name: "High performance computing"
+    href: computers-and-information-processing/high-performance-computing.md
+  - name: "Image processing"
+    href: computers-and-information-processing/image-processing.md
+  - name: "Memory"
+    href: computers-and-information-processing/memory.md
+  - name: "Mobile computing"
+    href: computers-and-information-processing/mobile-computing.md
+  - name: "Molecular computing"
+    href: computers-and-information-processing/molecular-computing.md
+  - name: "Multitasking"
+    href: computers-and-information-processing/multitasking.md
+  - name: "Open systems"
+    href: computers-and-information-processing/open-systems.md
+  - name: "Optical computing"
+    href: computers-and-information-processing/optical-computing.md
+  - name: "Parallel processing"
+    href: computers-and-information-processing/parallel-processing.md
+  - name: "Pattern recognition"
+    href: computers-and-information-processing/pattern-recognition.md
+  - name: "Pervasive computing"
+    href: computers-and-information-processing/pervasive-computing.md
+  - name: "Petascale computing"
+    href: computers-and-information-processing/petascale-computing.md
+  - name: "Platform virtualization"
+    href: computers-and-information-processing/platform-virtualization.md
+  - name: "Probabilistic computing"
+    href: computers-and-information-processing/probabilistic-computing.md
+  - name: "Probability computing"
+    href: computers-and-information-processing/probability-computing.md
+  - name: "Quantum computing"
+    href: computers-and-information-processing/quantum-computing.md
+  - name: "Real-time systems"
+    href: computers-and-information-processing/real-time-systems.md
+  - name: "Software"
+    href: computers-and-information-processing/software.md
+  - name: "Software engineering"
+    href: computers-and-information-processing/software-engineering.md
+  - name: "System recovery"
+    href: computers-and-information-processing/system-recovery.md
+  - name: "Time sharing computer systems"
+    href: computers-and-information-processing/time-sharing-computer-systems.md
+  - name: "Virtual machine monitors"
+    href: computers-and-information-processing/virtual-machine-monitors.md
 - name: "Consumer electronics"
   href: consumer-electronics/index.md
   items:
@@ -99,6 +240,117 @@ items:
     href: consumer-electronics/microwave-ovens.md
   - name: "Multimedia systems"
     href: consumer-electronics/multimedia-systems.md
+- name: "Control systems"
+  href: control-systems/index.md
+  items:
+  - name: "Admittance control"
+    href: control-systems/admittance-control.md
+  - name: "Automatic control"
+    href: control-systems/automatic-control.md
+  - name: "Automatic generation control"
+    href: control-systems/automatic-generation-control.md
+  - name: "Automotive control"
+    href: control-systems/automotive-control.md
+  - name: "Autopilot"
+    href: control-systems/autopilot.md
+  - name: "Bidirectional control"
+    href: control-systems/bidirectional-control.md
+  - name: "Block signalling"
+    href: control-systems/block-signalling.md
+  - name: "Brakes"
+    href: control-systems/brakes.md
+  - name: "CAMAC"
+    href: control-systems/camac.md
+  - name: "Centralized control"
+    href: control-systems/centralized-control.md
+  - name: "Closed loop systems"
+    href: control-systems/closed-loop-systems.md
+  - name: "Control design"
+    href: control-systems/control-design.md
+  - name: "Control engineering"
+    href: control-systems/control-engineering.md
+  - name: "Control equipment"
+    href: control-systems/control-equipment.md
+  - name: "Control system synthesis"
+    href: control-systems/control-system-synthesis.md
+  - name: "Controllability"
+    href: control-systems/controllability.md
+  - name: "Controller area networks"
+    href: control-systems/controller-area-networks.md
+  - name: "Cruise control"
+    href: control-systems/cruise-control.md
+  - name: "Decentralized control"
+    href: control-systems/decentralized-control.md
+  - name: "Delay systems"
+    href: control-systems/delay-systems.md
+  - name: "Digital control"
+    href: control-systems/digital-control.md
+  - name: "Fault tolerant control"
+    href: control-systems/fault-tolerant-control.md
+  - name: "Feedback"
+    href: control-systems/feedback.md
+  - name: "Feedback linearization"
+    href: control-systems/feedback-linearization.md
+  - name: "Fluid flow control"
+    href: control-systems/fluid-flow-control.md
+  - name: "Fluidics"
+    href: control-systems/fluidics.md
+  - name: "Gaze tracking"
+    href: control-systems/gaze-tracking.md
+  - name: "Homeostasis"
+    href: control-systems/homeostasis.md
+  - name: "Linear feedback control systems"
+    href: control-systems/linear-feedback-control-systems.md
+  - name: "Magnetic variables control"
+    href: control-systems/magnetic-variables-control.md
+  - name: "Mechanical variables control"
+    href: control-systems/mechanical-variables-control.md
+  - name: "Medical control systems"
+    href: control-systems/medical-control-systems.md
+  - name: "Missile control"
+    href: control-systems/missile-control.md
+  - name: "Moisture control"
+    href: control-systems/moisture-control.md
+  - name: "Motion compensation"
+    href: control-systems/motion-compensation.md
+  - name: "Networked control systems"
+    href: control-systems/networked-control-systems.md
+  - name: "Nonlinear control systems"
+    href: control-systems/nonlinear-control-systems.md
+  - name: "Open loop systems"
+    href: control-systems/open-loop-systems.md
+  - name: "Optical control"
+    href: control-systems/optical-control.md
+  - name: "Optimal control"
+    href: control-systems/optimal-control.md
+  - name: "PD control"
+    href: control-systems/pd-control.md
+  - name: "PI control"
+    href: control-systems/pi-control.md
+  - name: "Pneumatic systems"
+    href: control-systems/pneumatic-systems.md
+  - name: "Positive train control"
+    href: control-systems/positive-train-control.md
+  - name: "Pressure control"
+    href: control-systems/pressure-control.md
+  - name: "Proportional control"
+    href: control-systems/proportional-control.md
+  - name: "Radio control"
+    href: control-systems/radio-control.md
+  - name: "Robot control"
+    href: control-systems/robot-control.md
+  - name: "SCADA systems"
+    href: control-systems/scada-systems.md
+  - name: "Sensorless control"
+    href: control-systems/sensorless-control.md
+  - name: "Sliding mode control"
+    href: control-systems/sliding-mode-control.md
+  - name: "Supervisory control"
+    href: control-systems/supervisory-control.md
+  - name: "Thermal variables control"
+    href: control-systems/thermal-variables-control.md
+  - name: "Traffic control"
+    href: control-systems/traffic-control.md
 - name: "Dielectrics and electrical insulation"
   href: dielectrics-and-electrical-insulation/index.md
   items:
@@ -183,6 +435,13 @@ items:
     href: electron-devices/tunneling.md
   - name: "Vacuum technology"
     href: electron-devices/vacuum-technology.md
+- name: "Electronic design automation and methodology"
+  href: electronic-design-automation-and-methodology/index.md
+  items:
+  - name: "Design automation"
+    href: electronic-design-automation-and-methodology/design-automation.md
+  - name: "Design methodology"
+    href: electronic-design-automation-and-methodology/design-methodology.md
 - name: "Engineering - general"
   href: engineering-general/index.md
   items:
@@ -490,6 +749,25 @@ items:
     href: information-theory/speech-coding.md
   - name: "Technology acceptance model"
     href: information-theory/technology-acceptance-model.md
+- name: "Instrumentation and measurement"
+  href: instrumentation-and-measurement/index.md
+  items:
+  - name: "Computerized instrumentation"
+    href: instrumentation-and-measurement/computerized-instrumentation.md
+  - name: "Electric variables"
+    href: instrumentation-and-measurement/electric-variables.md
+  - name: "High energy physics instrumentation computing"
+    href: instrumentation-and-measurement/high-energy-physics-instrumentation-computing.md
+  - name: "Instruments"
+    href: instrumentation-and-measurement/instruments.md
+  - name: "Measurement"
+    href: instrumentation-and-measurement/measurement.md
+  - name: "Monitoring"
+    href: instrumentation-and-measurement/monitoring.md
+  - name: "Pulse oximetry"
+    href: instrumentation-and-measurement/pulse-oximetry.md
+  - name: "Testing"
+    href: instrumentation-and-measurement/testing.md
 - name: "Intelligent transportation systems"
   href: intelligent-transportation-systems/index.md
   items:
@@ -518,6 +796,90 @@ items:
     href: lasers-and-electrooptics/optoelectronic-devices.md
   - name: "Photonics"
     href: lasers-and-electrooptics/photonics.md
+- name: "Magnetics"
+  href: magnetics/index.md
+  items:
+  - name: "Biomagnetics"
+    href: magnetics/biomagnetics.md
+  - name: "Demagnetization"
+    href: magnetics/demagnetization.md
+  - name: "Gyromagnetism"
+    href: magnetics/gyromagnetism.md
+  - name: "Magnetic analysis"
+    href: magnetics/magnetic-analysis.md
+  - name: "Magnetic anisotropy"
+    href: magnetics/magnetic-anisotropy.md
+  - name: "Magnetic devices"
+    href: magnetics/magnetic-devices.md
+  - name: "Magnetic fields"
+    href: magnetics/magnetic-fields.md
+  - name: "Magnetic flux"
+    href: magnetics/magnetic-flux.md
+  - name: "Magnetic force microscopy"
+    href: magnetics/magnetic-force-microscopy.md
+  - name: "Magnetic forces"
+    href: magnetics/magnetic-forces.md
+  - name: "Magnetic hysteresis"
+    href: magnetics/magnetic-hysteresis.md
+  - name: "Magnetic levitation"
+    href: magnetics/magnetic-levitation.md
+  - name: "Magnetic losses"
+    href: magnetics/magnetic-losses.md
+  - name: "Magnetic materials"
+    href: magnetics/magnetic-materials.md
+  - name: "Magnetic multilayers"
+    href: magnetics/magnetic-multilayers.md
+  - name: "Magnetic particles"
+    href: magnetics/magnetic-particles.md
+  - name: "Magnetic properties"
+    href: magnetics/magnetic-properties.md
+  - name: "Magnetic sensors"
+    href: magnetics/magnetic-sensors.md
+  - name: "Magnetic susceptibility"
+    href: magnetics/magnetic-susceptibility.md
+  - name: "Magnetic switching"
+    href: magnetics/magnetic-switching.md
+  - name: "Magnetization processes"
+    href: magnetics/magnetization-processes.md
+  - name: "Magnetoacoustic effects"
+    href: magnetics/magnetoacoustic-effects.md
+  - name: "Magnetoelectric effects"
+    href: magnetics/magnetoelectric-effects.md
+  - name: "Magnetomechanical effects"
+    href: magnetics/magnetomechanical-effects.md
+  - name: "Magnetooptic effects"
+    href: magnetics/magnetooptic-effects.md
+  - name: "Magnets"
+    href: magnetics/magnets.md
+  - name: "Magnonics"
+    href: magnetics/magnonics.md
+  - name: "Microwave magnetics"
+    href: magnetics/microwave-magnetics.md
+  - name: "Nanomagnetics"
+    href: magnetics/nanomagnetics.md
+  - name: "Nonlinear magnetics"
+    href: magnetics/nonlinear-magnetics.md
+  - name: "Remanence"
+    href: magnetics/remanence.md
+  - name: "Spin systems"
+    href: magnetics/spin-systems.md
+- name: "Materials, elements, and compounds"
+  href: materials-elements-and-compounds/index.md
+  items:
+  - name: "Atoms"
+    href: materials-elements-and-compounds/atoms.md
+  - name: "Chemical elements"
+    href: materials-elements-and-compounds/chemical-elements.md
+  - name: "Compounds"
+    href: materials-elements-and-compounds/compounds.md
+  - name: "Material storage"
+    href: materials-elements-and-compounds/material-storage.md
+  - name: "Materials"
+    href: materials-elements-and-compounds/materials.md
+  - name: "Materials science and technology"
+    href: materials-elements-and-compounds/materials-science-and-technology.md
+  - name: "Metals"
+    href: materials-elements-and-compounds/metals.md
 - name: "Mathematics"
   href: mathematics/index.md
   items:
@@ -717,6 +1079,61 @@ items:
     href: nanotechnology/self-assembly.md
   - name: "Self-replicating machines"
     href: nanotechnology/self-replicating-machines.md
+- name: "Nuclear and plasma sciences"
+  href: nuclear-and-plasma-sciences/index.md
+  items:
+  - name: "Biomedical applications of radiation"
+    href: nuclear-and-plasma-sciences/biomedical-applications-of-radiation.md
+  - name: "Colliding beam devices"
+    href: nuclear-and-plasma-sciences/colliding-beam-devices.md
+  - name: "Electron emission"
+    href: nuclear-and-plasma-sciences/electron-emission.md
+  - name: "Elementary particles"
+    href: nuclear-and-plasma-sciences/elementary-particles.md
+  - name: "Fusion power generation"
+    href: nuclear-and-plasma-sciences/fusion-power-generation.md
+  - name: "Fusion reactors"
+    href: nuclear-and-plasma-sciences/fusion-reactors.md
+  - name: "Gamma-rays"
+    href: nuclear-and-plasma-sciences/gamma-rays.md
+  - name: "Gas discharge devices"
+    href: nuclear-and-plasma-sciences/gas-discharge-devices.md
+  - name: "Helioseismology"
+    href: nuclear-and-plasma-sciences/helioseismology.md
+  - name: "High energy physics instrumentation computing"
+    href: nuclear-and-plasma-sciences/high-energy-physics-instrumentation-computing.md
+  - name: "Ion beam applications"
+    href: nuclear-and-plasma-sciences/ion-beam-applications.md
+  - name: "Nuclear electronics"
+    href: nuclear-and-plasma-sciences/nuclear-electronics.md
+  - name: "Nuclear imaging"
+    href: nuclear-and-plasma-sciences/nuclear-imaging.md
+  - name: "Nuclear medicine"
+    href: nuclear-and-plasma-sciences/nuclear-medicine.md
+  - name: "Nuclear physics"
+    href: nuclear-and-plasma-sciences/nuclear-physics.md
+  - name: "Particle accelerators"
+    href: nuclear-and-plasma-sciences/particle-accelerators.md
+  - name: "Particle beam handling"
+    href: nuclear-and-plasma-sciences/particle-beam-handling.md
+  - name: "Particle beam injection"
+    href: nuclear-and-plasma-sciences/particle-beam-injection.md
+  - name: "Plasmas"
+    href: nuclear-and-plasma-sciences/plasmas.md
+  - name: "Radiation effects"
+    href: nuclear-and-plasma-sciences/radiation-effects.md
+  - name: "Radiation hardening (electronics)"
+    href: nuclear-and-plasma-sciences/radiation-hardening-electronics.md
+  - name: "Radiation monitoring"
+    href: nuclear-and-plasma-sciences/radiation-monitoring.md
+  - name: "Radiation safety"
+    href: nuclear-and-plasma-sciences/radiation-safety.md
+  - name: "Reactor instrumentation"
+    href: nuclear-and-plasma-sciences/reactor-instrumentation.md
+  - name: "Scintillation counters"
+    href: nuclear-and-plasma-sciences/scintillation-counters.md
+  - name: "Thermionic emission"
+    href: nuclear-and-plasma-sciences/thermionic-emission.md
 - name: "Oceanic engineering and marine technology"
   href: oceanic-engineering-and-marine-technology/index.md
   items:
@@ -766,6 +1183,17 @@ items:
     href: power-engineering-and-energy/power-generation.md
   - name: "Power systems"
     href: power-engineering-and-energy/power-systems.md
+- name: "Product safety engineering"
+  href: product-safety-engineering/index.md
+  items:
+  - name: "Consumer protection"
+    href: product-safety-engineering/consumer-protection.md
+  - name: "Power system protection"
+    href: product-safety-engineering/power-system-protection.md
+  - name: "Safety"
+    href: product-safety-engineering/safety.md
+  - name: "Vehicle crash testing"
+    href: product-safety-engineering/vehicle-crash-testing.md
 - name: "Professional communication"
   href: professional-communication/index.md
   items:
@@ -854,6 +1282,17 @@ items:
     href: reliability/stability.md
   - name: "Telecommunication network reliability"
     href: reliability/telecommunication-network-reliability.md
+- name: "Resonance"
+  href: resonance/index.md
+  items:
+  - name: "Ferroresonance"
+    href: resonance/ferroresonance.md
+  - name: "Magnetic resonance"
+    href: resonance/magnetic-resonance.md
+  - name: "Resonance light scattering"
+    href: resonance/resonance-light-scattering.md
+  - name: "Stochastic resonance"
+    href: resonance/stochastic-resonance.md
 - name: "Robotics and automation"
   href: robotics-and-automation/index.md
   items:
@@ -902,6 +1341,67 @@ items:
     href: science-general/social-sciences.md
   - name: "Thermodynamics"
     href: science-general/thermodynamics.md
+- name: "Sensors"
+  href: sensors/index.md
+  items:
+  - name: "Acoustic sensors"
+    href: sensors/acoustic-sensors.md
+  - name: "Chemical and biological sensors"
+    href: sensors/chemical-and-biological-sensors.md
+  - name: "Electromechanical sensors"
+    href: sensors/electromechanical-sensors.md
+  - name: "Force sensors"
+    href: sensors/force-sensors.md
+  - name: "Glucose sensors"
+    href: sensors/glucose-sensors.md
+  - name: "Inertial sensors"
+    href: sensors/inertial-sensors.md
+  - name: "Infrared sensors"
+    href: sensors/infrared-sensors.md
+  - name: "Integrated sensing and communication"
+    href: sensors/integrated-sensing-and-communication.md
+  - name: "Intelligent sensors"
+    href: sensors/intelligent-sensors.md
+  - name: "Intracranial pressure sensors"
+    href: sensors/intracranial-pressure-sensors.md
+  - name: "Ionizing radiation sensors"
+    href: sensors/ionizing-radiation-sensors.md
+  - name: "Magnetic sensors"
+    href: sensors/magnetic-sensors.md
+  - name: "Mechanical sensors"
+    href: sensors/mechanical-sensors.md
+  - name: "Multimodal sensors"
+    href: sensors/multimodal-sensors.md
+  - name: "Nanosensors"
+    href: sensors/nanosensors.md
+  - name: "Optical sensors"
+    href: sensors/optical-sensors.md
+  - name: "Optoelectronic and photonic sensors"
+    href: sensors/optoelectronic-and-photonic-sensors.md
+  - name: "Pressure sensors"
+    href: sensors/pressure-sensors.md
+  - name: "Quantum sensing"
+    href: sensors/quantum-sensing.md
+  - name: "Quantum sensors"
+    href: sensors/quantum-sensors.md
+  - name: "Sensor phenomena and characterization"
+    href: sensors/sensor-phenomena-and-characterization.md
+  - name: "Sensor placement"
+    href: sensors/sensor-placement.md
+  - name: "Sensor systems and applications"
+    href: sensors/sensor-systems-and-applications.md
+  - name: "Soft sensors"
+    href: sensors/soft-sensors.md
+  - name: "Thermal sensors"
+    href: sensors/thermal-sensors.md
+  - name: "Thick film sensors"
+    href: sensors/thick-film-sensors.md
+  - name: "Thin film sensors"
+    href: sensors/thin-film-sensors.md
+  - name: "Vision sensors"
+    href: sensors/vision-sensors.md
+  - name: "Wearable sensors"
+    href: sensors/wearable-sensors.md
 - name: "Signal processing"
   href: signal-processing/index.md
   items:
@@ -1037,6 +1537,29 @@ items:
     href: solid-state-circuits/solid-state-circuit-design.md
   - name: "Transistors"
     href: solid-state-circuits/transistors.md
+- name: "Superconductivity"
+  href: superconductivity/index.md
+  items:
+  - name: "Bean model"
+    href: superconductivity/bean-model.md
+  - name: "Critical current density"
+    href: superconductivity/critical-current-density.md
+  - name: "Flux pinning"
+    href: superconductivity/flux-pinning.md
+  - name: "Superconducting devices"
+    href: superconductivity/superconducting-devices.md
+  - name: "Superconducting films"
+    href: superconductivity/superconducting-films.md
+  - name: "Superconducting integrated circuits"
+    href: superconductivity/superconducting-integrated-circuits.md
+  - name: "Superconducting magnetic energy storage"
+    href: superconductivity/superconducting-magnetic-energy-storage.md
+  - name: "Superconducting materials"
+    href: superconductivity/superconducting-materials.md
+  - name: "Superconducting transition temperature"
+    href: superconductivity/superconducting-transition-temperature.md
+  - name: "Superconductive tunneling"
+    href: superconductivity/superconductive-tunneling.md
 - name: "Systems engineering and theory"
   href: systems-engineering-and-theory/index.md
   items:
@@ -1169,3 +1692,8 @@ items:
     href: vehicular-and-wireless-technologies/vehicles.md
   - name: "Wireless sensor networks"
     href: vehicular-and-wireless-technologies/wireless-sensor-networks.md
+- name: "Vertical takeoff and landing aircraft"
+  href: vertical-takeoff-and-landing-aircraft/index.md
+  items:
+  - name: "Helicopters"
+    href: vertical-takeoff-and-landing-aircraft/helicopters.md

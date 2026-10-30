@@ -1,0 +1,147 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 20px; align-items: stretch; }
+  .row + .row { margin-top: 20px; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { width: 440px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; min-height: 50px; padding: 6px 8px; box-sizing: border-box; margin-bottom: 10px;
+          display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; text-align: center; padding: 6px 10px; line-height: 1.3; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">CS2023 AR</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Digital Logic and Digital Systems</div>
+        <div class="item">Combinational vs sequential logic/field programmable gate arrays (FPGAs)</div>
+        <div class="item">Computer-aided design tools that process hardware and architectural representations</div>
+        <div class="item">High-level synthesis</div>
+        <div class="item">System-on-chip (SoC) design flow</div>
+        <div class="item">Physical constraints</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Machine-Level Data Representation</div>
+        <div class="item">Overview and history of computer architecture</div>
+        <div class="item">Bits, bytes, and words</div>
+        <div class="item">Unsigned, signed and two’s complement representations</div>
+        <div class="item">Numeric data representation and number bases</div>
+        <div class="item">Representation of non-numeric data</div>
+        <div class="item">Representation of records, arrays and UTF data types</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Assembly Level Machine Organization</div>
+        <div class="item">von Neumann machine architecture</div>
+        <div class="item">Control unit: instruction fetch, decode, and execution</div>
+        <div class="item">Introduction to SIMD vs MIMD and the Flynn taxonomy</div>
+        <div class="item">Shared memory multiprocessors/multicore organization</div>
+        <div class="item">Instruction set architecture (ISA) (e.g., x86, ARM and RISC-V)</div>
+        <div class="item">Subroutine call and return mechanisms</div>
+        <div class="item">I/O and interrupts</div>
+        <div class="item">Heap, static, stack, and code segments</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Memory Hierarchy</div>
+        <div class="item">Memory hierarchy: the importance of temporal and spatial locality</div>
+        <div class="item">Main memory organization and operations</div>
+        <div class="item">Persistent memory (e.g., SSD, standard disks)</div>
+        <div class="item">Latency, cycle time, bandwidth, and interleaving</div>
+        <div class="item">Cache memories</div>
+        <div class="item">Multiprocessor cache coherence</div>
+        <div class="item">Virtual memory (hardware support)</div>
+        <div class="item">Fault handling and reliability</div>
+        <div class="item">Reliability</div>
+        <div class="item">Processing In-Memory (PIM)</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Interfacing and Communication</div>
+        <div class="item">I/O fundamentals</div>
+        <div class="item">Interrupt structures: vectored and prioritized, interrupt acknowledgment</div>
+        <div class="item">I/O devices (e.g., mouse, keyboard, display, camera, sensors, actuators)</div>
+        <div class="item">External storage, physical organization, and drives</div>
+        <div class="item">Buses fundamentals</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Functional Organization</div>
+        <div class="item">Implementation of simple datapaths, including instruction pipelining, hazard detection, and resolution (e.g., stalls, forwarding)</div>
+        <div class="item">Control unit</div>
+        <div class="item">Instruction pipelining</div>
+        <div class="item">Introduction to instruction-level parallelism (ILP)</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Performance and Energy Efficiency</div>
+        <div class="item">Performance-energy evaluation (introduction): performance, power consumption, memory, and communication costs</div>
+        <div class="item">Branch prediction, speculative execution, out-of-order execution, Tomasulo's algorithm</div>
+        <div class="item">Enhancements for vector processors and GPUs</div>
+        <div class="item">Hardware support for multithreading</div>
+        <div class="item">Scalability</div>
+        <div class="item">Alternative architectures including VLIW/EPIC, accelerators, and other special purpose processors</div>
+        <div class="item">Dynamic voltage and frequency scaling (DVFS)</div>
+        <div class="item">Dark Silicon</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Heterogeneous Architectures</div>
+        <div class="item">SIMD and MIMD architectures (e.g., General-Purpose GPUs, TPUs, and NPUs)</div>
+        <div class="item">Heterogeneous memory systems</div>
+        <div class="item">Domain-Specific Architectures (DSAs)</div>
+        <div class="item">Packaging and integration solutions such as 3DIC and chiplets</div>
+        <div class="item">Machine learning in architecture design</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Secure Processor Architectures</div>
+        <div class="item">Principles of Secure Hardware</div>
+        <div class="item">Roots of trust in hardware, Physically Unclonable Functions (PUF)</div>
+        <div class="item">Hardware Random Number Generators</div>
+        <div class="item">Memory protection extensions</div>
+        <div class="item">Trusted Execution Environment (TEE)</div>
+        <div class="item">Homomorphic encryption for privacy-preserving data processing</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Quantum Architectures</div>
+        <div class="item">Principles</div>
+        <div class="item">Axioms of QM: superposition principle, measurement axiom, unitary evolution</div>
+        <div class="item">Single qubit gates for the circuit model of quantum computation: X, Z, H</div>
+        <div class="item">Two qubit gates and tensor products, working with matrices</div>
+        <div class="item">The No-Cloning Theorem. The Quantum Teleportation protocol</div>
+        <div class="item">Algorithms</div>
+        <div class="item">Implementation aspects</div>
+        <div class="item">Emerging Applications</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Sustainability Issues</div>
+        <div class="item">Environmental impacts of implementation decisions</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>
