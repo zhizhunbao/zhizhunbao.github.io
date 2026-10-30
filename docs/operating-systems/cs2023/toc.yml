@@ -96,7 +96,7 @@ items:
     href: scheduling/fairness-and-starvation.md
   - name: "5.6 Subtopics of Operating Systems Such as Energy-Aware Scheduling and Real-Time Scheduling"
     href: scheduling/subtopics-of-operating-systems-such-as-energy-aware-scheduling-and-real-time-sch.md
-  - name: "5.7 Cooperative scheduling, such as Linux futexes and userland scheduling"
+  - name: "5.7 Cooperative scheduling"
     href: scheduling/cooperative-scheduling-such-as-linux-futexes-and-userland-scheduling.md
 - name: "6. Process Model"
   href: process-model/index.md

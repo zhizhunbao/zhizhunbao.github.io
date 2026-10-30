@@ -158,13 +158,13 @@ items:
 - name: "5. Applications and Societal Impact"
   href: applications-and-societal-impact/index.md
   items:
-  - name: "5.1 At least one application of AI to a specific problem and field, such as medicine, health, sustainability, social media, economics, education, robotics, etc"
+  - name: "5.1 At least one application of AI to a specific problem and field"
     href: applications-and-societal-impact/at-least-one-application-of-ai-to-a-specific-problem-and-field-such-as-medicine.md
   - name: "5.2 Deployed Deep Generative Models"
     href: applications-and-societal-impact/deployed-deep-generative-models.md
   - name: "5.3 Overview of Societal Impact of AI"
     href: applications-and-societal-impact/overview-of-societal-impact-of-ai.md
-  - name: "5.4 One or more additional applications of AI to a broad set of problems and diverse fields, such as medicine, health, sustainability, social media, economics, education, robotics, etc"
+  - name: "5.4 One or more additional applications of AI to a broad set of problems and diverse fields"
     href: applications-and-societal-impact/one-or-more-additional-applications-of-ai-to-a-broad-set-of-problems-and-diverse.md
   - name: "5.5 Additional Depth on Deployed Deep Generative Models"
     href: applications-and-societal-impact/additional-depth-on-deployed-deep-generative-models.md

@@ -142,7 +142,7 @@ Content has official sources; section names are the common names of the field.
 
 ### CS2023 entries
 
-- Each section also has its CS2023 knowledge area as a second-level entry, `CS2023 <code>` (CS2023 AI, AL, AR, DM, FPL, GIT, HCI, MSF, NC, OS, PDC, SDF, SE, SEC, SEP, SF, SPD): the units in CS2023's order, numbered, and their topics with CS2023's numbering and parts, as the checklist of what the field covers. Topic titles (page titles, menus, figure boxes) drop CS2023's bracketed examples and its "Example concept(s)" tails (2026-10-30), keeping an abbreviation in brackets such as (ISA) as part of the name; the full CS2023 wording stays in each page's description, and those details go into the topic's definition.
+- Each section also has its CS2023 knowledge area as a second-level entry, `CS2023 <code>` (CS2023 AI, AL, AR, DM, FPL, GIT, HCI, MSF, NC, OS, PDC, SDF, SE, SEC, SEP, SF, SPD): the units in CS2023's order, numbered, and their topics with CS2023's numbering and parts, as the checklist of what the field covers. Topic titles (page titles, menus, figure boxes) drop CS2023's examples, whether in brackets or after ", e.g.,", "such as" or "Example concept(s)" (2026-10-30), keeping an abbreviation in brackets such as (ISA) as part of the name; the full CS2023 wording stays in each page's description, and those details go into the topic's definition.
 - Topic pages carry no "Tier:" line (removed 2026-10-27); the tier (CS Core, KA Core, Non-core) stays only in each page's description, and CS2023's "See also:" cross-references stay as their own line.
 - Where CS2023 numbers oddly (FPL-Analysis starts at 4, OS-Advanced-Files restarts at 1 for Non-core, SF-Evaluation has two topics 7), the numbers are kept.
 

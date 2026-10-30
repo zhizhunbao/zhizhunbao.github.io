@@ -1,10 +1,10 @@
 ---
-title: "2.10 Integration with other programming paradigms such as imperative and object-oriented"
+title: "2.10 Integration with other programming paradigms"
 description: "CS2023 FPL-Functional, 2.10 Integration with other programming paradigms such as imperative and object-oriented. (Non-core)."
 ms.date: 2026-10-25
 ---
 
-# 2.10 Integration with other programming paradigms such as imperative and object-oriented
+# 2.10 Integration with other programming paradigms
 
 Sources: [CS2023 Body of Knowledge, FPL-Functional, topic 10, p. 70](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=70).
 

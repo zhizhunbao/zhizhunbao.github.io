@@ -31,7 +31,7 @@ items:
 - name: "2. Fundamental Data Structures"
   href: fundamental-data-structures/index.md
   items:
-  - name: "2.1 Standard abstract data types such as lists, stacks, queues, sets, and maps/dictionaries, including operations on them"
+  - name: "2.1 Standard abstract data types"
     href: fundamental-data-structures/standard-abstract-data-types-such-as-lists-stacks-queues-sets-and-maps-dictionar.md
   - name: "2.2 Selecting and using appropriate data structures"
     href: fundamental-data-structures/selecting-and-using-appropriate-data-structures.md
