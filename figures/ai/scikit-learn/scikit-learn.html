@@ -1,0 +1,141 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<body>
+<div class="frame" id="fig">
+  <div class="title">scikit-learn</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">1 Supervised Learning</div>
+      <div class="item">1.1 Linear Models</div>
+      <div class="item">1.2 Linear and Quadratic Discriminant Analysis</div>
+      <div class="item">1.3 Kernel Ridge Regression</div>
+      <div class="item">1.4 Support Vector Machines</div>
+      <div class="item">1.5 Stochastic Gradient Descent</div>
+      <div class="item">1.6 Nearest Neighbors</div>
+      <div class="item">1.7 Gaussian Processes</div>
+      <div class="item">1.8 Cross Decomposition</div>
+      <div class="item">1.9 Naive Bayes</div>
+      <div class="item">1.10 Decision Trees</div>
+      <div class="item">1.11 Ensembles: Gradient Boosting, Random Forests, Bagging, Voting, Stacking</div>
+      <div class="item">1.12 Multiclass and Multioutput Algorithms</div>
+      <div class="item">1.13 Feature Selection</div>
+      <div class="item">1.14 Semi-Supervised Learning</div>
+      <div class="item">1.15 Isotonic Regression</div>
+      <div class="item">1.16 Probability Calibration</div>
+      <div class="item">1.17 Neural Network Models (supervised)</div>
+    </div>
+    <div class="group">
+      <div class="title">2 Unsupervised Learning</div>
+      <div class="item">2.1 Gaussian Mixture Models</div>
+      <div class="item">2.2 Manifold Learning</div>
+      <div class="item">2.3 Clustering</div>
+      <div class="item">2.4 Biclustering</div>
+      <div class="item">2.5 Decomposing Signals in Components (matrix factorization problems)</div>
+      <div class="item">2.6 Covariance Estimation</div>
+      <div class="item">2.7 Novelty and Outlier Detection</div>
+      <div class="item">2.8 Density Estimation</div>
+      <div class="item">2.9 Neural Network Models (unsupervised)</div>
+    </div>
+    <div class="group">
+      <div class="title">3 Model Selection and Evaluation</div>
+      <div class="item">3.1 Cross-Validation: Evaluating Estimator Performance</div>
+      <div class="item">3.2 Tuning the Hyper-Parameters of an Estimator</div>
+      <div class="item">3.3 Tuning the Decision Threshold for Class Prediction</div>
+      <div class="item">3.4 Metrics and Scoring: Quantifying the Quality of Predictions</div>
+      <div class="item">3.5 Validation Curves: Plotting Scores to Evaluate Models</div>
+    </div>
+    <div class="group">
+      <div class="title">4 Metadata Routing</div>
+      <div class="item">4.1 Usage Examples</div>
+      <div class="item">4.2 API Interface</div>
+      <div class="item">4.3 Metadata Routing Support Status</div>
+    </div>
+    <div class="group">
+      <div class="title">5 Inspection</div>
+      <div class="item">5.1 Partial Dependence and Individual Conditional Expectation Plots</div>
+      <div class="item">5.2 Permutation Feature Importance</div>
+    </div>
+    <div class="group">
+      <div class="title">6 Visualizations</div>
+      <div class="item">6.1 Available Plotting Utilities</div>
+    </div>
+    <div class="group">
+      <div class="title">7 Callbacks</div>
+      <div class="item">7.1 Registering Callbacks</div>
+      <div class="item">7.2 Callback Invocation</div>
+      <div class="item">7.3 Usage with Meta-Estimators</div>
+      <div class="item">7.4 Scikit-learn’s Built-in Callbacks</div>
+      <div class="item">7.5 Callback Support Status</div>
+    </div>
+    <div class="group">
+      <div class="title">8 Dataset Transformations</div>
+      <div class="item">8.1 Pipelines and Composite Estimators</div>
+      <div class="item">8.2 Feature Extraction</div>
+      <div class="item">8.3 Preprocessing Data</div>
+      <div class="item">8.4 Imputation of Missing Values</div>
+      <div class="item">8.5 Unsupervised Dimensionality Reduction</div>
+      <div class="item">8.6 Random Projection</div>
+      <div class="item">8.7 Kernel Approximation</div>
+      <div class="item">8.8 Pairwise Metrics, Affinities and Kernels</div>
+      <div class="item">8.9 Transforming the Prediction Target (y)</div>
+    </div>
+    <div class="group">
+      <div class="title">9 Dataset Loading Utilities</div>
+      <div class="item">9.1 Toy Datasets</div>
+      <div class="item">9.2 Real World Datasets</div>
+      <div class="item">9.3 Generated Datasets</div>
+      <div class="item">9.4 Loading Other Datasets</div>
+    </div>
+    <div class="group">
+      <div class="title">10 Computing with scikit-learn</div>
+      <div class="item">10.1 Strategies to Scale Computationally: Bigger Data</div>
+      <div class="item">10.2 Computational Performance</div>
+      <div class="item">10.3 Parallelism and Resource Management</div>
+    </div>
+    <div class="group">
+      <div class="title">11 Model Persistence</div>
+      <div class="item">11.1 Workflow Overview</div>
+      <div class="item">11.2 ONNX</div>
+      <div class="item">11.3 skops.io</div>
+      <div class="item">11.4 Pickle, Joblib, and Cloudpickle</div>
+      <div class="item">11.5 Security &amp; Maintainability Limitations</div>
+      <div class="item">11.6 Summarizing the Key Points</div>
+    </div>
+    <div class="group">
+      <div class="title">12 Common Pitfalls and Recommended Practices</div>
+      <div class="item">12.1 Inconsistent Preprocessing</div>
+      <div class="item">12.2 Data Leakage</div>
+      <div class="item">12.3 Controlling Randomness</div>
+    </div>
+    <div class="group">
+      <div class="title">13 Data Interoperability</div>
+      <div class="item">13.1 Pandas/Polars Output for Transformers with set_output API</div>
+      <div class="item">13.2 Array API Support (experimental)</div>
+    </div>
+    <div class="group">
+      <div class="title">14 Choosing the Right Estimator</div>
+    </div>
+    <div class="group">
+      <div class="title">15 External Resources, Videos and Talks</div>
+      <div class="item">15.1 The scikit-learn MOOC</div>
+      <div class="item">15.2 Videos</div>
+      <div class="item">15.3 New to Scientific Python?</div>
+      <div class="item">15.4 External Tutorials</div>
+    </div>
+  </div>
+</div>
+</body></html>
