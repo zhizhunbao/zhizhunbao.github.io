@@ -1,0 +1,180 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<body>
+<div class="frame" id="fig">
+  <div class="title">PyTorch</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">1 Intro</div>
+      <div class="item">1.1 Learn the Basics</div>
+      <div class="item">1.2 Introduction to PyTorch - YouTube Series</div>
+      <div class="item">1.3 Deep Learning with PyTorch: A 60 Minute Blitz</div>
+      <div class="item">1.4 Learning PyTorch with Examples</div>
+      <div class="item">1.5 What Is torch.nn Really?</div>
+      <div class="item">1.6 Understanding requires_grad, retain_grad, Leaf, and Non-Leaf Tensors</div>
+      <div class="item">1.7 NLP from Scratch</div>
+      <div class="item">1.8 Visualizing Models, Data, and Training with TensorBoard</div>
+      <div class="item">1.9 A Guide on Good Usage of non_blocking and pin_memory() in PyTorch</div>
+      <div class="item">1.10 Data Loading Optimization in PyTorch</div>
+      <div class="item">1.11 Visualizing Gradients</div>
+    </div>
+    <div class="group">
+      <div class="title">2 Compilers</div>
+      <div class="item">2.1 Introduction to torch.compile</div>
+      <div class="item">2.2 torch.compile End-to-End Tutorial</div>
+      <div class="item">2.3 Compiled Autograd: Capturing a Larger Backward Graph for torch.compile</div>
+      <div class="item">2.4 Inductor CPU Backend Debugging and Profiling</div>
+      <div class="item">2.5 Dynamic Compilation Control with torch.compiler.set_stance</div>
+      <div class="item">2.6 Demonstration of torch.export Flow, Common Challenges and the Solutions to Address Them</div>
+      <div class="item">2.7 (beta) Compiling the Optimizer with torch.compile</div>
+      <div class="item">2.8 (beta) Running the Compiled Optimizer with an LR Scheduler</div>
+      <div class="item">2.9 Using Variable Length Attention in PyTorch</div>
+      <div class="item">2.10 Using User-Defined Triton Kernels with torch.compile</div>
+      <div class="item">2.11 Compile Time Caching in torch.compile</div>
+      <div class="item">2.12 Reducing torch.compile Cold Start Compilation Time with Regional Compilation</div>
+      <div class="item">2.13 torch.export Tutorial</div>
+      <div class="item">2.14 torch.export AOTInductor Tutorial for Python Runtime (Beta)</div>
+      <div class="item">2.15 Introduction to ONNX</div>
+      <div class="item">2.16 Export a PyTorch Model to ONNX</div>
+      <div class="item">2.17 Extending the ONNX Exporter Operator Support</div>
+      <div class="item">2.18 Export a Model with Control Flow to ONNX</div>
+      <div class="item">2.19 Building a Convolution/Batch Norm Fuser with torch.compile</div>
+      <div class="item">2.20 (beta) Building a Simple CPU Performance Profiler with FX</div>
+    </div>
+    <div class="group">
+      <div class="title">3 Domains</div>
+      <div class="item">3.1 TorchVision Object Detection Finetuning Tutorial</div>
+      <div class="item">3.2 Transfer Learning for Computer Vision Tutorial</div>
+      <div class="item">3.3 Adversarial Example Generation</div>
+      <div class="item">3.4 DCGAN Tutorial</div>
+      <div class="item">3.5 Spatial Transformer Networks Tutorial</div>
+      <div class="item">3.6 Reinforcement Learning (DQN) Tutorial</div>
+      <div class="item">3.7 Reinforcement Learning (PPO) with TorchRL Tutorial</div>
+      <div class="item">3.8 Train a Mario-Playing RL Agent</div>
+      <div class="item">3.9 Pendulum: Writing Your Environment and Transforms with TorchRL</div>
+      <div class="item">3.10 Introduction to TorchRec</div>
+      <div class="item">3.11 Exploring TorchRec Sharding</div>
+    </div>
+    <div class="group">
+      <div class="title">4 Distributed</div>
+      <div class="item">4.1 PyTorch Distributed Overview</div>
+      <div class="item">4.2 Distributed Data Parallel in PyTorch - Video Tutorials</div>
+      <div class="item">4.3 Getting Started with Distributed Data Parallel</div>
+      <div class="item">4.4 Writing Distributed Applications with PyTorch</div>
+      <div class="item">4.5 Getting Started with Fully Sharded Data Parallel (FSDP2)</div>
+      <div class="item">4.6 Introduction to Libuv TCPStore Backend</div>
+      <div class="item">4.7 Large Scale Transformer Model Training with Tensor Parallel (TP)</div>
+      <div class="item">4.8 Introduction to Distributed Pipeline Parallelism</div>
+      <div class="item">4.9 Customize Process Group Backends Using Cpp Extensions</div>
+      <div class="item">4.10 Getting Started with Distributed RPC Framework</div>
+      <div class="item">4.11 Implementing a Parameter Server Using Distributed RPC Framework</div>
+      <div class="item">4.12 Implementing Batch RPC Processing Using Asynchronous Executions</div>
+      <div class="item">4.13 Interactive Distributed Applications with Monarch</div>
+      <div class="item">4.14 Debugging Hangs with Flight Recorder Using TorchComms and Debug Server</div>
+      <div class="item">4.15 Combining Distributed DataParallel with Distributed RPC Framework</div>
+      <div class="item">4.16 Distributed Training with Uneven Inputs Using the Join Context Manager</div>
+      <div class="item">4.17 Distributed Training at Scale with PyTorch and Ray Train</div>
+    </div>
+    <div class="group">
+      <div class="title">5 Deep Dive</div>
+      <div class="item">5.1 Profiling Your PyTorch Module</div>
+      <div class="item">5.2 CUDA Graph Kernel Annotations and Profiling</div>
+      <div class="item">5.3 Parametrizations Tutorial</div>
+      <div class="item">5.4 Pruning Tutorial</div>
+      <div class="item">5.5 Inductor CPU Backend Debugging and Profiling</div>
+      <div class="item">5.6 (Beta) Implementing High-Performance Transformers with Scaled Dot Product Attention (SDPA)</div>
+      <div class="item">5.7 Knowledge Distillation Tutorial</div>
+      <div class="item">5.8 Channels Last Memory Format in PyTorch</div>
+      <div class="item">5.9 Forward-Mode Automatic Differentiation (Beta)</div>
+      <div class="item">5.10 Jacobians, Hessians, hvp, vhp, and More: Composing Function Transforms</div>
+      <div class="item">5.11 Model Ensembling</div>
+      <div class="item">5.12 Per-Sample-Gradients</div>
+      <div class="item">5.13 Using the PyTorch C++ Frontend</div>
+      <div class="item">5.14 Autograd in C++ Frontend</div>
+    </div>
+    <div class="group">
+      <div class="title">6 Extension</div>
+      <div class="item">6.1 PyTorch Custom Operators</div>
+      <div class="item">6.2 Double Backward with Custom Functions</div>
+      <div class="item">6.3 Fusing Convolution and Batch Norm Using Custom Function</div>
+      <div class="item">6.4 Registering a Dispatched Operator in C++</div>
+      <div class="item">6.5 Extending Dispatcher for a New Backend in C++</div>
+      <div class="item">6.6 Facilitating New Backend Integration by PrivateUse1</div>
+    </div>
+    <div class="group">
+      <div class="title">7 Ecosystem</div>
+      <div class="item">7.1 Hyperparameter Tuning Using Ray Tune</div>
+      <div class="item">7.2 Serve PyTorch Models at Scale with Ray Serve</div>
+      <div class="item">7.3 Multi-Objective NAS with Ax</div>
+      <div class="item">7.4 Real Time Inference on Raspberry Pi 4 and 5 (40 fps!)</div>
+      <div class="item">7.5 Mosaic: Memory Profiling for PyTorch</div>
+      <div class="item">7.6 Distributed Training at Scale with PyTorch and Ray Train</div>
+    </div>
+    <div class="group">
+      <div class="title">8 Recipes</div>
+      <div class="item">8.1 Defining a Neural Network in PyTorch</div>
+      <div class="item">8.2 (beta) Using TORCH_LOGS Python API with torch.compile</div>
+      <div class="item">8.3 What Is a state_dict in PyTorch</div>
+      <div class="item">8.4 Warmstarting Model Using Parameters from a Different Model in PyTorch</div>
+      <div class="item">8.5 Zeroing Out Gradients in PyTorch</div>
+      <div class="item">8.6 PyTorch Profiler</div>
+      <div class="item">8.7 Model Interpretability Using Captum</div>
+      <div class="item">8.8 How to Use TensorBoard with PyTorch</div>
+      <div class="item">8.9 Automatic Mixed Precision</div>
+      <div class="item">8.10 Performance Tuning Guide</div>
+      <div class="item">8.11 (beta) Compiling the Optimizer with torch.compile</div>
+      <div class="item">8.12 Timer Quick Start</div>
+      <div class="item">8.13 Shard Optimizer States with ZeroRedundancyOptimizer</div>
+      <div class="item">8.14 Getting Started with CommDebugMode</div>
+      <div class="item">8.15 Demonstration of torch.export Flow, Common Challenges and the Solutions to Address Them</div>
+      <div class="item">8.16 PyTorch Benchmark</div>
+      <div class="item">8.17 Tips for Loading an nn.Module from a Checkpoint</div>
+      <div class="item">8.18 Reasoning About Shapes in PyTorch</div>
+      <div class="item">8.19 Extension Points in nn.Module for load_state_dict and Tensor Subclasses</div>
+      <div class="item">8.20 torch.export AOTInductor Tutorial for Python Runtime (Beta)</div>
+      <div class="item">8.21 (beta) Utilizing Torch Function Modes with torch.compile</div>
+      <div class="item">8.22 (beta) Running the Compiled Optimizer with an LR Scheduler</div>
+      <div class="item">8.23 Explicit Horizontal Fusion with foreach_map and torch.compile</div>
+      <div class="item">8.24 Using User-Defined Triton Kernels with torch.compile</div>
+      <div class="item">8.25 Compile Time Caching in torch.compile</div>
+      <div class="item">8.26 Compile Time Caching Configuration</div>
+      <div class="item">8.27 Reducing torch.compile Cold Start Compilation Time with Regional Compilation</div>
+      <div class="item">8.28 Reducing AoT Cold Start Compilation Time with Regional Compilation</div>
+      <div class="item">8.29 Ease-of-Use Quantization for PyTorch with Intel® Neural Compressor</div>
+      <div class="item">8.30 Getting Started with DeviceMesh</div>
+      <div class="item">8.31 Getting Started with Distributed Checkpoint (DCP)</div>
+      <div class="item">8.32 Asynchronous Saving with Distributed Checkpoint (DCP)</div>
+      <div class="item">8.33 DebugMode: Recording Dispatched Operations and Numerical Debugging</div>
+    </div>
+    <div class="group">
+      <div class="title">9 Unstable</div>
+      <div class="item">9.1 Introduction to Context Parallel</div>
+      <div class="item">9.2 Flight Recorder for Debugging Stuck Jobs</div>
+      <div class="item">9.3 TorchInductor C++ Wrapper Tutorial</div>
+      <div class="item">9.4 How to Use torch.compile on Windows CPU/XPU</div>
+      <div class="item">9.5 torch.vmap</div>
+      <div class="item">9.6 Getting Started with Nested Tensors</div>
+      <div class="item">9.7 MaskedTensor Overview</div>
+      <div class="item">9.8 MaskedTensor Sparsity</div>
+      <div class="item">9.9 MaskedTensor Advanced Semantics</div>
+      <div class="item">9.10 Efficiently Writing “Sparse” Semantics for Adagrad with MaskedTensor</div>
+      <div class="item">9.11 Autoloading Out-of-Tree Extension</div>
+      <div class="item">9.12 Using Max-Autotune Compilation on CPU for Better Performance</div>
+    </div>
+  </div>
+</div>
+</body></html>
