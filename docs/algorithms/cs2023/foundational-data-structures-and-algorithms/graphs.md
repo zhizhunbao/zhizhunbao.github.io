@@ -1,10 +1,10 @@
 ---
-title: "1.8 Graphs (e.g., [un]directed, [a]cyclic, [un]connected, and [un]weighted)"
+title: "1.8 Graphs"
 description: "CS2023 AL-Foundational, 1.8 Graphs (e.g., [un]directed, [a]cyclic, [un]connected, and [un]weighted) (CS Core): a. Graph representation: adjacency list vs matrix."
 ms.date: 2026-10-25
 ---
 
-# 1.8 Graphs (e.g., [un]directed, [a]cyclic, [un]connected, and [un]weighted)
+# 1.8 Graphs
 
 Sources: [CS2023 Body of Knowledge, AL-Foundational, topic 8, p. 26](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=26).
 

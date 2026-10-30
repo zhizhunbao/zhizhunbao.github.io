@@ -1,10 +1,10 @@
 ---
-title: "12.2 Ethics/privacy in graphics applications."
+title: "12.2 Ethics/privacy in graphics applications"
 description: "CS2023 GIT-SEP, 12.2 Ethics/privacy in graphics applications. (KA Core): Acquisition of private data (room scans, body proportions, active cameras, etc.), Can’t look away from immersive applications easily, Danger to self/surroundings while immersed, Ethical pitfalls of facial recognition, Misleading visualizations, Privacy regarding health and other personal information, Bias in image processing."
 ms.date: 2026-10-25
 ---
 
-# 12.2 Ethics/privacy in graphics applications.
+# 12.2 Ethics/privacy in graphics applications
 
 Sources: [CS2023 Body of Knowledge, GIT-SEP, topic 2, p. 103](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=103).
 

@@ -4,7 +4,7 @@ items:
 - name: "1. Overview of Computer Systems"
   href: overview-of-computer-systems/index.md
   items:
-  - name: "1.1 Basic Building Blocks and Components of a Computer (gates, flip-flops, registers, interconnections; datapath + control + memory)"
+  - name: "1.1 Basic Building Blocks and Components of a Computer"
     href: overview-of-computer-systems/basic-building-blocks-and-components-of-a-computer.md
   - name: "1.2 Hardware as a Computational Paradigm: Fundamental Logic Building Blocks; Logic Expressions, Minimization, Sum of Product Forms"
     href: overview-of-computer-systems/hardware-as-a-computational-paradigm-fundamental-logic-building-blocks-logic-exp.md
@@ -25,26 +25,26 @@ items:
     href: basic-concepts/simple-logic-gates-logical-expressions-boolean-logic-simplification.md
   - name: "2.3 Clocks, State, Sequencing"
     href: basic-concepts/clocks-state-sequencing.md
-  - name: "2.4 State and State Transition (e.g., starting state, final state, life cycle of states)"
+  - name: "2.4 State and State Transition"
     href: basic-concepts/state-and-state-transition.md
-  - name: "2.5 Finite State Machines (e.g., NFA, DFA)"
+  - name: "2.5 Finite State Machines"
     href: basic-concepts/finite-state-machines.md
   - name: "2.6 Combinational Logic, Sequential Logic, Registers, Memories"
     href: basic-concepts/combinational-logic-sequential-logic-registers-memories.md
   - name: "2.7 Computers and Network Protocols as Examples of State Machines"
     href: basic-concepts/computers-and-network-protocols-as-examples-of-state-machines.md
-  - name: "2.8 Sequential vs parallel processing."
+  - name: "2.8 Sequential vs parallel processing"
     href: basic-concepts/sequential-vs-parallel-processing.md
   - name: "2.9 Application-Level Sequential Processing: Single Thread"
     href: basic-concepts/application-level-sequential-processing-single-thread.md
-  - name: "2.10 Simple Application-Level Parallel Processing: Request Level (web services/client-server/distributed), Single Thread per Server, Multiple Threads with Multiple Servers, Pipelining"
+  - name: "2.10 Simple Application-Level Parallel Processing: Request Level, Single Thread per Server, Multiple Threads with Multiple Servers, Pipelining"
     href: basic-concepts/simple-application-level-parallel-processing-request-level-single-thread-per-ser.md
 - name: "3. Resource Management"
   href: resource-management/index.md
   items:
-  - name: "3.1 Different Types of Resources (e.g., processor share, memory, disk, net bandwidth)"
+  - name: "3.1 Different Types of Resources"
     href: resource-management/different-types-of-resources.md
-  - name: "3.2 Common Resource allocation/scheduling Algorithms (e.g., first-come-first-serve, priority-based scheduling, fair scheduling, and preemptive scheduling)"
+  - name: "3.2 Common Resource allocation/scheduling Algorithms"
     href: resource-management/common-resource-allocation-scheduling-algorithms.md
   - name: "3.3 Advantages and Disadvantages of Common Scheduling Algorithms"
     href: resource-management/advantages-and-disadvantages-of-common-scheduling-algorithms.md
@@ -74,15 +74,15 @@ items:
     href: performance-evaluation/performance-figures-of-merit.md
   - name: "5.2 Workloads and Representative Benchmarks, and Methods of Collecting and Analyzing Performance Figures of Merit"
     href: performance-evaluation/workloads-and-representative-benchmarks-and-methods-of-collecting-and-analyzing.md
-  - name: "5.3 CPI (Cycles per Instruction) Equation as a Tool for Understanding Tradeoffs in the Design of Instruction Sets, Processor Pipelines, and Memory System Organizations"
+  - name: "5.3 CPI Equation as a Tool for Understanding Tradeoffs in the Design of Instruction Sets, Processor Pipelines, and Memory System Organizations"
     href: performance-evaluation/cpi-equation-as-a-tool-for-understanding-tradeoffs-in-the-design-of-instruction.md
   - name: "5.4 Amdahl’s Law: The Part of the Computation That Cannot Be Sped up Limits the Effect of the Parts That Can"
     href: performance-evaluation/amdahls-law-the-part-of-the-computation-that-cannot-be-sped-up-limits-the-effect.md
-  - name: "5.5 Order of Magnitude Analysis (Big O notation)"
+  - name: "5.5 Order of Magnitude Analysis"
     href: performance-evaluation/order-of-magnitude-analysis.md
   - name: "5.6 Analysis of Slow and Fast Paths of a System"
     href: performance-evaluation/analysis-of-slow-and-fast-paths-of-a-system.md
-  - name: "5.7 Events on Their Effect on Performance (e.g., instruction stalls, cache misses, page faults)"
+  - name: "5.7 Events on Their Effect on Performance"
     href: performance-evaluation/events-on-their-effect-on-performance.md
   - name: "5.7 Analytical Tools to Guide Quantitative Evaluation"
     href: performance-evaluation/analytical-tools-to-guide-quantitative-evaluation.md
@@ -99,12 +99,12 @@ items:
     href: system-reliability/reliability-vs-availability.md
   - name: "6.3 Reliability Through Redundancy"
     href: system-reliability/reliability-through-redundancy.md
-  - name: "6.4 Other Approaches to Reliability (e.g., journaling)"
+  - name: "6.4 Other Approaches to Reliability"
     href: system-reliability/other-approaches-to-reliability.md
 - name: "7. System Security"
   href: system-security/index.md
   items:
-  - name: "7.1 Common System Security Issues (e.g., viruses, denial-of-service attacks, and eavesdropping)"
+  - name: "7.1 Common System Security Issues"
     href: system-security/common-system-security-issues.md
   - name: "7.2 Countermeasures"
     href: system-security/countermeasures.md
@@ -113,9 +113,9 @@ items:
 - name: "8. System Design"
   href: system-design/index.md
   items:
-  - name: "8.1 Common Criteria of System Design (e.g., liveness, safety, robustness, scalability, and security)"
+  - name: "8.1 Common Criteria of System Design"
     href: system-design/common-criteria-of-system-design.md
-  - name: "8.2 Designs of Representative Systems (e.g., Apache web server, Spark, and Linux)"
+  - name: "8.2 Designs of Representative Systems"
     href: system-design/designs-of-representative-systems.md
 - name: "9. Society, Ethics, and the Profession"
   href: society-ethics-and-the-profession/index.md

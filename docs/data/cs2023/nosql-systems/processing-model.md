@@ -1,10 +1,10 @@
 ---
-title: "8.7 Processing Model (e.g., Map-Reduce, multi-stage map-reduce, incremental map-reduce)"
+title: "8.7 Processing Model"
 description: "CS2023 DM-NoSQL, 8.7 Processing model (e.g., Map-Reduce, multi-stage map-reduce, incremental map-reduce) (Non-core)."
 ms.date: 2026-10-25
 ---
 
-# 8.7 Processing Model (e.g., Map-Reduce, multi-stage map-reduce, incremental map-reduce)
+# 8.7 Processing Model
 
 Sources: [CS2023 Body of Knowledge, DM-NoSQL, topic 7, p. 58](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=58).
 

@@ -1,10 +1,10 @@
 ---
-title: "8.6 Age IV (Internet): Networking, Internet Architecture, Browsers and Their Evolution, Standards, born- On-the-Internet Companies, and Services (e.g., Google, Amazon, Microsoft, etc.), Distributed Computing"
+title: "8.6 Age IV: Networking, Internet Architecture, Browsers and Their Evolution, Standards, born- On-the-Internet Companies, and Services, Distributed Computing"
 description: "CS2023 SEP-History, 8.6 Age IV (Internet): Networking, internet architecture, browsers and their evolution, standards, born- on-the-internet companies, and services (e.g., Google, Amazon, Microsoft, etc.), distributed computing (KA Core)."
 ms.date: 2026-10-25
 ---
 
-# 8.6 Age IV (Internet): Networking, Internet Architecture, Browsers and Their Evolution, Standards, born- On-the-Internet Companies, and Services (e.g., Google, Amazon, Microsoft, etc.), Distributed Computing
+# 8.6 Age IV: Networking, Internet Architecture, Browsers and Their Evolution, Standards, born- On-the-Internet Companies, and Services, Distributed Computing
 
 Sources: [CS2023 Body of Knowledge, SEP-History, topic 6, p. 220](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=220).
 

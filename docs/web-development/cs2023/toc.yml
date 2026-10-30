@@ -4,20 +4,20 @@ items:
 - name: "1. Common Aspects/Shared Concerns"
   href: common-aspects-shared-concerns/index.md
   items:
-  - name: "1.1 Overview of development platforms (i.e., web, mobile, game, robotics, embedded, and interactive)."
+  - name: "1.1 Overview of development platforms"
     href: common-aspects-shared-concerns/overview-of-development-platforms.md
   - name: "1.2 Programming via Platform-Specific Application Programming Interface (API) vs Traditional Application Construction"
     href: common-aspects-shared-concerns/programming-via-platform-specific-application-programming-interface-vs-tradition.md
-  - name: "1.3 Overview of Platform Languages (e.g., Python, Swift, Lua, Kotlin)"
+  - name: "1.3 Overview of Platform Languages"
     href: common-aspects-shared-concerns/overview-of-platform-languages.md
-  - name: "1.4 Programming under Platform Constraints and Requirements (e.g., available development tools, development, security considerations)"
+  - name: "1.4 Programming under Platform Constraints and Requirements"
     href: common-aspects-shared-concerns/programming-under-platform-constraints-and-requirements.md
   - name: "1.5 Techniques for Learning and Mastering a Platform-Specific Programming Language"
     href: common-aspects-shared-concerns/techniques-for-learning-and-mastering-a-platform-specific-programming-language.md
 - name: "2. Web Platforms"
   href: web-platforms/index.md
   items:
-  - name: "2.1 Web Programming Languages (e.g., HTML5, JavaScript, PHP, CSS)"
+  - name: "2.1 Web Programming Languages"
     href: web-platforms/web-programming-languages.md
   - name: "2.2 Web Platforms, Frameworks, or Meta-Frameworks"
     href: web-platforms/web-platforms-frameworks-or-meta-frameworks.md
@@ -61,11 +61,11 @@ items:
   items:
   - name: "4.1 Types of Robotic Platforms and Devices"
     href: robot-platforms/types-of-robotic-platforms-and-devices.md
-  - name: "4.2 Sensors, Embedded Computation, and Effectors (actuators)"
+  - name: "4.2 Sensors, Embedded Computation, and Effectors"
     href: robot-platforms/sensors-embedded-computation-and-effectors.md
   - name: "4.3 Robot-Specific Languages and Libraries"
     href: robot-platforms/robot-specific-languages-and-libraries.md
-  - name: "4.4 Robotic Software Architecture (e.g., using the Robot Operating System (ROS))"
+  - name: "4.4 Robotic Software Architecture"
     href: robot-platforms/robotic-software-architecture.md
   - name: "4.5 Robotic Platform Constraints and Design Considerations"
     href: robot-platforms/robotic-platform-constraints-and-design-considerations.md

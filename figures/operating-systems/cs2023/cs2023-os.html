@@ -21,23 +21,23 @@
       <div class="group">
         <div class="title">Role and Purpose of Operating Systems</div>
         <div class="item">Operating systems mediate between general purpose hardware and application-specific software</div>
-        <div class="item">Universal operating system functions (e.g., process, user and device interfaces, persistence of data)</div>
-        <div class="item">Extended and/or specialized operating system functions (e.g., embedded systems, server types such as file, web, multimedia, boot loaders and boot security)</div>
-        <div class="item">Design issues (e.g., efficiency, robustness, flexibility, portability, security, compatibility, power, safety, tradeoffs between error checking and performance, flexibility and performance, and security and performance)</div>
+        <div class="item">Universal operating system functions</div>
+        <div class="item">Extended and/or specialized operating system functions</div>
+        <div class="item">Design issues</div>
         <div class="item">Influences of security, networking, multimedia, parallel and distributed computing</div>
-        <div class="item">Overarching concern of security/protection: Neglecting to consider security at every layer creates an opportunity to inappropriately access resources. Example concepts</div>
+        <div class="item">Overarching concern of security/protection: Neglecting to consider security at every layer creates an opportunity to inappropriately access resources</div>
         <div class="item">Exposure of operating systems functions in shells and systems programming</div>
       </div>
     </div>
     <div class="col">
       <div class="group">
         <div class="title">Principles of Operating System</div>
-        <div class="item">Operating system software design and approaches (e.g., monolithic, layered, modular, micro- kernel, unikernel)</div>
+        <div class="item">Operating system software design and approaches</div>
         <div class="item">Abstractions, processes, and resources</div>
-        <div class="item">Concept of system calls and links to application program interfaces (e.g., Win32, Java, Posix)</div>
+        <div class="item">Concept of system calls and links to application program interfaces</div>
         <div class="item">The evolution of the link between hardware architecture and the operating system functions</div>
-        <div class="item">Protection of resources means protecting some machine instructions/functions Example concepts</div>
-        <div class="item">Leveraging interrupts from hardware level: service routines and implementations. Example concepts</div>
+        <div class="item">Protection of resources means protecting some machine instructions/functions</div>
+        <div class="item">Leveraging interrupts from hardware level: service routines and implementations</div>
         <div class="item">Concept of user/system state and protection, transition to kernel mode using system calls</div>
         <div class="item">Mechanism for invoking system calls, the corresponding mode and context switch and return from interrupt</div>
         <div class="item">Performance costs of context switches and associated cache flushes when performing process switches in Spectre-mitigated environments</div>
@@ -47,27 +47,27 @@
       <div class="group">
         <div class="title">Concurrency</div>
         <div class="item">Thread abstraction relative to concurrency</div>
-        <div class="item">Race conditions, critical regions (role of interrupts, if needed)</div>
+        <div class="item">Race conditions, critical regions</div>
         <div class="item">Deadlocks and starvation</div>
-        <div class="item">Multiprocessor issues (spin-locks, reentrancy)</div>
+        <div class="item">Multiprocessor issues</div>
         <div class="item">Multiprocess concurrency vs multithreading</div>
         <div class="item">Thread creation, states, structures</div>
         <div class="item">Thread APIs</div>
-        <div class="item">Deadlocks and starvation (necessary conditions/mitigations)</div>
-        <div class="item">Implementing thread safe code (semaphores, mutex locks, condition variables)</div>
+        <div class="item">Deadlocks and starvation</div>
+        <div class="item">Implementing thread safe code</div>
         <div class="item">Race conditions in shared memory</div>
-        <div class="item">Managing atomic access to OS objects (e.g., big kernel lock vs many small locks vs lockless data structures like lists)</div>
+        <div class="item">Managing atomic access to OS objects</div>
       </div>
     </div>
     <div class="col">
       <div class="group">
         <div class="title">Protection and Safety</div>
         <div class="item">Overview of operating system security mechanisms</div>
-        <div class="item">Attacks and antagonism (scheduling, etc.)</div>
+        <div class="item">Attacks and antagonism</div>
         <div class="item">Review of major vulnerabilities in real operating systems</div>
         <div class="item">Operating systems mitigation strategies such as backups</div>
         <div class="item">Policy/mechanism separation</div>
-        <div class="item">Security methods and devices Example concepts</div>
+        <div class="item">Security methods and devices</div>
         <div class="item">Protection, access control, and authentication</div>
       </div>
     </div>
@@ -77,9 +77,9 @@
       <div class="group">
         <div class="title">Scheduling</div>
         <div class="item">Preemptive and non-preemptive scheduling</div>
-        <div class="item">Schedulers and policies (e.g., first come, first serve, shortest job first, priority, round robin, multilevel)</div>
+        <div class="item">Schedulers and policies</div>
         <div class="item">Concepts of Symmetric Multi-Processor (SMP) scheduling and cache coherence</div>
-        <div class="item">Timers (e.g., building many timers out of finite hardware timers)</div>
+        <div class="item">Timers</div>
         <div class="item">Fairness and starvation</div>
         <div class="item">Subtopics of operating systems such as energy-aware scheduling and real-time scheduling</div>
         <div class="item">Cooperative scheduling, such as Linux futexes and userland scheduling</div>
@@ -89,10 +89,10 @@
       <div class="group">
         <div class="title">Process Model</div>
         <div class="item">Processes and threads relative to virtualization protected memory, process state, memory isolation, etc</div>
-        <div class="item">Memory footprint/segmentation (e.g., stack, heap, etc.)</div>
+        <div class="item">Memory footprint/segmentation</div>
         <div class="item">Creating and loading executables, shared libraries, and dynamic linking</div>
         <div class="item">Dispatching and context switching</div>
-        <div class="item">Interprocess communication (e.g., shared memory, message passing, signals, environment variables)</div>
+        <div class="item">Interprocess communication</div>
       </div>
     </div>
     <div class="col">
@@ -102,7 +102,7 @@
         <div class="item">Impact of memory hierarchy including cache concept, cache lookup, and per-CPU caching on operating system mechanisms and policy</div>
         <div class="item">Logical and physical addressing, address space virtualization</div>
         <div class="item">Concepts of paging, page replacement, thrashing and allocation of pages and frames</div>
-        <div class="item">Allocation/deallocation/storage techniques (algorithms and data structure) performance and flexibility Example concept: Arenas, slab allocators, free lists, size classes, heterogeneously sized pages (huge pages)</div>
+        <div class="item">Allocation/deallocation/storage techniques performance and flexibility</div>
         <div class="item">Memory caching and cache coherence and the effect of flushing the cache to avoid speculative execution vulnerabilities</div>
         <div class="item">Security mechanisms and concepts in memory management including sandboxing, protection, isolation, and relevant vectors of attack</div>
         <div class="item">Virtual memory: leveraging virtual memory hardware for OS services and efficiency</div>
@@ -112,8 +112,8 @@
       <div class="group">
         <div class="title">Device management</div>
         <div class="item">Buffering strategies</div>
-        <div class="item">Direct Memory Access (DMA) and polled I/O, Memory-mapped I/O Example concept: DMA communication protocols (e.g., ring buffers etc.)</div>
-        <div class="item">Historical and contextual - Persistent storage device management (e.g., magnetic, Solid State Device (SSD))</div>
+        <div class="item">Direct Memory Access (DMA) and polled I/O, Memory-mapped I/O</div>
+        <div class="item">Historical and contextual - Persistent storage device management</div>
         <div class="item">Device interface abstractions, hardware abstraction layer</div>
         <div class="item">Device driver purpose, abstraction, implementation, and testing challenges</div>
         <div class="item">High-level fault tolerance in device communication</div>
@@ -129,8 +129,8 @@
         <div class="item">File access control</div>
         <div class="item">File sharing</div>
         <div class="item">Basic file allocation methods, including linked allocation table</div>
-        <div class="item">File system structures comprising file allocation including various directory structures and methods for uniquely identifying files (e.g., name, identified or metadata storage location)</div>
-        <div class="item">Allocation/deallocation/storage techniques (algorithms and data structure) impact on performance and flexibility (i.e., internal and external fragmentation and compaction)</div>
+        <div class="item">File system structures comprising file allocation including various directory structures and methods for uniquely identifying files</div>
+        <div class="item">Allocation/deallocation/storage techniques impact on performance and flexibility</div>
         <div class="item">Free space management such as using bit tables vs linking</div>
         <div class="item">Implementation of directories to segment and track file location</div>
       </div>
@@ -156,8 +156,8 @@
         <div class="item">Advanced paging and virtual memory</div>
         <div class="item">Virtual file systems and virtual devices</div>
         <div class="item">Containers and their comparison to virtual machines</div>
-        <div class="item">Thrashing (e.g., Popek and Goldberg requirements for recursively virtualizable systems)</div>
-        <div class="item">Types of virtualizations (including hardware/software, OS, server, service, network)</div>
+        <div class="item">Thrashing</div>
+        <div class="item">Types of virtualizations</div>
         <div class="item">Portable virtualization; emulation vs isolation</div>
         <div class="item">Cost of virtualization</div>
         <div class="item">Virtual machines and container escapes, dangers from a security perspective</div>
@@ -172,7 +172,7 @@
         <div class="item">Low-latency vs ”soft real-time" vs "hard real time."</div>
         <div class="item">Memory/disk management requirements in a real-time environment</div>
         <div class="item">Failures, risks, and recovery</div>
-        <div class="item">Special concerns in real-time systems (safety)</div>
+        <div class="item">Special concerns in real-time systems</div>
       </div>
     </div>
   </div>
@@ -187,15 +187,15 @@
         <div class="item">Error identification and correction mechanisms, checksums of volatile memory in RAM</div>
         <div class="item">File system consistency check and recovery</div>
         <div class="item">Journaling and log-structured file systems</div>
-        <div class="item">Use-cases for fault-tolerance (databases, safety-critical)</div>
+        <div class="item">Use-cases for fault-tolerance</div>
         <div class="item">Examples of OS mechanisms for detection, recovery, restart to implement fault tolerance, use of these techniques for the OS’s own services</div>
       </div>
     </div>
     <div class="col">
       <div class="group">
         <div class="title">Society, Ethics, and the Profession</div>
-        <div class="item">Open source in operating systems. Example concepts</div>
-        <div class="item">End-of-life issues with sunsetting operating systems. Example concept: Privacy implications of using proprietary operating systems/operating environments, including telemetry, automated scanning of personal data, built-in advertising, and automatic cloud integration</div>
+        <div class="item">Open source in operating systems</div>
+        <div class="item">End-of-life issues with sunsetting operating systems</div>
       </div>
     </div>
   </div>

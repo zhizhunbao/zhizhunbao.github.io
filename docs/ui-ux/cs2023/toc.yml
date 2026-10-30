@@ -4,13 +4,13 @@ items:
 - name: "1. Understanding the User: Individual Goals and Interactions with Others"
   href: understanding-the-user-individual-goals-and-interactions-with-others/index.md
   items:
-  - name: "1.1 User-centered design and evaluation methods."
+  - name: "1.1 User-centered design and evaluation methods"
     href: understanding-the-user-individual-goals-and-interactions-with-others/user-centered-design-and-evaluation-methods.md
-  - name: "1.2 User-centered design methodology."
+  - name: "1.2 User-centered design methodology"
     href: understanding-the-user-individual-goals-and-interactions-with-others/user-centered-design-methodology.md
   - name: "1.3 Physical and Cognitive Characteristics of the User"
     href: understanding-the-user-individual-goals-and-interactions-with-others/physical-and-cognitive-characteristics-of-the-user.md
-  - name: "1.4 Designing for diverse user populations."
+  - name: "1.4 Designing for diverse user populations"
     href: understanding-the-user-individual-goals-and-interactions-with-others/designing-for-diverse-user-populations.md
   - name: "1.5 Collaboration and Communication"
     href: understanding-the-user-individual-goals-and-interactions-with-others/collaboration-and-communication.md
@@ -38,7 +38,7 @@ items:
     href: accessibility-and-inclusive-design/techniques.md
   - name: "3.3 Technologies"
     href: accessibility-and-inclusive-design/technologies.md
-  - name: "3.4 IDFs (Inclusive Design Frameworks)"
+  - name: "3.4 IDFs"
     href: accessibility-and-inclusive-design/idfs.md
   - name: "3.5 Universal Design"
     href: accessibility-and-inclusive-design/universal-design.md
@@ -56,7 +56,7 @@ items:
     href: accessibility-and-inclusive-design/technologies-the-return-on-investment-of-inclusion.md
   - name: "3.12 Inclusive Design Frameworks: User-Sensitive Inclusive Design"
     href: accessibility-and-inclusive-design/inclusive-design-frameworks-user-sensitive-inclusive-design.md
-  - name: "3.13 Critical Approaches to HCI (e.g., inclusivity)"
+  - name: "3.13 Critical Approaches to HCI"
     href: accessibility-and-inclusive-design/critical-approaches-to-hci.md
 - name: "4. Evaluating the Design"
   href: evaluating-the-design/index.md
@@ -67,7 +67,7 @@ items:
     href: evaluating-the-design/methods-for-evaluation-with-users-ka-core.md
   - name: "4.3 Study Planning"
     href: evaluating-the-design/study-planning.md
-  - name: "4.4 Implications and impacts of design with respect to the environment, material, society, security, privacy, ethics, and broader impacts."
+  - name: "4.4 Implications and impacts of design with respect to the environment, material, society, security, privacy, ethics, and broader impacts"
     href: evaluating-the-design/implications-and-impacts-of-design-with-respect-to-the-environment-material-soci.md
   - name: "4.5 Techniques and Tools for Quantitative Analysis"
     href: evaluating-the-design/techniques-and-tools-for-quantitative-analysis.md

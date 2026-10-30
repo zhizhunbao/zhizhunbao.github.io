@@ -4,19 +4,19 @@ items:
 - name: "1. Social Context"
   href: social-context/index.md
   items:
-  - name: "1.1 Social implications (e.g., political and cultural ideologies) in a hyper-networked world where the capabilities and impact of social media, artificial intelligence, and computing in general are rapidly evolving."
+  - name: "1.1 Social implications in a hyper-networked world where the capabilities and impact of social media, artificial intelligence, and computing in general are rapidly evolving"
     href: social-context/social-implications-in-a-hyper-networked-world-where-the-capabilities-and-impact.md
-  - name: "1.2 Impact of computing applications (e.g., social media, artificial intelligence applications) on individual well-being, and safety of all kinds (e.g., physical, emotional, economic)."
+  - name: "1.2 Impact of computing applications on individual well-being, and safety of all kinds"
     href: social-context/impact-of-computing-applications-on-individual-well-being-and-safety-of-all-kind.md
-  - name: "1.3 Consequences of involving computing technologies, particularly artificial intelligence, biometric technologies, and algorithmic decision-making systems, in civic life (e.g., facial recognition technology, biometric tags, resource distribution algorithms, policing software) and how human agency and oversight is crucial."
+  - name: "1.3 Consequences of involving computing technologies, particularly artificial intelligence, biometric technologies, and algorithmic decision-making systems, in civic life and how human agency and oversight is crucial"
     href: social-context/consequences-of-involving-computing-technologies-particularly-artificial-intelli.md
-  - name: "1.4 How deficits in diversity and accessibility in computing affect society and what steps can be taken to improve equity in computing."
+  - name: "1.4 How deficits in diversity and accessibility in computing affect society and what steps can be taken to improve equity in computing"
     href: social-context/how-deficits-in-diversity-and-accessibility-in-computing-affect-society-and-what.md
   - name: "1.5 Growth and Control of the Internet, Data, Computing, and Artificial Intelligence"
     href: social-context/growth-and-control-of-the-internet-data-computing-and-artificial-intelligence.md
-  - name: "1.6 Often referred to as the digital divide, differences in access to digital technology resources and its resulting ramifications for gender, class, ethnicity, geography, and/or developing countries, including consideration of responsibility to those who might be less wealthy, under threat, or who would struggle to have their voices heard."
+  - name: "1.6 Often referred to as the digital divide, differences in access to digital technology resources and its resulting ramifications for gender, class, ethnicity, geography, and/or developing countries, including consideration of responsibility to those who might be less wealthy, under threat, or who would struggle to have their voices heard"
     href: social-context/often-referred-to-as-the-digital-divide-differences-in-access-to-digital-technol.md
-  - name: "1.7 Accessibility Issues, Including Legal Requirements Such as Web Content Accessibility Guidelines (www.w3.org/TR/WCAG21)"
+  - name: "1.7 Accessibility Issues, Including Legal Requirements Such as Web Content Accessibility Guidelines"
     href: social-context/accessibility-issues-including-legal-requirements-such-as-web-content-accessibil.md
   - name: "1.8 Context-Aware Computing"
     href: social-context/context-aware-computing.md
@@ -25,7 +25,7 @@ items:
   items:
   - name: "2.1 Avoiding Fallacies and Misrepresentation in Argumentation"
     href: methods-for-ethical-analysis/avoiding-fallacies-and-misrepresentation-in-argumentation.md
-  - name: "2.2 Ethical Theories and Decision-Making (philosophical and social frameworks, e.g. [1])"
+  - name: "2.2 Ethical Theories and Decision-Making"
     href: methods-for-ethical-analysis/ethical-theories-and-decision-making.md
   - name: "2.3 Recognition of the Role Culture Plays in Our Understanding, Adoption, Design, and Use of Computing Technology"
     href: methods-for-ethical-analysis/recognition-of-the-role-culture-plays-in-our-understanding-adoption-design-and-u.md
@@ -39,7 +39,7 @@ items:
     href: methods-for-ethical-analysis/stakeholder-analysis.md
   - name: "2.8 Standpoint Theory"
     href: methods-for-ethical-analysis/standpoint-theory.md
-  - name: "2.9 Introduction to Ethical Frameworks (e.g., consequentialism such as utilitarianism, non- consequentialism such as duty, rights, or justice, agent-centered such as virtue or feminism, contractarianism, ethics of care) and Their Use for Analyzing an Ethical Dilemma"
+  - name: "2.9 Introduction to Ethical Frameworks and Their Use for Analyzing an Ethical Dilemma"
     href: methods-for-ethical-analysis/introduction-to-ethical-frameworks-and-their-use-for-analyzing-an-ethical-dilemm.md
 - name: "3. Professional Ethics"
   href: professional-ethics/index.md
@@ -52,11 +52,11 @@ items:
     href: professional-ethics/keeping-up-to-date-as-a-computing-professional-in-terms-of-familiarity-tools-ski.md
   - name: "3.4 Professional Certification, Codes of Ethics, Conduct, and Practice, Such as the ACM, IEEE, AAAI, and Other International Societies"
     href: professional-ethics/professional-certification-codes-of-ethics-conduct-and-practice-such-as-the-acm.md
-  - name: "3.5 Accountability, responsibility, and liability (e.g., software correctness, reliability and safety, warranty, negligence, strict liability, ethical approaches to security vulnerability disclosures) including whether a product/service should be built, not just doing so because it is technically possible."
+  - name: "3.5 Accountability, responsibility, and liability including whether a product/service should be built, not just doing so because it is technically possible"
     href: professional-ethics/accountability-responsibility-and-liability-including-whether-a-product-service.md
   - name: "3.6 Introduction to Theories Describing the Human Creation and Use of Technology Including Instrumentalism, Sociology of Technological Systems, Disability Justice, Neutrality Thesis, Pragmatism, and Decolonial Models, Including Developing and Using Technology to Right Wrongs and Do Good"
     href: professional-ethics/introduction-to-theories-describing-the-human-creation-and-use-of-technology-inc.md
-  - name: "3.7 Strategies for Recognizing and Reporting Designs, Systems, Software, and Professional Conduct (or their outcomes) That May Violate Law or Professional Codes of Ethics"
+  - name: "3.7 Strategies for Recognizing and Reporting Designs, Systems, Software, and Professional Conduct That May Violate Law or Professional Codes of Ethics"
     href: professional-ethics/strategies-for-recognizing-and-reporting-designs-systems-software-and-profession.md
   - name: "3.8 The Role of the Computing Professional and Professional Societies in Public Policy"
     href: professional-ethics/the-role-of-the-computing-professional-and-professional-societies-in-public-poli.md
@@ -83,13 +83,13 @@ items:
     href: intellectual-property/intangible-digital-intellectual-property.md
   - name: "4.3 Legal Foundations for Intellectual Property Protection"
     href: intellectual-property/legal-foundations-for-intellectual-property-protection.md
-  - name: "4.4 Common Software Licenses (e.g., MIT, GPL and its variants, Apache, Mozilla, Creative Commons)"
+  - name: "4.4 Common Software Licenses"
     href: intellectual-property/common-software-licenses.md
   - name: "4.5 Plagiarism and Authorship"
     href: intellectual-property/plagiarism-and-authorship.md
   - name: "4.6 Philosophical Foundations of Intellectual Property"
     href: intellectual-property/philosophical-foundations-of-intellectual-property.md
-  - name: "4.7 Forms of Intellectual Property (e.g., copyrights, patents, trade secrets, trademarks) and the Rights They Protect"
+  - name: "4.7 Forms of Intellectual Property and the Rights They Protect"
     href: intellectual-property/forms-of-intellectual-property-and-the-rights-they-protect.md
   - name: "4.8 Limitations on Copyright Protections, Including Fair Use and the First Sale Doctrine"
     href: intellectual-property/limitations-on-copyright-protections-including-fair-use-and-the-first-sale-doctr.md
@@ -99,7 +99,7 @@ items:
     href: intellectual-property/software-piracy-and-technical-methods-for-enforcing-intellectual-property-rights.md
   - name: "4.11 Moral and Legal Foundations of the Open-Source Movement"
     href: intellectual-property/moral-and-legal-foundations-of-the-open-source-movement.md
-  - name: "4.12 Systems That Use Others’ Data (e.g., large language models)"
+  - name: "4.12 Systems That Use Others’ Data"
     href: intellectual-property/systems-that-use-others-data.md
 - name: "5. Privacy and Civil Liberties"
   href: privacy-and-civil-liberties/index.md
@@ -108,17 +108,17 @@ items:
     href: privacy-and-civil-liberties/privacy-implications-of-widespread-data-collection-including-but-not-limited-to.md
   - name: "5.2 Conceptions of Anonymity, Pseudonymity, and Identity"
     href: privacy-and-civil-liberties/conceptions-of-anonymity-pseudonymity-and-identity.md
-  - name: "5.3 Technology-Based Solutions for Privacy Protection (e.g., end-to-end encryption and differential privacy)"
+  - name: "5.3 Technology-Based Solutions for Privacy Protection"
     href: privacy-and-civil-liberties/technology-based-solutions-for-privacy-protection.md
   - name: "5.4 Civil Liberties, Privacy Rights, and Cultural Differences"
     href: privacy-and-civil-liberties/civil-liberties-privacy-rights-and-cultural-differences.md
   - name: "5.5 Philosophical and Legal Conceptions of the Nature of Privacy Including the Right to Privacy"
     href: privacy-and-civil-liberties/philosophical-and-legal-conceptions-of-the-nature-of-privacy-including-the-right.md
-  - name: "5.6 Legal Foundations of Privacy Protection in Relevant Jurisdictions (e.g., GDPR in the EU)"
+  - name: "5.6 Legal Foundations of Privacy Protection in Relevant Jurisdictions"
     href: privacy-and-civil-liberties/legal-foundations-of-privacy-protection-in-relevant-jurisdictions.md
-  - name: "5.7 Privacy Legislation in Areas of Practice (e.g., HIPAA in the US, AI Act in the EU)"
+  - name: "5.7 Privacy Legislation in Areas of Practice"
     href: privacy-and-civil-liberties/privacy-legislation-in-areas-of-practice.md
-  - name: "5.8 Basic Principles of Human-Subjects Research and Principles Beyond What the Law Requires (e.g., Belmont Report, UN Universal Declaration on Human Rights and how this relates to technology)"
+  - name: "5.8 Basic Principles of Human-Subjects Research and Principles Beyond What the Law Requires"
     href: privacy-and-civil-liberties/basic-principles-of-human-subjects-research-and-principles-beyond-what-the-law-r.md
   - name: "5.9 Freedom of Expression and Its Limitations"
     href: privacy-and-civil-liberties/freedom-of-expression-and-its-limitations.md
@@ -129,11 +129,11 @@ items:
   items:
   - name: "6.1 Oral, Written, and Electronic Team and Group Communication"
     href: communication/oral-written-and-electronic-team-and-group-communication.md
-  - name: "6.2 Technical Communication Materials (e.g., source code, and documentation, tutorials, reference materials, API documentation)"
+  - name: "6.2 Technical Communication Materials"
     href: communication/technical-communication-materials.md
   - name: "6.3 Communicating with Different Stakeholders Such as Customers, Leadership, or the Public"
     href: communication/communicating-with-different-stakeholders-such-as-customers-leadership-or-the-pu.md
-  - name: "6.4 Team Collaboration (including tools) and Conflict Resolution"
+  - name: "6.4 Team Collaboration and Conflict Resolution"
     href: communication/team-collaboration-and-conflict-resolution.md
   - name: "6.5 Accessibility and Inclusivity Requirements for Addressing Professional Audiences"
     href: communication/accessibility-and-inclusivity-requirements-for-addressing-professional-audiences.md
@@ -146,34 +146,34 @@ items:
 - name: "7. Sustainability"
   href: sustainability/index.md
   items:
-  - name: "7.1 Environmental, Social, and Cultural Impacts of Implementation Decisions (e.g., sustainability goals, algorithmic bias/outcomes, economic viability, and resource consumption)"
+  - name: "7.1 Environmental, Social, and Cultural Impacts of Implementation Decisions"
     href: sustainability/environmental-social-and-cultural-impacts-of-implementation-decisions.md
-  - name: "7.2 Local/regional/global social and environmental impacts of computing systems and their use (e.g., carbon footprints, resource usage, e-waste) due to hardware (e.g., e-waste, data centers, rare element and resource utilization, recycling) and software (e.g., cloud-based services, blockchain, AI model training and use). This includes everyday use of hardware (cheap hardware replaced frequently) and software (web-browsing, email, and other services with hidden/remote computational demands)."
+  - name: "7.2 Local/regional/global social and environmental impacts of computing systems and their use due to hardware and software. This includes everyday use of hardware and software"
     href: sustainability/local-regional-global-social-and-environmental-impacts-of-computing-systems-and.md
-  - name: "7.3 Guidelines for sustainable design standards."
+  - name: "7.3 Guidelines for sustainable design standards"
     href: sustainability/guidelines-for-sustainable-design-standards.md
-  - name: "7.4 Systemic effects of complex computing technologies and phenomena (e.g., generative AI, data centers, social media, offshoring, remote work)."
+  - name: "7.4 Systemic effects of complex computing technologies and phenomena"
     href: sustainability/systemic-effects-of-complex-computing-technologies-and-phenomena.md
-  - name: "7.5 Pervasive computing: Information processing that has been integrated into everyday objects and activities, such as smart energy systems, social networking, and feedback systems to promote sustainable behavior, transportation, environmental monitoring, citizen science and activism."
+  - name: "7.5 Pervasive computing: Information processing that has been integrated into everyday objects and activities, such as smart energy systems, social networking, and feedback systems to promote sustainable behavior, transportation, environmental monitoring, citizen science and activism"
     href: sustainability/pervasive-computing-information-processing-that-has-been-integrated-into-everyda.md
-  - name: "7.6 How the sustainability of software systems is interdependent with social systems, including the knowledge and skills of its users, organizational processes and policies, and its societal context (e.g., market forces, government policies)."
+  - name: "7.6 How the sustainability of software systems is interdependent with social systems, including the knowledge and skills of its users, organizational processes and policies, and its societal context"
     href: sustainability/how-the-sustainability-of-software-systems-is-interdependent-with-social-systems.md
 - name: "8. Computing History"
   href: computing-history/index.md
   items:
-  - name: "8.1 The history of computing: hardware, software, and human/organizational."
+  - name: "8.1 The history of computing: hardware, software, and human/organizational"
     href: computing-history/the-history-of-computing-hardware-software-and-human-organizational.md
-  - name: "8.2 The role of history in the present including within different social contexts, and the relevance of this history on the future."
+  - name: "8.2 The role of history in the present including within different social contexts, and the relevance of this history on the future"
     href: computing-history/the-role-of-history-in-the-present-including-within-different-social-contexts-an.md
-  - name: "8.3 Age I (Pre-digital): Ancient Analog Computing (Stonehenge, Antikythera mechanism, Salisbury Cathedral clock, etc.), Human-Calculated Number Tables, Euclid, Lovelace, Babbage, Gödel, Church, Turing, Pre-Electronic (electro-mechanical and mechanical) Hardware"
+  - name: "8.3 Age I: Ancient Analog Computing, Human-Calculated Number Tables, Euclid, Lovelace, Babbage, Gödel, Church, Turing, Pre-Electronic Hardware"
     href: computing-history/age-i-ancient-analog-computing-human-calculated-number-tables-euclid-lovelace-ba.md
-  - name: "8.4 Age II (Early modern computing): ENIAC, UNIVAC, Bombes (Bletchley Park and codebreakers), computer companies (e.g., IBM), mainframes, etc."
+  - name: "8.4 Age II: ENIAC, UNIVAC, Bombes, computer companies, mainframes, etc"
     href: computing-history/age-ii-eniac-univac-bombes-computer-companies-mainframes-etc.md
-  - name: "8.5 Age III (PC era): PCs, Modern Computer Hardware and Software, Moore’s Law"
+  - name: "8.5 Age III: PCs, Modern Computer Hardware and Software, Moore’s Law"
     href: computing-history/age-iii-pcs-modern-computer-hardware-and-software-moores-law.md
-  - name: "8.6 Age IV (Internet): Networking, Internet Architecture, Browsers and Their Evolution, Standards, born- On-the-Internet Companies, and Services (e.g., Google, Amazon, Microsoft, etc.), Distributed Computing"
+  - name: "8.6 Age IV: Networking, Internet Architecture, Browsers and Their Evolution, Standards, born- On-the-Internet Companies, and Services, Distributed Computing"
     href: computing-history/age-iv-networking-internet-architecture-browsers-and-their-evolution-standards-b.md
-  - name: "8.7 Age V (Mobile & Cloud): Mobile Computing and Smartphones, Cloud Computing and Models Thereof (e.g., SaaS), Remote Servers, Security and Privacy, Social Media"
+  - name: "8.7 Age V: Mobile Computing and Smartphones, Cloud Computing and Models Thereof, Remote Servers, Security and Privacy, Social Media"
     href: computing-history/age-v-mobile-computing-and-smartphones-cloud-computing-and-models-thereof-remote.md
   - name: "8.8 Age VI (AI): Decision Making Systems, Recommender Systems, Generative AI and Other Machine Learning Driven Tools and Technologies"
     href: computing-history/age-vi-decision-making-systems-recommender-systems-generative-ai-and-other-machi.md
@@ -188,7 +188,7 @@ items:
     href: economies-of-computing/impacts-of-differences-in-access-to-computing-resources-and-the-effect-of-skille.md
   - name: "9.4 Automation, AI, and Their Effects on Job Markets, Developers, and Users"
     href: economies-of-computing/automation-ai-and-their-effects-on-job-markets-developers-and-users.md
-  - name: "9.5 Ethical Concerns Surrounding the Attention Economy and Other Economies of Computing (e.g. informed consent, data collection, use of verbose legalese in user agreements)"
+  - name: "9.5 Ethical Concerns Surrounding the Attention Economy and Other Economies of Computing"
     href: economies-of-computing/ethical-concerns-surrounding-the-attention-economy-and-other-economies-of-comput.md
 - name: "10. Security Policies, Laws and Computer Crimes"
   href: security-policies-laws-and-computer-crimes/index.md
@@ -203,7 +203,7 @@ items:
     href: security-policies-laws-and-computer-crimes/malware-viruses-worms.md
   - name: "10.5 Attacks on Critical Infrastructure Such as Electrical Grids and Pipelines"
     href: security-policies-laws-and-computer-crimes/attacks-on-critical-infrastructure-such-as-electrical-grids-and-pipelines.md
-  - name: "10.6 Non-Technical Fundamentals of Security (e.g., human engineering, policy, confidentiality)"
+  - name: "10.6 Non-Technical Fundamentals of Security"
     href: security-policies-laws-and-computer-crimes/non-technical-fundamentals-of-security.md
   - name: "10.7 Benefits and Challenges of Existing and Proposed Computer Crime Laws"
     href: security-policies-laws-and-computer-crimes/benefits-and-challenges-of-existing-and-proposed-computer-crime-laws.md
@@ -216,7 +216,7 @@ items:
 - name: "11. Diversity, Equity, Inclusion, and Accessibility"
   href: diversity-equity-inclusion-and-accessibility/index.md
   items:
-  - name: "11.1 How Identity Impacts and Is Impacted by Computing Technologies and Environments (academic and professional)"
+  - name: "11.1 How Identity Impacts and Is Impacted by Computing Technologies and Environments"
     href: diversity-equity-inclusion-and-accessibility/how-identity-impacts-and-is-impacted-by-computing-technologies-and-environments.md
   - name: "11.2 The Benefits of Diverse Development Teams and the Impacts of Teams That Are Not Diverse"
     href: diversity-equity-inclusion-and-accessibility/the-benefits-of-diverse-development-teams-and-the-impacts-of-teams-that-are-not.md

@@ -18,7 +18,7 @@ items:
     href: foundational-security/optimization-considerations-between-security-privacy-performance-and-other-desig.md
   - name: "1.7 Impact of AI on Security and Privacy: Using AI to Bolster Defenses as Well as Address Increased Adversarial Capabilities Due to AI"
     href: foundational-security/impact-of-ai-on-security-and-privacy-using-ai-to-bolster-defenses-as-well-as-add.md
-  - name: "1.8 Access Control Models (e.g., discretionary, mandatory, role-based, and attribute-based)"
+  - name: "1.8 Access Control Models"
     href: foundational-security/access-control-models.md
   - name: "1.9 Security Controls"
     href: foundational-security/security-controls.md
@@ -32,7 +32,7 @@ items:
     href: foundational-security/principles-of-usable-security-and-human-centered-computing.md
   - name: "1.14 Security and Trust in AI/machine Learning Systems, e.g., Fit for Purpose, Ethical Operating Boundaries, Authoritative Knowledge Sources, Verified Training Data, Repeatable System Evaluation Tests, System Attestation, Independent validation/certification; Unintended Consequences from: Adverse Effect"
     href: foundational-security/security-and-trust-in-ai-machine-learning-systems-e-g-fit-for-purpose-ethical-op.md
-  - name: "1.15 Security Risks in Building and Operating AI/machine Learning Systems (e.g., algorithm bias, knowledge corpus bias, training corpus bias, copyright violation)"
+  - name: "1.15 Security Risks in Building and Operating AI/machine Learning Systems"
     href: foundational-security/security-risks-in-building-and-operating-ai-machine-learning-systems.md
   - name: "1.16 Hardware Considerations in Security, e.g., Principles of Secure Hardware, Secure Processor Architectures, Cryptographic Acceleration, Compartmentalization, Software-Hardware Interaction"
     href: foundational-security/hardware-considerations-in-security-e-g-principles-of-secure-hardware-secure-pro.md
@@ -86,7 +86,7 @@ items:
     href: secure-coding/secure-use-of-third-party-components.md
   - name: "3.14 Malware: Varieties, Creation, Reverse Engineering, and Defense Against Them"
     href: secure-coding/malware-varieties-creation-reverse-engineering-and-defense-against-them.md
-  - name: "3.15 Assurance: Testing (including fuzzing and penetration testing), Verification, and Validation"
+  - name: "3.15 Assurance: Testing, Verification, and Validation"
     href: secure-coding/assurance-testing-verification-and-validation.md
   - name: "3.16 Static and Dynamic Analyses"
     href: secure-coding/static-and-dynamic-analyses.md
@@ -119,7 +119,7 @@ items:
     href: cryptography/data-integrity-and-authentication-hashing-and-digital-signatures.md
   - name: "4.12 Cryptographic Protocols: Challenge-Response Authentication, Zero-Knowledge Protocols, Commitment, Oblivious Transfer, Secure two- or Multi-Party Computation, Hash Functions, Secret Sharing, and Applications"
     href: cryptography/cryptographic-protocols-challenge-response-authentication-zero-knowledge-protoco.md
-  - name: "4.13 Attacker Capabilities: Chosen-Message Attack (for signatures), Birthday Attacks, Side Channel Attacks, and Fault Injection Attacks"
+  - name: "4.13 Attacker Capabilities: Chosen-Message Attack, Birthday Attacks, Side Channel Attacks, and Fault Injection Attacks"
     href: cryptography/attacker-capabilities-chosen-message-attack-birthday-attacks-side-channel-attack.md
   - name: "4.14 Quantum Cryptography; Post Quantum/Quantum Resistant Cryptography"
     href: cryptography/quantum-cryptography-post-quantum-quantum-resistant-cryptography.md

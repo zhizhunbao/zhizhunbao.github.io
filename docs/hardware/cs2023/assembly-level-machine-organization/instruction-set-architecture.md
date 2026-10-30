@@ -1,10 +1,10 @@
 ---
-title: "3.5 Instruction Set Architecture (ISA) (e.g., x86, ARM and RISC-V)"
+title: "3.5 Instruction Set Architecture (ISA)"
 description: "CS2023 AR-Assembly, 3.5 Instruction set architecture (ISA) (e.g., x86, ARM and RISC-V) (KA Core): Fixed vs variable-width instruction sets, Instruction formats, Data manipulation, control, I/O, Addressing modes, Machine language programming, Assembly language programming."
 ms.date: 2026-10-25
 ---
 
-# 3.5 Instruction Set Architecture (ISA) (e.g., x86, ARM and RISC-V)
+# 3.5 Instruction Set Architecture (ISA)
 
 Sources: [CS2023 Body of Knowledge, AR-Assembly, topic 5, p. 42](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=42).
 

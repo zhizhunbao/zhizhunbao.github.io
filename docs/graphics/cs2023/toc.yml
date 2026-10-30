@@ -4,7 +4,7 @@ items:
 - name: "1. Fundamental Concepts"
   href: fundamental-concepts/index.md
   items:
-  - name: "1.1 Uses of computer graphics and interactive techniques and their potential risks and abuses."
+  - name: "1.1 Uses of computer graphics and interactive techniques and their potential risks and abuses"
     href: fundamental-concepts/uses-of-computer-graphics-and-interactive-techniques-and-their-potential-risks-a.md
   - name: "1.2 Graphic Output"
     href: fundamental-concepts/graphic-output.md
@@ -22,9 +22,9 @@ items:
     href: fundamental-concepts/spatialization-coordinate-systems-absolute-and-relative-positioning.md
   - name: "1.9 Animation as a Sequence of Still Images"
     href: fundamental-concepts/animation-as-a-sequence-of-still-images.md
-  - name: "1.10 Applied Interactive Graphics (e.g., processing, python)"
+  - name: "1.10 Applied Interactive Graphics"
     href: fundamental-concepts/applied-interactive-graphics.md
-  - name: "1.11 Display Characteristics (protocols and ports)"
+  - name: "1.11 Display Characteristics"
     href: fundamental-concepts/display-characteristics.md
 - name: "2. Visualization"
   href: visualization/index.md
@@ -35,11 +35,11 @@ items:
     href: visualization/visualization-techniques.md
   - name: "2.3 Visualization Pipeline"
     href: visualization/visualization-pipeline.md
-  - name: "2.4 Common Data Formats (e.g., HDF, netCDF, geotiff, GeoJSON, shape files, raw binary, JSON, CSV, plain text)"
+  - name: "2.4 Common Data Formats"
     href: visualization/common-data-formats.md
   - name: "2.5 High-Dimensional Data Handling Techniques"
     href: visualization/high-dimensional-data-handling-techniques.md
-  - name: "2.6 Perceptual and cognitive foundations that drive visual abstractions."
+  - name: "2.6 Perceptual and cognitive foundations that drive visual abstractions"
     href: visualization/perceptual-and-cognitive-foundations-that-drive-visual-abstractions.md
   - name: "2.7 Design and Evaluation of Visualizations"
     href: visualization/design-and-evaluation-of-visualizations.md
@@ -74,7 +74,7 @@ items:
   items:
   - name: "5.1 Solutions and Approximations to the Rendering Equation, for Example"
     href: shading-and-advanced-rendering/solutions-and-approximations-to-the-rendering-equation-for-example.md
-  - name: "5.2 Time (motion blur), Lens Position (focus), and Continuous Frequency (color) and Their Impact on Rendering"
+  - name: "5.2 Time, Lens Position, and Continuous Frequency and Their Impact on Rendering"
     href: shading-and-advanced-rendering/time-lens-position-and-continuous-frequency-and-their-impact-on-rendering.md
   - name: "5.3 Shadow Mapping"
     href: shading-and-advanced-rendering/shadow-mapping.md
@@ -126,7 +126,7 @@ items:
     href: simulation/grid-based-fluids.md
   - name: "7.5 Heightfields"
     href: simulation/heightfields.md
-  - name: "7.6 Rule-Based Systems (e.g., L-systems, space-colonizing systems, Game of Life)"
+  - name: "7.6 Rule-Based Systems"
     href: simulation/rule-based-systems.md
 - name: "8. Immersion"
   href: immersion/index.md
@@ -158,7 +158,7 @@ items:
   items:
   - name: "9.1 Event Driven Programming"
     href: interaction/event-driven-programming.md
-  - name: "9.2 Graphical User Interface (Single Channel)"
+  - name: "9.2 Graphical User Interface"
     href: interaction/graphical-user-interface.md
   - name: "9.3 Accessibility"
     href: interaction/accessibility.md
@@ -185,7 +185,7 @@ items:
     href: image-processing/image-restoration.md
   - name: "10.5 Image Coding"
     href: image-processing/image-coding.md
-  - name: "10.6 Connections to Deep Learning (e.g., Convolutional Neural Networks)"
+  - name: "10.6 Connections to Deep Learning"
     href: image-processing/connections-to-deep-learning.md
 - name: "11. Tangible/Physical Computing"
   href: tangible-physical-computing/index.md
@@ -201,7 +201,7 @@ items:
   items:
   - name: "12.1 Accessibility in Immersive, Interactive, and Physical Computing Applications"
     href: society-ethics-and-the-profession/accessibility-in-immersive-interactive-and-physical-computing-applications.md
-  - name: "12.2 Ethics/privacy in graphics applications."
+  - name: "12.2 Ethics/privacy in graphics applications"
     href: society-ethics-and-the-profession/ethics-privacy-in-graphics-applications.md
   - name: "12.3 Intellectual Property Law as It Relates to Computer Graphics and Interactive Techniques"
     href: society-ethics-and-the-profession/intellectual-property-law-as-it-relates-to-computer-graphics-and-interactive-tec.md

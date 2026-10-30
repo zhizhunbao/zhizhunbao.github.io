@@ -43,7 +43,7 @@ items:
   items:
   - name: "4.1 Safety and Liveness Requirements in Terms of Temporal Logic Constructs to Express “Always” and “Eventually”"
     href: evaluation/safety-and-liveness-requirements-in-terms-of-temporal-logic-constructs-to-expres.md
-  - name: "4.2 Identifying, Testing for, and Repairing Violations, Including Common Forms of Errors Such as Failure to Ensure Necessary Ordering (race errors), Atomicity (including check-then-act errors), and Termination (livelock)"
+  - name: "4.2 Identifying, Testing for, and Repairing Violations, Including Common Forms of Errors Such as Failure to Ensure Necessary Ordering, Atomicity, and Termination"
     href: evaluation/identifying-testing-for-and-repairing-violations-including-common-forms-of-error.md
   - name: "4.3 Performance Requirements Metrics for Throughput, Responsiveness, Latency, Availability, Energy Consumption, Scalability, Resource Usage, Communication Costs, Waiting and Rate Control, Fairness; Service Level Agreements"
     href: evaluation/performance-requirements-metrics-for-throughput-responsiveness-latency-availabil.md
@@ -56,9 +56,9 @@ items:
 - name: "5. Algorithms"
   href: algorithms/index.md
   items:
-  - name: "5.1 Expressing and implementing algorithms in given languages and frameworks, to initiate activities (for example threads), use shared memory constructs, and channel, socket, and/or remote procedure call APIs.."
+  - name: "5.1 Expressing and implementing algorithms in given languages and frameworks, to initiate activities, use shared memory constructs, and channel, socket, and/or remote procedure call APIs"
     href: algorithms/expressing-and-implementing-algorithms-in-given-languages-and-frameworks-to-init.md
-  - name: "5.2 Survey of common application domains across multicore, reactive, data parallel, cluster, cloud, open distributed systems, and frameworks (with reference to the following table)."
+  - name: "5.2 Survey of common application domains across multicore, reactive, data parallel, cluster, cloud, open distributed systems, and frameworks"
     href: algorithms/survey-of-common-application-domains-across-multicore-reactive-data-parallel-clu.md
-  - name: "5.3 One of more of the following algorithmic domains."
+  - name: "5.3 One of more of the following algorithmic domains"
     href: algorithms/one-of-more-of-the-following-algorithmic-domains.md

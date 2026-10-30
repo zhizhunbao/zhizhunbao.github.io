@@ -13,7 +13,7 @@ items:
     href: core-database-system-concepts/purpose-and-advantages-of-database-systems.md
   - name: "2.2 Components of Database Systems"
     href: core-database-system-concepts/components-of-database-systems.md
-  - name: "2.3 Design of Core DBMS Functions (e.g., query mechanisms, transaction management, buffer management, access methods)"
+  - name: "2.3 Design of Core DBMS Functions"
     href: core-database-system-concepts/design-of-core-dbms-functions.md
   - name: "2.4 Database Architecture, Data Independence, and Data Abstraction"
     href: core-database-system-concepts/database-architecture-data-independence-and-data-abstraction.md
@@ -21,7 +21,7 @@ items:
     href: core-database-system-concepts/transaction-management.md
   - name: "2.6 Normalization"
     href: core-database-system-concepts/normalization.md
-  - name: "2.7 Approaches for Managing Large Volumes of Data (e.g., NoSQL database systems, use of MapReduce)"
+  - name: "2.7 Approaches for Managing Large Volumes of Data"
     href: core-database-system-concepts/approaches-for-managing-large-volumes-of-data.md
   - name: "2.8 How to Support CRUD-only Applications"
     href: core-database-system-concepts/how-to-support-crud-only-applications.md
@@ -40,9 +40,9 @@ items:
     href: data-modeling/data-modeling.md
   - name: "3.2 Relational Data Model"
     href: data-modeling/relational-data-model.md
-  - name: "3.3 Conceptual Models (e.g., entity-relationship, UML diagrams)"
+  - name: "3.3 Conceptual Models"
     href: data-modeling/conceptual-models.md
-  - name: "3.4 Semi-Structured Data Models (expressed using DTD, XML, or JSON Schema, for example)"
+  - name: "3.4 Semi-Structured Data Models"
     href: data-modeling/semi-structured-data-models.md
   - name: "3.5 Spreadsheet Models"
     href: data-modeling/spreadsheet-models.md
@@ -86,7 +86,7 @@ items:
     href: query-construction/qbe-and-4th-generation-environments.md
   - name: "5.6 Different Ways to Invoke Non-Procedural Queries in Conventional Languages"
     href: query-construction/different-ways-to-invoke-non-procedural-queries-in-conventional-languages.md
-  - name: "5.7 Introduction to Other Major Query Languages (e.g., XPATH, SPARQL)"
+  - name: "5.7 Introduction to Other Major Query Languages"
     href: query-construction/introduction-to-other-major-query-languages.md
   - name: "5.8 Stored Procedures"
     href: query-construction/stored-procedures.md
@@ -105,7 +105,7 @@ items:
     href: query-processing/query-transformations.md
   - name: "6.6 Query Optimization"
     href: query-processing/query-optimization.md
-  - name: "6.7 Parallel Query Processing (e.g., parallel scan, parallel join, parallel aggregation)"
+  - name: "6.7 Parallel Query Processing"
     href: query-processing/parallel-query-processing.md
   - name: "6.8 Database tuning/performance"
     href: query-processing/database-tuning-performance.md
@@ -127,21 +127,21 @@ items:
 - name: "8. NoSQL Systems"
   href: nosql-systems/index.md
   items:
-  - name: "8.1 Why NoSQL? (e.g., Impedance mismatch between Application [CRUD] and RDBMS)"
+  - name: "8.1 Why NoSQL?"
     href: nosql-systems/why-nosql.md
   - name: "8.2 Key-Value and Document Data Model"
     href: nosql-systems/key-value-and-document-data-model.md
-  - name: "8.3 Storage Systems (e.g., Key-Value systems, Data Lakes)"
+  - name: "8.3 Storage Systems"
     href: nosql-systems/storage-systems.md
-  - name: "8.4 Distribution Models (Sharding and Replication)"
+  - name: "8.4 Distribution Models"
     href: nosql-systems/distribution-models.md
   - name: "8.5 Graph Databases"
     href: nosql-systems/graph-databases.md
-  - name: "8.6 Consistency Models (Update and Read, Quorum consistency, CAP theorem)"
+  - name: "8.6 Consistency Models"
     href: nosql-systems/consistency-models.md
-  - name: "8.7 Processing Model (e.g., Map-Reduce, multi-stage map-reduce, incremental map-reduce)"
+  - name: "8.7 Processing Model"
     href: nosql-systems/processing-model.md
-  - name: "8.8 Case Studies: Cloud Storage System (e.g., S3); Graph Databases; “When Not to Use NoSQL”"
+  - name: "8.8 Case Studies: Cloud Storage System; Graph Databases; “When Not to Use NoSQL”"
     href: nosql-systems/case-studies-cloud-storage-system-graph-databases-when-not-to-use-nosql.md
 - name: "9. Data Security and Privacy"
   href: data-security-and-privacy/index.md
@@ -169,7 +169,7 @@ items:
 - name: "10. Data Analytics"
   href: data-analytics/index.md
   items:
-  - name: "10.1 Exploratory Data Techniques (motivation, representation, descriptive statistics, visualizations)"
+  - name: "10.1 Exploratory Data Techniques"
     href: data-analytics/exploratory-data-techniques.md
   - name: "10.2 Data Science Lifecycle: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, Deployment, and User Acceptance"
     href: data-analytics/data-science-lifecycle-business-understanding-data-understanding-data-preparatio.md
@@ -195,9 +195,9 @@ items:
 - name: "12. Semi-Structured and Unstructured Databases"
   href: semi-structured-and-unstructured-databases/index.md
   items:
-  - name: "12.1 Vectorized Unstructured Data (text, video, audio, etc.) and Vector Storage"
+  - name: "12.1 Vectorized Unstructured Data and Vector Storage"
     href: semi-structured-and-unstructured-databases/vectorized-unstructured-data-and-vector-storage.md
-  - name: "12.2 Semi-Structured Databases (e.g., JSON)"
+  - name: "12.2 Semi-Structured Databases"
     href: semi-structured-and-unstructured-databases/semi-structured-databases.md
 - name: "13. Society, Ethics, and the Profession"
   href: society-ethics-and-the-profession/index.md

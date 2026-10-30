@@ -40,7 +40,7 @@ items:
     href: assembly-level-machine-organization/introduction-to-simd-vs-mimd-and-the-flynn-taxonomy.md
   - name: "3.4 Shared Memory multiprocessors/multicore Organization"
     href: assembly-level-machine-organization/shared-memory-multiprocessors-multicore-organization.md
-  - name: "3.5 Instruction Set Architecture (ISA) (e.g., x86, ARM and RISC-V)"
+  - name: "3.5 Instruction Set Architecture (ISA)"
     href: assembly-level-machine-organization/instruction-set-architecture.md
   - name: "3.6 Subroutine Call and Return Mechanisms"
     href: assembly-level-machine-organization/subroutine-call-and-return-mechanisms.md
@@ -55,7 +55,7 @@ items:
     href: memory-hierarchy/memory-hierarchy-the-importance-of-temporal-and-spatial-locality.md
   - name: "4.2 Main Memory Organization and Operations"
     href: memory-hierarchy/main-memory-organization-and-operations.md
-  - name: "4.3 Persistent Memory (e.g., SSD, standard disks)"
+  - name: "4.3 Persistent Memory"
     href: memory-hierarchy/persistent-memory.md
   - name: "4.4 Latency, Cycle Time, Bandwidth, and Interleaving"
     href: memory-hierarchy/latency-cycle-time-bandwidth-and-interleaving.md
@@ -63,7 +63,7 @@ items:
     href: memory-hierarchy/cache-memories.md
   - name: "4.6 Multiprocessor Cache Coherence"
     href: memory-hierarchy/multiprocessor-cache-coherence.md
-  - name: "4.7 Virtual Memory (hardware support)"
+  - name: "4.7 Virtual Memory"
     href: memory-hierarchy/virtual-memory.md
   - name: "4.8 Fault Handling and Reliability"
     href: memory-hierarchy/fault-handling-and-reliability.md
@@ -78,7 +78,7 @@ items:
     href: interfacing-and-communication/i-o-fundamentals.md
   - name: "5.2 Interrupt Structures: Vectored and Prioritized, Interrupt Acknowledgment"
     href: interfacing-and-communication/interrupt-structures-vectored-and-prioritized-interrupt-acknowledgment.md
-  - name: "5.3 I/O Devices (e.g., mouse, keyboard, display, camera, sensors, actuators)"
+  - name: "5.3 I/O Devices"
     href: interfacing-and-communication/i-o-devices.md
   - name: "5.4 External Storage, Physical Organization, and Drives"
     href: interfacing-and-communication/external-storage-physical-organization-and-drives.md
@@ -87,7 +87,7 @@ items:
 - name: "6. Functional Organization"
   href: functional-organization/index.md
   items:
-  - name: "6.1 Implementation of Simple Datapaths, Including Instruction Pipelining, Hazard Detection, and Resolution (e.g., stalls, forwarding)"
+  - name: "6.1 Implementation of Simple Datapaths, Including Instruction Pipelining, Hazard Detection, and Resolution"
     href: functional-organization/implementation-of-simple-datapaths-including-instruction-pipelining-hazard-detec.md
   - name: "6.2 Control Unit"
     href: functional-organization/control-unit.md
@@ -98,7 +98,7 @@ items:
 - name: "7. Performance and Energy Efficiency"
   href: performance-and-energy-efficiency/index.md
   items:
-  - name: "7.1 Performance-Energy Evaluation (introduction): Performance, Power Consumption, Memory, and Communication Costs"
+  - name: "7.1 Performance-Energy Evaluation: Performance, Power Consumption, Memory, and Communication Costs"
     href: performance-and-energy-efficiency/performance-energy-evaluation-performance-power-consumption-memory-and-communica.md
   - name: "7.2 Branch Prediction, Speculative Execution, Out-of-Order Execution, Tomasulo's Algorithm"
     href: performance-and-energy-efficiency/branch-prediction-speculative-execution-out-of-order-execution-tomasulo-s-algori.md
@@ -117,7 +117,7 @@ items:
 - name: "8. Heterogeneous Architectures"
   href: heterogeneous-architectures/index.md
   items:
-  - name: "8.1 SIMD and MIMD Architectures (e.g., General-Purpose GPUs, TPUs, and NPUs)"
+  - name: "8.1 SIMD and MIMD Architectures"
     href: heterogeneous-architectures/simd-and-mimd-architectures.md
   - name: "8.2 Heterogeneous Memory Systems"
     href: heterogeneous-architectures/heterogeneous-memory-systems.md
