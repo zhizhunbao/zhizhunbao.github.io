@@ -11,3 +11,5 @@ items:
   href: green-book/toc.yml
 - name: Axioms
   href: axioms/toc.yml
+- name: Proof Techniques
+  href: proof-techniques/toc.yml

@@ -1,0 +1,122 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1 Introduction to Writing Proofs in Mathematics"
+  href: introduction-to-writing-proofs-in-mathematics/index.md
+  items:
+  - name: "1.1 Statements and Conditional Statements"
+    href: introduction-to-writing-proofs-in-mathematics/1-1-statements-and-conditional-statements.md
+  - name: "1.2 Constructing Direct Proofs"
+    href: introduction-to-writing-proofs-in-mathematics/1-2-constructing-direct-proofs.md
+  - name: "1.3 Chapter 1 Summary"
+    href: introduction-to-writing-proofs-in-mathematics/1-3-chapter-1-summary.md
+- name: "2 Logical Reasoning"
+  href: logical-reasoning/index.md
+  items:
+  - name: "2.1 Statements and Logical Operators"
+    href: logical-reasoning/2-1-statements-and-logical-operators.md
+  - name: "2.2 Logically Equivalent Statements"
+    href: logical-reasoning/2-2-logically-equivalent-statements.md
+  - name: "2.3 Open Sentences and Sets"
+    href: logical-reasoning/2-3-open-sentences-and-sets.md
+  - name: "2.4 Quantifiers and Negations"
+    href: logical-reasoning/2-4-quantifiers-and-negations.md
+  - name: "2.5 Chapter 2 Summary"
+    href: logical-reasoning/2-5-chapter-2-summary.md
+- name: "3 Constructing and Writing Proofs in Mathematics"
+  href: constructing-and-writing-proofs-in-mathematics/index.md
+  items:
+  - name: "3.1 Direct Proofs"
+    href: constructing-and-writing-proofs-in-mathematics/3-1-direct-proofs.md
+  - name: "3.2 More Methods of Proof"
+    href: constructing-and-writing-proofs-in-mathematics/3-2-more-methods-of-proof.md
+  - name: "3.3 Proof by Contradiction"
+    href: constructing-and-writing-proofs-in-mathematics/3-3-proof-by-contradiction.md
+  - name: "3.4 Using Cases in Proofs"
+    href: constructing-and-writing-proofs-in-mathematics/3-4-using-cases-in-proofs.md
+  - name: "3.5 The Division Algorithm and Congruence"
+    href: constructing-and-writing-proofs-in-mathematics/3-5-the-division-algorithm-and-congruence.md
+  - name: "3.6 Review of Proof Methods"
+    href: constructing-and-writing-proofs-in-mathematics/3-6-review-of-proof-methods.md
+  - name: "3.7 Chapter 3 Summary"
+    href: constructing-and-writing-proofs-in-mathematics/3-7-chapter-3-summary.md
+- name: "4 Mathematical Induction"
+  href: mathematical-induction/index.md
+  items:
+  - name: "4.1 The Principle of Mathematical Induction"
+    href: mathematical-induction/4-1-the-principle-of-mathematical-induction.md
+  - name: "4.2 Other Forms of Mathematical Induction"
+    href: mathematical-induction/4-2-other-forms-of-mathematical-induction.md
+  - name: "4.3 Induction and Recursion"
+    href: mathematical-induction/4-3-induction-and-recursion.md
+  - name: "4.4 Chapter 4 Summary"
+    href: mathematical-induction/4-4-chapter-4-summary.md
+- name: "5 Set Theory"
+  href: set-theory/index.md
+  items:
+  - name: "5.1 Sets and Operations on Sets"
+    href: set-theory/5-1-sets-and-operations-on-sets.md
+  - name: "5.2 Proving Set Relationships"
+    href: set-theory/5-2-proving-set-relationships.md
+  - name: "5.3 Properties of Set Operations"
+    href: set-theory/5-3-properties-of-set-operations.md
+  - name: "5.4 Cartesian Products"
+    href: set-theory/5-4-cartesian-products.md
+  - name: "5.5 Indexed Families of Sets"
+    href: set-theory/5-5-indexed-families-of-sets.md
+  - name: "5.6 Chapter 5 Summary"
+    href: set-theory/5-6-chapter-5-summary.md
+- name: "6 Functions"
+  href: functions/index.md
+  items:
+  - name: "6.1 Introduction to Functions"
+    href: functions/6-1-introduction-to-functions.md
+  - name: "6.2 More about Functions"
+    href: functions/6-2-more-about-functions.md
+  - name: "6.3 Injections, Surjections, and Bijections"
+    href: functions/6-3-injections-surjections-and-bijections.md
+  - name: "6.4 Composition of Functions"
+    href: functions/6-4-composition-of-functions.md
+  - name: "6.5 Inverse Functions"
+    href: functions/6-5-inverse-functions.md
+  - name: "6.6 Functions Acting on Sets"
+    href: functions/6-6-functions-acting-on-sets.md
+  - name: "6.7 Chapter 6 Summary"
+    href: functions/6-7-chapter-6-summary.md
+- name: "7 Equivalence Relations"
+  href: equivalence-relations/index.md
+  items:
+  - name: "7.1 Relations"
+    href: equivalence-relations/7-1-relations.md
+  - name: "7.2 Equivalence Relations"
+    href: equivalence-relations/7-2-equivalence-relations.md
+  - name: "7.3 Equivalence Classes"
+    href: equivalence-relations/7-3-equivalence-classes.md
+  - name: "7.4 Modular Arithmetic"
+    href: equivalence-relations/7-4-modular-arithmetic.md
+  - name: "7.5 Chapter 7 Summary"
+    href: equivalence-relations/7-5-chapter-7-summary.md
+- name: "8 Topics in Number Theory"
+  href: topics-in-number-theory/index.md
+  items:
+  - name: "8.1 The Greatest Common Divisor"
+    href: topics-in-number-theory/8-1-the-greatest-common-divisor.md
+  - name: "8.2 Prime Numbers and Prime Factorizations"
+    href: topics-in-number-theory/8-2-prime-numbers-and-prime-factorizations.md
+  - name: "8.3 Linear Diophantine Equations"
+    href: topics-in-number-theory/8-3-linear-diophantine-equations.md
+  - name: "8.4 Chapter 8 Summary"
+    href: topics-in-number-theory/8-4-chapter-8-summary.md
+- name: "9 Finite and Infinite Sets"
+  href: finite-and-infinite-sets/index.md
+  items:
+  - name: "9.1 Finite Sets"
+    href: finite-and-infinite-sets/9-1-finite-sets.md
+  - name: "9.2 Countable Sets"
+    href: finite-and-infinite-sets/9-2-countable-sets.md
+  - name: "9.3 Uncountable Sets"
+    href: finite-and-infinite-sets/9-3-uncountable-sets.md
+  - name: "9.4 Chapter 9 Summary"
+    href: finite-and-infinite-sets/9-4-chapter-9-summary.md
+- name: "A Guidelines for Writing Mathematical Proofs"
+  href: a-guidelines-for-writing-mathematical-proofs.md

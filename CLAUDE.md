@@ -22,6 +22,8 @@ README.md holds the site's rules (what the site looks like and why); this file h
 ## Checking
 
 - Never run a separate `docfx build` and never start another server. Make all edits for a change first, then wait once for the user's 8080 preview (`start-knowledge-base.bat` / `watch.py`, building `_site` at the repo root) and check the generated HTML in `_site`: table rows, bold pairs (no stray `**`), headings, images. If 8080 looks stale, ask the user to restart it. Stale files of deleted pages stay in `_site` until removed by hand.
+- Figures copy their styles only from the reference sources, never from whatever figure is at hand (another session may be changing it): a section figure (the chapter frame holding one section, its title in the orange box, its terms in blue boxes flowing in rows) from `figures/math/cs2023/linear-algebra/eigenvalues-and-eigenvectors/4-1-an-introduction-to-eigenvalues-and-eigenvectors.html`, a chapter or unit figure (groups wrapping at the page width) from `figures/math/cs2023/linear-algebra/linear-algebra.html`.
+- Render the first figure of each kind, open the PNG and compare it with the reference and with README, "Figures" (every group title in its orange box, blue items) before rendering the rest; after a batch, check the PNG timestamps and that no PNG landed outside a `media/` folder.
 
 ## Git
 
