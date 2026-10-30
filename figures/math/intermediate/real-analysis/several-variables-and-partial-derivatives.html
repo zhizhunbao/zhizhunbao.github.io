@@ -1,0 +1,102 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<style>.row .group { flex: 0 0 auto; }</style>
+<body>
+<div class="frame" id="fig">
+  <div class="title">8 Several Variables and Partial Derivatives</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">8.1 Vector spaces, linear mappings, and convexity</div>
+      <div style="column-count:2;column-gap:8px">
+      <div class="item" style="break-inside:avoid">Vector</div>
+      <div class="item" style="break-inside:avoid">Column Vector</div>
+      <div class="item" style="break-inside:avoid">Scalars</div>
+      <div class="item" style="break-inside:avoid">Vector Space</div>
+      <div class="item" style="break-inside:avoid">Vector Subspace</div>
+      <div class="item" style="break-inside:avoid">Linear Combination</div>
+      <div class="item" style="break-inside:avoid">Span</div>
+      <div class="item" style="break-inside:avoid">Linearly Independent</div>
+      <div class="item" style="break-inside:avoid">Linearly Dependent</div>
+      <div class="item" style="break-inside:avoid">Basis</div>
+      <div class="item" style="break-inside:avoid">Dimension</div>
+      <div class="item" style="break-inside:avoid">Standard Basis</div>
+      <div class="item" style="break-inside:avoid">Linear Transformation</div>
+      <div class="item" style="break-inside:avoid">Invertible Linear Transformation</div>
+      <div class="item" style="break-inside:avoid">Identity</div>
+      <div class="item" style="break-inside:avoid">Algebra</div>
+      <div class="item" style="break-inside:avoid">Nullspace</div>
+      <div class="item" style="break-inside:avoid">Convex Combination</div>
+      <div class="item" style="break-inside:avoid">Convex Hull</div>
+      </div>
+    </div>
+    <div class="group">
+      <div class="title">8.2 Analysis with vector spaces</div>
+      <div style="column-count:2;column-gap:8px">
+      <div class="item" style="break-inside:avoid">Norm</div>
+      <div class="item" style="break-inside:avoid">Triangle Inequality for Norms</div>
+      <div class="item" style="break-inside:avoid">Normed Vector Space</div>
+      <div class="item" style="break-inside:avoid">Dot Product</div>
+      <div class="item" style="break-inside:avoid">Bilinear</div>
+      <div class="item" style="break-inside:avoid">Symmetric</div>
+      <div class="item" style="break-inside:avoid">Euclidean Norm</div>
+      <div class="item" style="break-inside:avoid">Operator Norm</div>
+      <div class="item" style="break-inside:avoid">General Linear Group</div>
+      <div class="item" style="break-inside:avoid">Matrix</div>
+      <div class="item" style="break-inside:avoid">Column</div>
+      <div class="item" style="break-inside:avoid">Change of Basis</div>
+      <div class="item" style="break-inside:avoid">Permutation</div>
+      <div class="item" style="break-inside:avoid">Even Permutation</div>
+      <div class="item" style="break-inside:avoid">Odd Permutation</div>
+      <div class="item" style="break-inside:avoid">Symmetric Group</div>
+      <div class="item" style="break-inside:avoid">Determinant</div>
+      <div class="item" style="break-inside:avoid">Commutative Diagram</div>
+      <div class="item" style="break-inside:avoid">Elementary Matrix</div>
+      <div class="item" style="break-inside:avoid">Upper Triangular Matrix</div>
+      <div class="item" style="break-inside:avoid">Diagonal Matrix</div>
+      <div class="item" style="break-inside:avoid">Eigenvalue</div>
+      <div class="item" style="break-inside:avoid">Spectral Radius</div>
+      </div>
+    </div>
+    <div class="group">
+      <div class="title">8.3 The derivative</div>
+      <div class="item">Partial Derivative</div>
+      <div class="item">Gradient</div>
+      <div class="item">Curve</div>
+      <div class="item">Tangent Vector</div>
+      <div class="item">Directional Derivative</div>
+      <div class="item">Jacobian Determinant</div>
+      <div class="item">Jacobian Matrix</div>
+      <div class="item">Peano Surface</div>
+    </div>
+    <div class="group">
+      <div class="title">8.4 Continuity and the derivative</div>
+    </div>
+    <div class="group">
+      <div class="title">8.5 Inverse and implicit function theorems</div>
+      <div class="item">Open Mapping</div>
+      <div class="item">Jacobian Conjecture</div>
+      <div class="item">Implicit Function Theorem</div>
+      <div class="item">Polar Coordinates</div>
+    </div>
+    <div class="group">
+      <div class="title">8.6 Higher order derivatives</div>
+      <div class="item">Partial Derivative of Order k</div>
+      <div class="item">k-Times Continuously Differentiable Function</div>
+    </div>
+  </div>
+</div>
+</body></html>
