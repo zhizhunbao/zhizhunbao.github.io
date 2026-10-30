@@ -173,7 +173,7 @@ items:
     href: data-analytics/exploratory-data-techniques.md
   - name: "10.2 Data Science Lifecycle: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, Deployment, and User Acceptance"
     href: data-analytics/data-science-lifecycle-business-understanding-data-understanding-data-preparatio.md
-  - name: "10.3 Data Mining and Machine Learning Algorithms: e.g., Classification, Clustering, Association, Regression"
+  - name: "10.3 Data Mining and Machine Learning Algorithms"
     href: data-analytics/data-mining-and-machine-learning-algorithms-e-g-classification-clustering-associ.md
   - name: "10.4 Data Acquisition and Governance"
     href: data-analytics/data-acquisition-and-governance.md

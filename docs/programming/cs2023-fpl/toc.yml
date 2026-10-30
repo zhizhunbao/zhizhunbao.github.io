@@ -221,7 +221,7 @@ items:
   items:
   - name: "10.1 Execution Models for JIT, Compiler, Interpreter"
     href: language-translation-and-execution/execution-models-for-jit-compiler-interpreter.md
-  - name: "10.2 Use of Intermediate Code, e.g., Bytecode"
+  - name: "10.2 Use of Intermediate Code"
     href: language-translation-and-execution/use-of-intermediate-code-e-g-bytecode.md
   - name: "10.3 Limitations and Benefits of JIT, Compiler, and Interpreter"
     href: language-translation-and-execution/limitations-and-benefits-of-jit-compiler-and-interpreter.md

@@ -1,6 +1,6 @@
 ---
 title: "2.6 Privacy by Design and Privacy Engineering"
-description: "CS2023 SEC-SEP, 2.6 Privacy by design and privacy engineering (CS Core)."
+description: "CS2023 SEC-SEP, 2.6 Privacy by design and privacy engineering (KA Core)."
 ms.date: 2026-10-25
 ---
 

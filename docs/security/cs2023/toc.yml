@@ -8,11 +8,11 @@ items:
     href: foundational-security/developing-a-security-mindset-incorporating-crosscutting-concepts-confidentialit.md
   - name: "1.2 Basic Concepts of Authentication and authorization/access Control"
     href: foundational-security/basic-concepts-of-authentication-and-authorization-access-control.md
-  - name: "1.3 Vulnerabilities, Threats, Attack Surfaces, and Attack Vectors F"
+  - name: "1.3 Vulnerabilities, Threats, Attack Surfaces, and Attack Vectors"
     href: foundational-security/vulnerabilities-threats-attack-surfaces-and-attack-vectors-f.md
   - name: "1.4 Denial of Service (DoS) and Distributed Denial of Service (DDoS)"
     href: foundational-security/denial-of-service-and-distributed-denial-of-service.md
-  - name: "1.5 Principles and Practices of Protection, e.g., Least Privilege, Open Design, Fail-Safe Defaults, Defense in Depth, and Zero Trust; and How They Can Be Implemented"
+  - name: "1.5 Principles and Practices of Protection"
     href: foundational-security/principles-and-practices-of-protection-e-g-least-privilege-open-design-fail-safe.md
   - name: "1.6 Optimization Considerations Between Security, Privacy, Performance, and Other Design Goals"
     href: foundational-security/optimization-considerations-between-security-privacy-performance-and-other-desig.md
@@ -30,11 +30,11 @@ items:
     href: foundational-security/protecting-embedded-and-cyber-physical-systems.md
   - name: "1.13 Principles of Usable Security and Human-Centered Computing"
     href: foundational-security/principles-of-usable-security-and-human-centered-computing.md
-  - name: "1.14 Security and Trust in AI/machine Learning Systems, e.g., Fit for Purpose, Ethical Operating Boundaries, Authoritative Knowledge Sources, Verified Training Data, Repeatable System Evaluation Tests, System Attestation, Independent validation/certification; Unintended Consequences from: Adverse Effect"
+  - name: "1.14 Security and Trust in AI/machine Learning Systems"
     href: foundational-security/security-and-trust-in-ai-machine-learning-systems-e-g-fit-for-purpose-ethical-op.md
   - name: "1.15 Security Risks in Building and Operating AI/machine Learning Systems"
     href: foundational-security/security-risks-in-building-and-operating-ai-machine-learning-systems.md
-  - name: "1.16 Hardware Considerations in Security, e.g., Principles of Secure Hardware, Secure Processor Architectures, Cryptographic Acceleration, Compartmentalization, Software-Hardware Interaction"
+  - name: "1.16 Hardware Considerations in Security"
     href: foundational-security/hardware-considerations-in-security-e-g-principles-of-secure-hardware-secure-pro.md
 - name: "2. Society, Ethics, and the Profession"
   href: society-ethics-and-the-profession/index.md
@@ -45,13 +45,13 @@ items:
     href: society-ethics-and-the-profession/societal-impacts-on-breakdowns-in-security-and-privacy.md
   - name: "2.3 Applicability of Laws and Regulations on Security and Privacy"
     href: society-ethics-and-the-profession/applicability-of-laws-and-regulations-on-security-and-privacy.md
-  - name: "2.4 Professional Ethical Considerations When Designing Secure Systems and Maintaining Privacy; Ethical Hacking KA-Core"
+  - name: "2.4 Professional Ethical Considerations When Designing Secure Systems and Maintaining Privacy; Ethical Hacking"
     href: society-ethics-and-the-profession/professional-ethical-considerations-when-designing-secure-systems-and-maintainin.md
   - name: "2.5 Security by Design"
     href: society-ethics-and-the-profession/security-by-design.md
   - name: "2.6 Privacy by Design and Privacy Engineering"
     href: society-ethics-and-the-profession/privacy-by-design-and-privacy-engineering.md
-  - name: "2.7 Security and Privacy Implications of Malicious AI/machine Learning Actors, e.g., Identifying Deep Fakes"
+  - name: "2.7 Security and Privacy Implications of Malicious AI/machine Learning Actors"
     href: society-ethics-and-the-profession/security-and-privacy-implications-of-malicious-ai-machine-learning-actors-e-g-id.md
   - name: "2.8 Societal Impacts of Internet of Things (IoT) Devices and Other Emerging Technologies on Security and Privacy"
     href: society-ethics-and-the-profession/societal-impacts-of-internet-of-things-devices-and-other-emerging-technologies-o.md
@@ -107,7 +107,7 @@ items:
     href: cryptography/classical-cryptosystems-such-as-shift-substitution-transposition-ciphers-code-bo.md
   - name: "4.6 Kerckhoff’s Principle and Use of Vetted Libraries"
     href: cryptography/kerckhoffs-principle-and-use-of-vetted-libraries.md
-  - name: "4.7 Usage of Cryptography in Real-World Applications, e.g., Electronic Cash, Secure Channels Between Clients and Servers, Secure Electronic Mail, Entity Authentication, Device Pairing, Steganography, and Voting Systems"
+  - name: "4.7 Usage of Cryptography in Real-World Applications"
     href: cryptography/usage-of-cryptography-in-real-world-applications-e-g-electronic-cash-secure-chan.md
   - name: "4.8 Additional Mathematics: Primality, Factoring, and Elliptic Curve Cryptography"
     href: cryptography/additional-mathematics-primality-factoring-and-elliptic-curve-cryptography.md
@@ -140,15 +140,15 @@ items:
     href: security-analysis-design-and-engineering/security-design-and-engineering-including-functional-requirements-security-subsy.md
   - name: "5.6 Security Analysis, Covering Security Requirements Analysis; Security Controls Analysis; Threat Analysis; and Vulnerability Analysis"
     href: security-analysis-design-and-engineering/security-analysis-covering-security-requirements-analysis-security-controls-anal.md
-  - name: "5.7 Security Attack Domains and Attack Surfaces, e.g., Communications and Networking, Hardware, Physical, Social Engineering, Software, and Supply Chain"
+  - name: "5.7 Security Attack Domains and Attack Surfaces"
     href: security-analysis-design-and-engineering/security-attack-domains-and-attack-surfaces-e-g-communications-and-networking-ha.md
-  - name: "5.8 Security Attack Modes, Techniques, and Tactics, e.g., Authentication Abuse; Brute Force; Buffer Manipulation; Code Injection; Content Insertion; Denial of Service; Eavesdropping; Function Bypass; Impersonation; Integrity Attack; Interception; Phishing; Protocol Analysis; Privilege Abuse; Spoofing; and Traffic Injection"
+  - name: "5.8 Security Attack Modes, Techniques, and Tactics"
     href: security-analysis-design-and-engineering/security-attack-modes-techniques-and-tactics-e-g-authentication-abuse-brute-forc.md
   - name: "5.9 Attestation of Software Products with Respect to Their Specification and Adaptiveness"
     href: security-analysis-design-and-engineering/attestation-of-software-products-with-respect-to-their-specification-and-adaptiv.md
   - name: "5.10 Design and Development of Cyber-Physical Systems"
     href: security-analysis-design-and-engineering/design-and-development-of-cyber-physical-systems.md
-  - name: "5.11 Considerations for Trustworthy Computing, e.g., Tamper Resistant Packaging, Trusted Boot, Trusted Kernel, Hardware Root of Trust, Software Signing and Verification, Hardware-Based Cryptography, Virtualization, and Containers"
+  - name: "5.11 Considerations for Trustworthy Computing"
     href: security-analysis-design-and-engineering/considerations-for-trustworthy-computing-e-g-tamper-resistant-packaging-trusted.md
 - name: "6. Digital Forensics"
   href: digital-forensics/index.md

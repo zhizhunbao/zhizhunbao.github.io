@@ -1,0 +1,139 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 20px; align-items: stretch; }
+  .row + .row { margin-top: 20px; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { width: 440px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; min-height: 50px; padding: 6px 8px; box-sizing: border-box; margin-bottom: 10px;
+          display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; text-align: center; padding: 6px 10px; line-height: 1.3; color: #222; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">CS2023 SEC</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Foundational Security</div>
+        <div class="item">Developing a security mindset incorporating crosscutting concepts: confidentiality, integrity, availability, risk assessment, systems thinking, adversarial thinking, human-centered thinking</div>
+        <div class="item">Basic concepts of authentication and authorization/access control</div>
+        <div class="item">Vulnerabilities, threats, attack surfaces, and attack vectors</div>
+        <div class="item">Denial of Service (DoS) and Distributed Denial of Service (DDoS)</div>
+        <div class="item">Principles and practices of protection</div>
+        <div class="item">Optimization considerations between security, privacy, performance, and other design goals</div>
+        <div class="item">Impact of AI on security and privacy: using AI to bolster defenses as well as address increased adversarial capabilities due to AI</div>
+        <div class="item">Access control models</div>
+        <div class="item">Security controls</div>
+        <div class="item">Concepts of trust and trustworthiness</div>
+        <div class="item">Applications of a security mindset: web, cloud, and mobile devices</div>
+        <div class="item">Protecting embedded and cyber-physical systems</div>
+        <div class="item">Principles of usable security and human-centered computing</div>
+        <div class="item">Security and trust in AI/machine learning systems</div>
+        <div class="item">Security risks in building and operating AI/machine learning systems</div>
+        <div class="item">Hardware considerations in security</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Society, Ethics, and the Profession</div>
+        <div class="item">Principles and practices of privacy</div>
+        <div class="item">Societal impacts on breakdowns in security and privacy</div>
+        <div class="item">Applicability of laws and regulations on security and privacy</div>
+        <div class="item">Professional ethical considerations when designing secure systems and maintaining privacy; ethical hacking</div>
+        <div class="item">Security by design</div>
+        <div class="item">Privacy by design and privacy engineering</div>
+        <div class="item">Security and privacy implications of malicious AI/machine learning actors</div>
+        <div class="item">Societal impacts of Internet of Things (IoT) devices and other emerging technologies on security and privacy</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Secure Coding</div>
+        <div class="item">Common vulnerabilities and weaknesses</div>
+        <div class="item">SQL injection and other injection attacks</div>
+        <div class="item">Cross-site scripting techniques and mitigations</div>
+        <div class="item">Input validation and data sanitization</div>
+        <div class="item">Type safety and type-safe languages</div>
+        <div class="item">Buffer overflows, stack smashing, and integer overflows</div>
+        <div class="item">Security issues due to race conditions</div>
+        <div class="item">Principles of noninterference and nondeducibility</div>
+        <div class="item">Preventing information flow attacks</div>
+        <div class="item">Offensive security techniques as a defense</div>
+        <div class="item">AI-assisted malware detection techniques</div>
+        <div class="item">Ransomware: creation, prevention, and mitigation</div>
+        <div class="item">Secure use of third-party components</div>
+        <div class="item">Malware: varieties, creation, reverse engineering, and defense against them</div>
+        <div class="item">Assurance: testing, verification, and validation</div>
+        <div class="item">Static and dynamic analyses</div>
+        <div class="item">Secure compilers and secure code generation</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Cryptography</div>
+        <div class="item">Differences between algorithmic, applied, and mathematical views of cryptography</div>
+        <div class="item">Mathematical preliminaries: modular arithmetic, Euclidean algorithm, probabilistic independence, linear algebra basics, number theory, finite fields, complexity, asymptotic analysis</div>
+        <div class="item">Basic cryptography: symmetric key and public key cryptography</div>
+        <div class="item">Basic cryptographic building blocks, including symmetric encryption, asymmetric encryption, hashing, and message authentication</div>
+        <div class="item">Classical cryptosystems, such as shift, substitution, transposition ciphers, code books, and machines</div>
+        <div class="item">Kerckhoff’s principle and use of vetted libraries</div>
+        <div class="item">Usage of cryptography in real-world applications</div>
+        <div class="item">Additional mathematics: primality, factoring, and elliptic curve cryptography</div>
+        <div class="item">Private-key cryptosystems: substitution-permutation networks, linear cryptanalysis, differential cryptanalysis, DES, and AES</div>
+        <div class="item">Public-key cryptosystems: Diffie-Hellman and RSA</div>
+        <div class="item">Data integrity and authentication: hashing, and digital signatures</div>
+        <div class="item">Cryptographic protocols: challenge-response authentication, zero-knowledge protocols, commitment, oblivious transfer, secure two- or multi-party computation, hash functions, secret sharing, and applications</div>
+        <div class="item">Attacker capabilities: chosen-message attack, birthday attacks, side channel attacks, and fault injection attacks</div>
+        <div class="item">Quantum cryptography; Post Quantum/Quantum resistant cryptography</div>
+        <div class="item">Blockchain and cryptocurrencies</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Security Analysis, Design, and Engineering</div>
+        <div class="item">Security engineering goals: building systems that remain dependable despite errors, accidents, or malicious adversaries</div>
+        <div class="item">Privacy engineering goals: building systems that design, implement, and deploy privacy features and controls</div>
+        <div class="item">Problem analysis and situational analysis to address system security</div>
+        <div class="item">Engineering tradeoff analysis based on time, cost, risk tolerance, risk acceptance, return on investment, and so on</div>
+        <div class="item">Security design and engineering, including functional requirements, security subsystems, information protection, security testing, security assessment, and evaluation</div>
+        <div class="item">Security analysis, covering security requirements analysis; security controls analysis; threat analysis; and vulnerability analysis</div>
+        <div class="item">Security attack domains and attack surfaces</div>
+        <div class="item">Security attack modes, techniques, and tactics</div>
+        <div class="item">Attestation of software products with respect to their specification and adaptiveness</div>
+        <div class="item">Design and development of cyber-physical systems</div>
+        <div class="item">Considerations for trustworthy computing</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Digital Forensics</div>
+        <div class="item">Basic principles and methodologies for digital forensics</div>
+        <div class="item">System design for forensics</div>
+        <div class="item">Forensics in different situations: operating systems, file systems, application forensics, web forensics, network forensics, mobile device forensics, use of database auditing</div>
+        <div class="item">Attacks on forensics and preventing such attacks</div>
+        <div class="item">Incident handling processes</div>
+        <div class="item">Rules of evidence – general concepts and differences between jurisdictions</div>
+        <div class="item">Legal issues: digital evidence protection and management, chains of custody, reporting, serving as an expert witness</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Security Governance</div>
+        <div class="item">Protecting critical assets from threats</div>
+        <div class="item">Security governance: organizational objectives and general risk assessment</div>
+        <div class="item">Security management: achieve and maintain appropriate levels of confidentiality, integrity, availability, accountability, authenticity, and reliability</div>
+        <div class="item">Security policy: organizational policies, issue-specific policies, system-specific policies</div>
+        <div class="item">Approaches to identifying and mitigating risks to computing infrastructure</div>
+        <div class="item">Data lifecycle management policies: data collection, backups, and retention; cloud storage and services; breach disclosure</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>

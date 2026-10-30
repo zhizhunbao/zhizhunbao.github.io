@@ -67,7 +67,7 @@ items:
     href: geometric-modeling/procedural-representation-model.md
   - name: "4.5 Multi-Resolution Modeling"
     href: geometric-modeling/multi-resolution-modeling.md
-  - name: "4.6 Reconstruction, e.g., 3D Scanning, Photogrammetry"
+  - name: "4.6 Reconstruction"
     href: geometric-modeling/reconstruction-e-g-3d-scanning-photogrammetry.md
 - name: "5. Shading and Advanced Rendering"
   href: shading-and-advanced-rendering/index.md

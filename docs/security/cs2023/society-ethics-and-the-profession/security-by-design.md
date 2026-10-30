@@ -1,6 +1,6 @@
 ---
 title: "2.5 Security by Design"
-description: "CS2023 SEC-SEP, 2.5 Security by design (CS Core)."
+description: "CS2023 SEC-SEP, 2.5 Security by design (KA Core)."
 ms.date: 2026-10-25
 ---
 

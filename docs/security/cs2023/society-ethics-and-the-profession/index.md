@@ -6,7 +6,7 @@ ms.date: 2026-10-25
 
 # 2. Society, Ethics, and the Profession
 
-The pages under this one are the topics of the CS2023 knowledge unit SEC-SEP, with CS2023's numbering and order: 8 CS Core topics.
+The pages under this one are the topics of the CS2023 knowledge unit SEC-SEP, with CS2023's numbering and order: 4 CS Core, 4 KA Core topics.
 
 | Item | Value |
 |---|---|

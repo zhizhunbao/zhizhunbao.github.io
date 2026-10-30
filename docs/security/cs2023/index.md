@@ -1,27 +1,27 @@
 ---
 title: "CS2023 SEC"
-description: "CS2023 SEC: the knowledge units and topics of the CS2023 knowledge area Security (SEC)."
-ms.date: 2026-10-25
+description: "CS2023 SEC: the 7 knowledge units of the CS2023 knowledge area Security (SEC) and their topics."
+ms.date: 2026-10-30
 ---
 
 # CS2023 SEC
 
-Planned, no content yet. The pages under this one are the knowledge units of the CS2023 knowledge area Security (SEC), in CS2023's order, and their topics with CS2023's numbering: 7 units, 80 topics. It is the checklist of what this area covers: CS Core topics are the ones every computer science graduate needs, KA Core topics go deeper, and Non-core topics are electives.
+## Classification
 
-| Item | Value |
-|---|---|
-| Official source | [CS2023 Body of Knowledge, Security (SEC)](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=193) |
-| Publisher | ACM, IEEE Computer Society and AAAI |
+![CS2023 SEC sorted into its 7 knowledge units in CS2023 order, each with its topics.](media/cs2023-sec.png)
 
-| Knowledge unit | CS2023 | CS Core | KA Core | Non-core |
-|---|---|---|---|---|
-| [1. Foundational Security](foundational-security/index.md) | SEC-Foundations | 7 | 9 | 0 |
-| [2. Society, Ethics, and the Profession](society-ethics-and-the-profession/index.md) | SEC-SEP | 8 | 0 | 0 |
-| [3. Secure Coding](secure-coding/index.md) | SEC-Coding | 7 | 10 | 0 |
-| [4. Cryptography](cryptography/index.md) | SEC-Crypto | 7 | 8 | 0 |
-| [5. Security Analysis, Design, and Engineering](security-analysis-design-and-engineering/index.md) | SEC-Engineering | 4 | 7 | 0 |
-| [6. Digital Forensics](digital-forensics/index.md) | SEC-Forensics | 0 | 7 | 0 |
-| [7. Security Governance](security-governance/index.md) | SEC-Governance | 0 | 6 | 0 |
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **CS2023 SEC**<br>CS2023 SEC | "The Security (SEC) knowledge area focuses on **developing a security mindset** into the overall ethos of computer science graduates so that **security is embedded in all their work products**." | 安全（SEC）知识领域着重于把**安全思维的培养**融入计算机科学毕业生的整体精神，使**安全贯穿于他们所有的工作成果**。 | [Joint Task Force on Computing Curricula, 2024, SEC "Preamble" section, para. 2](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=193) |
+| **[Foundational Security](foundational-security/index.md)**<br>安全基础 | (context) "Evaluate a system for **possible attacks that can be launched by an adversary**." | （语境）评估一个系统可能遭受的、**对手能够发起的攻击**。 | [Joint Task Force on Computing Curricula, 2024, SEC-Foundations "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=196) |
+| **[Society, Ethics, and the Profession](society-ethics-and-the-profession/index.md)**<br>社会、伦理与职业 | (context) "Calculate the **impact of a breakdown in security** of a given system." | （语境）计算给定系统**安全失效所造成的影响**。 | [Joint Task Force on Computing Curricula, 2024, SEC-SEP "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=197) |
+| **[Secure Coding](secure-coding/index.md)**<br>安全编码 | (context) "Identify underlying problems in given examples of an **enumeration of common weaknesses** and explain how they can be circumvented." | （语境）在给出的**常见弱点枚举**示例中找出根本问题，并解释如何规避它们。 | [Joint Task Force on Computing Curricula, 2024, SEC-Coding "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=198) |
+| **[Cryptography](cryptography/index.md)**<br>密码学 | (context) "Explain the **role of cryptography in supporting security and privacy**." | （语境）解释**密码学在支持安全和隐私方面的作用**。 | [Joint Task Force on Computing Curricula, 2024, SEC-Crypto "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=199) |
+| **[Security Analysis, Design, and Engineering](security-analysis-design-and-engineering/index.md)**<br>安全分析、设计与工程 | (context) "Create a **threat model** for a system or system design." | （语境）为一个系统或系统设计建立**威胁模型**。 | [Joint Task Force on Computing Curricula, 2024, SEC-Engineering "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=200) |
+| **[Digital Forensics](digital-forensics/index.md)**<br>数字取证 | (context) "Explain what a **digital investigation** is and how it can be implemented" | （语境）解释什么是**数字调查**以及如何实施 | [Joint Task Force on Computing Curricula, 2024, SEC-Forensics "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=201) |
+| **[Security Governance](security-governance/index.md)**<br>安全治理 | (context) "Describe **critical assets** and how they can be protected." | （语境）描述**关键资产**以及如何保护它们。 | [Joint Task Force on Computing Curricula, 2024, SEC-Governance "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=201) |
 
 ## References
 

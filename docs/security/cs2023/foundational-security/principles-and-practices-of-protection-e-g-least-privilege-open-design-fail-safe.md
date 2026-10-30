@@ -1,10 +1,10 @@
 ---
-title: "1.5 Principles and Practices of Protection, e.g., Least Privilege, Open Design, Fail-Safe Defaults, Defense in Depth, and Zero Trust; and How They Can Be Implemented"
+title: "1.5 Principles and Practices of Protection"
 description: "CS2023 SEC-Foundations, 1.5 Principles and practices of protection, e.g., least privilege, open design, fail-safe defaults, defense in depth, and zero trust; and how they can be implemented (CS Core)."
 ms.date: 2026-10-25
 ---
 
-# 1.5 Principles and Practices of Protection, e.g., Least Privilege, Open Design, Fail-Safe Defaults, Defense in Depth, and Zero Trust; and How They Can Be Implemented
+# 1.5 Principles and Practices of Protection
 
 Sources: [CS2023 Body of Knowledge, SEC-Foundations, topic 5, p. 196](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=196).
 
