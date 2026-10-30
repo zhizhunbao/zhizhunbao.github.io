@@ -188,6 +188,9 @@ function nav(rootItems, sectionItems, section) {
 // is a group: a button that opens its sections; the button and the current section in the menu are marked when it holds the current section.
 // Its items may also be subgroups (Natural Sciences, Social Sciences) that hold sections: as on Learn, each is a menu row
 // with a chevron that opens its sections in a submenu beside it, and it is marked when it holds the current section.
+// Header menus (Computing, Science, More): opening one closes the others, since each button stops its click from reaching the page.
+const menus = []
+const closeOthers = (keep) => menus.forEach((c) => c !== keep && c())
 const group = (it) => {
   const kids = it.href ? [] : flat(it.items).filter((k) => k.tocUrl && firstUrl(k))
   return kids.length ? kids : null
@@ -211,7 +214,8 @@ function dropdown(it, kids, section) {
   const btn = el('button', { class: `site-header-button kb-more-button${kids.includes(section) ? ' is-active' : ''}`, type: 'button', 'aria-expanded': 'false' },
     el('span', { text: it.name }), el('span', { class: 'icon' }, svg('M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z', 12)))
   const close = () => { menu.hidden = true; btn.setAttribute('aria-expanded', 'false'); subs.forEach((s) => { s.list.hidden = true; s.b.setAttribute('aria-expanded', 'false') }) }
-  btn.addEventListener('click', (e) => { e.stopPropagation(); const show = menu.hidden; close(); menu.hidden = !show; btn.setAttribute('aria-expanded', String(show)) })
+  menus.push(close)
+  btn.addEventListener('click', (e) => { e.stopPropagation(); closeOthers(close); const show = menu.hidden; close(); menu.hidden = !show; btn.setAttribute('aria-expanded', String(show)) })
   document.addEventListener('click', close)
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close() })
   return el('li', { class: 'position-relative' }, btn, menu)
@@ -226,7 +230,8 @@ function more(ul) {
     el('span', { text: 'More' }), el('span', { class: 'icon' }, svg('M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z', 12)))
   const li = el('li', { class: 'kb-more position-relative' }, btn, menu)
   const close = () => { menu.hidden = true; btn.setAttribute('aria-expanded', 'false') }
-  btn.addEventListener('click', (e) => { e.stopPropagation(); menu.hidden = !menu.hidden; btn.setAttribute('aria-expanded', String(!menu.hidden)) })
+  menus.push(close)
+  btn.addEventListener('click', (e) => { e.stopPropagation(); closeOthers(close); menu.hidden = !menu.hidden; btn.setAttribute('aria-expanded', String(!menu.hidden)) })
   document.addEventListener('click', close)
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close() })
   const nav = ul.closest('nav')

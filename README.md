@@ -83,7 +83,7 @@ Content has official sources; section names are the common names of the field.
 
 ### Top bar
 
-- `docs/toc.yml`: Home, Projects and Sources first, then the sections in alphabetical order of their names.
+- `docs/toc.yml`: Home, Projects and Sources first, then two dropdowns, Computing and Science (2026-10-30); the computing sections are not top-bar entries of their own.
 - A section name is the common name of the field (AI, Algorithms, Security, UI/UX). It is not an official classification, so each section states the knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), it maps to, as in the table under CS2023 entries.
 - Courses get no top-level section. What a course teaches lands in the section of its field.
 
@@ -99,9 +99,14 @@ Content has official sources; section names are the common names of the field.
 - Organizations are never second-level entries of a field.
 - Order: by importance first, alphabetical within a tie. The kinds are numbered from the most formal source to product documentation (standards developing organizations, government agencies, learned societies, then the documents: classification systems, curricula, reference works, then certification bodies, companies, open-source projects); the members of a kind are equally important, so they are alphabetical (case ignored).
 
+### Computing dropdown
+
+- The computing sections sit in one dropdown entry, Computing (2026-10-30; not "Computer Science", the ACM CCS entry under Science), grouped by CS2023's competency areas in CS2023's order, each a subgroup with a submenu: Software (Algorithms, Programming, QA), Systems (Cloud, Data, Hardware, Networking, Operating Systems, Security, System Design), Applications (AI, Graphics, UI/UX, Web Development); Ethics (SEP, which CS2023 places under all areas) is a row of its own after them. Sections are alphabetical inside a subgroup.
+- A section goes in the competency area of the knowledge areas it maps to (the table under CS2023 entries); System Design (SE, PDC, SF) and Cloud (PDC, DM, SPD) go in Systems, where most of theirs are.
+
 ### Science dropdown
 
-- The sciences sit in one dropdown entry, Science, placed alphabetically like a section; it lists its sections with no subgroups (OECD's grouping was dropped on 2026-10-28), ordered by relevance to my work (software, cloud, data, AI), most relevant first (since 2026-10-28): Computer Science, Mathematical Sciences, Engineering and Technology (one entry, IEEE Thesaurus), Economics and Business, Social Sciences and Humanities (one section since 2026-10-28, as in SSHRC and UNESCO's 'Social and human sciences': entries ELSST and UNESCO Thesaurus), Medical and Health Sciences, Physical Sciences, Chemical Sciences, Agricultural and Veterinary Sciences, Earth and Related Environmental Sciences. This is the one menu ordered by relevance rather than alphabetically.
+- The sciences sit in one dropdown entry, Science, after Computing; it lists its sections with no subgroups (OECD's grouping was dropped on 2026-10-28), ordered by relevance to my work (software, cloud, data, AI), most relevant first (since 2026-10-28): Computer Science, Mathematical Sciences, Engineering and Technology (one entry, IEEE Thesaurus), Economics and Business, Social Sciences and Humanities (one section since 2026-10-28, as in SSHRC and UNESCO's 'Social and human sciences': entries ELSST and UNESCO Thesaurus), Medical and Health Sciences, Physical Sciences, Chemical Sciences, Agricultural and Veterinary Sciences, Earth and Related Environmental Sciences. This is the one menu ordered by relevance rather than alphabetically.
 - There are no Biological Sciences or Psychology and Cognitive Sciences sections (removed 2026-10-28): both are read in Medical and Health Sciences, whose MeSH holds B Organisms, G Phenomena and Processes and H01.158 Biological Science Disciplines for biology, and F Psychiatry and Psychology for psychology (psychology as MeSH sees it, from the medical side; the APA Thesaurus is open only inside paid databases).
 - Each science section has one entry, its field's official classification, titles only at first:
   - PhySH (American Physical Society; 17 disciplines, then the facets each uses)

@@ -5,28 +5,44 @@ items:
   href: projects/
 - name: Sources
   href: sources/
-- name: AI
-  href: ai/
-- name: Algorithms
-  href: algorithms/
-- name: Cloud
-  href: cloud/
-- name: Data
-  href: data/
-- name: Ethics
-  href: ethics/
-- name: Graphics
-  href: graphics/
-- name: Hardware
-  href: hardware/
-- name: Networking
-  href: networking/
-- name: Operating Systems
-  href: operating-systems/
-- name: Programming
-  href: programming/
-- name: QA
-  href: qa/
+- name: Computing
+  items:
+  - name: Software
+    items:
+    - name: Algorithms
+      href: algorithms/
+    - name: Programming
+      href: programming/
+    - name: QA
+      href: qa/
+  - name: Systems
+    items:
+    - name: Cloud
+      href: cloud/
+    - name: Data
+      href: data/
+    - name: Hardware
+      href: hardware/
+    - name: Networking
+      href: networking/
+    - name: Operating Systems
+      href: operating-systems/
+    - name: Security
+      href: security/
+    - name: System Design
+      href: system-design/
+  - name: Applications
+    items:
+    - name: AI
+      href: ai/
+    - name: Graphics
+      href: graphics/
+    - name: UI/UX
+      href: ui-ux/
+    - name: Web Development
+      href: web-development/
+  - name: Ethics
+    href: ethics/
 - name: Science
   items:
   - name: Computer Science
@@ -49,11 +65,3 @@ items:
     href: agricultural-veterinary-sciences/
   - name: Earth and Related Environmental Sciences
     href: earth-sciences/
-- name: Security
-  href: security/
-- name: System Design
-  href: system-design/
-- name: UI/UX
-  href: ui-ux/
-- name: Web Development
-  href: web-development/
