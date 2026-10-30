@@ -1,0 +1,121 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; gap: 20px; align-items: stretch; }
+  .row + .row { margin-top: 20px; }
+  .col { display: flex; flex-direction: column; gap: 14px; }
+  .col .group { flex: 1 0 auto; }
+  .group { width: 440px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; min-height: 50px; padding: 6px 8px; box-sizing: border-box; margin-bottom: 10px;
+          display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; text-align: center; padding: 6px 10px; line-height: 1.3; color: #222; }
+  .group .title { white-space: normal; }  /* a long unit name wraps inside its column */
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">CS2023 SF</div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Overview of Computer Systems</div>
+        <div class="item">Basic building blocks and components of a computer</div>
+        <div class="item">Hardware as a computational paradigm: Fundamental logic building blocks; Logic expressions, minimization, sum of product forms</div>
+        <div class="item">Programming abstractions, interfaces, use of libraries</div>
+        <div class="item">Distinction and interaction between application and OS services, remote procedure call</div>
+        <div class="item">Basic concept of pipelining, overlapped processing stages</div>
+        <div class="item">Basic concept of scaling: performance vs problem size</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Basic Concepts</div>
+        <div class="item">Digital vs Analog/Discrete vs Continuous Systems</div>
+        <div class="item">Simple logic gates, logical expressions, Boolean logic simplification</div>
+        <div class="item">Clocks, State, Sequencing</div>
+        <div class="item">State and state transition</div>
+        <div class="item">Finite state machines</div>
+        <div class="item">Combinational Logic, Sequential Logic, Registers, Memories</div>
+        <div class="item">Computers and Network Protocols as examples of State Machines</div>
+        <div class="item">Sequential vs parallel processing</div>
+        <div class="item">Application-level sequential processing: single thread</div>
+        <div class="item">Simple application-level parallel processing: request level, single thread per server, multiple threads with multiple servers, pipelining</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">Resource Management</div>
+        <div class="item">Different types of resources</div>
+        <div class="item">Common resource allocation/scheduling algorithms</div>
+        <div class="item">Advantages and disadvantages of common scheduling algorithms</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">System Performance</div>
+        <div class="item">Latencies in computer systems</div>
+        <div class="item">Caches and the effects of spatial and temporal locality on performance in processors and systems</div>
+        <div class="item">Caches and cache coherency in databases, operating systems, distributed systems, and computer architecture</div>
+        <div class="item">Introduction to the processor memory hierarchy</div>
+        <div class="item">The formula for average memory access time</div>
+        <div class="item">Rationale of virtualization and isolation: protection and predictable performance</div>
+        <div class="item">Levels of indirection, illustrated by virtual memory for managing physical memory resources</div>
+        <div class="item">Methods for implementing virtual memory and virtual machines</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Performance Evaluation</div>
+        <div class="item">Performance figures of merit</div>
+        <div class="item">Workloads and representative benchmarks, and methods of collecting and analyzing performance figures of merit</div>
+        <div class="item">CPI equation as a tool for understanding tradeoffs in the design of instruction sets, processor pipelines, and memory system organizations</div>
+        <div class="item">Amdahl’s Law: the part of the computation that cannot be sped up limits the effect of the parts that can</div>
+        <div class="item">Order of magnitude analysis</div>
+        <div class="item">Analysis of slow and fast paths of a system</div>
+        <div class="item">Events on their effect on performance</div>
+        <div class="item">Analytical tools to guide quantitative evaluation</div>
+        <div class="item">Understanding layered systems, workloads, and platforms, their implications for performance, and the challenges they represent for evaluation</div>
+        <div class="item">Microbenchmark pitfalls</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">System Reliability</div>
+        <div class="item">Distinction between bugs, faults, and failures</div>
+        <div class="item">Reliability vs availability</div>
+        <div class="item">Reliability through redundancy</div>
+        <div class="item">Other approaches to reliability</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">System Security</div>
+        <div class="item">Common system security issues</div>
+        <div class="item">Countermeasures</div>
+        <div class="item">Representative countermeasure systems</div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="group">
+        <div class="title">System Design</div>
+        <div class="item">Common criteria of system design</div>
+        <div class="item">Designs of representative systems</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div class="group">
+        <div class="title">Society, Ethics, and the Profession</div>
+        <div class="item">Intellectual property rights of computer systems</div>
+        <div class="item">Common software licenses</div>
+        <div class="item">Computer crimes</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>
