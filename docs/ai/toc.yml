@@ -16,7 +16,7 @@ items:
 - name: Model Context Protocol
   href: model-context-protocol/index.md
 - name: MuJoCo
-  href: mujoco/index.md
+  href: mujoco/toc.yml
 - name: NIST AI Risk Management Framework
   href: nist-ai-rmf/index.md
 - name: Ollama
@@ -32,6 +32,6 @@ items:
 - name: scikit-learn
   href: scikit-learn/toc.yml
 - name: Stable-Baselines3
-  href: stable-baselines3/index.md
+  href: stable-baselines3/toc.yml
 - name: Ultralytics YOLO
-  href: ultralytics-yolo/index.md
+  href: ultralytics-yolo/toc.yml

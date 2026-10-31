@@ -1,0 +1,375 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Home"
+  href: home/index.md
+  items:
+  - name: "1.1 Quickstart"
+    href: home/quickstart.md
+  - name: "1.2 Usage"
+    href: home/usage.md
+  - name: "1.3 YOLO27 (Coming Soon)"
+    href: home/yolo27-coming-soon.md
+  - name: "1.4 YOLO26"
+    href: home/yolo26.md
+- name: "2. Modes"
+  href: modes/index.md
+  items:
+  - name: "2.1 Train"
+    href: modes/train.md
+  - name: "2.2 Val"
+    href: modes/val.md
+  - name: "2.3 Predict"
+    href: modes/predict.md
+  - name: "2.4 Export"
+    href: modes/export.md
+  - name: "2.5 Track"
+    href: modes/track.md
+  - name: "2.6 Benchmark"
+    href: modes/benchmark.md
+- name: "3. Tasks"
+  href: tasks/index.md
+  items:
+  - name: "3.1 Detect"
+    href: tasks/detect.md
+  - name: "3.2 Segment"
+    href: tasks/segment.md
+  - name: "3.3 Semantic"
+    href: tasks/semantic.md
+  - name: "3.4 Depth"
+    href: tasks/depth.md
+  - name: "3.5 Classify"
+    href: tasks/classify.md
+  - name: "3.6 Pose"
+    href: tasks/pose.md
+  - name: "3.7 OBB"
+    href: tasks/obb.md
+- name: "4. Models"
+  href: models/index.md
+  items:
+  - name: "4.1 YOLO27 (Coming Soon)"
+    href: models/yolo27-coming-soon.md
+  - name: "4.2 YOLO26"
+    href: models/yolo26.md
+  - name: "4.3 YOLO12"
+    href: models/yolo12.md
+  - name: "4.4 YOLO11"
+    href: models/yolo11.md
+  - name: "4.5 YOLOv10"
+    href: models/yolov10.md
+  - name: "4.6 YOLOv9"
+    href: models/yolov9.md
+  - name: "4.7 YOLOv8"
+    href: models/yolov8.md
+  - name: "4.8 YOLOv7"
+    href: models/yolov7.md
+  - name: "4.9 YOLOv6"
+    href: models/yolov6.md
+  - name: "4.10 YOLOv5"
+    href: models/yolov5.md
+  - name: "4.11 YOLOv4"
+    href: models/yolov4.md
+  - name: "4.12 YOLOv3"
+    href: models/yolov3.md
+  - name: "4.13 SAM 3 (Segment Anything Model 3)"
+    href: models/sam-3-segment-anything-model-3.md
+  - name: "4.14 SAM 2 (Segment Anything Model 2)"
+    href: models/sam-2-segment-anything-model-2.md
+  - name: "4.15 SAM (Segment Anything Model)"
+    href: models/sam-segment-anything-model.md
+  - name: "4.16 MobileSAM (Mobile Segment Anything Model)"
+    href: models/mobilesam-mobile-segment-anything-model.md
+  - name: "4.17 FastSAM (Fast Segment Anything Model)"
+    href: models/fastsam-fast-segment-anything-model.md
+  - name: "4.18 YOLO-NAS (Neural Architecture Search)"
+    href: models/yolo-nas-neural-architecture-search.md
+  - name: "4.19 RT-DETR (Realtime Detection Transformer)"
+    href: models/rt-detr-realtime-detection-transformer.md
+  - name: "4.20 YOLO-World"
+    href: models/yolo-world.md
+  - name: "4.21 YOLOE (Real-Time Seeing Anything)"
+    href: models/yoloe-real-time-seeing-anything.md
+  - name: "4.22 Ultralytics LLM Interface"
+    href: models/ultralytics-llm-interface.md
+- name: "5. Compare"
+  href: compare/index.md
+  items:
+  - name: "5.1 YOLO26"
+    href: compare/yolo26.md
+  - name: "5.2 YOLO11"
+    href: compare/yolo11.md
+  - name: "5.3 YOLOv10"
+    href: compare/yolov10.md
+  - name: "5.4 YOLOv9"
+    href: compare/yolov9.md
+  - name: "5.5 YOLOv8"
+    href: compare/yolov8.md
+  - name: "5.6 YOLOv7"
+    href: compare/yolov7.md
+  - name: "5.7 YOLOv6"
+    href: compare/yolov6.md
+  - name: "5.8 YOLOv5"
+    href: compare/yolov5.md
+  - name: "5.9 RT-DETR"
+    href: compare/rt-detr.md
+  - name: "5.10 PP-YOLOE+"
+    href: compare/pp-yoloe.md
+  - name: "5.11 DAMO-YOLO"
+    href: compare/damo-yolo.md
+  - name: "5.12 YOLOX"
+    href: compare/yolox.md
+  - name: "5.13 EfficientDet"
+    href: compare/efficientdet.md
+- name: "6. Datasets"
+  href: datasets/index.md
+  items:
+  - name: "6.1 Detection"
+    href: datasets/detection.md
+  - name: "6.2 Segmentation"
+    href: datasets/segmentation.md
+  - name: "6.3 Semantic Segmentation"
+    href: datasets/semantic-segmentation.md
+  - name: "6.4 Depth Estimation"
+    href: datasets/depth-estimation.md
+  - name: "6.5 Pose"
+    href: datasets/pose.md
+  - name: "6.6 Classification"
+    href: datasets/classification.md
+  - name: "6.7 Oriented Bounding Boxes (OBB)"
+    href: datasets/oriented-bounding-boxes-obb.md
+  - name: "6.8 Multi-Object Tracking"
+    href: datasets/multi-object-tracking.md
+  - name: "6.9 Explorer"
+    href: datasets/explorer.md
+- name: "7. Solutions"
+  href: solutions/index.md
+  items:
+  - name: "7.1 Analytics"
+    href: solutions/analytics.md
+  - name: "7.2 Distance Calculation"
+    href: solutions/distance-calculation.md
+  - name: "7.3 Heatmaps"
+    href: solutions/heatmaps.md
+  - name: "7.4 Instance Segmentation Tracking"
+    href: solutions/instance-segmentation-tracking.md
+  - name: "7.5 Live Inference"
+    href: solutions/live-inference.md
+  - name: "7.6 Object Blurring"
+    href: solutions/object-blurring.md
+  - name: "7.7 Object Counting"
+    href: solutions/object-counting.md
+  - name: "7.8 Object Counting in Regions"
+    href: solutions/object-counting-in-regions.md
+  - name: "7.9 Object Cropping"
+    href: solutions/object-cropping.md
+  - name: "7.10 Parking Management"
+    href: solutions/parking-management.md
+  - name: "7.11 Queue Management"
+    href: solutions/queue-management.md
+  - name: "7.12 Security Alarm System"
+    href: solutions/security-alarm-system.md
+  - name: "7.13 Similarity Search"
+    href: solutions/similarity-search.md
+  - name: "7.14 Speed Estimation"
+    href: solutions/speed-estimation.md
+  - name: "7.15 Track Objects in Zone"
+    href: solutions/track-objects-in-zone.md
+  - name: "7.16 VisionEye View Objects Mapping"
+    href: solutions/visioneye-view-objects-mapping.md
+  - name: "7.17 Workouts Monitoring"
+    href: solutions/workouts-monitoring.md
+- name: "8. Guides"
+  href: guides/index.md
+  items:
+  - name: "8.1 Get started & plan"
+    href: guides/get-started-plan.md
+  - name: "8.2 Prepare your data"
+    href: guides/prepare-your-data.md
+  - name: "8.3 Train & fine-tune"
+    href: guides/train-fine-tune.md
+  - name: "8.4 Evaluate & troubleshoot"
+    href: guides/evaluate-troubleshoot.md
+  - name: "8.5 Deploy & serve"
+    href: guides/deploy-serve.md
+  - name: "8.6 Optimize inference"
+    href: guides/optimize-inference.md
+  - name: "8.7 Edge & embedded hardware"
+    href: guides/edge-embedded-hardware.md
+- name: "9. YOLOv5 (Legacy)"
+  href: yolov5-legacy/index.md
+  items:
+  - name: "9.1 Quickstart"
+    href: yolov5-legacy/quickstart.md
+  - name: "9.2 Environments"
+    href: yolov5-legacy/environments.md
+  - name: "9.3 Tutorials"
+    href: yolov5-legacy/tutorials.md
+- name: "10. Integrations"
+  href: integrations/index.md
+  items:
+  - name: "10.1 Agent Skills"
+    href: integrations/agent-skills.md
+  - name: "10.2 Albumentations"
+    href: integrations/albumentations.md
+  - name: "10.3 Amazon SageMaker"
+    href: integrations/amazon-sagemaker.md
+  - name: "10.4 Ambarella"
+    href: integrations/ambarella.md
+  - name: "10.5 AMD"
+    href: integrations/amd.md
+  - name: "10.6 AMD Xilinx"
+    href: integrations/amd-xilinx.md
+  - name: "10.7 Axelera"
+    href: integrations/axelera.md
+  - name: "10.8 ClearML"
+    href: integrations/clearml.md
+  - name: "10.9 Comet ML"
+    href: integrations/comet-ml.md
+  - name: "10.10 Core AI"
+    href: integrations/core-ai.md
+  - name: "10.11 CoreML"
+    href: integrations/coreml.md
+  - name: "10.12 DEEPX"
+    href: integrations/deepx.md
+  - name: "10.13 DVC"
+    href: integrations/dvc.md
+  - name: "10.14 ExecuTorch"
+    href: integrations/executorch.md
+  - name: "10.15 Google Colab"
+    href: integrations/google-colab.md
+  - name: "10.16 Gradio"
+    href: integrations/gradio.md
+  - name: "10.17 Hailo"
+    href: integrations/hailo.md
+  - name: "10.18 Huawei Ascend"
+    href: integrations/huawei-ascend.md
+  - name: "10.19 IBM Watsonx"
+    href: integrations/ibm-watsonx.md
+  - name: "10.20 JupyterLab"
+    href: integrations/jupyterlab.md
+  - name: "10.21 Kaggle"
+    href: integrations/kaggle.md
+  - name: "10.22 LiteRT"
+    href: integrations/litert.md
+  - name: "10.23 Luxonis OAK"
+    href: integrations/luxonis-oak.md
+  - name: "10.24 MLflow"
+    href: integrations/mlflow.md
+  - name: "10.25 MNN"
+    href: integrations/mnn.md
+  - name: "10.26 NCNN"
+    href: integrations/ncnn.md
+  - name: "10.27 Neural Magic"
+    href: integrations/neural-magic.md
+  - name: "10.28 ONNX"
+    href: integrations/onnx.md
+  - name: "10.29 OpenVINO"
+    href: integrations/openvino.md
+  - name: "10.30 PaddlePaddle"
+    href: integrations/paddlepaddle.md
+  - name: "10.31 Paperspace Gradient"
+    href: integrations/paperspace-gradient.md
+  - name: "10.32 Qualcomm QNN"
+    href: integrations/qualcomm-qnn.md
+  - name: "10.33 Ray Tune"
+    href: integrations/ray-tune.md
+  - name: "10.34 Roboflow"
+    href: integrations/roboflow.md
+  - name: "10.35 Rockchip RKNN"
+    href: integrations/rockchip-rknn.md
+  - name: "10.36 Seeed Studio reCamera"
+    href: integrations/seeed-studio-recamera.md
+  - name: "10.37 SONY IMX500"
+    href: integrations/sony-imx500.md
+  - name: "10.38 TensorBoard"
+    href: integrations/tensorboard.md
+  - name: "10.39 TensorRT"
+    href: integrations/tensorrt.md
+  - name: "10.40 TF GraphDef"
+    href: integrations/tf-graphdef.md
+  - name: "10.41 TF SavedModel"
+    href: integrations/tf-savedmodel.md
+  - name: "10.42 TF.js (deprecated)"
+    href: integrations/tf-js-deprecated.md
+  - name: "10.43 TFLite (deprecated)"
+    href: integrations/tflite-deprecated.md
+  - name: "10.44 TFLite Edge TPU"
+    href: integrations/tflite-edge-tpu.md
+  - name: "10.45 TorchScript"
+    href: integrations/torchscript.md
+  - name: "10.46 VS Code"
+    href: integrations/vs-code.md
+  - name: "10.47 Weights & Biases"
+    href: integrations/weights-biases.md
+  - name: "10.48 YAML2ModelGraph"
+    href: integrations/yaml2modelgraph.md
+- name: "11. Platform"
+  href: platform/index.md
+  items:
+  - name: "11.1 Quickstart"
+    href: platform/quickstart.md
+  - name: "11.2 Agents"
+    href: platform/agents.md
+  - name: "11.3 Data"
+    href: platform/data.md
+  - name: "11.4 Train"
+    href: platform/train.md
+  - name: "11.5 Deploy"
+    href: platform/deploy.md
+  - name: "11.6 Integrations"
+    href: platform/integrations.md
+  - name: "11.7 Account"
+    href: platform/account.md
+  - name: "11.8 Explore"
+    href: platform/explore.md
+  - name: "11.9 REST API"
+    href: platform/rest-api.md
+- name: "12. Rust Inference"
+  href: rust-inference/index.md
+  items:
+  - name: "12.1 Rust Inference"
+    href: rust-inference/rust-inference.md
+- name: "13. Reference"
+  href: reference/index.md
+  items:
+  - name: "13.1 __init__"
+    href: reference/init.md
+  - name: "13.2 cfg"
+    href: reference/cfg.md
+  - name: "13.3 data"
+    href: reference/data.md
+  - name: "13.4 engine"
+    href: reference/engine.md
+  - name: "13.5 models"
+    href: reference/models.md
+  - name: "13.6 nn"
+    href: reference/nn.md
+  - name: "13.7 optim"
+    href: reference/optim.md
+  - name: "13.8 solutions"
+    href: reference/solutions.md
+  - name: "13.9 trackers"
+    href: reference/trackers.md
+  - name: "13.10 utils"
+    href: reference/utils.md
+- name: "14. Help"
+  href: help/index.md
+  items:
+  - name: "14.1 Frequently Asked Questions (FAQ)"
+    href: help/frequently-asked-questions-faq.md
+  - name: "14.2 Contributing Guide"
+    href: help/contributing-guide.md
+  - name: "14.3 Continuous Integration (CI) Guide"
+    href: help/continuous-integration-ci-guide.md
+  - name: "14.4 Contributor License Agreement (CLA)"
+    href: help/contributor-license-agreement-cla.md
+  - name: "14.5 Minimum Reproducible Example (MRE) Guide"
+    href: help/minimum-reproducible-example-mre-guide.md
+  - name: "14.6 Code of Conduct"
+    href: help/code-of-conduct.md
+  - name: "14.7 EHS Policy"
+    href: help/ehs-policy.md
+  - name: "14.8 Security Policy"
+    href: help/security-policy.md
+  - name: "14.9 Privacy Policy"
+    href: help/privacy-policy.md

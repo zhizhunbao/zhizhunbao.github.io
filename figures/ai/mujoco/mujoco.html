@@ -1,0 +1,144 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<body>
+<div class="frame" id="fig">
+  <div class="title">MuJoCo</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">1 Overview</div>
+      <div class="item">1.1 Introduction</div>
+      <div class="item">1.2 Model elements</div>
+      <div class="item">1.3 Clarifications</div>
+    </div>
+    <div class="group">
+      <div class="title">2 Computation</div>
+      <div class="item">2.1 Introduction</div>
+      <div class="item">2.2 Soft contact model</div>
+      <div class="item">2.3 General framework</div>
+      <div class="item">2.4 Constraint model</div>
+      <div class="item">2.5 Constraint solver</div>
+      <div class="item">2.6 Collision detection</div>
+      <div class="item">2.7 Sleeping islands</div>
+      <div class="item">2.8 Simulation pipeline</div>
+      <div class="item">2.9 Derivatives</div>
+      <div class="item">2.10 Fluid forces</div>
+    </div>
+    <div class="group">
+      <div class="title">3 Modeling</div>
+      <div class="item">3.1 Introduction</div>
+      <div class="item">3.2 MJCF Mechanisms</div>
+      <div class="item">3.3 Tips and tricks</div>
+    </div>
+    <div class="group">
+      <div class="title">4 XML Reference</div>
+      <div class="item">4.1 Introduction</div>
+      <div class="item">4.2 MJCF Reference</div>
+    </div>
+    <div class="group">
+      <div class="title">5 Programming</div>
+      <div class="item">5.1 Introduction</div>
+      <div class="item">5.2 Getting started</div>
+      <div class="item">5.3 Building from source</div>
+      <div class="item">5.4 Building with Bazel</div>
+      <div class="item">5.5 Building the docs</div>
+      <div class="item">5.6 Header files</div>
+      <div class="item">5.7 Versions and compatibility</div>
+      <div class="item">5.8 Naming convention</div>
+      <div class="item">5.9 Simulation</div>
+      <div class="item">5.10 Visualization</div>
+      <div class="item">5.11 Rendering</div>
+      <div class="item">5.12 User Interface</div>
+      <div class="item">5.13 Model Editing</div>
+      <div class="item">5.14 Code samples</div>
+      <div class="item">5.15 Extensions</div>
+    </div>
+    <div class="group">
+      <div class="title">6 API Reference</div>
+      <div class="item">6.1 Types</div>
+      <div class="item">6.2 Functions</div>
+      <div class="item">6.3 Globals</div>
+    </div>
+    <div class="group">
+      <div class="title">7 Python</div>
+      <div class="item">7.1 Tutorial notebook</div>
+      <div class="item">7.2 Installation</div>
+      <div class="item">7.3 Interactive viewer</div>
+      <div class="item">7.4 Basic usage</div>
+      <div class="item">7.5 Model editing</div>
+      <div class="item">7.6 Building from source</div>
+      <div class="item">7.7 Modules</div>
+      <div class="item">7.8 Utilities</div>
+      <div class="item">7.9 mujoco-py migration</div>
+    </div>
+    <div class="group">
+      <div class="title">8 MuJoCo XLA</div>
+      <div class="item">8.1 Installation</div>
+      <div class="item">8.2 Minimal example</div>
+      <div class="item">8.3 MJX Implementations</div>
+      <div class="item">8.4 Tutorial notebook</div>
+      <div class="item">8.5 In-depth usage</div>
+      <div class="item">8.6 Feature Parity</div>
+      <div class="item">8.7 Performance Tuning</div>
+      <div class="item">8.8 MJX-JAX - The Sharp Bits</div>
+      <div class="item">8.9 API</div>
+    </div>
+    <div class="group">
+      <div class="title">9 MuJoCo Warp</div>
+      <div class="item">9.1 Tutorial notebook</div>
+      <div class="item">9.2 When To Use MJWarp?</div>
+      <div class="item">9.3 Installation</div>
+      <div class="item">9.4 Basic Usage</div>
+      <div class="item">9.5 Feature Parity</div>
+      <div class="item">9.6 Performance Tuning</div>
+      <div class="item">9.7 Batched Model Fields</div>
+      <div class="item">9.8 Batch Rendering</div>
+      <div class="item">9.9 Frequently Asked Questions</div>
+      <div class="item">9.10 Differences from MuJoCo</div>
+      <div class="item">9.11 API</div>
+    </div>
+    <div class="group">
+      <div class="title">10 Unity Plug-in</div>
+      <div class="item">10.1 Introduction</div>
+      <div class="item">10.2 Installation instructions</div>
+      <div class="item">10.3 Using the plug-in</div>
+      <div class="item">10.4 Design principles</div>
+      <div class="item">10.5 Implementation notes</div>
+    </div>
+    <div class="group">
+      <div class="title">11 OpenUSD</div>
+      <div class="item">11.1 Introduction</div>
+      <div class="item">11.2 What is OpenUSD?</div>
+      <div class="item">11.3 Why do we care about OpenUSD?</div>
+      <div class="item">11.4 USD support overview</div>
+      <div class="item">11.5 Where do I learn more about USD?</div>
+      <div class="item">11.6 Building</div>
+      <div class="item">11.7 mjcPhysics</div>
+      <div class="item">11.8 File Format Plugin</div>
+      <div class="item">11.9 Importing</div>
+      <div class="item">11.10 Exporting</div>
+    </div>
+    <div class="group">
+      <div class="title">12 Model Gallery</div>
+      <div class="item">12.1 MuJoCo Menagerie</div>
+    </div>
+    <div class="group">
+      <div class="title">13 Changelog</div>
+      <div class="item">13.1 Changelog</div>
+    </div>
+  </div>
+</div>
+</body></html>

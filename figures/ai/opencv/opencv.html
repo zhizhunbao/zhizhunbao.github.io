@@ -1,0 +1,113 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<body>
+<div class="frame" id="fig">
+  <div class="title">OpenCV</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">1 Introduction to OpenCV</div>
+      <div class="item">1.1 Introduction to OpenCV-Python Tutorials</div>
+      <div class="item">1.2 Install OpenCV for Python with pip</div>
+      <div class="item">1.3 Install OpenCV-Python in Windows</div>
+      <div class="item">1.4 Install OpenCV-Python in Fedora</div>
+      <div class="item">1.5 Install OpenCV-Python in Ubuntu</div>
+    </div>
+    <div class="group">
+      <div class="title">2 Gui Features in OpenCV</div>
+      <div class="item">2.1 Getting Started with Images</div>
+      <div class="item">2.2 Getting Started with Videos</div>
+      <div class="item">2.3 Drawing Functions in OpenCV</div>
+      <div class="item">2.4 Mouse as a Paint-Brush</div>
+      <div class="item">2.5 Trackbar as the Color Palette</div>
+    </div>
+    <div class="group">
+      <div class="title">3 Core Operations</div>
+      <div class="item">3.1 Basic Operations on Images</div>
+      <div class="item">3.2 Arithmetic Operations on Images</div>
+      <div class="item">3.3 Performance Measurement and Improvement Techniques</div>
+    </div>
+    <div class="group">
+      <div class="title">4 Image Processing in OpenCV</div>
+      <div class="item">4.1 Changing Colorspaces</div>
+      <div class="item">4.2 Geometric Transformations of Images</div>
+      <div class="item">4.3 Image Thresholding</div>
+      <div class="item">4.4 Smoothing Images</div>
+      <div class="item">4.5 Morphological Transformations</div>
+      <div class="item">4.6 Image Gradients</div>
+      <div class="item">4.7 Canny Edge Detection</div>
+      <div class="item">4.8 Image Pyramids</div>
+      <div class="item">4.9 Contours in OpenCV</div>
+      <div class="item">4.10 Histograms in OpenCV</div>
+      <div class="item">4.11 Image Transforms in OpenCV</div>
+      <div class="item">4.12 Template Matching</div>
+      <div class="item">4.13 Hough Line Transform</div>
+      <div class="item">4.14 Hough Circle Transform</div>
+      <div class="item">4.15 Image Segmentation with Watershed Algorithm</div>
+      <div class="item">4.16 Interactive Foreground Extraction Using GrabCut Algorithm</div>
+    </div>
+    <div class="group">
+      <div class="title">5 Feature Detection and Description</div>
+      <div class="item">5.1 Understanding Features</div>
+      <div class="item">5.2 Harris Corner Detection</div>
+      <div class="item">5.3 Shi-Tomasi Corner Detector &amp; Good Features to Track</div>
+      <div class="item">5.4 Introduction to SIFT (Scale-Invariant Feature Transform)</div>
+      <div class="item">5.5 Introduction to SURF (Speeded-Up Robust Features)</div>
+      <div class="item">5.6 FAST Algorithm for Corner Detection</div>
+      <div class="item">5.7 BRIEF (Binary Robust Independent Elementary Features)</div>
+      <div class="item">5.8 ORB (Oriented FAST and Rotated BRIEF)</div>
+      <div class="item">5.9 Feature Matching</div>
+      <div class="item">5.10 Feature Matching + Homography to Find Objects</div>
+    </div>
+    <div class="group">
+      <div class="title">6 Video Analysis (video module)</div>
+      <div class="item">6.1 Other Tutorials (ml, objdetect, photo, stitching, video)</div>
+    </div>
+    <div class="group">
+      <div class="title">7 Camera Calibration and 3D Reconstruction</div>
+      <div class="item">7.1 Camera Calibration</div>
+      <div class="item">7.2 Pose Estimation</div>
+      <div class="item">7.3 Epipolar Geometry</div>
+      <div class="item">7.4 Depth Map from Stereo Images</div>
+    </div>
+    <div class="group">
+      <div class="title">8 Machine Learning</div>
+      <div class="item">8.1 K-Nearest Neighbour</div>
+      <div class="item">8.2 Support Vector Machines (SVM)</div>
+      <div class="item">8.3 K-Means Clustering</div>
+    </div>
+    <div class="group">
+      <div class="title">9 Computational Photography</div>
+      <div class="item">9.1 Image Denoising</div>
+      <div class="item">9.2 Image Inpainting</div>
+      <div class="item">9.3 High Dynamic Range (HDR)</div>
+    </div>
+    <div class="group">
+      <div class="title">10 Object Detection (objdetect module)</div>
+      <div class="item">10.1 Detection of ArUco Markers</div>
+      <div class="item">10.2 Detection of ArUco Boards</div>
+      <div class="item">10.3 Detection of ChArUco Boards</div>
+      <div class="item">10.4 Detection of Diamond Markers</div>
+      <div class="item">10.5 Calibration with ArUco and ChArUco</div>
+      <div class="item">10.6 Aruco Module FAQ</div>
+    </div>
+    <div class="group">
+      <div class="title">11 OpenCV-Python Bindings</div>
+      <div class="item">11.1 How OpenCV-Python Bindings Works?</div>
+    </div>
+  </div>
+</div>
+</body></html>

@@ -1,0 +1,99 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. User Guide"
+  href: user-guide/index.md
+  items:
+  - name: "1.1 Installation"
+    href: user-guide/installation.md
+  - name: "1.2 Getting Started"
+    href: user-guide/getting-started.md
+  - name: "1.3 Reinforcement Learning Tips and Tricks"
+    href: user-guide/reinforcement-learning-tips-and-tricks.md
+  - name: "1.4 Reinforcement Learning Resources"
+    href: user-guide/reinforcement-learning-resources.md
+  - name: "1.5 RL Algorithms"
+    href: user-guide/rl-algorithms.md
+  - name: "1.6 Examples"
+    href: user-guide/examples.md
+  - name: "1.7 Vectorized Environments"
+    href: user-guide/vectorized-environments.md
+  - name: "1.8 Policy Networks"
+    href: user-guide/policy-networks.md
+  - name: "1.9 Using Custom Environments"
+    href: user-guide/using-custom-environments.md
+  - name: "1.10 Callbacks"
+    href: user-guide/callbacks.md
+  - name: "1.11 Tensorboard Integration"
+    href: user-guide/tensorboard-integration.md
+  - name: "1.12 Integrations"
+    href: user-guide/integrations.md
+  - name: "1.13 RL Baselines3 Zoo"
+    href: user-guide/rl-baselines3-zoo.md
+  - name: "1.14 SB3 Contrib"
+    href: user-guide/sb3-contrib.md
+  - name: "1.15 Stable Baselines Jax (SBX)"
+    href: user-guide/stable-baselines-jax-sbx.md
+  - name: "1.16 Plotting"
+    href: user-guide/plotting.md
+  - name: "1.17 Imitation Learning"
+    href: user-guide/imitation-learning.md
+  - name: "1.18 Migrating from Stable-Baselines"
+    href: user-guide/migrating-from-stable-baselines.md
+  - name: "1.19 Dealing with NaNs and infs"
+    href: user-guide/dealing-with-nans-and-infs.md
+  - name: "1.20 Developer Guide"
+    href: user-guide/developer-guide.md
+  - name: "1.21 On saving and loading"
+    href: user-guide/on-saving-and-loading.md
+  - name: "1.22 Exporting models"
+    href: user-guide/exporting-models.md
+- name: "2. RL Algorithms"
+  href: rl-algorithms/index.md
+  items:
+  - name: "2.1 Base RL Class"
+    href: rl-algorithms/base-rl-class.md
+  - name: "2.2 A2C"
+    href: rl-algorithms/a2c.md
+  - name: "2.3 DDPG"
+    href: rl-algorithms/ddpg.md
+  - name: "2.4 DQN"
+    href: rl-algorithms/dqn.md
+  - name: "2.5 HER"
+    href: rl-algorithms/her.md
+  - name: "2.6 PPO"
+    href: rl-algorithms/ppo.md
+  - name: "2.7 SAC"
+    href: rl-algorithms/sac.md
+  - name: "2.8 TD3"
+    href: rl-algorithms/td3.md
+- name: "3. Common"
+  href: common/index.md
+  items:
+  - name: "3.1 Atari Wrappers"
+    href: common/atari-wrappers.md
+  - name: "3.2 Environments Utils"
+    href: common/environments-utils.md
+  - name: "3.3 Custom Environments"
+    href: common/custom-environments.md
+  - name: "3.4 Probability Distributions"
+    href: common/probability-distributions.md
+  - name: "3.5 Evaluation Helper"
+    href: common/evaluation-helper.md
+  - name: "3.6 Gym Environment Checker"
+    href: common/gym-environment-checker.md
+  - name: "3.7 Monitor Wrapper"
+    href: common/monitor-wrapper.md
+  - name: "3.8 Logger"
+    href: common/logger.md
+  - name: "3.9 Action Noise"
+    href: common/action-noise.md
+  - name: "3.10 Utils"
+    href: common/utils.md
+- name: "4. Misc"
+  href: misc/index.md
+  items:
+  - name: "4.1 Changelog"
+    href: misc/changelog.md
+  - name: "4.2 Projects"
+    href: misc/projects.md
