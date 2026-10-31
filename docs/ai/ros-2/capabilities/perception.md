@@ -1,11 +1,11 @@
 ---
-title: "6.4 Perception"
-description: "ROS 2, 6.4 Perception."
+title: "4.4 Perception"
+description: "ROS 2, 4.4 Perception."
 ms.date: 2026-10-30
 ---
 
-# 6.4 Perception
+# 4.4 Perception
 
-Sources: [ROS 2 Documentation, 6.4 Perception](https://docs.ros.org/en/lyrical/Capabilities/About-Perception.html).
+Sources: [ROS 2 Documentation, Perception](https://docs.ros.org/en/lyrical/Capabilities/About-Perception.html).
 
 Not written yet.

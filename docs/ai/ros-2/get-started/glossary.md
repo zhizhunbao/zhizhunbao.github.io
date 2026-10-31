@@ -1,11 +1,26 @@
 ---
-title: "2.5 Glossary"
-description: "ROS 2, 2.5 Glossary."
+title: "1.1 Glossary"
+description: "ROS 2, 1.1 Glossary."
 ms.date: 2026-10-30
 ---
 
-# 2.5 Glossary
+# 1.1 Glossary
 
-Sources: [ROS 2 Documentation, 2.5 Glossary](https://docs.ros.org/en/lyrical/Get-Started/Glossary.html).
+Sources: [ROS 2 Documentation, Glossary](https://docs.ros.org/en/lyrical/Get-Started/Glossary.html).
+
+Parts, from the official menu (folder README):
+
+- API
+- client_library
+- package
+- REP
+- VCS
+- rclcpp
+- repository
+- Buffer
+- Buffer backend
+- Tensor message
+- Buffer descriptor
+- Acceptable backend list
 
 Not written yet.
