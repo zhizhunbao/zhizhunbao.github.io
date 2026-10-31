@@ -11,21 +11,39 @@
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
 </style><style>.item { border: 1.5px solid #0f6cbd; }</style>
-<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
-<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
 </head>
-<style>.grid .item { flex: 0 1 auto; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">2 API</div>
+  <div class="title">2.3 Spaces</div>
   <div class="row">
     <div class="group">
-      <div class="title">2.3 Spaces</div>
-      <div class="grid">
-        <div class="item">Fundamental Spaces</div>
-        <div class="item">Composite Spaces</div>
-        <div class="item">Spaces Utils</div>
-      </div>
+      <div class="title">Methods</div>
+      <div class="item">Space.sample</div>
+      <div class="item">Space.contains</div>
+      <div class="item">Space.seed</div>
+      <div class="item">Space.to_jsonable</div>
+      <div class="item">Space.from_jsonable</div>
+    </div>
+    <div class="group">
+      <div class="title">Fundamental Spaces</div>
+      <div class="item">Box</div>
+      <div class="item">Discrete</div>
+      <div class="item">MultiBinary</div>
+      <div class="item">MultiDiscrete</div>
+      <div class="item">Text</div>
+    </div>
+    <div class="group">
+      <div class="title">Composite Spaces</div>
+      <div class="item">Dict</div>
+      <div class="item">Tuple</div>
+      <div class="item">Sequence</div>
+      <div class="item">Graph</div>
+      <div class="item">OneOf</div>
+    </div>
+    <div class="group">
+      <div class="title">Spaces Utils</div>
     </div>
   </div>
 </div>

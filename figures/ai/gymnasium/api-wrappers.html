@@ -11,22 +11,72 @@
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
 </style><style>.item { border: 1.5px solid #0f6cbd; }</style>
-<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
-<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
 </head>
-<style>.grid .item { flex: 0 1 auto; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">2 API</div>
+  <div class="title">2.4 Wrappers</div>
   <div class="row">
     <div class="group">
-      <div class="title">2.4 Wrappers</div>
-      <div class="grid">
-        <div class="item">Misc Wrappers</div>
-        <div class="item">Action Wrappers</div>
-        <div class="item">Observation Wrappers</div>
-        <div class="item">Reward Wrappers</div>
-      </div>
+      <div class="title">Methods</div>
+      <div class="item">Wrapper.step</div>
+      <div class="item">Wrapper.reset</div>
+      <div class="item">Wrapper.render</div>
+      <div class="item">Wrapper.close</div>
+      <div class="item">Wrapper.wrapper_spec</div>
+      <div class="item">Wrapper.get_wrapper_attr</div>
+      <div class="item">Wrapper.set_wrapper_attr</div>
+    </div>
+    <div class="group">
+      <div class="title">Misc Wrappers</div>
+      <div class="item">TimeLimit</div>
+      <div class="item">RecordVideo</div>
+      <div class="item">RecordEpisodeStatistics</div>
+      <div class="item">AtariPreprocessing</div>
+      <div class="item">Autoreset</div>
+      <div class="item">PassiveEnvChecker</div>
+      <div class="item">HumanRendering</div>
+      <div class="item">OrderEnforcing</div>
+      <div class="item">RenderCollection</div>
+      <div class="item">ArrayConversion</div>
+      <div class="item">JaxToNumpy</div>
+      <div class="item">JaxToTorch</div>
+      <div class="item">NumpyToTorch</div>
+    </div>
+    <div class="group">
+      <div class="title">Action Wrappers</div>
+      <div class="item">ActionWrapper.action</div>
+      <div class="item">TransformAction</div>
+      <div class="item">ClipAction</div>
+      <div class="item">RescaleAction</div>
+      <div class="item">StickyAction</div>
+      <div class="item">RepeatAction</div>
+    </div>
+    <div class="group">
+      <div class="title">Observation Wrappers</div>
+      <div class="item">ObservationWrapper.observation</div>
+      <div class="item">TransformObservation</div>
+      <div class="item">DelayObservation</div>
+      <div class="item">DtypeObservation</div>
+      <div class="item">FilterObservation</div>
+      <div class="item">FlattenObservation</div>
+      <div class="item">FrameStackObservation</div>
+      <div class="item">GrayscaleObservation</div>
+      <div class="item">MaxAndSkipObservation</div>
+      <div class="item">NormalizeObservation</div>
+      <div class="item">AddRenderObservation</div>
+      <div class="item">ResizeObservation</div>
+      <div class="item">ReshapeObservation</div>
+      <div class="item">RescaleObservation</div>
+      <div class="item">TimeAwareObservation</div>
+    </div>
+    <div class="group">
+      <div class="title">Reward Wrappers</div>
+      <div class="item">RewardWrapper.reward</div>
+      <div class="item">TransformReward</div>
+      <div class="item">NormalizeReward</div>
+      <div class="item">ClipReward</div>
     </div>
   </div>
 </div>

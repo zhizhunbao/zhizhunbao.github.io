@@ -1,6 +1,6 @@
 ---
 title: "4.6 Classification"
-description: "Ultralytics YOLO, 4.6 Classification: Caltech 101, Caltech 256, CIFAR-10, CIFAR-100, Fashion-MNIST, ImageNet, ImageNet-10, Imagenette, Imagewoof, MNIST."
+description: "Ultralytics YOLO, 4.6 Classification: Dataset Structure for YOLO Classification Tasks, Caltech 101, Caltech 256, CIFAR-10, CIFAR-100, Fashion-MNIST, ImageNet, ImageNet-10, Imagenette, Imagewoof, MNIST."
 ms.date: 2026-10-31
 ---
 
@@ -8,13 +8,14 @@ ms.date: 2026-10-31
 
 ## Classification
 
-![4.6 Classification: its 10 parts from the official menu, in menu order, in Ultralytics YOLO.](media/classification.png)
+![4.6 Classification: its 11 parts from the official menu, in menu order, in Ultralytics YOLO.](media/classification.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **4.6 Classification**<br>分类数据集 | (No definition) | （无定义） | [Ultralytics, n.d.-f, "Image Classification Datasets Overview"](https://docs.ultralytics.com/datasets/classify/#image-classification-datasets-overview) |
+| **Dataset Structure for YOLO Classification Tasks**<br>YOLO 分类任务的数据集结构 | "For Ultralytics YOLO classification tasks, the dataset must be organized in **a specific split-directory structure under the `root` directory**." | 对于 Ultralytics YOLO 分类任务，数据集必须**在 `root` 目录下按特定的划分目录结构组织**。 | [Ultralytics, n.d.-f, "Dataset Structure for YOLO Classification Tasks", para. 1](https://docs.ultralytics.com/datasets/classify/#dataset-structure-for-yolo-classification-tasks) |
 | **Caltech 101**<br>Caltech-101 | "The Caltech-101 dataset is **a classic image classification benchmark of 9,144 images spanning 101 object categories plus one background class**." | Caltech-101 数据集是**一个经典的图像分类基准，含 9,144 张图像，涵盖 101 个物体类别和一个背景类别**。 | [Ultralytics, n.d.-a, "Caltech-101 Dataset", para. 1](https://docs.ultralytics.com/datasets/classify/caltech101/#caltech-101-dataset) |
 | **Caltech 256**<br>Caltech-256 | "The Caltech-256 dataset is **a classic image classification benchmark of 30,607 images spanning 256 object categories plus one background class**." | Caltech-256 数据集是**一个经典的图像分类基准，含 30,607 张图像，涵盖 256 个物体类别和一个背景类别**。 | [Ultralytics, n.d.-b, "Caltech-256 Dataset", para. 1](https://docs.ultralytics.com/datasets/classify/caltech256/#caltech-256-dataset) |
 | **CIFAR-10**<br>CIFAR-10 | "The CIFAR-10 (Canadian Institute For Advanced Research) dataset is **a classic image classification benchmark of 60,000 32x32 color images evenly split across 10 classes** — airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck." | CIFAR-10（加拿大高等研究院）数据集是**一个经典的图像分类基准，含 60,000 张 32×32 的彩色图像，平均分为 10 个类别**：飞机、汽车、鸟、猫、鹿、狗、青蛙、马、船和卡车。 | [Ultralytics, n.d.-c, "CIFAR-10 Dataset", para. 1](https://docs.ultralytics.com/datasets/classify/cifar10/#cifar-10-dataset) |

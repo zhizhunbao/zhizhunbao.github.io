@@ -11,27 +11,84 @@
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
 </style><style>.item { border: 1.5px solid #0f6cbd; }</style>
-<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
-<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
 </head>
-<style>.grid .item { flex: 0 1 auto; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">Stable-Baselines3</div>
+  <div class="title">1 User Guide</div>
   <div class="row">
     <div class="group">
-      <div class="title">1 User Guide</div>
-      <div class="grid">
-        <div class="item">1.1 RL Algorithms</div>
-        <div class="item">1.2 Vectorized Environments</div>
-        <div class="item">1.3 Policy Networks</div>
-        <div class="item">1.4 Callbacks</div>
-        <div class="item">1.5 RL Baselines3 Zoo</div>
-        <div class="item">1.6 SB3 Contrib</div>
-        <div class="item">1.7 Stable Baselines Jax (SBX)</div>
-        <div class="item">1.8 Imitation Learning</div>
-        <div class="item">1.9 On saving and loading</div>
-      </div>
+      <div class="title">1.1 RL Algorithms</div>
+      <div class="item">Box</div>
+      <div class="item">Discrete</div>
+      <div class="item">MultiDiscrete</div>
+      <div class="item">MultiBinary</div>
+      <div class="item">Reproducibility</div>
+      <div class="item">Training exceeds total_timesteps</div>
+    </div>
+    <div class="group">
+      <div class="title">1.2 Vectorized Environments</div>
+      <div class="item">VecEnv API vs Gym API</div>
+      <div class="item">Modifying Vectorized Environments Attributes</div>
+      <div class="item">Vectorized Environments Wrappers</div>
+      <div class="item">VecEnv</div>
+      <div class="item">DummyVecEnv</div>
+      <div class="item">SubprocVecEnv</div>
+      <div class="item">Wrappers</div>
+    </div>
+    <div class="group">
+      <div class="title">1.3 Policy Networks</div>
+      <div class="item">CnnPolicies</div>
+      <div class="item">MlpPolicies</div>
+      <div class="item">MultiInputPolicies</div>
+      <div class="item">SB3 Policy</div>
+      <div class="item">Default Network Architecture</div>
+      <div class="item">Custom Network Architecture</div>
+      <div class="item">Custom Feature Extractor</div>
+      <div class="item">Multiple Inputs and Dictionary Observations</div>
+      <div class="item">On-Policy Algorithms</div>
+      <div class="item">Off-Policy Algorithms</div>
+    </div>
+    <div class="group">
+      <div class="title">1.4 Callbacks</div>
+      <div class="item">Custom Callback</div>
+      <div class="item">Event Callback</div>
+      <div class="item">Callback Collection</div>
+    </div>
+    <div class="group">
+      <div class="title">1.5 RL Baselines3 Zoo</div>
+      <div class="item">Hyperparameter Optimization</div>
+    </div>
+    <div class="group">
+      <div class="title">1.6 SB3 Contrib</div>
+      <div class="item">Features</div>
+    </div>
+    <div class="group">
+      <div class="title">1.7 Stable Baselines Jax (SBX)</div>
+      <div class="item">Soft Actor-Critic (SAC) and SAC-N</div>
+      <div class="item">Truncated Quantile Critics (TQC)</div>
+      <div class="item">Dropout Q-Functions for Doubly Efficient Reinforcement Learning (DroQ)</div>
+      <div class="item">Proximal Policy Optimization (PPO)</div>
+      <div class="item">Deep Q Network (DQN)</div>
+      <div class="item">Twin Delayed DDPG (TD3)</div>
+      <div class="item">Deep Deterministic Policy Gradient (DDPG)</div>
+      <div class="item">Batch Normalization in Deep Reinforcement Learning (CrossQ)</div>
+      <div class="item">Simplicity Bias for Scaling Up Parameters in Deep Reinforcement Learning (SimBa)</div>
+    </div>
+    <div class="group">
+      <div class="title">1.8 Imitation Learning</div>
+      <div class="item">Behavioral Cloning</div>
+      <div class="item">DAgger</div>
+      <div class="item">Adversarial Inverse Reinforcement Learning (AIRL)</div>
+      <div class="item">Generative Adversarial Imitation Learning (GAIL)</div>
+      <div class="item">Deep RL from Human Preferences (DRLHP)</div>
+    </div>
+    <div class="group">
+      <div class="title">1.9 On saving and loading</div>
+      <div class="item">parameters</div>
+      <div class="item">data</div>
+      <div class="item">Zip-archive</div>
     </div>
   </div>
 </div>

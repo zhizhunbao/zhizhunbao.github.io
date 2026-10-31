@@ -11,22 +11,71 @@
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
 </style><style>.item { border: 1.5px solid #0f6cbd; }</style>
-<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
-<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
 </head>
-<style>.grid .item { flex: 0 1 auto; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">2 API</div>
+  <div class="title">2.5 Vectorize</div>
   <div class="row">
     <div class="group">
-      <div class="title">2.5 Vectorize</div>
-      <div class="grid">
-        <div class="item">Wrappers</div>
-        <div class="item">AsyncVectorEnv</div>
-        <div class="item">SyncVectorEnv</div>
-        <div class="item">Utility functions</div>
-      </div>
+      <div class="title">Methods</div>
+      <div class="item">VectorEnv.step</div>
+      <div class="item">VectorEnv.reset</div>
+      <div class="item">VectorEnv.render</div>
+      <div class="item">VectorEnv.close</div>
+    </div>
+    <div class="group">
+      <div class="title">Wrappers</div>
+      <div class="item">VectorWrapper.step</div>
+      <div class="item">VectorWrapper.reset</div>
+      <div class="item">VectorWrapper.render</div>
+      <div class="item">VectorWrapper.close</div>
+      <div class="item">VectorObservationWrapper</div>
+      <div class="item">VectorActionWrapper</div>
+      <div class="item">VectorRewardWrapper</div>
+      <div class="item">DictInfoToList</div>
+      <div class="item">VectorizeTransformObservation</div>
+      <div class="item">VectorizeTransformAction</div>
+      <div class="item">VectorizeTransformReward</div>
+      <div class="item">RecordEpisodeStatistics</div>
+      <div class="item">TransformObservation</div>
+      <div class="item">FilterObservation</div>
+      <div class="item">FlattenObservation</div>
+      <div class="item">GrayscaleObservation</div>
+      <div class="item">ResizeObservation</div>
+      <div class="item">ReshapeObservation</div>
+      <div class="item">RescaleObservation</div>
+      <div class="item">DtypeObservation</div>
+      <div class="item">NormalizeObservation</div>
+      <div class="item">TransformAction</div>
+      <div class="item">ClipAction</div>
+      <div class="item">RescaleAction</div>
+      <div class="item">TransformReward</div>
+      <div class="item">ClipReward</div>
+      <div class="item">NormalizeReward</div>
+      <div class="item">ArrayConversion</div>
+      <div class="item">JaxToNumpy</div>
+      <div class="item">JaxToTorch</div>
+      <div class="item">NumpyToTorch</div>
+    </div>
+    <div class="group">
+      <div class="title">AsyncVectorEnv</div>
+      <div class="item">AsyncVectorEnv.reset</div>
+      <div class="item">AsyncVectorEnv.call</div>
+      <div class="item">AsyncVectorEnv.get_attr</div>
+      <div class="item">AsyncVectorEnv.set_attr</div>
+    </div>
+    <div class="group">
+      <div class="title">SyncVectorEnv</div>
+      <div class="item">SyncVectorEnv.reset</div>
+      <div class="item">SyncVectorEnv.step</div>
+      <div class="item">SyncVectorEnv.call</div>
+      <div class="item">SyncVectorEnv.get_attr</div>
+      <div class="item">SyncVectorEnv.set_attr</div>
+    </div>
+    <div class="group">
+      <div class="title">Utility functions</div>
     </div>
   </div>
 </div>

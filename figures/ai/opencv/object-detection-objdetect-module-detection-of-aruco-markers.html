@@ -1,0 +1,59 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<body>
+<div class="frame" id="fig">
+  <div class="title">7.1 Detection of ArUco Markers</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">Markers and Dictionaries</div>
+      <div class="item">ArUco marker</div>
+      <div class="item">dictionary of markers</div>
+      <div class="item">dictionary size</div>
+      <div class="item">marker size</div>
+      <div class="item">marker id</div>
+    </div>
+    <div class="group">
+      <div class="title">Marker Creation</div>
+    </div>
+    <div class="group">
+      <div class="title">Marker Detection</div>
+      <div class="item">Detection of marker candidates</div>
+      <div class="item">ArucoDetector</div>
+      <div class="item">ArucoDetector::detectMarkers()</div>
+    </div>
+    <div class="group">
+      <div class="title">Pose Estimation</div>
+    </div>
+    <div class="group">
+      <div class="title">Selecting a dictionary</div>
+      <div class="item">Dictionary</div>
+      <div class="item">inter-marker distance</div>
+      <div class="item">Predefined dictionaries</div>
+      <div class="item">Automatic dictionary generation</div>
+      <div class="item">Manual dictionary definition</div>
+    </div>
+    <div class="group">
+      <div class="title">Detector Parameters</div>
+      <div class="item">Thresholding</div>
+      <div class="item">Contour filtering</div>
+      <div class="item">Bits Extraction</div>
+      <div class="item">Marker identification</div>
+      <div class="item">Corner Refinement</div>
+    </div>
+  </div>
+</div>
+</body></html>

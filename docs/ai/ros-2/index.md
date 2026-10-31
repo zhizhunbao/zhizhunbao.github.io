@@ -19,6 +19,8 @@ ms.date: 2026-10-30
 | **[2 Framework](framework/index.md)**<br>框架 | "The ROS framework is **the “plumbing” which allows for communication between parts of a robot, and within parts of a robot**." | ROS 框架是**让机器人各部分之间以及各部分内部能够通信的“管道”**。 | [Open Robotics, n.d.-a, "Framework", para. 1](https://docs.ros.org/en/lyrical/About-ROS.html#framework) |
 | **[3 Tools](tools/index.md)**<br>工具 | "Tools in ROS **help developers build, test, and monitor robotic systems**." | ROS 中的工具**帮助开发者构建、测试和监控机器人系统**。 | [Open Robotics, n.d.-a, "Tools", para. 1](https://docs.ros.org/en/lyrical/About-ROS.html#tools) |
 | **[4 Capabilities](capabilities/index.md)**<br>能力 | "Capabilities in ROS are **ready-to-use packages that offer common functions for robots, such as manipulation, motion planning, and perception**." | ROS 中的能力是**现成可用的软件包，为机器人提供常用功能，如操作、运动规划和感知**。 | [Open Robotics, n.d.-a, "Capabilities", para. 1](https://docs.ros.org/en/lyrical/About-ROS.html#capabilities) |
+| **The ecosystem**<br>生态系统 | "Despite its name, ROS is actually **not an operating system in the traditional sense, but a set of tools and libraries that help developers create robots using various platforms and programming languages**." | 尽管名字如此，ROS 实际上**并不是传统意义上的操作系统，而是一套帮助开发者用各种平台和编程语言创建机器人的工具和库**。 | [Open Robotics, n.d.-a, "The ecosystem", para. 1](https://docs.ros.org/en/lyrical/About-ROS.html#the-ecosystem) |
+| **ROS distributions**<br>ROS 发行版 | "A ROS distribution is **a packaged set of ROS software released on a regular schedule**." | ROS 发行版是**按固定周期发布的一套打包好的 ROS 软件**。 | [Open Robotics, n.d.-a, "ROS distributions", para. 1](https://docs.ros.org/en/lyrical/About-ROS.html#ros-distributions) |
 
 ## References
 

@@ -1,37 +1,55 @@
 items:
 - name: Overview
   href: index.md
-- name: Claude
-  href: claude/index.md
 - name: CS2023 AI
   href: cs2023/toc.yml
-- name: Gymnasium
-  href: gymnasium/toc.yml
-- name: Hugging Face Transformers
-  href: hugging-face-transformers/toc.yml
-- name: LlamaIndex
-  href: llamaindex/index.md
-- name: Microsoft Foundry
-  href: microsoft-foundry/index.md
-- name: Model Context Protocol
-  href: model-context-protocol/index.md
-- name: MuJoCo
-  href: mujoco/toc.yml
-- name: NIST AI Risk Management Framework
-  href: nist-ai-rmf/index.md
-- name: Ollama
-  href: ollama/index.md
-- name: OpenAI
-  href: openai/index.md
-- name: OpenCV
-  href: opencv/toc.yml
-- name: PyTorch
-  href: pytorch/toc.yml
-- name: ROS 2
-  href: ros-2/toc.yml
-- name: scikit-learn
-  href: scikit-learn/toc.yml
-- name: Stable-Baselines3
-  href: stable-baselines3/toc.yml
-- name: Ultralytics YOLO
-  href: ultralytics-yolo/toc.yml
+- name: Machine Learning
+  items:
+  - name: scikit-learn
+    href: scikit-learn/toc.yml
+- name: Deep Learning
+  items:
+  - name: PyTorch
+    href: pytorch/toc.yml
+- name: Reinforcement Learning
+  items:
+  - name: Gymnasium
+    href: gymnasium/toc.yml
+  - name: Stable-Baselines3
+    href: stable-baselines3/toc.yml
+- name: Perception and Computer Vision
+  items:
+  - name: OpenCV
+    href: opencv/toc.yml
+  - name: Ultralytics YOLO
+    href: ultralytics-yolo/toc.yml
+- name: Natural Language Processing
+  items:
+  - name: Hugging Face Transformers
+    href: hugging-face-transformers/toc.yml
+- name: Agents and Cognitive Systems
+  items:
+  - name: LlamaIndex
+    href: llamaindex/index.md
+  - name: Model Context Protocol
+    href: model-context-protocol/index.md
+- name: Deployed Deep Generative Models
+  items:
+  - name: Claude
+    href: claude/index.md
+  - name: Microsoft Foundry
+    href: microsoft-foundry/index.md
+  - name: Ollama
+    href: ollama/index.md
+  - name: OpenAI
+    href: openai/index.md
+- name: Robotics
+  items:
+  - name: MuJoCo
+    href: mujoco/toc.yml
+  - name: ROS 2
+    href: ros-2/toc.yml
+- name: Applications and Societal Impact
+  items:
+  - name: NIST AI Risk Management Framework
+    href: nist-ai-rmf/index.md

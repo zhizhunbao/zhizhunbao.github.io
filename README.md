@@ -132,7 +132,7 @@ Content has official sources; section names are the common names of the field.
 - Standards and frameworks keep their full names, and Microsoft entries keep the Microsoft name (Microsoft Azure, Microsoft Foundry).
 - Protocols defined in RFCs stay under RFC Series in Networking, grouped by the seven IETF areas (third level, in the order of ietf.org/topics/areas), each RFC under the area of the working group that produced it as the IETF Datatracker records it (fourth level: RFC 6455 under Applications and Real-Time, RFC 9110 under Web and Internet Transport), with all its sections (fifth level).
 - Courses are not second-level entries either. A course decides which topics of a source get pages (only the ones I study, in the source's own order and titles), never their names, order or content. The course pages under Cloud (CST8912, CST8913, CST8914) were removed on 2026-10-24; only the two Git pages moved, to Programming.
-- Alphabetical order, Overview first.
+- Alphabetical order, Overview first. AI is the one exception (since 2026-10-31): after Overview and CS2023 AI, its entries sit under the CS2023 names its Overview figure groups them by (Machine Learning, Deep Learning, Reinforcement Learning, Perception and Computer Vision, Natural Language Processing, Agents and Cognitive Systems, Deployed Deep Generative Models, Robotics, Applications and Societal Impact), in that figure's order, alphabetical inside each group.
 - Sources are current and cited in APA; not roadmap.sh or similar community sites, which cannot be cited.
 - A planned section or second-level entry has only its index page (name, CS2023 mapping or official source) until content arrives.
 

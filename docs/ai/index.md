@@ -1,6 +1,6 @@
 ---
 title: AI
-description: "The AI section: its CS2023 knowledge area, Artificial Intelligence (AI), and its official sources."
+description: "The AI section: its CS2023 knowledge area, Artificial Intelligence (AI), and its official sources, grouped under the CS2023 names."
 ms.date: 2026-10-25
 ---
 
@@ -8,7 +8,7 @@ ms.date: 2026-10-25
 
 ## Classification
 
-![AI sorted into eight groups: the curriculum CS2023 AI with its 12 knowledge units, the AI platforms Claude, Microsoft Foundry and OpenAI, the libraries Gymnasium, Hugging Face Transformers, LlamaIndex, OpenCV, PyTorch, scikit-learn, Stable-Baselines3 and Ultralytics YOLO, the model runtime Ollama, the protocol Model Context Protocol, the risk management framework NIST AI Risk Management Framework, the robotics framework ROS 2, and the simulator MuJoCo.](media/ai.png)
+![AI sorted into ten groups: the curriculum CS2023 AI with its 12 knowledge units, then the products under the CS2023 names: Machine Learning (scikit-learn), Deep Learning (PyTorch), Reinforcement Learning (Gymnasium, Stable-Baselines3), Perception and Computer Vision (OpenCV, Ultralytics YOLO), Natural Language Processing (Hugging Face Transformers), Agents and Cognitive Systems (LlamaIndex, Model Context Protocol), Deployed Deep Generative Models (Claude, Microsoft Foundry, Ollama, OpenAI), Robotics (MuJoCo, ROS 2), Applications and Societal Impact (NIST AI Risk Management Framework).](media/ai.png)
 
 ## Glossary
 
@@ -16,13 +16,16 @@ ms.date: 2026-10-25
 |---|---|---|---|
 | **AI**<br>人工智能 | "A **machine-based system** that can, for a given set of **human-defined objectives**, make **predictions, recommendations, or decisions** influencing real or virtual environments." | 一种**基于机器的系统**，能够针对一组**人类定义的目标**，做出影响真实或虚拟环境的**预测、建议或决策**。 | [National Institute of Standards and Technology, n.d.-b, "artificial intelligence" entry, definition 2](https://csrc.nist.gov/glossary/term/artificial_intelligence#:~:text=A%20machine%2Dbased%20system%20that%20can) |
 | **[CS2023 AI](cs2023/index.md)**<br>CS2023 AI | "Artificial intelligence (AI) studies **problems** that are **difficult or impractical to solve** with **traditional algorithmic approaches**." | 人工智能（AI）研究一类**问题**，这些问题**难以或不便解决**，若只用**传统算法方法**。 | [Joint Task Force on Computing Curricula, 2024, AI "Preamble" section, para. 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=3) |
-| **AI platforms**<br>AI 平台 | "Microsoft Foundry **unifies agents, models, and tools** under a **single management grouping** with built-in **enterprise-readiness capabilities** including tracing, monitoring, evaluations, and customizable enterprise setup configurations." | Microsoft Foundry 把**智能体、模型和工具统一起来**，放在**单一管理分组**之下，并内置**企业就绪能力**，包括跟踪、监视、评估和可自定义的企业设置配置。 | [Microsoft, n.d.-b, "What is Microsoft Foundry?" article, para. 1](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry#:~:text=Microsoft%20Foundry%20unifies%20agents%2C%20models%2C%20and%20tools) |
-| **Libraries**<br>库 | "PyTorch is an **optimized tensor library** for **deep learning** using **GPUs and CPUs**." | PyTorch 是一个**优化的张量库**，用于**深度学习**，可使用 **GPU 和 CPU**。 | [PyTorch Foundation, n.d.-a, "PyTorch documentation" page, para. 1](https://docs.pytorch.org/docs/stable/index.html#:~:text=PyTorch%20is%20an%20optimized%20tensor%20library) |
-| **Model runtimes**<br>模型运行时 | "Use **open models** in your **desktop apps and coding agents**, or **build them into your application**." | 使用**开放模型**，在你的**桌面应用和编程智能体**中，或者**把它们构建进你的应用程序**。 | [Ollama, n.d., "Ollama documentation" page, para. 1](https://docs.ollama.com/#:~:text=Use%20open%20models%20in%20your%20desktop%20apps) |
-| **Protocols**<br>协议 | "MCP (Model Context Protocol) is an **open-source standard** for **connecting AI applications** to **external systems**." | MCP（模型上下文协议）是一种**开源标准**，用于**连接 AI 应用程序**与**外部系统**。 | [Model Context Protocol, n.d.-b, "What is the Model Context Protocol (MCP)?" page, para. 1](https://modelcontextprotocol.io/docs/getting-started/intro#:~:text=MCP%20%28Model%20Context%20Protocol%29%20is%20an%20open%2Dsource%20standard) |
-| **Risk management frameworks**<br>风险管理框架 | "... the goal of the AI RMF is to offer a **resource** to the organizations designing, developing, deploying, or using AI systems to help **manage the many risks of AI** and promote **trustworthy and responsible** development and use of AI systems." | ……AI RMF 的目标是提供一种**资源**，供设计、开发、部署或使用 AI 系统的组织使用，帮助**管理 AI 的诸多风险**，并促进**可信且负责任地**开发和使用 AI 系统。 | [National Institute of Standards and Technology, 2023, Executive Summary, p. 2](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf#page=7) |
-| **Robotics frameworks**<br>机器人框架 | "The **Robot Operating System (ROS)** is a set of **software libraries and tools** for **building robot applications**." | **机器人操作系统（ROS）** 是一套**软件库和工具**，用于**构建机器人应用**。 | [Open Source Robotics Foundation, n.d., "ROS 2 Documentation" page, para. 1](https://docs.ros.org/en/rolling/index.html#:~:text=The%20Robot%20Operating%20System%20%28ROS%29%20is%20a%20set) |
-| **Simulators**<br>仿真器 | "MuJoCo stands for Multi-Joint dynamics with Contact. It is a **general purpose physics engine** that aims to facilitate **research and development** in robotics, biomechanics, graphics and animation, machine learning, and other areas that demand **fast and accurate simulation** of articulated structures interacting with their environment." | MuJoCo 是 Multi-Joint dynamics with Contact（带接触的多关节动力学）的缩写。它是一个**通用物理引擎**，旨在促进**研究和开发**，涉及机器人、生物力学、图形与动画、机器学习，以及其他需要**快速而准确地仿真**关节结构与环境交互的领域。 | [Google DeepMind, n.d.-b, "Introduction" section of "Overview", para. 1](https://mujoco.readthedocs.io/en/stable/overview.html#introduction) |
+| **[Machine Learning](cs2023/machine-learning/index.md)**<br>机器学习 | (context) "Explain how **machine learning works as an optimization/search process**." | （语境）解释**机器学习如何作为一个优化/搜索过程来运作**。 | [Joint Task Force on Computing Curricula, 2024, AI-ML "Illustrative Learning Outcomes", 6](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=12) |
+| **[Deep Learning](cs2023/machine-learning/deep-learning.md)**<br>深度学习 | (context) "In particular, there has been a shift from **engineered representations** to **representations learned automatically** through optimization over large datasets." | （语境）特别是，已经出现了一种转变：从**人工设计的表示**转向通过在大型数据集上进行优化而**自动学习到的表示**。 | [Joint Task Force on Computing Curricula, 2024, AI "Preamble" section, para. 2](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=3) |
+| **[Reinforcement Learning](cs2023/machine-learning/reinforcement-learning.md)**<br>强化学习 | (context) "Describe the differences among the **three main styles of learning (supervised, reinforcement, and unsupervised)** and determine which is appropriate to a particular problem domain." | （语境）描述**三种主要学习方式**（监督学习、强化学习和无监督学习）之间的区别，并判断哪一种适合特定的问题领域。 | [Joint Task Force on Computing Curricula, 2024, AI-ML "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=12) |
+| **[Perception and Computer Vision](cs2023/perception-and-computer-vision/index.md)**<br>感知与计算机视觉 | (context) "Summarize the **importance of image and object recognition in AI** and indicate several significant applications of this technology." | （语境）概述**图像和物体识别在 AI 中的重要性**，并指出这项技术的几个重要应用。 | [Joint Task Force on Computing Curricula, 2024, AI-Vision "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=20) |
+| **[Natural Language Processing](cs2023/natural-language-processing/index.md)**<br>自然语言处理 | (context) "Define and contrast **deterministic and stochastic grammars**, providing examples to show the adequacy of each." | （语境）定义并对比**确定性文法和随机文法**，并举例说明各自的适用性。 | [Joint Task Force on Computing Curricula, 2024, AI-NLP "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=18) |
+| **[Agents and Cognitive Systems](cs2023/agents-and-cognitive-systems/index.md)**<br>智能体与认知系统 | (context) "Characterize and contrast the **standard agent architectures**." | （语境）刻画并对比**标准的智能体架构**。 | [Joint Task Force on Computing Curricula, 2024, AI-Agents "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=17) |
+| **[Deployed Deep Generative Models](cs2023/applications-and-societal-impact/deployed-deep-generative-models.md)**<br>已部署的深度生成模型 | (context) "High-level overview of **large language models** (e.g., as of 2023, ChatGPT, Bard, etc.), their **uses**, and their **shortcomings/pitfalls**." | （语境）**大语言模型**的高层概述（例如截至 2023 年的 ChatGPT、Bard 等），包括它们的**用途**及其**缺点/陷阱**。 | [Joint Task Force on Computing Curricula, 2024, AI-SEP "CS Core", topic 2b](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=13) |
+| **[Robotics](cs2023/robotics/index.md)**<br>机器人 | (context) "List **capabilities and limitations of today's state-of-the-art robot systems**, including their sensors and the crucial sensor processing that informs those systems." | （语境）列出**当今最先进机器人系统的能力和局限**，包括它们的传感器以及为这些系统提供信息的关键传感器处理。 | [Joint Task Force on Computing Curricula, 2024, AI-Robotics "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=19) |
+| **[Applications and Societal Impact](cs2023/applications-and-societal-impact/index.md)**<br>应用与社会影响 | (context) "Given a real-world application domain and problem, **formulate an AI solution** to it, identifying proper data/input, preprocessing, representations, AI techniques, and evaluation metrics/methodology." | （语境）给定一个现实应用领域和问题，为它**构建 AI 解决方案**，确定合适的数据/输入、预处理、表示、AI 技术以及评估指标/方法。 | [Joint Task Force on Computing Curricula, 2024, AI-SEP "Illustrative Learning Outcomes", 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=14) |
+
 ## Coverage
 
 | Certification | Skill area |
@@ -41,9 +44,7 @@ Anthropic. (n.d.). *Claude Platform Docs*. Retrieved October 24, 2026, from <htt
 
 Farama Foundation. (n.d.). *Gymnasium Documentation* (Version 1.4.0). Retrieved October 25, 2026, from <https://gymnasium.farama.org/>
 
-Google DeepMind. (n.d.-a). *MuJoCo documentation*. Retrieved October 25, 2026, from <https://mujoco.readthedocs.io/en/stable/>
-
-Google DeepMind. (n.d.-b). *Overview*. MuJoCo Documentation. Retrieved October 25, 2026, from <https://mujoco.readthedocs.io/en/stable/overview.html>
+Google DeepMind. (n.d.). *MuJoCo documentation*. Retrieved October 25, 2026, from <https://mujoco.readthedocs.io/en/stable/>
 
 Hugging Face. (n.d.). *Transformers documentation* (Version 5.20.2). Retrieved October 25, 2026, from <https://huggingface.co/docs/transformers/v5.20.2/en/index>
 
@@ -51,23 +52,17 @@ Joint Task Force on Computing Curricula. (2024). *Computer science curricula 202
 
 LlamaIndex. (n.d.). *LlamaIndex Framework documentation*. Retrieved October 25, 2026, from <https://developers.llamaindex.ai/python/framework/>
 
-Microsoft. (n.d.-a). *Microsoft Foundry documentation*. Retrieved October 24, 2026, from <https://learn.microsoft.com/en-us/azure/foundry/>
-
-Microsoft. (n.d.-b). *What is Microsoft Foundry?* Microsoft Learn. Retrieved October 25, 2026, from <https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry>
+Microsoft. (n.d.). *Microsoft Foundry documentation*. Retrieved October 24, 2026, from <https://learn.microsoft.com/en-us/azure/foundry/>
 
 Microsoft. (2026a). *Study guide for Exam AI-103: Developing AI apps and agents on Azure*. Microsoft Learn. <https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103>
 
 Microsoft. (2026b). *Study guide for Exam AI-901: Microsoft Azure AI fundamentals*. Microsoft Learn. <https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901>
 
-Model Context Protocol. (n.d.-a). *Model Context Protocol documentation*. Retrieved October 25, 2026, from <https://modelcontextprotocol.io/>
-
-Model Context Protocol. (n.d.-b). *What is the Model Context Protocol (MCP)?* Retrieved October 25, 2026, from <https://modelcontextprotocol.io/docs/getting-started/intro>
+Model Context Protocol. (n.d.). *Model Context Protocol documentation*. Retrieved October 25, 2026, from <https://modelcontextprotocol.io/>
 
 National Institute of Standards and Technology. (n.d.-a). *AI Risk Management Framework*. Retrieved October 24, 2026, from <https://www.nist.gov/itl/ai-risk-management-framework>
 
 National Institute of Standards and Technology. (n.d.-b). Artificial intelligence. In *CSRC glossary*. Retrieved October 25, 2026, from <https://csrc.nist.gov/glossary/term/artificial_intelligence>
-
-National Institute of Standards and Technology. (2023). *Artificial intelligence risk management framework (AI RMF 1.0)* (NIST AI 100-1). <https://doi.org/10.6028/NIST.AI.100-1>
 
 Ollama. (n.d.). *Ollama documentation*. Retrieved October 25, 2026, from <https://docs.ollama.com/>
 
