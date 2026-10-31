@@ -1,150 +1,108 @@
 items:
 - name: Overview
   href: index.md
-- name: "1. Introduction to OpenCV"
-  href: introduction-to-opencv/index.md
-  items:
-  - name: "1.1 Introduction to OpenCV-Python Tutorials"
-    href: introduction-to-opencv/introduction-to-opencv-python-tutorials.md
-  - name: "1.2 Install OpenCV for Python with pip"
-    href: introduction-to-opencv/install-opencv-for-python-with-pip.md
-  - name: "1.3 Install OpenCV-Python in Windows"
-    href: introduction-to-opencv/install-opencv-python-in-windows.md
-  - name: "1.4 Install OpenCV-Python in Fedora"
-    href: introduction-to-opencv/install-opencv-python-in-fedora.md
-  - name: "1.5 Install OpenCV-Python in Ubuntu"
-    href: introduction-to-opencv/install-opencv-python-in-ubuntu.md
-- name: "2. Gui Features in OpenCV"
-  href: gui-features-in-opencv/index.md
-  items:
-  - name: "2.1 Getting Started with Images"
-    href: gui-features-in-opencv/getting-started-with-images.md
-  - name: "2.2 Getting Started with Videos"
-    href: gui-features-in-opencv/getting-started-with-videos.md
-  - name: "2.3 Drawing Functions in OpenCV"
-    href: gui-features-in-opencv/drawing-functions-in-opencv.md
-  - name: "2.4 Mouse as a Paint-Brush"
-    href: gui-features-in-opencv/mouse-as-a-paint-brush.md
-  - name: "2.5 Trackbar as the Color Palette"
-    href: gui-features-in-opencv/trackbar-as-the-color-palette.md
-- name: "3. Core Operations"
+- name: "1. Core Operations"
   href: core-operations/index.md
   items:
-  - name: "3.1 Basic Operations on Images"
+  - name: "1.1 Basic Operations on Images"
     href: core-operations/basic-operations-on-images.md
-  - name: "3.2 Arithmetic Operations on Images"
+  - name: "1.2 Arithmetic Operations on Images"
     href: core-operations/arithmetic-operations-on-images.md
-  - name: "3.3 Performance Measurement and Improvement Techniques"
-    href: core-operations/performance-measurement-and-improvement-techniques.md
-- name: "4. Image Processing in OpenCV"
+- name: "2. Image Processing in OpenCV"
   href: image-processing-in-opencv/index.md
   items:
-  - name: "4.1 Changing Colorspaces"
+  - name: "2.1 Changing Colorspaces"
     href: image-processing-in-opencv/changing-colorspaces.md
-  - name: "4.2 Geometric Transformations of Images"
+  - name: "2.2 Geometric Transformations of Images"
     href: image-processing-in-opencv/geometric-transformations-of-images.md
-  - name: "4.3 Image Thresholding"
+  - name: "2.3 Image Thresholding"
     href: image-processing-in-opencv/image-thresholding.md
-  - name: "4.4 Smoothing Images"
+  - name: "2.4 Smoothing Images"
     href: image-processing-in-opencv/smoothing-images.md
-  - name: "4.5 Morphological Transformations"
+  - name: "2.5 Morphological Transformations"
     href: image-processing-in-opencv/morphological-transformations.md
-  - name: "4.6 Image Gradients"
+  - name: "2.6 Image Gradients"
     href: image-processing-in-opencv/image-gradients.md
-  - name: "4.7 Canny Edge Detection"
+  - name: "2.7 Canny Edge Detection"
     href: image-processing-in-opencv/canny-edge-detection.md
-  - name: "4.8 Image Pyramids"
+  - name: "2.8 Image Pyramids"
     href: image-processing-in-opencv/image-pyramids.md
-  - name: "4.9 Contours in OpenCV"
+  - name: "2.9 Contours in OpenCV"
     href: image-processing-in-opencv/contours-in-opencv.md
-  - name: "4.10 Histograms in OpenCV"
+  - name: "2.10 Histograms in OpenCV"
     href: image-processing-in-opencv/histograms-in-opencv.md
-  - name: "4.11 Image Transforms in OpenCV"
+  - name: "2.11 Image Transforms in OpenCV"
     href: image-processing-in-opencv/image-transforms-in-opencv.md
-  - name: "4.12 Template Matching"
+  - name: "2.12 Template Matching"
     href: image-processing-in-opencv/template-matching.md
-  - name: "4.13 Hough Line Transform"
+  - name: "2.13 Hough Line Transform"
     href: image-processing-in-opencv/hough-line-transform.md
-  - name: "4.14 Hough Circle Transform"
+  - name: "2.14 Hough Circle Transform"
     href: image-processing-in-opencv/hough-circle-transform.md
-  - name: "4.15 Image Segmentation with Watershed Algorithm"
+  - name: "2.15 Image Segmentation with Watershed Algorithm"
     href: image-processing-in-opencv/image-segmentation-with-watershed-algorithm.md
-  - name: "4.16 Interactive Foreground Extraction Using GrabCut Algorithm"
+  - name: "2.16 Interactive Foreground Extraction using GrabCut Algorithm"
     href: image-processing-in-opencv/interactive-foreground-extraction-using-grabcut-algorithm.md
-- name: "5. Feature Detection and Description"
+- name: "3. Feature Detection and Description"
   href: feature-detection-and-description/index.md
   items:
-  - name: "5.1 Understanding Features"
+  - name: "3.1 Understanding Features"
     href: feature-detection-and-description/understanding-features.md
-  - name: "5.2 Harris Corner Detection"
+  - name: "3.2 Harris Corner Detection"
     href: feature-detection-and-description/harris-corner-detection.md
-  - name: "5.3 Shi-Tomasi Corner Detector & Good Features to Track"
+  - name: "3.3 Shi-Tomasi Corner Detector & Good Features to Track"
     href: feature-detection-and-description/shi-tomasi-corner-detector-good-features-to-track.md
-  - name: "5.4 Introduction to SIFT (Scale-Invariant Feature Transform)"
+  - name: "3.4 Introduction to SIFT (Scale-Invariant Feature Transform)"
     href: feature-detection-and-description/introduction-to-sift-scale-invariant-feature-transform.md
-  - name: "5.5 Introduction to SURF (Speeded-Up Robust Features)"
+  - name: "3.5 Introduction to SURF (Speeded-Up Robust Features)"
     href: feature-detection-and-description/introduction-to-surf-speeded-up-robust-features.md
-  - name: "5.6 FAST Algorithm for Corner Detection"
+  - name: "3.6 FAST Algorithm for Corner Detection"
     href: feature-detection-and-description/fast-algorithm-for-corner-detection.md
-  - name: "5.7 BRIEF (Binary Robust Independent Elementary Features)"
+  - name: "3.7 BRIEF (Binary Robust Independent Elementary Features)"
     href: feature-detection-and-description/brief-binary-robust-independent-elementary-features.md
-  - name: "5.8 ORB (Oriented FAST and Rotated BRIEF)"
+  - name: "3.8 ORB (Oriented FAST and Rotated BRIEF)"
     href: feature-detection-and-description/orb-oriented-fast-and-rotated-brief.md
-  - name: "5.9 Feature Matching"
+  - name: "3.9 Feature Matching"
     href: feature-detection-and-description/feature-matching.md
-  - name: "5.10 Feature Matching + Homography to Find Objects"
+  - name: "3.10 Feature Matching + Homography to find Objects"
     href: feature-detection-and-description/feature-matching-homography-to-find-objects.md
-- name: "6. Video Analysis (video module)"
-  href: video-analysis-video-module/index.md
-  items:
-  - name: "6.1 Other Tutorials (ml, objdetect, photo, stitching, video)"
-    href: video-analysis-video-module/other-tutorials-ml-objdetect-photo-stitching-video.md
-- name: "7. Camera Calibration and 3D Reconstruction"
+- name: "4. Camera Calibration and 3D Reconstruction"
   href: camera-calibration-and-3d-reconstruction/index.md
   items:
-  - name: "7.1 Camera Calibration"
+  - name: "4.1 Camera Calibration"
     href: camera-calibration-and-3d-reconstruction/camera-calibration.md
-  - name: "7.2 Pose Estimation"
+  - name: "4.2 Pose Estimation"
     href: camera-calibration-and-3d-reconstruction/pose-estimation.md
-  - name: "7.3 Epipolar Geometry"
+  - name: "4.3 Epipolar Geometry"
     href: camera-calibration-and-3d-reconstruction/epipolar-geometry.md
-  - name: "7.4 Depth Map from Stereo Images"
+  - name: "4.4 Depth Map from Stereo Images"
     href: camera-calibration-and-3d-reconstruction/depth-map-from-stereo-images.md
-- name: "8. Machine Learning"
+- name: "5. Machine Learning"
   href: machine-learning/index.md
   items:
-  - name: "8.1 K-Nearest Neighbour"
+  - name: "5.1 K-Nearest Neighbour"
     href: machine-learning/k-nearest-neighbour.md
-  - name: "8.2 Support Vector Machines (SVM)"
+  - name: "5.2 Support Vector Machines (SVM)"
     href: machine-learning/support-vector-machines-svm.md
-  - name: "8.3 K-Means Clustering"
+  - name: "5.3 K-Means Clustering"
     href: machine-learning/k-means-clustering.md
-- name: "9. Computational Photography"
+- name: "6. Computational Photography"
   href: computational-photography/index.md
   items:
-  - name: "9.1 Image Denoising"
+  - name: "6.1 Image Denoising"
     href: computational-photography/image-denoising.md
-  - name: "9.2 Image Inpainting"
+  - name: "6.2 Image Inpainting"
     href: computational-photography/image-inpainting.md
-  - name: "9.3 High Dynamic Range (HDR)"
+  - name: "6.3 High Dynamic Range (HDR)"
     href: computational-photography/high-dynamic-range-hdr.md
-- name: "10. Object Detection (objdetect module)"
+- name: "7. Object Detection (objdetect module)"
   href: object-detection-objdetect-module/index.md
   items:
-  - name: "10.1 Detection of ArUco Markers"
+  - name: "7.1 Detection of ArUco Markers"
     href: object-detection-objdetect-module/detection-of-aruco-markers.md
-  - name: "10.2 Detection of ArUco Boards"
+  - name: "7.2 Detection of ArUco boards"
     href: object-detection-objdetect-module/detection-of-aruco-boards.md
-  - name: "10.3 Detection of ChArUco Boards"
+  - name: "7.3 Detection of ChArUco Boards"
     href: object-detection-objdetect-module/detection-of-charuco-boards.md
-  - name: "10.4 Detection of Diamond Markers"
+  - name: "7.4 Detection of Diamond Markers"
     href: object-detection-objdetect-module/detection-of-diamond-markers.md
-  - name: "10.5 Calibration with ArUco and ChArUco"
-    href: object-detection-objdetect-module/calibration-with-aruco-and-charuco.md
-  - name: "10.6 Aruco Module FAQ"
-    href: object-detection-objdetect-module/aruco-module-faq.md
-- name: "11. OpenCV-Python Bindings"
-  href: opencv-python-bindings/index.md
-  items:
-  - name: "11.1 How OpenCV-Python Bindings Works?"
-    href: opencv-python-bindings/how-opencv-python-bindings-works.md

@@ -4,83 +4,59 @@ items:
 - name: "1. Overview"
   href: overview/index.md
   items:
-  - name: "1.1 Introduction"
-    href: overview/introduction.md
-  - name: "1.2 Model elements"
+  - name: "1.1 Model elements"
     href: overview/model-elements.md
-  - name: "1.3 Clarifications"
-    href: overview/clarifications.md
 - name: "2. Computation"
   href: computation/index.md
   items:
-  - name: "2.1 Introduction"
-    href: computation/introduction.md
-  - name: "2.2 Soft contact model"
+  - name: "2.1 Soft contact model"
     href: computation/soft-contact-model.md
-  - name: "2.3 General framework"
+  - name: "2.2 General framework"
     href: computation/general-framework.md
-  - name: "2.4 Constraint model"
+  - name: "2.3 Constraint model"
     href: computation/constraint-model.md
-  - name: "2.5 Constraint solver"
+  - name: "2.4 Constraint solver"
     href: computation/constraint-solver.md
-  - name: "2.6 Collision detection"
+  - name: "2.5 Collision detection"
     href: computation/collision-detection.md
-  - name: "2.7 Sleeping islands"
+  - name: "2.6 Sleeping islands"
     href: computation/sleeping-islands.md
-  - name: "2.8 Simulation pipeline"
+  - name: "2.7 Simulation pipeline"
     href: computation/simulation-pipeline.md
-  - name: "2.9 Derivatives"
+  - name: "2.8 Derivatives"
     href: computation/derivatives.md
-  - name: "2.10 Fluid forces"
+  - name: "2.9 Fluid forces"
     href: computation/fluid-forces.md
 - name: "3. Modeling"
   href: modeling/index.md
   items:
-  - name: "3.1 Introduction"
-    href: modeling/introduction.md
-  - name: "3.2 MJCF Mechanisms"
+  - name: "3.1 MJCF Mechanisms"
     href: modeling/mjcf-mechanisms.md
-  - name: "3.3 Tips and tricks"
-    href: modeling/tips-and-tricks.md
 - name: "4. XML Reference"
   href: xml-reference/index.md
   items:
-  - name: "4.1 Introduction"
-    href: xml-reference/introduction.md
-  - name: "4.2 MJCF Reference"
+  - name: "4.1 MJCF Reference"
     href: xml-reference/mjcf-reference.md
 - name: "5. Programming"
   href: programming/index.md
   items:
-  - name: "5.1 Introduction"
-    href: programming/introduction.md
-  - name: "5.2 Getting started"
-    href: programming/getting-started.md
-  - name: "5.3 Building from source"
-    href: programming/building-from-source.md
-  - name: "5.4 Building with Bazel"
-    href: programming/building-with-bazel.md
-  - name: "5.5 Building the docs"
-    href: programming/building-the-docs.md
-  - name: "5.6 Header files"
+  - name: "5.1 Header files"
     href: programming/header-files.md
-  - name: "5.7 Versions and compatibility"
+  - name: "5.2 Versions and compatibility"
     href: programming/versions-and-compatibility.md
-  - name: "5.8 Naming convention"
+  - name: "5.3 Naming convention"
     href: programming/naming-convention.md
-  - name: "5.9 Simulation"
+  - name: "5.4 Simulation"
     href: programming/simulation.md
-  - name: "5.10 Visualization"
+  - name: "5.5 Visualization"
     href: programming/visualization.md
-  - name: "5.11 Rendering"
+  - name: "5.6 Rendering"
     href: programming/rendering.md
-  - name: "5.12 User Interface"
+  - name: "5.7 User Interface"
     href: programming/user-interface.md
-  - name: "5.13 Model Editing"
+  - name: "5.8 Model Editing"
     href: programming/model-editing.md
-  - name: "5.14 Code samples"
-    href: programming/code-samples.md
-  - name: "5.15 Extensions"
+  - name: "5.9 Extensions"
     href: programming/extensions.md
 - name: "6. API Reference"
   href: api-reference/index.md
@@ -94,113 +70,60 @@ items:
 - name: "7. Python"
   href: python/index.md
   items:
-  - name: "7.1 Tutorial notebook"
-    href: python/tutorial-notebook.md
-  - name: "7.2 Installation"
-    href: python/installation.md
-  - name: "7.3 Interactive viewer"
+  - name: "7.1 Interactive viewer"
     href: python/interactive-viewer.md
-  - name: "7.4 Basic usage"
-    href: python/basic-usage.md
-  - name: "7.5 Model editing"
+  - name: "7.2 Model editing"
     href: python/model-editing.md
-  - name: "7.6 Building from source"
-    href: python/building-from-source.md
-  - name: "7.7 Modules"
+  - name: "7.3 Modules"
     href: python/modules.md
-  - name: "7.8 Utilities"
+  - name: "7.4 Utilities"
     href: python/utilities.md
-  - name: "7.9 mujoco-py migration"
-    href: python/mujoco-py-migration.md
 - name: "8. MuJoCo XLA"
   href: mujoco-xla/index.md
   items:
-  - name: "8.1 Installation"
-    href: mujoco-xla/installation.md
-  - name: "8.2 Minimal example"
-    href: mujoco-xla/minimal-example.md
-  - name: "8.3 MJX Implementations"
+  - name: "8.1 MJX Implementations"
     href: mujoco-xla/mjx-implementations.md
-  - name: "8.4 Tutorial notebook"
-    href: mujoco-xla/tutorial-notebook.md
-  - name: "8.5 In-depth usage"
-    href: mujoco-xla/in-depth-usage.md
-  - name: "8.6 Feature Parity"
+  - name: "8.2 Feature Parity"
     href: mujoco-xla/feature-parity.md
-  - name: "8.7 Performance Tuning"
-    href: mujoco-xla/performance-tuning.md
-  - name: "8.8 MJX-JAX - The Sharp Bits"
-    href: mujoco-xla/mjx-jax-the-sharp-bits.md
-  - name: "8.9 API"
+  - name: "8.3 API"
     href: mujoco-xla/api.md
 - name: "9. MuJoCo Warp"
   href: mujoco-warp/index.md
   items:
-  - name: "9.1 Tutorial notebook"
-    href: mujoco-warp/tutorial-notebook.md
-  - name: "9.2 When To Use MJWarp?"
-    href: mujoco-warp/when-to-use-mjwarp.md
-  - name: "9.3 Installation"
-    href: mujoco-warp/installation.md
-  - name: "9.4 Basic Usage"
-    href: mujoco-warp/basic-usage.md
-  - name: "9.5 Feature Parity"
+  - name: "9.1 Feature Parity"
     href: mujoco-warp/feature-parity.md
-  - name: "9.6 Performance Tuning"
-    href: mujoco-warp/performance-tuning.md
-  - name: "9.7 Batched Model Fields"
+  - name: "9.2 Batched Model Fields"
     href: mujoco-warp/batched-model-fields.md
-  - name: "9.8 Batch Rendering"
+  - name: "9.3 Batch Rendering"
     href: mujoco-warp/batch-rendering.md
-  - name: "9.9 Frequently Asked Questions"
-    href: mujoco-warp/frequently-asked-questions.md
-  - name: "9.10 Differences from MuJoCo"
+  - name: "9.4 Differences from MuJoCo"
     href: mujoco-warp/differences-from-mujoco.md
-  - name: "9.11 API"
+  - name: "9.5 API"
     href: mujoco-warp/api.md
 - name: "10. Unity Plug-in"
   href: unity-plug-in/index.md
   items:
-  - name: "10.1 Introduction"
-    href: unity-plug-in/introduction.md
-  - name: "10.2 Installation instructions"
-    href: unity-plug-in/installation-instructions.md
-  - name: "10.3 Using the plug-in"
-    href: unity-plug-in/using-the-plug-in.md
-  - name: "10.4 Design principles"
+  - name: "10.1 Design principles"
     href: unity-plug-in/design-principles.md
-  - name: "10.5 Implementation notes"
+  - name: "10.2 Implementation notes"
     href: unity-plug-in/implementation-notes.md
 - name: "11. OpenUSD"
   href: openusd/index.md
   items:
-  - name: "11.1 Introduction"
-    href: openusd/introduction.md
-  - name: "11.2 What is OpenUSD?"
+  - name: "11.1 What is OpenUSD?"
     href: openusd/what-is-openusd.md
-  - name: "11.3 Why do we care about OpenUSD?"
-    href: openusd/why-do-we-care-about-openusd.md
-  - name: "11.4 USD support overview"
+  - name: "11.2 USD support overview"
     href: openusd/usd-support-overview.md
-  - name: "11.5 Where do I learn more about USD?"
-    href: openusd/where-do-i-learn-more-about-usd.md
-  - name: "11.6 Building"
-    href: openusd/building.md
-  - name: "11.7 mjcPhysics"
+  - name: "11.3 mjcPhysics"
     href: openusd/mjcphysics.md
-  - name: "11.8 File Format Plugin"
+  - name: "11.4 File Format Plugin"
     href: openusd/file-format-plugin.md
-  - name: "11.9 Importing"
+  - name: "11.5 Importing"
     href: openusd/importing.md
-  - name: "11.10 Exporting"
+  - name: "11.6 Exporting"
     href: openusd/exporting.md
 - name: "12. Model Gallery"
   href: model-gallery/index.md
   items:
   - name: "12.1 MuJoCo Menagerie"
     href: model-gallery/mujoco-menagerie.md
-- name: "13. Changelog"
-  href: changelog/index.md
-  items:
-  - name: "13.1 Changelog"
-    href: changelog/changelog.md
