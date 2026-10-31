@@ -1,6 +1,6 @@
 ---
 title: "8.2 Analysis with vector spaces"
-description: "8.2 Analysis with vector spaces, part of 8 Several Variables and Partial Derivatives in 1 Real Analysis: 23 terms."
+description: "8.2 Analysis with vector spaces, part of 8 Several Variables and Partial Derivatives in Real Analysis: 23 terms."
 ms.date: 2026-10-30
 ---
 

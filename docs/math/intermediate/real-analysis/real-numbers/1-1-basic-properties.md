@@ -1,6 +1,6 @@
 ---
 title: "1.1 Basic properties"
-description: "1.1 Basic properties, part of 1 Real Numbers in 1 Real Analysis: 24 terms."
+description: "1.1 Basic properties, part of 1 Real Numbers in Real Analysis: 23 terms."
 ms.date: 2026-10-30
 ---
 
@@ -8,14 +8,13 @@ ms.date: 2026-10-30
 
 ## Classification
 
-![1.1 Basic properties: its 24 terms, in 1 Real Numbers.](media/1-1-basic-properties.png)
+![1.1 Basic properties: its 23 terms, in 1 Real Numbers.](media/1-1-basic-properties.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **1.1 Basic properties**<br>基本性质 | (No definition) | （无定义） | [Lebl, 2026, section 1.1](https://www.jirka.org/ra/html/sec_basicpropsrn.html) |
-| **Real Numbers**<br>实数 | "The three key properties of the real numbers are that it is **an ordered set**, it is **complete with respect to this order**, and it is **a field compatible with this order**." | 实数的三个关键性质是：它是**一个有序集**，它**关于这个序是完备的**，并且它是**一个与这个序相容的域**。 | [Lebl, 2026, section 1.1](https://www.jirka.org/ra/html/sec_basicpropsrn.html#sec_basicpropsrn-3) |
 | **Ordered Set**<br>有序集 | "An **ordered set** is **a set $S$ together with a relation $<$** such that (trichotomy) For all $x, y \in S$, exactly one of $x < y$, $x=y$, or $y < x$ holds. (transitivity) If $x,y,z \in S$ are such that $x < y$ and $y < z$, then $x < z$." | **有序集**是**一个集合 $S$ 连同一个关系 $<$**，满足：（三歧性）对所有 $x, y \in S$，$x < y$、$x=y$、$y < x$ 中恰有一个成立。（传递性）若 $x,y,z \in S$ 满足 $x < y$ 且 $y < z$，则 $x < z$。 | [Lebl, 2026, Definition 1.1.1](https://www.jirka.org/ra/html/sec_basicpropsrn.html#sec_basicpropsrn-4) |
 | **Trichotomy**<br>三歧性 | "(**trichotomy**) For all $x, y \in S$, **exactly one of $x < y$, $x=y$, or $y < x$ holds**." | （**三歧性**）对所有 $x, y \in S$，**$x < y$、$x=y$、$y < x$ 中恰有一个成立**。 | [Lebl, 2026, Definition 1.1.1](https://www.jirka.org/ra/html/sec_basicpropsrn.html#sec_basicpropsrn-4-1-2-1) |
 | **Transitivity**<br>传递性 | "(**transitivity**) If $x,y,z \in S$ are such that $x < y$ and $y < z$, **then $x < z$**." | （**传递性**）若 $x,y,z \in S$ 满足 $x < y$ 且 $y < z$，**则 $x < z$**。 | [Lebl, 2026, Definition 1.1.1](https://www.jirka.org/ra/html/sec_basicpropsrn.html#sec_basicpropsrn-4-1-2-2) |

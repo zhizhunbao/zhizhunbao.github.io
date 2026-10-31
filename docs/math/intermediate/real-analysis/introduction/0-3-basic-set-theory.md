@@ -1,6 +1,6 @@
 ---
 title: "0.3 Basic set theory"
-description: "0.3 Basic set theory, part of 0 Introduction in 1 Real Analysis: 56 terms."
+description: "0.3 Basic set theory, part of 0 Introduction in Real Analysis: 56 terms."
 ms.date: 2026-10-30
 ---
 

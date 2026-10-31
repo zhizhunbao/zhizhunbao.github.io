@@ -1,6 +1,6 @@
 ---
 title: "11.7 The Stone–Weierstrass theorem"
-description: "11.7 The Stone–Weierstrass theorem, part of 11 Functions as Limits in 1 Real Analysis: 11 terms."
+description: "11.7 The Stone–Weierstrass theorem, part of 11 Functions as Limits in Real Analysis: 11 terms."
 ms.date: 2026-10-30
 ---
 

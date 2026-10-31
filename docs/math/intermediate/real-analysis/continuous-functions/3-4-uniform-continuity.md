@@ -1,6 +1,6 @@
 ---
 title: "3.4 Uniform continuity"
-description: "3.4 Uniform continuity, part of 3 Continuous Functions in 1 Real Analysis: 4 terms."
+description: "3.4 Uniform continuity, part of 3 Continuous Functions in Real Analysis: 4 terms."
 ms.date: 2026-10-30
 ---
 

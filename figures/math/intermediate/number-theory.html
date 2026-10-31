@@ -1,0 +1,229 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<style>.row .group { flex: 0 0 auto; }</style>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Number Theory</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">1 Prologue</div>
+      <div class="item">1.1 A First Problem</div>
+      <div class="item">1.2 Review of Previous Ideas</div>
+      <div class="item">1.3 Where are we going?</div>
+      <div class="item">1.5 Using Sage for Interactive Computation</div>
+    </div>
+    <div class="group">
+      <div class="title">2 Basic Integer Division</div>
+      <div class="item">2.1 The Division Algorithm</div>
+      <div class="item">2.2 The Greatest Common Divisor</div>
+      <div class="item">2.3 The Euclidean Algorithm</div>
+      <div class="item">2.4 The Bezout Identity</div>
+    </div>
+    <div class="group">
+      <div class="title">3 From Linear Equations to Geometry</div>
+      <div class="item">3.1 Linear Diophantine Equations</div>
+      <div class="item">3.2 Geometry of Equations</div>
+      <div class="item">3.3 Positive Integer Lattice Points</div>
+      <div class="item">3.4 Pythagorean Triples</div>
+      <div class="item">3.5 Surprises in Integer Equations</div>
+      <div class="item">3.7 Two facts from the gcd</div>
+    </div>
+    <div class="group">
+      <div class="title">4 First Steps with Congruence</div>
+      <div class="item">4.1 Introduction to Congruence</div>
+      <div class="item">4.2 Going Modulo First</div>
+      <div class="item">4.3 Properties of Congruence</div>
+      <div class="item">4.4 Equivalence classes</div>
+      <div class="item">4.5 Why modular arithmetic matters</div>
+      <div class="item">4.6 Toward Congruences</div>
+    </div>
+    <div class="group">
+      <div class="title">5 Linear Congruences</div>
+      <div class="item">5.1 Solving Linear Congruences</div>
+      <div class="item">5.2 A Strategy For the First Solution</div>
+      <div class="item">5.3 Systems of Linear Congruences</div>
+      <div class="item">5.4 Using the Chinese Remainder Theorem</div>
+      <div class="item">5.5 More Complicated Cases</div>
+    </div>
+    <div class="group">
+      <div class="title">6 Prime Time</div>
+      <div class="item">6.1 Introduction to Primes</div>
+      <div class="item">6.2 To Infinity and Beyond</div>
+      <div class="item">6.3 The Fundamental Theorem of Arithmetic</div>
+      <div class="item">6.4 First consequences of the FTA</div>
+      <div class="item">6.5 Applications to Congruences</div>
+    </div>
+    <div class="group">
+      <div class="title">7 First Steps With General Congruences</div>
+      <div class="item">7.1 Exploring Patterns in Square Roots</div>
+      <div class="item">7.2 From Linear to General</div>
+      <div class="item">7.3 Congruences as Solutions to Congruences</div>
+      <div class="item">7.4 Polynomials and Lagrange’s Theorem</div>
+      <div class="item">7.5 Wilson’s Theorem and Fermat’s Theorem</div>
+      <div class="item">7.6 Epilogue: Why Congruences Matter</div>
+      <div class="item">7.8 Counting Proofs of Congruences</div>
+    </div>
+    <div class="group">
+      <div class="title">8 The Group of Integers Modulo n</div>
+      <div class="item">8.1 The Integers Modulo n</div>
+      <div class="item">8.2 Powers</div>
+      <div class="item">8.3 Essential Group Facts for Number Theory</div>
+    </div>
+    <div class="group">
+      <div class="title">9 The Group of Units and Euler’s Function</div>
+      <div class="item">9.1 Groups and Number Systems</div>
+      <div class="item">9.2 The Euler Phi Function</div>
+      <div class="item">9.3 Using Euler’s Theorem</div>
+      <div class="item">9.4 Exploring Euler’s Function</div>
+      <div class="item">9.5 Proofs and Reasons</div>
+      <div class="item">9.7 The Conductor, solved</div>
+    </div>
+    <div class="group">
+      <div class="title">10 Primitive Roots</div>
+      <div class="item">10.1 Primitive Roots</div>
+      <div class="item">10.2 A Better Way to Primitive Roots</div>
+      <div class="item">10.3 When Does a Primitive Root Exist?</div>
+      <div class="item">10.4 Prime Numbers Have Primitive Roots</div>
+      <div class="item">10.5 A Practical Use of Primitive Roots</div>
+      <div class="item">10.7 All the Primitive Roots</div>
+    </div>
+    <div class="group">
+      <div class="title">11 An Introduction to Cryptography</div>
+      <div class="item">11.1 What is Cryptography?</div>
+      <div class="item">11.2 Encryption</div>
+      <div class="item">11.3 A Modular Exponentiation Cipher</div>
+      <div class="item">11.4 An Interesting Application: Key Exchange</div>
+      <div class="item">11.5 RSA Public Key</div>
+      <div class="item">11.6 RSA and (Lack Of) Security</div>
+      <div class="item">11.7 Other applications</div>
+    </div>
+    <div class="group">
+      <div class="title">12 Some Theory Behind Cryptography</div>
+      <div class="item">12.1 Finding More Primes</div>
+      <div class="item">12.2 Primes – Probably</div>
+      <div class="item">12.3 Another Primality Test</div>
+      <div class="item">12.4 Strong Pseudoprimes</div>
+      <div class="item">12.5 Introduction to Factorization</div>
+      <div class="item">12.6 A Taste of Modernity</div>
+    </div>
+    <div class="group">
+      <div class="title">13 Sums of Squares</div>
+      <div class="item">13.1 Some First Ideas</div>
+      <div class="item">13.2 At Most One Way For Primes</div>
+      <div class="item">13.3 A Lemma About Square Roots Modulo n</div>
+      <div class="item">13.4 Primes as Sum of Squares</div>
+      <div class="item">13.5 All the Squares Fit to be Summed</div>
+      <div class="item">13.6 A One-Sentence Proof</div>
+    </div>
+    <div class="group">
+      <div class="title">14 Beyond Sums of Squares</div>
+      <div class="item">14.1 A Complex Situation</div>
+      <div class="item">14.2 More Sums of Squares and Beyond</div>
+      <div class="item">14.3 Related Questions About Sums</div>
+    </div>
+    <div class="group">
+      <div class="title">15 Points on Curves</div>
+      <div class="item">15.1 Rational Points on Conics</div>
+      <div class="item">15.2 A tempting cubic interlude</div>
+      <div class="item">15.3 Bachet and Mordell Curves</div>
+      <div class="item">15.4 Points on Quadratic Curves</div>
+      <div class="item">15.5 Making More and More and More Points</div>
+      <div class="item">15.6 The Algebraic Story</div>
+    </div>
+    <div class="group">
+      <div class="title">16 Solving Quadratic Congruences</div>
+      <div class="item">16.1 Square Roots</div>
+      <div class="item">16.2 General Quadratic Congruences</div>
+      <div class="item">16.3 Quadratic Residues</div>
+      <div class="item">16.4 Send in the Groups</div>
+      <div class="item">16.5 Euler’s Criterion</div>
+      <div class="item">16.6 Introducing the Legendre Symbol</div>
+      <div class="item">16.7 Our First Full Computation</div>
+    </div>
+    <div class="group">
+      <div class="title">17 Quadratic Reciprocity</div>
+      <div class="item">17.1 More Legendre Symbols</div>
+      <div class="item">17.2 Another Criterion</div>
+      <div class="item">17.3 Using Eisenstein’s Criterion</div>
+      <div class="item">17.4 Quadratic Reciprocity</div>
+      <div class="item">17.5 Some Surprising Applications of QR</div>
+      <div class="item">17.6 A Proof of Quadratic Reciprocity</div>
+    </div>
+    <div class="group">
+      <div class="title">18 An Introduction to Functions</div>
+      <div class="item">18.1 Three Questions for Euler phi</div>
+      <div class="item">18.2 Three Questions, Again</div>
+    </div>
+    <div class="group">
+      <div class="title">19 Counting and Summing Divisors</div>
+      <div class="item">19.1 Exploring a New Sequence of Functions</div>
+      <div class="item">19.2 Conjectures and Proofs</div>
+      <div class="item">19.3 The Size of the Sum of Divisors Function</div>
+      <div class="item">19.4 Perfect Numbers</div>
+      <div class="item">19.5 Odd Perfect Numbers</div>
+    </div>
+    <div class="group">
+      <div class="title">20 Long-Term Function Behavior</div>
+      <div class="item">20.1 Sums of Squares, Once More</div>
+      <div class="item">20.2 Average of Tau</div>
+      <div class="item">20.3 Digging Deeper and Finding Limits</div>
+      <div class="item">20.4 Heuristics for the Sum of Divisors</div>
+      <div class="item">20.5 Looking Ahead</div>
+    </div>
+    <div class="group">
+      <div class="title">21 The Prime Counting Function</div>
+      <div class="item">21.1 First Steps</div>
+      <div class="item">21.2 Some History</div>
+      <div class="item">21.3 The Prime Number Theorem</div>
+      <div class="item">21.4 A Slice of the Prime Number Theorem</div>
+    </div>
+    <div class="group">
+      <div class="title">22 More on Prime Numbers</div>
+      <div class="item">22.1 Prime Races</div>
+      <div class="item">22.2 Sequences and Primes</div>
+      <div class="item">22.3 Types of Primes</div>
+    </div>
+    <div class="group">
+      <div class="title">23 New Functions from Old</div>
+      <div class="item">23.1 The Moebius Function</div>
+      <div class="item">23.2 Inverting Functions</div>
+      <div class="item">23.3 Making New Functions</div>
+      <div class="item">23.4 Generalizing Moebius</div>
+    </div>
+    <div class="group">
+      <div class="title">24 Infinite Sums and Products</div>
+      <div class="item">24.1 Products and Sums</div>
+      <div class="item">24.2 The Riemann Zeta Function</div>
+      <div class="item">24.3 From Riemann to Dirichlet and Euler</div>
+      <div class="item">24.4 Multiplication</div>
+      <div class="item">24.5 More series and convergence</div>
+      <div class="item">24.6 Four Facts</div>
+    </div>
+    <div class="group">
+      <div class="title">25 Further Up and Further In</div>
+      <div class="item">25.1 Taking the PNT Further</div>
+      <div class="item">25.2 Improving the PNT</div>
+      <div class="item">25.3 Toward the Riemann Hypothesis</div>
+      <div class="item">25.4 Connecting to the Primes</div>
+      <div class="item">25.5 Connecting to Zeta</div>
+      <div class="item">25.6 Connecting to Zeros</div>
+      <div class="item">25.7 The Riemann Explicit Formula</div>
+      <div class="item">25.8 Epilogue</div>
+    </div>
+  </div>
+</div>
+</body></html>

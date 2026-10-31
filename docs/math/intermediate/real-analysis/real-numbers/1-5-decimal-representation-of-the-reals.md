@@ -1,6 +1,6 @@
 ---
 title: "1.5 Decimal representation of the reals"
-description: "1.5 Decimal representation of the reals, part of 1 Real Numbers in 1 Real Analysis: 3 terms."
+description: "1.5 Decimal representation of the reals, part of 1 Real Numbers in Real Analysis: 3 terms."
 ms.date: 2026-10-30
 ---
 

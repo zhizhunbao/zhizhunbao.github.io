@@ -1,6 +1,6 @@
 ---
 title: "8.1 Vector spaces, linear mappings, and convexity"
-description: "8.1 Vector spaces, linear mappings, and convexity, part of 8 Several Variables and Partial Derivatives in 1 Real Analysis: 19 terms."
+description: "8.1 Vector spaces, linear mappings, and convexity, part of 8 Several Variables and Partial Derivatives in Real Analysis: 19 terms."
 ms.date: 2026-10-30
 ---
 

@@ -1,4 +1,4 @@
-# 1 Real Analysis: term checklist
+# Real Analysis: term checklist
 
 Source: Lebl, *Basic Analysis I & II: Introduction to Real Analysis* (jirka.org/ra/html, May 22, 2026 edition), cached 2026-10-30 a chapter at a time: section pages as Markdown in `design-refs/official-docs/cache/md/jirka-ra-html-*` and as raw HTML in `cache/data/lebl-ra-raw/`; the Index is `cache/html/jirka-ra-html-ra-16-2-html.html`.
 
@@ -83,7 +83,7 @@ Left out:
 
 | Term | Section | Where the book defines it | Taken from | Note |
 |---|---|---|---|---|
-| Real Numbers | 1.1 | section 1.1 | Index |  |
+| Real Numbers | 1.1 | section 1.1 | Index | named like the chapter, so its quote fills the chapter 1 row of the Glossary (its source link still points to section 1.1) and the figures show no separate box |
 | Ordered Set | 1.1 | Definition 1.1.1 | Index |  |
 | Trichotomy | 1.1 | Definition 1.1.1 | Index |  |
 | Transitivity | 1.1 | Definition 1.1.1 | emphasized in the text (not in the Index) |  |
@@ -172,7 +172,7 @@ Left out:
 | Cluster Point | 2.3 | Exercise 2.3.9 | Index | named in an exercise; the Index also links Definitions in chapters 3 and 7 |
 | Cauchy Sequence | 2.4 | Definition 2.4.1 | Index |  |
 | Cauchy-Complete | 2.4 | Remark 2.4.6 | Index | Index entry "complete" is the same sentence |
-| Series | 2.5 | Definition 2.5.1 | Index |  |
+| Series | 2.5 | Definition 2.5.1 | Index | named like its section, so its quote fills the section row of the Glossary and the figures show no separate box |
 | Convergent Series | 2.5 | Definition 2.5.1 | Index | Index entry "convergent, series" |
 | Partial Sums | 2.5 | Definition 2.5.1 | Index |  |
 | Divergent Series | 2.5 | Definition 2.5.1 | Index | Index entry "divergent, series" |

@@ -1,6 +1,6 @@
 ---
 title: "8.4 Continuity and the derivative"
-description: "8.4 Continuity and the derivative, part of 8 Several Variables and Partial Derivatives in 1 Real Analysis: the section defines no terms."
+description: "8.4 Continuity and the derivative, part of 8 Several Variables and Partial Derivatives in Real Analysis: the section defines no terms."
 ms.date: 2026-10-30
 ---
 

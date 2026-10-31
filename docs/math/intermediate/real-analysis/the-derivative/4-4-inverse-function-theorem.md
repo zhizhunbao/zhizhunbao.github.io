@@ -1,6 +1,6 @@
 ---
 title: "4.4 Inverse function theorem"
-description: "4.4 Inverse function theorem, part of 4 The Derivative in 1 Real Analysis: 1 terms."
+description: "4.4 Inverse function theorem, part of 4 The Derivative in Real Analysis: 1 terms."
 ms.date: 2026-10-30
 ---
 

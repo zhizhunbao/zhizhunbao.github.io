@@ -1,6 +1,6 @@
 ---
 title: "11.3 Power series and analytic functions"
-description: "11.3 Power series and analytic functions, part of 11 Functions as Limits in 1 Real Analysis: 5 terms."
+description: "11.3 Power series and analytic functions, part of 11 Functions as Limits in Real Analysis: 5 terms."
 ms.date: 2026-10-30
 ---
 

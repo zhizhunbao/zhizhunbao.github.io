@@ -1,6 +1,6 @@
 ---
 title: "10.7 Change of variables"
-description: "10.7 Change of variables, part of 10 Multivariable Integral in 1 Real Analysis: the section defines no terms."
+description: "10.7 Change of variables, part of 10 Multivariable Integral in Real Analysis: the section defines no terms."
 ms.date: 2026-10-30
 ---
 

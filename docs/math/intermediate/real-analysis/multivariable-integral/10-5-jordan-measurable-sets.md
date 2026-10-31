@@ -1,6 +1,6 @@
 ---
 title: "10.5 Jordan measurable sets"
-description: "10.5 Jordan measurable sets, part of 10 Multivariable Integral in 1 Real Analysis: 5 terms."
+description: "10.5 Jordan measurable sets, part of 10 Multivariable Integral in Real Analysis: 5 terms."
 ms.date: 2026-10-30
 ---
 

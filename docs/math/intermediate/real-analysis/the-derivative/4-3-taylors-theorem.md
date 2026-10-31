@@ -1,6 +1,6 @@
 ---
 title: "4.3 Taylor’s theorem"
-description: "4.3 Taylor’s theorem, part of 4 The Derivative in 1 Real Analysis: 15 terms."
+description: "4.3 Taylor’s theorem, part of 4 The Derivative in Real Analysis: 15 terms."
 ms.date: 2026-10-30
 ---
 

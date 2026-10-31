@@ -1,6 +1,6 @@
 ---
 title: "3.5 Limits at infinity"
-description: "3.5 Limits at infinity, part of 3 Continuous Functions in 1 Real Analysis: 2 terms."
+description: "3.5 Limits at infinity, part of 3 Continuous Functions in Real Analysis: 2 terms."
 ms.date: 2026-10-30
 ---
 

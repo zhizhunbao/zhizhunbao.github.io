@@ -1,6 +1,6 @@
 ---
 title: "7.2 Open and closed sets"
-description: "7.2 Open and closed sets, part of 7 Metric Spaces in 1 Real Analysis: 13 terms."
+description: "7.2 Open and closed sets, part of 7 Metric Spaces in Real Analysis: 13 terms."
 ms.date: 2026-10-30
 ---
 

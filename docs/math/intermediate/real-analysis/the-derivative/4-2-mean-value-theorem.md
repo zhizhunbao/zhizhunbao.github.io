@@ -1,6 +1,6 @@
 ---
 title: "4.2 Mean value theorem"
-description: "4.2 Mean value theorem, part of 4 The Derivative in 1 Real Analysis: 9 terms."
+description: "4.2 Mean value theorem, part of 4 The Derivative in Real Analysis: 9 terms."
 ms.date: 2026-10-30
 ---
 

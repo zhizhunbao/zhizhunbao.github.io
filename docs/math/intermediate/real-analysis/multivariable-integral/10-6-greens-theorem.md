@@ -1,6 +1,6 @@
 ---
 title: "10.6 Green’s theorem"
-description: "10.6 Green’s theorem, part of 10 Multivariable Integral in 1 Real Analysis: 11 terms."
+description: "10.6 Green’s theorem, part of 10 Multivariable Integral in Real Analysis: 11 terms."
 ms.date: 2026-10-30
 ---
 

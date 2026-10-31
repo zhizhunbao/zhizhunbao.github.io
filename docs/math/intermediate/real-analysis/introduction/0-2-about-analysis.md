@@ -1,6 +1,6 @@
 ---
 title: "0.2 About analysis"
-description: "0.2 About analysis, part of 0 Introduction in 1 Real Analysis: 3 terms."
+description: "0.2 About analysis, part of 0 Introduction in Real Analysis: 3 terms."
 ms.date: 2026-10-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "9.1 Differentiation under the integral"
-description: "9.1 Differentiation under the integral, part of 9 One-dimensional Integrals in Several Variables in 1 Real Analysis: 1 terms."
+description: "9.1 Differentiation under the integral, part of 9 One-dimensional Integrals in Several Variables in Real Analysis: 1 terms."
 ms.date: 2026-10-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "7.5 Continuous functions"
-description: "7.5 Continuous functions, part of 7 Metric Spaces in 1 Real Analysis: 8 terms."
+description: "7.5 Continuous functions, part of 7 Metric Spaces in Real Analysis: 8 terms."
 ms.date: 2026-10-30
 ---
 

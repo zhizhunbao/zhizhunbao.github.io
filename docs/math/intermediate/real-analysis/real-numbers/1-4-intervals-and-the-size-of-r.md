@@ -1,6 +1,6 @@
 ---
 title: "1.4 Intervals and the size of ℝ"
-description: "1.4 Intervals and the size of ℝ, part of 1 Real Numbers in 1 Real Analysis: 10 terms."
+description: "1.4 Intervals and the size of ℝ, part of 1 Real Numbers in Real Analysis: 10 terms."
 ms.date: 2026-10-30
 ---
 

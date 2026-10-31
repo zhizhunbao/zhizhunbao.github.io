@@ -1,6 +1,6 @@
 ---
 title: "5.4 The logarithm and the exponential"
-description: "5.4 The logarithm and the exponential, part of 5 The Riemann Integral in 1 Real Analysis: 4 terms."
+description: "5.4 The logarithm and the exponential, part of 5 The Riemann Integral in Real Analysis: 4 terms."
 ms.date: 2026-10-30
 ---
 

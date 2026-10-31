@@ -1,6 +1,6 @@
 ---
 title: "1.2 The set of real numbers"
-description: "1.2 The set of real numbers, part of 1 Real Numbers in 1 Real Analysis: 9 terms."
+description: "1.2 The set of real numbers, part of 1 Real Numbers in Real Analysis: 9 terms."
 ms.date: 2026-10-30
 ---
 

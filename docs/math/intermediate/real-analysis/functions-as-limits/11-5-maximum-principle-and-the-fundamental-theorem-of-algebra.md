@@ -1,6 +1,6 @@
 ---
 title: "11.5 Maximum principle and the fundamental theorem of algebra"
-description: "11.5 Maximum principle and the fundamental theorem of algebra, part of 11 Functions as Limits in 1 Real Analysis: 8 terms."
+description: "11.5 Maximum principle and the fundamental theorem of algebra, part of 11 Functions as Limits in Real Analysis: 8 terms."
 ms.date: 2026-10-30
 ---
 

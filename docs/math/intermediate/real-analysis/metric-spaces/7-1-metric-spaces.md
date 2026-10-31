@@ -1,6 +1,6 @@
 ---
 title: "7.1 Metric spaces"
-description: "7.1 Metric spaces, part of 7 Metric Spaces in 1 Real Analysis: 21 terms."
+description: "7.1 Metric spaces, part of 7 Metric Spaces in Real Analysis: 21 terms."
 ms.date: 2026-10-30
 ---
 

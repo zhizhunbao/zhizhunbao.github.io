@@ -1,6 +1,6 @@
 ---
 title: "10.1 Riemann integral over rectangles"
-description: "10.1 Riemann integral over rectangles, part of 10 Multivariable Integral in 1 Real Analysis: 8 terms."
+description: "10.1 Riemann integral over rectangles, part of 10 Multivariable Integral in Real Analysis: 8 terms."
 ms.date: 2026-10-30
 ---
 

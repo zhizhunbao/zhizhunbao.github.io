@@ -1,6 +1,6 @@
 ---
 title: "6.2 Interchange of limits"
-description: "6.2 Interchange of limits, part of 6 Sequences of Functions in 1 Real Analysis: 5 terms."
+description: "6.2 Interchange of limits, part of 6 Sequences of Functions in Real Analysis: 5 terms."
 ms.date: 2026-10-30
 ---
 

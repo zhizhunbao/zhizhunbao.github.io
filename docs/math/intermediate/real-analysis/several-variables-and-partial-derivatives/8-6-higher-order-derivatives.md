@@ -1,6 +1,6 @@
 ---
 title: "8.6 Higher order derivatives"
-description: "8.6 Higher order derivatives, part of 8 Several Variables and Partial Derivatives in 1 Real Analysis: 2 terms."
+description: "8.6 Higher order derivatives, part of 8 Several Variables and Partial Derivatives in Real Analysis: 2 terms."
 ms.date: 2026-10-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "9.2 Path integrals"
-description: "9.2 Path integrals, part of 9 One-dimensional Integrals in Several Variables in 1 Real Analysis: 15 terms."
+description: "9.2 Path integrals, part of 9 One-dimensional Integrals in Several Variables in Real Analysis: 15 terms."
 ms.date: 2026-10-30
 ---
 

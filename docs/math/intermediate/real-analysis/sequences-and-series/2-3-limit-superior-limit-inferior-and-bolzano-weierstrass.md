@@ -1,6 +1,6 @@
 ---
 title: "2.3 Limit superior, limit inferior, and Bolzano–Weierstrass"
-description: "2.3 Limit superior, limit inferior, and Bolzano–Weierstrass, part of 2 Sequences and Series in 1 Real Analysis: 6 terms."
+description: "2.3 Limit superior, limit inferior, and Bolzano–Weierstrass, part of 2 Sequences and Series in Real Analysis: 6 terms."
 ms.date: 2026-10-30
 ---
 

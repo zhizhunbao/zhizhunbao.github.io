@@ -1,6 +1,6 @@
 ---
 title: "4.1 The derivative"
-description: "4.1 The derivative, part of 4 The Derivative in 1 Real Analysis: 8 terms."
+description: "4.1 The derivative, part of 4 The Derivative in Real Analysis: 8 terms."
 ms.date: 2026-10-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "11.1 Complex numbers"
-description: "11.1 Complex numbers, part of 11 Functions as Limits in 1 Real Analysis: 12 terms."
+description: "11.1 Complex numbers, part of 11 Functions as Limits in Real Analysis: 12 terms."
 ms.date: 2026-10-30
 ---
 

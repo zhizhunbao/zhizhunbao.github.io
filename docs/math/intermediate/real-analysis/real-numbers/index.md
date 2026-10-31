@@ -8,13 +8,13 @@ ms.date: 2026-10-30
 
 ## Classification
 
-![1 Real Numbers: its 5 sections, one group each listing the terms it defines (50 in all); each section has its own page.](media/real-numbers.png)
+![1 Real Numbers: 1 term of its own (filling the chapter row) and its 5 sections, one group each listing the terms it defines (50 in all); each section has its own page.](media/real-numbers.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **1 Real Numbers**<br>实数 | (No definition) | （无定义） | [Lebl, 2026, chapter 1](https://www.jirka.org/ra/html/rn_chapter.html) |
+| **1 Real Numbers**<br>实数 | "The three key properties of the real numbers are that it is **an ordered set**, it is **complete with respect to this order**, and it is **a field compatible with this order**." | 实数的三个关键性质是：它是**一个有序集**，它**关于这个序是完备的**，并且它是**一个与这个序相容的域**。 | [Lebl, 2026, section 1.1](https://www.jirka.org/ra/html/sec_basicpropsrn.html#sec_basicpropsrn-3) |
 | **[1.1 Basic properties](1-1-basic-properties.md)**<br>基本性质 | (No definition) | （无定义） | [Lebl, 2026, section 1.1](https://www.jirka.org/ra/html/sec_basicpropsrn.html) |
 | **[1.2 The set of real numbers](1-2-the-set-of-real-numbers.md)**<br>实数集 | (No definition) | （无定义） | [Lebl, 2026, section 1.2](https://www.jirka.org/ra/html/sec_setofreals.html) |
 | **[1.3 Absolute value and bounded functions](1-3-absolute-value-and-bounded-functions.md)**<br>绝对值与有界函数 | (No definition) | （无定义） | [Lebl, 2026, section 1.3](https://www.jirka.org/ra/html/sec_absval.html) |

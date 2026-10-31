@@ -1,6 +1,6 @@
 ---
 title: "11.2 Swapping limits"
-description: "11.2 Swapping limits, part of 11 Functions as Limits in 1 Real Analysis: 4 terms."
+description: "11.2 Swapping limits, part of 11 Functions as Limits in Real Analysis: 4 terms."
 ms.date: 2026-10-30
 ---
 

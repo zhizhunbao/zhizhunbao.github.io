@@ -1,6 +1,6 @@
 ---
 title: "5.2 Properties of the integral"
-description: "5.2 Properties of the integral, part of 5 The Riemann Integral in 1 Real Analysis: 7 terms."
+description: "5.2 Properties of the integral, part of 5 The Riemann Integral in Real Analysis: 7 terms."
 ms.date: 2026-10-30
 ---
 

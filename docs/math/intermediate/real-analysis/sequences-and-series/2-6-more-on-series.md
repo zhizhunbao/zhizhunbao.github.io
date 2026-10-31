@@ -1,6 +1,6 @@
 ---
 title: "2.6 More on series"
-description: "2.6 More on series, part of 2 Sequences and Series in 1 Real Analysis: 13 terms."
+description: "2.6 More on series, part of 2 Sequences and Series in Real Analysis: 13 terms."
 ms.date: 2026-10-30
 ---
 

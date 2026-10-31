@@ -1,7 +1,7 @@
 items:
 - name: Overview
   href: index.md
-- name: "1 Real Analysis"
+- name: "Real Analysis"
   href: real-analysis/index.md
   items:
   - name: "0 Introduction"
@@ -164,27 +164,363 @@ items:
       href: real-analysis/functions-as-limits/11-7-the-stone-weierstrass-theorem.md
     - name: "11.8 Fourier series"
       href: real-analysis/functions-as-limits/11-8-fourier-series.md
-- name: "2 Number Theory"
-  href: 2-number-theory.md
-- name: "3 Ordinary Differential Equations"
-  href: 3-ordinary-differential-equations.md
-- name: "4 Geometry"
-  href: 4-geometry.md
-- name: "5 Abstract Algebra"
-  href: 5-abstract-algebra.md
-- name: "6 Complex Analysis"
-  href: 6-complex-analysis.md
-- name: "7 Topology"
-  href: 7-topology.md
-- name: "8 Numerical Analysis"
-  href: 8-numerical-analysis.md
-- name: "9 Partial Differential Equations"
-  href: 9-partial-differential-equations.md
-- name: "10 Mathematical Modeling"
-  href: 10-mathematical-modeling.md
-- name: "11 Differential Geometry"
-  href: 11-differential-geometry.md
-- name: "12 Algebraic Topology"
-  href: 12-algebraic-topology.md
-- name: "13 Algebraic Geometry"
-  href: 13-algebraic-geometry.md
+- name: "Number Theory"
+  href: number-theory/index.md
+  items:
+  - name: "1 Prologue"
+    href: number-theory/prologue/index.md
+    items:
+    - name: "1.1 A First Problem"
+      href: number-theory/prologue/1-1-a-first-problem.md
+    - name: "1.2 Review of Previous Ideas"
+      href: number-theory/prologue/1-2-review-of-previous-ideas.md
+    - name: "1.3 Where are we going?"
+      href: number-theory/prologue/1-3-where-are-we-going.md
+    - name: "1.5 Using Sage for Interactive Computation"
+      href: number-theory/prologue/1-5-using-sage-for-interactive-computation.md
+  - name: "2 Basic Integer Division"
+    href: number-theory/basic-integer-division/index.md
+    items:
+    - name: "2.1 The Division Algorithm"
+      href: number-theory/basic-integer-division/2-1-the-division-algorithm.md
+    - name: "2.2 The Greatest Common Divisor"
+      href: number-theory/basic-integer-division/2-2-the-greatest-common-divisor.md
+    - name: "2.3 The Euclidean Algorithm"
+      href: number-theory/basic-integer-division/2-3-the-euclidean-algorithm.md
+    - name: "2.4 The Bezout Identity"
+      href: number-theory/basic-integer-division/2-4-the-bezout-identity.md
+  - name: "3 From Linear Equations to Geometry"
+    href: number-theory/from-linear-equations-to-geometry/index.md
+    items:
+    - name: "3.1 Linear Diophantine Equations"
+      href: number-theory/from-linear-equations-to-geometry/3-1-linear-diophantine-equations.md
+    - name: "3.2 Geometry of Equations"
+      href: number-theory/from-linear-equations-to-geometry/3-2-geometry-of-equations.md
+    - name: "3.3 Positive Integer Lattice Points"
+      href: number-theory/from-linear-equations-to-geometry/3-3-positive-integer-lattice-points.md
+    - name: "3.4 Pythagorean Triples"
+      href: number-theory/from-linear-equations-to-geometry/3-4-pythagorean-triples.md
+    - name: "3.5 Surprises in Integer Equations"
+      href: number-theory/from-linear-equations-to-geometry/3-5-surprises-in-integer-equations.md
+    - name: "3.7 Two facts from the gcd"
+      href: number-theory/from-linear-equations-to-geometry/3-7-two-facts-from-the-gcd.md
+  - name: "4 First Steps with Congruence"
+    href: number-theory/first-steps-with-congruence/index.md
+    items:
+    - name: "4.1 Introduction to Congruence"
+      href: number-theory/first-steps-with-congruence/4-1-introduction-to-congruence.md
+    - name: "4.2 Going Modulo First"
+      href: number-theory/first-steps-with-congruence/4-2-going-modulo-first.md
+    - name: "4.3 Properties of Congruence"
+      href: number-theory/first-steps-with-congruence/4-3-properties-of-congruence.md
+    - name: "4.4 Equivalence classes"
+      href: number-theory/first-steps-with-congruence/4-4-equivalence-classes.md
+    - name: "4.5 Why modular arithmetic matters"
+      href: number-theory/first-steps-with-congruence/4-5-why-modular-arithmetic-matters.md
+    - name: "4.6 Toward Congruences"
+      href: number-theory/first-steps-with-congruence/4-6-toward-congruences.md
+  - name: "5 Linear Congruences"
+    href: number-theory/linear-congruences/index.md
+    items:
+    - name: "5.1 Solving Linear Congruences"
+      href: number-theory/linear-congruences/5-1-solving-linear-congruences.md
+    - name: "5.2 A Strategy For the First Solution"
+      href: number-theory/linear-congruences/5-2-a-strategy-for-the-first-solution.md
+    - name: "5.3 Systems of Linear Congruences"
+      href: number-theory/linear-congruences/5-3-systems-of-linear-congruences.md
+    - name: "5.4 Using the Chinese Remainder Theorem"
+      href: number-theory/linear-congruences/5-4-using-the-chinese-remainder-theorem.md
+    - name: "5.5 More Complicated Cases"
+      href: number-theory/linear-congruences/5-5-more-complicated-cases.md
+  - name: "6 Prime Time"
+    href: number-theory/prime-time/index.md
+    items:
+    - name: "6.1 Introduction to Primes"
+      href: number-theory/prime-time/6-1-introduction-to-primes.md
+    - name: "6.2 To Infinity and Beyond"
+      href: number-theory/prime-time/6-2-to-infinity-and-beyond.md
+    - name: "6.3 The Fundamental Theorem of Arithmetic"
+      href: number-theory/prime-time/6-3-the-fundamental-theorem-of-arithmetic.md
+    - name: "6.4 First consequences of the FTA"
+      href: number-theory/prime-time/6-4-first-consequences-of-the-fta.md
+    - name: "6.5 Applications to Congruences"
+      href: number-theory/prime-time/6-5-applications-to-congruences.md
+  - name: "7 First Steps With General Congruences"
+    href: number-theory/first-steps-with-general-congruences/index.md
+    items:
+    - name: "7.1 Exploring Patterns in Square Roots"
+      href: number-theory/first-steps-with-general-congruences/7-1-exploring-patterns-in-square-roots.md
+    - name: "7.2 From Linear to General"
+      href: number-theory/first-steps-with-general-congruences/7-2-from-linear-to-general.md
+    - name: "7.3 Congruences as Solutions to Congruences"
+      href: number-theory/first-steps-with-general-congruences/7-3-congruences-as-solutions-to-congruences.md
+    - name: "7.4 Polynomials and Lagrange’s Theorem"
+      href: number-theory/first-steps-with-general-congruences/7-4-polynomials-and-lagranges-theorem.md
+    - name: "7.5 Wilson’s Theorem and Fermat’s Theorem"
+      href: number-theory/first-steps-with-general-congruences/7-5-wilsons-theorem-and-fermats-theorem.md
+    - name: "7.6 Epilogue: Why Congruences Matter"
+      href: number-theory/first-steps-with-general-congruences/7-6-epilogue-why-congruences-matter.md
+    - name: "7.8 Counting Proofs of Congruences"
+      href: number-theory/first-steps-with-general-congruences/7-8-counting-proofs-of-congruences.md
+  - name: "8 The Group of Integers Modulo n"
+    href: number-theory/the-group-of-integers-modulo-n/index.md
+    items:
+    - name: "8.1 The Integers Modulo n"
+      href: number-theory/the-group-of-integers-modulo-n/8-1-the-integers-modulo-n.md
+    - name: "8.2 Powers"
+      href: number-theory/the-group-of-integers-modulo-n/8-2-powers.md
+    - name: "8.3 Essential Group Facts for Number Theory"
+      href: number-theory/the-group-of-integers-modulo-n/8-3-essential-group-facts-for-number-theory.md
+  - name: "9 The Group of Units and Euler’s Function"
+    href: number-theory/the-group-of-units-and-eulers-function/index.md
+    items:
+    - name: "9.1 Groups and Number Systems"
+      href: number-theory/the-group-of-units-and-eulers-function/9-1-groups-and-number-systems.md
+    - name: "9.2 The Euler Phi Function"
+      href: number-theory/the-group-of-units-and-eulers-function/9-2-the-euler-phi-function.md
+    - name: "9.3 Using Euler’s Theorem"
+      href: number-theory/the-group-of-units-and-eulers-function/9-3-using-eulers-theorem.md
+    - name: "9.4 Exploring Euler’s Function"
+      href: number-theory/the-group-of-units-and-eulers-function/9-4-exploring-eulers-function.md
+    - name: "9.5 Proofs and Reasons"
+      href: number-theory/the-group-of-units-and-eulers-function/9-5-proofs-and-reasons.md
+    - name: "9.7 The Conductor, solved"
+      href: number-theory/the-group-of-units-and-eulers-function/9-7-the-conductor-solved.md
+  - name: "10 Primitive Roots"
+    href: number-theory/primitive-roots/index.md
+    items:
+    - name: "10.1 Primitive Roots"
+      href: number-theory/primitive-roots/10-1-primitive-roots.md
+    - name: "10.2 A Better Way to Primitive Roots"
+      href: number-theory/primitive-roots/10-2-a-better-way-to-primitive-roots.md
+    - name: "10.3 When Does a Primitive Root Exist?"
+      href: number-theory/primitive-roots/10-3-when-does-a-primitive-root-exist.md
+    - name: "10.4 Prime Numbers Have Primitive Roots"
+      href: number-theory/primitive-roots/10-4-prime-numbers-have-primitive-roots.md
+    - name: "10.5 A Practical Use of Primitive Roots"
+      href: number-theory/primitive-roots/10-5-a-practical-use-of-primitive-roots.md
+    - name: "10.7 All the Primitive Roots"
+      href: number-theory/primitive-roots/10-7-all-the-primitive-roots.md
+  - name: "11 An Introduction to Cryptography"
+    href: number-theory/an-introduction-to-cryptography/index.md
+    items:
+    - name: "11.1 What is Cryptography?"
+      href: number-theory/an-introduction-to-cryptography/11-1-what-is-cryptography.md
+    - name: "11.2 Encryption"
+      href: number-theory/an-introduction-to-cryptography/11-2-encryption.md
+    - name: "11.3 A Modular Exponentiation Cipher"
+      href: number-theory/an-introduction-to-cryptography/11-3-a-modular-exponentiation-cipher.md
+    - name: "11.4 An Interesting Application: Key Exchange"
+      href: number-theory/an-introduction-to-cryptography/11-4-an-interesting-application-key-exchange.md
+    - name: "11.5 RSA Public Key"
+      href: number-theory/an-introduction-to-cryptography/11-5-rsa-public-key.md
+    - name: "11.6 RSA and (Lack Of) Security"
+      href: number-theory/an-introduction-to-cryptography/11-6-rsa-and-lack-of-security.md
+    - name: "11.7 Other applications"
+      href: number-theory/an-introduction-to-cryptography/11-7-other-applications.md
+  - name: "12 Some Theory Behind Cryptography"
+    href: number-theory/some-theory-behind-cryptography/index.md
+    items:
+    - name: "12.1 Finding More Primes"
+      href: number-theory/some-theory-behind-cryptography/12-1-finding-more-primes.md
+    - name: "12.2 Primes – Probably"
+      href: number-theory/some-theory-behind-cryptography/12-2-primes-probably.md
+    - name: "12.3 Another Primality Test"
+      href: number-theory/some-theory-behind-cryptography/12-3-another-primality-test.md
+    - name: "12.4 Strong Pseudoprimes"
+      href: number-theory/some-theory-behind-cryptography/12-4-strong-pseudoprimes.md
+    - name: "12.5 Introduction to Factorization"
+      href: number-theory/some-theory-behind-cryptography/12-5-introduction-to-factorization.md
+    - name: "12.6 A Taste of Modernity"
+      href: number-theory/some-theory-behind-cryptography/12-6-a-taste-of-modernity.md
+  - name: "13 Sums of Squares"
+    href: number-theory/sums-of-squares/index.md
+    items:
+    - name: "13.1 Some First Ideas"
+      href: number-theory/sums-of-squares/13-1-some-first-ideas.md
+    - name: "13.2 At Most One Way For Primes"
+      href: number-theory/sums-of-squares/13-2-at-most-one-way-for-primes.md
+    - name: "13.3 A Lemma About Square Roots Modulo n"
+      href: number-theory/sums-of-squares/13-3-a-lemma-about-square-roots-modulo-n.md
+    - name: "13.4 Primes as Sum of Squares"
+      href: number-theory/sums-of-squares/13-4-primes-as-sum-of-squares.md
+    - name: "13.5 All the Squares Fit to be Summed"
+      href: number-theory/sums-of-squares/13-5-all-the-squares-fit-to-be-summed.md
+    - name: "13.6 A One-Sentence Proof"
+      href: number-theory/sums-of-squares/13-6-a-one-sentence-proof.md
+  - name: "14 Beyond Sums of Squares"
+    href: number-theory/beyond-sums-of-squares/index.md
+    items:
+    - name: "14.1 A Complex Situation"
+      href: number-theory/beyond-sums-of-squares/14-1-a-complex-situation.md
+    - name: "14.2 More Sums of Squares and Beyond"
+      href: number-theory/beyond-sums-of-squares/14-2-more-sums-of-squares-and-beyond.md
+    - name: "14.3 Related Questions About Sums"
+      href: number-theory/beyond-sums-of-squares/14-3-related-questions-about-sums.md
+  - name: "15 Points on Curves"
+    href: number-theory/points-on-curves/index.md
+    items:
+    - name: "15.1 Rational Points on Conics"
+      href: number-theory/points-on-curves/15-1-rational-points-on-conics.md
+    - name: "15.2 A tempting cubic interlude"
+      href: number-theory/points-on-curves/15-2-a-tempting-cubic-interlude.md
+    - name: "15.3 Bachet and Mordell Curves"
+      href: number-theory/points-on-curves/15-3-bachet-and-mordell-curves.md
+    - name: "15.4 Points on Quadratic Curves"
+      href: number-theory/points-on-curves/15-4-points-on-quadratic-curves.md
+    - name: "15.5 Making More and More and More Points"
+      href: number-theory/points-on-curves/15-5-making-more-and-more-and-more-points.md
+    - name: "15.6 The Algebraic Story"
+      href: number-theory/points-on-curves/15-6-the-algebraic-story.md
+  - name: "16 Solving Quadratic Congruences"
+    href: number-theory/solving-quadratic-congruences/index.md
+    items:
+    - name: "16.1 Square Roots"
+      href: number-theory/solving-quadratic-congruences/16-1-square-roots.md
+    - name: "16.2 General Quadratic Congruences"
+      href: number-theory/solving-quadratic-congruences/16-2-general-quadratic-congruences.md
+    - name: "16.3 Quadratic Residues"
+      href: number-theory/solving-quadratic-congruences/16-3-quadratic-residues.md
+    - name: "16.4 Send in the Groups"
+      href: number-theory/solving-quadratic-congruences/16-4-send-in-the-groups.md
+    - name: "16.5 Euler’s Criterion"
+      href: number-theory/solving-quadratic-congruences/16-5-eulers-criterion.md
+    - name: "16.6 Introducing the Legendre Symbol"
+      href: number-theory/solving-quadratic-congruences/16-6-introducing-the-legendre-symbol.md
+    - name: "16.7 Our First Full Computation"
+      href: number-theory/solving-quadratic-congruences/16-7-our-first-full-computation.md
+  - name: "17 Quadratic Reciprocity"
+    href: number-theory/quadratic-reciprocity/index.md
+    items:
+    - name: "17.1 More Legendre Symbols"
+      href: number-theory/quadratic-reciprocity/17-1-more-legendre-symbols.md
+    - name: "17.2 Another Criterion"
+      href: number-theory/quadratic-reciprocity/17-2-another-criterion.md
+    - name: "17.3 Using Eisenstein’s Criterion"
+      href: number-theory/quadratic-reciprocity/17-3-using-eisensteins-criterion.md
+    - name: "17.4 Quadratic Reciprocity"
+      href: number-theory/quadratic-reciprocity/17-4-quadratic-reciprocity.md
+    - name: "17.5 Some Surprising Applications of QR"
+      href: number-theory/quadratic-reciprocity/17-5-some-surprising-applications-of-qr.md
+    - name: "17.6 A Proof of Quadratic Reciprocity"
+      href: number-theory/quadratic-reciprocity/17-6-a-proof-of-quadratic-reciprocity.md
+  - name: "18 An Introduction to Functions"
+    href: number-theory/an-introduction-to-functions/index.md
+    items:
+    - name: "18.1 Three Questions for Euler phi"
+      href: number-theory/an-introduction-to-functions/18-1-three-questions-for-euler-phi.md
+    - name: "18.2 Three Questions, Again"
+      href: number-theory/an-introduction-to-functions/18-2-three-questions-again.md
+  - name: "19 Counting and Summing Divisors"
+    href: number-theory/counting-and-summing-divisors/index.md
+    items:
+    - name: "19.1 Exploring a New Sequence of Functions"
+      href: number-theory/counting-and-summing-divisors/19-1-exploring-a-new-sequence-of-functions.md
+    - name: "19.2 Conjectures and Proofs"
+      href: number-theory/counting-and-summing-divisors/19-2-conjectures-and-proofs.md
+    - name: "19.3 The Size of the Sum of Divisors Function"
+      href: number-theory/counting-and-summing-divisors/19-3-the-size-of-the-sum-of-divisors-function.md
+    - name: "19.4 Perfect Numbers"
+      href: number-theory/counting-and-summing-divisors/19-4-perfect-numbers.md
+    - name: "19.5 Odd Perfect Numbers"
+      href: number-theory/counting-and-summing-divisors/19-5-odd-perfect-numbers.md
+  - name: "20 Long-Term Function Behavior"
+    href: number-theory/long-term-function-behavior/index.md
+    items:
+    - name: "20.1 Sums of Squares, Once More"
+      href: number-theory/long-term-function-behavior/20-1-sums-of-squares-once-more.md
+    - name: "20.2 Average of Tau"
+      href: number-theory/long-term-function-behavior/20-2-average-of-tau.md
+    - name: "20.3 Digging Deeper and Finding Limits"
+      href: number-theory/long-term-function-behavior/20-3-digging-deeper-and-finding-limits.md
+    - name: "20.4 Heuristics for the Sum of Divisors"
+      href: number-theory/long-term-function-behavior/20-4-heuristics-for-the-sum-of-divisors.md
+    - name: "20.5 Looking Ahead"
+      href: number-theory/long-term-function-behavior/20-5-looking-ahead.md
+  - name: "21 The Prime Counting Function"
+    href: number-theory/the-prime-counting-function/index.md
+    items:
+    - name: "21.1 First Steps"
+      href: number-theory/the-prime-counting-function/21-1-first-steps.md
+    - name: "21.2 Some History"
+      href: number-theory/the-prime-counting-function/21-2-some-history.md
+    - name: "21.3 The Prime Number Theorem"
+      href: number-theory/the-prime-counting-function/21-3-the-prime-number-theorem.md
+    - name: "21.4 A Slice of the Prime Number Theorem"
+      href: number-theory/the-prime-counting-function/21-4-a-slice-of-the-prime-number-theorem.md
+  - name: "22 More on Prime Numbers"
+    href: number-theory/more-on-prime-numbers/index.md
+    items:
+    - name: "22.1 Prime Races"
+      href: number-theory/more-on-prime-numbers/22-1-prime-races.md
+    - name: "22.2 Sequences and Primes"
+      href: number-theory/more-on-prime-numbers/22-2-sequences-and-primes.md
+    - name: "22.3 Types of Primes"
+      href: number-theory/more-on-prime-numbers/22-3-types-of-primes.md
+  - name: "23 New Functions from Old"
+    href: number-theory/new-functions-from-old/index.md
+    items:
+    - name: "23.1 The Moebius Function"
+      href: number-theory/new-functions-from-old/23-1-the-moebius-function.md
+    - name: "23.2 Inverting Functions"
+      href: number-theory/new-functions-from-old/23-2-inverting-functions.md
+    - name: "23.3 Making New Functions"
+      href: number-theory/new-functions-from-old/23-3-making-new-functions.md
+    - name: "23.4 Generalizing Moebius"
+      href: number-theory/new-functions-from-old/23-4-generalizing-moebius.md
+  - name: "24 Infinite Sums and Products"
+    href: number-theory/infinite-sums-and-products/index.md
+    items:
+    - name: "24.1 Products and Sums"
+      href: number-theory/infinite-sums-and-products/24-1-products-and-sums.md
+    - name: "24.2 The Riemann Zeta Function"
+      href: number-theory/infinite-sums-and-products/24-2-the-riemann-zeta-function.md
+    - name: "24.3 From Riemann to Dirichlet and Euler"
+      href: number-theory/infinite-sums-and-products/24-3-from-riemann-to-dirichlet-and-euler.md
+    - name: "24.4 Multiplication"
+      href: number-theory/infinite-sums-and-products/24-4-multiplication.md
+    - name: "24.5 More series and convergence"
+      href: number-theory/infinite-sums-and-products/24-5-more-series-and-convergence.md
+    - name: "24.6 Four Facts"
+      href: number-theory/infinite-sums-and-products/24-6-four-facts.md
+  - name: "25 Further Up and Further In"
+    href: number-theory/further-up-and-further-in/index.md
+    items:
+    - name: "25.1 Taking the PNT Further"
+      href: number-theory/further-up-and-further-in/25-1-taking-the-pnt-further.md
+    - name: "25.2 Improving the PNT"
+      href: number-theory/further-up-and-further-in/25-2-improving-the-pnt.md
+    - name: "25.3 Toward the Riemann Hypothesis"
+      href: number-theory/further-up-and-further-in/25-3-toward-the-riemann-hypothesis.md
+    - name: "25.4 Connecting to the Primes"
+      href: number-theory/further-up-and-further-in/25-4-connecting-to-the-primes.md
+    - name: "25.5 Connecting to Zeta"
+      href: number-theory/further-up-and-further-in/25-5-connecting-to-zeta.md
+    - name: "25.6 Connecting to Zeros"
+      href: number-theory/further-up-and-further-in/25-6-connecting-to-zeros.md
+    - name: "25.7 The Riemann Explicit Formula"
+      href: number-theory/further-up-and-further-in/25-7-the-riemann-explicit-formula.md
+    - name: "25.8 Epilogue"
+      href: number-theory/further-up-and-further-in/25-8-epilogue.md
+- name: "Ordinary Differential Equations"
+  href: ordinary-differential-equations.md
+- name: "Geometry"
+  href: geometry.md
+- name: "Abstract Algebra"
+  href: abstract-algebra.md
+- name: "Complex Analysis"
+  href: complex-analysis.md
+- name: "Topology"
+  href: topology.md
+- name: "Numerical Analysis"
+  href: numerical-analysis.md
+- name: "Partial Differential Equations"
+  href: partial-differential-equations.md
+- name: "Mathematical Modeling"
+  href: mathematical-modeling.md
+- name: "Differential Geometry"
+  href: differential-geometry.md
+- name: "Algebraic Topology"
+  href: algebraic-topology.md
+- name: "Algebraic Geometry"
+  href: algebraic-geometry.md

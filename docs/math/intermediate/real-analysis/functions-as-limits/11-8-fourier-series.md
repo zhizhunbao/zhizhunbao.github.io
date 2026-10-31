@@ -1,6 +1,6 @@
 ---
 title: "11.8 Fourier series"
-description: "11.8 Fourier series, part of 11 Functions as Limits in 1 Real Analysis: 11 terms."
+description: "11.8 Fourier series, part of 11 Functions as Limits in Real Analysis: 11 terms."
 ms.date: 2026-10-30
 ---
 

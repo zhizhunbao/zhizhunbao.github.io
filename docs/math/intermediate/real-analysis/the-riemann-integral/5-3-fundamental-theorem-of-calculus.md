@@ -1,6 +1,6 @@
 ---
 title: "5.3 Fundamental theorem of calculus"
-description: "5.3 Fundamental theorem of calculus, part of 5 The Riemann Integral in 1 Real Analysis: 5 terms."
+description: "5.3 Fundamental theorem of calculus, part of 5 The Riemann Integral in Real Analysis: 5 terms."
 ms.date: 2026-10-30
 ---
 

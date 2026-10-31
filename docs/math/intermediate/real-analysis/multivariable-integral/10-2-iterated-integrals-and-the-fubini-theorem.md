@@ -1,6 +1,6 @@
 ---
 title: "10.2 Iterated integrals and the Fubini theorem"
-description: "10.2 Iterated integrals and the Fubini theorem, part of 10 Multivariable Integral in 1 Real Analysis: 1 terms."
+description: "10.2 Iterated integrals and the Fubini theorem, part of 10 Multivariable Integral in Real Analysis: 1 terms."
 ms.date: 2026-10-30
 ---
 

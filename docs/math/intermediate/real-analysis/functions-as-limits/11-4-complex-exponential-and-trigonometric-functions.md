@@ -1,6 +1,6 @@
 ---
 title: "11.4 Complex exponential and trigonometric functions"
-description: "11.4 Complex exponential and trigonometric functions, part of 11 Functions as Limits in 1 Real Analysis: 7 terms."
+description: "11.4 Complex exponential and trigonometric functions, part of 11 Functions as Limits in Real Analysis: 7 terms."
 ms.date: 2026-10-30
 ---
 

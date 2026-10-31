@@ -1,6 +1,6 @@
 ---
 title: "10.4 The set of Riemann integrable functions"
-description: "10.4 The set of Riemann integrable functions, part of 10 Multivariable Integral in 1 Real Analysis: 3 terms."
+description: "10.4 The set of Riemann integrable functions, part of 10 Multivariable Integral in Real Analysis: 3 terms."
 ms.date: 2026-10-30
 ---
 

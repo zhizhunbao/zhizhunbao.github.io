@@ -1,6 +1,6 @@
 ---
 title: "7.6 Fixed point theorem and Picard’s theorem again"
-description: "7.6 Fixed point theorem and Picard’s theorem again, part of 7 Metric Spaces in 1 Real Analysis: 3 terms."
+description: "7.6 Fixed point theorem and Picard’s theorem again, part of 7 Metric Spaces in Real Analysis: 3 terms."
 ms.date: 2026-10-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "0.1 About this book"
-description: "0.1 About this book, part of 0 Introduction in 1 Real Analysis: the section defines no terms."
+description: "0.1 About this book, part of 0 Introduction in Real Analysis: the section defines no terms."
 ms.date: 2026-10-30
 ---
 

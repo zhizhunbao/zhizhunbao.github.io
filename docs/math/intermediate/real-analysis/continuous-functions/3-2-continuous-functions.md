@@ -1,6 +1,6 @@
 ---
 title: "3.2 Continuous functions"
-description: "3.2 Continuous functions, part of 3 Continuous Functions in 1 Real Analysis: 9 terms."
+description: "3.2 Continuous functions, part of 3 Continuous Functions in Real Analysis: 9 terms."
 ms.date: 2026-10-30
 ---
 

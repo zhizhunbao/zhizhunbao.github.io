@@ -8,26 +8,26 @@ ms.date: 2026-10-29
 
 ## Classification
 
-![Intermediate in learning order: 1 Real Analysis, 2 Number Theory, 3 Ordinary Differential Equations, 4 Geometry, 5 Abstract Algebra, 6 Complex Analysis, 7 Topology, 8 Numerical Analysis, 9 Partial Differential Equations, 10 Mathematical Modeling, 11 Differential Geometry, 12 Algebraic Topology, 13 Algebraic Geometry.](media/intermediate.png)
+![Intermediate in learning order: Real Analysis, Number Theory, Ordinary Differential Equations, Geometry, Abstract Algebra, Complex Analysis, Topology, Numerical Analysis, Partial Differential Equations, Mathematical Modeling, Differential Geometry, Algebraic Topology, Algebraic Geometry.](media/intermediate.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Intermediate**<br>中级 | (No definition) | （无定义） | |
-| **[1 Real Analysis](real-analysis/index.md)**<br>实分析 | (No definition) | （无定义） | [Lebl, 2026](https://www.jirka.org/ra/html/) |
-| **[2 Number Theory](2-number-theory.md)**<br>数论 | (No definition) | （无定义） | [Crisman, 2024](https://math.gordon.edu/ntic/ntic/) |
-| **[3 Ordinary Differential Equations](3-ordinary-differential-equations.md)**<br>常微分方程 | (No definition) | （无定义） | [Lebl, n.d.](https://www.jirka.org/diffyqs/html/diffyqs.html) |
-| **[4 Geometry](4-geometry.md)**<br>几何 | (No definition) | （无定义） | [Hitchman, 2018](https://mphitchman.github.io/geometry/) |
-| **[5 Abstract Algebra](5-abstract-algebra.md)**<br>抽象代数 | (No definition) | （无定义） | [Judson, 2026](https://judsonbooks.org/aata-files/aata-html/aata.html) |
-| **[6 Complex Analysis](6-complex-analysis.md)**<br>复分析 | (No definition) | （无定义） | [Beck et al., n.d.](https://matthbeck.github.io/complexanalysis/) |
-| **[7 Topology](7-topology.md)**<br>拓扑学 | (No definition) | （无定义） | [Schlicker, n.d.](https://gvsuoer.github.io/topology/) |
-| **[8 Numerical Analysis](8-numerical-analysis.md)**<br>数值分析 | (No definition) | （无定义） | [Driscoll & Braun, n.d.](https://fncbook.com) |
-| **[9 Partial Differential Equations](9-partial-differential-equations.md)**<br>偏微分方程 | (No definition) | （无定义） | [Ivrii, n.d.](https://www.math.toronto.edu/ivrii/PDE-textbook/) |
-| **[10 Mathematical Modeling](10-mathematical-modeling.md)**<br>数学建模 | (No definition) | （无定义） | [Lega, 2024](https://opentextbooks.library.arizona.edu/mathematicalmodeling) |
-| **[11 Differential Geometry](11-differential-geometry.md)**<br>微分几何 | (No definition) | （无定义） | [Shifrin, 2026](https://www.math.uga.edu/directory/people/theodore-shifrin) |
-| **[12 Algebraic Topology](12-algebraic-topology.md)**<br>代数拓扑 | (No definition) | （无定义） | [Hatcher, 2002](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) |
-| **[13 Algebraic Geometry](13-algebraic-geometry.md)**<br>代数几何 | (No definition) | （无定义） | [Vakil, 2025](https://math.stanford.edu/~vakil/216blog/) |
+| **[Real Analysis](real-analysis/index.md)**<br>实分析 | (No definition) | （无定义） | [Lebl, 2026](https://www.jirka.org/ra/html/) |
+| **[Number Theory](number-theory/index.md)**<br>数论 | (No definition) | （无定义） | [Crisman, 2024](https://math.gordon.edu/ntic/ntic/) |
+| **[Ordinary Differential Equations](ordinary-differential-equations.md)**<br>常微分方程 | (No definition) | （无定义） | [Lebl, n.d.](https://www.jirka.org/diffyqs/html/diffyqs.html) |
+| **[Geometry](geometry.md)**<br>几何 | (No definition) | （无定义） | [Hitchman, 2018](https://mphitchman.github.io/geometry/) |
+| **[Abstract Algebra](abstract-algebra.md)**<br>抽象代数 | (No definition) | （无定义） | [Judson, 2026](https://judsonbooks.org/aata-files/aata-html/aata.html) |
+| **[Complex Analysis](complex-analysis.md)**<br>复分析 | (No definition) | （无定义） | [Beck et al., n.d.](https://matthbeck.github.io/complexanalysis/) |
+| **[Topology](topology.md)**<br>拓扑学 | (No definition) | （无定义） | [Schlicker, n.d.](https://gvsuoer.github.io/topology/) |
+| **[Numerical Analysis](numerical-analysis.md)**<br>数值分析 | (No definition) | （无定义） | [Driscoll & Braun, n.d.](https://fncbook.com) |
+| **[Partial Differential Equations](partial-differential-equations.md)**<br>偏微分方程 | (No definition) | （无定义） | [Ivrii, n.d.](https://www.math.toronto.edu/ivrii/PDE-textbook/) |
+| **[Mathematical Modeling](mathematical-modeling.md)**<br>数学建模 | (No definition) | （无定义） | [Lega, 2024](https://opentextbooks.library.arizona.edu/mathematicalmodeling) |
+| **[Differential Geometry](differential-geometry.md)**<br>微分几何 | (No definition) | （无定义） | [Shifrin, 2026](https://www.math.uga.edu/directory/people/theodore-shifrin) |
+| **[Algebraic Topology](algebraic-topology.md)**<br>代数拓扑 | (No definition) | （无定义） | [Hatcher, 2002](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) |
+| **[Algebraic Geometry](algebraic-geometry.md)**<br>代数几何 | (No definition) | （无定义） | [Vakil, 2025](https://math.stanford.edu/~vakil/216blog/) |
 
 ## References
 

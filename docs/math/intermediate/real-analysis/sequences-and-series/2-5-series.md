@@ -1,6 +1,6 @@
 ---
 title: "2.5 Series"
-description: "2.5 Series, part of 2 Sequences and Series in 1 Real Analysis: 17 terms."
+description: "2.5 Series, part of 2 Sequences and Series in Real Analysis: 17 terms."
 ms.date: 2026-10-30
 ---
 
@@ -8,14 +8,13 @@ ms.date: 2026-10-30
 
 ## Classification
 
-![2.5 Series: its 17 terms, in 2 Sequences and Series.](media/2-5-series.png)
+![2.5 Series: its 16 terms, in 2 Sequences and Series.](media/2-5-series.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **2.5 Series**<br>级数 | (No definition) | （无定义） | [Lebl, 2026, section 2.5](https://www.jirka.org/ra/html/sec_series.html) |
-| **Series**<br>级数 | "Given a sequence $\{ x_n \}_{n=1}^\infty$, we write the formal object $\sum_{n=1}^\infty x_n$ and call it a **series**." | 给定序列 $\{ x_n \}_{n=1}^\infty$，我们写出形式对象 $\sum_{n=1}^\infty x_n$，并称之为**级数**。 | [Lebl, 2026, Definition 2.5.1](https://www.jirka.org/ra/html/sec_series.html#sec_series-3-2) |
+| **2.5 Series**<br>级数 | "Given a sequence $\{ x_n \}_{n=1}^\infty$, we write the formal object $\sum_{n=1}^\infty x_n$ and call it a **series**." | 给定序列 $\{ x_n \}_{n=1}^\infty$，我们写出形式对象 $\sum_{n=1}^\infty x_n$，并称之为**级数**。 | [Lebl, 2026, Definition 2.5.1](https://www.jirka.org/ra/html/sec_series.html#sec_series-3-2) |
 | **Convergent Series**<br>收敛级数 | "A series **converges** if **the sequence $\{ s_k \}_{k=1}^\infty$ defined by $s_k := \sum_{n=1}^k x_n = x_1 + x_2 + \cdots + x_k$ converges**." | 若**由 $s_k := \sum_{n=1}^k x_n = x_1 + x_2 + \cdots + x_k$ 定义的序列 $\{ s_k \}_{k=1}^\infty$ 收敛**，则级数**收敛**。 | [Lebl, 2026, Definition 2.5.1](https://www.jirka.org/ra/html/sec_series.html#sec_series-3-2) |
 | **Partial Sums**<br>部分和 | "The **numbers $s_k$** are called **partial sums**." | **数 $s_k$** 称为**部分和**。 | [Lebl, 2026, Definition 2.5.1](https://www.jirka.org/ra/html/sec_series.html#sec_series-3-2) |
 | **Divergent Series**<br>发散级数 | "If **the sequence $\{ s_k \}_{k=1}^\infty$ diverges**, we say the series is **divergent**." | 若**序列 $\{ s_k \}_{k=1}^\infty$ 发散**，则称该级数是**发散的**。 | [Lebl, 2026, Definition 2.5.1](https://www.jirka.org/ra/html/sec_series.html#sec_series-3-2) |

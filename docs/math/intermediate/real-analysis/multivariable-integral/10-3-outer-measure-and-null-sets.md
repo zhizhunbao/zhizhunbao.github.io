@@ -1,6 +1,6 @@
 ---
 title: "10.3 Outer measure and null sets"
-description: "10.3 Outer measure and null sets, part of 10 Multivariable Integral in 1 Real Analysis: 4 terms."
+description: "10.3 Outer measure and null sets, part of 10 Multivariable Integral in Real Analysis: 4 terms."
 ms.date: 2026-10-30
 ---
 

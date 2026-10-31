@@ -1,6 +1,6 @@
 ---
 title: "2.4 Cauchy sequences"
-description: "2.4 Cauchy sequences, part of 2 Sequences and Series in 1 Real Analysis: 2 terms."
+description: "2.4 Cauchy sequences, part of 2 Sequences and Series in Real Analysis: 2 terms."
 ms.date: 2026-10-30
 ---
 

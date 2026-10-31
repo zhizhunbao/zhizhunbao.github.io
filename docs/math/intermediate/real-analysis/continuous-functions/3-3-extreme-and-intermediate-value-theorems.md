@@ -1,6 +1,6 @@
 ---
 title: "3.3 Extreme and intermediate value theorems"
-description: "3.3 Extreme and intermediate value theorems, part of 3 Continuous Functions in 1 Real Analysis: 6 terms."
+description: "3.3 Extreme and intermediate value theorems, part of 3 Continuous Functions in Real Analysis: 6 terms."
 ms.date: 2026-10-30
 ---
 

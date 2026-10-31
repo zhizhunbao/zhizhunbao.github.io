@@ -1,6 +1,6 @@
 ---
 title: "2.1 Sequences and limits"
-description: "2.1 Sequences and limits, part of 2 Sequences and Series in 1 Real Analysis: 13 terms."
+description: "2.1 Sequences and limits, part of 2 Sequences and Series in Real Analysis: 13 terms."
 ms.date: 2026-10-30
 ---
 

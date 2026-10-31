@@ -1,6 +1,6 @@
 ---
 title: "9.3 Path independence"
-description: "9.3 Path independence, part of 9 One-dimensional Integrals in Several Variables in 1 Real Analysis: 12 terms."
+description: "9.3 Path independence, part of 9 One-dimensional Integrals in Several Variables in Real Analysis: 12 terms."
 ms.date: 2026-10-30
 ---
 

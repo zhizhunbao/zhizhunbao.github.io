@@ -1,6 +1,6 @@
 ---
 title: "6.3 Picard’s theorem"
-description: "6.3 Picard’s theorem, part of 6 Sequences of Functions in 1 Real Analysis: 9 terms."
+description: "6.3 Picard’s theorem, part of 6 Sequences of Functions in Real Analysis: 9 terms."
 ms.date: 2026-10-30
 ---
 

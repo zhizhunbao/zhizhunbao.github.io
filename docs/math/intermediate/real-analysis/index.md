@@ -1,20 +1,20 @@
 ---
-title: "1 Real Analysis"
+title: "Real Analysis"
 description: "Real Analysis (实分析), subject 1 of the Intermediate level of Mathematical Sciences: Lebl, Basic Analysis I & II, 12 chapters and 62 sections."
 ms.date: 2026-10-30
 ---
 
-# 1 Real Analysis
+# Real Analysis
 
 ## Classification
 
-![1 Real Analysis: the 12 chapters of Lebl, Basic Analysis I & II (0 to 11), one group each listing its sections (62 in all); each chapter and section has its own page.](media/real-analysis.png)
+![Real Analysis: the 12 chapters of Lebl, Basic Analysis I & II (0 to 11), one group each listing its sections (62 in all); each chapter and section has its own page.](media/real-analysis.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **1 Real Analysis**<br>实分析 | (No definition) | （无定义） | [Lebl, 2026](https://www.jirka.org/ra/html/) |
+| **Real Analysis**<br>实分析 | (No definition) | （无定义） | [Lebl, 2026](https://www.jirka.org/ra/html/) |
 | **[0 Introduction](introduction/index.md)**<br>引言 | (No definition) | （无定义） | [Lebl, 2026, chapter 0](https://www.jirka.org/ra/html/ra-4.html) |
 | **[1 Real Numbers](real-numbers/index.md)**<br>实数 | (No definition) | （无定义） | [Lebl, 2026, chapter 1](https://www.jirka.org/ra/html/rn_chapter.html) |
 | **[2 Sequences and Series](sequences-and-series/index.md)**<br>序列与级数 | (No definition) | （无定义） | [Lebl, 2026, chapter 2](https://www.jirka.org/ra/html/seq_chapter.html) |

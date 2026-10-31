@@ -1,6 +1,6 @@
 ---
 title: "11.6 Equicontinuity and the Arzelà–Ascoli theorem"
-description: "11.6 Equicontinuity and the Arzelà–Ascoli theorem, part of 11 Functions as Limits in 1 Real Analysis: 8 terms."
+description: "11.6 Equicontinuity and the Arzelà–Ascoli theorem, part of 11 Functions as Limits in Real Analysis: 8 terms."
 ms.date: 2026-10-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "2.2 Facts about limits of sequences"
-description: "2.2 Facts about limits of sequences, part of 2 Sequences and Series in 1 Real Analysis: 3 terms."
+description: "2.2 Facts about limits of sequences, part of 2 Sequences and Series in Real Analysis: 3 terms."
 ms.date: 2026-10-30
 ---
 

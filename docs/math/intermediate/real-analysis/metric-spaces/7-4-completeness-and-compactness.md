@@ -1,6 +1,6 @@
 ---
 title: "7.4 Completeness and compactness"
-description: "7.4 Completeness and compactness, part of 7 Metric Spaces in 1 Real Analysis: 8 terms."
+description: "7.4 Completeness and compactness, part of 7 Metric Spaces in Real Analysis: 8 terms."
 ms.date: 2026-10-30
 ---
 

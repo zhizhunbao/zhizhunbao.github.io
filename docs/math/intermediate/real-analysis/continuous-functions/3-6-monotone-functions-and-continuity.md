@@ -1,6 +1,6 @@
 ---
 title: "3.6 Monotone functions and continuity"
-description: "3.6 Monotone functions and continuity, part of 3 Continuous Functions in 1 Real Analysis: 8 terms."
+description: "3.6 Monotone functions and continuity, part of 3 Continuous Functions in Real Analysis: 8 terms."
 ms.date: 2026-10-30
 ---
 

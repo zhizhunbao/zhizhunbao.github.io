@@ -1,6 +1,6 @@
 ---
 title: "1.3 Absolute value and bounded functions"
-description: "1.3 Absolute value and bounded functions, part of 1 Real Numbers in 1 Real Analysis: 4 terms."
+description: "1.3 Absolute value and bounded functions, part of 1 Real Numbers in Real Analysis: 4 terms."
 ms.date: 2026-10-30
 ---
 

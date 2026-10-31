@@ -1,6 +1,6 @@
 ---
 title: "7.3 Sequences and convergence"
-description: "7.3 Sequences and convergence, part of 7 Metric Spaces in 1 Real Analysis: 2 terms."
+description: "7.3 Sequences and convergence, part of 7 Metric Spaces in Real Analysis: 2 terms."
 ms.date: 2026-10-30
 ---
 

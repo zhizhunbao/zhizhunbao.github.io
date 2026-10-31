@@ -1,6 +1,6 @@
 ---
 title: "8.5 Inverse and implicit function theorems"
-description: "8.5 Inverse and implicit function theorems, part of 8 Several Variables and Partial Derivatives in 1 Real Analysis: 4 terms."
+description: "8.5 Inverse and implicit function theorems, part of 8 Several Variables and Partial Derivatives in Real Analysis: 4 terms."
 ms.date: 2026-10-30
 ---
 

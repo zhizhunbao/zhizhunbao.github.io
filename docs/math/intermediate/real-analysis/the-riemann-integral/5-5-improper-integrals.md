@@ -1,6 +1,6 @@
 ---
 title: "5.5 Improper integrals"
-description: "5.5 Improper integrals, part of 5 The Riemann Integral in 1 Real Analysis: 11 terms."
+description: "5.5 Improper integrals, part of 5 The Riemann Integral in Real Analysis: 11 terms."
 ms.date: 2026-10-30
 ---
 

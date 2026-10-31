@@ -1,6 +1,6 @@
 ---
 title: "5.1 The Riemann integral"
-description: "5.1 The Riemann integral, part of 5 The Riemann Integral in 1 Real Analysis: 10 terms."
+description: "5.1 The Riemann integral, part of 5 The Riemann Integral in Real Analysis: 10 terms."
 ms.date: 2026-10-30
 ---
 
