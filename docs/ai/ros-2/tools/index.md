@@ -8,7 +8,7 @@ ms.date: 2026-10-30
 
 ## Classification
 
-![3. Tools: its 6 entries from the official menu, in menu order and numbered here, in ROS 2 (Lyrical Luth).](media/tools.png)
+![3. Tools: its 6 entries from the official menu, in menu order and numbered here, each with the entries the menu lists under it (tutorials and how-to guides left out), in ROS 2 (Lyrical Luth).](media/tools.png)
 
 ## Glossary
 

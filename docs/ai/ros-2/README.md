@@ -19,10 +19,17 @@ Parts planned on entry pages, from the menu (deeper levels under them in bracket
 | 2.2 Nodes | Discovery, The ROS_DOMAIN_ID, Logging, Composition |
 | 2.3 Interfaces (topics, services, actions) | Interfaces (Tf2, About rosidl::Buffer backends), Topics (Quality of Service settings, Topic statistics), Services, Actions |
 | 2.5 Client libraries | Different ROS 2 middleware vendors, Executors, Internal ROS 2 interfaces, ROS 2 middleware implementations |
+| 3.1 Introspection and analysis | Introspection with command line tools, Logging |
+| 3.2 Node management | ROS 2 Security |
+| 3.4 Builds | Cross-compilation, The build system, Finding package documentation, Releasing a Package |
+| 3.5 Visualization | RViz, Overview and using RQt |
+| 4.1 Simulation | URDF |
+
+Noise is told by the menu's own labels: an entry marked tutorial, how-to, learning path or example is left out, with everything under it; an unlabelled entry is kept. Each group page's figure shows its entries as groups with these parts as boxes; an entry with no kept parts (How ROS works, Parameters, Debugging, Package documentation, Motion planning and manipulation, Navigation, Perception) is an empty group.
 
 Left out (no terms):
 
 - Groups: About ROS (its term, ROS, is the first row of the overview; its sections give the Framework, Tools and Capabilities definitions), Distributions (a release process page and release lists), Integrations, Migration and upgrades, Community, Contact, Citations, Contributing to ROS.
-- Inside the kept groups: Installation, First steps with ROS, Setting up your environment and Setting up Turtlesim under Get started; under Framework, Working with nodes, Working with interfaces, Working with topics, Working with services, Working with actions, Working with parameters and Working with Client libraries with every tutorial, how-to, example and learning path under them, and the comparison Topics vs Services vs Actions; under Tools and Capabilities, every tutorial, how-to and learning path below the entries (not yet sorted one by one).
+- Inside the kept groups: Installation, First steps with ROS, Setting up your environment and Setting up Turtlesim under Get started; under Framework, Working with nodes, Working with interfaces, Working with topics, Working with services, Working with actions, Working with parameters and Working with Client libraries with every tutorial, how-to, example and learning path under them, and the comparison Topics vs Services vs Actions; under Tools and Capabilities, every entry labelled tutorial or how-to (including Testing and everything under it, and the launch file tutorials).
 
 Entries whose body says only "Coming Soon" while the ROS documentation is being rewritten keep their menu name with (No definition): How ROS works, Introspection and analysis, Debugging, Builds, Visualization, Package documentation.

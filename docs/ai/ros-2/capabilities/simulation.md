@@ -8,4 +8,8 @@ ms.date: 2026-10-30
 
 Sources: [ROS 2 Documentation, Simulation](https://docs.ros.org/en/lyrical/Capabilities/About-Simulation.html).
 
+Parts, from the official menu (folder README):
+
+- URDF
+
 Not written yet.

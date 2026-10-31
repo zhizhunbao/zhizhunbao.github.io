@@ -8,7 +8,7 @@ ms.date: 2026-10-30
 
 ## Classification
 
-![4. Capabilities: its 4 entries from the official menu, in menu order and numbered here, in ROS 2 (Lyrical Luth).](media/capabilities.png)
+![4. Capabilities: its 4 entries from the official menu, in menu order and numbered here, each with the entries the menu lists under it (tutorials and how-to guides left out), in ROS 2 (Lyrical Luth).](media/capabilities.png)
 
 ## Glossary
 

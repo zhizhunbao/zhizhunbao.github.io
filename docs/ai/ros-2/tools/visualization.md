@@ -8,4 +8,9 @@ ms.date: 2026-10-30
 
 Sources: [ROS 2 Documentation, Visualization](https://docs.ros.org/en/lyrical/Developer-Tools/About-visualization.html).
 
+Parts, from the official menu (folder README):
+
+- RViz
+- Overview and using RQt
+
 Not written yet.

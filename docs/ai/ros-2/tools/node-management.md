@@ -8,4 +8,8 @@ ms.date: 2026-10-30
 
 Sources: [ROS 2 Documentation, Node management](https://docs.ros.org/en/lyrical/Developer-Tools/About-Launch.html).
 
+Parts, from the official menu (folder README):
+
+- ROS 2 Security
+
 Not written yet.
