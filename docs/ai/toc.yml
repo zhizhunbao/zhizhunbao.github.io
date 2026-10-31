@@ -28,7 +28,7 @@ items:
 - name: PyTorch
   href: pytorch/toc.yml
 - name: ROS 2
-  href: ros-2/index.md
+  href: ros-2/toc.yml
 - name: scikit-learn
   href: scikit-learn/toc.yml
 - name: Stable-Baselines3
