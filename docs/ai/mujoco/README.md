@@ -19,6 +19,20 @@ The site lists the official menu as it stands, names and order unchanged, with t
 | 11 | `openusd/` OpenUSD | What is OpenUSD?, USD support overview, mjcPhysics, File Format Plugin, Importing, Exporting |
 | 12 | `model-gallery/` Model Gallery | MuJoCo Menagerie |
 
-Left out (no terms): the Changelog chapter (version entries); in every chapter, the Introduction sections and the sections on installation, building and documentation (Getting started, Building from source, Building with Bazel, Building the docs, Installation, Installation instructions, Building), tutorial notebooks and examples (Tutorial notebook, Minimal example, Basic usage, Basic Usage, Using the plug-in, In-depth usage, Code samples), tuning and troubleshooting (Performance Tuning, Frequently Asked Questions, MJX-JAX - The Sharp Bits, Clarifications, Tips and tricks), migration (mujoco-py migration), questions (When To Use MJWarp?, Why do we care about OpenUSD?, Where do I learn more about USD?) and Computation's References.
+Left out (no terms): the Changelog chapter (version entries); in every chapter, the Introduction sections and the sections on installation, building and documentation (Getting started, Building from source, Building with Bazel, Building the docs, Installation, Installation instructions, Building), tutorial notebooks and examples (Tutorial notebook, Minimal example, Code samples; Python's Basic usage, Unity's Using the plug-in, MJX's In-depth usage and MJWarp's Basic Usage are kept for the terms they name), tuning and troubleshooting (Performance Tuning, Frequently Asked Questions, MJX-JAX - The Sharp Bits, Clarifications, Tips and tricks), migration (mujoco-py migration), questions (Why do we care about OpenUSD?, Where do I learn more about USD?) and Computation's References.
 
 Rows: a section or page whose opening sentence describes the thing without defining it is marked (context); one with no such sentence has (No definition).
+
+Pages: below the menu, each page's own sections are its parts, with the subsections, named list items and words the page defines under them. A chapter's sections outside the menu that hold terms are the chapter page's own parts: Overview: Key features, Model instances; Python: Basic usage; Unity Plug-in: Using the plug-in; MuJoCo XLA: In-depth usage; MuJoCo Warp: When To Use MJWarp?, Basic Usage.
+
+API names (the user's rule, 2026-10-31): classes, types and methods are terms; functions, parameters, attributes, fields, enum values, constants, macros, callbacks and error types are not. So the Types page lists all its types, and Functions, Globals, the MJCF Reference's XML elements and attributes, and the functions on the MJX and MJWarp API pages have no rows.
+
+Left out on the pages: the noise kinds listed in the ROS 2 README, and these:
+
+- Named only in an entry's own intro prose, with no subsection to hold them (to be checked if they are wanted): LCP (Soft contact model); applied force, bias force, joint-space inertia matrix, constraint Jacobian (General framework); RNE and CRB algorithms (Simulation pipeline); Gauss principle of least constraint, primal problem, Lagrange dual (Constraint solver).
+- Defined only through equations: elliptic and pyramidal cone, contact Jacobian, moment arm vector, step map, slack variable, diagonal regularizer, Delassus operator, soft-constraint penalty.
+- Named only in running text: joint types ball, slide and hinge, the geom primitive shapes, 2D and cube textures, skybox, headlight, via-points, pulleys, URDF (Overview); continuation methods (Modeling); stateless, angular drag (Fluid forces); near-phase and broad-phase collision; Halton sequence, marching cubes, touch grid sensor, PID controller (Extensions); BVH, render context, CUDA graph, staging buffers (MJWarp).
+- Attribute values and names: the activation types (integrator, filter, filterexact, muscle, user, none), the frame, contact, sensor and muscle attributes, the mjc:option, mjc:flag and mjc:compiler namespaces.
+- Rolling friction (a fourth level, inside a list item); Filters 1 to 4 (an unnamed list); the Python named-view methods joint(), body() and the like (one list).
+- Derivatives, Versions and compatibility, What is OpenUSD?, both Feature Parity pages: nothing named beyond the entry (C functions, a macro, a comparison table).
+

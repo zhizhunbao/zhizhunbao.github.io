@@ -11,23 +11,76 @@
   .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
 </style><style>.item { border: 1.5px solid #0f6cbd; }</style>
-<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
-<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
 </head>
-<style>.grid .item { flex: 0 1 auto; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
 <body>
 <div class="frame" id="fig">
-  <div class="title">MuJoCo</div>
+  <div class="title">9 MuJoCo Warp</div>
   <div class="row">
     <div class="group">
-      <div class="title">9 MuJoCo Warp</div>
-      <div class="grid">
-        <div class="item">9.1 Feature Parity</div>
-        <div class="item">9.2 Batched Model Fields</div>
-        <div class="item">9.3 Batch Rendering</div>
-        <div class="item">9.4 Differences from MuJoCo</div>
-        <div class="item">9.5 API</div>
-      </div>
+      <div class="title">9.1 Feature Parity</div>
+    </div>
+    <div class="group">
+      <div class="title">9.2 Batched Model Fields</div>
+      <div class="item">Modifying fields</div>
+      <div class="item">Per-world assets</div>
+    </div>
+    <div class="group">
+      <div class="title">9.3 Batch Rendering</div>
+      <div class="item">Key features</div>
+      <div class="item">3D Gaussian Splatting (3DGS)</div>
+    </div>
+    <div class="group">
+      <div class="title">9.4 Differences from MuJoCo</div>
+      <div class="item">Warmstart</div>
+      <div class="item">Inertia matrix factorization</div>
+      <div class="item">Options</div>
+      <div class="item">SDF plugins</div>
+      <div class="item">Physics callbacks</div>
+      <div class="item">Pair-wise colliders</div>
+      <div class="item">Box-box collisions</div>
+      <div class="item">Rendering</div>
+    </div>
+    <div class="group">
+      <div class="title">9.5 API</div>
+      <div class="item">Model</div>
+      <div class="item">Data</div>
+      <div class="item">BiasType</div>
+      <div class="item">BroadphaseFilter</div>
+      <div class="item">BroadphaseType</div>
+      <div class="item">Callback</div>
+      <div class="item">ConeType</div>
+      <div class="item">Constraint</div>
+      <div class="item">Contact</div>
+      <div class="item">CtrlChart</div>
+      <div class="item">CtrlInput</div>
+      <div class="item">DisableBit</div>
+      <div class="item">DynType</div>
+      <div class="item">EnableBit</div>
+      <div class="item">GainType</div>
+      <div class="item">GeomType</div>
+      <div class="item">IntegratorType</div>
+      <div class="item">JointType</div>
+      <div class="item">ObjType</div>
+      <div class="item">Option</div>
+      <div class="item">OverflowType</div>
+      <div class="item">RenderContext</div>
+      <div class="item">SolverType</div>
+      <div class="item">State</div>
+      <div class="item">TrnType</div>
+    </div>
+    <div class="group">
+      <div class="title">When To Use MJWarp?</div>
+      <div class="item">High throughput</div>
+      <div class="item">Low latency</div>
+      <div class="item">Complex scenes</div>
+      <div class="item">Differentiability</div>
+    </div>
+    <div class="group">
+      <div class="title">Basic Usage</div>
+      <div class="item">Structs</div>
+      <div class="item">Batch sizes</div>
     </div>
   </div>
 </div>

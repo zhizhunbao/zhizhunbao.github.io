@@ -1,0 +1,122 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<body>
+<div class="frame" id="fig">
+  <div class="title">5.4 Simulation</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">Initialization</div>
+      <div class="item">virtual file system (VFS)</div>
+    </div>
+    <div class="group">
+      <div class="title">Simulation loop</div>
+      <div class="item">control callback</div>
+      <div class="item">single-step integrators</div>
+    </div>
+    <div class="group">
+      <div class="title">State and control</div>
+      <div class="item">State components</div>
+      <div class="item">Physics state</div>
+      <div class="item">Full physics state</div>
+      <div class="item">User inputs</div>
+      <div class="item">Warmstarts</div>
+      <div class="item">Integration state</div>
+      <div class="item">Simulation state</div>
+      <div class="item">State manipulation</div>
+    </div>
+    <div class="group">
+      <div class="title">Forward dynamics</div>
+    </div>
+    <div class="group">
+      <div class="title">Inverse dynamics</div>
+      <div class="item">Recursive Newton-Euler algorithm</div>
+      <div class="item">computed torque control</div>
+      <div class="item">Physics violation</div>
+    </div>
+    <div class="group">
+      <div class="title">Multi-threading</div>
+      <div class="item">Batched simulation</div>
+    </div>
+    <div class="group">
+      <div class="title">mjModel changes</div>
+    </div>
+    <div class="group">
+      <div class="title">Data layout</div>
+      <div class="item">compressed sparse row (CSR) format</div>
+      <div class="item">uncompressed</div>
+      <div class="item">unit quaternions</div>
+      <div class="item">6D spatial vectors</div>
+    </div>
+    <div class="group">
+      <div class="title">Internal stack</div>
+      <div class="item">arena</div>
+    </div>
+    <div class="group">
+      <div class="title">Errors, warnings, logging</div>
+      <div class="item">mjfLogHandler</div>
+      <div class="item">mjLogMessage</div>
+      <div class="item">Installing a handler</div>
+      <div class="item">Default handler</div>
+      <div class="item">Error recovery</div>
+      <div class="item">Informational messages</div>
+      <div class="item">Legacy handlers</div>
+      <div class="item">Memory handlers</div>
+    </div>
+    <div class="group">
+      <div class="title">Diagnostics</div>
+      <div class="item">warning</div>
+      <div class="item">mjtWarning</div>
+      <div class="item">mjWarningStat</div>
+      <div class="item">profiling mechanism</div>
+      <div class="item">mjtTimer</div>
+      <div class="item">mjTimerStat</div>
+      <div class="item">mjSolverStat</div>
+    </div>
+    <div class="group">
+      <div class="title">Jacobians</div>
+      <div class="item">moment arms</div>
+    </div>
+    <div class="group">
+      <div class="title">Contacts</div>
+      <div class="item">mjContact</div>
+      <div class="item">mjfCollision</div>
+      <div class="item">friction cone</div>
+      <div class="item">contact frame</div>
+    </div>
+    <div class="group">
+      <div class="title">Sleeping islands</div>
+      <div class="item">Sleep policy</div>
+      <div class="item">Sleeping</div>
+      <div class="item">Waking</div>
+      <div class="item">Sleeping actuators</div>
+      <div class="item">Sleeping sensors</div>
+      <div class="item">Static bodies</div>
+    </div>
+    <div class="group">
+      <div class="title">Coordinate frames and transformations</div>
+      <div class="item">forward kinematics</div>
+      <div class="item">inverse kinematics</div>
+      <div class="item">joint coordinates</div>
+      <div class="item">Cartesian coordinates</div>
+      <div class="item">local coordinates</div>
+      <div class="item">global coordinates</div>
+      <div class="item">pose</div>
+      <div class="item">com-based frame</div>
+    </div>
+  </div>
+</div>
+</body></html>

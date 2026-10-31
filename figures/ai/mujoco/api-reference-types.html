@@ -1,0 +1,297 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+</head>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<style>.item { border: 1.5px solid #0f6cbd; background: #f3f7fd; font-weight: 600; }</style>
+<body>
+<div class="frame" id="fig">
+  <div class="title">6.1 Types</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">Primitive types</div>
+      <div class="item">mjtNum</div>
+      <div class="item">mjtByte</div>
+      <div class="item">mjtBool</div>
+      <div class="item">mjtSize</div>
+    </div>
+    <div class="group">
+      <div class="title">Model</div>
+      <div class="item">mjtDisableBit</div>
+      <div class="item">mjtEnableBit</div>
+      <div class="item">mjtJoint</div>
+      <div class="item">mjtGeom</div>
+      <div class="item">mjtProjection</div>
+      <div class="item">mjtCamLight</div>
+      <div class="item">mjtLightType</div>
+      <div class="item">mjtTexture</div>
+      <div class="item">mjtTextureRole</div>
+      <div class="item">mjtColorSpace</div>
+      <div class="item">mjtIntegrator</div>
+      <div class="item">mjtCone</div>
+      <div class="item">mjtJacobian</div>
+      <div class="item">mjtSolver</div>
+      <div class="item">mjtEq</div>
+      <div class="item">mjtWrap</div>
+      <div class="item">mjtTrn</div>
+      <div class="item">mjtDyn</div>
+      <div class="item">mjtGain</div>
+      <div class="item">mjtBias</div>
+      <div class="item">mjtCtrlChart</div>
+      <div class="item">mjtCtrlInput</div>
+      <div class="item">mjtObj</div>
+      <div class="item">mjtSensor</div>
+      <div class="item">mjtStage</div>
+      <div class="item">mjtDataType</div>
+      <div class="item">mjtConDataField</div>
+      <div class="item">mjtRayDataField</div>
+      <div class="item">mjtCamOutBit</div>
+      <div class="item">mjtSameFrame</div>
+      <div class="item">mjtSleepPolicy</div>
+      <div class="item">mjtLRMode</div>
+      <div class="item">mjtFlexSelf</div>
+      <div class="item">mjtSDFType</div>
+    </div>
+    <div class="group">
+      <div class="title">Data</div>
+      <div class="item">mjtState</div>
+      <div class="item">mjtConstraint</div>
+      <div class="item">mjtConstraintState</div>
+      <div class="item">mjtWarning</div>
+      <div class="item">mjtTimer</div>
+      <div class="item">mjtSleepState</div>
+      <div class="item">Logging (enum types)</div>
+    </div>
+    <div class="group">
+      <div class="title">Visualization</div>
+      <div class="item">mjtCatBit</div>
+      <div class="item">mjtMouse</div>
+      <div class="item">mjtPertBit</div>
+      <div class="item">mjtCamera</div>
+      <div class="item">mjtLabel</div>
+      <div class="item">mjtFrame</div>
+      <div class="item">mjtVisFlag</div>
+      <div class="item">mjtRndFlag</div>
+      <div class="item">mjtStereo</div>
+    </div>
+    <div class="group">
+      <div class="title">Rendering (enum types)</div>
+      <div class="item">mjtGridPos</div>
+      <div class="item">mjtFramebuffer</div>
+      <div class="item">mjtDepthMap</div>
+      <div class="item">mjtFontScale</div>
+      <div class="item">mjtFont</div>
+      <div class="item">mjrPixelFormat</div>
+      <div class="item">mjrVertexAttributeUsage</div>
+      <div class="item">mjrVertexAttributeType</div>
+      <div class="item">mjrIndexType</div>
+      <div class="item">mjrMeshPrimitiveType</div>
+    </div>
+    <div class="group">
+      <div class="title">Filament Rendering (enum types)</div>
+      <div class="item">mjrGraphicsApi</div>
+      <div class="item">mjrDrawMode</div>
+    </div>
+    <div class="group">
+      <div class="title">User Interface (enum types)</div>
+      <div class="item">mjtButton</div>
+      <div class="item">mjtEvent</div>
+      <div class="item">mjtItem</div>
+      <div class="item">mjtSection</div>
+    </div>
+    <div class="group">
+      <div class="title">Spec</div>
+      <div class="item">mjtGeomInertia</div>
+      <div class="item">mjtBuiltin</div>
+      <div class="item">mjtMark</div>
+      <div class="item">mjtLimited</div>
+      <div class="item">mjtAlignFree</div>
+      <div class="item">mjtPassthrough</div>
+      <div class="item">mjtEmbed</div>
+      <div class="item">mjtInertiaFromGeom</div>
+      <div class="item">mjtOrientation</div>
+      <div class="item">mjtMeshInertia</div>
+      <div class="item">mjtMeshBuiltin</div>
+      <div class="item">mjtFlexSection</div>
+      <div class="item">mjtConflict</div>
+      <div class="item">mjtScaling</div>
+      <div class="item">mjtActuator</div>
+      <div class="item">mjtCTimer</div>
+    </div>
+    <div class="group">
+      <div class="title">Plugins (enum types)</div>
+      <div class="item">mjtPluginCapabilityBit</div>
+    </div>
+    <div class="group">
+      <div class="title">Main structs</div>
+      <div class="item">mjModel</div>
+      <div class="item">mjOption</div>
+      <div class="item">mjData</div>
+    </div>
+    <div class="group">
+      <div class="title">Auxiliary</div>
+      <div class="item">mjVisual</div>
+      <div class="item">mjStatistic</div>
+      <div class="item">mjPreContact</div>
+      <div class="item">mjContact</div>
+      <div class="item">mjResource</div>
+      <div class="item">mjVFS</div>
+      <div class="item">mjLROpt</div>
+      <div class="item">mjCache</div>
+    </div>
+    <div class="group">
+      <div class="title">Logging (struct types)</div>
+      <div class="item">mjLogMessage</div>
+      <div class="item">mjLogConfig</div>
+    </div>
+    <div class="group">
+      <div class="title">Sim statistics</div>
+      <div class="item">mjWarningStat</div>
+      <div class="item">mjTimerStat</div>
+      <div class="item">mjSolverStat</div>
+    </div>
+    <div class="group">
+      <div class="title">Visualisation</div>
+      <div class="item">mjvPerturb</div>
+      <div class="item">mjvCamera</div>
+      <div class="item">mjvGLCamera</div>
+      <div class="item">mjvGeom</div>
+      <div class="item">mjvLight</div>
+      <div class="item">mjvOption</div>
+      <div class="item">mjvScene</div>
+      <div class="item">mjvFigure</div>
+    </div>
+    <div class="group">
+      <div class="title">Rendering (struct types)</div>
+      <div class="item">mjrRect</div>
+      <div class="item">mjrVertexAttribute</div>
+      <div class="item">mjrRendererInfo</div>
+      <div class="item">mjrContext</div>
+    </div>
+    <div class="group">
+      <div class="title">Filament Rendering (struct types)</div>
+      <div class="item">mjrfContext</div>
+      <div class="item">mjrfContextConfig</div>
+      <div class="item">mjrfTexture</div>
+      <div class="item">mjrfTextureConfig</div>
+      <div class="item">mjrfTextureData</div>
+      <div class="item">mjrfMesh</div>
+      <div class="item">mjrfMeshConfig</div>
+      <div class="item">mjrfMeshData</div>
+      <div class="item">mjrfScene</div>
+      <div class="item">mjrfSceneParams</div>
+      <div class="item">mjrfLight</div>
+      <div class="item">mjrfLightParams</div>
+      <div class="item">mjrfRenderable</div>
+      <div class="item">mjrfRenderableParams</div>
+      <div class="item">mjrfMaterial</div>
+      <div class="item">mjrfRenderTarget</div>
+      <div class="item">mjrfRenderTargetConfig</div>
+      <div class="item">mjrfRenderRequest</div>
+      <div class="item">mjrfReadRequest</div>
+      <div class="item">mjrfFrameStats</div>
+    </div>
+    <div class="group">
+      <div class="title">User Interface (struct types)</div>
+      <div class="item">mjuiState</div>
+      <div class="item">mjuiThemeSpacing</div>
+      <div class="item">mjuiThemeColor</div>
+      <div class="item">mjuiItem</div>
+      <div class="item">mjuiSection</div>
+      <div class="item">mjuiDef</div>
+      <div class="item">mjUI</div>
+    </div>
+    <div class="group">
+      <div class="title">Model Editing</div>
+      <div class="item">mjSpec</div>
+      <div class="item">mjsElement</div>
+      <div class="item">mjsCompiler</div>
+      <div class="item">mjsAuthored</div>
+      <div class="item">mjsBody</div>
+      <div class="item">mjsFrame</div>
+      <div class="item">mjsJoint</div>
+      <div class="item">mjsGeom</div>
+      <div class="item">mjsSite</div>
+      <div class="item">mjsCamera</div>
+      <div class="item">mjsLight</div>
+      <div class="item">mjsFlex</div>
+      <div class="item">mjsMesh</div>
+      <div class="item">mjsHField</div>
+      <div class="item">mjsSkin</div>
+      <div class="item">mjsTexture</div>
+      <div class="item">mjsMaterial</div>
+      <div class="item">mjsPair</div>
+      <div class="item">mjsExclude</div>
+      <div class="item">mjsEquality</div>
+      <div class="item">mjsTendon</div>
+      <div class="item">mjsWrap</div>
+      <div class="item">mjsActuator</div>
+      <div class="item">mjsSensor</div>
+      <div class="item">mjsNumeric</div>
+      <div class="item">mjsText</div>
+      <div class="item">mjsTuple</div>
+      <div class="item">mjsKey</div>
+      <div class="item">mjsDefault</div>
+      <div class="item">mjsPlugin</div>
+      <div class="item">mjsOrientation</div>
+      <div class="item">Array handles</div>
+    </div>
+    <div class="group">
+      <div class="title">Plugins (struct types)</div>
+      <div class="item">mjpPlugin</div>
+      <div class="item">mjSDF</div>
+      <div class="item">mjpResourceProvider</div>
+      <div class="item">mjpDecoder</div>
+      <div class="item">mjpEncoder</div>
+    </div>
+    <div class="group">
+      <div class="title">Batched simulation</div>
+      <div class="item">mjBatch</div>
+      <div class="item">mjBatchConfig</div>
+      <div class="item">mjBatchRecord</div>
+    </div>
+    <div class="group">
+      <div class="title">Physics Callbacks</div>
+      <div class="item">mjfGeneric</div>
+      <div class="item">mjfConFilt</div>
+      <div class="item">mjfSensor</div>
+      <div class="item">mjfTime</div>
+      <div class="item">mjfAct</div>
+      <div class="item">mjfCollision</div>
+    </div>
+    <div class="group">
+      <div class="title">Log Callbacks</div>
+      <div class="item">mjfLogHandler</div>
+    </div>
+    <div class="group">
+      <div class="title">UI Callbacks</div>
+      <div class="item">mjfItemEnable</div>
+    </div>
+    <div class="group">
+      <div class="title">Resource Provider Callbacks</div>
+      <div class="item">mjfOpenResource</div>
+      <div class="item">mjfReadResource</div>
+      <div class="item">mjfCloseResource</div>
+      <div class="item">mjfGetResourceDir</div>
+      <div class="item">mjfResourceModified</div>
+      <div class="item">mjfDecode</div>
+      <div class="item">mjfCanDecode</div>
+      <div class="item">mjfEncode</div>
+    </div>
+    <div class="group">
+      <div class="title">Batch callbacks</div>
+      <div class="item">mjfBatchFunc</div>
+    </div>
+  </div>
+</div>
+</body></html>
