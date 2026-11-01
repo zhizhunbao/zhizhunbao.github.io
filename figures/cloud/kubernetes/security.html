@@ -1,0 +1,77 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">8 Security</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">8.1 Cloud Native Security</div>
+      <div class="item">8.1.1 Develop lifecycle phase</div>
+      <div class="item">8.1.2 Runtime lifecycle phase</div>
+    </div>
+    <div class="group">
+      <div class="title">8.2 Pod Security Standards</div>
+      <div class="item">8.2.1 Profile Details</div>
+      <div class="item">8.2.2 Policy Instantiation</div>
+    </div>
+    <div class="group">
+      <div class="title">8.3 Pod Security Admission</div>
+      <div class="item">8.3.0 Pod Security Admission</div>
+      <div class="item">8.3.1 Exemptions</div>
+    </div>
+    <div class="group">
+      <div class="title">8.4 Service Accounts</div>
+      <div class="item">8.4.1 Service accounts</div>
+      <div class="item">8.4.2 How to use service accounts</div>
+      <div class="item">8.4.3 Authenticating service account credentials</div>
+    </div>
+    <div class="group">
+      <div class="title">8.5 Security For Linux Nodes</div>
+    </div>
+    <div class="group">
+      <div class="title">8.6 Security For Windows Nodes</div>
+    </div>
+    <div class="group">
+      <div class="title">8.7 Controlling Access to the Kubernetes API</div>
+      <div class="item">8.7.1 Transport security</div>
+      <div class="item">8.7.2 Authentication</div>
+      <div class="item">8.7.3 Authorization</div>
+      <div class="item">8.7.4 Admission control</div>
+      <div class="item">8.7.5 Auditing</div>
+    </div>
+    <div class="group">
+      <div class="title">8.8 Multi-tenancy</div>
+      <div class="item">8.8.0 Multi-tenancy</div>
+      <div class="item">8.8.1 Terminology</div>
+      <div class="item">8.8.2 Control plane isolation</div>
+      <div class="item">8.8.3 Data Plane Isolation</div>
+      <div class="item">8.8.4 Implementations</div>
+    </div>
+    <div class="group">
+      <div class="title">8.9 Kubernetes API Server Bypass Risks</div>
+      <div class="item">8.9.1 The kubelet API</div>
+      <div class="item">8.9.2 The etcd API</div>
+      <div class="item">8.9.3 Container runtime socket</div>
+    </div>
+    <div class="group">
+      <div class="title">8.10 Linux kernel security constraints for Pods and containers</div>
+      <div class="item">8.10.1 Security features in the Linux kernel</div>
+      <div class="item">8.10.2 Kernel-level security features and privileged containers</div>
+    </div>
+  </div>
+</div>
+</body></html>

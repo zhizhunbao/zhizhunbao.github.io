@@ -1,0 +1,67 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">4.1.1 Pod Lifecycle</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">4.1.1.1 Pod lifetime</div>
+      <div class="item">binding</div>
+      <div class="item">scheduling</div>
+      <div class="item">scheduling gates</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.1.2 Pod phase</div>
+      <div class="item">Pending</div>
+      <div class="item">Running</div>
+      <div class="item">Succeeded</div>
+      <div class="item">Failed</div>
+      <div class="item">Unknown</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.1.3 Container states</div>
+      <div class="item">Waiting</div>
+      <div class="item">Running</div>
+      <div class="item">Terminated</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.1.4 How Pods handle problems with containers</div>
+      <div class="item">Always</div>
+      <div class="item">OnFailure</div>
+      <div class="item">Never</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.1.5 Pod conditions</div>
+      <div class="item">Pod readiness</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.1.6 Resizing Pods</div>
+      <div class="item">in-place Pod vertical scaling</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.1.7 Container probes</div>
+      <div class="item">Startup probe</div>
+      <div class="item">Liveness probe</div>
+      <div class="item">Readiness probe</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.1.8 Pod behavior during kubelet restarts</div>
+      <div class="item">kubelet restart</div>
+    </div>
+  </div>
+</div>
+</body></html>

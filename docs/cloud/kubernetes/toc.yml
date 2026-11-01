@@ -6,20 +6,396 @@ items:
   items:
   - name: "1.1 Kubernetes Components"
     href: overview/components.md
+  - name: "1.2 Objects In Kubernetes"
+    href: overview/working-with-objects/index.md
+    items:
+    - name: "1.2.0 Objects In Kubernetes"
+      href: overview/working-with-objects/objects-in-kubernetes.md
+    - name: "1.2.1 Kubernetes Object Management"
+      href: overview/working-with-objects/object-management.md
+    - name: "1.2.2 Object Names and IDs"
+      href: overview/working-with-objects/names.md
+    - name: "1.2.3 Labels and Selectors"
+      href: overview/working-with-objects/labels.md
+    - name: "1.2.4 Namespaces"
+      href: overview/working-with-objects/namespaces.md
+    - name: "1.2.5 Annotations"
+      href: overview/working-with-objects/annotations.md
+    - name: "1.2.6 Field Selectors"
+      href: overview/working-with-objects/field-selectors.md
+    - name: "1.2.7 Finalizers"
+      href: overview/working-with-objects/finalizers.md
+    - name: "1.2.8 Owners and Dependents"
+      href: overview/working-with-objects/owners-dependents.md
+    - name: "1.2.9 Recommended Labels"
+      href: overview/working-with-objects/common-labels.md
+    - name: "1.2.10 Storage Versions"
+      href: overview/working-with-objects/storage-version.md
+  - name: "1.3 The Kubernetes API"
+    href: overview/kubernetes-api.md
+  - name: "1.4 The kubectl command-line tool"
+    href: overview/kubectl.md
 - name: "2. Cluster Architecture"
   href: architecture/index.md
   items:
+  - name: "2.0 Cluster Architecture"
+    href: architecture/cluster-architecture.md
   - name: "2.1 Nodes"
     href: architecture/nodes.md
-- name: "3. Workloads"
+  - name: "2.2 Communication between Nodes and the Control Plane"
+    href: architecture/control-plane-node-communication.md
+  - name: "2.3 Controllers"
+    href: architecture/controller.md
+  - name: "2.4 Leases"
+    href: architecture/leases.md
+  - name: "2.5 Cloud Controller Manager"
+    href: architecture/cloud-controller.md
+  - name: "2.6 About cgroup v2"
+    href: architecture/cgroups.md
+  - name: "2.7 Kubernetes Self-Healing"
+    href: architecture/self-healing.md
+  - name: "2.8 Garbage Collection"
+    href: architecture/garbage-collection.md
+  - name: "2.9 Mixed Version Proxy"
+    href: architecture/mixed-version-proxy.md
+- name: "3. Containers"
+  href: containers/index.md
+  items:
+  - name: "3.0 Containers"
+    href: containers/containers.md
+  - name: "3.1 Images"
+    href: containers/images.md
+  - name: "3.2 Container Environment"
+    href: containers/container-environment.md
+  - name: "3.3 Runtime Class"
+    href: containers/runtime-class.md
+  - name: "3.4 Container Lifecycle Hooks"
+    href: containers/container-lifecycle-hooks.md
+  - name: "3.5 Container Runtime Interface (CRI)"
+    href: containers/cri.md
+- name: "4. Workloads"
   href: workloads/index.md
   items:
-  - name: "3.1 Pods"
-    href: workloads/pods.md
-  - name: "3.2 Deployments"
-    href: workloads/deployment.md
-- name: "4. Services, Load Balancing, and Networking"
+  - name: "4.0 Workloads"
+    href: workloads/workloads.md
+  - name: "4.1 Pods"
+    href: workloads/pods/index.md
+    items:
+    - name: "4.1.0 Pods"
+      href: workloads/pods/pods.md
+    - name: "4.1.1 Pod Lifecycle"
+      href: workloads/pods/pod-lifecycle.md
+    - name: "4.1.2 Pod Conditions"
+      href: workloads/pods/pod-condition.md
+    - name: "4.1.3 Init Containers"
+      href: workloads/pods/init-containers.md
+    - name: "4.1.4 Sidecar Containers"
+      href: workloads/pods/sidecar-containers.md
+    - name: "4.1.5 Ephemeral Containers"
+      href: workloads/pods/ephemeral-containers.md
+    - name: "4.1.6 Liveness, Readiness, and Startup Probes"
+      href: workloads/pods/probes.md
+    - name: "4.1.7 Disruptions"
+      href: workloads/pods/disruptions.md
+    - name: "4.1.8 Pod Hostname"
+      href: workloads/pods/pod-hostname.md
+    - name: "4.1.9 Pod Quality of Service Classes"
+      href: workloads/pods/pod-qos.md
+    - name: "4.1.10 Scheduling Group"
+      href: workloads/pods/scheduling-group.md
+    - name: "4.1.11 Static Pods"
+      href: workloads/pods/static-pods.md
+    - name: "4.1.12 User Namespaces"
+      href: workloads/pods/user-namespaces.md
+    - name: "4.1.13 Downward API"
+      href: workloads/pods/downward-api.md
+    - name: "4.1.14 Advanced Pod Configuration"
+      href: workloads/pods/advanced-pod-config.md
+  - name: "4.2 Workload Management"
+    href: workloads/controllers/index.md
+    items:
+    - name: "4.2.1 Deployments"
+      href: workloads/controllers/deployment.md
+    - name: "4.2.2 ReplicaSet"
+      href: workloads/controllers/replicaset.md
+    - name: "4.2.3 StatefulSets"
+      href: workloads/controllers/statefulset.md
+    - name: "4.2.4 DaemonSet"
+      href: workloads/controllers/daemonset.md
+    - name: "4.2.5 Jobs"
+      href: workloads/controllers/job.md
+    - name: "4.2.6 Automatic Cleanup for Finished Jobs"
+      href: workloads/controllers/ttlafterfinished.md
+    - name: "4.2.7 CronJob"
+      href: workloads/controllers/cron-jobs.md
+    - name: "4.2.8 ReplicationController"
+      href: workloads/controllers/replicationcontroller.md
+  - name: "4.3 Managing Workloads"
+    href: workloads/management.md
+  - name: "4.4 Autoscaling Workloads"
+    href: workloads/autoscaling/index.md
+    items:
+    - name: "4.4.0 Autoscaling Workloads"
+      href: workloads/autoscaling/autoscaling-workloads.md
+    - name: "4.4.1 Horizontal Pod Autoscaling"
+      href: workloads/autoscaling/horizontal-pod-autoscale.md
+    - name: "4.4.2 Vertical Pod Autoscaling"
+      href: workloads/autoscaling/vertical-pod-autoscale.md
+  - name: "4.5 Workload API"
+    href: workloads/workload-api/index.md
+    items:
+    - name: "4.5.0 Workload API"
+      href: workloads/workload-api/workload-api.md
+    - name: "4.5.1 Pod Group Disruption and Priority"
+      href: workloads/workload-api/disruption-and-priority.md
+    - name: "4.5.2 PodGroup Scheduling Policies"
+      href: workloads/workload-api/policies.md
+    - name: "4.5.3 Topology-Aware Workload Scheduling"
+      href: workloads/workload-api/topology-aware-scheduling.md
+    - name: "4.5.4 Scheduling Building Block APIs and the workloadbuilder Library"
+      href: workloads/workload-api/workloadbuilder.md
+  - name: "4.6 PodGroup API"
+    href: workloads/podgroup-api/index.md
+    items:
+    - name: "4.6.0 PodGroup API"
+      href: workloads/podgroup-api/podgroup-api.md
+    - name: "4.6.1 PodGroup Lifecycle"
+      href: workloads/podgroup-api/lifecycle.md
+  - name: "4.7 CompositePodGroup API"
+    href: workloads/compositepodgroup-api/index.md
+    items:
+    - name: "4.7.0 CompositePodGroup API"
+      href: workloads/compositepodgroup-api/compositepodgroup-api.md
+    - name: "4.7.1 CompositePodGroup Lifecycle"
+      href: workloads/compositepodgroup-api/lifecycle.md
+- name: "5. Services, Load Balancing, and Networking"
   href: services-networking/index.md
   items:
-  - name: "4.1 Service"
+  - name: "5.0 Services, Load Balancing, and Networking"
+    href: services-networking/services-networking.md
+  - name: "5.1 Service"
     href: services-networking/service.md
+  - name: "5.2 Ingress"
+    href: services-networking/ingress.md
+  - name: "5.3 Ingress Controllers"
+    href: services-networking/ingress-controllers.md
+  - name: "5.4 Gateway API"
+    href: services-networking/gateway.md
+  - name: "5.5 EndpointSlices"
+    href: services-networking/endpoint-slices.md
+  - name: "5.6 Network Policies"
+    href: services-networking/network-policies.md
+  - name: "5.7 DNS for Services and Pods"
+    href: services-networking/dns-pod-service.md
+  - name: "5.8 IPv4/IPv6 dual-stack"
+    href: services-networking/dual-stack.md
+  - name: "5.9 Topology Aware Routing"
+    href: services-networking/topology-aware-routing.md
+  - name: "5.10 Networking on Windows"
+    href: services-networking/windows-networking.md
+  - name: "5.11 Service ClusterIP allocation"
+    href: services-networking/cluster-ip-allocation.md
+  - name: "5.12 Service Internal Traffic Policy"
+    href: services-networking/service-traffic-policy.md
+- name: "6. Storage"
+  href: storage/index.md
+  items:
+  - name: "6.1 Volumes"
+    href: storage/volumes.md
+  - name: "6.2 Persistent Volumes"
+    href: storage/persistent-volumes.md
+  - name: "6.3 Projected Volumes"
+    href: storage/projected-volumes.md
+  - name: "6.4 Ephemeral Volumes"
+    href: storage/ephemeral-volumes.md
+  - name: "6.5 Storage Classes"
+    href: storage/storage-classes.md
+  - name: "6.6 Volume Attributes Classes"
+    href: storage/volume-attributes-classes.md
+  - name: "6.7 Dynamic Volume Provisioning"
+    href: storage/dynamic-provisioning.md
+  - name: "6.8 Volume Snapshots"
+    href: storage/volume-snapshots.md
+  - name: "6.9 Volume Snapshot Classes"
+    href: storage/volume-snapshot-classes.md
+  - name: "6.10 CSI Volume Cloning"
+    href: storage/volume-pvc-datasource.md
+  - name: "6.11 Volume Populators and Data Sources"
+    href: storage/volume-populators-and-data-sources.md
+  - name: "6.12 Storage Capacity"
+    href: storage/storage-capacity.md
+  - name: "6.13 Node-specific Volume Limits"
+    href: storage/storage-limits.md
+  - name: "6.14 Local ephemeral storage"
+    href: storage/ephemeral-storage.md
+  - name: "6.15 Volume Health Monitoring"
+    href: storage/volume-health-monitoring.md
+  - name: "6.16 Windows Storage"
+    href: storage/windows-storage.md
+- name: "7. Configuration"
+  href: configuration/index.md
+  items:
+  - name: "7.1 ConfigMaps"
+    href: configuration/configmap.md
+  - name: "7.2 Secrets"
+    href: configuration/secret.md
+  - name: "7.3 Resource Management for Pods and Containers"
+    href: configuration/manage-resources-containers.md
+  - name: "7.4 Organizing Cluster Access Using kubeconfig Files"
+    href: configuration/organize-cluster-access-kubeconfig.md
+  - name: "7.5 Resource Management for Windows nodes"
+    href: configuration/windows-resource-management.md
+- name: "8. Security"
+  href: security/index.md
+  items:
+  - name: "8.1 Cloud Native Security"
+    href: security/cloud-native-security.md
+  - name: "8.2 Pod Security Standards"
+    href: security/pod-security-standards.md
+  - name: "8.3 Pod Security Admission"
+    href: security/pod-security-admission.md
+  - name: "8.4 Service Accounts"
+    href: security/service-accounts.md
+  - name: "8.5 Security For Linux Nodes"
+    href: security/linux-security.md
+  - name: "8.6 Security For Windows Nodes"
+    href: security/windows-security.md
+  - name: "8.7 Controlling Access to the Kubernetes API"
+    href: security/controlling-access.md
+  - name: "8.8 Multi-tenancy"
+    href: security/multi-tenancy.md
+  - name: "8.9 Kubernetes API Server Bypass Risks"
+    href: security/api-server-bypass-risks.md
+  - name: "8.10 Linux kernel security constraints for Pods and containers"
+    href: security/linux-kernel-security-constraints.md
+- name: "9. Policies"
+  href: policy/index.md
+  items:
+  - name: "9.1 Limit Ranges"
+    href: policy/limit-range.md
+  - name: "9.2 Resource Quotas"
+    href: policy/resource-quotas.md
+  - name: "9.3 Process ID Limits And Reservations"
+    href: policy/pid-limiting.md
+- name: "10. Scheduling, Preemption and Eviction"
+  href: scheduling-eviction/index.md
+  items:
+  - name: "10.1 Kubernetes Scheduler"
+    href: scheduling-eviction/kube-scheduler.md
+  - name: "10.2 Running multiple schedulers"
+    href: scheduling-eviction/running-multiple-schedulers.md
+  - name: "10.3 Assigning Pods to Nodes"
+    href: scheduling-eviction/assign-pod-node.md
+  - name: "10.4 Pod Overhead"
+    href: scheduling-eviction/pod-overhead.md
+  - name: "10.5 Pod Scheduling Readiness"
+    href: scheduling-eviction/pod-scheduling-readiness.md
+  - name: "10.6 Pod Topology Spread Constraints"
+    href: scheduling-eviction/topology-spread-constraints.md
+  - name: "10.7 Taints and Tolerations"
+    href: scheduling-eviction/taint-and-toleration.md
+  - name: "10.8 Scheduling Framework"
+    href: scheduling-eviction/scheduling-framework.md
+  - name: "10.9 Gang Scheduling"
+    href: scheduling-eviction/gang-scheduling.md
+  - name: "10.10 Scheduler Performance Tuning"
+    href: scheduling-eviction/scheduler-perf-tuning.md
+  - name: "10.11 PodGroup Scheduling"
+    href: scheduling-eviction/podgroup-scheduling.md
+  - name: "10.12 Resource Bin Packing"
+    href: scheduling-eviction/resource-bin-packing.md
+  - name: "10.13 Workload-Aware Preemption"
+    href: scheduling-eviction/workload-aware-preemption.md
+  - name: "10.14 Topology-Aware Workload Scheduling"
+    href: scheduling-eviction/topology-aware-scheduling.md
+  - name: "10.15 Pod Priority and Preemption"
+    href: scheduling-eviction/pod-priority-preemption.md
+  - name: "10.16 Node-pressure Eviction"
+    href: scheduling-eviction/node-pressure-eviction.md
+  - name: "10.17 API-initiated Eviction"
+    href: scheduling-eviction/api-eviction.md
+  - name: "10.18 Node Declared Features"
+    href: scheduling-eviction/node-declared-features.md
+- name: "11. Resource Management"
+  href: resource-management/index.md
+  items:
+  - name: "11.1 Resource managers"
+    href: resource-management/resource-managers.md
+  - name: "11.2 Dynamic Resource Allocation"
+    href: resource-management/dynamic-resource-allocation/index.md
+    items:
+    - name: "11.2.0 Dynamic Resource Allocation"
+      href: resource-management/dynamic-resource-allocation/dynamic-resource-allocation.md
+    - name: "11.2.1 DRA API Objects"
+      href: resource-management/dynamic-resource-allocation/dra-api.md
+    - name: "11.2.2 How DRA Works"
+      href: resource-management/dynamic-resource-allocation/how-dra-works.md
+    - name: "11.2.3 Observability of Dynamic Resources"
+      href: resource-management/dynamic-resource-allocation/dra-observability.md
+    - name: "11.2.4 DRA Features"
+      href: resource-management/dynamic-resource-allocation/dra-features.md
+    - name: "11.2.5 Device Taints and Tolerations"
+      href: resource-management/dynamic-resource-allocation/device-taints.md
+  - name: "11.3 Pod-level resource managers"
+    href: resource-management/pod-level-resource-managers.md
+- name: "12. Cluster Administration"
+  href: cluster-administration/index.md
+  items:
+  - name: "12.1 Node Shutdowns"
+    href: cluster-administration/node-shutdown.md
+  - name: "12.2 Swap memory management"
+    href: cluster-administration/swap-memory-management.md
+  - name: "12.3 Node Autoscaling"
+    href: cluster-administration/node-autoscaling.md
+  - name: "12.4 Cluster Networking"
+    href: cluster-administration/networking.md
+  - name: "12.5 Observability"
+    href: cluster-administration/observability.md
+  - name: "12.6 Logging Architecture"
+    href: cluster-administration/logging.md
+  - name: "12.7 Compatibility Version For Kubernetes Control Plane Components"
+    href: cluster-administration/compatibility-version.md
+  - name: "12.8 Metrics For Kubernetes System Components"
+    href: cluster-administration/system-metrics.md
+  - name: "12.9 Metrics for Kubernetes Object States"
+    href: cluster-administration/kube-state-metrics.md
+  - name: "12.10 System Logs"
+    href: cluster-administration/system-logs.md
+  - name: "12.11 Traces For Kubernetes System Components"
+    href: cluster-administration/system-traces.md
+  - name: "12.12 Proxies in Kubernetes"
+    href: cluster-administration/proxies.md
+  - name: "12.13 API Priority and Fairness"
+    href: cluster-administration/flow-control.md
+  - name: "12.14 Coordinated Leader Election"
+    href: cluster-administration/coordinated-leader-election.md
+- name: "13. Windows in Kubernetes"
+  href: windows/index.md
+  items:
+  - name: "13.1 Windows containers in Kubernetes"
+    href: windows/intro.md
+- name: "14. Extending Kubernetes"
+  href: extend-kubernetes/index.md
+  items:
+  - name: "14.0 Extending Kubernetes"
+    href: extend-kubernetes/extending-kubernetes.md
+  - name: "14.1 Compute, Storage, and Networking Extensions"
+    href: extend-kubernetes/compute-storage-net/index.md
+    items:
+    - name: "14.1.0 Compute, Storage, and Networking Extensions"
+      href: extend-kubernetes/compute-storage-net/compute-storage-and-networking-extensions.md
+    - name: "14.1.1 Network Plugins"
+      href: extend-kubernetes/compute-storage-net/network-plugins.md
+    - name: "14.1.2 Device Plugins"
+      href: extend-kubernetes/compute-storage-net/device-plugins.md
+  - name: "14.2 Extending the Kubernetes API"
+    href: extend-kubernetes/api-extension/index.md
+    items:
+    - name: "14.2.0 Extending the Kubernetes API"
+      href: extend-kubernetes/api-extension/extending-the-kubernetes-api.md
+    - name: "14.2.1 Custom Resources"
+      href: extend-kubernetes/api-extension/custom-resources.md
+    - name: "14.2.2 Kubernetes API Aggregation Layer"
+      href: extend-kubernetes/api-extension/apiserver-aggregation.md
+  - name: "14.3 Operator pattern"
+    href: extend-kubernetes/operator.md

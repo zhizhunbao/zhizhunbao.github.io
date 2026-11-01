@@ -1,32 +1,42 @@
 items:
 - name: Overview
   href: index.md
-- name: "1. What Is Docker?"
+- name: "1. Docker overview"
   href: docker-overview.md
-- name: "2. The Basics"
+- name: "2. The basics"
   href: the-basics/index.md
   items:
-  - name: "2.1 What Is a Container?"
-    href: the-basics/what-is-a-container.md
-  - name: "2.2 What Is an Image?"
-    href: the-basics/what-is-an-image.md
-  - name: "2.3 What Is a Registry?"
-    href: the-basics/what-is-a-registry.md
-  - name: "2.4 What Is Docker Compose?"
-    href: the-basics/what-is-docker-compose.md
-- name: "3. Building Images"
+  - name: "2.1 Container"
+    href: the-basics/container.md
+  - name: "2.2 Image"
+    href: the-basics/image.md
+  - name: "2.3 Registry"
+    href: the-basics/registry.md
+  - name: "2.4 Docker Compose"
+    href: the-basics/docker-compose.md
+- name: "3. Building images"
   href: building-images/index.md
   items:
-  - name: "3.1 Understanding the Image Layers"
+  - name: "3.1 Understanding the image layers"
     href: building-images/understanding-image-layers.md
   - name: "3.2 Writing a Dockerfile"
     href: building-images/writing-a-dockerfile.md
-  - name: "3.3 Using the Build Cache"
+  - name: "3.3 Build, tag, and publish an image"
+    href: building-images/build-tag-and-publish-an-image.md
+  - name: "3.4 Using the build cache"
     href: building-images/using-the-build-cache.md
-- name: "4. Running Containers"
+  - name: "3.5 Multi-stage builds"
+    href: building-images/multi-stage-builds.md
+- name: "4. Running containers"
   href: running-containers/index.md
   items:
-  - name: "4.1 Publishing and Exposing Ports"
+  - name: "4.1 Publishing and exposing ports"
     href: running-containers/publishing-ports.md
-  - name: "4.2 Multi-Container Applications"
+  - name: "4.2 Overriding container defaults"
+    href: running-containers/overriding-container-defaults.md
+  - name: "4.3 Persisting container data"
+    href: running-containers/persisting-container-data.md
+  - name: "4.4 Sharing local files with containers"
+    href: running-containers/sharing-local-files.md
+  - name: "4.5 Multi-container applications"
     href: running-containers/multi-container-applications.md

@@ -1,0 +1,105 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">4.1 Pods</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">4.1.0 Pods</div>
+      <div class="item">4.1.0.1 Using Pods</div>
+      <div class="item">4.1.0.2 Working with Pods</div>
+      <div class="item">4.1.0.3 Pod update and replacement</div>
+      <div class="item">4.1.0.4 Resource sharing and communication</div>
+      <div class="item">4.1.0.5 Resource requests and limits</div>
+      <div class="item">4.1.0.6 Static Pods</div>
+      <div class="item">4.1.0.7 Pods with multiple containers</div>
+      <div class="item">4.1.0.8 Container probes</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.1 Pod Lifecycle</div>
+      <div class="item">4.1.1.1 Pod lifetime</div>
+      <div class="item">4.1.1.2 Pod phase</div>
+      <div class="item">4.1.1.3 Container states</div>
+      <div class="item">4.1.1.4 How Pods handle problems with containers</div>
+      <div class="item">4.1.1.5 Pod conditions</div>
+      <div class="item">4.1.1.6 Resizing Pods</div>
+      <div class="item">4.1.1.7 Container probes</div>
+      <div class="item">4.1.1.8 Pod behavior during kubelet restarts</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.2 Pod Conditions</div>
+      <div class="item">4.1.2.1 Lifecycle Pod conditions</div>
+      <div class="item">4.1.2.2 Other Pod conditions</div>
+      <div class="item">4.1.2.3 Enhanced Pod readiness</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.3 Init Containers</div>
+      <div class="item">4.1.3.1 Detailed behavior</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.4 Sidecar Containers</div>
+      <div class="item">4.1.4.1 Sidecar containers in Kubernetes</div>
+      <div class="item">4.1.4.2 Differences from application containers</div>
+      <div class="item">4.1.4.3 Resource sharing within containers</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.5 Ephemeral Containers</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.6 Liveness, Readiness, and Startup Probes</div>
+      <div class="item">4.1.6.1 Types of probe</div>
+      <div class="item">4.1.6.2 Check mechanisms</div>
+      <div class="item">4.1.6.3 Probe results</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.7 Disruptions</div>
+      <div class="item">4.1.7.1 Voluntary and involuntary disruptions</div>
+      <div class="item">4.1.7.2 Pod disruption budgets</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.8 Pod Hostname</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.9 Pod Quality of Service Classes</div>
+      <div class="item">4.1.9.1 Quality of Service classes</div>
+      <div class="item">4.1.9.2 Memory QoS with cgroup v2</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.10 Scheduling Group</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.11 Static Pods</div>
+      <div class="item">4.1.11.1 Mirror Pods</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.12 User Namespaces</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.13 Downward API</div>
+      <div class="item">4.1.13.1 Available fields</div>
+    </div>
+    <div class="group">
+      <div class="title">4.1.14 Advanced Pod Configuration</div>
+      <div class="item">4.1.14.1 PriorityClasses</div>
+      <div class="item">4.1.14.2 RuntimeClasses</div>
+      <div class="item">4.1.14.3 Pod and container level security context configuration</div>
+      <div class="item">4.1.14.4 Influencing Pod scheduling decisions</div>
+      <div class="item">4.1.14.5 Pod overhead</div>
+    </div>
+  </div>
+</div>
+</body></html>

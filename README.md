@@ -70,7 +70,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 ### Boxes and groups
 
 - Boxes and group titles are terms, never page titles ("What are Azure regions?") or category labels. A table-of-contents group with no terms of its own is left out of the figure, the menu and the sub-pages.
-- Border colour: orange (#e8a317, like the frame and group names) for a term defined on this page; blue for a term whose definition lives on a sub-page.
+- Border colour: orange (#e8a317, like the frame and group names) for a term defined on this page; blue for a term whose definition lives on a sub-page. An entry built from one book or documentation set uses blue for every item instead ("Levels, numbers and figures of a source").
 - Sub-page figure: every term defined on the page is one box in a single column, in source order. A part without sub-items is a plain box, never an empty dashed group. A box with sub-terms gets a dashed group beside the column, titled with the same name and joined by a blue dashed curve from the box to the group title (template `figures/cloud/azure/cloud-adoption-framework/plan.html`; a plain column: `figures/cloud/azure/compute/specialty-workloads.html`).
 - Overview figure: one dashed group per sub-page, with blue boxes; it does not show the sub-pages' own expansions.
 - Every box of a figure, the frame and group titles included, has its row in the Glossary below it: a sub-page's Glossary starts with the row of the frame (the entry) and the row of its group, then the rows of the boxes (since 2026-10-29).
@@ -210,6 +210,20 @@ The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Sy
   3. Add the term on the page where the source defines it.
 - The plan is correct information, so every planned group is on the site from the start (figure group, menu entry, page naming the official parts its terms come from, "Not written yet" until a term arrives); the parts without terms stay only in the cached table of contents, and nothing useless is copied onto the site (first done for SQL Server, 2026-10-26).
 - The table of contents lists articles, not terms: figures box only terms.
+
+### Levels, numbers and figures of a source
+
+- One rule for every entry built from one source, a book (the Mathematical Sciences units and subjects) or a documentation set (ROS 2, Docker, Kubernetes and the other products), since 2026-10-31. The sections above add only what differs.
+- Levels follow the source: the entry's Overview, a page per top-level group (a book's chapter), a page per page of the source (a section); that page's own sections are its parts (subsections), and the terms under them are the last level.
+- Numbers: every level is numbered in source order (2, 2.2, 2.2.1), the way the books number chapter, section and subsection; a source's own numbers are kept where it has them.
+- Every figure shows two levels, its page's children as groups and their children as items: the Overview a group per group page listing its pages; a group page a group per page listing its parts; a page a group per part listing its terms. Items stand in a column; only a figure with a single group lays its items out in rows. Nothing deeper is drawn: a term's sub-terms sit in the same group after it, in source order, each with its own Glossary row.
+- Format: the MSC format of the reference figures (CLAUDE.md, "Checking"): the frame and group titles in orange boxes, every item in a blue box; a group with no items is drawn empty.
+- What is kept differs by source: a book keeps every section, even one that defines no term, so the map matches its table of contents; a documentation set drops the parts that hold no terms (above).
+- Names are terms: a source title phrased as a question carries the term the page defines ("What is an image?" is Image).
+- Items are terms only, never section headings: a page's sections that hold terms are its groups, numbered in page order; terms in the page's opening are group 0 (2.2.0), as in the books; a section that holds none is not drawn. A term in a note or a hands-on step is placed in the section that holds it.
+- A placeholder of a syntax or format (`HOST_PORT`, `TAG`) is a term when the source defines it; options and flags (`-p`, `--memory`) are not.
+- A word the source sets in italics as the name of a concept is a term too (*desired state*, *handling API server*), as the books' emphasized words are; every written page is checked by script for italic words missing from its Glossary.
+
 
 ## Pages
 

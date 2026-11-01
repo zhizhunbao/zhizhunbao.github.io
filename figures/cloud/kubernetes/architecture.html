@@ -1,0 +1,75 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">2 Cluster Architecture</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">2.0 Cluster Architecture</div>
+      <div class="item">2.0.1 Control plane components</div>
+      <div class="item">2.0.2 Node components</div>
+      <div class="item">2.0.3 Addons</div>
+    </div>
+    <div class="group">
+      <div class="title">2.1 Nodes</div>
+      <div class="item">2.1.1 Management</div>
+      <div class="item">2.1.2 Node heartbeats</div>
+      <div class="item">2.1.3 Node controller</div>
+      <div class="item">2.1.4 Resource capacity tracking</div>
+    </div>
+    <div class="group">
+      <div class="title">2.2 Communication between Nodes and the Control Plane</div>
+      <div class="item">2.2.1 Control plane to node</div>
+    </div>
+    <div class="group">
+      <div class="title">2.3 Controllers</div>
+      <div class="item">2.3.0 Controllers</div>
+      <div class="item">2.3.1 Controller pattern</div>
+    </div>
+    <div class="group">
+      <div class="title">2.4 Leases</div>
+      <div class="item">2.4.1 Node heartbeats</div>
+      <div class="item">2.4.2 Leader election</div>
+      <div class="item">2.4.3 API server identity</div>
+    </div>
+    <div class="group">
+      <div class="title">2.5 Cloud Controller Manager</div>
+      <div class="item">2.5.1 Cloud controller manager functions</div>
+    </div>
+    <div class="group">
+      <div class="title">2.6 About cgroup v2</div>
+      <div class="item">2.6.1 cgroup v2</div>
+    </div>
+    <div class="group">
+      <div class="title">2.7 Kubernetes Self-Healing</div>
+      <div class="item">2.7.1 Self-Healing capabilities</div>
+    </div>
+    <div class="group">
+      <div class="title">2.8 Garbage Collection</div>
+      <div class="item">2.8.1 Owners and dependents</div>
+      <div class="item">2.8.2 Cascading deletion</div>
+      <div class="item">2.8.3 Garbage collection of unused containers and images</div>
+    </div>
+    <div class="group">
+      <div class="title">2.9 Mixed Version Proxy</div>
+      <div class="item">2.9.0 Mixed Version Proxy</div>
+      <div class="item">2.9.1 Peer-aggregated discovery</div>
+      <div class="item">2.9.2 Mixed version proxying</div>
+    </div>
+  </div>
+</div>
+</body></html>
