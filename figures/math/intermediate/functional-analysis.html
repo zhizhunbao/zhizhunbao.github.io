@@ -1,0 +1,271 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 2px solid #e8a317; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+</style><style>.item { border: 1.5px solid #0f6cbd; }</style>
+<style>.grid { display: flex; flex-wrap: wrap; gap: 8px; } .grid .item { flex: 1 1 auto; margin-bottom: 0; }</style>
+<style>.item { white-space: normal; text-align: center; min-height: 34px; height: auto; padding: 4px 12px; }</style>
+</head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Functional Analysis</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">1 Basic Banach Space Theory</div>
+      <div class="item">Definition 3</div>
+      <div class="item">Definition 5</div>
+      <div class="item">Definition 7</div>
+      <div class="item">Proposition 8</div>
+      <div class="item">Definition 10</div>
+      <div class="item">Proposition 11</div>
+      <div class="item">Definition 12</div>
+      <div class="item">Definition 14</div>
+      <div class="item">Theorem 16</div>
+    </div>
+    <div class="group">
+      <div class="title">2 Bounded Linear Operators</div>
+      <div class="item">Definition 17</div>
+      <div class="item">Proposition 18</div>
+      <div class="item">Theorem 19</div>
+      <div class="item">Definition 21</div>
+      <div class="item">Theorem 22</div>
+      <div class="item">Definition 24</div>
+      <div class="item">Definition 25</div>
+      <div class="item">Theorem 26</div>
+      <div class="item">Theorem 27</div>
+      <div class="item">Definition 28</div>
+    </div>
+    <div class="group">
+      <div class="title">3 Quotient Spaces, the Baire Category Theorem and the Uniform Boundedness Theorem</div>
+      <div class="item">Definition 29</div>
+      <div class="item">Proposition 30</div>
+      <div class="item">Definition 31</div>
+      <div class="item">Theorem 33</div>
+      <div class="item">Theorem 34</div>
+      <div class="item">Theorem 36</div>
+    </div>
+    <div class="group">
+      <div class="title">4 The Open Mapping Theorem and the Closed Graph Theorem</div>
+      <div class="item">Theorem 37</div>
+      <div class="item">Corollary 38</div>
+      <div class="item">Proposition 39</div>
+      <div class="item">Theorem 40</div>
+      <div class="item">Definition 42</div>
+      <div class="item">Definition 44</div>
+      <div class="item">Proposition 45</div>
+      <div class="item">Definition 46</div>
+    </div>
+    <div class="group">
+      <div class="title">5 Zorn's Lemma and the Hahn-Banach Theorem</div>
+      <div class="item">Theorem 47</div>
+      <div class="item">Theorem 48</div>
+      <div class="item">Lemma 49</div>
+    </div>
+    <div class="group">
+      <div class="title">6 The Double Dual and the Outer Measure of a Subset of Real Numbers</div>
+      <div class="item">Theorem 50</div>
+      <div class="item">Definition 51</div>
+      <div class="item">Definition 53</div>
+      <div class="item">Theorem 54</div>
+      <div class="item">Definition 55</div>
+      <div class="item">Definition 58</div>
+      <div class="item">Theorem 60</div>
+      <div class="item">Lemma 61</div>
+      <div class="item">Theorem 62</div>
+    </div>
+    <div class="group">
+      <div class="title">7 Sigma Algebras</div>
+      <div class="item">Proposition 63</div>
+      <div class="item">Theorem 64</div>
+      <div class="item">Definition 65</div>
+      <div class="item">Lemma 66</div>
+      <div class="item">Proposition 67</div>
+      <div class="item">Proposition 68</div>
+      <div class="item">Definition 70</div>
+      <div class="item">Proposition 72</div>
+    </div>
+    <div class="group">
+      <div class="title">8 Lebesgue Measurable Subsets and Measure</div>
+      <div class="item">Lemma 73</div>
+      <div class="item">Proposition 74</div>
+      <div class="item">Theorem 75</div>
+      <div class="item">Proposition 77</div>
+      <div class="item">Theorem 78</div>
+      <div class="item">Definition 79</div>
+      <div class="item">Proposition 80</div>
+      <div class="item">Theorem 81</div>
+      <div class="item">Theorem 82</div>
+    </div>
+    <div class="group">
+      <div class="title">9 Lebesgue Measurable Functions</div>
+      <div class="item">Definition 85</div>
+      <div class="item">Theorem 86</div>
+      <div class="item">Theorem 87</div>
+      <div class="item">Theorem 88</div>
+      <div class="item">Theorem 91</div>
+      <div class="item">Theorem 92</div>
+      <div class="item">Corollary 93</div>
+      <div class="item">Definition 95</div>
+      <div class="item">Theorem 96</div>
+    </div>
+    <div class="group">
+      <div class="title">10 Simple Functions</div>
+      <div class="item">Definition 97</div>
+      <div class="item">Theorem 98</div>
+      <div class="item">Theorem 99</div>
+      <div class="item">Definition 100</div>
+      <div class="item">Proposition 101</div>
+      <div class="item">Theorem 102</div>
+      <div class="item">Definition 103</div>
+      <div class="item">Theorem 104</div>
+      <div class="item">Definition 105</div>
+      <div class="item">Definition 106</div>
+      <div class="item">Theorem 107</div>
+    </div>
+    <div class="group">
+      <div class="title">11 The Lebesgue Integral of a Nonnegative Function and Convergence Theorems</div>
+      <div class="item">Definition 108</div>
+      <div class="item">Proposition 109</div>
+      <div class="item">Proposition 110</div>
+      <div class="item">Proposition 111</div>
+      <div class="item">Theorem 112</div>
+      <div class="item">Corollary 113</div>
+      <div class="item">Theorem 115</div>
+      <div class="item">Theorem 116</div>
+      <div class="item">Theorem 117</div>
+      <div class="item">Theorem 118</div>
+      <div class="item">Theorem 119</div>
+    </div>
+    <div class="group">
+      <div class="title">12 Lebesgue Integrable Functions, the Lebesgue Integral and the Dominated Convergence Theorem</div>
+      <div class="item">Definition 120</div>
+      <div class="item">Definition 121</div>
+      <div class="item">Proposition 122</div>
+      <div class="item">Proposition 123</div>
+      <div class="item">Theorem 125</div>
+      <div class="item">Theorem 126</div>
+      <div class="item">Proposition 127</div>
+    </div>
+    <div class="group">
+      <div class="title">13 Lp Space Theory</div>
+      <div class="item">Definition 128</div>
+      <div class="item">Proposition 129</div>
+      <div class="item">Theorem 130</div>
+      <div class="item">Theorem 131</div>
+      <div class="item">Definition 133</div>
+      <div class="item">Theorem 135</div>
+      <div class="item">Proposition 136</div>
+      <div class="item">Corollary 137</div>
+      <div class="item">Proposition 138</div>
+      <div class="item">Theorem 139</div>
+      <div class="item">Definition 140</div>
+      <div class="item">Definition 141</div>
+      <div class="item">Theorem 142</div>
+    </div>
+    <div class="group">
+      <div class="title">14 Basic Hilbert Space Theory</div>
+      <div class="item">Theorem 143</div>
+      <div class="item">Theorem 144</div>
+      <div class="item">Definition 145</div>
+      <div class="item">Proposition 149</div>
+      <div class="item">Definition 150</div>
+      <div class="item">Theorem 155</div>
+      <div class="item">Definition 156</div>
+      <div class="item">Theorem 159</div>
+      <div class="item">Theorem 160</div>
+    </div>
+    <div class="group">
+      <div class="title">15 Orthonormal Bases and Fourier Series</div>
+      <div class="item">Definition 161</div>
+      <div class="item">Theorem 162</div>
+      <div class="item">Corollary 163</div>
+      <div class="item">Theorem 164</div>
+      <div class="item">Theorem 165</div>
+      <div class="item">Proposition 166</div>
+      <div class="item">Definition 167</div>
+      <div class="item">Definition 168</div>
+      <div class="item">Proposition 170</div>
+      <div class="item">Definition 171</div>
+    </div>
+    <div class="group">
+      <div class="title">16 Fejer's Theorem and Convergence of Fourier Series</div>
+      <div class="item">Proposition 173</div>
+      <div class="item">Theorem 174</div>
+      <div class="item">Proposition 176</div>
+      <div class="item">Theorem 177</div>
+    </div>
+    <div class="group">
+      <div class="title">17 Minimizers, Orthogonal Complements and the Riesz Representation Theorem</div>
+      <div class="item">Theorem 178</div>
+      <div class="item">Theorem 180</div>
+      <div class="item">Theorem 181</div>
+      <div class="item">Definition 182</div>
+      <div class="item">Proposition 183</div>
+      <div class="item">Theorem 184</div>
+    </div>
+    <div class="group">
+      <div class="title">18 The Adjoint of a Bounded Linear Operator on a Hilbert Space</div>
+      <div class="item">Theorem 185</div>
+      <div class="item">Theorem 189</div>
+      <div class="item">Definition 190</div>
+      <div class="item">Theorem 192</div>
+      <div class="item">Definition 194</div>
+      <div class="item">Theorem 196</div>
+    </div>
+    <div class="group">
+      <div class="title">19 Compact Subsets of a Hilbert Space and Finite-Rank Operators</div>
+      <div class="item">Theorem 197</div>
+      <div class="item">Theorem 199</div>
+      <div class="item">Definition 201</div>
+      <div class="item">Proposition 203</div>
+      <div class="item">Theorem 204</div>
+      <div class="item">Theorem 205</div>
+      <div class="item">Definition 207</div>
+    </div>
+    <div class="group">
+      <div class="title">20 Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space</div>
+      <div class="item">Theorem 210</div>
+      <div class="item">Theorem 211</div>
+      <div class="item">Proposition 212</div>
+      <div class="item">Proposition 213</div>
+      <div class="item">Definition 214</div>
+      <div class="item">Definition 216</div>
+      <div class="item">Theorem 219</div>
+      <div class="item">Theorem 221</div>
+    </div>
+    <div class="group">
+      <div class="title">21 The spectrum of Self-Adjoint Operators and the Eigenspaces of Compact Self-Adjoint Operators</div>
+      <div class="item">Theorem 223</div>
+      <div class="item">Theorem 224</div>
+      <div class="item">Definition 226</div>
+      <div class="item">Theorem 227</div>
+    </div>
+    <div class="group">
+      <div class="title">22 The Spectral Theorem for a Compact Self-Adjoint Operator</div>
+      <div class="item">Theorem 228</div>
+      <div class="item">Theorem 230</div>
+      <div class="item">Theorem 231</div>
+      <div class="item">Theorem 232</div>
+    </div>
+    <div class="group">
+      <div class="title">23 The Dirichlet Problem on an Interval</div>
+      <div class="item">Theorem 234</div>
+      <div class="item">Theorem 235</div>
+      <div class="item">Theorem 236</div>
+      <div class="item">Definition 238</div>
+      <div class="item">Theorem 239</div>
+      <div class="item">Theorem 240</div>
+      <div class="item">Theorem 241</div>
+      <div class="item">Theorem 242</div>
+    </div>
+  </div>
+</div>
+</body></html>

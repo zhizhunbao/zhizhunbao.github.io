@@ -6,6 +6,8 @@ items:
 - name: "2 Geometry"
   href: 2-geometry/index.md
   items:
+  - name: "Definitions"
+    href: 2-geometry/0-definitions.md
   - name: "Postulates"
     href: 2-geometry/1-postulates.md
   - name: "Common Notions"

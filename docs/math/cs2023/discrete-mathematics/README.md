@@ -224,6 +224,7 @@ Decisions: **term** (goes on the section page), **same term** (another box of a 
 |---|---|---|---|
 | **7.1** | **Definition and Notation** | [section](https://discretemath.org/ads/s-function-def-notation.html) | |
 | 7.1.1 | Function | Definition | term |
+| subsection 7.1.1 | Mapping, Map, Transformation | Running text | term (added 2026-10-31) |
 | 7.1.5 | The Set of Functions Between Two Sets | Definition | term |
 | 7.1.7 | Image of an element under a function | Definition | term |
 | 7.1.8 | Range of a Function | Definition | term |
@@ -233,7 +234,9 @@ Decisions: **term** (goes on the section page), **same term** (another box of a 
 | 7.2.3 | Bijective Function, Bijection | Definition | term |
 | 7.2.7 | Cardinality | Definition | term |
 | 7.2.8 | Countable Set | Definition | term |
+| subsection 7.2.2 | Countably infinite | Running text | term (added 2026-10-31) |
 | 7.2.13 | The Pigeonhole Principle | Theorem | term |
+| Exercise 7.2.13 | Cantor diagonal process | Exercise answer | term, (context) (added 2026-10-31) |
 | **7.3** | **Function Composition** | [section](https://discretemath.org/ads/s-function-composition.html) | |
 | 7.3.1 | Equality of Functions | Definition | term |
 | 7.3.2 | Composition of Functions | Definition | term |

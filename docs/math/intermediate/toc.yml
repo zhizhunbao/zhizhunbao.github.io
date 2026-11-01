@@ -512,6 +512,55 @@ items:
   href: complex-analysis.md
 - name: "Topology"
   href: topology.md
+- name: "Functional Analysis"
+  href: functional-analysis/index.md
+  items:
+  - name: "1 Basic Banach Space Theory"
+    href: functional-analysis/1-basic-banach-space-theory.md
+  - name: "2 Bounded Linear Operators"
+    href: functional-analysis/2-bounded-linear-operators.md
+  - name: "3 Quotient Spaces, the Baire Category Theorem and the Uniform Boundedness Theorem"
+    href: functional-analysis/3-quotient-spaces-the-baire-category-theorem-and-the-uniform-boundedness-theorem.md
+  - name: "4 The Open Mapping Theorem and the Closed Graph Theorem"
+    href: functional-analysis/4-the-open-mapping-theorem-and-the-closed-graph-theorem.md
+  - name: "5 Zorn's Lemma and the Hahn-Banach Theorem"
+    href: functional-analysis/5-zorns-lemma-and-the-hahn-banach-theorem.md
+  - name: "6 The Double Dual and the Outer Measure of a Subset of Real Numbers"
+    href: functional-analysis/6-the-double-dual-and-the-outer-measure-of-a-subset-of-real-numbers.md
+  - name: "7 Sigma Algebras"
+    href: functional-analysis/7-sigma-algebras.md
+  - name: "8 Lebesgue Measurable Subsets and Measure"
+    href: functional-analysis/8-lebesgue-measurable-subsets-and-measure.md
+  - name: "9 Lebesgue Measurable Functions"
+    href: functional-analysis/9-lebesgue-measurable-functions.md
+  - name: "10 Simple Functions"
+    href: functional-analysis/10-simple-functions.md
+  - name: "11 The Lebesgue Integral of a Nonnegative Function and Convergence Theorems"
+    href: functional-analysis/11-the-lebesgue-integral-of-a-nonnegative-function-and-convergence-theorems.md
+  - name: "12 Lebesgue Integrable Functions, the Lebesgue Integral and the Dominated Convergence Theorem"
+    href: functional-analysis/12-lebesgue-integrable-functions-the-lebesgue-integral-and-the-dominated-convergence-theorem.md
+  - name: "13 Lp Space Theory"
+    href: functional-analysis/13-lp-space-theory.md
+  - name: "14 Basic Hilbert Space Theory"
+    href: functional-analysis/14-basic-hilbert-space-theory.md
+  - name: "15 Orthonormal Bases and Fourier Series"
+    href: functional-analysis/15-orthonormal-bases-and-fourier-series.md
+  - name: "16 Fejer's Theorem and Convergence of Fourier Series"
+    href: functional-analysis/16-fejers-theorem-and-convergence-of-fourier-series.md
+  - name: "17 Minimizers, Orthogonal Complements and the Riesz Representation Theorem"
+    href: functional-analysis/17-minimizers-orthogonal-complements-and-the-riesz-representation-theorem.md
+  - name: "18 The Adjoint of a Bounded Linear Operator on a Hilbert Space"
+    href: functional-analysis/18-the-adjoint-of-a-bounded-linear-operator-on-a-hilbert-space.md
+  - name: "19 Compact Subsets of a Hilbert Space and Finite-Rank Operators"
+    href: functional-analysis/19-compact-subsets-of-a-hilbert-space-and-finite-rank-operators.md
+  - name: "20 Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space"
+    href: functional-analysis/20-compact-operators-and-the-spectrum-of-a-bounded-linear-operator-on-a-hilbert-space.md
+  - name: "21 The spectrum of Self-Adjoint Operators and the Eigenspaces of Compact Self-Adjoint Operators"
+    href: functional-analysis/21-the-spectrum-of-self-adjoint-operators-and-the-eigenspaces-of-compact-self-adjoint-operators.md
+  - name: "22 The Spectral Theorem for a Compact Self-Adjoint Operator"
+    href: functional-analysis/22-the-spectral-theorem-for-a-compact-self-adjoint-operator.md
+  - name: "23 The Dirichlet Problem on an Interval"
+    href: functional-analysis/23-the-dirichlet-problem-on-an-interval.md
 - name: "Numerical Analysis"
   href: numerical-analysis.md
 - name: "Partial Differential Equations"

@@ -1,14 +1,14 @@
 ---
 title: "Intermediate"
-description: "Intermediate level of Mathematical Sciences: 13 subjects of the mathematics major and graduate foundations beyond MSF, in learning order, each from one web textbook."
-ms.date: 2026-10-29
+description: "Intermediate level of Mathematical Sciences: 14 subjects of the mathematics major and graduate foundations beyond MSF, in learning order, each from one web textbook."
+ms.date: 2026-10-31
 ---
 
 # Intermediate
 
 ## Classification
 
-![Intermediate in learning order: Real Analysis, Number Theory, Ordinary Differential Equations, Geometry, Abstract Algebra, Complex Analysis, Topology, Numerical Analysis, Partial Differential Equations, Mathematical Modeling, Differential Geometry, Algebraic Topology, Algebraic Geometry.](media/intermediate.png)
+![Intermediate in learning order: Real Analysis, Number Theory, Ordinary Differential Equations, Geometry, Abstract Algebra, Complex Analysis, Topology, Functional Analysis, Numerical Analysis, Partial Differential Equations, Mathematical Modeling, Differential Geometry, Algebraic Topology, Algebraic Geometry.](media/intermediate.png)
 
 ## Glossary
 
@@ -22,6 +22,7 @@ ms.date: 2026-10-29
 | **[Abstract Algebra](abstract-algebra.md)**<br>抽象代数 | (No definition) | （无定义） | [Judson, 2026](https://judsonbooks.org/aata-files/aata-html/aata.html) |
 | **[Complex Analysis](complex-analysis.md)**<br>复分析 | (No definition) | （无定义） | [Beck et al., n.d.](https://matthbeck.github.io/complexanalysis/) |
 | **[Topology](topology.md)**<br>拓扑学 | (No definition) | （无定义） | [Schlicker, n.d.](https://gvsuoer.github.io/topology/) |
+| **[Functional Analysis](functional-analysis/index.md)**<br>泛函分析 | (No definition) | （无定义） | [Rodriguez, 2021](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/) |
 | **[Numerical Analysis](numerical-analysis.md)**<br>数值分析 | (No definition) | （无定义） | [Driscoll & Braun, n.d.](https://fncbook.com) |
 | **[Partial Differential Equations](partial-differential-equations.md)**<br>偏微分方程 | (No definition) | （无定义） | [Ivrii, n.d.](https://www.math.toronto.edu/ivrii/PDE-textbook/) |
 | **[Mathematical Modeling](mathematical-modeling.md)**<br>数学建模 | (No definition) | （无定义） | [Lega, 2024](https://opentextbooks.library.arizona.edu/mathematicalmodeling) |
@@ -50,6 +51,8 @@ Lebl, J. (2026). *Basic analysis I & II: Introduction to real analysis* (May 22,
 Lebl, J. (n.d.). *Notes on diffy qs: Differential equations for engineers*. Retrieved October 29, 2026, from <https://www.jirka.org/diffyqs/html/diffyqs.html>
 
 Lega, J. (2024). *Introduction to mathematical modeling*. University of Arizona. Retrieved October 29, 2026, from <https://opentextbooks.library.arizona.edu/mathematicalmodeling>
+
+Rodriguez, C. (2021). *18.102 Introduction to functional analysis: Lecture notes* (Spring 2021). MIT OpenCourseWare. Retrieved October 31, 2026, from <https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/>
 
 Schlicker, S. (n.d.). *Topology: An inquiry-based approach*. Grand Valley State University. Retrieved October 29, 2026, from <https://gvsuoer.github.io/topology/>
 

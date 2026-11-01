@@ -7,7 +7,7 @@ items:
   href: intermediate/toc.yml
 - name: MSC2020
   href: msc2020/toc.yml
-- name: IUPAC Green Book
+- name: Mathematical Symbols
   href: green-book/toc.yml
 - name: Axioms
   href: axioms/toc.yml
