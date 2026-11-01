@@ -1,0 +1,39 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!-- Point: an IIS web app is assessed, migrated to App Service, and its database moved or connected. -->
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; align-items: stretch; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .head { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; }
+  .step { width: 28px; height: 28px; border-radius: 50%; background: #107c10; color: #fff; font-size: 16px; font-weight: 700; display: flex; align-items: center; justify-content: center; flex: none; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 0; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 44px; margin-top: 8px; white-space: nowrap; display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; padding: 0 12px; color: #222; }
+  .arrow { width: 56px; display: flex; justify-content: center; align-items: center; flex: none; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Refactoring a web app</div>
+  <div class="row">
+    <div class="group">
+      <div class="head"><div class="step">1</div><div class="title">Assess</div></div>
+      <div class="item">IIS</div>
+      <div class="item">App Service Migration Assistant</div>
+    </div>
+    <div class="arrow"><svg width="44" height="20"><line x1="2" y1="10" x2="32" y2="10" stroke="#107c10" stroke-width="2.5"/><polygon points="32,3 42,10 32,17" fill="#107c10"/></svg></div>
+    <div class="group">
+      <div class="head"><div class="step">2</div><div class="title">Migrate</div></div>
+      <div class="item">Azure App Service</div>
+    </div>
+    <div class="arrow"><svg width="44" height="20"><line x1="2" y1="10" x2="32" y2="10" stroke="#107c10" stroke-width="2.5"/><polygon points="32,3 42,10 32,17" fill="#107c10"/></svg></div>
+    <div class="group">
+      <div class="head"><div class="step">3</div><div class="title">Database</div></div>
+      <div class="item">Azure SQL Database</div>
+      <div class="item">Azure SQL Managed Instance</div>
+      <div class="item">Hybrid connection</div>
+    </div>
+  </div>
+</div>
+</body></html>

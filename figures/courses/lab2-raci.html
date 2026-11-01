@@ -1,0 +1,33 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!-- Point: in the Lab 2 RACI matrix every activity has exactly one Accountable owner (A), mostly the infrastructure director. -->
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  table { border-collapse: separate; border-spacing: 6px; }
+  th { font-size: 15px; font-weight: 700; color: #0f6cbd; padding: 4px 8px; white-space: nowrap; }
+  th.act { text-align: left; }
+  td { height: 40px; text-align: center; font-size: 17px; font-weight: 700; color: #222; border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; min-width: 86px; }
+  td.act { text-align: left; font-size: 15px; font-weight: 600; padding: 0 12px; white-space: nowrap; min-width: 0; }
+  td.a { background: #e8a317; border-color: #e8a317; color: #fff; }
+  .legend { display: flex; gap: 10px; margin-top: 12px; }
+  .legend div { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; padding: 6px 12px; font-size: 15px; font-weight: 600; }
+  .legend .a { background: #e8a317; border-color: #e8a317; color: #fff; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Lab 2 RACI matrix</div>
+  <table>
+    <tr><th class="act">Activity</th><th>Sponsor</th><th>ERP</th><th>Infra</th><th>Migration</th><th>Security</th><th>Business</th><th>Microsoft</th></tr>
+    <tr><td class="act">Approve strategy, budget and timeline</td><td class="a">A</td><td>R</td><td>R</td><td>C</td><td>C</td><td>C</td><td>I</td></tr>
+    <tr><td class="act">Discover and assess the estate</td><td>I</td><td>C</td><td class="a">A</td><td>R</td><td>C</td><td>C</td><td>C</td></tr>
+    <tr><td class="act">Design the landing zone and security</td><td>I</td><td>C</td><td class="a">A</td><td>R</td><td>R</td><td>I</td><td>C</td></tr>
+    <tr><td class="act">Migrate servers and databases in waves</td><td>I</td><td>C</td><td class="a">A</td><td>R</td><td>C</td><td>I</td><td>C</td></tr>
+    <tr><td class="act">Standardize processes on the global ERP</td><td>I</td><td class="a">A</td><td>C</td><td>C</td><td>C</td><td>R</td><td>I</td></tr>
+    <tr><td class="act">Cut over and decommission the datacenters</td><td>I</td><td>C</td><td class="a">A</td><td>R</td><td>C</td><td>C</td><td>I</td></tr>
+    <tr><td class="act">Optimize cost, performance and resilience</td><td>I</td><td>C</td><td class="a">A</td><td>R</td><td>C</td><td>C</td><td>C</td></tr>
+  </table>
+  <div class="legend"><div>R Responsible</div><div class="a">A Accountable</div><div>C Consulted</div><div>I Informed</div></div>
+</div>
+</body></html>

@@ -1,0 +1,65 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!-- Point: a migration journey goes through Decide, Plan and Execute, in that order, each with its own steps (About Azure Migrate, "Migration phases"; Execute steps from Migrate VMware VMs to Azure (agentless)). -->
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; align-items: stretch; }
+  .group { width: 430px; border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .head { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; }
+  .step { width: 28px; height: 28px; border-radius: 50%; background: #107c10; color: #fff; font-size: 16px; font-weight: 700;
+          display: flex; align-items: center; justify-content: center; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 0; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 46px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; text-align: center; padding: 0 6px; color: #222; }
+  .item.small { height: 40px; font-size: 13.5px; white-space: nowrap; }
+  .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 8px; }
+  .sub { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 8px; margin-top: 8px; }
+  .gap { height: 14px; }
+  .down { display: flex; justify-content: center; height: 30px; align-items: center; }
+  .arrow { width: 64px; display: flex; justify-content: center; align-items: center; }
+</style></head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">Migration phases</div>
+  <div class="row">
+    <div class="group">
+      <div class="head"><div class="step">1</div><div class="title">Decide</div></div>
+      <div class="item">Discovery</div>
+      <div class="pair">
+        <div class="item small">Azure Migrate appliance</div>
+        <div class="item small">Azure Migrate Collector</div>
+      </div>
+      <div class="down"><svg width="20" height="26"><line x1="10" y1="2" x2="10" y2="16" stroke="#107c10" stroke-width="2.5"/><polygon points="3,16 10,25 17,16" fill="#107c10"/></svg></div>
+      <div class="item">Business case</div>
+    </div>
+    <div class="arrow"><svg width="52" height="20"><line x1="2" y1="10" x2="40" y2="10" stroke="#107c10" stroke-width="2.5"/><polygon points="40,3 50,10 40,17" fill="#107c10"/></svg></div>
+    <div class="group">
+      <div class="head"><div class="step">2</div><div class="title">Plan</div></div>
+      <div class="item">Assessment</div>
+      <div class="sub">
+        <div class="pair" style="margin-top:0">
+          <div class="item small">Azure readiness</div>
+          <div class="item small">Right-sizing</div>
+          <div class="item small">Azure cost estimation</div>
+          <div class="item small">Dependency analysis</div>
+        </div>
+      </div>
+      <div class="gap"></div>
+      <div class="item">Migration strategies</div>
+    </div>
+    <div class="arrow"><svg width="52" height="20"><line x1="2" y1="10" x2="40" y2="10" stroke="#107c10" stroke-width="2.5"/><polygon points="40,3 50,10 40,17" fill="#107c10"/></svg></div>
+    <div class="group">
+      <div class="head"><div class="step">3</div><div class="title">Execute</div></div>
+      <div class="item">Replication</div>
+      <div class="down"><svg width="20" height="26"><line x1="10" y1="2" x2="10" y2="16" stroke="#107c10" stroke-width="2.5"/><polygon points="3,16 10,25 17,16" fill="#107c10"/></svg></div>
+      <div class="item">Test migration</div>
+      <div class="down"><svg width="20" height="26"><line x1="10" y1="2" x2="10" y2="16" stroke="#107c10" stroke-width="2.5"/><polygon points="3,16 10,25 17,16" fill="#107c10"/></svg></div>
+      <div class="item">Migrate VMs</div>
+      <div class="down"><svg width="20" height="26"><line x1="10" y1="2" x2="10" y2="16" stroke="#107c10" stroke-width="2.5"/><polygon points="3,16 10,25 17,16" fill="#107c10"/></svg></div>
+      <div class="item">Complete migration</div>
+    </div>
+  </div>
+</div>
+</body></html>

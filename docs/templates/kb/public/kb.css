@@ -203,6 +203,7 @@ body { line-height: 1.75; }
    share one width and browser zoom enlarges both (as on GitHub); collapsing the menu gives its width to the article
    instead of keeping an empty spacer. */
 #main .reading-width { max-inline-size: calc(1200px + 96px); padding-inline: 48px; margin-inline: 0 !important; }
+.layout-menu-collapsed #main .reading-width { margin-inline: auto !important; }
 html.layout.layout-menu-collapsed { --layout-menu-spacer-width: 0px !important; }
 /* Side rails stay at 275px on wide screens (Atlas widens them to 320px and 450px); the extra width goes to the article */
 html.layout { --layout-menu-expanded-target-width: 275px !important; --layout-aside-expanded-target-width: 275px !important; }

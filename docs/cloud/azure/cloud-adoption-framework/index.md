@@ -10,11 +10,16 @@ ms.date: 2026-10-24
 
 ![The Cloud Adoption Framework sorted into its seven Azure adoption phases: Strategy, Plan, Ready and Adopt in sequence, then Govern, Secure and Manage, each with its sections in the current table of contents.](media/cloud-adoption-framework.png)
 
+## Process
+
+![The seven Azure adoption phases in their numbered order: 1 Strategy, 2 Plan, 3 Ready, 4 Adopt, 5 Govern, 6 Secure, 7 Manage, each with its sections.](media/azure-adoption-phases.png)
+
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Cloud Adoption Framework for Azure**<br>Azure 云采用框架 | "The **Microsoft Cloud Adoption Framework (CAF)** helps **decision makers** make **better decisions, faster**." | **Microsoft 云采用框架**（CAF）帮助**决策者**做出**更好的决策**，而且**更快**。 | [Microsoft, 2026a, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview#:~:text=The%20Microsoft%20Cloud%20Adoption%20Framework%20(CAF)%20helps) |
+| **Azure adoption phases**<br>Azure 采用阶段 | "**Azure adoption** is the **foundation of the Cloud Adoption Framework**. It helps decision makers answer **key questions** about why they are adopting Azure, how they will prepare their organization, and how they will operate Azure over time." | **Azure 采用**是**云采用框架的基础**。它帮助决策者回答一些**关键问题**：为什么要采用 Azure、如何让组织做好准备，以及长期如何运营 Azure。 | [Microsoft, 2026a, "How the Cloud Adoption Framework works" section, para. 2](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview#:~:text=Azure%20adoption%20is%20the%20foundation%20of%20the%20Cloud%20Adoption%20Framework) |
 | **[Strategy](strategy.md)**<br>战略 | "A **cloud adoption strategy** directs **how your business adopts cloud technology**." | **云采用战略**指导**你的企业如何采用云技术**。 | [Microsoft, 2026b, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/#:~:text=A%20cloud%20adoption%20strategy%20directs%20how%20your%20business) |
 | **[Plan](plan.md)**<br>规划 | "A **cloud adoption plan** converts **your cloud strategy into an actionable plan** that's specific to your goals." | **云采用计划**把**你的云战略转化为可执行的计划**，并针对你的目标。 | [Microsoft, 2025b, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/#:~:text=A%20cloud%20adoption%20plan%20converts%20your%20cloud%20strategy) |
 | **[Ready](ready.md)**<br>就绪 | "The **Ready phase** of the Cloud Adoption Framework helps you **design your Azure landing zone** to meet your organization's requirements." | Cloud Adoption Framework 的**就绪阶段**帮助你**设计 Azure 登陆区**，以满足组织的要求。 | [Microsoft, 2025e, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:~:text=The%20Ready%20phase%20of%20the%20Cloud%20Adoption%20Framework) |

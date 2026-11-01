@@ -86,6 +86,7 @@ Content has official sources; section names are the common names of the field.
 - `docs/toc.yml`: Home, Projects and Sources first, then two dropdowns, Computing and Science (2026-10-30); the computing sections are not top-bar entries of their own.
 - A section name is the common name of the field (AI, Algorithms, Security, UI/UX). It is not an official classification, so each section states the knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), it maps to, as in the table under CS2023 entries.
 - Courses get no top-level section. What a course teaches lands in the section of its field.
+- Exception, temporary (2026-11-01, until I graduate, then deleted): Courses, after Science, is one page mapping each course's weeks, labs and exams to the pages of the fields, plus oral exam practice scripts marked as my own text; it defines no terms.
 
 ### Projects
 
