@@ -1,6 +1,6 @@
 ---
 title: "2.1 Soft contact model"
-description: "MuJoCo, 2.1 Soft contact model: Physical realism and soft contacts, Continuous time, Inverse dynamics and optimization."
+description: "MuJoCo, 2.1 Soft contact model: 2.1.0 Introduction, Physical realism and soft contacts, Continuous time, Inverse dynamics and optimization."
 ms.date: 2026-10-31
 ---
 
@@ -15,6 +15,8 @@ ms.date: 2026-10-31
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **2.1 Soft contact model**<br>软接触模型 | (No definition) | （无定义） | [Google DeepMind, n.d., "Soft contact model"](https://mujoco.readthedocs.io/en/stable/computation/index.html#soft-contact-model) |
+| **2.1.0 Introduction**<br>介绍 | (No definition) | （无定义） | [Google DeepMind, n.d., "Soft contact model"](https://mujoco.readthedocs.io/en/stable/computation/index.html#soft-contact-model) |
+| **Linear complementarity (LCP)**<br>线性互补（LCP） | (context) "In the following sections we discuss its benefits, while clarifying the differences from the **linear complementarity (LCP) family of contact models** which are the de facto standard." | （语境）在接下来的几节中，我们讨论它的优点，同时说明它与**线性互补（LCP）这一族接触模型**的区别，后者是事实上的标准。 | [Google DeepMind, n.d., "Soft contact model", para. 1](https://mujoco.readthedocs.io/en/stable/computation/index.html#soft-contact-model) |
 | **Physical realism and soft contacts**<br>物理真实性与软接触 | "So **the deviations from LCP actually increase physical realism in the presence of soft contacts**." | 因此，**在存在软接触时，对 LCP 的偏离实际上提高了物理真实性**。 | [Google DeepMind, n.d., "Physical realism and soft contacts", para. 2](https://mujoco.readthedocs.io/en/stable/computation/index.html#physical-realism-and-soft-contacts) |
 | **Convex models**<br>凸模型 | "Many of the advantages of our contact model can be traced to the fact that **we drop the strict complementarity constraint at the heart of the LCP formulation**. We will call this family of models convex; see References for related work." | 我们接触模型的许多优点可以归因于**我们去掉了 LCP 表述核心的严格互补约束**。我们把这一类模型称为凸模型；相关工作见参考文献。 | [Google DeepMind, n.d., "Physical realism and soft contacts", para. 1](https://mujoco.readthedocs.io/en/stable/computation/index.html#physical-realism-and-soft-contacts) |
 | **Continuous time**<br>连续时间 | "The present model is **defined in continuous-time, in terms of forces and accelerations**." | 本模型是**在连续时间中、用力和加速度定义的**。 | [Google DeepMind, n.d., "Continuous time", para. 2](https://mujoco.readthedocs.io/en/stable/computation/index.html#continuous-time) |

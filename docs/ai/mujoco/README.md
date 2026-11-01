@@ -23,13 +23,12 @@ Left out (no terms): the Changelog chapter (version entries); in every chapter, 
 
 Rows: a section or page whose opening sentence describes the thing without defining it is marked (context); one with no such sentence has (No definition).
 
-Pages: below the menu, each page's own sections are its parts, with the subsections, named list items and words the page defines under them. A chapter's sections outside the menu that hold terms are the chapter page's own parts: Overview: Key features, Model instances; Python: Basic usage; Unity Plug-in: Using the plug-in; MuJoCo XLA: In-depth usage; MuJoCo Warp: When To Use MJWarp?, Basic Usage.
+Pages: below the menu, each page's own sections are its parts, after an "x.y.0 Introduction" part holding the terms the entry's opening text names before its first subsection (Computation 2.1, 2.2 and 2.4: LCP; the notation table's quantities, the RNE and CRB algorithms, forward kinematics; Gauss principle of least constraint, Lagrange dual), and with the subsections, named list items and words the page defines under them. A chapter's sections outside the menu that hold terms are the chapter page's own parts: Overview: Key features, Model instances; Python: Basic usage; Unity Plug-in: Using the plug-in; MuJoCo XLA: In-depth usage; MuJoCo Warp: When To Use MJWarp?, Basic Usage.
 
 API names (the user's rule, 2026-10-31): classes, types and methods are terms; functions, parameters, attributes, fields, enum values, constants, macros, callbacks and error types are not. So the Types page lists all its types, and Functions, Globals, the MJCF Reference's XML elements and attributes, and the functions on the MJX and MJWarp API pages have no rows.
 
 Left out on the pages: the noise kinds listed in the ROS 2 README, and these:
 
-- Named only in an entry's own intro prose, with no subsection to hold them (to be checked if they are wanted): LCP (Soft contact model); applied force, bias force, joint-space inertia matrix, constraint Jacobian (General framework); RNE and CRB algorithms (Simulation pipeline); Gauss principle of least constraint, primal problem, Lagrange dual (Constraint solver).
 - Defined only through equations: elliptic and pyramidal cone, contact Jacobian, moment arm vector, step map, slack variable, diagonal regularizer, Delassus operator, soft-constraint penalty.
 - Named only in running text: joint types ball, slide and hinge, the geom primitive shapes, 2D and cube textures, skybox, headlight, via-points, pulleys, URDF (Overview); continuation methods (Modeling); stateless, angular drag (Fluid forces); near-phase and broad-phase collision; Halton sequence, marching cubes, touch grid sensor, PID controller (Extensions); BVH, render context, CUDA graph, staging buffers (MJWarp).
 - Attribute values and names: the activation types (integrator, filter, filterexact, muscle, user, none), the frame, contact, sensor and muscle attributes, the mjc:option, mjc:flag and mjc:compiler namespaces.

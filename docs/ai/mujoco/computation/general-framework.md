@@ -1,6 +1,6 @@
 ---
 title: "2.2 General framework"
-description: "MuJoCo, 2.2 General framework: Actuation model, Passive forces, Numerical integration, The State."
+description: "MuJoCo, 2.2 General framework: 2.2.0 Introduction, Actuation model, Passive forces, Numerical integration, The State."
 ms.date: 2026-10-31
 ---
 
@@ -15,6 +15,18 @@ ms.date: 2026-10-31
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **2.2 General framework**<br>一般框架 | (No definition) | （无定义） | [Google DeepMind, n.d., "General framework"](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **2.2.0 Introduction**<br>介绍 | (No definition) | （无定义） | [Google DeepMind, n.d., "General framework"](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Joint position**<br>关节位置 | (No definition) | （无定义） | [Google DeepMind, n.d., "General framework"](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Joint velocity**<br>关节速度 | (No definition) | （无定义） | [Google DeepMind, n.d., "General framework"](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Applied force**<br>施加力 | "applied force: **passive, actuation, external**" | 施加力：**被动力、驱动力、外力** | [Google DeepMind, n.d., "General framework", table, row 6](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Bias force**<br>偏置力 | "bias force: **Coriolis, centrifugal, gravitational**" | 偏置力：**科里奥利力、离心力、重力** | [Google DeepMind, n.d., "General framework", table, row 7](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Joint-space inertia matrix**<br>关节空间惯性矩阵 | (context) "inertia in **joint space**" | （语境）**关节空间**中的惯性 | [Google DeepMind, n.d., "General framework", table, row 8](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Constraint Jacobian**<br>约束雅可比矩阵 | "The Jacobian **establishes the relationship between quantities in joint and constraint coordinates**." | 雅可比矩阵**建立了关节坐标与约束坐标中各量之间的关系**。 | [Google DeepMind, n.d., "General framework", para. 5](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Constraint residual**<br>约束残差 | (No definition) | （无定义） | [Google DeepMind, n.d., "General framework"](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Constraint force**<br>约束力 | (No definition) | （无定义） | [Google DeepMind, n.d., "General framework"](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Recursive Newton-Euler (RNE) algorithm**<br>递归牛顿-欧拉（RNE）算法 | (context) "Their sum is **computed using the Recursive Newton-Euler (RNE) algorithm** with acceleration set to 0." | （语境）它们的和**用递归牛顿-欧拉（RNE）算法计算**，计算时把加速度设为 0。 | [Google DeepMind, n.d., "General framework", item 2](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Composite Rigid-Body (CRB) algorithm**<br>复合刚体（CRB）算法 | (context) "... is **computed using the Composite Rigid-Body (CRB) algorithm**." | （语境）……**用复合刚体（CRB）算法计算**。 | [Google DeepMind, n.d., "General framework", item 3](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
+| **Forward kinematics**<br>正向运动学 | "Before any of these computations we apply forward kinematics, which **computes the global position and orientation of all spatial objects as well as the joint axes**." | 在进行这些计算之前，我们先应用正向运动学，它**计算所有空间对象以及关节轴的全局位置和朝向**。 | [Google DeepMind, n.d., "General framework", para. 8](https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework) |
 | **Actuation model**<br>驱动模型 | "These three components of an actuator – **transmission, activation dynamics, and force generation – determine how the actuator works**." | 驱动器的这三个组成部分，**即传动、激活动力学和力生成，决定了驱动器如何工作**。 | [Google DeepMind, n.d., "Actuation model", para. 3](https://mujoco.readthedocs.io/en/stable/computation/index.html#actuation-model) |
 | **Single-input-single-output (SISO)**<br>单输入单输出（SISO） | "Most actuators are **single-input-single-output (SISO)**" | 大多数驱动器是**单输入单输出（SISO）的** | [Google DeepMind, n.d., "Actuation model", para. 1](https://mujoco.readthedocs.io/en/stable/computation/index.html#actuation-model) |
 | **Transmission**<br>传动 | "The transmission **attaches the actuator to the rest of the system**." | 传动**把驱动器连接到系统的其余部分**。 | [Google DeepMind, n.d., "Transmission", para. 1](https://mujoco.readthedocs.io/en/stable/computation/index.html#transmission) |

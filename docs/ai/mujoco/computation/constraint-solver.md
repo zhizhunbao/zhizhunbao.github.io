@@ -1,6 +1,6 @@
 ---
 title: "2.4 Constraint solver"
-description: "MuJoCo, 2.4 Constraint solver: Primal problem, Reduced primal problem, Dual problem, Algorithms, Constraint islands, Parameters, Friction cones."
+description: "MuJoCo, 2.4 Constraint solver: 2.4.0 Introduction, Primal problem, Reduced primal problem, Dual problem, Algorithms, Constraint islands, Parameters, Friction cones."
 ms.date: 2026-10-31
 ---
 
@@ -15,6 +15,9 @@ ms.date: 2026-10-31
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **2.4 Constraint solver**<br>约束求解器 | (context) "First, the constraint forces are defined as **the unique global solution to a convex optimization problem**." | （语境）首先，约束力被定义为**一个凸优化问题的唯一全局解**。 | [Google DeepMind, n.d., "Constraint solver", para. 1](https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver) |
+| **2.4.0 Introduction**<br>介绍 | (No definition) | （无定义） | [Google DeepMind, n.d., "Constraint solver"](https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver) |
+| **Gauss principle of least constraint**<br>高斯最小约束原理 | (context) "The primal formulation is based on **a generalization of the Gauss principle of least constraint**." | （语境）原问题的表述基于**高斯最小约束原理的一种推广**。 | [Google DeepMind, n.d., "Constraint solver", para. 3](https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver) |
+| **Lagrange dual**<br>拉格朗日对偶 | "The dual is **a convex optimization problem over constraint forces**, which also play the role of Lagrange multipliers for the primal problem." | 对偶问题是**一个关于约束力的凸优化问题**，这些约束力同时也充当原问题的拉格朗日乘子。 | [Google DeepMind, n.d., "Constraint solver", para. 2](https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver) |
 | **Primal problem**<br>原问题 | "We first formulate **the optimization problem whose solution yields the constrained acceleration**" | 我们先写出**其解给出受约束加速度的优化问题** | [Google DeepMind, n.d., "Primal problem", para. 1](https://mujoco.readthedocs.io/en/stable/computation/index.html#primal-problem) |
 | **Huber “norm”**<br>Huber“范数” | "The Huber “norm” is **based on the Huber function from robust statistics**: it is a quadratic around zero, and transitions smoothly to a linear function when the absolute value of the argument crosses a threshold – in this case given by the friction loss parameters." | Huber“范数”**基于稳健统计中的 Huber 函数**：它在零附近是二次的，当自变量的绝对值越过某个阈值（这里由摩擦损失参数给出）时，平滑地过渡为线性函数。 | [Google DeepMind, n.d., "Primal problem", para. 5](https://mujoco.readthedocs.io/en/stable/computation/index.html#primal-problem) |
 | **Reduced primal problem**<br>约化原问题 | "It turns out that **the primal problem can be reduced to unconstrained optimization over accelerations**." | 事实证明，**原问题可以约化为关于加速度的无约束优化**。 | [Google DeepMind, n.d., "Reduced primal problem", para. 1](https://mujoco.readthedocs.io/en/stable/computation/index.html#reduced-primal-problem) |
