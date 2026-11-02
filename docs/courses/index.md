@@ -60,7 +60,7 @@ ms.date: 2026-11-01
 
 ### Lab 2: Levi Strauss migration case study (W2)
 
-**CAF:** **Strategy > Motivations, mission and objectives** (motivations), **Plan > Plan migration** (discovery questions, 5 Rs) and **Adopt > Migration** (schedule).
+**CAF:** **Strategy > Motivations, mission and objectives** (motivations), **Plan > Plan migration** (discovery questions, migration strategies) and **Adopt > Migration** (schedule).
 
 **Scenario:** **Levi Strauss & Co.** moves from several **datacenters**, about **160 applications** and **nine ERP systems** in **110 countries** to Azure, as it shifts to **direct-to-consumer** sales.
 
@@ -92,15 +92,18 @@ ms.date: 2026-11-01
 | **C Consulted** | **Gives input** before decisions, such as **security** and **business** leaders. | 决策前**提供意见**，比如**安全**和**业务**负责人。 |
 | **I Informed** | **Kept up to date**, such as the **sponsor** after approval. | **随时知情**，比如批准之后的**发起人**。 |
 
-![The instructor's 5 Rs: Rehost, Refactor, Rearchitect, Rebuild, Replace.](media/five-rs.png)
+![The eight cloud migration strategies of the Cloud Adoption Framework: Retire, Rehost, Replatform, Refactor, Rearchitect, Replace, Rebuild, Retain.](media/migration-strategies.png)
 
 | Keyword | Description | 中文翻译 |
 |---|---|---|
-| **1 Rehost** | **Rehost**, also known as **lift and shift**, moves an asset to the cloud with **minimal change**; used for **most servers**. | **重新托管**，也叫**直接迁移（lift and shift）**，以**最少的改动**把资产搬到云上；**大多数服务器**用这种方式。 |
-| **2 Refactor** | **Refactor** changes an application **slightly** to fit a **PaaS-based model**; used for **databases** (Azure SQL Managed Instance) and **third-party apps** (AKS). | **重构**对应用做**少量**修改，以适应**基于 PaaS 的模式**；用于**数据库**（Azure SQL Managed Instance）和**第三方应用**（AKS）。 |
-| **3 Rearchitect** | **Rearchitect** redesigns an aging application that **is not compatible** with the cloud provider. | **重新架构**重新设计一个**与云服务商不兼容**的老旧应用。 |
-| **4 Rebuild** | **Rebuild** creates a **new code base** with a **cloud-native** approach. | **重建**用**云原生**方式写一套**新代码**。 |
-| **5 Replace** | **Replace** swaps the workload for a **SaaS** or packaged application; the **nine ERP systems** become **one global ERP**. | **替换**把工作负载换成 **SaaS** 或套装软件；**九套 ERP 系统**变成**一套全球 ERP**。 |
+| **1 Retire** | **Decommissions** a workload with no business value, so it **does not move**; used for **applications no longer needed**. | **停用**没有业务价值的工作负载，所以它**不迁移**；用于**不再需要的应用**。 |
+| **2 Rehost** | Moves the workload **like for like** with **minimal changes**, such as a server to an **Azure VM**; used for **most servers**. | **原样**迁移工作负载，**改动最少**，比如把服务器搬到 **Azure 虚拟机**；**大多数服务器**用这种方式。 |
+| **3 Replatform** | Changes the **hosting environment** to **PaaS** with **minimal code changes**, such as **SQL Server on a VM** to **Azure SQL**; fits the **databases** (Azure SQL Managed Instance) and **third-party apps** (AKS), which the W2 slides and Lab 2 call Refactor. | 把**托管环境**换成 **PaaS**，**代码改动很少**，比如把**虚拟机上的 SQL Server** 换成 **Azure SQL**；符合**数据库**（Azure SQL Managed Instance）和**第三方应用**（AKS），W2 课件和 Lab 2 把它们叫作 Refactor。 |
+| **4 Refactor** | Improves the **internal structure of the code** without adding features, to reduce **technical debt**. | 改进**代码的内部结构**，不增加新功能，以减少**技术债**。 |
+| **5 Rearchitect** | Redesigns the **architecture and code**, such as splitting a **monolith into microservices**; too slow for 160 applications before the datacenter exit. | 重新设计**架构和代码**，比如把**单体应用拆成微服务**；在退出数据中心之前对 160 个应用这样做太慢。 |
+| **6 Replace** | Swaps the workload for a **SaaS** product, so **no custom code** remains to maintain; the **nine ERP systems** become **one global ERP**. | 把工作负载换成 **SaaS** 产品，**不再有自定义代码**要维护；**九套 ERP 系统**变成**一套全球 ERP**。 |
+| **7 Rebuild** | Develops the workload **again from the start** with **cloud-native** solutions, when the old system is too outdated to modernize. | 用**云原生**方案**从头重新开发**工作负载，适用于旧系统过于陈旧、无法现代化的情况。 |
+| **8 Retain** | **Keeps the workload where it is**, when it is stable or **cannot be migrated**, for example because of regulations. | **工作负载留在原地**，适用于它运行稳定或**无法迁移**的情况，比如受法规限制。 |
 
 ![Lab 2 migration schedule: discover and assess, landing zone, pilot, waves, cutover and exit, optimize.](media/lab2-schedule.png)
 
