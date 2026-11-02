@@ -1,6 +1,6 @@
 ---
 title: "2 Geometry"
-description: "Axioms, Geometry: Euclid's definitions and its 8 axiom systems, one page each."
+description: "Axioms, Geometry: its 8 axiom systems, one page each."
 ms.date: 2026-10-29
 ---
 
@@ -8,14 +8,13 @@ ms.date: 2026-10-29
 
 ## Classification
 
-![2 Geometry: Euclid's definitions and its 8 axiom systems in order, one box each.](media/2-geometry.png)
+![2 Geometry: its 8 axiom systems in order, one box each.](media/2-geometry.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **[2 Geometry](index.md)**<br>几何 | (No definition) | （无定义） | [Euclid, ca. 300 B.C.E./1996, Book I, "Postulates"](https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html#posts) |
-| **[Definitions](0-definitions.md)**<br>定义 | (No definition) | （无定义） | [Euclid, ca. 300 B.C.E./1996, Book I, "Definitions"](https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html#defs) |
 | **[Postulates](1-postulates.md)**<br>公设 | (No definition) | （无定义） | [Euclid, ca. 300 B.C.E./1996, Book I, "Postulates"](https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html#posts) |
 | **[Common Notions](2-common-notions.md)**<br>公理（一般概念） | (No definition) | （无定义） | [Euclid, ca. 300 B.C.E./1996, Book I, "Common Notions"](https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html#cns) |
 | **[Group I: Axioms of Connection](3-group-i-axioms-of-connection.md)**<br>第一组：关联公理 | "The axioms of this group **establish a connection between the concepts** indicated above; namely, **points, straight lines, and planes**." | 这一组公理**在前面所说的概念之间建立联系**，即**点、直线和平面**。 | [Hilbert, 1902, § 2](https://www.gutenberg.org/ebooks/17384) |

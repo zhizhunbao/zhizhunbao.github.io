@@ -6,6 +6,7 @@ README.md holds the site's rules (what the site looks like and why); this file h
 
 - Write only Markdown and toc.yml; no HTML or components. Exceptions: the scripts in `docs/templates/kb/` (site code), and figure sources, HTML files in `figures/` rendered with `figures/shot.py` (README, "Figures").
 - Add only what the user asked for. Anything else (an extra section, figure, term, entry or row) is suggested in one line and written only when the user says so; when a request is ambiguous, ask instead of filling in. One exception: when a page's boxes are already planned (folder README, Overview figure), fill all of them at once.
+- A new entry or subject starts as a skeleton: pages, menu and Glossary rows (names, Chinese names, source numbers; definitions pending), with no figures and no Classification section. Figures are drawn only after the user confirms the skeleton.
 - Before writing a deep page, check every Overview above it (top bar, second level, third level). Write any unfinished one first, top down (figure plus a Glossary row per group); the big picture comes first.
 - New terms come one at a time: search the site; if the term is missing, find the official sentence, then add the box and the row on the page where the source names it.
 - Place a term where it actually appears in the page's own listed source, never where it seems to belong; never pull groups, terms or definitions from another document into a page whose source is named. Keep names and quotes as the source words them.

@@ -1,21 +1,21 @@
 ---
-title: "Definitions"
-description: "Axioms, Geometry, Definitions: the 23 definitions that open Euclid's Elements Book I, before its postulates, naming 35 concepts, each with its Chinese name."
-ms.date: 2026-11-01
+title: "2 Geometry"
+description: "Definitions, Geometry: the 23 definitions that open Euclid's Elements Book I, naming 35 concepts, each with its Chinese name."
+ms.date: 2026-11-02
 ---
 
-# Definitions
+# 2 Geometry
 
 ## Classification
 
-![Definitions in the 2 Geometry frame: the 35 concepts of its 23 definitions in the source's order.](media/0-definitions.png)
+![2 Geometry: the 35 concepts of Euclid's 23 definitions in the source's order.](media/2-geometry.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **[2 Geometry](index.md)**<br>几何 | (No definition) | （无定义） | [Euclid, ca. 300 B.C.E./1996, Book I, "Definitions"](https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html#defs) |
-| **[Definitions](0-definitions.md)**<br>定义 | (No definition) | （无定义） | [Euclid, ca. 300 B.C.E./1996, Book I, "Definitions"](https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html#defs) |
+| **[Definitions](index.md)**<br>定义 | (No definition) | （无定义） | [Euclid, ca. 300 B.C.E./1996, Book I, "Definitions"](https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html#defs) |
+| **2 Geometry**<br>几何 | (No definition) | （无定义） | [Euclid, ca. 300 B.C.E./1996, Book I, "Definitions"](https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html#defs) |
 | **Point**<br>点 | "A **point** is that which has no part." | **点**是没有部分的东西。 | [Euclid, ca. 300 B.C.E./1996, Book I, Definition 1](https://mathcs.clarku.edu/~djoyce/elements/bookI/defI1.html) |
 | **Line**<br>线 | "A **line** is breadthless length." | **线**是没有宽度的长度。 | [Euclid, ca. 300 B.C.E./1996, Book I, Definition 2](https://mathcs.clarku.edu/~djoyce/elements/bookI/defI2.html) |
 | **Ends of a line**<br>线的端点 | "**The ends of a line** are points." | **线的两端**是点。 | [Euclid, ca. 300 B.C.E./1996, Book I, Definition 3](https://mathcs.clarku.edu/~djoyce/elements/bookI/defI3.html) |

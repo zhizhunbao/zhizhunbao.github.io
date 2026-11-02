@@ -9,7 +9,13 @@ items:
   href: msc2020/toc.yml
 - name: Mathematical Symbols
   href: green-book/toc.yml
+- name: Definitions
+  href: definitions/toc.yml
 - name: Axioms
   href: axioms/toc.yml
+- name: Theorems and Conjectures
+  href: theorems/toc.yml
+- name: Formulas
+  href: formulas/toc.yml
 - name: Proof Techniques
   href: proof-techniques/toc.yml

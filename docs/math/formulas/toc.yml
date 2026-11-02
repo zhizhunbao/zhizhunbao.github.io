@@ -1,0 +1,29 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1 Arithmetic"
+  href: 1-arithmetic.md
+- name: "2 Geometry"
+  href: 2-geometry/index.md
+  items:
+  - name: "2.1 Formulas from Geometry"
+    href: 2-geometry/2-1-formulas-from-geometry.md
+  - name: "2.2 Formulas from Trigonometry"
+    href: 2-geometry/2-2-formulas-from-trigonometry.md
+- name: "3 Algebra"
+  href: 3-algebra.md
+- name: "4 Probability"
+  href: 4-probability.md
+- name: "5 Analysis"
+  href: 5-analysis/index.md
+  items:
+  - name: "5.1 Table of Derivatives"
+    href: 5-analysis/5-1-table-of-derivatives.md
+  - name: "5.2 Table of Integrals"
+    href: 5-analysis/5-2-table-of-integrals.md
+- name: "6 Logic"
+  href: 6-logic.md
+- name: "7 Set Theory"
+  href: 7-set-theory.md
+- name: "8 Combinatorics"
+  href: 8-combinatorics.md

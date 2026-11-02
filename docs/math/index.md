@@ -18,10 +18,15 @@ ms.date: 2026-10-27
 | **[MSF](cs2023/index.md)**<br>数学与统计基础 | "This Mathematical and Statistical Foundations (MSF) knowledge area – the successor to the ACM CS2013 curriculum's 'Discrete Structures' area – seeks to identify the **mathematical and statistical material** that **undergirds modern computer science**." | 数学与统计基础（MSF）这一知识领域是 ACM CS2013 课程体系中"离散结构"领域的继任者，旨在找出**数学和统计内容**，它们**支撑着现代计算机科学**。 | [Joint Task Force on Computing Curricula, 2024, MSF "Preamble" section, para. 1](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=123) |
 | **[MSC2020](msc2020/index.md)**<br>MSC2020 | "Mathematical Reviews (MR) and zbMATH collaborate on maintaining the Mathematics Subject Classification, which is used by these reviewing services, publishers, funding agencies, and others to **categorize items in the mathematical sciences literature**. It is **a taxonomy created by and for mathematical researchers**." | Mathematical Reviews（MR）和 zbMATH 共同维护数学学科分类，这些评论服务、出版社、资助机构等用它来**给数学科学文献分类**。它是**由数学研究者创建、为数学研究者服务的分类体系**。 | [Associate Editors of Mathematical Reviews and zbMATH, 2020, para. 1](https://msc2020.org/#:~:text=Mathematical%20Reviews%20%28MR%29%20and%20zbMATH%20collaborate) |
 | **[Mathematical Symbols](green-book/index.md)**<br>数学符号 | (No definition) | （无定义） | [Cohen et al., 2007](https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf) |
+| **[Definitions](definitions/index.md)**<br>定义 | (No definition) | （无定义） | [Euclid, ca. 300 B.C.E./1996, Book I, "Definitions"](https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html#defs) |
 | **[Axioms](axioms/index.md)**<br>公理 | "An axiom is **a fundamental assumption that provides a starting point for reasoning**. The axioms for (essentially) all of mathematics can be conveniently divided into **three groups: propositional calculus, predicate calculus, and set theory**." | 公理是**为推理提供起点的基本假设**。（基本上）全部数学的公理可以方便地分为**三组：命题演算、谓词演算和集合论**。 | [Megill, 2026, "The Axioms" section](https://us.metamath.org/mpeuni/mmset.html#axioms) |
+| **[Theorems and Conjectures](theorems/index.md)**<br>定理与猜想 | (No definition) | （无定义） | [Wiedijk, n.d.](https://www.cs.ru.nl/~freek/100/) |
+| **[Formulas](formulas/index.md)**<br>公式 | (No definition) | （无定义） | [Strang & Herman, 2016, appendices A to C](https://openstax.org/books/calculus-volume-1/pages/c-review-of-pre-calculus) |
 | **[Proof Techniques](proof-techniques/index.md)**<br>证明技巧 | (context) "This textbook is designed for the first course in the college mathematics curriculum that introduces students to the process of **constructing and writing proofs**." | （语境）本教材面向大学数学课程中的第一门课，向学生介绍**构造和书写证明**的过程。 | [Sundstrom, n.d.](https://www.tedsundstrom.com/mathematical-reasoning-writing-and-proof) |
 
 ## References
+
+Euclid. (1996). *Euclid's Elements* (D. E. Joyce, Ed.; T. L. Heath, Trans.). Clark University. (Original work published ca. 300 B.C.E.) Retrieved November 1, 2026, from <https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html>
 
 Joint Task Force on Computing Curricula. (2024). *Computer science curricula 2023*. Association for Computing Machinery. <https://doi.org/10.1145/3664191>
 
@@ -30,5 +35,7 @@ Associate Editors of Mathematical Reviews and zbMATH. (2020). *MSC2020: Mathemat
 Cohen, E. R., Cvitaš, T., Frey, J. G., Holmström, B., Kuchitsu, K., Marquardt, R., Mills, I., Pavese, F., Quack, M., Stohner, J., Strauss, H. L., Takami, M., & Thor, A. J. (2007). *Quantities, units and symbols in physical chemistry* (3rd ed., 2nd printing 2012). IUPAC; RSC Publishing. <https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf>
 
 Megill, N. (2026). *Metamath Proof Explorer home page* (last updated January 19, 2026). Metamath. Retrieved October 29, 2026, from <https://us.metamath.org/mpeuni/mmset.html>
+
+Strang, G., & Herman, E. (2016). *Calculus volume 1*. OpenStax. Retrieved November 1, 2026, from <https://openstax.org/books/calculus-volume-1/pages/1-introduction>
 
 Sundstrom, T. (n.d.). *Mathematical reasoning: Writing and proof*. Retrieved October 30, 2026, from <https://www.tedsundstrom.com/mathematical-reasoning-writing-and-proof>
