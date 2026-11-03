@@ -64,17 +64,17 @@ ms.date: 2026-11-01
 
 **CAF:** **Strategy > Motivations, mission and objectives** and **Plan > Plan migration**.
 
-![Lab 2 case: five motivations and the seven areas of discovery.](media/lab2-case.png)
+![Lab 2 case: migration motivators (Motivations) and discovery questions (Discover your existing workload inventory).](media/lab2-case.png)
 
 | Keyword | Description | 中文翻译 |
 |---|---|---|
-| **1 Motivations** | The **business reasons** Levi Strauss moves to the cloud; the Lab 2 rubric says **migration motivators**. | Levi Strauss 上云的**业务原因**；Lab 2 评分表叫 **migration motivators**。 |
+| **1 Migration motivators (Motivations)** | The **business reasons** Levi Strauss moves to the cloud; the Lab 2 rubric says **migration motivators**. | Levi Strauss 上云的**业务原因**；Lab 2 评分表叫 **migration motivators**。 |
 | **1.1 Direct-to-consumer** | Becoming a **USD 10 billion DTC brand** needs **speed, automation and data**. | 要成为 **100 亿美元的直面消费者（DTC）品牌**，需要**速度、自动化和数据**。 |
 | **1.2 Technical debt** | About **160 applications**, several datacenters, **nine ERP systems** and different processes in **110 countries**. | 大约 **160 个应用**、多个数据中心、**九套 ERP 系统**，**110 个国家**流程各不相同。 |
 | **1.3 Datacenter cost** | Owning and operating datacenters became **too expensive**. | 自建和运营数据中心变得**太贵**。 |
 | **1.4 Standardization** | **One global ERP** means **consistent processes and data**. | **一套全球 ERP** 意味着**统一的流程和数据**。 |
 | **1.5 AI readiness** | **Unified data** on a standard platform is the foundation for **AI and agents**. | 标准平台上的**统一数据**是 **AI 和智能体**的基础。 |
-| **2 Discovery** | The questions that complete the picture **before planning**; the Lab 2 rubric says **infrastructure discovery questions**. | **做计划之前**要问清楚的问题；Lab 2 评分表叫 **infrastructure discovery questions**。 |
+| **2 Discovery questions (Discover your existing workload inventory)** | The questions that complete the picture **before planning**; the Lab 2 rubric says **infrastructure discovery questions**. | **做计划之前**要问清楚的问题；Lab 2 评分表叫 **infrastructure discovery questions**。 |
 | **2.1 Applications** | Which applications are **business-critical**, and which could be **retired** or **replaced with SaaS**? | 哪些应用是**业务关键**的？哪些可以**下线**或**换成 SaaS**？ |
 | **2.2 Servers** | How many servers, how **heavily used**, and which run an OS **near end of support**? | 有多少台服务器、**使用率多高**、哪些的操作系统**快到支持期结束**？ |
 | **2.3 Data** | How much data the nine ERP systems hold, and how it **merges into one data model**. | 九套 ERP 系统有多少数据，怎样**合并成一个数据模型**。 |
@@ -85,7 +85,7 @@ ms.date: 2026-11-01
 
 **CAF:** **Plan > Define operating model**.
 
-![Define operating model, RACI matrix: seven activities by seven stakeholders, with one Accountable owner per activity.](media/lab2-raci.png)
+![RACI matrix (Define operating model): seven activities by seven stakeholders, with one Accountable owner per activity.](media/lab2-raci.png)
 
 | Keyword | Description | 中文翻译 |
 |---|---|---|
@@ -96,7 +96,7 @@ ms.date: 2026-11-01
 
 **CAF:** **Plan > Plan migration**.
 
-![The eight cloud migration strategies of the Cloud Adoption Framework: Retire, Rehost, Replatform, Refactor, Rearchitect, Replace, Rebuild, Retain.](media/migration-strategies.png)
+![Migration approach (Cloud migration strategies), the eight of the Cloud Adoption Framework: Retire, Rehost, Replatform, Refactor, Rearchitect, Replace, Rebuild, Retain.](media/migration-strategies.png)
 
 | Keyword | Description | 中文翻译 |
 |---|---|---|
@@ -111,7 +111,7 @@ ms.date: 2026-11-01
 
 **CAF:** **Plan > Plan migration**.
 
-![Plan migration, Lab 2 schedule: discovery and assessment, Azure landing zone, migration waves, execute, decommission, optimize.](media/lab2-schedule.png)
+![Migration schedule (Plan migration): discovery and assessment, Azure landing zone, migration waves, execute, decommission, optimize.](media/lab2-schedule.png)
 
 | Keyword | Description | 中文翻译 |
 |---|---|---|
@@ -195,25 +195,25 @@ ms.date: 2026-11-01
 
 **Scenario:** Five on-premises **VMware** servers, **WEB-01, APP-01, DB-01, DC-01 and FILE-01**, move to **Azure VMs** with **minimal downtime**; a written simulation with **no CPU, memory or usage data**.
 
-![Lab 4 discovery and assessment: digital estate, discovery, dependency analysis, Azure readiness, right-sizing, plan migration.](media/lab4-assessment.png)
+![Lab 4 discovery and assessment: digital estate, discovery, dependency analysis, readiness (Azure readiness), sizing (right-sizing), migration plan (plan migration).](media/lab4-assessment.png)
 
 | Keyword | Description | 中文翻译 |
 |---|---|---|
 | **1 Digital estate** | **Everything IT runs today**; here the **five servers** and their applications and data. | **IT 现在运行的一切**；这里是**五台服务器**以及上面的应用和数据。 |
 | **2 Discovery** | **Agentless**: the **Azure Migrate appliance** on **vCenter** reads each VM over **port 443** for about **30 days**. | **无代理**：装在 **vCenter** 上的 **Azure Migrate 设备**通过 **443 端口**读取每台虚拟机，持续大约 **30 天**。 |
 | **3 Dependency analysis** | Shows each server's **TCP connections**; **WEB-01, APP-01 and DB-01** form one **migration group**. | 显示每台服务器的 **TCP 连接**；**WEB-01、APP-01 和 DB-01** 组成一个**迁移组**。 |
-| **4 Azure readiness** | WEB-01, APP-01, DC-01 **conditionally ready**; DB-01 **insufficient information**; FILE-01 **not ready**, a **blocker** (Windows Server 2012 R2). | WEB-01、APP-01、DC-01 **有条件就绪**；DB-01 **信息不足**；FILE-01 **未就绪**，是一个**阻碍项**（Windows Server 2012 R2）。 |
-| **5 Right-sizing** | **Performance-based** uses **real usage** and right-sizes; **as-is** **copies on-premises specs** and often oversizes. | **基于性能**按**实际使用量**调整规格；**按原样**照搬**本地配置**，常常配得过大。 |
-| **6 Plan migration** | A **test migration** runs in an **isolated network**; the **rollback plan** points **DNS back** to the **original servers**. | **测试迁移**在**隔离网络**里进行；**回滚计划**就是把 **DNS 指回原来的服务器**。 |
+| **4 Readiness (Azure readiness)** | WEB-01, APP-01, DC-01 **conditionally ready**; DB-01 **insufficient information**; FILE-01 **not ready**, a **blocker** (Windows Server 2012 R2). | WEB-01、APP-01、DC-01 **有条件就绪**；DB-01 **信息不足**；FILE-01 **未就绪**，是一个**阻碍项**（Windows Server 2012 R2）。 |
+| **5 Sizing (Right-sizing)** | **Performance-based** uses **real usage** and right-sizes; **as-is** **copies on-premises specs** and often oversizes. | **基于性能**按**实际使用量**调整规格；**按原样**照搬**本地配置**，常常配得过大。 |
+| **6 Migration plan (Plan migration)** | A **test migration** runs in an **isolated network**; the **rollback plan** points **DNS back** to the **original servers**. | **测试迁移**在**隔离网络**里进行；**回滚计划**就是把 **DNS 指回原来的服务器**。 |
 
-![Lab 4 migration order: new domain controller in Azure, FILE-01 pilot, group 1 (WEB-01, APP-01, DB-01), decommission DC-01.](media/lab4-migration-order.png)
+![Lab 4 migration order: new domain controller in Azure, FILE-01 pilot, group 1 (WEB-01, APP-01, DB-01), retire DC-01 (decommission).](media/lab4-migration-order.png)
 
 | Keyword | Description | 中文翻译 |
 |---|---|---|
 | **1 New DC in Azure** | Comes first, because every server needs **sign-in and DNS**. | 最先做，因为每台服务器都需要**登录和 DNS**。 |
 | **2 FILE-01** | The **pilot**, with its **OS upgrade**, before the **October 13, 2026** security deadline. | **试点**，同时**升级操作系统**，赶在 **2026 年 10 月 13 日**安全支持截止之前。 |
 | **3 Group 1** | **WEB-01, APP-01 and DB-01** move together in **one maintenance window**. | **WEB-01、APP-01 和 DB-01** 在**同一个维护窗口**里一起迁移。 |
-| **4 Decommission DC-01** | Only after **nothing uses it**. | 要等到**没有任何东西再用它**之后。 |
+| **4 Retire DC-01 (Decommission)** | Only after **nothing uses it**. | 要等到**没有任何东西再用它**之后。 |
 
 ### Lab 5: Rehosting to Azure VMware Solution (W5)
 
@@ -239,11 +239,11 @@ ms.date: 2026-11-01
 | **4 Execute** | **Proceed or roll back**: proceed after tests and **48 hours** stable; otherwise roll back to the **intact on-premises VMs**. | **继续还是回滚**：测试通过并稳定 **48 小时**后继续；否则回滚到**完好的本地虚拟机**。 |
 | **5 Decommission** | After each wave's **stabilization period**, the **on-premises copies** are retired. | 每一批的**稳定期**结束后，下线**本地副本**。 |
 
-### Replatform (W6 slides: Refactoring)
+### Refactoring (Replatform)
 
 **CAF:** **Adopt > Modernization**.
 
-![Replatform a web app: App Service Migration Assistant assesses, then migrates the app to Azure App Service; the database moves to Azure SQL or stays on-premises through a hybrid connection.](media/w6-replatform.png)
+![Refactoring (Replatform) a web app: App Service Migration Assistant assesses, then migrates the app to Azure App Service; the database moves to Azure SQL or stays on-premises through a hybrid connection.](media/w6-replatform.png)
 
 | Keyword | Description | 中文翻译 |
 |---|---|---|
