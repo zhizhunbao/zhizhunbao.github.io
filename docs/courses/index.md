@@ -60,9 +60,9 @@ ms.date: 2026-11-01
 
 ### Lab 2: Levi Strauss migration case study (W2)
 
-**CAF:** **Strategy > Motivations, mission and objectives**, **Plan > Define operating model** and **Plan > Plan migration**.
-
 **Scenario:** **Levi Strauss & Co.** moves from several **datacenters**, about **160 applications** and **nine ERP systems** in **110 countries** to Azure, as it shifts to **direct-to-consumer** sales.
+
+**CAF:** **Strategy > Motivations, mission and objectives** and **Plan > Plan migration**.
 
 ![Lab 2 case: five motivations and the seven areas of discovery.](media/lab2-case.png)
 
@@ -83,6 +83,8 @@ ms.date: 2026-11-01
 | **2.6 Dependencies** | Which applications **depend on each other**, and so must move in the **same wave**. | 哪些应用**互相依赖**，因此必须在**同一批次**迁移。 |
 | **2.7 Business requirements** | The acceptable **downtime**, the **retail peak periods** to avoid, and the **budget and deadline**. | 可接受的**停机时间**、要避开的**零售高峰期**，以及**预算和截止日期**。 |
 
+**CAF:** **Plan > Define operating model**.
+
 ![Define operating model, RACI matrix: seven activities by seven stakeholders, with one Accountable owner per activity.](media/lab2-raci.png)
 
 | Keyword | Description | 中文翻译 |
@@ -91,6 +93,8 @@ ms.date: 2026-11-01
 | **A Accountable** | The **single owner** of an activity; the **infrastructure director** for discovery, landing zone, migration, cutover and optimization. | 一项活动的**唯一负责人**；发现、着陆区、迁移、切换和优化都由**基础设施总监**负责。 |
 | **C Consulted** | **Gives input** before decisions, such as **security** and **business** leaders. | 决策前**提供意见**，比如**安全**和**业务**负责人。 |
 | **I Informed** | **Kept up to date**, such as the **sponsor** after approval. | **随时知情**，比如批准之后的**发起人**。 |
+
+**CAF:** **Plan > Plan migration**.
 
 ![The eight cloud migration strategies of the Cloud Adoption Framework: Retire, Rehost, Replatform, Refactor, Rearchitect, Replace, Rebuild, Retain.](media/migration-strategies.png)
 
@@ -104,6 +108,8 @@ ms.date: 2026-11-01
 | **6 Replace** | Swaps the workload for a **SaaS** product, so **no custom code** remains to maintain; the **nine ERP systems** become **one global ERP**. | 把工作负载换成 **SaaS** 产品，**不再有自定义代码**要维护；**九套 ERP 系统**变成**一套全球 ERP**。 |
 | **7 Rebuild** | Develops the workload **again from the start** with **cloud-native** solutions, when the old system is too outdated to modernize. | 用**云原生**方案**从头重新开发**工作负载，适用于旧系统过于陈旧、无法现代化的情况。 |
 | **8 Retain** | **Keeps the workload where it is**, when it is stable or **cannot be migrated**, for example because of regulations. | **工作负载留在原地**，适用于它运行稳定或**无法迁移**的情况，比如受法规限制。 |
+
+**CAF:** **Plan > Plan migration**.
 
 ![Plan migration, Lab 2 schedule: discovery and assessment, Azure landing zone, migration waves, execute, decommission, optimize.](media/lab2-schedule.png)
 
