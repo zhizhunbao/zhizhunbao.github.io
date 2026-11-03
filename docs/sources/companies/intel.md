@@ -1,7 +1,7 @@
 ---
-title: "8.14 Intel"
+title: "8.18 Intel"
 description: "Sources > Companies > Intel."
 ms.date: 2026-10-27
 ---
 
-# 8.14 Intel
+# 8.18 Intel

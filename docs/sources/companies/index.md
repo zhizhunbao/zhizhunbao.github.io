@@ -1,14 +1,14 @@
 ---
 title: "8. Companies"
-description: "Sources kind Companies: 23 of the publishers and documents this site cites."
-ms.date: 2026-10-27
+description: "Sources kind Companies: 28 of the publishers and documents this site cites."
+ms.date: 2026-11-03
 ---
 
 # 8. Companies
 
 ## Classification
 
-![Companies: its 23 members in one column: Amazon Web Services, Anthropic, Apple, Arm, Astral, Chroma, Cisco, Cypress.io, Docker, GitHub, Google, Google DeepMind, Hugging Face, Intel, LlamaIndex, Microsoft, MongoDB, NVIDIA, Ollama, OpenAI, Oracle, Redis, Ultralytics.](media/companies.png)
+![Companies: its 28 members in one column: Amazon Web Services, Anthropic, Apple, Arm, Astral, Chroma, Cisco, Cypress.io, Docker, Flexera, Forrester, Gartner, GitHub, Google, Google DeepMind, Hugging Face, IDC, Intel, LinkedIn, LlamaIndex, Microsoft, MongoDB, NVIDIA, Ollama, OpenAI, Oracle, Redis, Ultralytics.](media/companies.png)
 
 ## Glossary
 
@@ -24,11 +24,16 @@ ms.date: 2026-10-27
 | **[Cisco](cisco.md)**<br>思科 | "Cisco is the **worldwide technology leader** that is revolutionizing the way organizations **connect and protect** in the AI era." | 思科是**全球技术领导者**，正在彻底改变 AI 时代组织**连接与保护**的方式。 | [Cisco Systems, n.d., para. 1](https://investor.cisco.com/home/default.aspx#:~:text=Cisco%20is%20the%20worldwide%20technology%20leader%20that%20is) |
 | **[Cypress.io](cypress-io.md)**<br>Cypress.io | "Cypress **testing tools** support developers all around the world by making it **easier to build and test applications**." | Cypress **测试工具**为世界各地的开发者提供支持，使**构建和测试应用程序更加容易**。 | [Cypress.io, n.d., para. 1](https://www.cypress.io/about-us#:~:text=Cypress%20testing%20tools%20support%20developers%20all%20around%20the) |
 | **[Docker](docker.md)**<br>Docker | "Docker **changed how the world ships software**. Now we’re defining how **AI applications and agents are built, run, and governed** securely." | Docker **改变了世界交付软件的方式**。如今，我们正在定义 **AI 应用和智能体如何构建、运行和治理**，并确保其安全。 | [Docker, n.d., para. 1](https://www.docker.com/company/#:~:text=Docker%20changed%20how%20the%20world%20ships%20software.%20Now) |
+| **[Flexera](flexera.md)**<br>Flexera | "We are the **industry leader in hybrid IT asset management (ITAM) and FinOps**, with the numbers to back it up." | 我们是**混合 IT 资产管理（ITAM）和 FinOps 领域的行业领导者**，并有数据作证。 | [Flexera, n.d., "The intelligence to make better decisions, the data to bring teams together" section, para. 1](https://www.flexera.com/about-us#:~:text=We%20are%20the%20industry%20leader%20in%20hybrid%20IT) |
+| **[Forrester](forrester.md)**<br>Forrester | "Forrester helps **business and technology leaders** use **customer obsession** to **accelerate growth**." | Forrester 帮助**商业与技术领导者**运用**客户至上**理念**加速增长**。 | [Forrester, n.d., "About Us" section, para. 1](https://www.forrester.com/about-us/#:~:text=Forrester%20helps%20business%20and%20technology%20leaders%20use%20customer) |
+| **[Gartner](gartner.md)**<br>高德纳 | "We deliver **actionable, objective business and technology insights**." | 我们提供**可付诸行动、客观的商业与技术洞察**。 | [Gartner, n.d., opening heading](https://www.gartner.com/en/about#:~:text=We%20deliver%20actionable%2C%20objective%20business%20and%20technology%20insights) |
 | **[GitHub](github.md)**<br>GitHub | "The **complete developer platform** to **build, scale, and deliver secure software**." | **完整的开发者平台**，用于**构建、扩展和交付安全的软件**。 | [GitHub, n.d., para. 1](https://github.com/about#:~:text=The%20complete%20developer%20platform%20to%20build%2C%20scale%2C%20and) |
 | **[Google](google.md)**<br>谷歌 | "Our mission is to **organize the world’s information** and make it **universally accessible and useful**" | 我们的使命是**整合全球信息**，使其**人人皆可访问并从中受益**。 | [Google, n.d., para. 1](https://about.google/company-info/#:~:text=Our%20mission%20is%20to%20organize%20the%20world%E2%80%99s%20information) |
 | **[Google DeepMind](google-deepmind.md)**<br>谷歌 DeepMind | "Google DeepMind brings together **two of the world’s leading AI labs** — Google Brain and DeepMind — into a **single, focused team** led by our CEO Demis Hassabis." | Google DeepMind 将**全球两大领先 AI 实验室**（Google Brain 和 DeepMind）整合为一支由首席执行官 Demis Hassabis 领导的**专注的统一团队**。 | [Google DeepMind, n.d., para. 6](https://deepmind.google/about/#:~:text=Google%20DeepMind%20brings%20together%20two%20of%20the%20world%E2%80%99s) |
 | **[Hugging Face](hugging-face.md)**<br>Hugging Face | "We are on a mission to **democratize good machine learning**, one commit at a time." | 我们的使命是**让优秀的机器学习普及大众**，一次提交一步。 | [Hugging Face, n.d., para. 1](https://huggingface.co/huggingface#:~:text=We%20are%20on%20a%20mission%20to%20democratize%20good) |
+| **[IDC](idc.md)**<br>国际数据公司 | "Building a world where the **most trusted technology intelligence** makes **everyone better at what they do**." | 建设一个让**最值得信赖的技术情报**使**每个人都更擅长自己工作**的世界。 | [IDC, n.d., "We are the tech intelligence layer of the AI economy" section, para. 1](https://www.idc.com/about/#:~:text=Building%20a%20world%20where%20the%20most%20trusted%20technology) |
 | **[Intel](intel.md)**<br>英特尔 | "Intel (Nasdaq: INTC) **designs and manufactures advanced semiconductors** that **connect and power the modern world**." | 英特尔（Nasdaq: INTC）**设计和制造先进半导体**，**连接并驱动现代世界**。 | [Intel Corporation, 2026, "About Intel" section, para. 1](https://www.intc.com/news-events/press-releases/detail/1783/intel-accelerates-open-infrastructure-for-the-agentic-ai-era#:~:text=Intel%20%28Nasdaq%3A%20INTC%29%20designs%20and%20manufactures%20advanced%20semiconductors) |
+| **[LinkedIn](linkedin.md)**<br>领英 | "Welcome to LinkedIn, the **world's largest professional network** with **more than 1 billion members**" | 欢迎来到 LinkedIn，**全球最大的职业社交网络**，拥有**超过 10 亿会员**。 | [LinkedIn, n.d., "About LinkedIn" section, para. 1](https://about.linkedin.com/#:~:text=Welcome%20to%20LinkedIn%2C%20the%20world%27s%20largest%20professional%20network) |
 | **[LlamaIndex](llamaindex.md)**<br>LlamaIndex | "LlamaIndex is the **platform enterprises choose** to leverage **AI Agents for document OCR + AI workflows**." | LlamaIndex 是**企业首选的平台**，用于借助**面向文档 OCR 和 AI 工作流的 AI 智能体**开展工作。 | [LlamaIndex, n.d., para. 1](https://www.llamaindex.ai/about#:~:text=LlamaIndex%20is%20the%20platform%20enterprises%20choose%20to%20leverage) |
 | **[Microsoft](microsoft.md)**<br>微软 | "Microsoft’s mission is to **empower every person and every organization** on the planet to **achieve more**." | 微软的使命是**予力全球每一人、每一组织**，**成就不凡**。 | [Microsoft, n.d., para. 1](https://www.microsoft.com/en-us/about#:~:text=Microsoft%E2%80%99s%20mission%20is%20to%20empower%20every%20person%20and) |
 | **[MongoDB](mongodb.md)**<br>MongoDB | "MongoDB empowers innovators with our **intelligent data platform** for **modern, real-time, hybrid, multi-cloud applications** in the AI era." | MongoDB 以我们的**智能数据平台**赋能创新者，支持 AI 时代的**现代、实时、混合、多云应用**。 | [MongoDB, n.d., "What we do" section, para. 1](https://www.mongodb.com/company#:~:text=MongoDB%20empowers%20innovators%20with%20our%20intelligent%20data%20platform) |
@@ -61,15 +66,25 @@ Cypress.io. (n.d.). *About the team building Cypress*. Retrieved October 27, 202
 
 Docker. (n.d.). *About Docker*. Retrieved October 27, 2026, from <https://www.docker.com/company/>
 
-GitHub. (n.d.). *About GitHub*. Retrieved October 27, 2026, from <https://github.com/about>
+Flexera. (n.d.). *About us*. Retrieved November 3, 2026, from <https://www.flexera.com/about-us>
 
-Google DeepMind. (n.d.). *About Google DeepMind*. Retrieved October 27, 2026, from <https://deepmind.google/about/>
+Forrester. (n.d.). *About us*. Retrieved November 3, 2026, from <https://www.forrester.com/about-us/>
+
+Gartner. (n.d.). *About Gartner: Company information & leadership*. Retrieved November 3, 2026, from <https://www.gartner.com/en/about>
+
+GitHub. (n.d.). *About GitHub*. Retrieved October 27, 2026, from <https://github.com/about>
 
 Google. (n.d.). *About Google: History, office locations, commitments, initiatives*. Retrieved October 27, 2026, from <https://about.google/company-info/>
 
+Google DeepMind. (n.d.). *About Google DeepMind*. Retrieved October 27, 2026, from <https://deepmind.google/about/>
+
 Hugging Face. (n.d.). *huggingface (Hugging Face)*. Retrieved October 27, 2026, from <https://huggingface.co/huggingface>
 
+IDC. (n.d.). *About IDC*. Retrieved November 3, 2026, from <https://www.idc.com/about/>
+
 Intel Corporation. (2026, October 12). *Intel accelerates open infrastructure for the agentic AI era*. Retrieved October 27, 2026, from <https://www.intc.com/news-events/press-releases/detail/1783/intel-accelerates-open-infrastructure-for-the-agentic-ai-era>
+
+LinkedIn. (n.d.). *About LinkedIn*. Retrieved November 3, 2026, from <https://about.linkedin.com/>
 
 LlamaIndex. (n.d.). *LlamaIndex - About us*. Retrieved October 27, 2026, from <https://www.llamaindex.ai/about>
 

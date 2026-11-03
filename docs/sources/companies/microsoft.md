@@ -1,7 +1,7 @@
 ---
-title: "8.16 Microsoft"
+title: "8.21 Microsoft"
 description: "Sources > Companies > Microsoft."
 ms.date: 2026-10-27
 ---
 
-# 8.16 Microsoft
+# 8.21 Microsoft

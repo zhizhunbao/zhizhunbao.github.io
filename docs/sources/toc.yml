@@ -131,33 +131,43 @@ items:
     href: companies/cypress-io.md
   - name: "8.9 Docker"
     href: companies/docker.md
-  - name: "8.10 GitHub"
+  - name: "8.10 Flexera"
+    href: companies/flexera.md
+  - name: "8.11 Forrester"
+    href: companies/forrester.md
+  - name: "8.12 Gartner"
+    href: companies/gartner.md
+  - name: "8.13 GitHub"
     href: companies/github.md
-  - name: "8.11 Google"
+  - name: "8.14 Google"
     href: companies/google.md
-  - name: "8.12 Google DeepMind"
+  - name: "8.15 Google DeepMind"
     href: companies/google-deepmind.md
-  - name: "8.13 Hugging Face"
+  - name: "8.16 Hugging Face"
     href: companies/hugging-face.md
-  - name: "8.14 Intel"
+  - name: "8.17 IDC"
+    href: companies/idc.md
+  - name: "8.18 Intel"
     href: companies/intel.md
-  - name: "8.15 LlamaIndex"
+  - name: "8.19 LinkedIn"
+    href: companies/linkedin.md
+  - name: "8.20 LlamaIndex"
     href: companies/llamaindex.md
-  - name: "8.16 Microsoft"
+  - name: "8.21 Microsoft"
     href: companies/microsoft.md
-  - name: "8.17 MongoDB"
+  - name: "8.22 MongoDB"
     href: companies/mongodb.md
-  - name: "8.18 NVIDIA"
+  - name: "8.23 NVIDIA"
     href: companies/nvidia.md
-  - name: "8.19 Ollama"
+  - name: "8.24 Ollama"
     href: companies/ollama.md
-  - name: "8.20 OpenAI"
+  - name: "8.25 OpenAI"
     href: companies/openai.md
-  - name: "8.21 Oracle"
+  - name: "8.26 Oracle"
     href: companies/oracle.md
-  - name: "8.22 Redis"
+  - name: "8.27 Redis"
     href: companies/redis.md
-  - name: "8.23 Ultralytics"
+  - name: "8.28 Ultralytics"
     href: companies/ultralytics.md
 - name: "9. Open-Source Projects"
   href: open-source-projects/index.md
