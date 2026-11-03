@@ -1,14 +1,14 @@
 ---
 title: "24.3 Plan"
-description: "Microsoft Azure, 24.3 Plan: Discovery and Assessment, Movere, Assessment, Azure readiness (Ready for Azure, Conditionally ready for Azure, Not ready for Azure, Readiness unknown), Right-sizing, Azure cost estimation, Dependency analysis."
-ms.date: 2026-10-26
+description: "Microsoft Azure, 24.3 Plan: Discovery and Assessment, Movere, Assessment, Azure readiness (Ready for Azure, Conditionally ready for Azure, Not ready for Azure, Readiness unknown), Right-sizing, Azure cost estimation (Compute cost, Storage cost), Dependency analysis."
+ms.date: 2026-11-03
 ---
 
 # 24.3 Plan
 
 ## Classification
 
-![Plan: the Discovery and Assessment tool and the retired Movere, then Assessment, then Azure readiness with its four readiness categories (Ready for Azure, Conditionally ready for Azure, Not ready for Azure, Readiness unknown), then Right-sizing, Azure cost estimation, Dependency analysis.](media/plan.png)
+![Plan: the Discovery and Assessment tool and the retired Movere, then Assessment, then Azure readiness with its four readiness categories (Ready for Azure, Conditionally ready for Azure, Not ready for Azure, Readiness unknown), then Right-sizing, Azure cost estimation with its two parts (Compute cost, Storage cost), Dependency analysis.](media/plan.png)
 
 ## Glossary
 
@@ -25,6 +25,8 @@ ms.date: 2026-10-26
 | **Readiness unknown**<br>就绪性未知 | "**Readiness unknown**: Azure Migrate **can't determine the readiness** of the server because of **insufficient metadata**." | **就绪性未知**：Azure Migrate **无法确定服务器的就绪性**，原因是**元数据不足**。 | [Microsoft, 2026, "Calculate readiness" section, list item 4](https://learn.microsoft.com/en-us/azure/migrate/concepts-assessment-calculation?view=migrate-classic#:~:text=because%20of%20insufficient%20metadata) |
 | **Right-sizing**<br>规模调整 | "**Right-sizing**: Estimate the **size of Azure virtual machines (VMs)**, the **Azure SQL configuration**, and the **number of Azure VMware Solution nodes** after migration." | **规模调整**：估算迁移后 **Azure 虚拟机（VM）的大小**、**Azure SQL 配置**以及 **Azure VMware 解决方案节点的数量**。 | [Microsoft, n.d., "Plan" section, list item 2](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:~:text=Estimate%20the%20size%20of%20Azure%20virtual%20machines) |
 | **Azure cost estimation**<br>Azure 成本估算 | "**Azure cost estimation**: Estimate costs for **running on-premises servers in Azure**." | **Azure 成本估算**：估算**在 Azure 中运行本地服务器**的成本。 | [Microsoft, n.d., "Plan" section, list item 3](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:~:text=Estimate%20costs%20for%20running%20on%2Dpremises%20servers%20in%20Azure) |
+| **Compute cost**<br>计算成本 | "Azure Migrate uses the **recommended Azure VM size** and the **Azure Billing API** to calculate the **monthly cost for the server**." | Azure Migrate 使用**推荐的 Azure VM 大小**和 **Azure 计费 API** 来计算**该服务器的每月成本**。 | [Microsoft, 2026, "Compute cost" section, para. 1](https://learn.microsoft.com/en-us/azure/migrate/concepts-assessment-calculation?view=migrate-classic#:~:text=Azure%20Migrate%20uses%20the%20recommended%20Azure%20VM%20size%20and%20the%20Azure%20Billing%20API) |
+| **Storage cost**<br>存储成本 | "The **monthly storage cost for a server** is calculated by **aggregating the monthly cost of all disks that are attached to the server**." | **服务器的每月存储成本**是通过**汇总连接到该服务器的所有磁盘的每月成本**计算得出的。 | [Microsoft, 2026, "Storage cost" section, para. 1](https://learn.microsoft.com/en-us/azure/migrate/concepts-assessment-calculation?view=migrate-classic#:~:text=The%20monthly%20storage%20cost%20for%20a%20server%20is%20calculated%20by%20aggregating) |
 | **Dependency analysis**<br>依赖关系分析 | "**Dependency analysis**: Understand the **network dependencies between servers** in your datacenter so that you can make **high-confidence migration plans** without missing any critical dependency." | **依赖关系分析**：了解数据中心内**服务器之间的网络依赖关系**，以便制定**高可信度的迁移计划**，不遗漏任何关键依赖。 | [Microsoft, n.d., "Plan" section, list item 4](https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:~:text=Understand%20the%20network%20dependencies%20between%20servers) |
 
 ## References
