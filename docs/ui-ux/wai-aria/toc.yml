@@ -1,0 +1,202 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Introduction"
+  href: introduction/index.md
+  items:
+  - name: "1.1 Rich Internet Application Accessibility"
+    href: introduction/rich-internet-application-accessibility.md
+  - name: "1.2 Target Audience"
+    href: introduction/target-audience.md
+  - name: "1.3 User Agent Support"
+    href: introduction/user-agent-support.md
+  - name: "1.4 Co-Evolution of WAI-ARIA and Host Languages"
+    href: introduction/co-evolution-of-wai-aria-and-host-languages.md
+  - name: "1.5 Authoring Practices"
+    href: introduction/authoring-practices/index.md
+    items:
+    - name: "1.5.1 Authoring Tools"
+      href: introduction/authoring-practices/authoring-tools.md
+    - name: "1.5.2 Testing Practices and Tools"
+      href: introduction/authoring-practices/testing-practices-and-tools.md
+  - name: "1.6 Assistive Technologies"
+    href: introduction/assistive-technologies.md
+- name: "2. Important Terms"
+  href: important-terms.md
+- name: "3. Conformance"
+  href: conformance/index.md
+  items:
+  - name: "3.1 Non-interference with the Host Language"
+    href: conformance/non-interference-with-the-host-language.md
+  - name: "3.2 All WAI-ARIA in DOM"
+    href: conformance/all-wai-aria-in-dom.md
+  - name: "3.3 Assistive Technology Notifications Communicated to Web Applications"
+    href: conformance/assistive-technology-notifications-communicated-to-web-applications.md
+  - name: "3.4 Conformance Checkers"
+    href: conformance/conformance-checkers.md
+  - name: "3.5 Deprecated Requirements"
+    href: conformance/deprecated-requirements.md
+- name: "4. Using WAI-ARIA"
+  href: using-wai-aria/index.md
+  items:
+  - name: "4.1 WAI-ARIA Roles"
+    href: using-wai-aria/wai-aria-roles.md
+  - name: "4.2 WAI-ARIA States and Properties"
+    href: using-wai-aria/wai-aria-states-and-properties.md
+  - name: "4.3 Managing Focus and Supporting Keyboard Navigation"
+    href: using-wai-aria/managing-focus-and-supporting-keyboard-navigation/index.md
+    items:
+    - name: "4.3.1 Information for Authors"
+      href: using-wai-aria/managing-focus-and-supporting-keyboard-navigation/information-for-authors.md
+    - name: "4.3.2 Information for User Agents"
+      href: using-wai-aria/managing-focus-and-supporting-keyboard-navigation/information-for-user-agents.md
+- name: "5. The Roles Model"
+  href: the-roles-model/index.md
+  items:
+  - name: "5.1 Relationships Between Concepts"
+    href: the-roles-model/relationships-between-concepts/index.md
+    items:
+    - name: "5.1.1 Superclass Role"
+      href: the-roles-model/relationships-between-concepts/superclass-role.md
+    - name: "5.1.2 Subclass Roles"
+      href: the-roles-model/relationships-between-concepts/subclass-roles.md
+    - name: "5.1.3 Related Concepts"
+      href: the-roles-model/relationships-between-concepts/related-concepts.md
+    - name: "5.1.4 Base Concept"
+      href: the-roles-model/relationships-between-concepts/base-concept.md
+  - name: "5.2 Characteristics of Roles"
+    href: the-roles-model/characteristics-of-roles/index.md
+    items:
+    - name: "5.2.1 Abstract Roles"
+      href: the-roles-model/characteristics-of-roles/abstract-roles.md
+    - name: "5.2.2 Required States and Properties"
+      href: the-roles-model/characteristics-of-roles/required-states-and-properties.md
+    - name: "5.2.3 Supported States and Properties"
+      href: the-roles-model/characteristics-of-roles/supported-states-and-properties.md
+    - name: "5.2.4 Inherited States and Properties"
+      href: the-roles-model/characteristics-of-roles/inherited-states-and-properties.md
+    - name: "5.2.5 Prohibited States and Properties"
+      href: the-roles-model/characteristics-of-roles/prohibited-states-and-properties.md
+    - name: "5.2.6 Required Owned Elements"
+      href: the-roles-model/characteristics-of-roles/required-owned-elements.md
+    - name: "5.2.7 Required Context Role"
+      href: the-roles-model/characteristics-of-roles/required-context-role.md
+    - name: "5.2.8 Accessible Name Calculation"
+      href: the-roles-model/characteristics-of-roles/accessible-name-calculation.md
+    - name: "5.2.9 Presentational Children"
+      href: the-roles-model/characteristics-of-roles/presentational-children.md
+    - name: "5.2.10 Implicit Value for Role"
+      href: the-roles-model/characteristics-of-roles/implicit-value-for-role.md
+  - name: "5.3 Categorization of Roles"
+    href: the-roles-model/categorization-of-roles/index.md
+    items:
+    - name: "5.3.1 Abstract Roles"
+      href: the-roles-model/categorization-of-roles/abstract-roles.md
+    - name: "5.3.2 Widget Roles"
+      href: the-roles-model/categorization-of-roles/widget-roles.md
+    - name: "5.3.3 Document Structure Roles"
+      href: the-roles-model/categorization-of-roles/document-structure-roles.md
+    - name: "5.3.4 Landmark Roles"
+      href: the-roles-model/categorization-of-roles/landmark-roles.md
+    - name: "5.3.5 Live Region Roles"
+      href: the-roles-model/categorization-of-roles/live-region-roles.md
+    - name: "5.3.6 Window Roles"
+      href: the-roles-model/categorization-of-roles/window-roles.md
+  - name: "5.4 Definition of Roles"
+    href: the-roles-model/definition-of-roles.md
+- name: "6. Supported States and Properties"
+  href: supported-states-and-properties/index.md
+  items:
+  - name: "6.1 Clarification of States versus Properties"
+    href: supported-states-and-properties/clarification-of-states-versus-properties.md
+  - name: "6.2 Characteristics of States and Properties"
+    href: supported-states-and-properties/characteristics-of-states-and-properties/index.md
+    items:
+    - name: "6.2.1 Related Concepts"
+      href: supported-states-and-properties/characteristics-of-states-and-properties/related-concepts.md
+    - name: "6.2.2 Used in Roles"
+      href: supported-states-and-properties/characteristics-of-states-and-properties/used-in-roles.md
+    - name: "6.2.3 Inherits into Roles"
+      href: supported-states-and-properties/characteristics-of-states-and-properties/inherits-into-roles.md
+    - name: "6.2.4 Value"
+      href: supported-states-and-properties/characteristics-of-states-and-properties/value.md
+  - name: "6.3 ARIA Attributes"
+    href: supported-states-and-properties/aria-attributes/index.md
+    items:
+    - name: "6.3.1 Multi-value Attribute Values"
+      href: supported-states-and-properties/aria-attributes/multi-value-attribute-values.md
+    - name: "6.3.2 IDL Reflection of ARIA Attributes"
+      href: supported-states-and-properties/aria-attributes/idl-reflection-of-aria-attributes.md
+    - name: "6.3.3 Operating System Accessibility API Mapping of Multi-value ARIA Attributes"
+      href: supported-states-and-properties/aria-attributes/operating-system-accessibility-api-mapping-of-multi-value-aria-attributes.md
+    - name: "6.3.4 ARIA Nullable DOMString Attributes"
+      href: supported-states-and-properties/aria-attributes/aria-nullable-domstring-attributes.md
+  - name: "6.4 Translatable States and Properties"
+    href: supported-states-and-properties/translatable-states-and-properties.md
+  - name: "6.5 Global States and Properties"
+    href: supported-states-and-properties/global-states-and-properties.md
+  - name: "6.6 Taxonomy of WAI-ARIA States and Properties"
+    href: supported-states-and-properties/taxonomy-of-wai-aria-states-and-properties/index.md
+    items:
+    - name: "6.6.1 Widget Attributes"
+      href: supported-states-and-properties/taxonomy-of-wai-aria-states-and-properties/widget-attributes.md
+    - name: "6.6.2 Live Region Attributes"
+      href: supported-states-and-properties/taxonomy-of-wai-aria-states-and-properties/live-region-attributes.md
+    - name: "6.6.3 Drag-and-Drop Attributes"
+      href: supported-states-and-properties/taxonomy-of-wai-aria-states-and-properties/drag-and-drop-attributes.md
+    - name: "6.6.4 Relationship Attributes"
+      href: supported-states-and-properties/taxonomy-of-wai-aria-states-and-properties/relationship-attributes.md
+  - name: "6.7 Definitions of States and Properties (All aria-* Attributes)"
+    href: supported-states-and-properties/definitions-of-states-and-properties-all-aria-attributes.md
+- name: "7. Accessibility Tree"
+  href: accessibility-tree/index.md
+  items:
+  - name: "7.1 Excluding Elements from the Accessibility Tree"
+    href: accessibility-tree/excluding-elements-from-the-accessibility-tree.md
+  - name: "7.2 Including Elements in the Accessibility Tree"
+    href: accessibility-tree/including-elements-in-the-accessibility-tree.md
+- name: "8. Implementation in Host Languages"
+  href: implementation-in-host-languages/index.md
+  items:
+  - name: "8.1 Role Attribute"
+    href: implementation-in-host-languages/role-attribute.md
+  - name: "8.2 State and Property Attributes"
+    href: implementation-in-host-languages/state-and-property-attributes.md
+  - name: "8.3 Focus Navigation"
+    href: implementation-in-host-languages/focus-navigation.md
+  - name: "8.4 Implicit WAI-ARIA Semantics"
+    href: implementation-in-host-languages/implicit-wai-aria-semantics.md
+  - name: "8.5 Conflicts with Host Language Semantics"
+    href: implementation-in-host-languages/conflicts-with-host-language-semantics.md
+  - name: "8.6 State and Property Attribute Processing"
+    href: implementation-in-host-languages/state-and-property-attribute-processing/index.md
+    items:
+    - name: "8.6.1 ID Reference Error Processing"
+      href: implementation-in-host-languages/state-and-property-attribute-processing/id-reference-error-processing.md
+  - name: "8.7 CSS Selectors"
+    href: implementation-in-host-languages/css-selectors.md
+- name: "9. Handling Author Errors"
+  href: handling-author-errors/index.md
+  items:
+  - name: "9.1 Roles"
+    href: handling-author-errors/roles.md
+  - name: "9.2 States and Properties"
+    href: handling-author-errors/states-and-properties.md
+- name: "10. IDL Interface"
+  href: idl-interface/index.md
+  items:
+  - name: "10.1 Interface Mixin ARIAMixin"
+    href: idl-interface/interface-mixin-ariamixin.md
+  - name: "10.2 ARIA Attribute Correspondence"
+    href: idl-interface/aria-attribute-correspondence/index.md
+    items:
+    - name: "10.2.1 Disambiguation Pattern"
+      href: idl-interface/aria-attribute-correspondence/disambiguation-pattern.md
+    - name: "10.2.2 IDL Attribute Name Notes or Exceptions"
+      href: idl-interface/aria-attribute-correspondence/idl-attribute-name-notes-or-exceptions.md
+  - name: "10.3 ARIAMixin Mixed in to Element"
+    href: idl-interface/ariamixin-mixed-in-to-element.md
+  - name: "10.4 Example IDL Attribute Usage"
+    href: idl-interface/example-idl-attribute-usage.md
+- name: "11. Privacy and Security Considerations"
+  href: privacy-and-security-considerations.md

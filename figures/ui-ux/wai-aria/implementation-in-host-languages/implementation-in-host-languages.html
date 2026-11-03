@@ -1,0 +1,51 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+  .flow { display: flex; flex-wrap: wrap; gap: 8px; }
+  .flow .item { margin-bottom: 0; }
+  .group.wide { flex: 1 1 100%; }
+</style>
+</head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">8. Implementation in Host Languages</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">8.1 Role Attribute</div>
+    </div>
+    <div class="group">
+      <div class="title">8.2 State and Property Attributes</div>
+    </div>
+    <div class="group">
+      <div class="title">8.3 Focus Navigation</div>
+    </div>
+    <div class="group">
+      <div class="title">8.4 Implicit WAI-ARIA Semantics</div>
+    </div>
+    <div class="group">
+      <div class="title">8.5 Conflicts with Host Language Semantics</div>
+      <div class="flow">
+        <div class="item">aria-describedby</div>
+        <div class="item">aria-label</div>
+        <div class="item">aria-labelledby</div>
+      </div>
+    </div>
+    <div class="group">
+      <div class="title">8.6 State and Property Attribute Processing</div>
+        <div class="item">8.6.1 ID Reference Error Processing</div>
+    </div>
+    <div class="group">
+      <div class="title">8.7 CSS Selectors</div>
+    </div>
+  </div>
+</div>
+</body></html>

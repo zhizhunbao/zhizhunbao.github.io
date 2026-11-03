@@ -1,0 +1,42 @@
+---
+title: "6.5 Global States and Properties"
+description: "WAI-ARIA 1.2, 6.5 Global States and Properties: aria-atomic, aria-busy (state), aria-controls, aria-current (state), aria-describedby, aria-details, aria-disabled (state) (Global use deprecated in ARIA 1.2), aria-dropeffect, aria-errormessage (Global use deprecated in ARIA 1.2), aria-flowto, aria-grabbed (state), aria-haspopup (Global use deprecated in ARIA 1.2), aria-hidden (state), aria-invalid (state) (Global use deprecated in ARIA 1.2), aria-keyshortcuts, aria-label (Except where prohibited), aria-labelledby (Except where prohibited), aria-live, aria-owns, aria-relevant, aria-roledescription."
+ms.date: 2026-11-03
+---
+
+# 6.5 Global States and Properties
+
+## Classification
+
+![6.5 Global States and Properties: aria-atomic, aria-busy (state), aria-controls, aria-current (state), aria-describedby, aria-details, aria-disabled (state) (Global use deprecated in ARIA 1.2), aria-dropeffect, aria-errormessage (Global use deprecated in ARIA 1.2), aria-flowto, aria-grabbed (state), aria-haspopup (Global use deprecated in ARIA 1.2), aria-hidden (state), aria-invalid (state) (Global use deprecated in ARIA 1.2), aria-keyshortcuts, aria-label (Except where prohibited), aria-labelledby (Except where prohibited), aria-live, aria-owns, aria-relevant, aria-roledescription.](media/global-states-and-properties.png)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **6.5 Global States and Properties**<br>全局状态和属性 | "Some states and properties are **applicable to all host language elements regardless of whether a role is applied**." | 有些状态和属性**适用于所有宿主语言元素，无论是否应用了角色**。 | [World Wide Web Consortium, 2023, section 6.5](https://www.w3.org/TR/wai-aria-1.2/) |
+| **aria-atomic**<br>整体呈现 | "Indicates whether assistive technologies will present **all, or only parts of, the changed region** based on the change notifications defined by the aria-relevant attribute." | 指示辅助技术将根据 aria-relevant 属性定义的变化通知，呈现**整个变化区域还是只呈现其中一部分**。 | [World Wide Web Consortium, 2023, section 6.7, aria-atomic](https://www.w3.org/TR/wai-aria-1.2/#aria-atomic) |
+| **aria-busy (state)**<br>忙碌 | "Indicates an element is **being modified** and that assistive technologies MAY want to **wait until the modifications are complete** before exposing them to the user." | 指示元素**正在被修改**，辅助技术可以**等修改完成后**再向用户公开。 | [World Wide Web Consortium, 2023, section 6.7, aria-busy](https://www.w3.org/TR/wai-aria-1.2/#aria-busy) |
+| **aria-controls**<br>控制对象 | "Identifies the element (or elements) whose **contents or presence are controlled by the current element**." | 标识**内容或存在由当前元素控制**的元素。 | [World Wide Web Consortium, 2023, section 6.7, aria-controls](https://www.w3.org/TR/wai-aria-1.2/#aria-controls) |
+| **aria-current (state)**<br>当前项 | "Indicates the element that represents the **current item within a container or set of related elements**." | 指示代表**容器或一组相关元素中的当前项**的元素。 | [World Wide Web Consortium, 2023, section 6.7, aria-current](https://www.w3.org/TR/wai-aria-1.2/#aria-current) |
+| **aria-describedby**<br>描述来源 | "Identifies the element (or elements) that **describes the object**." | 标识**描述该对象**的元素。 | [World Wide Web Consortium, 2023, section 6.7, aria-describedby](https://www.w3.org/TR/wai-aria-1.2/#aria-describedby) |
+| **aria-details**<br>详细描述来源 | "Identifies the element that provides a **detailed, extended description** for the object." | 标识为该对象提供**详细、扩展描述**的元素。 | [World Wide Web Consortium, 2023, section 6.7, aria-details](https://www.w3.org/TR/wai-aria-1.2/#aria-details) |
+| **aria-disabled (state) (Global use deprecated in ARIA 1.2)**<br>禁用 | "Indicates that the element is **perceivable but disabled**, so it is **not editable or otherwise operable**." | 指示元素**可感知但已禁用**，因此**不可编辑或以其他方式操作**。 | [World Wide Web Consortium, 2023, section 6.7, aria-disabled](https://www.w3.org/TR/wai-aria-1.2/#aria-disabled) |
+| **aria-dropeffect**<br>放置效果 | "[Deprecated in ARIA 1.1] Indicates **what functions can be performed when a dragged object is released on the drop target**." | [在 ARIA 1.1 中已弃用] 指示**被拖动的对象释放到放置目标上时可以执行哪些功能**。 | [World Wide Web Consortium, 2023, section 6.7, aria-dropeffect](https://www.w3.org/TR/wai-aria-1.2/#aria-dropeffect) |
+| **aria-errormessage (Global use deprecated in ARIA 1.2)**<br>错误消息来源 | "Identifies the element that provides an **error message for an object**." | 标识为对象提供**错误消息**的元素。 | [World Wide Web Consortium, 2023, section 6.7, aria-errormessage](https://www.w3.org/TR/wai-aria-1.2/#aria-errormessage) |
+| **aria-flowto**<br>阅读流向 | "Identifies the next element (or elements) in an **alternate reading order of content** which, at the user's discretion, allows assistive technology to override the general default of reading in document source order." | 标识**替代阅读顺序**中的下一个元素，由用户决定，让辅助技术可以不按文档源顺序朗读的默认方式。 | [World Wide Web Consortium, 2023, section 6.7, aria-flowto](https://www.w3.org/TR/wai-aria-1.2/#aria-flowto) |
+| **aria-grabbed (state)**<br>抓取状态 | "[Deprecated in ARIA 1.1] Indicates an element's "**grabbed**" state in a drag-and-drop operation." | [在 ARIA 1.1 中已弃用] 指示元素在拖放操作中的“**被抓取**”状态。 | [World Wide Web Consortium, 2023, section 6.7, aria-grabbed](https://www.w3.org/TR/wai-aria-1.2/#aria-grabbed) |
+| **aria-haspopup (Global use deprecated in ARIA 1.2)**<br>有弹出层 | "Indicates the **availability and type of interactive popup element**, such as menu or dialog, that can be triggered by an element." | 指示元素可以触发的**交互式弹出元素是否存在及其类型**，例如菜单或对话框。 | [World Wide Web Consortium, 2023, section 6.7, aria-haspopup](https://www.w3.org/TR/wai-aria-1.2/#aria-haspopup) |
+| **aria-hidden (state)**<br>隐藏 | "Indicates whether the element is **exposed to an accessibility API**." | 指示元素是否**向无障碍 API 公开**。 | [World Wide Web Consortium, 2023, section 6.7, aria-hidden](https://www.w3.org/TR/wai-aria-1.2/#aria-hidden) |
+| **aria-invalid (state) (Global use deprecated in ARIA 1.2)**<br>无效 | "Indicates the entered value **does not conform to the format expected by the application**." | 指示输入的值**不符合应用所期望的格式**。 | [World Wide Web Consortium, 2023, section 6.7, aria-invalid](https://www.w3.org/TR/wai-aria-1.2/#aria-invalid) |
+| **aria-keyshortcuts**<br>键盘快捷键 | "Indicates **keyboard shortcuts** that an author has implemented to **activate or give focus to an element**." | 指示作者实现的、用来**激活元素或使其获得焦点**的**键盘快捷键**。 | [World Wide Web Consortium, 2023, section 6.7, aria-keyshortcuts](https://www.w3.org/TR/wai-aria-1.2/#aria-keyshortcuts) |
+| **aria-label (Except where prohibited)**<br>标签 | "Defines a **string value that labels the current element**." | 定义**标注当前元素的字符串值**。 | [World Wide Web Consortium, 2023, section 6.7, aria-label](https://www.w3.org/TR/wai-aria-1.2/#aria-label) |
+| **aria-labelledby (Except where prohibited)**<br>标签来源 | "Identifies the element (or elements) that **labels the current element**." | 标识**标注当前元素**的元素。 | [World Wide Web Consortium, 2023, section 6.7, aria-labelledby](https://www.w3.org/TR/wai-aria-1.2/#aria-labelledby) |
+| **aria-live**<br>实时 | "Indicates that an element **will be updated**, and describes the **types of updates** the user agents, assistive technologies, and user can expect from the live region." | 指示元素**将会更新**，并描述用户代理、辅助技术和用户可以从该实时区域预期的**更新类型**。 | [World Wide Web Consortium, 2023, section 6.7, aria-live](https://www.w3.org/TR/wai-aria-1.2/#aria-live) |
+| **aria-owns**<br>拥有对象 | "Identifies an element (or elements) in order to define a **visual, functional, or contextual parent/child relationship** between DOM elements where the DOM hierarchy cannot be used to represent the relationship." | 标识元素，以在 DOM 层次无法表示该关系时，定义 DOM 元素之间**视觉上、功能上或上下文上的父子关系**。 | [World Wide Web Consortium, 2023, section 6.7, aria-owns](https://www.w3.org/TR/wai-aria-1.2/#aria-owns) |
+| **aria-relevant**<br>相关变化 | "Indicates **what notifications the user agent will trigger** when the accessibility tree within a live region is modified." | 指示实时区域内的无障碍树被修改时，**用户代理将触发哪些通知**。 | [World Wide Web Consortium, 2023, section 6.7, aria-relevant](https://www.w3.org/TR/wai-aria-1.2/#aria-relevant) |
+| **aria-roledescription**<br>角色描述 | "Defines a **human-readable, author-localized description for the role** of an element." | 定义元素**角色的人类可读、由作者本地化的描述**。 | [World Wide Web Consortium, 2023, section 6.7, aria-roledescription](https://www.w3.org/TR/wai-aria-1.2/#aria-roledescription) |
+
+## References
+
+World Wide Web Consortium. (2023, June 6). *Accessible Rich Internet Applications (WAI-ARIA) 1.2* (W3C Recommendation). <https://www.w3.org/TR/wai-aria-1.2/>

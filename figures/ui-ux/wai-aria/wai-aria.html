@@ -1,0 +1,148 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  body { margin: 0; background: #fff; font-family: "Segoe UI", sans-serif; }
+  .frame { display: inline-block; margin: 2px; padding: 14px; border: 1.5px dashed #333; border-radius: 10px; }
+  .title { display: inline-block; border: 2px solid #e8a317; padding: 2px 6px; font-size: 22px; font-weight: 600; color: #222; margin-bottom: 18px; }
+  .row { display: flex; flex-wrap: wrap; gap: 20px; width: 1220px; align-items: stretch; }
+  .row .group { flex: 1 1 auto; }
+  .group { border: 1.5px dashed #0f6cbd; border-radius: 6px; padding: 12px; box-sizing: border-box; }
+  .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
+  .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
+          display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+  .group.terms { flex: 1 1 100%; }
+  .flow { display: flex; flex-wrap: wrap; gap: 8px; }
+  .flow .item { margin-bottom: 0; }
+</style>
+</head>
+<body>
+<div class="frame" id="fig">
+  <div class="title">WAI-ARIA</div>
+  <div class="row">
+    <div class="group">
+      <div class="title">1. Introduction</div>
+      <div class="item">1.1 Rich Internet Application Accessibility</div>
+      <div class="item">1.2 Target Audience</div>
+      <div class="item">1.3 User Agent Support</div>
+      <div class="item">1.4 Co-Evolution of WAI-ARIA and Host Languages</div>
+      <div class="item">1.5 Authoring Practices</div>
+      <div class="item">1.6 Assistive Technologies</div>
+    </div>
+    <div class="group terms">
+      <div class="title">2. Important Terms</div>
+      <div class="flow">
+        <div class="item">Accessibility API</div>
+        <div class="item">Accessibility Subtree</div>
+        <div class="item">Accessibility Tree</div>
+        <div class="item">Accessible Description</div>
+        <div class="item">Accessible Name</div>
+        <div class="item">Accessible object</div>
+        <div class="item">Activation behavior</div>
+        <div class="item">Assistive Technologies</div>
+        <div class="item">Attribute</div>
+        <div class="item">Class</div>
+        <div class="item">Deprecated</div>
+        <div class="item">Desktop focus event</div>
+        <div class="item">DOMString</div>
+        <div class="item">Element</div>
+        <div class="item">Event</div>
+        <div class="item">Expose</div>
+        <div class="item">Graphical Document</div>
+        <div class="item">Hidden</div>
+        <div class="item">Informative</div>
+        <div class="item">Keyboard Accessible</div>
+        <div class="item">Landmark</div>
+        <div class="item">Live Region</div>
+        <div class="item">Primary Content Element</div>
+        <div class="item">Managed State</div>
+        <div class="item">Nemeth Braille</div>
+        <div class="item">Node</div>
+        <div class="item">Normative</div>
+        <div class="item">Object</div>
+        <div class="item">Ontology</div>
+        <div class="item">Operable</div>
+        <div class="item">Owned Element</div>
+        <div class="item">Owning Element</div>
+        <div class="item">Perceivable</div>
+        <div class="item">Property</div>
+        <div class="item">Relationship</div>
+        <div class="item">Role</div>
+        <div class="item">Root WAI-ARIA node</div>
+        <div class="item">Semantics</div>
+        <div class="item">State</div>
+        <div class="item">Sub-document</div>
+        <div class="item">Target Element</div>
+        <div class="item">Taxonomy</div>
+        <div class="item">Text node</div>
+        <div class="item">Tooltip attribute</div>
+        <div class="item">Understandable</div>
+        <div class="item">Unicode Braille Patterns</div>
+        <div class="item">User Agent</div>
+        <div class="item">Valid IDREF</div>
+        <div class="item">Widget</div>
+      </div>
+    </div>
+    <div class="group">
+      <div class="title">3. Conformance</div>
+      <div class="item">3.1 Non-interference with the Host Language</div>
+      <div class="item">3.2 All WAI-ARIA in DOM</div>
+      <div class="item">3.3 Assistive Technology Notifications Communicated to Web Applications</div>
+      <div class="item">3.4 Conformance Checkers</div>
+      <div class="item">3.5 Deprecated Requirements</div>
+    </div>
+    <div class="group">
+      <div class="title">4. Using WAI-ARIA</div>
+      <div class="item">4.1 WAI-ARIA Roles</div>
+      <div class="item">4.2 WAI-ARIA States and Properties</div>
+      <div class="item">4.3 Managing Focus and Supporting Keyboard Navigation</div>
+    </div>
+    <div class="group">
+      <div class="title">5. The Roles Model</div>
+      <div class="item">5.1 Relationships Between Concepts</div>
+      <div class="item">5.2 Characteristics of Roles</div>
+      <div class="item">5.3 Categorization of Roles</div>
+      <div class="item">5.4 Definition of Roles</div>
+    </div>
+    <div class="group">
+      <div class="title">6. Supported States and Properties</div>
+      <div class="item">6.1 Clarification of States versus Properties</div>
+      <div class="item">6.2 Characteristics of States and Properties</div>
+      <div class="item">6.3 ARIA Attributes</div>
+      <div class="item">6.4 Translatable States and Properties</div>
+      <div class="item">6.5 Global States and Properties</div>
+      <div class="item">6.6 Taxonomy of WAI-ARIA States and Properties</div>
+      <div class="item">6.7 Definitions of States and Properties (All aria-* Attributes)</div>
+    </div>
+    <div class="group">
+      <div class="title">7. Accessibility Tree</div>
+      <div class="item">7.1 Excluding Elements from the Accessibility Tree</div>
+      <div class="item">7.2 Including Elements in the Accessibility Tree</div>
+    </div>
+    <div class="group">
+      <div class="title">8. Implementation in Host Languages</div>
+      <div class="item">8.1 Role Attribute</div>
+      <div class="item">8.2 State and Property Attributes</div>
+      <div class="item">8.3 Focus Navigation</div>
+      <div class="item">8.4 Implicit WAI-ARIA Semantics</div>
+      <div class="item">8.5 Conflicts with Host Language Semantics</div>
+      <div class="item">8.6 State and Property Attribute Processing</div>
+      <div class="item">8.7 CSS Selectors</div>
+    </div>
+    <div class="group">
+      <div class="title">9. Handling Author Errors</div>
+      <div class="item">9.1 Roles</div>
+      <div class="item">9.2 States and Properties</div>
+    </div>
+    <div class="group">
+      <div class="title">10. IDL Interface</div>
+      <div class="item">10.1 Interface Mixin ARIAMixin</div>
+      <div class="item">10.2 ARIA Attribute Correspondence</div>
+      <div class="item">10.3 ARIAMixin Mixed in to Element</div>
+      <div class="item">10.4 Example IDL Attribute Usage</div>
+    </div>
+    <div class="group">
+      <div class="title">11. Privacy and Security Considerations</div>
+    </div>
+  </div>
+</div>
+</body></html>
