@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Learned Societies: its 7 members in one column: ACM, American Chemical Society, American Economic Association, American Geophysical Union, American Mathematical Society, American Physical Society, IEEE Computer Society.](media/learned-societies.png)
+![Learned Societies: its 7 members in rows, left to right: ACM, American Chemical Society, American Economic Association, American Geophysical Union, American Mathematical Society, American Physical Society, IEEE Computer Society.](media/learned-societies.png)
 
 ## Glossary
 

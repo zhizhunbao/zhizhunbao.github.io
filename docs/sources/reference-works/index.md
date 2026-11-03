@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Reference Works: its 8 members in one column: Cambridge Dictionary, MathWorld, MITRE ATT&CK, NIST CSRC Glossary, NIST DADS, RFC Editor, World of Physics, zbMATH Open.](media/reference-works.png)
+![Reference Works: its 8 members in rows, left to right: Cambridge Dictionary, MathWorld, MITRE ATT&CK, NIST CSRC Glossary, NIST DADS, RFC Editor, World of Physics, zbMATH Open.](media/reference-works.png)
 
 ## Glossary
 

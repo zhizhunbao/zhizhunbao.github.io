@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Government Agencies: its 2 members in one column: NIST, NLM.](media/government-agencies.png)
+![Government Agencies: its 2 members in rows, left to right: NIST, NLM.](media/government-agencies.png)
 
 ## Glossary
 

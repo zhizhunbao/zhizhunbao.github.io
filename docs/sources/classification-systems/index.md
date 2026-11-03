@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Classification Systems: its 11 members in one column: ACM CCS, AGROVOC, AGU Index Terms, CAS Sections, ELSST, IEEE Thesaurus, JEL, MeSH, MSC2020, PhySH, UNESCO Thesaurus.](media/classification-systems.png)
+![Classification Systems: its 11 members in rows, left to right: ACM CCS, AGROVOC, AGU Index Terms, CAS Sections, ELSST, IEEE Thesaurus, JEL, MeSH, MSC2020, PhySH, UNESCO Thesaurus.](media/classification-systems.png)
 
 ## Glossary
 

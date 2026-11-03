@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Standards Developing Organizations: its 9 members in one column: Ecma International, IEC, IETF, ISO, ISO/IEC JTC 1, Khronos Group, RISC-V International, W3C, WHATWG.](media/standards-developing-organizations.png)
+![Standards Developing Organizations: its 9 members in rows, left to right: Ecma International, IEC, IETF, ISO, ISO/IEC JTC 1, Khronos Group, RISC-V International, W3C, WHATWG.](media/standards-developing-organizations.png)
 
 ## Glossary
 

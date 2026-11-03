@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Curricula: its 2 members in one column: CC2020, CS2023.](media/curricula.png)
+![Curricula: its 2 members in rows, left to right: CC2020, CS2023.](media/curricula.png)
 
 ## Glossary
 

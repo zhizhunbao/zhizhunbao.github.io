@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Open-Source Projects: its 21 members in one column: Apache Software Foundation, Farama Foundation, Git, GraphQL Foundation, Kubernetes, Linux Kernel, LLVM, Model Context Protocol, Mozilla, Open Robotics, OpenCV, OpenJS Foundation, OWASP Foundation, PostgreSQL, pytest, Python Software Foundation, PyTorch Foundation, scikit-learn, Selenium, Stable-Baselines3, Vitest.](media/open-source-projects.png)
+![Open-Source Projects: its 21 members in rows, left to right: Apache Software Foundation, Farama Foundation, Git, GraphQL Foundation, Kubernetes, Linux Kernel, LLVM, Model Context Protocol, Mozilla, Open Robotics, OpenCV, OpenJS Foundation, OWASP Foundation, PostgreSQL, pytest, Python Software Foundation, PyTorch Foundation, scikit-learn, Selenium, Stable-Baselines3, Vitest.](media/open-source-projects.png)
 
 ## Glossary
 

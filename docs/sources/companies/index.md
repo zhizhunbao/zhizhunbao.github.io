@@ -8,7 +8,7 @@ ms.date: 2026-11-03
 
 ## Classification
 
-![Companies: its 28 members in one column: Amazon Web Services, Anthropic, Apple, Arm, Astral, Chroma, Cisco, Cypress.io, Docker, Flexera, Forrester, Gartner, GitHub, Google, Google DeepMind, Hugging Face, IDC, Intel, LinkedIn, LlamaIndex, Microsoft, MongoDB, NVIDIA, Ollama, OpenAI, Oracle, Redis, Ultralytics.](media/companies.png)
+![Companies: its 28 members in rows, left to right: Amazon Web Services, Anthropic, Apple, Arm, Astral, Chroma, Cisco, Cypress.io, Docker, Flexera, Forrester, Gartner, GitHub, Google, Google DeepMind, Hugging Face, IDC, Intel, LinkedIn, LlamaIndex, Microsoft, MongoDB, NVIDIA, Ollama, OpenAI, Oracle, Redis, Ultralytics.](media/companies.png)
 
 ## Glossary
 

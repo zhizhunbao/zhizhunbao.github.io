@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Certification Bodies: its 5 members in one column: Cisco, CompTIA, ISC2, ISTQB, Microsoft.](media/certification-bodies.png)
+![Certification Bodies: its 5 members in rows, left to right: Cisco, CompTIA, ISC2, ISTQB, Microsoft.](media/certification-bodies.png)
 
 ## Glossary
 
