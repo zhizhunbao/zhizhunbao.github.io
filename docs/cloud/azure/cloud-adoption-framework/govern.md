@@ -1,7 +1,7 @@
 ---
 title: "26.5 Govern"
 description: "Microsoft Azure, 26.5 Govern: Build governance team, Assess risks, Document policies, Enforce policies, Monitor compliance."
-ms.date: 2026-10-27
+ms.date: 2026-11-03
 ---
 
 # 26.5 Govern
@@ -14,7 +14,7 @@ ms.date: 2026-10-27
 
 | Term | Definition | 中文解释 | Source |
 |---|---|---|---|
-| **Govern**<br>治理 | "**Cloud governance** is how an organization **controls its use of cloud services by establishing guardrails**." | **云治理**是组织**通过建立防护措施来控制其云服务使用**的方式。 | [Microsoft, 2026b, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team#:~:text=Cloud%20governance%20is%20how%20an%20organization%20controls%20its) |
+| **Govern**<br>治理<br>(retired 2019–2023: the Five Disciplines of Cloud Governance: Cost Management, Security Baseline, Identity Baseline, Resource Consistency, Deployment Acceleration; [Microsoft, 2022](https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a535116/docs/govern/governance-disciplines.md)) | "**Cloud governance** is how an organization **controls its use of cloud services by establishing guardrails**." | **云治理**是组织**通过建立防护措施来控制其云服务使用**的方式。 | [Microsoft, 2026b, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team#:~:text=Cloud%20governance%20is%20how%20an%20organization%20controls%20its) |
 | **Build governance team**<br>组建治理团队 | (context) "The first step is to **establish a dedicated cloud governance team** to **oversee cloud governance across the organization**." | （语境）第一步是**建立专门的云治理团队**，**在整个组织中监督云治理**。 | [Microsoft, 2026b, para. 4](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team#:~:text=establish%20a%20dedicated%20cloud%20governance%20team) |
 | **Assess risks**<br>评估风险 | "A "risk" in this context is **any potential unwanted outcome**, such as a security breach, compliance violation, service outage, or cost overrun, that could result from **how the cloud is used**." | 此处的"风险"指**任何潜在的不良后果**，例如安全漏洞、合规违规、服务中断或成本超支，这些后果可能源于**云的使用方式**。 | [Microsoft, 2026a, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/assess-cloud-risks#:~:text=is%20any%20potential%20unwanted%20outcome) |
 | **Document policies**<br>记录策略 | (context) "For each significant risk or group of risks, there should be **one or more corresponding governance policies**." | （语境）对于每个重大风险或每组风险，都应有**一个或多个相应的治理策略**。 | [Microsoft, 2026c, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/document-cloud-governance-policies#:~:text=there%20should%20be%20one%20or%20more%20corresponding%20governance%20policies) |
@@ -23,6 +23,7 @@ ms.date: 2026-10-27
 
 ## References
 
+- Microsoft. (2022, January 28). *The Five Disciplines of Cloud Governance* [Retired Cloud Adoption Framework page; source file at commit a535116]. GitHub, MicrosoftDocs/cloud-adoption-framework. https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a535116/docs/govern/governance-disciplines.md
 - Microsoft. (2026a, March 9). *Assess cloud risks*. Cloud Adoption Framework. Microsoft Learn. https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/assess-cloud-risks
 - Microsoft. (2026b, October 1). *Build a cloud governance team*. Cloud Adoption Framework. Microsoft Learn. https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team
 - Microsoft. (2026c, June 25). *Document cloud governance policies*. Cloud Adoption Framework. Microsoft Learn. https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/document-cloud-governance-policies

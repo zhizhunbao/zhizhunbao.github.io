@@ -15,3 +15,5 @@ Follows `../README.md`. Figure on `index.md`: classification (see `../README.md`
 | 26.7 | `manage.md` | Manage | [Cloud Adoption Framework: Manage](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/manage/) | 26.7.1 Ready operations, 26.7.2 Administer Azure, 26.7.3 Monitor Azure, 26.7.4 Protect Azure |
 
 The migration strategies are defined in `../migration/` (24.1); 26.2.3 links there. The CST8913 site keeps the 2022 table of contents for its CAF pages; where a 2022 section moved (organizational alignment to Strategy, operating model to Plan, Innovate renamed Cloud-native), the sub-page notes it once.
+
+Retired names stay in parentheses under the current term, never as boxes or rows: the Govern row of 26.5 carries the 2019–2023 Five Disciplines of Cloud Governance (Cost Management, Security Baseline, Identity Baseline, Resource Consistency, Deployment Acceleration), which the 2024 Govern methodology replaced with its five steps; CST8913 W3 and W9 slides still use the old names (2026-11-03).

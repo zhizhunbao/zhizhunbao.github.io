@@ -106,6 +106,7 @@ A topic folder holds only:
   - Several rows quoting the same sentence: fine when the sentence names several components of the part (Datacenters: servers arranged in racks, power, cooling, networking infrastructure). When the boxes are example names (US DoD Central, China East), the source is giving examples, not kinds: find the kinds in the product documentation and box those instead (2.1 Sovereign regions: Azure Government, Microsoft Azure operated by 21Vianet, Microsoft Sovereign Cloud).
   - Double quotes inside a quote become single quotes.
   - The Chinese term names are my translation, without a note.
+  - A retired official name goes in parentheses in the Term cell of the current term that replaced it, as "(retired <years>: <names>; <citation>)", citing the retired page from the MicrosoftDocs GitHub history in `## References`. It is never a box, a row or a group: the structure stays the current one (2026-11-03, the Five Disciplines of Cloud Governance under 26.5 Govern).
 
 ## 6. Adding a term
 
