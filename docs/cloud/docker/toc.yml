@@ -1572,14 +1572,14 @@ items:
         href: manuals/build/buildkit/configure.md
       - name: "3.7.11.3 Custom Dockerfile syntax"
         href: manuals/build/buildkit/frontend.md
-      - name: "3.7.11.4 Releases · moby/buildkit · GitHub"
+      - name: "3.7.11.4 Releases, moby/buildkit, GitHub"
         href: manuals/build/buildkit/dockerfile-release-notes.md
     - name: "3.7.12 Debug"
       href: manuals/build/debug/index.md
       items:
       - name: "3.7.12.1 OpenTelemetry support"
         href: manuals/build/debug/opentelemetry.md
-    - name: "3.7.13 Releases · docker/buildx · GitHub"
+    - name: "3.7.13 Releases, docker/buildx, GitHub"
       href: manuals/build/release-notes.md
   - name: "3.8 Docker Build Cloud"
     href: manuals/build-cloud/index.md
@@ -2096,7 +2096,7 @@ items:
       items:
       - name: "3.15.8.1 Platform release notes"
         href: manuals/scout/release-notes/platform.md
-      - name: "3.15.8.2 Releases · docker/scout-cli · GitHub"
+      - name: "3.15.8.2 Releases, docker/scout-cli, GitHub"
         href: manuals/scout/release-notes/cli.md
   - name: "3.16 Accounts"
     href: manuals/accounts/index.md

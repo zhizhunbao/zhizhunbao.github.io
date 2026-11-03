@@ -1,11 +1,17 @@
 ---
 title: "4.1.1.11.9 docker image push"
-description: "Docker, 4.1.1.11.9 docker image push: not written yet."
+description: "Docker, 4.1.1.11.9 docker image push: its definition."
 ms.date: 2026-11-02
 ---
 
 # 4.1.1.11.9 docker image push
 
-Sources: [Docker Docs: docker image push](https://docs.docker.com/reference/cli/docker/image/push/)
+## Glossary
 
-Not written yet.
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **4.1.1.11.9 docker image push**<br>推送镜像（别名 docker push） | "**Upload an image to a registry**" | **把镜像上传到注册表** | [Docker Inc., n.d., "docker image push", table](https://docs.docker.com/reference/cli/docker/image/push/#:~:text=Upload%20an%20image%20to%20a%20registry) |
+
+## References
+
+Docker Inc. (n.d.). *docker image push*. Docker Docs. Retrieved November 2, 2026, from <https://docs.docker.com/reference/cli/docker/image/push/>
