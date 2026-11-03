@@ -1,0 +1,22 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Flexera"
+  href: flexera.md
+- name: "2. Gartner"
+  href: gartner.md
+- name: "3. IDC"
+  href: idc.md
+- name: "4. LinkedIn"
+  href: linkedin.md
+- name: "5. Microsoft"
+  href: microsoft.md
+- name: "6. News"
+  href: news/index.md
+  items:
+  - name: "6.1 2026"
+    href: news/2026.md
+  - name: "6.2 2025"
+    href: news/2025.md
+  - name: "6.3 2024"
+    href: news/2024.md

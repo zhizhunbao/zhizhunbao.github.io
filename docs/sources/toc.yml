@@ -131,43 +131,35 @@ items:
     href: companies/cypress-io.md
   - name: "8.9 Docker"
     href: companies/docker.md
-  - name: "8.10 Flexera"
-    href: companies/flexera.md
-  - name: "8.11 Forrester"
-    href: companies/forrester.md
-  - name: "8.12 Gartner"
-    href: companies/gartner.md
-  - name: "8.13 GitHub"
+  - name: "8.10 GitHub"
     href: companies/github.md
-  - name: "8.14 Google"
+  - name: "8.11 Google"
     href: companies/google.md
-  - name: "8.15 Google DeepMind"
+  - name: "8.12 Google DeepMind"
     href: companies/google-deepmind.md
-  - name: "8.16 Hugging Face"
+  - name: "8.13 Hugging Face"
     href: companies/hugging-face.md
-  - name: "8.17 IDC"
-    href: companies/idc.md
-  - name: "8.18 Intel"
+  - name: "8.14 Intel"
     href: companies/intel.md
-  - name: "8.19 LinkedIn"
+  - name: "8.15 LinkedIn"
     href: companies/linkedin.md
-  - name: "8.20 LlamaIndex"
+  - name: "8.16 LlamaIndex"
     href: companies/llamaindex.md
-  - name: "8.21 Microsoft"
+  - name: "8.17 Microsoft"
     href: companies/microsoft.md
-  - name: "8.22 MongoDB"
+  - name: "8.18 MongoDB"
     href: companies/mongodb.md
-  - name: "8.23 NVIDIA"
+  - name: "8.19 NVIDIA"
     href: companies/nvidia.md
-  - name: "8.24 Ollama"
+  - name: "8.20 Ollama"
     href: companies/ollama.md
-  - name: "8.25 OpenAI"
+  - name: "8.21 OpenAI"
     href: companies/openai.md
-  - name: "8.26 Oracle"
+  - name: "8.22 Oracle"
     href: companies/oracle.md
-  - name: "8.27 Redis"
+  - name: "8.23 Redis"
     href: companies/redis.md
-  - name: "8.28 Ultralytics"
+  - name: "8.24 Ultralytics"
     href: companies/ultralytics.md
 - name: "9. Open-Source Projects"
   href: open-source-projects/index.md
@@ -214,3 +206,21 @@ items:
     href: open-source-projects/stable-baselines3.md
   - name: "9.21 Vitest"
     href: open-source-projects/vitest.md
+- name: "10. Research and Advisory Firms"
+  href: research-and-advisory-firms/index.md
+  items:
+  - name: "10.1 Flexera"
+    href: research-and-advisory-firms/flexera.md
+  - name: "10.2 Forrester"
+    href: research-and-advisory-firms/forrester.md
+  - name: "10.3 Gartner"
+    href: research-and-advisory-firms/gartner.md
+  - name: "10.4 IDC"
+    href: research-and-advisory-firms/idc.md
+- name: "11. News Media"
+  href: news-media/index.md
+  items:
+  - name: "11.1 Fortune"
+    href: news-media/fortune.md
+  - name: "11.2 Semafor"
+    href: news-media/semafor.md

@@ -1,7 +1,7 @@
 ---
-title: "8.24 Ollama"
+title: "8.20 Ollama"
 description: "Sources > Companies > Ollama."
 ms.date: 2026-10-27
 ---
 
-# 8.24 Ollama
+# 8.20 Ollama

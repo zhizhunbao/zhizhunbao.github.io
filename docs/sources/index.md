@@ -8,7 +8,7 @@ ms.date: 2026-11-03
 
 ## Classification
 
-![Sources: the publishers and documents this site cites, in 9 kinds, one group each, members in alphabetical order: Standards Developing Organizations (Ecma International, IEC, IETF, ISO, ISO/IEC JTC 1, Khronos Group, RISC-V International, W3C, WHATWG); Government Agencies (NIST, NLM); Learned Societies (ACM, American Chemical Society, American Economic Association, American Geophysical Union, American Mathematical Society, American Physical Society, IEEE Computer Society); Classification Systems (ACM CCS, AGROVOC, AGU Index Terms, CAS Sections, ELSST, IEEE Thesaurus, JEL, MeSH, MSC2020, PhySH, UNESCO Thesaurus); Curricula (CC2020, CS2023); Reference Works (Cambridge Dictionary, MathWorld, MITRE ATT&CK, NIST CSRC Glossary, NIST DADS, RFC Editor, World of Physics, zbMATH Open); Certification Bodies (Cisco, CompTIA, ISC2, ISTQB, Microsoft); Companies (Amazon Web Services, Anthropic, Apple, Arm, Astral, Chroma, Cisco, Cypress.io, Docker, Flexera, Forrester, Gartner, GitHub, Google, Google DeepMind, Hugging Face, IDC, Intel, LinkedIn, LlamaIndex, Microsoft, MongoDB, NVIDIA, Ollama, OpenAI, Oracle, Redis, Ultralytics); Open-Source Projects (Apache Software Foundation, Farama Foundation, Git, GraphQL Foundation, Kubernetes, Linux Kernel, LLVM, Model Context Protocol, Mozilla, Open Robotics, OpenCV, OpenJS Foundation, OWASP Foundation, PostgreSQL, pytest, Python Software Foundation, PyTorch Foundation, scikit-learn, Selenium, Stable-Baselines3, Vitest).](media/sources.png)
+![Sources: the publishers and documents this site cites, in 11 kinds, one group each, members in alphabetical order: Standards Developing Organizations (Ecma International, IEC, IETF, ISO, ISO/IEC JTC 1, Khronos Group, RISC-V International, W3C, WHATWG); Government Agencies (NIST, NLM); Learned Societies (ACM, American Chemical Society, American Economic Association, American Geophysical Union, American Mathematical Society, American Physical Society, IEEE Computer Society); Classification Systems (ACM CCS, AGROVOC, AGU Index Terms, CAS Sections, ELSST, IEEE Thesaurus, JEL, MeSH, MSC2020, PhySH, UNESCO Thesaurus); Curricula (CC2020, CS2023); Reference Works (Cambridge Dictionary, MathWorld, MITRE ATT&CK, NIST CSRC Glossary, NIST DADS, RFC Editor, World of Physics, zbMATH Open); Certification Bodies (Cisco, CompTIA, ISC2, ISTQB, Microsoft); Companies (Amazon Web Services, Anthropic, Apple, Arm, Astral, Chroma, Cisco, Cypress.io, Docker, GitHub, Google, Google DeepMind, Hugging Face, Intel, LinkedIn, LlamaIndex, Microsoft, MongoDB, NVIDIA, Ollama, OpenAI, Oracle, Redis, Ultralytics); Open-Source Projects (Apache Software Foundation, Farama Foundation, Git, GraphQL Foundation, Kubernetes, Linux Kernel, LLVM, Model Context Protocol, Mozilla, Open Robotics, OpenCV, OpenJS Foundation, OWASP Foundation, PostgreSQL, pytest, Python Software Foundation, PyTorch Foundation, scikit-learn, Selenium, Stable-Baselines3, Vitest); Research and Advisory Firms (Flexera, Forrester, Gartner, IDC); News Media (Fortune, Semafor).](media/sources.png)
 
 ## Glossary
 
@@ -24,6 +24,8 @@ ms.date: 2026-11-03
 | **[Certification Bodies](certification-bodies/index.md)**<br>认证机构 | (context) "the process of **giving official or legal approval** to a person, company, product, etc. that has **reached a particular standard**" | （语境）对**达到特定标准**的个人、公司、产品等**给予正式或法定认可**的过程 | [Cambridge University Press & Assessment, n.d., "certification" noun](https://dictionary.cambridge.org/dictionary/english/certification) |
 | **[Companies](companies/index.md)**<br>公司 | "an **organization that sells goods or services** in order to **make money**" | 一个**销售商品或服务**以**赚钱**的组织 | [Cambridge University Press & Assessment, n.d., "company" noun (BUSINESS)](https://dictionary.cambridge.org/dictionary/english/company) |
 | **[Open-Source Projects](open-source-projects/index.md)**<br>开源项目 | (context) "Open source software or information can be **obtained legally and for free** from the internet, and can be **used, shared or changed** without paying or asking for special permission" | （语境）开源软件或信息可以从互联网上**合法、免费地获取**，并且无需付费或特别许可就能**使用、分享或修改** | [Cambridge University Press & Assessment, n.d., "open source" adjective](https://dictionary.cambridge.org/dictionary/english/open-source) |
+| **[Research and Advisory Firms](research-and-advisory-firms/index.md)**<br>研究咨询公司 | (context) "**detailed study of a subject**, especially in order to **discover new information** about something or reach a new understanding of it" | （语境）对某一主题的**详细研究**，尤其是为了**发现新信息**或获得新的理解 | [Cambridge University Press & Assessment, n.d., "research" noun, definition 1](https://dictionary.cambridge.org/dictionary/english/research) |
+| **[News Media](news-media/index.md)**<br>新闻媒体 | "forms of communication, including the internet, newspapers, magazines, television, etc., that **collect and give information about current events**, considered as a group" | 互联网、报纸、杂志、电视等**收集并提供时事信息**的传播形式的总称 | [Cambridge University Press & Assessment, n.d., "news media" noun](https://dictionary.cambridge.org/dictionary/english/news-media) |
 
 ## References
 
@@ -35,9 +37,13 @@ Cambridge University Press & Assessment. (n.d.). Company. In *Cambridge Dictiona
 
 Cambridge University Press & Assessment. (n.d.). Curriculum. In *Cambridge Dictionary*. Retrieved October 27, 2026, from <https://dictionary.cambridge.org/dictionary/english/curriculum>
 
+Cambridge University Press & Assessment. (n.d.). News media. In *Cambridge Dictionary*. Retrieved November 3, 2026, from <https://dictionary.cambridge.org/dictionary/english/news-media>
+
 Cambridge University Press & Assessment. (n.d.). Open source. In *Cambridge Dictionary*. Retrieved October 27, 2026, from <https://dictionary.cambridge.org/dictionary/english/open-source>
 
 Cambridge University Press & Assessment. (n.d.). Reference book. In *Cambridge Dictionary*. Retrieved October 27, 2026, from <https://dictionary.cambridge.org/dictionary/english/reference-book>
+
+Cambridge University Press & Assessment. (n.d.). Research. In *Cambridge Dictionary*. Retrieved November 3, 2026, from <https://dictionary.cambridge.org/dictionary/english/research>
 
 Cambridge University Press & Assessment. (n.d.). Society. In *Cambridge Dictionary*. Retrieved October 27, 2026, from <https://dictionary.cambridge.org/dictionary/english/society>
 

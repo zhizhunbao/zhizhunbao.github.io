@@ -73,7 +73,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 - Boxes and group titles are terms, never page titles ("What are Azure regions?") or category labels. A table-of-contents group with no terms of its own is left out of the figure, the menu and the sub-pages.
 - Border colour: orange (#e8a317, like the frame and group names) for a term defined on this page; blue for a term whose definition lives on a sub-page. An entry built from one book or documentation set uses blue for every item instead ("Levels, numbers and figures of a source").
 - Sub-page figure: every term defined on the page is one box in a single column, in source order. A part without sub-items is a plain box, never an empty dashed group. A box with sub-terms gets a dashed group beside the column, titled with the same name and joined by a blue dashed curve from the box to the group title (template `figures/cloud/azure/cloud-adoption-framework/plan.html`; a plain column: `figures/cloud/azure/compute/specialty-workloads.html`).
-- Overview figure: one dashed group per sub-page, with blue boxes; it does not show the sub-pages' own expansions.
+- Overview figure: one dashed group per sub-page, with blue boxes; it does not show the sub-pages' own expansions. A Sources kind figure (since 2026-11-03) flows its members in rows, left to right, wrapping at the page width, with blue borders.
 - Every box of a figure, the frame and group titles included, has its row in the Glossary below it: a sub-page's Glossary starts with the row of the frame (the entry) and the row of its group, then the rows of the boxes (since 2026-10-29).
 - No floating boxes: never a single box above the column or the groups. A product that spans every group is not drawn; its parts sit in their groups.
 - A third-level topic without several groups gets no list of fourth-level stub pages; its Overview Glossary holds every item.
@@ -84,7 +84,7 @@ Content has official sources; section names are the common names of the field.
 
 ### Top bar
 
-- `docs/toc.yml`: Home, Projects and Sources first, then two dropdowns, Computing and Science (2026-10-30); the computing sections are not top-bar entries of their own.
+- `docs/toc.yml`: Home, Projects, Sources and Market first, then two dropdowns, Computing and Science (2026-10-30; Market since 2026-11-03); the computing sections are not top-bar entries of their own.
 - A section name is the common name of the field (AI, Algorithms, Security, UI/UX). It is not an official classification, so each section states the knowledge area of the ACM/IEEE-CS/AAAI Computer Science Curricula 2023, CS2023 ([Joint Task Force on Computing Curricula, 2024](https://doi.org/10.1145/3664191)), it maps to, as in the table under CS2023 entries.
 - Courses get no top-level section. What a course teaches lands in the section of its field.
 - Exception, temporary (2026-11-01, until I graduate, then deleted): Courses, after Science, is one page mapping each course's weeks, labs and exams to the pages of the fields, plus oral exam practice scripts marked as my own text; it defines no terms.
@@ -95,11 +95,15 @@ Content has official sources; section names are the common names of the field.
 - A project goes under the industry of the organization it was built for (NAICS classifies establishments): Offer2PR under 56 (561310, "Internet job listing services"), the ECG viewer under 31-33 (its client makes the ECG recorder), Textbook RAG under 61, and the MOLIT, Gangwon and City of Ottawa projects under 91.
 - Project pages stay at `docs/projects/<name>.md` (their links are shared) and are listed under their sector in the menu; the Overview keeps the full project table, newest first.
 
+### Market
+
+- Market (since 2026-11-03) is not a field: it holds the time-bound information the field pages must not. Its first level is the publishers (Flexera, Gartner, IDC, LinkedIn, Microsoft), one page each: a figure of the publisher's report series, a Glossary row per series quoting its own description, and a Timeline table with one row per edition (date, report, scope, key figures quoted, source with section), oldest first; a new edition adds a row and old rows stay. News comes last: one page per year, newest first, one row per dated event quoting its source; news pages define no terms, so they have no figure. A field page that needs a market figure links to the row here instead of quoting it.
+
 ### Sources
 
-- Sources (since 2026-10-27) is not a field: its Overview sorts every publisher and document the site cites into kinds (standards developing organizations, government agencies, learned societies, classification systems, curricula, reference works, certification bodies, companies, open-source projects), each kind defined from Cambridge Dictionary or the NIST CSRC glossary.
+- Sources (since 2026-10-27) is not a field: its Overview sorts every publisher and document the site cites into kinds (standards developing organizations, government agencies, learned societies, classification systems, curricula, reference works, certification bodies, companies, open-source projects, and since 2026-11-03 research and advisory firms and news media), each kind defined from Cambridge Dictionary or the NIST CSRC glossary.
 - Organizations are never second-level entries of a field.
-- Order: by importance first, alphabetical within a tie. The kinds are numbered from the most formal source to product documentation (standards developing organizations, government agencies, learned societies, then the documents: classification systems, curricula, reference works, then certification bodies, companies, open-source projects); the members of a kind are equally important, so they are alphabetical (case ignored).
+- Order: by importance first, alphabetical within a tie. The kinds are numbered from the most formal source to product documentation (standards developing organizations, government agencies, learned societies, then the documents: classification systems, curricula, reference works, then certification bodies, companies, open-source projects, research and advisory firms, news media); the members of a kind are equally important, so they are alphabetical (case ignored).
 
 ### Computing dropdown
 
