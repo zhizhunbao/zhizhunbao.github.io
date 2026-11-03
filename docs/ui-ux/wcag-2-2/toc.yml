@@ -56,3 +56,5 @@ items:
     href: conformance/privacy-considerations.md
   - name: "5.7 Security Considerations"
     href: conformance/security-considerations.md
+- name: "6. Glossary"
+  href: glossary.md

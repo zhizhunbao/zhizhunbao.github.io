@@ -28,7 +28,7 @@
       <div class="item">1.5 Authoring Practices</div>
       <div class="item">1.6 Assistive Technologies</div>
     </div>
-    <div class="group terms">
+    <div class="group wide terms">
       <div class="title">2. Important Terms</div>
       <div class="flow">
         <div class="item">Accessibility API</div>
@@ -145,4 +145,19 @@
     </div>
   </div>
 </div>
+<script>
+  // groups share the page width in equal columns: as many columns as the fullest row holds; a group that wraps keeps the
+  // column width; a group whose content is wider than a column keeps its own width; a full-width (wide) group stays out
+  const row = document.querySelector('.row'), gs = [...row.querySelectorAll(':scope > .group:not(.wide)')];
+  if (gs.length > 1) {
+    gs.forEach(g => { g.style.flex = '0 0 auto'; });
+    const natural = gs.map(g => g.offsetWidth);
+    gs.forEach(g => { g.style.flex = ''; });
+    const rows = {};
+    gs.forEach(g => { rows[g.offsetTop] = (rows[g.offsetTop] || 0) + 1; });
+    const n = Math.max(...Object.values(rows));
+    const w = (row.clientWidth - 20 * (n - 1)) / n;
+    gs.forEach((g, i) => { const x = Math.max(w, natural[i]); g.style.flex = '0 0 ' + x + 'px'; g.style.width = x + 'px'; });
+  }
+</script>
 </body></html>

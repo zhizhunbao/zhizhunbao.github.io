@@ -10,10 +10,11 @@
   .group .title { white-space: nowrap; color: #0f6cbd; font-size: 19px; margin-bottom: 12px; }
   .item { border: 1.5px solid #0f6cbd; background: #f3f7fd; border-radius: 3px; height: 34px; margin-bottom: 8px; white-space: nowrap; padding: 0 12px;
           display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; color: #222; }
+  .stack { display: flex; flex-direction: column; }
+  .stack .item { margin-bottom: 8px; }
   .flow { display: flex; flex-wrap: wrap; gap: 8px; }
   .flow .item { margin-bottom: 0; }
   .group.wide { flex: 1 1 100%; }
-  .row .group { flex: 0 1 auto; }
   .row { width: auto; max-width: 1220px; }
 </style>
 </head>
@@ -22,7 +23,6 @@
   <div class="title">5.2 Conformance Requirements</div>
   <div class="row">
     <div class="group">
-      <div class="title">5.2 Conformance Requirements</div>
         <div class="item">5.2.1 Conformance Level</div>
         <div class="item">5.2.2 Full pages</div>
         <div class="item">5.2.3 Complete processes</div>
@@ -31,4 +31,19 @@
     </div>
   </div>
 </div>
+<script>
+  // groups share the page width in equal columns: as many columns as the fullest row holds; a group that wraps keeps the
+  // column width; a group whose content is wider than a column keeps its own width; a full-width (wide) group stays out
+  const row = document.querySelector(\'.row\'), gs = [...row.querySelectorAll(\':scope > .group:not(.wide)\')];
+  if (gs.length > 1) {
+    gs.forEach(g => { g.style.flex = \'0 0 auto\'; });
+    const natural = gs.map(g => g.offsetWidth);
+    gs.forEach(g => { g.style.flex = \'\'; });
+    const rows = {};
+    gs.forEach(g => { rows[g.offsetTop] = (rows[g.offsetTop] || 0) + 1; });
+    const n = Math.max(...Object.values(rows));
+    const w = (row.clientWidth - 20 * (n - 1)) / n;
+    gs.forEach((g, i) => { const x = Math.max(w, natural[i]); g.style.flex = \'0 0 \' + x + \'px\'; g.style.width = x + \'px\'; });
+  }
+</script>
 </body></html>
