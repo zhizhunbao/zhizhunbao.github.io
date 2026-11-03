@@ -8,7 +8,7 @@ ms.date: 2026-11-03
 
 ## Classification
 
-![Market: one group per publisher with its report series, then News by year: Flexera (State of the Cloud); Gartner (Public Cloud Spending Forecast); IDC (Public Cloud Spending Forecast); LinkedIn (Work Change Report); Microsoft (Work Trend Index); News (2026, 2025, 2024).](media/market.png)
+![Market: one group per publisher with its report series, then News by year: Flexera (State of the Cloud); Gartner (Hype Cycle for Cloud Platform Services, Magic Quadrant for Strategic Cloud Platform Services, Public Cloud Spending Forecast); IDC (Worldwide Software and Public Cloud Services Spending Guide); LinkedIn (Global Talent Trends, Work Change Report); Microsoft (Digital Defense Report, Work Trend Index); News (2026, 2025, 2024).](media/market.png)
 
 ## Glossary
 
