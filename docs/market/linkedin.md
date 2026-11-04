@@ -1,6 +1,6 @@
 ---
 title: "4. LinkedIn"
-description: "Market > LinkedIn: its reports on a timeline, one row per edition, oldest first."
+description: "Market > LinkedIn: its reports on a timeline, one row per edition, newest first."
 ms.date: 2026-11-03
 ---
 
@@ -22,8 +22,8 @@ ms.date: 2026-11-03
 
 | Date | Report | Scope | Key figures | Source |
 |---|---|---|---|---|
-|  2024-10 | Global Talent Trends, October 2024 | "we surface data insights from **LinkedIn's Economic Graph**, the **LinkedIn Executive Confidence Index survey**, and our global member community of **over a billion professionals**" | <ul><li>"**Internal mobility has increased 6%** year-over-year."</li><li>"About **8 in 10 global executives** see at least one way **GAI will help their employees**."</li><li>"Employees skilled at using GAI are **5x more likely** than others to develop skills like creative ideation, design thinking, and emotional intelligence."</li><li>"**69% of U.S. executives** say they plan to prioritize hiring candidates with **soft skills**."</li></ul> | [LinkedIn Talent Solutions, 2024, intro para. 4 and the sections "Hiring around the world is sluggish", "The time for organizations to welcome GAI is now", "AI adoption goes hand in hand with broad skill development", "Recruiting leaders will be zeroing in on soft skills"](https://business.linkedin.com/talent-solutions/global-talent-trends)  |
-|  2025-01 | Work Change Report: AI is coming to work | "Using insights gained from **more than one billion professionals and 69 million companies** across LinkedIn" | <ul><li>"By 2030, **70% of the skills used in most jobs will change**, with AI emerging as a catalyst."</li><li>"Since 2022, the rate at which LinkedIn members **add new skills** to their profiles has **increased by 140%**."</li></ul> | [LinkedIn Economic Graph, 2025, "These changes are starting to be felt in the workplace" section](https://pulse.linkedin.com/research-and-trends/publications/work-change-report)  |
+| 2025-01 | Work Change Report: AI is coming to work | "Using insights gained from **more than one billion professionals and 69 million companies** across LinkedIn" | <ul><li>"By 2030, **70% of the skills used in most jobs will change**, with AI emerging as a catalyst."</li><li>"Since 2022, the rate at which LinkedIn members **add new skills** to their profiles has **increased by 140%**."</li></ul> | [LinkedIn Economic Graph, 2025, "These changes are starting to be felt in the workplace" section](https://pulse.linkedin.com/research-and-trends/publications/work-change-report)  |
+| 2024-10 | Global Talent Trends, October 2024 | "we surface data insights from **LinkedIn's Economic Graph**, the **LinkedIn Executive Confidence Index survey**, and our global member community of **over a billion professionals**" | <ul><li>"**Internal mobility has increased 6%** year-over-year."</li><li>"About **8 in 10 global executives** see at least one way **GAI will help their employees**."</li><li>"Employees skilled at using GAI are **5x more likely** than others to develop skills like creative ideation, design thinking, and emotional intelligence."</li><li>"**69% of U.S. executives** say they plan to prioritize hiring candidates with **soft skills**."</li></ul> | [LinkedIn Talent Solutions, 2024, intro para. 4 and the sections "Hiring around the world is sluggish", "The time for organizations to welcome GAI is now", "AI adoption goes hand in hand with broad skill development", "Recruiting leaders will be zeroing in on soft skills"](https://business.linkedin.com/talent-solutions/global-talent-trends)  |
 
 ## References
 
