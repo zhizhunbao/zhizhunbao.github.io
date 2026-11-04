@@ -1,20 +1,23 @@
 ---
 title: "20.2 Governance and Compliance"
 description: "Microsoft Azure, 20.2 Governance and compliance: Microsoft Purview, Azure Policy, Resource locks, Service Trust Portal."
-ms.date: 2026-10-26
+ms.date: 2026-11-04
 ---
 
 # 20.2 Governance and Compliance
 
 ## Classification
 
-![Governance and compliance: Microsoft Purview, Azure Policy, resource locks and the Service Trust Portal, one unit each of the AZ-900 module, with Microsoft Purview expanded into its two solution areas, risk and compliance and unified data governance.](media/governance-and-compliance.png)
+![Governance and compliance: Microsoft Purview, Azure Policy, resource locks and the Service Trust Portal, one unit each of the AZ-900 module, with Microsoft Purview expanded into its two solution areas, risk and compliance and unified data governance. Microsoft Purview also expands to Sensitive data classification, which expands to Classifiers and Sensitivity labels.](media/governance-and-compliance.png)
 
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Microsoft Purview**<br>Microsoft Purview | "Microsoft Purview is a **family of data governance, risk, and compliance solutions** that helps you get a **single, unified view into your data**." | Microsoft Purview 是一系列**数据治理、风险和合规解决方案**，帮助你获得**数据的单一、统一视图**。 | [Microsoft, n.d.-b, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview#:~:text=is%20a%20family%20of%20data%20governance) |
+| **Sensitive data classification**<br>敏感数据分类 | (context) "With Microsoft Purview, you can stay up-to-date on your data landscape thanks to: Automated data discovery; **Sensitive data classification**; End-to-end data lineage" | （语境）借助 Microsoft Purview，你能随时掌握自己的数据全貌，靠的是：自动数据发现；**敏感数据分类**；端到端数据世系。 | [Microsoft, n.d.-b, para. 2 and list](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview#:~:text=Sensitive%20data%20classification) |
+| **Classifiers**<br>分类器 | "Microsoft Purview classifiers help administrators **identify sensitive content** so they can **protect and manage it**." | Microsoft Purview 分类器帮助管理员**识别敏感内容**，以便**保护和管理这些内容**。 | [Microsoft, 2026a, para. 1](https://learn.microsoft.com/en-us/purview/data-classification-overview#:~:text=classifiers%20help%20administrators%20identify%20sensitive%20content) |
+| **Sensitivity labels**<br>敏感度标签 | "When you assign a sensitivity label to content, it's like a **stamp that you apply**. The label is: **Customizable.** You can create categories that fit your organization's specific business needs for **different levels of sensitive content**. For example, you might use categories like **Personal, Public, General, Confidential, and Highly Confidential**." | 给内容分配敏感度标签，就像**盖一个章**。这个标签：**可自定义**。你可以按组织的业务需要，为**不同敏感级别的内容**创建类别，例如 **Personal、Public、General、Confidential 和 Highly Confidential**。 | [Microsoft, 2026b, "What a sensitivity label is" section, para. 1 and list item 1](https://learn.microsoft.com/en-us/purview/sensitivity-labels#:~:text=like%20Personal%2C%20Public%2C%20General%2C%20Confidential%2C%20and%20Highly%20Confidential) |
 | **Risk and compliance**<br>风险和合规 | "Microsoft Purview, by **managing and monitoring your data**, helps your team: **Protect sensitive data** across clouds, apps, and devices. **Identify data risks and manage regulatory compliance requirements**. Get started with regulatory compliance." | Microsoft Purview 通过**管理和监控你的数据**，帮助你的团队：跨云、应用和设备**保护敏感数据**；**识别数据风险并管理法规合规要求**；开始着手法规合规。 | [Microsoft, n.d.-b, "Microsoft Purview risk and compliance solutions" section, para. 1 and list](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview#:~:text=by%20managing%20and%20monitoring%20your%20data) |
 | **Unified data governance**<br>统一数据治理 | "Microsoft Purview has **robust, unified data governance solutions** that help **manage your on-premises, multicloud, and software as a service data**." | Microsoft Purview 拥有**强大、统一的数据治理解决方案**，帮助**管理你的本地、多云和软件即服务数据**。 | [Microsoft, n.d.-b, "Unified data governance" section, para. 1](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview#:~:text=has%20robust%2C%20unified%20data%20governance%20solutions) |
 | **Azure Policy**<br>Azure 策略 | "Azure Policy is a service in Azure that enables you to **create, assign, and manage policies** that **control or audit your resources**." | Azure Policy 是 Azure 中的一项服务，让你能够**创建、分配和管理策略**，用这些策略来**控制或审核你的资源**。 | [Microsoft, n.d.-a, para. 2](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/3-describe-purpose-azure-policy#:~:text=Azure%20Policy%20is%20a%20service%20in%20Azure) |
@@ -23,6 +26,8 @@ ms.date: 2026-10-26
 
 ## References
 
+- Microsoft. (2026a, September 30). *Microsoft Purview classifiers overview*. Microsoft Learn. https://learn.microsoft.com/en-us/purview/data-classification-overview
+- Microsoft. (2026b, October 29). *Learn about sensitivity labels*. Microsoft Learn. https://learn.microsoft.com/en-us/purview/sensitivity-labels
 - Microsoft. (n.d.-a). *Describe the purpose of Azure Policy* [Training unit]. Microsoft Learn. Retrieved October 25, 2026, from <https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/3-describe-purpose-azure-policy>
 - Microsoft. (n.d.-b). *Describe the purpose of Microsoft Purview* [Training unit]. Microsoft Learn. Retrieved October 25, 2026, from <https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview>
 - Microsoft. (n.d.-c). *Describe the purpose of resource locks* [Training unit]. Microsoft Learn. Retrieved October 25, 2026, from <https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/4-describe-purpose-resource-locks>
