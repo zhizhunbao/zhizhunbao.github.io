@@ -106,6 +106,8 @@ function content() {
     if (first === 'Term' && /Source/.test(t.querySelector('th:last-child')?.textContent || '') && t.rows[0]?.cells.length === 4) t.classList.add('kb-terms')
     // coverage tables (Week | Group | Terms in the course | Source): narrow week, wide terms
     if (first === 'Week' && t.rows[0]?.cells.length === 4) t.classList.add('kb-coverage')
+    // dated tables (Market timelines and news: Date | ...): the date never wraps
+    if (first === 'Date') t.classList.add('kb-dated')
     const wrap = el('div', { class: 'table-wrapper' })
     t.replaceWith(wrap)
     wrap.append(t)
