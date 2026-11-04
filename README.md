@@ -97,7 +97,7 @@ Content has official sources; section names are the common names of the field.
 
 ### Market
 
-- Market (since 2026-11-03) is not a field: it holds the time-bound information the field pages must not. Its first level is the publishers (Flexera, Gartner, IDC, LinkedIn, Microsoft), one page each: a figure of the publisher's report series, a Glossary row per series quoting its own description, and a Timeline table with one row per edition (date, report, scope, key figures quoted, source with section), oldest first; a new edition adds a row and old rows stay. News comes last: one page per year, newest first, one row per dated event quoting its source; news pages define no terms, so they have no figure. A field page that needs a market figure links to the row here instead of quoting it.
+- Market (since 2026-11-03) is not a field: it holds the time-bound information the field pages must not. Its first level is the publishers (Flexera, Gartner, IDC, LinkedIn, Microsoft), one page each: a figure of the publisher's report series, a Glossary row per series quoting its own description, and a Timeline table with one row per edition (date, report, scope, key figures quoted as a bulleted list inside the cell, source with section), oldest first; a new edition adds a row and old rows stay. News comes last: one page per year, newest first, one row per dated event quoting its source; news pages define no terms, so they have no figure. A field page that needs a market figure links to the row here instead of quoting it.
 
 ### Sources
 

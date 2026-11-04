@@ -315,3 +315,6 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
   #kb-primary-nav .site-header-divider { margin-inline: 6px; height: 20px; }
   #kb-primary-nav .site-header-brand { font-size: 17px; font-weight: 600; padding-inline: 0; }
 }
+
+/* lists inside table cells (Market timelines, since 2026-11-03): no top margin, a short indent */
+.content td ul, .content td ol { margin: 0; padding-inline-start: 18px; }
