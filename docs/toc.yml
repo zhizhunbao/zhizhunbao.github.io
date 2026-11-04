@@ -5,8 +5,6 @@ items:
   href: projects/
 - name: Sources
   href: sources/
-- name: Market
-  href: market/
 - name: Computing
   items:
   - name: AI
@@ -63,3 +61,5 @@ items:
     href: earth-sciences/
 - name: Courses
   href: courses/
+- name: Market
+  href: market/
