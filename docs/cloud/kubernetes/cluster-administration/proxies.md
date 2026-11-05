@@ -10,7 +10,7 @@ ms.date: 2026-10-31
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **12.12 Proxies in Kubernetes**<br>Kubernetes 中的代理 | (context) "There are **several different proxies you may encounter when using Kubernetes**:" | （语境）使用 Kubernetes 时，**你可能会遇到几种不同的代理**： | [The Kubernetes Authors, n.d., "Proxies", para. 1](https://kubernetes.io/docs/concepts/cluster-administration/proxies/#:~:text=There%20are%20several%20different%20proxies%20you%20may) |
+| **12.12 Proxies in Kubernetes**<br>Kubernetes 中的代理 | (context) "There are **several different proxies** you may encounter **when using Kubernetes**:" | （语境）有**几种不同的代理**，你可能在**使用 Kubernetes 时**遇到： | [The Kubernetes Authors, n.d., "Proxies", para. 1](https://kubernetes.io/docs/concepts/cluster-administration/proxies/#:~:text=There%20are%20several%20different%20proxies%20you%20may) |
 
 ## References
 

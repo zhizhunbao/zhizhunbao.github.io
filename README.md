@@ -233,6 +233,7 @@ The CS2023 knowledge areas, ordered by the CS2023 competency areas (Software, Sy
 - Names are terms: a source title phrased as a question carries the term the page defines ("What is an image?" is Image).
 - Items are terms only, never section headings: a page's sections that hold terms are its groups, numbered in page order; terms in the page's opening are group 0 (2.2.0), as in the books; a section that holds none is not drawn. A term in a note or a hands-on step is placed in the section that holds it.
 - A placeholder of a syntax or format (`HOST_PORT`, `TAG`) is a term when the source defines it; options and flags (`-p`, `--memory`) are not, except in Docker, where commands and options are terms too (2026-11-02).
+- The entry row of a page quotes the first sentence of the page that says what the term is (its definition), never a sentence chosen for carrying the italic name: banners, feature-gate notes, "This page describes" lines and background sentences are skipped. Where the page gives a second defining sentence, the page-0 row quotes it instead of "(No definition)" (since 2026-11-04: Deployments quoted its second sentence and Pods skipped its first; a scan of every entry row whose Source is not para. 1 found those two and Workload API).
 - A word the source sets in italics as the name of a concept is a term too (*desired state*, *handling API server*), as the books' emphasized words are; every written page is checked by script for italic words missing from its Glossary.
 
 ## Pages

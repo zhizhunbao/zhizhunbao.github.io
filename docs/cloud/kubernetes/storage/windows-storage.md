@@ -10,7 +10,7 @@ ms.date: 2026-10-31
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **6.16 Windows Storage**<br>Windows 存储 | (context) "Windows has **a layered filesystem driver to mount container layers and create a copy filesystem based on NTFS**." | （语境）Windows 有**一个分层文件系统驱动，用来挂载容器层并创建基于 NTFS 的副本文件系统**。 | [The Kubernetes Authors, n.d., "Persistent storage", para. 1](https://kubernetes.io/docs/concepts/storage/windows-storage/#:~:text=Windows%20has%20a%20layered%20filesystem%20driver%20to) |
+| **6.16 Windows Storage**<br>Windows 存储 | (context) "Windows has **a layered filesystem driver** to **mount container layers** and **create a copy filesystem based on NTFS**." | （语境）Windows 有**一个分层文件系统驱动**，用来**挂载容器层**并**创建基于 NTFS 的副本文件系统**。 | [The Kubernetes Authors, n.d., "Persistent storage", para. 1](https://kubernetes.io/docs/concepts/storage/windows-storage/#:~:text=Windows%20has%20a%20layered%20filesystem%20driver%20to) |
 
 ## References
 
