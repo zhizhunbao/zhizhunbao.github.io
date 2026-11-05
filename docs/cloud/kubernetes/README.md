@@ -6,6 +6,8 @@ The site lists the official menu as it stands, names, order and nesting unchange
 
 Status (2026-10-31): all 14 groups are written. A group or entry whose own page has text and pages under it is a chapter: its own text is page 0 (1.2.0, 2.0, 4.1.0 and the like), and its index page lists page 0 and the pages under it. A page's sections that hold terms are its groups, its opening is group 0, and terms are quoted from the page; on pages that open with a feature-state banner the entry row quotes the first defining sentence. Every quote is checked against the cache by the generator, and every page by script for italic concept names missing from its Glossary (README, "Levels, numbers and figures of a source").
 
+Added by hand (2026-11-04): 4.2.1 Deployments gains 4.2.1.2 Rolling Back a Deployment with its term revision, a concept the page names in plain text in that section's Note (CST8915 Week 9 names rollbacks); the later sections moved to 4.2.1.3 to 4.2.1.5.
+
 Left out on the pages (besides the noise kinds of the ROS 2 README): field paths, flags and command-line options; tables of fields, metrics and examples; FAQ, troubleshooting, good-practice and limitation sections. Three quotes stop before a phrase the source sets in bold (leader election on Running multiple schedulers, hierarchical quorum on Gang Scheduling, PodGroup scheduling cycle), since the quote check strips bold; those bold names are not boxes yet.
 
 Left out (no terms, by the menu's own labels or content):
