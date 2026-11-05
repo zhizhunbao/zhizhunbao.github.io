@@ -35,6 +35,7 @@ Source of <https://zhizhunbao.github.io>. Same setup as Microsoft Learn: Markdow
 
 - Term tables (`Term | Definition | 中文翻译 | Source`): the Chinese column translates the English definition.
 - Key words are bold in the same order in both cells, and `kb.css` gives the n-th bold of each cell the same colour. A row bolds at least two key phrases (since 2026-11-03), so a definition reads as two or more coloured parts (subject and predicate, condition and result); only a definition too short to split keeps one. Two bold phrases never touch: a word or punctuation stands between them.
+- The Definition and 中文翻译 cells carry no links (since 2026-11-04): a link the source sets inside the quoted sentence is dropped and its text kept, so a bold phrase is one colour and a link never sits against a `**` marker (the Kubernetes pages written on 2026-10-31 still carry theirs until each is revised).
 - Full-width punctuation (。，（）) stays outside the `**` markers (`**定义动机、使命和目标**。确立`, `**Microsoft 云采用框架**（CAF）`); otherwise Markdig pairs the bold wrongly and the colours no longer match.
 - Chinese term names and translations are my own (no cached Chinese pages); brand names stay in English.
 - Each row quotes its own source in full; no rows that only link to another page.
