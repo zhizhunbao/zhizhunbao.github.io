@@ -16,7 +16,7 @@ ms.date: 2026-11-02
 |---|---|---|---|
 | **3.5 Docker Engine**<br>Docker Engine | (No definition) | （无定义） | [Docker Inc., n.d., "Docker Engine", documentation menu](https://docs.docker.com/engine/) |
 | **3.5.0 Introduction**<br>简介 | (No definition) | （无定义） | [Docker Inc., n.d., "Docker Engine", opening](https://docs.docker.com/engine/) |
-| **Docker Engine**<br>Docker 引擎 | "Docker Engine is **an open source containerization technology for building and containerizing your applications**." | Docker Engine 是**一种开源容器化技术，用于构建和容器化你的应用**。 | [Docker Inc., n.d., "Docker Engine", para. 1](https://docs.docker.com/engine/#:~:text=Docker%20Engine%20is%20an%20open%20source%20containerization%20technology) |
+| **Docker Engine**<br>Docker 引擎 | "Docker Engine is **an open source containerization technology** for **building and containerizing your applications**." | Docker Engine 是**一种开源容器化技术**，用于**构建和容器化你的应用**。 | [Docker Inc., n.d., "Docker Engine", para. 1](https://docs.docker.com/engine/#:~:text=Docker%20Engine%20is%20an%20open%20source%20containerization%20technology) |
 
 ## References
 

@@ -10,7 +10,7 @@ ms.date: 2026-11-02
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **4.1.1.6.21 docker container stop**<br>停止容器（别名 docker stop） | "**Stop one or more running containers**" | **停止一个或多个正在运行的容器** | [Docker Inc., n.d., "docker container stop", table](https://docs.docker.com/reference/cli/docker/container/stop/#:~:text=Stop%20one%20or%20more%20running%20containers) |
+| **4.1.1.6.21 docker container stop**<br>停止容器（别名 docker stop） | "**Stop** one or more **running containers**" | **停止**一个或多个**正在运行的容器** | [Docker Inc., n.d., "docker container stop", table](https://docs.docker.com/reference/cli/docker/container/stop/#:~:text=Stop%20one%20or%20more%20running%20containers) |
 
 ## References
 

@@ -10,7 +10,7 @@ ms.date: 2026-11-02
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **4.1.1.11.9 docker image push**<br>推送镜像（别名 docker push） | "**Upload an image to a registry**" | **把镜像上传到注册表** | [Docker Inc., n.d., "docker image push", table](https://docs.docker.com/reference/cli/docker/image/push/#:~:text=Upload%20an%20image%20to%20a%20registry) |
+| **4.1.1.11.9 docker image push**<br>推送镜像（别名 docker push） | "**Upload an image** to **a registry**" | **上传一个镜像**到**某个注册表** | [Docker Inc., n.d., "docker image push", table](https://docs.docker.com/reference/cli/docker/image/push/#:~:text=Upload%20an%20image%20to%20a%20registry) |
 
 ## References
 

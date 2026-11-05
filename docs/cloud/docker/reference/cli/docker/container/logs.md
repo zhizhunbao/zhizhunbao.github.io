@@ -10,7 +10,7 @@ ms.date: 2026-11-02
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **4.1.1.6.10 docker container logs**<br>查看容器日志（别名 docker logs） | "**Fetch the logs of a container**" | **获取容器的日志** | [Docker Inc., n.d., "docker container logs", table](https://docs.docker.com/reference/cli/docker/container/logs/#:~:text=Fetch%20the%20logs%20of%20a%20container) |
+| **4.1.1.6.10 docker container logs**<br>查看容器日志（别名 docker logs） | "**Fetch** the logs of **a container**" | **获取**某个**容器**的日志 | [Docker Inc., n.d., "docker container logs", table](https://docs.docker.com/reference/cli/docker/container/logs/#:~:text=Fetch%20the%20logs%20of%20a%20container) |
 
 ## References
 

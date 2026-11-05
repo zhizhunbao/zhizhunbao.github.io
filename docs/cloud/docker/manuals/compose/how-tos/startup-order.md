@@ -16,7 +16,7 @@ ms.date: 2026-11-02
 |---|---|---|---|
 | **3.9.4.3 Control startup order**<br>启动顺序 | (No definition) | （无定义） | [Docker Inc., n.d., "Control startup order", documentation menu](https://docs.docker.com/compose/how-tos/startup-order/) |
 | **3.9.4.3.0 Introduction**<br>简介 | (No definition) | （无定义） | [Docker Inc., n.d., "Control startup and shutdown order in Compose", opening](https://docs.docker.com/compose/how-tos/startup-order/) |
-| **startup order**<br>启动顺序 | (context) "You can **control the order of service startup and shutdown** with the depends_on attribute." | （语境）你可以用 depends_on 属性**控制服务启动和关闭的顺序**。 | [Docker Inc., n.d., "Control startup and shutdown order in Compose", para. 1](https://docs.docker.com/compose/how-tos/startup-order/#:~:text=You%20can%20control%20the%20order%20of%20service%20startup) |
+| **startup order**<br>启动顺序 | (context) "You can **control the order of service startup and shutdown** with the **depends_on attribute**." | （语境）你可以**控制服务启动和关闭的顺序**，用的是 **depends_on 属性**。 | [Docker Inc., n.d., "Control startup and shutdown order in Compose", para. 1](https://docs.docker.com/compose/how-tos/startup-order/#:~:text=You%20can%20control%20the%20order%20of%20service%20startup) |
 
 ## References
 

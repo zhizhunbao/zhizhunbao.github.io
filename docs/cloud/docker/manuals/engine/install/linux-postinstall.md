@@ -16,7 +16,7 @@ ms.date: 2026-11-02
 |---|---|---|---|
 | **3.5.1.8 Post-installation steps**<br>Linux 安装后步骤 | (No definition) | （无定义） | [Docker Inc., n.d., "Post-installation steps", documentation menu](https://docs.docker.com/engine/install/linux-postinstall/) |
 | **3.5.1.8.1 Manage Docker as a non-root user**<br>Manage Docker as a non-root user | (No definition) | （无定义） | [Docker Inc., n.d., "Manage Docker as a non-root user", documentation menu](https://docs.docker.com/engine/install/linux-postinstall/) |
-| **docker group**<br>docker 用户组 | "When the Docker daemon starts, it **creates a Unix socket accessible by members of the `docker` group**." | Docker 守护进程启动时，会**创建一个 `docker` 组成员可以访问的 Unix 套接字**。 | [Docker Inc., n.d., "Manage Docker as a non-root user", para. 2](https://docs.docker.com/engine/install/linux-postinstall/#:~:text=When%20the%20Docker%20daemon%20starts%2C%20it%20creates%20a) |
+| **docker group**<br>docker 用户组 | "When the Docker daemon starts, it **creates a Unix socket** accessible by **members of the `docker` group**." | Docker 守护进程启动时，会**创建一个 Unix 套接字**，供 **`docker` 组的成员**访问。 | [Docker Inc., n.d., "Manage Docker as a non-root user", para. 2](https://docs.docker.com/engine/install/linux-postinstall/#:~:text=When%20the%20Docker%20daemon%20starts%2C%20it%20creates%20a) |
 
 ## References
 

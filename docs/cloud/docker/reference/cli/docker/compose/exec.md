@@ -10,7 +10,7 @@ ms.date: 2026-11-02
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **4.1.1.4.12 docker compose exec**<br>在 Compose 服务中执行命令 | "**Execute a command in a running container**" | **在正在运行的容器中执行命令** | [Docker Inc., n.d., "docker compose exec", table](https://docs.docker.com/reference/cli/docker/compose/exec/#:~:text=Execute%20a%20command%20in%20a%20running%20container) |
+| **4.1.1.4.12 docker compose exec**<br>在 Compose 服务中执行命令 | "**Execute a command** in **a running container**" | **执行一条命令**，在**正在运行的容器**里 | [Docker Inc., n.d., "docker compose exec", table](https://docs.docker.com/reference/cli/docker/compose/exec/#:~:text=Execute%20a%20command%20in%20a%20running%20container) |
 
 ## References
 

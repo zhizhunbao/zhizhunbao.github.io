@@ -10,7 +10,7 @@ ms.date: 2026-11-02
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **4.1.1.11.2 docker image history**<br>查看镜像历史（别名 docker history） | "**Show the history of an image**" | **显示镜像的历史** | [Docker Inc., n.d., "docker image history", table](https://docs.docker.com/reference/cli/docker/image/history/#:~:text=Show%20the%20history%20of%20an%20image) |
+| **4.1.1.11.2 docker image history**<br>查看镜像历史（别名 docker history） | "**Show** the history of **an image**" | **显示**某个**镜像**的历史 | [Docker Inc., n.d., "docker image history", table](https://docs.docker.com/reference/cli/docker/image/history/#:~:text=Show%20the%20history%20of%20an%20image) |
 
 ## References
 
