@@ -21,8 +21,8 @@ Left out (no terms): Get started (What's new is release notes; Design and Develo
 | [2.2 Content Design](https://fluent2.microsoft.design/content-design) | 0 | - | Why content design matters, Designing content, Writing content, Some best practices | no |
 | [2.3 Design Tokens](https://fluent2.microsoft.design/design-tokens) | 0 | - | Global tokens, Alias tokens, Theming | no |
 | [2.4 Handoffs](https://fluent2.microsoft.design/handoffs) | 9 | Visual patterns for handoffs (5), Content patterns for handoff (4) | Handoff principles, The role of AI in handoffs, Handoffs & user intent, Visual patterns for handoffs, Content patterns for handoff | no |
-| [2.5 Onboarding](https://fluent2.microsoft.design/onboarding) | 5 | Principles (5), Scenarios and goals (6) | Principles, Scenarios and goals, Content | no |
-| [2.6 Wait UX](https://fluent2.microsoft.design/wait-ux) | 0 | Visual patterns (4) | Principles, Visual patterns, Behavior, Accessibility, Content patterns | no |
+| [2.5 Onboarding](https://fluent2.microsoft.design/onboarding) | 5 | Principles (5), Scenarios and goals (6) | Principles, Scenarios and goals, Content | yes (2026-11-06) |
+| [2.6 Wait UX](https://fluent2.microsoft.design/wait-ux) | 0 | Visual patterns (4) | Principles, Visual patterns, Behavior, Accessibility, Content patterns | yes (2026-11-06) |
 | [3.1 Responsible AI](https://fluent2.microsoft.design/responsible-AI) | 4 | Principles (5) | Principles, UX strategies, Agent interactions, Visual patterns, Content patterns, Evaluation criteria | no |
 | [3.2 Types of AI Harm](https://fluent2.microsoft.design/ai-harm) | 6 | Harm categories (6) | Harm categories, Inaccurate output, Incomplete output, Biased output, Inappropriate or unsafe output, Non-transparent output, Overreliance, Feedback and harm reporting, Resources | no |
 | [4.1 System Prompt Engineering](https://fluent2.microsoft.design/content-engineering/system-prompt-engineering) | 0 | - | What is a system prompt?, Structure a system prompt, Explore the tasks | no |
@@ -38,7 +38,7 @@ Left out (no terms): Get started (What's new is release notes; Design and Develo
 | [6.8 Carousel](https://fluent2.microsoft.design/components/web/react/core/carousel/usage) | 0 | - | Resources, Behavior, Layout, Accessibility | no |
 | [6.9 Checkbox](https://fluent2.microsoft.design/components/web/react/core/checkbox/usage) | 2 | Layout (2) | Resources, Behavior, Layout, Accessibility, Content | no |
 | [6.10 Combobox](https://fluent2.microsoft.design/components/web/react/core/combobox/usage) | 0 | - | Resources, Behavior, Accessibility, Content | no |
-| [6.11 Dialog](https://fluent2.microsoft.design/components/web/react/core/dialog/usage) | 3 | Types (3) | Resources, Types, Behavior, Layout, Accessibility, Content | no |
+| [6.11 Dialog](https://fluent2.microsoft.design/components/web/react/core/dialog/usage) | 3 | Types (3) | Resources, Types, Behavior, Layout, Accessibility, Content | yes (2026-11-06) |
 | [6.12 Divider](https://fluent2.microsoft.design/components/web/react/core/divider/usage) | 2 | Types (2) | Resources, Types, Layout, Accessibility, Content | no |
 | [6.13 Drawer](https://fluent2.microsoft.design/components/web/react/core/drawer/usage) | 4 | Types (2), Behavior (2) | Resources, Types, Behavior, Layout, Content | no |
 | [6.14 Dropdown](https://fluent2.microsoft.design/components/web/react/core/dropdown/usage) | 0 | - | Resources, Behavior, Accessibility, Content | no |
