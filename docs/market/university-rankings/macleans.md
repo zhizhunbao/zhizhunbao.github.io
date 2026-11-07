@@ -15,7 +15,10 @@ ms.date: 2026-11-07
 
 ## University Rankings
 
-Maclean's University Rankings 2027, Large Universities, released [2026-10-14](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/): all 15 universities with more than 30,000 students, as Maclean's prints them ("*" marks a tie). Each definition quotes the opening of the university's Maclean's school profile.
+- Edition: Maclean's University Rankings 2027, Large Universities, released [2026-10-14](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/)
+- Scope: all 15 universities with more than 30,000 students, as Maclean's prints them
+- Order: Maclean's rank, "*" marks a tie
+- Definitions: opening of the university's Maclean's school profile
 
 | Rank | University | Definition | 中文翻译 | Source |
 |---|---|---|---|---|

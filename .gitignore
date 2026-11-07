@@ -3,3 +3,5 @@ docs/_site/
 _site/
 docs/obj/
 docs/docfx.build.json
+_site_partial/
+docs/docfx.partial.json

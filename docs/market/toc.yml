@@ -27,7 +27,9 @@ items:
 - name: "7. College Rankings"
   href: college-rankings/index.md
   items:
-  - name: "7.1 Research Infosource"
+  - name: "7.1 Ministry of Colleges, Universities, Research Excellence and Security"
+    href: college-rankings/ministry-of-colleges-universities-research-excellence-and-security.md
+  - name: "7.2 Research Infosource"
     href: college-rankings/research-infosource.md
 - name: "8. News"
   href: news/index.md
