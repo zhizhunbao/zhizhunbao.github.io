@@ -1,0 +1,1017 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Marketing"
+  href: marketing/index.md
+  items:
+  - name: "1 Marketing and Customer Value"
+    href: marketing/marketing-and-customer-value/index.md
+    items:
+    - name: "1.1 Marketing and the Marketing Process"
+      href: marketing/marketing-and-customer-value/1-1-marketing-and-the-marketing-process.md
+    - name: "1.2 The Marketing Mix and the 4Ps of Marketing"
+      href: marketing/marketing-and-customer-value/1-2-the-marketing-mix-and-the-4ps-of-marketing.md
+    - name: "1.3 Factors Comprising and Affecting the Marketing Environment"
+      href: marketing/marketing-and-customer-value/1-3-factors-comprising-and-affecting-the-marketing-environment.md
+    - name: "1.4 Evolution of the Marketing Concept"
+      href: marketing/marketing-and-customer-value/1-4-evolution-of-the-marketing-concept.md
+    - name: "1.5 Determining Consumer Needs and Wants"
+      href: marketing/marketing-and-customer-value/1-5-determining-consumer-needs-and-wants.md
+    - name: "1.6 Customer Relationship Management (CRM)"
+      href: marketing/marketing-and-customer-value/1-6-customer-relationship-management-crm.md
+    - name: "1.7 Ethical Marketing"
+      href: marketing/marketing-and-customer-value/1-7-ethical-marketing.md
+  - name: "2 Strategic Planning in Marketing"
+    href: marketing/strategic-planning-in-marketing/index.md
+    items:
+    - name: "2.1 Developing a Strategic Plan"
+      href: marketing/strategic-planning-in-marketing/2-1-developing-a-strategic-plan.md
+    - name: "2.2 The Role of Marketing in the Strategic Planning Process"
+      href: marketing/strategic-planning-in-marketing/2-2-the-role-of-marketing-in-the-strategic-planning-process.md
+    - name: "2.3 Purpose and Structure of the Marketing Plan"
+      href: marketing/strategic-planning-in-marketing/2-3-purpose-and-structure-of-the-marketing-plan.md
+    - name: "2.4 Marketing Plan Progress Using Metrics"
+      href: marketing/strategic-planning-in-marketing/2-4-marketing-plan-progress-using-metrics.md
+    - name: "2.5 Ethical Issues in Developing a Marketing Strategy"
+      href: marketing/strategic-planning-in-marketing/2-5-ethical-issues-in-developing-a-marketing-strategy.md
+  - name: "3 Consumer Markets and Purchasing Behavior"
+    href: marketing/consumer-markets-and-purchasing-behavior/index.md
+    items:
+    - name: "3.1 Understanding Consumer Markets and Buying Behavior"
+      href: marketing/consumer-markets-and-purchasing-behavior/3-1-understanding-consumer-markets-and-buying-behavior.md
+    - name: "3.2 Factors That Influence Consumer Buying Behavior"
+      href: marketing/consumer-markets-and-purchasing-behavior/3-2-factors-that-influence-consumer-buying-behavior.md
+    - name: "3.3 The Consumer Purchasing Decision Process"
+      href: marketing/consumer-markets-and-purchasing-behavior/3-3-the-consumer-purchasing-decision-process.md
+    - name: "3.4 Ethical Issues in Consumer Buying Behavior"
+      href: marketing/consumer-markets-and-purchasing-behavior/3-4-ethical-issues-in-consumer-buying-behavior.md
+  - name: "4 Business Markets and Purchasing Behavior"
+    href: marketing/business-markets-and-purchasing-behavior/index.md
+    items:
+    - name: "4.1 The Business-to-Business (B2B) Market"
+      href: marketing/business-markets-and-purchasing-behavior/4-1-the-business-to-business-b2b-market.md
+    - name: "4.2 Buyers and Buying Situations in a B2B Market"
+      href: marketing/business-markets-and-purchasing-behavior/4-2-buyers-and-buying-situations-in-a-b2b-market.md
+    - name: "4.3 Major Influences on B2B Buyer Behavior"
+      href: marketing/business-markets-and-purchasing-behavior/4-3-major-influences-on-b2b-buyer-behavior.md
+    - name: "4.4 Stages in the B2B Buying Process"
+      href: marketing/business-markets-and-purchasing-behavior/4-4-stages-in-the-b2b-buying-process.md
+    - name: "4.5 Ethical Issues in B2B Marketing"
+      href: marketing/business-markets-and-purchasing-behavior/4-5-ethical-issues-in-b2b-marketing.md
+  - name: "5 Market Segmentation, Targeting, and Positioning"
+    href: marketing/market-segmentation-targeting-and-positioning/index.md
+    items:
+    - name: "5.1 Market Segmentation and Consumer Markets"
+      href: marketing/market-segmentation-targeting-and-positioning/5-1-market-segmentation-and-consumer-markets.md
+    - name: "5.2 Segmentation of B2B Markets"
+      href: marketing/market-segmentation-targeting-and-positioning/5-2-segmentation-of-b2b-markets.md
+    - name: "5.3 Segmentation of International Markets"
+      href: marketing/market-segmentation-targeting-and-positioning/5-3-segmentation-of-international-markets.md
+    - name: "5.4 Essential Factors in Effective Market Segmentation"
+      href: marketing/market-segmentation-targeting-and-positioning/5-4-essential-factors-in-effective-market-segmentation.md
+    - name: "5.5 Selecting Target Markets"
+      href: marketing/market-segmentation-targeting-and-positioning/5-5-selecting-target-markets.md
+    - name: "5.6 Product Positioning"
+      href: marketing/market-segmentation-targeting-and-positioning/5-6-product-positioning.md
+    - name: "5.7 Ethical Concerns and Target Marketing"
+      href: marketing/market-segmentation-targeting-and-positioning/5-7-ethical-concerns-and-target-marketing.md
+  - name: "6 Marketing Research and Market Intelligence"
+    href: marketing/marketing-research-and-market-intelligence/index.md
+    items:
+    - name: "6.1 Marketing Research and Big Data"
+      href: marketing/marketing-research-and-market-intelligence/6-1-marketing-research-and-big-data.md
+    - name: "6.2 Sources of Marketing Information"
+      href: marketing/marketing-research-and-market-intelligence/6-2-sources-of-marketing-information.md
+    - name: "6.3 Steps in a Successful Marketing Research Plan"
+      href: marketing/marketing-research-and-market-intelligence/6-3-steps-in-a-successful-marketing-research-plan.md
+    - name: "6.4 Ethical Issues in Marketing Research"
+      href: marketing/marketing-research-and-market-intelligence/6-4-ethical-issues-in-marketing-research.md
+  - name: "7 Marketing in a Global Environment"
+    href: marketing/marketing-in-a-global-environment/index.md
+    items:
+    - name: "7.1 The Global Market and Advantages of International Trade"
+      href: marketing/marketing-in-a-global-environment/7-1-the-global-market-and-advantages-of-international-trade.md
+    - name: "7.2 Assessment of Global Markets for Opportunities"
+      href: marketing/marketing-in-a-global-environment/7-2-assessment-of-global-markets-for-opportunities.md
+    - name: "7.3 Entering the Global Arena"
+      href: marketing/marketing-in-a-global-environment/7-3-entering-the-global-arena.md
+    - name: "7.4 Marketing in a Global Environment"
+      href: marketing/marketing-in-a-global-environment/7-4-marketing-in-a-global-environment.md
+    - name: "7.5 Ethical Issues in the Global Marketplace"
+      href: marketing/marketing-in-a-global-environment/7-5-ethical-issues-in-the-global-marketplace.md
+  - name: "8 Marketing in a Diverse Marketplace"
+    href: marketing/marketing-in-a-diverse-marketplace/index.md
+    items:
+    - name: "8.1 Strategic Marketing: Standardization versus Adaptation"
+      href: marketing/marketing-in-a-diverse-marketplace/8-1-strategic-marketing-standardization-versus-adaptation.md
+    - name: "8.2 Diversity and Inclusion Marketing"
+      href: marketing/marketing-in-a-diverse-marketplace/8-2-diversity-and-inclusion-marketing.md
+    - name: "8.3 Multicultural Marketing"
+      href: marketing/marketing-in-a-diverse-marketplace/8-3-multicultural-marketing.md
+    - name: "8.4 Marketing to Hispanic, Black, and Asian Consumers"
+      href: marketing/marketing-in-a-diverse-marketplace/8-4-marketing-to-hispanic-black-and-asian-consumers.md
+    - name: "8.5 Marketing to Sociodemographic Groups"
+      href: marketing/marketing-in-a-diverse-marketplace/8-5-marketing-to-sociodemographic-groups.md
+    - name: "8.6 Ethical Issues in Diversity Marketing"
+      href: marketing/marketing-in-a-diverse-marketplace/8-6-ethical-issues-in-diversity-marketing.md
+  - name: "9 Products: Consumer Offerings"
+    href: marketing/products-consumer-offerings/index.md
+    items:
+    - name: "9.1 Products, Services, and Experiences"
+      href: marketing/products-consumer-offerings/9-1-products-services-and-experiences.md
+    - name: "9.2 Product Items, Product Lines, and Product Mixes"
+      href: marketing/products-consumer-offerings/9-2-product-items-product-lines-and-product-mixes.md
+    - name: "9.3 The Product Life Cycle"
+      href: marketing/products-consumer-offerings/9-3-the-product-life-cycle.md
+    - name: "9.4 Marketing Strategies at Each Stage of the Product Life Cycle"
+      href: marketing/products-consumer-offerings/9-4-marketing-strategies-at-each-stage-of-the-product-life-cycle.md
+    - name: "9.5 Branding and Brand Development"
+      href: marketing/products-consumer-offerings/9-5-branding-and-brand-development.md
+    - name: "9.6 Forms of Brand Development, Brand Loyalty, and Brand Metrics"
+      href: marketing/products-consumer-offerings/9-6-forms-of-brand-development-brand-loyalty-and-brand-metrics.md
+    - name: "9.7 Creating Value through Packaging and Labeling"
+      href: marketing/products-consumer-offerings/9-7-creating-value-through-packaging-and-labeling.md
+    - name: "9.8 Environmental Concerns Regarding Packaging"
+      href: marketing/products-consumer-offerings/9-8-environmental-concerns-regarding-packaging.md
+    - name: "9.9 Ethical Issues in Packaging"
+      href: marketing/products-consumer-offerings/9-9-ethical-issues-in-packaging.md
+  - name: "10 Maintaining a Competitive Edge with New Offerings"
+    href: marketing/maintaining-a-competitive-edge-with-new-offerings/index.md
+    items:
+    - name: "10.1 New Products from a Customer’s Perspective"
+      href: marketing/maintaining-a-competitive-edge-with-new-offerings/10-1-new-products-from-a-customers-perspective.md
+    - name: "10.2 Stages of the New Product Development Process"
+      href: marketing/maintaining-a-competitive-edge-with-new-offerings/10-2-stages-of-the-new-product-development-process.md
+    - name: "10.3 The Use of Metrics in Evaluating New Products"
+      href: marketing/maintaining-a-competitive-edge-with-new-offerings/10-3-the-use-of-metrics-in-evaluating-new-products.md
+    - name: "10.4 Factors Contributing to the Success or Failure of New Products"
+      href: marketing/maintaining-a-competitive-edge-with-new-offerings/10-4-factors-contributing-to-the-success-or-failure-of-new-produc.md
+    - name: "10.5 Stages in the Consumer Adoption Process for New Products"
+      href: marketing/maintaining-a-competitive-edge-with-new-offerings/10-5-stages-in-the-consumer-adoption-process-for-new-products.md
+    - name: "10.6 Ethical Considerations in New Product Development"
+      href: marketing/maintaining-a-competitive-edge-with-new-offerings/10-6-ethical-considerations-in-new-product-development.md
+  - name: "11 Services: The Intangible Product"
+    href: marketing/services-the-intangible-product/index.md
+    items:
+    - name: "11.1 Classification of Services"
+      href: marketing/services-the-intangible-product/11-1-classification-of-services.md
+    - name: "11.2 The Service-Profit Chain Model and the Service Marketing Triangle"
+      href: marketing/services-the-intangible-product/11-2-the-service-profit-chain-model-and-the-service-marketing-tri.md
+    - name: "11.3 The Gap Model of Service Quality"
+      href: marketing/services-the-intangible-product/11-3-the-gap-model-of-service-quality.md
+    - name: "11.4 Ethical Considerations in Providing Services"
+      href: marketing/services-the-intangible-product/11-4-ethical-considerations-in-providing-services.md
+  - name: "12 Pricing Products and Services"
+    href: marketing/pricing-products-and-services/index.md
+    items:
+    - name: "12.1 Pricing and Its Role in the Marketing Mix"
+      href: marketing/pricing-products-and-services/12-1-pricing-and-its-role-in-the-marketing-mix.md
+    - name: "12.2 The Five Critical Cs of Pricing"
+      href: marketing/pricing-products-and-services/12-2-the-five-critical-cs-of-pricing.md
+    - name: "12.3 The Five-Step Procedure for Establishing Pricing Policy"
+      href: marketing/pricing-products-and-services/12-3-the-five-step-procedure-for-establishing-pricing-policy.md
+    - name: "12.4 Pricing Strategies for New Products"
+      href: marketing/pricing-products-and-services/12-4-pricing-strategies-for-new-products.md
+    - name: "12.5 Pricing Strategies and Tactics for Existing Products"
+      href: marketing/pricing-products-and-services/12-5-pricing-strategies-and-tactics-for-existing-products.md
+    - name: "12.6 Ethical Considerations in Pricing"
+      href: marketing/pricing-products-and-services/12-6-ethical-considerations-in-pricing.md
+  - name: "13 Integrated Marketing Communications"
+    href: marketing/integrated-marketing-communications/index.md
+    items:
+    - name: "13.1 The Promotion Mix and Its Elements"
+      href: marketing/integrated-marketing-communications/13-1-the-promotion-mix-and-its-elements.md
+    - name: "13.2 The Communication Process"
+      href: marketing/integrated-marketing-communications/13-2-the-communication-process.md
+    - name: "13.3 Integrated Marketing Communications"
+      href: marketing/integrated-marketing-communications/13-3-integrated-marketing-communications.md
+    - name: "13.4 Steps in the IMC Planning Process"
+      href: marketing/integrated-marketing-communications/13-4-steps-in-the-imc-planning-process.md
+    - name: "13.5 Ethical Issues in Marketing Communication"
+      href: marketing/integrated-marketing-communications/13-5-ethical-issues-in-marketing-communication.md
+  - name: "14 The Promotion Mix: Advertising and Public Relations"
+    href: marketing/the-promotion-mix-advertising-and-public-relations/index.md
+    items:
+    - name: "14.1 Advertising in the Promotion Mix"
+      href: marketing/the-promotion-mix-advertising-and-public-relations/14-1-advertising-in-the-promotion-mix.md
+    - name: "14.2 Major Decisions in Developing an Advertising Plan"
+      href: marketing/the-promotion-mix-advertising-and-public-relations/14-2-major-decisions-in-developing-an-advertising-plan.md
+    - name: "14.3 The Use of Metrics to Measure Advertising Campaign Effectiveness"
+      href: marketing/the-promotion-mix-advertising-and-public-relations/14-3-the-use-of-metrics-to-measure-advertising-campaign-effective.md
+    - name: "14.4 Public Relations and Its Role in the Promotion Mix"
+      href: marketing/the-promotion-mix-advertising-and-public-relations/14-4-public-relations-and-its-role-in-the-promotion-mix.md
+    - name: "14.5 The Advantages and Disadvantages of Public Relations"
+      href: marketing/the-promotion-mix-advertising-and-public-relations/14-5-the-advantages-and-disadvantages-of-public-relations.md
+    - name: "14.6 Ethical Concerns in Advertising and Public Relations"
+      href: marketing/the-promotion-mix-advertising-and-public-relations/14-6-ethical-concerns-in-advertising-and-public-relations.md
+  - name: "15 The Promotion Mix: Personal Selling and Sales Promotion"
+    href: marketing/the-promotion-mix-personal-selling-and-sales-promotion/index.md
+    items:
+    - name: "15.1 Personal Selling and Its Role in the Promotion Mix"
+      href: marketing/the-promotion-mix-personal-selling-and-sales-promotion/15-1-personal-selling-and-its-role-in-the-promotion-mix.md
+    - name: "15.2 Classifications of Salespeople Involved in Personal Selling"
+      href: marketing/the-promotion-mix-personal-selling-and-sales-promotion/15-2-classifications-of-salespeople-involved-in-personal-selling.md
+    - name: "15.3 Steps in the Personal Selling Process"
+      href: marketing/the-promotion-mix-personal-selling-and-sales-promotion/15-3-steps-in-the-personal-selling-process.md
+    - name: "15.4 Management of the Sales Force"
+      href: marketing/the-promotion-mix-personal-selling-and-sales-promotion/15-4-management-of-the-sales-force.md
+    - name: "15.5 Sales Promotion and Its Role in the Promotion Mix"
+      href: marketing/the-promotion-mix-personal-selling-and-sales-promotion/15-5-sales-promotion-and-its-role-in-the-promotion-mix.md
+    - name: "15.6 Main Types of Sales Promotion"
+      href: marketing/the-promotion-mix-personal-selling-and-sales-promotion/15-6-main-types-of-sales-promotion.md
+    - name: "15.7 Ethical Issues in Personal Selling and Sales Promotion"
+      href: marketing/the-promotion-mix-personal-selling-and-sales-promotion/15-7-ethical-issues-in-personal-selling-and-sales-promotion.md
+  - name: "16 Direct, Online, Social Media, and Mobile Marketing"
+    href: marketing/direct-online-social-media-and-mobile-marketing/index.md
+    items:
+    - name: "16.1 Traditional Direct Marketing"
+      href: marketing/direct-online-social-media-and-mobile-marketing/16-1-traditional-direct-marketing.md
+    - name: "16.2 Social Media and Mobile Marketing"
+      href: marketing/direct-online-social-media-and-mobile-marketing/16-2-social-media-and-mobile-marketing.md
+    - name: "16.3 Metrics Used to Evaluate the Success of Online Marketing"
+      href: marketing/direct-online-social-media-and-mobile-marketing/16-3-metrics-used-to-evaluate-the-success-of-online-marketing.md
+    - name: "16.4 Ethical Issues in Digital Marketing and Social Media"
+      href: marketing/direct-online-social-media-and-mobile-marketing/16-4-ethical-issues-in-digital-marketing-and-social-media.md
+  - name: "17 Distribution: Delivering Customer Value"
+    href: marketing/distribution-delivering-customer-value/index.md
+    items:
+    - name: "17.1 The Use and Value of Marketing Channels"
+      href: marketing/distribution-delivering-customer-value/17-1-the-use-and-value-of-marketing-channels.md
+    - name: "17.2 Types of Marketing Channels"
+      href: marketing/distribution-delivering-customer-value/17-2-types-of-marketing-channels.md
+    - name: "17.3 Factors Influencing Channel Choice"
+      href: marketing/distribution-delivering-customer-value/17-3-factors-influencing-channel-choice.md
+    - name: "17.4 Managing the Distribution Channel"
+      href: marketing/distribution-delivering-customer-value/17-4-managing-the-distribution-channel.md
+    - name: "17.5 The Supply Chain and Its Functions"
+      href: marketing/distribution-delivering-customer-value/17-5-the-supply-chain-and-its-functions.md
+    - name: "17.6 Logistics and Its Functions"
+      href: marketing/distribution-delivering-customer-value/17-6-logistics-and-its-functions.md
+    - name: "17.7 Ethical Issues in Supply Chain Management"
+      href: marketing/distribution-delivering-customer-value/17-7-ethical-issues-in-supply-chain-management.md
+  - name: "18 Retailing and Wholesaling"
+    href: marketing/retailing-and-wholesaling/index.md
+    items:
+    - name: "18.1 Retailing and the Role of Retailers in the Distribution Channel"
+      href: marketing/retailing-and-wholesaling/18-1-retailing-and-the-role-of-retailers-in-the-distribution-chan.md
+    - name: "18.2 Major Types of Retailers"
+      href: marketing/retailing-and-wholesaling/18-2-major-types-of-retailers.md
+    - name: "18.3 Retailing Strategy Decisions"
+      href: marketing/retailing-and-wholesaling/18-3-retailing-strategy-decisions.md
+    - name: "18.4 Recent Trends in Retailing"
+      href: marketing/retailing-and-wholesaling/18-4-recent-trends-in-retailing.md
+    - name: "18.5 Wholesaling"
+      href: marketing/retailing-and-wholesaling/18-5-wholesaling.md
+    - name: "18.6 Recent Trends in Wholesaling"
+      href: marketing/retailing-and-wholesaling/18-6-recent-trends-in-wholesaling.md
+    - name: "18.7 Ethical Issues in Retailing and Wholesaling"
+      href: marketing/retailing-and-wholesaling/18-7-ethical-issues-in-retailing-and-wholesaling.md
+  - name: "19 Sustainable Marketing: The New Paradigm"
+    href: marketing/sustainable-marketing-the-new-paradigm/index.md
+    items:
+    - name: "19.1 Sustainable Marketing"
+      href: marketing/sustainable-marketing-the-new-paradigm/19-1-sustainable-marketing.md
+    - name: "19.2 Traditional Marketing versus Sustainable Marketing"
+      href: marketing/sustainable-marketing-the-new-paradigm/19-2-traditional-marketing-versus-sustainable-marketing.md
+    - name: "19.3 The Benefits of Sustainable Marketing"
+      href: marketing/sustainable-marketing-the-new-paradigm/19-3-the-benefits-of-sustainable-marketing.md
+    - name: "19.4 Sustainable Marketing Principles"
+      href: marketing/sustainable-marketing-the-new-paradigm/19-4-sustainable-marketing-principles.md
+    - name: "19.5 Purpose-Driven Marketing"
+      href: marketing/sustainable-marketing-the-new-paradigm/19-5-purpose-driven-marketing.md
+- name: "2. Management"
+  href: management/index.md
+  items:
+  - name: "1 Managing and Performing"
+    href: management/managing-and-performing/index.md
+    items:
+    - name: "1.1 What Do Managers Do?"
+      href: management/managing-and-performing/1-1-what-do-managers-do.md
+    - name: "1.2 The Roles Managers Play"
+      href: management/managing-and-performing/1-2-the-roles-managers-play.md
+    - name: "1.3 Major Characteristics of the Manager's Job"
+      href: management/managing-and-performing/1-3-major-characteristics-of-the-manager-s-job.md
+  - name: "2 Managerial Decision-Making"
+    href: management/managerial-decision-making/index.md
+    items:
+    - name: "2.1 Overview of Managerial Decision-Making"
+      href: management/managerial-decision-making/2-1-overview-of-managerial-decision-making.md
+    - name: "2.2 How the Brain Processes Information to Make Decisions: Reflective and Reactive Systems"
+      href: management/managerial-decision-making/2-2-how-the-brain-processes-information-to-make-decisions-reflec.md
+    - name: "2.3 Programmed and Nonprogrammed Decisions"
+      href: management/managerial-decision-making/2-3-programmed-and-nonprogrammed-decisions.md
+    - name: "2.4 Barriers to Effective Decision-Making"
+      href: management/managerial-decision-making/2-4-barriers-to-effective-decision-making.md
+    - name: "2.5 Improving the Quality of Decision-Making"
+      href: management/managerial-decision-making/2-5-improving-the-quality-of-decision-making.md
+    - name: "2.6 Group Decision-Making"
+      href: management/managerial-decision-making/2-6-group-decision-making.md
+  - name: "3 The History of Management"
+    href: management/the-history-of-management/index.md
+    items:
+    - name: "3.1 The Early Origins of Management"
+      href: management/the-history-of-management/3-1-the-early-origins-of-management.md
+    - name: "3.2 The Italian Renaissance"
+      href: management/the-history-of-management/3-2-the-italian-renaissance.md
+    - name: "3.3 The Industrial Revolution"
+      href: management/the-history-of-management/3-3-the-industrial-revolution.md
+    - name: "3.4 Taylor-Made Management"
+      href: management/the-history-of-management/3-4-taylor-made-management.md
+    - name: "3.5 Administrative and Bureaucratic Management"
+      href: management/the-history-of-management/3-5-administrative-and-bureaucratic-management.md
+    - name: "3.6 Human Relations Movement"
+      href: management/the-history-of-management/3-6-human-relations-movement.md
+    - name: "3.7 Contingency and System Management"
+      href: management/the-history-of-management/3-7-contingency-and-system-management.md
+  - name: "4 External and Internal Organizational Environments and Corporate Culture"
+    href: management/external-and-internal-organizational-environments-and-corpor/index.md
+    items:
+    - name: "4.1 The Organization's External Environment"
+      href: management/external-and-internal-organizational-environments-and-corpor/4-1-the-organization-s-external-environment.md
+    - name: "4.2 External Environments and Industries"
+      href: management/external-and-internal-organizational-environments-and-corpor/4-2-external-environments-and-industries.md
+    - name: "4.3 Organizational Designs and Structures"
+      href: management/external-and-internal-organizational-environments-and-corpor/4-3-organizational-designs-and-structures.md
+    - name: "4.4 The Internal Organization and External Environments"
+      href: management/external-and-internal-organizational-environments-and-corpor/4-4-the-internal-organization-and-external-environments.md
+    - name: "4.5 Corporate Cultures"
+      href: management/external-and-internal-organizational-environments-and-corpor/4-5-corporate-cultures.md
+    - name: "4.6 Organizing for Change in the 21st Century"
+      href: management/external-and-internal-organizational-environments-and-corpor/4-6-organizing-for-change-in-the-21st-century.md
+  - name: "5 Ethics, Corporate Responsibility, and Sustainability"
+    href: management/ethics-corporate-responsibility-and-sustainability/index.md
+    items:
+    - name: "5.1 Ethics and Business Ethics Defined"
+      href: management/ethics-corporate-responsibility-and-sustainability/5-1-ethics-and-business-ethics-defined.md
+    - name: "5.2 Dimensions of Ethics: The Individual Level"
+      href: management/ethics-corporate-responsibility-and-sustainability/5-2-dimensions-of-ethics-the-individual-level.md
+    - name: "5.3 Ethical Principles and Responsible Decision-Making"
+      href: management/ethics-corporate-responsibility-and-sustainability/5-3-ethical-principles-and-responsible-decision-making.md
+    - name: "5.4 Leadership: Ethics at the Organizational Level"
+      href: management/ethics-corporate-responsibility-and-sustainability/5-4-leadership-ethics-at-the-organizational-level.md
+    - name: "5.5 Ethics, Corporate Culture, and Compliance"
+      href: management/ethics-corporate-responsibility-and-sustainability/5-5-ethics-corporate-culture-and-compliance.md
+    - name: "5.6 Corporate Social Responsibility (CSR)"
+      href: management/ethics-corporate-responsibility-and-sustainability/5-6-corporate-social-responsibility-csr.md
+    - name: "5.7 Ethics around the Globe"
+      href: management/ethics-corporate-responsibility-and-sustainability/5-7-ethics-around-the-globe.md
+    - name: "5.8 Emerging Trends in Ethics, CSR, and Compliance"
+      href: management/ethics-corporate-responsibility-and-sustainability/5-8-emerging-trends-in-ethics-csr-and-compliance.md
+  - name: "6 International Management"
+    href: management/international-management/index.md
+    items:
+    - name: "6.1 Importance of International Management"
+      href: management/international-management/6-1-importance-of-international-management.md
+    - name: "6.2 Hofstede's Cultural Framework"
+      href: management/international-management/6-2-hofstede-s-cultural-framework.md
+    - name: "6.3 The GLOBE Framework"
+      href: management/international-management/6-3-the-globe-framework.md
+    - name: "6.4 Cultural Stereotyping and Social Institutions"
+      href: management/international-management/6-4-cultural-stereotyping-and-social-institutions.md
+    - name: "6.5 Cross-Cultural Assignments"
+      href: management/international-management/6-5-cross-cultural-assignments.md
+    - name: "6.6 Strategies for Expanding Globally"
+      href: management/international-management/6-6-strategies-for-expanding-globally.md
+    - name: "6.7 The Necessity of Global Markets"
+      href: management/international-management/6-7-the-necessity-of-global-markets.md
+  - name: "7 Entrepreneurship"
+    href: management/entrepreneurship/index.md
+    items:
+    - name: "7.1 Entrepreneurship"
+      href: management/entrepreneurship/7-1-entrepreneurship.md
+    - name: "7.2 Characteristics of Successful Entrepreneurs"
+      href: management/entrepreneurship/7-2-characteristics-of-successful-entrepreneurs.md
+    - name: "7.3 Small Business"
+      href: management/entrepreneurship/7-3-small-business.md
+    - name: "7.4 Start Your Own Business"
+      href: management/entrepreneurship/7-4-start-your-own-business.md
+    - name: "7.5 Managing a Small Business"
+      href: management/entrepreneurship/7-5-managing-a-small-business.md
+    - name: "7.6 The Large Impact of Small Business"
+      href: management/entrepreneurship/7-6-the-large-impact-of-small-business.md
+    - name: "7.7 The Small Business Administration"
+      href: management/entrepreneurship/7-7-the-small-business-administration.md
+    - name: "7.8 Trends in Entrepreneurship and Small-Business Ownership"
+      href: management/entrepreneurship/7-8-trends-in-entrepreneurship-and-small-business-ownership.md
+  - name: "8 Strategic Analysis: Understanding a Firm’s Competitive Environment"
+    href: management/strategic-analysis-understanding-a-firms-competitive-environ/index.md
+    items:
+    - name: "8.1 Gaining Advantages by Understanding the Competitive Environment"
+      href: management/strategic-analysis-understanding-a-firms-competitive-environ/8-1-gaining-advantages-by-understanding-the-competitive-environm.md
+    - name: "8.2 Using SWOT for Strategic Analysis"
+      href: management/strategic-analysis-understanding-a-firms-competitive-environ/8-2-using-swot-for-strategic-analysis.md
+    - name: "8.3 A Firm's External Macro Environment: PESTEL"
+      href: management/strategic-analysis-understanding-a-firms-competitive-environ/8-3-a-firm-s-external-macro-environment-pestel.md
+    - name: "8.4 A Firm's Micro Environment: Porter's Five Forces"
+      href: management/strategic-analysis-understanding-a-firms-competitive-environ/8-4-a-firm-s-micro-environment-porter-s-five-forces.md
+    - name: "8.5 The Internal Environment"
+      href: management/strategic-analysis-understanding-a-firms-competitive-environ/8-5-the-internal-environment.md
+    - name: "8.6 Competition, Strategy, and Competitive Advantage"
+      href: management/strategic-analysis-understanding-a-firms-competitive-environ/8-6-competition-strategy-and-competitive-advantage.md
+    - name: "8.7 Strategic Positioning"
+      href: management/strategic-analysis-understanding-a-firms-competitive-environ/8-7-strategic-positioning.md
+  - name: "9 The Strategic Management Process: Achieving and Sustaining Competitive Advantage"
+    href: management/the-strategic-management-process-achieving-and-sustaining-co/index.md
+    items:
+    - name: "9.1 Strategic Management"
+      href: management/the-strategic-management-process-achieving-and-sustaining-co/9-1-strategic-management.md
+    - name: "9.2 Firm Vision and Mission"
+      href: management/the-strategic-management-process-achieving-and-sustaining-co/9-2-firm-vision-and-mission.md
+    - name: "9.3 The Role of Strategic Analysis in Formulating a Strategy"
+      href: management/the-strategic-management-process-achieving-and-sustaining-co/9-3-the-role-of-strategic-analysis-in-formulating-a-strategy.md
+    - name: "9.4 Strategic Objectives and Levels of Strategy"
+      href: management/the-strategic-management-process-achieving-and-sustaining-co/9-4-strategic-objectives-and-levels-of-strategy.md
+    - name: "9.5 Planning Firm Actions to Implement Strategies"
+      href: management/the-strategic-management-process-achieving-and-sustaining-co/9-5-planning-firm-actions-to-implement-strategies.md
+    - name: "9.6 Measuring and Evaluating Strategic Performance"
+      href: management/the-strategic-management-process-achieving-and-sustaining-co/9-6-measuring-and-evaluating-strategic-performance.md
+  - name: "10 Organizational Structure and Change"
+    href: management/organizational-structure-and-change/index.md
+    items:
+    - name: "10.1 Organizational Structures and Design"
+      href: management/organizational-structure-and-change/10-1-organizational-structures-and-design.md
+    - name: "10.2 Organizational Change"
+      href: management/organizational-structure-and-change/10-2-organizational-change.md
+    - name: "10.3 Managing Change"
+      href: management/organizational-structure-and-change/10-3-managing-change.md
+  - name: "11 Human Resource Management"
+    href: management/human-resource-management/index.md
+    items:
+    - name: "11.1 An Introduction to Human Resource Management"
+      href: management/human-resource-management/11-1-an-introduction-to-human-resource-management.md
+    - name: "11.2 Human Resource Management and Compliance"
+      href: management/human-resource-management/11-2-human-resource-management-and-compliance.md
+    - name: "11.3 Performance Management"
+      href: management/human-resource-management/11-3-performance-management.md
+    - name: "11.4 Influencing Employee Performance and Motivation"
+      href: management/human-resource-management/11-4-influencing-employee-performance-and-motivation.md
+    - name: "11.5 Building an Organization for the Future"
+      href: management/human-resource-management/11-5-building-an-organization-for-the-future.md
+    - name: "11.6 Talent Development and Succession Planning"
+      href: management/human-resource-management/11-6-talent-development-and-succession-planning.md
+  - name: "12 Diversity in Organizations"
+    href: management/diversity-in-organizations/index.md
+    items:
+    - name: "12.1 An Introduction to Workplace Diversity"
+      href: management/diversity-in-organizations/12-1-an-introduction-to-workplace-diversity.md
+    - name: "12.2 Diversity and the Workforce"
+      href: management/diversity-in-organizations/12-2-diversity-and-the-workforce.md
+    - name: "12.3 Diversity and Its Impact on Companies"
+      href: management/diversity-in-organizations/12-3-diversity-and-its-impact-on-companies.md
+    - name: "12.4 Challenges of Diversity"
+      href: management/diversity-in-organizations/12-4-challenges-of-diversity.md
+    - name: "12.5 Key Diversity Theories"
+      href: management/diversity-in-organizations/12-5-key-diversity-theories.md
+    - name: "12.6 Benefits and Challenges of Workplace Diversity"
+      href: management/diversity-in-organizations/12-6-benefits-and-challenges-of-workplace-diversity.md
+    - name: "12.7 Recommendations for Managing Diversity"
+      href: management/diversity-in-organizations/12-7-recommendations-for-managing-diversity.md
+  - name: "13 Leadership"
+    href: management/leadership/index.md
+    items:
+    - name: "13.1 The Nature of Leadership"
+      href: management/leadership/13-1-the-nature-of-leadership.md
+    - name: "13.2 The Leadership Process"
+      href: management/leadership/13-2-the-leadership-process.md
+    - name: "13.3 Leader Emergence"
+      href: management/leadership/13-3-leader-emergence.md
+    - name: "13.4 The Trait Approach to Leadership"
+      href: management/leadership/13-4-the-trait-approach-to-leadership.md
+    - name: "13.5 Behavioral Approaches to Leadership"
+      href: management/leadership/13-5-behavioral-approaches-to-leadership.md
+    - name: "13.6 Situational (Contingency) Approaches to Leadership"
+      href: management/leadership/13-6-situational-contingency-approaches-to-leadership.md
+    - name: "13.7 Substitutes for and Neutralizers of Leadership"
+      href: management/leadership/13-7-substitutes-for-and-neutralizers-of-leadership.md
+    - name: "13.8 Transformational, Visionary, and Charismatic Leadership"
+      href: management/leadership/13-8-transformational-visionary-and-charismatic-leadership.md
+    - name: "13.9 Leadership Needs in the 21st Century"
+      href: management/leadership/13-9-leadership-needs-in-the-21st-century.md
+  - name: "14 Work Motivation for Performance"
+    href: management/work-motivation-for-performance/index.md
+    items:
+    - name: "14.1 Motivation: Direction and Intensity"
+      href: management/work-motivation-for-performance/14-1-motivation-direction-and-intensity.md
+    - name: "14.2 Content Theories of Motivation"
+      href: management/work-motivation-for-performance/14-2-content-theories-of-motivation.md
+    - name: "14.3 Process Theories of Motivation"
+      href: management/work-motivation-for-performance/14-3-process-theories-of-motivation.md
+    - name: "14.4 Recent Research on Motivation Theories"
+      href: management/work-motivation-for-performance/14-4-recent-research-on-motivation-theories.md
+  - name: "15 Managing Teams"
+    href: management/managing-teams/index.md
+    items:
+    - name: "15.1 Teamwork in the Workplace"
+      href: management/managing-teams/15-1-teamwork-in-the-workplace.md
+    - name: "15.2 Team Development Over Time"
+      href: management/managing-teams/15-2-team-development-over-time.md
+    - name: "15.3 Things to Consider When Managing Teams"
+      href: management/managing-teams/15-3-things-to-consider-when-managing-teams.md
+    - name: "15.4 Opportunities and Challenges to Team Building"
+      href: management/managing-teams/15-4-opportunities-and-challenges-to-team-building.md
+    - name: "15.5 Team Diversity"
+      href: management/managing-teams/15-5-team-diversity.md
+    - name: "15.6 Multicultural Teams"
+      href: management/managing-teams/15-6-multicultural-teams.md
+  - name: "16 Managerial Communication"
+    href: management/managerial-communication/index.md
+    items:
+    - name: "16.1 The Process of Managerial Communication"
+      href: management/managerial-communication/16-1-the-process-of-managerial-communication.md
+    - name: "16.2 Types of Communications in Organizations"
+      href: management/managerial-communication/16-2-types-of-communications-in-organizations.md
+    - name: "16.3 Factors Affecting Communications and the Roles of Managers"
+      href: management/managerial-communication/16-3-factors-affecting-communications-and-the-roles-of-managers.md
+    - name: "16.4 Managerial Communication and Corporate Reputation"
+      href: management/managerial-communication/16-4-managerial-communication-and-corporate-reputation.md
+    - name: "16.5 The Major Channels of Management Communication Are Talking, Listening, Reading, and Writing"
+      href: management/managerial-communication/16-5-the-major-channels-of-management-communication-are-talking-l.md
+  - name: "17 Organizational Planning and Controlling"
+    href: management/organizational-planning-and-controlling/index.md
+    items:
+    - name: "17.1 Is Planning Important"
+      href: management/organizational-planning-and-controlling/17-1-is-planning-important.md
+    - name: "17.2 The Planning Process"
+      href: management/organizational-planning-and-controlling/17-2-the-planning-process.md
+    - name: "17.3 Types of Plans"
+      href: management/organizational-planning-and-controlling/17-3-types-of-plans.md
+    - name: "17.4 Goals or Outcome Statements"
+      href: management/organizational-planning-and-controlling/17-4-goals-or-outcome-statements.md
+    - name: "17.5 Formal Organizational Planning in Practice"
+      href: management/organizational-planning-and-controlling/17-5-formal-organizational-planning-in-practice.md
+    - name: "17.6 Employees' Responses to Planning"
+      href: management/organizational-planning-and-controlling/17-6-employees-responses-to-planning.md
+    - name: "17.7 Management by Objectives: A Planning and Control Technique"
+      href: management/organizational-planning-and-controlling/17-7-management-by-objectives-a-planning-and-control-technique.md
+    - name: "17.8 The Control- and Involvement-Oriented Approaches to Planning and Controlling"
+      href: management/organizational-planning-and-controlling/17-8-the-control-and-involvement-oriented-approaches-to-planning.md
+  - name: "18 Management of Technology and Innovation"
+    href: management/management-of-technology-and-innovation/index.md
+    items:
+    - name: "18.1 MTI—Its Importance Now and In the Future"
+      href: management/management-of-technology-and-innovation/18-1-mti-its-importance-now-and-in-the-future.md
+    - name: "18.2 Developing Technology and Innovation"
+      href: management/management-of-technology-and-innovation/18-2-developing-technology-and-innovation.md
+    - name: "18.3 External Sources of Technology and Innovation"
+      href: management/management-of-technology-and-innovation/18-3-external-sources-of-technology-and-innovation.md
+    - name: "18.4 Internal Sources of Technology and Innovation"
+      href: management/management-of-technology-and-innovation/18-4-internal-sources-of-technology-and-innovation.md
+    - name: "18.5 Management Entrepreneurship Skills for Technology and Innovation"
+      href: management/management-of-technology-and-innovation/18-5-management-entrepreneurship-skills-for-technology-and-innova.md
+    - name: "18.6 Skills Needed for MTI"
+      href: management/management-of-technology-and-innovation/18-6-skills-needed-for-mti.md
+    - name: "18.7 Managing Now for Future Technology and Innovation"
+      href: management/management-of-technology-and-innovation/18-7-managing-now-for-future-technology-and-innovation.md
+- name: "3. Finance"
+  href: finance/index.md
+  items:
+  - name: "1 Introduction to Finance"
+    href: finance/introduction-to-finance/index.md
+    items:
+    - name: "1.1 What Is Finance?"
+      href: finance/introduction-to-finance/1-1-what-is-finance.md
+    - name: "1.2 The Role of Finance in an Organization"
+      href: finance/introduction-to-finance/1-2-the-role-of-finance-in-an-organization.md
+    - name: "1.3 Importance of Data and Technology"
+      href: finance/introduction-to-finance/1-3-importance-of-data-and-technology.md
+    - name: "1.4 Careers in Finance"
+      href: finance/introduction-to-finance/1-4-careers-in-finance.md
+    - name: "1.5 Markets and Participants"
+      href: finance/introduction-to-finance/1-5-markets-and-participants.md
+    - name: "1.6 Microeconomic and Macroeconomic Matters"
+      href: finance/introduction-to-finance/1-6-microeconomic-and-macroeconomic-matters.md
+    - name: "1.7 Financial Instruments"
+      href: finance/introduction-to-finance/1-7-financial-instruments.md
+    - name: "1.8 Concepts of Time and Value"
+      href: finance/introduction-to-finance/1-8-concepts-of-time-and-value.md
+  - name: "2 Corporate Structure and Governance"
+    href: finance/corporate-structure-and-governance/index.md
+    items:
+    - name: "2.1 Business Structures"
+      href: finance/corporate-structure-and-governance/2-1-business-structures.md
+    - name: "2.2 Relationship between Shareholders and Company Management"
+      href: finance/corporate-structure-and-governance/2-2-relationship-between-shareholders-and-company-management.md
+    - name: "2.3 Role of the Board of Directors"
+      href: finance/corporate-structure-and-governance/2-3-role-of-the-board-of-directors.md
+    - name: "2.4 Agency Issues: Shareholders and Corporate Boards"
+      href: finance/corporate-structure-and-governance/2-4-agency-issues-shareholders-and-corporate-boards.md
+    - name: "2.5 Interacting with Investors, Intermediaries, and Other Market Participants"
+      href: finance/corporate-structure-and-governance/2-5-interacting-with-investors-intermediaries-and-other-market-p.md
+    - name: "2.6 Companies in Domestic and Global Markets"
+      href: finance/corporate-structure-and-governance/2-6-companies-in-domestic-and-global-markets.md
+  - name: "3 Economic Foundations: Money and Rates"
+    href: finance/economic-foundations-money-and-rates/index.md
+    items:
+    - name: "3.1 Microeconomics"
+      href: finance/economic-foundations-money-and-rates/3-1-microeconomics.md
+    - name: "3.2 Macroeconomics"
+      href: finance/economic-foundations-money-and-rates/3-2-macroeconomics.md
+    - name: "3.3 Business Cycles and Economic Activity"
+      href: finance/economic-foundations-money-and-rates/3-3-business-cycles-and-economic-activity.md
+    - name: "3.4 Interest Rates"
+      href: finance/economic-foundations-money-and-rates/3-4-interest-rates.md
+    - name: "3.5 Foreign Exchange Rates"
+      href: finance/economic-foundations-money-and-rates/3-5-foreign-exchange-rates.md
+    - name: "3.6 Sources and Characteristics of Economic Data"
+      href: finance/economic-foundations-money-and-rates/3-6-sources-and-characteristics-of-economic-data.md
+  - name: "4 Accrual Accounting Process"
+    href: finance/accrual-accounting-process/index.md
+    items:
+    - name: "4.1 Cash versus Accrual Accounting"
+      href: finance/accrual-accounting-process/4-1-cash-versus-accrual-accounting.md
+    - name: "4.2 Economic Basis for Accrual Accounting"
+      href: finance/accrual-accounting-process/4-2-economic-basis-for-accrual-accounting.md
+    - name: "4.3 How Does a Company Recognize a Sale and an Expense?"
+      href: finance/accrual-accounting-process/4-3-how-does-a-company-recognize-a-sale-and-an-expense.md
+    - name: "4.4 When Should a Company Capitalize or Expense an Item?"
+      href: finance/accrual-accounting-process/4-4-when-should-a-company-capitalize-or-expense-an-item.md
+    - name: "4.5 What Is “Profit” versus “Loss” for the Company?"
+      href: finance/accrual-accounting-process/4-5-what-is-profit-versus-loss-for-the-company.md
+  - name: "5 Financial Statements"
+    href: finance/financial-statements/index.md
+    items:
+    - name: "5.1 The Income Statement"
+      href: finance/financial-statements/5-1-the-income-statement.md
+    - name: "5.2 The Balance Sheet"
+      href: finance/financial-statements/5-2-the-balance-sheet.md
+    - name: "5.3 The Relationship between the Balance Sheet and the Income Statement"
+      href: finance/financial-statements/5-3-the-relationship-between-the-balance-sheet-and-the-income-st.md
+    - name: "5.4 The Statement of Owner’s Equity"
+      href: finance/financial-statements/5-4-the-statement-of-owners-equity.md
+    - name: "5.5 The Statement of Cash Flows"
+      href: finance/financial-statements/5-5-the-statement-of-cash-flows.md
+    - name: "5.6 Operating Cash Flow and Free Cash Flow to the Firm (FCFF)"
+      href: finance/financial-statements/5-6-operating-cash-flow-and-free-cash-flow-to-the-firm-fcff.md
+    - name: "5.7 Common-Size Statements"
+      href: finance/financial-statements/5-7-common-size-statements.md
+    - name: "5.8 Reporting Financial Activity"
+      href: finance/financial-statements/5-8-reporting-financial-activity.md
+  - name: "6 Measures of Financial Health"
+    href: finance/measures-of-financial-health/index.md
+    items:
+    - name: "6.1 Ratios: Condensing Information into Smaller Pieces"
+      href: finance/measures-of-financial-health/6-1-ratios-condensing-information-into-smaller-pieces.md
+    - name: "6.2 Operating Efficiency Ratios"
+      href: finance/measures-of-financial-health/6-2-operating-efficiency-ratios.md
+    - name: "6.3 Liquidity Ratios"
+      href: finance/measures-of-financial-health/6-3-liquidity-ratios.md
+    - name: "6.4 Solvency Ratios"
+      href: finance/measures-of-financial-health/6-4-solvency-ratios.md
+    - name: "6.5 Market Value Ratios"
+      href: finance/measures-of-financial-health/6-5-market-value-ratios.md
+    - name: "6.6 Profitability Ratios and the DuPont Method"
+      href: finance/measures-of-financial-health/6-6-profitability-ratios-and-the-dupont-method.md
+  - name: "7 Time Value of Money I: Single Payment Value"
+    href: finance/time-value-of-money-i-single-payment-value/index.md
+    items:
+    - name: "7.1 Now versus Later Concepts"
+      href: finance/time-value-of-money-i-single-payment-value/7-1-now-versus-later-concepts.md
+    - name: "7.2 Time Value of Money (TVM) Basics"
+      href: finance/time-value-of-money-i-single-payment-value/7-2-time-value-of-money-tvm-basics.md
+    - name: "7.3 Methods for Solving Time Value of Money Problems"
+      href: finance/time-value-of-money-i-single-payment-value/7-3-methods-for-solving-time-value-of-money-problems.md
+    - name: "7.4 Applications of TVM in Finance"
+      href: finance/time-value-of-money-i-single-payment-value/7-4-applications-of-tvm-in-finance.md
+  - name: "8 Time Value of Money II: Equal Multiple Payments"
+    href: finance/time-value-of-money-ii-equal-multiple-payments/index.md
+    items:
+    - name: "8.1 Perpetuities"
+      href: finance/time-value-of-money-ii-equal-multiple-payments/8-1-perpetuities.md
+    - name: "8.2 Annuities"
+      href: finance/time-value-of-money-ii-equal-multiple-payments/8-2-annuities.md
+    - name: "8.3 Loan Amortization"
+      href: finance/time-value-of-money-ii-equal-multiple-payments/8-3-loan-amortization.md
+    - name: "8.4 Stated versus Effective Rates"
+      href: finance/time-value-of-money-ii-equal-multiple-payments/8-4-stated-versus-effective-rates.md
+    - name: "8.5 Equal Payments with a Financial Calculator and Excel"
+      href: finance/time-value-of-money-ii-equal-multiple-payments/8-5-equal-payments-with-a-financial-calculator-and-excel.md
+  - name: "9 Time Value of Money III: Unequal Multiple Payment Values"
+    href: finance/time-value-of-money-iii-unequal-multiple-payment-values/index.md
+    items:
+    - name: "9.1 Timing of Cash Flows"
+      href: finance/time-value-of-money-iii-unequal-multiple-payment-values/9-1-timing-of-cash-flows.md
+    - name: "9.2 Unequal Payments Using a Financial Calculator or Microsoft Excel"
+      href: finance/time-value-of-money-iii-unequal-multiple-payment-values/9-2-unequal-payments-using-a-financial-calculator-or-microsoft-e.md
+  - name: "10 Bonds and Bond Valuation"
+    href: finance/bonds-and-bond-valuation/index.md
+    items:
+    - name: "10.1 Characteristics of Bonds"
+      href: finance/bonds-and-bond-valuation/10-1-characteristics-of-bonds.md
+    - name: "10.2 Bond Valuation"
+      href: finance/bonds-and-bond-valuation/10-2-bond-valuation.md
+    - name: "10.3 Using the Yield Curve"
+      href: finance/bonds-and-bond-valuation/10-3-using-the-yield-curve.md
+    - name: "10.4 Risks of Interest Rates and Default"
+      href: finance/bonds-and-bond-valuation/10-4-risks-of-interest-rates-and-default.md
+    - name: "10.5 Using Spreadsheets to Solve Bond Problems"
+      href: finance/bonds-and-bond-valuation/10-5-using-spreadsheets-to-solve-bond-problems.md
+  - name: "11 Stocks and Stock Valuation"
+    href: finance/stocks-and-stock-valuation/index.md
+    items:
+    - name: "11.1 Multiple Approaches to Stock Valuation"
+      href: finance/stocks-and-stock-valuation/11-1-multiple-approaches-to-stock-valuation.md
+    - name: "11.2 Dividend Discount Models (DDMs)"
+      href: finance/stocks-and-stock-valuation/11-2-dividend-discount-models-ddms.md
+    - name: "11.3 Discounted Cash Flow (DCF) Model"
+      href: finance/stocks-and-stock-valuation/11-3-discounted-cash-flow-dcf-model.md
+    - name: "11.4 Preferred Stock"
+      href: finance/stocks-and-stock-valuation/11-4-preferred-stock.md
+    - name: "11.5 Efficient Markets"
+      href: finance/stocks-and-stock-valuation/11-5-efficient-markets.md
+  - name: "12 Historical Performance of US Markets"
+    href: finance/historical-performance-of-us-markets/index.md
+    items:
+    - name: "12.1 Overview of US Financial Markets"
+      href: finance/historical-performance-of-us-markets/12-1-overview-of-us-financial-markets.md
+    - name: "12.2 Historical Picture of Inflation"
+      href: finance/historical-performance-of-us-markets/12-2-historical-picture-of-inflation.md
+    - name: "12.3 Historical Picture of Returns to Bonds"
+      href: finance/historical-performance-of-us-markets/12-3-historical-picture-of-returns-to-bonds.md
+    - name: "12.4 Historical Picture of Returns to Stocks"
+      href: finance/historical-performance-of-us-markets/12-4-historical-picture-of-returns-to-stocks.md
+  - name: "13 Statistical Analysis in Finance"
+    href: finance/statistical-analysis-in-finance/index.md
+    items:
+    - name: "13.1 Measures of Center"
+      href: finance/statistical-analysis-in-finance/13-1-measures-of-center.md
+    - name: "13.2 Measures of Spread"
+      href: finance/statistical-analysis-in-finance/13-2-measures-of-spread.md
+    - name: "13.3 Measures of Position"
+      href: finance/statistical-analysis-in-finance/13-3-measures-of-position.md
+    - name: "13.4 Statistical Distributions"
+      href: finance/statistical-analysis-in-finance/13-4-statistical-distributions.md
+    - name: "13.5 Probability Distributions"
+      href: finance/statistical-analysis-in-finance/13-5-probability-distributions.md
+    - name: "13.6 Data Visualization and Graphical Displays"
+      href: finance/statistical-analysis-in-finance/13-6-data-visualization-and-graphical-displays.md
+    - name: "13.7 The R Statistical Analysis Tool"
+      href: finance/statistical-analysis-in-finance/13-7-the-r-statistical-analysis-tool.md
+  - name: "14 Regression Analysis in Finance"
+    href: finance/regression-analysis-in-finance/index.md
+    items:
+    - name: "14.1 Correlation Analysis"
+      href: finance/regression-analysis-in-finance/14-1-correlation-analysis.md
+    - name: "14.2 Linear Regression Analysis"
+      href: finance/regression-analysis-in-finance/14-2-linear-regression-analysis.md
+    - name: "14.3 Best-Fit Linear Model"
+      href: finance/regression-analysis-in-finance/14-3-best-fit-linear-model.md
+    - name: "14.4 Regression Applications in Finance"
+      href: finance/regression-analysis-in-finance/14-4-regression-applications-in-finance.md
+    - name: "14.5 Predictions and Prediction Intervals"
+      href: finance/regression-analysis-in-finance/14-5-predictions-and-prediction-intervals.md
+    - name: "14.6 Use of R Statistical Analysis Tool for Regression Analysis"
+      href: finance/regression-analysis-in-finance/14-6-use-of-r-statistical-analysis-tool-for-regression-analysis.md
+  - name: "15 How to Think about Investing"
+    href: finance/how-to-think-about-investing/index.md
+    items:
+    - name: "15.1 Risk and Return to an Individual Asset"
+      href: finance/how-to-think-about-investing/15-1-risk-and-return-to-an-individual-asset.md
+    - name: "15.2 Risk and Return to Multiple Assets"
+      href: finance/how-to-think-about-investing/15-2-risk-and-return-to-multiple-assets.md
+    - name: "15.3 The Capital Asset Pricing Model (CAPM)"
+      href: finance/how-to-think-about-investing/15-3-the-capital-asset-pricing-model-capm.md
+    - name: "15.4 Applications in Performance Measurement"
+      href: finance/how-to-think-about-investing/15-4-applications-in-performance-measurement.md
+    - name: "15.5 Using Excel to Make Investment Decisions"
+      href: finance/how-to-think-about-investing/15-5-using-excel-to-make-investment-decisions.md
+  - name: "16 How Companies Think about Investing"
+    href: finance/how-companies-think-about-investing/index.md
+    items:
+    - name: "16.1 Payback Period Method"
+      href: finance/how-companies-think-about-investing/16-1-payback-period-method.md
+    - name: "16.2 Net Present Value (NPV) Method"
+      href: finance/how-companies-think-about-investing/16-2-net-present-value-npv-method.md
+    - name: "16.3 Internal Rate of Return (IRR) Method"
+      href: finance/how-companies-think-about-investing/16-3-internal-rate-of-return-irr-method.md
+    - name: "16.4 Alternative Methods"
+      href: finance/how-companies-think-about-investing/16-4-alternative-methods.md
+    - name: "16.5 Choosing between Projects"
+      href: finance/how-companies-think-about-investing/16-5-choosing-between-projects.md
+    - name: "16.6 Using Excel to Make Company Investment Decisions"
+      href: finance/how-companies-think-about-investing/16-6-using-excel-to-make-company-investment-decisions.md
+  - name: "17 How Firms Raise Capital"
+    href: finance/how-firms-raise-capital/index.md
+    items:
+    - name: "17.1 The Concept of Capital Structure"
+      href: finance/how-firms-raise-capital/17-1-the-concept-of-capital-structure.md
+    - name: "17.2 The Costs of Debt and Equity Capital"
+      href: finance/how-firms-raise-capital/17-2-the-costs-of-debt-and-equity-capital.md
+    - name: "17.3 Calculating the Weighted Average Cost of Capital"
+      href: finance/how-firms-raise-capital/17-3-calculating-the-weighted-average-cost-of-capital.md
+    - name: "17.4 Capital Structure Choices"
+      href: finance/how-firms-raise-capital/17-4-capital-structure-choices.md
+    - name: "17.5 Optimal Capital Structure"
+      href: finance/how-firms-raise-capital/17-5-optimal-capital-structure.md
+    - name: "17.6 Alternative Sources of Funds"
+      href: finance/how-firms-raise-capital/17-6-alternative-sources-of-funds.md
+  - name: "18 Financial Forecasting"
+    href: finance/financial-forecasting/index.md
+    items:
+    - name: "18.1 The Importance of Forecasting"
+      href: finance/financial-forecasting/18-1-the-importance-of-forecasting.md
+    - name: "18.2 Forecasting Sales"
+      href: finance/financial-forecasting/18-2-forecasting-sales.md
+    - name: "18.3 Pro Forma Financials"
+      href: finance/financial-forecasting/18-3-pro-forma-financials.md
+    - name: "18.4 Generating the Complete Forecast"
+      href: finance/financial-forecasting/18-4-generating-the-complete-forecast.md
+    - name: "18.5 Forecasting Cash Flow and Assessing the Value of Growth"
+      href: finance/financial-forecasting/18-5-forecasting-cash-flow-and-assessing-the-value-of-growth.md
+    - name: "18.6 Using Excel to Create the Long-Term Forecast"
+      href: finance/financial-forecasting/18-6-using-excel-to-create-the-long-term-forecast.md
+  - name: "19 The Importance of Trade Credit and Working Capital in Planning"
+    href: finance/the-importance-of-trade-credit-and-working-capital-in-planni/index.md
+    items:
+    - name: "19.1 What Is Working Capital?"
+      href: finance/the-importance-of-trade-credit-and-working-capital-in-planni/19-1-what-is-working-capital.md
+    - name: "19.2 What Is Trade Credit?"
+      href: finance/the-importance-of-trade-credit-and-working-capital-in-planni/19-2-what-is-trade-credit.md
+    - name: "19.3 Cash Management"
+      href: finance/the-importance-of-trade-credit-and-working-capital-in-planni/19-3-cash-management.md
+    - name: "19.4 Receivables Management"
+      href: finance/the-importance-of-trade-credit-and-working-capital-in-planni/19-4-receivables-management.md
+    - name: "19.5 Inventory Management"
+      href: finance/the-importance-of-trade-credit-and-working-capital-in-planni/19-5-inventory-management.md
+    - name: "19.6 Using Excel to Create the Short-Term Plan"
+      href: finance/the-importance-of-trade-credit-and-working-capital-in-planni/19-6-using-excel-to-create-the-short-term-plan.md
+  - name: "20 Risk Management and the Financial Manager"
+    href: finance/risk-management-and-the-financial-manager/index.md
+    items:
+    - name: "20.1 The Importance of Risk Management"
+      href: finance/risk-management-and-the-financial-manager/20-1-the-importance-of-risk-management.md
+    - name: "20.2 Commodity Price Risk"
+      href: finance/risk-management-and-the-financial-manager/20-2-commodity-price-risk.md
+    - name: "20.3 Exchange Rates and Risk"
+      href: finance/risk-management-and-the-financial-manager/20-3-exchange-rates-and-risk.md
+    - name: "20.4 Interest Rate Risk"
+      href: finance/risk-management-and-the-financial-manager/20-4-interest-rate-risk.md
+- name: "4. Accounting"
+  href: accounting/index.md
+  items:
+  - name: "1 Accounting as a Tool for Managers"
+    href: accounting/accounting-as-a-tool-for-managers/index.md
+    items:
+    - name: "1.1 Define Managerial Accounting and Identify the Three Primary Responsibilities of Management"
+      href: accounting/accounting-as-a-tool-for-managers/1-1-define-managerial-accounting-and-identify-the-three-primary.md
+    - name: "1.2 Distinguish between Financial and Managerial Accounting"
+      href: accounting/accounting-as-a-tool-for-managers/1-2-distinguish-between-financial-and-managerial-accounting.md
+    - name: "1.3 Explain the Primary Roles and Skills Required of Managerial Accountants"
+      href: accounting/accounting-as-a-tool-for-managers/1-3-explain-the-primary-roles-and-skills-required-of-managerial.md
+    - name: "1.4 Describe the Role of the Institute of Management Accountants and the Use of Ethical Standards"
+      href: accounting/accounting-as-a-tool-for-managers/1-4-describe-the-role-of-the-institute-of-management-accountants.md
+    - name: "1.5 Describe Trends in Today’s Business Environment and Analyze Their Impact on Accounting"
+      href: accounting/accounting-as-a-tool-for-managers/1-5-describe-trends-in-todays-business-environment-and-analyze-t.md
+  - name: "2 Building Blocks of Managerial Accounting"
+    href: accounting/building-blocks-of-managerial-accounting/index.md
+    items:
+    - name: "2.1 Distinguish between Merchandising, Manufacturing, and Service Organizations"
+      href: accounting/building-blocks-of-managerial-accounting/2-1-distinguish-between-merchandising-manufacturing-and-service.md
+    - name: "2.2 Identify and Apply Basic Cost Behavior Patterns"
+      href: accounting/building-blocks-of-managerial-accounting/2-2-identify-and-apply-basic-cost-behavior-patterns.md
+    - name: "2.3 Estimate a Variable and Fixed Cost Equation and Predict Future Costs"
+      href: accounting/building-blocks-of-managerial-accounting/2-3-estimate-a-variable-and-fixed-cost-equation-and-predict-futu.md
+  - name: "3 Cost-Volume-Profit Analysis"
+    href: accounting/cost-volume-profit-analysis/index.md
+    items:
+    - name: "3.1 Explain Contribution Margin and Calculate Contribution Margin per Unit, Contribution Margin Ratio, and Total Contribution Margin"
+      href: accounting/cost-volume-profit-analysis/3-1-explain-contribution-margin-and-calculate-contribution-margi.md
+    - name: "3.2 Calculate a Break-Even Point in Units and Dollars"
+      href: accounting/cost-volume-profit-analysis/3-2-calculate-a-break-even-point-in-units-and-dollars.md
+    - name: "3.3 Perform Break-Even Sensitivity Analysis for a Single Product Under Changing Business Situations"
+      href: accounting/cost-volume-profit-analysis/3-3-perform-break-even-sensitivity-analysis-for-a-single-product.md
+    - name: "3.4 Perform Break-Even Sensitivity Analysis for a Multi-Product Environment Under Changing Business Situations"
+      href: accounting/cost-volume-profit-analysis/3-4-perform-break-even-sensitivity-analysis-for-a-multi-product.md
+    - name: "3.5 Calculate and Interpret a Company’s Margin of Safety and Operating Leverage"
+      href: accounting/cost-volume-profit-analysis/3-5-calculate-and-interpret-a-companys-margin-of-safety-and-oper.md
+  - name: "4 Job Order Costing"
+    href: accounting/job-order-costing/index.md
+    items:
+    - name: "4.1 Distinguish between Job Order Costing and Process Costing"
+      href: accounting/job-order-costing/4-1-distinguish-between-job-order-costing-and-process-costing.md
+    - name: "4.2 Describe and Identify the Three Major Components of Product Costs under Job Order Costing"
+      href: accounting/job-order-costing/4-2-describe-and-identify-the-three-major-components-of-product.md
+    - name: "4.3 Use the Job Order Costing Method to Trace the Flow of Product Costs through the Inventory Accounts"
+      href: accounting/job-order-costing/4-3-use-the-job-order-costing-method-to-trace-the-flow-of-produc.md
+    - name: "4.4 Compute a Predetermined Overhead Rate and Apply Overhead to Production"
+      href: accounting/job-order-costing/4-4-compute-a-predetermined-overhead-rate-and-apply-overhead-to.md
+    - name: "4.5 Compute the Cost of a Job Using Job Order Costing"
+      href: accounting/job-order-costing/4-5-compute-the-cost-of-a-job-using-job-order-costing.md
+    - name: "4.6 Determine and Dispose of Underapplied or Overapplied Overhead"
+      href: accounting/job-order-costing/4-6-determine-and-dispose-of-underapplied-or-overapplied-overhea.md
+    - name: "4.7 Prepare Journal Entries for a Job Order Cost System"
+      href: accounting/job-order-costing/4-7-prepare-journal-entries-for-a-job-order-cost-system.md
+    - name: "4.8 Explain How a Job Order Cost System Applies to a Nonmanufacturing Environment"
+      href: accounting/job-order-costing/4-8-explain-how-a-job-order-cost-system-applies-to-a-nonmanufact.md
+  - name: "5 Process Costing"
+    href: accounting/process-costing/index.md
+    items:
+    - name: "5.1 Compare and Contrast Job Order Costing and Process Costing"
+      href: accounting/process-costing/5-1-compare-and-contrast-job-order-costing-and-process-costing.md
+    - name: "5.2 Explain and Identify Conversion Costs"
+      href: accounting/process-costing/5-2-explain-and-identify-conversion-costs.md
+    - name: "5.3 Explain and Compute Equivalent Units and Total Cost of Production in an Initial Processing Stage"
+      href: accounting/process-costing/5-3-explain-and-compute-equivalent-units-and-total-cost-of-produ.md
+    - name: "5.4 Explain and Compute Equivalent Units and Total Cost of Production in a Subsequent Processing Stage"
+      href: accounting/process-costing/5-4-explain-and-compute-equivalent-units-and-total-cost-of-produ.md
+    - name: "5.5 Prepare Journal Entries for a Process Costing System"
+      href: accounting/process-costing/5-5-prepare-journal-entries-for-a-process-costing-system.md
+  - name: "6 Activity-Based, Variable, and Absorption Costing"
+    href: accounting/activity-based-variable-and-absorption-costing/index.md
+    items:
+    - name: "6.1 Calculate Predetermined Overhead and Total Cost under the Traditional Allocation Method"
+      href: accounting/activity-based-variable-and-absorption-costing/6-1-calculate-predetermined-overhead-and-total-cost-under-the-tr.md
+    - name: "6.2 Describe and Identify Cost Drivers"
+      href: accounting/activity-based-variable-and-absorption-costing/6-2-describe-and-identify-cost-drivers.md
+    - name: "6.3 Calculate Activity-Based Product Costs"
+      href: accounting/activity-based-variable-and-absorption-costing/6-3-calculate-activity-based-product-costs.md
+    - name: "6.4 Compare and Contrast Traditional and Activity-Based Costing Systems"
+      href: accounting/activity-based-variable-and-absorption-costing/6-4-compare-and-contrast-traditional-and-activity-based-costing.md
+    - name: "6.5 Compare and Contrast Variable and Absorption Costing"
+      href: accounting/activity-based-variable-and-absorption-costing/6-5-compare-and-contrast-variable-and-absorption-costing.md
+  - name: "7 Budgeting"
+    href: accounting/budgeting/index.md
+    items:
+    - name: "7.1 Describe How and Why Managers Use Budgets"
+      href: accounting/budgeting/7-1-describe-how-and-why-managers-use-budgets.md
+    - name: "7.2 Prepare Operating Budgets"
+      href: accounting/budgeting/7-2-prepare-operating-budgets.md
+    - name: "7.3 Prepare Financial Budgets"
+      href: accounting/budgeting/7-3-prepare-financial-budgets.md
+    - name: "7.4 Prepare Flexible Budgets"
+      href: accounting/budgeting/7-4-prepare-flexible-budgets.md
+    - name: "7.5 Explain How Budgets Are Used to Evaluate Goals"
+      href: accounting/budgeting/7-5-explain-how-budgets-are-used-to-evaluate-goals.md
+  - name: "8 Standard Costs and Variances"
+    href: accounting/standard-costs-and-variances/index.md
+    items:
+    - name: "8.1 Explain How and Why a Standard Cost Is Developed"
+      href: accounting/standard-costs-and-variances/8-1-explain-how-and-why-a-standard-cost-is-developed.md
+    - name: "8.2 Compute and Evaluate Materials Variances"
+      href: accounting/standard-costs-and-variances/8-2-compute-and-evaluate-materials-variances.md
+    - name: "8.3 Compute and Evaluate Labor Variances"
+      href: accounting/standard-costs-and-variances/8-3-compute-and-evaluate-labor-variances.md
+    - name: "8.4 Compute and Evaluate Overhead Variances"
+      href: accounting/standard-costs-and-variances/8-4-compute-and-evaluate-overhead-variances.md
+    - name: "8.5 Describe How Companies Use Variance Analysis"
+      href: accounting/standard-costs-and-variances/8-5-describe-how-companies-use-variance-analysis.md
+  - name: "9 Responsibility Accounting and Decentralization"
+    href: accounting/responsibility-accounting-and-decentralization/index.md
+    items:
+    - name: "9.1 Differentiate between Centralized and Decentralized Management"
+      href: accounting/responsibility-accounting-and-decentralization/9-1-differentiate-between-centralized-and-decentralized-manageme.md
+    - name: "9.2 Describe How Decision-Making Differs between Centralized and Decentralized Environments"
+      href: accounting/responsibility-accounting-and-decentralization/9-2-describe-how-decision-making-differs-between-centralized-and.md
+    - name: "9.3 Describe the Types of Responsibility Centers"
+      href: accounting/responsibility-accounting-and-decentralization/9-3-describe-the-types-of-responsibility-centers.md
+    - name: "9.4 Describe the Effects of Various Decisions on Performance Evaluation of Responsibility Centers"
+      href: accounting/responsibility-accounting-and-decentralization/9-4-describe-the-effects-of-various-decisions-on-performance-eva.md
+  - name: "10 Short-Term Decision Making"
+    href: accounting/short-term-decision-making/index.md
+    items:
+    - name: "10.1 Identify Relevant Information for Decision-Making"
+      href: accounting/short-term-decision-making/10-1-identify-relevant-information-for-decision-making.md
+    - name: "10.2 Evaluate and Determine Whether to Accept or Reject a Special Order"
+      href: accounting/short-term-decision-making/10-2-evaluate-and-determine-whether-to-accept-or-reject-a-special.md
+    - name: "10.3 Evaluate and Determine Whether to Make or Buy a Component"
+      href: accounting/short-term-decision-making/10-3-evaluate-and-determine-whether-to-make-or-buy-a-component.md
+    - name: "10.4 Evaluate and Determine Whether to Keep or Discontinue a Segment or Product"
+      href: accounting/short-term-decision-making/10-4-evaluate-and-determine-whether-to-keep-or-discontinue-a-segm.md
+    - name: "10.5 Evaluate and Determine Whether to Sell or Process Further"
+      href: accounting/short-term-decision-making/10-5-evaluate-and-determine-whether-to-sell-or-process-further.md
+    - name: "10.6 Evaluate and Determine How to Make Decisions When Resources Are Constrained"
+      href: accounting/short-term-decision-making/10-6-evaluate-and-determine-how-to-make-decisions-when-resources.md
+  - name: "11 Capital Budgeting Decisions"
+    href: accounting/capital-budgeting-decisions/index.md
+    items:
+    - name: "11.1 Describe Capital Investment Decisions and How They Are Applied"
+      href: accounting/capital-budgeting-decisions/11-1-describe-capital-investment-decisions-and-how-they-are-appli.md
+    - name: "11.2 Evaluate the Payback and Accounting Rate of Return in Capital Investment Decisions"
+      href: accounting/capital-budgeting-decisions/11-2-evaluate-the-payback-and-accounting-rate-of-return-in-capita.md
+    - name: "11.3 Explain the Time Value of Money and Calculate Present and Future Values of Lump Sums and Annuities"
+      href: accounting/capital-budgeting-decisions/11-3-explain-the-time-value-of-money-and-calculate-present-and-fu.md
+    - name: "11.4 Use Discounted Cash Flow Models to Make Capital Investment Decisions"
+      href: accounting/capital-budgeting-decisions/11-4-use-discounted-cash-flow-models-to-make-capital-investment-d.md
+    - name: "11.5 Compare and Contrast Non-Time Value-Based Methods and Time Value-Based Methods in Capital Investment Decisions"
+      href: accounting/capital-budgeting-decisions/11-5-compare-and-contrast-non-time-value-based-methods-and-time-v.md
+  - name: "12 Balanced Scorecard and Other Performance Measures"
+    href: accounting/balanced-scorecard-and-other-performance-measures/index.md
+    items:
+    - name: "12.1 Explain the Importance of Performance Measurement"
+      href: accounting/balanced-scorecard-and-other-performance-measures/12-1-explain-the-importance-of-performance-measurement.md
+    - name: "12.2 Identify the Characteristics of an Effective Performance Measure"
+      href: accounting/balanced-scorecard-and-other-performance-measures/12-2-identify-the-characteristics-of-an-effective-performance-mea.md
+    - name: "12.3 Evaluate an Operating Segment or a Project Using Return on Investment, Residual Income, and Economic Value Added"
+      href: accounting/balanced-scorecard-and-other-performance-measures/12-3-evaluate-an-operating-segment-or-a-project-using-return-on-i.md
+    - name: "12.4 Describe the Balanced Scorecard and Explain How It Is Used"
+      href: accounting/balanced-scorecard-and-other-performance-measures/12-4-describe-the-balanced-scorecard-and-explain-how-it-is-used.md
+  - name: "13 Sustainability Reporting"
+    href: accounting/sustainability-reporting/index.md
+    items:
+    - name: "13.1 Describe Sustainability and the Way It Creates Business Value"
+      href: accounting/sustainability-reporting/13-1-describe-sustainability-and-the-way-it-creates-business-valu.md
+    - name: "13.2 Identify User Needs for Information"
+      href: accounting/sustainability-reporting/13-2-identify-user-needs-for-information.md
+    - name: "13.3 Discuss Examples of Major Sustainability Initiatives"
+      href: accounting/sustainability-reporting/13-3-discuss-examples-of-major-sustainability-initiatives.md
+    - name: "13.4 Future Issues in Sustainability"
+      href: accounting/sustainability-reporting/13-4-future-issues-in-sustainability.md

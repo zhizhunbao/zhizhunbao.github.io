@@ -1,0 +1,79 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Marketing Strategy"
+  href: marketing-strategy/index.md
+  items:
+  - name: "1.1 Marketing Management Fundamentals"
+    href: marketing-strategy/1-1-marketing-management-fundamentals.md
+  - name: "1.2 Market Planning and Strategy"
+    href: marketing-strategy/1-2-market-planning-and-strategy.md
+- name: "2. Global, Ethical, and Sustainable Marketing"
+  href: global-ethical-and-sustainable-marketing/index.md
+  items:
+  - name: "2.1 Issues in Managing Global Marketing"
+    href: global-ethical-and-sustainable-marketing/2-1-issues-in-managing-global-marketing.md
+  - name: "2.2 Ethics in Marketing Management"
+    href: global-ethical-and-sustainable-marketing/2-2-ethics-in-marketing-management.md
+  - name: "2.3 Sustainability in Marketing Strategy"
+    href: global-ethical-and-sustainable-marketing/2-3-sustainability-in-marketing-strategy.md
+- name: "3. Managing Information for Marketing Insights"
+  href: managing-information-for-marketing-insights/index.md
+  items:
+  - name: "3.1 Market Research Fundamentals"
+    href: managing-information-for-marketing-insights/3-1-market-research-fundamentals.md
+  - name: "3.2 CRM"
+    href: managing-information-for-marketing-insights/3-2-crm.md
+  - name: "3.3 Data and Marketing Analytics"
+    href: managing-information-for-marketing-insights/3-3-data-and-marketing-analytics.md
+- name: "4. Buyers and Markets"
+  href: buyers-and-markets/index.md
+  items:
+  - name: "4.1 Consumer Behavior"
+    href: buyers-and-markets/4-1-consumer-behavior.md
+  - name: "4.2 Organizational Buyer Behavior"
+    href: buyers-and-markets/4-2-organizational-buyer-behavior.md
+  - name: "4.3 Segmentation, Targeting, and Positioning"
+    href: buyers-and-markets/4-3-segmentation-targeting-and-positioning.md
+- name: "5. The Offering – Product and Service"
+  href: the-offering-product-and-service/index.md
+  items:
+  - name: "5.1 Product Strategy"
+    href: the-offering-product-and-service/5-1-product-strategy.md
+  - name: "5.2 New Product Development"
+    href: the-offering-product-and-service/5-2-new-product-development.md
+  - name: "5.3 Branding Strategy"
+    href: the-offering-product-and-service/5-3-branding-strategy.md
+  - name: "5.4 Service Strategy"
+    href: the-offering-product-and-service/5-4-service-strategy.md
+- name: "6. Manage Pricing Decisions"
+  href: manage-pricing-decisions/index.md
+  items:
+  - name: "6.1 Pricing Objectives and Strategies"
+    href: manage-pricing-decisions/6-1-pricing-objectives-and-strategies.md
+  - name: "6.2 Pricing Tactics"
+    href: manage-pricing-decisions/6-2-pricing-tactics.md
+  - name: "6.3 Execute the Pricing Strategy"
+    href: manage-pricing-decisions/6-3-execute-the-pricing-strategy.md
+- name: "7. Deliver the Value Offering"
+  href: deliver-the-value-offering/index.md
+  items:
+  - name: "7.1 Channels"
+    href: deliver-the-value-offering/7-1-channels.md
+  - name: "7.2 Physical Distribution"
+    href: deliver-the-value-offering/7-2-physical-distribution.md
+  - name: "7.3 Logistics"
+    href: deliver-the-value-offering/7-3-logistics.md
+  - name: "7.4 Supply Chain Management"
+    href: deliver-the-value-offering/7-4-supply-chain-management.md
+- name: "8. Communicate the Value Offering"
+  href: communicate-the-value-offering/index.md
+  items:
+  - name: "8.1 Promotion Management Basics"
+    href: communicate-the-value-offering/8-1-promotion-management-basics.md
+  - name: "8.2 Digital Marketing"
+    href: communicate-the-value-offering/8-2-digital-marketing.md
+  - name: "8.3 Social Media Marketing"
+    href: communicate-the-value-offering/8-3-social-media-marketing.md
+  - name: "8.4 Legacy Promotional Approaches"
+    href: communicate-the-value-offering/8-4-legacy-promotional-approaches.md

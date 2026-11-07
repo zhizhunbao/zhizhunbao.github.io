@@ -16,9 +16,15 @@ ms.date: 2026-10-27
 |---|---|---|---|
 | **Economics and Business**<br>JEL 分类体系 | (context) "the way in which **trade, industry, or money is organized**, or **the study of this**" | （语境）**贸易、工业或货币的组织方式**，或**对此的研究** | [Cambridge University Press & Assessment, n.d., "economics" noun](https://dictionary.cambridge.org/dictionary/english/economics) |
 | **[JEL](jel/index.md)**<br>JEL 分类体系 | "The JEL classification system was developed for use in the Journal of Economic Literature (JEL), and is **a standard method of classifying scholarly literature** in the **field of economics**." | JEL 分类体系是为《经济文献杂志》（JEL）而开发的，是在**经济学领域**中**对学术文献进行分类的一种标准方法**。 | [American Economic Association, n.d., para. 1](https://www.aeaweb.org/econlit/jelCodes.php#:~:text=The%20JEL%20classification%20system%20was%20developed%20for%20use) |
+| **[MBA](mba/index.md)**<br>工商管理硕士 | (Definition pending) | （定义待补） | [Educational Testing Service, 2017, "Test Content – MBA", para. 2](https://www.de.ets.org/content/dam/ets-org/pdfs/mft/mba-test-description.pdf#page=2) |
+| **[PCM Marketing Management Body of Knowledge](pcm-marketing-management-body-of-knowledge/index.md)**<br>AMA 营销管理知识体系 | (Definition pending) | （定义待补） | [American Marketing Association, n.d., Overview, p. 1](https://www.ama.org/wp-content/uploads/2019/01/ama-pcm-marketing-management-body-of-knowledge.pdf#page=1) |
 
 ## References
 
 American Economic Association. (n.d.). *JEL classification system / EconLit subject descriptors*. Retrieved October 27, 2026, from <https://www.aeaweb.org/econlit/jelCodes.php>
 
+American Marketing Association. (n.d.). *PCM®, Marketing management body of knowledge* [PDF]. Retrieved November 6, 2026, from <https://www.ama.org/wp-content/uploads/2019/01/ama-pcm-marketing-management-body-of-knowledge.pdf>
+
 Cambridge University Press & Assessment. (n.d.). Economics. In *Cambridge Dictionary*. Retrieved October 27, 2026, from <https://dictionary.cambridge.org/dictionary/english/economics>
+
+Educational Testing Service. (2017). *Major Field Test for Master of Business Administration (4NMF): Test description* [PDF]. Retrieved November 6, 2026, from <https://www.de.ets.org/content/dam/ets-org/pdfs/mft/mba-test-description.pdf>
