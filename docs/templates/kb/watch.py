@@ -38,7 +38,10 @@ def build():
     """git_times.py first (docfx.build.json = docfx.json plus each page's "Last updated" time), then docfx."""
     start = time.time()
     subprocess.run([sys.executable, str(Path(__file__).with_name("git_times.py"))], capture_output=True)
-    r = subprocess.run([str(DOCFX), str(DOCS / "docfx.build.json"), "-o", str(SITE)], capture_output=True, text=True,
+    # --disableGitFeatures: the "Last updated" times come from git_times.py, so docfx's own per-file git lookups only
+    # cost time ("may have side effect on performance when the repo is large", docfx build CLI reference)
+    r = subprocess.run([str(DOCFX), str(DOCS / "docfx.build.json"), "-o", str(SITE), "--disableGitFeatures"],
+                       capture_output=True, text=True,
                        encoding="utf-8", errors="replace")
     tail = [line for line in r.stdout.splitlines() if "warning(s)" in line or "error(s)" in line]
     print(f"[{time.strftime('%H:%M:%S')}] built in {time.time() - start:.1f}s: {' '.join(s.strip() for s in tail)}",

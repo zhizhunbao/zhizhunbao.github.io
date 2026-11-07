@@ -1,6 +1,6 @@
 ---
 title: "6. University Rankings"
-description: "Market > University Rankings: five publishers of university rankings (Maclean's, QS, ShanghaiRanking, Times Higher Education, U.S. News), one page each with who publishes it, its indicators and its editions, and the ranks of Peking, Tsinghua, Seoul National, McGill, Toronto and UBC compared across the latest editions."
+description: "Market > University Rankings: five publishers of university rankings (Maclean's, QS, ShanghaiRanking, Times Higher Education, U.S. News), one page each with who publishes it and the top 100 of its latest edition, and the ranks of Peking, Tsinghua, Seoul National, McGill, Toronto and UBC compared across the latest editions."
 ms.date: 2026-11-06
 ---
 
@@ -19,16 +19,16 @@ ms.date: 2026-11-06
 
 ## Comparison
 
-The latest edition of each ranking as of 2026-11-06, one row per university, one column per ranking. An edition's year is not its release year: QS 2027 and THE 2027 came out in 2026. "=" marks a tie. Maclean's ranks Canadian universities only, within its Large Universities category. Each rank links to the official page it is taken from; the publisher pages quote them with sections.
+The latest edition of each ranking as of 2026-11-06, one row per university, one column per ranking. An edition's year is not its release year: QS 2027 and THE 2027 came out in 2026. "=" marks a tie. Maclean's ranks Canadian universities only, within its Large Universities category. Each rank links to the official page it is taken from; the publisher pages give the section.
 
 | University | [QS](qs.md) 2027<br>2026-06-18 | [THE](times-higher-education.md) 2027<br>2026-09-30 | [ARWU](shanghairanking.md) 2026<br>2026-08-15 | [U.S. News](us-news.md) 2026-2027<br>2026-06-15 | [Maclean's](macleans.md) 2027, Large<br>2026-10-14 |
 |---|---|---|---|---|---|
-| Peking University<br>北京大学 | [13](https://www.topuniversities.com/world-university-rankings) | [13](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking) | [22](https://www.shanghairanking.com/insights/detail?code=2026_08_747) | [19](https://www.usnews.com/education/best-global-universities/china) | — |
-| Tsinghua University<br>清华大学 | [14](https://www.topuniversities.com/world-university-rankings) | [11](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking) | [18](https://www.shanghairanking.com/insights/detail?code=2026_08_747) | [6](https://www.usnews.com/education/best-global-universities/china) | — |
-| Seoul National University<br>首尔大学 | [38](https://www.topuniversities.com/universities/seoul-national-university) | [56](https://www.timeshighereducation.com/json/ranking_tables/world_university_rankings/2027) | [=87](https://www.shanghairanking.com/insights/detail?code=2026_08_747) | [121](https://www.usnews.com/education/best-global-universities/seoul-national-university-503456) | — |
-| McGill University<br>麦吉尔大学 | [30](https://www.topuniversities.com/world-university-rankings) | [43](https://www.timeshighereducation.com/json/ranking_tables/world_university_rankings/2027) | [73](https://www.shanghairanking.com/rankings/arwu/2026) | [=68](https://www.usnews.com/education/best-global-universities/canada) | [1](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/) |
-| University of Toronto<br>多伦多大学 | [32](https://www.topuniversities.com/universities/university-toronto) | [22](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking) | [=24](https://www.shanghairanking.com/insights/detail?code=2026_08_747) | [20](https://www.usnews.com/education/best-global-universities/canada) | [2](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/) |
-| University of British Columbia<br>不列颠哥伦比亚大学 | [45](https://www.topuniversities.com/universities/university-british-columbia) | [44](https://www.timeshighereducation.com/json/ranking_tables/world_university_rankings/2027) | [54](https://www.shanghairanking.com/rankings/arwu/2026) | [=42](https://www.usnews.com/education/best-global-universities/canada) | [3](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/) |
+| Peking University<br>北京大学 | [13](https://www.topuniversities.com/world-university-rankings) | [13](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking) | [22](https://www.shanghairanking.com/insights/detail?code=2026_08_747) | [19](https://www.usnews.com/education/best-global-universities/rankings) | — |
+| Tsinghua University<br>清华大学 | [14](https://www.topuniversities.com/world-university-rankings) | [11](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking) | [18](https://www.shanghairanking.com/insights/detail?code=2026_08_747) | [6](https://www.usnews.com/education/best-global-universities/rankings) | — |
+| Seoul National University<br>首尔大学 | [38](https://www.topuniversities.com/world-university-rankings) | [56](https://www.timeshighereducation.com/json/ranking_tables/world_university_rankings/2027) | [=87](https://www.shanghairanking.com/insights/detail?code=2026_08_747) | [121](https://www.usnews.com/education/best-global-universities/seoul-national-university-503456) | — |
+| McGill University<br>麦吉尔大学 | [30](https://www.topuniversities.com/world-university-rankings) | [43](https://www.timeshighereducation.com/json/ranking_tables/world_university_rankings/2027) | [73](https://www.shanghairanking.com/rankings/arwu/2026) | [=68](https://www.usnews.com/education/best-global-universities/rankings) | [1](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/) |
+| University of Toronto<br>多伦多大学 | [32](https://www.topuniversities.com/world-university-rankings) | [22](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking) | [=24](https://www.shanghairanking.com/insights/detail?code=2026_08_747) | [20](https://www.usnews.com/education/best-global-universities/rankings) | [2](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/) |
+| University of British Columbia<br>不列颠哥伦比亚大学 | [=45](https://www.topuniversities.com/world-university-rankings) | [44](https://www.timeshighereducation.com/json/ranking_tables/world_university_rankings/2027) | [54](https://www.shanghairanking.com/rankings/arwu/2026) | [=42](https://www.usnews.com/education/best-global-universities/rankings) | [3](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/) |
 
 ## References
 
@@ -43,3 +43,4 @@ ShanghaiRanking Consultancy. (n.d.). *About ShanghaiRanking*. Retrieved November
 Times Higher Education. (n.d.). *About us*. Retrieved November 5, 2026, from <https://www.timeshighereducation.com/about-us>
 
 U.S. News & World Report. (n.d.). *About U.S. News*. Retrieved November 5, 2026, from <https://www.usnews.com/info/features/about-usnews>
+
