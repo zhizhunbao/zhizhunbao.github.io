@@ -1,0 +1,247 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Getting Started"
+  href: getting-started/index.md
+  items:
+  - name: "1.1 Project Structure"
+    href: getting-started/1-1-project-structure.md
+  - name: "1.2 Layouts and Pages"
+    href: getting-started/1-2-layouts-and-pages.md
+  - name: "1.3 Linking and Navigating"
+    href: getting-started/1-3-linking-and-navigating.md
+  - name: "1.4 Server and Client Components"
+    href: getting-started/1-4-server-and-client-components.md
+  - name: "1.5 Fetching Data"
+    href: getting-started/1-5-fetching-data.md
+  - name: "1.6 Mutating Data"
+    href: getting-started/1-6-mutating-data.md
+  - name: "1.7 Caching"
+    href: getting-started/1-7-caching.md
+  - name: "1.8 Revalidating"
+    href: getting-started/1-8-revalidating.md
+  - name: "1.9 Error Handling"
+    href: getting-started/1-9-error-handling.md
+  - name: "1.10 CSS"
+    href: getting-started/1-10-css.md
+  - name: "1.11 Image Optimization"
+    href: getting-started/1-11-image-optimization.md
+  - name: "1.12 Font Optimization"
+    href: getting-started/1-12-font-optimization.md
+  - name: "1.13 Metadata and OG Images"
+    href: getting-started/1-13-metadata-and-og-images.md
+  - name: "1.14 Route Handlers"
+    href: getting-started/1-14-route-handlers.md
+  - name: "1.15 Proxy"
+    href: getting-started/1-15-proxy.md
+  - name: "1.16 Deploying"
+    href: getting-started/1-16-deploying.md
+- name: "2. API Reference"
+  href: api-reference/index.md
+  items:
+  - name: "2.1 Directives"
+    href: api-reference/directives/index.md
+    items:
+    - name: "2.1.1 use cache"
+      href: api-reference/directives/2-1-1-use-cache.md
+    - name: "2.1.2 use cache: private"
+      href: api-reference/directives/2-1-2-use-cache-private.md
+    - name: "2.1.3 use cache: remote"
+      href: api-reference/directives/2-1-3-use-cache-remote.md
+    - name: "2.1.4 use client"
+      href: api-reference/directives/2-1-4-use-client.md
+    - name: "2.1.5 use server"
+      href: api-reference/directives/2-1-5-use-server.md
+  - name: "2.2 Components"
+    href: api-reference/components/index.md
+    items:
+    - name: "2.2.1 Font"
+      href: api-reference/components/2-2-1-font.md
+    - name: "2.2.2 Form Component"
+      href: api-reference/components/2-2-2-form-component.md
+    - name: "2.2.3 Image Component"
+      href: api-reference/components/2-2-3-image-component.md
+    - name: "2.2.4 Link Component"
+      href: api-reference/components/2-2-4-link-component.md
+    - name: "2.2.5 Script Component"
+      href: api-reference/components/2-2-5-script-component.md
+  - name: "2.3 File-System Conventions"
+    href: api-reference/file-conventions/index.md
+    items:
+    - name: "2.3.1 default.js"
+      href: api-reference/file-conventions/2-3-1-default-js.md
+    - name: "2.3.2 Dynamic Segments"
+      href: api-reference/file-conventions/2-3-2-dynamic-segments.md
+    - name: "2.3.3 error.js"
+      href: api-reference/file-conventions/2-3-3-error-js.md
+    - name: "2.3.4 forbidden.js"
+      href: api-reference/file-conventions/2-3-4-forbidden-js.md
+    - name: "2.3.5 instrumentation.js"
+      href: api-reference/file-conventions/2-3-5-instrumentation-js.md
+    - name: "2.3.6 instrumentation-client.js"
+      href: api-reference/file-conventions/2-3-6-instrumentation-client-js.md
+    - name: "2.3.7 Intercepting Routes"
+      href: api-reference/file-conventions/2-3-7-intercepting-routes.md
+    - name: "2.3.8 layout.js"
+      href: api-reference/file-conventions/2-3-8-layout-js.md
+    - name: "2.3.9 loading.js"
+      href: api-reference/file-conventions/2-3-9-loading-js.md
+    - name: "2.3.10 mdx-components.js"
+      href: api-reference/file-conventions/2-3-10-mdx-components-js.md
+    - name: "2.3.11 not-found.js"
+      href: api-reference/file-conventions/2-3-11-not-found-js.md
+    - name: "2.3.12 page.js"
+      href: api-reference/file-conventions/2-3-12-page-js.md
+    - name: "2.3.13 Parallel Routes"
+      href: api-reference/file-conventions/2-3-13-parallel-routes.md
+    - name: "2.3.14 proxy.js"
+      href: api-reference/file-conventions/2-3-14-proxy-js.md
+    - name: "2.3.15 public"
+      href: api-reference/file-conventions/2-3-15-public.md
+    - name: "2.3.16 route.js"
+      href: api-reference/file-conventions/2-3-16-route-js.md
+    - name: "2.3.17 Route Groups"
+      href: api-reference/file-conventions/2-3-17-route-groups.md
+    - name: "2.3.18 src"
+      href: api-reference/file-conventions/2-3-18-src.md
+    - name: "2.3.19 template.js"
+      href: api-reference/file-conventions/2-3-19-template-js.md
+    - name: "2.3.20 unauthorized.js"
+      href: api-reference/file-conventions/2-3-20-unauthorized-js.md
+    - name: "2.3.21 Metadata Files"
+      href: api-reference/file-conventions/metadata/index.md
+      items:
+      - name: "2.3.21.1 favicon, icon, and apple-icon"
+        href: api-reference/file-conventions/metadata/2-3-21-1-favicon-icon-and-apple-icon.md
+      - name: "2.3.21.2 manifest.json"
+        href: api-reference/file-conventions/metadata/2-3-21-2-manifest-json.md
+      - name: "2.3.21.3 opengraph-image and twitter-image"
+        href: api-reference/file-conventions/metadata/2-3-21-3-opengraph-image-and-twitter-image.md
+      - name: "2.3.21.4 robots.txt"
+        href: api-reference/file-conventions/metadata/2-3-21-4-robots-txt.md
+      - name: "2.3.21.5 sitemap.xml"
+        href: api-reference/file-conventions/metadata/2-3-21-5-sitemap-xml.md
+    - name: "2.3.22 Route Segment Config"
+      href: api-reference/file-conventions/2-3-22-route-segment-config.md
+  - name: "2.4 Functions"
+    href: api-reference/functions/index.md
+    items:
+    - name: "2.4.1 after"
+      href: api-reference/functions/2-4-1-after.md
+    - name: "2.4.2 cacheLife"
+      href: api-reference/functions/2-4-2-cachelife.md
+    - name: "2.4.3 cacheTag"
+      href: api-reference/functions/2-4-3-cachetag.md
+    - name: "2.4.4 catchError"
+      href: api-reference/functions/2-4-4-catcherror.md
+    - name: "2.4.5 connection"
+      href: api-reference/functions/2-4-5-connection.md
+    - name: "2.4.6 cookies"
+      href: api-reference/functions/2-4-6-cookies.md
+    - name: "2.4.7 draftMode"
+      href: api-reference/functions/2-4-7-draftmode.md
+    - name: "2.4.8 fetch"
+      href: api-reference/functions/2-4-8-fetch.md
+    - name: "2.4.9 forbidden"
+      href: api-reference/functions/2-4-9-forbidden.md
+    - name: "2.4.10 generateImageMetadata"
+      href: api-reference/functions/2-4-10-generateimagemetadata.md
+    - name: "2.4.11 generateMetadata"
+      href: api-reference/functions/2-4-11-generatemetadata.md
+    - name: "2.4.12 generateSitemaps"
+      href: api-reference/functions/2-4-12-generatesitemaps.md
+    - name: "2.4.13 generateStaticParams"
+      href: api-reference/functions/2-4-13-generatestaticparams.md
+    - name: "2.4.14 generateViewport"
+      href: api-reference/functions/2-4-14-generateviewport.md
+    - name: "2.4.15 headers"
+      href: api-reference/functions/2-4-15-headers.md
+    - name: "2.4.16 ImageResponse"
+      href: api-reference/functions/2-4-16-imageresponse.md
+    - name: "2.4.17 io"
+      href: api-reference/functions/2-4-17-io.md
+    - name: "2.4.18 navigation"
+      href: api-reference/functions/2-4-18-navigation.md
+    - name: "2.4.19 NextRequest"
+      href: api-reference/functions/2-4-19-nextrequest.md
+    - name: "2.4.20 NextResponse"
+      href: api-reference/functions/2-4-20-nextresponse.md
+    - name: "2.4.21 root-params"
+      href: api-reference/functions/2-4-21-root-params.md
+    - name: "2.4.22 notFound"
+      href: api-reference/functions/2-4-22-notfound.md
+    - name: "2.4.23 permanentRedirect"
+      href: api-reference/functions/2-4-23-permanentredirect.md
+    - name: "2.4.24 prefetch"
+      href: api-reference/functions/2-4-24-prefetch.md
+    - name: "2.4.25 redirect"
+      href: api-reference/functions/2-4-25-redirect.md
+    - name: "2.4.26 refresh"
+      href: api-reference/functions/2-4-26-refresh.md
+    - name: "2.4.27 revalidatePath"
+      href: api-reference/functions/2-4-27-revalidatepath.md
+    - name: "2.4.28 revalidateTag"
+      href: api-reference/functions/2-4-28-revalidatetag.md
+    - name: "2.4.29 unauthorized"
+      href: api-reference/functions/2-4-29-unauthorized.md
+    - name: "2.4.30 unstable_cache"
+      href: api-reference/functions/2-4-30-unstable-cache.md
+    - name: "2.4.31 unstable_noStore"
+      href: api-reference/functions/2-4-31-unstable-nostore.md
+    - name: "2.4.32 unstable_rethrow"
+      href: api-reference/functions/2-4-32-unstable-rethrow.md
+    - name: "2.4.33 updateTag"
+      href: api-reference/functions/2-4-33-updatetag.md
+    - name: "2.4.34 useLinkStatus"
+      href: api-reference/functions/2-4-34-uselinkstatus.md
+    - name: "2.4.35 useOffline"
+      href: api-reference/functions/2-4-35-useoffline.md
+    - name: "2.4.36 useParams"
+      href: api-reference/functions/2-4-36-useparams.md
+    - name: "2.4.37 usePathname"
+      href: api-reference/functions/2-4-37-usepathname.md
+    - name: "2.4.38 useReportWebVitals"
+      href: api-reference/functions/2-4-38-usereportwebvitals.md
+    - name: "2.4.39 useRouter"
+      href: api-reference/functions/2-4-39-userouter.md
+    - name: "2.4.40 useSearchParams"
+      href: api-reference/functions/2-4-40-usesearchparams.md
+    - name: "2.4.41 useSelectedLayoutSegment"
+      href: api-reference/functions/2-4-41-useselectedlayoutsegment.md
+    - name: "2.4.42 useSelectedLayoutSegments"
+      href: api-reference/functions/2-4-42-useselectedlayoutsegments.md
+    - name: "2.4.43 useServerInsertedHTML"
+      href: api-reference/functions/2-4-43-useserverinsertedhtml.md
+    - name: "2.4.44 userAgent"
+      href: api-reference/functions/2-4-44-useragent.md
+  - name: "2.5 Configuration"
+    href: api-reference/config/index.md
+    items:
+    - name: "2.5.1 next.config.js"
+      href: api-reference/config/2-5-1-next-config-js.md
+    - name: "2.5.2 TypeScript"
+      href: api-reference/config/2-5-2-typescript.md
+    - name: "2.5.3 ESLint"
+      href: api-reference/config/2-5-3-eslint.md
+  - name: "2.6 CLI"
+    href: api-reference/cli/index.md
+    items:
+    - name: "2.6.1 create-next-app"
+      href: api-reference/cli/2-6-1-create-next-app.md
+    - name: "2.6.2 next CLI"
+      href: api-reference/cli/2-6-2-next-cli.md
+  - name: "2.7 Edge Runtime"
+    href: api-reference/2-7-edge-runtime.md
+  - name: "2.8 Turbopack"
+    href: api-reference/2-8-turbopack.md
+- name: "3. Glossary"
+  href: 3-glossary.md
+- name: "4. Architecture"
+  href: architecture/index.md
+  items:
+  - name: "4.1 Accessibility"
+    href: architecture/4-1-accessibility.md
+  - name: "4.2 Fast Refresh"
+    href: architecture/4-2-fast-refresh.md
+  - name: "4.3 Next.js Compiler"
+    href: architecture/4-3-next-js-compiler.md

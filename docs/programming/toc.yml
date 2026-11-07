@@ -16,7 +16,7 @@ items:
 - name: Frameworks
   items:
   - name: Next.js
-    href: nextjs/index.md
+    href: nextjs/toc.yml
   - name: Payload
     href: payload/index.md
   - name: React
