@@ -1,29 +1,91 @@
 items:
 - name: Overview
   href: index.md
-- name: Beautiful Soup
-  href: beautiful-soup/toc.yml
-- name: C
-  href: c/index.md
-- name: "C++"
-  href: cpp/index.md
 - name: CS2023 FPL
   href: cs2023-fpl/toc.yml
 - name: CS2023 SDF
   href: cs2023-sdf/toc.yml
-- name: Git
-  href: git/toc.yml
-- name: GitHub
-  href: github/toc.yml
-- name: HTTPX
-  href: httpx/toc.yml
-- name: Java
-  href: java/toc.yml
-- name: LLVM
-  href: llvm/index.md
-- name: Python
-  href: python/toc.yml
-- name: TypeScript
-  href: typescript/toc.yml
-- name: uv
-  href: uv/toc.yml
+- name: CS2023 SE
+  href: cs2023-se/toc.yml
+- name: CS2023 SPD
+  href: cs2023-spd/toc.yml
+- name: Compiler infrastructure
+  items:
+  - name: LLVM
+    href: llvm/index.md
+- name: Frameworks
+  items:
+  - name: Next.js
+    href: nextjs/index.md
+  - name: Payload
+    href: payload/index.md
+  - name: React
+    href: react/index.md
+- name: Libraries
+  items:
+  - name: Beautiful Soup
+    href: beautiful-soup/toc.yml
+  - name: HTTPX
+    href: httpx/toc.yml
+- name: Package and project managers
+  items:
+  - name: uv
+    href: uv/toc.yml
+- name: Programming languages
+  items:
+  - name: C
+    href: c/index.md
+  - name: "C++"
+    href: cpp/index.md
+  - name: Java
+    href: java/toc.yml
+  - name: JavaScript
+    href: javascript/toc.yml
+  - name: Python
+    href: python/toc.yml
+  - name: TypeScript
+    href: typescript/toc.yml
+- name: Software testing
+  items:
+  - name: Cypress
+    href: cypress/toc.yml
+  - name: ISO/IEC/IEEE 29119
+    href: iso-iec-ieee-29119/index.md
+  - name: ISTQB Certified Tester Foundation Level (CTFL) v4.0
+    href: istqb-ctfl/toc.yml
+  - name: Jest
+    href: jest/toc.yml
+  - name: Playwright
+    href: playwright/toc.yml
+  - name: pytest
+    href: pytest/toc.yml
+  - name: Selenium
+    href: selenium/toc.yml
+  - name: Unittest
+    href: unittest/toc.yml
+  - name: Vitest
+    href: vitest/toc.yml
+- name: Static analysis
+  items:
+  - name: ESLint
+    href: eslint/index.md
+  - name: Pyrefly
+    href: pyrefly/index.md
+  - name: Ruff
+    href: ruff/index.md
+- name: Version control
+  items:
+  - name: Git
+    href: git/toc.yml
+  - name: GitHub
+    href: github/toc.yml
+- name: Web technologies
+  items:
+  - name: CSS
+    href: css/toc.yml
+  - name: GraphQL
+    href: graphql/toc.yml
+  - name: HTML
+    href: html/index.md
+  - name: MDN Web Docs
+    href: mdn-web-docs/toc.yml

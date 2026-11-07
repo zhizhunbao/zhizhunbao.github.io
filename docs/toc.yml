@@ -27,16 +27,12 @@ items:
     href: operating-systems/
   - name: Programming
     href: programming/
-  - name: QA
-    href: qa/
   - name: Security
     href: security/
   - name: System Design
     href: system-design/
   - name: UI/UX
     href: ui-ux/
-  - name: Web Development
-    href: web-development/
 - name: Science
   items:
   - name: Computer Science

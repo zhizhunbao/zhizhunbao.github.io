@@ -1,11 +1,29 @@
 items:
 - name: Overview
   href: index.md
-- name: Amazon Web Services
-  href: amazon-web-services/toc.yml
-- name: Docker
-  href: docker/toc.yml
-- name: Kubernetes
-  href: kubernetes/toc.yml
-- name: Microsoft Azure
-  href: azure/toc.yml
+- name: Cloud platforms
+  items:
+  - name: Amazon Web Services
+    href: amazon-web-services/toc.yml
+  - name: Cloudflare
+    href: cloudflare/index.md
+  - name: Microsoft Azure
+    href: azure/toc.yml
+  - name: Render
+    href: render/index.md
+- name: Container platforms
+  items:
+  - name: Docker
+    href: docker/toc.yml
+  - name: Kubernetes
+    href: kubernetes/toc.yml
+- name: Software as a service
+  items:
+  - name: Google Search Central
+    href: google-search-central/index.md
+  - name: Resend
+    href: resend/index.md
+  - name: Stripe
+    href: stripe/index.md
+  - name: Umami
+    href: umami/index.md
