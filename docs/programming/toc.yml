@@ -1,6 +1,8 @@
 items:
 - name: Overview
   href: index.md
+- name: Beautiful Soup
+  href: beautiful-soup/toc.yml
 - name: C
   href: c/index.md
 - name: "C++"
@@ -13,6 +15,8 @@ items:
   href: git/toc.yml
 - name: GitHub
   href: github/toc.yml
+- name: HTTPX
+  href: httpx/toc.yml
 - name: Java
   href: java/toc.yml
 - name: LLVM

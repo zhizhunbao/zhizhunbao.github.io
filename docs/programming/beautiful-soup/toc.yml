@@ -1,0 +1,29 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Making the Soup"
+  href: 1-making-the-soup.md
+- name: "2. Kinds of Objects"
+  href: 2-kinds-of-objects.md
+- name: "3. Navigating the Tree"
+  href: 3-navigating-the-tree.md
+- name: "4. Searching the Tree"
+  href: 4-searching-the-tree.md
+- name: "5. Modifying the Tree"
+  href: 5-modifying-the-tree.md
+- name: "6. Output"
+  href: 6-output.md
+- name: "7. Specifying the Parser to Use"
+  href: 7-specifying-the-parser-to-use.md
+- name: "8. Encodings"
+  href: 8-encodings.md
+- name: "9. Line Numbers"
+  href: 9-line-numbers.md
+- name: "10. Comparing Objects for Equality"
+  href: 10-comparing-objects-for-equality.md
+- name: "11. Copying Beautiful Soup Objects"
+  href: 11-copying-beautiful-soup-objects.md
+- name: "12. Low-Level Search Interface"
+  href: 12-low-level-search-interface.md
+- name: "13. Advanced Parser Customization"
+  href: 13-advanced-parser-customization.md

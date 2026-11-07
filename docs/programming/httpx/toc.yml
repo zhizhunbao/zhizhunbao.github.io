@@ -1,0 +1,48 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. QuickStart"
+  href: 1-quickstart.md
+- name: "2. Advanced"
+  href: advanced/index.md
+  items:
+  - name: "2.1 Clients"
+    href: advanced/2-1-clients.md
+  - name: "2.2 Authentication"
+    href: advanced/2-2-authentication.md
+  - name: "2.3 SSL"
+    href: advanced/2-3-ssl.md
+  - name: "2.4 Proxies"
+    href: advanced/2-4-proxies.md
+  - name: "2.5 Timeouts"
+    href: advanced/2-5-timeouts.md
+  - name: "2.6 Resource Limits"
+    href: advanced/2-6-resource-limits.md
+  - name: "2.7 Event Hooks"
+    href: advanced/2-7-event-hooks.md
+  - name: "2.8 Transports"
+    href: advanced/2-8-transports.md
+  - name: "2.9 Text Encodings"
+    href: advanced/2-9-text-encodings.md
+  - name: "2.10 Extensions"
+    href: advanced/2-10-extensions.md
+- name: "3. Guides"
+  href: guides/index.md
+  items:
+  - name: "3.1 Async Support"
+    href: guides/3-1-async-support.md
+  - name: "3.2 HTTP/2 Support"
+    href: guides/3-2-http-2-support.md
+  - name: "3.3 Logging"
+    href: guides/3-3-logging.md
+  - name: "3.4 Requests Compatibility"
+    href: guides/3-4-requests-compatibility.md
+- name: "4. API Reference"
+  href: api-reference/index.md
+  items:
+  - name: "4.1 Developer Interface"
+    href: api-reference/4-1-developer-interface.md
+  - name: "4.2 Exceptions"
+    href: api-reference/4-2-exceptions.md
+  - name: "4.3 Environment Variables"
+    href: api-reference/4-3-environment-variables.md

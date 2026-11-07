@@ -18,6 +18,7 @@ ms.date: 2026-10-25
 | **[CS2023 FPL](cs2023-fpl/index.md)**<br>CS2023 FPL | "The Foundations of Programming Languages knowledge area is concerned with articulating the **underlying concepts and principles of programming languages**, the **formal specification** of a programming language and the behavior of a program, explaining **how programming languages are implemented**, ..." | 编程语言基础知识领域关注阐明**编程语言的底层概念与原理**、编程语言的**形式化规约**和程序的行为，并解释**编程语言是如何实现的**，…… | [Joint Task Force on Computing Curricula, 2024, FPL "Preamble" section, para. 2](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=65) |
 | **[CS2023 SDF](cs2023-sdf/index.md)**<br>CS2023 SDF | "The SDF knowledge area brings together **fundamental concepts and skills** related to **software development**, focusing on concepts and skills that should be taught **early in a computer science program**, typically in the first year." | SDF 知识领域汇集了**基础概念与技能**，与**软件开发**相关，侧重于应在**计算机科学课程早期**讲授的概念和技能，通常在第一年。 | [Joint Task Force on Computing Curricula, 2024, SDF "Preamble" section, para. 2](https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=167) |
 | **Compiler infrastructure**<br>编译器基础设施 | "The LLVM Project is a **collection of modular and reusable compiler and toolchain technologies**." | LLVM 项目是**一组模块化、可复用的编译器和工具链技术**。 | [LLVM Project, n.d.-b, "LLVM Overview" section, para. 1](https://llvm.org/#:~:text=The%20LLVM%20Project%20is%20a%20collection%20of%20modular%20and%20reusable) |
+| **Libraries**<br>库 | (Definition pending) | （定义待补） | [Encode OSS, n.d., "Introduction", para. 1](https://www.python-httpx.org/); [Richardson, n.d., "Beautiful Soup Documentation", para. 1](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#beautiful-soup-documentation) |
 | **Package and project managers**<br>包与项目管理器 | "An **extremely fast** Python **package and project manager**, written in **Rust**." | 一个**极快的** Python **包与项目管理器**，用 **Rust** 编写。 | [Astral, n.d., "uv" home page, para. 1](https://docs.astral.sh/uv/#:~:text=An%20extremely%20fast%20Python%20package%20and%20project%20manager) |
 | **Programming languages**<br>编程语言 | "Python is an **easy to learn**, **powerful programming language**." | Python 是一种**易于学习**、**功能强大的编程语言**。 | [Python Software Foundation, n.d., "The Python Tutorial" page, para. 1](https://docs.python.org/3/tutorial/index.html#:~:text=Python%20is%20an%20easy%20to%20learn%2C%20powerful%20programming%20language) |
 | **Version control**<br>版本控制 | "Git is a free and open source **distributed version control system** designed to handle everything from **small to very large projects** with **speed and efficiency**." | Git 是一个免费开源的**分布式版本控制系统**，旨在处理从**小型到超大型的项目**，并兼顾**速度和效率**。 | [Git, n.d.-b, home page, para. 1](https://git-scm.com/#:~:text=distributed%20version%20control%20system%20designed%20to%20handle) |
@@ -25,6 +26,8 @@ ms.date: 2026-10-25
 ## References
 
 Astral. (n.d.). *uv documentation* (Version 0.13.5). Retrieved October 25, 2026, from <https://docs.astral.sh/uv/>
+
+Encode OSS. (n.d.). *HTTPX documentation*. Retrieved November 6, 2026, from <https://www.python-httpx.org/>
 
 Git. (n.d.-a). *Git documentation*. Retrieved October 24, 2026, from <https://git-scm.com/doc>
 
@@ -49,3 +52,5 @@ Oracle. (n.d.-a). *General tutorials*. Dev.java. Retrieved October 25, 2026, fro
 Oracle. (n.d.-b). *JDK 25 documentation*. Retrieved October 25, 2026, from <https://docs.oracle.com/en/java/javase/25/>
 
 Python Software Foundation. (n.d.). *The Python tutorial* (Version 3.15.1). Retrieved October 25, 2026, from <https://docs.python.org/3/tutorial/index.html>
+
+Richardson, L. (n.d.). *Beautiful Soup documentation* (Version 4.14.3). Retrieved November 6, 2026, from <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>
