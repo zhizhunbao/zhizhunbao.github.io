@@ -1,30 +1,27 @@
 ---
 title: "TypeScript"
-description: "TypeScript: the groups and pages of the TypeScript Documentation, version 7.0.2."
-ms.date: 2026-10-25
+description: "TypeScript: the groups and pages of the TypeScript Documentation, version 7.0.2: 9 groups, 107 pages, in their order (numbered here; the source has no numbers); skeleton, definitions pending."
+ms.date: 2026-11-07
 ---
 
 # TypeScript
 
-Planned, no content yet. The pages under this one follow the groups and pages of the TypeScript Documentation (version 7.0.2), in their order (numbered here; the source has no numbers): 9 groups, 107 pages.
+Official source: [TypeScript Documentation](https://www.typescriptlang.org/docs/) (version 7.0.2), Microsoft.
 
-| Item | Value |
-|---|---|
-| Official source | [TypeScript Documentation](https://www.typescriptlang.org/docs/) |
-| Version | 7.0.2 |
-| Publisher | Microsoft |
+## Glossary
 
-| Group | Pages |
-|---|---|
-| [1. Get Started](get-started/index.md) | 5 |
-| [2. Handbook](handbook/index.md) | 9 |
-| [3. Reference](reference/index.md) | 15 |
-| [4. Modules Reference](modules-reference/index.md) | 5 |
-| [5. Tutorials](tutorials/index.md) | 5 |
-| [6. What's New](what-s-new/index.md) | 48 |
-| [7. Declaration Files](declaration-files/index.md) | 8 |
-| [8. JavaScript](javascript/index.md) | 4 |
-| [9. Project Configuration](project-configuration/index.md) | 8 |
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **TypeScript**<br>TypeScript | (Definition pending) | （定义待补） | [Microsoft, n.d., home page](https://www.typescriptlang.org/docs/) |
+| **[1. Get Started](get-started/index.md)**<br>入门 | (Definition pending) | （定义待补） | [Microsoft, n.d., "Get Started"](https://www.typescriptlang.org/docs/) |
+| **[2. Handbook](handbook/index.md)**<br>手册 | (Definition pending) | （定义待补） | [Microsoft, n.d., "Handbook"](https://www.typescriptlang.org/docs/) |
+| **[3. Reference](reference/index.md)**<br>参考 | (Definition pending) | （定义待补） | [Microsoft, n.d., "Reference"](https://www.typescriptlang.org/docs/) |
+| **[4. Modules Reference](modules-reference/index.md)**<br>模块参考 | (Definition pending) | （定义待补） | [Microsoft, n.d., "Modules Reference"](https://www.typescriptlang.org/docs/) |
+| **[5. Tutorials](tutorials/index.md)**<br>教程 | (Definition pending) | （定义待补） | [Microsoft, n.d., "Tutorials"](https://www.typescriptlang.org/docs/) |
+| **[6. What's New](what-s-new/index.md)**<br>新特性 | (Definition pending) | （定义待补） | [Microsoft, n.d., "What's New"](https://www.typescriptlang.org/docs/) |
+| **[7. Declaration Files](declaration-files/index.md)**<br>声明文件 | (Definition pending) | （定义待补） | [Microsoft, n.d., "Declaration Files"](https://www.typescriptlang.org/docs/) |
+| **[8. JavaScript](javascript/index.md)**<br>JavaScript | (Definition pending) | （定义待补） | [Microsoft, n.d., "JavaScript"](https://www.typescriptlang.org/docs/) |
+| **[9. Project Configuration](project-configuration/index.md)**<br>项目配置 | (Definition pending) | （定义待补） | [Microsoft, n.d., "Project Configuration"](https://www.typescriptlang.org/docs/) |
 
 ## References
 

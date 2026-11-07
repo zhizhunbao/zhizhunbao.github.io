@@ -45,6 +45,10 @@ items:
     href: python/toc.yml
   - name: TypeScript
     href: typescript/toc.yml
+- name: Runtime environments
+  items:
+  - name: Node.js
+    href: nodejs/index.md
 - name: Software testing
   items:
   - name: Cypress
@@ -68,7 +72,7 @@ items:
 - name: Static analysis
   items:
   - name: ESLint
-    href: eslint/index.md
+    href: eslint/toc.yml
   - name: Pyrefly
     href: pyrefly/index.md
   - name: Ruff

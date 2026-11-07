@@ -8,7 +8,7 @@ ms.date: 2026-11-07
 
 ## Classification
 
-![Programming sorted into thirteen groups: the curricula CS2023 FPL with its 22 knowledge units, CS2023 SDF with its 5, CS2023 SE with its 9 and CS2023 SPD with its 12, the compiler infrastructure LLVM, the frameworks Next.js, Payload and React, the libraries Beautiful Soup and HTTPX, the package and project manager uv, the programming languages C, C++, Java, JavaScript, Python and TypeScript, the software testing frameworks, standard and certification Cypress, ISO/IEC/IEEE 29119, ISTQB Certified Tester Foundation Level (CTFL) v4.0, Jest, Playwright, pytest, Selenium, Unittest and Vitest, the static analysis tools ESLint, Pyrefly and Ruff, the version control tools Git and GitHub, and the web technologies CSS, GraphQL, HTML and MDN Web Docs.](media/programming.png)
+![Programming sorted into fourteen groups: the curricula CS2023 FPL with its 22 knowledge units, CS2023 SDF with its 5, CS2023 SE with its 9 and CS2023 SPD with its 12, the compiler infrastructure LLVM, the frameworks Next.js, Payload and React, the libraries Beautiful Soup and HTTPX, the package and project manager uv, the programming languages C, C++, Java, JavaScript, Python and TypeScript, the runtime environment Node.js, the software testing frameworks, standard and certification Cypress, ISO/IEC/IEEE 29119, ISTQB Certified Tester Foundation Level (CTFL) v4.0, Jest, Playwright, pytest, Selenium, Unittest and Vitest, the static analysis tools ESLint, Pyrefly and Ruff, the version control tools Git and GitHub, and the web technologies CSS, GraphQL, HTML and MDN Web Docs.](media/programming.png)
 
 ## Glossary
 
@@ -24,6 +24,7 @@ ms.date: 2026-11-07
 | **Libraries**<br>库 | (Definition pending) | （定义待补） | [Encode OSS, n.d., "Introduction", para. 1](https://www.python-httpx.org/); [Richardson, n.d., "Beautiful Soup Documentation", para. 1](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#beautiful-soup-documentation) |
 | **Package and project managers**<br>包与项目管理器 | "An **extremely fast** Python **package and project manager**, written in **Rust**." | 一个**极快的** Python **包与项目管理器**，用 **Rust** 编写。 | [Astral, n.d.-b, "uv" home page, para. 1](https://docs.astral.sh/uv/#:~:text=An%20extremely%20fast%20Python%20package%20and%20project%20manager) |
 | **Programming languages**<br>编程语言 | "Python is an **easy to learn**, **powerful programming language**." | Python 是一种**易于学习**、**功能强大的编程语言**。 | [Python Software Foundation, n.d.-a, "The Python Tutorial" page, para. 1](https://docs.python.org/3/tutorial/index.html#:~:text=Python%20is%20an%20easy%20to%20learn%2C%20powerful%20programming%20language) |
+| **Runtime environments**<br>运行时环境 | "Node.js® is a free, open-source, cross-platform **JavaScript runtime environment** that lets developers **create servers, web apps, command line tools and scripts**." | Node.js® 是一个免费、开源、跨平台的 **JavaScript 运行时环境**，让开发者能够**创建服务器、Web 应用、命令行工具和脚本**。 | [OpenJS Foundation, n.d.-c, home page, para. 1](https://nodejs.org/en#:~:text=JavaScript%20runtime%20environment) |
 | **Software testing**<br>软件测试 | (Definition pending) | （定义待补） | [International Software Testing Qualifications Board, 2024, section 1.1 "What is Testing?"](https://istqb.org/wp-content/uploads/2024/11/ISTQB_CTFL_Syllabus_v4.0.1.pdf) |
 | **Static analysis**<br>静态分析 | (Definition pending) | （定义待补） | [OpenJS Foundation, n.d.-a](https://eslint.org/docs/latest/); [Meta Platforms, n.d.-a](https://pyrefly.org/en/docs/); [Astral, n.d.-a](https://docs.astral.sh/ruff/) |
 | **Version control**<br>版本控制 | "Git is a free and open source **distributed version control system** designed to handle everything from **small to very large projects** with **speed and efficiency**." | Git 是一个免费开源的**分布式版本控制系统**，旨在处理从**小型到超大型的项目**，并兼顾**速度和效率**。 | [Git, n.d.-b, home page, para. 1](https://git-scm.com/#:~:text=distributed%20version%20control%20system%20designed%20to%20handle) |
@@ -78,6 +79,10 @@ Mozilla. (n.d.). *Learn web development*. MDN Web Docs. Retrieved October 25, 20
 OpenJS Foundation. (n.d.-a). *ESLint documentation*. Retrieved November 7, 2026, from <https://eslint.org/docs/latest/>
 
 OpenJS Foundation. (n.d.-b). *Jest documentation* (Version 30.5.2). Retrieved October 25, 2026, from <https://jestjs.io/docs/getting-started>
+
+OpenJS Foundation. (n.d.-c). *Node.js*. Retrieved November 7, 2026, from <https://nodejs.org/en>
+
+OpenJS Foundation. (n.d.-d). *Node.js documentation* (Version 26.13.0). Retrieved November 7, 2026, from <https://nodejs.org/docs/latest/api/>
 
 Oracle. (n.d.-a). *General tutorials*. Dev.java. Retrieved October 25, 2026, from <https://dev.java/learn/>
 
