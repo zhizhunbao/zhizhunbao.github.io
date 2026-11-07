@@ -5,10 +5,11 @@ on:
     branches: [main]
   workflow_dispatch:
 
+# 2026-11-06: publish by pushing the built site to the gh-pages branch (Settings > Pages > Deploy from a branch).
+# actions/deploy-pages waits for Pages to sync the files and gives up after 10 minutes (its maximum); with
+# about 16,500 files it timed out on four of six runs, so the workflow no longer waits on the sync.
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
@@ -27,15 +28,9 @@ jobs:
       - run: dotnet tool update -g docfx
       - run: python3 docs/templates/kb/git_times.py
       - run: docfx docs/docfx.build.json
-      - uses: actions/upload-pages-artifact@v5
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          path: docs/_site
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v5
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: docs/_site
+          force_orphan: true  # one commit on gh-pages: the built site's history is not kept

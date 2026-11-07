@@ -13,14 +13,14 @@ Placement (Frank, 2026-11-06): the whole entry sits in Economics and Business, t
 | 1.1 Search | no |
 | 1.2 Mobile App | no |
 | 1.3 Job Alerts | no |
-| 1.4 Job Match | no |
-| 1.5 Resume Builder | no |
+| 1.4 Job Match | yes (2026-11-06) |
+| 1.5 Resume Builder | yes (2026-11-06) |
 | 1.6 Browse Jobs | no |
 | 1.7 Employment Centres | no |
 | 1.8 Help for Specific Audiences | no |
 | 2.1 School to Work Transition Tool | no |
 | 2.2 Career Quizzes | no |
-| 2.3 Job Profiles | no |
+| 2.3 Job Profiles | yes (2026-11-06; the tabs and their terms read on the Chef profile, NOC 62200, cached as `urls_kb_jobbank_profile_chef.txt`; licensing and foreign credential recognition read on the registered nurse profile, NOC 31301, `urls_kb_jobbank_profile_rn.txt`) |
 | 2.4 Job Transition Tool | no |
 | 2.5 Training Finder | no |
 | 3.1 Wage Reports | no |
