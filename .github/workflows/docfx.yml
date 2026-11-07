@@ -39,6 +39,3 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v5
-        with:
-          # 2026-11-06: syncing the ~275 MB site took longer than the default 10 minutes twice; 30 minutes.
-          timeout: 1800000

@@ -1,0 +1,69 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Job Search"
+  href: job-search/index.md
+  items:
+  - name: "1.1 Search"
+    href: job-search/1-1-search.md
+  - name: "1.2 Mobile App"
+    href: job-search/1-2-mobile-app.md
+  - name: "1.3 Job Alerts"
+    href: job-search/1-3-job-alerts.md
+  - name: "1.4 Job Match"
+    href: job-search/1-4-job-match.md
+  - name: "1.5 Resume Builder"
+    href: job-search/1-5-resume-builder.md
+  - name: "1.6 Browse Jobs"
+    href: job-search/1-6-browse-jobs.md
+  - name: "1.7 Employment Centres"
+    href: job-search/1-7-employment-centres.md
+  - name: "1.8 Help for Specific Audiences"
+    href: job-search/1-8-help-for-specific-audiences.md
+- name: "2. Training and Careers"
+  href: training-and-careers/index.md
+  items:
+  - name: "2.1 School to Work Transition Tool"
+    href: training-and-careers/2-1-school-to-work-transition-tool.md
+  - name: "2.2 Career Quizzes"
+    href: training-and-careers/2-2-career-quizzes.md
+  - name: "2.3 Job Profiles"
+    href: training-and-careers/2-3-job-profiles.md
+  - name: "2.4 Job Transition Tool"
+    href: training-and-careers/2-4-job-transition-tool.md
+  - name: "2.5 Training Finder"
+    href: training-and-careers/2-5-training-finder.md
+- name: "3. Labour Market Information"
+  href: labour-market-information/index.md
+  items:
+  - name: "3.1 Wage Reports"
+    href: labour-market-information/3-1-wage-reports.md
+  - name: "3.2 Outlook Reports"
+    href: labour-market-information/3-2-outlook-reports.md
+  - name: "3.3 Job Market Snapshots"
+    href: labour-market-information/3-3-job-market-snapshots.md
+  - name: "3.4 Sectoral Profiles"
+    href: labour-market-information/3-4-sectoral-profiles.md
+  - name: "3.5 Economic Scans"
+    href: labour-market-information/3-5-economic-scans.md
+  - name: "3.6 Labour Market News"
+    href: labour-market-information/3-6-labour-market-news.md
+  - name: "3.7 Reports by Province or Territory"
+    href: labour-market-information/3-7-reports-by-province-or-territory.md
+  - name: "3.8 National Occupational Classification"
+    href: labour-market-information/3-8-national-occupational-classification.md
+  - name: "3.9 Occupational and Skills Information System"
+    href: labour-market-information/3-9-occupational-and-skills-information-system.md
+  - name: "3.10 Canadian Occupational Projection System"
+    href: labour-market-information/3-10-canadian-occupational-projection-system.md
+  - name: "3.11 Labour Market Information Resources"
+    href: labour-market-information/3-11-labour-market-information-resources.md
+- name: "4. Hiring"
+  href: hiring/index.md
+  items:
+  - name: "4.1 Post a Job"
+    href: hiring/4-1-post-a-job.md
+  - name: "4.2 Available Workers Dashboard"
+    href: hiring/4-2-available-workers-dashboard.md
+  - name: "4.3 Hiring a Diverse Workforce"
+    href: hiring/4-3-hiring-a-diverse-workforce.md

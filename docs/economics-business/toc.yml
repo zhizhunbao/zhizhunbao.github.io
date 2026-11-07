@@ -3,6 +3,8 @@ items:
   href: index.md
 - name: JEL
   href: jel/toc.yml
+- name: Job Bank
+  href: job-bank/toc.yml
 - name: MBA
   href: mba/toc.yml
 - name: PCM Marketing Management Body of Knowledge

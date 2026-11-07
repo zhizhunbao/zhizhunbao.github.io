@@ -35,6 +35,21 @@ items:
       href: applications-and-real-time-area/rfc6455/13-acknowledgements.md
     - name: "14. References"
       href: applications-and-real-time-area/rfc6455/14-references.md
+  - name: "RFC 9309 Robots Exclusion Protocol"
+    href: applications-and-real-time-area/rfc9309/index.md
+    items:
+    - name: "1. Introduction"
+      href: applications-and-real-time-area/rfc9309/1-introduction.md
+    - name: "2. Specification"
+      href: applications-and-real-time-area/rfc9309/2-specification.md
+    - name: "3. Security Considerations"
+      href: applications-and-real-time-area/rfc9309/3-security-considerations.md
+    - name: "4. IANA Considerations"
+      href: applications-and-real-time-area/rfc9309/4-iana-considerations.md
+    - name: "5. Examples"
+      href: applications-and-real-time-area/rfc9309/5-examples.md
+    - name: "6. References"
+      href: applications-and-real-time-area/rfc9309/6-references.md
 - name: "General Area"
   href: general-area/index.md
 - name: "Internet Area"
