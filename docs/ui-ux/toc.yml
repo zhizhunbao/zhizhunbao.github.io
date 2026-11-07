@@ -16,7 +16,7 @@ items:
   - name: Apple Human Interface Guidelines
     href: apple-hig/index.md
   - name: Fluent 2
-    href: fluent-2/index.md
+    href: fluent-2/toc.yml
   - name: Material Design
     href: material-design/index.md
 - name: UX

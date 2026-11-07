@@ -1,0 +1,195 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Design Language"
+  href: design-language/index.md
+  items:
+  - name: "1.1 Design Principles"
+    href: design-language/1-1-design-principles.md
+  - name: "1.2 Color"
+    href: design-language/1-2-color.md
+  - name: "1.3 Elevation"
+    href: design-language/1-3-elevation.md
+  - name: "1.4 Iconography"
+    href: design-language/1-4-iconography.md
+  - name: "1.5 Layout"
+    href: design-language/1-5-layout.md
+  - name: "1.6 Material"
+    href: design-language/1-6-material.md
+  - name: "1.7 Motion"
+    href: design-language/1-7-motion.md
+  - name: "1.8 Shapes"
+    href: design-language/1-8-shapes.md
+  - name: "1.9 Typography"
+    href: design-language/1-9-typography.md
+- name: "2. UX Frameworks and Guidelines"
+  href: ux-frameworks-and-guidelines/index.md
+  items:
+  - name: "2.1 Accessibility"
+    href: ux-frameworks-and-guidelines/2-1-accessibility.md
+  - name: "2.2 Content Design"
+    href: ux-frameworks-and-guidelines/2-2-content-design.md
+  - name: "2.3 Design Tokens"
+    href: ux-frameworks-and-guidelines/2-3-design-tokens.md
+  - name: "2.4 Handoffs"
+    href: ux-frameworks-and-guidelines/2-4-handoffs.md
+  - name: "2.5 Onboarding"
+    href: ux-frameworks-and-guidelines/2-5-onboarding.md
+  - name: "2.6 Wait UX"
+    href: ux-frameworks-and-guidelines/2-6-wait-ux.md
+- name: "3. Working with AI"
+  href: working-with-ai/index.md
+  items:
+  - name: "3.1 Responsible AI"
+    href: working-with-ai/3-1-responsible-ai.md
+  - name: "3.2 Types of AI Harm"
+    href: working-with-ai/3-2-types-of-ai-harm.md
+- name: "4. Content Engineering"
+  href: content-engineering/index.md
+  items:
+  - name: "4.1 System Prompt Engineering"
+    href: content-engineering/4-1-system-prompt-engineering.md
+  - name: "4.2 Evaluating Output Quality"
+    href: content-engineering/4-2-evaluating-output-quality.md
+- name: "5. Web Tokens"
+  href: web-tokens/index.md
+  items:
+  - name: "5.1 Color Tokens"
+    href: web-tokens/5-1-color-tokens.md
+- name: "6. Components (React)"
+  href: components-react/index.md
+  items:
+  - name: "6.1 Accordion"
+    href: components-react/6-1-accordion.md
+  - name: "6.2 Avatar"
+    href: components-react/6-2-avatar.md
+  - name: "6.3 Avatar Group"
+    href: components-react/6-3-avatar-group.md
+  - name: "6.4 Badge"
+    href: components-react/6-4-badge.md
+  - name: "6.5 Breadcrumb"
+    href: components-react/6-5-breadcrumb.md
+  - name: "6.6 Button"
+    href: components-react/6-6-button.md
+  - name: "6.7 Card"
+    href: components-react/6-7-card.md
+  - name: "6.8 Carousel"
+    href: components-react/6-8-carousel.md
+  - name: "6.9 Checkbox"
+    href: components-react/6-9-checkbox.md
+  - name: "6.10 Combobox"
+    href: components-react/6-10-combobox.md
+  - name: "6.11 Dialog"
+    href: components-react/6-11-dialog.md
+  - name: "6.12 Divider"
+    href: components-react/6-12-divider.md
+  - name: "6.13 Drawer"
+    href: components-react/6-13-drawer.md
+  - name: "6.14 Dropdown"
+    href: components-react/6-14-dropdown.md
+  - name: "6.15 Field"
+    href: components-react/6-15-field.md
+  - name: "6.16 Fluent Provider"
+    href: components-react/6-16-fluent-provider.md
+  - name: "6.17 Icon"
+    href: components-react/6-17-icon.md
+  - name: "6.18 Image"
+    href: components-react/6-18-image.md
+  - name: "6.19 Info Label"
+    href: components-react/6-19-info-label.md
+  - name: "6.20 Input"
+    href: components-react/6-20-input.md
+  - name: "6.21 Label"
+    href: components-react/6-21-label.md
+  - name: "6.22 Link"
+    href: components-react/6-22-link.md
+  - name: "6.23 List"
+    href: components-react/6-23-list.md
+  - name: "6.24 Menu"
+    href: components-react/6-24-menu.md
+  - name: "6.25 Message Bar"
+    href: components-react/6-25-message-bar.md
+  - name: "6.26 Nav"
+    href: components-react/6-26-nav.md
+  - name: "6.27 Persona"
+    href: components-react/6-27-persona.md
+  - name: "6.28 Popover"
+    href: components-react/6-28-popover.md
+  - name: "6.29 Progress Bar"
+    href: components-react/6-29-progress-bar.md
+  - name: "6.30 Radio Group"
+    href: components-react/6-30-radio-group.md
+  - name: "6.31 Rating"
+    href: components-react/6-31-rating.md
+  - name: "6.32 Searchbox"
+    href: components-react/6-32-searchbox.md
+  - name: "6.33 Select"
+    href: components-react/6-33-select.md
+  - name: "6.34 Skeleton"
+    href: components-react/6-34-skeleton.md
+  - name: "6.35 Slider"
+    href: components-react/6-35-slider.md
+  - name: "6.36 Spin Button"
+    href: components-react/6-36-spin-button.md
+  - name: "6.37 Spinner"
+    href: components-react/6-37-spinner.md
+  - name: "6.38 Switch"
+    href: components-react/6-38-switch.md
+  - name: "6.39 Tablist"
+    href: components-react/6-39-tablist.md
+  - name: "6.40 Tag"
+    href: components-react/6-40-tag.md
+  - name: "6.41 Tag Picker"
+    href: components-react/6-41-tag-picker.md
+  - name: "6.42 Text"
+    href: components-react/6-42-text.md
+  - name: "6.43 Textarea"
+    href: components-react/6-43-textarea.md
+  - name: "6.44 Toast"
+    href: components-react/6-44-toast.md
+  - name: "6.45 Toolbar"
+    href: components-react/6-45-toolbar.md
+  - name: "6.46 Tooltip"
+    href: components-react/6-46-tooltip.md
+  - name: "6.47 Tree"
+    href: components-react/6-47-tree.md
+- name: "7. Components (iOS)"
+  href: components-ios/index.md
+  items:
+  - name: "7.1 Activity Indicator"
+    href: components-ios/7-1-activity-indicator.md
+  - name: "7.2 Avatar"
+    href: components-ios/7-2-avatar.md
+  - name: "7.3 Avatar Group"
+    href: components-ios/7-3-avatar-group.md
+  - name: "7.4 Button"
+    href: components-ios/7-4-button.md
+  - name: "7.5 Card Nudge"
+    href: components-ios/7-5-card-nudge.md
+  - name: "7.6 Heads-up Display"
+    href: components-ios/7-6-heads-up-display.md
+  - name: "7.7 Navigation Bar"
+    href: components-ios/7-7-navigation-bar.md
+  - name: "7.8 Progress Bar"
+    href: components-ios/7-8-progress-bar.md
+  - name: "7.9 Segmented Control"
+    href: components-ios/7-9-segmented-control.md
+  - name: "7.10 Shimmer"
+    href: components-ios/7-10-shimmer.md
+  - name: "7.11 Text Field"
+    href: components-ios/7-11-text-field.md
+  - name: "7.12 Tooltip"
+    href: components-ios/7-12-tooltip.md
+- name: "8. Components (Android)"
+  href: components-android/index.md
+  items:
+  - name: "8.1 Avatar"
+    href: components-android/8-1-avatar.md
+  - name: "8.2 Avatar Group"
+    href: components-android/8-2-avatar-group.md
+  - name: "8.3 Button"
+    href: components-android/8-3-button.md
+  - name: "8.4 Progress Indicator"
+    href: components-android/8-4-progress-indicator.md
+  - name: "8.5 Shimmer"
+    href: components-android/8-5-shimmer.md

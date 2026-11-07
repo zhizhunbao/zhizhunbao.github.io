@@ -1,6 +1,6 @@
 ---
 title: "12 Pricing Products and Services"
-description: "OpenStax Principles of Marketing, chapter 12: Pricing Products and Services, 6 sections, 40 terms; skeleton, definitions pending."
+description: "OpenStax Principles of Marketing, chapter 12: Pricing Products and Services, 6 sections, 40 terms."
 ms.date: 2026-11-06
 ---
 

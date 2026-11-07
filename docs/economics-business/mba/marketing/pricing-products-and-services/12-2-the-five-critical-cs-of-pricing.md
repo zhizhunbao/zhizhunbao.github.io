@@ -1,6 +1,6 @@
 ---
 title: "12.2 The Five Critical Cs of Pricing"
-description: "12.2 The Five Critical Cs of Pricing, part of 12 Pricing Products and Services: 0 terms; skeleton, definitions pending."
+description: "12.2 The Five Critical Cs of Pricing, part of 12 Pricing Products and Services: 0 terms."
 ms.date: 2026-11-06
 ---
 
