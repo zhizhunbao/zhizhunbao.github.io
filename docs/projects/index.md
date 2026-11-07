@@ -1,7 +1,7 @@
 ---
 title: Projects
 description: "Projects by industry: the 20 sectors of NAICS Canada 2022 Version 1.0, with the projects I have built and run."
-ms.date: 2026-10-28
+ms.date: 2026-11-05
 ---
 
 # Projects
@@ -48,6 +48,7 @@ Newest first.
 | [Textbook RAG](textbook-rag.md) | Retrieval-augmented question answering over course textbooks with hybrid retrieval (BM25 plus vector search). | Architect & Developer (Capstone, solo) | Algonquin College | Mar 2026 – Jun 2026 |
 | [Gangwon State Business Portal](gangwon-portal.md) | A B2B performance-management portal where startups submit performance data and apply for government support programs. | Lead Architect & Developer (team) | Gangwon State, Korea | Dec 2025 – Apr 2026 |
 | [GenAI Research Assistant](ottawa-genai.md) | Designed and built a proof-of-concept generative AI research assistant for the City of Ottawa's Economic Development team, then continued it with City-side collaborators. | Architect & Developer (PoC) | City of Ottawa | Sep 2025 – Apr 2026 |
+| [Smart-TV Big Data Platform](huantv-big-data-platform.md) | A smart-TV data platform processing over a billion device records a day with sub-second queries, moved from self-managed CDH Hadoop on Tencent Cloud to Alibaba Cloud EMR, with Apache DolphinScheduler scheduling and ClickHouse queries. | Senior Big Data Architect: Architecture, Development & Operations | Guangzhou Huan Technology (HuanTV), Guangzhou | Apr 2015 – Sep 2022 |
 
 ## References
 

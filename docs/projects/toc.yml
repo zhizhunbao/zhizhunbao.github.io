@@ -22,6 +22,9 @@ items:
   href: 48-49-transportation-and-warehousing/index.md
 - name: "51 Information and Cultural Industries"
   href: 51-information-and-cultural-industries/index.md
+  items:
+  - name: "Smart-TV Big Data Platform"
+    href: huantv-big-data-platform.md
 - name: "52 Finance and Insurance"
   href: 52-finance-and-insurance/index.md
 - name: "53 Real Estate and Rental and Leasing"

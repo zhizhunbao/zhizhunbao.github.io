@@ -20,6 +20,7 @@ ms.date: 2026-11-03
 | **[IDC](idc.md)**<br>国际数据公司 | "Building a world where the **most trusted technology intelligence** makes **everyone better at what they do**." | 建设一个让**最值得信赖的技术情报**使**每个人都更擅长自己工作**的世界。 | [IDC, n.d., "We are the tech intelligence layer of the AI economy" section, para. 1](https://www.idc.com/about/#:~:text=Building%20a%20world%20where%20the%20most%20trusted%20technology) |
 | **[LinkedIn](linkedin.md)**<br>领英 | "Welcome to LinkedIn, the **world's largest professional network** with **more than 1 billion members**" | 欢迎来到 LinkedIn，**全球最大的职业社交网络**，拥有**超过 10 亿会员**。 | [LinkedIn, n.d., "About LinkedIn" section, para. 1](https://about.linkedin.com/#:~:text=Welcome%20to%20LinkedIn%2C%20the%20world%27s%20largest%20professional%20network) |
 | **[Microsoft](microsoft.md)**<br>微软 | "Microsoft's mission is to **empower every person and every organization** on the planet to **achieve more**." | 微软的使命是**予力全球每一人、每一组织**，**成就不凡**。 | [Microsoft, n.d., para. 1](https://www.microsoft.com/en-us/about#:~:text=Microsoft%27s%20mission%20is%20to%20empower%20every%20person%20and) |
+| **[University Rankings](university-rankings/index.md)**<br>大学排名 | "(context) **the position or level** something or someone has in **a list that compares their importance, quality, success, etc.**" | （语境）某事物或某人所处的**位置或级别**，处在**一份比较其重要性、质量、成功程度等的列表**中 | [Cambridge University Press & Assessment, n.d., "ranking" noun, Business English](https://dictionary.cambridge.org/dictionary/english/ranking#:~:text=the%20position%20or%20level%20something) |
 | **[News](news/index.md)**<br>新闻 | "**information or reports about recent events**" | **关于近期事件的信息或报道** | [Cambridge University Press & Assessment, n.d., "news" noun, definition 1](https://dictionary.cambridge.org/dictionary/english/news) |
 
 ## References
@@ -27,6 +28,8 @@ ms.date: 2026-11-03
 Cambridge University Press & Assessment. (n.d.). Market. In *Cambridge Dictionary*. Retrieved November 3, 2026, from <https://dictionary.cambridge.org/dictionary/english/market>
 
 Cambridge University Press & Assessment. (n.d.). News. In *Cambridge Dictionary*. Retrieved November 3, 2026, from <https://dictionary.cambridge.org/dictionary/english/news>
+
+Cambridge University Press & Assessment. (n.d.). Ranking. In *Cambridge Dictionary*. Retrieved November 6, 2026, from <https://dictionary.cambridge.org/dictionary/english/ranking>
 
 Flexera. (n.d.). *About us*. Retrieved November 3, 2026, from <https://www.flexera.com/about-us>
 

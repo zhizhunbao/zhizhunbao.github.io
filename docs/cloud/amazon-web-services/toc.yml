@@ -1,0 +1,91 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Compute"
+  href: compute/index.md
+- name: "2. Compute HPC"
+  href: compute-hpc/index.md
+- name: "3. Containers"
+  href: containers/index.md
+- name: "4. Serverless"
+  href: serverless/index.md
+- name: "5. Front-End Web & Mobile"
+  href: front-end-web-mobile/index.md
+- name: "6. Networking & Content Delivery"
+  href: networking-content-delivery/index.md
+- name: "7. Storage"
+  href: storage/index.md
+- name: "8. Database"
+  href: database/index.md
+- name: "9. Application Integration"
+  href: application-integration/index.md
+- name: "10. Analytics"
+  href: analytics/index.md
+- name: "11. Internet of Things (IoT)"
+  href: internet-of-things/index.md
+- name: "12. Machine Learning"
+  href: machine-learning/index.md
+- name: "13. Media Services"
+  href: media-services/index.md
+- name: "14. Security, Identity, & Compliance"
+  href: security-identity-compliance/index.md
+  items:
+  - name: "14.3 AWS Directory Service"
+    href: security-identity-compliance/directory-service/index.md
+    items:
+    - name: "14.3.1 AWS Directory Service"
+      href: security-identity-compliance/directory-service/what-is.md
+  - name: "14.5 AWS Identity and Access Management"
+    href: security-identity-compliance/iam/index.md
+    items:
+    - name: "14.5.1 IAM"
+      href: security-identity-compliance/iam/introduction/index.md
+      items:
+      - name: "14.5.1.4 How IAM Works"
+        href: security-identity-compliance/iam/introduction/intro-structure.md
+    - name: "14.5.2 Identities"
+      href: security-identity-compliance/iam/identities/index.md
+      items:
+      - name: "14.5.2.4 Roles"
+        href: security-identity-compliance/iam/identities/roles.md
+    - name: "14.5.3 Access Management"
+      href: security-identity-compliance/iam/access-management/index.md
+      items:
+      - name: "14.5.3.1 Policies and Permissions"
+        href: security-identity-compliance/iam/access-management/policies-and-permissions.md
+- name: "15. Cryptography & PKI"
+  href: cryptography-pki/index.md
+- name: "16. End User Computing"
+  href: end-user-computing/index.md
+- name: "17. Management & Governance"
+  href: management-governance/index.md
+  items:
+  - name: "17.3 AWS CloudFormation"
+    href: management-governance/cloudformation/index.md
+    items:
+    - name: "17.3.1 CloudFormation"
+      href: management-governance/cloudformation/welcome.md
+- name: "18. AWS Management Console"
+  href: aws-management-console/index.md
+- name: "19. Cloud Financial Management"
+  href: cloud-financial-management/index.md
+- name: "20. Developer Tools"
+  href: developer-tools/index.md
+- name: "21. Migration & Transfer"
+  href: migration-transfer/index.md
+- name: "22. Business Applications"
+  href: business-applications/index.md
+- name: "23. Game Development"
+  href: game-development/index.md
+- name: "24. Blockchain"
+  href: blockchain/index.md
+- name: "25. Quantum Computing"
+  href: quantum-computing/index.md
+- name: "26. Satellite"
+  href: satellite/index.md
+- name: "27. Customer Enablement Services"
+  href: customer-enablement-services/index.md
+- name: "28. Marketplace"
+  href: marketplace/index.md
+- name: "29. Partner Central"
+  href: partner-central/index.md

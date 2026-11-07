@@ -1,7 +1,7 @@
 ---
 title: "17. Identity"
 description: "Microsoft Azure, 17. Identity: directory services, authentication methods, external identities, Conditional Access and role-based access control."
-ms.date: 2026-10-24
+ms.date: 2026-11-06
 ---
 
 # 17. Identity

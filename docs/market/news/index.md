@@ -1,10 +1,10 @@
 ---
-title: "6. News"
+title: "7. News"
 description: "Market > News: dated news on cloud, AI and hiring, one page per year, newest first; these pages define no terms, so they have no figure."
 ms.date: 2026-11-03
 ---
 
-# 6. News
+# 7. News
 
 | Year | Entries | Topics |
 |---|---|---|

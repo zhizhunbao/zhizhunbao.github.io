@@ -1,0 +1,23 @@
+items:
+- name: "Overview"
+  href: index.md
+- name: "Learning"
+  items:
+  - name: "2025"
+    items:
+    - name: "The AI Course Exam Crisis"
+      href: learning/2025/ai-course-exam-crisis.md
+- name: "Projects"
+  items:
+  - name: "2025"
+    items:
+    - name: "The City of Ottawa AI Chatbot"
+      href: projects/2025/city-of-ottawa-ai-chatbot.md
+- name: "Interview"
+  items:
+  - name: "2025"
+    items:
+    - name: "The AI Course Exam Crisis"
+      href: interview/2025/ai-course-exam-crisis.md
+    - name: "The City of Ottawa AI Chatbot"
+      href: interview/2025/city-of-ottawa-ai-chatbot.md

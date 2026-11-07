@@ -1,7 +1,7 @@
 ---
 title: "51 Information and Cultural Industries"
-description: "NAICS Canada 2022 Version 1.0 sector 51, Information and cultural industries: no projects yet."
-ms.date: 2026-10-28
+description: "NAICS Canada 2022 Version 1.0 sector 51, Information and cultural industries: 1 project."
+ms.date: 2026-11-05
 ---
 
 # 51 Information and Cultural Industries
@@ -14,7 +14,9 @@ ms.date: 2026-10-28
 
 ## Projects
 
-No projects yet.
+| Project | What it is | Role | Organization | Dates |
+|---|---|---|---|---|
+| [Smart-TV Big Data Platform](../huantv-big-data-platform.md) | A smart-TV data platform processing over a billion device records a day with sub-second queries, moved from self-managed CDH Hadoop on Tencent Cloud to Alibaba Cloud EMR, with Apache DolphinScheduler scheduling and ClickHouse queries. | Senior Big Data Architect: Architecture, Development & Operations | Guangzhou Huan Technology (HuanTV), Guangzhou | Apr 2015 – Sep 2022 |
 
 ## References
 
