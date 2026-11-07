@@ -1,0 +1,679 @@
+
+<div id="sidetoggle">
+  <div>
+    <div class="sidefilter">
+      <form class="toc-filter">
+        <span class="glyphicon glyphicon-filter filter-icon"></span>
+        <span class="glyphicon glyphicon-remove clear-icon" id="toc_filter_clear"></span>
+        <input type="text" id="toc_filter_input" placeholder="Filter by title" onkeypress="if(event.keyCode==13) {return false;}">
+      </form>
+    </div>
+    <div class="sidetoc">
+      <div class="toc" id="toc">
+
+          <ul class="nav level1">
+                <li>
+                    <a href="index.html" name="" title="Overview">Overview</a>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="overview/index.html" name="" title="1. Overview">1. Overview</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="overview/components.html" name="" title="1.1 Kubernetes Components">1.1 Kubernetes Components</a>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="overview/working-with-objects/index.html" name="" title="1.2 Objects In Kubernetes">1.2 Objects In Kubernetes</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="overview/working-with-objects/objects-in-kubernetes.html" name="" title="1.2.0 Objects In Kubernetes">1.2.0 Objects In Kubernetes</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/object-management.html" name="" title="1.2.1 Kubernetes Object Management">1.2.1 Kubernetes Object Management</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/names.html" name="" title="1.2.2 Object Names and IDs">1.2.2 Object Names and IDs</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/labels.html" name="" title="1.2.3 Labels and Selectors">1.2.3 Labels and Selectors</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/namespaces.html" name="" title="1.2.4 Namespaces">1.2.4 Namespaces</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/annotations.html" name="" title="1.2.5 Annotations">1.2.5 Annotations</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/field-selectors.html" name="" title="1.2.6 Field Selectors">1.2.6 Field Selectors</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/finalizers.html" name="" title="1.2.7 Finalizers">1.2.7 Finalizers</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/owners-dependents.html" name="" title="1.2.8 Owners and Dependents">1.2.8 Owners and Dependents</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/common-labels.html" name="" title="1.2.9 Recommended Labels">1.2.9 Recommended Labels</a>
+                                    </li>
+                                    <li>
+                                        <a href="overview/working-with-objects/storage-version.html" name="" title="1.2.10 Storage Versions">1.2.10 Storage Versions</a>
+                                    </li>
+                              </ul>
+                          </li>
+                          <li>
+                              <a href="overview/kubernetes-api.html" name="" title="1.3 The Kubernetes API">1.3 The Kubernetes API</a>
+                          </li>
+                          <li>
+                              <a href="overview/kubectl.html" name="" title="1.4 The kubectl command-line tool">1.4 The kubectl command-line tool</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="architecture/index.html" name="" title="2. Cluster Architecture">2. Cluster Architecture</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="architecture/cluster-architecture.html" name="" title="2.0 Cluster Architecture">2.0 Cluster Architecture</a>
+                          </li>
+                          <li>
+                              <a href="architecture/nodes.html" name="" title="2.1 Nodes">2.1 Nodes</a>
+                          </li>
+                          <li>
+                              <a href="architecture/control-plane-node-communication.html" name="" title="2.2 Communication between Nodes and the Control Plane">2.2 Communication between Nodes and the Control Plane</a>
+                          </li>
+                          <li>
+                              <a href="architecture/controller.html" name="" title="2.3 Controllers">2.3 Controllers</a>
+                          </li>
+                          <li>
+                              <a href="architecture/leases.html" name="" title="2.4 Leases">2.4 Leases</a>
+                          </li>
+                          <li>
+                              <a href="architecture/cloud-controller.html" name="" title="2.5 Cloud Controller Manager">2.5 Cloud Controller Manager</a>
+                          </li>
+                          <li>
+                              <a href="architecture/cgroups.html" name="" title="2.6 About cgroup v2">2.6 About cgroup v2</a>
+                          </li>
+                          <li>
+                              <a href="architecture/self-healing.html" name="" title="2.7 Kubernetes Self-Healing">2.7 Kubernetes Self-Healing</a>
+                          </li>
+                          <li>
+                              <a href="architecture/garbage-collection.html" name="" title="2.8 Garbage Collection">2.8 Garbage Collection</a>
+                          </li>
+                          <li>
+                              <a href="architecture/mixed-version-proxy.html" name="" title="2.9 Mixed Version Proxy">2.9 Mixed Version Proxy</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="containers/index.html" name="" title="3. Containers">3. Containers</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="containers/containers.html" name="" title="3.0 Containers">3.0 Containers</a>
+                          </li>
+                          <li>
+                              <a href="containers/images.html" name="" title="3.1 Images">3.1 Images</a>
+                          </li>
+                          <li>
+                              <a href="containers/container-environment.html" name="" title="3.2 Container Environment">3.2 Container Environment</a>
+                          </li>
+                          <li>
+                              <a href="containers/runtime-class.html" name="" title="3.3 Runtime Class">3.3 Runtime Class</a>
+                          </li>
+                          <li>
+                              <a href="containers/container-lifecycle-hooks.html" name="" title="3.4 Container Lifecycle Hooks">3.4 Container Lifecycle Hooks</a>
+                          </li>
+                          <li>
+                              <a href="containers/cri.html" name="" title="3.5 Container Runtime Interface (CRI)">3.5 Container Runtime Interface (CRI)</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="workloads/index.html" name="" title="4. Workloads">4. Workloads</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="workloads/workloads.html" name="" title="4.0 Workloads">4.0 Workloads</a>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="workloads/pods/index.html" name="" title="4.1 Pods">4.1 Pods</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="workloads/pods/pods.html" name="" title="4.1.0 Pods">4.1.0 Pods</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/pod-lifecycle.html" name="" title="4.1.1 Pod Lifecycle">4.1.1 Pod Lifecycle</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/pod-condition.html" name="" title="4.1.2 Pod Conditions">4.1.2 Pod Conditions</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/init-containers.html" name="" title="4.1.3 Init Containers">4.1.3 Init Containers</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/sidecar-containers.html" name="" title="4.1.4 Sidecar Containers">4.1.4 Sidecar Containers</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/ephemeral-containers.html" name="" title="4.1.5 Ephemeral Containers">4.1.5 Ephemeral Containers</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/probes.html" name="" title="4.1.6 Liveness, Readiness, and Startup Probes">4.1.6 Liveness, Readiness, and Startup Probes</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/disruptions.html" name="" title="4.1.7 Disruptions">4.1.7 Disruptions</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/pod-hostname.html" name="" title="4.1.8 Pod Hostname">4.1.8 Pod Hostname</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/pod-qos.html" name="" title="4.1.9 Pod Quality of Service Classes">4.1.9 Pod Quality of Service Classes</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/scheduling-group.html" name="" title="4.1.10 Scheduling Group">4.1.10 Scheduling Group</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/static-pods.html" name="" title="4.1.11 Static Pods">4.1.11 Static Pods</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/user-namespaces.html" name="" title="4.1.12 User Namespaces">4.1.12 User Namespaces</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/downward-api.html" name="" title="4.1.13 Downward API">4.1.13 Downward API</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/pods/advanced-pod-config.html" name="" title="4.1.14 Advanced Pod Configuration">4.1.14 Advanced Pod Configuration</a>
+                                    </li>
+                              </ul>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="workloads/controllers/index.html" name="" title="4.2 Workload Management">4.2 Workload Management</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="workloads/controllers/deployment.html" name="" title="4.2.1 Deployments">4.2.1 Deployments</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/controllers/replicaset.html" name="" title="4.2.2 ReplicaSet">4.2.2 ReplicaSet</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/controllers/statefulset.html" name="" title="4.2.3 StatefulSets">4.2.3 StatefulSets</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/controllers/daemonset.html" name="" title="4.2.4 DaemonSet">4.2.4 DaemonSet</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/controllers/job.html" name="" title="4.2.5 Jobs">4.2.5 Jobs</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/controllers/ttlafterfinished.html" name="" title="4.2.6 Automatic Cleanup for Finished Jobs">4.2.6 Automatic Cleanup for Finished Jobs</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/controllers/cron-jobs.html" name="" title="4.2.7 CronJob">4.2.7 CronJob</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/controllers/replicationcontroller.html" name="" title="4.2.8 ReplicationController">4.2.8 ReplicationController</a>
+                                    </li>
+                              </ul>
+                          </li>
+                          <li>
+                              <a href="workloads/management.html" name="" title="4.3 Managing Workloads">4.3 Managing Workloads</a>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="workloads/autoscaling/index.html" name="" title="4.4 Autoscaling Workloads">4.4 Autoscaling Workloads</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="workloads/autoscaling/autoscaling-workloads.html" name="" title="4.4.0 Autoscaling Workloads">4.4.0 Autoscaling Workloads</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/autoscaling/horizontal-pod-autoscale.html" name="" title="4.4.1 Horizontal Pod Autoscaling">4.4.1 Horizontal Pod Autoscaling</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/autoscaling/vertical-pod-autoscale.html" name="" title="4.4.2 Vertical Pod Autoscaling">4.4.2 Vertical Pod Autoscaling</a>
+                                    </li>
+                              </ul>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="workloads/workload-api/index.html" name="" title="4.5 Workload API">4.5 Workload API</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="workloads/workload-api/workload-api.html" name="" title="4.5.0 Workload API">4.5.0 Workload API</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/workload-api/disruption-and-priority.html" name="" title="4.5.1 Pod Group Disruption and Priority">4.5.1 Pod Group Disruption and Priority</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/workload-api/policies.html" name="" title="4.5.2 PodGroup Scheduling Policies">4.5.2 PodGroup Scheduling Policies</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/workload-api/topology-aware-scheduling.html" name="" title="4.5.3 Topology-Aware Workload Scheduling">4.5.3 Topology-Aware Workload Scheduling</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/workload-api/workloadbuilder.html" name="" title="4.5.4 Scheduling Building Block APIs and the workloadbuilder Library">4.5.4 Scheduling Building Block APIs and the workloadbuilder Library</a>
+                                    </li>
+                              </ul>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="workloads/podgroup-api/index.html" name="" title="4.6 PodGroup API">4.6 PodGroup API</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="workloads/podgroup-api/podgroup-api.html" name="" title="4.6.0 PodGroup API">4.6.0 PodGroup API</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/podgroup-api/lifecycle.html" name="" title="4.6.1 PodGroup Lifecycle">4.6.1 PodGroup Lifecycle</a>
+                                    </li>
+                              </ul>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="workloads/compositepodgroup-api/index.html" name="" title="4.7 CompositePodGroup API">4.7 CompositePodGroup API</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="workloads/compositepodgroup-api/compositepodgroup-api.html" name="" title="4.7.0 CompositePodGroup API">4.7.0 CompositePodGroup API</a>
+                                    </li>
+                                    <li>
+                                        <a href="workloads/compositepodgroup-api/lifecycle.html" name="" title="4.7.1 CompositePodGroup Lifecycle">4.7.1 CompositePodGroup Lifecycle</a>
+                                    </li>
+                              </ul>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="services-networking/index.html" name="" title="5. Services, Load Balancing, and Networking">5. Services, Load Balancing, and Networking</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="services-networking/services-networking.html" name="" title="5.0 Services, Load Balancing, and Networking">5.0 Services, Load Balancing, and Networking</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/service.html" name="" title="5.1 Service">5.1 Service</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/ingress.html" name="" title="5.2 Ingress">5.2 Ingress</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/ingress-controllers.html" name="" title="5.3 Ingress Controllers">5.3 Ingress Controllers</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/gateway.html" name="" title="5.4 Gateway API">5.4 Gateway API</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/endpoint-slices.html" name="" title="5.5 EndpointSlices">5.5 EndpointSlices</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/network-policies.html" name="" title="5.6 Network Policies">5.6 Network Policies</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/dns-pod-service.html" name="" title="5.7 DNS for Services and Pods">5.7 DNS for Services and Pods</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/dual-stack.html" name="" title="5.8 IPv4/IPv6 dual-stack">5.8 IPv4/IPv6 dual-stack</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/topology-aware-routing.html" name="" title="5.9 Topology Aware Routing">5.9 Topology Aware Routing</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/windows-networking.html" name="" title="5.10 Networking on Windows">5.10 Networking on Windows</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/cluster-ip-allocation.html" name="" title="5.11 Service ClusterIP allocation">5.11 Service ClusterIP allocation</a>
+                          </li>
+                          <li>
+                              <a href="services-networking/service-traffic-policy.html" name="" title="5.12 Service Internal Traffic Policy">5.12 Service Internal Traffic Policy</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="storage/index.html" name="" title="6. Storage">6. Storage</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="storage/volumes.html" name="" title="6.1 Volumes">6.1 Volumes</a>
+                          </li>
+                          <li>
+                              <a href="storage/persistent-volumes.html" name="" title="6.2 Persistent Volumes">6.2 Persistent Volumes</a>
+                          </li>
+                          <li>
+                              <a href="storage/projected-volumes.html" name="" title="6.3 Projected Volumes">6.3 Projected Volumes</a>
+                          </li>
+                          <li>
+                              <a href="storage/ephemeral-volumes.html" name="" title="6.4 Ephemeral Volumes">6.4 Ephemeral Volumes</a>
+                          </li>
+                          <li>
+                              <a href="storage/storage-classes.html" name="" title="6.5 Storage Classes">6.5 Storage Classes</a>
+                          </li>
+                          <li>
+                              <a href="storage/volume-attributes-classes.html" name="" title="6.6 Volume Attributes Classes">6.6 Volume Attributes Classes</a>
+                          </li>
+                          <li>
+                              <a href="storage/dynamic-provisioning.html" name="" title="6.7 Dynamic Volume Provisioning">6.7 Dynamic Volume Provisioning</a>
+                          </li>
+                          <li>
+                              <a href="storage/volume-snapshots.html" name="" title="6.8 Volume Snapshots">6.8 Volume Snapshots</a>
+                          </li>
+                          <li>
+                              <a href="storage/volume-snapshot-classes.html" name="" title="6.9 Volume Snapshot Classes">6.9 Volume Snapshot Classes</a>
+                          </li>
+                          <li>
+                              <a href="storage/volume-pvc-datasource.html" name="" title="6.10 CSI Volume Cloning">6.10 CSI Volume Cloning</a>
+                          </li>
+                          <li>
+                              <a href="storage/volume-populators-and-data-sources.html" name="" title="6.11 Volume Populators and Data Sources">6.11 Volume Populators and Data Sources</a>
+                          </li>
+                          <li>
+                              <a href="storage/storage-capacity.html" name="" title="6.12 Storage Capacity">6.12 Storage Capacity</a>
+                          </li>
+                          <li>
+                              <a href="storage/storage-limits.html" name="" title="6.13 Node-specific Volume Limits">6.13 Node-specific Volume Limits</a>
+                          </li>
+                          <li>
+                              <a href="storage/ephemeral-storage.html" name="" title="6.14 Local ephemeral storage">6.14 Local ephemeral storage</a>
+                          </li>
+                          <li>
+                              <a href="storage/volume-health-monitoring.html" name="" title="6.15 Volume Health Monitoring">6.15 Volume Health Monitoring</a>
+                          </li>
+                          <li>
+                              <a href="storage/windows-storage.html" name="" title="6.16 Windows Storage">6.16 Windows Storage</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="configuration/index.html" name="" title="7. Configuration">7. Configuration</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="configuration/configmap.html" name="" title="7.1 ConfigMaps">7.1 ConfigMaps</a>
+                          </li>
+                          <li>
+                              <a href="configuration/secret.html" name="" title="7.2 Secrets">7.2 Secrets</a>
+                          </li>
+                          <li>
+                              <a href="configuration/manage-resources-containers.html" name="" title="7.3 Resource Management for Pods and Containers">7.3 Resource Management for Pods and Containers</a>
+                          </li>
+                          <li>
+                              <a href="configuration/organize-cluster-access-kubeconfig.html" name="" title="7.4 Organizing Cluster Access Using kubeconfig Files">7.4 Organizing Cluster Access Using kubeconfig Files</a>
+                          </li>
+                          <li>
+                              <a href="configuration/windows-resource-management.html" name="" title="7.5 Resource Management for Windows nodes">7.5 Resource Management for Windows nodes</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="security/index.html" name="" title="8. Security">8. Security</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="security/cloud-native-security.html" name="" title="8.1 Cloud Native Security">8.1 Cloud Native Security</a>
+                          </li>
+                          <li>
+                              <a href="security/pod-security-standards.html" name="" title="8.2 Pod Security Standards">8.2 Pod Security Standards</a>
+                          </li>
+                          <li>
+                              <a href="security/pod-security-admission.html" name="" title="8.3 Pod Security Admission">8.3 Pod Security Admission</a>
+                          </li>
+                          <li>
+                              <a href="security/service-accounts.html" name="" title="8.4 Service Accounts">8.4 Service Accounts</a>
+                          </li>
+                          <li>
+                              <a href="security/linux-security.html" name="" title="8.5 Security For Linux Nodes">8.5 Security For Linux Nodes</a>
+                          </li>
+                          <li>
+                              <a href="security/windows-security.html" name="" title="8.6 Security For Windows Nodes">8.6 Security For Windows Nodes</a>
+                          </li>
+                          <li>
+                              <a href="security/controlling-access.html" name="" title="8.7 Controlling Access to the Kubernetes API">8.7 Controlling Access to the Kubernetes API</a>
+                          </li>
+                          <li>
+                              <a href="security/multi-tenancy.html" name="" title="8.8 Multi-tenancy">8.8 Multi-tenancy</a>
+                          </li>
+                          <li>
+                              <a href="security/api-server-bypass-risks.html" name="" title="8.9 Kubernetes API Server Bypass Risks">8.9 Kubernetes API Server Bypass Risks</a>
+                          </li>
+                          <li>
+                              <a href="security/linux-kernel-security-constraints.html" name="" title="8.10 Linux kernel security constraints for Pods and containers">8.10 Linux kernel security constraints for Pods and containers</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="policy/index.html" name="" title="9. Policies">9. Policies</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="policy/limit-range.html" name="" title="9.1 Limit Ranges">9.1 Limit Ranges</a>
+                          </li>
+                          <li>
+                              <a href="policy/resource-quotas.html" name="" title="9.2 Resource Quotas">9.2 Resource Quotas</a>
+                          </li>
+                          <li>
+                              <a href="policy/pid-limiting.html" name="" title="9.3 Process ID Limits And Reservations">9.3 Process ID Limits And Reservations</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="scheduling-eviction/index.html" name="" title="10. Scheduling, Preemption and Eviction">10. Scheduling, Preemption and Eviction</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="scheduling-eviction/kube-scheduler.html" name="" title="10.1 Kubernetes Scheduler">10.1 Kubernetes Scheduler</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/running-multiple-schedulers.html" name="" title="10.2 Running multiple schedulers">10.2 Running multiple schedulers</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/assign-pod-node.html" name="" title="10.3 Assigning Pods to Nodes">10.3 Assigning Pods to Nodes</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/pod-overhead.html" name="" title="10.4 Pod Overhead">10.4 Pod Overhead</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/pod-scheduling-readiness.html" name="" title="10.5 Pod Scheduling Readiness">10.5 Pod Scheduling Readiness</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/topology-spread-constraints.html" name="" title="10.6 Pod Topology Spread Constraints">10.6 Pod Topology Spread Constraints</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/taint-and-toleration.html" name="" title="10.7 Taints and Tolerations">10.7 Taints and Tolerations</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/scheduling-framework.html" name="" title="10.8 Scheduling Framework">10.8 Scheduling Framework</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/gang-scheduling.html" name="" title="10.9 Gang Scheduling">10.9 Gang Scheduling</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/scheduler-perf-tuning.html" name="" title="10.10 Scheduler Performance Tuning">10.10 Scheduler Performance Tuning</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/podgroup-scheduling.html" name="" title="10.11 PodGroup Scheduling">10.11 PodGroup Scheduling</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/resource-bin-packing.html" name="" title="10.12 Resource Bin Packing">10.12 Resource Bin Packing</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/workload-aware-preemption.html" name="" title="10.13 Workload-Aware Preemption">10.13 Workload-Aware Preemption</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/topology-aware-scheduling.html" name="" title="10.14 Topology-Aware Workload Scheduling">10.14 Topology-Aware Workload Scheduling</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/pod-priority-preemption.html" name="" title="10.15 Pod Priority and Preemption">10.15 Pod Priority and Preemption</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/node-pressure-eviction.html" name="" title="10.16 Node-pressure Eviction">10.16 Node-pressure Eviction</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/api-eviction.html" name="" title="10.17 API-initiated Eviction">10.17 API-initiated Eviction</a>
+                          </li>
+                          <li>
+                              <a href="scheduling-eviction/node-declared-features.html" name="" title="10.18 Node Declared Features">10.18 Node Declared Features</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="resource-management/index.html" name="" title="11. Resource Management">11. Resource Management</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="resource-management/resource-managers.html" name="" title="11.1 Resource managers">11.1 Resource managers</a>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="resource-management/dynamic-resource-allocation/index.html" name="" title="11.2 Dynamic Resource Allocation">11.2 Dynamic Resource Allocation</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="resource-management/dynamic-resource-allocation/dynamic-resource-allocation.md" name="" title="11.2.0 Dynamic Resource Allocation">11.2.0 Dynamic Resource Allocation</a>
+                                    </li>
+                                    <li>
+                                        <a href="resource-management/dynamic-resource-allocation/dra-api.html" name="" title="11.2.1 DRA API Objects">11.2.1 DRA API Objects</a>
+                                    </li>
+                                    <li>
+                                        <a href="resource-management/dynamic-resource-allocation/how-dra-works.html" name="" title="11.2.2 How DRA Works">11.2.2 How DRA Works</a>
+                                    </li>
+                                    <li>
+                                        <a href="resource-management/dynamic-resource-allocation/dra-observability.html" name="" title="11.2.3 Observability of Dynamic Resources">11.2.3 Observability of Dynamic Resources</a>
+                                    </li>
+                                    <li>
+                                        <a href="resource-management/dynamic-resource-allocation/dra-features.html" name="" title="11.2.4 DRA Features">11.2.4 DRA Features</a>
+                                    </li>
+                                    <li>
+                                        <a href="resource-management/dynamic-resource-allocation/device-taints.html" name="" title="11.2.5 Device Taints and Tolerations">11.2.5 Device Taints and Tolerations</a>
+                                    </li>
+                              </ul>
+                          </li>
+                          <li>
+                              <a href="resource-management/pod-level-resource-managers.html" name="" title="11.3 Pod-level resource managers">11.3 Pod-level resource managers</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="cluster-administration/index.html" name="" title="12. Cluster Administration">12. Cluster Administration</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="cluster-administration/node-shutdown.html" name="" title="12.1 Node Shutdowns">12.1 Node Shutdowns</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/swap-memory-management.html" name="" title="12.2 Swap memory management">12.2 Swap memory management</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/node-autoscaling.html" name="" title="12.3 Node Autoscaling">12.3 Node Autoscaling</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/networking.html" name="" title="12.4 Cluster Networking">12.4 Cluster Networking</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/observability.html" name="" title="12.5 Observability">12.5 Observability</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/logging.html" name="" title="12.6 Logging Architecture">12.6 Logging Architecture</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/compatibility-version.html" name="" title="12.7 Compatibility Version For Kubernetes Control Plane Components">12.7 Compatibility Version For Kubernetes Control Plane Components</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/system-metrics.html" name="" title="12.8 Metrics For Kubernetes System Components">12.8 Metrics For Kubernetes System Components</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/kube-state-metrics.html" name="" title="12.9 Metrics for Kubernetes Object States">12.9 Metrics for Kubernetes Object States</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/system-logs.html" name="" title="12.10 System Logs">12.10 System Logs</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/system-traces.html" name="" title="12.11 Traces For Kubernetes System Components">12.11 Traces For Kubernetes System Components</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/proxies.html" name="" title="12.12 Proxies in Kubernetes">12.12 Proxies in Kubernetes</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/flow-control.html" name="" title="12.13 API Priority and Fairness">12.13 API Priority and Fairness</a>
+                          </li>
+                          <li>
+                              <a href="cluster-administration/coordinated-leader-election.html" name="" title="12.14 Coordinated Leader Election">12.14 Coordinated Leader Election</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="windows/index.html" name="" title="13. Windows in Kubernetes">13. Windows in Kubernetes</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="windows/intro.html" name="" title="13.1 Windows containers in Kubernetes">13.1 Windows containers in Kubernetes</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="extend-kubernetes/index.html" name="" title="14. Extending Kubernetes">14. Extending Kubernetes</a>
+
+                    <ul class="nav level2">
+                          <li>
+                              <a href="extend-kubernetes/extending-kubernetes.html" name="" title="14.0 Extending Kubernetes">14.0 Extending Kubernetes</a>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="extend-kubernetes/compute-storage-net/index.html" name="" title="14.1 Compute, Storage, and Networking Extensions">14.1 Compute, Storage, and Networking Extensions</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="extend-kubernetes/compute-storage-net/compute-storage-and-networking-extensions.html" name="" title="14.1.0 Compute, Storage, and Networking Extensions">14.1.0 Compute, Storage, and Networking Extensions</a>
+                                    </li>
+                                    <li>
+                                        <a href="extend-kubernetes/compute-storage-net/network-plugins.html" name="" title="14.1.1 Network Plugins">14.1.1 Network Plugins</a>
+                                    </li>
+                                    <li>
+                                        <a href="extend-kubernetes/compute-storage-net/device-plugins.html" name="" title="14.1.2 Device Plugins">14.1.2 Device Plugins</a>
+                                    </li>
+                              </ul>
+                          </li>
+                          <li>
+                              <span class="expand-stub"></span>
+                              <a href="extend-kubernetes/api-extension/index.html" name="" title="14.2 Extending the Kubernetes API">14.2 Extending the Kubernetes API</a>
+
+                              <ul class="nav level3">
+                                    <li>
+                                        <a href="extend-kubernetes/api-extension/extending-the-kubernetes-api.html" name="" title="14.2.0 Extending the Kubernetes API">14.2.0 Extending the Kubernetes API</a>
+                                    </li>
+                                    <li>
+                                        <a href="extend-kubernetes/api-extension/custom-resources.html" name="" title="14.2.1 Custom Resources">14.2.1 Custom Resources</a>
+                                    </li>
+                                    <li>
+                                        <a href="extend-kubernetes/api-extension/apiserver-aggregation.html" name="" title="14.2.2 Kubernetes API Aggregation Layer">14.2.2 Kubernetes API Aggregation Layer</a>
+                                    </li>
+                              </ul>
+                          </li>
+                          <li>
+                              <a href="extend-kubernetes/operator.html" name="" title="14.3 Operator pattern">14.3 Operator pattern</a>
+                          </li>
+                    </ul>
+                </li>
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>

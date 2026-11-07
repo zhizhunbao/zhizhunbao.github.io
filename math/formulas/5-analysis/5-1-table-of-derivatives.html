@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.1 Table of Derivatives | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Table of Derivatives, part 5.1 of Formulas, from the formula appendices of Strang and Herman, Calculus Volume 1 (OpenStax), appendix B: 36 formulas in 6 groups.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="51-table-of-derivatives">5.1 Table of Derivatives</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="../index.html">Formulas</a></strong><br>公式</td>
+<td></td>
+<td></td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/c-review-of-pre-calculus">Strang &amp; Herman, 2016, appendices A to C</a></td>
+</tr>
+<tr>
+<td><strong><a href="index.html">5 Analysis</a></strong><br>分析</td>
+<td></td>
+<td></td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/a-table-of-integrals">Strang &amp; Herman, 2016, appendices A and B</a></td>
+</tr>
+<tr>
+<td><strong><a href="5-1-table-of-derivatives.html">5.1 Table of Derivatives</a></strong><br>导数表</td>
+<td></td>
+<td></td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B</a></td>
+</tr>
+<tr>
+<td><strong>5.1.1 General Formulas</strong><br>一般公式</td>
+<td></td>
+<td></td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(c)=0\)</span><br>常数的导数</td>
+<td>&quot;To find derivatives of polynomials and rational functions efficiently <strong>without resorting to the limit definition of the derivative</strong>, we must first <strong>develop formulas for differentiating these basic functions</strong>.&quot;</td>
+<td>要<strong>不借助导数的极限定义</strong>而高效地求多项式和有理函数的导数，必须先<strong>建立这些基本函数的求导公式</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 1</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules">Strang &amp; Herman, 2016, section 3.3</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(f(x)+g(x))=f'(x)+g'(x)\)</span><br>和的导数</td>
+<td>&quot;To find derivatives of polynomials and rational functions efficiently <strong>without resorting to the limit definition of the derivative</strong>, we must first <strong>develop formulas for differentiating these basic functions</strong>.&quot;</td>
+<td>要<strong>不借助导数的极限定义</strong>而高效地求多项式和有理函数的导数，必须先<strong>建立这些基本函数的求导公式</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 2</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules">Strang &amp; Herman, 2016, section 3.3</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(f(x)g(x))=f'(x)g(x)+f(x)g'(x)\)</span><br>乘积的导数（乘法法则）</td>
+<td>&quot;To find derivatives of polynomials and rational functions efficiently <strong>without resorting to the limit definition of the derivative</strong>, we must first <strong>develop formulas for differentiating these basic functions</strong>.&quot;</td>
+<td>要<strong>不借助导数的极限定义</strong>而高效地求多项式和有理函数的导数，必须先<strong>建立这些基本函数的求导公式</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 3</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules">Strang &amp; Herman, 2016, section 3.3</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(x^n)=nx^{n-1},\ \text{for real numbers } n\)</span><br>幂函数的导数（幂法则）</td>
+<td>&quot;To find derivatives of polynomials and rational functions efficiently <strong>without resorting to the limit definition of the derivative</strong>, we must first <strong>develop formulas for differentiating these basic functions</strong>.&quot;</td>
+<td>要<strong>不借助导数的极限定义</strong>而高效地求多项式和有理函数的导数，必须先<strong>建立这些基本函数的求导公式</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 4</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules">Strang &amp; Herman, 2016, section 3.3</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(cf(x))=cf'(x)\)</span><br>常数倍的导数</td>
+<td>&quot;To find derivatives of polynomials and rational functions efficiently <strong>without resorting to the limit definition of the derivative</strong>, we must first <strong>develop formulas for differentiating these basic functions</strong>.&quot;</td>
+<td>要<strong>不借助导数的极限定义</strong>而高效地求多项式和有理函数的导数，必须先<strong>建立这些基本函数的求导公式</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 5</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules">Strang &amp; Herman, 2016, section 3.3</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(f(x)-g(x))=f'(x)-g'(x)\)</span><br>差的导数</td>
+<td>&quot;To find derivatives of polynomials and rational functions efficiently <strong>without resorting to the limit definition of the derivative</strong>, we must first <strong>develop formulas for differentiating these basic functions</strong>.&quot;</td>
+<td>要<strong>不借助导数的极限定义</strong>而高效地求多项式和有理函数的导数，必须先<strong>建立这些基本函数的求导公式</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 6</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules">Strang &amp; Herman, 2016, section 3.3</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\frac{f(x)}{g(x)})=\frac{g(x)f'(x)-f(x)g'(x)}{(g(x))^2}\)</span><br>商的导数（除法法则）</td>
+<td>&quot;To find derivatives of polynomials and rational functions efficiently <strong>without resorting to the limit definition of the derivative</strong>, we must first <strong>develop formulas for differentiating these basic functions</strong>.&quot;</td>
+<td>要<strong>不借助导数的极限定义</strong>而高效地求多项式和有理函数的导数，必须先<strong>建立这些基本函数的求导公式</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 7</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-3-differentiation-rules">Strang &amp; Herman, 2016, section 3.3</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}[f(g(x))]=f'(g(x)) \cdot g'(x)\)</span><br>复合函数的导数（链式法则）</td>
+<td>&quot;At this point, we present <strong>a very informal proof of the chain rule</strong>.&quot;</td>
+<td>这里给出<strong>链式法则的一个很不正式的证明</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 8</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-6-the-chain-rule">Strang &amp; Herman, 2016, section 3.6</a></td>
+</tr>
+<tr>
+<td><strong>5.1.2 Trigonometric Functions</strong><br>三角函数</td>
+<td></td>
+<td></td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\sin\,x)=\cos\,x\)</span><br>sin x 的导数</td>
+<td>&quot;The <strong>derivative of the sine function is the cosine</strong> and the derivative of the cosine function is the negative sine.&quot;</td>
+<td><strong>正弦函数的导数是余弦</strong>，余弦函数的导数是负的正弦。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 9</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-5-derivatives-of-trigonometric-functions">Strang &amp; Herman, 2016, section 3.5</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\tan x)=\sec^2x\)</span><br>tan x 的导数</td>
+<td>&quot;Since the remaining four trigonometric functions may be expressed as <strong>quotients involving sine, cosine, or both</strong>, we can <strong>use the quotient rule</strong> to find formulas for their derivatives.&quot;</td>
+<td>其余四个三角函数都可以写成<strong>含正弦、余弦或两者的商</strong>，所以可以<strong>用求导除法法则</strong>求它们的导数公式。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 10</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-5-derivatives-of-trigonometric-functions">Strang &amp; Herman, 2016, section 3.5</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\sec x)=\sec\,x\,\tan\,x\)</span><br>sec x 的导数</td>
+<td>&quot;Since the remaining four trigonometric functions may be expressed as <strong>quotients involving sine, cosine, or both</strong>, we can <strong>use the quotient rule</strong> to find formulas for their derivatives.&quot;</td>
+<td>其余四个三角函数都可以写成<strong>含正弦、余弦或两者的商</strong>，所以可以<strong>用求导除法法则</strong>求它们的导数公式。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 11</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-5-derivatives-of-trigonometric-functions">Strang &amp; Herman, 2016, section 3.5</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\cos\,x)=-\sin\,x\)</span><br>cos x 的导数</td>
+<td>&quot;The derivative of the sine function is the cosine and the <strong>derivative of the cosine function is the negative sine</strong>.&quot;</td>
+<td>正弦函数的导数是余弦，<strong>余弦函数的导数是负的正弦</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 12</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-5-derivatives-of-trigonometric-functions">Strang &amp; Herman, 2016, section 3.5</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\cot x)=-\csc^2x\)</span><br>cot x 的导数</td>
+<td>&quot;Since the remaining four trigonometric functions may be expressed as <strong>quotients involving sine, cosine, or both</strong>, we can <strong>use the quotient rule</strong> to find formulas for their derivatives.&quot;</td>
+<td>其余四个三角函数都可以写成<strong>含正弦、余弦或两者的商</strong>，所以可以<strong>用求导除法法则</strong>求它们的导数公式。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 13</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-5-derivatives-of-trigonometric-functions">Strang &amp; Herman, 2016, section 3.5</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\csc x)=-\csc\,x\,\cot\,x\)</span><br>csc x 的导数</td>
+<td>&quot;Since the remaining four trigonometric functions may be expressed as <strong>quotients involving sine, cosine, or both</strong>, we can <strong>use the quotient rule</strong> to find formulas for their derivatives.&quot;</td>
+<td>其余四个三角函数都可以写成<strong>含正弦、余弦或两者的商</strong>，所以可以<strong>用求导除法法则</strong>求它们的导数公式。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 14</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-5-derivatives-of-trigonometric-functions">Strang &amp; Herman, 2016, section 3.5</a></td>
+</tr>
+<tr>
+<td><strong>5.1.3 Inverse Trigonometric Functions</strong><br>反三角函数</td>
+<td></td>
+<td></td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\sin^{-1}x)=\frac{1}{\sqrt{1-x^2}}\)</span><br>反正弦的导数</td>
+<td>&quot;The derivatives of the remaining inverse trigonometric functions may also be found by <strong>using the inverse function theorem</strong>.&quot;</td>
+<td>其余反三角函数的导数也可以<strong>用反函数定理</strong>求得。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 15</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-7-derivatives-of-inverse-functions">Strang &amp; Herman, 2016, section 3.7</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\tan^{-1}x)=\frac{1}{1+x^2}\)</span><br>反正切的导数</td>
+<td>&quot;The derivatives of the remaining inverse trigonometric functions may also be found by <strong>using the inverse function theorem</strong>.&quot;</td>
+<td>其余反三角函数的导数也可以<strong>用反函数定理</strong>求得。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 16</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-7-derivatives-of-inverse-functions">Strang &amp; Herman, 2016, section 3.7</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\sec^{-1}x)=\frac{1}{\vert x\vert \sqrt{x^2-1}}\)</span><br>反正割的导数</td>
+<td>&quot;The derivatives of the remaining inverse trigonometric functions may also be found by <strong>using the inverse function theorem</strong>.&quot;</td>
+<td>其余反三角函数的导数也可以<strong>用反函数定理</strong>求得。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 17</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-7-derivatives-of-inverse-functions">Strang &amp; Herman, 2016, section 3.7</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\cos^{-1}x)=-\frac{1}{\sqrt{1-x^2}}\)</span><br>反余弦的导数</td>
+<td>&quot;The derivatives of the remaining inverse trigonometric functions may also be found by <strong>using the inverse function theorem</strong>.&quot;</td>
+<td>其余反三角函数的导数也可以<strong>用反函数定理</strong>求得。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 18</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-7-derivatives-of-inverse-functions">Strang &amp; Herman, 2016, section 3.7</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\cot^{-1}x)=-\frac{1}{1+x^2}\)</span><br>反余切的导数</td>
+<td>&quot;The derivatives of the remaining inverse trigonometric functions may also be found by <strong>using the inverse function theorem</strong>.&quot;</td>
+<td>其余反三角函数的导数也可以<strong>用反函数定理</strong>求得。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 19</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-7-derivatives-of-inverse-functions">Strang &amp; Herman, 2016, section 3.7</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\csc^{-1}x)=-\frac{1}{\vert x\vert \sqrt{x^2-1}}\)</span><br>反余割的导数</td>
+<td>&quot;The derivatives of the remaining inverse trigonometric functions may also be found by <strong>using the inverse function theorem</strong>.&quot;</td>
+<td>其余反三角函数的导数也可以<strong>用反函数定理</strong>求得。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 20</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-7-derivatives-of-inverse-functions">Strang &amp; Herman, 2016, section 3.7</a></td>
+</tr>
+<tr>
+<td><strong>5.1.4 Exponential and Logarithmic Functions</strong><br>指数函数与对数函数</td>
+<td></td>
+<td></td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(e^x)=e^x\)</span><br>eˣ 的导数</td>
+<td>&quot;As we develop these formulas, <strong>we need to make certain basic assumptions</strong>.&quot;</td>
+<td>推导这些公式时，<strong>我们需要作一些基本假设</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 21</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-9-derivatives-of-exponential-and-logarithmic-functions">Strang &amp; Herman, 2016, section 3.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\ln\,\vert x\vert )=\frac{1}{x}\)</span><br>ln|x| 的导数</td>
+<td>&quot;we can use <strong>implicit differentiation</strong> to find the derivative of its inverse, <strong>the natural logarithmic function</strong>&quot;</td>
+<td>可以用<strong>隐函数求导</strong>求它的反函数，即<strong>自然对数函数</strong>的导数</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 22</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-9-derivatives-of-exponential-and-logarithmic-functions">Strang &amp; Herman, 2016, section 3.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(b^x)=b^x\ln\,b\)</span><br>bˣ 的导数</td>
+<td>&quot;As we develop these formulas, <strong>we need to make certain basic assumptions</strong>.&quot;</td>
+<td>推导这些公式时，<strong>我们需要作一些基本假设</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 23</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-9-derivatives-of-exponential-and-logarithmic-functions">Strang &amp; Herman, 2016, section 3.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\log_bx)=\frac{1}{x\,\ln\,b}\)</span><br>以 b 为底的对数的导数</td>
+<td>&quot;As we develop these formulas, <strong>we need to make certain basic assumptions</strong>.&quot;</td>
+<td>推导这些公式时，<strong>我们需要作一些基本假设</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 24</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/3-9-derivatives-of-exponential-and-logarithmic-functions">Strang &amp; Herman, 2016, section 3.9</a></td>
+</tr>
+<tr>
+<td><strong>5.1.5 Hyperbolic Functions</strong><br>双曲函数</td>
+<td></td>
+<td></td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\sinh\,x)=\cosh\,x\)</span><br>sinh x 的导数</td>
+<td>&quot;It is easy to <strong>develop differentiation formulas for the hyperbolic functions</strong>.&quot;</td>
+<td><strong>建立双曲函数的求导公式</strong>很容易。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 25</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\tanh\,x)=\operatorname{sech}^2\,x\)</span><br>tanh x 的导数</td>
+<td>&quot;It is easy to <strong>develop differentiation formulas for the hyperbolic functions</strong>.&quot;</td>
+<td><strong>建立双曲函数的求导公式</strong>很容易。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 26</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\operatorname{sech}\,x)=-\operatorname{sech}\,x\,\tanh\,x\)</span><br>sech x 的导数</td>
+<td>&quot;It is easy to <strong>develop differentiation formulas for the hyperbolic functions</strong>.&quot;</td>
+<td><strong>建立双曲函数的求导公式</strong>很容易。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 27</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\cosh\,x)=\sinh\,x\)</span><br>cosh x 的导数</td>
+<td>&quot;It is easy to <strong>develop differentiation formulas for the hyperbolic functions</strong>.&quot;</td>
+<td><strong>建立双曲函数的求导公式</strong>很容易。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 28</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\coth\,x)=-\operatorname{csch}^2\,x\)</span><br>coth x 的导数</td>
+<td>&quot;It is easy to <strong>develop differentiation formulas for the hyperbolic functions</strong>.&quot;</td>
+<td><strong>建立双曲函数的求导公式</strong>很容易。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 29</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\operatorname{csch}\,x)=-\operatorname{csch}\,x\,\coth\,x\)</span><br>csch x 的导数</td>
+<td>&quot;It is easy to <strong>develop differentiation formulas for the hyperbolic functions</strong>.&quot;</td>
+<td><strong>建立双曲函数的求导公式</strong>很容易。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 30</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><strong>5.1.6 Inverse Hyperbolic Functions</strong><br>反双曲函数</td>
+<td></td>
+<td></td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\sinh^{-1}x)=\frac{1}{\sqrt{x^2+1}}\)</span><br>反双曲正弦的导数</td>
+<td>&quot;To find the derivatives of the inverse functions, we use <strong>implicit differentiation</strong>.&quot;</td>
+<td>求这些反函数的导数时，用<strong>隐函数求导</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 31</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\tanh^{-1}x)=\frac{1}{1-x^2}(\vert x\vert &lt;1)\)</span><br>反双曲正切的导数</td>
+<td>&quot;To find the derivatives of the inverse functions, we use <strong>implicit differentiation</strong>.&quot;</td>
+<td>求这些反函数的导数时，用<strong>隐函数求导</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 32</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\operatorname{sech}^{-1}x)=-\frac{1}{x\sqrt{1-x^2}}\,(0&lt;x&lt;1)\)</span><br>反双曲正割的导数</td>
+<td>&quot;To find the derivatives of the inverse functions, we use <strong>implicit differentiation</strong>.&quot;</td>
+<td>求这些反函数的导数时，用<strong>隐函数求导</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 33</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\cosh^{-1}x)=\frac{1}{\sqrt{x^2-1}}\,(x&gt;1)\)</span><br>反双曲余弦的导数</td>
+<td>&quot;To find the derivatives of the inverse functions, we use <strong>implicit differentiation</strong>.&quot;</td>
+<td>求这些反函数的导数时，用<strong>隐函数求导</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 34</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\coth^{-1}x)=\frac{1}{1-x^2}\,(\vert x\vert &gt;1)\)</span><br>反双曲余切的导数</td>
+<td>&quot;To find the derivatives of the inverse functions, we use <strong>implicit differentiation</strong>.&quot;</td>
+<td>求这些反函数的导数时，用<strong>隐函数求导</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 35</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+<tr>
+<td><span class="math">\(\frac{d}{dx}(\operatorname{csch}^{-1}x)=-\frac{1}{\vert x\vert \sqrt{1+x^2}}\,(x \neq 0)\)</span><br>反双曲余割的导数</td>
+<td>&quot;To find the derivatives of the inverse functions, we use <strong>implicit differentiation</strong>.&quot;</td>
+<td>求这些反函数的导数时，用<strong>隐函数求导</strong>。</td>
+<td>Formula: <a href="https://openstax.org/books/calculus-volume-1/pages/b-table-of-derivatives">Strang &amp; Herman, 2016, appendix B, formula 36</a><br>Definition: <a href="https://openstax.org/books/calculus-volume-1/pages/6-9-calculus-of-the-hyperbolic-functions">Strang &amp; Herman, 2016, section 6.9</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Strang, G., &amp; Herman, E. (2016). <em>Calculus volume 1</em>. OpenStax. Retrieved November 1, 2026, from <a href="https://openstax.org/books/calculus-volume-1/pages/1-introduction">https://openstax.org/books/calculus-volume-1/pages/1-introduction</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-02 17:03:17-05:00">11/02/2026 17:03:17</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

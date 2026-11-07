@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>9. Open-Source Projects | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Sources kind Open-Source Projects: 21 of the publishers and documents this site cites.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Home">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="9-open-source-projects">9. Open-Source Projects</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/open-source-projects.png" alt="Open-Source Projects: its 21 members in rows, left to right: Apache Software Foundation, Farama Foundation, Git, GraphQL Foundation, Kubernetes, Linux Kernel, LLVM, Model Context Protocol, Mozilla, Open Robotics, OpenCV, OpenJS Foundation, OWASP Foundation, PostgreSQL, pytest, Python Software Foundation, PyTorch Foundation, scikit-learn, Selenium, Stable-Baselines3, Vitest."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Open-Source Projects</strong><br>开源项目</td>
+<td>(context) &quot;Open source software or information can be <strong>obtained legally and for free</strong> from the internet, and can be <strong>used, shared or changed</strong> without paying or asking for special permission&quot;</td>
+<td>（语境）开源软件或信息可以从互联网上<strong>合法、免费地获取</strong>，并且无需付费或特别许可就能<strong>使用、分享或修改</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/open-source">Cambridge University Press &amp; Assessment, n.d., &quot;open source&quot; adjective</a></td>
+</tr>
+<tr>
+<td><strong><a href="apache-software-foundation.html">Apache Software Foundation</a></strong><br>Apache 软件基金会</td>
+<td>&quot;ASF is a U.S. <strong>501(c)(3) charitable organization</strong> funded by individual donations and corporate sponsors, and is <strong>run almost exclusively by volunteers</strong> that provide support for <strong>hundreds of projects</strong>.&quot;</td>
+<td>ASF 是一家美国 <strong>501(c)(3) 慈善组织</strong>，由个人捐款和企业赞助商资助，<strong>几乎完全由志愿者运营</strong>，这些志愿者为<strong>数百个项目</strong>提供支持。</td>
+<td><a href="https://www.apache.org/foundation/#:%7E:text=ASF%20is%20a%20U.S.%20501%28c%29%283%29%20charitable%20organization%20funded">The Apache Software Foundation, n.d., &quot;Institutionalizing Open Source&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="farama-foundation.html">Farama Foundation</a></strong><br>Farama 基金会</td>
+<td>&quot;The Farama Foundation is a <strong>501(c)(3) nonprofit</strong> that <strong>advances reinforcement learning</strong> through <strong>open-source tools and shared standards</strong> for researchers and industry practitioners.&quot;</td>
+<td>Farama 基金会是一家 <strong>501(c)(3) 非营利组织</strong>，通过<strong>开源工具和共享标准</strong>来<strong>推进强化学习</strong>，服务于研究人员和行业从业者。</td>
+<td><a href="https://farama.org/about#:%7E:text=The%20Farama%20Foundation%20is%20a%20501%28c%29%283%29%20nonprofit%20that">The Farama Foundation, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="git.html">Git</a></strong><br>Git</td>
+<td>&quot;Git is a <strong>free and open source</strong> <strong>distributed version control system</strong> designed to handle everything from small to very large projects with <strong>speed and efficiency</strong>.&quot;</td>
+<td>Git 是一个<strong>免费且开源</strong>的<strong>分布式版本控制系统</strong>，旨在处理从小型到超大型的各种项目，并做到<strong>快速、高效</strong>。</td>
+<td><a href="https://git-scm.com/#:%7E:text=Git%20is%20a%20free%20and%20open%20source%20distributed">Git, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="graphql-foundation.html">GraphQL Foundation</a></strong><br>GraphQL 基金会</td>
+<td>&quot;The GraphQL Foundation is a <strong>neutral foundation</strong> founded by <strong>global technology and application development companies</strong>.&quot;</td>
+<td>GraphQL 基金会是一个<strong>中立的基金会</strong>，由<strong>全球技术和应用开发公司</strong>创立。</td>
+<td><a href="https://graphql.org/community/foundation/#:%7E:text=The%20GraphQL%20Foundation%20is%20a%20neutral%20foundation%20founded">GraphQL Foundation, n.d., &quot;What is the GraphQL Foundation?&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="kubernetes.html">Kubernetes</a></strong><br>Kubernetes</td>
+<td>&quot;Kubernetes is a <strong>portable, extensible, open source platform</strong> for <strong>managing containerized workloads and services</strong> that facilitate both <strong>declarative configuration and automation</strong>.&quot;</td>
+<td>Kubernetes 是一个<strong>可移植、可扩展的开源平台</strong>，用于<strong>管理容器化的工作负载和服务</strong>，可促进<strong>声明式配置和自动化</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/#:%7E:text=Kubernetes%20is%20a%20portable%2C%20extensible%2C%20open%20source%20platform">The Kubernetes Authors, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="linux-kernel.html">Linux Kernel</a></strong><br>Linux 内核</td>
+<td>&quot;Linux is a <strong>clone of the operating system Unix</strong>, written from scratch by <strong>Linus Torvalds</strong> with assistance from a <strong>loosely-knit team of hackers</strong> across the Net.&quot;</td>
+<td>Linux 是<strong>操作系统 Unix 的克隆</strong>，由 <strong>Linus Torvalds</strong> 从零写成，并得到网络上一群<strong>松散组织的黑客</strong>的协助。</td>
+<td><a href="https://docs.kernel.org/admin-guide/README.html#what-is-linux:%7E:text=Linux%20is%20a%20clone%20of%20the%20operating%20system">The kernel development community, n.d., &quot;What is Linux?&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="llvm.html">LLVM</a></strong><br>LLVM</td>
+<td>&quot;The LLVM Project is a <strong>collection of modular and reusable compiler and toolchain technologies</strong>.&quot;</td>
+<td>LLVM 项目是<strong>一组模块化、可复用的编译器和工具链技术</strong>。</td>
+<td><a href="https://llvm.org/#:%7E:text=The%20LLVM%20Project%20is%20a%20collection%20of%20modular">LLVM Project, n.d., &quot;LLVM Overview&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="model-context-protocol.html">Model Context Protocol</a></strong><br>模型上下文协议</td>
+<td>&quot;MCP (Model Context Protocol) is an <strong>open-source standard</strong> for <strong>connecting AI applications</strong> to <strong>external systems</strong>.&quot;</td>
+<td>MCP（模型上下文协议）是一种<strong>开源标准</strong>，用于<strong>连接 AI 应用程序</strong>与<strong>外部系统</strong>。</td>
+<td><a href="https://modelcontextprotocol.io/docs/getting-started/intro#:%7E:text=MCP%20%28Model%20Context%20Protocol%29%20is%20an%20open%2Dsource%20standard">Model Context Protocol, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="mozilla.html">Mozilla</a></strong><br>Mozilla</td>
+<td>&quot;The Mozilla Project is a <strong>global community of people</strong> who believe that <strong>openness, innovation, and opportunity</strong> are key to the <strong>continued health of the internet</strong>.&quot;</td>
+<td>Mozilla 项目是一个<strong>由人们组成的全球社区</strong>，他们相信<strong>开放、创新和机遇</strong>是<strong>互联网持续健康</strong>的关键。</td>
+<td><a href="https://www.mozilla.org/en-US/about/#:%7E:text=The%20Mozilla%20Project%20is%20a%20global%20community%20of">Mozilla, n.d., &quot;About Mozilla&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="open-robotics.html">Open Robotics</a></strong><br>开源机器人基金会（Open Robotics）</td>
+<td>&quot;We create <strong>open software and hardware platforms</strong> for <strong>robotics</strong>.&quot;</td>
+<td>我们为<strong>机器人</strong>打造<strong>开放的软件和硬件平台</strong>。</td>
+<td><a href="https://www.openrobotics.org/#:%7E:text=We%20create%20open%20software%20and%20hardware%20platforms%20for">Open Source Robotics Foundation, n.d., &quot;Open platforms for robotics&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="opencv.html">OpenCV</a></strong><br>OpenCV</td>
+<td>&quot;OpenCV (Open Source Computer Vision Library) is an <strong>open source computer vision and machine learning software library</strong>.&quot;</td>
+<td>OpenCV（开源计算机视觉库）是一个<strong>开源的计算机视觉和机器学习软件库</strong>。</td>
+<td><a href="https://opencv.org/about/#:%7E:text=OpenCV%20%28Open%20Source%20Computer%20Vision%20Library%29%20is%20an">OpenCV team, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="openjs-foundation.html">OpenJS Foundation</a></strong><br>OpenJS 基金会</td>
+<td>&quot;The OpenJS Foundation is the <strong>central place</strong> to support <strong>collaborative development</strong> of <strong>JavaScript and web technologies</strong>.&quot;</td>
+<td>OpenJS 基金会是支持 <strong>JavaScript 和 Web 技术</strong>的<strong>协作开发</strong>的<strong>核心场所</strong>。</td>
+<td><a href="https://openjsf.org/#:%7E:text=The%20OpenJS%20Foundation%20is%20the%20central%20place%20to">OpenJS Foundation, n.d., &quot;Join the OpenJS Foundation&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="owasp-foundation.html">OWASP Foundation</a></strong><br>OWASP 基金会</td>
+<td>&quot;The Open Worldwide Application Security Project (OWASP) is a <strong>501(c)(3) nonprofit foundation</strong> that works to <strong>improve the security of software</strong>.&quot;</td>
+<td>开放全球应用安全项目（OWASP）是一家 <strong>501(c)(3) 非营利基金会</strong>，致力于<strong>提升软件的安全性</strong>。</td>
+<td><a href="https://owasp.org/about/#:%7E:text=The%20Open%20Worldwide%20Application%20Security%20Project%20%28OWASP%29%20is">OWASP Foundation, n.d., &quot;The OWASP Foundation&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="postgresql.html">PostgreSQL</a></strong><br>PostgreSQL</td>
+<td>&quot;PostgreSQL is an <strong>object-relational database management system (ORDBMS)</strong> based on POSTGRES, Version 4.2, developed at the <strong>University of California at Berkeley</strong> Computer Science Department.&quot;</td>
+<td>PostgreSQL 是一个<strong>对象关系数据库管理系统（ORDBMS）</strong>，基于 POSTGRES 4.2 版，由<strong>加州大学伯克利分校</strong>计算机科学系开发。</td>
+<td><a href="https://www.postgresql.org/docs/current/intro-whatis.html#:%7E:text=PostgreSQL%20is%20an%20object%2Drelational%20database%20management%20system%20%28ORDBMS%29">The PostgreSQL Global Development Group, n.d., &quot;1. What Is PostgreSQL?&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="pytest.html">pytest</a></strong><br>pytest</td>
+<td>&quot;The pytest framework makes it easy to write <strong>small, readable tests</strong>, and can scale to support <strong>complex functional testing</strong> for applications and libraries.&quot;</td>
+<td>pytest 框架让编写<strong>小而易读的测试</strong>变得容易，并且可以扩展以支持面向应用程序和库的<strong>复杂功能测试</strong>。</td>
+<td><a href="https://docs.pytest.org/en/stable/#:%7E:text=The%20pytest%20framework%20makes%20it%20easy%20to%20write">pytest-dev, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="python-software-foundation.html">Python Software Foundation</a></strong><br>Python 软件基金会</td>
+<td>&quot;The Python Software Foundation (PSF) is a <strong>non-profit membership organization</strong> devoted to <strong>advancing open source technology</strong> related to the <strong>Python programming language</strong>.&quot;</td>
+<td>Python 软件基金会（PSF）是一个<strong>非营利会员制组织</strong>，致力于<strong>推进开源技术</strong>，这些技术与 <strong>Python 编程语言</strong>相关。</td>
+<td><a href="https://www.python.org/psf/mission/#:%7E:text=The%20Python%20Software%20Foundation%20%28PSF%29%20is%20a%20non%2Dprofit">Python Software Foundation, n.d., &quot;Mission&quot; section, para. 4 (the official mission statement)</a></td>
+</tr>
+<tr>
+<td><strong><a href="pytorch-foundation.html">PyTorch Foundation</a></strong><br>PyTorch 基金会</td>
+<td>&quot;The PyTorch Foundation is the <strong>vendor-neutral home</strong> for the <strong>open source intelligence layer</strong> developers use for training, optimizing, serving, and running models on any chip in any cloud for any agent.&quot;</td>
+<td>PyTorch 基金会是<strong>供应商中立的家园</strong>，承载<strong>开源智能层</strong>，开发者用它在任何芯片、任何云上为任何智能体训练、优化、部署和运行模型。</td>
+<td><a href="https://pytorch.org/foundation/#:%7E:text=The%20PyTorch%20Foundation%20is%20the%20vendor%2Dneutral%20home%20for">PyTorch Foundation, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="scikit-learn.html">scikit-learn</a></strong><br>scikit-learn</td>
+<td>&quot;Scikit-learn is an <strong>open source machine learning library</strong> that supports <strong>supervised and unsupervised learning</strong>.&quot;</td>
+<td>Scikit-learn 是一个<strong>开源机器学习库</strong>，支持<strong>监督学习和无监督学习</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/getting_started.html#:%7E:text=Scikit%2Dlearn%20is%20an%20open%20source%20machine%20learning%20library">scikit-learn developers, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="selenium.html">Selenium</a></strong><br>Selenium</td>
+<td>&quot;Selenium is an <strong>umbrella project</strong> for a range of <strong>tools and libraries</strong> that enable and support the <strong>automation of web browsers</strong>.&quot;</td>
+<td>Selenium 是一个<strong>伞形项目</strong>，涵盖一系列<strong>工具和库</strong>，用于实现和支持 <strong>Web 浏览器的自动化</strong>。</td>
+<td><a href="https://www.selenium.dev/documentation/#:%7E:text=Selenium%20is%20an%20umbrella%20project%20for%20a%20range">Selenium project, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="stable-baselines3.html">Stable-Baselines3</a></strong><br>Stable-Baselines3</td>
+<td>&quot;Stable Baselines3 (SB3) is a set of <strong>reliable implementations</strong> of <strong>reinforcement learning algorithms</strong> in <strong>PyTorch</strong>.&quot;</td>
+<td>Stable Baselines3（SB3）是一套用 <strong>PyTorch</strong> 编写的<strong>强化学习算法</strong>的<strong>可靠实现</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/#:%7E:text=Stable%20Baselines3%20%28SB3%29%20is%20a%20set%20of%20reliable">Raffin, A., Hill, A., Gleave, A., Kanervisto, A., Ernestus, M., &amp; Dormann, N., n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="vitest.html">Vitest</a></strong><br>Vitest</td>
+<td>&quot;Vitest (pronounced as &quot;veetest&quot;) is a <strong>next generation testing framework</strong> powered by <strong>Vite</strong>.&quot;</td>
+<td>Vitest（读作“veetest”）是一个由 <strong>Vite</strong> 驱动的<strong>下一代测试框架</strong>。</td>
+<td><a href="https://vitest.dev/guide/#:%7E:text=Vitest%20%28pronounced%20as%20%22veetest%22%29%20is%20a%20next%20generation">Vitest team, n.d., para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Open source. In <em>Cambridge Dictionary</em>. Retrieved October 27, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/open-source">https://dictionary.cambridge.org/dictionary/english/open-source</a></p>
+<p>Git. (n.d.). <em>Git</em>. Retrieved October 27, 2026, from <a href="https://git-scm.com/">https://git-scm.com/</a></p>
+<p>GraphQL Foundation. (n.d.). <em>What is the GraphQL Foundation?</em>. Retrieved October 27, 2026, from <a href="https://graphql.org/community/foundation/">https://graphql.org/community/foundation/</a></p>
+<p>LLVM Project. (n.d.). <em>The LLVM compiler infrastructure project</em>. Retrieved October 27, 2026, from <a href="https://llvm.org/">https://llvm.org/</a></p>
+<p>Model Context Protocol. (n.d.). <em>What is the Model Context Protocol (MCP)?</em>. Retrieved October 27, 2026, from <a href="https://modelcontextprotocol.io/docs/getting-started/intro">https://modelcontextprotocol.io/docs/getting-started/intro</a></p>
+<p>Mozilla. (n.d.). <em>Learn about Mozilla</em>. Retrieved October 27, 2026, from <a href="https://www.mozilla.org/en-US/about/">https://www.mozilla.org/en-US/about/</a></p>
+<p>Open Source Robotics Foundation. (n.d.). <em>Open Robotics</em>. Retrieved October 27, 2026, from <a href="https://www.openrobotics.org/">https://www.openrobotics.org/</a></p>
+<p>OpenCV team. (n.d.). <em>About</em>. Retrieved October 27, 2026, from <a href="https://opencv.org/about/">https://opencv.org/about/</a></p>
+<p>OpenJS Foundation. (n.d.). <em>A safe and modern home for JavaScript technologies</em>. Retrieved October 27, 2026, from <a href="https://openjsf.org/">https://openjsf.org/</a></p>
+<p>OWASP Foundation. (n.d.). <em>About OWASP</em>. Retrieved October 27, 2026, from <a href="https://owasp.org/about/">https://owasp.org/about/</a></p>
+<p>pytest-dev. (n.d.). <em>pytest documentation</em>. Retrieved October 27, 2026, from <a href="https://docs.pytest.org/en/stable/">https://docs.pytest.org/en/stable/</a></p>
+<p>Python Software Foundation. (n.d.). <em>Mission</em>. Retrieved October 27, 2026, from <a href="https://www.python.org/psf/mission/">https://www.python.org/psf/mission/</a></p>
+<p>PyTorch Foundation. (n.d.). <em>PyTorch Foundation</em>. Retrieved October 27, 2026, from <a href="https://pytorch.org/foundation/">https://pytorch.org/foundation/</a></p>
+<p>Raffin, A., Hill, A., Gleave, A., Kanervisto, A., Ernestus, M., &amp; Dormann, N.. (n.d.). <em>Stable-Baselines3 docs - Reliable reinforcement learning implementations</em>. Retrieved October 27, 2026, from <a href="https://stable-baselines3.readthedocs.io/en/master/">https://stable-baselines3.readthedocs.io/en/master/</a></p>
+<p>scikit-learn developers. (n.d.). <em>Getting started</em>. Retrieved October 27, 2026, from <a href="https://scikit-learn.org/stable/getting_started.html">https://scikit-learn.org/stable/getting_started.html</a></p>
+<p>Selenium project. (n.d.). <em>The Selenium browser automation project</em>. Retrieved October 27, 2026, from <a href="https://www.selenium.dev/documentation/">https://www.selenium.dev/documentation/</a></p>
+<p>The Apache Software Foundation. (n.d.). <em>About the ASF</em>. Retrieved October 27, 2026, from <a href="https://www.apache.org/foundation/">https://www.apache.org/foundation/</a></p>
+<p>The Farama Foundation. (n.d.). <em>About</em>. Retrieved October 27, 2026, from <a href="https://farama.org/about">https://farama.org/about</a></p>
+<p>The kernel development community. (n.d.). <em>Linux kernel release 6.x <a href="http://kernel.org/">http://kernel.org/</a></em>. Retrieved October 27, 2026, from <a href="https://docs.kernel.org/admin-guide/README.html">https://docs.kernel.org/admin-guide/README.html</a></p>
+<p>The Kubernetes Authors. (n.d.). <em>Overview</em>. Retrieved October 27, 2026, from <a href="https://kubernetes.io/docs/concepts/overview/">https://kubernetes.io/docs/concepts/overview/</a></p>
+<p>The PostgreSQL Global Development Group. (n.d.). <em>1. What is PostgreSQL?</em>. Retrieved October 27, 2026, from <a href="https://www.postgresql.org/docs/current/intro-whatis.html">https://www.postgresql.org/docs/current/intro-whatis.html</a></p>
+<p>Vitest team. (n.d.). <em>Getting started</em>. Retrieved October 27, 2026, from <a href="https://vitest.dev/guide/">https://vitest.dev/guide/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 16:00:18-05:00">11/03/2026 16:00:18</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

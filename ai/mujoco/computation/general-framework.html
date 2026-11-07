@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.2 General framework | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 2.2 General framework: 2.2.0 Introduction, Actuation model, Passive forces, Numerical integration, The State.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="22-general-framework">2.2 General framework</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/general-framework.png" alt="2.2 General framework: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.2 General framework</strong><br>一般框架</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;</a></td>
+</tr>
+<tr>
+<td><strong>2.2.0 Introduction</strong><br>介绍</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Joint position</strong><br>关节位置</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Joint velocity</strong><br>关节速度</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Applied force</strong><br>施加力</td>
+<td>&quot;applied force: <strong>passive, actuation, external</strong>&quot;</td>
+<td>施加力：<strong>被动力、驱动力、外力</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;, table, row 6</a></td>
+</tr>
+<tr>
+<td><strong>Bias force</strong><br>偏置力</td>
+<td>&quot;bias force: <strong>Coriolis, centrifugal, gravitational</strong>&quot;</td>
+<td>偏置力：<strong>科里奥利力、离心力、重力</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;, table, row 7</a></td>
+</tr>
+<tr>
+<td><strong>Joint-space inertia matrix</strong><br>关节空间惯性矩阵</td>
+<td>(context) &quot;inertia in <strong>joint space</strong>&quot;</td>
+<td>（语境）<strong>关节空间</strong>中的惯性</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;, table, row 8</a></td>
+</tr>
+<tr>
+<td><strong>Constraint Jacobian</strong><br>约束雅可比矩阵</td>
+<td>&quot;The Jacobian <strong>establishes the relationship between quantities in joint and constraint coordinates</strong>.&quot;</td>
+<td>雅可比矩阵<strong>建立了关节坐标与约束坐标中各量之间的关系</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Constraint residual</strong><br>约束残差</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Constraint force</strong><br>约束力</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Recursive Newton-Euler (RNE) algorithm</strong><br>递归牛顿-欧拉（RNE）算法</td>
+<td>(context) &quot;Their sum is <strong>computed using the Recursive Newton-Euler (RNE) algorithm</strong> with acceleration set to 0.&quot;</td>
+<td>（语境）它们的和<strong>用递归牛顿-欧拉（RNE）算法计算</strong>，计算时把加速度设为 0。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Composite Rigid-Body (CRB) algorithm</strong><br>复合刚体（CRB）算法</td>
+<td>(context) &quot;... is <strong>computed using the Composite Rigid-Body (CRB) algorithm</strong>.&quot;</td>
+<td>（语境）……<strong>用复合刚体（CRB）算法计算</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Forward kinematics</strong><br>正向运动学</td>
+<td>&quot;Before any of these computations we apply forward kinematics, which <strong>computes the global position and orientation of all spatial objects as well as the joint axes</strong>.&quot;</td>
+<td>在进行这些计算之前，我们先应用正向运动学，它<strong>计算所有空间对象以及关节轴的全局位置和朝向</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#general-framework">Google DeepMind, n.d., &quot;General framework&quot;, para. 8</a></td>
+</tr>
+<tr>
+<td><strong>Actuation model</strong><br>驱动模型</td>
+<td>&quot;These three components of an actuator – <strong>transmission, activation dynamics, and force generation – determine how the actuator works</strong>.&quot;</td>
+<td>驱动器的这三个组成部分，<strong>即传动、激活动力学和力生成，决定了驱动器如何工作</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#actuation-model">Google DeepMind, n.d., &quot;Actuation model&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Single-input-single-output (SISO)</strong><br>单输入单输出（SISO）</td>
+<td>&quot;Most actuators are <strong>single-input-single-output (SISO)</strong>&quot;</td>
+<td>大多数驱动器是<strong>单输入单输出（SISO）的</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#actuation-model">Google DeepMind, n.d., &quot;Actuation model&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Transmission</strong><br>传动</td>
+<td>&quot;The transmission <strong>attaches the actuator to the rest of the system</strong>.&quot;</td>
+<td>传动<strong>把驱动器连接到系统的其余部分</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#transmission">Google DeepMind, n.d., &quot;Transmission&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>joint and tendon</strong><br>关节与肌腱传动</td>
+<td>&quot;The joint and tendon transmission types <strong>act as expected and correspond to the actuator applying forces or torques to the target object</strong>.&quot;</td>
+<td>joint 和 tendon 传动类型<strong>按预期工作，对应于驱动器向目标对象施加力或力矩</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#transmission">Google DeepMind, n.d., &quot;Transmission&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>jointinparent</strong><br>父坐标系关节传动</td>
+<td>&quot;The jointinparent transmission <strong>is unique to ball and free joint and asserts that rotation should be measured in the parent rather than child frame</strong>.&quot;</td>
+<td>jointinparent 传动<strong>专用于球关节和自由关节，规定转动应在父坐标系而不是子坐标系中度量</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#transmission">Google DeepMind, n.d., &quot;Transmission&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>slider-crank</strong><br>曲柄滑块传动</td>
+<td>&quot;slider-crank transmissions <strong>transform a linear force to a torque</strong>, as in a piston-driven combustion engine.&quot;</td>
+<td>slider-crank 传动<strong>把线性力转换为力矩</strong>，就像活塞驱动的内燃机那样。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#transmission">Google DeepMind, n.d., &quot;Transmission&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>body</strong><br>刚体传动</td>
+<td>&quot;body transmission <strong>corresponds to applying forces at contact points belonging to a body</strong>, in order to model vacuum grippers and biomechanical adhesive appendages.&quot;</td>
+<td>body 传动<strong>对应于在属于某个刚体的接触点上施加力</strong>，用于建模真空吸盘和生物力学中的黏附附肢。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#transmission">Google DeepMind, n.d., &quot;Transmission&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>site</strong><br>站点传动</td>
+<td>&quot;Site transmissions <strong>correspond to applying a Cartsian force/torque in the frame of a site</strong>.&quot;</td>
+<td>site 传动<strong>对应于在某个 site 的坐标系中施加笛卡尔力/力矩</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#transmission">Google DeepMind, n.d., &quot;Transmission&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>Stateful actuators</strong><br>有状态驱动器</td>
+<td>&quot;Some actuators such as pneumatic and hydraulic cylinders as well as biological muscles <strong>have an internal state</strong> called “activation”.&quot;</td>
+<td>有些驱动器，如气缸、液压缸以及生物肌肉，<strong>具有一个内部状态</strong>，称为“激活”。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#stateful-actuators">Google DeepMind, n.d., &quot;Stateful actuators&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Activation</strong><br>激活</td>
+<td>&quot;Some actuators such as pneumatic and hydraulic cylinders as well as biological muscles have <strong>an internal state called “activation”</strong>.&quot;</td>
+<td>有些驱动器，如气缸、液压缸以及生物肌肉，具有<strong>一个称为“激活”的内部状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#stateful-actuators">Google DeepMind, n.d., &quot;Stateful actuators&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Force generation</strong><br>力生成</td>
+<td>&quot;Each actuator <strong>generates a scalar force for each of its outputs, as a function of its controls, activation states, and lengths and velocities</strong>.&quot;</td>
+<td>每个驱动器<strong>为它的每个输出生成一个标量力，它是控制量、激活状态以及长度和速度的函数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#force-generation">Google DeepMind, n.d., &quot;Force generation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Passive forces</strong><br>被动力</td>
+<td>&quot;Passive forces are defined as <strong>forces that depend only on position and velocity, and not on control in forward dynamics or acceleration in inverse dynamics</strong>.&quot;</td>
+<td>被动力定义为<strong>只依赖于位置和速度的力，在正向动力学中不依赖于控制，在逆向动力学中不依赖于加速度</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#passive-forces">Google DeepMind, n.d., &quot;Passive forces&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Spring-dampers</strong><br>弹簧阻尼器</td>
+<td>&quot;MuJoCo can compute three types of passive forces: <strong>Spring-dampers in joints and tendons</strong>.&quot;</td>
+<td>MuJoCo 可以计算三种被动力：<strong>关节和肌腱中的弹簧阻尼器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#passive-forces">Google DeepMind, n.d., &quot;Passive forces&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Gravity compensation forces</strong><br>重力补偿力</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#passive-forces">Google DeepMind, n.d., &quot;Passive forces&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Fluid forces</strong><br>流体力</td>
+<td>&quot;Fluid forces <strong>exerted by the surrounding medium</strong>.&quot;</td>
+<td>由周围介质施加的流体力。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#passive-forces">Google DeepMind, n.d., &quot;Passive forces&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Polynomial forces</strong><br>多项式力</td>
+<td>&quot;Nonlinear stiffness (joints, tendons) and damping (joints, tendons) are <strong>defined by polynomials</strong>&quot;</td>
+<td>非线性刚度（关节、肌腱）和阻尼（关节、肌腱）<strong>由多项式定义</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#polynomial-forces">Google DeepMind, n.d., &quot;Polynomial forces&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Anti-symmetrization</strong><br>反对称化</td>
+<td>&quot;The damping polynomial uses <strong>anti-symmetrized even-powered monomials</strong>&quot;</td>
+<td>阻尼多项式使用<strong>反对称化的偶次幂单项式</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#polynomial-forces">Google DeepMind, n.d., &quot;Polynomial forces&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Sign-preservation</strong><br>保号</td>
+<td>&quot;In both cases, sensible choices of coefficients often satisfy the <strong>sign-preservation</strong> condition&quot;</td>
+<td>在两种情况下，合理选择的系数通常满足<strong>保号</strong>条件</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#polynomial-forces">Google DeepMind, n.d., &quot;Polynomial forces&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Numerical integration</strong><br>数值积分</td>
+<td>(context) &quot;Four numerical integrators are available, <strong>three single-step integrators and the multi-step 4th order Runge-Kutta integrator</strong>.&quot;</td>
+<td>（语境）有四种数值积分器可用：<strong>三种单步积分器和多步的四阶龙格-库塔积分器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#numerical-integration">Google DeepMind, n.d., &quot;Numerical integration&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Explicit Euler</strong><br>显式欧拉法</td>
+<td>(context) &quot;The explicit Euler method <strong>is not supported by MuJoCo but has pedagogical value</strong>.&quot;</td>
+<td>（语境）显式欧拉法<strong>不被 MuJoCo 支持，但有教学价值</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#numerical-integration">Google DeepMind, n.d., &quot;Numerical integration&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Semi-implicit Euler</strong><br>半隐式欧拉法</td>
+<td>&quot;Comparing (2) and (3), we see that in semi-implicit Euler, <strong>the position is updated using the new velocity</strong>.&quot;</td>
+<td>比较 (2) 和 (3) 可以看到，在半隐式欧拉法中，<strong>位置用新的速度更新</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#numerical-integration">Google DeepMind, n.d., &quot;Numerical integration&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Implicit Euler</strong><br>隐式欧拉法</td>
+<td>&quot;on the right-hand side of the velocity update <strong>is evaluated at the next time step</strong>&quot;</td>
+<td>速度更新右侧的加速度<strong>在下一个时间步上求值</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#numerical-integration">Google DeepMind, n.d., &quot;Numerical integration&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Implicit-in-velocity Euler</strong><br>速度隐式欧拉法</td>
+<td>&quot;When <strong>the expansion is only with respect to velocity (and not position)</strong>, the integrator is known as implicit-in-velocity Euler.&quot;</td>
+<td>在<strong>展开只针对速度（而不针对位置）的情况</strong>下，这种积分器称为速度隐式欧拉法。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#numerical-integration">Google DeepMind, n.d., &quot;Numerical integration&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Gyroscopic derivatives for free bodies</strong><br>自由刚体的陀螺导数</td>
+<td>&quot;Therefore for standalone free bodies (free bodies with no jointed descendants), <strong>these derivatives are reinstated</strong>.&quot;</td>
+<td>因此，对于独立自由刚体（没有带关节后代的自由刚体），<strong>这些导数会被恢复</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#gefreebody">Google DeepMind, n.d., &quot;Numerical integration&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Standalone free bodies</strong><br>独立自由刚体</td>
+<td>&quot;Therefore for standalone free bodies (<strong>free bodies with no jointed descendants</strong>), these derivatives are reinstated.&quot;</td>
+<td>因此，对于独立自由刚体（<strong>没有带关节后代的自由刚体</strong>），这些导数会被恢复。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#gefreebody">Google DeepMind, n.d., &quot;Numerical integration&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Integrators</strong><br>积分器</td>
+<td>&quot;MuJoCo supports <strong>five integrators: four single-step integrators and the multi-step 4th order Runge-Kutta integrator</strong>.&quot;</td>
+<td>MuJoCo 支持<strong>五种积分器：四种单步积分器和多步的四阶龙格-库塔积分器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#integrators">Google DeepMind, n.d., &quot;Integrators&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Semi-implicit with implicit joint damping (Euler)</strong><br>带隐式关节阻尼的半隐式法（Euler）</td>
+<td>&quot;only includes <strong>derivatives of joint damping</strong>&quot;</td>
+<td>只包含<strong>关节阻尼的导数</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#integrators">Google DeepMind, n.d., &quot;Integrators&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Implicit-in-velocity (implicit)</strong><br>速度隐式法（implicit）</td>
+<td>&quot;includes <strong>derivatives of all forces except the constraint forces</strong>&quot;</td>
+<td>包含<strong>除约束力以外所有力的导数</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#integrators">Google DeepMind, n.d., &quot;Integrators&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Fast implicit-in-velocity (implicitfast)</strong><br>快速速度隐式法（implicitfast）</td>
+<td>&quot;includes <strong>derivatives of all forces used in the implicit method, with the exception of the centripetal and Coriolis forces</strong>&quot;</td>
+<td>包含<strong>隐式方法所用的所有力的导数，但向心力和科里奥利力除外</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#integrators">Google DeepMind, n.d., &quot;Integrators&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Discrete-time (discrete)</strong><br>离散时间法（discrete）</td>
+<td>&quot;This integrator gives up that separation, in the tradition of the velocity-stepping schemes: <strong>the constraint solve and the implicit update are one operation whose solution is the step itself</strong>&quot;</td>
+<td>这种积分器沿袭速度步进格式的传统，放弃了这种分离：<strong>约束求解和隐式更新是同一个运算，其解就是这一步本身</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#integrators">Google DeepMind, n.d., &quot;Integrators&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>4th-order Runge-Kutta (RK4)</strong><br>四阶龙格-库塔法（RK4）</td>
+<td>&quot;MuJoCo implements <strong>the fixed-step 4th-order Runge-Kutta method</strong>, though users can easily implement other integrators by calling mj_forward and integrating accelerations themselves.&quot;</td>
+<td>MuJoCo 实现了<strong>定步长的四阶龙格-库塔法</strong>，不过用户可以通过调用 mj_forward 并自行积分加速度，轻松实现其他积分器。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#integrators">Google DeepMind, n.d., &quot;Integrators&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>The State</strong><br>状态</td>
+<td>&quot;The state is <strong>entirely encapsulated in the mjData struct and consists of several components</strong>.&quot;</td>
+<td>状态<strong>完全封装在 mjData 结构体中，由若干组成部分构成</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#the-state">Google DeepMind, n.d., &quot;The State&quot;, para. 2</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Computation</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/computation/index.html">https://mujoco.readthedocs.io/en/stable/computation/index.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 22:28:26-04:00">10/31/2026 22:28:26</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,321 @@
+/* Article styles that Microsoft Learn adds on top of Atlas (Atlas has no rules for these), written from
+   measurements of a Learn article page at 1440px: content type scale, note boxes, heading anchors,
+   the "In this article" rail, header search, the TOC filter and the footer. */
+
+:root { --kb-header-row: 54px; }
+
+/* Header rows: 54px each with a bottom rule */
+#kb-primary-nav, #kb-secondary-nav .site-header { min-height: var(--kb-header-row); padding-inline: 24px; border-bottom: 1px solid var(--theme-border); }
+#kb-secondary-nav { width: 100%; }
+#kb-primary-nav .site-header-logo img { display: block; }
+#kb-primary-nav .site-header-brand { font-size: 20px; font-weight: 600; }
+#kb-secondary-nav .site-header-brand { font-size: 18px; font-weight: 600; }
+.site-header .site-header-button.is-active { font-weight: 600; }
+/* no underlines in the header (Atlas draws one with ::after on active, hovered and focused buttons): the current item is bold only */
+.site-header .site-header-brand > :not(.icon):not(.image)::after, .site-header .site-header-button > :not(.icon):not(.image)::after { content: none !important; }
+
+/* Header search */
+.kb-search { position: relative; display: flex; align-items: center; width: min(320px, 40vw); }
+.kb-search .input { padding-inline-start: 30px; width: 100%; }
+.kb-search-icon, .kb-filter-icon { position: absolute; inset-inline-start: 10px; top: 50%; transform: translateY(-50%); color: var(--theme-text-subtle); display: flex; pointer-events: none; z-index: 1; }
+.kb-search-results { position: absolute; top: calc(100% + 4px); inset-inline: 0; z-index: 20; list-style: none; margin: 0; padding: 4px; background: var(--theme-body-background); border: 1px solid var(--theme-border); border-radius: 6px; box-shadow: 0 8px 16px rgba(0, 0, 0, .14); max-height: 70vh; overflow: auto; }
+.kb-search-results a { display: block; padding: 6px 8px; border-radius: 4px; color: var(--theme-text); text-decoration: none; }
+.kb-search-results a:hover, .kb-search-results a:focus { background: var(--theme-body-background-medium); }
+.kb-search-title { display: block; font-size: 14px; font-weight: 600; }
+.kb-search-summary { display: block; font-size: 12px; color: var(--theme-text-subtle); line-height: 1.4; }
+.kb-search-empty { padding: 6px 8px; font-size: 14px; color: var(--theme-text-subtle); }
+
+/* Left menu: TOC filter box and tree */
+#affixed-left-container { top: 0; max-height: 100vh; overflow-y: auto; scrollbar-width: none; }
+#affixed-left-container::-webkit-scrollbar { display: none; }
+.kb-filter { position: relative; }
+.kb-filter .input { padding-inline-start: 31px; font-size: 14px; }
+.table-of-contents { font-size: 14px; line-height: 1.75; margin-top: 8px; }
+.kb-menu-open #left-container { display: block !important; }
+
+/* Breadcrumbs */
+#kb-breadcrumbs { font-size: 14px; color: var(--theme-text-subtle); margin: 0; }
+
+/* Content type scale */
+.content { font-size: 16px; line-height: 28px; }
+.content h1 { font-size: 40px; font-weight: 600; line-height: 52px; margin: 20px 0; }
+.content h2 { font-size: 32px; font-weight: 600; line-height: 41.6px; }
+.content h3 { font-size: 28px; font-weight: 600; line-height: 36.4px; }
+.content h4 { font-size: 18px; font-weight: 600; line-height: 27px; margin: 24px 0 8px; } /* lab questions: smaller than Learn (user, 2026-10-20) */
+.content p, .content ul, .content ol { margin: 16px 0 0; }
+.content ul, .content ol { padding-inline-start: 38px; }
+.content ul { list-style: disc; }
+.content ol { list-style: decimal; }
+.content li + li { margin-top: 0; }
+.content li > p:first-child { margin-top: 0; }
+.content a { color: var(--theme-hyperlink); text-decoration: none; }
+.content a:hover { text-decoration: underline; }
+.content img { max-width: 100%; height: auto; margin-top: 16px; }
+.content img[src$=".webp"] { width: 100%; }
+.content strong { font-weight: 600; }
+.content code { font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace; font-size: .875em; padding: .1em .2em; border-radius: 3px; background: var(--theme-inline-code); }
+
+/* Heading anchors: 30px gutter on the left, link icon on hover */
+.heading-wrapper { position: relative; margin: 20px 0 20px -30px; }
+.heading-wrapper .heading-anchor { margin: 0; padding-inline-start: 30px; }
+.heading-wrapper .anchor-link { position: absolute; inset-inline-start: 6px; top: 50%; transform: translateY(-50%); opacity: 0; color: var(--theme-text-subtle); display: flex; }
+.heading-wrapper:hover .anchor-link, .heading-wrapper .anchor-link:focus { opacity: 1; }
+
+/* Tables (Atlas .table) inside a scroll wrapper */
+.table-wrapper { overflow-x: auto; margin-top: 16px; }
+.content table.table { font-size: 14px; line-height: 21px; margin: 0; }
+.content table.table th, .content table.table td { padding: 8px; vertical-align: top; }
+.content table.table th { font-weight: 700; }
+
+/* Note, Tip, Important, Warning and Caution boxes */
+.alert { margin-top: 16px; padding: 16px; border: 1px solid; border-radius: 6px; }
+.alert > p:first-of-type { margin-top: 0; }
+.alert > p:not(.alert-title) { margin-top: 0; }
+.alert-title { font-weight: 600; display: flex; align-items: center; gap: 6px; margin: 0; }
+.alert.is-info { background: #efd9fd; border-color: #3b2e58; }
+.alert.is-info .alert-title { color: #3b2e58; }
+.alert.is-success { background: #dff6dd; border-color: #054b16; }
+.alert.is-success .alert-title { color: #054b16; }
+.alert.is-primary { background: #e0f2ff; border-color: #004173; }
+.alert.is-primary .alert-title { color: #004173; }
+.alert.is-warning { background: #fff4ce; border-color: #6a4b16; }
+.alert.is-warning .alert-title { color: #6a4b16; }
+.alert.is-danger { background: #fde7e9; border-color: #b10e1c; }
+.alert.is-danger .alert-title { color: #b10e1c; }
+.theme-dark .alert.is-info { background: #3b2e58; border-color: #efd9fd; }
+.theme-dark .alert.is-info .alert-title { color: #efd9fd; }
+.theme-dark .alert.is-success { background: #054b16; border-color: #dff6dd; }
+.theme-dark .alert.is-success .alert-title { color: #dff6dd; }
+.theme-dark .alert.is-primary { background: #004173; border-color: #e0f2ff; }
+.theme-dark .alert.is-primary .alert-title { color: #e0f2ff; }
+.theme-dark .alert.is-warning { background: #6a4b16; border-color: #fff4ce; }
+.theme-dark .alert.is-warning .alert-title { color: #fff4ce; }
+.theme-dark .alert.is-danger { background: #b10e1c; border-color: #fde7e9; }
+.theme-dark .alert.is-danger .alert-title { color: #fde7e9; }
+
+/* "In this article" */
+#affixed-right-container { top: 0; max-height: 100vh; overflow-y: auto; padding-top: 8px; }
+.doc-outline .title.is-6 { font-size: 18px; font-weight: 600; line-height: 20.25px; margin: 8px 0 16px; }
+.doc-outline ol { list-style: none; margin: 0; padding-inline-start: 0; }
+.doc-outline li { font-size: 14px; line-height: 18.2px; margin: 4px 0; padding: 2px 0 2px 8px; }
+.doc-outline li a { text-decoration: none; }
+.doc-outline li a:hover { text-decoration: underline; }
+
+/* Metadata line */
+.page-metadata { list-style: none; margin: 0; padding: 2px 0 0; font-size: 14px; color: var(--theme-text-subtle); }
+
+/* Footer: Learn's warm grey band */
+.layout-body-footer footer { background: var(--theme-body-background-accent); font-size: 14px; padding: 24px; }
+.kb-theme-menu { position: absolute; bottom: calc(100% + 4px); inset-inline-start: 0; z-index: 20; list-style: none; margin: 0; padding: 4px; min-width: 160px; background: var(--theme-body-background); border: 1px solid var(--theme-border); border-radius: 6px; box-shadow: 0 8px 16px rgba(0, 0, 0, .14); }
+
+/* Home page profile: photo on the left, name, one-line title and intro on the right (GitHub and LinkedIn profiles);
+   stacked on phones */
+.content .kb-profile { display: flex; gap: 32px; align-items: flex-start; margin-top: 20px; }
+.content .kb-profile > p:first-child { flex: none; margin: 0; }
+.content img[src$="photo.jpg"] { width: 140px; margin: 0; border-radius: 50%; }
+.content .kb-profile h1 { margin: 0 0 4px; }
+.content .kb-profile-text > p:first-of-type { margin-top: 0; color: var(--theme-text-subtle); }
+@media (max-width: 767.98px) {
+  .content .kb-profile { flex-direction: column; gap: 16px; }
+  .content img[src$="photo.jpg"] { width: 112px; }
+}
+
+/* Skip link: hidden until it gets keyboard focus */
+.visually-hidden-until-focused:not(:focus) { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.visually-hidden-until-focused:focus { z-index: 100; top: 8px; inset-inline-start: 8px; padding: 8px 12px; background: var(--theme-body-background); }
+
+/* Body rhythm: Learn sets 28px lines on the whole page */
+body { line-height: 1.75; }
+#kb-toc-header { min-height: 48px; padding-right: 8px; }
+.layout-menu-collapsed #kb-toc-header { justify-content: center; padding-right: 0; }
+
+/* Phones: Learn's smaller heading scale, search as an icon, "In this article" under the title */
+@media (max-width: 767.98px) {
+  .content h1 { font-size: 30px; line-height: 39px; }
+  .content h2 { font-size: 24px; line-height: 31.2px; }
+  .content h3 { font-size: 20px; line-height: 26px; }
+  .kb-search { width: auto; }
+  .kb-search:not(.is-open) .input, .kb-search:not(.is-open) .kb-search-icon { display: none; }
+  .kb-search.is-open { position: absolute; inset-inline: 12px; top: 10px; z-index: 30; }
+  .kb-search-toggle { display: flex; }
+  .kb-search.is-open .kb-search-toggle { display: none; }
+  #kb-primary-nav .site-header-brand { margin-inline-end: auto; }
+}
+@media (min-width: 768px) { .kb-search-toggle { display: none; } }
+#center-doc-outline .show-more[hidden] + * { display: none; }
+#center-doc-outline li.is-extra { display: none; }
+#center-doc-outline.is-expanded li.is-extra { display: list-item; }
+#center-doc-outline .doc-outline-more { margin-top: 8px; margin-inline-start: 16px; font-size: 14px; font-weight: 600; color: var(--theme-hyperlink); background: none; border: 0; padding: 0; cursor: pointer; }
+#center-doc-outline ol li { padding-inline-start: 16px; }
+
+/* Theme menu in the header opens downward; the current choice is bold with a check */
+.kb-theme-menu [aria-pressed="true"] { font-weight: 600; }
+.kb-theme-menu [aria-pressed="true"]::after { content: "\2713"; margin-inline-start: auto; }
+.kb-theme-menu .button { justify-content: flex-start; }
+.kb-mobile-nav { list-style: none; margin: 8px 0 0; padding: 0 24px 8px 0; font-size: 14px; border-bottom: 1px solid var(--theme-border); }
+.kb-mobile-nav a { display: block; padding: 4px 0 4px 16px; border-radius: 4px; color: var(--theme-text); text-decoration: none; }
+.kb-mobile-nav a.is-selected { font-weight: 600; background: var(--theme-body-background-dark); }
+.kb-mobile-nav .tree-expander { display: block; padding: 4px 0 4px 16px; cursor: pointer; position: relative; }
+.kb-mobile-nav .tree-expander::before { content: ""; position: absolute; inset-inline-start: 2px; top: 50%; width: 6px; height: 6px; border: solid currentColor; border-width: 0 1px 1px 0; transform: translateY(-75%) rotate(-45deg); }
+.kb-mobile-nav [aria-expanded="true"] > .tree-expander::before { transform: translateY(-75%) rotate(45deg); }
+.kb-mobile-nav [aria-expanded="false"] > .tree-group { display: none; }
+.kb-mobile-nav .tree-group { list-style: none; padding: 0 0 0 16px; margin: 0; }
+/* Header bars: one line; items that do not fit go into the "More" menu (kb.js more()) */
+#kb-primary-nav .site-header-nav, #kb-secondary-nav .site-header-nav { min-width: 0; }
+#kb-nav, #kb-section-nav { flex-wrap: nowrap; white-space: nowrap; }
+.kb-more-button { gap: 4px; }
+.kb-more-button.is-active { font-weight: 600; }
+.kb-more-menu { position: absolute; top: calc(100% + 4px); inset-inline-end: 0; z-index: 20; list-style: none; margin: 0; padding: 4px; min-width: 200px; background: var(--theme-body-background); border: 1px solid var(--theme-border); border-radius: 6px; box-shadow: 0 8px 16px rgba(0, 0, 0, .14); }
+.kb-more-menu .site-header-button { display: flex; width: 100%; justify-content: flex-start; text-align: start; }
+.kb-more-menu .site-header-button:hover { background: var(--theme-body-background-dark); }
+.kb-group-menu { inset-inline-start: 0; inset-inline-end: auto; }
+.kb-group-menu .site-header-button { white-space: nowrap; }
+.kb-sub { position: relative; }
+.kb-sub-button { justify-content: space-between !important; gap: 16px; }
+.kb-sub-button.is-active, .kb-group-menu .is-active { font-weight: 600; }
+.kb-submenu { top: -5px; inset-inline-start: calc(100% + 4px); inset-inline-end: auto; }
+/* Collapsed menu: the expand button sits in the middle of the narrow rail */
+.layout-menu-collapsed #affixed-left-container { padding-inline: 0 !important; }
+.layout-menu-collapsed #kb-toc-header { justify-content: center; padding-inline: 0; }
+
+/* Term tables: fixed widths, URLs wrap inside the Source column */
+.content table.kb-terms { table-layout: fixed; }
+.content table.kb-terms th:nth-child(1) { width: 20%; }
+.content table.kb-terms th:nth-child(2) { width: 32%; }
+.content table.kb-terms th:nth-child(3) { width: 24%; }
+.content table.kb-terms th:nth-child(4) { width: 24%; }
+.content table.kb-terms td { overflow-wrap: anywhere; }
+/* MathJax formulas wider than their cell scroll inside it instead of spilling into the next column */
+.content table.kb-terms td mjx-container.kb-wide { display: inline-block; vertical-align: middle; max-width: 100%; overflow-x: auto; overflow-y: hidden; }
+.content table.kb-terms td mjx-container.kb-wide[display="true"] { display: block; }
+.content table.kb-terms td:nth-child(4) { font-size: 13px; color: var(--theme-text-subtle); }
+
+/* Coverage tables (Week | Group | Terms in the course | Source): same widths in every course table */
+.content table.kb-coverage { table-layout: fixed; }
+.content table.kb-coverage th:nth-child(1) { width: 8%; }
+.content table.kb-coverage th:nth-child(2) { width: 24%; }
+.content table.kb-coverage th:nth-child(3) { width: 38%; }
+.content table.kb-coverage th:nth-child(4) { width: 30%; }
+.content table.kb-coverage td:nth-child(4) { font-size: 13px; color: var(--theme-text-subtle); }
+
+/* Wider than Learn on purpose: this is a reference site read by its owner, with wide term tables.
+   The article fills the column between the menu and "In this article" up to 1200px of text, so figures and tables
+   share one width and browser zoom enlarges both (as on GitHub); collapsing the menu gives its width to the article
+   instead of keeping an empty spacer. */
+#main .reading-width { max-inline-size: calc(1200px + 96px); padding-inline: 48px; margin-inline: 0 !important; }
+.layout-menu-collapsed #main .reading-width { margin-inline: auto !important; }
+html.layout.layout-menu-collapsed { --layout-menu-spacer-width: 0px !important; }
+/* Side rails stay at 275px on wide screens (Atlas widens them to 320px and 450px); the extra width goes to the article */
+html.layout { --layout-menu-expanded-target-width: 275px !important; --layout-aside-expanded-target-width: 275px !important; }
+/* Below 1600px (a 1920 screen zoomed to 125% or more) "In this article" moves from the right rail to the top of the
+   article, as GitHub folds its sidebar, so zooming gives the article more room instead of less (Atlas waits until 1088px) */
+@media screen and (width < 1600px) {
+  html.layout { --layout-aside-width: 0px !important; }
+  #layout-body-aside { display: none !important; }
+  #center-doc-outline.display-none-desktop:not([hidden]) { display: block !important; }
+}
+@media (max-width: 767.98px) { #main .reading-width { padding-inline: 16px; } }
+
+/* "In this article": H3 entries indented under their H2 */
+/* two levels: themes (H2) at the left in the text colour, sub-topics (H3) indented 16px, smaller and grey */
+.doc-outline li.kb-outline-h3 { margin-inline-start: 16px !important; margin-block: 2px; font-size: 13px; }
+.doc-outline li:not(.kb-outline-h3) { margin-top: 12px; }
+.doc-outline li:not(.kb-outline-h3):first-child { margin-top: 4px; }
+.doc-outline li:not(.kb-outline-h3) > a.color-text-subtle { color: var(--theme-text) !important; }
+#affixed-right-container { max-height: calc(100vh - 16px); }
+
+/* Footer, as on Learn: a control row (Theme), then a row of 14px links with 24px gaps */
+#footer .kb-theme-button { font-size: 14px; font-weight: 600; gap: 4px; }
+#footer .links { display: flex; flex-wrap: wrap; list-style: none; margin: 16px 0 0; padding: 0; font-size: 14px; }
+#footer .links li { margin: 4px 24px 0 0; }
+#footer .links a { color: var(--theme-text); text-decoration: none; }
+#footer .links a:hover { text-decoration: underline; }
+.kb-ext { display: inline-flex; margin-inline-start: 3px; vertical-align: -1px; }
+
+/* Short pages: the page fills the window so the footer sits at the bottom (the content row is 1fr in Atlas's grid) */
+body.layout-body { min-height: 100vh; min-height: 100dvh; }
+
+/* Diagrams (media/fig*.png): white card with 24px space on every side, so the drawing never touches the edge */
+.content img[src*="media/fig"] { box-sizing: border-box; padding: 24px; background: #fff; border: 1px solid var(--theme-border); border-radius: 6px; }
+@media (max-width: 767.98px) { .content img[src*="media/fig"] { padding: 12px; } }
+
+/* Drag the menu's right edge to change its width (kb.js saves it); hidden when the menu is collapsed or on small screens */
+#left-container { position: relative; }
+.kb-resize { position: absolute; top: 0; right: -3px; width: 6px; height: 100%; cursor: col-resize; z-index: 5; touch-action: none; }
+.kb-resize::after { content: ""; position: absolute; inset-block: 0; left: 2px; width: 2px; background: transparent; transition: background .15s; }
+.kb-resize:hover::after, .kb-resizing .kb-resize::after { background: var(--theme-primary-base, #0078D4); }
+.kb-resizing, .kb-resizing * { cursor: col-resize !important; user-select: none !important; }
+.layout-menu-collapsed .kb-resize { display: none; }
+
+
+/* Quizzes (quiz.js): Learn knowledge-check look, one card per question, options as bordered rows */
+.kb-quiz { margin-top: 16px; }
+.kb-quiz-bar { position: sticky; top: 0; z-index: 5; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 8px 0; background: var(--theme-body-background); border-bottom: 1px solid var(--theme-border); }
+.content .kb-quiz-score { margin: 0; font-size: 14px; font-weight: 600; }
+.content ol.kb-quiz-list { list-style: decimal; padding-inline-start: 24px; margin-top: 8px; }
+.kb-quiz-question { margin-top: 24px; padding-inline-start: 4px; }
+.content .kb-quiz-stem { margin: 0 0 8px; }
+.content ul.kb-quiz-options { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.kb-quiz-option { display: flex; align-items: center; gap: 12px; width: 100%; padding: 8px 12px; text-align: start; font: inherit; font-size: 14px; line-height: 21px; color: var(--theme-text); background: var(--theme-body-background); border: 1px solid var(--theme-control-border); border-radius: 6px; cursor: pointer; }
+.kb-quiz-option:hover:not(:disabled) { background: var(--theme-body-background-medium); border-color: var(--theme-hyperlink); }
+.kb-quiz-option:focus-visible { outline: 2px solid var(--theme-hyperlink); outline-offset: 2px; }
+.kb-quiz-option:disabled { cursor: default; color: var(--theme-text-subtle); }
+.kb-quiz-letter { flex: none; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: 1px solid var(--theme-control-border); border-radius: 50%; font-size: 12px; font-weight: 600; }
+.kb-quiz-option.is-correct { color: var(--theme-text); background: var(--theme-success-background); border-color: var(--theme-success-base); }
+.kb-quiz-option.is-correct .kb-quiz-letter { background: var(--theme-success-base); border-color: var(--theme-success-base); color: var(--theme-success-invert); }
+.kb-quiz-option.is-wrong { color: var(--theme-text); background: var(--theme-danger-background); border-color: var(--theme-danger-base); }
+.kb-quiz-option.is-wrong .kb-quiz-letter { background: var(--theme-danger-base); border-color: var(--theme-danger-base); color: var(--theme-danger-invert); }
+.kb-quiz-result { margin-top: 8px; padding: 12px 16px; border-inline-start: 4px solid; border-radius: 0 6px 6px 0; background: var(--theme-body-background-medium); font-size: 14px; line-height: 21px; }
+.kb-quiz-result.is-correct { border-color: var(--theme-success-base); }
+.kb-quiz-result.is-wrong { border-color: var(--theme-danger-base); }
+.content .kb-quiz-result p { margin: 4px 0 0; }
+.content .kb-quiz-result p:first-child { margin-top: 0; }
+
+/* Key words: the n-th key word of an English definition and of its Chinese translation share a colour. Term tables
+   bold them in order (Definition is column 2, 中文翻译 column 3); quiz.js marks them as .kb-key[data-key=n]. */
+:root { --kb-key-1: #fff1b8; --kb-key-2: #cfe4ff; --kb-key-3: #d3f5d6; --kb-key-4: #fbd8ec; }
+.theme-dark { --kb-key-1: #5c4a0c; --kb-key-2: #173a63; --kb-key-3: #1d4d27; --kb-key-4: #5e1f45; }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong, .kb-key { padding: 0 2px; border-radius: 3px; color: var(--theme-text); }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+1), .kb-key[data-key="1"] { background: var(--kb-key-1); }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+2), .kb-key[data-key="2"] { background: var(--kb-key-2); }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+3), .kb-key[data-key="3"] { background: var(--kb-key-3); }
+.kb-terms td:is(:nth-child(2), :nth-child(3)) strong:nth-of-type(4n+4), .kb-key[data-key="4"] { background: var(--kb-key-4); }
+.kb-key { font-weight: 600; }
+
+/* The main-clause predicate (谓语) of each sentence and of its translation (marks.js): a thin, light red wavy line */
+.kb-role-V { text-decoration: underline wavy rgba(197, 15, 31, .55) 1px; text-underline-offset: 4px; text-decoration-skip-ink: none; }
+.theme-dark .kb-role-V { text-decoration-color: rgba(255, 143, 143, .6); }
+
+/* Figures open on their own when clicked (kb.js lightbox): fixed size so browser zoom enlarges them, the overlay scrolls */
+.content img:not(a img) { cursor: zoom-in; }
+.kb-lightbox-open, .kb-lightbox-open body { overflow: hidden; }
+.kb-lightbox { position: fixed; inset: 0; z-index: 1000; overflow: auto; padding: 48px 24px 24px; background: rgba(0, 0, 0, .85); cursor: zoom-out; text-align: center; }
+.kb-lightbox-img { max-width: none; height: auto; background: #fff; border-radius: 4px; cursor: zoom-out; }
+.kb-lightbox.is-fit .kb-lightbox-img { width: auto !important; max-width: 100%; max-height: calc(100vh - 72px); }
+.kb-lightbox-close { position: fixed; top: 8px; right: 16px; width: 36px; height: 36px; border: 0; border-radius: 50%; background: rgba(255, 255, 255, .15); color: #fff; font-size: 24px; line-height: 36px; cursor: pointer; }
+.kb-lightbox-close:hover, .kb-lightbox-close:focus-visible { background: rgba(255, 255, 255, .3); }
+.content .kb-quiz-result .kb-quiz-zhstem { color: var(--theme-text-subtle); padding-bottom: 6px; margin-bottom: 6px; border-bottom: 1px solid var(--theme-border); }
+.kb-quiz-result > summary { cursor: pointer; color: var(--theme-text-subtle); font-size: 13px; }
+.kb-quiz-result[open] > summary { margin-bottom: 6px; }
+
+/* Phones: "In this article" is hidden; the header is one compact row (menu, logo, name, search);
+   the drawer shows either the site sections (menu button) or the section's tree (Table of contents button), as on Learn */
+.kb-toc-open #left-container { display: block !important; }
+.kb-toc-title { display: flex; align-items: center; justify-content: space-between; padding: 12px 8px 8px 0; font-weight: 600; }
+@media (max-width: 767.98px) {
+  .kb-menu-open #kb-toc-title, .kb-menu-open #kb-toc-header, .kb-menu-open .kb-filter, .kb-menu-open #kb-toc { display: none !important; }
+  .kb-toc-open #kb-mobile-nav, .kb-toc-open #kb-toc-header { display: none !important; }
+  html:not(.kb-toc-open) #kb-toc-title { display: none; }
+  .kb-mobile-nav { border-bottom: 0; }
+  html:has(#kb-toc:empty) .kb-toc-button, .kb-no-section .kb-toc-button { display: none; }
+  .kb-filter { margin-inline-end: 16px; }
+  #center-doc-outline.display-none-desktop:not([hidden]) { display: none !important; }
+  #kb-primary-nav { min-height: 48px; padding-inline: 8px; gap: 4px; }
+  #kb-primary-nav .site-header-logo img { width: 20px; height: 20px; }
+  #kb-primary-nav .site-header-divider { margin-inline: 6px; height: 20px; }
+  #kb-primary-nav .site-header-brand { font-size: 17px; font-weight: 600; padding-inline: 0; }
+}
+
+/* lists inside table cells (Market timelines, since 2026-11-03): no top margin, a short indent */
+.content td ul, .content td ol { margin: 0; padding-inline-start: 18px; }
+.content table.kb-dated td:first-child { white-space: nowrap; }

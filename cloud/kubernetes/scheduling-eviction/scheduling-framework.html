@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>10.8 Scheduling Framework | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 10.8 Scheduling Framework: 10.8.1 Framework workflow, 10.8.2 Interfaces.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="108-scheduling-framework">10.8 Scheduling Framework</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/scheduling-eviction-scheduling-framework.png" alt="10.8 Scheduling Framework: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>10.8 Scheduling Framework</strong><br>调度框架</td>
+<td>&quot;<strong>The <em>scheduling framework</em></strong> is <strong>a pluggable architecture</strong> for <strong>the Kubernetes scheduler</strong>.&quot;</td>
+<td><em><strong>调度框架</strong></em>是<strong>一种可插拔架构</strong>，面向 <strong>Kubernetes 调度器</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=The%20%2Ascheduling%20framework%2A%20is%20a%20pluggable%20architecture">The Kubernetes Authors, n.d., &quot;Scheduling Framework&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>10.8.1 Framework workflow</strong><br>框架工作流</td>
+<td>&quot;<strong>The Scheduling Framework</strong> defines <strong>a few extension points</strong>.&quot;</td>
+<td><strong>调度框架</strong>定义了<strong>若干扩展点</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=The%20Scheduling%20Framework%20defines%20a%20few%20extension">The Kubernetes Authors, n.d., &quot;Framework workflow&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Scheduling cycle &amp; binding cycle</strong><br>调度周期与绑定周期</td>
+<td>&quot;The scheduling cycle <strong>selects a node for the Pod</strong>, and the binding cycle <strong>applies that decision to the cluster</strong>.&quot;</td>
+<td>调度周期<strong>为 Pod 选择节点</strong>，绑定周期<strong>把这一决定应用到集群</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=The%20scheduling%20cycle%20selects%20a%20node%20for">The Kubernetes Authors, n.d., &quot;Scheduling cycle &amp; binding cycle&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>10.8.2 Interfaces</strong><br>接口</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#interfaces">The Kubernetes Authors, n.d., &quot;Interfaces&quot;</a></td>
+</tr>
+<tr>
+<td><strong>PreEnqueue</strong><br>PreEnqueue</td>
+<td>&quot;These plugins are <strong>called prior to adding Pods to the internal active queue</strong>, where Pods are marked as <strong>ready for scheduling</strong>.&quot;</td>
+<td>这些插件<strong>在把 Pod 加入内部活动队列之前调用</strong>，Pod 在该队列中被标记为<strong>可调度</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20called%20prior%20to%20adding">The Kubernetes Authors, n.d., &quot;PreEnqueue&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>EnqueueExtension</strong><br>EnqueueExtension</td>
+<td>&quot;EnqueueExtension is <strong>the interface</strong> where the plugin can control whether to <strong>retry scheduling of Pods rejected by this plugin</strong>, based on <strong>changes in the cluster</strong>.&quot;</td>
+<td>EnqueueExtension 是<strong>一个接口</strong>，插件通过它控制是否<strong>重试调度被本插件拒绝的 Pod</strong>，依据是<strong>集群中的变化</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=EnqueueExtension%20is%20the%20interface%20where%20the%20plugin">The Kubernetes Authors, n.d., &quot;EnqueueExtension&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>QueueSort</strong><br>QueueSort</td>
+<td>&quot;These plugins are used to <strong>sort Pods</strong> in <strong>the scheduling queue</strong>.&quot;</td>
+<td>这些插件用于<strong>对 Pod 排序</strong>，在<strong>调度队列</strong>中。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20used%20to%20sort%20Pods">The Kubernetes Authors, n.d., &quot;QueueSort&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>PreFilter</strong><br>PreFilter</td>
+<td>&quot;These plugins are used to <strong>pre-process info about the Pod</strong>, or to <strong>check certain conditions that the cluster or the Pod must meet</strong>.&quot;</td>
+<td>这些插件用于<strong>预处理 Pod 的信息</strong>，或<strong>检查集群或 Pod 必须满足的某些条件</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20used%20to%20pre-process%20info">The Kubernetes Authors, n.d., &quot;PreFilter&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Filter</strong><br>Filter</td>
+<td>&quot;These plugins are used to <strong>filter out nodes</strong> that <strong>cannot run the Pod</strong>.&quot;</td>
+<td>这些插件用于<strong>过滤掉节点</strong>，即那些<strong>无法运行该 Pod</strong> 的节点。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20used%20to%20filter%20out">The Kubernetes Authors, n.d., &quot;Filter&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>PostFilter</strong><br>PostFilter</td>
+<td>&quot;These plugins are <strong>called after the Filter phase</strong>, but only when <strong>no feasible nodes were found for the pod</strong>.&quot;</td>
+<td>这些插件<strong>在 Filter 阶段之后调用</strong>，但仅当<strong>没有为该 Pod 找到可行节点</strong>时。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20called%20after%20the%20Filter">The Kubernetes Authors, n.d., &quot;PostFilter&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>PreScore</strong><br>PreScore</td>
+<td>&quot;These plugins are used to <strong>perform &quot;pre-scoring&quot; work</strong>, which generates <strong>a sharable state for Score plugins to use</strong>.&quot;</td>
+<td>这些插件用于<strong>执行“预打分”工作</strong>，生成<strong>可供 Score 插件使用的共享状态</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20used%20to%20perform%20%22pre-scoring%22">The Kubernetes Authors, n.d., &quot;PreScore&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Score</strong><br>Score</td>
+<td>&quot;These plugins are used to <strong>rank nodes</strong> that have <strong>passed the filtering phase</strong>.&quot;</td>
+<td>这些插件用于<strong>对节点排序</strong>，即那些<strong>通过了过滤阶段</strong>的节点。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20used%20to%20rank%20nodes">The Kubernetes Authors, n.d., &quot;Score&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>NormalizeScore</strong><br>NormalizeScore</td>
+<td>&quot;These plugins are used to <strong>modify scores</strong> before the scheduler <strong>computes a final ranking of Nodes</strong>.&quot;</td>
+<td>这些插件用于<strong>修改分数</strong>，在调度器<strong>计算节点最终排名</strong>之前。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20used%20to%20modify%20scores">The Kubernetes Authors, n.d., &quot;NormalizeScore&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Reserve</strong><br>Reserve</td>
+<td>&quot;A plugin that implements the Reserve interface has <strong>two methods</strong>, namely <strong><code>Reserve</code> and <code>Unreserve</code></strong>&quot;</td>
+<td>实现 Reserve 接口的插件有<strong>两个方法</strong>，即 <strong><code>Reserve</code> 和 <code>Unreserve</code></strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=A%20plugin%20that%20implements%20the%20Reserve%20interface">The Kubernetes Authors, n.d., &quot;Reserve&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Permit</strong><br>Permit</td>
+<td>&quot;<strong><em>Permit</em> plugins</strong> are invoked at <strong>the end of the scheduling cycle for each Pod</strong>, to <strong>prevent or delay the binding to the candidate node</strong>.&quot;</td>
+<td><strong><em>Permit</em> 插件</strong>在<strong>每个 Pod 的调度周期结束时</strong>调用，用于<strong>阻止或推迟绑定到候选节点</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=%2APermit%2A%20plugins%20are%20invoked%20at%20the%20end">The Kubernetes Authors, n.d., &quot;Permit&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>PreBind</strong><br>PreBind</td>
+<td>&quot;These plugins are used to <strong>perform any work required</strong> before <strong>a Pod is bound</strong>.&quot;</td>
+<td>这些插件用于<strong>执行所需的任何工作</strong>，在 <strong>Pod 绑定</strong>之前。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20used%20to%20perform%20any">The Kubernetes Authors, n.d., &quot;PreBind&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Bind</strong><br>Bind</td>
+<td>&quot;These plugins are used to <strong>bind a Pod</strong> to <strong>a Node</strong>.&quot;</td>
+<td>这些插件用于<strong>把 Pod 绑定</strong>到<strong>一个节点</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=These%20plugins%20are%20used%20to%20bind%20a">The Kubernetes Authors, n.d., &quot;Bind&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>PostBind</strong><br>PostBind</td>
+<td>&quot;This is <strong>an informational interface</strong>.&quot;</td>
+<td>这是<strong>一个信息性接口</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/#:%7E:text=This%20is%20an%20informational%20interface.">The Kubernetes Authors, n.d., &quot;PostBind&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Scheduling Framework</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/">https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

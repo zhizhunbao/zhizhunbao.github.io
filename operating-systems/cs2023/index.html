@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>CS2023 OS | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="CS2023 OS: the 14 knowledge units of the CS2023 knowledge area Operating Systems (OS) and their topics.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Home">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="cs2023-os">CS2023 OS</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/cs2023-os.png" alt="CS2023 OS sorted into its 14 knowledge units in CS2023 order, each with its topics."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>CS2023 OS</strong><br>CS2023 OS</td>
+<td>&quot;Core topics focus on the <strong>mechanisms and policies</strong> needed to <strong>virtualize computation, memory, and Input/Output (I/O)</strong>.&quot;</td>
+<td>核心主题侧重于<strong>机制与策略</strong>，用以<strong>虚拟化计算、内存和输入/输出（I/O）</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=143">Joint Task Force on Computing Curricula, 2024, OS &quot;Preamble&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="role-and-purpose-of-operating-systems/index.html">Role and Purpose of Operating Systems</a></strong><br>操作系统的作用和目的</td>
+<td>(context) &quot;Understand the <strong>objectives and functions of modern operating systems</strong>.&quot;</td>
+<td>（语境）理解<strong>现代操作系统的目标和功能</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=145">Joint Task Force on Computing Curricula, 2024, OS-Purpose &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="principles-of-operating-system/index.html">Principles of Operating System</a></strong><br>操作系统原理</td>
+<td>(context) &quot;Understand how the application of <strong>software design approaches</strong> to operating systems design/implementation (e.g., layered, modular, etc.) affects the <strong>robustness and maintainability</strong> of an operating system.&quot;</td>
+<td>（语境）理解把<strong>软件设计方法</strong>应用于操作系统设计/实现（例如分层、模块化等）如何影响操作系统的<strong>健壮性和可维护性</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=145">Joint Task Force on Computing Curricula, 2024, OS-Principles &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="concurrency/index.html">Concurrency</a></strong><br>并发</td>
+<td>(context) &quot;Understand the <strong>advantages and disadvantages of concurrency</strong> as inseparable functions within the operating system framework.&quot;</td>
+<td>（语境）理解<strong>并发的优点和缺点</strong>，它们是操作系统框架中不可分割的功能。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=146">Joint Task Force on Computing Curricula, 2024, OS-Concurrency &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="protection-and-safety/index.html">Protection and Safety</a></strong><br>保护与安全</td>
+<td>(context) &quot;Understand the requirement for <strong>protection and security mechanisms</strong> in operating systems.&quot;</td>
+<td>（语境）理解操作系统中对<strong>保护和安全机制</strong>的需求。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=147">Joint Task Force on Computing Curricula, 2024, OS-Protection &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="scheduling/index.html">Scheduling</a></strong><br>调度</td>
+<td>(context) &quot;Compare and contrast the common algorithms used for both <strong>preemptive and non-preemptive scheduling</strong> of tasks in operating systems, such as priority, performance comparison, and fair-share schemes.&quot;</td>
+<td>（语境）比较操作系统中用于任务<strong>抢占式和非抢占式调度</strong>的常见算法，例如优先级、性能比较和公平共享方案。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=147">Joint Task Force on Computing Curricula, 2024, OS-Scheduling &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="process-model/index.html">Process Model</a></strong><br>进程模型</td>
+<td>(context) &quot;Understand how <strong>processes and threads</strong> use concurrency features to <strong>virtualize control</strong>.&quot;</td>
+<td>（语境）理解<strong>进程和线程</strong>如何使用并发特性来<strong>虚拟化控制</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=148">Joint Task Force on Computing Curricula, 2024, OS-Process &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="memory-management/index.html">Memory Management</a></strong><br>内存管理</td>
+<td>(context) &quot;Explain <strong>memory hierarchy</strong> and <strong>cost-performance tradeoffs</strong>.&quot;</td>
+<td>（语境）解释<strong>存储层次结构</strong>和<strong>成本与性能的权衡</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=149">Joint Task Force on Computing Curricula, 2024, OS-Memory &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="device-management/index.html">Device management</a></strong><br>设备管理</td>
+<td>(context) &quot;Explain <strong>architecture level device control implementation</strong> and link relevant operating system mechanisms and policy (e.g., buffering strategies, direct memory access).&quot;</td>
+<td>（语境）解释<strong>体系结构层面的设备控制实现</strong>，并联系相关的操作系统机制和策略（例如缓冲策略、直接内存访问）。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=149">Joint Task Force on Computing Curricula, 2024, OS-Devices &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="file-systems-api-and-implementation/index.html">File Systems API and Implementation</a></strong><br>文件系统 API 与实现</td>
+<td>(context) &quot;Explain the choices to be made in <strong>designing file systems</strong>.&quot;</td>
+<td>（语境）解释<strong>设计文件系统</strong>时要做的选择。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=150">Joint Task Force on Computing Curricula, 2024, OS-Files &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="advanced-file-systems/index.html">Advanced File systems</a></strong><br>高级文件系统</td>
+<td>(context) &quot;Explain how <strong>hardware developments</strong> have led to changes in the priorities for the <strong>design and the management of file systems</strong>.&quot;</td>
+<td>（语境）解释<strong>硬件的发展</strong>如何改变了<strong>文件系统设计和管理</strong>的优先事项。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=151">Joint Task Force on Computing Curricula, 2024, OS-Advanced-Files &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="virtualization/index.html">Virtualization</a></strong><br>虚拟化</td>
+<td>(context) &quot;Explain how <strong>hardware architecture</strong> provides support and efficiencies for <strong>virtualization</strong>.&quot;</td>
+<td>（语境）解释<strong>硬件体系结构</strong>如何为<strong>虚拟化</strong>提供支持和效率。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=151">Joint Task Force on Computing Curricula, 2024, OS-Virtualization &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="real-time-and-embedded-systems/index.html">Real-time and Embedded Systems</a></strong><br>实时与嵌入式系统</td>
+<td>(context) &quot;Explain what makes a system a <strong>real-time system</strong>.&quot;</td>
+<td>（语境）解释什么使一个系统成为<strong>实时系统</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=152">Joint Task Force on Computing Curricula, 2024, OS-Real-time &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="fault-tolerance/index.html">Fault tolerance</a></strong><br>容错</td>
+<td>(context) &quot;Explain how operating systems can facilitate <strong>fault tolerance, reliability, and availability</strong>.&quot;</td>
+<td>（语境）解释操作系统如何促进<strong>容错、可靠性和可用性</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=152">Joint Task Force on Computing Curricula, 2024, OS-Faults &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="society-ethics-and-the-profession/index.html">Society, Ethics, and the Profession</a></strong><br>社会、伦理与职业</td>
+<td>(context) &quot;Explain advantages and disadvantages of <strong>finding and addressing bugs in open-source kernels</strong>.&quot;</td>
+<td>（语境）解释<strong>在开源内核中发现并修复缺陷</strong>的优点和缺点。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=153">Joint Task Force on Computing Curricula, 2024, OS-SEP &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Joint Task Force on Computing Curricula. (2024). <em>Computer science curricula 2023</em>. Association for Computing Machinery. <a href="https://doi.org/10.1145/3664191">https://doi.org/10.1145/3664191</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 00:44:29-04:00">10/27/2026 00:44:29</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

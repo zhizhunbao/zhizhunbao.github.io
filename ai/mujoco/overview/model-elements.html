@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.1 Model elements | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 1.1 Model elements: Options, Assets, Kinematic tree, Stand-alone.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="11-model-elements">1.1 Model elements</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/model-elements.png" alt="1.1 Model elements: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.1 Model elements</strong><br>模型元素</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#model-elements">Google DeepMind, n.d., &quot;Model elements&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Options</strong><br>选项</td>
+<td>&quot;Each model has <strong>three sets of options</strong> listed below. They are always included.&quot;</td>
+<td>每个模型都有下面列出的<strong>三组选项</strong>。它们总是包含在模型中。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#options">Google DeepMind, n.d., &quot;Options&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjOption</strong><br>mjOption</td>
+<td>&quot;This structure contains <strong>all options that affect the physics simulation</strong>.&quot;</td>
+<td>这个结构体包含<strong>所有影响物理仿真的选项</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#mjoption">Google DeepMind, n.d., &quot;mjOption&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjVisual</strong><br>mjVisual</td>
+<td>&quot;This structure contains <strong>all visualization options</strong>.&quot;</td>
+<td>这个结构体包含<strong>所有可视化选项</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#mjvisual">Google DeepMind, n.d., &quot;mjVisual&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjStatistic</strong><br>mjStatistic</td>
+<td>&quot;This structure contains <strong>statistics about the model which are computed by the compiler</strong>: average body mass, spatial extent of the model etc.&quot;</td>
+<td>这个结构体包含<strong>由编译器计算的模型统计量</strong>：平均刚体质量、模型的空间范围等。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#mjstatistic">Google DeepMind, n.d., &quot;mjStatistic&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Assets</strong><br>资源</td>
+<td>&quot;Assets are not in themselves model elements. <strong>Model elements can reference them, in which case the asset somehow changes the properties of the referencing element</strong>.&quot;</td>
+<td>资源本身不是模型元素。<strong>模型元素可以引用它们，此时资源会以某种方式改变引用它的元素的属性</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#assets">Google DeepMind, n.d., &quot;Assets&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Mesh</strong><br>网格</td>
+<td>&quot;MuJoCo can load <strong>triangulated meshes</strong> from OBJ files and binary STL.&quot;</td>
+<td>MuJoCo 可以从 OBJ 文件和二进制 STL 加载<strong>三角网格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#mesh">Google DeepMind, n.d., &quot;Mesh&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Skin</strong><br>蒙皮</td>
+<td>&quot;Skinned meshes (or skins) are <strong>meshes whose shape can deform at runtime</strong>.&quot;</td>
+<td>蒙皮网格（或蒙皮）是<strong>形状可以在运行时变形的网格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#skin">Google DeepMind, n.d., &quot;Skin&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Height field</strong><br>高度场</td>
+<td>&quot;A height field is <strong>a rectangular grid of elevation data</strong>.&quot;</td>
+<td>高度场是<strong>一个由高程数据组成的矩形网格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#height-field">Google DeepMind, n.d., &quot;Height field&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Texture</strong><br>纹理</td>
+<td>(context) &quot;Textures can be <strong>loaded from PNG or KTX files or synthesized by the compiler based on user-defined procedural parameters</strong>.&quot;</td>
+<td>（语境）纹理可以<strong>从 PNG 或 KTX 文件加载，或由编译器根据用户定义的程序化参数合成</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#texture">Google DeepMind, n.d., &quot;Texture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Material</strong><br>材质</td>
+<td>&quot;Materials are used <strong>to control the appearance of geoms, sites and tendons</strong>.&quot;</td>
+<td>材质用于<strong>控制 geom、site 和肌腱的外观</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#material">Google DeepMind, n.d., &quot;Material&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Kinematic tree</strong><br>运动学树</td>
+<td>&quot;MuJoCo simulates the dynamics of a collection of rigid bodies whose motion is usually constrained. The system state is represented in joint coordinates and <strong>the bodies are explicitly organized into kinematic trees</strong>.&quot;</td>
+<td>MuJoCo 仿真一组运动通常受约束的刚体的动力学。系统状态用关节坐标表示，<strong>刚体被显式地组织成运动学树</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#kinematic-tree">Google DeepMind, n.d., &quot;Kinematic tree&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>World body</strong><br>世界刚体</td>
+<td>&quot;The top-level “world” body <strong>always exists (with id 0) and is its own parent</strong>, thus body_parentid[0] == 0 and body_parentid[i] &lt; i for all other i.&quot;</td>
+<td>顶层的“世界”刚体<strong>总是存在（id 为 0），并且是它自己的父刚体</strong>，因此 body_parentid[0] == 0，且对其他所有 i 有 body_parentid[i] &lt; i。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#kinematic-tree">Google DeepMind, n.d., &quot;Kinematic tree&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Static tree</strong><br>静态树</td>
+<td>&quot;Note that the world body and other static (joint-less) child bodies form <strong>a unique “static tree” with no associated degrees of freedom</strong>.&quot;</td>
+<td>注意，世界刚体和其他静态（无关节）子刚体构成<strong>一棵唯一的、没有关联自由度的“静态树”</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#kinematic-tree">Google DeepMind, n.d., &quot;Kinematic tree&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Body</strong><br>刚体</td>
+<td>&quot;Bodies have <strong>mass and inertial properties but do not have any geometric properties</strong>.&quot;</td>
+<td>刚体有<strong>质量和惯性属性，但没有任何几何属性</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#body">Google DeepMind, n.d., &quot;Body&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Inertial frame</strong><br>惯性坐标系</td>
+<td>&quot;Each body has two coordinate frames: the frame used to define it as well as to position other elements relative to it, and <strong>an inertial frame centered at the body’s center of mass and aligned with its principal axes of inertia</strong>.&quot;</td>
+<td>每个刚体有两个坐标系：一个用来定义它并相对于它定位其他元素，另一个是<strong>以刚体质心为中心、与其惯性主轴对齐的惯性坐标系</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#body">Google DeepMind, n.d., &quot;Body&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Joint</strong><br>关节</td>
+<td>&quot;Joints are defined within bodies. They <strong>create motion degrees of freedom (DOFs) between the body and its parent</strong>.&quot;</td>
+<td>关节定义在刚体内部。它们<strong>在刚体与其父刚体之间创建运动自由度（DOF）</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#joint">Google DeepMind, n.d., &quot;Joint&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Free joint</strong><br>自由关节</td>
+<td>&quot;There are four types of joints: ball, slide, hinge, and a “free joint” <strong>which creates floating bodies</strong>.&quot;</td>
+<td>关节有四种类型：球关节、滑动关节、铰链关节，以及一种<strong>创建浮动刚体</strong>的“自由关节”。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#joint">Google DeepMind, n.d., &quot;Joint&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Joint reference</strong><br>关节参考</td>
+<td>&quot;The reference pose is <strong>a vector of joint positions stored in mjModel.qpos0</strong>.&quot;</td>
+<td>参考位姿是<strong>存放在 mjModel.qpos0 中的关节位置向量</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#joint-reference">Google DeepMind, n.d., &quot;Joint reference&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Spring reference</strong><br>弹簧参考</td>
+<td>&quot;This is <strong>the pose in which all joint and tendon springs achieve their resting length</strong>.&quot;</td>
+<td>这是<strong>所有关节弹簧和肌腱弹簧都处于静止长度时的位姿</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#spring-reference">Google DeepMind, n.d., &quot;Spring reference&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>DOF</strong><br>自由度</td>
+<td>&quot;Degrees of freedom are <strong>closely related to joints, but are not in one-to-one correspondence</strong> because ball and free joints have multiple DOFs.&quot;</td>
+<td>自由度<strong>与关节密切相关，但并非一一对应</strong>，因为球关节和自由关节有多个自由度。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#dof">Google DeepMind, n.d., &quot;DOF&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Tree</strong><br>树</td>
+<td>&quot;A kinematic tree or “tree” is <strong>a movable body and all of its descendants</strong>.&quot;</td>
+<td>运动学树或“树”是<strong>一个可动刚体及其所有后代</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#tree">Google DeepMind, n.d., &quot;Tree&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Subtree</strong><br>子树</td>
+<td>&quot;Note that while trees are indeed subtrees of the global tree (whose root is the world), this should not be confused with the specific term subtree, <strong>which is reserved for per-body partial trees</strong>, thus mjModel.body_subtreemass gives the total mass of the partial tree under each body, for all bodies.&quot;</td>
+<td>注意，虽然树确实是全局树（其根是世界）的子树，但这不应与专门术语 subtree 混淆，<strong>它专指以每个刚体为根的部分树</strong>，因此 mjModel.body_subtreemass 给出所有刚体各自下方部分树的总质量。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#tree">Google DeepMind, n.d., &quot;Tree&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Geom</strong><br>几何体</td>
+<td>&quot;Geoms are <strong>3D shapes rigidly attached to the bodies</strong>.&quot;</td>
+<td>geom 是<strong>刚性附着在刚体上的三维形状</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#geom">Google DeepMind, n.d., &quot;Geom&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Site</strong><br>站点</td>
+<td>&quot;Sites are essentially <strong>light geoms</strong>. They represent <strong>locations of interest within the body frame</strong>.&quot;</td>
+<td>site 本质上是<strong>轻量的 geom</strong>。它们表示<strong>刚体坐标系内值得关注的位置</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#site">Google DeepMind, n.d., &quot;Site&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Camera</strong><br>相机</td>
+<td>(context) &quot;However it is often convenient to define <strong>additional cameras that are either fixed to the world, or are attached to one of the bodies and move with it</strong>.&quot;</td>
+<td>（语境）不过，定义<strong>另外的相机往往很方便：它们要么固定在世界中，要么附着在某个刚体上并随它移动</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#camera">Google DeepMind, n.d., &quot;Camera&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Light</strong><br>光源</td>
+<td>(context) &quot;Lights can be <strong>fixed to the world body or attached to moving bodies</strong>.&quot;</td>
+<td>（语境）光源可以<strong>固定在世界刚体上，或附着在运动的刚体上</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#light">Google DeepMind, n.d., &quot;Light&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Stand-alone</strong><br>独立元素</td>
+<td>&quot;Here we describe <strong>the model elements which do not belong to an individual body</strong>, and therefore are described outside the kinematic tree.&quot;</td>
+<td>这里介绍<strong>不属于单个刚体的模型元素</strong>，因此它们在运动学树之外描述。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#stand-alone">Google DeepMind, n.d., &quot;Stand-alone&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Tendon</strong><br>肌腱</td>
+<td>&quot;Tendons are <strong>scalar length elements</strong> that can be used for actuation, imposing limits and equality constraints, or creating spring-dampers and friction loss.&quot;</td>
+<td>肌腱是<strong>标量长度元素</strong>，可用于驱动、施加限位和等式约束，或构造弹簧阻尼器和摩擦损失。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#tendon">Google DeepMind, n.d., &quot;Tendon&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Fixed tendons</strong><br>固定肌腱</td>
+<td>&quot;Fixed tendons are <strong>linear combinations of (scalar) joint positions</strong>.&quot;</td>
+<td>固定肌腱是（标量）<strong>关节位置的线性组合</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#tendon">Google DeepMind, n.d., &quot;Tendon&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Spatial tendons</strong><br>空间肌腱</td>
+<td>&quot;Spatial tendons are defined as <strong>the shortest path that passes through a sequence of specified sites (or via-points) or wraps around specified geoms</strong>.&quot;</td>
+<td>空间肌腱定义为<strong>穿过一系列指定 site（即途经点）或缠绕指定 geom 的最短路径</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#tendon">Google DeepMind, n.d., &quot;Tendon&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Actuator</strong><br>驱动器</td>
+<td>&quot;MuJoCo provides <strong>a flexible actuator model, with three components that can be specified independently</strong>.&quot;</td>
+<td>MuJoCo 提供<strong>一个灵活的驱动器模型，它有三个可以独立指定的组成部分</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#actuator">Google DeepMind, n.d., &quot;Actuator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Transmission</strong><br>传动</td>
+<td>&quot;The transmission <strong>specifies how the actuator is attached to the rest of the system</strong>; available types are joint, tendon, slider-crank, site and body.&quot;</td>
+<td>传动<strong>指定驱动器如何连接到系统的其余部分</strong>；可用类型有 joint、tendon、slider-crank、site 和 body。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#actuator">Google DeepMind, n.d., &quot;Actuator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Activation dynamics</strong><br>激活动力学</td>
+<td>&quot;The activation dynamics can be used <strong>to model internal activation states of pneumatic or hydraulic cylinders as well as biological muscles</strong>; using such actuators makes the overall system dynamics 3rd-order.&quot;</td>
+<td>激活动力学可用于<strong>建模气缸、液压缸以及生物肌肉的内部激活状态</strong>；使用这类驱动器会使整个系统动力学成为三阶的。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#actuator">Google DeepMind, n.d., &quot;Actuator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Force generation</strong><br>力生成</td>
+<td>&quot;The force generation mechanism <strong>determines how the scalar control signal provided as input to the actuator is mapped into a scalar force</strong>, which is in turn mapped into a generalized force by the moment arms inferred from the transmission.&quot;</td>
+<td>力生成机制<strong>决定作为驱动器输入的标量控制信号如何映射为标量力</strong>，该力再由从传动推出的力臂映射为广义力。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#actuator">Google DeepMind, n.d., &quot;Actuator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sensor</strong><br>传感器</td>
+<td>&quot;MuJoCo can generate <strong>simulated sensor data</strong> which is saved in the global array mjData.sensordata.&quot;</td>
+<td>MuJoCo 可以生成<strong>仿真的传感器数据</strong>，保存在全局数组 mjData.sensordata 中。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#sensor">Google DeepMind, n.d., &quot;Sensor&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>User sensor type</strong><br>用户传感器类型</td>
+<td>&quot;There is also a user sensor type, <strong>allowing user code to insert any other quantity of interest in the sensor data array</strong>.&quot;</td>
+<td>还有一种用户传感器类型，<strong>允许用户代码把任何其他感兴趣的量插入传感器数据数组</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#sensor">Google DeepMind, n.d., &quot;Sensor&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Equality</strong><br>等式约束</td>
+<td>&quot;Equality constraints can <strong>impose additional constraints beyond those already imposed by the kinematic tree structure and the joints/DOFs defined in it</strong>.&quot;</td>
+<td>等式约束可以<strong>在运动学树结构及其中定义的关节/自由度已施加的约束之外，再施加额外的约束</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#equality">Google DeepMind, n.d., &quot;Equality&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Flex</strong><br>柔性体</td>
+<td>&quot;Flexes represent <strong>deformable meshes that can be 1, 2 or 3 dimensional</strong> (thus their elements are capsules, triangles or tetrahedra).&quot;</td>
+<td>flex 表示<strong>可以是一维、二维或三维的可变形网格</strong>（因此其单元是胶囊体、三角形或四面体）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#flex">Google DeepMind, n.d., &quot;Flex&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contact pair</strong><br>接触对</td>
+<td>&quot;Geom pairs that are checked for contact can come from two sources: automated proximity tests and other filters collectively called “dynamic”, as well as <strong>an explicit list of geom pairs provided in the model</strong>. The latter is <strong>a separate type of model element</strong>.&quot;</td>
+<td>要做接触检查的 geom 对有两个来源：自动邻近测试和其他过滤器（统称为“dynamic”），以及<strong>模型中提供的显式 geom 对列表</strong>。后者是<strong>一种单独的模型元素类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#contact-pair">Google DeepMind, n.d., &quot;Contact pair&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>dynamic</strong><br>动态机制</td>
+<td>&quot;Geom pairs that are checked for contact can come from two sources: <strong>automated proximity tests and other filters collectively called “dynamic”</strong>, as well as an explicit list of geom pairs provided in the model.&quot;</td>
+<td>要做接触检查的 geom 对有两个来源：<strong>自动邻近测试和其他过滤器（统称为“dynamic”）</strong>，以及模型中提供的显式 geom 对列表。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#contact-pair">Google DeepMind, n.d., &quot;Contact pair&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contact exclude</strong><br>接触排除</td>
+<td>&quot;This is the opposite of contact pairs: it <strong>specifies pairs of bodies (rather than geoms) which should be excluded from the generation of candidate contact pairs</strong>.&quot;</td>
+<td>它与接触对相反：它<strong>指定应从候选接触对的生成中排除的刚体对（而不是 geom 对）</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#contact-exclude">Google DeepMind, n.d., &quot;Contact exclude&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Custom numeric</strong><br>自定义数值</td>
+<td>&quot;There are <strong>three ways to enter custom numbers in a MuJoCo simulation</strong>.&quot;</td>
+<td>有<strong>三种方式可以在 MuJoCo 仿真中输入自定义数值</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#custom-numeric">Google DeepMind, n.d., &quot;Custom numeric&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Custom text</strong><br>自定义文本</td>
+<td>&quot;<strong>Custom text fields can be saved in the model</strong>. They can be used in custom computations – either to specify keyword commands, or to provide some other textual information.&quot;</td>
+<td><strong>自定义文本字段可以保存在模型中</strong>。它们可用于自定义计算：指定关键字命令，或提供其他文本信息。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#custom-text">Google DeepMind, n.d., &quot;Custom text&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Custom tuple</strong><br>自定义元组</td>
+<td>&quot;Custom tuples are <strong>lists of MuJoCo model elements, possibly including other tuples</strong>.&quot;</td>
+<td>自定义元组是<strong>MuJoCo 模型元素的列表，其中可能包含其他元组</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#custom-tuple">Google DeepMind, n.d., &quot;Custom tuple&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Keyframe</strong><br>关键帧</td>
+<td>&quot;A keyframe is <strong>a snapshot of the simulation state variables</strong>.&quot;</td>
+<td>关键帧是<strong>仿真状态变量的一个快照</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/overview.html#keyframe">Google DeepMind, n.d., &quot;Keyframe&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Overview</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/overview.html">https://mujoco.readthedocs.io/en/stable/overview.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

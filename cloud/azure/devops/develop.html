@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>23.2 Develop | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 23.2 Develop: Version control, Git, Automated testing, Continuous integration (CI), Azure Repos, GitHub, Visual Studio, Visual Studio Code, Microsoft Dev Box, Azure DevTest Labs, Microsoft Playwright Testing (Preview).">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="232-develop">23.2 Develop</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/develop.png" alt="Develop, 6 terms from the develop phase of What is DevOps?: Version control, Git, Automated testing, Continuous integration (CI), Azure Repos, GitHub."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Version control</strong><br>版本控制</td>
+<td>&quot;Version control is the practice of <strong>managing code in versions</strong>—tracking revisions and change history to make code <strong>easy to review and recover</strong>.&quot;</td>
+<td>版本控制是<strong>按版本管理代码</strong>的做法，即跟踪修订和变更历史，使代码<strong>易于审查和恢复</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/devops/what-is-devops#:%7E:text=Version%20control%20is%20the%20practice%20of%20managing%20code%20in%20versions">Microsoft, 2023, &quot;Version Control&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Git</strong><br>Git</td>
+<td>&quot;Git is a <strong>distributed version control system</strong>, which means that a <strong>local clone of the project is a complete version control repository</strong>.&quot;</td>
+<td>Git 是一种<strong>分布式版本控制系统</strong>，这意味着<strong>项目的本地克隆就是一个完整的版本控制存储库</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/devops/develop/git/what-is-git#:%7E:text=is%20a%20distributed%20version%20control%20system">Microsoft, 2022, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Automated testing</strong><br>自动化测试</td>
+<td>(context) &quot;<strong>Automated tests</strong> execute as <strong>part of the CI process</strong> to <strong>ensure quality</strong>.&quot;</td>
+<td>（语境）<strong>自动化测试</strong>作为 <strong>CI 过程的一部分</strong>执行，以<strong>确保质量</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/devops/what-is-devops#:%7E:text=Automated%20tests%20execute%20as%20part%20of%20the%20CI%20process">Microsoft, 2023, &quot;Continuous integration and continuous delivery (CI/CD)&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Continuous integration (CI)</strong><br>持续集成 (CI)</td>
+<td>&quot;Continuous Integration (CI) is the practice used by development teams to <strong>automate, merge, and test code</strong>.&quot;</td>
+<td>持续集成 (CI) 是开发团队用来<strong>自动化、合并和测试代码</strong>的做法。</td>
+<td><a href="https://learn.microsoft.com/en-us/devops/what-is-devops#:%7E:text=is%20the%20practice%20used%20by%20development%20teams%20to%20automate%2C%20merge%2C%20and%20test%20code">Microsoft, 2023, &quot;Continuous integration and continuous delivery (CI/CD)&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Repos</strong><br>Azure Repos</td>
+<td>&quot;Azure Repos is a <strong>set of version control tools</strong> that you can use to <strong>manage your code</strong>.&quot;</td>
+<td>Azure Repos 是一套<strong>版本控制工具</strong>，可用来<strong>管理你的代码</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops#:%7E:text=is%20a%20set%20of%20version%20control%20tools">Microsoft, 2026a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>GitHub</strong><br>GitHub</td>
+<td>&quot;GitHub is a <strong>platform</strong> that supports your <strong>entire software development process</strong>, from <strong>planning work to deploying and operating software</strong>.&quot;</td>
+<td>GitHub 是一个<strong>平台</strong>，支持你的<strong>整个软件开发过程</strong>，<strong>从规划工作到部署和运营软件</strong>。</td>
+<td><a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git#:%7E:text=is%20a%20platform%20that%20supports%20your%20entire%20software%20development%20process">GitHub, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Visual Studio</strong><br>Visual Studio</td>
+<td>&quot;Visual Studio is a powerful <strong>integrated development environment (IDE)</strong> for Windows where you can <strong>develop, build, debug, test, and deploy your apps</strong>, all in one place.&quot;</td>
+<td>Visual Studio 是一个功能强大的 Windows <strong>集成开发环境（IDE）</strong>，你可以在同一个地方<strong>开发、构建、调试、测试和部署你的应用</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=visualstudio#:%7E:text=is%20a%20powerful%20integrated%20development%20environment">Microsoft, 2026d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Visual Studio Code</strong><br>Visual Studio Code</td>
+<td>&quot;Visual Studio Code combines the <strong>simplicity of a source code editor</strong> with <strong>powerful developer tooling</strong>, like IntelliSense code completion and debugging.&quot;</td>
+<td>Visual Studio Code 把<strong>源代码编辑器的简洁</strong>和<strong>强大的开发者工具</strong>结合在一起，例如 IntelliSense 代码补全和调试。</td>
+<td><a href="https://code.visualstudio.com/docs/editor/whyvscode#:%7E:text=combines%20the%20simplicity%20of%20a%20source%20code%20editor">Microsoft, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft Dev Box</strong><br>Microsoft 开发箱</td>
+<td>&quot;Microsoft Dev Box gives developers <strong>self-service access</strong> to <strong>ready-to-code cloud workstations</strong> called dev boxes.&quot;</td>
+<td>Microsoft Dev Box 为开发人员提供<strong>自助访问</strong>，可以使用称为 dev box 的<strong>随时可编码的云工作站</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box#:%7E:text=gives%20developers%20self-service%20access%20to%20ready-to-code">Microsoft, 2026b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure DevTest Labs</strong><br>Azure 开发测试实验室</td>
+<td>&quot;Azure DevTest Labs is a service that enables developers and testers to <strong>quickly create and manage Azure virtual machines</strong> <strong>for development and testing</strong>.&quot;</td>
+<td>Azure 开发测试实验室是一项服务，让开发人员和测试人员可以<strong>快速创建和管理 Azure 虚拟机</strong>，<strong>用于开发和测试</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-overview#:%7E:text=enables%20developers%20and%20testers%20to%20quickly%20create%20and%20manage">Microsoft, 2025, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft Playwright Testing (Preview)</strong><br>Microsoft Playwright Testing（预览版）</td>
+<td>&quot;Playwright Workspaces is a <strong>fully managed cloud browser platform</strong> for <strong>testing applications</strong>, automating browser workflows, and powering AI agents through browser interactions.&quot;</td>
+<td>Playwright Workspaces 是一个<strong>完全托管的云浏览器平台</strong>，用于<strong>测试应用程序</strong>、自动化浏览器工作流，以及通过浏览器交互为 AI 智能体提供支持。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/app-testing/playwright-workspaces/overview-what-is-microsoft-playwright-workspaces#:%7E:text=is%20a%20fully%20managed%20cloud%20browser%20platform">Microsoft, 2026c, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>GitHub. (n.d.). <em>What is GitHub?</em> GitHub Docs. Retrieved October 27, 2026, from <a href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git">https://docs.github.com/en/get-started/start-your-journey/about-github-and-git</a></li>
+<li>Microsoft. (n.d.). <em>Why did we build Visual Studio Code?</em> Visual Studio Code. Retrieved October 27, 2026, from <a href="https://code.visualstudio.com/docs/editor/whyvscode">https://code.visualstudio.com/docs/editor/whyvscode</a></li>
+<li>Microsoft. (2022, November 28). <em>What is Git?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/devops/develop/git/what-is-git">https://learn.microsoft.com/en-us/devops/develop/git/what-is-git</a></li>
+<li>Microsoft. (2023, January 24). <em>What is DevOps?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/devops/what-is-devops">https://learn.microsoft.com/en-us/devops/what-is-devops</a></li>
+<li>Microsoft. (2025, May 30). <em>What is Azure DevTest Labs?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-overview">https://learn.microsoft.com/en-us/azure/devtest-labs/devtest-lab-overview</a></li>
+<li>Microsoft. (2026a, February 16). <em>What is Azure Repos?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops">https://learn.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops</a></li>
+<li>Microsoft. (2026b, March 21). <em>What is Microsoft Dev Box?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box">https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box</a></li>
+<li>Microsoft. (2026c, September 15). <em>What is Playwright Workspaces?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/app-testing/playwright-workspaces/overview-what-is-microsoft-playwright-workspaces">https://learn.microsoft.com/en-us/azure/app-testing/playwright-workspaces/overview-what-is-microsoft-playwright-workspaces</a></li>
+<li>Microsoft. (2026d, March 20). <em>What is Visual Studio?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=visualstudio">https://learn.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=visualstudio</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 14:59:50-04:00">10/27/2026 14:59:50</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

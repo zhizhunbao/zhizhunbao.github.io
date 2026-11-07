@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.3.2 Widget Roles | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="WAI-ARIA 1.2, 5.3.2 Widget Roles: button, checkbox, gridcell, link, menuitem, menuitemcheckbox, menuitemradio, option, progressbar, radio, scrollbar, searchbox, separator, slider, spinbutton, switch, tab, tabpanel, textbox, treeitem, combobox, grid, listbox, menu, menubar, radiogroup, tablist, tree, treegrid.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="532-widget-roles">5.3.2 Widget Roles</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/widget-roles.png" alt="5.3.2 Widget Roles: its 29 roles in the order of the specification."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5.3.2 Widget Roles</strong><br>控件角色</td>
+<td>&quot;The following roles act as <strong>standalone user interface widgets</strong> or as <strong>part of larger, composite widgets</strong>.&quot;</td>
+<td>下列角色充当<strong>独立的用户界面控件</strong>，或充当<strong>更大的复合控件的一部分</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 5.3.2</a></td>
+</tr>
+<tr>
+<td><strong>button</strong><br>按钮</td>
+<td>&quot;An input that allows for <strong>user-triggered actions</strong> when <strong>clicked or pressed</strong>.&quot;</td>
+<td>一种输入，在<strong>点击或按下</strong>时允许<strong>用户触发动作</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#button">World Wide Web Consortium, 2023, section 5.4, button</a></td>
+</tr>
+<tr>
+<td><strong>checkbox</strong><br>复选框</td>
+<td>&quot;A <strong>checkable input</strong> that has <strong>three possible values: true, false, or mixed</strong>.&quot;</td>
+<td>一种<strong>可勾选的输入</strong>，有<strong>三个可能的值：true、false 或 mixed</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#checkbox">World Wide Web Consortium, 2023, section 5.4, checkbox</a></td>
+</tr>
+<tr>
+<td><strong>gridcell</strong><br>网格单元格</td>
+<td>&quot;A <strong>cell in a grid or treegrid</strong>.&quot;</td>
+<td><strong>网格或树形网格中的单元格</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#gridcell">World Wide Web Consortium, 2023, section 5.4, gridcell</a></td>
+</tr>
+<tr>
+<td><strong>link</strong><br>链接</td>
+<td>&quot;An <strong>interactive reference to an internal or external resource</strong> that, when activated, causes the user agent to <strong>navigate to that resource</strong>.&quot;</td>
+<td><strong>指向内部或外部资源的交互式引用</strong>，被激活时使用户代理<strong>导航到该资源</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#link">World Wide Web Consortium, 2023, section 5.4, link</a></td>
+</tr>
+<tr>
+<td><strong>menuitem</strong><br>菜单项</td>
+<td>&quot;An <strong>option in a set of choices</strong> contained by a menu or menubar.&quot;</td>
+<td>菜单或菜单栏所含<strong>一组选项中的一个选项</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menuitem">World Wide Web Consortium, 2023, section 5.4, menuitem</a></td>
+</tr>
+<tr>
+<td><strong>menuitemcheckbox</strong><br>复选菜单项</td>
+<td>&quot;A menuitem with a <strong>checkable state</strong> whose possible values are <strong>true, false, or mixed</strong>.&quot;</td>
+<td>带有<strong>可勾选状态</strong>的菜单项，可能的值为 <strong>true、false 或 mixed</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menuitemcheckbox">World Wide Web Consortium, 2023, section 5.4, menuitemcheckbox</a></td>
+</tr>
+<tr>
+<td><strong>menuitemradio</strong><br>单选菜单项</td>
+<td>&quot;A <strong>checkable menuitem</strong> in a set of elements with the same role, <strong>only one of which can be checked at a time</strong>.&quot;</td>
+<td>同一角色的一组元素中的<strong>可勾选菜单项</strong>，<strong>同一时间只能选中其中一个</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menuitemradio">World Wide Web Consortium, 2023, section 5.4, menuitemradio</a></td>
+</tr>
+<tr>
+<td><strong>option</strong><br>选项</td>
+<td>&quot;A <strong>selectable item in a listbox</strong>.&quot;</td>
+<td><strong>列表框中可选择的项目</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#option">World Wide Web Consortium, 2023, section 5.4, option</a></td>
+</tr>
+<tr>
+<td><strong>progressbar</strong><br>进度条</td>
+<td>&quot;An element that <strong>displays the progress status</strong> for tasks that take a long time.&quot;</td>
+<td>为耗时较长的任务<strong>显示进度状态</strong>的元素。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#progressbar">World Wide Web Consortium, 2023, section 5.4, progressbar</a></td>
+</tr>
+<tr>
+<td><strong>radio</strong><br>单选按钮</td>
+<td>&quot;A <strong>checkable input</strong> in a group of elements with the same role, <strong>only one of which can be checked at a time</strong>.&quot;</td>
+<td>同一角色的一组元素中的<strong>可勾选输入</strong>，<strong>同一时间只能选中其中一个</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#radio">World Wide Web Consortium, 2023, section 5.4, radio</a></td>
+</tr>
+<tr>
+<td><strong>scrollbar</strong><br>滚动条</td>
+<td>&quot;A graphical object that <strong>controls the scrolling of content within a viewing area</strong>, regardless of whether the content is fully displayed within the viewing area.&quot;</td>
+<td><strong>控制内容在可视区域内滚动</strong>的图形对象，无论内容是否完整显示在可视区域内。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#scrollbar">World Wide Web Consortium, 2023, section 5.4, scrollbar</a></td>
+</tr>
+<tr>
+<td><strong>searchbox</strong><br>搜索框</td>
+<td>&quot;A <strong>type of textbox</strong> intended for <strong>specifying search criteria</strong>.&quot;</td>
+<td><strong>一种文本框</strong>，用于<strong>指定搜索条件</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#searchbox">World Wide Web Consortium, 2023, section 5.4, searchbox</a></td>
+</tr>
+<tr>
+<td><strong>separator (when focusable)</strong><br>分隔符</td>
+<td>&quot;A divider that <strong>separates and distinguishes sections of content or groups of menuitems</strong>.&quot;</td>
+<td>一种分隔线，<strong>分开并区分内容的各节或菜单项的各组</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#separator">World Wide Web Consortium, 2023, section 5.4, separator</a></td>
+</tr>
+<tr>
+<td><strong>slider</strong><br>滑块</td>
+<td>&quot;An input where the user <strong>selects a value from within a given range</strong>.&quot;</td>
+<td>一种输入，用户<strong>从给定范围内选择一个值</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#slider">World Wide Web Consortium, 2023, section 5.4, slider</a></td>
+</tr>
+<tr>
+<td><strong>spinbutton</strong><br>微调按钮</td>
+<td>&quot;A form of range that expects the user to <strong>select from among discrete choices</strong>.&quot;</td>
+<td>一种范围形式，期望用户<strong>从离散的选项中选择</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#spinbutton">World Wide Web Consortium, 2023, section 5.4, spinbutton</a></td>
+</tr>
+<tr>
+<td><strong>switch</strong><br>开关</td>
+<td>&quot;A type of checkbox that represents <strong>on/off values</strong>, as opposed to checked/unchecked values.&quot;</td>
+<td>一种复选框，表示<strong>开/关值</strong>，而不是选中/未选中值。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#switch">World Wide Web Consortium, 2023, section 5.4, switch</a></td>
+</tr>
+<tr>
+<td><strong>tab</strong><br>标签页</td>
+<td>&quot;A <strong>grouping label</strong> providing a mechanism for <strong>selecting the tab content</strong> that is to be rendered to the user.&quot;</td>
+<td>一种<strong>分组标签</strong>，提供<strong>选择标签页内容</strong>的机制，所选内容将呈现给用户。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#tab">World Wide Web Consortium, 2023, section 5.4, tab</a></td>
+</tr>
+<tr>
+<td><strong>tabpanel</strong><br>标签页面板</td>
+<td>&quot;A <strong>container for the resources associated with a tab</strong>, where each tab is contained in a tablist.&quot;</td>
+<td><strong>装着与某个标签页相关资源的容器</strong>，每个标签页都包含在标签页列表中。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#tabpanel">World Wide Web Consortium, 2023, section 5.4, tabpanel</a></td>
+</tr>
+<tr>
+<td><strong>textbox</strong><br>文本框</td>
+<td>&quot;A type of input that allows <strong>free-form text as its value</strong>.&quot;</td>
+<td>一种输入，允许<strong>自由格式的文本作为其值</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#textbox">World Wide Web Consortium, 2023, section 5.4, textbox</a></td>
+</tr>
+<tr>
+<td><strong>treeitem</strong><br>树项</td>
+<td>&quot;An <strong>option item of a tree</strong>.&quot;</td>
+<td><strong>树的选项项目</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#treeitem">World Wide Web Consortium, 2023, section 5.4, treeitem</a></td>
+</tr>
+<tr>
+<td><strong>combobox</strong><br>组合框</td>
+<td>&quot;An input that <strong>controls another element</strong>, such as a listbox or grid, that can <strong>dynamically pop up</strong> to help the user set the value of the input.&quot;</td>
+<td>一种输入，它<strong>控制另一个元素</strong>（如列表框或网格），该元素可以<strong>动态弹出</strong>以帮助用户设置输入的值。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#combobox">World Wide Web Consortium, 2023, section 5.4, combobox</a></td>
+</tr>
+<tr>
+<td><strong>grid</strong><br>网格</td>
+<td>&quot;A composite widget containing a <strong>collection of one or more rows with one or more cells</strong> where some or all cells in the grid are <strong>focusable by using methods of two-dimensional navigation</strong>, such as directional arrow keys.&quot;</td>
+<td>一种复合控件，包含<strong>一行或多行、每行一个或多个单元格的集合</strong>，其中部分或全部单元格<strong>可以通过二维导航方法聚焦</strong>，例如方向键。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#grid">World Wide Web Consortium, 2023, section 5.4, grid</a></td>
+</tr>
+<tr>
+<td><strong>listbox</strong><br>列表框</td>
+<td>&quot;A widget that allows the user to <strong>select one or more items from a list of choices</strong>.&quot;</td>
+<td>一种控件，允许用户<strong>从选项列表中选择一项或多项</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#listbox">World Wide Web Consortium, 2023, section 5.4, listbox</a></td>
+</tr>
+<tr>
+<td><strong>menu</strong><br>菜单</td>
+<td>&quot;A type of widget that <strong>offers a list of choices</strong> to the user.&quot;</td>
+<td>一种控件，向用户<strong>提供选项列表</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menu">World Wide Web Consortium, 2023, section 5.4, menu</a></td>
+</tr>
+<tr>
+<td><strong>menubar</strong><br>菜单栏</td>
+<td>&quot;A presentation of menu that <strong>usually remains visible</strong> and is <strong>usually presented horizontally</strong>.&quot;</td>
+<td>菜单的一种呈现形式，<strong>通常保持可见</strong>并<strong>通常水平呈现</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menubar">World Wide Web Consortium, 2023, section 5.4, menubar</a></td>
+</tr>
+<tr>
+<td><strong>radiogroup</strong><br>单选组</td>
+<td>&quot;A <strong>group of radio buttons</strong>.&quot;</td>
+<td><strong>一组单选按钮</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#radiogroup">World Wide Web Consortium, 2023, section 5.4, radiogroup</a></td>
+</tr>
+<tr>
+<td><strong>tablist</strong><br>标签页列表</td>
+<td>&quot;A <strong>list of tab elements</strong>, which are references to tabpanel elements.&quot;</td>
+<td><strong>tab 元素的列表</strong>，它们是对 tabpanel 元素的引用。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#tablist">World Wide Web Consortium, 2023, section 5.4, tablist</a></td>
+</tr>
+<tr>
+<td><strong>tree</strong><br>树</td>
+<td>&quot;A widget that allows the user to <strong>select one or more items from a hierarchically organized collection</strong>.&quot;</td>
+<td>一种控件，允许用户<strong>从按层次组织的集合中选择一项或多项</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#tree">World Wide Web Consortium, 2023, section 5.4, tree</a></td>
+</tr>
+<tr>
+<td><strong>treegrid</strong><br>树形网格</td>
+<td>&quot;A grid whose <strong>rows can be expanded and collapsed</strong> in the same manner as for a tree.&quot;</td>
+<td>一种网格，其<strong>行可以像树一样展开和折叠</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#treegrid">World Wide Web Consortium, 2023, section 5.4, treegrid</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>World Wide Web Consortium. (2023, June 6). <em>Accessible Rich Internet Applications (WAI-ARIA) 1.2</em> (W3C Recommendation). <a href="https://www.w3.org/TR/wai-aria-1.2/">https://www.w3.org/TR/wai-aria-1.2/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 11:46:57-05:00">11/03/2026 11:46:57</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

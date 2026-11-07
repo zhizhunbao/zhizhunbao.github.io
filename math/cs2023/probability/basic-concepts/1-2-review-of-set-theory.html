@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.2 Review of Set Theory | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="1.2 Review of Set Theory, part of 1 Basic Concepts: 21 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="12-review-of-set-theory">1.2 Review of Set Theory</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/1-2-review-of-set-theory.png" alt="1.2 Review of Set Theory: its 6 subsections, one group each listing the terms it defines (21 in all)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.2 Review of Set Theory</strong><br>集合论回顾</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_0_review_set_theory.php">Pishro-Nik, 2014, section 1.2</a></td>
+</tr>
+<tr>
+<td><strong>1.2.0 Review</strong><br>回顾</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_0_review_set_theory.php">Pishro-Nik, 2014, section 1.2.0</a></td>
+</tr>
+<tr>
+<td><strong>Subset</strong><br>子集</td>
+<td>&quot;Set <span class="math">\(A\)</span> is a <strong>subset</strong> of set <span class="math">\(B\)</span> if every element of <span class="math">\(A\)</span> is also an element of <span class="math">\(B\)</span>.&quot;</td>
+<td>若 <span class="math">\(A\)</span> 的每个元素也都是 <span class="math">\(B\)</span> 的元素，则称集合 <span class="math">\(A\)</span> 是集合 <span class="math">\(B\)</span> 的<strong>子集</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_0_review_set_theory.php#:%7E:text=Set%20is%20a%20subset%20of%20set">Pishro-Nik, 2014, section 1.2.0</a></td>
+</tr>
+<tr>
+<td><strong>Superset</strong><br>超集</td>
+<td>&quot;Equivalently, we say <span class="math">\(B\)</span> is a <strong>superset</strong> of <span class="math">\(A\)</span>, or <span class="math">\(B \supset A\)</span>.&quot;</td>
+<td>等价地，我们称 <span class="math">\(B\)</span> 是 <span class="math">\(A\)</span> 的<strong>超集</strong>，或写作 <span class="math">\(B \supset A\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_0_review_set_theory.php#:%7E:text=Equivalently%2C%20we%20say%20is%20a%20superset">Pishro-Nik, 2014, section 1.2.0</a></td>
+</tr>
+<tr>
+<td><strong>Null Set (Empty Set)</strong><br>空集</td>
+<td>&quot;The set with no elements, i.e., <span class="math">\(\emptyset=\{ \}\)</span> is the <strong>null set</strong> or the <strong>empty set</strong>.&quot;</td>
+<td>没有任何元素的集合，即 <span class="math">\(\emptyset=\{ \}\)</span>，称为<strong>零集</strong>或<strong>空集</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_0_review_set_theory.php#:%7E:text=The%20set%20with%20no%20elements%2C%20i.e.%2C">Pishro-Nik, 2014, section 1.2.0</a></td>
+</tr>
+<tr>
+<td><strong>Universal Set</strong><br>全集</td>
+<td>&quot;The <strong>universal set</strong> is the set of all things that we could possibly consider in the context we are studying.&quot;</td>
+<td><strong>全集</strong>是在我们所研究的情境中可能考虑的所有事物构成的集合。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_0_review_set_theory.php#:%7E:text=The%20universal%20set%20is%20the%20set">Pishro-Nik, 2014, section 1.2.0</a></td>
+</tr>
+<tr>
+<td><strong>1.2.1 Venn Diagrams</strong><br>维恩图</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_1_venn.php">Pishro-Nik, 2014, section 1.2.1</a></td>
+</tr>
+<tr>
+<td><strong>Venn Diagram</strong><br>韦恩图（Venn 图）</td>
+<td>&quot;<strong>Venn diagrams</strong> are very useful in visualizing relation between sets. In a Venn diagram any set is depicted by a closed region.&quot;</td>
+<td><strong>韦恩图</strong>非常适合直观表示集合之间的关系。在韦恩图中，任何集合都用一个封闭区域表示。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_1_venn.php#:%7E:text=Venn%20diagrams%20are%20very%20useful%20in">Pishro-Nik, 2014, section 1.2.1</a></td>
+</tr>
+<tr>
+<td><strong>1.2.2 Set Operations</strong><br>集合运算</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>De Morgan's Law</strong><br>德摩根律</td>
+<td>&quot;<strong>De Morgan's law</strong> For any sets <span class="math">\(A_1\)</span>, <span class="math">\(A_2\)</span>, <span class="math">\(\cdots\)</span>, <span class="math">\(A_n\)</span>, we have <span class="math">\((A_1 \cup A_2 \cup A_3 \cup \cdots A_n)^c=A_1^c \cap A_2^c \cap A_3^c\cdots \cap A_n^c\)</span>; <span class="math">\((A_1 \cap A_2 \cap A_3 \cap \cdots A_n)^c=A_1^c \cup A_2^c \cup A_3^c\cdots \cup A_n^c\)</span>.&quot;</td>
+<td><strong>德摩根律</strong>　对任意集合 <span class="math">\(A_1\)</span>、<span class="math">\(A_2\)</span>、<span class="math">\(\cdots\)</span>、<span class="math">\(A_n\)</span>，有 <span class="math">\((A_1 \cup A_2 \cup A_3 \cup \cdots A_n)^c=A_1^c \cap A_2^c \cap A_3^c\cdots \cap A_n^c\)</span>；<span class="math">\((A_1 \cap A_2 \cap A_3 \cap \cdots A_n)^c=A_1^c \cup A_2^c \cup A_3^c\cdots \cup A_n^c\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=De%20Morgan%27s%20law%20For%20any%20sets">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>Union</strong><br>并集</td>
+<td>&quot;The <strong>union</strong> of two sets is a set containing all elements that are in <span class="math">\(A\)</span> or in <span class="math">\(B\)</span> (possibly both).&quot;</td>
+<td>两个集合的<strong>并集</strong>是包含所有属于 <span class="math">\(A\)</span> 或属于 <span class="math">\(B\)</span>（可以两者都属于）的元素的集合。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=The%20union%20of%20two%20sets%20is">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>Intersection</strong><br>交集</td>
+<td>&quot;The <strong>intersection</strong> of two sets <span class="math">\(A\)</span> and <span class="math">\(B\)</span>, denoted by <span class="math">\(A \cap B\)</span>, consists of all elements that are both in <span class="math">\(A\)</span> <span class="math">\(\underline{\textrm{and}}\)</span> <span class="math">\(B\)</span>.&quot;</td>
+<td>集合 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> 的<strong>交集</strong>记作 <span class="math">\(A \cap B\)</span>，由既属于 <span class="math">\(A\)</span> 又属于 <span class="math">\(B\)</span> 的所有元素组成。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=The%20intersection%20of%20two%20sets%20and">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>Complement</strong><br>补集</td>
+<td>&quot;The <strong>complement</strong> of a set <span class="math">\(A\)</span>, denoted by <span class="math">\(A^c\)</span> or <span class="math">\(\bar{A}\)</span>, is the set of all elements that are in the universal set <span class="math">\(S\)</span> but are not in <span class="math">\(A\)</span>.&quot;</td>
+<td>集合 <span class="math">\(A\)</span> 的<strong>补集</strong>记作 <span class="math">\(A^c\)</span> 或 <span class="math">\(\bar{A}\)</span>，是全集 <span class="math">\(S\)</span> 中不属于 <span class="math">\(A\)</span> 的所有元素构成的集合。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=The%20complement%20of%20a%20set%20%2C">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>Difference (Subtraction)</strong><br>差集</td>
+<td>&quot;The <strong>difference (subtraction)</strong> is defined as follows. The set <span class="math">\(A-B\)</span> consists of elements that are in <span class="math">\(A\)</span> but not in <span class="math">\(B\)</span>.&quot;</td>
+<td><strong>差集</strong>（减法）定义如下。集合 <span class="math">\(A-B\)</span> 由属于 <span class="math">\(A\)</span> 但不属于 <span class="math">\(B\)</span> 的元素组成。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=The%20difference%20%28subtraction%29%20is%20defined%20as">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>Mutually Exclusive (Disjoint) Sets</strong><br>互斥集合（不相交集合）</td>
+<td>&quot;Two sets <span class="math">\(A\)</span> and <span class="math">\(B\)</span> are <strong>mutually exclusive</strong> or <strong>disjoint</strong> if they do not have any shared elements; i.e., their intersection is the empty set, <span class="math">\(A \cap B=\emptyset\)</span>.&quot;</td>
+<td>若两个集合 <span class="math">\(A\)</span> 和 <span class="math">\(B\)</span> 没有任何公共元素，即它们的交集为空集 <span class="math">\(A \cap B=\emptyset\)</span>，则称它们<strong>互斥</strong>或<strong>不相交</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=Two%20sets%20and%20are%20mutually%20exclusive">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>Partition</strong><br>划分</td>
+<td>&quot;In general, a collection of nonempty sets <span class="math">\(A_1, A_2,\cdots\)</span> is a <strong>partition</strong> of a set <span class="math">\(A\)</span> if they are disjoint and their union is <span class="math">\(A\)</span>.&quot;</td>
+<td>一般地，若一族非空集合 <span class="math">\(A_1, A_2,\cdots\)</span> 互不相交且它们的并集为 <span class="math">\(A\)</span>，则称其为集合 <span class="math">\(A\)</span> 的一个<strong>划分</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=In%20general%2C%20a%20collection%20of%20nonempty">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>Distributive Law</strong><br>分配律</td>
+<td>&quot;<strong>Distributive law</strong> For any sets <span class="math">\(A\)</span>, <span class="math">\(B\)</span>, and <span class="math">\(C\)</span> we have <span class="math">\(A \cap (B \cup C)=(A \cap B) \cup (A\cap C)\)</span>; <span class="math">\(A \cup (B \cap C)=(A \cup B) \cap (A\cup C)\)</span>.&quot;</td>
+<td><strong>分配律</strong>　对任意集合 <span class="math">\(A\)</span>、<span class="math">\(B\)</span> 和 <span class="math">\(C\)</span>，有 <span class="math">\(A \cap (B \cup C)=(A \cap B) \cup (A\cap C)\)</span>；<span class="math">\(A \cup (B \cap C)=(A \cup B) \cap (A\cup C)\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=Distributive%20law%20For%20any%20sets%20%2C">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>Cartesian Product</strong><br>笛卡尔积</td>
+<td>&quot;A <strong>Cartesian product</strong> of two sets <span class="math">\(A\)</span> and <span class="math">\(B\)</span>, written as <span class="math">\(A\times B\)</span>, is the set containing <strong>ordered pairs</strong> from <span class="math">\(A\)</span> and <span class="math">\(B\)</span>.&quot;</td>
+<td>集合 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> 的<strong>笛卡尔积</strong>记作 <span class="math">\(A\times B\)</span>，是由来自 <span class="math">\(A\)</span> 和 <span class="math">\(B\)</span> 的<strong>有序对</strong>构成的集合。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=A%20Cartesian%20product%20of%20two%20sets">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>Multiplication Principle</strong><br>乘法原理</td>
+<td>&quot;If you have two finite sets <span class="math">\(A\)</span> and <span class="math">\(B\)</span>, where <span class="math">\(A\)</span> has <span class="math">\(M\)</span> elements and <span class="math">\(B\)</span> has <span class="math">\(N\)</span> elements, then <span class="math">\(A \times B\)</span> has <span class="math">\(M \times N\)</span> elements. This rule is called the <strong>multiplication principle</strong> and is very useful in counting the numbers of elements in sets.&quot;</td>
+<td>若有两个有限集合 <span class="math">\(A\)</span> 和 <span class="math">\(B\)</span>，其中 <span class="math">\(A\)</span> 有 <span class="math">\(M\)</span> 个元素，<span class="math">\(B\)</span> 有 <span class="math">\(N\)</span> 个元素，则 <span class="math">\(A \times B\)</span> 有 <span class="math">\(M \times N\)</span> 个元素。这一规则称为<strong>乘法原理</strong>，在计算集合的元素个数时非常有用。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_2_set_operations.php#:%7E:text=If%20you%20have%20two%20finite%20sets">Pishro-Nik, 2014, section 1.2.2</a></td>
+</tr>
+<tr>
+<td><strong>1.2.3 Cardinality</strong><br>基数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_3_cardinality.php">Pishro-Nik, 2014, section 1.2.3</a></td>
+</tr>
+<tr>
+<td><strong>Countable and Uncountable Sets</strong><br>可数集与不可数集</td>
+<td>&quot;Set <span class="math">\(A\)</span> is called <strong>countable</strong> if one of the following is true if it is a finite set, <span class="math">\(\mid A \mid &lt; \infty\)</span>; or it can be put in one-to-one correspondence with natural numbers <span class="math">\(\mathbb{N}\)</span>, in which case the set is said to be countably infinite. A set is called <strong>uncountable</strong> if it is not countable.&quot;</td>
+<td>若满足下列条件之一，则称集合 <span class="math">\(A\)</span> <strong>可数</strong>：它是有限集，<span class="math">\(\mid A \mid &lt; \infty\)</span>；或者它可与自然数集 <span class="math">\(\mathbb{N}\)</span> 建立一一对应，此时称该集合为可数无限集。若集合不可数，则称其为<strong>不可数</strong>集。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_3_cardinality.php#:%7E:text=Set%20is%20called%20countable%20if%20one">Pishro-Nik, 2014, section 1.2.3</a></td>
+</tr>
+<tr>
+<td><strong>Cardinality</strong><br>基数</td>
+<td>&quot;Here we need to talk about <strong>cardinality</strong> of a set, which is basically the size of the set. The cardinality of a set is denoted by <span class="math">\(\vert A\vert\)</span>.&quot;</td>
+<td>这里需要谈谈集合的<strong>基数</strong>，它基本上就是集合的大小。集合的基数记作 <span class="math">\(\vert A\vert\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_3_cardinality.php#:%7E:text=Here%20we%20need%20to%20talk%20about">Pishro-Nik, 2014, section 1.2.3</a></td>
+</tr>
+<tr>
+<td><strong>Inclusion-Exclusion Principle</strong><br>容斥原理</td>
+<td>&quot;Before discussing infinite sets, which is the main discussion of this section, we would like to talk about a very useful rule: the <strong>inclusion-exclusion principle</strong>. For two finite sets <span class="math">\(A\)</span> and <span class="math">\(B\)</span>, we have <span class="math">\(\vert A \cup B \vert =\vert A\vert +\vert B\vert -\vert A \cap B\vert .\)</span>&quot;</td>
+<td>在讨论无限集（这是本节的主要内容）之前，我们先谈一条非常有用的规则：<strong>容斥原理</strong>。对于两个有限集合 <span class="math">\(A\)</span> 和 <span class="math">\(B\)</span>，有 <span class="math">\(\vert A \cup B \vert =\vert A\vert +\vert B\vert -\vert A \cap B\vert .\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_3_cardinality.php#:%7E:text=Before%20discussing%20infinite%20sets%2C%20which%20is">Pishro-Nik, 2014, section 1.2.3</a></td>
+</tr>
+<tr>
+<td><strong>1.2.4 Functions</strong><br>函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_4_functions.php">Pishro-Nik, 2014, section 1.2.4</a></td>
+</tr>
+<tr>
+<td><strong>Domain</strong><br>定义域</td>
+<td>&quot;A function <span class="math">\(f\)</span> is a rule that takes an input from a specific set, called the <strong>domain</strong>, and produces an output from another set, called co-domain.&quot;</td>
+<td>函数 <span class="math">\(f\)</span> 是一条规则，它从某个特定集合（称为<strong>定义域</strong>）中取一个输入，并在另一个集合（称为陪域）中产生一个输出。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_4_functions.php#:%7E:text=A%20function%20is%20a%20rule%20that">Pishro-Nik, 2014, section 1.2.4</a></td>
+</tr>
+<tr>
+<td><strong>Co-domain</strong><br>陪域</td>
+<td>&quot;A function <span class="math">\(f\)</span> is a rule that takes an input from a specific set, called the domain, and produces an output from another set, called <strong>co-domain</strong>.&quot;</td>
+<td>函数 <span class="math">\(f\)</span> 是一条规则，它从某个特定集合（称为定义域）中取一个输入，并在另一个集合（称为<strong>陪域</strong>）中产生一个输出。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_4_functions.php#:%7E:text=A%20function%20is%20a%20rule%20that">Pishro-Nik, 2014, section 1.2.4</a></td>
+</tr>
+<tr>
+<td><strong>Range of a Function</strong><br>值域</td>
+<td>&quot;We define the <strong>range</strong> of a function as the set containing all the possible values of <span class="math">\(f(x)\)</span>. Thus, the range of a function is always a subset of its co-domain.&quot;</td>
+<td>我们将函数的<strong>值域</strong>定义为包含 <span class="math">\(f(x)\)</span> 所有可能取值的集合。因此，函数的值域总是其陪域的子集。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_4_functions.php#:%7E:text=We%20define%20the%20range%20of%20a">Pishro-Nik, 2014, section 1.2.4</a></td>
+</tr>
+<tr>
+<td><strong>1.2.5 Solved Problems</strong><br>例题详解</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_2_5_solved1.php">Pishro-Nik, 2014, section 1.2.5</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Pishro-Nik, H. (2014). <em>Introduction to probability, statistics, and random processes</em>. Kappa Research. Retrieved October 28, 2026, from <a href="https://www.probabilitycourse.com/">https://www.probabilitycourse.com/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-28">10/28/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

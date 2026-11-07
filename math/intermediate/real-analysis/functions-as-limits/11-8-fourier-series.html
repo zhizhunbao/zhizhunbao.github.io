@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>11.8 Fourier series | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="11.8 Fourier series, part of 11 Functions as Limits in Real Analysis: 11 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="118-fourier-series">11.8 Fourier series</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/11-8-fourier-series.png" alt="11.8 Fourier series: its 11 terms, in 11 Functions as Limits."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>11.8 Fourier series</strong><br>傅里叶级数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html">Lebl, 2026, section 11.8</a></td>
+</tr>
+<tr>
+<td><strong>Trigonometric Polynomial</strong><br>三角多项式</td>
+<td>&quot;A <strong>trigonometric polynomial</strong> is <strong>an expression of the form <span class="math">\(a_0 + \sum_{n=1}^N \bigl(a_n \cos(nx) + b_n \sin(nx) \bigr)\)</span></strong>, or equivalently, thanks to Euler’s formula (<span class="math">\(e^{i\theta} = \cos(\theta) + i \sin(\theta)\)</span>): <span class="math">\(\sum_{n=-N}^N c_n e^{inx}\)</span>.&quot;</td>
+<td><strong>三角多项式</strong>是<strong>形如 <span class="math">\(a_0 + \sum_{n=1}^N \bigl(a_n \cos(nx) + b_n \sin(nx) \bigr)\)</span> 的表达式</strong>，借助欧拉公式（<span class="math">\(e^{i\theta} = \cos(\theta) + i \sin(\theta)\)</span>），等价地写成 <span class="math">\(\sum_{n=-N}^N c_n e^{inx}\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-3-2">Lebl, 2026, section 11.8</a></td>
+</tr>
+<tr>
+<td><strong>Fourier Series</strong><br>傅里叶级数</td>
+<td>&quot;We now take limits. The series <strong><span class="math">\(\sum_{n=-\infty}^\infty c_n \, e^{inx}\)</span></strong> is called the <strong>Fourier series</strong> and the numbers <span class="math">\(c_n\)</span> the Fourier coefficients.&quot;</td>
+<td>现在取极限。级数 <strong><span class="math">\(\sum_{n=-\infty}^\infty c_n \, e^{inx}\)</span></strong> 称为<strong>傅里叶级数</strong>，数 <span class="math">\(c_n\)</span> 称为傅里叶系数。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-4-2">Lebl, 2026, section 11.8</a></td>
+</tr>
+<tr>
+<td><strong>Fourier Coefficients</strong><br>傅里叶系数</td>
+<td>&quot;The series <span class="math">\(\sum_{n=-\infty}^\infty c_n \, e^{inx}\)</span> is called the Fourier series and <strong>the numbers <span class="math">\(c_n\)</span></strong> the <strong>Fourier coefficients</strong>.&quot;</td>
+<td>级数 <span class="math">\(\sum_{n=-\infty}^\infty c_n \, e^{inx}\)</span> 称为傅里叶级数，<strong>数 <span class="math">\(c_n\)</span></strong> 称为<strong>傅里叶系数</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-4-2">Lebl, 2026, section 11.8</a></td>
+</tr>
+<tr>
+<td><strong>Symmetric Partial Sums</strong><br>对称部分和</td>
+<td>&quot;In light of this, define the <strong>symmetric partial sums</strong> <strong><span class="math">\(s_N(f;x) := \sum_{n=-N}^N c_n \,e^{inx}\)</span></strong>.&quot;</td>
+<td>据此，定义<strong>对称部分和</strong> <strong><span class="math">\(s_N(f;x) := \sum_{n=-N}^N c_n \,e^{inx}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-4-3">Lebl, 2026, section 11.8</a></td>
+</tr>
+<tr>
+<td><strong>Inner Product</strong><br>内积</td>
+<td>&quot;Let <span class="math">\(f\)</span> and <span class="math">\(g\)</span> be complex-valued Riemann integrable functions on <span class="math">\([a,b]\)</span> and define the <strong>inner product</strong> <strong><span class="math">\(\langle f , g \rangle := \int_a^b f(x) \overline{g(x)} \, dx\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(f\)</span> 与 <span class="math">\(g\)</span> 是 <span class="math">\([a,b]\)</span> 上黎曼可积的复值函数，定义<strong>内积</strong> <strong><span class="math">\(\langle f , g \rangle := \int_a^b f(x) \overline{g(x)} \, dx\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-5-2">Lebl, 2026, section 11.8</a></td>
+</tr>
+<tr>
+<td><strong>Orthonormal System</strong><br>规范正交系</td>
+<td>&quot;Let <span class="math">\(\{ \varphi_n \}_{n=1}^\infty\)</span> be a sequence of integrable complex-valued functions on <span class="math">\([a,b]\)</span>. We say that this is an <strong>orthonormal system</strong> if <strong><span class="math">\(\langle \varphi_n , \varphi_m \rangle = \int_a^b \varphi_n(x) \, \overline{\varphi_m(x)} \, dx = \begin{cases} 1 &amp; \text{if } n=m, \\ 0 &amp; \text{otherwise.} \end{cases}\)</span></strong>&quot;</td>
+<td>设 <span class="math">\(\{ \varphi_n \}_{n=1}^\infty\)</span> 是 <span class="math">\([a,b]\)</span> 上可积复值函数的序列。若 <strong><span class="math">\(\langle \varphi_n , \varphi_m \rangle = \int_a^b \varphi_n(x) \, \overline{\varphi_m(x)} \, dx = \begin{cases} 1 &amp; \text{if } n=m, \\ 0 &amp; \text{otherwise.} \end{cases}\)</span></strong>，则称它是<strong>规范正交系</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-5-5">Lebl, 2026, Definition 11.8.7</a></td>
+</tr>
+<tr>
+<td><strong>Orthogonal System</strong><br>正交系</td>
+<td>&quot;If we only require that <strong><span class="math">\(\langle \varphi_n , \varphi_m \rangle = 0\)</span> for <span class="math">\(m \neq n\)</span></strong>, then the system would be called an <strong>orthogonal system</strong>.&quot;</td>
+<td>若只要求<strong>当 <span class="math">\(m \neq n\)</span> 时 <span class="math">\(\langle \varphi_n , \varphi_m \rangle = 0\)</span></strong>，则该函数系称为<strong>正交系</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-5-5">Lebl, 2026, Definition 11.8.7</a></td>
+</tr>
+<tr>
+<td><strong>Bessel’s Inequality</strong><br>贝塞尔不等式</td>
+<td>&quot;Suppose <span class="math">\(f\)</span> is a Riemann integrable function on <span class="math">\([a,b]\)</span>. Let <span class="math">\(\{ \varphi_n \}_{n=1}^\infty\)</span> be an orthonormal system on <span class="math">\([a,b]\)</span> and suppose <span class="math">\(f(x) \sim \sum_{n=1}^\infty c_n \varphi_n(x)\)</span>. Then <strong><span class="math">\(\sum_{n=1}^\infty \lvert c_n \rvert^2 \leq \int_a^b \lvert f \rvert^2 = \lVert f \rVert_2^2\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(f\)</span> 是 <span class="math">\([a,b]\)</span> 上的黎曼可积函数，<span class="math">\(\{ \varphi_n \}_{n=1}^\infty\)</span> 是 <span class="math">\([a,b]\)</span> 上的规范正交系，且 <span class="math">\(f(x) \sim \sum_{n=1}^\infty c_n \varphi_n(x)\)</span>，则 <strong><span class="math">\(\sum_{n=1}^\infty \lvert c_n \rvert^2 \leq \int_a^b \lvert f \rvert^2 = \lVert f \rVert_2^2\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#thm_bessels">Lebl, 2026, Theorem 11.8.9</a></td>
+</tr>
+<tr>
+<td><strong>Dirichlet Kernel</strong><br>狄利克雷核</td>
+<td>&quot;Let the <strong>Dirichlet kernel</strong> be <strong><span class="math">\(D_N(x) := \sum_{n=-N}^N e^{inx}\)</span></strong>.&quot;</td>
+<td>令<strong>狄利克雷核</strong>为 <strong><span class="math">\(D_N(x) := \sum_{n=-N}^N e^{inx}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-6-4">Lebl, 2026, section 11.8</a></td>
+</tr>
+<tr>
+<td><strong>Piecewise Smooth</strong><br>分段光滑</td>
+<td>&quot;A function <span class="math">\(f \colon [a,b] \to \mathbb{C}\)</span> is continuous <strong>piecewise smooth</strong> if it is continuous and <strong>there exist points <span class="math">\(x_0 = a &lt; x_1 &lt; x_2 &lt; \cdots &lt; x_k = b\)</span> such that for every <span class="math">\(j\)</span>, <span class="math">\(f\)</span> restricted to <span class="math">\([x_j,x_{j+1}]\)</span> is continuously differentiable (up to the endpoints)</strong>.&quot;</td>
+<td>若函数 <span class="math">\(f \colon [a,b] \to \mathbb{C}\)</span> 连续，且<strong>存在点 <span class="math">\(x_0 = a &lt; x_1 &lt; x_2 &lt; \cdots &lt; x_k = b\)</span>，使得对每个 <span class="math">\(j\)</span>，<span class="math">\(f\)</span> 在 <span class="math">\([x_j,x_{j+1}]\)</span> 上的限制（直到端点）连续可微</strong>，则称 <span class="math">\(f\)</span> 是连续<strong>分段光滑</strong>的。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-7-4">Lebl, 2026, section 11.8</a></td>
+</tr>
+<tr>
+<td><strong>Parseval’s Theorem</strong><br>帕塞瓦尔定理</td>
+<td>&quot;Let <span class="math">\(f\)</span> and <span class="math">\(g\)</span> be <span class="math">\(2\pi\)</span>-periodic functions, Riemann integrable on <span class="math">\([-\pi,\pi]\)</span> with <span class="math">\(f(x) \sim \sum_{n=-\infty}^\infty c_n \,e^{inx}\)</span> and <span class="math">\(g(x) \sim \sum_{n=-\infty}^\infty d_n \,e^{inx}\)</span>. Then <strong><span class="math">\(\lim_{N\to\infty} \bigl\lVert f-s_N(f) \bigr\rVert_2^2 = 0\)</span></strong>. Also <strong><span class="math">\(\langle f , g \rangle = \sum_{n=-\infty}^\infty c_n \overline{d_n}\)</span></strong>, and <strong><span class="math">\(\lVert f \rVert_2^2 = \sum_{n=-\infty}^\infty \lvert c_n \rvert^2\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(f\)</span> 与 <span class="math">\(g\)</span> 是以 <span class="math">\(2\pi\)</span> 为周期、在 <span class="math">\([-\pi,\pi]\)</span> 上黎曼可积的函数，<span class="math">\(f(x) \sim \sum_{n=-\infty}^\infty c_n \,e^{inx}\)</span>，<span class="math">\(g(x) \sim \sum_{n=-\infty}^\infty d_n \,e^{inx}\)</span>，则 <strong><span class="math">\(\lim_{N\to\infty} \bigl\lVert f-s_N(f) \bigr\rVert_2^2 = 0\)</span></strong>；并且 <strong><span class="math">\(\langle f , g \rangle = \sum_{n=-\infty}^\infty c_n \overline{d_n}\)</span></strong>，<strong><span class="math">\(\lVert f \rVert_2^2 = \sum_{n=-\infty}^\infty \lvert c_n \rvert^2\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_fourier.html#sec_fourier-8-3">Lebl, 2026, Theorem 11.8.13</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Lebl, J. (2026). <em>Basic analysis I &amp; II: Introduction to real analysis</em> (May 22, 2026 edition). Retrieved October 29, 2026, from <a href="https://www.jirka.org/ra/html/">https://www.jirka.org/ra/html/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 11:58:07-04:00">10/31/2026 11:58:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

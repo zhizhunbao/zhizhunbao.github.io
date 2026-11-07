@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>7.1 Detection of ArUco Markers | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="OpenCV, 7.1 Detection of ArUco Markers: Markers and Dictionaries, Marker Creation, Marker Detection, Pose Estimation, Selecting a dictionary, Detector Parameters.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="71-detection-of-aruco-markers">7.1 Detection of ArUco Markers</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/detection-of-aruco-markers.png" alt="7.1 Detection of ArUco Markers: its parts from the official menu, each with the entries the menu lists under it, in OpenCV."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>7.1 Detection of ArUco Markers</strong><br>ArUco 标记检测</td>
+<td>(context) &quot;One of the most popular approaches is the use of <strong>binary square fiducial markers</strong>.&quot;</td>
+<td>（语境）最常用的方法之一是使用<strong>二进制方形基准标记</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html">OpenCV team, n.d., &quot;Detection of ArUco Markers&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Markers and Dictionaries</strong><br>标记与字典</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1088">OpenCV team, n.d., &quot;Markers and Dictionaries&quot;</a></td>
+</tr>
+<tr>
+<td><strong>ArUco marker</strong><br>ArUco 标记</td>
+<td>&quot;An ArUco marker is <strong>a synthetic square marker composed by a wide black border and an inner binary matrix which determines its identifier (id)</strong>.&quot;</td>
+<td>ArUco 标记是<strong>一种人工合成的方形标记，由宽的黑色边框和决定其标识符（id）的内部二进制矩阵组成</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1088">OpenCV team, n.d., &quot;Markers and Dictionaries&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>dictionary of markers</strong><br>标记字典</td>
+<td>&quot;A dictionary of markers is <strong>the set of markers that are considered in a specific application</strong>.&quot;</td>
+<td>标记字典是<strong>某个具体应用中所考虑的标记集合</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1088">OpenCV team, n.d., &quot;Markers and Dictionaries&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>dictionary size</strong><br>字典大小</td>
+<td>&quot;The dictionary size is <strong>the number of markers that compose the dictionary</strong>.&quot;</td>
+<td>字典大小是<strong>组成字典的标记数量</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1088">OpenCV team, n.d., &quot;Markers and Dictionaries&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>marker size</strong><br>标记尺寸</td>
+<td>&quot;The marker size is <strong>the size of those markers (the number of bits/modules)</strong>.&quot;</td>
+<td>标记尺寸是<strong>这些标记的大小（位数/模块数）</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1088">OpenCV team, n.d., &quot;Markers and Dictionaries&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>marker id</strong><br>标记 id</td>
+<td>&quot;Instead, a marker id is <strong>simply the marker index within the dictionary it belongs to</strong>.&quot;</td>
+<td>实际上，标记 id <strong>只是该标记在其所属字典中的索引</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1088">OpenCV team, n.d., &quot;Markers and Dictionaries&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Marker Creation</strong><br>标记生成</td>
+<td>(context) &quot;Before their detection, markers need to be <strong>printed in order to be placed in the environment</strong>.&quot;</td>
+<td>（语境）在检测之前，标记需要<strong>打印出来以便放置在环境中</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1089">OpenCV team, n.d., &quot;Marker Creation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Marker Detection</strong><br>标记检测</td>
+<td>&quot;Given an image containing ArUco markers, <strong>the detection process has to return a list of detected markers</strong>.&quot;</td>
+<td>给定一幅包含 ArUco 标记的图像，<strong>检测过程要返回检测到的标记列表</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1090">OpenCV team, n.d., &quot;Marker Detection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Detection of marker candidates</strong><br>候选标记检测</td>
+<td>&quot;Detection of marker candidates. In this step <strong>the image is analyzed in order to find square shapes that are candidates to be markers</strong>.&quot;</td>
+<td>候选标记检测。在这一步中，<strong>分析图像，寻找可能是标记的方形</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1090">OpenCV team, n.d., &quot;Marker Detection&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>ArucoDetector</strong><br>ArucoDetector 类</td>
+<td>(context) &quot;When you create an cv::aruco::ArucoDetector object, <strong>you need to pass the following parameters to the constructor</strong>:&quot;</td>
+<td>（语境）创建 cv::aruco::ArucoDetector 对象时，<strong>需要向构造函数传入以下参数</strong>：</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1090">OpenCV team, n.d., &quot;Marker Detection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ArucoDetector::detectMarkers()</strong><br>detectMarkers 方法</td>
+<td>(context) &quot;In the aruco module, the detection is performed in the cv::aruco::ArucoDetector::detectMarkers() function. This function is <strong>the most important in the module</strong>, since all the rest of the functionality is based on the detected markers returned by cv::aruco::ArucoDetector::detectMarkers().&quot;</td>
+<td>（语境）在 aruco 模块中，检测由 cv::aruco::ArucoDetector::detectMarkers() 函数完成。这个函数是<strong>该模块中最重要的</strong>，因为其余所有功能都基于它返回的检测结果。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1090">OpenCV team, n.d., &quot;Marker Detection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Pose Estimation</strong><br>位姿估计</td>
+<td>&quot;The camera pose relative to the marker is <strong>a 3d transformation from the marker coordinate system to the camera coordinate system</strong>.&quot;</td>
+<td>相机相对于标记的位姿是<strong>从标记坐标系到相机坐标系的三维变换</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1091">OpenCV team, n.d., &quot;Pose Estimation&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Selecting a dictionary</strong><br>选择字典</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1092">OpenCV team, n.d., &quot;Selecting a dictionary&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Dictionary</strong><br>Dictionary 类</td>
+<td>&quot;The aruco module provides the Dictionary class <strong>to represent a dictionary of markers</strong>.&quot;</td>
+<td>aruco 模块提供 Dictionary 类<strong>来表示一个标记字典</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1092">OpenCV team, n.d., &quot;Selecting a dictionary&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Dictionary::getByteListFromBits()</strong><br>getByteListFromBits 静态方法</td>
+<td>&quot;Fortunately, <strong>a marker can be easily transformed to this form</strong> using the static method Dictionary::getByteListFromBits().&quot;</td>
+<td>幸好，用静态方法 Dictionary::getByteListFromBits() <strong>可以很容易地把标记转换成这种形式</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1095">OpenCV team, n.d., &quot;Manual dictionary definition&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>inter-marker distance</strong><br>标记间距离</td>
+<td>&quot;The inter-marker distance is <strong>the minimum Hamming distance between dictionary markers that determines the dictionary's ability to detect and correct errors</strong>.&quot;</td>
+<td>标记间距离是<strong>字典中各标记之间的最小汉明距离，它决定字典检测和纠正错误的能力</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1092">OpenCV team, n.d., &quot;Selecting a dictionary&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Predefined dictionaries</strong><br>预定义字典</td>
+<td>&quot;The aruco module includes <strong>a set of predefined dictionaries in a variety of marker sizes and number of markers</strong>.&quot;</td>
+<td>aruco 模块包含<strong>一组标记尺寸和标记数量各不相同的预定义字典</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1093">OpenCV team, n.d., &quot;Predefined dictionaries&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>DICT_6X6_250</strong><br>DICT_6X6_250 字典</td>
+<td>&quot;cv::aruco::DICT_6X6_250 is <strong>an example of predefined dictionary of markers with 6x6 bits and a total of 250 markers</strong>.&quot;</td>
+<td>cv::aruco::DICT_6X6_250 是<strong>一个预定义字典的例子，标记为 6×6 位，共 250 个标记</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1093">OpenCV team, n.d., &quot;Predefined dictionaries&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Automatic dictionary generation</strong><br>自动生成字典</td>
+<td>&quot;A dictionary can be <strong>generated automatically to adjust the desired number of markers and bits to optimize the inter-marker distance</strong>:&quot;</td>
+<td>字典可以<strong>自动生成，按所需的标记数量和位数进行调整，以优化标记间距离</strong>：</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1094">OpenCV team, n.d., &quot;Automatic dictionary generation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Manual dictionary definition</strong><br>手动定义字典</td>
+<td>&quot;Finally, <strong>the dictionary can be configured manually, so that any encoding can be used</strong>.&quot;</td>
+<td>最后，<strong>字典可以手动配置，从而可以使用任意编码</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1095">OpenCV team, n.d., &quot;Manual dictionary definition&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Detector Parameters</strong><br>检测器参数</td>
+<td>&quot;One of the parameters of cv::aruco::ArucoDetector is a cv::aruco::DetectorParameters object. This object <strong>includes all the options that can be customized during the marker detection process</strong>.&quot;</td>
+<td>cv::aruco::ArucoDetector 的参数之一是一个 cv::aruco::DetectorParameters 对象。这个对象<strong>包含标记检测过程中所有可以自定义的选项</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1096">OpenCV team, n.d., &quot;Detector Parameters&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Thresholding</strong><br>阈值化</td>
+<td>&quot;One of the first steps in the marker detection process is <strong>adaptive thresholding of the input image</strong>.&quot;</td>
+<td>标记检测过程的最初步骤之一是<strong>对输入图像做自适应阈值化</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1097">OpenCV team, n.d., &quot;Thresholding&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contour filtering</strong><br>轮廓过滤</td>
+<td>&quot;They are <strong>filtered out in different steps so that contours that are very unlikely to be markers are discarded</strong>.&quot;</td>
+<td>它们<strong>分几步被过滤，从而丢弃那些不太可能是标记的轮廓</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1100">OpenCV team, n.d., &quot;Contour filtering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Bits Extraction</strong><br>位提取</td>
+<td>&quot;After candidate detection, <strong>the bits of each candidate are analyzed in order to determine if they are markers or not</strong>.&quot;</td>
+<td>候选检测之后，<strong>分析每个候选的位，以确定它们是否是标记</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1106">OpenCV team, n.d., &quot;Bits Extraction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Marker identification</strong><br>标记识别</td>
+<td>&quot;After the bits have been extracted, the next step is <strong>checking whether the extracted code belongs to the marker dictionary</strong> and, if necessary, error correction can be performed.&quot;</td>
+<td>位提取之后，下一步是<strong>检查提取的编码是否属于标记字典</strong>，必要时还可以进行纠错。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1111">OpenCV team, n.d., &quot;Marker identification&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Corner Refinement</strong><br>角点细化</td>
+<td>&quot;After markers have been detected and identified, the last step is <strong>performing subpixel refinement of the corner positions</strong>&quot;</td>
+<td>标记被检测和识别之后，最后一步是<strong>对角点位置做亚像素细化</strong></td>
+<td><a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html#autotoc_md1114">OpenCV team, n.d., &quot;Corner Refinement&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>OpenCV team. (n.d.). <em>Detection of ArUco Markers</em>. OpenCV-Python Tutorials (Version 4.13.0). Retrieved October 31, 2026, from <a href="https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html">https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

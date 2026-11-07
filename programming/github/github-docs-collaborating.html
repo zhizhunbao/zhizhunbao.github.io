@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>GitHub Docs: Collaborating with Pull Requests | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="GitHub Docs: collaborating with pull requests: one figure per part, key terms framed, official definitions and their Chinese translations.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Home">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="github-docs-collaborating-with-pull-requests">GitHub Docs: Collaborating with Pull Requests</h1>
+
+<p>Study notes on <a href="https://docs.github.com/en/pull-requests">GitHub Docs</a>. Each section links the official page it follows. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The main verb of each sentence has a red wavy underline, in the English and in the Chinese.</p>
+<h2 id="overview"><a href="https://docs.github.com/en/pull-requests">Overview</a></h2>
+<p><img src="media/github-docs-collaborating-0.png" alt="Diagram: Overview"></p>
+<h2 id="about-pull-requests-and-forks"><a href="https://docs.github.com/en/pull-requests/reference/pull-requests">About pull requests and forks</a></h2>
+<p><img src="media/github-docs-collaborating-1.png" alt="Diagram: About pull requests and forks"></p>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>GitHub</strong><br>GitHub 平台</td>
+<td>&quot;<strong>GitHub</strong> is a <strong>platform</strong> that supports your <strong>entire software development process</strong>, from <strong>planning work</strong> to deploying and operating software.&quot;</td>
+<td><strong>GitHub</strong> 是一个<strong>平台</strong>，支持你的<strong>整个软件开发流程</strong>，从<strong>规划工作</strong>到部署和运营软件。</td>
+<td><a href="https://docs.github.com/en/get-started/start-your-journey/what-is-github#:%7E:text=GitHub%20is%20a%20platform%20that%20supports%20your%20entire%20software">GitHub, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong>fork and pull model</strong><br>复刻加拉取请求模式</td>
+<td>&quot;In the <strong>fork and pull model</strong>, anyone can fork an existing (&quot;upstream&quot;) repository if they have <strong>read access</strong> and the <strong>owner of the upstream repository</strong> allows it.&quot;</td>
+<td>在<strong>复刻加拉取请求模式</strong>中，任何人都可以复刻现有的（“上游”）仓库，前提是他们拥有<strong>读取权限</strong>，并且<strong>上游仓库的所有者</strong>允许这样做。</td>
+<td><a href="https://docs.github.com/en/pull-requests/reference/pull-requests#fork-and-pull-model:%7E:text=In%20the%20fork%20and%20pull%20model%2C%20anyone%20can%20fork">GitHub, n.d., &quot;Fork and pull model&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>upstream repository</strong><br>上游仓库</td>
+<td>&quot;<strong>Forks</strong> are repositories that start as <strong>copies</strong> of another repository, called the <strong>upstream repository</strong>.&quot;</td>
+<td><strong>复刻</strong>是一些仓库，它们最初是另一个仓库的<strong>副本</strong>，该仓库称为<strong>上游仓库</strong>。</td>
+<td><a href="https://docs.github.com/en/pull-requests/reference/forks#:%7E:text=Forks%20are%20repositories%20that%20start%20as%20copies%20of%20another">GitHub, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong>fork</strong><br>复刻（Fork）</td>
+<td>&quot;A <strong>fork</strong> is a <strong>separate repository</strong> with its <strong>own settings</strong> and <strong>collaboration space</strong>.&quot;</td>
+<td><strong>复刻</strong>是一个<strong>独立的仓库</strong>，拥有<strong>自己的设置</strong>和<strong>协作空间</strong>。</td>
+<td><a href="https://docs.github.com/en/pull-requests/reference/forks#what-makes-forks-distinct-from-branches:%7E:text=A%20fork%20is%20a%20separate%20repository%20with%20its%20own">GitHub, n.d., &quot;What makes forks distinct from branches&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>shared repository model</strong><br>共享仓库模式</td>
+<td>&quot;In the <strong>shared repository model</strong>, <strong>collaborators</strong> have <strong>push access</strong> to a single shared repository and create <strong>topic branches</strong> when they need to make changes.&quot;</td>
+<td>在<strong>共享仓库模式</strong>中，<strong>协作者</strong>对单个共享仓库拥有<strong>推送权限</strong>，并在需要进行更改时创建<strong>主题分支</strong>。</td>
+<td><a href="https://docs.github.com/en/pull-requests/reference/pull-requests#shared-repository-model:%7E:text=In%20the%20shared%20repository%20model%2C%20collaborators%20have%20push%20access">GitHub, n.d., &quot;Shared repository model&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>collaborator</strong><br>协作者</td>
+<td>&quot;A <strong>collaborator</strong> is a person with <strong>read and write access</strong> to a repository who has been <strong>invited to contribute</strong> by the repository owner.&quot;</td>
+<td><strong>协作者</strong>是对某个仓库拥有<strong>读写访问权限</strong>的人，此人已受仓库所有者<strong>邀请参与贡献</strong>。</td>
+<td><a href="https://docs.github.com/en/get-started/learning-about-github/github-glossary#collaborator:%7E:text=A%20collaborator%20is%20a%20person%20with%20read%20and%20write%20access">GitHub, n.d., &quot;collaborator&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>branch</strong><br>分支</td>
+<td>&quot;A &quot;<strong>branch</strong>&quot; is a <strong>line of development</strong>. The <strong>most recent commit</strong> on a branch is referred to as the <strong>tip</strong> of that branch.&quot;</td>
+<td>“<strong>分支</strong>”是一条<strong>开发线</strong>。分支上<strong>最近的一次提交</strong>被称为该分支的<strong>末端</strong>（tip）。</td>
+<td><a href="https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefbranchabranch:%7E:text=A%20%22branch%22%20is%20a%20line%20of%20development.%20The%20most%20recent">Git, n.d., &quot;branch&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong>pull request</strong><br>拉取请求（PR）</td>
+<td>&quot;<strong>Pull requests</strong> are <strong>proposals</strong> to merge <strong>code changes</strong> into a <strong>project</strong>.&quot;</td>
+<td><strong>拉取请求</strong>是一种<strong>提议</strong>：将<strong>代码更改</strong>合并到一个<strong>项目</strong>中。</td>
+<td><a href="https://docs.github.com/en/pull-requests/reference/pull-requests#:%7E:text=Pull%20requests%20are%20proposals%20to%20merge%20code%20changes%20into">GitHub, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong>review</strong><br>代码审查</td>
+<td>&quot;<strong>Pull request reviews</strong> let people <strong>comment on changes</strong>, <strong>suggest improvements</strong>, and <strong>approve or request changes</strong> before code is merged.&quot;</td>
+<td><strong>拉取请求审查</strong>让人们可以在代码合并之前<strong>对更改发表评论</strong>、<strong>提出改进建议</strong>，以及<strong>批准或请求更改</strong>。</td>
+<td><a href="https://docs.github.com/en/pull-requests/reference/pull-request-reviews#:%7E:text=Pull%20request%20reviews%20let%20people%20comment%20on%20changes%2C%20suggest">GitHub, n.d., para. 2</a></td>
+</tr>
+<tr>
+<td><strong>merge</strong><br>合并</td>
+<td>&quot;<strong>Merging</strong> takes the changes from <strong>one branch</strong> (in the same repository or from a <strong>fork</strong>), and <strong>applies them into another</strong>.&quot;</td>
+<td><strong>合并</strong>会获取来自<strong>一个分支</strong>（位于同一仓库中或来自某个<strong>复刻</strong>）的更改，并将其<strong>应用到另一个分支</strong>中。</td>
+<td><a href="https://docs.github.com/en/get-started/learning-about-github/github-glossary#merge:%7E:text=Merging%20takes%20the%20changes%20from%20one%20branch%20%28in%20the%20same">GitHub, n.d., &quot;merge&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>default branch</strong><br>默认分支</td>
+<td>&quot;The <strong>base branch</strong> for new pull requests and code commits in a repository. Each repository has <strong>at least one branch</strong>, which Git creates when you <strong>initialize</strong> the repository. The first branch is usually called main, and is often the <strong>default branch</strong>.&quot;</td>
+<td>仓库中新拉取请求和代码提交的<strong>基础分支</strong>。每个仓库<strong>至少有一个分支</strong>，该分支由 Git 在你<strong>初始化</strong>仓库时创建。第一个分支通常称为 main，并且通常是<strong>默认分支</strong>。</td>
+<td><a href="https://docs.github.com/en/get-started/learning-about-github/github-glossary#default-branch:%7E:text=The%20base%20branch%20for%20new%20pull%20requests%20and%20code">GitHub, n.d., &quot;default branch&quot; section, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:35-04:00">10/27/2026 21:51:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.4 Constraint solver | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 2.4 Constraint solver: 2.4.0 Introduction, Primal problem, Reduced primal problem, Dual problem, Algorithms, Constraint islands, Parameters, Friction cones.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="24-constraint-solver">2.4 Constraint solver</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/constraint-solver.png" alt="2.4 Constraint solver: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.4 Constraint solver</strong><br>约束求解器</td>
+<td>(context) &quot;First, the constraint forces are defined as <strong>the unique global solution to a convex optimization problem</strong>.&quot;</td>
+<td>（语境）首先，约束力被定义为<strong>一个凸优化问题的唯一全局解</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver">Google DeepMind, n.d., &quot;Constraint solver&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>2.4.0 Introduction</strong><br>介绍</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver">Google DeepMind, n.d., &quot;Constraint solver&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Gauss principle of least constraint</strong><br>高斯最小约束原理</td>
+<td>(context) &quot;The primal formulation is based on <strong>a generalization of the Gauss principle of least constraint</strong>.&quot;</td>
+<td>（语境）原问题的表述基于<strong>高斯最小约束原理的一种推广</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver">Google DeepMind, n.d., &quot;Constraint solver&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Lagrange dual</strong><br>拉格朗日对偶</td>
+<td>&quot;The dual is <strong>a convex optimization problem over constraint forces</strong>, which also play the role of Lagrange multipliers for the primal problem.&quot;</td>
+<td>对偶问题是<strong>一个关于约束力的凸优化问题</strong>，这些约束力同时也充当原问题的拉格朗日乘子。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver">Google DeepMind, n.d., &quot;Constraint solver&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Primal problem</strong><br>原问题</td>
+<td>&quot;We first formulate <strong>the optimization problem whose solution yields the constrained acceleration</strong>&quot;</td>
+<td>我们先写出<strong>其解给出受约束加速度的优化问题</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#primal-problem">Google DeepMind, n.d., &quot;Primal problem&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Huber “norm”</strong><br>Huber“范数”</td>
+<td>&quot;The Huber “norm” is <strong>based on the Huber function from robust statistics</strong>: it is a quadratic around zero, and transitions smoothly to a linear function when the absolute value of the argument crosses a threshold – in this case given by the friction loss parameters.&quot;</td>
+<td>Huber“范数”<strong>基于稳健统计中的 Huber 函数</strong>：它在零附近是二次的，当自变量的绝对值越过某个阈值（这里由摩擦损失参数给出）时，平滑地过渡为线性函数。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#primal-problem">Google DeepMind, n.d., &quot;Primal problem&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Reduced primal problem</strong><br>约化原问题</td>
+<td>&quot;It turns out that <strong>the primal problem can be reduced to unconstrained optimization over accelerations</strong>.&quot;</td>
+<td>事实证明，<strong>原问题可以约化为关于加速度的无约束优化</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#reduced-primal-problem">Google DeepMind, n.d., &quot;Reduced primal problem&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Dual problem</strong><br>对偶问题</td>
+<td>&quot;We then transform the primal problem over accelerations into its Lagrange dual. The dual is <strong>a convex optimization problem over constraint forces, which also play the role of Lagrange multipliers for the primal problem</strong>.&quot;</td>
+<td>然后把关于加速度的原问题转换为它的拉格朗日对偶。对偶问题是<strong>一个关于约束力的凸优化问题，约束力同时充当原问题的拉格朗日乘子</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-solver">Google DeepMind, n.d., &quot;Constraint solver&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Algorithms</strong><br>算法</td>
+<td>&quot;Here we describe <strong>the numerical algorithms (or “solvers”) for solving the above convex optimization problems</strong>.&quot;</td>
+<td>这里介绍<strong>求解上述凸优化问题的数值算法（即“求解器”）</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#algorithms">Google DeepMind, n.d., &quot;Algorithms&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>CG</strong><br>共轭梯度法</td>
+<td>&quot;This algorithm <strong>uses the non-linear conjugate gradient method with the Hager-Zhang formula</strong>.&quot;</td>
+<td>该算法<strong>使用带 Hager-Zhang 公式的非线性共轭梯度法</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#algorithms">Google DeepMind, n.d., &quot;Algorithms&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Newton</strong><br>牛顿法</td>
+<td>&quot;This algorithm <strong>implements the exact Newton method, with analytical second-order derivatives and Cholesky factorization of the Hessian</strong>.&quot;</td>
+<td>该算法<strong>实现精确的牛顿法，使用解析二阶导数和 Hessian 矩阵的 Cholesky 分解</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#algorithms">Google DeepMind, n.d., &quot;Algorithms&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>PGS</strong><br>投影高斯-赛德尔法</td>
+<td>&quot;Unlike gradient-based methods which improve the solution along oblique directions, <strong>Gauss-Seidel works on one scalar component at a time, and sets it to its optimal value given the current values of all other components</strong>.&quot;</td>
+<td>与沿斜方向改进解的基于梯度的方法不同，<strong>高斯-赛德尔法每次处理一个标量分量，在其他所有分量取当前值的条件下把它设为最优值</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#algorithms">Google DeepMind, n.d., &quot;Algorithms&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>NoSlip</strong><br>无滑移后处理</td>
+<td>&quot;This is <strong>not a standalone solver but a post-processing step</strong>, enabled by setting noslip_iterations to a positive value in option.&quot;</td>
+<td>它<strong>不是独立的求解器，而是一个后处理步骤</strong>，通过在 option 中把 noslip_iterations 设为正值来启用。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#algorithms">Google DeepMind, n.d., &quot;Algorithms&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Warmstart</strong><br>热启动</td>
+<td>&quot;Before solving, the solver <strong>warmstarts the constraint forces from the previous time step</strong>.&quot;</td>
+<td>在求解之前，求解器<strong>用上一个时间步的约束力进行热启动</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#algorithms">Google DeepMind, n.d., &quot;Algorithms&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>Constraint islands</strong><br>约束岛</td>
+<td>&quot;A constraint island is <strong>a disjoint sub-graph which can be solved for independently</strong>, because constraint forces cannot propagate between islands.&quot;</td>
+<td>约束岛是<strong>一个可以独立求解的不相交子图</strong>，因为约束力不能在岛之间传播。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-islands">Google DeepMind, n.d., &quot;Constraint islands&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Islanding</strong><br>分岛</td>
+<td>&quot;Constraint island discovery and construction (“islanding”) <strong>involves finding these disjoint subgraphs and reordering both the DOFs and constraints to make them memory-contiguous</strong>.&quot;</td>
+<td>约束岛的发现与构建（“分岛”）<strong>包括找出这些不相交子图，并对自由度和约束重新排序，使它们在内存中连续</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-islands">Google DeepMind, n.d., &quot;Constraint islands&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Parameters</strong><br>参数</td>
+<td>&quot;To summarize, the constraint behavior is determined by <strong>three per-constraint quantities</strong>&quot;</td>
+<td>总之，约束行为由<strong>每个约束的三个量</strong>决定</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#parameters">Google DeepMind, n.d., &quot;Parameters&quot;, para. 9</a></td>
+</tr>
+<tr>
+<td><strong>Impedance</strong><br>阻抗</td>
+<td>&quot;It is then natural to introduce <strong>a model parameter which directly controls the interpolation</strong>. We call this parameter impedance and denote it&quot;</td>
+<td>于是很自然地引入<strong>一个直接控制这种插值的模型参数</strong>。我们把这个参数称为阻抗，记作</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#parameters">Google DeepMind, n.d., &quot;Parameters&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Diagonal approximation</strong><br>对角近似</td>
+<td>&quot;The approximation (which is limited to the diagonal) is <strong>constructed using the “end-effector” inertias of all bodies, joints and tendons when the model is in the initial configuration</strong> mjModel.qpos0.&quot;</td>
+<td>这种近似（仅限于对角线）<strong>用模型处于初始构型时所有刚体、关节和肌腱的“末端执行器”惯量构造</strong>，即 mjModel.qpos0。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#parameters">Google DeepMind, n.d., &quot;Parameters&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Reference acceleration</strong><br>参考加速度</td>
+<td>&quot;Next we explain how the reference acceleration is computed. As already mentioned, we use <strong>a spring-damper model parameterized by damping and stiffness coefficients</strong> element-wise:&quot;</td>
+<td>接下来说明参考加速度如何计算。如前所述，我们使用<strong>一个逐元素地由阻尼系数和刚度系数参数化的弹簧阻尼模型</strong>：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#parameters">Google DeepMind, n.d., &quot;Parameters&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Adhesion</strong><br>黏附</td>
+<td>&quot;the feasible force set is <strong>the friction cone translated down the contact normal</strong>&quot;</td>
+<td>可行力集合是<strong>沿接触法线向下平移后的摩擦锥</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#parameters">Google DeepMind, n.d., &quot;Parameters&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Friction cones</strong><br>摩擦锥</td>
+<td>&quot;As explained above, MuJoCo allows <strong>both elliptic friction cones and pyramidal approximations to them</strong>; the selected solver determines which type of friction cone is used.&quot;</td>
+<td>如前所述，MuJoCo 允许<strong>椭圆摩擦锥以及对它的棱锥近似</strong>；所选求解器决定使用哪种摩擦锥。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#socones">Google DeepMind, n.d., &quot;Friction cones&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Computation</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/computation/index.html">https://mujoco.readthedocs.io/en/stable/computation/index.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 22:28:26-04:00">10/31/2026 22:28:26</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

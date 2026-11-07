@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>14. Media | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 14. Media: Azure AI Video Indexer, Azure Front Door and Content Delivery Network (CDN), Azure Media Player, Content Protection, Encoding, Live and On-Demand Streaming, Media Services.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="14-media">14. Media</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/media-category.png" alt="Media: the products listed for it on the Azure documentation home page, in its order: Azure AI Video Indexer, Azure Front Door and Content Delivery Network (CDN), Azure Media Player, Content Protection, Encoding, Live and On-Demand Streaming, Media Services."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Media</strong><br>媒体</td>
+<td>&quot;<strong>videos, music, and photographs</strong> that are <strong>stored as particular types of file on a computer</strong>&quot;</td>
+<td>以<strong>特定文件类型存储在计算机上</strong>的<strong>视频、音乐和照片</strong>。</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/media">Cambridge University Press &amp; Assessment, n.d., &quot;media&quot; noun (VIDEO/MUSIC FILES)</a></td>
+</tr>
+<tr>
+<td><strong>Azure AI Video Indexer</strong><br>Azure AI 视频索引器</td>
+<td>&quot;Azure AI Video Indexer is a <strong>comprehensive AI solution</strong> that enables organizations to <strong>extract deep insights from video</strong> (live and uploaded) <strong>and audio content</strong>.&quot;</td>
+<td>Azure AI Video Indexer 是一个<strong>全面的 AI 解决方案</strong>，让组织可以<strong>从视频</strong>（直播和上传的）<strong>和音频内容中提取深入见解</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-video-indexer/video-indexer-overview#:%7E:text=is%20a%20comprehensive%20AI%20solution%20that%20enables%20organizations">Microsoft, 2026a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Front Door and Content Delivery Network (CDN)</strong><br>Azure Front Door和内容分发网络（CDN）</td>
+<td>&quot;Azure Front Door is an <strong>advanced content delivery network (CDN)</strong> for the cloud. It's designed to provide <strong>fast, reliable, and secure access</strong> to your applications' static and dynamic web content globally.&quot;</td>
+<td>Azure Front Door 是面向云的<strong>高级内容分发网络（CDN）</strong>。它旨在为你的应用程序在全球范围内的静态和动态 Web 内容提供<strong>快速、可靠和安全的访问</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview#:%7E:text=is%20an%20advanced%20content%20delivery%20network">Microsoft, 2026b, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Azure Media Player</strong><br>Azure 媒体播放器</td>
+<td>&quot;Azure Media Player is a <strong>web video player</strong> that <strong>plays media content from Microsoft Azure Media Services</strong> on a wide variety of browsers and devices.&quot;</td>
+<td>Azure Media Player 是一个 <strong>Web 视频播放器</strong>，它在各种浏览器和设备上<strong>播放来自 Microsoft Azure 媒体服务的媒体内容</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/media-services/azure-media-player/azure-media-player-overview#:%7E:text=is%20a%20web%20video%20player%20that%20plays%20media%20content">Microsoft, 2021, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Content Protection</strong><br>内容保护</td>
+<td>(context) &quot;Use Azure Media Services to <strong>secure your media</strong> from the time it leaves your computer all the way through <strong>storage, processing, and delivery</strong>.&quot;</td>
+<td>（语境）使用 Azure 媒体服务<strong>保护你的媒体</strong>，从它离开你的计算机开始，一直到<strong>存储、处理和交付</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/media-services/latest/drm-content-protection-concept#:%7E:text=Use%20Azure%20Media%20Services%20to%20secure%20your%20media">Microsoft, 2023b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Encoding</strong><br>编码</td>
+<td>&quot;The term encoding in Media Services applies to the process of <strong>converting files containing digital video and/or audio</strong> from <strong>one standard format to another</strong>, with the purpose of (a) reducing the size of the files, and/or (b) producing a format that's compatible with a broad range of devices and apps.&quot;</td>
+<td>Media Services 中的编码一词，指的是把<strong>包含数字视频和/或音频的文件</strong>从<strong>一种标准格式转换为另一种格式</strong>的过程，目的是（a）减小文件大小，和/或（b）生成与各种设备和应用兼容的格式。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/media-services/latest/encode-concept#:%7E:text=The%20term%20encoding%20in%20Media%20Services%20applies%20to">Microsoft, 2023c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Live and On-Demand Streaming</strong><br>实时和按需流式处理</td>
+<td>(context) &quot;In Azure Media Services, <strong>live events</strong> are responsible for <strong>processing live streaming content</strong>.&quot;</td>
+<td>（语境）在 Azure 媒体服务中，<strong>直播活动</strong>负责<strong>处理直播流内容</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/media-services/latest/stream-live-tutorial-with-api#:%7E:text=are%20responsible%20for%20processing%20live%20streaming%20content">Microsoft, 2023d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Media Services</strong><br>媒体服务</td>
+<td>&quot;Azure Media Services is a <strong>cloud-based platform</strong> that enables you to build solutions that achieve <strong>broadcast-quality video streaming</strong>, enhance accessibility and distribution, analyze content, and much more.&quot;</td>
+<td>Azure 媒体服务是一个<strong>基于云的平台</strong>，让你可以构建实现<strong>广播级视频流式处理</strong>、增强可访问性和分发、分析内容等功能的解决方案。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/media-services/latest/media-services-overview#:%7E:text=is%20a%20cloud-based%20platform%20that%20enables%20you%20to%20build%20solutions">Microsoft, 2023a, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="coverage">Coverage</h2>
+<p>None of the certifications listed in the folder README names this topic's own products in its skills measured.</p>
+<h2 id="references">References</h2>
+<ul>
+<li>Cambridge University Press &amp; Assessment. (n.d.). Media. In <em>Cambridge Dictionary</em>. Retrieved October 26, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/media">https://dictionary.cambridge.org/dictionary/english/media</a></li>
+<li>Microsoft. (n.d.). <em>Azure documentation</em>. Microsoft Learn. Retrieved October 25, 2026, from <a href="https://learn.microsoft.com/en-us/azure/">https://learn.microsoft.com/en-us/azure/</a></li>
+<li>Microsoft. (2021, April 4). <em>Azure Media Player overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/media-services/azure-media-player/azure-media-player-overview">https://learn.microsoft.com/en-us/azure/media-services/azure-media-player/azure-media-player-overview</a></li>
+<li>Microsoft. (2023a, January 8). <em>Azure Media Services v3 overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/media-services/latest/media-services-overview">https://learn.microsoft.com/en-us/azure/media-services/latest/media-services-overview</a></li>
+<li>Microsoft. (2023b, January 8). <em>Content protection with dynamic encryption and key delivery</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/media-services/latest/drm-content-protection-concept">https://learn.microsoft.com/en-us/azure/media-services/latest/drm-content-protection-concept</a></li>
+<li>Microsoft. (2023c, February 1). <em>Encoding video and audio with Media Services</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/media-services/latest/encode-concept">https://learn.microsoft.com/en-us/azure/media-services/latest/encode-concept</a></li>
+<li>Microsoft. (2023d, July 16). <em>Tutorial: Stream live with Media Services by using .NET 7.0</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/media-services/latest/stream-live-tutorial-with-api">https://learn.microsoft.com/en-us/azure/media-services/latest/stream-live-tutorial-with-api</a></li>
+<li>Microsoft. (2026a, September 12). <em>Azure AI Video Indexer overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/azure-video-indexer/video-indexer-overview">https://learn.microsoft.com/en-us/azure/azure-video-indexer/video-indexer-overview</a></li>
+<li>Microsoft. (2026b, August 28). <em>What is Azure Front Door?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview">https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 12:58:52-04:00">10/27/2026 12:58:52</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>12.6 Logging Architecture | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 12.6 Logging Architecture: 12.6.1 Pod and container logs, 12.6.2 System component logs, 12.6.3 Cluster-level logging architectures.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="126-logging-architecture">12.6 Logging Architecture</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/cluster-administration-logging.png" alt="12.6 Logging Architecture: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>12.6 Logging Architecture</strong><br>日志架构</td>
+<td>(context) &quot;<strong>Application logs</strong> can help you <strong>understand what is happening inside your application</strong>.&quot;</td>
+<td>（语境）<strong>应用日志</strong>可以帮助你<strong>了解应用内部正在发生什么</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=Application%20logs%20can%20help%20you%20understand%20what">The Kubernetes Authors, n.d., &quot;Logging Architecture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>12.6.1 Pod and container logs</strong><br>Pod 与容器日志</td>
+<td>&quot;Kubernetes <strong>captures logs</strong> from <strong>each container in a running Pod</strong>.&quot;</td>
+<td>Kubernetes <strong>捕获日志</strong>，来自<strong>运行中 Pod 里的每个容器</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=Kubernetes%20captures%20logs%20from%20each%20container%20in">The Kubernetes Authors, n.d., &quot;Pod and container logs&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>CRI logging format</strong><br>CRI 日志格式</td>
+<td>(context) &quot;Different container runtimes implement this in different ways; however, <strong>the integration with the kubelet</strong> is <strong>standardized as the <em>CRI logging format</em></strong>.&quot;</td>
+<td>（语境）不同的容器运行时以不同方式实现这一点；不过，<strong>与 kubelet 的集成</strong>都被<strong>标准化为 CRI 日志格式</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=Different%20container%20runtimes%20implement%20this%20in%20different">The Kubernetes Authors, n.d., &quot;How nodes handle container logs&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Log rotation</strong><br>日志轮转</td>
+<td>&quot;<strong>The kubelet</strong> is responsible for <strong>rotating container logs</strong> and <strong>managing the logging directory structure</strong>.&quot;</td>
+<td><strong>kubelet</strong> 负责<strong>轮转容器日志</strong>并<strong>管理日志目录结构</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=The%20kubelet%20is%20responsible%20for%20rotating%20container">The Kubernetes Authors, n.d., &quot;Log rotation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>12.6.2 System component logs</strong><br>系统组件日志</td>
+<td>&quot;There are <strong>two types of system components</strong>: those that <strong>typically run in a container</strong>, and those components <strong>directly involved in running containers</strong>.&quot;</td>
+<td>有<strong>两类系统组件</strong>：<strong>通常运行在容器中的组件</strong>，以及<strong>直接参与运行容器的组件</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=There%20are%20two%20types%20of%20system%20components%3A">The Kubernetes Authors, n.d., &quot;System component logs&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>12.6.3 Cluster-level logging architectures</strong><br>集群级日志架构</td>
+<td>&quot;While Kubernetes <strong>does not provide a native solution for cluster-level logging</strong>, there are <strong>several common approaches</strong> you can consider.&quot;</td>
+<td>虽然 Kubernetes <strong>没有为集群级日志提供原生方案</strong>，但有<strong>几种常见做法</strong>可供考虑。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=While%20Kubernetes%20does%20not%20provide%20a%20native">The Kubernetes Authors, n.d., &quot;Cluster-level logging architectures&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>node-level logging agent</strong><br>节点级日志代理</td>
+<td>&quot;You can <strong>implement cluster-level logging</strong> by including <strong>a <em>node-level logging agent</em> on each node</strong>.&quot;</td>
+<td>你可以<strong>实现集群级日志</strong>，方法是<strong>在每个节点上部署一个节点级日志代理</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=You%20can%20implement%20cluster-level%20logging%20by%20including">The Kubernetes Authors, n.d., &quot;Using a node logging agent&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Streaming sidecar container</strong><br>流式边车容器</td>
+<td>(context) &quot;By having your sidecar containers <strong>write to their own <code>stdout</code> and <code>stderr</code> streams</strong>, you can <strong>take advantage of the kubelet and the logging agent</strong> that <strong>already run on each node</strong>.&quot;</td>
+<td>（语境）让边车容器<strong>写入它们自己的 <code>stdout</code> 和 <code>stderr</code> 流</strong>，你就可以<strong>利用 kubelet 和日志代理</strong>，它们<strong>已在每个节点上运行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=By%20having%20your%20sidecar%20containers%20write%20to">The Kubernetes Authors, n.d., &quot;Streaming sidecar container&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sidecar container with a logging agent</strong><br>带日志代理的边车容器</td>
+<td>(context) &quot;you can <strong>create a sidecar container</strong> with <strong>a separate logging agent</strong> that you have configured specifically to <strong>run with your application</strong>.&quot;</td>
+<td>（语境）你可以<strong>创建一个边车容器</strong>，带有<strong>独立的日志代理</strong>，并专门配置它<strong>与你的应用一起运行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=you%20can%20create%20a%20sidecar%20container%20with">The Kubernetes Authors, n.d., &quot;Sidecar container with a logging agent&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Logging Architecture</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/">https://kubernetes.io/docs/concepts/cluster-administration/logging/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

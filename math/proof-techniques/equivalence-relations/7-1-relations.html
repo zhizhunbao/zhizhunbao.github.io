@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>7.1 Relations | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="7.1 Relations, part of 7 Equivalence Relations: 9 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="71-relations">7.1 Relations</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/7-1-relations.png" alt="7.1 Relations: its 9 terms, in 7 Equivalence Relations."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>7 Equivalence Relations</strong><br>等价关系</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/C_equivrelations.html">Sundstrom, 2022, chapter 7</a></td>
+</tr>
+<tr>
+<td><strong>7.1 Relations</strong><br>关系</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+<tr>
+<td><strong>Relation</strong><br>关系</td>
+<td>&quot;Let <span class="math">\(A\)</span> and <span class="math">\(B\)</span> be sets. A relation R from the set <span class="math">\(\boldsymbol{A}\)</span> to the set <span class="math">\(\boldsymbol{B}\)</span> is <strong>a subset of</strong> <span class="math">\(A \times B\text{.}\)</span>&quot;</td>
+<td>设 <span class="math">\(A\)</span> 和 <span class="math">\(B\)</span> 是集合。从集合 <span class="math">\(\boldsymbol{A}\)</span> 到集合 <span class="math">\(\boldsymbol{B}\)</span> 的关系 R 是 <span class="math">\(A \times B\)</span> <strong>的子集</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html#relation">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+<tr>
+<td><strong>Domain of a Relation</strong><br>关系的定义域</td>
+<td>&quot;If <span class="math">\(R\)</span> is a relation from the set <span class="math">\(A\)</span> to the set <span class="math">\(B\text{,}\)</span> then <strong>the subset of</strong> <span class="math">\(A\)</span> consisting of all the first coordinates of the ordered pairs in <span class="math">\(R\)</span> is called the domain of <span class="math">\(R\text{.}\)</span>&quot;</td>
+<td>如果 <span class="math">\(R\)</span> 是从集合 <span class="math">\(A\)</span> 到集合 <span class="math">\(B\)</span> 的关系，那么由 <span class="math">\(R\)</span> 中所有有序对的第一个坐标组成的 <span class="math">\(A\)</span> <strong>的子集</strong>称为 <span class="math">\(R\)</span> 的定义域。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html#domrangeofrelation">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+<tr>
+<td><strong>Range of a Relation</strong><br>关系的值域</td>
+<td>&quot;<strong>The subset of</strong> <span class="math">\(B\)</span> consisting of all the second coordinates of the ordered pairs in <span class="math">\(R\)</span> is called the range of <span class="math">\(R\text{.}\)</span>&quot;</td>
+<td>由 <span class="math">\(R\)</span> 中所有有序对的第二个坐标组成的 <span class="math">\(B\)</span> <strong>的子集</strong>称为 <span class="math">\(R\)</span> 的值域。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html#domrangeofrelation">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+<tr>
+<td><strong>Divides Relation</strong><br>整除关系</td>
+<td>&quot;Whenever we have spoken about one integer dividing another integer, we have worked with the “divides” relation on <span class="math">\(\mathbb{Z}\text{.}\)</span> In particular, we can write <span class="math">\(D = \left\{ { {\left( {m, n} \right) \in \mathbb{Z} \times \mathbb{Z} } \mid m \text{ divides } n} \right\}\!\text{.}\)</span>&quot;</td>
+<td>每当谈到一个整数整除另一个整数时，我们用的就是 <span class="math">\(\mathbb{Z}\)</span> 上的“整除”关系。具体地，可以写成 <span class="math">\(D = \left\{ { {\left( {m, n} \right) \in \mathbb{Z} \times \mathbb{Z} } \mid m \text{ divides } n} \right\}\!\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html#prog_dividesrelation">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+<tr>
+<td><strong>Directed Graph</strong><br>有向图</td>
+<td>&quot;A convenient way to represent such a relation is to <strong>draw a point in the plane for each of the elements of</strong> <span class="math">\(A\)</span> and then for each <span class="math">\(\left( {x, y} \right) \in R\)</span> (or <span class="math">\(x \mathrel{R} y\)</span>), we <strong>draw an arrow starting at the point</strong> <span class="math">\(x\)</span> <strong>and pointing to the point</strong> <span class="math">\(y\text{.}\)</span> If <span class="math">\(\left( {x, x} \right) \in R\)</span> (or <span class="math">\(x \mathrel{R} x\)</span>), we draw a loop at the point <span class="math">\(x\text{.}\)</span> The resulting diagram is called a directed graph or a digraph.&quot;</td>
+<td>表示这种关系的一种方便方法是：<strong>在平面上画一个点</strong>，对应 <span class="math">\(A\)</span> 的每个元素；然后对每个 <span class="math">\(\left( {x, y} \right) \in R\)</span>（即 <span class="math">\(x \mathrel{R} y\)</span>），<strong>画一条箭头，从点</strong> <span class="math">\(x\)</span> <strong>出发指向点</strong> <span class="math">\(y\)</span>。如果 <span class="math">\(\left( {x, x} \right) \in R\)</span>（即 <span class="math">\(x \mathrel{R} x\)</span>），就在点 <span class="math">\(x\)</span> 处画一个环。所得的图称为有向图（directed graph 或 digraph）。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html#p-4651">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+<tr>
+<td><strong>Digraph</strong><br>有向图（简称）</td>
+<td>&quot;The resulting diagram is <strong>called a directed graph or a digraph</strong>.&quot;</td>
+<td>所得的图<strong>称为有向图</strong>（directed graph 或 digraph）。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html#p-4651">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+<tr>
+<td><strong>Vertex</strong><br>顶点</td>
+<td>&quot;In a directed graph, <strong>the points are called the vertices</strong>. So each element of <span class="math">\(A\)</span> corresponds to a vertex.&quot;</td>
+<td>在有向图中，<strong>这些点称为顶点</strong>。所以 <span class="math">\(A\)</span> 的每个元素对应一个顶点。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html#p-4652">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+<tr>
+<td><strong>Directed Edge</strong><br>有向边</td>
+<td>&quot;<strong>The arrows, including the loops</strong>, are called the directed edges of the directed graph.&quot;</td>
+<td><strong>这些箭头</strong>（包括环）称为有向图的有向边。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html#p-4652">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+<tr>
+<td><strong>Inverse of a Relation</strong><br>逆关系</td>
+<td>&quot;Let <span class="math">\(R\)</span> be a relation from the set <span class="math">\(A\)</span> to the set <span class="math">\(B\text{.}\)</span> The inverse of <span class="math">\(\boldsymbol{R}\)</span>, written <span class="math">\(R^{ - 1}\)</span> and read “<span class="math">\(R\)</span> inverse,” is <strong>the relation from</strong> <span class="math">\(B\)</span> <strong>to</strong> <span class="math">\(A\)</span> defined by&quot;</td>
+<td>设 <span class="math">\(R\)</span> 是从集合 <span class="math">\(A\)</span> 到集合 <span class="math">\(B\)</span> 的关系。<span class="math">\(\boldsymbol{R}\)</span> 的逆记作 <span class="math">\(R^{ - 1}\)</span>，读作“<span class="math">\(R\)</span> 逆”，是如下定义的<strong>从</strong> <span class="math">\(B\)</span> <strong>到</strong> <span class="math">\(A\)</span> 的关系</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_relations.html#inverseofrelation">Sundstrom, 2022, section 7.1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Sundstrom, T. (2022). <em>Mathematical reasoning: Writing and proof</em> (Version 2.1; PreTeXt edition by Grand Valley State University). Retrieved October 30, 2026, from <a href="https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html">https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 13:36:26-04:00">10/30/2026 13:36:26</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

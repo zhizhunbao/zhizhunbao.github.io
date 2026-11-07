@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.3 Open Sentences and Sets | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="2.3 Open Sentences and Sets, part of 2 Logical Reasoning: 16 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="23-open-sentences-and-sets">2.3 Open Sentences and Sets</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/2-3-open-sentences-and-sets.png" alt="2.3 Open Sentences and Sets: its 16 terms, in 2 Logical Reasoning."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2 Logical Reasoning</strong><br>逻辑推理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/C_2logic.html">Sundstrom, 2022, chapter 2</a></td>
+</tr>
+<tr>
+<td><strong>2.3 Open Sentences and Sets</strong><br>开语句与集合</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Roster Method</strong><br>列举法</td>
+<td>&quot;<strong>Listing the elements of a set inside braces</strong> is called the roster method of specifying the elements of the set.&quot;</td>
+<td><strong>把集合的元素列在花括号内</strong>，称为表示集合元素的列举法。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#p-780">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Variable</strong><br>变量</td>
+<td>&quot;A variable is <strong>a symbol representing an unspecified object</strong> that can be chosen from a given set <span class="math">\(U\text{.}\)</span>&quot;</td>
+<td>变量是<strong>代表一个未指定对象的符号</strong>，该对象可以从给定集合 <span class="math">\(U\)</span> 中选取。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_universal">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Constant</strong><br>常量</td>
+<td>&quot;A constant is <strong>a specific member of the universal set</strong>.&quot;</td>
+<td>常量是<strong>全集中的一个特定成员</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_universal">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Universal Set</strong><br>全集</td>
+<td>&quot;The set <span class="math">\(U\)</span> is called the universal set for the variable. It is <strong>the set of specified objects from which objects may be chosen to substitute for the variable</strong>.&quot;</td>
+<td>集合 <span class="math">\(U\)</span> 称为该变量的全集。它是<strong>一组指定的对象，可从中选取对象来代入变量</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_universal">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Real Numbers</strong><br>实数</td>
+<td>&quot;Recall that we use the symbol <span class="math">\(\mathbb{R}\)</span> to <strong>stand for the set of all real numbers</strong>&quot;</td>
+<td>回想一下，我们用符号 <span class="math">\(\mathbb{R}\)</span> <strong>表示全体实数的集合</strong></td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#p-795">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Equal Sets</strong><br>相等集合</td>
+<td>&quot;Two sets, <span class="math">\(A\)</span> and <span class="math">\(B\text{,}\)</span> are equal when they <strong>have precisely the same elements</strong>. In this case, we write <span class="math">\(A = B\)</span>.&quot;</td>
+<td>两个集合 <span class="math">\(A\)</span> 和 <span class="math">\(B\)</span> <strong>的元素完全相同</strong>时，它们相等。这时记作 <span class="math">\(A = B\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_setequality">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Set Equality</strong><br>集合相等</td>
+<td>&quot;Two sets, <span class="math">\(A\)</span> and <span class="math">\(B\text{,}\)</span> are equal when they <strong>have precisely the same elements</strong>. In this case, we write <span class="math">\(A = B\)</span>.&quot;</td>
+<td>两个集合 <span class="math">\(A\)</span> 和 <span class="math">\(B\)</span> <strong>的元素完全相同</strong>时，它们相等。这时记作 <span class="math">\(A = B\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_setequality">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Subset</strong><br>子集</td>
+<td>&quot;The set <span class="math">\(A\)</span> is a subset of a set <span class="math">\(B\)</span> provided that <strong>each element of</strong> <span class="math">\(A\)</span> <strong>is an element of</strong> <span class="math">\(B\text{.}\)</span> In this case, we write <span class="math">\(A \subseteq B\)</span> and also say that <span class="math">\(A\)</span> is contained in <span class="math">\(B\text{.}\)</span>&quot;</td>
+<td>如果 <span class="math">\(A\)</span> <strong>的每个元素都是</strong> <span class="math">\(B\)</span> <strong>的元素</strong>，集合 <span class="math">\(A\)</span> 就是集合 <span class="math">\(B\)</span> 的子集。这时记作 <span class="math">\(A \subseteq B\)</span>，也说 <span class="math">\(A\)</span> 包含于 <span class="math">\(B\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_setequality">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Contained in a Set</strong><br>包含于集合</td>
+<td>&quot;In this case, we write <span class="math">\(A \subseteq B\)</span> and also <strong>say that</strong> <span class="math">\(A\)</span> <strong>is contained in</strong> <span class="math">\(B\text{.}\)</span>&quot;</td>
+<td>这时记作 <span class="math">\(A \subseteq B\)</span>，也<strong>说</strong> <span class="math">\(A\)</span> <strong>包含于</strong> <span class="math">\(B\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_setequality">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Open Sentence</strong><br>开语句</td>
+<td>&quot;An open sentence is a sentence <span class="math">\(P( {x_1 ,x_2 , \ldots ,x_n })\)</span> involving variables <span class="math">\(x_1 ,x_2 , \ldots ,x_n\)</span> with the property that <strong>when specific values from the universal set are assigned</strong> to <span class="math">\(x_1 ,x_2 , \ldots ,x_n\text{,}\)</span> then <strong>the resulting sentence is either true or false</strong>.&quot;</td>
+<td>开语句是含有变量 <span class="math">\(x_1 ,x_2 , \ldots ,x_n\)</span> 的语句 <span class="math">\(P( {x_1 ,x_2 , \ldots ,x_n })\)</span>，具有这样的性质：<strong>把全集中的具体值赋给</strong> <span class="math">\(x_1 ,x_2 , \ldots ,x_n\)</span> 后，<strong>所得语句要么真要么假</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_predicate">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Predicate</strong><br>谓词</td>
+<td>&quot;An open sentence is <strong>also called a predicate</strong> or a propositional function.&quot;</td>
+<td>开语句<strong>也称为谓词</strong>或命题函数。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_predicate">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Propositional Function</strong><br>命题函数</td>
+<td>&quot;An open sentence is also called a predicate or <strong>a propositional function</strong>.&quot;</td>
+<td>开语句也称为谓词或<strong>命题函数</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_predicate">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Solution Set</strong><br>解集</td>
+<td>&quot;In more formal terms, the process of solving an equation is <strong>a way to determine the truth set for the equation</strong>, which is an open sentence. In this case, we often call the truth set the solution set.&quot;</td>
+<td>更正式地说，解方程的过程是<strong>确定该方程真值集的一种方法</strong>，而方程是开语句。这时我们常把真值集称为解集。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#p-832">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Truth Set</strong><br>真值集</td>
+<td>&quot;The truth set of an open sentence with one variable is <strong>the collection of objects in the universal set that can be substituted for the variable to make the predicate a true statement</strong>.&quot;</td>
+<td>单变量开语句的真值集是<strong>全集中能代入该变量、使谓词成为真陈述的那些对象的全体</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#D_truthset">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Set Builder Notation</strong><br>集合构造记号</td>
+<td>&quot;In this case, it is sometimes convenient to use the so-called set builder notation in which <strong>the set is defined by stating a rule that all elements of the set must satisfy</strong>.&quot;</td>
+<td>这时，有时用所谓的集合构造记号比较方便，即<strong>通过陈述集合所有元素都必须满足的规则来定义集合</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#p-837">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+<tr>
+<td><strong>Empty Set</strong><br>空集</td>
+<td>&quot;When a set <strong>contains no elements</strong>, we say that the set is the empty set.&quot;</td>
+<td>当一个集合<strong>不含任何元素</strong>时，我们说它是空集。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_2predicates.html#sym_empty">Sundstrom, 2022, section 2.3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Sundstrom, T. (2022). <em>Mathematical reasoning: Writing and proof</em> (Version 2.1; PreTeXt edition by Grand Valley State University). Retrieved October 30, 2026, from <a href="https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html">https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 13:36:26-04:00">10/30/2026 13:36:26</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

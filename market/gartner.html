@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2. Gartner | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Market &gt; Gartner: its reports on a timeline, one row per edition, newest first.">
+      <link rel="icon" href="../favicon.svg">
+      <link rel="stylesheet" href="../public/atlas.min.css">
+      <link rel="stylesheet" href="../public/kb.css">
+      <meta name="kb:rel" content="../">
+      <meta name="kb:navrel" content="../toc.html">
+      <meta name="kb:tocrel" content="toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../index.html" aria-label="Home">
+          <img src="../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2-gartner">2. Gartner</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/gartner.png" alt="Gartner: its report series in rows, left to right: Hype Cycle for Cloud Platform Services, Magic Quadrant for Strategic Cloud Platform Services, Public Cloud Spending Forecast."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Gartner</strong><br>高德纳</td>
+<td>&quot;We deliver <strong>actionable, objective business and technology insights</strong>.&quot;</td>
+<td>我们提供<strong>可付诸行动、客观的商业与技术洞察</strong>。</td>
+<td><a href="https://www.gartner.com/en/about#:%7E:text=We%20deliver%20actionable%2C%20objective%20business%20and%20technology%20insights.">Gartner, n.d., opening heading</a></td>
+</tr>
+<tr>
+<td><strong>Hype Cycle for Cloud Platform Services</strong><br>云平台服务技术成熟度曲线</td>
+<td>&quot;This Hype Cycle helps application and software engineering leaders understand the <strong>pace and viability of maturing and emerging cloud platform technologies, services and trends</strong>.&quot;</td>
+<td>这条技术成熟度曲线帮助应用和软件工程负责人了解<strong>正在成熟和新兴的云平台技术、服务与趋势的发展速度和可行性</strong>。</td>
+<td><a href="https://www.gartner.com/en/documents/5614791#:%7E:text=This%20Hype%20Cycle%20helps%20application%20and%20software%20engineering">Gartner, 2024a, &quot;Summary&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>Magic Quadrant for Strategic Cloud Platform Services</strong><br>战略云平台服务魔力象限</td>
+<td>&quot;Use this Magic Quadrant to <strong>choose the best long-term strategic hyperscaler</strong> to scale and innovate your business.&quot;</td>
+<td>用这个魔力象限<strong>选择最适合长期战略的超大规模云服务商</strong>，以扩展和创新业务。</td>
+<td><a href="https://www.gartner.com/en/documents/8326417#:%7E:text=Use%20this%20Magic%20Quadrant%20to%20choose%20the%20best">Gartner, 2026b, &quot;Summary&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>Public Cloud Spending Forecast</strong><br>公有云支出预测</td>
+<td>&quot;Worldwide end-user spending on public cloud services is forecast to total <strong>$723.4 billion in 2025</strong>&quot;</td>
+<td>全球公有云服务终端用户支出预计 <strong>2025 年达到 7,234 亿美元</strong></td>
+<td><a href="https://www.gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025#:%7E:text=Worldwide%20end-user%20spending%20on%20public%20cloud%20services%20is">Gartner, 2024c, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="timeline">Timeline</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Report</th>
+<th>Scope</th>
+<th>Key figures</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2026-09-01</td>
+<td>Magic Quadrant for Strategic Cloud Platform Services, 2026</td>
+<td>Hyperscale public cloud providers</td>
+<td><ul><li>&quot;<strong>AI capabilities, industry solutions, digital sovereignty, operational efficiency and hybrid/multicloud</strong> are driving how organizations select their cloud provider.&quot;</li><li>AWS: &quot;For the <strong>16th consecutive year</strong>, Gartner has recognized Amazon Web Services (AWS) as a Leader&quot;; &quot;once again placed AWS <strong>highest on the Ability to Execute axis</strong>.&quot;</li></ul></td>
+<td><a href="https://www.gartner.com/en/documents/8326417">Gartner, 2026b, &quot;Summary&quot; section</a>; <a href="https://aws.amazon.com/blogs/migration-and-modernization/aws-named-a-leader-in-gartners-2026-strategic-cloud-platform-services-magic-quadrant-16-years-running/">Peterson, 2026, para. 1</a></td>
+</tr>
+<tr>
+<td>2026-06-15</td>
+<td>Hype Cycle for AI and Cloud Platform Services, 2026 (renamed)</td>
+<td>Cloud platform services for AI-native software engineering</td>
+<td>&quot;<strong>AI-native software engineering</strong> is driving demand for cloud platform services that <strong>reduce infrastructure complexity</strong>.&quot;</td>
+<td><a href="https://www.gartner.com/en/documents/7997669">Gartner, 2026a, &quot;Summary&quot; section</a></td>
+</tr>
+<tr>
+<td>2025-08-04</td>
+<td>Magic Quadrant for Strategic Cloud Platform Services, 2025</td>
+<td>Hyperscale public cloud providers</td>
+<td><ul><li>&quot;<strong>Digital sovereignty, AI and cloud resilience</strong> are among the new trends shaping how organizations select a public cloud provider in 2025.&quot;</li><li>AWS: &quot;Gartner naming AWS a Leader for the <strong>fifteenth consecutive year</strong>.&quot;; &quot;Gartner once again placed AWS <strong>highest on the 'Ability to Execute' axis</strong>.&quot;</li><li>Google: &quot;For the <strong>eighth consecutive year</strong>, Gartner has named Google a Leader&quot;; &quot;Google is now positioned <strong>furthest for completeness of vision</strong>.&quot;</li></ul></td>
+<td><a href="https://www.gartner.com/en/documents/6808434">Gartner, 2025, &quot;Summary&quot; section</a>; <a href="https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-15-years-in-a-row/">Yun, 2025, paras. 1 and 2</a>; <a href="https://cloud.google.com/resources/content/gartner-strategic-cloud-platform-services">Calder &amp; Vahdat, 2025, para. 1</a></td>
+</tr>
+<tr>
+<td>2024-11-19</td>
+<td>Public Cloud Spending Forecast for 2025</td>
+<td>Worldwide end-user spending on public cloud services</td>
+<td><ul><li>&quot;Worldwide end-user spending on public cloud services is forecast to total <strong>$723.4 billion in 2025</strong>&quot;, up <strong>21.5%</strong> from $595.7 billion in 2024</li><li><strong>IaaS +24.8%</strong>, <strong>PaaS +21.6%</strong></li><li>&quot;The use of AI technologies in IT and business operations is unabatedly <strong>accelerating the role of cloud computing</strong>&quot;</li></ul></td>
+<td><a href="https://www.gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025">Gartner, 2024c, paras. 1 and 2, &quot;IaaS and PaaS Spending Dynamics&quot; section</a></td>
+</tr>
+<tr>
+<td>2024-10-21</td>
+<td>Magic Quadrant for Strategic Cloud Platform Services, 2024</td>
+<td>Hyperscale public cloud providers</td>
+<td><ul><li>&quot;<strong>Generative AI and digital sovereignty</strong> are among many new factors that are reshaping how enterprises select public cloud providers.&quot;</li><li>Microsoft: &quot;Gartner placed Microsoft <strong>furthest in Completeness of Vision</strong> and <strong>highest for Abilility to Execute</strong>.&quot; [sic]</li><li>Google: &quot;For the <strong>seventh consecutive year</strong>, Gartner has named Google a Leader&quot;</li></ul></td>
+<td><a href="https://www.gartner.com/en/documents/5851847">Gartner, 2024b, &quot;Summary&quot; section</a>; <a href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2024-gartner-magic-quadrant-for-strategic-cloud-platform-services/">Khan, 2024, para. 1</a>; <a href="https://cloud.google.com/blog/products/infrastructure-modernization/google-is-a-leader-in-gartner-magic-quadrant-for-strategic-cloud-platform-services">Calder &amp; Vahdat, 2024, para. 1</a></td>
+</tr>
+<tr>
+<td>2024-07-24</td>
+<td>Hype Cycle for Cloud Platform Services, 2024</td>
+<td>Cloud platform technologies, services and trends</td>
+<td>&quot;A new wave of cloud platform innovations in <strong>AI, security, privacy and analytics</strong> crowd the <strong>Peak of Inflated Expectations</strong>.&quot;</td>
+<td><a href="https://www.gartner.com/en/documents/5614791">Gartner, 2024a, &quot;Summary&quot; section</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Calder, B., &amp; Vahdat, A. (2024, October 23). <em>Google is a Leader in Gartner Magic Quadrant for Strategic Cloud Platform Services</em>. Google Cloud Blog. <a href="https://cloud.google.com/blog/products/infrastructure-modernization/google-is-a-leader-in-gartner-magic-quadrant-for-strategic-cloud-platform-services">https://cloud.google.com/blog/products/infrastructure-modernization/google-is-a-leader-in-gartner-magic-quadrant-for-strategic-cloud-platform-services</a></p>
+<p>Calder, B., &amp; Vahdat, A. (2025, August 8). <em>Google is a Leader in the Gartner Magic Quadrant for Strategic Cloud Platform Services</em>. Google Cloud Blog. <a href="https://cloud.google.com/resources/content/gartner-strategic-cloud-platform-services">https://cloud.google.com/resources/content/gartner-strategic-cloud-platform-services</a></p>
+<p>Gartner. (2024a, July 24). <em>Hype Cycle for cloud platform services, 2024</em>. <a href="https://www.gartner.com/en/documents/5614791">https://www.gartner.com/en/documents/5614791</a></p>
+<p>Gartner. (2024b, October 21). <em>Magic Quadrant for strategic cloud platform services</em>. <a href="https://www.gartner.com/en/documents/5851847">https://www.gartner.com/en/documents/5851847</a></p>
+<p>Gartner. (2024c, November 19). <em>Gartner forecasts worldwide public cloud end-user spending to total $723 billion in 2025</em> [Press release]. <a href="https://www.gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025">https://www.gartner.com/en/newsroom/press-releases/2024-11-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-total-723-billion-dollars-in-2025</a></p>
+<p>Gartner. (2025, August 4). <em>Magic Quadrant for strategic cloud platform services</em>. <a href="https://www.gartner.com/en/documents/6808434">https://www.gartner.com/en/documents/6808434</a></p>
+<p>Gartner. (2026a, June 15). <em>Hype Cycle for AI and cloud platform services, 2026</em>. <a href="https://www.gartner.com/en/documents/7997669">https://www.gartner.com/en/documents/7997669</a></p>
+<p>Gartner. (2026b, September 1). <em>Magic Quadrant for strategic cloud platform services</em>. <a href="https://www.gartner.com/en/documents/8326417">https://www.gartner.com/en/documents/8326417</a></p>
+<p>Gartner. (n.d.). <em>About Gartner: Company information &amp; leadership</em>. Retrieved November 3, 2026, from <a href="https://www.gartner.com/en/about">https://www.gartner.com/en/about</a></p>
+<p>Khan, O. (2024, October 23). <em>Microsoft named a Leader in 2024 Gartner Magic Quadrant for Strategic Cloud Platform Services</em>. Microsoft Azure Blog. <a href="https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2024-gartner-magic-quadrant-for-strategic-cloud-platform-services/">https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2024-gartner-magic-quadrant-for-strategic-cloud-platform-services/</a></p>
+<p>Peterson, R. (2026, September 4). <em>AWS named a Leader in the 2026 Gartner Magic Quadrant for Strategic Cloud Platform Services, 16 years running</em>. AWS Migration and Modernization Blog. <a href="https://aws.amazon.com/blogs/migration-and-modernization/aws-named-a-leader-in-gartners-2026-strategic-cloud-platform-services-magic-quadrant-16-years-running/">https://aws.amazon.com/blogs/migration-and-modernization/aws-named-a-leader-in-gartners-2026-strategic-cloud-platform-services-magic-quadrant-16-years-running/</a></p>
+<p>Yun, C. (2025, August 15). <em>AWS named as a Leader in 2025 Gartner Magic Quadrant for Strategic Cloud Platform Services for 15 years in a row</em>. AWS News Blog. <a href="https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-15-years-in-a-row/">https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-15-years-in-a-row/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 19:59:40-05:00">11/03/2026 19:59:40</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

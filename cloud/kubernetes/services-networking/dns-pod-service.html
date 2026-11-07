@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.7 DNS for Services and Pods | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 5.7 DNS for Services and Pods: 5.7.1 Services, 5.7.2 Pods.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="57-dns-for-services-and-pods">5.7 DNS for Services and Pods</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/services-networking-dns-pod-service.png" alt="5.7 DNS for Services and Pods: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5.7 DNS for Services and Pods</strong><br>Service 与 Pod 的 DNS</td>
+<td>(context) &quot;<strong>Kubernetes creates DNS records</strong> for <strong>Services and Pods</strong>.&quot;</td>
+<td>（语境）<strong>Kubernetes 会创建 DNS 记录</strong>，对象是 <strong>Service 和 Pod</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#:%7E:text=Kubernetes%20creates%20DNS%20records%20for%20Services%20and">The Kubernetes Authors, n.d., &quot;DNS for Services and Pods&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>5.7.1 Services</strong><br>Service</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#services">The Kubernetes Authors, n.d., &quot;Services&quot;</a></td>
+</tr>
+<tr>
+<td><strong>A/AAAA records</strong><br>A/AAAA 记录</td>
+<td>&quot;&quot;Normal&quot; (not headless) <strong>Services</strong> are <strong>assigned DNS A and/or AAAA records</strong>, depending on <strong>the IP family or families of the Service</strong>&quot;</td>
+<td>“普通”（非无头）<strong>Service</strong> 会被<strong>分配 DNS A 和/或 AAAA 记录</strong>，取决于 <strong>Service 的 IP 协议族</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#:%7E:text=%22Normal%22%20%28not%20headless%29%20Services%20are%20assigned%20DNS">The Kubernetes Authors, n.d., &quot;A/AAAA records&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SRV records</strong><br>SRV 记录</td>
+<td>&quot;<strong>SRV Records</strong> are created for <strong>named ports</strong> that are part of <strong>normal or headless services</strong>.&quot;</td>
+<td><strong>SRV 记录</strong>为<strong>命名端口</strong>创建，这些端口属于<strong>普通或无头 Service</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#:%7E:text=SRV%20Records%20are%20created%20for%20named%20ports">The Kubernetes Authors, n.d., &quot;SRV records&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>5.7.2 Pods</strong><br>Pod</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#pods">The Kubernetes Authors, n.d., &quot;Pods&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Pod's DNS Policy</strong><br>Pod 的 DNS 策略</td>
+<td>&quot;<strong>DNS policies</strong> can be set on <strong>a per-Pod basis</strong>.&quot;</td>
+<td><strong>DNS 策略</strong>可以<strong>按 Pod 逐个</strong>设置。</td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#:%7E:text=DNS%20policies%20can%20be%20set%20on%20a">The Kubernetes Authors, n.d., &quot;Pod's DNS Policy&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Default</strong><br>Default</td>
+<td>&quot;&quot;<code>Default</code>&quot;: The Pod <strong>inherits the name resolution configuration</strong> from <strong>the node that the Pods run on</strong>.&quot;</td>
+<td>“<code>Default</code>”：Pod <strong>继承名称解析配置</strong>，来自<strong>其所在的节点</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#:%7E:text=%22%60Default%60%22%3A%20The%20Pod%20inherits%20the%20name%20resolution">The Kubernetes Authors, n.d., &quot;Pod's DNS Policy&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>ClusterFirst</strong><br>ClusterFirst</td>
+<td>&quot;&quot;<code>ClusterFirst</code>&quot;: <strong>Any DNS query that does not match the configured cluster domain suffix</strong>, such as &quot;<code>www.kubernetes.io</code>&quot;, <strong>is forwarded to an upstream nameserver by the DNS server.</strong>&quot;</td>
+<td>“<code>ClusterFirst</code>”：<strong>任何与所配置的集群域后缀不匹配的 DNS 查询</strong>（例如“<code>www.kubernetes.io</code>”）<strong>都由 DNS 服务器转发给上游域名服务器。</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#:%7E:text=%22%60ClusterFirst%60%22%3A%20Any%20DNS%20query%20that%20does%20not">The Kubernetes Authors, n.d., &quot;Pod's DNS Policy&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>ClusterFirstWithHostNet</strong><br>ClusterFirstWithHostNet</td>
+<td>&quot;&quot;<code>ClusterFirstWithHostNet</code>&quot;: For <strong>Pods running with hostNetwork</strong>, you should <strong>explicitly set its DNS policy</strong> to &quot;<strong><code>ClusterFirstWithHostNet</code></strong>&quot;.&quot;</td>
+<td>“<code>ClusterFirstWithHostNet</code>”：对<strong>以 hostNetwork 运行的 Pod</strong>，应<strong>显式设置其 DNS 策略</strong>为“<strong><code>ClusterFirstWithHostNet</code></strong>”。</td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#:%7E:text=%22%60ClusterFirstWithHostNet%60%22%3A%20For%20Pods%20running%20with%20hostNetwork%2C%20you">The Kubernetes Authors, n.d., &quot;Pod's DNS Policy&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>None</strong><br>None</td>
+<td>&quot;&quot;<code>None</code>&quot;: It <strong>allows a Pod</strong> to ignore <strong>DNS settings from the Kubernetes environment</strong>.&quot;</td>
+<td>“<code>None</code>”：它<strong>允许 Pod</strong> 忽略<strong>来自 Kubernetes 环境的 DNS 设置</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#:%7E:text=%22%60None%60%22%3A%20It%20allows%20a%20Pod%20to%20ignore">The Kubernetes Authors, n.d., &quot;Pod's DNS Policy&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Pod's DNS Config</strong><br>Pod 的 DNS 配置</td>
+<td>&quot;<strong>Pod's DNS Config</strong> allows users <strong>more control on the DNS settings for a Pod</strong>.&quot;</td>
+<td><strong>Pod 的 DNS 配置</strong>让用户<strong>对 Pod 的 DNS 设置有更多控制</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/#:%7E:text=Pod%27s%20DNS%20Config%20allows%20users%20more%20control">The Kubernetes Authors, n.d., &quot;Pod's DNS Config&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>DNS for Services and Pods</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/">https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

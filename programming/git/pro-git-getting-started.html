@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>Pro Git: Getting Started | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Pro Git: getting started: one figure per part, key terms framed, official definitions and their Chinese translations.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Home">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="pro-git-getting-started">Pro Git: Getting Started</h1>
+
+<p>Study notes on <a href="https://git-scm.com/book/en/v2">Scott Chacon and Ben Straub, Pro Git, 2nd edition</a>. Each section links the official page it follows. Start from the figure: the framed terms are the ones to learn, and the table below it defines them in the same order, each with a citation linked to the passage and a Chinese translation in which each key word has the same colour as in the English. The main verb of each sentence has a red wavy underline, in the English and in the Chinese.</p>
+<h2 id="overview"><a href="https://git-scm.com/book/en/v2">Overview</a></h2>
+<p><img src="media/pro-git-getting-started-0.png" alt="Diagram: Overview"></p>
+<h2 id="what-is-git"><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">What is Git?</a></h2>
+<p><img src="media/pro-git-getting-started-1.png" alt="Diagram: What is Git?"></p>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Git</strong><br>Git 版本控制</td>
+<td>&quot;<strong>Git</strong> is a <strong>free and open source</strong> <strong>distributed version control system</strong> designed to handle everything from small to very large projects with <strong>speed and efficiency</strong>.&quot;</td>
+<td><strong>Git</strong> 是一个<strong>免费且开源</strong>的<strong>分布式版本控制系统</strong>，旨在处理从小型到超大型的各种项目，并做到<strong>快速、高效</strong>。</td>
+<td><a href="https://git-scm.com/#:%7E:text=Git%20is%20a%20free%20and%20open%20source%20distributed%20version">Git, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong>working tree</strong><br>工作区</td>
+<td>&quot;The <strong>working tree</strong> is a <strong>single checkout</strong> of one version of the project. These files are pulled out of the <strong>compressed database</strong> in the Git directory and <strong>placed on disk</strong> for you to use or modify.&quot;</td>
+<td><strong>工作区</strong>是项目某一版本的<strong>单次检出</strong>。这些文件从 Git 目录中的<strong>压缩数据库</strong>中提取出来，<strong>放在磁盘上</strong>供你使用或修改。</td>
+<td><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_the_three_states:%7E:text=The%20working%20tree%20is%20a%20single%20checkout%20of%20one%20version">Chacon, 2014, &quot;The Three States&quot; section, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>modified</strong><br>已修改</td>
+<td>&quot;<strong>Modified</strong> means that you have <strong>changed the file</strong> but have <strong>not committed</strong> it to your <strong>database</strong> yet.&quot;</td>
+<td><strong>已修改</strong>表示你<strong>已更改文件</strong>，但<strong>尚未将其提交</strong>到<strong>数据库</strong>。</td>
+<td><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_the_three_states:%7E:text=Modified%20means%20that%20you%20have%20changed%20the%20file%20but">Chacon, 2014, &quot;The Three States&quot; section, bullet 1</a></td>
+</tr>
+<tr>
+<td><strong>git add</strong><br>git add 暂存</td>
+<td>&quot;Add contents of <strong>new or changed files</strong> to the <strong>index</strong>. The &quot;index&quot; (also known as the &quot;<strong>staging area</strong>&quot;) is what you use to prepare the contents of the <strong>next commit</strong>.&quot;</td>
+<td>将<strong>新文件或已更改文件</strong>的内容添加到<strong>索引</strong>中。“索引”（也称为“<strong>暂存区</strong>”）是你用来准备<strong>下一次提交</strong>内容的地方。</td>
+<td><a href="https://git-scm.com/docs/git-add#_description:%7E:text=Add%20contents%20of%20new%20or%20changed%20files%20to%20the%20index">Git, n.d., &quot;DESCRIPTION&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>staging area (index)</strong><br>暂存区</td>
+<td>&quot;The <strong>staging area</strong> is a file, generally contained in your <strong>Git directory</strong>, that stores information about what will go into your <strong>next commit</strong>. Its technical name in Git parlance is the &quot;<strong>index</strong>&quot;...&quot;</td>
+<td><strong>暂存区</strong>是一个文件，通常位于你的 <strong>Git 目录</strong>中，存储着有关<strong>下一次提交</strong>将包含哪些内容的信息。用 Git 的术语来说，它的技术名称是“<strong>索引</strong>”……</td>
+<td><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_the_three_states:%7E:text=The%20staging%20area%20is%20a%20file%2C%20generally%20contained%20in%20your">Chacon, 2014, &quot;The Three States&quot; section, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>staged</strong><br>已暂存</td>
+<td>&quot;<strong>Staged</strong> means that you have marked a <strong>modified file</strong> in its <strong>current version</strong> to go into your <strong>next commit snapshot</strong>.&quot;</td>
+<td><strong>已暂存</strong>表示你已将<strong>修改过的文件</strong>的<strong>当前版本</strong>标记为要放入<strong>下一次提交快照</strong>中。</td>
+<td><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_the_three_states:%7E:text=Staged%20means%20that%20you%20have%20marked%20a%20modified%20file">Chacon, 2014, &quot;The Three States&quot; section, bullet 2</a></td>
+</tr>
+<tr>
+<td><strong>commit</strong><br>提交</td>
+<td>&quot;With Git, every time you <strong>commit</strong>, or <strong>save the state</strong> of your project, Git basically <strong>takes a picture</strong> of what all your files look like at that moment and stores a reference to that <strong>snapshot</strong>.&quot;</td>
+<td>在 Git 中，每当你<strong>提交</strong>，或者说<strong>保存你的项目状态</strong>时，Git 基本上会为你所有文件在那一刻的样子<strong>拍一张照片</strong>，并存储对该<strong>快照</strong>的一个引用。</td>
+<td><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_snapshots_not_differences:%7E:text=With%20Git%2C%20every%20time%20you%20commit%2C%20or%20save%20the">Chacon, 2014, &quot;Snapshots, Not Differences&quot; section, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Git directory</strong><br>Git 目录（本地仓库）</td>
+<td>&quot;The <strong>Git directory</strong> is where Git stores the <strong>metadata</strong> and <strong>object database</strong> for your project. This is the most important part of Git, and it is what is copied when you <strong>clone a repository</strong> from another computer.&quot;</td>
+<td><strong>Git 目录</strong>是 Git 存储项目<strong>元数据</strong>和<strong>对象数据库</strong>的地方。这是 Git 最重要的部分，也是你从另一台计算机<strong>克隆仓库</strong>时所复制的内容。</td>
+<td><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_the_three_states:%7E:text=The%20Git%20directory%20is%20where%20Git%20stores%20the%20metadata">Chacon, 2014, &quot;The Three States&quot; section, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>committed</strong><br>已提交</td>
+<td>&quot;<strong>Committed</strong> means that the data is <strong>safely stored</strong> in your <strong>local database</strong>.&quot;</td>
+<td><strong>已提交</strong>表示数据已<strong>安全地存储</strong>在<strong>本地数据库</strong>中。</td>
+<td><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#_the_three_states:%7E:text=Committed%20means%20that%20the%20data%20is%20safely%20stored%20in">Chacon, 2014, &quot;The Three States&quot; section, bullet 3</a></td>
+</tr>
+<tr>
+<td><strong>remote repository</strong><br>远程仓库</td>
+<td>&quot;A repository which is used to <strong>track the same project</strong> but <strong>resides somewhere else</strong>. To communicate with <strong>remotes</strong>, see fetch or push.&quot;</td>
+<td>一个用于<strong>跟踪同一项目</strong>、但<strong>位于其他位置</strong>的仓库。要与<strong>远程仓库</strong>通信，请参阅 fetch 或 push。</td>
+<td><a href="https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefremotearemoterepository:%7E:text=A%20repository%20which%20is%20used%20to%20track%20the%20same%20project">Git, n.d., &quot;remote repository&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong>push</strong><br>推送</td>
+<td>&quot;When you have <strong>your project</strong> at a point that you want to <strong>share</strong>, you have to <strong>push it upstream</strong>.&quot;</td>
+<td>当<strong>你的项目</strong>进展到你想要<strong>分享</strong>的程度时，你必须将它<strong>推送到上游</strong>。</td>
+<td><a href="https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes#_pushing_remotes:%7E:text=When%20you%20have%20your%20project%20at%20a%20point%20that">Chacon, 2014, &quot;Pushing to Your Remotes&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>pull</strong><br>拉取</td>
+<td>&quot;<strong>Pulling</strong> a <strong>branch</strong> means to <strong>fetch</strong> it and <strong>merge</strong> it.&quot;</td>
+<td><strong>拉取</strong>一个<strong>分支</strong>意味着<strong>获取</strong>它并<strong>合并</strong>它。</td>
+<td><a href="https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpullapull:%7E:text=Pulling%20a%20branch%20means%20to%20fetch%20it%20and%20merge%20it">Git, n.d., &quot;pull&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong>clone</strong><br>克隆</td>
+<td>&quot;If you want to get a copy of an <strong>existing Git repository</strong> — for example, a project you’d like to <strong>contribute</strong> to — the command you need is <strong>git clone</strong>.&quot;</td>
+<td>如果你想获取一个<strong>现有 Git 仓库</strong>的副本——例如，一个你想<strong>参与贡献</strong>的项目——你需要的命令是 <strong>git clone</strong>。</td>
+<td><a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#_git_cloning:%7E:text=If%20you%20want%20to%20get%20a%20copy%20of%20an%20existing">Chacon, 2014, &quot;Cloning an Existing Repository&quot; section, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:35-04:00">10/27/2026 21:51:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

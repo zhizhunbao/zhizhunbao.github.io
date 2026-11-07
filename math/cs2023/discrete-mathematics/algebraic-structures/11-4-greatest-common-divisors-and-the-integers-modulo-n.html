@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>11.4 Greatest Common Divisors and the Integers Modulo n | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="11.4 Greatest Common Divisors and the Integers Modulo n, part of 11 Algebraic Structures: 11 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="114-greatest-common-divisors-and-the-integers-modulo-n">11.4 Greatest Common Divisors and the Integers Modulo n</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/11-4-greatest-common-divisors-and-the-integers-modulo-n.png" alt="11.4 Greatest Common Divisors and the Integers Modulo n: its 11 terms, in 11 Algebraic Structures."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>11.4 Greatest Common Divisors and the Integers Modulo n</strong><br>最大公约数与模 n 整数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html">Doerr &amp; Levasseur, n.d., section 11.4</a></td>
+</tr>
+<tr>
+<td><strong>The Division Property for Integers</strong><br>整数的带余除法性质</td>
+<td>&quot;If <span class="math">\(m, n\in \mathbb{Z}\text{,}\)</span> <span class="math">\(n&gt;0\text{,}\)</span> then <strong>there exist two unique integers, <span class="math">\(q\)</span> (the quotient) and <span class="math">\(r\)</span> (the remainder)</strong>, such that <span class="math">\(m = n q + r\)</span> and <span class="math">\(0 \leq r &lt; n\text{.}\)</span>&quot;</td>
+<td>若 <span class="math">\(m, n\in \mathbb{Z}\)</span>， 且 <span class="math">\(n&gt;0\)</span>，则<strong>存在唯一的两个整数 <span class="math">\(q\)</span>（商）和 <span class="math">\(r\)</span></strong>（余数），使得 <span class="math">\(m = n q + r\)</span> 且 <span class="math">\(0 \leq r &lt; n\)</span>。</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#th-division-property">Doerr &amp; Levasseur, n.d., Theorem 11.4.1</a></td>
+</tr>
+<tr>
+<td><strong>Greatest Common Divisor</strong><br>最大公约数</td>
+<td>&quot;Given two integers, <span class="math">\(a\)</span> and <span class="math">\(b\text{,}\)</span> not both zero, the <strong>greatest common divisor</strong> of <span class="math">\(a\)</span> and <span class="math">\(b\)</span> is <strong>the positive integer</strong> <span class="math">\(g=\gcd(a,b)\)</span> such that <span class="math">\(g \mid a\text{,}\)</span> <span class="math">\(g\mid b\text{,}\)</span> and&quot;</td>
+<td>给定两个不全为零的整数 <span class="math">\(a\)</span> 和 <span class="math">\(b\)</span>，<span class="math">\(a\)</span> 与 <span class="math">\(b\)</span> 的<strong>最大公约数</strong>是<strong>正整数</strong> <span class="math">\(g=\gcd(a,b)\)</span>，使得 <span class="math">\(g \mid a\)</span>，<span class="math">\(g\mid b\)</span>，并且</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#def-gcd">Doerr &amp; Levasseur, n.d., Definition 11.4.5</a></td>
+</tr>
+<tr>
+<td><strong>Relatively Prime</strong><br>互素</td>
+<td>&quot;A pair of integers, <span class="math">\(a\)</span> and <span class="math">\(b\text{,}\)</span> are <strong>relatively prime</strong> if <span class="math">\(\gcd(a, b)=1\)</span>&quot;</td>
+<td>一对整数 <span class="math">\(a\)</span> 和 <span class="math">\(b\)</span>， <strong>互素</strong>，如果 <span class="math">\(\gcd(a, b)=1\)</span></td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#def-def-rel-prime">Doerr &amp; Levasseur, n.d., Definition 11.4.6</a></td>
+</tr>
+<tr>
+<td><strong>Bézout’s lemma</strong><br>裴蜀引理</td>
+<td>&quot;If <span class="math">\(a\)</span> and <span class="math">\(b\)</span> are positive integers, the <strong>smallest positive value of <span class="math">\(a x + b y\)</span> is the greatest common divisor</strong> of <span class="math">\(a\)</span> and <span class="math">\(b\text{,}\)</span> <span class="math">\(\gcd(a,b)\text{.}\)</span>&quot;</td>
+<td>若 <span class="math">\(a\)</span> 和 <span class="math">\(b\)</span> 是正整数，则 <strong><span class="math">\(a x + b y\)</span> 的最小正值是最大公约数</strong> <span class="math">\(\gcd(a,b)\)</span>，即 <span class="math">\(a\)</span> 与 <span class="math">\(b\)</span> 的最大公约数。</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#theorem-11-4-1">Doerr &amp; Levasseur, n.d., Theorem 11.4.10</a></td>
+</tr>
+<tr>
+<td><strong>The Integers Modulo n</strong><br>模 n 整数</td>
+<td>&quot;If <span class="math">\(n\)</span> is a positive integer greater than one, we define the <strong>integers modulo <span class="math">\(n\)</span></strong> to be the set <span class="math">\(\{0, 1, 2,..., n-1\}\text{.}\)</span>&quot;</td>
+<td>若 <span class="math">\(n\)</span> 是大于 1 的正整数，我们把<strong>模 <span class="math">\(n\)</span> 整数</strong>定义为集合 <span class="math">\(\{0, 1, 2,..., n-1\}\)</span>。</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#def-integers-modulo-n">Doerr &amp; Levasseur, n.d., Definition 11.4.13</a></td>
+</tr>
+<tr>
+<td><strong>Modular Addition</strong><br>模加法</td>
+<td>&quot;If <span class="math">\(n\)</span> is a positive integer, we define <strong>addition modulo <span class="math">\(n\)</span></strong> <span class="math">\(\left(+_n\right.\)</span>) as follows. If <span class="math">\(a, b \in \mathbb{Z}_n\text{,}\)</span>&quot;</td>
+<td>若 <span class="math">\(n\)</span> 是正整数，我们如下定义<strong>模 <span class="math">\(n\)</span> 加法</strong> <span class="math">\(\left(+_n\right.\)</span>)。若 <span class="math">\(a, b \in \mathbb{Z}_n\)</span>，</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#def-def-modular-addition">Doerr &amp; Levasseur, n.d., Definition 11.4.14</a></td>
+</tr>
+<tr>
+<td><strong>Modular Multiplication</strong><br>模乘法</td>
+<td>&quot;If <span class="math">\(n\)</span> is a positive integer, we define <strong>multiplication modulo <span class="math">\(n\)</span></strong> <span class="math">\(\left(\times_n\right.\)</span>) as follows. If <span class="math">\(a, b \in \mathbb{Z}_n\text{,}\)</span>&quot;</td>
+<td>若 <span class="math">\(n\)</span> 是正整数，我们如下定义<strong>模 <span class="math">\(n\)</span> 乘法</strong> <span class="math">\(\left(\times_n\right.\)</span>)。若 <span class="math">\(a, b \in \mathbb{Z}_n\)</span>，</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#def-def-modular-multiplication">Doerr &amp; Levasseur, n.d., Definition 11.4.15</a></td>
+</tr>
+<tr>
+<td><strong>Additive Inverses in ℤn</strong><br>ℤn 中的加法逆元</td>
+<td>&quot;If <span class="math">\(a \in \mathbb{Z}_n\)</span>, <span class="math">\(a\neq 0\)</span>, then the additive inverse of a <strong>is <span class="math">\(n - a\)</span></strong>.&quot;</td>
+<td>若 <span class="math">\(a \in \mathbb{Z}_n\)</span>，<span class="math">\(a\neq 0\)</span>，则 a 的加法逆元<strong>是 <span class="math">\(n - a\)</span></strong>。</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#theorem-modular-add-inverse">Doerr &amp; Levasseur, n.d., Theorem 11.4.18</a></td>
+</tr>
+<tr>
+<td><strong>The Additive Group of Integers Modulo n</strong><br>模 n 整数加法群</td>
+<td>&quot;<strong>The Additive Group of Integers Modulo <span class="math">\(n\)</span></strong> is the group with domain <span class="math">\(\{0, 1, 2, \dots, n-1\}\)</span> and with <strong>the operation of mod <span class="math">\(n\)</span> addition</strong>. It is denoted as <span class="math">\(\mathbb{Z}_n\text{.}\)</span>&quot;</td>
+<td><strong>模 <span class="math">\(n\)</span> 整数加法群</strong>是以 <span class="math">\(\{0, 1, 2, \dots, n-1\}\)</span> 为定义域、运算为<strong>模 <span class="math">\(n\)</span> 加法</strong>的群。记作 <span class="math">\(\mathbb{Z}_n\)</span>。</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#ss-properties-modular-arithmetic-5">Doerr &amp; Levasseur, n.d., Definition 11.4.19</a></td>
+</tr>
+<tr>
+<td><strong>The Multiplicative Group of Integers Modulo n</strong><br>模 n 整数乘法群</td>
+<td>&quot;<strong>The Multiplicative Group of Integers Modulo <span class="math">\(n\)</span></strong> is the group with domain <span class="math">\(\{k\in \mathbb{Z} \vert 1 \leq k \leq n-1 \textrm{ and }\gcd(n,k)=1\}\)</span> and with <strong>the operation of mod <span class="math">\(n\)</span> multiplication</strong>. It is denoted as <span class="math">\(\mathbb{U}_n\text{.}\)</span>&quot;</td>
+<td><strong>模 <span class="math">\(n\)</span> 整数乘法群</strong>是以 <span class="math">\(\{k\in \mathbb{Z} \vert 1 \leq k \leq n-1 \textrm{ and }\gcd(n,k)=1\}\)</span> 为定义域、运算为<strong>模 <span class="math">\(n\)</span> 乘法</strong>的群。记作 <span class="math">\(\mathbb{U}_n\)</span>。</td>
+<td><a href="https://discretemath.org/ads/s-gcds-and-zsubn.html#ss-properties-modular-arithmetic-9">Doerr &amp; Levasseur, n.d., Definition 11.4.20</a></td>
+</tr>
+<tr>
+<td><strong>Modular arithmetic</strong><br>模运算</td>
+<td>&quot;Modular arithmetic is the <strong>arithmetic of congruences</strong>, sometimes known informally as '<strong>clock arithmetic</strong>.'&quot;</td>
+<td>模运算是<strong>同余的算术</strong>，非正式地也称为“<strong>时钟算术</strong>”。</td>
+<td><a href="https://mathworld.wolfram.com/ModularArithmetic.html#:%7E:text=Modular%20arithmetic%20is%20the%20arithmetic%20of%20congruences">Weisstein, n.d., &quot;Modular arithmetic&quot; entry, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Doerr, A., &amp; Levasseur, K. (n.d.). <em>Applied discrete structures</em>. Retrieved October 28, 2026, from <a href="https://discretemath.org/ads/index-ads.html">https://discretemath.org/ads/index-ads.html</a></p>
+<p>Weisstein, E. W. (n.d.). <em>Modular arithmetic</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/ModularArithmetic.html">https://mathworld.wolfram.com/ModularArithmetic.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-29 19:52:55-04:00">10/29/2026 19:52:55</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.5 Improper integrals | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="5.5 Improper integrals, part of 5 The Riemann Integral in Real Analysis: 11 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="55-improper-integrals">5.5 Improper integrals</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/5-5-improper-integrals.png" alt="5.5 Improper integrals: its 11 terms, in 5 The Riemann Integral."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5.5 Improper integrals</strong><br>反常积分</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html">Lebl, 2026, section 5.5</a></td>
+</tr>
+<tr>
+<td><strong>Improper Integrals</strong><br>反常积分</td>
+<td>&quot;For such intervals or functions, the Riemann integral is not defined, but we will write down the integral anyway in the spirit of Lemma 5.2.8. These integrals are called <strong>improper integrals</strong> and are <strong>limits of integrals rather than integrals themselves</strong>.&quot;</td>
+<td>对这样的区间或函数，黎曼积分没有定义，但我们仍按引理 5.2.8 的精神写出积分。这些积分称为<strong>反常积分</strong>，它们是<strong>积分的极限，而不是积分本身</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-2-2">Lebl, 2026, section 5.5</a></td>
+</tr>
+<tr>
+<td><strong>Convergent Improper Integral</strong><br>收敛的反常积分</td>
+<td>&quot;Suppose <span class="math">\(f \colon [a,\infty) \to \mathbb{R}\)</span> is a function such that <span class="math">\(f\)</span> is Riemann integrable on <span class="math">\([a,c]\)</span> for all <span class="math">\(c &lt; \infty\)</span>. We define <span class="math">\(\int_a^\infty f := \lim_{c \to \infty} \int_a^c f\)</span> if the limit exists. <strong>If the limit exists</strong>, we say the improper integral <strong>converges</strong>.&quot;</td>
+<td>设 <span class="math">\(f \colon [a,\infty) \to \mathbb{R}\)</span> 对所有 <span class="math">\(c &lt; \infty\)</span> 在 <span class="math">\([a,c]\)</span> 上黎曼可积。若极限存在，定义 <span class="math">\(\int_a^\infty f := \lim_{c \to \infty} \int_a^c f\)</span>。<strong>若极限存在</strong>，就说该反常积分<strong>收敛</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-2-3">Lebl, 2026, Definition 5.5.1</a></td>
+</tr>
+<tr>
+<td><strong>Divergent Improper Integral</strong><br>发散的反常积分</td>
+<td>&quot;<strong>If the limit does not exist</strong>, we say the improper integral <strong>diverges</strong>.&quot;</td>
+<td><strong>若极限不存在</strong>，就说该反常积分<strong>发散</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-2-3">Lebl, 2026, Definition 5.5.1</a></td>
+</tr>
+<tr>
+<td><strong>p-Test for Integrals</strong><br>积分的 p 判别法</td>
+<td>&quot;The improper integral <span class="math">\(\int_1^\infty \frac{1}{x^p} \,dx\)</span> <strong>converges to <span class="math">\(\frac{1}{p-1}\)</span> if <span class="math">\(p &gt; 1\)</span> and diverges if <span class="math">\(0 &lt; p \leq 1\)</span></strong>. The improper integral <span class="math">\(\int_0^1 \frac{1}{x^p} \,dx\)</span> <strong>converges to <span class="math">\(\frac{1}{1-p}\)</span> if <span class="math">\(0 &lt; p &lt; 1\)</span> and diverges if <span class="math">\(p \geq 1\)</span></strong>.&quot;</td>
+<td>反常积分 <span class="math">\(\int_1^\infty \frac{1}{x^p} \,dx\)</span> <strong>当 <span class="math">\(p &gt; 1\)</span> 时收敛到 <span class="math">\(\frac{1}{p-1}\)</span>，当 <span class="math">\(0 &lt; p \leq 1\)</span> 时发散</strong>。反常积分 <span class="math">\(\int_0^1 \frac{1}{x^p} \,dx\)</span> <strong>当 <span class="math">\(0 &lt; p &lt; 1\)</span> 时收敛到 <span class="math">\(\frac{1}{1-p}\)</span>，当 <span class="math">\(p \geq 1\)</span> 时发散</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#impropriemann_ptest">Lebl, 2026, Proposition 5.5.2</a></td>
+</tr>
+<tr>
+<td><strong>Comparison Test for Improper Integrals</strong><br>反常积分的比较判别法</td>
+<td>&quot;Let <span class="math">\(f \colon [a,\infty) \to \mathbb{R}\)</span> and <span class="math">\(g \colon [a,\infty) \to \mathbb{R}\)</span> be functions that are Riemann integrable on <span class="math">\([a,b]\)</span> for all <span class="math">\(b &gt; a\)</span>. Suppose that for all <span class="math">\(x \geq a\)</span>, <strong><span class="math">\(\bigl\lvert f(x) \bigr\rvert \leq g(x)\)</span></strong>. <strong>If <span class="math">\(\int_a^\infty g\)</span> converges, then <span class="math">\(\int_a^\infty f\)</span> converges</strong>, and in this case <span class="math">\(\left\lvert \int_a^\infty f \right\rvert \leq \int_a^\infty g\)</span>. <strong>If <span class="math">\(\int_a^\infty f\)</span> diverges, then <span class="math">\(\int_a^\infty g\)</span> diverges.</strong>&quot;</td>
+<td>设 <span class="math">\(f \colon [a,\infty) \to \mathbb{R}\)</span> 与 <span class="math">\(g \colon [a,\infty) \to \mathbb{R}\)</span> 对所有 <span class="math">\(b &gt; a\)</span> 在 <span class="math">\([a,b]\)</span> 上黎曼可积，且对所有 <span class="math">\(x \geq a\)</span> 有 <strong><span class="math">\(\bigl\lvert f(x) \bigr\rvert \leq g(x)\)</span></strong>。<strong>若 <span class="math">\(\int_a^\infty g\)</span> 收敛，则 <span class="math">\(\int_a^\infty f\)</span> 收敛</strong>，并且 <span class="math">\(\left\lvert \int_a^\infty f \right\rvert \leq \int_a^\infty g\)</span>；<strong>若 <span class="math">\(\int_a^\infty f\)</span> 发散，则 <span class="math">\(\int_a^\infty g\)</span> 发散。</strong></td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-2-14">Lebl, 2026, Proposition 5.5.5</a></td>
+</tr>
+<tr>
+<td><strong>Sinc Function</strong><br>sinc 函数</td>
+<td>&quot;An example to keep in mind for improper integrals is the <strong>sinc function</strong>. This function comes up quite often in both pure and applied mathematics. Define <strong><span class="math">\(\operatorname{sinc}(x) := \begin{cases} \frac{\sin(x)}{x} &amp; \text{if } x \neq 0 , \\ 1 &amp; \text{if } x = 0 . \end{cases}\)</span></strong>&quot;</td>
+<td>关于反常积分，值得记住的一个例子是 <strong>sinc 函数</strong>。这个函数在纯粹数学和应用数学中都经常出现。定义 <strong><span class="math">\(\operatorname{sinc}(x) := \begin{cases} \frac{\sin(x)}{x} &amp; \text{if } x \neq 0 , \\ 1 &amp; \text{if } x = 0 . \end{cases}\)</span></strong></td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-2-26">Lebl, 2026, Example 5.5.12</a></td>
+</tr>
+<tr>
+<td><strong>Integral Test for Series</strong><br>级数的积分判别法</td>
+<td>&quot;Suppose <span class="math">\(f \colon [k,\infty) \to \mathbb{R}\)</span> is a decreasing nonnegative function where <span class="math">\(k \in \mathbb{Z}\)</span>. Then <strong><span class="math">\(\sum_{n=k}^\infty f(n)\)</span> converges if and only if <span class="math">\(\int_k^\infty f\)</span> converges</strong>.&quot;</td>
+<td>设 <span class="math">\(f \colon [k,\infty) \to \mathbb{R}\)</span> 是递减的非负函数，<span class="math">\(k \in \mathbb{Z}\)</span>，则 <strong><span class="math">\(\sum_{n=k}^\infty f(n)\)</span> 收敛当且仅当 <span class="math">\(\int_k^\infty f\)</span> 收敛</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-3-3">Lebl, 2026, Proposition 5.5.13</a></td>
+</tr>
+<tr>
+<td><strong>Laplace Transform</strong><br>拉普拉斯变换</td>
+<td>&quot;Show that the <strong>Laplace transform</strong> of <span class="math">\(f\)</span> exists. That is, for every <span class="math">\(s &gt; a\)</span> the following integral converges: <strong><span class="math">\(F(s) := \int_{0}^\infty f(t) e^{-st} \,dt\)</span></strong>.&quot;</td>
+<td>证明 <span class="math">\(f\)</span> 的<strong>拉普拉斯变换</strong>存在，即对每个 <span class="math">\(s &gt; a\)</span>，下列积分收敛：<strong><span class="math">\(F(s) := \int_{0}^\infty f(t) e^{-st} \,dt\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-4-6">Lebl, 2026, Exercise 5.5.6</a></td>
+</tr>
+<tr>
+<td><strong>Fourier Sine and Cosine Transforms</strong><br>傅里叶正弦与余弦变换</td>
+<td>&quot;Show that the <strong>Fourier sine and cosine transforms</strong> exist. That is, for every <span class="math">\(\omega \geq 0\)</span> the following integrals converge <strong><span class="math">\(F^s(\omega) := \frac{1}{\pi} \int_{-\infty}^\infty f(t) \sin(\omega t) \,dt , \qquad F^c(\omega) := \frac{1}{\pi} \int_{-\infty}^\infty f(t) \cos(\omega t) \,dt\)</span></strong>.&quot;</td>
+<td>证明<strong>傅里叶正弦与余弦变换</strong>存在，即对每个 <span class="math">\(\omega \geq 0\)</span>，下列积分收敛：<strong><span class="math">\(F^s(\omega) := \frac{1}{\pi} \int_{-\infty}^\infty f(t) \sin(\omega t) \,dt , \qquad F^c(\omega) := \frac{1}{\pi} \int_{-\infty}^\infty f(t) \cos(\omega t) \,dt\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-4-7">Lebl, 2026, Exercise 5.5.7</a></td>
+</tr>
+<tr>
+<td><strong>Cauchy Principal Value</strong><br>柯西主值</td>
+<td>&quot;Suppose <span class="math">\(f \colon [a,b] \to \mathbb{R}\)</span> is a function and <span class="math">\(a &lt; c &lt; b\)</span>, where <span class="math">\(f\)</span> is Riemann integrable on the intervals <span class="math">\([a,c-\epsilon]\)</span> and <span class="math">\([c+\epsilon,b]\)</span> for all <span class="math">\(\epsilon &gt; 0\)</span>. Define the <strong>Cauchy principal value</strong> of <span class="math">\(\int_a^b f\)</span> as <strong><span class="math">\(p.v.\!\int_a^b f := \lim_{\epsilon\to 0^+} \left( \int_a^{c-\epsilon} f + \int_{c+\epsilon}^b f \right)\)</span></strong>, if the limit exists.&quot;</td>
+<td>设 <span class="math">\(f \colon [a,b] \to \mathbb{R}\)</span> 是函数，<span class="math">\(a &lt; c &lt; b\)</span>，且对所有 <span class="math">\(\epsilon &gt; 0\)</span>，<span class="math">\(f\)</span> 在区间 <span class="math">\([a,c-\epsilon]\)</span> 与 <span class="math">\([c+\epsilon,b]\)</span> 上黎曼可积。若极限存在，定义 <span class="math">\(\int_a^b f\)</span> 的<strong>柯西主值</strong>为 <strong><span class="math">\(p.v.\!\int_a^b f := \lim_{\epsilon\to 0^+} \left( \int_a^{c-\epsilon} f + \int_{c+\epsilon}^b f \right)\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-4-13">Lebl, 2026, Exercises 5.5</a></td>
+</tr>
+<tr>
+<td><strong>Convolution</strong><br>卷积</td>
+<td>&quot;Let <span class="math">\(f \colon \mathbb{R} \to \mathbb{R}\)</span> and <span class="math">\(g \colon \mathbb{R} \to \mathbb{R}\)</span> be continuous functions, where <span class="math">\(g(x) = 0\)</span> for all <span class="math">\(x \notin [a,b]\)</span> for some interval <span class="math">\([a,b]\)</span>. Show that the <strong>convolution</strong> <strong><span class="math">\((g * f)(x) := \int_{-\infty}^\infty f(t)g(x-t)\,dt\)</span></strong> is well-defined for all <span class="math">\(x \in \mathbb{R}\)</span>.&quot;</td>
+<td>设 <span class="math">\(f \colon \mathbb{R} \to \mathbb{R}\)</span> 与 <span class="math">\(g \colon \mathbb{R} \to \mathbb{R}\)</span> 是连续函数，且对某个区间 <span class="math">\([a,b]\)</span>，当 <span class="math">\(x \notin [a,b]\)</span> 时 <span class="math">\(g(x) = 0\)</span>。证明<strong>卷积</strong> <strong><span class="math">\((g * f)(x) := \int_{-\infty}^\infty f(t)g(x-t)\,dt\)</span></strong> 对所有 <span class="math">\(x \in \mathbb{R}\)</span> 有定义。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_impropriemann.html#sec_impropriemann-4-15">Lebl, 2026, Exercise 5.5.14</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Lebl, J. (2026). <em>Basic analysis I &amp; II: Introduction to real analysis</em> (May 22, 2026 edition). Retrieved October 29, 2026, from <a href="https://www.jirka.org/ra/html/">https://www.jirka.org/ra/html/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 11:58:07-04:00">10/31/2026 11:58:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

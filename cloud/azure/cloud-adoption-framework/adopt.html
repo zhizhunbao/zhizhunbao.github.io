@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>26.4 Adopt | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 26.4 Adopt: Migration, Modernization, Cloud-native.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="264-adopt">26.4 Adopt</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/adopt.png" alt="Adopt, in its sections: Migration (expanded into Plan, Prepare, Execute, Optimize, Decommission), Modernization (expanded into Prepare, Plan, Execute, Optimize), Cloud-native (expanded into Plan, Build, Deploy, Optimize), in the order of the CAF table of contents."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Adopt</strong><br>采用</td>
+<td>(context) &quot;<strong>How will we migrate, modernize, and build workloads?</strong>&quot;</td>
+<td>（语境）<strong>我们要怎样迁移、现代化和构建工作负载？</strong></td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview#:%7E:text=How%20will%20we%20migrate%2C%20modernize%2C%20and%20build%20workloads%3F">Microsoft, 2026a, &quot;How the Cloud Adoption Framework works&quot; section, table row 4</a></td>
+</tr>
+<tr>
+<td><strong>Migration</strong><br>迁移</td>
+<td>(context) &quot;This plan <strong>translates high-level migration strategies</strong> into <strong>actionable deployment sequences</strong>.&quot;</td>
+<td>（语境）该计划把<strong>高层次的迁移策略转化</strong>为<strong>可执行的部署顺序</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:%7E:text=This%20plan%20translates%20high-level%20migration%20strategies">Microsoft, 2026f, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Plan (Migration)</strong><br>规划（迁移）</td>
+<td>&quot;A <strong>migration plan</strong> defines <strong>the specific order, timing, and approach for migrating workloads to Azure</strong>.&quot;</td>
+<td><strong>迁移计划</strong>定义了<strong>把工作负载迁移到 Azure 的具体顺序、时间和方法</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:%7E:text=A%20migration%20plan%20defines%20the%20specific%20order">Microsoft, 2026f, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Prepare (Migration)</strong><br>准备（迁移）</td>
+<td>(context) &quot;Before migrating to Azure, <strong>workloads must be cloud-ready</strong>. Cloud readiness <strong>reduces cutover risk</strong> and <strong>ensures compatibility with Azure services</strong>.&quot;</td>
+<td>（语境）迁移到 Azure 之前，<strong>工作负载必须做好上云准备</strong>。上云准备<strong>降低切换风险</strong>，并<strong>确保与 Azure 服务兼容</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/prepare-workloads-cloud#:%7E:text=Before%20migrating%20to%20Azure%2C%20workloads%20must%20be%20cloud-ready">Microsoft, 2025h, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Execute (Migration)</strong><br>执行（迁移）</td>
+<td>(context) &quot;This article provides structured guidance for <strong>executing a successful migration to Azure</strong>. The guidance covers both <strong>near-zero downtime and planned downtime approaches</strong> to accommodate different business requirements.&quot;</td>
+<td>（语境）本文为<strong>成功执行向 Azure 的迁移</strong>提供结构化指导。该指导涵盖<strong>近零停机和计划停机两种方法</strong>，以适应不同的业务要求。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/execute-migration#:%7E:text=provides%20structured%20guidance%20for%20executing%20a%20successful%20migration">Microsoft, 2025c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Optimize (Migration)</strong><br>优化（迁移）</td>
+<td>(context) &quot;A successful migration <strong>doesn't end at cutover</strong>. <strong>Post-migration optimization</strong> ensures workloads operate <strong>efficiently, securely, and cost-effectively</strong> in Azure.&quot;</td>
+<td>（语境）成功的迁移<strong>并不止于切换</strong>。<strong>迁移后优化</strong>确保工作负载在 Azure 中<strong>高效、安全且经济地</strong>运行。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/optimize-workloads-after-migration#:%7E:text=A%20successful%20migration%20doesn">Microsoft, 2025f, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Decommission (Migration)</strong><br>停用（迁移）</td>
+<td>(context) &quot;This article provides guidance to <strong>safely decommission source workloads</strong> after <strong>successful migration to Azure</strong>.&quot;</td>
+<td>（语境）本文提供指导，帮助<strong>安全地停用源工作负载</strong>，时机是<strong>成功迁移到 Azure</strong> 之后。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/decommission-source-workload#:%7E:text=provides%20guidance%20to%20safely%20decommission%20source%20workloads">Microsoft, 2025b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Modernization</strong><br>现代化</td>
+<td>&quot;Modernization is <strong>improving how a workload meets requirements</strong> by <strong>expanding its capabilities or making it more efficient to maintain and evolve</strong>.&quot;</td>
+<td>现代化是<strong>改进工作负载满足要求的方式</strong>，方法是<strong>扩展其能力，或使其更易于维护和演进</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/prepare-organization-cloud-modernization#:%7E:text=Modernization%20is%20improving%20how%20a%20workload%20meets%20requirements">Microsoft, 2026c, &quot;What is modernization?&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Prepare (Modernization)</strong><br>准备（现代化）</td>
+<td>(context) &quot;Organizations need a consistent way to determine <strong>which modernization opportunities justify investment</strong> and <strong>how to prioritize them</strong> across the workload portfolio.&quot;</td>
+<td>（语境）组织需要一种一致的方法来确定<strong>哪些现代化机会值得投资</strong>，以及<strong>如何在工作负载组合中确定它们的优先级</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/prepare-organization-cloud-modernization#:%7E:text=Organizations%20need%20a%20consistent%20way%20to%20determine%20which%20modernization%20opportunities">Microsoft, 2026c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Plan (Modernization)</strong><br>规划（现代化）</td>
+<td>(context) &quot;<strong>Proper planning and governance</strong> are critical to modernization. In this stage, you decide <strong>which modernization approach to apply and how to do it</strong>.&quot;</td>
+<td>（语境）<strong>适当的规划和治理</strong>对现代化至关重要。在这个阶段，你要决定<strong>采用哪种现代化方法以及如何实施</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/plan-cloud-modernization#:%7E:text=Proper%20planning%20and%20governance%20are%20critical%20to%20modernization">Microsoft, 2025g, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Execute (Modernization)</strong><br>执行（现代化）</td>
+<td>&quot;Execution is the phase where you <strong>implement your modernization plan</strong>.&quot;</td>
+<td>执行是你<strong>实施现代化计划</strong>的阶段。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/execute-cloud-modernization#:%7E:text=Execution%20is%20the%20phase%20where%20you%20implement%20your%20modernization%20plan">Microsoft, 2025d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Optimize (Modernization)</strong><br>优化（现代化）</td>
+<td>(context) &quot;After you complete a modernization phase or the entire project, it's time to ensure you're <strong>getting the full benefits</strong> and to <strong>embed a culture of continuous improvement</strong>.&quot;</td>
+<td>（语境）完成某个现代化阶段或整个项目后，就该确保你<strong>获得全部收益</strong>，并<strong>融入持续改进的文化</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/optimize-after-cloud-modernization#:%7E:text=After%20you%20complete%20a%20modernization%20phase%20or%20the%20entire%20project">Microsoft, 2026d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cloud-native</strong><br>云原生</td>
+<td>&quot;A <strong>cloud-native solution</strong> creates <strong>business value by building new workloads or enhancing existing ones</strong>.&quot;</td>
+<td><strong>云原生解决方案</strong>通过<strong>构建新工作负载或增强现有工作负载来创造业务价值</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/plan-cloud-native-solutions#:%7E:text=A%20cloud-native%20solution%20creates%20business%20value">Microsoft, 2026e, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Plan (Cloud-native)</strong><br>规划（云原生）</td>
+<td>(context) &quot;Whether you're developing a new application or adding new features to an existing system, cloud-native development is a <strong>journey through planning, building, deploying, and optimizing your workloads</strong>.&quot;</td>
+<td>（语境）无论是开发新应用程序，还是为现有系统添加新功能，云原生开发都是一段<strong>经历规划、构建、部署和优化工作负载的历程</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/plan-cloud-native-solutions#:%7E:text=cloud-native%20development%20is%20a%20journey%20through%20planning">Microsoft, 2026e, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Build (Cloud-native)</strong><br>构建（云原生）</td>
+<td>(context) &quot;After planning, <strong>build and configure the solution in a development environment</strong>. Follow best practices and <strong>ensure quality through testing</strong>.&quot;</td>
+<td>（语境）规划之后，<strong>在开发环境中构建并配置解决方案</strong>。遵循最佳做法，并<strong>通过测试确保质量</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/build-cloud-native-solutions#:%7E:text=After%20planning%2C%20build%20and%20configure%20the%20solution">Microsoft, 2025a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Deploy (Cloud-native)</strong><br>部署（云原生）</td>
+<td>(context) &quot;Now, <strong>deploy the solution to the live Azure environment</strong> following the <strong>planned strategy</strong>.&quot;</td>
+<td>（语境）现在，<strong>把解决方案部署到实时 Azure 环境</strong>，遵循<strong>计划的策略</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/deploy-cloud-native-solutions#:%7E:text=deploy%20the%20solution%20to%20the%20live%20Azure%20environment">Microsoft, 2026b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Optimize (Cloud-native)</strong><br>优化（云原生）</td>
+<td>(context) &quot;A deployed solution must <strong>evolve to remain secure, cost-effective, and performant</strong>.&quot;</td>
+<td>（语境）已部署的解决方案必须<strong>不断演进，以保持安全、经济和高性能</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/optimize-cloud-native-solutions#:%7E:text=A%20deployed%20solution%20must%20evolve%20to%20remain%20secure">Microsoft, 2025e, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2025a, August 1). <em>Build cloud-native solutions</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/build-cloud-native-solutions">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/build-cloud-native-solutions</a></li>
+<li>Microsoft. (2025b, July 22). <em>Decommission source workloads after migration to cloud</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/decommission-source-workload">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/decommission-source-workload</a></li>
+<li>Microsoft. (2025c, August 20). <em>Execute migration to cloud</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/execute-migration">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/execute-migration</a></li>
+<li>Microsoft. (2025d, August 1). <em>Execute modernizations in the cloud</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/execute-cloud-modernization">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/execute-cloud-modernization</a></li>
+<li>Microsoft. (2025e, August 1). <em>Optimize the cloud-native solutions after deployment</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/optimize-cloud-native-solutions">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/optimize-cloud-native-solutions</a></li>
+<li>Microsoft. (2025f, August 1). <em>Optimize workloads after migration</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/optimize-workloads-after-migration">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/optimize-workloads-after-migration</a></li>
+<li>Microsoft. (2025g, August 1). <em>Plan your cloud modernization</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/plan-cloud-modernization">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/plan-cloud-modernization</a></li>
+<li>Microsoft. (2025h, September 15). <em>Prepare workloads for the cloud</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/prepare-workloads-cloud">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/prepare-workloads-cloud</a></li>
+<li>Microsoft. (2026a, September 4). <em>Cloud Adoption Framework for Azure</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview</a></li>
+<li>Microsoft. (2026b, February 18). <em>Deploy cloud-native solutions</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/deploy-cloud-native-solutions">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/deploy-cloud-native-solutions</a></li>
+<li>Microsoft. (2026c, October 19). <em>Modernization preparation</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/prepare-organization-cloud-modernization">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/prepare-organization-cloud-modernization</a></li>
+<li>Microsoft. (2026d, March 9). <em>Optimize workloads after cloud modernization</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/optimize-after-cloud-modernization">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/optimize-after-cloud-modernization</a></li>
+<li>Microsoft. (2026e, March 25). <em>Plan the cloud-native solutions</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/plan-cloud-native-solutions">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/cloud-native/plan-cloud-native-solutions</a></li>
+<li>Microsoft. (2026f, March 25). <em>Plan your migration</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 15:10:31-04:00">10/27/2026 15:10:31</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

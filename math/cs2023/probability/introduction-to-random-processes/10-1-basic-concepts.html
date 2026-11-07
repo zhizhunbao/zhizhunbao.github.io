@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>10.1 Basic Concepts | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="10.1 Basic Concepts, part of 10 Introduction to Random Processes: 21 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="101-basic-concepts">10.1 Basic Concepts</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/10-1-basic-concepts.png" alt="10.1 Basic Concepts: its 7 subsections, one group each listing the terms it defines (21 in all)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>10.1 Basic Concepts</strong><br>基本概念</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_0_basic_concepts.php">Pishro-Nik, 2014, section 10.1</a></td>
+</tr>
+<tr>
+<td><strong>10.1.0 Basic Concepts</strong><br>基本概念</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_0_basic_concepts.php">Pishro-Nik, 2014, section 10.1.0</a></td>
+</tr>
+<tr>
+<td><strong>Random Process</strong><br>随机过程</td>
+<td>&quot;A <strong>random process</strong> is a collection of random variables usually indexed by time.&quot;</td>
+<td><strong>随机过程</strong>是通常以时间为指标的随机变量集合。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_0_basic_concepts.php#:%7E:text=A%20random%20process%20is%20a%20collection">Pishro-Nik, 2014, section 10.1.0</a></td>
+</tr>
+<tr>
+<td><strong>Random Process</strong><br>随机过程</td>
+<td>&quot;When we consider the values of <span class="math">\(S(t)\)</span> for <span class="math">\(t \in [0,\infty)\)</span> collectively, we say <span class="math">\(S(t)\)</span> is a <strong>random process or a stochastic process</strong>.&quot;</td>
+<td>当我们把 <span class="math">\(S(t)\)</span> 在 <span class="math">\(t \in [0,\infty)\)</span> 上的取值作为一个整体来考虑时，我们说 <span class="math">\(S(t)\)</span> 是<strong>随机过程</strong>（又称 stochastic process）。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_0_basic_concepts.php#:%7E:text=When%20we%20consider%20the%20values%20of">Pishro-Nik, 2014, section 10.1.0</a></td>
+</tr>
+<tr>
+<td><strong>Continuous-Time Random Process</strong><br>连续时间随机过程</td>
+<td>&quot;In general, when we have a random process <span class="math">\(X(t)\)</span> where <span class="math">\(t\)</span> can take real values in an interval on the real line, then <span class="math">\(X(t)\)</span> is a <strong>continuous-time random process</strong>.&quot;</td>
+<td>一般地，若随机过程 <span class="math">\(X(t)\)</span> 中的 <span class="math">\(t\)</span> 可取实直线上某个区间内的实数值，则 <span class="math">\(X(t)\)</span> 是<strong>连续时间随机过程</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_0_basic_concepts.php#:%7E:text=In%20general%2C%20when%20we%20have%20a">Pishro-Nik, 2014, section 10.1.0</a></td>
+</tr>
+<tr>
+<td><strong>Discrete-Time Random Process</strong><br>离散时间随机过程</td>
+<td>&quot;On the other hand, you can have a <strong>discrete-time random process</strong>.&quot;</td>
+<td>另一方面，也可以有<strong>离散时间随机过程</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_0_basic_concepts.php#:%7E:text=On%20the%20other%20hand%2C%20you%20can">Pishro-Nik, 2014, section 10.1.0</a></td>
+</tr>
+<tr>
+<td><strong>Random Sequence</strong><br>随机序列</td>
+<td>&quot;Therefore, a discrete-time random process is just a <strong>sequence of random variables</strong>. For this reason, discrete-time random processes are sometimes referred to as <strong>random sequences</strong>.&quot;</td>
+<td>因此，离散时间随机过程就是一个<strong>随机变量序列</strong>。正因为如此，离散时间随机过程有时也称为<strong>随机序列</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_0_basic_concepts.php#:%7E:text=Therefore%2C%20a%20discrete-time%20random%20process%20is">Pishro-Nik, 2014, section 10.1.0</a></td>
+</tr>
+<tr>
+<td><strong>Sample Function</strong><br>样本函数</td>
+<td>&quot;We call each of these possible functions of <span class="math">\(X(t)\)</span> a <strong>sample function</strong> or <strong>sample path</strong>. It is also called a <strong>realization</strong> of <span class="math">\(X(t)\)</span>.&quot;</td>
+<td>我们把 <span class="math">\(X(t)\)</span> 的每一个这样的可能函数称为<strong>样本函数</strong>或<strong>样本路径</strong>。它也称为 <span class="math">\(X(t)\)</span> 的一次<strong>实现</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_0_basic_concepts.php#:%7E:text=We%20call%20each%20of%20these%20possible">Pishro-Nik, 2014, section 10.1.0</a></td>
+</tr>
+<tr>
+<td><strong>10.1.1 PDFs and CDFs</strong><br>概率密度函数与累积分布函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_1_PDFs_and_CDFs.php">Pishro-Nik, 2014, section 10.1.1</a></td>
+</tr>
+<tr>
+<td><strong>10.1.2 Mean and Correlation Functions</strong><br>均值函数与相关函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_2_mean_and_correlation_functions.php">Pishro-Nik, 2014, section 10.1.2</a></td>
+</tr>
+<tr>
+<td><strong>Mean Function of a Random Process</strong><br>随机过程的均值函数</td>
+<td>&quot;For a random process <span class="math">\(\big\{X(t), t \in J \big\}\)</span>, the <strong>mean function</strong> <span class="math">\(\mu_X(t):J \rightarrow \mathbb{R}\)</span>, is defined as <span class="math">\(\begin{align} \mu_X(t)=E[X(t)] \end{align}\)</span>&quot;</td>
+<td>对于随机过程 <span class="math">\(\big\{X(t), t \in J \big\}\)</span>，其<strong>均值函数</strong> <span class="math">\(\mu_X(t):J \rightarrow \mathbb{R}\)</span> 定义为 <span class="math">\(\begin{align} \mu_X(t)=E[X(t)] \end{align}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_2_mean_and_correlation_functions.php#:%7E:text=For%20a%20random%20process%20%2C%20the">Pishro-Nik, 2014, section 10.1.2</a></td>
+</tr>
+<tr>
+<td><strong>Autocovariance Function</strong><br>自协方差函数</td>
+<td>&quot;For a random process <span class="math">\(\big\{X(t), t \in J \big\}\)</span>, the <strong>auto</strong>covariance function or, simply, the covariance function, <span class="math">\(C_X(t_1,t_2)\)</span>, is defined by <span class="math">\(\begin{align} C_X(t_1,t_2)&amp;=\textrm{Cov}\big(X(t_1),X(t_2)\big)\\ &amp;=R_X(t_1,t_2)-\mu_X(t_1) \mu_X(t_2), \quad \textrm{for }t_1,t_2 \in J. \end{align}\)</span>&quot;</td>
+<td>对于随机过程 <span class="math">\(\big\{X(t), t \in J \big\}\)</span>，<strong>自协方差函数</strong>或简称<strong>协方差函数</strong> <span class="math">\(C_X(t_1,t_2)\)</span> 定义为 <span class="math">\(\begin{align} C_X(t_1,t_2)&amp;=\textrm{Cov}\big(X(t_1),X(t_2)\big)\\ &amp;=R_X(t_1,t_2)-\mu_X(t_1) \mu_X(t_2), \quad \textrm{for }t_1,t_2 \in J. \end{align}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_2_mean_and_correlation_functions.php#:%7E:text=For%20a%20random%20process%20%2C%20the">Pishro-Nik, 2014, section 10.1.2</a></td>
+</tr>
+<tr>
+<td><strong>10.1.3 Multiple Random Processes</strong><br>多个随机过程</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_3_multiple_random_processes.php">Pishro-Nik, 2014, section 10.1.3</a></td>
+</tr>
+<tr>
+<td><strong>Cross-Correlation Function</strong><br>互相关函数</td>
+<td>&quot;the <strong>cross-correlation function</strong> <span class="math">\(R_{XY}(t_1,t_2)\)</span>, is defined by&quot;</td>
+<td><strong>互相关函数</strong> <span class="math">\(R_{XY}(t_1,t_2)\)</span> 定义为</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_3_multiple_random_processes.php#:%7E:text=the%20cross-correlation%20function%20%2C%20is%20defined">Pishro-Nik, 2014, section 10.1.3</a></td>
+</tr>
+<tr>
+<td><strong>Cross-Correlation Function</strong><br>互相关函数</td>
+<td>&quot;For two random processes <span class="math">\(\big\{X(t), t \in J \big\}\)</span> and <span class="math">\(\big\{Y(t), t \in J \big\}\)</span>: <span class="math">\(-\)</span> the <strong>cross-correlation function</strong> <span class="math">\(R_{XY}(t_1,t_2)\)</span>, is defined by <span class="math">\(\begin{align} R_{XY}(t_1,t_2)=E[X(t_1)Y(t_2)], \quad \textrm{for }t_1,t_2 \in J; \end{align}\)</span>&quot;</td>
+<td>对于两个随机过程 <span class="math">\(\big\{X(t), t \in J \big\}\)</span> 和 <span class="math">\(\big\{Y(t), t \in J \big\}\)</span>：<span class="math">\(-\)</span> <strong>互相关函数</strong> <span class="math">\(R_{XY}(t_1,t_2)\)</span> 定义为 <span class="math">\(\begin{align} R_{XY}(t_1,t_2)=E[X(t_1)Y(t_2)], \quad \textrm{for }t_1,t_2 \in J; \end{align}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_3_multiple_random_processes.php#:%7E:text=For%20two%20random%20processes%20and%20%3A">Pishro-Nik, 2014, section 10.1.3</a></td>
+</tr>
+<tr>
+<td><strong>Cross-Covariance Function</strong><br>互协方差函数</td>
+<td>&quot;the <strong>cross-covariance function</strong> <span class="math">\(C_{XY}(t_1,t_2)\)</span>, is defined by <span class="math">\(\begin{align} C_{XY}(t_1,t_2)&amp;=\textrm{Cov}\big(X(t_1),Y(t_2)\big)\\ &amp;=R_{XY}(t_1,t_2)-\mu_X(t_1) \mu_Y(t_2), \quad \textrm{for }t_1,t_2 \in J. \end{align}\)</span>&quot;</td>
+<td><strong>互协方差函数</strong> <span class="math">\(C_{XY}(t_1,t_2)\)</span> 定义为 <span class="math">\(\begin{align} C_{XY}(t_1,t_2)&amp;=\textrm{Cov}\big(X(t_1),Y(t_2)\big)\\ &amp;=R_{XY}(t_1,t_2)-\mu_X(t_1) \mu_Y(t_2), \quad \textrm{for }t_1,t_2 \in J. \end{align}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_3_multiple_random_processes.php#:%7E:text=the%20cross-covariance%20function%20%2C%20is%20defined">Pishro-Nik, 2014, section 10.1.3</a></td>
+</tr>
+<tr>
+<td><strong>10.1.4 Stationary Processes</strong><br>平稳过程</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_4_stationary_processes.php">Pishro-Nik, 2014, section 10.1.4</a></td>
+</tr>
+<tr>
+<td><strong>Strict-Sense Stationary Process</strong><br>严平稳过程</td>
+<td>&quot;A continuous-time random process <span class="math">\(\big\{X(t), t \in \mathbb{R}\big\}\)</span> is <strong>strict-sense stationary</strong> or simply <strong>stationary</strong> if, for all <span class="math">\(t_1,t_2,\cdots, t_r \in \mathbb{R}\)</span> and all <span class="math">\(\Delta \in \mathbb{R}\)</span>, the joint CDF of&quot;</td>
+<td>连续时间随机过程 <span class="math">\(\big\{X(t), t \in \mathbb{R}\big\}\)</span> 称为<strong>严平稳</strong>或简称<strong>平稳</strong>的，若对所有 <span class="math">\(t_1,t_2,\cdots, t_r \in \mathbb{R}\)</span> 和所有 <span class="math">\(\Delta \in \mathbb{R}\)</span>，其联合累积分布函数</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_4_stationary_processes.php#:%7E:text=A%20continuous-time%20random%20process%20is%20strict-sense">Pishro-Nik, 2014, section 10.1.4</a></td>
+</tr>
+<tr>
+<td><strong>Wide-Sense Cyclostationary Process</strong><br>广义循环平稳过程</td>
+<td>&quot;A continuous-time random process <span class="math">\(\big\{X(t), t \in \mathbb{R}\big\}\)</span> is <strong>weak-sense cyclostationary</strong> or <strong>wide-sense cyclostationary</strong> if there exists a positive real number <span class="math">\(T\)</span> such that <span class="math">\(\mu_X(t+T)=\mu_X(t)\)</span>, for all <span class="math">\(t\in \mathbb{R}\)</span>; <span class="math">\(R_X(t_1+T,t_2+T)=R_X(t_1,t_2)\)</span>, for all <span class="math">\(t_1,t_2 \in \mathbb{R}\)</span>.&quot;</td>
+<td>连续时间随机过程 <span class="math">\(\big\{X(t), t \in \mathbb{R}\big\}\)</span> 称为<strong>弱循环平稳</strong>或<strong>广义循环平稳</strong>，如果存在正实数 <span class="math">\(T\)</span>，使得 <span class="math">\(\mu_X(t+T)=\mu_X(t)\)</span>，对所有 <span class="math">\(t\in \mathbb{R}\)</span> 成立；<span class="math">\(R_X(t_1+T,t_2+T)=R_X(t_1,t_2)\)</span>，对所有 <span class="math">\(t_1,t_2 \in \mathbb{R}\)</span> 成立。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_4_stationary_processes.php#:%7E:text=A%20continuous-time%20random%20process%20is%20weak-sense">Pishro-Nik, 2014, section 10.1.4</a></td>
+</tr>
+<tr>
+<td><strong>Stationary Process</strong><br>平稳过程</td>
+<td>&quot;Intuitively, a random process <span class="math">\(\big\{X(t), t \in J \big\}\)</span> is <strong>stationary</strong> if its statistical properties do not change by time.&quot;</td>
+<td>直观地说，若随机过程 <span class="math">\(\big\{X(t), t \in J \big\}\)</span> 的统计性质不随时间改变，则它是<strong>平稳</strong>的。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_4_stationary_processes.php#:%7E:text=Intuitively%2C%20a%20random%20process%20is%20stationary">Pishro-Nik, 2014, section 10.1.4</a></td>
+</tr>
+<tr>
+<td><strong>Weak-Sense Stationary Process</strong><br>弱平稳过程（宽平稳过程）</td>
+<td>&quot;A random process is called <strong>weak-sense stationary</strong> or <strong>wide-sense stationary (WSS)</strong> if its mean function and its correlation function do not change by shifts in time.&quot;</td>
+<td>若一个随机过程的均值函数和相关函数不随时间平移而改变，则称其为<strong>弱平稳</strong>或<strong>宽平稳</strong>（WSS）过程。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_4_stationary_processes.php#:%7E:text=A%20random%20process%20is%20called%20weak-sense">Pishro-Nik, 2014, section 10.1.4</a></td>
+</tr>
+<tr>
+<td><strong>Expected (Average) Power</strong><br>期望（平均）功率</td>
+<td>&quot;The quantity <span class="math">\(E[X(t)^2]\)</span> is called the <strong>expected (average) power</strong> in <span class="math">\(X(t)\)</span> at time <span class="math">\(t\)</span>.&quot;</td>
+<td>量 <span class="math">\(E[X(t)^2]\)</span> 称为 <span class="math">\(X(t)\)</span> 在时刻 <span class="math">\(t\)</span> 的<strong>期望（平均）功率</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_4_stationary_processes.php#:%7E:text=The%20quantity%20is%20called%20the%20expected">Pishro-Nik, 2014, section 10.1.4</a></td>
+</tr>
+<tr>
+<td><strong>Cyclostationary Process</strong><br>循环平稳过程</td>
+<td>&quot;In other words, the random variables <span class="math">\(\begin{align} X(t_1), X(t_2), \cdots, X(t_r) \end{align}\)</span> have the <strong>same joint CDF</strong> as the random variables <span class="math">\(\begin{align} X(t_1+T), X(t_2+T), \cdots, X(t_r+T). \end{align}\)</span> Such random variables are called <strong>cyclostationary</strong>.&quot;</td>
+<td>换言之，随机变量 <span class="math">\(\begin{align} X(t_1), X(t_2), \cdots, X(t_r) \end{align}\)</span> 与随机变量 <span class="math">\(\begin{align} X(t_1+T), X(t_2+T), \cdots, X(t_r+T). \end{align}\)</span> 具有<strong>相同的联合 CDF</strong>。这样的随机变量称为<strong>循环平稳</strong>的。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_4_stationary_processes.php#:%7E:text=In%20other%20words%2C%20the%20random%20variables">Pishro-Nik, 2014, section 10.1.4</a></td>
+</tr>
+<tr>
+<td><strong>Mean-Square Continuity</strong><br>均方连续</td>
+<td>&quot;Let <span class="math">\(X(t)\)</span> be a continuous-time random process. We say that <span class="math">\(X(t)\)</span> is <strong>mean-square continuous</strong> at time <span class="math">\(t\)</span> if&quot;</td>
+<td>设 <span class="math">\(X(t)\)</span> 为连续时间随机过程。我们说 <span class="math">\(X(t)\)</span> 在时刻 <span class="math">\(t\)</span> 是<strong>均方连续</strong>的，如果</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_4_stationary_processes.php#:%7E:text=Let%20be%20a%20continuous-time%20random%20process.">Pishro-Nik, 2014, section 10.1.4</a></td>
+</tr>
+<tr>
+<td><strong>10.1.5 Gaussian Random Processes</strong><br>高斯随机过程</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_5_gaussian_random_processes.php">Pishro-Nik, 2014, section 10.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Gaussian Random Process</strong><br>高斯随机过程</td>
+<td>&quot;A random process <span class="math">\(\big\{X(t), t \in J \big\}\)</span> is said to be a <strong>Gaussian (normal) random process</strong> if, for all&quot;</td>
+<td>随机过程 <span class="math">\(\big\{X(t), t \in J \big\}\)</span> 称为<strong>高斯（正态）随机过程</strong>，若对所有</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_5_gaussian_random_processes.php#:%7E:text=A%20random%20process%20is%20said%20to">Pishro-Nik, 2014, section 10.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Jointly Normal Random Variables</strong><br>联合正态随机变量</td>
+<td>&quot;As we saw before, random variables <span class="math">\(X_1\)</span>, <span class="math">\(X_2\)</span>,..., <span class="math">\(X_n\)</span> are said to be <strong>jointly normal</strong> if, for all <span class="math">\(a_1\)</span>,<span class="math">\(a_2\)</span>,..., <span class="math">\(a_n\)</span> <span class="math">\(\in \mathbb{R}\)</span>, the random variable&quot;</td>
+<td>如前所述，随机变量 <span class="math">\(X_1\)</span>，<span class="math">\(X_2\)</span>，……，<span class="math">\(X_n\)</span> 称为<strong>联合正态</strong>的，如果对所有 <span class="math">\(a_1\)</span>，<span class="math">\(a_2\)</span>，……，<span class="math">\(a_n\)</span> <span class="math">\(\in \mathbb{R}\)</span>，随机变量</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_5_gaussian_random_processes.php#:%7E:text=As%20we%20saw%20before%2C%20random%20variables">Pishro-Nik, 2014, section 10.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Gaussian Random Process</strong><br>高斯随机过程（正态随机过程）</td>
+<td>&quot;A random process <span class="math">\(\big\{X(t), t \in J \big\}\)</span> is said to be a <strong>Gaussian (normal) random process</strong> if, for all <span class="math">\(\begin{align} &amp; t_1,t_2, \dots, t_n \in J, \end{align}\)</span> the random variables <span class="math">\(X(t_1)\)</span>, <span class="math">\(X(t_2)\)</span>,..., <span class="math">\(X(t_n)\)</span> are <strong>jointly normal</strong>.&quot;</td>
+<td>若对所有 <span class="math">\(\begin{align} &amp; t_1,t_2, \dots, t_n \in J, \end{align}\)</span>，随机变量 <span class="math">\(X(t_1)\)</span>，<span class="math">\(X(t_2)\)</span>，……，<span class="math">\(X(t_n)\)</span> 是<strong>联合正态</strong>的，则称随机过程 <span class="math">\(\big\{X(t), t \in J \big\}\)</span> 为<strong>高斯（正态）随机过程</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_5_gaussian_random_processes.php#:%7E:text=A%20random%20process%20is%20said%20to">Pishro-Nik, 2014, section 10.1.5</a></td>
+</tr>
+<tr>
+<td><strong>10.1.6 Solved Problems</strong><br>例题详解</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter10/10_1_6_solved_probs.php">Pishro-Nik, 2014, section 10.1.6</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Pishro-Nik, H. (2014). <em>Introduction to probability, statistics, and random processes</em>. Kappa Research. Retrieved October 28, 2026, from <a href="https://www.probabilitycourse.com/">https://www.probabilitycourse.com/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-28">10/28/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>11.7 The Stone–Weierstrass theorem | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="11.7 The Stone–Weierstrass theorem, part of 11 Functions as Limits in Real Analysis: 11 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="117-the-stoneweierstrass-theorem">11.7 The Stone–Weierstrass theorem</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/11-7-the-stone-weierstrass-theorem.png" alt="11.7 The Stone–Weierstrass theorem: its 11 terms, in 11 Functions as Limits."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>11.7 The Stone–Weierstrass theorem</strong><br>斯通–魏尔斯特拉斯定理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html">Lebl, 2026, section 11.7</a></td>
+</tr>
+<tr>
+<td><strong>Approximate Delta Function</strong><br>近似 δ 函数</td>
+<td>&quot;The idea of the proof is <strong>a very common approximation or “smoothing” idea</strong> (convolution with an <strong>approximate delta function</strong>) that has applications far beyond pure mathematics.&quot;</td>
+<td>证明的思路是<strong>一种非常常见的逼近或“光滑化”思想</strong>（与<strong>近似 δ 函数</strong>作卷积），它的应用远远超出纯粹数学。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#sec_stoneweier-3">Lebl, 2026, section 11.7</a></td>
+</tr>
+<tr>
+<td><strong>Weierstrass Approximation Theorem</strong><br>魏尔斯特拉斯逼近定理</td>
+<td>&quot;If <span class="math">\(f \colon [a,b] \to \mathbb{C}\)</span> is continuous, then <strong>there exists a sequence <span class="math">\(\{ p_n \}_{n=1}^\infty\)</span> of polynomials converging to <span class="math">\(f\)</span> uniformly on <span class="math">\([a,b]\)</span></strong>. Furthermore, if <span class="math">\(f\)</span> is real-valued, we can find <span class="math">\(p_n\)</span> with real coefficients.&quot;</td>
+<td>若 <span class="math">\(f \colon [a,b] \to \mathbb{C}\)</span> 连续，则<strong>存在在 <span class="math">\([a,b]\)</span> 上一致收敛到 <span class="math">\(f\)</span> 的多项式序列 <span class="math">\(\{ p_n \}_{n=1}^\infty\)</span></strong>。此外，若 <span class="math">\(f\)</span> 是实值的，可以取实系数的 <span class="math">\(p_n\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#sec_stoneweier-3-3">Lebl, 2026, Theorem 11.7.1</a></td>
+</tr>
+<tr>
+<td><strong>Complex Algebra</strong><br>复代数</td>
+<td>&quot;A set <span class="math">\(\mathcal{A}\)</span> of complex-valued functions <span class="math">\(f \colon X \to \mathbb{C}\)</span> is said to be an algebra (sometimes <strong>complex algebra</strong> or algebra over <span class="math">\(\mathbb{C}\)</span>) if <strong>for all <span class="math">\(f, g \in \mathcal{A}\)</span> and <span class="math">\(c \in \mathbb{C}\)</span>, we have <span class="math">\(f+g \in \mathcal{A}\)</span>. <span class="math">\(fg \in \mathcal{A}\)</span>. <span class="math">\(cg \in \mathcal{A}\)</span>.</strong>&quot;</td>
+<td>若<strong>对所有 <span class="math">\(f, g \in \mathcal{A}\)</span> 和 <span class="math">\(c \in \mathbb{C}\)</span>，有 <span class="math">\(f+g \in \mathcal{A}\)</span>、<span class="math">\(fg \in \mathcal{A}\)</span>、<span class="math">\(cg \in \mathcal{A}\)</span></strong>，则复值函数 <span class="math">\(f \colon X \to \mathbb{C}\)</span> 的集合 <span class="math">\(\mathcal{A}\)</span> 称为代数（有时称为<strong>复代数</strong>或 <span class="math">\(\mathbb{C}\)</span> 上的代数）。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#sec_stoneweier-4-3">Lebl, 2026, Definition 11.7.5</a></td>
+</tr>
+<tr>
+<td><strong>Real Algebra</strong><br>实代数</td>
+<td>&quot;A <strong>real algebra</strong> or an algebra over <span class="math">\(\mathbb{R}\)</span> is <strong>a set of real-valued functions that satisfies the three properties above for <span class="math">\(c \in \mathbb{R}\)</span></strong>.&quot;</td>
+<td><strong>实代数</strong>或 <span class="math">\(\mathbb{R}\)</span> 上的代数是<strong>对 <span class="math">\(c \in \mathbb{R}\)</span> 满足上述三条性质的实值函数集合</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#sec_stoneweier-4-3">Lebl, 2026, Definition 11.7.5</a></td>
+</tr>
+<tr>
+<td><strong>Separates Points</strong><br>分离点</td>
+<td>&quot;Let <span class="math">\(\mathcal{A}\)</span> be a set of complex-valued functions defined on a set <span class="math">\(X\)</span>. <span class="math">\(\mathcal{A}\)</span> <strong>separates points</strong> if <strong>for every <span class="math">\(x,y \in X\)</span> with <span class="math">\(x \neq y\)</span>, there is an <span class="math">\(f \in \mathcal{A}\)</span> such that <span class="math">\(f(x) \neq f(y)\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(\mathcal{A}\)</span> 是定义在集合 <span class="math">\(X\)</span> 上的复值函数的集合。若<strong>对每对 <span class="math">\(x \neq y\)</span> 的 <span class="math">\(x,y \in X\)</span>，存在 <span class="math">\(f \in \mathcal{A}\)</span> 使得 <span class="math">\(f(x) \neq f(y)\)</span></strong>，则称 <span class="math">\(\mathcal{A}\)</span> <strong>分离点</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#sec_stoneweier-4-9">Lebl, 2026, Definition 11.7.7</a></td>
+</tr>
+<tr>
+<td><strong>Vanishes at No Point</strong><br>处处不为零</td>
+<td>&quot;<span class="math">\(\mathcal{A}\)</span> <strong>vanishes at no point</strong> if <strong>for every <span class="math">\(x \in X\)</span> there is an <span class="math">\(f \in \mathcal{A}\)</span> such that <span class="math">\(f(x) \neq 0\)</span></strong>.&quot;</td>
+<td>若<strong>对每个 <span class="math">\(x \in X\)</span>，存在 <span class="math">\(f \in \mathcal{A}\)</span> 使得 <span class="math">\(f(x) \neq 0\)</span></strong>，则称 <span class="math">\(\mathcal{A}\)</span> <strong>处处不为零</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#sec_stoneweier-4-9">Lebl, 2026, Definition 11.7.7</a></td>
+</tr>
+<tr>
+<td><strong>Stone–Weierstrass Theorem, Real Version</strong><br>斯通–魏尔斯特拉斯定理（实版本）</td>
+<td>&quot;Let <span class="math">\(X\)</span> be a compact metric space and <span class="math">\(\mathcal{A}\)</span> a real algebra of real-valued continuous functions on <span class="math">\(X\)</span>, such that <strong><span class="math">\(\mathcal{A}\)</span> separates points and vanishes at no point</strong>. Then <strong>the closure <span class="math">\(\overline{\mathcal{A}} = C(X,\mathbb{R})\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(X\)</span> 是紧度量空间，<span class="math">\(\mathcal{A}\)</span> 是 <span class="math">\(X\)</span> 上实值连续函数构成的实代数，且 <strong><span class="math">\(\mathcal{A}\)</span> 分离点、处处不为零</strong>，则<strong>闭包 <span class="math">\(\overline{\mathcal{A}} = C(X,\mathbb{R})\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#thm_SWreal">Lebl, 2026, Theorem 11.7.12</a></td>
+</tr>
+<tr>
+<td><strong>Generate an Algebra</strong><br>生成代数</td>
+<td>&quot;In general, given a set of functions that separates points and does not vanish at any point, we let these functions <strong>generate</strong> an algebra by <strong>considering all the linear combinations of arbitrary multiples of such functions</strong>.&quot;</td>
+<td>一般地，给定一组分离点且处处不为零的函数，通过<strong>考虑这些函数的任意乘积的全部线性组合</strong>，让它们<strong>生成</strong>一个代数。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#sec_stoneweier-4-33">Lebl, 2026, section 11.7</a></td>
+</tr>
+<tr>
+<td><strong>Self-Adjoint</strong><br>自伴</td>
+<td>&quot;An algebra <span class="math">\(\mathcal{A}\)</span> is <strong>self-adjoint</strong> if <strong>for all <span class="math">\(f \in \mathcal{A}\)</span>, the function <span class="math">\(\bar{f}\)</span> defined by <span class="math">\(\bar{f}(x) := \overline{f(x)}\)</span> is in <span class="math">\(\mathcal{A}\)</span></strong>, where by the bar we mean the complex conjugate.&quot;</td>
+<td>若<strong>对所有 <span class="math">\(f \in \mathcal{A}\)</span>，由 <span class="math">\(\bar{f}(x) := \overline{f(x)}\)</span> 定义的函数 <span class="math">\(\bar{f}\)</span> 也属于 <span class="math">\(\mathcal{A}\)</span></strong>（横线表示复共轭），则称代数 <span class="math">\(\mathcal{A}\)</span> <strong>自伴</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#sec_stoneweier-4-36">Lebl, 2026, Definition 11.7.15</a></td>
+</tr>
+<tr>
+<td><strong>Stone–Weierstrass Theorem, Complex Version</strong><br>斯通–魏尔斯特拉斯定理（复版本）</td>
+<td>&quot;Let <span class="math">\(X\)</span> be a compact metric space and <span class="math">\(\mathcal{A}\)</span> an algebra of complex-valued continuous functions on <span class="math">\(X\)</span>, such that <strong><span class="math">\(\mathcal{A}\)</span> separates points, vanishes at no point, and is self-adjoint</strong>. Then <strong>the closure <span class="math">\(\overline{\mathcal{A}} = C(X,\mathbb{C})\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(X\)</span> 是紧度量空间，<span class="math">\(\mathcal{A}\)</span> 是 <span class="math">\(X\)</span> 上复值连续函数构成的代数，且 <strong><span class="math">\(\mathcal{A}\)</span> 分离点、处处不为零并且自伴</strong>，则<strong>闭包 <span class="math">\(\overline{\mathcal{A}} = C(X,\mathbb{C})\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#thm_SWcomplex">Lebl, 2026, Theorem 11.7.16</a></td>
+</tr>
+<tr>
+<td><strong>Harmonic Polynomials</strong><br>调和多项式</td>
+<td>&quot;Show that functions of the form <strong><span class="math">\(c_0 + \sum_{k=1}^n c_k \, z^k + \sum_{k=1}^n c_{-k}\, \bar{z}^k\)</span></strong> are dense in <span class="math">\(C(S^1,\mathbb{C})\)</span>. These functions are called <strong>harmonic polynomials</strong>.&quot;</td>
+<td>证明形如 <strong><span class="math">\(c_0 + \sum_{k=1}^n c_k \, z^k + \sum_{k=1}^n c_{-k}\, \bar{z}^k\)</span></strong> 的函数在 <span class="math">\(C(S^1,\mathbb{C})\)</span> 中稠密。这些函数称为<strong>调和多项式</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_stoneweier.html#sec_stoneweier-5-7">Lebl, 2026, Exercise 11.7.7</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Lebl, J. (2026). <em>Basic analysis I &amp; II: Introduction to real analysis</em> (May 22, 2026 edition). Retrieved October 29, 2026, from <a href="https://www.jirka.org/ra/html/">https://www.jirka.org/ra/html/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 11:58:07-04:00">10/31/2026 11:58:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

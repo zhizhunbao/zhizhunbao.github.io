@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.1.0 Pods | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 4.1.0 Pods: 4.1.0.1 Using Pods, 4.1.0.2 Working with Pods, 4.1.0.3 Pod update and replacement, 4.1.0.4 Resource sharing and communication, 4.1.0.5 Resource requests and limits, 4.1.0.6 Static Pods, 4.1.0.7 Pods with multiple containers, 4.1.0.8 Container probes.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="410-pods">4.1.0 Pods</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/workloads-pods-pods.png" alt="4.1.0 Pods: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>4.1.0 Pods</strong><br>Pod</td>
+<td>&quot;<em>Pods</em> are <strong>the smallest deployable units of computing</strong> that you can <strong>create and manage in Kubernetes</strong>.&quot; &quot;A <em>Pod</em> (as in a pod of whales or pea pod) is <strong>a group of one or more containers</strong>, with shared storage and network resources, and <strong>a specification for how to run the containers</strong>.&quot;</td>
+<td><em>Pod</em> 是<strong>最小的可部署计算单元</strong>，你可以<strong>在 Kubernetes 中创建和管理</strong>它。<em>Pod</em>（就像一群鲸鱼或一个豌豆荚）是<strong>一组一个或多个容器</strong>，共享存储和网络资源，并带有<strong>如何运行这些容器的规约</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=Pods%20are%20the%20smallest%20deployable%20units%20of%20computing">The Kubernetes Authors, n.d., &quot;Pods&quot;, para. 1 and 2</a></td>
+</tr>
+<tr>
+<td><strong>4.1.0.1 Using Pods</strong><br>使用 Pod</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#using-pods">The Kubernetes Authors, n.d., &quot;Using Pods&quot;</a></td>
+</tr>
+<tr>
+<td><strong>replication</strong><br>复制</td>
+<td>(context) &quot;In Kubernetes, this is typically referred to as <em>replication</em>.&quot;</td>
+<td>（语境）在 Kubernetes 中，这通常称为<em>复制</em>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=In%20Kubernetes%2C%20this%20is%20typically%20referred%20to">The Kubernetes Authors, n.d., &quot;Workload resources for managing pods&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>4.1.0.2 Working with Pods</strong><br>操作 Pod</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#working-with-pods">The Kubernetes Authors, n.d., &quot;Working with Pods&quot;</a></td>
+</tr>
+<tr>
+<td><strong>pod template</strong><br>Pod 模板</td>
+<td>(context) &quot;Controllers for workload resources <strong>create Pods from a <em>pod template</em></strong> and <strong>manage those Pods on your behalf</strong>.&quot;</td>
+<td>（语境）工作负载资源的控制器<strong>根据 <em>Pod 模板</em>创建 Pod</strong>，并<strong>代你管理这些 Pod</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=Controllers%20for%20%5Bworkload%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Fconcepts%2Fworkloads%2F%29%20resources%20create%20Pods%20from">The Kubernetes Authors, n.d., &quot;Pod templates&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.1.0.3 Pod update and replacement</strong><br>Pod 的更新与替换</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#pod-update-and-replacement">The Kubernetes Authors, n.d., &quot;Pod update and replacement&quot;</a></td>
+</tr>
+<tr>
+<td><strong>subresources</strong><br>子资源</td>
+<td>(context) &quot;The above update rules apply to regular pod updates, but <strong>other pod fields</strong> can be <strong>updated through <em>subresources</em></strong>.&quot;</td>
+<td>（语境）上述更新规则适用于常规的 Pod 更新，但<strong>其他 Pod 字段</strong>可以<strong>通过<em>子资源</em>更新</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=The%20above%20update%20rules%20apply%20to%20regular">The Kubernetes Authors, n.d., &quot;Pod subresources&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.1.0.4 Resource sharing and communication</strong><br>资源共享与通信</td>
+<td>&quot;<strong>Pods</strong> enable <strong>data sharing and communication among their constituent containers</strong>.&quot;</td>
+<td><strong>Pod</strong> 能让<strong>其中的各容器之间共享数据和通信</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=Pods%20enable%20data%20sharing%20and%20communication%20among">The Kubernetes Authors, n.d., &quot;Resource sharing and communication&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.1.0.5 Resource requests and limits</strong><br>资源请求与限制</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#resource-requests-and-limits">The Kubernetes Authors, n.d., &quot;Resource requests and limits&quot;</a></td>
+</tr>
+<tr>
+<td><strong>request</strong><br>请求</td>
+<td>(context) &quot;When you specify the resource <em>request</em> for containers in a Pod, <strong>the kube-scheduler uses this information</strong> to <strong>decide which node to place the Pod on</strong>.&quot;</td>
+<td>（语境）当你为 Pod 中的容器指定资源<em>请求</em>时，<strong>kube-scheduler 用这一信息</strong>来<strong>决定把 Pod 放到哪个节点上</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=When%20you%20specify%20the%20resource%20%2Arequest%2A%20for">The Kubernetes Authors, n.d., &quot;Resource requests and limits&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>limit</strong><br>限制</td>
+<td>(context) &quot;When you specify a resource <em>limit</em> for a container, <strong>the kubelet enforces those limits</strong> so that the running container is <strong>not allowed to use more of that resource than the limit you set</strong>.&quot;</td>
+<td>（语境）当你为容器指定资源<em>限制</em>时，<strong>kubelet 会强制执行这些限制</strong>，使运行中的容器<strong>不能使用超过所设上限的资源</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=When%20you%20specify%20a%20resource%20%2Alimit%2A%20for">The Kubernetes Authors, n.d., &quot;Resource requests and limits&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>4.1.0.6 Static Pods</strong><br>静态 Pod</td>
+<td>&quot;<em>Static Pods</em> are <strong>managed directly by the kubelet daemon on a specific node</strong>, <strong>without the API server observing them</strong>.&quot;</td>
+<td><em>静态 Pod</em> <strong>由特定节点上的 kubelet 守护进程直接管理</strong>，<strong>API 服务器不会观察它们</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=%2AStatic%20Pods%2A%20are%20managed%20directly%20by%20the">The Kubernetes Authors, n.d., &quot;Static Pods&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.1.0.7 Pods with multiple containers</strong><br>多容器 Pod</td>
+<td>&quot;Pods are designed to <strong>support multiple cooperating processes (as containers)</strong> that <strong>form a cohesive unit of service</strong>.&quot;</td>
+<td>Pod 的设计<strong>支持多个相互协作的进程（以容器形式）</strong>，它们<strong>组成一个内聚的服务单元</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=Pods%20are%20designed%20to%20support%20multiple%20cooperating">The Kubernetes Authors, n.d., &quot;Pods with multiple containers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>sidecars</strong><br>边车</td>
+<td>(context) &quot;Setting the <code>Always</code> restart policy ensures that the containers where you set it are <strong>treated as <em>sidecars</em></strong> that are <strong>kept running during the entire lifetime of the Pod</strong>.&quot;</td>
+<td>（语境）设置 <code>Always</code> 重启策略，可确保设置了它的容器<strong>被视为<em>边车</em></strong>，<strong>在 Pod 的整个生命周期内保持运行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=Setting%20the%20%60Always%60%20restart%20policy%20ensures%20that">The Kubernetes Authors, n.d., &quot;Pods with multiple containers&quot;, para. 9</a></td>
+</tr>
+<tr>
+<td><strong>4.1.0.8 Container probes</strong><br>容器探针</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#container-probes">The Kubernetes Authors, n.d., &quot;Container probes&quot;</a></td>
+</tr>
+<tr>
+<td><strong>probe</strong><br>探针</td>
+<td>&quot;A <em>probe</em> is <strong>a diagnostic</strong> performed <strong>periodically by the kubelet on a container</strong>.&quot;</td>
+<td><em>探针</em>是<strong>一种诊断</strong>，<strong>由 kubelet 定期对容器执行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=A%20%2Aprobe%2A%20is%20a%20diagnostic%20performed%20periodically">The Kubernetes Authors, n.d., &quot;Container probes&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Pods</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/">https://kubernetes.io/docs/concepts/workloads/pods/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

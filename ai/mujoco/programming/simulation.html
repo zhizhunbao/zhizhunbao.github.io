@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.4 Simulation | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 5.4 Simulation: Initialization, Simulation loop, State and control, Forward dynamics, Inverse dynamics, Multi-threading, mjModel changes, Data layout, Internal stack, Errors, warnings, logging, Diagnostics, Jacobians, Contacts, Sleeping islands, Coordinate frames and transformations.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="54-simulation">5.4 Simulation</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/simulation.png" alt="5.4 Simulation: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5.4 Simulation</strong><br>仿真</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#simulation">Google DeepMind, n.d., &quot;Simulation&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Initialization</strong><br>初始化</td>
+<td>(context) &quot;mjModel and mjData should never be allocated directly by the user. Instead they are <strong>allocated and initialized by the corresponding API functions</strong>.&quot;</td>
+<td>（语境）mjModel 和 mjData 绝不应由用户直接分配，而是<strong>由相应的 API 函数分配和初始化</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#initialization">Google DeepMind, n.d., &quot;Initialization&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>virtual file system (VFS)</strong><br>虚拟文件系统（VFS）</td>
+<td>&quot;The virtual file system (VFS) <strong>allows disk resources to be loaded in memory or created programmatically by the user</strong>, and then MuJoCo’s load functions search for files in the VFS before accessing the disk.&quot;</td>
+<td>虚拟文件系统（VFS）<strong>允许把磁盘资源加载到内存中，或由用户以编程方式创建</strong>，然后 MuJoCo 的加载函数会先在 VFS 中查找文件，再访问磁盘。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#initialization">Google DeepMind, n.d., &quot;Initialization&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Simulation loop</strong><br>仿真循环</td>
+<td>(context) &quot;There are multiple ways to run a simulation loop in MuJoCo. The simplest way is to <strong>call the top-level simulation function mj_step in a loop</strong> such as&quot;</td>
+<td>（语境）在 MuJoCo 中运行仿真循环有多种方式。最简单的方式是<strong>在循环中调用顶层仿真函数 mj_step</strong>，例如</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#simulation-loop">Google DeepMind, n.d., &quot;Simulation loop&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>control callback</strong><br>控制回调</td>
+<td>(context) &quot;The default way to control the system is to <strong>implement a control callback</strong>, for example&quot;</td>
+<td>（语境）控制系统的默认方式是<strong>实现一个控制回调</strong>，例如</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#simulation-loop">Google DeepMind, n.d., &quot;Simulation loop&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>single-step integrators</strong><br>单步积分器</td>
+<td>(context) &quot;There is one complication however: this only works with the <strong>single-step integrators (Euler, implicit, implicitfast)</strong>.&quot;</td>
+<td>（语境）不过有一个复杂之处：这只适用于<strong>单步积分器（Euler、implicit、implicitfast）</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#simulation-loop">Google DeepMind, n.d., &quot;Simulation loop&quot;, para. 8</a></td>
+</tr>
+<tr>
+<td><strong>State and control</strong><br>状态与控制</td>
+<td>&quot;MuJoCo has <strong>a well-defined state that is easy to set, reset and advance through time</strong>.&quot;</td>
+<td>MuJoCo 有<strong>一个定义明确、易于设置、重置并随时间推进的状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#state-and-control">Google DeepMind, n.d., &quot;State and control&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>State components</strong><br>状态组成部分</td>
+<td>&quot;The state is composed of <strong>distinct components</strong>, described in the mjtState bitfield enum, which enumerates both individual components and combinations of components.&quot;</td>
+<td>状态由<strong>不同的组成部分</strong>构成，它们在 mjtState 位域枚举中描述，该枚举既列出单个组成部分，也列出组成部分的组合。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#state-components">Google DeepMind, n.d., &quot;State components&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtState</strong><br>状态枚举 mjtState</td>
+<td>&quot;The state is composed of distinct components, described in the mjtState bitfield enum, which <strong>enumerates both individual components and combinations of components</strong>.&quot;</td>
+<td>状态由不同的组成部分构成，它们在 mjtState 位域枚举中描述，该枚举<strong>既列出单个组成部分，也列出组成部分的组合</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#state-components">Google DeepMind, n.d., &quot;State components&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Physics state</strong><br>物理状态</td>
+<td>&quot;The physics state (mjSTATE_PHYSICS) contains <strong>the main quantities which are time-integrated during stepping</strong>.&quot;</td>
+<td>物理状态（mjSTATE_PHYSICS）包含<strong>在步进过程中进行时间积分的主要量</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#physics-state">Google DeepMind, n.d., &quot;Physics state&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Position: qpos</strong><br>位置 qpos</td>
+<td>&quot;The <strong>configuration in generalized coordinates</strong>&quot;</td>
+<td>广义坐标下的位形</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#physics-state">Google DeepMind, n.d., &quot;Physics state&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Velocity: qvel</strong><br>速度 qvel</td>
+<td>&quot;The <strong>generalized velocities</strong>&quot;</td>
+<td>广义速度</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#physics-state">Google DeepMind, n.d., &quot;Physics state&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Actuator activation: act</strong><br>执行器激活 act</td>
+<td>&quot;For a second-order mechanical system, the state contains only position and velocity, but MuJoCo also models stateful actuators (such as biological muscles) that have <strong>their own activation states assembled in mjData.act</strong>&quot;</td>
+<td>对二阶机械系统而言，状态只包含位置和速度，但 MuJoCo 还对有状态的执行器（如生物肌肉）建模，它们有<strong>自己的激活状态，汇集在 mjData.act 中</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#physics-state">Google DeepMind, n.d., &quot;Physics state&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>History buffer: history</strong><br>历史缓冲区 history</td>
+<td>&quot;When actuators or sensors have a positive nsample attribute (actuators, sensors), this buffer <strong>stores timestamped samples of previous control or sensor values</strong>.&quot;</td>
+<td>当执行器或传感器的 nsample 属性为正时（执行器、传感器），这个缓冲区<strong>存储以前的控制值或传感器值的带时间戳样本</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#physics-state">Google DeepMind, n.d., &quot;Physics state&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Full physics state</strong><br>完整物理状态</td>
+<td>&quot;t, x above correspond to the full physics state (mjSTATE_FULLPHYSICS) – <strong>everything which advances in time</strong>.&quot;</td>
+<td>上面的 t、x 对应完整物理状态（mjSTATE_FULLPHYSICS），即<strong>一切随时间推进的量</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#full-physics-state">Google DeepMind, n.d., &quot;Full physics state&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Time: time</strong><br>时间 time</td>
+<td>&quot;The time t (mjData.time) is therefore <strong>a state component with dt/dt == 1</strong>.&quot;</td>
+<td>因此时间 t（mjData.time）是<strong>一个满足 dt/dt == 1 的状态组成部分</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#full-physics-state">Google DeepMind, n.d., &quot;Full physics state&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Plugin state: plugin_state</strong><br>插件状态 plugin_state</td>
+<td>&quot;mjData.plugin_state are <strong>states declared by engine plugins</strong>.&quot;</td>
+<td>mjData.plugin_state 是<strong>由引擎插件声明的状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#full-physics-state">Google DeepMind, n.d., &quot;Full physics state&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>User inputs</strong><br>用户输入</td>
+<td>&quot;These input fields (mjSTATE_USER) are <strong>set by the user and affect the physics simulation, but are untouched by the simulator</strong>.&quot;</td>
+<td>这些输入字段（mjSTATE_USER）<strong>由用户设置并影响物理仿真，但仿真器不会改动它们</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#user-inputs">Google DeepMind, n.d., &quot;User inputs&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Control: ctrl</strong><br>控制 ctrl</td>
+<td>&quot;The control vector u mostly corresponds to the array mjData.ctrl, containing <strong>the actuation signal set by the user</strong>.&quot;</td>
+<td>控制向量 u 主要对应数组 mjData.ctrl，其中包含<strong>用户设置的驱动信号</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#user-inputs">Google DeepMind, n.d., &quot;User inputs&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Auxiliary Controls: qfrc_applied and xfrc_applied</strong><br>辅助控制 qfrc_applied 和 xfrc_applied</td>
+<td>&quot;mjData.qfrc_applied are <strong>directly applied generalized forces</strong>.mjData.xfrc_applied are <strong>Cartesian wrenches applied to the CoM of individual bodies</strong>.&quot;</td>
+<td>mjData.qfrc_applied 是<strong>直接施加的广义力</strong>。mjData.xfrc_applied 是<strong>施加在各个刚体质心上的笛卡尔力旋量</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#user-inputs">Google DeepMind, n.d., &quot;User inputs&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>MoCap poses: mocap_pos and mocap_quat</strong><br>动捕位姿 mocap_pos 和 mocap_quat</td>
+<td>&quot;mjData.mocap_pos and mjData.mocap_quat are <strong>special optional kinematic states</strong> described here, which allow the user to set the positions and orientations of static bodies in real-time, for example when streaming 6D poses from a motion-capture device.&quot;</td>
+<td>mjData.mocap_pos 和 mjData.mocap_quat 是<strong>特殊的可选运动学状态</strong>（见此处说明），允许用户实时设置静态刚体的位置和朝向，例如从动作捕捉设备流式传入 6D 位姿时。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#user-inputs">Google DeepMind, n.d., &quot;User inputs&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Equality constraint toggle: eq_active</strong><br>等式约束开关 eq_active</td>
+<td>&quot;mjData.eq_active is <strong>a byte-valued array that allows the user to toggle the state of equality constraints at runtime</strong>.&quot;</td>
+<td>mjData.eq_active 是<strong>一个字节值数组，允许用户在运行时切换等式约束的状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#user-inputs">Google DeepMind, n.d., &quot;User inputs&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>User data: userdata</strong><br>用户数据 userdata</td>
+<td>&quot;mjData.userdata acts as <strong>a user-defined memory space untouched by the engine</strong>.&quot;</td>
+<td>mjData.userdata 充当<strong>引擎不会改动的用户自定义内存空间</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#user-inputs">Google DeepMind, n.d., &quot;User inputs&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>Warmstarts</strong><br>热启动</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#warmstarts">Google DeepMind, n.d., &quot;Warmstarts&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Warmstart accelerations: qacc_warmstart</strong><br>热启动加速度 qacc_warmstart</td>
+<td>&quot;mjData.qacc_warmstart are <strong>the previous step’s accelerations used to warmstart the constraint solver</strong>.&quot;</td>
+<td>mjData.qacc_warmstart 是<strong>上一步的加速度，用于热启动约束求解器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#warmstarts">Google DeepMind, n.d., &quot;Warmstarts&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Integration state</strong><br>积分状态</td>
+<td>&quot;The integration state (mjSTATE_INTEGRATION) is <strong>the union of all the above mjData fields and constitutes the entire set of inputs to the forward dynamics</strong>.&quot;</td>
+<td>积分状态（mjSTATE_INTEGRATION）是<strong>以上所有 mjData 字段的并集，构成正向动力学的全部输入</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#integration-state">Google DeepMind, n.d., &quot;Integration state&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Simulation state</strong><br>仿真状态</td>
+<td>&quot;The simulation state is <strong>the entirety of the mjData struct and associated memory buffer</strong>.&quot;</td>
+<td>仿真状态是<strong>整个 mjData 结构体及其关联的内存缓冲区</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#simulation-state">Google DeepMind, n.d., &quot;Simulation state&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>State manipulation</strong><br>状态操作</td>
+<td>(context) &quot;Manipulation of the state is <strong>facilitated by the mjtState bitfield enum</strong>, which enumerates the state components documented above.&quot;</td>
+<td>（语境）状态操作<strong>借助 mjtState 位域枚举来实现</strong>，该枚举列出了上面介绍的各个状态组成部分。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#state-manipulation">Google DeepMind, n.d., &quot;State manipulation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Forward dynamics</strong><br>正向动力学</td>
+<td>&quot;The goal of forward dynamics is to <strong>compute the time-derivative of the state</strong>, namely the acceleration vector mjData.qacc and the activation time-derivative mjData.act_dot.&quot;</td>
+<td>正向动力学的目标是<strong>计算状态的时间导数</strong>，即加速度向量 mjData.qacc 和激活量的时间导数 mjData.act_dot。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#forward-dynamics">Google DeepMind, n.d., &quot;Forward dynamics&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Inverse dynamics</strong><br>逆向动力学</td>
+<td>(context) &quot;The computation of inverse dynamics is <strong>a unique feature of MuJoCo</strong>, and is not found in any other modern engine capable of simulating contacts.&quot;</td>
+<td>（语境）逆向动力学的计算是 <strong>MuJoCo 的一项独有功能</strong>，在其他任何能模拟接触的现代引擎中都没有。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#inverse-dynamics">Google DeepMind, n.d., &quot;Inverse dynamics&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Recursive Newton-Euler algorithm</strong><br>递归牛顿-欧拉算法</td>
+<td>(context) &quot;The result mjData.qfrc_inverse is obtained by using the Recursive Newton-Euler algorithm to <strong>compute the net force acting on the system</strong>, and then subtracting from it all internal forces.&quot;</td>
+<td>（语境）结果 mjData.qfrc_inverse 是这样得到的：用递归牛顿-欧拉算法<strong>计算作用在系统上的合力</strong>，再从中减去所有内力。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#inverse-dynamics">Google DeepMind, n.d., &quot;Inverse dynamics&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>computed torque control</strong><br>计算力矩控制</td>
+<td>&quot;It can also be used <strong>to compute the joint torques needed to drive the system along a given reference trajectory</strong>; this is known as computed torque control.&quot;</td>
+<td>它还可以用来<strong>计算沿给定参考轨迹驱动系统所需的关节力矩</strong>，这称为计算力矩控制。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#inverse-dynamics">Google DeepMind, n.d., &quot;Inverse dynamics&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Physics violation</strong><br>物理违背</td>
+<td>&quot;Physics violation can be quantified as <strong>the norm of any unexplained external force computed by inverse dynamics</strong>.&quot;</td>
+<td>物理违背可以量化为<strong>逆向动力学计算出的任何无法解释的外力的范数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#inverse-dynamics">Google DeepMind, n.d., &quot;Inverse dynamics&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Multi-threading</strong><br>多线程</td>
+<td>&quot;MuJoCo has support for <strong>within-step multi-threading</strong>.&quot;</td>
+<td>MuJoCo 支持<strong>步内多线程</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#multi-threading">Google DeepMind, n.d., &quot;Multi-threading&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Batched simulation</strong><br>批量仿真</td>
+<td>&quot;The batch API in mujoco/mjbatch.h <strong>packages this multi-threading scheme</strong>.&quot;</td>
+<td>mujoco/mjbatch.h 中的批量 API <strong>封装了这种多线程方案</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjBatch</strong><br>批量结构体 mjBatch</td>
+<td>&quot;An mjBatch <strong>holds nsim simulations of one model and runs them on a thread pool of its own</strong>.&quot;</td>
+<td>一个 mjBatch <strong>保存同一模型的 nsim 个仿真，并在自己的线程池上运行它们</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>State rows</strong><br>状态行</td>
+<td>&quot;The batch keeps these states in a table returned by mjb_state, an nsim x nstate array <strong>whose row i is simulation i’s state</strong>, where nstate is mjb_nstate.&quot;</td>
+<td>批量对象把这些状态保存在 mjb_state 返回的表中，这是一个 nsim x nstate 数组，<strong>其第 i 行是第 i 个仿真的状态</strong>，其中 nstate 是 mjb_nstate。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Calls</strong><br>调用</td>
+<td>&quot;A call such as mjb_step <strong>runs on the simulations selected by ids, or on all of them</strong>.&quot;</td>
+<td>像 mjb_step 这样的调用<strong>在由 ids 选中的仿真上运行，或在全部仿真上运行</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Outputs</strong><br>输出</td>
+<td>&quot;mjb_output <strong>registers an mjData field as an output</strong>: after every call, the batch copies it out of each simulation’s mjData into an nsim x size array that the batch owns.&quot;</td>
+<td>mjb_output <strong>把一个 mjData 字段注册为输出</strong>：每次调用之后，批量对象把它从各个仿真的 mjData 中复制到自己拥有的 nsim x size 数组里。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Shared and persistent mjData</strong><br>共享与持久的 mjData</td>
+<td>&quot;By default, a batch <strong>keeps one mjData per thread</strong>, which each thread reuses for the simulations it runs, so memory scales with threads rather than simulations.&quot;</td>
+<td>默认情况下，批量对象<strong>为每个线程保留一个 mjData</strong>，每个线程在它运行的各个仿真之间复用它，因此内存随线程数而不是仿真数增长。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Stages</strong><br>阶段</td>
+<td>&quot;To observe the new state, the calls that step or reset take a stage argument (an mjtStage): when the call is done, <strong>the batch runs the stages of mj_forward up to stage at the new state</strong>.&quot;</td>
+<td>为了观察新状态，步进或重置的调用接受一个 stage 参数（一个 mjtStage）：调用完成时，<strong>批量对象在新状态上运行 mj_forward 直到 stage 为止的各个阶段</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Continuation</strong><br>续接</td>
+<td>&quot;In a persistent batch, the simulation’s mjData still holds those stages at the next call, so <strong>the next step skips them and continues with mj_step2</strong>, and fresh observations cost nothing extra.&quot;</td>
+<td>在持久批量中，下一次调用时该仿真的 mjData 仍保有这些阶段，因此<strong>下一步跳过它们，直接续接 mj_step2</strong>，新的观测不需要额外开销。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Per-simulation models</strong><br>逐仿真模型</td>
+<td>&quot;To give simulations different model or option values, for example to randomize masses, friction or gravity, <strong>mjb_expand expands a field</strong>.&quot;</td>
+<td>为了给各个仿真不同的模型值或选项值，例如随机化质量、摩擦或重力，<strong>mjb_expand 会扩展一个字段</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 8</a></td>
+</tr>
+<tr>
+<td><strong>Trajectories and queries</strong><br>轨迹与查询</td>
+<td>&quot;mjb_rollout <strong>records open-loop trajectories</strong>: it applies a given control sequence and records chosen states or fields after every substep.&quot;</td>
+<td>mjb_rollout <strong>记录开环轨迹</strong>：它施加给定的控制序列，并在每个子步之后记录选定的状态或字段。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 9</a></td>
+</tr>
+<tr>
+<td><strong>Threads and callbacks</strong><br>线程与回调</td>
+<td>&quot;The batch’s threads <strong>run across simulations</strong>, while those of mju_threadpool run within one simulation.&quot;</td>
+<td>批量对象的线程<strong>跨仿真运行</strong>，而 mju_threadpool 的线程在一个仿真内部运行。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 10</a></td>
+</tr>
+<tr>
+<td><strong>mjModel changes</strong><br>mjModel 修改</td>
+<td>(context) &quot;The general rule is that <strong>real-valued parameters are safe to change, while structural integer parameters are not</strong> because that may result in incorrect sizes or indexing.&quot;</td>
+<td>（语境）一般规则是：<strong>实数值参数可以安全修改，而结构性的整数参数不行</strong>，因为那可能导致大小或索引出错。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#mjmodel-changes">Google DeepMind, n.d., &quot;mjModel changes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Data layout</strong><br>数据布局</td>
+<td>&quot;All matrices in MuJoCo are in <strong>row-major</strong> format.&quot;</td>
+<td>MuJoCo 中的所有矩阵都采用<strong>行主序</strong>格式。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#data-layout">Google DeepMind, n.d., &quot;Data layout&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>compressed sparse row (CSR) format</strong><br>压缩稀疏行（CSR）格式</td>
+<td>(context) &quot;Sparse matrices are stored in <strong>the compressed sparse row (CSR) format</strong>.&quot;</td>
+<td>（语境）稀疏矩阵以<strong>压缩稀疏行（CSR）格式</strong>存储。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#data-layout">Google DeepMind, n.d., &quot;Data layout&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>uncompressed</strong><br>非压缩稀疏布局</td>
+<td>&quot;Furthermore, in operations that can change the sparsity pattern, it is more efficient to <strong>spread out the data so that we do not have to perform many memory moves when inserting new data</strong>. We call this sparse layout “uncompressed”.&quot;</td>
+<td>此外，在可能改变稀疏模式的运算中，<strong>把数据分散存放，使插入新数据时不必做大量内存移动</strong>会更高效。我们把这种稀疏布局称为“非压缩”布局。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#data-layout">Google DeepMind, n.d., &quot;Data layout&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>unit quaternions</strong><br>单位四元数</td>
+<td>&quot;To represent 3D orientations and rotations, MuJoCo uses unit quaternions – namely <strong>4D unit vectors arranged as q = (w, x, y, z)</strong>.&quot;</td>
+<td>为了表示三维朝向和旋转，MuJoCo 使用单位四元数，即<strong>按 q = (w, x, y, z) 排列的四维单位向量</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#data-layout">Google DeepMind, n.d., &quot;Data layout&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>6D spatial vectors</strong><br>6D 空间向量</td>
+<td>&quot;MuJoCo also uses 6D spatial vectors internally. These are quantities in mjData prefixed with ‘c’, namely cvel, cacc, cdot, etc. They are <strong>spatial motion and force vectors that combine a 3D rotational component followed by a 3D translational component</strong>.&quot;</td>
+<td>MuJoCo 内部还使用 6D 空间向量。它们是 mjData 中以 ‘c’ 为前缀的量，即 cvel、cacc、cdot 等。它们是<strong>空间运动向量和空间力向量，由一个三维转动分量接一个三维平移分量组成</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#data-layout">Google DeepMind, n.d., &quot;Data layout&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Internal stack</strong><br>内部栈</td>
+<td>&quot;Most top-level MuJoCo functions <strong>allocate space on the mjData stack</strong>, use it for internal computations, and then deallocate it.&quot;</td>
+<td>大多数顶层 MuJoCo 函数<strong>在 mjData 栈上分配空间</strong>，用于内部计算，然后再释放。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#internal-stack">Google DeepMind, n.d., &quot;Internal stack&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>arena</strong><br>arena 内存区</td>
+<td>&quot;MuJoCo allocates and <strong>manages dynamic memory in an “arena” space</strong> in mjData.arena.&quot;</td>
+<td>MuJoCo 在 mjData.arena 中<strong>以“arena”空间分配和管理动态内存</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#internal-stack">Google DeepMind, n.d., &quot;Internal stack&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Errors, warnings, logging</strong><br>错误、警告与日志</td>
+<td>&quot;MuJoCo has <strong>a unified logging system for errors, warnings and informational messages</strong>.&quot;</td>
+<td>MuJoCo 有<strong>一个统一的日志系统，用于错误、警告和信息性消息</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#errors-warnings-logging">Google DeepMind, n.d., &quot;Errors, warnings, logging&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfLogHandler</strong><br>日志处理器类型 mjfLogHandler</td>
+<td>&quot;All log output is routed through <strong>a single callback of type mjfLogHandler</strong>, which receives a structured mjLogMessage containing the severity level, message text, and optional source location.&quot;</td>
+<td>所有日志输出都经由<strong>一个 mjfLogHandler 类型的回调</strong>传递，它接收一个结构化的 mjLogMessage，其中包含严重级别、消息文本和可选的源代码位置。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#errors-warnings-logging">Google DeepMind, n.d., &quot;Errors, warnings, logging&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjLogMessage</strong><br>日志消息结构体 mjLogMessage</td>
+<td>&quot;All log output is routed through a single callback of type mjfLogHandler, which receives <strong>a structured mjLogMessage containing the severity level, message text, and optional source location</strong>.&quot;</td>
+<td>所有日志输出都经由一个 mjfLogHandler 类型的回调传递，它接收<strong>一个结构化的 mjLogMessage，其中包含严重级别、消息文本和可选的源代码位置</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#errors-warnings-logging">Google DeepMind, n.d., &quot;Errors, warnings, logging&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Installing a handler</strong><br>安装处理器</td>
+<td>(context) &quot;Users who want to intercept and process MuJoCo’s log output should <strong>install a log handler using mju_setLogHandler</strong>.&quot;</td>
+<td>（语境）想要截获并处理 MuJoCo 日志输出的用户应当<strong>用 mju_setLogHandler 安装一个日志处理器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#installing-a-handler">Google DeepMind, n.d., &quot;Installing a handler&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Save/restore</strong><br>保存与恢复</td>
+<td>&quot;A library or subsystem can <strong>temporarily install its own handler and later restore the previous one</strong>.&quot;</td>
+<td>库或子系统可以<strong>临时安装自己的处理器，之后再恢复先前的处理器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#installing-a-handler">Google DeepMind, n.d., &quot;Installing a handler&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Chaining</strong><br>链式调用</td>
+<td>&quot;A custom handler can act as a pure observer by <strong>calling the previous handler at the end of its callback to preserve existing behavior</strong>.&quot;</td>
+<td>自定义处理器可以充当纯观察者，做法是<strong>在其回调末尾调用先前的处理器，以保留原有行为</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#installing-a-handler">Google DeepMind, n.d., &quot;Installing a handler&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Default handler</strong><br>默认处理器</td>
+<td>(context) &quot;If no custom handler is installed (or if NULL is passed to mju_setLogHandler), MuJoCo uses <strong>a default handler</strong> that provides the following behavior:&quot;</td>
+<td>（语境）如果没有安装自定义处理器（或向 mju_setLogHandler 传入 NULL），MuJoCo 使用<strong>一个默认处理器</strong>，其行为如下：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#default-handler">Google DeepMind, n.d., &quot;Default handler&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Error recovery</strong><br>错误恢复</td>
+<td>(context) &quot;One situation where it is desirable to <strong>continue even after an error</strong> is an interactive simulator that fails to load a model file.&quot;</td>
+<td>（语境）需要<strong>在出错后仍然继续运行</strong>的一种情形，是交互式仿真器加载模型文件失败。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#error-recovery">Google DeepMind, n.d., &quot;Error recovery&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Informational messages</strong><br>信息性消息</td>
+<td>&quot;MuJoCo provides <strong>two levels of opt-in diagnostic logging</strong>: informational messages (mjLOG_INFO) and debug traces (mjLOG_DEBUG).&quot;</td>
+<td>MuJoCo 提供<strong>两个级别的可选诊断日志</strong>：信息性消息（mjLOG_INFO）和调试跟踪（mjLOG_DEBUG）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#informational-messages">Google DeepMind, n.d., &quot;Informational messages&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtLogTopic</strong><br>日志主题枚举 mjtLogTopic</td>
+<td>(context) &quot;Both use <strong>topic identifiers from the mjtLogTopic enum</strong>, but have a subtle architectural distinction in how filtering is applied:&quot;</td>
+<td>（语境）两者都使用<strong>来自 mjtLogTopic 枚举的主题标识符</strong>，但在如何过滤上有细微的架构差别：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#informational-messages">Google DeepMind, n.d., &quot;Informational messages&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>INFO messages</strong><br>INFO 消息</td>
+<td>&quot;Emitted unconditionally by the engine. Filtering happens on <strong>the consumer side</strong> inside the default handler.&quot;</td>
+<td>由引擎无条件发出。过滤发生在默认处理器内部的<strong>消费者一侧</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#informational-messages">Google DeepMind, n.d., &quot;Informational messages&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>DEBUG messages</strong><br>DEBUG 消息</td>
+<td>&quot;Designed for tight, high-frequency simulation loops where constructing strings would be a performance bottleneck. Therefore, filtering happens on <strong>the producer side</strong>.&quot;</td>
+<td>为紧凑的高频仿真循环设计，在这种循环中构造字符串会成为性能瓶颈。因此，过滤发生在<strong>生产者一侧</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#informational-messages">Google DeepMind, n.d., &quot;Informational messages&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Legacy handlers</strong><br>旧版处理器</td>
+<td>(context) &quot;The global function pointers mju_user_error and mju_user_warning are still supported for backward compatibility, but are <strong>deprecated in favor of mju_setLogHandler</strong>.&quot;</td>
+<td>（语境）全局函数指针 mju_user_error 和 mju_user_warning 为向后兼容仍受支持，但<strong>已被弃用，改用 mju_setLogHandler</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#legacy-handlers">Google DeepMind, n.d., &quot;Legacy handlers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Memory handlers</strong><br>内存处理器</td>
+<td>(context) &quot;When MuJoCo allocates and frees memory on the heap, it always uses <strong>the functions mju_malloc and mju_free</strong>.&quot;</td>
+<td>（语境）MuJoCo 在堆上分配和释放内存时，总是使用<strong>函数 mju_malloc 和 mju_free</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#memory-handlers">Google DeepMind, n.d., &quot;Memory handlers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Diagnostics</strong><br>诊断</td>
+<td>&quot;MuJoCo has <strong>several built-in diagnostics mechanisms that can be used to fine-tune the model</strong>.&quot;</td>
+<td>MuJoCo 有<strong>若干内置诊断机制，可用于微调模型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#diagnostics">Google DeepMind, n.d., &quot;Diagnostics&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>warning</strong><br>警告</td>
+<td>&quot;When the simulator encounters a situation that is not a terminal error but is nevertheless suspicious and likely to result in inaccurate numerical results, <strong>it triggers a warning</strong>.&quot;</td>
+<td>当仿真器遇到并非致命错误、但可疑且很可能导致数值结果不准确的情形时，<strong>它会触发一个警告</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#diagnostics">Google DeepMind, n.d., &quot;Diagnostics&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>mjtWarning</strong><br>警告枚举 mjtWarning</td>
+<td>(context) &quot;There are several possible warning types, <strong>indexed by the enum type mjtWarning</strong>.&quot;</td>
+<td>（语境）可能的警告类型有好几种，<strong>由枚举类型 mjtWarning 索引</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#diagnostics">Google DeepMind, n.d., &quot;Diagnostics&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>mjWarningStat</strong><br>警告统计结构体 mjWarningStat</td>
+<td>&quot;The array mjData.warning contains <strong>one mjWarningStat data structure per warning type</strong>, indicating how many times each warning type has been triggered since the last reset and any information about the warning (usually the index of the problematic model element).&quot;</td>
+<td>数组 mjData.warning 中<strong>每种警告类型对应一个 mjWarningStat 数据结构</strong>，表示自上次重置以来每种警告被触发的次数以及关于该警告的信息（通常是出问题的模型元素的索引）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#diagnostics">Google DeepMind, n.d., &quot;Diagnostics&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>profiling mechanism</strong><br>性能剖析机制</td>
+<td>(context) &quot;MuJoCo provides <strong>an extensive profiling mechanism</strong>.&quot;</td>
+<td>（语境）MuJoCo 提供<strong>一套全面的性能剖析机制</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#diagnostics">Google DeepMind, n.d., &quot;Diagnostics&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>mjtTimer</strong><br>计时器枚举 mjtTimer</td>
+<td>(context) &quot;It involves <strong>multiple timers indexed by the enum type mjtTimer</strong>.&quot;</td>
+<td>（语境）它包含<strong>由枚举类型 mjtTimer 索引的多个计时器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#diagnostics">Google DeepMind, n.d., &quot;Diagnostics&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>mjTimerStat</strong><br>计时统计结构体 mjTimerStat</td>
+<td>&quot;The array mjData.timer contains <strong>one mjTimerStat data structure per timer</strong>.&quot;</td>
+<td>数组 mjData.timer 中<strong>每个计时器对应一个 mjTimerStat 数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#diagnostics">Google DeepMind, n.d., &quot;Diagnostics&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>mjSolverStat</strong><br>求解器统计结构体 mjSolverStat</td>
+<td>&quot;The array mjData.solver contains <strong>one mjSolverStat data structure per iteration of the constraint solver</strong>, with information about the constraint state and line search.&quot;</td>
+<td>数组 mjData.solver 中<strong>约束求解器的每次迭代对应一个 mjSolverStat 数据结构</strong>，包含关于约束状态和线搜索的信息。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#diagnostics">Google DeepMind, n.d., &quot;Diagnostics&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Jacobians</strong><br>雅可比矩阵</td>
+<td>&quot;<strong>The derivative of any vector function with respect to its vector argument</strong> is called Jacobian.&quot;</td>
+<td><strong>任意向量函数对其向量自变量的导数</strong>称为雅可比矩阵。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#jacobians">Google DeepMind, n.d., &quot;Jacobians&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>moment arms</strong><br>力臂</td>
+<td>&quot;In the case of tendons and actuator transmissions the corresponding quantities are mjData.ten_moment and mjData.actuator_moment; we call them moment arms but <strong>mathematically they are Jacobians</strong>.&quot;</td>
+<td>对于肌腱和执行器传动，相应的量是 mjData.ten_moment 和 mjData.actuator_moment；我们称之为力臂，但<strong>在数学上它们是雅可比矩阵</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#jacobians">Google DeepMind, n.d., &quot;Jacobians&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Contacts</strong><br>接触</td>
+<td>(context) &quot;Here we further clarify <strong>contact processing from a programming perspective</strong>.&quot;</td>
+<td>（语境）这里进一步从编程的角度说明<strong>接触处理</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#contacts">Google DeepMind, n.d., &quot;Contacts&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjContact</strong><br>接触结构体 mjContact</td>
+<td>(context) &quot;The collision detection stage finds contacts between geoms, and records them in <strong>the array mjData.contact of mjContact data structures</strong>.&quot;</td>
+<td>（语境）碰撞检测阶段找出 geom 之间的接触，并把它们记录在<strong>由 mjContact 数据结构组成的数组 mjData.contact</strong> 中。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#contacts">Google DeepMind, n.d., &quot;Contacts&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>mjfCollision</strong><br>碰撞函数类型 mjfCollision</td>
+<td>(context) &quot;The collision function type is <strong>mjfCollision</strong>.&quot;</td>
+<td>（语境）碰撞函数的类型是 <strong>mjfCollision</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#contacts">Google DeepMind, n.d., &quot;Contacts&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>friction cone</strong><br>摩擦锥</td>
+<td>(context) &quot;Keep in mind that the contact friction cone <strong>can be pyramidal or elliptic</strong>, depending on which solver is selected in mjModel.opt.&quot;</td>
+<td>（语境）请记住，接触摩擦锥<strong>可以是棱锥形或椭圆形</strong>，取决于 mjModel.opt 中选择了哪种求解器。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#contacts">Google DeepMind, n.d., &quot;Contacts&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>contact frame</strong><br>接触坐标系</td>
+<td>(context) &quot;This force and torque are expressed in <strong>the contact frame given by mjContact.frame</strong>.&quot;</td>
+<td>（语境）这个力和力矩表示在<strong>由 mjContact.frame 给出的接触坐标系</strong>中。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#contacts">Google DeepMind, n.d., &quot;Contacts&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Sleeping islands</strong><br>休眠岛</td>
+<td>&quot;If all trees in an island are ready to sleep, they are put to sleep during state advancement and their associated values in tree_asleep are set to <strong>a (non-negative) index cycle</strong>: the “sleeping island”.&quot;</td>
+<td>如果一个岛中的所有树都已准备好休眠，它们就会在状态推进时进入休眠，其在 tree_asleep 中的对应值被设为<strong>一个（非负的）索引环</strong>，即“休眠岛”。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#sleeping-islands">Google DeepMind, n.d., &quot;Sleeping islands&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Sleep policy</strong><br>休眠策略</td>
+<td>&quot;The ability of a kinematic tree to sleep is <strong>governed by a policy determined at model compile time</strong>.&quot;</td>
+<td>运动学树能否休眠<strong>由模型编译时确定的策略决定</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#sleep-policy">Google DeepMind, n.d., &quot;Sleep policy&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sleeping</strong><br>进入休眠</td>
+<td>(context) &quot;Sleeping can happen in <strong>one of two ways</strong>:&quot;</td>
+<td>（语境）进入休眠有<strong>两种方式</strong>：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#sleeping">Google DeepMind, n.d., &quot;Sleeping&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Automatic</strong><br>自动休眠</td>
+<td>&quot;The velocity threshold described above is <strong>w.r.t. the infinity norm (largest absolute value) of all velocities associated with an island</strong>.&quot;</td>
+<td>上面所说的速度阈值针对的是<strong>与岛相关的所有速度的无穷范数（最大绝对值）</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#sleeping">Google DeepMind, n.d., &quot;Sleeping&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Initialized asleep</strong><br>初始即休眠</td>
+<td>&quot;By setting the body/sleep attribute of a tree root to “init”, it is marked as “initialized asleep” and <strong>put to sleep during mjData initialization</strong>.&quot;</td>
+<td>把树根的 body/sleep 属性设为“init”，它就被标记为“初始即休眠”，并<strong>在 mjData 初始化时进入休眠</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#sleeping">Google DeepMind, n.d., &quot;Sleeping&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Waking</strong><br>唤醒</td>
+<td>&quot;Waking <strong>happens at the beginning of the timestep</strong>, either during mj_kinematics or soon thereafter during the position stage of the simulation pipeline.&quot;</td>
+<td>唤醒<strong>发生在时间步的开始</strong>，要么在 mj_kinematics 期间，要么紧随其后在仿真流水线的位置阶段。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#waking">Google DeepMind, n.d., &quot;Waking&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sleeping actuators</strong><br>休眠的执行器</td>
+<td>&quot;As explained in the body/sleep documentation, <strong>trees with actuators are by default not allowed to sleep</strong>, but this can be overridden by the user.&quot;</td>
+<td>如 body/sleep 文档所述，<strong>带执行器的树默认不允许休眠</strong>，但用户可以覆盖这一设置。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#notes">Google DeepMind, n.d., &quot;Notes&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Sleeping sensors</strong><br>休眠的传感器</td>
+<td>&quot;For most sensors, we can <strong>skip the computation of their values when their associated objects are asleep</strong>, reporting the value that was computed when those objects were last awake.&quot;</td>
+<td>对大多数传感器，<strong>当其关联对象处于休眠时可以跳过其值的计算</strong>，而报告这些对象上次醒着时计算出的值。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#notes">Google DeepMind, n.d., &quot;Notes&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Static bodies</strong><br>静态刚体</td>
+<td>&quot;Besides the main optimization of allowing kinematic trees to sleep, the sleep feature also includes another, related optimization: <strong>the skipping of computation related to static bodies</strong>.&quot;</td>
+<td>除了允许运动学树休眠这一主要优化之外，休眠功能还包含另一项相关的优化：<strong>跳过与静态刚体有关的计算</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#notes">Google DeepMind, n.d., &quot;Notes&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Coordinate frames and transformations</strong><br>坐标系与变换</td>
+<td>(context) &quot;There are <strong>multiple coordinate frames</strong> used in MuJoCo.&quot;</td>
+<td>（语境）MuJoCo 中使用<strong>多种坐标系</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations">Google DeepMind, n.d., &quot;Coordinate frames and transformations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>forward kinematics</strong><br>正向运动学</td>
+<td>&quot;<strong>The mapping from the vector of joints coordinates to the Cartesian positions and orientations of all bodies</strong> is called forward kinematics and is the first step in the physics pipeline.&quot;</td>
+<td><strong>从关节坐标向量到所有刚体的笛卡尔位置和朝向的映射</strong>称为正向运动学，它是物理流水线的第一步。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations">Google DeepMind, n.d., &quot;Coordinate frames and transformations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>inverse kinematics</strong><br>逆向运动学</td>
+<td>&quot;<strong>The opposite mapping</strong> is called inverse kinematics but it is not uniquely defined and is not implemented in MuJoCo.&quot;</td>
+<td><strong>相反方向的映射</strong>称为逆向运动学，但它的定义不唯一，MuJoCo 中没有实现。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations">Google DeepMind, n.d., &quot;Coordinate frames and transformations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>joint coordinates</strong><br>关节坐标</td>
+<td>(context) &quot;In joint coordinates, the only complication is that <strong>the position vector mjData.qpos has different dimensionality than the velocity and acceleration vectors</strong> mjData.qvel and mjData.qacc due to quaternion joints.&quot;</td>
+<td>（语境）在关节坐标中，唯一的复杂之处是：由于四元数关节，<strong>位置向量 mjData.qpos 与速度和加速度向量的维数不同</strong>（mjData.qvel 和 mjData.qacc）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations">Google DeepMind, n.d., &quot;Coordinate frames and transformations&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Cartesian coordinates</strong><br>笛卡尔坐标</td>
+<td>&quot;Cartesian coordinates are more complicated because there are <strong>three different coordinate frames that we use: local, global, and com-based</strong>.&quot;</td>
+<td>笛卡尔坐标更复杂，因为<strong>我们使用三种不同的坐标系：局部坐标系、全局坐标系和基于质心的坐标系</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations">Google DeepMind, n.d., &quot;Coordinate frames and transformations&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>local coordinates</strong><br>局部坐标</td>
+<td>&quot;Local coordinates are <strong>used in mjModel to represent the static offsets between a parent and a child body</strong>, as well as the static offsets between a body and any geoms, sites, cameras and lights attached to it.&quot;</td>
+<td>局部坐标<strong>在 mjModel 中用来表示父刚体与子刚体之间的静态偏移</strong>，以及刚体与附着其上的 geom、site、相机和灯光之间的静态偏移。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations">Google DeepMind, n.d., &quot;Coordinate frames and transformations&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>global coordinates</strong><br>全局坐标</td>
+<td>(context) &quot;The job of forward kinematics is to accumulate the joint transformations and static offsets along the kinematic tree and <strong>compute all positions and orientations in global coordinates</strong>.&quot;</td>
+<td>（语境）正向运动学的任务是沿运动学树累积关节变换和静态偏移，并<strong>在全局坐标中计算所有位置和朝向</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations">Google DeepMind, n.d., &quot;Coordinate frames and transformations&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>pose</strong><br>位姿</td>
+<td>&quot;A pose is <strong>a grouping of a 3D position and a unit quaternion orientation</strong>.&quot;</td>
+<td>位姿是<strong>一个三维位置与一个单位四元数朝向的组合</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations">Google DeepMind, n.d., &quot;Coordinate frames and transformations&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>com-based frame</strong><br>基于质心的坐标系</td>
+<td>&quot;Finally, there is the com-based frame. This is <strong>used to represent 6D spatial vectors containing a 3D angular velocity or acceleration or torque, followed by a 3D linear velocity or acceleration or force</strong>.&quot;</td>
+<td>最后是基于质心的坐标系。它<strong>用来表示 6D 空间向量，其中先是三维角速度、角加速度或力矩，后接三维线速度、线加速度或力</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html#coordinate-frames-and-transformations">Google DeepMind, n.d., &quot;Coordinate frames and transformations&quot;, para. 5</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Simulation</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/programming/simulation.html">https://mujoco.readthedocs.io/en/stable/programming/simulation.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

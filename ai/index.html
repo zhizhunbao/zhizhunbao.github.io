@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>AI | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="The AI section: its CS2023 knowledge area, Artificial Intelligence (AI), and its official sources, grouped under the CS2023 names.">
+      <link rel="icon" href="../favicon.svg">
+      <link rel="stylesheet" href="../public/atlas.min.css">
+      <link rel="stylesheet" href="../public/kb.css">
+      <meta name="kb:rel" content="../">
+      <meta name="kb:navrel" content="../toc.html">
+      <meta name="kb:tocrel" content="toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../index.html" aria-label="Home">
+          <img src="../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="ai">AI</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/ai.png" alt="AI sorted into ten groups: the curriculum CS2023 AI with its 12 knowledge units, then the products under the CS2023 names: Machine Learning (scikit-learn), Deep Learning (PyTorch), Reinforcement Learning (Gymnasium, Stable-Baselines3), Perception and Computer Vision (OpenCV, Ultralytics YOLO), Natural Language Processing (Hugging Face Transformers), Agents and Cognitive Systems (LlamaIndex, Model Context Protocol), Deployed Deep Generative Models (Claude, Microsoft Foundry, Ollama, OpenAI), Robotics (MuJoCo, ROS 2), Applications and Societal Impact (NIST AI Risk Management Framework)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>AI</strong><br>人工智能</td>
+<td>&quot;A <strong>machine-based system</strong> that can, for a given set of <strong>human-defined objectives</strong>, make <strong>predictions, recommendations, or decisions</strong> influencing real or virtual environments.&quot;</td>
+<td>一种<strong>基于机器的系统</strong>，能够针对一组<strong>人类定义的目标</strong>，做出影响真实或虚拟环境的<strong>预测、建议或决策</strong>。</td>
+<td><a href="https://csrc.nist.gov/glossary/term/artificial_intelligence#:%7E:text=A%20machine%2Dbased%20system%20that%20can">National Institute of Standards and Technology, n.d.-b, &quot;artificial intelligence&quot; entry, definition 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/index.html">CS2023 AI</a></strong><br>CS2023 AI</td>
+<td>&quot;Artificial intelligence (AI) studies <strong>problems</strong> that are <strong>difficult or impractical to solve</strong> with <strong>traditional algorithmic approaches</strong>.&quot;</td>
+<td>人工智能（AI）研究一类<strong>问题</strong>，这些问题<strong>难以或不便解决</strong>，若只用<strong>传统算法方法</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=3">Joint Task Force on Computing Curricula, 2024, AI &quot;Preamble&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/machine-learning/index.html">Machine Learning</a></strong><br>机器学习</td>
+<td>(context) &quot;Explain how <strong>machine learning works as an optimization/search process</strong>.&quot;</td>
+<td>（语境）解释<strong>机器学习如何作为一个优化/搜索过程来运作</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=12">Joint Task Force on Computing Curricula, 2024, AI-ML &quot;Illustrative Learning Outcomes&quot;, 6</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/machine-learning/deep-learning.html">Deep Learning</a></strong><br>深度学习</td>
+<td>(context) &quot;In particular, there has been a shift from <strong>engineered representations</strong> to <strong>representations learned automatically</strong> through optimization over large datasets.&quot;</td>
+<td>（语境）特别是，已经出现了一种转变：从<strong>人工设计的表示</strong>转向通过在大型数据集上进行优化而<strong>自动学习到的表示</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=3">Joint Task Force on Computing Curricula, 2024, AI &quot;Preamble&quot; section, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/machine-learning/reinforcement-learning.html">Reinforcement Learning</a></strong><br>强化学习</td>
+<td>(context) &quot;Describe the differences among the <strong>three main styles of learning (supervised, reinforcement, and unsupervised)</strong> and determine which is appropriate to a particular problem domain.&quot;</td>
+<td>（语境）描述<strong>三种主要学习方式</strong>（监督学习、强化学习和无监督学习）之间的区别，并判断哪一种适合特定的问题领域。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=12">Joint Task Force on Computing Curricula, 2024, AI-ML &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/perception-and-computer-vision/index.html">Perception and Computer Vision</a></strong><br>感知与计算机视觉</td>
+<td>(context) &quot;Summarize the <strong>importance of image and object recognition in AI</strong> and indicate several significant applications of this technology.&quot;</td>
+<td>（语境）概述<strong>图像和物体识别在 AI 中的重要性</strong>，并指出这项技术的几个重要应用。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=20">Joint Task Force on Computing Curricula, 2024, AI-Vision &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/natural-language-processing/index.html">Natural Language Processing</a></strong><br>自然语言处理</td>
+<td>(context) &quot;Define and contrast <strong>deterministic and stochastic grammars</strong>, providing examples to show the adequacy of each.&quot;</td>
+<td>（语境）定义并对比<strong>确定性文法和随机文法</strong>，并举例说明各自的适用性。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=18">Joint Task Force on Computing Curricula, 2024, AI-NLP &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/agents-and-cognitive-systems/index.html">Agents and Cognitive Systems</a></strong><br>智能体与认知系统</td>
+<td>(context) &quot;Characterize and contrast the <strong>standard agent architectures</strong>.&quot;</td>
+<td>（语境）刻画并对比<strong>标准的智能体架构</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=17">Joint Task Force on Computing Curricula, 2024, AI-Agents &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/applications-and-societal-impact/deployed-deep-generative-models.html">Deployed Deep Generative Models</a></strong><br>已部署的深度生成模型</td>
+<td>(context) &quot;High-level overview of <strong>large language models</strong> (e.g., as of 2023, ChatGPT, Bard, etc.), their <strong>uses</strong>, and their <strong>shortcomings/pitfalls</strong>.&quot;</td>
+<td>（语境）<strong>大语言模型</strong>的高层概述（例如截至 2023 年的 ChatGPT、Bard 等），包括它们的<strong>用途</strong>及其<strong>缺点/陷阱</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=13">Joint Task Force on Computing Curricula, 2024, AI-SEP &quot;CS Core&quot;, topic 2b</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/robotics/index.html">Robotics</a></strong><br>机器人</td>
+<td>(context) &quot;List <strong>capabilities and limitations of today's state-of-the-art robot systems</strong>, including their sensors and the crucial sensor processing that informs those systems.&quot;</td>
+<td>（语境）列出<strong>当今最先进机器人系统的能力和局限</strong>，包括它们的传感器以及为这些系统提供信息的关键传感器处理。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=19">Joint Task Force on Computing Curricula, 2024, AI-Robotics &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/applications-and-societal-impact/index.html">Applications and Societal Impact</a></strong><br>应用与社会影响</td>
+<td>(context) &quot;Given a real-world application domain and problem, <strong>formulate an AI solution</strong> to it, identifying proper data/input, preprocessing, representations, AI techniques, and evaluation metrics/methodology.&quot;</td>
+<td>（语境）给定一个现实应用领域和问题，为它<strong>构建 AI 解决方案</strong>，确定合适的数据/输入、预处理、表示、AI 技术以及评估指标/方法。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=14">Joint Task Force on Computing Curricula, 2024, AI-SEP &quot;Illustrative Learning Outcomes&quot;, 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="coverage">Coverage</h2>
+<table>
+<thead>
+<tr>
+<th>Certification</th>
+<th>Skill area</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AI-901 Microsoft Azure AI Fundamentals</td>
+<td><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901#identify-ai-concepts-and-capabilities-4045">Identify AI concepts and capabilities (40–45%)</a></td>
+</tr>
+<tr>
+<td>AI-901 Microsoft Azure AI Fundamentals</td>
+<td><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901#implement-ai-solutions-by-using-microsoft-foundry-5560">Implement AI solutions by using Microsoft Foundry (55–60%)</a></td>
+</tr>
+<tr>
+<td>AI-103 Developing AI Apps and Agents on Azure</td>
+<td><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103#plan-and-manage-an-azure-ai-solution-2530">Plan and manage an Azure AI solution (25–30%)</a></td>
+</tr>
+<tr>
+<td>AI-103 Developing AI Apps and Agents on Azure</td>
+<td><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103#implement-generative-ai-and-agentic-solutions-3035">Implement generative AI and agentic solutions (30–35%)</a></td>
+</tr>
+<tr>
+<td>AI-103 Developing AI Apps and Agents on Azure</td>
+<td><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103#implement-computer-vision-solutions-1015">Implement computer vision solutions (10–15%)</a></td>
+</tr>
+<tr>
+<td>AI-103 Developing AI Apps and Agents on Azure</td>
+<td><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103#implement-text-analysis-solutions-1015">Implement text analysis solutions (10–15%)</a></td>
+</tr>
+<tr>
+<td>AI-103 Developing AI Apps and Agents on Azure</td>
+<td><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103#implement-information-extraction-solutions-1015">Implement information extraction solutions (10–15%)</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Anthropic. (n.d.). <em>Claude Platform Docs</em>. Retrieved October 24, 2026, from <a href="https://platform.claude.com/docs/en/home">https://platform.claude.com/docs/en/home</a></p>
+<p>Farama Foundation. (n.d.). <em>Gymnasium Documentation</em> (Version 1.4.0). Retrieved October 25, 2026, from <a href="https://gymnasium.farama.org/">https://gymnasium.farama.org/</a></p>
+<p>Google DeepMind. (n.d.). <em>MuJoCo documentation</em>. Retrieved October 25, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/">https://mujoco.readthedocs.io/en/stable/</a></p>
+<p>Hugging Face. (n.d.). <em>Transformers documentation</em> (Version 5.20.2). Retrieved October 25, 2026, from <a href="https://huggingface.co/docs/transformers/v5.20.2/en/index">https://huggingface.co/docs/transformers/v5.20.2/en/index</a></p>
+<p>Joint Task Force on Computing Curricula. (2024). <em>Computer science curricula 2023</em>. Association for Computing Machinery. <a href="https://doi.org/10.1145/3664191">https://doi.org/10.1145/3664191</a></p>
+<p>LlamaIndex. (n.d.). <em>LlamaIndex Framework documentation</em>. Retrieved October 25, 2026, from <a href="https://developers.llamaindex.ai/python/framework/">https://developers.llamaindex.ai/python/framework/</a></p>
+<p>Microsoft. (n.d.). <em>Microsoft Foundry documentation</em>. Retrieved October 24, 2026, from <a href="https://learn.microsoft.com/en-us/azure/foundry/">https://learn.microsoft.com/en-us/azure/foundry/</a></p>
+<p>Microsoft. (2026a). <em>Study guide for Exam AI-103: Developing AI apps and agents on Azure</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103">https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103</a></p>
+<p>Microsoft. (2026b). <em>Study guide for Exam AI-901: Microsoft Azure AI fundamentals</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901">https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-901</a></p>
+<p>Model Context Protocol. (n.d.). <em>Model Context Protocol documentation</em>. Retrieved October 25, 2026, from <a href="https://modelcontextprotocol.io/">https://modelcontextprotocol.io/</a></p>
+<p>National Institute of Standards and Technology. (n.d.-a). <em>AI Risk Management Framework</em>. Retrieved October 24, 2026, from <a href="https://www.nist.gov/itl/ai-risk-management-framework">https://www.nist.gov/itl/ai-risk-management-framework</a></p>
+<p>National Institute of Standards and Technology. (n.d.-b). Artificial intelligence. In <em>CSRC glossary</em>. Retrieved October 25, 2026, from <a href="https://csrc.nist.gov/glossary/term/artificial_intelligence">https://csrc.nist.gov/glossary/term/artificial_intelligence</a></p>
+<p>Ollama. (n.d.). <em>Ollama documentation</em>. Retrieved October 25, 2026, from <a href="https://docs.ollama.com/">https://docs.ollama.com/</a></p>
+<p>Open Source Robotics Foundation. (n.d.). <em>ROS 2 documentation</em>. Retrieved October 25, 2026, from <a href="https://docs.ros.org/">https://docs.ros.org/</a></p>
+<p>OpenAI. (n.d.). <em>OpenAI Platform documentation</em>. Retrieved October 24, 2026, from <a href="https://platform.openai.com/docs/overview">https://platform.openai.com/docs/overview</a></p>
+<p>OpenCV team. (n.d.). <em>OpenCV-Python Tutorials</em> (Version 4.13.0). Retrieved October 25, 2026, from <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html">https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html</a></p>
+<p>PyTorch Foundation. (n.d.-a). <em>PyTorch documentation</em> (Version 2.14). Retrieved October 25, 2026, from <a href="https://docs.pytorch.org/docs/stable/index.html">https://docs.pytorch.org/docs/stable/index.html</a></p>
+<p>PyTorch Foundation. (n.d.-b). <em>PyTorch Tutorials</em> (Version 2.14.0+cu130). Retrieved October 25, 2026, from <a href="https://docs.pytorch.org/tutorials/">https://docs.pytorch.org/tutorials/</a></p>
+<p>Raffin, A., Hill, A., Gleave, A., Kanervisto, A., Ernestus, M., &amp; Dormann, N. (n.d.). <em>Stable-Baselines3 docs</em>. Retrieved October 25, 2026, from <a href="https://stable-baselines3.readthedocs.io/en/master/">https://stable-baselines3.readthedocs.io/en/master/</a></p>
+<p>scikit-learn developers. (n.d.). <em>scikit-learn User Guide</em> (Version 1.9.1). Retrieved October 25, 2026, from <a href="https://scikit-learn.org/stable/user_guide.html">https://scikit-learn.org/stable/user_guide.html</a></p>
+<p>Ultralytics. (n.d.). <em>Ultralytics YOLO docs</em>. Retrieved October 25, 2026, from <a href="https://docs.ultralytics.com/">https://docs.ultralytics.com/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

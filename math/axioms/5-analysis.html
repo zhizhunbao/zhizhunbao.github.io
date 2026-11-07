@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5 Analysis | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Axioms, Analysis: its 22 axioms and rules, each with its statement and a Chinese reading.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Home">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="5-analysis">5 Analysis</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/5-analysis.png" alt="5 Analysis: its 22 axioms and rules, in the source's order."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="5-analysis.html">5 Analysis</a></strong><br>分析</td>
+<td>&quot;We then assert that these eight objects have <strong>the properties specified by the axioms in the table below, as extensions to ZFC set theory</strong>.&quot;</td>
+<td>然后我们断言这八个对象具有<strong>下表公理所规定的性质，作为 ZFC 集合论的扩充</strong>。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 1</strong><br>复数公理 1</td>
+<td>&quot;⊢ ℝ ⊆ ℂ&quot;</td>
+<td>实数集是复数集的子集。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 2</strong><br>复数公理 2</td>
+<td>&quot;⊢ 1 ∈ ℂ&quot;</td>
+<td>1 是复数。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 3</strong><br>复数公理 3</td>
+<td>&quot;⊢ i ∈ ℂ&quot;</td>
+<td>i 是复数。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 4</strong><br>复数公理 4</td>
+<td>&quot;⊢ ((𝐴 ∈ ℂ ∧ 𝐵 ∈ ℂ) → (𝐴 + 𝐵) ∈ ℂ)&quot;</td>
+<td>复数对加法封闭。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 5</strong><br>复数公理 5</td>
+<td>&quot;⊢ ((𝐴 ∈ ℝ ∧ 𝐵 ∈ ℝ) → (𝐴 + 𝐵) ∈ ℝ)&quot;</td>
+<td>实数对加法封闭。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 6</strong><br>复数公理 6</td>
+<td>&quot;⊢ ((𝐴 ∈ ℂ ∧ 𝐵 ∈ ℂ) → (𝐴 ⋅ 𝐵) ∈ ℂ)&quot;</td>
+<td>复数对乘法封闭。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 7</strong><br>复数公理 7</td>
+<td>&quot;⊢ ((𝐴 ∈ ℝ ∧ 𝐵 ∈ ℝ) → (𝐴 ⋅ 𝐵) ∈ ℝ)&quot;</td>
+<td>实数对乘法封闭。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 8</strong><br>复数公理 8</td>
+<td>&quot;⊢ ((𝐴 ∈ ℂ ∧ 𝐵 ∈ ℂ) → (𝐴 ⋅ 𝐵) = (𝐵 ⋅ 𝐴))&quot;</td>
+<td>复数乘法交换律。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 9</strong><br>复数公理 9</td>
+<td>&quot;⊢ ((𝐴 ∈ ℂ ∧ 𝐵 ∈ ℂ ∧ 𝐶 ∈ ℂ) → ((𝐴 + 𝐵) + 𝐶) = (𝐴 + (𝐵 + 𝐶)))&quot;</td>
+<td>复数加法结合律。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 10</strong><br>复数公理 10</td>
+<td>&quot;⊢ ((𝐴 ∈ ℂ ∧ 𝐵 ∈ ℂ ∧ 𝐶 ∈ ℂ) → ((𝐴 ⋅ 𝐵) ⋅ 𝐶) = (𝐴 ⋅ (𝐵 ⋅ 𝐶)))&quot;</td>
+<td>复数乘法结合律。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 11</strong><br>复数公理 11</td>
+<td>&quot;⊢ ((𝐴 ∈ ℂ ∧ 𝐵 ∈ ℂ ∧ 𝐶 ∈ ℂ) → (𝐴 ⋅ (𝐵 + 𝐶)) = ((𝐴 ⋅ 𝐵) + (𝐴 ⋅ 𝐶)))&quot;</td>
+<td>乘法对加法的分配律。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 12</strong><br>复数公理 12</td>
+<td>&quot;⊢ ((i ⋅ i) + 1) = 0&quot;</td>
+<td>i ⋅ i + 1 = 0，即 i² = -1。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 13</strong><br>复数公理 13</td>
+<td>&quot;⊢ 1 ≠ 0&quot;</td>
+<td>1 不等于 0。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 14</strong><br>复数公理 14</td>
+<td>&quot;⊢ (𝐴 ∈ ℂ → (𝐴 ⋅ 1) = 𝐴)&quot;</td>
+<td>任何复数乘以 1 等于它本身。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 15</strong><br>复数公理 15</td>
+<td>&quot;⊢ (𝐴 ∈ ℝ → ∃𝑥 ∈ ℝ (𝐴 + 𝑥) = 0)&quot;</td>
+<td>每个实数都有加法逆元（相反数）。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 16</strong><br>复数公理 16</td>
+<td>&quot;⊢ ((𝐴 ∈ ℝ ∧ 𝐴 ≠ 0) → ∃𝑥 ∈ ℝ (𝐴 ⋅ 𝑥) = 1)&quot;</td>
+<td>每个非零实数都有乘法逆元（倒数）。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 17</strong><br>复数公理 17</td>
+<td>&quot;⊢ (𝐴 ∈ ℂ → ∃𝑥 ∈ ℝ ∃𝑦 ∈ ℝ 𝐴 = (𝑥 + (i ⋅ 𝑦)))&quot;</td>
+<td>每个复数都能写成 x + iy，x、y 是实数。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 18</strong><br>复数公理 18</td>
+<td>&quot;⊢ ((𝐴 ∈ ℝ ∧ 𝐵 ∈ ℝ) → (𝐴 &lt;ℝ 𝐵 ↔ ¬ (𝐴 = 𝐵 ∨ 𝐵 &lt;ℝ 𝐴)))&quot;</td>
+<td>三歧性：两个实数中，A &lt; B、A = B、B &lt; A 恰有一个成立。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 19</strong><br>复数公理 19</td>
+<td>&quot;⊢ ((𝐴 ∈ ℝ ∧ 𝐵 ∈ ℝ ∧ 𝐶 ∈ ℝ) → ((𝐴 &lt;ℝ 𝐵 ∧ 𝐵 &lt;ℝ 𝐶) → 𝐴 &lt;ℝ 𝐶))&quot;</td>
+<td>传递性：A &lt; B 且 B &lt; C，则 A &lt; C。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 20</strong><br>复数公理 20</td>
+<td>&quot;⊢ ((𝐴 ∈ ℝ ∧ 𝐵 ∈ ℝ ∧ 𝐶 ∈ ℝ) → (𝐴 &lt;ℝ 𝐵 → (𝐶 + 𝐴) &lt;ℝ (𝐶 + 𝐵)))&quot;</td>
+<td>不等式两边加同一个数，方向不变。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 21</strong><br>复数公理 21</td>
+<td>&quot;⊢ ((𝐴 ∈ ℝ ∧ 𝐵 ∈ ℝ) → ((0 &lt;ℝ 𝐴 ∧ 0 &lt;ℝ 𝐵) → 0 &lt;ℝ (𝐴 ⋅ 𝐵)))&quot;</td>
+<td>两个正数的积是正数。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>Complex number axiom 22</strong><br>复数公理 22</td>
+<td>&quot;⊢ ((𝐴 ⊆ ℝ ∧ 𝐴 ≠ ∅ ∧ ∃𝑥 ∈ ℝ ∀𝑦 ∈ 𝐴 𝑦 &lt;ℝ 𝑥) → ∃𝑥 ∈ ℝ (∀𝑦 ∈ 𝐴 ¬ 𝑥 &lt;ℝ 𝑦 ∧ ∀𝑦 ∈ ℝ (𝑦 &lt;ℝ 𝑥 → ∃𝑧 ∈ 𝐴 𝑦 &lt;ℝ 𝑧)))&quot;</td>
+<td>完备性（确界公理）：非空且有上界的实数集有最小上界（上确界）。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Megill, N. (2026). <em>Metamath Proof Explorer home page</em> (last updated January 19, 2026). Metamath. Retrieved October 29, 2026, from <a href="https://us.metamath.org/mpeuni/mmset.html">https://us.metamath.org/mpeuni/mmset.html</a></p>
+<p>Megill, N. (n.d.-c). <em>Real and complex numbers: Metamath Proof Explorer</em>. Metamath. Retrieved October 29, 2026, from <a href="https://us.metamath.org/mpeuni/mmcomplex.html">https://us.metamath.org/mpeuni/mmcomplex.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-29 19:52:02-04:00">10/29/2026 19:52:02</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

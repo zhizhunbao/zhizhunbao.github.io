@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>8.2 Analysis with vector spaces | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="8.2 Analysis with vector spaces, part of 8 Several Variables and Partial Derivatives in Real Analysis: 23 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="82-analysis-with-vector-spaces">8.2 Analysis with vector spaces</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/8-2-analysis-with-vector-spaces.png" alt="8.2 Analysis with vector spaces: its 23 terms, in 8 Several Variables and Partial Derivatives."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>8.2 Analysis with vector spaces</strong><br>向量空间上的分析</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Norm</strong><br>范数</td>
+<td>&quot;If <span class="math">\(X\)</span> is a vector space, then we say a function <span class="math">\(\lVert \cdot \rVert \colon X \to \mathbb{R}\)</span> is a <strong>norm</strong> if <strong><span class="math">\(\lVert x \rVert \geq 0\)</span>, with <span class="math">\(\lVert x \rVert=0\)</span> if and only if <span class="math">\(x=0\)</span>. <span class="math">\(\lVert cx \rVert = \lvert c \rvert \, \lVert x \rVert\)</span> for all <span class="math">\(c \in \mathbb{R}\)</span> and <span class="math">\(x \in X\)</span>. <span class="math">\(\lVert x+y \rVert \leq \lVert x \rVert+\lVert y \rVert\)</span> for all <span class="math">\(x,y \in X\)</span></strong> (triangle inequality).&quot;</td>
+<td>若 <span class="math">\(X\)</span> 是向量空间，函数 <span class="math">\(\lVert \cdot \rVert \colon X \to \mathbb{R}\)</span> 满足：<strong><span class="math">\(\lVert x \rVert \geq 0\)</span>，且 <span class="math">\(\lVert x \rVert=0\)</span> 当且仅当 <span class="math">\(x=0\)</span>；对所有 <span class="math">\(c \in \mathbb{R}\)</span>、<span class="math">\(x \in X\)</span> 有 <span class="math">\(\lVert cx \rVert = \lvert c \rvert \, \lVert x \rVert\)</span>；对所有 <span class="math">\(x,y \in X\)</span> 有 <span class="math">\(\lVert x+y \rVert \leq \lVert x \rVert+\lVert y \rVert\)</span></strong>（三角不等式），则称它为<strong>范数</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-3-3">Lebl, 2026, Definition 8.2.1</a></td>
+</tr>
+<tr>
+<td><strong>Triangle Inequality for Norms</strong><br>范数的三角不等式</td>
+<td>&quot;<strong><span class="math">\(\lVert x+y \rVert \leq \lVert x \rVert+\lVert y \rVert\)</span></strong> for all <span class="math">\(x,y \in X\)</span> (<strong>triangle inequality</strong>).&quot;</td>
+<td>对所有 <span class="math">\(x,y \in X\)</span> 有 <strong><span class="math">\(\lVert x+y \rVert \leq \lVert x \rVert+\lVert y \rVert\)</span></strong>（<strong>三角不等式</strong>）。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#defn_norm_iii">Lebl, 2026, Definition 8.2.1</a></td>
+</tr>
+<tr>
+<td><strong>Normed Vector Space</strong><br>赋范向量空间</td>
+<td>&quot;A <strong>vector space equipped with a norm</strong> is called a <strong>normed vector space</strong>.&quot;</td>
+<td><strong>配备了范数的向量空间</strong>称为<strong>赋范向量空间</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-3-3">Lebl, 2026, Definition 8.2.1</a></td>
+</tr>
+<tr>
+<td><strong>Dot Product</strong><br>点积</td>
+<td>&quot;Before defining the standard norm on <span class="math">\(\mathbb{R}^n\)</span>, we define the standard scalar <strong>dot product</strong> on <span class="math">\(\mathbb{R}^n\)</span>. For <span class="math">\(x=(x_1,x_2,\ldots,x_n) \in \mathbb{R}^n\)</span> and <span class="math">\(y=(y_1,y_2,\ldots,y_n) \in \mathbb{R}^n\)</span> define <strong><span class="math">\(x \cdot y := \sum_{k=1}^n x_k\, y_k\)</span></strong>.&quot;</td>
+<td>在定义 <span class="math">\(\mathbb{R}^n\)</span> 上的标准范数之前，先定义 <span class="math">\(\mathbb{R}^n\)</span> 上的标准数量<strong>点积</strong>。对 <span class="math">\(x=(x_1,x_2,\ldots,x_n) \in \mathbb{R}^n\)</span> 和 <span class="math">\(y=(y_1,y_2,\ldots,y_n) \in \mathbb{R}^n\)</span>，定义 <strong><span class="math">\(x \cdot y := \sum_{k=1}^n x_k\, y_k\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-3-4">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Bilinear</strong><br>双线性</td>
+<td>&quot;Dot product is <strong>linear in each variable separately</strong>—in more fancy language, it is <strong>bilinear</strong>.&quot;</td>
+<td>点积<strong>对每个变量分别是线性的</strong>——用更花哨的话说，它是<strong>双线性的</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-3-4">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Symmetric</strong><br>对称</td>
+<td>&quot;It is <strong>symmetric</strong> in the sense that <strong><span class="math">\(x \cdot y = y \cdot x\)</span></strong>.&quot;</td>
+<td>它是<strong>对称的</strong>，即 <strong><span class="math">\(x \cdot y = y \cdot x\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-3-4">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Euclidean Norm</strong><br>欧几里得范数</td>
+<td>&quot;Define the <strong>euclidean norm</strong> as <strong><span class="math">\(\lVert x \rVert := \lVert x \rVert_{\mathbb{R}^n} := \sqrt{x \cdot x} = \sqrt{(x_1)^2+(x_2)^2 + \cdots + (x_n)^2}\)</span></strong>.&quot;</td>
+<td>定义<strong>欧几里得范数</strong>为 <strong><span class="math">\(\lVert x \rVert := \lVert x \rVert_{\mathbb{R}^n} := \sqrt{x \cdot x} = \sqrt{(x_1)^2+(x_2)^2 + \cdots + (x_n)^2}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-3-4">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Operator Norm</strong><br>算子范数</td>
+<td>&quot;Let <span class="math">\(A \in L(X,Y)\)</span>. Define <strong><span class="math">\(\lVert A \rVert := \sup \bigl\{ \lVert Ax \rVert : x \in X \text{ with } \lVert x \rVert = 1 \bigr\}\)</span></strong>. The number <span class="math">\(\lVert A \rVert\)</span> (possibly <span class="math">\(\infty\)</span>) is called the <strong>operator norm</strong>.&quot;</td>
+<td>设 <span class="math">\(A \in L(X,Y)\)</span>。定义 <strong><span class="math">\(\lVert A \rVert := \sup \bigl\{ \lVert Ax \rVert : x \in X \text{ with } \lVert x \rVert = 1 \bigr\}\)</span></strong>。数 <span class="math">\(\lVert A \rVert\)</span>（可能为 <span class="math">\(\infty\)</span>）称为<strong>算子范数</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-3-9">Lebl, 2026, Definition 8.2.3</a></td>
+</tr>
+<tr>
+<td><strong>General Linear Group</strong><br>一般线性群</td>
+<td>&quot;Let <strong><span class="math">\(GL(X) \subset L(X)\)</span> be the set of invertible linear operators</strong>. <span class="math">\(GL(X)\)</span> is called the <strong>general linear group</strong>, that is where the acronym GL comes from.&quot;</td>
+<td>令 <strong><span class="math">\(GL(X) \subset L(X)\)</span> 为可逆线性算子构成的集合</strong>。<span class="math">\(GL(X)\)</span> 称为<strong>一般线性群</strong>，缩写 GL 即由此而来。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#prop_finitedimpropinv">Lebl, 2026, Proposition 8.2.6</a></td>
+</tr>
+<tr>
+<td><strong>Matrix</strong><br>矩阵</td>
+<td>&quot;Define the numbers <span class="math">\(a_{i,j}\)</span> via <span class="math">\(A x_j = \sum_{i=1}^m a_{i,j} \, y_i\)</span>, and write them as a <strong>matrix</strong>, which we, by slight abuse of notation, also call <span class="math">\(A\)</span>, <strong><span class="math">\(A = \begin{bmatrix} a_{1,1} &amp; a_{1,2} &amp; \cdots &amp; a_{1,n} \\ a_{2,1} &amp; a_{2,2} &amp; \cdots &amp; a_{2,n} \\ \vdots &amp; \vdots &amp; \ddots &amp; \vdots \\ a_{m,1} &amp; a_{m,2} &amp; \cdots &amp; a_{m,n} \end{bmatrix}\)</span></strong>.&quot;</td>
+<td>通过 <span class="math">\(A x_j = \sum_{i=1}^m a_{i,j} \, y_i\)</span> 定义数 <span class="math">\(a_{i,j}\)</span>，并把它们写成一个<strong>矩阵</strong>，稍微滥用记号，也记作 <span class="math">\(A\)</span>：<strong><span class="math">\(A = \begin{bmatrix} a_{1,1} &amp; a_{1,2} &amp; \cdots &amp; a_{1,n} \\ a_{2,1} &amp; a_{2,2} &amp; \cdots &amp; a_{2,n} \\ \vdots &amp; \vdots &amp; \ddots &amp; \vdots \\ a_{m,1} &amp; a_{m,2} &amp; \cdots &amp; a_{m,n} \end{bmatrix}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-4-2">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Column</strong><br>列</td>
+<td>&quot;The <strong>$j$th column</strong> of the matrix contains precisely <strong>the coefficients that represent <span class="math">\(A x_j\)</span></strong> in terms of the basis <span class="math">\(\{ y_1,y_2,\ldots,y_m \}\)</span>.&quot;</td>
+<td>矩阵的<strong>第 <span class="math">\(j\)</span> 列</strong>恰好包含<strong>用基 <span class="math">\(\{ y_1,y_2,\ldots,y_m \}\)</span> 表示 <span class="math">\(A x_j\)</span> 的系数</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-4-2">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Change of Basis</strong><br>基变换</td>
+<td>&quot;A linear mapping changing one basis to another is represented by a square matrix in which the columns represent vectors of the second basis in terms of the first basis. We call such a linear mapping a <strong>change of basis</strong>.&quot;</td>
+<td>把一组基变成另一组基的线性映射，由一个方阵表示，方阵的各列是第二组基的向量在第一组基下的表示。这样的线性映射称为<strong>基变换</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-4-4">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Permutation</strong><br>置换</td>
+<td>&quot;A <strong>permutation</strong> <span class="math">\(\sigma = (\sigma_1,\sigma_2,\ldots,\sigma_n)\)</span> is <strong>a reordering of <span class="math">\((1,2,\ldots,n)\)</span></strong>.&quot;</td>
+<td><strong>置换</strong> <span class="math">\(\sigma = (\sigma_1,\sigma_2,\ldots,\sigma_n)\)</span> 是 <strong><span class="math">\((1,2,\ldots,n)\)</span> 的一种重新排列</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-5-3">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Even Permutation</strong><br>偶置换</td>
+<td>&quot;A permutation is <strong>even</strong> (resp. odd) if it takes <strong>an even (resp. odd) number of transpositions</strong> to get from <span class="math">\((1,2,\ldots,n)\)</span> to <span class="math">\(\sigma\)</span>.&quot;</td>
+<td>若从 <span class="math">\((1,2,\ldots,n)\)</span> 得到 <span class="math">\(\sigma\)</span> 需要<strong>偶数（相应地奇数）次对换</strong>，则称该置换为<strong>偶的</strong>（相应地奇的）。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-5-4">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Odd Permutation</strong><br>奇置换</td>
+<td>&quot;A permutation is even (resp. <strong>odd</strong>) if it takes an even (resp. <strong>odd</strong>) number of transpositions to get from <span class="math">\((1,2,\ldots,n)\)</span> to <span class="math">\(\sigma\)</span>.&quot;</td>
+<td>若从 <span class="math">\((1,2,\ldots,n)\)</span> 得到 <span class="math">\(\sigma\)</span> 需要偶数（相应地<strong>奇数</strong>）次对换，则称该置换为偶的（相应地<strong>奇的</strong>）。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-5-4">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Symmetric Group</strong><br>对称群</td>
+<td>&quot;Let <span class="math">\(S_n\)</span> be <strong>the set of all permutations on <span class="math">\(n\)</span> elements</strong> (the <strong>symmetric group</strong>).&quot;</td>
+<td>令 <span class="math">\(S_n\)</span> 为 <strong><span class="math">\(n\)</span> 个元素上所有置换构成的集合</strong>（<strong>对称群</strong>）。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-5-5">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Determinant</strong><br>行列式</td>
+<td>&quot;Let <span class="math">\(A= [a_{i,j}]\)</span> be a square <span class="math">\(n\)</span>-by-<span class="math">\(n\)</span> matrix. Define the <strong>determinant</strong> of <span class="math">\(A\)</span> as <strong><span class="math">\(\det(A) := \sum_{\sigma \in S_n} \operatorname{sgn} (\sigma) \prod_{i=1}^n a_{i,\sigma_i}\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(A= [a_{i,j}]\)</span> 是 <span class="math">\(n \times n\)</span> 方阵。定义 <span class="math">\(A\)</span> 的<strong>行列式</strong>为 <strong><span class="math">\(\det(A) := \sum_{\sigma \in S_n} \operatorname{sgn} (\sigma) \prod_{i=1}^n a_{i,\sigma_i}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-5-5">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Commutative Diagram</strong><br>交换图</td>
+<td>&quot;Such a picture is called <strong>commutative diagram</strong>. In a commutative diagram, <strong>following arrows in any way must end up with the same result</strong>.&quot;</td>
+<td>这样的图称为<strong>交换图</strong>。在交换图中，<strong>沿箭头无论怎样走，结果都必须相同</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-5-17">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Elementary Matrix</strong><br>初等矩阵</td>
+<td>&quot;There are three types of what we call <strong>elementary matrices</strong>. Let <span class="math">\(e_1,e_2,\ldots,e_n\)</span> be the standard basis on <span class="math">\(\mathbb{R}^n\)</span> as usual. First, for <span class="math">\(j = 1,2,\ldots,n\)</span> and <span class="math">\(\lambda \in \mathbb{R}\)</span>, <span class="math">\(\lambda \neq 0\)</span>, define the first type of an elementary matrix, an <span class="math">\(n\)</span>-by-<span class="math">\(n\)</span> matrix <span class="math">\(E\)</span> by <strong><span class="math">\(Ee_i := \begin{cases} e_i &amp; \text{if } i \neq j , \\ \lambda e_i &amp; \text{if } i = j . \end{cases}\)</span></strong>&quot;</td>
+<td>我们所说的<strong>初等矩阵</strong>有三种类型。像通常一样，令 <span class="math">\(e_1,e_2,\ldots,e_n\)</span> 为 <span class="math">\(\mathbb{R}^n\)</span> 的标准基。首先，对 <span class="math">\(j = 1,2,\ldots,n\)</span> 和 <span class="math">\(\lambda \in \mathbb{R}\)</span>，<span class="math">\(\lambda \neq 0\)</span>，定义第一种初等矩阵为 <span class="math">\(n \times n\)</span> 矩阵 <span class="math">\(E\)</span>：<strong><span class="math">\(Ee_i := \begin{cases} e_i &amp; \text{if } i \neq j , \\ \lambda e_i &amp; \text{if } i = j . \end{cases}\)</span></strong></td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-5-19">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Upper Triangular Matrix</strong><br>上三角矩阵</td>
+<td>&quot;It is sufficient to do row operations until we find an <strong>upper triangular matrix</strong>, that is, <strong>a matrix <span class="math">\([a_{i,j}]\)</span> where <span class="math">\(a_{i,j} = 0\)</span> if <span class="math">\(i &gt; j\)</span></strong>.&quot;</td>
+<td>只需做行变换，直到得到一个<strong>上三角矩阵</strong>，即<strong>当 <span class="math">\(i &gt; j\)</span> 时 <span class="math">\(a_{i,j} = 0\)</span> 的矩阵 <span class="math">\([a_{i,j}]\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-5-23">Lebl, 2026, section 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Diagonal Matrix</strong><br>对角矩阵</td>
+<td>&quot;Suppose <span class="math">\(D = [d_{i,j}]\)</span> is an <span class="math">\(n\)</span>-by-<span class="math">\(n\)</span> <strong>diagonal matrix</strong>, that is, <strong><span class="math">\(d_{i,j} = 0\)</span> whenever <span class="math">\(i \neq j\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(D = [d_{i,j}]\)</span> 是 <span class="math">\(n \times n\)</span> <strong>对角矩阵</strong>，即<strong>当 <span class="math">\(i \neq j\)</span> 时 <span class="math">\(d_{i,j} = 0\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-6-10">Lebl, 2026, Exercise 8.2.10</a></td>
+</tr>
+<tr>
+<td><strong>Eigenvalue</strong><br>特征值</td>
+<td>&quot;Let <span class="math">\(A\)</span> be an <span class="math">\(n\)</span>-by-<span class="math">\(n\)</span> matrix. A <span class="math">\(\lambda \in \mathbb{C}\)</span> (possibly complex even for a real matrix) is an <strong>eigenvalue</strong> of <span class="math">\(A\)</span> if <strong>there is a nonzero (possibly complex) vector <span class="math">\(x \in \mathbb{C}^n\)</span> such that <span class="math">\(Ax = \lambda x\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(A\)</span> 是 <span class="math">\(n \times n\)</span> 矩阵。若<strong>存在非零（可能是复的）向量 <span class="math">\(x \in \mathbb{C}^n\)</span> 使得 <span class="math">\(Ax = \lambda x\)</span></strong>，则 <span class="math">\(\lambda \in \mathbb{C}\)</span>（即使对实矩阵也可能是复数）称为 <span class="math">\(A\)</span> 的<strong>特征值</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-6-17">Lebl, 2026, Exercises 8.2</a></td>
+</tr>
+<tr>
+<td><strong>Spectral Radius</strong><br>谱半径</td>
+<td>&quot;The number <strong><span class="math">\(\rho(A) := \sup \bigl\{ \lvert \lambda \rvert : \lambda \text{ is an eigenvalue of } A \bigr\}\)</span></strong> is the <strong>spectral radius</strong> of <span class="math">\(A\)</span>.&quot;</td>
+<td>数 <strong><span class="math">\(\rho(A) := \sup \bigl\{ \lvert \lambda \rvert : \lambda \text{ is an eigenvalue of } A \bigr\}\)</span></strong> 是 <span class="math">\(A\)</span> 的<strong>谱半径</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_normsmatsdets.html#sec_normsmatsdets-6-17">Lebl, 2026, Exercises 8.2</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Lebl, J. (2026). <em>Basic analysis I &amp; II: Introduction to real analysis</em> (May 22, 2026 edition). Retrieved October 29, 2026, from <a href="https://www.jirka.org/ra/html/">https://www.jirka.org/ra/html/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 11:58:07-04:00">10/31/2026 11:58:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

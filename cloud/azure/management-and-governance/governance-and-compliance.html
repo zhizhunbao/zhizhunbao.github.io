@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>20.2 Governance and Compliance | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 20.2 Governance and compliance: Microsoft Purview, Azure Policy, Resource locks, Service Trust Portal.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="202-governance-and-compliance">20.2 Governance and Compliance</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/governance-and-compliance.png" alt="Governance and compliance: Microsoft Purview, Azure Policy, resource locks and the Service Trust Portal, one unit each of the AZ-900 module, with Microsoft Purview expanded into its two solution areas, risk and compliance and unified data governance. Microsoft Purview also expands to Sensitive data classification, which expands to Classifiers and Sensitivity labels."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Microsoft Purview</strong><br>Microsoft Purview</td>
+<td>&quot;Microsoft Purview is a <strong>family of data governance, risk, and compliance solutions</strong> that helps you get a <strong>single, unified view into your data</strong>.&quot;</td>
+<td>Microsoft Purview 是一系列<strong>数据治理、风险和合规解决方案</strong>，帮助你获得<strong>数据的单一、统一视图</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview#:%7E:text=is%20a%20family%20of%20data%20governance">Microsoft, n.d.-b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sensitive data classification</strong><br>敏感数据分类</td>
+<td>(context) &quot;With Microsoft Purview, you can stay up-to-date on your data landscape thanks to: Automated data discovery; <strong>Sensitive data classification</strong>; End-to-end data lineage&quot;</td>
+<td>（语境）借助 Microsoft Purview，你能随时掌握自己的数据全貌，靠的是：自动数据发现；<strong>敏感数据分类</strong>；端到端数据世系。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview#:%7E:text=Sensitive%20data%20classification">Microsoft, n.d.-b, para. 2 and list</a></td>
+</tr>
+<tr>
+<td><strong>Classifiers</strong><br>分类器</td>
+<td>&quot;Microsoft Purview classifiers help administrators <strong>identify sensitive content</strong> so they can <strong>protect and manage it</strong>.&quot;</td>
+<td>Microsoft Purview 分类器帮助管理员<strong>识别敏感内容</strong>，以便<strong>保护和管理这些内容</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/purview/data-classification-overview#:%7E:text=classifiers%20help%20administrators%20identify%20sensitive%20content">Microsoft, 2026a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sensitivity labels</strong><br>敏感度标签</td>
+<td>&quot;When you assign a sensitivity label to content, it's like a <strong>stamp that you apply</strong>. The label is: <strong>Customizable.</strong> You can create categories that fit your organization's specific business needs for <strong>different levels of sensitive content</strong>. For example, you might use categories like <strong>Personal, Public, General, Confidential, and Highly Confidential</strong>.&quot;</td>
+<td>给内容分配敏感度标签，就像<strong>盖一个章</strong>。这个标签：<strong>可自定义</strong>。你可以按组织的业务需要，为<strong>不同敏感级别的内容</strong>创建类别，例如 <strong>Personal、Public、General、Confidential 和 Highly Confidential</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/purview/sensitivity-labels#:%7E:text=like%20Personal%2C%20Public%2C%20General%2C%20Confidential%2C%20and%20Highly%20Confidential">Microsoft, 2026b, &quot;What a sensitivity label is&quot; section, para. 1 and list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Risk and compliance</strong><br>风险和合规</td>
+<td>&quot;Microsoft Purview, by <strong>managing and monitoring your data</strong>, helps your team: <strong>Protect sensitive data</strong> across clouds, apps, and devices. <strong>Identify data risks and manage regulatory compliance requirements</strong>. Get started with regulatory compliance.&quot;</td>
+<td>Microsoft Purview 通过<strong>管理和监控你的数据</strong>，帮助你的团队：跨云、应用和设备<strong>保护敏感数据</strong>；<strong>识别数据风险并管理法规合规要求</strong>；开始着手法规合规。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview#:%7E:text=by%20managing%20and%20monitoring%20your%20data">Microsoft, n.d.-b, &quot;Microsoft Purview risk and compliance solutions&quot; section, para. 1 and list</a></td>
+</tr>
+<tr>
+<td><strong>Unified data governance</strong><br>统一数据治理</td>
+<td>&quot;Microsoft Purview has <strong>robust, unified data governance solutions</strong> that help <strong>manage your on-premises, multicloud, and software as a service data</strong>.&quot;</td>
+<td>Microsoft Purview 拥有<strong>强大、统一的数据治理解决方案</strong>，帮助<strong>管理你的本地、多云和软件即服务数据</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview#:%7E:text=has%20robust%2C%20unified%20data%20governance%20solutions">Microsoft, n.d.-b, &quot;Unified data governance&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Policy</strong><br>Azure 策略</td>
+<td>&quot;Azure Policy is a service in Azure that enables you to <strong>create, assign, and manage policies</strong> that <strong>control or audit your resources</strong>.&quot;</td>
+<td>Azure Policy 是 Azure 中的一项服务，让你能够<strong>创建、分配和管理策略</strong>，用这些策略来<strong>控制或审核你的资源</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/3-describe-purpose-azure-policy#:%7E:text=Azure%20Policy%20is%20a%20service%20in%20Azure">Microsoft, n.d.-a, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Resource locks</strong><br>资源锁</td>
+<td>&quot;A resource lock prevents resources from being <strong>accidentally deleted or changed</strong>.&quot;</td>
+<td>资源锁可防止资源被<strong>意外删除或更改</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/4-describe-purpose-resource-locks#:%7E:text=A%20resource%20lock%20prevents%20resources">Microsoft, n.d.-c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Service Trust Portal</strong><br>服务信任门户</td>
+<td>&quot;The Microsoft Service Trust Portal is a portal that provides access to <strong>various content, tools, and other resources</strong> about <strong>Microsoft security, privacy, and compliance practices</strong>.&quot;</td>
+<td>Microsoft Service Trust Portal 是一个门户，提供<strong>各种内容、工具和其他资源</strong>，涉及 <strong>Microsoft 的安全、隐私和合规实践</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/6-describe-purpose-service-trust-portal#:%7E:text=is%20a%20portal%20that%20provides%20access">Microsoft, n.d.-d, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2026a, September 30). <em>Microsoft Purview classifiers overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/purview/data-classification-overview">https://learn.microsoft.com/en-us/purview/data-classification-overview</a></li>
+<li>Microsoft. (2026b, October 29). <em>Learn about sensitivity labels</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/purview/sensitivity-labels">https://learn.microsoft.com/en-us/purview/sensitivity-labels</a></li>
+<li>Microsoft. (n.d.-a). <em>Describe the purpose of Azure Policy</em> [Training unit]. Microsoft Learn. Retrieved October 25, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/3-describe-purpose-azure-policy">https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/3-describe-purpose-azure-policy</a></li>
+<li>Microsoft. (n.d.-b). <em>Describe the purpose of Microsoft Purview</em> [Training unit]. Microsoft Learn. Retrieved October 25, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview">https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/2-describe-purpose-microsoft-purview</a></li>
+<li>Microsoft. (n.d.-c). <em>Describe the purpose of resource locks</em> [Training unit]. Microsoft Learn. Retrieved October 25, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/4-describe-purpose-resource-locks">https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/4-describe-purpose-resource-locks</a></li>
+<li>Microsoft. (n.d.-d). <em>Describe the purpose of the Service Trust portal</em> [Training unit]. Microsoft Learn. Retrieved October 25, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/6-describe-purpose-service-trust-portal">https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/6-describe-purpose-service-trust-portal</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 18:15:17-05:00">11/04/2026 18:15:17</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

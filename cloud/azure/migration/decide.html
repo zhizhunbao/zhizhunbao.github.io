@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>24.2 Decide | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 24.2 Decide: Azure Migrate project, Discovery, Azure Migrate appliance, Azure Migrate Collector, Business case.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="242-decide">24.2 Decide</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/decide.png" alt="Decide: Azure Migrate project, Discovery, Azure Migrate appliance, Azure Migrate Collector, Business case."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Decide</strong><br>决定</td>
+<td>&quot;The first step in a migration journey is to <strong>identify your workloads</strong>. This process of identification is called <strong>discovery</strong>.&quot;</td>
+<td>迁移之旅的第一步是<strong>识别你的工作负载</strong>。这个识别过程称为<strong>发现</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=The%20first%20step%20in%20a%20migration%20journey%20is%20to%20identify%20your%20workloads">Microsoft, n.d., &quot;Decide&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Migrate project</strong><br>Azure Migrate 项目</td>
+<td>&quot;A project is used to <strong>store discovery, assessment, and migration metadata</strong> collected from the environment you're assessing or migrating. In a project, you can <strong>track discovered assets</strong>, <strong>create assessments</strong>, and <strong>orchestrate migrations to Azure</strong>.&quot;</td>
+<td>项目用于<strong>存储发现、评估和迁移元数据</strong>，这些元数据收集自你正在评估或迁移的环境。在项目中，你可以<strong>跟踪已发现的资产</strong>、<strong>创建评估</strong>，并<strong>编排到 Azure 的迁移</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/quickstart-create-project?view=migrate#:%7E:text=A%20project%20is%20used%20to%20store%20discovery">Microsoft, 2026, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Discovery</strong><br>发现</td>
+<td>&quot;This <strong>process of identification</strong> is called discovery. To discover your workloads, you can <strong>deploy a lightweight Azure Migrate appliance</strong> (recommended approach), <strong>deploy Azure Migrate collector</strong> or <strong>quickly import the inventory data</strong> for your workloads.&quot;</td>
+<td>这个<strong>识别过程</strong>称为发现。要发现你的工作负载，你可以<strong>部署轻量级 Azure Migrate 设备</strong>（推荐方式）、<strong>部署 Azure Migrate 收集器</strong>，或者<strong>快速导入工作负载的清单数据</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=This%20process%20of%20identification%20is%20called%20discovery">Microsoft, n.d., &quot;Decide&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Migrate appliance</strong><br>Azure Migrate 设备</td>
+<td>&quot;The Azure Migrate appliance is a <strong>virtual appliance</strong> that can be deployed on a <strong>server in your datacenter</strong>. The appliance collects the <strong>configuration and performance data</strong> for your servers and continually sends it to the Azure Migrate service.&quot;</td>
+<td>Azure Migrate 设备是一种<strong>虚拟设备</strong>，可以部署在<strong>你数据中心的服务器</strong>上。该设备收集服务器的<strong>配置和性能数据</strong>，并持续发送到 Azure Migrate 服务。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=The%20Azure%20Migrate%20appliance%20is%20a%20virtual%20appliance">Microsoft, n.d., &quot;Decide&quot; section, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Azure Migrate Collector</strong><br>Azure Migrate 收集器</td>
+<td>&quot;Azure Migrate Collector enables a <strong>quick snapshot discovery</strong> of your on-premises environment <strong>without requiring continuous Azure connectivity</strong>.&quot;</td>
+<td>Azure Migrate 收集器可对本地环境进行<strong>快速快照式发现</strong>，<strong>无需持续连接 Azure</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=enables%20a%20quick%20snapshot%20discovery">Microsoft, n.d., &quot;Decide&quot; section, &quot;Azure Migrate Collector&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Business case</strong><br>业务案例</td>
+<td>&quot;A business case helps you <strong>estimate the costs and savings</strong> of <strong>moving to Azure</strong>.&quot;</td>
+<td>业务案例帮助你<strong>估算成本和节省</strong>，针对的是<strong>迁移到 Azure</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=A%20business%20case%20helps%20you%20estimate%20the%20costs%20and%20savings">Microsoft, n.d., &quot;Decide&quot; section, para. 4</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (n.d.). <em>About Azure Migrate</em>. Microsoft Learn. Retrieved October 18, 2026, from <a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview">https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview</a></li>
+<li>Microsoft. (2026, May 20). <em>Quickstart: Create an Azure Migrate project using portal</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/migrate/quickstart-create-project?view=migrate">https://learn.microsoft.com/en-us/azure/migrate/quickstart-create-project?view=migrate</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 12:58:52-04:00">10/27/2026 12:58:52</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

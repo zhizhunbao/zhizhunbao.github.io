@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5. Business Continuity | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="SQL Server, 5. Business continuity: Always On; Backup &amp; restore, Always On availability groups, Always On failover cluster instance, Database mirroring, Log shipping.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="5-business-continuity">5. Business Continuity</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/business-continuity.png" alt="Business continuity: the umbrella term Always On, then its five table-of-contents entries: Backup &amp; restore, Always On availability groups, Always On failover cluster instance, Database mirroring, Log shipping."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Business continuity</strong><br>业务连续性</td>
+<td>&quot;The goal is to <strong>keep the business up and running with minimal or no interruption</strong>. This concept is also known as <em>business continuity</em>.&quot;</td>
+<td>目标是让<strong>业务在尽量少或没有中断的情况下持续运转</strong>。这个概念也称为业务连续性。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/database-engine/sql-server-business-continuity-dr#:%7E:text=The%20goal%20is%20to%20keep%20the%20business%20up">Microsoft, 2025b, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Always On</strong><br>Always On</td>
+<td>&quot;<strong>Always On</strong> is an <strong>umbrella term for the availability features in SQL Server</strong> and <strong>covers both AGs and FCIs</strong>. Always On <strong>isn't the name of the AG feature</strong>.&quot;</td>
+<td><strong>Always On</strong> 是 <strong>SQL Server 可用性功能的总称</strong>，<strong>同时涵盖 AG 和 FCI</strong>。Always On <strong>不是 AG 功能的名称</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/database-engine/sql-server-business-continuity-dr#:%7E:text=Always%20On%20is%20an%20umbrella%20term%20for%20the">Microsoft, 2025b, &quot;Availability groups&quot; subsection, Note</a></td>
+</tr>
+<tr>
+<td><strong><a href="backup.html">Backup</a></strong><br>备份</td>
+<td>&quot;A <strong>copy of data</strong> that you can <strong>use to restore and recover the data after a failure</strong>.&quot;</td>
+<td><strong>数据的副本</strong>，可用于<strong>在故障后还原并恢复数据</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/back-up-and-restore-of-sql-server-databases#:%7E:text=A%20copy%20of%20data%20that%20you%20can%20use">Microsoft, 2026b, &quot;Glossary of backup terms&quot; section, row &quot;backup (noun)&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="restore.html">Restore</a></strong><br>还原</td>
+<td>&quot;A <strong>multiphase process</strong> that <strong>copies all the data and log pages from a specified SQL Server backup to a specified database</strong>, and then rolls forward all the transactions that are logged in the backup by applying logged changes to bring the data forward in time.&quot;</td>
+<td>一个<strong>多阶段过程</strong>，<strong>将指定 SQL Server 备份中的所有数据页和日志页复制到指定的数据库</strong>，然后通过应用已记录的更改来前滚备份中记录的所有事务，使数据向前推进到某个时间点。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/back-up-and-restore-of-sql-server-databases#:%7E:text=A%20multiphase%20process%20that%20copies%20all%20the%20data">Microsoft, 2026b, &quot;Glossary of backup terms&quot; section, row &quot;restore&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="always-on-availability-groups.html">Always On availability groups</a></strong><br>Always On 可用性组</td>
+<td>&quot;The <strong>Always On availability groups</strong> feature is a <strong>high-availability and disaster-recovery solution</strong> that provides an <strong>enterprise-level alternative to database mirroring</strong>.&quot;</td>
+<td><strong>Always On 可用性组</strong>功能是一种<strong>高可用性和灾难恢复解决方案</strong>，提供了<strong>企业级的数据库镜像替代方案</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/overview-of-always-on-availability-groups-sql-server#:%7E:text=The%20Always%20On%20availability%20groups%20feature%20is%20a">Microsoft, 2026c, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="always-on-failover-cluster-instance.html">Always On failover cluster instance</a></strong><br>Always On 故障转移群集实例</td>
+<td>&quot;SQL Server <strong>Always On failover cluster instances</strong> use <strong>Windows Server Failover Clustering (WSFC)</strong> to provide <strong>local high availability</strong>. A failover cluster instance (FCI) is <strong>redundant at the server-instance level</strong>.&quot;</td>
+<td>SQL Server <strong>Always On 故障转移群集实例</strong>使用 <strong>Windows Server 故障转移群集</strong>（WSFC）提供<strong>本地高可用性</strong>。故障转移群集实例（FCI）在<strong>服务器实例级别是冗余的</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/sql-server/failover-clusters/windows/always-on-failover-cluster-instances-sql-server#:%7E:text=SQL%20Server%20Always%20On%20failover%20cluster%20instances%20use">Microsoft, 2025a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="database-mirroring.html">Database mirroring</a></strong><br>数据库镜像</td>
+<td>&quot;<em>Database mirroring</em> is <strong>a solution for increasing the availability of a SQL Server database</strong>.&quot;</td>
+<td>数据库镜像是<strong>一种提高 SQL Server 数据库可用性的解决方案</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/database-engine/database-mirroring/database-mirroring-sql-server#:%7E:text=Database%20mirroring%20is%20a%20solution%20for%20increasing%20the">Microsoft, 2025c, para. 1 after the Caution and Important notes</a></td>
+</tr>
+<tr>
+<td><strong><a href="log-shipping.html">Log shipping</a></strong><br>日志传送</td>
+<td>&quot;SQL Server <strong>Log shipping</strong> allows you to <strong>automatically send transaction log backups from a <em>primary database</em> on a <em>primary server</em> instance to one or more <em>secondary databases</em> on separate <em>secondary server</em> instances</strong>.&quot;</td>
+<td>SQL Server <strong>日志传送</strong>让你能够<strong>自动将事务日志备份从<em>主服务器</em>实例上的<em>主数据库</em>发送到位于不同<em>辅助服务器</em>实例上的一个或多个<em>辅助数据库</em></strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/database-engine/log-shipping/about-log-shipping-sql-server#:%7E:text=SQL%20Server%20Log%20shipping%20allows%20you%20to%20automatically">Microsoft, 2026a, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2025a, August 25). <em>Always On failover cluster instances (SQL Server)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/sql-server/failover-clusters/windows/always-on-failover-cluster-instances-sql-server">https://learn.microsoft.com/en-us/sql/sql-server/failover-clusters/windows/always-on-failover-cluster-instances-sql-server</a></li>
+<li>Microsoft. (2025b, December 11). <em>Business continuity and database recovery - SQL Server</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/database-engine/sql-server-business-continuity-dr">https://learn.microsoft.com/en-us/sql/database-engine/sql-server-business-continuity-dr</a></li>
+<li>Microsoft. (2025c, September 2). <em>Database Mirroring (SQL Server)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/database-engine/database-mirroring/database-mirroring-sql-server">https://learn.microsoft.com/en-us/sql/database-engine/database-mirroring/database-mirroring-sql-server</a></li>
+<li>Microsoft. (2026a, February 23). <em>About log shipping (SQL Server)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/database-engine/log-shipping/about-log-shipping-sql-server">https://learn.microsoft.com/en-us/sql/database-engine/log-shipping/about-log-shipping-sql-server</a></li>
+<li>Microsoft. (2026b, August 27). <em>Back up and restore SQL Server databases</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/back-up-and-restore-of-sql-server-databases">https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/back-up-and-restore-of-sql-server-databases</a></li>
+<li>Microsoft. (2026c, January 26). <em>What is an Always On availability group?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/overview-of-always-on-availability-groups-sql-server">https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/overview-of-always-on-availability-groups-sql-server</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:35-04:00">10/27/2026 21:51:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

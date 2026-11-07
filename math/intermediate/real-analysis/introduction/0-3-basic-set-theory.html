@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>0.3 Basic set theory | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="0.3 Basic set theory, part of 0 Introduction in Real Analysis: 56 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="03-basic-set-theory">0.3 Basic set theory</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/0-3-basic-set-theory.png" alt="0.3 Basic set theory: its 56 terms, in 0 Introduction."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>0.3 Basic set theory</strong><br>基本集合论</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Naïve Set Theory</strong><br>朴素集合论</td>
+<td>&quot;We talk about sets <strong>in a rather informal way</strong>, using what is usually called “<strong>naïve set theory</strong>.”&quot;</td>
+<td>我们以<strong>一种相当非正式的方式</strong>谈论集合，用的是通常所说的“<strong>朴素集合论</strong>”。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-3-2">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Set</strong><br>集合</td>
+<td>&quot;A <strong>set</strong> is <strong>a collection of objects called elements or members</strong>.&quot;</td>
+<td><strong>集合</strong>是<strong>由称为元素或成员的对象组成的一个总体</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-2">Lebl, 2026, Definition 0.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Element</strong><br>元素</td>
+<td>&quot;A set is <strong>a collection of objects</strong> called <strong>elements</strong> or <strong>members</strong>.&quot;</td>
+<td>集合是由称为<strong>元素</strong>或<strong>成员</strong>的<strong>对象组成的一个总体</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-2">Lebl, 2026, Definition 0.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Empty Set</strong><br>空集</td>
+<td>&quot;A set with <strong>no objects</strong> is called the <strong>empty set</strong> and is denoted by <span class="math">\(\emptyset\)</span> (or sometimes by <span class="math">\(\{ \}\)</span>).&quot;</td>
+<td><strong>不含任何对象</strong>的集合称为<strong>空集</strong>，记作 <span class="math">\(\emptyset\)</span>（有时也记作 <span class="math">\(\{ \}\)</span>）。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-2">Lebl, 2026, Definition 0.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Universe</strong><br>全集</td>
+<td>&quot;The elements of all sets under consideration come from <strong>some set</strong> we call the <strong>universe</strong>.&quot;</td>
+<td>所考虑的一切集合的元素都来自<strong>某个集合</strong>，我们称之为<strong>全集</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-6">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Subset</strong><br>子集</td>
+<td>&quot;A set <span class="math">\(A\)</span> is a <strong>subset</strong> of a set <span class="math">\(B\)</span> if <strong><span class="math">\(x \in A\)</span> implies <span class="math">\(x \in B\)</span></strong>, and we write <span class="math">\(A \subset B\)</span>.&quot;</td>
+<td>若 <strong><span class="math">\(x \in A\)</span> 蕴含 <span class="math">\(x \in B\)</span></strong>，则集合 <span class="math">\(A\)</span> 是集合 <span class="math">\(B\)</span> 的<strong>子集</strong>，记作 <span class="math">\(A \subset B\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-11-1-2-1">Lebl, 2026, Definition 0.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Equal</strong><br>相等</td>
+<td>&quot;Two sets <span class="math">\(A\)</span> and <span class="math">\(B\)</span> are <strong>equal</strong> if <strong><span class="math">\(A \subset B\)</span> and <span class="math">\(B \subset A\)</span></strong>.&quot;</td>
+<td>若 <strong><span class="math">\(A \subset B\)</span> 且 <span class="math">\(B \subset A\)</span></strong>，则两个集合 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> <strong>相等</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-11-1-2-2">Lebl, 2026, Definition 0.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Proper Subset</strong><br>真子集</td>
+<td>&quot;A set <span class="math">\(A\)</span> is a <strong>proper subset</strong> of <span class="math">\(B\)</span> if <strong><span class="math">\(A \subset B\)</span> and <span class="math">\(A \neq B\)</span></strong>.&quot;</td>
+<td>若 <strong><span class="math">\(A \subset B\)</span> 且 <span class="math">\(A \neq B\)</span></strong>，则集合 <span class="math">\(A\)</span> 是 <span class="math">\(B\)</span> 的<strong>真子集</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-11-1-2-3">Lebl, 2026, Definition 0.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Set Building Notation</strong><br>集合构造记号</td>
+<td>&quot;To define new sets, one often uses the <strong>set building notation</strong>, <span class="math">\(\bigl\{ x \in A : P(x) \bigr\}\)</span>. This notation refers to <strong>a subset of the set <span class="math">\(A\)</span> containing all elements of <span class="math">\(A\)</span> that satisfy the property <span class="math">\(P(x)\)</span></strong>.&quot;</td>
+<td>定义新集合时常用<strong>集合构造记号</strong> <span class="math">\(\bigl\{ x \in A : P(x) \bigr\}\)</span>。这个记号表示<strong>集合 <span class="math">\(A\)</span> 中由满足性质 <span class="math">\(P(x)\)</span> 的全部元素组成的子集</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-13">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Natural Numbers</strong><br>自然数</td>
+<td>&quot;The set of <strong>natural numbers</strong>, <strong><span class="math">\(\mathbb{N} := \{ 1, 2, 3, \ldots \}\)</span></strong>.&quot;</td>
+<td><strong>自然数</strong>集，<strong><span class="math">\(\mathbb{N} := \{ 1, 2, 3, \ldots \}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-14">Lebl, 2026, Example 0.3.3</a></td>
+</tr>
+<tr>
+<td><strong>Integers</strong><br>整数</td>
+<td>&quot;The set of <strong>integers</strong>, <strong><span class="math">\(\mathbb{Z} := \{ 0, -1, 1, -2, 2, \ldots \}\)</span></strong>.&quot;</td>
+<td><strong>整数</strong>集，<strong><span class="math">\(\mathbb{Z} := \{ 0, -1, 1, -2, 2, \ldots \}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-14">Lebl, 2026, Example 0.3.3</a></td>
+</tr>
+<tr>
+<td><strong>Rational Numbers</strong><br>有理数</td>
+<td>&quot;The set of <strong>rational numbers</strong>, <strong><span class="math">\(\mathbb{Q} := \bigl\{ \frac{m}{n} : m, n \in \mathbb{Z} \text{ and } n \neq 0 \bigr\}\)</span></strong>.&quot;</td>
+<td><strong>有理数</strong>集，<strong><span class="math">\(\mathbb{Q} := \bigl\{ \frac{m}{n} : m, n \in \mathbb{Z} \text{ and } n \neq 0 \bigr\}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-14">Lebl, 2026, Example 0.3.3</a></td>
+</tr>
+<tr>
+<td><strong>Union</strong><br>并集</td>
+<td>&quot;A <strong>union</strong> of two sets <span class="math">\(A\)</span> and <span class="math">\(B\)</span> is defined as <strong><span class="math">\(A \cup B := \{ x : x \in A \text{ or } x \in B \}\)</span></strong>.&quot;</td>
+<td>两个集合 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> 的<strong>并集</strong>定义为 <strong><span class="math">\(A \cup B := \{ x : x \in A \text{ or } x \in B \}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-16-1-2-1">Lebl, 2026, Definition 0.3.4</a></td>
+</tr>
+<tr>
+<td><strong>Intersection</strong><br>交集</td>
+<td>&quot;An <strong>intersection</strong> of two sets <span class="math">\(A\)</span> and <span class="math">\(B\)</span> is defined as <strong><span class="math">\(A \cap B := \{ x : x \in A \text{ and } x \in B \}\)</span></strong>.&quot;</td>
+<td>两个集合 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> 的<strong>交集</strong>定义为 <strong><span class="math">\(A \cap B := \{ x : x \in A \text{ and } x \in B \}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-16-1-2-2">Lebl, 2026, Definition 0.3.4</a></td>
+</tr>
+<tr>
+<td><strong>Set-Theoretic Difference</strong><br>差集</td>
+<td>&quot;A <strong>complement of <span class="math">\(B\)</span> relative to <span class="math">\(A\)</span></strong> (or <strong>set-theoretic difference</strong> of <span class="math">\(A\)</span> and <span class="math">\(B\)</span>) is defined as <strong><span class="math">\(A \setminus B := \{ x : x \in A \text{ and } x \notin B \}\)</span></strong>.&quot;</td>
+<td><strong><span class="math">\(B\)</span> 相对于 <span class="math">\(A\)</span> 的补集</strong>（或 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> 的<strong>差集</strong>）定义为 <strong><span class="math">\(A \setminus B := \{ x : x \in A \text{ and } x \notin B \}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-16-1-2-3">Lebl, 2026, Definition 0.3.4</a></td>
+</tr>
+<tr>
+<td><strong>Complement</strong><br>补集</td>
+<td>&quot;We say <strong>complement</strong> of <span class="math">\(B\)</span> and write <span class="math">\(B^c\)</span> instead of <span class="math">\(A \setminus B\)</span> if <strong>the set <span class="math">\(A\)</span> is either the entire universe or if it is the obvious set containing <span class="math">\(B\)</span></strong>, and is understood from context.&quot;</td>
+<td>如果<strong>集合 <span class="math">\(A\)</span> 是整个全集，或者是包含 <span class="math">\(B\)</span> 的显而易见的集合</strong>，并且从上下文可以明白，我们就说 <span class="math">\(B\)</span> 的<strong>补集</strong>，记作 <span class="math">\(B^c\)</span> 而不写 <span class="math">\(A \setminus B\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-16-1-2-4">Lebl, 2026, Definition 0.3.4</a></td>
+</tr>
+<tr>
+<td><strong>Disjoint</strong><br>不相交</td>
+<td>&quot;We say sets <span class="math">\(A\)</span> and <span class="math">\(B\)</span> are <strong>disjoint</strong> if <strong><span class="math">\(A \cap B = \emptyset\)</span></strong>.&quot;</td>
+<td>若 <strong><span class="math">\(A \cap B = \emptyset\)</span></strong>，则称集合 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> <strong>不相交</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-16-1-2-5">Lebl, 2026, Definition 0.3.4</a></td>
+</tr>
+<tr>
+<td><strong>Venn Diagram</strong><br>维恩图</td>
+<td>&quot;We <strong>illustrate the operations</strong> on the <strong>Venn diagrams</strong> in Figure 2.&quot;</td>
+<td>我们在图 2 的<strong>维恩图</strong>上<strong>图示这些运算</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-21">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>DeMorgan’s Theorem</strong><br>德摩根定理</td>
+<td>&quot;Let <span class="math">\(A, B, C\)</span> be sets. Then <strong><span class="math">\({(B \cup C)}^c = B^c \cap C^c , \qquad {(B \cap C)}^c = B^c \cup C^c ,\)</span></strong> or, more generally, <span class="math">\(A \setminus (B \cup C) = (A \setminus B) \cap (A \setminus C) , \qquad A \setminus (B \cap C) = (A \setminus B) \cup (A \setminus C) .\)</span>&quot;</td>
+<td>设 <span class="math">\(A, B, C\)</span> 是集合，则 <strong><span class="math">\({(B \cup C)}^c = B^c \cap C^c , \qquad {(B \cap C)}^c = B^c \cup C^c ,\)</span></strong> 更一般地，<span class="math">\(A \setminus (B \cup C) = (A \setminus B) \cap (A \setminus C) , \qquad A \setminus (B \cap C) = (A \setminus B) \cup (A \setminus C) .\)</span></td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-4-22">Lebl, 2026, Theorem 0.3.5</a></td>
+</tr>
+<tr>
+<td><strong>Least Element</strong><br>最小元</td>
+<td>&quot;By <span class="math">\(S \subset \mathbb{N}\)</span> having a <strong>least element</strong>, we mean that <strong>there exists an <span class="math">\(x \in S\)</span>, such that for every <span class="math">\(y \in S\)</span>, we have <span class="math">\(x \leq y\)</span></strong>.&quot;</td>
+<td>说 <span class="math">\(S \subset \mathbb{N}\)</span> 有<strong>最小元</strong>，是指<strong>存在 <span class="math">\(x \in S\)</span>，使得对每个 <span class="math">\(y \in S\)</span> 都有 <span class="math">\(x \leq y\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-5-2">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Well Ordering Property</strong><br>良序性</td>
+<td>&quot;<strong>Every nonempty subset of <span class="math">\(\mathbb{N}\)</span> has a least (smallest) element</strong>&quot;</td>
+<td><strong><span class="math">\(\mathbb{N}\)</span> 的每个非空子集都有最小元</strong></td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#wop_link">Lebl, 2026, Axiom (Well ordering property of ℕ)</a></td>
+</tr>
+<tr>
+<td><strong>Axiom</strong><br>公理</td>
+<td>&quot;The natural numbers <span class="math">\(\mathbb{N}\)</span> ordered in the natural way possess the well ordering property. We take this property as an <strong>axiom</strong>; we <strong>simply assume it is true</strong>.&quot;</td>
+<td>按自然顺序排列的自然数 <span class="math">\(\mathbb{N}\)</span> 具有良序性。我们把这个性质当作<strong>公理</strong>，即<strong>直接假定它成立</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-5-3">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Principle of Induction</strong><br>归纳原理</td>
+<td>&quot;Let <span class="math">\(P(n)\)</span> be a statement depending on a natural number <span class="math">\(n\)</span>. Suppose that (basis statement) <span class="math">\(P(1)\)</span> is true. (induction step) If <span class="math">\(P(n)\)</span> is true, then <span class="math">\(P(n+1)\)</span> is true. Then <strong><span class="math">\(P(n)\)</span> is true for all <span class="math">\(n \in \mathbb{N}\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(P(n)\)</span> 是依赖于自然数 <span class="math">\(n\)</span> 的命题。假设（基础命题）<span class="math">\(P(1)\)</span> 为真；（归纳步骤）若 <span class="math">\(P(n)\)</span> 为真，则 <span class="math">\(P(n+1)\)</span> 为真。那么<strong>对所有 <span class="math">\(n \in \mathbb{N}\)</span>，<span class="math">\(P(n)\)</span> 为真</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#induction_thm">Lebl, 2026, Theorem 0.3.6</a></td>
+</tr>
+<tr>
+<td><strong>Basis Statement</strong><br>基础命题</td>
+<td>&quot;(<strong>basis statement</strong>) <strong><span class="math">\(P(1)\)</span> is true</strong>.&quot;</td>
+<td>（<strong>基础命题</strong>）<strong><span class="math">\(P(1)\)</span> 为真</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#induction_thm-2-2-1">Lebl, 2026, Theorem 0.3.6</a></td>
+</tr>
+<tr>
+<td><strong>Induction Step</strong><br>归纳步骤</td>
+<td>&quot;(<strong>induction step</strong>) <strong>If <span class="math">\(P(n)\)</span> is true, then <span class="math">\(P(n+1)\)</span> is true</strong>.&quot;</td>
+<td>（<strong>归纳步骤</strong>）<strong>若 <span class="math">\(P(n)\)</span> 为真，则 <span class="math">\(P(n+1)\)</span> 为真</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#induction_thm-2-2-2">Lebl, 2026, Theorem 0.3.6</a></td>
+</tr>
+<tr>
+<td><strong>Induction Hypothesis</strong><br>归纳假设</td>
+<td>&quot;<strong>The assumption that <span class="math">\(P(n)\)</span> is true</strong> in “if <span class="math">\(P(n)\)</span> is true, then <span class="math">\(P(n+1)\)</span> is true” is usually called the <strong>induction hypothesis</strong>.&quot;</td>
+<td>“若 <span class="math">\(P(n)\)</span> 为真，则 <span class="math">\(P(n+1)\)</span> 为真”中<strong>假定 <span class="math">\(P(n)\)</span> 为真的那个假设</strong>，通常称为<strong>归纳假设</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-5-8">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Strong Induction</strong><br>强归纳法</td>
+<td>&quot;Sometimes, it is easier to use in the inductive step that <strong><span class="math">\(P(k)\)</span> is true for all <span class="math">\(k = 1,2,\ldots,n\)</span>, not just for <span class="math">\(k=n\)</span></strong>. This principle is called <strong>strong induction</strong> and is equivalent to the normal induction above.&quot;</td>
+<td>有时在归纳步骤中用<strong>对所有 <span class="math">\(k = 1,2,\ldots,n\)</span>（而不只是 <span class="math">\(k=n\)</span>）<span class="math">\(P(k)\)</span> 都为真</strong>会更方便。这个原理称为<strong>强归纳法</strong>，它与上面的普通归纳法等价。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-5-11">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Function</strong><br>函数</td>
+<td>&quot;Informally, a <strong>set-theoretic function</strong> <span class="math">\(f\)</span> taking a set <span class="math">\(A\)</span> to a set <span class="math">\(B\)</span> is <strong>a mapping that to each <span class="math">\(x \in A\)</span> assigns a unique <span class="math">\(y \in B\)</span></strong>.&quot;</td>
+<td>非正式地说，把集合 <span class="math">\(A\)</span> 带到集合 <span class="math">\(B\)</span> 的<strong>集合论函数</strong> <span class="math">\(f\)</span> 是<strong>一个给每个 <span class="math">\(x \in A\)</span> 指定唯一 <span class="math">\(y \in B\)</span> 的映射</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-2">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Cartesian Product</strong><br>笛卡儿积</td>
+<td>&quot;Let <span class="math">\(A\)</span> and <span class="math">\(B\)</span> be sets. The <strong>Cartesian product</strong> is <strong>the set of tuples</strong> defined as <span class="math">\(A \times B := \bigl\{ (x,y) : x \in A, y \in B \bigr\}\)</span>.&quot;</td>
+<td>设 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> 是集合。<strong>笛卡儿积</strong>是如下定义的<strong>有序组的集合</strong>：<span class="math">\(A \times B := \bigl\{ (x,y) : x \in A, y \in B \bigr\}\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-4">Lebl, 2026, Definition 0.3.10</a></td>
+</tr>
+<tr>
+<td><strong>Graph</strong><br>图像</td>
+<td>&quot;If we consider <span class="math">\(f\)</span> simply as <strong>a subset in <span class="math">\(A \times B\)</span></strong>, then we call this set the <strong>graph</strong> of the function.&quot;</td>
+<td>如果把 <span class="math">\(f\)</span> 单纯看作 <strong><span class="math">\(A \times B\)</span> 中的一个子集</strong>，就称这个集合为函数的<strong>图像</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-6">Lebl, 2026, Definition 0.3.11</a></td>
+</tr>
+<tr>
+<td><strong>Domain</strong><br>定义域</td>
+<td>&quot;The <strong>set <span class="math">\(A\)</span></strong> is called the <strong>domain</strong> of <span class="math">\(f\)</span> (and sometimes confusingly denoted <span class="math">\(D(f)\)</span>).&quot;</td>
+<td><strong>集合 <span class="math">\(A\)</span></strong> 称为 <span class="math">\(f\)</span> 的<strong>定义域</strong>（有时也容易混淆地记作 <span class="math">\(D(f)\)</span>）。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-6">Lebl, 2026, Definition 0.3.11</a></td>
+</tr>
+<tr>
+<td><strong>Range</strong><br>值域</td>
+<td>&quot;The set <strong><span class="math">\(R(f) := \{ y \in B : \text{there exists an } x \in A \text{ such that } f(x)=y \}\)</span></strong> is called the <strong>range</strong> of <span class="math">\(f\)</span>.&quot;</td>
+<td>集合 <strong><span class="math">\(R(f) := \{ y \in B : \text{there exists an } x \in A \text{ such that } f(x)=y \}\)</span></strong> 称为 <span class="math">\(f\)</span> 的<strong>值域</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-6">Lebl, 2026, Definition 0.3.11</a></td>
+</tr>
+<tr>
+<td><strong>Codomain</strong><br>陪域</td>
+<td>&quot;The <strong>set <span class="math">\(B\)</span></strong> is called the <strong>codomain</strong> of <span class="math">\(f\)</span>.&quot;</td>
+<td><strong>集合 <span class="math">\(B\)</span></strong> 称为 <span class="math">\(f\)</span> 的<strong>陪域</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-6">Lebl, 2026, Definition 0.3.11</a></td>
+</tr>
+<tr>
+<td><strong>Image</strong><br>像</td>
+<td>&quot;Define the <strong>image</strong> (or <strong>direct image</strong>) of a subset <span class="math">\(C \subset A\)</span> as <strong><span class="math">\(f(C) := \bigl\{ f(x) \in B : x \in C \bigr\}\)</span></strong>.&quot;</td>
+<td>子集 <span class="math">\(C \subset A\)</span> 的<strong>像</strong>（或<strong>正像</strong>）定义为 <strong><span class="math">\(f(C) := \bigl\{ f(x) \in B : x \in C \bigr\}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-9">Lebl, 2026, Definition 0.3.13</a></td>
+</tr>
+<tr>
+<td><strong>Inverse Image</strong><br>原像</td>
+<td>&quot;Define the <strong>inverse image</strong> of a subset <span class="math">\(D \subset B\)</span> as <strong><span class="math">\(f^{-1}(D) := \bigl\{ x \in A : f(x) \in D \bigr\}\)</span></strong>.&quot;</td>
+<td>子集 <span class="math">\(D \subset B\)</span> 的<strong>原像</strong>定义为 <strong><span class="math">\(f^{-1}(D) := \bigl\{ x \in A : f(x) \in D \bigr\}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-9">Lebl, 2026, Definition 0.3.13</a></td>
+</tr>
+<tr>
+<td><strong>Injective</strong><br>单射的</td>
+<td>&quot;Let <span class="math">\(f \colon A \to B\)</span> be a function. The function <span class="math">\(f\)</span> is said to be <strong>injective</strong> or <strong>one-to-one</strong> if <strong><span class="math">\(f(x_1) = f(x_2)\)</span> implies <span class="math">\(x_1 = x_2\)</span></strong>. In other words, <span class="math">\(f\)</span> is injective if for all <span class="math">\(y \in B\)</span>, the set <span class="math">\(f^{-1}(\{y\})\)</span> is empty or consists of a single element. We call such an <span class="math">\(f\)</span> an <strong>injection</strong>.&quot;</td>
+<td>设 <span class="math">\(f \colon A \to B\)</span> 是函数。若 <strong><span class="math">\(f(x_1) = f(x_2)\)</span> 蕴含 <span class="math">\(x_1 = x_2\)</span></strong>，则称 <span class="math">\(f\)</span> 是<strong>单射的</strong>或<strong>一对一的</strong>。换句话说，若对所有 <span class="math">\(y \in B\)</span>，集合 <span class="math">\(f^{-1}(\{y\})\)</span> 为空或只含一个元素，则 <span class="math">\(f\)</span> 是单射的。这样的 <span class="math">\(f\)</span> 称为<strong>单射</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-21">Lebl, 2026, Definition 0.3.17</a></td>
+</tr>
+<tr>
+<td><strong>Surjective</strong><br>满射的</td>
+<td>&quot;If <strong><span class="math">\(f(A) = B\)</span></strong>, then we say <span class="math">\(f\)</span> is <strong>surjective</strong> or <strong>onto</strong>. In other words, <span class="math">\(f\)</span> is surjective if the range and the codomain of <span class="math">\(f\)</span> are equal. We call such an <span class="math">\(f\)</span> a <strong>surjection</strong>.&quot;</td>
+<td>若 <strong><span class="math">\(f(A) = B\)</span></strong>，则称 <span class="math">\(f\)</span> 是<strong>满射的</strong>或<strong>映上的</strong>。换句话说，若 <span class="math">\(f\)</span> 的值域与陪域相等，则 <span class="math">\(f\)</span> 是满射的。这样的 <span class="math">\(f\)</span> 称为<strong>满射</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-21">Lebl, 2026, Definition 0.3.17</a></td>
+</tr>
+<tr>
+<td><strong>Bijective</strong><br>双射的</td>
+<td>&quot;If <span class="math">\(f\)</span> is <strong>both surjective and injective</strong>, then we say <span class="math">\(f\)</span> is <strong>bijective</strong> or that <span class="math">\(f\)</span> is a <strong>bijection</strong>.&quot;</td>
+<td>若 <span class="math">\(f\)</span> <strong>既是满射的又是单射的</strong>，则称 <span class="math">\(f\)</span> 是<strong>双射的</strong>，或称 <span class="math">\(f\)</span> 是一个<strong>双射</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-21">Lebl, 2026, Definition 0.3.17</a></td>
+</tr>
+<tr>
+<td><strong>Inverse Function</strong><br>反函数</td>
+<td>&quot;When <span class="math">\(f \colon A \to B\)</span> is a bijection, then the inverse image of a single element, <span class="math">\(f^{-1}(\{y\})\)</span>, is always a unique element of <span class="math">\(A\)</span>. We then consider <strong><span class="math">\(f^{-1}\)</span> as a function <span class="math">\(f^{-1} \colon B \to A\)</span></strong> and we write simply <span class="math">\(f^{-1}(y)\)</span>. In this case, we call <span class="math">\(f^{-1}\)</span> the <strong>inverse function</strong> of <span class="math">\(f\)</span>.&quot;</td>
+<td>当 <span class="math">\(f \colon A \to B\)</span> 是双射时，单个元素的原像 <span class="math">\(f^{-1}(\{y\})\)</span> 总是 <span class="math">\(A\)</span> 中唯一的一个元素。这时我们把 <strong><span class="math">\(f^{-1}\)</span> 看作函数 <span class="math">\(f^{-1} \colon B \to A\)</span></strong>，并简单地写作 <span class="math">\(f^{-1}(y)\)</span>。在这种情况下，称 <span class="math">\(f^{-1}\)</span> 为 <span class="math">\(f\)</span> 的<strong>反函数</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-22">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Composition of Functions</strong><br>函数的复合</td>
+<td>&quot;Consider <span class="math">\(f \colon A \to B\)</span> and <span class="math">\(g \colon B \to C\)</span>. The <strong>composition</strong> of the functions <span class="math">\(f\)</span> and <span class="math">\(g\)</span> is the function <strong><span class="math">\(g \circ f \colon A \to C\)</span></strong> defined as <span class="math">\((g \circ f)(x) := g\bigl(f(x)\bigr)\)</span>.&quot;</td>
+<td>考虑 <span class="math">\(f \colon A \to B\)</span> 与 <span class="math">\(g \colon B \to C\)</span>。函数 <span class="math">\(f\)</span> 与 <span class="math">\(g\)</span> 的<strong>复合</strong>是如下定义的函数 <strong><span class="math">\(g \circ f \colon A \to C\)</span></strong>：<span class="math">\((g \circ f)(x) := g\bigl(f(x)\bigr)\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-6-23">Lebl, 2026, Definition 0.3.18</a></td>
+</tr>
+<tr>
+<td><strong>Binary Relation</strong><br>二元关系</td>
+<td>&quot;Given a set <span class="math">\(A\)</span>, a <strong>binary relation</strong> on <span class="math">\(A\)</span> is <strong>a subset <span class="math">\(\mathcal{R} \subset A \times A\)</span></strong>, which consists of those pairs where the relation is said to hold.&quot;</td>
+<td>给定集合 <span class="math">\(A\)</span>，<span class="math">\(A\)</span> 上的<strong>二元关系</strong>是<strong>一个子集 <span class="math">\(\mathcal{R} \subset A \times A\)</span></strong>，由关系成立的那些有序对组成。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-7-3">Lebl, 2026, Definition 0.3.19</a></td>
+</tr>
+<tr>
+<td><strong>Reflexive Relation</strong><br>自反关系</td>
+<td>&quot;A relation <span class="math">\(\mathcal{R}\)</span> on a set <span class="math">\(A\)</span> is said to be <strong>Reflexive</strong> if <strong><span class="math">\(a\, \mathcal{R} \, a\)</span> for all <span class="math">\(a \in A\)</span></strong>.&quot;</td>
+<td>集合 <span class="math">\(A\)</span> 上的关系 <span class="math">\(\mathcal{R}\)</span> 称为<strong>自反的</strong>，如果<strong>对所有 <span class="math">\(a \in A\)</span> 有 <span class="math">\(a\, \mathcal{R} \, a\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-7-5-1-2-1">Lebl, 2026, Definition 0.3.21</a></td>
+</tr>
+<tr>
+<td><strong>Symmetric Relation</strong><br>对称关系</td>
+<td>&quot;A relation <span class="math">\(\mathcal{R}\)</span> on a set <span class="math">\(A\)</span> is said to be <strong>Symmetric</strong> if <strong><span class="math">\(a\, \mathcal{R} \, b\)</span> implies <span class="math">\(b \, \mathcal{R} \, a\)</span></strong>.&quot;</td>
+<td>集合 <span class="math">\(A\)</span> 上的关系 <span class="math">\(\mathcal{R}\)</span> 称为<strong>对称的</strong>，如果 <strong><span class="math">\(a\, \mathcal{R} \, b\)</span> 蕴含 <span class="math">\(b \, \mathcal{R} \, a\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-7-5-1-2-2">Lebl, 2026, Definition 0.3.21</a></td>
+</tr>
+<tr>
+<td><strong>Transitive Relation</strong><br>传递关系</td>
+<td>&quot;A relation <span class="math">\(\mathcal{R}\)</span> on a set <span class="math">\(A\)</span> is said to be <strong>Transitive</strong> if <strong><span class="math">\(a\, \mathcal{R} \, b\)</span> and <span class="math">\(b \, \mathcal{R} \, c\)</span> implies <span class="math">\(a\, \mathcal{R} \, c\)</span></strong>.&quot;</td>
+<td>集合 <span class="math">\(A\)</span> 上的关系 <span class="math">\(\mathcal{R}\)</span> 称为<strong>传递的</strong>，如果 <strong><span class="math">\(a\, \mathcal{R} \, b\)</span> 且 <span class="math">\(b \, \mathcal{R} \, c\)</span> 蕴含 <span class="math">\(a\, \mathcal{R} \, c\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-7-5-1-2-3">Lebl, 2026, Definition 0.3.21</a></td>
+</tr>
+<tr>
+<td><strong>Equivalence Relation</strong><br>等价关系</td>
+<td>&quot;If <span class="math">\(\mathcal{R}\)</span> is <strong>reflexive, symmetric, and transitive</strong>, then it is said to be an <strong>equivalence relation</strong>.&quot;</td>
+<td>若 <span class="math">\(\mathcal{R}\)</span> 是<strong>自反的、对称的和传递的</strong>，则称它为<strong>等价关系</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-7-5">Lebl, 2026, Definition 0.3.21</a></td>
+</tr>
+<tr>
+<td><strong>Equivalence Class</strong><br>等价类</td>
+<td>&quot;Let <span class="math">\(A\)</span> be a set and <span class="math">\(\mathcal{R}\)</span> an equivalence relation. An <strong>equivalence class</strong> of <span class="math">\(a \in A\)</span>, often denoted by <span class="math">\([a]\)</span>, is <strong>the set <span class="math">\(\{ x \in A : a\, \mathcal{R} \, x \}\)</span></strong>.&quot;</td>
+<td>设 <span class="math">\(A\)</span> 是集合，<span class="math">\(\mathcal{R}\)</span> 是等价关系。<span class="math">\(a \in A\)</span> 的<strong>等价类</strong>常记作 <span class="math">\([a]\)</span>，它是<strong>集合 <span class="math">\(\{ x \in A : a\, \mathcal{R} \, x \}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-7-8">Lebl, 2026, Definition 0.3.23</a></td>
+</tr>
+<tr>
+<td><strong>Cardinality</strong><br>基数</td>
+<td>&quot;Let <span class="math">\(A\)</span> and <span class="math">\(B\)</span> be sets. We say <span class="math">\(A\)</span> and <span class="math">\(B\)</span> have the same cardinality when <strong>there exists a bijection <span class="math">\(f \colon A \to B\)</span></strong>. We denote by <span class="math">\(\lvert A \rvert\)</span> the equivalence class of all sets with the same cardinality as <span class="math">\(A\)</span>, and we simply call <span class="math">\(\lvert A \rvert\)</span> the <strong>cardinality</strong> of <span class="math">\(A\)</span>.&quot;</td>
+<td>设 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> 是集合。当<strong>存在双射 <span class="math">\(f \colon A \to B\)</span></strong> 时，称 <span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> 有相同的基数。用 <span class="math">\(\lvert A \rvert\)</span> 表示与 <span class="math">\(A\)</span> 有相同基数的全体集合构成的等价类，并简单地称 <span class="math">\(\lvert A \rvert\)</span> 为 <span class="math">\(A\)</span> 的<strong>基数</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-8-3">Lebl, 2026, Definition 0.3.26</a></td>
+</tr>
+<tr>
+<td><strong>Finite</strong><br>有限</td>
+<td>&quot;If <span class="math">\(A\)</span> has the same cardinality as <span class="math">\(\{ 1,2,3,\ldots,n \}\)</span> for some <span class="math">\(n \in \mathbb{N}\)</span>, we write <span class="math">\(\lvert A \rvert := n\)</span>. If <span class="math">\(A\)</span> is empty, we write <span class="math">\(\lvert A \rvert := 0\)</span>. In either case, we say that <span class="math">\(A\)</span> is <strong>finite</strong>.&quot;</td>
+<td>若对某个 <span class="math">\(n \in \mathbb{N}\)</span>，<span class="math">\(A\)</span> 与 <span class="math">\(\{ 1,2,3,\ldots,n \}\)</span> 有相同的基数，就写 <span class="math">\(\lvert A \rvert := n\)</span>。若 <span class="math">\(A\)</span> 为空，就写 <span class="math">\(\lvert A \rvert := 0\)</span>。在这两种情况下，都称 <span class="math">\(A\)</span> 是<strong>有限的</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-8-6">Lebl, 2026, Definition 0.3.27</a></td>
+</tr>
+<tr>
+<td><strong>Infinite</strong><br>无限</td>
+<td>&quot;We say <span class="math">\(A\)</span> is <strong>infinite</strong> or “of infinite cardinality” if <strong><span class="math">\(A\)</span> is not finite</strong>.&quot;</td>
+<td>若 <strong><span class="math">\(A\)</span> 不是有限的</strong>，则称 <span class="math">\(A\)</span> 是<strong>无限的</strong>或“具有无限基数”。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-8-6">Lebl, 2026, Definition 0.3.27</a></td>
+</tr>
+<tr>
+<td><strong>Cantor–Bernstein–Schröder Theorem</strong><br>康托尔–伯恩斯坦–施罗德定理</td>
+<td>&quot;We state without proof that <span class="math">\(A\)</span> and <span class="math">\(B\)</span> have the same cardinality if and only if <strong><span class="math">\(\lvert A \rvert \leq \lvert B \rvert\)</span> and <span class="math">\(\lvert B \rvert \leq \lvert A \rvert\)</span></strong>. This result is the <strong>Cantor–Bernstein–Schröder theorem</strong>.&quot;</td>
+<td>我们不加证明地指出：<span class="math">\(A\)</span> 与 <span class="math">\(B\)</span> 有相同的基数，当且仅当 <strong><span class="math">\(\lvert A \rvert \leq \lvert B \rvert\)</span> 且 <span class="math">\(\lvert B \rvert \leq \lvert A \rvert\)</span></strong>。这个结果就是<strong>康托尔–伯恩斯坦–施罗德定理</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-8-10">Lebl, 2026, section 0.3</a></td>
+</tr>
+<tr>
+<td><strong>Countably Infinite</strong><br>可数无穷</td>
+<td>&quot;If <strong><span class="math">\(\lvert A \rvert = \lvert \mathbb{N} \rvert\)</span></strong>, then we say <span class="math">\(A\)</span> is <strong>countably infinite</strong>.&quot;</td>
+<td>若 <strong><span class="math">\(\lvert A \rvert = \lvert \mathbb{N} \rvert\)</span></strong>，则称 <span class="math">\(A\)</span> 是<strong>可数无穷的</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-8-12">Lebl, 2026, Definition 0.3.29</a></td>
+</tr>
+<tr>
+<td><strong>Countable</strong><br>可数</td>
+<td>&quot;If <span class="math">\(A\)</span> is <strong>finite or countably infinite</strong>, then we say <span class="math">\(A\)</span> is <strong>countable</strong>.&quot;</td>
+<td>若 <span class="math">\(A\)</span> 是<strong>有限的或可数无穷的</strong>，则称 <span class="math">\(A\)</span> 是<strong>可数的</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-8-12">Lebl, 2026, Definition 0.3.29</a></td>
+</tr>
+<tr>
+<td><strong>Uncountable</strong><br>不可数</td>
+<td>&quot;If <span class="math">\(A\)</span> is <strong>not countable</strong>, then <span class="math">\(A\)</span> is said to be <strong>uncountable</strong>.&quot;</td>
+<td>若 <span class="math">\(A\)</span> <strong>不是可数的</strong>，则称 <span class="math">\(A\)</span> 是<strong>不可数的</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-8-12">Lebl, 2026, Definition 0.3.29</a></td>
+</tr>
+<tr>
+<td><strong>Power Set</strong><br>幂集</td>
+<td>&quot;The <strong>power set</strong> of a set <span class="math">\(A\)</span>, denoted by <span class="math">\(\mathcal{P}(A)\)</span>, is <strong>the set of all subsets of <span class="math">\(A\)</span></strong>.&quot;</td>
+<td>集合 <span class="math">\(A\)</span> 的<strong>幂集</strong>记作 <span class="math">\(\mathcal{P}(A)\)</span>，是 <strong><span class="math">\(A\)</span> 的全部子集构成的集合</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-8-20">Lebl, 2026, Definition 0.3.33</a></td>
+</tr>
+<tr>
+<td><strong>Cantor’s Theorem</strong><br>康托尔定理</td>
+<td>&quot;Let <span class="math">\(A\)</span> be a set. Then <strong><span class="math">\(\lvert A \rvert &lt; \bigl\lvert \mathcal{P}(A) \bigr\rvert\)</span></strong>. In particular, there exists no surjection from <span class="math">\(A\)</span> onto <span class="math">\(\mathcal{P}(A)\)</span>.&quot;</td>
+<td>设 <span class="math">\(A\)</span> 是集合，则 <strong><span class="math">\(\lvert A \rvert &lt; \bigl\lvert \mathcal{P}(A) \bigr\rvert\)</span></strong>。特别地，不存在从 <span class="math">\(A\)</span> 到 <span class="math">\(\mathcal{P}(A)\)</span> 的满射。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#cantorspowersetthm">Lebl, 2026, Theorem 0.3.34</a></td>
+</tr>
+<tr>
+<td><strong>Symmetric Difference</strong><br>对称差</td>
+<td>&quot;Let <span class="math">\(A \Delta B\)</span> denote the <strong>symmetric difference</strong>, that is, <strong>the set of all elements that belong to either <span class="math">\(A\)</span> or <span class="math">\(B\)</span>, but not to both <span class="math">\(A\)</span> and <span class="math">\(B\)</span></strong>.&quot;</td>
+<td>用 <span class="math">\(A \Delta B\)</span> 表示<strong>对称差</strong>，即<strong>属于 <span class="math">\(A\)</span> 或 <span class="math">\(B\)</span>、但不同时属于 <span class="math">\(A\)</span> 和 <span class="math">\(B\)</span> 的全部元素构成的集合</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_basicset.html#sec_basicset-9-7">Lebl, 2026, Exercise 0.3.7</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Lebl, J. (2026). <em>Basic analysis I &amp; II: Introduction to real analysis</em> (May 22, 2026 edition). Retrieved October 29, 2026, from <a href="https://www.jirka.org/ra/html/">https://www.jirka.org/ra/html/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 11:58:07-04:00">10/31/2026 11:58:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

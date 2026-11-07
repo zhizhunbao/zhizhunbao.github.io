@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5. Solutions | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Ultralytics YOLO, 5. Solutions: 5.1 Analytics, 5.2 Distance Calculation, 5.3 Heatmaps, 5.4 Instance Segmentation Tracking, 5.5 Live Inference, 5.6 Object Blurring, 5.7 Object Counting, 5.8 Object Counting in Regions, 5.9 Object Cropping, 5.10 Parking Management, 5.11 Queue Management, 5.12 Security Alarm System, 5.13 Similarity Search, 5.14 Speed Estimation, 5.15 Track Objects in Zone, 5.16 VisionEye View Objects Mapping, 5.17 Workouts Monitoring.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="5-solutions">5. Solutions</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/solutions.png" alt="5. Solutions: its 17 entries from the official menu, in menu order and numbered here, each with the entries the menu lists under it, in Ultralytics YOLO."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5 Solutions</strong><br>解决方案</td>
+<td>&quot;Ultralytics Solutions provide <strong>cutting-edge applications of YOLO models, offering real-world solutions like object counting, blurring, and security systems</strong>, enhancing efficiency and accuracy in diverse industries.&quot;</td>
+<td>Ultralytics Solutions 提供 <strong>YOLO 模型的前沿应用，给出目标计数、模糊处理、安防系统等真实场景的解决方案</strong>，在各行各业提升效率和准确率。</td>
+<td><a href="https://docs.ultralytics.com/solutions/#ultralytics-solutions-harness-yolo26-to-solve-real-world-problems">Ultralytics, n.d.-p, &quot;Ultralytics Solutions: Harness YOLO26 to Solve Real-World Problems&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="analytics.html">5.1 Analytics</a></strong><br>分析</td>
+<td>&quot;Analytics with Ultralytics YOLO26 <strong>turns object detection and tracking results into real-time charts</strong>, so you can watch how object counts change across a video frame by frame.&quot;</td>
+<td>Ultralytics YOLO26 的分析功能<strong>把目标检测和跟踪结果转换成实时图表</strong>，让你逐帧观察视频中物体数量的变化。</td>
+<td><a href="https://docs.ultralytics.com/guides/analytics/#analytics-using-ultralytics-yolo26">Ultralytics, n.d.-a, &quot;Analytics using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="distance-calculation.html">5.2 Distance Calculation</a></strong><br>距离计算</td>
+<td>&quot;Distance calculation is <strong>the process of measuring the space between two detected objects within an image or video frame</strong>.&quot;</td>
+<td>距离计算是<strong>测量图像或视频帧中两个被检测物体之间距离的过程</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/distance-calculation/#distance-calculation-using-ultralytics-yolo26">Ultralytics, n.d.-c, &quot;Distance Calculation using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="heatmaps.html">5.3 Heatmaps</a></strong><br>热力图</td>
+<td>&quot;The Heatmap solution in Ultralytics YOLO26 <strong>tracks objects across video frames and overlays their accumulated movement intensity onto each frame</strong>, so busy areas glow in warm colors while quiet areas stay cool.&quot;</td>
+<td>Ultralytics YOLO26 的热力图方案<strong>在各视频帧中跟踪物体，并把它们累积的运动强度叠加到每一帧上</strong>，繁忙区域显示暖色，安静区域保持冷色。</td>
+<td><a href="https://docs.ultralytics.com/guides/heatmaps/#object-tracking-heatmaps-with-ultralytics-yolo26">Ultralytics, n.d.-k, &quot;Object Tracking Heatmaps with Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="instance-segmentation-tracking.html">5.4 Instance Segmentation Tracking</a></strong><br>实例分割跟踪</td>
+<td>(context) &quot;Instance segmentation is <strong>a computer vision task that involves identifying and outlining individual objects in an image at the pixel level</strong>.&quot;</td>
+<td>（语境）实例分割是<strong>一项在像素级别识别并勾勒图像中各个物体的计算机视觉任务</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/instance-segmentation-and-tracking/#instance-segmentation-and-tracking-using-ultralytics-yolo26">Ultralytics, n.d.-e, &quot;Instance Segmentation and Tracking using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="live-inference.html">5.5 Live Inference</a></strong><br>实时推理</td>
+<td>(context) &quot;Combining this with Ultralytics YOLO26 allows for <strong>real-time object detection and analysis directly in your browser</strong>.&quot;</td>
+<td>（语境）把它与 Ultralytics YOLO26 结合，就能<strong>直接在浏览器中进行实时目标检测和分析</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/streamlit-live-inference/#live-inference-with-streamlit-application-using-ultralytics-yolo26">Ultralytics, n.d.-f, &quot;Live Inference with Streamlit Application using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="object-blurring.html">5.6 Object Blurring</a></strong><br>物体模糊</td>
+<td>&quot;Object blurring with Ultralytics YOLO26 involves <strong>applying a blurring effect to specific detected objects in an image or video</strong>.&quot;</td>
+<td>Ultralytics YOLO26 的物体模糊是<strong>对图像或视频中特定的被检测物体施加模糊效果</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/object-blurring/#object-blurring-using-ultralytics-yolo26">Ultralytics, n.d.-g, &quot;Object Blurring using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="object-counting.html">5.7 Object Counting</a></strong><br>物体计数</td>
+<td>&quot;Object counting with Ultralytics YOLO26 involves <strong>accurate identification and counting of specific objects in videos and camera streams</strong>.&quot;</td>
+<td>Ultralytics YOLO26 的物体计数是<strong>在视频和摄像头流中准确识别并计数特定物体</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/object-counting/#object-counting-using-ultralytics-yolo26">Ultralytics, n.d.-i, &quot;Object Counting using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="object-counting-in-regions.html">5.8 Object Counting in Regions</a></strong><br>区域内物体计数</td>
+<td>&quot;The RegionCounter solution in Ultralytics YOLO26 <strong>tracks objects across video frames and, on every frame, counts the objects whose bounding-box center falls inside each region you define</strong>.&quot;</td>
+<td>Ultralytics YOLO26 的 RegionCounter 方案<strong>在各视频帧中跟踪物体，并在每一帧统计边界框中心落在你定义的各个区域内的物体数量</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/region-counting/#object-counting-in-regions-with-ultralytics-yolo26">Ultralytics, n.d.-h, &quot;Object Counting in Regions with Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="object-cropping.html">5.9 Object Cropping</a></strong><br>物体裁剪</td>
+<td>&quot;Object cropping with Ultralytics YOLO26 involves <strong>isolating and extracting specific detected objects from an image or video</strong>.&quot;</td>
+<td>Ultralytics YOLO26 的物体裁剪是<strong>从图像或视频中分离并提取特定的被检测物体</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/object-cropping/#object-cropping-using-ultralytics-yolo26">Ultralytics, n.d.-j, &quot;Object Cropping using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="parking-management.html">5.10 Parking Management</a></strong><br>停车管理</td>
+<td>&quot;A parking management system built with Ultralytics YOLO26 <strong>detects vehicles in real time to track which parking spaces are occupied or available, then reports live lot occupancy</strong>.&quot;</td>
+<td>用 Ultralytics YOLO26 构建的停车管理系统<strong>实时检测车辆，跟踪哪些车位被占用、哪些空闲，并报告停车场的实时占用情况</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/parking-management/#build-a-parking-management-system-with-ultralytics-yolo26">Ultralytics, n.d.-b, &quot;Build a Parking Management System with Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="queue-management.html">5.11 Queue Management</a></strong><br>排队管理</td>
+<td>&quot;Queue management using Ultralytics YOLO26 involves <strong>organizing and controlling lines of people or vehicles to reduce wait times and enhance efficiency</strong>.&quot;</td>
+<td>用 Ultralytics YOLO26 进行排队管理，是<strong>组织和控制人或车辆的队列，以减少等待时间、提高效率</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/queue-management/#queue-management-using-ultralytics-yolo26">Ultralytics, n.d.-l, &quot;Queue Management using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="security-alarm-system.html">5.12 Security Alarm System</a></strong><br>安防报警系统</td>
+<td>&quot;The Security Alarm System Project utilizing Ultralytics YOLO26 <strong>integrates advanced computer vision capabilities to enhance security measures</strong>.&quot;</td>
+<td>基于 Ultralytics YOLO26 的安防报警系统项目<strong>集成了先进的计算机视觉能力，以加强安防措施</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/security-alarm-system/#security-alarm-system-project-using-ultralytics-yolo26">Ultralytics, n.d.-m, &quot;Security Alarm System Project Using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="similarity-search.html">5.13 Similarity Search</a></strong><br>相似度搜索</td>
+<td>(context) &quot;This guide walks you through <strong>building a semantic image search engine using OpenAI CLIP and Flask</strong>.&quot;</td>
+<td>（语境）本指南带你<strong>用 OpenAI CLIP 和 Flask 构建一个语义图像搜索引擎</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/similarity-search/#how-to-build-semantic-image-search-with-openai-clip">Ultralytics, n.d.-d, &quot;How to Build Semantic Image Search with OpenAI CLIP&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="speed-estimation.html">5.14 Speed Estimation</a></strong><br>速度估计</td>
+<td>&quot;Speed estimation is <strong>the process of calculating the rate of movement of an object within a given context</strong>, often employed in computer vision applications.&quot;</td>
+<td>速度估计是<strong>计算物体在给定情境中运动速率的过程</strong>，常用于计算机视觉应用。</td>
+<td><a href="https://docs.ultralytics.com/guides/speed-estimation/#speed-estimation-using-ultralytics-yolo26">Ultralytics, n.d.-n, &quot;Speed Estimation using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="track-objects-in-zone.html">5.15 Track Objects in Zone</a></strong><br>区域内物体跟踪</td>
+<td>&quot;TrackZone <strong>specializes in monitoring objects within designated areas of a frame instead of the whole frame</strong>.&quot;</td>
+<td>TrackZone <strong>专门监控画面中指定区域内的物体，而不是整个画面</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/trackzone/#trackzone-using-ultralytics-yolo26">Ultralytics, n.d.-o, &quot;TrackZone using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="visioneye-view-objects-mapping.html">5.16 VisionEye View Objects Mapping</a></strong><br>VisionEye 视角物体映射</td>
+<td>&quot;Ultralytics YOLO26 VisionEye offers <strong>the capability for computers to identify and pinpoint objects, simulating the observational precision of the human eye</strong>.&quot;</td>
+<td>Ultralytics YOLO26 VisionEye 让<strong>计算机能够识别并精确定位物体，模拟人眼观察的精确度</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/vision-eye/#visioneye-view-object-mapping-using-ultralytics-yolo26">Ultralytics, n.d.-q, &quot;VisionEye View Object Mapping using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="workouts-monitoring.html">5.17 Workouts Monitoring</a></strong><br>健身监测</td>
+<td>&quot;Monitoring workouts through pose estimation with Ultralytics YOLO26 <strong>enhances exercise assessment by accurately tracking key body landmarks and joints in real-time</strong>.&quot;</td>
+<td>用 Ultralytics YOLO26 的姿态估计监测健身，<strong>通过实时准确跟踪身体关键部位和关节来改进运动评估</strong>。</td>
+<td><a href="https://docs.ultralytics.com/guides/workouts-monitoring/#workouts-monitoring-using-ultralytics-yolo26">Ultralytics, n.d.-r, &quot;Workouts Monitoring using Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Solutions Arguments</strong><br>解决方案参数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/solutions/#solutions-arguments">Ultralytics, n.d.-p, &quot;Solutions Arguments&quot;</a></td>
+</tr>
+<tr>
+<td><strong>SolutionAnnotator</strong><br>SolutionAnnotator（解决方案标注器）</td>
+<td>&quot;All Ultralytics Solutions use the separate class SolutionAnnotator, <strong>that extends the main Annotator class</strong>&quot;</td>
+<td>所有 Ultralytics 解决方案都使用单独的 SolutionAnnotator 类，它<strong>扩展了主 Annotator 类</strong></td>
+<td><a href="https://docs.ultralytics.com/solutions/#usage-of-solutionannotator">Ultralytics, n.d.-p, &quot;Usage of SolutionAnnotator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SolutionResults</strong><br>SolutionResults（解决方案结果）</td>
+<td>(context) &quot;Except Similarity Search, <strong>each Solution call returns a <code>SolutionResults</code> object</strong>.&quot;</td>
+<td>（语境）除相似性搜索外，<strong>每次调用解决方案都会返回一个 <code>SolutionResults</code> 对象</strong>。</td>
+<td><a href="https://docs.ultralytics.com/solutions/#working-with-solutionresults">Ultralytics, n.d.-p, &quot;Working with SolutionResults&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Ultralytics. (n.d.-a). <em>Analytics using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/analytics/">https://docs.ultralytics.com/guides/analytics/</a></p>
+<p>Ultralytics. (n.d.-b). <em>Build a Parking Management System with Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/parking-management/">https://docs.ultralytics.com/guides/parking-management/</a></p>
+<p>Ultralytics. (n.d.-c). <em>Distance Calculation using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/distance-calculation/">https://docs.ultralytics.com/guides/distance-calculation/</a></p>
+<p>Ultralytics. (n.d.-d). <em>How to Build Semantic Image Search with OpenAI CLIP</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/similarity-search/">https://docs.ultralytics.com/guides/similarity-search/</a></p>
+<p>Ultralytics. (n.d.-e). <em>Instance Segmentation and Tracking using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/instance-segmentation-and-tracking/">https://docs.ultralytics.com/guides/instance-segmentation-and-tracking/</a></p>
+<p>Ultralytics. (n.d.-f). <em>Live Inference with Streamlit Application using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/streamlit-live-inference/">https://docs.ultralytics.com/guides/streamlit-live-inference/</a></p>
+<p>Ultralytics. (n.d.-g). <em>Object Blurring using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/object-blurring/">https://docs.ultralytics.com/guides/object-blurring/</a></p>
+<p>Ultralytics. (n.d.-h). <em>Object Counting in Regions with Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/region-counting/">https://docs.ultralytics.com/guides/region-counting/</a></p>
+<p>Ultralytics. (n.d.-i). <em>Object Counting using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/object-counting/">https://docs.ultralytics.com/guides/object-counting/</a></p>
+<p>Ultralytics. (n.d.-j). <em>Object Cropping using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/object-cropping/">https://docs.ultralytics.com/guides/object-cropping/</a></p>
+<p>Ultralytics. (n.d.-k). <em>Object Tracking Heatmaps with Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/heatmaps/">https://docs.ultralytics.com/guides/heatmaps/</a></p>
+<p>Ultralytics. (n.d.-l). <em>Queue Management using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/queue-management/">https://docs.ultralytics.com/guides/queue-management/</a></p>
+<p>Ultralytics. (n.d.-m). <em>Security Alarm System Project Using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/security-alarm-system/">https://docs.ultralytics.com/guides/security-alarm-system/</a></p>
+<p>Ultralytics. (n.d.-n). <em>Speed Estimation using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/speed-estimation/">https://docs.ultralytics.com/guides/speed-estimation/</a></p>
+<p>Ultralytics. (n.d.-o). <em>TrackZone using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/trackzone/">https://docs.ultralytics.com/guides/trackzone/</a></p>
+<p>Ultralytics. (n.d.-p). <em>Ultralytics Solutions: Harness YOLO26 to Solve Real-World Problems</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/solutions/">https://docs.ultralytics.com/solutions/</a></p>
+<p>Ultralytics. (n.d.-q). <em>VisionEye View Object Mapping using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/vision-eye/">https://docs.ultralytics.com/guides/vision-eye/</a></p>
+<p>Ultralytics. (n.d.-r). <em>Workouts Monitoring using Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/guides/workouts-monitoring/">https://docs.ultralytics.com/guides/workouts-monitoring/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

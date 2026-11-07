@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.6.4 Sharing local files with containers | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Docker, 1.6.4 Sharing local files with containers: 1.6.4.1 Volume versus bind mounts, 1.6.4.2 File permissions for Docker access to host files.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="164-sharing-local-files-with-containers">1.6.4 Sharing local files with containers</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/running-containers-sharing-local-files.png" alt="1.6.4 Sharing local files with containers: the sections of its page that hold terms, numbered here, each with its terms, in Docker."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.6.4 Sharing local files with containers</strong><br>与容器共享本地文件</td>
+<td>(context) &quot;Docker offers <strong>two primary storage options</strong> for persisting data and sharing files between the host machine and containers: <strong>volumes and bind mounts</strong>.&quot;</td>
+<td>（语境）Docker 提供<strong>两种主要的存储方式</strong>，用于持久保存数据以及在主机和容器之间共享文件：<strong>卷和绑定挂载</strong>。</td>
+<td><a href="https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/#:%7E:text=Docker%20offers%20two%20primary%20storage%20options%20for">Docker Inc., n.d., &quot;Explanation&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>1.6.4.1 Volume versus bind mounts</strong><br>卷与绑定挂载</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/#volume-versus-bind-mounts">Docker Inc., n.d., &quot;Volume versus bind mounts&quot;</a></td>
+</tr>
+<tr>
+<td><strong>volume</strong><br>卷</td>
+<td>&quot;If you want to ensure that <strong>data generated or modified inside the container</strong> persists <strong>even after the container stops running</strong>, you would opt for <strong>a volume</strong>.&quot;</td>
+<td>如果你想确保<strong>容器内生成或修改的数据</strong>保留到<strong>容器停止运行之后</strong>，就选用<strong>卷</strong>。</td>
+<td><a href="https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/#:%7E:text=If%20you%20want%20to%20ensure%20that%20data">Docker Inc., n.d., &quot;Volume versus bind mounts&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>bind mount</strong><br>绑定挂载</td>
+<td>&quot;If you have <strong>specific files or directories on your host system</strong> that you want to <strong>directly share with your container</strong>, like configuration files or development code, then you would use <strong>a bind mount</strong>.&quot;</td>
+<td>如果你有<strong>主机系统上的特定文件或目录</strong>，想要<strong>直接与容器共享</strong>，例如配置文件或开发代码，就使用<strong>绑定挂载</strong>。</td>
+<td><a href="https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/#:%7E:text=If%20you%20have%20specific%20files%20or%20directories">Docker Inc., n.d., &quot;Volume versus bind mounts&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>1.6.4.2 File permissions for Docker access to host files</strong><br>Docker 访问主机文件的权限</td>
+<td>&quot;When <strong>using bind mounts</strong>, it's crucial to ensure that <strong>Docker has the necessary permissions</strong> to <strong>access the host directory</strong>.&quot;</td>
+<td><strong>使用绑定挂载</strong>时，关键是确保 <strong>Docker 拥有所需的权限</strong>来<strong>访问主机目录</strong>。</td>
+<td><a href="https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/#:%7E:text=When%20using%20bind%20mounts%2C%20it%27s%20crucial%20to">Docker Inc., n.d., &quot;File permissions for Docker access to host files&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Read-only bind mounts</strong><br>只读绑定挂载</td>
+<td>&quot;Read-only bind mounts let the container <strong>access the mounted files on the host for reading</strong>, but it <strong>can't change or delete the files</strong>.&quot;</td>
+<td>只读绑定挂载让容器<strong>可以读取主机上挂载的文件</strong>，但<strong>不能修改或删除这些文件</strong>。</td>
+<td><a href="https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/#:%7E:text=Read-only%20bind%20mounts%20let%20the%20container%20access">Docker Inc., n.d., &quot;File permissions for Docker access to host files&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>read-write bind mounts</strong><br>读写绑定挂载</td>
+<td>&quot;With read-write bind mounts, <strong>containers can modify or delete mounted files</strong>, and these changes or deletions will <strong>also be reflected on the host system</strong>.&quot;</td>
+<td>使用读写绑定挂载时，<strong>容器可以修改或删除挂载的文件</strong>，这些修改或删除<strong>也会反映到主机系统上</strong>。</td>
+<td><a href="https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/#:%7E:text=With%20read-write%20bind%20mounts%2C%20containers%20can%20modify">Docker Inc., n.d., &quot;File permissions for Docker access to host files&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Synchronized file shares</strong><br>同步文件共享</td>
+<td>&quot;Synchronized file shares <strong>improve bind mount performance</strong> by leveraging <strong>synchronized filesystem caches</strong>.&quot;</td>
+<td>同步文件共享<strong>提升绑定挂载的性能</strong>，方法是利用<strong>同步的文件系统缓存</strong>。</td>
+<td><a href="https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/#:%7E:text=%5BSynchronized%20file%20shares%5D%28https%3A%2F%2Fdocs.docker.com%2Fdesktop%2Ffeatures%2Fsynchronized-file-sharing%2F%29%20improve%20bind%20mount%20performance">Docker Inc., n.d., &quot;File permissions for Docker access to host files&quot;, para. 4</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Docker Inc. (n.d.). <em>Sharing local files with containers</em>. Docker Docs. Retrieved October 31, 2026, from <a href="https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/">https://docs.docker.com/get-started/docker-concepts/running-containers/sharing-local-files/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:47:32-05:00">11/04/2026 20:47:32</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

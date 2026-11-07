@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>3.1 MJCF Mechanisms | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 3.1 MJCF Mechanisms: Kinematic tree, Default settings, Coordinate frames, Solver parameters, Contact parameters, Contact override, User parameters, Solver settings, Actuators, Sensors, Delays, Cameras, Composite objects, Deformable objects, Including files, Naming elements, URDF extensions, MoCap bodies, Memory allocation, Assets by reference.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="31-mjcf-mechanisms">3.1 MJCF Mechanisms</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/mjcf-mechanisms.png" alt="3.1 MJCF Mechanisms: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>3.1 MJCF Mechanisms</strong><br>MJCF 机制</td>
+<td>(context) &quot;MJCF uses <strong>several mechanisms for model creation which span multiple model elements</strong>.&quot;</td>
+<td>（语境）MJCF 使用<strong>若干跨越多个模型元素的模型创建机制</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#mjcf-mechanisms">Google DeepMind, n.d., &quot;MJCF Mechanisms&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Kinematic tree</strong><br>运动学树</td>
+<td>&quot;The main part of the MJCF file is <strong>an XML tree created by nested body elements</strong>.&quot;</td>
+<td>MJCF 文件的主体是<strong>由嵌套的 body 元素构成的 XML 树</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#kinematic-tree">Google DeepMind, n.d., &quot;Kinematic tree&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>worldbody</strong><br>世界刚体</td>
+<td>&quot;<strong>The top-level body is special</strong> and is called worldbody.&quot;</td>
+<td><strong>顶层刚体很特殊</strong>，称为 worldbody。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#kinematic-tree">Google DeepMind, n.d., &quot;Kinematic tree&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Default settings</strong><br>默认设置</td>
+<td>&quot;MJCF has <strong>an elaborate mechanism for setting default attribute values</strong>.&quot;</td>
+<td>MJCF 有<strong>一套精细的机制来设置属性默认值</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#default-settings">Google DeepMind, n.d., &quot;Default settings&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Defaults classes</strong><br>默认类</td>
+<td>&quot;MuJoCo supports <strong>unlimited number of defaults classes, created by possibly nested default elements in the XML</strong>.&quot;</td>
+<td>MuJoCo 支持<strong>数量不限的默认类，它们由 XML 中可以嵌套的 default 元素创建</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#default-settings">Google DeepMind, n.d., &quot;Default settings&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Dummy elements</strong><br>虚拟元素</td>
+<td>&quot;The dummy elements contained in the defaults classes <strong>are not part of the model; they are only used to initialize the attribute values of the actual model elements</strong>.&quot;</td>
+<td>默认类中包含的虚拟元素<strong>不是模型的一部分；它们只用来初始化实际模型元素的属性值</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#default-settings">Google DeepMind, n.d., &quot;Default settings&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Active defaults class</strong><br>当前默认类</td>
+<td>&quot;<strong>There is always an active defaults class</strong>, which can be determined in one of three ways.&quot;</td>
+<td><strong>总有一个当前生效的默认类</strong>，它可以用三种方式之一确定。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#default-settings">Google DeepMind, n.d., &quot;Default settings&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Undefined state</strong><br>未定义状态</td>
+<td>&quot;Some attributes, such as body inertia, can be in a special undefined state. This <strong>instructs the compiler to infer the corresponding value from other information</strong>, in this case the inertias of the geoms attached to the body.&quot;</td>
+<td>有些属性（例如刚体惯量）可以处于一种特殊的未定义状态。它<strong>指示编译器从其他信息推断相应的值</strong>，在这个例子中是附着在刚体上的 geom 的惯量。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#default-settings">Google DeepMind, n.d., &quot;Default settings&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Coordinate frames</strong><br>坐标系</td>
+<td>&quot;The positions and orientations of all elements defined in the kinematic tree are <strong>expressed in local coordinates</strong>, relative to the parent body for bodies, and relative to the body that contains the element for geoms, joints, sites, cameras and lights.&quot;</td>
+<td>运动学树中定义的所有元素的位置和朝向都<strong>用局部坐标表示</strong>：刚体相对于父刚体，geom、关节、site、相机和光源相对于包含它们的刚体。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#coordinate-frames">Google DeepMind, n.d., &quot;Coordinate frames&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Frame orientations</strong><br>坐标系朝向</td>
+<td>&quot;Specifying 3D positions is straightforward, but <strong>specifying 3D orientations can be challenging</strong>. This is why MJCF provides <strong>several alternative mechanisms</strong>.&quot;</td>
+<td>指定三维位置很简单，但<strong>指定三维朝向可能很困难</strong>。这就是为什么 MJCF 提供了<strong>几种可选的机制</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#frame-orientations">Google DeepMind, n.d., &quot;Frame orientations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Spatial frame</strong><br>空间坐标系</td>
+<td>&quot;A spatial frame is <strong>defined by its position and orientation</strong>.&quot;</td>
+<td>空间坐标系<strong>由它的位置和朝向定义</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#frame-orientations">Google DeepMind, n.d., &quot;Frame orientations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Solver parameters</strong><br>求解器参数</td>
+<td>&quot;The constraint solver <strong>finds forces that satisfy soft constraints, parameterized by three quantities</strong>&quot;</td>
+<td>约束求解器<strong>求出满足软约束的力，软约束由三个量参数化</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#solver-parameters">Google DeepMind, n.d., &quot;Solver parameters&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Impedance</strong><br>阻抗</td>
+<td>&quot;corresponds to <strong>a constraint’s ability to generate force</strong>&quot;</td>
+<td>对应于<strong>约束产生力的能力</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#impedance">Google DeepMind, n.d., &quot;Impedance&quot;, note</a></td>
+</tr>
+<tr>
+<td><strong>Reference</strong><br>参考加速度</td>
+<td>&quot;determines the <strong>motion that constraint is trying to achieve</strong> in order to rectify violation&quot;</td>
+<td>决定<strong>约束为纠正违反而试图实现的运动</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#reference">Google DeepMind, n.d., &quot;Reference&quot;, note</a></td>
+</tr>
+<tr>
+<td><strong>Time constant</strong><br>时间常数</td>
+<td>&quot;By “time constant” we mean <strong>the inverse of the natural frequency times the damping ratio</strong>.&quot;</td>
+<td>所谓“时间常数”，我们指的是<strong>固有频率与阻尼比乘积的倒数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#reference">Google DeepMind, n.d., &quot;Reference&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Friction</strong><br>摩擦</td>
+<td>&quot;Friction loss constraints (in joints and tendons) and friction dimensions of elliptic contact cones <strong>have zero position violation</strong>&quot;</td>
+<td>摩擦损失约束（关节和肌腱中的）和椭圆接触锥的摩擦维度<strong>位置违反为零</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#friction">Google DeepMind, n.d., &quot;Friction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contact parameters</strong><br>接触参数</td>
+<td>(context) &quot;In that case <strong>we use the geom attributes solmix and priority to decide how to combine them</strong>.&quot;</td>
+<td>（语境）此时<strong>我们用 geom 属性 solmix 和 priority 决定如何组合它们</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#contact-parameters">Google DeepMind, n.d., &quot;Contact parameters&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contact override</strong><br>接触覆盖</td>
+<td>&quot;In order to facilitate this process, we provide <strong>a mechanism to override some of the solver parameters, without making changes to the actual model</strong>.&quot;</td>
+<td>为了方便这个过程，我们提供了<strong>一种覆盖部分求解器参数的机制，而无需修改实际模型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#contact-override">Google DeepMind, n.d., &quot;Contact override&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>User parameters</strong><br>用户参数</td>
+<td>&quot;A number of MJCF elements have the optional attribute user, which defines <strong>a custom element-specific parameter array</strong>.&quot;</td>
+<td>许多 MJCF 元素有可选属性 user，它定义<strong>一个元素专属的自定义参数数组</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#user-parameters">Google DeepMind, n.d., &quot;User parameters&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Solver settings</strong><br>求解器设置</td>
+<td>&quot;MuJoCo has <strong>three algorithms for solving this optimization problem: Newton, CG, PGS</strong>.&quot;</td>
+<td>MuJoCo 有<strong>三种求解这个优化问题的算法：Newton、CG、PGS</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#solver-settings">Google DeepMind, n.d., &quot;Solver settings&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Actuators</strong><br>驱动器</td>
+<td>(context) &quot;This section describes <strong>various aspects of using actuators in MuJoCo</strong>.&quot;</td>
+<td>（语境）本节介绍<strong>在 MuJoCo 中使用驱动器的各个方面</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#actuators">Google DeepMind, n.d., &quot;Actuators&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Group disable</strong><br>分组禁用</td>
+<td>&quot;The actuatorgroupdisable attribute, which can be changed at runtime by setting the mjOption.disableactuator integer bitfield, allows the user <strong>to disable sets of actuators according to their group</strong>.&quot;</td>
+<td>actuatorgroupdisable 属性可以在运行时通过设置 mjOption.disableactuator 整数位域来改变，它让用户<strong>按分组禁用若干组驱动器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#group-disable">Google DeepMind, n.d., &quot;Group disable&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Shortcuts</strong><br>快捷方式</td>
+<td>&quot;In addition, MJCF provides <strong>shortcuts for configuring common actuators</strong>.&quot;</td>
+<td>此外，MJCF 提供了<strong>用于配置常见驱动器的快捷方式</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#shortcuts">Google DeepMind, n.d., &quot;Shortcuts&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Force limits</strong><br>力限制</td>
+<td>&quot;Actuator forces are usually <strong>limited between lower and upper bounds</strong>.&quot;</td>
+<td>驱动器的力通常<strong>被限制在下界和上界之间</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#force-limits">Google DeepMind, n.d., &quot;Force limits&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Control clamping with ctrlrange</strong><br>用 ctrlrange 截断控制量</td>
+<td>&quot;If this actuator attribute is set, <strong>the input control value will be clamped</strong>.&quot;</td>
+<td>如果设置了这个驱动器属性，<strong>输入的控制值会被截断</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#force-limits">Google DeepMind, n.d., &quot;Force limits&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Force clamping at actuator output with forcerange</strong><br>用 forcerange 在驱动器输出端截断力</td>
+<td>&quot;If this actuator attribute is set, <strong>the actuator’s output force will be clamped</strong>.&quot;</td>
+<td>如果设置了这个驱动器属性，<strong>驱动器的输出力会被截断</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#force-limits">Google DeepMind, n.d., &quot;Force limits&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Force clamping at joint input with joint/actuatorfrcrange</strong><br>用 joint/actuatorfrcrange 在关节输入端截断力</td>
+<td>&quot;This joint attribute <strong>clamps input forces from all actuators acting on the joint, after passing through the transmission</strong>.&quot;</td>
+<td>这个关节属性<strong>在经过传动之后，截断所有作用在该关节上的驱动器输入力</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#force-limits">Google DeepMind, n.d., &quot;Force limits&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Force clamping at tendon input with tendon/actuatorfrcrange</strong><br>用 tendon/actuatorfrcrange 在肌腱输入端截断力</td>
+<td>&quot;This tendon attribute <strong>clamps input forces from all actuators acting on the tendon</strong>.&quot;</td>
+<td>这个肌腱属性<strong>截断所有作用在该肌腱上的驱动器输入力</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#force-limits">Google DeepMind, n.d., &quot;Force limits&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Length range</strong><br>长度范围</td>
+<td>&quot;The field mjModel.actuator_lengthrange contains <strong>the range of feasible actuator lengths</strong> (or more precisely, lengths of the actuator’s transmission).&quot;</td>
+<td>字段 mjModel.actuator_lengthrange 包含<strong>驱动器可行长度的范围</strong>（更准确地说，是驱动器传动的长度）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#length-range">Google DeepMind, n.d., &quot;Length range&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Stateful actuators</strong><br>有状态驱动器</td>
+<td>&quot;As described in the Actuation model section of the Computation chapter, MuJoCo supports <strong>actuators with internal dynamics whose states are called “activations”</strong>.&quot;</td>
+<td>如计算一章的驱动模型一节所述，MuJoCo 支持<strong>具有内部动力学的驱动器，其状态称为“激活”</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#stateful-actuators">Google DeepMind, n.d., &quot;Stateful actuators&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Activation limits</strong><br>激活限制</td>
+<td>&quot;In the case of integrated-velocity actuators, <strong>it is often desirable to clamp the activation state</strong>, since otherwise the position target would keep integrating beyond the joint limits, leading to loss of controllabillity.&quot;</td>
+<td>对于积分速度驱动器，<strong>通常希望截断激活状态</strong>，否则位置目标会一直积分到超出关节限位，导致失去可控性。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#activation-limits">Google DeepMind, n.d., &quot;Activation limits&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Integrated-velocity actuator</strong><br>积分速度驱动器</td>
+<td>&quot;Different from the pure velocity actuators, which implement direct feedback on transmission target’s velocity, integrated-velocity actuators <strong>couple an integrator with a position-feedback actuator</strong>.&quot;</td>
+<td>与对传动目标速度直接反馈的纯速度驱动器不同，积分速度驱动器<strong>把一个积分器与一个位置反馈驱动器耦合起来</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#activation-limits">Google DeepMind, n.d., &quot;Activation limits&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Muscles</strong><br>肌肉</td>
+<td>&quot;We provide <strong>a set of tools for modeling biological muscles</strong>.&quot;</td>
+<td>我们提供了<strong>一套建模生物肌肉的工具</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#muscles">Google DeepMind, n.d., &quot;Muscles&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Muscle-tendon actuator</strong><br>肌肉-肌腱驱动器</td>
+<td>&quot;In biomechanics, <strong>a muscle and a tendon are attached in series and form a muscle-tendon actuator</strong>.&quot;</td>
+<td>在生物力学中，<strong>肌肉和肌腱串联连接，构成肌肉-肌腱驱动器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#muscles">Google DeepMind, n.d., &quot;Muscles&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Optimal resting length</strong><br>最优静息长度</td>
+<td>&quot;Another important constant is <strong>the optimal resting length of the muscle</strong>&quot;</td>
+<td>另一个重要常数是<strong>肌肉的最优静息长度</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#muscles">Google DeepMind, n.d., &quot;Muscles&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Force-Length-Velocity (FLV) function</strong><br>力-长度-速度（FLV）函数</td>
+<td>&quot;The behavior is captured by <strong>the Force-Length-Velocity</strong>&quot;</td>
+<td>这种行为由<strong>力-长度-速度</strong>函数刻画</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#muscles">Google DeepMind, n.d., &quot;Muscles&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Muscle activation</strong><br>肌肉激活</td>
+<td>&quot;Coming back to our muscle model, there is the muscle activation act. This is <strong>the state of a first-order nonlinear filter whose input is the control signal</strong>.&quot;</td>
+<td>回到我们的肌肉模型，还有肌肉激活 act。它是<strong>一个以控制信号为输入的一阶非线性滤波器的状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#muscles">Google DeepMind, n.d., &quot;Muscles&quot;, para. 13</a></td>
+</tr>
+<tr>
+<td><strong>Pennation angle</strong><br>羽状角</td>
+<td>&quot;Pennation angle (<strong>i.e., the angle between the muscle and the line of force</strong>) is not modeled in MuJoCo and is assumed to be 0.&quot;</td>
+<td>羽状角（<strong>即肌肉与力作用线之间的夹角</strong>）在 MuJoCo 中不建模，假定为 0。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#muscles">Google DeepMind, n.d., &quot;Muscles&quot;, Relation to OpenSim, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Inverse wrap</strong><br>反向缠绕</td>
+<td>&quot;We also allow “side sites” to be placed inside the sphere or cylinder, which causes an inverse wrap: <strong>the tendon path is constrained to pass through the object instead of going around it</strong>.&quot;</td>
+<td>我们还允许把“侧 site”放在球体或圆柱体内部，这会造成反向缠绕：<strong>肌腱路径被约束为穿过物体，而不是绕过它</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#muscles">Google DeepMind, n.d., &quot;Muscles&quot;, Relation to OpenSim, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Sensors</strong><br>传感器</td>
+<td>&quot;Sensors <strong>do not affect the simulation</strong>. Instead their outputs are copied in the array mjData.sensordata and are available for user processing.&quot;</td>
+<td>传感器<strong>不影响仿真</strong>。它们的输出被复制到数组 mjData.sensordata 中，供用户处理。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#sensors">Google DeepMind, n.d., &quot;Sensors&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Delays</strong><br>延迟</td>
+<td>&quot;Both actuators and sensors <strong>support time delays via a ring buffer that stores timestamped samples</strong>.&quot;</td>
+<td>驱动器和传感器都<strong>通过一个存储带时间戳样本的环形缓冲区支持时间延迟</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#delays">Google DeepMind, n.d., &quot;Delays&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sensor Modes</strong><br>传感器模式</td>
+<td>&quot;Sensors support both delay and interval/period attributes. <strong>The combination determines behavior</strong>:&quot;</td>
+<td>传感器同时支持 delay 和 interval/period 属性。<strong>二者的组合决定其行为</strong>：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#delays">Google DeepMind, n.d., &quot;Delays&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>History-only</strong><br>仅历史</td>
+<td>&quot;History-only: <strong>computed every step, written to sensordata , pushed into history buffer</strong>&quot;</td>
+<td>仅历史：<strong>每步计算，写入 sensordata，推入历史缓冲区</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#delays">Google DeepMind, n.d., &quot;Delays&quot;, table, row 1</a></td>
+</tr>
+<tr>
+<td><strong>Delayed</strong><br>延迟</td>
+<td>&quot;Delayed: <strong>computed every step, sensordata contains delayed reading (read from buffer)</strong>&quot;</td>
+<td>延迟：<strong>每步计算，sensordata 包含延迟读数（从缓冲区读取）</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#delays">Google DeepMind, n.d., &quot;Delays&quot;, table, row 2</a></td>
+</tr>
+<tr>
+<td><strong>Periodic</strong><br>周期</td>
+<td>&quot;Periodic: <strong>computed on period, sensordata contains last computed value (no delay)</strong>&quot;</td>
+<td>周期：<strong>按周期计算，sensordata 包含最近一次计算的值（无延迟）</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#delays">Google DeepMind, n.d., &quot;Delays&quot;, table, row 3</a></td>
+</tr>
+<tr>
+<td><strong>Periodic + Delayed</strong><br>周期 + 延迟</td>
+<td>&quot;Periodic + Delayed: <strong>computed on period, sensordata contains delayed reading (read from buffer)</strong>&quot;</td>
+<td>周期 + 延迟：<strong>按周期计算，sensordata 包含延迟读数（从缓冲区读取）</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#delays">Google DeepMind, n.d., &quot;Delays&quot;, table, row 4</a></td>
+</tr>
+<tr>
+<td><strong>Initialization</strong><br>初始化</td>
+<td>(context) &quot;<strong>History buffers are initialized by mj_resetData</strong> as follows:&quot;</td>
+<td>（语境）<strong>历史缓冲区由 mj_resetData 初始化</strong>，方式如下：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#delays">Google DeepMind, n.d., &quot;Delays&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Causality and interpolation</strong><br>因果性与插值</td>
+<td>(context) &quot;The most common positive delay value is delay = timestep * nsample, which implements <strong>a simple history buffer, with no causality issues</strong>.&quot;</td>
+<td>（语境）最常见的正延迟值是 delay = timestep * nsample，它实现<strong>一个简单的历史缓冲区，不存在因果性问题</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#delays">Google DeepMind, n.d., &quot;Delays&quot;, para. 8</a></td>
+</tr>
+<tr>
+<td><strong>Cameras</strong><br>相机</td>
+<td>&quot;Besides the default, user-controllable, free camera, <strong>“fixed” cameras can be attached to the kinematic tree</strong>.&quot;</td>
+<td>除了默认的、用户可控的自由相机之外，<strong>还可以把“固定”相机附着到运动学树上</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#cameras">Google DeepMind, n.d., &quot;Cameras&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Extrinsics</strong><br>外参</td>
+<td>&quot;By default, <strong>camera frames are attached to the containing body</strong>.&quot;</td>
+<td>默认情况下，<strong>相机坐标系附着在包含它的刚体上</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#cameras">Google DeepMind, n.d., &quot;Cameras&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Projection</strong><br>投影</td>
+<td>&quot;Cameras use <strong>perspective projection by default</strong>. Setting projection to orthographic switches to <strong>an orthographic projection</strong>, where the fovy attribute is interpreted as the vertical extent in length units rather than degrees.&quot;</td>
+<td>相机<strong>默认使用透视投影</strong>。把 projection 设为 orthographic 会切换到<strong>正交投影</strong>，此时 fovy 属性被解释为以长度单位表示的垂直范围，而不是角度。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#cameras">Google DeepMind, n.d., &quot;Cameras&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Intrinsics</strong><br>内参</td>
+<td>&quot;Camera intrinsics are <strong>specified using ipd (inter-pupilary distance, required for stereoscopic rendering and VR) and fovy (vertical field of view, in degrees)</strong>.&quot;</td>
+<td>相机内参<strong>用 ipd（瞳距，立体渲染和 VR 需要）和 fovy（垂直视场角，以度为单位）指定</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#cameras">Google DeepMind, n.d., &quot;Cameras&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Composite objects</strong><br>复合物体</td>
+<td>&quot;Composite objects are <strong>collections of existing elements originally designed to simulate particle systems, ropes, cloth, and soft bodies</strong>.&quot;</td>
+<td>复合物体是<strong>现有元素的集合，最初设计用来仿真粒子系统、绳索、布料和软体</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#composite-objects">Google DeepMind, n.d., &quot;Composite objects&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Element bodies</strong><br>单元刚体</td>
+<td>&quot;Composite objects are made up of regular MuJoCo bodies, <strong>which we call “element bodies” in this context</strong>.&quot;</td>
+<td>复合物体由常规的 MuJoCo 刚体组成，<strong>在这里我们称之为“单元刚体”</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#composite-objects">Google DeepMind, n.d., &quot;Composite objects&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Cable</strong><br>缆绳</td>
+<td>&quot;The cable <strong>simulates an inextensible elastic 1D object having twist and bending stiffness</strong>.&quot;</td>
+<td>缆绳<strong>仿真一个具有扭转刚度和弯曲刚度、不可伸长的一维弹性物体</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#composite-objects">Google DeepMind, n.d., &quot;Composite objects&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Deformable objects</strong><br>可变形物体</td>
+<td>&quot;In MuJoCo 3.0 we have introduced <strong>true deformable objects involving new model elements</strong>.&quot;</td>
+<td>在 MuJoCo 3.0 中，我们引入了<strong>涉及新模型元素的真正可变形物体</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Flex</strong><br>柔性体</td>
+<td>&quot;A flex is <strong>a collection of MuJoCo bodies that are connected with massless stretchable elements</strong>.&quot;</td>
+<td>flex 是<strong>一组由无质量可拉伸单元连接起来的 MuJoCo 刚体</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>flexcomp</strong><br>flexcomp 元素</td>
+<td>&quot;To aid with modeling, we have further introduced the element flexcomp which <strong>automates the creation of the low-level flex</strong>, similar to how composite automates the creation of (collections of) MuJoCo objects needed to emulate a soft body.&quot;</td>
+<td>为了辅助建模，我们进一步引入了元素 flexcomp，它<strong>自动创建低层的 flex</strong>，类似于 composite 自动创建模拟软体所需的（一组）MuJoCo 对象。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Rigid flex</strong><br>刚性柔性体</td>
+<td>&quot;It is also possible to create a rigid flex, <strong>by assigning all vertices to the same body</strong>.&quot;</td>
+<td>也可以创建刚性 flex，<strong>方法是把所有顶点都分配给同一个刚体</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Deformation model</strong><br>变形模型</td>
+<td>&quot;Instead, the design philosophy is to use a single set of parameters and provide <strong>two modeling choices</strong>: a new (soft) equality constraint type that applies to all edges of a given flex, which permits large time steps, or a discretized continuum representation, where each element is in a constant stress state, which is equivalent to piecewise linear finite elements and achieves improved realism and accuracy.&quot;</td>
+<td>设计思路是使用同一组参数，并提供<strong>两种建模选择</strong>：一种新的（软）等式约束类型，作用于给定 flex 的所有边，允许较大的时间步；或一种离散化的连续体表示，其中每个单元处于常应力状态，等价于分段线性有限元，可以提高真实性和精度。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Edge-based model</strong><br>基于边的模型</td>
+<td>&quot;The edge-based model could be seen as <strong>a “lumped” stiffness model, where the correct coupling of deformation modes (e.g. shear and volumetric) is averaged in a single quantity</strong>.&quot;</td>
+<td>基于边的模型可以看作<strong>一种“集总”刚度模型，变形模式（例如剪切和体积）之间的正确耦合被平均为单个量</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Continuum model</strong><br>连续体模型</td>
+<td>&quot;The continuum model enables instead <strong>to specify shear and volumetric stiffnesses separately</strong> using the Poisson’s ratio of the material.&quot;</td>
+<td>连续体模型则可以利用材料的泊松比<strong>分别指定剪切刚度和体积刚度</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Parametrization types</strong><br>参数化类型</td>
+<td>&quot;While the default behavior of flexcomp produces a “full” flex where every node corresponds to a MuJoCo body, it also supports <strong>specialized parametrizations for volumetric objects</strong>: trilinear and quadratic.&quot;</td>
+<td>flexcomp 的默认行为生成“完全”flex，其中每个节点对应一个 MuJoCo 刚体，但它也支持<strong>针对体积物体的专门参数化</strong>：三线性和二次。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Full flex</strong><br>完全柔性体</td>
+<td>&quot;While the default behavior of flexcomp produces <strong>a “full” flex where every node corresponds to a MuJoCo body</strong>, it also supports specialized parametrizations for volumetric objects: trilinear and quadratic.&quot;</td>
+<td>flexcomp 的默认行为生成<strong>每个节点都对应一个 MuJoCo 刚体的“完全”flex</strong>，但它也支持针对体积物体的专门参数化：三线性和二次。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Trilinear</strong><br>三线性</td>
+<td>&quot;Trilinear flexes <strong>use 8-node hexahedral cells with linear interpolation along each axis</strong>, while quadratic flexes use 27-node cells with quadratic interpolation, allowing for curved deformation modes.&quot;</td>
+<td>三线性 flex <strong>使用 8 节点六面体单元，沿每个轴线性插值</strong>，而二次 flex 使用 27 节点单元和二次插值，允许弯曲的变形模式。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Quadratic</strong><br>二次</td>
+<td>&quot;Trilinear flexes use 8-node hexahedral cells with linear interpolation along each axis, while quadratic flexes <strong>use 27-node cells with quadratic interpolation, allowing for curved deformation modes</strong>.&quot;</td>
+<td>三线性 flex 使用 8 节点六面体单元，沿每个轴线性插值，而二次 flex <strong>使用 27 节点单元和二次插值，允许弯曲的变形模式</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#deformable-objects">Google DeepMind, n.d., &quot;Deformable objects&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Including files</strong><br>包含文件</td>
+<td>&quot;MJCF files <strong>can include other XML files using the include element</strong>.&quot;</td>
+<td>MJCF 文件<strong>可以用 include 元素包含其他 XML 文件</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#including-files">Google DeepMind, n.d., &quot;Including files&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Naming elements</strong><br>元素命名</td>
+<td>&quot;Most model elements in MJCF <strong>can have names</strong>. They are defined with the attribute name of the corresponding XML element. When a given model element is named, <strong>its name must be unique among all elements of the same type</strong>.&quot;</td>
+<td>MJCF 中的大多数模型元素<strong>都可以有名称</strong>。名称用相应 XML 元素的 name 属性定义。当某个模型元素有名称时，<strong>它的名称必须在同类型的所有元素中唯一</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#naming-elements">Google DeepMind, n.d., &quot;Naming elements&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>URDF extensions</strong><br>URDF 扩展</td>
+<td>&quot;In addition to standard URDF files, MuJoCo can load files that have <strong>a custom (from the viewpoint of URDF) mujoco element as a child of the top-level element robot</strong>.&quot;</td>
+<td>除了标准 URDF 文件，MuJoCo 还能加载这样的文件：<strong>它有一个（从 URDF 的角度看是自定义的）mujoco 元素，作为顶层元素 robot 的子元素</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#urdf-extensions">Google DeepMind, n.d., &quot;URDF extensions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Unified Robot Description Format (URDF)</strong><br>统一机器人描述格式（URDF）</td>
+<td>&quot;The Unified Robot Description Format (URDF) is <strong>a popular XML file format in which many existing robots have been modeled</strong>.&quot;</td>
+<td>统一机器人描述格式（URDF）是<strong>一种流行的 XML 文件格式，许多现有机器人都用它建模</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#urdf-extensions">Google DeepMind, n.d., &quot;URDF extensions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>MoCap bodies</strong><br>动作捕捉刚体</td>
+<td>&quot;mocap bodies are <strong>static children of the world (i.e., have no joints) and their mocap attribute is set to “true”</strong>.&quot;</td>
+<td>mocap 刚体是<strong>世界的静态子刚体（即没有关节），并且其 mocap 属性设为“true”</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#mocap-bodies">Google DeepMind, n.d., &quot;MoCap bodies&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Weld group</strong><br>焊接组</td>
+<td>&quot;Mocap bodies and their dof-less descendants <strong>form their own weld group, rooted at the mocap body</strong>&quot;</td>
+<td>mocap 刚体及其无自由度的后代<strong>构成自己的焊接组，以该 mocap 刚体为根</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#mocap-bodies">Google DeepMind, n.d., &quot;MoCap bodies&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Memory allocation</strong><br>内存分配</td>
+<td>&quot;MuJoCo <strong>preallocates all the memory needed at runtime in mjData, and does not access the heap allocator after model creation</strong>.&quot;</td>
+<td>MuJoCo <strong>在 mjData 中预先分配运行时所需的全部内存，模型创建之后不再访问堆分配器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#memory-allocation">Google DeepMind, n.d., &quot;Memory allocation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Assets by reference</strong><br>按引用的资源</td>
+<td>&quot;An asset in mjModel is embedded when its payload is in the model buffer, which is the default, or <strong>by reference when the model holds a resolved path and the parameters a consumer needs to load it, and no payload</strong>.&quot;</td>
+<td>mjModel 中的资源，如果其载荷在模型缓冲区中，就是嵌入的，这是默认情况；<strong>如果模型持有一个已解析的路径和使用方加载它所需的参数，而没有载荷，就是按引用的</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#assets-by-reference">Google DeepMind, n.d., &quot;Assets by reference&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Embedded</strong><br>嵌入</td>
+<td>&quot;An asset in mjModel is <strong>embedded when its payload is in the model buffer</strong>, which is the default, or by reference when the model holds a resolved path and the parameters a consumer needs to load it, and no payload.&quot;</td>
+<td>mjModel 中的资源，<strong>如果其载荷在模型缓冲区中，就是嵌入的</strong>，这是默认情况；如果模型持有一个已解析的路径和使用方加载它所需的参数，而没有载荷，就是按引用的。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/modeling.html#assets-by-reference">Google DeepMind, n.d., &quot;Assets by reference&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Modeling</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/modeling.html">https://mujoco.readthedocs.io/en/stable/modeling.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

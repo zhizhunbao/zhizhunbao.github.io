@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>3.8 Logger | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Stable-Baselines3, 3.8 Logger: Explanation of logger output, CSVOutputFormat, Figure, FormatUnsupportedError, HParam, HumanOutputFormat, Image, JSONOutputFormat, KVWriter, Logger, SeqWriter, TensorBoardOutputFormat, Video.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="38-logger">3.8 Logger</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/logger.png" alt="3.8 Logger: its parts from the official menu, each with the entries the menu lists under it, in Stable-Baselines3."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>3.8 Logger</strong><br>日志记录器</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#logger">Raffin et al., n.d., &quot;Logger&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Explanation of logger output</strong><br>日志输出说明</td>
+<td>(context) &quot;You can find below <strong>short explanations of the values logged in Stable-Baselines3 (SB3)</strong>.&quot;</td>
+<td>（语境）下面给出了<strong>对 Stable-Baselines3（SB3）所记录数值的简短说明</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#explanation-of-logger-output">Raffin et al., n.d., &quot;Explanation of logger output&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>eval/</strong><br>eval/ 评估</td>
+<td>(context) &quot;<strong>All eval/ values are computed by the EvalCallback</strong>.&quot;</td>
+<td>（语境）<strong>所有 eval/ 数值都由 EvalCallback 计算</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#eval">Raffin et al., n.d., &quot;eval/&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>rollout/</strong><br>rollout/ 采集</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#rollout">Raffin et al., n.d., &quot;rollout/&quot;</a></td>
+</tr>
+<tr>
+<td><strong>time/</strong><br>time/ 时间</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#time">Raffin et al., n.d., &quot;time/&quot;</a></td>
+</tr>
+<tr>
+<td><strong>train/</strong><br>train/ 训练</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#train">Raffin et al., n.d., &quot;train/&quot;</a></td>
+</tr>
+<tr>
+<td><strong>CSVOutputFormat</strong><br>CSVOutputFormat CSV 输出格式</td>
+<td>&quot;<strong>Log to a file, in a CSV format</strong>&quot;</td>
+<td><strong>以 CSV 格式记录到文件</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.CSVOutputFormat">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>CSVOutputFormat.close</strong><br>close 方法</td>
+<td>&quot;<strong>closes the file</strong>&quot;</td>
+<td><strong>关闭文件</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.CSVOutputFormat.close">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Figure</strong><br>Figure 图表数据类</td>
+<td>&quot;<strong>Figure data class storing a matplotlib figure and whether to close the figure after logging it</strong>&quot;</td>
+<td><strong>保存 matplotlib 图表以及记录后是否关闭该图表的图表数据类</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Figure">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>FormatUnsupportedError</strong><br>FormatUnsupportedError 格式不支持错误</td>
+<td>&quot;<strong>Custom error to display informative message when a value is not supported by some formats</strong>.&quot;</td>
+<td><strong>当某个值不被某些格式支持时，用于显示提示信息的自定义错误</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.FormatUnsupportedError">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>HParam</strong><br>HParam 超参数数据类</td>
+<td>&quot;<strong>Hyperparameter data class storing hyperparameters and metrics in dictionaries</strong>&quot;</td>
+<td><strong>用字典保存超参数和指标的超参数数据类</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.HParam">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>HumanOutputFormat</strong><br>HumanOutputFormat 人类可读输出格式</td>
+<td>&quot;<strong>A human-readable output format producing ASCII tables of key-value pairs</strong>.&quot;</td>
+<td><strong>一种人类可读的输出格式，生成键值对的 ASCII 表格</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.HumanOutputFormat">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Image</strong><br>Image 图像数据类</td>
+<td>&quot;<strong>Image data class storing an image and data format</strong>&quot;</td>
+<td><strong>保存图像及其数据格式的图像数据类</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Image">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>JSONOutputFormat</strong><br>JSONOutputFormat JSON 输出格式</td>
+<td>&quot;<strong>Log to a file, in the JSON format</strong>&quot;</td>
+<td><strong>以 JSON 格式记录到文件</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.JSONOutputFormat">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>KVWriter</strong><br>KVWriter 键值写入器</td>
+<td>&quot;<strong>Key Value writer</strong>&quot;</td>
+<td><strong>键值写入器</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.KVWriter">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>KVWriter.close</strong><br>close 方法</td>
+<td>&quot;<strong>Close owned resources</strong>&quot;</td>
+<td><strong>关闭所拥有的资源</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.KVWriter.close">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>KVWriter.write</strong><br>write 方法</td>
+<td>&quot;<strong>Write a dictionary to file</strong>&quot;</td>
+<td><strong>把字典写入文件</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.KVWriter.write">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger</strong><br>Logger 日志记录器</td>
+<td>&quot;<strong>The logger class</strong>.&quot;</td>
+<td><strong>日志记录器类</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.close</strong><br>close 方法</td>
+<td>&quot;<strong>closes the file</strong>&quot;</td>
+<td><strong>关闭文件</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.close">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.debug</strong><br>debug 方法</td>
+<td>&quot;Write the sequence of args, with no separators, to the console and output files (if you’ve configured an output file). <strong>Using the DEBUG level</strong>.&quot;</td>
+<td>把参数序列不加分隔符地写到控制台和输出文件（如果你配置了输出文件）。<strong>使用 DEBUG 级别</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.debug">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.dump</strong><br>dump 方法</td>
+<td>&quot;<strong>Write all of the diagnostics from the current iteration</strong>&quot;</td>
+<td><strong>写出当前迭代的全部诊断信息</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.dump">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.error</strong><br>error 方法</td>
+<td>&quot;Write the sequence of args, with no separators, to the console and output files (if you’ve configured an output file). <strong>Using the ERROR level</strong>.&quot;</td>
+<td>把参数序列不加分隔符地写到控制台和输出文件（如果你配置了输出文件）。<strong>使用 ERROR 级别</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.error">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.get_dir</strong><br>get_dir 方法</td>
+<td>&quot;<strong>Get directory that log files are being written to</strong>.&quot;</td>
+<td><strong>得到日志文件正在写入的目录</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.get_dir">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.info</strong><br>info 方法</td>
+<td>&quot;Write the sequence of args, with no separators, to the console and output files (if you’ve configured an output file). <strong>Using the INFO level</strong>.&quot;</td>
+<td>把参数序列不加分隔符地写到控制台和输出文件（如果你配置了输出文件）。<strong>使用 INFO 级别</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.info">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.log</strong><br>log 方法</td>
+<td>&quot;<strong>Write the sequence of args, with no separators, to the console and output files</strong> (if you’ve configured an output file).&quot;</td>
+<td><strong>把参数序列不加分隔符地写到控制台和输出文件</strong>（如果你配置了输出文件）。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.log">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.record</strong><br>record 方法</td>
+<td>&quot;<strong>Log a value of some diagnostic</strong> Call this once for each diagnostic quantity, each iteration If called many times, last value will be used.&quot;</td>
+<td><strong>记录某个诊断量的值</strong> 每次迭代对每个诊断量调用一次；如果调用多次，将使用最后一个值。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.record">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.record_mean</strong><br>record_mean 方法</td>
+<td>&quot;<strong>The same as record(), but if called many times, values averaged</strong>.&quot;</td>
+<td><strong>与 record() 相同，但如果调用多次，则取各值的平均</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.record_mean">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.set_level</strong><br>set_level 方法</td>
+<td>&quot;<strong>Set logging threshold on current logger</strong>.&quot;</td>
+<td><strong>设置当前日志记录器的日志阈值</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.set_level">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.to_tuple</strong><br>to_tuple 方法</td>
+<td>&quot;<strong>Helper function to convert str to tuple of str</strong>.&quot;</td>
+<td><strong>把 str 转换为 str 元组的辅助函数</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.to_tuple">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logger.warn</strong><br>warn 方法</td>
+<td>&quot;Write the sequence of args, with no separators, to the console and output files (if you’ve configured an output file). <strong>Using the WARN level</strong>.&quot;</td>
+<td>把参数序列不加分隔符地写到控制台和输出文件（如果你配置了输出文件）。<strong>使用 WARN 级别</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Logger.warn">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SeqWriter</strong><br>SeqWriter 序列写入器</td>
+<td>&quot;<strong>sequence writer</strong>&quot;</td>
+<td><strong>序列写入器</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.SeqWriter">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SeqWriter.write_sequence</strong><br>write_sequence 方法</td>
+<td>&quot;<strong>write_sequence an array to file</strong>&quot;</td>
+<td><strong>把一个数组按序列写入文件</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.SeqWriter.write_sequence">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>TensorBoardOutputFormat</strong><br>TensorBoardOutputFormat TensorBoard 输出格式</td>
+<td>&quot;<strong>Dumps key/value pairs into TensorBoard’s numeric format</strong>.&quot;</td>
+<td><strong>把键值对输出为 TensorBoard 的数值格式</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.TensorBoardOutputFormat">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Video</strong><br>Video 视频数据类</td>
+<td>&quot;<strong>Video data class storing the video frames and the frame per seconds</strong>&quot;</td>
+<td><strong>保存视频帧和每秒帧数的视频数据类</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html#stable_baselines3.common.logger.Video">Raffin et al., n.d., &quot;Logger&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Raffin, A., Hill, A., Gleave, A., Kanervisto, A., Ernestus, M., &amp; Dormann, N.. (n.d.). <em>Logger</em>. Stable-Baselines3 docs (Version 2.9.2a0). Retrieved October 31, 2026, from <a href="https://stable-baselines3.readthedocs.io/en/master/common/logger.html">https://stable-baselines3.readthedocs.io/en/master/common/logger.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

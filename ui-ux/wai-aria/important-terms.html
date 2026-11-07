@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2. Important Terms | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="WAI-ARIA 1.2, 2. Important Terms: the 49 terms the specification defines for the whole document.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Home">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2-important-terms">2. Important Terms</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2. Important Terms</strong><br>重要术语</td>
+<td>(context) &quot;While some terms are defined in place, the following <strong>definitions</strong> are <strong>used throughout this document</strong>.&quot;</td>
+<td>（语境）虽然有些术语就地定义，但下列<strong>定义</strong>，<strong>在整份文档中通用</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Accessibility API</strong><br>无障碍 API</td>
+<td>&quot;Operating systems and other platforms provide a <strong>set of interfaces</strong> that <strong>expose information about objects and events</strong> to assistive technologies.&quot;</td>
+<td>操作系统和其他平台提供一组<strong>接口</strong>，它们向辅助技术<strong>公开对象和事件的信息</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Accessibility Subtree</strong><br>无障碍子树</td>
+<td>&quot;An <strong>accessible object</strong> in the accessibility tree and <strong>its descendants</strong> in that tree.&quot;</td>
+<td>无障碍树中的一个<strong>可访问对象</strong>，以及它在该树中的<strong>后代</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Accessibility Tree</strong><br>无障碍树</td>
+<td>&quot;<strong>Tree of accessible objects</strong> that <strong>represents the structure of the user interface</strong> (UI).&quot;</td>
+<td><strong>由可访问对象组成的树</strong>，它<strong>表示用户界面（UI）的结构</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Accessible Description</strong><br>可访问描述</td>
+<td>&quot;An accessible description provides <strong>additional information</strong>, related to an interface element, that <strong>complements the accessible name</strong>.&quot;</td>
+<td>可访问描述提供与界面元素相关的<strong>附加信息</strong>，用来<strong>补充可访问名称</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Accessible Name</strong><br>可访问名称</td>
+<td>&quot;The accessible name is the <strong>name of a user interface element</strong>.&quot;</td>
+<td>可访问名称是<strong>用户界面元素的名称</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Accessible object</strong><br>可访问对象</td>
+<td>&quot;A <strong>node in the accessibility tree</strong> of a platform accessibility API.&quot;</td>
+<td>平台无障碍 API 的<strong>无障碍树中的一个节点</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Activation behavior</strong><br>激活行为</td>
+<td>&quot;The <strong>action taken</strong> when an event, typically initiated by users through an input device, causes an element to <strong>fulfill a defined role</strong>.&quot;</td>
+<td>当一个事件（通常由用户通过输入设备发起）使元素<strong>履行既定角色</strong>时<strong>所采取的动作</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Assistive Technologies</strong><br>辅助技术</td>
+<td>&quot;Hardware and/or software that: <strong>relies on services provided by a user agent</strong> to retrieve and render Web content <strong>works with a user agent or web content itself</strong> through the use of APIs, and <strong>provides services beyond those offered by the user agent</strong> to facilitate user interaction with web content by people with disabilities&quot;</td>
+<td>满足以下条件的硬件和/或软件：<strong>依靠用户代理提供的服务</strong>来获取和呈现网络内容；通过 API <strong>与用户代理或网络内容本身协同工作</strong>；并<strong>提供用户代理之外的服务</strong>，以便利残障人士与网络内容交互</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Attribute</strong><br>属性（attribute）</td>
+<td>&quot;Attributes are <strong>structural features added to elements</strong> to provide <strong>information about the states and properties</strong> of the object represented by the element.&quot;</td>
+<td>属性是<strong>添加到元素上的结构特征</strong>，用来提供元素所代表对象的<strong>状态和属性信息</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Class</strong><br>类</td>
+<td>&quot;A <strong>set of instance objects</strong> that <strong>share similar characteristics</strong>.&quot;</td>
+<td>一组<strong>实例对象</strong>，它们<strong>具有相似的特征</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Deprecated</strong><br>已弃用</td>
+<td>&quot;A deprecated role, state, or property is one which has been <strong>outdated by newer constructs or changed circumstances</strong>, and which <strong>may be removed in future versions</strong> of the WAI-ARIA specification.&quot;</td>
+<td>已弃用的角色、状态或属性，是指<strong>因新结构或情况变化而过时</strong>，并<strong>可能在未来版本中移除</strong>的项，针对 WAI-ARIA 规范而言。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Desktop focus event</strong><br>桌面焦点事件</td>
+<td>&quot;Event from/to the host operating system via the accessibility API, <strong>notifying of a change of input focus</strong>.&quot;</td>
+<td>通过无障碍 API 来自或发往宿主操作系统的事件，<strong>通知输入焦点发生变化</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>DOMString</strong><br>DOM 字符串</td>
+<td>&quot;<strong>Sequence of 16-bit unsigned integers</strong>, typically interpreted as <strong>UTF-16 code units</strong>.&quot;</td>
+<td><strong>16 位无符号整数的序列</strong>，通常解释为 <strong>UTF-16 码元</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Element</strong><br>元素</td>
+<td>&quot;Elements are the <strong>structural elements in markup language</strong> that <strong>contains the data profile for objects</strong>.&quot;</td>
+<td>元素是<strong>标记语言中的结构元素</strong>，它<strong>包含对象的数据概况</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Event</strong><br>事件</td>
+<td>&quot;A <strong>programmatic message</strong> used to <strong>communicate discrete changes in the state of an object</strong> to other objects in a computational system.&quot;</td>
+<td>一种<strong>程序化消息</strong>，用来向计算系统中的其他对象<strong>传达对象状态的离散变化</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Expose</strong><br>公开</td>
+<td>&quot;<strong>Translated to platform-specific accessibility APIs</strong> as defined in the Core Accessibility API Mappings.&quot;</td>
+<td>按 Core Accessibility API Mappings 的定义，<strong>转换为特定平台的无障碍 API</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Graphical Document</strong><br>图形文档</td>
+<td>&quot;A document containing <strong>graphic representations</strong> with <strong>user-navigable parts</strong>.&quot;</td>
+<td>一种文档，包含带有<strong>用户可导航部分</strong>的<strong>图形表示</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Hidden</strong><br>隐藏</td>
+<td>&quot;Indicates that the element is <strong>not visible, perceivable, or interactive</strong> to any user.&quot;</td>
+<td>表示该元素对任何用户都<strong>不可见、不可感知、不可交互</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Informative</strong><br>信息性</td>
+<td>&quot;Content provided for <strong>information purposes</strong> and <strong>not required for conformance</strong>.&quot;</td>
+<td>为<strong>提供信息</strong>而给出、<strong>不是一致性所必需</strong>的内容。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Keyboard Accessible</strong><br>键盘可访问</td>
+<td>&quot;Accessible to the user using a <strong>keyboard</strong> or <strong>assistive technologies that mimic keyboard input</strong>, such as a sip and puff tube.&quot;</td>
+<td>用户可以通过<strong>键盘</strong>或<strong>模拟键盘输入的辅助技术</strong>（如吸吹管）访问。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Landmark</strong><br>地标</td>
+<td>&quot;A <strong>type of region on a page</strong> to which the user may want <strong>quick access</strong>.&quot;</td>
+<td><strong>页面上的一种区域</strong>，用户可能希望<strong>快速访问</strong>它。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Live Region</strong><br>实时区域</td>
+<td>&quot;Live regions are <strong>perceivable regions of a web page</strong> that are typically <strong>updated as a result of an external event</strong> when user focus may be elsewhere.&quot;</td>
+<td>实时区域是<strong>网页中可感知的区域</strong>，通常<strong>因外部事件而更新</strong>，此时用户焦点可能在别处。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Primary Content Element</strong><br>主要内容元素</td>
+<td>&quot;An implementing host language's <strong>primary content element</strong>, such as the <strong>body element in HTML</strong>.&quot;</td>
+<td>实现方宿主语言的<strong>主要内容元素</strong>，例如 <strong>HTML 中的 body 元素</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Managed State</strong><br>托管状态</td>
+<td>&quot;Accessibility API state that is <strong>controlled by the user agent</strong>, such as <strong>focus and selection</strong>.&quot;</td>
+<td><strong>由用户代理控制</strong>的无障碍 API 状态，例如<strong>焦点和选择</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Nemeth Braille</strong><br>Nemeth 盲文</td>
+<td>&quot;The Nemeth Braille Code for Mathematics is a <strong>braille code</strong> for encoding <strong>mathematical and scientific notation</strong>.&quot;</td>
+<td>Nemeth 数学盲文码是一种<strong>盲文编码</strong>，用来编码<strong>数学和科学记号</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Node</strong><br>节点</td>
+<td>&quot;<strong>Basic type of object</strong> in the <strong>DOM tree or accessibility tree</strong>.&quot;</td>
+<td><strong>DOM 树或无障碍树</strong>中<strong>对象的基本类型</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Normative</strong><br>规范性</td>
+<td>&quot;<strong>Required for conformance</strong>.&quot;</td>
+<td><strong>一致性所必需</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Object</strong><br>对象</td>
+<td>&quot;In the context of user interfaces, an <strong>item in the perceptual user experience</strong>, represented in markup languages by <strong>one or more elements</strong>, and <strong>rendered by user agents</strong>.&quot;</td>
+<td>在用户界面语境中，指<strong>感知性用户体验中的一项</strong>，在标记语言中由<strong>一个或多个元素</strong>表示，并<strong>由用户代理呈现</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Ontology</strong><br>本体</td>
+<td>&quot;A <strong>description of the characteristics of classes</strong> and <strong>how they relate to each other</strong>.&quot;</td>
+<td>对<strong>类的特征</strong>及其<strong>相互关系</strong>的描述。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Operable</strong><br>可操作</td>
+<td>&quot;<strong>Usable by users</strong> in ways <strong>they can control</strong>.&quot;</td>
+<td><strong>用户可以使用</strong>，方式是<strong>他们能够控制</strong>的。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Owned Element</strong><br>从属元素</td>
+<td>&quot;An 'owned element' is <strong>any DOM descendant of the element</strong>, <strong>any element specified as a child via aria-owns</strong>, or any DOM descendant of the owned child.&quot;</td>
+<td>“从属元素”是<strong>该元素的任何 DOM 后代</strong>、<strong>通过 aria-owns 指定为子元素的任何元素</strong>，或该从属子元素的任何 DOM 后代。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Owning Element</strong><br>拥有元素</td>
+<td>&quot;An 'owning element' is <strong>any DOM ancestor of the element</strong>, or <strong>any element with an aria-owns attribute</strong> which references the ID of the element.&quot;</td>
+<td>“拥有元素”是<strong>该元素的任何 DOM 祖先</strong>，或<strong>任何带 aria-owns 属性</strong>并引用该元素 ID 的元素。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Perceivable</strong><br>可感知</td>
+<td>&quot;<strong>Presentable to users</strong> in ways <strong>they can sense</strong>.&quot;</td>
+<td><strong>可以呈现给用户</strong>，方式是<strong>他们能够感知</strong>的。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Property</strong><br>属性（property）</td>
+<td>&quot;Attributes that are <strong>essential to the nature of a given object</strong>, or that <strong>represent a data value</strong> associated with the object.&quot;</td>
+<td><strong>对给定对象的性质至关重要</strong>，或<strong>表示与对象相关的数据值</strong>的属性（attribute）。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Relationship</strong><br>关系</td>
+<td>&quot;A <strong>connection between two distinct things</strong>.&quot;</td>
+<td><strong>两个不同事物之间的联系</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Role</strong><br>角色</td>
+<td>&quot;<strong>Main indicator of type</strong>.&quot;</td>
+<td><strong>类型的主要标识</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Root WAI-ARIA node</strong><br>WAI-ARIA 根节点</td>
+<td>&quot;The <strong>primary element</strong> containing <strong>non-metadata content</strong>.&quot;</td>
+<td>包含<strong>非元数据内容</strong>的<strong>主要元素</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Semantics</strong><br>语义</td>
+<td>&quot;The <strong>meaning of something as understood by a human</strong>, defined in a way that <strong>computers can process a representation of an object</strong>, such as elements and attributes, and reliably represent the object in a way that various humans will achieve a mutually consistent understanding of the object.&quot;</td>
+<td><strong>人所理解的事物含义</strong>，其定义方式使<strong>计算机能够处理对象的表示</strong>（如元素和属性），并可靠地表示该对象，让不同的人对它达成一致的理解。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>State</strong><br>状态</td>
+<td>&quot;A state is a <strong>dynamic property</strong> expressing characteristics of an object that <strong>may change in response to user action or automated processes</strong>.&quot;</td>
+<td>状态是一种<strong>动态属性</strong>，表达对象的特征，这些特征<strong>可能因用户操作或自动过程而改变</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Sub-document</strong><br>子文档</td>
+<td>&quot;A sub-document may contain <strong>a document, an application or any widget</strong> such as a calendar pulled in from another server.&quot;</td>
+<td>子文档可以包含<strong>一个文档、一个应用或任何控件</strong>，例如从另一台服务器拉取的日历。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Target Element</strong><br>目标元素</td>
+<td>&quot;An element <strong>specified in a WAI-ARIA relation</strong>.&quot;</td>
+<td><strong>在 WAI-ARIA 关系中指定</strong>的元素。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Taxonomy</strong><br>分类法</td>
+<td>&quot;A <strong>hierarchical definition</strong> of how the <strong>characteristics of various classes relate to each other</strong>, in which classes inherit the properties of superclasses in the hierarchy.&quot;</td>
+<td>一种<strong>层次化定义</strong>，说明<strong>各个类的特征如何相互关联</strong>，其中类继承层次结构中超类的属性。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Text node</strong><br>文本节点</td>
+<td>&quot;Type of DOM node that <strong>represents the textual content</strong> of an attribute or an element.&quot;</td>
+<td>一种 DOM 节点，<strong>表示属性或元素的文本内容</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Tooltip attribute</strong><br>工具提示属性</td>
+<td>&quot;Any <strong>host language attribute</strong> that would result in a user agent <strong>generating a tooltip</strong> such as in response to a mouse hover in desktop user agents.&quot;</td>
+<td>任何<strong>宿主语言属性</strong>，它会使用户代理<strong>生成工具提示</strong>，例如在桌面用户代理中响应鼠标悬停。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Understandable</strong><br>可理解</td>
+<td>&quot;<strong>Presentable to users</strong> in ways they can <strong>construct an appropriate meaning</strong>.&quot;</td>
+<td><strong>可以呈现给用户</strong>，方式使他们能够<strong>建立恰当的含义</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Unicode Braille Patterns</strong><br>Unicode 盲文图案</td>
+<td>&quot;In Unicode, braille is represented in a <strong>block called Braille Patterns</strong> (U+2800..U+28FF).&quot;</td>
+<td>在 Unicode 中，盲文由<strong>名为 Braille Patterns 的区块</strong>（U+2800..U+28FF）表示。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>User Agent</strong><br>用户代理</td>
+<td>&quot;Any software that <strong>retrieves, renders and facilitates end user interaction</strong> with Web content.&quot;</td>
+<td>任何<strong>获取、呈现网络内容并便利最终用户与之交互</strong>的软件。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Valid IDREF</strong><br>有效 IDREF</td>
+<td>&quot;A <strong>reference to a target element</strong> in the same document that has a <strong>matching ID</strong>&quot;</td>
+<td>对同一文档中<strong>具有匹配 ID</strong> 的<strong>目标元素的引用</strong></td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+<tr>
+<td><strong>Widget</strong><br>控件</td>
+<td>&quot;Discrete <strong>user interface object</strong> with which the user <strong>can interact</strong>.&quot;</td>
+<td>用户<strong>可以与之交互</strong>的独立<strong>用户界面对象</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 2</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>World Wide Web Consortium. (2023, June 6). <em>Accessible Rich Internet Applications (WAI-ARIA) 1.2</em> (W3C Recommendation). <a href="https://www.w3.org/TR/wai-aria-1.2/">https://www.w3.org/TR/wai-aria-1.2/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 11:46:57-05:00">11/03/2026 11:46:57</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

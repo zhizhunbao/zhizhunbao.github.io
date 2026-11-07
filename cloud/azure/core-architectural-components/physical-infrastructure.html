@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.1 Physical Infrastructure | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 2.1 Physical infrastructure: datacenters, availability zones, regions, region pairs, sovereign regions.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="21-physical-infrastructure">2.1 Physical Infrastructure</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/physical-infrastructure.png" alt="Physical infrastructure sorted into five groups: datacenters (servers arranged in racks, power, cooling, networking infrastructure), availability zones (zonal, zone-redundant and non-regional services), regions (low-latency network), region pairs (paired in two directions, paired in only one direction, data-residency) and sovereign regions (sovereignty, Azure Government, Microsoft Azure operated by 21Vianet, Microsoft Sovereign Cloud)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Physical infrastructure</strong><br>物理基础结构</td>
+<td>&quot;This unit covers the <strong>physical side</strong> — how Azure <strong>organizes its datacenters, regions, and availability zones</strong> to deliver <strong>reliable services worldwide</strong>.&quot;</td>
+<td>本单元介绍<strong>物理层面</strong>：Azure 如何<strong>组织其数据中心、区域和可用区</strong>，以在<strong>全球提供可靠的服务</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=This%20unit%20covers%20the%20physical%20side">Microsoft, n.d.-b, unit introduction, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Datacenters</strong><br>数据中心</td>
+<td>&quot;These datacenters are <strong>facilities with servers arranged in racks</strong>, with <strong>dedicated power, cooling, and networking infrastructure</strong> — similar to an on-premises datacenter, but at a <strong>much larger scale</strong>.&quot;</td>
+<td>这些数据中心是<strong>放置成排机架服务器的设施</strong>，配有<strong>专用的供电、冷却和网络基础结构</strong>，类似于本地数据中心，但<strong>规模大得多</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=These%20datacenters%20are%20facilities%20with%20servers%20arranged%20in%20racks">Microsoft, n.d.-b, &quot;Physical infrastructure&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Servers arranged in racks</strong><br>成排机架服务器</td>
+<td>(context) &quot;These datacenters are facilities with <strong>servers arranged in racks</strong>, with dedicated power, cooling, and networking infrastructure — similar to an on-premises datacenter, but at a much larger scale.&quot;</td>
+<td>（语境）这些数据中心是放置<strong>成排机架服务器</strong>的设施，配有专用的供电、冷却和网络基础结构，类似于本地数据中心，但规模大得多。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=These%20datacenters%20are%20facilities%20with%20servers%20arranged%20in%20racks">Microsoft, n.d.-b, &quot;Physical infrastructure&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Power</strong><br>供电</td>
+<td>(context) &quot;These datacenters are facilities with servers arranged in racks, with dedicated <strong>power</strong>, cooling, and networking infrastructure — similar to an on-premises datacenter, but at a much larger scale.&quot;</td>
+<td>（语境）这些数据中心是放置成排机架服务器的设施，配有专用的<strong>供电</strong>、冷却和网络基础结构，类似于本地数据中心，但规模大得多。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=These%20datacenters%20are%20facilities%20with%20servers%20arranged%20in%20racks">Microsoft, n.d.-b, &quot;Physical infrastructure&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cooling</strong><br>冷却</td>
+<td>(context) &quot;These datacenters are facilities with servers arranged in racks, with dedicated power, <strong>cooling</strong>, and networking infrastructure — similar to an on-premises datacenter, but at a much larger scale.&quot;</td>
+<td>（语境）这些数据中心是放置成排机架服务器的设施，配有专用的供电、<strong>冷却</strong>和网络基础结构，类似于本地数据中心，但规模大得多。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=These%20datacenters%20are%20facilities%20with%20servers%20arranged%20in%20racks">Microsoft, n.d.-b, &quot;Physical infrastructure&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Networking infrastructure</strong><br>网络基础结构</td>
+<td>(context) &quot;These datacenters are facilities with servers arranged in racks, with dedicated power, cooling, and <strong>networking infrastructure</strong> — similar to an on-premises datacenter, but at a much larger scale.&quot;</td>
+<td>（语境）这些数据中心是放置成排机架服务器的设施，配有专用的供电、冷却和<strong>网络基础结构</strong>，类似于本地数据中心，但规模大得多。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=These%20datacenters%20are%20facilities%20with%20servers%20arranged%20in%20racks">Microsoft, n.d.-b, &quot;Physical infrastructure&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Availability zones</strong><br>可用区</td>
+<td>&quot;Availability zones are <strong>physically separate datacenters</strong> within an <strong>Azure region</strong>.&quot;</td>
+<td>可用区是<strong>物理上分离的数据中心</strong>，位于 <strong>Azure 区域</strong>内。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=Availability%20zones%20are%20physically%20separate%20datacenters%20within%20an%20Azure%20region">Microsoft, n.d.-b, &quot;Availability Zones&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Zonal services</strong><br>可用区服务</td>
+<td>&quot;<strong>Zonal services</strong>: You <strong>pin the resource to a specific zone</strong> (for example, VMs, managed disks, IP addresses).&quot;</td>
+<td><strong>可用区服务</strong>：你把<strong>资源固定到特定的可用区</strong>（例如虚拟机、托管磁盘、IP 地址）。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=You%20pin%20the%20resource%20to%20a%20specific%20zone">Microsoft, n.d.-b, &quot;Use availability zones for your workloads&quot; section, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Zone-redundant services</strong><br>区域冗余服务</td>
+<td>&quot;<strong>Zone-redundant services</strong>: The platform <strong>replicates automatically across zones</strong> (for example, zone-redundant storage, SQL Database).&quot;</td>
+<td><strong>区域冗余服务</strong>：平台<strong>自动跨可用区复制</strong>（例如区域冗余存储、SQL 数据库）。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=The%20platform%20replicates%20automatically%20across%20zones">Microsoft, n.d.-b, &quot;Use availability zones for your workloads&quot; section, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>Non-regional services</strong><br>非区域服务</td>
+<td>&quot;<strong>Non-regional services</strong>: Services are <strong>always available from Azure geographies</strong> and are <strong>resilient to zone-wide outages as well as region-wide outages</strong>.&quot;</td>
+<td><strong>非区域服务</strong>：服务<strong>始终可从 Azure 地理位置获得</strong>，并且<strong>能承受整个可用区乃至整个区域的中断</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=Services%20are%20always%20available%20from%20Azure%20geographies">Microsoft, n.d.-b, &quot;Use availability zones for your workloads&quot; section, list item 3</a></td>
+</tr>
+<tr>
+<td><strong>Regions</strong><br>区域</td>
+<td>&quot;An Azure region consists of <strong>one or more datacenters</strong>, connected by a <strong>high-capacity, fault-tolerant, low-latency network connection</strong>.&quot;</td>
+<td>Azure 区域由<strong>一个或多个数据中心</strong>组成，这些数据中心通过<strong>高容量、容错、低延迟的网络连接</strong>互联。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/regions-overview#understand-azure-regions-and-geographies:%7E:text=An%20Azure%20region%20consists%20of%20one%20or%20more%20datacenters">Microsoft, 2026b, &quot;Understand Azure regions and geographies&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Low-latency network</strong><br>低延迟网络</td>
+<td>(context) &quot;A region is a geographical area on the planet that contains at least one, but potentially multiple datacenters that are nearby and networked together with a <strong>low-latency network</strong>.&quot;</td>
+<td>（语境）区域是地球上的一个地理区域，包含至少一个、也可能多个数据中心，它们彼此相邻，并通过<strong>低延迟网络</strong>互联。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=networked%20together%20with%20a%20low%2Dlatency%20network">Microsoft, n.d.-b, &quot;Regions&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Region pairs</strong><br>区域对</td>
+<td>&quot;Most Azure regions are <strong>paired with another region</strong> within the <strong>same geography</strong> (such as US, Europe, or Asia) <strong>at least 300 miles away</strong>.&quot;</td>
+<td>大多数 Azure 区域都<strong>与另一个区域配对</strong>，后者位于<strong>同一地理位置</strong>（如美国、欧洲或亚洲），且<strong>相距至少 300 英里</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=Most%20Azure%20regions%20are%20paired%20with%20another%20region">Microsoft, n.d.-b, &quot;Region pairs&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Paired in two directions</strong><br>双向配对</td>
+<td>&quot;Most regions are <strong>paired in two directions</strong>, meaning they are <strong>the backup for the region that provides a backup for them</strong> (West US and East US back each other up).&quot;</td>
+<td>大多数区域是<strong>双向配对</strong>的，也就是说，它们<strong>为给自己提供备份的那个区域提供备份</strong>（美国西部和美国东部互为备份）。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=Most%20regions%20are%20paired%20in%20two%20directions">Microsoft, n.d.-b, &quot;Additional advantages of region pairs&quot; section, &quot;Important&quot; note</a></td>
+</tr>
+<tr>
+<td><strong>Paired in only one direction</strong><br>单向配对</td>
+<td>&quot;However, some regions, such as Brazil South, are <strong>paired in only one direction</strong>. In a one-direction pairing, the <strong>Primary region does not provide backup for its secondary region</strong>.&quot;</td>
+<td>不过，有些区域（如巴西南部）<strong>只单向配对</strong>。在单向配对中，<strong>主区域不为其次要区域提供备份</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=are%20paired%20in%20only%20one%20direction">Microsoft, n.d.-b, &quot;Additional advantages of region pairs&quot; section, &quot;Important&quot; note</a></td>
+</tr>
+<tr>
+<td><strong>Data-residency</strong><br>数据驻留</td>
+<td>&quot;Every region is contained within a single geography that serves as a <strong>fixed data residency boundary</strong>.&quot;</td>
+<td>每个区域都位于单一的地理区域内，该地理区域是一个<strong>固定的数据驻留边界</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/regions-overview#understand-azure-regions-and-geographies:%7E:text=serves%20as%20a%20fixed%20data%20residency%20boundary">Microsoft, 2026b, &quot;Understand Azure regions and geographies&quot; section, para. 3</a>; term from <a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=for%20data%2Dresidency%20and%20compliance%20purposes">Microsoft, n.d.-b, &quot;Additional advantages of region pairs&quot; section, list item 3</a></td>
+</tr>
+<tr>
+<td><strong>Sovereign regions</strong><br>主权区域</td>
+<td>&quot;In addition to <strong>regular regions</strong>, Azure also has <strong>sovereign regions</strong>. Sovereign regions are instances of Azure that are <strong>isolated from the main instance of Azure</strong>. You may need to use a sovereign region for <strong>compliance or legal purposes</strong>.&quot;</td>
+<td>除了<strong>普通区域</strong>，Azure 还有<strong>主权区域</strong>。主权区域是 Azure 的实例，它们<strong>与 Azure 的主实例隔离</strong>。出于<strong>合规或法律原因</strong>，你可能需要使用主权区域。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure#:%7E:text=In%20addition%20to%20regular%20regions%2C%20Azure%20also%20has%20sovereign%20regions">Microsoft, n.d.-b, &quot;Sovereign Regions&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sovereignty</strong><br>主权</td>
+<td>&quot;Sovereignty means you <strong>retain control over your data</strong> and ensure that data <strong>remains subject to your jurisdiction's laws</strong>.&quot;</td>
+<td>主权意味着你<strong>保留对数据的控制</strong>，并确保数据<strong>始终受你所在司法管辖区的法律约束</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-reliability-sovereignty#what-sovereignty-means-for-a-reliable-workload:%7E:text=Sovereignty%20means%20you%20retain%20control%20over%20your%20data">Microsoft, 2026a, &quot;What sovereignty means for a reliable workload&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Government</strong><br>Azure 政府</td>
+<td>&quot;A <strong>dedicated cloud</strong> for <strong>U.S. government agencies and their partners</strong>.&quot;</td>
+<td>一个专供<strong>美国政府机构及其合作伙伴</strong>使用的<strong>专用云</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/#azure-clouds:%7E:text=A%20dedicated%20cloud%20for%20U.S.%20government%20agencies">Microsoft, n.d.-a, &quot;Azure clouds&quot; section, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft Azure operated by 21Vianet</strong><br>由世纪互联运营的 Microsoft Azure</td>
+<td>&quot;A <strong>dedicated cloud</strong> located <strong>in China</strong> and <strong>operated by 21Vianet</strong>.&quot;</td>
+<td>一个位于<strong>中国</strong>、由<strong>世纪互联运营</strong>的<strong>专用云</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/#azure-clouds:%7E:text=A%20dedicated%20cloud%20located%20in%20China">Microsoft, n.d.-a, &quot;Azure clouds&quot; section, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft Sovereign Cloud</strong><br>Microsoft 主权云</td>
+<td>(context) &quot;<strong>Microsoft Sovereign Cloud</strong> supports <strong>logical isolation patterns</strong> within <strong>Azure public cloud</strong>.&quot;</td>
+<td>（语境）<strong>Microsoft Sovereign Cloud</strong> 支持在 <strong>Azure 公有云</strong>内采用<strong>逻辑隔离模式</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-reliability-sovereignty#azure-capabilities-that-support-sovereignty:%7E:text=Microsoft%20Sovereign%20Cloud%20supports%20logical%20isolation">Microsoft, 2026a, &quot;Azure capabilities that support sovereignty&quot; section, list item 3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (n.d.-a). <em>Azure documentation</em>. Microsoft Learn. Retrieved October 25, 2026, from <a href="https://learn.microsoft.com/en-us/azure/">https://learn.microsoft.com/en-us/azure/</a></li>
+<li>Microsoft. (n.d.-b). <em>Describe Azure physical infrastructure</em> [Training unit]. Microsoft Learn. Retrieved October 18, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure">https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure</a></li>
+<li>Microsoft. (2026a, May 19). <em>Reliability and sovereignty in Azure</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/reliability/concept-reliability-sovereignty">https://learn.microsoft.com/en-us/azure/reliability/concept-reliability-sovereignty</a></li>
+<li>Microsoft. (2026b, June 26). <em>What are Azure regions?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/reliability/regions-overview">https://learn.microsoft.com/en-us/azure/reliability/regions-overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:35-04:00">10/27/2026 21:51:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

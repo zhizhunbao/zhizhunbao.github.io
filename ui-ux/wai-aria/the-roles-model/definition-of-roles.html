@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.4 Definition of Roles | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="WAI-ARIA 1.2, 5.4 Definition of Roles: the 94 WAI-ARIA roles in alphabetical order, each with its opening definition.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="54-definition-of-roles">5.4 Definition of Roles</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/definition-of-roles.png" alt="5.4 Definition of Roles: the 94 roles in alphabetical order, from alert to window."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5.4 Definition of Roles</strong><br>角色的定义</td>
+<td>&quot;Below is an <strong>alphabetical list of WAI-ARIA roles</strong> to be used by authors.&quot;</td>
+<td>下面是供作者使用的 <strong>WAI-ARIA 角色的字母顺序列表</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 5.4</a></td>
+</tr>
+<tr>
+<td><strong>alert</strong><br>警报</td>
+<td>&quot;A type of <strong>live region</strong> with <strong>important, and usually time-sensitive, information</strong>.&quot;</td>
+<td>一种<strong>实时区域</strong>，带有<strong>重要且通常有时效的信息</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#alert">World Wide Web Consortium, 2023, section 5.4, alert</a></td>
+</tr>
+<tr>
+<td><strong>alertdialog</strong><br>警报对话框</td>
+<td>&quot;A type of <strong>dialog</strong> that <strong>contains an alert message</strong>, where initial focus goes to an element within the dialog.&quot;</td>
+<td>一种<strong>对话框</strong>，它<strong>包含警报消息</strong>，初始焦点落在对话框内的某个元素上。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#alertdialog">World Wide Web Consortium, 2023, section 5.4, alertdialog</a></td>
+</tr>
+<tr>
+<td><strong>application</strong><br>应用</td>
+<td>&quot;A structure containing <strong>one or more focusable elements requiring user input</strong>, such as keyboard or gesture events, that <strong>do not follow a standard interaction pattern</strong> supported by a widget role.&quot;</td>
+<td>一种结构，包含<strong>一个或多个需要用户输入的可聚焦元素</strong>（如键盘或手势事件），它们<strong>不遵循控件角色所支持的标准交互模式</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#application">World Wide Web Consortium, 2023, section 5.4, application</a></td>
+</tr>
+<tr>
+<td><strong>article</strong><br>文章</td>
+<td>&quot;A section of a page that consists of a composition that forms an <strong>independent part of a document, page, or site</strong>.&quot;</td>
+<td>页面的一节，由一篇构成<strong>文档、页面或站点的独立部分</strong>的作品组成。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#article">World Wide Web Consortium, 2023, section 5.4, article</a></td>
+</tr>
+<tr>
+<td><strong>banner</strong><br>横幅</td>
+<td>&quot;A landmark that contains mostly <strong>site-oriented content</strong>, rather than page-specific content.&quot;</td>
+<td>一种地标，主要包含<strong>面向站点的内容</strong>，而非页面特有的内容。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#banner">World Wide Web Consortium, 2023, section 5.4, banner</a></td>
+</tr>
+<tr>
+<td><strong>blockquote</strong><br>块引用</td>
+<td>&quot;A section of content that is <strong>quoted from another source</strong>.&quot;</td>
+<td><strong>引自其他来源</strong>的一段内容。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#blockquote">World Wide Web Consortium, 2023, section 5.4, blockquote</a></td>
+</tr>
+<tr>
+<td><strong>button</strong><br>按钮</td>
+<td>&quot;An input that allows for <strong>user-triggered actions</strong> when <strong>clicked or pressed</strong>.&quot;</td>
+<td>一种输入，在<strong>点击或按下</strong>时允许<strong>用户触发动作</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#button">World Wide Web Consortium, 2023, section 5.4, button</a></td>
+</tr>
+<tr>
+<td><strong>caption</strong><br>标题说明</td>
+<td>&quot;Visible content that <strong>names, and may also describe</strong>, a figure, table, grid, or treegrid.&quot;</td>
+<td>可见内容，用来<strong>命名并可能描述</strong>图、表格、网格或树形网格。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#caption">World Wide Web Consortium, 2023, section 5.4, caption</a></td>
+</tr>
+<tr>
+<td><strong>cell</strong><br>单元格</td>
+<td>&quot;A <strong>cell in a tabular container</strong>.&quot;</td>
+<td><strong>表格式容器中的单元格</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#cell">World Wide Web Consortium, 2023, section 5.4, cell</a></td>
+</tr>
+<tr>
+<td><strong>checkbox</strong><br>复选框</td>
+<td>&quot;A <strong>checkable input</strong> that has <strong>three possible values: true, false, or mixed</strong>.&quot;</td>
+<td>一种<strong>可勾选的输入</strong>，有<strong>三个可能的值：true、false 或 mixed</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#checkbox">World Wide Web Consortium, 2023, section 5.4, checkbox</a></td>
+</tr>
+<tr>
+<td><strong>code</strong><br>代码</td>
+<td>&quot;A section whose content represents a <strong>fragment of computer code</strong>.&quot;</td>
+<td>内容为<strong>一段计算机代码</strong>的节。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#code">World Wide Web Consortium, 2023, section 5.4, code</a></td>
+</tr>
+<tr>
+<td><strong>columnheader</strong><br>列标题</td>
+<td>&quot;A cell containing <strong>header information for a column</strong>.&quot;</td>
+<td>包含<strong>列的标题信息</strong>的单元格。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#columnheader">World Wide Web Consortium, 2023, section 5.4, columnheader</a></td>
+</tr>
+<tr>
+<td><strong>combobox</strong><br>组合框</td>
+<td>&quot;An input that <strong>controls another element</strong>, such as a listbox or grid, that can <strong>dynamically pop up</strong> to help the user set the value of the input.&quot;</td>
+<td>一种输入，它<strong>控制另一个元素</strong>（如列表框或网格），该元素可以<strong>动态弹出</strong>以帮助用户设置输入的值。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#combobox">World Wide Web Consortium, 2023, section 5.4, combobox</a></td>
+</tr>
+<tr>
+<td><strong>command</strong><br>命令</td>
+<td>&quot;A form of widget that <strong>performs an action</strong> but <strong>does not receive input data</strong>.&quot;</td>
+<td>一种控件，它<strong>执行动作</strong>但<strong>不接收输入数据</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#command">World Wide Web Consortium, 2023, section 5.4, command</a></td>
+</tr>
+<tr>
+<td><strong>complementary</strong><br>补充内容</td>
+<td>&quot;A landmark that is designed to be <strong>complementary to the main content</strong> at a similar level in the DOM hierarchy, but <strong>remaining meaningful when separated from the main content</strong>.&quot;</td>
+<td>一种地标，设计为在 DOM 层次中与主内容处于相似层级、<strong>对主内容起补充作用</strong>，但<strong>与主内容分离后仍有意义</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#complementary">World Wide Web Consortium, 2023, section 5.4, complementary</a></td>
+</tr>
+<tr>
+<td><strong>composite</strong><br>复合控件</td>
+<td>&quot;A widget that may contain <strong>navigable descendants or owned children</strong>.&quot;</td>
+<td>可以包含<strong>可导航后代或从属子元素</strong>的控件。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#composite">World Wide Web Consortium, 2023, section 5.4, composite</a></td>
+</tr>
+<tr>
+<td><strong>contentinfo</strong><br>内容信息</td>
+<td>&quot;A landmark that contains <strong>information about the parent document</strong>.&quot;</td>
+<td>包含<strong>关于父文档的信息</strong>的地标。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#contentinfo">World Wide Web Consortium, 2023, section 5.4, contentinfo</a></td>
+</tr>
+<tr>
+<td><strong>definition</strong><br>定义</td>
+<td>&quot;A <strong>definition of a term or concept</strong>.&quot;</td>
+<td><strong>术语或概念的定义</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#definition">World Wide Web Consortium, 2023, section 5.4, definition</a></td>
+</tr>
+<tr>
+<td><strong>deletion</strong><br>删除</td>
+<td>&quot;A deletion contains content that is <strong>marked as removed</strong> or content that is <strong>being suggested for removal</strong>.&quot;</td>
+<td>删除包含<strong>标记为已移除</strong>的内容，或<strong>建议移除</strong>的内容。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#deletion">World Wide Web Consortium, 2023, section 5.4, deletion</a></td>
+</tr>
+<tr>
+<td><strong>dialog</strong><br>对话框</td>
+<td>&quot;A dialog is a <strong>descendant window of the primary window</strong> of a web application.&quot;</td>
+<td>对话框是 Web 应用<strong>主窗口的后代窗口</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#dialog">World Wide Web Consortium, 2023, section 5.4, dialog</a></td>
+</tr>
+<tr>
+<td><strong>directory</strong><br>目录</td>
+<td>&quot;[Deprecated in ARIA 1.2] A <strong>list of references to members of a group</strong>, such as a static table of contents.&quot;</td>
+<td>[在 ARIA 1.2 中已弃用] <strong>指向组成员的引用列表</strong>，例如静态目录。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#directory">World Wide Web Consortium, 2023, section 5.4, directory</a></td>
+</tr>
+<tr>
+<td><strong>document</strong><br>文档</td>
+<td>&quot;An element containing content that assistive technology users may want to <strong>browse in a reading mode</strong>.&quot;</td>
+<td>一种元素，其内容是辅助技术用户可能想要<strong>以阅读模式浏览</strong>的。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#document">World Wide Web Consortium, 2023, section 5.4, document</a></td>
+</tr>
+<tr>
+<td><strong>emphasis</strong><br>强调</td>
+<td>&quot;One or more <strong>emphasized characters</strong>.&quot;</td>
+<td>一个或多个<strong>被强调的字符</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#emphasis">World Wide Web Consortium, 2023, section 5.4, emphasis</a></td>
+</tr>
+<tr>
+<td><strong>feed</strong><br>信息流</td>
+<td>&quot;A <strong>scrollable list of articles</strong> where scrolling may cause articles to be <strong>added to or removed from either end</strong> of the list.&quot;</td>
+<td><strong>可滚动的文章列表</strong>，滚动可能使文章<strong>在列表任一端被添加或移除</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#feed">World Wide Web Consortium, 2023, section 5.4, feed</a></td>
+</tr>
+<tr>
+<td><strong>figure</strong><br>图</td>
+<td>&quot;A perceivable section of content that typically contains a <strong>graphical document, images, code snippets, or example text</strong>.&quot;</td>
+<td>可感知的一段内容，通常包含<strong>图形文档、图像、代码片段或示例文本</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#figure">World Wide Web Consortium, 2023, section 5.4, figure</a></td>
+</tr>
+<tr>
+<td><strong>form</strong><br>表单</td>
+<td>&quot;A landmark region that contains a collection of items and objects that, as a whole, <strong>combine to create a form</strong>.&quot;</td>
+<td>一种地标区域，包含一组项目和对象，它们作为整体<strong>组合成一个表单</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#form">World Wide Web Consortium, 2023, section 5.4, form</a></td>
+</tr>
+<tr>
+<td><strong>generic</strong><br>通用容器</td>
+<td>&quot;A <strong>nameless container element</strong> that has <strong>no semantic meaning on its own</strong>.&quot;</td>
+<td><strong>无名称的容器元素</strong>，它<strong>本身没有语义</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#generic">World Wide Web Consortium, 2023, section 5.4, generic</a></td>
+</tr>
+<tr>
+<td><strong>grid</strong><br>网格</td>
+<td>&quot;A composite widget containing a <strong>collection of one or more rows with one or more cells</strong> where some or all cells in the grid are <strong>focusable by using methods of two-dimensional navigation</strong>, such as directional arrow keys.&quot;</td>
+<td>一种复合控件，包含<strong>一行或多行、每行一个或多个单元格的集合</strong>，其中部分或全部单元格<strong>可以通过二维导航方法聚焦</strong>，例如方向键。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#grid">World Wide Web Consortium, 2023, section 5.4, grid</a></td>
+</tr>
+<tr>
+<td><strong>gridcell</strong><br>网格单元格</td>
+<td>&quot;A <strong>cell in a grid or treegrid</strong>.&quot;</td>
+<td><strong>网格或树形网格中的单元格</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#gridcell">World Wide Web Consortium, 2023, section 5.4, gridcell</a></td>
+</tr>
+<tr>
+<td><strong>group</strong><br>组</td>
+<td>&quot;A set of user interface objects that is <strong>not intended to be included in a page summary or table of contents</strong> by assistive technologies.&quot;</td>
+<td>一组用户界面对象，<strong>不打算被辅助技术收入页面摘要或目录</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#group">World Wide Web Consortium, 2023, section 5.4, group</a></td>
+</tr>
+<tr>
+<td><strong>heading</strong><br>标题</td>
+<td>&quot;A <strong>heading for a section</strong> of the page.&quot;</td>
+<td>页面中<strong>某一节的标题</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#heading">World Wide Web Consortium, 2023, section 5.4, heading</a></td>
+</tr>
+<tr>
+<td><strong>img</strong><br>图像</td>
+<td>&quot;A container for a <strong>collection of elements that form an image</strong>.&quot;</td>
+<td>一个容器，装着<strong>构成一幅图像的一组元素</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#img">World Wide Web Consortium, 2023, section 5.4, img</a></td>
+</tr>
+<tr>
+<td><strong>input</strong><br>输入</td>
+<td>&quot;A generic type of widget that <strong>allows user input</strong>.&quot;</td>
+<td>一种通用控件类型，<strong>允许用户输入</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#input">World Wide Web Consortium, 2023, section 5.4, input</a></td>
+</tr>
+<tr>
+<td><strong>insertion</strong><br>插入</td>
+<td>&quot;An insertion contains content that is <strong>marked as added</strong> or content that is <strong>being suggested for addition</strong>.&quot;</td>
+<td>插入包含<strong>标记为已添加</strong>的内容，或<strong>建议添加</strong>的内容。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#insertion">World Wide Web Consortium, 2023, section 5.4, insertion</a></td>
+</tr>
+<tr>
+<td><strong>landmark</strong><br>地标</td>
+<td>&quot;A perceivable section containing content that is <strong>relevant to a specific, author-specified purpose</strong> and <strong>sufficiently important</strong> that users will likely want to be able to navigate to the section easily and to have it listed in a summary of the page.&quot;</td>
+<td>可感知的一节，其内容<strong>与作者指定的特定目的相关</strong>且<strong>足够重要</strong>，用户很可能希望能轻松导航到该节，并让它列在页面摘要中。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#landmark">World Wide Web Consortium, 2023, section 5.4, landmark</a></td>
+</tr>
+<tr>
+<td><strong>link</strong><br>链接</td>
+<td>&quot;An <strong>interactive reference to an internal or external resource</strong> that, when activated, causes the user agent to <strong>navigate to that resource</strong>.&quot;</td>
+<td><strong>指向内部或外部资源的交互式引用</strong>，被激活时使用户代理<strong>导航到该资源</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#link">World Wide Web Consortium, 2023, section 5.4, link</a></td>
+</tr>
+<tr>
+<td><strong>list</strong><br>列表</td>
+<td>&quot;A section containing <strong>listitem elements</strong>.&quot;</td>
+<td>包含 <strong>listitem 元素</strong>的节。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#list">World Wide Web Consortium, 2023, section 5.4, list</a></td>
+</tr>
+<tr>
+<td><strong>listbox</strong><br>列表框</td>
+<td>&quot;A widget that allows the user to <strong>select one or more items from a list of choices</strong>.&quot;</td>
+<td>一种控件，允许用户<strong>从选项列表中选择一项或多项</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#listbox">World Wide Web Consortium, 2023, section 5.4, listbox</a></td>
+</tr>
+<tr>
+<td><strong>listitem</strong><br>列表项</td>
+<td>&quot;A <strong>single item in a list or directory</strong>.&quot;</td>
+<td><strong>列表或目录中的单个项目</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#listitem">World Wide Web Consortium, 2023, section 5.4, listitem</a></td>
+</tr>
+<tr>
+<td><strong>log</strong><br>日志</td>
+<td>&quot;A type of live region where <strong>new information is added in meaningful order</strong> and <strong>old information may disappear</strong>.&quot;</td>
+<td>一种实时区域，其中<strong>新信息按有意义的顺序添加</strong>，<strong>旧信息可能消失</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#log">World Wide Web Consortium, 2023, section 5.4, log</a></td>
+</tr>
+<tr>
+<td><strong>main</strong><br>主内容</td>
+<td>&quot;A landmark containing the <strong>main content of a document</strong>.&quot;</td>
+<td>包含<strong>文档主内容</strong>的地标。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#main">World Wide Web Consortium, 2023, section 5.4, main</a></td>
+</tr>
+<tr>
+<td><strong>marquee</strong><br>滚动字幕</td>
+<td>&quot;A type of live region where <strong>non-essential information changes frequently</strong>.&quot;</td>
+<td>一种实时区域，其中<strong>非必要信息频繁变化</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#marquee">World Wide Web Consortium, 2023, section 5.4, marquee</a></td>
+</tr>
+<tr>
+<td><strong>math</strong><br>数学</td>
+<td>&quot;Content that represents a <strong>mathematical expression</strong>.&quot;</td>
+<td>表示<strong>数学表达式</strong>的内容。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#math">World Wide Web Consortium, 2023, section 5.4, math</a></td>
+</tr>
+<tr>
+<td><strong>menu</strong><br>菜单</td>
+<td>&quot;A type of widget that <strong>offers a list of choices</strong> to the user.&quot;</td>
+<td>一种控件，向用户<strong>提供选项列表</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menu">World Wide Web Consortium, 2023, section 5.4, menu</a></td>
+</tr>
+<tr>
+<td><strong>menubar</strong><br>菜单栏</td>
+<td>&quot;A presentation of menu that <strong>usually remains visible</strong> and is <strong>usually presented horizontally</strong>.&quot;</td>
+<td>菜单的一种呈现形式，<strong>通常保持可见</strong>并<strong>通常水平呈现</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menubar">World Wide Web Consortium, 2023, section 5.4, menubar</a></td>
+</tr>
+<tr>
+<td><strong>menuitem</strong><br>菜单项</td>
+<td>&quot;An <strong>option in a set of choices</strong> contained by a menu or menubar.&quot;</td>
+<td>菜单或菜单栏所含<strong>一组选项中的一个选项</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menuitem">World Wide Web Consortium, 2023, section 5.4, menuitem</a></td>
+</tr>
+<tr>
+<td><strong>menuitemcheckbox</strong><br>复选菜单项</td>
+<td>&quot;A menuitem with a <strong>checkable state</strong> whose possible values are <strong>true, false, or mixed</strong>.&quot;</td>
+<td>带有<strong>可勾选状态</strong>的菜单项，可能的值为 <strong>true、false 或 mixed</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menuitemcheckbox">World Wide Web Consortium, 2023, section 5.4, menuitemcheckbox</a></td>
+</tr>
+<tr>
+<td><strong>menuitemradio</strong><br>单选菜单项</td>
+<td>&quot;A <strong>checkable menuitem</strong> in a set of elements with the same role, <strong>only one of which can be checked at a time</strong>.&quot;</td>
+<td>同一角色的一组元素中的<strong>可勾选菜单项</strong>，<strong>同一时间只能选中其中一个</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#menuitemradio">World Wide Web Consortium, 2023, section 5.4, menuitemradio</a></td>
+</tr>
+<tr>
+<td><strong>meter</strong><br>计量器</td>
+<td>&quot;An element that represents a <strong>scalar measurement within a known range</strong>, or a fractional value.&quot;</td>
+<td>表示<strong>已知范围内的标量测量值</strong>或分数值的元素。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#meter">World Wide Web Consortium, 2023, section 5.4, meter</a></td>
+</tr>
+<tr>
+<td><strong>navigation</strong><br>导航</td>
+<td>&quot;A landmark containing a <strong>collection of navigational elements</strong> (usually links) for navigating the document or related documents.&quot;</td>
+<td>包含<strong>一组导航元素</strong>（通常是链接）的地标，用于在文档或相关文档间导航。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#navigation">World Wide Web Consortium, 2023, section 5.4, navigation</a></td>
+</tr>
+<tr>
+<td><strong>none</strong><br>无</td>
+<td>&quot;An element whose <strong>implicit native role semantics will not be mapped to the accessibility API</strong>.&quot;</td>
+<td>一种元素，其<strong>隐式原生角色语义不会映射到无障碍 API</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#none">World Wide Web Consortium, 2023, section 5.4, none</a></td>
+</tr>
+<tr>
+<td><strong>note</strong><br>注释</td>
+<td>&quot;A section whose content is <strong>parenthetic or ancillary to the main content</strong> of the resource.&quot;</td>
+<td>内容<strong>对资源主内容起插入或辅助作用</strong>的节。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#note">World Wide Web Consortium, 2023, section 5.4, note</a></td>
+</tr>
+<tr>
+<td><strong>option</strong><br>选项</td>
+<td>&quot;A <strong>selectable item in a listbox</strong>.&quot;</td>
+<td><strong>列表框中可选择的项目</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#option">World Wide Web Consortium, 2023, section 5.4, option</a></td>
+</tr>
+<tr>
+<td><strong>paragraph</strong><br>段落</td>
+<td>&quot;A <strong>paragraph of content</strong>.&quot;</td>
+<td><strong>一段内容</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#paragraph">World Wide Web Consortium, 2023, section 5.4, paragraph</a></td>
+</tr>
+<tr>
+<td><strong>presentation</strong><br>呈现</td>
+<td>&quot;An element whose <strong>implicit native role semantics will not be mapped to the accessibility API</strong>.&quot;</td>
+<td>一种元素，其<strong>隐式原生角色语义不会映射到无障碍 API</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#presentation">World Wide Web Consortium, 2023, section 5.4, presentation</a></td>
+</tr>
+<tr>
+<td><strong>progressbar</strong><br>进度条</td>
+<td>&quot;An element that <strong>displays the progress status</strong> for tasks that take a long time.&quot;</td>
+<td>为耗时较长的任务<strong>显示进度状态</strong>的元素。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#progressbar">World Wide Web Consortium, 2023, section 5.4, progressbar</a></td>
+</tr>
+<tr>
+<td><strong>radio</strong><br>单选按钮</td>
+<td>&quot;A <strong>checkable input</strong> in a group of elements with the same role, <strong>only one of which can be checked at a time</strong>.&quot;</td>
+<td>同一角色的一组元素中的<strong>可勾选输入</strong>，<strong>同一时间只能选中其中一个</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#radio">World Wide Web Consortium, 2023, section 5.4, radio</a></td>
+</tr>
+<tr>
+<td><strong>radiogroup</strong><br>单选组</td>
+<td>&quot;A <strong>group of radio buttons</strong>.&quot;</td>
+<td><strong>一组单选按钮</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#radiogroup">World Wide Web Consortium, 2023, section 5.4, radiogroup</a></td>
+</tr>
+<tr>
+<td><strong>range</strong><br>范围</td>
+<td>&quot;An element representing a <strong>range of values</strong>.&quot;</td>
+<td>表示<strong>值的范围</strong>的元素。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#range">World Wide Web Consortium, 2023, section 5.4, range</a></td>
+</tr>
+<tr>
+<td><strong>region</strong><br>区域</td>
+<td>&quot;A landmark containing content that is <strong>relevant to a specific, author-specified purpose</strong> and <strong>sufficiently important</strong> that users will likely want to be able to navigate to the section easily and to have it listed in a summary of the page.&quot;</td>
+<td>一种地标，其内容<strong>与作者指定的特定目的相关</strong>且<strong>足够重要</strong>，用户很可能希望能轻松导航到该节，并让它列在页面摘要中。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#region">World Wide Web Consortium, 2023, section 5.4, region</a></td>
+</tr>
+<tr>
+<td><strong>roletype</strong><br>角色类型</td>
+<td>&quot;The <strong>base role from which all other roles inherit</strong>.&quot;</td>
+<td><strong>所有其他角色都继承自的基础角色</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#roletype">World Wide Web Consortium, 2023, section 5.4, roletype</a></td>
+</tr>
+<tr>
+<td><strong>row</strong><br>行</td>
+<td>&quot;A <strong>row of cells in a tabular container</strong>.&quot;</td>
+<td><strong>表格式容器中的一行单元格</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#row">World Wide Web Consortium, 2023, section 5.4, row</a></td>
+</tr>
+<tr>
+<td><strong>rowgroup</strong><br>行组</td>
+<td>&quot;A structure containing <strong>one or more row elements</strong> in a tabular container.&quot;</td>
+<td>表格式容器中包含<strong>一个或多个 row 元素</strong>的结构。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#rowgroup">World Wide Web Consortium, 2023, section 5.4, rowgroup</a></td>
+</tr>
+<tr>
+<td><strong>rowheader</strong><br>行标题</td>
+<td>&quot;A cell containing <strong>header information for a row</strong>.&quot;</td>
+<td>包含<strong>行的标题信息</strong>的单元格。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#rowheader">World Wide Web Consortium, 2023, section 5.4, rowheader</a></td>
+</tr>
+<tr>
+<td><strong>scrollbar</strong><br>滚动条</td>
+<td>&quot;A graphical object that <strong>controls the scrolling of content within a viewing area</strong>, regardless of whether the content is fully displayed within the viewing area.&quot;</td>
+<td><strong>控制内容在可视区域内滚动</strong>的图形对象，无论内容是否完整显示在可视区域内。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#scrollbar">World Wide Web Consortium, 2023, section 5.4, scrollbar</a></td>
+</tr>
+<tr>
+<td><strong>search</strong><br>搜索</td>
+<td>&quot;A landmark region that contains a collection of items and objects that, as a whole, <strong>combine to create a search facility</strong>.&quot;</td>
+<td>一种地标区域，包含一组项目和对象，它们作为整体<strong>组合成一个搜索功能</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#search">World Wide Web Consortium, 2023, section 5.4, search</a></td>
+</tr>
+<tr>
+<td><strong>searchbox</strong><br>搜索框</td>
+<td>&quot;A <strong>type of textbox</strong> intended for <strong>specifying search criteria</strong>.&quot;</td>
+<td><strong>一种文本框</strong>，用于<strong>指定搜索条件</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#searchbox">World Wide Web Consortium, 2023, section 5.4, searchbox</a></td>
+</tr>
+<tr>
+<td><strong>section</strong><br>节</td>
+<td>&quot;A <strong>renderable structural containment unit</strong> in a document or application.&quot;</td>
+<td>文档或应用中<strong>可呈现的结构性容纳单元</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#section">World Wide Web Consortium, 2023, section 5.4, section</a></td>
+</tr>
+<tr>
+<td><strong>sectionhead</strong><br>节标题</td>
+<td>&quot;A structure that <strong>labels or summarizes the topic of its related section</strong>.&quot;</td>
+<td><strong>标注或概括相关节的主题</strong>的结构。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#sectionhead">World Wide Web Consortium, 2023, section 5.4, sectionhead</a></td>
+</tr>
+<tr>
+<td><strong>select</strong><br>选择</td>
+<td>&quot;A form widget that allows the user to <strong>make selections from a set of choices</strong>.&quot;</td>
+<td>一种表单控件，允许用户<strong>从一组选项中进行选择</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#select">World Wide Web Consortium, 2023, section 5.4, select</a></td>
+</tr>
+<tr>
+<td><strong>separator</strong><br>分隔符</td>
+<td>&quot;A divider that <strong>separates and distinguishes sections of content or groups of menuitems</strong>.&quot;</td>
+<td>一种分隔线，<strong>分开并区分内容的各节或菜单项的各组</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#separator">World Wide Web Consortium, 2023, section 5.4, separator</a></td>
+</tr>
+<tr>
+<td><strong>slider</strong><br>滑块</td>
+<td>&quot;An input where the user <strong>selects a value from within a given range</strong>.&quot;</td>
+<td>一种输入，用户<strong>从给定范围内选择一个值</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#slider">World Wide Web Consortium, 2023, section 5.4, slider</a></td>
+</tr>
+<tr>
+<td><strong>spinbutton</strong><br>微调按钮</td>
+<td>&quot;A form of range that expects the user to <strong>select from among discrete choices</strong>.&quot;</td>
+<td>一种范围形式，期望用户<strong>从离散的选项中选择</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#spinbutton">World Wide Web Consortium, 2023, section 5.4, spinbutton</a></td>
+</tr>
+<tr>
+<td><strong>status</strong><br>状态</td>
+<td>&quot;A type of live region whose content is <strong>advisory information for the user</strong> but is <strong>not important enough to justify an alert</strong>, often but not necessarily presented as a status bar.&quot;</td>
+<td>一种实时区域，其内容是<strong>给用户的提示信息</strong>，但<strong>不够重要、不足以用警报</strong>，常常但不一定以状态栏形式呈现。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#status">World Wide Web Consortium, 2023, section 5.4, status</a></td>
+</tr>
+<tr>
+<td><strong>strong</strong><br>加强</td>
+<td>&quot;Content that is <strong>important, serious, or urgent</strong>.&quot;</td>
+<td><strong>重要、严肃或紧急</strong>的内容。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#strong">World Wide Web Consortium, 2023, section 5.4, strong</a></td>
+</tr>
+<tr>
+<td><strong>structure</strong><br>结构</td>
+<td>&quot;A <strong>document structural element</strong>.&quot;</td>
+<td><strong>文档结构元素</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#structure">World Wide Web Consortium, 2023, section 5.4, structure</a></td>
+</tr>
+<tr>
+<td><strong>subscript</strong><br>下标</td>
+<td>&quot;One or more <strong>subscripted characters</strong>.&quot;</td>
+<td>一个或多个<strong>下标字符</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#subscript">World Wide Web Consortium, 2023, section 5.4, subscript</a></td>
+</tr>
+<tr>
+<td><strong>superscript</strong><br>上标</td>
+<td>&quot;One or more <strong>superscripted characters</strong>.&quot;</td>
+<td>一个或多个<strong>上标字符</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#superscript">World Wide Web Consortium, 2023, section 5.4, superscript</a></td>
+</tr>
+<tr>
+<td><strong>switch</strong><br>开关</td>
+<td>&quot;A type of checkbox that represents <strong>on/off values</strong>, as opposed to checked/unchecked values.&quot;</td>
+<td>一种复选框，表示<strong>开/关值</strong>，而不是选中/未选中值。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#switch">World Wide Web Consortium, 2023, section 5.4, switch</a></td>
+</tr>
+<tr>
+<td><strong>tab</strong><br>标签页</td>
+<td>&quot;A <strong>grouping label</strong> providing a mechanism for <strong>selecting the tab content</strong> that is to be rendered to the user.&quot;</td>
+<td>一种<strong>分组标签</strong>，提供<strong>选择标签页内容</strong>的机制，所选内容将呈现给用户。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#tab">World Wide Web Consortium, 2023, section 5.4, tab</a></td>
+</tr>
+<tr>
+<td><strong>table</strong><br>表格</td>
+<td>&quot;A section containing <strong>data arranged in rows and columns</strong>.&quot;</td>
+<td>包含<strong>按行和列排列的数据</strong>的节。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#table">World Wide Web Consortium, 2023, section 5.4, table</a></td>
+</tr>
+<tr>
+<td><strong>tablist</strong><br>标签页列表</td>
+<td>&quot;A <strong>list of tab elements</strong>, which are references to tabpanel elements.&quot;</td>
+<td><strong>tab 元素的列表</strong>，它们是对 tabpanel 元素的引用。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#tablist">World Wide Web Consortium, 2023, section 5.4, tablist</a></td>
+</tr>
+<tr>
+<td><strong>tabpanel</strong><br>标签页面板</td>
+<td>&quot;A <strong>container for the resources associated with a tab</strong>, where each tab is contained in a tablist.&quot;</td>
+<td><strong>装着与某个标签页相关资源的容器</strong>，每个标签页都包含在标签页列表中。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#tabpanel">World Wide Web Consortium, 2023, section 5.4, tabpanel</a></td>
+</tr>
+<tr>
+<td><strong>term</strong><br>术语</td>
+<td>&quot;A <strong>word or phrase with a corresponding definition</strong>.&quot;</td>
+<td><strong>有对应定义的词或短语</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#term">World Wide Web Consortium, 2023, section 5.4, term</a></td>
+</tr>
+<tr>
+<td><strong>textbox</strong><br>文本框</td>
+<td>&quot;A type of input that allows <strong>free-form text as its value</strong>.&quot;</td>
+<td>一种输入，允许<strong>自由格式的文本作为其值</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#textbox">World Wide Web Consortium, 2023, section 5.4, textbox</a></td>
+</tr>
+<tr>
+<td><strong>time</strong><br>时间</td>
+<td>&quot;An element that represents a <strong>specific point in time</strong>.&quot;</td>
+<td>表示<strong>特定时间点</strong>的元素。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#time">World Wide Web Consortium, 2023, section 5.4, time</a></td>
+</tr>
+<tr>
+<td><strong>timer</strong><br>计时器</td>
+<td>&quot;A type of live region containing a <strong>numerical counter</strong> which indicates an <strong>amount of elapsed time from a start point, or the time remaining until an end point</strong>.&quot;</td>
+<td>一种实时区域，包含<strong>数字计数器</strong>，指示<strong>从起点起已经过的时间，或到终点为止剩余的时间</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#timer">World Wide Web Consortium, 2023, section 5.4, timer</a></td>
+</tr>
+<tr>
+<td><strong>toolbar</strong><br>工具栏</td>
+<td>&quot;A <strong>collection of commonly used function buttons or controls</strong> represented in compact visual form.&quot;</td>
+<td>以紧凑视觉形式呈现的<strong>一组常用功能按钮或控件</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#toolbar">World Wide Web Consortium, 2023, section 5.4, toolbar</a></td>
+</tr>
+<tr>
+<td><strong>tooltip</strong><br>工具提示</td>
+<td>&quot;A <strong>contextual popup</strong> that <strong>displays a description for an element</strong>.&quot;</td>
+<td>一种<strong>上下文弹出框</strong>，<strong>显示元素的描述</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#tooltip">World Wide Web Consortium, 2023, section 5.4, tooltip</a></td>
+</tr>
+<tr>
+<td><strong>tree</strong><br>树</td>
+<td>&quot;A widget that allows the user to <strong>select one or more items from a hierarchically organized collection</strong>.&quot;</td>
+<td>一种控件，允许用户<strong>从按层次组织的集合中选择一项或多项</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#tree">World Wide Web Consortium, 2023, section 5.4, tree</a></td>
+</tr>
+<tr>
+<td><strong>treegrid</strong><br>树形网格</td>
+<td>&quot;A grid whose <strong>rows can be expanded and collapsed</strong> in the same manner as for a tree.&quot;</td>
+<td>一种网格，其<strong>行可以像树一样展开和折叠</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#treegrid">World Wide Web Consortium, 2023, section 5.4, treegrid</a></td>
+</tr>
+<tr>
+<td><strong>treeitem</strong><br>树项</td>
+<td>&quot;An <strong>option item of a tree</strong>.&quot;</td>
+<td><strong>树的选项项目</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#treeitem">World Wide Web Consortium, 2023, section 5.4, treeitem</a></td>
+</tr>
+<tr>
+<td><strong>widget</strong><br>控件</td>
+<td>&quot;An <strong>interactive component of a graphical user interface</strong> (GUI).&quot;</td>
+<td><strong>图形用户界面（GUI）的交互式组件</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#widget">World Wide Web Consortium, 2023, section 5.4, widget</a></td>
+</tr>
+<tr>
+<td><strong>window</strong><br>窗口</td>
+<td>&quot;A <strong>browser or application window</strong>.&quot;</td>
+<td><strong>浏览器或应用窗口</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#window">World Wide Web Consortium, 2023, section 5.4, window</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>World Wide Web Consortium. (2023, June 6). <em>Accessible Rich Internet Applications (WAI-ARIA) 1.2</em> (W3C Recommendation). <a href="https://www.w3.org/TR/wai-aria-1.2/">https://www.w3.org/TR/wai-aria-1.2/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 11:46:57-05:00">11/03/2026 11:46:57</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>16.2 Line Integrals | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="16.2 Line Integrals, part of 16 Vector Calculus: 10 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="162-line-integrals">16.2 Line Integrals</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/16-2-line-integrals.png" alt="16.2 Line Integrals: its 10 terms, in 16 Vector Calculus."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>16 Vector Calculus</strong><br>向量微积分</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-introduction">Strang &amp; Herman, 2016c, chapter 6</a></td>
+</tr>
+<tr>
+<td><strong>16.2 Line Integrals</strong><br>线积分</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-2-line-integrals">Strang &amp; Herman, 2016c, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Circulation</strong><br>环量</td>
+<td>&quot;<strong>the tendency of a fluid to move in the direction of curve C</strong>. If C is a closed curve, then the circulation of F along C is line integral <span class="math">\({\int }_{C}\text{F}\cdot \text{T}ds,\)</span> which we also denote <span class="math">\({\int }_{C}\text{F}\cdot \text{T}ds\)</span>&quot;</td>
+<td><strong>流体沿曲线 C 方向运动的趋势</strong>。若 C 是闭曲线，则 F 沿 C 的环量是线积分 <span class="math">\({\int }_{C}\text{F}\cdot \text{T}ds,\)</span> 我们也记作 <span class="math">\({\int }_{C}\text{F}\cdot \text{T}ds\)</span></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-key-terms#fs-id1167794226185">Strang &amp; Herman, 2016c, chapter 6 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Closed Curve</strong><br>闭曲线</td>
+<td>&quot;a curve for which there exists a parameterization <span class="math">\(\text{r}(t),\)</span> <span class="math">\(a\le t\le b,\)</span> such that <span class="math">\(\text{r}(a)=\text{r}(b),\)</span> and <strong>the curve is traversed exactly once</strong>&quot;</td>
+<td>存在参数化 <span class="math">\(\text{r}(t),\)</span> <span class="math">\(a\le t\le b,\)</span> 使得 <span class="math">\(\text{r}(a)=\text{r}(b),\)</span> 并且<strong>曲线恰好被走过一次</strong>的曲线</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-key-terms#fs-id1167793461072">Strang &amp; Herman, 2016c, chapter 6 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Flux</strong><br>通量</td>
+<td>&quot;<strong>the rate of a fluid flowing across a curve</strong> in a vector field; the flux of vector field F across plane curve C is line integral <span class="math">\({\int }_{C}\text{F}\cdot \frac{\text{n}(t)}{\Vert \text{n}(t)\Vert }\,ds\)</span>&quot;</td>
+<td>向量场中<strong>流体穿过曲线的流率</strong>；向量场 F 穿过平面曲线 C 的通量是线积分 <span class="math">\({\int }_{C}\text{F}\cdot \frac{\text{n}(t)}{\Vert \text{n}(t)\Vert }\,ds\)</span></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-key-terms#fs-id1167793641802">Strang &amp; Herman, 2016c, chapter 6 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Line Integral</strong><br>线积分</td>
+<td>&quot;the integral of a function <strong>along a curve in a plane or in space</strong>&quot;</td>
+<td>函数<strong>沿平面或空间中曲线</strong>的积分</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-key-terms#fs-id1167793941044">Strang &amp; Herman, 2016c, chapter 6 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Orientation of a Curve</strong><br>曲线的方向</td>
+<td>&quot;the orientation of a curve C is <strong>a specified direction</strong> of C&quot;</td>
+<td>曲线 C 的方向是 C 的<strong>一个指定方向</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-key-terms#fs-id1167793941054">Strang &amp; Herman, 2016c, chapter 6 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Piecewise Smooth Curve</strong><br>分段光滑曲线</td>
+<td>&quot;an oriented curve that is not smooth, but can be written as <strong>the union of finitely many smooth curves</strong>&quot;</td>
+<td>不光滑、但可以写成<strong>有限条光滑曲线之并</strong>的有向曲线</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-key-terms#fs-id1167793580146">Strang &amp; Herman, 2016c, chapter 6 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Scalar Line Integral</strong><br>标量线积分</td>
+<td>&quot;the scalar line integral of a function <span class="math">\(f\)</span> along a curve C <strong>with respect to arc length</strong> is the integral <span class="math">\({\int }_{C}fds,\)</span> it is the integral of a scalar function <span class="math">\(f\)</span> along a curve in a plane or in space; such an integral is defined in terms of a Riemann sum, as is a single-variable integral&quot;</td>
+<td>函数 <span class="math">\(f\)</span> 沿曲线 C <strong>对弧长</strong>的标量线积分是积分 <span class="math">\({\int }_{C}fds,\)</span> 它是标量函数 <span class="math">\(f\)</span> 沿平面或空间中曲线的积分；这样的积分与一元积分一样，用黎曼和定义</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-key-terms#fs-id1167793580157">Strang &amp; Herman, 2016c, chapter 6 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Vector Line Integral</strong><br>向量线积分</td>
+<td>&quot;the vector line integral of vector field F along curve C is the integral of <strong>the dot product of F with unit tangent vector T</strong> of C with respect to arc length, <span class="math">\({\int }_{C}\text{F}\cdot \text{T}ds;\)</span> such an integral is defined in terms of a Riemann sum, similar to a single-variable integral&quot;</td>
+<td>向量场 F 沿曲线 C 的向量线积分是 <strong>F 与 C 的单位切向量 T 的点积</strong>对弧长的积分，<span class="math">\({\int }_{C}\text{F}\cdot \text{T}ds;\)</span> 这样的积分与一元积分类似，用黎曼和定义</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-key-terms#fs-id1167793580206">Strang &amp; Herman, 2016c, chapter 6 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Mass of a Wire</strong><br>导线的质量</td>
+<td>&quot;They can be used to calculate <strong>the length or mass of a wire</strong>, the surface area of a sheet of a given height, or the electric potential of a charged wire given a linear charge density.&quot;</td>
+<td>它们可以用来计算<strong>导线的长度或质量</strong>、给定高度的薄片的表面积，或给定线电荷密度时带电导线的电势。</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-2-line-integrals#term-00007">Strang &amp; Herman, 2016c, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Work Done by a Vector Field</strong><br>向量场所做的功</td>
+<td>&quot;Therefore, it is not surprising that calculating <strong>the work done by a vector field</strong> representing a force is a standard use of vector line integrals.&quot;</td>
+<td>因此，计算表示力的<strong>向量场所做的功</strong>是向量线积分的标准用法，这并不奇怪。</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/6-2-line-integrals#term-00008">Strang &amp; Herman, 2016c, section 6.2</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Strang, G., &amp; Herman, E. (2016c). <em>Calculus volume 3</em>. OpenStax. Retrieved October 29, 2026, from <a href="https://openstax.org/details/books/calculus-volume-3">https://openstax.org/details/books/calculus-volume-3</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 12:02:05-04:00">10/30/2026 12:02:05</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

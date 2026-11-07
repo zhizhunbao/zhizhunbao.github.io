@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>AGU Index Terms | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="AGU Index Terms: the index terms of the American Geophysical Union, in its categories; 50 classes.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Home">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="agu-index-terms">AGU Index Terms</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/agu-index-terms.png" alt="AGU Index Terms: its 50 classes, 0200 Geohealth; 0300 Atmospheric Composition and Structure; 0400 Biogeosciences; 0500 Computational Geophysics; 1400 Critical Zone; 0700 Cryosphere; 0800 Education; 0600 Electromagnetics; 0900 Exploration Geophysics; 1000 Geochemistry; 1100 Geochronology; 1200 Geodesy and Gravity; 1500 Geomagnetism and Paleomagnetism; 1600 Global Change; 1700 History of Geophysics; 1800 Hydrology; 1900 Informatics; 2100 Interplanetary Physics; 2400 Ionosphere; 2700 Magnetospheric Physics; 3000 Marine Geology and Geophysics; 3200 Mathematical Geophysics; 3300 Atmospheric Processes; 3600 Mineralogy and Petrology; 3900 Mineral Physics; 4300 Natural Hazards; 4400 Nonlinear Geophysics; 4200 Oceanography: General; 4500 Oceanography: Physical; 4522 ENSO; 4800 Oceanography: Biological and Chemical; 4900 Paleoceanography; 5100 Physical Properties of Rocks; 5200 Planetary Sciences: Astrobiology; 5400 Planetary Sciences: Solid Surface Planets; 5700 Planetary Sciences: Fluid Planets; 6000 Planetary Sciences: Comets and Small Bodies; 6200 Planetary Sciences: Solar System Objects; 6300 Policy Sciences; 6600 Public Issues; 6900 Radio Science; 7200 Seismology; 7500 Solar Physics, Astrophysics, and Astronomy; 7800 Space Plasma Physics; 7900 Space Weather; 8000 Structural Geology; 8100 Tectonophysics; 8400 Volcanology; 9300 Geographic Location; 9600 Information Related to Geologic Time."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>AGU Index Terms</strong><br>AGU 索引词</td>
+<td>(context) &quot;Choose the <strong>most appropriate index terms</strong> for <strong>your paper</strong>.&quot;</td>
+<td>（语境）选择<strong>最合适的索引词</strong>，用于<strong>你的论文</strong>。</td>
+<td><a href="https://www.agu.org/publications/authors/journals/index-terms#:%7E:text=Choose%20the%20most%20appropriate%20index%20terms">American Geophysical Union, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="0200-geohealth/index.html">0200 Geohealth</a></strong><br>地球健康</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="0300-atmospheric-composition-and-structure/index.html">0300 Atmospheric Composition and Structure</a></strong><br>大气成分与结构</td>
+<td>(context) &quot;<strong>the mixture of gases</strong> around <strong>the earth</strong>&quot;</td>
+<td>（语境）<strong>地球</strong>周围的<strong>混合气体</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/atmosphere">Cambridge University Press &amp; Assessment, n.d., &quot;atmosphere&quot; noun (AIR)</a></td>
+</tr>
+<tr>
+<td><strong><a href="0400-biogeosciences/index.html">0400 Biogeosciences</a></strong><br>生物地球科学</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="0500-computational-geophysics/index.html">0500 Computational Geophysics</a></strong><br>计算地球物理</td>
+<td>(context) &quot;the study of <strong>the rocks and other substances that make up the earth</strong> and <strong>the physical processes</strong> happening on, in, and above the earth&quot;</td>
+<td>（语境）研究<strong>构成地球的岩石和其他物质</strong>，以及发生在地球表面、内部和上空的<strong>物理过程</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geophysics">Cambridge University Press &amp; Assessment, n.d., &quot;geophysics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="1400-critical-zone/index.html">1400 Critical Zone</a></strong><br>关键带</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="0700-cryosphere/index.html">0700 Cryosphere</a></strong><br>冰冻圈</td>
+<td>&quot;parts of the earth's surface where <strong>water exists as ice</strong>&quot;</td>
+<td>地球表面上<strong>水以冰的形式存在</strong>的部分</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/cryosphere">Cambridge University Press &amp; Assessment, n.d., &quot;cryosphere&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="0800-education/index.html">0800 Education</a></strong><br>教育</td>
+<td>&quot;<strong>the process of teaching or learning</strong>, especially in a school or college, or <strong>the knowledge that you get from this</strong>&quot;</td>
+<td><strong>教或学的过程</strong>，尤其是在中小学或大学里，或指<strong>从中获得的知识</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/education">Cambridge University Press &amp; Assessment, n.d., &quot;education&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="0600-electromagnetics/index.html">0600 Electromagnetics</a></strong><br>电磁学</td>
+<td>(context) &quot;the science of <strong>magnetism and electrical currents</strong>&quot;</td>
+<td>（语境）研究<strong>磁和电流</strong>的科学</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/electromagnetism">Cambridge University Press &amp; Assessment, n.d., &quot;electromagnetism&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="0900-exploration-geophysics/index.html">0900 Exploration Geophysics</a></strong><br>勘探地球物理</td>
+<td>(context) &quot;the study of <strong>the rocks and other substances that make up the earth</strong> and <strong>the physical processes</strong> happening on, in, and above the earth&quot;</td>
+<td>（语境）研究<strong>构成地球的岩石和其他物质</strong>，以及发生在地球表面、内部和上空的<strong>物理过程</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geophysics">Cambridge University Press &amp; Assessment, n.d., &quot;geophysics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="1000-geochemistry/index.html">1000 Geochemistry</a></strong><br>地球化学</td>
+<td>&quot;the study of <strong>the chemical elements in the earth's crust</strong> (= its hard outer layer)&quot;</td>
+<td>研究<strong>地壳中的化学元素</strong>（地壳即地球坚硬的外层）</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geochemistry">Cambridge University Press &amp; Assessment, n.d., &quot;geochemistry&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="1100-geochronology/index.html">1100 Geochronology</a></strong><br>地质年代学</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="1200-geodesy-and-gravity/index.html">1200 Geodesy and Gravity</a></strong><br>大地测量与重力</td>
+<td>(context) &quot;the branch of mathematics dealing with <strong>the measurement and representation of the earth</strong>&quot;</td>
+<td>（语境）数学中研究<strong>地球的测量与表示</strong>的分支</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geodesy">Cambridge University Press &amp; Assessment, n.d., &quot;geodesy&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="1500-geomagnetism-and-paleomagnetism/index.html">1500 Geomagnetism and Paleomagnetism</a></strong><br>地磁与古地磁</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="1600-global-change/index.html">1600 Global Change</a></strong><br>全球变化</td>
+<td>(context) &quot;<strong>changes in the world's weather</strong>, in particular the fact that it is believed to be <strong>getting warmer as a result of human activity</strong> increasing the level of carbon dioxide in the atmosphere&quot;</td>
+<td>（语境）<strong>全球气候的变化</strong>，尤其是指人们认为由于人类活动使大气中二氧化碳水平上升而导致的<strong>气候变暖</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/climate-change">Cambridge University Press &amp; Assessment, n.d., &quot;climate change&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="1700-history-of-geophysics/index.html">1700 History of Geophysics</a></strong><br>地球物理学史</td>
+<td>(context) &quot;the study of <strong>the rocks and other substances that make up the earth</strong> and <strong>the physical processes</strong> happening on, in, and above the earth&quot;</td>
+<td>（语境）研究<strong>构成地球的岩石和其他物质</strong>，以及发生在地球表面、内部和上空的<strong>物理过程</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geophysics">Cambridge University Press &amp; Assessment, n.d., &quot;geophysics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="1800-hydrology/index.html">1800 Hydrology</a></strong><br>水文学</td>
+<td>&quot;the <strong>study of water on the earth</strong>, for example, where it is and how it is used&quot;</td>
+<td>对<strong>地球上的水</strong>的研究，例如水在哪里以及如何被利用</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/hydrology">Cambridge University Press &amp; Assessment, n.d., &quot;hydrology&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="1900-informatics/index.html">1900 Informatics</a></strong><br>信息学</td>
+<td>(context) &quot;the study of <strong>collecting, organizing, storing, and using electronic information</strong>&quot;</td>
+<td>（语境）研究<strong>电子信息的收集、组织、存储和使用</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/information-science">Cambridge University Press &amp; Assessment, n.d., &quot;information science&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="2100-interplanetary-physics/index.html">2100 Interplanetary Physics</a></strong><br>行星际物理</td>
+<td>(context) &quot;<strong>between planets</strong>&quot;</td>
+<td>（语境）<strong>行星之间的</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/interplanetary">Cambridge University Press &amp; Assessment, n.d., &quot;interplanetary&quot; adjective</a></td>
+</tr>
+<tr>
+<td><strong><a href="2400-ionosphere/index.html">2400 Ionosphere</a></strong><br>电离层</td>
+<td>&quot;the part of a planet's atmosphere in which there are <strong>many ions</strong> (= atoms or groups of atoms that have an electrical charge)&quot;</td>
+<td>行星大气中含有<strong>大量离子</strong>（即带电的原子或原子团）的部分</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/ionosphere">Cambridge University Press &amp; Assessment, n.d., &quot;ionosphere&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="2700-magnetospheric-physics/index.html">2700 Magnetospheric Physics</a></strong><br>磁层物理</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="3000-marine-geology-and-geophysics/index.html">3000 Marine Geology and Geophysics</a></strong><br>海洋地质与地球物理</td>
+<td>(context) &quot;the study of <strong>the rocks and similar substances</strong> that make up <strong>the earth's surface</strong>&quot;</td>
+<td>（语境）研究构成<strong>地球表面</strong>的<strong>岩石和类似物质</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geology">Cambridge University Press &amp; Assessment, n.d., &quot;geology&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="3200-mathematical-geophysics/index.html">3200 Mathematical Geophysics</a></strong><br>数学地球物理</td>
+<td>(context) &quot;the study of <strong>the rocks and other substances that make up the earth</strong> and <strong>the physical processes</strong> happening on, in, and above the earth&quot;</td>
+<td>（语境）研究<strong>构成地球的岩石和其他物质</strong>，以及发生在地球表面、内部和上空的<strong>物理过程</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geophysics">Cambridge University Press &amp; Assessment, n.d., &quot;geophysics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="3300-atmospheric-processes/index.html">3300 Atmospheric Processes</a></strong><br>大气过程</td>
+<td>(context) &quot;<strong>the mixture of gases</strong> around <strong>the earth</strong>&quot;</td>
+<td>（语境）<strong>地球</strong>周围的<strong>混合气体</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/atmosphere">Cambridge University Press &amp; Assessment, n.d., &quot;atmosphere&quot; noun (AIR)</a></td>
+</tr>
+<tr>
+<td><strong><a href="3600-mineralogy-and-petrology/index.html">3600 Mineralogy and Petrology</a></strong><br>矿物学与岩石学</td>
+<td>(context) &quot;the <strong>scientific study of minerals</strong>&quot;</td>
+<td>（语境）对<strong>矿物的科学研究</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/mineralogy">Cambridge University Press &amp; Assessment, n.d., &quot;mineralogy&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="3900-mineral-physics/index.html">3900 Mineral Physics</a></strong><br>矿物物理</td>
+<td>(context) &quot;a valuable or useful <strong>chemical substance</strong> that is <strong>formed naturally in the ground</strong>&quot;</td>
+<td>（语境）一种有价值或有用的、<strong>在地下自然形成</strong>的<strong>化学物质</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/mineral">Cambridge University Press &amp; Assessment, n.d., &quot;mineral&quot; noun (SUBSTANCE)</a></td>
+</tr>
+<tr>
+<td><strong><a href="4300-natural-hazards/index.html">4300 Natural Hazards</a></strong><br>自然灾害</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="4400-nonlinear-geophysics/index.html">4400 Nonlinear Geophysics</a></strong><br>非线性地球物理</td>
+<td>(context) &quot;the study of <strong>the rocks and other substances that make up the earth</strong> and <strong>the physical processes</strong> happening on, in, and above the earth&quot;</td>
+<td>（语境）研究<strong>构成地球的岩石和其他物质</strong>，以及发生在地球表面、内部和上空的<strong>物理过程</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geophysics">Cambridge University Press &amp; Assessment, n.d., &quot;geophysics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="4200-oceanography-general/index.html">4200 Oceanography: General</a></strong><br>海洋学：总论</td>
+<td>&quot;the <strong>scientific study of the sea</strong>&quot;</td>
+<td>对<strong>海洋的科学研究</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/oceanography">Cambridge University Press &amp; Assessment, n.d., &quot;oceanography&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="4500-oceanography-physical/index.html">4500 Oceanography: Physical</a></strong><br>海洋学：物理</td>
+<td>(context) &quot;the <strong>scientific study of the sea</strong>&quot;</td>
+<td>（语境）对<strong>海洋的科学研究</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/oceanography">Cambridge University Press &amp; Assessment, n.d., &quot;oceanography&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="4522-enso/index.html">4522 ENSO</a></strong><br>厄尔尼诺-南方涛动</td>
+<td>(context) &quot;an <strong>unusual ocean current</strong> that happens along the western coast of South America every two to ten years, killing large numbers of sea creatures and causing <strong>noticeable and often severe changes in weather conditions</strong> in many areas of the world&quot;</td>
+<td>（语境）一种<strong>不寻常的洋流</strong>，每隔两到十年出现在南美洲西海岸，导致大量海洋生物死亡，并在世界许多地区引起<strong>明显且往往剧烈的天气变化</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/el-nino">Cambridge University Press &amp; Assessment, n.d., &quot;El Niño&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="4800-oceanography-biological-and-chemical/index.html">4800 Oceanography: Biological and Chemical</a></strong><br>海洋学：生物与化学</td>
+<td>(context) &quot;the <strong>scientific study of the sea</strong>&quot;</td>
+<td>（语境）对<strong>海洋的科学研究</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/oceanography">Cambridge University Press &amp; Assessment, n.d., &quot;oceanography&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="4900-paleoceanography/index.html">4900 Paleoceanography</a></strong><br>古海洋学</td>
+<td>(context) &quot;the <strong>scientific study of the sea</strong>&quot;</td>
+<td>（语境）对<strong>海洋的科学研究</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/oceanography">Cambridge University Press &amp; Assessment, n.d., &quot;oceanography&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="5100-physical-properties-of-rocks/index.html">5100 Physical Properties of Rocks</a></strong><br>岩石物理性质</td>
+<td>(context) &quot;<strong>the dry solid part of the earth's surface</strong>, or any large piece of this that sticks up out of the ground or the sea&quot;</td>
+<td>（语境）<strong>地球表面干燥的固体部分</strong>，或其中从地面或海面突出的任何大块</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/rock">Cambridge University Press &amp; Assessment, n.d., &quot;rock&quot; noun (STONE)</a></td>
+</tr>
+<tr>
+<td><strong><a href="5200-planetary-sciences-astrobiology/index.html">5200 Planetary Sciences: Astrobiology</a></strong><br>行星科学：天体生物学</td>
+<td>&quot;the scientific study of <strong>life on earth and across the universe</strong>&quot;</td>
+<td>对<strong>地球及整个宇宙中的生命</strong>的科学研究</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/astrobiology">Cambridge University Press &amp; Assessment, n.d., &quot;astrobiology&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="5400-planetary-sciences-solid-surface-planets/index.html">5400 Planetary Sciences: Solid Surface Planets</a></strong><br>行星科学：固体表面行星</td>
+<td>(context) &quot;the <strong>study of the planets</strong>, and <strong>the systems relating to them</strong>, in the solar system (= the sun and the group of planets that move around it)&quot;</td>
+<td>（语境）对太阳系（即太阳及绕它运行的行星群）中<strong>行星</strong>及<strong>与之相关的系统</strong>的研究</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/planetary-science">Cambridge University Press &amp; Assessment, n.d., &quot;planetary science&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="5700-planetary-sciences-fluid-planets/index.html">5700 Planetary Sciences: Fluid Planets</a></strong><br>行星科学：流体行星</td>
+<td>(context) &quot;the <strong>study of the planets</strong>, and <strong>the systems relating to them</strong>, in the solar system (= the sun and the group of planets that move around it)&quot;</td>
+<td>（语境）对太阳系（即太阳及绕它运行的行星群）中<strong>行星</strong>及<strong>与之相关的系统</strong>的研究</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/planetary-science">Cambridge University Press &amp; Assessment, n.d., &quot;planetary science&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="6000-planetary-sciences-comets-and-small-bodies/index.html">6000 Planetary Sciences: Comets and Small Bodies</a></strong><br>行星科学：彗星与小天体</td>
+<td>(context) &quot;<strong>an object that moves around the sun</strong>, usually at a great distance from it, that is seen on rare occasions from the earth as <strong>a bright line in the sky</strong>&quot;</td>
+<td>（语境）<strong>一种绕太阳运行的天体</strong>，通常离太阳很远，偶尔能从地球上看到它在天空中呈<strong>一道亮线</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/comet">Cambridge University Press &amp; Assessment, n.d., &quot;comet&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="6200-planetary-sciences-solar-system-objects/index.html">6200 Planetary Sciences: Solar System Objects</a></strong><br>行星科学：太阳系天体</td>
+<td>(context) &quot;<strong>the sun</strong> and <strong>the group of planets that move around it</strong>&quot;</td>
+<td>（语境）<strong>太阳</strong>以及<strong>绕它运行的行星群</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/solar-system">Cambridge University Press &amp; Assessment, n.d., &quot;solar system&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="6300-policy-sciences/index.html">6300 Policy Sciences</a></strong><br>政策科学</td>
+<td>(context) &quot;<strong>a set of ideas or a plan of what to do in particular situations</strong> that has been <strong>agreed to officially</strong> by a group of people, a business organization, a government, or a political party&quot;</td>
+<td>（语境）一个群体、企业组织、政府或政党<strong>正式认可</strong>的<strong>一套在特定情况下如何行事的想法或计划</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/policy">Cambridge University Press &amp; Assessment, n.d., &quot;policy&quot; noun (PLAN)</a></td>
+</tr>
+<tr>
+<td><strong><a href="6600-public-issues/index.html">6600 Public Issues</a></strong><br>公共问题</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="6900-radio-science/index.html">6900 Radio Science</a></strong><br>无线电科学</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="7200-seismology/index.html">7200 Seismology</a></strong><br>地震学</td>
+<td>&quot;the scientific study of <strong>the sudden, violent movements of the earth</strong> connected with <strong>earthquakes</strong>&quot;</td>
+<td>对与<strong>地震</strong>有关的<strong>地球突发剧烈运动</strong>的科学研究</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/seismology">Cambridge University Press &amp; Assessment, n.d., &quot;seismology&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="7500-solar-physics-astrophysics-and-astronomy/index.html">7500 Solar Physics, Astrophysics, and Astronomy</a></strong><br>太阳物理、天体物理与天文学</td>
+<td>(context) &quot;the type of astronomy that uses <strong>physical laws and ideas</strong> to explain <strong>the behaviour of the stars and other objects in space</strong>&quot;</td>
+<td>（语境）天文学的一种，用<strong>物理定律和概念</strong>来解释<strong>恒星和太空中其他天体的行为</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/astrophysics">Cambridge University Press &amp; Assessment, n.d., &quot;astrophysics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="7800-space-plasma-physics/index.html">7800 Space Plasma Physics</a></strong><br>空间等离子体物理</td>
+<td>(context) &quot;<strong>a type of gas with almost no electrical charge</strong>, found in the sun and other stars&quot;</td>
+<td>（语境）<strong>一种几乎不带电荷的气体</strong>，存在于太阳和其他恒星中</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/plasma">Cambridge University Press &amp; Assessment, n.d., &quot;plasma&quot; noun (GAS)</a></td>
+</tr>
+<tr>
+<td><strong><a href="7900-space-weather/index.html">7900 Space Weather</a></strong><br>空间天气</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="8000-structural-geology/index.html">8000 Structural Geology</a></strong><br>构造地质学</td>
+<td>(context) &quot;the study of <strong>the rocks and similar substances</strong> that make up <strong>the earth's surface</strong>&quot;</td>
+<td>（语境）研究构成<strong>地球表面</strong>的<strong>岩石和类似物质</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geology">Cambridge University Press &amp; Assessment, n.d., &quot;geology&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="8100-tectonophysics/index.html">8100 Tectonophysics</a></strong><br>构造物理学</td>
+<td>(context) &quot;processes that relate to <strong>the structure of the earth's surface</strong> and <strong>the way it is formed, changed, and moved by forces inside it</strong>&quot;</td>
+<td>（语境）与<strong>地球表面结构</strong>以及<strong>地表如何被内部力量形成、改变和移动</strong>有关的过程</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/tectonics">Cambridge University Press &amp; Assessment, n.d., &quot;tectonics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="8400-volcanology/index.html">8400 Volcanology</a></strong><br>火山学</td>
+<td>&quot;the <strong>study of volcanoes</strong> (= mountains with a large, circular hole at the top through which hot liquid rock, gases, steam, and dust are or have been forced out), and of <strong>the physical processes that are connected with volcanoes</strong>&quot;</td>
+<td>对<strong>火山</strong>（即顶部有大圆口、炽热的液态岩石、气体、蒸汽和灰尘曾经或正在从中喷出的山）以及<strong>与火山有关的物理过程</strong>的研究</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/volcanology">Cambridge University Press &amp; Assessment, n.d., &quot;volcanology&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="9300-geographic-location/index.html">9300 Geographic Location</a></strong><br>地理位置</td>
+<td>(context) &quot;the study of <strong>the systems and processes involved in the world's weather, mountains, seas, lakes, etc.</strong> and of <strong>the ways in which countries and people organize life within an area</strong>&quot;</td>
+<td>（语境）研究<strong>世界天气、山脉、海洋、湖泊等所涉及的系统和过程</strong>，以及<strong>国家和人们如何在一个区域内组织生活</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/geography">Cambridge University Press &amp; Assessment, n.d., &quot;geography&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="9600-information-related-to-geologic-time/index.html">9600 Information Related to Geologic Time</a></strong><br>与地质年代有关的信息</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>American Geophysical Union. (n.d.). <em>Index terms</em>. Retrieved October 27, 2026, from <a href="https://www.agu.org/publications/authors/journals/index-terms">https://www.agu.org/publications/authors/journals/index-terms</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Astrobiology. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/astrobiology">https://dictionary.cambridge.org/dictionary/english/astrobiology</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Astrophysics. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/astrophysics">https://dictionary.cambridge.org/dictionary/english/astrophysics</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Atmosphere. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/atmosphere">https://dictionary.cambridge.org/dictionary/english/atmosphere</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Climate change. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/climate-change">https://dictionary.cambridge.org/dictionary/english/climate-change</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Comet. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/comet">https://dictionary.cambridge.org/dictionary/english/comet</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Cryosphere. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/cryosphere">https://dictionary.cambridge.org/dictionary/english/cryosphere</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Education. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/education">https://dictionary.cambridge.org/dictionary/english/education</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). El Niño. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/el-nino">https://dictionary.cambridge.org/dictionary/english/el-nino</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Electromagnetism. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/electromagnetism">https://dictionary.cambridge.org/dictionary/english/electromagnetism</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Geochemistry. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/geochemistry">https://dictionary.cambridge.org/dictionary/english/geochemistry</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Geodesy. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/geodesy">https://dictionary.cambridge.org/dictionary/english/geodesy</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Geography. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/geography">https://dictionary.cambridge.org/dictionary/english/geography</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Geology. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/geology">https://dictionary.cambridge.org/dictionary/english/geology</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Geophysics. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/geophysics">https://dictionary.cambridge.org/dictionary/english/geophysics</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Hydrology. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/hydrology">https://dictionary.cambridge.org/dictionary/english/hydrology</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Information science. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/information-science">https://dictionary.cambridge.org/dictionary/english/information-science</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Interplanetary. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/interplanetary">https://dictionary.cambridge.org/dictionary/english/interplanetary</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Ionosphere. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/ionosphere">https://dictionary.cambridge.org/dictionary/english/ionosphere</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Mineral. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/mineral">https://dictionary.cambridge.org/dictionary/english/mineral</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Mineralogy. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/mineralogy">https://dictionary.cambridge.org/dictionary/english/mineralogy</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Oceanography. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/oceanography">https://dictionary.cambridge.org/dictionary/english/oceanography</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Planetary science. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/planetary-science">https://dictionary.cambridge.org/dictionary/english/planetary-science</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Plasma. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/plasma">https://dictionary.cambridge.org/dictionary/english/plasma</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Policy. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/policy">https://dictionary.cambridge.org/dictionary/english/policy</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Rock. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/rock">https://dictionary.cambridge.org/dictionary/english/rock</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Seismology. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/seismology">https://dictionary.cambridge.org/dictionary/english/seismology</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Solar system. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/solar-system">https://dictionary.cambridge.org/dictionary/english/solar-system</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Tectonics. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/tectonics">https://dictionary.cambridge.org/dictionary/english/tectonics</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Volcanology. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/volcanology">https://dictionary.cambridge.org/dictionary/english/volcanology</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-28 14:32:23-04:00">10/28/2026 14:32:23</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>26.2 Plan | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 26.2 Plan: Migration waves, Nonproduction environment, Downtime migration, Near-zero downtime migration, Rollback plan, Performance benchmark.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="262-plan">26.2 Plan</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/plan.png" alt="Plan, in its sections: Define operating model, Gain cloud skills, Plan migration (expanded into Migration waves, Nonproduction environment, Downtime migration, Near-zero downtime migration, Rollback plan, Performance benchmark), Estimate cloud costs, Document adoption plan."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Plan</strong><br>规划</td>
+<td>&quot;A <strong>cloud adoption plan</strong> converts <strong>your cloud strategy into an actionable plan</strong> that's specific to your goals.&quot;</td>
+<td><strong>云采用计划</strong>把<strong>你的云战略转化为可执行的计划</strong>，并针对你的目标。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/#:%7E:text=A%20cloud%20adoption%20plan%20converts%20your%20cloud%20strategy">Microsoft, 2025d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Define operating model</strong><br>定义运营模式</td>
+<td>&quot;A <strong>cloud operating model</strong> defines <strong>how your organization manages cloud resources, team responsibilities, and collaboration</strong>.&quot;</td>
+<td><strong>云运营模式</strong>定义了<strong>你的组织如何管理云资源、团队职责和协作</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/#:%7E:text=A%20cloud%20operating%20model%20defines%20how%20your%20organization">Microsoft, 2025d, &quot;Choose a cloud operating model&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Gain cloud skills</strong><br>获取云技能</td>
+<td>(context) &quot;This article provides guidance to <strong>equip your team with the skills necessary for successful Azure adoption</strong>.&quot;</td>
+<td>（语境）本文提供指导，帮助<strong>让你的团队具备成功采用 Azure 所需的技能</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/prepare-people-for-cloud#:%7E:text=This%20article%20provides%20guidance%20to%20equip%20your%20team">Microsoft, 2025e, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Plan migration</strong><br>规划迁移</td>
+<td>&quot;A <strong>migration plan</strong> defines <strong>the specific order, timing, and approach for migrating workloads to Azure</strong>.&quot;</td>
+<td><strong>迁移计划</strong>定义了<strong>把工作负载迁移到 Azure 的具体顺序、时间和方法</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:%7E:text=A%20migration%20plan%20defines%20the%20specific%20order%2C%20timing%2C">Microsoft, 2025c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Migration waves</strong><br>迁移波次</td>
+<td>(context) &quot;Organize large portfolios into <strong>migration waves</strong>.&quot;</td>
+<td>（语境）把大型项目组合组织成<strong>迁移波次</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:%7E:text=Organize%20large%20portfolios%20into%20migration%20waves">Microsoft, 2025c, &quot;Determine the migration sequence&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Nonproduction environment</strong><br>非生产环境</td>
+<td>(context) &quot;<strong>Move non-production environments before production.</strong> <strong>Nonproduction environments</strong> provide a <strong>safe space to test the full migration process</strong>.&quot;</td>
+<td>（语境）<strong>先迁移非生产环境，再迁移生产环境。</strong> <strong>非生产环境</strong>提供了一个<strong>测试完整迁移过程的安全空间</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:%7E:text=Move%20non-production%20environments%20before%20production.%20Nonproduction%20environments%20provide">Microsoft, 2025c, &quot;Prioritize workloads to migrate&quot; section, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Downtime migration</strong><br>停机迁移</td>
+<td>&quot;Downtime migration is <strong>simpler and faster</strong> because it <strong>doesn't require real-time synchronization</strong> between source and target environments. This method works well for noncritical workloads such as development environments, test systems, or applications with <strong>scheduled maintenance windows</strong>.&quot;</td>
+<td>停机迁移<strong>更简单、更快</strong>，因为它<strong>不需要源环境和目标环境之间的实时同步</strong>。这种方法适合非关键工作负载，例如开发环境、测试系统，或有<strong>计划维护时段</strong>的应用程序。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:%7E:text=Downtime%20migration%20is%20simpler%20and%20faster">Microsoft, 2025c, &quot;Choose the migration method for each workload&quot; section, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Near-zero downtime migration</strong><br>近零停机迁移</td>
+<td>&quot;Near-zero downtime migration ensures that <strong>critical workloads remain operational</strong> during the transition through <strong>continuous data replication and cutover techniques</strong>.&quot;</td>
+<td>近零停机迁移确保<strong>关键工作负载在过渡期间保持运行</strong>，方法是<strong>持续的数据复制和切换技术</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:%7E:text=Near%2Dzero%20downtime%20migration%20ensures">Microsoft, 2025c, &quot;Choose the migration method for each workload&quot; section, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Rollback plan</strong><br>回滚计划</td>
+<td>&quot;A rollback plan enables teams to <strong>quickly reverse changes</strong> when a deployment <strong>fails or introduces risk</strong>.&quot;</td>
+<td>回滚计划让团队能够<strong>快速撤回变更</strong>，用于部署<strong>失败或带来风险</strong>的情况。</td>
+<td>[Microsoft, 2025c, &quot;Define rollback plan&quot; section, para. 1](<a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:%7E:text=A%20rollback%20plan%20enables%20teams">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:~:text=A%20rollback%20plan%20enables%20teams</a></td>
+</tr>
+<tr>
+<td><strong>Performance benchmark</strong><br>性能基准</td>
+<td>(context) &quot;Set measurable metrics including <strong>performance benchmarks</strong>, functionality validation, and user acceptance criteria.&quot;</td>
+<td>（语境）设定可衡量的指标，包括<strong>性能基准</strong>、功能验证和用户验收标准。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:%7E:text=Set%20measurable%20metrics%20including%20performance%20benchmarks%2C%20functionality%20validation%2C">Microsoft, 2025c, &quot;Engage stakeholders on migration plan&quot; section, item 5</a></td>
+</tr>
+<tr>
+<td><strong>Estimate cloud costs</strong><br>估算云成本</td>
+<td>(context) &quot;This article defines how to <strong>create accurate cost estimates for your Azure environment</strong> by documenting architectural decisions and service selections.&quot;</td>
+<td>（语境）本文说明如何通过记录架构决策和服务选择，<strong>为你的 Azure 环境创建准确的成本估算</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/estimate-total-cost-of-ownership#:%7E:text=This%20article%20defines%20how%20to%20create%20accurate%20cost">Microsoft, 2025b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Document adoption plan</strong><br>记录采用计划</td>
+<td>&quot;A <strong>cloud adoption plan</strong> provides <strong>a single source of truth for all decisions, estimates, and strategies</strong> related to Azure adoption.&quot;</td>
+<td><strong>云采用计划</strong>为与 Azure 采用相关的<strong>所有决策、估算和战略提供唯一的事实来源</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/document-cloud-adoption-plan#:%7E:text=A%20cloud%20adoption%20plan%20provides%20a%20single%20source">Microsoft, 2025a, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2025a, July 15). <em>Document your cloud adoption plan</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/document-cloud-adoption-plan">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/document-cloud-adoption-plan</a></li>
+<li>Microsoft. (2025b, July 15). <em>Plan your Azure environment for cost estimation</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/estimate-total-cost-of-ownership">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/estimate-total-cost-of-ownership</a></li>
+<li>Microsoft. (2025c, August 1). <em>Plan your migration</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration</a></li>
+<li>Microsoft. (2025d, July 15). <em>Prepare your organization for the cloud</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/</a></li>
+<li>Microsoft. (2025e, July 15). <em>Prepare your people for the cloud</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/prepare-people-for-cloud">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/prepare-people-for-cloud</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 14:59:50-04:00">10/27/2026 14:59:50</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

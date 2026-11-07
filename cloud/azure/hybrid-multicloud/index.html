@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>21. Hybrid + Multicloud | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 21. Hybrid + multicloud: Azure Arc, Azure Database for PostgreSQL, Azure DevOps, Azure ExpressRoute, Azure IoT Edge, Azure Kubernetes Service Edge Essentials, Azure Local, Azure Operator Nexus, Azure Operator Service Manager, Azure SQL Database, Azure Stack Edge, Azure Stack Hub, Microsoft Defender for Cloud, Microsoft Sentinel.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="21-hybrid--multicloud">21. Hybrid + Multicloud</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/hybrid-multicloud.png" alt="Hybrid + multicloud: the products listed for it on the Azure documentation home page, in its order: Azure Arc, Azure Database for PostgreSQL, Azure DevOps, Azure ExpressRoute, Azure IoT Edge, Azure Kubernetes Service Edge Essentials, Azure Local, Azure Operator Nexus, Azure Operator Service Manager, Azure SQL Database, Azure Stack Edge, Azure Stack Hub, Microsoft Defender for Cloud, Microsoft Sentinel."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hybrid + multicloud</strong><br>混合 + 多云</td>
+<td>&quot;<strong>Hybrid cloud computing</strong> combines <strong>public cloud computing with on-premises infrastructure, or the private cloud</strong>, into an <strong>integrated environment</strong>.&quot; &quot;<strong>Multicloud</strong> refers to the <strong>use of cloud services from multiple cloud providers</strong> to manage the demands of different workloads.&quot;</td>
+<td><strong>混合云计算</strong>把<strong>公有云计算与本地基础结构</strong>（或私有云）结合成一个<strong>集成环境</strong>。<strong>多云</strong>指<strong>使用多个云提供商的云服务</strong>来满足不同工作负载的需求。</td>
+<td><a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing#:%7E:text=Hybrid%20cloud%20computing%20combines">Microsoft, n.d.-b, &quot;Hybrid cloud definition&quot; section, para. 1; FAQ 03</a></td>
+</tr>
+<tr>
+<td><strong>Azure Arc</strong><br>Azure Arc</td>
+<td>&quot;Azure Arc simplifies governance and management by delivering a <strong>consistent multicloud and on-premises management platform</strong>.&quot;</td>
+<td>Azure Arc 通过提供<strong>一致的多云和本地管理平台</strong>来简化治理和管理。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-arc/overview#:%7E:text=consistent%20multicloud%20and%20on-premises%20management%20platform">Microsoft, 2025a, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Azure Database for PostgreSQL</strong><br>Azure PostgreSQL 数据库</td>
+<td>&quot;Azure Database for PostgreSQL is a <strong>fully managed database service</strong> that gives you <strong>granular control and flexibility</strong> over database management functions and configuration settings.&quot;</td>
+<td>Azure Database for PostgreSQL 是一种<strong>完全托管的数据库服务</strong>，让你对数据库管理功能和配置设置拥有<strong>精细的控制和灵活性</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/postgresql/overview#:%7E:text=is%20a%20fully%20managed%20database%20service%20that%20gives%20you%20granular%20control">Microsoft, 2026b, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Azure DevOps</strong><br>Azure DevOps</td>
+<td>&quot;Azure DevOps is a <strong>cloud-based platform</strong> that provides <strong>integrated tools for software development teams</strong>.&quot;</td>
+<td>Azure DevOps 是一个<strong>基于云的平台</strong>，为<strong>软件开发团队提供集成工具</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops#:%7E:text=is%20a%20cloud-based%20platform%20that%20provides%20integrated%20tools">Microsoft, 2026c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure ExpressRoute</strong><br>Azure ExpressRoute</td>
+<td>&quot;ExpressRoute lets you <strong>extend your on-premises networks into the Microsoft cloud</strong> over a <strong>private connection</strong> with the help of a connectivity provider.&quot;</td>
+<td>ExpressRoute 让你借助连接服务提供商，通过<strong>专用连接</strong>把<strong>本地网络扩展到 Microsoft 云</strong>中。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction#:%7E:text=lets%20you%20extend%20your%20on-premises%20networks%20into%20the%20Microsoft%20cloud">Microsoft, 2026d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure IoT Edge</strong><br>Azure IoT 边缘</td>
+<td>&quot;Azure IoT Edge is a <strong>device-focused runtime</strong> that enables you to <strong>deploy, run, and monitor containerized Linux applications</strong>, bringing analytics closer to your devices for faster insights and offline decision-making.&quot;</td>
+<td>Azure IoT Edge 是一个<strong>面向设备的运行时</strong>，让你可以<strong>部署、运行和监视容器化的 Linux 应用程序</strong>，把分析带到更靠近设备的地方，以便更快地获得见解并离线做出决策。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge#:%7E:text=is%20a%20device-focused%20runtime">Microsoft, 2026e, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Kubernetes Service Edge Essentials</strong><br>Azure Kubernetes 服务 Edge Essentials</td>
+<td>&quot;Azure Kubernetes Service Edge Essentials is an <strong>on-premises Kubernetes implementation</strong> of Azure Kubernetes Service (AKS) that <strong>automates running containerized applications at scale</strong>.&quot;</td>
+<td>Azure Kubernetes Service Edge Essentials 是 Azure Kubernetes Service（AKS）的一种<strong>本地 Kubernetes 实现</strong>，它<strong>自动化大规模运行容器化应用程序</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/aks/hybrid/aks-edge-overview#:%7E:text=is%20an%20on-premises%20Kubernetes%20implementation">Microsoft, 2026a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Local</strong><br>Azure 本地</td>
+<td>&quot;Azure Local is Microsoft's <strong>distributed infrastructure solution</strong> that <strong>extends Azure capabilities to customer-owned environments</strong>.&quot;</td>
+<td>Azure Local 是 Microsoft 的<strong>分布式基础结构解决方案</strong>，它<strong>把 Azure 功能扩展到客户自有的环境</strong>中。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-local/overview#:%7E:text=distributed%20infrastructure%20solution%20that%20extends%20Azure%20capabilities">Microsoft, 2026f, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Operator Nexus</strong><br>Azure 运营商关系</td>
+<td>&quot;Azure Operator Nexus is a <strong>carrier-grade, next-generation hybrid cloud platform</strong> for <strong>telecommunication operators</strong>.&quot;</td>
+<td>Azure Operator Nexus 是一个面向<strong>电信运营商</strong>的<strong>运营商级下一代混合云平台</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/operator-nexus/overview#:%7E:text=is%20a%20carrier-grade%2C%20next-generation%20hybrid%20cloud%20platform">Microsoft, 2025c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Operator Service Manager</strong><br>Azure 操作员服务管理器</td>
+<td>&quot;Azure Operator Service Manager is a <strong>cloud orchestration service</strong> designed to <strong>automate lifecycle management of complex mobility workloads</strong> hosted on Azure Operator Nexus.&quot;</td>
+<td>Azure Operator Service Manager 是一项<strong>云编排服务</strong>，旨在<strong>自动化复杂移动工作负载的生命周期管理</strong>，这些工作负载托管在 Azure Operator Nexus 上。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/operator-service-manager/azure-operator-service-manager-overview#:%7E:text=is%20a%20cloud%20orchestration%20service%20designed%20to%20automate">Microsoft, 2025d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure SQL Database</strong><br>Azure SQL 数据库</td>
+<td>(context) &quot;This article provides an overview of Azure SQL Database, a <strong>fully managed platform as a service (PaaS) database engine</strong> that <strong>handles most of the database management functions</strong> such as upgrading, patching, backups, and monitoring without user involvement.&quot;</td>
+<td>（语境）本文概述 Azure SQL Database，它是一个<strong>完全托管的平台即服务（PaaS）数据库引擎</strong>，无需用户参与就能<strong>处理大部分数据库管理功能</strong>，例如升级、修补、备份和监视。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql#:%7E:text=a%20fully%20managed%20platform%20as%20a%20service%20%28PaaS%29%20database%20engine">Microsoft, 2026g, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Stack Edge</strong><br>Azure Stack 边缘</td>
+<td>(context) &quot;Azure Stack Edge Pro with GPU is an <strong>AI-enabled edge computing device</strong> with <strong>network data transfer capabilities</strong>.&quot;</td>
+<td>（语境）Azure Stack Edge Pro with GPU 是一种<strong>支持 AI 的边缘计算设备</strong>，具有<strong>网络数据传输功能</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-overview#:%7E:text=is%20an%20AI-enabled%20edge%20computing%20device">Microsoft, 2025e, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Stack Hub</strong><br>Azure Stack Hub</td>
+<td>&quot;Azure Stack Hub is an <strong>extension of Azure</strong> that provides a way to <strong>run apps in an on-premises environment</strong> and deliver Azure services in your datacenter.&quot;</td>
+<td>Azure Stack Hub 是 <strong>Azure 的扩展</strong>，它提供一种方式，让你<strong>在本地环境中运行应用</strong>，并在你的数据中心提供 Azure 服务。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure-stack/operator/azure-stack-overview#:%7E:text=is%20an%20extension%20of%20Azure%20that%20provides%20a%20way%20to%20run%20apps">Microsoft, 2025b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft Defender for Cloud</strong><br>Microsoft Defender for Cloud</td>
+<td>&quot;Microsoft Defender for Cloud is a <strong>Cloud Native Application Protection Platform (CNAPP)</strong>, which is a unified solution that <strong>combines multiple cloud security tools</strong> to protect applications across their entire lifecycle.&quot;</td>
+<td>Microsoft Defender for Cloud 是一个<strong>云原生应用程序保护平台（CNAPP）</strong>，这是一种统一的解决方案，它<strong>结合多种云安全工具</strong>，在应用程序的整个生命周期中保护应用程序。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction#:%7E:text=which%20is%20a%20unified%20solution%20that%20combines%20multiple%20cloud%20security%20tools">Microsoft, 2026h, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft Sentinel</strong><br>Microsoft Sentinel</td>
+<td>&quot;Microsoft Sentinel is a <strong>cloud-native SIEM solution</strong> that delivers <strong>scalable, cost-efficient security</strong> across multicloud and multiplatform environments.&quot;</td>
+<td>Microsoft Sentinel 是一种<strong>云原生 SIEM 解决方案</strong>，在多云和多平台环境中提供<strong>可扩展、经济高效的安全性</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/sentinel/overview#:%7E:text=is%20a%20cloud-native%20SIEM%20solution">Microsoft, 2026i, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="coverage">Coverage</h2>
+<table>
+<thead>
+<tr>
+<th>Certification</th>
+<th>Skill area</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AZ-400 Designing and Implementing Microsoft DevOps Solutions</td>
+<td><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400#design-and-implement-build-and-release-pipelines-5055">Design and implement build and release pipelines (50–55%)</a><br><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400#design-and-implement-processes-and-communications-1015">Design and implement processes and communications (10–15%)</a><br><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400#develop-a-security-and-compliance-plan-1015">Develop a security and compliance plan (10–15%)</a><br><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-400#implement-an-instrumentation-strategy-510">Implement an instrumentation strategy (5–10%)</a></td>
+</tr>
+<tr>
+<td>AZ-500 Microsoft Azure Security Technologies</td>
+<td><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500#secure-azure-using-microsoft-defender-for-cloud-and-microsoft-sentinel-3035">Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel (30–35%)</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (n.d.-a). <em>Azure documentation</em>. Microsoft Learn. Retrieved October 25, 2026, from <a href="https://learn.microsoft.com/en-us/azure/">https://learn.microsoft.com/en-us/azure/</a></li>
+<li>Microsoft. (n.d.-b). <em>What is a hybrid cloud?</em> Microsoft Azure. Retrieved October 26, 2026, from <a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing">https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-hybrid-cloud-computing</a></li>
+<li>Microsoft. (2025a, August 26). <em>Azure Arc overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/azure-arc/overview">https://learn.microsoft.com/en-us/azure/azure-arc/overview</a></li>
+<li>Microsoft. (2025b, May 8). <em>Azure Stack Hub overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure-stack/operator/azure-stack-overview">https://learn.microsoft.com/en-us/azure-stack/operator/azure-stack-overview</a></li>
+<li>Microsoft. (2025c, September 17). <em>What is Azure Operator Nexus?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/operator-nexus/overview">https://learn.microsoft.com/en-us/azure/operator-nexus/overview</a></li>
+<li>Microsoft. (2025d, November 1). <em>What is Azure Operator Service Manager?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/operator-service-manager/azure-operator-service-manager-overview">https://learn.microsoft.com/en-us/azure/operator-service-manager/azure-operator-service-manager-overview</a></li>
+<li>Microsoft. (2025e, January 10). <em>What is Azure Stack Edge Pro with GPU?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-overview">https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-overview</a></li>
+<li>Microsoft. (2026a, September 3). <em>AKS Edge Essentials</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/aks/hybrid/aks-edge-overview">https://learn.microsoft.com/en-us/azure/aks/hybrid/aks-edge-overview</a></li>
+<li>Microsoft. (2026b, January 9). <em>What is Azure Database for PostgreSQL flexible server?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/postgresql/overview">https://learn.microsoft.com/en-us/azure/postgresql/overview</a></li>
+<li>Microsoft. (2026c, March 9). <em>What is Azure DevOps?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops">https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops</a></li>
+<li>Microsoft. (2026d, August 27). <em>What is Azure ExpressRoute?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction">https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction</a></li>
+<li>Microsoft. (2026e, April 13). <em>What is Azure IoT Edge</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge">https://learn.microsoft.com/en-us/azure/iot-edge/about-iot-edge</a></li>
+<li>Microsoft. (2026f, April 22). <em>What is Azure Local?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/azure-local/overview">https://learn.microsoft.com/en-us/azure/azure-local/overview</a></li>
+<li>Microsoft. (2026g, October 13). <em>What is Azure SQL Database?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql">https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql</a></li>
+<li>Microsoft. (2026h, August 10). <em>What is Microsoft Defender for Cloud?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction">https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction</a></li>
+<li>Microsoft. (2026i, May 14). <em>What is Microsoft Sentinel security information and event management (SIEM)?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/sentinel/overview">https://learn.microsoft.com/en-us/azure/sentinel/overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:35-04:00">10/27/2026 21:51:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

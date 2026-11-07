@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.1 Infrastructure as a Service (IaaS) | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 4.1 Infrastructure as a service (IaaS): Virtual Machines, Virtual Machine Scale Sets, Azure Spot Virtual Machines, Azure VMware Solution; Virtual Machines expanded into the seven VM size types and the temporary disk.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="41-infrastructure-as-a-service-iaas">4.1 Infrastructure as a Service (IaaS)</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/infrastructure-as-a-service.png" alt="Infrastructure as a service (IaaS), four terms: Virtual Machines and Azure VMware Solution, defined in Choose an Azure compute service, and Virtual Machine Scale Sets and Azure Spot Virtual Machines, described in the Compute list of the Azure documentation; Virtual Machines expanded into the seven VM size types of Sizes for virtual machines in Azure (General purpose, Compute optimized, Memory optimized, Storage optimized, GPU accelerated, FPGA accelerated, High performance compute) and the temporary disk of Azure managed disks overview."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Virtual Machines</strong><br>虚拟机</td>
+<td>&quot;Azure Virtual Machines is a service that you can use to <strong>deploy and manage virtual machines</strong> (VMs) inside an <strong>Azure virtual network</strong>.&quot;</td>
+<td>Azure Virtual Machines 是一项服务，可用来<strong>部署和管理虚拟机</strong>（VM），这些虚拟机位于 <strong>Azure 虚拟网络</strong>中。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:%7E:text=is%20a%20service%20that%20you%20can%20use%20to%20deploy%20and%20manage%20virtual%20machines">Microsoft, 2026c, &quot;Understand the basic features&quot; section, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>General purpose</strong><br>通用型</td>
+<td>&quot;General purpose VM sizes provide <strong>balanced CPU-to-memory ratio</strong>. Ideal for <strong>testing and development, small to medium databases, and low to medium traffic web servers</strong>.&quot;</td>
+<td>通用型 VM 大小提供<strong>均衡的 CPU 与内存比例</strong>。适合<strong>测试和开发、中小型数据库，以及中低流量的 Web 服务器</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#:%7E:text=General%20purpose%20VM%20sizes%20provide%20balanced%20CPU%2Dto%2Dmemory%20ratio">Microsoft, 2026d, &quot;General purpose&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Compute optimized</strong><br>计算优化型</td>
+<td>&quot;Compute optimized VM sizes have a <strong>high CPU-to-memory ratio</strong>. These sizes are good for <strong>medium traffic web servers, network appliances, batch processes, and application servers</strong>.&quot;</td>
+<td>计算优化型 VM 大小具有<strong>较高的 CPU 与内存比例</strong>。这些大小适合<strong>中等流量的 Web 服务器、网络设备、批处理和应用程序服务器</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#:%7E:text=Compute%20optimized%20VM%20sizes%20have%20a%20high%20CPU%2Dto%2Dmemory%20ratio">Microsoft, 2026d, &quot;Compute optimized&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Memory optimized</strong><br>内存优化型</td>
+<td>&quot;Memory optimized VM sizes offer a <strong>high memory-to-CPU ratio</strong> that is great for <strong>relational database servers, medium to large caches, and in-memory analytics</strong>.&quot;</td>
+<td>内存优化型 VM 大小提供<strong>较高的内存与 CPU 比例</strong>，非常适合<strong>关系数据库服务器、中大型缓存和内存中分析</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#:%7E:text=Memory%20optimized%20VM%20sizes%20offer%20a%20high%20memory%2Dto%2DCPU%20ratio">Microsoft, 2026d, &quot;Memory optimized&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Storage optimized</strong><br>存储优化型</td>
+<td>&quot;Storage optimized virtual machine (VM) sizes offer <strong>high disk throughput and IO</strong>, and are ideal for <strong>Big Data, SQL, NoSQL databases, data warehousing, and large transactional databases</strong>.&quot;</td>
+<td>存储优化型虚拟机（VM）大小提供<strong>高磁盘吞吐量和 IO</strong>，适合<strong>大数据、SQL、NoSQL 数据库、数据仓库和大型事务数据库</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#:%7E:text=Storage%20optimized%20virtual%20machine%20(VM)%20sizes%20offer%20high%20disk%20throughput%20and%20IO">Microsoft, 2026d, &quot;Storage optimized&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>GPU accelerated</strong><br>GPU 加速型</td>
+<td>&quot;GPU optimized VM sizes are specialized virtual machines available with <strong>single, multiple, or fractional GPUs</strong>. These sizes are designed for <strong>compute-intensive, graphics-intensive, and visualization workloads</strong>.&quot;</td>
+<td>GPU 优化型 VM 大小是配有<strong>单个、多个或部分 GPU</strong> 的专用虚拟机。这些大小为<strong>计算密集型、图形密集型和可视化工作负载</strong>而设计。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#:%7E:text=GPU%20optimized%20VM%20sizes%20are%20specialized%20virtual%20machines">Microsoft, 2026d, &quot;GPU accelerated&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>FPGA accelerated</strong><br>FPGA 加速型</td>
+<td>&quot;FPGA optimized VM sizes are specialized virtual machines available with <strong>single or multiple FPGAs</strong>. These sizes are designed for <strong>compute-intensive workloads</strong>.&quot;</td>
+<td>FPGA 优化型 VM 大小是配有<strong>单个或多个 FPGA</strong> 的专用虚拟机。这些大小为<strong>计算密集型工作负载</strong>而设计。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#:%7E:text=FPGA%20optimized%20VM%20sizes%20are%20specialized%20virtual%20machines">Microsoft, 2026d, &quot;FPGA accelerated&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>High performance compute</strong><br>高性能计算</td>
+<td>&quot;Azure High Performance Compute VMs are <strong>optimized for various HPC workloads</strong> such as computational fluid dynamics, finite element analysis, frontend and backend EDA, rendering, molecular dynamics, computational geoscience, weather simulation, and financial risk analysis.&quot;</td>
+<td>Azure 高性能计算 VM <strong>针对各种 HPC 工作负载进行了优化</strong>，例如计算流体动力学、有限元分析、前端和后端 EDA、渲染、分子动力学、计算地球科学、天气模拟和金融风险分析。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#:%7E:text=Azure%20High%20Performance%20Compute%20VMs%20are%20optimized%20for%20various%20HPC%20workloads">Microsoft, 2026d, &quot;High performance compute&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Temporary disk</strong><br>临时磁盘</td>
+<td>&quot;Most VMs contain a temporary disk, which <strong>isn't a managed disk</strong>. The temporary disk provides <strong>short-term storage for applications and processes</strong>. It's intended for storing only data such as <strong>page files, swap files, or SQL Server tempdb files</strong>.&quot;</td>
+<td>大多数 VM 都包含一个临时磁盘，它<strong>不是托管磁盘</strong>。临时磁盘<strong>为应用程序和进程提供短期存储</strong>。它只用于存储<strong>页面文件、交换文件或 SQL Server tempdb 文件</strong>之类的数据。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview#:%7E:text=Most%20VMs%20contain%20a%20temporary%20disk">Microsoft, 2026a, &quot;Temporary disk&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Virtual Machine Scale Sets</strong><br>虚拟机规模集</td>
+<td>&quot;Azure Virtual Machine Scale Sets let you <strong>create and manage a group of load balanced virtual machines</strong> (VM) instances. The number of VM instances can <strong>automatically increase or decrease</strong> in response to demand or a defined schedule.&quot;</td>
+<td>Azure 虚拟机规模集让你<strong>创建和管理一组负载均衡的虚拟机</strong>（VM）实例。VM 实例的数量可以根据需求或设定的计划<strong>自动增加或减少</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview#:%7E:text=let%20you%20create%20and%20manage%20a%20group%20of%20load%20balanced">Microsoft, 2026e, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Spot Virtual Machines</strong><br>Azure 竞价虚拟机</td>
+<td>&quot;Using Azure Spot Virtual Machines allows you to <strong>take advantage of our unused capacity</strong> at a <strong>significant cost savings</strong>. At any point in time when Azure needs the capacity back, the Azure infrastructure will <strong>evict Azure Spot Virtual Machines</strong>.&quot;</td>
+<td>使用 Azure 竞价虚拟机，你可以<strong>利用 Azure 未使用的容量</strong>，从而<strong>大幅节省成本</strong>。每当 Azure 需要收回容量时，Azure 基础结构就会<strong>逐出 Azure 竞价虚拟机</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/virtual-machines/spot-vms#:%7E:text=allows%20you%20to%20take%20advantage%20of%20our%20unused%20capacity">Microsoft, 2026b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure VMware Solution</strong><br>Azure VMware 解决方案</td>
+<td>&quot;Azure VMware Solution is a <strong>managed service</strong> for <strong>running VMware workloads natively on Azure</strong>.&quot;</td>
+<td>Azure VMware Solution 是一项<strong>托管服务</strong>，用于<strong>在 Azure 上原生运行 VMware 工作负载</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:%7E:text=is%20a%20managed%20service%20for%20running%20VMware%20workloads">Microsoft, 2026c, &quot;Understand the basic features&quot; section, list item 9</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (n.d.). <em>Azure documentation</em>. Microsoft Learn. Retrieved October 26, 2026, from <a href="https://learn.microsoft.com/en-us/azure/">https://learn.microsoft.com/en-us/azure/</a></li>
+<li>Microsoft. (2026a, August 20). <em>Azure managed disks overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview">https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview</a></li>
+<li>Microsoft. (2026b, February 6). <em>Azure Spot Virtual Machines</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/virtual-machines/spot-vms">https://learn.microsoft.com/en-us/azure/virtual-machines/spot-vms</a></li>
+<li>Microsoft. (2026c, February 19). <em>Choose an Azure compute service</em>. Azure Architecture Center. <a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree">https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree</a></li>
+<li>Microsoft. (2026d, September 24). <em>Sizes for virtual machines in Azure</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview">https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview</a></li>
+<li>Microsoft. (2026e, May 19). <em>What are Virtual Machine Scale Sets?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview">https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 17:57:13-05:00">11/03/2026 17:57:13</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

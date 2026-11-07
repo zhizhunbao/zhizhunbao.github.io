@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.3 Induction and Recursion | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="4.3 Induction and Recursion, part of 4 Mathematical Induction: 12 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="43-induction-and-recursion">4.3 Induction and Recursion</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/4-3-induction-and-recursion.png" alt="4.3 Induction and Recursion: its 12 terms, in 4 Mathematical Induction."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>4 Mathematical Induction</strong><br>数学归纳法</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/C_induction.html">Sundstrom, 2022, chapter 4</a></td>
+</tr>
+<tr>
+<td><strong>4.3 Induction and Recursion</strong><br>归纳与递归</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Recurrence Relation</strong><br>递推关系</td>
+<td>&quot;The specific definition of the first term is called the initial condition, and <strong>the general definition of</strong> <span class="math">\(a_{n + 1}\)</span> in terms of <span class="math">\(n\)</span> and the first <span class="math">\(n\)</span> terms <span class="math">\(a_1 ,a_2 , \ldots ,a_n\)</span> is called the recurrence relation.&quot;</td>
+<td>第一项的具体定义称为初始条件，而用 <span class="math">\(n\)</span> 和前 <span class="math">\(n\)</span> 项 <span class="math">\(a_1 ,a_2 , \ldots ,a_n\)</span> 表示 <span class="math">\(a_{n + 1}\)</span> <strong>的一般定义</strong>称为递推关系。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#p-2561">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Initial Condition</strong><br>初始条件</td>
+<td>&quot;<strong>The specific definition of the first term</strong> is called the initial condition&quot;</td>
+<td><strong>第一项的具体定义</strong>称为初始条件</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#p-2561">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Recursive Definition</strong><br>递归定义</td>
+<td>&quot;Another way to define a sequence is to <strong>give a specific definition of the first term</strong> (or the first few terms) and then <strong>state, in general terms, how to determine</strong> <span class="math">\(a_{n + 1}\)</span> in terms of <span class="math">\(n\)</span> and the first <span class="math">\(n\)</span> terms <span class="math">\(a_1 ,a_2 , \ldots ,a_n\text{.}\)</span> This process is known as definition by recursion and is also called a recursive definition.&quot;</td>
+<td>定义数列的另一种方法是<strong>给出第一项的具体定义</strong>（或前几项的），然后<strong>一般地说明如何确定</strong> <span class="math">\(a_{n + 1}\)</span>（用 <span class="math">\(n\)</span> 和前 <span class="math">\(n\)</span> 项 <span class="math">\(a_1 ,a_2 , \ldots ,a_n\)</span> 表示）。这个过程称为递归定义法，也称为递归定义。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#p-2561">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Fibonacci Numbers</strong><br>斐波那契数</td>
+<td>&quot;The Fibonacci numbers are <strong>a sequence of natural numbers</strong> <span class="math">\(f_1 ,f_2 ,f_3 , \ldots ,f_n , \ldots\)</span> <strong>defined recursively</strong> as follows: <span class="math">\(f_1 = 1\)</span> and <span class="math">\(f_2 = 1\text{,}\)</span> and For each natural number <span class="math">\(n\text{,}\)</span> <span class="math">\(f_{n + 2} = f_{n + 1} + f_n\text{.}\)</span>&quot;</td>
+<td>斐波那契数是<strong>一个自然数数列</strong> <span class="math">\(f_1 ,f_2 ,f_3 , \ldots ,f_n , \ldots\)</span>，<strong>按如下方式递归定义</strong>：<span class="math">\(f_1 = 1\)</span>，<span class="math">\(f_2 = 1\)</span>，并且对每个自然数 <span class="math">\(n\)</span>，<span class="math">\(f_{n + 2} = f_{n + 1} + f_n\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#PA_fibonaccinumbers">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Geometric Sequence</strong><br>等比数列</td>
+<td>&quot;This is a recursive definition for a geometric sequence with initial term <span class="math">\(a\)</span> and (common) ratio <span class="math">\(r\text{.}\)</span> The basic idea is that <strong>the next term in the sequence is obtained by multiplying the previous term by the ratio</strong> <span class="math">\(r\text{.}\)</span>&quot;</td>
+<td>这是首项为 <span class="math">\(a\)</span>、公比为 <span class="math">\(r\)</span> 的等比数列的递归定义。基本思想是：<strong>数列的下一项由前一项乘以公比得到</strong> <span class="math">\(r\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#p-2603">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Geometric Series</strong><br>等比级数</td>
+<td>&quot;For each <span class="math">\(n \in \mathbb{N}\text{,}\)</span> the term <span class="math">\(S_n\)</span> is <strong>a (finite) geometric series with initial term</strong> <span class="math">\(a\)</span> <strong>and (common) ratio</strong> <span class="math">\(r\text{.}\)</span>&quot;</td>
+<td>对每个 <span class="math">\(n \in \mathbb{N}\)</span>，项 <span class="math">\(S_n\)</span> 是<strong>首项为</strong> <span class="math">\(a\)</span> 、<strong>公比为</strong> <span class="math">\(r\)</span> 的（有限）等比级数。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#p-2605">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Binet's Formula</strong><br>比内公式</td>
+<td>&quot;Use induction to prove that for each natural number <span class="math">\(n\text{,}\)</span> if <span class="math">\(\alpha = \dfrac{1 + \sqrt{5}}{2}\)</span> and <span class="math">\(\beta = \dfrac{1 - \sqrt{5}}{2}\text{,}\)</span> then <span class="math">\(f_n = \dfrac{\alpha^n - \beta^n}{\alpha - \beta}\text{.}\)</span> This <strong>formula for the</strong> <span class="math">\(n^{th}\)</span> <strong>Fibonacci number</strong> is known as Binet's formula&quot;</td>
+<td>用归纳法证明：对每个自然数 <span class="math">\(n\)</span>，若 <span class="math">\(\alpha = \dfrac{1 + \sqrt{5}}{2}\)</span>，<span class="math">\(\beta = \dfrac{1 - \sqrt{5}}{2}\)</span>，则 <span class="math">\(f_n = \dfrac{\alpha^n - \beta^n}{\alpha - \beta}\)</span>。这个<strong>关于第</strong> <span class="math">\(n^{th}\)</span> <strong>个斐波那契数的公式</strong>称为比内公式</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#exer_binet">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Arithmetic Sequence</strong><br>等差数列</td>
+<td>&quot;An arithmetic sequence is <strong>defined recursively</strong> as follows: Let <span class="math">\(c\)</span> and <span class="math">\(d\)</span> be real numbers. Define the sequence <span class="math">\(a_1 ,a_2 , \ldots ,a_n , \ldots\)</span> by <span class="math">\(a_1 = c\)</span> and for each <span class="math">\(n \in \mathbb{N}\text{,}\)</span> <span class="math">\(a_{n + 1} = a_n + d\text{.}\)</span>&quot;</td>
+<td>等差数列<strong>按如下方式递归定义</strong>：设 <span class="math">\(c\)</span> 和 <span class="math">\(d\)</span> 是实数，定义数列 <span class="math">\(a_1 ,a_2 , \ldots ,a_n , \ldots\)</span> 为 <span class="math">\(a_1 = c\)</span>，并且对每个 <span class="math">\(n \in \mathbb{N}\)</span>，<span class="math">\(a_{n + 1} = a_n + d\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#exer_sec53-arith">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Lucas Numbers</strong><br>卢卡斯数</td>
+<td>&quot;The Lucas numbers are <strong>a sequence of natural numbers</strong> <span class="math">\(L_1, L_2, L_3, \ldots, L_n, \ldots \text{,}\)</span> which are <strong>defined recursively</strong> as follows: <span class="math">\(L_1 = 1\)</span> and <span class="math">\(L_2 = 3\text{,}\)</span> and For each natural number <span class="math">\(n\text{,}\)</span> <span class="math">\(L_{n+2} = L_{n+1} + L_n\text{.}\)</span>&quot;</td>
+<td>卢卡斯数是<strong>一个自然数数列</strong> <span class="math">\(L_1, L_2, L_3, \ldots, L_n, \ldots\)</span>，它<strong>按如下方式递归定义</strong>：<span class="math">\(L_1 = 1\)</span>，<span class="math">\(L_2 = 3\)</span>，并且对每个自然数 <span class="math">\(n\)</span>，<span class="math">\(L_{n+2} = L_{n+1} + L_n\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#exer_lucasnumbers">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Compound Interest</strong><br>复利</td>
+<td>&quot;Assume that <span class="math">\(R\)</span> dollars is deposited in an account that has <strong>an interest rate of</strong> <span class="math">\(i\)</span> for each compounding period. A compounding period is <strong>some specified time period such as a month or a year</strong>.&quot;</td>
+<td>假设把 <span class="math">\(R\)</span> 美元存入一个账户，该账户<strong>每个计息期的利率为</strong> <span class="math">\(i\)</span>。计息期是<strong>某个指定的时间段，例如一个月或一年</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#exer_compoundinterest">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Future Value</strong><br>终值</td>
+<td>&quot;Let <span class="math">\(S_t\)</span> represent <strong>the amount in the account at the end of the</strong> <span class="math">\(t\)</span> <strong>th compounding period</strong>. <span class="math">\(S_t\)</span> is frequently called the future value of the ordinary annuity.&quot;</td>
+<td>设 <span class="math">\(S_t\)</span> 表示<strong>第</strong> <span class="math">\(t\)</span> <strong>个计息期结束时账户中的金额</strong>。<span class="math">\(S_t\)</span> 常称为普通年金的终值。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#exer_annuity">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+<tr>
+<td><strong>Ordinary Annuity</strong><br>普通年金</td>
+<td>&quot;For an ordinary annuity, <span class="math">\(R\)</span> dollars is <strong>deposited in an account at the end of each compounding period</strong>.&quot;</td>
+<td>对普通年金，每个计息期结束时，把 <span class="math">\(R\)</span> 美元<strong>存入账户</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_recursion.html#exer_annuity">Sundstrom, 2022, section 4.3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Sundstrom, T. (2022). <em>Mathematical reasoning: Writing and proof</em> (Version 2.1; PreTeXt edition by Grand Valley State University). Retrieved October 30, 2026, from <a href="https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html">https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 13:36:26-04:00">10/30/2026 13:36:26</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

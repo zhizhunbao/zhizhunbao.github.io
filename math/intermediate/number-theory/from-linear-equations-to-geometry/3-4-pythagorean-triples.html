@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>3.4 Pythagorean Triples | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="3.4 Pythagorean Triples, part of 3 From Linear Equations to Geometry in Number Theory: 9 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="34-pythagorean-triples">3.4 Pythagorean Triples</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/3-4-pythagorean-triples.png" alt="3.4 Pythagorean Triples: its 9 terms, in 3 From Linear Equations to Geometry."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>3.4 Pythagorean Triples</strong><br>毕达哥拉斯三元组</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html">Crisman, 2024, section 3.4</a></td>
+</tr>
+<tr>
+<td><strong>Diophantine Equations</strong><br>丢番图方程</td>
+<td>&quot;There are a lot of other interesting questions that one can ask about pure integers, and <strong>polynomial equations they might satisfy</strong> (so-called <strong>Diophantine equations</strong>).&quot;</td>
+<td>关于纯整数，以及<strong>它们可能满足的多项式方程</strong>（即所谓的<strong>丢番图方程</strong>），还可以问许多别的有趣问题。</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html#subsection-pyth-triples-defn-2">Crisman, 2024, subsection 3.4.1</a></td>
+</tr>
+<tr>
+<td><strong>Pythagorean Triple</strong><br>毕达哥拉斯三元组</td>
+<td>&quot;We call <strong>a triple of integers <span class="math">\(x,y,z\)</span> such that <span class="math">\(x^2+y^2=z^2\)</span></strong> a <strong>Pythagorean triple</strong>.&quot;</td>
+<td>我们把<strong>满足 <span class="math">\(x^2+y^2=z^2\)</span> 的整数三元组 <span class="math">\(x,y,z\)</span></strong> 称为<strong>毕达哥拉斯三元组</strong>（勾股数）。</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html#definition-pyth-triple">Crisman, 2024, Definition 3.4.2</a></td>
+</tr>
+<tr>
+<td><strong>Primitive Pythagorean Triple</strong><br>本原毕达哥拉斯三元组</td>
+<td>&quot;A Pythagorean triple with <strong><span class="math">\(x,y,z\)</span> mutually relatively prime</strong> is called a <strong>primitive Pythagorean triple</strong>.&quot;</td>
+<td><strong><span class="math">\(x,y,z\)</span> 两两互素</strong>的毕达哥拉斯三元组称为<strong>本原毕达哥拉斯三元组</strong>。</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html#definition-prim-pyth-triple">Crisman, 2024, Definition 3.4.3</a></td>
+</tr>
+<tr>
+<td><strong>Opposite Parity</strong><br>奇偶性相反</td>
+<td>&quot;We say two integers <span class="math">\(p,q\)</span> have <strong>opposite parity</strong> if <strong>one is even and the other is odd</strong>, and we say they have the same parity otherwise.&quot;</td>
+<td>若两个整数 <span class="math">\(p,q\)</span> 中<strong>一个是偶数、另一个是奇数</strong>，就说它们<strong>奇偶性相反</strong>；否则说它们奇偶性相同。</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html#definition-opposite-parity">Crisman, 2024, Definition 3.4.5</a></td>
+</tr>
+<tr>
+<td><strong>Same Parity</strong><br>奇偶性相同</td>
+<td>&quot;We say two integers <span class="math">\(p,q\)</span> have opposite parity if one is even and the other is odd, and we say they have the <strong>same parity</strong> <strong>otherwise</strong>.&quot;</td>
+<td>若两个整数 <span class="math">\(p,q\)</span> 中一个是偶数、另一个是奇数，就说它们奇偶性相反；<strong>否则</strong>说它们<strong>奇偶性相同</strong>。</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html#definition-opposite-parity">Crisman, 2024, Definition 3.4.5</a></td>
+</tr>
+<tr>
+<td><strong>Characterization of Primitive Pythagorean Triples</strong><br>本原毕达哥拉斯三元组的刻画</td>
+<td>&quot;For a primitive triple <span class="math">\(x,y,z\)</span>, where <span class="math">\(x\)</span> is odd, <strong>there exist integers <span class="math">\(p,q\)</span> such that</strong> <span class="math">\(z=p^2+q^2,\; x=q^2-p^2,\; \text{ and }y=2pq\)</span>. Further, <strong><span class="math">\(p\)</span> and <span class="math">\(q\)</span> must have opposite parity as well as be coprime</strong>.&quot;</td>
+<td>对 <span class="math">\(x\)</span> 为奇数的本原三元组 <span class="math">\(x,y,z\)</span>，<strong>存在整数 <span class="math">\(p,q\)</span> 使得</strong> <span class="math">\(z=p^2+q^2,\; x=q^2-p^2,\; \text{ and }y=2pq\)</span>。此外，<strong><span class="math">\(p\)</span> 与 <span class="math">\(q\)</span> 必须奇偶性相反且互素</strong>。</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html#theorem-charact-prim-pyth">Crisman, 2024, Theorem 3.4.6</a></td>
+</tr>
+<tr>
+<td><strong>Congruent Number Problem</strong><br>同余数问题</td>
+<td>&quot;This linked news update from the American Institute of Mathematics gives some background on the <strong>congruent number problem</strong>, which asks <strong>the related question of which Pythagorean triangles with <em>rational</em> side lengths give integer areas</strong>.&quot;</td>
+<td>这篇来自美国数学研究所的新闻介绍了<strong>同余数问题</strong>的一些背景，它问的是<strong>一个相关的问题：哪些边长为<em>有理数</em>的直角三角形面积是整数</strong>。</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html#subsubsection-pyth-tri-areas-poss-9">Crisman, 2024, subsection 3.4.3</a></td>
+</tr>
+<tr>
+<td><strong>Infinite Descent</strong><br>无穷递降法</td>
+<td>&quot;Now we will do something very clever. It is <strong>a proof strategy</strong>, similar to something the Greeks used occasionally, which Fermat used for many of his proofs, called <strong>infinite descent</strong>. We are going to <strong>take that (hypothetical) triangle, and produce a triangle with strictly smaller sides but otherwise with the same properties</strong> – including integer sides and square area!&quot;</td>
+<td>现在我们来做一件非常巧妙的事。这是一种<strong>证明策略</strong>，与希腊人偶尔用过的方法类似，费马在他的许多证明中都用过，称为<strong>无穷递降法</strong>。我们要<strong>取那个（假设存在的）三角形，造出一个边严格更小、其他性质都相同的三角形</strong>，包括边为整数、面积为平方数！</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html#subsubsection-pyth-tri-areas-sq-7">Crisman, 2024, subsection 3.4.3</a></td>
+</tr>
+<tr>
+<td><strong>Fermat’s Last Theorem</strong><br>费马大定理</td>
+<td>&quot;In Exercise 3.6.17 you will use this to prove the famous first case of <strong>Fermat’s Last Theorem</strong>: <strong>There are no three positive integers <span class="math">\(x,y,z\)</span> such that</strong> <span class="math">\(x^4+y^4=z^4\)</span>.&quot;</td>
+<td>在习题 3.6.17 中，你将用它来证明<strong>费马大定理</strong>著名的第一个情形：<strong>不存在三个正整数 <span class="math">\(x,y,z\)</span> 使得</strong> <span class="math">\(x^4+y^4=z^4\)</span>。</td>
+<td><a href="https://math.gordon.edu/ntic/ntic/section-pyth-triples.html#subsubsection-pyth-tri-areas-sq-12">Crisman, 2024, subsection 3.4.3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Crisman, K.-D. (2024). <em>Number theory: In context and interactive</em> (June 26, 2024 edition). Gordon College. Retrieved October 29, 2026, from <a href="https://math.gordon.edu/ntic/ntic/">https://math.gordon.edu/ntic/ntic/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 11:58:07-04:00">10/31/2026 11:58:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

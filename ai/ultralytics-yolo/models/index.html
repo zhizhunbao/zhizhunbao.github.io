@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>3. Models | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Ultralytics YOLO, 3. Models: 3.1 YOLO26, 3.2 YOLO12, 3.3 YOLO11, 3.4 YOLOv10, 3.5 YOLOv9, 3.6 YOLOv8, 3.7 YOLOv7, 3.8 YOLOv6, 3.9 YOLOv5, 3.10 YOLOv4, 3.11 YOLOv3, 3.12 SAM 3 (Segment Anything Model 3), 3.13 SAM 2 (Segment Anything Model 2), 3.14 SAM (Segment Anything Model), 3.15 MobileSAM (Mobile Segment Anything Model), 3.16 FastSAM (Fast Segment Anything Model), 3.17 YOLO-NAS (Neural Architecture Search), 3.18 RT-DETR (Realtime Detection Transformer), 3.19 YOLO-World, 3.20 YOLOE (Real-Time Seeing Anything), 3.21 Ultralytics LLM Interface.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="3-models">3. Models</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/models.png" alt="3. Models: its 21 entries from the official menu, in menu order and numbered here, each with the entries the menu lists under it, in Ultralytics YOLO."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>3 Models</strong><br>模型</td>
+<td>(context) &quot;We offer support for <strong>a wide range of models, each tailored to specific tasks</strong> like object detection, instance segmentation, semantic segmentation, depth estimation, image classification, pose estimation, and oriented bounding boxes.&quot;</td>
+<td>（语境）我们支持<strong>多种模型，每种都针对特定任务而设计</strong>，如目标检测、实例分割、语义分割、深度估计、图像分类、姿态估计和旋转边界框。</td>
+<td><a href="https://docs.ultralytics.com/models/#models-supported-by-ultralytics">Ultralytics, n.d.-f, &quot;Models Supported by Ultralytics&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolo26.html">3.1 YOLO26</a></strong><br>YOLO26</td>
+<td>&quot;YOLO26 is <strong>a unified family of real-time vision models</strong> described in the Ultralytics YOLO26 paper.&quot;</td>
+<td>YOLO26 是 <strong>Ultralytics YOLO26 论文中描述的一个统一的实时视觉模型家族</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolo26/#ultralytics-yolo26">Ultralytics, n.d.-l, &quot;Ultralytics YOLO26&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolo12.html">3.2 YOLO12</a></strong><br>YOLO12</td>
+<td>&quot;YOLO12, released in early 2025, <strong>introduces an attention-centric architecture that departs from the traditional CNN-based approaches used in previous YOLO models</strong>, yet retains the real-time inference speed essential for many applications.&quot;</td>
+<td>YOLO12 于 2025 年初发布，<strong>引入了以注意力为中心的架构，不同于以往 YOLO 模型使用的传统 CNN 方法</strong>，同时保留了许多应用所需的实时推理速度。</td>
+<td><a href="https://docs.ultralytics.com/models/yolo12/#yolo12-attention-centric-object-detection">Ultralytics, n.d.-p, &quot;YOLO12: Attention-Centric Object Detection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolo11.html">3.3 YOLO11</a></strong><br>YOLO11</td>
+<td>(context) &quot;Released September 2024. <strong>Current stable release and the recommended choice for all use cases.</strong>&quot;</td>
+<td>（语境）2024 年 9 月发布。<strong>当前的稳定版本，所有用例的推荐选择。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolo11/#ultralytics-yolo11">Ultralytics, n.d.-k, &quot;Ultralytics YOLO11&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolov10.html">3.4 YOLOv10</a></strong><br>YOLOv10</td>
+<td>&quot;YOLOv10, released in May 2024 and built on the Ultralytics Python package by researchers at Tsinghua University, <strong>introduces a new approach to real-time object detection, addressing both the post-processing and model architecture deficiencies found in previous YOLO versions</strong>.&quot;</td>
+<td>YOLOv10 于 2024 年 5 月发布，由清华大学的研究人员基于 Ultralytics Python 包构建，<strong>提出了一种新的实时目标检测方法，同时解决了以往 YOLO 版本在后处理和模型架构上的不足</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#yolov10-real-time-end-to-end-object-detection">Ultralytics, n.d.-r, &quot;YOLOv10: Real-Time End-to-End Object Detection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolov9.html">3.5 YOLOv9</a></strong><br>YOLOv9</td>
+<td>&quot;YOLOv9 marks a significant advancement in real-time object detection, <strong>introducing groundbreaking techniques such as Programmable Gradient Information (PGI) and the Generalized Efficient Layer Aggregation Network (GELAN)</strong>.&quot;</td>
+<td>YOLOv9 标志着实时目标检测的重大进步，<strong>引入了可编程梯度信息（PGI）和广义高效层聚合网络（GELAN）等开创性技术</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov9/#yolov9-a-leap-forward-in-object-detection-technology">Ultralytics, n.d.-v, &quot;YOLOv9: A Leap Forward in Object Detection Technology&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolov8.html">3.6 YOLOv8</a></strong><br>YOLOv8</td>
+<td>(context) &quot;Released January 2023. <strong>Proven and widely adopted with extensive community support.</strong>&quot;</td>
+<td>（语境）2023 年 1 月发布。<strong>久经验证、广泛采用，社区支持丰富。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov8/#explore-ultralytics-yolov8">Ultralytics, n.d.-b, &quot;Explore Ultralytics YOLOv8&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolov7.html">3.7 YOLOv7</a></strong><br>YOLOv7</td>
+<td>&quot;YOLOv7, released in July 2022, was <strong>a significant advancement in real-time object detection at its time of release</strong>.&quot;</td>
+<td>YOLOv7 于 2022 年 7 月发布，在发布时是<strong>实时目标检测的一项重大进步</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov7/#yolov7-trainable-bag-of-freebies">Ultralytics, n.d.-u, &quot;YOLOv7: Trainable Bag-of-Freebies&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolov6.html">3.8 YOLOv6</a></strong><br>YOLOv6</td>
+<td>&quot;Meituan YOLOv6, released in 2022, <strong>offers a strong balance between speed and accuracy</strong>, making it a popular choice for real-time applications.&quot;</td>
+<td>美团 YOLOv6 于 2022 年发布，<strong>在速度和精度之间取得了很好的平衡</strong>，因此常用于实时应用。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov6/#meituan-yolov6">Ultralytics, n.d.-d, &quot;Meituan YOLOv6&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolov5.html">3.9 YOLOv5</a></strong><br>YOLOv5</td>
+<td>(context) &quot;Released June 2020. <strong>The foundational PyTorch implementation, battle-tested across millions of deployments.</strong>&quot;</td>
+<td>（语境）2020 年 6 月发布。<strong>奠基性的 PyTorch 实现，经过数百万次部署的实战检验。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov5/#ultralytics-yolov5">Ultralytics, n.d.-m, &quot;Ultralytics YOLOv5&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolov4.html">3.10 YOLOv4</a></strong><br>YOLOv4</td>
+<td>&quot;YOLOv4 is <strong>designed to provide the optimal balance between speed and accuracy</strong>, making it an excellent choice for many applications.&quot;</td>
+<td>YOLOv4 <strong>旨在提供速度与精度之间的最佳平衡</strong>，因此是许多应用的绝佳选择。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov4/#yolov4-high-speed-and-precise-object-detection">Ultralytics, n.d.-t, &quot;YOLOv4: High-Speed and Precise Object Detection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolov3.html">3.11 YOLOv3</a></strong><br>YOLOv3</td>
+<td>(context) &quot;This document presents an overview of <strong>three closely related object detection models, namely YOLOv3, YOLOv3-Ultralytics, and YOLOv3u</strong>.&quot;</td>
+<td>（语境）本文档概述<strong>三个密切相关的目标检测模型，即 YOLOv3、YOLOv3-Ultralytics 和 YOLOv3u</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov3/#yolov3-and-yolov3u">Ultralytics, n.d.-s, &quot;YOLOv3 and YOLOv3u&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sam-3-segment-anything-model-3.html">3.12 SAM 3 (Segment Anything Model 3)</a></strong><br>SAM 3（分割一切模型 3）</td>
+<td>&quot;SAM 3 (Segment Anything Model 3) is <strong>Meta's released foundation model for Promptable Concept Segmentation (PCS)</strong>.&quot;</td>
+<td>SAM 3（分割一切模型 3）是 <strong>Meta 发布的、用于可提示概念分割（PCS）的基础模型</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#sam-3-segment-anything-with-concepts">Ultralytics, n.d.-h, &quot;SAM 3: Segment Anything with Concepts&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sam-2-segment-anything-model-2.html">3.13 SAM 2 (Segment Anything Model 2)</a></strong><br>SAM 2（分割一切模型 2）</td>
+<td>&quot;SAM 2 <strong>builds upon the original SAM with video segmentation capabilities</strong>.&quot;</td>
+<td>SAM 2 <strong>在原始 SAM 的基础上增加了视频分割能力</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/sam-2/#sam-2-segment-anything-model-2">Ultralytics, n.d.-g, &quot;SAM 2: Segment Anything Model 2&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sam-segment-anything-model.html">3.14 SAM (Segment Anything Model)</a></strong><br>SAM（分割一切模型）</td>
+<td>&quot;This is <strong>the original SAM model from Meta</strong>.&quot;</td>
+<td>这是 <strong>Meta 推出的原始 SAM 模型</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/sam/#segment-anything-model-sam">Ultralytics, n.d.-i, &quot;Segment Anything Model (SAM)&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="mobilesam-mobile-segment-anything-model.html">3.15 MobileSAM (Mobile Segment Anything Model)</a></strong><br>MobileSAM（移动端分割一切模型）</td>
+<td>&quot;MobileSAM is <strong>a compact, efficient image segmentation model purpose-built for mobile and edge devices</strong>.&quot;</td>
+<td>MobileSAM 是<strong>一个专为移动和边缘设备打造的紧凑、高效的图像分割模型</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/mobile-sam/#mobile-segment-anything-mobilesam">Ultralytics, n.d.-e, &quot;Mobile Segment Anything (MobileSAM)&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="fastsam-fast-segment-anything-model.html">3.16 FastSAM (Fast Segment Anything Model)</a></strong><br>FastSAM（快速分割一切模型）</td>
+<td>&quot;The Fast Segment Anything Model (FastSAM) is <strong>a novel, real-time CNN-based solution for the Segment Anything task</strong>.&quot;</td>
+<td>快速分割一切模型（FastSAM）是<strong>一种新颖的、基于 CNN 的实时方案，用于“分割一切”任务</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/fast-sam/#fast-segment-anything-model-fastsam">Ultralytics, n.d.-c, &quot;Fast Segment Anything Model (FastSAM)&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolo-nas-neural-architecture-search.html">3.17 YOLO-NAS (Neural Architecture Search)</a></strong><br>YOLO-NAS（神经架构搜索）</td>
+<td>&quot;Developed by Deci AI, YOLO-NAS is <strong>a groundbreaking object detection foundational model</strong>.&quot;</td>
+<td>YOLO-NAS 由 Deci AI 开发，是<strong>一个开创性的目标检测基础模型</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolo-nas/#yolo-nas">Ultralytics, n.d.-n, &quot;YOLO-NAS&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="rt-detr-realtime-detection-transformer.html">3.18 RT-DETR (Realtime Detection Transformer)</a></strong><br>RT-DETR（实时检测 Transformer）</td>
+<td>&quot;Real-Time Detection Transformer (RT-DETR), developed by Baidu, is <strong>a cutting-edge end-to-end object detector that provides real-time performance while maintaining high accuracy</strong>.&quot;</td>
+<td>实时检测 Transformer（RT-DETR）由百度开发，是<strong>一种前沿的端到端目标检测器，在保持高精度的同时提供实时性能</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/rtdetr/#baidus-rt-detr-a-vision-transformer-based-real-time-object-detector">Ultralytics, n.d.-a, &quot;Baidu's RT-DETR: A Vision Transformer -Based Real-Time Object Detector&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yolo-world.html">3.19 YOLO-World</a></strong><br>YOLO-World</td>
+<td>&quot;The YOLO-World Model introduces <strong>an advanced, real-time Ultralytics YOLOv8-based approach for Open-Vocabulary Detection tasks</strong>.&quot;</td>
+<td>YOLO-World 模型提出了<strong>一种先进的、基于 Ultralytics YOLOv8 的实时方法，用于开放词汇检测任务</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolo-world/#yolo-world-model">Ultralytics, n.d.-o, &quot;YOLO-World Model&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="yoloe-real-time-seeing-anything.html">3.20 YOLOE (Real-Time Seeing Anything)</a></strong><br>YOLOE（实时看见一切）</td>
+<td>&quot;Ultralytics YOLOE (Real-Time Seeing Anything) is <strong>an open-vocabulary detection and instance segmentation model</strong>: instead of a class list fixed at training time, it takes the categories you want at inference time, as a text prompt, a visual example, or a built-in 4,585-name vocabulary.&quot;</td>
+<td>Ultralytics YOLOE（实时看见一切）是<strong>一个开放词汇的检测和实例分割模型</strong>：它不用训练时固定的类别表，而是在推理时接收你想要的类别，形式可以是文本提示、视觉示例或内置的 4,585 个名称的词表。</td>
+<td><a href="https://docs.ultralytics.com/models/yoloe/#yoloe-real-time-open-vocabulary-detection-and-segmentation">Ultralytics, n.d.-q, &quot;YOLOE: Real-Time Open-Vocabulary Detection and Segmentation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="ultralytics-llm-interface.html">3.21 Ultralytics LLM Interface</a></strong><br>Ultralytics LLM 接口</td>
+<td>&quot;LLM is <strong>a small interface for calling language and vision models through an OpenAI-compatible API</strong>.&quot;</td>
+<td>LLM 是<strong>一个小型接口，通过兼容 OpenAI 的 API 调用语言模型和视觉模型</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/llm/#ultralytics-llm-interface">Ultralytics, n.d.-j, &quot;Ultralytics LLM Interface&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Ultralytics. (n.d.-a). <em>Baidu's RT-DETR: A Vision Transformer -Based Real-Time Object Detector</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/rtdetr/">https://docs.ultralytics.com/models/rtdetr/</a></p>
+<p>Ultralytics. (n.d.-b). <em>Explore Ultralytics YOLOv8</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolov8/">https://docs.ultralytics.com/models/yolov8/</a></p>
+<p>Ultralytics. (n.d.-c). <em>Fast Segment Anything Model (FastSAM)</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/fast-sam/">https://docs.ultralytics.com/models/fast-sam/</a></p>
+<p>Ultralytics. (n.d.-d). <em>Meituan YOLOv6</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolov6/">https://docs.ultralytics.com/models/yolov6/</a></p>
+<p>Ultralytics. (n.d.-e). <em>Mobile Segment Anything (MobileSAM)</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/mobile-sam/">https://docs.ultralytics.com/models/mobile-sam/</a></p>
+<p>Ultralytics. (n.d.-f). <em>Models Supported by Ultralytics</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/">https://docs.ultralytics.com/models/</a></p>
+<p>Ultralytics. (n.d.-g). <em>SAM 2: Segment Anything Model 2</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/sam-2/">https://docs.ultralytics.com/models/sam-2/</a></p>
+<p>Ultralytics. (n.d.-h). <em>SAM 3: Segment Anything with Concepts</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/sam-3/">https://docs.ultralytics.com/models/sam-3/</a></p>
+<p>Ultralytics. (n.d.-i). <em>Segment Anything Model (SAM)</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/sam/">https://docs.ultralytics.com/models/sam/</a></p>
+<p>Ultralytics. (n.d.-j). <em>Ultralytics LLM Interface</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/llm/">https://docs.ultralytics.com/models/llm/</a></p>
+<p>Ultralytics. (n.d.-k). <em>Ultralytics YOLO11</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolo11/">https://docs.ultralytics.com/models/yolo11/</a></p>
+<p>Ultralytics. (n.d.-l). <em>Ultralytics YOLO26</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolo26/">https://docs.ultralytics.com/models/yolo26/</a></p>
+<p>Ultralytics. (n.d.-m). <em>Ultralytics YOLOv5</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolov5/">https://docs.ultralytics.com/models/yolov5/</a></p>
+<p>Ultralytics. (n.d.-n). <em>YOLO-NAS</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolo-nas/">https://docs.ultralytics.com/models/yolo-nas/</a></p>
+<p>Ultralytics. (n.d.-o). <em>YOLO-World Model</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolo-world/">https://docs.ultralytics.com/models/yolo-world/</a></p>
+<p>Ultralytics. (n.d.-p). <em>YOLO12: Attention-Centric Object Detection</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolo12/">https://docs.ultralytics.com/models/yolo12/</a></p>
+<p>Ultralytics. (n.d.-q). <em>YOLOE: Real-Time Open-Vocabulary Detection and Segmentation</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yoloe/">https://docs.ultralytics.com/models/yoloe/</a></p>
+<p>Ultralytics. (n.d.-r). <em>YOLOv10: Real-Time End-to-End Object Detection</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolov10/">https://docs.ultralytics.com/models/yolov10/</a></p>
+<p>Ultralytics. (n.d.-s). <em>YOLOv3 and YOLOv3u</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolov3/">https://docs.ultralytics.com/models/yolov3/</a></p>
+<p>Ultralytics. (n.d.-t). <em>YOLOv4: High-Speed and Precise Object Detection</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolov4/">https://docs.ultralytics.com/models/yolov4/</a></p>
+<p>Ultralytics. (n.d.-u). <em>YOLOv7: Trainable Bag-of-Freebies</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolov7/">https://docs.ultralytics.com/models/yolov7/</a></p>
+<p>Ultralytics. (n.d.-v). <em>YOLOv9: A Leap Forward in Object Detection Technology</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolov9/">https://docs.ultralytics.com/models/yolov9/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

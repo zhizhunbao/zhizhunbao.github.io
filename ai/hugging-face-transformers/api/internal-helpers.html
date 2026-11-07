@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>9.3 Internal Helpers | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Hugging Face Transformers, 9.3 Internal Helpers: its 12 pages in the documentation menu, version 5.20.2: Custom layers and utilities, Utilities for model debugging, Utilities for pipelines, Utilities for tokenizers, Utilities for Trainer, Utilities for generation, Utilities for image processors, Utilities for audio processing, General utilities, Importing utilities, Utilities for time series, Rotary embeddings utilities.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="93-internal-helpers">9.3 Internal Helpers</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/internal-helpers.png" alt="9.3 Internal Helpers: its 12 pages in menu order, numbered here, in 9 API."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>9.3 Internal Helpers</strong><br>内部辅助工具</td>
+<td>(context) &quot;This page lists <strong>all the custom layers used by the library, as well as the utility functions and classes it provides for modeling</strong>. Most of those are only useful if you are studying the code of the models in the library.&quot;</td>
+<td>（语境）本页列出<strong>库中使用的所有自定义层，以及它为建模提供的工具函数和类</strong>。其中大多数只在你研究库中模型的代码时才有用。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/modeling_utils#custom-layers-and-utilities">Hugging Face, n.d., &quot;Custom layers and utilities&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.1 Custom layers and utilities</strong><br>自定义层与工具</td>
+<td>(context) &quot;This page lists <strong>all the custom layers used by the library, as well as the utility functions and classes it provides for modeling</strong>.&quot;</td>
+<td>（语境）本页列出<strong>库中使用的所有自定义层，以及它为建模提供的工具函数和类</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/modeling_utils#custom-layers-and-utilities">Hugging Face, n.d., &quot;Custom layers and utilities&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.2 Utilities for model debugging</strong><br>模型调试工具</td>
+<td>(context) &quot;This page lists <strong>all the debugging and model adding tools used by the library, as well as the utility functions it provides for it</strong>.&quot;</td>
+<td>（语境）本页列出<strong>库中使用的所有调试工具和添加模型的工具，以及它为此提供的工具函数</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/model_debugging_utils#model-debugging-toolboxes">Hugging Face, n.d., &quot;Model debugging toolboxes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.3 Utilities for pipelines</strong><br>管道工具</td>
+<td>(context) &quot;This page lists <strong>all the utility functions the library provides for pipelines</strong>.&quot;</td>
+<td>（语境）本页列出<strong>库为管道提供的所有工具函数</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/pipelines_utils#utilities-for-pipelines">Hugging Face, n.d., &quot;Utilities for pipelines&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.4 Utilities for tokenizers</strong><br>分词器工具</td>
+<td>(context) &quot;This page lists <strong>all the utility functions used by the tokenizers</strong>, mainly the class PreTrainedTokenizerBase that implements the common methods between PreTrainedTokenizer and PreTrainedTokenizerFast.&quot;</td>
+<td>（语境）本页列出<strong>分词器使用的所有工具函数</strong>，主要是 PreTrainedTokenizerBase 类，它实现了 PreTrainedTokenizer 和 PreTrainedTokenizerFast 共有的方法。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/tokenization_utils#utilities-for-tokenizers">Hugging Face, n.d., &quot;Utilities for tokenizers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.5 Utilities for Trainer</strong><br>Trainer 工具</td>
+<td>(context) &quot;This page lists <strong>all the utility functions used by Trainer</strong>.&quot;</td>
+<td>（语境）本页列出 <strong>Trainer 使用的所有工具函数</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/trainer_utils#utilities-for-trainer">Hugging Face, n.d., &quot;Utilities for Trainer&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.6 Utilities for generation</strong><br>生成工具</td>
+<td>(context) &quot;This page lists <strong>all the utility functions used by generate()</strong>.&quot;</td>
+<td>（语境）本页列出 <strong>generate() 使用的所有工具函数</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/generation_utils#utilities-for-generation">Hugging Face, n.d., &quot;Utilities for generation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.7 Utilities for image processors</strong><br>图像处理器工具</td>
+<td>(context) &quot;This page lists <strong>all the utility functions used by the image processors, mainly the functional transformations used to process the images</strong>.&quot;</td>
+<td>（语境）本页列出<strong>图像处理器使用的所有工具函数，主要是处理图像所用的函数式变换</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/image_processing_utils#utilities-for-image-processors">Hugging Face, n.d., &quot;Utilities for image processors&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.8 Utilities for audio processing</strong><br>音频处理工具</td>
+<td>(context) &quot;This page lists <strong>all the utility functions that can be used by the audio FeatureExtractor in order to compute special features from a raw audio</strong> using common algorithms such as <em>Short Time Fourier Transform</em> or <em>log mel spectrogram</em>.&quot;</td>
+<td>（语境）本页列出<strong>音频 FeatureExtractor 可用来从原始音频计算特殊特征的所有工具函数</strong>，用的是<em>短时傅里叶变换</em>或<em>对数梅尔频谱图</em>等常见算法。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/audio_utils#utilities-for-featureextractors">Hugging Face, n.d., &quot;Utilities for FeatureExtractors&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.9 General utilities</strong><br>通用工具</td>
+<td>(context) &quot;This page lists <strong>all of Transformers general utility functions that are found in the file <code>utils.py</code></strong>.&quot;</td>
+<td>（语境）本页列出 <strong>Transformers 中位于 <code>utils.py</code> 文件里的所有通用工具函数</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/file_utils#general-utilities">Hugging Face, n.d., &quot;General utilities&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.10 Importing utilities</strong><br>导入工具</td>
+<td>(context) &quot;This page goes through <strong>the transformers utilities to enable lazy and fast object import</strong>.&quot;</td>
+<td>（语境）本页介绍 <strong>transformers 中用于实现对象延迟导入和快速导入的工具</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/import_utils#importing-utilities">Hugging Face, n.d., &quot;Importing utilities&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.11 Utilities for time series</strong><br>时间序列工具</td>
+<td>(context) &quot;This page lists <strong>all the utility functions and classes that can be used for Time Series based models</strong>.&quot;</td>
+<td>（语境）本页列出<strong>可用于时间序列模型的所有工具函数和类</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/time_series_utils#utilities-for-time-series">Hugging Face, n.d., &quot;Utilities for time series&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>9.3.12 Rotary embeddings utilities</strong><br>旋转位置嵌入工具</td>
+<td>(context) &quot;This page explains <strong>how the Rotary Embedding is computed and applied in Transformers and what types of RoPE are supported</strong>.&quot;</td>
+<td>（语境）本页说明 <strong>Transformers 中旋转位置嵌入如何计算和应用，以及支持哪些类型的 RoPE</strong>。</td>
+<td><a href="https://huggingface.co/docs/transformers/v5.20.2/en/internal/rope_utils#rotary-embeddings-utilities">Hugging Face, n.d., &quot;Rotary embeddings utilities&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Hugging Face. (n.d.). <em>Transformers documentation</em> (Version 5.20.2). Retrieved October 30, 2026, from <a href="https://huggingface.co/docs/transformers/v5.20.2/en/index">https://huggingface.co/docs/transformers/v5.20.2/en/index</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 22:32:00-04:00">10/30/2026 22:32:00</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

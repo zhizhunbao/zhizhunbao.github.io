@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6. Glossary | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="WCAG 2.2, 6. Glossary: the 101 terms the specification defines, in its order.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Home">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="6-glossary">6. Glossary</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/glossary.png" alt="6. Glossary: the 101 terms of WCAG 2.2 in the order of the specification, from abbreviation to web page."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6. Glossary</strong><br>术语表</td>
+<td>(context) &quot;The new success criteria may reference <strong>new terms that have also been added to the glossary</strong> and <strong>form part of the normative requirements</strong> of the success criteria.&quot;</td>
+<td>（语境）新的成功标准可能引用<strong>同样已加入术语表的新术语</strong>，这些术语<strong>构成成功标准规范性要求的一部分</strong>。</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#new-features-in-wcag-2-2">World Wide Web Consortium, 2024, &quot;New Features in WCAG 2.2&quot;</a></td>
+</tr>
+<tr>
+<td><strong>abbreviation</strong><br>缩写</td>
+<td>&quot;<strong>shortened form of a word, phrase, or name</strong> where the abbreviation <strong>has not become part of the language</strong>&quot;</td>
+<td><strong>词、短语或名称的缩短形式</strong>，且该缩写<strong>尚未成为语言的一部分</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>accessibility supported</strong><br>无障碍支持</td>
+<td>&quot;<strong>supported by users' assistive technologies</strong> as well as the <strong>accessibility features in browsers and other user agents</strong>&quot;</td>
+<td><strong>受用户的辅助技术支持</strong>，也受<strong>浏览器和其他用户代理中的无障碍功能</strong>支持</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>alternative for time-based media</strong><br>基于时间的媒体的替代</td>
+<td>&quot;document including <strong>correctly sequenced text descriptions of time-based visual and auditory information</strong> and providing a means for <strong>achieving the outcomes of any time-based interaction</strong>&quot;</td>
+<td>包含<strong>按正确顺序排列的、对基于时间的视觉和听觉信息的文字描述</strong>的文档，并提供<strong>实现任何基于时间的交互结果</strong>的手段</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>ambiguous to users in general</strong><br>对一般用户含糊不清</td>
+<td>&quot;<strong>the purpose cannot be determined from the link</strong> and all information of the web page presented to the user simultaneously with the link (i.e., <strong>readers without disabilities would not know what a link would do until they activated it</strong>)&quot;</td>
+<td><strong>从链接以及与链接同时呈现给用户的网页全部信息中无法确定其目的</strong>（即<strong>没有残障的读者在激活链接之前也不知道它会做什么</strong>）</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>ASCII art</strong><br>ASCII 艺术</td>
+<td>&quot;<strong>picture created by a spatial arrangement of characters or glyphs</strong> (typically from the <strong>95 printable characters defined by ASCII</strong>)&quot;</td>
+<td><strong>由字符或字形的空间排列构成的图画</strong>（通常用 <strong>ASCII 定义的 95 个可打印字符</strong>）</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>assistive technology (as used in this document)</strong><br>辅助技术（本文档所用）</td>
+<td>&quot;<strong>hardware and/or software that acts as a user agent, or along with a mainstream user agent</strong>, to provide functionality to <strong>meet the requirements of users with disabilities</strong> that go beyond those offered by mainstream user agents&quot;</td>
+<td><strong>作为用户代理、或与主流用户代理一起工作的硬件和/或软件</strong>，提供功能以<strong>满足残障用户的需求</strong>，超出主流用户代理所提供的</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>audio</strong><br>音频</td>
+<td>&quot;<strong>the technology</strong> of <strong>sound reproduction</strong>&quot;</td>
+<td><strong>声音再现</strong>的<strong>技术</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>audio description</strong><br>音频描述</td>
+<td>&quot;<strong>narration added to the soundtrack</strong> to <strong>describe important visual details</strong> that cannot be understood from the main soundtrack alone&quot;</td>
+<td><strong>添加到音轨中的旁白</strong>，用来<strong>描述仅凭主音轨无法理解的重要视觉细节</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>audio-only</strong><br>纯音频</td>
+<td>&quot;a <strong>time-based presentation</strong> that <strong>contains only audio</strong> (no video and no interaction)&quot;</td>
+<td>一种<strong>基于时间的呈现</strong>，<strong>只包含音频</strong>（没有视频，没有交互）</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>blinking</strong><br>闪动</td>
+<td>&quot;<strong>switch back and forth between two visual states</strong> in a way that is <strong>meant to draw attention</strong>&quot;</td>
+<td><strong>在两种视觉状态之间来回切换</strong>，目的是<strong>引起注意</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>blocks of text</strong><br>文本块</td>
+<td>&quot;<strong>more than one sentence</strong> of <strong>text</strong>&quot;</td>
+<td><strong>多于一句</strong>的<strong>文本</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>CAPTCHA</strong><br>验证码</td>
+<td>&quot;<strong>initialism</strong> for &quot;<strong>Completely Automated Public Turing test to tell Computers and Humans Apart</strong>&quot;&quot;</td>
+<td>“<strong>全自动区分计算机和人类的公开图灵测试</strong>”的<strong>首字母缩写</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>captions</strong><br>字幕</td>
+<td>&quot;<strong>synchronized visual and/or text alternative</strong> for both <strong>speech and non-speech audio information</strong> needed to understand the media content&quot;</td>
+<td><strong>同步的视觉和/或文字替代</strong>，针对理解媒体内容所需的<strong>语音和非语音音频信息</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>changes of context</strong><br>上下文的改变</td>
+<td>&quot;<strong>major changes</strong> that, if made without user awareness, can <strong>disorient users who are not able to view the entire page simultaneously</strong>&quot;</td>
+<td><strong>重大改变</strong>，如果在用户不知情时发生，会让<strong>无法同时查看整个页面的用户迷失方向</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>cognitive function test</strong><br>认知功能测试</td>
+<td>&quot;<strong>A task</strong> that requires the user to <strong>remember, manipulate, or transcribe information</strong>. Examples include, but are not limited to:&quot;</td>
+<td>要求用户<strong>记忆、处理或转录信息</strong>的<strong>任务</strong>。例子包括但不限于：</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>conformance</strong><br>一致性</td>
+<td>&quot;<strong>satisfying all the requirements</strong> of a given <strong>standard, guideline or specification</strong>&quot;</td>
+<td><strong>满足全部要求</strong>，针对给定的<strong>标准、指南或规范</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>conforming alternate version</strong><br>符合要求的替代版本</td>
+<td>&quot;version that 1. <strong>conforms at the designated level</strong>, and 2. <strong>provides all of the same information and functionality in the same human language</strong>, and 3. <strong>is as up to date as the non-conforming content</strong>, and&quot;</td>
+<td>这样的版本：1. <strong>在指定级别符合要求</strong>，且 2. <strong>以同一人类语言提供全部相同的信息和功能</strong>，且 3. <strong>与不符合要求的内容同样及时更新</strong>，且</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>content (web content)</strong><br>内容（网络内容）</td>
+<td>&quot;<strong>information and sensory experience</strong> to be <strong>communicated to the user by means of a user agent</strong>, including code or markup that defines the content's structure, presentation, and interactions&quot;</td>
+<td><strong>通过用户代理传达给用户</strong>的<strong>信息和感官体验</strong>，包括定义内容结构、呈现和交互的代码或标记</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>context-sensitive help</strong><br>上下文相关帮助</td>
+<td>&quot;<strong>help text</strong> that provides information <strong>related to the function currently being performed</strong>&quot;</td>
+<td>提供<strong>与当前正在执行的功能相关</strong>信息的<strong>帮助文本</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>contrast ratio</strong><br>对比度</td>
+<td>&quot;<strong>(L1 + 0.05) / (L2 + 0.05)</strong>, where <strong>L1 is the relative luminance of the lighter of the colors</strong>, and <strong>L2 is the relative luminance of the darker of the colors</strong>.&quot;</td>
+<td><strong>(L1 + 0.05) / (L2 + 0.05)</strong>，其中 <strong>L1 是较亮颜色的相对亮度</strong>，<strong>L2 是较暗颜色的相对亮度</strong>。</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>correct reading sequence</strong><br>正确的阅读顺序</td>
+<td>&quot;any sequence where <strong>words and paragraphs are presented in an order</strong> that <strong>does not change the meaning of the content</strong>&quot;</td>
+<td>任何这样的顺序：<strong>词和段落按某个次序呈现</strong>，该次序<strong>不改变内容意义</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>CSS pixel</strong><br>CSS 像素</td>
+<td>&quot;<strong>visual angle</strong> of <strong>about 0.0213 degrees</strong>&quot;</td>
+<td><strong>约 0.0213 度</strong>的<strong>视角</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>down-event</strong><br>按下事件</td>
+<td>&quot;<strong>platform event</strong> that occurs when the <strong>trigger stimulus of a pointer is depressed</strong>&quot;</td>
+<td><strong>指针的触发刺激被按下</strong>时发生的<strong>平台事件</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>dragging movement</strong><br>拖动操作</td>
+<td>&quot;an operation where <strong>the pointer engages with an element on the down-event</strong> and the element (or a representation of its position) <strong>follows the pointer until an up-event</strong>&quot;</td>
+<td>一种操作：<strong>指针在按下事件时与元素接合</strong>，元素（或其位置的表示）<strong>跟随指针直到抬起事件</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>emergency</strong><br>紧急情况</td>
+<td>&quot;a <strong>sudden, unexpected situation or occurrence</strong> that <strong>requires immediate action to preserve health, safety, or property</strong>&quot;</td>
+<td><strong>突然、意外的情况或事件</strong>，<strong>需要立即采取行动以保护健康、安全或财产</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>essential</strong><br>必不可少</td>
+<td>&quot;<strong>if removed, would fundamentally change the information or functionality of the content</strong>, and information and functionality <strong>cannot be achieved in another way that would conform</strong>&quot;</td>
+<td><strong>如果去掉，会从根本上改变内容的信息或功能</strong>，并且这些信息和功能<strong>无法以其他符合要求的方式实现</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>extended audio description</strong><br>扩展音频描述</td>
+<td>&quot;<strong>audio description</strong> that is added to an audiovisual presentation by <strong>pausing the video so that there is time to add additional description</strong>&quot;</td>
+<td>通过<strong>暂停视频以便有时间加入更多描述</strong>而添加到视听呈现中的<strong>音频描述</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>flash</strong><br>闪烁</td>
+<td>&quot;<strong>a pair of opposing changes in relative luminance</strong> that <strong>can cause seizures in some people</strong> if it is large enough and in the right frequency range&quot;</td>
+<td><strong>一对相反的相对亮度变化</strong>，如果幅度足够大且频率在特定范围内，<strong>可能使某些人癫痫发作</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>focus indicator</strong><br>焦点指示器</td>
+<td>&quot;<strong>pixels that are changed</strong> to <strong>visually indicate when a user interface component is in a focused state</strong>&quot;</td>
+<td><strong>被改变的像素</strong>，用来<strong>在视觉上指示用户界面组件处于聚焦状态</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>functionality</strong><br>功能</td>
+<td>&quot;<strong>processes and outcomes</strong> <strong>achievable through user action</strong>&quot;</td>
+<td><strong>通过用户操作可以实现</strong>的<strong>过程和结果</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>general flash and red flash thresholds</strong><br>一般闪烁和红色闪烁阈值</td>
+<td>&quot;<strong>a flash or rapidly changing image sequence</strong> is <strong>below the threshold (i.e., content passes)</strong> if any of the following are true:&quot;</td>
+<td><strong>闪烁或快速变化的图像序列</strong>在下列任一条件为真时<strong>低于阈值（即内容通过）</strong>：</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>human language</strong><br>人类语言</td>
+<td>&quot;language that is <strong>spoken, written or signed</strong> (through visual or tactile means) <strong>to communicate with humans</strong>&quot;</td>
+<td><strong>以口头、书面或手语</strong>（通过视觉或触觉方式）<strong>与人交流</strong>的语言</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>idiom</strong><br>习语</td>
+<td>&quot;phrase whose <strong>meaning cannot be deduced from the meaning of the individual words</strong> and the <strong>specific words cannot be changed without losing the meaning</strong>&quot;</td>
+<td><strong>含义无法从单个词的含义推出</strong>的短语，且<strong>其中的具体词不能更换，否则失去含义</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>image of text</strong><br>文本图像</td>
+<td>&quot;text that has been <strong>rendered in a non-text form</strong> (e.g., an image) in order to <strong>achieve a particular visual effect</strong>&quot;</td>
+<td><strong>以非文本形式（例如图像）呈现</strong>的文本，目的是<strong>实现特定的视觉效果</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>informative</strong><br>信息性</td>
+<td>&quot;<strong>for information purposes</strong> and <strong>not required for conformance</strong>&quot;</td>
+<td><strong>为提供信息而给出</strong>，<strong>不是一致性所必需</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>input error</strong><br>输入错误</td>
+<td>&quot;<strong>information provided by the user</strong> that is <strong>not accepted</strong>&quot;</td>
+<td><strong>用户提供的</strong>、<strong>未被接受</strong>的信息</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>jargon</strong><br>行话</td>
+<td>&quot;<strong>words used in a particular way</strong> by <strong>people in a particular field</strong>&quot;</td>
+<td><strong>特定领域的人</strong>以<strong>特定方式使用的词</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>keyboard interface</strong><br>键盘接口</td>
+<td>&quot;<strong>interface used by software</strong> to <strong>obtain keystroke input</strong>&quot;</td>
+<td><strong>软件用来</strong>获取<strong>按键输入的接口</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>keyboard shortcut</strong><br>键盘快捷键</td>
+<td>&quot;<strong>alternative means of triggering an action</strong> by the <strong>pressing of one or more keys</strong>&quot;</td>
+<td>通过<strong>按一个或多个键</strong>来<strong>触发动作的替代方式</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>label</strong><br>标签</td>
+<td>&quot;<strong>text or other component with a text alternative</strong> that is presented to a user to <strong>identify a component within web content</strong>&quot;</td>
+<td><strong>文本或带文本替代的其他组件</strong>，呈现给用户以<strong>标识网络内容中的某个组件</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>large scale (text)</strong><br>大号（文本）</td>
+<td>&quot;with <strong>at least 18 point or 14 point bold</strong> or font size that would yield equivalent size for <strong>Chinese, Japanese and Korean (CJK) fonts</strong>&quot;</td>
+<td><strong>至少 18 磅，或 14 磅加粗</strong>，或对<strong>中日韩（CJK）字体</strong>产生同等大小的字号</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>legal commitments</strong><br>法律承诺</td>
+<td>&quot;<strong>transactions</strong> where the person incurs a <strong>legally binding obligation or benefit</strong>&quot;</td>
+<td>使人承担<strong>具有法律约束力的义务或获得利益</strong>的<strong>交易</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>link purpose</strong><br>链接目的</td>
+<td>&quot;<strong>nature of the result</strong> obtained by <strong>activating a hyperlink</strong>&quot;</td>
+<td><strong>激活超链接</strong>所得<strong>结果的性质</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>live</strong><br>直播</td>
+<td>&quot;information <strong>captured from a real-world event</strong> and transmitted to the receiver with <strong>no more than a broadcast delay</strong>&quot;</td>
+<td><strong>从真实事件中捕获</strong>、以<strong>不超过广播延迟</strong>的时间传送给接收者的信息</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>lower secondary education level</strong><br>初中教育水平</td>
+<td>&quot;the <strong>two or three year period of education</strong> that <strong>begins after completion of six years of school</strong> and ends nine years after the beginning of primary education&quot;</td>
+<td><strong>两到三年的教育阶段</strong>，<strong>在完成六年学业后开始</strong>，在小学教育开始后第九年结束</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>mechanism</strong><br>机制</td>
+<td>&quot;<strong>process or technique</strong> for <strong>achieving a result</strong>&quot;</td>
+<td><strong>实现某种结果</strong>的<strong>过程或技术</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>media alternative for text</strong><br>文本的媒体替代</td>
+<td>&quot;<strong>media</strong> that <strong>presents no more information than is already presented in text</strong> (directly or via text alternatives)&quot;</td>
+<td><strong>呈现的信息不多于文本中已呈现的</strong>（直接呈现或通过文本替代）的<strong>媒体</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>motion animation</strong><br>运动动画</td>
+<td>&quot;<strong>addition of steps between conditions</strong> to <strong>create the illusion of movement</strong> or to give a sense of a smooth transition&quot;</td>
+<td><strong>在状态之间加入过渡步骤</strong>以<strong>制造运动的错觉</strong>，或给人平滑过渡的感觉</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>minimum bounding box</strong><br>最小外接框</td>
+<td>&quot;the <strong>smallest enclosing rectangle aligned to the horizontal axis</strong> within which <strong>all the points of a shape lie</strong>. For components which wrap onto multiple lines as part of a sentence or block of text (such as hypertext links), the bounding box is based on how the component would appear on a single line.&quot;</td>
+<td><strong>与水平轴对齐的最小矩形</strong>，<strong>形状的所有点都在其中</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>name</strong><br>名称</td>
+<td>&quot;<strong>text by which software can identify a component</strong> within web content <strong>to the user</strong>&quot;</td>
+<td><strong>软件用来标识网络内容中某个组件的文本</strong>，面向<strong>用户</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>navigated sequentially</strong><br>按顺序导航</td>
+<td>&quot;<strong>navigated in the order defined for advancing focus</strong> (from one element to the next) <strong>using a keyboard interface</strong>&quot;</td>
+<td><strong>按为推进焦点而定义的顺序导航</strong>（从一个元素到下一个），<strong>使用键盘接口</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>non-text content</strong><br>非文本内容</td>
+<td>&quot;any content that is <strong>not a sequence of characters that can be programmatically determined</strong> or where the sequence is <strong>not expressing something in human language</strong>&quot;</td>
+<td>任何<strong>不是可由程序确定的字符序列</strong>的内容，或该序列<strong>不表达人类语言</strong>的内容</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>normative</strong><br>规范性</td>
+<td>&quot;<strong>required</strong> for <strong>conformance</strong>&quot;</td>
+<td><strong>一致性</strong>所<strong>必需</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>on a full-screen window</strong><br>在全屏窗口中</td>
+<td>&quot;on the <strong>most common sized desktop/laptop display</strong> with the <strong>viewport maximized</strong>&quot;</td>
+<td>在<strong>最常见尺寸的台式机/笔记本显示器</strong>上，<strong>视口最大化</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>paused</strong><br>已暂停</td>
+<td>&quot;<strong>stopped by user request</strong> and <strong>not resumed until requested by user</strong>&quot;</td>
+<td><strong>应用户请求停止</strong>，<strong>在用户请求之前不恢复</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>perimeter</strong><br>周长</td>
+<td>&quot;<strong>continuous line forming the boundary of a shape</strong> not including shared pixels, or the minimum bounding box, <strong>whichever is shortest</strong>.&quot;</td>
+<td><strong>构成形状边界的连续线</strong>，不含共享像素，或最小外接框，<strong>取较短者</strong>。</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>pointer input</strong><br>指针输入</td>
+<td>&quot;input from a device that can <strong>target a specific coordinate (or set of coordinates) on a screen</strong>, such as a <strong>mouse, pen, or touch contact</strong>&quot;</td>
+<td>来自能够<strong>指向屏幕上特定坐标（或一组坐标）<strong>的设备的输入，例如</strong>鼠标、笔或触摸接触</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>prerecorded</strong><br>预录</td>
+<td>&quot;<strong>information</strong> that is <strong>not live</strong>&quot;</td>
+<td><strong>非直播</strong>的<strong>信息</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>presentation</strong><br>呈现</td>
+<td>&quot;<strong>rendering of the content</strong> in a form to be <strong>perceived by users</strong>&quot;</td>
+<td><strong>把内容渲染</strong>成可供<strong>用户感知</strong>的形式</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>primary education level</strong><br>小学教育水平</td>
+<td>&quot;<strong>six year time period</strong> that <strong>begins between the ages of five and seven</strong>, possibly without any previous education&quot;</td>
+<td><strong>从五到七岁之间开始</strong>的<strong>六年阶段</strong>，之前可能没有任何教育</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>process</strong><br>流程</td>
+<td>&quot;<strong>series of user actions</strong> where <strong>each action is required in order to complete an activity</strong>&quot;</td>
+<td><strong>一系列用户操作</strong>，其中<strong>每一步都是完成某项活动所必需的</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>programmatically determined (programmatically determinable)</strong><br>可由程序确定</td>
+<td>&quot;<strong>determined by software from author-supplied data</strong> provided in a way that <strong>different user agents, including assistive technologies, can extract and present this information</strong> to users in different modalities&quot;</td>
+<td><strong>由软件根据作者提供的数据确定</strong>，这些数据以<strong>不同用户代理（包括辅助技术）都能提取并呈现</strong>给用户的方式提供</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>programmatically determined link context</strong><br>可由程序确定的链接上下文</td>
+<td>&quot;<strong>additional information that can be programmatically determined from relationships with a link</strong>, <strong>combined with the link text</strong>, and presented to users in different modalities&quot;</td>
+<td><strong>可由程序从与链接的关系中确定的附加信息</strong>，<strong>与链接文本结合</strong>，以不同方式呈现给用户</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>programmatically set</strong><br>由程序设置</td>
+<td>&quot;<strong>set by software</strong> using <strong>methods that are supported by user agents, including assistive technologies</strong>&quot;</td>
+<td><strong>由软件设置</strong>，使用<strong>用户代理（包括辅助技术）支持的方法</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>pure decoration</strong><br>纯装饰</td>
+<td>&quot;<strong>serving only an aesthetic purpose</strong>, <strong>providing no information, and having no functionality</strong>&quot;</td>
+<td><strong>只起美观作用</strong>，<strong>不提供信息，也没有功能</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>real-time event</strong><br>实时事件</td>
+<td>&quot;event that a) <strong>occurs at the same time as the viewing</strong> and b) is <strong>not completely generated by the content</strong>&quot;</td>
+<td>a) <strong>与观看同时发生</strong>，且 b) <strong>不完全由内容生成</strong>的事件</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>region</strong><br>区域</td>
+<td>&quot;<strong>perceivable, programmatically determined</strong> <strong>section of content</strong>&quot;</td>
+<td><strong>可感知的、可由程序确定的</strong>一个<strong>内容部分</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>relationships</strong><br>关系</td>
+<td>&quot;<strong>meaningful associations</strong> between <strong>distinct pieces of content</strong>&quot;</td>
+<td><strong>不同内容片段</strong>之间<strong>有意义的关联</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>relative luminance</strong><br>相对亮度</td>
+<td>&quot;the <strong>relative brightness of any point in a colorspace</strong>, <strong>normalized to 0 for darkest black and 1 for lightest white</strong>&quot;</td>
+<td><strong>色彩空间中任意一点的相对明亮程度</strong>，<strong>归一化为最暗的黑为 0、最亮的白为 1</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>relied upon (technologies that are)</strong><br>被依赖的（技术）</td>
+<td>&quot;<strong>the content would not conform</strong> if that technology is <strong>turned off or is not supported</strong>&quot;</td>
+<td>如果该技术<strong>被关闭或不受支持</strong>，<strong>内容就不符合要求</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>role</strong><br>角色</td>
+<td>&quot;<strong>text or number</strong> by which software can <strong>identify the function of a component</strong> within Web content&quot;</td>
+<td>软件用来<strong>标识网络内容中某个组件的功能</strong>的<strong>文本或数字</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>same functionality</strong><br>相同功能</td>
+<td>&quot;<strong>same result</strong> <strong>when used</strong>&quot;</td>
+<td><strong>使用时</strong>得到<strong>相同的结果</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>same relative order</strong><br>相同的相对顺序</td>
+<td>&quot;<strong>same position</strong> <strong>relative to other items</strong>&quot;</td>
+<td><strong>相对于其他项目</strong>的<strong>位置相同</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>satisfies a success criterion</strong><br>满足成功标准</td>
+<td>&quot;the success criterion <strong>does not evaluate to 'false'</strong> when <strong>applied to the page</strong>&quot;</td>
+<td>该成功标准<strong>应用于页面</strong>时<strong>不判定为“false”</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>section</strong><br>节</td>
+<td>&quot;a <strong>self-contained portion of written content</strong> that deals with <strong>one or more related topics or thoughts</strong>&quot;</td>
+<td><strong>书面内容中自成一体的部分</strong>，处理<strong>一个或多个相关的主题或想法</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>set of web pages</strong><br>一组网页</td>
+<td>&quot;collection of web pages that <strong>share a common purpose</strong> and that are <strong>created by the same author, group or organization</strong>&quot;</td>
+<td><strong>有共同目的</strong>、<strong>由同一作者、团体或组织创建</strong>的网页集合</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>sign language</strong><br>手语</td>
+<td>&quot;a language using <strong>combinations of movements of the hands and arms, facial expressions, or body positions</strong> to <strong>convey meaning</strong>&quot;</td>
+<td>用<strong>手和手臂的动作、面部表情或身体姿势的组合</strong>来<strong>传达意义</strong>的语言</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>sign language interpretation</strong><br>手语翻译</td>
+<td>&quot;<strong>translation of one language, generally a spoken language</strong>, <strong>into a sign language</strong>&quot;</td>
+<td><strong>把一种语言（通常是口语）翻译</strong>，译<strong>成手语</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>single pointer</strong><br>单指针</td>
+<td>&quot;an input modality that <strong>only targets a single point on the page/screen at a time</strong> – such as a <strong>mouse, single finger on a touch screen, or stylus</strong>.&quot;</td>
+<td><strong>一次只指向页面/屏幕上一个点</strong>的输入方式，例如<strong>鼠标、触摸屏上的单根手指或触控笔</strong>。</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>specific sensory experience</strong><br>特定感官体验</td>
+<td>&quot;a sensory experience that is <strong>not purely decorative</strong> and <strong>does not primarily convey important information or perform a function</strong>&quot;</td>
+<td><strong>不是纯装饰</strong>、也<strong>不主要传达重要信息或执行功能</strong>的感官体验</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>state</strong><br>状态</td>
+<td>&quot;<strong>dynamic property expressing characteristics of a user interface component</strong> that <strong>may change in response to user action or automated processes</strong>&quot;</td>
+<td><strong>表达用户界面组件特征的动态属性</strong>，<strong>可能因用户操作或自动过程而改变</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>status message</strong><br>状态消息</td>
+<td>&quot;<strong>change in content that is not a change of context</strong>, and that provides information to the user on the <strong>success or results of an action</strong>, on the waiting state of an application, on the progress of a process, or on the existence of errors&quot;</td>
+<td><strong>不是上下文改变的内容变化</strong>，向用户提供关于<strong>操作成功或结果</strong>、应用等待状态、流程进度或错误存在的信息</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>structure</strong><br>结构</td>
+<td>&quot;<strong>The way the parts of a web page are organized in relation to each other</strong>; and <strong>The way a collection of web pages is organized</strong>&quot;</td>
+<td><strong>网页各部分相互之间的组织方式</strong>；以及 <strong>一组网页的组织方式</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>style property</strong><br>样式属性</td>
+<td>&quot;<strong>property whose value determines the presentation</strong> (e.g. font, color, size, location, padding, volume, synthesized speech prosody) of content elements <strong>as they are rendered</strong> (e.g. onscreen, via loudspeaker, via braille display) by user agents&quot;</td>
+<td><strong>其值决定内容元素呈现方式的属性</strong>（例如字体、颜色、大小、位置、内边距、音量、合成语音的韵律），<strong>当内容被渲染时</strong>（例如屏幕、扬声器、盲文显示器）由用户代理</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>supplemental content</strong><br>补充内容</td>
+<td>&quot;<strong>additional content</strong> that <strong>illustrates or clarifies the primary content</strong>&quot;</td>
+<td><strong>说明或阐释主要内容</strong>的<strong>附加内容</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>synchronized media</strong><br>同步媒体</td>
+<td>&quot;<strong>audio or video synchronized with another format</strong> for presenting information and/or with <strong>time-based interactive components</strong>, unless the media is a media alternative for text that is clearly labeled as such&quot;</td>
+<td><strong>与另一种呈现信息的格式同步的音频或视频</strong>，和/或与<strong>基于时间的交互组件</strong>同步，除非该媒体是文本的媒体替代</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>target</strong><br>目标</td>
+<td>&quot;<strong>region of the display that will accept a pointer action</strong>, such as the <strong>interactive area of a user interface component</strong>&quot;</td>
+<td><strong>显示区域中接受指针操作的区域</strong>，例如<strong>用户界面组件的交互区</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>technology (web content)</strong><br>技术（网络内容）</td>
+<td>&quot;<strong>mechanism for encoding instructions</strong> to be <strong>rendered, played or executed by user agents</strong>&quot;</td>
+<td><strong>编码指令的机制</strong>，这些指令<strong>由用户代理渲染、播放或执行</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>text</strong><br>文本</td>
+<td>&quot;<strong>sequence of characters that can be programmatically determined</strong>, where the sequence is <strong>expressing something in human language</strong>&quot;</td>
+<td><strong>可由程序确定的字符序列</strong>，且该序列<strong>表达人类语言</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>text alternative</strong><br>文本替代</td>
+<td>&quot;<strong>Text that is programmatically associated with non-text content</strong> or <strong>referred to from text that is programmatically associated with non-text content</strong>. Programmatically associated text is text whose location can be programmatically determined from the non-text content.&quot;</td>
+<td><strong>与非文本内容以程序方式关联的文本</strong>，或<strong>从与非文本内容以程序方式关联的文本所引用</strong>的文本</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>up-event</strong><br>抬起事件</td>
+<td>&quot;<strong>platform event</strong> that occurs when the <strong>trigger stimulus of a pointer is released</strong>&quot;</td>
+<td><strong>指针的触发刺激被释放</strong>时发生的<strong>平台事件</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>used in an unusual or restricted way</strong><br>以不常见或受限方式使用</td>
+<td>&quot;words used in such a way that requires users to <strong>know exactly which definition to apply</strong> in order to <strong>understand the content correctly</strong>&quot;</td>
+<td>以要求用户<strong>确切知道该采用哪个定义</strong>才能<strong>正确理解内容</strong>的方式使用的词</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>user agent</strong><br>用户代理</td>
+<td>&quot;<strong>any software</strong> that <strong>retrieves and presents web content for users</strong>&quot;</td>
+<td><strong>任何软件</strong>，只要它<strong>为用户获取并呈现网络内容</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>user-controllable</strong><br>用户可控的</td>
+<td>&quot;<strong>data</strong> that is <strong>intended to be accessed by users</strong>&quot;</td>
+<td><strong>供用户访问</strong>的<strong>数据</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>user interface component</strong><br>用户界面组件</td>
+<td>&quot;a part of the content that is <strong>perceived by users as a single control</strong> <strong>for a distinct function</strong>&quot;</td>
+<td>内容中<strong>被用户感知为单个控件</strong>、<strong>执行某一特定功能</strong>的部分</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>user inactivity</strong><br>用户无操作</td>
+<td>&quot;<strong>any continuous period of time</strong> where <strong>no user actions occur</strong>&quot;</td>
+<td><strong>没有任何用户操作</strong>的<strong>任何连续时间段</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>video</strong><br>视频</td>
+<td>&quot;<strong>the technology</strong> of <strong>moving or sequenced pictures or images</strong>&quot;</td>
+<td><strong>运动的或连续的图片或图像</strong>的<strong>技术</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>video-only</strong><br>纯视频</td>
+<td>&quot;a <strong>time-based presentation</strong> that <strong>contains only video</strong> (no audio and no interaction)&quot;</td>
+<td>一种<strong>基于时间的呈现</strong>，<strong>只包含视频</strong>（没有音频，没有交互）</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>viewport</strong><br>视口</td>
+<td>&quot;<strong>object</strong> in which the <strong>user agent presents content</strong>&quot;</td>
+<td><strong>用户代理在其中呈现内容</strong>的<strong>对象</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>visually customized</strong><br>视觉上可定制</td>
+<td>&quot;the <strong>font, size, color, and background</strong> <strong>can be set</strong>&quot;</td>
+<td><strong>字体、大小、颜色和背景</strong>都<strong>可以设置</strong></td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+<tr>
+<td><strong>web page</strong><br>网页</td>
+<td>&quot;a <strong>non-embedded resource obtained from a single URI using HTTP</strong> plus any other resources that are used in the rendering or <strong>intended to be rendered together with it by a user agent</strong>&quot;</td>
+<td><strong>通过 HTTP 从单个 URI 获取的非嵌入资源</strong>，加上用户代理渲染它时所用、或<strong>打算由用户代理与它一起渲染</strong>的任何其他资源</td>
+<td><a href="https://www.w3.org/TR/WCAG22/#glossary">World Wide Web Consortium, 2024, section 6</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>World Wide Web Consortium. (2024, December 12). <em>Web Content Accessibility Guidelines (WCAG) 2.2</em> (W3C Recommendation). <a href="https://www.w3.org/TR/WCAG22/">https://www.w3.org/TR/WCAG22/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 14:15:28-05:00">11/03/2026 14:15:28</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

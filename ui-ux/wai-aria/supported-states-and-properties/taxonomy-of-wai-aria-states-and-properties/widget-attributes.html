@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6.6.1 Widget Attributes | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="WAI-ARIA 1.2, 6.6.1 Widget Attributes: aria-autocomplete, aria-checked, aria-disabled, aria-errormessage, aria-expanded, aria-haspopup, aria-hidden, aria-invalid, aria-label, aria-level, aria-modal, aria-multiline, aria-multiselectable, aria-orientation, aria-placeholder, aria-pressed, aria-readonly, aria-required, aria-selected, aria-sort, aria-valuemax, aria-valuemin, aria-valuenow, aria-valuetext.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="661-widget-attributes">6.6.1 Widget Attributes</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/widget-attributes.png" alt="6.6.1 Widget Attributes: aria-autocomplete, aria-checked, aria-disabled, aria-errormessage, aria-expanded, aria-haspopup, aria-hidden, aria-invalid, aria-label, aria-level, aria-modal, aria-multiline, aria-multiselectable, aria-orientation, aria-placeholder, aria-pressed, aria-readonly, aria-required, aria-selected, aria-sort, aria-valuemax, aria-valuemin, aria-valuenow, aria-valuetext."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6.6.1 Widget Attributes</strong><br>控件属性</td>
+<td>&quot;This section contains attributes specific to <strong>common user interface elements</strong> found on GUI systems or in rich internet applications which <strong>receive user input and process user actions</strong>.&quot;</td>
+<td>本节包含专用于 GUI 系统或富互联网应用中<strong>常见用户界面元素</strong>的属性，这些元素<strong>接收用户输入并处理用户操作</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/">World Wide Web Consortium, 2023, section 6.6.1</a></td>
+</tr>
+<tr>
+<td><strong>aria-autocomplete</strong><br>自动补全</td>
+<td>&quot;Indicates whether inputting text could <strong>trigger display of one or more predictions</strong> of the user's intended value for a combobox, searchbox, or textbox and specifies <strong>how predictions would be presented</strong> if they were made.&quot;</td>
+<td>指示在组合框、搜索框或文本框中输入文本是否会<strong>触发显示一个或多个对用户意图值的预测</strong>，并指定<strong>预测将如何呈现</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-autocomplete">World Wide Web Consortium, 2023, section 6.7, aria-autocomplete</a></td>
+</tr>
+<tr>
+<td><strong>aria-checked</strong><br>选中状态</td>
+<td>&quot;Indicates the current &quot;<strong>checked</strong>&quot; state of checkboxes, radio buttons, and other widgets.&quot;</td>
+<td>指示复选框、单选按钮和其他控件当前的“<strong>选中</strong>”状态。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-checked">World Wide Web Consortium, 2023, section 6.7, aria-checked</a></td>
+</tr>
+<tr>
+<td><strong>aria-disabled</strong><br>禁用</td>
+<td>&quot;Indicates that the element is <strong>perceivable but disabled</strong>, so it is <strong>not editable or otherwise operable</strong>.&quot;</td>
+<td>指示元素<strong>可感知但已禁用</strong>，因此<strong>不可编辑或以其他方式操作</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-disabled">World Wide Web Consortium, 2023, section 6.7, aria-disabled</a></td>
+</tr>
+<tr>
+<td><strong>aria-errormessage</strong><br>错误消息来源</td>
+<td>&quot;Identifies the element that provides an <strong>error message for an object</strong>.&quot;</td>
+<td>标识为对象提供<strong>错误消息</strong>的元素。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-errormessage">World Wide Web Consortium, 2023, section 6.7, aria-errormessage</a></td>
+</tr>
+<tr>
+<td><strong>aria-expanded</strong><br>展开状态</td>
+<td>&quot;Indicates whether a <strong>grouping element owned or controlled by this element</strong> is <strong>expanded or collapsed</strong>.&quot;</td>
+<td>指示<strong>此元素拥有或控制的分组元素</strong>是<strong>展开还是折叠</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-expanded">World Wide Web Consortium, 2023, section 6.7, aria-expanded</a></td>
+</tr>
+<tr>
+<td><strong>aria-haspopup</strong><br>有弹出层</td>
+<td>&quot;Indicates the <strong>availability and type of interactive popup element</strong>, such as menu or dialog, that can be triggered by an element.&quot;</td>
+<td>指示元素可以触发的<strong>交互式弹出元素是否存在及其类型</strong>，例如菜单或对话框。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-haspopup">World Wide Web Consortium, 2023, section 6.7, aria-haspopup</a></td>
+</tr>
+<tr>
+<td><strong>aria-hidden</strong><br>隐藏</td>
+<td>&quot;Indicates whether the element is <strong>exposed to an accessibility API</strong>.&quot;</td>
+<td>指示元素是否<strong>向无障碍 API 公开</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-hidden">World Wide Web Consortium, 2023, section 6.7, aria-hidden</a></td>
+</tr>
+<tr>
+<td><strong>aria-invalid</strong><br>无效</td>
+<td>&quot;Indicates the entered value <strong>does not conform to the format expected by the application</strong>.&quot;</td>
+<td>指示输入的值<strong>不符合应用所期望的格式</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-invalid">World Wide Web Consortium, 2023, section 6.7, aria-invalid</a></td>
+</tr>
+<tr>
+<td><strong>aria-label</strong><br>标签</td>
+<td>&quot;Defines a <strong>string value that labels the current element</strong>.&quot;</td>
+<td>定义<strong>标注当前元素的字符串值</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-label">World Wide Web Consortium, 2023, section 6.7, aria-label</a></td>
+</tr>
+<tr>
+<td><strong>aria-level</strong><br>层级</td>
+<td>&quot;Defines the <strong>hierarchical level of an element within a structure</strong>.&quot;</td>
+<td>定义<strong>元素在结构中的层级</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-level">World Wide Web Consortium, 2023, section 6.7, aria-level</a></td>
+</tr>
+<tr>
+<td><strong>aria-modal</strong><br>模态</td>
+<td>&quot;Indicates whether an element is <strong>modal when displayed</strong>.&quot;</td>
+<td>指示元素在<strong>显示时是否为模态</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-modal">World Wide Web Consortium, 2023, section 6.7, aria-modal</a></td>
+</tr>
+<tr>
+<td><strong>aria-multiline</strong><br>多行</td>
+<td>&quot;Indicates whether a text box accepts <strong>multiple lines of input or only a single line</strong>.&quot;</td>
+<td>指示文本框接受<strong>多行输入还是只接受单行</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-multiline">World Wide Web Consortium, 2023, section 6.7, aria-multiline</a></td>
+</tr>
+<tr>
+<td><strong>aria-multiselectable</strong><br>可多选</td>
+<td>&quot;Indicates that the user may <strong>select more than one item</strong> from the current selectable descendants.&quot;</td>
+<td>指示用户可以从当前可选的后代中<strong>选择多于一项</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-multiselectable">World Wide Web Consortium, 2023, section 6.7, aria-multiselectable</a></td>
+</tr>
+<tr>
+<td><strong>aria-orientation</strong><br>方向</td>
+<td>&quot;Indicates whether the element's orientation is <strong>horizontal, vertical, or unknown/ambiguous</strong>.&quot;</td>
+<td>指示元素的方向是<strong>水平、垂直，还是未知/不明确</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-orientation">World Wide Web Consortium, 2023, section 6.7, aria-orientation</a></td>
+</tr>
+<tr>
+<td><strong>aria-placeholder</strong><br>占位提示</td>
+<td>&quot;Defines a <strong>short hint</strong> (a word or short phrase) intended to <strong>aid the user with data entry</strong> when the control has no value.&quot;</td>
+<td>定义一个<strong>简短提示</strong>（一个词或短语），在控件没有值时<strong>帮助用户输入数据</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-placeholder">World Wide Web Consortium, 2023, section 6.7, aria-placeholder</a></td>
+</tr>
+<tr>
+<td><strong>aria-pressed</strong><br>按下状态</td>
+<td>&quot;Indicates the current &quot;<strong>pressed</strong>&quot; state of <strong>toggle buttons</strong>.&quot;</td>
+<td>指示<strong>切换按钮</strong>当前的“<strong>按下</strong>”状态。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-pressed">World Wide Web Consortium, 2023, section 6.7, aria-pressed</a></td>
+</tr>
+<tr>
+<td><strong>aria-readonly</strong><br>只读</td>
+<td>&quot;Indicates that the element is <strong>not editable, but is otherwise operable</strong>.&quot;</td>
+<td>指示元素<strong>不可编辑，但其他方面可操作</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-readonly">World Wide Web Consortium, 2023, section 6.7, aria-readonly</a></td>
+</tr>
+<tr>
+<td><strong>aria-required</strong><br>必填</td>
+<td>&quot;Indicates that <strong>user input is required</strong> on the element before a form may be submitted.&quot;</td>
+<td>指示在表单可以提交之前，该元素上<strong>需要用户输入</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-required">World Wide Web Consortium, 2023, section 6.7, aria-required</a></td>
+</tr>
+<tr>
+<td><strong>aria-selected</strong><br>选定状态</td>
+<td>&quot;Indicates the current &quot;<strong>selected</strong>&quot; state of <strong>various widgets</strong>.&quot;</td>
+<td>指示<strong>各种控件</strong>当前的“<strong>选定</strong>”状态。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-selected">World Wide Web Consortium, 2023, section 6.7, aria-selected</a></td>
+</tr>
+<tr>
+<td><strong>aria-sort</strong><br>排序</td>
+<td>&quot;Indicates if items in a table or grid are <strong>sorted in ascending or descending order</strong>.&quot;</td>
+<td>指示表格或网格中的项目是<strong>按升序还是降序排序</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-sort">World Wide Web Consortium, 2023, section 6.7, aria-sort</a></td>
+</tr>
+<tr>
+<td><strong>aria-valuemax</strong><br>最大值</td>
+<td>&quot;Defines the <strong>maximum allowed value</strong> for a range widget.&quot;</td>
+<td>定义范围控件<strong>允许的最大值</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-valuemax">World Wide Web Consortium, 2023, section 6.7, aria-valuemax</a></td>
+</tr>
+<tr>
+<td><strong>aria-valuemin</strong><br>最小值</td>
+<td>&quot;Defines the <strong>minimum allowed value</strong> for a range widget.&quot;</td>
+<td>定义范围控件<strong>允许的最小值</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-valuemin">World Wide Web Consortium, 2023, section 6.7, aria-valuemin</a></td>
+</tr>
+<tr>
+<td><strong>aria-valuenow</strong><br>当前值</td>
+<td>&quot;Defines the <strong>current value</strong> for a range widget.&quot;</td>
+<td>定义范围控件的<strong>当前值</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-valuenow">World Wide Web Consortium, 2023, section 6.7, aria-valuenow</a></td>
+</tr>
+<tr>
+<td><strong>aria-valuetext</strong><br>值的文本</td>
+<td>&quot;Defines the <strong>human readable text alternative of aria-valuenow</strong> for a range widget.&quot;</td>
+<td>定义范围控件 <strong>aria-valuenow 的人类可读文本替代</strong>。</td>
+<td><a href="https://www.w3.org/TR/wai-aria-1.2/#aria-valuetext">World Wide Web Consortium, 2023, section 6.7, aria-valuetext</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>World Wide Web Consortium. (2023, June 6). <em>Accessible Rich Internet Applications (WAI-ARIA) 1.2</em> (W3C Recommendation). <a href="https://www.w3.org/TR/wai-aria-1.2/">https://www.w3.org/TR/wai-aria-1.2/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 11:46:57-05:00">11/03/2026 11:46:57</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

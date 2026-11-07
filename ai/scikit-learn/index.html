@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>scikit-learn | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="scikit-learn: the 15 groups and 73 pages of the scikit-learn User Guide, version 1.9.1.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Home">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="scikit-learn">scikit-learn</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/scikit-learn.png" alt="scikit-learn sorted into the 15 groups of its User Guide (version 1.9.1), in User Guide order, each with its pages."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>scikit-learn</strong><br>scikit-learn</td>
+<td>&quot;<code>Scikit-learn</code> is <strong>an open source machine learning library that supports supervised and unsupervised learning</strong>.&quot;</td>
+<td><code>Scikit-learn</code> 是<strong>一个支持监督学习和无监督学习的开源机器学习库</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/getting_started.html#getting-started">scikit-learn developers, n.d.-b, &quot;Getting Started&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="supervised-learning/index.html">1 Supervised Learning</a></strong><br>监督学习</td>
+<td>&quot;Learning where <strong>the expected prediction (label or ground truth) is available for each sample</strong> when fitting the model, provided as y.&quot;</td>
+<td>在拟合模型时，<strong>每个样本的预期预测（标签或真实值）都可得到</strong>的学习，以 y 的形式提供。</td>
+<td><a href="https://scikit-learn.org/stable/glossary.html#term-supervised-learning">scikit-learn developers, n.d.-a, &quot;supervised learning&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="unsupervised-learning/index.html">2 Unsupervised Learning</a></strong><br>无监督学习</td>
+<td>&quot;Learning where <strong>the expected prediction (label or ground truth) is not available for each sample</strong> when fitting the model, as in clusterers and outlier detectors.&quot;</td>
+<td>在拟合模型时，<strong>每个样本的预期预测（标签或真实值）都不可得到</strong>的学习，如聚类器和离群点检测器。</td>
+<td><a href="https://scikit-learn.org/stable/glossary.html#term-unsupervised-learning">scikit-learn developers, n.d.-a, &quot;unsupervised learning&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="model-selection-and-evaluation/index.html">3 Model Selection and Evaluation</a></strong><br>模型选择与评估</td>
+<td>(context) &quot;Fitting a model to some data does not entail that it will predict well on unseen data. This needs to be <strong>directly evaluated</strong>.&quot;</td>
+<td>（语境）用一些数据拟合了模型，并不意味着它在未见过的数据上也能预测得好。这需要<strong>直接加以评估</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/getting_started.html#model-evaluation">scikit-learn developers, n.d.-b, &quot;Model evaluation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="metadata-routing/index.html">4 Metadata Routing</a></strong><br>元数据路由</td>
+<td>&quot;This guide demonstrates how <strong>metadata can be routed and passed between objects</strong> in scikit-learn.&quot;</td>
+<td>本指南演示在 scikit-learn 中<strong>元数据如何在对象之间路由和传递</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/metadata_routing.html#metadata-routing">scikit-learn developers, n.d.-c, &quot;4. Metadata Routing&quot;, para. 1 after the Note</a></td>
+</tr>
+<tr>
+<td><strong><a href="inspection/index.html">5 Inspection</a></strong><br>检查</td>
+<td>&quot;The sklearn.inspection module <strong>provides tools to help understand the predictions from a model and what affects them</strong>.&quot;</td>
+<td>sklearn.inspection 模块<strong>提供工具，帮助理解模型的预测以及影响预测的因素</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/inspection.html#inspection">scikit-learn developers, n.d.-c, &quot;5. Inspection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="visualizations/index.html">6 Visualizations</a></strong><br>可视化</td>
+<td>&quot;Scikit-learn defines <strong>a simple API for creating visualizations for machine learning</strong>.&quot;</td>
+<td>Scikit-learn 定义了<strong>一个用于创建机器学习可视化的简单 API</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/visualizations.html#visualizations">scikit-learn developers, n.d.-c, &quot;6. Visualizations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="callbacks/index.html">7 Callbacks</a></strong><br>回调</td>
+<td>&quot;<strong>An object which can be registered on a compatible estimator to have its hooks called during the fitting</strong> of that estimator.&quot;</td>
+<td><strong>一个可以注册到兼容估计器上的对象，在该估计器拟合期间调用它的钩子</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/glossary.html#term-callbacks">scikit-learn developers, n.d.-a, &quot;callbacks&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="dataset-transformations/index.html">8 Dataset Transformations</a></strong><br>数据集变换</td>
+<td>&quot;scikit-learn provides <strong>a library of transformers, which may clean (see Preprocessing data), reduce (see Unsupervised dimensionality reduction), expand (see Kernel Approximation) or generate (see Feature extraction) feature representations</strong>.&quot;</td>
+<td>scikit-learn 提供<strong>一个变换器库，可以清洗（见 Preprocessing data）、约简（见 Unsupervised dimensionality reduction）、扩展（见 Kernel Approximation）或生成（见 Feature extraction）特征表示</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/data_transforms.html#dataset-transformations">scikit-learn developers, n.d.-c, &quot;8. Dataset transformations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="dataset-loading-utilities/index.html">9 Dataset Loading Utilities</a></strong><br>数据集加载工具</td>
+<td>&quot;The <code>sklearn.datasets</code> package <strong>embeds some small toy datasets and provides helpers to fetch larger datasets</strong> commonly used by the machine learning community to benchmark algorithms on data that comes from the ‘real world’.&quot;</td>
+<td><code>sklearn.datasets</code> 包<strong>内置了一些小型玩具数据集，并提供辅助工具来获取更大的数据集</strong>，这些数据集常被机器学习社区用来在来自“真实世界”的数据上对算法做基准测试。</td>
+<td><a href="https://scikit-learn.org/stable/datasets.html#dataset-loading-utilities">scikit-learn developers, n.d.-c, &quot;9. Dataset loading utilities&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="computing-with-scikit-learn/index.html">10 Computing with scikit-learn</a></strong><br>用 scikit-learn 计算</td>
+<td>(context) &quot;For some applications the amount of examples, features (or both) and/or the speed at which they need to be processed are challenging for traditional approaches. In these cases scikit-learn has <strong>a number of options you can consider to make your system scale</strong>.&quot;</td>
+<td>（语境）对某些应用来说，样本、特征（或两者）的数量，以及/或者处理它们所需的速度，对传统方法是一种挑战。这时 scikit-learn 有<strong>一些选项可供考虑，让你的系统扩展</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/computing/scaling_strategies.html">scikit-learn developers, n.d.-c, &quot;10.1. Strategies to scale computationally: bigger data&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="model-persistence/index.html">11 Model Persistence</a></strong><br>模型持久化</td>
+<td>&quot;After training a scikit-learn model, it is desirable to have <strong>a way to persist the model for future use without having to retrain</strong>.&quot;</td>
+<td>训练好一个 scikit-learn 模型后，最好有<strong>一种方法把模型持久保存下来，供以后使用而无需重新训练</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/model_persistence.html#model-persistence">scikit-learn developers, n.d.-c, &quot;11. Model persistence&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="common-pitfalls-and-recommended-practices/index.html">12 Common Pitfalls and Recommended Practices</a></strong><br>常见陷阱与推荐做法</td>
+<td>&quot;The purpose of this chapter is to illustrate <strong>some common pitfalls and anti-patterns that occur when using scikit-learn</strong>.&quot;</td>
+<td>本章的目的是说明<strong>使用 scikit-learn 时出现的一些常见陷阱和反模式</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/common_pitfalls.html#common-pitfalls-and-recommended-practices">scikit-learn developers, n.d.-c, &quot;12. Common pitfalls and recommended practices&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="data-interoperability/index.html">13 Data Interoperability</a></strong><br>数据互操作性</td>
+<td>&quot;Scikit-learn <strong>handles four kinds of data for X</strong> as used in <code>fit(X, y)</code>, <code>fit(X)</code>, <code>fit_transform(X)</code> and <code>transform(X)</code> as well as Xt as returned by <code>transform(X)</code> and <code>fit_transform(X)</code>:&quot;</td>
+<td>Scikit-learn <strong>为 X 处理四种数据</strong>，X 即 <code>fit(X, y)</code>、<code>fit(X)</code>、<code>fit_transform(X)</code> 和 <code>transform(X)</code> 中所用的 X，以及 <code>transform(X)</code> 和 <code>fit_transform(X)</code> 返回的 Xt：</td>
+<td><a href="https://scikit-learn.org/stable/data_interoperability.html#data-interoperability">scikit-learn developers, n.d.-c, &quot;13. Data Interoperability&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="choosing-the-right-estimator/index.html">14 Choosing the Right Estimator</a></strong><br>选择合适的估计器</td>
+<td>&quot;Often the hardest part of solving a machine learning problem can be <strong>finding the right estimator for the job</strong>.&quot;</td>
+<td>解决机器学习问题时，最难的部分往往是<strong>为任务找到合适的估计器</strong>。</td>
+<td><a href="https://scikit-learn.org/stable/machine_learning_map.html#choosing-the-right-estimator">scikit-learn developers, n.d.-c, &quot;14. Choosing the right estimator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="external-resources-videos-and-talks/index.html">15 External Resources, Videos and Talks</a></strong><br>外部资源、视频与讲座</td>
+<td>(context) &quot;If you are new to scikit-learn, or looking to strengthen your understanding, we highly recommend the <strong>scikit-learn MOOC (Massive Open Online Course)</strong>.&quot;</td>
+<td>（语境）如果你刚接触 scikit-learn，或想加深理解，我们强烈推荐 <strong>scikit-learn MOOC</strong>（大型开放在线课程）。</td>
+<td><a href="https://scikit-learn.org/stable/presentations.html#the-scikit-learn-mooc">scikit-learn developers, n.d.-c, &quot;15.1. The scikit-learn MOOC&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>scikit-learn developers. (n.d.-a). <em>Glossary of common terms and API elements</em> (Version 1.9.1). Retrieved October 30, 2026, from <a href="https://scikit-learn.org/stable/glossary.html">https://scikit-learn.org/stable/glossary.html</a></p>
+<p>scikit-learn developers. (n.d.-b). <em>Getting started</em> (Version 1.9.1). Retrieved October 30, 2026, from <a href="https://scikit-learn.org/stable/getting_started.html">https://scikit-learn.org/stable/getting_started.html</a></p>
+<p>scikit-learn developers. (n.d.-c). <em>scikit-learn User Guide</em> (Version 1.9.1). Retrieved October 30, 2026, from <a href="https://scikit-learn.org/stable/user_guide.html">https://scikit-learn.org/stable/user_guide.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 16:26:27-04:00">10/30/2026 16:26:27</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>8.1 Vector spaces, linear mappings, and convexity | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="8.1 Vector spaces, linear mappings, and convexity, part of 8 Several Variables and Partial Derivatives in Real Analysis: 19 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="81-vector-spaces-linear-mappings-and-convexity">8.1 Vector spaces, linear mappings, and convexity</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/8-1-vector-spaces-linear-mappings-and-convexity.png" alt="8.1 Vector spaces, linear mappings, and convexity: its 19 terms, in 8 Several Variables and Partial Derivatives."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>8.1 Vector spaces, linear mappings, and convexity</strong><br>向量空间、线性映射与凸性</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html">Lebl, 2026, section 8.1</a></td>
+</tr>
+<tr>
+<td><strong>Vector</strong><br>向量</td>
+<td>&quot;That is, <span class="math">\(v \in \mathbb{R}^n\)</span> is a <strong>vector</strong>, which means <strong><span class="math">\(v = (v_1,v_2,\ldots,v_n)\)</span> is an <span class="math">\(n\)</span>-tuple of real numbers</strong>.&quot;</td>
+<td>也就是说，<span class="math">\(v \in \mathbb{R}^n\)</span> 是一个<strong>向量</strong>，即 <strong><span class="math">\(v = (v_1,v_2,\ldots,v_n)\)</span> 是由实数构成的 <span class="math">\(n\)</span> 元组</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-3-3">Lebl, 2026, section 8.1</a></td>
+</tr>
+<tr>
+<td><strong>Column Vector</strong><br>列向量</td>
+<td>&quot;At times, it is useful to write and treat vectors as <strong>column vectors</strong>, that is, <strong><span class="math">\(n\)</span>-by-<span class="math">\(1\)</span> matrices</strong>.&quot;</td>
+<td>有时把向量写成并当作<strong>列向量</strong>来处理很有用，即 <strong><span class="math">\(n \times 1\)</span> 矩阵</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-3-3">Lebl, 2026, section 8.1</a></td>
+</tr>
+<tr>
+<td><strong>Scalars</strong><br>标量</td>
+<td>&quot;We call <strong>real numbers</strong> <strong>scalars</strong> to distinguish them from vectors.&quot;</td>
+<td>我们把<strong>实数</strong>称为<strong>标量</strong>，以区别于向量。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-3-3">Lebl, 2026, section 8.1</a></td>
+</tr>
+<tr>
+<td><strong>Vector Space</strong><br>向量空间</td>
+<td>&quot;Let <span class="math">\(X\)</span> be a set together with the operations of addition, <span class="math">\(+ \colon X \times X \to X\)</span>, and multiplication, <span class="math">\(\cdot \colon \mathbb{R} \times X \to X\)</span>, (we usually write <span class="math">\(ax\)</span> instead of <span class="math">\(a \cdot x\)</span>). The set <span class="math">\(X\)</span> is called a <strong>vector space</strong> (or a <strong>real vector space</strong>) if <strong>the following conditions are satisfied</strong>: (Addition is associative) (Addition is commutative) (Additive identity) (Additive inverse) (Distributive law) (Distributive law) (Multiplication is associative) (Multiplicative identity)&quot;</td>
+<td>设集合 <span class="math">\(X\)</span> 带有加法运算 <span class="math">\(+ \colon X \times X \to X\)</span> 和乘法运算 <span class="math">\(\cdot \colon \mathbb{R} \times X \to X\)</span>（通常把 <span class="math">\(a \cdot x\)</span> 写作 <span class="math">\(ax\)</span>）。若<strong>满足以下条件</strong>，则集合 <span class="math">\(X\)</span> 称为<strong>向量空间</strong>（或<strong>实向量空间</strong>）：（加法结合律）（加法交换律）（加法单位元）（加法逆元）（分配律）（分配律）（乘法结合律）（乘法单位元）</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-3-9">Lebl, 2026, Definition 8.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Vector Subspace</strong><br>向量子空间</td>
+<td>&quot;If <span class="math">\(Y \subset X\)</span> is <strong>a subset that is a vector space itself using the same operations</strong>, then <span class="math">\(Y\)</span> is called a subspace or a <strong>vector subspace</strong> of <span class="math">\(X\)</span>.&quot;</td>
+<td>若 <span class="math">\(Y \subset X\)</span> 是<strong>在相同运算下本身也是向量空间的子集</strong>，则 <span class="math">\(Y\)</span> 称为 <span class="math">\(X\)</span> 的子空间或<strong>向量子空间</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-3-9">Lebl, 2026, Definition 8.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Linear Combination</strong><br>线性组合</td>
+<td>&quot;Suppose <span class="math">\(X\)</span> is a vector space, <span class="math">\(x_1, x_2, \ldots, x_m \in X\)</span> are vectors, and <span class="math">\(a_1, a_2, \ldots, a_m \in \mathbb{R}\)</span> are scalars. Then <strong><span class="math">\(a_1 x_1 + a_2 x_2 + \cdots + a_m x_m\)</span></strong> is called a <strong>linear combination</strong> of the vectors <span class="math">\(x_1, x_2, \ldots, x_m\)</span>.&quot;</td>
+<td>设 <span class="math">\(X\)</span> 是向量空间，<span class="math">\(x_1, x_2, \ldots, x_m \in X\)</span> 是向量，<span class="math">\(a_1, a_2, \ldots, a_m \in \mathbb{R}\)</span> 是标量，则 <strong><span class="math">\(a_1 x_1 + a_2 x_2 + \cdots + a_m x_m\)</span></strong> 称为向量 <span class="math">\(x_1, x_2, \ldots, x_m\)</span> 的<strong>线性组合</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-4-2">Lebl, 2026, Definition 8.1.7</a></td>
+</tr>
+<tr>
+<td><strong>Span</strong><br>张成</td>
+<td>&quot;For a subset <span class="math">\(Y \subset X\)</span>, let <span class="math">\(\operatorname{span}(Y)\)</span>, or the <strong>span</strong> of <span class="math">\(Y\)</span>, be <strong>the set of all linear combinations of all finite subsets of <span class="math">\(Y\)</span></strong>. We say <span class="math">\(Y\)</span> spans <span class="math">\(\operatorname{span}(Y)\)</span>.&quot;</td>
+<td>对子集 <span class="math">\(Y \subset X\)</span>，令 <span class="math">\(\operatorname{span}(Y)\)</span>，即 <span class="math">\(Y\)</span> 的<strong>张成</strong>，为 <strong><span class="math">\(Y\)</span> 的所有有限子集的全部线性组合构成的集合</strong>。称 <span class="math">\(Y\)</span> 张成 <span class="math">\(\operatorname{span}(Y)\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-4-2">Lebl, 2026, Definition 8.1.7</a></td>
+</tr>
+<tr>
+<td><strong>Linearly Independent</strong><br>线性无关</td>
+<td>&quot;A set of vectors <span class="math">\(\{ x_1, x_2, \ldots, x_m \} \subset X\)</span> is <strong>linearly independent</strong> if the equation <span class="math">\(a_1 x_1 + a_2 x_2 + \cdots + a_m x_m = 0\)</span> <strong>has only the trivial solution <span class="math">\(a_1 = a_2 = \cdots = a_m = 0\)</span></strong>.&quot;</td>
+<td>若方程 <span class="math">\(a_1 x_1 + a_2 x_2 + \cdots + a_m x_m = 0\)</span> <strong>只有平凡解 <span class="math">\(a_1 = a_2 = \cdots = a_m = 0\)</span></strong>，则向量组 <span class="math">\(\{ x_1, x_2, \ldots, x_m \} \subset X\)</span> 是<strong>线性无关的</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-4-9">Lebl, 2026, Definition 8.1.12</a></td>
+</tr>
+<tr>
+<td><strong>Linearly Dependent</strong><br>线性相关</td>
+<td>&quot;A set that is <strong>not linearly independent</strong> is <strong>linearly dependent</strong>.&quot;</td>
+<td><strong>不是线性无关</strong>的集合是<strong>线性相关的</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-4-9">Lebl, 2026, Definition 8.1.12</a></td>
+</tr>
+<tr>
+<td><strong>Basis</strong><br>基</td>
+<td>&quot;A <strong>linearly independent set of vectors <span class="math">\(B \subset X\)</span> such that <span class="math">\(\operatorname{span}(B) = X\)</span></strong> is called a <strong>basis</strong> of <span class="math">\(X\)</span>.&quot;</td>
+<td><strong>满足 <span class="math">\(\operatorname{span}(B) = X\)</span> 的线性无关向量组 <span class="math">\(B \subset X\)</span></strong> 称为 <span class="math">\(X\)</span> 的<strong>基</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-4-9">Lebl, 2026, Definition 8.1.12</a></td>
+</tr>
+<tr>
+<td><strong>Dimension</strong><br>维数</td>
+<td>&quot;Suppose <span class="math">\(d\)</span> is <strong>the largest integer for which <span class="math">\(X\)</span> contains a set of <span class="math">\(d\)</span> linearly independent vectors</strong>. We then say <span class="math">\(d\)</span> is the <strong>dimension</strong> of <span class="math">\(X\)</span>, and we write <span class="math">\(\dim \, X := d\)</span>.&quot;</td>
+<td>设 <span class="math">\(d\)</span> 是<strong>使 <span class="math">\(X\)</span> 含有 <span class="math">\(d\)</span> 个线性无关向量的最大整数</strong>，则称 <span class="math">\(d\)</span> 是 <span class="math">\(X\)</span> 的<strong>维数</strong>，记作 <span class="math">\(\dim \, X := d\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-4-9">Lebl, 2026, Definition 8.1.12</a></td>
+</tr>
+<tr>
+<td><strong>Standard Basis</strong><br>标准基</td>
+<td>&quot;For <span class="math">\(\mathbb{R}^n\)</span>, we define the <strong>standard basis</strong> of <span class="math">\(\mathbb{R}^n\)</span>: <strong><span class="math">\(e_1 := (1,0,0,\ldots,0) , \quad e_2 := (0,1,0,\ldots,0) , \quad \ldots, \quad e_n := (0,0,0,\ldots,1)\)</span></strong>.&quot;</td>
+<td>对 <span class="math">\(\mathbb{R}^n\)</span>，定义 <span class="math">\(\mathbb{R}^n\)</span> 的<strong>标准基</strong>：<strong><span class="math">\(e_1 := (1,0,0,\ldots,0) , \quad e_2 := (0,1,0,\ldots,0) , \quad \ldots, \quad e_n := (0,0,0,\ldots,1)\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-4-16">Lebl, 2026, section 8.1</a></td>
+</tr>
+<tr>
+<td><strong>Linear Transformation</strong><br>线性变换</td>
+<td>&quot;A map <span class="math">\(A \colon X \to Y\)</span> of vector spaces <span class="math">\(X\)</span> and <span class="math">\(Y\)</span> is <strong>linear</strong> (we also say <span class="math">\(A\)</span> is a <strong>linear transformation</strong> or a <strong>linear operator</strong>) if for all <span class="math">\(a \in \mathbb{R}\)</span> and all <span class="math">\(x,y \in X\)</span>, <strong><span class="math">\(A(a x) = a A(x) \qquad \text{and} \qquad A(x+y) = A(x)+A(y)\)</span></strong>.&quot;</td>
+<td>若对所有 <span class="math">\(a \in \mathbb{R}\)</span> 和所有 <span class="math">\(x,y \in X\)</span> 有 <strong><span class="math">\(A(a x) = a A(x) \qquad \text{and} \qquad A(x+y) = A(x)+A(y)\)</span></strong>，则向量空间 <span class="math">\(X\)</span> 到 <span class="math">\(Y\)</span> 的映射 <span class="math">\(A \colon X \to Y\)</span> 是<strong>线性的</strong>（也称 <span class="math">\(A\)</span> 为<strong>线性变换</strong>或<strong>线性算子</strong>）。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-5-3">Lebl, 2026, Definition 8.1.15</a></td>
+</tr>
+<tr>
+<td><strong>Invertible Linear Transformation</strong><br>可逆线性变换</td>
+<td>&quot;If <span class="math">\(A\)</span> is <strong>one-to-one and onto</strong>, then we say <span class="math">\(A\)</span> is <strong>invertible</strong>, and we denote the inverse by <span class="math">\(A^{-1}\)</span>.&quot;</td>
+<td>若 <span class="math">\(A\)</span> <strong>既是一对一的又是映上的</strong>，则称 <span class="math">\(A\)</span> <strong>可逆</strong>，其逆记作 <span class="math">\(A^{-1}\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-5-3">Lebl, 2026, Definition 8.1.15</a></td>
+</tr>
+<tr>
+<td><strong>Identity</strong><br>恒等算子</td>
+<td>&quot;Finally, denote by <span class="math">\(I \in L(X)\)</span> the <strong>identity</strong>: <strong>the linear operator such that <span class="math">\(Ix = x\)</span> for all <span class="math">\(x\)</span></strong>.&quot;</td>
+<td>最后，用 <span class="math">\(I \in L(X)\)</span> 表示<strong>恒等算子</strong>：<strong>对所有 <span class="math">\(x\)</span> 满足 <span class="math">\(Ix = x\)</span> 的线性算子</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-5-3">Lebl, 2026, Definition 8.1.15</a></td>
+</tr>
+<tr>
+<td><strong>Algebra</strong><br>代数</td>
+<td>&quot;As <span class="math">\(L(X)\)</span> is <strong>not only a vector space, but also admits a product (composition)</strong>, it is called an <strong>algebra</strong>.&quot;</td>
+<td>由于 <span class="math">\(L(X)\)</span> <strong>不仅是向量空间，还允许乘积（复合）</strong>，它被称为一个<strong>代数</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-5-5">Lebl, 2026, section 8.1</a></td>
+</tr>
+<tr>
+<td><strong>Nullspace</strong><br>零空间</td>
+<td>&quot;For this reason, one often studies the <strong>nullspace</strong> of <span class="math">\(A\)</span>, that is, <strong><span class="math">\(\{ x \in X : Ax = 0 \}\)</span></strong>.&quot;</td>
+<td>因此人们常研究 <span class="math">\(A\)</span> 的<strong>零空间</strong>，即 <strong><span class="math">\(\{ x \in X : Ax = 0 \}\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-5-10">Lebl, 2026, section 8.1</a></td>
+</tr>
+<tr>
+<td><strong>Convex Combination</strong><br>凸组合</td>
+<td>&quot;A subset <span class="math">\(U\)</span> of a vector space is convex if whenever <span class="math">\(x,y \in U\)</span>, the line segment from <span class="math">\(x\)</span> to <span class="math">\(y\)</span> lies in <span class="math">\(U\)</span>. That is, if the <strong>convex combination</strong> <strong><span class="math">\((1-t)x+ty\)</span></strong> is in <span class="math">\(U\)</span> for all <span class="math">\(t \in [0,1]\)</span>.&quot;</td>
+<td>向量空间的子集 <span class="math">\(U\)</span> 称为凸的，如果只要 <span class="math">\(x,y \in U\)</span>，从 <span class="math">\(x\)</span> 到 <span class="math">\(y\)</span> 的线段就在 <span class="math">\(U\)</span> 中，即对所有 <span class="math">\(t \in [0,1]\)</span>，<strong>凸组合</strong> <strong><span class="math">\((1-t)x+ty\)</span></strong> 都在 <span class="math">\(U\)</span> 中。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-6-2">Lebl, 2026, section 8.1</a></td>
+</tr>
+<tr>
+<td><strong>Convex Hull</strong><br>凸包</td>
+<td>&quot;Given a subset <span class="math">\(S\)</span> of a vector space <span class="math">\(X\)</span>, define the <strong>convex hull</strong> of <span class="math">\(S\)</span> as <strong>the intersection of all convex sets containing <span class="math">\(S\)</span></strong>: <span class="math">\(\operatorname{co}(S) := \bigcap \{ C \subset X : S \subset C, \text{ and } C \text{ is convex} \}\)</span>.&quot;</td>
+<td>给定向量空间 <span class="math">\(X\)</span> 的子集 <span class="math">\(S\)</span>，定义 <span class="math">\(S\)</span> 的<strong>凸包</strong>为<strong>包含 <span class="math">\(S\)</span> 的所有凸集的交</strong>：<span class="math">\(\operatorname{co}(S) := \bigcap \{ C \subset X : S \subset C, \text{ and } C \text{ is convex} \}\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_vectorspaces.html#sec_vectorspaces-6-12">Lebl, 2026, section 8.1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Lebl, J. (2026). <em>Basic analysis I &amp; II: Introduction to real analysis</em> (May 22, 2026 edition). Retrieved October 29, 2026, from <a href="https://www.jirka.org/ra/html/">https://www.jirka.org/ra/html/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 11:58:07-04:00">10/31/2026 11:58:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

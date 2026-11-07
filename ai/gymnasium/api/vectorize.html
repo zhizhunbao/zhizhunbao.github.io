@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.5 Vectorize | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Gymnasium, 2.5 Vectorize: Methods, Wrappers, AsyncVectorEnv, SyncVectorEnv, Utility functions.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="25-vectorize">2.5 Vectorize</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/vectorize.png" alt="2.5 Vectorize: its parts from the official menu, each with the entries the menu lists under it, in Gymnasium."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.5 Vectorize</strong><br>向量化</td>
+<td>(context) &quot;<strong>Base class for vectorized environments to run multiple independent copies of the same environment in parallel.</strong>&quot;</td>
+<td>（语境）<strong>向量化环境的基类，用于并行运行同一环境的多个独立副本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/#gymnasium.vector.VectorEnv">Farama Foundation, n.d.-d, &quot;gymnasium.vector.VectorEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Methods</strong><br>方法</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gymnasium.farama.org/api/vector/#methods">Farama Foundation, n.d.-d, &quot;Methods&quot;</a></td>
+</tr>
+<tr>
+<td><strong>VectorEnv.step</strong><br>step 方法</td>
+<td>&quot;<strong>Take an action for each parallel environment.</strong>&quot;</td>
+<td><strong>为每个并行环境执行一个动作。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/#gymnasium.vector.VectorEnv.step">Farama Foundation, n.d.-d, &quot;gymnasium.vector.VectorEnv.step&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorEnv.reset</strong><br>reset 方法</td>
+<td>&quot;<strong>Reset all parallel environments and return a batch of initial observations and info.</strong>&quot;</td>
+<td><strong>重置所有并行环境，并返回一批初始观测和信息。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/#gymnasium.vector.VectorEnv.reset">Farama Foundation, n.d.-d, &quot;gymnasium.vector.VectorEnv.reset&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorEnv.render</strong><br>render 方法</td>
+<td>&quot;<strong>Returns the rendered frames from the parallel environments.</strong>&quot;</td>
+<td><strong>返回各并行环境渲染出的帧。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/#gymnasium.vector.VectorEnv.render">Farama Foundation, n.d.-d, &quot;gymnasium.vector.VectorEnv.render&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorEnv.close</strong><br>close 方法</td>
+<td>&quot;<strong>Close all parallel environments and release resources.</strong>&quot;</td>
+<td><strong>关闭所有并行环境并释放资源。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/#gymnasium.vector.VectorEnv.close">Farama Foundation, n.d.-d, &quot;gymnasium.vector.VectorEnv.close&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Wrappers</strong><br>包装器</td>
+<td>&quot;<strong>Wraps the vectorized environment to allow a modular transformation.</strong>&quot;</td>
+<td><strong>包装向量化环境，以便进行模块化的变换。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorWrapper">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorWrapper&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorWrapper.step</strong><br>step 方法</td>
+<td>&quot;<strong>Step through all environments using the actions returning the batched data.</strong>&quot;</td>
+<td><strong>用这些动作让所有环境走一步，返回批量数据。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorWrapper.step">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorWrapper.step&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorWrapper.reset</strong><br>reset 方法</td>
+<td>&quot;<strong>Reset all environment using seed and options.</strong>&quot;</td>
+<td><strong>用 seed 和 options 重置所有环境。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorWrapper.reset">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorWrapper.reset&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorWrapper.render</strong><br>render 方法</td>
+<td>&quot;<strong>Returns the render mode from the base vector environment.</strong>&quot;</td>
+<td><strong>返回底层向量环境的渲染模式。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorWrapper.render">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorWrapper.render&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorWrapper.close</strong><br>close 方法</td>
+<td>&quot;<strong>Close all environments.</strong>&quot;</td>
+<td><strong>关闭所有环境。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorWrapper.close">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorWrapper.close&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorObservationWrapper</strong><br>VectorObservationWrapper（向量观测包装器）</td>
+<td>&quot;<strong>Wraps the vectorized environment to allow a modular transformation of the observation.</strong>&quot;</td>
+<td><strong>包装向量化环境，以便对观测进行模块化的变换。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorObservationWrapper">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorObservationWrapper&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorObservationWrapper.observations</strong><br>observations 方法</td>
+<td>&quot;<strong>Defines the vector observation transformation.</strong>&quot;</td>
+<td><strong>定义向量观测的变换。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorObservationWrapper.observations">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorObservationWrapper.observations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorActionWrapper</strong><br>VectorActionWrapper（向量动作包装器）</td>
+<td>&quot;<strong>Wraps the vectorized environment to allow a modular transformation of the actions.</strong>&quot;</td>
+<td><strong>包装向量化环境，以便对动作进行模块化的变换。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorActionWrapper">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorActionWrapper&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorActionWrapper.actions</strong><br>actions 方法</td>
+<td>&quot;<strong>Transform the actions before sending them to the environment.</strong>&quot;</td>
+<td><strong>在把动作发给环境之前对其进行变换。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorActionWrapper.actions">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorActionWrapper.actions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorRewardWrapper</strong><br>VectorRewardWrapper（向量奖励包装器）</td>
+<td>&quot;<strong>Wraps the vectorized environment to allow a modular transformation of the reward.</strong>&quot;</td>
+<td><strong>包装向量化环境，以便对奖励进行模块化的变换。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorRewardWrapper">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorRewardWrapper&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorRewardWrapper.rewards</strong><br>rewards 方法</td>
+<td>&quot;<strong>Transform the reward before returning it.</strong>&quot;</td>
+<td><strong>在返回奖励之前对其进行变换。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.vector.VectorRewardWrapper.rewards">Farama Foundation, n.d.-e, &quot;gymnasium.vector.VectorRewardWrapper.rewards&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>DictInfoToList</strong><br>DictInfoToList（信息字典转列表包装器）</td>
+<td>&quot;<strong>Converts infos of vectorized environments from dict to List[dict].</strong>&quot;</td>
+<td><strong>把向量化环境的 infos 从 dict 转换为 List[dict]。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.DictInfoToList">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.DictInfoToList&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorizeTransformObservation</strong><br>VectorizeTransformObservation（向量化观测变换包装器）</td>
+<td>&quot;<strong>Vectorizes a single-agent transform observation wrapper for vector environments.</strong>&quot;</td>
+<td><strong>为向量环境向量化一个单智能体的观测变换包装器。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.VectorizeTransformObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.VectorizeTransformObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorizeTransformAction</strong><br>VectorizeTransformAction（向量化动作变换包装器）</td>
+<td>&quot;<strong>Vectorizes a single-agent transform action wrapper for vector environments.</strong>&quot;</td>
+<td><strong>为向量环境向量化一个单智能体的动作变换包装器。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.VectorizeTransformAction">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.VectorizeTransformAction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VectorizeTransformReward</strong><br>VectorizeTransformReward（向量化奖励变换包装器）</td>
+<td>&quot;<strong>Vectorizes a single-agent transform reward wrapper for vector environments.</strong>&quot;</td>
+<td><strong>为向量环境向量化一个单智能体的奖励变换包装器。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.VectorizeTransformReward">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.VectorizeTransformReward&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RecordEpisodeStatistics</strong><br>RecordEpisodeStatistics（记录回合统计包装器）</td>
+<td>&quot;This wrapper will <strong>keep track of cumulative rewards and episode lengths</strong>.&quot;</td>
+<td>这个包装器会<strong>跟踪累计奖励和回合长度</strong>。</td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.RecordEpisodeStatistics">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.RecordEpisodeStatistics&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>TransformObservation</strong><br>TransformObservation（观测变换包装器）</td>
+<td>&quot;<strong>Transforms an observation via a function provided to the wrapper.</strong>&quot;</td>
+<td><strong>通过提供给包装器的函数变换观测。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.TransformObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.TransformObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>FilterObservation</strong><br>FilterObservation（观测过滤包装器）</td>
+<td>&quot;<strong>Vector wrapper for filtering dict or tuple observation spaces.</strong>&quot;</td>
+<td><strong>用于过滤 dict 或 tuple 观测空间的向量包装器。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.FilterObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.FilterObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>FlattenObservation</strong><br>FlattenObservation（观测展平包装器）</td>
+<td>&quot;<strong>Observation wrapper that flattens the observation.</strong>&quot;</td>
+<td><strong>展平观测的观测包装器。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.FlattenObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.FlattenObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>GrayscaleObservation</strong><br>GrayscaleObservation（灰度观测包装器）</td>
+<td>&quot;<strong>Observation wrapper that converts an RGB image to grayscale.</strong>&quot;</td>
+<td><strong>把 RGB 图像转换为灰度图的观测包装器。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.GrayscaleObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.GrayscaleObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ResizeObservation</strong><br>ResizeObservation（观测尺寸调整包装器）</td>
+<td>&quot;<strong>Resizes image observations using OpenCV to shape.</strong>&quot;</td>
+<td><strong>用 OpenCV 把图像观测调整为 shape。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.ResizeObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.ResizeObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ReshapeObservation</strong><br>ReshapeObservation（观测变形包装器）</td>
+<td>&quot;<strong>Reshapes array based observations to shapes.</strong>&quot;</td>
+<td><strong>把基于数组的观测变形为指定形状。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.ReshapeObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.ReshapeObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RescaleObservation</strong><br>RescaleObservation（观测缩放包装器）</td>
+<td>&quot;<strong>Linearly rescales observation to between a minimum and maximum value.</strong>&quot;</td>
+<td><strong>把观测线性缩放到最小值与最大值之间。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.RescaleObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.RescaleObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>DtypeObservation</strong><br>DtypeObservation（观测类型转换包装器）</td>
+<td>&quot;<strong>Observation wrapper for transforming the dtype of an observation.</strong>&quot;</td>
+<td><strong>用于转换观测 dtype 的观测包装器。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.DtypeObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.DtypeObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>NormalizeObservation</strong><br>NormalizeObservation（观测归一化包装器）</td>
+<td>&quot;This wrapper will <strong>normalize observations s.t. each coordinate is centered with unit variance</strong>.&quot;</td>
+<td>这个包装器会<strong>归一化观测，使每个坐标居中且方差为 1</strong>。</td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.NormalizeObservation">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.NormalizeObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>TransformAction</strong><br>TransformAction（动作变换包装器）</td>
+<td>&quot;<strong>Transforms an action via a function provided to the wrapper.</strong>&quot;</td>
+<td><strong>通过提供给包装器的函数变换动作。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.TransformAction">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.TransformAction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ClipAction</strong><br>ClipAction（动作裁剪包装器）</td>
+<td>&quot;<strong>Clip the continuous action within the valid Box observation space bound.</strong>&quot;</td>
+<td><strong>把连续动作裁剪到合法的 Box 观测空间边界之内。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.ClipAction">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.ClipAction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RescaleAction</strong><br>RescaleAction（动作缩放包装器）</td>
+<td>&quot;<strong>Affinely rescales the continuous action space of the environment to the range [min_action, max_action].</strong>&quot;</td>
+<td><strong>把环境的连续动作空间仿射缩放到 [min_action, max_action] 范围。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.RescaleAction">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.RescaleAction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>TransformReward</strong><br>TransformReward（奖励变换包装器）</td>
+<td>&quot;<strong>A reward wrapper that allows a custom function to modify the step reward.</strong>&quot;</td>
+<td><strong>一种奖励包装器，允许用自定义函数修改 step 的奖励。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.TransformReward">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.TransformReward&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ClipReward</strong><br>ClipReward（奖励裁剪包装器）</td>
+<td>&quot;<strong>A wrapper that clips the rewards for an environment between an upper and lower bound.</strong>&quot;</td>
+<td><strong>一种包装器，把环境的奖励裁剪到上下界之间。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.ClipReward">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.ClipReward&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>NormalizeReward</strong><br>NormalizeReward（奖励归一化包装器）</td>
+<td>&quot;This wrapper will <strong>scale rewards s.t. their exponential moving average has an approximately fixed variance</strong>.&quot;</td>
+<td>这个包装器会<strong>缩放奖励，使其指数移动平均的方差近似固定</strong>。</td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.NormalizeReward">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.NormalizeReward&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ArrayConversion</strong><br>ArrayConversion（数组转换包装器）</td>
+<td>&quot;<strong>Wraps a vector environment returning Array API compatible arrays so that it can be interacted with through a specific framework.</strong>&quot;</td>
+<td><strong>包装一个返回兼容 Array API 数组的向量环境，使其能通过特定框架交互。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.ArrayConversion">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.ArrayConversion&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>JaxToNumpy</strong><br>JaxToNumpy（Jax 转 NumPy 包装器）</td>
+<td>&quot;<strong>Wraps a jax vector environment so that it can be interacted with through numpy arrays.</strong>&quot;</td>
+<td><strong>包装一个 jax 向量环境，使其能通过 numpy 数组交互。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.JaxToNumpy">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.JaxToNumpy&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>JaxToTorch</strong><br>JaxToTorch（Jax 转 PyTorch 包装器）</td>
+<td>&quot;<strong>Wraps a Jax-based vector environment so that it can be interacted with through PyTorch Tensors.</strong>&quot;</td>
+<td><strong>包装一个基于 Jax 的向量环境，使其能通过 PyTorch 张量交互。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.JaxToTorch">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.JaxToTorch&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>NumpyToTorch</strong><br>NumpyToTorch（NumPy 转 PyTorch 包装器）</td>
+<td>&quot;<strong>Wraps a numpy-based environment so that it can be interacted with through PyTorch Tensors.</strong>&quot;</td>
+<td><strong>包装一个基于 numpy 的环境，使其能通过 PyTorch 张量交互。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/wrappers/#gymnasium.wrappers.vector.NumpyToTorch">Farama Foundation, n.d.-e, &quot;gymnasium.wrappers.vector.NumpyToTorch&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AsyncVectorEnv</strong><br>异步向量环境</td>
+<td>&quot;<strong>Vectorized environment that runs multiple environments in parallel.</strong>&quot;</td>
+<td><strong>并行运行多个环境的向量化环境。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/async_vector_env/#gymnasium.vector.AsyncVectorEnv">Farama Foundation, n.d.-a, &quot;gymnasium.vector.AsyncVectorEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AsyncVectorEnv.reset</strong><br>reset 方法</td>
+<td>&quot;<strong>Resets all sub-environments in parallel and return a batch of concatenated observations and info.</strong>&quot;</td>
+<td><strong>并行重置所有子环境，并返回一批拼接后的观测和信息。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/async_vector_env/#gymnasium.vector.AsyncVectorEnv.reset">Farama Foundation, n.d.-a, &quot;gymnasium.vector.AsyncVectorEnv.reset&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AsyncVectorEnv.call</strong><br>call 方法</td>
+<td>&quot;<strong>Call a method from each parallel environment with args and kwargs.</strong>&quot;</td>
+<td><strong>用 args 和 kwargs 调用每个并行环境的一个方法。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/async_vector_env/#gymnasium.vector.AsyncVectorEnv.call">Farama Foundation, n.d.-a, &quot;gymnasium.vector.AsyncVectorEnv.call&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AsyncVectorEnv.get_attr</strong><br>get_attr 方法</td>
+<td>&quot;<strong>Get a property from each parallel environment.</strong>&quot;</td>
+<td><strong>从每个并行环境获取一个属性。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/async_vector_env/#gymnasium.vector.AsyncVectorEnv.get_attr">Farama Foundation, n.d.-a, &quot;gymnasium.vector.AsyncVectorEnv.get_attr&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AsyncVectorEnv.set_attr</strong><br>set_attr 方法</td>
+<td>&quot;<strong>Sets an attribute of the sub-environments.</strong>&quot;</td>
+<td><strong>设置各子环境的一个属性。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/async_vector_env/#gymnasium.vector.AsyncVectorEnv.set_attr">Farama Foundation, n.d.-a, &quot;gymnasium.vector.AsyncVectorEnv.set_attr&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SyncVectorEnv</strong><br>同步向量环境</td>
+<td>&quot;<strong>Vectorized environment that serially runs multiple environments.</strong>&quot;</td>
+<td><strong>依次串行运行多个环境的向量化环境。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/sync_vector_env/#gymnasium.vector.SyncVectorEnv">Farama Foundation, n.d.-b, &quot;gymnasium.vector.SyncVectorEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SyncVectorEnv.reset</strong><br>reset 方法</td>
+<td>&quot;<strong>Resets each of the sub-environments and concatenate the results together.</strong>&quot;</td>
+<td><strong>逐个重置子环境，并把结果拼接在一起。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/sync_vector_env/#gymnasium.vector.SyncVectorEnv.reset">Farama Foundation, n.d.-b, &quot;gymnasium.vector.SyncVectorEnv.reset&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SyncVectorEnv.step</strong><br>step 方法</td>
+<td>&quot;<strong>Steps through each of the environments returning the batched results.</strong>&quot;</td>
+<td><strong>让每个环境逐个走一步，返回批量结果。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/sync_vector_env/#gymnasium.vector.SyncVectorEnv.step">Farama Foundation, n.d.-b, &quot;gymnasium.vector.SyncVectorEnv.step&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SyncVectorEnv.call</strong><br>call 方法</td>
+<td>&quot;<strong>Calls a sub-environment method with name and applies args and kwargs.</strong>&quot;</td>
+<td><strong>按名称调用子环境的方法，并传入 args 和 kwargs。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/sync_vector_env/#gymnasium.vector.SyncVectorEnv.call">Farama Foundation, n.d.-b, &quot;gymnasium.vector.SyncVectorEnv.call&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SyncVectorEnv.get_attr</strong><br>get_attr 方法</td>
+<td>&quot;<strong>Get a property from each parallel environment.</strong>&quot;</td>
+<td><strong>从每个并行环境获取一个属性。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/sync_vector_env/#gymnasium.vector.SyncVectorEnv.get_attr">Farama Foundation, n.d.-b, &quot;gymnasium.vector.SyncVectorEnv.get_attr&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SyncVectorEnv.set_attr</strong><br>set_attr 方法</td>
+<td>&quot;<strong>Sets an attribute of the sub-environments.</strong>&quot;</td>
+<td><strong>设置各子环境的一个属性。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/vector/sync_vector_env/#gymnasium.vector.SyncVectorEnv.set_attr">Farama Foundation, n.d.-b, &quot;gymnasium.vector.SyncVectorEnv.set_attr&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Utility functions</strong><br>工具函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gymnasium.farama.org/api/vector/utils/">Farama Foundation, n.d.-c, &quot;Utility functions&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Farama Foundation. (n.d.-a). <em>AsyncVectorEnv</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/vector/async_vector_env/">https://gymnasium.farama.org/api/vector/async_vector_env/</a></p>
+<p>Farama Foundation. (n.d.-b). <em>SyncVectorEnv</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/vector/sync_vector_env/">https://gymnasium.farama.org/api/vector/sync_vector_env/</a></p>
+<p>Farama Foundation. (n.d.-c). <em>Utility functions (Vectorize)</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/vector/utils/">https://gymnasium.farama.org/api/vector/utils/</a></p>
+<p>Farama Foundation. (n.d.-d). <em>Vectorize</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/vector/">https://gymnasium.farama.org/api/vector/</a></p>
+<p>Farama Foundation. (n.d.-e). <em>Wrappers (Vectorize)</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/vector/wrappers/">https://gymnasium.farama.org/api/vector/wrappers/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

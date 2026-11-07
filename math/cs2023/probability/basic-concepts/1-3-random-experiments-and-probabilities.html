@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.3 Random Experiments and Probabilities | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="1.3 Random Experiments and Probabilities, part of 1 Basic Concepts: 12 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="13-random-experiments-and-probabilities">1.3 Random Experiments and Probabilities</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/1-3-random-experiments-and-probabilities.png" alt="1.3 Random Experiments and Probabilities: its 6 subsections, one group each listing the terms it defines (12 in all)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.3 Random Experiments and Probabilities</strong><br>随机试验与概率</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_1_random_experiments.php">Pishro-Nik, 2014, section 1.3</a></td>
+</tr>
+<tr>
+<td><strong>1.3.1 Random Experiments</strong><br>随机试验</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_1_random_experiments.php">Pishro-Nik, 2014, section 1.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Random Experiment</strong><br>随机试验</td>
+<td>&quot;In particular, a <strong>random experiment</strong> is a process by which we observe something uncertain.&quot;</td>
+<td>具体地说，<strong>随机试验</strong>是我们观察某种不确定事物的一个过程。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_1_random_experiments.php#:%7E:text=In%20particular%2C%20a%20random%20experiment%20is">Pishro-Nik, 2014, section 1.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Outcome</strong><br>结果（样本点）</td>
+<td>&quot;An <strong>outcome</strong> is a result of a random experiment.&quot;</td>
+<td><strong>结果</strong>（样本点）是随机试验的一个结果。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_1_random_experiments.php#:%7E:text=An%20outcome%20is%20a%20result%20of">Pishro-Nik, 2014, section 1.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Sample Space</strong><br>样本空间</td>
+<td>&quot;The set of all possible outcomes is called the <strong>sample space</strong>.&quot;</td>
+<td>所有可能结果构成的集合称为<strong>样本空间</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_1_random_experiments.php#:%7E:text=The%20set%20of%20all%20possible%20outcomes">Pishro-Nik, 2014, section 1.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Trial</strong><br>试验（一次）</td>
+<td>&quot;When we repeat a random experiment several times, we call each one of them a <strong>trial</strong>.&quot;</td>
+<td>当我们把一个随机试验重复若干次时，把其中每一次称为一次<strong>试验</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_1_random_experiments.php#:%7E:text=When%20we%20repeat%20a%20random%20experiment">Pishro-Nik, 2014, section 1.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Event</strong><br>事件</td>
+<td>&quot;Thus an <strong>event</strong> is a collection of possible outcomes. In other words, an event is a subset of the sample space to which we assign a probability.&quot;</td>
+<td>因此，<strong>事件</strong>是可能结果的一个集合。换言之，事件是样本空间的一个子集，我们为它指派一个概率。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_1_random_experiments.php#:%7E:text=Thus%20an%20event%20is%20a%20collection">Pishro-Nik, 2014, section 1.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Sample space</strong><br>样本空间</td>
+<td>&quot;Informally, the sample space for a given set of events is the <strong>set of all possible values</strong> the events may assume.&quot;</td>
+<td>非正式地说，一组给定事件的样本空间是这些事件可能取的<strong>所有可能值的集合</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/SampleSpace.html#:%7E:text=the%20sample%20space%20for%20a%20given%20set%20of%20events">Weisstein, n.d.-e, &quot;Sample space&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Event</strong><br>事件</td>
+<td>&quot;An event is <strong>a certain subset of a probability space</strong>. Events are therefore <strong>collections of outcomes</strong> on which probabilities have been assigned.&quot;</td>
+<td>事件是<strong>概率空间的某个子集</strong>。因此，事件是一些已被赋予概率的<strong>结果的汇集</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/Event.html#:%7E:text=An%20event%20is%20a%20certain%20subset%20of%20a%20probability%20space">Weisstein, n.d.-c, &quot;Event&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>1.3.2 Probability</strong><br>概率</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_2_probability.php">Pishro-Nik, 2014, section 1.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Axioms of Probability</strong><br>概率公理</td>
+<td>&quot;<strong>Axiom 1</strong>: For any event <span class="math">\(A\)</span>, <span class="math">\(P(A) \geq 0\)</span>. <strong>Axiom 2</strong>: Probability of the sample space <span class="math">\(S\)</span> is <span class="math">\(P(S)=1\)</span>. <strong>Axiom 3</strong>: If <span class="math">\(A_1, A_2, A_3, \cdots\)</span> are disjoint events, then <span class="math">\(P(A_1 \cup A_2 \cup A_3 \cdots)=P(A_1)+P(A_2)+P(A_3)+\cdots\)</span>&quot;</td>
+<td><strong>公理 1</strong>：对任意事件 <span class="math">\(A\)</span>，<span class="math">\(P(A) \geq 0\)</span>。<strong>公理 2</strong>：样本空间 <span class="math">\(S\)</span> 的概率为 <span class="math">\(P(S)=1\)</span>。<strong>公理 3</strong>：若 <span class="math">\(A_1, A_2, A_3, \cdots\)</span> 为互不相交的事件，则 <span class="math">\(P(A_1 \cup A_2 \cup A_3 \cdots)=P(A_1)+P(A_2)+P(A_3)+\cdots\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_2_probability.php#:%7E:text=Axiom%201%3A%20For%20any%20event%20%2C">Pishro-Nik, 2014, section 1.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Probability Measure</strong><br>概率测度</td>
+<td>&quot;We assign a <strong>probability measure</strong> <span class="math">\(P(A)\)</span> to an event <span class="math">\(A\)</span>. This is a value between <span class="math">\(0\)</span> and <span class="math">\(1\)</span> that shows how likely the event is.&quot;</td>
+<td>我们为事件 <span class="math">\(A\)</span> 指派一个<strong>概率测度</strong> <span class="math">\(P(A)\)</span>。它是介于 <span class="math">\(0\)</span> 和 <span class="math">\(1\)</span> 之间的值，表示该事件有多大可能发生。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_2_probability.php#:%7E:text=We%20assign%20a%20probability%20measure%20to">Pishro-Nik, 2014, section 1.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Probability</strong><br>概率</td>
+<td>&quot;In common usage, the word 'probability' is used to mean <strong>the chance that a particular event (or set of events) will occur</strong> expressed on a <strong>linear scale</strong> from 0 (impossibility) to 1 (certainty), also expressed as a percentage between 0 and 100%.&quot;</td>
+<td>在日常用法中，“概率”一词指<strong>某个特定事件（或一组事件）发生的可能性</strong>，用从 0（不可能）到 1（必然）的<strong>线性刻度</strong>表示，也可表示为 0 到 100% 之间的百分比。</td>
+<td><a href="https://mathworld.wolfram.com/Probability.html#:%7E:text=is%20used%20to%20mean%20the%20chance%20that%20a%20particular%20event">Weisstein, n.d.-d, &quot;Probability&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>1.3.3 Finding Probabilities</strong><br>求概率</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_3_finding_probabilities.php">Pishro-Nik, 2014, section 1.3.3</a></td>
+</tr>
+<tr>
+<td><strong>1.3.4 Discrete Models</strong><br>离散模型</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_4_discrete_models.php">Pishro-Nik, 2014, section 1.3.4</a></td>
+</tr>
+<tr>
+<td><strong>Discrete Probability Model</strong><br>离散概率模型</td>
+<td>&quot;If <span class="math">\(S\)</span> is a countable set, this refers to a <strong>discrete probability model</strong>.&quot;</td>
+<td>若 <span class="math">\(S\)</span> 是可数集，则称为<strong>离散概率模型</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_4_discrete_models.php#:%7E:text=If%20is%20a%20countable%20set%2C%20this">Pishro-Nik, 2014, section 1.3.4</a></td>
+</tr>
+<tr>
+<td><strong>Finite Sample Spaces with Equally Likely Outcomes</strong><br>等可能的有限样本空间（古典概型）</td>
+<td>&quot;An important special case of discrete probability models is when we have a <strong>finite sample space</strong> <span class="math">\(S\)</span>, where each outcome is <strong>equally likely</strong>, i.e., <span class="math">\(S=\{s_1,s_2,\cdots,s_N\}, \textrm{ where } P(s_i)=P(s_j) \textrm{ for all }i,j \in \{1,2,\cdots,N\}.\)</span>&quot;</td>
+<td>离散概率模型的一个重要特例是：有一个<strong>有限样本空间</strong> <span class="math">\(S\)</span>，其中每个结果都<strong>等可能</strong>，即 <span class="math">\(S=\{s_1,s_2,\cdots,s_N\}, \textrm{ where } P(s_i)=P(s_j) \textrm{ for all }i,j \in \{1,2,\cdots,N\}.\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_4_discrete_models.php#:%7E:text=An%20important%20special%20case%20of%20discrete">Pishro-Nik, 2014, section 1.3.4</a></td>
+</tr>
+<tr>
+<td><strong>1.3.5 Continuous Models</strong><br>连续模型</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_5_continuous_models.php">Pishro-Nik, 2014, section 1.3.5</a></td>
+</tr>
+<tr>
+<td><strong>1.3.6 Solved Problems</strong><br>例题详解</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter1/1_3_6_solved2.php">Pishro-Nik, 2014, section 1.3.6</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Pishro-Nik, H. (2014). <em>Introduction to probability, statistics, and random processes</em>. Kappa Research. Retrieved October 28, 2026, from <a href="https://www.probabilitycourse.com/">https://www.probabilitycourse.com/</a></p>
+<p>Weisstein, E. W. (n.d.-d). <em>Probability</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Probability.html">https://mathworld.wolfram.com/Probability.html</a></p>
+<p>Weisstein, E. W. (n.d.-c). <em>Event</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Event.html">https://mathworld.wolfram.com/Event.html</a></p>
+<p>Weisstein, E. W. (n.d.-e). <em>Sample space</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/SampleSpace.html">https://mathworld.wolfram.com/SampleSpace.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-28">10/28/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

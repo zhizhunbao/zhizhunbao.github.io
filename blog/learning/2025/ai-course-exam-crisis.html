@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>The AI Course Exam Crisis | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="After a failed machine learning midterm, I built a quiz system on my own and almost everyone in the class passed, Fall 2025.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="the-ai-course-exam-crisis">The AI Course Exam Crisis</h1>
+
+<ul>
+<li><strong>Time:</strong> Fall 2025 term</li>
+<li><strong>Topic:</strong> Learning</li>
+<li><strong>My role:</strong> built the quiz system on my own</li>
+</ul>
+<p>After a failed machine learning midterm, I built a quiz system on my own that covered all of the course materials, and in the end almost everyone in the class passed.</p>
+<p>机器学习课期中考砸之后，我自己做了一个覆盖全部课程资料的答题系统，最后基本上全班都通过了。</p>
+<h2 id="what-happened">What Happened</h2>
+<h3 id="the-course">The Course</h3>
+<p>Some AI courses taught knowledge that was 10 to 20 years old. The teacher skipped around the textbook, cutting a part here and a part there, so the content was pieced together. I had to look things up and fill the gaps systematically on my own. The machine learning course also used software that companies no longer use; in industry, machine learning is basically all done in Python. We still had to learn it, and that toughened my will.</p>
+<p>有些 AI 课程讲的是十年甚至二十年前的知识。老师按教科书跳着讲，这里删一块、那里删一块，内容是拼凑起来的。我只能自己查资料，系统地把缺的部分补上。机器学习课用的软件，现在的公司和市场也已经不用了；行业里机器学习基本都用 Python 做。但我们还得硬着头皮学，这磨砺了我的意志。</p>
+<h3 id="following-the-lectures">Following the Lectures</h3>
+<p>My English is not very good, and with some teachers' accents the words sounded completely different, so I could not connect them. I recorded every lecture with translation software, which sometimes could not understand either, so that I would not miss anything. Afterwards I used AI to sort out the key points.</p>
+<p>我的英语不是太好，有些老师有口音，单词发音完全不一样，我没法把它们连起来。为了不漏掉信息，我用翻译软件从头到尾录下每节课，有时翻译软件也听不懂。课后我再用 AI 整理出需要关注的重点。</p>
+<h3 id="the-exams">The Exams</h3>
+<p>The exams were on paper, with math calculations. The teacher did not point out what was important, so I had to organize everything myself. The materials were very broad: slides, lab content, and many links to very long outside articles. Some content was never taught in class but was still tested, including handwritten calculations and handwritten definitions. The pressure was very high.</p>
+<p>考试是纸笔考试，有数学计算。老师不划重点，我只能自己整理。资料特别多：PPT、Lab 的内容，还有大量课外链接，都是很长的文章。有些内容课上不讲，但照样会考，包括手写计算题和手写单词定义。压力非常大。</p>
+<h3 id="the-midterm">The Midterm</h3>
+<p>At first we reviewed only the slides and the labs, because there were no key points. After the midterm the results were very poor: the class average was about 50 to 60 percent, and many students scored under half.</p>
+<p>一开始因为没有重点，我们只复习了 PPT 和 Lab。期中考试成绩非常差：全班平均分大约 50 到 60 分，很多人没有超过一半。</p>
+<p>The stakes were high. If the midterm and final together are under half, the course must be retaken. It is a prerequisite for the next semester, so failing it blocks the next semester too. Few students take the AI program, so the course runs only once a year, in September. Failing it wastes a full year of time and tuition and forces a plan B, which is especially serious for international students.</p>
+<p>后果很严重。期中加期末如果不过一半，这门课就要重修。它是下学期课程的前置课，挂了下学期也没法上。AI 专业学的人少，这门课每年只在九月开一次，不会在一月或五月开。挂一次就白白浪费一年的时间和学费，还得考虑方案 B，对国际生来说后果尤其严重。</p>
+<h3 id="what-i-did">What I Did</h3>
+<p>After the midterm everyone was under great pressure. After talking with the teacher, the final was changed to multiple choice, but the scope was still large. To handle it, I used AI to build a quiz system covering all of the teacher's materials, and we drilled the concepts and math formulas again and again; for the machine learning course, more than five times.</p>
+<p>期中之后所有人压力都非常大。跟老师商量后，期末题改成了选择题，但范围还是比较大。为了解决这个问题，我用 AI 做了一个覆盖老师所有资料的答题系统，把概念和数学公式一遍一遍地练，机器学习这门课练了五遍以上。</p>
+<p>I built the quiz system by myself. Since September to October 2025 I have been programming with AI (then called vibe coding), mainly with Claude 4; I also used Claude 3.5, which was cheaper but performed worse. The agents were not as smart as now and had many problems, so I tested everything from start to finish. I started with the simplest HTML, CSS and JavaScript, and later moved to frameworks. My product research showed that the courses may not match what future jobs need, so while studying I also taught myself practical skills such as full-stack frameworks and AI.</p>
+<p>答题系统是我自己做的。我从 2025 年 9 到 10 月开始用 AI 编程，当时叫 vibe coding，主要用 Claude 4；Claude 3.5 也在用，它便宜，但性能不好。那时的 AI agent 不像现在这么聪明，会有很多问题，所以我从前到后自己测试。一开始用最简单的 HTML、CSS 和 JS，后来换成框架。通过产品研究我发现，老师讲的内容不太符合以后工作的需要，所以我一边上课，一边自己补实际工作会用到的知识，比如全栈开发框架和 AI 相关的知识。</p>
+<h3 id="the-result">The Result</h3>
+<p>In the end almost everyone passed; only a few did not.</p>
+<p>最后基本上大家都过了，只有少部分人没过。</p>
+<h2 id="reflections">Reflections</h2>
+<ul>
+<li><p>Learning software the industry no longer uses still toughened my will.</p>
+<p>学业界已经不用的软件，也磨砺了我的意志。</p>
+</li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-06 19:32:11-05:00">11/06/2026 19:32:11</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

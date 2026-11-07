@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>7.1 Networking Foundation | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 7.1 Networking foundation: Virtual Network, Azure Private Link, Azure DNS, Azure Bastion, Azure Route Server, NAT Gateway, Traffic Manager.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="71-networking-foundation">7.1 Networking Foundation</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/networking-foundation.png" alt="Networking foundation, 7 terms from the &quot;Networking foundation&quot; part of the Azure networking services overview, in source order."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Virtual Network</strong><br>虚拟网络</td>
+<td>&quot;Azure Virtual Network (VNet) is the <strong>fundamental building block</strong> for your <strong>private network in Azure</strong>.&quot;</td>
+<td>Azure 虚拟网络（VNet）是<strong>基本构建基块</strong>，用于你<strong>在 Azure 中的专用网络</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview#:%7E:text=is%20the%20fundamental%20building%20block%20for%20your%20private%20network">Microsoft, 2026, &quot;Virtual network&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Private Link</strong><br>Azure 专用链接</td>
+<td>&quot;Azure Private Link lets you <strong>access Azure PaaS services</strong> (for example, Azure Storage and SQL Database) and Azure hosted customer-owned or partner services <strong>over a private endpoint in your virtual network</strong>.&quot;</td>
+<td>Azure 专用链接让你可以<strong>访问 Azure PaaS 服务</strong>（例如 Azure 存储和 SQL 数据库）以及 Azure 托管的客户自有服务或合作伙伴服务，<strong>通过的是虚拟网络中的专用终结点</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview#:%7E:text=lets%20you%20access%20Azure%20PaaS%20services">Microsoft, 2026, &quot;Azure Private Link&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure DNS</strong><br>Azure DNS</td>
+<td>&quot;Azure DNS provides <strong>DNS hosting and resolution</strong> by using the <strong>Microsoft Azure infrastructure</strong>.&quot;</td>
+<td>Azure DNS 提供 <strong>DNS 托管和解析</strong>，使用的是 <strong>Microsoft Azure 基础结构</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview#:%7E:text=provides%20DNS%20hosting%20and%20resolution">Microsoft, 2026, &quot;Azure DNS&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Bastion</strong><br>Azure Bastion</td>
+<td>&quot;Azure Bastion is a service that you can deploy in a virtual network to <strong>connect to a virtual machine</strong> by using <strong>your browser and the Azure portal</strong>.&quot;</td>
+<td>Azure Bastion 是一项可以部署在虚拟网络中的服务，让你<strong>连接到虚拟机</strong>，使用的是<strong>浏览器和 Azure 门户</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview#:%7E:text=is%20a%20service%20that%20you%20can%20deploy%20in%20a%20virtual%20network%20to%20connect">Microsoft, 2026, &quot;Azure Bastion&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Route Server</strong><br>Azure 路由服务器</td>
+<td>&quot;Azure Route Server <strong>simplifies dynamic routing</strong> between your <strong>network virtual appliance (NVA)</strong> and <strong>your virtual network</strong>.&quot;</td>
+<td>Azure 路由服务器<strong>简化动态路由</strong>，这种路由发生在你的<strong>网络虚拟设备（NVA）<strong>与</strong>你的虚拟网络</strong>之间。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview#:%7E:text=simplifies%20dynamic%20routing%20between%20your%20network%20virtual%20appliance">Microsoft, 2026, &quot;Azure Route Server&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>NAT Gateway</strong><br>NAT 网关</td>
+<td>&quot;NAT Gateway <strong>simplifies outbound-only internet connectivity</strong> for <strong>virtual networks</strong>.&quot;</td>
+<td>NAT 网关<strong>简化仅出站的 Internet 连接</strong>，供<strong>虚拟网络</strong>使用。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview#:%7E:text=simplifies%20outbound-only%20internet%20connectivity">Microsoft, 2026, &quot;NAT Gateway&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Traffic Manager</strong><br>流量管理器</td>
+<td>&quot;Azure Traffic Manager is a <strong>DNS-based traffic load balancer</strong> that <strong>distributes traffic optimally to services across global Azure regions</strong>, while providing high availability and responsiveness.&quot;</td>
+<td>Azure 流量管理器是一种<strong>基于 DNS 的流量负载均衡器</strong>，它<strong>把流量以最佳方式分配给全球各个 Azure 区域中的服务</strong>，同时提供高可用性和响应能力。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview#:%7E:text=is%20a%20DNS-based%20traffic%20load%20balancer">Microsoft, 2026, &quot;Traffic Manager&quot; section, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2026, August 19). <em>Azure networking services overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview">https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:35-04:00">10/27/2026 21:51:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

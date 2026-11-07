@@ -1,0 +1,2551 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>Courses | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Courses (temporary, until graduation): CST8913 Cloud Migration, the week concepts with my lab scenarios as keyword tables for the oral exam.">
+      <link rel="icon" href="../favicon.svg">
+      <link rel="stylesheet" href="../public/atlas.min.css">
+      <link rel="stylesheet" href="../public/kb.css">
+      <meta name="kb:rel" content="../">
+      <meta name="kb:navrel" content="../toc.html">
+      <meta name="kb:tocrel" content="toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../index.html" aria-label="Home">
+          <img src="../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="courses">Courses</h1>
+
+<h2 id="cst8913-cloud-migration">CST8913 Cloud Migration</h2>
+<h3 id="course-map">Course map</h3>
+<p><img src="media/caf-coverage.png" alt="The Cloud Adoption Framework phases and sections; the parts taught in CST8913 are solid blue with their weeks, the rest grey dashed."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Strategy</strong></td>
+<td><strong>Why</strong> an organization adopts Azure.</td>
+<td>组织<strong>为什么</strong>采用 Azure。</td>
+</tr>
+<tr>
+<td><strong>1.1 Motivations, mission and objectives (W2, W3)</strong></td>
+<td>W2 introduces the <strong>cloud migration motivators</strong> (Lab 2); W3 covers the <strong>cloud adoption strategy</strong>: <strong>motivations</strong>, <strong>business outcomes</strong>, <strong>financial</strong> and <strong>technical considerations</strong>, and the <strong>adoption horizons</strong>.</td>
+<td>W2 讲<strong>云迁移动机</strong>（Lab 2）；W3 讲<strong>云采用战略</strong>：<strong>动机</strong>、<strong>业务成果</strong>、<strong>财务</strong>和<strong>技术考量</strong>，以及<strong>采用阶段（horizons）</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Plan</strong></td>
+<td>Turns the strategy into an <strong>actionable plan</strong>.</td>
+<td>把战略变成<strong>可执行的计划</strong>。</td>
+</tr>
+<tr>
+<td><strong>2.1 Plan migration (W4)</strong></td>
+<td>W4 covers <strong>discovery and assessment</strong> and the <strong>migration plan</strong>.</td>
+<td>W4 讲<strong>发现与评估</strong>，以及<strong>迁移计划</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Ready</strong></td>
+<td>Builds the <strong>Azure landing zone</strong>; not taught in W1 to W6.</td>
+<td>搭建 <strong>Azure 着陆区</strong>；W1 到 W6 没讲。</td>
+</tr>
+<tr>
+<td><strong>4 Adopt</strong></td>
+<td><strong>Migrates, modernizes and builds</strong> workloads.</td>
+<td><strong>迁移、现代化和新建</strong>工作负载。</td>
+</tr>
+<tr>
+<td><strong>4.1 Migration (W5)</strong></td>
+<td>W5 moves workloads by <strong>rehosting</strong>.</td>
+<td>W5 用<strong>重新托管</strong>迁移工作负载。</td>
+</tr>
+<tr>
+<td><strong>4.2 Modernization (W6)</strong></td>
+<td>W6 improves workloads by <strong>replatforming</strong> them onto <strong>PaaS</strong>; the W6 slides say <strong>refactoring</strong>.</td>
+<td>W6 通过<strong>换平台</strong>把工作负载改到 <strong>PaaS</strong> 上；W6 课件叫<strong>重构（refactoring）</strong>。</td>
+</tr>
+<tr>
+<td><strong>5 Govern</strong></td>
+<td>Sets <strong>guardrails</strong>; not taught in W1 to W6.</td>
+<td>设置<strong>护栏</strong>；W1 到 W6 没讲。</td>
+</tr>
+<tr>
+<td><strong>6 Secure</strong></td>
+<td>Protects the <strong>Azure cloud estate</strong>; not taught in W1 to W6.</td>
+<td>保护 <strong>Azure 云资产</strong>；W1 到 W6 没讲。</td>
+</tr>
+<tr>
+<td><strong>7 Manage</strong></td>
+<td>Operates Azure with <strong>RAMP</strong>; not taught in W1 to W6.</td>
+<td>用 <strong>RAMP</strong> 运营 Azure；W1 到 W6 没讲。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="lab-1-git-github-and-markdown-w1">Lab 1: Git, GitHub and Markdown (W1)</h3>
+<p><strong>Scenario:</strong> Set up a <strong>private GitHub repository</strong> for the course and submit Lab 1, written in <strong>Markdown</strong>, through a <strong>branch</strong> and a <strong>pull request</strong>. <strong>Git</strong> records every change as a <strong>commit</strong>; <strong>GitHub</strong> hosts the repository for <strong>sharing and review</strong>.</p>
+<p><img src="media/lab1-git-workflow.png" alt="Lab 1 workflow: private repository, clone, branch, commit, push, pull request, merge."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Private repository</strong></td>
+<td>A <strong>private repository</strong> is visible only to invited <strong>collaborators</strong>, such as the instructor.</td>
+<td><strong>私有仓库</strong>只有受邀的<strong>协作者</strong>（比如老师）能看到。</td>
+</tr>
+<tr>
+<td><strong>2 Clone</strong></td>
+<td><strong>Cloning</strong> copies the repository, with its <strong>full history</strong>, to a <strong>local copy</strong> on the computer.</td>
+<td><strong>克隆</strong>把仓库连同<strong>完整历史</strong>复制到电脑上，成为<strong>本地副本</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Branch</strong></td>
+<td>A <strong>branch</strong> such as <strong>lab-01</strong> keeps the work <strong>off main</strong> until it is reviewed.</td>
+<td>像 <strong>lab-01</strong> 这样的<strong>分支</strong>让作业在审阅之前<strong>不进 main</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Commit</strong></td>
+<td>A <strong>commit</strong> records one stage of the work; Lab 1 was built in <strong>five stages</strong>.</td>
+<td>一次<strong>提交</strong>记录作业的一个阶段；Lab 1 分<strong>五个阶段</strong>完成。</td>
+</tr>
+<tr>
+<td><strong>5 Push</strong></td>
+<td>A <strong>push</strong> sends the <strong>branch to GitHub</strong>.</td>
+<td><strong>推送</strong>把<strong>分支发到 GitHub</strong>。</td>
+</tr>
+<tr>
+<td><strong>6 Pull request</strong></td>
+<td>A <strong>pull request</strong> asks to merge the branch, after a <strong>review</strong> of the changed files.</td>
+<td><strong>拉取请求</strong>在<strong>审阅</strong>改动的文件之后，请求合并这个分支。</td>
+</tr>
+<tr>
+<td><strong>7 Merge</strong></td>
+<td><strong>Merging</strong> brings the reviewed branch into <strong>main</strong>.</td>
+<td><strong>合并</strong>把审阅过的分支并入 <strong>main</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><img src="media/lab1-markdown.png" alt="Markdown elements in Lab 1: heading, text formatting, list, link, image, blockquote, inline code, fenced code block, table, task list, horizontal rule, each with its syntax."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Heading</strong></td>
+<td>A line starting with <strong>#</strong> signs; more signs make a <strong>lower level</strong>.</td>
+<td>以 <strong>#</strong> 开头的一行；# 越多，<strong>级别越低</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Text formatting</strong></td>
+<td><strong>Two asterisks</strong> around text make it <strong>bold</strong>; <strong>one asterisk</strong> makes it <strong>italic</strong>.</td>
+<td>文字两边加<strong>两个星号</strong>变<strong>粗体</strong>；加<strong>一个星号</strong>变<strong>斜体</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 List</strong></td>
+<td>Lines starting with a <strong>dash</strong> make a <strong>bulleted list</strong>; <strong>numbers</strong> make a <strong>numbered list</strong>.</td>
+<td>以<strong>短横线</strong>开头的行组成<strong>无序列表</strong>；以<strong>数字</strong>开头组成<strong>有序列表</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Link</strong></td>
+<td>The <strong>link text</strong> in square brackets, then the <strong>URL</strong> in parentheses.</td>
+<td>方括号里写<strong>链接文字</strong>，后面圆括号里写 <strong>URL</strong>。</td>
+</tr>
+<tr>
+<td><strong>5 Image</strong></td>
+<td>Like a link with an <strong>exclamation mark</strong> in front; the brackets hold the <strong>alt text</strong>.</td>
+<td>和链接一样，前面加一个<strong>感叹号</strong>；方括号里写<strong>替代文字</strong>。</td>
+</tr>
+<tr>
+<td><strong>6 Blockquote</strong></td>
+<td>A line starting with <strong>&gt;</strong> becomes a <strong>quote</strong>.</td>
+<td>以 <strong>&gt;</strong> 开头的一行变成<strong>引用</strong>。</td>
+</tr>
+<tr>
+<td><strong>7 Inline code</strong></td>
+<td><strong>Backticks</strong> around a word show it as <strong>code</strong> inside a sentence.</td>
+<td>单词两边加<strong>反引号</strong>，在句子里显示成<strong>代码</strong>。</td>
+</tr>
+<tr>
+<td><strong>8 Fenced code block</strong></td>
+<td><strong>Three backticks</strong> above and below a block, with the <strong>language</strong> name, such as <strong>bash</strong>.</td>
+<td>代码块上下各加<strong>三个反引号</strong>，并写上<strong>语言</strong>名，比如 <strong>bash</strong>。</td>
+</tr>
+<tr>
+<td><strong>9 Table</strong></td>
+<td>Cells separated by <strong>vertical bars</strong>, with a <strong>dash row</strong> under the header.</td>
+<td>单元格用<strong>竖线</strong>隔开，表头下面加一行<strong>短横线</strong>。</td>
+</tr>
+<tr>
+<td><strong>10 Task list</strong></td>
+<td>A list item with <strong>square brackets</strong>; an <strong>x</strong> marks it <strong>done</strong>.</td>
+<td>带<strong>方括号</strong>的列表项；<strong>x</strong> 表示<strong>已完成</strong>。</td>
+</tr>
+<tr>
+<td><strong>11 Horizontal rule</strong></td>
+<td><strong>Three dashes</strong> on a line draw a <strong>dividing line</strong>.</td>
+<td>一行写<strong>三个短横线</strong>，画出一条<strong>分隔线</strong>。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="lab-2-levi-strauss-migration-case-study-w2">Lab 2: Levi Strauss migration case study (W2)</h3>
+<p><strong>Scenario:</strong> <strong>Levi Strauss &amp; Co.</strong> moves from several <strong>datacenters</strong>, about <strong>160 applications</strong> and <strong>nine ERP systems</strong> in <strong>110 countries</strong> to Azure, as it shifts to <strong>direct-to-consumer</strong> sales.</p>
+<p><strong>CAF:</strong> <strong>Strategy &gt; Motivations, mission and objectives</strong> and <strong>Plan &gt; Plan migration</strong>.</p>
+<p><img src="media/lab2-case.png" alt="Lab 2 case: migration motivators (Motivations) and discovery questions (Discover your existing workload inventory)."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Migration motivators (Motivations)</strong></td>
+<td>The <strong>business reasons</strong> Levi Strauss moves to the cloud; the Lab 2 rubric says <strong>migration motivators</strong>.</td>
+<td>Levi Strauss 上云的<strong>业务原因</strong>；Lab 2 评分表叫 <strong>migration motivators</strong>。</td>
+</tr>
+<tr>
+<td><strong>1.1 Direct-to-consumer</strong></td>
+<td>Becoming a <strong>USD 10 billion DTC brand</strong> needs <strong>speed, automation and data</strong>.</td>
+<td>要成为 <strong>100 亿美元的直面消费者（DTC）品牌</strong>，需要<strong>速度、自动化和数据</strong>。</td>
+</tr>
+<tr>
+<td><strong>1.2 Technical debt</strong></td>
+<td>About <strong>160 applications</strong>, several datacenters, <strong>nine ERP systems</strong> and different processes in <strong>110 countries</strong>.</td>
+<td>大约 <strong>160 个应用</strong>、多个数据中心、<strong>九套 ERP 系统</strong>，<strong>110 个国家</strong>流程各不相同。</td>
+</tr>
+<tr>
+<td><strong>1.3 Datacenter cost</strong></td>
+<td>Owning and operating datacenters became <strong>too expensive</strong>.</td>
+<td>自建和运营数据中心变得<strong>太贵</strong>。</td>
+</tr>
+<tr>
+<td><strong>1.4 Standardization</strong></td>
+<td><strong>One global ERP</strong> means <strong>consistent processes and data</strong>.</td>
+<td><strong>一套全球 ERP</strong> 意味着<strong>统一的流程和数据</strong>。</td>
+</tr>
+<tr>
+<td><strong>1.5 AI readiness</strong></td>
+<td><strong>Unified data</strong> on a standard platform is the foundation for <strong>AI and agents</strong>.</td>
+<td>标准平台上的<strong>统一数据</strong>是 <strong>AI 和智能体</strong>的基础。</td>
+</tr>
+<tr>
+<td><strong>2 Discovery questions (Discover your existing workload inventory)</strong></td>
+<td>The questions that complete the picture <strong>before planning</strong>; the Lab 2 rubric says <strong>infrastructure discovery questions</strong>.</td>
+<td><strong>做计划之前</strong>要问清楚的问题；Lab 2 评分表叫 <strong>infrastructure discovery questions</strong>。</td>
+</tr>
+<tr>
+<td><strong>2.1 Applications</strong></td>
+<td>Which applications are <strong>business-critical</strong>, and which could be <strong>retired</strong> or <strong>replaced with SaaS</strong>?</td>
+<td>哪些应用是<strong>业务关键</strong>的？哪些可以<strong>下线</strong>或<strong>换成 SaaS</strong>？</td>
+</tr>
+<tr>
+<td><strong>2.2 Servers</strong></td>
+<td>How many servers, how <strong>heavily used</strong>, and which run an OS <strong>near end of support</strong>?</td>
+<td>有多少台服务器、<strong>使用率多高</strong>、哪些的操作系统<strong>快到支持期结束</strong>？</td>
+</tr>
+<tr>
+<td><strong>2.3 Data</strong></td>
+<td>How much data the nine ERP systems hold, and how it <strong>merges into one data model</strong>.</td>
+<td>九套 ERP 系统有多少数据，怎样<strong>合并成一个数据模型</strong>。</td>
+</tr>
+<tr>
+<td><strong>2.4 Networking</strong></td>
+<td>How stores, distribution centers and offices in 110 countries <strong>connect</strong>, and what <strong>latency</strong> they need.</td>
+<td>110 个国家的门店、配送中心和办公室怎样<strong>连接</strong>，需要多低的<strong>延迟</strong>。</td>
+</tr>
+<tr>
+<td><strong>2.5 Security</strong></td>
+<td>How <strong>identity</strong> is managed, which <strong>data-residency</strong> laws apply, and the <strong>RPO and RTO</strong>.</td>
+<td><strong>身份</strong>怎样管理，适用哪些<strong>数据驻留</strong>法律，<strong>RPO 和 RTO</strong> 是多少。</td>
+</tr>
+<tr>
+<td><strong>2.6 Dependencies</strong></td>
+<td>Which applications <strong>depend on each other</strong>, and so must move in the <strong>same wave</strong>.</td>
+<td>哪些应用<strong>互相依赖</strong>，因此必须在<strong>同一批次</strong>迁移。</td>
+</tr>
+<tr>
+<td><strong>2.7 Business requirements</strong></td>
+<td>The acceptable <strong>downtime</strong>, the <strong>retail peak periods</strong> to avoid, and the <strong>budget and deadline</strong>.</td>
+<td>可接受的<strong>停机时间</strong>、要避开的<strong>零售高峰期</strong>，以及<strong>预算和截止日期</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CAF:</strong> <strong>Plan &gt; Define operating model</strong>.</p>
+<p><img src="media/lab2-raci.png" alt="RACI matrix (Define operating model): seven activities by seven stakeholders, with one Accountable owner per activity."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>R Responsible</strong></td>
+<td><strong>Does the work</strong>; the <strong>migration</strong> team for most activities.</td>
+<td><strong>干活的人</strong>；大多数活动由<strong>迁移</strong>团队负责。</td>
+</tr>
+<tr>
+<td><strong>A Accountable</strong></td>
+<td>The <strong>single owner</strong> of an activity; the <strong>infrastructure director</strong> for discovery, landing zone, migration, cutover and optimization.</td>
+<td>一项活动的<strong>唯一负责人</strong>；发现、着陆区、迁移、切换和优化都由<strong>基础设施总监</strong>负责。</td>
+</tr>
+<tr>
+<td><strong>C Consulted</strong></td>
+<td><strong>Gives input</strong> before decisions, such as <strong>security</strong> and <strong>business</strong> leaders.</td>
+<td>决策前<strong>提供意见</strong>，比如<strong>安全</strong>和<strong>业务</strong>负责人。</td>
+</tr>
+<tr>
+<td><strong>I Informed</strong></td>
+<td><strong>Kept up to date</strong>, such as the <strong>sponsor</strong> after approval.</td>
+<td><strong>随时知情</strong>，比如批准之后的<strong>发起人</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CAF:</strong> <strong>Plan &gt; Plan migration</strong>.</p>
+<p><img src="media/migration-strategies.png" alt="Migration approach (Cloud migration strategies), the eight of the Cloud Adoption Framework: Retire, Rehost, Replatform, Refactor, Rearchitect, Replace, Rebuild, Retain."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Retire</strong></td>
+<td><strong>Decommissions</strong> a workload with no business value, so it <strong>does not move</strong>; used for <strong>applications no longer needed</strong>.</td>
+<td><strong>停用</strong>没有业务价值的工作负载，所以它<strong>不迁移</strong>；用于<strong>不再需要的应用</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Rehost</strong></td>
+<td>Moves the workload <strong>like for like</strong> with <strong>minimal changes</strong>, such as a server to an <strong>Azure VM</strong>; used for <strong>most servers</strong>.</td>
+<td><strong>原样</strong>迁移工作负载，<strong>改动最少</strong>，比如把服务器搬到 <strong>Azure 虚拟机</strong>；<strong>大多数服务器</strong>用这种方式。</td>
+</tr>
+<tr>
+<td><strong>3 Replatform</strong></td>
+<td>Changes the <strong>hosting environment</strong> to <strong>PaaS</strong> with <strong>minimal code changes</strong>, such as <strong>SQL Server on a VM</strong> to <strong>Azure SQL</strong>; fits the <strong>databases</strong> (Azure SQL Managed Instance) and <strong>third-party apps</strong> (AKS), which the W2 slides and Lab 2 call Refactor.</td>
+<td>把<strong>托管环境</strong>换成 <strong>PaaS</strong>，<strong>代码改动很少</strong>，比如把<strong>虚拟机上的 SQL Server</strong> 换成 <strong>Azure SQL</strong>；符合<strong>数据库</strong>（Azure SQL Managed Instance）和<strong>第三方应用</strong>（AKS），W2 课件和 Lab 2 把它们叫作 Refactor。</td>
+</tr>
+<tr>
+<td><strong>4 Refactor</strong></td>
+<td>Improves the <strong>internal structure of the code</strong> without adding features, to reduce <strong>technical debt</strong>.</td>
+<td>改进<strong>代码的内部结构</strong>，不增加新功能，以减少<strong>技术债</strong>。</td>
+</tr>
+<tr>
+<td><strong>5 Rearchitect</strong></td>
+<td>Redesigns the <strong>architecture and code</strong>, such as splitting a <strong>monolith into microservices</strong>; too slow for 160 applications before the datacenter exit.</td>
+<td>重新设计<strong>架构和代码</strong>，比如把<strong>单体应用拆成微服务</strong>；在退出数据中心之前对 160 个应用这样做太慢。</td>
+</tr>
+<tr>
+<td><strong>6 Replace</strong></td>
+<td>Swaps the workload for a <strong>SaaS</strong> product, so <strong>no custom code</strong> remains to maintain; the <strong>nine ERP systems</strong> become <strong>one global ERP</strong>.</td>
+<td>把工作负载换成 <strong>SaaS</strong> 产品，<strong>不再有自定义代码</strong>要维护；<strong>九套 ERP 系统</strong>变成<strong>一套全球 ERP</strong>。</td>
+</tr>
+<tr>
+<td><strong>7 Rebuild</strong></td>
+<td>Develops the workload <strong>again from the start</strong> with <strong>cloud-native</strong> solutions, when the old system is too outdated to modernize.</td>
+<td>用<strong>云原生</strong>方案<strong>从头重新开发</strong>工作负载，适用于旧系统过于陈旧、无法现代化的情况。</td>
+</tr>
+<tr>
+<td><strong>8 Retain</strong></td>
+<td><strong>Keeps the workload where it is</strong>, when it is stable or <strong>cannot be migrated</strong>, for example because of regulations.</td>
+<td><strong>工作负载留在原地</strong>，适用于它运行稳定或<strong>无法迁移</strong>的情况，比如受法规限制。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CAF:</strong> <strong>Plan &gt; Plan migration</strong>.</p>
+<p><img src="media/lab2-schedule.png" alt="Migration schedule (Plan migration): discovery and assessment, Azure landing zone, migration waves, execute, decommission, optimize."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Discovery and assessment</strong></td>
+<td><strong>Months 1-2</strong>: inventory with <strong>Azure Migrate</strong>, map <strong>dependencies</strong>, choose a strategy per workload.</td>
+<td><strong>第 1 到 2 个月</strong>：用 <strong>Azure Migrate</strong> 盘点，梳理<strong>依赖关系</strong>，为每个工作负载选迁移策略。</td>
+</tr>
+<tr>
+<td><strong>2 Azure landing zone</strong></td>
+<td><strong>Months 2-3</strong>: <strong>subscriptions, networking, identity, security and backup</strong>.</td>
+<td><strong>第 2 到 3 个月</strong>：<strong>订阅、网络、身份、安全和备份</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Migration waves</strong></td>
+<td><strong>Month 3</strong>: a <strong>pilot</strong> wave of <strong>low-risk servers</strong> tests <strong>replication, cutover and rollback</strong>. <strong>Months 4-8</strong>: <strong>dependent applications move together</strong>, avoiding <strong>retail peak periods</strong>.</td>
+<td><strong>第 3 个月</strong>：<strong>试点</strong>波次迁移<strong>低风险服务器</strong>，测试<strong>复制、切换和回滚</strong>。<strong>第 4 到 8 个月</strong>：<strong>互相依赖的应用一起迁</strong>，避开<strong>零售高峰期</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Execute</strong></td>
+<td><strong>Month 8</strong>: final <strong>cutover</strong> in approved <strong>downtime windows</strong>.</td>
+<td><strong>第 8 个月</strong>：在批准的<strong>停机窗口</strong>内完成最终<strong>切换</strong>。</td>
+</tr>
+<tr>
+<td><strong>5 Decommission</strong></td>
+<td><strong>Month 8</strong>: <strong>the datacenters are decommissioned</strong> after the cutover.</td>
+<td><strong>第 8 个月</strong>：切换之后<strong>关停数据中心</strong>。</td>
+</tr>
+<tr>
+<td><strong>6 Optimize</strong></td>
+<td><strong>Month 9 onward</strong>: <strong>right-size</strong>, track <strong>cost</strong>, test <strong>disaster recovery</strong>.</td>
+<td><strong>第 9 个月起</strong>：<strong>调整规格</strong>、跟踪<strong>成本</strong>、测试<strong>灾难恢复</strong>。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cloud-adoption-framework-w2-w3">Cloud Adoption Framework (W2, W3)</h3>
+<p><strong>CAF:</strong> All seven phases.</p>
+<p><img src="../cloud/azure/cloud-adoption-framework/media/azure-adoption-phases.png" alt="Azure adoption phases"></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Azure adoption phases</strong></td>
+<td>The Cloud Adoption Framework has <strong>seven Azure adoption phases</strong>.</td>
+<td>云采用框架有<strong>七个 Azure 采用阶段</strong>。</td>
+</tr>
+<tr>
+<td><strong>1 Strategy</strong></td>
+<td><strong>Strategy</strong> sets <strong>why</strong> an organization adopts Azure: the <strong>cloud adoption strategy</strong>.</td>
+<td><strong>战略</strong>确定组织<strong>为什么</strong>采用 Azure：即<strong>云采用战略</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Plan</strong></td>
+<td><strong>Plan</strong> turns that strategy into an <strong>actionable plan</strong>: the <strong>cloud adoption plan</strong>.</td>
+<td><strong>计划</strong>把战略变成<strong>可执行的计划</strong>：即<strong>云采用计划</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Ready</strong></td>
+<td><strong>Ready</strong> builds the <strong>Azure landing zone</strong>.</td>
+<td><strong>就绪</strong>搭建 <strong>Azure 着陆区</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Adopt</strong></td>
+<td><strong>Adopt</strong> <strong>migrates, modernizes and builds workloads</strong>.</td>
+<td><strong>采用</strong>负责<strong>迁移、现代化和新建工作负载</strong>。</td>
+</tr>
+<tr>
+<td><strong>5 Govern</strong></td>
+<td><strong>Govern</strong> sets <strong>guardrails</strong>.</td>
+<td><strong>治理</strong>设置<strong>护栏</strong>。</td>
+</tr>
+<tr>
+<td><strong>6 Secure</strong></td>
+<td><strong>Secure</strong> protects the <strong>Azure cloud estate</strong>.</td>
+<td><strong>安全</strong>保护 <strong>Azure 云资产</strong>。</td>
+</tr>
+<tr>
+<td><strong>7 Manage</strong></td>
+<td><strong>Manage</strong> operates Azure with <strong>RAMP</strong>: <strong>Ready, Administer, Monitor, Protect</strong>.</td>
+<td><strong>管理</strong>用 <strong>RAMP</strong> 运营 Azure：<strong>就绪、管理、监控、保护</strong>。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="lab-3-iaas-and-paas-architecture-w3">Lab 3: IaaS and PaaS architecture (W3)</h3>
+<p><strong>Scenario:</strong> A web application with a <strong>React</strong> UI, a <strong>Flask</strong> web server and a <strong>PostgreSQL</strong> database is designed on Azure twice: once on <strong>IaaS</strong>, once on <strong>PaaS</strong>.</p>
+<p><img src="media/lab3-app-architecture.png" alt="Lab 3 application: React UI, Flask web server, PostgreSQL"></p>
+<p><img src="media/lab3-iaas-architecture.png" alt="Lab 3 IaaS architecture"></p>
+<p><img src="media/lab3-paas-architecture.png" alt="Lab 3 PaaS architecture"></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 IaaS</strong></td>
+<td>In <strong>IaaS</strong>, the provider supplies <strong>VMs, disks and network</strong>; the team builds and maintains everything on them.</td>
+<td>在 <strong>IaaS</strong> 里，云服务商提供<strong>虚拟机、磁盘和网络</strong>；上面的一切由团队自己搭建和维护。</td>
+</tr>
+<tr>
+<td><strong>2 N-tier, subnets, NSGs</strong></td>
+<td>In an <strong>N-tier</strong> architecture, each tier has its own <strong>subnet</strong>, and its <strong>NSG</strong> allows only traffic from the <strong>tier in front of it</strong>.</td>
+<td>在 <strong>N 层</strong>架构里，每一层有自己的<strong>子网</strong>，它的 <strong>NSG</strong>（网络安全组）只允许<strong>前一层</strong>的流量进来。</td>
+</tr>
+<tr>
+<td><strong>3 Availability zones</strong></td>
+<td><strong>Availability zones</strong> are separate datacenters in one region, so <strong>one zone can fail</strong>.</td>
+<td><strong>可用区</strong>是同一区域里相互独立的数据中心，所以<strong>一个区坏了也没关系</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Load balancer</strong></td>
+<td>A <strong>load balancer</strong> spreads requests across servers and removes failed ones.</td>
+<td><strong>负载均衡器</strong>把请求分给多台服务器，并把坏掉的服务器移出去。</td>
+</tr>
+<tr>
+<td><strong>5 Replication</strong></td>
+<td>Database <strong>replication</strong> keeps a <strong>standby</strong> in sync with the <strong>primary</strong>.</td>
+<td>数据库<strong>复制</strong>让<strong>备用库</strong>和<strong>主库</strong>保持同步。</td>
+</tr>
+<tr>
+<td><strong>6 Management VMs</strong></td>
+<td>IaaS needs its own <strong>jumpbox, monitoring, NAT and backup</strong> servers.</td>
+<td>IaaS 需要自己的<strong>跳板机、监控、NAT 和备份</strong>服务器。</td>
+</tr>
+<tr>
+<td><strong>7 PaaS</strong></td>
+<td>In <strong>PaaS</strong>, each tier becomes a <strong>managed service</strong>, and the provider runs the servers, patching, scaling and backups.</td>
+<td>在 <strong>PaaS</strong> 里，每一层变成一个<strong>托管服务</strong>，服务器、打补丁、扩缩容和备份都由云服务商负责。</td>
+</tr>
+<tr>
+<td><strong>8 App Service</strong></td>
+<td><strong>App Service</strong> runs web apps on several <strong>instances</strong> behind a <strong>built-in load balancer</strong>, with <strong>autoscale</strong>.</td>
+<td><strong>App Service</strong> 在<strong>内置负载均衡器</strong>后面用多个<strong>实例</strong>运行 Web 应用，并支持<strong>自动扩缩</strong>。</td>
+</tr>
+<tr>
+<td><strong>9 VNet integration</strong></td>
+<td><strong>VNet integration</strong> lets App Service reach resources that accept <strong>private connections only</strong>.</td>
+<td><strong>VNet 集成</strong>让 App Service 能访问<strong>只接受私有连接</strong>的资源。</td>
+</tr>
+<tr>
+<td><strong>10 Key Vault, Application Insights</strong></td>
+<td><strong>Key Vault</strong> stores <strong>secrets</strong>; <strong>Application Insights</strong> collects <strong>telemetry</strong>.</td>
+<td><strong>Key Vault</strong> 保存<strong>机密</strong>；<strong>Application Insights</strong> 收集<strong>遥测数据</strong>。</td>
+</tr>
+<tr>
+<td><strong>11 IaaS or PaaS</strong></td>
+<td><strong>IaaS</strong> gives <strong>full control</strong> but more <strong>operations work</strong>; <strong>PaaS</strong> gives less control and <strong>no servers to manage</strong>.</td>
+<td><strong>IaaS</strong> 给你<strong>完全的控制权</strong>，但<strong>运维工作</strong>更多；<strong>PaaS</strong> 控制权少一些，但<strong>没有服务器要管</strong>。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="migration-phases-w4">Migration phases (W4)</h3>
+<p><strong>CAF:</strong> <strong>Plan &gt; Plan migration</strong> and <strong>Adopt &gt; Migration</strong>.</p>
+<p><img src="../cloud/azure/migration/media/migration-phases.png" alt="Migration phases"></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Decide</strong></td>
+<td>The first phase <strong>identifies the workloads</strong> and decides <strong>whether to migrate</strong>.</td>
+<td>第一阶段<strong>识别工作负载</strong>，并决定<strong>是否迁移</strong>。</td>
+</tr>
+<tr>
+<td><strong>1.1 Discovery</strong></td>
+<td><strong>Discovery</strong> identifies the workloads.</td>
+<td><strong>发现</strong>识别工作负载。</td>
+</tr>
+<tr>
+<td><strong>1.1.1 Azure Migrate appliance</strong></td>
+<td>The <strong>appliance</strong> collects <strong>configuration and performance data</strong> and sends it to Azure Migrate.</td>
+<td><strong>设备</strong>（appliance）收集<strong>配置和性能数据</strong>，发送到 Azure Migrate。</td>
+</tr>
+<tr>
+<td><strong>1.1.2 Azure Migrate Collector</strong></td>
+<td>The <strong>Collector</strong> takes a <strong>snapshot</strong> without continuous Azure connectivity.</td>
+<td><strong>Collector</strong> 在不需要持续连接 Azure 的情况下拍一张<strong>快照</strong>。</td>
+</tr>
+<tr>
+<td><strong>1.2 Business case</strong></td>
+<td>A <strong>business case</strong> estimates the <strong>costs and savings</strong> of moving to Azure.</td>
+<td><strong>业务案例</strong>估算迁到 Azure 的<strong>成本和节省</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Plan</strong></td>
+<td>The second phase <strong>plans the migration in detail</strong>.</td>
+<td>第二阶段<strong>详细规划迁移</strong>。</td>
+</tr>
+<tr>
+<td><strong>2.1 Assessment</strong></td>
+<td><strong>Assessments</strong> find the four results below.</td>
+<td><strong>评估</strong>得出下面四项结果。</td>
+</tr>
+<tr>
+<td><strong>2.1.1 Azure readiness</strong></td>
+<td>Whether servers are <strong>ready for migration</strong> to Azure.</td>
+<td>服务器是否<strong>可以迁移</strong>到 Azure。</td>
+</tr>
+<tr>
+<td><strong>2.1.2 Right-sizing</strong></td>
+<td>The <strong>size</strong> of the Azure VMs after migration.</td>
+<td>迁移后 Azure 虚拟机的<strong>规格</strong>。</td>
+</tr>
+<tr>
+<td><strong>2.1.3 Azure cost estimation</strong></td>
+<td>The <strong>cost</strong> of running the servers in Azure.</td>
+<td>服务器在 Azure 上运行的<strong>成本</strong>。</td>
+</tr>
+<tr>
+<td><strong>2.1.4 Dependency analysis</strong></td>
+<td>The <strong>network dependencies</strong> between servers.</td>
+<td>服务器之间的<strong>网络依赖关系</strong>。</td>
+</tr>
+<tr>
+<td><strong>2.2 Migration strategies</strong></td>
+<td>The <strong>strategy</strong> chosen for <strong>each workload</strong>.</td>
+<td>为<strong>每个工作负载</strong>选定的<strong>策略</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Execute</strong></td>
+<td>The third phase <strong>performs the migration or modernization</strong>.</td>
+<td>第三阶段<strong>执行迁移或现代化</strong>。</td>
+</tr>
+<tr>
+<td><strong>3.1 Replication</strong></td>
+<td><strong>Replication</strong> copies the VMs to Azure.</td>
+<td><strong>复制</strong>把虚拟机复制到 Azure。</td>
+</tr>
+<tr>
+<td><strong>3.2 Test migration</strong></td>
+<td>A <strong>test migration</strong> <strong>simulates the migration</strong> in a <strong>non-production network</strong>.</td>
+<td><strong>测试迁移</strong>在<strong>非生产网络</strong>里<strong>模拟迁移</strong>。</td>
+</tr>
+<tr>
+<td><strong>3.3 Migrate VMs</strong></td>
+<td>After the test works, the <strong>source machines</strong> are <strong>migrated</strong>.</td>
+<td>测试通过后，<strong>迁移源机器</strong>。</td>
+</tr>
+<tr>
+<td><strong>3.4 Complete migration</strong></td>
+<td>Completing the migration <strong>stops replication</strong> and <strong>cleans up</strong> its state.</td>
+<td>完成迁移会<strong>停止复制</strong>，并<strong>清理</strong>复制状态。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="lab-4-discovery-and-assessment-w4">Lab 4: Discovery and assessment (W4)</h3>
+<p><strong>CAF:</strong> <strong>Plan &gt; Plan migration</strong>.</p>
+<p><strong>Scenario:</strong> Five on-premises <strong>VMware</strong> servers, <strong>WEB-01, APP-01, DB-01, DC-01 and FILE-01</strong>, move to <strong>Azure VMs</strong> with <strong>minimal downtime</strong>; a written simulation with <strong>no CPU, memory or usage data</strong>.</p>
+<p><img src="media/lab4-assessment.png" alt="Lab 4 discovery and assessment: digital estate, discovery, dependency analysis, readiness (Azure readiness), sizing (right-sizing), migration plan (plan migration)."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Digital estate</strong></td>
+<td><strong>Everything IT runs today</strong>; here the <strong>five servers</strong> and their applications and data.</td>
+<td><strong>IT 现在运行的一切</strong>；这里是<strong>五台服务器</strong>以及上面的应用和数据。</td>
+</tr>
+<tr>
+<td><strong>2 Discovery</strong></td>
+<td><strong>Agentless</strong>: the <strong>Azure Migrate appliance</strong> on <strong>vCenter</strong> reads each VM over <strong>port 443</strong> for about <strong>30 days</strong>.</td>
+<td><strong>无代理</strong>：装在 <strong>vCenter</strong> 上的 <strong>Azure Migrate 设备</strong>通过 <strong>443 端口</strong>读取每台虚拟机，持续大约 <strong>30 天</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Dependency analysis</strong></td>
+<td>Shows each server's <strong>TCP connections</strong>; <strong>WEB-01, APP-01 and DB-01</strong> form one <strong>migration group</strong>.</td>
+<td>显示每台服务器的 <strong>TCP 连接</strong>；<strong>WEB-01、APP-01 和 DB-01</strong> 组成一个<strong>迁移组</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Readiness (Azure readiness)</strong></td>
+<td>WEB-01, APP-01, DC-01 <strong>conditionally ready</strong>; DB-01 <strong>insufficient information</strong>; FILE-01 <strong>not ready</strong>, a <strong>blocker</strong> (Windows Server 2012 R2).</td>
+<td>WEB-01、APP-01、DC-01 <strong>有条件就绪</strong>；DB-01 <strong>信息不足</strong>；FILE-01 <strong>未就绪</strong>，是一个<strong>阻碍项</strong>（Windows Server 2012 R2）。</td>
+</tr>
+<tr>
+<td><strong>5 Sizing (Right-sizing)</strong></td>
+<td><strong>Performance-based</strong> uses <strong>real usage</strong> and right-sizes; <strong>as-is</strong> <strong>copies on-premises specs</strong> and often oversizes.</td>
+<td><strong>基于性能</strong>按<strong>实际使用量</strong>调整规格；<strong>按原样</strong>照搬<strong>本地配置</strong>，常常配得过大。</td>
+</tr>
+<tr>
+<td><strong>6 Migration plan (Plan migration)</strong></td>
+<td>A <strong>test migration</strong> runs in an <strong>isolated network</strong>; the <strong>rollback plan</strong> points <strong>DNS back</strong> to the <strong>original servers</strong>.</td>
+<td><strong>测试迁移</strong>在<strong>隔离网络</strong>里进行；<strong>回滚计划</strong>就是把 <strong>DNS 指回原来的服务器</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><img src="media/lab4-migration-order.png" alt="Lab 4 migration order: new domain controller in Azure, FILE-01 pilot, group 1 (WEB-01, APP-01, DB-01), retire DC-01 (decommission)."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 New DC in Azure</strong></td>
+<td>Comes first, because every server needs <strong>sign-in and DNS</strong>.</td>
+<td>最先做，因为每台服务器都需要<strong>登录和 DNS</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 FILE-01</strong></td>
+<td>The <strong>pilot</strong>, with its <strong>OS upgrade</strong>, before the <strong>October 13, 2026</strong> security deadline.</td>
+<td><strong>试点</strong>，同时<strong>升级操作系统</strong>，赶在 <strong>2026 年 10 月 13 日</strong>安全支持截止之前。</td>
+</tr>
+<tr>
+<td><strong>3 Group 1</strong></td>
+<td><strong>WEB-01, APP-01 and DB-01</strong> move together in <strong>one maintenance window</strong>.</td>
+<td><strong>WEB-01、APP-01 和 DB-01</strong> 在<strong>同一个维护窗口</strong>里一起迁移。</td>
+</tr>
+<tr>
+<td><strong>4 Retire DC-01 (Decommission)</strong></td>
+<td>Only after <strong>nothing uses it</strong>.</td>
+<td>要等到<strong>没有任何东西再用它</strong>之后。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="lab-5-rehosting-to-azure-vmware-solution-w5">Lab 5: Rehosting to Azure VMware Solution (W5)</h3>
+<p><strong>CAF:</strong> <strong>Adopt &gt; Migration</strong>.</p>
+<p><strong>Scenario:</strong> <strong>Washington State L&amp;I</strong> migrates <strong>more than 300 VMs</strong> to <strong>Azure VMware Solution</strong> in <strong>phases</strong>, in <strong>under nine months</strong>, without disrupting daily operations.</p>
+<p><img src="media/lab5-avs-migration.png" alt="Lab 5 migration from on-premises VMware to Azure VMware Solution"></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Rehost</strong></td>
+<td>Moves VMs <strong>without code changes</strong>: the <strong>fastest, lowest-risk</strong> way to finish in <strong>under nine months</strong>.</td>
+<td><strong>不改代码</strong>迁移虚拟机：要在<strong>九个月内</strong>完成，这是<strong>最快、风险最低</strong>的方式。</td>
+</tr>
+<tr>
+<td><strong>2 Rehost vs replatform</strong></td>
+<td><strong>Rehost</strong> moves the VM <strong>as is</strong>; <strong>replatform</strong> makes <strong>small changes</strong> to use a <strong>managed platform</strong>.</td>
+<td><strong>重新托管</strong>把虚拟机<strong>原样</strong>搬过去；<strong>重新平台化</strong>做<strong>少量修改</strong>，用上<strong>托管平台</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Azure VMware Solution</strong></td>
+<td>Runs <strong>vCenter, NSX and vSAN</strong> on <strong>dedicated hosts</strong> in Azure, so VMware VMs move <strong>without conversion</strong>.</td>
+<td>在 Azure 的<strong>专用主机</strong>上运行 <strong>vCenter、NSX 和 vSAN</strong>，所以 VMware 虚拟机<strong>不用转换</strong>就能迁过去。</td>
+</tr>
+</tbody>
+</table>
+<p><img src="media/lab5-waves.png" alt="Plan migration, Lab 5 plan: prepare, discovery, migration waves, execute, decommission."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Prepare</strong></td>
+<td>Deploy the <strong>private cloud</strong>, <strong>ExpressRoute</strong> with Global Reach, and <strong>VMware HCX</strong>, which keeps the VMs' <strong>IP addresses</strong>.</td>
+<td>部署<strong>私有云</strong>、带 Global Reach 的 <strong>ExpressRoute</strong>，以及能保留虚拟机 <strong>IP 地址</strong>的 <strong>VMware HCX</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Discovery</strong></td>
+<td><strong>Dependency analysis</strong> puts each application and everything it calls in the <strong>same wave</strong>.</td>
+<td><strong>依赖分析</strong>把每个应用和它调用的所有东西放进<strong>同一批次</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Migration waves</strong></td>
+<td>A <strong>pilot</strong> of <strong>about 10 VMs</strong> proves the tools, network and runbook; then <strong>about 75 VMs each</strong>, from <strong>lowest to highest criticality</strong>.</td>
+<td><strong>试点</strong>约 <strong>10 台虚拟机</strong>，验证工具、网络和操作手册；之后<strong>每批大约 75 台</strong>，按<strong>重要性从低到高</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Execute</strong></td>
+<td><strong>Proceed or roll back</strong>: proceed after tests and <strong>48 hours</strong> stable; otherwise roll back to the <strong>intact on-premises VMs</strong>.</td>
+<td><strong>继续还是回滚</strong>：测试通过并稳定 <strong>48 小时</strong>后继续；否则回滚到<strong>完好的本地虚拟机</strong>。</td>
+</tr>
+<tr>
+<td><strong>5 Decommission</strong></td>
+<td>After each wave's <strong>stabilization period</strong>, the <strong>on-premises copies</strong> are retired.</td>
+<td>每一批的<strong>稳定期</strong>结束后，下线<strong>本地副本</strong>。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="refactoring-replatform">Refactoring (Replatform)</h3>
+<p><strong>CAF:</strong> <strong>Adopt &gt; Modernization</strong>.</p>
+<p><img src="media/w6-replatform.png" alt="Refactoring (Replatform) a web app: App Service Migration Assistant assesses, then migrates the app to Azure App Service; the database moves to Azure SQL or stays on-premises through a hybrid connection."></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Assess</strong></td>
+<td>The first step checks whether the app can move.</td>
+<td>第一步检查应用能不能迁。</td>
+</tr>
+<tr>
+<td><strong>1.1 IIS</strong></td>
+<td>The <strong>Windows web server</strong> that hosts the <strong>ASP.NET</strong> app on premises.</td>
+<td>在本地托管 <strong>ASP.NET</strong> 应用的 <strong>Windows Web 服务器</strong>。</td>
+</tr>
+<tr>
+<td><strong>1.2 App Service Migration Assistant</strong></td>
+<td>The tool that first <strong>assesses</strong> the app, then <strong>migrates</strong> it.</td>
+<td>先<strong>评估</strong>应用、再<strong>迁移</strong>它的工具。</td>
+</tr>
+<tr>
+<td><strong>2 Migrate</strong></td>
+<td>The second step moves the app.</td>
+<td>第二步迁移应用。</td>
+</tr>
+<tr>
+<td><strong>2.1 Azure App Service</strong></td>
+<td>Runs the app and handles <strong>OS patching, scaling and load balancing</strong>.</td>
+<td>运行应用，并负责<strong>操作系统补丁、扩缩容和负载均衡</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Database</strong></td>
+<td>The third step moves or connects the database.</td>
+<td>第三步迁移或连接数据库。</td>
+</tr>
+<tr>
+<td><strong>3.1 Azure SQL Database</strong></td>
+<td>A <strong>managed</strong> database in Azure.</td>
+<td>Azure 上的<strong>托管</strong>数据库。</td>
+</tr>
+<tr>
+<td><strong>3.2 Azure SQL Managed Instance</strong></td>
+<td>A managed SQL Server <strong>instance</strong>, closest to on-premises SQL Server.</td>
+<td>托管的 SQL Server <strong>实例</strong>，最接近本地的 SQL Server。</td>
+</tr>
+<tr>
+<td><strong>3.3 Hybrid connection</strong></td>
+<td>Links the app to a database that <strong>stays on premises</strong>.</td>
+<td>把应用连到<strong>留在本地</strong>的数据库。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="lab-6-aws-azure-and-google-cloud-services">Lab 6: AWS, Azure and Google Cloud services</h3>
+<p><strong>Scenario:</strong> Name the equivalent <strong>AWS</strong>, <strong>Azure</strong> and <strong>Google Cloud</strong> service for <strong>30 service descriptions</strong>, then compare their <strong>similarities</strong>, <strong>differences</strong> and <strong>naming</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Similarities</strong></td>
+<td>Most services <strong>match one to one</strong>, and all three offer <strong>VMs, PaaS, serverless and Kubernetes</strong>.</td>
+<td>大多数服务<strong>一一对应</strong>，三家都提供<strong>虚拟机、PaaS、无服务器和 Kubernetes</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Differences</strong></td>
+<td><strong>RDS</strong> and <strong>Cloud SQL</strong> cover <strong>several database engines in one service</strong>, while Azure has <strong>one per engine</strong>; Azure <strong>splits</strong> load balancing and protection into several services.</td>
+<td><strong>RDS</strong> 和 <strong>Cloud SQL</strong> 用<strong>一个服务支持多种数据库引擎</strong>，而 Azure <strong>每种引擎一个服务</strong>；Azure 把负载均衡和防护<strong>拆成</strong>好几个服务。</td>
+</tr>
+<tr>
+<td><strong>3 Unique features</strong></td>
+<td>Some services add capabilities their counterparts lack.</td>
+<td>有些服务提供了对手没有的功能。</td>
+</tr>
+<tr>
+<td><strong>4 Naming</strong></td>
+<td>AWS uses <strong>brand names and acronyms</strong>, Azure says <strong>&quot;Azure&quot; plus the function</strong>, and Google says <strong>&quot;Cloud&quot; plus the function</strong>.</td>
+<td>AWS 用<strong>品牌名和缩写</strong>，Azure 用 <strong>&quot;Azure&quot; 加功能名</strong>，Google 用 <strong>&quot;Cloud&quot; 加功能名</strong>。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="lab-questions">Lab questions</h3>
+<h4 id="lab-2">Lab 2</h4>
+<p><strong>Q1: What motivated Levi Strauss &amp; Co. to migrate to the cloud?</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Direct-to-consumer</strong></td>
+<td>The <strong>USD 10 billion DTC</strong> goal needs <strong>speed, automation and data</strong>.</td>
+<td><strong>100 亿美元 DTC</strong> 目标需要<strong>速度、自动化和数据</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Technical debt</strong></td>
+<td>About <strong>160 applications</strong>, <strong>nine ERP systems</strong>, <strong>110 countries</strong>.</td>
+<td>约 <strong>160 个应用</strong>、<strong>九套 ERP</strong>、<strong>110 个国家</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Datacenter cost</strong></td>
+<td>Owning and operating datacenters became <strong>too expensive</strong>.</td>
+<td>自建和运营数据中心变得<strong>太贵</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Standardization</strong></td>
+<td><strong>One global ERP</strong> means consistent processes and data.</td>
+<td><strong>一套全球 ERP</strong> 带来统一的流程和数据。</td>
+</tr>
+<tr>
+<td><strong>5 AI readiness</strong></td>
+<td><strong>Unified data</strong> is the foundation for AI and agents.</td>
+<td><strong>统一数据</strong>是 AI 和智能体的基础。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2: What additional questions would you ask to better understand the company's existing infrastructure, applications, data, security, and business requirements?</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Applications</strong></td>
+<td>Which are <strong>business-critical</strong>, and which could be retired or replaced with SaaS?</td>
+<td>哪些是<strong>业务关键</strong>的，哪些可以下线或换成 SaaS？</td>
+</tr>
+<tr>
+<td><strong>2 Servers</strong></td>
+<td>How many, how heavily used, and which OS is <strong>near end of support</strong>?</td>
+<td>有多少台、使用率多高、哪些操作系统<strong>快到支持期结束</strong>？</td>
+</tr>
+<tr>
+<td><strong>3 Data</strong></td>
+<td>How do nine ERP systems merge into <strong>one data model</strong>?</td>
+<td>九套 ERP 怎样合并成<strong>一个数据模型</strong>？</td>
+</tr>
+<tr>
+<td><strong>4 Networking</strong></td>
+<td>How do 110 countries <strong>connect</strong>, and what <strong>latency</strong> do they need?</td>
+<td>110 个国家怎样<strong>连接</strong>，需要多低的<strong>延迟</strong>？</td>
+</tr>
+<tr>
+<td><strong>5 Security</strong></td>
+<td><strong>Identity</strong>, <strong>data-residency</strong> laws, <strong>RPO and RTO</strong>.</td>
+<td><strong>身份</strong>、<strong>数据驻留</strong>法律、<strong>RPO 和 RTO</strong>。</td>
+</tr>
+<tr>
+<td><strong>6 Dependencies</strong></td>
+<td>Which applications must move in the <strong>same wave</strong>?</td>
+<td>哪些应用必须在<strong>同一波次</strong>迁移？</td>
+</tr>
+<tr>
+<td><strong>7 Business requirements</strong></td>
+<td><strong>Downtime</strong>, retail <strong>peak periods</strong>, <strong>budget and deadline</strong>.</td>
+<td><strong>停机时间</strong>、零售<strong>高峰期</strong>、<strong>预算和截止日期</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3: Who are the main migration stakeholders? Present their roles and responsibilities in a RACI matrix.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Stakeholders</strong></td>
+<td>Sponsor, ERP, infrastructure, migration, security, business leaders, <strong>Microsoft</strong>.</td>
+<td>发起人、ERP、基础设施、迁移、安全、业务负责人、<strong>Microsoft</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Responsible</strong></td>
+<td>The <strong>migration team</strong> for most activities.</td>
+<td>多数活动由<strong>迁移团队</strong>执行。</td>
+</tr>
+<tr>
+<td><strong>3 Accountable</strong></td>
+<td>The <strong>infrastructure director</strong> for most; the <strong>sponsor</strong> for strategy and budget.</td>
+<td>多数由<strong>基础设施总监</strong>负责；战略和预算由<strong>发起人</strong>负责。</td>
+</tr>
+<tr>
+<td><strong>4 Consulted</strong></td>
+<td>Gives input before decisions, such as security.</td>
+<td>决策前提供意见，比如安全团队。</td>
+</tr>
+<tr>
+<td><strong>5 Informed</strong></td>
+<td>Kept up to date, such as the sponsor after approval.</td>
+<td>随时知情，比如批准后的发起人。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q4: Which cloud migration approach is most appropriate for Levi Strauss &amp; Co.? Explain and justify your choice.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Rehost</strong></td>
+<td><strong>Most servers</strong>: the fastest, lowest-risk way out of the datacenters.</td>
+<td><strong>大多数服务器</strong>：离开数据中心最快、风险最低的方式。</td>
+</tr>
+<tr>
+<td><strong>2 Refactor</strong></td>
+<td><strong>Databases</strong> to Azure SQL Managed Instance; <strong>third-party apps</strong> to AKS.</td>
+<td><strong>数据库</strong>到 Azure SQL Managed Instance；<strong>第三方应用</strong>到 AKS。</td>
+</tr>
+<tr>
+<td><strong>3 Replace</strong></td>
+<td><strong>Nine ERP systems</strong> become one global ERP.</td>
+<td><strong>九套 ERP</strong> 变成一套全球 ERP。</td>
+</tr>
+<tr>
+<td><strong>4 Retire</strong></td>
+<td><strong>Applications no longer needed</strong>: less to migrate, secure and pay for.</td>
+<td><strong>不再需要的应用</strong>：减少迁移、保护和付费的范围。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q5: What would a high-level schedule for the migration process look like?</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Discover and assess</strong></td>
+<td><strong>Months 1-2</strong>.</td>
+<td><strong>第 1 到 2 个月</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Prepare the landing zone</strong></td>
+<td><strong>Months 2-3</strong>.</td>
+<td><strong>第 2 到 3 个月</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Pilot</strong></td>
+<td><strong>Month 3</strong>: low-risk servers.</td>
+<td><strong>第 3 个月</strong>：低风险服务器。</td>
+</tr>
+<tr>
+<td><strong>4 Migrate in waves</strong></td>
+<td><strong>Months 4-8</strong>, avoiding retail peak periods.</td>
+<td><strong>第 4 到 8 个月</strong>，避开零售高峰期。</td>
+</tr>
+<tr>
+<td><strong>5 Cut over and exit</strong></td>
+<td><strong>Month 8</strong>: decommission the datacenters.</td>
+<td><strong>第 8 个月</strong>：关停数据中心。</td>
+</tr>
+<tr>
+<td><strong>6 Optimize</strong></td>
+<td><strong>Month 9 onward</strong>.</td>
+<td><strong>第 9 个月起</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q6: What are the main business and technical decision criteria that Levi Strauss &amp; Co. should consider during the migration?</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Business criteria</strong></td>
+<td><strong>Cost, speed, continuity, strategic fit</strong>.</td>
+<td><strong>成本、速度、连续性、战略契合</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Technical criteria</strong></td>
+<td><strong>Compatibility, security and compliance, performance, resilience, operability</strong>.</td>
+<td><strong>兼容性、安全与合规、性能、韧性、可运维性</strong>。</td>
+</tr>
+</tbody>
+</table>
+<h4 id="lab-3">Lab 3</h4>
+<p><strong>Q1: Describe how this application can be deployed in the cloud using IaaS infrastructure.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Team-managed VMs</strong></td>
+<td>Azure provides only <strong>VMs, disks and network</strong>.</td>
+<td>Azure 只提供<strong>虚拟机、磁盘和网络</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Tiers</strong></td>
+<td>Each tier has its own <strong>subnet</strong> and two VMs in different <strong>availability zones</strong>.</td>
+<td>每层有自己的<strong>子网</strong>，两台虚拟机放在不同<strong>可用区</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Software</strong></td>
+<td><strong>HAProxy, Nginx, Flask, PostgreSQL</strong> with a replicated standby.</td>
+<td><strong>HAProxy、Nginx、Flask，以及带复制备库的 PostgreSQL</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Management VMs</strong></td>
+<td><strong>Jumpbox, monitoring, NAT, backup</strong>; <strong>14 VMs</strong> in total.</td>
+<td><strong>跳板机、监控、NAT、备份</strong>；共 <strong>14 台</strong>虚拟机。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2: Describe how this application can be deployed in the cloud using PaaS infrastructure.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Managed services</strong></td>
+<td>Azure runs the <strong>servers, patching, scaling and backups</strong>.</td>
+<td>Azure 负责<strong>服务器、补丁、扩缩容和备份</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 React</strong></td>
+<td><strong>Azure Static Web Apps</strong>.</td>
+<td><strong>Azure Static Web Apps</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Flask</strong></td>
+<td><strong>Azure App Service</strong>, on at least two instances.</td>
+<td><strong>Azure App Service</strong>，至少两个实例。</td>
+</tr>
+<tr>
+<td><strong>4 PostgreSQL</strong></td>
+<td><strong>Flexible Server</strong>, reached through <strong>VNet integration</strong>.</td>
+<td><strong>Flexible Server</strong>，通过 <strong>VNet 集成</strong>访问。</td>
+</tr>
+<tr>
+<td><strong>5 Key Vault</strong></td>
+<td>Keeps the <strong>connection string</strong> out of code.</td>
+<td>让<strong>连接字符串</strong>不留在代码里。</td>
+</tr>
+</tbody>
+</table>
+<h4 id="lab-4">Lab 4</h4>
+<p><strong>Q1.1: Define digital estate in your own words.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Digital estate</strong></td>
+<td><strong>Everything IT runs today</strong>: servers, applications, data and their connections.</td>
+<td><strong>IT 现在运行的一切</strong>：服务器、应用、数据及其连接。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q1.2: Explain why understanding the digital estate is necessary before planning a cloud migration.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Dependent decisions</strong></td>
+<td><strong>Sizing, cost and migration order</strong> depend on it.</td>
+<td><strong>规格、成本和迁移顺序</strong>都取决于它。</td>
+</tr>
+<tr>
+<td><strong>2 Inventory</strong></td>
+<td>Lists only <strong>roles and OS versions</strong>, so it is only a starting point.</td>
+<td>只列了<strong>角色和操作系统版本</strong>，所以只是起点。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q1.3: Describe three risks of migrating without adequate discovery and assessment.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Outages</strong></td>
+<td>Missed dependencies, such as moving <strong>APP-01 without DB-01</strong>.</td>
+<td>遗漏依赖，比如迁了 <strong>APP-01 没迁 DB-01</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Blockers</strong></td>
+<td>Found too late, such as <strong>FILE-01</strong> at cutover.</td>
+<td>发现太晚，比如切换时才发现 <strong>FILE-01</strong> 的问题。</td>
+</tr>
+<tr>
+<td><strong>3 Wrong size and cost</strong></td>
+<td>Copying specs <strong>oversizes most VMs</strong>, and may undersize DB-01.</td>
+<td>照搬配置会让<strong>多数虚拟机配得过大</strong>，也可能让 DB-01 配得过小。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2.1: The discovery approach and how it works at a high level.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Agentless</strong></td>
+<td>The <strong>Azure Migrate appliance</strong> on vCenter reads each VM.</td>
+<td>vCenter 上的 <strong>Azure Migrate 设备</strong>读取每台虚拟机。</td>
+</tr>
+<tr>
+<td><strong>2 About 30 days</strong></td>
+<td>Collect long enough to capture <strong>peak usage</strong>.</td>
+<td>收集足够长时间，捕捉<strong>使用高峰</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Assessments</strong></td>
+<td>Created from the collected data.</td>
+<td>用收集到的数据创建。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2.2: The role of the Azure Migrate appliance and its connection to vCenter.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Appliance</strong></td>
+<td>A VM deployed on vCenter from an <strong>OVA template</strong>.</td>
+<td>由 <strong>OVA 模板</strong>部署在 vCenter 上的虚拟机。</td>
+</tr>
+<tr>
+<td><strong>2 Connection</strong></td>
+<td>A <strong>read-only account on port 443</strong>, through the vSphere APIs.</td>
+<td><strong>只读账号，走 443 端口</strong>，经 vSphere API。</td>
+</tr>
+<tr>
+<td><strong>3 Agentless</strong></td>
+<td><strong>Nothing is installed</strong> on the five servers.</td>
+<td>五台服务器上<strong>什么都不用装</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2.3: The configuration and performance information you would collect.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Configuration</strong></td>
+<td><strong>vCPU, RAM, disks, NICs, OS version</strong>.</td>
+<td><strong>vCPU、内存、磁盘、网卡、操作系统版本</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Performance</strong></td>
+<td><strong>CPU, memory, disk IOPS and throughput, network traffic</strong>.</td>
+<td><strong>CPU、内存、磁盘 IOPS 和吞吐量、网络流量</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Software</strong></td>
+<td><strong>Applications, SQL Server version, IIS sites</strong>.</td>
+<td><strong>应用、SQL Server 版本、IIS 站点</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Dependencies</strong></td>
+<td><strong>TCP connections</strong> with process and port.</td>
+<td>带进程和端口的 <strong>TCP 连接</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2.4: The servers and workloads you would investigate.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 DB-01</strong></td>
+<td><strong>SQL version</strong>, database size, performance.</td>
+<td><strong>SQL 版本</strong>、数据库大小、性能。</td>
+</tr>
+<tr>
+<td><strong>2 FILE-01</strong></td>
+<td><strong>Legacy OS</strong>, share sizes, who uses the shares.</td>
+<td><strong>旧操作系统</strong>、共享大小、谁在用。</td>
+</tr>
+<tr>
+<td><strong>3 DC-01</strong></td>
+<td>Whether it runs <strong>DNS</strong>, and which servers depend on it.</td>
+<td>是否运行 <strong>DNS</strong>，哪些服务器依赖它。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2.5: Additional information needed from the organization to complete the assessment.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Downtime</strong></td>
+<td><strong>Downtime limits and RPO/RTO</strong> for each application.</td>
+<td>每个应用的<strong>停机限制和 RPO/RTO</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Applications</strong></td>
+<td>Versions and owners.</td>
+<td>版本和负责人。</td>
+</tr>
+<tr>
+<td><strong>3 Licenses</strong></td>
+<td><strong>Windows Server and SQL Server</strong>.</td>
+<td><strong>Windows Server 和 SQL Server</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 WEB-01</strong></td>
+<td>Public <strong>DNS name and TLS certificate</strong>.</td>
+<td>公网 <strong>DNS 名称和 TLS 证书</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2.6: Distinguish discovering assets from assessing their suitability for migration.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Discovery</strong></td>
+<td><strong>Collects facts</strong>: what exists and how it is configured, used and connected.</td>
+<td><strong>收集事实</strong>：有什么、怎样配置、使用和连接。</td>
+</tr>
+<tr>
+<td><strong>2 Assessment</strong></td>
+<td><strong>Uses those facts</strong> to judge readiness, VM size and monthly cost.</td>
+<td><strong>用这些事实</strong>判断就绪情况、虚拟机规格和每月成本。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.1: Identify dependencies between the servers.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Application chain</strong></td>
+<td>Internet users → <strong>WEB-01 → APP-01 → DB-01</strong>.</td>
+<td>互联网用户 → <strong>WEB-01 → APP-01 → DB-01</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Identity</strong></td>
+<td>All servers → <strong>DC-01</strong>.</td>
+<td>所有服务器 → <strong>DC-01</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 File shares</strong></td>
+<td>Users and APP-01 → <strong>FILE-01</strong>.</td>
+<td>用户和 APP-01 → <strong>FILE-01</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.2: Clearly distinguish confirmed dependencies from assumed dependencies.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Confirmed</strong></td>
+<td><strong>APP-01 → DB-01</strong>, internet users → WEB-01; both from the inventory.</td>
+<td><strong>APP-01 → DB-01</strong>，互联网用户 → WEB-01；都来自清单。</td>
+</tr>
+<tr>
+<td><strong>2 Assumed</strong></td>
+<td>WEB-01 → APP-01, all servers → DC-01, users and APP-01 → FILE-01.</td>
+<td>WEB-01 → APP-01，所有服务器 → DC-01，用户和 APP-01 → FILE-01。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.3: Explain how you would validate assumed dependencies during discovery.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Dependency analysis</strong></td>
+<td><strong>Agentless</strong>: shows TCP connections with process and port.</td>
+<td><strong>无代理</strong>：显示带进程和端口的 TCP 连接。</td>
+</tr>
+<tr>
+<td><strong>2 Ports</strong></td>
+<td>Connections to DC-01 on <strong>88, 389 or 53</strong> confirm it.</td>
+<td>连到 DC-01 的 <strong>88、389 或 53</strong> 端口即可确认。</td>
+</tr>
+<tr>
+<td><strong>3 Application owners</strong></td>
+<td>Check the results with them.</td>
+<td>和他们核对结果。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.4: Explain how dependency analysis reduces the risk of outages.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Move together</strong></td>
+<td>Dependent servers move together, so <strong>nothing is left behind</strong> or cut off.</td>
+<td>互相依赖的服务器一起迁移，所以<strong>不会有东西被落下</strong>或断开。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.5: Propose one logical migration group and justify which servers belong together.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Migration group</strong></td>
+<td><strong>WEB-01, APP-01 and DB-01</strong>: one application.</td>
+<td><strong>WEB-01、APP-01 和 DB-01</strong>：同一个应用。</td>
+</tr>
+<tr>
+<td><strong>2 Why not split</strong></td>
+<td>Database traffic over the VPN adds <strong>delay and a new point of failure</strong>.</td>
+<td>数据库流量走 VPN 会增加<strong>延迟和新的故障点</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.6: Include a simple dependency diagram.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Group 1</strong></td>
+<td><strong>WEB-01 → APP-01 → DB-01</strong>.</td>
+<td><strong>WEB-01 → APP-01 → DB-01</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Shared servers</strong></td>
+<td>WEB-01, APP-01, DB-01 and FILE-01 → <strong>DC-01</strong>; APP-01 → <strong>FILE-01</strong>.</td>
+<td>WEB-01、APP-01、DB-01 和 FILE-01 → <strong>DC-01</strong>；APP-01 → <strong>FILE-01</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Lines</strong></td>
+<td><strong>Solid</strong> is confirmed; <strong>dotted</strong> is assumed.</td>
+<td><strong>实线</strong>是已确认；<strong>虚线</strong>是假设。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q4.1: Complete the readiness table. For each server, justify the classification, identify the information needed to confirm it, and propose remediation or further assessment.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 WEB-01</strong></td>
+<td><strong>Conditionally Ready</strong>: needs a secure endpoint, certificate and DNS change.</td>
+<td><strong>有条件就绪</strong>：需要安全入口、证书和 DNS 变更。</td>
+</tr>
+<tr>
+<td><strong>2 APP-01</strong></td>
+<td><strong>Conditionally Ready</strong>: confirm vendor support; moves with DB-01.</td>
+<td><strong>有条件就绪</strong>：确认厂商支持；和 DB-01 一起迁。</td>
+</tr>
+<tr>
+<td><strong>3 DB-01</strong></td>
+<td><strong>Insufficient Information</strong>: SQL version unknown; run the SQL assessment.</td>
+<td><strong>信息不足</strong>：SQL 版本未知；做 SQL 评估。</td>
+</tr>
+<tr>
+<td><strong>4 DC-01</strong></td>
+<td><strong>Conditionally Ready</strong>: build a new DC in Azure and let AD replicate.</td>
+<td><strong>有条件就绪</strong>：在 Azure 新建 DC，让 AD 复制。</td>
+</tr>
+<tr>
+<td><strong>5 FILE-01</strong></td>
+<td><strong>Not Ready</strong>: Windows Server 2012 R2 security updates end; upgrade the OS during migration.</td>
+<td><strong>未就绪</strong>：Windows Server 2012 R2 安全更新结束；迁移时升级操作系统。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q5.1: Explain how Azure Migrate supports Azure VM sizing and cost estimation.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 VM size and disk type</strong></td>
+<td>Recommended from <strong>configuration and performance data</strong>.</td>
+<td>根据<strong>配置和性能数据</strong>推荐。</td>
+</tr>
+<tr>
+<td><strong>2 Monthly cost</strong></td>
+<td><strong>Compute and storage</strong> for the chosen region and pricing.</td>
+<td>所选区域和定价下的<strong>计算和存储</strong>费用。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q5.2: Explain the difference between performance-based sizing and as-is sizing.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Performance-based</strong></td>
+<td>Uses <strong>actual usage</strong> over time, so VMs are right-sized.</td>
+<td>使用一段时间的<strong>实际使用量</strong>，所以规格合适。</td>
+</tr>
+<tr>
+<td><strong>2 As-is</strong></td>
+<td><strong>Copies on-premises specs</strong>, so VMs are often oversized.</td>
+<td><strong>照搬本地配置</strong>，所以常常配得过大。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q5.3: Identify the configuration and utilization data needed to recommend appropriate Azure VM sizes.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Configuration</strong></td>
+<td><strong>vCPU, RAM, disk sizes</strong>.</td>
+<td><strong>vCPU、内存、磁盘大小</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Utilization</strong></td>
+<td><strong>CPU and memory</strong> (average and peak), <strong>disk IOPS and throughput</strong>.</td>
+<td><strong>CPU 和内存</strong>（平均和峰值）、<strong>磁盘 IOPS 和吞吐量</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 DB-01</strong></td>
+<td>Database sizes.</td>
+<td>数据库大小。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q5.4: Describe three factors that could affect the estimated Azure operating cost.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 VM size and disk type</strong></td>
+<td>The <strong>biggest part</strong> of the bill.</td>
+<td>账单中<strong>最大的部分</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Licensing</strong></td>
+<td>Pay-as-you-go or <strong>Azure Hybrid Benefit</strong>.</td>
+<td>即用即付或 <strong>Azure Hybrid Benefit</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Commitment</strong></td>
+<td><strong>Reserved instances</strong> cost less than pay-as-you-go.</td>
+<td><strong>预留实例</strong>比即用即付便宜。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q5.5: Explain why the provided inventory is insufficient to produce reliable estimates.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Missing data</strong></td>
+<td><strong>No CPU, memory, disk or usage data</strong>, not even the SQL version, so any estimate is a guess.</td>
+<td><strong>没有 CPU、内存、磁盘或使用数据</strong>，连 SQL 版本都没有，所以任何估算都是猜测。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q6.1: Propose a high-level migration plan that considers business criticality, dependencies and migration groups, downtime constraints, migration risk, and readiness and required remediation.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Risk order</strong></td>
+<td>From <strong>lowest to highest risk</strong>; mission-critical DB-01 goes last.</td>
+<td>按<strong>风险从低到高</strong>；关键任务的 DB-01 最后迁。</td>
+</tr>
+<tr>
+<td><strong>2 Dependencies</strong></td>
+<td>The <strong>new DC first</strong>; group 1 moves together.</td>
+<td><strong>先建新 DC</strong>；组 1 一起迁。</td>
+</tr>
+<tr>
+<td><strong>3 Downtime</strong></td>
+<td><strong>One maintenance window</strong>; only the final sync and cutover.</td>
+<td><strong>一个维护窗口</strong>；只有最终同步和切换时停机。</td>
+</tr>
+<tr>
+<td><strong>4 Remediation</strong></td>
+<td>FILE-01 with its <strong>OS upgrade</strong>; group 1 after the <strong>SQL assessment</strong>.</td>
+<td>FILE-01 同时<strong>升级操作系统</strong>；组 1 在 <strong>SQL 评估</strong>之后。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q6.2: Preparation: Identify prerequisites needed before migrating production workloads.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Network</strong></td>
+<td>Build the <strong>Azure network</strong> and set up the <strong>VPN</strong>.</td>
+<td>搭建 <strong>Azure 网络</strong>并配置 <strong>VPN</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Assessment</strong></td>
+<td>Finish discovery and assessment; confirm <strong>RPO/RTO</strong>.</td>
+<td>完成发现和评估；确认 <strong>RPO/RTO</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Safety</strong></td>
+<td><strong>Back up</strong> all servers and agree on <strong>maintenance windows</strong>.</td>
+<td><strong>备份</strong>所有服务器，商定<strong>维护窗口</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q6.3: First workload or pilot: Explain what you would migrate or test first and why.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 FILE-01</strong></td>
+<td>A <strong>test migration</strong> with the OS upgrade.</td>
+<td>做<strong>测试迁移</strong>并升级操作系统。</td>
+</tr>
+<tr>
+<td><strong>2 Why first</strong></td>
+<td>Outside the application group, with an <strong>October 13</strong> deadline.</td>
+<td>不在应用组内，且有 <strong>10 月 13 日</strong>的截止日期。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q6.4: Migration order: Propose and justify the order of the remaining workloads or groups.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 New DC</strong></td>
+<td>Every server needs <strong>sign-in and DNS</strong>.</td>
+<td>每台服务器都需要<strong>登录和 DNS</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 FILE-01</strong></td>
+<td><strong>Few dependencies</strong> and a security deadline.</td>
+<td><strong>依赖少</strong>，且有安全截止日期。</td>
+</tr>
+<tr>
+<td><strong>3 Group 1</strong></td>
+<td>Last, because <strong>DB-01 is mission-critical</strong>.</td>
+<td>最后迁，因为 <strong>DB-01 是关键任务</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Retire DC-01</strong></td>
+<td>Only after <strong>nothing uses it</strong>.</td>
+<td>要等到<strong>没有东西再用它</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q6.5: Validation: Describe how you would confirm that migrated services work correctly.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Servers</strong></td>
+<td>Boot, join the <strong>domain</strong> and resolve <strong>DNS</strong>.</td>
+<td>能启动、加入<strong>域</strong>并解析 <strong>DNS</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Application</strong></td>
+<td>The website loads over <strong>HTTPS</strong>; APP-01 reads and writes DB-01.</td>
+<td>网站能通过 <strong>HTTPS</strong> 打开；APP-01 能读写 DB-01。</td>
+</tr>
+<tr>
+<td><strong>3 Data and files</strong></td>
+<td>DB-01 <strong>data matches the source</strong>; users open their shares.</td>
+<td>DB-01 <strong>数据与源一致</strong>；用户能打开共享。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q6.6: Rollback: Identify a condition that would trigger rollback and describe the high-level recovery approach.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Trigger</strong></td>
+<td>A failed check that <strong>cannot be fixed within the window</strong>, such as APP-01 unable to reach DB-01.</td>
+<td>检查失败且<strong>无法在窗口内修复</strong>，比如 APP-01 连不上 DB-01。</td>
+</tr>
+<tr>
+<td><strong>2 Recovery</strong></td>
+<td>Point <strong>DNS back</strong>, restart the originals, stop the Azure VMs.</td>
+<td>把 <strong>DNS 指回</strong>，重启原服务器，停掉 Azure 虚拟机。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q6.7: If you propose a pilot, explain how it can be tested without disrupting dependent production systems.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Test migration</strong></td>
+<td>A copy in an <strong>isolated Azure network</strong>; the original keeps running.</td>
+<td>在<strong>隔离的 Azure 网络</strong>里创建副本；原服务器继续运行。</td>
+</tr>
+<tr>
+<td><strong>2 Clean up</strong></td>
+<td>The copy is removed after testing.</td>
+<td>测试后清理副本。</td>
+</tr>
+</tbody>
+</table>
+<h4 id="lab-5">Lab 5</h4>
+<p><strong>Q1.1: Identify two reasons the organization migrated to the cloud.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Aging infrastructure</strong></td>
+<td>Over <strong>400 servers and 200 applications</strong> built over <strong>45 years</strong>.</td>
+<td>45 年积累的 <strong>400 多台服务器和 200 多个应用</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 State legislation</strong></td>
+<td>A <strong>2021 law</strong> encouraged agencies to use the cloud.</td>
+<td><strong>2021 年的法律</strong>鼓励机构使用云。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q1.2: Explain why rehosting was appropriate.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Speed</strong></td>
+<td>Moves VMs <strong>without code changes</strong>, within <strong>nine months</strong>.</td>
+<td><strong>不改代码</strong>迁移虚拟机，在<strong>九个月</strong>内完成。</td>
+</tr>
+<tr>
+<td><strong>2 No disruption</strong></td>
+<td>Azure VMware Solution runs the <strong>same VMware stack</strong>.</td>
+<td>Azure VMware Solution 运行<strong>相同的 VMware 技术栈</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Safe partial progress</strong></td>
+<td><strong>Waves</strong> mean a half-finished migration still works.</td>
+<td><strong>波次</strong>让迁到一半时系统仍能工作。</td>
+</tr>
+<tr>
+<td><strong>4 Modernize later</strong></td>
+<td>Applications improve one at a time afterwards.</td>
+<td>之后逐个改进应用。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q1.3: Explain how rehosting differs from replatforming.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Rehosting</strong></td>
+<td>Moves the VM <strong>as is</strong>; only where it runs changes.</td>
+<td>把虚拟机<strong>原样</strong>迁走；只改变运行位置。</td>
+</tr>
+<tr>
+<td><strong>2 Replatforming</strong></td>
+<td><strong>Small changes</strong> to use a managed platform; less operations work, more testing.</td>
+<td>做<strong>少量修改</strong>以使用托管平台；运维更省，测试更多。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2: Draw a high-level diagram showing the migration from an on-premises VMware environment to Azure VMware Solution.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 On-premises</strong></td>
+<td><strong>vSphere datacenter</strong> with application, database and AD DS/DNS VMs.</td>
+<td><strong>vSphere 数据中心</strong>，含应用、数据库和 AD DS/DNS 虚拟机。</td>
+</tr>
+<tr>
+<td><strong>2 ExpressRoute with Global Reach</strong></td>
+<td>The <strong>private link</strong> between the two sides.</td>
+<td>两边之间的<strong>私有连接</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Private cloud</strong></td>
+<td><strong>vCenter, NSX and vSAN</strong> on dedicated hosts.</td>
+<td>专用主机上的 <strong>vCenter、NSX 和 vSAN</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 VMware HCX</strong></td>
+<td>Moves VMs in waves and <strong>keeps their IP addresses</strong>.</td>
+<td>分波次迁移虚拟机并<strong>保留 IP 地址</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.1: Propose a phased migration plan.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Prepare</strong></td>
+<td>Private cloud, ExpressRoute, HCX, and a <strong>baseline</strong>.</td>
+<td>私有云、ExpressRoute、HCX 和<strong>基线</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 Discover and group</strong></td>
+<td>Map <strong>dependencies</strong> and build waves.</td>
+<td>梳理<strong>依赖</strong>并建立波次。</td>
+</tr>
+<tr>
+<td><strong>3 Pilot wave</strong></td>
+<td>About <strong>10 low-risk VMs</strong>.</td>
+<td>约 <strong>10 台低风险虚拟机</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Main waves</strong></td>
+<td>About <strong>75 VMs each</strong>, most critical last.</td>
+<td>每批约 <strong>75 台</strong>，最关键的最后迁。</td>
+</tr>
+<tr>
+<td><strong>5 Stabilize and decommission</strong></td>
+<td>Retire on-premises copies, then modernize.</td>
+<td>下线本地副本，然后现代化。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.2: Explain how you would group dependent workloads.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Find dependencies</strong></td>
+<td><strong>Dependency analysis</strong> and owner interviews.</td>
+<td><strong>依赖分析</strong>和访谈负责人。</td>
+</tr>
+<tr>
+<td><strong>2 Same wave</strong></td>
+<td>An application and <strong>everything it calls</strong>.</td>
+<td>应用和<strong>它调用的一切</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Shared services</strong></td>
+<td><strong>AD DS and DNS</strong> stay reachable from both sides, and move last.</td>
+<td><strong>AD DS 和 DNS</strong> 两边都能访问，最后迁。</td>
+</tr>
+<tr>
+<td><strong>4 Order</strong></td>
+<td>From <strong>lowest to highest criticality</strong>.</td>
+<td>按<strong>重要性从低到高</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.3: Explain how you would test a migration wave.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Before cutover</strong></td>
+<td>A <strong>test migration</strong> in an isolated network segment.</td>
+<td>在隔离网段做<strong>测试迁移</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 At cutover</strong></td>
+<td>VMs keep their <strong>IPs</strong>, smoke tests pass, <strong>owners sign off</strong>.</td>
+<td>虚拟机保留 <strong>IP</strong>，冒烟测试通过，<strong>负责人签字</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 After cutover</strong></td>
+<td>Compare with the <strong>baseline</strong>; confirm monitoring and backup.</td>
+<td>与<strong>基线</strong>比较；确认监控和备份。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3.4: Explain how you would decide whether to proceed or roll back.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Proceed</strong></td>
+<td>Tests pass, within about <strong>10% of baseline</strong>, <strong>48 hours</strong> with no critical incidents, backups complete.</td>
+<td>测试通过、在基线约 <strong>10%</strong> 以内、<strong>48 小时</strong>无严重事故、备份完成。</td>
+</tr>
+<tr>
+<td><strong>2 Roll back</strong></td>
+<td>A critical application cannot be fixed in the window, <strong>data is lost</strong>, or performance is far below baseline.</td>
+<td>关键应用无法在窗口内修复、<strong>数据丢失</strong>或性能远低于基线。</td>
+</tr>
+<tr>
+<td><strong>3 How</strong></td>
+<td>Keep on-premises VMs <strong>intact</strong>; move back with HCX or restart the originals, then reconcile data.</td>
+<td>保持本地虚拟机<strong>完好</strong>；用 HCX 迁回或重启原虚拟机，然后核对数据。</td>
+</tr>
+</tbody>
+</table>
+<h4 id="lab-6">Lab 6</h4>
+<p><strong>Q1: Key similarities and differences between equivalent services from the three cloud providers.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Similarities</strong></td>
+<td>Most services <strong>match one to one</strong>; all offer VMs, PaaS, serverless and Kubernetes.</td>
+<td>多数服务<strong>一一对应</strong>；都有虚拟机、PaaS、无服务器和 Kubernetes。</td>
+</tr>
+<tr>
+<td><strong>2 Differences</strong></td>
+<td><strong>RDS and Cloud SQL</strong> cover several engines in one service; Azure has one per engine.</td>
+<td><strong>RDS 和 Cloud SQL</strong> 一个服务支持多种引擎；Azure 每种引擎一个服务。</td>
+</tr>
+<tr>
+<td><strong>3 No match</strong></td>
+<td>Google has no desktop as a service (<strong>row 25</strong>); Azure has no media transcoding (<strong>row 29</strong>).</td>
+<td>Google 没有桌面即服务（<strong>第 25 行</strong>）；Azure 没有媒体转码（<strong>第 29 行</strong>）。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q2: Unique features or capabilities that certain services may offer compared to their counterparts.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Azure Event Hubs</strong></td>
+<td><strong>Apache Kafka</strong> compatible without code changes.</td>
+<td>不改代码就兼容 <strong>Apache Kafka</strong>。</td>
+</tr>
+<tr>
+<td><strong>2 AWS Step Functions</strong></td>
+<td>Calls over <strong>9,000 API actions</strong>.</td>
+<td>能调用 <strong>9000 多个 API 操作</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Amazon WorkSpaces</strong></td>
+<td><strong>Personal and Pools</strong> modes.</td>
+<td><strong>Personal 和 Pools</strong> 两种模式。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q3: How the naming conventions between cloud providers differ for similar services.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Keyword</th>
+<th>Description</th>
+<th>中文翻译</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 AWS</strong></td>
+<td><strong>Brand names and acronyms</strong>, such as EC2 and S3.</td>
+<td><strong>品牌名和缩写</strong>，比如 EC2 和 S3。</td>
+</tr>
+<tr>
+<td><strong>2 Azure</strong></td>
+<td><strong>&quot;Azure&quot; plus the function</strong>.</td>
+<td><strong>&quot;Azure&quot; 加功能名</strong>。</td>
+</tr>
+<tr>
+<td><strong>3 Google Cloud</strong></td>
+<td>Often <strong>&quot;Cloud&quot; plus the function</strong>.</td>
+<td>常用 <strong>&quot;Cloud&quot; 加功能名</strong>。</td>
+</tr>
+<tr>
+<td><strong>4 Names change</strong></td>
+<td>Azure Purview became <strong>Microsoft Purview</strong>.</td>
+<td>Azure Purview 变成 <strong>Microsoft Purview</strong>。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Comparison table: For each description, identify the corresponding service name in AWS, Azure, and Google Cloud.</strong></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Description</th>
+<th>AWS</th>
+<th>Azure</th>
+<th>Google Cloud</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>A compute service that provides scalable virtual machines for running applications.</td>
+<td><strong>Amazon EC2</strong></td>
+<td><strong>Azure Virtual Machines</strong></td>
+<td><strong>Compute Engine</strong></td>
+</tr>
+<tr>
+<td>2</td>
+<td>An object storage service used to store and retrieve data, commonly used for backups and static website content.</td>
+<td><strong>Amazon S3</strong></td>
+<td><strong>Azure Blob Storage</strong></td>
+<td><strong>Cloud Storage</strong></td>
+</tr>
+<tr>
+<td>3</td>
+<td>A managed relational database service that supports multiple database engines like MySQL, PostgreSQL, and SQL Server.</td>
+<td><strong>Amazon RDS</strong></td>
+<td><strong>Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL</strong></td>
+<td><strong>Cloud SQL</strong></td>
+</tr>
+<tr>
+<td>4</td>
+<td>A serverless compute service that allows you to run code in response to events without provisioning or managing servers.</td>
+<td><strong>AWS Lambda</strong></td>
+<td><strong>Azure Functions</strong></td>
+<td><strong>Cloud Run functions</strong></td>
+</tr>
+<tr>
+<td>5</td>
+<td>A virtual private network service that allows you to create isolated networks within the cloud provider's infrastructure.</td>
+<td><strong>Amazon VPC</strong></td>
+<td><strong>Azure Virtual Network</strong></td>
+<td><strong>Virtual Private Cloud (VPC)</strong></td>
+</tr>
+<tr>
+<td>6</td>
+<td>A content delivery network (CDN) service that delivers data, videos, applications, and APIs to customers around the world with low latency.</td>
+<td><strong>Amazon CloudFront</strong></td>
+<td><strong>Azure Front Door</strong></td>
+<td><strong>Cloud CDN</strong></td>
+</tr>
+<tr>
+<td>7</td>
+<td>A managed NoSQL database service designed for low-latency, high-scale applications.</td>
+<td><strong>Amazon DynamoDB</strong></td>
+<td><strong>Azure Cosmos DB</strong></td>
+<td><strong>Bigtable (Firestore for documents)</strong></td>
+</tr>
+<tr>
+<td>8</td>
+<td>A block storage service for use with virtual machines, offering persistent storage for data.</td>
+<td><strong>Amazon EBS</strong></td>
+<td><strong>Azure Managed Disks</strong></td>
+<td><strong>Persistent Disk / Hyperdisk</strong></td>
+</tr>
+<tr>
+<td>9</td>
+<td>A managed container orchestration service based on Kubernetes.</td>
+<td><strong>Amazon EKS</strong></td>
+<td><strong>Azure Kubernetes Service (AKS)</strong></td>
+<td><strong>Google Kubernetes Engine (GKE)</strong></td>
+</tr>
+<tr>
+<td>10</td>
+<td>A service for managing user access and encryption keys to secure cloud resources.</td>
+<td><strong>AWS IAM + AWS KMS</strong></td>
+<td><strong>Microsoft Entra ID + Azure RBAC + Azure Key Vault</strong></td>
+<td><strong>Cloud IAM + Cloud KMS</strong></td>
+</tr>
+<tr>
+<td>11</td>
+<td>A platform that automates application deployment and scaling without needing to manage infrastructure.</td>
+<td><strong>AWS Elastic Beanstalk</strong></td>
+<td><strong>Azure App Service</strong></td>
+<td><strong>App Engine</strong></td>
+</tr>
+<tr>
+<td>12</td>
+<td>A service that provides monitoring and logging of applications and infrastructure, offering insights into resource usage and performance.</td>
+<td><strong>Amazon CloudWatch</strong></td>
+<td><strong>Azure Monitor</strong></td>
+<td><strong>Cloud Monitoring + Cloud Logging</strong></td>
+</tr>
+<tr>
+<td>13</td>
+<td>A domain name system (DNS) service that routes traffic globally and translates domain names to IP addresses.</td>
+<td><strong>Amazon Route 53</strong></td>
+<td><strong>Azure DNS</strong></td>
+<td><strong>Cloud DNS</strong></td>
+</tr>
+<tr>
+<td>14</td>
+<td>A load balancing service that distributes incoming network traffic across multiple targets, improving application availability.</td>
+<td><strong>Elastic Load Balancing</strong></td>
+<td><strong>Azure Load Balancer (Layer 4), Azure Application Gateway (Layer 7)</strong></td>
+<td><strong>Cloud Load Balancing</strong></td>
+</tr>
+<tr>
+<td>15</td>
+<td>A service that automatically scales your cloud infrastructure based on demand, ensuring resources are available as needed.</td>
+<td><strong>Amazon EC2 Auto Scaling</strong></td>
+<td><strong>Virtual Machine Scale Sets with Azure Autoscale</strong></td>
+<td><strong>Compute Engine autoscaler (managed instance groups)</strong></td>
+</tr>
+<tr>
+<td>16</td>
+<td>A message queuing service that enables applications to send and receive messages between different components.</td>
+<td><strong>Amazon SQS</strong></td>
+<td><strong>Azure Queue Storage, Azure Service Bus</strong></td>
+<td><strong>Cloud Tasks (Pub/Sub for publish/subscribe)</strong></td>
+</tr>
+<tr>
+<td>17</td>
+<td>A managed real-time data streaming service that collects and processes large amounts of data from various sources.</td>
+<td><strong>Amazon Kinesis Data Streams</strong></td>
+<td><strong>Azure Event Hubs</strong></td>
+<td><strong>Pub/Sub</strong></td>
+</tr>
+<tr>
+<td>18</td>
+<td>A fully managed, highly scalable data warehouse service optimized for analytics and large-scale queries.</td>
+<td><strong>Amazon Redshift</strong></td>
+<td><strong>Azure Synapse Analytics</strong></td>
+<td><strong>BigQuery</strong></td>
+</tr>
+<tr>
+<td>19</td>
+<td>A service that automates the execution of workflows and allows the integration of different cloud services in a sequence of steps.</td>
+<td><strong>AWS Step Functions</strong></td>
+<td><strong>Azure Logic Apps</strong></td>
+<td><strong>Workflows</strong></td>
+</tr>
+<tr>
+<td>20</td>
+<td>A service that integrates multiple data sources and enables data migration, transformation, and movement across platforms.</td>
+<td><strong>AWS Glue</strong></td>
+<td><strong>Azure Data Factory</strong></td>
+<td><strong>Cloud Data Fusion</strong></td>
+</tr>
+<tr>
+<td>21</td>
+<td>A data catalog and governance service that helps manage metadata across your data estate, supporting compliance and security.</td>
+<td><strong>Amazon DataZone (AWS Glue Data Catalog)</strong></td>
+<td><strong>Microsoft Purview</strong></td>
+<td><strong>Knowledge Catalog</strong></td>
+</tr>
+<tr>
+<td>22</td>
+<td>A set of machine learning and AI services that provide pre-built models, APIs, and tools for developers to easily implement AI in their apps.</td>
+<td><strong>AWS AI services (Rekognition, Comprehend, Translate) and Amazon SageMaker</strong></td>
+<td><strong>Azure AI services (Vision, Language, Translator) and Azure Machine Learning</strong></td>
+<td><strong>Vertex AI and Cloud AI APIs (Vision AI, Natural Language AI, Translation AI)</strong></td>
+</tr>
+<tr>
+<td>23</td>
+<td>A service that allows you to define and deploy infrastructure using code, automating the management of cloud resources.</td>
+<td><strong>AWS CloudFormation</strong></td>
+<td><strong>Azure Resource Manager templates / Bicep</strong></td>
+<td><strong>Infrastructure Manager (Terraform)</strong></td>
+</tr>
+<tr>
+<td>24</td>
+<td>A fully managed CI/CD service that automates the building, testing, and deployment of applications to production environments.</td>
+<td><strong>AWS CodePipeline (with CodeBuild, CodeDeploy)</strong></td>
+<td><strong>Azure Pipelines (Azure DevOps)</strong></td>
+<td><strong>Cloud Build (with Cloud Deploy)</strong></td>
+</tr>
+<tr>
+<td>25</td>
+<td>A desktop as a service (DaaS) offering that allows you to deploy virtual desktops in the cloud and access them remotely.</td>
+<td><strong>Amazon WorkSpaces</strong></td>
+<td><strong>Azure Virtual Desktop</strong></td>
+<td>No first-party service (partner solutions)</td>
+</tr>
+<tr>
+<td>26</td>
+<td>A backup and disaster recovery service that helps to protect your data by creating backups and replicas of your cloud resources.</td>
+<td><strong>AWS Backup, AWS Elastic Disaster Recovery</strong></td>
+<td><strong>Azure Backup, Azure Site Recovery</strong></td>
+<td><strong>Backup and DR Service</strong></td>
+</tr>
+<tr>
+<td>27</td>
+<td>A service designed for big data analytics, allowing organizations to store, process, and analyze large datasets in real time.</td>
+<td><strong>Amazon EMR</strong></td>
+<td><strong>Azure HDInsight, Azure Databricks</strong></td>
+<td><strong>Managed Service for Apache Spark (formerly Dataproc)</strong></td>
+</tr>
+<tr>
+<td>28</td>
+<td>A file storage service for storing and sharing files with users, typically used in shared file systems across applications.</td>
+<td><strong>Amazon EFS</strong></td>
+<td><strong>Azure Files</strong></td>
+<td><strong>Filestore</strong></td>
+</tr>
+<tr>
+<td>29</td>
+<td>A service that helps you transcode, process, and stream media content such as video and audio.</td>
+<td><strong>AWS Elemental MediaConvert</strong></td>
+<td>No first-party service (Azure Media Services retired in 2024; partner solutions)</td>
+<td><strong>Transcoder API</strong></td>
+</tr>
+<tr>
+<td>30</td>
+<td>A real-time communication service used for sending notifications, emails, and text messages to users and devices.</td>
+<td><strong>Amazon SNS (email: Amazon SES)</strong></td>
+<td><strong>Azure Notification Hubs, Azure Communication Services</strong></td>
+<td><strong>Firebase Cloud Messaging (push only)</strong></td>
+</tr>
+</tbody>
+</table>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 10:48:35-05:00">11/03/2026 10:48:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

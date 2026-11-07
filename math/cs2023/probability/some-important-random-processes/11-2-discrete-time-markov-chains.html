@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>11.2 Discrete-Time Markov Chains | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="11.2 Discrete-Time Markov Chains, part of 11 Some Important Random Processes: 12 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="112-discrete-time-markov-chains">11.2 Discrete-Time Markov Chains</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/11-2-discrete-time-markov-chains.png" alt="11.2 Discrete-Time Markov Chains: its 7 subsections, one group each listing the terms it defines (12 in all)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>11.2 Discrete-Time Markov Chains</strong><br>离散时间马尔可夫链</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_1_introduction.php">Pishro-Nik, 2014, section 11.2</a></td>
+</tr>
+<tr>
+<td><strong>11.2.1 Introduction</strong><br>介绍</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_1_introduction.php">Pishro-Nik, 2014, section 11.2.1</a></td>
+</tr>
+<tr>
+<td><strong>Markov Chain</strong><br>马尔可夫链</td>
+<td>&quot;We say that this process is a <strong>Markov chain</strong> if <span class="math">\(\begin{align*} &amp;P(X_{m+1}=j \vert X_{m}=i, X_{m-1}=i_{m-1}, \cdots, X_{0}=i_{0})\\ &amp;\hspace{80pt}= P(X_{m+1}=j \vert X_{m}=i), \end{align*}\)</span> for all <span class="math">\(m, j, i, i_0, i_1, \cdots i_{m-1}\)</span>.&quot;</td>
+<td>若 <span class="math">\(\begin{align*} &amp;P(X_{m+1}=j \vert X_{m}=i, X_{m-1}=i_{m-1}, \cdots, X_{0}=i_{0})\\ &amp;\hspace{80pt}= P(X_{m+1}=j \vert X_{m}=i), \end{align*}\)</span> 对所有 <span class="math">\(m, j, i, i_0, i_1, \cdots i_{m-1}\)</span> 成立，则称该过程为<strong>马尔可夫链</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_1_introduction.php#:%7E:text=We%20say%20that%20this%20process%20is">Pishro-Nik, 2014, section 11.2.1</a></td>
+</tr>
+<tr>
+<td><strong>Transition Probabilities</strong><br>转移概率</td>
+<td>&quot;The numbers <span class="math">\(P(X_{m+1}=j \vert X_{m}=i)\)</span> are called the <strong>transition probabilities</strong>.&quot;</td>
+<td>数 <span class="math">\(P(X_{m+1}=j \vert X_{m}=i)\)</span> 称为<strong>转移概率</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_1_introduction.php#:%7E:text=The%20numbers%20are%20called%20the%20transition">Pishro-Nik, 2014, section 11.2.1</a></td>
+</tr>
+<tr>
+<td><strong>11.2.2 State Transition Matrix and Diagram</strong><br>状态转移矩阵与状态转移图</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_2_state_transition_matrix_and_diagram.php">Pishro-Nik, 2014, section 11.2.2</a></td>
+</tr>
+<tr>
+<td><strong>State Transition Matrix</strong><br>状态转移矩阵</td>
+<td>&quot;We often list the transition probabilities in a matrix. The matrix is called the <strong>state transition matrix</strong> or <strong>transition probability matrix</strong> and is usually shown by <span class="math">\(P\)</span>.&quot;</td>
+<td>我们常把转移概率列成一个矩阵。该矩阵称为<strong>状态转移矩阵</strong>或<strong>转移概率矩阵</strong>，通常记为 <span class="math">\(P\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_2_state_transition_matrix_and_diagram.php#:%7E:text=We%20often%20list%20the%20transition%20probabilities">Pishro-Nik, 2014, section 11.2.2</a></td>
+</tr>
+<tr>
+<td><strong>State Transition Diagram</strong><br>状态转移图</td>
+<td>&quot;A Markov chain is usually shown by a <strong>state transition diagram</strong>.&quot;</td>
+<td>马尔可夫链通常用<strong>状态转移图</strong>表示。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_2_state_transition_matrix_and_diagram.php#:%7E:text=A%20Markov%20chain%20is%20usually%20shown">Pishro-Nik, 2014, section 11.2.2</a></td>
+</tr>
+<tr>
+<td><strong>11.2.3 Probability Distributions</strong><br>概率分布</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_3_probability_distributions.php">Pishro-Nik, 2014, section 11.2.3</a></td>
+</tr>
+<tr>
+<td><strong>Chapman-Kolmogorov Equation</strong><br>查普曼-柯尔莫哥洛夫方程</td>
+<td>&quot;To obtain <span class="math">\(p^{(m+n)}_{ij}\)</span>, we sum over all possible intermediate states: <span class="math">\(\begin{align*} p^{(m+n)}_{ij}&amp;=P(X_{m+n}=j \vert X_0=i)\\ &amp;=\sum_{k \in S} p^{(m)}_{ik}p^{(n)}_{kj}. \end{align*}\)</span> The above equation is called the <strong>Chapman-Kolmogorov equation</strong>.&quot;</td>
+<td>为得到 <span class="math">\(p^{(m+n)}_{ij}\)</span>，我们对所有可能的中间状态求和：<span class="math">\(\begin{align*} p^{(m+n)}_{ij}&amp;=P(X_{m+n}=j \vert X_0=i)\\ &amp;=\sum_{k \in S} p^{(m)}_{ik}p^{(n)}_{kj}. \end{align*}\)</span> 上述方程称为<strong>查普曼-柯尔莫哥洛夫方程</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_3_probability_distributions.php#:%7E:text=To%20obtain%20%2C%20we%20sum%20over">Pishro-Nik, 2014, section 11.2.3</a></td>
+</tr>
+<tr>
+<td><strong>11.2.4 Classification of States</strong><br>状态的分类</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_4_classification_of_states.php">Pishro-Nik, 2014, section 11.2.4</a></td>
+</tr>
+<tr>
+<td><strong>Accessible State</strong><br>可达状态</td>
+<td>&quot;We say that state <span class="math">\(j\)</span> is <strong>accessible</strong> from state <span class="math">\(i\)</span>, written as <span class="math">\(i \rightarrow j\)</span>, if <span class="math">\(p^{(n)}_{ij}&gt;0\)</span> for some <span class="math">\(n\)</span>.&quot;</td>
+<td>若对某个 <span class="math">\(n\)</span> 有 <span class="math">\(p^{(n)}_{ij}&gt;0\)</span>，则称状态 <span class="math">\(j\)</span> 从状态 <span class="math">\(i\)</span> <strong>可达</strong>，记作 <span class="math">\(i \rightarrow j\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_4_classification_of_states.php#:%7E:text=We%20say%20that%20state%20is%20accessible">Pishro-Nik, 2014, section 11.2.4</a></td>
+</tr>
+<tr>
+<td><strong>11.2.5 Using the Law of Total Probability with Recursion</strong><br>结合递推使用全概率公式</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_5_using_the_law_of_total_probability_with_recursion.php">Pishro-Nik, 2014, section 11.2.5</a></td>
+</tr>
+<tr>
+<td><strong>Absorption Probabilities</strong><br>吸收概率</td>
+<td>&quot;Let <span class="math">\(l\in S\)</span> be an <strong>absorbing state</strong>. Define <span class="math">\(\begin{align*} a_i&amp;=P(\textrm{absorption in }l \vert  X_0=i), \quad \textrm{ for all }i \in S. \end{align*}\)</span>&quot;</td>
+<td>设 <span class="math">\(l\in S\)</span> 为一个<strong>吸收态</strong>。定义 <span class="math">\(\begin{align*} a_i&amp;=P(\textrm{absorption in }l \vert  X_0=i), \quad \textrm{ for all }i \in S. \end{align*}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_5_using_the_law_of_total_probability_with_recursion.php#:%7E:text=Let%20be%20an%20absorbing%20state.%20Define">Pishro-Nik, 2014, section 11.2.5</a></td>
+</tr>
+<tr>
+<td><strong>Mean Hitting Times</strong><br>平均击中时间</td>
+<td>&quot;Let <span class="math">\(T\)</span> be the <strong>first time</strong> the chain visits a state in <span class="math">\(A\)</span>. For all <span class="math">\(i \in S\)</span>, define <span class="math">\(\begin{align*} t_i&amp;=E[T \vert X_0=i]. \end{align*}\)</span>&quot;</td>
+<td>设 <span class="math">\(T\)</span> 为链访问 <span class="math">\(A\)</span> 中某一状态的<strong>首次时间</strong>。对所有 <span class="math">\(i \in S\)</span>，定义 <span class="math">\(\begin{align*} t_i&amp;=E[T \vert X_0=i]. \end{align*}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_5_using_the_law_of_total_probability_with_recursion.php#:%7E:text=Let%20be%20the%20first%20time%20the">Pishro-Nik, 2014, section 11.2.5</a></td>
+</tr>
+<tr>
+<td><strong>Mean Return Times</strong><br>平均返回时间</td>
+<td>&quot;Let <span class="math">\(r_l\)</span> be the <strong>mean return time</strong> to state <span class="math">\(l\)</span>.&quot;</td>
+<td>设 <span class="math">\(r_l\)</span> 为状态 <span class="math">\(l\)</span> 的<strong>平均返回时间</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_5_using_the_law_of_total_probability_with_recursion.php#:%7E:text=Let%20be%20the%20mean%20return%20time">Pishro-Nik, 2014, section 11.2.5</a></td>
+</tr>
+<tr>
+<td><strong>Absorbing State</strong><br>吸收态</td>
+<td>&quot;Note that states <span class="math">\(0\)</span> and <span class="math">\(3\)</span> have the following property: once you enter those states, you never leave them. For this reason, we call them <strong>absorbing states</strong>.&quot;</td>
+<td>注意状态 <span class="math">\(0\)</span> 和 <span class="math">\(3\)</span> 具有如下性质：一旦进入这些状态，就永远不会离开。因此我们称它们为<strong>吸收态</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_5_using_the_law_of_total_probability_with_recursion.php#:%7E:text=Note%20that%20states%20and%20have%20the">Pishro-Nik, 2014, section 11.2.5</a></td>
+</tr>
+<tr>
+<td><strong>11.2.6 Stationary and Limiting Distributions</strong><br>平稳分布与极限分布</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_6_stationary_and_limiting_distributions.php">Pishro-Nik, 2014, section 11.2.6</a></td>
+</tr>
+<tr>
+<td><strong>Limiting Distribution</strong><br>极限分布</td>
+<td>&quot;The probability distribution <span class="math">\(\pi=[\pi_0, \pi_1, \pi_2, \cdots ]\)</span> is called the <strong>limiting distribution</strong> of the Markov chain <span class="math">\(X_n\)</span> if <span class="math">\(\begin{align*} \pi_j=\lim_{n \rightarrow \infty} P(X_n=j \vert X_0=i) \end{align*}\)</span> for all <span class="math">\(i, j \in S\)</span>, and we have <span class="math">\(\begin{align*} \sum_{j \in S} \pi_j=1. \end{align*}\)</span>&quot;</td>
+<td>若 <span class="math">\(\begin{align*} \pi_j=\lim_{n \rightarrow \infty} P(X_n=j \vert X_0=i) \end{align*}\)</span> 对所有 <span class="math">\(i, j \in S\)</span> 成立，且有 <span class="math">\(\begin{align*} \sum_{j \in S} \pi_j=1. \end{align*}\)</span>，则称概率分布 <span class="math">\(\pi=[\pi_0, \pi_1, \pi_2, \cdots ]\)</span> 为马尔可夫链 <span class="math">\(X_n\)</span> 的<strong>极限分布</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_6_stationary_and_limiting_distributions.php#:%7E:text=The%20probability%20distribution%20is%20called%20the">Pishro-Nik, 2014, section 11.2.6</a></td>
+</tr>
+<tr>
+<td><strong>Limiting Distribution of a Finite Markov Chain</strong><br>有限马尔可夫链的极限分布</td>
+<td>&quot;The unique solution to the above equations is the <strong>limiting distribution</strong> of the Markov chain, i.e.,&quot;</td>
+<td>上述方程的唯一解即为该马尔可夫链的<strong>极限分布</strong>，即</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_6_stationary_and_limiting_distributions.php#:%7E:text=The%20unique%20solution%20to%20the%20above">Pishro-Nik, 2014, section 11.2.6</a></td>
+</tr>
+<tr>
+<td><strong>11.2.7 Solved Problems</strong><br>例题详解</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_2_7_solved_probs.php">Pishro-Nik, 2014, section 11.2.7</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Pishro-Nik, H. (2014). <em>Introduction to probability, statistics, and random processes</em>. Kappa Research. Retrieved October 28, 2026, from <a href="https://www.probabilitycourse.com/">https://www.probabilitycourse.com/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-28">10/28/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

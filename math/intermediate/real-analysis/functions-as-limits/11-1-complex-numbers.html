@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>11.1 Complex numbers | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="11.1 Complex numbers, part of 11 Functions as Limits in Real Analysis: 12 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="111-complex-numbers">11.1 Complex numbers</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/11-1-complex-numbers.png" alt="11.1 Complex numbers: its 12 terms, in 11 Functions as Limits."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>11.1 Complex numbers</strong><br>复数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Complex Number</strong><br>复数</td>
+<td>&quot;A <strong>complex number</strong> is just <strong>a pair <span class="math">\((x,y) \in \mathbb{R}^2\)</span> on which we define multiplication</strong>. We call the set the complex numbers and denote it by <span class="math">\(\mathbb{C}\)</span>.&quot;</td>
+<td><strong>复数</strong>就是<strong>在其上定义了乘法的数对 <span class="math">\((x,y) \in \mathbb{R}^2\)</span></strong>。这个集合称为复数集，记作 <span class="math">\(\mathbb{C}\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-3-3">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Real Axis</strong><br>实轴</td>
+<td>&quot;We identify <span class="math">\(x \in \mathbb{R}\)</span> with <span class="math">\((x,0) \in \mathbb{C}\)</span>. The <strong><span class="math">\(x\)</span>-axis</strong> is then called the <strong>real axis</strong> and the <span class="math">\(y\)</span>-axis is called the imaginary axis.&quot;</td>
+<td>把 <span class="math">\(x \in \mathbb{R}\)</span> 等同于 <span class="math">\((x,0) \in \mathbb{C}\)</span>。于是 <strong><span class="math">\(x\)</span> 轴</strong>称为<strong>实轴</strong>，<span class="math">\(y\)</span> 轴称为虚轴。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-3-3">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Imaginary Axis</strong><br>虚轴</td>
+<td>&quot;The <span class="math">\(x\)</span>-axis is then called the real axis and the <strong><span class="math">\(y\)</span>-axis</strong> is called the <strong>imaginary axis</strong>.&quot;</td>
+<td>于是 <span class="math">\(x\)</span> 轴称为实轴，<strong><span class="math">\(y\)</span> 轴</strong>称为<strong>虚轴</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-3-3">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Complex Plane</strong><br>复平面</td>
+<td>&quot;As <strong><span class="math">\(\mathbb{C}\)</span> is just the plane</strong>, we also call the set <span class="math">\(\mathbb{C}\)</span> the <strong>complex plane</strong>.&quot;</td>
+<td>由于 <strong><span class="math">\(\mathbb{C}\)</span> 就是平面</strong>，也把集合 <span class="math">\(\mathbb{C}\)</span> 称为<strong>复平面</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-3-3">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Real Part</strong><br>实部</td>
+<td>&quot;Suppose <span class="math">\(z= x+iy\)</span>. We call <strong><span class="math">\(x\)</span></strong> the <strong>real part</strong> of <span class="math">\(z\)</span>, and we call <span class="math">\(y\)</span> the imaginary part of <span class="math">\(z\)</span>. We write <span class="math">\(\operatorname{Re}\, z := x , \qquad \operatorname{Im}\, z := y .\)</span>&quot;</td>
+<td>设 <span class="math">\(z= x+iy\)</span>。称 <strong><span class="math">\(x\)</span></strong> 为 <span class="math">\(z\)</span> 的<strong>实部</strong>，称 <span class="math">\(y\)</span> 为 <span class="math">\(z\)</span> 的虚部，记作 <span class="math">\(\operatorname{Re}\, z := x , \qquad \operatorname{Im}\, z := y .\)</span></td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-3-9">Lebl, 2026, Definition 11.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Imaginary Part</strong><br>虚部</td>
+<td>&quot;We call <span class="math">\(x\)</span> the real part of <span class="math">\(z\)</span>, and we call <strong><span class="math">\(y\)</span></strong> the <strong>imaginary part</strong> of <span class="math">\(z\)</span>.&quot;</td>
+<td>称 <span class="math">\(x\)</span> 为 <span class="math">\(z\)</span> 的实部，称 <strong><span class="math">\(y\)</span></strong> 为 <span class="math">\(z\)</span> 的<strong>虚部</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-3-9">Lebl, 2026, Definition 11.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Triangle Inequality for Complex Numbers</strong><br>复数的三角不等式</td>
+<td>&quot;As <span class="math">\(\lvert z \rvert\)</span> is the euclidean norm on <span class="math">\(\mathbb{R}^2\)</span>, we have the <strong>triangle inequality</strong> of both flavors: <strong><span class="math">\(\lvert z+w \rvert \leq \lvert z \rvert+\lvert w \rvert \qquad \text{and} \qquad \big\lvert \lvert z \rvert-\lvert w \rvert \big\rvert \leq \lvert z-w \rvert\)</span></strong>.&quot;</td>
+<td>由于 <span class="math">\(\lvert z \rvert\)</span> 是 <span class="math">\(\mathbb{R}^2\)</span> 上的欧几里得范数，两种<strong>三角不等式</strong>都成立：<strong><span class="math">\(\lvert z+w \rvert \leq \lvert z \rvert+\lvert w \rvert \qquad \text{and} \qquad \big\lvert \lvert z \rvert-\lvert w \rvert \big\rvert \leq \lvert z-w \rvert\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-3-11">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Convergent Complex Series</strong><br>收敛的复级数</td>
+<td>&quot;Let <span class="math">\(\{ z_n \}_{n=1}^\infty\)</span> be a sequence of complex numbers. The series <span class="math">\(\sum_{n=1}^\infty z_n\)</span> <strong>converges</strong> if <strong>the sequence of partial sums converges</strong>, that is, if <span class="math">\(\lim_{k\to\infty} \sum_{n=1}^k z_n \qquad \text{exists.}\)</span>&quot;</td>
+<td>设 <span class="math">\(\{ z_n \}_{n=1}^\infty\)</span> 是复数序列。若<strong>部分和序列收敛</strong>，即 <span class="math">\(\lim_{k\to\infty} \sum_{n=1}^k z_n \qquad \text{exists.}\)</span>，则级数 <span class="math">\(\sum_{n=1}^\infty z_n\)</span> <strong>收敛</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-4-6">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Absolute Convergence of Complex Series</strong><br>复级数的绝对收敛</td>
+<td>&quot;A series <strong>converges absolutely</strong> if <strong><span class="math">\(\sum_{n=1}^\infty \lvert z_n \rvert\)</span> converges</strong>.&quot;</td>
+<td>若 <strong><span class="math">\(\sum_{n=1}^\infty \lvert z_n \rvert\)</span> 收敛</strong>，则称级数<strong>绝对收敛</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-4-6">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Cauchy Complex Series</strong><br>柯西复级数</td>
+<td>&quot;We say a series is <strong>Cauchy</strong> if <strong>the sequence of partial sums is Cauchy</strong>.&quot;</td>
+<td>若<strong>部分和序列是柯西序列</strong>，则称级数是<strong>柯西的</strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-4-7">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Riemann Integrable Complex-Valued Function</strong><br>黎曼可积的复值函数</td>
+<td>&quot;Suppose we wish to integrate <span class="math">\(f \colon [a,b] \to \mathbb{C}\)</span>. We write <span class="math">\(f = u+i\,v\)</span> for real-valued <span class="math">\(u\)</span> and <span class="math">\(v\)</span>. We say that <span class="math">\(f\)</span> is <strong>Riemann integrable</strong> if <strong><span class="math">\(u\)</span> and <span class="math">\(v\)</span> are Riemann integrable</strong>, and in this case we define <span class="math">\(\int_a^b f := \int_a^b u + i \int_a^b v\)</span>.&quot;</td>
+<td>要对 <span class="math">\(f \colon [a,b] \to \mathbb{C}\)</span> 积分，写 <span class="math">\(f = u+i\,v\)</span>，其中 <span class="math">\(u\)</span>、<span class="math">\(v\)</span> 是实值函数。若 <strong><span class="math">\(u\)</span> 与 <span class="math">\(v\)</span> 黎曼可积</strong>，则称 <span class="math">\(f\)</span> <strong>黎曼可积</strong>，并定义 <span class="math">\(\int_a^b f := \int_a^b u + i \int_a^b v\)</span>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-5-3">Lebl, 2026, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>Derivative of a Complex-Valued Function</strong><br>复值函数的导数</td>
+<td>&quot;Similarly when we differentiate, write <span class="math">\(f \colon [a,b] \to \mathbb{C}\)</span> as <span class="math">\(f = u+i\,v\)</span>. Thinking of <span class="math">\(\mathbb{C}\)</span> as <span class="math">\(\mathbb{R}^2\)</span>, we say that <span class="math">\(f\)</span> is differentiable if <strong><span class="math">\(u\)</span> and <span class="math">\(v\)</span> are differentiable</strong>. In other words, we write the <strong>derivative</strong> as <strong><span class="math">\(f'(t) := u'(t) + i \, v'(t)\)</span></strong>.&quot;</td>
+<td>类似地，求导时把 <span class="math">\(f \colon [a,b] \to \mathbb{C}\)</span> 写成 <span class="math">\(f = u+i\,v\)</span>。把 <span class="math">\(\mathbb{C}\)</span> 看作 <span class="math">\(\mathbb{R}^2\)</span>，若 <strong><span class="math">\(u\)</span> 与 <span class="math">\(v\)</span> 可微</strong>，则称 <span class="math">\(f\)</span> 可微。换言之，把<strong>导数</strong>写成 <strong><span class="math">\(f'(t) := u'(t) + i \, v'(t)\)</span></strong>。</td>
+<td><a href="https://www.jirka.org/ra/html/sec_complexnums.html#sec_complexnums-5-4">Lebl, 2026, section 11.1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Lebl, J. (2026). <em>Basic analysis I &amp; II: Introduction to real analysis</em> (May 22, 2026 edition). Retrieved October 29, 2026, from <a href="https://www.jirka.org/ra/html/">https://www.jirka.org/ra/html/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 11:58:07-04:00">10/31/2026 11:58:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

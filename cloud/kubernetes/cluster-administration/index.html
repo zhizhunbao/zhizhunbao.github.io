@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>12 Cluster Administration | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 12 Cluster Administration: 12.1 Node Shutdowns, 12.2 Swap memory management, 12.3 Node Autoscaling, 12.4 Cluster Networking, 12.5 Observability, 12.6 Logging Architecture, 12.7 Compatibility Version For Kubernetes Control Plane Components, 12.8 Metrics For Kubernetes System Components, 12.9 Metrics for Kubernetes Object States, 12.10 System Logs, 12.11 Traces For Kubernetes System Components, 12.12 Proxies in Kubernetes, 12.13 API Priority and Fairness, 12.14 Coordinated Leader Election.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Home">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="12-cluster-administration">12 Cluster Administration</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/cluster-administration.png" alt="12 Cluster Administration: its pages, numbered here, each with the sections of its page that hold terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>12 Cluster Administration</strong><br>集群管理</td>
+<td>&quot;<strong>Lower-level detail</strong> relevant to <strong>creating or administering a Kubernetes cluster</strong>.&quot;</td>
+<td><strong>底层细节</strong>，关于<strong>创建或管理 Kubernetes 集群</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/#:%7E:text=Lower-level%20detail%20relevant%20to%20creating%20or%20administering">The Kubernetes Authors, n.d.-b, &quot;Cluster Administration&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="node-shutdown.html">12.1 Node Shutdowns</a></strong><br>节点关闭</td>
+<td>(context) &quot;In a Kubernetes cluster, <strong>a node</strong> can be <strong>shut down in a planned graceful way</strong> or <strong>unexpectedly</strong> because of reasons such as a power outage or something else external.&quot;</td>
+<td>（语境）在 Kubernetes 集群中，<strong>节点</strong>可能<strong>按计划体面地关闭</strong>，也可能<strong>意外关闭</strong>，原因可能是断电或其他外部事件。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/node-shutdown/#:%7E:text=In%20a%20Kubernetes%20cluster%2C%20a%20%5Bnode%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Fconcepts%2Farchitecture%2Fnodes%2F%29%20can">The Kubernetes Authors, n.d.-j, &quot;Node Shutdowns&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="swap-memory-management.html">12.2 Swap memory management</a></strong><br>交换内存管理</td>
+<td>(context) &quot;Kubernetes can be configured to <strong>use swap memory on a node</strong>, allowing the kernel to <strong>free up physical memory</strong> by <strong>swapping out pages to backing storage</strong>.&quot;</td>
+<td>（语境）Kubernetes 可以配置为<strong>在节点上使用交换内存</strong>，让内核<strong>释放物理内存</strong>，方法是<strong>把内存页换出到后备存储</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/swap-memory-management/#:%7E:text=Kubernetes%20can%20be%20configured%20to%20use%20swap">The Kubernetes Authors, n.d.-m, &quot;Swap memory management&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="node-autoscaling.html">12.3 Node Autoscaling</a></strong><br>节点自动扩缩</td>
+<td>&quot;<strong>Automatically provision and consolidate the Nodes</strong> in your cluster to <strong>adapt to demand</strong> and <strong>optimize cost</strong>.&quot;</td>
+<td><strong>自动供应和合并集群中的节点</strong>，以<strong>适应需求</strong>并<strong>优化成本</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/node-autoscaling/#:%7E:text=Automatically%20provision%20and%20consolidate%20the%20Nodes%20in">The Kubernetes Authors, n.d.-i, &quot;Node Autoscaling&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="networking.html">12.4 Cluster Networking</a></strong><br>集群网络</td>
+<td>(context) &quot;<strong>Networking</strong> is <strong>a central part of Kubernetes</strong>, but it can be <strong>challenging to understand</strong> exactly how it is expected to work.&quot;</td>
+<td>（语境）<strong>网络</strong>是 <strong>Kubernetes 的核心部分</strong>，但它究竟应当如何工作却可能<strong>难以准确理解</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/networking/#:%7E:text=Networking%20is%20a%20central%20part%20of%20Kubernetes%2C">The Kubernetes Authors, n.d.-c, &quot;Cluster Networking&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="observability.html">12.5 Observability</a></strong><br>可观测性</td>
+<td>&quot;In Kubernetes, <strong>observability</strong> is the process of <strong>collecting and analyzing metrics, logs, and traces</strong>—often referred to as <strong>the three pillars of observability</strong>—in order to obtain a better understanding of <strong>the internal state, performance, and health of the cluster</strong>.&quot;</td>
+<td>在 Kubernetes 中，<strong>可观测性</strong>是<strong>收集和分析指标、日志和追踪</strong>的过程（这三者常被称为<strong>可观测性的三大支柱</strong>），以便更好地了解<strong>集群的内部状态、性能和健康状况</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/observability/#:%7E:text=In%20Kubernetes%2C%20observability%20is%20the%20process%20of">The Kubernetes Authors, n.d.-k, &quot;Observability&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="logging.html">12.6 Logging Architecture</a></strong><br>日志架构</td>
+<td>(context) &quot;<strong>Application logs</strong> can help you <strong>understand what is happening inside your application</strong>.&quot;</td>
+<td>（语境）<strong>应用日志</strong>可以帮助你<strong>了解应用内部正在发生什么</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/#:%7E:text=Application%20logs%20can%20help%20you%20understand%20what">The Kubernetes Authors, n.d.-f, &quot;Logging Architecture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="compatibility-version.html">12.7 Compatibility Version For Kubernetes Control Plane Components</a></strong><br>Kubernetes 控制平面组件的兼容版本</td>
+<td>(context) &quot;Since release v1.32, we introduced <strong>configurable version compatibility and emulation options</strong> to <strong>Kubernetes control plane components</strong> to <strong>make upgrades safer</strong> by providing more control and increasing the granularity of steps available to cluster administrators.&quot;</td>
+<td>（语境）自 v1.32 版本起，我们引入了<strong>可配置的版本兼容和模拟选项</strong>，用于 <strong>Kubernetes 控制平面组件</strong>，以<strong>让升级更安全</strong>：提供更多控制，细化集群管理员可用的步骤。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/compatibility-version/#:%7E:text=Since%20release%20v1.32%2C%20we%20introduced%20configurable%20version">The Kubernetes Authors, n.d.-d, &quot;Compatibility Version For Kubernetes Control Plane Components&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="system-metrics.html">12.8 Metrics For Kubernetes System Components</a></strong><br>Kubernetes 系统组件的指标</td>
+<td>&quot;<strong>System component metrics</strong> can give <strong>a better look into what is happening inside them</strong>.&quot;</td>
+<td><strong>系统组件指标</strong>可以让你<strong>更好地了解组件内部正在发生什么</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/system-metrics/#:%7E:text=System%20component%20metrics%20can%20give%20a%20better">The Kubernetes Authors, n.d.-h, &quot;Metrics For Kubernetes System Components&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="kube-state-metrics.html">12.9 Metrics for Kubernetes Object States</a></strong><br>Kubernetes 对象状态的指标</td>
+<td>(context) &quot;kube-state-metrics, <strong>an add-on agent</strong> to <strong>generate and expose cluster-level metrics</strong>.&quot;</td>
+<td>（语境）kube-state-metrics，<strong>一个附加代理</strong>，用来<strong>生成并暴露集群级指标</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/kube-state-metrics/#:%7E:text=kube-state-metrics%2C%20an%20add-on%20agent%20to%20generate%20and">The Kubernetes Authors, n.d.-g, &quot;Metrics for Kubernetes Object States&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="system-logs.html">12.10 System Logs</a></strong><br>系统日志</td>
+<td>&quot;System component logs <strong>record events happening in cluster</strong>, which can be <strong>very useful for debugging</strong>.&quot;</td>
+<td>系统组件日志<strong>记录集群中发生的事件</strong>，对<strong>调试非常有用</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/system-logs/#:%7E:text=System%20component%20logs%20record%20events%20happening%20in">The Kubernetes Authors, n.d.-n, &quot;System Logs&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="system-traces.html">12.11 Traces For Kubernetes System Components</a></strong><br>Kubernetes 系统组件的追踪</td>
+<td>&quot;<strong>System component traces</strong> record <strong>the latency of and relationships between operations</strong> in the cluster.&quot;</td>
+<td><strong>系统组件追踪</strong>记录<strong>集群中各操作的延迟及其相互关系</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/system-traces/#:%7E:text=System%20component%20traces%20record%20the%20latency%20of">The Kubernetes Authors, n.d.-o, &quot;Traces For Kubernetes System Components&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="proxies.html">12.12 Proxies in Kubernetes</a></strong><br>Kubernetes 中的代理</td>
+<td>(context) &quot;There are <strong>several different proxies</strong> you may encounter <strong>when using Kubernetes</strong>:&quot;</td>
+<td>（语境）有<strong>几种不同的代理</strong>，你可能在<strong>使用 Kubernetes 时</strong>遇到：</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/proxies/#:%7E:text=There%20are%20several%20different%20proxies%20you%20may">The Kubernetes Authors, n.d.-l, &quot;Proxies&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="flow-control.html">12.13 API Priority and Fairness</a></strong><br>API 优先级与公平性</td>
+<td>&quot;<strong>The API Priority and Fairness feature</strong> (APF) is <strong>an alternative</strong> that <strong>improves upon aforementioned max-inflight limitations</strong>.&quot;</td>
+<td><strong>API 优先级与公平性功能</strong>（APF）是<strong>一种替代方案</strong>，<strong>改进了前面提到的最大并发请求限制</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/flow-control/#:%7E:text=The%20API%20Priority%20and%20Fairness%20feature%20%28APF%29">The Kubernetes Authors, n.d.-a, &quot;API Priority and Fairness&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="coordinated-leader-election.html">12.14 Coordinated Leader Election</a></strong><br>协调式领导者选举</td>
+<td>&quot;Kubernetes 1.37 includes a beta feature that <strong>allows control plane components</strong> to <strong>deterministically select a leader</strong> via <em><strong>coordinated leader election</strong></em>.&quot;</td>
+<td>Kubernetes 1.37 包含一项 beta 功能，<strong>允许控制平面组件</strong>以<strong>确定性方式选出领导者</strong>，方法是<strong>协调式领导者选举</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/cluster-administration/coordinated-leader-election/#:%7E:text=Kubernetes%201.37%20includes%20a%20beta%20feature%20that">The Kubernetes Authors, n.d.-e, &quot;Coordinated Leader Election&quot;, para. 3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.-a). <em>API Priority and Fairness</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/flow-control/">https://kubernetes.io/docs/concepts/cluster-administration/flow-control/</a></p>
+<p>The Kubernetes Authors. (n.d.-b). <em>Cluster Administration</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/">https://kubernetes.io/docs/concepts/cluster-administration/</a></p>
+<p>The Kubernetes Authors. (n.d.-c). <em>Cluster Networking</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/networking/">https://kubernetes.io/docs/concepts/cluster-administration/networking/</a></p>
+<p>The Kubernetes Authors. (n.d.-d). <em>Compatibility Version For Kubernetes Control Plane Components</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/compatibility-version/">https://kubernetes.io/docs/concepts/cluster-administration/compatibility-version/</a></p>
+<p>The Kubernetes Authors. (n.d.-e). <em>Coordinated Leader Election</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/coordinated-leader-election/">https://kubernetes.io/docs/concepts/cluster-administration/coordinated-leader-election/</a></p>
+<p>The Kubernetes Authors. (n.d.-f). <em>Logging Architecture</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/logging/">https://kubernetes.io/docs/concepts/cluster-administration/logging/</a></p>
+<p>The Kubernetes Authors. (n.d.-g). <em>Metrics for Kubernetes Object States</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/kube-state-metrics/">https://kubernetes.io/docs/concepts/cluster-administration/kube-state-metrics/</a></p>
+<p>The Kubernetes Authors. (n.d.-h). <em>Metrics For Kubernetes System Components</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/system-metrics/">https://kubernetes.io/docs/concepts/cluster-administration/system-metrics/</a></p>
+<p>The Kubernetes Authors. (n.d.-i). <em>Node Autoscaling</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/node-autoscaling/">https://kubernetes.io/docs/concepts/cluster-administration/node-autoscaling/</a></p>
+<p>The Kubernetes Authors. (n.d.-j). <em>Node Shutdowns</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/node-shutdown/">https://kubernetes.io/docs/concepts/cluster-administration/node-shutdown/</a></p>
+<p>The Kubernetes Authors. (n.d.-k). <em>Observability</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/observability/">https://kubernetes.io/docs/concepts/cluster-administration/observability/</a></p>
+<p>The Kubernetes Authors. (n.d.-l). <em>Proxies in Kubernetes</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/proxies/">https://kubernetes.io/docs/concepts/cluster-administration/proxies/</a></p>
+<p>The Kubernetes Authors. (n.d.-m). <em>Swap memory management</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/swap-memory-management/">https://kubernetes.io/docs/concepts/cluster-administration/swap-memory-management/</a></p>
+<p>The Kubernetes Authors. (n.d.-n). <em>System Logs</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/system-logs/">https://kubernetes.io/docs/concepts/cluster-administration/system-logs/</a></p>
+<p>The Kubernetes Authors. (n.d.-o). <em>Traces For Kubernetes System Components</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/cluster-administration/system-traces/">https://kubernetes.io/docs/concepts/cluster-administration/system-traces/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

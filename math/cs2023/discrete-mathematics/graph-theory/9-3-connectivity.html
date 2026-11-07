@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>9.3 Connectivity | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="9.3 Connectivity, part of 9 Graph Theory: 4 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Home">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="93-connectivity">9.3 Connectivity</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/9-3-connectivity.png" alt="9.3 Connectivity: its 4 terms, in 9 Graph Theory."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>9.3 Connectivity</strong><br>连通性</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://discretemath.org/ads/s-Connectivity.html">Doerr &amp; Levasseur, n.d., section 9.3</a></td>
+</tr>
+<tr>
+<td><strong>Maximal Path Theorem</strong><br>极大路径定理</td>
+<td>&quot;If a graph has <span class="math">\(n\)</span> vertices and vertex <span class="math">\(u\)</span> is connected to vertex <span class="math">\(w\text{,}\)</span> then <strong>there exists a path from <span class="math">\(u\)</span> to <span class="math">\(w\)</span> of length no more than <span class="math">\(n\text{.}\)</span></strong>&quot;</td>
+<td>若图有 <span class="math">\(n\)</span> 个顶点且顶点 <span class="math">\(u\)</span> 与顶点 <span class="math">\(w\)</span> 相连，则<strong>存在从 <span class="math">\(u\)</span> 到 <span class="math">\(w\)</span> 长度不超过 <span class="math">\(n\)</span> 的路径</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-Connectivity.html#theorem-9-3-1">Doerr &amp; Levasseur, n.d., Theorem 9.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Adjacency Matrix Method</strong><br>邻接矩阵法</td>
+<td>&quot;Suppose that the information about edges in a graph is stored in an <strong>adjacency matrix</strong>, <span class="math">\(G\text{.}\)</span> The relation, <span class="math">\(r\text{,}\)</span> that <span class="math">\(G\)</span> defines is <span class="math">\(v r w\)</span> if there is an edge connecting <span class="math">\(v\)</span> to <span class="math">\(w\text{.}\)</span> Recall that the composition of <span class="math">\(r\)</span> with itself, <span class="math">\(r^2\text{,}\)</span> is defined by <span class="math">\(v r^2 w\)</span> if there exists a vertex <span class="math">\(y\)</span> such that <span class="math">\(v r y\)</span> and <span class="math">\(y r w\text{;}\)</span> that is, <span class="math">\(v\)</span> is connected to <span class="math">\(w\)</span> by a path of length 2. We could prove by induction that the relation <span class="math">\(r^k\text{,}\)</span> <span class="math">\(k\geq 1\text{,}\)</span> is defined by <span class="math">\(v r^k w\)</span> if and only if there is a path of length <span class="math">\(k\)</span> from <span class="math">\(v\)</span> to <span class="math">\(w\text{.}\)</span> Since the transitive closure, <span class="math">\(r^+\text{,}\)</span> is the union of <span class="math">\(r\text{,}\)</span> <span class="math">\(r^2\)</span> <span class="math">\(,r^3,\ldots\text{,}\)</span> we can answer our connectivity question by determining the <strong>transitive closure of <span class="math">\(r\text{,}\)</span></strong> which can be done most easily by keeping our relation in matrix form. Theorem 9.3.2 is significant in our calculations because it tells us that we need only go as far as <span class="math">\(G^n\)</span> to determine the matrix of the transitive closure.&quot;</td>
+<td>设图中的边信息存储在<strong>邻接矩阵</strong> <span class="math">\(G\)</span> 中。<span class="math">\(G\)</span> 所定义的关系 <span class="math">\(r\)</span> 为：若有边连接 <span class="math">\(v\)</span> 与 <span class="math">\(w\)</span>，则 <span class="math">\(v r w\)</span>。回忆 <span class="math">\(r\)</span> 与自身的复合 <span class="math">\(r^2\)</span> 定义为：若存在顶点 <span class="math">\(y\)</span> 使得 <span class="math">\(v r y\)</span> 且 <span class="math">\(y r w\)</span>，则 <span class="math">\(v r^2 w\)</span>；也就是说，<span class="math">\(v\)</span> 通过长度为 2 的路径与 <span class="math">\(w\)</span> 相连。我们可以用归纳法证明，关系 <span class="math">\(r^k\)</span>，（<span class="math">\(k\geq 1\)</span>）定义为：<span class="math">\(v r^k w\)</span> 当且仅当存在从 <span class="math">\(v\)</span> 到 <span class="math">\(w\)</span> 长度为 <span class="math">\(k\)</span> 的路径。由于传递闭包 <span class="math">\(r^+\)</span>， 是 <span class="math">\(r\)</span>, <span class="math">\(r^2\)</span> <span class="math">\(,r^3,\ldots\)</span>， 的并，我们可以通过求 <strong><span class="math">\(r\)</span> 的传递闭包</strong>来回答连通性问题，而这在把关系保存为矩阵形式时最容易做到。定理 9.3.2 对我们的计算很重要，因为它告诉我们，只需计算到 <span class="math">\(G^n\)</span> 就能确定传递闭包的矩阵。</td>
+<td><a href="https://discretemath.org/ads/s-Connectivity.html#ss-adjacency-matrix-method-3">Doerr &amp; Levasseur, n.d., Algorithm 9.3.3</a></td>
+</tr>
+<tr>
+<td><strong>Breadth-first Search</strong><br>广度优先搜索</td>
+<td>&quot;A <strong>broadcasting algorithm for finding a path between vertex <span class="math">\(i\)</span> and vertex <span class="math">\(j\)</span></strong> of a graph having <span class="math">\(n\)</span> vertices. Each item <span class="math">\(V_k\)</span> of a list <span class="math">\(V=\left\{V_1, V_2, \ldots, V_n\right\}\text{,}\)</span> consists of a Boolean field <span class="math">\(V_k.\text{found}\)</span> and an integer field <span class="math">\(V_k.\text{from}\text{.}\)</span> The sets <span class="math">\(D_1\text{,}\)</span> <span class="math">\(D_2, \dots\text{,}\)</span> called <strong>depth sets</strong>, have the property that if <span class="math">\(k \in D_r\text{,}\)</span> then the shortest path from vertex <span class="math">\(i\)</span> to vertex <span class="math">\(k\)</span> is of length <span class="math">\(r\text{.}\)</span> In Step 5, a stack is used to put the vertex list for the path from the vertex <span class="math">\(i\)</span> to vertex <span class="math">\(j\)</span> in the proper order. That stack is the output of the algorithm.&quot;</td>
+<td>一种在有 <span class="math">\(n\)</span> 个顶点的图中<strong>寻找顶点 <span class="math">\(i\)</span> 与顶点 <span class="math">\(j\)</span> 之间路径的广播算法</strong>。列表 <span class="math">\(V=\left\{V_1, V_2, \ldots, V_n\right\}\)</span>， 的每一项 <span class="math">\(V_k\)</span> 由一个布尔字段 <span class="math">\(V_k.\text{found}\)</span> 和一个整数字段 <span class="math">\(V_k.\text{from}\)</span>。 组成。集合 <span class="math">\(D_1\)</span>，, <span class="math">\(D_2, \dots\)</span>，称为<strong>深度集</strong>，具有如下性质：若 <span class="math">\(k \in D_r\)</span>，则从顶点 <span class="math">\(i\)</span> 到顶点 <span class="math">\(k\)</span> 的最短路径长度为 <span class="math">\(r\)</span>。在第 5 步中，用栈把从顶点 <span class="math">\(i\)</span> 到顶点 <span class="math">\(j\)</span> 的路径顶点表按正确顺序排列。该栈就是算法的输出。</td>
+<td><a href="https://discretemath.org/ads/s-Connectivity.html#alg-breadth-first">Doerr &amp; Levasseur, n.d., Algorithm 9.3.8</a></td>
+</tr>
+<tr>
+<td><strong>Connectivity</strong><br>连通性</td>
+<td>&quot;Vertex <span class="math">\(v\)</span> is <strong>connected</strong> to vertex <span class="math">\(w\)</span> if there is a path from <span class="math">\(v\)</span> to <span class="math">\(w\text{.}\)</span> Two vertices are <strong>strongly connected</strong> if they are connected in both directions to one another.&quot;</td>
+<td>如果存在从 <span class="math">\(v\)</span> 到 <span class="math">\(w\)</span> 的路径，则顶点 <span class="math">\(v\)</span> 与顶点 <span class="math">\(w\)</span> <strong>连通</strong>。如果两个顶点彼此在两个方向上都连通，则它们<strong>强连通</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-Connectivity.html#ss-connectivity-prelim-3-2">Doerr &amp; Levasseur, n.d., section 9.3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Doerr, A., &amp; Levasseur, K. (n.d.). <em>Applied discrete structures</em>. Retrieved October 28, 2026, from <a href="https://discretemath.org/ads/index-ads.html">https://discretemath.org/ads/index-ads.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-29 19:52:55-04:00">10/29/2026 19:52:55</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>
