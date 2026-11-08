@@ -31,12 +31,17 @@ items:
     href: college-rankings/ministry-of-colleges-universities-research-excellence-and-security.md
   - name: "7.2 Research Infosource"
     href: college-rankings/research-infosource.md
-- name: "8. News"
+- name: "8. Graduate Outcomes"
+  href: graduate-outcomes/index.md
+  items:
+  - name: "8.1 Statistics Canada"
+    href: graduate-outcomes/statistics-canada.md
+- name: "9. News"
   href: news/index.md
   items:
-  - name: "8.1 2026"
+  - name: "9.1 2026"
     href: news/2026.md
-  - name: "8.2 2025"
+  - name: "9.2 2025"
     href: news/2025.md
-  - name: "8.3 2024"
+  - name: "9.3 2024"
     href: news/2024.md

@@ -22,6 +22,7 @@ ms.date: 2026-11-03
 | **[Microsoft](microsoft.md)**<br>微软 | "Microsoft's mission is to **empower every person and every organization** on the planet to **achieve more**." | 微软的使命是**予力全球每一人、每一组织**，**成就不凡**。 | [Microsoft, n.d., para. 1](https://www.microsoft.com/en-us/about#:~:text=Microsoft%27s%20mission%20is%20to%20empower%20every%20person%20and) |
 | **[University Rankings](university-rankings/index.md)**<br>大学排名 | "(context) **the position or level** something or someone has in **a list that compares their importance, quality, success, etc.**" | （语境）某事物或某人所处的**位置或级别**，处在**一份比较其重要性、质量、成功程度等的列表**中 | [Cambridge University Press & Assessment, n.d., "ranking" noun, Business English](https://dictionary.cambridge.org/dictionary/english/ranking#:~:text=the%20position%20or%20level%20something) |
 | **[College Rankings](college-rankings/index.md)**<br>学院排名 | "(context) **the position or level** something or someone has in **a list that compares their importance, quality, success, etc.**" | （语境）某事物或某人所处的**位置或级别**，处在**一份比较其重要性、质量、成功程度等的列表**中 | [Cambridge University Press & Assessment, n.d., "ranking" noun, Business English](https://dictionary.cambridge.org/dictionary/english/ranking#:~:text=the%20position%20or%20level%20something) |
+| **[Graduate Outcomes](graduate-outcomes/index.md)**<br>毕业生结果 | "(context) Each year, Statistics Canada releases data on **the labour market outcomes of college and university graduates** using data from **the Education and Labour Market Longitudinal Platform (ELMLP)**." | （语境）加拿大统计局每年利用**教育与劳动力市场纵向平台（ELMLP）**的数据，发布**学院和大学毕业生的劳动力市场结果**。 | [Statistics Canada, 2026, "1 Introduction", para. 1](https://www150.statcan.gc.ca/n1/pub/37-20-0001/372000012026001-eng.htm#:~:text=Each%20year%2C%20Statistics%20Canada%20releases%20data) |
 | **[News](news/index.md)**<br>新闻 | "**information or reports about recent events**" | **关于近期事件的信息或报道** | [Cambridge University Press & Assessment, n.d., "news" noun, definition 1](https://dictionary.cambridge.org/dictionary/english/news) |
 
 ## References
@@ -41,3 +42,5 @@ IDC. (n.d.). *About IDC*. Retrieved November 3, 2026, from <https://www.idc.com/
 LinkedIn. (n.d.). *About LinkedIn*. Retrieved November 3, 2026, from <https://about.linkedin.com/>
 
 Microsoft. (n.d.). *About Microsoft*. Retrieved November 3, 2026, from <https://www.microsoft.com/en-us/about>
+
+Statistics Canada. (2026, June 24). *Technical reference guides for the Education and Labour Market Longitudinal Platform (ELMLP): Labour market outcome indicators of postsecondary graduates, 2010 to 2022* (Catalogue no. 37-20-0001). <https://www150.statcan.gc.ca/n1/pub/37-20-0001/372000012026001-eng.htm>
