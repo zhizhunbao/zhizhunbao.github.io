@@ -1,7 +1,7 @@
 ---
 title: "2. Government Agencies"
 description: "Sources kind Government Agencies: 3 of the publishers and documents this site cites."
-ms.date: 2026-10-27
+ms.date: 2026-11-07
 ---
 
 # 2. Government Agencies
@@ -15,12 +15,15 @@ ms.date: 2026-10-27
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Government Agencies**<br>政府机构 | "a **government organization**" | **政府组织** | [Cambridge University Press & Assessment, n.d., "agency" noun (ORGANIZATION)](https://dictionary.cambridge.org/dictionary/english/agency) |
+| **[MOLEG](moleg.md)**<br>韩国法制处（법제처） | (Definition pending) | （定义待补） | [Ministry of Government Legislation, n.d., 국가법령정보센터](https://www.law.go.kr/) |
 | **[NIST](nist.md)**<br>美国国家标准与技术研究院 | "The National Institute of Standards and Technology (NIST) was founded in 1901 and is now part of the **U.S. Department of Commerce**. NIST is one of the nation's **oldest physical science laboratories**." | 美国国家标准与技术研究院（NIST）成立于 1901 年，现隶属于**美国商务部**。NIST 是美国**历史最悠久的物理科学实验室**之一。 | [National Institute of Standards and Technology, n.d., para. 1](https://www.nist.gov/about-nist#:~:text=The%20National%20Institute%20of%20Standards%20and%20Technology%20%28NIST%29%20was%20founded) |
 | **[NLM](nlm.md)**<br>美国国家医学图书馆 | "The world’s **largest biomedical library**, NLM maintains and makes available a **vast print collection** and produces **electronic information resources** on a wide range of topics ..." | 作为世界上**最大的生物医学图书馆**，NLM 维护并提供**大量印刷馆藏**，并制作涵盖广泛主题的**电子信息资源**…… | [National Library of Medicine, n.d., para. 1](https://www.nlm.nih.gov/about/index.html#:~:text=The%20world%E2%80%99s%20largest%20biomedical%20library%2C%20NLM%20maintains%20and%20makes) |
 
 ## References
 
 Cambridge University Press & Assessment. (n.d.). Agency. In *Cambridge Dictionary*. Retrieved October 27, 2026, from <https://dictionary.cambridge.org/dictionary/english/agency>
+
+Ministry of Government Legislation. (n.d.). *국가법령정보센터*. Retrieved November 7, 2026, from <https://www.law.go.kr/>
 
 National Institute of Standards and Technology. (n.d.). *About NIST*. Retrieved October 27, 2026, from <https://www.nist.gov/about-nist>
 

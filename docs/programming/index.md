@@ -8,7 +8,7 @@ ms.date: 2026-11-07
 
 ## Classification
 
-![Programming sorted into fourteen groups: the curricula CS2023 FPL with its 22 knowledge units, CS2023 SDF with its 5, CS2023 SE with its 9 and CS2023 SPD with its 12, the compiler infrastructure LLVM, the frameworks Next.js, Payload and React, the libraries Beautiful Soup, HTTPX and node-postgres, the package and project manager uv, the programming languages C, C++, Java, JavaScript, Python and TypeScript, the runtime environment Node.js, the software testing frameworks, standard and certification Cypress, ISO/IEC/IEEE 29119, ISTQB Certified Tester Foundation Level (CTFL) v4.0, Jest, Playwright, pytest, Selenium, Unittest and Vitest, the static analysis tools ESLint, Pyrefly and Ruff, the version control tools Git and GitHub, and the web technologies CSS, GraphQL, HTML and MDN Web Docs.](media/programming.png)
+![Programming sorted into fifteen groups: the curricula CS2023 FPL with its 22 knowledge units, CS2023 SDF with its 5, CS2023 SE with its 9 and CS2023 SPD with its 12, the compiler infrastructure LLVM, the frameworks Next.js, Payload and React, the libraries Beautiful Soup, HTTPX and node-postgres, the package and project manager uv, the programming languages C, C++, Java, JavaScript, Python and TypeScript, the runtime environment Node.js, the software testing frameworks, standard and certification Cypress, ISO/IEC/IEEE 29119, ISTQB Certified Tester Foundation Level (CTFL) v4.0, Jest, Playwright, pytest, Selenium, Unittest and Vitest, the static analysis tools ESLint, Pyrefly and Ruff, the static site generator DocFX, the version control tools Git and GitHub, and the web technologies CSS, GraphQL, HTML and MDN Web Docs.](media/programming.png)
 
 ## Glossary
 
@@ -27,6 +27,7 @@ ms.date: 2026-11-07
 | **Runtime environments**<br>运行时环境 | "Node.js® is a free, open-source, cross-platform **JavaScript runtime environment** that lets developers **create servers, web apps, command line tools and scripts**." | Node.js® 是一个免费、开源、跨平台的 **JavaScript 运行时环境**，让开发者能够**创建服务器、Web 应用、命令行工具和脚本**。 | [OpenJS Foundation, n.d.-c, home page, para. 1](https://nodejs.org/en#:~:text=JavaScript%20runtime%20environment) |
 | **Software testing**<br>软件测试 | (Definition pending) | （定义待补） | [International Software Testing Qualifications Board, 2024, section 1.1 "What is Testing?"](https://istqb.org/wp-content/uploads/2024/11/ISTQB_CTFL_Syllabus_v4.0.1.pdf) |
 | **Static analysis**<br>静态分析 | (Definition pending) | （定义待补） | [OpenJS Foundation, n.d.-a](https://eslint.org/docs/latest/); [Meta Platforms, n.d.-a](https://pyrefly.org/en/docs/); [Astral, n.d.-a](https://docs.astral.sh/ruff/) |
+| **Static site generators**<br>静态站点生成器 | (Definition pending) | （定义待补） | [.NET Foundation, n.d., "Basic Concepts", "Introduction" section](https://dotnet.github.io/docfx/docs/basic-concepts.html#introduction) |
 | **Version control**<br>版本控制 | "Git is a free and open source **distributed version control system** designed to handle everything from **small to very large projects** with **speed and efficiency**." | Git 是一个免费开源的**分布式版本控制系统**，旨在处理从**小型到超大型的项目**，并兼顾**速度和效率**。 | [Git, n.d.-b, home page, para. 1](https://git-scm.com/#:~:text=distributed%20version%20control%20system%20designed%20to%20handle) |
 | **Web technologies**<br>Web 技术 | (Definition pending) | （定义待补） | [WHATWG, n.d.](https://html.spec.whatwg.org/multipage/); [Mozilla, n.d.](https://developer.mozilla.org/en-US/docs/Learn_web_development) |
 
@@ -75,6 +76,8 @@ Microsoft. (n.d.-a). *Playwright documentation* (Version 1.64.1). Retrieved Octo
 Microsoft. (n.d.-b). *TypeScript documentation* (Version 7.0.2). Retrieved October 25, 2026, from <https://www.typescriptlang.org/docs/>
 
 Mozilla. (n.d.). *Learn web development*. MDN Web Docs. Retrieved October 25, 2026, from <https://developer.mozilla.org/en-US/docs/Learn_web_development>
+
+.NET Foundation. (n.d.). *Docfx documentation*. Retrieved November 7, 2026, from <https://dotnet.github.io/docfx/>
 
 node-postgres. (n.d.). *node-postgres documentation*. Retrieved November 7, 2026, from <https://node-postgres.com/>
 

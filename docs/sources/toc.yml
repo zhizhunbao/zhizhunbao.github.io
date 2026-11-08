@@ -25,9 +25,11 @@ items:
 - name: "2. Government Agencies"
   href: government-agencies/index.md
   items:
-  - name: "2.1 NIST"
+  - name: "2.1 MOLEG"
+    href: government-agencies/moleg.md
+  - name: "2.2 NIST"
     href: government-agencies/nist.md
-  - name: "2.2 NLM"
+  - name: "2.3 NLM"
     href: government-agencies/nlm.md
 - name: "3. Learned Societies"
   href: learned-societies/index.md

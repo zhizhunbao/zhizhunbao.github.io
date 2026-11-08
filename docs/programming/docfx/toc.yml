@@ -1,0 +1,62 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Get Started"
+  href: get-started/index.md
+  items:
+  - name: "1.1 Basic Concepts"
+    href: get-started/1-1-basic-concepts.md
+- name: "2. Essentials"
+  href: essentials/index.md
+  items:
+  - name: "2.1 Markdown"
+    href: essentials/2-1-markdown.md
+  - name: "2.2 Table of Contents"
+    href: essentials/2-2-table-of-contents.md
+  - name: "2.3 Config"
+    href: essentials/2-3-config.md
+  - name: "2.4 Template"
+    href: essentials/2-4-template.md
+  - name: "2.5 .NET API Docs"
+    href: essentials/2-5-dotnet-api-docs.md
+  - name: "2.6 REST API Docs"
+    href: essentials/2-6-rest-api-docs.md
+  - name: "2.7 Links and Cross References"
+    href: essentials/2-7-links-and-cross-references.md
+  - name: "2.8 Create PDF Files"
+    href: essentials/2-8-create-pdf-files.md
+- name: "3. Advanced"
+  href: advanced/index.md
+  items:
+  - name: "3.1 Additional Languages"
+    href: advanced/3-1-additional-languages.md
+- name: "4. Reference"
+  href: reference/index.md
+  items:
+  - name: "4.1 Config Reference"
+    href: reference/4-1-config-reference.md
+  - name: "4.2 Commandline Reference"
+    href: reference/commandline-reference/index.md
+    items:
+    - name: "4.2.1 docfx"
+      href: reference/commandline-reference/4-2-1-docfx.md
+    - name: "4.2.2 docfx metadata"
+      href: reference/commandline-reference/4-2-2-docfx-metadata.md
+    - name: "4.2.3 docfx build"
+      href: reference/commandline-reference/4-2-3-docfx-build.md
+    - name: "4.2.4 docfx pdf"
+      href: reference/commandline-reference/4-2-4-docfx-pdf.md
+    - name: "4.2.5 docfx serve"
+      href: reference/commandline-reference/4-2-5-docfx-serve.md
+    - name: "4.2.6 docfx init"
+      href: reference/commandline-reference/4-2-6-docfx-init.md
+    - name: "4.2.7 docfx template"
+      href: reference/commandline-reference/4-2-7-docfx-template.md
+    - name: "4.2.8 docfx download"
+      href: reference/commandline-reference/4-2-8-docfx-download.md
+    - name: "4.2.9 docfx merge"
+      href: reference/commandline-reference/4-2-9-docfx-merge.md
+  - name: "4.3 Environment Variables"
+    href: reference/4-3-environment-variables.md
+  - name: "4.4 API Page"
+    href: reference/4-4-api-page.md

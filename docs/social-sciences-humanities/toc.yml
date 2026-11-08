@@ -5,3 +5,7 @@ items:
   href: elsst/toc.yml
 - name: "UNESCO Thesaurus"
   href: unesco-thesaurus/toc.yml
+- name: Law
+  items:
+  - name: "Korean Law"
+    href: korean-law/toc.yml

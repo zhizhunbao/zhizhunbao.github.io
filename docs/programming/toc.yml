@@ -79,6 +79,10 @@ items:
     href: pyrefly/index.md
   - name: Ruff
     href: ruff/index.md
+- name: Static site generators
+  items:
+  - name: DocFX
+    href: docfx/toc.yml
 - name: Version control
   items:
   - name: Git
