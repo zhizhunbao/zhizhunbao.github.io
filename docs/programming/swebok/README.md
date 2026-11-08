@@ -2,12 +2,33 @@
 
 Not published (`docfx.json` excludes `**/README.md`). Source: Guide to the Software Engineering Body of Knowledge (SWEBOK Guide), editor Hironori Washizaki, IEEE Computer Society. Two cached forms:
 
-- its table of contents, the "SWEBOK Guide V4.0 Topics" page (https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics, anchors `#1` to `#18`), cached 2026-11-07 (`design-refs/official-docs/urls_kb_swebok.txt`): the source of the 18 chapter rows of the Overview;
+- its table of contents, the "SWEBOK Guide V4.0 Topics" page (https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics, anchors `#1` to `#18`), cached 2026-11-07 (`design-refs/official-docs/urls_kb_swebok.txt`): the first source of the 18 chapter rows of the Overview, replaced the same day by the PDF;
 - the Guide itself, v4.0a ("Released August 2026", 411 pages), downloaded by Frank on 2026-11-07 through the form on the V4 download page (https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4), cached as `cache/pdf/swebok-v4.pdf`, with Chapter 1 as text in `cache/pdf/swebok-v4-ch01.txt` (PDF pages 43 to 62, printed pages 1-1 to 1-20): the source of every Chapter 1 page. Sources cite the chapter, section, paragraph and printed page, linked to the download page.
 
-Status (2026-11-07): Chapter 1 written; asked for by Frank as the outline of requirements engineering (how to tell whether a product's features are complete), for his other sessions. Chapters 2 to 18 are rows of the entry Overview only, titles from the topics page, with no pages or menu entries until asked for. The Appendix on Standards has no row.
+Status (2026-11-07): Chapter 1 written; asked for by Frank as the outline of requirements engineering (how to tell whether a product's features are complete), for his other sessions. Chapters 2 to 18 are skeletons (Frank: "其他章节也补上", the same day): a folder per chapter, a page per topic, each topic's subtopics (and their fourth-level items, such as 2: 3.2.1) as rows named as table-of-contents titles with the Guide's numbers, definitions pending, from the PDF's bookmarks with the printed page of each. Their Chinese names were drafted with the local model (qwen3.6, 686 titles) and unified with Chapter 1 (干系人 for stakeholder, 架构 for architecture, 构造 for construction); they are checked as each chapter is read. Each chapter's terms are added when it is read, as Chapter 1's were. The appendices (A Knowledge Area Description Specifications, B IEEE and ISO/IEC Standards, C Consolidated Reference List) have no rows.
 
-Names: the PDF titles Chapter 1 "Software Requirements" and 4.5 "Additional Attributes of Requirements", where the topics page has "Software Requirements Fundamentals" and "Additional Attributes of Requirement"; the pages follow the PDF.
+Names: the PDF's titles are kept where the topics page differs: Chapter 1 "Software Requirements" (topics page: "Software Requirements Fundamentals"), 4.5 "Additional Attributes of Requirements" ("Requirement"), Chapter 5 "Software Testing" ("Software Testing Fundamentals").
+
+| Chapter | Topics | Subtopics | Read |
+|---|---|---|---|
+| 1 Software Requirements | 8 | 37 | yes |
+| 2 Software Architecture | 4 | 19 | no |
+| 3 Software Design | 6 | 36 | no |
+| 4 Software Construction | 5 | 38 | no |
+| 5 Software Testing | 8 | 99 | no |
+| 6 Software Engineering Operations | 6 | 31 | no |
+| 7 Software Maintenance | 5 | 32 | no |
+| 8 Software Configuration Management | 7 | 33 | no |
+| 9 Software Engineering Management | 7 | 24 | no |
+| 10 Software Engineering Process | 3 | 17 | no |
+| 11 Software Engineering Models and Methods | 4 | 15 | no |
+| 12 Software Quality | 4 | 24 | no |
+| 13 Software Security | 6 | 19 | no |
+| 14 Software Engineering Professional Practice | 3 | 32 | no |
+| 15 Software Engineering Economics | 10 | 56 | no |
+| 16 Computing Foundations | 9 | 57 | no |
+| 17 Mathematical Foundations | 13 | 20 | no |
+| 18 Engineering Foundations | 10 | 22 | no |
 
 ## Chapter 1: what is a term
 

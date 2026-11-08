@@ -20,3 +20,274 @@ items:
     href: software-requirements/7-practical-considerations.md
   - name: "8. Software Requirements Tools"
     href: software-requirements/8-software-requirements-tools.md
+- name: "Chapter 2: Software Architecture"
+  href: software-architecture/index.md
+  items:
+  - name: "1. Software Architecture Fundamentals"
+    href: software-architecture/1-software-architecture-fundamentals.md
+  - name: "2. Software Architecture Description"
+    href: software-architecture/2-software-architecture-description.md
+  - name: "3. Software Architecture Process"
+    href: software-architecture/3-software-architecture-process.md
+  - name: "4. Software Architecture Evaluation"
+    href: software-architecture/4-software-architecture-evaluation.md
+- name: "Chapter 3: Software Design"
+  href: software-design/index.md
+  items:
+  - name: "1. Software Design Fundamentals"
+    href: software-design/1-software-design-fundamentals.md
+  - name: "2. Software Design Processes"
+    href: software-design/2-software-design-processes.md
+  - name: "3. Software Design Qualities"
+    href: software-design/3-software-design-qualities.md
+  - name: "4. Recording Software Designs"
+    href: software-design/4-recording-software-designs.md
+  - name: "5. Software Design Strategies and Methods"
+    href: software-design/5-software-design-strategies-and-methods.md
+  - name: "6. Software Design Quality Analysis and Evaluation"
+    href: software-design/6-software-design-quality-analysis-and-evaluation.md
+- name: "Chapter 4: Software Construction"
+  href: software-construction/index.md
+  items:
+  - name: "1. Software Construction Fundamentals"
+    href: software-construction/1-software-construction-fundamentals.md
+  - name: "2. Managing Construction"
+    href: software-construction/2-managing-construction.md
+  - name: "3. Practical Considerations"
+    href: software-construction/3-practical-considerations.md
+  - name: "4. Construction Technologies"
+    href: software-construction/4-construction-technologies.md
+  - name: "5. Software Construction Tools"
+    href: software-construction/5-software-construction-tools.md
+- name: "Chapter 5: Software Testing"
+  href: software-testing/index.md
+  items:
+  - name: "1. Software Testing Fundamentals"
+    href: software-testing/1-software-testing-fundamentals.md
+  - name: "2. Test Levels"
+    href: software-testing/2-test-levels.md
+  - name: "3. Test Techniques"
+    href: software-testing/3-test-techniques.md
+  - name: "4. Test-Related Measures"
+    href: software-testing/4-test-related-measures.md
+  - name: "5. Test Process"
+    href: software-testing/5-test-process.md
+  - name: "6. Software Testing in the Development Processes and the Application Domains"
+    href: software-testing/6-software-testing-in-the-development-processes-and-the-application-domains.md
+  - name: "7. Testing of and Testing Through Emerging Technologies"
+    href: software-testing/7-testing-of-and-testing-through-emerging-technologies.md
+  - name: "8. Software Testing Tools"
+    href: software-testing/8-software-testing-tools.md
+- name: "Chapter 6: Software Engineering Operations"
+  href: software-engineering-operations/index.md
+  items:
+  - name: "1. Software Engineering Operations Fundamentals"
+    href: software-engineering-operations/1-software-engineering-operations-fundamentals.md
+  - name: "2. Software Engineering Operations Planning"
+    href: software-engineering-operations/2-software-engineering-operations-planning.md
+  - name: "3. Software Engineering OperationsDelivery"
+    href: software-engineering-operations/3-software-engineering-operationsdelivery.md
+  - name: "4. Software Engineering Operations Control"
+    href: software-engineering-operations/4-software-engineering-operations-control.md
+  - name: "5. Practical Considerations"
+    href: software-engineering-operations/5-practical-considerations.md
+  - name: "6. Software Engineering Operations Tools"
+    href: software-engineering-operations/6-software-engineering-operations-tools.md
+- name: "Chapter 7: Software Maintenance"
+  href: software-maintenance/index.md
+  items:
+  - name: "1. Software Maintenance Fundamentals"
+    href: software-maintenance/1-software-maintenance-fundamentals.md
+  - name: "2. Key Issues in Software Maintenance"
+    href: software-maintenance/2-key-issues-in-software-maintenance.md
+  - name: "3. Software Maintenance Processes"
+    href: software-maintenance/3-software-maintenance-processes.md
+  - name: "4. Software Maintenance Techniques"
+    href: software-maintenance/4-software-maintenance-techniques.md
+  - name: "5. Software Maintenance Tools"
+    href: software-maintenance/5-software-maintenance-tools.md
+- name: "Chapter 8: Software Configuration Management"
+  href: software-configuration-management/index.md
+  items:
+  - name: "1. Management of the SCM Process"
+    href: software-configuration-management/1-management-of-the-scm-process.md
+  - name: "2. Software Configuration Identification"
+    href: software-configuration-management/2-software-configuration-identification.md
+  - name: "3. Software Configuration Change Control"
+    href: software-configuration-management/3-software-configuration-change-control.md
+  - name: "4. Software Configuration Status Accounting"
+    href: software-configuration-management/4-software-configuration-status-accounting.md
+  - name: "5. Software Configuration Auditing"
+    href: software-configuration-management/5-software-configuration-auditing.md
+  - name: "6. Software Release Management and Delivery"
+    href: software-configuration-management/6-software-release-management-and-delivery.md
+  - name: "7. Software Configuration Management Tools"
+    href: software-configuration-management/7-software-configuration-management-tools.md
+- name: "Chapter 9: Software Engineering Management"
+  href: software-engineering-management/index.md
+  items:
+  - name: "1. Initiation and Scope Definition"
+    href: software-engineering-management/1-initiation-and-scope-definition.md
+  - name: "2. Software Project Planning"
+    href: software-engineering-management/2-software-project-planning.md
+  - name: "3. Software Project Execution"
+    href: software-engineering-management/3-software-project-execution.md
+  - name: "4. Software Review and Evaluation"
+    href: software-engineering-management/4-software-review-and-evaluation.md
+  - name: "5. Closure"
+    href: software-engineering-management/5-closure.md
+  - name: "6. Software Engineering Measurement"
+    href: software-engineering-management/6-software-engineering-measurement.md
+  - name: "7. Software Engineering Management Tools"
+    href: software-engineering-management/7-software-engineering-management-tools.md
+- name: "Chapter 10: Software Engineering Process"
+  href: software-engineering-process/index.md
+  items:
+  - name: "1. Software Engineering Process Fundamentals"
+    href: software-engineering-process/1-software-engineering-process-fundamentals.md
+  - name: "2. Life Cycles"
+    href: software-engineering-process/2-life-cycles.md
+  - name: "3. Software Process Assessment and Improvement"
+    href: software-engineering-process/3-software-process-assessment-and-improvement.md
+- name: "Chapter 11: Software Engineering Models and Methods"
+  href: software-engineering-models-and-methods/index.md
+  items:
+  - name: "1. Modeling"
+    href: software-engineering-models-and-methods/1-modeling.md
+  - name: "2. Types of Models"
+    href: software-engineering-models-and-methods/2-types-of-models.md
+  - name: "3. Analysis of Models"
+    href: software-engineering-models-and-methods/3-analysis-of-models.md
+  - name: "4. Software Engineering Methods"
+    href: software-engineering-models-and-methods/4-software-engineering-methods.md
+- name: "Chapter 12: Software Quality"
+  href: software-quality/index.md
+  items:
+  - name: "1. Software Quality Fundamentals"
+    href: software-quality/1-software-quality-fundamentals.md
+  - name: "2. Software Quality Management Process"
+    href: software-quality/2-software-quality-management-process.md
+  - name: "3. Software Quality Assurance Process"
+    href: software-quality/3-software-quality-assurance-process.md
+  - name: "4. Software Quality Tools"
+    href: software-quality/4-software-quality-tools.md
+- name: "Chapter 13: Software Security"
+  href: software-security/index.md
+  items:
+  - name: "1. Software Security Fundamentals"
+    href: software-security/1-software-security-fundamentals.md
+  - name: "2. Security Management and Organization"
+    href: software-security/2-security-management-and-organization.md
+  - name: "3. Software Security Engineering and Processes"
+    href: software-security/3-software-security-engineering-and-processes.md
+  - name: "4. Security Engineering for Software Systems"
+    href: software-security/4-security-engineering-for-software-systems.md
+  - name: "5. Software Security Tools"
+    href: software-security/5-software-security-tools.md
+  - name: "6. Domain-Specific Software Security"
+    href: software-security/6-domain-specific-software-security.md
+- name: "Chapter 14: Software Engineering Professional Practice"
+  href: software-engineering-professional-practice/index.md
+  items:
+  - name: "1. Professionalism"
+    href: software-engineering-professional-practice/1-professionalism.md
+  - name: "2. Group Dynamics and Psychology"
+    href: software-engineering-professional-practice/2-group-dynamics-and-psychology.md
+  - name: "3. Communication Skills"
+    href: software-engineering-professional-practice/3-communication-skills.md
+- name: "Chapter 15: Software Engineering Economics"
+  href: software-engineering-economics/index.md
+  items:
+  - name: "1. Software Engineering Economics Fundamentals"
+    href: software-engineering-economics/1-software-engineering-economics-fundamentals.md
+  - name: "2. The Engineering Decision-Making Process"
+    href: software-engineering-economics/2-the-engineering-decision-making-process.md
+  - name: "3. For-Profit Decision-Making"
+    href: software-engineering-economics/3-for-profit-decision-making.md
+  - name: "4. Nonprofit Decision-Making"
+    href: software-engineering-economics/4-nonprofit-decision-making.md
+  - name: "5. Present Economy Decision-Making"
+    href: software-engineering-economics/5-present-economy-decision-making.md
+  - name: "6. Multiple-Attribute Decision-Making"
+    href: software-engineering-economics/6-multiple-attribute-decision-making.md
+  - name: "7. Identifying and Characterizing Intangible Assets"
+    href: software-engineering-economics/7-identifying-and-characterizing-intangible-assets.md
+  - name: "8. Estimation"
+    href: software-engineering-economics/8-estimation.md
+  - name: "9. Practical Considerations"
+    href: software-engineering-economics/9-practical-considerations.md
+  - name: "10. Related Concepts"
+    href: software-engineering-economics/10-related-concepts.md
+- name: "Chapter 16: Computing Foundations"
+  href: computing-foundations/index.md
+  items:
+  - name: "1. Basic Concepts of a System or Solution"
+    href: computing-foundations/1-basic-concepts-of-a-system-or-solution.md
+  - name: "2. Computer Architecture and Organization"
+    href: computing-foundations/2-computer-architecture-and-organization.md
+  - name: "3. Data Structures and Algorithms"
+    href: computing-foundations/3-data-structures-and-algorithms.md
+  - name: "4. Programming Fundamentals and Languages"
+    href: computing-foundations/4-programming-fundamentals-and-languages.md
+  - name: "5. Operating Systems"
+    href: computing-foundations/5-operating-systems.md
+  - name: "6. Database Management"
+    href: computing-foundations/6-database-management.md
+  - name: "7. Computer Networks and Communications"
+    href: computing-foundations/7-computer-networks-and-communications.md
+  - name: "8. User and Developer Human Factors"
+    href: computing-foundations/8-user-and-developer-human-factors.md
+  - name: "9. Artificial Intelligence and Machine Learning"
+    href: computing-foundations/9-artificial-intelligence-and-machine-learning.md
+- name: "Chapter 17: Mathematical Foundations"
+  href: mathematical-foundations/index.md
+  items:
+  - name: "1. Basic Logic"
+    href: mathematical-foundations/1-basic-logic.md
+  - name: "2. Proof Techniques"
+    href: mathematical-foundations/2-proof-techniques.md
+  - name: "3. Set, Relation, Function"
+    href: mathematical-foundations/3-set-relation-function.md
+  - name: "4. Graph and Tree"
+    href: mathematical-foundations/4-graph-and-tree.md
+  - name: "5. Finite-State Machine"
+    href: mathematical-foundations/5-finite-state-machine.md
+  - name: "6. Grammar"
+    href: mathematical-foundations/6-grammar.md
+  - name: "7. Number Theory"
+    href: mathematical-foundations/7-number-theory.md
+  - name: "8. Basics of Counting"
+    href: mathematical-foundations/8-basics-of-counting.md
+  - name: "9. Discrete Probability"
+    href: mathematical-foundations/9-discrete-probability.md
+  - name: "10. Numerical Precision, Accuracy, and Error"
+    href: mathematical-foundations/10-numerical-precision-accuracy-and-error.md
+  - name: "11. Algebraic Structures"
+    href: mathematical-foundations/11-algebraic-structures.md
+  - name: "12. Engineering Calculus"
+    href: mathematical-foundations/12-engineering-calculus.md
+  - name: "13. New Advancements"
+    href: mathematical-foundations/13-new-advancements.md
+- name: "Chapter 18: Engineering Foundations"
+  href: engineering-foundations/index.md
+  items:
+  - name: "1. The Engineering Process"
+    href: engineering-foundations/1-the-engineering-process.md
+  - name: "2. Engineering Design"
+    href: engineering-foundations/2-engineering-design.md
+  - name: "3. Abstraction and Encapsulation"
+    href: engineering-foundations/3-abstraction-and-encapsulation.md
+  - name: "4. Empirical Methods and Experimental Techniques"
+    href: engineering-foundations/4-empirical-methods-and-experimental-techniques.md
+  - name: "5. Statistical Analysis"
+    href: engineering-foundations/5-statistical-analysis.md
+  - name: "6. Modeling, Simulation, and Prototyping"
+    href: engineering-foundations/6-modeling-simulation-and-prototyping.md
+  - name: "7. Measurement"
+    href: engineering-foundations/7-measurement.md
+  - name: "8. Standards"
+    href: engineering-foundations/8-standards.md
+  - name: "9. Root Cause Analysis"
+    href: engineering-foundations/9-root-cause-analysis.md
+  - name: "10. Industry 4.0 and Software Engineering"
+    href: engineering-foundations/10-industry-4-0-and-software-engineering.md
