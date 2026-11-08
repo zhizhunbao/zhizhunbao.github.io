@@ -15,11 +15,6 @@ ms.date: 2026-11-07
 
 ## University Rankings
 
-- Edition: Best Global Universities 2026-2027, released [2026-06-15](https://www.usnews.com/education/best-global-universities/articles/methodology)
-- Scope: top 100 of 2,250 universities, names and countries as U.S. News prints them, plus Seoul National University, ranked below 100
-- Order: U.S. News rank, "(tie)" as printed
-- Definitions: first sentence of the "Summary" on the university's U.S. News profile; where the Summary only repeats the rank, the first sentence of its English Wikipedia article, from "is" onward, at the revision linked
-
 | Rank | University | Country/Region | Definition | 中文翻译 | Source |
 |---|---|---|---|---|---|
 | 1 | Harvard University<br>哈佛大学 | United States<br>美国 | "**Founded in 1636**, Harvard University is **the oldest higher education institution in the U.S.**" | 哈佛大学**创建于 1636 年**，是**美国最古老的高等教育机构**。 | [U.S. News & World Report, 2026c, "Summary" section](https://www.usnews.com/education/best-global-universities/harvard-university-166027) |
@@ -125,8 +120,6 @@ ms.date: 2026-11-07
 | … | … | | | | |
 | 121 | Seoul National University<br>首尔大学 | South Korea<br>韩国 | "**Seoul National University** was **founded in 1946**." | **首尔大学**于 **1946 年创建**。 | [U.S. News & World Report, 2026c, "Summary" section](https://www.usnews.com/education/best-global-universities/seoul-national-university-503456) |
 
-Source: [U.S. News & World Report, 2026a, pages 1 to 10](https://www.usnews.com/education/best-global-universities/rankings); Seoul National University: [U.S. News & World Report, 2026b, "Rankings" section](https://www.usnews.com/education/best-global-universities/seoul-national-university-503456#:~:text=Seoul%20National%20University%20is%20ranked%20%23121); definitions from Wikipedia, Wikipedia contributors (2026), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
 ## References
 
 U.S. News & World Report. (2026a). *2026-2027 best universities in the world* [Ranking pages 1 to 11]. Retrieved November 7, 2026, from <https://www.usnews.com/education/best-global-universities/rankings>
@@ -139,4 +132,4 @@ U.S. News & World Report. (n.d.). *About U.S. News*. Retrieved November 5, 2026,
 
 Wellington, S., & Brooks, E. (2026, June 15). *How U.S. News calculated the 2026-2027 Best Global Universities rankings*. U.S. News & World Report. <https://www.usnews.com/education/best-global-universities/articles/methodology>
 
-Wikipedia contributors. (2026). [Articles on the universities whose definitions cite Wikipedia above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/>
+Wikipedia contributors. (2026). [Articles on the universities whose definitions cite Wikipedia above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/> Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

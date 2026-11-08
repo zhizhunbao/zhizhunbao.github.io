@@ -15,11 +15,6 @@ ms.date: 2026-11-07
 
 ## University Rankings
 
-- Edition: Maclean's University Rankings 2027, Large Universities, released [2026-10-14](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/)
-- Scope: all 15 universities with more than 30,000 students, as Maclean's prints them
-- Order: Maclean's rank, "*" marks a tie
-- Definitions: opening of the university's Maclean's school profile
-
 | Rank | University | Definition | 中文翻译 | Source |
 |---|---|---|---|---|
 | 1 | McGill University<br>麦吉尔大学 | "McGill University **attracts bright students** **from across Canada and around the world**." | 麦吉尔大学**吸引着优秀的学生**，他们**来自加拿大各地和世界各国**。 | [Maclean's, n.d.-b, school profile](https://macleans.ca/education/school-profiles/mcgill-university/) |
@@ -37,8 +32,6 @@ ms.date: 2026-11-07
 | 13 | York University<br>约克大学 | "With a student body numbering **almost 55,000**, it’s **one of North America’s largest schools**." | 约克大学学生人数**近 55,000**，是**北美规模最大的学校之一**。 | [Maclean's, n.d.-b, school profile](https://macleans.ca/education/school-profiles/york-university/) |
 | 14 | Toronto Metropolitan University<br>多伦多都会大学 | "**More than 44,000 undergraduate and graduate students** attend Toronto Metropolitan University, which offers programs in **more than 125 disciplines**." | **44,000 多名本科生和研究生**就读于多伦多都会大学，该校开设 **125 个以上学科**的专业。 | [Maclean's, n.d.-b, school profile](https://macleans.ca/education/school-profiles/toronto-metropolitan-university/) |
 | 15 | Concordia University<br>康考迪亚大学 | "Concordia is **one of Canada’s largest universities**, offering **more than 500 programs** at the undergraduate and graduate levels." | 康考迪亚是**加拿大规模最大的大学之一**，开设本科和研究生层次的 **500 多个专业**。 | [Maclean's, n.d.-b, school profile](https://macleans.ca/education/school-profiles/concordia/) |
-
-Source: [Maclean's, 2026a, ranked list](https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/)
 
 ## References
 

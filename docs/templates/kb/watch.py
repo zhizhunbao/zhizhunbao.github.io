@@ -112,6 +112,7 @@ def build():
 
 
 MD_LINK = re.compile(r'href="(?![a-z]+:|#|/)([^"#]*?)\.md(#[^"]*)?"')
+EMPTY_NAVREL = '<meta name="kb:navrel" content="">'
 
 
 def build_sections(sections):
@@ -145,6 +146,9 @@ def build_sections(sections):
                 # links to pages outside the built sections stay as .md (docfx cannot resolve them): make them .html
                 text = MD_LINK.sub(lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"',
                                    f.read_text(encoding="utf-8"))
+                # docs/toc.yml (the top menu) is not in a section build, so docfx leaves the page's link to it empty
+                depth = len(dst.relative_to(SITE).parts) - 1
+                text = text.replace(EMPTY_NAVREL, f'<meta name="kb:navrel" content="{"../" * depth}toc.html">')
                 dst.write_text(text, encoding="utf-8")
             else:
                 shutil.copyfile(f, dst)

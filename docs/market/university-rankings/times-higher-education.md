@@ -15,11 +15,6 @@ ms.date: 2026-11-07
 
 ## University Rankings
 
-- Edition: World University Rankings 2027, released [2026-09-30](https://www.timeshighereducation.com/news/world-university-rankings-2027-results-announced)
-- Scope: top 100 of 2,297 institutions, names and locations as THE prints them
-- Order: THE rank, "=" marks a tie
-- Definitions: first sentence of the "About" text on the university's THE page that says what it is; where that text is only a slogan or a listing note, the first sentence of its English Wikipedia article, from "is" onward, at the revision linked
-
 | Rank | University | Country/Region | Definition | 中文翻译 | Source |
 |---|---|---|---|---|---|
 | 1 | University of Oxford<br>牛津大学 | United Kingdom<br>英国 | "The University of Oxford is **the oldest university in the English-speaking world** and **the world’s second oldest surviving university**." | 牛津大学是**英语世界最古老的大学**，也是**世界上现存第二古老的大学**。 | [Times Higher Education, n.d.-b, "About" section](https://www.timeshighereducation.com/world-university-rankings/university-oxford) |
@@ -123,8 +118,6 @@ ms.date: 2026-11-07
 | =97 | University of Birmingham<br>伯明翰大学 | United Kingdom<br>英国 | "**Founded in 1900** on the vision set down by politician and statesman Joseph Chamberlain, the University of Birmingham prides itself on **a longstanding tradition of innovation and progressive initiatives**." | 伯明翰大学**创建于 1900 年**，源于政治家 Joseph Chamberlain 提出的愿景，并以**长期的创新与进步传统**为傲。 | [Times Higher Education, n.d.-b, "About" section](https://www.timeshighereducation.com/world-university-rankings/university-birmingham) |
 | =97 | University of California, Irvine<br>加州大学欧文分校 | United States<br>美国 | "**Established in 1965** and part of the University of California (which comprises 10 institutions), UC Irvine is **the only research university in Orange County** that’s in the Association of American Universities (AAU)." | 加州大学欧文分校**创建于 1965 年**，隶属加州大学（共 10 所院校），是加入美国大学协会（AAU）的**橙县唯一一所研究型大学**。 | [Times Higher Education, n.d.-b, "About" section](https://www.timeshighereducation.com/world-university-rankings/university-california-irvine) |
 
-Source: [Times Higher Education, 2026, ranking table and its data file, ranks 1 to 100](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking); definitions from Wikipedia, Wikipedia contributors (2026), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
 ## References
 
 Baty, P., & Banette, D. (2026, September 15). *World University Rankings 2027: Methodology*. Times Higher Education. <https://www.timeshighereducation.com/world-university-rankings/methodology>
@@ -137,4 +130,4 @@ Times Higher Education. (n.d.-a). *About us*. Retrieved November 5, 2026, from <
 
 Times Higher Education. (n.d.-b). *University pages* ["About" sections of the 100 universities listed above]. Retrieved November 7, 2026, from <https://www.timeshighereducation.com/world-university-rankings/>
 
-Wikipedia contributors. (2026). [Articles on the universities whose definitions cite Wikipedia above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/>
+Wikipedia contributors. (2026). [Articles on the universities whose definitions cite Wikipedia above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/> Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

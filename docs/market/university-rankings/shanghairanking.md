@@ -15,11 +15,6 @@ ms.date: 2026-11-07
 
 ## University Rankings
 
-- Edition: Academic Ranking of World Universities 2026, released [2026-08-15](https://www.shanghairanking.com/insights/detail?code=2026_08_747)
-- Scope: top 100 of the 1,000 published, names and regions as ShanghaiRanking prints them
-- Order: ARWU rank; tied universities share a number
-- Definitions: ShanghaiRanking describes no university, so, as an exception to the official-source rule, the first sentence of its English Wikipedia article, from "is" onward, at the revision linked
-
 | Rank | University | Country/Region | Definition | 中文翻译 | Source |
 |---|---|---|---|---|---|
 | 1 | Harvard University<br>哈佛大学 | United States<br>美国 | "is **a private Ivy League research university** in **Cambridge, Massachusetts, United States**." | 是一所**常春藤盟校私立研究型大学**，位于**美国马萨诸塞州剑桥**。 | [Wikipedia contributors, 2026, "Harvard University", lead, para. 1](https://en.wikipedia.org/w/index.php?title=Harvard_University&oldid=1384062958) |
@@ -123,8 +118,6 @@ ms.date: 2026-11-07
 | 98 | Tianjin University<br>天津大学 | China<br>中国 | "is **a national public research university** in **Tianjin, China**." | 是一所**国立公立研究型大学**，位于**中国天津**。 | [Wikipedia contributors, 2026, "Tianjin University", lead, para. 1](https://en.wikipedia.org/w/index.php?title=Tianjin_University&oldid=1369648820) |
 | 100 | Purdue University, West Lafayette<br>普渡大学西拉法叶分校 | United States<br>美国 | "is **a public land-grant research university**, with its main campus in **West Lafayette, Indiana, United States**, and an urban campus in Indianapolis." | 是一所**公立赠地研究型大学**，主校区位于**美国印第安纳州西拉法叶**，在印第安纳波利斯还有一个城市校区。 | [Wikipedia contributors, 2026, "Purdue University", lead, para. 1](https://en.wikipedia.org/w/index.php?title=Purdue_University&oldid=1383749833) |
 
-Source: ranks, [ShanghaiRanking Consultancy, 2026b, ranking table and its data file, ranks 1 to 100](https://www.shanghairanking.com/rankings/arwu/2026); definitions, Wikipedia contributors (2026), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
 ## References
 
 ShanghaiRanking Consultancy. (2026a, August 15). *ShanghaiRanking's Academic Ranking of World Universities 2026 press release*. <https://www.shanghairanking.com/insights/detail?code=2026_08_747>
@@ -133,4 +126,4 @@ ShanghaiRanking Consultancy. (2026b). *Academic Ranking of World Universities 20
 
 ShanghaiRanking Consultancy. (n.d.). *About ShanghaiRanking*. Retrieved November 5, 2026, from <https://www.shanghairanking.com/about-sr>
 
-Wikipedia contributors. (2026). [Articles on the 100 universities listed above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/>
+Wikipedia contributors. (2026). [Articles on the 100 universities listed above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/> Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

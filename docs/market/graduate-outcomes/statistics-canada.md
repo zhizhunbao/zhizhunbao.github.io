@@ -1,6 +1,6 @@
 ---
 title: "8.1 Statistics Canada"
-description: "Market > Graduate Outcomes > Statistics Canada: who publishes the labour market outcome indicators of postsecondary graduates, and median employment income two years after graduation of 2022 college diploma and undergraduate degree graduates by field of study, for Canada and the Atlantic and Prairie provinces, Canadian and international students apart."
+description: "Market > Graduate Outcomes > Statistics Canada: who publishes the labour market outcome indicators of postsecondary graduates, and median employment income two years after graduation of 2022 college diploma and undergraduate degree graduates by field of study, for Canada and each province, Canadian and international students apart."
 ms.date: 2026-11-07
 ---
 
@@ -13,20 +13,9 @@ ms.date: 2026-11-07
 | **Statistics Canada**<br>加拿大统计局 | "Statistics Canada produces **statistical data and insights** to help Canadians better understand **their country's population, resources, economy, society and culture**." | 加拿大统计局提供**统计数据和洞察**，帮助加拿大人更好地了解**本国的人口、资源、经济、社会和文化**。 | [Statistics Canada, n.d., para. 1](https://www.statcan.gc.ca/en/about/about#:~:text=Statistics%20Canada%20produces%20statistical%20data%20and%20insights) |
 | **Labour market outcome indicators of postsecondary graduates**<br>高等教育毕业生劳动力市场结果指标 | "Each year, Statistics Canada releases data on **the labour market outcomes of college and university graduates** using data from **the Education and Labour Market Longitudinal Platform (ELMLP)**." | 加拿大统计局每年利用**教育与劳动力市场纵向平台（ELMLP）**的数据，发布**学院和大学毕业生的劳动力市场结果**。 | [Statistics Canada, 2026a, "1 Introduction", para. 1](https://www150.statcan.gc.ca/n1/pub/37-20-0001/372000012026001-eng.htm#:~:text=Each%20year%2C%20Statistics%20Canada%20releases%20data) |
 
-## Graduate Outcomes
+## College Diploma
 
-- Edition: table 37-10-0281-01, released 2026-06-24: graduates of 2022, employment income two years after graduation
-- Scope: college diploma graduates ("Career, technical or professional training diploma") and undergraduate degree graduates ("Undergraduate degree"), Canada and the four Atlantic and three Prairie provinces (province of the institution), Canadian and international students apart; amounts in dollars
-- Order: number of graduates, so the most popular fields come first
-- Caution: tax records linked to student records, not a survey; the median counts "Graduates reporting employment income"; "x" is "suppressed to meet the confidentiality requirements of the Statistics Act"
-
-### College Diploma
-
-学院文凭（Career, technical or professional training diploma）。
-
-#### Canada
-
-加拿大，前 20 个专业领域，按毕业生人数排列。
+### Canada
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -52,9 +41,7 @@ ms.date: 2026-11-07
 | 20 | Natural resources and conservation [3]<br>自然资源与保护 | 1,190 | 100 | 50,700 | 51,400 | 48,300 |
 | | Total, field of study<br>全部专业 | 119,180 | 36,680 | 48,900 | | 44,000 |
 
-#### Newfoundland and Labrador
-
-纽芬兰与拉布拉多，前 10 个专业领域，按毕业生人数排列。
+### Newfoundland and Labrador
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -63,16 +50,14 @@ ms.date: 2026-11-07
 | 3 | Engineering/engineering-related technologies/technicians [15]<br>工程及工程相关技术 | 270 | 10 | 76,300 | 77,200 | x |
 | 4 | Library science [25]<br>图书馆学 | 80 | 50 | 44,700 | 49,900 | 37,700 |
 | 5 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 70 | 20 | 58,600 | 59,700 | 56,200 |
-| 6 | Visual and performing arts [50]<br>视觉与表演艺术 | 50 | 0 | 26,700 | 24,500 | x |
-| 7 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 50 | 0 | 56,800 | 56,800 | x |
-| 8 | Natural resources and conservation [3]<br>自然资源与保护 | 50 | 0 | 62,900 | 64,400 | x |
-| 9 | Mechanic and repair technologies/technicians [47]<br>机械与维修技术 | 20 | 10 | 62,500 | x | x |
-| 10 | Agricultural and veterinary sciences/services/operations and related fields [1]<br>农业与兽医科学及相关领域 | 20 | — | x | x | — |
+| 6 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 50 | 0 | 56,800 | 56,800 | x |
+| 7 | Natural resources and conservation [3]<br>自然资源与保护 | 50 | 0 | 62,900 | 64,400 | x |
+| 8 | Visual and performing arts [50]<br>视觉与表演艺术 | 50 | 0 | 26,700 | 24,500 | x |
+| 9 | Agricultural and veterinary sciences/services/operations and related fields [1]<br>农业与兽医科学及相关领域 | 20 | — | x | x | — |
+| 10 | Mechanic and repair technologies/technicians [47]<br>机械与维修技术 | 20 | 10 | 62,500 | x | x |
 | | Total, field of study<br>全部专业 | 1,290 | 170 | 57,300 | | 44,500 |
 
-#### Prince Edward Island
-
-爱德华王子岛，前 10 个专业领域，按毕业生人数排列。
+### Prince Edward Island
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -80,17 +65,15 @@ ms.date: 2026-11-07
 | 2 | Health professions and related programs [51]<br>医疗卫生及相关专业 | 100 | 0 | 57,900 | 57,900 | x |
 | 3 | Public administration and social service professions [44]<br>公共管理与社会服务 | 70 | 0 | 39,600 | 39,400 | x |
 | 4 | Culinary, entertainment, and personal services [12]<br>烹饪、娱乐与个人服务 | 50 | 30 | 33,900 | 31,800 | x |
-| 5 | Visual and performing arts [50]<br>视觉与表演艺术 | 40 | 0 | x | x | x |
-| 6 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 40 | 10 | 59,200 | 58,700 | x |
-| 7 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 30 | 0 | 59,800 | 60,100 | x |
-| 8 | Engineering/engineering-related technologies/technicians [15]<br>工程及工程相关技术 | 30 | 0 | 44,600 | 43,500 | x |
+| 5 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 40 | 10 | 59,200 | 58,700 | x |
+| 6 | Visual and performing arts [50]<br>视觉与表演艺术 | 40 | 0 | x | x | x |
+| 7 | Engineering/engineering-related technologies/technicians [15]<br>工程及工程相关技术 | 30 | 0 | 44,600 | 43,500 | x |
+| 8 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 30 | 0 | 59,800 | 60,100 | x |
 | 9 | Mechanic and repair technologies/technicians [47]<br>机械与维修技术 | 30 | — | x | x | — |
 | 10 | Parks, recreation, leisure, fitness, and kinesiology [31]<br>公园、休闲、健身与运动机能 | 30 | 20 | 36,000 | x | x |
 | | Total, field of study<br>全部专业 | 640 | 180 | 46,700 | | 44,500 |
 
-#### Nova Scotia
-
-新斯科舍，前 10 个专业领域，按毕业生人数排列。
+### Nova Scotia
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -101,14 +84,12 @@ ms.date: 2026-11-07
 | 5 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 150 | 20 | 55,100 | 57,000 | 46,000 |
 | 6 | Construction trades [46]<br>建筑施工行业 | 120 | 0 | 41,800 | 41,600 | x |
 | 7 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 80 | 20 | 41,800 | 39,500 | x |
-| 8 | Mechanic and repair technologies/technicians [47]<br>机械与维修技术 | 70 | 0 | 58,400 | 59,600 | x |
-| 9 | Culinary, entertainment, and personal services [12]<br>烹饪、娱乐与个人服务 | 70 | 20 | 27,100 | 24,700 | 29,500 |
+| 8 | Culinary, entertainment, and personal services [12]<br>烹饪、娱乐与个人服务 | 70 | 20 | 27,100 | 24,700 | 29,500 |
+| 9 | Mechanic and repair technologies/technicians [47]<br>机械与维修技术 | 70 | 0 | 58,400 | 59,600 | x |
 | 10 | Precision production [48]<br>精密生产 | 60 | 0 | 57,100 | 56,000 | x |
 | | Total, field of study<br>全部专业 | 2,120 | 220 | 50,100 | | 43,500 |
 
-#### New Brunswick
-
-新不伦瑞克，前 10 个专业领域，按毕业生人数排列。
+### New Brunswick
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -120,13 +101,43 @@ ms.date: 2026-11-07
 | 6 | Security and protective services [43]<br>安全与保卫服务 | 80 | 0 | 51,000 | 50,900 | x |
 | 7 | Visual and performing arts [50]<br>视觉与表演艺术 | 70 | 10 | 55,200 | 55,200 | x |
 | 8 | Natural resources and conservation [3]<br>自然资源与保护 | 60 | 10 | 42,700 | 42,500 | x |
-| 9 | Education [13]<br>教育 | 30 | 0 | 46,300 | 44,400 | x |
-| 10 | Communications technologies/technicians and support services [10]<br>传播技术及支持服务 | 30 | 10 | 27,700 | 27,700 | x |
+| 9 | Communications technologies/technicians and support services [10]<br>传播技术及支持服务 | 30 | 10 | 27,700 | 27,700 | x |
+| 10 | Education [13]<br>教育 | 30 | 0 | 46,300 | 44,400 | x |
 | | Total, field of study<br>全部专业 | 1,560 | 500 | 52,200 | | 50,000 |
 
-#### Manitoba
+### Quebec
 
-曼尼托巴，前 10 个专业领域，按毕业生人数排列。
+| # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
+|---|---|---|---|---|---|---|
+| 1 | Health professions and related programs [51]<br>医疗卫生及相关专业 | 4,320 | 80 | 60,100 | 60,100 | 58,800 |
+| 2 | Business, management, marketing and related support services [52]<br>商科、管理、市场营销及相关支持服务 | 3,010 | 390 | 49,000 | 49,100 | 48,300 |
+| 3 | Education [13]<br>教育 | 1,670 | 40 | 48,900 | 48,800 | 51,600 |
+| 4 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 1,330 | 220 | 57,700 | 58,900 | 51,500 |
+| 5 | Security and protective services [43]<br>安全与保卫服务 | 1,170 | 0 | 65,800 | 65,700 | x |
+| 6 | Visual and performing arts [50]<br>视觉与表演艺术 | 1,090 | 150 | 37,900 | 38,400 | 33,900 |
+| 7 | Engineering/engineering-related technologies/technicians [15]<br>工程及工程相关技术 | 1,000 | 40 | 63,000 | 63,500 | 57,800 |
+| 8 | Public administration and social service professions [44]<br>公共管理与社会服务 | 720 | 30 | 50,100 | 49,900 | 53,600 |
+| 9 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 630 | 40 | 40,800 | 40,600 | 43,100 |
+| 10 | Mechanic and repair technologies/technicians [47]<br>机械与维修技术 | 450 | 60 | 78,700 | 79,400 | 65,300 |
+| | Total, field of study<br>全部专业 | 18,060 | 1,230 | 52,500 | | 48,300 |
+
+### Ontario
+
+| # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
+|---|---|---|---|---|---|---|
+| 1 | Business, management, marketing and related support services [52]<br>商科、管理、市场营销及相关支持服务 | 17,780 | 11,250 | 41,800 | 47,200 | 39,400 |
+| 2 | Engineering/engineering-related technologies/technicians [15]<br>工程及工程相关技术 | 8,910 | 4,090 | 55,900 | 61,000 | 50,400 |
+| 3 | Health professions and related programs [51]<br>医疗卫生及相关专业 | 8,570 | 1,060 | 58,900 | 60,700 | 48,000 |
+| 4 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 6,120 | 1,810 | 45,000 | 43,500 | 48,200 |
+| 5 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 4,870 | 2,960 | 48,800 | 61,600 | 43,600 |
+| 6 | Security and protective services [43]<br>安全与保卫服务 | 3,200 | 190 | 47,200 | 46,500 | 66,200 |
+| 7 | Public administration and social service professions [44]<br>公共管理与社会服务 | 2,700 | 310 | 44,800 | 44,100 | 48,800 |
+| 8 | Visual and performing arts [50]<br>视觉与表演艺术 | 2,650 | 550 | 32,200 | 31,100 | 37,600 |
+| 9 | Culinary, entertainment, and personal services [12]<br>烹饪、娱乐与个人服务 | 2,140 | 850 | 35,500 | 33,600 | 37,200 |
+| 10 | Liberal arts and sciences, general studies and humanities [24]<br>文理通识与人文 | 1,690 | 930 | 37,700 | 37,900 | 37,600 |
+| | Total, field of study<br>全部专业 | 70,280 | 27,090 | 46,200 | | 43,000 |
+
+### Manitoba
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -138,13 +149,11 @@ ms.date: 2026-11-07
 | 6 | Agricultural and veterinary sciences/services/operations and related fields [1]<br>农业与兽医科学及相关领域 | 70 | — | 55,200 | 55,200 | — |
 | 7 | Communication, journalism and related programs [9]<br>传播、新闻及相关专业 | 40 | — | 53,900 | 53,900 | — |
 | 8 | Mechanic and repair technologies/technicians [47]<br>机械与维修技术 | 40 | 10 | 56,100 | 57,400 | x |
-| 9 | Visual and performing arts [50]<br>视觉与表演艺术 | 30 | 0 | 36,700 | 36,700 | x |
-| 10 | Science technologies/technicians [41]<br>科学技术员 | 30 | 0 | x | x | x |
+| 9 | Science technologies/technicians [41]<br>科学技术员 | 30 | 0 | x | x | x |
+| 10 | Visual and performing arts [50]<br>视觉与表演艺术 | 30 | 0 | 36,700 | 36,700 | x |
 | | Total, field of study<br>全部专业 | 1,280 | 190 | 53,500 | | 48,500 |
 
-#### Saskatchewan
-
-萨斯喀彻温，前 10 个专业领域，按毕业生人数排列。
+### Saskatchewan
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -155,14 +164,12 @@ ms.date: 2026-11-07
 | 5 | Natural resources and conservation [3]<br>自然资源与保护 | 30 | — | 59,900 | 59,900 | — |
 | 6 | Communications technologies/technicians and support services [10]<br>传播技术及支持服务 | 20 | 10 | x | x | x |
 | 7 | Security and protective services [43]<br>安全与保卫服务 | 20 | — | x | x | — |
-| 8 | Social sciences [45]<br>社会科学 | 10 | 0 | x | — | x |
-| 9 | Public administration and social service professions [44]<br>公共管理与社会服务 | 10 | — | x | x | — |
-| 10 | Science technologies/technicians [41]<br>科学技术员 | 10 | 0 | x | x | x |
+| 8 | Agricultural and veterinary sciences/services/operations and related fields [1]<br>农业与兽医科学及相关领域 | 10 | — | x | x | — |
+| 9 | Architecture and related services [4]<br>建筑及相关服务 | 10 | — | x | x | — |
+| 10 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 10 | 0 | x | — | x |
 | | Total, field of study<br>全部专业 | 910 | 170 | 63,200 | | 57,200 |
 
-#### Alberta
-
-阿尔伯塔，前 10 个专业领域，按毕业生人数排列。
+### Alberta
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -171,22 +178,32 @@ ms.date: 2026-11-07
 | 3 | Engineering/engineering-related technologies/technicians [15]<br>工程及工程相关技术 | 1,420 | 270 | 68,900 | 71,200 | 62,600 |
 | 4 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 630 | 130 | 49,500 | 49,400 | 50,500 |
 | 5 | Security and protective services [43]<br>安全与保卫服务 | 550 | 0 | 54,800 | 54,800 | x |
-| 6 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 520 | 130 | 51,700 | 53,600 | 47,200 |
-| 7 | Agricultural and veterinary sciences/services/operations and related fields [1]<br>农业与兽医科学及相关领域 | 520 | 10 | 51,200 | 50,900 | x |
+| 6 | Agricultural and veterinary sciences/services/operations and related fields [1]<br>农业与兽医科学及相关领域 | 520 | 10 | 51,200 | 50,900 | x |
+| 7 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 520 | 130 | 51,700 | 53,600 | 47,200 |
 | 8 | Communication, journalism and related programs [9]<br>传播、新闻及相关专业 | 500 | 60 | 45,900 | 46,200 | 42,000 |
 | 9 | Public administration and social service professions [44]<br>公共管理与社会服务 | 500 | 30 | 47,300 | 46,300 | 53,000 |
-| 10 | Legal professions and studies [22]<br>法律相关专业 | 280 | 30 | 50,900 | 51,100 | 47,600 |
+| 10 | Culinary, entertainment, and personal services [12]<br>烹饪、娱乐与个人服务 | 280 | 50 | 38,300 | 38,400 | 37,200 |
 | | Total, field of study<br>全部专业 | 12,070 | 2,260 | 53,100 | | 47,400 |
 
-Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Career, technical or professional training diploma", total gender, 15 to 64 years](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710028101); field names and codes as the table prints them, Chinese names this site's own.
+### British Columbia
 
-### Undergraduate Degree
+| # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
+|---|---|---|---|---|---|---|
+| 1 | Business, management, marketing and related support services [52]<br>商科、管理、市场营销及相关支持服务 | 2,680 | 1,600 | 49,700 | 55,000 | 46,700 |
+| 2 | Liberal arts and sciences, general studies and humanities [24]<br>文理通识与人文 | 1,450 | 1,240 | 45,000 | 47,400 | 44,900 |
+| 3 | Health professions and related programs [51]<br>医疗卫生及相关专业 | 1,080 | 40 | 76,600 | 77,000 | 62,000 |
+| 4 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 1,010 | 490 | 57,900 | 64,800 | 51,000 |
+| 5 | Engineering/engineering-related technologies/technicians [15]<br>工程及工程相关技术 | 620 | 130 | 67,400 | 68,200 | 62,800 |
+| 6 | Visual and performing arts [50]<br>视觉与表演艺术 | 530 | 120 | 31,900 | 29,700 | 39,500 |
+| 7 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 430 | 120 | 53,000 | 51,500 | 54,300 |
+| 8 | Parks, recreation, leisure, fitness, and kinesiology [31]<br>公园、休闲、健身与运动机能 | 340 | 80 | 43,300 | 42,400 | 46,900 |
+| 9 | Mechanic and repair technologies/technicians [47]<br>机械与维修技术 | 330 | 150 | 55,500 | 58,400 | 51,100 |
+| 10 | Security and protective services [43]<br>安全与保卫服务 | 300 | 20 | 52,500 | 52,200 | x |
+| | Total, field of study<br>全部专业 | 10,970 | 4,660 | 52,500 | | 46,700 |
 
-本科学位（Undergraduate degree）。不含 "professional degree"：牙医、法律、医学、验光、药学、兽医六个领域的学位单列；教育和社会工作的学士后学位（post-baccalaureate non-graduate degrees）并入本科（Statistics Canada, 2026a, "3.1 Deriving the study population", "Grouping by educational qualification"）。
+## Undergraduate Degree
 
-#### Canada
-
-加拿大，前 20 个专业领域，按毕业生人数排列。
+### Canada
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -212,9 +229,7 @@ Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Career,
 | 20 | History [54]<br>历史 | 2,160 | 130 | 41,800 | 41,800 | 40,900 |
 | | Total, field of study<br>全部专业 | 203,720 | 30,530 | 61,600 | | 52,600 |
 
-#### Newfoundland and Labrador
-
-纽芬兰与拉布拉多，前 10 个专业领域，按毕业生人数排列。
+### Newfoundland and Labrador
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -230,9 +245,7 @@ Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Career,
 | 10 | Public administration and social service professions [44]<br>公共管理与社会服务 | 80 | — | 82,900 | 82,900 | — |
 | | Total, field of study<br>全部专业 | 2,200 | 300 | 68,500 | | 63,200 |
 
-#### Prince Edward Island
-
-爱德华王子岛，前 10 个专业领域，按毕业生人数排列。
+### Prince Edward Island
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -248,9 +261,7 @@ Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Career,
 | 10 | Family and consumer sciences/human sciences [19]<br>家庭与消费科学、人类科学 | 20 | 0 | x | x | x |
 | | Total, field of study<br>全部专业 | 760 | 200 | 57,900 | | 48,800 |
 
-#### Nova Scotia
-
-新斯科舍，前 10 个专业领域，按毕业生人数排列。
+### Nova Scotia
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -266,9 +277,7 @@ Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Career,
 | 10 | Visual and performing arts [50]<br>视觉与表演艺术 | 190 | 40 | 34,100 | 34,800 | x |
 | | Total, field of study<br>全部专业 | 6,470 | 1,460 | 55,200 | | 45,300 |
 
-#### New Brunswick
-
-新不伦瑞克，前 10 个专业领域，按毕业生人数排列。
+### New Brunswick
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -284,9 +293,39 @@ Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Career,
 | 10 | Public administration and social service professions [44]<br>公共管理与社会服务 | 100 | 10 | 71,500 | 71,700 | x |
 | | Total, field of study<br>全部专业 | 2,980 | 300 | 60,900 | | 52,100 |
 
-#### Manitoba
+### Quebec
 
-曼尼托巴，前 10 个专业领域，按毕业生人数排列。
+| # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
+|---|---|---|---|---|---|---|
+| 1 | Business, management, marketing and related support services [52]<br>商科、管理、市场营销及相关支持服务 | 8,560 | 1,290 | 66,400 | 67,200 | 56,500 |
+| 2 | Engineering [14]<br>工程 | 4,640 | 730 | 79,200 | 79,600 | 75,500 |
+| 3 | Health professions and related programs [51]<br>医疗卫生及相关专业 | 3,640 | 70 | 76,000 | 76,100 | 71,700 |
+| 4 | Education [13]<br>教育 | 3,200 | 30 | 63,500 | 63,600 | x |
+| 5 | Social sciences [45]<br>社会科学 | 2,980 | 700 | 55,900 | 56,700 | 51,500 |
+| 6 | Psychology [42]<br>心理学 | 2,060 | 170 | 50,500 | 51,200 | 39,800 |
+| 7 | Biological and biomedical sciences [26]<br>生物与生物医学 | 1,800 | 240 | 48,000 | 48,900 | 37,000 |
+| 8 | Visual and performing arts [50]<br>视觉与表演艺术 | 1,690 | 260 | 39,200 | 40,200 | 28,800 |
+| 9 | Public administration and social service professions [44]<br>公共管理与社会服务 | 1,140 | 10 | 64,500 | 64,500 | x |
+| 10 | Multidisciplinary/interdisciplinary studies, other [30.99]<br>其他多学科、跨学科研究 | 1,120 | 200 | 61,400 | 61,800 | 57,800 |
+| | Total, field of study<br>全部专业 | 38,060 | 4,760 | 64,900 | | 57,000 |
+
+### Ontario
+
+| # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
+|---|---|---|---|---|---|---|
+| 1 | Business, management, marketing and related support services [52]<br>商科、管理、市场营销及相关支持服务 | 15,440 | 4,050 | 63,900 | 65,500 | 55,600 |
+| 2 | Social sciences [45]<br>社会科学 | 9,620 | 1,860 | 51,400 | 52,500 | 45,000 |
+| 3 | Health professions and related programs [51]<br>医疗卫生及相关专业 | 8,540 | 260 | 80,200 | 80,500 | 58,300 |
+| 4 | Engineering [14]<br>工程 | 8,030 | 1,200 | 81,000 | 81,500 | 77,800 |
+| 5 | Biological and biomedical sciences [26]<br>生物与生物医学 | 7,740 | 660 | 43,000 | 42,700 | 45,200 |
+| 6 | Psychology [42]<br>心理学 | 5,640 | 490 | 44,200 | 44,200 | 44,100 |
+| 7 | Education [13]<br>教育 | 4,830 | 90 | 64,900 | 65,100 | 48,000 |
+| 8 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 4,510 | 1,190 | 79,700 | 81,400 | 70,200 |
+| 9 | Visual and performing arts [50]<br>视觉与表演艺术 | 3,680 | 510 | 33,300 | 33,600 | 29,700 |
+| 10 | Parks, recreation, leisure, fitness, and kinesiology [31]<br>公园、休闲、健身与运动机能 | 3,250 | 110 | 44,200 | 44,600 | 36,800 |
+| | Total, field of study<br>全部专业 | 95,690 | 14,210 | 59,200 | | 53,000 |
+
+### Manitoba
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -302,9 +341,7 @@ Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Career,
 | 10 | Parks, recreation, leisure, fitness, and kinesiology [31]<br>公园、休闲、健身与运动机能 | 230 | 30 | 46,200 | 46,500 | x |
 | | Total, field of study<br>全部专业 | 6,250 | 1,300 | 60,300 | | 47,900 |
 
-#### Saskatchewan
-
-萨斯喀彻温，前 10 个专业领域，按毕业生人数排列。
+### Saskatchewan
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -320,9 +357,7 @@ Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Career,
 | 10 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 200 | 50 | 69,600 | 71,300 | 63,200 |
 | | Total, field of study<br>全部专业 | 4,420 | 300 | 64,100 | | 56,400 |
 
-#### Alberta
-
-阿尔伯塔，前 10 个专业领域，按毕业生人数排列。
+### Alberta
 
 | # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
 |---|---|---|---|---|---|---|
@@ -338,7 +373,21 @@ Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Career,
 | 10 | Visual and performing arts [50]<br>视觉与表演艺术 | 660 | 40 | 32,900 | 33,000 | x |
 | | Total, field of study<br>全部专业 | 20,000 | 1,850 | 64,100 | | 54,200 |
 
-Source: [Statistics Canada, 2026b, table 37-10-0281-01, 2022 graduates, "Undergraduate degree", total gender, 15 to 64 years](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710028101); field names and codes as the table prints them, Chinese names this site's own.
+### British Columbia
+
+| # | Field of study | Graduates | International students | Median income, all | Median income, Canadian students | Median income, international students |
+|---|---|---|---|---|---|---|
+| 1 | Business, management, marketing and related support services [52]<br>商科、管理、市场营销及相关支持服务 | 4,330 | 1,450 | 62,700 | 64,200 | 55,000 |
+| 2 | Social sciences [45]<br>社会科学 | 3,210 | 1,110 | 54,200 | 56,200 | 45,400 |
+| 3 | Health professions and related programs [51]<br>医疗卫生及相关专业 | 2,330 | 70 | 92,700 | 93,600 | 52,600 |
+| 4 | Psychology [42]<br>心理学 | 2,050 | 450 | 48,600 | 49,200 | 44,700 |
+| 5 | Education [13]<br>教育 | 1,970 | 50 | 70,100 | 70,200 | 53,300 |
+| 6 | Engineering [14]<br>工程 | 1,910 | 430 | 81,700 | 82,100 | 79,600 |
+| 7 | Biological and biomedical sciences [26]<br>生物与生物医学 | 1,530 | 140 | 48,900 | 48,800 | 50,500 |
+| 8 | Computer and information sciences and support services [11]<br>计算机与信息科学及支持服务 | 1,340 | 490 | 83,800 | 85,600 | 76,700 |
+| 9 | Visual and performing arts [50]<br>视觉与表演艺术 | 1,270 | 310 | 37,900 | 38,400 | 36,400 |
+| 10 | Liberal arts and sciences, general studies and humanities [24]<br>文理通识与人文 | 840 | 120 | 50,200 | 51,300 | 37,400 |
+| | Total, field of study<br>全部专业 | 26,880 | 5,850 | 61,700 | | 52,300 |
 
 ## References
 

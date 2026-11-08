@@ -15,11 +15,6 @@ ms.date: 2026-11-07
 
 ## University Rankings
 
-- Edition: QS World University Rankings 2027, released [2026-06-18](https://magazine.qs.com/qs-insights-magazine-42/results#:~:text=On%2018%20June%202026%2C%20QS%20launches)
-- Scope: top 100 of 1,504 universities, names and countries as QS prints them
-- Order: QS rank, "=" marks a tie
-- Definitions: first sentence of the "About" text on the university's QS profile that says what it is; where that text is only an advert, a slogan or rankings, the first sentence of its English Wikipedia article, from "is" onward, at the revision linked
-
 | Rank | University | Country/Region | Definition | 中文翻译 | Source |
 |---|---|---|---|---|---|
 | 1 | Massachusetts Institute of Technology (MIT)<br>麻省理工学院 | United States<br>美国 | "This motto enigmatically encapsulates this famous institution’s mission to **advance knowledge in science, technology and areas of scholarship** that can help to **make the world a better place**." | 这句校训含蓄地概括了这所著名学府的使命：**推进科学、技术及其他学术领域的知识**，帮助**让世界变得更美好**。 | [QS Quacquarelli Symonds, n.d.-c, "About" section](https://www.topuniversities.com/universities/massachusetts-institute-technology-mit) |
@@ -123,8 +118,6 @@ ms.date: 2026-11-07
 | =98 | Freie Universitaet Berlin<br>柏林自由大学 | Germany<br>德国 | "Freie Universität Berlin is **an outstanding, future-oriented institution** in **Germany’s world-renowned academic landscape**." | 柏林自由大学是**一所杰出、面向未来的机构**，身处**享誉世界的德国学术版图**之中。 | [QS Quacquarelli Symonds, n.d.-c, "About" section](https://www.topuniversities.com/universities/freie-universitaet-berlin) |
 | =98 | University of Zurich<br>苏黎世大学 | Switzerland<br>瑞士 | "**Founded in 1833**, the University of Zurich is **Switzerland's largest university**." | 苏黎世大学**创建于 1833 年**，是**瑞士规模最大的大学**。 | [QS Quacquarelli Symonds, n.d.-c, "About" section](https://www.topuniversities.com/universities/university-zurich) |
 
-Source: [QS Quacquarelli Symonds, 2026b, ranking table, ranks 1 to 100](https://www.topuniversities.com/world-university-rankings); definitions from Wikipedia, Wikipedia contributors (2026), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
 ## References
 
 QS Quacquarelli Symonds. (2026a, June 18). QS World University Rankings 2027. *QS Insights Magazine*, 42. <https://magazine.qs.com/qs-insights-magazine-42/results>
@@ -137,4 +130,4 @@ QS Quacquarelli Symonds. (n.d.-b). *QS World University Rankings*. QS Support. R
 
 QS Quacquarelli Symonds. (n.d.-c). *University profiles* ["About" sections of the 100 universities listed above]. TopUniversities. Retrieved November 7, 2026, from <https://www.topuniversities.com/universities/>
 
-Wikipedia contributors. (2026). [Articles on the universities whose definitions cite Wikipedia above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/>
+Wikipedia contributors. (2026). [Articles on the universities whose definitions cite Wikipedia above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/> Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

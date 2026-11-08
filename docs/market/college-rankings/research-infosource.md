@@ -15,11 +15,6 @@ ms.date: 2026-11-07
 
 ## College Rankings
 
-- Edition: Canada's Top 50 Research Colleges 2025, released [2025-12-04](https://researchinfosource.com/news#:~:text=Toronto%20ON%2C%204%20December%202025)
-- Scope: all 50 colleges and cégeps, names as Research Infosource prints them, provinces written out from its codes
-- Order: sponsored research income in Fiscal 2024 ("all funds to conduct research received in the form of a grant or contract from all sources external to the institution")
-- Definitions: Research Infosource describes no college, so the first sentence of its English Wikipedia article, from "is" onward, at the revision linked
-
 | Rank | College | Province | Definition | 中文翻译 | Source |
 |---|---|---|---|---|---|
 | 1 | Cégep de Trois-Rivières<br>三河城学院 | Quebec | "is a French-language **College of general and vocational education** (CEGEP) in **Trois-Rivières, Quebec, Canada**." | 是一所法语**普通与职业教育学院**（CEGEP），位于**加拿大魁北克省三河城**。 | [Wikipedia contributors, 2026, "Cégep de Trois-Rivières", lead, para. 1](https://en.wikipedia.org/w/index.php?title=C%C3%A9gep_de_Trois-Rivi%C3%A8res&oldid=1368854464) |
@@ -73,8 +68,6 @@ ms.date: 2026-11-07
 | 49 | St. Clair College<br>圣克莱尔学院 | Ontario | "is **a college** in **the Southwestern Ontario counties of Essex and Chatham-Kent**, partnered with private Ace Acumen Academy in Toronto." | 是一所**学院**，位于**安大略省西南部的埃塞克斯县和查塔姆-肯特**，与多伦多的私立 Ace Acumen Academy 合作。 | [Wikipedia contributors, 2026, "St. Clair College", lead, para. 1](https://en.wikipedia.org/w/index.php?title=St._Clair_College&oldid=1381239116) |
 | 50 | Northwestern Polytechnic<br>西北理工学院 | Alberta | "is **a publicly funded educational institution** located in **northwestern Alberta, Canada**." | 是一所**公立资助的教育机构**，位于**加拿大阿尔伯塔省西北部**。 | [Wikipedia contributors, 2026, "Northwestern Polytechnic", lead, para. 1](https://en.wikipedia.org/w/index.php?title=Northwestern_Polytechnic&oldid=1379599887) |
 
-Source: ranks, [Research Infosource, 2025a, ranked list, ranks 1 to 50](https://researchinfosource.com/cil/2025/top-50-research-colleges/list); definitions from Wikipedia, Wikipedia contributors (2026), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
 ## References
 
 Research Infosource. (2025a). *Canada's top 50 research colleges 2025* [Ranked list]. Retrieved November 7, 2026, from <https://researchinfosource.com/cil/2025/top-50-research-colleges/list>
@@ -85,4 +78,4 @@ Research Infosource. (2025c, December 4). *Across the board gains for Canada's I
 
 Research Infosource. (n.d.). *About*. Retrieved November 7, 2026, from <https://researchinfosource.com/about>
 
-Wikipedia contributors. (2026). [Articles on the 50 colleges listed above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/>
+Wikipedia contributors. (2026). [Articles on the 50 colleges listed above, at the revisions linked in the table]. In *Wikipedia, the free encyclopedia*. Retrieved November 7, 2026, from <https://en.wikipedia.org/> Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

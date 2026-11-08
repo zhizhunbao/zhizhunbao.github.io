@@ -15,11 +15,6 @@ ms.date: 2026-11-07
 
 ## College Rankings
 
-- Edition: reporting year 2022 to 2023, data files dated [2024-02-22](https://files.ontario.ca/mcu_2/mcu-caat-kpi-data-2022-23-college-kpis-table-1-en-2024-02-22.csv)
-- Scope: Ontario's 24 public colleges, 2021 to 2022 graduates, in per cent, as the ministry prints them
-- Order: by graduation rate, "=" marks a tie (the ministry lists the colleges alphabetically)
-- Caution: employer satisfaction rests on few employers, surveyed only "if graduates consent"
-
 | Rank | College | Province | Graduation Rate | Employment at 6 months after graduation | Graduate Satisfaction | Employer Satisfaction |
 |---|---|---|---|---|---|---|
 | 1 | Conestoga<br>康耐斯托加学院 | Ontario | 72.9 | 90.0 | 80.7 | 92.3 |
@@ -48,9 +43,9 @@ ms.date: 2026-11-07
 | 24 | Sault<br>苏圣玛丽学院 | Ontario | 60.5 | 89.0 | 83.7 | 100 |
 | | Province<br>全省 | Ontario | 65.0 | 85.8 | 76.8 | 91.8 |
 
-Source: [Ministry of Colleges, Universities, Research Excellence and Security, 2025, "College key performance indicators" and "Where we get our information" sections](https://www.ontario.ca/page/college-graduation-satisfaction-and-job-rates#section-1)
-
 ## References
+
+Ministry of Colleges, Universities, Research Excellence and Security. (2024, February 22). *College KPIs table 1, 2022-23* [Data file]. Government of Ontario. <https://files.ontario.ca/mcu_2/mcu-caat-kpi-data-2022-23-college-kpis-table-1-en-2024-02-22.csv>
 
 Ministry of Colleges, Universities, Research Excellence and Security. (2025, November 26). *College graduation, satisfaction and job rates*. Government of Ontario. <https://www.ontario.ca/page/college-graduation-satisfaction-and-job-rates>
 
