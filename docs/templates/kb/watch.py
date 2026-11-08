@@ -5,8 +5,8 @@ it writes _site/kb-build.txt; kb.js, on localhost only, polls that file and relo
 The preview builds into _site at the repo root, outside docs/: built into docs/_site (the GitHub Actions output) a
 full build took 390 s instead of about 55 s (measured 2026-10-25, 4,300 pages).
 
-Since 2026-11-07 a change inside one section is rebuilt alone (a section = the nearest folder with its own toc.yml,
-such as docs/market): docfx builds that folder into _site_partial, and its files are copied into _site, so a change
+Since 2026-11-07 a change inside one section is rebuilt alone (a section = the outermost folder below docs/ with its
+own toc.yml, such as docs/market or docs/programming, never an entry inside it such as docs/programming/swebok): docfx builds that folder into _site_partial, and its files are copied into _site, so a change
 costs seconds instead of a full build of 13,000 pages. Startup, and a change outside every section (docs/toc.yml,
 docfx.json, templates/, a root page) still build the whole site. Until the next full build, the search index keeps
 the previous full build's entries, and links from the section to other sections are rewritten from .md to .html.
@@ -53,16 +53,21 @@ def changed_files(old, new):
 
 
 def section_of(path):
-    """Nearest folder below docs/ with its own toc.yml, as a path relative to docs/ ('market'); None = whole site."""
+    """Outermost folder below docs/ with its own toc.yml, as a path relative to docs/ ('programming'); None = whole site.
+
+    Outermost, not nearest (2026-11-07): an entry with its own toc.yml (programming/swebok) built alone takes its own
+    toc as the left menu and loses the section's (the SWEBOK pages showed only their own chapter in the sidebar).
+    """
     rel = Path(path).relative_to(DOCS)
     if not rel.parts or rel.parts[0] == "templates":
         return None
     folder = (DOCS / rel).parent
+    found = None
     while folder != DOCS:
         if (folder / "toc.yml").is_file():
-            return folder.relative_to(DOCS).as_posix()
+            found = folder.relative_to(DOCS).as_posix()
         folder = folder.parent
-    return None
+    return found
 
 
 def sections_to_build(changes):

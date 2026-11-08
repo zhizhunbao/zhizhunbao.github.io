@@ -9,6 +9,8 @@ items:
   href: cs2023-se/toc.yml
 - name: CS2023 SPD
   href: cs2023-spd/toc.yml
+- name: SWEBOK
+  href: swebok/toc.yml
 - name: Compiler infrastructure
   items:
   - name: LLVM

@@ -1,0 +1,22 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Chapter 1: Software Requirements"
+  href: software-requirements/index.md
+  items:
+  - name: "1. Software Requirements Fundamentals"
+    href: software-requirements/1-software-requirements-fundamentals.md
+  - name: "2. Requirements Elicitation"
+    href: software-requirements/2-requirements-elicitation.md
+  - name: "3. Requirements Analysis"
+    href: software-requirements/3-requirements-analysis.md
+  - name: "4. Requirements Specification"
+    href: software-requirements/4-requirements-specification.md
+  - name: "5. Requirements Validation"
+    href: software-requirements/5-requirements-validation.md
+  - name: "6. Requirements Management Activities"
+    href: software-requirements/6-requirements-management-activities.md
+  - name: "7. Practical Considerations"
+    href: software-requirements/7-practical-considerations.md
+  - name: "8. Software Requirements Tools"
+    href: software-requirements/8-software-requirements-tools.md
