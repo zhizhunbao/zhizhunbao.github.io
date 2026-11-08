@@ -304,10 +304,18 @@ function breadcrumbs(section, current) {
   if (section) crumbs.push({ name: section.name, url: firstUrl(section) })
   for (const p of current ? current.parents : []) crumbs.push({ name: p.name, url: firstUrl(p) })
   const seen = new Set()
+  const shown = []
   for (const c of crumbs) {
     const key = c.name // every level shows, even when a group opens the same page as its parent
     if (seen.has(key)) continue
     seen.add(key)
+    shown.push(c)
+  }
+  // The home page has no parent: a lone "Peng Wang >" repeated the header brand and the H1 (on phones the name showed
+  // three times, 2026-11-07), so a trail of the root alone is not drawn
+  ol.parentElement.hidden = shown.length < 2
+  if (shown.length < 2) return
+  for (const c of shown) {
     ol.append(el('li', { class: 'breadcrumbs-item' }, c.url ? el('a', { href: c.url.href, text: c.name }) : el('span', { text: c.name })))
   }
 }

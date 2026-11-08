@@ -302,6 +302,9 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
    the drawer shows either the site sections (menu button) or the section's tree (Table of contents button), as on Learn */
 .kb-toc-open #left-container { display: block !important; }
 .kb-toc-title { display: flex; align-items: center; justify-content: space-between; padding: 12px 8px 8px 0; font-weight: 600; }
+/* The header keeps the logo alone (Frank, 2026-11-07: the name beside it repeated the home page's H1); the name stays
+   in the page, unseen, as the logo link's label and the breadcrumbs' first item */
+#kb-primary-nav .site-header-divider, #kb-primary-nav .site-header-brand { display: none !important; }
 @media (max-width: 767.98px) {
   .kb-menu-open #kb-toc-title, .kb-menu-open #kb-toc-header, .kb-menu-open .kb-filter, .kb-menu-open #kb-toc { display: none !important; }
   .kb-toc-open #kb-mobile-nav, .kb-toc-open #kb-toc-header { display: none !important; }
