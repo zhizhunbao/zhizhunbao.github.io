@@ -27,6 +27,8 @@ items:
     href: beautiful-soup/toc.yml
   - name: HTTPX
     href: httpx/toc.yml
+  - name: node-postgres
+    href: node-postgres/toc.yml
 - name: Package and project managers
   items:
   - name: uv

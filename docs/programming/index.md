@@ -8,7 +8,7 @@ ms.date: 2026-11-07
 
 ## Classification
 
-![Programming sorted into fourteen groups: the curricula CS2023 FPL with its 22 knowledge units, CS2023 SDF with its 5, CS2023 SE with its 9 and CS2023 SPD with its 12, the compiler infrastructure LLVM, the frameworks Next.js, Payload and React, the libraries Beautiful Soup and HTTPX, the package and project manager uv, the programming languages C, C++, Java, JavaScript, Python and TypeScript, the runtime environment Node.js, the software testing frameworks, standard and certification Cypress, ISO/IEC/IEEE 29119, ISTQB Certified Tester Foundation Level (CTFL) v4.0, Jest, Playwright, pytest, Selenium, Unittest and Vitest, the static analysis tools ESLint, Pyrefly and Ruff, the version control tools Git and GitHub, and the web technologies CSS, GraphQL, HTML and MDN Web Docs.](media/programming.png)
+![Programming sorted into fourteen groups: the curricula CS2023 FPL with its 22 knowledge units, CS2023 SDF with its 5, CS2023 SE with its 9 and CS2023 SPD with its 12, the compiler infrastructure LLVM, the frameworks Next.js, Payload and React, the libraries Beautiful Soup, HTTPX and node-postgres, the package and project manager uv, the programming languages C, C++, Java, JavaScript, Python and TypeScript, the runtime environment Node.js, the software testing frameworks, standard and certification Cypress, ISO/IEC/IEEE 29119, ISTQB Certified Tester Foundation Level (CTFL) v4.0, Jest, Playwright, pytest, Selenium, Unittest and Vitest, the static analysis tools ESLint, Pyrefly and Ruff, the version control tools Git and GitHub, and the web technologies CSS, GraphQL, HTML and MDN Web Docs.](media/programming.png)
 
 ## Glossary
 
@@ -75,6 +75,8 @@ Microsoft. (n.d.-a). *Playwright documentation* (Version 1.64.1). Retrieved Octo
 Microsoft. (n.d.-b). *TypeScript documentation* (Version 7.0.2). Retrieved October 25, 2026, from <https://www.typescriptlang.org/docs/>
 
 Mozilla. (n.d.). *Learn web development*. MDN Web Docs. Retrieved October 25, 2026, from <https://developer.mozilla.org/en-US/docs/Learn_web_development>
+
+node-postgres. (n.d.). *node-postgres documentation*. Retrieved November 7, 2026, from <https://node-postgres.com/>
 
 OpenJS Foundation. (n.d.-a). *ESLint documentation*. Retrieved November 7, 2026, from <https://eslint.org/docs/latest/>
 
