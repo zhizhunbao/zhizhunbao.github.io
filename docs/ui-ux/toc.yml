@@ -7,6 +7,8 @@ items:
   items:
   - name: ARIA Authoring Practices Guide
     href: apg/toc.yml
+  - name: Using ARIA
+    href: using-aria/toc.yml
   - name: WAI-ARIA
     href: wai-aria/toc.yml
   - name: WCAG 2.2

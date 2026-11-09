@@ -1,6 +1,6 @@
 ---
 title: Courses
-description: "Courses (temporary, until graduation): CST8913 Cloud Migration, the week concepts with my lab scenarios as keyword tables for the oral exam."
+description: "Courses (temporary, until graduation): CST8913 Cloud Migration, the week concepts with my lab scenarios as keyword tables for the oral exam. CST8914 Accessible by Design, the week topics mapped to the pages of the field."
 ms.date: 2026-11-01
 ---
 
@@ -699,3 +699,13 @@ ms.date: 2026-11-01
 | 28 | A file storage service for storing and sharing files with users, typically used in shared file systems across applications. | **Amazon EFS** | **Azure Files** | **Filestore** |
 | 29 | A service that helps you transcode, process, and stream media content such as video and audio. | **AWS Elemental MediaConvert** | No first-party service (Azure Media Services retired in 2024; partner solutions) | **Transcoder API** |
 | 30 | A real-time communication service used for sending notifications, emails, and text messages to users and devices. | **Amazon SNS (email: Amazon SES)** | **Azure Notification Hubs, Azure Communication Services** | **Firebase Cloud Messaging (push only)** |
+
+## CST8914 Accessible by Design
+
+### W9: Understanding WAI-ARIA
+
+| Keyword | Description | 中文翻译 |
+|---|---|---|
+| **[4.1 WAI-ARIA Roles](../ui-ux/wai-aria/using-wai-aria/wai-aria-roles.md)** | W9 teaches **roles** under **static ARIA**, a group name used by the lecture and not by the specification. | W9 把**角色**放在**静态 ARIA** 下，这个分组名称来自课程，不来自规范。 |
+| **[4.2 WAI-ARIA States and Properties](../ui-ux/wai-aria/using-wai-aria/wai-aria-states-and-properties.md)** | W9 teaches **properties** under static ARIA and **states** under **dynamic ARIA**. | W9 把**属性**放在静态 ARIA 下，把**状态**放在**动态 ARIA** 下。 |
+| **[6.6.2 Live Region Attributes](../ui-ux/wai-aria/supported-states-and-properties/taxonomy-of-wai-aria-states-and-properties/live-region-attributes.md)** | W9 teaches **live regions** under **dynamic ARIA**. | W9 把**实时区域**放在**动态 ARIA** 下。 |
