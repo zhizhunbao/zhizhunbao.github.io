@@ -1,6 +1,6 @@
 # DocFX: allowed pages and term checklist
 
-Not published (`docfx.json` excludes `**/README.md`). Source: Docfx documentation (https://dotnet.github.io/docfx/, .NET Foundation), its Docs navigation as the site loads it (`docs/toc.json`), cached 2026-11-07 (`design-refs/official-docs/urls_kb_docfx.txt` and `urls_kb_docfx_build.txt`).
+Not published (`docfx.json` excludes `**/README.md`). Source: Docfx documentation (https://dotnet.github.io/docfx/, .NET Foundation), its Docs navigation as the site loads it (`docs/toc.json`), cached 2026-11-07 (`references/official-docs/urls_kb_docfx.txt` and `urls_kb_docfx_build.txt`).
 
 Status (2026-11-07): skeleton. Groups and pages follow the Docs navigation: 1. Get Started (1), 2. Essentials (8), 3. Advanced (1), 4. Reference (4; 4.2 Commandline Reference is a folder, its Overview page as index and its 9 commands as pages 4.2.1 to 4.2.9 in the navigation's order). Each page has one row, its own subject, as a table-of-contents title; its terms are added when the page is read (repository README, "New terms from a new documentation set"). Quick Start (the site's home page) is the source of the DocFX row.
 

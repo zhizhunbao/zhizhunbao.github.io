@@ -24,6 +24,7 @@ ms.date: 2026-11-07
 | **Frameworks**<br>框架 | (Definition pending) | （定义待补） | [Vercel, n.d.](https://nextjs.org/docs); [Payload, n.d.](https://payloadcms.com/docs/getting-started/what-is-payload); [Meta Platforms, n.d.-b](https://react.dev/) |
 | **Libraries**<br>库 | (Definition pending) | （定义待补） | [Encode OSS, n.d., "Introduction", para. 1](https://www.python-httpx.org/); [Richardson, n.d., "Beautiful Soup Documentation", para. 1](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#beautiful-soup-documentation) |
 | **Package and project managers**<br>包与项目管理器 | "An **extremely fast** Python **package and project manager**, written in **Rust**." | 一个**极快的** Python **包与项目管理器**，用 **Rust** 编写。 | [Astral, n.d.-b, "uv" home page, para. 1](https://docs.astral.sh/uv/#:~:text=An%20extremely%20fast%20Python%20package%20and%20project%20manager) |
+| **Payment platforms**<br>支付平台 | (Definition pending) | （定义待补） | [Stripe, n.d.](https://docs.stripe.com/) |
 | **Programming languages**<br>编程语言 | "Python is an **easy to learn**, **powerful programming language**." | Python 是一种**易于学习**、**功能强大的编程语言**。 | [Python Software Foundation, n.d.-a, "The Python Tutorial" page, para. 1](https://docs.python.org/3/tutorial/index.html#:~:text=Python%20is%20an%20easy%20to%20learn%2C%20powerful%20programming%20language) |
 | **Runtime environments**<br>运行时环境 | "Node.js® is a free, open-source, cross-platform **JavaScript runtime environment** that lets developers **create servers, web apps, command line tools and scripts**." | Node.js® 是一个免费、开源、跨平台的 **JavaScript 运行时环境**，让开发者能够**创建服务器、Web 应用、命令行工具和脚本**。 | [OpenJS Foundation, n.d.-c, home page, para. 1](https://nodejs.org/en#:~:text=JavaScript%20runtime%20environment) |
 | **Software testing**<br>软件测试 | (Definition pending) | （定义待补） | [International Software Testing Qualifications Board, 2024, section 1.1 "What is Testing?"](https://istqb.org/wp-content/uploads/2024/11/ISTQB_CTFL_Syllabus_v4.0.1.pdf) |
@@ -105,6 +106,8 @@ Python Software Foundation. (n.d.-b). *unittest: Unit testing framework* (Python
 Richardson, L. (n.d.). *Beautiful Soup documentation* (Version 4.14.3). Retrieved November 6, 2026, from <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>
 
 Selenium project. (n.d.). *Selenium documentation* (Version 4.51.0). Retrieved October 25, 2026, from <https://www.selenium.dev/documentation/>
+
+Stripe. (n.d.). *Stripe Documentation*. Retrieved November 8, 2026, from <https://docs.stripe.com/>
 
 Vercel. (n.d.). *Next.js Docs*. Retrieved November 7, 2026, from <https://nextjs.org/docs>
 

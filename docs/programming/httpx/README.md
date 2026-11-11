@@ -1,6 +1,6 @@
 # HTTPX: allowed pages and term checklist
 
-Not published (`docfx.json` excludes `**/README.md`). Source: HTTPX documentation (https://www.python-httpx.org/, Encode OSS), its left navigation, cached 2026-11-06 (`design-refs/official-docs/urls_kb_httpx_bs4.txt`).
+Not published (`docfx.json` excludes `**/README.md`). Source: HTTPX documentation (https://www.python-httpx.org/, Encode OSS), its left navigation, cached 2026-11-06 (`references/official-docs/urls_kb_httpx_bs4.txt`).
 
 Status (2026-11-06): skeleton. Groups and pages follow the navigation: 1. QuickStart (a page of its own, as in the navigation), 2. Advanced (10), 3. Guides (4), 4. API Reference (3). Each page has one row, its own subject, as a table-of-contents title; its terms are added when the page is read (repository README, "New terms from a new documentation set"). Introduction is the source of the HTTPX row.
 

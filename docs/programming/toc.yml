@@ -35,6 +35,10 @@ items:
   items:
   - name: uv
     href: uv/toc.yml
+- name: Payment platforms
+  items:
+  - name: Stripe Docs
+    href: stripe/toc.yml
 - name: Programming languages
   items:
   - name: C

@@ -1,0 +1,28 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Payments"
+  href: payments/index.md
+  items:
+  - name: "1.1 Refund and cancel payments"
+    href: payments/refund-and-cancel-payments.md
+  - name: "1.2 Receipts and paid invoices"
+    href: payments/receipts-and-paid-invoices.md
+- name: "2. Revenue"
+  href: revenue/index.md
+  items:
+  - name: "2.1 Provide a customer portal to your customers"
+    href: revenue/provide-a-customer-portal-to-your-customers.md
+- name: "3. Risk"
+  href: risk/index.md
+- name: "4. Data"
+  href: data/index.md
+- name: "5. Embedded finance"
+  href: embedded-finance/index.md
+- name: "6. Money management"
+  href: money-management/index.md
+- name: "7. Prebuilt components"
+  href: prebuilt-components/index.md
+  items:
+  - name: "7.1 Build a payments page"
+    href: prebuilt-components/build-a-payments-page.md

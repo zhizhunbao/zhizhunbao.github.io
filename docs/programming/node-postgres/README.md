@@ -1,6 +1,6 @@
 # node-postgres: allowed pages and term checklist
 
-Not published (`docfx.json` excludes `**/README.md`). Source: node-postgres documentation (https://node-postgres.com/), its left navigation, cached 2026-11-07 (`design-refs/official-docs/urls_kb_node_postgres.txt`, 18 pages, `--plain`). The client library under Payload's Postgres adapter, which `cms/src/lib/db/pool.ts` takes its pool from.
+Not published (`docfx.json` excludes `**/README.md`). Source: node-postgres documentation (https://node-postgres.com/), its left navigation, cached 2026-11-07 (`references/official-docs/urls_kb_node_postgres.txt`, 18 pages, `--plain`). The client library under Payload's Postgres adapter, which `cms/src/lib/db/pool.ts` takes its pool from.
 
 Status (2026-11-07): skeleton. Groups and pages follow the navigation: 1. API (6 pages), 2. Features (10; the navigation writes the group in lower case, "features"), 3. Guides (1). Each page has one row, its own subject, as a table-of-contents title; its terms are added when the page is read (repository README, "New terms from a new documentation set"). Welcome is the source of the node-postgres row.
 

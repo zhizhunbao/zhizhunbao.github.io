@@ -1,6 +1,6 @@
 # ESLint: allowed pages and term checklist
 
-Not published (`docfx.json` excludes `**/README.md`). Source: ESLint documentation, version 10.14.0 (https://eslint.org/docs/latest/, OpenJS Foundation), its left navigation (`#docs-index`), cached 2026-11-07 (`design-refs/official-docs/urls_kb_eslint.txt`, 31 pages, `--plain`).
+Not published (`docfx.json` excludes `**/README.md`). Source: ESLint documentation, version 10.14.0 (https://eslint.org/docs/latest/, OpenJS Foundation), its left navigation (`#docs-index`), cached 2026-11-07 (`references/official-docs/urls_kb_eslint.txt`, 31 pages, `--plain`).
 
 Status (2026-11-07): skeleton. Groups and pages follow the navigation: 1. Use ESLint in Your Project (7 pages, two of them with child pages: 1.1 Core Concepts with 1.1.1 Glossary, 1.2 Configure ESLint with 7), 2. Extend ESLint (6, 2.2 Create Plugins with 3), 3. Integrate ESLint (1), 4. Contribute to ESLint (1). Each page has one row, its own subject, as a table-of-contents title; its terms are added when the page is read (repository README, "New terms from a new documentation set"). Exception: 1.1.1 Glossary is the source's own term list, so its 32 terms are rows from the start (definitions pending). The ESLint row will quote Core Concepts, "What is ESLint?".
 
