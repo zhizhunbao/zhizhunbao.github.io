@@ -1,6 +1,6 @@
 ---
 title: "27.3 Cloud Design Patterns"
-description: "Microsoft Azure, 27.3 Cloud design patterns: Cache-Aside, Circuit Breaker, Competing Consumers, Event Sourcing, Gateway Aggregation, Gateway Offloading, Gateway Routing, Publisher-Subscriber, Queue-Based Load Leveling, Retry, Sharding."
+description: "Microsoft Azure, 27.3 Cloud design patterns: Cache-Aside, Circuit Breaker, Competing Consumers, Event Sourcing, Gateway Aggregation, Gateway Offloading, Gateway Routing, Publisher-Subscriber, Queue-Based Load Leveling, Retry, Sharding, Strangler Fig."
 ms.date: 2026-10-27
 ---
 
@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Cloud design patterns, 11 terms from Cloud design patterns, in its order: Cache-Aside, Circuit Breaker, Competing Consumers, Event Sourcing, Gateway Aggregation, Gateway Offloading, Gateway Routing, Publisher-Subscriber, Queue-Based Load Leveling, Retry, Sharding.](media/cloud-design-patterns.png)
+![Cloud design patterns, 12 terms from Cloud design patterns, in its order: Cache-Aside, Circuit Breaker, Competing Consumers, Event Sourcing, Gateway Aggregation, Gateway Offloading, Gateway Routing, Publisher-Subscriber, Queue-Based Load Leveling, Retry, Sharding, Strangler Fig.](media/cloud-design-patterns.png)
 
 ## Glossary
 
@@ -25,6 +25,7 @@ ms.date: 2026-10-27
 | **Queue-Based Load Leveling**<br>基于队列的负载均衡 | "Use a **queue** that **creates a buffer between a task and a service** to **smooth intermittent heavy loads**." | 使用**队列**，**在任务和服务之间创建缓冲区**，以**平滑间歇性的重负载**。 | [Microsoft, 2026, "Catalog of patterns" table, "Queue-Based Load Leveling" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Use%20a%20queue%20that%20creates%20a%20buffer%20between%20a%20task%20and%20a%20service) |
 | **Retry**<br>重试 | "Enable applications to **handle anticipated temporary failures** by **retrying failed operations**." | 让应用程序能够**处理预期的暂时性故障**，方法是**重试失败的操作**。 | [Microsoft, 2026, "Catalog of patterns" table, "Retry" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Enable%20applications%20to%20handle%20anticipated%20temporary%20failures) |
 | **Sharding**<br>分片 | "Divide a **data store** into a set of **horizontal partitions or shards**." | 把**数据存储**划分为一组**水平分区或分片**。 | [Microsoft, 2026, "Catalog of patterns" table, "Sharding" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Divide%20a%20data%20store%20into%20a%20set%20of%20horizontal%20partitions%20or%20shards) |
+| **Strangler Fig**<br>绞杀者无花果 | "**Incrementally migrate a legacy system** by **gradually replacing pieces of functionality** with new applications and services." | **逐步迁移旧系统**，方法是用新的应用程序和服务**逐渐替换各部分功能**。 | [Microsoft, 2026, "Catalog of patterns" table, "Strangler Fig" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Incrementally%20migrate%20a%20legacy%20system%20by%20gradually%20replacing) |
 
 ## References
 
