@@ -1,6 +1,6 @@
 # 3. Finance: term checklist
 
-Skeleton (2026-11-06), definitions pending. Source: Dahlquist, J., & Knight, R. (2026). *Principles of finance* (2nd ed.). OpenStax. Retrieved November 6, 2026, from <https://openstax.org/details/books/principles-finance-2e> (CC BY-NC-SA 4.0), cached whole through the OpenStax archive interface in `design-refs/official-docs/cache/data/openstax-principles-finance-2e-raw/`.
+Skeleton (2026-11-06), definitions pending. Source: Dahlquist, J., & Knight, R. (2026). *Principles of finance* (2nd ed.). OpenStax. Retrieved November 6, 2026, from <https://openstax.org/details/books/principles-finance-2e> (CC BY-NC-SA 4.0), cached whole through the OpenStax archive interface in `references/official-docs/cache/data/openstax-principles-finance-2e-raw/`.
 
 The terms are each chapter's Key Terms, each placed in the first section whose text marks it (`data-type="term"`, a plural counting as the same word); a Key Term no section marks stays on the chapter page. Words a section marks that Key Terms leaves out are left out: in this book they are almost all index names (companies, brands, people, places), listed below per chapter for checking. Chinese names were drafted with the local qwen3.6 model and are to be checked.
 

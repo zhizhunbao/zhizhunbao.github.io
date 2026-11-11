@@ -1,6 +1,6 @@
 # 4. Accounting: term checklist
 
-Skeleton (2026-11-06), definitions pending. Source: Franklin, M., Graybeal, P., & Cooper, D. (2019). *Principles of accounting, volume 2: Managerial accounting*. OpenStax. Retrieved November 6, 2026, from <https://openstax.org/details/books/principles-managerial-accounting> (CC BY-NC-SA 4.0), cached whole through the OpenStax archive interface in `design-refs/official-docs/cache/data/openstax-principles-managerial-accounting-raw/`.
+Skeleton (2026-11-06), definitions pending. Source: Franklin, M., Graybeal, P., & Cooper, D. (2019). *Principles of accounting, volume 2: Managerial accounting*. OpenStax. Retrieved November 6, 2026, from <https://openstax.org/details/books/principles-managerial-accounting> (CC BY-NC-SA 4.0), cached whole through the OpenStax archive interface in `references/official-docs/cache/data/openstax-principles-managerial-accounting-raw/`.
 
 The terms are each chapter's Key Terms, each placed in the first section whose text marks it (`data-type="term"`, a plural counting as the same word); a Key Term no section marks stays on the chapter page. Words a section marks that Key Terms leaves out are left out: in this book they are almost all index names (companies, brands, people, places), listed below per chapter for checking. Chinese names were drafted with the local qwen3.6 model and are to be checked.
 
