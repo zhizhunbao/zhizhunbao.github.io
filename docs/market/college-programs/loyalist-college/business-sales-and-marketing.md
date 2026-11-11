@@ -1,10 +1,10 @@
 ---
-title: "10.31.11 Business Sales and Marketing"
+title: "10.35.11 Business Sales and Marketing"
 description: "Market > College Programs > Loyalist College > Business Sales and Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.11 Business Sales and Marketing
+# 10.35.11 Business Sales and Marketing
 
 ## Glossary
 

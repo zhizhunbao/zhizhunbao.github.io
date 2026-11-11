@@ -1,10 +1,10 @@
 ---
-title: "10.18.108 Practical Nursing (PSW-PN bridge)"
+title: "10.21.108 Practical Nursing (PSW-PN bridge)"
 description: "Market > College Programs > Durham College > Practical Nursing (PSW-PN bridge): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.108 Practical Nursing (PSW-PN bridge)
+# 10.21.108 Practical Nursing (PSW-PN bridge)
 
 ## Glossary
 

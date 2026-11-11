@@ -1,10 +1,10 @@
 ---
-title: "10.52.64 Psychology - Associate of Arts Degree"
+title: "10.58.64 Psychology - Associate of Arts Degree"
 description: "Market > College Programs > Selkirk College > Psychology - Associate of Arts Degree: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.64 Psychology - Associate of Arts Degree
+# 10.58.64 Psychology - Associate of Arts Degree
 
 ## Glossary
 

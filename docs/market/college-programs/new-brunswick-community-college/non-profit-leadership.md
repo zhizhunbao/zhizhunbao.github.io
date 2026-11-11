@@ -1,10 +1,10 @@
 ---
-title: "10.35.62 Non-Profit Leadership"
+title: "10.40.62 Non-Profit Leadership"
 description: "Market > College Programs > New Brunswick Community College > Non-Profit Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.62 Non-Profit Leadership
+# 10.40.62 Non-Profit Leadership
 
 ## Glossary
 

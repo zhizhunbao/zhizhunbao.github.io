@@ -1,10 +1,10 @@
 ---
-title: "10.23.22 Early Childhood Care And Education"
+title: "10.27.22 Early Childhood Care And Education"
 description: "Market > College Programs > Holland College > Early Childhood Care And Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.22 Early Childhood Care And Education
+# 10.27.22 Early Childhood Care And Education
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.29.94 Theatre Arts at Studio 58 (Theatre Production)"
+title: "10.33.94 Theatre Arts at Studio 58 (Theatre Production)"
 description: "Market > College Programs > Langara College > Theatre Arts at Studio 58 (Theatre Production): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.94 Theatre Arts at Studio 58 (Theatre Production)
+# 10.33.94 Theatre Arts at Studio 58 (Theatre Production)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.49.35 Health Care Aide and Health Unit Clerk"
+title: "10.55.35 Health Care Aide and Health Unit Clerk"
 description: "Market > College Programs > Red River College Polytechnic > Health Care Aide and Health Unit Clerk: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.35 Health Care Aide and Health Unit Clerk
+# 10.55.35 Health Care Aide and Health Unit Clerk
 
 ## Glossary
 

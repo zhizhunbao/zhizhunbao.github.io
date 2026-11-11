@@ -1,10 +1,10 @@
 ---
-title: "10.15.74 Computer Systems Technician - Information Technology Infrastructure and Services (Optional Co-op)"
+title: "10.18.74 Computer Systems Technician - Information Technology Infrastructure and Services (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Computer Systems Technician - Information Technology Infrastructure and Services (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.74 Computer Systems Technician - Information Technology Infrastructure and Services (Optional Co-op)
+# 10.18.74 Computer Systems Technician - Information Technology Infrastructure and Services (Optional Co-op)
 
 ## Glossary
 

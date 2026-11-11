@@ -1,10 +1,10 @@
 ---
-title: "10.12.13 Civil Engineering Technology Diploma"
+title: "10.15.13 Civil Engineering Technology Diploma"
 description: "Market > College Programs > College of New Caledonia > Civil Engineering Technology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.13 Civil Engineering Technology Diploma
+# 10.15.13 Civil Engineering Technology Diploma
 
 ## Glossary
 

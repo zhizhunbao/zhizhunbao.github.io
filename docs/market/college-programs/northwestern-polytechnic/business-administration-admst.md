@@ -1,10 +1,10 @@
 ---
-title: "10.43.2 Business Administration (ADMST)"
+title: "10.49.2 Business Administration (ADMST)"
 description: "Market > College Programs > Northwestern Polytechnic > Business Administration (ADMST): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.2 Business Administration (ADMST)
+# 10.49.2 Business Administration (ADMST)
 
 ## Glossary
 

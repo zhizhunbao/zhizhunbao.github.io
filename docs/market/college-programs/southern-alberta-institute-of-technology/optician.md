@@ -1,10 +1,10 @@
 ---
-title: "10.55.100 Optician"
+title: "10.62.100 Optician"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Optician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.100 Optician
+# 10.62.100 Optician
 
 ## Glossary
 

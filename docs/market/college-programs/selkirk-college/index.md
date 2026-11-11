@@ -1,10 +1,10 @@
 ---
-title: "10.52 Selkirk College"
+title: "10.58 Selkirk College"
 description: "Market > College Programs > Selkirk College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52 Selkirk College
+# 10.58 Selkirk College
 
 ## Glossary
 

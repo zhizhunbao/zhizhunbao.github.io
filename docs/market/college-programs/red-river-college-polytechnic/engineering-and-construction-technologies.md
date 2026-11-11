@@ -1,10 +1,10 @@
 ---
-title: "10.49.30 Engineering and Construction Technologies"
+title: "10.55.30 Engineering and Construction Technologies"
 description: "Market > College Programs > Red River College Polytechnic > Engineering and Construction Technologies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.30 Engineering and Construction Technologies
+# 10.55.30 Engineering and Construction Technologies
 
 ## Glossary
 

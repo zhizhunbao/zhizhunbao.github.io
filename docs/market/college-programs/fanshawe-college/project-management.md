@@ -1,10 +1,10 @@
 ---
-title: "10.19.151 Project Management"
+title: "10.22.151 Project Management"
 description: "Market > College Programs > Fanshawe College > Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.151 Project Management
+# 10.22.151 Project Management
 
 ## Glossary
 

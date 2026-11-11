@@ -1,10 +1,10 @@
 ---
-title: "10.24.91 Marketing Management"
+title: "10.28.91 Marketing Management"
 description: "Market > College Programs > Humber Polytechnic > Marketing Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.91 Marketing Management
+# 10.28.91 Marketing Management
 
 ## Glossary
 

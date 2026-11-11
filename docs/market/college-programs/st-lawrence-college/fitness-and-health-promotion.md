@@ -1,10 +1,10 @@
 ---
-title: "10.57.42 Fitness and Health Promotion"
+title: "10.64.42 Fitness and Health Promotion"
 description: "Market > College Programs > St. Lawrence College > Fitness and Health Promotion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.42 Fitness and Health Promotion
+# 10.64.42 Fitness and Health Promotion
 
 ## Glossary
 

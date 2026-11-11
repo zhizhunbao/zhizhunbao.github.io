@@ -1,10 +1,10 @@
 ---
-title: "10.39.94 Professional Meat Cutting and Merchandising"
+title: "10.45.94 Professional Meat Cutting and Merchandising"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Professional Meat Cutting and Merchandising: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.94 Professional Meat Cutting and Merchandising
+# 10.45.94 Professional Meat Cutting and Merchandising
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.58.53 University Transfer – Science"
+title: "10.66.53 University Transfer – Science"
 description: "Market > College Programs > Vancouver Community College > University Transfer – Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.53 University Transfer – Science
+# 10.66.53 University Transfer – Science
 
 ## Glossary
 

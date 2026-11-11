@@ -1,10 +1,10 @@
 ---
-title: "10.35.54 Justice Studies: Police Foundations"
+title: "10.40.54 Justice Studies: Police Foundations"
 description: "Market > College Programs > New Brunswick Community College > Justice Studies: Police Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.54 Justice Studies: Police Foundations
+# 10.40.54 Justice Studies: Police Foundations
 
 ## Glossary
 

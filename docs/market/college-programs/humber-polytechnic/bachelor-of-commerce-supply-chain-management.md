@@ -1,10 +1,10 @@
 ---
-title: "10.24.18 Bachelor of Commerce - Supply Chain Management"
+title: "10.28.18 Bachelor of Commerce - Supply Chain Management"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Commerce - Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.18 Bachelor of Commerce - Supply Chain Management
+# 10.28.18 Bachelor of Commerce - Supply Chain Management
 
 ## Glossary
 

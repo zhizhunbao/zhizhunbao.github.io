@@ -1,10 +1,10 @@
 ---
-title: "10.47.4 Aircraft Structures Technician Certificate"
+title: "10.53.4 Aircraft Structures Technician Certificate"
 description: "Market > College Programs > Portage College > Aircraft Structures Technician Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.4 Aircraft Structures Technician Certificate
+# 10.53.4 Aircraft Structures Technician Certificate
 
 ## Glossary
 

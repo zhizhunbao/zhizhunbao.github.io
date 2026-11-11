@@ -1,10 +1,10 @@
 ---
-title: "10.28.103 Occupational Health & Safety Management (OHST)"
+title: "10.32.103 Occupational Health & Safety Management (OHST)"
 description: "Market > College Programs > Lambton College > Occupational Health & Safety Management (OHST): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.103 Occupational Health & Safety Management (OHST)
+# 10.32.103 Occupational Health & Safety Management (OHST)
 
 ## Glossary
 

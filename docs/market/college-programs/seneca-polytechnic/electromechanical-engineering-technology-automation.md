@@ -1,10 +1,10 @@
 ---
-title: "10.53.55 Electromechanical Engineering Technology – Automation"
+title: "10.59.55 Electromechanical Engineering Technology – Automation"
 description: "Market > College Programs > Seneca Polytechnic > Electromechanical Engineering Technology – Automation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.55 Electromechanical Engineering Technology – Automation
+# 10.59.55 Electromechanical Engineering Technology – Automation
 
 ## Glossary
 

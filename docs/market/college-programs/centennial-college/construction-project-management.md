@@ -1,10 +1,10 @@
 ---
-title: "10.8.70 Construction Project Management"
+title: "10.9.70 Construction Project Management"
 description: "Market > College Programs > Centennial College > Construction Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.70 Construction Project Management
+# 10.9.70 Construction Project Management
 
 ## Glossary
 

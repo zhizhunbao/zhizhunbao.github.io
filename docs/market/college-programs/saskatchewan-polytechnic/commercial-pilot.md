@@ -1,10 +1,10 @@
 ---
-title: "10.50.17 Commercial Pilot"
+title: "10.56.17 Commercial Pilot"
 description: "Market > College Programs > Saskatchewan Polytechnic > Commercial Pilot: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.17 Commercial Pilot
+# 10.56.17 Commercial Pilot
 
 ## Glossary
 

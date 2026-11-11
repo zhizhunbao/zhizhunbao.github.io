@@ -1,10 +1,10 @@
 ---
-title: "10.28.62 Cyber Security & Computer Forensics"
+title: "10.32.62 Cyber Security & Computer Forensics"
 description: "Market > College Programs > Lambton College > Cyber Security & Computer Forensics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.62 Cyber Security & Computer Forensics
+# 10.32.62 Cyber Security & Computer Forensics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.173 Software Engineering Technician (Fast-Track)(Online)"
+title: "10.9.173 Software Engineering Technician (Fast-Track)(Online)"
 description: "Market > College Programs > Centennial College > Software Engineering Technician (Fast-Track)(Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.173 Software Engineering Technician (Fast-Track)(Online)
+# 10.9.173 Software Engineering Technician (Fast-Track)(Online)
 
 ## Glossary
 

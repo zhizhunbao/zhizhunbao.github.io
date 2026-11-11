@@ -1,10 +1,10 @@
 ---
-title: "10.26.12 Computer Systems Technology Certificate"
+title: "10.30.12 Computer Systems Technology Certificate"
 description: "Market > College Programs > Keyano College > Computer Systems Technology Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.12 Computer Systems Technology Certificate
+# 10.30.12 Computer Systems Technology Certificate
 
 ## Glossary
 

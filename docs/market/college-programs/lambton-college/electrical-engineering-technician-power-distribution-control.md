@@ -1,10 +1,10 @@
 ---
-title: "10.28.68 Electrical Engineering Technician - Power Distribution & Control"
+title: "10.32.68 Electrical Engineering Technician - Power Distribution & Control"
 description: "Market > College Programs > Lambton College > Electrical Engineering Technician - Power Distribution & Control: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.68 Electrical Engineering Technician - Power Distribution & Control
+# 10.32.68 Electrical Engineering Technician - Power Distribution & Control
 
 ## Glossary
 

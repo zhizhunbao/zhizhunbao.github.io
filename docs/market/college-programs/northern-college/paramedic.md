@@ -1,10 +1,10 @@
 ---
-title: "10.40.42 Paramedic"
+title: "10.46.42 Paramedic"
 description: "Market > College Programs > Northern College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.42 Paramedic
+# 10.46.42 Paramedic
 
 ## Glossary
 

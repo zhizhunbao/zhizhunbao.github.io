@@ -1,10 +1,10 @@
 ---
-title: "10.9.1 (ECEE) Exceptionalities Early Childhood Educator"
+title: "10.10.1 (ECEE) Exceptionalities Early Childhood Educator"
 description: "Market > College Programs > Coast Mountain College > (ECEE) Exceptionalities Early Childhood Educator: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.9.1 (ECEE) Exceptionalities Early Childhood Educator
+# 10.10.1 (ECEE) Exceptionalities Early Childhood Educator
 
 ## Glossary
 

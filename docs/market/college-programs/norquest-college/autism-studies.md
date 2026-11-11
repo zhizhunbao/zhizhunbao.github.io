@@ -1,10 +1,10 @@
 ---
-title: "10.37.6 Autism Studies"
+title: "10.42.6 Autism Studies"
 description: "Market > College Programs > NorQuest College > Autism Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.6 Autism Studies
+# 10.42.6 Autism Studies
 
 ## Glossary
 

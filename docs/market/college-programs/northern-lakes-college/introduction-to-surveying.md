@@ -1,10 +1,10 @@
 ---
-title: "10.41.14 Introduction to Surveying"
+title: "10.47.14 Introduction to Surveying"
 description: "Market > College Programs > Northern Lakes College > Introduction to Surveying: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.14 Introduction to Surveying
+# 10.47.14 Introduction to Surveying
 
 ## Glossary
 

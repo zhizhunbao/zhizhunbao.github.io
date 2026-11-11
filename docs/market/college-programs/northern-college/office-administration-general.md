@@ -1,10 +1,10 @@
 ---
-title: "10.40.41 Office Administration – General"
+title: "10.46.41 Office Administration – General"
 description: "Market > College Programs > Northern College > Office Administration – General: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.41 Office Administration – General
+# 10.46.41 Office Administration – General
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.11.54 Pratiques en administration de bureau"
+title: "10.14.54 Pratiques en administration de bureau"
 description: "Market > College Programs > Collège La Cité > Pratiques en administration de bureau: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.54 Pratiques en administration de bureau
+# 10.14.54 Pratiques en administration de bureau
 
 ## Glossary
 

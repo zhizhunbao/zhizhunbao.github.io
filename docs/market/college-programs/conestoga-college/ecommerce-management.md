@@ -1,10 +1,10 @@
 ---
-title: "10.15.92 eCommerce Management"
+title: "10.18.92 eCommerce Management"
 description: "Market > College Programs > Conestoga College > eCommerce Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.92 eCommerce Management
+# 10.18.92 eCommerce Management
 
 ## Glossary
 

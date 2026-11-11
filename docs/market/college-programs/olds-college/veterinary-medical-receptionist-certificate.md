@@ -1,10 +1,10 @@
 ---
-title: "10.46.32 Veterinary Medical Receptionist Certificate"
+title: "10.52.32 Veterinary Medical Receptionist Certificate"
 description: "Market > College Programs > Olds College > Veterinary Medical Receptionist Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.32 Veterinary Medical Receptionist Certificate
+# 10.52.32 Veterinary Medical Receptionist Certificate
 
 ## Glossary
 

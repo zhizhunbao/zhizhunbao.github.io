@@ -1,10 +1,10 @@
 ---
-title: "10.53.79 General Arts – One Year Certificate"
+title: "10.59.79 General Arts – One Year Certificate"
 description: "Market > College Programs > Seneca Polytechnic > General Arts – One Year Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.79 General Arts – One Year Certificate
+# 10.59.79 General Arts – One Year Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.91 GIS and Urban Planning"
+title: "10.22.91 GIS and Urban Planning"
 description: "Market > College Programs > Fanshawe College > GIS and Urban Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.91 GIS and Urban Planning
+# 10.22.91 GIS and Urban Planning
 
 ## Glossary
 

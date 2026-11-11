@@ -1,10 +1,10 @@
 ---
-title: "10.15.20 Bachelor of Data Science and Artificial Intelligence (Honours)"
+title: "10.18.20 Bachelor of Data Science and Artificial Intelligence (Honours)"
 description: "Market > College Programs > Conestoga College > Bachelor of Data Science and Artificial Intelligence (Honours): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.20 Bachelor of Data Science and Artificial Intelligence (Honours)
+# 10.18.20 Bachelor of Data Science and Artificial Intelligence (Honours)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.54.54 Honours Bachelor of Computer Science (Mobile Computing)"
+title: "10.60.54 Honours Bachelor of Computer Science (Mobile Computing)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Computer Science (Mobile Computing): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.54 Honours Bachelor of Computer Science (Mobile Computing)
+# 10.60.54 Honours Bachelor of Computer Science (Mobile Computing)
 
 ## Glossary
 

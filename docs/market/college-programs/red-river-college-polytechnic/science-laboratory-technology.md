@@ -1,10 +1,10 @@
 ---
-title: "10.49.61 Science Laboratory Technology"
+title: "10.55.61 Science Laboratory Technology"
 description: "Market > College Programs > Red River College Polytechnic > Science Laboratory Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.61 Science Laboratory Technology
+# 10.55.61 Science Laboratory Technology
 
 ## Glossary
 

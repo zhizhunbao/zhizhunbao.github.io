@@ -1,10 +1,10 @@
 ---
-title: "10.17.53 Global Banking and Economics"
+title: "10.20.53 Global Banking and Economics"
 description: "Market > College Programs > Douglas College > Global Banking and Economics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.53 Global Banking and Economics
+# 10.20.53 Global Banking and Economics
 
 ## Glossary
 

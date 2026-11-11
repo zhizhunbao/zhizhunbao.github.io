@@ -1,10 +1,10 @@
 ---
-title: "10.19.20 Bachelor of Science - Nursing"
+title: "10.22.20 Bachelor of Science - Nursing"
 description: "Market > College Programs > Fanshawe College > Bachelor of Science - Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.20 Bachelor of Science - Nursing
+# 10.22.20 Bachelor of Science - Nursing
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.29.39 Design Formation"
+title: "10.33.39 Design Formation"
 description: "Market > College Programs > Langara College > Design Formation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.39 Design Formation
+# 10.33.39 Design Formation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.24 Business - Accounting (ACTF)"
+title: "10.32.24 Business - Accounting (ACTF)"
 description: "Market > College Programs > Lambton College > Business - Accounting (ACTF): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.24 Business - Accounting (ACTF)
+# 10.32.24 Business - Accounting (ACTF)
 
 ## Glossary
 

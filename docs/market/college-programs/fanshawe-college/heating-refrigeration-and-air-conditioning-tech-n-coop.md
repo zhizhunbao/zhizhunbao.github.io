@@ -1,10 +1,10 @@
 ---
-title: "10.19.98 Heating, Refrigeration and Air Conditioning Tech'n (Coop)"
+title: "10.22.98 Heating, Refrigeration and Air Conditioning Tech'n (Coop)"
 description: "Market > College Programs > Fanshawe College > Heating, Refrigeration and Air Conditioning Tech'n (Coop): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.98 Heating, Refrigeration and Air Conditioning Tech'n (Coop)
+# 10.22.98 Heating, Refrigeration and Air Conditioning Tech'n (Coop)
 
 ## Glossary
 

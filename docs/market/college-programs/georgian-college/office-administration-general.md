@@ -1,10 +1,10 @@
 ---
-title: "10.22.129 Office Administration - General"
+title: "10.25.129 Office Administration - General"
 description: "Market > College Programs > Georgian College > Office Administration - General: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.129 Office Administration - General
+# 10.25.129 Office Administration - General
 
 ## Glossary
 

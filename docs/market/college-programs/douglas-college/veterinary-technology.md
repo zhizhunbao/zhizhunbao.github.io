@@ -1,10 +1,10 @@
 ---
-title: "10.17.83 Veterinary Technology"
+title: "10.20.83 Veterinary Technology"
 description: "Market > College Programs > Douglas College > Veterinary Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.83 Veterinary Technology
+# 10.20.83 Veterinary Technology
 
 ## Glossary
 

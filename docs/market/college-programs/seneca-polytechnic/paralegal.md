@@ -1,10 +1,10 @@
 ---
-title: "10.53.133 Paralegal"
+title: "10.59.133 Paralegal"
 description: "Market > College Programs > Seneca Polytechnic > Paralegal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.133 Paralegal
+# 10.59.133 Paralegal
 
 ## Glossary
 

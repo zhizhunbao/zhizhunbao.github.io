@@ -1,10 +1,10 @@
 ---
-title: "10.52.50 Music and Technology, Contemporary - Advanced Diploma"
+title: "10.58.50 Music and Technology, Contemporary - Advanced Diploma"
 description: "Market > College Programs > Selkirk College > Music and Technology, Contemporary - Advanced Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.50 Music and Technology, Contemporary - Advanced Diploma
+# 10.58.50 Music and Technology, Contemporary - Advanced Diploma
 
 ## Glossary
 

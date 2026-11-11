@@ -1,10 +1,10 @@
 ---
-title: "10.40.4 Bachelor of Science in Nursing (BScN)"
+title: "10.46.4 Bachelor of Science in Nursing (BScN)"
 description: "Market > College Programs > Northern College > Bachelor of Science in Nursing (BScN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.4 Bachelor of Science in Nursing (BScN)
+# 10.46.4 Bachelor of Science in Nursing (BScN)
 
 ## Glossary
 

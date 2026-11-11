@@ -1,10 +1,10 @@
 ---
-title: "10.24.89 Information Technology Systems Analyst"
+title: "10.28.89 Information Technology Systems Analyst"
 description: "Market > College Programs > Humber Polytechnic > Information Technology Systems Analyst: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.89 Information Technology Systems Analyst
+# 10.28.89 Information Technology Systems Analyst
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.43.16 Fine Arts"
+title: "10.49.16 Fine Arts"
 description: "Market > College Programs > Northwestern Polytechnic > Fine Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.16 Fine Arts
+# 10.49.16 Fine Arts
 
 ## Glossary
 

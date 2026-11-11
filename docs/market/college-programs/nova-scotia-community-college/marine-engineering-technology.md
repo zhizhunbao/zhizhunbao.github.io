@@ -1,10 +1,10 @@
 ---
-title: "10.44.85 Marine Engineering Technology"
+title: "10.50.85 Marine Engineering Technology"
 description: "Market > College Programs > Nova Scotia Community College > Marine Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.85 Marine Engineering Technology
+# 10.50.85 Marine Engineering Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.10 Animation"
+title: "10.22.10 Animation"
 description: "Market > College Programs > Fanshawe College > Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.10 Animation
+# 10.22.10 Animation
 
 ## Glossary
 

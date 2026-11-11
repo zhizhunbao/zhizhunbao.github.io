@@ -1,10 +1,10 @@
 ---
-title: "10.32.9 Personal Trainer Certificate Program"
+title: "10.36.9 Personal Trainer Certificate Program"
 description: "Market > College Programs > MaKami College > Personal Trainer Certificate Program: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.9 Personal Trainer Certificate Program
+# 10.36.9 Personal Trainer Certificate Program
 
 ## Glossary
 

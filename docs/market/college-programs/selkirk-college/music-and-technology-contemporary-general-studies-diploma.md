@@ -1,10 +1,10 @@
 ---
-title: "10.52.52 Music and Technology, Contemporary - General Studies Diploma"
+title: "10.58.52 Music and Technology, Contemporary - General Studies Diploma"
 description: "Market > College Programs > Selkirk College > Music and Technology, Contemporary - General Studies Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.52 Music and Technology, Contemporary - General Studies Diploma
+# 10.58.52 Music and Technology, Contemporary - General Studies Diploma
 
 ## Glossary
 

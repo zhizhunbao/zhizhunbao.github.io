@@ -1,10 +1,10 @@
 ---
-title: "10.11.40 Dépendances et santé mentale"
+title: "10.14.40 Dépendances et santé mentale"
 description: "Market > College Programs > Collège La Cité > Dépendances et santé mentale: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.40 Dépendances et santé mentale
+# 10.14.40 Dépendances et santé mentale
 
 ## Glossary
 

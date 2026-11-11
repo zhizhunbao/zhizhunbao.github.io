@@ -1,10 +1,10 @@
 ---
-title: "10.11.32 Commerce – finance"
+title: "10.14.32 Commerce – finance"
 description: "Market > College Programs > Collège La Cité > Commerce – finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.32 Commerce – finance
+# 10.14.32 Commerce – finance
 
 ## Glossary
 

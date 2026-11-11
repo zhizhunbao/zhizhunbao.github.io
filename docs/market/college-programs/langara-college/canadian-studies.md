@@ -1,10 +1,10 @@
 ---
-title: "10.29.24 Canadian Studies"
+title: "10.33.24 Canadian Studies"
 description: "Market > College Programs > Langara College > Canadian Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.24 Canadian Studies
+# 10.33.24 Canadian Studies
 
 ## Glossary
 

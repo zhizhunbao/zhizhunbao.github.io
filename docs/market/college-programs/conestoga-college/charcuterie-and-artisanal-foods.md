@@ -1,10 +1,10 @@
 ---
-title: "10.15.57 Charcuterie and Artisanal Foods"
+title: "10.18.57 Charcuterie and Artisanal Foods"
 description: "Market > College Programs > Conestoga College > Charcuterie and Artisanal Foods: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.57 Charcuterie and Artisanal Foods
+# 10.18.57 Charcuterie and Artisanal Foods
 
 ## Glossary
 

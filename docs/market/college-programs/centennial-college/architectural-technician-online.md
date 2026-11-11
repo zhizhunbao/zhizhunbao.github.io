@@ -1,10 +1,10 @@
 ---
-title: "10.8.8 Architectural Technician (Online)"
+title: "10.9.8 Architectural Technician (Online)"
 description: "Market > College Programs > Centennial College > Architectural Technician (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.8 Architectural Technician (Online)
+# 10.9.8 Architectural Technician (Online)
 
 ## Glossary
 

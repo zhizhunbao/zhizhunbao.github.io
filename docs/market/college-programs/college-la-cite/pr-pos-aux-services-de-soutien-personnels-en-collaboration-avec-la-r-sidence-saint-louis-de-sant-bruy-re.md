@@ -1,10 +1,10 @@
 ---
-title: "10.11.66 Préposé aux services de soutien personnels (en collaboration avec la résidence Saint-Louis de Santé Bruyère)"
+title: "10.14.66 Préposé aux services de soutien personnels (en collaboration avec la résidence Saint-Louis de Santé Bruyère)"
 description: "Market > College Programs > Collège La Cité > Préposé aux services de soutien personnels (en collaboration avec la résidence Saint-Louis de Santé Bruyère): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.66 Préposé aux services de soutien personnels (en collaboration avec la résidence Saint-Louis de Santé Bruyère)
+# 10.14.66 Préposé aux services de soutien personnels (en collaboration avec la résidence Saint-Louis de Santé Bruyère)
 
 ## Glossary
 

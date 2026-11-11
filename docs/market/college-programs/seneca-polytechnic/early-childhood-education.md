@@ -1,10 +1,10 @@
 ---
-title: "10.53.53 Early Childhood Education"
+title: "10.59.53 Early Childhood Education"
 description: "Market > College Programs > Seneca Polytechnic > Early Childhood Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.53 Early Childhood Education
+# 10.59.53 Early Childhood Education
 
 ## Glossary
 

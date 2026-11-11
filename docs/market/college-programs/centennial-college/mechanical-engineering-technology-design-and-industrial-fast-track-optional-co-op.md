@@ -1,10 +1,10 @@
 ---
-title: "10.8.134 Mechanical Engineering Technology - Design and Industrial (Fast-Track) (Optional Co-op)"
+title: "10.9.134 Mechanical Engineering Technology - Design and Industrial (Fast-Track) (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Mechanical Engineering Technology - Design and Industrial (Fast-Track) (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.134 Mechanical Engineering Technology - Design and Industrial (Fast-Track) (Optional Co-op)
+# 10.9.134 Mechanical Engineering Technology - Design and Industrial (Fast-Track) (Optional Co-op)
 
 ## Glossary
 

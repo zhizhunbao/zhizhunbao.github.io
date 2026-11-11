@@ -1,10 +1,10 @@
 ---
-title: "10.56.45 Electromechanical Engineering Technician - Robotics"
+title: "10.63.45 Electromechanical Engineering Technician - Robotics"
 description: "Market > College Programs > St. Clair College > Electromechanical Engineering Technician - Robotics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.45 Electromechanical Engineering Technician - Robotics
+# 10.63.45 Electromechanical Engineering Technician - Robotics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.102 Honours Bachelor of Commerce (Digital Marketing)"
+title: "10.22.102 Honours Bachelor of Commerce (Digital Marketing)"
 description: "Market > College Programs > Fanshawe College > Honours Bachelor of Commerce (Digital Marketing): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.102 Honours Bachelor of Commerce (Digital Marketing)
+# 10.22.102 Honours Bachelor of Commerce (Digital Marketing)
 
 ## Glossary
 

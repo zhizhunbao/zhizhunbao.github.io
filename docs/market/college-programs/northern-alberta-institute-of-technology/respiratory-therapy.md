@@ -1,10 +1,10 @@
 ---
-title: "10.39.95 Respiratory Therapy"
+title: "10.45.95 Respiratory Therapy"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Respiratory Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.95 Respiratory Therapy
+# 10.45.95 Respiratory Therapy
 
 ## Glossary
 

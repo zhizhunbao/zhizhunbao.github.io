@@ -1,10 +1,10 @@
 ---
-title: "10.19.60 Customer Relationship Marketing & Sales Management"
+title: "10.22.60 Customer Relationship Marketing & Sales Management"
 description: "Market > College Programs > Fanshawe College > Customer Relationship Marketing & Sales Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.60 Customer Relationship Marketing & Sales Management
+# 10.22.60 Customer Relationship Marketing & Sales Management
 
 ## Glossary
 

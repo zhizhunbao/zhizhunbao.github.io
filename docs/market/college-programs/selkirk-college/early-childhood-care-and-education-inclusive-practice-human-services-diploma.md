@@ -1,10 +1,10 @@
 ---
-title: "10.52.22 Early Childhood Care and Education (Inclusive Practice) - Human Services Diploma"
+title: "10.58.22 Early Childhood Care and Education (Inclusive Practice) - Human Services Diploma"
 description: "Market > College Programs > Selkirk College > Early Childhood Care and Education (Inclusive Practice) - Human Services Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.22 Early Childhood Care and Education (Inclusive Practice) - Human Services Diploma
+# 10.58.22 Early Childhood Care and Education (Inclusive Practice) - Human Services Diploma
 
 ## Glossary
 

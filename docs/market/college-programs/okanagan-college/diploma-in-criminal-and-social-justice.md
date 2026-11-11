@@ -1,10 +1,10 @@
 ---
-title: "10.45.15 Diploma in Criminal and Social Justice"
+title: "10.51.15 Diploma in Criminal and Social Justice"
 description: "Market > College Programs > Okanagan College > Diploma in Criminal and Social Justice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.15 Diploma in Criminal and Social Justice
+# 10.51.15 Diploma in Criminal and Social Justice
 
 ## Glossary
 

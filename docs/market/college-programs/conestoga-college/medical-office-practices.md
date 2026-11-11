@@ -1,10 +1,10 @@
 ---
-title: "10.15.150 Medical Office Practices"
+title: "10.18.150 Medical Office Practices"
 description: "Market > College Programs > Conestoga College > Medical Office Practices: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.150 Medical Office Practices
+# 10.18.150 Medical Office Practices
 
 ## Glossary
 

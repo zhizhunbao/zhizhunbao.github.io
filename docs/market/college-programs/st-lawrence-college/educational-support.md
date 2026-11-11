@@ -1,10 +1,10 @@
 ---
-title: "10.57.33 Educational Support"
+title: "10.64.33 Educational Support"
 description: "Market > College Programs > St. Lawrence College > Educational Support: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.33 Educational Support
+# 10.64.33 Educational Support
 
 ## Glossary
 

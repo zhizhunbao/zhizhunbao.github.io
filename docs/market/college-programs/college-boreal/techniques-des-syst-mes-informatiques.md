@@ -1,10 +1,10 @@
 ---
-title: "10.10.44 Techniques des systèmes informatiques"
+title: "10.11.44 Techniques des systèmes informatiques"
 description: "Market > College Programs > Collège Boréal > Techniques des systèmes informatiques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.44 Techniques des systèmes informatiques
+# 10.11.44 Techniques des systèmes informatiques
 
 ## Glossary
 

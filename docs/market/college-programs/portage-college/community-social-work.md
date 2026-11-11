@@ -1,10 +1,10 @@
 ---
-title: "10.47.9 Community Social Work"
+title: "10.53.9 Community Social Work"
 description: "Market > College Programs > Portage College > Community Social Work: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.9 Community Social Work
+# 10.53.9 Community Social Work
 
 ## Glossary
 

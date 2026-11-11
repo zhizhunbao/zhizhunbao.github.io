@@ -1,10 +1,10 @@
 ---
-title: "10.58.23 Digital Marketing Technology"
+title: "10.66.23 Digital Marketing Technology"
 description: "Market > College Programs > Vancouver Community College > Digital Marketing Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.23 Digital Marketing Technology
+# 10.66.23 Digital Marketing Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.45.10 Business Administration Diploma"
+title: "10.51.10 Business Administration Diploma"
 description: "Market > College Programs > Okanagan College > Business Administration Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.10 Business Administration Diploma
+# 10.51.10 Business Administration Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.36.80 Recreation Therapy"
+title: "10.41.80 Recreation Therapy"
 description: "Market > College Programs > Niagara College > Recreation Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.80 Recreation Therapy
+# 10.41.80 Recreation Therapy
 
 ## Glossary
 

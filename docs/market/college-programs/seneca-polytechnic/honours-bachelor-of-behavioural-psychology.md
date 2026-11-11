@@ -1,10 +1,10 @@
 ---
-title: "10.53.83 Honours Bachelor of Behavioural Psychology"
+title: "10.59.83 Honours Bachelor of Behavioural Psychology"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Behavioural Psychology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.83 Honours Bachelor of Behavioural Psychology
+# 10.59.83 Honours Bachelor of Behavioural Psychology
 
 ## Glossary
 

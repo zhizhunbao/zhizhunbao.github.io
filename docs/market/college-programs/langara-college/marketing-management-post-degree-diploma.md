@@ -1,10 +1,10 @@
 ---
-title: "10.29.74 Marketing Management - Post-Degree Diploma"
+title: "10.33.74 Marketing Management - Post-Degree Diploma"
 description: "Market > College Programs > Langara College > Marketing Management - Post-Degree Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.74 Marketing Management - Post-Degree Diploma
+# 10.33.74 Marketing Management - Post-Degree Diploma
 
 ## Glossary
 

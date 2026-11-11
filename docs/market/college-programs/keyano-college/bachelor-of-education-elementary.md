@@ -1,10 +1,10 @@
 ---
-title: "10.26.5 Bachelor of Education – Elementary"
+title: "10.30.5 Bachelor of Education – Elementary"
 description: "Market > College Programs > Keyano College > Bachelor of Education – Elementary: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.5 Bachelor of Education – Elementary
+# 10.30.5 Bachelor of Education – Elementary
 
 ## Glossary
 

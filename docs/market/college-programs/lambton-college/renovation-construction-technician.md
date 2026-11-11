@@ -1,10 +1,10 @@
 ---
-title: "10.28.123 Renovation Construction Technician"
+title: "10.32.123 Renovation Construction Technician"
 description: "Market > College Programs > Lambton College > Renovation Construction Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.123 Renovation Construction Technician
+# 10.32.123 Renovation Construction Technician
 
 ## Glossary
 

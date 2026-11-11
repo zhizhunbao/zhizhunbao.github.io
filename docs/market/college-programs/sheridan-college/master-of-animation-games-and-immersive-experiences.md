@@ -1,10 +1,10 @@
 ---
-title: "10.54.83 Master of Animation, Games, and Immersive Experiences"
+title: "10.60.83 Master of Animation, Games, and Immersive Experiences"
 description: "Market > College Programs > Sheridan College > Master of Animation, Games, and Immersive Experiences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.83 Master of Animation, Games, and Immersive Experiences
+# 10.60.83 Master of Animation, Games, and Immersive Experiences
 
 ## Glossary
 

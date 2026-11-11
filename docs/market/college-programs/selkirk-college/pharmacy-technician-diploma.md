@@ -1,10 +1,10 @@
 ---
-title: "10.52.60 Pharmacy Technician - Diploma"
+title: "10.58.60 Pharmacy Technician - Diploma"
 description: "Market > College Programs > Selkirk College > Pharmacy Technician - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.60 Pharmacy Technician - Diploma
+# 10.58.60 Pharmacy Technician - Diploma
 
 ## Glossary
 

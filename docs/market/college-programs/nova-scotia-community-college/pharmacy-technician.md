@@ -1,10 +1,10 @@
 ---
-title: "10.44.107 Pharmacy Technician"
+title: "10.50.107 Pharmacy Technician"
 description: "Market > College Programs > Nova Scotia Community College > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.107 Pharmacy Technician
+# 10.50.107 Pharmacy Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.56.48 Esports Administration and Entrepreneurship"
+title: "10.63.48 Esports Administration and Entrepreneurship"
 description: "Market > College Programs > St. Clair College > Esports Administration and Entrepreneurship: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.48 Esports Administration and Entrepreneurship
+# 10.63.48 Esports Administration and Entrepreneurship
 
 ## Glossary
 

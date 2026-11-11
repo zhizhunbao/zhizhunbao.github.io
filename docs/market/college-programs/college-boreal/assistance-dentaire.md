@@ -1,10 +1,10 @@
 ---
-title: "10.10.5 Assistance dentaire"
+title: "10.11.5 Assistance dentaire"
 description: "Market > College Programs > Collège Boréal > Assistance dentaire: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.5 Assistance dentaire
+# 10.11.5 Assistance dentaire
 
 ## Glossary
 

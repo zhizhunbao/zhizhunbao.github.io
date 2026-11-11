@@ -1,10 +1,10 @@
 ---
-title: "10.40.16 Educational Support"
+title: "10.46.16 Educational Support"
 description: "Market > College Programs > Northern College > Educational Support: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.16 Educational Support
+# 10.46.16 Educational Support
 
 ## Glossary
 

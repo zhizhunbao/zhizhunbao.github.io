@@ -1,10 +1,10 @@
 ---
-title: "10.34.9 Aviation Technician - Aircraft Structures"
+title: "10.39.9 Aviation Technician - Aircraft Structures"
 description: "Market > College Programs > Mohawk College > Aviation Technician - Aircraft Structures: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.9 Aviation Technician - Aircraft Structures
+# 10.39.9 Aviation Technician - Aircraft Structures
 
 ## Glossary
 

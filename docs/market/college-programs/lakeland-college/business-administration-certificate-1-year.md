@@ -1,10 +1,10 @@
 ---
-title: "10.27.13 Business Administration Certificate, 1-year"
+title: "10.31.13 Business Administration Certificate, 1-year"
 description: "Market > College Programs > Lakeland College > Business Administration Certificate, 1-year: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.13 Business Administration Certificate, 1-year
+# 10.31.13 Business Administration Certificate, 1-year
 
 ## Glossary
 

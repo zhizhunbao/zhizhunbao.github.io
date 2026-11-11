@@ -1,10 +1,10 @@
 ---
-title: "10.19.68 Doula Studies"
+title: "10.22.68 Doula Studies"
 description: "Market > College Programs > Fanshawe College > Doula Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.68 Doula Studies
+# 10.22.68 Doula Studies
 
 ## Glossary
 

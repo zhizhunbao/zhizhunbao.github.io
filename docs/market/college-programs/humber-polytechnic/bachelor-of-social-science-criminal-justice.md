@@ -1,10 +1,10 @@
 ---
-title: "10.24.34 Bachelor of Social Science - Criminal Justice"
+title: "10.28.34 Bachelor of Social Science - Criminal Justice"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Social Science - Criminal Justice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.34 Bachelor of Social Science - Criminal Justice
+# 10.28.34 Bachelor of Social Science - Criminal Justice
 
 ## Glossary
 

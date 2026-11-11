@@ -1,10 +1,10 @@
 ---
-title: "10.13.4 Agriculture Technician Co-op"
+title: "10.16.4 Agriculture Technician Co-op"
 description: "Market > College Programs > College of the North Atlantic > Agriculture Technician Co-op: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.4 Agriculture Technician Co-op
+# 10.16.4 Agriculture Technician Co-op
 
 ## Glossary
 

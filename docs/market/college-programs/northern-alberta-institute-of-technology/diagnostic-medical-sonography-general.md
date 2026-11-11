@@ -1,10 +1,10 @@
 ---
-title: "10.39.47 Diagnostic Medical Sonography - General"
+title: "10.45.47 Diagnostic Medical Sonography - General"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Diagnostic Medical Sonography - General: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.47 Diagnostic Medical Sonography - General
+# 10.45.47 Diagnostic Medical Sonography - General
 
 ## Glossary
 

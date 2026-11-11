@@ -1,10 +1,10 @@
 ---
-title: "10.35.52 Information Technology: Quality Assurance Testing"
+title: "10.40.52 Information Technology: Quality Assurance Testing"
 description: "Market > College Programs > New Brunswick Community College > Information Technology: Quality Assurance Testing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.52 Information Technology: Quality Assurance Testing
+# 10.40.52 Information Technology: Quality Assurance Testing
 
 ## Glossary
 

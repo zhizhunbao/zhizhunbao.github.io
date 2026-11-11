@@ -1,10 +1,10 @@
 ---
-title: "10.13.51 Health and Safety Management"
+title: "10.16.51 Health and Safety Management"
 description: "Market > College Programs > College of the North Atlantic > Health and Safety Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.51 Health and Safety Management
+# 10.16.51 Health and Safety Management
 
 ## Glossary
 

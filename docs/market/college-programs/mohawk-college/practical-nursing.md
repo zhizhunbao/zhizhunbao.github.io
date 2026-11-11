@@ -1,10 +1,10 @@
 ---
-title: "10.34.76 Practical Nursing"
+title: "10.39.76 Practical Nursing"
 description: "Market > College Programs > Mohawk College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.76 Practical Nursing
+# 10.39.76 Practical Nursing
 
 ## Glossary
 

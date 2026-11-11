@@ -1,10 +1,10 @@
 ---
-title: "10.48.7 Bachelor of Arts in Multidisciplinary Studies"
+title: "10.54.7 Bachelor of Arts in Multidisciplinary Studies"
 description: "Market > College Programs > Red Deer Polytechnic > Bachelor of Arts in Multidisciplinary Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.7 Bachelor of Arts in Multidisciplinary Studies
+# 10.54.7 Bachelor of Arts in Multidisciplinary Studies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.95 Honours Bachelor of Mental Health and Addiction"
+title: "10.59.95 Honours Bachelor of Mental Health and Addiction"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Mental Health and Addiction: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.95 Honours Bachelor of Mental Health and Addiction
+# 10.59.95 Honours Bachelor of Mental Health and Addiction
 
 ## Glossary
 

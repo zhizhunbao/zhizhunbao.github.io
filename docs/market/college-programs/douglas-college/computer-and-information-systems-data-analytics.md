@@ -1,10 +1,10 @@
 ---
-title: "10.17.31 Computer and Information Systems, Data Analytics"
+title: "10.20.31 Computer and Information Systems, Data Analytics"
 description: "Market > College Programs > Douglas College > Computer and Information Systems, Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.31 Computer and Information Systems, Data Analytics
+# 10.20.31 Computer and Information Systems, Data Analytics
 
 ## Glossary
 

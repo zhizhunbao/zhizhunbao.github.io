@@ -1,10 +1,10 @@
 ---
-title: "10.19.50 Commercial Flight and Aviation Leadership"
+title: "10.22.50 Commercial Flight and Aviation Leadership"
 description: "Market > College Programs > Fanshawe College > Commercial Flight and Aviation Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.50 Commercial Flight and Aviation Leadership
+# 10.22.50 Commercial Flight and Aviation Leadership
 
 ## Glossary
 

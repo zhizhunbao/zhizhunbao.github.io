@@ -1,10 +1,10 @@
 ---
-title: "10.20.60 Pharmacy Technician (PHM)"
+title: "10.23.60 Pharmacy Technician (PHM)"
 description: "Market > College Programs > Fleming College > Pharmacy Technician (PHM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.60 Pharmacy Technician (PHM)
+# 10.23.60 Pharmacy Technician (PHM)
 
 ## Glossary
 

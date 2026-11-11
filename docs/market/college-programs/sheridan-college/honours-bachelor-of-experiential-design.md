@@ -1,10 +1,10 @@
 ---
-title: "10.54.64 Honours Bachelor of Experiential Design"
+title: "10.60.64 Honours Bachelor of Experiential Design"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Experiential Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.64 Honours Bachelor of Experiential Design
+# 10.60.64 Honours Bachelor of Experiential Design
 
 ## Glossary
 

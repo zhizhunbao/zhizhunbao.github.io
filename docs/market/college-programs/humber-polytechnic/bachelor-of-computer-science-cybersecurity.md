@@ -1,10 +1,10 @@
 ---
-title: "10.24.19 Bachelor of Computer Science - Cybersecurity"
+title: "10.28.19 Bachelor of Computer Science - Cybersecurity"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Computer Science - Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.19 Bachelor of Computer Science - Cybersecurity
+# 10.28.19 Bachelor of Computer Science - Cybersecurity
 
 ## Glossary
 

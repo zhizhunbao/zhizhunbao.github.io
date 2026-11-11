@@ -1,10 +1,10 @@
 ---
-title: "10.41.21 Survey Theory and Calculations"
+title: "10.47.21 Survey Theory and Calculations"
 description: "Market > College Programs > Northern Lakes College > Survey Theory and Calculations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.21 Survey Theory and Calculations
+# 10.47.21 Survey Theory and Calculations
 
 ## Glossary
 

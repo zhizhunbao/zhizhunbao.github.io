@@ -1,10 +1,10 @@
 ---
-title: "10.46.18 Equine Reproduction Technician"
+title: "10.52.18 Equine Reproduction Technician"
 description: "Market > College Programs > Olds College > Equine Reproduction Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.18 Equine Reproduction Technician
+# 10.52.18 Equine Reproduction Technician
 
 ## Glossary
 

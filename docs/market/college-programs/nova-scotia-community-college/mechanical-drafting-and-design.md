@@ -1,10 +1,10 @@
 ---
-title: "10.44.91 Mechanical Drafting and Design"
+title: "10.50.91 Mechanical Drafting and Design"
 description: "Market > College Programs > Nova Scotia Community College > Mechanical Drafting and Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.91 Mechanical Drafting and Design
+# 10.50.91 Mechanical Drafting and Design
 
 ## Glossary
 

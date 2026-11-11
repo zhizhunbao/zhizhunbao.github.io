@@ -1,10 +1,10 @@
 ---
-title: "10.57.44 General Construction Carpentry Techniques"
+title: "10.64.44 General Construction Carpentry Techniques"
 description: "Market > College Programs > St. Lawrence College > General Construction Carpentry Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.44 General Construction Carpentry Techniques
+# 10.64.44 General Construction Carpentry Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.61 Cyber Security"
+title: "10.32.61 Cyber Security"
 description: "Market > College Programs > Lambton College > Cyber Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.61 Cyber Security
+# 10.32.61 Cyber Security
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.154 Office Administration – Legal"
+title: "10.9.154 Office Administration – Legal"
 description: "Market > College Programs > Centennial College > Office Administration – Legal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.154 Office Administration – Legal
+# 10.9.154 Office Administration – Legal
 
 ## Glossary
 

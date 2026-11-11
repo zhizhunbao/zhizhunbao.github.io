@@ -1,10 +1,10 @@
 ---
-title: "10.35.12 Building Systems Engineering Technology"
+title: "10.40.12 Building Systems Engineering Technology"
 description: "Market > College Programs > New Brunswick Community College > Building Systems Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.12 Building Systems Engineering Technology
+# 10.40.12 Building Systems Engineering Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.36.30 Culinary Management (Co-op)"
+title: "10.41.30 Culinary Management (Co-op)"
 description: "Market > College Programs > Niagara College > Culinary Management (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.30 Culinary Management (Co-op)
+# 10.41.30 Culinary Management (Co-op)
 
 ## Glossary
 

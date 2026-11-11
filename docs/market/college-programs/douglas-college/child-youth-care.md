@@ -1,10 +1,10 @@
 ---
-title: "10.17.28 Child & Youth Care"
+title: "10.20.28 Child & Youth Care"
 description: "Market > College Programs > Douglas College > Child & Youth Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.28 Child & Youth Care
+# 10.20.28 Child & Youth Care
 
 ## Glossary
 

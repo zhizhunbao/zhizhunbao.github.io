@@ -1,10 +1,10 @@
 ---
-title: "10.23.28 Heritage Retrofit Carpentry"
+title: "10.27.28 Heritage Retrofit Carpentry"
 description: "Market > College Programs > Holland College > Heritage Retrofit Carpentry: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.28 Heritage Retrofit Carpentry
+# 10.27.28 Heritage Retrofit Carpentry
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.49.53 Network and Systems Administrator"
+title: "10.55.53 Network and Systems Administrator"
 description: "Market > College Programs > Red River College Polytechnic > Network and Systems Administrator: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.53 Network and Systems Administrator
+# 10.55.53 Network and Systems Administrator
 
 ## Glossary
 

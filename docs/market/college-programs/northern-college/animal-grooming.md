@@ -1,10 +1,10 @@
 ---
-title: "10.40.2 Animal Grooming"
+title: "10.46.2 Animal Grooming"
 description: "Market > College Programs > Northern College > Animal Grooming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.2 Animal Grooming
+# 10.46.2 Animal Grooming
 
 ## Glossary
 

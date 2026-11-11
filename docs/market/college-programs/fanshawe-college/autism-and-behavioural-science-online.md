@@ -1,10 +1,10 @@
 ---
-title: "10.19.15 Autism and Behavioural Science - (Online)"
+title: "10.22.15 Autism and Behavioural Science - (Online)"
 description: "Market > College Programs > Fanshawe College > Autism and Behavioural Science - (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.15 Autism and Behavioural Science - (Online)
+# 10.22.15 Autism and Behavioural Science - (Online)
 
 ## Glossary
 

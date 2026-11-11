@@ -1,10 +1,10 @@
 ---
-title: "10.49.19 Culinary Skills"
+title: "10.55.19 Culinary Skills"
 description: "Market > College Programs > Red River College Polytechnic > Culinary Skills: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.19 Culinary Skills
+# 10.55.19 Culinary Skills
 
 ## Glossary
 

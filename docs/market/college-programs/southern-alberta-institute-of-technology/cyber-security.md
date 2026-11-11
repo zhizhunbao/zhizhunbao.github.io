@@ -1,10 +1,10 @@
 ---
-title: "10.55.43 Cyber Security"
+title: "10.62.43 Cyber Security"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Cyber Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.43 Cyber Security
+# 10.62.43 Cyber Security
 
 ## Glossary
 

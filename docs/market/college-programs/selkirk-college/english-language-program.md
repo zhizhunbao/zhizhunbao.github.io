@@ -1,10 +1,10 @@
 ---
-title: "10.52.32 English Language Program"
+title: "10.58.32 English Language Program"
 description: "Market > College Programs > Selkirk College > English Language Program: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.32 English Language Program
+# 10.58.32 English Language Program
 
 ## Glossary
 

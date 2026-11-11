@@ -1,10 +1,10 @@
 ---
-title: "10.36.36 Ecosystem Restoration"
+title: "10.41.36 Ecosystem Restoration"
 description: "Market > College Programs > Niagara College > Ecosystem Restoration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.36 Ecosystem Restoration
+# 10.41.36 Ecosystem Restoration
 
 ## Glossary
 

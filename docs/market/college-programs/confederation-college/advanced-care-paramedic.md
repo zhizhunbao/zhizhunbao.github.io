@@ -1,10 +1,10 @@
 ---
-title: "10.16.4 Advanced Care Paramedic"
+title: "10.19.4 Advanced Care Paramedic"
 description: "Market > College Programs > Confederation College > Advanced Care Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.4 Advanced Care Paramedic
+# 10.19.4 Advanced Care Paramedic
 
 ## Glossary
 

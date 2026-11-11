@@ -1,10 +1,10 @@
 ---
-title: "10.56.77 Native Community Worker"
+title: "10.63.77 Native Community Worker"
 description: "Market > College Programs > St. Clair College > Native Community Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.77 Native Community Worker
+# 10.63.77 Native Community Worker
 
 ## Glossary
 

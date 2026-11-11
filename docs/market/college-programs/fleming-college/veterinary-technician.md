@@ -1,10 +1,10 @@
 ---
-title: "10.20.76 Veterinary Technician"
+title: "10.23.76 Veterinary Technician"
 description: "Market > College Programs > Fleming College > Veterinary Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.76 Veterinary Technician
+# 10.23.76 Veterinary Technician
 
 ## Glossary
 

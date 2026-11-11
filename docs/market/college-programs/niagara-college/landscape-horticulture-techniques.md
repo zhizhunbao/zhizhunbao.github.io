@@ -1,10 +1,10 @@
 ---
-title: "10.36.61 Landscape Horticulture Techniques"
+title: "10.41.61 Landscape Horticulture Techniques"
 description: "Market > College Programs > Niagara College > Landscape Horticulture Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.61 Landscape Horticulture Techniques
+# 10.41.61 Landscape Horticulture Techniques
 
 ## Glossary
 

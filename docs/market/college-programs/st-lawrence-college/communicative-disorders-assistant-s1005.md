@@ -1,10 +1,10 @@
 ---
-title: "10.57.18 Communicative Disorders Assistant (S1005)"
+title: "10.64.18 Communicative Disorders Assistant (S1005)"
 description: "Market > College Programs > St. Lawrence College > Communicative Disorders Assistant (S1005): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.18 Communicative Disorders Assistant (S1005)
+# 10.64.18 Communicative Disorders Assistant (S1005)
 
 ## Glossary
 

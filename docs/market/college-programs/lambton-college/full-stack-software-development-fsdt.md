@@ -1,10 +1,10 @@
 ---
-title: "10.28.83 Full Stack Software Development (FSDT)"
+title: "10.32.83 Full Stack Software Development (FSDT)"
 description: "Market > College Programs > Lambton College > Full Stack Software Development (FSDT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.83 Full Stack Software Development (FSDT)
+# 10.32.83 Full Stack Software Development (FSDT)
 
 ## Glossary
 

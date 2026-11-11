@@ -1,10 +1,10 @@
 ---
-title: "10.57.15 Carpentry and Renovation Technician"
+title: "10.64.15 Carpentry and Renovation Technician"
 description: "Market > College Programs > St. Lawrence College > Carpentry and Renovation Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.15 Carpentry and Renovation Technician
+# 10.64.15 Carpentry and Renovation Technician
 
 ## Glossary
 

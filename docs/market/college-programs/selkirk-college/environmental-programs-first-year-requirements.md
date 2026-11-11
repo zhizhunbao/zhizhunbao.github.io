@@ -1,10 +1,10 @@
 ---
-title: "10.52.35 Environmental Programs First-year Requirements"
+title: "10.58.35 Environmental Programs First-year Requirements"
 description: "Market > College Programs > Selkirk College > Environmental Programs First-year Requirements: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.35 Environmental Programs First-year Requirements
+# 10.58.35 Environmental Programs First-year Requirements
 
 ## Glossary
 

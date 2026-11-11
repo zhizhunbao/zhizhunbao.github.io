@@ -1,10 +1,10 @@
 ---
-title: "10.11.41 Gestion culinaire"
+title: "10.14.41 Gestion culinaire"
 description: "Market > College Programs > Collège La Cité > Gestion culinaire: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.41 Gestion culinaire
+# 10.14.41 Gestion culinaire
 
 ## Glossary
 

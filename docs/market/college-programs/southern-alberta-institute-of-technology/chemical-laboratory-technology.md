@@ -1,10 +1,10 @@
 ---
-title: "10.55.36 Chemical Laboratory Technology"
+title: "10.62.36 Chemical Laboratory Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Chemical Laboratory Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.36 Chemical Laboratory Technology
+# 10.62.36 Chemical Laboratory Technology
 
 ## Glossary
 

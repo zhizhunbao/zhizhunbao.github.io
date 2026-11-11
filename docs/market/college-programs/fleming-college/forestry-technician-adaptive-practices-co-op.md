@@ -1,10 +1,10 @@
 ---
-title: "10.20.39 Forestry Technician – Adaptive Practices (Co-op)"
+title: "10.23.39 Forestry Technician – Adaptive Practices (Co-op)"
 description: "Market > College Programs > Fleming College > Forestry Technician – Adaptive Practices (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.39 Forestry Technician – Adaptive Practices (Co-op)
+# 10.23.39 Forestry Technician – Adaptive Practices (Co-op)
 
 ## Glossary
 

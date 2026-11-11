@@ -1,10 +1,10 @@
 ---
-title: "10.44.120 Refrigeration and Air Conditioning - Geothermal"
+title: "10.50.120 Refrigeration and Air Conditioning - Geothermal"
 description: "Market > College Programs > Nova Scotia Community College > Refrigeration and Air Conditioning - Geothermal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.120 Refrigeration and Air Conditioning - Geothermal
+# 10.50.120 Refrigeration and Air Conditioning - Geothermal
 
 ## Glossary
 

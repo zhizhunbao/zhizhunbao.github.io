@@ -1,10 +1,10 @@
 ---
-title: "10.30.56 Therapeutic Recreation - Gerontology"
+title: "10.34.56 Therapeutic Recreation - Gerontology"
 description: "Market > College Programs > Lethbridge Polytechnic > Therapeutic Recreation - Gerontology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.56 Therapeutic Recreation - Gerontology
+# 10.34.56 Therapeutic Recreation - Gerontology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.32 Bachelor of Science - Traditional Chinese Medicine and Acupuncture"
+title: "10.28.32 Bachelor of Science - Traditional Chinese Medicine and Acupuncture"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Science - Traditional Chinese Medicine and Acupuncture: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.32 Bachelor of Science - Traditional Chinese Medicine and Acupuncture
+# 10.28.32 Bachelor of Science - Traditional Chinese Medicine and Acupuncture
 
 ## Glossary
 

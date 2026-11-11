@@ -1,10 +1,10 @@
 ---
-title: "10.42.11 Interactive and Digital Technologies Diploma"
+title: "10.48.11 Interactive and Digital Technologies Diploma"
 description: "Market > College Programs > Northern Lights College > Interactive and Digital Technologies Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.11 Interactive and Digital Technologies Diploma
+# 10.48.11 Interactive and Digital Technologies Diploma
 
 ## Glossary
 

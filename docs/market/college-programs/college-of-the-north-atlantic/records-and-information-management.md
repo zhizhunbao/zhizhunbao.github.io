@@ -1,10 +1,10 @@
 ---
-title: "10.13.87 Records and Information Management"
+title: "10.16.87 Records and Information Management"
 description: "Market > College Programs > College of the North Atlantic > Records and Information Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.87 Records and Information Management
+# 10.16.87 Records and Information Management
 
 ## Glossary
 

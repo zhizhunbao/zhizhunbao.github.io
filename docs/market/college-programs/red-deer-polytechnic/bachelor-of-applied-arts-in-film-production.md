@@ -1,10 +1,10 @@
 ---
-title: "10.48.6 Bachelor of Applied Arts in Film Production"
+title: "10.54.6 Bachelor of Applied Arts in Film Production"
 description: "Market > College Programs > Red Deer Polytechnic > Bachelor of Applied Arts in Film Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.6 Bachelor of Applied Arts in Film Production
+# 10.54.6 Bachelor of Applied Arts in Film Production
 
 ## Glossary
 

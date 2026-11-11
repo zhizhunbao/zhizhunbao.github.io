@@ -1,10 +1,10 @@
 ---
-title: "10.8.93 Emergency Management – Community Support and Preparedness"
+title: "10.9.93 Emergency Management – Community Support and Preparedness"
 description: "Market > College Programs > Centennial College > Emergency Management – Community Support and Preparedness: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.93 Emergency Management – Community Support and Preparedness
+# 10.9.93 Emergency Management – Community Support and Preparedness
 
 ## Glossary
 

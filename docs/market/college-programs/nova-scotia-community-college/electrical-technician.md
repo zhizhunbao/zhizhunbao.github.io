@@ -1,10 +1,10 @@
 ---
-title: "10.44.50 Electrical Technician"
+title: "10.50.50 Electrical Technician"
 description: "Market > College Programs > Nova Scotia Community College > Electrical Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.50 Electrical Technician
+# 10.50.50 Electrical Technician
 
 ## Glossary
 

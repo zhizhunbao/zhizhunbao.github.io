@@ -1,10 +1,10 @@
 ---
-title: "10.15.72 Computer Programming - Data Management"
+title: "10.18.72 Computer Programming - Data Management"
 description: "Market > College Programs > Conestoga College > Computer Programming - Data Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.72 Computer Programming - Data Management
+# 10.18.72 Computer Programming - Data Management
 
 ## Glossary
 

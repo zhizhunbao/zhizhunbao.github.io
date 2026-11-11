@@ -1,10 +1,10 @@
 ---
-title: "10.35.80 Welding and Metal Fabrication"
+title: "10.40.80 Welding and Metal Fabrication"
 description: "Market > College Programs > New Brunswick Community College > Welding and Metal Fabrication: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.80 Welding and Metal Fabrication
+# 10.40.80 Welding and Metal Fabrication
 
 ## Glossary
 

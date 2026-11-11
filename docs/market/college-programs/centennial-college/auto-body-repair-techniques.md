@@ -1,10 +1,10 @@
 ---
-title: "10.8.16 Auto Body Repair Techniques"
+title: "10.9.16 Auto Body Repair Techniques"
 description: "Market > College Programs > Centennial College > Auto Body Repair Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.16 Auto Body Repair Techniques
+# 10.9.16 Auto Body Repair Techniques
 
 ## Glossary
 

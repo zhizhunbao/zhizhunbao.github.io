@@ -1,10 +1,10 @@
 ---
-title: "10.44.23 Business Analysis"
+title: "10.50.23 Business Analysis"
 description: "Market > College Programs > Nova Scotia Community College > Business Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.23 Business Analysis
+# 10.50.23 Business Analysis
 
 ## Glossary
 

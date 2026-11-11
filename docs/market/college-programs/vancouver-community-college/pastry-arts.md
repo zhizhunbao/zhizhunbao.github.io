@@ -1,10 +1,10 @@
 ---
-title: "10.58.46 Pastry Arts"
+title: "10.66.46 Pastry Arts"
 description: "Market > College Programs > Vancouver Community College > Pastry Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.46 Pastry Arts
+# 10.66.46 Pastry Arts
 
 ## Glossary
 

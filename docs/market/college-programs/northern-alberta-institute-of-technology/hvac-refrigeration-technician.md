@@ -1,10 +1,10 @@
 ---
-title: "10.39.62 HVAC Refrigeration Technician"
+title: "10.45.62 HVAC Refrigeration Technician"
 description: "Market > College Programs > Northern Alberta Institute of Technology > HVAC Refrigeration Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.62 HVAC Refrigeration Technician
+# 10.45.62 HVAC Refrigeration Technician
 
 ## Glossary
 

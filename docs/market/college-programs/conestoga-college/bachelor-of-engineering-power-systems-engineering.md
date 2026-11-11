@@ -1,10 +1,10 @@
 ---
-title: "10.15.27 Bachelor of Engineering - Power Systems Engineering"
+title: "10.18.27 Bachelor of Engineering - Power Systems Engineering"
 description: "Market > College Programs > Conestoga College > Bachelor of Engineering - Power Systems Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.27 Bachelor of Engineering - Power Systems Engineering
+# 10.18.27 Bachelor of Engineering - Power Systems Engineering
 
 ## Glossary
 

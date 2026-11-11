@@ -1,10 +1,10 @@
 ---
-title: "10.14.7 Associate of Science - Environmental Science"
+title: "10.17.7 Associate of Science - Environmental Science"
 description: "Market > College Programs > College of the Rockies > Associate of Science - Environmental Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.7 Associate of Science - Environmental Science
+# 10.17.7 Associate of Science - Environmental Science
 
 ## Glossary
 

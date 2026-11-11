@@ -1,10 +1,10 @@
 ---
-title: "10.8.18 Automation and Robotics - Electro-Mechanical Engineering Technician (Fast-Track)"
+title: "10.9.18 Automation and Robotics - Electro-Mechanical Engineering Technician (Fast-Track)"
 description: "Market > College Programs > Centennial College > Automation and Robotics - Electro-Mechanical Engineering Technician (Fast-Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.18 Automation and Robotics - Electro-Mechanical Engineering Technician (Fast-Track)
+# 10.9.18 Automation and Robotics - Electro-Mechanical Engineering Technician (Fast-Track)
 
 ## Glossary
 

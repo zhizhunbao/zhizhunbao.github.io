@@ -1,10 +1,10 @@
 ---
-title: "10.44.27 Carpentry Certificate - Accelerated"
+title: "10.50.27 Carpentry Certificate - Accelerated"
 description: "Market > College Programs > Nova Scotia Community College > Carpentry Certificate - Accelerated: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.27 Carpentry Certificate - Accelerated
+# 10.50.27 Carpentry Certificate - Accelerated
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.44.74 Human Resource Management"
+title: "10.50.74 Human Resource Management"
 description: "Market > College Programs > Nova Scotia Community College > Human Resource Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.74 Human Resource Management
+# 10.50.74 Human Resource Management
 
 ## Glossary
 

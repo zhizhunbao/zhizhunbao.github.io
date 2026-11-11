@@ -1,10 +1,10 @@
 ---
-title: "10.35.26 Digital Marketing"
+title: "10.40.26 Digital Marketing"
 description: "Market > College Programs > New Brunswick Community College > Digital Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.26 Digital Marketing
+# 10.40.26 Digital Marketing
 
 ## Glossary
 

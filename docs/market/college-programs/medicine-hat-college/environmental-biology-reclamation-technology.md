@@ -1,10 +1,10 @@
 ---
-title: "10.33.15 Environmental Biology & Reclamation Technology"
+title: "10.38.15 Environmental Biology & Reclamation Technology"
 description: "Market > College Programs > Medicine Hat College > Environmental Biology & Reclamation Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.15 Environmental Biology & Reclamation Technology
+# 10.38.15 Environmental Biology & Reclamation Technology
 
 ## Glossary
 

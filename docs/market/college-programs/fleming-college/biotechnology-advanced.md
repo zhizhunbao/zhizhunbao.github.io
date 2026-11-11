@@ -1,10 +1,10 @@
 ---
-title: "10.20.3 Biotechnology - Advanced"
+title: "10.23.3 Biotechnology - Advanced"
 description: "Market > College Programs > Fleming College > Biotechnology - Advanced: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.3 Biotechnology - Advanced
+# 10.23.3 Biotechnology - Advanced
 
 ## Glossary
 

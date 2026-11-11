@@ -1,10 +1,10 @@
 ---
-title: "10.53.11 Aviation Operations"
+title: "10.59.11 Aviation Operations"
 description: "Market > College Programs > Seneca Polytechnic > Aviation Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.11 Aviation Operations
+# 10.59.11 Aviation Operations
 
 ## Glossary
 

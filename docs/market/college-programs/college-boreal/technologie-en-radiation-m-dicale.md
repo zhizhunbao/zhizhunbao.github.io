@@ -1,10 +1,10 @@
 ---
-title: "10.10.63 Technologie en radiation médicale"
+title: "10.11.63 Technologie en radiation médicale"
 description: "Market > College Programs > Collège Boréal > Technologie en radiation médicale: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.63 Technologie en radiation médicale
+# 10.11.63 Technologie en radiation médicale
 
 ## Glossary
 

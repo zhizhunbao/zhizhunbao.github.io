@@ -1,10 +1,10 @@
 ---
-title: "10.47.2 Addictions Counselling"
+title: "10.53.2 Addictions Counselling"
 description: "Market > College Programs > Portage College > Addictions Counselling: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.2 Addictions Counselling
+# 10.53.2 Addictions Counselling
 
 ## Glossary
 

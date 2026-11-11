@@ -1,10 +1,10 @@
 ---
-title: "10.18.51 Entrepreneurship and Small Business – Business"
+title: "10.21.51 Entrepreneurship and Small Business – Business"
 description: "Market > College Programs > Durham College > Entrepreneurship and Small Business – Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.51 Entrepreneurship and Small Business – Business
+# 10.21.51 Entrepreneurship and Small Business – Business
 
 ## Glossary
 

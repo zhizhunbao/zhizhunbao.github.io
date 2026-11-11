@@ -1,10 +1,10 @@
 ---
-title: "10.44.79 IT Programming"
+title: "10.50.79 IT Programming"
 description: "Market > College Programs > Nova Scotia Community College > IT Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.79 IT Programming
+# 10.50.79 IT Programming
 
 ## Glossary
 

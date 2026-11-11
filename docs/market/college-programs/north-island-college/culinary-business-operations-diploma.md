@@ -1,10 +1,10 @@
 ---
-title: "10.38.9 Culinary Business Operations Diploma"
+title: "10.43.9 Culinary Business Operations Diploma"
 description: "Market > College Programs > North Island College > Culinary Business Operations Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.9 Culinary Business Operations Diploma
+# 10.43.9 Culinary Business Operations Diploma
 
 ## Glossary
 

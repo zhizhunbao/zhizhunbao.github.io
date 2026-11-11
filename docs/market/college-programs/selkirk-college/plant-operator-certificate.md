@@ -1,10 +1,10 @@
 ---
-title: "10.52.61 Plant Operator - Certificate"
+title: "10.58.61 Plant Operator - Certificate"
 description: "Market > College Programs > Selkirk College > Plant Operator - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.61 Plant Operator - Certificate
+# 10.58.61 Plant Operator - Certificate
 
 ## Glossary
 

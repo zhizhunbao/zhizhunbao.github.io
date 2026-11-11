@@ -1,10 +1,10 @@
 ---
-title: "10.33.2 Administrative Office Management"
+title: "10.38.2 Administrative Office Management"
 description: "Market > College Programs > Medicine Hat College > Administrative Office Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.2 Administrative Office Management
+# 10.38.2 Administrative Office Management
 
 ## Glossary
 

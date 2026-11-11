@@ -1,10 +1,10 @@
 ---
-title: "10.38.10 Early Childhood Care and Education Diploma - Infants and Toddlers"
+title: "10.43.10 Early Childhood Care and Education Diploma - Infants and Toddlers"
 description: "Market > College Programs > North Island College > Early Childhood Care and Education Diploma - Infants and Toddlers: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.10 Early Childhood Care and Education Diploma - Infants and Toddlers
+# 10.43.10 Early Childhood Care and Education Diploma - Infants and Toddlers
 
 ## Glossary
 

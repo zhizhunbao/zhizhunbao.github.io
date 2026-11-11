@@ -1,10 +1,10 @@
 ---
-title: "10.27.9 Bachelor of Agriculture Technology, 2-year Post-Diploma"
+title: "10.31.9 Bachelor of Agriculture Technology, 2-year Post-Diploma"
 description: "Market > College Programs > Lakeland College > Bachelor of Agriculture Technology, 2-year Post-Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.9 Bachelor of Agriculture Technology, 2-year Post-Diploma
+# 10.31.9 Bachelor of Agriculture Technology, 2-year Post-Diploma
 
 ## Glossary
 

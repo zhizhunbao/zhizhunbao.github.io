@@ -1,10 +1,10 @@
 ---
-title: "10.19.137 Paswe'aatigook Anishinaabemowin Language Immersion"
+title: "10.22.137 Paswe'aatigook Anishinaabemowin Language Immersion"
 description: "Market > College Programs > Fanshawe College > Paswe'aatigook Anishinaabemowin Language Immersion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.137 Paswe'aatigook Anishinaabemowin Language Immersion
+# 10.22.137 Paswe'aatigook Anishinaabemowin Language Immersion
 
 ## Glossary
 

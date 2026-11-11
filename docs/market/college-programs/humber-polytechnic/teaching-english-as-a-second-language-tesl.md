@@ -1,10 +1,10 @@
 ---
-title: "10.24.119 Teaching English as a Second Language (TESL)"
+title: "10.28.119 Teaching English as a Second Language (TESL)"
 description: "Market > College Programs > Humber Polytechnic > Teaching English as a Second Language (TESL): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.119 Teaching English as a Second Language (TESL)
+# 10.28.119 Teaching English as a Second Language (TESL)
 
 ## Glossary
 

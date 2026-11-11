@@ -1,10 +1,10 @@
 ---
-title: "10.30.17 Criminal Justice - Bachelor of (Post-Diploma)"
+title: "10.34.17 Criminal Justice - Bachelor of (Post-Diploma)"
 description: "Market > College Programs > Lethbridge Polytechnic > Criminal Justice - Bachelor of (Post-Diploma): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.17 Criminal Justice - Bachelor of (Post-Diploma)
+# 10.34.17 Criminal Justice - Bachelor of (Post-Diploma)
 
 ## Glossary
 

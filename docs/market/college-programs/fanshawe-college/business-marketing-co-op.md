@@ -1,10 +1,10 @@
 ---
-title: "10.19.34 Business - Marketing (Co-op)"
+title: "10.22.34 Business - Marketing (Co-op)"
 description: "Market > College Programs > Fanshawe College > Business - Marketing (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.34 Business - Marketing (Co-op)
+# 10.22.34 Business - Marketing (Co-op)
 
 ## Glossary
 

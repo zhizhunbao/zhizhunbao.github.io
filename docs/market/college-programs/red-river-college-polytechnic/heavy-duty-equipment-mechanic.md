@@ -1,10 +1,10 @@
 ---
-title: "10.49.39 Heavy Duty Equipment Mechanic"
+title: "10.55.39 Heavy Duty Equipment Mechanic"
 description: "Market > College Programs > Red River College Polytechnic > Heavy Duty Equipment Mechanic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.39 Heavy Duty Equipment Mechanic
+# 10.55.39 Heavy Duty Equipment Mechanic
 
 ## Glossary
 

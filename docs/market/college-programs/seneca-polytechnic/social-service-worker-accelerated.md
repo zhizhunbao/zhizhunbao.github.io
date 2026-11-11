@@ -1,10 +1,10 @@
 ---
-title: "10.53.149 Social Service Worker (Accelerated)"
+title: "10.59.149 Social Service Worker (Accelerated)"
 description: "Market > College Programs > Seneca Polytechnic > Social Service Worker (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.149 Social Service Worker (Accelerated)
+# 10.59.149 Social Service Worker (Accelerated)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.26 Bachelor of Business Administration (Honours) - HR Management - Centennial to Trent Diploma-to-Degree Pathway"
+title: "10.9.26 Bachelor of Business Administration (Honours) - HR Management - Centennial to Trent Diploma-to-Degree Pathway"
 description: "Market > College Programs > Centennial College > Bachelor of Business Administration (Honours) - HR Management - Centennial to Trent Diploma-to-Degree Pathway: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.26 Bachelor of Business Administration (Honours) - HR Management - Centennial to Trent Diploma-to-Degree Pathway
+# 10.9.26 Bachelor of Business Administration (Honours) - HR Management - Centennial to Trent Diploma-to-Degree Pathway
 
 ## Glossary
 

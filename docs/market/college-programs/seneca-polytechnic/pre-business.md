@@ -1,10 +1,10 @@
 ---
-title: "10.53.139 Pre-Business"
+title: "10.59.139 Pre-Business"
 description: "Market > College Programs > Seneca Polytechnic > Pre-Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.139 Pre-Business
+# 10.59.139 Pre-Business
 
 ## Glossary
 

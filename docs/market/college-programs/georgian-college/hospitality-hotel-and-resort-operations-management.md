@@ -1,10 +1,10 @@
 ---
-title: "10.22.102 Hospitality - Hotel and Resort Operations Management"
+title: "10.25.102 Hospitality - Hotel and Resort Operations Management"
 description: "Market > College Programs > Georgian College > Hospitality - Hotel and Resort Operations Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.102 Hospitality - Hotel and Resort Operations Management
+# 10.25.102 Hospitality - Hotel and Resort Operations Management
 
 ## Glossary
 

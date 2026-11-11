@@ -1,10 +1,10 @@
 ---
-title: "10.17.58 Hospitality Marketing"
+title: "10.20.58 Hospitality Marketing"
 description: "Market > College Programs > Douglas College > Hospitality Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.58 Hospitality Marketing
+# 10.20.58 Hospitality Marketing
 
 ## Glossary
 

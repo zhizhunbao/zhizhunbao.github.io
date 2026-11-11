@@ -1,10 +1,10 @@
 ---
-title: "10.28.78 Food Safety & Quality Assurance Management"
+title: "10.32.78 Food Safety & Quality Assurance Management"
 description: "Market > College Programs > Lambton College > Food Safety & Quality Assurance Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.78 Food Safety & Quality Assurance Management
+# 10.32.78 Food Safety & Quality Assurance Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.80 Full Stack Software Development (FSDM)"
+title: "10.32.80 Full Stack Software Development (FSDM)"
 description: "Market > College Programs > Lambton College > Full Stack Software Development (FSDM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.80 Full Stack Software Development (FSDM)
+# 10.32.80 Full Stack Software Development (FSDM)
 
 ## Glossary
 

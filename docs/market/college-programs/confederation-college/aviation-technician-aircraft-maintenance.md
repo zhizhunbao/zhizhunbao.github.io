@@ -1,10 +1,10 @@
 ---
-title: "10.16.7 Aviation Technician - Aircraft Maintenance"
+title: "10.19.7 Aviation Technician - Aircraft Maintenance"
 description: "Market > College Programs > Confederation College > Aviation Technician - Aircraft Maintenance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.7 Aviation Technician - Aircraft Maintenance
+# 10.19.7 Aviation Technician - Aircraft Maintenance
 
 ## Glossary
 

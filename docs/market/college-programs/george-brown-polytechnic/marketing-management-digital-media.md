@@ -1,10 +1,10 @@
 ---
-title: "10.21.65 Marketing Management - Digital Media"
+title: "10.24.65 Marketing Management - Digital Media"
 description: "Market > College Programs > George Brown Polytechnic > Marketing Management - Digital Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.65 Marketing Management - Digital Media
+# 10.24.65 Marketing Management - Digital Media
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.40.35 Mental Health and Addictions Worker"
+title: "10.46.35 Mental Health and Addictions Worker"
 description: "Market > College Programs > Northern College > Mental Health and Addictions Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.35 Mental Health and Addictions Worker
+# 10.46.35 Mental Health and Addictions Worker
 
 ## Glossary
 

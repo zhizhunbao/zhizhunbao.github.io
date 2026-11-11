@@ -1,10 +1,10 @@
 ---
-title: "10.31.6 Art and Design Foundations"
+title: "10.35.6 Art and Design Foundations"
 description: "Market > College Programs > Loyalist College > Art and Design Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.6 Art and Design Foundations
+# 10.35.6 Art and Design Foundations
 
 ## Glossary
 

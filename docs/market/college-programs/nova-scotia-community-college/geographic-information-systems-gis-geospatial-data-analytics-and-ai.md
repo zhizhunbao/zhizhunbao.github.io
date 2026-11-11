@@ -1,10 +1,10 @@
 ---
-title: "10.44.63 Geographic Information Systems (GIS) - Geospatial Data Analytics and AI"
+title: "10.50.63 Geographic Information Systems (GIS) - Geospatial Data Analytics and AI"
 description: "Market > College Programs > Nova Scotia Community College > Geographic Information Systems (GIS) - Geospatial Data Analytics and AI: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.63 Geographic Information Systems (GIS) - Geospatial Data Analytics and AI
+# 10.50.63 Geographic Information Systems (GIS) - Geospatial Data Analytics and AI
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.56.5 Autism & Behavioural Science"
+title: "10.63.5 Autism & Behavioural Science"
 description: "Market > College Programs > St. Clair College > Autism & Behavioural Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.5 Autism & Behavioural Science
+# 10.63.5 Autism & Behavioural Science
 
 ## Glossary
 

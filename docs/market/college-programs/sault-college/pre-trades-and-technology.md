@@ -1,10 +1,10 @@
 ---
-title: "10.51.53 Pre-Trades and Technology"
+title: "10.57.53 Pre-Trades and Technology"
 description: "Market > College Programs > Sault College > Pre-Trades and Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.53 Pre-Trades and Technology
+# 10.57.53 Pre-Trades and Technology
 
 ## Glossary
 

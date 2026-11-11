@@ -1,10 +1,10 @@
 ---
-title: "10.40.39 Motive Power Technician – Heavy Equipment"
+title: "10.46.39 Motive Power Technician – Heavy Equipment"
 description: "Market > College Programs > Northern College > Motive Power Technician – Heavy Equipment: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.39 Motive Power Technician – Heavy Equipment
+# 10.46.39 Motive Power Technician – Heavy Equipment
 
 ## Glossary
 

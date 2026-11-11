@@ -1,10 +1,10 @@
 ---
-title: "10.16.43 Honours Bachelor of Science in Nursing (BScN)"
+title: "10.19.43 Honours Bachelor of Science in Nursing (BScN)"
 description: "Market > College Programs > Confederation College > Honours Bachelor of Science in Nursing (BScN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.43 Honours Bachelor of Science in Nursing (BScN)
+# 10.19.43 Honours Bachelor of Science in Nursing (BScN)
 
 ## Glossary
 

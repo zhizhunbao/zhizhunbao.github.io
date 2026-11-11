@@ -1,10 +1,10 @@
 ---
-title: "10.19.43 Carpentry and Renovation Technician (Co-op)"
+title: "10.22.43 Carpentry and Renovation Technician (Co-op)"
 description: "Market > College Programs > Fanshawe College > Carpentry and Renovation Technician (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.43 Carpentry and Renovation Technician (Co-op)
+# 10.22.43 Carpentry and Renovation Technician (Co-op)
 
 ## Glossary
 

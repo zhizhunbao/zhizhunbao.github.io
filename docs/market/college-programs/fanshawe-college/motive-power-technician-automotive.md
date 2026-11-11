@@ -1,10 +1,10 @@
 ---
-title: "10.19.121 Motive Power Technician (Automotive)"
+title: "10.22.121 Motive Power Technician (Automotive)"
 description: "Market > College Programs > Fanshawe College > Motive Power Technician (Automotive): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.121 Motive Power Technician (Automotive)
+# 10.22.121 Motive Power Technician (Automotive)
 
 ## Glossary
 

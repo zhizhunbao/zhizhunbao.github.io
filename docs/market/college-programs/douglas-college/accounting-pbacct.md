@@ -1,10 +1,10 @@
 ---
-title: "10.17.7 Accounting (pbacct)"
+title: "10.20.7 Accounting (pbacct)"
 description: "Market > College Programs > Douglas College > Accounting (pbacct): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.7 Accounting (pbacct)
+# 10.20.7 Accounting (pbacct)
 
 ## Glossary
 

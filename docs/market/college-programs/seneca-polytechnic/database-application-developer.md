@@ -1,10 +1,10 @@
 ---
-title: "10.53.50 Database Application Developer"
+title: "10.59.50 Database Application Developer"
 description: "Market > College Programs > Seneca Polytechnic > Database Application Developer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.50 Database Application Developer
+# 10.59.50 Database Application Developer
 
 ## Glossary
 

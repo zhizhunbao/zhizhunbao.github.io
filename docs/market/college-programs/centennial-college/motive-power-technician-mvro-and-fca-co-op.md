@@ -1,10 +1,10 @@
 ---
-title: "10.8.140 Motive Power Technician – MVRO and FCA (Co-op)"
+title: "10.9.140 Motive Power Technician – MVRO and FCA (Co-op)"
 description: "Market > College Programs > Centennial College > Motive Power Technician – MVRO and FCA (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.140 Motive Power Technician – MVRO and FCA (Co-op)
+# 10.9.140 Motive Power Technician – MVRO and FCA (Co-op)
 
 ## Glossary
 

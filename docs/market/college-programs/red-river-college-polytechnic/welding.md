@@ -1,10 +1,10 @@
 ---
-title: "10.49.65 Welding"
+title: "10.55.65 Welding"
 description: "Market > College Programs > Red River College Polytechnic > Welding: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.65 Welding
+# 10.55.65 Welding
 
 ## Glossary
 

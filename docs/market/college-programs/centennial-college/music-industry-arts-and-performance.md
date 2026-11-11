@@ -1,10 +1,10 @@
 ---
-title: "10.8.143 Music Industry Arts and Performance"
+title: "10.9.143 Music Industry Arts and Performance"
 description: "Market > College Programs > Centennial College > Music Industry Arts and Performance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.143 Music Industry Arts and Performance
+# 10.9.143 Music Industry Arts and Performance
 
 ## Glossary
 

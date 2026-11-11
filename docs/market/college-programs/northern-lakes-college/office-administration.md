@@ -1,10 +1,10 @@
 ---
-title: "10.41.15 Office Administration"
+title: "10.47.15 Office Administration"
 description: "Market > College Programs > Northern Lakes College > Office Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.15 Office Administration
+# 10.47.15 Office Administration
 
 ## Glossary
 

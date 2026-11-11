@@ -1,10 +1,10 @@
 ---
-title: "10.35.36 Health Sciences"
+title: "10.40.36 Health Sciences"
 description: "Market > College Programs > New Brunswick Community College > Health Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.36 Health Sciences
+# 10.40.36 Health Sciences
 
 ## Glossary
 

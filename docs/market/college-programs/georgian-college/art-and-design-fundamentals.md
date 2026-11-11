@@ -1,10 +1,10 @@
 ---
-title: "10.22.9 Art and Design Fundamentals"
+title: "10.25.9 Art and Design Fundamentals"
 description: "Market > College Programs > Georgian College > Art and Design Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.9 Art and Design Fundamentals
+# 10.25.9 Art and Design Fundamentals
 
 ## Glossary
 

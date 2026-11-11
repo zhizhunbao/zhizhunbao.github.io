@@ -1,10 +1,10 @@
 ---
-title: "10.12.2 Associate of Arts Aboriginal Studies"
+title: "10.15.2 Associate of Arts Aboriginal Studies"
 description: "Market > College Programs > College of New Caledonia > Associate of Arts Aboriginal Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.2 Associate of Arts Aboriginal Studies
+# 10.15.2 Associate of Arts Aboriginal Studies
 
 ## Glossary
 

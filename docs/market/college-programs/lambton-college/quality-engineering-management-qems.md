@@ -1,10 +1,10 @@
 ---
-title: "10.28.117 Quality Engineering Management (QEMS)"
+title: "10.32.117 Quality Engineering Management (QEMS)"
 description: "Market > College Programs > Lambton College > Quality Engineering Management (QEMS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.117 Quality Engineering Management (QEMS)
+# 10.32.117 Quality Engineering Management (QEMS)
 
 ## Glossary
 

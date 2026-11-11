@@ -1,10 +1,10 @@
 ---
-title: "10.18.104 Police Foundations"
+title: "10.21.104 Police Foundations"
 description: "Market > College Programs > Durham College > Police Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.104 Police Foundations
+# 10.21.104 Police Foundations
 
 ## Glossary
 

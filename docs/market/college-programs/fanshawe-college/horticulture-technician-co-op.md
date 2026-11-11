@@ -1,10 +1,10 @@
 ---
-title: "10.19.107 Horticulture Technician (Co-op)"
+title: "10.22.107 Horticulture Technician (Co-op)"
 description: "Market > College Programs > Fanshawe College > Horticulture Technician (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.107 Horticulture Technician (Co-op)
+# 10.22.107 Horticulture Technician (Co-op)
 
 ## Glossary
 

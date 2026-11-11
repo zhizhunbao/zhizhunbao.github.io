@@ -1,10 +1,10 @@
 ---
-title: "10.54.8 Architectural Technician – Sustainable Design"
+title: "10.60.8 Architectural Technician – Sustainable Design"
 description: "Market > College Programs > Sheridan College > Architectural Technician – Sustainable Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.8 Architectural Technician – Sustainable Design
+# 10.60.8 Architectural Technician – Sustainable Design
 
 ## Glossary
 

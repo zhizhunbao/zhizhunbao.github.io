@@ -1,10 +1,10 @@
 ---
-title: "10.51.1 Accommodation and Human Rights Management (Online Program Delivery)"
+title: "10.57.1 Accommodation and Human Rights Management (Online Program Delivery)"
 description: "Market > College Programs > Sault College > Accommodation and Human Rights Management (Online Program Delivery): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.1 Accommodation and Human Rights Management (Online Program Delivery)
+# 10.57.1 Accommodation and Human Rights Management (Online Program Delivery)
 
 ## Glossary
 

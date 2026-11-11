@@ -1,10 +1,10 @@
 ---
-title: "10.48.21 Diagnostic Medical Sonography Diploma"
+title: "10.54.21 Diagnostic Medical Sonography Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Diagnostic Medical Sonography Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.21 Diagnostic Medical Sonography Diploma
+# 10.54.21 Diagnostic Medical Sonography Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.37.44 Veterinary Office Assistant"
+title: "10.42.44 Veterinary Office Assistant"
 description: "Market > College Programs > NorQuest College > Veterinary Office Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.44 Veterinary Office Assistant
+# 10.42.44 Veterinary Office Assistant
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.44.70 Heavy Duty Equipment / Truck and Transport Repair"
+title: "10.50.70 Heavy Duty Equipment / Truck and Transport Repair"
 description: "Market > College Programs > Nova Scotia Community College > Heavy Duty Equipment / Truck and Transport Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.70 Heavy Duty Equipment / Truck and Transport Repair
+# 10.50.70 Heavy Duty Equipment / Truck and Transport Repair
 
 ## Glossary
 

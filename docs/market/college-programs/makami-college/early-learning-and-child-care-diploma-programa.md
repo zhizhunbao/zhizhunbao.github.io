@@ -1,10 +1,10 @@
 ---
-title: "10.32.5 Early Learning and Child Care Diploma Programa"
+title: "10.36.5 Early Learning and Child Care Diploma Programa"
 description: "Market > College Programs > MaKami College > Early Learning and Child Care Diploma Programa: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.5 Early Learning and Child Care Diploma Programa
+# 10.36.5 Early Learning and Child Care Diploma Programa
 
 ## Glossary
 

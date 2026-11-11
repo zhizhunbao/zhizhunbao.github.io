@@ -1,10 +1,10 @@
 ---
-title: "10.25.26 Trauma & Crisis Intervention"
+title: "10.29.26 Trauma & Crisis Intervention"
 description: "Market > College Programs > Justice Institute of British Columbia > Trauma & Crisis Intervention: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.26 Trauma & Crisis Intervention
+# 10.29.26 Trauma & Crisis Intervention
 
 ## Glossary
 

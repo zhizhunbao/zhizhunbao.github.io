@@ -1,10 +1,10 @@
 ---
-title: "10.49.18 Culinary Arts"
+title: "10.55.18 Culinary Arts"
 description: "Market > College Programs > Red River College Polytechnic > Culinary Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.18 Culinary Arts
+# 10.55.18 Culinary Arts
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50.49 Recreation and Tourism Management"
+title: "10.56.49 Recreation and Tourism Management"
 description: "Market > College Programs > Saskatchewan Polytechnic > Recreation and Tourism Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.49 Recreation and Tourism Management
+# 10.56.49 Recreation and Tourism Management
 
 ## Glossary
 

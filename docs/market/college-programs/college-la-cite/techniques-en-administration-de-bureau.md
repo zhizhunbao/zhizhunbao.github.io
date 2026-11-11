@@ -1,10 +1,10 @@
 ---
-title: "10.11.101 Techniques en administration de bureau"
+title: "10.14.101 Techniques en administration de bureau"
 description: "Market > College Programs > Collège La Cité > Techniques en administration de bureau: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.101 Techniques en administration de bureau
+# 10.14.101 Techniques en administration de bureau
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.49.8 Baking and Pastry Arts"
+title: "10.55.8 Baking and Pastry Arts"
 description: "Market > College Programs > Red River College Polytechnic > Baking and Pastry Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.8 Baking and Pastry Arts
+# 10.55.8 Baking and Pastry Arts
 
 ## Glossary
 

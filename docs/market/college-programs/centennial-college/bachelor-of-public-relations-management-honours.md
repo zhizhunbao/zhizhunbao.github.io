@@ -1,10 +1,10 @@
 ---
-title: "10.8.29 Bachelor of Public Relations Management, Honours"
+title: "10.9.29 Bachelor of Public Relations Management, Honours"
 description: "Market > College Programs > Centennial College > Bachelor of Public Relations Management, Honours: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.29 Bachelor of Public Relations Management, Honours
+# 10.9.29 Bachelor of Public Relations Management, Honours
 
 ## Glossary
 

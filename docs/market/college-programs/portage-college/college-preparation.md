@@ -1,10 +1,10 @@
 ---
-title: "10.47.8 College Preparation"
+title: "10.53.8 College Preparation"
 description: "Market > College Programs > Portage College > College Preparation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.8 College Preparation
+# 10.53.8 College Preparation
 
 ## Glossary
 

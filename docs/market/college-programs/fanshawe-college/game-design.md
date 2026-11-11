@@ -1,10 +1,10 @@
 ---
-title: "10.19.88 Game - Design"
+title: "10.22.88 Game - Design"
 description: "Market > College Programs > Fanshawe College > Game - Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.88 Game - Design
+# 10.22.88 Game - Design
 
 ## Glossary
 

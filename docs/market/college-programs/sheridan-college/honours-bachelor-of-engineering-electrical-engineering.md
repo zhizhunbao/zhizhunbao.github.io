@@ -1,10 +1,10 @@
 ---
-title: "10.54.62 Honours Bachelor of Engineering (Electrical Engineering)"
+title: "10.60.62 Honours Bachelor of Engineering (Electrical Engineering)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Engineering (Electrical Engineering): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.62 Honours Bachelor of Engineering (Electrical Engineering)
+# 10.60.62 Honours Bachelor of Engineering (Electrical Engineering)
 
 ## Glossary
 

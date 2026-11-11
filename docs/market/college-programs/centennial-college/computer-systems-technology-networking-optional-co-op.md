@@ -1,10 +1,10 @@
 ---
-title: "10.8.69 Computer Systems Technology - Networking (Optional Co-op)"
+title: "10.9.69 Computer Systems Technology - Networking (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Computer Systems Technology - Networking (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.69 Computer Systems Technology - Networking (Optional Co-op)
+# 10.9.69 Computer Systems Technology - Networking (Optional Co-op)
 
 ## Glossary
 

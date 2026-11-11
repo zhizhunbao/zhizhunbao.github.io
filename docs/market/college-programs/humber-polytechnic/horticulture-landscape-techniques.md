@@ -1,10 +1,10 @@
 ---
-title: "10.24.85 Horticulture Landscape Techniques"
+title: "10.28.85 Horticulture Landscape Techniques"
 description: "Market > College Programs > Humber Polytechnic > Horticulture Landscape Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.85 Horticulture Landscape Techniques
+# 10.28.85 Horticulture Landscape Techniques
 
 ## Glossary
 

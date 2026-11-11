@@ -1,10 +1,10 @@
 ---
-title: "10.11.49 Journalisme"
+title: "10.14.49 Journalisme"
 description: "Market > College Programs > Collège La Cité > Journalisme: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.49 Journalisme
+# 10.14.49 Journalisme
 
 ## Glossary
 

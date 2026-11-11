@@ -1,10 +1,10 @@
 ---
-title: "10.18.117 Sport Business Management (graduate certificate)"
+title: "10.21.117 Sport Business Management (graduate certificate)"
 description: "Market > College Programs > Durham College > Sport Business Management (graduate certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.117 Sport Business Management (graduate certificate)
+# 10.21.117 Sport Business Management (graduate certificate)
 
 ## Glossary
 

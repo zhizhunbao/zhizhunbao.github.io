@@ -1,10 +1,10 @@
 ---
-title: "10.28.20 Business (BSNT)"
+title: "10.32.20 Business (BSNT)"
 description: "Market > College Programs > Lambton College > Business (BSNT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.20 Business (BSNT)
+# 10.32.20 Business (BSNT)
 
 ## Glossary
 

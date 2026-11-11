@@ -1,10 +1,10 @@
 ---
-title: "10.24.48 Computer Engineering Technology"
+title: "10.28.48 Computer Engineering Technology"
 description: "Market > College Programs > Humber Polytechnic > Computer Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.48 Computer Engineering Technology
+# 10.28.48 Computer Engineering Technology
 
 ## Glossary
 

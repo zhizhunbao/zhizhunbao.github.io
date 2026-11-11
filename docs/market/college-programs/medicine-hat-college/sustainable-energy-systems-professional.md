@@ -1,10 +1,10 @@
 ---
-title: "10.33.31 Sustainable Energy Systems Professional"
+title: "10.38.31 Sustainable Energy Systems Professional"
 description: "Market > College Programs > Medicine Hat College > Sustainable Energy Systems Professional: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.31 Sustainable Energy Systems Professional
+# 10.38.31 Sustainable Energy Systems Professional
 
 ## Glossary
 

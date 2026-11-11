@@ -1,10 +1,10 @@
 ---
-title: "10.29.85 Physics"
+title: "10.33.85 Physics"
 description: "Market > College Programs > Langara College > Physics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.85 Physics
+# 10.33.85 Physics
 
 ## Glossary
 

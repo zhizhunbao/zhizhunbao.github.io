@@ -1,10 +1,10 @@
 ---
-title: "10.28.134 Welding Techniques"
+title: "10.32.134 Welding Techniques"
 description: "Market > College Programs > Lambton College > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.134 Welding Techniques
+# 10.32.134 Welding Techniques
 
 ## Glossary
 

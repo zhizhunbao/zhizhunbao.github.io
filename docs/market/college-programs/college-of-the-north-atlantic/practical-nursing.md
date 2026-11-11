@@ -1,10 +1,10 @@
 ---
-title: "10.13.84 Practical Nursing"
+title: "10.16.84 Practical Nursing"
 description: "Market > College Programs > College of the North Atlantic > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.84 Practical Nursing
+# 10.16.84 Practical Nursing
 
 ## Glossary
 

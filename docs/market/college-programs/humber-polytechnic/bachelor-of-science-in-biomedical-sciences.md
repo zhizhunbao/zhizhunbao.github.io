@@ -1,10 +1,10 @@
 ---
-title: "10.24.33 Bachelor of Science in Biomedical Sciences"
+title: "10.28.33 Bachelor of Science in Biomedical Sciences"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Science in Biomedical Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.33 Bachelor of Science in Biomedical Sciences
+# 10.28.33 Bachelor of Science in Biomedical Sciences
 
 ## Glossary
 

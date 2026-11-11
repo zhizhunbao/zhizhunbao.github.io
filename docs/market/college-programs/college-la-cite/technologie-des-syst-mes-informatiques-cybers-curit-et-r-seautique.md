@@ -1,10 +1,10 @@
 ---
-title: "10.11.114 Technologie des systèmes informatiques – cybersécurité et réseautique"
+title: "10.14.114 Technologie des systèmes informatiques – cybersécurité et réseautique"
 description: "Market > College Programs > Collège La Cité > Technologie des systèmes informatiques – cybersécurité et réseautique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.114 Technologie des systèmes informatiques – cybersécurité et réseautique
+# 10.14.114 Technologie des systèmes informatiques – cybersécurité et réseautique
 
 ## Glossary
 

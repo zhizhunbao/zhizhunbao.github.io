@@ -1,10 +1,10 @@
 ---
-title: "10.24.30 Bachelor of Paralegal Studies"
+title: "10.28.30 Bachelor of Paralegal Studies"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Paralegal Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.30 Bachelor of Paralegal Studies
+# 10.28.30 Bachelor of Paralegal Studies
 
 ## Glossary
 

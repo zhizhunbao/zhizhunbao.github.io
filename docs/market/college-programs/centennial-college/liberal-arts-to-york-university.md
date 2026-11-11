@@ -1,10 +1,10 @@
 ---
-title: "10.8.129 Liberal Arts to York University"
+title: "10.9.129 Liberal Arts to York University"
 description: "Market > College Programs > Centennial College > Liberal Arts to York University: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.129 Liberal Arts to York University
+# 10.9.129 Liberal Arts to York University
 
 ## Glossary
 

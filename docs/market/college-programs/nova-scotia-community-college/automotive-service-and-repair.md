@@ -1,10 +1,10 @@
 ---
-title: "10.44.12 Automotive Service and Repair"
+title: "10.50.12 Automotive Service and Repair"
 description: "Market > College Programs > Nova Scotia Community College > Automotive Service and Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.12 Automotive Service and Repair
+# 10.50.12 Automotive Service and Repair
 
 ## Glossary
 

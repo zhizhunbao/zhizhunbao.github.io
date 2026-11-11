@@ -1,10 +1,10 @@
 ---
-title: "10.20.36 Fibre Arts"
+title: "10.23.36 Fibre Arts"
 description: "Market > College Programs > Fleming College > Fibre Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.36 Fibre Arts
+# 10.23.36 Fibre Arts
 
 ## Glossary
 

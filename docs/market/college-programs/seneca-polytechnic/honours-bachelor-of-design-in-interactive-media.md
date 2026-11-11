@@ -1,10 +1,10 @@
 ---
-title: "10.53.90 Honours Bachelor of Design in Interactive Media"
+title: "10.59.90 Honours Bachelor of Design in Interactive Media"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Design in Interactive Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.90 Honours Bachelor of Design in Interactive Media
+# 10.59.90 Honours Bachelor of Design in Interactive Media
 
 ## Glossary
 

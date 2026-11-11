@@ -1,10 +1,10 @@
 ---
-title: "10.19.110 Interactive Media Design - Front End Web Development"
+title: "10.22.110 Interactive Media Design - Front End Web Development"
 description: "Market > College Programs > Fanshawe College > Interactive Media Design - Front End Web Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.110 Interactive Media Design - Front End Web Development
+# 10.22.110 Interactive Media Design - Front End Web Development
 
 ## Glossary
 

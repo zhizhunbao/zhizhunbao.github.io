@@ -1,10 +1,10 @@
 ---
-title: "10.48.24 Early Learning and Child Care Certificate"
+title: "10.54.24 Early Learning and Child Care Certificate"
 description: "Market > College Programs > Red Deer Polytechnic > Early Learning and Child Care Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.24 Early Learning and Child Care Certificate
+# 10.54.24 Early Learning and Child Care Certificate
 
 ## Glossary
 

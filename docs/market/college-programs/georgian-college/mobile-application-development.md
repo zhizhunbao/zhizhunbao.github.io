@@ -1,10 +1,10 @@
 ---
-title: "10.22.124 Mobile Application Development"
+title: "10.25.124 Mobile Application Development"
 description: "Market > College Programs > Georgian College > Mobile Application Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.124 Mobile Application Development
+# 10.25.124 Mobile Application Development
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.29.32 Computer Studies"
+title: "10.33.32 Computer Studies"
 description: "Market > College Programs > Langara College > Computer Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.32 Computer Studies
+# 10.33.32 Computer Studies
 
 ## Glossary
 

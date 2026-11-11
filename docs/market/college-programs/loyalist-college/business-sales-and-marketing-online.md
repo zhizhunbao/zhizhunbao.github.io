@@ -1,10 +1,10 @@
 ---
-title: "10.31.12 Business Sales and Marketing (Online)"
+title: "10.35.12 Business Sales and Marketing (Online)"
 description: "Market > College Programs > Loyalist College > Business Sales and Marketing (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.12 Business Sales and Marketing (Online)
+# 10.35.12 Business Sales and Marketing (Online)
 
 ## Glossary
 

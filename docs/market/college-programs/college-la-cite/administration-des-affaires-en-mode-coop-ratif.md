@@ -1,10 +1,10 @@
 ---
-title: "10.11.4 Administration des affaires en mode coopératif"
+title: "10.14.4 Administration des affaires en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Administration des affaires en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.4 Administration des affaires en mode coopératif
+# 10.14.4 Administration des affaires en mode coopératif
 
 ## Glossary
 

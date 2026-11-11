@@ -1,10 +1,10 @@
 ---
-title: "10.53.105 Illustration"
+title: "10.59.105 Illustration"
 description: "Market > College Programs > Seneca Polytechnic > Illustration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.105 Illustration
+# 10.59.105 Illustration
 
 ## Glossary
 

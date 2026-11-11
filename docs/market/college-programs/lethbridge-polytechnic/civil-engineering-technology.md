@@ -1,10 +1,10 @@
 ---
-title: "10.30.13 Civil Engineering Technology"
+title: "10.34.13 Civil Engineering Technology"
 description: "Market > College Programs > Lethbridge Polytechnic > Civil Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.13 Civil Engineering Technology
+# 10.34.13 Civil Engineering Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.34.13 Bachelor of Technology - Sustainability"
+title: "10.39.13 Bachelor of Technology - Sustainability"
 description: "Market > College Programs > Mohawk College > Bachelor of Technology - Sustainability: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.13 Bachelor of Technology - Sustainability
+# 10.39.13 Bachelor of Technology - Sustainability
 
 ## Glossary
 

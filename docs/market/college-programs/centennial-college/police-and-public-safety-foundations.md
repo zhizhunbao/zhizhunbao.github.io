@@ -1,10 +1,10 @@
 ---
-title: "10.8.162 Police and Public Safety Foundations"
+title: "10.9.162 Police and Public Safety Foundations"
 description: "Market > College Programs > Centennial College > Police and Public Safety Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.162 Police and Public Safety Foundations
+# 10.9.162 Police and Public Safety Foundations
 
 ## Glossary
 

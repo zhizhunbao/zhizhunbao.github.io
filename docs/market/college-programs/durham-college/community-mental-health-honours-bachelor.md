@@ -1,10 +1,10 @@
 ---
-title: "10.18.30 Community Mental Health – Honours Bachelor"
+title: "10.21.30 Community Mental Health – Honours Bachelor"
 description: "Market > College Programs > Durham College > Community Mental Health – Honours Bachelor: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.30 Community Mental Health – Honours Bachelor
+# 10.21.30 Community Mental Health – Honours Bachelor
 
 ## Glossary
 

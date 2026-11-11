@@ -1,10 +1,10 @@
 ---
-title: "10.44.88 Marine Foundations - Small Vessel Operator Proficiency"
+title: "10.50.88 Marine Foundations - Small Vessel Operator Proficiency"
 description: "Market > College Programs > Nova Scotia Community College > Marine Foundations - Small Vessel Operator Proficiency: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.88 Marine Foundations - Small Vessel Operator Proficiency
+# 10.50.88 Marine Foundations - Small Vessel Operator Proficiency
 
 ## Glossary
 

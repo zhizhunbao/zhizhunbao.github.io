@@ -1,10 +1,10 @@
 ---
-title: "10.40.26 Information Systems Business Analysis"
+title: "10.46.26 Information Systems Business Analysis"
 description: "Market > College Programs > Northern College > Information Systems Business Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.26 Information Systems Business Analysis
+# 10.46.26 Information Systems Business Analysis
 
 ## Glossary
 

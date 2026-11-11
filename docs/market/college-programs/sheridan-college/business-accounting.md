@@ -1,10 +1,10 @@
 ---
-title: "10.54.16 Business Accounting"
+title: "10.60.16 Business Accounting"
 description: "Market > College Programs > Sheridan College > Business Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.16 Business Accounting
+# 10.60.16 Business Accounting
 
 ## Glossary
 

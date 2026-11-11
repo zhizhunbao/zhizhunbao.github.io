@@ -1,10 +1,10 @@
 ---
-title: "10.15.61 Climate Change Mitigation"
+title: "10.18.61 Climate Change Mitigation"
 description: "Market > College Programs > Conestoga College > Climate Change Mitigation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.61 Climate Change Mitigation
+# 10.18.61 Climate Change Mitigation
 
 ## Glossary
 

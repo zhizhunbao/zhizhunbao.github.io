@@ -1,10 +1,10 @@
 ---
-title: "10.19.63 Dental Hygiene"
+title: "10.22.63 Dental Hygiene"
 description: "Market > College Programs > Fanshawe College > Dental Hygiene: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.63 Dental Hygiene
+# 10.22.63 Dental Hygiene
 
 ## Glossary
 

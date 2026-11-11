@@ -1,10 +1,10 @@
 ---
-title: "10.49.7 Automotive Technician-Diploma"
+title: "10.55.7 Automotive Technician-Diploma"
 description: "Market > College Programs > Red River College Polytechnic > Automotive Technician-Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.7 Automotive Technician-Diploma
+# 10.55.7 Automotive Technician-Diploma
 
 ## Glossary
 

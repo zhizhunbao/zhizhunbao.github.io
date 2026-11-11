@@ -1,10 +1,10 @@
 ---
-title: "10.8.33 Baking Skills"
+title: "10.9.33 Baking Skills"
 description: "Market > College Programs > Centennial College > Baking Skills: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.33 Baking Skills
+# 10.9.33 Baking Skills
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.43 Bridging to University Nursing for Registered Practical Nurses (RPNs)"
+title: "10.9.43 Bridging to University Nursing for Registered Practical Nurses (RPNs)"
 description: "Market > College Programs > Centennial College > Bridging to University Nursing for Registered Practical Nurses (RPNs): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.43 Bridging to University Nursing for Registered Practical Nurses (RPNs)
+# 10.9.43 Bridging to University Nursing for Registered Practical Nurses (RPNs)
 
 ## Glossary
 

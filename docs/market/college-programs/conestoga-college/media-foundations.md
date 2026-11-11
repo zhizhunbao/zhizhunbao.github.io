@@ -1,10 +1,10 @@
 ---
-title: "10.15.148 Media Foundations"
+title: "10.18.148 Media Foundations"
 description: "Market > College Programs > Conestoga College > Media Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.148 Media Foundations
+# 10.18.148 Media Foundations
 
 ## Glossary
 

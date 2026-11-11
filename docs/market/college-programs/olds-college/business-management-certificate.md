@@ -1,10 +1,10 @@
 ---
-title: "10.46.11 Business Management Certificate"
+title: "10.52.11 Business Management Certificate"
 description: "Market > College Programs > Olds College > Business Management Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.11 Business Management Certificate
+# 10.52.11 Business Management Certificate
 
 ## Glossary
 

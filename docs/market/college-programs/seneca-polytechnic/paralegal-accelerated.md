@@ -1,10 +1,10 @@
 ---
-title: "10.53.134 Paralegal (Accelerated)"
+title: "10.59.134 Paralegal (Accelerated)"
 description: "Market > College Programs > Seneca Polytechnic > Paralegal (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.134 Paralegal (Accelerated)
+# 10.59.134 Paralegal (Accelerated)
 
 ## Glossary
 

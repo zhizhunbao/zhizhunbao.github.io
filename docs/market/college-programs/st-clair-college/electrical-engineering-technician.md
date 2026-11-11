@@ -1,10 +1,10 @@
 ---
-title: "10.56.43 Electrical Engineering Technician"
+title: "10.63.43 Electrical Engineering Technician"
 description: "Market > College Programs > St. Clair College > Electrical Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.43 Electrical Engineering Technician
+# 10.63.43 Electrical Engineering Technician
 
 ## Glossary
 

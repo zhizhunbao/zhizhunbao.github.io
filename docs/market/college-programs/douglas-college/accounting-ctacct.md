@@ -1,10 +1,10 @@
 ---
-title: "10.17.5 Accounting (ctacct)"
+title: "10.20.5 Accounting (ctacct)"
 description: "Market > College Programs > Douglas College > Accounting (ctacct): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.5 Accounting (ctacct)
+# 10.20.5 Accounting (ctacct)
 
 ## Glossary
 

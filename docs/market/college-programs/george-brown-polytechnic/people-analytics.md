@@ -1,10 +1,10 @@
 ---
-title: "10.21.71 People Analytics"
+title: "10.24.71 People Analytics"
 description: "Market > College Programs > George Brown Polytechnic > People Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.71 People Analytics
+# 10.24.71 People Analytics
 
 ## Glossary
 

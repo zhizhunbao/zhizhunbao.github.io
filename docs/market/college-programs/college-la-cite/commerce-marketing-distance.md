@@ -1,10 +1,10 @@
 ---
-title: "10.11.35 Commerce – marketing à distance"
+title: "10.14.35 Commerce – marketing à distance"
 description: "Market > College Programs > Collège La Cité > Commerce – marketing à distance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.35 Commerce – marketing à distance
+# 10.14.35 Commerce – marketing à distance
 
 ## Glossary
 

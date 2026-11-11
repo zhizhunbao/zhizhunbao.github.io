@@ -1,10 +1,10 @@
 ---
-title: "10.47.19 Hairstyling Certificate"
+title: "10.53.19 Hairstyling Certificate"
 description: "Market > College Programs > Portage College > Hairstyling Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.19 Hairstyling Certificate
+# 10.53.19 Hairstyling Certificate
 
 ## Glossary
 

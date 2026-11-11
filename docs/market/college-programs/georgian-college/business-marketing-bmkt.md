@@ -1,10 +1,10 @@
 ---
-title: "10.22.27 Business - Marketing (BMKT)"
+title: "10.25.27 Business - Marketing (BMKT)"
 description: "Market > College Programs > Georgian College > Business - Marketing (BMKT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.27 Business - Marketing (BMKT)
+# 10.25.27 Business - Marketing (BMKT)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.14.14 Early Childhood Education – Infant/Toddler Educator On-Campus"
+title: "10.17.14 Early Childhood Education – Infant/Toddler Educator On-Campus"
 description: "Market > College Programs > College of the Rockies > Early Childhood Education – Infant/Toddler Educator On-Campus: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.14 Early Childhood Education – Infant/Toddler Educator On-Campus
+# 10.17.14 Early Childhood Education – Infant/Toddler Educator On-Campus
 
 ## Glossary
 

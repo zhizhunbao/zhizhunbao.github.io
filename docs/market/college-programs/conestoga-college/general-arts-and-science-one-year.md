@@ -1,10 +1,10 @@
 ---
-title: "10.15.114 General Arts and Science - One Year"
+title: "10.18.114 General Arts and Science - One Year"
 description: "Market > College Programs > Conestoga College > General Arts and Science - One Year: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.114 General Arts and Science - One Year
+# 10.18.114 General Arts and Science - One Year
 
 ## Glossary
 

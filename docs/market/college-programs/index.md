@@ -18,9 +18,12 @@ ms.date: 2026-11-08
 | **[Cambrian College](cambrian-college/index.md)**<br>坎布里安学院 | (Definition pending) | （定义待补） | [Cambrian College, n.d.](https://cambriancollege.ca/admissions/international-admissions/post-graduation-work-permit-eligibility) |
 | **[Camosun College](camosun-college/index.md)**<br>卡莫森学院 | (Definition pending) | （定义待补） | [Camosun College, n.d.](https://camosun.ca/international/programs-and-courses-international-students/pgwp-aligned-programs-international) |
 | **[Canadore College](canadore-college/index.md)**<br>坎纳多学院 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/canadore-international/pgwp) |
+| **[Carlton Trail College](carlton-trail-college/index.md)**<br>卡尔顿小道学院 | (Definition pending) | （定义待补） | [Carlton Trail College, n.d.](https://www.carltontrailcollege.com/future-students/welcome/international-students/) |
 | **[Centennial College](centennial-college/index.md)**<br>百年理工学院 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time) |
 | **[Coast Mountain College](coast-mountain-college/index.md)**<br>海岸山脉学院 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/explore/international) |
 | **[Collège Boréal](college-boreal/index.md)**<br>博雷亚尔学院 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/futurs-etudiants-et-etudiantes/candidats-internationaux/) |
+| **[Collège communautaire du Nouveau-Brunswick](college-communautaire-du-nouveau-brunswick/index.md)**<br>新不伦瑞克法语社区学院 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/admission-et-inscription/ptpd/) |
+| **[Collège de l'Île](college-de-l-ile/index.md)**<br>岛屿学院 | (Definition pending) | （定义待补） | [Collège de l'Île, n.d.](https://www.collegedelile.ca/admission/inscrivez-vous-ici/Admissibilite_au_permis_de_travail_post_diplome) |
 | **[Collège La Cité](college-la-cite/index.md)**<br>拉锡德学院 | (Definition pending) | （定义待补） | [Collège La Cité, n.d.](https://www.collegelacite.ca/permis_de_travail_postdiplome_candidats_internationaux) |
 | **[College of New Caledonia](college-of-new-caledonia/index.md)**<br>新喀里多尼亚学院 | (Definition pending) | （定义待补） | [College of New Caledonia, n.d.](https://cnc.bc.ca/international-students/courses) |
 | **[College of the North Atlantic](college-of-the-north-atlantic/index.md)**<br>北大西洋学院 | (Definition pending) | （定义待补） | [College of the North Atlantic, n.d.](https://www.cna.nl.ca/admissions/ircc) |
@@ -33,6 +36,7 @@ ms.date: 2026-11-08
 | **[Fleming College](fleming-college/index.md)**<br>弗莱明学院 | (Definition pending) | （定义待补） | [Fleming College, n.d.](https://flemingcollege.ca/international-education) |
 | **[George Brown Polytechnic](george-brown-polytechnic/index.md)**<br>乔治布朗理工学院 | (Definition pending) | （定义待补） | [George Brown Polytechnic, n.d.](https://www.georgebrown.ca/pgwp-eligible) |
 | **[Georgian College](georgian-college/index.md)**<br>乔治亚学院 | (Definition pending) | （定义待补） | [Georgian College, n.d.](https://www.georgiancollege.ca/international/student-permit-policy-update/) |
+| **[Great Plains College](great-plains-college/index.md)**<br>大平原学院 | (Definition pending) | （定义待补） | [Great Plains College, n.d.](https://www.greatplainscollege.ca/programs-courses/international-students) |
 | **[Holland College](holland-college/index.md)**<br>霍兰学院 | (Definition pending) | （定义待补） | [Holland College, n.d.](https://hollandcollege.com/academics/full-time-programs/) |
 | **[Humber Polytechnic](humber-polytechnic/index.md)**<br>汉博理工学院 | (Definition pending) | （定义待补） | [Humber Polytechnic, n.d.](https://humber.ca/explore-programs/search/full-time-programs) |
 | **[Justice Institute of British Columbia](justice-institute-of-british-columbia/index.md)**<br>不列颠哥伦比亚司法学院 | (Definition pending) | （定义待补） | [Justice Institute of British Columbia, n.d.](https://www.jibc.ca/international-studies/programs-for-international-students) |
@@ -43,12 +47,14 @@ ms.date: 2026-11-08
 | **[Lethbridge Polytechnic](lethbridge-polytechnic/index.md)**<br>莱斯布里奇理工学院 | (Definition pending) | （定义待补） | [Lethbridge Polytechnic, n.d.](https://lethpolytech.ca/departments/admissions/program-availability) |
 | **[Loyalist College](loyalist-college/index.md)**<br>忠诚学院 | (Definition pending) | （定义待补） | [Loyalist College, n.d.](https://loyalistcollege.com/admissions/how-to-apply/international-applicants/pgwp-aligned-programs/) |
 | **[MaKami College](makami-college/index.md)**<br>马卡米学院 | (Definition pending) | （定义待补） | [MaKami College, n.d.](https://makamicollege.com/international-students/) |
+| **[Manitoba Institute of Trades and Technology](manitoba-institute-of-trades-and-technology/index.md)**<br>曼尼托巴职业技术学院 | (Definition pending) | （定义待补） | [Manitoba Institute of Trades and Technology, n.d.](https://mitt.ca/student-services/international-support/pgwp-aligned-programs/) |
 | **[Medicine Hat College](medicine-hat-college/index.md)**<br>梅迪辛哈特学院 | (Definition pending) | （定义待补） | [Medicine Hat College, n.d.](https://www.mhc.ab.ca/programs-and-admissions/admissions/program-availability) |
 | **[Mohawk College](mohawk-college/index.md)**<br>莫霍克学院 | (Definition pending) | （定义待补） | [Mohawk College, n.d.](https://www.mohawkcollege.ca/pgwp) |
 | **[New Brunswick Community College](new-brunswick-community-college/index.md)**<br>新不伦瑞克社区学院 | (Definition pending) | （定义待补） | [New Brunswick Community College, n.d.](https://nbcc.ca/admissions/ircc/pgwp-program-eligibility) |
 | **[Niagara College](niagara-college/index.md)**<br>尼亚加拉学院 | (Definition pending) | （定义待补） | [Niagara College, n.d.](https://international.niagaracollege.ca/programs/pgwp-eligible-programs) |
 | **[NorQuest College](norquest-college/index.md)**<br>诺奎斯特学院 | (Definition pending) | （定义待补） | [NorQuest College, n.d.](https://www.norquest.ca/internationalstudents/immigration/post-graduation-work-permit/) |
 | **[North Island College](north-island-college/index.md)**<br>北岛学院 | (Definition pending) | （定义待补） | [North Island College, n.d.](https://www.nic.bc.ca/admissions/international-students/programs.html) |
+| **[North West College](north-west-college/index.md)**<br>萨省西北学院 | (Definition pending) | （定义待补） | [North West College, n.d.](https://northwestcollege.ca/students/international_students/international_programs.html) |
 | **[Northern Alberta Institute of Technology](northern-alberta-institute-of-technology/index.md)**<br>北阿尔伯塔理工学院 | (Definition pending) | （定义待补） | [Northern Alberta Institute of Technology, n.d.](https://www.nait.ca/nait/international/immigration-visa-requirements/post-graduation-work-permit) |
 | **[Northern College](northern-college/index.md)**<br>北方学院 | (Definition pending) | （定义待补） | [Northern College, n.d.](https://www.northerncollege.ca/international/programs/) |
 | **[Northern Lakes College](northern-lakes-college/index.md)**<br>北湖学院 | (Definition pending) | （定义待补） | [Northern Lakes College, n.d.](https://www.northernlakescollege.ca/future-students/international-students) |
@@ -65,9 +71,11 @@ ms.date: 2026-11-08
 | **[Selkirk College](selkirk-college/index.md)**<br>塞尔扣克学院 | (Definition pending) | （定义待补） | [Selkirk College, n.d.](https://selkirk.ca/international/international-students/international-programs/pgwp-eligible-programs) |
 | **[Seneca Polytechnic](seneca-polytechnic/index.md)**<br>圣力嘉理工学院 | (Definition pending) | （定义待补） | [Seneca Polytechnic, n.d.](https://www.senecapolytechnic.ca/international/pgwp-eligible-programs.html) |
 | **[Sheridan College](sheridan-college/index.md)**<br>谢尔丹学院 | (Definition pending) | （定义待补） | [Sheridan College, n.d.](https://www.sheridancollege.ca/admissions/international/prospective-students/study-and-work-permit/pgwp-programs) |
+| **[Southeast College](southeast-college/index.md)**<br>东南学院 | (Definition pending) | （定义待补） | [Southeast College, n.d.](https://www.southeastcollege.org/international-students/) |
 | **[Southern Alberta Institute of Technology](southern-alberta-institute-of-technology/index.md)**<br>南阿尔伯塔理工学院 | (Definition pending) | （定义待补） | [Southern Alberta Institute of Technology, n.d.](https://www.sait.ca/international-students/immigration/post-graduation-work-permit) |
 | **[St. Clair College](st-clair-college/index.md)**<br>圣克莱尔学院 | (Definition pending) | （定义待补） | [St. Clair College, n.d.](https://www.stclaircollege.ca/international/pgwp-eligible-programs) |
 | **[St. Lawrence College](st-lawrence-college/index.md)**<br>圣劳伦斯学院 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/services/international/pgwp-aligned-programs/pgwp-programs-june2025-onward) |
+| **[Suncrest College](suncrest-college/index.md)**<br>森克雷斯特学院 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/international-students) |
 | **[Vancouver Community College](vancouver-community-college/index.md)**<br>温哥华社区学院 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/) |
 
 ## References
@@ -86,11 +94,17 @@ Camosun College. (n.d.). *PGWP-aligned programs*. Retrieved November 8, 2026, fr
 
 Canadore College. (n.d.). *Post-Graduation Work Permit (PGWP) eligible programs at Canadore College*. Retrieved November 10, 2026, from <https://www.canadorecollege.ca/canadore-international/pgwp>
 
+Carlton Trail College. (n.d.). *International students*. Retrieved November 10, 2026, from <https://www.carltontrailcollege.com/future-students/welcome/international-students/>
+
 Centennial College. (n.d.). *Full-time programs*. Retrieved November 10, 2026, from <https://www.centennialcollege.ca/programs-courses/full-time>
 
 Coast Mountain College. (n.d.). *International*. Retrieved November 9, 2026, from <https://www.coastmountaincollege.ca/programs/explore/international>
 
 Collège Boréal. (n.d.). *Bienvenue aux candidats internationaux*. Retrieved November 10, 2026, from <https://collegeboreal.ca/futurs-etudiants-et-etudiantes/candidats-internationaux/>
+
+Collège communautaire du Nouveau-Brunswick. (n.d.). *Programmes éligibles au PTPD*. Retrieved November 10, 2026, from <https://ccnb.ca/admission-et-inscription/ptpd/>
+
+Collège de l'Île. (n.d.). *Admissibilité au permis de travail post-diplôme*. Retrieved November 10, 2026, from <https://www.collegedelile.ca/admission/inscrivez-vous-ici/Admissibilite_au_permis_de_travail_post_diplome>
 
 Collège La Cité. (n.d.). *Permis de travail postdiplôme pour candidats internationaux*. Retrieved November 10, 2026, from <https://www.collegelacite.ca/permis_de_travail_postdiplome_candidats_internationaux>
 
@@ -116,6 +130,8 @@ George Brown Polytechnic. (n.d.). *Programs eligible for Post-Graduation Work Pe
 
 Georgian College. (n.d.). *Updates for international students regarding enrolment and study permits*. Retrieved November 10, 2026, from <https://www.georgiancollege.ca/international/student-permit-policy-update/>
 
+Great Plains College. (n.d.). *International*. Retrieved November 10, 2026, from <https://www.greatplainscollege.ca/programs-courses/international-students>
+
 Holland College. (n.d.). *Full-time programs*. Retrieved November 8, 2026, from <https://hollandcollege.com/academics/full-time-programs/>
 
 Humber Polytechnic. (n.d.). *Explore full-time programs at Humber*. Retrieved November 10, 2026, from <https://humber.ca/explore-programs/search/full-time-programs>
@@ -136,6 +152,8 @@ Loyalist College. (n.d.). *PGWP-aligned programs*. Retrieved November 10, 2026, 
 
 MaKami College. (n.d.). *Pursuing education for international students*. Retrieved November 9, 2026, from <https://makamicollege.com/international-students/>
 
+Manitoba Institute of Trades and Technology. (n.d.). *PGWP-aligned programs*. Retrieved November 10, 2026, from <https://mitt.ca/student-services/international-support/pgwp-aligned-programs/>
+
 Medicine Hat College. (n.d.). *Program availability*. Retrieved November 9, 2026, from <https://www.mhc.ab.ca/programs-and-admissions/admissions/program-availability>
 
 Mohawk College. (n.d.). *Post-Graduation Work Permits (PGWP) eligible programs*. Retrieved November 10, 2026, from <https://www.mohawkcollege.ca/pgwp>
@@ -147,6 +165,8 @@ Niagara College. (n.d.). *PGWP eligible programs*. Retrieved November 10, 2026, 
 NorQuest College. (n.d.). *Post-graduation work permit*. Retrieved November 8, 2026, from <https://www.norquest.ca/internationalstudents/immigration/post-graduation-work-permit/>
 
 North Island College. (n.d.). *International student programs*. Retrieved November 9, 2026, from <https://www.nic.bc.ca/admissions/international-students/programs.html>
+
+North West College. (n.d.). *International programs*. Retrieved November 10, 2026, from <https://northwestcollege.ca/students/international_students/international_programs.html>
 
 Northern Alberta Institute of Technology. (n.d.). *Post-graduation work permit*. Retrieved November 8, 2026, from <https://www.nait.ca/nait/international/immigration-visa-requirements/post-graduation-work-permit>
 
@@ -180,10 +200,14 @@ Seneca Polytechnic. (n.d.). *PGWP-eligible programs at Seneca Polytechnic*. Retr
 
 Sheridan College. (n.d.). *PGWP-aligned programs*. Retrieved November 10, 2026, from <https://www.sheridancollege.ca/admissions/international/prospective-students/study-and-work-permit/pgwp-programs>
 
+Southeast College. (n.d.). *International students*. Retrieved November 10, 2026, from <https://www.southeastcollege.org/international-students/>
+
 Southern Alberta Institute of Technology. (n.d.). *Post-graduation work permit*. Retrieved November 8, 2026, from <https://www.sait.ca/international-students/immigration/post-graduation-work-permit>
 
 St. Clair College. (n.d.). *Post Graduation Work Permit (PGWP) eligible programs*. Retrieved November 10, 2026, from <https://www.stclaircollege.ca/international/pgwp-eligible-programs>
 
 St. Lawrence College. (n.d.). *PGWP-aligned programs, June 25, 2025 onward*. Retrieved November 10, 2026, from <https://www.stlawrencecollege.ca/services/international/pgwp-aligned-programs/pgwp-programs-june2025-onward>
+
+Suncrest College. (n.d.). *International students*. Retrieved November 10, 2026, from <https://suncrestcollege.ca/international-students>
 
 Vancouver Community College. (n.d.). *PGWP-eligible programs*. Retrieved November 9, 2026, from <https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/>

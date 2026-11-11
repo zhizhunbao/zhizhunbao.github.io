@@ -1,10 +1,10 @@
 ---
-title: "10.15.84 Data Processing and Reporting"
+title: "10.18.84 Data Processing and Reporting"
 description: "Market > College Programs > Conestoga College > Data Processing and Reporting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.84 Data Processing and Reporting
+# 10.18.84 Data Processing and Reporting
 
 ## Glossary
 

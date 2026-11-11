@@ -1,10 +1,10 @@
 ---
-title: "10.50.50 Registered Nursing Bridging Program for Internationally Educated Nurses"
+title: "10.56.50 Registered Nursing Bridging Program for Internationally Educated Nurses"
 description: "Market > College Programs > Saskatchewan Polytechnic > Registered Nursing Bridging Program for Internationally Educated Nurses: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.50 Registered Nursing Bridging Program for Internationally Educated Nurses
+# 10.56.50 Registered Nursing Bridging Program for Internationally Educated Nurses
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.127 Nursing Leadership & Management"
+title: "10.59.127 Nursing Leadership & Management"
 description: "Market > College Programs > Seneca Polytechnic > Nursing Leadership & Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.127 Nursing Leadership & Management
+# 10.59.127 Nursing Leadership & Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.17.14 Bachelor of Arts in Applied Criminology (3rd year entry) (Honours option available)"
+title: "10.20.14 Bachelor of Arts in Applied Criminology (3rd year entry) (Honours option available)"
 description: "Market > College Programs > Douglas College > Bachelor of Arts in Applied Criminology (3rd year entry) (Honours option available): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.14 Bachelor of Arts in Applied Criminology (3rd year entry) (Honours option available)
+# 10.20.14 Bachelor of Arts in Applied Criminology (3rd year entry) (Honours option available)
 
 ## Glossary
 

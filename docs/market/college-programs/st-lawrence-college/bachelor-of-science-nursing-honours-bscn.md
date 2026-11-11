@@ -1,10 +1,10 @@
 ---
-title: "10.57.8 Bachelor of Science - Nursing (Honours) - BScN"
+title: "10.64.8 Bachelor of Science - Nursing (Honours) - BScN"
 description: "Market > College Programs > St. Lawrence College > Bachelor of Science - Nursing (Honours) - BScN: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.8 Bachelor of Science - Nursing (Honours) - BScN
+# 10.64.8 Bachelor of Science - Nursing (Honours) - BScN
 
 ## Glossary
 

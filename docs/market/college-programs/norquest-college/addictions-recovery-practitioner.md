@@ -1,10 +1,10 @@
 ---
-title: "10.37.2 Addictions Recovery Practitioner"
+title: "10.42.2 Addictions Recovery Practitioner"
 description: "Market > College Programs > NorQuest College > Addictions Recovery Practitioner: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.2 Addictions Recovery Practitioner
+# 10.42.2 Addictions Recovery Practitioner
 
 ## Glossary
 

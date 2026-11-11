@@ -1,10 +1,10 @@
 ---
-title: "10.19.17 Aviation Technician - Aircraft Maintenance (co-Op)"
+title: "10.22.17 Aviation Technician - Aircraft Maintenance (co-Op)"
 description: "Market > College Programs > Fanshawe College > Aviation Technician - Aircraft Maintenance (co-Op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.17 Aviation Technician - Aircraft Maintenance (co-Op)
+# 10.22.17 Aviation Technician - Aircraft Maintenance (co-Op)
 
 ## Glossary
 

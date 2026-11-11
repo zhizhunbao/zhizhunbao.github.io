@@ -1,10 +1,10 @@
 ---
-title: "10.37.19 Educational Assistant"
+title: "10.42.19 Educational Assistant"
 description: "Market > College Programs > NorQuest College > Educational Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.19 Educational Assistant
+# 10.42.19 Educational Assistant
 
 ## Glossary
 

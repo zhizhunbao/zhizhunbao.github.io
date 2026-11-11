@@ -1,10 +1,10 @@
 ---
-title: "10.8.61 Child and Youth Care (Online)"
+title: "10.9.61 Child and Youth Care (Online)"
 description: "Market > College Programs > Centennial College > Child and Youth Care (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.61 Child and Youth Care (Online)
+# 10.9.61 Child and Youth Care (Online)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.55.16 Bachelor of Business Administration - Human Resource Management Major"
+title: "10.62.16 Bachelor of Business Administration - Human Resource Management Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Business Administration - Human Resource Management Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.16 Bachelor of Business Administration - Human Resource Management Major
+# 10.62.16 Bachelor of Business Administration - Human Resource Management Major
 
 ## Glossary
 

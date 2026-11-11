@@ -1,10 +1,10 @@
 ---
-title: "10.15.16 Bachelor of Community and Criminal Justice (Honours)"
+title: "10.18.16 Bachelor of Community and Criminal Justice (Honours)"
 description: "Market > College Programs > Conestoga College > Bachelor of Community and Criminal Justice (Honours): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.16 Bachelor of Community and Criminal Justice (Honours)
+# 10.18.16 Bachelor of Community and Criminal Justice (Honours)
 
 ## Glossary
 

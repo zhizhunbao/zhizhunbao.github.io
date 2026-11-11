@@ -1,10 +1,10 @@
 ---
-title: "10.40.18 Electrical Engineering Technology"
+title: "10.46.18 Electrical Engineering Technology"
 description: "Market > College Programs > Northern College > Electrical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.18 Electrical Engineering Technology
+# 10.46.18 Electrical Engineering Technology
 
 ## Glossary
 

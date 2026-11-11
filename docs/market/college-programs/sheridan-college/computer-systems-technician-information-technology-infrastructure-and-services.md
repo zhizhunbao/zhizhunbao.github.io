@@ -1,10 +1,10 @@
 ---
-title: "10.54.28 Computer Systems Technician – Information Technology Infrastructure and Services"
+title: "10.60.28 Computer Systems Technician – Information Technology Infrastructure and Services"
 description: "Market > College Programs > Sheridan College > Computer Systems Technician – Information Technology Infrastructure and Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.28 Computer Systems Technician – Information Technology Infrastructure and Services
+# 10.60.28 Computer Systems Technician – Information Technology Infrastructure and Services
 
 ## Glossary
 

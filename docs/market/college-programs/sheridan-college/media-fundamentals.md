@@ -1,10 +1,10 @@
 ---
-title: "10.54.88 Media Fundamentals"
+title: "10.60.88 Media Fundamentals"
 description: "Market > College Programs > Sheridan College > Media Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.88 Media Fundamentals
+# 10.60.88 Media Fundamentals
 
 ## Glossary
 

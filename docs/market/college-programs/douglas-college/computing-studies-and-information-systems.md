@@ -1,10 +1,10 @@
 ---
-title: "10.17.35 Computing Studies and Information Systems"
+title: "10.20.35 Computing Studies and Information Systems"
 description: "Market > College Programs > Douglas College > Computing Studies and Information Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.35 Computing Studies and Information Systems
+# 10.20.35 Computing Studies and Information Systems
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.56.64 Journalism"
+title: "10.63.64 Journalism"
 description: "Market > College Programs > St. Clair College > Journalism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.64 Journalism
+# 10.63.64 Journalism
 
 ## Glossary
 

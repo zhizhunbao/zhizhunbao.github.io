@@ -1,10 +1,10 @@
 ---
-title: "10.52.1 Academic Upgrading"
+title: "10.58.1 Academic Upgrading"
 description: "Market > College Programs > Selkirk College > Academic Upgrading: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.1 Academic Upgrading
+# 10.58.1 Academic Upgrading
 
 ## Glossary
 

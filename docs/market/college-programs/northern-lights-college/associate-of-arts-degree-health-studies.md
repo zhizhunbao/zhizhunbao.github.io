@@ -1,10 +1,10 @@
 ---
-title: "10.42.3 Associate of Arts Degree (Health Studies)"
+title: "10.48.3 Associate of Arts Degree (Health Studies)"
 description: "Market > College Programs > Northern Lights College > Associate of Arts Degree (Health Studies): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.3 Associate of Arts Degree (Health Studies)
+# 10.48.3 Associate of Arts Degree (Health Studies)
 
 ## Glossary
 

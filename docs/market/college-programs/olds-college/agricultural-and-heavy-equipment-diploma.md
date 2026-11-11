@@ -1,10 +1,10 @@
 ---
-title: "10.46.2 Agricultural and Heavy Equipment Diploma"
+title: "10.52.2 Agricultural and Heavy Equipment Diploma"
 description: "Market > College Programs > Olds College > Agricultural and Heavy Equipment Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.2 Agricultural and Heavy Equipment Diploma
+# 10.52.2 Agricultural and Heavy Equipment Diploma
 
 ## Glossary
 

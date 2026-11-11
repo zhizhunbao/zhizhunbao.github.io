@@ -1,10 +1,10 @@
 ---
-title: "10.48.26 Educational Assistant Certificate"
+title: "10.54.26 Educational Assistant Certificate"
 description: "Market > College Programs > Red Deer Polytechnic > Educational Assistant Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.26 Educational Assistant Certificate
+# 10.54.26 Educational Assistant Certificate
 
 ## Glossary
 

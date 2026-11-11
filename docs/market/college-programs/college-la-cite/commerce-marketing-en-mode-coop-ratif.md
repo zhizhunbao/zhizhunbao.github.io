@@ -1,10 +1,10 @@
 ---
-title: "10.11.34 Commerce – marketing en mode coopératif"
+title: "10.14.34 Commerce – marketing en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Commerce – marketing en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.34 Commerce – marketing en mode coopératif
+# 10.14.34 Commerce – marketing en mode coopératif
 
 ## Glossary
 

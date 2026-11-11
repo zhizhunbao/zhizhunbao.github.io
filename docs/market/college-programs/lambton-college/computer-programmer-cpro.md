@@ -1,10 +1,10 @@
 ---
-title: "10.28.56 Computer Programmer (CPRO)"
+title: "10.32.56 Computer Programmer (CPRO)"
 description: "Market > College Programs > Lambton College > Computer Programmer (CPRO): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.56 Computer Programmer (CPRO)
+# 10.32.56 Computer Programmer (CPRO)
 
 ## Glossary
 

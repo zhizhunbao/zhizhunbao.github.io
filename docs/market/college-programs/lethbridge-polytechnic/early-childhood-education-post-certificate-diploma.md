@@ -1,10 +1,10 @@
 ---
-title: "10.30.24 Early Childhood Education Post-Certificate Diploma"
+title: "10.34.24 Early Childhood Education Post-Certificate Diploma"
 description: "Market > College Programs > Lethbridge Polytechnic > Early Childhood Education Post-Certificate Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.24 Early Childhood Education Post-Certificate Diploma
+# 10.34.24 Early Childhood Education Post-Certificate Diploma
 
 ## Glossary
 

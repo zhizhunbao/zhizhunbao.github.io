@@ -1,10 +1,10 @@
 ---
-title: "10.53.152 Social Service Worker – Immigrants and Refugees (Accelerated)"
+title: "10.59.152 Social Service Worker – Immigrants and Refugees (Accelerated)"
 description: "Market > College Programs > Seneca Polytechnic > Social Service Worker – Immigrants and Refugees (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.152 Social Service Worker – Immigrants and Refugees (Accelerated)
+# 10.59.152 Social Service Worker – Immigrants and Refugees (Accelerated)
 
 ## Glossary
 

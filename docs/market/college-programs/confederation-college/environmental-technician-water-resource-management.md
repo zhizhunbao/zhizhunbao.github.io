@@ -1,10 +1,10 @@
 ---
-title: "10.16.35 Environmental Technician - Water Resource Management"
+title: "10.19.35 Environmental Technician - Water Resource Management"
 description: "Market > College Programs > Confederation College > Environmental Technician - Water Resource Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.35 Environmental Technician - Water Resource Management
+# 10.19.35 Environmental Technician - Water Resource Management
 
 ## Glossary
 

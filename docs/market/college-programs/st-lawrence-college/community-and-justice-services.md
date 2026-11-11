@@ -1,10 +1,10 @@
 ---
-title: "10.57.21 Community and Justice Services"
+title: "10.64.21 Community and Justice Services"
 description: "Market > College Programs > St. Lawrence College > Community and Justice Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.21 Community and Justice Services
+# 10.64.21 Community and Justice Services
 
 ## Glossary
 

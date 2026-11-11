@@ -1,10 +1,10 @@
 ---
-title: "10.30.31 General Arts and Science - English"
+title: "10.34.31 General Arts and Science - English"
 description: "Market > College Programs > Lethbridge Polytechnic > General Arts and Science - English: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.31 General Arts and Science - English
+# 10.34.31 General Arts and Science - English
 
 ## Glossary
 

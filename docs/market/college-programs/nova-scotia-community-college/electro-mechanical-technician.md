@@ -1,10 +1,10 @@
 ---
-title: "10.44.52 Electro Mechanical Technician"
+title: "10.50.52 Electro Mechanical Technician"
 description: "Market > College Programs > Nova Scotia Community College > Electro Mechanical Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.52 Electro Mechanical Technician
+# 10.50.52 Electro Mechanical Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.11 Artificial Intelligence & Machine Learning (AIMS)"
+title: "10.32.11 Artificial Intelligence & Machine Learning (AIMS)"
 description: "Market > College Programs > Lambton College > Artificial Intelligence & Machine Learning (AIMS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.11 Artificial Intelligence & Machine Learning (AIMS)
+# 10.32.11 Artificial Intelligence & Machine Learning (AIMS)
 
 ## Glossary
 

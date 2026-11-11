@@ -1,10 +1,10 @@
 ---
-title: "10.48.36 University Arts Diploma"
+title: "10.54.36 University Arts Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > University Arts Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.36 University Arts Diploma
+# 10.54.36 University Arts Diploma
 
 ## Glossary
 

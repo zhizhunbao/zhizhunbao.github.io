@@ -1,10 +1,10 @@
 ---
-title: "10.54.46 General Arts & Science – University Profile (Certificate)"
+title: "10.60.46 General Arts & Science – University Profile (Certificate)"
 description: "Market > College Programs > Sheridan College > General Arts & Science – University Profile (Certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.46 General Arts & Science – University Profile (Certificate)
+# 10.60.46 General Arts & Science – University Profile (Certificate)
 
 ## Glossary
 

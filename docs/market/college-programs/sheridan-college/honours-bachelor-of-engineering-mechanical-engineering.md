@@ -1,10 +1,10 @@
 ---
-title: "10.54.63 Honours Bachelor of Engineering (Mechanical Engineering)"
+title: "10.60.63 Honours Bachelor of Engineering (Mechanical Engineering)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Engineering (Mechanical Engineering): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.63 Honours Bachelor of Engineering (Mechanical Engineering)
+# 10.60.63 Honours Bachelor of Engineering (Mechanical Engineering)
 
 ## Glossary
 

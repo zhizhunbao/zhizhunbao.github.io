@@ -1,10 +1,10 @@
 ---
-title: "10.46.1 Agricultural and Heavy Equipment Certificate"
+title: "10.52.1 Agricultural and Heavy Equipment Certificate"
 description: "Market > College Programs > Olds College > Agricultural and Heavy Equipment Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.1 Agricultural and Heavy Equipment Certificate
+# 10.52.1 Agricultural and Heavy Equipment Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.52.55 Music and Technology, Contemporary - Songwriting Diploma"
+title: "10.58.55 Music and Technology, Contemporary - Songwriting Diploma"
 description: "Market > College Programs > Selkirk College > Music and Technology, Contemporary - Songwriting Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.55 Music and Technology, Contemporary - Songwriting Diploma
+# 10.58.55 Music and Technology, Contemporary - Songwriting Diploma
 
 ## Glossary
 

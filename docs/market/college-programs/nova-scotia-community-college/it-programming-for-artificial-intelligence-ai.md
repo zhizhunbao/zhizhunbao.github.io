@@ -1,10 +1,10 @@
 ---
-title: "10.44.80 IT Programming for Artificial Intelligence (AI)"
+title: "10.50.80 IT Programming for Artificial Intelligence (AI)"
 description: "Market > College Programs > Nova Scotia Community College > IT Programming for Artificial Intelligence (AI): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.80 IT Programming for Artificial Intelligence (AI)
+# 10.50.80 IT Programming for Artificial Intelligence (AI)
 
 ## Glossary
 

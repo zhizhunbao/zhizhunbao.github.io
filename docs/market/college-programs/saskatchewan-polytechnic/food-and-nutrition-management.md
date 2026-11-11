@@ -1,10 +1,10 @@
 ---
-title: "10.50.30 Food and Nutrition Management"
+title: "10.56.30 Food and Nutrition Management"
 description: "Market > College Programs > Saskatchewan Polytechnic > Food and Nutrition Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.30 Food and Nutrition Management
+# 10.56.30 Food and Nutrition Management
 
 ## Glossary
 

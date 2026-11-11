@@ -1,10 +1,10 @@
 ---
-title: "10.21.40 Health Informatics"
+title: "10.24.40 Health Informatics"
 description: "Market > College Programs > George Brown Polytechnic > Health Informatics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.40 Health Informatics
+# 10.24.40 Health Informatics
 
 ## Glossary
 

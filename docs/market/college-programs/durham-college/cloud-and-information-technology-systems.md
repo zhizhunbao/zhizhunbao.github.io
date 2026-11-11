@@ -1,10 +1,10 @@
 ---
-title: "10.18.28 Cloud and Information Technology Systems"
+title: "10.21.28 Cloud and Information Technology Systems"
 description: "Market > College Programs > Durham College > Cloud and Information Technology Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.28 Cloud and Information Technology Systems
+# 10.21.28 Cloud and Information Technology Systems
 
 ## Glossary
 

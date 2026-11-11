@@ -1,10 +1,10 @@
 ---
-title: "10.44.42 Digital Animation - 2D"
+title: "10.50.42 Digital Animation - 2D"
 description: "Market > College Programs > Nova Scotia Community College > Digital Animation - 2D: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.42 Digital Animation - 2D
+# 10.50.42 Digital Animation - 2D
 
 ## Glossary
 

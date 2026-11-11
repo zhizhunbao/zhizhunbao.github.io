@@ -1,10 +1,10 @@
 ---
-title: "10.8.2 Advertising - Creative and Digital Strategy"
+title: "10.9.2 Advertising - Creative and Digital Strategy"
 description: "Market > College Programs > Centennial College > Advertising - Creative and Digital Strategy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.2 Advertising - Creative and Digital Strategy
+# 10.9.2 Advertising - Creative and Digital Strategy
 
 ## Glossary
 

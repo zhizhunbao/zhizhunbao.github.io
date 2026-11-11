@@ -1,10 +1,10 @@
 ---
-title: "10.18.102 Personal Support Worker (weekend delivery)"
+title: "10.21.102 Personal Support Worker (weekend delivery)"
 description: "Market > College Programs > Durham College > Personal Support Worker (weekend delivery): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.102 Personal Support Worker (weekend delivery)
+# 10.21.102 Personal Support Worker (weekend delivery)
 
 ## Glossary
 

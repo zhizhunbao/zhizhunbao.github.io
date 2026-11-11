@@ -1,10 +1,10 @@
 ---
-title: "10.27.34 Environmental Sciences Diploma: Land Stewardship and Conservation Major"
+title: "10.31.34 Environmental Sciences Diploma: Land Stewardship and Conservation Major"
 description: "Market > College Programs > Lakeland College > Environmental Sciences Diploma: Land Stewardship and Conservation Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.34 Environmental Sciences Diploma: Land Stewardship and Conservation Major
+# 10.31.34 Environmental Sciences Diploma: Land Stewardship and Conservation Major
 
 ## Glossary
 

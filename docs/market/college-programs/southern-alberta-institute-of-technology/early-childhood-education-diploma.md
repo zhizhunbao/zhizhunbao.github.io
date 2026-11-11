@@ -1,10 +1,10 @@
 ---
-title: "10.55.52 Early Childhood Education Diploma"
+title: "10.62.52 Early Childhood Education Diploma"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Early Childhood Education Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.52 Early Childhood Education Diploma
+# 10.62.52 Early Childhood Education Diploma
 
 ## Glossary
 

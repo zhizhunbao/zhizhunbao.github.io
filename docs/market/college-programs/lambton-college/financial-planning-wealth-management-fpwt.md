@@ -1,10 +1,10 @@
 ---
-title: "10.28.75 Financial Planning & Wealth Management (FPWT)"
+title: "10.32.75 Financial Planning & Wealth Management (FPWT)"
 description: "Market > College Programs > Lambton College > Financial Planning & Wealth Management (FPWT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.75 Financial Planning & Wealth Management (FPWT)
+# 10.32.75 Financial Planning & Wealth Management (FPWT)
 
 ## Glossary
 

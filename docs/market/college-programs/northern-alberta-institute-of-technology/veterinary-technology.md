@@ -1,10 +1,10 @@
 ---
-title: "10.39.99 Veterinary Technology"
+title: "10.45.99 Veterinary Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Veterinary Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.99 Veterinary Technology
+# 10.45.99 Veterinary Technology
 
 ## Glossary
 

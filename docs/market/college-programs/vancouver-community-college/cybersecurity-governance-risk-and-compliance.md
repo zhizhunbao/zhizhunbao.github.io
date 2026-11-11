@@ -1,10 +1,10 @@
 ---
-title: "10.58.20 Cybersecurity Governance, Risk, and Compliance"
+title: "10.66.20 Cybersecurity Governance, Risk, and Compliance"
 description: "Market > College Programs > Vancouver Community College > Cybersecurity Governance, Risk, and Compliance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.20 Cybersecurity Governance, Risk, and Compliance
+# 10.66.20 Cybersecurity Governance, Risk, and Compliance
 
 ## Glossary
 

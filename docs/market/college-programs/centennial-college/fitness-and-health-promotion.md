@@ -1,10 +1,10 @@
 ---
-title: "10.8.105 Fitness and Health Promotion"
+title: "10.9.105 Fitness and Health Promotion"
 description: "Market > College Programs > Centennial College > Fitness and Health Promotion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.105 Fitness and Health Promotion
+# 10.9.105 Fitness and Health Promotion
 
 ## Glossary
 

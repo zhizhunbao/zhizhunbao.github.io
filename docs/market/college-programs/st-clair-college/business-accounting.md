@@ -1,10 +1,10 @@
 ---
-title: "10.56.10 Business - Accounting"
+title: "10.63.10 Business - Accounting"
 description: "Market > College Programs > St. Clair College > Business - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.10 Business - Accounting
+# 10.63.10 Business - Accounting
 
 ## Glossary
 

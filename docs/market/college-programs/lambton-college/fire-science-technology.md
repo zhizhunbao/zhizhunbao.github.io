@@ -1,10 +1,10 @@
 ---
-title: "10.28.77 Fire Science Technology"
+title: "10.32.77 Fire Science Technology"
 description: "Market > College Programs > Lambton College > Fire Science Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.77 Fire Science Technology
+# 10.32.77 Fire Science Technology
 
 ## Glossary
 

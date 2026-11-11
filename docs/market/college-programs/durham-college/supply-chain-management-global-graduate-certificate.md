@@ -1,10 +1,10 @@
 ---
-title: "10.18.122 Supply Chain Management – Global (graduate certificate)"
+title: "10.21.122 Supply Chain Management – Global (graduate certificate)"
 description: "Market > College Programs > Durham College > Supply Chain Management – Global (graduate certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.122 Supply Chain Management – Global (graduate certificate)
+# 10.21.122 Supply Chain Management – Global (graduate certificate)
 
 ## Glossary
 

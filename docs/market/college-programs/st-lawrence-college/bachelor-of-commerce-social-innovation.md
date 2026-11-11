@@ -1,10 +1,10 @@
 ---
-title: "10.57.7 Bachelor of Commerce: Social Innovation"
+title: "10.64.7 Bachelor of Commerce: Social Innovation"
 description: "Market > College Programs > St. Lawrence College > Bachelor of Commerce: Social Innovation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.7 Bachelor of Commerce: Social Innovation
+# 10.64.7 Bachelor of Commerce: Social Innovation
 
 ## Glossary
 

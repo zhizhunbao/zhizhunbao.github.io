@@ -1,10 +1,10 @@
 ---
-title: "10.58.36 High Performance and Custom Engine Technician"
+title: "10.66.36 High Performance and Custom Engine Technician"
 description: "Market > College Programs > Vancouver Community College > High Performance and Custom Engine Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.36 High Performance and Custom Engine Technician
+# 10.66.36 High Performance and Custom Engine Technician
 
 ## Glossary
 

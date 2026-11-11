@@ -1,10 +1,10 @@
 ---
-title: "10.15.44 Business"
+title: "10.18.44 Business"
 description: "Market > College Programs > Conestoga College > Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.44 Business
+# 10.18.44 Business
 
 ## Glossary
 

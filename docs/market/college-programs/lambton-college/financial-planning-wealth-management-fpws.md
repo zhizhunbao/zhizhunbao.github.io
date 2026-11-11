@@ -1,10 +1,10 @@
 ---
-title: "10.28.74 Financial Planning & Wealth Management (FPWS)"
+title: "10.32.74 Financial Planning & Wealth Management (FPWS)"
 description: "Market > College Programs > Lambton College > Financial Planning & Wealth Management (FPWS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.74 Financial Planning & Wealth Management (FPWS)
+# 10.32.74 Financial Planning & Wealth Management (FPWS)
 
 ## Glossary
 

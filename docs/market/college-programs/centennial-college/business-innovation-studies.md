@@ -1,10 +1,10 @@
 ---
-title: "10.8.55 Business Innovation Studies"
+title: "10.9.55 Business Innovation Studies"
 description: "Market > College Programs > Centennial College > Business Innovation Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.55 Business Innovation Studies
+# 10.9.55 Business Innovation Studies
 
 ## Glossary
 

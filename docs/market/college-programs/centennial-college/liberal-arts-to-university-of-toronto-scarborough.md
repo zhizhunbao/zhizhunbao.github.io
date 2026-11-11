@@ -1,10 +1,10 @@
 ---
-title: "10.8.128 Liberal Arts to University of Toronto Scarborough"
+title: "10.9.128 Liberal Arts to University of Toronto Scarborough"
 description: "Market > College Programs > Centennial College > Liberal Arts to University of Toronto Scarborough: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.128 Liberal Arts to University of Toronto Scarborough
+# 10.9.128 Liberal Arts to University of Toronto Scarborough
 
 ## Glossary
 

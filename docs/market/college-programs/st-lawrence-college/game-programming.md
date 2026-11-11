@@ -1,10 +1,10 @@
 ---
-title: "10.57.43 Game Programming"
+title: "10.64.43 Game Programming"
 description: "Market > College Programs > St. Lawrence College > Game Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.43 Game Programming
+# 10.64.43 Game Programming
 
 ## Glossary
 

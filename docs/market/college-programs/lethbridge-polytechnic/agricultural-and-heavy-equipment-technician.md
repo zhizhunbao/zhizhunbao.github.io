@@ -1,10 +1,10 @@
 ---
-title: "10.30.3 Agricultural and Heavy Equipment Technician"
+title: "10.34.3 Agricultural and Heavy Equipment Technician"
 description: "Market > College Programs > Lethbridge Polytechnic > Agricultural and Heavy Equipment Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.3 Agricultural and Heavy Equipment Technician
+# 10.34.3 Agricultural and Heavy Equipment Technician
 
 ## Glossary
 

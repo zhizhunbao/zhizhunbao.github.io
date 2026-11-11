@@ -1,10 +1,10 @@
 ---
-title: "10.34.18 Business - Accounting"
+title: "10.39.18 Business - Accounting"
 description: "Market > College Programs > Mohawk College > Business - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.18 Business - Accounting
+# 10.39.18 Business - Accounting
 
 ## Glossary
 

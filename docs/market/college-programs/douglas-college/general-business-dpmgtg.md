@@ -1,10 +1,10 @@
 ---
-title: "10.17.50 General Business (dpmgtg)"
+title: "10.20.50 General Business (dpmgtg)"
 description: "Market > College Programs > Douglas College > General Business (dpmgtg): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.50 General Business (dpmgtg)
+# 10.20.50 General Business (dpmgtg)
 
 ## Glossary
 

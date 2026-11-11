@@ -1,10 +1,10 @@
 ---
-title: "10.13.95 Systems and Network Administration"
+title: "10.16.95 Systems and Network Administration"
 description: "Market > College Programs > College of the North Atlantic > Systems and Network Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.95 Systems and Network Administration
+# 10.16.95 Systems and Network Administration
 
 ## Glossary
 

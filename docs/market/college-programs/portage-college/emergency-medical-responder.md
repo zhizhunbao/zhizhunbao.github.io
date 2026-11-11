@@ -1,10 +1,10 @@
 ---
-title: "10.47.16 Emergency Medical Responder"
+title: "10.53.16 Emergency Medical Responder"
 description: "Market > College Programs > Portage College > Emergency Medical Responder: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.16 Emergency Medical Responder
+# 10.53.16 Emergency Medical Responder
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.58.22 Dental Technology Sciences"
+title: "10.66.22 Dental Technology Sciences"
 description: "Market > College Programs > Vancouver Community College > Dental Technology Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.22 Dental Technology Sciences
+# 10.66.22 Dental Technology Sciences
 
 ## Glossary
 

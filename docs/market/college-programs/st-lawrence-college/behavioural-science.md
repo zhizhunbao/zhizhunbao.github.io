@@ -1,10 +1,10 @@
 ---
-title: "10.57.10 Behavioural Science"
+title: "10.64.10 Behavioural Science"
 description: "Market > College Programs > St. Lawrence College > Behavioural Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.10 Behavioural Science
+# 10.64.10 Behavioural Science
 
 ## Glossary
 

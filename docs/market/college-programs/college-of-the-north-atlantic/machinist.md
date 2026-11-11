@@ -1,10 +1,10 @@
 ---
-title: "10.13.63 Machinist"
+title: "10.16.63 Machinist"
 description: "Market > College Programs > College of the North Atlantic > Machinist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.63 Machinist
+# 10.16.63 Machinist
 
 ## Glossary
 

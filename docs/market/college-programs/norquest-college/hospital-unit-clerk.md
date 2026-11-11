@@ -1,10 +1,10 @@
 ---
-title: "10.37.26 Hospital Unit Clerk"
+title: "10.42.26 Hospital Unit Clerk"
 description: "Market > College Programs > NorQuest College > Hospital Unit Clerk: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.26 Hospital Unit Clerk
+# 10.42.26 Hospital Unit Clerk
 
 ## Glossary
 

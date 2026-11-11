@@ -1,10 +1,10 @@
 ---
-title: "10.20.73 Respiratory Therapy"
+title: "10.23.73 Respiratory Therapy"
 description: "Market > College Programs > Fleming College > Respiratory Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.73 Respiratory Therapy
+# 10.23.73 Respiratory Therapy
 
 ## Glossary
 

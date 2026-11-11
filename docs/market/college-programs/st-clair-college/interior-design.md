@@ -1,10 +1,10 @@
 ---
-title: "10.56.62 Interior Design"
+title: "10.63.62 Interior Design"
 description: "Market > College Programs > St. Clair College > Interior Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.62 Interior Design
+# 10.63.62 Interior Design
 
 ## Glossary
 

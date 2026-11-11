@@ -1,10 +1,10 @@
 ---
-title: "10.46.3 Agricultural Management Diploma"
+title: "10.52.3 Agricultural Management Diploma"
 description: "Market > College Programs > Olds College > Agricultural Management Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.3 Agricultural Management Diploma
+# 10.52.3 Agricultural Management Diploma
 
 ## Glossary
 

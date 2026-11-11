@@ -1,10 +1,10 @@
 ---
-title: "10.43.5 Computer Systems Technology (CSTC)"
+title: "10.49.5 Computer Systems Technology (CSTC)"
 description: "Market > College Programs > Northwestern Polytechnic > Computer Systems Technology (CSTC): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.5 Computer Systems Technology (CSTC)
+# 10.49.5 Computer Systems Technology (CSTC)
 
 ## Glossary
 

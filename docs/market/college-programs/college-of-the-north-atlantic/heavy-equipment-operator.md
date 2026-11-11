@@ -1,10 +1,10 @@
 ---
-title: "10.13.54 Heavy Equipment Operator"
+title: "10.16.54 Heavy Equipment Operator"
 description: "Market > College Programs > College of the North Atlantic > Heavy Equipment Operator: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.54 Heavy Equipment Operator
+# 10.16.54 Heavy Equipment Operator
 
 ## Glossary
 

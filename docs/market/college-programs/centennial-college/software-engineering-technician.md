@@ -1,10 +1,10 @@
 ---
-title: "10.8.171 Software Engineering Technician"
+title: "10.9.171 Software Engineering Technician"
 description: "Market > College Programs > Centennial College > Software Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.171 Software Engineering Technician
+# 10.9.171 Software Engineering Technician
 
 ## Glossary
 

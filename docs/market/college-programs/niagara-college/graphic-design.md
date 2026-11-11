@@ -1,10 +1,10 @@
 ---
-title: "10.36.49 Graphic Design"
+title: "10.41.49 Graphic Design"
 description: "Market > College Programs > Niagara College > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.49 Graphic Design
+# 10.41.49 Graphic Design
 
 ## Glossary
 

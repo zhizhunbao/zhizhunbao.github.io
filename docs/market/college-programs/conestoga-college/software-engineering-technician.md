@@ -1,10 +1,10 @@
 ---
-title: "10.15.184 Software Engineering Technician"
+title: "10.18.184 Software Engineering Technician"
 description: "Market > College Programs > Conestoga College > Software Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.184 Software Engineering Technician
+# 10.18.184 Software Engineering Technician
 
 ## Glossary
 

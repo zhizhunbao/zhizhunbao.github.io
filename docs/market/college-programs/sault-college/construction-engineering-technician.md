@@ -1,10 +1,10 @@
 ---
-title: "10.51.17 Construction Engineering Technician"
+title: "10.57.17 Construction Engineering Technician"
 description: "Market > College Programs > Sault College > Construction Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.17 Construction Engineering Technician
+# 10.57.17 Construction Engineering Technician
 
 ## Glossary
 

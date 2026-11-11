@@ -1,10 +1,10 @@
 ---
-title: "10.19.89 General Arts and Science-One Year"
+title: "10.22.89 General Arts and Science-One Year"
 description: "Market > College Programs > Fanshawe College > General Arts and Science-One Year: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.89 General Arts and Science-One Year
+# 10.22.89 General Arts and Science-One Year
 
 ## Glossary
 

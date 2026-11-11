@@ -1,10 +1,10 @@
 ---
-title: "10.53.74 Flight Services"
+title: "10.59.74 Flight Services"
 description: "Market > College Programs > Seneca Polytechnic > Flight Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.74 Flight Services
+# 10.59.74 Flight Services
 
 ## Glossary
 

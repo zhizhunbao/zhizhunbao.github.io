@@ -1,10 +1,10 @@
 ---
-title: "10.48.8 Bachelor of Arts in Psychology"
+title: "10.54.8 Bachelor of Arts in Psychology"
 description: "Market > College Programs > Red Deer Polytechnic > Bachelor of Arts in Psychology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.8 Bachelor of Arts in Psychology
+# 10.54.8 Bachelor of Arts in Psychology
 
 ## Glossary
 

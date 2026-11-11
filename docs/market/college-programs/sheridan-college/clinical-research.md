@@ -1,10 +1,10 @@
 ---
-title: "10.54.22 Clinical Research"
+title: "10.60.22 Clinical Research"
 description: "Market > College Programs > Sheridan College > Clinical Research: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.22 Clinical Research
+# 10.60.22 Clinical Research
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.52.8 Bookkeeping Skills - Associate Certificate"
+title: "10.58.8 Bookkeeping Skills - Associate Certificate"
 description: "Market > College Programs > Selkirk College > Bookkeeping Skills - Associate Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.8 Bookkeeping Skills - Associate Certificate
+# 10.58.8 Bookkeeping Skills - Associate Certificate
 
 ## Glossary
 

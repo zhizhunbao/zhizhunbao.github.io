@@ -1,10 +1,10 @@
 ---
-title: "10.18.61 Foundations in Art and Design"
+title: "10.21.61 Foundations in Art and Design"
 description: "Market > College Programs > Durham College > Foundations in Art and Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.61 Foundations in Art and Design
+# 10.21.61 Foundations in Art and Design
 
 ## Glossary
 

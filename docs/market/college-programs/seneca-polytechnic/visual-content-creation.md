@@ -1,10 +1,10 @@
 ---
-title: "10.53.160 Visual Content Creation"
+title: "10.59.160 Visual Content Creation"
 description: "Market > College Programs > Seneca Polytechnic > Visual Content Creation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.160 Visual Content Creation
+# 10.59.160 Visual Content Creation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.136 Manufacturing Engineering Technology - Welding and Robotics (Optional Co-op)"
+title: "10.18.136 Manufacturing Engineering Technology - Welding and Robotics (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Manufacturing Engineering Technology - Welding and Robotics (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.136 Manufacturing Engineering Technology - Welding and Robotics (Optional Co-op)
+# 10.18.136 Manufacturing Engineering Technology - Welding and Robotics (Optional Co-op)
 
 ## Glossary
 

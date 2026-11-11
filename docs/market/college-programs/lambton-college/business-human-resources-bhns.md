@@ -1,10 +1,10 @@
 ---
-title: "10.28.26 Business - Human Resources (BHNS)"
+title: "10.32.26 Business - Human Resources (BHNS)"
 description: "Market > College Programs > Lambton College > Business - Human Resources (BHNS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.26 Business - Human Resources (BHNS)
+# 10.32.26 Business - Human Resources (BHNS)
 
 ## Glossary
 

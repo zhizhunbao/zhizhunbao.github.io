@@ -1,10 +1,10 @@
 ---
-title: "10.22.63 Electrical Techniques"
+title: "10.25.63 Electrical Techniques"
 description: "Market > College Programs > Georgian College > Electrical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.63 Electrical Techniques
+# 10.25.63 Electrical Techniques
 
 ## Glossary
 

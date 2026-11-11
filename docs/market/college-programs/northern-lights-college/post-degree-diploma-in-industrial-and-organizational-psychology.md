@@ -1,10 +1,10 @@
 ---
-title: "10.42.14 Post-Degree Diploma in Industrial and Organizational Psychology"
+title: "10.48.14 Post-Degree Diploma in Industrial and Organizational Psychology"
 description: "Market > College Programs > Northern Lights College > Post-Degree Diploma in Industrial and Organizational Psychology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.14 Post-Degree Diploma in Industrial and Organizational Psychology
+# 10.48.14 Post-Degree Diploma in Industrial and Organizational Psychology
 
 ## Glossary
 

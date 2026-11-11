@@ -1,10 +1,10 @@
 ---
-title: "10.8.144 Nutrition and Food Service Management"
+title: "10.9.144 Nutrition and Food Service Management"
 description: "Market > College Programs > Centennial College > Nutrition and Food Service Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.144 Nutrition and Food Service Management
+# 10.9.144 Nutrition and Food Service Management
 
 ## Glossary
 

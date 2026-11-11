@@ -1,10 +1,10 @@
 ---
-title: "10.11.108 Techniques en administration des affaires – à distance"
+title: "10.14.108 Techniques en administration des affaires – à distance"
 description: "Market > College Programs > Collège La Cité > Techniques en administration des affaires – à distance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.108 Techniques en administration des affaires – à distance
+# 10.14.108 Techniques en administration des affaires – à distance
 
 ## Glossary
 

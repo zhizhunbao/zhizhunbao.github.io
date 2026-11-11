@@ -1,10 +1,10 @@
 ---
-title: "10.55.38 Civil Engineering Technology - Construction Management Major"
+title: "10.62.38 Civil Engineering Technology - Construction Management Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Civil Engineering Technology - Construction Management Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.38 Civil Engineering Technology - Construction Management Major
+# 10.62.38 Civil Engineering Technology - Construction Management Major
 
 ## Glossary
 

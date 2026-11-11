@@ -1,10 +1,10 @@
 ---
-title: "10.54.80 Makeup for Media and Creative Arts"
+title: "10.60.80 Makeup for Media and Creative Arts"
 description: "Market > College Programs > Sheridan College > Makeup for Media and Creative Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.80 Makeup for Media and Creative Arts
+# 10.60.80 Makeup for Media and Creative Arts
 
 ## Glossary
 

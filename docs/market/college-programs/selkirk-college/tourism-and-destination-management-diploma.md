@@ -1,10 +1,10 @@
 ---
-title: "10.52.73 Tourism and Destination Management - Diploma"
+title: "10.58.73 Tourism and Destination Management - Diploma"
 description: "Market > College Programs > Selkirk College > Tourism and Destination Management - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.73 Tourism and Destination Management - Diploma
+# 10.58.73 Tourism and Destination Management - Diploma
 
 ## Glossary
 

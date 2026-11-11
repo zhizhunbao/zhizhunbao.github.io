@@ -1,10 +1,10 @@
 ---
-title: "10.52.26 Early Childhood Care and Education - Infant/Toddler Advanced Certificate"
+title: "10.58.26 Early Childhood Care and Education - Infant/Toddler Advanced Certificate"
 description: "Market > College Programs > Selkirk College > Early Childhood Care and Education - Infant/Toddler Advanced Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.26 Early Childhood Care and Education - Infant/Toddler Advanced Certificate
+# 10.58.26 Early Childhood Care and Education - Infant/Toddler Advanced Certificate
 
 ## Glossary
 

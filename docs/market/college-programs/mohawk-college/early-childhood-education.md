@@ -1,10 +1,10 @@
 ---
-title: "10.34.45 Early Childhood Education"
+title: "10.39.45 Early Childhood Education"
 description: "Market > College Programs > Mohawk College > Early Childhood Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.45 Early Childhood Education
+# 10.39.45 Early Childhood Education
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.13.56 Hydrogen Technician"
+title: "10.16.56 Hydrogen Technician"
 description: "Market > College Programs > College of the North Atlantic > Hydrogen Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.56 Hydrogen Technician
+# 10.16.56 Hydrogen Technician
 
 ## Glossary
 

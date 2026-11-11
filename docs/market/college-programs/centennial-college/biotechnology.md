@@ -1,10 +1,10 @@
 ---
-title: "10.8.37 Biotechnology"
+title: "10.9.37 Biotechnology"
 description: "Market > College Programs > Centennial College > Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.37 Biotechnology
+# 10.9.37 Biotechnology
 
 ## Glossary
 

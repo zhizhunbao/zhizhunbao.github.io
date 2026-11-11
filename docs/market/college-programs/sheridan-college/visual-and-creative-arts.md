@@ -1,10 +1,10 @@
 ---
-title: "10.54.109 Visual and Creative Arts"
+title: "10.60.109 Visual and Creative Arts"
 description: "Market > College Programs > Sheridan College > Visual and Creative Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.109 Visual and Creative Arts
+# 10.60.109 Visual and Creative Arts
 
 ## Glossary
 

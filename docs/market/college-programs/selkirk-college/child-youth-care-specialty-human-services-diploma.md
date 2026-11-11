@@ -1,10 +1,10 @@
 ---
-title: "10.52.14 Child & Youth Care Specialty - Human Services Diploma"
+title: "10.58.14 Child & Youth Care Specialty - Human Services Diploma"
 description: "Market > College Programs > Selkirk College > Child & Youth Care Specialty - Human Services Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.14 Child & Youth Care Specialty - Human Services Diploma
+# 10.58.14 Child & Youth Care Specialty - Human Services Diploma
 
 ## Glossary
 

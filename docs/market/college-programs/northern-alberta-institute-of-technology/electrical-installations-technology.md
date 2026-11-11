@@ -1,10 +1,10 @@
 ---
-title: "10.39.53 Electrical Installations Technology"
+title: "10.45.53 Electrical Installations Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Electrical Installations Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.53 Electrical Installations Technology
+# 10.45.53 Electrical Installations Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.104 Human Resources Management"
+title: "10.59.104 Human Resources Management"
 description: "Market > College Programs > Seneca Polytechnic > Human Resources Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.104 Human Resources Management
+# 10.59.104 Human Resources Management
 
 ## Glossary
 

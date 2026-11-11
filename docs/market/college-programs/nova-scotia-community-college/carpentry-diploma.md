@@ -1,10 +1,10 @@
 ---
-title: "10.44.28 Carpentry Diploma"
+title: "10.50.28 Carpentry Diploma"
 description: "Market > College Programs > Nova Scotia Community College > Carpentry Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.28 Carpentry Diploma
+# 10.50.28 Carpentry Diploma
 
 ## Glossary
 

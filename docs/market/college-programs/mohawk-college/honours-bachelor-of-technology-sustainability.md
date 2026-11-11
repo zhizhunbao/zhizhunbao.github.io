@@ -1,10 +1,10 @@
 ---
-title: "10.34.60 Honours Bachelor of Technology - Sustainability"
+title: "10.39.60 Honours Bachelor of Technology - Sustainability"
 description: "Market > College Programs > Mohawk College > Honours Bachelor of Technology - Sustainability: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.60 Honours Bachelor of Technology - Sustainability
+# 10.39.60 Honours Bachelor of Technology - Sustainability
 
 ## Glossary
 

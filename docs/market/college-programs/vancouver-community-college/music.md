@@ -1,10 +1,10 @@
 ---
-title: "10.58.42 Music"
+title: "10.66.42 Music"
 description: "Market > College Programs > Vancouver Community College > Music: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.42 Music
+# 10.66.42 Music
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.34.57 Health, Wellness and Fitness"
+title: "10.39.57 Health, Wellness and Fitness"
 description: "Market > College Programs > Mohawk College > Health, Wellness and Fitness: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.57 Health, Wellness and Fitness
+# 10.39.57 Health, Wellness and Fitness
 
 ## Glossary
 

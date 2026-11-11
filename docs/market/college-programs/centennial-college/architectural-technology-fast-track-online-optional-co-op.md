@@ -1,10 +1,10 @@
 ---
-title: "10.8.10 Architectural Technology (Fast-Track, Online) (Optional Co-op)"
+title: "10.9.10 Architectural Technology (Fast-Track, Online) (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Architectural Technology (Fast-Track, Online) (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.10 Architectural Technology (Fast-Track, Online) (Optional Co-op)
+# 10.9.10 Architectural Technology (Fast-Track, Online) (Optional Co-op)
 
 ## Glossary
 

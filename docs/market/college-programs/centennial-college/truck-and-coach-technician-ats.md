@@ -1,10 +1,10 @@
 ---
-title: "10.8.185 Truck and Coach Technician ATS"
+title: "10.9.185 Truck and Coach Technician ATS"
 description: "Market > College Programs > Centennial College > Truck and Coach Technician ATS: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.185 Truck and Coach Technician ATS
+# 10.9.185 Truck and Coach Technician ATS
 
 ## Glossary
 

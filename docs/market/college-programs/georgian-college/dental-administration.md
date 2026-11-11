@@ -1,10 +1,10 @@
 ---
-title: "10.22.53 Dental Administration"
+title: "10.25.53 Dental Administration"
 description: "Market > College Programs > Georgian College > Dental Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.53 Dental Administration
+# 10.25.53 Dental Administration
 
 ## Glossary
 

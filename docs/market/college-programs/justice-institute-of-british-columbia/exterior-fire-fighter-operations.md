@@ -1,10 +1,10 @@
 ---
-title: "10.25.10 Exterior Fire Fighter Operations"
+title: "10.29.10 Exterior Fire Fighter Operations"
 description: "Market > College Programs > Justice Institute of British Columbia > Exterior Fire Fighter Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.10 Exterior Fire Fighter Operations
+# 10.29.10 Exterior Fire Fighter Operations
 
 ## Glossary
 

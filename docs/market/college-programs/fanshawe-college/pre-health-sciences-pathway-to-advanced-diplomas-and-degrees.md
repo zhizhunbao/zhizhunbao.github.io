@@ -1,10 +1,10 @@
 ---
-title: "10.19.146 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees"
+title: "10.22.146 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees"
 description: "Market > College Programs > Fanshawe College > Pre-Health Sciences Pathway to Advanced Diplomas and Degrees: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.146 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees
+# 10.22.146 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees
 
 ## Glossary
 

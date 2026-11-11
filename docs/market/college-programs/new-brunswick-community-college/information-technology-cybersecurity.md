@@ -1,10 +1,10 @@
 ---
-title: "10.35.48 Information Technology: Cybersecurity"
+title: "10.40.48 Information Technology: Cybersecurity"
 description: "Market > College Programs > New Brunswick Community College > Information Technology: Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.48 Information Technology: Cybersecurity
+# 10.40.48 Information Technology: Cybersecurity
 
 ## Glossary
 

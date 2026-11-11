@@ -1,10 +1,10 @@
 ---
-title: "10.8.84 Early Childhood Education - Tropicana (Fast-Track)"
+title: "10.9.84 Early Childhood Education - Tropicana (Fast-Track)"
 description: "Market > College Programs > Centennial College > Early Childhood Education - Tropicana (Fast-Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.84 Early Childhood Education - Tropicana (Fast-Track)
+# 10.9.84 Early Childhood Education - Tropicana (Fast-Track)
 
 ## Glossary
 

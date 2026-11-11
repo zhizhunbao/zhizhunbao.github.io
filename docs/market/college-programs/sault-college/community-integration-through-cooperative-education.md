@@ -1,10 +1,10 @@
 ---
-title: "10.51.14 Community Integration Through Cooperative Education"
+title: "10.57.14 Community Integration Through Cooperative Education"
 description: "Market > College Programs > Sault College > Community Integration Through Cooperative Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.14 Community Integration Through Cooperative Education
+# 10.57.14 Community Integration Through Cooperative Education
 
 ## Glossary
 

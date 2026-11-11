@@ -1,10 +1,10 @@
 ---
-title: "10.22.40 Communicative Disorders Assistant"
+title: "10.25.40 Communicative Disorders Assistant"
 description: "Market > College Programs > Georgian College > Communicative Disorders Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.40 Communicative Disorders Assistant
+# 10.25.40 Communicative Disorders Assistant
 
 ## Glossary
 

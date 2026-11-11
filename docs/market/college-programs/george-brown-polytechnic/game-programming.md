@@ -1,10 +1,10 @@
 ---
-title: "10.21.38 Game - Programming"
+title: "10.24.38 Game - Programming"
 description: "Market > College Programs > George Brown Polytechnic > Game - Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.38 Game - Programming
+# 10.24.38 Game - Programming
 
 ## Glossary
 

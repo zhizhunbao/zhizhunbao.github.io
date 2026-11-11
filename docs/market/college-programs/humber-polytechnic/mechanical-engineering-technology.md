@@ -1,10 +1,10 @@
 ---
-title: "10.24.96 Mechanical Engineering Technology"
+title: "10.28.96 Mechanical Engineering Technology"
 description: "Market > College Programs > Humber Polytechnic > Mechanical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.96 Mechanical Engineering Technology
+# 10.28.96 Mechanical Engineering Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.113 Professional Golf Management – Business Administration"
+title: "10.28.113 Professional Golf Management – Business Administration"
 description: "Market > College Programs > Humber Polytechnic > Professional Golf Management – Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.113 Professional Golf Management – Business Administration
+# 10.28.113 Professional Golf Management – Business Administration
 
 ## Glossary
 

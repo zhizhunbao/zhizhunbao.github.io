@@ -1,10 +1,10 @@
 ---
-title: "10.49.20 Cybersecurity"
+title: "10.55.20 Cybersecurity"
 description: "Market > College Programs > Red River College Polytechnic > Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.20 Cybersecurity
+# 10.55.20 Cybersecurity
 
 ## Glossary
 

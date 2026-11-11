@@ -1,10 +1,10 @@
 ---
-title: "10.23.32 Journalism and Communications"
+title: "10.27.32 Journalism and Communications"
 description: "Market > College Programs > Holland College > Journalism and Communications: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.32 Journalism and Communications
+# 10.27.32 Journalism and Communications
 
 ## Glossary
 

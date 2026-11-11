@@ -1,10 +1,10 @@
 ---
-title: "10.56.33 Dental Assisting - Level I & II"
+title: "10.63.33 Dental Assisting - Level I & II"
 description: "Market > College Programs > St. Clair College > Dental Assisting - Level I & II: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.33 Dental Assisting - Level I & II
+# 10.63.33 Dental Assisting - Level I & II
 
 ## Glossary
 

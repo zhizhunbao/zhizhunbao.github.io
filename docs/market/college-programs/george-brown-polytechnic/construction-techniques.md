@@ -1,10 +1,10 @@
 ---
-title: "10.21.26 Construction Techniques"
+title: "10.24.26 Construction Techniques"
 description: "Market > College Programs > George Brown Polytechnic > Construction Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.26 Construction Techniques
+# 10.24.26 Construction Techniques
 
 ## Glossary
 

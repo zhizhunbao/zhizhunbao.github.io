@@ -1,10 +1,10 @@
 ---
-title: "10.55.44 Cyber Security Analyst"
+title: "10.62.44 Cyber Security Analyst"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Cyber Security Analyst: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.44 Cyber Security Analyst
+# 10.62.44 Cyber Security Analyst
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.90 Human Resources Management (HRMD)"
+title: "10.32.90 Human Resources Management (HRMD)"
 description: "Market > College Programs > Lambton College > Human Resources Management (HRMD): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.90 Human Resources Management (HRMD)
+# 10.32.90 Human Resources Management (HRMD)
 
 ## Glossary
 

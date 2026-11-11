@@ -1,10 +1,10 @@
 ---
-title: "10.29.47 English"
+title: "10.33.47 English"
 description: "Market > College Programs > Langara College > English: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.47 English
+# 10.33.47 English
 
 ## Glossary
 

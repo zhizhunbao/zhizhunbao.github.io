@@ -1,10 +1,10 @@
 ---
-title: "10.19.75 Electrical Techniques"
+title: "10.22.75 Electrical Techniques"
 description: "Market > College Programs > Fanshawe College > Electrical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.75 Electrical Techniques
+# 10.22.75 Electrical Techniques
 
 ## Glossary
 

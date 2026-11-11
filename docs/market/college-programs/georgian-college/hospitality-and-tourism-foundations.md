@@ -1,10 +1,10 @@
 ---
-title: "10.22.103 Hospitality and Tourism Foundations"
+title: "10.25.103 Hospitality and Tourism Foundations"
 description: "Market > College Programs > Georgian College > Hospitality and Tourism Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.103 Hospitality and Tourism Foundations
+# 10.25.103 Hospitality and Tourism Foundations
 
 ## Glossary
 

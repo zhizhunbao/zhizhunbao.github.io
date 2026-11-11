@@ -1,10 +1,10 @@
 ---
-title: "10.51.12 Business Fundamentals"
+title: "10.57.12 Business Fundamentals"
 description: "Market > College Programs > Sault College > Business Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.12 Business Fundamentals
+# 10.57.12 Business Fundamentals
 
 ## Glossary
 

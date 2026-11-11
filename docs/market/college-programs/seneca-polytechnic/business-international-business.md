@@ -1,10 +1,10 @@
 ---
-title: "10.53.28 Business – International Business"
+title: "10.59.28 Business – International Business"
 description: "Market > College Programs > Seneca Polytechnic > Business – International Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.28 Business – International Business
+# 10.59.28 Business – International Business
 
 ## Glossary
 

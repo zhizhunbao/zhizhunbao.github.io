@@ -1,10 +1,10 @@
 ---
-title: "10.24.64 Electrical Engineering Technician – Trades"
+title: "10.28.64 Electrical Engineering Technician – Trades"
 description: "Market > College Programs > Humber Polytechnic > Electrical Engineering Technician – Trades: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.64 Electrical Engineering Technician – Trades
+# 10.28.64 Electrical Engineering Technician – Trades
 
 ## Glossary
 

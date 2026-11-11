@@ -1,10 +1,10 @@
 ---
-title: "10.21.30 Digital Product Management"
+title: "10.24.30 Digital Product Management"
 description: "Market > College Programs > George Brown Polytechnic > Digital Product Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.30 Digital Product Management
+# 10.24.30 Digital Product Management
 
 ## Glossary
 

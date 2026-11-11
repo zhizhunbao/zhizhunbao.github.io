@@ -1,10 +1,10 @@
 ---
-title: "10.22.79 Game - Development"
+title: "10.25.79 Game - Development"
 description: "Market > College Programs > Georgian College > Game - Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.79 Game - Development
+# 10.25.79 Game - Development
 
 ## Glossary
 

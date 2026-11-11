@@ -1,10 +1,10 @@
 ---
-title: "10.53.97 Honours Bachelor of Science – Nursing"
+title: "10.59.97 Honours Bachelor of Science – Nursing"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Science – Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.97 Honours Bachelor of Science – Nursing
+# 10.59.97 Honours Bachelor of Science – Nursing
 
 ## Glossary
 

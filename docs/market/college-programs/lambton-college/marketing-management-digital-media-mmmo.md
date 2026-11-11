@@ -1,10 +1,10 @@
 ---
-title: "10.28.96 Marketing Management - Digital Media (MMMO)"
+title: "10.32.96 Marketing Management - Digital Media (MMMO)"
 description: "Market > College Programs > Lambton College > Marketing Management - Digital Media (MMMO): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.96 Marketing Management - Digital Media (MMMO)
+# 10.32.96 Marketing Management - Digital Media (MMMO)
 
 ## Glossary
 

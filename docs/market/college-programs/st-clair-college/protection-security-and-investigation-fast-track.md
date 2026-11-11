@@ -1,10 +1,10 @@
 ---
-title: "10.56.105 Protection, Security and Investigation (Fast Track)"
+title: "10.63.105 Protection, Security and Investigation (Fast Track)"
 description: "Market > College Programs > St. Clair College > Protection, Security and Investigation (Fast Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.105 Protection, Security and Investigation (Fast Track)
+# 10.63.105 Protection, Security and Investigation (Fast Track)
 
 ## Glossary
 

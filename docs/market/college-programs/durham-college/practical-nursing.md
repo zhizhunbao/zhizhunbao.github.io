@@ -1,10 +1,10 @@
 ---
-title: "10.18.107 Practical Nursing"
+title: "10.21.107 Practical Nursing"
 description: "Market > College Programs > Durham College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.107 Practical Nursing
+# 10.21.107 Practical Nursing
 
 ## Glossary
 

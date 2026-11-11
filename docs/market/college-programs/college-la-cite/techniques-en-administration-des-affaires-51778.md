@@ -1,10 +1,10 @@
 ---
-title: "10.11.103 Techniques en administration des affaires (51778)"
+title: "10.14.103 Techniques en administration des affaires (51778)"
 description: "Market > College Programs > Collège La Cité > Techniques en administration des affaires (51778): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.103 Techniques en administration des affaires (51778)
+# 10.14.103 Techniques en administration des affaires (51778)
 
 ## Glossary
 

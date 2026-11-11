@@ -1,10 +1,10 @@
 ---
-title: "10.17.68 Management"
+title: "10.20.68 Management"
 description: "Market > College Programs > Douglas College > Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.68 Management
+# 10.20.68 Management
 
 ## Glossary
 

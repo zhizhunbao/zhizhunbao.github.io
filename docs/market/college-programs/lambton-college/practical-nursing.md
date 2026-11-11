@@ -1,10 +1,10 @@
 ---
-title: "10.28.113 Practical Nursing"
+title: "10.32.113 Practical Nursing"
 description: "Market > College Programs > Lambton College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.113 Practical Nursing
+# 10.32.113 Practical Nursing
 
 ## Glossary
 

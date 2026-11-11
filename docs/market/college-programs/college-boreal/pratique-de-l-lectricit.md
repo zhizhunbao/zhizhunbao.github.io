@@ -1,10 +1,10 @@
 ---
-title: "10.10.24 Pratique de l’électricité"
+title: "10.11.24 Pratique de l’électricité"
 description: "Market > College Programs > Collège Boréal > Pratique de l’électricité: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.24 Pratique de l’électricité
+# 10.11.24 Pratique de l’électricité
 
 ## Glossary
 

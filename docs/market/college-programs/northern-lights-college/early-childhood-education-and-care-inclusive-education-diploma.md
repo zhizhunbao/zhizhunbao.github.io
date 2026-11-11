@@ -1,10 +1,10 @@
 ---
-title: "10.42.6 Early Childhood Education and Care – Inclusive Education Diploma"
+title: "10.48.6 Early Childhood Education and Care – Inclusive Education Diploma"
 description: "Market > College Programs > Northern Lights College > Early Childhood Education and Care – Inclusive Education Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.6 Early Childhood Education and Care – Inclusive Education Diploma
+# 10.48.6 Early Childhood Education and Care – Inclusive Education Diploma
 
 ## Glossary
 

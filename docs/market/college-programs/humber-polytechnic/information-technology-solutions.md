@@ -1,10 +1,10 @@
 ---
-title: "10.24.88 Information Technology Solutions"
+title: "10.28.88 Information Technology Solutions"
 description: "Market > College Programs > Humber Polytechnic > Information Technology Solutions: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.88 Information Technology Solutions
+# 10.28.88 Information Technology Solutions
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.58.19 Culinary Arts and Food Service Management"
+title: "10.66.19 Culinary Arts and Food Service Management"
 description: "Market > College Programs > Vancouver Community College > Culinary Arts and Food Service Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.19 Culinary Arts and Food Service Management
+# 10.66.19 Culinary Arts and Food Service Management
 
 ## Glossary
 

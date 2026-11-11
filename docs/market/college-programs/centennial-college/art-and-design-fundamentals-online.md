@@ -1,10 +1,10 @@
 ---
-title: "10.8.13 Art and Design Fundamentals (Online)"
+title: "10.9.13 Art and Design Fundamentals (Online)"
 description: "Market > College Programs > Centennial College > Art and Design Fundamentals (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.13 Art and Design Fundamentals (Online)
+# 10.9.13 Art and Design Fundamentals (Online)
 
 ## Glossary
 

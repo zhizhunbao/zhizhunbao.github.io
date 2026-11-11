@@ -1,10 +1,10 @@
 ---
-title: "10.22.3 Advanced Care Paramedic"
+title: "10.25.3 Advanced Care Paramedic"
 description: "Market > College Programs > Georgian College > Advanced Care Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.3 Advanced Care Paramedic
+# 10.25.3 Advanced Care Paramedic
 
 ## Glossary
 

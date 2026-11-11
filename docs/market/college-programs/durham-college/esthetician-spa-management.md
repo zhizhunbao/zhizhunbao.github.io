@@ -1,10 +1,10 @@
 ---
-title: "10.18.54 Esthetician – Spa Management"
+title: "10.21.54 Esthetician – Spa Management"
 description: "Market > College Programs > Durham College > Esthetician – Spa Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.54 Esthetician – Spa Management
+# 10.21.54 Esthetician – Spa Management
 
 ## Glossary
 

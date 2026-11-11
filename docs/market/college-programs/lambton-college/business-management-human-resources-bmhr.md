@@ -1,10 +1,10 @@
 ---
-title: "10.28.41 Business Management - Human Resources (BMHR)"
+title: "10.32.41 Business Management - Human Resources (BMHR)"
 description: "Market > College Programs > Lambton College > Business Management - Human Resources (BMHR): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.41 Business Management - Human Resources (BMHR)
+# 10.32.41 Business Management - Human Resources (BMHR)
 
 ## Glossary
 

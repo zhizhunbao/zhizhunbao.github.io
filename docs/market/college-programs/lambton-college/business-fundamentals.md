@@ -1,10 +1,10 @@
 ---
-title: "10.28.37 Business Fundamentals"
+title: "10.32.37 Business Fundamentals"
 description: "Market > College Programs > Lambton College > Business Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.37 Business Fundamentals
+# 10.32.37 Business Fundamentals
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.39.73 Materials Engineering Technology"
+title: "10.45.73 Materials Engineering Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Materials Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.73 Materials Engineering Technology
+# 10.45.73 Materials Engineering Technology
 
 ## Glossary
 

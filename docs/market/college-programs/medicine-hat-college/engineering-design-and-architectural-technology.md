@@ -1,10 +1,10 @@
 ---
-title: "10.33.14 Engineering Design and Architectural Technology"
+title: "10.38.14 Engineering Design and Architectural Technology"
 description: "Market > College Programs > Medicine Hat College > Engineering Design and Architectural Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.14 Engineering Design and Architectural Technology
+# 10.38.14 Engineering Design and Architectural Technology
 
 ## Glossary
 

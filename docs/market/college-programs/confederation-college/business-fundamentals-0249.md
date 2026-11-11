@@ -1,10 +1,10 @@
 ---
-title: "10.16.18 Business Fundamentals (0249)"
+title: "10.19.18 Business Fundamentals (0249)"
 description: "Market > College Programs > Confederation College > Business Fundamentals (0249): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.18 Business Fundamentals (0249)
+# 10.19.18 Business Fundamentals (0249)
 
 ## Glossary
 

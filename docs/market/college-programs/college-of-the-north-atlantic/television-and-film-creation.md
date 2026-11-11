@@ -1,10 +1,10 @@
 ---
-title: "10.13.96 Television and Film Creation"
+title: "10.16.96 Television and Film Creation"
 description: "Market > College Programs > College of the North Atlantic > Television and Film Creation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.96 Television and Film Creation
+# 10.16.96 Television and Film Creation
 
 ## Glossary
 

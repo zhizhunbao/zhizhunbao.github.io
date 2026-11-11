@@ -1,10 +1,10 @@
 ---
-title: "10.14.13 Dental Assistant"
+title: "10.17.13 Dental Assistant"
 description: "Market > College Programs > College of the Rockies > Dental Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.13 Dental Assistant
+# 10.17.13 Dental Assistant
 
 ## Glossary
 

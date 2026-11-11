@@ -1,10 +1,10 @@
 ---
-title: "10.15.112 Game - Design"
+title: "10.18.112 Game - Design"
 description: "Market > College Programs > Conestoga College > Game - Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.112 Game - Design
+# 10.18.112 Game - Design
 
 ## Glossary
 

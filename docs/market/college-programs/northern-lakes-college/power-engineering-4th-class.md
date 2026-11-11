@@ -1,10 +1,10 @@
 ---
-title: "10.41.17 Power Engineering 4th Class"
+title: "10.47.17 Power Engineering 4th Class"
 description: "Market > College Programs > Northern Lakes College > Power Engineering 4th Class: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.17 Power Engineering 4th Class
+# 10.47.17 Power Engineering 4th Class
 
 ## Glossary
 

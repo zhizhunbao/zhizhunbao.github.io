@@ -1,10 +1,10 @@
 ---
-title: "10.35.6 Applied Construction Management"
+title: "10.40.6 Applied Construction Management"
 description: "Market > College Programs > New Brunswick Community College > Applied Construction Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.6 Applied Construction Management
+# 10.40.6 Applied Construction Management
 
 ## Glossary
 

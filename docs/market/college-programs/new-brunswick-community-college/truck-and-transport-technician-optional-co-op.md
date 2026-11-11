@@ -1,10 +1,10 @@
 ---
-title: "10.35.79 Truck and Transport Technician (Optional Co-op)"
+title: "10.40.79 Truck and Transport Technician (Optional Co-op)"
 description: "Market > College Programs > New Brunswick Community College > Truck and Transport Technician (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.79 Truck and Transport Technician (Optional Co-op)
+# 10.40.79 Truck and Transport Technician (Optional Co-op)
 
 ## Glossary
 

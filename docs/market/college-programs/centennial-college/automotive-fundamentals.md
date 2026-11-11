@@ -1,10 +1,10 @@
 ---
-title: "10.8.22 Automotive Fundamentals"
+title: "10.9.22 Automotive Fundamentals"
 description: "Market > College Programs > Centennial College > Automotive Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.22 Automotive Fundamentals
+# 10.9.22 Automotive Fundamentals
 
 ## Glossary
 

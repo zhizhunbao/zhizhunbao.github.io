@@ -1,10 +1,10 @@
 ---
-title: "10.53.9 Artificial Intelligence"
+title: "10.59.9 Artificial Intelligence"
 description: "Market > College Programs > Seneca Polytechnic > Artificial Intelligence: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.9 Artificial Intelligence
+# 10.59.9 Artificial Intelligence
 
 ## Glossary
 

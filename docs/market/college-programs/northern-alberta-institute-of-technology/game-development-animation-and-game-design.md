@@ -1,10 +1,10 @@
 ---
-title: "10.39.58 Game Development - Animation and Game Design"
+title: "10.45.58 Game Development - Animation and Game Design"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Game Development - Animation and Game Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.58 Game Development - Animation and Game Design
+# 10.45.58 Game Development - Animation and Game Design
 
 ## Glossary
 

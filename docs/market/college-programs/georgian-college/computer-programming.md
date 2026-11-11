@@ -1,10 +1,10 @@
 ---
-title: "10.22.44 Computer Programming"
+title: "10.25.44 Computer Programming"
 description: "Market > College Programs > Georgian College > Computer Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.44 Computer Programming
+# 10.25.44 Computer Programming
 
 ## Glossary
 

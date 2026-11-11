@@ -1,10 +1,10 @@
 ---
-title: "10.29.28 Commerce"
+title: "10.33.28 Commerce"
 description: "Market > College Programs > Langara College > Commerce: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.28 Commerce
+# 10.33.28 Commerce
 
 ## Glossary
 

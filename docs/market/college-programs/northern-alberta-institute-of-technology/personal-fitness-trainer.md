@@ -1,10 +1,10 @@
 ---
-title: "10.39.88 Personal Fitness Trainer"
+title: "10.45.88 Personal Fitness Trainer"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Personal Fitness Trainer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.88 Personal Fitness Trainer
+# 10.45.88 Personal Fitness Trainer
 
 ## Glossary
 

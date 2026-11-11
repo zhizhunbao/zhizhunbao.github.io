@@ -1,10 +1,10 @@
 ---
-title: "10.58.29 Fashion Design and Production"
+title: "10.66.29 Fashion Design and Production"
 description: "Market > College Programs > Vancouver Community College > Fashion Design and Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.29 Fashion Design and Production
+# 10.66.29 Fashion Design and Production
 
 ## Glossary
 

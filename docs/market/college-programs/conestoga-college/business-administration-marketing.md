@@ -1,10 +1,10 @@
 ---
-title: "10.15.54 Business Administration - Marketing"
+title: "10.18.54 Business Administration - Marketing"
 description: "Market > College Programs > Conestoga College > Business Administration - Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.54 Business Administration - Marketing
+# 10.18.54 Business Administration - Marketing
 
 ## Glossary
 

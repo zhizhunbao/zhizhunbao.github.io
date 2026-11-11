@@ -1,10 +1,10 @@
 ---
-title: "10.31.18 College Technology and Trade Preparation"
+title: "10.35.18 College Technology and Trade Preparation"
 description: "Market > College Programs > Loyalist College > College Technology and Trade Preparation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.18 College Technology and Trade Preparation
+# 10.35.18 College Technology and Trade Preparation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.52.74 Web Development - Certificate"
+title: "10.58.74 Web Development - Certificate"
 description: "Market > College Programs > Selkirk College > Web Development - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.74 Web Development - Certificate
+# 10.58.74 Web Development - Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.10 Collège Boréal"
+title: "10.11 Collège Boréal"
 description: "Market > College Programs > Collège Boréal: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10 Collège Boréal
+# 10.11 Collège Boréal
 
 ## Glossary
 

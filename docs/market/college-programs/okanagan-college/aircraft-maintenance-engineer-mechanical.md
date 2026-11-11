@@ -1,10 +1,10 @@
 ---
-title: "10.45.1 Aircraft Maintenance Engineer - Mechanical"
+title: "10.51.1 Aircraft Maintenance Engineer - Mechanical"
 description: "Market > College Programs > Okanagan College > Aircraft Maintenance Engineer - Mechanical: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.1 Aircraft Maintenance Engineer - Mechanical
+# 10.51.1 Aircraft Maintenance Engineer - Mechanical
 
 ## Glossary
 

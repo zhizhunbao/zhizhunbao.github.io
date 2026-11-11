@@ -1,10 +1,10 @@
 ---
-title: "10.29.65 Internet and Web Technology"
+title: "10.33.65 Internet and Web Technology"
 description: "Market > College Programs > Langara College > Internet and Web Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.65 Internet and Web Technology
+# 10.33.65 Internet and Web Technology
 
 ## Glossary
 

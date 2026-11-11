@@ -1,10 +1,10 @@
 ---
-title: "10.54.51 Honours Bachelor of Animation"
+title: "10.60.51 Honours Bachelor of Animation"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.51 Honours Bachelor of Animation
+# 10.60.51 Honours Bachelor of Animation
 
 ## Glossary
 

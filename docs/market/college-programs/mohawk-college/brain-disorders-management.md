@@ -1,10 +1,10 @@
 ---
-title: "10.34.16 Brain Disorders Management"
+title: "10.39.16 Brain Disorders Management"
 description: "Market > College Programs > Mohawk College > Brain Disorders Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.16 Brain Disorders Management
+# 10.39.16 Brain Disorders Management
 
 ## Glossary
 

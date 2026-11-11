@@ -1,10 +1,10 @@
 ---
-title: "10.17.3 Academic Foundations for Potential Psychiatric Nursing Applicants"
+title: "10.20.3 Academic Foundations for Potential Psychiatric Nursing Applicants"
 description: "Market > College Programs > Douglas College > Academic Foundations for Potential Psychiatric Nursing Applicants: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.3 Academic Foundations for Potential Psychiatric Nursing Applicants
+# 10.20.3 Academic Foundations for Potential Psychiatric Nursing Applicants
 
 ## Glossary
 

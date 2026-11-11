@@ -1,10 +1,10 @@
 ---
-title: "10.31.46 Office Administration – General (Online)"
+title: "10.35.46 Office Administration – General (Online)"
 description: "Market > College Programs > Loyalist College > Office Administration – General (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.46 Office Administration – General (Online)
+# 10.35.46 Office Administration – General (Online)
 
 ## Glossary
 

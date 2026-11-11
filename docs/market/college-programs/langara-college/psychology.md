@@ -1,10 +1,10 @@
 ---
-title: "10.29.88 Psychology"
+title: "10.33.88 Psychology"
 description: "Market > College Programs > Langara College > Psychology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.88 Psychology
+# 10.33.88 Psychology
 
 ## Glossary
 

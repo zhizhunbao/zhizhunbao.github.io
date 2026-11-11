@@ -1,10 +1,10 @@
 ---
-title: "10.15.5 Animation"
+title: "10.18.5 Animation"
 description: "Market > College Programs > Conestoga College > Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.5 Animation
+# 10.18.5 Animation
 
 ## Glossary
 

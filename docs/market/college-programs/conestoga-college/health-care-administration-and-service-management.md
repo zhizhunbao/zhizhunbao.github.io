@@ -1,10 +1,10 @@
 ---
-title: "10.15.117 Health Care Administration and Service Management"
+title: "10.18.117 Health Care Administration and Service Management"
 description: "Market > College Programs > Conestoga College > Health Care Administration and Service Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.117 Health Care Administration and Service Management
+# 10.18.117 Health Care Administration and Service Management
 
 ## Glossary
 

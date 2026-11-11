@@ -1,10 +1,10 @@
 ---
-title: "10.35.17 Business Fundamentals"
+title: "10.40.17 Business Fundamentals"
 description: "Market > College Programs > New Brunswick Community College > Business Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.17 Business Fundamentals
+# 10.40.17 Business Fundamentals
 
 ## Glossary
 

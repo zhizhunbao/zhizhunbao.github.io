@@ -1,10 +1,10 @@
 ---
-title: "10.15.13 Bachelor of Business Administration (Honours) - Accounting, Audit and Information Technology"
+title: "10.18.13 Bachelor of Business Administration (Honours) - Accounting, Audit and Information Technology"
 description: "Market > College Programs > Conestoga College > Bachelor of Business Administration (Honours) - Accounting, Audit and Information Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.13 Bachelor of Business Administration (Honours) - Accounting, Audit and Information Technology
+# 10.18.13 Bachelor of Business Administration (Honours) - Accounting, Audit and Information Technology
 
 ## Glossary
 

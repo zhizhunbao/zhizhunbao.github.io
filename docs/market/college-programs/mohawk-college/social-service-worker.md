@@ -1,10 +1,10 @@
 ---
-title: "10.34.81 Social Service Worker"
+title: "10.39.81 Social Service Worker"
 description: "Market > College Programs > Mohawk College > Social Service Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.81 Social Service Worker
+# 10.39.81 Social Service Worker
 
 ## Glossary
 

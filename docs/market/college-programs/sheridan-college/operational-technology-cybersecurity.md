@@ -1,10 +1,10 @@
 ---
-title: "10.54.93 Operational Technology Cybersecurity"
+title: "10.60.93 Operational Technology Cybersecurity"
 description: "Market > College Programs > Sheridan College > Operational Technology Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.93 Operational Technology Cybersecurity
+# 10.60.93 Operational Technology Cybersecurity
 
 ## Glossary
 

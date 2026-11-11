@@ -1,10 +1,10 @@
 ---
-title: "10.13.32 Diagnostic Ultrasonography"
+title: "10.16.32 Diagnostic Ultrasonography"
 description: "Market > College Programs > College of the North Atlantic > Diagnostic Ultrasonography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.32 Diagnostic Ultrasonography
+# 10.16.32 Diagnostic Ultrasonography
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.95 Honours Bachelor of Counselling Psychology"
+title: "10.25.95 Honours Bachelor of Counselling Psychology"
 description: "Market > College Programs > Georgian College > Honours Bachelor of Counselling Psychology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.95 Honours Bachelor of Counselling Psychology
+# 10.25.95 Honours Bachelor of Counselling Psychology
 
 ## Glossary
 

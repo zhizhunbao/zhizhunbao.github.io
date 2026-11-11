@@ -1,10 +1,10 @@
 ---
-title: "10.28.43 Business Management - International Business (BMIB)"
+title: "10.32.43 Business Management - International Business (BMIB)"
 description: "Market > College Programs > Lambton College > Business Management - International Business (BMIB): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.43 Business Management - International Business (BMIB)
+# 10.32.43 Business Management - International Business (BMIB)
 
 ## Glossary
 

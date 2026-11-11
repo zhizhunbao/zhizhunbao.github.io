@@ -1,10 +1,10 @@
 ---
-title: "10.22.143 Project Management - Information Technology (PMIT)"
+title: "10.25.143 Project Management - Information Technology (PMIT)"
 description: "Market > College Programs > Georgian College > Project Management - Information Technology (PMIT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.143 Project Management - Information Technology (PMIT)
+# 10.25.143 Project Management - Information Technology (PMIT)
 
 ## Glossary
 

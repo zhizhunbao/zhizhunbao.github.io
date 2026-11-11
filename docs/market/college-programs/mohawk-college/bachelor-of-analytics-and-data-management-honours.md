@@ -1,10 +1,10 @@
 ---
-title: "10.34.11 Bachelor of Analytics and Data Management (Honours)"
+title: "10.39.11 Bachelor of Analytics and Data Management (Honours)"
 description: "Market > College Programs > Mohawk College > Bachelor of Analytics and Data Management (Honours): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.11 Bachelor of Analytics and Data Management (Honours)
+# 10.39.11 Bachelor of Analytics and Data Management (Honours)
 
 ## Glossary
 

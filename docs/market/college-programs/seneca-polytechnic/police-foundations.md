@@ -1,10 +1,10 @@
 ---
-title: "10.53.137 Police Foundations"
+title: "10.59.137 Police Foundations"
 description: "Market > College Programs > Seneca Polytechnic > Police Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.137 Police Foundations
+# 10.59.137 Police Foundations
 
 ## Glossary
 

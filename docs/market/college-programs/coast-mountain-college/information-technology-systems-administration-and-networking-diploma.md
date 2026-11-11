@@ -1,10 +1,10 @@
 ---
-title: "10.9.14 Information Technology - Systems Administration and Networking Diploma"
+title: "10.10.14 Information Technology - Systems Administration and Networking Diploma"
 description: "Market > College Programs > Coast Mountain College > Information Technology - Systems Administration and Networking Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.9.14 Information Technology - Systems Administration and Networking Diploma
+# 10.10.14 Information Technology - Systems Administration and Networking Diploma
 
 ## Glossary
 

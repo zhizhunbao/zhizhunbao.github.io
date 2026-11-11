@@ -1,10 +1,10 @@
 ---
-title: "10.11.38 Création de contenu médiatique"
+title: "10.14.38 Création de contenu médiatique"
 description: "Market > College Programs > Collège La Cité > Création de contenu médiatique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.38 Création de contenu médiatique
+# 10.14.38 Création de contenu médiatique
 
 ## Glossary
 

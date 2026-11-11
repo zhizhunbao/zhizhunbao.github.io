@@ -1,10 +1,10 @@
 ---
-title: "10.27.41 Interior Design Technology, 2-year Diploma"
+title: "10.31.41 Interior Design Technology, 2-year Diploma"
 description: "Market > College Programs > Lakeland College > Interior Design Technology, 2-year Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.41 Interior Design Technology, 2-year Diploma
+# 10.31.41 Interior Design Technology, 2-year Diploma
 
 ## Glossary
 

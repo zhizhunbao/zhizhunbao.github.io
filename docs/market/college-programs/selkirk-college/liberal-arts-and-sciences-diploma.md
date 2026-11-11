@@ -1,10 +1,10 @@
 ---
-title: "10.52.48 Liberal Arts and Sciences - Diploma"
+title: "10.58.48 Liberal Arts and Sciences - Diploma"
 description: "Market > College Programs > Selkirk College > Liberal Arts and Sciences - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.48 Liberal Arts and Sciences - Diploma
+# 10.58.48 Liberal Arts and Sciences - Diploma
 
 ## Glossary
 

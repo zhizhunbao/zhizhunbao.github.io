@@ -1,10 +1,10 @@
 ---
-title: "10.11.73 Sciences des données appliquées en mode coopératif"
+title: "10.14.73 Sciences des données appliquées en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Sciences des données appliquées en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.73 Sciences des données appliquées en mode coopératif
+# 10.14.73 Sciences des données appliquées en mode coopératif
 
 ## Glossary
 

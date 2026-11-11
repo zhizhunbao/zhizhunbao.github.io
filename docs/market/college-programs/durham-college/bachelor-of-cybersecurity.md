@@ -1,10 +1,10 @@
 ---
-title: "10.18.15 Bachelor of Cybersecurity"
+title: "10.21.15 Bachelor of Cybersecurity"
 description: "Market > College Programs > Durham College > Bachelor of Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.15 Bachelor of Cybersecurity
+# 10.21.15 Bachelor of Cybersecurity
 
 ## Glossary
 

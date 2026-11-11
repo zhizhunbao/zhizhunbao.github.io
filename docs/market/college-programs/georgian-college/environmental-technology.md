@@ -1,10 +1,10 @@
 ---
-title: "10.22.68 Environmental Technology"
+title: "10.25.68 Environmental Technology"
 description: "Market > College Programs > Georgian College > Environmental Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.68 Environmental Technology
+# 10.25.68 Environmental Technology
 
 ## Glossary
 

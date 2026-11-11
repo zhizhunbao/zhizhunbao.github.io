@@ -1,10 +1,10 @@
 ---
-title: "10.49.64 Transportation, Logistics, and Supply Chain Management"
+title: "10.55.64 Transportation, Logistics, and Supply Chain Management"
 description: "Market > College Programs > Red River College Polytechnic > Transportation, Logistics, and Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.64 Transportation, Logistics, and Supply Chain Management
+# 10.55.64 Transportation, Logistics, and Supply Chain Management
 
 ## Glossary
 

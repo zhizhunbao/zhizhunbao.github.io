@@ -1,10 +1,10 @@
 ---
-title: "10.54.112 Welding Techniques"
+title: "10.60.112 Welding Techniques"
 description: "Market > College Programs > Sheridan College > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.112 Welding Techniques
+# 10.60.112 Welding Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.58.48 Project Management"
+title: "10.66.48 Project Management"
 description: "Market > College Programs > Vancouver Community College > Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.48 Project Management
+# 10.66.48 Project Management
 
 ## Glossary
 

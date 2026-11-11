@@ -1,10 +1,10 @@
 ---
-title: "10.18.70 Heating, Ventilation and Air Conditioning Techniques (HVAC)"
+title: "10.21.70 Heating, Ventilation and Air Conditioning Techniques (HVAC)"
 description: "Market > College Programs > Durham College > Heating, Ventilation and Air Conditioning Techniques (HVAC): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.70 Heating, Ventilation and Air Conditioning Techniques (HVAC)
+# 10.21.70 Heating, Ventilation and Air Conditioning Techniques (HVAC)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.116 Library & Information Technician"
+title: "10.59.116 Library & Information Technician"
 description: "Market > College Programs > Seneca Polytechnic > Library & Information Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.116 Library & Information Technician
+# 10.59.116 Library & Information Technician
 
 ## Glossary
 

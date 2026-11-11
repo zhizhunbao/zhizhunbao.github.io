@@ -1,10 +1,10 @@
 ---
-title: "10.52.44 Health Care Assistant - Diploma"
+title: "10.58.44 Health Care Assistant - Diploma"
 description: "Market > College Programs > Selkirk College > Health Care Assistant - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.44 Health Care Assistant - Diploma
+# 10.58.44 Health Care Assistant - Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.38 College Foundations"
+title: "10.25.38 College Foundations"
 description: "Market > College Programs > Georgian College > College Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.38 College Foundations
+# 10.25.38 College Foundations
 
 ## Glossary
 

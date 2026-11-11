@@ -1,10 +1,10 @@
 ---
-title: "10.17.45 Financial Analysis"
+title: "10.20.45 Financial Analysis"
 description: "Market > College Programs > Douglas College > Financial Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.45 Financial Analysis
+# 10.20.45 Financial Analysis
 
 ## Glossary
 

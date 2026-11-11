@@ -1,10 +1,10 @@
 ---
-title: "10.21.83 Welding Techniques"
+title: "10.24.83 Welding Techniques"
 description: "Market > College Programs > George Brown Polytechnic > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.83 Welding Techniques
+# 10.24.83 Welding Techniques
 
 ## Glossary
 

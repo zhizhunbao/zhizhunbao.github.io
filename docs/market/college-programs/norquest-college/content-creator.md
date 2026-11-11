@@ -1,10 +1,10 @@
 ---
-title: "10.37.11 Content Creator"
+title: "10.42.11 Content Creator"
 description: "Market > College Programs > NorQuest College > Content Creator: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.11 Content Creator
+# 10.42.11 Content Creator
 
 ## Glossary
 

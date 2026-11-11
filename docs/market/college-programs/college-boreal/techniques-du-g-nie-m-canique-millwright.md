@@ -1,10 +1,10 @@
 ---
-title: "10.10.49 Techniques du génie mécanique (Millwright)"
+title: "10.11.49 Techniques du génie mécanique (Millwright)"
 description: "Market > College Programs > Collège Boréal > Techniques du génie mécanique (Millwright): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.49 Techniques du génie mécanique (Millwright)
+# 10.11.49 Techniques du génie mécanique (Millwright)
 
 ## Glossary
 

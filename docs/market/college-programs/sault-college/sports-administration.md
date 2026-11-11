@@ -1,10 +1,10 @@
 ---
-title: "10.51.59 Sports Administration"
+title: "10.57.59 Sports Administration"
 description: "Market > College Programs > Sault College > Sports Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.59 Sports Administration
+# 10.57.59 Sports Administration
 
 ## Glossary
 

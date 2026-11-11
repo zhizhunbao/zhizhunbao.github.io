@@ -1,10 +1,10 @@
 ---
-title: "10.15.63 Cloud Development and Operations"
+title: "10.18.63 Cloud Development and Operations"
 description: "Market > College Programs > Conestoga College > Cloud Development and Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.63 Cloud Development and Operations
+# 10.18.63 Cloud Development and Operations
 
 ## Glossary
 

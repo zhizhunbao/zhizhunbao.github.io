@@ -1,10 +1,10 @@
 ---
-title: "10.51.42 Natural Resources and Environmental Enforcement"
+title: "10.57.42 Natural Resources and Environmental Enforcement"
 description: "Market > College Programs > Sault College > Natural Resources and Environmental Enforcement: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.42 Natural Resources and Environmental Enforcement
+# 10.57.42 Natural Resources and Environmental Enforcement
 
 ## Glossary
 

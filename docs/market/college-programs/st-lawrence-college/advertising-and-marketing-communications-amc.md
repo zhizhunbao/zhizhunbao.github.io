@@ -1,10 +1,10 @@
 ---
-title: "10.57.2 Advertising and Marketing Communications (AMC)"
+title: "10.64.2 Advertising and Marketing Communications (AMC)"
 description: "Market > College Programs > St. Lawrence College > Advertising and Marketing Communications (AMC): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.2 Advertising and Marketing Communications (AMC)
+# 10.64.2 Advertising and Marketing Communications (AMC)
 
 ## Glossary
 

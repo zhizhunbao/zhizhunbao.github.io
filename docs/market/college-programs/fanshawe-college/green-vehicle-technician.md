@@ -1,10 +1,10 @@
 ---
-title: "10.19.94 Green Vehicle Technician"
+title: "10.22.94 Green Vehicle Technician"
 description: "Market > College Programs > Fanshawe College > Green Vehicle Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.94 Green Vehicle Technician
+# 10.22.94 Green Vehicle Technician
 
 ## Glossary
 

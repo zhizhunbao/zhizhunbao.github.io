@@ -1,10 +1,10 @@
 ---
-title: "10.21.50 Honours Bachelor of Commerce (Digital Marketing)"
+title: "10.24.50 Honours Bachelor of Commerce (Digital Marketing)"
 description: "Market > College Programs > George Brown Polytechnic > Honours Bachelor of Commerce (Digital Marketing): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.50 Honours Bachelor of Commerce (Digital Marketing)
+# 10.24.50 Honours Bachelor of Commerce (Digital Marketing)
 
 ## Glossary
 

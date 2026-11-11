@@ -1,10 +1,10 @@
 ---
-title: "10.22.118 Mechanical Techniques - Small Engine Mechanic"
+title: "10.25.118 Mechanical Techniques - Small Engine Mechanic"
 description: "Market > College Programs > Georgian College > Mechanical Techniques - Small Engine Mechanic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.118 Mechanical Techniques - Small Engine Mechanic
+# 10.25.118 Mechanical Techniques - Small Engine Mechanic
 
 ## Glossary
 

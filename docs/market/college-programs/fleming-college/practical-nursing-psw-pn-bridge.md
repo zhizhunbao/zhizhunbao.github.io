@@ -1,10 +1,10 @@
 ---
-title: "10.20.67 Practical Nursing (PSW-PN Bridge)"
+title: "10.23.67 Practical Nursing (PSW-PN Bridge)"
 description: "Market > College Programs > Fleming College > Practical Nursing (PSW-PN Bridge): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.67 Practical Nursing (PSW-PN Bridge)
+# 10.23.67 Practical Nursing (PSW-PN Bridge)
 
 ## Glossary
 

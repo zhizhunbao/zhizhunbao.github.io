@@ -1,10 +1,10 @@
 ---
-title: "10.57.27 Cybersecurity (K1136)"
+title: "10.64.27 Cybersecurity (K1136)"
 description: "Market > College Programs > St. Lawrence College > Cybersecurity (K1136): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.27 Cybersecurity (K1136)
+# 10.64.27 Cybersecurity (K1136)
 
 ## Glossary
 

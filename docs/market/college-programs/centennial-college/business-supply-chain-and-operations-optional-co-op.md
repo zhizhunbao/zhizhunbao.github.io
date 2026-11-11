@@ -1,10 +1,10 @@
 ---
-title: "10.8.57 Business – Supply Chain and Operations (Optional Co-op)"
+title: "10.9.57 Business – Supply Chain and Operations (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Business – Supply Chain and Operations (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.57 Business – Supply Chain and Operations (Optional Co-op)
+# 10.9.57 Business – Supply Chain and Operations (Optional Co-op)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.48.16 Bachelor of Science in Psychology"
+title: "10.54.16 Bachelor of Science in Psychology"
 description: "Market > College Programs > Red Deer Polytechnic > Bachelor of Science in Psychology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.16 Bachelor of Science in Psychology
+# 10.54.16 Bachelor of Science in Psychology
 
 ## Glossary
 

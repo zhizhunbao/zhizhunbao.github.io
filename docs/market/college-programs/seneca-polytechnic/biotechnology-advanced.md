@@ -1,10 +1,10 @@
 ---
-title: "10.53.18 Biotechnology – Advanced"
+title: "10.59.18 Biotechnology – Advanced"
 description: "Market > College Programs > Seneca Polytechnic > Biotechnology – Advanced: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.18 Biotechnology – Advanced
+# 10.59.18 Biotechnology – Advanced
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.49.29 Electrical Trades"
+title: "10.55.29 Electrical Trades"
 description: "Market > College Programs > Red River College Polytechnic > Electrical Trades: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.29 Electrical Trades
+# 10.55.29 Electrical Trades
 
 ## Glossary
 

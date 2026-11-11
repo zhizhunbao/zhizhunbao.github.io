@@ -1,10 +1,10 @@
 ---
-title: "10.38.7 Business Administration Post Graduate Diploma - Accounting"
+title: "10.43.7 Business Administration Post Graduate Diploma - Accounting"
 description: "Market > College Programs > North Island College > Business Administration Post Graduate Diploma - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.7 Business Administration Post Graduate Diploma - Accounting
+# 10.43.7 Business Administration Post Graduate Diploma - Accounting
 
 ## Glossary
 

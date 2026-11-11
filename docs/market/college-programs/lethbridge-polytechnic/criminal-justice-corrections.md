@@ -1,10 +1,10 @@
 ---
-title: "10.30.18 Criminal Justice - Corrections"
+title: "10.34.18 Criminal Justice - Corrections"
 description: "Market > College Programs > Lethbridge Polytechnic > Criminal Justice - Corrections: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.18 Criminal Justice - Corrections
+# 10.34.18 Criminal Justice - Corrections
 
 ## Glossary
 

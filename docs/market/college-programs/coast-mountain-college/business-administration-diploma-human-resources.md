@@ -1,10 +1,10 @@
 ---
-title: "10.9.8 Business Administration Diploma - Human Resources"
+title: "10.10.8 Business Administration Diploma - Human Resources"
 description: "Market > College Programs > Coast Mountain College > Business Administration Diploma - Human Resources: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.9.8 Business Administration Diploma - Human Resources
+# 10.10.8 Business Administration Diploma - Human Resources
 
 ## Glossary
 

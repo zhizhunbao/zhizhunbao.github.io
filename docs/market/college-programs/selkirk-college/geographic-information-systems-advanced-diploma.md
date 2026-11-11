@@ -1,10 +1,10 @@
 ---
-title: "10.52.40 Geographic Information Systems - Advanced Diploma"
+title: "10.58.40 Geographic Information Systems - Advanced Diploma"
 description: "Market > College Programs > Selkirk College > Geographic Information Systems - Advanced Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.40 Geographic Information Systems - Advanced Diploma
+# 10.58.40 Geographic Information Systems - Advanced Diploma
 
 ## Glossary
 

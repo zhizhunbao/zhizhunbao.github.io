@@ -1,10 +1,10 @@
 ---
-title: "10.25.3 Community Care Licensing (CCLO)"
+title: "10.29.3 Community Care Licensing (CCLO)"
 description: "Market > College Programs > Justice Institute of British Columbia > Community Care Licensing (CCLO): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.3 Community Care Licensing (CCLO)
+# 10.29.3 Community Care Licensing (CCLO)
 
 ## Glossary
 

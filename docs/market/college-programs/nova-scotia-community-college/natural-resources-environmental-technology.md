@@ -1,10 +1,10 @@
 ---
-title: "10.44.100 Natural Resources Environmental Technology"
+title: "10.50.100 Natural Resources Environmental Technology"
 description: "Market > College Programs > Nova Scotia Community College > Natural Resources Environmental Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.100 Natural Resources Environmental Technology
+# 10.50.100 Natural Resources Environmental Technology
 
 ## Glossary
 

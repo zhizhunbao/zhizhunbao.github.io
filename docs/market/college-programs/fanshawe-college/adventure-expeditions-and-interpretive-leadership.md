@@ -1,10 +1,10 @@
 ---
-title: "10.19.7 Adventure Expeditions and Interpretive Leadership"
+title: "10.22.7 Adventure Expeditions and Interpretive Leadership"
 description: "Market > College Programs > Fanshawe College > Adventure Expeditions and Interpretive Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.7 Adventure Expeditions and Interpretive Leadership
+# 10.22.7 Adventure Expeditions and Interpretive Leadership
 
 ## Glossary
 

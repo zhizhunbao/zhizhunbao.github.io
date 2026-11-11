@@ -1,10 +1,10 @@
 ---
-title: "10.46.14 Craft Beverage and Brewery Operations Diploma"
+title: "10.52.14 Craft Beverage and Brewery Operations Diploma"
 description: "Market > College Programs > Olds College > Craft Beverage and Brewery Operations Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.14 Craft Beverage and Brewery Operations Diploma
+# 10.52.14 Craft Beverage and Brewery Operations Diploma
 
 ## Glossary
 

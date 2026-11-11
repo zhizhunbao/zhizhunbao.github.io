@@ -1,10 +1,10 @@
 ---
-title: "10.53.5 Accounting & Payroll"
+title: "10.59.5 Accounting & Payroll"
 description: "Market > College Programs > Seneca Polytechnic > Accounting & Payroll: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.5 Accounting & Payroll
+# 10.59.5 Accounting & Payroll
 
 ## Glossary
 

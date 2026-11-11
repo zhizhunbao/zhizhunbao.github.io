@@ -1,10 +1,10 @@
 ---
-title: "10.8.113 General Arts and Science - English for Academic Purposes (Progress - March Intake)"
+title: "10.9.113 General Arts and Science - English for Academic Purposes (Progress - March Intake)"
 description: "Market > College Programs > Centennial College > General Arts and Science - English for Academic Purposes (Progress - March Intake): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.113 General Arts and Science - English for Academic Purposes (Progress - March Intake)
+# 10.9.113 General Arts and Science - English for Academic Purposes (Progress - March Intake)
 
 ## Glossary
 

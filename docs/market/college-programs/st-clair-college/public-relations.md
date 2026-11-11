@@ -1,10 +1,10 @@
 ---
-title: "10.56.108 Public Relations"
+title: "10.63.108 Public Relations"
 description: "Market > College Programs > St. Clair College > Public Relations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.108 Public Relations
+# 10.63.108 Public Relations
 
 ## Glossary
 

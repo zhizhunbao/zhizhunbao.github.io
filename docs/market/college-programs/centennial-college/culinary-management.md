@@ -1,10 +1,10 @@
 ---
-title: "10.8.72 Culinary Management"
+title: "10.9.72 Culinary Management"
 description: "Market > College Programs > Centennial College > Culinary Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.72 Culinary Management
+# 10.9.72 Culinary Management
 
 ## Glossary
 

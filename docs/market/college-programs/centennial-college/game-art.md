@@ -1,10 +1,10 @@
 ---
-title: "10.8.106 Game – Art"
+title: "10.9.106 Game – Art"
 description: "Market > College Programs > Centennial College > Game – Art: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.106 Game – Art
+# 10.9.106 Game – Art
 
 ## Glossary
 

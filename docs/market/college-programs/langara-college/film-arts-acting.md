@@ -1,10 +1,10 @@
 ---
-title: "10.29.53 Film Arts - Acting"
+title: "10.33.53 Film Arts - Acting"
 description: "Market > College Programs > Langara College > Film Arts - Acting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.53 Film Arts - Acting
+# 10.33.53 Film Arts - Acting
 
 ## Glossary
 

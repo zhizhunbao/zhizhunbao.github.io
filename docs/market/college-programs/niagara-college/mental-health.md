@@ -1,10 +1,10 @@
 ---
-title: "10.36.66 Mental Health"
+title: "10.41.66 Mental Health"
 description: "Market > College Programs > Niagara College > Mental Health: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.66 Mental Health
+# 10.41.66 Mental Health
 
 ## Glossary
 

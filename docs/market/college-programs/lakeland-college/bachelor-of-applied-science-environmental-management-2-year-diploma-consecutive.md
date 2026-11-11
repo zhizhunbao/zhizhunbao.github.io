@@ -1,10 +1,10 @@
 ---
-title: "10.27.11 Bachelor of Applied Science: Environmental Management, 2-year Diploma (consecutive)"
+title: "10.31.11 Bachelor of Applied Science: Environmental Management, 2-year Diploma (consecutive)"
 description: "Market > College Programs > Lakeland College > Bachelor of Applied Science: Environmental Management, 2-year Diploma (consecutive): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.11 Bachelor of Applied Science: Environmental Management, 2-year Diploma (consecutive)
+# 10.31.11 Bachelor of Applied Science: Environmental Management, 2-year Diploma (consecutive)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.117 Software Engineering Technician - Artificial Intelligence"
+title: "10.28.117 Software Engineering Technician - Artificial Intelligence"
 description: "Market > College Programs > Humber Polytechnic > Software Engineering Technician - Artificial Intelligence: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.117 Software Engineering Technician - Artificial Intelligence
+# 10.28.117 Software Engineering Technician - Artificial Intelligence
 
 ## Glossary
 

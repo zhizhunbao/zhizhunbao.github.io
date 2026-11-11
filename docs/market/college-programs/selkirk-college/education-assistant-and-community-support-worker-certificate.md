@@ -1,10 +1,10 @@
 ---
-title: "10.52.28 Education Assistant and Community Support Worker - Certificate"
+title: "10.58.28 Education Assistant and Community Support Worker - Certificate"
 description: "Market > College Programs > Selkirk College > Education Assistant and Community Support Worker - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.28 Education Assistant and Community Support Worker - Certificate
+# 10.58.28 Education Assistant and Community Support Worker - Certificate
 
 ## Glossary
 

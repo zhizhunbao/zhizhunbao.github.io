@@ -1,10 +1,10 @@
 ---
-title: "10.19.112 Journalism - Multimedia"
+title: "10.22.112 Journalism - Multimedia"
 description: "Market > College Programs > Fanshawe College > Journalism - Multimedia: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.112 Journalism - Multimedia
+# 10.22.112 Journalism - Multimedia
 
 ## Glossary
 

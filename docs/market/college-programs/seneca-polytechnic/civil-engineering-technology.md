@@ -1,10 +1,10 @@
 ---
-title: "10.53.36 Civil Engineering Technology"
+title: "10.59.36 Civil Engineering Technology"
 description: "Market > College Programs > Seneca Polytechnic > Civil Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.36 Civil Engineering Technology
+# 10.59.36 Civil Engineering Technology
 
 ## Glossary
 

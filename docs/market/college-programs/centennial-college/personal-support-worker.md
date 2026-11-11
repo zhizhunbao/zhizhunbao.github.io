@@ -1,10 +1,10 @@
 ---
-title: "10.8.159 Personal Support Worker"
+title: "10.9.159 Personal Support Worker"
 description: "Market > College Programs > Centennial College > Personal Support Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.159 Personal Support Worker
+# 10.9.159 Personal Support Worker
 
 ## Glossary
 

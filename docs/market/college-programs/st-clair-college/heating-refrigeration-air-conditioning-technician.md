@@ -1,10 +1,10 @@
 ---
-title: "10.56.57 Heating, Refrigeration & Air Conditioning Technician"
+title: "10.63.57 Heating, Refrigeration & Air Conditioning Technician"
 description: "Market > College Programs > St. Clair College > Heating, Refrigeration & Air Conditioning Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.57 Heating, Refrigeration & Air Conditioning Technician
+# 10.63.57 Heating, Refrigeration & Air Conditioning Technician
 
 ## Glossary
 

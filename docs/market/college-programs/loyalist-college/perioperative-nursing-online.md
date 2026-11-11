@@ -1,10 +1,10 @@
 ---
-title: "10.31.52 Perioperative Nursing (Online)"
+title: "10.35.52 Perioperative Nursing (Online)"
 description: "Market > College Programs > Loyalist College > Perioperative Nursing (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.52 Perioperative Nursing (Online)
+# 10.35.52 Perioperative Nursing (Online)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.29 Business - Finance (Co-op)"
+title: "10.22.29 Business - Finance (Co-op)"
 description: "Market > College Programs > Fanshawe College > Business - Finance (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.29 Business - Finance (Co-op)
+# 10.22.29 Business - Finance (Co-op)
 
 ## Glossary
 

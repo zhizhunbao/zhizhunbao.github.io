@@ -1,10 +1,10 @@
 ---
-title: "10.21 George Brown Polytechnic"
+title: "10.24 George Brown Polytechnic"
 description: "Market > College Programs > George Brown Polytechnic: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21 George Brown Polytechnic
+# 10.24 George Brown Polytechnic
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.12.21 Education Assistant Certificate"
+title: "10.15.21 Education Assistant Certificate"
 description: "Market > College Programs > College of New Caledonia > Education Assistant Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.21 Education Assistant Certificate
+# 10.15.21 Education Assistant Certificate
 
 ## Glossary
 

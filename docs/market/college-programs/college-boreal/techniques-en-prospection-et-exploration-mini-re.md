@@ -1,10 +1,10 @@
 ---
-title: "10.10.55 Techniques en prospection et exploration minière"
+title: "10.11.55 Techniques en prospection et exploration minière"
 description: "Market > College Programs > Collège Boréal > Techniques en prospection et exploration minière: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.55 Techniques en prospection et exploration minière
+# 10.11.55 Techniques en prospection et exploration minière
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.17 Intelligence Analysis"
+title: "10.29.17 Intelligence Analysis"
 description: "Market > College Programs > Justice Institute of British Columbia > Intelligence Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.17 Intelligence Analysis
+# 10.29.17 Intelligence Analysis
 
 ## Glossary
 

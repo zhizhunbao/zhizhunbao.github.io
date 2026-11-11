@@ -1,10 +1,10 @@
 ---
-title: "10.11.12 Animation 3D"
+title: "10.14.12 Animation 3D"
 description: "Market > College Programs > Collège La Cité > Animation 3D: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.12 Animation 3D
+# 10.14.12 Animation 3D
 
 ## Glossary
 

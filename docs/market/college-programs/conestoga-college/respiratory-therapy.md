@@ -1,10 +1,10 @@
 ---
-title: "10.15.180 Respiratory Therapy"
+title: "10.18.180 Respiratory Therapy"
 description: "Market > College Programs > Conestoga College > Respiratory Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.180 Respiratory Therapy
+# 10.18.180 Respiratory Therapy
 
 ## Glossary
 

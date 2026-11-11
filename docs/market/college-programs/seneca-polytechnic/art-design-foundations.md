@@ -1,10 +1,10 @@
 ---
-title: "10.53.8 Art & Design Foundations"
+title: "10.59.8 Art & Design Foundations"
 description: "Market > College Programs > Seneca Polytechnic > Art & Design Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.8 Art & Design Foundations
+# 10.59.8 Art & Design Foundations
 
 ## Glossary
 

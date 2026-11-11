@@ -1,10 +1,10 @@
 ---
-title: "10.35.32 Electrical: Construction"
+title: "10.40.32 Electrical: Construction"
 description: "Market > College Programs > New Brunswick Community College > Electrical: Construction: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.32 Electrical: Construction
+# 10.40.32 Electrical: Construction
 
 ## Glossary
 

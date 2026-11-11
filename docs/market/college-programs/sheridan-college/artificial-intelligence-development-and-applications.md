@@ -1,10 +1,10 @@
 ---
-title: "10.54.11 Artificial Intelligence Development and Applications"
+title: "10.60.11 Artificial Intelligence Development and Applications"
 description: "Market > College Programs > Sheridan College > Artificial Intelligence Development and Applications: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.11 Artificial Intelligence Development and Applications
+# 10.60.11 Artificial Intelligence Development and Applications
 
 ## Glossary
 

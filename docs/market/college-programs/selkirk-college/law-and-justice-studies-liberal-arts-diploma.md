@@ -1,10 +1,10 @@
 ---
-title: "10.52.46 Law and Justice Studies - Liberal Arts Diploma"
+title: "10.58.46 Law and Justice Studies - Liberal Arts Diploma"
 description: "Market > College Programs > Selkirk College > Law and Justice Studies - Liberal Arts Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.46 Law and Justice Studies - Liberal Arts Diploma
+# 10.58.46 Law and Justice Studies - Liberal Arts Diploma
 
 ## Glossary
 

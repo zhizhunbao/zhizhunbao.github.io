@@ -1,10 +1,10 @@
 ---
-title: "10.24.86 Industrial Woodworking Technician"
+title: "10.28.86 Industrial Woodworking Technician"
 description: "Market > College Programs > Humber Polytechnic > Industrial Woodworking Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.86 Industrial Woodworking Technician
+# 10.28.86 Industrial Woodworking Technician
 
 ## Glossary
 

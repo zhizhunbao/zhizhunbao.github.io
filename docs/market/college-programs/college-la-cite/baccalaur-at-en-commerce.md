@@ -1,10 +1,10 @@
 ---
-title: "10.11.18 Baccalauréat en commerce"
+title: "10.14.18 Baccalauréat en commerce"
 description: "Market > College Programs > Collège La Cité > Baccalauréat en commerce: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.18 Baccalauréat en commerce
+# 10.14.18 Baccalauréat en commerce
 
 ## Glossary
 

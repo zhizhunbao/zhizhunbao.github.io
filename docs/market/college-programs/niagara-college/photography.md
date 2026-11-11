@@ -1,10 +1,10 @@
 ---
-title: "10.36.75 Photography"
+title: "10.41.75 Photography"
 description: "Market > College Programs > Niagara College > Photography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.75 Photography
+# 10.41.75 Photography
 
 ## Glossary
 

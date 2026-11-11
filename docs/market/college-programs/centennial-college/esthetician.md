@@ -1,10 +1,10 @@
 ---
-title: "10.8.100 Esthetician"
+title: "10.9.100 Esthetician"
 description: "Market > College Programs > Centennial College > Esthetician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.100 Esthetician
+# 10.9.100 Esthetician
 
 ## Glossary
 

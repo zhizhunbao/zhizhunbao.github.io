@@ -1,10 +1,10 @@
 ---
-title: "10.28.38 Business Management (BMAN)"
+title: "10.32.38 Business Management (BMAN)"
 description: "Market > College Programs > Lambton College > Business Management (BMAN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.38 Business Management (BMAN)
+# 10.32.38 Business Management (BMAN)
 
 ## Glossary
 

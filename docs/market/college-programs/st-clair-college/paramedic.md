@@ -1,10 +1,10 @@
 ---
-title: "10.56.88 Paramedic"
+title: "10.63.88 Paramedic"
 description: "Market > College Programs > St. Clair College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.88 Paramedic
+# 10.63.88 Paramedic
 
 ## Glossary
 

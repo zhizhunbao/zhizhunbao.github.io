@@ -1,10 +1,10 @@
 ---
-title: "10.53.154 Supply Chain Management – Global Logistics"
+title: "10.59.154 Supply Chain Management – Global Logistics"
 description: "Market > College Programs > Seneca Polytechnic > Supply Chain Management – Global Logistics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.154 Supply Chain Management – Global Logistics
+# 10.59.154 Supply Chain Management – Global Logistics
 
 ## Glossary
 

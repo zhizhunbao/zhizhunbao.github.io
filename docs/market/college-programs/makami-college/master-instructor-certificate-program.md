@@ -1,10 +1,10 @@
 ---
-title: "10.32.7 Master Instructor Certificate Program"
+title: "10.36.7 Master Instructor Certificate Program"
 description: "Market > College Programs > MaKami College > Master Instructor Certificate Program: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.7 Master Instructor Certificate Program
+# 10.36.7 Master Instructor Certificate Program
 
 ## Glossary
 

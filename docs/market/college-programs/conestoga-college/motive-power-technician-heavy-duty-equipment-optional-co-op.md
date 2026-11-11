@@ -1,10 +1,10 @@
 ---
-title: "10.15.154 Motive Power Technician - Heavy Duty Equipment (Optional Co-op)"
+title: "10.18.154 Motive Power Technician - Heavy Duty Equipment (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Motive Power Technician - Heavy Duty Equipment (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.154 Motive Power Technician - Heavy Duty Equipment (Optional Co-op)
+# 10.18.154 Motive Power Technician - Heavy Duty Equipment (Optional Co-op)
 
 ## Glossary
 

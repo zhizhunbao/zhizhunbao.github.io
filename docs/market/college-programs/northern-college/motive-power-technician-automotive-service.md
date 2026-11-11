@@ -1,10 +1,10 @@
 ---
-title: "10.40.38 Motive Power Technician – Automotive Service"
+title: "10.46.38 Motive Power Technician – Automotive Service"
 description: "Market > College Programs > Northern College > Motive Power Technician – Automotive Service: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.38 Motive Power Technician – Automotive Service
+# 10.46.38 Motive Power Technician – Automotive Service
 
 ## Glossary
 

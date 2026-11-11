@@ -1,10 +1,10 @@
 ---
-title: "10.55.78 Interactive Design - Web Design and Development Major"
+title: "10.62.78 Interactive Design - Web Design and Development Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Interactive Design - Web Design and Development Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.78 Interactive Design - Web Design and Development Major
+# 10.62.78 Interactive Design - Web Design and Development Major
 
 ## Glossary
 

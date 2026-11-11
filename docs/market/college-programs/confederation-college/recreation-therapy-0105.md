@@ -1,10 +1,10 @@
 ---
-title: "10.16.75 Recreation Therapy (0105)"
+title: "10.19.75 Recreation Therapy (0105)"
 description: "Market > College Programs > Confederation College > Recreation Therapy (0105): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.75 Recreation Therapy (0105)
+# 10.19.75 Recreation Therapy (0105)
 
 ## Glossary
 

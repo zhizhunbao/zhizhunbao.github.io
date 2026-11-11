@@ -1,10 +1,10 @@
 ---
-title: "10.37.25 Health Care Leadership"
+title: "10.42.25 Health Care Leadership"
 description: "Market > College Programs > NorQuest College > Health Care Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.25 Health Care Leadership
+# 10.42.25 Health Care Leadership
 
 ## Glossary
 

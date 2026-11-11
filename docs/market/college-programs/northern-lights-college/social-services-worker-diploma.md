@@ -1,10 +1,10 @@
 ---
-title: "10.42.20 Social Services Worker Diploma"
+title: "10.48.20 Social Services Worker Diploma"
 description: "Market > College Programs > Northern Lights College > Social Services Worker Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.20 Social Services Worker Diploma
+# 10.48.20 Social Services Worker Diploma
 
 ## Glossary
 

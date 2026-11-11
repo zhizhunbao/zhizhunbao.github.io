@@ -1,10 +1,10 @@
 ---
-title: "10.28.72 Environmental Technician - Water Treatment Operations"
+title: "10.32.72 Environmental Technician - Water Treatment Operations"
 description: "Market > College Programs > Lambton College > Environmental Technician - Water Treatment Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.72 Environmental Technician - Water Treatment Operations
+# 10.32.72 Environmental Technician - Water Treatment Operations
 
 ## Glossary
 

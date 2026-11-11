@@ -1,10 +1,10 @@
 ---
-title: "10.50.19 Computer Systems Technology"
+title: "10.56.19 Computer Systems Technology"
 description: "Market > College Programs > Saskatchewan Polytechnic > Computer Systems Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.19 Computer Systems Technology
+# 10.56.19 Computer Systems Technology
 
 ## Glossary
 

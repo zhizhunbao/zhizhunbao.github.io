@@ -1,10 +1,10 @@
 ---
-title: "10.38.3 Bachelor of Business Administration - Accounting"
+title: "10.43.3 Bachelor of Business Administration - Accounting"
 description: "Market > College Programs > North Island College > Bachelor of Business Administration - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.3 Bachelor of Business Administration - Accounting
+# 10.43.3 Bachelor of Business Administration - Accounting
 
 ## Glossary
 

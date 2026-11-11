@@ -1,10 +1,10 @@
 ---
-title: "10.16.78 Welding Techniques"
+title: "10.19.78 Welding Techniques"
 description: "Market > College Programs > Confederation College > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.78 Welding Techniques
+# 10.19.78 Welding Techniques
 
 ## Glossary
 

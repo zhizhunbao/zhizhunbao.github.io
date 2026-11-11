@@ -1,10 +1,10 @@
 ---
-title: "10.31.65 Survey Engineering Technician"
+title: "10.35.65 Survey Engineering Technician"
 description: "Market > College Programs > Loyalist College > Survey Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.65 Survey Engineering Technician
+# 10.35.65 Survey Engineering Technician
 
 ## Glossary
 

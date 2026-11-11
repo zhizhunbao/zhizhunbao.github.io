@@ -1,10 +1,10 @@
 ---
-title: "10.11.24 Baccalauréat en sciences infirmières – Passerelle"
+title: "10.14.24 Baccalauréat en sciences infirmières – Passerelle"
 description: "Market > College Programs > Collège La Cité > Baccalauréat en sciences infirmières – Passerelle: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.24 Baccalauréat en sciences infirmières – Passerelle
+# 10.14.24 Baccalauréat en sciences infirmières – Passerelle
 
 ## Glossary
 

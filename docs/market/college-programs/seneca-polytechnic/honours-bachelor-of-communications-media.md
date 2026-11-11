@@ -1,10 +1,10 @@
 ---
-title: "10.53.87 Honours Bachelor of Communications & Media"
+title: "10.59.87 Honours Bachelor of Communications & Media"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Communications & Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.87 Honours Bachelor of Communications & Media
+# 10.59.87 Honours Bachelor of Communications & Media
 
 ## Glossary
 

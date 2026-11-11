@@ -1,10 +1,10 @@
 ---
-title: "10.10.22 Pratique de la charpenterie et de la rénovation"
+title: "10.11.22 Pratique de la charpenterie et de la rénovation"
 description: "Market > College Programs > Collège Boréal > Pratique de la charpenterie et de la rénovation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.22 Pratique de la charpenterie et de la rénovation
+# 10.11.22 Pratique de la charpenterie et de la rénovation
 
 ## Glossary
 

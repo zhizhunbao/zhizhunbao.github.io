@@ -1,10 +1,10 @@
 ---
-title: "10.58.6 Asian Culinary Arts"
+title: "10.66.6 Asian Culinary Arts"
 description: "Market > College Programs > Vancouver Community College > Asian Culinary Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.6 Asian Culinary Arts
+# 10.66.6 Asian Culinary Arts
 
 ## Glossary
 

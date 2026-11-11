@@ -1,10 +1,10 @@
 ---
-title: "10.53.98 Honours Bachelor of Science – Nursing (Bridge)"
+title: "10.59.98 Honours Bachelor of Science – Nursing (Bridge)"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Science – Nursing (Bridge): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.98 Honours Bachelor of Science – Nursing (Bridge)
+# 10.59.98 Honours Bachelor of Science – Nursing (Bridge)
 
 ## Glossary
 

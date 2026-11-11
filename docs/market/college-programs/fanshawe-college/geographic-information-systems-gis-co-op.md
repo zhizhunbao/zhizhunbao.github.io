@@ -1,10 +1,10 @@
 ---
-title: "10.19.90 Geographic Information Systems - GIS (Co-op)"
+title: "10.22.90 Geographic Information Systems - GIS (Co-op)"
 description: "Market > College Programs > Fanshawe College > Geographic Information Systems - GIS (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.90 Geographic Information Systems - GIS (Co-op)
+# 10.22.90 Geographic Information Systems - GIS (Co-op)
 
 ## Glossary
 

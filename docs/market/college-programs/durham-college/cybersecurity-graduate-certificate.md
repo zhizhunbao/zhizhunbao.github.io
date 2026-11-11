@@ -1,10 +1,10 @@
 ---
-title: "10.18.42 Cybersecurity (graduate certificate)"
+title: "10.21.42 Cybersecurity (graduate certificate)"
 description: "Market > College Programs > Durham College > Cybersecurity (graduate certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.42 Cybersecurity (graduate certificate)
+# 10.21.42 Cybersecurity (graduate certificate)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.127 Office Administration - Executive (OFAE)"
+title: "10.25.127 Office Administration - Executive (OFAE)"
 description: "Market > College Programs > Georgian College > Office Administration - Executive (OFAE): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.127 Office Administration - Executive (OFAE)
+# 10.25.127 Office Administration - Executive (OFAE)
 
 ## Glossary
 

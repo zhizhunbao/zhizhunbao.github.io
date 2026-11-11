@@ -1,10 +1,10 @@
 ---
-title: "10.45.32 Tourism Management Diploma"
+title: "10.51.32 Tourism Management Diploma"
 description: "Market > College Programs > Okanagan College > Tourism Management Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.32 Tourism Management Diploma
+# 10.51.32 Tourism Management Diploma
 
 ## Glossary
 

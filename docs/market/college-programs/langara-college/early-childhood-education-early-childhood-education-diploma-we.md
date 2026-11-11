@@ -1,10 +1,10 @@
 ---
-title: "10.29.41 Early Childhood Education (early-childhood-education-diploma-we)"
+title: "10.33.41 Early Childhood Education (early-childhood-education-diploma-we)"
 description: "Market > College Programs > Langara College > Early Childhood Education (early-childhood-education-diploma-we): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.41 Early Childhood Education (early-childhood-education-diploma-we)
+# 10.33.41 Early Childhood Education (early-childhood-education-diploma-we)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.10.58 Technologie de l’architecture"
+title: "10.11.58 Technologie de l’architecture"
 description: "Market > College Programs > Collège Boréal > Technologie de l’architecture: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.58 Technologie de l’architecture
+# 10.11.58 Technologie de l’architecture
 
 ## Glossary
 

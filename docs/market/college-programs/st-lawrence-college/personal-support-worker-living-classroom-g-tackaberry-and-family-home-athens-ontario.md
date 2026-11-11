@@ -1,10 +1,10 @@
 ---
-title: "10.57.63 Personal Support Worker (Living Classroom – G. Tackaberry and Family Home – Athens, Ontario)"
+title: "10.64.63 Personal Support Worker (Living Classroom – G. Tackaberry and Family Home – Athens, Ontario)"
 description: "Market > College Programs > St. Lawrence College > Personal Support Worker (Living Classroom – G. Tackaberry and Family Home – Athens, Ontario): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.63 Personal Support Worker (Living Classroom – G. Tackaberry and Family Home – Athens, Ontario)
+# 10.64.63 Personal Support Worker (Living Classroom – G. Tackaberry and Family Home – Athens, Ontario)
 
 ## Glossary
 

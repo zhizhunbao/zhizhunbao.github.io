@@ -1,10 +1,10 @@
 ---
-title: "10.44.6 American Sign Language (ASL) Studies"
+title: "10.50.6 American Sign Language (ASL) Studies"
 description: "Market > College Programs > Nova Scotia Community College > American Sign Language (ASL) Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.6 American Sign Language (ASL) Studies
+# 10.50.6 American Sign Language (ASL) Studies
 
 ## Glossary
 

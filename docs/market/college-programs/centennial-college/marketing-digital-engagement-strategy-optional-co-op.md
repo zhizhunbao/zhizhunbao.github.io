@@ -1,10 +1,10 @@
 ---
-title: "10.8.130 Marketing - Digital Engagement Strategy (Optional Co-op)"
+title: "10.9.130 Marketing - Digital Engagement Strategy (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Marketing - Digital Engagement Strategy (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.130 Marketing - Digital Engagement Strategy (Optional Co-op)
+# 10.9.130 Marketing - Digital Engagement Strategy (Optional Co-op)
 
 ## Glossary
 

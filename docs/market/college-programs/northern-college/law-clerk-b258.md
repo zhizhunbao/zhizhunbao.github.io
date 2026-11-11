@@ -1,10 +1,10 @@
 ---
-title: "10.40.27 Law Clerk (B258)"
+title: "10.46.27 Law Clerk (B258)"
 description: "Market > College Programs > Northern College > Law Clerk (B258): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.27 Law Clerk (B258)
+# 10.46.27 Law Clerk (B258)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.10.21 Mécanique de la machinerie lourde"
+title: "10.11.21 Mécanique de la machinerie lourde"
 description: "Market > College Programs > Collège Boréal > Mécanique de la machinerie lourde: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.21 Mécanique de la machinerie lourde
+# 10.11.21 Mécanique de la machinerie lourde
 
 ## Glossary
 

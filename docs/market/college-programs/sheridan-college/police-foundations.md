@@ -1,10 +1,10 @@
 ---
-title: "10.54.97 Police Foundations"
+title: "10.60.97 Police Foundations"
 description: "Market > College Programs > Sheridan College > Police Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.97 Police Foundations
+# 10.60.97 Police Foundations
 
 ## Glossary
 

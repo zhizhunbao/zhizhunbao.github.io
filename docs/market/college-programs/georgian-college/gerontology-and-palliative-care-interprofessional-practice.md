@@ -1,10 +1,10 @@
 ---
-title: "10.22.85 Gerontology and Palliative Care - Interprofessional Practice"
+title: "10.25.85 Gerontology and Palliative Care - Interprofessional Practice"
 description: "Market > College Programs > Georgian College > Gerontology and Palliative Care - Interprofessional Practice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.85 Gerontology and Palliative Care - Interprofessional Practice
+# 10.25.85 Gerontology and Palliative Care - Interprofessional Practice
 
 ## Glossary
 

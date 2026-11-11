@@ -1,10 +1,10 @@
 ---
-title: "10.21.12 Child and Youth Care (C153)"
+title: "10.24.12 Child and Youth Care (C153)"
 description: "Market > College Programs > George Brown Polytechnic > Child and Youth Care (C153): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.12 Child and Youth Care (C153)
+# 10.24.12 Child and Youth Care (C153)
 
 ## Glossary
 

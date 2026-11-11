@@ -1,10 +1,10 @@
 ---
-title: "10.35.77 Supply Chain Management and Logistics"
+title: "10.40.77 Supply Chain Management and Logistics"
 description: "Market > College Programs > New Brunswick Community College > Supply Chain Management and Logistics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.77 Supply Chain Management and Logistics
+# 10.40.77 Supply Chain Management and Logistics
 
 ## Glossary
 

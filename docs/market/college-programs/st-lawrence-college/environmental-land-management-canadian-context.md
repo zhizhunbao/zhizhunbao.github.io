@@ -1,10 +1,10 @@
 ---
-title: "10.57.37 Environmental Land Management - Canadian Context"
+title: "10.64.37 Environmental Land Management - Canadian Context"
 description: "Market > College Programs > St. Lawrence College > Environmental Land Management - Canadian Context: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.37 Environmental Land Management - Canadian Context
+# 10.64.37 Environmental Land Management - Canadian Context
 
 ## Glossary
 

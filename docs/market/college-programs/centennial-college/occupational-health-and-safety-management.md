@@ -1,10 +1,10 @@
 ---
-title: "10.8.145 Occupational Health and Safety Management"
+title: "10.9.145 Occupational Health and Safety Management"
 description: "Market > College Programs > Centennial College > Occupational Health and Safety Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.145 Occupational Health and Safety Management
+# 10.9.145 Occupational Health and Safety Management
 
 ## Glossary
 

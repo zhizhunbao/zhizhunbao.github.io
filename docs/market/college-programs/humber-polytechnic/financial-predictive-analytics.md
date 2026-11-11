@@ -1,10 +1,10 @@
 ---
-title: "10.24.72 Financial Predictive Analytics"
+title: "10.28.72 Financial Predictive Analytics"
 description: "Market > College Programs > Humber Polytechnic > Financial Predictive Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.72 Financial Predictive Analytics
+# 10.28.72 Financial Predictive Analytics
 
 ## Glossary
 

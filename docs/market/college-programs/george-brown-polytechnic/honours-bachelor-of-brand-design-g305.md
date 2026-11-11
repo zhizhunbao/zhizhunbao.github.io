@@ -1,10 +1,10 @@
 ---
-title: "10.21.47 Honours Bachelor of Brand Design (G305)"
+title: "10.24.47 Honours Bachelor of Brand Design (G305)"
 description: "Market > College Programs > George Brown Polytechnic > Honours Bachelor of Brand Design (G305): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.47 Honours Bachelor of Brand Design (G305)
+# 10.24.47 Honours Bachelor of Brand Design (G305)
 
 ## Glossary
 

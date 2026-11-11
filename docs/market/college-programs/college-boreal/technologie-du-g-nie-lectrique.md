@@ -1,10 +1,10 @@
 ---
-title: "10.10.60 Technologie du génie électrique"
+title: "10.11.60 Technologie du génie électrique"
 description: "Market > College Programs > Collège Boréal > Technologie du génie électrique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.60 Technologie du génie électrique
+# 10.11.60 Technologie du génie électrique
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.11.96 Techniques de travail social"
+title: "10.14.96 Techniques de travail social"
 description: "Market > College Programs > Collège La Cité > Techniques de travail social: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.96 Techniques de travail social
+# 10.14.96 Techniques de travail social
 
 ## Glossary
 

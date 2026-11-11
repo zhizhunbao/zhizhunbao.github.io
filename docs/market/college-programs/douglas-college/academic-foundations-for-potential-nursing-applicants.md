@@ -1,10 +1,10 @@
 ---
-title: "10.17.2 Academic Foundations for Potential Nursing Applicants"
+title: "10.20.2 Academic Foundations for Potential Nursing Applicants"
 description: "Market > College Programs > Douglas College > Academic Foundations for Potential Nursing Applicants: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.2 Academic Foundations for Potential Nursing Applicants
+# 10.20.2 Academic Foundations for Potential Nursing Applicants
 
 ## Glossary
 

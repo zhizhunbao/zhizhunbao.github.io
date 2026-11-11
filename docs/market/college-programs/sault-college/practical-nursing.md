@@ -1,10 +1,10 @@
 ---
-title: "10.51.51 Practical Nursing"
+title: "10.57.51 Practical Nursing"
 description: "Market > College Programs > Sault College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.51 Practical Nursing
+# 10.57.51 Practical Nursing
 
 ## Glossary
 

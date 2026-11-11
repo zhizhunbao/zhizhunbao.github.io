@@ -1,10 +1,10 @@
 ---
-title: "10.19.78 Environmental Technology (Co-op)"
+title: "10.22.78 Environmental Technology (Co-op)"
 description: "Market > College Programs > Fanshawe College > Environmental Technology (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.78 Environmental Technology (Co-op)
+# 10.22.78 Environmental Technology (Co-op)
 
 ## Glossary
 

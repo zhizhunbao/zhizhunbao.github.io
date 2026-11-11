@@ -1,10 +1,10 @@
 ---
-title: "10.54.52 Honours Bachelor of Applied Health Sciences – Athletic Therapy"
+title: "10.60.52 Honours Bachelor of Applied Health Sciences – Athletic Therapy"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Applied Health Sciences – Athletic Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.52 Honours Bachelor of Applied Health Sciences – Athletic Therapy
+# 10.60.52 Honours Bachelor of Applied Health Sciences – Athletic Therapy
 
 ## Glossary
 

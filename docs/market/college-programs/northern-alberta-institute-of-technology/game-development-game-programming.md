@@ -1,10 +1,10 @@
 ---
-title: "10.39.59 Game Development - Game Programming"
+title: "10.45.59 Game Development - Game Programming"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Game Development - Game Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.59 Game Development - Game Programming
+# 10.45.59 Game Development - Game Programming
 
 ## Glossary
 

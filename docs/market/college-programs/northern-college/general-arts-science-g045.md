@@ -1,10 +1,10 @@
 ---
-title: "10.40.23 General Arts & Science (G045)"
+title: "10.46.23 General Arts & Science (G045)"
 description: "Market > College Programs > Northern College > General Arts & Science (G045): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.23 General Arts & Science (G045)
+# 10.46.23 General Arts & Science (G045)
 
 ## Glossary
 

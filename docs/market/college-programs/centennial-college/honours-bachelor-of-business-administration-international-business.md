@@ -1,10 +1,10 @@
 ---
-title: "10.8.117 Honours Bachelor of Business Administration - International Business"
+title: "10.9.117 Honours Bachelor of Business Administration - International Business"
 description: "Market > College Programs > Centennial College > Honours Bachelor of Business Administration - International Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.117 Honours Bachelor of Business Administration - International Business
+# 10.9.117 Honours Bachelor of Business Administration - International Business
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.54.27 Computer Systems Technician – Cyber Security"
+title: "10.60.27 Computer Systems Technician – Cyber Security"
 description: "Market > College Programs > Sheridan College > Computer Systems Technician – Cyber Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.27 Computer Systems Technician – Cyber Security
+# 10.60.27 Computer Systems Technician – Cyber Security
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.23 Leadership & Conflict Resolution"
+title: "10.29.23 Leadership & Conflict Resolution"
 description: "Market > College Programs > Justice Institute of British Columbia > Leadership & Conflict Resolution: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.23 Leadership & Conflict Resolution
+# 10.29.23 Leadership & Conflict Resolution
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.56.109 Registered Practical Nurse Pathway to BScN"
+title: "10.63.109 Registered Practical Nurse Pathway to BScN"
 description: "Market > College Programs > St. Clair College > Registered Practical Nurse Pathway to BScN: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.109 Registered Practical Nurse Pathway to BScN
+# 10.63.109 Registered Practical Nurse Pathway to BScN
 
 ## Glossary
 

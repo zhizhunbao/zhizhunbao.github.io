@@ -1,10 +1,10 @@
 ---
-title: "10.41.7 Early Learning and Child Care Certificate"
+title: "10.47.7 Early Learning and Child Care Certificate"
 description: "Market > College Programs > Northern Lakes College > Early Learning and Child Care Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.7 Early Learning and Child Care Certificate
+# 10.47.7 Early Learning and Child Care Certificate
 
 ## Glossary
 

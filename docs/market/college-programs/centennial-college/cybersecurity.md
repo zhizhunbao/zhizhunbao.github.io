@@ -1,10 +1,10 @@
 ---
-title: "10.8.76 Cybersecurity"
+title: "10.9.76 Cybersecurity"
 description: "Market > College Programs > Centennial College > Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.76 Cybersecurity
+# 10.9.76 Cybersecurity
 
 ## Glossary
 

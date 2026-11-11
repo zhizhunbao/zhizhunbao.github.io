@@ -1,10 +1,10 @@
 ---
-title: "10.19.116 Marketing Management"
+title: "10.22.116 Marketing Management"
 description: "Market > College Programs > Fanshawe College > Marketing Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.116 Marketing Management
+# 10.22.116 Marketing Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50.15 Civil Engineering Technologies (Civil Construction option or Water Resources option)"
+title: "10.56.15 Civil Engineering Technologies (Civil Construction option or Water Resources option)"
 description: "Market > College Programs > Saskatchewan Polytechnic > Civil Engineering Technologies (Civil Construction option or Water Resources option): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.15 Civil Engineering Technologies (Civil Construction option or Water Resources option)
+# 10.56.15 Civil Engineering Technologies (Civil Construction option or Water Resources option)
 
 ## Glossary
 

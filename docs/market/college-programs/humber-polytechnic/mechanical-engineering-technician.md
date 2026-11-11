@@ -1,10 +1,10 @@
 ---
-title: "10.24.95 Mechanical Engineering Technician"
+title: "10.28.95 Mechanical Engineering Technician"
 description: "Market > College Programs > Humber Polytechnic > Mechanical Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.95 Mechanical Engineering Technician
+# 10.28.95 Mechanical Engineering Technician
 
 ## Glossary
 

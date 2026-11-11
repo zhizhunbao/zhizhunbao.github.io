@@ -1,10 +1,10 @@
 ---
-title: "10.8.81 Digital Marketing - Corporate Account Management"
+title: "10.9.81 Digital Marketing - Corporate Account Management"
 description: "Market > College Programs > Centennial College > Digital Marketing - Corporate Account Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.81 Digital Marketing - Corporate Account Management
+# 10.9.81 Digital Marketing - Corporate Account Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.4 Accounting & Finance"
+title: "10.59.4 Accounting & Finance"
 description: "Market > College Programs > Seneca Polytechnic > Accounting & Finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.4 Accounting & Finance
+# 10.59.4 Accounting & Finance
 
 ## Glossary
 

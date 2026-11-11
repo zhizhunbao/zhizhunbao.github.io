@@ -1,10 +1,10 @@
 ---
-title: "10.30.25 Ecosystem Management - Bachelor of"
+title: "10.34.25 Ecosystem Management - Bachelor of"
 description: "Market > College Programs > Lethbridge Polytechnic > Ecosystem Management - Bachelor of: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.25 Ecosystem Management - Bachelor of
+# 10.34.25 Ecosystem Management - Bachelor of
 
 ## Glossary
 

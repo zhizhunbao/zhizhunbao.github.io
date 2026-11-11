@@ -1,10 +1,10 @@
 ---
-title: "10.19.13 Audio Post-Production"
+title: "10.22.13 Audio Post-Production"
 description: "Market > College Programs > Fanshawe College > Audio Post-Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.13 Audio Post-Production
+# 10.22.13 Audio Post-Production
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.36 Niagara College"
+title: "10.41 Niagara College"
 description: "Market > College Programs > Niagara College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36 Niagara College
+# 10.41 Niagara College
 
 ## Glossary
 

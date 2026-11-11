@@ -1,10 +1,10 @@
 ---
-title: "10.58.41 Legal Administrative Assistant"
+title: "10.66.41 Legal Administrative Assistant"
 description: "Market > College Programs > Vancouver Community College > Legal Administrative Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.41 Legal Administrative Assistant
+# 10.66.41 Legal Administrative Assistant
 
 ## Glossary
 

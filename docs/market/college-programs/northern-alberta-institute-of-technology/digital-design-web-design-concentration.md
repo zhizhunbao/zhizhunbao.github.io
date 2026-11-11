@@ -1,10 +1,10 @@
 ---
-title: "10.39.50 Digital Design - Web Design Concentration"
+title: "10.45.50 Digital Design - Web Design Concentration"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Digital Design - Web Design Concentration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.50 Digital Design - Web Design Concentration
+# 10.45.50 Digital Design - Web Design Concentration
 
 ## Glossary
 

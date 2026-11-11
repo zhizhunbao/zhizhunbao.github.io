@@ -1,10 +1,10 @@
 ---
-title: "10.19.97 Health Systems Management"
+title: "10.22.97 Health Systems Management"
 description: "Market > College Programs > Fanshawe College > Health Systems Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.97 Health Systems Management
+# 10.22.97 Health Systems Management
 
 ## Glossary
 

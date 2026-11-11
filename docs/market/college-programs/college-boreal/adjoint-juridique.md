@@ -1,10 +1,10 @@
 ---
-title: "10.10.1 Adjoint juridique"
+title: "10.11.1 Adjoint juridique"
 description: "Market > College Programs > Collège Boréal > Adjoint juridique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.1 Adjoint juridique
+# 10.11.1 Adjoint juridique
 
 ## Glossary
 

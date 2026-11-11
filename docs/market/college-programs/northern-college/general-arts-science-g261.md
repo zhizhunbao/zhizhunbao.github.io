@@ -1,10 +1,10 @@
 ---
-title: "10.40.22 General Arts & Science (G261)"
+title: "10.46.22 General Arts & Science (G261)"
 description: "Market > College Programs > Northern College > General Arts & Science (G261): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.22 General Arts & Science (G261)
+# 10.46.22 General Arts & Science (G261)
 
 ## Glossary
 

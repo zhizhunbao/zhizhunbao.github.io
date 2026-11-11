@@ -1,10 +1,10 @@
 ---
-title: "10.58.28 Esthetics and Spa Therapy"
+title: "10.66.28 Esthetics and Spa Therapy"
 description: "Market > College Programs > Vancouver Community College > Esthetics and Spa Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.28 Esthetics and Spa Therapy
+# 10.66.28 Esthetics and Spa Therapy
 
 ## Glossary
 

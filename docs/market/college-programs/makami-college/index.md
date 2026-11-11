@@ -1,10 +1,10 @@
 ---
-title: "10.32 MaKami College"
+title: "10.36 MaKami College"
 description: "Market > College Programs > MaKami College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32 MaKami College
+# 10.36 MaKami College
 
 ## Glossary
 

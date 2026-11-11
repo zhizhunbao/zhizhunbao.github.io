@@ -1,10 +1,10 @@
 ---
-title: "10.8.74 Culinary Skills"
+title: "10.9.74 Culinary Skills"
 description: "Market > College Programs > Centennial College > Culinary Skills: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.74 Culinary Skills
+# 10.9.74 Culinary Skills
 
 ## Glossary
 

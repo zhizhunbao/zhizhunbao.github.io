@@ -1,10 +1,10 @@
 ---
-title: "10.21.7 Building Renovation Technology"
+title: "10.24.7 Building Renovation Technology"
 description: "Market > College Programs > George Brown Polytechnic > Building Renovation Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.7 Building Renovation Technology
+# 10.24.7 Building Renovation Technology
 
 ## Glossary
 

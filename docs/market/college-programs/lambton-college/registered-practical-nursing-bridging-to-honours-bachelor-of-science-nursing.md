@@ -1,10 +1,10 @@
 ---
-title: "10.28.122 Registered Practical Nursing Bridging to Honours Bachelor of Science - Nursing"
+title: "10.32.122 Registered Practical Nursing Bridging to Honours Bachelor of Science - Nursing"
 description: "Market > College Programs > Lambton College > Registered Practical Nursing Bridging to Honours Bachelor of Science - Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.122 Registered Practical Nursing Bridging to Honours Bachelor of Science - Nursing
+# 10.32.122 Registered Practical Nursing Bridging to Honours Bachelor of Science - Nursing
 
 ## Glossary
 

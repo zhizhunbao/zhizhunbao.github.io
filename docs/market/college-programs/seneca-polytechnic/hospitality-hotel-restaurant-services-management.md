@@ -1,10 +1,10 @@
 ---
-title: "10.53.103 Hospitality – Hotel & Restaurant Services Management"
+title: "10.59.103 Hospitality – Hotel & Restaurant Services Management"
 description: "Market > College Programs > Seneca Polytechnic > Hospitality – Hotel & Restaurant Services Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.103 Hospitality – Hotel & Restaurant Services Management
+# 10.59.103 Hospitality – Hotel & Restaurant Services Management
 
 ## Glossary
 

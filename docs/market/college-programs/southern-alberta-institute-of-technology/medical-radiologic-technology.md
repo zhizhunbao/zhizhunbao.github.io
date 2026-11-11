@@ -1,10 +1,10 @@
 ---
-title: "10.55.92 Medical Radiologic Technology"
+title: "10.62.92 Medical Radiologic Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Medical Radiologic Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.92 Medical Radiologic Technology
+# 10.62.92 Medical Radiologic Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.93 Honours Bachelor of Business Administration (Automotive Management)"
+title: "10.25.93 Honours Bachelor of Business Administration (Automotive Management)"
 description: "Market > College Programs > Georgian College > Honours Bachelor of Business Administration (Automotive Management): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.93 Honours Bachelor of Business Administration (Automotive Management)
+# 10.25.93 Honours Bachelor of Business Administration (Automotive Management)
 
 ## Glossary
 

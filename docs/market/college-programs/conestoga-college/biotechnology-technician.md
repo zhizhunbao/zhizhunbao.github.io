@@ -1,10 +1,10 @@
 ---
-title: "10.15.37 Biotechnology Technician"
+title: "10.18.37 Biotechnology Technician"
 description: "Market > College Programs > Conestoga College > Biotechnology Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.37 Biotechnology Technician
+# 10.18.37 Biotechnology Technician
 
 ## Glossary
 

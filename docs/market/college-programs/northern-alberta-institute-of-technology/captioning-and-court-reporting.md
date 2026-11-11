@@ -1,10 +1,10 @@
 ---
-title: "10.39.30 Captioning and Court Reporting"
+title: "10.45.30 Captioning and Court Reporting"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Captioning and Court Reporting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.30 Captioning and Court Reporting
+# 10.45.30 Captioning and Court Reporting
 
 ## Glossary
 

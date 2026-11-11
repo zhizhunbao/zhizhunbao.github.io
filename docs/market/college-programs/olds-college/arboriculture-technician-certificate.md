@@ -1,10 +1,10 @@
 ---
-title: "10.46.6 Arboriculture Technician Certificate"
+title: "10.52.6 Arboriculture Technician Certificate"
 description: "Market > College Programs > Olds College > Arboriculture Technician Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.6 Arboriculture Technician Certificate
+# 10.52.6 Arboriculture Technician Certificate
 
 ## Glossary
 

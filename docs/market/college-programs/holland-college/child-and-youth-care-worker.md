@@ -1,10 +1,10 @@
 ---
-title: "10.23.13 Child And Youth Care Worker"
+title: "10.27.13 Child And Youth Care Worker"
 description: "Market > College Programs > Holland College > Child And Youth Care Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.13 Child And Youth Care Worker
+# 10.27.13 Child And Youth Care Worker
 
 ## Glossary
 

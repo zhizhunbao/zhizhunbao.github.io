@@ -1,10 +1,10 @@
 ---
-title: "10.8.102 Event Planning"
+title: "10.9.102 Event Planning"
 description: "Market > College Programs > Centennial College > Event Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.102 Event Planning
+# 10.9.102 Event Planning
 
 ## Glossary
 

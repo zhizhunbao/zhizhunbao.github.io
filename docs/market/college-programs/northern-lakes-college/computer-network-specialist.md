@@ -1,10 +1,10 @@
 ---
-title: "10.41.6 Computer Network Specialist"
+title: "10.47.6 Computer Network Specialist"
 description: "Market > College Programs > Northern Lakes College > Computer Network Specialist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.6 Computer Network Specialist
+# 10.47.6 Computer Network Specialist
 
 ## Glossary
 

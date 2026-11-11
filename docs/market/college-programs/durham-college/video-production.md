@@ -1,10 +1,10 @@
 ---
-title: "10.18.124 Video Production"
+title: "10.21.124 Video Production"
 description: "Market > College Programs > Durham College > Video Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.124 Video Production
+# 10.21.124 Video Production
 
 ## Glossary
 

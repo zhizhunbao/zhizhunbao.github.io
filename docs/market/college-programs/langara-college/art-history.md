@@ -1,10 +1,10 @@
 ---
-title: "10.29.9 Art History"
+title: "10.33.9 Art History"
 description: "Market > College Programs > Langara College > Art History: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.9 Art History
+# 10.33.9 Art History
 
 ## Glossary
 

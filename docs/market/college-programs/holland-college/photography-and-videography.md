@@ -1,10 +1,10 @@
 ---
-title: "10.23.39 Photography and Videography"
+title: "10.27.39 Photography and Videography"
 description: "Market > College Programs > Holland College > Photography and Videography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.39 Photography and Videography
+# 10.27.39 Photography and Videography
 
 ## Glossary
 

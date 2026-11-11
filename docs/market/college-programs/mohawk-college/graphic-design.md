@@ -1,10 +1,10 @@
 ---
-title: "10.34.56 Graphic Design"
+title: "10.39.56 Graphic Design"
 description: "Market > College Programs > Mohawk College > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.56 Graphic Design
+# 10.39.56 Graphic Design
 
 ## Glossary
 

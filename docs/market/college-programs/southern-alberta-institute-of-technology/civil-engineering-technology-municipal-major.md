@@ -1,10 +1,10 @@
 ---
-title: "10.55.39 Civil Engineering Technology - Municipal Major"
+title: "10.62.39 Civil Engineering Technology - Municipal Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Civil Engineering Technology - Municipal Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.39 Civil Engineering Technology - Municipal Major
+# 10.62.39 Civil Engineering Technology - Municipal Major
 
 ## Glossary
 

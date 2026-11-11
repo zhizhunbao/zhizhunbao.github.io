@@ -1,10 +1,10 @@
 ---
-title: "10.45.22 Infrastructure and Computing Technology Diploma"
+title: "10.51.22 Infrastructure and Computing Technology Diploma"
 description: "Market > College Programs > Okanagan College > Infrastructure and Computing Technology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.22 Infrastructure and Computing Technology Diploma
+# 10.51.22 Infrastructure and Computing Technology Diploma
 
 ## Glossary
 

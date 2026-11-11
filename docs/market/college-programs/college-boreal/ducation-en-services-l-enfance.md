@@ -1,10 +1,10 @@
 ---
-title: "10.10.65 Éducation en services à l’enfance"
+title: "10.11.65 Éducation en services à l’enfance"
 description: "Market > College Programs > Collège Boréal > Éducation en services à l’enfance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.65 Éducation en services à l’enfance
+# 10.11.65 Éducation en services à l’enfance
 
 ## Glossary
 

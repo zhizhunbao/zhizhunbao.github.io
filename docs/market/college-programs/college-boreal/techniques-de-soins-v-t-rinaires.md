@@ -1,10 +1,10 @@
 ---
-title: "10.10.40 Techniques de soins vétérinaires"
+title: "10.11.40 Techniques de soins vétérinaires"
 description: "Market > College Programs > Collège Boréal > Techniques de soins vétérinaires: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.40 Techniques de soins vétérinaires
+# 10.11.40 Techniques de soins vétérinaires
 
 ## Glossary
 

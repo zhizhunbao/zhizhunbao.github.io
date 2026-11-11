@@ -1,10 +1,10 @@
 ---
-title: "10.36.53 Honours Bachelor of Business Administration (Hospitality)"
+title: "10.41.53 Honours Bachelor of Business Administration (Hospitality)"
 description: "Market > College Programs > Niagara College > Honours Bachelor of Business Administration (Hospitality): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.53 Honours Bachelor of Business Administration (Hospitality)
+# 10.41.53 Honours Bachelor of Business Administration (Hospitality)
 
 ## Glossary
 

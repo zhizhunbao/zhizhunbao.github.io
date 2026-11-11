@@ -1,10 +1,10 @@
 ---
-title: "10.50.40 Library and Information Technology"
+title: "10.56.40 Library and Information Technology"
 description: "Market > College Programs > Saskatchewan Polytechnic > Library and Information Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.40 Library and Information Technology
+# 10.56.40 Library and Information Technology
 
 ## Glossary
 

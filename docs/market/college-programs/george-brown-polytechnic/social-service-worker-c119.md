@@ -1,10 +1,10 @@
 ---
-title: "10.21.79 Social Service Worker (C119)"
+title: "10.24.79 Social Service Worker (C119)"
 description: "Market > College Programs > George Brown Polytechnic > Social Service Worker (C119): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.79 Social Service Worker (C119)
+# 10.24.79 Social Service Worker (C119)
 
 ## Glossary
 

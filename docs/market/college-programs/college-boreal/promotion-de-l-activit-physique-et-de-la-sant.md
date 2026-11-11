@@ -1,10 +1,10 @@
 ---
-title: "10.10.30 Promotion de l’activité physique et de la santé"
+title: "10.11.30 Promotion de l’activité physique et de la santé"
 description: "Market > College Programs > Collège Boréal > Promotion de l’activité physique et de la santé: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.30 Promotion de l’activité physique et de la santé
+# 10.11.30 Promotion de l’activité physique et de la santé
 
 ## Glossary
 

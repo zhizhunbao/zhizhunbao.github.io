@@ -1,10 +1,10 @@
 ---
-title: "10.52.36 Forest Technology - Diploma"
+title: "10.58.36 Forest Technology - Diploma"
 description: "Market > College Programs > Selkirk College > Forest Technology - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.36 Forest Technology - Diploma
+# 10.58.36 Forest Technology - Diploma
 
 ## Glossary
 

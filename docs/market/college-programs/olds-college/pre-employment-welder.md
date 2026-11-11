@@ -1,10 +1,10 @@
 ---
-title: "10.46.28 Pre-Employment Welder"
+title: "10.52.28 Pre-Employment Welder"
 description: "Market > College Programs > Olds College > Pre-Employment Welder: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.28 Pre-Employment Welder
+# 10.52.28 Pre-Employment Welder
 
 ## Glossary
 

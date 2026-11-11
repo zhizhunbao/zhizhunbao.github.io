@@ -1,10 +1,10 @@
 ---
-title: "10.22.18 Bookkeeping"
+title: "10.25.18 Bookkeeping"
 description: "Market > College Programs > Georgian College > Bookkeeping: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.18 Bookkeeping
+# 10.25.18 Bookkeeping
 
 ## Glossary
 

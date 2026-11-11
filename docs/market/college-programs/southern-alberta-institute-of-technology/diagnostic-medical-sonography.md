@@ -1,10 +1,10 @@
 ---
-title: "10.55.49 Diagnostic Medical Sonography"
+title: "10.62.49 Diagnostic Medical Sonography"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Diagnostic Medical Sonography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.49 Diagnostic Medical Sonography
+# 10.62.49 Diagnostic Medical Sonography
 
 ## Glossary
 

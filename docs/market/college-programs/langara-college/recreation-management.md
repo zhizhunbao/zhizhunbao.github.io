@@ -1,10 +1,10 @@
 ---
-title: "10.29.90 Recreation Management"
+title: "10.33.90 Recreation Management"
 description: "Market > College Programs > Langara College > Recreation Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.90 Recreation Management
+# 10.33.90 Recreation Management
 
 ## Glossary
 

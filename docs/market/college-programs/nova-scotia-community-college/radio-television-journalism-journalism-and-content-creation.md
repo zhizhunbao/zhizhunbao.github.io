@@ -1,10 +1,10 @@
 ---
-title: "10.44.116 Radio Television Journalism - Journalism and Content Creation"
+title: "10.50.116 Radio Television Journalism - Journalism and Content Creation"
 description: "Market > College Programs > Nova Scotia Community College > Radio Television Journalism - Journalism and Content Creation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.116 Radio Television Journalism - Journalism and Content Creation
+# 10.50.116 Radio Television Journalism - Journalism and Content Creation
 
 ## Glossary
 

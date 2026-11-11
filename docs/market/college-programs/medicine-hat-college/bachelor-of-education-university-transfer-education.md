@@ -1,10 +1,10 @@
 ---
-title: "10.33.7 Bachelor of Education / University Transfer: Education"
+title: "10.38.7 Bachelor of Education / University Transfer: Education"
 description: "Market > College Programs > Medicine Hat College > Bachelor of Education / University Transfer: Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.7 Bachelor of Education / University Transfer: Education
+# 10.38.7 Bachelor of Education / University Transfer: Education
 
 ## Glossary
 

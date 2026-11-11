@@ -1,10 +1,10 @@
 ---
-title: "10.13.10 Automotive Service Technician"
+title: "10.16.10 Automotive Service Technician"
 description: "Market > College Programs > College of the North Atlantic > Automotive Service Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.10 Automotive Service Technician
+# 10.16.10 Automotive Service Technician
 
 ## Glossary
 

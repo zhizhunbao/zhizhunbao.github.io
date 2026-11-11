@@ -1,10 +1,10 @@
 ---
-title: "10.24.31 Bachelor of Science - Nursing"
+title: "10.28.31 Bachelor of Science - Nursing"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Science - Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.31 Bachelor of Science - Nursing
+# 10.28.31 Bachelor of Science - Nursing
 
 ## Glossary
 

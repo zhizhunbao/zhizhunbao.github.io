@@ -1,10 +1,10 @@
 ---
-title: "10.30.52 Pre-Veterinary Medicine"
+title: "10.34.52 Pre-Veterinary Medicine"
 description: "Market > College Programs > Lethbridge Polytechnic > Pre-Veterinary Medicine: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.52 Pre-Veterinary Medicine
+# 10.34.52 Pre-Veterinary Medicine
 
 ## Glossary
 

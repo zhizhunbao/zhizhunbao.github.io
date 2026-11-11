@@ -1,10 +1,10 @@
 ---
-title: "10.35.40 Hotel & Restaurant Management"
+title: "10.40.40 Hotel & Restaurant Management"
 description: "Market > College Programs > New Brunswick Community College > Hotel & Restaurant Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.40 Hotel & Restaurant Management
+# 10.40.40 Hotel & Restaurant Management
 
 ## Glossary
 

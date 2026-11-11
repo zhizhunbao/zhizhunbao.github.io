@@ -1,10 +1,10 @@
 ---
-title: "10.53 Seneca Polytechnic"
+title: "10.59 Seneca Polytechnic"
 description: "Market > College Programs > Seneca Polytechnic: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53 Seneca Polytechnic
+# 10.59 Seneca Polytechnic
 
 ## Glossary
 

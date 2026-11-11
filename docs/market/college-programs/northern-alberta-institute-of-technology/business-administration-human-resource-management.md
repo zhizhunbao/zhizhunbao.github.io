@@ -1,10 +1,10 @@
 ---
-title: "10.39.26 Business Administration - Human Resource Management"
+title: "10.45.26 Business Administration - Human Resource Management"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Business Administration - Human Resource Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.26 Business Administration - Human Resource Management
+# 10.45.26 Business Administration - Human Resource Management
 
 ## Glossary
 

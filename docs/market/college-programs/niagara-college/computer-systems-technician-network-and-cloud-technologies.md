@@ -1,10 +1,10 @@
 ---
-title: "10.36.27 Computer Systems Technician – Network and Cloud Technologies"
+title: "10.41.27 Computer Systems Technician – Network and Cloud Technologies"
 description: "Market > College Programs > Niagara College > Computer Systems Technician – Network and Cloud Technologies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.27 Computer Systems Technician – Network and Cloud Technologies
+# 10.41.27 Computer Systems Technician – Network and Cloud Technologies
 
 ## Glossary
 

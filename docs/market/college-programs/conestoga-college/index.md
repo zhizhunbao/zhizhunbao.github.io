@@ -1,10 +1,10 @@
 ---
-title: "10.15 Conestoga College"
+title: "10.18 Conestoga College"
 description: "Market > College Programs > Conestoga College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15 Conestoga College
+# 10.18 Conestoga College
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.13.2 Accounting and Financial Management"
+title: "10.16.2 Accounting and Financial Management"
 description: "Market > College Programs > College of the North Atlantic > Accounting and Financial Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.2 Accounting and Financial Management
+# 10.16.2 Accounting and Financial Management
 
 ## Glossary
 

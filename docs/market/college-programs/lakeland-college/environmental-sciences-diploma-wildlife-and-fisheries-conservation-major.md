@@ -1,10 +1,10 @@
 ---
-title: "10.27.35 Environmental Sciences Diploma: Wildlife and Fisheries Conservation Major"
+title: "10.31.35 Environmental Sciences Diploma: Wildlife and Fisheries Conservation Major"
 description: "Market > College Programs > Lakeland College > Environmental Sciences Diploma: Wildlife and Fisheries Conservation Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.35 Environmental Sciences Diploma: Wildlife and Fisheries Conservation Major
+# 10.31.35 Environmental Sciences Diploma: Wildlife and Fisheries Conservation Major
 
 ## Glossary
 

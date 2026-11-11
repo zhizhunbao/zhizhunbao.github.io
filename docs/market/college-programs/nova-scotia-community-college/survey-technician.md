@@ -1,10 +1,10 @@
 ---
-title: "10.44.124 Survey Technician"
+title: "10.50.124 Survey Technician"
 description: "Market > College Programs > Nova Scotia Community College > Survey Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.124 Survey Technician
+# 10.50.124 Survey Technician
 
 ## Glossary
 

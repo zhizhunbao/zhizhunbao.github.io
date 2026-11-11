@@ -1,10 +1,10 @@
 ---
-title: "10.8.164 Practical Nursing (Flexible)"
+title: "10.9.164 Practical Nursing (Flexible)"
 description: "Market > College Programs > Centennial College > Practical Nursing (Flexible): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.164 Practical Nursing (Flexible)
+# 10.9.164 Practical Nursing (Flexible)
 
 ## Glossary
 

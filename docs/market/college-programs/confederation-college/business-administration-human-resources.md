@@ -1,10 +1,10 @@
 ---
-title: "10.16.17 Business Administration - Human Resources"
+title: "10.19.17 Business Administration - Human Resources"
 description: "Market > College Programs > Confederation College > Business Administration - Human Resources: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.17 Business Administration - Human Resources
+# 10.19.17 Business Administration - Human Resources
 
 ## Glossary
 

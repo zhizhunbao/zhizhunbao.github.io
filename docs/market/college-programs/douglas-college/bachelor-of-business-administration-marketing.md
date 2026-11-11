@@ -1,10 +1,10 @@
 ---
-title: "10.17.21 Bachelor of Business Administration, Marketing"
+title: "10.20.21 Bachelor of Business Administration, Marketing"
 description: "Market > College Programs > Douglas College > Bachelor of Business Administration, Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.21 Bachelor of Business Administration, Marketing
+# 10.20.21 Bachelor of Business Administration, Marketing
 
 ## Glossary
 

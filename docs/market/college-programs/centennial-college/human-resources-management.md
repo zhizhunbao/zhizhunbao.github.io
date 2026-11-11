@@ -1,10 +1,10 @@
 ---
-title: "10.8.122 Human Resources Management"
+title: "10.9.122 Human Resources Management"
 description: "Market > College Programs > Centennial College > Human Resources Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.122 Human Resources Management
+# 10.9.122 Human Resources Management
 
 ## Glossary
 

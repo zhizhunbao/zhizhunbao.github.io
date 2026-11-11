@@ -1,10 +1,10 @@
 ---
-title: "10.18.66 General Arts and Science – Liberal Arts Ontario Tech University Transfer – Forensic Psychology"
+title: "10.21.66 General Arts and Science – Liberal Arts Ontario Tech University Transfer – Forensic Psychology"
 description: "Market > College Programs > Durham College > General Arts and Science – Liberal Arts Ontario Tech University Transfer – Forensic Psychology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.66 General Arts and Science – Liberal Arts Ontario Tech University Transfer – Forensic Psychology
+# 10.21.66 General Arts and Science – Liberal Arts Ontario Tech University Transfer – Forensic Psychology
 
 ## Glossary
 

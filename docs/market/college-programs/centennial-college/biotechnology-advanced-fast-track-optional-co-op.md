@@ -1,10 +1,10 @@
 ---
-title: "10.8.39 Biotechnology - Advanced (Fast-Track) (Optional Co-op)"
+title: "10.9.39 Biotechnology - Advanced (Fast-Track) (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Biotechnology - Advanced (Fast-Track) (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.39 Biotechnology - Advanced (Fast-Track) (Optional Co-op)
+# 10.9.39 Biotechnology - Advanced (Fast-Track) (Optional Co-op)
 
 ## Glossary
 

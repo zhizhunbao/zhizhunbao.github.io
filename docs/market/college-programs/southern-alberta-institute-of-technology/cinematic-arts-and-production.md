@@ -1,10 +1,10 @@
 ---
-title: "10.55.37 Cinematic Arts and Production"
+title: "10.62.37 Cinematic Arts and Production"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Cinematic Arts and Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.37 Cinematic Arts and Production
+# 10.62.37 Cinematic Arts and Production
 
 ## Glossary
 

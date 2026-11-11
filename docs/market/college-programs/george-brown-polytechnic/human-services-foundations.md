@@ -1,10 +1,10 @@
 ---
-title: "10.21.62 Human Services Foundations"
+title: "10.24.62 Human Services Foundations"
 description: "Market > College Programs > George Brown Polytechnic > Human Services Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.62 Human Services Foundations
+# 10.24.62 Human Services Foundations
 
 ## Glossary
 

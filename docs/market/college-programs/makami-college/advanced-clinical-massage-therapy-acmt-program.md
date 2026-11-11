@@ -1,10 +1,10 @@
 ---
-title: "10.32.1 Advanced Clinical Massage Therapy (ACMT) Program"
+title: "10.36.1 Advanced Clinical Massage Therapy (ACMT) Program"
 description: "Market > College Programs > MaKami College > Advanced Clinical Massage Therapy (ACMT) Program: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.1 Advanced Clinical Massage Therapy (ACMT) Program
+# 10.36.1 Advanced Clinical Massage Therapy (ACMT) Program
 
 ## Glossary
 

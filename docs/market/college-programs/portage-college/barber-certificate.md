@@ -1,10 +1,10 @@
 ---
-title: "10.47.5 Barber Certificate"
+title: "10.53.5 Barber Certificate"
 description: "Market > College Programs > Portage College > Barber Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.5 Barber Certificate
+# 10.53.5 Barber Certificate
 
 ## Glossary
 

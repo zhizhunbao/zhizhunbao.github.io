@@ -1,10 +1,10 @@
 ---
-title: "10.40.33 Mechanical Techniques – Industrial Millwright"
+title: "10.46.33 Mechanical Techniques – Industrial Millwright"
 description: "Market > College Programs > Northern College > Mechanical Techniques – Industrial Millwright: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.33 Mechanical Techniques – Industrial Millwright
+# 10.46.33 Mechanical Techniques – Industrial Millwright
 
 ## Glossary
 

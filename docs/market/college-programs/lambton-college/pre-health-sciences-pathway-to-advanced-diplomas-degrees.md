@@ -1,10 +1,10 @@
 ---
-title: "10.28.114 Pre-Health Sciences Pathway to Advanced Diplomas & Degrees"
+title: "10.32.114 Pre-Health Sciences Pathway to Advanced Diplomas & Degrees"
 description: "Market > College Programs > Lambton College > Pre-Health Sciences Pathway to Advanced Diplomas & Degrees: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.114 Pre-Health Sciences Pathway to Advanced Diplomas & Degrees
+# 10.32.114 Pre-Health Sciences Pathway to Advanced Diplomas & Degrees
 
 ## Glossary
 

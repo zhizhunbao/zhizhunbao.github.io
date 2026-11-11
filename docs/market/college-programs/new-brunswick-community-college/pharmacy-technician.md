@@ -1,10 +1,10 @@
 ---
-title: "10.35.66 Pharmacy Technician"
+title: "10.40.66 Pharmacy Technician"
 description: "Market > College Programs > New Brunswick Community College > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.66 Pharmacy Technician
+# 10.40.66 Pharmacy Technician
 
 ## Glossary
 

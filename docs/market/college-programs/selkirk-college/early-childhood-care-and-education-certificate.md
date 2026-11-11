@@ -1,10 +1,10 @@
 ---
-title: "10.52.24 Early Childhood Care and Education - Certificate"
+title: "10.58.24 Early Childhood Care and Education - Certificate"
 description: "Market > College Programs > Selkirk College > Early Childhood Care and Education - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.24 Early Childhood Care and Education - Certificate
+# 10.58.24 Early Childhood Care and Education - Certificate
 
 ## Glossary
 

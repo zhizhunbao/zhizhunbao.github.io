@@ -1,10 +1,10 @@
 ---
-title: "10.10.18 Gestion des ressources humaines – POSTDIPLÔME"
+title: "10.11.18 Gestion des ressources humaines – POSTDIPLÔME"
 description: "Market > College Programs > Collège Boréal > Gestion des ressources humaines – POSTDIPLÔME: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.18 Gestion des ressources humaines – POSTDIPLÔME
+# 10.11.18 Gestion des ressources humaines – POSTDIPLÔME
 
 ## Glossary
 

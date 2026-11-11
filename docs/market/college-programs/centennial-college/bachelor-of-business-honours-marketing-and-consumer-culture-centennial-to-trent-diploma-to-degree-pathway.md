@@ -1,10 +1,10 @@
 ---
-title: "10.8.25 Bachelor of Business (Honours) - Marketing and Consumer Culture - Centennial to Trent Diploma-to-Degree Pathway"
+title: "10.9.25 Bachelor of Business (Honours) - Marketing and Consumer Culture - Centennial to Trent Diploma-to-Degree Pathway"
 description: "Market > College Programs > Centennial College > Bachelor of Business (Honours) - Marketing and Consumer Culture - Centennial to Trent Diploma-to-Degree Pathway: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.25 Bachelor of Business (Honours) - Marketing and Consumer Culture - Centennial to Trent Diploma-to-Degree Pathway
+# 10.9.25 Bachelor of Business (Honours) - Marketing and Consumer Culture - Centennial to Trent Diploma-to-Degree Pathway
 
 ## Glossary
 

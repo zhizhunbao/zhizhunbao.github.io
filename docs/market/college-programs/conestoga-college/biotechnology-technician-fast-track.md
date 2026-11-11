@@ -1,10 +1,10 @@
 ---
-title: "10.15.38 Biotechnology Technician Fast Track"
+title: "10.18.38 Biotechnology Technician Fast Track"
 description: "Market > College Programs > Conestoga College > Biotechnology Technician Fast Track: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.38 Biotechnology Technician Fast Track
+# 10.18.38 Biotechnology Technician Fast Track
 
 ## Glossary
 

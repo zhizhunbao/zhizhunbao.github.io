@@ -1,10 +1,10 @@
 ---
-title: "10.23.7 Bioscience Joint Degree"
+title: "10.27.7 Bioscience Joint Degree"
 description: "Market > College Programs > Holland College > Bioscience Joint Degree: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.7 Bioscience Joint Degree
+# 10.27.7 Bioscience Joint Degree
 
 ## Glossary
 

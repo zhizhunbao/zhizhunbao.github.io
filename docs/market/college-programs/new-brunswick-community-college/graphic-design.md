@@ -1,10 +1,10 @@
 ---
-title: "10.35.35 Graphic Design"
+title: "10.40.35 Graphic Design"
 description: "Market > College Programs > New Brunswick Community College > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.35 Graphic Design
+# 10.40.35 Graphic Design
 
 ## Glossary
 

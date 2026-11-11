@@ -1,10 +1,10 @@
 ---
-title: "10.13.98 Television and Film Producing"
+title: "10.16.98 Television and Film Producing"
 description: "Market > College Programs > College of the North Atlantic > Television and Film Producing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.98 Television and Film Producing
+# 10.16.98 Television and Film Producing
 
 ## Glossary
 

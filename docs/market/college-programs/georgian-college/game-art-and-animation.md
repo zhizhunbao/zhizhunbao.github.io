@@ -1,10 +1,10 @@
 ---
-title: "10.22.77 Game - Art and Animation"
+title: "10.25.77 Game - Art and Animation"
 description: "Market > College Programs > Georgian College > Game - Art and Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.77 Game - Art and Animation
+# 10.25.77 Game - Art and Animation
 
 ## Glossary
 

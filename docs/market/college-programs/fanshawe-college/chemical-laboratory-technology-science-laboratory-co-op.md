@@ -1,10 +1,10 @@
 ---
-title: "10.19.45 Chemical Laboratory Technology - Science Laboratory (Co-op)"
+title: "10.22.45 Chemical Laboratory Technology - Science Laboratory (Co-op)"
 description: "Market > College Programs > Fanshawe College > Chemical Laboratory Technology - Science Laboratory (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.45 Chemical Laboratory Technology - Science Laboratory (Co-op)
+# 10.22.45 Chemical Laboratory Technology - Science Laboratory (Co-op)
 
 ## Glossary
 

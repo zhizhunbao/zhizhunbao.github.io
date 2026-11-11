@@ -1,10 +1,10 @@
 ---
-title: "10.18.16 Behavioural Science Technician"
+title: "10.21.16 Behavioural Science Technician"
 description: "Market > College Programs > Durham College > Behavioural Science Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.16 Behavioural Science Technician
+# 10.21.16 Behavioural Science Technician
 
 ## Glossary
 

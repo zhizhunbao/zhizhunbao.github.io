@@ -1,10 +1,10 @@
 ---
-title: "10.53.121 Mechanical Engineering Technology – Building Sciences"
+title: "10.59.121 Mechanical Engineering Technology – Building Sciences"
 description: "Market > College Programs > Seneca Polytechnic > Mechanical Engineering Technology – Building Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.121 Mechanical Engineering Technology – Building Sciences
+# 10.59.121 Mechanical Engineering Technology – Building Sciences
 
 ## Glossary
 

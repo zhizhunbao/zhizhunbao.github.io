@@ -1,10 +1,10 @@
 ---
-title: "10.18.7 Applied Data Analytics (graduate certificate)"
+title: "10.21.7 Applied Data Analytics (graduate certificate)"
 description: "Market > College Programs > Durham College > Applied Data Analytics (graduate certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.7 Applied Data Analytics (graduate certificate)
+# 10.21.7 Applied Data Analytics (graduate certificate)
 
 ## Glossary
 

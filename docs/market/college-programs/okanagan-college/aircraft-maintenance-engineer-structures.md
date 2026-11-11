@@ -1,10 +1,10 @@
 ---
-title: "10.45.2 Aircraft Maintenance Engineer - Structures"
+title: "10.51.2 Aircraft Maintenance Engineer - Structures"
 description: "Market > College Programs > Okanagan College > Aircraft Maintenance Engineer - Structures: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.2 Aircraft Maintenance Engineer - Structures
+# 10.51.2 Aircraft Maintenance Engineer - Structures
 
 ## Glossary
 

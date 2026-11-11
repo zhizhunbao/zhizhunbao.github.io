@@ -1,10 +1,10 @@
 ---
-title: "10.36.62 Massage Therapy"
+title: "10.41.62 Massage Therapy"
 description: "Market > College Programs > Niagara College > Massage Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.62 Massage Therapy
+# 10.41.62 Massage Therapy
 
 ## Glossary
 

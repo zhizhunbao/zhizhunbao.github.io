@@ -1,10 +1,10 @@
 ---
-title: "10.11.44 Gestion de la nutrition et des services alimentaires en mode coopératif"
+title: "10.14.44 Gestion de la nutrition et des services alimentaires en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Gestion de la nutrition et des services alimentaires en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.44 Gestion de la nutrition et des services alimentaires en mode coopératif
+# 10.14.44 Gestion de la nutrition et des services alimentaires en mode coopératif
 
 ## Glossary
 

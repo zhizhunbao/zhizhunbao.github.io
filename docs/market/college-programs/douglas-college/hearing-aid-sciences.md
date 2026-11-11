@@ -1,10 +1,10 @@
 ---
-title: "10.17.55 Hearing Aid Sciences"
+title: "10.20.55 Hearing Aid Sciences"
 description: "Market > College Programs > Douglas College > Hearing Aid Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.55 Hearing Aid Sciences
+# 10.20.55 Hearing Aid Sciences
 
 ## Glossary
 

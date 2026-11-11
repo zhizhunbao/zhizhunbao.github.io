@@ -1,10 +1,10 @@
 ---
-title: "10.18.13 Bachelor of Business Administration (Human Resources Management)"
+title: "10.21.13 Bachelor of Business Administration (Human Resources Management)"
 description: "Market > College Programs > Durham College > Bachelor of Business Administration (Human Resources Management): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.13 Bachelor of Business Administration (Human Resources Management)
+# 10.21.13 Bachelor of Business Administration (Human Resources Management)
 
 ## Glossary
 

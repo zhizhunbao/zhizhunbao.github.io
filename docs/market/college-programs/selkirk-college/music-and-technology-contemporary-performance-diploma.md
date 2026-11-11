@@ -1,10 +1,10 @@
 ---
-title: "10.52.53 Music and Technology, Contemporary - Performance Diploma"
+title: "10.58.53 Music and Technology, Contemporary - Performance Diploma"
 description: "Market > College Programs > Selkirk College > Music and Technology, Contemporary - Performance Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.53 Music and Technology, Contemporary - Performance Diploma
+# 10.58.53 Music and Technology, Contemporary - Performance Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.31.10 Business (Online)"
+title: "10.35.10 Business (Online)"
 description: "Market > College Programs > Loyalist College > Business (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.10 Business (Online)
+# 10.35.10 Business (Online)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.11.69 Publicité et communication marketing"
+title: "10.14.69 Publicité et communication marketing"
 description: "Market > College Programs > Collège La Cité > Publicité et communication marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.69 Publicité et communication marketing
+# 10.14.69 Publicité et communication marketing
 
 ## Glossary
 

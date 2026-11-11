@@ -1,10 +1,10 @@
 ---
-title: "10.24.111 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees"
+title: "10.28.111 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees"
 description: "Market > College Programs > Humber Polytechnic > Pre-Health Sciences Pathway to Advanced Diplomas and Degrees: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.111 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees
+# 10.28.111 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees
 
 ## Glossary
 

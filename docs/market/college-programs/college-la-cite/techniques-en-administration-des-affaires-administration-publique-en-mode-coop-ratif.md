@@ -1,10 +1,10 @@
 ---
-title: "10.11.107 Techniques en administration des affaires – administration publique en mode coopératif"
+title: "10.14.107 Techniques en administration des affaires – administration publique en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Techniques en administration des affaires – administration publique en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.107 Techniques en administration des affaires – administration publique en mode coopératif
+# 10.14.107 Techniques en administration des affaires – administration publique en mode coopératif
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.58.35 Heavy Mechanical Technology"
+title: "10.66.35 Heavy Mechanical Technology"
 description: "Market > College Programs > Vancouver Community College > Heavy Mechanical Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.35 Heavy Mechanical Technology
+# 10.66.35 Heavy Mechanical Technology
 
 ## Glossary
 

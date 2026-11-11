@@ -1,10 +1,10 @@
 ---
-title: "10.40.50 Supply Chain Management"
+title: "10.46.50 Supply Chain Management"
 description: "Market > College Programs > Northern College > Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.50 Supply Chain Management
+# 10.46.50 Supply Chain Management
 
 ## Glossary
 

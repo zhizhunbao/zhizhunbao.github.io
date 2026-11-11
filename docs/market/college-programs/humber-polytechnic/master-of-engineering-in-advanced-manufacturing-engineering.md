@@ -1,10 +1,10 @@
 ---
-title: "10.24.94 Master of Engineering in Advanced Manufacturing Engineering"
+title: "10.28.94 Master of Engineering in Advanced Manufacturing Engineering"
 description: "Market > College Programs > Humber Polytechnic > Master of Engineering in Advanced Manufacturing Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.94 Master of Engineering in Advanced Manufacturing Engineering
+# 10.28.94 Master of Engineering in Advanced Manufacturing Engineering
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.1 Acupuncture"
+title: "10.28.1 Acupuncture"
 description: "Market > College Programs > Humber Polytechnic > Acupuncture: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.1 Acupuncture
+# 10.28.1 Acupuncture
 
 ## Glossary
 

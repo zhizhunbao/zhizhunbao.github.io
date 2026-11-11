@@ -1,10 +1,10 @@
 ---
-title: "10.22.148 Retirement and Assisted Care Management"
+title: "10.25.148 Retirement and Assisted Care Management"
 description: "Market > College Programs > Georgian College > Retirement and Assisted Care Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.148 Retirement and Assisted Care Management
+# 10.25.148 Retirement and Assisted Care Management
 
 ## Glossary
 

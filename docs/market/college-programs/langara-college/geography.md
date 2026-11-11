@@ -1,10 +1,10 @@
 ---
-title: "10.29.59 Geography"
+title: "10.33.59 Geography"
 description: "Market > College Programs > Langara College > Geography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.59 Geography
+# 10.33.59 Geography
 
 ## Glossary
 

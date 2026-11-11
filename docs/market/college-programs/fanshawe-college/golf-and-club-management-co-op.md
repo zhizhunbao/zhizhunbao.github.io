@@ -1,10 +1,10 @@
 ---
-title: "10.19.92 Golf and Club Management (Co-op)"
+title: "10.22.92 Golf and Club Management (Co-op)"
 description: "Market > College Programs > Fanshawe College > Golf and Club Management (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.92 Golf and Club Management (Co-op)
+# 10.22.92 Golf and Club Management (Co-op)
 
 ## Glossary
 

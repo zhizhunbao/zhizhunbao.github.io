@@ -1,10 +1,10 @@
 ---
-title: "10.16.28 Developmental Services Worker (0139)"
+title: "10.19.28 Developmental Services Worker (0139)"
 description: "Market > College Programs > Confederation College > Developmental Services Worker (0139): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.28 Developmental Services Worker (0139)
+# 10.19.28 Developmental Services Worker (0139)
 
 ## Glossary
 

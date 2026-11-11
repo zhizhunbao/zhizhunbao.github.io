@@ -1,10 +1,10 @@
 ---
-title: "10.56.51 Fashion Design Technician"
+title: "10.63.51 Fashion Design Technician"
 description: "Market > College Programs > St. Clair College > Fashion Design Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.51 Fashion Design Technician
+# 10.63.51 Fashion Design Technician
 
 ## Glossary
 

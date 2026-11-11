@@ -1,10 +1,10 @@
 ---
-title: "10.14.8 Associate of Science – Biology and Pre-Medicine"
+title: "10.17.8 Associate of Science – Biology and Pre-Medicine"
 description: "Market > College Programs > College of the Rockies > Associate of Science – Biology and Pre-Medicine: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.8 Associate of Science – Biology and Pre-Medicine
+# 10.17.8 Associate of Science – Biology and Pre-Medicine
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.21.11 Child and Youth Care (C133)"
+title: "10.24.11 Child and Youth Care (C133)"
 description: "Market > College Programs > George Brown Polytechnic > Child and Youth Care (C133): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.11 Child and Youth Care (C133)
+# 10.24.11 Child and Youth Care (C133)
 
 ## Glossary
 

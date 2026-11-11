@@ -1,10 +1,10 @@
 ---
-title: "10.44.69 Health Information Management (HIM)"
+title: "10.50.69 Health Information Management (HIM)"
 description: "Market > College Programs > Nova Scotia Community College > Health Information Management (HIM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.69 Health Information Management (HIM)
+# 10.50.69 Health Information Management (HIM)
 
 ## Glossary
 

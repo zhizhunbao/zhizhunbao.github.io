@@ -1,10 +1,10 @@
 ---
-title: "10.22.140 Pre-Engineering Techniques"
+title: "10.25.140 Pre-Engineering Techniques"
 description: "Market > College Programs > Georgian College > Pre-Engineering Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.140 Pre-Engineering Techniques
+# 10.25.140 Pre-Engineering Techniques
 
 ## Glossary
 

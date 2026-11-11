@@ -1,10 +1,10 @@
 ---
-title: "10.24.3 Advertising & Graphic Design"
+title: "10.28.3 Advertising & Graphic Design"
 description: "Market > College Programs > Humber Polytechnic > Advertising & Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.3 Advertising & Graphic Design
+# 10.28.3 Advertising & Graphic Design
 
 ## Glossary
 

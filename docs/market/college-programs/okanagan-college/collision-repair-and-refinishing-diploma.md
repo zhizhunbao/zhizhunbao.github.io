@@ -1,10 +1,10 @@
 ---
-title: "10.45.12 Collision Repair and Refinishing Diploma"
+title: "10.51.12 Collision Repair and Refinishing Diploma"
 description: "Market > College Programs > Okanagan College > Collision Repair and Refinishing Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.12 Collision Repair and Refinishing Diploma
+# 10.51.12 Collision Repair and Refinishing Diploma
 
 ## Glossary
 

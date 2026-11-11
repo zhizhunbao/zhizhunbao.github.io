@@ -1,10 +1,10 @@
 ---
-title: "10.11.21 Baccalauréat en cybersécurité et protection des données"
+title: "10.14.21 Baccalauréat en cybersécurité et protection des données"
 description: "Market > College Programs > Collège La Cité > Baccalauréat en cybersécurité et protection des données: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.21 Baccalauréat en cybersécurité et protection des données
+# 10.14.21 Baccalauréat en cybersécurité et protection des données
 
 ## Glossary
 

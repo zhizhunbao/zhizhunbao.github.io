@@ -1,10 +1,10 @@
 ---
-title: "10.15.124 Human Services Foundation"
+title: "10.18.124 Human Services Foundation"
 description: "Market > College Programs > Conestoga College > Human Services Foundation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.124 Human Services Foundation
+# 10.18.124 Human Services Foundation
 
 ## Glossary
 

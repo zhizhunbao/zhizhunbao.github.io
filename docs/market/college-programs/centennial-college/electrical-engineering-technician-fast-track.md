@@ -1,10 +1,10 @@
 ---
-title: "10.8.86 Electrical Engineering Technician (Fast-Track)"
+title: "10.9.86 Electrical Engineering Technician (Fast-Track)"
 description: "Market > College Programs > Centennial College > Electrical Engineering Technician (Fast-Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.86 Electrical Engineering Technician (Fast-Track)
+# 10.9.86 Electrical Engineering Technician (Fast-Track)
 
 ## Glossary
 

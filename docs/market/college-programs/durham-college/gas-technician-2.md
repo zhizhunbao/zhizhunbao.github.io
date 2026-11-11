@@ -1,10 +1,10 @@
 ---
-title: "10.18.63 Gas Technician 2"
+title: "10.21.63 Gas Technician 2"
 description: "Market > College Programs > Durham College > Gas Technician 2: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.63 Gas Technician 2
+# 10.21.63 Gas Technician 2
 
 ## Glossary
 

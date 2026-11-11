@@ -1,10 +1,10 @@
 ---
-title: "10.15.144 Mechanical Techniques - Gas and Sheet Metal"
+title: "10.18.144 Mechanical Techniques - Gas and Sheet Metal"
 description: "Market > College Programs > Conestoga College > Mechanical Techniques - Gas and Sheet Metal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.144 Mechanical Techniques - Gas and Sheet Metal
+# 10.18.144 Mechanical Techniques - Gas and Sheet Metal
 
 ## Glossary
 

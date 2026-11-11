@@ -1,10 +1,10 @@
 ---
-title: "10.48.27 Justice Studies Diploma"
+title: "10.54.27 Justice Studies Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Justice Studies Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.27 Justice Studies Diploma
+# 10.54.27 Justice Studies Diploma
 
 ## Glossary
 

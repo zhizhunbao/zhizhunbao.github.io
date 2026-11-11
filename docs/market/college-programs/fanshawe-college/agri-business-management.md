@@ -1,10 +1,10 @@
 ---
-title: "10.19.8 Agri-Business Management"
+title: "10.22.8 Agri-Business Management"
 description: "Market > College Programs > Fanshawe College > Agri-Business Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.8 Agri-Business Management
+# 10.22.8 Agri-Business Management
 
 ## Glossary
 

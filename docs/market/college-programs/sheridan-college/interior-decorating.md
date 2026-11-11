@@ -1,10 +1,10 @@
 ---
-title: "10.54.78 Interior Decorating"
+title: "10.60.78 Interior Decorating"
 description: "Market > College Programs > Sheridan College > Interior Decorating: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.78 Interior Decorating
+# 10.60.78 Interior Decorating
 
 ## Glossary
 

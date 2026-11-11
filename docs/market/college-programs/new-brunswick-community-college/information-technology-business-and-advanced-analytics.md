@@ -1,10 +1,10 @@
 ---
-title: "10.35.47 Information Technology: Business and Advanced Analytics"
+title: "10.40.47 Information Technology: Business and Advanced Analytics"
 description: "Market > College Programs > New Brunswick Community College > Information Technology: Business and Advanced Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.47 Information Technology: Business and Advanced Analytics
+# 10.40.47 Information Technology: Business and Advanced Analytics
 
 ## Glossary
 

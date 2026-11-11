@@ -1,10 +1,10 @@
 ---
-title: "10.8.44 Bridging to University Nursing for Registered Practical Nurses (RPNs) - Flexible"
+title: "10.9.44 Bridging to University Nursing for Registered Practical Nurses (RPNs) - Flexible"
 description: "Market > College Programs > Centennial College > Bridging to University Nursing for Registered Practical Nurses (RPNs) - Flexible: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.44 Bridging to University Nursing for Registered Practical Nurses (RPNs) - Flexible
+# 10.9.44 Bridging to University Nursing for Registered Practical Nurses (RPNs) - Flexible
 
 ## Glossary
 

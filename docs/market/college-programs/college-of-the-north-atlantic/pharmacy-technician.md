@@ -1,10 +1,10 @@
 ---
-title: "10.13.79 Pharmacy Technician"
+title: "10.16.79 Pharmacy Technician"
 description: "Market > College Programs > College of the North Atlantic > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.79 Pharmacy Technician
+# 10.16.79 Pharmacy Technician
 
 ## Glossary
 

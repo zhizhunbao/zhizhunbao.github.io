@@ -1,10 +1,10 @@
 ---
-title: "10.31.36 Human Resources Management (Online Post-graduate)"
+title: "10.35.36 Human Resources Management (Online Post-graduate)"
 description: "Market > College Programs > Loyalist College > Human Resources Management (Online Post-graduate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.36 Human Resources Management (Online Post-graduate)
+# 10.35.36 Human Resources Management (Online Post-graduate)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.161 Trades Fundamentals"
+title: "10.22.161 Trades Fundamentals"
 description: "Market > College Programs > Fanshawe College > Trades Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.161 Trades Fundamentals
+# 10.22.161 Trades Fundamentals
 
 ## Glossary
 

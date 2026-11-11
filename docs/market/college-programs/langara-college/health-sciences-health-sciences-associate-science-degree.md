@@ -1,10 +1,10 @@
 ---
-title: "10.29.61 Health Sciences (health-sciences-associate-science-degree)"
+title: "10.33.61 Health Sciences (health-sciences-associate-science-degree)"
 description: "Market > College Programs > Langara College > Health Sciences (health-sciences-associate-science-degree): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.61 Health Sciences (health-sciences-associate-science-degree)
+# 10.33.61 Health Sciences (health-sciences-associate-science-degree)
 
 ## Glossary
 

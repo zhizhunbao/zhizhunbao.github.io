@@ -1,10 +1,10 @@
 ---
-title: "10.12.27 Information Technology and Networking Certificate"
+title: "10.15.27 Information Technology and Networking Certificate"
 description: "Market > College Programs > College of New Caledonia > Information Technology and Networking Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.27 Information Technology and Networking Certificate
+# 10.15.27 Information Technology and Networking Certificate
 
 ## Glossary
 

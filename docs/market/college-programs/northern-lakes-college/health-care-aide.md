@@ -1,10 +1,10 @@
 ---
-title: "10.41.10 Health Care Aide"
+title: "10.47.10 Health Care Aide"
 description: "Market > College Programs > Northern Lakes College > Health Care Aide: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.10 Health Care Aide
+# 10.47.10 Health Care Aide
 
 ## Glossary
 

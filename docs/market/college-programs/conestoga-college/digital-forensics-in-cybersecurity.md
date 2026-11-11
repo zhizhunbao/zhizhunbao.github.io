@@ -1,10 +1,10 @@
 ---
-title: "10.15.87 Digital Forensics in Cybersecurity"
+title: "10.18.87 Digital Forensics in Cybersecurity"
 description: "Market > College Programs > Conestoga College > Digital Forensics in Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.87 Digital Forensics in Cybersecurity
+# 10.18.87 Digital Forensics in Cybersecurity
 
 ## Glossary
 

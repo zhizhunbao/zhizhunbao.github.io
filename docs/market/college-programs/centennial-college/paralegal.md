@@ -1,10 +1,10 @@
 ---
-title: "10.8.156 Paralegal"
+title: "10.9.156 Paralegal"
 description: "Market > College Programs > Centennial College > Paralegal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.156 Paralegal
+# 10.9.156 Paralegal
 
 ## Glossary
 

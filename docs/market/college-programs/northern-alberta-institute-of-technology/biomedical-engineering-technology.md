@@ -1,10 +1,10 @@
 ---
-title: "10.39.21 Biomedical Engineering Technology"
+title: "10.45.21 Biomedical Engineering Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Biomedical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.21 Biomedical Engineering Technology
+# 10.45.21 Biomedical Engineering Technology
 
 ## Glossary
 

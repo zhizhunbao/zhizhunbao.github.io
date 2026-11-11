@@ -1,10 +1,10 @@
 ---
-title: "10.49.59 Refrigeration Mechanical Trades"
+title: "10.55.59 Refrigeration Mechanical Trades"
 description: "Market > College Programs > Red River College Polytechnic > Refrigeration Mechanical Trades: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.59 Refrigeration Mechanical Trades
+# 10.55.59 Refrigeration Mechanical Trades
 
 ## Glossary
 

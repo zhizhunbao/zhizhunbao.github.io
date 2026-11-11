@@ -1,10 +1,10 @@
 ---
-title: "10.22.105 Interactive Media Design - Web"
+title: "10.25.105 Interactive Media Design - Web"
 description: "Market > College Programs > Georgian College > Interactive Media Design - Web: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.105 Interactive Media Design - Web
+# 10.25.105 Interactive Media Design - Web
 
 ## Glossary
 

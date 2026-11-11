@@ -1,10 +1,10 @@
 ---
-title: "10.11.2 Administration des affaires (61031)"
+title: "10.14.2 Administration des affaires (61031)"
 description: "Market > College Programs > Collège La Cité > Administration des affaires (61031): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.2 Administration des affaires (61031)
+# 10.14.2 Administration des affaires (61031)
 
 ## Glossary
 

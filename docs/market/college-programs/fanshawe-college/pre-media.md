@@ -1,10 +1,10 @@
 ---
-title: "10.19.148 Pre-Media"
+title: "10.22.148 Pre-Media"
 description: "Market > College Programs > Fanshawe College > Pre-Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.148 Pre-Media
+# 10.22.148 Pre-Media
 
 ## Glossary
 

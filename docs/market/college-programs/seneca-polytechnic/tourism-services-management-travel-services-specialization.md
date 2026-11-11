@@ -1,10 +1,10 @@
 ---
-title: "10.53.156 Tourism – Services Management – Travel Services Specialization"
+title: "10.59.156 Tourism – Services Management – Travel Services Specialization"
 description: "Market > College Programs > Seneca Polytechnic > Tourism – Services Management – Travel Services Specialization: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.156 Tourism – Services Management – Travel Services Specialization
+# 10.59.156 Tourism – Services Management – Travel Services Specialization
 
 ## Glossary
 

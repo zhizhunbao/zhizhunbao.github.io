@@ -1,10 +1,10 @@
 ---
-title: "10.31.27 Developmental Services Worker"
+title: "10.35.27 Developmental Services Worker"
 description: "Market > College Programs > Loyalist College > Developmental Services Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.27 Developmental Services Worker
+# 10.35.27 Developmental Services Worker
 
 ## Glossary
 

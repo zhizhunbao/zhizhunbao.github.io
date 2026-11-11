@@ -1,10 +1,10 @@
 ---
-title: "10.57.47 Hairstyling (Accelerated)"
+title: "10.64.47 Hairstyling (Accelerated)"
 description: "Market > College Programs > St. Lawrence College > Hairstyling (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.47 Hairstyling (Accelerated)
+# 10.64.47 Hairstyling (Accelerated)
 
 ## Glossary
 

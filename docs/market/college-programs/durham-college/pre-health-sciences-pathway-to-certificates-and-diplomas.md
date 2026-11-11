@@ -1,10 +1,10 @@
 ---
-title: "10.18.111 Pre-Health Sciences Pathway to Certificates and Diplomas"
+title: "10.21.111 Pre-Health Sciences Pathway to Certificates and Diplomas"
 description: "Market > College Programs > Durham College > Pre-Health Sciences Pathway to Certificates and Diplomas: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.111 Pre-Health Sciences Pathway to Certificates and Diplomas
+# 10.21.111 Pre-Health Sciences Pathway to Certificates and Diplomas
 
 ## Glossary
 

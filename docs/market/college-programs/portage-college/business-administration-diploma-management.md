@@ -1,10 +1,10 @@
 ---
-title: "10.47.7 Business Administration Diploma – Management"
+title: "10.53.7 Business Administration Diploma – Management"
 description: "Market > College Programs > Portage College > Business Administration Diploma – Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.7 Business Administration Diploma – Management
+# 10.53.7 Business Administration Diploma – Management
 
 ## Glossary
 

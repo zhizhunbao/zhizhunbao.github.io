@@ -1,10 +1,10 @@
 ---
-title: "10.12.7 Automotive Collision and Refinishing Foundation"
+title: "10.15.7 Automotive Collision and Refinishing Foundation"
 description: "Market > College Programs > College of New Caledonia > Automotive Collision and Refinishing Foundation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.7 Automotive Collision and Refinishing Foundation
+# 10.15.7 Automotive Collision and Refinishing Foundation
 
 ## Glossary
 

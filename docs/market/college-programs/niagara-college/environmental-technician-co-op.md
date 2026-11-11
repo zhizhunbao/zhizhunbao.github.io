@@ -1,10 +1,10 @@
 ---
-title: "10.36.44 Environmental Technician (Co-op)"
+title: "10.41.44 Environmental Technician (Co-op)"
 description: "Market > College Programs > Niagara College > Environmental Technician (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.44 Environmental Technician (Co-op)
+# 10.41.44 Environmental Technician (Co-op)
 
 ## Glossary
 

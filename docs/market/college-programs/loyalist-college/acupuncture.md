@@ -1,10 +1,10 @@
 ---
-title: "10.31.2 Acupuncture"
+title: "10.35.2 Acupuncture"
 description: "Market > College Programs > Loyalist College > Acupuncture: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.2 Acupuncture
+# 10.35.2 Acupuncture
 
 ## Glossary
 

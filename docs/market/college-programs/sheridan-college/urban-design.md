@@ -1,10 +1,10 @@
 ---
-title: "10.54.107 Urban Design"
+title: "10.60.107 Urban Design"
 description: "Market > College Programs > Sheridan College > Urban Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.107 Urban Design
+# 10.60.107 Urban Design
 
 ## Glossary
 

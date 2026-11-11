@@ -1,10 +1,10 @@
 ---
-title: "10.34.26 Career Pathways"
+title: "10.39.26 Career Pathways"
 description: "Market > College Programs > Mohawk College > Career Pathways: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.26 Career Pathways
+# 10.39.26 Career Pathways
 
 ## Glossary
 

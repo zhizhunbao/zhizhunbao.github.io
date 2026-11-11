@@ -1,10 +1,10 @@
 ---
-title: "10.34.73 Pharmacy Technician (Fast-Track)"
+title: "10.39.73 Pharmacy Technician (Fast-Track)"
 description: "Market > College Programs > Mohawk College > Pharmacy Technician (Fast-Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.73 Pharmacy Technician (Fast-Track)
+# 10.39.73 Pharmacy Technician (Fast-Track)
 
 ## Glossary
 

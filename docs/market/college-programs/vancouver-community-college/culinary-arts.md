@@ -1,10 +1,10 @@
 ---
-title: "10.58.18 Culinary Arts"
+title: "10.66.18 Culinary Arts"
 description: "Market > College Programs > Vancouver Community College > Culinary Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.18 Culinary Arts
+# 10.66.18 Culinary Arts
 
 ## Glossary
 

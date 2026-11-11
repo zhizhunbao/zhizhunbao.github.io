@@ -1,10 +1,10 @@
 ---
-title: "10.29.64 Health Sciences: Science"
+title: "10.33.64 Health Sciences: Science"
 description: "Market > College Programs > Langara College > Health Sciences: Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.64 Health Sciences: Science
+# 10.33.64 Health Sciences: Science
 
 ## Glossary
 

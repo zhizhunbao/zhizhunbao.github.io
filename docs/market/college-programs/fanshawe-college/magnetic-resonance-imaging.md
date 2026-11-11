@@ -1,10 +1,10 @@
 ---
-title: "10.19.115 Magnetic Resonance Imaging"
+title: "10.22.115 Magnetic Resonance Imaging"
 description: "Market > College Programs > Fanshawe College > Magnetic Resonance Imaging: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.115 Magnetic Resonance Imaging
+# 10.22.115 Magnetic Resonance Imaging
 
 ## Glossary
 

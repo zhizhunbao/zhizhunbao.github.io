@@ -1,10 +1,10 @@
 ---
-title: "10.8.50 Business - Marketing (Online)"
+title: "10.9.50 Business - Marketing (Online)"
 description: "Market > College Programs > Centennial College > Business - Marketing (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.50 Business - Marketing (Online)
+# 10.9.50 Business - Marketing (Online)
 
 ## Glossary
 

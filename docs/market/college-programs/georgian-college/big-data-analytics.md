@@ -1,10 +1,10 @@
 ---
-title: "10.22.16 Big Data Analytics"
+title: "10.25.16 Big Data Analytics"
 description: "Market > College Programs > Georgian College > Big Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.16 Big Data Analytics
+# 10.25.16 Big Data Analytics
 
 ## Glossary
 

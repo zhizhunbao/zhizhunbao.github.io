@@ -1,10 +1,10 @@
 ---
-title: "10.8.1 Academic and Career Entrance (ACE) – Certificate"
+title: "10.9.1 Academic and Career Entrance (ACE) – Certificate"
 description: "Market > College Programs > Centennial College > Academic and Career Entrance (ACE) – Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.1 Academic and Career Entrance (ACE) – Certificate
+# 10.9.1 Academic and Career Entrance (ACE) – Certificate
 
 ## Glossary
 

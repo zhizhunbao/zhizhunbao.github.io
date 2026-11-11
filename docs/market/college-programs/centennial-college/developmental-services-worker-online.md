@@ -1,10 +1,10 @@
 ---
-title: "10.8.79 Developmental Services Worker (Online)"
+title: "10.9.79 Developmental Services Worker (Online)"
 description: "Market > College Programs > Centennial College > Developmental Services Worker (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.79 Developmental Services Worker (Online)
+# 10.9.79 Developmental Services Worker (Online)
 
 ## Glossary
 

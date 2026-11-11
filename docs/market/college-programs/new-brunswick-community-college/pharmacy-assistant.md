@@ -1,10 +1,10 @@
 ---
-title: "10.35.65 Pharmacy Assistant"
+title: "10.40.65 Pharmacy Assistant"
 description: "Market > College Programs > New Brunswick Community College > Pharmacy Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.65 Pharmacy Assistant
+# 10.40.65 Pharmacy Assistant
 
 ## Glossary
 

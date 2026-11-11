@@ -1,10 +1,10 @@
 ---
-title: "10.50.8 Bachelor of Construction Management"
+title: "10.56.8 Bachelor of Construction Management"
 description: "Market > College Programs > Saskatchewan Polytechnic > Bachelor of Construction Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.8 Bachelor of Construction Management
+# 10.56.8 Bachelor of Construction Management
 
 ## Glossary
 

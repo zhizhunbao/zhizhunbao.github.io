@@ -1,10 +1,10 @@
 ---
-title: "10.22.23 Business - Agriculture"
+title: "10.25.23 Business - Agriculture"
 description: "Market > College Programs > Georgian College > Business - Agriculture: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.23 Business - Agriculture
+# 10.25.23 Business - Agriculture
 
 ## Glossary
 

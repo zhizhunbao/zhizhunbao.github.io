@@ -1,10 +1,10 @@
 ---
-title: "10.58.34 Health Care Assistant"
+title: "10.66.34 Health Care Assistant"
 description: "Market > College Programs > Vancouver Community College > Health Care Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.34 Health Care Assistant
+# 10.66.34 Health Care Assistant
 
 ## Glossary
 

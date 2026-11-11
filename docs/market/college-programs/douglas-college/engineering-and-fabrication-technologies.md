@@ -1,10 +1,10 @@
 ---
-title: "10.17.41 Engineering and Fabrication Technologies"
+title: "10.20.41 Engineering and Fabrication Technologies"
 description: "Market > College Programs > Douglas College > Engineering and Fabrication Technologies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.41 Engineering and Fabrication Technologies
+# 10.20.41 Engineering and Fabrication Technologies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.23 Automotive Service Technician Pre-Apprenticeship"
+title: "10.9.23 Automotive Service Technician Pre-Apprenticeship"
 description: "Market > College Programs > Centennial College > Automotive Service Technician Pre-Apprenticeship: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.23 Automotive Service Technician Pre-Apprenticeship
+# 10.9.23 Automotive Service Technician Pre-Apprenticeship
 
 ## Glossary
 

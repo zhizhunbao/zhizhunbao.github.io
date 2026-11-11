@@ -1,10 +1,10 @@
 ---
-title: "10.21.36 Electromechanical Engineering Technology - Power and Control"
+title: "10.24.36 Electromechanical Engineering Technology - Power and Control"
 description: "Market > College Programs > George Brown Polytechnic > Electromechanical Engineering Technology - Power and Control: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.36 Electromechanical Engineering Technology - Power and Control
+# 10.24.36 Electromechanical Engineering Technology - Power and Control
 
 ## Glossary
 

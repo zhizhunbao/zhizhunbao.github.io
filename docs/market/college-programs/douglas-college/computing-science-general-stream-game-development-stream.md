@@ -1,10 +1,10 @@
 ---
-title: "10.17.34 Computing Science General stream Game Development stream"
+title: "10.20.34 Computing Science General stream Game Development stream"
 description: "Market > College Programs > Douglas College > Computing Science General stream Game Development stream: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.34 Computing Science General stream Game Development stream
+# 10.20.34 Computing Science General stream Game Development stream
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.1 Accounting – Business"
+title: "10.21.1 Accounting – Business"
 description: "Market > College Programs > Durham College > Accounting – Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.1 Accounting – Business
+# 10.21.1 Accounting – Business
 
 ## Glossary
 

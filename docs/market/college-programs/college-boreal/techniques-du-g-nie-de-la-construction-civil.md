@@ -1,10 +1,10 @@
 ---
-title: "10.10.48 Techniques du génie de la construction-civil"
+title: "10.11.48 Techniques du génie de la construction-civil"
 description: "Market > College Programs > Collège Boréal > Techniques du génie de la construction-civil: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.48 Techniques du génie de la construction-civil
+# 10.11.48 Techniques du génie de la construction-civil
 
 ## Glossary
 

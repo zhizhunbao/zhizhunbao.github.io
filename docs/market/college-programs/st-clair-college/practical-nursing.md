@@ -1,10 +1,10 @@
 ---
-title: "10.56.99 Practical Nursing"
+title: "10.63.99 Practical Nursing"
 description: "Market > College Programs > St. Clair College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.99 Practical Nursing
+# 10.63.99 Practical Nursing
 
 ## Glossary
 

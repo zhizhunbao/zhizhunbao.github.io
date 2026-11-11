@@ -1,10 +1,10 @@
 ---
-title: "10.34.1 Addictions and Mental Health"
+title: "10.39.1 Addictions and Mental Health"
 description: "Market > College Programs > Mohawk College > Addictions and Mental Health: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.1 Addictions and Mental Health
+# 10.39.1 Addictions and Mental Health
 
 ## Glossary
 

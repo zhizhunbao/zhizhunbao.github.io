@@ -1,10 +1,10 @@
 ---
-title: "10.50.55 Welding"
+title: "10.56.55 Welding"
 description: "Market > College Programs > Saskatchewan Polytechnic > Welding: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.55 Welding
+# 10.56.55 Welding
 
 ## Glossary
 

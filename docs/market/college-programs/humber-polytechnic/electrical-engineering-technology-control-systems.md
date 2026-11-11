@@ -1,10 +1,10 @@
 ---
-title: "10.24.65 Electrical Engineering Technology - Control Systems"
+title: "10.28.65 Electrical Engineering Technology - Control Systems"
 description: "Market > College Programs > Humber Polytechnic > Electrical Engineering Technology - Control Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.65 Electrical Engineering Technology - Control Systems
+# 10.28.65 Electrical Engineering Technology - Control Systems
 
 ## Glossary
 

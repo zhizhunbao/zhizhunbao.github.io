@@ -1,10 +1,10 @@
 ---
-title: "10.8.66 Computer Systems Technician - Networking"
+title: "10.9.66 Computer Systems Technician - Networking"
 description: "Market > College Programs > Centennial College > Computer Systems Technician - Networking: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.66 Computer Systems Technician - Networking
+# 10.9.66 Computer Systems Technician - Networking
 
 ## Glossary
 

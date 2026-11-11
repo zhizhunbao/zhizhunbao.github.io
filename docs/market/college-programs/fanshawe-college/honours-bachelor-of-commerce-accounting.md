@@ -1,10 +1,10 @@
 ---
-title: "10.19.101 Honours Bachelor of Commerce (Accounting)"
+title: "10.22.101 Honours Bachelor of Commerce (Accounting)"
 description: "Market > College Programs > Fanshawe College > Honours Bachelor of Commerce (Accounting): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.101 Honours Bachelor of Commerce (Accounting)
+# 10.22.101 Honours Bachelor of Commerce (Accounting)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.11.83 Soins paramédicaux avancés"
+title: "10.14.83 Soins paramédicaux avancés"
 description: "Market > College Programs > Collège La Cité > Soins paramédicaux avancés: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.83 Soins paramédicaux avancés
+# 10.14.83 Soins paramédicaux avancés
 
 ## Glossary
 

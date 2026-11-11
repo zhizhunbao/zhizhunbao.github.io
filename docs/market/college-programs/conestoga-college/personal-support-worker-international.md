@@ -1,10 +1,10 @@
 ---
-title: "10.15.164 Personal Support Worker - International"
+title: "10.18.164 Personal Support Worker - International"
 description: "Market > College Programs > Conestoga College > Personal Support Worker - International: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.164 Personal Support Worker - International
+# 10.18.164 Personal Support Worker - International
 
 ## Glossary
 

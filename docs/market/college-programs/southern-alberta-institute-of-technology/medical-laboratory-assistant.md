@@ -1,10 +1,10 @@
 ---
-title: "10.55.89 Medical Laboratory Assistant"
+title: "10.62.89 Medical Laboratory Assistant"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Medical Laboratory Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.89 Medical Laboratory Assistant
+# 10.62.89 Medical Laboratory Assistant
 
 ## Glossary
 

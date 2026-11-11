@@ -1,10 +1,10 @@
 ---
-title: "10.9.12 Environmental Geoscience Specialization"
+title: "10.10.12 Environmental Geoscience Specialization"
 description: "Market > College Programs > Coast Mountain College > Environmental Geoscience Specialization: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.9.12 Environmental Geoscience Specialization
+# 10.10.12 Environmental Geoscience Specialization
 
 ## Glossary
 

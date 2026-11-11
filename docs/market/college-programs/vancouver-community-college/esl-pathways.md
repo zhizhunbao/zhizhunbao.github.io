@@ -1,10 +1,10 @@
 ---
-title: "10.58.26 ESL Pathways"
+title: "10.66.26 ESL Pathways"
 description: "Market > College Programs > Vancouver Community College > ESL Pathways: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.26 ESL Pathways
+# 10.66.26 ESL Pathways
 
 ## Glossary
 

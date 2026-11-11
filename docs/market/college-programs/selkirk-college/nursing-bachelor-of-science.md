@@ -1,10 +1,10 @@
 ---
-title: "10.52.56 Nursing - Bachelor of Science"
+title: "10.58.56 Nursing - Bachelor of Science"
 description: "Market > College Programs > Selkirk College > Nursing - Bachelor of Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.56 Nursing - Bachelor of Science
+# 10.58.56 Nursing - Bachelor of Science
 
 ## Glossary
 

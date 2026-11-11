@@ -1,10 +1,10 @@
 ---
-title: "10.50.22 Cyber Security"
+title: "10.56.22 Cyber Security"
 description: "Market > College Programs > Saskatchewan Polytechnic > Cyber Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.22 Cyber Security
+# 10.56.22 Cyber Security
 
 ## Glossary
 

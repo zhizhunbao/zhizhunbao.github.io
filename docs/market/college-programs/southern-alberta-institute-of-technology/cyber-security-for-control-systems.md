@@ -1,10 +1,10 @@
 ---
-title: "10.55.45 Cyber Security for Control Systems"
+title: "10.62.45 Cyber Security for Control Systems"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Cyber Security for Control Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.45 Cyber Security for Control Systems
+# 10.62.45 Cyber Security for Control Systems
 
 ## Glossary
 

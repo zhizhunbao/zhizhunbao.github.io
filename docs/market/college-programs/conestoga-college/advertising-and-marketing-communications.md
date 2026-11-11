@@ -1,10 +1,10 @@
 ---
-title: "10.15.3 Advertising and Marketing Communications"
+title: "10.18.3 Advertising and Marketing Communications"
 description: "Market > College Programs > Conestoga College > Advertising and Marketing Communications: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.3 Advertising and Marketing Communications
+# 10.18.3 Advertising and Marketing Communications
 
 ## Glossary
 

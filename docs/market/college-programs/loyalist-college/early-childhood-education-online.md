@@ -1,10 +1,10 @@
 ---
-title: "10.31.29 Early Childhood Education (Online)"
+title: "10.35.29 Early Childhood Education (Online)"
 description: "Market > College Programs > Loyalist College > Early Childhood Education (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.29 Early Childhood Education (Online)
+# 10.35.29 Early Childhood Education (Online)
 
 ## Glossary
 

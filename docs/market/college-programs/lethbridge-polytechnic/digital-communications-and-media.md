@@ -1,10 +1,10 @@
 ---
-title: "10.30.21 Digital Communications and Media"
+title: "10.34.21 Digital Communications and Media"
 description: "Market > College Programs > Lethbridge Polytechnic > Digital Communications and Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.21 Digital Communications and Media
+# 10.34.21 Digital Communications and Media
 
 ## Glossary
 

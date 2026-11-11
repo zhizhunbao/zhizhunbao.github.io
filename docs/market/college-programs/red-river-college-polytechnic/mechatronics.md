@@ -1,10 +1,10 @@
 ---
-title: "10.49.49 Mechatronics"
+title: "10.55.49 Mechatronics"
 description: "Market > College Programs > Red River College Polytechnic > Mechatronics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.49 Mechatronics
+# 10.55.49 Mechatronics
 
 ## Glossary
 

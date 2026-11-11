@@ -1,10 +1,10 @@
 ---
-title: "10.17.17 Bachelor of Arts in Therapeutic Recreation"
+title: "10.20.17 Bachelor of Arts in Therapeutic Recreation"
 description: "Market > College Programs > Douglas College > Bachelor of Arts in Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.17 Bachelor of Arts in Therapeutic Recreation
+# 10.20.17 Bachelor of Arts in Therapeutic Recreation
 
 ## Glossary
 

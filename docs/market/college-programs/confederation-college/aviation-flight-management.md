@@ -1,10 +1,10 @@
 ---
-title: "10.16.6 Aviation - Flight Management"
+title: "10.19.6 Aviation - Flight Management"
 description: "Market > College Programs > Confederation College > Aviation - Flight Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.6 Aviation - Flight Management
+# 10.19.6 Aviation - Flight Management
 
 ## Glossary
 

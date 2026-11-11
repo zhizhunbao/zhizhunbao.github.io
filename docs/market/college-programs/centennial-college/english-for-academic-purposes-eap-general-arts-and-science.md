@@ -1,10 +1,10 @@
 ---
-title: "10.8.98 English for Academic Purposes (EAP) - General Arts and Science"
+title: "10.9.98 English for Academic Purposes (EAP) - General Arts and Science"
 description: "Market > College Programs > Centennial College > English for Academic Purposes (EAP) - General Arts and Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.98 English for Academic Purposes (EAP) - General Arts and Science
+# 10.9.98 English for Academic Purposes (EAP) - General Arts and Science
 
 ## Glossary
 

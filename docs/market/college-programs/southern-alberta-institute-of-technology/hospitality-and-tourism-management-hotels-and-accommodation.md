@@ -1,10 +1,10 @@
 ---
-title: "10.55.68 Hospitality and Tourism Management - Hotels and Accommodation"
+title: "10.62.68 Hospitality and Tourism Management - Hotels and Accommodation"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Hospitality and Tourism Management - Hotels and Accommodation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.68 Hospitality and Tourism Management - Hotels and Accommodation
+# 10.62.68 Hospitality and Tourism Management - Hotels and Accommodation
 
 ## Glossary
 

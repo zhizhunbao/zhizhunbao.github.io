@@ -1,10 +1,10 @@
 ---
-title: "10.34.39 Construction Engineering Technician - Building Renovation"
+title: "10.39.39 Construction Engineering Technician - Building Renovation"
 description: "Market > College Programs > Mohawk College > Construction Engineering Technician - Building Renovation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.39 Construction Engineering Technician - Building Renovation
+# 10.39.39 Construction Engineering Technician - Building Renovation
 
 ## Glossary
 

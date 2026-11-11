@@ -1,10 +1,10 @@
 ---
-title: "10.24.21 Bachelor of Engineering - Information Systems Engineering"
+title: "10.28.21 Bachelor of Engineering - Information Systems Engineering"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Engineering - Information Systems Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.21 Bachelor of Engineering - Information Systems Engineering
+# 10.28.21 Bachelor of Engineering - Information Systems Engineering
 
 ## Glossary
 

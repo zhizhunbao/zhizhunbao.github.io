@@ -1,10 +1,10 @@
 ---
-title: "10.56.52 Fitness & Health Promotion"
+title: "10.63.52 Fitness & Health Promotion"
 description: "Market > College Programs > St. Clair College > Fitness & Health Promotion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.52 Fitness & Health Promotion
+# 10.63.52 Fitness & Health Promotion
 
 ## Glossary
 

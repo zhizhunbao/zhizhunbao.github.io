@@ -1,10 +1,10 @@
 ---
-title: "10.36.11 Business Administration – Accounting"
+title: "10.41.11 Business Administration – Accounting"
 description: "Market > College Programs > Niagara College > Business Administration – Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.11 Business Administration – Accounting
+# 10.41.11 Business Administration – Accounting
 
 ## Glossary
 

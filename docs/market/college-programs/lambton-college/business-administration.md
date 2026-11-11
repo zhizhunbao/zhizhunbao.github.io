@@ -1,10 +1,10 @@
 ---
-title: "10.28.32 Business Administration"
+title: "10.32.32 Business Administration"
 description: "Market > College Programs > Lambton College > Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.32 Business Administration
+# 10.32.32 Business Administration
 
 ## Glossary
 

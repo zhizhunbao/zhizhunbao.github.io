@@ -1,10 +1,10 @@
 ---
-title: "10.28.85 Hairstylist"
+title: "10.32.85 Hairstylist"
 description: "Market > College Programs > Lambton College > Hairstylist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.85 Hairstylist
+# 10.32.85 Hairstylist
 
 ## Glossary
 

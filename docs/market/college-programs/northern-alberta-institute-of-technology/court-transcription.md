@@ -1,10 +1,10 @@
 ---
-title: "10.39.39 Court Transcription"
+title: "10.45.39 Court Transcription"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Court Transcription: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.39 Court Transcription
+# 10.45.39 Court Transcription
 
 ## Glossary
 

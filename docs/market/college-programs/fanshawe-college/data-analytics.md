@@ -1,10 +1,10 @@
 ---
-title: "10.19.62 Data Analytics"
+title: "10.22.62 Data Analytics"
 description: "Market > College Programs > Fanshawe College > Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.62 Data Analytics
+# 10.22.62 Data Analytics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.40 Cardiovascular Technology"
+title: "10.28.40 Cardiovascular Technology"
 description: "Market > College Programs > Humber Polytechnic > Cardiovascular Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.40 Cardiovascular Technology
+# 10.28.40 Cardiovascular Technology
 
 ## Glossary
 

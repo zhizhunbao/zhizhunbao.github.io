@@ -1,10 +1,10 @@
 ---
-title: "10.17.10 Advanced Human Resource Management"
+title: "10.20.10 Advanced Human Resource Management"
 description: "Market > College Programs > Douglas College > Advanced Human Resource Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.10 Advanced Human Resource Management
+# 10.20.10 Advanced Human Resource Management
 
 ## Glossary
 

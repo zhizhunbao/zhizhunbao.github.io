@@ -1,10 +1,10 @@
 ---
-title: "10.56.46 Electromechanical Engineering Technology - Robotics"
+title: "10.63.46 Electromechanical Engineering Technology - Robotics"
 description: "Market > College Programs > St. Clair College > Electromechanical Engineering Technology - Robotics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.46 Electromechanical Engineering Technology - Robotics
+# 10.63.46 Electromechanical Engineering Technology - Robotics
 
 ## Glossary
 

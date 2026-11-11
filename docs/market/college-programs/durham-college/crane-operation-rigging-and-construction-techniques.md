@@ -1,10 +1,10 @@
 ---
-title: "10.18.39 Crane Operation, Rigging and Construction Techniques"
+title: "10.21.39 Crane Operation, Rigging and Construction Techniques"
 description: "Market > College Programs > Durham College > Crane Operation, Rigging and Construction Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.39 Crane Operation, Rigging and Construction Techniques
+# 10.21.39 Crane Operation, Rigging and Construction Techniques
 
 ## Glossary
 

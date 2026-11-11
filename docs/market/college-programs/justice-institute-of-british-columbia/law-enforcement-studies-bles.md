@@ -1,10 +1,10 @@
 ---
-title: "10.25.20 Law Enforcement Studies (BLES)"
+title: "10.29.20 Law Enforcement Studies (BLES)"
 description: "Market > College Programs > Justice Institute of British Columbia > Law Enforcement Studies (BLES): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.20 Law Enforcement Studies (BLES)
+# 10.29.20 Law Enforcement Studies (BLES)
 
 ## Glossary
 

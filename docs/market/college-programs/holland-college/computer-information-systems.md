@@ -1,10 +1,10 @@
 ---
-title: "10.23.14 Computer Information Systems"
+title: "10.27.14 Computer Information Systems"
 description: "Market > College Programs > Holland College > Computer Information Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.14 Computer Information Systems
+# 10.27.14 Computer Information Systems
 
 ## Glossary
 

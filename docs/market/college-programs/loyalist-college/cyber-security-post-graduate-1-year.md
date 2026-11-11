@@ -1,10 +1,10 @@
 ---
-title: "10.31.24 Cyber Security (Post-graduate) 1-Year"
+title: "10.35.24 Cyber Security (Post-graduate) 1-Year"
 description: "Market > College Programs > Loyalist College > Cyber Security (Post-graduate) 1-Year: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.24 Cyber Security (Post-graduate) 1-Year
+# 10.35.24 Cyber Security (Post-graduate) 1-Year
 
 ## Glossary
 

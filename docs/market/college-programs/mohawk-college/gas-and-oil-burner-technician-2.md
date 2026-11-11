@@ -1,10 +1,10 @@
 ---
-title: "10.34.52 Gas and Oil Burner Technician 2"
+title: "10.39.52 Gas and Oil Burner Technician 2"
 description: "Market > College Programs > Mohawk College > Gas and Oil Burner Technician 2: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.52 Gas and Oil Burner Technician 2
+# 10.39.52 Gas and Oil Burner Technician 2
 
 ## Glossary
 

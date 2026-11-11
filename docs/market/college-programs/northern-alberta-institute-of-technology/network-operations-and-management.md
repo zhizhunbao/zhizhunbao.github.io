@@ -1,10 +1,10 @@
 ---
-title: "10.39.83 Network Operations and Management"
+title: "10.45.83 Network Operations and Management"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Network Operations and Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.83 Network Operations and Management
+# 10.45.83 Network Operations and Management
 
 ## Glossary
 

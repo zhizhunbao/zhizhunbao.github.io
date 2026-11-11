@@ -1,10 +1,10 @@
 ---
-title: "10.53.84 Honours Bachelor of Child Development"
+title: "10.59.84 Honours Bachelor of Child Development"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Child Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.84 Honours Bachelor of Child Development
+# 10.59.84 Honours Bachelor of Child Development
 
 ## Glossary
 

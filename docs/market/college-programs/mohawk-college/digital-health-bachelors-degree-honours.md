@@ -1,10 +1,10 @@
 ---
-title: "10.34.44 Digital Health Bachelors Degree (Honours)"
+title: "10.39.44 Digital Health Bachelors Degree (Honours)"
 description: "Market > College Programs > Mohawk College > Digital Health Bachelors Degree (Honours): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.44 Digital Health Bachelors Degree (Honours)
+# 10.39.44 Digital Health Bachelors Degree (Honours)
 
 ## Glossary
 

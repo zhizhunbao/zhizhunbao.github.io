@@ -1,10 +1,10 @@
 ---
-title: "10.42.5 Criminology Diploma"
+title: "10.48.5 Criminology Diploma"
 description: "Market > College Programs > Northern Lights College > Criminology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.5 Criminology Diploma
+# 10.48.5 Criminology Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.56.66 Liberal Arts"
+title: "10.63.66 Liberal Arts"
 description: "Market > College Programs > St. Clair College > Liberal Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.66 Liberal Arts
+# 10.63.66 Liberal Arts
 
 ## Glossary
 

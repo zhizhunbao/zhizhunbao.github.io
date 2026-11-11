@@ -1,10 +1,10 @@
 ---
-title: "10.44.40 Diesel Repair – Industrial and Marine"
+title: "10.50.40 Diesel Repair – Industrial and Marine"
 description: "Market > College Programs > Nova Scotia Community College > Diesel Repair – Industrial and Marine: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.40 Diesel Repair – Industrial and Marine
+# 10.50.40 Diesel Repair – Industrial and Marine
 
 ## Glossary
 

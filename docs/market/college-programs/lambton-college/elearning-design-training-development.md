@@ -1,10 +1,10 @@
 ---
-title: "10.28.67 Elearning Design & Training Development"
+title: "10.32.67 Elearning Design & Training Development"
 description: "Market > College Programs > Lambton College > Elearning Design & Training Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.67 Elearning Design & Training Development
+# 10.32.67 Elearning Design & Training Development
 
 ## Glossary
 

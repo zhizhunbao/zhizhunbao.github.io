@@ -1,10 +1,10 @@
 ---
-title: "10.15.9 Bachelor of Animation"
+title: "10.18.9 Bachelor of Animation"
 description: "Market > College Programs > Conestoga College > Bachelor of Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.9 Bachelor of Animation
+# 10.18.9 Bachelor of Animation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.33.16 Health Care Aide"
+title: "10.38.16 Health Care Aide"
 description: "Market > College Programs > Medicine Hat College > Health Care Aide: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.16 Health Care Aide
+# 10.38.16 Health Care Aide
 
 ## Glossary
 

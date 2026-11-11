@@ -1,10 +1,10 @@
 ---
-title: "10.19.162 Veterinary Assistant"
+title: "10.22.162 Veterinary Assistant"
 description: "Market > College Programs > Fanshawe College > Veterinary Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.162 Veterinary Assistant
+# 10.22.162 Veterinary Assistant
 
 ## Glossary
 

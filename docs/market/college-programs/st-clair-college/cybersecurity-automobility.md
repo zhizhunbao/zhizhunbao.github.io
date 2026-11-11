@@ -1,10 +1,10 @@
 ---
-title: "10.56.30 Cybersecurity - Automobility"
+title: "10.63.30 Cybersecurity - Automobility"
 description: "Market > College Programs > St. Clair College > Cybersecurity - Automobility: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.30 Cybersecurity - Automobility
+# 10.63.30 Cybersecurity - Automobility
 
 ## Glossary
 

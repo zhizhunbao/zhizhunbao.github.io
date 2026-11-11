@@ -1,10 +1,10 @@
 ---
-title: "10.22.159 Welding Techniques"
+title: "10.25.159 Welding Techniques"
 description: "Market > College Programs > Georgian College > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.159 Welding Techniques
+# 10.25.159 Welding Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.11.60 Programmation informatique"
+title: "10.14.60 Programmation informatique"
 description: "Market > College Programs > Collège La Cité > Programmation informatique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.60 Programmation informatique
+# 10.14.60 Programmation informatique
 
 ## Glossary
 

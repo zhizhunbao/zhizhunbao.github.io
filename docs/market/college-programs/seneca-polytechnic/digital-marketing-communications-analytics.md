@@ -1,10 +1,10 @@
 ---
-title: "10.53.52 Digital Marketing Communications & Analytics"
+title: "10.59.52 Digital Marketing Communications & Analytics"
 description: "Market > College Programs > Seneca Polytechnic > Digital Marketing Communications & Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.52 Digital Marketing Communications & Analytics
+# 10.59.52 Digital Marketing Communications & Analytics
 
 ## Glossary
 

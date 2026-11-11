@@ -1,10 +1,10 @@
 ---
-title: "10.9.10 Criminology Specialization"
+title: "10.10.10 Criminology Specialization"
 description: "Market > College Programs > Coast Mountain College > Criminology Specialization: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.9.10 Criminology Specialization
+# 10.10.10 Criminology Specialization
 
 ## Glossary
 

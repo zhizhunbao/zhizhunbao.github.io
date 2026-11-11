@@ -1,10 +1,10 @@
 ---
-title: "10.20.63 Practical Nursing (HyFlex - Asynchronous Online)"
+title: "10.23.63 Practical Nursing (HyFlex - Asynchronous Online)"
 description: "Market > College Programs > Fleming College > Practical Nursing (HyFlex - Asynchronous Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.63 Practical Nursing (HyFlex - Asynchronous Online)
+# 10.23.63 Practical Nursing (HyFlex - Asynchronous Online)
 
 ## Glossary
 

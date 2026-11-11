@@ -1,10 +1,10 @@
 ---
-title: "10.13.48 Graphic Communications"
+title: "10.16.48 Graphic Communications"
 description: "Market > College Programs > College of the North Atlantic > Graphic Communications: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.48 Graphic Communications
+# 10.16.48 Graphic Communications
 
 ## Glossary
 

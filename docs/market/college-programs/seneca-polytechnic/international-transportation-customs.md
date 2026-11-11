@@ -1,10 +1,10 @@
 ---
-title: "10.53.111 International Transportation & Customs"
+title: "10.59.111 International Transportation & Customs"
 description: "Market > College Programs > Seneca Polytechnic > International Transportation & Customs: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.111 International Transportation & Customs
+# 10.59.111 International Transportation & Customs
 
 ## Glossary
 

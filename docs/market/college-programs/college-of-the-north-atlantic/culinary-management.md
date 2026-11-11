@@ -1,10 +1,10 @@
 ---
-title: "10.13.30 Culinary Management"
+title: "10.16.30 Culinary Management"
 description: "Market > College Programs > College of the North Atlantic > Culinary Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.30 Culinary Management
+# 10.16.30 Culinary Management
 
 ## Glossary
 

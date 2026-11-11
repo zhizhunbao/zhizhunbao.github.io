@@ -1,10 +1,10 @@
 ---
-title: "10.19.5 Advanced Care Paramedic"
+title: "10.22.5 Advanced Care Paramedic"
 description: "Market > College Programs > Fanshawe College > Advanced Care Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.5 Advanced Care Paramedic
+# 10.22.5 Advanced Care Paramedic
 
 ## Glossary
 

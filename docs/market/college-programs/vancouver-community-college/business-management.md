@@ -1,10 +1,10 @@
 ---
-title: "10.58.13 Business Management"
+title: "10.66.13 Business Management"
 description: "Market > College Programs > Vancouver Community College > Business Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.13 Business Management
+# 10.66.13 Business Management
 
 ## Glossary
 

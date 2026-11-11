@@ -1,10 +1,10 @@
 ---
-title: "10.8.71 Contemporary Journalism"
+title: "10.9.71 Contemporary Journalism"
 description: "Market > College Programs > Centennial College > Contemporary Journalism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.71 Contemporary Journalism
+# 10.9.71 Contemporary Journalism
 
 ## Glossary
 

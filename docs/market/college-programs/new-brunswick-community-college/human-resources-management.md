@@ -1,10 +1,10 @@
 ---
-title: "10.35.42 Human Resources Management"
+title: "10.40.42 Human Resources Management"
 description: "Market > College Programs > New Brunswick Community College > Human Resources Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.42 Human Resources Management
+# 10.40.42 Human Resources Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.109 Game – Programming (Optional Co-op)"
+title: "10.9.109 Game – Programming (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Game – Programming (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.109 Game – Programming (Optional Co-op)
+# 10.9.109 Game – Programming (Optional Co-op)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.55.99 Ophthalmic and Optometric Assisting"
+title: "10.62.99 Ophthalmic and Optometric Assisting"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Ophthalmic and Optometric Assisting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.99 Ophthalmic and Optometric Assisting
+# 10.62.99 Ophthalmic and Optometric Assisting
 
 ## Glossary
 

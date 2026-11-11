@@ -1,10 +1,10 @@
 ---
-title: "10.39.63 Industrial Heavy Equipment Technology"
+title: "10.45.63 Industrial Heavy Equipment Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Industrial Heavy Equipment Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.63 Industrial Heavy Equipment Technology
+# 10.45.63 Industrial Heavy Equipment Technology
 
 ## Glossary
 

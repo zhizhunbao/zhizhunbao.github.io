@@ -1,10 +1,10 @@
 ---
-title: "10.8.182 Sports Journalism"
+title: "10.9.182 Sports Journalism"
 description: "Market > College Programs > Centennial College > Sports Journalism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.182 Sports Journalism
+# 10.9.182 Sports Journalism
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.142 Museum and Cultural Management"
+title: "10.9.142 Museum and Cultural Management"
 description: "Market > College Programs > Centennial College > Museum and Cultural Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.142 Museum and Cultural Management
+# 10.9.142 Museum and Cultural Management
 
 ## Glossary
 

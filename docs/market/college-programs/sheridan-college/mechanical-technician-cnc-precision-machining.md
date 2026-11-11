@@ -1,10 +1,10 @@
 ---
-title: "10.54.84 Mechanical Technician – CNC & Precision Machining"
+title: "10.60.84 Mechanical Technician – CNC & Precision Machining"
 description: "Market > College Programs > Sheridan College > Mechanical Technician – CNC & Precision Machining: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.84 Mechanical Technician – CNC & Precision Machining
+# 10.60.84 Mechanical Technician – CNC & Precision Machining
 
 ## Glossary
 

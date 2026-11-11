@@ -1,10 +1,10 @@
 ---
-title: "10.53.68 Financial Services Compliance Administration"
+title: "10.59.68 Financial Services Compliance Administration"
 description: "Market > College Programs > Seneca Polytechnic > Financial Services Compliance Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.68 Financial Services Compliance Administration
+# 10.59.68 Financial Services Compliance Administration
 
 ## Glossary
 

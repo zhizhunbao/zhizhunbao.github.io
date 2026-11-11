@@ -1,10 +1,10 @@
 ---
-title: "10.43.3 Business Administration (BBA)"
+title: "10.49.3 Business Administration (BBA)"
 description: "Market > College Programs > Northwestern Polytechnic > Business Administration (BBA): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.3 Business Administration (BBA)
+# 10.49.3 Business Administration (BBA)
 
 ## Glossary
 

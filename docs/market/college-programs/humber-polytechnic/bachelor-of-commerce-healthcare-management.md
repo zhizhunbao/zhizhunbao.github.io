@@ -1,10 +1,10 @@
 ---
-title: "10.24.13 Bachelor of Commerce - Healthcare Management"
+title: "10.28.13 Bachelor of Commerce - Healthcare Management"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Commerce - Healthcare Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.13 Bachelor of Commerce - Healthcare Management
+# 10.28.13 Bachelor of Commerce - Healthcare Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.35.76 Steamfitting/Pipefitting"
+title: "10.40.76 Steamfitting/Pipefitting"
 description: "Market > College Programs > New Brunswick Community College > Steamfitting/Pipefitting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.76 Steamfitting/Pipefitting
+# 10.40.76 Steamfitting/Pipefitting
 
 ## Glossary
 

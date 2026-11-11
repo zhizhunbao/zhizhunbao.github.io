@@ -1,10 +1,10 @@
 ---
-title: "10.30.45 Police Cadet Training"
+title: "10.34.45 Police Cadet Training"
 description: "Market > College Programs > Lethbridge Polytechnic > Police Cadet Training: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.45 Police Cadet Training
+# 10.34.45 Police Cadet Training
 
 ## Glossary
 

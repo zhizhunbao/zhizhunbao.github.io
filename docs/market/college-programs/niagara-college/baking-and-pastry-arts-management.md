@@ -1,10 +1,10 @@
 ---
-title: "10.36.8 Baking and Pastry Arts Management"
+title: "10.41.8 Baking and Pastry Arts Management"
 description: "Market > College Programs > Niagara College > Baking and Pastry Arts Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.8 Baking and Pastry Arts Management
+# 10.41.8 Baking and Pastry Arts Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.41 Computer Programming & Analysis"
+title: "10.59.41 Computer Programming & Analysis"
 description: "Market > College Programs > Seneca Polytechnic > Computer Programming & Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.41 Computer Programming & Analysis
+# 10.59.41 Computer Programming & Analysis
 
 ## Glossary
 

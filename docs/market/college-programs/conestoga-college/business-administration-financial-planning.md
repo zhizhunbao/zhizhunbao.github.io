@@ -1,10 +1,10 @@
 ---
-title: "10.15.52 Business Administration - Financial Planning"
+title: "10.18.52 Business Administration - Financial Planning"
 description: "Market > College Programs > Conestoga College > Business Administration - Financial Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.52 Business Administration - Financial Planning
+# 10.18.52 Business Administration - Financial Planning
 
 ## Glossary
 

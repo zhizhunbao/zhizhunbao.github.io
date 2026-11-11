@@ -1,10 +1,10 @@
 ---
-title: "10.19.150 Professional Financial Services"
+title: "10.22.150 Professional Financial Services"
 description: "Market > College Programs > Fanshawe College > Professional Financial Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.150 Professional Financial Services
+# 10.22.150 Professional Financial Services
 
 ## Glossary
 

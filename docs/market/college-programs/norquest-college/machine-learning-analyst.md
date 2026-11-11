@@ -1,10 +1,10 @@
 ---
-title: "10.37.30 Machine Learning Analyst"
+title: "10.42.30 Machine Learning Analyst"
 description: "Market > College Programs > NorQuest College > Machine Learning Analyst: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.30 Machine Learning Analyst
+# 10.42.30 Machine Learning Analyst
 
 ## Glossary
 

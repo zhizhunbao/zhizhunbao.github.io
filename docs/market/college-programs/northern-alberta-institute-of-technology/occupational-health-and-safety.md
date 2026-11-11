@@ -1,10 +1,10 @@
 ---
-title: "10.39.84 Occupational Health and Safety"
+title: "10.45.84 Occupational Health and Safety"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Occupational Health and Safety: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.84 Occupational Health and Safety
+# 10.45.84 Occupational Health and Safety
 
 ## Glossary
 

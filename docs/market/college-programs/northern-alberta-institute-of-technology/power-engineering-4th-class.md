@@ -1,10 +1,10 @@
 ---
-title: "10.39.90 Power Engineering 4th Class"
+title: "10.45.90 Power Engineering 4th Class"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Power Engineering 4th Class: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.90 Power Engineering 4th Class
+# 10.45.90 Power Engineering 4th Class
 
 ## Glossary
 

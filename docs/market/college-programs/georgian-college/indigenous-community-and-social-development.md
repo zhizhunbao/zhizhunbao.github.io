@@ -1,10 +1,10 @@
 ---
-title: "10.22.104 Indigenous Community and Social Development"
+title: "10.25.104 Indigenous Community and Social Development"
 description: "Market > College Programs > Georgian College > Indigenous Community and Social Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.104 Indigenous Community and Social Development
+# 10.25.104 Indigenous Community and Social Development
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.45.8 Bachelor of Business Administration"
+title: "10.51.8 Bachelor of Business Administration"
 description: "Market > College Programs > Okanagan College > Bachelor of Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.8 Bachelor of Business Administration
+# 10.51.8 Bachelor of Business Administration
 
 ## Glossary
 

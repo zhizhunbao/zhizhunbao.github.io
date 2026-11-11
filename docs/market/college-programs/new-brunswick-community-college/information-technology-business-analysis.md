@@ -1,10 +1,10 @@
 ---
-title: "10.35.46 Information Technology: Business Analysis"
+title: "10.40.46 Information Technology: Business Analysis"
 description: "Market > College Programs > New Brunswick Community College > Information Technology: Business Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.46 Information Technology: Business Analysis
+# 10.40.46 Information Technology: Business Analysis
 
 ## Glossary
 

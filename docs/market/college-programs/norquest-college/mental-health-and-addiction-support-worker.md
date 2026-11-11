@@ -1,10 +1,10 @@
 ---
-title: "10.37.33 Mental Health and Addiction Support Worker"
+title: "10.42.33 Mental Health and Addiction Support Worker"
 description: "Market > College Programs > NorQuest College > Mental Health and Addiction Support Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.33 Mental Health and Addiction Support Worker
+# 10.42.33 Mental Health and Addiction Support Worker
 
 ## Glossary
 

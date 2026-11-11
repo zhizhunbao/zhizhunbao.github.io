@@ -1,10 +1,10 @@
 ---
-title: "10.56.110 Respiratory Therapy"
+title: "10.63.110 Respiratory Therapy"
 description: "Market > College Programs > St. Clair College > Respiratory Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.110 Respiratory Therapy
+# 10.63.110 Respiratory Therapy
 
 ## Glossary
 

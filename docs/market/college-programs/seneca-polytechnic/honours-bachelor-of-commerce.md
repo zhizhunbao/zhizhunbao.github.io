@@ -1,10 +1,10 @@
 ---
-title: "10.53.85 Honours Bachelor of Commerce"
+title: "10.59.85 Honours Bachelor of Commerce"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Commerce: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.85 Honours Bachelor of Commerce
+# 10.59.85 Honours Bachelor of Commerce
 
 ## Glossary
 

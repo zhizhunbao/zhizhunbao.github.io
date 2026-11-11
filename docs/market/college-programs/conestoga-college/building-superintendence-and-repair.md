@@ -1,10 +1,10 @@
 ---
-title: "10.15.43 Building Superintendence and Repair"
+title: "10.18.43 Building Superintendence and Repair"
 description: "Market > College Programs > Conestoga College > Building Superintendence and Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.43 Building Superintendence and Repair
+# 10.18.43 Building Superintendence and Repair
 
 ## Glossary
 

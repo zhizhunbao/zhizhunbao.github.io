@@ -1,10 +1,10 @@
 ---
-title: "10.30.38 Massage Therapy"
+title: "10.34.38 Massage Therapy"
 description: "Market > College Programs > Lethbridge Polytechnic > Massage Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.38 Massage Therapy
+# 10.34.38 Massage Therapy
 
 ## Glossary
 

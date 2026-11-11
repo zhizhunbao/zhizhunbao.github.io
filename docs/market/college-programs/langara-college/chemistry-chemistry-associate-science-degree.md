@@ -1,10 +1,10 @@
 ---
-title: "10.29.25 Chemistry (chemistry-associate-science-degree)"
+title: "10.33.25 Chemistry (chemistry-associate-science-degree)"
 description: "Market > College Programs > Langara College > Chemistry (chemistry-associate-science-degree): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.25 Chemistry (chemistry-associate-science-degree)
+# 10.33.25 Chemistry (chemistry-associate-science-degree)
 
 ## Glossary
 

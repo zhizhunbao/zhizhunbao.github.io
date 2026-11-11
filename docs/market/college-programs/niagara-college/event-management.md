@@ -1,10 +1,10 @@
 ---
-title: "10.36.46 Event Management"
+title: "10.41.46 Event Management"
 description: "Market > College Programs > Niagara College > Event Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.46 Event Management
+# 10.41.46 Event Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.57.51 Leadership in Long-Term Care"
+title: "10.64.51 Leadership in Long-Term Care"
 description: "Market > College Programs > St. Lawrence College > Leadership in Long-Term Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.51 Leadership in Long-Term Care
+# 10.64.51 Leadership in Long-Term Care
 
 ## Glossary
 

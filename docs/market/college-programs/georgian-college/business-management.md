@@ -1,10 +1,10 @@
 ---
-title: "10.22.32 Business Management"
+title: "10.25.32 Business Management"
 description: "Market > College Programs > Georgian College > Business Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.32 Business Management
+# 10.25.32 Business Management
 
 ## Glossary
 

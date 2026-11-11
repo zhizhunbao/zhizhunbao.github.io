@@ -1,10 +1,10 @@
 ---
-title: "10.48.13 Bachelor of Kinesiology and Sport Studies - University Transfer"
+title: "10.54.13 Bachelor of Kinesiology and Sport Studies - University Transfer"
 description: "Market > College Programs > Red Deer Polytechnic > Bachelor of Kinesiology and Sport Studies - University Transfer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.13 Bachelor of Kinesiology and Sport Studies - University Transfer
+# 10.54.13 Bachelor of Kinesiology and Sport Studies - University Transfer
 
 ## Glossary
 

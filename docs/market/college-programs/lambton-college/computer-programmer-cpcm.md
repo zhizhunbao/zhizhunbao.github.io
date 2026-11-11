@@ -1,10 +1,10 @@
 ---
-title: "10.28.54 Computer Programmer (CPCM)"
+title: "10.32.54 Computer Programmer (CPCM)"
 description: "Market > College Programs > Lambton College > Computer Programmer (CPCM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.54 Computer Programmer (CPCM)
+# 10.32.54 Computer Programmer (CPCM)
 
 ## Glossary
 

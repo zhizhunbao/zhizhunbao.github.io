@@ -1,10 +1,10 @@
 ---
-title: "10.17.40 Early Childhood Education Diploma"
+title: "10.20.40 Early Childhood Education Diploma"
 description: "Market > College Programs > Douglas College > Early Childhood Education Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.40 Early Childhood Education Diploma
+# 10.20.40 Early Childhood Education Diploma
 
 ## Glossary
 

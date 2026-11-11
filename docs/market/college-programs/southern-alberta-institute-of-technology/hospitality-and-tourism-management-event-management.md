@@ -1,10 +1,10 @@
 ---
-title: "10.55.67 Hospitality and Tourism Management - Event Management"
+title: "10.62.67 Hospitality and Tourism Management - Event Management"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Hospitality and Tourism Management - Event Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.67 Hospitality and Tourism Management - Event Management
+# 10.62.67 Hospitality and Tourism Management - Event Management
 
 ## Glossary
 

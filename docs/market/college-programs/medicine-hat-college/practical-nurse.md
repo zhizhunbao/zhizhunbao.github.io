@@ -1,10 +1,10 @@
 ---
-title: "10.33.26 Practical Nurse"
+title: "10.38.26 Practical Nurse"
 description: "Market > College Programs > Medicine Hat College > Practical Nurse: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.26 Practical Nurse
+# 10.38.26 Practical Nurse
 
 ## Glossary
 

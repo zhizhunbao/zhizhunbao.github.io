@@ -1,10 +1,10 @@
 ---
-title: "10.56.23 Computer Programming"
+title: "10.63.23 Computer Programming"
 description: "Market > College Programs > St. Clair College > Computer Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.23 Computer Programming
+# 10.63.23 Computer Programming
 
 ## Glossary
 

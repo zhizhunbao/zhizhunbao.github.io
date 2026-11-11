@@ -1,10 +1,10 @@
 ---
-title: "10.20.5 Blasting Techniques"
+title: "10.23.5 Blasting Techniques"
 description: "Market > College Programs > Fleming College > Blasting Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.5 Blasting Techniques
+# 10.23.5 Blasting Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.54.44 Game Development – Advanced Programming"
+title: "10.60.44 Game Development – Advanced Programming"
 description: "Market > College Programs > Sheridan College > Game Development – Advanced Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.44 Game Development – Advanced Programming
+# 10.60.44 Game Development – Advanced Programming
 
 ## Glossary
 

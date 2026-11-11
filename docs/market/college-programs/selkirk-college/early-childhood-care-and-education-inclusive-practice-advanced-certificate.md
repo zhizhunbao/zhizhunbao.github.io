@@ -1,10 +1,10 @@
 ---
-title: "10.52.25 Early Childhood Care and Education - Inclusive Practice Advanced Certificate"
+title: "10.58.25 Early Childhood Care and Education - Inclusive Practice Advanced Certificate"
 description: "Market > College Programs > Selkirk College > Early Childhood Care and Education - Inclusive Practice Advanced Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.25 Early Childhood Care and Education - Inclusive Practice Advanced Certificate
+# 10.58.25 Early Childhood Care and Education - Inclusive Practice Advanced Certificate
 
 ## Glossary
 

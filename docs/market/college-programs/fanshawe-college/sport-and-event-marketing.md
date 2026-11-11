@@ -1,10 +1,10 @@
 ---
-title: "10.19.158 Sport and Event Marketing"
+title: "10.22.158 Sport and Event Marketing"
 description: "Market > College Programs > Fanshawe College > Sport and Event Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.158 Sport and Event Marketing
+# 10.22.158 Sport and Event Marketing
 
 ## Glossary
 

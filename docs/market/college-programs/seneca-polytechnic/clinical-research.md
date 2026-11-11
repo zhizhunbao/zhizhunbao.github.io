@@ -1,10 +1,10 @@
 ---
-title: "10.53.37 Clinical Research"
+title: "10.59.37 Clinical Research"
 description: "Market > College Programs > Seneca Polytechnic > Clinical Research: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.37 Clinical Research
+# 10.59.37 Clinical Research
 
 ## Glossary
 

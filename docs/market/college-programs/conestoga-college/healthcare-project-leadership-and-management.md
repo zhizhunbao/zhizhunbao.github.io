@@ -1,10 +1,10 @@
 ---
-title: "10.15.119 Healthcare Project Leadership and Management"
+title: "10.18.119 Healthcare Project Leadership and Management"
 description: "Market > College Programs > Conestoga College > Healthcare Project Leadership and Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.119 Healthcare Project Leadership and Management
+# 10.18.119 Healthcare Project Leadership and Management
 
 ## Glossary
 

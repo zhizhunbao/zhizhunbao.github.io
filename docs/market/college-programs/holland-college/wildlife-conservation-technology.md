@@ -1,10 +1,10 @@
 ---
-title: "10.23.54 Wildlife Conservation Technology"
+title: "10.27.54 Wildlife Conservation Technology"
 description: "Market > College Programs > Holland College > Wildlife Conservation Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.54 Wildlife Conservation Technology
+# 10.27.54 Wildlife Conservation Technology
 
 ## Glossary
 

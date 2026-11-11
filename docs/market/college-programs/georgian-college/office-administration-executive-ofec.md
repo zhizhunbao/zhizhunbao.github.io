@@ -1,10 +1,10 @@
 ---
-title: "10.22.128 Office Administration - Executive (OFEC)"
+title: "10.25.128 Office Administration - Executive (OFEC)"
 description: "Market > College Programs > Georgian College > Office Administration - Executive (OFEC): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.128 Office Administration - Executive (OFEC)
+# 10.25.128 Office Administration - Executive (OFEC)
 
 ## Glossary
 

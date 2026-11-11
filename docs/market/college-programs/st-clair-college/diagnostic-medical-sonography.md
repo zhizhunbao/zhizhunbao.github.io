@@ -1,10 +1,10 @@
 ---
-title: "10.56.37 Diagnostic Medical Sonography"
+title: "10.63.37 Diagnostic Medical Sonography"
 description: "Market > College Programs > St. Clair College > Diagnostic Medical Sonography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.37 Diagnostic Medical Sonography
+# 10.63.37 Diagnostic Medical Sonography
 
 ## Glossary
 

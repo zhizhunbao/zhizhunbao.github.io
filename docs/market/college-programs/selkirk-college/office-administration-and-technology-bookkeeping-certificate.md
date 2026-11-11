@@ -1,10 +1,10 @@
 ---
-title: "10.52.58 Office Administration and Technology - Bookkeeping Certificate"
+title: "10.58.58 Office Administration and Technology - Bookkeeping Certificate"
 description: "Market > College Programs > Selkirk College > Office Administration and Technology - Bookkeeping Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.58 Office Administration and Technology - Bookkeeping Certificate
+# 10.58.58 Office Administration and Technology - Bookkeeping Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.100 Electronics Engineering Technician"
+title: "10.18.100 Electronics Engineering Technician"
 description: "Market > College Programs > Conestoga College > Electronics Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.100 Electronics Engineering Technician
+# 10.18.100 Electronics Engineering Technician
 
 ## Glossary
 

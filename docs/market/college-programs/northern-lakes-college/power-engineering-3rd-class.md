@@ -1,10 +1,10 @@
 ---
-title: "10.41.16 Power Engineering 3rd Class"
+title: "10.47.16 Power Engineering 3rd Class"
 description: "Market > College Programs > Northern Lakes College > Power Engineering 3rd Class: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.16 Power Engineering 3rd Class
+# 10.47.16 Power Engineering 3rd Class
 
 ## Glossary
 

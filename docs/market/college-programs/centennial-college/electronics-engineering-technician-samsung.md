@@ -1,10 +1,10 @@
 ---
-title: "10.8.92 Electronics Engineering Technician - Samsung"
+title: "10.9.92 Electronics Engineering Technician - Samsung"
 description: "Market > College Programs > Centennial College > Electronics Engineering Technician - Samsung: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.92 Electronics Engineering Technician - Samsung
+# 10.9.92 Electronics Engineering Technician - Samsung
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.43.28 University Biological Sciences"
+title: "10.49.28 University Biological Sciences"
 description: "Market > College Programs > Northwestern Polytechnic > University Biological Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.28 University Biological Sciences
+# 10.49.28 University Biological Sciences
 
 ## Glossary
 

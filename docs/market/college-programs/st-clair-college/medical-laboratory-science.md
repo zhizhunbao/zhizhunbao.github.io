@@ -1,10 +1,10 @@
 ---
-title: "10.56.72 Medical Laboratory Science"
+title: "10.63.72 Medical Laboratory Science"
 description: "Market > College Programs > St. Clair College > Medical Laboratory Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.72 Medical Laboratory Science
+# 10.63.72 Medical Laboratory Science
 
 ## Glossary
 

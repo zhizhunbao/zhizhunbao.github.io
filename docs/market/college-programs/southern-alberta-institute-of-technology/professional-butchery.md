@@ -1,10 +1,10 @@
 ---
-title: "10.55.108 Professional Butchery"
+title: "10.62.108 Professional Butchery"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Professional Butchery: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.108 Professional Butchery
+# 10.62.108 Professional Butchery
 
 ## Glossary
 

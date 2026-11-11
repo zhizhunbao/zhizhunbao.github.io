@@ -1,10 +1,10 @@
 ---
-title: "10.28.2 Advanced Project Management & Strategic Leadership (PMLM)"
+title: "10.32.2 Advanced Project Management & Strategic Leadership (PMLM)"
 description: "Market > College Programs > Lambton College > Advanced Project Management & Strategic Leadership (PMLM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.2 Advanced Project Management & Strategic Leadership (PMLM)
+# 10.32.2 Advanced Project Management & Strategic Leadership (PMLM)
 
 ## Glossary
 

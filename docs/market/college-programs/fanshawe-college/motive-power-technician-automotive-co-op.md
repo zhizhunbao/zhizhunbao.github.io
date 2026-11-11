@@ -1,10 +1,10 @@
 ---
-title: "10.19.122 Motive Power Technician (Automotive) (Co-op)"
+title: "10.22.122 Motive Power Technician (Automotive) (Co-op)"
 description: "Market > College Programs > Fanshawe College > Motive Power Technician (Automotive) (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.122 Motive Power Technician (Automotive) (Co-op)
+# 10.22.122 Motive Power Technician (Automotive) (Co-op)
 
 ## Glossary
 

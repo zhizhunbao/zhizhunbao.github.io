@@ -1,10 +1,10 @@
 ---
-title: "10.50.10 Building Systems Technician"
+title: "10.56.10 Building Systems Technician"
 description: "Market > College Programs > Saskatchewan Polytechnic > Building Systems Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.10 Building Systems Technician
+# 10.56.10 Building Systems Technician
 
 ## Glossary
 

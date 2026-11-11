@@ -1,10 +1,10 @@
 ---
-title: "10.31.68 Welding Techniques"
+title: "10.35.68 Welding Techniques"
 description: "Market > College Programs > Loyalist College > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.68 Welding Techniques
+# 10.35.68 Welding Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.38 Pastry Arts"
+title: "10.27.38 Pastry Arts"
 description: "Market > College Programs > Holland College > Pastry Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.38 Pastry Arts
+# 10.27.38 Pastry Arts
 
 ## Glossary
 

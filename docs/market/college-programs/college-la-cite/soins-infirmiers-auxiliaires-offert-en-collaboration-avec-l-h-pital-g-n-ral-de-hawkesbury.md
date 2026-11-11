@@ -1,10 +1,10 @@
 ---
-title: "10.11.78 Soins infirmiers auxiliaires (offert en collaboration avec l'Hôpital général de Hawkesbury)"
+title: "10.14.78 Soins infirmiers auxiliaires (offert en collaboration avec l'Hôpital général de Hawkesbury)"
 description: "Market > College Programs > Collège La Cité > Soins infirmiers auxiliaires (offert en collaboration avec l'Hôpital général de Hawkesbury): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.78 Soins infirmiers auxiliaires (offert en collaboration avec l'Hôpital général de Hawkesbury)
+# 10.14.78 Soins infirmiers auxiliaires (offert en collaboration avec l'Hôpital général de Hawkesbury)
 
 ## Glossary
 

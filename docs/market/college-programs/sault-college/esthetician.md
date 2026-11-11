@@ -1,10 +1,10 @@
 ---
-title: "10.51.25 Esthetician"
+title: "10.57.25 Esthetician"
 description: "Market > College Programs > Sault College > Esthetician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.25 Esthetician
+# 10.57.25 Esthetician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.30 Bachelor of Science in Nursing (BScN) Collaborative Nursing Degree Fall"
+title: "10.9.30 Bachelor of Science in Nursing (BScN) Collaborative Nursing Degree Fall"
 description: "Market > College Programs > Centennial College > Bachelor of Science in Nursing (BScN) Collaborative Nursing Degree Fall: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.30 Bachelor of Science in Nursing (BScN) Collaborative Nursing Degree Fall
+# 10.9.30 Bachelor of Science in Nursing (BScN) Collaborative Nursing Degree Fall
 
 ## Glossary
 

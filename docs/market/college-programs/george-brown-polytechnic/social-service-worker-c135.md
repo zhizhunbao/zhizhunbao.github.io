@@ -1,10 +1,10 @@
 ---
-title: "10.21.80 Social Service Worker (C135)"
+title: "10.24.80 Social Service Worker (C135)"
 description: "Market > College Programs > George Brown Polytechnic > Social Service Worker (C135): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.80 Social Service Worker (C135)
+# 10.24.80 Social Service Worker (C135)
 
 ## Glossary
 

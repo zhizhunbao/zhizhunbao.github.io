@@ -1,10 +1,10 @@
 ---
-title: "10.56.31 Cybersecurity Analytics - Automobility"
+title: "10.63.31 Cybersecurity Analytics - Automobility"
 description: "Market > College Programs > St. Clair College > Cybersecurity Analytics - Automobility: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.31 Cybersecurity Analytics - Automobility
+# 10.63.31 Cybersecurity Analytics - Automobility
 
 ## Glossary
 

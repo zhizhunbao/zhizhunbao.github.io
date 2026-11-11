@@ -1,10 +1,10 @@
 ---
-title: "10.31.5 Animation and Game Development"
+title: "10.35.5 Animation and Game Development"
 description: "Market > College Programs > Loyalist College > Animation and Game Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.5 Animation and Game Development
+# 10.35.5 Animation and Game Development
 
 ## Glossary
 

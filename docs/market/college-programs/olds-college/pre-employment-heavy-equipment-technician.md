@@ -1,10 +1,10 @@
 ---
-title: "10.46.26 Pre-Employment Heavy Equipment Technician"
+title: "10.52.26 Pre-Employment Heavy Equipment Technician"
 description: "Market > College Programs > Olds College > Pre-Employment Heavy Equipment Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.26 Pre-Employment Heavy Equipment Technician
+# 10.52.26 Pre-Employment Heavy Equipment Technician
 
 ## Glossary
 

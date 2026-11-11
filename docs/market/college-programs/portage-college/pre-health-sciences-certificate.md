@@ -1,10 +1,10 @@
 ---
-title: "10.47.28 Pre-Health Sciences Certificate"
+title: "10.53.28 Pre-Health Sciences Certificate"
 description: "Market > College Programs > Portage College > Pre-Health Sciences Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.28 Pre-Health Sciences Certificate
+# 10.53.28 Pre-Health Sciences Certificate
 
 ## Glossary
 

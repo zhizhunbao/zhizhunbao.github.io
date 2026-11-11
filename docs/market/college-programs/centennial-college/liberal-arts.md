@@ -1,10 +1,10 @@
 ---
-title: "10.8.126 Liberal Arts"
+title: "10.9.126 Liberal Arts"
 description: "Market > College Programs > Centennial College > Liberal Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.126 Liberal Arts
+# 10.9.126 Liberal Arts
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.38 Biotechnology (Fast-Track)"
+title: "10.9.38 Biotechnology (Fast-Track)"
 description: "Market > College Programs > Centennial College > Biotechnology (Fast-Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.38 Biotechnology (Fast-Track)
+# 10.9.38 Biotechnology (Fast-Track)
 
 ## Glossary
 

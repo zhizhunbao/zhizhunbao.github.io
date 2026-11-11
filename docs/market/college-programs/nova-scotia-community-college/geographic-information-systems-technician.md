@@ -1,10 +1,10 @@
 ---
-title: "10.44.65 Geographic Information Systems Technician"
+title: "10.50.65 Geographic Information Systems Technician"
 description: "Market > College Programs > Nova Scotia Community College > Geographic Information Systems Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.65 Geographic Information Systems Technician
+# 10.50.65 Geographic Information Systems Technician
 
 ## Glossary
 

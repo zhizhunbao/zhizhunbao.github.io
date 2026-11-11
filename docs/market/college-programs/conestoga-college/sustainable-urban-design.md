@@ -1,10 +1,10 @@
 ---
-title: "10.15.188 Sustainable Urban Design"
+title: "10.18.188 Sustainable Urban Design"
 description: "Market > College Programs > Conestoga College > Sustainable Urban Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.188 Sustainable Urban Design
+# 10.18.188 Sustainable Urban Design
 
 ## Glossary
 

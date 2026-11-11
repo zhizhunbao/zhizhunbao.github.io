@@ -1,10 +1,10 @@
 ---
-title: "10.17.76 Project Management (pdpmgt)"
+title: "10.20.76 Project Management (pdpmgt)"
 description: "Market > College Programs > Douglas College > Project Management (pdpmgt): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.76 Project Management (pdpmgt)
+# 10.20.76 Project Management (pdpmgt)
 
 ## Glossary
 

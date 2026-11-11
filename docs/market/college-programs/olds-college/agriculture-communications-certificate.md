@@ -1,10 +1,10 @@
 ---
-title: "10.46.4 Agriculture Communications Certificate"
+title: "10.52.4 Agriculture Communications Certificate"
 description: "Market > College Programs > Olds College > Agriculture Communications Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.4 Agriculture Communications Certificate
+# 10.52.4 Agriculture Communications Certificate
 
 ## Glossary
 

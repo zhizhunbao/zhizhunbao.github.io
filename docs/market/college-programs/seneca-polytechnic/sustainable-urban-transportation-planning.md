@@ -1,10 +1,10 @@
 ---
-title: "10.53.155 Sustainable Urban & Transportation Planning"
+title: "10.59.155 Sustainable Urban & Transportation Planning"
 description: "Market > College Programs > Seneca Polytechnic > Sustainable Urban & Transportation Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.155 Sustainable Urban & Transportation Planning
+# 10.59.155 Sustainable Urban & Transportation Planning
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.89 Electrical Techniques"
+title: "10.9.89 Electrical Techniques"
 description: "Market > College Programs > Centennial College > Electrical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.89 Electrical Techniques
+# 10.9.89 Electrical Techniques
 
 ## Glossary
 

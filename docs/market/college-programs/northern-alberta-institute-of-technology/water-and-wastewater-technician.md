@@ -1,10 +1,10 @@
 ---
-title: "10.39.100 Water and Wastewater Technician"
+title: "10.45.100 Water and Wastewater Technician"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Water and Wastewater Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.100 Water and Wastewater Technician
+# 10.45.100 Water and Wastewater Technician
 
 ## Glossary
 

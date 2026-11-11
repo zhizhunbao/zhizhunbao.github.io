@@ -1,10 +1,10 @@
 ---
-title: "10.8.157 Paralegal - Court and Tribunal Agent"
+title: "10.9.157 Paralegal - Court and Tribunal Agent"
 description: "Market > College Programs > Centennial College > Paralegal - Court and Tribunal Agent: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.157 Paralegal - Court and Tribunal Agent
+# 10.9.157 Paralegal - Court and Tribunal Agent
 
 ## Glossary
 

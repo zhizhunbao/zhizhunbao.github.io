@@ -1,10 +1,10 @@
 ---
-title: "10.50.37 Integrated Resource Management"
+title: "10.56.37 Integrated Resource Management"
 description: "Market > College Programs > Saskatchewan Polytechnic > Integrated Resource Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.37 Integrated Resource Management
+# 10.56.37 Integrated Resource Management
 
 ## Glossary
 

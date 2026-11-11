@@ -1,10 +1,10 @@
 ---
-title: "10.54.57 Honours Bachelor of Craft and Design (Glass)"
+title: "10.60.57 Honours Bachelor of Craft and Design (Glass)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Craft and Design (Glass): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.57 Honours Bachelor of Craft and Design (Glass)
+# 10.60.57 Honours Bachelor of Craft and Design (Glass)
 
 ## Glossary
 

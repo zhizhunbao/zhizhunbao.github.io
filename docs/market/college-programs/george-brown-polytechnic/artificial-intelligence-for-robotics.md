@@ -1,10 +1,10 @@
 ---
-title: "10.21.2 Artificial Intelligence for Robotics"
+title: "10.24.2 Artificial Intelligence for Robotics"
 description: "Market > College Programs > George Brown Polytechnic > Artificial Intelligence for Robotics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.2 Artificial Intelligence for Robotics
+# 10.24.2 Artificial Intelligence for Robotics
 
 ## Glossary
 

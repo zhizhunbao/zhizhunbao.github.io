@@ -1,10 +1,10 @@
 ---
-title: "10.34.68 Occupational Therapist Assistant and Physiotherapist Assistant"
+title: "10.39.68 Occupational Therapist Assistant and Physiotherapist Assistant"
 description: "Market > College Programs > Mohawk College > Occupational Therapist Assistant and Physiotherapist Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.68 Occupational Therapist Assistant and Physiotherapist Assistant
+# 10.39.68 Occupational Therapist Assistant and Physiotherapist Assistant
 
 ## Glossary
 

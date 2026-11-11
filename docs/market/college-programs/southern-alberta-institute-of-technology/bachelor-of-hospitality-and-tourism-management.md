@@ -1,10 +1,10 @@
 ---
-title: "10.55.20 Bachelor of Hospitality and Tourism Management"
+title: "10.62.20 Bachelor of Hospitality and Tourism Management"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Hospitality and Tourism Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.20 Bachelor of Hospitality and Tourism Management
+# 10.62.20 Bachelor of Hospitality and Tourism Management
 
 ## Glossary
 

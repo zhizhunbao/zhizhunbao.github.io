@@ -1,10 +1,10 @@
 ---
-title: "10.40.1 Accommodation and Human Rights Management"
+title: "10.46.1 Accommodation and Human Rights Management"
 description: "Market > College Programs > Northern College > Accommodation and Human Rights Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.1 Accommodation and Human Rights Management
+# 10.46.1 Accommodation and Human Rights Management
 
 ## Glossary
 

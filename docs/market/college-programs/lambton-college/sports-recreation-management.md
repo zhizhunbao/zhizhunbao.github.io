@@ -1,10 +1,10 @@
 ---
-title: "10.28.127 Sports & Recreation Management"
+title: "10.32.127 Sports & Recreation Management"
 description: "Market > College Programs > Lambton College > Sports & Recreation Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.127 Sports & Recreation Management
+# 10.32.127 Sports & Recreation Management
 
 ## Glossary
 

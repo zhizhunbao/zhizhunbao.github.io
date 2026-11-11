@@ -1,10 +1,10 @@
 ---
-title: "10.28.91 Human Resources Management (HRMG)"
+title: "10.32.91 Human Resources Management (HRMG)"
 description: "Market > College Programs > Lambton College > Human Resources Management (HRMG): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.91 Human Resources Management (HRMG)
+# 10.32.91 Human Resources Management (HRMG)
 
 ## Glossary
 

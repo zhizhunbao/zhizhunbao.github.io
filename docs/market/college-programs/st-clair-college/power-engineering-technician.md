@@ -1,10 +1,10 @@
 ---
-title: "10.56.96 Power Engineering Technician"
+title: "10.63.96 Power Engineering Technician"
 description: "Market > College Programs > St. Clair College > Power Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.96 Power Engineering Technician
+# 10.63.96 Power Engineering Technician
 
 ## Glossary
 

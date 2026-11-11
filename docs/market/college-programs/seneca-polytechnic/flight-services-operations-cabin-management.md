@@ -1,10 +1,10 @@
 ---
-title: "10.53.75 Flight Services – Operations & Cabin Management"
+title: "10.59.75 Flight Services – Operations & Cabin Management"
 description: "Market > College Programs > Seneca Polytechnic > Flight Services – Operations & Cabin Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.75 Flight Services – Operations & Cabin Management
+# 10.59.75 Flight Services – Operations & Cabin Management
 
 ## Glossary
 

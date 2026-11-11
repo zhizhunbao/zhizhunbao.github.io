@@ -1,10 +1,10 @@
 ---
-title: "10.57.73 Welding and Fabrication Technician"
+title: "10.64.73 Welding and Fabrication Technician"
 description: "Market > College Programs > St. Lawrence College > Welding and Fabrication Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.73 Welding and Fabrication Technician
+# 10.64.73 Welding and Fabrication Technician
 
 ## Glossary
 

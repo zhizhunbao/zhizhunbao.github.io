@@ -1,10 +1,10 @@
 ---
-title: "10.18.19 Biomedical Engineering Technology"
+title: "10.21.19 Biomedical Engineering Technology"
 description: "Market > College Programs > Durham College > Biomedical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.19 Biomedical Engineering Technology
+# 10.21.19 Biomedical Engineering Technology
 
 ## Glossary
 

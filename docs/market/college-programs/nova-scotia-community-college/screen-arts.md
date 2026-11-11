@@ -1,10 +1,10 @@
 ---
-title: "10.44.121 Screen Arts"
+title: "10.50.121 Screen Arts"
 description: "Market > College Programs > Nova Scotia Community College > Screen Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.121 Screen Arts
+# 10.50.121 Screen Arts
 
 ## Glossary
 

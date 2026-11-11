@@ -1,10 +1,10 @@
 ---
-title: "10.18.40 Culinary Management"
+title: "10.21.40 Culinary Management"
 description: "Market > College Programs > Durham College > Culinary Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.40 Culinary Management
+# 10.21.40 Culinary Management
 
 ## Glossary
 

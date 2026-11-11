@@ -1,10 +1,10 @@
 ---
-title: "10.22.72 Flight Services"
+title: "10.25.72 Flight Services"
 description: "Market > College Programs > Georgian College > Flight Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.72 Flight Services
+# 10.25.72 Flight Services
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.12 Certificate in Adult Education"
+title: "10.27.12 Certificate in Adult Education"
 description: "Market > College Programs > Holland College > Certificate in Adult Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.12 Certificate in Adult Education
+# 10.27.12 Certificate in Adult Education
 
 ## Glossary
 

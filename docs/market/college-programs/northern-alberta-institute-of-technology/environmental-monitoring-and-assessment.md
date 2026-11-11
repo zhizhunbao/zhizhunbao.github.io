@@ -1,10 +1,10 @@
 ---
-title: "10.39.56 Environmental Monitoring and Assessment"
+title: "10.45.56 Environmental Monitoring and Assessment"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Environmental Monitoring and Assessment: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.56 Environmental Monitoring and Assessment
+# 10.45.56 Environmental Monitoring and Assessment
 
 ## Glossary
 

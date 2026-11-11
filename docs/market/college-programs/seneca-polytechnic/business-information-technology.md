@@ -1,10 +1,10 @@
 ---
-title: "10.53.26 Business Information Technology"
+title: "10.59.26 Business Information Technology"
 description: "Market > College Programs > Seneca Polytechnic > Business Information Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.26 Business Information Technology
+# 10.59.26 Business Information Technology
 
 ## Glossary
 

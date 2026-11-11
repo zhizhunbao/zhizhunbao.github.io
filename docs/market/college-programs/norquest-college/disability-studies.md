@@ -1,10 +1,10 @@
 ---
-title: "10.37.16 Disability Studies"
+title: "10.42.16 Disability Studies"
 description: "Market > College Programs > NorQuest College > Disability Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.16 Disability Studies
+# 10.42.16 Disability Studies
 
 ## Glossary
 

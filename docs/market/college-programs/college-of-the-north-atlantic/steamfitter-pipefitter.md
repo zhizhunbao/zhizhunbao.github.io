@@ -1,10 +1,10 @@
 ---
-title: "10.13.93 Steamfitter / Pipefitter"
+title: "10.16.93 Steamfitter / Pipefitter"
 description: "Market > College Programs > College of the North Atlantic > Steamfitter / Pipefitter: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.93 Steamfitter / Pipefitter
+# 10.16.93 Steamfitter / Pipefitter
 
 ## Glossary
 

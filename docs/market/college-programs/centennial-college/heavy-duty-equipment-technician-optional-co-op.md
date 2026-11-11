@@ -1,10 +1,10 @@
 ---
-title: "10.8.116 Heavy Duty Equipment Technician (Optional Co-op)"
+title: "10.9.116 Heavy Duty Equipment Technician (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Heavy Duty Equipment Technician (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.116 Heavy Duty Equipment Technician (Optional Co-op)
+# 10.9.116 Heavy Duty Equipment Technician (Optional Co-op)
 
 ## Glossary
 

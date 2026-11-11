@@ -1,10 +1,10 @@
 ---
-title: "10.53.146 Real Property Administration (Assessment & Appraisal)"
+title: "10.59.146 Real Property Administration (Assessment & Appraisal)"
 description: "Market > College Programs > Seneca Polytechnic > Real Property Administration (Assessment & Appraisal): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.146 Real Property Administration (Assessment & Appraisal)
+# 10.59.146 Real Property Administration (Assessment & Appraisal)
 
 ## Glossary
 

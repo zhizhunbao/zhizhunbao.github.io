@@ -1,10 +1,10 @@
 ---
-title: "10.10.61 Technologie du génie électronique"
+title: "10.11.61 Technologie du génie électronique"
 description: "Market > College Programs > Collège Boréal > Technologie du génie électronique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.61 Technologie du génie électronique
+# 10.11.61 Technologie du génie électronique
 
 ## Glossary
 

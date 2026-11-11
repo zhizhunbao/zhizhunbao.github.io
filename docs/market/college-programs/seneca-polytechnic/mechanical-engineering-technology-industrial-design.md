@@ -1,10 +1,10 @@
 ---
-title: "10.53.122 Mechanical Engineering Technology – Industrial Design"
+title: "10.59.122 Mechanical Engineering Technology – Industrial Design"
 description: "Market > College Programs > Seneca Polytechnic > Mechanical Engineering Technology – Industrial Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.122 Mechanical Engineering Technology – Industrial Design
+# 10.59.122 Mechanical Engineering Technology – Industrial Design
 
 ## Glossary
 

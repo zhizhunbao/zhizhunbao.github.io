@@ -1,10 +1,10 @@
 ---
-title: "10.46.22 Hospitality and Tourism Management Diploma"
+title: "10.52.22 Hospitality and Tourism Management Diploma"
 description: "Market > College Programs > Olds College > Hospitality and Tourism Management Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.22 Hospitality and Tourism Management Diploma
+# 10.52.22 Hospitality and Tourism Management Diploma
 
 ## Glossary
 

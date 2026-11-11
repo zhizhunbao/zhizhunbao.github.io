@@ -1,10 +1,10 @@
 ---
-title: "10.8.41 Bookkeeping"
+title: "10.9.41 Bookkeeping"
 description: "Market > College Programs > Centennial College > Bookkeeping: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.41 Bookkeeping
+# 10.9.41 Bookkeeping
 
 ## Glossary
 

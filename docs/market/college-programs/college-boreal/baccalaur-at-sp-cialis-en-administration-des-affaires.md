@@ -1,10 +1,10 @@
 ---
-title: "10.10.10 Baccalauréat spécialisé en administration des affaires"
+title: "10.11.10 Baccalauréat spécialisé en administration des affaires"
 description: "Market > College Programs > Collège Boréal > Baccalauréat spécialisé en administration des affaires: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.10 Baccalauréat spécialisé en administration des affaires
+# 10.11.10 Baccalauréat spécialisé en administration des affaires
 
 ## Glossary
 

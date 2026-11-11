@@ -1,10 +1,10 @@
 ---
-title: "10.39.82 Narrative Cinema Production"
+title: "10.45.82 Narrative Cinema Production"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Narrative Cinema Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.82 Narrative Cinema Production
+# 10.45.82 Narrative Cinema Production
 
 ## Glossary
 

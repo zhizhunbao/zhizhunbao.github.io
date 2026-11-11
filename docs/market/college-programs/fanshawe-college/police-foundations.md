@@ -1,10 +1,10 @@
 ---
-title: "10.19.143 Police Foundations"
+title: "10.22.143 Police Foundations"
 description: "Market > College Programs > Fanshawe College > Police Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.143 Police Foundations
+# 10.22.143 Police Foundations
 
 ## Glossary
 

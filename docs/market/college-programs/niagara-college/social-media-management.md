@@ -1,10 +1,10 @@
 ---
-title: "10.36.82 Social Media Management"
+title: "10.41.82 Social Media Management"
 description: "Market > College Programs > Niagara College > Social Media Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.82 Social Media Management
+# 10.41.82 Social Media Management
 
 ## Glossary
 

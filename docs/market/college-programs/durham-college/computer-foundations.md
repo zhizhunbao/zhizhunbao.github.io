@@ -1,10 +1,10 @@
 ---
-title: "10.18.31 Computer Foundations"
+title: "10.21.31 Computer Foundations"
 description: "Market > College Programs > Durham College > Computer Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.31 Computer Foundations
+# 10.21.31 Computer Foundations
 
 ## Glossary
 

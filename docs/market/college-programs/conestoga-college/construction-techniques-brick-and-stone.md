@@ -1,10 +1,10 @@
 ---
-title: "10.15.80 Construction Techniques - Brick and Stone"
+title: "10.18.80 Construction Techniques - Brick and Stone"
 description: "Market > College Programs > Conestoga College > Construction Techniques - Brick and Stone: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.80 Construction Techniques - Brick and Stone
+# 10.18.80 Construction Techniques - Brick and Stone
 
 ## Glossary
 

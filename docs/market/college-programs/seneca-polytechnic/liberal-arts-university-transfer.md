@@ -1,10 +1,10 @@
 ---
-title: "10.53.115 Liberal Arts University Transfer"
+title: "10.59.115 Liberal Arts University Transfer"
 description: "Market > College Programs > Seneca Polytechnic > Liberal Arts University Transfer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.115 Liberal Arts University Transfer
+# 10.59.115 Liberal Arts University Transfer
 
 ## Glossary
 

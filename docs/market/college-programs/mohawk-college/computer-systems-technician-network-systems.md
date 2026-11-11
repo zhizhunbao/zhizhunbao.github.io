@@ -1,10 +1,10 @@
 ---
-title: "10.34.33 Computer Systems Technician - Network Systems"
+title: "10.39.33 Computer Systems Technician - Network Systems"
 description: "Market > College Programs > Mohawk College > Computer Systems Technician - Network Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.33 Computer Systems Technician - Network Systems
+# 10.39.33 Computer Systems Technician - Network Systems
 
 ## Glossary
 

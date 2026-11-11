@@ -1,10 +1,10 @@
 ---
-title: "10.52.66 Rural Pre-Medicine"
+title: "10.58.66 Rural Pre-Medicine"
 description: "Market > College Programs > Selkirk College > Rural Pre-Medicine: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.66 Rural Pre-Medicine
+# 10.58.66 Rural Pre-Medicine
 
 ## Glossary
 

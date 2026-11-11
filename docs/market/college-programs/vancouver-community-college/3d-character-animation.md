@@ -1,10 +1,10 @@
 ---
-title: "10.58.2 3D Character Animation"
+title: "10.66.2 3D Character Animation"
 description: "Market > College Programs > Vancouver Community College > 3D Character Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.2 3D Character Animation
+# 10.66.2 3D Character Animation
 
 ## Glossary
 

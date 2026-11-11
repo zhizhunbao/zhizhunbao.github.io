@@ -1,10 +1,10 @@
 ---
-title: "10.29.19 Biology (Co-operative Education) (biology-co-operative-education-diploma-co-op)"
+title: "10.33.19 Biology (Co-operative Education) (biology-co-operative-education-diploma-co-op)"
 description: "Market > College Programs > Langara College > Biology (Co-operative Education) (biology-co-operative-education-diploma-co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.19 Biology (Co-operative Education) (biology-co-operative-education-diploma-co-op)
+# 10.33.19 Biology (Co-operative Education) (biology-co-operative-education-diploma-co-op)
 
 ## Glossary
 

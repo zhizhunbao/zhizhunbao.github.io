@@ -1,10 +1,10 @@
 ---
-title: "10.29.16 Biology (biology-associate-science-degree-we)"
+title: "10.33.16 Biology (biology-associate-science-degree-we)"
 description: "Market > College Programs > Langara College > Biology (biology-associate-science-degree-we): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.16 Biology (biology-associate-science-degree-we)
+# 10.33.16 Biology (biology-associate-science-degree-we)
 
 ## Glossary
 

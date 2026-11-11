@@ -1,10 +1,10 @@
 ---
-title: "10.11.68 Présciences sociales et humaines"
+title: "10.14.68 Présciences sociales et humaines"
 description: "Market > College Programs > Collège La Cité > Présciences sociales et humaines: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.68 Présciences sociales et humaines
+# 10.14.68 Présciences sociales et humaines
 
 ## Glossary
 

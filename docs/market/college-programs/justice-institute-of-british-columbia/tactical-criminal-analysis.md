@@ -1,10 +1,10 @@
 ---
-title: "10.25.25 Tactical Criminal Analysis"
+title: "10.29.25 Tactical Criminal Analysis"
 description: "Market > College Programs > Justice Institute of British Columbia > Tactical Criminal Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.25 Tactical Criminal Analysis
+# 10.29.25 Tactical Criminal Analysis
 
 ## Glossary
 

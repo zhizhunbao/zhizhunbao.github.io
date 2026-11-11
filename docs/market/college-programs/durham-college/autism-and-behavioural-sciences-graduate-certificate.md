@@ -1,10 +1,10 @@
 ---
-title: "10.18.11 Autism and Behavioural Sciences (graduate certificate)"
+title: "10.21.11 Autism and Behavioural Sciences (graduate certificate)"
 description: "Market > College Programs > Durham College > Autism and Behavioural Sciences (graduate certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.11 Autism and Behavioural Sciences (graduate certificate)
+# 10.21.11 Autism and Behavioural Sciences (graduate certificate)
 
 ## Glossary
 

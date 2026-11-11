@@ -1,10 +1,10 @@
 ---
-title: "10.48.18 Business Diploma"
+title: "10.54.18 Business Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Business Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.18 Business Diploma
+# 10.54.18 Business Diploma
 
 ## Glossary
 

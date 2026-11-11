@@ -1,10 +1,10 @@
 ---
-title: "10.8.158 Paramedic"
+title: "10.9.158 Paramedic"
 description: "Market > College Programs > Centennial College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.158 Paramedic
+# 10.9.158 Paramedic
 
 ## Glossary
 

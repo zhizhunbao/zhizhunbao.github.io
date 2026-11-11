@@ -1,10 +1,10 @@
 ---
-title: "10.44.59 Funeral Arranging and Directing"
+title: "10.50.59 Funeral Arranging and Directing"
 description: "Market > College Programs > Nova Scotia Community College > Funeral Arranging and Directing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.59 Funeral Arranging and Directing
+# 10.50.59 Funeral Arranging and Directing
 
 ## Glossary
 

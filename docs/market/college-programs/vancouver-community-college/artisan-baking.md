@@ -1,10 +1,10 @@
 ---
-title: "10.58.5 Artisan Baking"
+title: "10.66.5 Artisan Baking"
 description: "Market > College Programs > Vancouver Community College > Artisan Baking: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.5 Artisan Baking
+# 10.66.5 Artisan Baking
 
 ## Glossary
 

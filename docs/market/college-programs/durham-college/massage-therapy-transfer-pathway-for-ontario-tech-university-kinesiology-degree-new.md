@@ -1,10 +1,10 @@
 ---
-title: "10.18.83 Massage Therapy (Transfer Pathway for Ontario Tech University Kinesiology Degree) – NEW"
+title: "10.21.83 Massage Therapy (Transfer Pathway for Ontario Tech University Kinesiology Degree) – NEW"
 description: "Market > College Programs > Durham College > Massage Therapy (Transfer Pathway for Ontario Tech University Kinesiology Degree) – NEW: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.83 Massage Therapy (Transfer Pathway for Ontario Tech University Kinesiology Degree) – NEW
+# 10.21.83 Massage Therapy (Transfer Pathway for Ontario Tech University Kinesiology Degree) – NEW
 
 ## Glossary
 

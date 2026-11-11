@@ -1,10 +1,10 @@
 ---
-title: "10.8.75 Culinary Skills (Online)"
+title: "10.9.75 Culinary Skills (Online)"
 description: "Market > College Programs > Centennial College > Culinary Skills (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.75 Culinary Skills (Online)
+# 10.9.75 Culinary Skills (Online)
 
 ## Glossary
 

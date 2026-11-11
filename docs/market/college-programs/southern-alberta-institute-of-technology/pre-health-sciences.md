@@ -1,10 +1,10 @@
 ---
-title: "10.55.106 Pre-Health Sciences"
+title: "10.62.106 Pre-Health Sciences"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Pre-Health Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.106 Pre-Health Sciences
+# 10.62.106 Pre-Health Sciences
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.49 Electrical Techniques"
+title: "10.21.49 Electrical Techniques"
 description: "Market > College Programs > Durham College > Electrical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.49 Electrical Techniques
+# 10.21.49 Electrical Techniques
 
 ## Glossary
 

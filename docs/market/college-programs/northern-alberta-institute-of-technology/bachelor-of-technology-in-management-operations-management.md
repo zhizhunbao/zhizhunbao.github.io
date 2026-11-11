@@ -1,10 +1,10 @@
 ---
-title: "10.39.17 Bachelor of Technology in Management - Operations Management"
+title: "10.45.17 Bachelor of Technology in Management - Operations Management"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Bachelor of Technology in Management - Operations Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.17 Bachelor of Technology in Management - Operations Management
+# 10.45.17 Bachelor of Technology in Management - Operations Management
 
 ## Glossary
 

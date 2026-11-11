@@ -1,10 +1,10 @@
 ---
-title: "10.27.14 Business Administration Diploma: Accounting Major, 2-year"
+title: "10.31.14 Business Administration Diploma: Accounting Major, 2-year"
 description: "Market > College Programs > Lakeland College > Business Administration Diploma: Accounting Major, 2-year: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.14 Business Administration Diploma: Accounting Major, 2-year
+# 10.31.14 Business Administration Diploma: Accounting Major, 2-year
 
 ## Glossary
 

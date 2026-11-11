@@ -1,10 +1,10 @@
 ---
-title: "10.28.39 Business Management (BMAT)"
+title: "10.32.39 Business Management (BMAT)"
 description: "Market > College Programs > Lambton College > Business Management (BMAT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.39 Business Management (BMAT)
+# 10.32.39 Business Management (BMAT)
 
 ## Glossary
 

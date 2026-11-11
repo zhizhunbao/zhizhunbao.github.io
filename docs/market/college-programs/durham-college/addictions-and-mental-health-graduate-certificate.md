@@ -1,10 +1,10 @@
 ---
-title: "10.18.4 Addictions and Mental Health (graduate certificate)"
+title: "10.21.4 Addictions and Mental Health (graduate certificate)"
 description: "Market > College Programs > Durham College > Addictions and Mental Health (graduate certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.4 Addictions and Mental Health (graduate certificate)
+# 10.21.4 Addictions and Mental Health (graduate certificate)
 
 ## Glossary
 

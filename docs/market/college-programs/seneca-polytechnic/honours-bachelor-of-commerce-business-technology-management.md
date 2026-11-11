@@ -1,10 +1,10 @@
 ---
-title: "10.53.86 Honours Bachelor of Commerce – Business Technology Management"
+title: "10.59.86 Honours Bachelor of Commerce – Business Technology Management"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Commerce – Business Technology Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.86 Honours Bachelor of Commerce – Business Technology Management
+# 10.59.86 Honours Bachelor of Commerce – Business Technology Management
 
 ## Glossary
 

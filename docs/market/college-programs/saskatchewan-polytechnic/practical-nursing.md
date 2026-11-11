@@ -1,10 +1,10 @@
 ---
-title: "10.50.48 Practical Nursing"
+title: "10.56.48 Practical Nursing"
 description: "Market > College Programs > Saskatchewan Polytechnic > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.48 Practical Nursing
+# 10.56.48 Practical Nursing
 
 ## Glossary
 

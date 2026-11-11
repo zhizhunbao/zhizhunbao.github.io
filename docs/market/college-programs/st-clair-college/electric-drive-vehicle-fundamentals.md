@@ -1,10 +1,10 @@
 ---
-title: "10.56.41 Electric Drive Vehicle Fundamentals"
+title: "10.63.41 Electric Drive Vehicle Fundamentals"
 description: "Market > College Programs > St. Clair College > Electric Drive Vehicle Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.41 Electric Drive Vehicle Fundamentals
+# 10.63.41 Electric Drive Vehicle Fundamentals
 
 ## Glossary
 

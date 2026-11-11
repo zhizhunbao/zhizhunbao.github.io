@@ -1,10 +1,10 @@
 ---
-title: "10.55.13 Bachelor of Business Administration - Accounting Major"
+title: "10.62.13 Bachelor of Business Administration - Accounting Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Business Administration - Accounting Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.13 Bachelor of Business Administration - Accounting Major
+# 10.62.13 Bachelor of Business Administration - Accounting Major
 
 ## Glossary
 

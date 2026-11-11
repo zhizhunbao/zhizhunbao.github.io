@@ -1,10 +1,10 @@
 ---
-title: "10.29.91 Social Service Worker"
+title: "10.33.91 Social Service Worker"
 description: "Market > College Programs > Langara College > Social Service Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.91 Social Service Worker
+# 10.33.91 Social Service Worker
 
 ## Glossary
 

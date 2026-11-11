@@ -1,10 +1,10 @@
 ---
-title: "10.13.64 Marine Cook"
+title: "10.16.64 Marine Cook"
 description: "Market > College Programs > College of the North Atlantic > Marine Cook: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.64 Marine Cook
+# 10.16.64 Marine Cook
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.166 Practical Nursing for Internationally Educated Nurses (IEN) (Fast-Track)"
+title: "10.9.166 Practical Nursing for Internationally Educated Nurses (IEN) (Fast-Track)"
 description: "Market > College Programs > Centennial College > Practical Nursing for Internationally Educated Nurses (IEN) (Fast-Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.166 Practical Nursing for Internationally Educated Nurses (IEN) (Fast-Track)
+# 10.9.166 Practical Nursing for Internationally Educated Nurses (IEN) (Fast-Track)
 
 ## Glossary
 

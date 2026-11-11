@@ -1,10 +1,10 @@
 ---
-title: "10.40.6 Business Fundamentals"
+title: "10.46.6 Business Fundamentals"
 description: "Market > College Programs > Northern College > Business Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.6 Business Fundamentals
+# 10.46.6 Business Fundamentals
 
 ## Glossary
 

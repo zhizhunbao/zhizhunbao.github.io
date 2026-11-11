@@ -1,10 +1,10 @@
 ---
-title: "10.49.46 Manufacturing Computer Aided Drafting (CAD)"
+title: "10.55.46 Manufacturing Computer Aided Drafting (CAD)"
 description: "Market > College Programs > Red River College Polytechnic > Manufacturing Computer Aided Drafting (CAD): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.46 Manufacturing Computer Aided Drafting (CAD)
+# 10.55.46 Manufacturing Computer Aided Drafting (CAD)
 
 ## Glossary
 

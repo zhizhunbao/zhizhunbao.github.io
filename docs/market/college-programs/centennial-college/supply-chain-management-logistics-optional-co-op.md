@@ -1,10 +1,10 @@
 ---
-title: "10.8.183 Supply Chain Management - Logistics (Optional Co-op)"
+title: "10.9.183 Supply Chain Management - Logistics (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Supply Chain Management - Logistics (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.183 Supply Chain Management - Logistics (Optional Co-op)
+# 10.9.183 Supply Chain Management - Logistics (Optional Co-op)
 
 ## Glossary
 

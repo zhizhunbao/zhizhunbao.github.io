@@ -1,10 +1,10 @@
 ---
-title: "10.53.29 Business – Marketing"
+title: "10.59.29 Business – Marketing"
 description: "Market > College Programs > Seneca Polytechnic > Business – Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.29 Business – Marketing
+# 10.59.29 Business – Marketing
 
 ## Glossary
 

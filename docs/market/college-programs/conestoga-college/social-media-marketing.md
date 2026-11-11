@@ -1,10 +1,10 @@
 ---
-title: "10.15.182 Social Media Marketing"
+title: "10.18.182 Social Media Marketing"
 description: "Market > College Programs > Conestoga College > Social Media Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.182 Social Media Marketing
+# 10.18.182 Social Media Marketing
 
 ## Glossary
 

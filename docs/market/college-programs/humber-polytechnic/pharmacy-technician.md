@@ -1,10 +1,10 @@
 ---
-title: "10.24.107 Pharmacy Technician"
+title: "10.28.107 Pharmacy Technician"
 description: "Market > College Programs > Humber Polytechnic > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.107 Pharmacy Technician
+# 10.28.107 Pharmacy Technician
 
 ## Glossary
 

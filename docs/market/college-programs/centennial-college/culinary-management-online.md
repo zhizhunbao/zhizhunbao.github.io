@@ -1,10 +1,10 @@
 ---
-title: "10.8.73 Culinary Management (Online)"
+title: "10.9.73 Culinary Management (Online)"
 description: "Market > College Programs > Centennial College > Culinary Management (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.73 Culinary Management (Online)
+# 10.9.73 Culinary Management (Online)
 
 ## Glossary
 

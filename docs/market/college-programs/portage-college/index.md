@@ -1,10 +1,10 @@
 ---
-title: "10.47 Portage College"
+title: "10.53 Portage College"
 description: "Market > College Programs > Portage College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47 Portage College
+# 10.53 Portage College
 
 ## Glossary
 

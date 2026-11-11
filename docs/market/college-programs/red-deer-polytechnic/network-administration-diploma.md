@@ -1,10 +1,10 @@
 ---
-title: "10.48.32 Network Administration Diploma"
+title: "10.54.32 Network Administration Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Network Administration Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.32 Network Administration Diploma
+# 10.54.32 Network Administration Diploma
 
 ## Glossary
 

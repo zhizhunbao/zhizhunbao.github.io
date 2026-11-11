@@ -1,10 +1,10 @@
 ---
-title: "10.13.74 Mining Engineering Technician"
+title: "10.16.74 Mining Engineering Technician"
 description: "Market > College Programs > College of the North Atlantic > Mining Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.74 Mining Engineering Technician
+# 10.16.74 Mining Engineering Technician
 
 ## Glossary
 

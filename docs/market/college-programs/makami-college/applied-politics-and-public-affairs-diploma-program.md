@@ -1,10 +1,10 @@
 ---
-title: "10.32.2 Applied Politics and Public Affairs Diploma Program"
+title: "10.36.2 Applied Politics and Public Affairs Diploma Program"
 description: "Market > College Programs > MaKami College > Applied Politics and Public Affairs Diploma Program: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.2 Applied Politics and Public Affairs Diploma Program
+# 10.36.2 Applied Politics and Public Affairs Diploma Program
 
 ## Glossary
 

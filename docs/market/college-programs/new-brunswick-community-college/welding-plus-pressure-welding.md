@@ -1,10 +1,10 @@
 ---
-title: "10.35.82 Welding Plus Pressure Welding"
+title: "10.40.82 Welding Plus Pressure Welding"
 description: "Market > College Programs > New Brunswick Community College > Welding Plus Pressure Welding: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.82 Welding Plus Pressure Welding
+# 10.40.82 Welding Plus Pressure Welding
 
 ## Glossary
 

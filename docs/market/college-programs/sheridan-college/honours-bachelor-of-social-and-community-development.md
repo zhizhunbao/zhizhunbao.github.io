@@ -1,10 +1,10 @@
 ---
-title: "10.54.75 Honours Bachelor of Social and Community Development"
+title: "10.60.75 Honours Bachelor of Social and Community Development"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Social and Community Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.75 Honours Bachelor of Social and Community Development
+# 10.60.75 Honours Bachelor of Social and Community Development
 
 ## Glossary
 

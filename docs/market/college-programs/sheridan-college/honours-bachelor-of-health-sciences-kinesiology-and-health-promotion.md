@@ -1,10 +1,10 @@
 ---
-title: "10.54.67 Honours Bachelor of Health Sciences – Kinesiology and Health Promotion"
+title: "10.60.67 Honours Bachelor of Health Sciences – Kinesiology and Health Promotion"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Health Sciences – Kinesiology and Health Promotion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.67 Honours Bachelor of Health Sciences – Kinesiology and Health Promotion
+# 10.60.67 Honours Bachelor of Health Sciences – Kinesiology and Health Promotion
 
 ## Glossary
 

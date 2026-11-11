@@ -1,10 +1,10 @@
 ---
-title: "10.24.118 Supply Chain Management"
+title: "10.28.118 Supply Chain Management"
 description: "Market > College Programs > Humber Polytechnic > Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.118 Supply Chain Management
+# 10.28.118 Supply Chain Management
 
 ## Glossary
 

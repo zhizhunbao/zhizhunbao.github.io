@@ -1,10 +1,10 @@
 ---
-title: "10.49.42 Information Security"
+title: "10.55.42 Information Security"
 description: "Market > College Programs > Red River College Polytechnic > Information Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.42 Information Security
+# 10.55.42 Information Security
 
 ## Glossary
 

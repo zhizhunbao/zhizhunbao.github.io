@@ -1,10 +1,10 @@
 ---
-title: "10.28.110 Plumbing - Mechanical Techniques"
+title: "10.32.110 Plumbing - Mechanical Techniques"
 description: "Market > College Programs > Lambton College > Plumbing - Mechanical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.110 Plumbing - Mechanical Techniques
+# 10.32.110 Plumbing - Mechanical Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.158 Visual and Digital Media Arts"
+title: "10.25.158 Visual and Digital Media Arts"
 description: "Market > College Programs > Georgian College > Visual and Digital Media Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.158 Visual and Digital Media Arts
+# 10.25.158 Visual and Digital Media Arts
 
 ## Glossary
 

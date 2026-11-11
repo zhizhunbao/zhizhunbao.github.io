@@ -1,10 +1,10 @@
 ---
-title: "10.57.72 Veterinary Technology"
+title: "10.64.72 Veterinary Technology"
 description: "Market > College Programs > St. Lawrence College > Veterinary Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.72 Veterinary Technology
+# 10.64.72 Veterinary Technology
 
 ## Glossary
 

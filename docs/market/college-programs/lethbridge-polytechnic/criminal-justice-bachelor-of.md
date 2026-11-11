@@ -1,10 +1,10 @@
 ---
-title: "10.30.16 Criminal Justice - Bachelor of"
+title: "10.34.16 Criminal Justice - Bachelor of"
 description: "Market > College Programs > Lethbridge Polytechnic > Criminal Justice - Bachelor of: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.16 Criminal Justice - Bachelor of
+# 10.34.16 Criminal Justice - Bachelor of
 
 ## Glossary
 

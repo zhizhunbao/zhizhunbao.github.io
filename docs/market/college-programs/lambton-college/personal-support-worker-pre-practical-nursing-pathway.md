@@ -1,10 +1,10 @@
 ---
-title: "10.28.107 Personal Support Worker - Pre-Practical Nursing Pathway"
+title: "10.32.107 Personal Support Worker - Pre-Practical Nursing Pathway"
 description: "Market > College Programs > Lambton College > Personal Support Worker - Pre-Practical Nursing Pathway: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.107 Personal Support Worker - Pre-Practical Nursing Pathway
+# 10.32.107 Personal Support Worker - Pre-Practical Nursing Pathway
 
 ## Glossary
 

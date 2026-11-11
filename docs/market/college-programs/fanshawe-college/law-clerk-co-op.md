@@ -1,10 +1,10 @@
 ---
-title: "10.19.114 Law Clerk (Co-op)"
+title: "10.22.114 Law Clerk (Co-op)"
 description: "Market > College Programs > Fanshawe College > Law Clerk (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.114 Law Clerk (Co-op)
+# 10.22.114 Law Clerk (Co-op)
 
 ## Glossary
 

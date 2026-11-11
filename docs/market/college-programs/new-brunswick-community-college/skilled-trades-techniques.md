@@ -1,10 +1,10 @@
 ---
-title: "10.35.74 Skilled Trades Techniques"
+title: "10.40.74 Skilled Trades Techniques"
 description: "Market > College Programs > New Brunswick Community College > Skilled Trades Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.74 Skilled Trades Techniques
+# 10.40.74 Skilled Trades Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.91 Early Childhood Education Resource Consulting"
+title: "10.18.91 Early Childhood Education Resource Consulting"
 description: "Market > College Programs > Conestoga College > Early Childhood Education Resource Consulting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.91 Early Childhood Education Resource Consulting
+# 10.18.91 Early Childhood Education Resource Consulting
 
 ## Glossary
 

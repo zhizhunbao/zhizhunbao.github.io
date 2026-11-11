@@ -1,10 +1,10 @@
 ---
-title: "10.17.44 Finance"
+title: "10.20.44 Finance"
 description: "Market > College Programs > Douglas College > Finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.44 Finance
+# 10.20.44 Finance
 
 ## Glossary
 

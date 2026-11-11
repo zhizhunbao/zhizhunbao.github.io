@@ -1,10 +1,10 @@
 ---
-title: "10.8.168 Project Management (Online)"
+title: "10.9.168 Project Management (Online)"
 description: "Market > College Programs > Centennial College > Project Management (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.168 Project Management (Online)
+# 10.9.168 Project Management (Online)
 
 ## Glossary
 

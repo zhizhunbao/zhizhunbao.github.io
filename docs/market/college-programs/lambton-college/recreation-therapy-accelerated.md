@@ -1,10 +1,10 @@
 ---
-title: "10.28.121 Recreation Therapy - Accelerated"
+title: "10.32.121 Recreation Therapy - Accelerated"
 description: "Market > College Programs > Lambton College > Recreation Therapy - Accelerated: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.121 Recreation Therapy - Accelerated
+# 10.32.121 Recreation Therapy - Accelerated
 
 ## Glossary
 

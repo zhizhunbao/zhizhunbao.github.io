@@ -1,10 +1,10 @@
 ---
-title: "10.18.6 Animation – Digital Production"
+title: "10.21.6 Animation – Digital Production"
 description: "Market > College Programs > Durham College > Animation – Digital Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.6 Animation – Digital Production
+# 10.21.6 Animation – Digital Production
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.33.9 Business Administration"
+title: "10.38.9 Business Administration"
 description: "Market > College Programs > Medicine Hat College > Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.9 Business Administration
+# 10.38.9 Business Administration
 
 ## Glossary
 

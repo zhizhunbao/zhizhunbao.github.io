@@ -1,10 +1,10 @@
 ---
-title: "10.12.19 Early Childhood Care and Learning Certificate"
+title: "10.15.19 Early Childhood Care and Learning Certificate"
 description: "Market > College Programs > College of New Caledonia > Early Childhood Care and Learning Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.19 Early Childhood Care and Learning Certificate
+# 10.15.19 Early Childhood Care and Learning Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.75 Food and Nutrition Management"
+title: "10.28.75 Food and Nutrition Management"
 description: "Market > College Programs > Humber Polytechnic > Food and Nutrition Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.75 Food and Nutrition Management
+# 10.28.75 Food and Nutrition Management
 
 ## Glossary
 

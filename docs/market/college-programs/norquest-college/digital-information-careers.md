@@ -1,10 +1,10 @@
 ---
-title: "10.37.14 Digital Information Careers"
+title: "10.42.14 Digital Information Careers"
 description: "Market > College Programs > NorQuest College > Digital Information Careers: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.14 Digital Information Careers
+# 10.42.14 Digital Information Careers
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.23 Business - Accounting (ACTG)"
+title: "10.32.23 Business - Accounting (ACTG)"
 description: "Market > College Programs > Lambton College > Business - Accounting (ACTG): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.23 Business - Accounting (ACTG)
+# 10.32.23 Business - Accounting (ACTG)
 
 ## Glossary
 

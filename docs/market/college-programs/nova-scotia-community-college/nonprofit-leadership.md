@@ -1,10 +1,10 @@
 ---
-title: "10.44.101 Nonprofit Leadership"
+title: "10.50.101 Nonprofit Leadership"
 description: "Market > College Programs > Nova Scotia Community College > Nonprofit Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.101 Nonprofit Leadership
+# 10.50.101 Nonprofit Leadership
 
 ## Glossary
 

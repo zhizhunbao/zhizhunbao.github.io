@@ -1,10 +1,10 @@
 ---
-title: "10.53.27 Business – Insurance"
+title: "10.59.27 Business – Insurance"
 description: "Market > College Programs > Seneca Polytechnic > Business – Insurance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.27 Business – Insurance
+# 10.59.27 Business – Insurance
 
 ## Glossary
 

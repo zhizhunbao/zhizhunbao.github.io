@@ -1,10 +1,10 @@
 ---
-title: "10.34.51 Game - Design"
+title: "10.39.51 Game - Design"
 description: "Market > College Programs > Mohawk College > Game - Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.51 Game - Design
+# 10.39.51 Game - Design
 
 ## Glossary
 

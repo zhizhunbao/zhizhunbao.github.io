@@ -1,10 +1,10 @@
 ---
-title: "10.55.104 Power and Process Operations"
+title: "10.62.104 Power and Process Operations"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Power and Process Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.104 Power and Process Operations
+# 10.62.104 Power and Process Operations
 
 ## Glossary
 

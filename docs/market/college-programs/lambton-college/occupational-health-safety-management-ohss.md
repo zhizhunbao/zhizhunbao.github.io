@@ -1,10 +1,10 @@
 ---
-title: "10.28.102 Occupational Health & Safety Management (OHSS)"
+title: "10.32.102 Occupational Health & Safety Management (OHSS)"
 description: "Market > College Programs > Lambton College > Occupational Health & Safety Management (OHSS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.102 Occupational Health & Safety Management (OHSS)
+# 10.32.102 Occupational Health & Safety Management (OHSS)
 
 ## Glossary
 

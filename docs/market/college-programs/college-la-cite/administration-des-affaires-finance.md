@@ -1,10 +1,10 @@
 ---
-title: "10.11.8 Administration des affaires – finance"
+title: "10.14.8 Administration des affaires – finance"
 description: "Market > College Programs > Collège La Cité > Administration des affaires – finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.8 Administration des affaires – finance
+# 10.14.8 Administration des affaires – finance
 
 ## Glossary
 

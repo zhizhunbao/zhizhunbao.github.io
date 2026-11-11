@@ -1,10 +1,10 @@
 ---
-title: "10.31.3 Addictions and Mental Health post-graduate (Online)"
+title: "10.35.3 Addictions and Mental Health post-graduate (Online)"
 description: "Market > College Programs > Loyalist College > Addictions and Mental Health post-graduate (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.3 Addictions and Mental Health post-graduate (Online)
+# 10.35.3 Addictions and Mental Health post-graduate (Online)
 
 ## Glossary
 

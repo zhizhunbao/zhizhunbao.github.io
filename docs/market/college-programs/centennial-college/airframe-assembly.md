@@ -1,10 +1,10 @@
 ---
-title: "10.8.6 Airframe Assembly"
+title: "10.9.6 Airframe Assembly"
 description: "Market > College Programs > Centennial College > Airframe Assembly: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.6 Airframe Assembly
+# 10.9.6 Airframe Assembly
 
 ## Glossary
 

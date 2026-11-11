@@ -1,10 +1,10 @@
 ---
-title: "10.15.40 Bookkeeping"
+title: "10.18.40 Bookkeeping"
 description: "Market > College Programs > Conestoga College > Bookkeeping: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.40 Bookkeeping
+# 10.18.40 Bookkeeping
 
 ## Glossary
 

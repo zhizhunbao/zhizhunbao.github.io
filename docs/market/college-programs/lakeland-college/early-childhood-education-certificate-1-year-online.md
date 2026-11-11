@@ -1,10 +1,10 @@
 ---
-title: "10.27.26 Early Childhood Education Certificate, 1-year (Online)"
+title: "10.31.26 Early Childhood Education Certificate, 1-year (Online)"
 description: "Market > College Programs > Lakeland College > Early Childhood Education Certificate, 1-year (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.26 Early Childhood Education Certificate, 1-year (Online)
+# 10.31.26 Early Childhood Education Certificate, 1-year (Online)
 
 ## Glossary
 

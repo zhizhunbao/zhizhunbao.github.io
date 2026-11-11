@@ -1,10 +1,10 @@
 ---
-title: "10.30.43 Nursing - Bachelor of"
+title: "10.34.43 Nursing - Bachelor of"
 description: "Market > College Programs > Lethbridge Polytechnic > Nursing - Bachelor of: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.43 Nursing - Bachelor of
+# 10.34.43 Nursing - Bachelor of
 
 ## Glossary
 

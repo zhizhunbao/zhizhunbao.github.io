@@ -1,10 +1,10 @@
 ---
-title: "10.24.27 Bachelor of Industrial Design"
+title: "10.28.27 Bachelor of Industrial Design"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Industrial Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.27 Bachelor of Industrial Design
+# 10.28.27 Bachelor of Industrial Design
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.58.4 Administrative Professional"
+title: "10.66.4 Administrative Professional"
 description: "Market > College Programs > Vancouver Community College > Administrative Professional: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.4 Administrative Professional
+# 10.66.4 Administrative Professional
 
 ## Glossary
 

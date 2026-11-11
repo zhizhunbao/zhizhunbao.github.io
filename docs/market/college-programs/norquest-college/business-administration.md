@@ -1,10 +1,10 @@
 ---
-title: "10.37.8 Business Administration"
+title: "10.42.8 Business Administration"
 description: "Market > College Programs > NorQuest College > Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.8 Business Administration
+# 10.42.8 Business Administration
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.35.4 Animation and Graphics"
+title: "10.40.4 Animation and Graphics"
 description: "Market > College Programs > New Brunswick Community College > Animation and Graphics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.4 Animation and Graphics
+# 10.40.4 Animation and Graphics
 
 ## Glossary
 

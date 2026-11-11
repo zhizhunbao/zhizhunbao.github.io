@@ -1,10 +1,10 @@
 ---
-title: "10.54.7 Applied Data Analytics and Visualization"
+title: "10.60.7 Applied Data Analytics and Visualization"
 description: "Market > College Programs > Sheridan College > Applied Data Analytics and Visualization: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.7 Applied Data Analytics and Visualization
+# 10.60.7 Applied Data Analytics and Visualization
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.1 Advanced Care Paramedicine (ACP)"
+title: "10.29.1 Advanced Care Paramedicine (ACP)"
 description: "Market > College Programs > Justice Institute of British Columbia > Advanced Care Paramedicine (ACP): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.1 Advanced Care Paramedicine (ACP)
+# 10.29.1 Advanced Care Paramedicine (ACP)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.133 Mechanical Engineering Technician – Design"
+title: "10.9.133 Mechanical Engineering Technician – Design"
 description: "Market > College Programs > Centennial College > Mechanical Engineering Technician – Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.133 Mechanical Engineering Technician – Design
+# 10.9.133 Mechanical Engineering Technician – Design
 
 ## Glossary
 

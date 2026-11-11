@@ -1,10 +1,10 @@
 ---
-title: "10.56.6 Biomedical Engineering Technology - Equipment and Devices"
+title: "10.63.6 Biomedical Engineering Technology - Equipment and Devices"
 description: "Market > College Programs > St. Clair College > Biomedical Engineering Technology - Equipment and Devices: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.6 Biomedical Engineering Technology - Equipment and Devices
+# 10.63.6 Biomedical Engineering Technology - Equipment and Devices
 
 ## Glossary
 

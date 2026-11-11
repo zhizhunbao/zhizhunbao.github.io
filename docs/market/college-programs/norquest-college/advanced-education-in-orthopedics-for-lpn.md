@@ -1,10 +1,10 @@
 ---
-title: "10.37.4 Advanced Education in Orthopedics for LPN"
+title: "10.42.4 Advanced Education in Orthopedics for LPN"
 description: "Market > College Programs > NorQuest College > Advanced Education in Orthopedics for LPN: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.4 Advanced Education in Orthopedics for LPN
+# 10.42.4 Advanced Education in Orthopedics for LPN
 
 ## Glossary
 

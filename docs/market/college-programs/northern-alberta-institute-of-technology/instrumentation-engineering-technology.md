@@ -1,10 +1,10 @@
 ---
-title: "10.39.64 Instrumentation Engineering Technology"
+title: "10.45.64 Instrumentation Engineering Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Instrumentation Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.64 Instrumentation Engineering Technology
+# 10.45.64 Instrumentation Engineering Technology
 
 ## Glossary
 

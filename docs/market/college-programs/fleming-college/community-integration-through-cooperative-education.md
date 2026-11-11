@@ -1,10 +1,10 @@
 ---
-title: "10.20.11 Community Integration Through Cooperative Education"
+title: "10.23.11 Community Integration Through Cooperative Education"
 description: "Market > College Programs > Fleming College > Community Integration Through Cooperative Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.11 Community Integration Through Cooperative Education
+# 10.23.11 Community Integration Through Cooperative Education
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.122 Heavy Construction Equipment Operation"
+title: "10.18.122 Heavy Construction Equipment Operation"
 description: "Market > College Programs > Conestoga College > Heavy Construction Equipment Operation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.122 Heavy Construction Equipment Operation
+# 10.18.122 Heavy Construction Equipment Operation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.35.75 Social Service Community Worker"
+title: "10.40.75 Social Service Community Worker"
 description: "Market > College Programs > New Brunswick Community College > Social Service Community Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.75 Social Service Community Worker
+# 10.40.75 Social Service Community Worker
 
 ## Glossary
 

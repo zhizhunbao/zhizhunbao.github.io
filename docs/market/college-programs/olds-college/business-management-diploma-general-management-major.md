@@ -1,10 +1,10 @@
 ---
-title: "10.46.12 Business Management Diploma - General Management Major"
+title: "10.52.12 Business Management Diploma - General Management Major"
 description: "Market > College Programs > Olds College > Business Management Diploma - General Management Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.12 Business Management Diploma - General Management Major
+# 10.52.12 Business Management Diploma - General Management Major
 
 ## Glossary
 

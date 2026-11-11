@@ -1,10 +1,10 @@
 ---
-title: "10.16.37 Forestry Technician: Ecosystem Management"
+title: "10.19.37 Forestry Technician: Ecosystem Management"
 description: "Market > College Programs > Confederation College > Forestry Technician: Ecosystem Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.37 Forestry Technician: Ecosystem Management
+# 10.19.37 Forestry Technician: Ecosystem Management
 
 ## Glossary
 

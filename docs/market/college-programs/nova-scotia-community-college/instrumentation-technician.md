@@ -1,10 +1,10 @@
 ---
-title: "10.44.76 Instrumentation Technician"
+title: "10.50.76 Instrumentation Technician"
 description: "Market > College Programs > Nova Scotia Community College > Instrumentation Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.76 Instrumentation Technician
+# 10.50.76 Instrumentation Technician
 
 ## Glossary
 

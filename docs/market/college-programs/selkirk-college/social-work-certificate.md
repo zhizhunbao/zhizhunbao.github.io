@@ -1,10 +1,10 @@
 ---
-title: "10.52.69 Social Work - Certificate"
+title: "10.58.69 Social Work - Certificate"
 description: "Market > College Programs > Selkirk College > Social Work - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.69 Social Work - Certificate
+# 10.58.69 Social Work - Certificate
 
 ## Glossary
 

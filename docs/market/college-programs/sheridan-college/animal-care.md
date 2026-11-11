@@ -1,10 +1,10 @@
 ---
-title: "10.54.6 Animal Care"
+title: "10.60.6 Animal Care"
 description: "Market > College Programs > Sheridan College > Animal Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.6 Animal Care
+# 10.60.6 Animal Care
 
 ## Glossary
 

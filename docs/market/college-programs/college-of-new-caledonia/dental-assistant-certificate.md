@@ -1,10 +1,10 @@
 ---
-title: "10.12.15 Dental Assistant Certificate"
+title: "10.15.15 Dental Assistant Certificate"
 description: "Market > College Programs > College of New Caledonia > Dental Assistant Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.15 Dental Assistant Certificate
+# 10.15.15 Dental Assistant Certificate
 
 ## Glossary
 

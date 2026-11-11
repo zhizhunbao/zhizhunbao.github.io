@@ -1,10 +1,10 @@
 ---
-title: "10.11.65 Préposé aux services de soutien personnel (en collaboration avec le Foyer Richelieu à Welland)"
+title: "10.14.65 Préposé aux services de soutien personnel (en collaboration avec le Foyer Richelieu à Welland)"
 description: "Market > College Programs > Collège La Cité > Préposé aux services de soutien personnel (en collaboration avec le Foyer Richelieu à Welland): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.65 Préposé aux services de soutien personnel (en collaboration avec le Foyer Richelieu à Welland)
+# 10.14.65 Préposé aux services de soutien personnel (en collaboration avec le Foyer Richelieu à Welland)
 
 ## Glossary
 

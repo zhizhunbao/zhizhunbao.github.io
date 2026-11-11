@@ -1,10 +1,10 @@
 ---
-title: "10.31.60 Radiation Safety"
+title: "10.35.60 Radiation Safety"
 description: "Market > College Programs > Loyalist College > Radiation Safety: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.60 Radiation Safety
+# 10.35.60 Radiation Safety
 
 ## Glossary
 

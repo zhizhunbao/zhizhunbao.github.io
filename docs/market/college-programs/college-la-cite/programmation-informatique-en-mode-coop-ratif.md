@@ -1,10 +1,10 @@
 ---
-title: "10.11.61 Programmation informatique en mode coopératif"
+title: "10.14.61 Programmation informatique en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Programmation informatique en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.61 Programmation informatique en mode coopératif
+# 10.14.61 Programmation informatique en mode coopératif
 
 ## Glossary
 

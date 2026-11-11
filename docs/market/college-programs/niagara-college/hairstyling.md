@@ -1,10 +1,10 @@
 ---
-title: "10.36.52 Hairstyling"
+title: "10.41.52 Hairstyling"
 description: "Market > College Programs > Niagara College > Hairstyling: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.52 Hairstyling
+# 10.41.52 Hairstyling
 
 ## Glossary
 

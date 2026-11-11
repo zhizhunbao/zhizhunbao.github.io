@@ -1,10 +1,10 @@
 ---
-title: "10.55.23 Bachelor of Technology – Software Development"
+title: "10.62.23 Bachelor of Technology – Software Development"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Technology – Software Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.23 Bachelor of Technology – Software Development
+# 10.62.23 Bachelor of Technology – Software Development
 
 ## Glossary
 

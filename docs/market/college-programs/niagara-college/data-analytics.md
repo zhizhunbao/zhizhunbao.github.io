@@ -1,10 +1,10 @@
 ---
-title: "10.36.33 Data Analytics"
+title: "10.41.33 Data Analytics"
 description: "Market > College Programs > Niagara College > Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.33 Data Analytics
+# 10.41.33 Data Analytics
 
 ## Glossary
 

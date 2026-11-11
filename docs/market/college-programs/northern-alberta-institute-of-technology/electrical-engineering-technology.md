@@ -1,10 +1,10 @@
 ---
-title: "10.39.52 Electrical Engineering Technology"
+title: "10.45.52 Electrical Engineering Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Electrical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.52 Electrical Engineering Technology
+# 10.45.52 Electrical Engineering Technology
 
 ## Glossary
 

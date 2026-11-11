@@ -1,10 +1,10 @@
 ---
-title: "10.52.42 Geomatics in the Workplace - Advanced Certificate"
+title: "10.58.42 Geomatics in the Workplace - Advanced Certificate"
 description: "Market > College Programs > Selkirk College > Geomatics in the Workplace - Advanced Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.42 Geomatics in the Workplace - Advanced Certificate
+# 10.58.42 Geomatics in the Workplace - Advanced Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.8 Bioscience Technology"
+title: "10.27.8 Bioscience Technology"
 description: "Market > College Programs > Holland College > Bioscience Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.8 Bioscience Technology
+# 10.27.8 Bioscience Technology
 
 ## Glossary
 

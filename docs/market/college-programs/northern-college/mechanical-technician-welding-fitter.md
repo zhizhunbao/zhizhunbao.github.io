@@ -1,10 +1,10 @@
 ---
-title: "10.40.32 Mechanical Technician – Welding Fitter"
+title: "10.46.32 Mechanical Technician – Welding Fitter"
 description: "Market > College Programs > Northern College > Mechanical Technician – Welding Fitter: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.32 Mechanical Technician – Welding Fitter
+# 10.46.32 Mechanical Technician – Welding Fitter
 
 ## Glossary
 

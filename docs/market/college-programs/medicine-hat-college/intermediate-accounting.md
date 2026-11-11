@@ -1,10 +1,10 @@
 ---
-title: "10.33.19 Intermediate Accounting"
+title: "10.38.19 Intermediate Accounting"
 description: "Market > College Programs > Medicine Hat College > Intermediate Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.19 Intermediate Accounting
+# 10.38.19 Intermediate Accounting
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.39.60 Geoscience Technology"
+title: "10.45.60 Geoscience Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Geoscience Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.60 Geoscience Technology
+# 10.45.60 Geoscience Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.43 Dental Assisting"
+title: "10.21.43 Dental Assisting"
 description: "Market > College Programs > Durham College > Dental Assisting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.43 Dental Assisting
+# 10.21.43 Dental Assisting
 
 ## Glossary
 

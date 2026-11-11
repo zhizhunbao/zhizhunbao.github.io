@@ -1,10 +1,10 @@
 ---
-title: "10.56.67 Mechanical Engineering Technician - Industrial (Millwright)"
+title: "10.63.67 Mechanical Engineering Technician - Industrial (Millwright)"
 description: "Market > College Programs > St. Clair College > Mechanical Engineering Technician - Industrial (Millwright): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.67 Mechanical Engineering Technician - Industrial (Millwright)
+# 10.63.67 Mechanical Engineering Technician - Industrial (Millwright)
 
 ## Glossary
 

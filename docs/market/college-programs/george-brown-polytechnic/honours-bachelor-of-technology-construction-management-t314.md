@@ -1,10 +1,10 @@
 ---
-title: "10.21.58 Honours Bachelor of Technology (Construction Management) (T314)"
+title: "10.24.58 Honours Bachelor of Technology (Construction Management) (T314)"
 description: "Market > College Programs > George Brown Polytechnic > Honours Bachelor of Technology (Construction Management) (T314): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.58 Honours Bachelor of Technology (Construction Management) (T314)
+# 10.24.58 Honours Bachelor of Technology (Construction Management) (T314)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.17.64 International Business Management"
+title: "10.20.64 International Business Management"
 description: "Market > College Programs > Douglas College > International Business Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.64 International Business Management
+# 10.20.64 International Business Management
 
 ## Glossary
 

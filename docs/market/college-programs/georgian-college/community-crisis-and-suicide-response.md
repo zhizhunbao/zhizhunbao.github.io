@@ -1,10 +1,10 @@
 ---
-title: "10.22.42 Community Crisis and Suicide Response"
+title: "10.25.42 Community Crisis and Suicide Response"
 description: "Market > College Programs > Georgian College > Community Crisis and Suicide Response: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.42 Community Crisis and Suicide Response
+# 10.25.42 Community Crisis and Suicide Response
 
 ## Glossary
 

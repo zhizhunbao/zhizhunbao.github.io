@@ -1,10 +1,10 @@
 ---
-title: "10.40.52 Veterinary Technician"
+title: "10.46.52 Veterinary Technician"
 description: "Market > College Programs > Northern College > Veterinary Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.52 Veterinary Technician
+# 10.46.52 Veterinary Technician
 
 ## Glossary
 

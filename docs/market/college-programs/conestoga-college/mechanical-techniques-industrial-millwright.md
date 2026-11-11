@@ -1,10 +1,10 @@
 ---
-title: "10.15.145 Mechanical Techniques - Industrial Millwright"
+title: "10.18.145 Mechanical Techniques - Industrial Millwright"
 description: "Market > College Programs > Conestoga College > Mechanical Techniques - Industrial Millwright: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.145 Mechanical Techniques - Industrial Millwright
+# 10.18.145 Mechanical Techniques - Industrial Millwright
 
 ## Glossary
 

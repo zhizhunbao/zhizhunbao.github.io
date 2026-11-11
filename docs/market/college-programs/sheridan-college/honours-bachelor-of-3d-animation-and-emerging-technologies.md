@@ -1,10 +1,10 @@
 ---
-title: "10.54.50 Honours Bachelor of 3D Animation and Emerging Technologies"
+title: "10.60.50 Honours Bachelor of 3D Animation and Emerging Technologies"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of 3D Animation and Emerging Technologies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.50 Honours Bachelor of 3D Animation and Emerging Technologies
+# 10.60.50 Honours Bachelor of 3D Animation and Emerging Technologies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.54.87 Mechanical Techniques – Plumbing"
+title: "10.60.87 Mechanical Techniques – Plumbing"
 description: "Market > College Programs > Sheridan College > Mechanical Techniques – Plumbing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.87 Mechanical Techniques – Plumbing
+# 10.60.87 Mechanical Techniques – Plumbing
 
 ## Glossary
 

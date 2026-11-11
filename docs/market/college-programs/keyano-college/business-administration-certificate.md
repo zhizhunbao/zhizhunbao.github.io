@@ -1,10 +1,10 @@
 ---
-title: "10.26.9 Business Administration Certificate"
+title: "10.30.9 Business Administration Certificate"
 description: "Market > College Programs > Keyano College > Business Administration Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.9 Business Administration Certificate
+# 10.30.9 Business Administration Certificate
 
 ## Glossary
 

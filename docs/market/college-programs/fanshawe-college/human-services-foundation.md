@@ -1,10 +1,10 @@
 ---
-title: "10.19.109 Human Services Foundation"
+title: "10.22.109 Human Services Foundation"
 description: "Market > College Programs > Fanshawe College > Human Services Foundation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.109 Human Services Foundation
+# 10.22.109 Human Services Foundation
 
 ## Glossary
 

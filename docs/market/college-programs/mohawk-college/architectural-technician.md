@@ -1,10 +1,10 @@
 ---
-title: "10.34.5 Architectural Technician"
+title: "10.39.5 Architectural Technician"
 description: "Market > College Programs > Mohawk College > Architectural Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.5 Architectural Technician
+# 10.39.5 Architectural Technician
 
 ## Glossary
 

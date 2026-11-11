@@ -1,10 +1,10 @@
 ---
-title: "10.58.39 IT Project Management"
+title: "10.66.39 IT Project Management"
 description: "Market > College Programs > Vancouver Community College > IT Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.39 IT Project Management
+# 10.66.39 IT Project Management
 
 ## Glossary
 

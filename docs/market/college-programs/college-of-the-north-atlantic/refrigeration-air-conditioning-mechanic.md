@@ -1,10 +1,10 @@
 ---
-title: "10.13.88 Refrigeration & Air Conditioning Mechanic"
+title: "10.16.88 Refrigeration & Air Conditioning Mechanic"
 description: "Market > College Programs > College of the North Atlantic > Refrigeration & Air Conditioning Mechanic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.88 Refrigeration & Air Conditioning Mechanic
+# 10.16.88 Refrigeration & Air Conditioning Mechanic
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.58.44 Occupational/Physical Therapist Assistant (Rehab Assistant)"
+title: "10.66.44 Occupational/Physical Therapist Assistant (Rehab Assistant)"
 description: "Market > College Programs > Vancouver Community College > Occupational/Physical Therapist Assistant (Rehab Assistant): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.44 Occupational/Physical Therapist Assistant (Rehab Assistant)
+# 10.66.44 Occupational/Physical Therapist Assistant (Rehab Assistant)
 
 ## Glossary
 

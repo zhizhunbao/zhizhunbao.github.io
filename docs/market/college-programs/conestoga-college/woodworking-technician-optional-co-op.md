@@ -1,10 +1,10 @@
 ---
-title: "10.15.206 Woodworking Technician (Optional Co-op)"
+title: "10.18.206 Woodworking Technician (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Woodworking Technician (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.206 Woodworking Technician (Optional Co-op)
+# 10.18.206 Woodworking Technician (Optional Co-op)
 
 ## Glossary
 

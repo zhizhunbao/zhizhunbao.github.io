@@ -1,10 +1,10 @@
 ---
-title: "10.15.174 Project Management - Information Technology with Embedded AI"
+title: "10.18.174 Project Management - Information Technology with Embedded AI"
 description: "Market > College Programs > Conestoga College > Project Management - Information Technology with Embedded AI: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.174 Project Management - Information Technology with Embedded AI
+# 10.18.174 Project Management - Information Technology with Embedded AI
 
 ## Glossary
 

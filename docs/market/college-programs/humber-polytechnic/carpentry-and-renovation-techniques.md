@@ -1,10 +1,10 @@
 ---
-title: "10.24.42 Carpentry and Renovation Techniques"
+title: "10.28.42 Carpentry and Renovation Techniques"
 description: "Market > College Programs > Humber Polytechnic > Carpentry and Renovation Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.42 Carpentry and Renovation Techniques
+# 10.28.42 Carpentry and Renovation Techniques
 
 ## Glossary
 

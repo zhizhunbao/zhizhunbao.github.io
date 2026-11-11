@@ -1,10 +1,10 @@
 ---
-title: "10.19.11 Architectural Technology"
+title: "10.22.11 Architectural Technology"
 description: "Market > College Programs > Fanshawe College > Architectural Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.11 Architectural Technology
+# 10.22.11 Architectural Technology
 
 ## Glossary
 

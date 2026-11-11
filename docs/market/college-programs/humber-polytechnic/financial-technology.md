@@ -1,10 +1,10 @@
 ---
-title: "10.24.73 Financial Technology"
+title: "10.28.73 Financial Technology"
 description: "Market > College Programs > Humber Polytechnic > Financial Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.73 Financial Technology
+# 10.28.73 Financial Technology
 
 ## Glossary
 

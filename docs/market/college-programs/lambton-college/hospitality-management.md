@@ -1,10 +1,10 @@
 ---
-title: "10.28.88 Hospitality Management"
+title: "10.32.88 Hospitality Management"
 description: "Market > College Programs > Lambton College > Hospitality Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.88 Hospitality Management
+# 10.32.88 Hospitality Management
 
 ## Glossary
 

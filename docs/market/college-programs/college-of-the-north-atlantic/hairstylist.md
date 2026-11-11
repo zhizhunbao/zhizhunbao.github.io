@@ -1,10 +1,10 @@
 ---
-title: "10.13.50 Hairstylist"
+title: "10.16.50 Hairstylist"
 description: "Market > College Programs > College of the North Atlantic > Hairstylist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.50 Hairstylist
+# 10.16.50 Hairstylist
 
 ## Glossary
 

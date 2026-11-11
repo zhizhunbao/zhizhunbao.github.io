@@ -1,10 +1,10 @@
 ---
-title: "10.29.6 Applied Planning (Work Experience)"
+title: "10.33.6 Applied Planning (Work Experience)"
 description: "Market > College Programs > Langara College > Applied Planning (Work Experience): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.6 Applied Planning (Work Experience)
+# 10.33.6 Applied Planning (Work Experience)
 
 ## Glossary
 

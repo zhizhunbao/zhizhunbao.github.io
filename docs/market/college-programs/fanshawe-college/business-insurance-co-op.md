@@ -1,10 +1,10 @@
 ---
-title: "10.19.32 Business - Insurance (Co-op)"
+title: "10.22.32 Business - Insurance (Co-op)"
 description: "Market > College Programs > Fanshawe College > Business - Insurance (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.32 Business - Insurance (Co-op)
+# 10.22.32 Business - Insurance (Co-op)
 
 ## Glossary
 

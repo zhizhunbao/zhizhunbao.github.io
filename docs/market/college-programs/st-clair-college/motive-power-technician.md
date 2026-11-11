@@ -1,10 +1,10 @@
 ---
-title: "10.56.75 Motive Power Technician"
+title: "10.63.75 Motive Power Technician"
 description: "Market > College Programs > St. Clair College > Motive Power Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.75 Motive Power Technician
+# 10.63.75 Motive Power Technician
 
 ## Glossary
 

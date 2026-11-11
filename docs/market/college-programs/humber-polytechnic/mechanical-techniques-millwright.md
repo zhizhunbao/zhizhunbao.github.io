@@ -1,10 +1,10 @@
 ---
-title: "10.24.98 Mechanical Techniques - Millwright"
+title: "10.28.98 Mechanical Techniques - Millwright"
 description: "Market > College Programs > Humber Polytechnic > Mechanical Techniques - Millwright: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.98 Mechanical Techniques - Millwright
+# 10.28.98 Mechanical Techniques - Millwright
 
 ## Glossary
 

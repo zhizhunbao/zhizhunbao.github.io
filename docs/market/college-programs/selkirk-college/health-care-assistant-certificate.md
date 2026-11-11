@@ -1,10 +1,10 @@
 ---
-title: "10.52.43 Health Care Assistant - Certificate"
+title: "10.58.43 Health Care Assistant - Certificate"
 description: "Market > College Programs > Selkirk College > Health Care Assistant - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.43 Health Care Assistant - Certificate
+# 10.58.43 Health Care Assistant - Certificate
 
 ## Glossary
 

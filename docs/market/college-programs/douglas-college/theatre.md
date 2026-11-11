@@ -1,10 +1,10 @@
 ---
-title: "10.17.81 Theatre"
+title: "10.20.81 Theatre"
 description: "Market > College Programs > Douglas College > Theatre: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.81 Theatre
+# 10.20.81 Theatre
 
 ## Glossary
 

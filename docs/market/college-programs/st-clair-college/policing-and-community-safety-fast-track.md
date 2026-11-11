@@ -1,10 +1,10 @@
 ---
-title: "10.56.95 Policing and Community Safety (Fast Track)"
+title: "10.63.95 Policing and Community Safety (Fast Track)"
 description: "Market > College Programs > St. Clair College > Policing and Community Safety (Fast Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.95 Policing and Community Safety (Fast Track)
+# 10.63.95 Policing and Community Safety (Fast Track)
 
 ## Glossary
 

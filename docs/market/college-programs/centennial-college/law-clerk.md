@@ -1,10 +1,10 @@
 ---
-title: "10.8.125 Law Clerk"
+title: "10.9.125 Law Clerk"
 description: "Market > College Programs > Centennial College > Law Clerk: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.125 Law Clerk
+# 10.9.125 Law Clerk
 
 ## Glossary
 

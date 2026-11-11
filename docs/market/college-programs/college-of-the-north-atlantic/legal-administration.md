@@ -1,10 +1,10 @@
 ---
-title: "10.13.62 Legal Administration"
+title: "10.16.62 Legal Administration"
 description: "Market > College Programs > College of the North Atlantic > Legal Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.62 Legal Administration
+# 10.16.62 Legal Administration
 
 ## Glossary
 

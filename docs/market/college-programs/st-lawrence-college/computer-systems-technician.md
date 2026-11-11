@@ -1,10 +1,10 @@
 ---
-title: "10.57.25 Computer Systems Technician"
+title: "10.64.25 Computer Systems Technician"
 description: "Market > College Programs > St. Lawrence College > Computer Systems Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.25 Computer Systems Technician
+# 10.64.25 Computer Systems Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.38.6 Business Administration Diploma"
+title: "10.43.6 Business Administration Diploma"
 description: "Market > College Programs > North Island College > Business Administration Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.6 Business Administration Diploma
+# 10.43.6 Business Administration Diploma
 
 ## Glossary
 

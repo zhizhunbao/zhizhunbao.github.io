@@ -1,10 +1,10 @@
 ---
-title: "10.29.87 Professional Photography"
+title: "10.33.87 Professional Photography"
 description: "Market > College Programs > Langara College > Professional Photography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.87 Professional Photography
+# 10.33.87 Professional Photography
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.42 Bridging to University Nursing for Internationally Educated Nurses (IEN)"
+title: "10.9.42 Bridging to University Nursing for Internationally Educated Nurses (IEN)"
 description: "Market > College Programs > Centennial College > Bridging to University Nursing for Internationally Educated Nurses (IEN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.42 Bridging to University Nursing for Internationally Educated Nurses (IEN)
+# 10.9.42 Bridging to University Nursing for Internationally Educated Nurses (IEN)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.19 Bachelor of Data Analytics"
+title: "10.18.19 Bachelor of Data Analytics"
 description: "Market > College Programs > Conestoga College > Bachelor of Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.19 Bachelor of Data Analytics
+# 10.18.19 Bachelor of Data Analytics
 
 ## Glossary
 

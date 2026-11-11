@@ -1,10 +1,10 @@
 ---
-title: "10.28.65 DevOps for Cloud Computing"
+title: "10.32.65 DevOps for Cloud Computing"
 description: "Market > College Programs > Lambton College > DevOps for Cloud Computing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.65 DevOps for Cloud Computing
+# 10.32.65 DevOps for Cloud Computing
 
 ## Glossary
 

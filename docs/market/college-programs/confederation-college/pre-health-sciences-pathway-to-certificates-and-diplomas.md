@@ -1,10 +1,10 @@
 ---
-title: "10.16.71 Pre-Health Sciences - Pathway to Certificates and Diplomas"
+title: "10.19.71 Pre-Health Sciences - Pathway to Certificates and Diplomas"
 description: "Market > College Programs > Confederation College > Pre-Health Sciences - Pathway to Certificates and Diplomas: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.71 Pre-Health Sciences - Pathway to Certificates and Diplomas
+# 10.19.71 Pre-Health Sciences - Pathway to Certificates and Diplomas
 
 ## Glossary
 

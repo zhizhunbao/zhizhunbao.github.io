@@ -1,10 +1,10 @@
 ---
-title: "10.55.51 Early Childhood Education Certificate"
+title: "10.62.51 Early Childhood Education Certificate"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Early Childhood Education Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.51 Early Childhood Education Certificate
+# 10.62.51 Early Childhood Education Certificate
 
 ## Glossary
 

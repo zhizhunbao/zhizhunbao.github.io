@@ -1,10 +1,10 @@
 ---
-title: "10.34.14 Biotechnology"
+title: "10.39.14 Biotechnology"
 description: "Market > College Programs > Mohawk College > Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.14 Biotechnology
+# 10.39.14 Biotechnology
 
 ## Glossary
 

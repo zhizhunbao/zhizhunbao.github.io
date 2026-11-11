@@ -1,10 +1,10 @@
 ---
-title: "10.53.47 Creative Advertising"
+title: "10.59.47 Creative Advertising"
 description: "Market > College Programs > Seneca Polytechnic > Creative Advertising: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.47 Creative Advertising
+# 10.59.47 Creative Advertising
 
 ## Glossary
 

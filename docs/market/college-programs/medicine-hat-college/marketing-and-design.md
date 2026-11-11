@@ -1,10 +1,10 @@
 ---
-title: "10.33.21 Marketing and Design"
+title: "10.38.21 Marketing and Design"
 description: "Market > College Programs > Medicine Hat College > Marketing and Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.21 Marketing and Design
+# 10.38.21 Marketing and Design
 
 ## Glossary
 

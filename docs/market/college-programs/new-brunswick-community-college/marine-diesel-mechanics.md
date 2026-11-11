@@ -1,10 +1,10 @@
 ---
-title: "10.35.57 Marine Diesel Mechanics"
+title: "10.40.57 Marine Diesel Mechanics"
 description: "Market > College Programs > New Brunswick Community College > Marine Diesel Mechanics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.57 Marine Diesel Mechanics
+# 10.40.57 Marine Diesel Mechanics
 
 ## Glossary
 

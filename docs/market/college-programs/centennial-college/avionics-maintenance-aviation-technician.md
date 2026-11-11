@@ -1,10 +1,10 @@
 ---
-title: "10.8.24 Avionics Maintenance - Aviation Technician"
+title: "10.9.24 Avionics Maintenance - Aviation Technician"
 description: "Market > College Programs > Centennial College > Avionics Maintenance - Aviation Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.24 Avionics Maintenance - Aviation Technician
+# 10.9.24 Avionics Maintenance - Aviation Technician
 
 ## Glossary
 

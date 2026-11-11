@@ -1,10 +1,10 @@
 ---
-title: "10.18.79 Marketing – Business"
+title: "10.21.79 Marketing – Business"
 description: "Market > College Programs > Durham College > Marketing – Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.79 Marketing – Business
+# 10.21.79 Marketing – Business
 
 ## Glossary
 

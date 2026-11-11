@@ -1,10 +1,10 @@
 ---
-title: "10.53.117 Library & Information Technician (Accelerated)"
+title: "10.59.117 Library & Information Technician (Accelerated)"
 description: "Market > College Programs > Seneca Polytechnic > Library & Information Technician (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.117 Library & Information Technician (Accelerated)
+# 10.59.117 Library & Information Technician (Accelerated)
 
 ## Glossary
 

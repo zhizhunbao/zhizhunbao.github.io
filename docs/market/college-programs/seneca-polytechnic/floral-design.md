@@ -1,10 +1,10 @@
 ---
-title: "10.53.76 Floral Design"
+title: "10.59.76 Floral Design"
 description: "Market > College Programs > Seneca Polytechnic > Floral Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.76 Floral Design
+# 10.59.76 Floral Design
 
 ## Glossary
 

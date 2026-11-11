@@ -1,10 +1,10 @@
 ---
-title: "10.17.26 Basic Musicianship"
+title: "10.20.26 Basic Musicianship"
 description: "Market > College Programs > Douglas College > Basic Musicianship: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.26 Basic Musicianship
+# 10.20.26 Basic Musicianship
 
 ## Glossary
 

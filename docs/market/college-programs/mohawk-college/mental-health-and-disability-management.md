@@ -1,10 +1,10 @@
 ---
-title: "10.34.67 Mental Health and Disability Management"
+title: "10.39.67 Mental Health and Disability Management"
 description: "Market > College Programs > Mohawk College > Mental Health and Disability Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.67 Mental Health and Disability Management
+# 10.39.67 Mental Health and Disability Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.44.71 Heavy Duty Equipment Repair"
+title: "10.50.71 Heavy Duty Equipment Repair"
 description: "Market > College Programs > Nova Scotia Community College > Heavy Duty Equipment Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.71 Heavy Duty Equipment Repair
+# 10.50.71 Heavy Duty Equipment Repair
 
 ## Glossary
 

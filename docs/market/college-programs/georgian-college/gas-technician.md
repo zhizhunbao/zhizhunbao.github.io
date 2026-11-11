@@ -1,10 +1,10 @@
 ---
-title: "10.22.80 Gas Technician"
+title: "10.25.80 Gas Technician"
 description: "Market > College Programs > Georgian College > Gas Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.80 Gas Technician
+# 10.25.80 Gas Technician
 
 ## Glossary
 

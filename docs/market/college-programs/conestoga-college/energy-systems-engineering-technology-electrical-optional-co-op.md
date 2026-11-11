@@ -1,10 +1,10 @@
 ---
-title: "10.15.103 Energy Systems Engineering Technology - Electrical (Optional Co-op)"
+title: "10.18.103 Energy Systems Engineering Technology - Electrical (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Energy Systems Engineering Technology - Electrical (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.103 Energy Systems Engineering Technology - Electrical (Optional Co-op)
+# 10.18.103 Energy Systems Engineering Technology - Electrical (Optional Co-op)
 
 ## Glossary
 

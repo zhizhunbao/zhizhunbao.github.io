@@ -1,10 +1,10 @@
 ---
-title: "10.53.70 Fire Protection Engineering Technician"
+title: "10.59.70 Fire Protection Engineering Technician"
 description: "Market > College Programs > Seneca Polytechnic > Fire Protection Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.70 Fire Protection Engineering Technician
+# 10.59.70 Fire Protection Engineering Technician
 
 ## Glossary
 

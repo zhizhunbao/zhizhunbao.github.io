@@ -1,10 +1,10 @@
 ---
-title: "10.16.46 Indigenous Community Advocacy: Naadaamaagewin (0510)"
+title: "10.19.46 Indigenous Community Advocacy: Naadaamaagewin (0510)"
 description: "Market > College Programs > Confederation College > Indigenous Community Advocacy: Naadaamaagewin (0510): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.46 Indigenous Community Advocacy: Naadaamaagewin (0510)
+# 10.19.46 Indigenous Community Advocacy: Naadaamaagewin (0510)
 
 ## Glossary
 

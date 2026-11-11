@@ -1,10 +1,10 @@
 ---
-title: "10.29.89 Recreation Leadership"
+title: "10.33.89 Recreation Leadership"
 description: "Market > College Programs > Langara College > Recreation Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.89 Recreation Leadership
+# 10.33.89 Recreation Leadership
 
 ## Glossary
 

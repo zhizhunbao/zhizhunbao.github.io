@@ -1,10 +1,10 @@
 ---
-title: "10.23.40 Plumbing / Pipefitting"
+title: "10.27.40 Plumbing / Pipefitting"
 description: "Market > College Programs > Holland College > Plumbing / Pipefitting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.40 Plumbing / Pipefitting
+# 10.27.40 Plumbing / Pipefitting
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.204 Welding Techniques"
+title: "10.18.204 Welding Techniques"
 description: "Market > College Programs > Conestoga College > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.204 Welding Techniques
+# 10.18.204 Welding Techniques
 
 ## Glossary
 

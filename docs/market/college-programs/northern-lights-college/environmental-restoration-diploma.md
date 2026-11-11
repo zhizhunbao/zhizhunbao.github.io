@@ -1,10 +1,10 @@
 ---
-title: "10.42.8 Environmental Restoration Diploma"
+title: "10.48.8 Environmental Restoration Diploma"
 description: "Market > College Programs > Northern Lights College > Environmental Restoration Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.8 Environmental Restoration Diploma
+# 10.48.8 Environmental Restoration Diploma
 
 ## Glossary
 

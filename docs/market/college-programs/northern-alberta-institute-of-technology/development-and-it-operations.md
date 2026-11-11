@@ -1,10 +1,10 @@
 ---
-title: "10.39.46 Development and IT Operations"
+title: "10.45.46 Development and IT Operations"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Development and IT Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.46 Development and IT Operations
+# 10.45.46 Development and IT Operations
 
 ## Glossary
 

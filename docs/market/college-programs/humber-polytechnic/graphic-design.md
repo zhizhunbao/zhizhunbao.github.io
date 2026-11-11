@@ -1,10 +1,10 @@
 ---
-title: "10.24.78 Graphic Design"
+title: "10.28.78 Graphic Design"
 description: "Market > College Programs > Humber Polytechnic > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.78 Graphic Design
+# 10.28.78 Graphic Design
 
 ## Glossary
 

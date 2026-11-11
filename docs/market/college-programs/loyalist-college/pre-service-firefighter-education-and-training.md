@@ -1,10 +1,10 @@
 ---
-title: "10.31.59 Pre-Service Firefighter Education and Training"
+title: "10.35.59 Pre-Service Firefighter Education and Training"
 description: "Market > College Programs > Loyalist College > Pre-Service Firefighter Education and Training: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.59 Pre-Service Firefighter Education and Training
+# 10.35.59 Pre-Service Firefighter Education and Training
 
 ## Glossary
 

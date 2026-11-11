@@ -1,10 +1,10 @@
 ---
-title: "10.15.79 Construction Techniques (Welding, HVAC, Plumbing, and Masonry)"
+title: "10.18.79 Construction Techniques (Welding, HVAC, Plumbing, and Masonry)"
 description: "Market > College Programs > Conestoga College > Construction Techniques (Welding, HVAC, Plumbing, and Masonry): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.79 Construction Techniques (Welding, HVAC, Plumbing, and Masonry)
+# 10.18.79 Construction Techniques (Welding, HVAC, Plumbing, and Masonry)
 
 ## Glossary
 

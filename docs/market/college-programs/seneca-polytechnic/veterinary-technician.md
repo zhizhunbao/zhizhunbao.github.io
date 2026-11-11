@@ -1,10 +1,10 @@
 ---
-title: "10.53.159 Veterinary Technician"
+title: "10.59.159 Veterinary Technician"
 description: "Market > College Programs > Seneca Polytechnic > Veterinary Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.159 Veterinary Technician
+# 10.59.159 Veterinary Technician
 
 ## Glossary
 

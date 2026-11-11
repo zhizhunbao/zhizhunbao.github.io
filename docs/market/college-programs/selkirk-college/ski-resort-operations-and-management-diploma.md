@@ -1,10 +1,10 @@
 ---
-title: "10.52.67 Ski Resort Operations and Management - Diploma"
+title: "10.58.67 Ski Resort Operations and Management - Diploma"
 description: "Market > College Programs > Selkirk College > Ski Resort Operations and Management - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.67 Ski Resort Operations and Management - Diploma
+# 10.58.67 Ski Resort Operations and Management - Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.16.32 Electrical Engineering Technician (0322)"
+title: "10.19.32 Electrical Engineering Technician (0322)"
 description: "Market > College Programs > Confederation College > Electrical Engineering Technician (0322): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.32 Electrical Engineering Technician (0322)
+# 10.19.32 Electrical Engineering Technician (0322)
 
 ## Glossary
 

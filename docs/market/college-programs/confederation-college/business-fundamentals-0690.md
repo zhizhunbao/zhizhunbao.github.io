@@ -1,10 +1,10 @@
 ---
-title: "10.16.19 Business Fundamentals (0690)"
+title: "10.19.19 Business Fundamentals (0690)"
 description: "Market > College Programs > Confederation College > Business Fundamentals (0690): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.19 Business Fundamentals (0690)
+# 10.19.19 Business Fundamentals (0690)
 
 ## Glossary
 

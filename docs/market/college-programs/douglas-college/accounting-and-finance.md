@@ -1,10 +1,10 @@
 ---
-title: "10.17.8 Accounting and Finance"
+title: "10.20.8 Accounting and Finance"
 description: "Market > College Programs > Douglas College > Accounting and Finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.8 Accounting and Finance
+# 10.20.8 Accounting and Finance
 
 ## Glossary
 

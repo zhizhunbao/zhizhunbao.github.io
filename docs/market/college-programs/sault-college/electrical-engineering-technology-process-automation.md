@@ -1,10 +1,10 @@
 ---
-title: "10.51.24 Electrical Engineering Technology - Process Automation"
+title: "10.57.24 Electrical Engineering Technology - Process Automation"
 description: "Market > College Programs > Sault College > Electrical Engineering Technology - Process Automation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.24 Electrical Engineering Technology - Process Automation
+# 10.57.24 Electrical Engineering Technology - Process Automation
 
 ## Glossary
 

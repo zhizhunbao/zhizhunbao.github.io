@@ -1,10 +1,10 @@
 ---
-title: "10.55.7 Audio and Creative Media"
+title: "10.62.7 Audio and Creative Media"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Audio and Creative Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.7 Audio and Creative Media
+# 10.62.7 Audio and Creative Media
 
 ## Glossary
 

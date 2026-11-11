@@ -1,10 +1,10 @@
 ---
-title: "10.29.17 Biology (biology-diploma-we)"
+title: "10.33.17 Biology (biology-diploma-we)"
 description: "Market > College Programs > Langara College > Biology (biology-diploma-we): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.17 Biology (biology-diploma-we)
+# 10.33.17 Biology (biology-diploma-we)
 
 ## Glossary
 

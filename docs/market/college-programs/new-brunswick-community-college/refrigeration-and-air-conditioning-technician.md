@@ -1,10 +1,10 @@
 ---
-title: "10.35.72 Refrigeration and Air Conditioning Technician"
+title: "10.40.72 Refrigeration and Air Conditioning Technician"
 description: "Market > College Programs > New Brunswick Community College > Refrigeration and Air Conditioning Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.72 Refrigeration and Air Conditioning Technician
+# 10.40.72 Refrigeration and Air Conditioning Technician
 
 ## Glossary
 

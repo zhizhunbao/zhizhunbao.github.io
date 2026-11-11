@@ -1,10 +1,10 @@
 ---
-title: "10.36.63 Mechanical Engineering Technician"
+title: "10.41.63 Mechanical Engineering Technician"
 description: "Market > College Programs > Niagara College > Mechanical Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.63 Mechanical Engineering Technician
+# 10.41.63 Mechanical Engineering Technician
 
 ## Glossary
 

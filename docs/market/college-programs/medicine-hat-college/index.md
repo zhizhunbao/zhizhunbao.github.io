@@ -1,10 +1,10 @@
 ---
-title: "10.33 Medicine Hat College"
+title: "10.38 Medicine Hat College"
 description: "Market > College Programs > Medicine Hat College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33 Medicine Hat College
+# 10.38 Medicine Hat College
 
 ## Glossary
 

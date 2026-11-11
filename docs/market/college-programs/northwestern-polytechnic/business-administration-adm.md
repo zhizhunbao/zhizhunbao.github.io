@@ -1,10 +1,10 @@
 ---
-title: "10.43.4 Business Administration (ADM)"
+title: "10.49.4 Business Administration (ADM)"
 description: "Market > College Programs > Northwestern Polytechnic > Business Administration (ADM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.4 Business Administration (ADM)
+# 10.49.4 Business Administration (ADM)
 
 ## Glossary
 

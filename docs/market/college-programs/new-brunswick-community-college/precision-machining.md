@@ -1,10 +1,10 @@
 ---
-title: "10.35.70 Precision Machining"
+title: "10.40.70 Precision Machining"
 description: "Market > College Programs > New Brunswick Community College > Precision Machining: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.70 Precision Machining
+# 10.40.70 Precision Machining
 
 ## Glossary
 

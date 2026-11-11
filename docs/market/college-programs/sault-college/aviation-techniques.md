@@ -1,10 +1,10 @@
 ---
-title: "10.51.3 Aviation Techniques"
+title: "10.57.3 Aviation Techniques"
 description: "Market > College Programs > Sault College > Aviation Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.3 Aviation Techniques
+# 10.57.3 Aviation Techniques
 
 ## Glossary
 

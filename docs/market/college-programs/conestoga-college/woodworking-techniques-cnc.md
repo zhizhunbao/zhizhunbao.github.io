@@ -1,10 +1,10 @@
 ---
-title: "10.15.207 Woodworking Techniques - CNC"
+title: "10.18.207 Woodworking Techniques - CNC"
 description: "Market > College Programs > Conestoga College > Woodworking Techniques - CNC: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.207 Woodworking Techniques - CNC
+# 10.18.207 Woodworking Techniques - CNC
 
 ## Glossary
 

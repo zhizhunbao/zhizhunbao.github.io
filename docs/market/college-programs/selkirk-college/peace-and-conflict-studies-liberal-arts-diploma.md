@@ -1,10 +1,10 @@
 ---
-title: "10.52.59 Peace and Conflict Studies - Liberal Arts Diploma"
+title: "10.58.59 Peace and Conflict Studies - Liberal Arts Diploma"
 description: "Market > College Programs > Selkirk College > Peace and Conflict Studies - Liberal Arts Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.59 Peace and Conflict Studies - Liberal Arts Diploma
+# 10.58.59 Peace and Conflict Studies - Liberal Arts Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.12.40 Web and Graphic Design Certificate"
+title: "10.15.40 Web and Graphic Design Certificate"
 description: "Market > College Programs > College of New Caledonia > Web and Graphic Design Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.40 Web and Graphic Design Certificate
+# 10.15.40 Web and Graphic Design Certificate
 
 ## Glossary
 

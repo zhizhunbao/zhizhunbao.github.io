@@ -1,10 +1,10 @@
 ---
-title: "10.35.1 Accounting and Payroll Administration"
+title: "10.40.1 Accounting and Payroll Administration"
 description: "Market > College Programs > New Brunswick Community College > Accounting and Payroll Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.1 Accounting and Payroll Administration
+# 10.40.1 Accounting and Payroll Administration
 
 ## Glossary
 

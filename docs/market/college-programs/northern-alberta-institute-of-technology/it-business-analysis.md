@@ -1,10 +1,10 @@
 ---
-title: "10.39.66 IT Business Analysis"
+title: "10.45.66 IT Business Analysis"
 description: "Market > College Programs > Northern Alberta Institute of Technology > IT Business Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.66 IT Business Analysis
+# 10.45.66 IT Business Analysis
 
 ## Glossary
 

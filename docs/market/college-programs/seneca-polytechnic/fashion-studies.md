@@ -1,10 +1,10 @@
 ---
-title: "10.53.66 Fashion Studies"
+title: "10.59.66 Fashion Studies"
 description: "Market > College Programs > Seneca Polytechnic > Fashion Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.66 Fashion Studies
+# 10.59.66 Fashion Studies
 
 ## Glossary
 

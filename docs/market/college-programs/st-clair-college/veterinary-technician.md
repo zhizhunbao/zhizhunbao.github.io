@@ -1,10 +1,10 @@
 ---
-title: "10.56.116 Veterinary Technician"
+title: "10.63.116 Veterinary Technician"
 description: "Market > College Programs > St. Clair College > Veterinary Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.116 Veterinary Technician
+# 10.63.116 Veterinary Technician
 
 ## Glossary
 

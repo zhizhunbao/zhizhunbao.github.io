@@ -1,10 +1,10 @@
 ---
-title: "10.53.61 Esthetician"
+title: "10.59.61 Esthetician"
 description: "Market > College Programs > Seneca Polytechnic > Esthetician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.61 Esthetician
+# 10.59.61 Esthetician
 
 ## Glossary
 

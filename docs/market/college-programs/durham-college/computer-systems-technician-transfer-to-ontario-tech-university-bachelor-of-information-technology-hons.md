@@ -1,10 +1,10 @@
 ---
-title: "10.18.35 Computer Systems Technician – Transfer to Ontario Tech University Bachelor of Information Technology (Hons)"
+title: "10.21.35 Computer Systems Technician – Transfer to Ontario Tech University Bachelor of Information Technology (Hons)"
 description: "Market > College Programs > Durham College > Computer Systems Technician – Transfer to Ontario Tech University Bachelor of Information Technology (Hons): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.35 Computer Systems Technician – Transfer to Ontario Tech University Bachelor of Information Technology (Hons)
+# 10.21.35 Computer Systems Technician – Transfer to Ontario Tech University Bachelor of Information Technology (Hons)
 
 ## Glossary
 

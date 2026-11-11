@@ -1,10 +1,10 @@
 ---
-title: "10.55.19 Bachelor of Business Administration - Supply Chain Management Major"
+title: "10.62.19 Bachelor of Business Administration - Supply Chain Management Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Business Administration - Supply Chain Management Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.19 Bachelor of Business Administration - Supply Chain Management Major
+# 10.62.19 Bachelor of Business Administration - Supply Chain Management Major
 
 ## Glossary
 

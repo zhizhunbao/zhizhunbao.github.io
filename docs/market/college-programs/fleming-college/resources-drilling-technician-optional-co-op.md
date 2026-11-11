@@ -1,10 +1,10 @@
 ---
-title: "10.20.72 Resources Drilling Technician (Optional Co-op)"
+title: "10.23.72 Resources Drilling Technician (Optional Co-op)"
 description: "Market > College Programs > Fleming College > Resources Drilling Technician (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.72 Resources Drilling Technician (Optional Co-op)
+# 10.23.72 Resources Drilling Technician (Optional Co-op)
 
 ## Glossary
 

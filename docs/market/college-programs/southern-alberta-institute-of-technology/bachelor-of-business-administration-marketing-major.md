@@ -1,10 +1,10 @@
 ---
-title: "10.55.18 Bachelor of Business Administration - Marketing Major"
+title: "10.62.18 Bachelor of Business Administration - Marketing Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Business Administration - Marketing Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.18 Bachelor of Business Administration - Marketing Major
+# 10.62.18 Bachelor of Business Administration - Marketing Major
 
 ## Glossary
 

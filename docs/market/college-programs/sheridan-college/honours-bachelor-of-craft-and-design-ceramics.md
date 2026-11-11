@@ -1,10 +1,10 @@
 ---
-title: "10.54.55 Honours Bachelor of Craft and Design (Ceramics)"
+title: "10.60.55 Honours Bachelor of Craft and Design (Ceramics)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Craft and Design (Ceramics): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.55 Honours Bachelor of Craft and Design (Ceramics)
+# 10.60.55 Honours Bachelor of Craft and Design (Ceramics)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.21.34 Early Childhood Education (C160)"
+title: "10.24.34 Early Childhood Education (C160)"
 description: "Market > College Programs > George Brown Polytechnic > Early Childhood Education (C160): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.34 Early Childhood Education (C160)
+# 10.24.34 Early Childhood Education (C160)
 
 ## Glossary
 

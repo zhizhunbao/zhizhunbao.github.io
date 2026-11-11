@@ -1,10 +1,10 @@
 ---
-title: "10.44.113 Precision Machining"
+title: "10.50.113 Precision Machining"
 description: "Market > College Programs > Nova Scotia Community College > Precision Machining: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.113 Precision Machining
+# 10.50.113 Precision Machining
 
 ## Glossary
 

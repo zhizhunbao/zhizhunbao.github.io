@@ -1,10 +1,10 @@
 ---
-title: "10.51.15 Computer Networking and Cyber Security"
+title: "10.57.15 Computer Networking and Cyber Security"
 description: "Market > College Programs > Sault College > Computer Networking and Cyber Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.15 Computer Networking and Cyber Security
+# 10.57.15 Computer Networking and Cyber Security
 
 ## Glossary
 

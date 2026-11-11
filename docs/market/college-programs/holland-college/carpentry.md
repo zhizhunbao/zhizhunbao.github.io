@@ -1,10 +1,10 @@
 ---
-title: "10.23.11 Carpentry"
+title: "10.27.11 Carpentry"
 description: "Market > College Programs > Holland College > Carpentry: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.11 Carpentry
+# 10.27.11 Carpentry
 
 ## Glossary
 

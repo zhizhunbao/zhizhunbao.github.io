@@ -1,10 +1,10 @@
 ---
-title: "10.53.14 Bachelor of Computer Science"
+title: "10.59.14 Bachelor of Computer Science"
 description: "Market > College Programs > Seneca Polytechnic > Bachelor of Computer Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.14 Bachelor of Computer Science
+# 10.59.14 Bachelor of Computer Science
 
 ## Glossary
 

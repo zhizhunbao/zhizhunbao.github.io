@@ -1,10 +1,10 @@
 ---
-title: "10.13.90 Respiratory Therapy"
+title: "10.16.90 Respiratory Therapy"
 description: "Market > College Programs > College of the North Atlantic > Respiratory Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.90 Respiratory Therapy
+# 10.16.90 Respiratory Therapy
 
 ## Glossary
 

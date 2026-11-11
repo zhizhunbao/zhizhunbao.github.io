@@ -1,10 +1,10 @@
 ---
-title: "10.41.11 Health Care Aide Employed Student Tutored Education Program (eSTEP)"
+title: "10.47.11 Health Care Aide Employed Student Tutored Education Program (eSTEP)"
 description: "Market > College Programs > Northern Lakes College > Health Care Aide Employed Student Tutored Education Program (eSTEP): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.11 Health Care Aide Employed Student Tutored Education Program (eSTEP)
+# 10.47.11 Health Care Aide Employed Student Tutored Education Program (eSTEP)
 
 ## Glossary
 

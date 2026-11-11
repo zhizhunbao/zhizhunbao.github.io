@@ -1,10 +1,10 @@
 ---
-title: "10.30.53 Pre-Welder Certificate"
+title: "10.34.53 Pre-Welder Certificate"
 description: "Market > College Programs > Lethbridge Polytechnic > Pre-Welder Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.53 Pre-Welder Certificate
+# 10.34.53 Pre-Welder Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.54.33 Digital Creature Animation – Technical Direction"
+title: "10.60.33 Digital Creature Animation – Technical Direction"
 description: "Market > College Programs > Sheridan College > Digital Creature Animation – Technical Direction: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.33 Digital Creature Animation – Technical Direction
+# 10.60.33 Digital Creature Animation – Technical Direction
 
 ## Glossary
 

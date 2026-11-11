@@ -1,10 +1,10 @@
 ---
-title: "10.21.3 Autism and Behavioural Science"
+title: "10.24.3 Autism and Behavioural Science"
 description: "Market > College Programs > George Brown Polytechnic > Autism and Behavioural Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.3 Autism and Behavioural Science
+# 10.24.3 Autism and Behavioural Science
 
 ## Glossary
 

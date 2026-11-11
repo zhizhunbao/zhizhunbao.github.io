@@ -1,10 +1,10 @@
 ---
-title: "10.47.13 Early Learning & Child Care Diploma"
+title: "10.53.13 Early Learning & Child Care Diploma"
 description: "Market > College Programs > Portage College > Early Learning & Child Care Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.13 Early Learning & Child Care Diploma
+# 10.53.13 Early Learning & Child Care Diploma
 
 ## Glossary
 

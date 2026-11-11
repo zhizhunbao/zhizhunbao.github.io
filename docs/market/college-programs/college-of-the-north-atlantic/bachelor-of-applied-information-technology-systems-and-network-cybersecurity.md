@@ -1,10 +1,10 @@
 ---
-title: "10.13.13 Bachelor of Applied Information Technology: Systems and Network Cybersecurity"
+title: "10.16.13 Bachelor of Applied Information Technology: Systems and Network Cybersecurity"
 description: "Market > College Programs > College of the North Atlantic > Bachelor of Applied Information Technology: Systems and Network Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.13 Bachelor of Applied Information Technology: Systems and Network Cybersecurity
+# 10.16.13 Bachelor of Applied Information Technology: Systems and Network Cybersecurity
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.54.96 Plumbing Technician"
+title: "10.60.96 Plumbing Technician"
 description: "Market > College Programs > Sheridan College > Plumbing Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.96 Plumbing Technician
+# 10.60.96 Plumbing Technician
 
 ## Glossary
 

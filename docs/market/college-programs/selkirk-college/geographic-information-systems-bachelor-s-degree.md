@@ -1,10 +1,10 @@
 ---
-title: "10.52.41 Geographic Information Systems - Bachelor's Degree"
+title: "10.58.41 Geographic Information Systems - Bachelor's Degree"
 description: "Market > College Programs > Selkirk College > Geographic Information Systems - Bachelor's Degree: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.41 Geographic Information Systems - Bachelor's Degree
+# 10.58.41 Geographic Information Systems - Bachelor's Degree
 
 ## Glossary
 

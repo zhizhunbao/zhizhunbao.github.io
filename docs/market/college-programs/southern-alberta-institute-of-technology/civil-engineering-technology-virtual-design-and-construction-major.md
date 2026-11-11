@@ -1,10 +1,10 @@
 ---
-title: "10.55.40 Civil Engineering Technology - Virtual Design and Construction Major"
+title: "10.62.40 Civil Engineering Technology - Virtual Design and Construction Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Civil Engineering Technology - Virtual Design and Construction Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.40 Civil Engineering Technology - Virtual Design and Construction Major
+# 10.62.40 Civil Engineering Technology - Virtual Design and Construction Major
 
 ## Glossary
 

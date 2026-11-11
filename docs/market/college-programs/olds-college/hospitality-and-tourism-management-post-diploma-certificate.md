@@ -1,10 +1,10 @@
 ---
-title: "10.46.23 Hospitality and Tourism Management Post-Diploma Certificate"
+title: "10.52.23 Hospitality and Tourism Management Post-Diploma Certificate"
 description: "Market > College Programs > Olds College > Hospitality and Tourism Management Post-Diploma Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.23 Hospitality and Tourism Management Post-Diploma Certificate
+# 10.52.23 Hospitality and Tourism Management Post-Diploma Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.29.93 Theatre Arts at Studio 58 (Acting)"
+title: "10.33.93 Theatre Arts at Studio 58 (Acting)"
 description: "Market > College Programs > Langara College > Theatre Arts at Studio 58 (Acting): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.93 Theatre Arts at Studio 58 (Acting)
+# 10.33.93 Theatre Arts at Studio 58 (Acting)
 
 ## Glossary
 

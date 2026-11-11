@@ -1,10 +1,10 @@
 ---
-title: "10.13.102 Tourism & Hospitality Services"
+title: "10.16.102 Tourism & Hospitality Services"
 description: "Market > College Programs > College of the North Atlantic > Tourism & Hospitality Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.102 Tourism & Hospitality Services
+# 10.16.102 Tourism & Hospitality Services
 
 ## Glossary
 

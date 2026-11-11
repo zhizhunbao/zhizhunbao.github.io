@@ -1,10 +1,10 @@
 ---
-title: "10.49.23 Digital Media Design"
+title: "10.55.23 Digital Media Design"
 description: "Market > College Programs > Red River College Polytechnic > Digital Media Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.23 Digital Media Design
+# 10.55.23 Digital Media Design
 
 ## Glossary
 

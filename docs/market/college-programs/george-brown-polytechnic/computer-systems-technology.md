@@ -1,10 +1,10 @@
 ---
-title: "10.21.22 Computer Systems Technology"
+title: "10.24.22 Computer Systems Technology"
 description: "Market > College Programs > George Brown Polytechnic > Computer Systems Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.22 Computer Systems Technology
+# 10.24.22 Computer Systems Technology
 
 ## Glossary
 

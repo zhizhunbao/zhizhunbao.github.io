@@ -1,10 +1,10 @@
 ---
-title: "10.52.30 Engineering Transfer - Certificate"
+title: "10.58.30 Engineering Transfer - Certificate"
 description: "Market > College Programs > Selkirk College > Engineering Transfer - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.30 Engineering Transfer - Certificate
+# 10.58.30 Engineering Transfer - Certificate
 
 ## Glossary
 

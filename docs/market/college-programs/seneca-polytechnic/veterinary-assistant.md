@@ -1,10 +1,10 @@
 ---
-title: "10.53.158 Veterinary Assistant"
+title: "10.59.158 Veterinary Assistant"
 description: "Market > College Programs > Seneca Polytechnic > Veterinary Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.158 Veterinary Assistant
+# 10.59.158 Veterinary Assistant
 
 ## Glossary
 

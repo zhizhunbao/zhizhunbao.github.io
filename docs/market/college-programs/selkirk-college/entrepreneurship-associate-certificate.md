@@ -1,10 +1,10 @@
 ---
-title: "10.52.33 Entrepreneurship - Associate Certificate"
+title: "10.58.33 Entrepreneurship - Associate Certificate"
 description: "Market > College Programs > Selkirk College > Entrepreneurship - Associate Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.33 Entrepreneurship - Associate Certificate
+# 10.58.33 Entrepreneurship - Associate Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.54.41 Electromechanical Engineering Technician – Mechatronics and Robotics"
+title: "10.60.41 Electromechanical Engineering Technician – Mechatronics and Robotics"
 description: "Market > College Programs > Sheridan College > Electromechanical Engineering Technician – Mechatronics and Robotics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.41 Electromechanical Engineering Technician – Mechatronics and Robotics
+# 10.60.41 Electromechanical Engineering Technician – Mechatronics and Robotics
 
 ## Glossary
 

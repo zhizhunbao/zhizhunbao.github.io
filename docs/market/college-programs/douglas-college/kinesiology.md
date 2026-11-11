@@ -1,10 +1,10 @@
 ---
-title: "10.17.66 Kinesiology"
+title: "10.20.66 Kinesiology"
 description: "Market > College Programs > Douglas College > Kinesiology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.66 Kinesiology
+# 10.20.66 Kinesiology
 
 ## Glossary
 

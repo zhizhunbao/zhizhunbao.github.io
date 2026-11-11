@@ -1,10 +1,10 @@
 ---
-title: "10.56.32 Data Analytics"
+title: "10.63.32 Data Analytics"
 description: "Market > College Programs > St. Clair College > Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.32 Data Analytics
+# 10.63.32 Data Analytics
 
 ## Glossary
 

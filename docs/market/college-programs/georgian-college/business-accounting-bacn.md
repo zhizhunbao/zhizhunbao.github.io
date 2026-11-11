@@ -1,10 +1,10 @@
 ---
-title: "10.22.21 Business - Accounting (BACN)"
+title: "10.25.21 Business - Accounting (BACN)"
 description: "Market > College Programs > Georgian College > Business - Accounting (BACN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.21 Business - Accounting (BACN)
+# 10.25.21 Business - Accounting (BACN)
 
 ## Glossary
 

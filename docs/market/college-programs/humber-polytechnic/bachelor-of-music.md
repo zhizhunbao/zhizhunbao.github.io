@@ -1,10 +1,10 @@
 ---
-title: "10.24.29 Bachelor of Music"
+title: "10.28.29 Bachelor of Music"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Music: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.29 Bachelor of Music
+# 10.28.29 Bachelor of Music
 
 ## Glossary
 

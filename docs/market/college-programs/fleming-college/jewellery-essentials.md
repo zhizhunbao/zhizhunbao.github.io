@@ -1,10 +1,10 @@
 ---
-title: "10.20.48 Jewellery Essentials"
+title: "10.23.48 Jewellery Essentials"
 description: "Market > College Programs > Fleming College > Jewellery Essentials: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.48 Jewellery Essentials
+# 10.23.48 Jewellery Essentials
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.135 Mechanical Engineering Technology - Design and Industrial (Optional Co-op)"
+title: "10.9.135 Mechanical Engineering Technology - Design and Industrial (Optional Co-op)"
 description: "Market > College Programs > Centennial College > Mechanical Engineering Technology - Design and Industrial (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.135 Mechanical Engineering Technology - Design and Industrial (Optional Co-op)
+# 10.9.135 Mechanical Engineering Technology - Design and Industrial (Optional Co-op)
 
 ## Glossary
 

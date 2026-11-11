@@ -1,10 +1,10 @@
 ---
-title: "10.46.25 Meat Processing Certificate"
+title: "10.52.25 Meat Processing Certificate"
 description: "Market > College Programs > Olds College > Meat Processing Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.25 Meat Processing Certificate
+# 10.52.25 Meat Processing Certificate
 
 ## Glossary
 

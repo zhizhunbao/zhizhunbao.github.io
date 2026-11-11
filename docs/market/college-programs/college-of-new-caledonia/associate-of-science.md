@@ -1,10 +1,10 @@
 ---
-title: "10.12.4 Associate of Science"
+title: "10.15.4 Associate of Science"
 description: "Market > College Programs > College of New Caledonia > Associate of Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.4 Associate of Science
+# 10.15.4 Associate of Science
 
 ## Glossary
 

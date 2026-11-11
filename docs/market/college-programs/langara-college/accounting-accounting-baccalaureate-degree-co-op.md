@@ -1,10 +1,10 @@
 ---
-title: "10.29.2 Accounting (accounting-baccalaureate-degree-co-op)"
+title: "10.33.2 Accounting (accounting-baccalaureate-degree-co-op)"
 description: "Market > College Programs > Langara College > Accounting (accounting-baccalaureate-degree-co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.2 Accounting (accounting-baccalaureate-degree-co-op)
+# 10.33.2 Accounting (accounting-baccalaureate-degree-co-op)
 
 ## Glossary
 

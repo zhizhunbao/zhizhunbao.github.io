@@ -1,10 +1,10 @@
 ---
-title: "10.38.13 Health Care Assistant and Community Mental Health Worker"
+title: "10.43.13 Health Care Assistant and Community Mental Health Worker"
 description: "Market > College Programs > North Island College > Health Care Assistant and Community Mental Health Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.13 Health Care Assistant and Community Mental Health Worker
+# 10.43.13 Health Care Assistant and Community Mental Health Worker
 
 ## Glossary
 

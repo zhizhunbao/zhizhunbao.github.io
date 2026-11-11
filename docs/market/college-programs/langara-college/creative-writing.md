@@ -1,10 +1,10 @@
 ---
-title: "10.29.34 Creative Writing"
+title: "10.33.34 Creative Writing"
 description: "Market > College Programs > Langara College > Creative Writing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.34 Creative Writing
+# 10.33.34 Creative Writing
 
 ## Glossary
 

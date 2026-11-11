@@ -1,10 +1,10 @@
 ---
-title: "10.30.36 General Arts and Science Diploma"
+title: "10.34.36 General Arts and Science Diploma"
 description: "Market > College Programs > Lethbridge Polytechnic > General Arts and Science Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.36 General Arts and Science Diploma
+# 10.34.36 General Arts and Science Diploma
 
 ## Glossary
 

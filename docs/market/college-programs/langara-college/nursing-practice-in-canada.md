@@ -1,10 +1,10 @@
 ---
-title: "10.29.78 Nursing Practice in Canada"
+title: "10.33.78 Nursing Practice in Canada"
 description: "Market > College Programs > Langara College > Nursing Practice in Canada: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.78 Nursing Practice in Canada
+# 10.33.78 Nursing Practice in Canada
 
 ## Glossary
 

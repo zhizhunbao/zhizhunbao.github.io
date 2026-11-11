@@ -1,10 +1,10 @@
 ---
-title: "10.15.48 Business - Insurance (Optional Co-op)"
+title: "10.18.48 Business - Insurance (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Business - Insurance (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.48 Business - Insurance (Optional Co-op)
+# 10.18.48 Business - Insurance (Optional Co-op)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.25 Fundamental Arts"
+title: "10.27.25 Fundamental Arts"
 description: "Market > College Programs > Holland College > Fundamental Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.25 Fundamental Arts
+# 10.27.25 Fundamental Arts
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.107 Jewellery Design, Bench Skills and Business"
+title: "10.25.107 Jewellery Design, Bench Skills and Business"
 description: "Market > College Programs > Georgian College > Jewellery Design, Bench Skills and Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.107 Jewellery Design, Bench Skills and Business
+# 10.25.107 Jewellery Design, Bench Skills and Business
 
 ## Glossary
 

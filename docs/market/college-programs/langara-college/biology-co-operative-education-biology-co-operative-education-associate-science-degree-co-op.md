@@ -1,10 +1,10 @@
 ---
-title: "10.29.18 Biology (Co-operative Education) (biology-co-operative-education-associate-science-degree-co-op)"
+title: "10.33.18 Biology (Co-operative Education) (biology-co-operative-education-associate-science-degree-co-op)"
 description: "Market > College Programs > Langara College > Biology (Co-operative Education) (biology-co-operative-education-associate-science-degree-co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.18 Biology (Co-operative Education) (biology-co-operative-education-associate-science-degree-co-op)
+# 10.33.18 Biology (Co-operative Education) (biology-co-operative-education-associate-science-degree-co-op)
 
 ## Glossary
 

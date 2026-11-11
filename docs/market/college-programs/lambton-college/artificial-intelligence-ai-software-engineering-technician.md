@@ -1,10 +1,10 @@
 ---
-title: "10.28.13 Artificial Intelligence (AI) - Software Engineering Technician"
+title: "10.32.13 Artificial Intelligence (AI) - Software Engineering Technician"
 description: "Market > College Programs > Lambton College > Artificial Intelligence (AI) - Software Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.13 Artificial Intelligence (AI) - Software Engineering Technician
+# 10.32.13 Artificial Intelligence (AI) - Software Engineering Technician
 
 ## Glossary
 

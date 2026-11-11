@@ -1,10 +1,10 @@
 ---
-title: "10.37.28 Interdisciplinary Therapy Assistant"
+title: "10.42.28 Interdisciplinary Therapy Assistant"
 description: "Market > College Programs > NorQuest College > Interdisciplinary Therapy Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.28 Interdisciplinary Therapy Assistant
+# 10.42.28 Interdisciplinary Therapy Assistant
 
 ## Glossary
 

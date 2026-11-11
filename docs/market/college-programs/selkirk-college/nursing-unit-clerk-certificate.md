@@ -1,10 +1,10 @@
 ---
-title: "10.52.57 Nursing Unit Clerk - Certificate"
+title: "10.58.57 Nursing Unit Clerk - Certificate"
 description: "Market > College Programs > Selkirk College > Nursing Unit Clerk - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.57 Nursing Unit Clerk - Certificate
+# 10.58.57 Nursing Unit Clerk - Certificate
 
 ## Glossary
 

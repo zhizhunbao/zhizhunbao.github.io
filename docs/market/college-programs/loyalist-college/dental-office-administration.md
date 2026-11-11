@@ -1,10 +1,10 @@
 ---
-title: "10.31.26 Dental Office Administration"
+title: "10.35.26 Dental Office Administration"
 description: "Market > College Programs > Loyalist College > Dental Office Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.26 Dental Office Administration
+# 10.35.26 Dental Office Administration
 
 ## Glossary
 

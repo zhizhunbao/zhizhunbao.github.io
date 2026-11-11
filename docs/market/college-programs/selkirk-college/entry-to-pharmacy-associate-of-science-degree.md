@@ -1,10 +1,10 @@
 ---
-title: "10.52.34 Entry to Pharmacy - Associate of Science Degree"
+title: "10.58.34 Entry to Pharmacy - Associate of Science Degree"
 description: "Market > College Programs > Selkirk College > Entry to Pharmacy - Associate of Science Degree: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.34 Entry to Pharmacy - Associate of Science Degree
+# 10.58.34 Entry to Pharmacy - Associate of Science Degree
 
 ## Glossary
 

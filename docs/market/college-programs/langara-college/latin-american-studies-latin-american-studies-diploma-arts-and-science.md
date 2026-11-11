@@ -1,10 +1,10 @@
 ---
-title: "10.29.68 Latin American Studies (latin-american-studies-diploma-arts-and-science)"
+title: "10.33.68 Latin American Studies (latin-american-studies-diploma-arts-and-science)"
 description: "Market > College Programs > Langara College > Latin American Studies (latin-american-studies-diploma-arts-and-science): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.68 Latin American Studies (latin-american-studies-diploma-arts-and-science)
+# 10.33.68 Latin American Studies (latin-american-studies-diploma-arts-and-science)
 
 ## Glossary
 

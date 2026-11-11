@@ -1,10 +1,10 @@
 ---
-title: "10.28.133 Tourism - Operations Management"
+title: "10.32.133 Tourism - Operations Management"
 description: "Market > College Programs > Lambton College > Tourism - Operations Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.133 Tourism - Operations Management
+# 10.32.133 Tourism - Operations Management
 
 ## Glossary
 

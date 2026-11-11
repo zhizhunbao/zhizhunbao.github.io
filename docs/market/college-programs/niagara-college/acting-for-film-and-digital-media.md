@@ -1,10 +1,10 @@
 ---
-title: "10.36.1 Acting for Film and Digital Media"
+title: "10.41.1 Acting for Film and Digital Media"
 description: "Market > College Programs > Niagara College > Acting for Film and Digital Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.1 Acting for Film and Digital Media
+# 10.41.1 Acting for Film and Digital Media
 
 ## Glossary
 

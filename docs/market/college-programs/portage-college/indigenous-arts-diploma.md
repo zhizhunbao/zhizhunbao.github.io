@@ -1,10 +1,10 @@
 ---
-title: "10.47.21 Indigenous Arts Diploma"
+title: "10.53.21 Indigenous Arts Diploma"
 description: "Market > College Programs > Portage College > Indigenous Arts Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.21 Indigenous Arts Diploma
+# 10.53.21 Indigenous Arts Diploma
 
 ## Glossary
 

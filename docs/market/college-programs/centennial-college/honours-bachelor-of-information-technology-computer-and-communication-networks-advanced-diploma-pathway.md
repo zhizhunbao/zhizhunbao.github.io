@@ -1,10 +1,10 @@
 ---
-title: "10.8.118 Honours Bachelor of Information Technology (Computer and Communication Networks) - Advanced Diploma Pathway"
+title: "10.9.118 Honours Bachelor of Information Technology (Computer and Communication Networks) - Advanced Diploma Pathway"
 description: "Market > College Programs > Centennial College > Honours Bachelor of Information Technology (Computer and Communication Networks) - Advanced Diploma Pathway: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.118 Honours Bachelor of Information Technology (Computer and Communication Networks) - Advanced Diploma Pathway
+# 10.9.118 Honours Bachelor of Information Technology (Computer and Communication Networks) - Advanced Diploma Pathway
 
 ## Glossary
 

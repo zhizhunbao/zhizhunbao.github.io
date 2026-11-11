@@ -1,10 +1,10 @@
 ---
-title: "10.47.1 Academic Foundations"
+title: "10.53.1 Academic Foundations"
 description: "Market > College Programs > Portage College > Academic Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.1 Academic Foundations
+# 10.53.1 Academic Foundations
 
 ## Glossary
 

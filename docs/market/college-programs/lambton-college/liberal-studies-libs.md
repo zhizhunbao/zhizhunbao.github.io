@@ -1,10 +1,10 @@
 ---
-title: "10.28.92 Liberal Studies (LIBS)"
+title: "10.32.92 Liberal Studies (LIBS)"
 description: "Market > College Programs > Lambton College > Liberal Studies (LIBS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.92 Liberal Studies (LIBS)
+# 10.32.92 Liberal Studies (LIBS)
 
 ## Glossary
 

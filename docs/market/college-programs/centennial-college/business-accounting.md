@@ -1,10 +1,10 @@
 ---
-title: "10.8.51 Business Accounting"
+title: "10.9.51 Business Accounting"
 description: "Market > College Programs > Centennial College > Business Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.51 Business Accounting
+# 10.9.51 Business Accounting
 
 ## Glossary
 

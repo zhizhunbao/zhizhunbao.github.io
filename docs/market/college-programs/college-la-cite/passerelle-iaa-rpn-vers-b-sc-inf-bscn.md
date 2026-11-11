@@ -1,10 +1,10 @@
 ---
-title: "10.11.52 Passerelle IAA (RPN) vers B.Sc.Inf (BScN)"
+title: "10.14.52 Passerelle IAA (RPN) vers B.Sc.Inf (BScN)"
 description: "Market > College Programs > Collège La Cité > Passerelle IAA (RPN) vers B.Sc.Inf (BScN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.52 Passerelle IAA (RPN) vers B.Sc.Inf (BScN)
+# 10.14.52 Passerelle IAA (RPN) vers B.Sc.Inf (BScN)
 
 ## Glossary
 

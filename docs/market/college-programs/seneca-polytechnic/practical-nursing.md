@@ -1,10 +1,10 @@
 ---
-title: "10.53.138 Practical Nursing"
+title: "10.59.138 Practical Nursing"
 description: "Market > College Programs > Seneca Polytechnic > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.138 Practical Nursing
+# 10.59.138 Practical Nursing
 
 ## Glossary
 

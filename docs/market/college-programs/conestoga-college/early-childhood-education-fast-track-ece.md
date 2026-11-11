@@ -1,10 +1,10 @@
 ---
-title: "10.15.90 Early Childhood Education Fast Track (ECE)"
+title: "10.18.90 Early Childhood Education Fast Track (ECE)"
 description: "Market > College Programs > Conestoga College > Early Childhood Education Fast Track (ECE): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.90 Early Childhood Education Fast Track (ECE)
+# 10.18.90 Early Childhood Education Fast Track (ECE)
 
 ## Glossary
 

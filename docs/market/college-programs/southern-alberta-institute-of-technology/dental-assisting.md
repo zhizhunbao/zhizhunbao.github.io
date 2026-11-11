@@ -1,10 +1,10 @@
 ---
-title: "10.55.48 Dental Assisting"
+title: "10.62.48 Dental Assisting"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Dental Assisting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.48 Dental Assisting
+# 10.62.48 Dental Assisting
 
 ## Glossary
 

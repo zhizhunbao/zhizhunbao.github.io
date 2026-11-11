@@ -1,10 +1,10 @@
 ---
-title: "10.21.78 Social Media Production - Culture-Based Creativity"
+title: "10.24.78 Social Media Production - Culture-Based Creativity"
 description: "Market > College Programs > George Brown Polytechnic > Social Media Production - Culture-Based Creativity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.78 Social Media Production - Culture-Based Creativity
+# 10.24.78 Social Media Production - Culture-Based Creativity
 
 ## Glossary
 

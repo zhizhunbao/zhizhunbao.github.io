@@ -1,10 +1,10 @@
 ---
-title: "10.44.89 Marine Geomatics"
+title: "10.50.89 Marine Geomatics"
 description: "Market > College Programs > Nova Scotia Community College > Marine Geomatics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.89 Marine Geomatics
+# 10.50.89 Marine Geomatics
 
 ## Glossary
 

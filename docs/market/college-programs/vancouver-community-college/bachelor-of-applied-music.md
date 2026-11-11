@@ -1,10 +1,10 @@
 ---
-title: "10.58.10 Bachelor of Applied Music"
+title: "10.66.10 Bachelor of Applied Music"
 description: "Market > College Programs > Vancouver Community College > Bachelor of Applied Music: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.10 Bachelor of Applied Music
+# 10.66.10 Bachelor of Applied Music
 
 ## Glossary
 

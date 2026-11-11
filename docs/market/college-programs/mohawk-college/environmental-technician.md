@@ -1,10 +1,10 @@
 ---
-title: "10.34.49 Environmental Technician"
+title: "10.39.49 Environmental Technician"
 description: "Market > College Programs > Mohawk College > Environmental Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.49 Environmental Technician
+# 10.39.49 Environmental Technician
 
 ## Glossary
 

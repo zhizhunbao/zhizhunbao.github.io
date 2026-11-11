@@ -1,10 +1,10 @@
 ---
-title: "10.39.96 Software Development"
+title: "10.45.96 Software Development"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Software Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.96 Software Development
+# 10.45.96 Software Development
 
 ## Glossary
 

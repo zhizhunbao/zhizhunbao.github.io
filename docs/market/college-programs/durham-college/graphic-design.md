@@ -1,10 +1,10 @@
 ---
-title: "10.18.69 Graphic Design"
+title: "10.21.69 Graphic Design"
 description: "Market > College Programs > Durham College > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.69 Graphic Design
+# 10.21.69 Graphic Design
 
 ## Glossary
 

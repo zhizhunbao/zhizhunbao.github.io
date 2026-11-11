@@ -1,10 +1,10 @@
 ---
-title: "10.58.54 Vehicle Systems Repair and Maintenance"
+title: "10.66.54 Vehicle Systems Repair and Maintenance"
 description: "Market > College Programs > Vancouver Community College > Vehicle Systems Repair and Maintenance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.54 Vehicle Systems Repair and Maintenance
+# 10.66.54 Vehicle Systems Repair and Maintenance
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.21.66 Master of Construction Management"
+title: "10.24.66 Master of Construction Management"
 description: "Market > College Programs > George Brown Polytechnic > Master of Construction Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.66 Master of Construction Management
+# 10.24.66 Master of Construction Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.36.32 Cybersecurity"
+title: "10.41.32 Cybersecurity"
 description: "Market > College Programs > Niagara College > Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.32 Cybersecurity
+# 10.41.32 Cybersecurity
 
 ## Glossary
 

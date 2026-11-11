@@ -1,10 +1,10 @@
 ---
-title: "10.56.2 Advertising & Marketing Communications Management"
+title: "10.63.2 Advertising & Marketing Communications Management"
 description: "Market > College Programs > St. Clair College > Advertising & Marketing Communications Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.2 Advertising & Marketing Communications Management
+# 10.63.2 Advertising & Marketing Communications Management
 
 ## Glossary
 

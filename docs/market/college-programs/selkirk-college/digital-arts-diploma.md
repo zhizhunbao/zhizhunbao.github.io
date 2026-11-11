@@ -1,10 +1,10 @@
 ---
-title: "10.52.20 Digital Arts - Diploma"
+title: "10.58.20 Digital Arts - Diploma"
 description: "Market > College Programs > Selkirk College > Digital Arts - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.20 Digital Arts - Diploma
+# 10.58.20 Digital Arts - Diploma
 
 ## Glossary
 

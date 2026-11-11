@@ -1,10 +1,10 @@
 ---
-title: "10.56.113 Strategic Project Management"
+title: "10.63.113 Strategic Project Management"
 description: "Market > College Programs > St. Clair College > Strategic Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.113 Strategic Project Management
+# 10.63.113 Strategic Project Management
 
 ## Glossary
 

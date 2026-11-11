@@ -1,10 +1,10 @@
 ---
-title: "10.56.54 Graphic Design"
+title: "10.63.54 Graphic Design"
 description: "Market > College Programs > St. Clair College > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.54 Graphic Design
+# 10.63.54 Graphic Design
 
 ## Glossary
 

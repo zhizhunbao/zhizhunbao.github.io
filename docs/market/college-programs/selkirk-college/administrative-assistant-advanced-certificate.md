@@ -1,10 +1,10 @@
 ---
-title: "10.52.3 Administrative Assistant - Advanced Certificate"
+title: "10.58.3 Administrative Assistant - Advanced Certificate"
 description: "Market > College Programs > Selkirk College > Administrative Assistant - Advanced Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.3 Administrative Assistant - Advanced Certificate
+# 10.58.3 Administrative Assistant - Advanced Certificate
 
 ## Glossary
 

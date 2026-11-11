@@ -1,10 +1,10 @@
 ---
-title: "10.53.19 Broadcasting – Television"
+title: "10.59.19 Broadcasting – Television"
 description: "Market > College Programs > Seneca Polytechnic > Broadcasting – Television: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.19 Broadcasting – Television
+# 10.59.19 Broadcasting – Television
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.58 Computer Systems Technician"
+title: "10.32.58 Computer Systems Technician"
 description: "Market > College Programs > Lambton College > Computer Systems Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.58 Computer Systems Technician
+# 10.32.58 Computer Systems Technician
 
 ## Glossary
 

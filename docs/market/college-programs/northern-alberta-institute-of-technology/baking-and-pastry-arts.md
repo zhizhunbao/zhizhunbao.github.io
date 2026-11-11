@@ -1,10 +1,10 @@
 ---
-title: "10.39.20 Baking and Pastry Arts"
+title: "10.45.20 Baking and Pastry Arts"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Baking and Pastry Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.20 Baking and Pastry Arts
+# 10.45.20 Baking and Pastry Arts
 
 ## Glossary
 

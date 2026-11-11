@@ -1,10 +1,10 @@
 ---
-title: "10.8.28 Bachelor of Information Technology (Computer and Communication Networks), Honours"
+title: "10.9.28 Bachelor of Information Technology (Computer and Communication Networks), Honours"
 description: "Market > College Programs > Centennial College > Bachelor of Information Technology (Computer and Communication Networks), Honours: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.28 Bachelor of Information Technology (Computer and Communication Networks), Honours
+# 10.9.28 Bachelor of Information Technology (Computer and Communication Networks), Honours
 
 ## Glossary
 

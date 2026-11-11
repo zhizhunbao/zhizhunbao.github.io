@@ -1,10 +1,10 @@
 ---
-title: "10.15.21 Bachelor of Design (Honours)"
+title: "10.18.21 Bachelor of Design (Honours)"
 description: "Market > College Programs > Conestoga College > Bachelor of Design (Honours): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.21 Bachelor of Design (Honours)
+# 10.18.21 Bachelor of Design (Honours)
 
 ## Glossary
 

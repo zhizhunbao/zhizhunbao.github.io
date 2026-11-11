@@ -1,10 +1,10 @@
 ---
-title: "10.24.37 Blockchain Design, Development and Integration"
+title: "10.28.37 Blockchain Design, Development and Integration"
 description: "Market > College Programs > Humber Polytechnic > Blockchain Design, Development and Integration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.37 Blockchain Design, Development and Integration
+# 10.28.37 Blockchain Design, Development and Integration
 
 ## Glossary
 

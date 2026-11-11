@@ -1,10 +1,10 @@
 ---
-title: "10.29.54 Film Arts - Directing"
+title: "10.33.54 Film Arts - Directing"
 description: "Market > College Programs > Langara College > Film Arts - Directing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.54 Film Arts - Directing
+# 10.33.54 Film Arts - Directing
 
 ## Glossary
 

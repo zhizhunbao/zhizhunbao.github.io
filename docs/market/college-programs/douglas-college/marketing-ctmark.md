@@ -1,10 +1,10 @@
 ---
-title: "10.17.70 Marketing (ctmark)"
+title: "10.20.70 Marketing (ctmark)"
 description: "Market > College Programs > Douglas College > Marketing (ctmark): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.70 Marketing (ctmark)
+# 10.20.70 Marketing (ctmark)
 
 ## Glossary
 

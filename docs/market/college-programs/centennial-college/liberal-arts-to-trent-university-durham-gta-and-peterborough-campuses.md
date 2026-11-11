@@ -1,10 +1,10 @@
 ---
-title: "10.8.127 Liberal Arts to Trent University (Durham GTA and Peterborough Campuses)"
+title: "10.9.127 Liberal Arts to Trent University (Durham GTA and Peterborough Campuses)"
 description: "Market > College Programs > Centennial College > Liberal Arts to Trent University (Durham GTA and Peterborough Campuses): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.127 Liberal Arts to Trent University (Durham GTA and Peterborough Campuses)
+# 10.9.127 Liberal Arts to Trent University (Durham GTA and Peterborough Campuses)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.91 Health Informatics"
+title: "10.25.91 Health Informatics"
 description: "Market > College Programs > Georgian College > Health Informatics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.91 Health Informatics
+# 10.25.91 Health Informatics
 
 ## Glossary
 

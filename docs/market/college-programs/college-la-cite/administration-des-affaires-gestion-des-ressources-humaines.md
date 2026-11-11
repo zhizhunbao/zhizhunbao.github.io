@@ -1,10 +1,10 @@
 ---
-title: "10.11.10 Administration des affaires – gestion des ressources humaines"
+title: "10.14.10 Administration des affaires – gestion des ressources humaines"
 description: "Market > College Programs > Collège La Cité > Administration des affaires – gestion des ressources humaines: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.10 Administration des affaires – gestion des ressources humaines
+# 10.14.10 Administration des affaires – gestion des ressources humaines
 
 ## Glossary
 

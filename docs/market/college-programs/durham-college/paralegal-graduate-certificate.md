@@ -1,10 +1,10 @@
 ---
-title: "10.18.99 Paralegal (graduate certificate)"
+title: "10.21.99 Paralegal (graduate certificate)"
 description: "Market > College Programs > Durham College > Paralegal (graduate certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.99 Paralegal (graduate certificate)
+# 10.21.99 Paralegal (graduate certificate)
 
 ## Glossary
 

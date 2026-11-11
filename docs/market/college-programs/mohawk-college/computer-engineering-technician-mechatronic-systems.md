@@ -1,10 +1,10 @@
 ---
-title: "10.34.31 Computer Engineering Technician - Mechatronic Systems"
+title: "10.39.31 Computer Engineering Technician - Mechatronic Systems"
 description: "Market > College Programs > Mohawk College > Computer Engineering Technician - Mechatronic Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.31 Computer Engineering Technician - Mechatronic Systems
+# 10.39.31 Computer Engineering Technician - Mechatronic Systems
 
 ## Glossary
 

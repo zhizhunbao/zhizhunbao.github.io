@@ -1,10 +1,10 @@
 ---
-title: "10.50.31 Geographic Information Science"
+title: "10.56.31 Geographic Information Science"
 description: "Market > College Programs > Saskatchewan Polytechnic > Geographic Information Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.31 Geographic Information Science
+# 10.56.31 Geographic Information Science
 
 ## Glossary
 

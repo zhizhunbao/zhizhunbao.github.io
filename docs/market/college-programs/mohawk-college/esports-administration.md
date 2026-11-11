@@ -1,10 +1,10 @@
 ---
-title: "10.34.50 Esports Administration"
+title: "10.39.50 Esports Administration"
 description: "Market > College Programs > Mohawk College > Esports Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.50 Esports Administration
+# 10.39.50 Esports Administration
 
 ## Glossary
 

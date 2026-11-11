@@ -1,10 +1,10 @@
 ---
-title: "10.10.8 Baccalauréat en informatique"
+title: "10.11.8 Baccalauréat en informatique"
 description: "Market > College Programs > Collège Boréal > Baccalauréat en informatique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.8 Baccalauréat en informatique
+# 10.11.8 Baccalauréat en informatique
 
 ## Glossary
 

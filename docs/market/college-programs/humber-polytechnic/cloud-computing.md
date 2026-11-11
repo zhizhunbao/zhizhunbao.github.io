@@ -1,10 +1,10 @@
 ---
-title: "10.24.47 Cloud Computing"
+title: "10.28.47 Cloud Computing"
 description: "Market > College Programs > Humber Polytechnic > Cloud Computing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.47 Cloud Computing
+# 10.28.47 Cloud Computing
 
 ## Glossary
 

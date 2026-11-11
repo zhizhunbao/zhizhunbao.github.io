@@ -1,10 +1,10 @@
 ---
-title: "10.34.83 Urban and Regional Planning Technician - Geographic Information Systems (GIS)"
+title: "10.39.83 Urban and Regional Planning Technician - Geographic Information Systems (GIS)"
 description: "Market > College Programs > Mohawk College > Urban and Regional Planning Technician - Geographic Information Systems (GIS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.83 Urban and Regional Planning Technician - Geographic Information Systems (GIS)
+# 10.39.83 Urban and Regional Planning Technician - Geographic Information Systems (GIS)
 
 ## Glossary
 

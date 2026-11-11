@@ -1,10 +1,10 @@
 ---
-title: "10.15.33 Bachelor of Risk, Threat, and Crime Analysis (Honours)"
+title: "10.18.33 Bachelor of Risk, Threat, and Crime Analysis (Honours)"
 description: "Market > College Programs > Conestoga College > Bachelor of Risk, Threat, and Crime Analysis (Honours): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.33 Bachelor of Risk, Threat, and Crime Analysis (Honours)
+# 10.18.33 Bachelor of Risk, Threat, and Crime Analysis (Honours)
 
 ## Glossary
 

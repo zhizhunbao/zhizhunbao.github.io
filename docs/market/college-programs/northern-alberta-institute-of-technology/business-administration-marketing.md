@@ -1,10 +1,10 @@
 ---
-title: "10.39.28 Business Administration - Marketing"
+title: "10.45.28 Business Administration - Marketing"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Business Administration - Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.28 Business Administration - Marketing
+# 10.45.28 Business Administration - Marketing
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.72 Educational Support"
+title: "10.22.72 Educational Support"
 description: "Market > College Programs > Fanshawe College > Educational Support: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.72 Educational Support
+# 10.22.72 Educational Support
 
 ## Glossary
 

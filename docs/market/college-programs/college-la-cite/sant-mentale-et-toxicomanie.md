@@ -1,10 +1,10 @@
 ---
-title: "10.11.71 Santé mentale et toxicomanie"
+title: "10.14.71 Santé mentale et toxicomanie"
 description: "Market > College Programs > Collège La Cité > Santé mentale et toxicomanie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.71 Santé mentale et toxicomanie
+# 10.14.71 Santé mentale et toxicomanie
 
 ## Glossary
 

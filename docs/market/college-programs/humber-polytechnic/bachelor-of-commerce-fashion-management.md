@@ -1,10 +1,10 @@
 ---
-title: "10.24.11 Bachelor of Commerce - Fashion Management"
+title: "10.28.11 Bachelor of Commerce - Fashion Management"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Commerce - Fashion Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.11 Bachelor of Commerce - Fashion Management
+# 10.28.11 Bachelor of Commerce - Fashion Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.20.27 Educational Support (SLED)"
+title: "10.23.27 Educational Support (SLED)"
 description: "Market > College Programs > Fleming College > Educational Support (SLED): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.27 Educational Support (SLED)
+# 10.23.27 Educational Support (SLED)
 
 ## Glossary
 

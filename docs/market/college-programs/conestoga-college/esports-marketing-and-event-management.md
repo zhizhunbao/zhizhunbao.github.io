@@ -1,10 +1,10 @@
 ---
-title: "10.15.106 Esports Marketing and Event Management"
+title: "10.18.106 Esports Marketing and Event Management"
 description: "Market > College Programs > Conestoga College > Esports Marketing and Event Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.106 Esports Marketing and Event Management
+# 10.18.106 Esports Marketing and Event Management
 
 ## Glossary
 

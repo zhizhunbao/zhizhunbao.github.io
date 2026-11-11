@@ -1,10 +1,10 @@
 ---
-title: "10.17.59 Hospitality Services Management"
+title: "10.20.59 Hospitality Services Management"
 description: "Market > College Programs > Douglas College > Hospitality Services Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.59 Hospitality Services Management
+# 10.20.59 Hospitality Services Management
 
 ## Glossary
 

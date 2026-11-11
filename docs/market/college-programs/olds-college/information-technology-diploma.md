@@ -1,10 +1,10 @@
 ---
-title: "10.46.24 Information Technology Diploma"
+title: "10.52.24 Information Technology Diploma"
 description: "Market > College Programs > Olds College > Information Technology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.24 Information Technology Diploma
+# 10.52.24 Information Technology Diploma
 
 ## Glossary
 

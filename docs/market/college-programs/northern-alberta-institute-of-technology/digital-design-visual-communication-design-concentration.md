@@ -1,10 +1,10 @@
 ---
-title: "10.39.49 Digital Design - Visual Communication Design Concentration"
+title: "10.45.49 Digital Design - Visual Communication Design Concentration"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Digital Design - Visual Communication Design Concentration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.49 Digital Design - Visual Communication Design Concentration
+# 10.45.49 Digital Design - Visual Communication Design Concentration
 
 ## Glossary
 

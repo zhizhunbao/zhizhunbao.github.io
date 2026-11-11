@@ -1,10 +1,10 @@
 ---
-title: "10.29.40 Digital Media and Design"
+title: "10.33.40 Digital Media and Design"
 description: "Market > College Programs > Langara College > Digital Media and Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.40 Digital Media and Design
+# 10.33.40 Digital Media and Design
 
 ## Glossary
 

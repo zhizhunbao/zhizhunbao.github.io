@@ -1,10 +1,10 @@
 ---
-title: "10.33.11 Computer Aided Drafting & Design"
+title: "10.38.11 Computer Aided Drafting & Design"
 description: "Market > College Programs > Medicine Hat College > Computer Aided Drafting & Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.11 Computer Aided Drafting & Design
+# 10.38.11 Computer Aided Drafting & Design
 
 ## Glossary
 

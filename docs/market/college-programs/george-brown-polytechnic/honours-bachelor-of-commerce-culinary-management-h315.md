@@ -1,10 +1,10 @@
 ---
-title: "10.21.48 Honours Bachelor of Commerce (Culinary Management) (H315)"
+title: "10.24.48 Honours Bachelor of Commerce (Culinary Management) (H315)"
 description: "Market > College Programs > George Brown Polytechnic > Honours Bachelor of Commerce (Culinary Management) (H315): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.48 Honours Bachelor of Commerce (Culinary Management) (H315)
+# 10.24.48 Honours Bachelor of Commerce (Culinary Management) (H315)
 
 ## Glossary
 

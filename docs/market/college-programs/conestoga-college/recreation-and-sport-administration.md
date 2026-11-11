@@ -1,10 +1,10 @@
 ---
-title: "10.15.177 Recreation and Sport Administration"
+title: "10.18.177 Recreation and Sport Administration"
 description: "Market > College Programs > Conestoga College > Recreation and Sport Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.177 Recreation and Sport Administration
+# 10.18.177 Recreation and Sport Administration
 
 ## Glossary
 

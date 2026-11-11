@@ -1,10 +1,10 @@
 ---
-title: "10.20.79 Welding Techniques"
+title: "10.23.79 Welding Techniques"
 description: "Market > College Programs > Fleming College > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.79 Welding Techniques
+# 10.23.79 Welding Techniques
 
 ## Glossary
 

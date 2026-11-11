@@ -1,10 +1,10 @@
 ---
-title: "10.44.77 IT Data Analytics"
+title: "10.50.77 IT Data Analytics"
 description: "Market > College Programs > Nova Scotia Community College > IT Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.77 IT Data Analytics
+# 10.50.77 IT Data Analytics
 
 ## Glossary
 

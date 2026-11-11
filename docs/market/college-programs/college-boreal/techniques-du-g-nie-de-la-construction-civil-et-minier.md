@@ -1,10 +1,10 @@
 ---
-title: "10.10.47 Techniques du génie de la construction – civil et minier"
+title: "10.11.47 Techniques du génie de la construction – civil et minier"
 description: "Market > College Programs > Collège Boréal > Techniques du génie de la construction – civil et minier: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.47 Techniques du génie de la construction – civil et minier
+# 10.11.47 Techniques du génie de la construction – civil et minier
 
 ## Glossary
 

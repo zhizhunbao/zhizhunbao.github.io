@@ -1,10 +1,10 @@
 ---
-title: "10.52.10 Business Administration Accounting Finance - Diploma"
+title: "10.58.10 Business Administration Accounting Finance - Diploma"
 description: "Market > College Programs > Selkirk College > Business Administration Accounting Finance - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.10 Business Administration Accounting Finance - Diploma
+# 10.58.10 Business Administration Accounting Finance - Diploma
 
 ## Glossary
 

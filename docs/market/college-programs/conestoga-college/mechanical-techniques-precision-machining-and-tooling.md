@@ -1,10 +1,10 @@
 ---
-title: "10.15.147 Mechanical Techniques - Precision Machining and Tooling"
+title: "10.18.147 Mechanical Techniques - Precision Machining and Tooling"
 description: "Market > College Programs > Conestoga College > Mechanical Techniques - Precision Machining and Tooling: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.147 Mechanical Techniques - Precision Machining and Tooling
+# 10.18.147 Mechanical Techniques - Precision Machining and Tooling
 
 ## Glossary
 

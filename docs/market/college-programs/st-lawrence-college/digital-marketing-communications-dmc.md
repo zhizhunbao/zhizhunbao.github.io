@@ -1,10 +1,10 @@
 ---
-title: "10.57.30 Digital Marketing Communications (DMC)"
+title: "10.64.30 Digital Marketing Communications (DMC)"
 description: "Market > College Programs > St. Lawrence College > Digital Marketing Communications (DMC): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.30 Digital Marketing Communications (DMC)
+# 10.64.30 Digital Marketing Communications (DMC)
 
 ## Glossary
 

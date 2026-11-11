@@ -1,10 +1,10 @@
 ---
-title: "10.15.167 Plumbing Technician"
+title: "10.18.167 Plumbing Technician"
 description: "Market > College Programs > Conestoga College > Plumbing Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.167 Plumbing Technician
+# 10.18.167 Plumbing Technician
 
 ## Glossary
 

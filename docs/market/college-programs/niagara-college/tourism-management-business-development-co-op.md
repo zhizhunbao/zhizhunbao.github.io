@@ -1,10 +1,10 @@
 ---
-title: "10.36.87 Tourism Management – Business Development (Co-op)"
+title: "10.41.87 Tourism Management – Business Development (Co-op)"
 description: "Market > College Programs > Niagara College > Tourism Management – Business Development (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.87 Tourism Management – Business Development (Co-op)
+# 10.41.87 Tourism Management – Business Development (Co-op)
 
 ## Glossary
 

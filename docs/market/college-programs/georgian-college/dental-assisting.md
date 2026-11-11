@@ -1,10 +1,10 @@
 ---
-title: "10.22.54 Dental Assisting"
+title: "10.25.54 Dental Assisting"
 description: "Market > College Programs > Georgian College > Dental Assisting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.54 Dental Assisting
+# 10.25.54 Dental Assisting
 
 ## Glossary
 

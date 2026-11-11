@@ -1,10 +1,10 @@
 ---
-title: "10.50.1 Agribusiness Risk and Insurance Management"
+title: "10.56.1 Agribusiness Risk and Insurance Management"
 description: "Market > College Programs > Saskatchewan Polytechnic > Agribusiness Risk and Insurance Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.1 Agribusiness Risk and Insurance Management
+# 10.56.1 Agribusiness Risk and Insurance Management
 
 ## Glossary
 

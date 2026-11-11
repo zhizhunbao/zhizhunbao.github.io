@@ -1,10 +1,10 @@
 ---
-title: "10.53.35 Civil Engineering Technician"
+title: "10.59.35 Civil Engineering Technician"
 description: "Market > College Programs > Seneca Polytechnic > Civil Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.35 Civil Engineering Technician
+# 10.59.35 Civil Engineering Technician
 
 ## Glossary
 

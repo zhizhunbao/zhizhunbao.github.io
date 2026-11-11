@@ -1,10 +1,10 @@
 ---
-title: "10.26.20 High School Equivalency Diploma"
+title: "10.30.20 High School Equivalency Diploma"
 description: "Market > College Programs > Keyano College > High School Equivalency Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.20 High School Equivalency Diploma
+# 10.30.20 High School Equivalency Diploma
 
 ## Glossary
 

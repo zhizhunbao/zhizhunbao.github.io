@@ -1,10 +1,10 @@
 ---
-title: "10.14.19 Marketing"
+title: "10.17.19 Marketing"
 description: "Market > College Programs > College of the Rockies > Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.19 Marketing
+# 10.17.19 Marketing
 
 ## Glossary
 

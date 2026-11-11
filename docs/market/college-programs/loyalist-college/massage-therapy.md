@@ -1,10 +1,10 @@
 ---
-title: "10.31.37 Massage Therapy"
+title: "10.35.37 Massage Therapy"
 description: "Market > College Programs > Loyalist College > Massage Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.37 Massage Therapy
+# 10.35.37 Massage Therapy
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.46.5 Agriculture Technology Integration Post-Diploma Certificate"
+title: "10.52.5 Agriculture Technology Integration Post-Diploma Certificate"
 description: "Market > College Programs > Olds College > Agriculture Technology Integration Post-Diploma Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.5 Agriculture Technology Integration Post-Diploma Certificate
+# 10.52.5 Agriculture Technology Integration Post-Diploma Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.6 Acting for Camera & Voice"
+title: "10.59.6 Acting for Camera & Voice"
 description: "Market > College Programs > Seneca Polytechnic > Acting for Camera & Voice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.6 Acting for Camera & Voice
+# 10.59.6 Acting for Camera & Voice
 
 ## Glossary
 

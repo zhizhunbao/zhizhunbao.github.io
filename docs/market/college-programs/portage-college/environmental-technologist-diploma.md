@@ -1,10 +1,10 @@
 ---
-title: "10.47.17 Environmental Technologist Diploma"
+title: "10.53.17 Environmental Technologist Diploma"
 description: "Market > College Programs > Portage College > Environmental Technologist Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.17 Environmental Technologist Diploma
+# 10.53.17 Environmental Technologist Diploma
 
 ## Glossary
 

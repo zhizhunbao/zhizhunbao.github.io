@@ -1,10 +1,10 @@
 ---
-title: "10.53.46 Cosmetic Techniques & Management"
+title: "10.59.46 Cosmetic Techniques & Management"
 description: "Market > College Programs > Seneca Polytechnic > Cosmetic Techniques & Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.46 Cosmetic Techniques & Management
+# 10.59.46 Cosmetic Techniques & Management
 
 ## Glossary
 

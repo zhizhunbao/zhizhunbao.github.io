@@ -1,10 +1,10 @@
 ---
-title: "10.34.65 Mechanical Technician - Elevating Devices"
+title: "10.39.65 Mechanical Technician - Elevating Devices"
 description: "Market > College Programs > Mohawk College > Mechanical Technician - Elevating Devices: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.65 Mechanical Technician - Elevating Devices
+# 10.39.65 Mechanical Technician - Elevating Devices
 
 ## Glossary
 

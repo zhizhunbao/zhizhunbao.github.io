@@ -1,10 +1,10 @@
 ---
-title: "10.41.20 Social Work Diploma"
+title: "10.47.20 Social Work Diploma"
 description: "Market > College Programs > Northern Lakes College > Social Work Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.20 Social Work Diploma
+# 10.47.20 Social Work Diploma
 
 ## Glossary
 

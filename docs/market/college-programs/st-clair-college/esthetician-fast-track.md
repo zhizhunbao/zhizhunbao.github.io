@@ -1,10 +1,10 @@
 ---
-title: "10.56.49 Esthetician (Fast Track)"
+title: "10.63.49 Esthetician (Fast Track)"
 description: "Market > College Programs > St. Clair College > Esthetician (Fast Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.49 Esthetician (Fast Track)
+# 10.63.49 Esthetician (Fast Track)
 
 ## Glossary
 

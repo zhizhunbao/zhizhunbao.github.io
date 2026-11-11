@@ -1,10 +1,10 @@
 ---
-title: "10.34.40 Construction Techniques"
+title: "10.39.40 Construction Techniques"
 description: "Market > College Programs > Mohawk College > Construction Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.40 Construction Techniques
+# 10.39.40 Construction Techniques
 
 ## Glossary
 

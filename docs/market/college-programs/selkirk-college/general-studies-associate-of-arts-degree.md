@@ -1,10 +1,10 @@
 ---
-title: "10.52.38 General Studies - Associate of Arts Degree"
+title: "10.58.38 General Studies - Associate of Arts Degree"
 description: "Market > College Programs > Selkirk College > General Studies - Associate of Arts Degree: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.38 General Studies - Associate of Arts Degree
+# 10.58.38 General Studies - Associate of Arts Degree
 
 ## Glossary
 

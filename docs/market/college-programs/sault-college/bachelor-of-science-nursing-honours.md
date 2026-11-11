@@ -1,10 +1,10 @@
 ---
-title: "10.51.6 Bachelor of Science - Nursing (Honours)"
+title: "10.57.6 Bachelor of Science - Nursing (Honours)"
 description: "Market > College Programs > Sault College > Bachelor of Science - Nursing (Honours): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.6 Bachelor of Science - Nursing (Honours)
+# 10.57.6 Bachelor of Science - Nursing (Honours)
 
 ## Glossary
 

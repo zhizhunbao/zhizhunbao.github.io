@@ -1,10 +1,10 @@
 ---
-title: "10.53.108 Independent Songwriting & Performance"
+title: "10.59.108 Independent Songwriting & Performance"
 description: "Market > College Programs > Seneca Polytechnic > Independent Songwriting & Performance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.108 Independent Songwriting & Performance
+# 10.59.108 Independent Songwriting & Performance
 
 ## Glossary
 

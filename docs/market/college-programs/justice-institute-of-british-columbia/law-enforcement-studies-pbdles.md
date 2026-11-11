@@ -1,10 +1,10 @@
 ---
-title: "10.25.22 Law Enforcement Studies (PBDLES)"
+title: "10.29.22 Law Enforcement Studies (PBDLES)"
 description: "Market > College Programs > Justice Institute of British Columbia > Law Enforcement Studies (PBDLES): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.22 Law Enforcement Studies (PBDLES)
+# 10.29.22 Law Enforcement Studies (PBDLES)
 
 ## Glossary
 

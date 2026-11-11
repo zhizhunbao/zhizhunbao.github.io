@@ -1,10 +1,10 @@
 ---
-title: "10.44.47 Early Childhood Education - Africentric Offering"
+title: "10.50.47 Early Childhood Education - Africentric Offering"
 description: "Market > College Programs > Nova Scotia Community College > Early Childhood Education - Africentric Offering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.47 Early Childhood Education - Africentric Offering
+# 10.50.47 Early Childhood Education - Africentric Offering
 
 ## Glossary
 

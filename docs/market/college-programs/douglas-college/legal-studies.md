@@ -1,10 +1,10 @@
 ---
-title: "10.17.67 Legal Studies"
+title: "10.20.67 Legal Studies"
 description: "Market > College Programs > Douglas College > Legal Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.67 Legal Studies
+# 10.20.67 Legal Studies
 
 ## Glossary
 

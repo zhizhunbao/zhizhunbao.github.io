@@ -1,10 +1,10 @@
 ---
-title: "10.54.53 Honours Bachelor of Computer Science"
+title: "10.60.53 Honours Bachelor of Computer Science"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Computer Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.53 Honours Bachelor of Computer Science
+# 10.60.53 Honours Bachelor of Computer Science
 
 ## Glossary
 

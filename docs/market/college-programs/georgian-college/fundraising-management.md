@@ -1,10 +1,10 @@
 ---
-title: "10.22.76 Fundraising Management"
+title: "10.25.76 Fundraising Management"
 description: "Market > College Programs > Georgian College > Fundraising Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.76 Fundraising Management
+# 10.25.76 Fundraising Management
 
 ## Glossary
 

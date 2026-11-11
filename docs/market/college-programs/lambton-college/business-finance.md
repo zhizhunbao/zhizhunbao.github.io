@@ -1,10 +1,10 @@
 ---
-title: "10.28.25 Business - Finance"
+title: "10.32.25 Business - Finance"
 description: "Market > College Programs > Lambton College > Business - Finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.25 Business - Finance
+# 10.32.25 Business - Finance
 
 ## Glossary
 

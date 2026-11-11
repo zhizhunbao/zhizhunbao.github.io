@@ -1,10 +1,10 @@
 ---
-title: "10.16.60 Onajigawin Indigenous Services (0670)"
+title: "10.19.60 Onajigawin Indigenous Services (0670)"
 description: "Market > College Programs > Confederation College > Onajigawin Indigenous Services (0670): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.60 Onajigawin Indigenous Services (0670)
+# 10.19.60 Onajigawin Indigenous Services (0670)
 
 ## Glossary
 

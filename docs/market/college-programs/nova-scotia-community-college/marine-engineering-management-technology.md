@@ -1,10 +1,10 @@
 ---
-title: "10.44.84 Marine Engineering Management Technology"
+title: "10.50.84 Marine Engineering Management Technology"
 description: "Market > College Programs > Nova Scotia Community College > Marine Engineering Management Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.84 Marine Engineering Management Technology
+# 10.50.84 Marine Engineering Management Technology
 
 ## Glossary
 

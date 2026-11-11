@@ -1,10 +1,10 @@
 ---
-title: "10.39.31 Chemical Engineering Technology"
+title: "10.45.31 Chemical Engineering Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Chemical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.31 Chemical Engineering Technology
+# 10.45.31 Chemical Engineering Technology
 
 ## Glossary
 

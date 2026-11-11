@@ -1,10 +1,10 @@
 ---
-title: "10.13.25 Computing Systems Engineering Technology (Co-op)"
+title: "10.16.25 Computing Systems Engineering Technology (Co-op)"
 description: "Market > College Programs > College of the North Atlantic > Computing Systems Engineering Technology (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.25 Computing Systems Engineering Technology (Co-op)
+# 10.16.25 Computing Systems Engineering Technology (Co-op)
 
 ## Glossary
 

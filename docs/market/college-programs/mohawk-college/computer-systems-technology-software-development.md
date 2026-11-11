@@ -1,10 +1,10 @@
 ---
-title: "10.34.36 Computer Systems Technology - Software Development"
+title: "10.39.36 Computer Systems Technology - Software Development"
 description: "Market > College Programs > Mohawk College > Computer Systems Technology - Software Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.36 Computer Systems Technology - Software Development
+# 10.39.36 Computer Systems Technology - Software Development
 
 ## Glossary
 

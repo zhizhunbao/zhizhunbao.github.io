@@ -1,10 +1,10 @@
 ---
-title: "10.12.33 Nursing Baccalaureate"
+title: "10.15.33 Nursing Baccalaureate"
 description: "Market > College Programs > College of New Caledonia > Nursing Baccalaureate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.33 Nursing Baccalaureate
+# 10.15.33 Nursing Baccalaureate
 
 ## Glossary
 

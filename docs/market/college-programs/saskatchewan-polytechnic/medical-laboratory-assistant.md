@@ -1,10 +1,10 @@
 ---
-title: "10.50.45 Medical Laboratory Assistant"
+title: "10.56.45 Medical Laboratory Assistant"
 description: "Market > College Programs > Saskatchewan Polytechnic > Medical Laboratory Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.45 Medical Laboratory Assistant
+# 10.56.45 Medical Laboratory Assistant
 
 ## Glossary
 

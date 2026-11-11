@@ -1,10 +1,10 @@
 ---
-title: "10.17.69 Marketing (dpmark)"
+title: "10.20.69 Marketing (dpmark)"
 description: "Market > College Programs > Douglas College > Marketing (dpmark): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.69 Marketing (dpmark)
+# 10.20.69 Marketing (dpmark)
 
 ## Glossary
 

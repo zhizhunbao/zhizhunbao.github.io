@@ -1,10 +1,10 @@
 ---
-title: "10.21.63 Information Systems Business Analysis"
+title: "10.24.63 Information Systems Business Analysis"
 description: "Market > College Programs > George Brown Polytechnic > Information Systems Business Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.63 Information Systems Business Analysis
+# 10.24.63 Information Systems Business Analysis
 
 ## Glossary
 

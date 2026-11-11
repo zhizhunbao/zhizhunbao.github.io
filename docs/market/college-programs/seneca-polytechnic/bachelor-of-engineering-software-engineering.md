@@ -1,10 +1,10 @@
 ---
-title: "10.53.15 Bachelor of Engineering (Software Engineering)"
+title: "10.59.15 Bachelor of Engineering (Software Engineering)"
 description: "Market > College Programs > Seneca Polytechnic > Bachelor of Engineering (Software Engineering): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.15 Bachelor of Engineering (Software Engineering)
+# 10.59.15 Bachelor of Engineering (Software Engineering)
 
 ## Glossary
 

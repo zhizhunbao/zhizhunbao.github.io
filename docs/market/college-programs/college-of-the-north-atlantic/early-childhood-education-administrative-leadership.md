@@ -1,10 +1,10 @@
 ---
-title: "10.13.36 Early Childhood Education Administrative Leadership"
+title: "10.16.36 Early Childhood Education Administrative Leadership"
 description: "Market > College Programs > College of the North Atlantic > Early Childhood Education Administrative Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.36 Early Childhood Education Administrative Leadership
+# 10.16.36 Early Childhood Education Administrative Leadership
 
 ## Glossary
 

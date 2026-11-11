@@ -1,10 +1,10 @@
 ---
-title: "10.20.54 Museum Management and Curatorship"
+title: "10.23.54 Museum Management and Curatorship"
 description: "Market > College Programs > Fleming College > Museum Management and Curatorship: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.54 Museum Management and Curatorship
+# 10.23.54 Museum Management and Curatorship
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.11.13 Animation 3D – avancé"
+title: "10.14.13 Animation 3D – avancé"
 description: "Market > College Programs > Collège La Cité > Animation 3D – avancé: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.13 Animation 3D – avancé
+# 10.14.13 Animation 3D – avancé
 
 ## Glossary
 

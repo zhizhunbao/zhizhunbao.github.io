@@ -1,10 +1,10 @@
 ---
-title: "10.20.20 Digital Marketing"
+title: "10.23.20 Digital Marketing"
 description: "Market > College Programs > Fleming College > Digital Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.20 Digital Marketing
+# 10.23.20 Digital Marketing
 
 ## Glossary
 

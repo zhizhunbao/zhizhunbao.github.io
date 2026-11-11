@@ -1,10 +1,10 @@
 ---
-title: "10.42 Northern Lights College"
+title: "10.48 Northern Lights College"
 description: "Market > College Programs > Northern Lights College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42 Northern Lights College
+# 10.48 Northern Lights College
 
 ## Glossary
 

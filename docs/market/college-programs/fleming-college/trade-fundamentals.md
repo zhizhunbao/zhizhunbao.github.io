@@ -1,10 +1,10 @@
 ---
-title: "10.20.75 Trade Fundamentals"
+title: "10.23.75 Trade Fundamentals"
 description: "Market > College Programs > Fleming College > Trade Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.75 Trade Fundamentals
+# 10.23.75 Trade Fundamentals
 
 ## Glossary
 

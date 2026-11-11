@@ -1,10 +1,10 @@
 ---
-title: "10.33.29 Speech-Language Pathologist Assistant (SLPA)"
+title: "10.38.29 Speech-Language Pathologist Assistant (SLPA)"
 description: "Market > College Programs > Medicine Hat College > Speech-Language Pathologist Assistant (SLPA): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.29 Speech-Language Pathologist Assistant (SLPA)
+# 10.38.29 Speech-Language Pathologist Assistant (SLPA)
 
 ## Glossary
 

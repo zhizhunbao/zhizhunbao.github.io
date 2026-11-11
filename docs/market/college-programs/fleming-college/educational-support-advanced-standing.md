@@ -1,10 +1,10 @@
 ---
-title: "10.20.28 Educational Support (Advanced Standing)"
+title: "10.23.28 Educational Support (Advanced Standing)"
 description: "Market > College Programs > Fleming College > Educational Support (Advanced Standing): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.28 Educational Support (Advanced Standing)
+# 10.23.28 Educational Support (Advanced Standing)
 
 ## Glossary
 

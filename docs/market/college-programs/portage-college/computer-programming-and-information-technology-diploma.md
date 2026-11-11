@@ -1,10 +1,10 @@
 ---
-title: "10.47.11 Computer Programming and Information Technology Diploma"
+title: "10.53.11 Computer Programming and Information Technology Diploma"
 description: "Market > College Programs > Portage College > Computer Programming and Information Technology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.11 Computer Programming and Information Technology Diploma
+# 10.53.11 Computer Programming and Information Technology Diploma
 
 ## Glossary
 

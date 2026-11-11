@@ -1,10 +1,10 @@
 ---
-title: "10.27.7 Animal Science Technology Diploma: Equine Science Major"
+title: "10.31.7 Animal Science Technology Diploma: Equine Science Major"
 description: "Market > College Programs > Lakeland College > Animal Science Technology Diploma: Equine Science Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.7 Animal Science Technology Diploma: Equine Science Major
+# 10.31.7 Animal Science Technology Diploma: Equine Science Major
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.161 Visual Effects for Film & Television"
+title: "10.59.161 Visual Effects for Film & Television"
 description: "Market > College Programs > Seneca Polytechnic > Visual Effects for Film & Television: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.161 Visual Effects for Film & Television
+# 10.59.161 Visual Effects for Film & Television
 
 ## Glossary
 

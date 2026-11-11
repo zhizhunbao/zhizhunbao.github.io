@@ -1,10 +1,10 @@
 ---
-title: "10.28.93 Liberal Studies (LBSF)"
+title: "10.32.93 Liberal Studies (LBSF)"
 description: "Market > College Programs > Lambton College > Liberal Studies (LBSF): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.93 Liberal Studies (LBSF)
+# 10.32.93 Liberal Studies (LBSF)
 
 ## Glossary
 

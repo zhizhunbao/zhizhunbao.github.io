@@ -1,10 +1,10 @@
 ---
-title: "10.22.5 Anishnaabemowin and Program Development"
+title: "10.25.5 Anishnaabemowin and Program Development"
 description: "Market > College Programs > Georgian College > Anishnaabemowin and Program Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.5 Anishnaabemowin and Program Development
+# 10.25.5 Anishnaabemowin and Program Development
 
 ## Glossary
 

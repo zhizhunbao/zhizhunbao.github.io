@@ -1,10 +1,10 @@
 ---
-title: "10.33.23 Paramedic"
+title: "10.38.23 Paramedic"
 description: "Market > College Programs > Medicine Hat College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.23 Paramedic
+# 10.38.23 Paramedic
 
 ## Glossary
 

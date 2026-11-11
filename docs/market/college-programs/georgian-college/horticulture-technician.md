@@ -1,10 +1,10 @@
 ---
-title: "10.22.101 Horticulture Technician"
+title: "10.25.101 Horticulture Technician"
 description: "Market > College Programs > Georgian College > Horticulture Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.101 Horticulture Technician
+# 10.25.101 Horticulture Technician
 
 ## Glossary
 

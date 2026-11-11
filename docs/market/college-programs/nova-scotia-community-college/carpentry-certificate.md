@@ -1,10 +1,10 @@
 ---
-title: "10.44.26 Carpentry Certificate"
+title: "10.50.26 Carpentry Certificate"
 description: "Market > College Programs > Nova Scotia Community College > Carpentry Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.26 Carpentry Certificate
+# 10.50.26 Carpentry Certificate
 
 ## Glossary
 

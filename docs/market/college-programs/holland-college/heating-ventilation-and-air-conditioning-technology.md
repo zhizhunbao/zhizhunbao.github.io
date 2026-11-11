@@ -1,10 +1,10 @@
 ---
-title: "10.23.27 Heating, Ventilation and Air Conditioning Technology"
+title: "10.27.27 Heating, Ventilation and Air Conditioning Technology"
 description: "Market > College Programs > Holland College > Heating, Ventilation and Air Conditioning Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.27 Heating, Ventilation and Air Conditioning Technology
+# 10.27.27 Heating, Ventilation and Air Conditioning Technology
 
 ## Glossary
 

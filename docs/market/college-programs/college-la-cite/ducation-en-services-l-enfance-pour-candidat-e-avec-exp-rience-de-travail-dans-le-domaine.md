@@ -1,10 +1,10 @@
 ---
-title: "10.11.130 Éducation en services à l'enfance (pour candidat.e avec expérience de travail dans le domaine)"
+title: "10.14.130 Éducation en services à l'enfance (pour candidat.e avec expérience de travail dans le domaine)"
 description: "Market > College Programs > Collège La Cité > Éducation en services à l'enfance (pour candidat.e avec expérience de travail dans le domaine): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.130 Éducation en services à l'enfance (pour candidat.e avec expérience de travail dans le domaine)
+# 10.14.130 Éducation en services à l'enfance (pour candidat.e avec expérience de travail dans le domaine)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.16.31 Electrical Engineering Technician (0326)"
+title: "10.19.31 Electrical Engineering Technician (0326)"
 description: "Market > College Programs > Confederation College > Electrical Engineering Technician (0326): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.31 Electrical Engineering Technician (0326)
+# 10.19.31 Electrical Engineering Technician (0326)
 
 ## Glossary
 

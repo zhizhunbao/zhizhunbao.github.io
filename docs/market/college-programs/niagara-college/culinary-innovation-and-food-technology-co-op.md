@@ -1,10 +1,10 @@
 ---
-title: "10.36.29 Culinary Innovation and Food Technology (Co-op)"
+title: "10.41.29 Culinary Innovation and Food Technology (Co-op)"
 description: "Market > College Programs > Niagara College > Culinary Innovation and Food Technology (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.29 Culinary Innovation and Food Technology (Co-op)
+# 10.41.29 Culinary Innovation and Food Technology (Co-op)
 
 ## Glossary
 

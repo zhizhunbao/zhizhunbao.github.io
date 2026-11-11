@@ -1,10 +1,10 @@
 ---
-title: "10.28.52 Communicative Disorders Assistant"
+title: "10.32.52 Communicative Disorders Assistant"
 description: "Market > College Programs > Lambton College > Communicative Disorders Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.52 Communicative Disorders Assistant
+# 10.32.52 Communicative Disorders Assistant
 
 ## Glossary
 

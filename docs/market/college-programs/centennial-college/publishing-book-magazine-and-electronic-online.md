@@ -1,10 +1,10 @@
 ---
-title: "10.8.169 Publishing - Book, Magazine and Electronic (Online)"
+title: "10.9.169 Publishing - Book, Magazine and Electronic (Online)"
 description: "Market > College Programs > Centennial College > Publishing - Book, Magazine and Electronic (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.169 Publishing - Book, Magazine and Electronic (Online)
+# 10.9.169 Publishing - Book, Magazine and Electronic (Online)
 
 ## Glossary
 

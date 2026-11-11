@@ -1,10 +1,10 @@
 ---
-title: "10.8.62 Child and Youth Worker Apprenticeship"
+title: "10.9.62 Child and Youth Worker Apprenticeship"
 description: "Market > College Programs > Centennial College > Child and Youth Worker Apprenticeship: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.62 Child and Youth Worker Apprenticeship
+# 10.9.62 Child and Youth Worker Apprenticeship
 
 ## Glossary
 

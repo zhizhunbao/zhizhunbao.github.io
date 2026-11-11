@@ -1,10 +1,10 @@
 ---
-title: "10.28.9 Applied Manufacturing Management - Advanced Materials Processing"
+title: "10.32.9 Applied Manufacturing Management - Advanced Materials Processing"
 description: "Market > College Programs > Lambton College > Applied Manufacturing Management - Advanced Materials Processing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.9 Applied Manufacturing Management - Advanced Materials Processing
+# 10.32.9 Applied Manufacturing Management - Advanced Materials Processing
 
 ## Glossary
 

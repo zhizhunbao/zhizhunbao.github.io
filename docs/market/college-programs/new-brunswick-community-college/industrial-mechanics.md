@@ -1,10 +1,10 @@
 ---
-title: "10.35.45 Industrial Mechanics"
+title: "10.40.45 Industrial Mechanics"
 description: "Market > College Programs > New Brunswick Community College > Industrial Mechanics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.45 Industrial Mechanics
+# 10.40.45 Industrial Mechanics
 
 ## Glossary
 

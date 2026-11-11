@@ -1,10 +1,10 @@
 ---
-title: "10.22.131 Opticianry"
+title: "10.25.131 Opticianry"
 description: "Market > College Programs > Georgian College > Opticianry: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.131 Opticianry
+# 10.25.131 Opticianry
 
 ## Glossary
 

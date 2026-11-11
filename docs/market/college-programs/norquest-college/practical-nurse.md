@@ -1,10 +1,10 @@
 ---
-title: "10.37.37 Practical Nurse"
+title: "10.42.37 Practical Nurse"
 description: "Market > College Programs > NorQuest College > Practical Nurse: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.37 Practical Nurse
+# 10.42.37 Practical Nurse
 
 ## Glossary
 

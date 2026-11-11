@@ -1,10 +1,10 @@
 ---
-title: "10.56.24 Computer Systems Technician - Networking"
+title: "10.63.24 Computer Systems Technician - Networking"
 description: "Market > College Programs > St. Clair College > Computer Systems Technician - Networking: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.24 Computer Systems Technician - Networking
+# 10.63.24 Computer Systems Technician - Networking
 
 ## Glossary
 

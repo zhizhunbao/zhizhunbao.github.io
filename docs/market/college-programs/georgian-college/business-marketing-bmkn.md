@@ -1,10 +1,10 @@
 ---
-title: "10.22.26 Business - Marketing (BMKN)"
+title: "10.25.26 Business - Marketing (BMKN)"
 description: "Market > College Programs > Georgian College > Business - Marketing (BMKN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.26 Business - Marketing (BMKN)
+# 10.25.26 Business - Marketing (BMKN)
 
 ## Glossary
 

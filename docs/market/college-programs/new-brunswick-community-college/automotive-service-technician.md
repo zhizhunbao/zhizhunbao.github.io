@@ -1,10 +1,10 @@
 ---
-title: "10.35.9 Automotive Service Technician"
+title: "10.40.9 Automotive Service Technician"
 description: "Market > College Programs > New Brunswick Community College > Automotive Service Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.9 Automotive Service Technician
+# 10.40.9 Automotive Service Technician
 
 ## Glossary
 

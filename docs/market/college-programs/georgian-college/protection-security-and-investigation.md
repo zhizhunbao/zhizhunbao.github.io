@@ -1,10 +1,10 @@
 ---
-title: "10.22.145 Protection, Security and Investigation"
+title: "10.25.145 Protection, Security and Investigation"
 description: "Market > College Programs > Georgian College > Protection, Security and Investigation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.145 Protection, Security and Investigation
+# 10.25.145 Protection, Security and Investigation
 
 ## Glossary
 

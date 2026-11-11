@@ -1,10 +1,10 @@
 ---
-title: "10.52.63 Professional Cook Program - Certificate"
+title: "10.58.63 Professional Cook Program - Certificate"
 description: "Market > College Programs > Selkirk College > Professional Cook Program - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.63 Professional Cook Program - Certificate
+# 10.58.63 Professional Cook Program - Certificate
 
 ## Glossary
 

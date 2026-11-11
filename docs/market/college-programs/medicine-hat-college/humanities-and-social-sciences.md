@@ -1,10 +1,10 @@
 ---
-title: "10.33.17 Humanities and Social Sciences"
+title: "10.38.17 Humanities and Social Sciences"
 description: "Market > College Programs > Medicine Hat College > Humanities and Social Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.17 Humanities and Social Sciences
+# 10.38.17 Humanities and Social Sciences
 
 ## Glossary
 

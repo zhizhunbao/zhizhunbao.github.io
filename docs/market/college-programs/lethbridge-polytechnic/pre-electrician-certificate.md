@@ -1,10 +1,10 @@
 ---
-title: "10.30.49 Pre-Electrician Certificate"
+title: "10.34.49 Pre-Electrician Certificate"
 description: "Market > College Programs > Lethbridge Polytechnic > Pre-Electrician Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.49 Pre-Electrician Certificate
+# 10.34.49 Pre-Electrician Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.71 Computer Programming"
+title: "10.18.71 Computer Programming"
 description: "Market > College Programs > Conestoga College > Computer Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.71 Computer Programming
+# 10.18.71 Computer Programming
 
 ## Glossary
 

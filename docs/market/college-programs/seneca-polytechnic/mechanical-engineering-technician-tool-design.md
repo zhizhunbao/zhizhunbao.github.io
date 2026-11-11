@@ -1,10 +1,10 @@
 ---
-title: "10.53.120 Mechanical Engineering Technician (Tool Design)"
+title: "10.59.120 Mechanical Engineering Technician (Tool Design)"
 description: "Market > College Programs > Seneca Polytechnic > Mechanical Engineering Technician (Tool Design): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.120 Mechanical Engineering Technician (Tool Design)
+# 10.59.120 Mechanical Engineering Technician (Tool Design)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.49.45 Logistics and Supply Chain Mgmt - Business Administration"
+title: "10.55.45 Logistics and Supply Chain Mgmt - Business Administration"
 description: "Market > College Programs > Red River College Polytechnic > Logistics and Supply Chain Mgmt - Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.45 Logistics and Supply Chain Mgmt - Business Administration
+# 10.55.45 Logistics and Supply Chain Mgmt - Business Administration
 
 ## Glossary
 

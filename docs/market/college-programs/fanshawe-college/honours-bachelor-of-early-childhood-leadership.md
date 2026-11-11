@@ -1,10 +1,10 @@
 ---
-title: "10.19.105 Honours Bachelor of Early Childhood Leadership"
+title: "10.22.105 Honours Bachelor of Early Childhood Leadership"
 description: "Market > College Programs > Fanshawe College > Honours Bachelor of Early Childhood Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.105 Honours Bachelor of Early Childhood Leadership
+# 10.22.105 Honours Bachelor of Early Childhood Leadership
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.44.95 Mental Health Recovery and Promotion"
+title: "10.50.95 Mental Health Recovery and Promotion"
 description: "Market > College Programs > Nova Scotia Community College > Mental Health Recovery and Promotion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.95 Mental Health Recovery and Promotion
+# 10.50.95 Mental Health Recovery and Promotion
 
 ## Glossary
 

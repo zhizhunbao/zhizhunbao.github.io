@@ -1,10 +1,10 @@
 ---
-title: "10.46.27 Pre-Employment Motorcycle Mechanic"
+title: "10.52.27 Pre-Employment Motorcycle Mechanic"
 description: "Market > College Programs > Olds College > Pre-Employment Motorcycle Mechanic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.27 Pre-Employment Motorcycle Mechanic
+# 10.52.27 Pre-Employment Motorcycle Mechanic
 
 ## Glossary
 

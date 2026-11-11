@@ -1,10 +1,10 @@
 ---
-title: "10.23.53 Welding Fabrication Year 1"
+title: "10.27.53 Welding Fabrication Year 1"
 description: "Market > College Programs > Holland College > Welding Fabrication Year 1: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.53 Welding Fabrication Year 1
+# 10.27.53 Welding Fabrication Year 1
 
 ## Glossary
 

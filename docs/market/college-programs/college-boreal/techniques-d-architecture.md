@@ -1,10 +1,10 @@
 ---
-title: "10.10.51 Techniques d’architecture"
+title: "10.11.51 Techniques d’architecture"
 description: "Market > College Programs > Collège Boréal > Techniques d’architecture: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.51 Techniques d’architecture
+# 10.11.51 Techniques d’architecture
 
 ## Glossary
 

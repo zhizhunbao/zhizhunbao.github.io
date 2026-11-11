@@ -1,10 +1,10 @@
 ---
-title: "10.19.67 Digital Communication Management"
+title: "10.22.67 Digital Communication Management"
 description: "Market > College Programs > Fanshawe College > Digital Communication Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.67 Digital Communication Management
+# 10.22.67 Digital Communication Management
 
 ## Glossary
 

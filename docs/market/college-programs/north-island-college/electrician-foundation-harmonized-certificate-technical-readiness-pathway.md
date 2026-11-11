@@ -1,10 +1,10 @@
 ---
-title: "10.38.11 Electrician Foundation Harmonized Certificate - Technical Readiness Pathway"
+title: "10.43.11 Electrician Foundation Harmonized Certificate - Technical Readiness Pathway"
 description: "Market > College Programs > North Island College > Electrician Foundation Harmonized Certificate - Technical Readiness Pathway: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.11 Electrician Foundation Harmonized Certificate - Technical Readiness Pathway
+# 10.43.11 Electrician Foundation Harmonized Certificate - Technical Readiness Pathway
 
 ## Glossary
 

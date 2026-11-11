@@ -1,10 +1,10 @@
 ---
-title: "10.28.46 Chemical Laboratory Analysis"
+title: "10.32.46 Chemical Laboratory Analysis"
 description: "Market > College Programs > Lambton College > Chemical Laboratory Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.46 Chemical Laboratory Analysis
+# 10.32.46 Chemical Laboratory Analysis
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.11.79 Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Montfort)"
+title: "10.14.79 Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Montfort)"
 description: "Market > College Programs > Collège La Cité > Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Montfort): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.79 Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Montfort)
+# 10.14.79 Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Montfort)
 
 ## Glossary
 

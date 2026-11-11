@@ -1,10 +1,10 @@
 ---
-title: "10.29.76 Mathematics (mathematics-associate-science-degree)"
+title: "10.33.76 Mathematics (mathematics-associate-science-degree)"
 description: "Market > College Programs > Langara College > Mathematics (mathematics-associate-science-degree): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.76 Mathematics (mathematics-associate-science-degree)
+# 10.33.76 Mathematics (mathematics-associate-science-degree)
 
 ## Glossary
 

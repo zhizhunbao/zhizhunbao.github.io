@@ -1,10 +1,10 @@
 ---
-title: "10.57.58 Motive Power Technician"
+title: "10.64.58 Motive Power Technician"
 description: "Market > College Programs > St. Lawrence College > Motive Power Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.58 Motive Power Technician
+# 10.64.58 Motive Power Technician
 
 ## Glossary
 

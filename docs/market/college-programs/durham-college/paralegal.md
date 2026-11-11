@@ -1,10 +1,10 @@
 ---
-title: "10.18.98 Paralegal"
+title: "10.21.98 Paralegal"
 description: "Market > College Programs > Durham College > Paralegal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.98 Paralegal
+# 10.21.98 Paralegal
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.20.53 Mental Health and Addictions Worker"
+title: "10.23.53 Mental Health and Addictions Worker"
 description: "Market > College Programs > Fleming College > Mental Health and Addictions Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.53 Mental Health and Addictions Worker
+# 10.23.53 Mental Health and Addictions Worker
 
 ## Glossary
 

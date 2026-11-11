@@ -1,10 +1,10 @@
 ---
-title: "10.22.14 Aviation Management"
+title: "10.25.14 Aviation Management"
 description: "Market > College Programs > Georgian College > Aviation Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.14 Aviation Management
+# 10.25.14 Aviation Management
 
 ## Glossary
 

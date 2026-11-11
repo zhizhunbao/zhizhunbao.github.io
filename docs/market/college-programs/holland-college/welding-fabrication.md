@@ -1,10 +1,10 @@
 ---
-title: "10.23.52 Welding Fabrication"
+title: "10.27.52 Welding Fabrication"
 description: "Market > College Programs > Holland College > Welding Fabrication: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.52 Welding Fabrication
+# 10.27.52 Welding Fabrication
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.98 Mechanical Design"
+title: "10.32.98 Mechanical Design"
 description: "Market > College Programs > Lambton College > Mechanical Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.98 Mechanical Design
+# 10.32.98 Mechanical Design
 
 ## Glossary
 

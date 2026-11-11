@@ -1,10 +1,10 @@
 ---
-title: "10.54.5 Advertising and Marketing Communications – Management"
+title: "10.60.5 Advertising and Marketing Communications – Management"
 description: "Market > College Programs > Sheridan College > Advertising and Marketing Communications – Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.5 Advertising and Marketing Communications – Management
+# 10.60.5 Advertising and Marketing Communications – Management
 
 ## Glossary
 

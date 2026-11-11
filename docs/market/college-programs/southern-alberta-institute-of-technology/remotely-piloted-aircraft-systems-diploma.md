@@ -1,10 +1,10 @@
 ---
-title: "10.55.114 Remotely Piloted Aircraft Systems Diploma"
+title: "10.62.114 Remotely Piloted Aircraft Systems Diploma"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Remotely Piloted Aircraft Systems Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.114 Remotely Piloted Aircraft Systems Diploma
+# 10.62.114 Remotely Piloted Aircraft Systems Diploma
 
 ## Glossary
 

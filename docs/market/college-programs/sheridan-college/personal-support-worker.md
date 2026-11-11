@@ -1,10 +1,10 @@
 ---
-title: "10.54.94 Personal Support Worker"
+title: "10.60.94 Personal Support Worker"
 description: "Market > College Programs > Sheridan College > Personal Support Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.94 Personal Support Worker
+# 10.60.94 Personal Support Worker
 
 ## Glossary
 

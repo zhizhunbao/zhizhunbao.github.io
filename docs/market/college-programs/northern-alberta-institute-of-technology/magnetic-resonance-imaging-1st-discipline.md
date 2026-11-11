@@ -1,10 +1,10 @@
 ---
-title: "10.39.71 Magnetic Resonance Imaging 1st Discipline"
+title: "10.45.71 Magnetic Resonance Imaging 1st Discipline"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Magnetic Resonance Imaging 1st Discipline: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.71 Magnetic Resonance Imaging 1st Discipline
+# 10.45.71 Magnetic Resonance Imaging 1st Discipline
 
 ## Glossary
 

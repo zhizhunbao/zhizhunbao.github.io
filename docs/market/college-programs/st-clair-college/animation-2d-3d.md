@@ -1,10 +1,10 @@
 ---
-title: "10.56.3 Animation 2D/3D"
+title: "10.63.3 Animation 2D/3D"
 description: "Market > College Programs > St. Clair College > Animation 2D/3D: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.3 Animation 2D/3D
+# 10.63.3 Animation 2D/3D
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.43 Community Integration Through Co-operative Education"
+title: "10.25.43 Community Integration Through Co-operative Education"
 description: "Market > College Programs > Georgian College > Community Integration Through Co-operative Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.43 Community Integration Through Co-operative Education
+# 10.25.43 Community Integration Through Co-operative Education
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.16.57 Office Administration - Executive"
+title: "10.19.57 Office Administration - Executive"
 description: "Market > College Programs > Confederation College > Office Administration - Executive: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.57 Office Administration - Executive
+# 10.19.57 Office Administration - Executive
 
 ## Glossary
 

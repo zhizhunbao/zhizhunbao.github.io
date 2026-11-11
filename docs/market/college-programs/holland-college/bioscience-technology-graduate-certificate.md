@@ -1,10 +1,10 @@
 ---
-title: "10.23.9 Bioscience Technology (Graduate Certificate)"
+title: "10.27.9 Bioscience Technology (Graduate Certificate)"
 description: "Market > College Programs > Holland College > Bioscience Technology (Graduate Certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.9 Bioscience Technology (Graduate Certificate)
+# 10.27.9 Bioscience Technology (Graduate Certificate)
 
 ## Glossary
 

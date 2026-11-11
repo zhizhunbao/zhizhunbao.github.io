@@ -1,10 +1,10 @@
 ---
-title: "10.19.79 Event Planning"
+title: "10.22.79 Event Planning"
 description: "Market > College Programs > Fanshawe College > Event Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.79 Event Planning
+# 10.22.79 Event Planning
 
 ## Glossary
 

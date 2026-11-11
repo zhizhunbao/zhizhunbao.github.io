@@ -1,10 +1,10 @@
 ---
-title: "10.31.19 Community and Justice Services"
+title: "10.35.19 Community and Justice Services"
 description: "Market > College Programs > Loyalist College > Community and Justice Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.19 Community and Justice Services
+# 10.35.19 Community and Justice Services
 
 ## Glossary
 

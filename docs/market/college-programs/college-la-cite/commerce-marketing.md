@@ -1,10 +1,10 @@
 ---
-title: "10.11.33 Commerce – marketing"
+title: "10.14.33 Commerce – marketing"
 description: "Market > College Programs > Collège La Cité > Commerce – marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.33 Commerce – marketing
+# 10.14.33 Commerce – marketing
 
 ## Glossary
 

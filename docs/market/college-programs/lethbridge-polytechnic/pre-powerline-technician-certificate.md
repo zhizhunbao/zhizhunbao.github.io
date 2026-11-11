@@ -1,10 +1,10 @@
 ---
-title: "10.30.51 Pre-Powerline Technician Certificate"
+title: "10.34.51 Pre-Powerline Technician Certificate"
 description: "Market > College Programs > Lethbridge Polytechnic > Pre-Powerline Technician Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.51 Pre-Powerline Technician Certificate
+# 10.34.51 Pre-Powerline Technician Certificate
 
 ## Glossary
 

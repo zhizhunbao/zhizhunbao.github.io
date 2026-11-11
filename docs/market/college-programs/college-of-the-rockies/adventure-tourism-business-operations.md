@@ -1,10 +1,10 @@
 ---
-title: "10.14.2 Adventure Tourism Business Operations"
+title: "10.17.2 Adventure Tourism Business Operations"
 description: "Market > College Programs > College of the Rockies > Adventure Tourism Business Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.2 Adventure Tourism Business Operations
+# 10.17.2 Adventure Tourism Business Operations
 
 ## Glossary
 

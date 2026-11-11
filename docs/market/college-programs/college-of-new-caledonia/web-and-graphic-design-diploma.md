@@ -1,10 +1,10 @@
 ---
-title: "10.12.41 Web and Graphic Design Diploma"
+title: "10.15.41 Web and Graphic Design Diploma"
 description: "Market > College Programs > College of New Caledonia > Web and Graphic Design Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.41 Web and Graphic Design Diploma
+# 10.15.41 Web and Graphic Design Diploma
 
 ## Glossary
 

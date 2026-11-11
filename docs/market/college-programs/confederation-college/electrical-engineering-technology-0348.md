@@ -1,10 +1,10 @@
 ---
-title: "10.16.34 Electrical Engineering Technology (0348)"
+title: "10.19.34 Electrical Engineering Technology (0348)"
 description: "Market > College Programs > Confederation College > Electrical Engineering Technology (0348): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.34 Electrical Engineering Technology (0348)
+# 10.19.34 Electrical Engineering Technology (0348)
 
 ## Glossary
 

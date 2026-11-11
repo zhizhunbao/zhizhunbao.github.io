@@ -1,10 +1,10 @@
 ---
-title: "10.8.160 Personal Support Worker (Living Classroom) (Schlegel Villages, The Village of Taunton Mills)"
+title: "10.9.160 Personal Support Worker (Living Classroom) (Schlegel Villages, The Village of Taunton Mills)"
 description: "Market > College Programs > Centennial College > Personal Support Worker (Living Classroom) (Schlegel Villages, The Village of Taunton Mills): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.160 Personal Support Worker (Living Classroom) (Schlegel Villages, The Village of Taunton Mills)
+# 10.9.160 Personal Support Worker (Living Classroom) (Schlegel Villages, The Village of Taunton Mills)
 
 ## Glossary
 

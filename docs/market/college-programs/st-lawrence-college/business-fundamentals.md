@@ -1,10 +1,10 @@
 ---
-title: "10.57.14 Business Fundamentals"
+title: "10.64.14 Business Fundamentals"
 description: "Market > College Programs > St. Lawrence College > Business Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.14 Business Fundamentals
+# 10.64.14 Business Fundamentals
 
 ## Glossary
 

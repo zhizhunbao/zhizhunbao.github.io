@@ -1,10 +1,10 @@
 ---
-title: "10.24.84 Heating, Refrigeration and Air Conditioning Technology"
+title: "10.28.84 Heating, Refrigeration and Air Conditioning Technology"
 description: "Market > College Programs > Humber Polytechnic > Heating, Refrigeration and Air Conditioning Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.84 Heating, Refrigeration and Air Conditioning Technology
+# 10.28.84 Heating, Refrigeration and Air Conditioning Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.8.83 Early Childhood Education (Progress Campus)"
+title: "10.9.83 Early Childhood Education (Progress Campus)"
 description: "Market > College Programs > Centennial College > Early Childhood Education (Progress Campus): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.83 Early Childhood Education (Progress Campus)
+# 10.9.83 Early Childhood Education (Progress Campus)
 
 ## Glossary
 

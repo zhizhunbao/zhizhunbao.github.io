@@ -1,10 +1,10 @@
 ---
-title: "10.39.87 Organizational Leadership and Governance"
+title: "10.45.87 Organizational Leadership and Governance"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Organizational Leadership and Governance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.87 Organizational Leadership and Governance
+# 10.45.87 Organizational Leadership and Governance
 
 ## Glossary
 

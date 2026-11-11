@@ -1,10 +1,10 @@
 ---
-title: "10.19.28 Business - Finance"
+title: "10.22.28 Business - Finance"
 description: "Market > College Programs > Fanshawe College > Business - Finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.28 Business - Finance
+# 10.22.28 Business - Finance
 
 ## Glossary
 

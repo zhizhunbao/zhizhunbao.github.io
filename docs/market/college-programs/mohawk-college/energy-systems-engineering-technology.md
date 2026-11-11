@@ -1,10 +1,10 @@
 ---
-title: "10.34.48 Energy Systems Engineering Technology"
+title: "10.39.48 Energy Systems Engineering Technology"
 description: "Market > College Programs > Mohawk College > Energy Systems Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.48 Energy Systems Engineering Technology
+# 10.39.48 Energy Systems Engineering Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.6 Animation and Game Fundamentals"
+title: "10.18.6 Animation and Game Fundamentals"
 description: "Market > College Programs > Conestoga College > Animation and Game Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.6 Animation and Game Fundamentals
+# 10.18.6 Animation and Game Fundamentals
 
 ## Glossary
 

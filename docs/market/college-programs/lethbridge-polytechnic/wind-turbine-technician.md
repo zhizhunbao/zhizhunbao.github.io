@@ -1,10 +1,10 @@
 ---
-title: "10.30.57 Wind Turbine Technician"
+title: "10.34.57 Wind Turbine Technician"
 description: "Market > College Programs > Lethbridge Polytechnic > Wind Turbine Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.57 Wind Turbine Technician
+# 10.34.57 Wind Turbine Technician
 
 ## Glossary
 

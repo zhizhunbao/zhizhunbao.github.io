@@ -1,10 +1,10 @@
 ---
-title: "10.27.8 Animal Science Technology Diploma: Livestock Science Major"
+title: "10.31.8 Animal Science Technology Diploma: Livestock Science Major"
 description: "Market > College Programs > Lakeland College > Animal Science Technology Diploma: Livestock Science Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.8 Animal Science Technology Diploma: Livestock Science Major
+# 10.31.8 Animal Science Technology Diploma: Livestock Science Major
 
 ## Glossary
 

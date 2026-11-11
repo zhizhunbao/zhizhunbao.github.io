@@ -1,10 +1,10 @@
 ---
-title: "10.43.12 Educational Assistant – Inclusion Support"
+title: "10.49.12 Educational Assistant – Inclusion Support"
 description: "Market > College Programs > Northwestern Polytechnic > Educational Assistant – Inclusion Support: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.12 Educational Assistant – Inclusion Support
+# 10.49.12 Educational Assistant – Inclusion Support
 
 ## Glossary
 

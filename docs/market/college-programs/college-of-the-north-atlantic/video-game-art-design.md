@@ -1,10 +1,10 @@
 ---
-title: "10.13.104 Video Game Art & Design"
+title: "10.16.104 Video Game Art & Design"
 description: "Market > College Programs > College of the North Atlantic > Video Game Art & Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.104 Video Game Art & Design
+# 10.16.104 Video Game Art & Design
 
 ## Glossary
 

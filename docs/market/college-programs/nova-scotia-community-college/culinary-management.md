@@ -1,10 +1,10 @@
 ---
-title: "10.44.35 Culinary Management"
+title: "10.50.35 Culinary Management"
 description: "Market > College Programs > Nova Scotia Community College > Culinary Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.35 Culinary Management
+# 10.50.35 Culinary Management
 
 ## Glossary
 

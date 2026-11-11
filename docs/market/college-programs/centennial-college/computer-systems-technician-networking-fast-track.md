@@ -1,10 +1,10 @@
 ---
-title: "10.8.67 Computer Systems Technician - Networking (Fast-Track)"
+title: "10.9.67 Computer Systems Technician - Networking (Fast-Track)"
 description: "Market > College Programs > Centennial College > Computer Systems Technician - Networking (Fast-Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.67 Computer Systems Technician - Networking (Fast-Track)
+# 10.9.67 Computer Systems Technician - Networking (Fast-Track)
 
 ## Glossary
 

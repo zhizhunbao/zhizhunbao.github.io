@@ -1,10 +1,10 @@
 ---
-title: "10.21.28 Cyber Security"
+title: "10.24.28 Cyber Security"
 description: "Market > College Programs > George Brown Polytechnic > Cyber Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.28 Cyber Security
+# 10.24.28 Cyber Security
 
 ## Glossary
 

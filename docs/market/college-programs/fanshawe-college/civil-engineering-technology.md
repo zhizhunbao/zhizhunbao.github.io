@@ -1,10 +1,10 @@
 ---
-title: "10.19.49 Civil Engineering Technology"
+title: "10.22.49 Civil Engineering Technology"
 description: "Market > College Programs > Fanshawe College > Civil Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.49 Civil Engineering Technology
+# 10.22.49 Civil Engineering Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.27.22 Commercial Agriculture Production, 1-year Post-Bachelor Certificate"
+title: "10.31.22 Commercial Agriculture Production, 1-year Post-Bachelor Certificate"
 description: "Market > College Programs > Lakeland College > Commercial Agriculture Production, 1-year Post-Bachelor Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.22 Commercial Agriculture Production, 1-year Post-Bachelor Certificate
+# 10.31.22 Commercial Agriculture Production, 1-year Post-Bachelor Certificate
 
 ## Glossary
 

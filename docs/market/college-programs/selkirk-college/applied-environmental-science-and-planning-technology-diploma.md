@@ -1,10 +1,10 @@
 ---
-title: "10.52.4 Applied Environmental Science and Planning Technology - Diploma"
+title: "10.58.4 Applied Environmental Science and Planning Technology - Diploma"
 description: "Market > College Programs > Selkirk College > Applied Environmental Science and Planning Technology - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.4 Applied Environmental Science and Planning Technology - Diploma
+# 10.58.4 Applied Environmental Science and Planning Technology - Diploma
 
 ## Glossary
 

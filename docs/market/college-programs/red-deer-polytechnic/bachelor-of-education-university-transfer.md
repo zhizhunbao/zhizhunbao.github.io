@@ -1,10 +1,10 @@
 ---
-title: "10.48.12 Bachelor of Education – University Transfer"
+title: "10.54.12 Bachelor of Education – University Transfer"
 description: "Market > College Programs > Red Deer Polytechnic > Bachelor of Education – University Transfer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.12 Bachelor of Education – University Transfer
+# 10.54.12 Bachelor of Education – University Transfer
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.14.11 Computer Information Systems Technology"
+title: "10.17.11 Computer Information Systems Technology"
 description: "Market > College Programs > College of the Rockies > Computer Information Systems Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.11 Computer Information Systems Technology
+# 10.17.11 Computer Information Systems Technology
 
 ## Glossary
 

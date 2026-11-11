@@ -1,10 +1,10 @@
 ---
-title: "10.20.49 Massage Therapy (MAC)"
+title: "10.23.49 Massage Therapy (MAC)"
 description: "Market > College Programs > Fleming College > Massage Therapy (MAC): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.49 Massage Therapy (MAC)
+# 10.23.49 Massage Therapy (MAC)
 
 ## Glossary
 

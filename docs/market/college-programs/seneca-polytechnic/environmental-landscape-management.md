@@ -1,10 +1,10 @@
 ---
-title: "10.53.58 Environmental Landscape Management"
+title: "10.59.58 Environmental Landscape Management"
 description: "Market > College Programs > Seneca Polytechnic > Environmental Landscape Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.58 Environmental Landscape Management
+# 10.59.58 Environmental Landscape Management
 
 ## Glossary
 

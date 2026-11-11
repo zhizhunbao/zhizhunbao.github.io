@@ -1,10 +1,10 @@
 ---
-title: "10.16.66 Police Foundations: Investigations and Community Security"
+title: "10.19.66 Police Foundations: Investigations and Community Security"
 description: "Market > College Programs > Confederation College > Police Foundations: Investigations and Community Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.66 Police Foundations: Investigations and Community Security
+# 10.19.66 Police Foundations: Investigations and Community Security
 
 ## Glossary
 

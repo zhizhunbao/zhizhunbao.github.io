@@ -1,10 +1,10 @@
 ---
-title: "10.11.90 Techniques d'intervention en criminologie"
+title: "10.14.90 Techniques d'intervention en criminologie"
 description: "Market > College Programs > Collège La Cité > Techniques d'intervention en criminologie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.90 Techniques d'intervention en criminologie
+# 10.14.90 Techniques d'intervention en criminologie
 
 ## Glossary
 

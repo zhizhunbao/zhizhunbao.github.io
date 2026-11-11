@@ -1,10 +1,10 @@
 ---
-title: "10.18.60 Fitness and Health Promotion"
+title: "10.21.60 Fitness and Health Promotion"
 description: "Market > College Programs > Durham College > Fitness and Health Promotion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.60 Fitness and Health Promotion
+# 10.21.60 Fitness and Health Promotion
 
 ## Glossary
 

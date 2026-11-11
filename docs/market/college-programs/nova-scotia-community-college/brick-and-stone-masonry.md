@@ -1,10 +1,10 @@
 ---
-title: "10.44.15 Brick and Stone Masonry"
+title: "10.50.15 Brick and Stone Masonry"
 description: "Market > College Programs > Nova Scotia Community College > Brick and Stone Masonry: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.15 Brick and Stone Masonry
+# 10.50.15 Brick and Stone Masonry
 
 ## Glossary
 

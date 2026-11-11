@@ -1,10 +1,10 @@
 ---
-title: "10.38.12 Engineering Foundations Certificate"
+title: "10.43.12 Engineering Foundations Certificate"
 description: "Market > College Programs > North Island College > Engineering Foundations Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.12 Engineering Foundations Certificate
+# 10.43.12 Engineering Foundations Certificate
 
 ## Glossary
 

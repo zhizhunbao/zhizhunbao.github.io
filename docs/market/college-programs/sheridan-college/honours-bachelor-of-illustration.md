@@ -1,10 +1,10 @@
 ---
-title: "10.54.68 Honours Bachelor of Illustration"
+title: "10.60.68 Honours Bachelor of Illustration"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Illustration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.68 Honours Bachelor of Illustration
+# 10.60.68 Honours Bachelor of Illustration
 
 ## Glossary
 

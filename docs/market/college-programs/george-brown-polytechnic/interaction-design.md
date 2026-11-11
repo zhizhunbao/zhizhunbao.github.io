@@ -1,10 +1,10 @@
 ---
-title: "10.21.64 Interaction Design"
+title: "10.24.64 Interaction Design"
 description: "Market > College Programs > George Brown Polytechnic > Interaction Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.64 Interaction Design
+# 10.24.64 Interaction Design
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.44.56 Esthetics and Spa Therapies"
+title: "10.50.56 Esthetics and Spa Therapies"
 description: "Market > College Programs > Nova Scotia Community College > Esthetics and Spa Therapies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.56 Esthetics and Spa Therapies
+# 10.50.56 Esthetics and Spa Therapies
 
 ## Glossary
 

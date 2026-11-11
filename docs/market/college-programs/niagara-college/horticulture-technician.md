@@ -1,10 +1,10 @@
 ---
-title: "10.36.55 Horticulture Technician"
+title: "10.41.55 Horticulture Technician"
 description: "Market > College Programs > Niagara College > Horticulture Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.55 Horticulture Technician
+# 10.41.55 Horticulture Technician
 
 ## Glossary
 

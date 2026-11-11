@@ -1,10 +1,10 @@
 ---
-title: "10.24.52 Computer Systems Technician – Information Technology Infrastructure and Services"
+title: "10.28.52 Computer Systems Technician – Information Technology Infrastructure and Services"
 description: "Market > College Programs > Humber Polytechnic > Computer Systems Technician – Information Technology Infrastructure and Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.52 Computer Systems Technician – Information Technology Infrastructure and Services
+# 10.28.52 Computer Systems Technician – Information Technology Infrastructure and Services
 
 ## Glossary
 

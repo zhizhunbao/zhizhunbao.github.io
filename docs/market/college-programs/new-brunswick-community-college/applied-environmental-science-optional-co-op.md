@@ -1,10 +1,10 @@
 ---
-title: "10.35.7 Applied Environmental Science (Optional Co-op)"
+title: "10.40.7 Applied Environmental Science (Optional Co-op)"
 description: "Market > College Programs > New Brunswick Community College > Applied Environmental Science (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.7 Applied Environmental Science (Optional Co-op)
+# 10.40.7 Applied Environmental Science (Optional Co-op)
 
 ## Glossary
 

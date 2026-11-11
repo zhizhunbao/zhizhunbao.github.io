@@ -1,10 +1,10 @@
 ---
-title: "10.24.41 Carpentry and Renovation Technician"
+title: "10.28.41 Carpentry and Renovation Technician"
 description: "Market > College Programs > Humber Polytechnic > Carpentry and Renovation Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.41 Carpentry and Renovation Technician
+# 10.28.41 Carpentry and Renovation Technician
 
 ## Glossary
 

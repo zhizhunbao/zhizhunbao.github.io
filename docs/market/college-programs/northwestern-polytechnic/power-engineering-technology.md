@@ -1,10 +1,10 @@
 ---
-title: "10.43.24 Power Engineering Technology"
+title: "10.49.24 Power Engineering Technology"
 description: "Market > College Programs > Northwestern Polytechnic > Power Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.24 Power Engineering Technology
+# 10.49.24 Power Engineering Technology
 
 ## Glossary
 

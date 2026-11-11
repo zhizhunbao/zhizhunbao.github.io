@@ -1,10 +1,10 @@
 ---
-title: "10.18 Durham College"
+title: "10.21 Durham College"
 description: "Market > College Programs > Durham College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18 Durham College
+# 10.21 Durham College
 
 ## Glossary
 

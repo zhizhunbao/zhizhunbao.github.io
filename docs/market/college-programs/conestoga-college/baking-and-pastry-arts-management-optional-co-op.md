@@ -1,10 +1,10 @@
 ---
-title: "10.15.35 Baking and Pastry Arts Management (Optional Co-op)"
+title: "10.18.35 Baking and Pastry Arts Management (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Baking and Pastry Arts Management (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.35 Baking and Pastry Arts Management (Optional Co-op)
+# 10.18.35 Baking and Pastry Arts Management (Optional Co-op)
 
 ## Glossary
 

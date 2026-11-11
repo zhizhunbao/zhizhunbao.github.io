@@ -1,10 +1,10 @@
 ---
-title: "10.20.55 Occupational Therapist Assistant and Physiotherapist Assistant (POA)"
+title: "10.23.55 Occupational Therapist Assistant and Physiotherapist Assistant (POA)"
 description: "Market > College Programs > Fleming College > Occupational Therapist Assistant and Physiotherapist Assistant (POA): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.55 Occupational Therapist Assistant and Physiotherapist Assistant (POA)
+# 10.23.55 Occupational Therapist Assistant and Physiotherapist Assistant (POA)
 
 ## Glossary
 

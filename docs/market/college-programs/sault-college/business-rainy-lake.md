@@ -1,10 +1,10 @@
 ---
-title: "10.51.10 Business (Rainy Lake)"
+title: "10.57.10 Business (Rainy Lake)"
 description: "Market > College Programs > Sault College > Business (Rainy Lake): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.10 Business (Rainy Lake)
+# 10.57.10 Business (Rainy Lake)
 
 ## Glossary
 

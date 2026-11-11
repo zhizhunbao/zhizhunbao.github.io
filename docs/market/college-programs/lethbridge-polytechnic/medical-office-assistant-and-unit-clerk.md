@@ -1,10 +1,10 @@
 ---
-title: "10.30.40 Medical Office Assistant and Unit Clerk"
+title: "10.34.40 Medical Office Assistant and Unit Clerk"
 description: "Market > College Programs > Lethbridge Polytechnic > Medical Office Assistant and Unit Clerk: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.40 Medical Office Assistant and Unit Clerk
+# 10.34.40 Medical Office Assistant and Unit Clerk
 
 ## Glossary
 

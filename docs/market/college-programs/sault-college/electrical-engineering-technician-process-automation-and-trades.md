@@ -1,10 +1,10 @@
 ---
-title: "10.51.23 Electrical Engineering Technician - Process Automation and Trades"
+title: "10.57.23 Electrical Engineering Technician - Process Automation and Trades"
 description: "Market > College Programs > Sault College > Electrical Engineering Technician - Process Automation and Trades: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.23 Electrical Engineering Technician - Process Automation and Trades
+# 10.57.23 Electrical Engineering Technician - Process Automation and Trades
 
 ## Glossary
 

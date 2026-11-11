@@ -1,10 +1,10 @@
 ---
-title: "10.44.75 Industrial Mechanical"
+title: "10.50.75 Industrial Mechanical"
 description: "Market > College Programs > Nova Scotia Community College > Industrial Mechanical: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.75 Industrial Mechanical
+# 10.50.75 Industrial Mechanical
 
 ## Glossary
 

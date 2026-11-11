@@ -1,10 +1,10 @@
 ---
-title: "10.8.124 Insurance Management"
+title: "10.9.124 Insurance Management"
 description: "Market > College Programs > Centennial College > Insurance Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.124 Insurance Management
+# 10.9.124 Insurance Management
 
 ## Glossary
 

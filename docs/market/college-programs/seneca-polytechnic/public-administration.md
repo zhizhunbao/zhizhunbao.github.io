@@ -1,10 +1,10 @@
 ---
-title: "10.53.144 Public Administration"
+title: "10.59.144 Public Administration"
 description: "Market > College Programs > Seneca Polytechnic > Public Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.144 Public Administration
+# 10.59.144 Public Administration
 
 ## Glossary
 

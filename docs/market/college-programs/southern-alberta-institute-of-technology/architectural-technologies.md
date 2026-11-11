@@ -1,10 +1,10 @@
 ---
-title: "10.55.6 Architectural Technologies"
+title: "10.62.6 Architectural Technologies"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Architectural Technologies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.6 Architectural Technologies
+# 10.62.6 Architectural Technologies
 
 ## Glossary
 

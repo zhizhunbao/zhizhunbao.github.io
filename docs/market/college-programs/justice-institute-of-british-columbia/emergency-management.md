@@ -1,10 +1,10 @@
 ---
-title: "10.25.8 Emergency Management"
+title: "10.29.8 Emergency Management"
 description: "Market > College Programs > Justice Institute of British Columbia > Emergency Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.8 Emergency Management
+# 10.29.8 Emergency Management
 
 ## Glossary
 

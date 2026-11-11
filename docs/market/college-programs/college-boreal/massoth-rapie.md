@@ -1,10 +1,10 @@
 ---
-title: "10.10.20 Massothérapie"
+title: "10.11.20 Massothérapie"
 description: "Market > College Programs > Collège Boréal > Massothérapie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.20 Massothérapie
+# 10.11.20 Massothérapie
 
 ## Glossary
 

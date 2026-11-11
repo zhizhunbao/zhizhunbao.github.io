@@ -1,10 +1,10 @@
 ---
-title: "10.44.34 Criminal Justice"
+title: "10.50.34 Criminal Justice"
 description: "Market > College Programs > Nova Scotia Community College > Criminal Justice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.34 Criminal Justice
+# 10.50.34 Criminal Justice
 
 ## Glossary
 

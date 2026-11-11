@@ -1,10 +1,10 @@
 ---
-title: "10.37.38 Practical Nurse Diploma for Internationally Educated Nurses"
+title: "10.42.38 Practical Nurse Diploma for Internationally Educated Nurses"
 description: "Market > College Programs > NorQuest College > Practical Nurse Diploma for Internationally Educated Nurses: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.38 Practical Nurse Diploma for Internationally Educated Nurses
+# 10.42.38 Practical Nurse Diploma for Internationally Educated Nurses
 
 ## Glossary
 

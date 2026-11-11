@@ -1,10 +1,10 @@
 ---
-title: "10.57.19 Communicative Disorders Assistant (K1005IP)"
+title: "10.64.19 Communicative Disorders Assistant (K1005IP)"
 description: "Market > College Programs > St. Lawrence College > Communicative Disorders Assistant (K1005IP): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.19 Communicative Disorders Assistant (K1005IP)
+# 10.64.19 Communicative Disorders Assistant (K1005IP)
 
 ## Glossary
 

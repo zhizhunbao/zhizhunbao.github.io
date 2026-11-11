@@ -1,10 +1,10 @@
 ---
-title: "10.36.56 Horticulture Technician (Co-op)"
+title: "10.41.56 Horticulture Technician (Co-op)"
 description: "Market > College Programs > Niagara College > Horticulture Technician (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.56 Horticulture Technician (Co-op)
+# 10.41.56 Horticulture Technician (Co-op)
 
 ## Glossary
 

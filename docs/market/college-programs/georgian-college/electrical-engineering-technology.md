@@ -1,10 +1,10 @@
 ---
-title: "10.22.62 Electrical Engineering Technology"
+title: "10.25.62 Electrical Engineering Technology"
 description: "Market > College Programs > Georgian College > Electrical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.62 Electrical Engineering Technology
+# 10.25.62 Electrical Engineering Technology
 
 ## Glossary
 

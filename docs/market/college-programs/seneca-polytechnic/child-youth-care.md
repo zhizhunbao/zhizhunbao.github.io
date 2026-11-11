@@ -1,10 +1,10 @@
 ---
-title: "10.53.33 Child & Youth Care"
+title: "10.59.33 Child & Youth Care"
 description: "Market > College Programs > Seneca Polytechnic > Child & Youth Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.33 Child & Youth Care
+# 10.59.33 Child & Youth Care
 
 ## Glossary
 

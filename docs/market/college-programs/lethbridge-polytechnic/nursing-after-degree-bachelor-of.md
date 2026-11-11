@@ -1,10 +1,10 @@
 ---
-title: "10.30.44 Nursing After Degree - Bachelor of"
+title: "10.34.44 Nursing After Degree - Bachelor of"
 description: "Market > College Programs > Lethbridge Polytechnic > Nursing After Degree - Bachelor of: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.44 Nursing After Degree - Bachelor of
+# 10.34.44 Nursing After Degree - Bachelor of
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.57.11 Biotechnology"
+title: "10.64.11 Biotechnology"
 description: "Market > College Programs > St. Lawrence College > Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.11 Biotechnology
+# 10.64.11 Biotechnology
 
 ## Glossary
 

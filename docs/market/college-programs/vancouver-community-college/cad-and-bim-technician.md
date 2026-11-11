@@ -1,10 +1,10 @@
 ---
-title: "10.58.14 CAD and BIM Technician"
+title: "10.66.14 CAD and BIM Technician"
 description: "Market > College Programs > Vancouver Community College > CAD and BIM Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.14 CAD and BIM Technician
+# 10.66.14 CAD and BIM Technician
 
 ## Glossary
 

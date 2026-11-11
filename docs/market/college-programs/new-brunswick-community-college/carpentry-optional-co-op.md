@@ -1,10 +1,10 @@
 ---
-title: "10.35.19 Carpentry (Optional Co-op)"
+title: "10.40.19 Carpentry (Optional Co-op)"
 description: "Market > College Programs > New Brunswick Community College > Carpentry (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.19 Carpentry (Optional Co-op)
+# 10.40.19 Carpentry (Optional Co-op)
 
 ## Glossary
 

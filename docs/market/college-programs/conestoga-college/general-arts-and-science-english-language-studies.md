@@ -1,10 +1,10 @@
 ---
-title: "10.15.113 General Arts and Science - English Language Studies"
+title: "10.18.113 General Arts and Science - English Language Studies"
 description: "Market > College Programs > Conestoga College > General Arts and Science - English Language Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.113 General Arts and Science - English Language Studies
+# 10.18.113 General Arts and Science - English Language Studies
 
 ## Glossary
 

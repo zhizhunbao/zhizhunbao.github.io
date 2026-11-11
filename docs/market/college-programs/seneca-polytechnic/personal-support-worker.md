@@ -1,10 +1,10 @@
 ---
-title: "10.53.135 Personal Support Worker"
+title: "10.59.135 Personal Support Worker"
 description: "Market > College Programs > Seneca Polytechnic > Personal Support Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.135 Personal Support Worker
+# 10.59.135 Personal Support Worker
 
 ## Glossary
 

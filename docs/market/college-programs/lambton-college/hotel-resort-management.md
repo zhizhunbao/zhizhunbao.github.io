@@ -1,10 +1,10 @@
 ---
-title: "10.28.89 Hotel & Resort Management"
+title: "10.32.89 Hotel & Resort Management"
 description: "Market > College Programs > Lambton College > Hotel & Resort Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.89 Hotel & Resort Management
+# 10.32.89 Hotel & Resort Management
 
 ## Glossary
 

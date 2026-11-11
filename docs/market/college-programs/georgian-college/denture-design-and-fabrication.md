@@ -1,10 +1,10 @@
 ---
-title: "10.22.56 Denture Design and Fabrication"
+title: "10.25.56 Denture Design and Fabrication"
 description: "Market > College Programs > Georgian College > Denture Design and Fabrication: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.56 Denture Design and Fabrication
+# 10.25.56 Denture Design and Fabrication
 
 ## Glossary
 

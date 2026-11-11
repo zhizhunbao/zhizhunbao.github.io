@@ -1,10 +1,10 @@
 ---
-title: "10.13.9 Auto Body and Collision Technician"
+title: "10.16.9 Auto Body and Collision Technician"
 description: "Market > College Programs > College of the North Atlantic > Auto Body and Collision Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.9 Auto Body and Collision Technician
+# 10.16.9 Auto Body and Collision Technician
 
 ## Glossary
 

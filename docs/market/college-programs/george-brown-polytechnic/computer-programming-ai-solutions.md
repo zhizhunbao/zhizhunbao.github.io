@@ -1,10 +1,10 @@
 ---
-title: "10.21.20 Computer Programming – AI Solutions"
+title: "10.24.20 Computer Programming – AI Solutions"
 description: "Market > College Programs > George Brown Polytechnic > Computer Programming – AI Solutions: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.20 Computer Programming – AI Solutions
+# 10.24.20 Computer Programming – AI Solutions
 
 ## Glossary
 

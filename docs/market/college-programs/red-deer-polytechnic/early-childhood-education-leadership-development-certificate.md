@@ -1,10 +1,10 @@
 ---
-title: "10.48.22 Early Childhood Education Leadership Development Certificate"
+title: "10.54.22 Early Childhood Education Leadership Development Certificate"
 description: "Market > College Programs > Red Deer Polytechnic > Early Childhood Education Leadership Development Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.22 Early Childhood Education Leadership Development Certificate
+# 10.54.22 Early Childhood Education Leadership Development Certificate
 
 ## Glossary
 

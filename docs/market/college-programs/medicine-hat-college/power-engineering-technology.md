@@ -1,10 +1,10 @@
 ---
-title: "10.33.25 Power Engineering Technology"
+title: "10.38.25 Power Engineering Technology"
 description: "Market > College Programs > Medicine Hat College > Power Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.25 Power Engineering Technology
+# 10.38.25 Power Engineering Technology
 
 ## Glossary
 

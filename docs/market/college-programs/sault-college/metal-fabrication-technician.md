@@ -1,10 +1,10 @@
 ---
-title: "10.51.37 Metal Fabrication Technician"
+title: "10.57.37 Metal Fabrication Technician"
 description: "Market > College Programs > Sault College > Metal Fabrication Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.37 Metal Fabrication Technician
+# 10.57.37 Metal Fabrication Technician
 
 ## Glossary
 

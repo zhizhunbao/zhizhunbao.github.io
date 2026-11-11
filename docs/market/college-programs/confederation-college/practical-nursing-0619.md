@@ -1,10 +1,10 @@
 ---
-title: "10.16.67 Practical Nursing (0619)"
+title: "10.19.67 Practical Nursing (0619)"
 description: "Market > College Programs > Confederation College > Practical Nursing (0619): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.67 Practical Nursing (0619)
+# 10.19.67 Practical Nursing (0619)
 
 ## Glossary
 

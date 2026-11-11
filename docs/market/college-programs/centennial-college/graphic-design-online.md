@@ -1,10 +1,10 @@
 ---
-title: "10.8.114 Graphic Design (Online)"
+title: "10.9.114 Graphic Design (Online)"
 description: "Market > College Programs > Centennial College > Graphic Design (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.114 Graphic Design (Online)
+# 10.9.114 Graphic Design (Online)
 
 ## Glossary
 

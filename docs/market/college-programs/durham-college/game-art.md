@@ -1,10 +1,10 @@
 ---
-title: "10.18.62 Game – Art"
+title: "10.21.62 Game – Art"
 description: "Market > College Programs > Durham College > Game – Art: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.62 Game – Art
+# 10.21.62 Game – Art
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.121 Victimology"
+title: "10.28.121 Victimology"
 description: "Market > College Programs > Humber Polytechnic > Victimology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.121 Victimology
+# 10.28.121 Victimology
 
 ## Glossary
 

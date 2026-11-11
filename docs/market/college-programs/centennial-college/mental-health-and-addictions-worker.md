@@ -1,10 +1,10 @@
 ---
-title: "10.8.138 Mental Health and Addictions Worker"
+title: "10.9.138 Mental Health and Addictions Worker"
 description: "Market > College Programs > Centennial College > Mental Health and Addictions Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.138 Mental Health and Addictions Worker
+# 10.9.138 Mental Health and Addictions Worker
 
 ## Glossary
 

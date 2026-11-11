@@ -1,10 +1,10 @@
 ---
-title: "10.15.191 Therapeutic Recreation"
+title: "10.18.191 Therapeutic Recreation"
 description: "Market > College Programs > Conestoga College > Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.191 Therapeutic Recreation
+# 10.18.191 Therapeutic Recreation
 
 ## Glossary
 

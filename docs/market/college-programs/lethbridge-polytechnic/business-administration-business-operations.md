@@ -1,10 +1,10 @@
 ---
-title: "10.30.10 Business Administration - Business Operations"
+title: "10.34.10 Business Administration - Business Operations"
 description: "Market > College Programs > Lethbridge Polytechnic > Business Administration - Business Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.10 Business Administration - Business Operations
+# 10.34.10 Business Administration - Business Operations
 
 ## Glossary
 

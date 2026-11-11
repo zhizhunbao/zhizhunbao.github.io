@@ -1,10 +1,10 @@
 ---
-title: "10.57.54 Medical Laboratory Assistant/Technician (S0734)"
+title: "10.64.54 Medical Laboratory Assistant/Technician (S0734)"
 description: "Market > College Programs > St. Lawrence College > Medical Laboratory Assistant/Technician (S0734): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.54 Medical Laboratory Assistant/Technician (S0734)
+# 10.64.54 Medical Laboratory Assistant/Technician (S0734)
 
 ## Glossary
 

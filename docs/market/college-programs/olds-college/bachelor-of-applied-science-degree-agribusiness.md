@@ -1,10 +1,10 @@
 ---
-title: "10.46.9 Bachelor of Applied Science Degree - Agribusiness"
+title: "10.52.9 Bachelor of Applied Science Degree - Agribusiness"
 description: "Market > College Programs > Olds College > Bachelor of Applied Science Degree - Agribusiness: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.9 Bachelor of Applied Science Degree - Agribusiness
+# 10.52.9 Bachelor of Applied Science Degree - Agribusiness
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.5 Disaster Management (PBDDM)"
+title: "10.29.5 Disaster Management (PBDDM)"
 description: "Market > College Programs > Justice Institute of British Columbia > Disaster Management (PBDDM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.5 Disaster Management (PBDDM)
+# 10.29.5 Disaster Management (PBDDM)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.9.11 Early Childhood Care & Education (ECCE)"
+title: "10.10.11 Early Childhood Care & Education (ECCE)"
 description: "Market > College Programs > Coast Mountain College > Early Childhood Care & Education (ECCE): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.9.11 Early Childhood Care & Education (ECCE)
+# 10.10.11 Early Childhood Care & Education (ECCE)
 
 ## Glossary
 

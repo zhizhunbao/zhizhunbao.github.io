@@ -1,10 +1,10 @@
 ---
-title: "10.18.10 Artificial Intelligence – Honours Bachelor"
+title: "10.21.10 Artificial Intelligence – Honours Bachelor"
 description: "Market > College Programs > Durham College > Artificial Intelligence – Honours Bachelor: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.10 Artificial Intelligence – Honours Bachelor
+# 10.21.10 Artificial Intelligence – Honours Bachelor
 
 ## Glossary
 

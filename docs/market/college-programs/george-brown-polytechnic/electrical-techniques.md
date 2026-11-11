@@ -1,10 +1,10 @@
 ---
-title: "10.21.35 Electrical Techniques"
+title: "10.24.35 Electrical Techniques"
 description: "Market > College Programs > George Brown Polytechnic > Electrical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.35 Electrical Techniques
+# 10.24.35 Electrical Techniques
 
 ## Glossary
 

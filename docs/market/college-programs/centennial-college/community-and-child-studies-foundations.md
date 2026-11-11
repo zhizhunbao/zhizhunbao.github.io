@@ -1,10 +1,10 @@
 ---
-title: "10.8.63 Community and Child Studies Foundations"
+title: "10.9.63 Community and Child Studies Foundations"
 description: "Market > College Programs > Centennial College > Community and Child Studies Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.63 Community and Child Studies Foundations
+# 10.9.63 Community and Child Studies Foundations
 
 ## Glossary
 

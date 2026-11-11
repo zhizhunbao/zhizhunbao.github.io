@@ -1,10 +1,10 @@
 ---
-title: "10.21.70 Orthotic/Prosthetic Technician"
+title: "10.24.70 Orthotic/Prosthetic Technician"
 description: "Market > College Programs > George Brown Polytechnic > Orthotic/Prosthetic Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.70 Orthotic/Prosthetic Technician
+# 10.24.70 Orthotic/Prosthetic Technician
 
 ## Glossary
 

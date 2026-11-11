@@ -1,10 +1,10 @@
 ---
-title: "10.55.110 Radio, Television and Broadcast News - Broadcast News Major"
+title: "10.62.110 Radio, Television and Broadcast News - Broadcast News Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Radio, Television and Broadcast News - Broadcast News Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.110 Radio, Television and Broadcast News - Broadcast News Major
+# 10.62.110 Radio, Television and Broadcast News - Broadcast News Major
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.34 Mohawk College"
+title: "10.39 Mohawk College"
 description: "Market > College Programs > Mohawk College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34 Mohawk College
+# 10.39 Mohawk College
 
 ## Glossary
 

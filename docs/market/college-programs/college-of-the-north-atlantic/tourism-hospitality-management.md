@@ -1,10 +1,10 @@
 ---
-title: "10.13.101 Tourism & Hospitality Management"
+title: "10.16.101 Tourism & Hospitality Management"
 description: "Market > College Programs > College of the North Atlantic > Tourism & Hospitality Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.101 Tourism & Hospitality Management
+# 10.16.101 Tourism & Hospitality Management
 
 ## Glossary
 

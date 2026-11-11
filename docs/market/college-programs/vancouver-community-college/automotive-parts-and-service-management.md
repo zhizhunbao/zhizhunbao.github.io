@@ -1,10 +1,10 @@
 ---
-title: "10.58.8 Automotive Parts and Service Management"
+title: "10.66.8 Automotive Parts and Service Management"
 description: "Market > College Programs > Vancouver Community College > Automotive Parts and Service Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.8 Automotive Parts and Service Management
+# 10.66.8 Automotive Parts and Service Management
 
 ## Glossary
 

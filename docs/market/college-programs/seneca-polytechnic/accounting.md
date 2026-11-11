@@ -1,10 +1,10 @@
 ---
-title: "10.53.3 Accounting"
+title: "10.59.3 Accounting"
 description: "Market > College Programs > Seneca Polytechnic > Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.3 Accounting
+# 10.59.3 Accounting
 
 ## Glossary
 

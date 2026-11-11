@@ -1,10 +1,10 @@
 ---
-title: "10.19.31 Business - Insurance"
+title: "10.22.31 Business - Insurance"
 description: "Market > College Programs > Fanshawe College > Business - Insurance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.31 Business - Insurance
+# 10.22.31 Business - Insurance
 
 ## Glossary
 

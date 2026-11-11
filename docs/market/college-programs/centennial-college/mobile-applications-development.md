@@ -1,10 +1,10 @@
 ---
-title: "10.8.139 Mobile Applications Development"
+title: "10.9.139 Mobile Applications Development"
 description: "Market > College Programs > Centennial College > Mobile Applications Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.139 Mobile Applications Development
+# 10.9.139 Mobile Applications Development
 
 ## Glossary
 

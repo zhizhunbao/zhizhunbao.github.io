@@ -1,10 +1,10 @@
 ---
-title: "10.28.60 Construction Project Management (CPMT)"
+title: "10.32.60 Construction Project Management (CPMT)"
 description: "Market > College Programs > Lambton College > Construction Project Management (CPMT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.60 Construction Project Management (CPMT)
+# 10.32.60 Construction Project Management (CPMT)
 
 ## Glossary
 

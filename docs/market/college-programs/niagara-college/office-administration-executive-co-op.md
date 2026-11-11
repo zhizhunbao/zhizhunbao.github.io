@@ -1,10 +1,10 @@
 ---
-title: "10.36.69 Office Administration – Executive (Co-op)"
+title: "10.41.69 Office Administration – Executive (Co-op)"
 description: "Market > College Programs > Niagara College > Office Administration – Executive (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.69 Office Administration – Executive (Co-op)
+# 10.41.69 Office Administration – Executive (Co-op)
 
 ## Glossary
 

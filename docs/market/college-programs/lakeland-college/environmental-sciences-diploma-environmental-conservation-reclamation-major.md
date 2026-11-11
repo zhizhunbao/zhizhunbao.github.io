@@ -1,10 +1,10 @@
 ---
-title: "10.27.32 Environmental Sciences Diploma: Environmental Conservation & Reclamation Major"
+title: "10.31.32 Environmental Sciences Diploma: Environmental Conservation & Reclamation Major"
 description: "Market > College Programs > Lakeland College > Environmental Sciences Diploma: Environmental Conservation & Reclamation Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.32 Environmental Sciences Diploma: Environmental Conservation & Reclamation Major
+# 10.31.32 Environmental Sciences Diploma: Environmental Conservation & Reclamation Major
 
 ## Glossary
 

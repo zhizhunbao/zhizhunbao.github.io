@@ -1,10 +1,10 @@
 ---
-title: "10.24.7 Bachelor of Behavioural Science"
+title: "10.28.7 Bachelor of Behavioural Science"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Behavioural Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.7 Bachelor of Behavioural Science
+# 10.28.7 Bachelor of Behavioural Science
 
 ## Glossary
 

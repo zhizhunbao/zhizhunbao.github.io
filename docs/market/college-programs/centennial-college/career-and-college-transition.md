@@ -1,10 +1,10 @@
 ---
-title: "10.8.59 Career and College Transition"
+title: "10.9.59 Career and College Transition"
 description: "Market > College Programs > Centennial College > Career and College Transition: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.59 Career and College Transition
+# 10.9.59 Career and College Transition
 
 ## Glossary
 

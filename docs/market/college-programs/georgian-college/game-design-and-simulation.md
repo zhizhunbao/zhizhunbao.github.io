@@ -1,10 +1,10 @@
 ---
-title: "10.22.78 Game - Design and Simulation"
+title: "10.25.78 Game - Design and Simulation"
 description: "Market > College Programs > Georgian College > Game - Design and Simulation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.78 Game - Design and Simulation
+# 10.25.78 Game - Design and Simulation
 
 ## Glossary
 

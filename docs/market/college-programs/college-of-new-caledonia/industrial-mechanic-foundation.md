@@ -1,10 +1,10 @@
 ---
-title: "10.12.26 Industrial Mechanic Foundation"
+title: "10.15.26 Industrial Mechanic Foundation"
 description: "Market > College Programs > College of New Caledonia > Industrial Mechanic Foundation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.26 Industrial Mechanic Foundation
+# 10.15.26 Industrial Mechanic Foundation
 
 ## Glossary
 

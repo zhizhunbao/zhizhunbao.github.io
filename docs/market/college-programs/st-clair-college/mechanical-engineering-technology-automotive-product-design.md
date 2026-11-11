@@ -1,10 +1,10 @@
 ---
-title: "10.56.68 Mechanical Engineering Technology - Automotive Product Design"
+title: "10.63.68 Mechanical Engineering Technology - Automotive Product Design"
 description: "Market > College Programs > St. Clair College > Mechanical Engineering Technology - Automotive Product Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.68 Mechanical Engineering Technology - Automotive Product Design
+# 10.63.68 Mechanical Engineering Technology - Automotive Product Design
 
 ## Glossary
 

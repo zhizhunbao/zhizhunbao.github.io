@@ -1,10 +1,10 @@
 ---
-title: "10.11.84 Soutien technique en informatique"
+title: "10.14.84 Soutien technique en informatique"
 description: "Market > College Programs > Collège La Cité > Soutien technique en informatique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.84 Soutien technique en informatique
+# 10.14.84 Soutien technique en informatique
 
 ## Glossary
 

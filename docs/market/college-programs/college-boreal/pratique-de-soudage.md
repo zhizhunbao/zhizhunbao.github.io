@@ -1,10 +1,10 @@
 ---
-title: "10.10.25 Pratique de soudage"
+title: "10.11.25 Pratique de soudage"
 description: "Market > College Programs > Collège Boréal > Pratique de soudage: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.25 Pratique de soudage
+# 10.11.25 Pratique de soudage
 
 ## Glossary
 

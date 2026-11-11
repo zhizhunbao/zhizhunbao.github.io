@@ -1,10 +1,10 @@
 ---
-title: "10.15.36 Big Data Solution Architecture (Optional Co-op)"
+title: "10.18.36 Big Data Solution Architecture (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Big Data Solution Architecture (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.36 Big Data Solution Architecture (Optional Co-op)
+# 10.18.36 Big Data Solution Architecture (Optional Co-op)
 
 ## Glossary
 

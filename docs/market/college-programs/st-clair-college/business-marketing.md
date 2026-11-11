@@ -1,10 +1,10 @@
 ---
-title: "10.56.11 Business - Marketing"
+title: "10.63.11 Business - Marketing"
 description: "Market > College Programs > St. Clair College > Business - Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.11 Business - Marketing
+# 10.63.11 Business - Marketing
 
 ## Glossary
 

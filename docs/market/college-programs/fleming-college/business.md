@@ -1,10 +1,10 @@
 ---
-title: "10.20.6 Business"
+title: "10.23.6 Business"
 description: "Market > College Programs > Fleming College > Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.6 Business
+# 10.23.6 Business
 
 ## Glossary
 

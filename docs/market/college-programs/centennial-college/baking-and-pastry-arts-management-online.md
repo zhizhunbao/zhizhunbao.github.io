@@ -1,10 +1,10 @@
 ---
-title: "10.8.32 Baking and Pastry Arts Management (Online)"
+title: "10.9.32 Baking and Pastry Arts Management (Online)"
 description: "Market > College Programs > Centennial College > Baking and Pastry Arts Management (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.8.32 Baking and Pastry Arts Management (Online)
+# 10.9.32 Baking and Pastry Arts Management (Online)
 
 ## Glossary
 

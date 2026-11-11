@@ -1,10 +1,10 @@
 ---
-title: "10.22.141 Pre-health Sciences Pathway to Advanced Diplomas and Degrees"
+title: "10.25.141 Pre-health Sciences Pathway to Advanced Diplomas and Degrees"
 description: "Market > College Programs > Georgian College > Pre-health Sciences Pathway to Advanced Diplomas and Degrees: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.141 Pre-health Sciences Pathway to Advanced Diplomas and Degrees
+# 10.25.141 Pre-health Sciences Pathway to Advanced Diplomas and Degrees
 
 ## Glossary
 

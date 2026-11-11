@@ -1,10 +1,10 @@
 ---
-title: "10.44.118 Radio Television Journalism - Television Production and Live Streaming"
+title: "10.50.118 Radio Television Journalism - Television Production and Live Streaming"
 description: "Market > College Programs > Nova Scotia Community College > Radio Television Journalism - Television Production and Live Streaming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.118 Radio Television Journalism - Television Production and Live Streaming
+# 10.50.118 Radio Television Journalism - Television Production and Live Streaming
 
 ## Glossary
 

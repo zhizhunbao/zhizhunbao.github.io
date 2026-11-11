@@ -1,10 +1,10 @@
 ---
-title: "10.52.49 Mental Health and Substance Use - Certificate"
+title: "10.58.49 Mental Health and Substance Use - Certificate"
 description: "Market > College Programs > Selkirk College > Mental Health and Substance Use - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.49 Mental Health and Substance Use - Certificate
+# 10.58.49 Mental Health and Substance Use - Certificate
 
 ## Glossary
 

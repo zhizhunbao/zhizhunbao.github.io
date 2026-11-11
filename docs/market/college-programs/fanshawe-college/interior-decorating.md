@@ -1,10 +1,10 @@
 ---
-title: "10.19.111 Interior Decorating"
+title: "10.22.111 Interior Decorating"
 description: "Market > College Programs > Fanshawe College > Interior Decorating: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.111 Interior Decorating
+# 10.22.111 Interior Decorating
 
 ## Glossary
 

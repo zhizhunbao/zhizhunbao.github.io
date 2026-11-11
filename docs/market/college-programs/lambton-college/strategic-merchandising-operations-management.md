@@ -1,10 +1,10 @@
 ---
-title: "10.28.128 Strategic Merchandising Operations Management"
+title: "10.32.128 Strategic Merchandising Operations Management"
 description: "Market > College Programs > Lambton College > Strategic Merchandising Operations Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.128 Strategic Merchandising Operations Management
+# 10.32.128 Strategic Merchandising Operations Management
 
 ## Glossary
 

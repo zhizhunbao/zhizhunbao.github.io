@@ -1,10 +1,10 @@
 ---
-title: "10.18.118 Sport Management (three-year)"
+title: "10.21.118 Sport Management (three-year)"
 description: "Market > College Programs > Durham College > Sport Management (three-year): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.118 Sport Management (three-year)
+# 10.21.118 Sport Management (three-year)
 
 ## Glossary
 

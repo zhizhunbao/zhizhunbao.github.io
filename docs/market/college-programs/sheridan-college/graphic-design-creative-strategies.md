@@ -1,10 +1,10 @@
 ---
-title: "10.54.48 Graphic Design – Creative Strategies"
+title: "10.60.48 Graphic Design – Creative Strategies"
 description: "Market > College Programs > Sheridan College > Graphic Design – Creative Strategies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.48 Graphic Design – Creative Strategies
+# 10.60.48 Graphic Design – Creative Strategies
 
 ## Glossary
 

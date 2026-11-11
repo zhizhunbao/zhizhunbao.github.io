@@ -1,10 +1,10 @@
 ---
-title: "10.56.16 Cardiovascular Technology"
+title: "10.63.16 Cardiovascular Technology"
 description: "Market > College Programs > St. Clair College > Cardiovascular Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.16 Cardiovascular Technology
+# 10.63.16 Cardiovascular Technology
 
 ## Glossary
 

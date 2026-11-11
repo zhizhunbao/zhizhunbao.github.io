@@ -1,10 +1,10 @@
 ---
-title: "10.21.5 Behavioural Science Technician (C156)"
+title: "10.24.5 Behavioural Science Technician (C156)"
 description: "Market > College Programs > George Brown Polytechnic > Behavioural Science Technician (C156): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.5 Behavioural Science Technician (C156)
+# 10.24.5 Behavioural Science Technician (C156)
 
 ## Glossary
 

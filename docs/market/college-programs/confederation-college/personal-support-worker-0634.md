@@ -1,10 +1,10 @@
 ---
-title: "10.16.64 Personal Support Worker (0634)"
+title: "10.19.64 Personal Support Worker (0634)"
 description: "Market > College Programs > Confederation College > Personal Support Worker (0634): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.64 Personal Support Worker (0634)
+# 10.19.64 Personal Support Worker (0634)
 
 ## Glossary
 

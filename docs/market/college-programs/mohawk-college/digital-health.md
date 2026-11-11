@@ -1,10 +1,10 @@
 ---
-title: "10.34.43 Digital Health"
+title: "10.39.43 Digital Health"
 description: "Market > College Programs > Mohawk College > Digital Health: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.43 Digital Health
+# 10.39.43 Digital Health
 
 ## Glossary
 

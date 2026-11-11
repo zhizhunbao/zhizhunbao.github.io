@@ -1,10 +1,10 @@
 ---
-title: "10.50.23 Digital Marketing"
+title: "10.56.23 Digital Marketing"
 description: "Market > College Programs > Saskatchewan Polytechnic > Digital Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.23 Digital Marketing
+# 10.56.23 Digital Marketing
 
 ## Glossary
 

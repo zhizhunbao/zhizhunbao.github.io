@@ -1,10 +1,10 @@
 ---
-title: "10.41.3 Business Administration"
+title: "10.47.3 Business Administration"
 description: "Market > College Programs > Northern Lakes College > Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.3 Business Administration
+# 10.47.3 Business Administration
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.17.82 Therapeutic Recreation"
+title: "10.20.82 Therapeutic Recreation"
 description: "Market > College Programs > Douglas College > Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.82 Therapeutic Recreation
+# 10.20.82 Therapeutic Recreation
 
 ## Glossary
 

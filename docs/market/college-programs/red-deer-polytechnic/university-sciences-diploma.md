@@ -1,10 +1,10 @@
 ---
-title: "10.48.37 University Sciences Diploma"
+title: "10.54.37 University Sciences Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > University Sciences Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.37 University Sciences Diploma
+# 10.54.37 University Sciences Diploma
 
 ## Glossary
 

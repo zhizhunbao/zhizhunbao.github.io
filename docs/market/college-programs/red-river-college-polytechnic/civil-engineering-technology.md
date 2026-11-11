@@ -1,10 +1,10 @@
 ---
-title: "10.49.13 Civil Engineering Technology"
+title: "10.55.13 Civil Engineering Technology"
 description: "Market > College Programs > Red River College Polytechnic > Civil Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.13 Civil Engineering Technology
+# 10.55.13 Civil Engineering Technology
 
 ## Glossary
 

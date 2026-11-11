@@ -1,10 +1,10 @@
 ---
-title: "10.44.10 Architectural Engineering Technician"
+title: "10.50.10 Architectural Engineering Technician"
 description: "Market > College Programs > Nova Scotia Community College > Architectural Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.10 Architectural Engineering Technician
+# 10.50.10 Architectural Engineering Technician
 
 ## Glossary
 

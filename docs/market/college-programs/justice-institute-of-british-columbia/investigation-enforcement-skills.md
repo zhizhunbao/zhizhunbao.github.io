@@ -1,10 +1,10 @@
 ---
-title: "10.25.19 Investigation & Enforcement Skills"
+title: "10.29.19 Investigation & Enforcement Skills"
 description: "Market > College Programs > Justice Institute of British Columbia > Investigation & Enforcement Skills: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.19 Investigation & Enforcement Skills
+# 10.29.19 Investigation & Enforcement Skills
 
 ## Glossary
 

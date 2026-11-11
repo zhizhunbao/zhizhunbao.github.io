@@ -1,10 +1,10 @@
 ---
-title: "10.53.69 Financial Technology"
+title: "10.59.69 Financial Technology"
 description: "Market > College Programs > Seneca Polytechnic > Financial Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.69 Financial Technology
+# 10.59.69 Financial Technology
 
 ## Glossary
 

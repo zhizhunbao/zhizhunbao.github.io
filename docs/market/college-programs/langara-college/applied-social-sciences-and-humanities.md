@@ -1,10 +1,10 @@
 ---
-title: "10.29.8 Applied Social Sciences and Humanities"
+title: "10.33.8 Applied Social Sciences and Humanities"
 description: "Market > College Programs > Langara College > Applied Social Sciences and Humanities: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.8 Applied Social Sciences and Humanities
+# 10.33.8 Applied Social Sciences and Humanities
 
 ## Glossary
 

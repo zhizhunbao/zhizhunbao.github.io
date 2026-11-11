@@ -1,10 +1,10 @@
 ---
-title: "10.13.16 Carpenter"
+title: "10.16.16 Carpenter"
 description: "Market > College Programs > College of the North Atlantic > Carpenter: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.16 Carpenter
+# 10.16.16 Carpenter
 
 ## Glossary
 

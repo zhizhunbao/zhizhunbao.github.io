@@ -1,10 +1,10 @@
 ---
-title: "10.53.1 3D Animation"
+title: "10.59.1 3D Animation"
 description: "Market > College Programs > Seneca Polytechnic > 3D Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.1 3D Animation
+# 10.59.1 3D Animation
 
 ## Glossary
 

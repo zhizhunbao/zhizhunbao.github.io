@@ -1,10 +1,10 @@
 ---
-title: "10.16.27 Dental Hygiene"
+title: "10.19.27 Dental Hygiene"
 description: "Market > College Programs > Confederation College > Dental Hygiene: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.27 Dental Hygiene
+# 10.19.27 Dental Hygiene
 
 ## Glossary
 

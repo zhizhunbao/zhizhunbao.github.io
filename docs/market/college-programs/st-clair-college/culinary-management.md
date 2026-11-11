@@ -1,10 +1,10 @@
 ---
-title: "10.56.28 Culinary Management"
+title: "10.63.28 Culinary Management"
 description: "Market > College Programs > St. Clair College > Culinary Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.28 Culinary Management
+# 10.63.28 Culinary Management
 
 ## Glossary
 

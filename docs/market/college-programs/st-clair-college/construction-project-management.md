@@ -1,10 +1,10 @@
 ---
-title: "10.56.27 Construction Project Management"
+title: "10.63.27 Construction Project Management"
 description: "Market > College Programs > St. Clair College > Construction Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.27 Construction Project Management
+# 10.63.27 Construction Project Management
 
 ## Glossary
 

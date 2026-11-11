@@ -1,10 +1,10 @@
 ---
-title: "10.53.110 Interactive Media Design"
+title: "10.59.110 Interactive Media Design"
 description: "Market > College Programs > Seneca Polytechnic > Interactive Media Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.110 Interactive Media Design
+# 10.59.110 Interactive Media Design
 
 ## Glossary
 

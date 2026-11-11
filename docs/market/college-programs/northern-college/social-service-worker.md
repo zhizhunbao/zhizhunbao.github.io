@@ -1,10 +1,10 @@
 ---
-title: "10.40.49 Social Service Worker"
+title: "10.46.49 Social Service Worker"
 description: "Market > College Programs > Northern College > Social Service Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.49 Social Service Worker
+# 10.46.49 Social Service Worker
 
 ## Glossary
 

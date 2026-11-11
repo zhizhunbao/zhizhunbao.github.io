@@ -1,10 +1,10 @@
 ---
-title: "10.45.4 Applied Bachelor of Arts: Community Research and Evaluation"
+title: "10.51.4 Applied Bachelor of Arts: Community Research and Evaluation"
 description: "Market > College Programs > Okanagan College > Applied Bachelor of Arts: Community Research and Evaluation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.4 Applied Bachelor of Arts: Community Research and Evaluation
+# 10.51.4 Applied Bachelor of Arts: Community Research and Evaluation
 
 ## Glossary
 

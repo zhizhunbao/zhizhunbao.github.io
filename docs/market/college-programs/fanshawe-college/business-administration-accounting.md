@@ -1,10 +1,10 @@
 ---
-title: "10.19.37 Business Administration - Accounting"
+title: "10.22.37 Business Administration - Accounting"
 description: "Market > College Programs > Fanshawe College > Business Administration - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.37 Business Administration - Accounting
+# 10.22.37 Business Administration - Accounting
 
 ## Glossary
 
