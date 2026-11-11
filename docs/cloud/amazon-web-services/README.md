@@ -1,6 +1,6 @@
 # Amazon Web Services: allowed pages
 
-Source: the AWS Documentation home page (https://docs.aws.amazon.com/), section "Product guides & references", and below it each product's own conceptual guide. The home page is cached as `design-refs/official-docs/cache/html/aws.html` (2026-10-25); its category lists sit in the page's embedded data, decoded to `cache/aws-docs-home-data.xml`. The guides' tables of contents are cached as `cache/aws-iam-toc.json`, `cache/aws-awscloudformation-toc.json` and `cache/aws-directoryservice-toc.json` (2026-11-06), so nothing here copies them.
+Source: the AWS Documentation home page (https://docs.aws.amazon.com/), section "Product guides & references", and below it each product's own conceptual guide. The home page is cached as `references/official-docs/cache/html/aws.html` (2026-10-25); its category lists sit in the page's embedded data, decoded to `cache/aws-docs-home-data.xml`. The guides' tables of contents are cached as `cache/aws-iam-toc.json`, `cache/aws-awscloudformation-toc.json` and `cache/aws-directoryservice-toc.json` (2026-11-06), so nothing here copies them.
 
 Status (2026-11-06): skeleton. Pages, menu and Glossary rows (names, Chinese names, numbers, sources) for the terms first met on 2026-11-06 (AWS CloudFormation, IAM roles and how IAM works, AWS Directory Service); definitions pending, no figures and no Classification sections until the skeleton is confirmed.
 

@@ -1,6 +1,6 @@
 # Kubernetes: allowed pages
 
-Source: Kubernetes Documentation, Concepts (https://kubernetes.io/docs/concepts/). Its full menu is in the cached page (`design-refs/official-docs/cache/html/kubernetes-docs-concepts.html`; the list with every page's URL is `design-refs/official-docs/kubernetes_concepts_menu.json`), so nothing here copies it. The rest of the documentation (Setup, Tasks, Tutorials, Reference) is not used.
+Source: Kubernetes Documentation, Concepts (https://kubernetes.io/docs/concepts/). Its full menu is in the cached page (`references/official-docs/cache/html/kubernetes-docs-concepts.html`; the list with every page's URL is `references/official-docs/kubernetes_concepts_menu.json`), so nothing here copies it. The rest of the documentation (Setup, Tasks, Tutorials, Reference) is not used.
 
 The site lists the official menu as it stands, names, order and nesting unchanged, with the parts that hold no terms removed (the ROS 2 layout), drawn and numbered as README, "Levels, numbers and figures of a source" sets out. The 14 groups are folders; a page with pages under it in the menu (Objects In Kubernetes, Pods, Workload Management and others) is a folder too.
 

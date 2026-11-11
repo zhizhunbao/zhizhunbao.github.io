@@ -1,6 +1,6 @@
 # SQL Server: allowed pages
 
-Source: the SQL Server documentation (https://learn.microsoft.com/en-us/sql/sql-server/). Its full table of contents is cached in `design-refs/official-docs/cache/sql-toc.json`, so nothing here copies it.
+Source: the SQL Server documentation (https://learn.microsoft.com/en-us/sql/sql-server/). Its full table of contents is cached in `references/official-docs/cache/sql-toc.json`, so nothing here copies it.
 
 The official table of contents mixes concepts with release notes, how-to steps, tutorials, reference lists and links. Only the parts that hold terms get pages, grouped by concept in the order below. Every planned group has a page from the start (the plan is part of the site); a page without terms yet says "Not written yet" and names the official parts its terms will come from.
 
