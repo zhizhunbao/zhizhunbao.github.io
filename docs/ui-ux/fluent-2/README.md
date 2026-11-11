@@ -1,6 +1,6 @@
 # Fluent 2: allowed pages and term checklist
 
-Not published (`docfx.json` excludes `**/README.md`). Source: Fluent 2 Design System (https://fluent2.microsoft.design/, Microsoft), its left navigation as the site embeds it (cached 2026-11-06: 92 pages in `design-refs/official-docs/cache/html/fluent2-*.html`, list `urls_kb_fluent2.txt`).
+Not published (`docfx.json` excludes `**/README.md`). Source: Fluent 2 Design System (https://fluent2.microsoft.design/, Microsoft), its left navigation as the site embeds it (cached 2026-11-06: 92 pages in `references/official-docs/cache/html/fluent2-*.html`, list `urls_kb_fluent2.txt`).
 
 Status (2026-11-06): skeleton. Groups and pages follow the navigation, in its order and words (title case in titles; the four Components groups are named by their library). Each page has a row for its own subject and a row per titled item (`card-title`) the page defines with a sentence; the other terms of a page (section names that are terms, such as the material types or the token kinds, and words its text names) are added one page at a time when the page is read, following the README rule for a new documentation set. Chinese names were drafted with a local model and are checked as definitions are written.
 

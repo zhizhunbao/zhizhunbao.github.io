@@ -14,7 +14,8 @@ ms.date: 2026-11-02
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **WAI-ARIA**<br>无障碍富互联网应用 | "This specification provides an **ontology of roles, states, and properties** that **define accessible user interface elements** and can be used to improve the accessibility and interoperability of web content and applications." | 本规范提供一套**角色、状态和属性的本体**，它们**定义无障碍的用户界面元素**，并可用于提升网络内容和应用的无障碍性与互操作性。 | [World Wide Web Consortium, 2023, Abstract](https://www.w3.org/TR/wai-aria-1.2/) |
+| **Accessible Rich Internet Applications (WAI-ARIA)**<br>无障碍富互联网应用 | "This specification provides an **ontology of roles, states, and properties** that **define accessible user interface elements** and can be used to improve the accessibility and interoperability of web content and applications." | 本规范提供一套**角色、状态和属性的本体**，它们**定义无障碍的用户界面元素**，并可用于提升网络内容和应用的无障碍性与互操作性。 | [World Wide Web Consortium, 2023, Abstract](https://www.w3.org/TR/wai-aria-1.2/) |
+| **Web Accessibility Initiative (WAI)**<br>网络无障碍倡议 | "WAI develops **strategies, standards, and resources** to **make the web accessible**" | WAI 制定**策略、标准和资源**，以**让网络变得无障碍**。 | [W3C Web Accessibility Initiative, n.d., "W3C WAI"](https://www.w3.org/WAI/about/#:~:text=WAI%20develops%20strategies) |
 | **[1. Introduction](introduction/index.md)**<br>引言 | "WAI-ARIA is a **technical specification** that provides a **framework to improve the accessibility and interoperability** of web content and applications." | WAI-ARIA 是一份**技术规范**，它提供一个**提升无障碍性和互操作性的框架**，面向网络内容和应用。 | [World Wide Web Consortium, 2023, section 1](https://www.w3.org/TR/wai-aria-1.2/) |
 | **[2. Important Terms](important-terms.md)**<br>重要术语 | (context) "While some terms are defined in place, the following **definitions** are **used throughout this document**." | （语境）虽然有些术语就地定义，但下列**定义**，**在整份文档中通用**。 | [World Wide Web Consortium, 2023, section 2](https://www.w3.org/TR/wai-aria-1.2/) |
 | **[3. Conformance](conformance/index.md)**<br>一致性 | (context) "The main content of Accessible Rich Internet Applications is **normative** and defines **requirements that impact conformance claims**." | （语境）Accessible Rich Internet Applications 的主要内容是**规范性的**，并规定**影响一致性声明的要求**。 | [World Wide Web Consortium, 2023, section 3](https://www.w3.org/TR/wai-aria-1.2/) |
@@ -28,5 +29,7 @@ ms.date: 2026-11-02
 | **[11. Privacy and Security Considerations](privacy-and-security-considerations.md)**<br>隐私与安全考虑 | (context) "This specification introduces **no new security considerations**." | （语境）本规范**没有引入新的安全考虑**。 | [World Wide Web Consortium, 2023, section 11](https://www.w3.org/TR/wai-aria-1.2/) |
 
 ## References
+
+W3C Web Accessibility Initiative. (n.d.). *About W3C WAI*. Retrieved November 9, 2026, from <https://www.w3.org/WAI/about/>
 
 World Wide Web Consortium. (2023, June 6). *Accessible Rich Internet Applications (WAI-ARIA) 1.2* (W3C Recommendation). <https://www.w3.org/TR/wai-aria-1.2/>

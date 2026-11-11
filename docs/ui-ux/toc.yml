@@ -13,6 +13,10 @@ items:
     href: wai-aria/toc.yml
   - name: WCAG 2.2
     href: wcag-2-2/toc.yml
+- name: Email clients
+  items:
+  - name: Outlook
+    href: outlook/toc.yml
 - name: UI
   items:
   - name: Apple Human Interface Guidelines
