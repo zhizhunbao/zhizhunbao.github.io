@@ -43,6 +43,10 @@ items:
     href: ollama/index.md
   - name: OpenAI
     href: openai/index.md
+- name: Model Evaluation
+  items:
+  - name: LLM Evaluation
+    href: llm-evaluation/toc.yml
 - name: Robotics
   items:
   - name: MuJoCo
