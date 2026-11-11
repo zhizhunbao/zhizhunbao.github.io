@@ -1,10 +1,10 @@
 ---
-title: "11.47 Université du Québec à Chicoutimi"
+title: "11.71 Université du Québec à Chicoutimi"
 description: "Market > University Programs > Université du Québec à Chicoutimi: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.47 Université du Québec à Chicoutimi
+# 11.71 Université du Québec à Chicoutimi
 
 ## Glossary
 

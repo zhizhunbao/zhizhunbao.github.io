@@ -1,10 +1,10 @@
 ---
-title: "11.31 Queen’s University"
+title: "11.5 Queen’s University"
 description: "Market > University Programs > Queen’s University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.31 Queen’s University
+# 11.5 Queen’s University
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "11.10 Capilano University"
+title: "11.60 Capilano University"
 description: "Market > University Programs > Capilano University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.10 Capilano University
+# 11.60 Capilano University
 
 ## Glossary
 

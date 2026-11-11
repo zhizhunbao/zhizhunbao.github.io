@@ -1,10 +1,10 @@
 ---
-title: "11.66 University of Ottawa"
+title: "11.8 University of Ottawa"
 description: "Market > University Programs > University of Ottawa: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.66 University of Ottawa
+# 11.8 University of Ottawa
 
 ## Glossary
 

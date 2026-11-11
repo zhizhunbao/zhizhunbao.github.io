@@ -1,10 +1,10 @@
 ---
-title: "11.48 Université du Québec à Montréal"
+title: "11.25 Université du Québec à Montréal"
 description: "Market > University Programs > Université du Québec à Montréal: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.48 Université du Québec à Montréal
+# 11.25 Université du Québec à Montréal
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "11.75 University of Winnipeg"
+title: "11.47 University of Winnipeg"
 description: "Market > University Programs > University of Winnipeg: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.75 University of Winnipeg
+# 11.47 University of Winnipeg
 
 ## Glossary
 

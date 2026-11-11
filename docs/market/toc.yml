@@ -9721,164 +9721,164 @@ items:
 - name: "11. University Programs"
   href: university-programs/index.md
   items:
-  - name: "11.1 Acadia University"
-    href: university-programs/acadia-university/index.md
-  - name: "11.2 Alberta University of the Arts"
-    href: university-programs/alberta-university-of-the-arts/index.md
-  - name: "11.3 Algoma University"
-    href: university-programs/algoma-university/index.md
-  - name: "11.4 Athabasca University"
-    href: university-programs/athabasca-university/index.md
-  - name: "11.5 Bishop's University"
-    href: university-programs/bishop-s-university/index.md
-  - name: "11.6 Brandon University"
-    href: university-programs/brandon-university/index.md
-  - name: "11.7 Brock University"
-    href: university-programs/brock-university/index.md
-  - name: "11.8 Burman University"
-    href: university-programs/burman-university/index.md
-  - name: "11.9 Cape Breton University"
-    href: university-programs/cape-breton-university/index.md
-  - name: "11.10 Capilano University"
-    href: university-programs/capilano-university/index.md
-  - name: "11.11 Carleton University"
-    href: university-programs/carleton-university/index.md
-  - name: "11.12 Concordia University"
-    href: university-programs/concordia-university/index.md
-  - name: "11.13 Concordia University of Edmonton"
-    href: university-programs/concordia-university-of-edmonton/index.md
-  - name: "11.14 Dalhousie University"
-    href: university-programs/dalhousie-university/index.md
-  - name: "11.15 Emily Carr University of Art + Design"
-    href: university-programs/emily-carr-university-of-art-design/index.md
-  - name: "11.16 The King's University"
-    href: university-programs/the-king-s-university/index.md
-  - name: "11.17 Kwantlen Polytechnic University"
-    href: university-programs/kwantlen-polytechnic-university/index.md
-  - name: "11.18 Lakehead University"
-    href: university-programs/lakehead-university/index.md
-  - name: "11.19 Laurentian University"
-    href: university-programs/laurentian-university/index.md
-  - name: "11.20 MacEwan University"
-    href: university-programs/macewan-university/index.md
-  - name: "11.21 McGill University"
+  - name: "11.1 McGill University"
     href: university-programs/mcgill-university/index.md
-  - name: "11.22 McMaster University"
+  - name: "11.2 University of Toronto"
+    href: university-programs/university-of-toronto/index.md
+  - name: "11.3 The University of British Columbia"
+    href: university-programs/the-university-of-british-columbia/index.md
+  - name: "11.4 University of Waterloo"
+    href: university-programs/university-of-waterloo/index.md
+  - name: "11.5 Queen’s University"
+    href: university-programs/queens-university/index.md
+  - name: "11.6 University of Alberta"
+    href: university-programs/university-of-alberta/index.md
+  - name: "11.7 McMaster University"
     href: university-programs/mcmaster-university/index.md
-  - name: "11.23 Memorial University of Newfoundland"
+  - name: "11.8 University of Ottawa"
+    href: university-programs/university-of-ottawa/index.md
+  - name: "11.9 University of Calgary"
+    href: university-programs/university-of-calgary/index.md
+  - name: "11.10 Western University"
+    href: university-programs/western-university/index.md
+  - name: "11.11 Université Laval"
+    href: university-programs/universite-laval/index.md
+  - name: "11.12 Université de Montréal"
+    href: university-programs/universite-de-montreal/index.md
+  - name: "11.13 York University"
+    href: university-programs/york-university/index.md
+  - name: "11.14 Toronto Metropolitan University"
+    href: university-programs/toronto-metropolitan-university/index.md
+  - name: "11.15 Concordia University"
+    href: university-programs/concordia-university/index.md
+  - name: "11.16 Simon Fraser University"
+    href: university-programs/simon-fraser-university/index.md
+  - name: "11.17 University of Victoria"
+    href: university-programs/university-of-victoria/index.md
+  - name: "11.18 Dalhousie University"
+    href: university-programs/dalhousie-university/index.md
+  - name: "11.19 Carleton University"
+    href: university-programs/carleton-university/index.md
+  - name: "11.20 University of Guelph"
+    href: university-programs/university-of-guelph/index.md
+  - name: "11.21 University of Saskatchewan"
+    href: university-programs/university-of-saskatchewan/index.md
+  - name: "11.22 University of Manitoba"
+    href: university-programs/university-of-manitoba/index.md
+  - name: "11.23 Université de Sherbrooke"
+    href: university-programs/universite-de-sherbrooke/index.md
+  - name: "11.24 Wilfrid Laurier University"
+    href: university-programs/wilfrid-laurier-university/index.md
+  - name: "11.25 Université du Québec à Montréal"
+    href: university-programs/universite-du-quebec-a-montreal/index.md
+  - name: "11.26 Brock University"
+    href: university-programs/brock-university/index.md
+  - name: "11.27 Memorial University of Newfoundland"
     href: university-programs/memorial-university-of-newfoundland/index.md
-  - name: "11.24 Mount Allison University"
-    href: university-programs/mount-allison-university/index.md
-  - name: "11.25 Mount Royal University"
-    href: university-programs/mount-royal-university/index.md
-  - name: "11.26 Mount Saint Vincent University"
-    href: university-programs/mount-saint-vincent-university/index.md
-  - name: "11.27 Nipissing University"
-    href: university-programs/nipissing-university/index.md
-  - name: "11.28 NSCAD University"
-    href: university-programs/nscad-university/index.md
-  - name: "11.29 OCAD University"
-    href: university-programs/ocad-university/index.md
+  - name: "11.28 Trent University"
+    href: university-programs/trent-university/index.md
+  - name: "11.29 University of Windsor"
+    href: university-programs/university-of-windsor/index.md
   - name: "11.30 Ontario Tech University"
     href: university-programs/ontario-tech-university/index.md
-  - name: "11.31 Queen’s University"
-    href: university-programs/queens-university/index.md
-  - name: "11.32 Royal Roads University"
-    href: university-programs/royal-roads-university/index.md
-  - name: "11.33 Saint Mary's University"
-    href: university-programs/saint-mary-s-university/index.md
-  - name: "11.34 Simon Fraser University"
-    href: university-programs/simon-fraser-university/index.md
-  - name: "11.35 St Thomas University"
-    href: university-programs/st-thomas-university/index.md
-  - name: "11.36 St. Francis Xavier University"
-    href: university-programs/st-francis-xavier-university/index.md
-  - name: "11.37 St. Mary's University"
-    href: university-programs/st-mary-s-university/index.md
-  - name: "11.38 Thompson Rivers University"
-    href: university-programs/thompson-rivers-university/index.md
-  - name: "11.39 Toronto Metropolitan University"
-    href: university-programs/toronto-metropolitan-university/index.md
-  - name: "11.40 Trent University"
-    href: university-programs/trent-university/index.md
-  - name: "11.41 Université de Hearst"
-    href: university-programs/universite-de-hearst/index.md
-  - name: "11.42 Université de l'Ontario français"
-    href: university-programs/universite-de-l-ontario-francais/index.md
-  - name: "11.43 Université de Moncton"
-    href: university-programs/universite-de-moncton/index.md
-  - name: "11.44 Université de Montréal"
-    href: university-programs/universite-de-montreal/index.md
-  - name: "11.45 Université de Saint-Boniface"
-    href: university-programs/universite-de-saint-boniface/index.md
-  - name: "11.46 Université de Sherbrooke"
-    href: university-programs/universite-de-sherbrooke/index.md
-  - name: "11.47 Université du Québec à Chicoutimi"
-    href: university-programs/universite-du-quebec-a-chicoutimi/index.md
-  - name: "11.48 Université du Québec à Montréal"
-    href: university-programs/universite-du-quebec-a-montreal/index.md
-  - name: "11.49 Université du Québec à Rimouski"
-    href: university-programs/universite-du-quebec-a-rimouski/index.md
-  - name: "11.50 Université du Québec à Trois-Rivières"
-    href: university-programs/universite-du-quebec-a-trois-rivieres/index.md
-  - name: "11.51 Université du Québec en Abitibi-Témiscamingue"
-    href: university-programs/universite-du-quebec-en-abitibi-temiscamingue/index.md
-  - name: "11.52 Université du Québec en Outaouais"
-    href: university-programs/universite-du-quebec-en-outaouais/index.md
-  - name: "11.53 Université Laval"
-    href: university-programs/universite-laval/index.md
-  - name: "11.54 Université Sainte-Anne"
-    href: university-programs/universite-sainte-anne/index.md
-  - name: "11.55 Université TÉLUQ"
-    href: university-programs/universite-teluq/index.md
-  - name: "11.56 University College of the North"
-    href: university-programs/university-college-of-the-north/index.md
-  - name: "11.57 University of Alberta"
-    href: university-programs/university-of-alberta/index.md
-  - name: "11.58 The University of British Columbia"
-    href: university-programs/the-university-of-british-columbia/index.md
-  - name: "11.59 University of Calgary"
-    href: university-programs/university-of-calgary/index.md
-  - name: "11.60 University of Guelph"
-    href: university-programs/university-of-guelph/index.md
-  - name: "11.61 University of King's College"
-    href: university-programs/university-of-king-s-college/index.md
-  - name: "11.62 University of Lethbridge"
-    href: university-programs/university-of-lethbridge/index.md
-  - name: "11.63 University of Manitoba"
-    href: university-programs/university-of-manitoba/index.md
-  - name: "11.64 University of New Brunswick"
-    href: university-programs/university-of-new-brunswick/index.md
-  - name: "11.65 University of Northern British Columbia"
-    href: university-programs/university-of-northern-british-columbia/index.md
-  - name: "11.66 University of Ottawa"
-    href: university-programs/university-of-ottawa/index.md
-  - name: "11.67 University of Prince Edward Island"
-    href: university-programs/university-of-prince-edward-island/index.md
-  - name: "11.68 University of Regina"
+  - name: "11.31 University of Regina"
     href: university-programs/university-of-regina/index.md
-  - name: "11.69 University of Saskatchewan"
-    href: university-programs/university-of-saskatchewan/index.md
-  - name: "11.70 University of the Fraser Valley"
-    href: university-programs/university-of-the-fraser-valley/index.md
-  - name: "11.71 University of Toronto"
-    href: university-programs/university-of-toronto/index.md
-  - name: "11.72 University of Victoria"
-    href: university-programs/university-of-victoria/index.md
-  - name: "11.73 University of Waterloo"
-    href: university-programs/university-of-waterloo/index.md
-  - name: "11.74 University of Windsor"
-    href: university-programs/university-of-windsor/index.md
-  - name: "11.75 University of Winnipeg"
+  - name: "11.32 Thompson Rivers University"
+    href: university-programs/thompson-rivers-university/index.md
+  - name: "11.33 Mount Royal University"
+    href: university-programs/mount-royal-university/index.md
+  - name: "11.34 MacEwan University"
+    href: university-programs/macewan-university/index.md
+  - name: "11.35 Mount Allison University"
+    href: university-programs/mount-allison-university/index.md
+  - name: "11.36 University of Northern British Columbia"
+    href: university-programs/university-of-northern-british-columbia/index.md
+  - name: "11.37 St. Francis Xavier University"
+    href: university-programs/st-francis-xavier-university/index.md
+  - name: "11.38 Acadia University"
+    href: university-programs/acadia-university/index.md
+  - name: "11.39 University of New Brunswick"
+    href: university-programs/university-of-new-brunswick/index.md
+  - name: "11.40 Bishop's University"
+    href: university-programs/bishop-s-university/index.md
+  - name: "11.41 Saint Mary's University"
+    href: university-programs/saint-mary-s-university/index.md
+  - name: "11.42 Lakehead University"
+    href: university-programs/lakehead-university/index.md
+  - name: "11.43 University of Lethbridge"
+    href: university-programs/university-of-lethbridge/index.md
+  - name: "11.44 University of Prince Edward Island"
+    href: university-programs/university-of-prince-edward-island/index.md
+  - name: "11.45 St Thomas University"
+    href: university-programs/st-thomas-university/index.md
+  - name: "11.46 Université de Moncton"
+    href: university-programs/universite-de-moncton/index.md
+  - name: "11.47 University of Winnipeg"
     href: university-programs/university-of-winnipeg/index.md
-  - name: "11.76 Vancouver Island University"
+  - name: "11.48 Laurentian University"
+    href: university-programs/laurentian-university/index.md
+  - name: "11.49 Nipissing University"
+    href: university-programs/nipissing-university/index.md
+  - name: "11.50 Brandon University"
+    href: university-programs/brandon-university/index.md
+  - name: "11.51 Mount Saint Vincent University"
+    href: university-programs/mount-saint-vincent-university/index.md
+  - name: "11.52 University of the Fraser Valley"
+    href: university-programs/university-of-the-fraser-valley/index.md
+  - name: "11.53 Cape Breton University"
+    href: university-programs/cape-breton-university/index.md
+  - name: "11.54 Algoma University"
+    href: university-programs/algoma-university/index.md
+  - name: "11.55 Concordia University of Edmonton"
+    href: university-programs/concordia-university-of-edmonton/index.md
+  - name: "11.56 Vancouver Island University"
     href: university-programs/vancouver-island-university/index.md
-  - name: "11.77 Western University"
-    href: university-programs/western-university/index.md
-  - name: "11.78 Wilfrid Laurier University"
-    href: university-programs/wilfrid-laurier-university/index.md
-  - name: "11.79 York University"
-    href: university-programs/york-university/index.md
+  - name: "11.57 Alberta University of the Arts"
+    href: university-programs/alberta-university-of-the-arts/index.md
+  - name: "11.58 Athabasca University"
+    href: university-programs/athabasca-university/index.md
+  - name: "11.59 Burman University"
+    href: university-programs/burman-university/index.md
+  - name: "11.60 Capilano University"
+    href: university-programs/capilano-university/index.md
+  - name: "11.61 Emily Carr University of Art + Design"
+    href: university-programs/emily-carr-university-of-art-design/index.md
+  - name: "11.62 The King's University"
+    href: university-programs/the-king-s-university/index.md
+  - name: "11.63 Kwantlen Polytechnic University"
+    href: university-programs/kwantlen-polytechnic-university/index.md
+  - name: "11.64 NSCAD University"
+    href: university-programs/nscad-university/index.md
+  - name: "11.65 OCAD University"
+    href: university-programs/ocad-university/index.md
+  - name: "11.66 Royal Roads University"
+    href: university-programs/royal-roads-university/index.md
+  - name: "11.67 St. Mary's University"
+    href: university-programs/st-mary-s-university/index.md
+  - name: "11.68 Université de Hearst"
+    href: university-programs/universite-de-hearst/index.md
+  - name: "11.69 Université de l'Ontario français"
+    href: university-programs/universite-de-l-ontario-francais/index.md
+  - name: "11.70 Université de Saint-Boniface"
+    href: university-programs/universite-de-saint-boniface/index.md
+  - name: "11.71 Université du Québec à Chicoutimi"
+    href: university-programs/universite-du-quebec-a-chicoutimi/index.md
+  - name: "11.72 Université du Québec à Rimouski"
+    href: university-programs/universite-du-quebec-a-rimouski/index.md
+  - name: "11.73 Université du Québec à Trois-Rivières"
+    href: university-programs/universite-du-quebec-a-trois-rivieres/index.md
+  - name: "11.74 Université du Québec en Abitibi-Témiscamingue"
+    href: university-programs/universite-du-quebec-en-abitibi-temiscamingue/index.md
+  - name: "11.75 Université du Québec en Outaouais"
+    href: university-programs/universite-du-quebec-en-outaouais/index.md
+  - name: "11.76 Université Sainte-Anne"
+    href: university-programs/universite-sainte-anne/index.md
+  - name: "11.77 Université TÉLUQ"
+    href: university-programs/universite-teluq/index.md
+  - name: "11.78 University College of the North"
+    href: university-programs/university-college-of-the-north/index.md
+  - name: "11.79 University of King's College"
+    href: university-programs/university-of-king-s-college/index.md
   - name: "11.80 Yukon University"
     href: university-programs/yukon-university/index.md
 - name: "12. News"

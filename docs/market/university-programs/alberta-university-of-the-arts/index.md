@@ -1,10 +1,10 @@
 ---
-title: "11.2 Alberta University of the Arts"
+title: "11.57 Alberta University of the Arts"
 description: "Market > University Programs > Alberta University of the Arts: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.2 Alberta University of the Arts
+# 11.57 Alberta University of the Arts
 
 ## Glossary
 

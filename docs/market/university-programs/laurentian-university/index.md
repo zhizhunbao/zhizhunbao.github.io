@@ -1,10 +1,10 @@
 ---
-title: "11.19 Laurentian University"
+title: "11.48 Laurentian University"
 description: "Market > University Programs > Laurentian University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.19 Laurentian University
+# 11.48 Laurentian University
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "11.50 Université du Québec à Trois-Rivières"
+title: "11.73 Université du Québec à Trois-Rivières"
 description: "Market > University Programs > Université du Québec à Trois-Rivières: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.50 Université du Québec à Trois-Rivières
+# 11.73 Université du Québec à Trois-Rivières
 
 ## Glossary
 

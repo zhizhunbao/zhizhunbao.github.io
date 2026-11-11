@@ -1,10 +1,10 @@
 ---
-title: "11.65 University of Northern British Columbia"
+title: "11.36 University of Northern British Columbia"
 description: "Market > University Programs > University of Northern British Columbia: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.65 University of Northern British Columbia
+# 11.36 University of Northern British Columbia
 
 ## Glossary
 

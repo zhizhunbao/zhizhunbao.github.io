@@ -1,10 +1,10 @@
 ---
-title: "11.20 MacEwan University"
+title: "11.34 MacEwan University"
 description: "Market > University Programs > MacEwan University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.20 MacEwan University
+# 11.34 MacEwan University
 
 ## Glossary
 

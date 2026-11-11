@@ -1,10 +1,10 @@
 ---
-title: "11.6 Brandon University"
+title: "11.50 Brandon University"
 description: "Market > University Programs > Brandon University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.6 Brandon University
+# 11.50 Brandon University
 
 ## Glossary
 

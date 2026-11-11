@@ -1,10 +1,10 @@
 ---
-title: "11.43 Université de Moncton"
+title: "11.46 Université de Moncton"
 description: "Market > University Programs > Université de Moncton: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.43 Université de Moncton
+# 11.46 Université de Moncton
 
 ## Glossary
 

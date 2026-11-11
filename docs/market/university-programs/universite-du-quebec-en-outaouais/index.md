@@ -1,10 +1,10 @@
 ---
-title: "11.52 Université du Québec en Outaouais"
+title: "11.75 Université du Québec en Outaouais"
 description: "Market > University Programs > Université du Québec en Outaouais: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.52 Université du Québec en Outaouais
+# 11.75 Université du Québec en Outaouais
 
 ## Glossary
 

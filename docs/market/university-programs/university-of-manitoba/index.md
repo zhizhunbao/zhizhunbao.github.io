@@ -1,10 +1,10 @@
 ---
-title: "11.63 University of Manitoba"
+title: "11.22 University of Manitoba"
 description: "Market > University Programs > University of Manitoba: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.63 University of Manitoba
+# 11.22 University of Manitoba
 
 ## Glossary
 

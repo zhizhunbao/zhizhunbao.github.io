@@ -1,10 +1,10 @@
 ---
-title: "11.23 Memorial University of Newfoundland"
+title: "11.27 Memorial University of Newfoundland"
 description: "Market > University Programs > Memorial University of Newfoundland: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.23 Memorial University of Newfoundland
+# 11.27 Memorial University of Newfoundland
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "11.68 University of Regina"
+title: "11.31 University of Regina"
 description: "Market > University Programs > University of Regina: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.68 University of Regina
+# 11.31 University of Regina
 
 ## Glossary
 

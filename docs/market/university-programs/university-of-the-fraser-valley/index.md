@@ -1,10 +1,10 @@
 ---
-title: "11.70 University of the Fraser Valley"
+title: "11.52 University of the Fraser Valley"
 description: "Market > University Programs > University of the Fraser Valley: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.70 University of the Fraser Valley
+# 11.52 University of the Fraser Valley
 
 ## Glossary
 

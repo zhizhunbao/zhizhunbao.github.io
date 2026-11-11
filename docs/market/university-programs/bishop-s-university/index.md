@@ -1,10 +1,10 @@
 ---
-title: "11.5 Bishop's University"
+title: "11.40 Bishop's University"
 description: "Market > University Programs > Bishop's University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.5 Bishop's University
+# 11.40 Bishop's University
 
 ## Glossary
 

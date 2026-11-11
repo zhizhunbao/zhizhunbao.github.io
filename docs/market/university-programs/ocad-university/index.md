@@ -1,10 +1,10 @@
 ---
-title: "11.29 OCAD University"
+title: "11.65 OCAD University"
 description: "Market > University Programs > OCAD University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.29 OCAD University
+# 11.65 OCAD University
 
 ## Glossary
 

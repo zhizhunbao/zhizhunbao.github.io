@@ -1,10 +1,10 @@
 ---
-title: "11.18 Lakehead University"
+title: "11.42 Lakehead University"
 description: "Market > University Programs > Lakehead University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.18 Lakehead University
+# 11.42 Lakehead University
 
 ## Glossary
 

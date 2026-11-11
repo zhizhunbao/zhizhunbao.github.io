@@ -1,10 +1,10 @@
 ---
-title: "11.57 University of Alberta"
+title: "11.6 University of Alberta"
 description: "Market > University Programs > University of Alberta: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.57 University of Alberta
+# 11.6 University of Alberta
 
 ## Glossary
 

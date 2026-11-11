@@ -1,10 +1,10 @@
 ---
-title: "11.76 Vancouver Island University"
+title: "11.56 Vancouver Island University"
 description: "Market > University Programs > Vancouver Island University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.76 Vancouver Island University
+# 11.56 Vancouver Island University
 
 ## Glossary
 

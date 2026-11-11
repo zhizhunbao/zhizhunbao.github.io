@@ -1,10 +1,10 @@
 ---
-title: "11.72 University of Victoria"
+title: "11.17 University of Victoria"
 description: "Market > University Programs > University of Victoria: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.72 University of Victoria
+# 11.17 University of Victoria
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "11.8 Burman University"
+title: "11.59 Burman University"
 description: "Market > University Programs > Burman University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.8 Burman University
+# 11.59 Burman University
 
 ## Glossary
 

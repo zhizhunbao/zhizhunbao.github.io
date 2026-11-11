@@ -1,10 +1,10 @@
 ---
-title: "11.25 Mount Royal University"
+title: "11.33 Mount Royal University"
 description: "Market > University Programs > Mount Royal University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.25 Mount Royal University
+# 11.33 Mount Royal University
 
 ## Glossary
 

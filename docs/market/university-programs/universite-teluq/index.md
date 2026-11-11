@@ -1,10 +1,10 @@
 ---
-title: "11.55 Université TÉLUQ"
+title: "11.77 Université TÉLUQ"
 description: "Market > University Programs > Université TÉLUQ: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.55 Université TÉLUQ
+# 11.77 Université TÉLUQ
 
 ## Glossary
 

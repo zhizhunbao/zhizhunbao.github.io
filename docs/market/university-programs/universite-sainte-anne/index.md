@@ -1,10 +1,10 @@
 ---
-title: "11.54 Université Sainte-Anne"
+title: "11.76 Université Sainte-Anne"
 description: "Market > University Programs > Université Sainte-Anne: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.54 Université Sainte-Anne
+# 11.76 Université Sainte-Anne
 
 ## Glossary
 

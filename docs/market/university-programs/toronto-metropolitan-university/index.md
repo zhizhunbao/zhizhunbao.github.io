@@ -1,10 +1,10 @@
 ---
-title: "11.39 Toronto Metropolitan University"
+title: "11.14 Toronto Metropolitan University"
 description: "Market > University Programs > Toronto Metropolitan University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.39 Toronto Metropolitan University
+# 11.14 Toronto Metropolitan University
 
 ## Glossary
 

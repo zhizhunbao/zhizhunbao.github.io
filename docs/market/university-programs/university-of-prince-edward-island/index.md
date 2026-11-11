@@ -1,10 +1,10 @@
 ---
-title: "11.67 University of Prince Edward Island"
+title: "11.44 University of Prince Edward Island"
 description: "Market > University Programs > University of Prince Edward Island: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.67 University of Prince Edward Island
+# 11.44 University of Prince Edward Island
 
 ## Glossary
 

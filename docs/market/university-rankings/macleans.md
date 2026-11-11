@@ -1,6 +1,6 @@
 ---
 title: "6.1 Maclean's"
-description: "Market > University Rankings > Maclean's: who publishes the Maclean's University Rankings of Canadian universities, and all 15 Large Universities of its latest edition."
+description: "Market > University Rankings > Maclean's: who publishes the Maclean's University Rankings of Canadian universities, and all 56 universities of its latest edition in its three categories: Large, Mid-Size and Small."
 ms.date: 2026-11-07
 ---
 
@@ -11,9 +11,11 @@ ms.date: 2026-11-07
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Maclean's**<br>麦克林 | "In 1991, Maclean’s launched its **inaugural University Rankings** and quickly became **the definitive voice on post-secondary education in Canada**." | 1991 年，Maclean's 推出了**首届大学排名**，并很快成为**加拿大高等教育领域的权威声音**。 | [Maclean's, n.d.-a, "About us", para. 1](https://macleans.ca/education/about-macleans-universities-and-colleges/#:~:text=In%201991%2C%20Maclean%E2%80%99s%20launched%20its%20inaugural%20University%20Rankings) |
-| **Maclean's University Rankings**<br>麦克林大学排名 | "Maclean’s annual university rankings continue a tradition established in 1991: to provide **essential information in a comprehensive package** to help students **choose the university that best suits their needs**." | Maclean's 年度大学排名延续了 1991 年确立的传统：以**完整的一揽子形式提供必要信息**，帮助学生**选择最适合自己需要的大学**。 | [Maclean's, 2026b, para. 2](https://macleans.ca/education/university-rankings/macleans-university-rankings-methodology-2027/#:~:text=Maclean%E2%80%99s%20annual%20university%20rankings%20continue%20a%20tradition) |
+| **Maclean's University Rankings**<br>麦克林大学排名 | "Maclean’s annual university rankings continue a tradition established in 1991: to provide **essential information in a comprehensive package** to help students **choose the university that best suits their needs**." | Maclean's 年度大学排名延续了 1991 年确立的传统：以**完整的一揽子形式提供必要信息**，帮助学生**选择最适合自己需要的大学**。 | [Maclean's, 2026d, para. 2](https://macleans.ca/education/university-rankings/macleans-university-rankings-methodology-2027/#:~:text=Maclean%E2%80%99s%20annual%20university%20rankings%20continue%20a%20tradition) |
 
 ## University Rankings
+
+### Large Universities
 
 | Rank | University | Definition | 中文翻译 | Source |
 |---|---|---|---|---|
@@ -33,12 +35,67 @@ ms.date: 2026-11-07
 | 14 | Toronto Metropolitan University<br>多伦多都会大学 | "**More than 44,000 undergraduate and graduate students** attend Toronto Metropolitan University, which offers programs in **more than 125 disciplines**." | **44,000 多名本科生和研究生**就读于多伦多都会大学，该校开设 **125 个以上学科**的专业。 | [Maclean's, n.d.-b, school profile](https://macleans.ca/education/school-profiles/toronto-metropolitan-university/) |
 | 15 | Concordia University<br>康考迪亚大学 | "Concordia is **one of Canada’s largest universities**, offering **more than 500 programs** at the undergraduate and graduate levels." | 康考迪亚是**加拿大规模最大的大学之一**，开设本科和研究生层次的 **500 多个专业**。 | [Maclean's, n.d.-b, school profile](https://macleans.ca/education/school-profiles/concordia/) |
 
+### Mid-Size Universities
+
+| Rank | University | Definition | 中文翻译 | Source |
+|---|---|---|---|---|
+| 1 | Simon Fraser University<br>西蒙菲莎大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 2 | University of Victoria<br>维多利亚大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 3 | Dalhousie University<br>达尔豪斯大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 4 | Carleton University<br>卡尔顿大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 5 | University of Guelph<br>圭尔夫大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 6 | University of Saskatchewan<br>萨斯喀彻温大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 7 | University of Manitoba<br>曼尼托巴大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 8 | Université de Sherbrooke<br>舍布鲁克大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 9 | Wilfrid Laurier University<br>劳里埃大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 10 | Université du Québec à Montréal<br>魁北克大学蒙特利尔分校 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 11* | Brock University<br>布鲁克大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 11* | Memorial University of Newfoundland<br>纽芬兰纪念大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 11* | Trent University<br>特伦特大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 11* | University of Windsor<br>温莎大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 15 | Ontario Tech University<br>安大略理工大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 16 | University of Regina<br>里贾纳大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 17 | Thompson Rivers University<br>汤普森河大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 18 | Mount Royal University<br>皇家山大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+| 19 | MacEwan University<br>麦科文大学 | (Definition pending) | （定义待补） | [Maclean's, 2026b](https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/) |
+
+### Small Universities
+
+| Rank | University | Definition | 中文翻译 | Source |
+|---|---|---|---|---|
+| 1 | Mount Allison University<br>蒙特爱立森大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 2 | University of Northern British Columbia<br>北英属哥伦比亚大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 3 | St. Francis Xavier University<br>圣弗朗西斯泽维尔大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 4 | Acadia University<br>阿卡迪亚大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 5 | University of New Brunswick<br>新不伦瑞克大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 6 | Bishop’s University<br>主教大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 7 | Saint Mary’s University<br>圣玛丽大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 8 | Lakehead University<br>湖首大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 9 | University of Lethbridge<br>莱斯布里奇大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 10 | University of Prince Edward Island<br>爱德华王子岛大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 11 | St. Thomas University<br>圣托马斯大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 12 | Université de Moncton<br>蒙克顿大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 13 | University of Winnipeg<br>温尼伯大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 14 | Laurentian University<br>劳伦森大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 15 | Nipissing University<br>尼皮辛大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 16 | Brandon University<br>布兰登大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 17 | Mount Saint Vincent University<br>圣文森特山大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 18 | University of the Fraser Valley<br>菲莎河谷大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 19 | Cape Breton University<br>卡普顿大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 20* | Algoma University<br>阿尔戈马大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 20* | Concordia University of Edmonton<br>埃德蒙顿康考迪亚大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+| 22 | Vancouver Island University<br>温哥华岛大学 | (Definition pending) | （定义待补） | [Maclean's, 2026c](https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/) |
+
 ## References
 
 Maclean's. (2026a, October 14). *Canada’s best large universities for 2027*. <https://macleans.ca/education/university-rankings/canadas-best-large-universities-for-2027/>
 
-Maclean's. (2026b, October 14). *Maclean’s university rankings methodology 2027*. <https://macleans.ca/education/university-rankings/macleans-university-rankings-methodology-2027/>
+Maclean's. (2026b, October 14). *Canada’s best mid-size universities for 2027*. <https://macleans.ca/education/university-rankings/canadas-best-mid-size-universities-for-2027/>
+
+Maclean's. (2026c, October 20). *Canada’s best small universities for 2027*. <https://macleans.ca/education/university-rankings/canadas-best-small-universities-for-2027/>
+
+Maclean's. (2026d, October 14). *Maclean’s university rankings methodology 2027*. <https://macleans.ca/education/university-rankings/macleans-university-rankings-methodology-2027/>
 
 Maclean's. (n.d.-a). *About us*. Retrieved November 6, 2026, from <https://macleans.ca/education/about-macleans-universities-and-colleges/>
 
-Maclean's. (n.d.-b). *School profiles* [Profiles of the 15 universities listed above]. Retrieved November 7, 2026, from <https://macleans.ca/education/school-profiles/>
+Maclean's. (n.d.-b). *School profiles* [Profiles of the 15 Large Universities listed above]. Retrieved November 7, 2026, from <https://macleans.ca/education/school-profiles/>

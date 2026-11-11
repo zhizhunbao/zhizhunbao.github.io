@@ -1,10 +1,10 @@
 ---
-title: "11.13 Concordia University of Edmonton"
+title: "11.55 Concordia University of Edmonton"
 description: "Market > University Programs > Concordia University of Edmonton: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.13 Concordia University of Edmonton
+# 11.55 Concordia University of Edmonton
 
 ## Glossary
 

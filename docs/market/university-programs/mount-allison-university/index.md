@@ -1,10 +1,10 @@
 ---
-title: "11.24 Mount Allison University"
+title: "11.35 Mount Allison University"
 description: "Market > University Programs > Mount Allison University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.24 Mount Allison University
+# 11.35 Mount Allison University
 
 ## Glossary
 

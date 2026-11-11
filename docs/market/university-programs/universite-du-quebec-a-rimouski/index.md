@@ -1,10 +1,10 @@
 ---
-title: "11.49 Université du Québec à Rimouski"
+title: "11.72 Université du Québec à Rimouski"
 description: "Market > University Programs > Université du Québec à Rimouski: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.49 Université du Québec à Rimouski
+# 11.72 Université du Québec à Rimouski
 
 ## Glossary
 

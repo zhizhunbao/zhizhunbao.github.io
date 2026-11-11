@@ -1,10 +1,10 @@
 ---
-title: "11.28 NSCAD University"
+title: "11.64 NSCAD University"
 description: "Market > University Programs > NSCAD University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.28 NSCAD University
+# 11.64 NSCAD University
 
 ## Glossary
 

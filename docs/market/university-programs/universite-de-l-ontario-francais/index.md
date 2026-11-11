@@ -1,10 +1,10 @@
 ---
-title: "11.42 Université de l'Ontario français"
+title: "11.69 Université de l'Ontario français"
 description: "Market > University Programs > Université de l'Ontario français: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.42 Université de l'Ontario français
+# 11.69 Université de l'Ontario français
 
 ## Glossary
 

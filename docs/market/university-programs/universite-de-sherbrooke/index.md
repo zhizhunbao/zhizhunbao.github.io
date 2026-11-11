@@ -1,10 +1,10 @@
 ---
-title: "11.46 Université de Sherbrooke"
+title: "11.23 Université de Sherbrooke"
 description: "Market > University Programs > Université de Sherbrooke: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.46 Université de Sherbrooke
+# 11.23 Université de Sherbrooke
 
 ## Glossary
 

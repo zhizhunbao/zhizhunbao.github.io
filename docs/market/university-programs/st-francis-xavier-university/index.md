@@ -1,10 +1,10 @@
 ---
-title: "11.36 St. Francis Xavier University"
+title: "11.37 St. Francis Xavier University"
 description: "Market > University Programs > St. Francis Xavier University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.36 St. Francis Xavier University
+# 11.37 St. Francis Xavier University
 
 ## Glossary
 

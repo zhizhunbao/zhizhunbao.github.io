@@ -1,10 +1,10 @@
 ---
-title: "11.38 Thompson Rivers University"
+title: "11.32 Thompson Rivers University"
 description: "Market > University Programs > Thompson Rivers University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.38 Thompson Rivers University
+# 11.32 Thompson Rivers University
 
 ## Glossary
 

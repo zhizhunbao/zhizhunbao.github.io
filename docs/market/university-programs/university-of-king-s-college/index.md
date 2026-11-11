@@ -1,10 +1,10 @@
 ---
-title: "11.61 University of King's College"
+title: "11.79 University of King's College"
 description: "Market > University Programs > University of King's College: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.61 University of King's College
+# 11.79 University of King's College
 
 ## Glossary
 

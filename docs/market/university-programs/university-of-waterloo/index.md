@@ -1,10 +1,10 @@
 ---
-title: "11.73 University of Waterloo"
+title: "11.4 University of Waterloo"
 description: "Market > University Programs > University of Waterloo: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.73 University of Waterloo
+# 11.4 University of Waterloo
 
 ## Glossary
 

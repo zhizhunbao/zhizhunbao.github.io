@@ -1,10 +1,10 @@
 ---
-title: "11.15 Emily Carr University of Art + Design"
+title: "11.61 Emily Carr University of Art + Design"
 description: "Market > University Programs > Emily Carr University of Art + Design: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.15 Emily Carr University of Art + Design
+# 11.61 Emily Carr University of Art + Design
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "11.69 University of Saskatchewan"
+title: "11.21 University of Saskatchewan"
 description: "Market > University Programs > University of Saskatchewan: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.69 University of Saskatchewan
+# 11.21 University of Saskatchewan
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "11.74 University of Windsor"
+title: "11.29 University of Windsor"
 description: "Market > University Programs > University of Windsor: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.74 University of Windsor
+# 11.29 University of Windsor
 
 ## Glossary
 

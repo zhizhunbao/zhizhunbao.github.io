@@ -1,10 +1,10 @@
 ---
-title: "11.71 University of Toronto"
+title: "11.2 University of Toronto"
 description: "Market > University Programs > University of Toronto: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.71 University of Toronto
+# 11.2 University of Toronto
 
 ## Glossary
 

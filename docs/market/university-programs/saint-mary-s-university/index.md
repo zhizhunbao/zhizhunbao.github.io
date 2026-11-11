@@ -1,10 +1,10 @@
 ---
-title: "11.33 Saint Mary's University"
+title: "11.41 Saint Mary's University"
 description: "Market > University Programs > Saint Mary's University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.33 Saint Mary's University
+# 11.41 Saint Mary's University
 
 ## Glossary
 

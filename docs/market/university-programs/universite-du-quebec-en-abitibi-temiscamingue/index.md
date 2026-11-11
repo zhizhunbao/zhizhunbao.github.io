@@ -1,10 +1,10 @@
 ---
-title: "11.51 Université du Québec en Abitibi-Témiscamingue"
+title: "11.74 Université du Québec en Abitibi-Témiscamingue"
 description: "Market > University Programs > Université du Québec en Abitibi-Témiscamingue: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.51 Université du Québec en Abitibi-Témiscamingue
+# 11.74 Université du Québec en Abitibi-Témiscamingue
 
 ## Glossary
 

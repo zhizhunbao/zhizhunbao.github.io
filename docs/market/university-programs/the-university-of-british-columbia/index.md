@@ -1,10 +1,10 @@
 ---
-title: "11.58 The University of British Columbia"
+title: "11.3 The University of British Columbia"
 description: "Market > University Programs > The University of British Columbia: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.58 The University of British Columbia
+# 11.3 The University of British Columbia
 
 ## Glossary
 

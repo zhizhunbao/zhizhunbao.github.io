@@ -1,10 +1,10 @@
 ---
-title: "11.35 St Thomas University"
+title: "11.45 St Thomas University"
 description: "Market > University Programs > St Thomas University: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.35 St Thomas University
+# 11.45 St Thomas University
 
 ## Glossary
 

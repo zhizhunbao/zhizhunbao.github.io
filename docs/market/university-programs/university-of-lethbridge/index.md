@@ -1,10 +1,10 @@
 ---
-title: "11.62 University of Lethbridge"
+title: "11.43 University of Lethbridge"
 description: "Market > University Programs > University of Lethbridge: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.62 University of Lethbridge
+# 11.43 University of Lethbridge
 
 ## Glossary
 

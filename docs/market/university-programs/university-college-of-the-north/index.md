@@ -1,10 +1,10 @@
 ---
-title: "11.56 University College of the North"
+title: "11.78 University College of the North"
 description: "Market > University Programs > University College of the North: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.56 University College of the North
+# 11.78 University College of the North
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "11.44 Université de Montréal"
+title: "11.12 Université de Montréal"
 description: "Market > University Programs > Université de Montréal: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.44 Université de Montréal
+# 11.12 Université de Montréal
 
 ## Glossary
 

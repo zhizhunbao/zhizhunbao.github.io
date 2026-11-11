@@ -1,10 +1,10 @@
 ---
-title: "11.41 Université de Hearst"
+title: "11.68 Université de Hearst"
 description: "Market > University Programs > Université de Hearst: its rankings and its programs from the academic calendar, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
-# 11.41 Université de Hearst
+# 11.68 Université de Hearst
 
 ## Glossary
 
