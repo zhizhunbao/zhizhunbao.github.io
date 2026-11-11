@@ -1,6 +1,6 @@
 # 5. Calculus: term checklist
 
-Not built (README). Source: Strang and Herman, *Calculus* volumes 1 to 3 (OpenStax, Rice University, 2016; CC BY-NC-SA 4.0), cached 2026-10-29: chapter introductions, Key Terms pages and section pages in `design-refs/official-docs/cache/md/openstax-books-calculus-volume-*` (section pages fetched with `--plain`; the HTML in `cache/html/` keeps the MathML and the term marks). The earlier pages were the nine CS2023 MSF-Calculus topics, with no terms of their own; only the MathWorld row for Calculus itself is kept, on the Overview.
+Not built (README). Source: Strang and Herman, *Calculus* volumes 1 to 3 (OpenStax, Rice University, 2016; CC BY-NC-SA 4.0), cached 2026-10-29: chapter introductions, Key Terms pages and section pages in `references/official-docs/cache/md/openstax-books-calculus-volume-*` (section pages fetched with `--plain`; the HTML in `cache/html/` keeps the MathML and the term marks). The earlier pages were the nine CS2023 MSF-Calculus topics, with no terms of their own; only the MathWorld row for Calculus itself is kept, on the Overview.
 
 The three volumes repeat three chapters word for word (Volume 2 chapters 1 and 2 are Volume 1 chapters 5 and 6; Volume 3 chapter 1 is Volume 2 chapter 7; Key Terms and section titles identical), so each appears once, where it first appears. The 17 chapters are numbered 1 to 17 in book order (one run, by the user's choice, 2026-10-29); each chapter page names its volume and chapter number.
 

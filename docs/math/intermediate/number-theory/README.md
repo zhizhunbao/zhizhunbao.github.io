@@ -1,6 +1,6 @@
 # Number Theory: term checklist
 
-Source: Crisman, *Number Theory: In Context and Interactive* (math.gordon.edu/ntic/ntic, June 26, 2024 edition), cached 2026-10-30 a chapter at a time: pages as raw HTML in `design-refs/official-docs/cache/data/ntic-raw/` (the Markdown in `cache/md/math-ntic-ntic-*` keeps only the first box of each page, so quotes are checked against the raw HTML); the Index is `cache/html/math-ntic-ntic-index-page-html.html`.
+Source: Crisman, *Number Theory: In Context and Interactive* (math.gordon.edu/ntic/ntic, June 26, 2024 edition), cached 2026-10-30 a chapter at a time: pages as raw HTML in `references/official-docs/cache/data/ntic-raw/` (the Markdown in `cache/md/math-ntic-ntic-*` keeps only the first box of each page, so quotes are checked against the raw HTML); the Index is `cache/html/math-ntic-ntic-index-page-html.html`.
 
 The method is Real Analysis's (see `../real-analysis/README.md`): the terms are the book's Index, each placed in the section its entry first links to, quoted from the linked element. This book marks the words it defines (`dfn class="terminology"`); those are added where the Index misses them. Two cases new in this book:
 

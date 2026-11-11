@@ -1,6 +1,6 @@
 # Real Analysis: term checklist
 
-Source: Lebl, *Basic Analysis I & II: Introduction to Real Analysis* (jirka.org/ra/html, May 22, 2026 edition), cached 2026-10-30 a chapter at a time: section pages as Markdown in `design-refs/official-docs/cache/md/jirka-ra-html-*` and as raw HTML in `cache/data/lebl-ra-raw/`; the Index is `cache/html/jirka-ra-html-ra-16-2-html.html`.
+Source: Lebl, *Basic Analysis I & II: Introduction to Real Analysis* (jirka.org/ra/html, May 22, 2026 edition), cached 2026-10-30 a chapter at a time: section pages as Markdown in `references/official-docs/cache/md/jirka-ra-html-*` and as raw HTML in `cache/data/lebl-ra-raw/`; the Index is `cache/html/jirka-ra-html-ra-16-2-html.html`.
 
 The terms are the book's Index, each placed in the section its entry first links to and quoted from the linked element: the Definition box, or the sentence of the paragraph or item that names the term (with the sentence before it where the term's sentence cannot stand alone). An Index entry that is another name in the same sentence is merged into that row. Added to the Index: the words the running text emphasizes as names of concepts. Index entries that link into exercises and examples are terms too, each quoted from its exercise or example (first pass of chapters 1 to 9 missed 15 of them, whose link anchors contain "exercise" or "example"; added 2026-10-30). Book macros are written in standard TeX (`\R` as `\mathbb{R}`, `\sabs{x}` as `\lvert x \rvert`, `\coloneqq` as `:=`); footnotes inside a quoted sentence are left out.
 
