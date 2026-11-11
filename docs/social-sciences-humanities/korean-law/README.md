@@ -5,7 +5,7 @@ Not published (`docfx.json` excludes `**/README.md`).
 ## 1. Source
 
 - 국가법령정보센터 (법제처, Ministry of Government Legislation), https://www.law.go.kr/. The current text of each statute (현행법령) as the site shows it on the day cached.
-- Cached 2026-11-07, `design-refs/official-docs/urls_kb_korean_law.txt` (16 article pages, `--plain`) and `cache/html/law-lsinfor-<lsiSeq>.html` (7 full texts, curl, HTML only). The statute page `https://www.law.go.kr/법령/<name>` is a 1 KB frame; the article page `/LSW/lsSideInfoP.do?lsiSeq=&joNo=&joBrNo=&docCls=jo&urlMode=lsScJoRltInfoR` holds the article text, and `/LSW/lsInfoR.do?lsiSeq=&efYd=...` the whole statute (the frame's `lsInfoP.do` is an empty shell). Links on the site use the readable addresses `법령/<name>` and `법령/<name>/제N조`.
+- Cached 2026-11-07, `references/official-docs/urls_kb_korean_law.txt` (16 article pages, `--plain`) and `cache/html/law-lsinfor-<lsiSeq>.html` (7 full texts, curl, HTML only). The statute page `https://www.law.go.kr/법령/<name>` is a 1 KB frame; the article page `/LSW/lsSideInfoP.do?lsiSeq=&joNo=&joBrNo=&docCls=jo&urlMode=lsScJoRltInfoR` holds the article text, and `/LSW/lsInfoR.do?lsiSeq=&efYd=...` the whole statute (the frame's `lsInfoP.do` is an empty shell). Links on the site use the readable addresses `법령/<name>` and `법령/<name>/제N조`.
 - English titles (Korean Law Translation Center, elaw.klri.re.kr) are not cached yet and do not appear on the pages; names are the Korean names as 국가법령정보센터 writes them, Chinese names are this site's own translations.
 - Statute names keep the source's characters, including the Korean separator ㆍ in 제7장 신분보장ㆍ징계ㆍ소청; the Chinese names use 、.
 

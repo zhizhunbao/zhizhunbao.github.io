@@ -1,6 +1,6 @@
 ---
 title: "Social Sciences and Humanities"
-description: "The Social Sciences and Humanities section: ELSST (CESSDA) for the social sciences, the UNESCO Thesaurus, domain 3 Culture, for the humanities and the arts, and Korean Law (국가법령정보센터) for the statutes of Korea."
+description: "The Social Sciences and Humanities section: ELSST (CESSDA) for the social sciences, the UNESCO Thesaurus, domain 3 Culture, for the humanities and the arts, Canadian Law (Justice Laws Website) for the federal statutes of Canada and Korean Law (국가법령정보센터) for the statutes of Korea."
 ms.date: 2026-11-07
 ---
 
@@ -16,6 +16,7 @@ ms.date: 2026-11-07
 |---|---|---|---|
 | **Social Sciences and Humanities**<br>UNESCO 叙词表 | (context) "the **study of society** and **the way people live**; the subjects connected with this, for example history, economics, etc." | （语境）对**社会**和**人们生活方式**的研究；也指与此相关的学科，例如历史、经济学等 | [Cambridge University Press & Assessment, n.d., "social science" noun](https://dictionary.cambridge.org/dictionary/english/social-science) |
 | **[ELSST](elsst/index.md)**<br>ELSST（欧洲语言社会科学叙词表） | "The European Language Social Science Thesaurus (ELSST) is a **broad-based, multilingual thesaurus** for **the social sciences**." | 欧洲语言社会科学叙词表（ELSST）是一套面向**社会科学**的**覆盖面广的多语种叙词表**。 | [Consortium of European Social Science Data Archives, n.d., para. 1](https://elsst.cessda.eu/about/#:~:text=The%20European%20Language%20Social%20Science%20Thesaurus%20%28ELSST%29%20is) |
+| **[Canadian Law](canadian-law/index.md)**<br>加拿大法律（Justice Laws Website） | (Definition pending) | （定义待补） | [Justice Laws Website, n.d.](https://laws-lois.justice.gc.ca/eng/) |
 | **[Korean Law](korean-law/index.md)**<br>韩国法律（국가법령정보센터） | (Definition pending) | （定义待补） | [Ministry of Government Legislation, n.d., 국가법령정보센터](https://www.law.go.kr/) |
 | **[UNESCO Thesaurus](unesco-thesaurus/index.md)**<br>UNESCO 叙词表 | "The UNESCO Thesaurus is a **controlled and structured list of concepts** used in **subject analysis and retrieval** of documents and publications in the fields of education, culture, natural sciences, social and human sciences, communication and information." | UNESCO 叙词表是一份**受控的、结构化的概念列表**，用于教育、文化、自然科学、社会与人文科学、传播与信息等领域文献和出版物的**主题分析与检索**。 | [UNESCO, n.d., para. 1](https://vocabularies.unesco.org/en/about#:~:text=The%20UNESCO%20Thesaurus%20is%20a%20controlled) |
 
@@ -24,6 +25,8 @@ ms.date: 2026-11-07
 Cambridge University Press & Assessment. (n.d.). Social science. In *Cambridge Dictionary*. Retrieved October 27, 2026, from <https://dictionary.cambridge.org/dictionary/english/social-science>
 
 Consortium of European Social Science Data Archives. (n.d.). *About ELSST*. Retrieved October 27, 2026, from <https://elsst.cessda.eu/about/>
+
+Justice Laws Website. (n.d.). *Justice Laws Website*. Government of Canada. Retrieved November 8, 2026, from <https://laws-lois.justice.gc.ca/eng/>
 
 Ministry of Government Legislation. (n.d.). *국가법령정보센터*. Retrieved November 7, 2026, from <https://www.law.go.kr/>
 

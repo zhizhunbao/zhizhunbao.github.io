@@ -1,0 +1,35 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Personal Information Protection and Electronic Documents Act"
+  href: pipeda/index.md
+  items:
+  - name: "PART 1 Protection of Personal Information in the Private Sector"
+    href: pipeda/part-1.md
+  - name: "DIVISION 1 Protection of Personal Information"
+    href: pipeda/division-1.md
+  - name: "DIVISION 1.1 Breaches of Security Safeguards"
+    href: pipeda/division-1-1.md
+  - name: "DIVISION 2 Remedies"
+    href: pipeda/division-2.md
+  - name: "DIVISION 3 Audits"
+    href: pipeda/division-3.md
+  - name: "DIVISION 4 General"
+    href: pipeda/division-4.md
+  - name: "SCHEDULE 1 Principles"
+    href: pipeda/schedule-1.md
+- name: "2. An Act to promote the efficiency and adaptability of the Canadian economy"
+  href: casl/index.md
+  items:
+  - name: "Interpretation"
+    href: casl/interpretation.md
+  - name: "Purpose"
+    href: casl/purpose.md
+  - name: "Requirements and Prohibitions"
+    href: casl/requirements-and-prohibitions.md
+  - name: "Administrative Monetary Penalties"
+    href: casl/administrative-monetary-penalties.md
+  - name: "Electronic Commerce Protection Regulations (CRTC)"
+    href: casl/electronic-commerce-protection-regulations-crtc.md
+  - name: "Electronic Commerce Protection Regulations"
+    href: casl/electronic-commerce-protection-regulations.md

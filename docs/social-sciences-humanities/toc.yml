@@ -7,5 +7,7 @@ items:
   href: unesco-thesaurus/toc.yml
 - name: Law
   items:
+  - name: "Canadian Law"
+    href: canadian-law/toc.yml
   - name: "Korean Law"
     href: korean-law/toc.yml
