@@ -1,10 +1,10 @@
 ---
-title: "10.12.4 Assistance dentaire – niveau II"
+title: "10.13.4 Assistance dentaire – niveau II"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Assistance dentaire – niveau II: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.4 Assistance dentaire – niveau II
+# 10.13.4 Assistance dentaire – niveau II
 
 ## Glossary
 

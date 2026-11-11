@@ -1,10 +1,10 @@
 ---
-title: "10.32.44 Business Management - International Business (BMIM)"
+title: "10.33.44 Business Management - International Business (BMIM)"
 description: "Market > College Programs > Lambton College > Business Management - International Business (BMIM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.44 Business Management - International Business (BMIM)
+# 10.33.44 Business Management - International Business (BMIM)
 
 ## Glossary
 

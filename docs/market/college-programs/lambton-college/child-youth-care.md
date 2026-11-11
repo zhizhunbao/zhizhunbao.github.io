@@ -1,10 +1,10 @@
 ---
-title: "10.32.50 Child & Youth Care"
+title: "10.33.50 Child & Youth Care"
 description: "Market > College Programs > Lambton College > Child & Youth Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.50 Child & Youth Care
+# 10.33.50 Child & Youth Care
 
 ## Glossary
 

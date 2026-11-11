@@ -1,10 +1,10 @@
 ---
-title: "10.25.6 Applied Artificial Intelligence"
+title: "10.26.6 Applied Artificial Intelligence"
 description: "Market > College Programs > Georgian College > Applied Artificial Intelligence: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.6 Applied Artificial Intelligence
+# 10.26.6 Applied Artificial Intelligence
 
 ## Glossary
 

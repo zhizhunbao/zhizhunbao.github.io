@@ -1,10 +1,10 @@
 ---
-title: "10.12.7 Charpenterie"
+title: "10.13.7 Charpenterie"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Charpenterie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.7 Charpenterie
+# 10.13.7 Charpenterie
 
 ## Glossary
 

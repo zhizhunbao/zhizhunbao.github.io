@@ -1,10 +1,10 @@
 ---
-title: "10.11.31 Préposée ou préposé aux services de soutien personnel"
+title: "10.12.31 Préposée ou préposé aux services de soutien personnel"
 description: "Market > College Programs > Collège Boréal > Préposée ou préposé aux services de soutien personnel: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.31 Préposée ou préposé aux services de soutien personnel
+# 10.12.31 Préposée ou préposé aux services de soutien personnel
 
 ## Glossary
 

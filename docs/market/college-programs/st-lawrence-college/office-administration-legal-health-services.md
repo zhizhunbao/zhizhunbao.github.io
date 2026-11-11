@@ -1,10 +1,10 @@
 ---
-title: "10.64.60 Office Administration - Legal/Health Services"
+title: "10.65.60 Office Administration - Legal/Health Services"
 description: "Market > College Programs > St. Lawrence College > Office Administration - Legal/Health Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.60 Office Administration - Legal/Health Services
+# 10.65.60 Office Administration - Legal/Health Services
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.35 Business Analytics (BAMO)"
+title: "10.33.35 Business Analytics (BAMO)"
 description: "Market > College Programs > Lambton College > Business Analytics (BAMO): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.35 Business Analytics (BAMO)
+# 10.33.35 Business Analytics (BAMO)
 
 ## Glossary
 

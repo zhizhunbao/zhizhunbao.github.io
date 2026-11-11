@@ -1,10 +1,10 @@
 ---
-title: "10.41.26 Computer Programming and Analysis (Co-op)"
+title: "10.42.26 Computer Programming and Analysis (Co-op)"
 description: "Market > College Programs > Niagara College > Computer Programming and Analysis (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.26 Computer Programming and Analysis (Co-op)
+# 10.42.26 Computer Programming and Analysis (Co-op)
 
 ## Glossary
 

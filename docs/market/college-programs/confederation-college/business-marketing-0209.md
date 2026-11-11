@@ -1,10 +1,10 @@
 ---
-title: "10.19.14 Business - Marketing (0209)"
+title: "10.20.14 Business - Marketing (0209)"
 description: "Market > College Programs > Confederation College > Business - Marketing (0209): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.14 Business - Marketing (0209)
+# 10.20.14 Business - Marketing (0209)
 
 ## Glossary
 

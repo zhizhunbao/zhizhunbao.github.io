@@ -1,10 +1,10 @@
 ---
-title: "10.22.71 Early Childhood Education (Fast Track)"
+title: "10.23.71 Early Childhood Education (Fast Track)"
 description: "Market > College Programs > Fanshawe College > Early Childhood Education (Fast Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.71 Early Childhood Education (Fast Track)
+# 10.23.71 Early Childhood Education (Fast Track)
 
 ## Glossary
 

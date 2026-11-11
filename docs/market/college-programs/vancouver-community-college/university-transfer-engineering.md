@@ -1,10 +1,10 @@
 ---
-title: "10.66.52 University Transfer – Engineering"
+title: "10.67.52 University Transfer – Engineering"
 description: "Market > College Programs > Vancouver Community College > University Transfer – Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.52 University Transfer – Engineering
+# 10.67.52 University Transfer – Engineering
 
 ## Glossary
 

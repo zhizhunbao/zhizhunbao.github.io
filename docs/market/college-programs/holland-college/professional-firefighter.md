@@ -1,10 +1,10 @@
 ---
-title: "10.27.46 Professional Firefighter"
+title: "10.28.46 Professional Firefighter"
 description: "Market > College Programs > Holland College > Professional Firefighter: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.46 Professional Firefighter
+# 10.28.46 Professional Firefighter
 
 ## Glossary
 

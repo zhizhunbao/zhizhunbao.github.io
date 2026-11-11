@@ -1,10 +1,10 @@
 ---
-title: "10.51.16 Diploma in Writing and Publishing"
+title: "10.52.16 Diploma in Writing and Publishing"
 description: "Market > College Programs > Okanagan College > Diploma in Writing and Publishing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.16 Diploma in Writing and Publishing
+# 10.52.16 Diploma in Writing and Publishing
 
 ## Glossary
 

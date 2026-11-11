@@ -1,10 +1,10 @@
 ---
-title: "10.18.165 Pet Grooming"
+title: "10.19.165 Pet Grooming"
 description: "Market > College Programs > Conestoga College > Pet Grooming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.165 Pet Grooming
+# 10.19.165 Pet Grooming
 
 ## Glossary
 

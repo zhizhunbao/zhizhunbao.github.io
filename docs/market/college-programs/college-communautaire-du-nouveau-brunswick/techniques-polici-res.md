@@ -1,10 +1,10 @@
 ---
-title: "10.12.54 Techniques policières"
+title: "10.13.54 Techniques policières"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Techniques policières: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.54 Techniques policières
+# 10.13.54 Techniques policières
 
 ## Glossary
 

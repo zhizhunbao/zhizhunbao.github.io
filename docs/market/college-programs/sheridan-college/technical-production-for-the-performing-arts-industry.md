@@ -1,10 +1,10 @@
 ---
-title: "10.60.105 Technical Production for the Performing Arts Industry"
+title: "10.61.105 Technical Production for the Performing Arts Industry"
 description: "Market > College Programs > Sheridan College > Technical Production for the Performing Arts Industry: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.105 Technical Production for the Performing Arts Industry
+# 10.61.105 Technical Production for the Performing Arts Industry
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.6 Artificial Intelligence with Machine Learning"
+title: "10.29.6 Artificial Intelligence with Machine Learning"
 description: "Market > College Programs > Humber Polytechnic > Artificial Intelligence with Machine Learning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.6 Artificial Intelligence with Machine Learning
+# 10.29.6 Artificial Intelligence with Machine Learning
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.62.72 Information Security Analyst"
+title: "10.63.72 Information Security Analyst"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Information Security Analyst: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.72 Information Security Analyst
+# 10.63.72 Information Security Analyst
 
 ## Glossary
 

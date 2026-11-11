@@ -1,10 +1,10 @@
 ---
-title: "10.49.6 Computer Systems Technology (CTECH)"
+title: "10.50.6 Computer Systems Technology (CTECH)"
 description: "Market > College Programs > Northwestern Polytechnic > Computer Systems Technology (CTECH): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.6 Computer Systems Technology (CTECH)
+# 10.50.6 Computer Systems Technology (CTECH)
 
 ## Glossary
 

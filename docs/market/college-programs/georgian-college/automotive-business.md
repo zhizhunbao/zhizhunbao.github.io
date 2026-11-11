@@ -1,10 +1,10 @@
 ---
-title: "10.25.13 Automotive Business"
+title: "10.26.13 Automotive Business"
 description: "Market > College Programs > Georgian College > Automotive Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.13 Automotive Business
+# 10.26.13 Automotive Business
 
 ## Glossary
 

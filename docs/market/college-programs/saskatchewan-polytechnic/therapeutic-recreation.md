@@ -1,10 +1,10 @@
 ---
-title: "10.56.54 Therapeutic Recreation"
+title: "10.57.54 Therapeutic Recreation"
 description: "Market > College Programs > Saskatchewan Polytechnic > Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.54 Therapeutic Recreation
+# 10.57.54 Therapeutic Recreation
 
 ## Glossary
 

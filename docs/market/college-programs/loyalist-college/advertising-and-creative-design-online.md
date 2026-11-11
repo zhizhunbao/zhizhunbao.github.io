@@ -1,10 +1,10 @@
 ---
-title: "10.35.4 Advertising and Creative Design (Online)"
+title: "10.36.4 Advertising and Creative Design (Online)"
 description: "Market > College Programs > Loyalist College > Advertising and Creative Design (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.4 Advertising and Creative Design (Online)
+# 10.36.4 Advertising and Creative Design (Online)
 
 ## Glossary
 

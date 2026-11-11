@@ -1,10 +1,10 @@
 ---
-title: "10.35.51 Paramedic (Hybrid)"
+title: "10.36.51 Paramedic (Hybrid)"
 description: "Market > College Programs > Loyalist College > Paramedic (Hybrid): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.51 Paramedic (Hybrid)
+# 10.36.51 Paramedic (Hybrid)
 
 ## Glossary
 

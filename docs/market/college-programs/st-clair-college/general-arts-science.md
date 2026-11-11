@@ -1,10 +1,10 @@
 ---
-title: "10.63.53 General Arts & Science"
+title: "10.64.53 General Arts & Science"
 description: "Market > College Programs > St. Clair College > General Arts & Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.53 General Arts & Science
+# 10.64.53 General Arts & Science
 
 ## Glossary
 

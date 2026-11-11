@@ -1,10 +1,10 @@
 ---
-title: "10.18.85 Deafblind and Intervenor Studies"
+title: "10.19.85 Deafblind and Intervenor Studies"
 description: "Market > College Programs > Conestoga College > Deafblind and Intervenor Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.85 Deafblind and Intervenor Studies
+# 10.19.85 Deafblind and Intervenor Studies
 
 ## Glossary
 

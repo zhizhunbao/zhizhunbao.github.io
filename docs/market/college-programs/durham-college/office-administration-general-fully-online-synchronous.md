@@ -1,10 +1,10 @@
 ---
-title: "10.21.95 Office Administration – General (fully online – synchronous)"
+title: "10.22.95 Office Administration – General (fully online – synchronous)"
 description: "Market > College Programs > Durham College > Office Administration – General (fully online – synchronous): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.95 Office Administration – General (fully online – synchronous)
+# 10.22.95 Office Administration – General (fully online – synchronous)
 
 ## Glossary
 

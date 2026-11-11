@@ -1,10 +1,10 @@
 ---
-title: "10.53.6 Business Administration Certificate"
+title: "10.54.6 Business Administration Certificate"
 description: "Market > College Programs > Portage College > Business Administration Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.6 Business Administration Certificate
+# 10.54.6 Business Administration Certificate
 
 ## Glossary
 

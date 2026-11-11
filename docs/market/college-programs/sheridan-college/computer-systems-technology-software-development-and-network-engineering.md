@@ -1,10 +1,10 @@
 ---
-title: "10.60.29 Computer Systems Technology – Software Development and Network Engineering"
+title: "10.61.29 Computer Systems Technology – Software Development and Network Engineering"
 description: "Market > College Programs > Sheridan College > Computer Systems Technology – Software Development and Network Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.29 Computer Systems Technology – Software Development and Network Engineering
+# 10.61.29 Computer Systems Technology – Software Development and Network Engineering
 
 ## Glossary
 

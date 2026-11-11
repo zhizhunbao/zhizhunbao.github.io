@@ -1,10 +1,10 @@
 ---
-title: "10.49.8 Early Learning & Child Care (ELCCD)"
+title: "10.50.8 Early Learning & Child Care (ELCCD)"
 description: "Market > College Programs > Northwestern Polytechnic > Early Learning & Child Care (ELCCD): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.8 Early Learning & Child Care (ELCCD)
+# 10.50.8 Early Learning & Child Care (ELCCD)
 
 ## Glossary
 

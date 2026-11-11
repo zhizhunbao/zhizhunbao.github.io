@@ -1,10 +1,10 @@
 ---
-title: "10.12.75 Études multidisciplinaires en sciences de la santé"
+title: "10.13.75 Études multidisciplinaires en sciences de la santé"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Études multidisciplinaires en sciences de la santé: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.75 Études multidisciplinaires en sciences de la santé
+# 10.13.75 Études multidisciplinaires en sciences de la santé
 
 ## Glossary
 

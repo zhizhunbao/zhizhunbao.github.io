@@ -1,10 +1,10 @@
 ---
-title: "10.55.3 Application Development and Delivery"
+title: "10.56.3 Application Development and Delivery"
 description: "Market > College Programs > Red River College Polytechnic > Application Development and Delivery: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.3 Application Development and Delivery
+# 10.56.3 Application Development and Delivery
 
 ## Glossary
 

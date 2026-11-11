@@ -1,10 +1,10 @@
 ---
-title: "10.16.1 Accounting"
+title: "10.17.1 Accounting"
 description: "Market > College Programs > College of the North Atlantic > Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.1 Accounting
+# 10.17.1 Accounting
 
 ## Glossary
 

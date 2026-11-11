@@ -1,10 +1,10 @@
 ---
-title: "10.62.117 Transport and Heavy Equipment Technology"
+title: "10.63.117 Transport and Heavy Equipment Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Transport and Heavy Equipment Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.117 Transport and Heavy Equipment Technology
+# 10.63.117 Transport and Heavy Equipment Technology
 
 ## Glossary
 

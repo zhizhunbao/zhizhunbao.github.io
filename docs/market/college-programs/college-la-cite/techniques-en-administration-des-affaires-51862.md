@@ -1,10 +1,10 @@
 ---
-title: "10.14.104 Techniques en administration des affaires (51862)"
+title: "10.15.104 Techniques en administration des affaires (51862)"
 description: "Market > College Programs > Collège La Cité > Techniques en administration des affaires (51862): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.104 Techniques en administration des affaires (51862)
+# 10.15.104 Techniques en administration des affaires (51862)
 
 ## Glossary
 

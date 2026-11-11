@@ -1,10 +1,10 @@
 ---
-title: "10.25.137 Policing and Community Safety"
+title: "10.26.137 Policing and Community Safety"
 description: "Market > College Programs > Georgian College > Policing and Community Safety: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.137 Policing and Community Safety
+# 10.26.137 Policing and Community Safety
 
 ## Glossary
 

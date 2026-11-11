@@ -1,10 +1,10 @@
 ---
-title: "10.21.9 Artificial Intelligence Analysis, Design and Implementation (graduate certificate)"
+title: "10.22.9 Artificial Intelligence Analysis, Design and Implementation (graduate certificate)"
 description: "Market > College Programs > Durham College > Artificial Intelligence Analysis, Design and Implementation (graduate certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.9 Artificial Intelligence Analysis, Design and Implementation (graduate certificate)
+# 10.22.9 Artificial Intelligence Analysis, Design and Implementation (graduate certificate)
 
 ## Glossary
 

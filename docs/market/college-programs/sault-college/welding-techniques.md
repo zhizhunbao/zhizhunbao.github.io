@@ -1,10 +1,10 @@
 ---
-title: "10.57.60 Welding Techniques"
+title: "10.58.60 Welding Techniques"
 description: "Market > College Programs > Sault College > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.60 Welding Techniques
+# 10.58.60 Welding Techniques
 
 ## Glossary
 

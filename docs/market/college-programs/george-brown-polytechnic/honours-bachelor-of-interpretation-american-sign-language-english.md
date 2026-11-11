@@ -1,10 +1,10 @@
 ---
-title: "10.24.56 Honours Bachelor of Interpretation (American Sign Language - English)"
+title: "10.25.56 Honours Bachelor of Interpretation (American Sign Language - English)"
 description: "Market > College Programs > George Brown Polytechnic > Honours Bachelor of Interpretation (American Sign Language - English): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.56 Honours Bachelor of Interpretation (American Sign Language - English)
+# 10.25.56 Honours Bachelor of Interpretation (American Sign Language - English)
 
 ## Glossary
 

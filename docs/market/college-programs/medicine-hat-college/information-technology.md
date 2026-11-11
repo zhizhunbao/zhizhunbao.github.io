@@ -1,10 +1,10 @@
 ---
-title: "10.38.18 Information Technology"
+title: "10.39.18 Information Technology"
 description: "Market > College Programs > Medicine Hat College > Information Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.18 Information Technology
+# 10.39.18 Information Technology
 
 ## Glossary
 

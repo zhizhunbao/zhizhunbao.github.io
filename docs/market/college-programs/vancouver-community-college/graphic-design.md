@@ -1,10 +1,10 @@
 ---
-title: "10.66.31 Graphic Design"
+title: "10.67.31 Graphic Design"
 description: "Market > College Programs > Vancouver Community College > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.31 Graphic Design
+# 10.67.31 Graphic Design
 
 ## Glossary
 

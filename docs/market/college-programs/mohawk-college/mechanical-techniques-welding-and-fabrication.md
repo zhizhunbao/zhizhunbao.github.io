@@ -1,10 +1,10 @@
 ---
-title: "10.39.66 Mechanical Techniques (Welding and Fabrication)"
+title: "10.40.66 Mechanical Techniques (Welding and Fabrication)"
 description: "Market > College Programs > Mohawk College > Mechanical Techniques (Welding and Fabrication): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.66 Mechanical Techniques (Welding and Fabrication)
+# 10.40.66 Mechanical Techniques (Welding and Fabrication)
 
 ## Glossary
 

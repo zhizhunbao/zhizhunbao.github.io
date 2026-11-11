@@ -1,10 +1,10 @@
 ---
-title: "10.18.193 Veterinary Assistant"
+title: "10.19.193 Veterinary Assistant"
 description: "Market > College Programs > Conestoga College > Veterinary Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.193 Veterinary Assistant
+# 10.19.193 Veterinary Assistant
 
 ## Glossary
 

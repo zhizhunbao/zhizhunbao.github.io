@@ -1,10 +1,10 @@
 ---
-title: "10.16.92 Sound Recording & Production"
+title: "10.17.92 Sound Recording & Production"
 description: "Market > College Programs > College of the North Atlantic > Sound Recording & Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.92 Sound Recording & Production
+# 10.17.92 Sound Recording & Production
 
 ## Glossary
 

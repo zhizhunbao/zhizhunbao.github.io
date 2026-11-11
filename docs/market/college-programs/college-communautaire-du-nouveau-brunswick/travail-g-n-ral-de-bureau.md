@@ -1,10 +1,10 @@
 ---
-title: "10.12.66 Travail général de bureau"
+title: "10.13.66 Travail général de bureau"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Travail général de bureau: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.66 Travail général de bureau
+# 10.13.66 Travail général de bureau
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.23 Bachelor of Engineering - Sustainable Building Engineering"
+title: "10.29.23 Bachelor of Engineering - Sustainable Building Engineering"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Engineering - Sustainable Building Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.23 Bachelor of Engineering - Sustainable Building Engineering
+# 10.29.23 Bachelor of Engineering - Sustainable Building Engineering
 
 ## Glossary
 

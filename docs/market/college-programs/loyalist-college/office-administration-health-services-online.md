@@ -1,10 +1,10 @@
 ---
-title: "10.35.47 Office Administration – Health Services (Online)"
+title: "10.36.47 Office Administration – Health Services (Online)"
 description: "Market > College Programs > Loyalist College > Office Administration – Health Services (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.47 Office Administration – Health Services (Online)
+# 10.36.47 Office Administration – Health Services (Online)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.109 Photography"
+title: "10.33.109 Photography"
 description: "Market > College Programs > Lambton College > Photography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.109 Photography
+# 10.33.109 Photography
 
 ## Glossary
 

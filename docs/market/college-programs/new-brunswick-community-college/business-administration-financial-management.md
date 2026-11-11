@@ -1,10 +1,10 @@
 ---
-title: "10.40.14 Business Administration: Financial Management"
+title: "10.41.14 Business Administration: Financial Management"
 description: "Market > College Programs > New Brunswick Community College > Business Administration: Financial Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.14 Business Administration: Financial Management
+# 10.41.14 Business Administration: Financial Management
 
 ## Glossary
 

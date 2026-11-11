@@ -1,10 +1,10 @@
 ---
-title: "10.50.62 Geographic Information Systems (GIS) - Cartography and Geovisualization"
+title: "10.51.62 Geographic Information Systems (GIS) - Cartography and Geovisualization"
 description: "Market > College Programs > Nova Scotia Community College > Geographic Information Systems (GIS) - Cartography and Geovisualization: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.62 Geographic Information Systems (GIS) - Cartography and Geovisualization
+# 10.51.62 Geographic Information Systems (GIS) - Cartography and Geovisualization
 
 ## Glossary
 

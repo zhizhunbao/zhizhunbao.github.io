@@ -1,10 +1,10 @@
 ---
-title: "10.29.7 Emergency & Security Management Studies (BESMS)"
+title: "10.30.7 Emergency & Security Management Studies (BESMS)"
 description: "Market > College Programs > Justice Institute of British Columbia > Emergency & Security Management Studies (BESMS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.7 Emergency & Security Management Studies (BESMS)
+# 10.30.7 Emergency & Security Management Studies (BESMS)
 
 ## Glossary
 

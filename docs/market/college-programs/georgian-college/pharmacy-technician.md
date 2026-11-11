@@ -1,10 +1,10 @@
 ---
-title: "10.25.135 Pharmacy Technician"
+title: "10.26.135 Pharmacy Technician"
 description: "Market > College Programs > Georgian College > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.135 Pharmacy Technician
+# 10.26.135 Pharmacy Technician
 
 ## Glossary
 

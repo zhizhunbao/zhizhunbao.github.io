@@ -1,10 +1,10 @@
 ---
-title: "10.16.60 Instrumentation and Controls Engineering Technology"
+title: "10.17.60 Instrumentation and Controls Engineering Technology"
 description: "Market > College Programs > College of the North Atlantic > Instrumentation and Controls Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.60 Instrumentation and Controls Engineering Technology
+# 10.17.60 Instrumentation and Controls Engineering Technology
 
 ## Glossary
 

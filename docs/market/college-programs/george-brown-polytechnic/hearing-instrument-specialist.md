@@ -1,10 +1,10 @@
 ---
-title: "10.24.41 Hearing Instrument Specialist"
+title: "10.25.41 Hearing Instrument Specialist"
 description: "Market > College Programs > George Brown Polytechnic > Hearing Instrument Specialist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.41 Hearing Instrument Specialist
+# 10.25.41 Hearing Instrument Specialist
 
 ## Glossary
 

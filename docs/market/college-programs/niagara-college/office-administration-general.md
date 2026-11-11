@@ -1,10 +1,10 @@
 ---
-title: "10.41.70 Office Administration – General"
+title: "10.42.70 Office Administration – General"
 description: "Market > College Programs > Niagara College > Office Administration – General: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.70 Office Administration – General
+# 10.42.70 Office Administration – General
 
 ## Glossary
 

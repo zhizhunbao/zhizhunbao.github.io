@@ -1,10 +1,10 @@
 ---
-title: "10.40.18 Carpentry"
+title: "10.41.18 Carpentry"
 description: "Market > College Programs > New Brunswick Community College > Carpentry: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.18 Carpentry
+# 10.41.18 Carpentry
 
 ## Glossary
 

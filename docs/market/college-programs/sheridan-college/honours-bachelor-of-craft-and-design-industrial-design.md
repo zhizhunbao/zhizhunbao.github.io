@@ -1,10 +1,10 @@
 ---
-title: "10.60.58 Honours Bachelor of Craft and Design (Industrial Design)"
+title: "10.61.58 Honours Bachelor of Craft and Design (Industrial Design)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Craft and Design (Industrial Design): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.58 Honours Bachelor of Craft and Design (Industrial Design)
+# 10.61.58 Honours Bachelor of Craft and Design (Industrial Design)
 
 ## Glossary
 

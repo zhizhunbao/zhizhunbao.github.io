@@ -1,10 +1,10 @@
 ---
-title: "10.63.29 Cybersecurity"
+title: "10.64.29 Cybersecurity"
 description: "Market > College Programs > St. Clair College > Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.29 Cybersecurity
+# 10.64.29 Cybersecurity
 
 ## Glossary
 

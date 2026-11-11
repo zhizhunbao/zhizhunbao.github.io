@@ -1,10 +1,10 @@
 ---
-title: "10.29 Justice Institute of British Columbia"
+title: "10.30 Justice Institute of British Columbia"
 description: "Market > College Programs > Justice Institute of British Columbia: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29 Justice Institute of British Columbia
+# 10.30 Justice Institute of British Columbia
 
 ## Glossary
 

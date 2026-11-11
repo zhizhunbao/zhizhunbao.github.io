@@ -1,10 +1,10 @@
 ---
-title: "10.19 Confederation College"
+title: "10.20 Confederation College"
 description: "Market > College Programs > Confederation College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19 Confederation College
+# 10.20 Confederation College
 
 ## Glossary
 

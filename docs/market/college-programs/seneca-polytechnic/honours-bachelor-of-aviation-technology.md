@@ -1,10 +1,10 @@
 ---
-title: "10.59.82 Honours Bachelor of Aviation Technology"
+title: "10.60.82 Honours Bachelor of Aviation Technology"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Aviation Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.82 Honours Bachelor of Aviation Technology
+# 10.60.82 Honours Bachelor of Aviation Technology
 
 ## Glossary
 

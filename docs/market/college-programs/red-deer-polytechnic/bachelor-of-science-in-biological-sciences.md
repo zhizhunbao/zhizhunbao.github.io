@@ -1,10 +1,10 @@
 ---
-title: "10.54.14 Bachelor of Science in Biological Sciences"
+title: "10.55.14 Bachelor of Science in Biological Sciences"
 description: "Market > College Programs > Red Deer Polytechnic > Bachelor of Science in Biological Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.14 Bachelor of Science in Biological Sciences
+# 10.55.14 Bachelor of Science in Biological Sciences
 
 ## Glossary
 

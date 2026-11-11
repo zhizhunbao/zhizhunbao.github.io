@@ -1,10 +1,10 @@
 ---
-title: "10.11.41 Techniques de soudage et de fabrication"
+title: "10.12.41 Techniques de soudage et de fabrication"
 description: "Market > College Programs > Collège Boréal > Techniques de soudage et de fabrication: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.41 Techniques de soudage et de fabrication
+# 10.12.41 Techniques de soudage et de fabrication
 
 ## Glossary
 

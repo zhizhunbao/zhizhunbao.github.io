@@ -1,10 +1,10 @@
 ---
-title: "10.23.70 Pre-Service Firefighter Education and Training (FF)"
+title: "10.24.70 Pre-Service Firefighter Education and Training (FF)"
 description: "Market > College Programs > Fleming College > Pre-Service Firefighter Education and Training (FF): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.70 Pre-Service Firefighter Education and Training (FF)
+# 10.24.70 Pre-Service Firefighter Education and Training (FF)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.22 Kinesiology and Sport Studies Diploma"
+title: "10.54.22 Kinesiology and Sport Studies Diploma"
 description: "Market > College Programs > Portage College > Kinesiology and Sport Studies Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.22 Kinesiology and Sport Studies Diploma
+# 10.54.22 Kinesiology and Sport Studies Diploma
 
 ## Glossary
 

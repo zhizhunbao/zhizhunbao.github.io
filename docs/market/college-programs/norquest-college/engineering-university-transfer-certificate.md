@@ -1,10 +1,10 @@
 ---
-title: "10.42.21 Engineering University Transfer Certificate"
+title: "10.43.21 Engineering University Transfer Certificate"
 description: "Market > College Programs > NorQuest College > Engineering University Transfer Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.21 Engineering University Transfer Certificate
+# 10.43.21 Engineering University Transfer Certificate
 
 ## Glossary
 

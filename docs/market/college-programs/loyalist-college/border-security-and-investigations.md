@@ -1,10 +1,10 @@
 ---
-title: "10.35.8 Border Security and Investigations"
+title: "10.36.8 Border Security and Investigations"
 description: "Market > College Programs > Loyalist College > Border Security and Investigations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.8 Border Security and Investigations
+# 10.36.8 Border Security and Investigations
 
 ## Glossary
 

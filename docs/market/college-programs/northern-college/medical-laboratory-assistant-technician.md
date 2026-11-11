@@ -1,10 +1,10 @@
 ---
-title: "10.46.34 Medical Laboratory Assistant/Technician"
+title: "10.47.34 Medical Laboratory Assistant/Technician"
 description: "Market > College Programs > Northern College > Medical Laboratory Assistant/Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.34 Medical Laboratory Assistant/Technician
+# 10.47.34 Medical Laboratory Assistant/Technician
 
 ## Glossary
 

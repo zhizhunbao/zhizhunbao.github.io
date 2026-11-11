@@ -1,10 +1,10 @@
 ---
-title: "10.52.19 Farrier Science Certificate"
+title: "10.53.19 Farrier Science Certificate"
 description: "Market > College Programs > Olds College > Farrier Science Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.19 Farrier Science Certificate
+# 10.53.19 Farrier Science Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.25 Business (Co-op)"
+title: "10.23.25 Business (Co-op)"
 description: "Market > College Programs > Fanshawe College > Business (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.25 Business (Co-op)
+# 10.23.25 Business (Co-op)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.7 Carpentry and Renovation Technician (CPT)"
+title: "10.24.7 Carpentry and Renovation Technician (CPT)"
 description: "Market > College Programs > Fleming College > Carpentry and Renovation Technician (CPT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.7 Carpentry and Renovation Technician (CPT)
+# 10.24.7 Carpentry and Renovation Technician (CPT)
 
 ## Glossary
 

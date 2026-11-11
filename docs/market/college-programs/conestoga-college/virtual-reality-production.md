@@ -1,10 +1,10 @@
 ---
-title: "10.18.195 Virtual Reality Production"
+title: "10.19.195 Virtual Reality Production"
 description: "Market > College Programs > Conestoga College > Virtual Reality Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.195 Virtual Reality Production
+# 10.19.195 Virtual Reality Production
 
 ## Glossary
 

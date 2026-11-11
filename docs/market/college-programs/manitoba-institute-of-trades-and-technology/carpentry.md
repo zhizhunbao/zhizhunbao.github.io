@@ -1,10 +1,10 @@
 ---
-title: "10.37.6 Carpentry"
+title: "10.38.6 Carpentry"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Carpentry: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.6 Carpentry
+# 10.38.6 Carpentry
 
 ## Glossary
 

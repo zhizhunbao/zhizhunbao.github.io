@@ -1,10 +1,10 @@
 ---
-title: "10.66.27 ESL Pathways - Advanced"
+title: "10.67.27 ESL Pathways - Advanced"
 description: "Market > College Programs > Vancouver Community College > ESL Pathways - Advanced: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.27 ESL Pathways - Advanced
+# 10.67.27 ESL Pathways - Advanced
 
 ## Glossary
 

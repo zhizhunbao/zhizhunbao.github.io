@@ -1,10 +1,10 @@
 ---
-title: "10.11.16 Entrepreneuriat social"
+title: "10.12.16 Entrepreneuriat social"
 description: "Market > College Programs > Collège Boréal > Entrepreneuriat social: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.16 Entrepreneuriat social
+# 10.12.16 Entrepreneuriat social
 
 ## Glossary
 

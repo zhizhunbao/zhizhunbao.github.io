@@ -1,10 +1,10 @@
 ---
-title: "10.53.30 Professional Cooking Certificate"
+title: "10.54.30 Professional Cooking Certificate"
 description: "Market > College Programs > Portage College > Professional Cooking Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.30 Professional Cooking Certificate
+# 10.54.30 Professional Cooking Certificate
 
 ## Glossary
 

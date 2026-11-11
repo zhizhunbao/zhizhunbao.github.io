@@ -1,10 +1,10 @@
 ---
-title: "10.18.127 Information Technology Infrastructure"
+title: "10.19.127 Information Technology Infrastructure"
 description: "Market > College Programs > Conestoga College > Information Technology Infrastructure: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.127 Information Technology Infrastructure
+# 10.19.127 Information Technology Infrastructure
 
 ## Glossary
 

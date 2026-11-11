@@ -1,10 +1,10 @@
 ---
-title: "10.14.47 Infirmière et infirmier autorisé – prescription"
+title: "10.15.47 Infirmière et infirmier autorisé – prescription"
 description: "Market > College Programs > Collège La Cité > Infirmière et infirmier autorisé – prescription: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.47 Infirmière et infirmier autorisé – prescription
+# 10.15.47 Infirmière et infirmier autorisé – prescription
 
 ## Glossary
 

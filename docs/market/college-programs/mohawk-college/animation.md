@@ -1,10 +1,10 @@
 ---
-title: "10.39.3 Animation"
+title: "10.40.3 Animation"
 description: "Market > College Programs > Mohawk College > Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.3 Animation
+# 10.40.3 Animation
 
 ## Glossary
 

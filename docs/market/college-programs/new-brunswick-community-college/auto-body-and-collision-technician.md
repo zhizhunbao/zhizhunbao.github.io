@@ -1,10 +1,10 @@
 ---
-title: "10.40.8 Auto Body and Collision Technician"
+title: "10.41.8 Auto Body and Collision Technician"
 description: "Market > College Programs > New Brunswick Community College > Auto Body and Collision Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.8 Auto Body and Collision Technician
+# 10.41.8 Auto Body and Collision Technician
 
 ## Glossary
 

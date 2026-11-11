@@ -1,10 +1,10 @@
 ---
-title: "10.11.45 Techniques des véhicules automobiles"
+title: "10.12.45 Techniques des véhicules automobiles"
 description: "Market > College Programs > Collège Boréal > Techniques des véhicules automobiles: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.45 Techniques des véhicules automobiles
+# 10.12.45 Techniques des véhicules automobiles
 
 ## Glossary
 

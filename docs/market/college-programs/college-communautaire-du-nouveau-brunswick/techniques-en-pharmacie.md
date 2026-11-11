@@ -1,10 +1,10 @@
 ---
-title: "10.12.53 Techniques en pharmacie"
+title: "10.13.53 Techniques en pharmacie"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Techniques en pharmacie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.53 Techniques en pharmacie
+# 10.13.53 Techniques en pharmacie
 
 ## Glossary
 

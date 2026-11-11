@@ -1,10 +1,10 @@
 ---
-title: "10.15.34 Pipe Trade"
+title: "10.16.34 Pipe Trade"
 description: "Market > College Programs > College of New Caledonia > Pipe Trade: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.34 Pipe Trade
+# 10.16.34 Pipe Trade
 
 ## Glossary
 

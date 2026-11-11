@@ -1,10 +1,10 @@
 ---
-title: "10.18.202 Welding Engineering Technology - Inspection (Optional Co-op)"
+title: "10.19.202 Welding Engineering Technology - Inspection (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Welding Engineering Technology - Inspection (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.202 Welding Engineering Technology - Inspection (Optional Co-op)
+# 10.19.202 Welding Engineering Technology - Inspection (Optional Co-op)
 
 ## Glossary
 

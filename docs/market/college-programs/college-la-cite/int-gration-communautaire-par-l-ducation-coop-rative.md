@@ -1,10 +1,10 @@
 ---
-title: "10.14.48 Intégration communautaire par l'éducation coopérative"
+title: "10.15.48 Intégration communautaire par l'éducation coopérative"
 description: "Market > College Programs > Collège La Cité > Intégration communautaire par l'éducation coopérative: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.48 Intégration communautaire par l'éducation coopérative
+# 10.15.48 Intégration communautaire par l'éducation coopérative
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.42.12 Dental Office Assistant"
+title: "10.43.12 Dental Office Assistant"
 description: "Market > College Programs > NorQuest College > Dental Office Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.12 Dental Office Assistant
+# 10.43.12 Dental Office Assistant
 
 ## Glossary
 

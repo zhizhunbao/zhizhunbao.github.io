@@ -1,10 +1,10 @@
 ---
-title: "10.64.69 Social Service Worker (Fast-Track)"
+title: "10.65.69 Social Service Worker (Fast-Track)"
 description: "Market > College Programs > St. Lawrence College > Social Service Worker (Fast-Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.69 Social Service Worker (Fast-Track)
+# 10.65.69 Social Service Worker (Fast-Track)
 
 ## Glossary
 

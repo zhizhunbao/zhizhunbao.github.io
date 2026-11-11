@@ -1,10 +1,10 @@
 ---
-title: "10.34.9 Business Administration - Accounting"
+title: "10.35.9 Business Administration - Accounting"
 description: "Market > College Programs > Lethbridge Polytechnic > Business Administration - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.9 Business Administration - Accounting
+# 10.35.9 Business Administration - Accounting
 
 ## Glossary
 

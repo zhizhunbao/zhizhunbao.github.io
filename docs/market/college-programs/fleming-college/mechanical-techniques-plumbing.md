@@ -1,10 +1,10 @@
 ---
-title: "10.23.51 Mechanical Techniques - Plumbing"
+title: "10.24.51 Mechanical Techniques - Plumbing"
 description: "Market > College Programs > Fleming College > Mechanical Techniques - Plumbing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.51 Mechanical Techniques - Plumbing
+# 10.24.51 Mechanical Techniques - Plumbing
 
 ## Glossary
 

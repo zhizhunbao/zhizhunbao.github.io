@@ -1,10 +1,10 @@
 ---
-title: "10.27.5 Artificial Intelligence and Data Analytics"
+title: "10.28.5 Artificial Intelligence and Data Analytics"
 description: "Market > College Programs > Holland College > Artificial Intelligence and Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.5 Artificial Intelligence and Data Analytics
+# 10.28.5 Artificial Intelligence and Data Analytics
 
 ## Glossary
 

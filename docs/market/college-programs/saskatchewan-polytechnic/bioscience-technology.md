@@ -1,10 +1,10 @@
 ---
-title: "10.56.9 BioScience Technology"
+title: "10.57.9 BioScience Technology"
 description: "Market > College Programs > Saskatchewan Polytechnic > BioScience Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.9 BioScience Technology
+# 10.57.9 BioScience Technology
 
 ## Glossary
 

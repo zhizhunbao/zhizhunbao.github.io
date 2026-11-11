@@ -1,10 +1,10 @@
 ---
-title: "10.66.49 Sign Language Interpretation"
+title: "10.67.49 Sign Language Interpretation"
 description: "Market > College Programs > Vancouver Community College > Sign Language Interpretation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.49 Sign Language Interpretation
+# 10.67.49 Sign Language Interpretation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.42.40 Social Work"
+title: "10.43.40 Social Work"
 description: "Market > College Programs > NorQuest College > Social Work: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.40 Social Work
+# 10.43.40 Social Work
 
 ## Glossary
 

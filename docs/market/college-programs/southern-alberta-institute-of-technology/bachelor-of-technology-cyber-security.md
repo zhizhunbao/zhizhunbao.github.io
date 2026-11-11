@@ -1,10 +1,10 @@
 ---
-title: "10.62.22 Bachelor of Technology – Cyber Security"
+title: "10.63.22 Bachelor of Technology – Cyber Security"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Technology – Cyber Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.22 Bachelor of Technology – Cyber Security
+# 10.63.22 Bachelor of Technology – Cyber Security
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.16.89 Rehabilitation Assistant (OTA & PTA)"
+title: "10.17.89 Rehabilitation Assistant (OTA & PTA)"
 description: "Market > College Programs > College of the North Atlantic > Rehabilitation Assistant (OTA & PTA): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.89 Rehabilitation Assistant (OTA & PTA)
+# 10.17.89 Rehabilitation Assistant (OTA & PTA)
 
 ## Glossary
 

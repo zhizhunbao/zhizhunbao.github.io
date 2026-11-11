@@ -1,10 +1,10 @@
 ---
-title: "10.38.4 Advanced Accounting"
+title: "10.39.4 Advanced Accounting"
 description: "Market > College Programs > Medicine Hat College > Advanced Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.4 Advanced Accounting
+# 10.39.4 Advanced Accounting
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.20.46 Financial Planning"
+title: "10.21.46 Financial Planning"
 description: "Market > College Programs > Douglas College > Financial Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.46 Financial Planning
+# 10.21.46 Financial Planning
 
 ## Glossary
 

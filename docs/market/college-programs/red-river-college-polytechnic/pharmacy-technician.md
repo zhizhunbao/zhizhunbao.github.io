@@ -1,10 +1,10 @@
 ---
-title: "10.55.56 Pharmacy Technician"
+title: "10.56.56 Pharmacy Technician"
 description: "Market > College Programs > Red River College Polytechnic > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.56 Pharmacy Technician
+# 10.56.56 Pharmacy Technician
 
 ## Glossary
 

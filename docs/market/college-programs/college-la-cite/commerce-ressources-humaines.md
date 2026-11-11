@@ -1,10 +1,10 @@
 ---
-title: "10.14.37 Commerce – ressources humaines"
+title: "10.15.37 Commerce – ressources humaines"
 description: "Market > College Programs > Collège La Cité > Commerce – ressources humaines: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.37 Commerce – ressources humaines
+# 10.15.37 Commerce – ressources humaines
 
 ## Glossary
 

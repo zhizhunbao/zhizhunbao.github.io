@@ -1,10 +1,10 @@
 ---
-title: "10.16.99 Television and Film Technical Production"
+title: "10.17.99 Television and Film Technical Production"
 description: "Market > College Programs > College of the North Atlantic > Television and Film Technical Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.99 Television and Film Technical Production
+# 10.17.99 Television and Film Technical Production
 
 ## Glossary
 

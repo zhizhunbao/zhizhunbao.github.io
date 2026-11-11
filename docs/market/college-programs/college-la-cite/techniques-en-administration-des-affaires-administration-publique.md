@@ -1,10 +1,10 @@
 ---
-title: "10.14.106 Techniques en administration des affaires – administration publique"
+title: "10.15.106 Techniques en administration des affaires – administration publique"
 description: "Market > College Programs > Collège La Cité > Techniques en administration des affaires – administration publique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.106 Techniques en administration des affaires – administration publique
+# 10.15.106 Techniques en administration des affaires – administration publique
 
 ## Glossary
 

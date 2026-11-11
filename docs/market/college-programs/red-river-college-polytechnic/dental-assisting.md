@@ -1,10 +1,10 @@
 ---
-title: "10.55.21 Dental Assisting"
+title: "10.56.21 Dental Assisting"
 description: "Market > College Programs > Red River College Polytechnic > Dental Assisting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.21 Dental Assisting
+# 10.56.21 Dental Assisting
 
 ## Glossary
 

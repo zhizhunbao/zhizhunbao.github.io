@@ -1,10 +1,10 @@
 ---
-title: "10.24.14 Cloud Computing Technologies"
+title: "10.25.14 Cloud Computing Technologies"
 description: "Market > College Programs > George Brown Polytechnic > Cloud Computing Technologies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.14 Cloud Computing Technologies
+# 10.25.14 Cloud Computing Technologies
 
 ## Glossary
 

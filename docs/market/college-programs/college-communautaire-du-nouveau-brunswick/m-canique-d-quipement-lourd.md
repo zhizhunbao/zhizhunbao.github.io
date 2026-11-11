@@ -1,10 +1,10 @@
 ---
-title: "10.12.25 Mécanique d’équipement lourd"
+title: "10.13.25 Mécanique d’équipement lourd"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Mécanique d’équipement lourd: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.25 Mécanique d’équipement lourd
+# 10.13.25 Mécanique d’équipement lourd
 
 ## Glossary
 

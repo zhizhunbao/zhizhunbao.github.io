@@ -1,10 +1,10 @@
 ---
-title: "10.49.18 Instrumentation Engineering Technology"
+title: "10.50.18 Instrumentation Engineering Technology"
 description: "Market > College Programs > Northwestern Polytechnic > Instrumentation Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.18 Instrumentation Engineering Technology
+# 10.50.18 Instrumentation Engineering Technology
 
 ## Glossary
 

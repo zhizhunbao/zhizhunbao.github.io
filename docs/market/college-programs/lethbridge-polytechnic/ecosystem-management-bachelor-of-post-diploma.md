@@ -1,10 +1,10 @@
 ---
-title: "10.34.26 Ecosystem Management - Bachelor of (Post-Diploma)"
+title: "10.35.26 Ecosystem Management - Bachelor of (Post-Diploma)"
 description: "Market > College Programs > Lethbridge Polytechnic > Ecosystem Management - Bachelor of (Post-Diploma): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.26 Ecosystem Management - Bachelor of (Post-Diploma)
+# 10.35.26 Ecosystem Management - Bachelor of (Post-Diploma)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.33.43 Early Childhood Education (Part-Time)"
+title: "10.34.43 Early Childhood Education (Part-Time)"
 description: "Market > College Programs > Langara College > Early Childhood Education (Part-Time): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.43 Early Childhood Education (Part-Time)
+# 10.34.43 Early Childhood Education (Part-Time)
 
 ## Glossary
 

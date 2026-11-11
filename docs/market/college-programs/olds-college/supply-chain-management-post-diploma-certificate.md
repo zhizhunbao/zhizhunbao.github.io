@@ -1,10 +1,10 @@
 ---
-title: "10.52.30 Supply Chain Management Post-Diploma Certificate"
+title: "10.53.30 Supply Chain Management Post-Diploma Certificate"
 description: "Market > College Programs > Olds College > Supply Chain Management Post-Diploma Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.30 Supply Chain Management Post-Diploma Certificate
+# 10.53.30 Supply Chain Management Post-Diploma Certificate
 
 ## Glossary
 

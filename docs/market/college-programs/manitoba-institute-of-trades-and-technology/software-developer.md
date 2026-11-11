@@ -1,10 +1,10 @@
 ---
-title: "10.37.31 Software Developer"
+title: "10.38.31 Software Developer"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Software Developer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.31 Software Developer
+# 10.38.31 Software Developer
 
 ## Glossary
 

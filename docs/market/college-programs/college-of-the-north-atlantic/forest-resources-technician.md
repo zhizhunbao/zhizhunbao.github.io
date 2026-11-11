@@ -1,10 +1,10 @@
 ---
-title: "10.16.45 Forest Resources Technician"
+title: "10.17.45 Forest Resources Technician"
 description: "Market > College Programs > College of the North Atlantic > Forest Resources Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.45 Forest Resources Technician
+# 10.17.45 Forest Resources Technician
 
 ## Glossary
 

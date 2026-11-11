@@ -1,10 +1,10 @@
 ---
-title: "10.14.72 Sciences des données appliquées"
+title: "10.15.72 Sciences des données appliquées"
 description: "Market > College Programs > Collège La Cité > Sciences des données appliquées: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.72 Sciences des données appliquées
+# 10.15.72 Sciences des données appliquées
 
 ## Glossary
 

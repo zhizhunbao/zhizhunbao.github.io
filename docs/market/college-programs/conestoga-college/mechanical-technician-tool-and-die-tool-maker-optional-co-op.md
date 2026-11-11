@@ -1,10 +1,10 @@
 ---
-title: "10.18.143 Mechanical Technician - Tool and Die/Tool Maker (Optional Co-op)"
+title: "10.19.143 Mechanical Technician - Tool and Die/Tool Maker (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Mechanical Technician - Tool and Die/Tool Maker (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.143 Mechanical Technician - Tool and Die/Tool Maker (Optional Co-op)
+# 10.19.143 Mechanical Technician - Tool and Die/Tool Maker (Optional Co-op)
 
 ## Glossary
 

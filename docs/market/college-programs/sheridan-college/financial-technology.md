@@ -1,10 +1,10 @@
 ---
-title: "10.60.43 Financial Technology"
+title: "10.61.43 Financial Technology"
 description: "Market > College Programs > Sheridan College > Financial Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.43 Financial Technology
+# 10.61.43 Financial Technology
 
 ## Glossary
 

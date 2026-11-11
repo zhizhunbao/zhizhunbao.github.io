@@ -1,10 +1,10 @@
 ---
-title: "10.25.157 Video and Motion Graphics Production"
+title: "10.26.157 Video and Motion Graphics Production"
 description: "Market > College Programs > Georgian College > Video and Motion Graphics Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.157 Video and Motion Graphics Production
+# 10.26.157 Video and Motion Graphics Production
 
 ## Glossary
 

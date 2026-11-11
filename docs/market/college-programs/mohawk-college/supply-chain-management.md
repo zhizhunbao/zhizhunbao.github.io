@@ -1,10 +1,10 @@
 ---
-title: "10.39.82 Supply Chain Management"
+title: "10.40.82 Supply Chain Management"
 description: "Market > College Programs > Mohawk College > Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.82 Supply Chain Management
+# 10.40.82 Supply Chain Management
 
 ## Glossary
 

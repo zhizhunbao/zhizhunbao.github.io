@@ -1,10 +1,10 @@
 ---
-title: "10.48.12 Millwright Foundations Certificate"
+title: "10.49.12 Millwright Foundations Certificate"
 description: "Market > College Programs > Northern Lights College > Millwright Foundations Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.12 Millwright Foundations Certificate
+# 10.49.12 Millwright Foundations Certificate
 
 ## Glossary
 

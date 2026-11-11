@@ -1,10 +1,10 @@
 ---
-title: "10.39.34 Computer Systems Technician - Software Support"
+title: "10.40.34 Computer Systems Technician - Software Support"
 description: "Market > College Programs > Mohawk College > Computer Systems Technician - Software Support: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.34 Computer Systems Technician - Software Support
+# 10.40.34 Computer Systems Technician - Software Support
 
 ## Glossary
 

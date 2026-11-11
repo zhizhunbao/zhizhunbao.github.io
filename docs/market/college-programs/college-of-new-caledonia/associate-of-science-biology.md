@@ -1,10 +1,10 @@
 ---
-title: "10.15.5 Associate of Science Biology"
+title: "10.16.5 Associate of Science Biology"
 description: "Market > College Programs > College of New Caledonia > Associate of Science Biology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.5 Associate of Science Biology
+# 10.16.5 Associate of Science Biology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.27.49 Sport and Recreation Management"
+title: "10.28.49 Sport and Recreation Management"
 description: "Market > College Programs > Holland College > Sport and Recreation Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.49 Sport and Recreation Management
+# 10.28.49 Sport and Recreation Management
 
 ## Glossary
 

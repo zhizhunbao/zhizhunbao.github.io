@@ -1,10 +1,10 @@
 ---
-title: "10.55.37 Health Information Management"
+title: "10.56.37 Health Information Management"
 description: "Market > College Programs > Red River College Polytechnic > Health Information Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.37 Health Information Management
+# 10.56.37 Health Information Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.66.47 Preparatory Music"
+title: "10.67.47 Preparatory Music"
 description: "Market > College Programs > Vancouver Community College > Preparatory Music: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.47 Preparatory Music
+# 10.67.47 Preparatory Music
 
 ## Glossary
 

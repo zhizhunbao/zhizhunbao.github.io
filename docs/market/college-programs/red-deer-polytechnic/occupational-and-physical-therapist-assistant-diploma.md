@@ -1,10 +1,10 @@
 ---
-title: "10.54.33 Occupational and Physical Therapist Assistant Diploma"
+title: "10.55.33 Occupational and Physical Therapist Assistant Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Occupational and Physical Therapist Assistant Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.33 Occupational and Physical Therapist Assistant Diploma
+# 10.55.33 Occupational and Physical Therapist Assistant Diploma
 
 ## Glossary
 

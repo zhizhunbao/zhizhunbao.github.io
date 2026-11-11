@@ -1,10 +1,10 @@
 ---
-title: "10.32.10 Artificial Intelligence & Machine Learning (AIMO)"
+title: "10.33.10 Artificial Intelligence & Machine Learning (AIMO)"
 description: "Market > College Programs > Lambton College > Artificial Intelligence & Machine Learning (AIMO): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.10 Artificial Intelligence & Machine Learning (AIMO)
+# 10.33.10 Artificial Intelligence & Machine Learning (AIMO)
 
 ## Glossary
 

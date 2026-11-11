@@ -1,10 +1,10 @@
 ---
-title: "10.55.14 Collision Repair and Refinishing"
+title: "10.56.14 Collision Repair and Refinishing"
 description: "Market > College Programs > Red River College Polytechnic > Collision Repair and Refinishing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.14 Collision Repair and Refinishing
+# 10.56.14 Collision Repair and Refinishing
 
 ## Glossary
 

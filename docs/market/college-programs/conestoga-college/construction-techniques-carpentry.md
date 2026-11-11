@@ -1,10 +1,10 @@
 ---
-title: "10.18.76 Construction Techniques (Carpentry)"
+title: "10.19.76 Construction Techniques (Carpentry)"
 description: "Market > College Programs > Conestoga College > Construction Techniques (Carpentry): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.76 Construction Techniques (Carpentry)
+# 10.19.76 Construction Techniques (Carpentry)
 
 ## Glossary
 

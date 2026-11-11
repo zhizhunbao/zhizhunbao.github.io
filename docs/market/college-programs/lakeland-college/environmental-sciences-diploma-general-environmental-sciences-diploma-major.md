@@ -1,10 +1,10 @@
 ---
-title: "10.31.33 Environmental Sciences Diploma: General Environmental Sciences Diploma Major"
+title: "10.32.33 Environmental Sciences Diploma: General Environmental Sciences Diploma Major"
 description: "Market > College Programs > Lakeland College > Environmental Sciences Diploma: General Environmental Sciences Diploma Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.33 Environmental Sciences Diploma: General Environmental Sciences Diploma Major
+# 10.32.33 Environmental Sciences Diploma: General Environmental Sciences Diploma Major
 
 ## Glossary
 

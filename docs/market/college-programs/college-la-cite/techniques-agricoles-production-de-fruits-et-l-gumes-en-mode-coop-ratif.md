@@ -1,10 +1,10 @@
 ---
-title: "10.14.88 Techniques agricoles – production de fruits et légumes en mode coopératif"
+title: "10.15.88 Techniques agricoles – production de fruits et légumes en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Techniques agricoles – production de fruits et légumes en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.88 Techniques agricoles – production de fruits et légumes en mode coopératif
+# 10.15.88 Techniques agricoles – production de fruits et légumes en mode coopératif
 
 ## Glossary
 

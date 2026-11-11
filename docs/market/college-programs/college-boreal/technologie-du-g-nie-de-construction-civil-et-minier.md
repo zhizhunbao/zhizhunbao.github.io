@@ -1,10 +1,10 @@
 ---
-title: "10.11.59 Technologie du génie de construction – civil et minier"
+title: "10.12.59 Technologie du génie de construction – civil et minier"
 description: "Market > College Programs > Collège Boréal > Technologie du génie de construction – civil et minier: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.59 Technologie du génie de construction – civil et minier
+# 10.12.59 Technologie du génie de construction – civil et minier
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.20 Bachelor of Creative and Professional Writing"
+title: "10.29.20 Bachelor of Creative and Professional Writing"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Creative and Professional Writing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.20 Bachelor of Creative and Professional Writing
+# 10.29.20 Bachelor of Creative and Professional Writing
 
 ## Glossary
 

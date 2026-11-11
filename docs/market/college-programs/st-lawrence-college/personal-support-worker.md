@@ -1,10 +1,10 @@
 ---
-title: "10.64.62 Personal Support Worker"
+title: "10.65.62 Personal Support Worker"
 description: "Market > College Programs > St. Lawrence College > Personal Support Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.62 Personal Support Worker
+# 10.65.62 Personal Support Worker
 
 ## Glossary
 

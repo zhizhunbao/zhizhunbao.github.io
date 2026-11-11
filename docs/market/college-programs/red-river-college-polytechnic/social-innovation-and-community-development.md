@@ -1,10 +1,10 @@
 ---
-title: "10.55.62 Social Innovation and Community Development"
+title: "10.56.62 Social Innovation and Community Development"
 description: "Market > College Programs > Red River College Polytechnic > Social Innovation and Community Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.62 Social Innovation and Community Development
+# 10.56.62 Social Innovation and Community Development
 
 ## Glossary
 

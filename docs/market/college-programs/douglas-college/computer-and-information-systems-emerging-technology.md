@@ -1,10 +1,10 @@
 ---
-title: "10.20.32 Computer and Information Systems, Emerging Technology"
+title: "10.21.32 Computer and Information Systems, Emerging Technology"
 description: "Market > College Programs > Douglas College > Computer and Information Systems, Emerging Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.32 Computer and Information Systems, Emerging Technology
+# 10.21.32 Computer and Information Systems, Emerging Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.34.50 Pre-Pipe Trades Certificate"
+title: "10.35.50 Pre-Pipe Trades Certificate"
 description: "Market > College Programs > Lethbridge Polytechnic > Pre-Pipe Trades Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.50 Pre-Pipe Trades Certificate
+# 10.35.50 Pre-Pipe Trades Certificate
 
 ## Glossary
 

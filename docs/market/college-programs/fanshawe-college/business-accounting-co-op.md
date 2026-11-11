@@ -1,10 +1,10 @@
 ---
-title: "10.22.27 Business - Accounting (Co-op)"
+title: "10.23.27 Business - Accounting (Co-op)"
 description: "Market > College Programs > Fanshawe College > Business - Accounting (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.27 Business - Accounting (Co-op)
+# 10.23.27 Business - Accounting (Co-op)
 
 ## Glossary
 

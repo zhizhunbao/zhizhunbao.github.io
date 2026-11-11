@@ -1,10 +1,10 @@
 ---
-title: "10.36.6 Health Care Aide Certificate Program"
+title: "10.37.6 Health Care Aide Certificate Program"
 description: "Market > College Programs > MaKami College > Health Care Aide Certificate Program: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.6 Health Care Aide Certificate Program
+# 10.37.6 Health Care Aide Certificate Program
 
 ## Glossary
 

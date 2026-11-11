@@ -1,10 +1,10 @@
 ---
-title: "10.33.82 Peace & Conflict Studies (peace-conflict-studies-diploma-arts-and-science)"
+title: "10.34.82 Peace & Conflict Studies (peace-conflict-studies-diploma-arts-and-science)"
 description: "Market > College Programs > Langara College > Peace & Conflict Studies (peace-conflict-studies-diploma-arts-and-science): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.82 Peace & Conflict Studies (peace-conflict-studies-diploma-arts-and-science)
+# 10.34.82 Peace & Conflict Studies (peace-conflict-studies-diploma-arts-and-science)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.55 Computer Programmer (CPCT)"
+title: "10.33.55 Computer Programmer (CPCT)"
 description: "Market > College Programs > Lambton College > Computer Programmer (CPCT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.55 Computer Programmer (CPCT)
+# 10.33.55 Computer Programmer (CPCT)
 
 ## Glossary
 

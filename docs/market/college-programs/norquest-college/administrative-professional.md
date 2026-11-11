@@ -1,10 +1,10 @@
 ---
-title: "10.42.3 Administrative Professional"
+title: "10.43.3 Administrative Professional"
 description: "Market > College Programs > NorQuest College > Administrative Professional: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.3 Administrative Professional
+# 10.43.3 Administrative Professional
 
 ## Glossary
 

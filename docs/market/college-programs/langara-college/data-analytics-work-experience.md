@@ -1,10 +1,10 @@
 ---
-title: "10.33.38 Data Analytics [Work Experience]"
+title: "10.34.38 Data Analytics [Work Experience]"
 description: "Market > College Programs > Langara College > Data Analytics [Work Experience]: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.38 Data Analytics [Work Experience]
+# 10.34.38 Data Analytics [Work Experience]
 
 ## Glossary
 

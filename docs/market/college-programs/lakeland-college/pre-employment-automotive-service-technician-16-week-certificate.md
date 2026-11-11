@@ -1,10 +1,10 @@
 ---
-title: "10.31.42 Pre-employment Automotive Service Technician, 16-week Certificate"
+title: "10.32.42 Pre-employment Automotive Service Technician, 16-week Certificate"
 description: "Market > College Programs > Lakeland College > Pre-employment Automotive Service Technician, 16-week Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.42 Pre-employment Automotive Service Technician, 16-week Certificate
+# 10.32.42 Pre-employment Automotive Service Technician, 16-week Certificate
 
 ## Glossary
 

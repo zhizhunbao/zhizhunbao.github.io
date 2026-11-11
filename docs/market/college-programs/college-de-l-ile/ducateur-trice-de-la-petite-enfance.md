@@ -1,10 +1,10 @@
 ---
-title: "10.13.13 Éducateur-trice de la petite enfance"
+title: "10.14.13 Éducateur-trice de la petite enfance"
 description: "Market > College Programs > Collège de l'Île > Éducateur-trice de la petite enfance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.13 Éducateur-trice de la petite enfance
+# 10.14.13 Éducateur-trice de la petite enfance
 
 ## Glossary
 

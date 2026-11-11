@@ -1,10 +1,10 @@
 ---
-title: "10.59.132 Opticianry"
+title: "10.60.132 Opticianry"
 description: "Market > College Programs > Seneca Polytechnic > Opticianry: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.132 Opticianry
+# 10.60.132 Opticianry
 
 ## Glossary
 

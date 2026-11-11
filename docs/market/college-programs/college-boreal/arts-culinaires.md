@@ -1,10 +1,10 @@
 ---
-title: "10.11.4 Arts culinaires"
+title: "10.12.4 Arts culinaires"
 description: "Market > College Programs > Collège Boréal > Arts culinaires: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.4 Arts culinaires
+# 10.12.4 Arts culinaires
 
 ## Glossary
 

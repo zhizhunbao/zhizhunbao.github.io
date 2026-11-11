@@ -1,10 +1,10 @@
 ---
-title: "10.49.29 Visual Arts & Design"
+title: "10.50.29 Visual Arts & Design"
 description: "Market > College Programs > Northwestern Polytechnic > Visual Arts & Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.29 Visual Arts & Design
+# 10.50.29 Visual Arts & Design
 
 ## Glossary
 

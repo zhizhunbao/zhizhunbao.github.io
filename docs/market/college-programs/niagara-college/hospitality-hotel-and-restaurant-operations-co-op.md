@@ -1,10 +1,10 @@
 ---
-title: "10.41.59 Hospitality – Hotel and Restaurant Operations (Co-op)"
+title: "10.42.59 Hospitality – Hotel and Restaurant Operations (Co-op)"
 description: "Market > College Programs > Niagara College > Hospitality – Hotel and Restaurant Operations (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.59 Hospitality – Hotel and Restaurant Operations (Co-op)
+# 10.42.59 Hospitality – Hotel and Restaurant Operations (Co-op)
 
 ## Glossary
 

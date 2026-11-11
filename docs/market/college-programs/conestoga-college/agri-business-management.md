@@ -1,10 +1,10 @@
 ---
-title: "10.18.4 Agri-Business Management"
+title: "10.19.4 Agri-Business Management"
 description: "Market > College Programs > Conestoga College > Agri-Business Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.4 Agri-Business Management
+# 10.19.4 Agri-Business Management
 
 ## Glossary
 

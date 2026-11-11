@@ -1,10 +1,10 @@
 ---
-title: "10.62.5 Aircraft Structures Technician"
+title: "10.63.5 Aircraft Structures Technician"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Aircraft Structures Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.5 Aircraft Structures Technician
+# 10.63.5 Aircraft Structures Technician
 
 ## Glossary
 

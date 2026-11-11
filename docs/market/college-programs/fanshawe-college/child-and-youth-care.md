@@ -1,10 +1,10 @@
 ---
-title: "10.22.46 Child and Youth Care"
+title: "10.23.46 Child and Youth Care"
 description: "Market > College Programs > Fanshawe College > Child and Youth Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.46 Child and Youth Care
+# 10.23.46 Child and Youth Care
 
 ## Glossary
 

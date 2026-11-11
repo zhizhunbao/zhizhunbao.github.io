@@ -1,10 +1,10 @@
 ---
-title: "10.18.24 Bachelor of Engineering - Building Systems Engineering"
+title: "10.19.24 Bachelor of Engineering - Building Systems Engineering"
 description: "Market > College Programs > Conestoga College > Bachelor of Engineering - Building Systems Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.24 Bachelor of Engineering - Building Systems Engineering
+# 10.19.24 Bachelor of Engineering - Building Systems Engineering
 
 ## Glossary
 

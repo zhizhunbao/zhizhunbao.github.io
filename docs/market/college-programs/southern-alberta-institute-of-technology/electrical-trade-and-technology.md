@@ -1,10 +1,10 @@
 ---
-title: "10.62.54 Electrical Trade and Technology"
+title: "10.63.54 Electrical Trade and Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Electrical Trade and Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.54 Electrical Trade and Technology
+# 10.63.54 Electrical Trade and Technology
 
 ## Glossary
 

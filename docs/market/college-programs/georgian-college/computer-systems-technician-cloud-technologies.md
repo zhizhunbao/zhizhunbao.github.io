@@ -1,10 +1,10 @@
 ---
-title: "10.25.46 Computer Systems Technician - Cloud Technologies"
+title: "10.26.46 Computer Systems Technician - Cloud Technologies"
 description: "Market > College Programs > Georgian College > Computer Systems Technician - Cloud Technologies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.46 Computer Systems Technician - Cloud Technologies
+# 10.26.46 Computer Systems Technician - Cloud Technologies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.67 Mechanical Technician - CNC and Precision Machining"
+title: "10.25.67 Mechanical Technician - CNC and Precision Machining"
 description: "Market > College Programs > George Brown Polytechnic > Mechanical Technician - CNC and Precision Machining: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.67 Mechanical Technician - CNC and Precision Machining
+# 10.25.67 Mechanical Technician - CNC and Precision Machining
 
 ## Glossary
 

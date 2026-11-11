@@ -1,10 +1,10 @@
 ---
-title: "10.62.17 Bachelor of Business Administration - Management Major"
+title: "10.63.17 Bachelor of Business Administration - Management Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Business Administration - Management Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.17 Bachelor of Business Administration - Management Major
+# 10.63.17 Bachelor of Business Administration - Management Major
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.31.37 Firefighter Training Program, 3-month Certificate"
+title: "10.32.37 Firefighter Training Program, 3-month Certificate"
 description: "Market > College Programs > Lakeland College > Firefighter Training Program, 3-month Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.37 Firefighter Training Program, 3-month Certificate
+# 10.32.37 Firefighter Training Program, 3-month Certificate
 
 ## Glossary
 

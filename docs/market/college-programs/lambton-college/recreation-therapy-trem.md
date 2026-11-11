@@ -1,10 +1,10 @@
 ---
-title: "10.32.120 Recreation Therapy (TREM)"
+title: "10.33.120 Recreation Therapy (TREM)"
 description: "Market > College Programs > Lambton College > Recreation Therapy (TREM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.120 Recreation Therapy (TREM)
+# 10.33.120 Recreation Therapy (TREM)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.2 911 and Public Safety Communications"
+title: "10.23.2 911 and Public Safety Communications"
 description: "Market > College Programs > Fanshawe College > 911 and Public Safety Communications: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.2 911 and Public Safety Communications
+# 10.23.2 911 and Public Safety Communications
 
 ## Glossary
 

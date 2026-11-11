@@ -1,10 +1,10 @@
 ---
-title: "10.34.7 Agriculture Sciences - Agronomy"
+title: "10.35.7 Agriculture Sciences - Agronomy"
 description: "Market > College Programs > Lethbridge Polytechnic > Agriculture Sciences - Agronomy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.7 Agriculture Sciences - Agronomy
+# 10.35.7 Agriculture Sciences - Agronomy
 
 ## Glossary
 

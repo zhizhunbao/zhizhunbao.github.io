@@ -1,10 +1,10 @@
 ---
-title: "10.28.61 Early Childhood Education"
+title: "10.29.61 Early Childhood Education"
 description: "Market > College Programs > Humber Polytechnic > Early Childhood Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.61 Early Childhood Education
+# 10.29.61 Early Childhood Education
 
 ## Glossary
 

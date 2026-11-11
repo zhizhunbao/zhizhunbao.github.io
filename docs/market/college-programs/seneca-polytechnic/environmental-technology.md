@@ -1,10 +1,10 @@
 ---
-title: "10.59.60 Environmental Technology"
+title: "10.60.60 Environmental Technology"
 description: "Market > College Programs > Seneca Polytechnic > Environmental Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.60 Environmental Technology
+# 10.60.60 Environmental Technology
 
 ## Glossary
 

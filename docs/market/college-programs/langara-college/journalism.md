@@ -1,10 +1,10 @@
 ---
-title: "10.33.66 Journalism"
+title: "10.34.66 Journalism"
 description: "Market > College Programs > Langara College > Journalism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.66 Journalism
+# 10.34.66 Journalism
 
 ## Glossary
 

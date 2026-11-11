@@ -1,10 +1,10 @@
 ---
-title: "10.34.28 Engineering Design Technology"
+title: "10.35.28 Engineering Design Technology"
 description: "Market > College Programs > Lethbridge Polytechnic > Engineering Design Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.28 Engineering Design Technology
+# 10.35.28 Engineering Design Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.64.52 Massage Therapy"
+title: "10.65.52 Massage Therapy"
 description: "Market > College Programs > St. Lawrence College > Massage Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.52 Massage Therapy
+# 10.65.52 Massage Therapy
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.14.76 Services policiers et sécurité communautaire"
+title: "10.15.76 Services policiers et sécurité communautaire"
 description: "Market > College Programs > Collège La Cité > Services policiers et sécurité communautaire: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.76 Services policiers et sécurité communautaire
+# 10.15.76 Services policiers et sécurité communautaire
 
 ## Glossary
 

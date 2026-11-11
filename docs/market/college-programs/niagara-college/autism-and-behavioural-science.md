@@ -1,10 +1,10 @@
 ---
-title: "10.41.6 Autism and Behavioural Science"
+title: "10.42.6 Autism and Behavioural Science"
 description: "Market > College Programs > Niagara College > Autism and Behavioural Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.6 Autism and Behavioural Science
+# 10.42.6 Autism and Behavioural Science
 
 ## Glossary
 

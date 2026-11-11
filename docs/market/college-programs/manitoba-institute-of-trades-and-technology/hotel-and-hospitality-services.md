@@ -1,10 +1,10 @@
 ---
-title: "10.37.19 Hotel and Hospitality Services"
+title: "10.38.19 Hotel and Hospitality Services"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Hotel and Hospitality Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.19 Hotel and Hospitality Services
+# 10.38.19 Hotel and Hospitality Services
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.100 Millwright Mechanical Technician"
+title: "10.33.100 Millwright Mechanical Technician"
 description: "Market > College Programs > Lambton College > Millwright Mechanical Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.100 Millwright Mechanical Technician
+# 10.33.100 Millwright Mechanical Technician
 
 ## Glossary
 

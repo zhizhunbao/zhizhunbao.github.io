@@ -1,10 +1,10 @@
 ---
-title: "10.16.53 Heavy Duty Equipment Technician/Truck and Transport Mechanic"
+title: "10.17.53 Heavy Duty Equipment Technician/Truck and Transport Mechanic"
 description: "Market > College Programs > College of the North Atlantic > Heavy Duty Equipment Technician/Truck and Transport Mechanic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.53 Heavy Duty Equipment Technician/Truck and Transport Mechanic
+# 10.17.53 Heavy Duty Equipment Technician/Truck and Transport Mechanic
 
 ## Glossary
 

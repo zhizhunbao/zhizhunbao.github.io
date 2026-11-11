@@ -1,10 +1,10 @@
 ---
-title: "10.41.13 Business Administration – Human Resources (Co-op)"
+title: "10.42.13 Business Administration – Human Resources (Co-op)"
 description: "Market > College Programs > Niagara College > Business Administration – Human Resources (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.13 Business Administration – Human Resources (Co-op)
+# 10.42.13 Business Administration – Human Resources (Co-op)
 
 ## Glossary
 

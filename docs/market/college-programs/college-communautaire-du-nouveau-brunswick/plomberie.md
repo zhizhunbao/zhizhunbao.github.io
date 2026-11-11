@@ -1,10 +1,10 @@
 ---
-title: "10.12.28 Plomberie"
+title: "10.13.28 Plomberie"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Plomberie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.28 Plomberie
+# 10.13.28 Plomberie
 
 ## Glossary
 

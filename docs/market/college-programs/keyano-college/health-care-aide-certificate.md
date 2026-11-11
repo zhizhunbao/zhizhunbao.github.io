@@ -1,10 +1,10 @@
 ---
-title: "10.30.19 Health Care Aide Certificate"
+title: "10.31.19 Health Care Aide Certificate"
 description: "Market > College Programs > Keyano College > Health Care Aide Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.19 Health Care Aide Certificate
+# 10.31.19 Health Care Aide Certificate
 
 ## Glossary
 

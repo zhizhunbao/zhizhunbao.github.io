@@ -1,10 +1,10 @@
 ---
-title: "10.21.64 General Arts and Science – General Certificate"
+title: "10.22.64 General Arts and Science – General Certificate"
 description: "Market > College Programs > Durham College > General Arts and Science – General Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.64 General Arts and Science – General Certificate
+# 10.22.64 General Arts and Science – General Certificate
 
 ## Glossary
 

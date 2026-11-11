@@ -1,10 +1,10 @@
 ---
-title: "10.15.42 Welder Foundation"
+title: "10.16.42 Welder Foundation"
 description: "Market > College Programs > College of New Caledonia > Welder Foundation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.42 Welder Foundation
+# 10.16.42 Welder Foundation
 
 ## Glossary
 

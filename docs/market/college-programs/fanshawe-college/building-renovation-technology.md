@@ -1,10 +1,10 @@
 ---
-title: "10.22.23 Building Renovation Technology"
+title: "10.23.23 Building Renovation Technology"
 description: "Market > College Programs > Fanshawe College > Building Renovation Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.23 Building Renovation Technology
+# 10.23.23 Building Renovation Technology
 
 ## Glossary
 

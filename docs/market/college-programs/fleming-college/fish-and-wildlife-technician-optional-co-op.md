@@ -1,10 +1,10 @@
 ---
-title: "10.23.37 Fish and Wildlife Technician (Optional Co-op)"
+title: "10.24.37 Fish and Wildlife Technician (Optional Co-op)"
 description: "Market > College Programs > Fleming College > Fish and Wildlife Technician (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.37 Fish and Wildlife Technician (Optional Co-op)
+# 10.24.37 Fish and Wildlife Technician (Optional Co-op)
 
 ## Glossary
 

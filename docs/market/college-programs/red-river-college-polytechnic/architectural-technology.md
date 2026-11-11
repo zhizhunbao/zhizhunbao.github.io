@@ -1,10 +1,10 @@
 ---
-title: "10.55.5 Architectural Technology"
+title: "10.56.5 Architectural Technology"
 description: "Market > College Programs > Red River College Polytechnic > Architectural Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.5 Architectural Technology
+# 10.56.5 Architectural Technology
 
 ## Glossary
 

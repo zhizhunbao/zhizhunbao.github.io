@@ -1,10 +1,10 @@
 ---
-title: "10.51.23 Kinesiology Diploma"
+title: "10.52.23 Kinesiology Diploma"
 description: "Market > College Programs > Okanagan College > Kinesiology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.23 Kinesiology Diploma
+# 10.52.23 Kinesiology Diploma
 
 ## Glossary
 

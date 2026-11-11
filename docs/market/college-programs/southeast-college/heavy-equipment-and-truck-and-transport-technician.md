@@ -1,10 +1,10 @@
 ---
-title: "10.61.4 Heavy Equipment and Truck and Transport Technician"
+title: "10.62.4 Heavy Equipment and Truck and Transport Technician"
 description: "Market > College Programs > Southeast College > Heavy Equipment and Truck and Transport Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.61.4 Heavy Equipment and Truck and Transport Technician
+# 10.62.4 Heavy Equipment and Truck and Transport Technician
 
 ## Glossary
 

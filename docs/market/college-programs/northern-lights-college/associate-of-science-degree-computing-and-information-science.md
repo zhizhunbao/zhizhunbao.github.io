@@ -1,10 +1,10 @@
 ---
-title: "10.48.4 Associate of Science Degree (Computing and Information Science)"
+title: "10.49.4 Associate of Science Degree (Computing and Information Science)"
 description: "Market > College Programs > Northern Lights College > Associate of Science Degree (Computing and Information Science): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.4 Associate of Science Degree (Computing and Information Science)
+# 10.49.4 Associate of Science Degree (Computing and Information Science)
 
 ## Glossary
 

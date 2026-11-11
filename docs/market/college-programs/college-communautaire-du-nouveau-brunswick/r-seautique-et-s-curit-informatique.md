@@ -1,10 +1,10 @@
 ---
-title: "10.12.36 Réseautique et sécurité informatique"
+title: "10.13.36 Réseautique et sécurité informatique"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Réseautique et sécurité informatique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.36 Réseautique et sécurité informatique
+# 10.13.36 Réseautique et sécurité informatique
 
 ## Glossary
 

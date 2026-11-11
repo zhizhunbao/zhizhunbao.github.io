@@ -1,10 +1,10 @@
 ---
-title: "10.28.15 Bachelor of Commerce - International Business"
+title: "10.29.15 Bachelor of Commerce - International Business"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Commerce - International Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.15 Bachelor of Commerce - International Business
+# 10.29.15 Bachelor of Commerce - International Business
 
 ## Glossary
 

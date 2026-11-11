@@ -1,10 +1,10 @@
 ---
-title: "10.18.126 Information Technology Business Analysis"
+title: "10.19.126 Information Technology Business Analysis"
 description: "Market > College Programs > Conestoga College > Information Technology Business Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.126 Information Technology Business Analysis
+# 10.19.126 Information Technology Business Analysis
 
 ## Glossary
 

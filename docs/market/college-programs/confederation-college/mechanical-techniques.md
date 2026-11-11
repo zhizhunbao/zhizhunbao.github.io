@@ -1,10 +1,10 @@
 ---
-title: "10.19.52 Mechanical Techniques"
+title: "10.20.52 Mechanical Techniques"
 description: "Market > College Programs > Confederation College > Mechanical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.52 Mechanical Techniques
+# 10.20.52 Mechanical Techniques
 
 ## Glossary
 

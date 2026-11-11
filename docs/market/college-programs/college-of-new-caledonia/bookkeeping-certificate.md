@@ -1,10 +1,10 @@
 ---
-title: "10.15.9 Bookkeeping Certificate"
+title: "10.16.9 Bookkeeping Certificate"
 description: "Market > College Programs > College of New Caledonia > Bookkeeping Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.9 Bookkeeping Certificate
+# 10.16.9 Bookkeeping Certificate
 
 ## Glossary
 

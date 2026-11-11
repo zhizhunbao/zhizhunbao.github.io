@@ -1,10 +1,10 @@
 ---
-title: "10.57.58 Social Service Worker - Indigenous Specialization (Thunder Bay)"
+title: "10.58.58 Social Service Worker - Indigenous Specialization (Thunder Bay)"
 description: "Market > College Programs > Sault College > Social Service Worker - Indigenous Specialization (Thunder Bay): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.58 Social Service Worker - Indigenous Specialization (Thunder Bay)
+# 10.58.58 Social Service Worker - Indigenous Specialization (Thunder Bay)
 
 ## Glossary
 

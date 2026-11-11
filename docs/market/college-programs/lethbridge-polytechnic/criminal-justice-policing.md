@@ -1,10 +1,10 @@
 ---
-title: "10.34.19 Criminal Justice - Policing"
+title: "10.35.19 Criminal Justice - Policing"
 description: "Market > College Programs > Lethbridge Polytechnic > Criminal Justice - Policing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.19 Criminal Justice - Policing
+# 10.35.19 Criminal Justice - Policing
 
 ## Glossary
 

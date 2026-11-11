@@ -1,10 +1,10 @@
 ---
-title: "10.15.14 Criminology Diploma"
+title: "10.16.14 Criminology Diploma"
 description: "Market > College Programs > College of New Caledonia > Criminology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.14 Criminology Diploma
+# 10.16.14 Criminology Diploma
 
 ## Glossary
 

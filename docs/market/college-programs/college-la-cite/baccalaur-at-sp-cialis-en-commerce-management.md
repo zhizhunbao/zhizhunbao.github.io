@@ -1,10 +1,10 @@
 ---
-title: "10.14.27 Baccalauréat spécialisé en commerce – management"
+title: "10.15.27 Baccalauréat spécialisé en commerce – management"
 description: "Market > College Programs > Collège La Cité > Baccalauréat spécialisé en commerce – management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.27 Baccalauréat spécialisé en commerce – management
+# 10.15.27 Baccalauréat spécialisé en commerce – management
 
 ## Glossary
 

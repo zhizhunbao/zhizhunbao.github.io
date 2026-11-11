@@ -1,10 +1,10 @@
 ---
-title: "10.40.69 Practical Nurse"
+title: "10.41.69 Practical Nurse"
 description: "Market > College Programs > New Brunswick Community College > Practical Nurse: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.69 Practical Nurse
+# 10.41.69 Practical Nurse
 
 ## Glossary
 

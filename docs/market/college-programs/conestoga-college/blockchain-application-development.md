@@ -1,10 +1,10 @@
 ---
-title: "10.18.39 Blockchain Application Development"
+title: "10.19.39 Blockchain Application Development"
 description: "Market > College Programs > Conestoga College > Blockchain Application Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.39 Blockchain Application Development
+# 10.19.39 Blockchain Application Development
 
 ## Glossary
 

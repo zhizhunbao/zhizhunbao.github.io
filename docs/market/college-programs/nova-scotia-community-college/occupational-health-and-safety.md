@@ -1,10 +1,10 @@
 ---
-title: "10.50.102 Occupational Health and Safety"
+title: "10.51.102 Occupational Health and Safety"
 description: "Market > College Programs > Nova Scotia Community College > Occupational Health and Safety: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.102 Occupational Health and Safety
+# 10.51.102 Occupational Health and Safety
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.12.39 Soins infirmiers auxiliaires"
+title: "10.13.39 Soins infirmiers auxiliaires"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Soins infirmiers auxiliaires: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.39 Soins infirmiers auxiliaires
+# 10.13.39 Soins infirmiers auxiliaires
 
 ## Glossary
 

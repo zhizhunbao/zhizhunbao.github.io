@@ -1,10 +1,10 @@
 ---
-title: "10.28.50 Computer Programming and Analysis"
+title: "10.29.50 Computer Programming and Analysis"
 description: "Market > College Programs > Humber Polytechnic > Computer Programming and Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.50 Computer Programming and Analysis
+# 10.29.50 Computer Programming and Analysis
 
 ## Glossary
 

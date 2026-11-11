@@ -1,10 +1,10 @@
 ---
-title: "10.41.57 Horticulture Technician – Landscape"
+title: "10.42.57 Horticulture Technician – Landscape"
 description: "Market > College Programs > Niagara College > Horticulture Technician – Landscape: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.57 Horticulture Technician – Landscape
+# 10.42.57 Horticulture Technician – Landscape
 
 ## Glossary
 

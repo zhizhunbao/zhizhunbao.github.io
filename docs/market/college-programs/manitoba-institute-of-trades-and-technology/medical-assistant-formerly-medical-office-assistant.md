@@ -1,10 +1,10 @@
 ---
-title: "10.37.24 Medical Assistant (formerly Medical Office Assistant)"
+title: "10.38.24 Medical Assistant (formerly Medical Office Assistant)"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Medical Assistant (formerly Medical Office Assistant): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.24 Medical Assistant (formerly Medical Office Assistant)
+# 10.38.24 Medical Assistant (formerly Medical Office Assistant)
 
 ## Glossary
 

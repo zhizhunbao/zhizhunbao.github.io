@@ -1,10 +1,10 @@
 ---
-title: "10.55.4 Applied Data Science and Artificial Intelligence"
+title: "10.56.4 Applied Data Science and Artificial Intelligence"
 description: "Market > College Programs > Red River College Polytechnic > Applied Data Science and Artificial Intelligence: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.4 Applied Data Science and Artificial Intelligence
+# 10.56.4 Applied Data Science and Artificial Intelligence
 
 ## Glossary
 

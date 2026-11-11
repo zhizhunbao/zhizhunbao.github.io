@@ -1,10 +1,10 @@
 ---
-title: "10.35.40 Medical Radiation Technology (MRT)"
+title: "10.36.40 Medical Radiation Technology (MRT)"
 description: "Market > College Programs > Loyalist College > Medical Radiation Technology (MRT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.40 Medical Radiation Technology (MRT)
+# 10.36.40 Medical Radiation Technology (MRT)
 
 ## Glossary
 

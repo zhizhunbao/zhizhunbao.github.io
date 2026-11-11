@@ -1,10 +1,10 @@
 ---
-title: "10.50.122 Sheet Metal Systems"
+title: "10.51.122 Sheet Metal Systems"
 description: "Market > College Programs > Nova Scotia Community College > Sheet Metal Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.122 Sheet Metal Systems
+# 10.51.122 Sheet Metal Systems
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50.33 Continuing Care"
+title: "10.51.33 Continuing Care"
 description: "Market > College Programs > Nova Scotia Community College > Continuing Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.33 Continuing Care
+# 10.51.33 Continuing Care
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.60.9 Architectural Technology – Sustainable Design"
+title: "10.61.9 Architectural Technology – Sustainable Design"
 description: "Market > College Programs > Sheridan College > Architectural Technology – Sustainable Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.9 Architectural Technology – Sustainable Design
+# 10.61.9 Architectural Technology – Sustainable Design
 
 ## Glossary
 

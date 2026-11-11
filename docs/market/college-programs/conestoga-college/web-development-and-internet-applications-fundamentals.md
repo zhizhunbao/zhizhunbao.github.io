@@ -1,10 +1,10 @@
 ---
-title: "10.18.199 Web Development and Internet Applications Fundamentals"
+title: "10.19.199 Web Development and Internet Applications Fundamentals"
 description: "Market > College Programs > Conestoga College > Web Development and Internet Applications Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.199 Web Development and Internet Applications Fundamentals
+# 10.19.199 Web Development and Internet Applications Fundamentals
 
 ## Glossary
 

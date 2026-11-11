@@ -1,10 +1,10 @@
 ---
-title: "10.66.15 Computer Systems Technology"
+title: "10.67.15 Computer Systems Technology"
 description: "Market > College Programs > Vancouver Community College > Computer Systems Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.15 Computer Systems Technology
+# 10.67.15 Computer Systems Technology
 
 ## Glossary
 

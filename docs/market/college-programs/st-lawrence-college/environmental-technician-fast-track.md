@@ -1,10 +1,10 @@
 ---
-title: "10.64.39 Environmental Technician (Fast Track)"
+title: "10.65.39 Environmental Technician (Fast Track)"
 description: "Market > College Programs > St. Lawrence College > Environmental Technician (Fast Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.39 Environmental Technician (Fast Track)
+# 10.65.39 Environmental Technician (Fast Track)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.70 Event Management"
+title: "10.26.70 Event Management"
 description: "Market > College Programs > Georgian College > Event Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.70 Event Management
+# 10.26.70 Event Management
 
 ## Glossary
 

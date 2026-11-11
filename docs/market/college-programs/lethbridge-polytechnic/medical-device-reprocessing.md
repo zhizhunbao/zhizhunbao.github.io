@@ -1,10 +1,10 @@
 ---
-title: "10.34.39 Medical Device Reprocessing"
+title: "10.35.39 Medical Device Reprocessing"
 description: "Market > College Programs > Lethbridge Polytechnic > Medical Device Reprocessing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.39 Medical Device Reprocessing
+# 10.35.39 Medical Device Reprocessing
 
 ## Glossary
 

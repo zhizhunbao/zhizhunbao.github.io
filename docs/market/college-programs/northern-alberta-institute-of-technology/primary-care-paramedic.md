@@ -1,10 +1,10 @@
 ---
-title: "10.45.93 Primary Care Paramedic"
+title: "10.46.93 Primary Care Paramedic"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Primary Care Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.93 Primary Care Paramedic
+# 10.46.93 Primary Care Paramedic
 
 ## Glossary
 

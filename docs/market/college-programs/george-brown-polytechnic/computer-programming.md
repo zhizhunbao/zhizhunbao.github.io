@@ -1,10 +1,10 @@
 ---
-title: "10.24.17 Computer Programming"
+title: "10.25.17 Computer Programming"
 description: "Market > College Programs > George Brown Polytechnic > Computer Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.17 Computer Programming
+# 10.25.17 Computer Programming
 
 ## Glossary
 

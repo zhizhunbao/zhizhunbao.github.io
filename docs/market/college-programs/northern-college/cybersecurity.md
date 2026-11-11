@@ -1,10 +1,10 @@
 ---
-title: "10.46.14 Cybersecurity"
+title: "10.47.14 Cybersecurity"
 description: "Market > College Programs > Northern College > Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.14 Cybersecurity
+# 10.47.14 Cybersecurity
 
 ## Glossary
 

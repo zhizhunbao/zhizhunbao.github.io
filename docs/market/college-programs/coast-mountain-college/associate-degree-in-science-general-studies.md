@@ -1,10 +1,10 @@
 ---
-title: "10.10.4 Associate Degree in Science - General Studies"
+title: "10.11.4 Associate Degree in Science - General Studies"
 description: "Market > College Programs > Coast Mountain College > Associate Degree in Science - General Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.4 Associate Degree in Science - General Studies
+# 10.11.4 Associate Degree in Science - General Studies
 
 ## Glossary
 

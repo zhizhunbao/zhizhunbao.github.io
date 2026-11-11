@@ -1,10 +1,10 @@
 ---
-title: "10.35.7 Biotechnology"
+title: "10.36.7 Biotechnology"
 description: "Market > College Programs > Loyalist College > Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.7 Biotechnology
+# 10.36.7 Biotechnology
 
 ## Glossary
 

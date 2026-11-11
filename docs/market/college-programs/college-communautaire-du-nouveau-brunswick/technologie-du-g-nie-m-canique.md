@@ -1,10 +1,10 @@
 ---
-title: "10.12.60 Technologie du génie mécanique"
+title: "10.13.60 Technologie du génie mécanique"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technologie du génie mécanique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.60 Technologie du génie mécanique
+# 10.13.60 Technologie du génie mécanique
 
 ## Glossary
 

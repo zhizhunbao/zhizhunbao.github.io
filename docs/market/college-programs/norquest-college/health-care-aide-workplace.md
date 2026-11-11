@@ -1,10 +1,10 @@
 ---
-title: "10.42.24 Health Care Aide Workplace"
+title: "10.43.24 Health Care Aide Workplace"
 description: "Market > College Programs > NorQuest College > Health Care Aide Workplace: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.24 Health Care Aide Workplace
+# 10.43.24 Health Care Aide Workplace
 
 ## Glossary
 

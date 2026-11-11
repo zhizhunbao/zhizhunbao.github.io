@@ -1,10 +1,10 @@
 ---
-title: "10.16.52 Heating Systems Technician"
+title: "10.17.52 Heating Systems Technician"
 description: "Market > College Programs > College of the North Atlantic > Heating Systems Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.52 Heating Systems Technician
+# 10.17.52 Heating Systems Technician
 
 ## Glossary
 

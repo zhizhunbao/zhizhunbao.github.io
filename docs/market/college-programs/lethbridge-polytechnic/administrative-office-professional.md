@@ -1,10 +1,10 @@
 ---
-title: "10.34.2 Administrative Office Professional"
+title: "10.35.2 Administrative Office Professional"
 description: "Market > College Programs > Lethbridge Polytechnic > Administrative Office Professional: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.2 Administrative Office Professional
+# 10.35.2 Administrative Office Professional
 
 ## Glossary
 

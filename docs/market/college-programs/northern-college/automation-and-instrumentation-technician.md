@@ -1,10 +1,10 @@
 ---
-title: "10.46.3 Automation and Instrumentation Technician"
+title: "10.47.3 Automation and Instrumentation Technician"
 description: "Market > College Programs > Northern College > Automation and Instrumentation Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.3 Automation and Instrumentation Technician
+# 10.47.3 Automation and Instrumentation Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.31.43 Pre-employment Carpenter, 16-week certificate"
+title: "10.32.43 Pre-employment Carpenter, 16-week certificate"
 description: "Market > College Programs > Lakeland College > Pre-employment Carpenter, 16-week certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.43 Pre-employment Carpenter, 16-week certificate
+# 10.32.43 Pre-employment Carpenter, 16-week certificate
 
 ## Glossary
 

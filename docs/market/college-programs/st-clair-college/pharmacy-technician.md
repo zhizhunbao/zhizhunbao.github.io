@@ -1,10 +1,10 @@
 ---
-title: "10.63.90 Pharmacy Technician"
+title: "10.64.90 Pharmacy Technician"
 description: "Market > College Programs > St. Clair College > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.90 Pharmacy Technician
+# 10.64.90 Pharmacy Technician
 
 ## Glossary
 

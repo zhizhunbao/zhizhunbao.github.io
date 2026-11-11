@@ -1,10 +1,10 @@
 ---
-title: "10.16.22 Community and Therapeutic Recreation"
+title: "10.17.22 Community and Therapeutic Recreation"
 description: "Market > College Programs > College of the North Atlantic > Community and Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.22 Community and Therapeutic Recreation
+# 10.17.22 Community and Therapeutic Recreation
 
 ## Glossary
 

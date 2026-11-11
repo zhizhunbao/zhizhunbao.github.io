@@ -1,10 +1,10 @@
 ---
-title: "10.22.153 Recreation and Leisure Services"
+title: "10.23.153 Recreation and Leisure Services"
 description: "Market > College Programs > Fanshawe College > Recreation and Leisure Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.153 Recreation and Leisure Services
+# 10.23.153 Recreation and Leisure Services
 
 ## Glossary
 

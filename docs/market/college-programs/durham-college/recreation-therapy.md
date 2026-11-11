@@ -1,10 +1,10 @@
 ---
-title: "10.21.114 Recreation Therapy"
+title: "10.22.114 Recreation Therapy"
 description: "Market > College Programs > Durham College > Recreation Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.114 Recreation Therapy
+# 10.22.114 Recreation Therapy
 
 ## Glossary
 

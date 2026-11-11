@@ -1,10 +1,10 @@
 ---
-title: "10.21.116 Sport Administration (two-year)"
+title: "10.22.116 Sport Administration (two-year)"
 description: "Market > College Programs > Durham College > Sport Administration (two-year): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.116 Sport Administration (two-year)
+# 10.22.116 Sport Administration (two-year)
 
 ## Glossary
 

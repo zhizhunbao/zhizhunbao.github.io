@@ -1,10 +1,10 @@
 ---
-title: "10.34.8 Automotive Systems"
+title: "10.35.8 Automotive Systems"
 description: "Market > College Programs > Lethbridge Polytechnic > Automotive Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.8 Automotive Systems
+# 10.35.8 Automotive Systems
 
 ## Glossary
 

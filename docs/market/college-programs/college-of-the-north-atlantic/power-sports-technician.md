@@ -1,10 +1,10 @@
 ---
-title: "10.16.82 Power Sports Technician"
+title: "10.17.82 Power Sports Technician"
 description: "Market > College Programs > College of the North Atlantic > Power Sports Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.82 Power Sports Technician
+# 10.17.82 Power Sports Technician
 
 ## Glossary
 

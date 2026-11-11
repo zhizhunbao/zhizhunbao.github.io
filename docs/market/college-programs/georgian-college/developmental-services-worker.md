@@ -1,10 +1,10 @@
 ---
-title: "10.25.58 Developmental Services Worker"
+title: "10.26.58 Developmental Services Worker"
 description: "Market > College Programs > Georgian College > Developmental Services Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.58 Developmental Services Worker
+# 10.26.58 Developmental Services Worker
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.33 Langara College"
+title: "10.34 Langara College"
 description: "Market > College Programs > Langara College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33 Langara College
+# 10.34 Langara College
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.47.5 Child and Youth Care Diploma"
+title: "10.48.5 Child and Youth Care Diploma"
 description: "Market > College Programs > Northern Lakes College > Child and Youth Care Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.5 Child and Youth Care Diploma
+# 10.48.5 Child and Youth Care Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.30.16 Educational Assistant Certificate"
+title: "10.31.16 Educational Assistant Certificate"
 description: "Market > College Programs > Keyano College > Educational Assistant Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.16 Educational Assistant Certificate
+# 10.31.16 Educational Assistant Certificate
 
 ## Glossary
 

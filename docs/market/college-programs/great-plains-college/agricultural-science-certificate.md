@@ -1,10 +1,10 @@
 ---
-title: "10.26.1 Agricultural Science Certificate"
+title: "10.27.1 Agricultural Science Certificate"
 description: "Market > College Programs > Great Plains College > Agricultural Science Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.1 Agricultural Science Certificate
+# 10.27.1 Agricultural Science Certificate
 
 ## Glossary
 

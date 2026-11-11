@@ -1,10 +1,10 @@
 ---
-title: "10.33.27 Classical Studies"
+title: "10.34.27 Classical Studies"
 description: "Market > College Programs > Langara College > Classical Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.27 Classical Studies
+# 10.34.27 Classical Studies
 
 ## Glossary
 

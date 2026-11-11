@@ -1,10 +1,10 @@
 ---
-title: "10.32.126 Sports & Recreation Administration"
+title: "10.33.126 Sports & Recreation Administration"
 description: "Market > College Programs > Lambton College > Sports & Recreation Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.126 Sports & Recreation Administration
+# 10.33.126 Sports & Recreation Administration
 
 ## Glossary
 

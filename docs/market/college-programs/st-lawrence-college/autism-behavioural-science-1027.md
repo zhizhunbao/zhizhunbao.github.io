@@ -1,10 +1,10 @@
 ---
-title: "10.64.4 Autism & Behavioural Science (1027)"
+title: "10.65.4 Autism & Behavioural Science (1027)"
 description: "Market > College Programs > St. Lawrence College > Autism & Behavioural Science (1027): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.4 Autism & Behavioural Science (1027)
+# 10.65.4 Autism & Behavioural Science (1027)
 
 ## Glossary
 

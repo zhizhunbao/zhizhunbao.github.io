@@ -1,10 +1,10 @@
 ---
-title: "10.64.22 Community Integration through Co-operative Education (CICE)"
+title: "10.65.22 Community Integration through Co-operative Education (CICE)"
 description: "Market > College Programs > St. Lawrence College > Community Integration through Co-operative Education (CICE): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.22 Community Integration through Co-operative Education (CICE)
+# 10.65.22 Community Integration through Co-operative Education (CICE)
 
 ## Glossary
 

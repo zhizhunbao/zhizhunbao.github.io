@@ -1,10 +1,10 @@
 ---
-title: "10.57.30 Graphic Design - Digital Media"
+title: "10.58.30 Graphic Design - Digital Media"
 description: "Market > College Programs > Sault College > Graphic Design - Digital Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.30 Graphic Design - Digital Media
+# 10.58.30 Graphic Design - Digital Media
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.35.42 Motive Power Fundamentals – Parts and Counter Personnel"
+title: "10.36.42 Motive Power Fundamentals – Parts and Counter Personnel"
 description: "Market > College Programs > Loyalist College > Motive Power Fundamentals – Parts and Counter Personnel: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.42 Motive Power Fundamentals – Parts and Counter Personnel
+# 10.36.42 Motive Power Fundamentals – Parts and Counter Personnel
 
 ## Glossary
 

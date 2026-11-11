@@ -1,10 +1,10 @@
 ---
-title: "10.41.51 Greenhouse Technician (Co-op)"
+title: "10.42.51 Greenhouse Technician (Co-op)"
 description: "Market > College Programs > Niagara College > Greenhouse Technician (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.51 Greenhouse Technician (Co-op)
+# 10.42.51 Greenhouse Technician (Co-op)
 
 ## Glossary
 

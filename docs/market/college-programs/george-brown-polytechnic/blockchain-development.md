@@ -1,10 +1,10 @@
 ---
-title: "10.24.6 Blockchain Development"
+title: "10.25.6 Blockchain Development"
 description: "Market > College Programs > George Brown Polytechnic > Blockchain Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.6 Blockchain Development
+# 10.25.6 Blockchain Development
 
 ## Glossary
 

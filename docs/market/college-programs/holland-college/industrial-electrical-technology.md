@@ -1,10 +1,10 @@
 ---
-title: "10.27.31 Industrial Electrical Technology"
+title: "10.28.31 Industrial Electrical Technology"
 description: "Market > College Programs > Holland College > Industrial Electrical Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.31 Industrial Electrical Technology
+# 10.28.31 Industrial Electrical Technology
 
 ## Glossary
 

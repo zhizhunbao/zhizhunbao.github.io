@@ -1,10 +1,10 @@
 ---
-title: "10.35.43 Nursing – Honours Bachelor of Science"
+title: "10.36.43 Nursing – Honours Bachelor of Science"
 description: "Market > College Programs > Loyalist College > Nursing – Honours Bachelor of Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.43 Nursing – Honours Bachelor of Science
+# 10.36.43 Nursing – Honours Bachelor of Science
 
 ## Glossary
 

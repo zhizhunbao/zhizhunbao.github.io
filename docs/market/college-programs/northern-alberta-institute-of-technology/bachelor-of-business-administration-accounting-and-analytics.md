@@ -1,10 +1,10 @@
 ---
-title: "10.45.8 Bachelor of Business Administration - Accounting and Analytics"
+title: "10.46.8 Bachelor of Business Administration - Accounting and Analytics"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Bachelor of Business Administration - Accounting and Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.8 Bachelor of Business Administration - Accounting and Analytics
+# 10.46.8 Bachelor of Business Administration - Accounting and Analytics
 
 ## Glossary
 

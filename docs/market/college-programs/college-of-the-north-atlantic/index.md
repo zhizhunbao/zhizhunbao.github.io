@@ -1,10 +1,10 @@
 ---
-title: "10.16 College of the North Atlantic"
+title: "10.17 College of the North Atlantic"
 description: "Market > College Programs > College of the North Atlantic: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16 College of the North Atlantic
+# 10.17 College of the North Atlantic
 
 ## Glossary
 

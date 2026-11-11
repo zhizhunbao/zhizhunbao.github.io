@@ -1,10 +1,10 @@
 ---
-title: "10.21.125 Web Development"
+title: "10.22.125 Web Development"
 description: "Market > College Programs > Durham College > Web Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.125 Web Development
+# 10.22.125 Web Development
 
 ## Glossary
 

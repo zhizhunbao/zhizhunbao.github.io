@@ -1,10 +1,10 @@
 ---
-title: "10.59.64 Fashion Arts"
+title: "10.60.64 Fashion Arts"
 description: "Market > College Programs > Seneca Polytechnic > Fashion Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.64 Fashion Arts
+# 10.60.64 Fashion Arts
 
 ## Glossary
 

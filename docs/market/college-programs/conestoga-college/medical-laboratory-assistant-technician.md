@@ -1,10 +1,10 @@
 ---
-title: "10.18.149 Medical Laboratory Assistant/Technician"
+title: "10.19.149 Medical Laboratory Assistant/Technician"
 description: "Market > College Programs > Conestoga College > Medical Laboratory Assistant/Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.149 Medical Laboratory Assistant/Technician
+# 10.19.149 Medical Laboratory Assistant/Technician
 
 ## Glossary
 

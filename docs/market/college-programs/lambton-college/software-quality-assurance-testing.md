@@ -1,10 +1,10 @@
 ---
-title: "10.32.125 Software Quality Assurance & Testing"
+title: "10.33.125 Software Quality Assurance & Testing"
 description: "Market > College Programs > Lambton College > Software Quality Assurance & Testing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.125 Software Quality Assurance & Testing
+# 10.33.125 Software Quality Assurance & Testing
 
 ## Glossary
 

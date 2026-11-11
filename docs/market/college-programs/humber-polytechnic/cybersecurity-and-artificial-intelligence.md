@@ -1,10 +1,10 @@
 ---
-title: "10.28.56 Cybersecurity and Artificial Intelligence"
+title: "10.29.56 Cybersecurity and Artificial Intelligence"
 description: "Market > College Programs > Humber Polytechnic > Cybersecurity and Artificial Intelligence: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.56 Cybersecurity and Artificial Intelligence
+# 10.29.56 Cybersecurity and Artificial Intelligence
 
 ## Glossary
 

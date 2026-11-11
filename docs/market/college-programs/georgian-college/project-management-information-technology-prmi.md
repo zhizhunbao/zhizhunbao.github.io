@@ -1,10 +1,10 @@
 ---
-title: "10.25.144 Project Management - Information Technology (PRMI)"
+title: "10.26.144 Project Management - Information Technology (PRMI)"
 description: "Market > College Programs > Georgian College > Project Management - Information Technology (PRMI): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.144 Project Management - Information Technology (PRMI)
+# 10.26.144 Project Management - Information Technology (PRMI)
 
 ## Glossary
 

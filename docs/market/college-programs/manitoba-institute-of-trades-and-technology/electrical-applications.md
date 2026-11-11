@@ -1,10 +1,10 @@
 ---
-title: "10.37.11 Electrical Applications"
+title: "10.38.11 Electrical Applications"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Electrical Applications: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.11 Electrical Applications
+# 10.38.11 Electrical Applications
 
 ## Glossary
 

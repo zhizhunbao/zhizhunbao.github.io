@@ -1,10 +1,10 @@
 ---
-title: "10.14.62 Programme général d'arts et sciences – un an"
+title: "10.15.62 Programme général d'arts et sciences – un an"
 description: "Market > College Programs > Collège La Cité > Programme général d'arts et sciences – un an: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.62 Programme général d'arts et sciences – un an
+# 10.15.62 Programme général d'arts et sciences – un an
 
 ## Glossary
 

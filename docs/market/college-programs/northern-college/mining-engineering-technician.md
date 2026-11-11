@@ -1,10 +1,10 @@
 ---
-title: "10.46.37 Mining Engineering Technician"
+title: "10.47.37 Mining Engineering Technician"
 description: "Market > College Programs > Northern College > Mining Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.37 Mining Engineering Technician
+# 10.47.37 Mining Engineering Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.41.28 Construction Engineering Technology"
+title: "10.42.28 Construction Engineering Technology"
 description: "Market > College Programs > Niagara College > Construction Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.28 Construction Engineering Technology
+# 10.42.28 Construction Engineering Technology
 
 ## Glossary
 

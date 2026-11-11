@@ -1,10 +1,10 @@
 ---
-title: "10.13.8 Santé mentale et dépendances"
+title: "10.14.8 Santé mentale et dépendances"
 description: "Market > College Programs > Collège de l'Île > Santé mentale et dépendances: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.8 Santé mentale et dépendances
+# 10.14.8 Santé mentale et dépendances
 
 ## Glossary
 

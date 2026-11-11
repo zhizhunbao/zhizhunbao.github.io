@@ -1,10 +1,10 @@
 ---
-title: "10.50.11 Auto Body and Collision Repair"
+title: "10.51.11 Auto Body and Collision Repair"
 description: "Market > College Programs > Nova Scotia Community College > Auto Body and Collision Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.11 Auto Body and Collision Repair
+# 10.51.11 Auto Body and Collision Repair
 
 ## Glossary
 

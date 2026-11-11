@@ -1,10 +1,10 @@
 ---
-title: "10.26 Great Plains College"
+title: "10.27 Great Plains College"
 description: "Market > College Programs > Great Plains College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26 Great Plains College
+# 10.27 Great Plains College
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.45.51 Disaster and Emergency Management"
+title: "10.46.51 Disaster and Emergency Management"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Disaster and Emergency Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.51 Disaster and Emergency Management
+# 10.46.51 Disaster and Emergency Management
 
 ## Glossary
 

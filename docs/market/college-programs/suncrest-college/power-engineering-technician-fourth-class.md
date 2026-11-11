@@ -1,10 +1,10 @@
 ---
-title: "10.65.22 Power Engineering Technician (Fourth Class)"
+title: "10.66.22 Power Engineering Technician (Fourth Class)"
 description: "Market > College Programs > Suncrest College > Power Engineering Technician (Fourth Class): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.22 Power Engineering Technician (Fourth Class)
+# 10.66.22 Power Engineering Technician (Fourth Class)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.44 North West College"
+title: "10.45 North West College"
 description: "Market > College Programs > North West College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44 North West College
+# 10.45 North West College
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.40.37 Heavy Duty Equipment / Truck and Transport Repair"
+title: "10.41.37 Heavy Duty Equipment / Truck and Transport Repair"
 description: "Market > College Programs > New Brunswick Community College > Heavy Duty Equipment / Truck and Transport Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.37 Heavy Duty Equipment / Truck and Transport Repair
+# 10.41.37 Heavy Duty Equipment / Truck and Transport Repair
 
 ## Glossary
 

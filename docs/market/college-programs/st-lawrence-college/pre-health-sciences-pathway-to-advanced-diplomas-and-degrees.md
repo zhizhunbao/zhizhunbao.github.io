@@ -1,10 +1,10 @@
 ---
-title: "10.64.66 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees"
+title: "10.65.66 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees"
 description: "Market > College Programs > St. Lawrence College > Pre-Health Sciences Pathway to Advanced Diplomas and Degrees: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.66 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees
+# 10.65.66 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees
 
 ## Glossary
 

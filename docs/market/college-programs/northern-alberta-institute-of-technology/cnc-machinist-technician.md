@@ -1,10 +1,10 @@
 ---
-title: "10.45.34 CNC Machinist Technician"
+title: "10.46.34 CNC Machinist Technician"
 description: "Market > College Programs > Northern Alberta Institute of Technology > CNC Machinist Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.34 CNC Machinist Technician
+# 10.46.34 CNC Machinist Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.12 Bachelor of Commerce - Finance"
+title: "10.29.12 Bachelor of Commerce - Finance"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Commerce - Finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.12 Bachelor of Commerce - Finance
+# 10.29.12 Bachelor of Commerce - Finance
 
 ## Glossary
 

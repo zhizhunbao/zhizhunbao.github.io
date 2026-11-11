@@ -1,10 +1,10 @@
 ---
-title: "10.45.69 Laboratory Research and Biotechnology"
+title: "10.46.69 Laboratory Research and Biotechnology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Laboratory Research and Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.69 Laboratory Research and Biotechnology
+# 10.46.69 Laboratory Research and Biotechnology
 
 ## Glossary
 

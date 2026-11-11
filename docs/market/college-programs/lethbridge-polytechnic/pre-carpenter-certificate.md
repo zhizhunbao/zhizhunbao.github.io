@@ -1,10 +1,10 @@
 ---
-title: "10.34.48 Pre-Carpenter Certificate"
+title: "10.35.48 Pre-Carpenter Certificate"
 description: "Market > College Programs > Lethbridge Polytechnic > Pre-Carpenter Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.48 Pre-Carpenter Certificate
+# 10.35.48 Pre-Carpenter Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.13.3 Diplôme en gestion des entreprises et entrepreneuriat"
+title: "10.14.3 Diplôme en gestion des entreprises et entrepreneuriat"
 description: "Market > College Programs > Collège de l'Île > Diplôme en gestion des entreprises et entrepreneuriat: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.3 Diplôme en gestion des entreprises et entrepreneuriat
+# 10.14.3 Diplôme en gestion des entreprises et entrepreneuriat
 
 ## Glossary
 

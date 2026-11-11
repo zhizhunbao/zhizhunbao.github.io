@@ -1,10 +1,10 @@
 ---
-title: "10.23.56 Occupational Therapist Assistant and Physiotherapist Assistant (SLPOA)"
+title: "10.24.56 Occupational Therapist Assistant and Physiotherapist Assistant (SLPOA)"
 description: "Market > College Programs > Fleming College > Occupational Therapist Assistant and Physiotherapist Assistant (SLPOA): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.56 Occupational Therapist Assistant and Physiotherapist Assistant (SLPOA)
+# 10.24.56 Occupational Therapist Assistant and Physiotherapist Assistant (SLPOA)
 
 ## Glossary
 

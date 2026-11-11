@@ -1,10 +1,10 @@
 ---
-title: "10.43.15 Instrumentation and Electrical Automation Technician Diploma"
+title: "10.44.15 Instrumentation and Electrical Automation Technician Diploma"
 description: "Market > College Programs > North Island College > Instrumentation and Electrical Automation Technician Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.15 Instrumentation and Electrical Automation Technician Diploma
+# 10.44.15 Instrumentation and Electrical Automation Technician Diploma
 
 ## Glossary
 

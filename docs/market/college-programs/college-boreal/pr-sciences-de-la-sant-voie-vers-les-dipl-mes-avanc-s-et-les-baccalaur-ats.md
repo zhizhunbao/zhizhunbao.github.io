@@ -1,10 +1,10 @@
 ---
-title: "10.11.33 Présciences de la santé – voie vers les diplômes avancés et les baccalauréats"
+title: "10.12.33 Présciences de la santé – voie vers les diplômes avancés et les baccalauréats"
 description: "Market > College Programs > Collège Boréal > Présciences de la santé – voie vers les diplômes avancés et les baccalauréats: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.33 Présciences de la santé – voie vers les diplômes avancés et les baccalauréats
+# 10.12.33 Présciences de la santé – voie vers les diplômes avancés et les baccalauréats
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.35.35 Heating, Refrigeration and Air Conditioning Techniques"
+title: "10.36.35 Heating, Refrigeration and Air Conditioning Techniques"
 description: "Market > College Programs > Loyalist College > Heating, Refrigeration and Air Conditioning Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.35 Heating, Refrigeration and Air Conditioning Techniques
+# 10.36.35 Heating, Refrigeration and Air Conditioning Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.37.12 Electronics Technician"
+title: "10.38.12 Electronics Technician"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Electronics Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.12 Electronics Technician
+# 10.38.12 Electronics Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.16.73 Mental Health and Addictions"
+title: "10.17.73 Mental Health and Addictions"
 description: "Market > College Programs > College of the North Atlantic > Mental Health and Addictions: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.73 Mental Health and Addictions
+# 10.17.73 Mental Health and Addictions
 
 ## Glossary
 

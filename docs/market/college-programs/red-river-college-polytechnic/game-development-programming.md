@@ -1,10 +1,10 @@
 ---
-title: "10.55.32 Game Development - Programming"
+title: "10.56.32 Game Development - Programming"
 description: "Market > College Programs > Red River College Polytechnic > Game Development - Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.32 Game Development - Programming
+# 10.56.32 Game Development - Programming
 
 ## Glossary
 

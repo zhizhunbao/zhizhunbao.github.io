@@ -1,10 +1,10 @@
 ---
-title: "10.32.4 Advanced Project Management - Environmental"
+title: "10.33.4 Advanced Project Management - Environmental"
 description: "Market > College Programs > Lambton College > Advanced Project Management - Environmental: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.4 Advanced Project Management - Environmental
+# 10.33.4 Advanced Project Management - Environmental
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.62.80 Land Analyst"
+title: "10.63.80 Land Analyst"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Land Analyst: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.80 Land Analyst
+# 10.63.80 Land Analyst
 
 ## Glossary
 

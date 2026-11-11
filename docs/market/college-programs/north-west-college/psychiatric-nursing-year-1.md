@@ -1,10 +1,10 @@
 ---
-title: "10.44.17 Psychiatric Nursing - Year 1"
+title: "10.45.17 Psychiatric Nursing - Year 1"
 description: "Market > College Programs > North West College > Psychiatric Nursing - Year 1: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.17 Psychiatric Nursing - Year 1
+# 10.45.17 Psychiatric Nursing - Year 1
 
 ## Glossary
 

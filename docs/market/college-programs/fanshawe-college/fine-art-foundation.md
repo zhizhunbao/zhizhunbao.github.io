@@ -1,10 +1,10 @@
 ---
-title: "10.22.82 Fine Art Foundation"
+title: "10.23.82 Fine Art Foundation"
 description: "Market > College Programs > Fanshawe College > Fine Art Foundation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.82 Fine Art Foundation
+# 10.23.82 Fine Art Foundation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.54.31 Medical Laboratory Assistant Certificate"
+title: "10.55.31 Medical Laboratory Assistant Certificate"
 description: "Market > College Programs > Red Deer Polytechnic > Medical Laboratory Assistant Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.31 Medical Laboratory Assistant Certificate
+# 10.55.31 Medical Laboratory Assistant Certificate
 
 ## Glossary
 

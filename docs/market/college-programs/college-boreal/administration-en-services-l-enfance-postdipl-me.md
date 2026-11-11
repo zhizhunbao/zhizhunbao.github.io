@@ -1,10 +1,10 @@
 ---
-title: "10.11.2 Administration en services à l’enfance – POSTDIPLÔME"
+title: "10.12.2 Administration en services à l’enfance – POSTDIPLÔME"
 description: "Market > College Programs > Collège Boréal > Administration en services à l’enfance – POSTDIPLÔME: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.2 Administration en services à l’enfance – POSTDIPLÔME
+# 10.12.2 Administration en services à l’enfance – POSTDIPLÔME
 
 ## Glossary
 

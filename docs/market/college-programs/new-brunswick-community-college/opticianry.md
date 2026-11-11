@@ -1,10 +1,10 @@
 ---
-title: "10.40.63 Opticianry"
+title: "10.41.63 Opticianry"
 description: "Market > College Programs > New Brunswick Community College > Opticianry: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.63 Opticianry
+# 10.41.63 Opticianry
 
 ## Glossary
 

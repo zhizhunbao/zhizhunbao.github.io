@@ -1,10 +1,10 @@
 ---
-title: "10.12.69 Vente"
+title: "10.13.69 Vente"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Vente: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.69 Vente
+# 10.13.69 Vente
 
 ## Glossary
 

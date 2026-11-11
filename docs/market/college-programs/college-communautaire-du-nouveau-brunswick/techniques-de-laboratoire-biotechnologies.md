@@ -1,10 +1,10 @@
 ---
-title: "10.12.47 Techniques de laboratoire – Biotechnologies"
+title: "10.13.47 Techniques de laboratoire – Biotechnologies"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Techniques de laboratoire – Biotechnologies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.47 Techniques de laboratoire – Biotechnologies
+# 10.13.47 Techniques de laboratoire – Biotechnologies
 
 ## Glossary
 

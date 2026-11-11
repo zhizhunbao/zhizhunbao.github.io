@@ -1,10 +1,10 @@
 ---
-title: "10.24.81 Social Service Worker- Gender Based Violence"
+title: "10.25.81 Social Service Worker- Gender Based Violence"
 description: "Market > College Programs > George Brown Polytechnic > Social Service Worker- Gender Based Violence: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.81 Social Service Worker- Gender Based Violence
+# 10.25.81 Social Service Worker- Gender Based Violence
 
 ## Glossary
 

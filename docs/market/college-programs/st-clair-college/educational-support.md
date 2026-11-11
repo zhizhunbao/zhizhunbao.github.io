@@ -1,10 +1,10 @@
 ---
-title: "10.63.40 Educational Support"
+title: "10.64.40 Educational Support"
 description: "Market > College Programs > St. Clair College > Educational Support: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.40 Educational Support
+# 10.64.40 Educational Support
 
 ## Glossary
 

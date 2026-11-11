@@ -1,10 +1,10 @@
 ---
-title: "10.63.69 Mechanical Technician - CAD/CAM"
+title: "10.64.69 Mechanical Technician - CAD/CAM"
 description: "Market > College Programs > St. Clair College > Mechanical Technician - CAD/CAM: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.69 Mechanical Technician - CAD/CAM
+# 10.64.69 Mechanical Technician - CAD/CAM
 
 ## Glossary
 

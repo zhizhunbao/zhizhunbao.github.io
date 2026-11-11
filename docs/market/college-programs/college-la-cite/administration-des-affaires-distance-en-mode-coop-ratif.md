@@ -1,10 +1,10 @@
 ---
-title: "10.14.5 Administration des affaires à distance en mode coopératif"
+title: "10.15.5 Administration des affaires à distance en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Administration des affaires à distance en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.5 Administration des affaires à distance en mode coopératif
+# 10.15.5 Administration des affaires à distance en mode coopératif
 
 ## Glossary
 

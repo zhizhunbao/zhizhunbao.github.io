@@ -1,10 +1,10 @@
 ---
-title: "10.45.5 Applied AI"
+title: "10.46.5 Applied AI"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Applied AI: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.5 Applied AI
+# 10.46.5 Applied AI
 
 ## Glossary
 

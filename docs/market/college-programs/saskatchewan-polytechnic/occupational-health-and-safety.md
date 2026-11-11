@@ -1,10 +1,10 @@
 ---
-title: "10.56.47 Occupational Health and Safety"
+title: "10.57.47 Occupational Health and Safety"
 description: "Market > College Programs > Saskatchewan Polytechnic > Occupational Health and Safety: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.47 Occupational Health and Safety
+# 10.57.47 Occupational Health and Safety
 
 ## Glossary
 

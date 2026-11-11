@@ -1,10 +1,10 @@
 ---
-title: "10.25.59 Diagnostic Medical Sonography"
+title: "10.26.59 Diagnostic Medical Sonography"
 description: "Market > College Programs > Georgian College > Diagnostic Medical Sonography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.59 Diagnostic Medical Sonography
+# 10.26.59 Diagnostic Medical Sonography
 
 ## Glossary
 

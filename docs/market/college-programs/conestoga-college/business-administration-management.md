@@ -1,10 +1,10 @@
 ---
-title: "10.18.53 Business Administration - Management"
+title: "10.19.53 Business Administration - Management"
 description: "Market > College Programs > Conestoga College > Business Administration - Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.53 Business Administration - Management
+# 10.19.53 Business Administration - Management
 
 ## Glossary
 

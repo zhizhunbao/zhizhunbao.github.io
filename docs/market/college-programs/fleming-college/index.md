@@ -1,10 +1,10 @@
 ---
-title: "10.23 Fleming College"
+title: "10.24 Fleming College"
 description: "Market > College Programs > Fleming College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23 Fleming College
+# 10.24 Fleming College
 
 ## Glossary
 

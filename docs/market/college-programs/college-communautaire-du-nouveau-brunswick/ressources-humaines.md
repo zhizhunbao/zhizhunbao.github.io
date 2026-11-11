@@ -1,10 +1,10 @@
 ---
-title: "10.12.35 Ressources humaines"
+title: "10.13.35 Ressources humaines"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Ressources humaines: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.35 Ressources humaines
+# 10.13.35 Ressources humaines
 
 ## Glossary
 

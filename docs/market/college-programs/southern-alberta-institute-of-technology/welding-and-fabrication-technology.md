@@ -1,10 +1,10 @@
 ---
-title: "10.62.120 Welding and Fabrication Technology"
+title: "10.63.120 Welding and Fabrication Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Welding and Fabrication Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.120 Welding and Fabrication Technology
+# 10.63.120 Welding and Fabrication Technology
 
 ## Glossary
 

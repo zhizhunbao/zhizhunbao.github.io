@@ -1,10 +1,10 @@
 ---
-title: "10.57.31 Hairstyling"
+title: "10.58.31 Hairstyling"
 description: "Market > College Programs > Sault College > Hairstyling: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.31 Hairstyling
+# 10.58.31 Hairstyling
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.15 Bachelor of Commerce (Honours) - Financial Services"
+title: "10.19.15 Bachelor of Commerce (Honours) - Financial Services"
 description: "Market > College Programs > Conestoga College > Bachelor of Commerce (Honours) - Financial Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.15 Bachelor of Commerce (Honours) - Financial Services
+# 10.19.15 Bachelor of Commerce (Honours) - Financial Services
 
 ## Glossary
 

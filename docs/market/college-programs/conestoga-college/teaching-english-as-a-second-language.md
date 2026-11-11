@@ -1,10 +1,10 @@
 ---
-title: "10.18.190 Teaching English as a Second Language"
+title: "10.19.190 Teaching English as a Second Language"
 description: "Market > College Programs > Conestoga College > Teaching English as a Second Language: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.190 Teaching English as a Second Language
+# 10.19.190 Teaching English as a Second Language
 
 ## Glossary
 

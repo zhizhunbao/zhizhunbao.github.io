@@ -1,10 +1,10 @@
 ---
-title: "10.37.14 Global Supply Chain Management"
+title: "10.38.14 Global Supply Chain Management"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Global Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.14 Global Supply Chain Management
+# 10.38.14 Global Supply Chain Management
 
 ## Glossary
 

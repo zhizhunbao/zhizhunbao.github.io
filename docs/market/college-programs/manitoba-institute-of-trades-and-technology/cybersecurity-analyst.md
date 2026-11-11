@@ -1,10 +1,10 @@
 ---
-title: "10.37.9 Cybersecurity Analyst"
+title: "10.38.9 Cybersecurity Analyst"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Cybersecurity Analyst: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.9 Cybersecurity Analyst
+# 10.38.9 Cybersecurity Analyst
 
 ## Glossary
 

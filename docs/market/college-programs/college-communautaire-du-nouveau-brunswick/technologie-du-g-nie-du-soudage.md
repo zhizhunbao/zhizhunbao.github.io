@@ -1,10 +1,10 @@
 ---
-title: "10.12.59 Technologie du génie du soudage"
+title: "10.13.59 Technologie du génie du soudage"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technologie du génie du soudage: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.59 Technologie du génie du soudage
+# 10.13.59 Technologie du génie du soudage
 
 ## Glossary
 

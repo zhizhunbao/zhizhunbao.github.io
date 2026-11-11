@@ -1,10 +1,10 @@
 ---
-title: "10.11.50 Techniques du génie électrique"
+title: "10.12.50 Techniques du génie électrique"
 description: "Market > College Programs > Collège Boréal > Techniques du génie électrique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.50 Techniques du génie électrique
+# 10.12.50 Techniques du génie électrique
 
 ## Glossary
 

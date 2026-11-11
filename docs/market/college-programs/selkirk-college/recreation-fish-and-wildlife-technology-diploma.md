@@ -1,10 +1,10 @@
 ---
-title: "10.58.65 Recreation, Fish and Wildlife Technology - Diploma"
+title: "10.59.65 Recreation, Fish and Wildlife Technology - Diploma"
 description: "Market > College Programs > Selkirk College > Recreation, Fish and Wildlife Technology - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.65 Recreation, Fish and Wildlife Technology - Diploma
+# 10.59.65 Recreation, Fish and Wildlife Technology - Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.20 Business (BUSN)"
+title: "10.26.20 Business (BUSN)"
 description: "Market > College Programs > Georgian College > Business (BUSN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.20 Business (BUSN)
+# 10.26.20 Business (BUSN)
 
 ## Glossary
 

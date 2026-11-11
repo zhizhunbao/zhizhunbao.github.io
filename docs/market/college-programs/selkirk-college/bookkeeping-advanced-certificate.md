@@ -1,10 +1,10 @@
 ---
-title: "10.58.7 Bookkeeping - Advanced Certificate"
+title: "10.59.7 Bookkeeping - Advanced Certificate"
 description: "Market > College Programs > Selkirk College > Bookkeeping - Advanced Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.7 Bookkeeping - Advanced Certificate
+# 10.59.7 Bookkeeping - Advanced Certificate
 
 ## Glossary
 

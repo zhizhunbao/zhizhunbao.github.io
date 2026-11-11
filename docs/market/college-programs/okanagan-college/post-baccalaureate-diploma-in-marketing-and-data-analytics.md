@@ -1,10 +1,10 @@
 ---
-title: "10.51.28 Post-Baccalaureate Diploma in Marketing and Data Analytics"
+title: "10.52.28 Post-Baccalaureate Diploma in Marketing and Data Analytics"
 description: "Market > College Programs > Okanagan College > Post-Baccalaureate Diploma in Marketing and Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.28 Post-Baccalaureate Diploma in Marketing and Data Analytics
+# 10.52.28 Post-Baccalaureate Diploma in Marketing and Data Analytics
 
 ## Glossary
 

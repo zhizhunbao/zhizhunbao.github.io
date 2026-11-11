@@ -1,10 +1,10 @@
 ---
-title: "10.39.54 General Arts and Science Certificate (College Transfer)"
+title: "10.40.54 General Arts and Science Certificate (College Transfer)"
 description: "Market > College Programs > Mohawk College > General Arts and Science Certificate (College Transfer): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.54 General Arts and Science Certificate (College Transfer)
+# 10.40.54 General Arts and Science Certificate (College Transfer)
 
 ## Glossary
 

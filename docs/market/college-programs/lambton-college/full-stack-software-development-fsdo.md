@@ -1,10 +1,10 @@
 ---
-title: "10.32.81 Full Stack Software Development (FSDO)"
+title: "10.33.81 Full Stack Software Development (FSDO)"
 description: "Market > College Programs > Lambton College > Full Stack Software Development (FSDO): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.81 Full Stack Software Development (FSDO)
+# 10.33.81 Full Stack Software Development (FSDO)
 
 ## Glossary
 

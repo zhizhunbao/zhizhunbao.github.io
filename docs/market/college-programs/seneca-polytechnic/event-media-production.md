@@ -1,10 +1,10 @@
 ---
-title: "10.59.63 Event & Media Production"
+title: "10.60.63 Event & Media Production"
 description: "Market > College Programs > Seneca Polytechnic > Event & Media Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.63 Event & Media Production
+# 10.60.63 Event & Media Production
 
 ## Glossary
 

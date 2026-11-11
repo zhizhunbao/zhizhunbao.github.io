@@ -1,10 +1,10 @@
 ---
-title: "10.33.45 Education Assistant (Part-Time)"
+title: "10.34.45 Education Assistant (Part-Time)"
 description: "Market > College Programs > Langara College > Education Assistant (Part-Time): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.45 Education Assistant (Part-Time)
+# 10.34.45 Education Assistant (Part-Time)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.63.21 Community & Justice Services"
+title: "10.64.21 Community & Justice Services"
 description: "Market > College Programs > St. Clair College > Community & Justice Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.21 Community & Justice Services
+# 10.64.21 Community & Justice Services
 
 ## Glossary
 

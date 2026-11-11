@@ -1,10 +1,10 @@
 ---
-title: "10.22.145 Practical Nursing"
+title: "10.23.145 Practical Nursing"
 description: "Market > College Programs > Fanshawe College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.145 Practical Nursing
+# 10.23.145 Practical Nursing
 
 ## Glossary
 

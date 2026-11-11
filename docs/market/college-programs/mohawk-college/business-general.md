@@ -1,10 +1,10 @@
 ---
-title: "10.39.17 Business (General)"
+title: "10.40.17 Business (General)"
 description: "Market > College Programs > Mohawk College > Business (General): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.17 Business (General)
+# 10.40.17 Business (General)
 
 ## Glossary
 

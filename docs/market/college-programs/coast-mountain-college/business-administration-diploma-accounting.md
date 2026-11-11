@@ -1,10 +1,10 @@
 ---
-title: "10.10.6 Business Administration Diploma - Accounting"
+title: "10.11.6 Business Administration Diploma - Accounting"
 description: "Market > College Programs > Coast Mountain College > Business Administration Diploma - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.6 Business Administration Diploma - Accounting
+# 10.11.6 Business Administration Diploma - Accounting
 
 ## Glossary
 

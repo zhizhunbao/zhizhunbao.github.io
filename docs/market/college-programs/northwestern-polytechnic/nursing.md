@@ -1,10 +1,10 @@
 ---
-title: "10.49.23 Nursing"
+title: "10.50.23 Nursing"
 description: "Market > College Programs > Northwestern Polytechnic > Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.23 Nursing
+# 10.50.23 Nursing
 
 ## Glossary
 

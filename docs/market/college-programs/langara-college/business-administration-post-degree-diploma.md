@@ -1,10 +1,10 @@
 ---
-title: "10.33.21 Business Administration - Post-Degree Diploma"
+title: "10.34.21 Business Administration - Post-Degree Diploma"
 description: "Market > College Programs > Langara College > Business Administration - Post-Degree Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.21 Business Administration - Post-Degree Diploma
+# 10.34.21 Business Administration - Post-Degree Diploma
 
 ## Glossary
 

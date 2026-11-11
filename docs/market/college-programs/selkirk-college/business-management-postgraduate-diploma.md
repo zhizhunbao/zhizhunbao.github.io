@@ -1,10 +1,10 @@
 ---
-title: "10.58.11 Business Management - Postgraduate Diploma"
+title: "10.59.11 Business Management - Postgraduate Diploma"
 description: "Market > College Programs > Selkirk College > Business Management - Postgraduate Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.11 Business Management - Postgraduate Diploma
+# 10.59.11 Business Management - Postgraduate Diploma
 
 ## Glossary
 

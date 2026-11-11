@@ -1,10 +1,10 @@
 ---
-title: "10.21.32 Computer Programming"
+title: "10.22.32 Computer Programming"
 description: "Market > College Programs > Durham College > Computer Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.32 Computer Programming
+# 10.22.32 Computer Programming
 
 ## Glossary
 

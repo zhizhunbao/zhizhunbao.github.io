@@ -1,10 +1,10 @@
 ---
-title: "10.60.70 Honours Bachelor of Interaction Design"
+title: "10.61.70 Honours Bachelor of Interaction Design"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Interaction Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.70 Honours Bachelor of Interaction Design
+# 10.61.70 Honours Bachelor of Interaction Design
 
 ## Glossary
 

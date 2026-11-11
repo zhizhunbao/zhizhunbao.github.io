@@ -1,10 +1,10 @@
 ---
-title: "10.24.31 Early Childhood Education (C118)"
+title: "10.25.31 Early Childhood Education (C118)"
 description: "Market > College Programs > George Brown Polytechnic > Early Childhood Education (C118): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.31 Early Childhood Education (C118)
+# 10.25.31 Early Childhood Education (C118)
 
 ## Glossary
 

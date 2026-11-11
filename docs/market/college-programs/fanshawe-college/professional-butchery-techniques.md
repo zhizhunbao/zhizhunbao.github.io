@@ -1,10 +1,10 @@
 ---
-title: "10.22.149 Professional Butchery Techniques"
+title: "10.23.149 Professional Butchery Techniques"
 description: "Market > College Programs > Fanshawe College > Professional Butchery Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.149 Professional Butchery Techniques
+# 10.23.149 Professional Butchery Techniques
 
 ## Glossary
 

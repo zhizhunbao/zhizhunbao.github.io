@@ -1,10 +1,10 @@
 ---
-title: "10.49.26 Primary Care Paramedic"
+title: "10.50.26 Primary Care Paramedic"
 description: "Market > College Programs > Northwestern Polytechnic > Primary Care Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.26 Primary Care Paramedic
+# 10.50.26 Primary Care Paramedic
 
 ## Glossary
 

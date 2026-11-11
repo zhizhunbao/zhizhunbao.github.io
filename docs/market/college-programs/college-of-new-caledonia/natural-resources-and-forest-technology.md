@@ -1,10 +1,10 @@
 ---
-title: "10.15.32 Natural Resources and Forest Technology"
+title: "10.16.32 Natural Resources and Forest Technology"
 description: "Market > College Programs > College of New Caledonia > Natural Resources and Forest Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.32 Natural Resources and Forest Technology
+# 10.16.32 Natural Resources and Forest Technology
 
 ## Glossary
 

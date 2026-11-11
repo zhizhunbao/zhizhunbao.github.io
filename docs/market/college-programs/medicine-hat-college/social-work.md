@@ -1,10 +1,10 @@
 ---
-title: "10.38.28 Social Work"
+title: "10.39.28 Social Work"
 description: "Market > College Programs > Medicine Hat College > Social Work: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.28 Social Work
+# 10.39.28 Social Work
 
 ## Glossary
 

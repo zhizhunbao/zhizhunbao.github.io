@@ -1,10 +1,10 @@
 ---
-title: "10.32.69 Electrical Techniques"
+title: "10.33.69 Electrical Techniques"
 description: "Market > College Programs > Lambton College > Electrical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.69 Electrical Techniques
+# 10.33.69 Electrical Techniques
 
 ## Glossary
 

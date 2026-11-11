@@ -1,10 +1,10 @@
 ---
-title: "10.30.10 Business Administration Management Diploma"
+title: "10.31.10 Business Administration Management Diploma"
 description: "Market > College Programs > Keyano College > Business Administration Management Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.10 Business Administration Management Diploma
+# 10.31.10 Business Administration Management Diploma
 
 ## Glossary
 

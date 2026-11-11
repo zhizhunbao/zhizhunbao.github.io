@@ -1,10 +1,10 @@
 ---
-title: "10.21.92 Occupational Therapist Assistant and Physiotherapist Assistant"
+title: "10.22.92 Occupational Therapist Assistant and Physiotherapist Assistant"
 description: "Market > College Programs > Durham College > Occupational Therapist Assistant and Physiotherapist Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.92 Occupational Therapist Assistant and Physiotherapist Assistant
+# 10.22.92 Occupational Therapist Assistant and Physiotherapist Assistant
 
 ## Glossary
 

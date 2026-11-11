@@ -1,10 +1,10 @@
 ---
-title: "10.63.93 Police Foundations (Fast Track)"
+title: "10.64.93 Police Foundations (Fast Track)"
 description: "Market > College Programs > St. Clair College > Police Foundations (Fast Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.93 Police Foundations (Fast Track)
+# 10.64.93 Police Foundations (Fast Track)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.65.5 Bachelor of Science in Nursing"
+title: "10.66.5 Bachelor of Science in Nursing"
 description: "Market > College Programs > Suncrest College > Bachelor of Science in Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.5 Bachelor of Science in Nursing
+# 10.66.5 Bachelor of Science in Nursing
 
 ## Glossary
 

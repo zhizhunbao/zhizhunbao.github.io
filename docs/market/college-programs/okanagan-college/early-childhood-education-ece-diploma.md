@@ -1,10 +1,10 @@
 ---
-title: "10.51.17 Early Childhood Education (ECE) Diploma"
+title: "10.52.17 Early Childhood Education (ECE) Diploma"
 description: "Market > College Programs > Okanagan College > Early Childhood Education (ECE) Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.17 Early Childhood Education (ECE) Diploma
+# 10.52.17 Early Childhood Education (ECE) Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.35.58 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees (Online)"
+title: "10.36.58 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees (Online)"
 description: "Market > College Programs > Loyalist College > Pre-Health Sciences Pathway to Advanced Diplomas and Degrees (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.58 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees (Online)
+# 10.36.58 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees (Online)
 
 ## Glossary
 

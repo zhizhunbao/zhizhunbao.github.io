@@ -1,10 +1,10 @@
 ---
-title: "10.34.35 General Arts and Science Certificate"
+title: "10.35.35 General Arts and Science Certificate"
 description: "Market > College Programs > Lethbridge Polytechnic > General Arts and Science Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.35 General Arts and Science Certificate
+# 10.35.35 General Arts and Science Certificate
 
 ## Glossary
 

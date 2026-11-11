@@ -1,10 +1,10 @@
 ---
-title: "10.62.32 Business and Entrepreneurship"
+title: "10.63.32 Business and Entrepreneurship"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Business and Entrepreneurship: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.32 Business and Entrepreneurship
+# 10.63.32 Business and Entrepreneurship
 
 ## Glossary
 

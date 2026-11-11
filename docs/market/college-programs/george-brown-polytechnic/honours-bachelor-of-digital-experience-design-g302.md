@@ -1,10 +1,10 @@
 ---
-title: "10.24.53 Honours Bachelor of Digital Experience Design (G302)"
+title: "10.25.53 Honours Bachelor of Digital Experience Design (G302)"
 description: "Market > College Programs > George Brown Polytechnic > Honours Bachelor of Digital Experience Design (G302): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.53 Honours Bachelor of Digital Experience Design (G302)
+# 10.25.53 Honours Bachelor of Digital Experience Design (G302)
 
 ## Glossary
 

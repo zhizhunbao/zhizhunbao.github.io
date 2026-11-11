@@ -1,10 +1,10 @@
 ---
-title: "10.20.49 Gender, Sexualities and Women's Studies"
+title: "10.21.49 Gender, Sexualities and Women's Studies"
 description: "Market > College Programs > Douglas College > Gender, Sexualities and Women's Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.49 Gender, Sexualities and Women's Studies
+# 10.21.49 Gender, Sexualities and Women's Studies
 
 ## Glossary
 

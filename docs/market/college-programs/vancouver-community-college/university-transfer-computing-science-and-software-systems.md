@@ -1,10 +1,10 @@
 ---
-title: "10.66.51 University Transfer – Computing Science and Software Systems"
+title: "10.67.51 University Transfer – Computing Science and Software Systems"
 description: "Market > College Programs > Vancouver Community College > University Transfer – Computing Science and Software Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.51 University Transfer – Computing Science and Software Systems
+# 10.67.51 University Transfer – Computing Science and Software Systems
 
 ## Glossary
 

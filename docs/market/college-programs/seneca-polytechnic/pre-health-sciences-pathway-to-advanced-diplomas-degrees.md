@@ -1,10 +1,10 @@
 ---
-title: "10.59.140 Pre-Health Sciences Pathway to Advanced Diplomas & Degrees"
+title: "10.60.140 Pre-Health Sciences Pathway to Advanced Diplomas & Degrees"
 description: "Market > College Programs > Seneca Polytechnic > Pre-Health Sciences Pathway to Advanced Diplomas & Degrees: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.140 Pre-Health Sciences Pathway to Advanced Diplomas & Degrees
+# 10.60.140 Pre-Health Sciences Pathway to Advanced Diplomas & Degrees
 
 ## Glossary
 

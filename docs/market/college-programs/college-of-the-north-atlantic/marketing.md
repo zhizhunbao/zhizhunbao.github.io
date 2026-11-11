@@ -1,10 +1,10 @@
 ---
-title: "10.16.65 Marketing"
+title: "10.17.65 Marketing"
 description: "Market > College Programs > College of the North Atlantic > Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.65 Marketing
+# 10.17.65 Marketing
 
 ## Glossary
 

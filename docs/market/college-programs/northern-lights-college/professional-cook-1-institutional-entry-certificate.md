@@ -1,10 +1,10 @@
 ---
-title: "10.48.19 Professional Cook 1 Institutional Entry Certificate"
+title: "10.49.19 Professional Cook 1 Institutional Entry Certificate"
 description: "Market > College Programs > Northern Lights College > Professional Cook 1 Institutional Entry Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.19 Professional Cook 1 Institutional Entry Certificate
+# 10.49.19 Professional Cook 1 Institutional Entry Certificate
 
 ## Glossary
 

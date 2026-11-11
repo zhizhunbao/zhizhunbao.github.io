@@ -1,10 +1,10 @@
 ---
-title: "10.37.1 Administrative Assistant (formerly Business Administrative Assistant)"
+title: "10.38.1 Administrative Assistant (formerly Business Administrative Assistant)"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Administrative Assistant (formerly Business Administrative Assistant): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.1 Administrative Assistant (formerly Business Administrative Assistant)
+# 10.38.1 Administrative Assistant (formerly Business Administrative Assistant)
 
 ## Glossary
 

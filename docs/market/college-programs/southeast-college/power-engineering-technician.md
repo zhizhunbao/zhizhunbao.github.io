@@ -1,10 +1,10 @@
 ---
-title: "10.61.7 Power Engineering Technician"
+title: "10.62.7 Power Engineering Technician"
 description: "Market > College Programs > Southeast College > Power Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.61.7 Power Engineering Technician
+# 10.62.7 Power Engineering Technician
 
 ## Glossary
 

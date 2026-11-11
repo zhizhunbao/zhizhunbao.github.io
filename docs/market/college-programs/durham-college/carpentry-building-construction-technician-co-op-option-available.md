@@ -1,10 +1,10 @@
 ---
-title: "10.21.23 Carpentry – Building Construction Technician (Co-op option available)"
+title: "10.22.23 Carpentry – Building Construction Technician (Co-op option available)"
 description: "Market > College Programs > Durham College > Carpentry – Building Construction Technician (Co-op option available): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.23 Carpentry – Building Construction Technician (Co-op option available)
+# 10.22.23 Carpentry – Building Construction Technician (Co-op option available)
 
 ## Glossary
 

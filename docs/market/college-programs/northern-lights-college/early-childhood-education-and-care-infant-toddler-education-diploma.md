@@ -1,10 +1,10 @@
 ---
-title: "10.48.7 Early Childhood Education and Care – Infant/Toddler Education Diploma"
+title: "10.49.7 Early Childhood Education and Care – Infant/Toddler Education Diploma"
 description: "Market > College Programs > Northern Lights College > Early Childhood Education and Care – Infant/Toddler Education Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.7 Early Childhood Education and Care – Infant/Toddler Education Diploma
+# 10.49.7 Early Childhood Education and Care – Infant/Toddler Education Diploma
 
 ## Glossary
 

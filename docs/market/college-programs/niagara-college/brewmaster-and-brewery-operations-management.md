@@ -1,10 +1,10 @@
 ---
-title: "10.41.9 Brewmaster and Brewery Operations Management"
+title: "10.42.9 Brewmaster and Brewery Operations Management"
 description: "Market > College Programs > Niagara College > Brewmaster and Brewery Operations Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.9 Brewmaster and Brewery Operations Management
+# 10.42.9 Brewmaster and Brewery Operations Management
 
 ## Glossary
 

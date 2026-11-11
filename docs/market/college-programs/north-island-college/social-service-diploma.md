@@ -1,10 +1,10 @@
 ---
-title: "10.43.17 Social Service Diploma"
+title: "10.44.17 Social Service Diploma"
 description: "Market > College Programs > North Island College > Social Service Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.17 Social Service Diploma
+# 10.44.17 Social Service Diploma
 
 ## Glossary
 

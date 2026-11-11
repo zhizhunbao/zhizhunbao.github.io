@@ -1,10 +1,10 @@
 ---
-title: "10.43.5 Business Administration Certificate"
+title: "10.44.5 Business Administration Certificate"
 description: "Market > College Programs > North Island College > Business Administration Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.5 Business Administration Certificate
+# 10.44.5 Business Administration Certificate
 
 ## Glossary
 

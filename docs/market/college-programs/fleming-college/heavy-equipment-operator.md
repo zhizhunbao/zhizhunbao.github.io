@@ -1,10 +1,10 @@
 ---
-title: "10.23.47 Heavy Equipment Operator"
+title: "10.24.47 Heavy Equipment Operator"
 description: "Market > College Programs > Fleming College > Heavy Equipment Operator: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.47 Heavy Equipment Operator
+# 10.24.47 Heavy Equipment Operator
 
 ## Glossary
 

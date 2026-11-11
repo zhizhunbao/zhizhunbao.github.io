@@ -1,10 +1,10 @@
 ---
-title: "10.60.26 Computer Programming"
+title: "10.61.26 Computer Programming"
 description: "Market > College Programs > Sheridan College > Computer Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.26 Computer Programming
+# 10.61.26 Computer Programming
 
 ## Glossary
 

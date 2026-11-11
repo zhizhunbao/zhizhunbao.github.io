@@ -1,10 +1,10 @@
 ---
-title: "10.46.8 Business – Human Resources"
+title: "10.47.8 Business – Human Resources"
 description: "Market > College Programs > Northern College > Business – Human Resources: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.8 Business – Human Resources
+# 10.47.8 Business – Human Resources
 
 ## Glossary
 

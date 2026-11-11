@@ -1,10 +1,10 @@
 ---
-title: "10.23.1 Aquaculture (Co-op)"
+title: "10.24.1 Aquaculture (Co-op)"
 description: "Market > College Programs > Fleming College > Aquaculture (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.1 Aquaculture (Co-op)
+# 10.24.1 Aquaculture (Co-op)
 
 ## Glossary
 

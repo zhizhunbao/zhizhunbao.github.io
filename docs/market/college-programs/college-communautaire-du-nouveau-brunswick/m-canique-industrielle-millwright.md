@@ -1,10 +1,10 @@
 ---
-title: "10.12.26 Mécanique industrielle (Millwright)"
+title: "10.13.26 Mécanique industrielle (Millwright)"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Mécanique industrielle (Millwright): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.26 Mécanique industrielle (Millwright)
+# 10.13.26 Mécanique industrielle (Millwright)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.108 Pharmacy Technician"
+title: "10.33.108 Pharmacy Technician"
 description: "Market > College Programs > Lambton College > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.108 Pharmacy Technician
+# 10.33.108 Pharmacy Technician
 
 ## Glossary
 

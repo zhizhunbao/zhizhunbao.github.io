@@ -1,10 +1,10 @@
 ---
-title: "10.44.1 Bachelor of Education – Elementary Teacher Education (Pre-K to 8)"
+title: "10.45.1 Bachelor of Education – Elementary Teacher Education (Pre-K to 8)"
 description: "Market > College Programs > North West College > Bachelor of Education – Elementary Teacher Education (Pre-K to 8): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.1 Bachelor of Education – Elementary Teacher Education (Pre-K to 8)
+# 10.45.1 Bachelor of Education – Elementary Teacher Education (Pre-K to 8)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.59.112 Journalism"
+title: "10.60.112 Journalism"
 description: "Market > College Programs > Seneca Polytechnic > Journalism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.112 Journalism
+# 10.60.112 Journalism
 
 ## Glossary
 

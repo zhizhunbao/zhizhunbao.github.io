@@ -1,10 +1,10 @@
 ---
-title: "10.45.19 Bachelor of Technology in Management - Sustainability Management"
+title: "10.46.19 Bachelor of Technology in Management - Sustainability Management"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Bachelor of Technology in Management - Sustainability Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.19 Bachelor of Technology in Management - Sustainability Management
+# 10.46.19 Bachelor of Technology in Management - Sustainability Management
 
 ## Glossary
 

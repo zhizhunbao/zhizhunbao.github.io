@@ -1,10 +1,10 @@
 ---
-title: "10.25.74 Food and Nutrition Management"
+title: "10.26.74 Food and Nutrition Management"
 description: "Market > College Programs > Georgian College > Food and Nutrition Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.74 Food and Nutrition Management
+# 10.26.74 Food and Nutrition Management
 
 ## Glossary
 

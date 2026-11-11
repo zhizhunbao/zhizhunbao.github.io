@@ -1,10 +1,10 @@
 ---
-title: "10.22 Fanshawe College"
+title: "10.23 Fanshawe College"
 description: "Market > College Programs > Fanshawe College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22 Fanshawe College
+# 10.23 Fanshawe College
 
 ## Glossary
 

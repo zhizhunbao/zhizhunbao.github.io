@@ -1,10 +1,10 @@
 ---
-title: "10.40.43 Human Service Practitioner"
+title: "10.41.43 Human Service Practitioner"
 description: "Market > College Programs > New Brunswick Community College > Human Service Practitioner: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.43 Human Service Practitioner
+# 10.41.43 Human Service Practitioner
 
 ## Glossary
 

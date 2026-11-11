@@ -1,10 +1,10 @@
 ---
-title: "10.59.92 Honours Bachelor of Information Technology Design and Management"
+title: "10.60.92 Honours Bachelor of Information Technology Design and Management"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Information Technology Design and Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.92 Honours Bachelor of Information Technology Design and Management
+# 10.60.92 Honours Bachelor of Information Technology Design and Management
 
 ## Glossary
 

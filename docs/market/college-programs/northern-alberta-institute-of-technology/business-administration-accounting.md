@@ -1,10 +1,10 @@
 ---
-title: "10.45.23 Business Administration - Accounting"
+title: "10.46.23 Business Administration - Accounting"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Business Administration - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.23 Business Administration - Accounting
+# 10.46.23 Business Administration - Accounting
 
 ## Glossary
 

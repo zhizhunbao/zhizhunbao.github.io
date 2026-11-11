@@ -1,10 +1,10 @@
 ---
-title: "10.32.130 Supply Chain Management - Two-Year (SCMO)"
+title: "10.33.130 Supply Chain Management - Two-Year (SCMO)"
 description: "Market > College Programs > Lambton College > Supply Chain Management - Two-Year (SCMO): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.130 Supply Chain Management - Two-Year (SCMO)
+# 10.33.130 Supply Chain Management - Two-Year (SCMO)
 
 ## Glossary
 

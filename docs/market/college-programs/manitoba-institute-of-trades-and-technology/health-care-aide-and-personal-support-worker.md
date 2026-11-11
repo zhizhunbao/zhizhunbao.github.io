@@ -1,10 +1,10 @@
 ---
-title: "10.37.17 Health Care Aide and Personal Support Worker"
+title: "10.38.17 Health Care Aide and Personal Support Worker"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Health Care Aide and Personal Support Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.17 Health Care Aide and Personal Support Worker
+# 10.38.17 Health Care Aide and Personal Support Worker
 
 ## Glossary
 

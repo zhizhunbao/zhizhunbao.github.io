@@ -1,10 +1,10 @@
 ---
-title: "10.16.94 Strategic Human Resource Management"
+title: "10.17.94 Strategic Human Resource Management"
 description: "Market > College Programs > College of the North Atlantic > Strategic Human Resource Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.94 Strategic Human Resource Management
+# 10.17.94 Strategic Human Resource Management
 
 ## Glossary
 

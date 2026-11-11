@@ -1,10 +1,10 @@
 ---
-title: "10.64.32 Early Childhood Education (Online Full-time)"
+title: "10.65.32 Early Childhood Education (Online Full-time)"
 description: "Market > College Programs > St. Lawrence College > Early Childhood Education (Online Full-time): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.32 Early Childhood Education (Online Full-time)
+# 10.65.32 Early Childhood Education (Online Full-time)
 
 ## Glossary
 

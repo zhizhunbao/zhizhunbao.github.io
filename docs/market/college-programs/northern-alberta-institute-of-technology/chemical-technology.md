@@ -1,10 +1,10 @@
 ---
-title: "10.45.32 Chemical Technology"
+title: "10.46.32 Chemical Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Chemical Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.32 Chemical Technology
+# 10.46.32 Chemical Technology
 
 ## Glossary
 

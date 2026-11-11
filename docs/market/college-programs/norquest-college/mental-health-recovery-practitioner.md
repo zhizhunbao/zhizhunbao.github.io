@@ -1,10 +1,10 @@
 ---
-title: "10.42.34 Mental Health Recovery Practitioner"
+title: "10.43.34 Mental Health Recovery Practitioner"
 description: "Market > College Programs > NorQuest College > Mental Health Recovery Practitioner: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.34 Mental Health Recovery Practitioner
+# 10.43.34 Mental Health Recovery Practitioner
 
 ## Glossary
 

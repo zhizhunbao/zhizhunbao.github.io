@@ -1,10 +1,10 @@
 ---
-title: "10.48.21 Welder Foundation Certificate"
+title: "10.49.21 Welder Foundation Certificate"
 description: "Market > College Programs > Northern Lights College > Welder Foundation Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.21 Welder Foundation Certificate
+# 10.49.21 Welder Foundation Certificate
 
 ## Glossary
 

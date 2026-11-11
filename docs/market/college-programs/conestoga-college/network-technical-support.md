@@ -1,10 +1,10 @@
 ---
-title: "10.18.156 Network Technical Support"
+title: "10.19.156 Network Technical Support"
 description: "Market > College Programs > Conestoga College > Network Technical Support: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.156 Network Technical Support
+# 10.19.156 Network Technical Support
 
 ## Glossary
 

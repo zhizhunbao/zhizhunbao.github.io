@@ -1,10 +1,10 @@
 ---
-title: "10.24.68 Mobile Application Development and Strategy"
+title: "10.25.68 Mobile Application Development and Strategy"
 description: "Market > College Programs > George Brown Polytechnic > Mobile Application Development and Strategy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.68 Mobile Application Development and Strategy
+# 10.25.68 Mobile Application Development and Strategy
 
 ## Glossary
 

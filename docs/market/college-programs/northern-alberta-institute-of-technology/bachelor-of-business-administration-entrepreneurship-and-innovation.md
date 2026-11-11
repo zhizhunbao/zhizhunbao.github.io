@@ -1,10 +1,10 @@
 ---
-title: "10.45.9 Bachelor of Business Administration - Entrepreneurship and Innovation"
+title: "10.46.9 Bachelor of Business Administration - Entrepreneurship and Innovation"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Bachelor of Business Administration - Entrepreneurship and Innovation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.9 Bachelor of Business Administration - Entrepreneurship and Innovation
+# 10.46.9 Bachelor of Business Administration - Entrepreneurship and Innovation
 
 ## Glossary
 

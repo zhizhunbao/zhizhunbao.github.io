@@ -1,10 +1,10 @@
 ---
-title: "10.12.13 Design d’intérieur"
+title: "10.13.13 Design d’intérieur"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Design d’intérieur: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.13 Design d’intérieur
+# 10.13.13 Design d’intérieur
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.33 Early Childhood Education (C130)"
+title: "10.25.33 Early Childhood Education (C130)"
 description: "Market > College Programs > George Brown Polytechnic > Early Childhood Education (C130): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.33 Early Childhood Education (C130)
+# 10.25.33 Early Childhood Education (C130)
 
 ## Glossary
 

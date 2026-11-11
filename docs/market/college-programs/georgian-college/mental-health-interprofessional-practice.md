@@ -1,10 +1,10 @@
 ---
-title: "10.25.123 Mental Health - Interprofessional Practice"
+title: "10.26.123 Mental Health - Interprofessional Practice"
 description: "Market > College Programs > Georgian College > Mental Health - Interprofessional Practice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.123 Mental Health - Interprofessional Practice
+# 10.26.123 Mental Health - Interprofessional Practice
 
 ## Glossary
 

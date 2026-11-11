@@ -1,10 +1,10 @@
 ---
-title: "10.18.46 Business - Finance"
+title: "10.19.46 Business - Finance"
 description: "Market > College Programs > Conestoga College > Business - Finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.46 Business - Finance
+# 10.19.46 Business - Finance
 
 ## Glossary
 

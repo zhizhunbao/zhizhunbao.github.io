@@ -1,10 +1,10 @@
 ---
-title: "10.16.69 Medical Laboratory Assistant"
+title: "10.17.69 Medical Laboratory Assistant"
 description: "Market > College Programs > College of the North Atlantic > Medical Laboratory Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.69 Medical Laboratory Assistant
+# 10.17.69 Medical Laboratory Assistant
 
 ## Glossary
 

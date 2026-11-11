@@ -1,10 +1,10 @@
 ---
-title: "10.25.151 Sport and Recreation Facility Management"
+title: "10.26.151 Sport and Recreation Facility Management"
 description: "Market > College Programs > Georgian College > Sport and Recreation Facility Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.151 Sport and Recreation Facility Management
+# 10.26.151 Sport and Recreation Facility Management
 
 ## Glossary
 

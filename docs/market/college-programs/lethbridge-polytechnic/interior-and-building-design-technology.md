@@ -1,10 +1,10 @@
 ---
-title: "10.34.37 Interior and Building Design Technology"
+title: "10.35.37 Interior and Building Design Technology"
 description: "Market > College Programs > Lethbridge Polytechnic > Interior and Building Design Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.37 Interior and Building Design Technology
+# 10.35.37 Interior and Building Design Technology
 
 ## Glossary
 

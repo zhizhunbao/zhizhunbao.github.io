@@ -1,10 +1,10 @@
 ---
-title: "10.64.71 Veterinary Assistant"
+title: "10.65.71 Veterinary Assistant"
 description: "Market > College Programs > St. Lawrence College > Veterinary Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.71 Veterinary Assistant
+# 10.65.71 Veterinary Assistant
 
 ## Glossary
 

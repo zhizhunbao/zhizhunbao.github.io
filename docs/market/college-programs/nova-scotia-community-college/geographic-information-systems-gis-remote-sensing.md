@@ -1,10 +1,10 @@
 ---
-title: "10.50.64 Geographic Information Systems (GIS) - Remote Sensing"
+title: "10.51.64 Geographic Information Systems (GIS) - Remote Sensing"
 description: "Market > College Programs > Nova Scotia Community College > Geographic Information Systems (GIS) - Remote Sensing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.64 Geographic Information Systems (GIS) - Remote Sensing
+# 10.51.64 Geographic Information Systems (GIS) - Remote Sensing
 
 ## Glossary
 

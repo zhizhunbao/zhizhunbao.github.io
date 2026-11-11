@@ -1,10 +1,10 @@
 ---
-title: "10.14.19 Baccalauréat en commerce (parcours de transfert depuis Administration des affaires)"
+title: "10.15.19 Baccalauréat en commerce (parcours de transfert depuis Administration des affaires)"
 description: "Market > College Programs > Collège La Cité > Baccalauréat en commerce (parcours de transfert depuis Administration des affaires): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.19 Baccalauréat en commerce (parcours de transfert depuis Administration des affaires)
+# 10.15.19 Baccalauréat en commerce (parcours de transfert depuis Administration des affaires)
 
 ## Glossary
 

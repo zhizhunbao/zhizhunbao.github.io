@@ -1,10 +1,10 @@
 ---
-title: "10.16.61 Journalism"
+title: "10.17.61 Journalism"
 description: "Market > College Programs > College of the North Atlantic > Journalism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.61 Journalism
+# 10.17.61 Journalism
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.59.119 Master of Artificial Intelligence Design & Development"
+title: "10.60.119 Master of Artificial Intelligence Design & Development"
 description: "Market > College Programs > Seneca Polytechnic > Master of Artificial Intelligence Design & Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.119 Master of Artificial Intelligence Design & Development
+# 10.60.119 Master of Artificial Intelligence Design & Development
 
 ## Glossary
 

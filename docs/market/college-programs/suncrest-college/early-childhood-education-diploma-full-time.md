@@ -1,10 +1,10 @@
 ---
-title: "10.65.12 Early Childhood Education Diploma (Full-Time)"
+title: "10.66.12 Early Childhood Education Diploma (Full-Time)"
 description: "Market > College Programs > Suncrest College > Early Childhood Education Diploma (Full-Time): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.12 Early Childhood Education Diploma (Full-Time)
+# 10.66.12 Early Childhood Education Diploma (Full-Time)
 
 ## Glossary
 

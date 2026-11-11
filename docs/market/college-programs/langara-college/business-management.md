@@ -1,10 +1,10 @@
 ---
-title: "10.33.22 Business Management"
+title: "10.34.22 Business Management"
 description: "Market > College Programs > Langara College > Business Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.22 Business Management
+# 10.34.22 Business Management
 
 ## Glossary
 

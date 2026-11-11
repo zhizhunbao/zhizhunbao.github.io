@@ -1,10 +1,10 @@
 ---
-title: "10.19.2 Accommodation and Human Rights Management"
+title: "10.20.2 Accommodation and Human Rights Management"
 description: "Market > College Programs > Confederation College > Accommodation and Human Rights Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.2 Accommodation and Human Rights Management
+# 10.20.2 Accommodation and Human Rights Management
 
 ## Glossary
 

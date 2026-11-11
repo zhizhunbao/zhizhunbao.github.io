@@ -1,10 +1,10 @@
 ---
-title: "10.25.51 Cybersecurity"
+title: "10.26.51 Cybersecurity"
 description: "Market > College Programs > Georgian College > Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.51 Cybersecurity
+# 10.26.51 Cybersecurity
 
 ## Glossary
 

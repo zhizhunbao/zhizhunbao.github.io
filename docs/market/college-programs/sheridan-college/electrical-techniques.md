@@ -1,10 +1,10 @@
 ---
-title: "10.60.40 Electrical Techniques"
+title: "10.61.40 Electrical Techniques"
 description: "Market > College Programs > Sheridan College > Electrical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.40 Electrical Techniques
+# 10.61.40 Electrical Techniques
 
 ## Glossary
 

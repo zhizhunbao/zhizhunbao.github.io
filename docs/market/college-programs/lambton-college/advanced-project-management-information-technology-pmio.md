@@ -1,10 +1,10 @@
 ---
-title: "10.32.5 Advanced Project Management - Information Technology (PMIO)"
+title: "10.33.5 Advanced Project Management - Information Technology (PMIO)"
 description: "Market > College Programs > Lambton College > Advanced Project Management - Information Technology (PMIO): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.5 Advanced Project Management - Information Technology (PMIO)
+# 10.33.5 Advanced Project Management - Information Technology (PMIO)
 
 ## Glossary
 

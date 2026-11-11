@@ -1,10 +1,10 @@
 ---
-title: "10.12.70 Éducation à l’enfance"
+title: "10.13.70 Éducation à l’enfance"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Éducation à l’enfance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.70 Éducation à l’enfance
+# 10.13.70 Éducation à l’enfance
 
 ## Glossary
 

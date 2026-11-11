@@ -1,10 +1,10 @@
 ---
-title: "10.17.18 Kinesiology Diploma"
+title: "10.18.18 Kinesiology Diploma"
 description: "Market > College Programs > College of the Rockies > Kinesiology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.18 Kinesiology Diploma
+# 10.18.18 Kinesiology Diploma
 
 ## Glossary
 

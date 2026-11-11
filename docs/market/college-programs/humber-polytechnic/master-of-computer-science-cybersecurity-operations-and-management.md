@@ -1,10 +1,10 @@
 ---
-title: "10.28.93 Master of Computer Science - Cybersecurity Operations and Management"
+title: "10.29.93 Master of Computer Science - Cybersecurity Operations and Management"
 description: "Market > College Programs > Humber Polytechnic > Master of Computer Science - Cybersecurity Operations and Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.93 Master of Computer Science - Cybersecurity Operations and Management
+# 10.29.93 Master of Computer Science - Cybersecurity Operations and Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.60.101 Project Management – Information Technology"
+title: "10.61.101 Project Management – Information Technology"
 description: "Market > College Programs > Sheridan College > Project Management – Information Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.101 Project Management – Information Technology
+# 10.61.101 Project Management – Information Technology
 
 ## Glossary
 

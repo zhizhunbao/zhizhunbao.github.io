@@ -1,10 +1,10 @@
 ---
-title: "10.58.18 Culinary Arts - Certificate"
+title: "10.59.18 Culinary Arts - Certificate"
 description: "Market > College Programs > Selkirk College > Culinary Arts - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.18 Culinary Arts - Certificate
+# 10.59.18 Culinary Arts - Certificate
 
 ## Glossary
 

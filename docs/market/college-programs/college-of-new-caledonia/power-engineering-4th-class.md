@@ -1,10 +1,10 @@
 ---
-title: "10.15.36 Power Engineering 4th Class"
+title: "10.16.36 Power Engineering 4th Class"
 description: "Market > College Programs > College of New Caledonia > Power Engineering 4th Class: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.36 Power Engineering 4th Class
+# 10.16.36 Power Engineering 4th Class
 
 ## Glossary
 

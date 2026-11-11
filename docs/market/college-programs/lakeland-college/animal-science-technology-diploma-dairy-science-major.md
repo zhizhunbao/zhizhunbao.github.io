@@ -1,10 +1,10 @@
 ---
-title: "10.31.6 Animal Science Technology Diploma: Dairy Science Major"
+title: "10.32.6 Animal Science Technology Diploma: Dairy Science Major"
 description: "Market > College Programs > Lakeland College > Animal Science Technology Diploma: Dairy Science Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.6 Animal Science Technology Diploma: Dairy Science Major
+# 10.32.6 Animal Science Technology Diploma: Dairy Science Major
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.60.65 Honours Bachelor of Film and Television"
+title: "10.61.65 Honours Bachelor of Film and Television"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Film and Television: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.65 Honours Bachelor of Film and Television
+# 10.61.65 Honours Bachelor of Film and Television
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.51.26 Post-Baccalaureate Diploma in Accounting"
+title: "10.52.26 Post-Baccalaureate Diploma in Accounting"
 description: "Market > College Programs > Okanagan College > Post-Baccalaureate Diploma in Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.26 Post-Baccalaureate Diploma in Accounting
+# 10.52.26 Post-Baccalaureate Diploma in Accounting
 
 ## Glossary
 

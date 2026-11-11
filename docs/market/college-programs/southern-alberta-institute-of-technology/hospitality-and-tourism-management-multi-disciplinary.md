@@ -1,10 +1,10 @@
 ---
-title: "10.62.69 Hospitality and Tourism Management - Multi-Disciplinary"
+title: "10.63.69 Hospitality and Tourism Management - Multi-Disciplinary"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Hospitality and Tourism Management - Multi-Disciplinary: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.69 Hospitality and Tourism Management - Multi-Disciplinary
+# 10.63.69 Hospitality and Tourism Management - Multi-Disciplinary
 
 ## Glossary
 

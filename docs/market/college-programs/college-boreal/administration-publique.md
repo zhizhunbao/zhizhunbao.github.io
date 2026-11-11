@@ -1,10 +1,10 @@
 ---
-title: "10.11.3 Administration publique"
+title: "10.12.3 Administration publique"
 description: "Market > College Programs > Collège Boréal > Administration publique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.3 Administration publique
+# 10.12.3 Administration publique
 
 ## Glossary
 

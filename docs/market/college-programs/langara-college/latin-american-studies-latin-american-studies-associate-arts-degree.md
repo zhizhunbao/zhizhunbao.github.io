@@ -1,10 +1,10 @@
 ---
-title: "10.33.69 Latin American Studies (latin-american-studies-associate-arts-degree)"
+title: "10.34.69 Latin American Studies (latin-american-studies-associate-arts-degree)"
 description: "Market > College Programs > Langara College > Latin American Studies (latin-american-studies-associate-arts-degree): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.69 Latin American Studies (latin-american-studies-associate-arts-degree)
+# 10.34.69 Latin American Studies (latin-american-studies-associate-arts-degree)
 
 ## Glossary
 

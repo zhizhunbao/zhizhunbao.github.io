@@ -1,10 +1,10 @@
 ---
-title: "10.20.24 Bachelor of Science in Physical Education and Coaching (2nd and 3rd year entry)"
+title: "10.21.24 Bachelor of Science in Physical Education and Coaching (2nd and 3rd year entry)"
 description: "Market > College Programs > Douglas College > Bachelor of Science in Physical Education and Coaching (2nd and 3rd year entry): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.24 Bachelor of Science in Physical Education and Coaching (2nd and 3rd year entry)
+# 10.21.24 Bachelor of Science in Physical Education and Coaching (2nd and 3rd year entry)
 
 ## Glossary
 

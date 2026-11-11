@@ -1,10 +1,10 @@
 ---
-title: "10.63.25 Computer Systems Technology - Networking"
+title: "10.64.25 Computer Systems Technology - Networking"
 description: "Market > College Programs > St. Clair College > Computer Systems Technology - Networking: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.25 Computer Systems Technology - Networking
+# 10.64.25 Computer Systems Technology - Networking
 
 ## Glossary
 

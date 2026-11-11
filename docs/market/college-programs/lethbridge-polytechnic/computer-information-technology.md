@@ -1,10 +1,10 @@
 ---
-title: "10.34.14 Computer Information Technology"
+title: "10.35.14 Computer Information Technology"
 description: "Market > College Programs > Lethbridge Polytechnic > Computer Information Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.14 Computer Information Technology
+# 10.35.14 Computer Information Technology
 
 ## Glossary
 

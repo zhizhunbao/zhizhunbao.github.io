@@ -1,10 +1,10 @@
 ---
-title: "10.32.94 Liberal Studies - Indigenous Studies"
+title: "10.33.94 Liberal Studies - Indigenous Studies"
 description: "Market > College Programs > Lambton College > Liberal Studies - Indigenous Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.94 Liberal Studies - Indigenous Studies
+# 10.33.94 Liberal Studies - Indigenous Studies
 
 ## Glossary
 

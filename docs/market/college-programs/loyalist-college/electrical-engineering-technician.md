@@ -1,10 +1,10 @@
 ---
-title: "10.35.30 Electrical Engineering Technician"
+title: "10.36.30 Electrical Engineering Technician"
 description: "Market > College Programs > Loyalist College > Electrical Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.30 Electrical Engineering Technician
+# 10.36.30 Electrical Engineering Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.102 Embedded Systems Development (Optional Co-op)"
+title: "10.19.102 Embedded Systems Development (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Embedded Systems Development (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.102 Embedded Systems Development (Optional Co-op)
+# 10.19.102 Embedded Systems Development (Optional Co-op)
 
 ## Glossary
 

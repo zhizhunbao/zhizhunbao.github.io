@@ -1,10 +1,10 @@
 ---
-title: "10.64.61 Paramedic"
+title: "10.65.61 Paramedic"
 description: "Market > College Programs > St. Lawrence College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.61 Paramedic
+# 10.65.61 Paramedic
 
 ## Glossary
 

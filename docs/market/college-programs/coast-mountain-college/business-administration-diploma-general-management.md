@@ -1,10 +1,10 @@
 ---
-title: "10.10.7 Business Administration Diploma - General Management"
+title: "10.11.7 Business Administration Diploma - General Management"
 description: "Market > College Programs > Coast Mountain College > Business Administration Diploma - General Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.7 Business Administration Diploma - General Management
+# 10.11.7 Business Administration Diploma - General Management
 
 ## Glossary
 

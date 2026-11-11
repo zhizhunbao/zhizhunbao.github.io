@@ -1,10 +1,10 @@
 ---
-title: "10.63.94 Policing and Community Safety"
+title: "10.64.94 Policing and Community Safety"
 description: "Market > College Programs > St. Clair College > Policing and Community Safety: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.94 Policing and Community Safety
+# 10.64.94 Policing and Community Safety
 
 ## Glossary
 

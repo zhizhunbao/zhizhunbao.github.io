@@ -1,10 +1,10 @@
 ---
-title: "10.23.4 Biotechnology - Advanced Fast Track"
+title: "10.24.4 Biotechnology - Advanced Fast Track"
 description: "Market > College Programs > Fleming College > Biotechnology - Advanced Fast Track: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.4 Biotechnology - Advanced Fast Track
+# 10.24.4 Biotechnology - Advanced Fast Track
 
 ## Glossary
 

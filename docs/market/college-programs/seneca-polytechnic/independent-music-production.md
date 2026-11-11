@@ -1,10 +1,10 @@
 ---
-title: "10.59.107 Independent Music Production"
+title: "10.60.107 Independent Music Production"
 description: "Market > College Programs > Seneca Polytechnic > Independent Music Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.107 Independent Music Production
+# 10.60.107 Independent Music Production
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.10.3 Associate Degree in Arts - General Studies"
+title: "10.11.3 Associate Degree in Arts - General Studies"
 description: "Market > College Programs > Coast Mountain College > Associate Degree in Arts - General Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.3 Associate Degree in Arts - General Studies
+# 10.11.3 Associate Degree in Arts - General Studies
 
 ## Glossary
 

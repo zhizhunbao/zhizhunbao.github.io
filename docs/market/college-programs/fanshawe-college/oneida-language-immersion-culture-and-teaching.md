@@ -1,10 +1,10 @@
 ---
-title: "10.22.133 Oneida - Language Immersion, Culture and Teaching"
+title: "10.23.133 Oneida - Language Immersion, Culture and Teaching"
 description: "Market > College Programs > Fanshawe College > Oneida - Language Immersion, Culture and Teaching: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.133 Oneida - Language Immersion, Culture and Teaching
+# 10.23.133 Oneida - Language Immersion, Culture and Teaching
 
 ## Glossary
 

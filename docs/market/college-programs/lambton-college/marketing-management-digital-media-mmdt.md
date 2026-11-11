@@ -1,10 +1,10 @@
 ---
-title: "10.32.95 Marketing Management - Digital Media (MMDT)"
+title: "10.33.95 Marketing Management - Digital Media (MMDT)"
 description: "Market > College Programs > Lambton College > Marketing Management - Digital Media (MMDT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.95 Marketing Management - Digital Media (MMDT)
+# 10.33.95 Marketing Management - Digital Media (MMDT)
 
 ## Glossary
 

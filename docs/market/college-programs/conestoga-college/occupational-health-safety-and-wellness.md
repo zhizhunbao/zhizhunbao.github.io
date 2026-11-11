@@ -1,10 +1,10 @@
 ---
-title: "10.18.159 Occupational Health, Safety and Wellness"
+title: "10.19.159 Occupational Health, Safety and Wellness"
 description: "Market > College Programs > Conestoga College > Occupational Health, Safety and Wellness: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.159 Occupational Health, Safety and Wellness
+# 10.19.159 Occupational Health, Safety and Wellness
 
 ## Glossary
 

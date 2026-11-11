@@ -1,10 +1,10 @@
 ---
-title: "10.10.18 Social Service Worker (SSW) Diploma"
+title: "10.11.18 Social Service Worker (SSW) Diploma"
 description: "Market > College Programs > Coast Mountain College > Social Service Worker (SSW) Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.18 Social Service Worker (SSW) Diploma
+# 10.11.18 Social Service Worker (SSW) Diploma
 
 ## Glossary
 

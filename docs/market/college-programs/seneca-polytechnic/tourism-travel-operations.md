@@ -1,10 +1,10 @@
 ---
-title: "10.59.157 Tourism – Travel Operations"
+title: "10.60.157 Tourism – Travel Operations"
 description: "Market > College Programs > Seneca Polytechnic > Tourism – Travel Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.157 Tourism – Travel Operations
+# 10.60.157 Tourism – Travel Operations
 
 ## Glossary
 

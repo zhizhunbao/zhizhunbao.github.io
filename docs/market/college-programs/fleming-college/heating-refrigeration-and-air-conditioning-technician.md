@@ -1,10 +1,10 @@
 ---
-title: "10.23.46 Heating, Refrigeration and Air Conditioning Technician"
+title: "10.24.46 Heating, Refrigeration and Air Conditioning Technician"
 description: "Market > College Programs > Fleming College > Heating, Refrigeration and Air Conditioning Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.46 Heating, Refrigeration and Air Conditioning Technician
+# 10.24.46 Heating, Refrigeration and Air Conditioning Technician
 
 ## Glossary
 

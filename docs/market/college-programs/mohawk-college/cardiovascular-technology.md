@@ -1,10 +1,10 @@
 ---
-title: "10.39.25 Cardiovascular Technology"
+title: "10.40.25 Cardiovascular Technology"
 description: "Market > College Programs > Mohawk College > Cardiovascular Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.25 Cardiovascular Technology
+# 10.40.25 Cardiovascular Technology
 
 ## Glossary
 

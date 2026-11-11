@@ -1,10 +1,10 @@
 ---
-title: "10.60.32 Diagnostic Imaging Technology"
+title: "10.61.32 Diagnostic Imaging Technology"
 description: "Market > College Programs > Sheridan College > Diagnostic Imaging Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.32 Diagnostic Imaging Technology
+# 10.61.32 Diagnostic Imaging Technology
 
 ## Glossary
 

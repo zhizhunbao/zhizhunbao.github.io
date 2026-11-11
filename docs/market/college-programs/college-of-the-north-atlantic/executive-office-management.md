@@ -1,10 +1,10 @@
 ---
-title: "10.16.43 Executive Office Management"
+title: "10.17.43 Executive Office Management"
 description: "Market > College Programs > College of the North Atlantic > Executive Office Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.43 Executive Office Management
+# 10.17.43 Executive Office Management
 
 ## Glossary
 

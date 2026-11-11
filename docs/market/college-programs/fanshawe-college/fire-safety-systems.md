@@ -1,10 +1,10 @@
 ---
-title: "10.22.83 Fire Safety Systems"
+title: "10.23.83 Fire Safety Systems"
 description: "Market > College Programs > Fanshawe College > Fire Safety Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.83 Fire Safety Systems
+# 10.23.83 Fire Safety Systems
 
 ## Glossary
 

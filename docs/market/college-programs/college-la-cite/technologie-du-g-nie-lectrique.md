@@ -1,10 +1,10 @@
 ---
-title: "10.14.122 Technologie du génie électrique"
+title: "10.15.122 Technologie du génie électrique"
 description: "Market > College Programs > Collège La Cité > Technologie du génie électrique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.122 Technologie du génie électrique
+# 10.15.122 Technologie du génie électrique
 
 ## Glossary
 

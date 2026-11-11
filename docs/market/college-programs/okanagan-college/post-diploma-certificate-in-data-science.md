@@ -1,10 +1,10 @@
 ---
-title: "10.51.29 Post-Diploma Certificate in Data Science"
+title: "10.52.29 Post-Diploma Certificate in Data Science"
 description: "Market > College Programs > Okanagan College > Post-Diploma Certificate in Data Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.29 Post-Diploma Certificate in Data Science
+# 10.52.29 Post-Diploma Certificate in Data Science
 
 ## Glossary
 

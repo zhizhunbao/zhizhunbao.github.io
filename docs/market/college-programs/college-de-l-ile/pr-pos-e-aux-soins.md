@@ -1,10 +1,10 @@
 ---
-title: "10.13.7 Préposé-e aux soins"
+title: "10.14.7 Préposé-e aux soins"
 description: "Market > College Programs > Collège de l'Île > Préposé-e aux soins: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.7 Préposé-e aux soins
+# 10.14.7 Préposé-e aux soins
 
 ## Glossary
 

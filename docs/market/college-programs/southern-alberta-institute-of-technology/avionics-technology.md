@@ -1,10 +1,10 @@
 ---
-title: "10.62.10 Avionics Technology"
+title: "10.63.10 Avionics Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Avionics Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.10 Avionics Technology
+# 10.63.10 Avionics Technology
 
 ## Glossary
 

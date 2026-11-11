@@ -1,10 +1,10 @@
 ---
-title: "10.23.25 Ecosystem Management Technician (Part-time)"
+title: "10.24.25 Ecosystem Management Technician (Part-time)"
 description: "Market > College Programs > Fleming College > Ecosystem Management Technician (Part-time): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.25 Ecosystem Management Technician (Part-time)
+# 10.24.25 Ecosystem Management Technician (Part-time)
 
 ## Glossary
 

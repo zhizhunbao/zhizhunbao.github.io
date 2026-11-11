@@ -1,10 +1,10 @@
 ---
-title: "10.28.100 Medical Diagnostic Sonography"
+title: "10.29.100 Medical Diagnostic Sonography"
 description: "Market > College Programs > Humber Polytechnic > Medical Diagnostic Sonography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.100 Medical Diagnostic Sonography
+# 10.29.100 Medical Diagnostic Sonography
 
 ## Glossary
 

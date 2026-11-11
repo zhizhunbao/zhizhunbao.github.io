@@ -1,10 +1,10 @@
 ---
-title: "10.46.5 Business"
+title: "10.47.5 Business"
 description: "Market > College Programs > Northern College > Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.5 Business
+# 10.47.5 Business
 
 ## Glossary
 

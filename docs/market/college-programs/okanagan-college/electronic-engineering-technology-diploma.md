@@ -1,10 +1,10 @@
 ---
-title: "10.51.18 Electronic Engineering Technology Diploma"
+title: "10.52.18 Electronic Engineering Technology Diploma"
 description: "Market > College Programs > Okanagan College > Electronic Engineering Technology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.18 Electronic Engineering Technology Diploma
+# 10.52.18 Electronic Engineering Technology Diploma
 
 ## Glossary
 

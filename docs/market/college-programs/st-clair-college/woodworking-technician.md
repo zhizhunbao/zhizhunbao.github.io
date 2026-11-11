@@ -1,10 +1,10 @@
 ---
-title: "10.63.118 Woodworking Technician"
+title: "10.64.118 Woodworking Technician"
 description: "Market > College Programs > St. Clair College > Woodworking Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.118 Woodworking Technician
+# 10.64.118 Woodworking Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.12.6 Briquetage-maçonnage"
+title: "10.13.6 Briquetage-maçonnage"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Briquetage-maçonnage: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.6 Briquetage-maçonnage
+# 10.13.6 Briquetage-maçonnage
 
 ## Glossary
 

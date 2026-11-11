@@ -1,10 +1,10 @@
 ---
-title: "10.62.74 Integrated Artificial Intelligence"
+title: "10.63.74 Integrated Artificial Intelligence"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Integrated Artificial Intelligence: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.74 Integrated Artificial Intelligence
+# 10.63.74 Integrated Artificial Intelligence
 
 ## Glossary
 

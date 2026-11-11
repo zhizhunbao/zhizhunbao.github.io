@@ -1,10 +1,10 @@
 ---
-title: "10.22.154 Renewable Energies Technician (Co-op)"
+title: "10.23.154 Renewable Energies Technician (Co-op)"
 description: "Market > College Programs > Fanshawe College > Renewable Energies Technician (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.154 Renewable Energies Technician (Co-op)
+# 10.23.154 Renewable Energies Technician (Co-op)
 
 ## Glossary
 

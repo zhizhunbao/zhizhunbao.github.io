@@ -1,10 +1,10 @@
 ---
-title: "10.11.57 Technologie de gestion de la pêche et de la faune"
+title: "10.12.57 Technologie de gestion de la pêche et de la faune"
 description: "Market > College Programs > Collège Boréal > Technologie de gestion de la pêche et de la faune: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.57 Technologie de gestion de la pêche et de la faune
+# 10.12.57 Technologie de gestion de la pêche et de la faune
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.59.123 Mechanical Technician – CNC Programming"
+title: "10.60.123 Mechanical Technician – CNC Programming"
 description: "Market > College Programs > Seneca Polytechnic > Mechanical Technician – CNC Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.123 Mechanical Technician – CNC Programming
+# 10.60.123 Mechanical Technician – CNC Programming
 
 ## Glossary
 

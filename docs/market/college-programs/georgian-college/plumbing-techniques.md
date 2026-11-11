@@ -1,10 +1,10 @@
 ---
-title: "10.25.136 Plumbing Techniques"
+title: "10.26.136 Plumbing Techniques"
 description: "Market > College Programs > Georgian College > Plumbing Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.136 Plumbing Techniques
+# 10.26.136 Plumbing Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.63.20 Civil Engineering Technology"
+title: "10.64.20 Civil Engineering Technology"
 description: "Market > College Programs > St. Clair College > Civil Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.20 Civil Engineering Technology
+# 10.64.20 Civil Engineering Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50.108 Pipe Trades"
+title: "10.51.108 Pipe Trades"
 description: "Market > College Programs > Nova Scotia Community College > Pipe Trades: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.108 Pipe Trades
+# 10.51.108 Pipe Trades
 
 ## Glossary
 

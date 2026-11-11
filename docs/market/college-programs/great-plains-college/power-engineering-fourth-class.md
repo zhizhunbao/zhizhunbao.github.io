@@ -1,10 +1,10 @@
 ---
-title: "10.26.9 Power Engineering - Fourth Class"
+title: "10.27.9 Power Engineering - Fourth Class"
 description: "Market > College Programs > Great Plains College > Power Engineering - Fourth Class: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.9 Power Engineering - Fourth Class
+# 10.27.9 Power Engineering - Fourth Class
 
 ## Glossary
 

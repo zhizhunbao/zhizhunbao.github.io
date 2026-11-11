@@ -1,10 +1,10 @@
 ---
-title: "10.65.10 Continuing Care Assistant - Fall 2027 Tisdale (Full-Time)"
+title: "10.66.10 Continuing Care Assistant - Fall 2027 Tisdale (Full-Time)"
 description: "Market > College Programs > Suncrest College > Continuing Care Assistant - Fall 2027 Tisdale (Full-Time): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.10 Continuing Care Assistant - Fall 2027 Tisdale (Full-Time)
+# 10.66.10 Continuing Care Assistant - Fall 2027 Tisdale (Full-Time)
 
 ## Glossary
 

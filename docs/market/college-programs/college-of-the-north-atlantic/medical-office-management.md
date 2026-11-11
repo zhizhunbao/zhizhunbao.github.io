@@ -1,10 +1,10 @@
 ---
-title: "10.16.71 Medical Office Management"
+title: "10.17.71 Medical Office Management"
 description: "Market > College Programs > College of the North Atlantic > Medical Office Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.71 Medical Office Management
+# 10.17.71 Medical Office Management
 
 ## Glossary
 

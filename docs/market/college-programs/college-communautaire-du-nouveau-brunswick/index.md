@@ -1,10 +1,10 @@
 ---
-title: "10.12 Collège communautaire du Nouveau-Brunswick"
+title: "10.13 Collège communautaire du Nouveau-Brunswick"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12 Collège communautaire du Nouveau-Brunswick
+# 10.13 Collège communautaire du Nouveau-Brunswick
 
 ## Glossary
 

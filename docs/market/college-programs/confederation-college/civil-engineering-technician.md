@@ -1,10 +1,10 @@
 ---
-title: "10.19.22 Civil Engineering Technician"
+title: "10.20.22 Civil Engineering Technician"
 description: "Market > College Programs > Confederation College > Civil Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.22 Civil Engineering Technician
+# 10.20.22 Civil Engineering Technician
 
 ## Glossary
 

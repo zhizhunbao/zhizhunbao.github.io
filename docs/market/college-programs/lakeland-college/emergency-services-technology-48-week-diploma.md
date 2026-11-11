@@ -1,10 +1,10 @@
 ---
-title: "10.31.30 Emergency Services Technology, 48-week Diploma"
+title: "10.32.30 Emergency Services Technology, 48-week Diploma"
 description: "Market > College Programs > Lakeland College > Emergency Services Technology, 48-week Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.30 Emergency Services Technology, 48-week Diploma
+# 10.32.30 Emergency Services Technology, 48-week Diploma
 
 ## Glossary
 

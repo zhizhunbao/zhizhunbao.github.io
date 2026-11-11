@@ -1,10 +1,10 @@
 ---
-title: "10.14.30 Baccalauréat spécialisé en cybersécurité – défense et contre-attaque"
+title: "10.15.30 Baccalauréat spécialisé en cybersécurité – défense et contre-attaque"
 description: "Market > College Programs > Collège La Cité > Baccalauréat spécialisé en cybersécurité – défense et contre-attaque: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.30 Baccalauréat spécialisé en cybersécurité – défense et contre-attaque
+# 10.15.30 Baccalauréat spécialisé en cybersécurité – défense et contre-attaque
 
 ## Glossary
 

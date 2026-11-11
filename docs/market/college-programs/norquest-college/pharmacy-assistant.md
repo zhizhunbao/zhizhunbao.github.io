@@ -1,10 +1,10 @@
 ---
-title: "10.42.35 Pharmacy Assistant"
+title: "10.43.35 Pharmacy Assistant"
 description: "Market > College Programs > NorQuest College > Pharmacy Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.35 Pharmacy Assistant
+# 10.43.35 Pharmacy Assistant
 
 ## Glossary
 

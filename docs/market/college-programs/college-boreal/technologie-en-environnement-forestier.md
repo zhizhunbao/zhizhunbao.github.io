@@ -1,10 +1,10 @@
 ---
-title: "10.11.62 Technologie en environnement forestier"
+title: "10.12.62 Technologie en environnement forestier"
 description: "Market > College Programs > Collège Boréal > Technologie en environnement forestier: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.62 Technologie en environnement forestier
+# 10.12.62 Technologie en environnement forestier
 
 ## Glossary
 

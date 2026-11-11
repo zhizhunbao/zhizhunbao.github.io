@@ -1,10 +1,10 @@
 ---
-title: "10.23.78 Welding and Fabrication Technician"
+title: "10.24.78 Welding and Fabrication Technician"
 description: "Market > College Programs > Fleming College > Welding and Fabrication Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.78 Welding and Fabrication Technician
+# 10.24.78 Welding and Fabrication Technician
 
 ## Glossary
 

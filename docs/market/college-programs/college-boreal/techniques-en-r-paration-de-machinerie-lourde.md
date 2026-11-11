@@ -1,10 +1,10 @@
 ---
-title: "10.11.56 Techniques en réparation de machinerie lourde"
+title: "10.12.56 Techniques en réparation de machinerie lourde"
 description: "Market > College Programs > Collège Boréal > Techniques en réparation de machinerie lourde: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.56 Techniques en réparation de machinerie lourde
+# 10.12.56 Techniques en réparation de machinerie lourde
 
 ## Glossary
 

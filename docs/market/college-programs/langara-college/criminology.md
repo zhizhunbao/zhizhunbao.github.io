@@ -1,10 +1,10 @@
 ---
-title: "10.33.36 Criminology"
+title: "10.34.36 Criminology"
 description: "Market > College Programs > Langara College > Criminology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.36 Criminology
+# 10.34.36 Criminology
 
 ## Glossary
 

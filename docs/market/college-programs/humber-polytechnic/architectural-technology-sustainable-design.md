@@ -1,10 +1,10 @@
 ---
-title: "10.28.4 Architectural Technology - Sustainable Design"
+title: "10.29.4 Architectural Technology - Sustainable Design"
 description: "Market > College Programs > Humber Polytechnic > Architectural Technology - Sustainable Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.4 Architectural Technology - Sustainable Design
+# 10.29.4 Architectural Technology - Sustainable Design
 
 ## Glossary
 

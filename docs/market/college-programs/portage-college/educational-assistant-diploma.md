@@ -1,10 +1,10 @@
 ---
-title: "10.53.15 Educational Assistant Diploma"
+title: "10.54.15 Educational Assistant Diploma"
 description: "Market > College Programs > Portage College > Educational Assistant Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.15 Educational Assistant Diploma
+# 10.54.15 Educational Assistant Diploma
 
 ## Glossary
 

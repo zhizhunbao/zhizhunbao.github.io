@@ -1,10 +1,10 @@
 ---
-title: "10.45.15 Bachelor of Business Administration - Supply Chain Management"
+title: "10.46.15 Bachelor of Business Administration - Supply Chain Management"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Bachelor of Business Administration - Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.15 Bachelor of Business Administration - Supply Chain Management
+# 10.46.15 Bachelor of Business Administration - Supply Chain Management
 
 ## Glossary
 

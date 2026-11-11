@@ -1,10 +1,10 @@
 ---
-title: "10.25.75 Food and Nutrition Management - Canadian Organizational Leadership"
+title: "10.26.75 Food and Nutrition Management - Canadian Organizational Leadership"
 description: "Market > College Programs > Georgian College > Food and Nutrition Management - Canadian Organizational Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.75 Food and Nutrition Management - Canadian Organizational Leadership
+# 10.26.75 Food and Nutrition Management - Canadian Organizational Leadership
 
 ## Glossary
 

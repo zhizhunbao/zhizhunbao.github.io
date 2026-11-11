@@ -1,10 +1,10 @@
 ---
-title: "10.17.3 Associate of Arts"
+title: "10.18.3 Associate of Arts"
 description: "Market > College Programs > College of the Rockies > Associate of Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.3 Associate of Arts
+# 10.18.3 Associate of Arts
 
 ## Glossary
 

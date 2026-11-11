@@ -1,10 +1,10 @@
 ---
-title: "10.62.93 Network Systems Specialist"
+title: "10.63.93 Network Systems Specialist"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Network Systems Specialist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.93 Network Systems Specialist
+# 10.63.93 Network Systems Specialist
 
 ## Glossary
 

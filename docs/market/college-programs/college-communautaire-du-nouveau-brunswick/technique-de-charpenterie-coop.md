@@ -1,10 +1,10 @@
 ---
-title: "10.12.42 Technique de charpenterie coop"
+title: "10.13.42 Technique de charpenterie coop"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technique de charpenterie coop: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.42 Technique de charpenterie coop
+# 10.13.42 Technique de charpenterie coop
 
 ## Glossary
 

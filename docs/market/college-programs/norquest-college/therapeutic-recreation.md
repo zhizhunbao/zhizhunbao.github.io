@@ -1,10 +1,10 @@
 ---
-title: "10.42.42 Therapeutic Recreation"
+title: "10.43.42 Therapeutic Recreation"
 description: "Market > College Programs > NorQuest College > Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.42 Therapeutic Recreation
+# 10.43.42 Therapeutic Recreation
 
 ## Glossary
 

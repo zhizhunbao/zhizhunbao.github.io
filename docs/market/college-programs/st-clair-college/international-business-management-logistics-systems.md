@@ -1,10 +1,10 @@
 ---
-title: "10.63.63 International Business Management - Logistics Systems"
+title: "10.64.63 International Business Management - Logistics Systems"
 description: "Market > College Programs > St. Clair College > International Business Management - Logistics Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.63 International Business Management - Logistics Systems
+# 10.64.63 International Business Management - Logistics Systems
 
 ## Glossary
 

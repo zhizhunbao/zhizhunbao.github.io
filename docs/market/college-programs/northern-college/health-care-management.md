@@ -1,10 +1,10 @@
 ---
-title: "10.46.24 Health Care Management"
+title: "10.47.24 Health Care Management"
 description: "Market > College Programs > Northern College > Health Care Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.24 Health Care Management
+# 10.47.24 Health Care Management
 
 ## Glossary
 

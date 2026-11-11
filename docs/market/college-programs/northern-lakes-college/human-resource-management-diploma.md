@@ -1,10 +1,10 @@
 ---
-title: "10.47.12 Human Resource Management Diploma"
+title: "10.48.12 Human Resource Management Diploma"
 description: "Market > College Programs > Northern Lakes College > Human Resource Management Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.12 Human Resource Management Diploma
+# 10.48.12 Human Resource Management Diploma
 
 ## Glossary
 

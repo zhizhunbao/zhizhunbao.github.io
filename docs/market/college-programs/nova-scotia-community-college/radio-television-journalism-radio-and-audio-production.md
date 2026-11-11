@@ -1,10 +1,10 @@
 ---
-title: "10.50.117 Radio Television Journalism - Radio and Audio Production"
+title: "10.51.117 Radio Television Journalism - Radio and Audio Production"
 description: "Market > College Programs > Nova Scotia Community College > Radio Television Journalism - Radio and Audio Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.117 Radio Television Journalism - Radio and Audio Production
+# 10.51.117 Radio Television Journalism - Radio and Audio Production
 
 ## Glossary
 

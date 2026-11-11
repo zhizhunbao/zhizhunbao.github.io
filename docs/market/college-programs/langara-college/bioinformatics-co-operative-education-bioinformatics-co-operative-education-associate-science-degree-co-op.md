@@ -1,10 +1,10 @@
 ---
-title: "10.33.15 Bioinformatics (Co-operative Education) (bioinformatics-co-operative-education-associate-science-degree-co-op)"
+title: "10.34.15 Bioinformatics (Co-operative Education) (bioinformatics-co-operative-education-associate-science-degree-co-op)"
 description: "Market > College Programs > Langara College > Bioinformatics (Co-operative Education) (bioinformatics-co-operative-education-associate-science-degree-co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.15 Bioinformatics (Co-operative Education) (bioinformatics-co-operative-education-associate-science-degree-co-op)
+# 10.34.15 Bioinformatics (Co-operative Education) (bioinformatics-co-operative-education-associate-science-degree-co-op)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.59.12 Aviation Safety"
+title: "10.60.12 Aviation Safety"
 description: "Market > College Programs > Seneca Polytechnic > Aviation Safety: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.12 Aviation Safety
+# 10.60.12 Aviation Safety
 
 ## Glossary
 

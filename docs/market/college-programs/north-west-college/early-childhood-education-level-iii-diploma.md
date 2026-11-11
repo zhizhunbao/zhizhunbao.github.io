@@ -1,10 +1,10 @@
 ---
-title: "10.44.7 Early Childhood Education Level III Diploma"
+title: "10.45.7 Early Childhood Education Level III Diploma"
 description: "Market > College Programs > North West College > Early Childhood Education Level III Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.7 Early Childhood Education Level III Diploma
+# 10.45.7 Early Childhood Education Level III Diploma
 
 ## Glossary
 

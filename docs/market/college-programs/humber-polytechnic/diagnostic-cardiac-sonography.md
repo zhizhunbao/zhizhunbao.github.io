@@ -1,10 +1,10 @@
 ---
-title: "10.28.59 Diagnostic Cardiac Sonography"
+title: "10.29.59 Diagnostic Cardiac Sonography"
 description: "Market > College Programs > Humber Polytechnic > Diagnostic Cardiac Sonography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.59 Diagnostic Cardiac Sonography
+# 10.29.59 Diagnostic Cardiac Sonography
 
 ## Glossary
 

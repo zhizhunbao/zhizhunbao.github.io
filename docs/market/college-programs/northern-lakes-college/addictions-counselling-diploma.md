@@ -1,10 +1,10 @@
 ---
-title: "10.47.1 Addictions Counselling Diploma"
+title: "10.48.1 Addictions Counselling Diploma"
 description: "Market > College Programs > Northern Lakes College > Addictions Counselling Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.1 Addictions Counselling Diploma
+# 10.48.1 Addictions Counselling Diploma
 
 ## Glossary
 

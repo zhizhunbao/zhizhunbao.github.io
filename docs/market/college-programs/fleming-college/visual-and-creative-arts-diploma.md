@@ -1,10 +1,10 @@
 ---
-title: "10.23.77 Visual and Creative Arts Diploma"
+title: "10.24.77 Visual and Creative Arts Diploma"
 description: "Market > College Programs > Fleming College > Visual and Creative Arts Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.77 Visual and Creative Arts Diploma
+# 10.24.77 Visual and Creative Arts Diploma
 
 ## Glossary
 

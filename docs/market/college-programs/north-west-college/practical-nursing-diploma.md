@@ -1,10 +1,10 @@
 ---
-title: "10.44.16 Practical Nursing - Diploma"
+title: "10.45.16 Practical Nursing - Diploma"
 description: "Market > College Programs > North West College > Practical Nursing - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.16 Practical Nursing - Diploma
+# 10.45.16 Practical Nursing - Diploma
 
 ## Glossary
 

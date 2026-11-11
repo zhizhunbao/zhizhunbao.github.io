@@ -1,10 +1,10 @@
 ---
-title: "10.62.71 Hospitality and Tourism Management - Travel and Tourism"
+title: "10.63.71 Hospitality and Tourism Management - Travel and Tourism"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Hospitality and Tourism Management - Travel and Tourism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.71 Hospitality and Tourism Management - Travel and Tourism
+# 10.63.71 Hospitality and Tourism Management - Travel and Tourism
 
 ## Glossary
 

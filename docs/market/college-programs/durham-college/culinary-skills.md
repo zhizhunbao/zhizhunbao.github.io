@@ -1,10 +1,10 @@
 ---
-title: "10.21.41 Culinary Skills"
+title: "10.22.41 Culinary Skills"
 description: "Market > College Programs > Durham College > Culinary Skills: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.41 Culinary Skills
+# 10.22.41 Culinary Skills
 
 ## Glossary
 

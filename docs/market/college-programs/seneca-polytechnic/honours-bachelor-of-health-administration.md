@@ -1,10 +1,10 @@
 ---
-title: "10.59.91 Honours Bachelor of Health Administration"
+title: "10.60.91 Honours Bachelor of Health Administration"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Health Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.91 Honours Bachelor of Health Administration
+# 10.60.91 Honours Bachelor of Health Administration
 
 ## Glossary
 

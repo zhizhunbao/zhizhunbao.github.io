@@ -1,10 +1,10 @@
 ---
-title: "10.62.9 Automotive Service Technology"
+title: "10.63.9 Automotive Service Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Automotive Service Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.9 Automotive Service Technology
+# 10.63.9 Automotive Service Technology
 
 ## Glossary
 

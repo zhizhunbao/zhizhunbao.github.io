@@ -1,10 +1,10 @@
 ---
-title: "10.56.5 Artificial Intelligence and Innovation"
+title: "10.57.5 Artificial Intelligence and Innovation"
 description: "Market > College Programs > Saskatchewan Polytechnic > Artificial Intelligence and Innovation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.5 Artificial Intelligence and Innovation
+# 10.57.5 Artificial Intelligence and Innovation
 
 ## Glossary
 

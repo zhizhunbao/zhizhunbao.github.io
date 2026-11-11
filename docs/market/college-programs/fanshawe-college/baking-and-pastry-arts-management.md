@@ -1,10 +1,10 @@
 ---
-title: "10.22.21 Baking and Pastry Arts Management"
+title: "10.23.21 Baking and Pastry Arts Management"
 description: "Market > College Programs > Fanshawe College > Baking and Pastry Arts Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.21 Baking and Pastry Arts Management
+# 10.23.21 Baking and Pastry Arts Management
 
 ## Glossary
 

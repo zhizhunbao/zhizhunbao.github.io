@@ -1,10 +1,10 @@
 ---
-title: "10.28.54 Content Strategy"
+title: "10.29.54 Content Strategy"
 description: "Market > College Programs > Humber Polytechnic > Content Strategy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.54 Content Strategy
+# 10.29.54 Content Strategy
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.63.70 Mechanical Techniques - Precision Metal Cutting"
+title: "10.64.70 Mechanical Techniques - Precision Metal Cutting"
 description: "Market > College Programs > St. Clair College > Mechanical Techniques - Precision Metal Cutting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.70 Mechanical Techniques - Precision Metal Cutting
+# 10.64.70 Mechanical Techniques - Precision Metal Cutting
 
 ## Glossary
 

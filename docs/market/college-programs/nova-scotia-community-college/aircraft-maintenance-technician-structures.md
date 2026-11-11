@@ -1,10 +1,10 @@
 ---
-title: "10.50.3 Aircraft Maintenance Technician - Structures"
+title: "10.51.3 Aircraft Maintenance Technician - Structures"
 description: "Market > College Programs > Nova Scotia Community College > Aircraft Maintenance Technician - Structures: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.3 Aircraft Maintenance Technician - Structures
+# 10.51.3 Aircraft Maintenance Technician - Structures
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.60.69 Honours Bachelor of Information Sciences (Cyber Security)"
+title: "10.61.69 Honours Bachelor of Information Sciences (Cyber Security)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Information Sciences (Cyber Security): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.69 Honours Bachelor of Information Sciences (Cyber Security)
+# 10.61.69 Honours Bachelor of Information Sciences (Cyber Security)
 
 ## Glossary
 

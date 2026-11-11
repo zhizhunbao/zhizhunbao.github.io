@@ -1,10 +1,10 @@
 ---
-title: "10.14.85 Techniques agricoles – production animale et grandes cultures"
+title: "10.15.85 Techniques agricoles – production animale et grandes cultures"
 description: "Market > College Programs > Collège La Cité > Techniques agricoles – production animale et grandes cultures: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.85 Techniques agricoles – production animale et grandes cultures
+# 10.15.85 Techniques agricoles – production animale et grandes cultures
 
 ## Glossary
 

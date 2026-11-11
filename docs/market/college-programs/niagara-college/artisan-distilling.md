@@ -1,10 +1,10 @@
 ---
-title: "10.41.3 Artisan Distilling"
+title: "10.42.3 Artisan Distilling"
 description: "Market > College Programs > Niagara College > Artisan Distilling: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.3 Artisan Distilling
+# 10.42.3 Artisan Distilling
 
 ## Glossary
 

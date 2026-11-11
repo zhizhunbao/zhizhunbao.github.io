@@ -1,10 +1,10 @@
 ---
-title: "10.30.24 Practical Nurse Diploma"
+title: "10.31.24 Practical Nurse Diploma"
 description: "Market > College Programs > Keyano College > Practical Nurse Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.24 Practical Nurse Diploma
+# 10.31.24 Practical Nurse Diploma
 
 ## Glossary
 

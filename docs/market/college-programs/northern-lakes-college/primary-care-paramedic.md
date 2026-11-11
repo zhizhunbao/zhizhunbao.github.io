@@ -1,10 +1,10 @@
 ---
-title: "10.47.19 Primary Care Paramedic"
+title: "10.48.19 Primary Care Paramedic"
 description: "Market > College Programs > Northern Lakes College > Primary Care Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.19 Primary Care Paramedic
+# 10.48.19 Primary Care Paramedic
 
 ## Glossary
 

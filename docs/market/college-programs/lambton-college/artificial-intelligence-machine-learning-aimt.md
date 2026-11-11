@@ -1,10 +1,10 @@
 ---
-title: "10.32.12 Artificial Intelligence & Machine Learning (AIMT)"
+title: "10.33.12 Artificial Intelligence & Machine Learning (AIMT)"
 description: "Market > College Programs > Lambton College > Artificial Intelligence & Machine Learning (AIMT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.12 Artificial Intelligence & Machine Learning (AIMT)
+# 10.33.12 Artificial Intelligence & Machine Learning (AIMT)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.38.27 Service Dog & Canine Studies Management"
+title: "10.39.27 Service Dog & Canine Studies Management"
 description: "Market > College Programs > Medicine Hat College > Service Dog & Canine Studies Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.27 Service Dog & Canine Studies Management
+# 10.39.27 Service Dog & Canine Studies Management
 
 ## Glossary
 

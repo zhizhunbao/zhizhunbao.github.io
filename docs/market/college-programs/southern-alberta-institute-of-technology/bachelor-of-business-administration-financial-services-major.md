@@ -1,10 +1,10 @@
 ---
-title: "10.62.14 Bachelor of Business Administration - Financial Services Major"
+title: "10.63.14 Bachelor of Business Administration - Financial Services Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Business Administration - Financial Services Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.14 Bachelor of Business Administration - Financial Services Major
+# 10.63.14 Bachelor of Business Administration - Financial Services Major
 
 ## Glossary
 

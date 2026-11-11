@@ -1,10 +1,10 @@
 ---
-title: "10.27.23 Electromechanical Technology"
+title: "10.28.23 Electromechanical Technology"
 description: "Market > College Programs > Holland College > Electromechanical Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.23 Electromechanical Technology
+# 10.28.23 Electromechanical Technology
 
 ## Glossary
 

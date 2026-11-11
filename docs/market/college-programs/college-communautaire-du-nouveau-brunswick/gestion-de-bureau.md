@@ -1,10 +1,10 @@
 ---
-title: "10.12.18 Gestion de bureau"
+title: "10.13.18 Gestion de bureau"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Gestion de bureau: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.18 Gestion de bureau
+# 10.13.18 Gestion de bureau
 
 ## Glossary
 

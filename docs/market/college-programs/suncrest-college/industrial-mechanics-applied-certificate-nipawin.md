@@ -1,10 +1,10 @@
 ---
-title: "10.65.16 Industrial Mechanics Applied Certificate - Nipawin"
+title: "10.66.16 Industrial Mechanics Applied Certificate - Nipawin"
 description: "Market > College Programs > Suncrest College > Industrial Mechanics Applied Certificate - Nipawin: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.16 Industrial Mechanics Applied Certificate - Nipawin
+# 10.66.16 Industrial Mechanics Applied Certificate - Nipawin
 
 ## Glossary
 

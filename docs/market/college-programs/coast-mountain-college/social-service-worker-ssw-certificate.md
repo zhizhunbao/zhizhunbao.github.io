@@ -1,10 +1,10 @@
 ---
-title: "10.10.17 Social Service Worker (SSW) Certificate"
+title: "10.11.17 Social Service Worker (SSW) Certificate"
 description: "Market > College Programs > Coast Mountain College > Social Service Worker (SSW) Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.17 Social Service Worker (SSW) Certificate
+# 10.11.17 Social Service Worker (SSW) Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.39 Graphic Design"
+title: "10.25.39 Graphic Design"
 description: "Market > College Programs > George Brown Polytechnic > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.39 Graphic Design
+# 10.25.39 Graphic Design
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.12.65 Thérapie respiratoire"
+title: "10.13.65 Thérapie respiratoire"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Thérapie respiratoire: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.65 Thérapie respiratoire
+# 10.13.65 Thérapie respiratoire
 
 ## Glossary
 

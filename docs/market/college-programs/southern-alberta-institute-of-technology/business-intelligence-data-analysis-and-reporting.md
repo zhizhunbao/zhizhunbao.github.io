@@ -1,10 +1,10 @@
 ---
-title: "10.62.33 Business Intelligence Data Analysis and Reporting"
+title: "10.63.33 Business Intelligence Data Analysis and Reporting"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Business Intelligence Data Analysis and Reporting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.33 Business Intelligence Data Analysis and Reporting
+# 10.63.33 Business Intelligence Data Analysis and Reporting
 
 ## Glossary
 

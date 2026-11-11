@@ -1,10 +1,10 @@
 ---
-title: "10.59.51 Digital & Social Media Marketing"
+title: "10.60.51 Digital & Social Media Marketing"
 description: "Market > College Programs > Seneca Polytechnic > Digital & Social Media Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.51 Digital & Social Media Marketing
+# 10.60.51 Digital & Social Media Marketing
 
 ## Glossary
 

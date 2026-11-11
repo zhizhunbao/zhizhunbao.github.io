@@ -1,10 +1,10 @@
 ---
-title: "10.64.46 Hairstyling (4 semesters)"
+title: "10.65.46 Hairstyling (4 semesters)"
 description: "Market > College Programs > St. Lawrence College > Hairstyling (4 semesters): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.46 Hairstyling (4 semesters)
+# 10.65.46 Hairstyling (4 semesters)
 
 ## Glossary
 

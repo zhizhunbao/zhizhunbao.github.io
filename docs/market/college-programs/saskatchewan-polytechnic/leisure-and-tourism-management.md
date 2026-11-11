@@ -1,10 +1,10 @@
 ---
-title: "10.56.39 Leisure and Tourism Management"
+title: "10.57.39 Leisure and Tourism Management"
 description: "Market > College Programs > Saskatchewan Polytechnic > Leisure and Tourism Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.39 Leisure and Tourism Management
+# 10.57.39 Leisure and Tourism Management
 
 ## Glossary
 

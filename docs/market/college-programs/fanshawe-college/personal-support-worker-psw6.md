@@ -1,10 +1,10 @@
 ---
-title: "10.22.138 Personal Support Worker (PSW6)"
+title: "10.23.138 Personal Support Worker (PSW6)"
 description: "Market > College Programs > Fanshawe College > Personal Support Worker (PSW6): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.138 Personal Support Worker (PSW6)
+# 10.23.138 Personal Support Worker (PSW6)
 
 ## Glossary
 

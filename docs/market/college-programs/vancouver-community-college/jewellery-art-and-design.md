@@ -1,10 +1,10 @@
 ---
-title: "10.66.40 Jewellery Art and Design"
+title: "10.67.40 Jewellery Art and Design"
 description: "Market > College Programs > Vancouver Community College > Jewellery Art and Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.40 Jewellery Art and Design
+# 10.67.40 Jewellery Art and Design
 
 ## Glossary
 

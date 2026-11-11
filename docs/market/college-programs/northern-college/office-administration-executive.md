@@ -1,10 +1,10 @@
 ---
-title: "10.46.40 Office Administration – Executive"
+title: "10.47.40 Office Administration – Executive"
 description: "Market > College Programs > Northern College > Office Administration – Executive: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.40 Office Administration – Executive
+# 10.47.40 Office Administration – Executive
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.34.29 Environmental Assessment and Restoration"
+title: "10.35.29 Environmental Assessment and Restoration"
 description: "Market > College Programs > Lethbridge Polytechnic > Environmental Assessment and Restoration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.29 Environmental Assessment and Restoration
+# 10.35.29 Environmental Assessment and Restoration
 
 ## Glossary
 

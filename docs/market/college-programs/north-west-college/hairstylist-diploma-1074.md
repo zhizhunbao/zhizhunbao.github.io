@@ -1,10 +1,10 @@
 ---
-title: "10.44.11 Hairstylist Diploma (1074)"
+title: "10.45.11 Hairstylist Diploma (1074)"
 description: "Market > College Programs > North West College > Hairstylist Diploma (1074): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.11 Hairstylist Diploma (1074)
+# 10.45.11 Hairstylist Diploma (1074)
 
 ## Glossary
 

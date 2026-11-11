@@ -1,10 +1,10 @@
 ---
-title: "10.41.67 Motive Power Technician – Automotive (Co-op)"
+title: "10.42.67 Motive Power Technician – Automotive (Co-op)"
 description: "Market > College Programs > Niagara College > Motive Power Technician – Automotive (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.67 Motive Power Technician – Automotive (Co-op)
+# 10.42.67 Motive Power Technician – Automotive (Co-op)
 
 ## Glossary
 

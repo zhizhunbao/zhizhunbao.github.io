@@ -1,10 +1,10 @@
 ---
-title: "10.50.24 Business Intelligence and Analytics"
+title: "10.51.24 Business Intelligence and Analytics"
 description: "Market > College Programs > Nova Scotia Community College > Business Intelligence and Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.24 Business Intelligence and Analytics
+# 10.51.24 Business Intelligence and Analytics
 
 ## Glossary
 

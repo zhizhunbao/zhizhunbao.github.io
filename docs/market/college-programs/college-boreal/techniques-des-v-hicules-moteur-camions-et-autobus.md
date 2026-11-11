@@ -1,10 +1,10 @@
 ---
-title: "10.11.46 Techniques des véhicules à moteur – camions et autobus"
+title: "10.12.46 Techniques des véhicules à moteur – camions et autobus"
 description: "Market > College Programs > Collège Boréal > Techniques des véhicules à moteur – camions et autobus: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.46 Techniques des véhicules à moteur – camions et autobus
+# 10.12.46 Techniques des véhicules à moteur – camions et autobus
 
 ## Glossary
 

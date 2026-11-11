@@ -1,10 +1,10 @@
 ---
-title: "10.14.95 Techniques de soudage en mode accéléré"
+title: "10.15.95 Techniques de soudage en mode accéléré"
 description: "Market > College Programs > Collège La Cité > Techniques de soudage en mode accéléré: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.95 Techniques de soudage en mode accéléré
+# 10.15.95 Techniques de soudage en mode accéléré
 
 ## Glossary
 

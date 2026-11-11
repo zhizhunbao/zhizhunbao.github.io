@@ -1,10 +1,10 @@
 ---
-title: "10.40.5 Applied Community Planning"
+title: "10.41.5 Applied Community Planning"
 description: "Market > College Programs > New Brunswick Community College > Applied Community Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.5 Applied Community Planning
+# 10.41.5 Applied Community Planning
 
 ## Glossary
 

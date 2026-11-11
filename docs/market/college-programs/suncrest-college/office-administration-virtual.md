@@ -1,10 +1,10 @@
 ---
-title: "10.65.19 Office Administration - Virtual"
+title: "10.66.19 Office Administration - Virtual"
 description: "Market > College Programs > Suncrest College > Office Administration - Virtual: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.19 Office Administration - Virtual
+# 10.66.19 Office Administration - Virtual
 
 ## Glossary
 

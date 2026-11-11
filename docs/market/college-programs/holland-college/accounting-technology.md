@@ -1,10 +1,10 @@
 ---
-title: "10.27.1 Accounting Technology"
+title: "10.28.1 Accounting Technology"
 description: "Market > College Programs > Holland College > Accounting Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.1 Accounting Technology
+# 10.28.1 Accounting Technology
 
 ## Glossary
 

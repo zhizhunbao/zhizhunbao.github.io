@@ -1,10 +1,10 @@
 ---
-title: "10.15.31 Medical Radiography Technology Diploma"
+title: "10.16.31 Medical Radiography Technology Diploma"
 description: "Market > College Programs > College of New Caledonia > Medical Radiography Technology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.31 Medical Radiography Technology Diploma
+# 10.16.31 Medical Radiography Technology Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.13.10 Technicien-ne en comptabilité"
+title: "10.14.10 Technicien-ne en comptabilité"
 description: "Market > College Programs > Collège de l'Île > Technicien-ne en comptabilité: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.10 Technicien-ne en comptabilité
+# 10.14.10 Technicien-ne en comptabilité
 
 ## Glossary
 

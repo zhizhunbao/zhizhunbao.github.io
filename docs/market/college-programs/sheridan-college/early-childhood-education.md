@@ -1,10 +1,10 @@
 ---
-title: "10.60.35 Early Childhood Education"
+title: "10.61.35 Early Childhood Education"
 description: "Market > College Programs > Sheridan College > Early Childhood Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.35 Early Childhood Education
+# 10.61.35 Early Childhood Education
 
 ## Glossary
 

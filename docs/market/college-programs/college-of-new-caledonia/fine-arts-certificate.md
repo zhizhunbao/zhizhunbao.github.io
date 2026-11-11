@@ -1,10 +1,10 @@
 ---
-title: "10.15.23 Fine Arts Certificate"
+title: "10.16.23 Fine Arts Certificate"
 description: "Market > College Programs > College of New Caledonia > Fine Arts Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.23 Fine Arts Certificate
+# 10.16.23 Fine Arts Certificate
 
 ## Glossary
 

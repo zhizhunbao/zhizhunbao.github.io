@@ -1,10 +1,10 @@
 ---
-title: "10.37.16 Hairstyling"
+title: "10.38.16 Hairstyling"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Hairstyling: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.16 Hairstyling
+# 10.38.16 Hairstyling
 
 ## Glossary
 

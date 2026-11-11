@@ -1,10 +1,10 @@
 ---
-title: "10.66.30 Global Supply Chain Management"
+title: "10.67.30 Global Supply Chain Management"
 description: "Market > College Programs > Vancouver Community College > Global Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.30 Global Supply Chain Management
+# 10.67.30 Global Supply Chain Management
 
 ## Glossary
 

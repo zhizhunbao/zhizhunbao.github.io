@@ -1,10 +1,10 @@
 ---
-title: "10.50.4 Aircraft Maintenance Technology - Avionics"
+title: "10.51.4 Aircraft Maintenance Technology - Avionics"
 description: "Market > College Programs > Nova Scotia Community College > Aircraft Maintenance Technology - Avionics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.4 Aircraft Maintenance Technology - Avionics
+# 10.51.4 Aircraft Maintenance Technology - Avionics
 
 ## Glossary
 

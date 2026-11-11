@@ -1,10 +1,10 @@
 ---
-title: "10.55.52 Network Services Technician"
+title: "10.56.52 Network Services Technician"
 description: "Market > College Programs > Red River College Polytechnic > Network Services Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.52 Network Services Technician
+# 10.56.52 Network Services Technician
 
 ## Glossary
 

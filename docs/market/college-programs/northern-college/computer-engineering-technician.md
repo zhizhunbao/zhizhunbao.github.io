@@ -1,10 +1,10 @@
 ---
-title: "10.46.12 Computer Engineering Technician"
+title: "10.47.12 Computer Engineering Technician"
 description: "Market > College Programs > Northern College > Computer Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.12 Computer Engineering Technician
+# 10.47.12 Computer Engineering Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.47 Chemical Laboratory Technician"
+title: "10.33.47 Chemical Laboratory Technician"
 description: "Market > College Programs > Lambton College > Chemical Laboratory Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.47 Chemical Laboratory Technician
+# 10.33.47 Chemical Laboratory Technician
 
 ## Glossary
 

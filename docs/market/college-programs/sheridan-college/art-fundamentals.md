@@ -1,10 +1,10 @@
 ---
-title: "10.60.10 Art Fundamentals"
+title: "10.61.10 Art Fundamentals"
 description: "Market > College Programs > Sheridan College > Art Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.10 Art Fundamentals
+# 10.61.10 Art Fundamentals
 
 ## Glossary
 

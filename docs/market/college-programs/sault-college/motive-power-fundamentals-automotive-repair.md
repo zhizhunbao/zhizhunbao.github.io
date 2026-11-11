@@ -1,10 +1,10 @@
 ---
-title: "10.57.38 Motive Power Fundamentals - Automotive Repair"
+title: "10.58.38 Motive Power Fundamentals - Automotive Repair"
 description: "Market > College Programs > Sault College > Motive Power Fundamentals - Automotive Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.38 Motive Power Fundamentals - Automotive Repair
+# 10.58.38 Motive Power Fundamentals - Automotive Repair
 
 ## Glossary
 

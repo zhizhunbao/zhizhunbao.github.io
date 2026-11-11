@@ -1,10 +1,10 @@
 ---
-title: "10.30.21 Power Engineering - 3rd Class Co-op"
+title: "10.31.21 Power Engineering - 3rd Class Co-op"
 description: "Market > College Programs > Keyano College > Power Engineering - 3rd Class Co-op: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.21 Power Engineering - 3rd Class Co-op
+# 10.31.21 Power Engineering - 3rd Class Co-op
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.40.44 HVAC: Sheet Metal Fabrication"
+title: "10.41.44 HVAC: Sheet Metal Fabrication"
 description: "Market > College Programs > New Brunswick Community College > HVAC: Sheet Metal Fabrication: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.44 HVAC: Sheet Metal Fabrication
+# 10.41.44 HVAC: Sheet Metal Fabrication
 
 ## Glossary
 

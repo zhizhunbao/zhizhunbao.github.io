@@ -1,10 +1,10 @@
 ---
-title: "10.55.1 Advanced Manufacturing"
+title: "10.56.1 Advanced Manufacturing"
 description: "Market > College Programs > Red River College Polytechnic > Advanced Manufacturing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.1 Advanced Manufacturing
+# 10.56.1 Advanced Manufacturing
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.63.74 Mobile Applications Development"
+title: "10.64.74 Mobile Applications Development"
 description: "Market > College Programs > St. Clair College > Mobile Applications Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.74 Mobile Applications Development
+# 10.64.74 Mobile Applications Development
 
 ## Glossary
 

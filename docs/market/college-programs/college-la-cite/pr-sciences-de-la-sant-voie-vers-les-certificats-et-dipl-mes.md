@@ -1,10 +1,10 @@
 ---
-title: "10.14.67 Présciences de la santé – voie vers les certificats et diplômes"
+title: "10.15.67 Présciences de la santé – voie vers les certificats et diplômes"
 description: "Market > College Programs > Collège La Cité > Présciences de la santé – voie vers les certificats et diplômes: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.67 Présciences de la santé – voie vers les certificats et diplômes
+# 10.15.67 Présciences de la santé – voie vers les certificats et diplômes
 
 ## Glossary
 

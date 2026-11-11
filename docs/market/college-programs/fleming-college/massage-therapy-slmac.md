@@ -1,10 +1,10 @@
 ---
-title: "10.23.50 Massage Therapy (SLMAC)"
+title: "10.24.50 Massage Therapy (SLMAC)"
 description: "Market > College Programs > Fleming College > Massage Therapy (SLMAC): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.50 Massage Therapy (SLMAC)
+# 10.24.50 Massage Therapy (SLMAC)
 
 ## Glossary
 

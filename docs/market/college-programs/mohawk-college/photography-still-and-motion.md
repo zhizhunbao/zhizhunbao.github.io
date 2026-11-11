@@ -1,10 +1,10 @@
 ---
-title: "10.39.74 Photography - Still and Motion"
+title: "10.40.74 Photography - Still and Motion"
 description: "Market > College Programs > Mohawk College > Photography - Still and Motion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.74 Photography - Still and Motion
+# 10.40.74 Photography - Still and Motion
 
 ## Glossary
 

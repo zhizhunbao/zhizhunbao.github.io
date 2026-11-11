@@ -1,10 +1,10 @@
 ---
-title: "10.25.67 Environmental Technician"
+title: "10.26.67 Environmental Technician"
 description: "Market > College Programs > Georgian College > Environmental Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.67 Environmental Technician
+# 10.26.67 Environmental Technician
 
 ## Glossary
 

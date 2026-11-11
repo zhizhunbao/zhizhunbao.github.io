@@ -1,10 +1,10 @@
 ---
-title: "10.12.23 Mécanique de l’automobile"
+title: "10.13.23 Mécanique de l’automobile"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Mécanique de l’automobile: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.23 Mécanique de l’automobile
+# 10.13.23 Mécanique de l’automobile
 
 ## Glossary
 

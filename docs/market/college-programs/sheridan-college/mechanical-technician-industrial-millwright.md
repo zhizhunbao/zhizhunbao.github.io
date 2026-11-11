@@ -1,10 +1,10 @@
 ---
-title: "10.60.85 Mechanical Technician – Industrial Millwright"
+title: "10.61.85 Mechanical Technician – Industrial Millwright"
 description: "Market > College Programs > Sheridan College > Mechanical Technician – Industrial Millwright: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.85 Mechanical Technician – Industrial Millwright
+# 10.61.85 Mechanical Technician – Industrial Millwright
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.16.85 Primary Care Paramedicine"
+title: "10.17.85 Primary Care Paramedicine"
 description: "Market > College Programs > College of the North Atlantic > Primary Care Paramedicine: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.85 Primary Care Paramedicine
+# 10.17.85 Primary Care Paramedicine
 
 ## Glossary
 

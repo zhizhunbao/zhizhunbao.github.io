@@ -1,10 +1,10 @@
 ---
-title: "10.25.33 Cabinetmaking Techniques"
+title: "10.26.33 Cabinetmaking Techniques"
 description: "Market > College Programs > Georgian College > Cabinetmaking Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.33 Cabinetmaking Techniques
+# 10.26.33 Cabinetmaking Techniques
 
 ## Glossary
 

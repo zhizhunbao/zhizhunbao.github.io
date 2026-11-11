@@ -1,10 +1,10 @@
 ---
-title: "10.50.94 Medical Office Administration"
+title: "10.51.94 Medical Office Administration"
 description: "Market > College Programs > Nova Scotia Community College > Medical Office Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.94 Medical Office Administration
+# 10.51.94 Medical Office Administration
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.27.51 Video Game Art and Animation"
+title: "10.28.51 Video Game Art and Animation"
 description: "Market > College Programs > Holland College > Video Game Art and Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.51 Video Game Art and Animation
+# 10.28.51 Video Game Art and Animation
 
 ## Glossary
 

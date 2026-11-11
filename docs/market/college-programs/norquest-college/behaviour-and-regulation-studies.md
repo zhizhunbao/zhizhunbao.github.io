@@ -1,10 +1,10 @@
 ---
-title: "10.42.7 Behaviour and Regulation Studies"
+title: "10.43.7 Behaviour and Regulation Studies"
 description: "Market > College Programs > NorQuest College > Behaviour and Regulation Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.7 Behaviour and Regulation Studies
+# 10.43.7 Behaviour and Regulation Studies
 
 ## Glossary
 

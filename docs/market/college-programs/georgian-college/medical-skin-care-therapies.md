@@ -1,10 +1,10 @@
 ---
-title: "10.25.122 Medical Skin Care Therapies"
+title: "10.26.122 Medical Skin Care Therapies"
 description: "Market > College Programs > Georgian College > Medical Skin Care Therapies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.122 Medical Skin Care Therapies
+# 10.26.122 Medical Skin Care Therapies
 
 ## Glossary
 

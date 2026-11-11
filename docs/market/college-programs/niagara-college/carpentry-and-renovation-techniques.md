@@ -1,10 +1,10 @@
 ---
-title: "10.41.20 Carpentry and Renovation Techniques"
+title: "10.42.20 Carpentry and Renovation Techniques"
 description: "Market > College Programs > Niagara College > Carpentry and Renovation Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.20 Carpentry and Renovation Techniques
+# 10.42.20 Carpentry and Renovation Techniques
 
 ## Glossary
 

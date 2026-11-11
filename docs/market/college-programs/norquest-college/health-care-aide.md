@@ -1,10 +1,10 @@
 ---
-title: "10.42.23 Health Care Aide"
+title: "10.43.23 Health Care Aide"
 description: "Market > College Programs > NorQuest College > Health Care Aide: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.23 Health Care Aide
+# 10.43.23 Health Care Aide
 
 ## Glossary
 

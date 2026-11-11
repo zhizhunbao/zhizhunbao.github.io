@@ -1,10 +1,10 @@
 ---
-title: "10.40.55 Justice Studies: Public Safety"
+title: "10.41.55 Justice Studies: Public Safety"
 description: "Market > College Programs > New Brunswick Community College > Justice Studies: Public Safety: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.55 Justice Studies: Public Safety
+# 10.41.55 Justice Studies: Public Safety
 
 ## Glossary
 

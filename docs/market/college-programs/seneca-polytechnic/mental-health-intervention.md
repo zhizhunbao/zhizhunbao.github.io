@@ -1,10 +1,10 @@
 ---
-title: "10.59.125 Mental Health Intervention"
+title: "10.60.125 Mental Health Intervention"
 description: "Market > College Programs > Seneca Polytechnic > Mental Health Intervention: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.125 Mental Health Intervention
+# 10.60.125 Mental Health Intervention
 
 ## Glossary
 

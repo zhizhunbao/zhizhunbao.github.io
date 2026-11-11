@@ -1,10 +1,10 @@
 ---
-title: "10.46.45 Practical Nursing"
+title: "10.47.45 Practical Nursing"
 description: "Market > College Programs > Northern College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.45 Practical Nursing
+# 10.47.45 Practical Nursing
 
 ## Glossary
 

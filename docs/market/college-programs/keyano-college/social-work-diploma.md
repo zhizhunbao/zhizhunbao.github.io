@@ -1,10 +1,10 @@
 ---
-title: "10.30.26 Social Work Diploma"
+title: "10.31.26 Social Work Diploma"
 description: "Market > College Programs > Keyano College > Social Work Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.26 Social Work Diploma
+# 10.31.26 Social Work Diploma
 
 ## Glossary
 

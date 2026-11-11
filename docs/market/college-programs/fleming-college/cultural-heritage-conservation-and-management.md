@@ -1,10 +1,10 @@
 ---
-title: "10.23.15 Cultural Heritage Conservation and Management"
+title: "10.24.15 Cultural Heritage Conservation and Management"
 description: "Market > College Programs > Fleming College > Cultural Heritage Conservation and Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.15 Cultural Heritage Conservation and Management
+# 10.24.15 Cultural Heritage Conservation and Management
 
 ## Glossary
 

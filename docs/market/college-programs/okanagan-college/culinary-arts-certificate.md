@@ -1,10 +1,10 @@
 ---
-title: "10.51.14 Culinary Arts Certificate"
+title: "10.52.14 Culinary Arts Certificate"
 description: "Market > College Programs > Okanagan College > Culinary Arts Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.14 Culinary Arts Certificate
+# 10.52.14 Culinary Arts Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.12.27 Planification financière personnelle"
+title: "10.13.27 Planification financière personnelle"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Planification financière personnelle: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.27 Planification financière personnelle
+# 10.13.27 Planification financière personnelle
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.59.54 Early Childhood Education (Accelerated)"
+title: "10.60.54 Early Childhood Education (Accelerated)"
 description: "Market > College Programs > Seneca Polytechnic > Early Childhood Education (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.54 Early Childhood Education (Accelerated)
+# 10.60.54 Early Childhood Education (Accelerated)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.49.25 Practical Nurse"
+title: "10.50.25 Practical Nurse"
 description: "Market > College Programs > Northwestern Polytechnic > Practical Nurse: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.25 Practical Nurse
+# 10.50.25 Practical Nurse
 
 ## Glossary
 

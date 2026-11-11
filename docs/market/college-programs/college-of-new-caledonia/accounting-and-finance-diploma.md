@@ -1,10 +1,10 @@
 ---
-title: "10.15.1 Accounting and Finance Diploma"
+title: "10.16.1 Accounting and Finance Diploma"
 description: "Market > College Programs > College of New Caledonia > Accounting and Finance Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.1 Accounting and Finance Diploma
+# 10.16.1 Accounting and Finance Diploma
 
 ## Glossary
 

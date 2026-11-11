@@ -1,10 +1,10 @@
 ---
-title: "10.18.178 Renewable Energy Techniques"
+title: "10.19.178 Renewable Energy Techniques"
 description: "Market > College Programs > Conestoga College > Renewable Energy Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.178 Renewable Energy Techniques
+# 10.19.178 Renewable Energy Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.65.6 Business Certificate - Yorkton & Tisdale"
+title: "10.66.6 Business Certificate - Yorkton & Tisdale"
 description: "Market > College Programs > Suncrest College > Business Certificate - Yorkton & Tisdale: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.6 Business Certificate - Yorkton & Tisdale
+# 10.66.6 Business Certificate - Yorkton & Tisdale
 
 ## Glossary
 

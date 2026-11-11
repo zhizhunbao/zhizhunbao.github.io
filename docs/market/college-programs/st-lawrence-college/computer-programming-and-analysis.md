@@ -1,10 +1,10 @@
 ---
-title: "10.64.24 Computer Programming and Analysis"
+title: "10.65.24 Computer Programming and Analysis"
 description: "Market > College Programs > St. Lawrence College > Computer Programming and Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.24 Computer Programming and Analysis
+# 10.65.24 Computer Programming and Analysis
 
 ## Glossary
 

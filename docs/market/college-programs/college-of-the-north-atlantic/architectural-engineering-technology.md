@@ -1,10 +1,10 @@
 ---
-title: "10.16.8 Architectural Engineering Technology"
+title: "10.17.8 Architectural Engineering Technology"
 description: "Market > College Programs > College of the North Atlantic > Architectural Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.8 Architectural Engineering Technology
+# 10.17.8 Architectural Engineering Technology
 
 ## Glossary
 

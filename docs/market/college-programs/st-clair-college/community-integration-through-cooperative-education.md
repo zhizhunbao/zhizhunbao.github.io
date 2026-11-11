@@ -1,10 +1,10 @@
 ---
-title: "10.63.22 Community Integration through Cooperative Education"
+title: "10.64.22 Community Integration through Cooperative Education"
 description: "Market > College Programs > St. Clair College > Community Integration through Cooperative Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.22 Community Integration through Cooperative Education
+# 10.64.22 Community Integration through Cooperative Education
 
 ## Glossary
 

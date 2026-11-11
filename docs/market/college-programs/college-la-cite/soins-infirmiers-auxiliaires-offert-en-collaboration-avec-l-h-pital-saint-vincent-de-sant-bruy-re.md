@@ -1,10 +1,10 @@
 ---
-title: "10.14.80 Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Saint-Vincent de Santé Bruyère)"
+title: "10.15.80 Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Saint-Vincent de Santé Bruyère)"
 description: "Market > College Programs > Collège La Cité > Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Saint-Vincent de Santé Bruyère): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.80 Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Saint-Vincent de Santé Bruyère)
+# 10.15.80 Soins infirmiers auxiliaires (offert en collaboration avec l’Hôpital Saint-Vincent de Santé Bruyère)
 
 ## Glossary
 

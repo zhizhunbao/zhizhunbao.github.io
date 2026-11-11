@@ -1,10 +1,10 @@
 ---
-title: "10.26.5 Diploma in Safety, Health and Environmental Management"
+title: "10.27.5 Diploma in Safety, Health and Environmental Management"
 description: "Market > College Programs > Great Plains College > Diploma in Safety, Health and Environmental Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.5 Diploma in Safety, Health and Environmental Management
+# 10.27.5 Diploma in Safety, Health and Environmental Management
 
 ## Glossary
 

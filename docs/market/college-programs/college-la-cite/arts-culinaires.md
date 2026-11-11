@@ -1,10 +1,10 @@
 ---
-title: "10.14.14 Arts culinaires"
+title: "10.15.14 Arts culinaires"
 description: "Market > College Programs > Collège La Cité > Arts culinaires: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.14 Arts culinaires
+# 10.15.14 Arts culinaires
 
 ## Glossary
 

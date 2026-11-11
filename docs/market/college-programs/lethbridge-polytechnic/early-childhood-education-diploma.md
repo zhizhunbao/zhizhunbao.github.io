@@ -1,10 +1,10 @@
 ---
-title: "10.34.23 Early Childhood Education Diploma"
+title: "10.35.23 Early Childhood Education Diploma"
 description: "Market > College Programs > Lethbridge Polytechnic > Early Childhood Education Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.23 Early Childhood Education Diploma
+# 10.35.23 Early Childhood Education Diploma
 
 ## Glossary
 

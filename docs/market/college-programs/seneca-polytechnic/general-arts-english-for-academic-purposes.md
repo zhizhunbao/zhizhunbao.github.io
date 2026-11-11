@@ -1,10 +1,10 @@
 ---
-title: "10.59.78 General Arts – English for Academic Purposes"
+title: "10.60.78 General Arts – English for Academic Purposes"
 description: "Market > College Programs > Seneca Polytechnic > General Arts – English for Academic Purposes: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.78 General Arts – English for Academic Purposes
+# 10.60.78 General Arts – English for Academic Purposes
 
 ## Glossary
 

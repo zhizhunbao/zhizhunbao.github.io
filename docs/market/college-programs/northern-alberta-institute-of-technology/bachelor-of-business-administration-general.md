@@ -1,10 +1,10 @@
 ---
-title: "10.45.11 Bachelor of Business Administration - General"
+title: "10.46.11 Bachelor of Business Administration - General"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Bachelor of Business Administration - General: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.11 Bachelor of Business Administration - General
+# 10.46.11 Bachelor of Business Administration - General
 
 ## Glossary
 

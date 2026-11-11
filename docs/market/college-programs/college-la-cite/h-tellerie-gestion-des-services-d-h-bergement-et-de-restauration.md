@@ -1,10 +1,10 @@
 ---
-title: "10.14.46 Hôtellerie – Gestion des services d'hébergement et de restauration"
+title: "10.15.46 Hôtellerie – Gestion des services d'hébergement et de restauration"
 description: "Market > College Programs > Collège La Cité > Hôtellerie – Gestion des services d'hébergement et de restauration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.46 Hôtellerie – Gestion des services d'hébergement et de restauration
+# 10.15.46 Hôtellerie – Gestion des services d'hébergement et de restauration
 
 ## Glossary
 

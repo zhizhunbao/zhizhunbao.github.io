@@ -1,10 +1,10 @@
 ---
-title: "10.57.36 Mechanical Techniques - Industrial Maintenance (Millwright)"
+title: "10.58.36 Mechanical Techniques - Industrial Maintenance (Millwright)"
 description: "Market > College Programs > Sault College > Mechanical Techniques - Industrial Maintenance (Millwright): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.36 Mechanical Techniques - Industrial Maintenance (Millwright)
+# 10.58.36 Mechanical Techniques - Industrial Maintenance (Millwright)
 
 ## Glossary
 

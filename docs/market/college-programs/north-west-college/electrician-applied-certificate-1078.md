@@ -1,10 +1,10 @@
 ---
-title: "10.44.9 Electrician - Applied Certificate (1078)"
+title: "10.45.9 Electrician - Applied Certificate (1078)"
 description: "Market > College Programs > North West College > Electrician - Applied Certificate (1078): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.9 Electrician - Applied Certificate (1078)
+# 10.45.9 Electrician - Applied Certificate (1078)
 
 ## Glossary
 

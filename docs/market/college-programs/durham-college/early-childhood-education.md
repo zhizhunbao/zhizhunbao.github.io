@@ -1,10 +1,10 @@
 ---
-title: "10.21.47 Early Childhood Education"
+title: "10.22.47 Early Childhood Education"
 description: "Market > College Programs > Durham College > Early Childhood Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.47 Early Childhood Education
+# 10.22.47 Early Childhood Education
 
 ## Glossary
 

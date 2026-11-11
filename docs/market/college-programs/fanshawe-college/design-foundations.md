@@ -1,10 +1,10 @@
 ---
-title: "10.22.64 Design Foundations"
+title: "10.23.64 Design Foundations"
 description: "Market > College Programs > Fanshawe College > Design Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.64 Design Foundations
+# 10.23.64 Design Foundations
 
 ## Glossary
 

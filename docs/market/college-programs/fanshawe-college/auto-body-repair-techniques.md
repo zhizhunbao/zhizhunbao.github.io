@@ -1,10 +1,10 @@
 ---
-title: "10.22.16 Auto Body Repair Techniques"
+title: "10.23.16 Auto Body Repair Techniques"
 description: "Market > College Programs > Fanshawe College > Auto Body Repair Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.16 Auto Body Repair Techniques
+# 10.23.16 Auto Body Repair Techniques
 
 ## Glossary
 

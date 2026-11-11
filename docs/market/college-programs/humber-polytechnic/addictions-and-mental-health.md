@@ -1,10 +1,10 @@
 ---
-title: "10.28.2 Addictions and Mental Health"
+title: "10.29.2 Addictions and Mental Health"
 description: "Market > College Programs > Humber Polytechnic > Addictions and Mental Health: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.2 Addictions and Mental Health
+# 10.29.2 Addictions and Mental Health
 
 ## Glossary
 

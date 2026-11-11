@@ -1,10 +1,10 @@
 ---
-title: "10.41.24 Computer Engineering Technician"
+title: "10.42.24 Computer Engineering Technician"
 description: "Market > College Programs > Niagara College > Computer Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.24 Computer Engineering Technician
+# 10.42.24 Computer Engineering Technician
 
 ## Glossary
 

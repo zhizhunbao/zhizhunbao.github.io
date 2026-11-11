@@ -1,10 +1,10 @@
 ---
-title: "10.14.81 Soins infirmiers auxiliaires (SIA post-Passerelle NPTI-PSSP)"
+title: "10.15.81 Soins infirmiers auxiliaires (SIA post-Passerelle NPTI-PSSP)"
 description: "Market > College Programs > Collège La Cité > Soins infirmiers auxiliaires (SIA post-Passerelle NPTI-PSSP): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.81 Soins infirmiers auxiliaires (SIA post-Passerelle NPTI-PSSP)
+# 10.15.81 Soins infirmiers auxiliaires (SIA post-Passerelle NPTI-PSSP)
 
 ## Glossary
 

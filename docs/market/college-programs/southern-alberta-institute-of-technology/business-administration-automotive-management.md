@@ -1,10 +1,10 @@
 ---
-title: "10.62.31 Business Administration Automotive Management"
+title: "10.63.31 Business Administration Automotive Management"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Business Administration Automotive Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.31 Business Administration Automotive Management
+# 10.63.31 Business Administration Automotive Management
 
 ## Glossary
 

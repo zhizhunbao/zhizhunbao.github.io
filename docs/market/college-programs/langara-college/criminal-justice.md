@@ -1,10 +1,10 @@
 ---
-title: "10.33.35 Criminal Justice"
+title: "10.34.35 Criminal Justice"
 description: "Market > College Programs > Langara College > Criminal Justice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.35 Criminal Justice
+# 10.34.35 Criminal Justice
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.16.86 Project Management"
+title: "10.17.86 Project Management"
 description: "Market > College Programs > College of the North Atlantic > Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.86 Project Management
+# 10.17.86 Project Management
 
 ## Glossary
 

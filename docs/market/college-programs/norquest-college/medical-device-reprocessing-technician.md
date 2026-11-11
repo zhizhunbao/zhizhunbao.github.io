@@ -1,10 +1,10 @@
 ---
-title: "10.42.31 Medical Device Reprocessing Technician"
+title: "10.43.31 Medical Device Reprocessing Technician"
 description: "Market > College Programs > NorQuest College > Medical Device Reprocessing Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.31 Medical Device Reprocessing Technician
+# 10.43.31 Medical Device Reprocessing Technician
 
 ## Glossary
 

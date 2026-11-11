@@ -1,10 +1,10 @@
 ---
-title: "10.50.30 Civil Engineering Technology"
+title: "10.51.30 Civil Engineering Technology"
 description: "Market > College Programs > Nova Scotia Community College > Civil Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.30 Civil Engineering Technology
+# 10.51.30 Civil Engineering Technology
 
 ## Glossary
 

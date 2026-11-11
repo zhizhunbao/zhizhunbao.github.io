@@ -1,10 +1,10 @@
 ---
-title: "10.23.19 Diagnostic Cardiac Sonography"
+title: "10.24.19 Diagnostic Cardiac Sonography"
 description: "Market > College Programs > Fleming College > Diagnostic Cardiac Sonography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.19 Diagnostic Cardiac Sonography
+# 10.24.19 Diagnostic Cardiac Sonography
 
 ## Glossary
 

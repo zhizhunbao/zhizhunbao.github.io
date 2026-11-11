@@ -1,10 +1,10 @@
 ---
-title: "10.20.56 Hospitality Management (dphosp)"
+title: "10.21.56 Hospitality Management (dphosp)"
 description: "Market > College Programs > Douglas College > Hospitality Management (dphosp): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.56 Hospitality Management (dphosp)
+# 10.21.56 Hospitality Management (dphosp)
 
 ## Glossary
 

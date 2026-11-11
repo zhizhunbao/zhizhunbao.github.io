@@ -1,10 +1,10 @@
 ---
-title: "10.22.58 Culinary Management"
+title: "10.23.58 Culinary Management"
 description: "Market > College Programs > Fanshawe College > Culinary Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.58 Culinary Management
+# 10.23.58 Culinary Management
 
 ## Glossary
 

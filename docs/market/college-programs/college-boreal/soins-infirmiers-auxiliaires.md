@@ -1,10 +1,10 @@
 ---
-title: "10.11.34 Soins infirmiers auxiliaires"
+title: "10.12.34 Soins infirmiers auxiliaires"
 description: "Market > College Programs > Collège Boréal > Soins infirmiers auxiliaires: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.34 Soins infirmiers auxiliaires
+# 10.12.34 Soins infirmiers auxiliaires
 
 ## Glossary
 

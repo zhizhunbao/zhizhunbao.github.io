@@ -1,10 +1,10 @@
 ---
-title: "10.62.107 Primary Care Paramedic"
+title: "10.63.107 Primary Care Paramedic"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Primary Care Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.107 Primary Care Paramedic
+# 10.63.107 Primary Care Paramedic
 
 ## Glossary
 

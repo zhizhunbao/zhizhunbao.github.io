@@ -1,10 +1,10 @@
 ---
-title: "10.40.13 Business Administration: Accounting"
+title: "10.41.13 Business Administration: Accounting"
 description: "Market > College Programs > New Brunswick Community College > Business Administration: Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.13 Business Administration: Accounting
+# 10.41.13 Business Administration: Accounting
 
 ## Glossary
 

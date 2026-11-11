@@ -1,10 +1,10 @@
 ---
-title: "10.61.6 Mental Health and Addictions Counselling Diploma"
+title: "10.62.6 Mental Health and Addictions Counselling Diploma"
 description: "Market > College Programs > Southeast College > Mental Health and Addictions Counselling Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.61.6 Mental Health and Addictions Counselling Diploma
+# 10.62.6 Mental Health and Addictions Counselling Diploma
 
 ## Glossary
 

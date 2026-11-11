@@ -1,10 +1,10 @@
 ---
-title: "10.52.7 Bachelor of Applied Science - Golf Course Management"
+title: "10.53.7 Bachelor of Applied Science - Golf Course Management"
 description: "Market > College Programs > Olds College > Bachelor of Applied Science - Golf Course Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.7 Bachelor of Applied Science - Golf Course Management
+# 10.53.7 Bachelor of Applied Science - Golf Course Management
 
 ## Glossary
 

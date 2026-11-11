@@ -1,10 +1,10 @@
 ---
-title: "10.23.13 Computer Security and Investigations"
+title: "10.24.13 Computer Security and Investigations"
 description: "Market > College Programs > Fleming College > Computer Security and Investigations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.13 Computer Security and Investigations
+# 10.24.13 Computer Security and Investigations
 
 ## Glossary
 

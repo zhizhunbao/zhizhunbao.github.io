@@ -1,10 +1,10 @@
 ---
-title: "10.50.60 Gas Technician"
+title: "10.51.60 Gas Technician"
 description: "Market > College Programs > Nova Scotia Community College > Gas Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.60 Gas Technician
+# 10.51.60 Gas Technician
 
 ## Glossary
 

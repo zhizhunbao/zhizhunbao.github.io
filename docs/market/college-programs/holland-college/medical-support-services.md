@@ -1,10 +1,10 @@
 ---
-title: "10.27.35 Medical Support Services"
+title: "10.28.35 Medical Support Services"
 description: "Market > College Programs > Holland College > Medical Support Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.35 Medical Support Services
+# 10.28.35 Medical Support Services
 
 ## Glossary
 

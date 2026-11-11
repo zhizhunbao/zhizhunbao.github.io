@@ -1,10 +1,10 @@
 ---
-title: "10.66.11 Bachelor of Hospitality Management"
+title: "10.67.11 Bachelor of Hospitality Management"
 description: "Market > College Programs > Vancouver Community College > Bachelor of Hospitality Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.11 Bachelor of Hospitality Management
+# 10.67.11 Bachelor of Hospitality Management
 
 ## Glossary
 

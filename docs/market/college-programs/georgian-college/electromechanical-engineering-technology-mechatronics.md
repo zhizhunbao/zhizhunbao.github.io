@@ -1,10 +1,10 @@
 ---
-title: "10.25.65 Electromechanical Engineering Technology - Mechatronics"
+title: "10.26.65 Electromechanical Engineering Technology - Mechatronics"
 description: "Market > College Programs > Georgian College > Electromechanical Engineering Technology - Mechatronics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.65 Electromechanical Engineering Technology - Mechatronics
+# 10.26.65 Electromechanical Engineering Technology - Mechatronics
 
 ## Glossary
 

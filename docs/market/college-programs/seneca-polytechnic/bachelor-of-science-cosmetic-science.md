@@ -1,10 +1,10 @@
 ---
-title: "10.59.16 Bachelor of Science – Cosmetic Science"
+title: "10.60.16 Bachelor of Science – Cosmetic Science"
 description: "Market > College Programs > Seneca Polytechnic > Bachelor of Science – Cosmetic Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.16 Bachelor of Science – Cosmetic Science
+# 10.60.16 Bachelor of Science – Cosmetic Science
 
 ## Glossary
 

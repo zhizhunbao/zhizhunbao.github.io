@@ -1,10 +1,10 @@
 ---
-title: "10.14.57 Pratiques en administration des affaires (41699)"
+title: "10.15.57 Pratiques en administration des affaires (41699)"
 description: "Market > College Programs > Collège La Cité > Pratiques en administration des affaires (41699): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.57 Pratiques en administration des affaires (41699)
+# 10.15.57 Pratiques en administration des affaires (41699)
 
 ## Glossary
 

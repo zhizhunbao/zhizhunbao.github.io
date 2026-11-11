@@ -1,10 +1,10 @@
 ---
-title: "10.62.79 Journalism - Print and Online Major"
+title: "10.63.79 Journalism - Print and Online Major"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Journalism - Print and Online Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.79 Journalism - Print and Online Major
+# 10.63.79 Journalism - Print and Online Major
 
 ## Glossary
 

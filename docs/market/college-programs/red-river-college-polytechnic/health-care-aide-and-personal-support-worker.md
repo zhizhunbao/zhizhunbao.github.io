@@ -1,10 +1,10 @@
 ---
-title: "10.55.36 Health Care Aide and Personal Support Worker"
+title: "10.56.36 Health Care Aide and Personal Support Worker"
 description: "Market > College Programs > Red River College Polytechnic > Health Care Aide and Personal Support Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.36 Health Care Aide and Personal Support Worker
+# 10.56.36 Health Care Aide and Personal Support Worker
 
 ## Glossary
 

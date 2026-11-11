@@ -1,10 +1,10 @@
 ---
-title: "10.19.45 Indigenous Canadian Relations"
+title: "10.20.45 Indigenous Canadian Relations"
 description: "Market > College Programs > Confederation College > Indigenous Canadian Relations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.45 Indigenous Canadian Relations
+# 10.20.45 Indigenous Canadian Relations
 
 ## Glossary
 

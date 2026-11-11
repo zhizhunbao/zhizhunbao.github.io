@@ -1,10 +1,10 @@
 ---
-title: "10.20.22 Bachelor of Science in Health Information Management (2nd year entry)"
+title: "10.21.22 Bachelor of Science in Health Information Management (2nd year entry)"
 description: "Market > College Programs > Douglas College > Bachelor of Science in Health Information Management (2nd year entry): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.22 Bachelor of Science in Health Information Management (2nd year entry)
+# 10.21.22 Bachelor of Science in Health Information Management (2nd year entry)
 
 ## Glossary
 

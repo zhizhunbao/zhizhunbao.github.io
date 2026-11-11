@@ -1,10 +1,10 @@
 ---
-title: "10.29.13 Fire Prevention Officer"
+title: "10.30.13 Fire Prevention Officer"
 description: "Market > College Programs > Justice Institute of British Columbia > Fire Prevention Officer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.13 Fire Prevention Officer
+# 10.30.13 Fire Prevention Officer
 
 ## Glossary
 

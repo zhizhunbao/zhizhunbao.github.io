@@ -1,10 +1,10 @@
 ---
-title: "10.17 College of the Rockies"
+title: "10.18 College of the Rockies"
 description: "Market > College Programs > College of the Rockies: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17 College of the Rockies
+# 10.18 College of the Rockies
 
 ## Glossary
 

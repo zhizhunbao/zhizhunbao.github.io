@@ -1,10 +1,10 @@
 ---
-title: "10.50.21 Business Administration - Financial Services"
+title: "10.51.21 Business Administration - Financial Services"
 description: "Market > College Programs > Nova Scotia Community College > Business Administration - Financial Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.21 Business Administration - Financial Services
+# 10.51.21 Business Administration - Financial Services
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.5 Autism and Behavioural Sciences"
+title: "10.20.5 Autism and Behavioural Sciences"
 description: "Market > College Programs > Confederation College > Autism and Behavioural Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.5 Autism and Behavioural Sciences
+# 10.20.5 Autism and Behavioural Sciences
 
 ## Glossary
 

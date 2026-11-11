@@ -1,10 +1,10 @@
 ---
-title: "10.46.20 Environmental Technician – Water and Wastewater Systems Operations (T089)"
+title: "10.47.20 Environmental Technician – Water and Wastewater Systems Operations (T089)"
 description: "Market > College Programs > Northern College > Environmental Technician – Water and Wastewater Systems Operations (T089): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.20 Environmental Technician – Water and Wastewater Systems Operations (T089)
+# 10.47.20 Environmental Technician – Water and Wastewater Systems Operations (T089)
 
 ## Glossary
 

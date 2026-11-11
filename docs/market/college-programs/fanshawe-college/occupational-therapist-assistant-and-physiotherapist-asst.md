@@ -1,10 +1,10 @@
 ---
-title: "10.22.129 Occupational Therapist Assistant and Physiotherapist Asst."
+title: "10.23.129 Occupational Therapist Assistant and Physiotherapist Asst."
 description: "Market > College Programs > Fanshawe College > Occupational Therapist Assistant and Physiotherapist Asst.: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.129 Occupational Therapist Assistant and Physiotherapist Asst.
+# 10.23.129 Occupational Therapist Assistant and Physiotherapist Asst.
 
 ## Glossary
 

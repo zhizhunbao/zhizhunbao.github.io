@@ -1,10 +1,10 @@
 ---
-title: "10.22.66 Developmental Services Worker (Accelerated)"
+title: "10.23.66 Developmental Services Worker (Accelerated)"
 description: "Market > College Programs > Fanshawe College > Developmental Services Worker (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.66 Developmental Services Worker (Accelerated)
+# 10.23.66 Developmental Services Worker (Accelerated)
 
 ## Glossary
 

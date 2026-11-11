@@ -1,10 +1,10 @@
 ---
-title: "10.14.74 Service de la restauration"
+title: "10.15.74 Service de la restauration"
 description: "Market > College Programs > Collège La Cité > Service de la restauration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.74 Service de la restauration
+# 10.15.74 Service de la restauration
 
 ## Glossary
 

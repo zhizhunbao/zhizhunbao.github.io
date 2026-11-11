@@ -1,10 +1,10 @@
 ---
-title: "10.59.145 Public Relations – Corporate Communications"
+title: "10.60.145 Public Relations – Corporate Communications"
 description: "Market > College Programs > Seneca Polytechnic > Public Relations – Corporate Communications: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.145 Public Relations – Corporate Communications
+# 10.60.145 Public Relations – Corporate Communications
 
 ## Glossary
 

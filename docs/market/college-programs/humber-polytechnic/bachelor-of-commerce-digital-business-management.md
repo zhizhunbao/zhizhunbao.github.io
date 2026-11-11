@@ -1,10 +1,10 @@
 ---
-title: "10.28.10 Bachelor of Commerce - Digital Business Management"
+title: "10.29.10 Bachelor of Commerce - Digital Business Management"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Commerce - Digital Business Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.10 Bachelor of Commerce - Digital Business Management
+# 10.29.10 Bachelor of Commerce - Digital Business Management
 
 ## Glossary
 

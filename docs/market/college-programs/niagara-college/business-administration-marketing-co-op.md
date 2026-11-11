@@ -1,10 +1,10 @@
 ---
-title: "10.41.14 Business Administration – Marketing (Co-op)"
+title: "10.42.14 Business Administration – Marketing (Co-op)"
 description: "Market > College Programs > Niagara College > Business Administration – Marketing (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.14 Business Administration – Marketing (Co-op)
+# 10.42.14 Business Administration – Marketing (Co-op)
 
 ## Glossary
 

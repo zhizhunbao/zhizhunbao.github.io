@@ -1,10 +1,10 @@
 ---
-title: "10.18.50 Business - Supply Chain and Operations for Commercial Trucking"
+title: "10.19.50 Business - Supply Chain and Operations for Commercial Trucking"
 description: "Market > College Programs > Conestoga College > Business - Supply Chain and Operations for Commercial Trucking: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.50 Business - Supply Chain and Operations for Commercial Trucking
+# 10.19.50 Business - Supply Chain and Operations for Commercial Trucking
 
 ## Glossary
 

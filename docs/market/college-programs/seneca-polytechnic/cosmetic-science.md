@@ -1,10 +1,10 @@
 ---
-title: "10.59.45 Cosmetic Science"
+title: "10.60.45 Cosmetic Science"
 description: "Market > College Programs > Seneca Polytechnic > Cosmetic Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.45 Cosmetic Science
+# 10.60.45 Cosmetic Science
 
 ## Glossary
 

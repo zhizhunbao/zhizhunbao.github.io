@@ -1,10 +1,10 @@
 ---
-title: "10.45.40 Culinary Arts"
+title: "10.46.40 Culinary Arts"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Culinary Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.40 Culinary Arts
+# 10.46.40 Culinary Arts
 
 ## Glossary
 

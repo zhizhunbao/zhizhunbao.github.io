@@ -1,10 +1,10 @@
 ---
-title: "10.34.22 Early Childhood Education Certificate"
+title: "10.35.22 Early Childhood Education Certificate"
 description: "Market > College Programs > Lethbridge Polytechnic > Early Childhood Education Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.22 Early Childhood Education Certificate
+# 10.35.22 Early Childhood Education Certificate
 
 ## Glossary
 

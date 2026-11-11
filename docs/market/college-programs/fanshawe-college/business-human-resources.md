@@ -1,10 +1,10 @@
 ---
-title: "10.22.30 Business - Human Resources"
+title: "10.23.30 Business - Human Resources"
 description: "Market > College Programs > Fanshawe College > Business - Human Resources: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.30 Business - Human Resources
+# 10.23.30 Business - Human Resources
 
 ## Glossary
 

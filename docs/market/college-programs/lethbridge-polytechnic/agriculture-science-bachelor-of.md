@@ -1,10 +1,10 @@
 ---
-title: "10.34.4 Agriculture Science - Bachelor of"
+title: "10.35.4 Agriculture Science - Bachelor of"
 description: "Market > College Programs > Lethbridge Polytechnic > Agriculture Science - Bachelor of: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.4 Agriculture Science - Bachelor of
+# 10.35.4 Agriculture Science - Bachelor of
 
 ## Glossary
 

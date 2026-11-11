@@ -1,10 +1,10 @@
 ---
-title: "10.22.157 Social Service Worker (Fast Track)"
+title: "10.23.157 Social Service Worker (Fast Track)"
 description: "Market > College Programs > Fanshawe College > Social Service Worker (Fast Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.157 Social Service Worker (Fast Track)
+# 10.23.157 Social Service Worker (Fast Track)
 
 ## Glossary
 

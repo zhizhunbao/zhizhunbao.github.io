@@ -1,10 +1,10 @@
 ---
-title: "10.15 College of New Caledonia"
+title: "10.16 College of New Caledonia"
 description: "Market > College Programs > College of New Caledonia: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15 College of New Caledonia
+# 10.16 College of New Caledonia
 
 ## Glossary
 

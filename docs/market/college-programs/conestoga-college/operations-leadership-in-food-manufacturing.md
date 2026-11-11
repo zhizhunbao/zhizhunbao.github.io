@@ -1,10 +1,10 @@
 ---
-title: "10.18.162 Operations Leadership in Food Manufacturing"
+title: "10.19.162 Operations Leadership in Food Manufacturing"
 description: "Market > College Programs > Conestoga College > Operations Leadership in Food Manufacturing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.162 Operations Leadership in Food Manufacturing
+# 10.19.162 Operations Leadership in Food Manufacturing
 
 ## Glossary
 

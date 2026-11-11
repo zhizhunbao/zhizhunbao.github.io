@@ -1,10 +1,10 @@
 ---
-title: "10.18.205 Wireless Network Infrastructure"
+title: "10.19.205 Wireless Network Infrastructure"
 description: "Market > College Programs > Conestoga College > Wireless Network Infrastructure: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.205 Wireless Network Infrastructure
+# 10.19.205 Wireless Network Infrastructure
 
 ## Glossary
 

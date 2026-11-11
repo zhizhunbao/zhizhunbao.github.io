@@ -1,10 +1,10 @@
 ---
-title: "10.20.57 Hospitality Management (pdhosp)"
+title: "10.21.57 Hospitality Management (pdhosp)"
 description: "Market > College Programs > Douglas College > Hospitality Management (pdhosp): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.57 Hospitality Management (pdhosp)
+# 10.21.57 Hospitality Management (pdhosp)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.65.27 Welding"
+title: "10.66.27 Welding"
 description: "Market > College Programs > Suncrest College > Welding: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.27 Welding
+# 10.66.27 Welding
 
 ## Glossary
 

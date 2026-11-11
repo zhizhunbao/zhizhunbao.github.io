@@ -1,10 +1,10 @@
 ---
-title: "10.18.2 Advanced Video Content Creation"
+title: "10.19.2 Advanced Video Content Creation"
 description: "Market > College Programs > Conestoga College > Advanced Video Content Creation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.2 Advanced Video Content Creation
+# 10.19.2 Advanced Video Content Creation
 
 ## Glossary
 

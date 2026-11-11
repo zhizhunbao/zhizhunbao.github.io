@@ -1,10 +1,10 @@
 ---
-title: "10.49.11 Education - Secondary"
+title: "10.50.11 Education - Secondary"
 description: "Market > College Programs > Northwestern Polytechnic > Education - Secondary: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.11 Education - Secondary
+# 10.50.11 Education - Secondary
 
 ## Glossary
 

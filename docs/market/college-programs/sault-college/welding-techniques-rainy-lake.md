@@ -1,10 +1,10 @@
 ---
-title: "10.57.61 Welding Techniques (Rainy Lake)"
+title: "10.58.61 Welding Techniques (Rainy Lake)"
 description: "Market > College Programs > Sault College > Welding Techniques (Rainy Lake): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.61 Welding Techniques (Rainy Lake)
+# 10.58.61 Welding Techniques (Rainy Lake)
 
 ## Glossary
 

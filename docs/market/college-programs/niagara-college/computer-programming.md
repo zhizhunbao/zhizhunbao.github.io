@@ -1,10 +1,10 @@
 ---
-title: "10.41.25 Computer Programming"
+title: "10.42.25 Computer Programming"
 description: "Market > College Programs > Niagara College > Computer Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.25 Computer Programming
+# 10.42.25 Computer Programming
 
 ## Glossary
 

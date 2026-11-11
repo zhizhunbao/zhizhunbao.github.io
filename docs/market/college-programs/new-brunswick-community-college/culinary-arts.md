@@ -1,10 +1,10 @@
 ---
-title: "10.40.24 Culinary Arts"
+title: "10.41.24 Culinary Arts"
 description: "Market > College Programs > New Brunswick Community College > Culinary Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.24 Culinary Arts
+# 10.41.24 Culinary Arts
 
 ## Glossary
 

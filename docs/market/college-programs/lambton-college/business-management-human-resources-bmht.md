@@ -1,10 +1,10 @@
 ---
-title: "10.32.42 Business Management - Human Resources (BMHT)"
+title: "10.33.42 Business Management - Human Resources (BMHT)"
 description: "Market > College Programs > Lambton College > Business Management - Human Resources (BMHT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.42 Business Management - Human Resources (BMHT)
+# 10.33.42 Business Management - Human Resources (BMHT)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.65.15 Industrial Mechanics - Esterhazy"
+title: "10.66.15 Industrial Mechanics - Esterhazy"
 description: "Market > College Programs > Suncrest College > Industrial Mechanics - Esterhazy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.15 Industrial Mechanics - Esterhazy
+# 10.66.15 Industrial Mechanics - Esterhazy
 
 ## Glossary
 

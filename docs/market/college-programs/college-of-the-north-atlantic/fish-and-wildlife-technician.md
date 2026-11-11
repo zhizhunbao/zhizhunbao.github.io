@@ -1,10 +1,10 @@
 ---
-title: "10.16.44 Fish and Wildlife Technician"
+title: "10.17.44 Fish and Wildlife Technician"
 description: "Market > College Programs > College of the North Atlantic > Fish and Wildlife Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.44 Fish and Wildlife Technician
+# 10.17.44 Fish and Wildlife Technician
 
 ## Glossary
 

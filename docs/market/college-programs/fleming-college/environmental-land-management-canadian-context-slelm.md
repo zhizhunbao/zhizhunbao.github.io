@@ -1,10 +1,10 @@
 ---
-title: "10.23.35 Environmental Land Management – Canadian Context (SLELM)"
+title: "10.24.35 Environmental Land Management – Canadian Context (SLELM)"
 description: "Market > College Programs > Fleming College > Environmental Land Management – Canadian Context (SLELM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.35 Environmental Land Management – Canadian Context (SLELM)
+# 10.24.35 Environmental Land Management – Canadian Context (SLELM)
 
 ## Glossary
 

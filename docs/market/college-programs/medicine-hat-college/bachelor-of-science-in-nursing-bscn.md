@@ -1,10 +1,10 @@
 ---
-title: "10.38.8 Bachelor of Science in Nursing (BScN)"
+title: "10.39.8 Bachelor of Science in Nursing (BScN)"
 description: "Market > College Programs > Medicine Hat College > Bachelor of Science in Nursing (BScN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.8 Bachelor of Science in Nursing (BScN)
+# 10.39.8 Bachelor of Science in Nursing (BScN)
 
 ## Glossary
 

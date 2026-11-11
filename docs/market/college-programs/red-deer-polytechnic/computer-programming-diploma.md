@@ -1,10 +1,10 @@
 ---
-title: "10.54.19 Computer Programming Diploma"
+title: "10.55.19 Computer Programming Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Computer Programming Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.19 Computer Programming Diploma
+# 10.55.19 Computer Programming Diploma
 
 ## Glossary
 

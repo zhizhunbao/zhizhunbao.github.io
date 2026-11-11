@@ -1,10 +1,10 @@
 ---
-title: "10.21.91 Music Business"
+title: "10.22.91 Music Business"
 description: "Market > College Programs > Durham College > Music Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.91 Music Business
+# 10.22.91 Music Business
 
 ## Glossary
 

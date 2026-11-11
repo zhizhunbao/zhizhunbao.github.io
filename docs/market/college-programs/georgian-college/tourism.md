@@ -1,10 +1,10 @@
 ---
-title: "10.25.154 Tourism"
+title: "10.26.154 Tourism"
 description: "Market > College Programs > Georgian College > Tourism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.154 Tourism
+# 10.26.154 Tourism
 
 ## Glossary
 

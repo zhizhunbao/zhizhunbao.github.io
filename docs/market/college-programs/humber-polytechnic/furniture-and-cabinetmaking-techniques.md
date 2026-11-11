@@ -1,10 +1,10 @@
 ---
-title: "10.28.76 Furniture and Cabinetmaking Techniques"
+title: "10.29.76 Furniture and Cabinetmaking Techniques"
 description: "Market > College Programs > Humber Polytechnic > Furniture and Cabinetmaking Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.76 Furniture and Cabinetmaking Techniques
+# 10.29.76 Furniture and Cabinetmaking Techniques
 
 ## Glossary
 

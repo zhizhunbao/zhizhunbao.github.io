@@ -1,10 +1,10 @@
 ---
-title: "10.32.97 Marketing Management - Professional Sales"
+title: "10.33.97 Marketing Management - Professional Sales"
 description: "Market > College Programs > Lambton College > Marketing Management - Professional Sales: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.97 Marketing Management - Professional Sales
+# 10.33.97 Marketing Management - Professional Sales
 
 ## Glossary
 

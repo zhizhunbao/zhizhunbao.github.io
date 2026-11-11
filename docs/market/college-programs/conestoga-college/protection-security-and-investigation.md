@@ -1,10 +1,10 @@
 ---
-title: "10.18.175 Protection, Security and Investigation"
+title: "10.19.175 Protection, Security and Investigation"
 description: "Market > College Programs > Conestoga College > Protection, Security and Investigation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.175 Protection, Security and Investigation
+# 10.19.175 Protection, Security and Investigation
 
 ## Glossary
 

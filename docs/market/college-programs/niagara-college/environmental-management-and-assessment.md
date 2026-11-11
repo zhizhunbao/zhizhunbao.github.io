@@ -1,10 +1,10 @@
 ---
-title: "10.41.43 Environmental Management and Assessment"
+title: "10.42.43 Environmental Management and Assessment"
 description: "Market > College Programs > Niagara College > Environmental Management and Assessment: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.43 Environmental Management and Assessment
+# 10.42.43 Environmental Management and Assessment
 
 ## Glossary
 

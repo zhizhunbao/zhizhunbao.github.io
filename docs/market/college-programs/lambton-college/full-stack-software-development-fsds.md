@@ -1,10 +1,10 @@
 ---
-title: "10.32.82 Full Stack Software Development (FSDS)"
+title: "10.33.82 Full Stack Software Development (FSDS)"
 description: "Market > College Programs > Lambton College > Full Stack Software Development (FSDS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.82 Full Stack Software Development (FSDS)
+# 10.33.82 Full Stack Software Development (FSDS)
 
 ## Glossary
 

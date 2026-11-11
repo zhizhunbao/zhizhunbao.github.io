@@ -1,10 +1,10 @@
 ---
-title: "10.39.20 Business Administration"
+title: "10.40.20 Business Administration"
 description: "Market > College Programs > Mohawk College > Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.20 Business Administration
+# 10.40.20 Business Administration
 
 ## Glossary
 

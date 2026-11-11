@@ -1,10 +1,10 @@
 ---
-title: "10.17.4 Associate of Arts Degree – Psychology"
+title: "10.18.4 Associate of Arts Degree – Psychology"
 description: "Market > College Programs > College of the Rockies > Associate of Arts Degree – Psychology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.4 Associate of Arts Degree – Psychology
+# 10.18.4 Associate of Arts Degree – Psychology
 
 ## Glossary
 

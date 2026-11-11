@@ -1,10 +1,10 @@
 ---
-title: "10.51.27 Post-Baccalaureate Diploma in Health Analytics"
+title: "10.52.27 Post-Baccalaureate Diploma in Health Analytics"
 description: "Market > College Programs > Okanagan College > Post-Baccalaureate Diploma in Health Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.27 Post-Baccalaureate Diploma in Health Analytics
+# 10.52.27 Post-Baccalaureate Diploma in Health Analytics
 
 ## Glossary
 

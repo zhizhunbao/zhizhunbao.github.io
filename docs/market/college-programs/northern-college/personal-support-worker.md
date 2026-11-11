@@ -1,10 +1,10 @@
 ---
-title: "10.46.43 Personal Support Worker"
+title: "10.47.43 Personal Support Worker"
 description: "Market > College Programs > Northern College > Personal Support Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.43 Personal Support Worker
+# 10.47.43 Personal Support Worker
 
 ## Glossary
 

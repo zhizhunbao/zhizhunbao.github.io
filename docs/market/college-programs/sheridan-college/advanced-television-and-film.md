@@ -1,10 +1,10 @@
 ---
-title: "10.60.3 Advanced Television and Film"
+title: "10.61.3 Advanced Television and Film"
 description: "Market > College Programs > Sheridan College > Advanced Television and Film: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.3 Advanced Television and Film
+# 10.61.3 Advanced Television and Film
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50.128 Welding"
+title: "10.51.128 Welding"
 description: "Market > College Programs > Nova Scotia Community College > Welding: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.128 Welding
+# 10.51.128 Welding
 
 ## Glossary
 

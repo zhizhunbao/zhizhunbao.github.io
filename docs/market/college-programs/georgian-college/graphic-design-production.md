@@ -1,10 +1,10 @@
 ---
-title: "10.25.89 Graphic Design Production"
+title: "10.26.89 Graphic Design Production"
 description: "Market > College Programs > Georgian College > Graphic Design Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.89 Graphic Design Production
+# 10.26.89 Graphic Design Production
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.39.37 Concurrent Disorders"
+title: "10.40.37 Concurrent Disorders"
 description: "Market > College Programs > Mohawk College > Concurrent Disorders: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.37 Concurrent Disorders
+# 10.40.37 Concurrent Disorders
 
 ## Glossary
 

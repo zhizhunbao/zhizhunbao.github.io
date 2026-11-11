@@ -1,10 +1,10 @@
 ---
-title: "10.11.13 Coiffure"
+title: "10.12.13 Coiffure"
 description: "Market > College Programs > Collège Boréal > Coiffure: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.13 Coiffure
+# 10.12.13 Coiffure
 
 ## Glossary
 

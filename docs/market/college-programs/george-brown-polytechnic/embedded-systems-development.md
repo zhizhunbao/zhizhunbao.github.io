@@ -1,10 +1,10 @@
 ---
-title: "10.24.37 Embedded Systems Development"
+title: "10.25.37 Embedded Systems Development"
 description: "Market > College Programs > George Brown Polytechnic > Embedded Systems Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.37 Embedded Systems Development
+# 10.25.37 Embedded Systems Development
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.33.7 Applied Science for Engineering"
+title: "10.34.7 Applied Science for Engineering"
 description: "Market > College Programs > Langara College > Applied Science for Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.7 Applied Science for Engineering
+# 10.34.7 Applied Science for Engineering
 
 ## Glossary
 

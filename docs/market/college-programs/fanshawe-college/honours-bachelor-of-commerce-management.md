@@ -1,10 +1,10 @@
 ---
-title: "10.22.104 Honours Bachelor of Commerce (Management)"
+title: "10.23.104 Honours Bachelor of Commerce (Management)"
 description: "Market > College Programs > Fanshawe College > Honours Bachelor of Commerce (Management): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.104 Honours Bachelor of Commerce (Management)
+# 10.23.104 Honours Bachelor of Commerce (Management)
 
 ## Glossary
 

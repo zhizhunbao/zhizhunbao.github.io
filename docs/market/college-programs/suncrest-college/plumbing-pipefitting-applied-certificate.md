@@ -1,10 +1,10 @@
 ---
-title: "10.65.20 Plumbing & Pipefitting Applied Certificate"
+title: "10.66.20 Plumbing & Pipefitting Applied Certificate"
 description: "Market > College Programs > Suncrest College > Plumbing & Pipefitting Applied Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.20 Plumbing & Pipefitting Applied Certificate
+# 10.66.20 Plumbing & Pipefitting Applied Certificate
 
 ## Glossary
 

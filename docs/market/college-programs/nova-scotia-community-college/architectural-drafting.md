@@ -1,10 +1,10 @@
 ---
-title: "10.50.9 Architectural Drafting"
+title: "10.51.9 Architectural Drafting"
 description: "Market > College Programs > Nova Scotia Community College > Architectural Drafting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.9 Architectural Drafting
+# 10.51.9 Architectural Drafting
 
 ## Glossary
 

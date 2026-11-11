@@ -1,10 +1,10 @@
 ---
-title: "10.49.20 Kinesiology (BKIN)"
+title: "10.50.20 Kinesiology (BKIN)"
 description: "Market > College Programs > Northwestern Polytechnic > Kinesiology (BKIN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.20 Kinesiology (BKIN)
+# 10.50.20 Kinesiology (BKIN)
 
 ## Glossary
 

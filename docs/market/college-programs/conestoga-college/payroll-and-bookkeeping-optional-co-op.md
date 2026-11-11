@@ -1,10 +1,10 @@
 ---
-title: "10.18.163 Payroll and Bookkeeping (Optional Co-op)"
+title: "10.19.163 Payroll and Bookkeeping (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Payroll and Bookkeeping (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.163 Payroll and Bookkeeping (Optional Co-op)
+# 10.19.163 Payroll and Bookkeeping (Optional Co-op)
 
 ## Glossary
 

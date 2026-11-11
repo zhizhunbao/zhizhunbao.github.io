@@ -1,10 +1,10 @@
 ---
-title: "10.40.50 Information Technology: Game Development"
+title: "10.41.50 Information Technology: Game Development"
 description: "Market > College Programs > New Brunswick Community College > Information Technology: Game Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.50 Information Technology: Game Development
+# 10.41.50 Information Technology: Game Development
 
 ## Glossary
 

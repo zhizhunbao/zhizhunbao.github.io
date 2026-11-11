@@ -1,10 +1,10 @@
 ---
-title: "10.59.48 Cybersecurity & Threat Management"
+title: "10.60.48 Cybersecurity & Threat Management"
 description: "Market > College Programs > Seneca Polytechnic > Cybersecurity & Threat Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.48 Cybersecurity & Threat Management
+# 10.60.48 Cybersecurity & Threat Management
 
 ## Glossary
 

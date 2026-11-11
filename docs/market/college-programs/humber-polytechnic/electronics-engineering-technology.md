@@ -1,10 +1,10 @@
 ---
-title: "10.28.70 Electronics Engineering Technology"
+title: "10.29.70 Electronics Engineering Technology"
 description: "Market > College Programs > Humber Polytechnic > Electronics Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.70 Electronics Engineering Technology
+# 10.29.70 Electronics Engineering Technology
 
 ## Glossary
 

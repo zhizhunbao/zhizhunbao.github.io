@@ -1,10 +1,10 @@
 ---
-title: "10.50.81 IT Systems Management and Security"
+title: "10.51.81 IT Systems Management and Security"
 description: "Market > College Programs > Nova Scotia Community College > IT Systems Management and Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.81 IT Systems Management and Security
+# 10.51.81 IT Systems Management and Security
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.36 Business Analytics (BANS)"
+title: "10.33.36 Business Analytics (BANS)"
 description: "Market > College Programs > Lambton College > Business Analytics (BANS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.36 Business Analytics (BANS)
+# 10.33.36 Business Analytics (BANS)
 
 ## Glossary
 

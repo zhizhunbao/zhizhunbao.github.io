@@ -1,10 +1,10 @@
 ---
-title: "10.23.43 Hairstyling"
+title: "10.24.43 Hairstyling"
 description: "Market > College Programs > Fleming College > Hairstyling: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.43 Hairstyling
+# 10.24.43 Hairstyling
 
 ## Glossary
 

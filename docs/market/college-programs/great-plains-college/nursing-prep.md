@@ -1,10 +1,10 @@
 ---
-title: "10.26.8 Nursing Prep"
+title: "10.27.8 Nursing Prep"
 description: "Market > College Programs > Great Plains College > Nursing Prep: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.8 Nursing Prep
+# 10.27.8 Nursing Prep
 
 ## Glossary
 

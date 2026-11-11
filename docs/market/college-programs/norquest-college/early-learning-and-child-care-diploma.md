@@ -1,10 +1,10 @@
 ---
-title: "10.42.18 Early Learning and Child Care – diploma"
+title: "10.43.18 Early Learning and Child Care – diploma"
 description: "Market > College Programs > NorQuest College > Early Learning and Child Care – diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.18 Early Learning and Child Care – diploma
+# 10.43.18 Early Learning and Child Care – diploma
 
 ## Glossary
 

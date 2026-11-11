@@ -1,10 +1,10 @@
 ---
-title: "10.50.126 Tourism Management"
+title: "10.51.126 Tourism Management"
 description: "Market > College Programs > Nova Scotia Community College > Tourism Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.126 Tourism Management
+# 10.51.126 Tourism Management
 
 ## Glossary
 

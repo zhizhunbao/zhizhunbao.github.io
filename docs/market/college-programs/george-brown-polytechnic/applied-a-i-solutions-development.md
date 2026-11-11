@@ -1,10 +1,10 @@
 ---
-title: "10.24.1 Applied A.I. Solutions Development"
+title: "10.25.1 Applied A.I. Solutions Development"
 description: "Market > College Programs > George Brown Polytechnic > Applied A.I. Solutions Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.1 Applied A.I. Solutions Development
+# 10.25.1 Applied A.I. Solutions Development
 
 ## Glossary
 

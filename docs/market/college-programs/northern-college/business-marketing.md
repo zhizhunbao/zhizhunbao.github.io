@@ -1,10 +1,10 @@
 ---
-title: "10.46.9 Business – Marketing"
+title: "10.47.9 Business – Marketing"
 description: "Market > College Programs > Northern College > Business – Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.9 Business – Marketing
+# 10.47.9 Business – Marketing
 
 ## Glossary
 

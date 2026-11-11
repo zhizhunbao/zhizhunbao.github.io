@@ -1,10 +1,10 @@
 ---
-title: "10.45.61 Hospitality Management"
+title: "10.46.61 Hospitality Management"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Hospitality Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.61 Hospitality Management
+# 10.46.61 Hospitality Management
 
 ## Glossary
 

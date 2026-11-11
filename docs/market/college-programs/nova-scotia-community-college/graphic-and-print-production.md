@@ -1,10 +1,10 @@
 ---
-title: "10.50.67 Graphic and Print Production"
+title: "10.51.67 Graphic and Print Production"
 description: "Market > College Programs > Nova Scotia Community College > Graphic and Print Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.67 Graphic and Print Production
+# 10.51.67 Graphic and Print Production
 
 ## Glossary
 

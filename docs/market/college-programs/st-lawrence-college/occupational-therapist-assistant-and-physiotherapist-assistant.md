@@ -1,10 +1,10 @@
 ---
-title: "10.64.59 Occupational Therapist Assistant and Physiotherapist Assistant"
+title: "10.65.59 Occupational Therapist Assistant and Physiotherapist Assistant"
 description: "Market > College Programs > St. Lawrence College > Occupational Therapist Assistant and Physiotherapist Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.59 Occupational Therapist Assistant and Physiotherapist Assistant
+# 10.65.59 Occupational Therapist Assistant and Physiotherapist Assistant
 
 ## Glossary
 

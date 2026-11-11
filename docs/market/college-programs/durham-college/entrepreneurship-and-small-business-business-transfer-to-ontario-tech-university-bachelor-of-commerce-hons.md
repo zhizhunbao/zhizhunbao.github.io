@@ -1,10 +1,10 @@
 ---
-title: "10.21.52 Entrepreneurship and Small Business – Business – Transfer to Ontario Tech University Bachelor of Commerce (Hons)"
+title: "10.22.52 Entrepreneurship and Small Business – Business – Transfer to Ontario Tech University Bachelor of Commerce (Hons)"
 description: "Market > College Programs > Durham College > Entrepreneurship and Small Business – Business – Transfer to Ontario Tech University Bachelor of Commerce (Hons): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.52 Entrepreneurship and Small Business – Business – Transfer to Ontario Tech University Bachelor of Commerce (Hons)
+# 10.22.52 Entrepreneurship and Small Business – Business – Transfer to Ontario Tech University Bachelor of Commerce (Hons)
 
 ## Glossary
 

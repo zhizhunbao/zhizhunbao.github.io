@@ -1,10 +1,10 @@
 ---
-title: "10.35.23 Construction Engineering Technician"
+title: "10.36.23 Construction Engineering Technician"
 description: "Market > College Programs > Loyalist College > Construction Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.23 Construction Engineering Technician
+# 10.36.23 Construction Engineering Technician
 
 ## Glossary
 

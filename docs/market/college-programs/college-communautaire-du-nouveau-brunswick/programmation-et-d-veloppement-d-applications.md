@@ -1,10 +1,10 @@
 ---
-title: "10.12.31 Programmation et développement d’applications"
+title: "10.13.31 Programmation et développement d’applications"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Programmation et développement d’applications: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.31 Programmation et développement d’applications
+# 10.13.31 Programmation et développement d’applications
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.35 Power Engineering 3rd Class"
+title: "10.16.35 Power Engineering 3rd Class"
 description: "Market > College Programs > College of New Caledonia > Power Engineering 3rd Class: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.35 Power Engineering 3rd Class
+# 10.16.35 Power Engineering 3rd Class
 
 ## Glossary
 

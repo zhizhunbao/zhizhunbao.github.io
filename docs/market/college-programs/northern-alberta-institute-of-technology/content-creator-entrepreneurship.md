@@ -1,10 +1,10 @@
 ---
-title: "10.45.38 Content Creator Entrepreneurship"
+title: "10.46.38 Content Creator Entrepreneurship"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Content Creator Entrepreneurship: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.38 Content Creator Entrepreneurship
+# 10.46.38 Content Creator Entrepreneurship
 
 ## Glossary
 

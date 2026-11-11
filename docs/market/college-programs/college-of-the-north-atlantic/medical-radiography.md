@@ -1,10 +1,10 @@
 ---
-title: "10.16.72 Medical Radiography"
+title: "10.17.72 Medical Radiography"
 description: "Market > College Programs > College of the North Atlantic > Medical Radiography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.72 Medical Radiography
+# 10.17.72 Medical Radiography
 
 ## Glossary
 

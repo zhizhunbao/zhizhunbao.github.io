@@ -1,10 +1,10 @@
 ---
-title: "10.64.48 Health Care Administration International"
+title: "10.65.48 Health Care Administration International"
 description: "Market > College Programs > St. Lawrence College > Health Care Administration International: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.48 Health Care Administration International
+# 10.65.48 Health Care Administration International
 
 ## Glossary
 

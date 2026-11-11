@@ -1,10 +1,10 @@
 ---
-title: "10.11.14 Directrice ou directeur de funérailles – Classe 1 (avec permis d’embaumeur)"
+title: "10.12.14 Directrice ou directeur de funérailles – Classe 1 (avec permis d’embaumeur)"
 description: "Market > College Programs > Collège Boréal > Directrice ou directeur de funérailles – Classe 1 (avec permis d’embaumeur): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.14 Directrice ou directeur de funérailles – Classe 1 (avec permis d’embaumeur)
+# 10.12.14 Directrice ou directeur de funérailles – Classe 1 (avec permis d’embaumeur)
 
 ## Glossary
 

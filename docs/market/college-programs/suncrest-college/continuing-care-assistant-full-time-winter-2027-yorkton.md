@@ -1,10 +1,10 @@
 ---
-title: "10.65.9 Continuing Care Assistant (Full-Time) Winter 2027 Yorkton"
+title: "10.66.9 Continuing Care Assistant (Full-Time) Winter 2027 Yorkton"
 description: "Market > College Programs > Suncrest College > Continuing Care Assistant (Full-Time) Winter 2027 Yorkton: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.9 Continuing Care Assistant (Full-Time) Winter 2027 Yorkton
+# 10.66.9 Continuing Care Assistant (Full-Time) Winter 2027 Yorkton
 
 ## Glossary
 

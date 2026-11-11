@@ -1,10 +1,10 @@
 ---
-title: "10.22.36 Business - Supply Chain and Operations (Co-Op)"
+title: "10.23.36 Business - Supply Chain and Operations (Co-Op)"
 description: "Market > College Programs > Fanshawe College > Business - Supply Chain and Operations (Co-Op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.36 Business - Supply Chain and Operations (Co-Op)
+# 10.23.36 Business - Supply Chain and Operations (Co-Op)
 
 ## Glossary
 

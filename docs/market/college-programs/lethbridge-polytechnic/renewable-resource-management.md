@@ -1,10 +1,10 @@
 ---
-title: "10.34.55 Renewable Resource Management"
+title: "10.35.55 Renewable Resource Management"
 description: "Market > College Programs > Lethbridge Polytechnic > Renewable Resource Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.55 Renewable Resource Management
+# 10.35.55 Renewable Resource Management
 
 ## Glossary
 

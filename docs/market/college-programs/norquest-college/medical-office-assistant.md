@@ -1,10 +1,10 @@
 ---
-title: "10.42.32 Medical Office Assistant"
+title: "10.43.32 Medical Office Assistant"
 description: "Market > College Programs > NorQuest College > Medical Office Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.32 Medical Office Assistant
+# 10.43.32 Medical Office Assistant
 
 ## Glossary
 

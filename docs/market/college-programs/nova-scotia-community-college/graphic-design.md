@@ -1,10 +1,10 @@
 ---
-title: "10.50.68 Graphic Design"
+title: "10.51.68 Graphic Design"
 description: "Market > College Programs > Nova Scotia Community College > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.68 Graphic Design
+# 10.51.68 Graphic Design
 
 ## Glossary
 

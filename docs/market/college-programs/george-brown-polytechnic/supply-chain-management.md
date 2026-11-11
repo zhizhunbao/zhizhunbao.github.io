@@ -1,10 +1,10 @@
 ---
-title: "10.24.82 Supply Chain Management"
+title: "10.25.82 Supply Chain Management"
 description: "Market > College Programs > George Brown Polytechnic > Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.82 Supply Chain Management
+# 10.25.82 Supply Chain Management
 
 ## Glossary
 

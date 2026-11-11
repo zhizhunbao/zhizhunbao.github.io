@@ -1,10 +1,10 @@
 ---
-title: "10.50.58 Funeral and Allied Health Services"
+title: "10.51.58 Funeral and Allied Health Services"
 description: "Market > College Programs > Nova Scotia Community College > Funeral and Allied Health Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.58 Funeral and Allied Health Services
+# 10.51.58 Funeral and Allied Health Services
 
 ## Glossary
 

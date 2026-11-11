@@ -1,10 +1,10 @@
 ---
-title: "10.32.57 Computer Software & Database Management"
+title: "10.33.57 Computer Software & Database Management"
 description: "Market > College Programs > Lambton College > Computer Software & Database Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.57 Computer Software & Database Management
+# 10.33.57 Computer Software & Database Management
 
 ## Glossary
 

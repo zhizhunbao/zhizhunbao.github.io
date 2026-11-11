@@ -1,10 +1,10 @@
 ---
-title: "10.21.113 Radio and Audio Production"
+title: "10.22.113 Radio and Audio Production"
 description: "Market > College Programs > Durham College > Radio and Audio Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.113 Radio and Audio Production
+# 10.22.113 Radio and Audio Production
 
 ## Glossary
 

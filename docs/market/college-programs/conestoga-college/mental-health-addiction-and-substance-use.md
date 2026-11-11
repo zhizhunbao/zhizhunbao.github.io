@@ -1,10 +1,10 @@
 ---
-title: "10.18.151 Mental Health, Addiction and Substance Use"
+title: "10.19.151 Mental Health, Addiction and Substance Use"
 description: "Market > College Programs > Conestoga College > Mental Health, Addiction and Substance Use: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.151 Mental Health, Addiction and Substance Use
+# 10.19.151 Mental Health, Addiction and Substance Use
 
 ## Glossary
 

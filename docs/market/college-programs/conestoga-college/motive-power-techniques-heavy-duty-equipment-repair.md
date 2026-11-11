@@ -1,10 +1,10 @@
 ---
-title: "10.18.155 Motive Power Techniques - Heavy Duty Equipment Repair"
+title: "10.19.155 Motive Power Techniques - Heavy Duty Equipment Repair"
 description: "Market > College Programs > Conestoga College > Motive Power Techniques - Heavy Duty Equipment Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.155 Motive Power Techniques - Heavy Duty Equipment Repair
+# 10.19.155 Motive Power Techniques - Heavy Duty Equipment Repair
 
 ## Glossary
 

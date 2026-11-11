@@ -1,10 +1,10 @@
 ---
-title: "10.25.139 Practical Nursing"
+title: "10.26.139 Practical Nursing"
 description: "Market > College Programs > Georgian College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.139 Practical Nursing
+# 10.26.139 Practical Nursing
 
 ## Glossary
 

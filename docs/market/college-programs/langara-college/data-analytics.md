@@ -1,10 +1,10 @@
 ---
-title: "10.33.37 Data Analytics"
+title: "10.34.37 Data Analytics"
 description: "Market > College Programs > Langara College > Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.37 Data Analytics
+# 10.34.37 Data Analytics
 
 ## Glossary
 

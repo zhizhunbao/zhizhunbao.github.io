@@ -1,10 +1,10 @@
 ---
-title: "10.49.27 Social Work"
+title: "10.50.27 Social Work"
 description: "Market > College Programs > Northwestern Polytechnic > Social Work: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.27 Social Work
+# 10.50.27 Social Work
 
 ## Glossary
 

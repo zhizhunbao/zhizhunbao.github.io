@@ -1,10 +1,10 @@
 ---
-title: "10.27.17 Construction Electrical"
+title: "10.28.17 Construction Electrical"
 description: "Market > College Programs > Holland College > Construction Electrical: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.17 Construction Electrical
+# 10.28.17 Construction Electrical
 
 ## Glossary
 

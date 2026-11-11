@@ -1,10 +1,10 @@
 ---
-title: "10.50.20 Business Administration - Accounting"
+title: "10.51.20 Business Administration - Accounting"
 description: "Market > College Programs > Nova Scotia Community College > Business Administration - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.20 Business Administration - Accounting
+# 10.51.20 Business Administration - Accounting
 
 ## Glossary
 

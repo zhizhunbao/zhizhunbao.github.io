@@ -1,10 +1,10 @@
 ---
-title: "10.65.11 Diagnostic Medical Sonography - Ultrasound"
+title: "10.66.11 Diagnostic Medical Sonography - Ultrasound"
 description: "Market > College Programs > Suncrest College > Diagnostic Medical Sonography - Ultrasound: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.11 Diagnostic Medical Sonography - Ultrasound
+# 10.66.11 Diagnostic Medical Sonography - Ultrasound
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.27.21 Dental Assisting"
+title: "10.28.21 Dental Assisting"
 description: "Market > College Programs > Holland College > Dental Assisting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.21 Dental Assisting
+# 10.28.21 Dental Assisting
 
 ## Glossary
 

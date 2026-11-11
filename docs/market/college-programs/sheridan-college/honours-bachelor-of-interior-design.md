@@ -1,10 +1,10 @@
 ---
-title: "10.60.71 Honours Bachelor of Interior Design"
+title: "10.61.71 Honours Bachelor of Interior Design"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Interior Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.71 Honours Bachelor of Interior Design
+# 10.61.71 Honours Bachelor of Interior Design
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.35.62 Renewable Energy Systems (Post-graduate)"
+title: "10.36.62 Renewable Energy Systems (Post-graduate)"
 description: "Market > College Programs > Loyalist College > Renewable Energy Systems (Post-graduate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.62 Renewable Energy Systems (Post-graduate)
+# 10.36.62 Renewable Energy Systems (Post-graduate)
 
 ## Glossary
 

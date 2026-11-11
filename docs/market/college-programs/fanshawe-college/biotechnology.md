@@ -1,10 +1,10 @@
 ---
-title: "10.22.22 Biotechnology"
+title: "10.23.22 Biotechnology"
 description: "Market > College Programs > Fanshawe College > Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.22 Biotechnology
+# 10.23.22 Biotechnology
 
 ## Glossary
 

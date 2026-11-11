@@ -1,10 +1,10 @@
 ---
-title: "10.23.10 Community Collaboration in Addictions and Mental Health (Ministry approved title: Addictions and Mental Health)"
+title: "10.24.10 Community Collaboration in Addictions and Mental Health (Ministry approved title: Addictions and Mental Health)"
 description: "Market > College Programs > Fleming College > Community Collaboration in Addictions and Mental Health (Ministry approved title: Addictions and Mental Health): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.10 Community Collaboration in Addictions and Mental Health (Ministry approved title: Addictions and Mental Health)
+# 10.24.10 Community Collaboration in Addictions and Mental Health (Ministry approved title: Addictions and Mental Health)
 
 ## Glossary
 

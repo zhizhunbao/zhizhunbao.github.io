@@ -1,10 +1,10 @@
 ---
-title: "10.65.3 Agricultural Equipment Technician"
+title: "10.66.3 Agricultural Equipment Technician"
 description: "Market > College Programs > Suncrest College > Agricultural Equipment Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.3 Agricultural Equipment Technician
+# 10.66.3 Agricultural Equipment Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.27.41 Police Science (Cadet)"
+title: "10.28.41 Police Science (Cadet)"
 description: "Market > College Programs > Holland College > Police Science (Cadet): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.41 Police Science (Cadet)
+# 10.28.41 Police Science (Cadet)
 
 ## Glossary
 

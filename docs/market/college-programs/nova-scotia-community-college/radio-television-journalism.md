@@ -1,10 +1,10 @@
 ---
-title: "10.50.115 Radio Television Journalism"
+title: "10.51.115 Radio Television Journalism"
 description: "Market > College Programs > Nova Scotia Community College > Radio Television Journalism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.115 Radio Television Journalism
+# 10.51.115 Radio Television Journalism
 
 ## Glossary
 

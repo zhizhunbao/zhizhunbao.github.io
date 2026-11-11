@@ -1,10 +1,10 @@
 ---
-title: "10.52.8 Bachelor of Applied Science - Horticulture"
+title: "10.53.8 Bachelor of Applied Science - Horticulture"
 description: "Market > College Programs > Olds College > Bachelor of Applied Science - Horticulture: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.8 Bachelor of Applied Science - Horticulture
+# 10.53.8 Bachelor of Applied Science - Horticulture
 
 ## Glossary
 

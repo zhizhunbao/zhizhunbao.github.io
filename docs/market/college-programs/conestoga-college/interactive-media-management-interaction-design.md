@@ -1,10 +1,10 @@
 ---
-title: "10.18.130 Interactive Media Management - Interaction Design"
+title: "10.19.130 Interactive Media Management - Interaction Design"
 description: "Market > College Programs > Conestoga College > Interactive Media Management - Interaction Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.130 Interactive Media Management - Interaction Design
+# 10.19.130 Interactive Media Management - Interaction Design
 
 ## Glossary
 

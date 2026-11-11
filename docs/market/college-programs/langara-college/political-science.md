@@ -1,10 +1,10 @@
 ---
-title: "10.33.86 Political Science"
+title: "10.34.86 Political Science"
 description: "Market > College Programs > Langara College > Political Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.86 Political Science
+# 10.34.86 Political Science
 
 ## Glossary
 

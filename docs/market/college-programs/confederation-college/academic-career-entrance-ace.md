@@ -1,10 +1,10 @@
 ---
-title: "10.19.1 Academic & Career Entrance (ACE)"
+title: "10.20.1 Academic & Career Entrance (ACE)"
 description: "Market > College Programs > Confederation College > Academic & Career Entrance (ACE): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.1 Academic & Career Entrance (ACE)
+# 10.20.1 Academic & Career Entrance (ACE)
 
 ## Glossary
 

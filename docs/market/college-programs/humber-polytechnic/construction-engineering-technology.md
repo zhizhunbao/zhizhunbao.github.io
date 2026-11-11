@@ -1,10 +1,10 @@
 ---
-title: "10.28.53 Construction Engineering Technology"
+title: "10.29.53 Construction Engineering Technology"
 description: "Market > College Programs > Humber Polytechnic > Construction Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.53 Construction Engineering Technology
+# 10.29.53 Construction Engineering Technology
 
 ## Glossary
 

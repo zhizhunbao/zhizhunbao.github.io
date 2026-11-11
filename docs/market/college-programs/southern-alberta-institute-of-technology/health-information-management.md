@@ -1,10 +1,10 @@
 ---
-title: "10.62.63 Health Information Management"
+title: "10.63.63 Health Information Management"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Health Information Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.63 Health Information Management
+# 10.63.63 Health Information Management
 
 ## Glossary
 

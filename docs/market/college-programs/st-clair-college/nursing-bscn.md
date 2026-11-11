@@ -1,10 +1,10 @@
 ---
-title: "10.63.79 Nursing BScN"
+title: "10.64.79 Nursing BScN"
 description: "Market > College Programs > St. Clair College > Nursing BScN: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.79 Nursing BScN
+# 10.64.79 Nursing BScN
 
 ## Glossary
 

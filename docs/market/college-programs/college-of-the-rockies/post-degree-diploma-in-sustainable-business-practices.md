@@ -1,10 +1,10 @@
 ---
-title: "10.17.21 Post-Degree Diploma in Sustainable Business Practices"
+title: "10.18.21 Post-Degree Diploma in Sustainable Business Practices"
 description: "Market > College Programs > College of the Rockies > Post-Degree Diploma in Sustainable Business Practices: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.21 Post-Degree Diploma in Sustainable Business Practices
+# 10.18.21 Post-Degree Diploma in Sustainable Business Practices
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.42 Broadcasting Performance and Digital Media"
+title: "10.19.42 Broadcasting Performance and Digital Media"
 description: "Market > College Programs > Conestoga College > Broadcasting Performance and Digital Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.42 Broadcasting Performance and Digital Media
+# 10.19.42 Broadcasting Performance and Digital Media
 
 ## Glossary
 

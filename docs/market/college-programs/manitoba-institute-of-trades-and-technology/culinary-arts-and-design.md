@@ -1,10 +1,10 @@
 ---
-title: "10.37.8 Culinary Arts and Design"
+title: "10.38.8 Culinary Arts and Design"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Culinary Arts and Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.8 Culinary Arts and Design
+# 10.38.8 Culinary Arts and Design
 
 ## Glossary
 

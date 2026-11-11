@@ -1,10 +1,10 @@
 ---
-title: "10.60.72 Honours Bachelor of Music Theatre Performance"
+title: "10.61.72 Honours Bachelor of Music Theatre Performance"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Music Theatre Performance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.72 Honours Bachelor of Music Theatre Performance
+# 10.61.72 Honours Bachelor of Music Theatre Performance
 
 ## Glossary
 

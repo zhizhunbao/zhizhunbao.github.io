@@ -1,10 +1,10 @@
 ---
-title: "10.52.33 Veterinary Technical Assistant Certificate"
+title: "10.53.33 Veterinary Technical Assistant Certificate"
 description: "Market > College Programs > Olds College > Veterinary Technical Assistant Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.33 Veterinary Technical Assistant Certificate
+# 10.53.33 Veterinary Technical Assistant Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.57 Data Analytics"
+title: "10.29.57 Data Analytics"
 description: "Market > College Programs > Humber Polytechnic > Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.57 Data Analytics
+# 10.29.57 Data Analytics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.16.37 Early Childhood Education Advanced Studies in Inclusive Practice"
+title: "10.17.37 Early Childhood Education Advanced Studies in Inclusive Practice"
 description: "Market > College Programs > College of the North Atlantic > Early Childhood Education Advanced Studies in Inclusive Practice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.37 Early Childhood Education Advanced Studies in Inclusive Practice
+# 10.17.37 Early Childhood Education Advanced Studies in Inclusive Practice
 
 ## Glossary
 

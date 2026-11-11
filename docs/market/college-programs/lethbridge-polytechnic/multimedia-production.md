@@ -1,10 +1,10 @@
 ---
-title: "10.34.41 Multimedia Production"
+title: "10.35.41 Multimedia Production"
 description: "Market > College Programs > Lethbridge Polytechnic > Multimedia Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.41 Multimedia Production
+# 10.35.41 Multimedia Production
 
 ## Glossary
 

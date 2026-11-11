@@ -1,10 +1,10 @@
 ---
-title: "10.35.31 Electrical Techniques"
+title: "10.36.31 Electrical Techniques"
 description: "Market > College Programs > Loyalist College > Electrical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.31 Electrical Techniques
+# 10.36.31 Electrical Techniques
 
 ## Glossary
 

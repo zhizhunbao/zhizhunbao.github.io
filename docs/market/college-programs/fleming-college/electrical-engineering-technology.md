@@ -1,10 +1,10 @@
 ---
-title: "10.23.30 Electrical Engineering Technology"
+title: "10.24.30 Electrical Engineering Technology"
 description: "Market > College Programs > Fleming College > Electrical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.30 Electrical Engineering Technology
+# 10.24.30 Electrical Engineering Technology
 
 ## Glossary
 

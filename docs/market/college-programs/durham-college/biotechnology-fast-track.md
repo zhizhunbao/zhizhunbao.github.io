@@ -1,10 +1,10 @@
 ---
-title: "10.21.21 Biotechnology (fast-track)"
+title: "10.22.21 Biotechnology (fast-track)"
 description: "Market > College Programs > Durham College > Biotechnology (fast-track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.21 Biotechnology (fast-track)
+# 10.22.21 Biotechnology (fast-track)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.45.45 Denturist Technology"
+title: "10.46.45 Denturist Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Denturist Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.45 Denturist Technology
+# 10.46.45 Denturist Technology
 
 ## Glossary
 

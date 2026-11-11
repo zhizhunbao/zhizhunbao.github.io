@@ -1,10 +1,10 @@
 ---
-title: "10.62 Southern Alberta Institute of Technology"
+title: "10.63 Southern Alberta Institute of Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62 Southern Alberta Institute of Technology
+# 10.63 Southern Alberta Institute of Technology
 
 ## Glossary
 

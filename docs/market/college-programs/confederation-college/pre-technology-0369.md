@@ -1,10 +1,10 @@
 ---
-title: "10.19.72 Pre-Technology (0369)"
+title: "10.20.72 Pre-Technology (0369)"
 description: "Market > College Programs > Confederation College > Pre-Technology (0369): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.72 Pre-Technology (0369)
+# 10.20.72 Pre-Technology (0369)
 
 ## Glossary
 

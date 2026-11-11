@@ -1,10 +1,10 @@
 ---
-title: "10.22.160 Tourism - Travel"
+title: "10.23.160 Tourism - Travel"
 description: "Market > College Programs > Fanshawe College > Tourism - Travel: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.160 Tourism - Travel
+# 10.23.160 Tourism - Travel
 
 ## Glossary
 

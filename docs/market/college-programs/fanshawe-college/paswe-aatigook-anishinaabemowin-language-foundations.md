@@ -1,10 +1,10 @@
 ---
-title: "10.22.136 Paswe'aatigook Anishinaabemowin Language Foundations"
+title: "10.23.136 Paswe'aatigook Anishinaabemowin Language Foundations"
 description: "Market > College Programs > Fanshawe College > Paswe'aatigook Anishinaabemowin Language Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.136 Paswe'aatigook Anishinaabemowin Language Foundations
+# 10.23.136 Paswe'aatigook Anishinaabemowin Language Foundations
 
 ## Glossary
 

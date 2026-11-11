@@ -1,10 +1,10 @@
 ---
-title: "10.37.18 Hospitality Management"
+title: "10.38.18 Hospitality Management"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Hospitality Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.18 Hospitality Management
+# 10.38.18 Hospitality Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.26.2 Business Certificate"
+title: "10.27.2 Business Certificate"
 description: "Market > College Programs > Great Plains College > Business Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.2 Business Certificate
+# 10.27.2 Business Certificate
 
 ## Glossary
 

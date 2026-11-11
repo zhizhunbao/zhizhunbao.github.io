@@ -1,10 +1,10 @@
 ---
-title: "10.40.64 Personal Support Worker Acute Care"
+title: "10.41.64 Personal Support Worker Acute Care"
 description: "Market > College Programs > New Brunswick Community College > Personal Support Worker Acute Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.64 Personal Support Worker Acute Care
+# 10.41.64 Personal Support Worker Acute Care
 
 ## Glossary
 

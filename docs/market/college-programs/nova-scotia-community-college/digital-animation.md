@@ -1,10 +1,10 @@
 ---
-title: "10.50.41 Digital Animation"
+title: "10.51.41 Digital Animation"
 description: "Market > College Programs > Nova Scotia Community College > Digital Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.41 Digital Animation
+# 10.51.41 Digital Animation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.33.57 Food and Nutrition"
+title: "10.34.57 Food and Nutrition"
 description: "Market > College Programs > Langara College > Food and Nutrition: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.57 Food and Nutrition
+# 10.34.57 Food and Nutrition
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50.18 Building Systems Technician (HVAC&R) - Accelerated"
+title: "10.51.18 Building Systems Technician (HVAC&R) - Accelerated"
 description: "Market > College Programs > Nova Scotia Community College > Building Systems Technician (HVAC&R) - Accelerated: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.18 Building Systems Technician (HVAC&R) - Accelerated
+# 10.51.18 Building Systems Technician (HVAC&R) - Accelerated
 
 ## Glossary
 

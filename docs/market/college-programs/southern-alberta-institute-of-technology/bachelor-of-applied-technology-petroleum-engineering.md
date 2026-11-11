@@ -1,10 +1,10 @@
 ---
-title: "10.62.12 Bachelor of Applied Technology Petroleum Engineering"
+title: "10.63.12 Bachelor of Applied Technology Petroleum Engineering"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Applied Technology Petroleum Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.12 Bachelor of Applied Technology Petroleum Engineering
+# 10.63.12 Bachelor of Applied Technology Petroleum Engineering
 
 ## Glossary
 

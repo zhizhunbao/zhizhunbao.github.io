@@ -1,10 +1,10 @@
 ---
-title: "10.60.23 Cloud Security"
+title: "10.61.23 Cloud Security"
 description: "Market > College Programs > Sheridan College > Cloud Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.23 Cloud Security
+# 10.61.23 Cloud Security
 
 ## Glossary
 

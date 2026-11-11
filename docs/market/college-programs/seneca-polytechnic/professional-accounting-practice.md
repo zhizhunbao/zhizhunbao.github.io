@@ -1,10 +1,10 @@
 ---
-title: "10.59.141 Professional Accounting Practice"
+title: "10.60.141 Professional Accounting Practice"
 description: "Market > College Programs > Seneca Polytechnic > Professional Accounting Practice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.141 Professional Accounting Practice
+# 10.60.141 Professional Accounting Practice
 
 ## Glossary
 

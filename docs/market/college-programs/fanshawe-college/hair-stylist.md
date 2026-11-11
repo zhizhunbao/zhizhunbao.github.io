@@ -1,10 +1,10 @@
 ---
-title: "10.22.95 Hair Stylist"
+title: "10.23.95 Hair Stylist"
 description: "Market > College Programs > Fanshawe College > Hair Stylist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.95 Hair Stylist
+# 10.23.95 Hair Stylist
 
 ## Glossary
 

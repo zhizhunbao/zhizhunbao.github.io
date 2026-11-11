@@ -1,10 +1,10 @@
 ---
-title: "10.12.57 Technologie du génie civil – général coop"
+title: "10.13.57 Technologie du génie civil – général coop"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technologie du génie civil – général coop: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.57 Technologie du génie civil – général coop
+# 10.13.57 Technologie du génie civil – général coop
 
 ## Glossary
 

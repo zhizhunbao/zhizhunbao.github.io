@@ -1,10 +1,10 @@
 ---
-title: "10.45.97 Surveying and Geospatial Engineering Technology"
+title: "10.46.97 Surveying and Geospatial Engineering Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Surveying and Geospatial Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.97 Surveying and Geospatial Engineering Technology
+# 10.46.97 Surveying and Geospatial Engineering Technology
 
 ## Glossary
 

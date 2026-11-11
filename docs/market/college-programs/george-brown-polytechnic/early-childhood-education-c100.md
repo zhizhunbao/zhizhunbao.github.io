@@ -1,10 +1,10 @@
 ---
-title: "10.24.32 Early Childhood Education (C100)"
+title: "10.25.32 Early Childhood Education (C100)"
 description: "Market > College Programs > George Brown Polytechnic > Early Childhood Education (C100): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.32 Early Childhood Education (C100)
+# 10.25.32 Early Childhood Education (C100)
 
 ## Glossary
 

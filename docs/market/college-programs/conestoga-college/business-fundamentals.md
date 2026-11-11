@@ -1,10 +1,10 @@
 ---
-title: "10.18.55 Business Fundamentals"
+title: "10.19.55 Business Fundamentals"
 description: "Market > College Programs > Conestoga College > Business Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.55 Business Fundamentals
+# 10.19.55 Business Fundamentals
 
 ## Glossary
 

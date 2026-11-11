@@ -1,10 +1,10 @@
 ---
-title: "10.39.72 Pharmacy Technician"
+title: "10.40.72 Pharmacy Technician"
 description: "Market > College Programs > Mohawk College > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.72 Pharmacy Technician
+# 10.40.72 Pharmacy Technician
 
 ## Glossary
 

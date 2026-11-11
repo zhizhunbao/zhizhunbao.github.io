@@ -1,10 +1,10 @@
 ---
-title: "10.58.23 Early Childhood Care and Education (Infant and Toddler) - Human Services Diploma"
+title: "10.59.23 Early Childhood Care and Education (Infant and Toddler) - Human Services Diploma"
 description: "Market > College Programs > Selkirk College > Early Childhood Care and Education (Infant and Toddler) - Human Services Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.23 Early Childhood Care and Education (Infant and Toddler) - Human Services Diploma
+# 10.59.23 Early Childhood Care and Education (Infant and Toddler) - Human Services Diploma
 
 ## Glossary
 

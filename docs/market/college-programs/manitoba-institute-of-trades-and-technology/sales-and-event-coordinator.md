@@ -1,10 +1,10 @@
 ---
-title: "10.37.30 Sales and Event Coordinator"
+title: "10.38.30 Sales and Event Coordinator"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Sales and Event Coordinator: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.30 Sales and Event Coordinator
+# 10.38.30 Sales and Event Coordinator
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.39.35 Computer Systems Technology - Network Administration and Cybersecurity"
+title: "10.40.35 Computer Systems Technology - Network Administration and Cybersecurity"
 description: "Market > College Programs > Mohawk College > Computer Systems Technology - Network Administration and Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.35 Computer Systems Technology - Network Administration and Cybersecurity
+# 10.40.35 Computer Systems Technology - Network Administration and Cybersecurity
 
 ## Glossary
 

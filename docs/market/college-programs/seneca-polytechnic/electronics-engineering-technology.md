@@ -1,10 +1,10 @@
 ---
-title: "10.59.57 Electronics Engineering Technology"
+title: "10.60.57 Electronics Engineering Technology"
 description: "Market > College Programs > Seneca Polytechnic > Electronics Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.57 Electronics Engineering Technology
+# 10.60.57 Electronics Engineering Technology
 
 ## Glossary
 

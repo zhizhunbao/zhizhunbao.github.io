@@ -1,10 +1,10 @@
 ---
-title: "10.40.3 Administrative Professional: Health Services"
+title: "10.41.3 Administrative Professional: Health Services"
 description: "Market > College Programs > New Brunswick Community College > Administrative Professional: Health Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.3 Administrative Professional: Health Services
+# 10.41.3 Administrative Professional: Health Services
 
 ## Glossary
 

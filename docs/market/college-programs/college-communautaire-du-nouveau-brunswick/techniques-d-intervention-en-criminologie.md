@@ -1,10 +1,10 @@
 ---
-title: "10.12.50 Techniques d’intervention en criminologie"
+title: "10.13.50 Techniques d’intervention en criminologie"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Techniques d’intervention en criminologie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.50 Techniques d’intervention en criminologie
+# 10.13.50 Techniques d’intervention en criminologie
 
 ## Glossary
 

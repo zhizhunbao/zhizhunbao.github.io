@@ -1,10 +1,10 @@
 ---
-title: "10.21.37 Construction Management – Honours Bachelor"
+title: "10.22.37 Construction Management – Honours Bachelor"
 description: "Market > College Programs > Durham College > Construction Management – Honours Bachelor: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.37 Construction Management – Honours Bachelor
+# 10.22.37 Construction Management – Honours Bachelor
 
 ## Glossary
 

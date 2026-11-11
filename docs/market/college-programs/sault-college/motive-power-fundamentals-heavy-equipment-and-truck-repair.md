@@ -1,10 +1,10 @@
 ---
-title: "10.57.39 Motive Power Fundamentals - Heavy Equipment and Truck Repair"
+title: "10.58.39 Motive Power Fundamentals - Heavy Equipment and Truck Repair"
 description: "Market > College Programs > Sault College > Motive Power Fundamentals - Heavy Equipment and Truck Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.39 Motive Power Fundamentals - Heavy Equipment and Truck Repair
+# 10.58.39 Motive Power Fundamentals - Heavy Equipment and Truck Repair
 
 ## Glossary
 

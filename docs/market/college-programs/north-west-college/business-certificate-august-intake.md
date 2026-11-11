@@ -1,10 +1,10 @@
 ---
-title: "10.44.2 Business Certificate (August Intake)"
+title: "10.45.2 Business Certificate (August Intake)"
 description: "Market > College Programs > North West College > Business Certificate (August Intake): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.2 Business Certificate (August Intake)
+# 10.45.2 Business Certificate (August Intake)
 
 ## Glossary
 

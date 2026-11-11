@@ -1,10 +1,10 @@
 ---
-title: "10.14.86 Techniques agricoles – production animale et grandes cultures en mode coopératif"
+title: "10.15.86 Techniques agricoles – production animale et grandes cultures en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Techniques agricoles – production animale et grandes cultures en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.86 Techniques agricoles – production animale et grandes cultures en mode coopératif
+# 10.15.86 Techniques agricoles – production animale et grandes cultures en mode coopératif
 
 ## Glossary
 

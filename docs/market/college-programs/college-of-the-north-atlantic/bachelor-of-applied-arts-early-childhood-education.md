@@ -1,10 +1,10 @@
 ---
-title: "10.16.11 Bachelor of Applied Arts: Early Childhood Education"
+title: "10.17.11 Bachelor of Applied Arts: Early Childhood Education"
 description: "Market > College Programs > College of the North Atlantic > Bachelor of Applied Arts: Early Childhood Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.11 Bachelor of Applied Arts: Early Childhood Education
+# 10.17.11 Bachelor of Applied Arts: Early Childhood Education
 
 ## Glossary
 

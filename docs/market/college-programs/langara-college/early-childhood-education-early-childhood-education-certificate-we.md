@@ -1,10 +1,10 @@
 ---
-title: "10.33.42 Early Childhood Education (early-childhood-education-certificate-we)"
+title: "10.34.42 Early Childhood Education (early-childhood-education-certificate-we)"
 description: "Market > College Programs > Langara College > Early Childhood Education (early-childhood-education-certificate-we): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.42 Early Childhood Education (early-childhood-education-certificate-we)
+# 10.34.42 Early Childhood Education (early-childhood-education-certificate-we)
 
 ## Glossary
 

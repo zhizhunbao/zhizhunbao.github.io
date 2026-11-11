@@ -1,10 +1,10 @@
 ---
-title: "10.20.80 Teaching English as a Second Language"
+title: "10.21.80 Teaching English as a Second Language"
 description: "Market > College Programs > Douglas College > Teaching English as a Second Language: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.80 Teaching English as a Second Language
+# 10.21.80 Teaching English as a Second Language
 
 ## Glossary
 

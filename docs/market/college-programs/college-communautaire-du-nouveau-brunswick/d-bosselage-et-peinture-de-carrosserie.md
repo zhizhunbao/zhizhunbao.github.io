@@ -1,10 +1,10 @@
 ---
-title: "10.12.15 Débosselage et peinture de carrosserie"
+title: "10.13.15 Débosselage et peinture de carrosserie"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Débosselage et peinture de carrosserie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.15 Débosselage et peinture de carrosserie
+# 10.13.15 Débosselage et peinture de carrosserie
 
 ## Glossary
 

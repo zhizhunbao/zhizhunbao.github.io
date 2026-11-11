@@ -1,10 +1,10 @@
 ---
-title: "10.26.3 Certificate in Occupational Health, Safety and Environmental Systems"
+title: "10.27.3 Certificate in Occupational Health, Safety and Environmental Systems"
 description: "Market > College Programs > Great Plains College > Certificate in Occupational Health, Safety and Environmental Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.3 Certificate in Occupational Health, Safety and Environmental Systems
+# 10.27.3 Certificate in Occupational Health, Safety and Environmental Systems
 
 ## Glossary
 

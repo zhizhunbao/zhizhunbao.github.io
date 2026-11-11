@@ -1,10 +1,10 @@
 ---
-title: "10.21.67 General Arts and Science – Science and Engineering Preparation – Ontario Tech University"
+title: "10.22.67 General Arts and Science – Science and Engineering Preparation – Ontario Tech University"
 description: "Market > College Programs > Durham College > General Arts and Science – Science and Engineering Preparation – Ontario Tech University: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.67 General Arts and Science – Science and Engineering Preparation – Ontario Tech University
+# 10.22.67 General Arts and Science – Science and Engineering Preparation – Ontario Tech University
 
 ## Glossary
 

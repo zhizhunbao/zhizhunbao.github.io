@@ -1,10 +1,10 @@
 ---
-title: "10.52.29 Precision Agriculture - Techgronomy Diploma"
+title: "10.53.29 Precision Agriculture - Techgronomy Diploma"
 description: "Market > College Programs > Olds College > Precision Agriculture - Techgronomy Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.29 Precision Agriculture - Techgronomy Diploma
+# 10.53.29 Precision Agriculture - Techgronomy Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50.103 Occupational Therapy / Physiotherapy Assistant"
+title: "10.51.103 Occupational Therapy / Physiotherapy Assistant"
 description: "Market > College Programs > Nova Scotia Community College > Occupational Therapy / Physiotherapy Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.103 Occupational Therapy / Physiotherapy Assistant
+# 10.51.103 Occupational Therapy / Physiotherapy Assistant
 
 ## Glossary
 

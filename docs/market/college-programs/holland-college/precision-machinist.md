@@ -1,10 +1,10 @@
 ---
-title: "10.27.44 Precision Machinist"
+title: "10.28.44 Precision Machinist"
 description: "Market > College Programs > Holland College > Precision Machinist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.44 Precision Machinist
+# 10.28.44 Precision Machinist
 
 ## Glossary
 

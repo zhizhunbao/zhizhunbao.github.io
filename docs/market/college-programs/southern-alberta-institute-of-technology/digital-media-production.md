@@ -1,10 +1,10 @@
 ---
-title: "10.62.50 Digital Media Production"
+title: "10.63.50 Digital Media Production"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Digital Media Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.50 Digital Media Production
+# 10.63.50 Digital Media Production
 
 ## Glossary
 

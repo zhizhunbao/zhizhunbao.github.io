@@ -1,10 +1,10 @@
 ---
-title: "10.44.12 Heavy Equipment & Truck & Transport Technician- Certificate"
+title: "10.45.12 Heavy Equipment & Truck & Transport Technician- Certificate"
 description: "Market > College Programs > North West College > Heavy Equipment & Truck & Transport Technician- Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.12 Heavy Equipment & Truck & Transport Technician- Certificate
+# 10.45.12 Heavy Equipment & Truck & Transport Technician- Certificate
 
 ## Glossary
 

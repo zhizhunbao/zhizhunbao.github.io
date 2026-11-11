@@ -1,10 +1,10 @@
 ---
-title: "10.21.109 Practical Nursing – (weekend delivery)"
+title: "10.22.109 Practical Nursing – (weekend delivery)"
 description: "Market > College Programs > Durham College > Practical Nursing – (weekend delivery): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.109 Practical Nursing – (weekend delivery)
+# 10.22.109 Practical Nursing – (weekend delivery)
 
 ## Glossary
 

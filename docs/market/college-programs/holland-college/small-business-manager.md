@@ -1,10 +1,10 @@
 ---
-title: "10.27.48 Small Business Manager"
+title: "10.28.48 Small Business Manager"
 description: "Market > College Programs > Holland College > Small Business Manager: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.48 Small Business Manager
+# 10.28.48 Small Business Manager
 
 ## Glossary
 

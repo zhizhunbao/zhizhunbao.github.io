@@ -1,10 +1,10 @@
 ---
-title: "10.59.31 Chemical Laboratory Technician"
+title: "10.60.31 Chemical Laboratory Technician"
 description: "Market > College Programs > Seneca Polytechnic > Chemical Laboratory Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.31 Chemical Laboratory Technician
+# 10.60.31 Chemical Laboratory Technician
 
 ## Glossary
 

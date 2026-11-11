@@ -1,10 +1,10 @@
 ---
-title: "10.14.31 Commerce – comptabilité"
+title: "10.15.31 Commerce – comptabilité"
 description: "Market > College Programs > Collège La Cité > Commerce – comptabilité: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.31 Commerce – comptabilité
+# 10.15.31 Commerce – comptabilité
 
 ## Glossary
 

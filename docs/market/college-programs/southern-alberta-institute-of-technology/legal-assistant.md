@@ -1,10 +1,10 @@
 ---
-title: "10.62.81 Legal Assistant"
+title: "10.63.81 Legal Assistant"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Legal Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.81 Legal Assistant
+# 10.63.81 Legal Assistant
 
 ## Glossary
 

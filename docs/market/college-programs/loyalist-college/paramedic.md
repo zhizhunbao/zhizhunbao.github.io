@@ -1,10 +1,10 @@
 ---
-title: "10.35.50 Paramedic"
+title: "10.36.50 Paramedic"
 description: "Market > College Programs > Loyalist College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.50 Paramedic
+# 10.36.50 Paramedic
 
 ## Glossary
 

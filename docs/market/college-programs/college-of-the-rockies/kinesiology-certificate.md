@@ -1,10 +1,10 @@
 ---
-title: "10.17.17 Kinesiology Certificate"
+title: "10.18.17 Kinesiology Certificate"
 description: "Market > College Programs > College of the Rockies > Kinesiology Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.17 Kinesiology Certificate
+# 10.18.17 Kinesiology Certificate
 
 ## Glossary
 

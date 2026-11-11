@@ -1,10 +1,10 @@
 ---
-title: "10.58.51 Music and Technology, Contemporary - Composition Diploma"
+title: "10.59.51 Music and Technology, Contemporary - Composition Diploma"
 description: "Market > College Programs > Selkirk College > Music and Technology, Contemporary - Composition Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.51 Music and Technology, Contemporary - Composition Diploma
+# 10.59.51 Music and Technology, Contemporary - Composition Diploma
 
 ## Glossary
 

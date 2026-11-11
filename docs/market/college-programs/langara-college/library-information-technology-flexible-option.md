@@ -1,10 +1,10 @@
 ---
-title: "10.33.72 Library & Information Technology [Flexible option]"
+title: "10.34.72 Library & Information Technology [Flexible option]"
 description: "Market > College Programs > Langara College > Library & Information Technology [Flexible option]: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.72 Library & Information Technology [Flexible option]
+# 10.34.72 Library & Information Technology [Flexible option]
 
 ## Glossary
 

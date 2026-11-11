@@ -1,10 +1,10 @@
 ---
-title: "10.22.135 Paramedic"
+title: "10.23.135 Paramedic"
 description: "Market > College Programs > Fanshawe College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.135 Paramedic
+# 10.23.135 Paramedic
 
 ## Glossary
 

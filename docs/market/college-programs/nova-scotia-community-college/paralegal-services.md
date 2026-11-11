@@ -1,10 +1,10 @@
 ---
-title: "10.50.106 Paralegal Services"
+title: "10.51.106 Paralegal Services"
 description: "Market > College Programs > Nova Scotia Community College > Paralegal Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.106 Paralegal Services
+# 10.51.106 Paralegal Services
 
 ## Glossary
 

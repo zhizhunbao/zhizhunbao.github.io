@@ -1,10 +1,10 @@
 ---
-title: "10.60.15 Business"
+title: "10.61.15 Business"
 description: "Market > College Programs > Sheridan College > Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.15 Business
+# 10.61.15 Business
 
 ## Glossary
 

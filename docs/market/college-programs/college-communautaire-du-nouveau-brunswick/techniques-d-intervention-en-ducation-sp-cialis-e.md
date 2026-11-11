@@ -1,10 +1,10 @@
 ---
-title: "10.12.51 Techniques d’intervention en éducation spécialisée"
+title: "10.13.51 Techniques d’intervention en éducation spécialisée"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Techniques d’intervention en éducation spécialisée: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.51 Techniques d’intervention en éducation spécialisée
+# 10.13.51 Techniques d’intervention en éducation spécialisée
 
 ## Glossary
 

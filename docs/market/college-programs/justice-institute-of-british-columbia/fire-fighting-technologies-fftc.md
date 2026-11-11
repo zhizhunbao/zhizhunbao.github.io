@@ -1,10 +1,10 @@
 ---
-title: "10.29.11 Fire Fighting Technologies (FFTC)"
+title: "10.30.11 Fire Fighting Technologies (FFTC)"
 description: "Market > College Programs > Justice Institute of British Columbia > Fire Fighting Technologies (FFTC): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.11 Fire Fighting Technologies (FFTC)
+# 10.30.11 Fire Fighting Technologies (FFTC)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.56.34 Heavy Equipment and Truck and Transport Technician"
+title: "10.57.34 Heavy Equipment and Truck and Transport Technician"
 description: "Market > College Programs > Saskatchewan Polytechnic > Heavy Equipment and Truck and Transport Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.34 Heavy Equipment and Truck and Transport Technician
+# 10.57.34 Heavy Equipment and Truck and Transport Technician
 
 ## Glossary
 

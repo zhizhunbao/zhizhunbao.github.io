@@ -1,10 +1,10 @@
 ---
-title: "10.28.60 Digital Forensics"
+title: "10.29.60 Digital Forensics"
 description: "Market > College Programs > Humber Polytechnic > Digital Forensics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.60 Digital Forensics
+# 10.29.60 Digital Forensics
 
 ## Glossary
 

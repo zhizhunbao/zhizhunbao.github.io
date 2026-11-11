@@ -1,10 +1,10 @@
 ---
-title: "10.59.136 Pharmaceutical Regulatory Affairs & Quality Operations"
+title: "10.60.136 Pharmaceutical Regulatory Affairs & Quality Operations"
 description: "Market > College Programs > Seneca Polytechnic > Pharmaceutical Regulatory Affairs & Quality Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.136 Pharmaceutical Regulatory Affairs & Quality Operations
+# 10.60.136 Pharmaceutical Regulatory Affairs & Quality Operations
 
 ## Glossary
 

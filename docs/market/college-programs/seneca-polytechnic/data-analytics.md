@@ -1,10 +1,10 @@
 ---
-title: "10.59.49 Data Analytics"
+title: "10.60.49 Data Analytics"
 description: "Market > College Programs > Seneca Polytechnic > Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.49 Data Analytics
+# 10.60.49 Data Analytics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.26.4 Continuing Care Assistant (CCA)"
+title: "10.27.4 Continuing Care Assistant (CCA)"
 description: "Market > College Programs > Great Plains College > Continuing Care Assistant (CCA): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.4 Continuing Care Assistant (CCA)
+# 10.27.4 Continuing Care Assistant (CCA)
 
 ## Glossary
 

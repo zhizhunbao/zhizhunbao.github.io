@@ -1,10 +1,10 @@
 ---
-title: "10.25.98 Honours Bachelor of Police Studies"
+title: "10.26.98 Honours Bachelor of Police Studies"
 description: "Market > College Programs > Georgian College > Honours Bachelor of Police Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.98 Honours Bachelor of Police Studies
+# 10.26.98 Honours Bachelor of Police Studies
 
 ## Glossary
 

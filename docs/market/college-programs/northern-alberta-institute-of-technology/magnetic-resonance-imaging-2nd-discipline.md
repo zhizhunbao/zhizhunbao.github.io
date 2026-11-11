@@ -1,10 +1,10 @@
 ---
-title: "10.45.72 Magnetic Resonance Imaging 2nd Discipline"
+title: "10.46.72 Magnetic Resonance Imaging 2nd Discipline"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Magnetic Resonance Imaging 2nd Discipline: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.72 Magnetic Resonance Imaging 2nd Discipline
+# 10.46.72 Magnetic Resonance Imaging 2nd Discipline
 
 ## Glossary
 

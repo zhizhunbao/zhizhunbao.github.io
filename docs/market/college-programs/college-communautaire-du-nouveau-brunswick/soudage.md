@@ -1,10 +1,10 @@
 ---
-title: "10.12.41 Soudage"
+title: "10.13.41 Soudage"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Soudage: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.41 Soudage
+# 10.13.41 Soudage
 
 ## Glossary
 

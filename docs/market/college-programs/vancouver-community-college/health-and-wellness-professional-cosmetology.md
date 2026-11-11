@@ -1,10 +1,10 @@
 ---
-title: "10.66.33 Health and Wellness Professional - Cosmetology"
+title: "10.67.33 Health and Wellness Professional - Cosmetology"
 description: "Market > College Programs > Vancouver Community College > Health and Wellness Professional - Cosmetology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.33 Health and Wellness Professional - Cosmetology
+# 10.67.33 Health and Wellness Professional - Cosmetology
 
 ## Glossary
 

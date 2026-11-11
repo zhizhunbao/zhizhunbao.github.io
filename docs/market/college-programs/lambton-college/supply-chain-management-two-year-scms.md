@@ -1,10 +1,10 @@
 ---
-title: "10.32.131 Supply Chain Management - Two-Year (SCMS)"
+title: "10.33.131 Supply Chain Management - Two-Year (SCMS)"
 description: "Market > College Programs > Lambton College > Supply Chain Management - Two-Year (SCMS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.131 Supply Chain Management - Two-Year (SCMS)
+# 10.33.131 Supply Chain Management - Two-Year (SCMS)
 
 ## Glossary
 

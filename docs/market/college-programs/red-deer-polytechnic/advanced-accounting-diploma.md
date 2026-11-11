@@ -1,10 +1,10 @@
 ---
-title: "10.54.2 Advanced Accounting Diploma"
+title: "10.55.2 Advanced Accounting Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Advanced Accounting Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.2 Advanced Accounting Diploma
+# 10.55.2 Advanced Accounting Diploma
 
 ## Glossary
 

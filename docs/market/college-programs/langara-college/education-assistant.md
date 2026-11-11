@@ -1,10 +1,10 @@
 ---
-title: "10.33.44 Education Assistant"
+title: "10.34.44 Education Assistant"
 description: "Market > College Programs > Langara College > Education Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.44 Education Assistant
+# 10.34.44 Education Assistant
 
 ## Glossary
 

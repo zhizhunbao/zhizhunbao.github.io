@@ -1,10 +1,10 @@
 ---
-title: "10.34.20 Culinary Arts"
+title: "10.35.20 Culinary Arts"
 description: "Market > College Programs > Lethbridge Polytechnic > Culinary Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.20 Culinary Arts
+# 10.35.20 Culinary Arts
 
 ## Glossary
 

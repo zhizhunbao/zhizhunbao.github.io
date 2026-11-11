@@ -1,10 +1,10 @@
 ---
-title: "10.12.72 Électromécanique de systèmes automatisés"
+title: "10.13.72 Électromécanique de systèmes automatisés"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Électromécanique de systèmes automatisés: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.72 Électromécanique de systèmes automatisés
+# 10.13.72 Électromécanique de systèmes automatisés
 
 ## Glossary
 

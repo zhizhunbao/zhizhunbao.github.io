@@ -1,10 +1,10 @@
 ---
-title: "10.24.15 Community Worker (C101)"
+title: "10.25.15 Community Worker (C101)"
 description: "Market > College Programs > George Brown Polytechnic > Community Worker (C101): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.15 Community Worker (C101)
+# 10.25.15 Community Worker (C101)
 
 ## Glossary
 

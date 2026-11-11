@@ -1,10 +1,10 @@
 ---
-title: "10.28.123 Web Development"
+title: "10.29.123 Web Development"
 description: "Market > College Programs > Humber Polytechnic > Web Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.123 Web Development
+# 10.29.123 Web Development
 
 ## Glossary
 

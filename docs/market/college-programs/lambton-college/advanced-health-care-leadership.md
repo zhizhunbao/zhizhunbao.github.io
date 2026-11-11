@@ -1,10 +1,10 @@
 ---
-title: "10.32.1 Advanced Health Care Leadership"
+title: "10.33.1 Advanced Health Care Leadership"
 description: "Market > College Programs > Lambton College > Advanced Health Care Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.1 Advanced Health Care Leadership
+# 10.33.1 Advanced Health Care Leadership
 
 ## Glossary
 

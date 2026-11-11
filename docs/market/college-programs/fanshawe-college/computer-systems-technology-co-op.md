@@ -1,10 +1,10 @@
 ---
-title: "10.22.54 Computer Systems Technology (Co-op)"
+title: "10.23.54 Computer Systems Technology (Co-op)"
 description: "Market > College Programs > Fanshawe College > Computer Systems Technology (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.54 Computer Systems Technology (Co-op)
+# 10.23.54 Computer Systems Technology (Co-op)
 
 ## Glossary
 

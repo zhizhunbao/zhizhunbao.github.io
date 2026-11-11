@@ -1,10 +1,10 @@
 ---
-title: "10.12.45 Techniques de comptabilité"
+title: "10.13.45 Techniques de comptabilité"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Techniques de comptabilité: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.45 Techniques de comptabilité
+# 10.13.45 Techniques de comptabilité
 
 ## Glossary
 

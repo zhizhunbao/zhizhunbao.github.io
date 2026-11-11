@@ -1,10 +1,10 @@
 ---
-title: "10.59.114 Law Clerk (Accelerated)"
+title: "10.60.114 Law Clerk (Accelerated)"
 description: "Market > College Programs > Seneca Polytechnic > Law Clerk (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.114 Law Clerk (Accelerated)
+# 10.60.114 Law Clerk (Accelerated)
 
 ## Glossary
 

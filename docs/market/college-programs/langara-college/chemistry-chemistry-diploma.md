@@ -1,10 +1,10 @@
 ---
-title: "10.33.26 Chemistry (chemistry-diploma)"
+title: "10.34.26 Chemistry (chemistry-diploma)"
 description: "Market > College Programs > Langara College > Chemistry (chemistry-diploma): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.26 Chemistry (chemistry-diploma)
+# 10.34.26 Chemistry (chemistry-diploma)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.27 Culinary Skills"
+title: "10.25.27 Culinary Skills"
 description: "Market > College Programs > George Brown Polytechnic > Culinary Skills: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.27 Culinary Skills
+# 10.25.27 Culinary Skills
 
 ## Glossary
 

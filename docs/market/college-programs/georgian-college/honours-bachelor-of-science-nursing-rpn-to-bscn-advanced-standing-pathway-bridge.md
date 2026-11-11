@@ -1,10 +1,10 @@
 ---
-title: "10.25.100 Honours Bachelor of Science – Nursing RPN to BScN Advanced Standing Pathway (Bridge)"
+title: "10.26.100 Honours Bachelor of Science – Nursing RPN to BScN Advanced Standing Pathway (Bridge)"
 description: "Market > College Programs > Georgian College > Honours Bachelor of Science – Nursing RPN to BScN Advanced Standing Pathway (Bridge): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.100 Honours Bachelor of Science – Nursing RPN to BScN Advanced Standing Pathway (Bridge)
+# 10.26.100 Honours Bachelor of Science – Nursing RPN to BScN Advanced Standing Pathway (Bridge)
 
 ## Glossary
 

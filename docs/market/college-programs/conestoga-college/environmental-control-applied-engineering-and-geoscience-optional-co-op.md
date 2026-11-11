@@ -1,10 +1,10 @@
 ---
-title: "10.18.105 Environmental Control - Applied Engineering and Geoscience (Optional Co-op)"
+title: "10.19.105 Environmental Control - Applied Engineering and Geoscience (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Environmental Control - Applied Engineering and Geoscience (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.105 Environmental Control - Applied Engineering and Geoscience (Optional Co-op)
+# 10.19.105 Environmental Control - Applied Engineering and Geoscience (Optional Co-op)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.27.45 Primary Care Paramedicine"
+title: "10.28.45 Primary Care Paramedicine"
 description: "Market > College Programs > Holland College > Primary Care Paramedicine: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.45 Primary Care Paramedicine
+# 10.28.45 Primary Care Paramedicine
 
 ## Glossary
 

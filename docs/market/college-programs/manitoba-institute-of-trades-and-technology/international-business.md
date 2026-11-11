@@ -1,10 +1,10 @@
 ---
-title: "10.37.23 International Business"
+title: "10.38.23 International Business"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > International Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.23 International Business
+# 10.38.23 International Business
 
 ## Glossary
 

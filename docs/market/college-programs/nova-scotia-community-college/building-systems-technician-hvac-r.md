@@ -1,10 +1,10 @@
 ---
-title: "10.50.17 Building Systems Technician (HVAC&R)"
+title: "10.51.17 Building Systems Technician (HVAC&R)"
 description: "Market > College Programs > Nova Scotia Community College > Building Systems Technician (HVAC&R): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.17 Building Systems Technician (HVAC&R)
+# 10.51.17 Building Systems Technician (HVAC&R)
 
 ## Glossary
 

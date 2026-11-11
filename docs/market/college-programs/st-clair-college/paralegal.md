@@ -1,10 +1,10 @@
 ---
-title: "10.63.86 Paralegal"
+title: "10.64.86 Paralegal"
 description: "Market > College Programs > St. Clair College > Paralegal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.86 Paralegal
+# 10.64.86 Paralegal
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.10 Artificial Intelligence - Architecture, Design, and Implementation"
+title: "10.26.10 Artificial Intelligence - Architecture, Design, and Implementation"
 description: "Market > College Programs > Georgian College > Artificial Intelligence - Architecture, Design, and Implementation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.10 Artificial Intelligence - Architecture, Design, and Implementation
+# 10.26.10 Artificial Intelligence - Architecture, Design, and Implementation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.125 Music Industry Arts"
+title: "10.23.125 Music Industry Arts"
 description: "Market > College Programs > Fanshawe College > Music Industry Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.125 Music Industry Arts
+# 10.23.125 Music Industry Arts
 
 ## Glossary
 

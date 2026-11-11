@@ -1,10 +1,10 @@
 ---
-title: "10.25.117 Mechanical Techniques - Marine Engine Mechanic"
+title: "10.26.117 Mechanical Techniques - Marine Engine Mechanic"
 description: "Market > College Programs > Georgian College > Mechanical Techniques - Marine Engine Mechanic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.117 Mechanical Techniques - Marine Engine Mechanic
+# 10.26.117 Mechanical Techniques - Marine Engine Mechanic
 
 ## Glossary
 

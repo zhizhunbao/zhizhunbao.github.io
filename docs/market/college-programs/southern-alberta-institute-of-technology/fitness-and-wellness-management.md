@@ -1,10 +1,10 @@
 ---
-title: "10.62.59 Fitness and Wellness Management"
+title: "10.63.59 Fitness and Wellness Management"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Fitness and Wellness Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.59 Fitness and Wellness Management
+# 10.63.59 Fitness and Wellness Management
 
 ## Glossary
 

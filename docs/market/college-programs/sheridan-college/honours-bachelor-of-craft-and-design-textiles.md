@@ -1,10 +1,10 @@
 ---
-title: "10.60.60 Honours Bachelor of Craft and Design (Textiles)"
+title: "10.61.60 Honours Bachelor of Craft and Design (Textiles)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Craft and Design (Textiles): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.60 Honours Bachelor of Craft and Design (Textiles)
+# 10.61.60 Honours Bachelor of Craft and Design (Textiles)
 
 ## Glossary
 

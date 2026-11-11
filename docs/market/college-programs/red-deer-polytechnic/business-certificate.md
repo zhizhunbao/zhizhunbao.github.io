@@ -1,10 +1,10 @@
 ---
-title: "10.54.17 Business Certificate"
+title: "10.55.17 Business Certificate"
 description: "Market > College Programs > Red Deer Polytechnic > Business Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.17 Business Certificate
+# 10.55.17 Business Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.41 Glassblowing"
+title: "10.24.41 Glassblowing"
 description: "Market > College Programs > Fleming College > Glassblowing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.41 Glassblowing
+# 10.24.41 Glassblowing
 
 ## Glossary
 

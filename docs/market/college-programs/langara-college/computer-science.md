@@ -1,10 +1,10 @@
 ---
-title: "10.33.30 Computer Science"
+title: "10.34.30 Computer Science"
 description: "Market > College Programs > Langara College > Computer Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.30 Computer Science
+# 10.34.30 Computer Science
 
 ## Glossary
 

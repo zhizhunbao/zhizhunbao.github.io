@@ -1,10 +1,10 @@
 ---
-title: "10.33.84 Philosophy"
+title: "10.34.84 Philosophy"
 description: "Market > College Programs > Langara College > Philosophy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.84 Philosophy
+# 10.34.84 Philosophy
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.56.21 Culinary Arts"
+title: "10.57.21 Culinary Arts"
 description: "Market > College Programs > Saskatchewan Polytechnic > Culinary Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.21 Culinary Arts
+# 10.57.21 Culinary Arts
 
 ## Glossary
 

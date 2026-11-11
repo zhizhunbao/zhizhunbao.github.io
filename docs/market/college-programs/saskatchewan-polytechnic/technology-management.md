@@ -1,10 +1,10 @@
 ---
-title: "10.56.53 Technology Management"
+title: "10.57.53 Technology Management"
 description: "Market > College Programs > Saskatchewan Polytechnic > Technology Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.53 Technology Management
+# 10.57.53 Technology Management
 
 ## Glossary
 

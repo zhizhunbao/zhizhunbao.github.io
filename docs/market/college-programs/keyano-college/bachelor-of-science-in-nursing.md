@@ -1,10 +1,10 @@
 ---
-title: "10.30.7 Bachelor of Science in Nursing"
+title: "10.31.7 Bachelor of Science in Nursing"
 description: "Market > College Programs > Keyano College > Bachelor of Science in Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.7 Bachelor of Science in Nursing
+# 10.31.7 Bachelor of Science in Nursing
 
 ## Glossary
 

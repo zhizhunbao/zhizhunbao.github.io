@@ -1,10 +1,10 @@
 ---
-title: "10.14.89 Techniques d'imagerie par résonance magnétique – (NOUVEAU)"
+title: "10.15.89 Techniques d'imagerie par résonance magnétique – (NOUVEAU)"
 description: "Market > College Programs > Collège La Cité > Techniques d'imagerie par résonance magnétique – (NOUVEAU): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.89 Techniques d'imagerie par résonance magnétique – (NOUVEAU)
+# 10.15.89 Techniques d'imagerie par résonance magnétique – (NOUVEAU)
 
 ## Glossary
 

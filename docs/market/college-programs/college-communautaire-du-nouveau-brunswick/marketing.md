@@ -1,10 +1,10 @@
 ---
-title: "10.12.21 Marketing"
+title: "10.13.21 Marketing"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.21 Marketing
+# 10.13.21 Marketing
 
 ## Glossary
 

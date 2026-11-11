@@ -1,10 +1,10 @@
 ---
-title: "10.45.36 Conservation Biology"
+title: "10.46.36 Conservation Biology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Conservation Biology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.36 Conservation Biology
+# 10.46.36 Conservation Biology
 
 ## Glossary
 

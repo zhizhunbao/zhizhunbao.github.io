@@ -1,10 +1,10 @@
 ---
-title: "10.18.99 Electro Mechanical and Automation Maintenance (Optional Co-op)"
+title: "10.19.99 Electro Mechanical and Automation Maintenance (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Electro Mechanical and Automation Maintenance (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.99 Electro Mechanical and Automation Maintenance (Optional Co-op)
+# 10.19.99 Electro Mechanical and Automation Maintenance (Optional Co-op)
 
 ## Glossary
 

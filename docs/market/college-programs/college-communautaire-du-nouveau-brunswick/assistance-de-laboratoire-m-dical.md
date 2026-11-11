@@ -1,10 +1,10 @@
 ---
-title: "10.12.3 Assistance de laboratoire médical"
+title: "10.13.3 Assistance de laboratoire médical"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Assistance de laboratoire médical: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.3 Assistance de laboratoire médical
+# 10.13.3 Assistance de laboratoire médical
 
 ## Glossary
 

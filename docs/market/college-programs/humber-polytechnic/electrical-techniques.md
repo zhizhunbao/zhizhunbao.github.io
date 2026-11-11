@@ -1,10 +1,10 @@
 ---
-title: "10.28.66 Electrical Techniques"
+title: "10.29.66 Electrical Techniques"
 description: "Market > College Programs > Humber Polytechnic > Electrical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.66 Electrical Techniques
+# 10.29.66 Electrical Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.33.67 Kinesiology"
+title: "10.34.67 Kinesiology"
 description: "Market > College Programs > Langara College > Kinesiology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.67 Kinesiology
+# 10.34.67 Kinesiology
 
 ## Glossary
 

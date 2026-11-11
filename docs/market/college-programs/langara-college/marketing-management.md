@@ -1,10 +1,10 @@
 ---
-title: "10.33.73 Marketing Management"
+title: "10.34.73 Marketing Management"
 description: "Market > College Programs > Langara College > Marketing Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.73 Marketing Management
+# 10.34.73 Marketing Management
 
 ## Glossary
 

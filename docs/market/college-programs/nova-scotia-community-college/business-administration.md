@@ -1,10 +1,10 @@
 ---
-title: "10.50.19 Business Administration"
+title: "10.51.19 Business Administration"
 description: "Market > College Programs > Nova Scotia Community College > Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.19 Business Administration
+# 10.51.19 Business Administration
 
 ## Glossary
 

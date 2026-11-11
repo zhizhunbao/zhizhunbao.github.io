@@ -1,10 +1,10 @@
 ---
-title: "10.20.13 Asian Studies"
+title: "10.21.13 Asian Studies"
 description: "Market > College Programs > Douglas College > Asian Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.13 Asian Studies
+# 10.21.13 Asian Studies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.66.38 Hospitality Management"
+title: "10.67.38 Hospitality Management"
 description: "Market > College Programs > Vancouver Community College > Hospitality Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.38 Hospitality Management
+# 10.67.38 Hospitality Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50 Nova Scotia Community College"
+title: "10.51 Nova Scotia Community College"
 description: "Market > College Programs > Nova Scotia Community College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50 Nova Scotia Community College
+# 10.51 Nova Scotia Community College
 
 ## Glossary
 

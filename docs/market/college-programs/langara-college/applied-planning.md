@@ -1,10 +1,10 @@
 ---
-title: "10.33.5 Applied Planning"
+title: "10.34.5 Applied Planning"
 description: "Market > College Programs > Langara College > Applied Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.5 Applied Planning
+# 10.34.5 Applied Planning
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.1 Advanced CNC Manufacturing"
+title: "10.19.1 Advanced CNC Manufacturing"
 description: "Market > College Programs > Conestoga College > Advanced CNC Manufacturing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.1 Advanced CNC Manufacturing
+# 10.19.1 Advanced CNC Manufacturing
 
 ## Glossary
 

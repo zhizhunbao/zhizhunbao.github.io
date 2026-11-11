@@ -1,10 +1,10 @@
 ---
-title: "10.32.21 Business (BUSN)"
+title: "10.33.21 Business (BUSN)"
 description: "Market > College Programs > Lambton College > Business (BUSN): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.21 Business (BUSN)
+# 10.33.21 Business (BUSN)
 
 ## Glossary
 

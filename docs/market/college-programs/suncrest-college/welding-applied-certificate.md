@@ -1,10 +1,10 @@
 ---
-title: "10.65.28 Welding Applied Certificate"
+title: "10.66.28 Welding Applied Certificate"
 description: "Market > College Programs > Suncrest College > Welding Applied Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.28 Welding Applied Certificate
+# 10.66.28 Welding Applied Certificate
 
 ## Glossary
 

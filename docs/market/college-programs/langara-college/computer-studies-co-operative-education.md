@@ -1,10 +1,10 @@
 ---
-title: "10.33.33 Computer Studies (Co-operative Education)"
+title: "10.34.33 Computer Studies (Co-operative Education)"
 description: "Market > College Programs > Langara College > Computer Studies (Co-operative Education): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.33 Computer Studies (Co-operative Education)
+# 10.34.33 Computer Studies (Co-operative Education)
 
 ## Glossary
 

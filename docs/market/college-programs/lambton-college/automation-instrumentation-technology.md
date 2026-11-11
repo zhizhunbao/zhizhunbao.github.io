@@ -1,10 +1,10 @@
 ---
-title: "10.32.16 Automation & Instrumentation Technology"
+title: "10.33.16 Automation & Instrumentation Technology"
 description: "Market > College Programs > Lambton College > Automation & Instrumentation Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.16 Automation & Instrumentation Technology
+# 10.33.16 Automation & Instrumentation Technology
 
 ## Glossary
 

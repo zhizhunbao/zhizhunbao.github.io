@@ -1,10 +1,10 @@
 ---
-title: "10.20.4 Accounting (dpacct)"
+title: "10.21.4 Accounting (dpacct)"
 description: "Market > College Programs > Douglas College > Accounting (dpacct): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.4 Accounting (dpacct)
+# 10.21.4 Accounting (dpacct)
 
 ## Glossary
 

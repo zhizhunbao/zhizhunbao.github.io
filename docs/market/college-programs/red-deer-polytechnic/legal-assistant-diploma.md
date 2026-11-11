@@ -1,10 +1,10 @@
 ---
-title: "10.54.29 Legal Assistant Diploma"
+title: "10.55.29 Legal Assistant Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Legal Assistant Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.29 Legal Assistant Diploma
+# 10.55.29 Legal Assistant Diploma
 
 ## Glossary
 

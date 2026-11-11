@@ -1,10 +1,10 @@
 ---
-title: "10.60.37 Educational Support"
+title: "10.61.37 Educational Support"
 description: "Market > College Programs > Sheridan College > Educational Support: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.37 Educational Support
+# 10.61.37 Educational Support
 
 ## Glossary
 

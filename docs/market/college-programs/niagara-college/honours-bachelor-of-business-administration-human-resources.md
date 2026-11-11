@@ -1,10 +1,10 @@
 ---
-title: "10.41.54 Honours Bachelor of Business Administration (Human Resources)"
+title: "10.42.54 Honours Bachelor of Business Administration (Human Resources)"
 description: "Market > College Programs > Niagara College > Honours Bachelor of Business Administration (Human Resources): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.54 Honours Bachelor of Business Administration (Human Resources)
+# 10.42.54 Honours Bachelor of Business Administration (Human Resources)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.28 Business Administration"
+title: "10.26.28 Business Administration"
 description: "Market > College Programs > Georgian College > Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.28 Business Administration
+# 10.26.28 Business Administration
 
 ## Glossary
 

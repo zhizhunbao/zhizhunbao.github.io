@@ -1,10 +1,10 @@
 ---
-title: "10.40.83 Wind and Solar Energy Technician (Optional Co-op)"
+title: "10.41.83 Wind and Solar Energy Technician (Optional Co-op)"
 description: "Market > College Programs > New Brunswick Community College > Wind and Solar Energy Technician (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.83 Wind and Solar Energy Technician (Optional Co-op)
+# 10.41.83 Wind and Solar Energy Technician (Optional Co-op)
 
 ## Glossary
 

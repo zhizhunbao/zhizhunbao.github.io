@@ -1,10 +1,10 @@
 ---
-title: "10.53.23 Office Administration Certificate"
+title: "10.54.23 Office Administration Certificate"
 description: "Market > College Programs > Portage College > Office Administration Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.23 Office Administration Certificate
+# 10.54.23 Office Administration Certificate
 
 ## Glossary
 

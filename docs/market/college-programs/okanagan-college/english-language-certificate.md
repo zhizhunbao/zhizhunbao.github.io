@@ -1,10 +1,10 @@
 ---
-title: "10.51.20 English Language Certificate"
+title: "10.52.20 English Language Certificate"
 description: "Market > College Programs > Okanagan College > English Language Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.20 English Language Certificate
+# 10.52.20 English Language Certificate
 
 ## Glossary
 

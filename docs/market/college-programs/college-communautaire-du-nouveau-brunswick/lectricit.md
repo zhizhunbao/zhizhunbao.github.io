@@ -1,10 +1,10 @@
 ---
-title: "10.12.71 Électricité"
+title: "10.13.71 Électricité"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Électricité: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.71 Électricité
+# 10.13.71 Électricité
 
 ## Glossary
 

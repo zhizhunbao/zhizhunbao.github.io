@@ -1,10 +1,10 @@
 ---
-title: "10.42.17 Early Learning and Child Care – certificate"
+title: "10.43.17 Early Learning and Child Care – certificate"
 description: "Market > College Programs > NorQuest College > Early Learning and Child Care – certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.17 Early Learning and Child Care – certificate
+# 10.43.17 Early Learning and Child Care – certificate
 
 ## Glossary
 

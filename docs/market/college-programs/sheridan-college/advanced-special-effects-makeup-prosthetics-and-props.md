@@ -1,10 +1,10 @@
 ---
-title: "10.60.2 Advanced Special Effects Makeup, Prosthetics and Props"
+title: "10.61.2 Advanced Special Effects Makeup, Prosthetics and Props"
 description: "Market > College Programs > Sheridan College > Advanced Special Effects Makeup, Prosthetics and Props: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.2 Advanced Special Effects Makeup, Prosthetics and Props
+# 10.61.2 Advanced Special Effects Makeup, Prosthetics and Props
 
 ## Glossary
 

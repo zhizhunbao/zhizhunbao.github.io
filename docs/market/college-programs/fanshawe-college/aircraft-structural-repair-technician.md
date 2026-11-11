@@ -1,10 +1,10 @@
 ---
-title: "10.22.9 Aircraft Structural Repair Technician"
+title: "10.23.9 Aircraft Structural Repair Technician"
 description: "Market > College Programs > Fanshawe College > Aircraft Structural Repair Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.9 Aircraft Structural Repair Technician
+# 10.23.9 Aircraft Structural Repair Technician
 
 ## Glossary
 

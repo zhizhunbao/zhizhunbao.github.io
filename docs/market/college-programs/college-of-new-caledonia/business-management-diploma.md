@@ -1,10 +1,10 @@
 ---
-title: "10.15.11 Business Management Diploma"
+title: "10.16.11 Business Management Diploma"
 description: "Market > College Programs > College of New Caledonia > Business Management Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.11 Business Management Diploma
+# 10.16.11 Business Management Diploma
 
 ## Glossary
 

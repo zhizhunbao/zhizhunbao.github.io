@@ -1,10 +1,10 @@
 ---
-title: "10.26.12 Welding"
+title: "10.27.12 Welding"
 description: "Market > College Programs > Great Plains College > Welding: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.12 Welding
+# 10.27.12 Welding
 
 ## Glossary
 

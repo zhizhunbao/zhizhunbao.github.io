@@ -1,10 +1,10 @@
 ---
-title: "10.12.49 Techniques de services correctionnels et judiciaires"
+title: "10.13.49 Techniques de services correctionnels et judiciaires"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Techniques de services correctionnels et judiciaires: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.49 Techniques de services correctionnels et judiciaires
+# 10.13.49 Techniques de services correctionnels et judiciaires
 
 ## Glossary
 

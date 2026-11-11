@@ -1,10 +1,10 @@
 ---
-title: "10.28.77 Game Programming"
+title: "10.29.77 Game Programming"
 description: "Market > College Programs > Humber Polytechnic > Game Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.77 Game Programming
+# 10.29.77 Game Programming
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.21.18 Behavioural Science – Honours Bachelor (Transfer Pathway) – NEW"
+title: "10.22.18 Behavioural Science – Honours Bachelor (Transfer Pathway) – NEW"
 description: "Market > College Programs > Durham College > Behavioural Science – Honours Bachelor (Transfer Pathway) – NEW: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.18 Behavioural Science – Honours Bachelor (Transfer Pathway) – NEW
+# 10.22.18 Behavioural Science – Honours Bachelor (Transfer Pathway) – NEW
 
 ## Glossary
 

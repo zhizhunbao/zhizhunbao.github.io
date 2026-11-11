@@ -1,10 +1,10 @@
 ---
-title: "10.14.29 Baccalauréat spécialisé en commerce – management (parcours de transfert depuis Techniques en administration des affaires)"
+title: "10.15.29 Baccalauréat spécialisé en commerce – management (parcours de transfert depuis Techniques en administration des affaires)"
 description: "Market > College Programs > Collège La Cité > Baccalauréat spécialisé en commerce – management (parcours de transfert depuis Techniques en administration des affaires): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.29 Baccalauréat spécialisé en commerce – management (parcours de transfert depuis Techniques en administration des affaires)
+# 10.15.29 Baccalauréat spécialisé en commerce – management (parcours de transfert depuis Techniques en administration des affaires)
 
 ## Glossary
 

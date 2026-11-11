@@ -1,10 +1,10 @@
 ---
-title: "10.26.6 Early Childhood Education"
+title: "10.27.6 Early Childhood Education"
 description: "Market > College Programs > Great Plains College > Early Childhood Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.6 Early Childhood Education
+# 10.27.6 Early Childhood Education
 
 ## Glossary
 

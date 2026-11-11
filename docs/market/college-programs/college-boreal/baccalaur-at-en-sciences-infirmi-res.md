@@ -1,10 +1,10 @@
 ---
-title: "10.11.9 Baccalauréat en sciences infirmières"
+title: "10.12.9 Baccalauréat en sciences infirmières"
 description: "Market > College Programs > Collège Boréal > Baccalauréat en sciences infirmières: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.9 Baccalauréat en sciences infirmières
+# 10.12.9 Baccalauréat en sciences infirmières
 
 ## Glossary
 

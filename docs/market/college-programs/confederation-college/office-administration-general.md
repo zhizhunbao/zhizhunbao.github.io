@@ -1,10 +1,10 @@
 ---
-title: "10.19.58 Office Administration - General"
+title: "10.20.58 Office Administration - General"
 description: "Market > College Programs > Confederation College > Office Administration - General: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.58 Office Administration - General
+# 10.20.58 Office Administration - General
 
 ## Glossary
 

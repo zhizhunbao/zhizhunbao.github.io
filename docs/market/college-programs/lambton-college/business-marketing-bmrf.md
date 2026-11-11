@@ -1,10 +1,10 @@
 ---
-title: "10.32.29 Business - Marketing (BMRF)"
+title: "10.33.29 Business - Marketing (BMRF)"
 description: "Market > College Programs > Lambton College > Business - Marketing (BMRF): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.29 Business - Marketing (BMRF)
+# 10.33.29 Business - Marketing (BMRF)
 
 ## Glossary
 

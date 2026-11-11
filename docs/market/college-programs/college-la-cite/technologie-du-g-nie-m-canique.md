@@ -1,10 +1,10 @@
 ---
-title: "10.14.120 Technologie du génie mécanique"
+title: "10.15.120 Technologie du génie mécanique"
 description: "Market > College Programs > Collège La Cité > Technologie du génie mécanique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.120 Technologie du génie mécanique
+# 10.15.120 Technologie du génie mécanique
 
 ## Glossary
 

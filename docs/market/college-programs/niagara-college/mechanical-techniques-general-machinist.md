@@ -1,10 +1,10 @@
 ---
-title: "10.41.65 Mechanical Techniques – General Machinist"
+title: "10.42.65 Mechanical Techniques – General Machinist"
 description: "Market > College Programs > Niagara College > Mechanical Techniques – General Machinist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.65 Mechanical Techniques – General Machinist
+# 10.42.65 Mechanical Techniques – General Machinist
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.12.5 Assurance de dommages"
+title: "10.13.5 Assurance de dommages"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Assurance de dommages: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.5 Assurance de dommages
+# 10.13.5 Assurance de dommages
 
 ## Glossary
 

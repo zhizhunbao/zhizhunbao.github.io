@@ -1,10 +1,10 @@
 ---
-title: "10.55.34 Health Care Aide"
+title: "10.56.34 Health Care Aide"
 description: "Market > College Programs > Red River College Polytechnic > Health Care Aide: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.34 Health Care Aide
+# 10.56.34 Health Care Aide
 
 ## Glossary
 

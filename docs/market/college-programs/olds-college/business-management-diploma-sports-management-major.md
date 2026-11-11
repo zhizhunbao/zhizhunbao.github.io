@@ -1,10 +1,10 @@
 ---
-title: "10.52.13 Business Management Diploma - Sports Management Major"
+title: "10.53.13 Business Management Diploma - Sports Management Major"
 description: "Market > College Programs > Olds College > Business Management Diploma - Sports Management Major: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.13 Business Management Diploma - Sports Management Major
+# 10.53.13 Business Management Diploma - Sports Management Major
 
 ## Glossary
 

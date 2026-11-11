@@ -1,10 +1,10 @@
 ---
-title: "10.63.65 Landscape Horticulture"
+title: "10.64.65 Landscape Horticulture"
 description: "Market > College Programs > St. Clair College > Landscape Horticulture: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.65 Landscape Horticulture
+# 10.64.65 Landscape Horticulture
 
 ## Glossary
 

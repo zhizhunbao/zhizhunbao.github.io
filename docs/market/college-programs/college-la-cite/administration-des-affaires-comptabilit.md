@@ -1,10 +1,10 @@
 ---
-title: "10.14.6 Administration des affaires – comptabilité"
+title: "10.15.6 Administration des affaires – comptabilité"
 description: "Market > College Programs > Collège La Cité > Administration des affaires – comptabilité: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.6 Administration des affaires – comptabilité
+# 10.15.6 Administration des affaires – comptabilité
 
 ## Glossary
 

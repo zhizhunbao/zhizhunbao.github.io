@@ -1,10 +1,10 @@
 ---
-title: "10.54.30 Medical Device Reprocessing Certificate"
+title: "10.55.30 Medical Device Reprocessing Certificate"
 description: "Market > College Programs > Red Deer Polytechnic > Medical Device Reprocessing Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.30 Medical Device Reprocessing Certificate
+# 10.55.30 Medical Device Reprocessing Certificate
 
 ## Glossary
 

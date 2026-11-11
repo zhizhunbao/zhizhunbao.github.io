@@ -1,10 +1,10 @@
 ---
-title: "10.51.13 Computer Information Systems Diploma"
+title: "10.52.13 Computer Information Systems Diploma"
 description: "Market > College Programs > Okanagan College > Computer Information Systems Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.13 Computer Information Systems Diploma
+# 10.52.13 Computer Information Systems Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.60.49 Healthcare Administration and Service Management"
+title: "10.61.49 Healthcare Administration and Service Management"
 description: "Market > College Programs > Sheridan College > Healthcare Administration and Service Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.49 Healthcare Administration and Service Management
+# 10.61.49 Healthcare Administration and Service Management
 
 ## Glossary
 

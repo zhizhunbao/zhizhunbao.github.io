@@ -1,10 +1,10 @@
 ---
-title: "10.23.42 Graphic Design - Visual Communication"
+title: "10.24.42 Graphic Design - Visual Communication"
 description: "Market > College Programs > Fleming College > Graphic Design - Visual Communication: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.42 Graphic Design - Visual Communication
+# 10.24.42 Graphic Design - Visual Communication
 
 ## Glossary
 

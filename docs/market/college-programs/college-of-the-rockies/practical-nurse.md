@@ -1,10 +1,10 @@
 ---
-title: "10.17.22 Practical Nurse"
+title: "10.18.22 Practical Nurse"
 description: "Market > College Programs > College of the Rockies > Practical Nurse: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.22 Practical Nurse
+# 10.18.22 Practical Nurse
 
 ## Glossary
 

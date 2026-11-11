@@ -1,10 +1,10 @@
 ---
-title: "10.57.7 Biidaaban Indigenous Foundations"
+title: "10.58.7 Biidaaban Indigenous Foundations"
 description: "Market > College Programs > Sault College > Biidaaban Indigenous Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.7 Biidaaban Indigenous Foundations
+# 10.58.7 Biidaaban Indigenous Foundations
 
 ## Glossary
 

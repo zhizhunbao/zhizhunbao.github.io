@@ -1,10 +1,10 @@
 ---
-title: "10.60.14 Biotechnology"
+title: "10.61.14 Biotechnology"
 description: "Market > College Programs > Sheridan College > Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.14 Biotechnology
+# 10.61.14 Biotechnology
 
 ## Glossary
 

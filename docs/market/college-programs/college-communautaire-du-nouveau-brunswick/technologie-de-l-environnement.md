@@ -1,10 +1,10 @@
 ---
-title: "10.12.55 Technologie de l’environnement"
+title: "10.13.55 Technologie de l’environnement"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technologie de l’environnement: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.55 Technologie de l’environnement
+# 10.13.55 Technologie de l’environnement
 
 ## Glossary
 

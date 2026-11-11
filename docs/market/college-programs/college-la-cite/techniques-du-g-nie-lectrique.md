@@ -1,10 +1,10 @@
 ---
-title: "10.14.99 Techniques du génie électrique"
+title: "10.15.99 Techniques du génie électrique"
 description: "Market > College Programs > Collège La Cité > Techniques du génie électrique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.99 Techniques du génie électrique
+# 10.15.99 Techniques du génie électrique
 
 ## Glossary
 

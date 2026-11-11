@@ -1,10 +1,10 @@
 ---
-title: "10.28.44 Child and Youth Care - Accelerated"
+title: "10.29.44 Child and Youth Care - Accelerated"
 description: "Market > College Programs > Humber Polytechnic > Child and Youth Care - Accelerated: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.44 Child and Youth Care - Accelerated
+# 10.29.44 Child and Youth Care - Accelerated
 
 ## Glossary
 

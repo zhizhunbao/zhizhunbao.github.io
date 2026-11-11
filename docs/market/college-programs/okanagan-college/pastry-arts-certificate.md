@@ -1,10 +1,10 @@
 ---
-title: "10.51.25 Pastry Arts Certificate"
+title: "10.52.25 Pastry Arts Certificate"
 description: "Market > College Programs > Okanagan College > Pastry Arts Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.25 Pastry Arts Certificate
+# 10.52.25 Pastry Arts Certificate
 
 ## Glossary
 

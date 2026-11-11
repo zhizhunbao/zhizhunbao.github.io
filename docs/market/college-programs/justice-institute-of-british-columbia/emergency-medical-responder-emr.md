@@ -1,10 +1,10 @@
 ---
-title: "10.29.9 Emergency Medical Responder (EMR)"
+title: "10.30.9 Emergency Medical Responder (EMR)"
 description: "Market > College Programs > Justice Institute of British Columbia > Emergency Medical Responder (EMR): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.9 Emergency Medical Responder (EMR)
+# 10.30.9 Emergency Medical Responder (EMR)
 
 ## Glossary
 

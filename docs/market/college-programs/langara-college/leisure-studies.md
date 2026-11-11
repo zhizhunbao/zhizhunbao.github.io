@@ -1,10 +1,10 @@
 ---
-title: "10.33.70 Leisure Studies"
+title: "10.34.70 Leisure Studies"
 description: "Market > College Programs > Langara College > Leisure Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.70 Leisure Studies
+# 10.34.70 Leisure Studies
 
 ## Glossary
 

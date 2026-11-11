@@ -1,10 +1,10 @@
 ---
-title: "10.18.129 Information Technology Project Management"
+title: "10.19.129 Information Technology Project Management"
 description: "Market > College Programs > Conestoga College > Information Technology Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.129 Information Technology Project Management
+# 10.19.129 Information Technology Project Management
 
 ## Glossary
 

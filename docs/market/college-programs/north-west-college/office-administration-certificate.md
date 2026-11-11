@@ -1,10 +1,10 @@
 ---
-title: "10.44.13 Office Administration - Certificate"
+title: "10.45.13 Office Administration - Certificate"
 description: "Market > College Programs > North West College > Office Administration - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.13 Office Administration - Certificate
+# 10.45.13 Office Administration - Certificate
 
 ## Glossary
 

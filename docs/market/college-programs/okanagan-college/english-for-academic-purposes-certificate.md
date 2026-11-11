@@ -1,10 +1,10 @@
 ---
-title: "10.51.19 English for Academic Purposes Certificate"
+title: "10.52.19 English for Academic Purposes Certificate"
 description: "Market > College Programs > Okanagan College > English for Academic Purposes Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.19 English for Academic Purposes Certificate
+# 10.52.19 English for Academic Purposes Certificate
 
 ## Glossary
 

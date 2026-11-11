@@ -1,10 +1,10 @@
 ---
-title: "10.19.42 Health Informatics"
+title: "10.20.42 Health Informatics"
 description: "Market > College Programs > Confederation College > Health Informatics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.42 Health Informatics
+# 10.20.42 Health Informatics
 
 ## Glossary
 

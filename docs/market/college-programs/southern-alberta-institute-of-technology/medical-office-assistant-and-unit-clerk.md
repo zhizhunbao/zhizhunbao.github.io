@@ -1,10 +1,10 @@
 ---
-title: "10.62.91 Medical Office Assistant and Unit Clerk"
+title: "10.63.91 Medical Office Assistant and Unit Clerk"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Medical Office Assistant and Unit Clerk: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.91 Medical Office Assistant and Unit Clerk
+# 10.63.91 Medical Office Assistant and Unit Clerk
 
 ## Glossary
 

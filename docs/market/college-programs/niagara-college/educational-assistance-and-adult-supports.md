@@ -1,10 +1,10 @@
 ---
-title: "10.41.37 Educational Assistance and Adult Supports"
+title: "10.42.37 Educational Assistance and Adult Supports"
 description: "Market > College Programs > Niagara College > Educational Assistance and Adult Supports: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.37 Educational Assistance and Adult Supports
+# 10.42.37 Educational Assistance and Adult Supports
 
 ## Glossary
 

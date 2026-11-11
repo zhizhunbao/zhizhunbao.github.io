@@ -1,10 +1,10 @@
 ---
-title: "10.41.72 Palliative Care – Multidiscipline"
+title: "10.42.72 Palliative Care – Multidiscipline"
 description: "Market > College Programs > Niagara College > Palliative Care – Multidiscipline: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.72 Palliative Care – Multidiscipline
+# 10.42.72 Palliative Care – Multidiscipline
 
 ## Glossary
 

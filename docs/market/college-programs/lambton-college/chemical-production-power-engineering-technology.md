@@ -1,10 +1,10 @@
 ---
-title: "10.32.48 Chemical Production & Power Engineering Technology"
+title: "10.33.48 Chemical Production & Power Engineering Technology"
 description: "Market > College Programs > Lambton College > Chemical Production & Power Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.48 Chemical Production & Power Engineering Technology
+# 10.33.48 Chemical Production & Power Engineering Technology
 
 ## Glossary
 

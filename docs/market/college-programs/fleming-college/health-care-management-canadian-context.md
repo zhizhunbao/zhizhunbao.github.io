@@ -1,10 +1,10 @@
 ---
-title: "10.23.45 Health Care Management - Canadian Context"
+title: "10.24.45 Health Care Management - Canadian Context"
 description: "Market > College Programs > Fleming College > Health Care Management - Canadian Context: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.45 Health Care Management - Canadian Context
+# 10.24.45 Health Care Management - Canadian Context
 
 ## Glossary
 

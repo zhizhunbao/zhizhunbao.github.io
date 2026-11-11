@@ -1,10 +1,10 @@
 ---
-title: "10.39.21 Business Administration - Accounting"
+title: "10.40.21 Business Administration - Accounting"
 description: "Market > College Programs > Mohawk College > Business Administration - Accounting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.21 Business Administration - Accounting
+# 10.40.21 Business Administration - Accounting
 
 ## Glossary
 

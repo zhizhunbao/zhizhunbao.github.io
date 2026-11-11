@@ -1,10 +1,10 @@
 ---
-title: "10.11.23 Pratique de la mécanique"
+title: "10.12.23 Pratique de la mécanique"
 description: "Market > College Programs > Collège Boréal > Pratique de la mécanique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.23 Pratique de la mécanique
+# 10.12.23 Pratique de la mécanique
 
 ## Glossary
 

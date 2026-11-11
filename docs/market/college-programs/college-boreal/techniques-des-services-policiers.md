@@ -1,10 +1,10 @@
 ---
-title: "10.11.43 Techniques des services policiers"
+title: "10.12.43 Techniques des services policiers"
 description: "Market > College Programs > Collège Boréal > Techniques des services policiers: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.43 Techniques des services policiers
+# 10.12.43 Techniques des services policiers
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.104 Nutrition and Healthy Lifestyle Promotion"
+title: "10.29.104 Nutrition and Healthy Lifestyle Promotion"
 description: "Market > College Programs > Humber Polytechnic > Nutrition and Healthy Lifestyle Promotion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.104 Nutrition and Healthy Lifestyle Promotion
+# 10.29.104 Nutrition and Healthy Lifestyle Promotion
 
 ## Glossary
 

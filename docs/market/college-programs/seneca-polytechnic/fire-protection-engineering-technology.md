@@ -1,10 +1,10 @@
 ---
-title: "10.59.71 Fire Protection Engineering Technology"
+title: "10.60.71 Fire Protection Engineering Technology"
 description: "Market > College Programs > Seneca Polytechnic > Fire Protection Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.71 Fire Protection Engineering Technology
+# 10.60.71 Fire Protection Engineering Technology
 
 ## Glossary
 

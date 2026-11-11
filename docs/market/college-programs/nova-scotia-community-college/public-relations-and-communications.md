@@ -1,10 +1,10 @@
 ---
-title: "10.50.114 Public Relations and Communications"
+title: "10.51.114 Public Relations and Communications"
 description: "Market > College Programs > Nova Scotia Community College > Public Relations and Communications: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.114 Public Relations and Communications
+# 10.51.114 Public Relations and Communications
 
 ## Glossary
 

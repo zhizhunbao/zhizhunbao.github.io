@@ -1,10 +1,10 @@
 ---
-title: "10.34.1 Academic Upgrading"
+title: "10.35.1 Academic Upgrading"
 description: "Market > College Programs > Lethbridge Polytechnic > Academic Upgrading: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.1 Academic Upgrading
+# 10.35.1 Academic Upgrading
 
 ## Glossary
 

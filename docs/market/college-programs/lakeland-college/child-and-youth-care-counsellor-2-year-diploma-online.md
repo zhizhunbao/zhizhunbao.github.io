@@ -1,10 +1,10 @@
 ---
-title: "10.31.20 Child and Youth Care Counsellor, 2-year Diploma (Online)"
+title: "10.32.20 Child and Youth Care Counsellor, 2-year Diploma (Online)"
 description: "Market > College Programs > Lakeland College > Child and Youth Care Counsellor, 2-year Diploma (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.20 Child and Youth Care Counsellor, 2-year Diploma (Online)
+# 10.32.20 Child and Youth Care Counsellor, 2-year Diploma (Online)
 
 ## Glossary
 

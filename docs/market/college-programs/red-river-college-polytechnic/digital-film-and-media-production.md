@@ -1,10 +1,10 @@
 ---
-title: "10.55.22 Digital Film and Media Production"
+title: "10.56.22 Digital Film and Media Production"
 description: "Market > College Programs > Red River College Polytechnic > Digital Film and Media Production: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.22 Digital Film and Media Production
+# 10.56.22 Digital Film and Media Production
 
 ## Glossary
 

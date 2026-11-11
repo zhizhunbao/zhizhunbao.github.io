@@ -1,10 +1,10 @@
 ---
-title: "10.14.97 Techniques des systèmes informatiques"
+title: "10.15.97 Techniques des systèmes informatiques"
 description: "Market > College Programs > Collège La Cité > Techniques des systèmes informatiques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.97 Techniques des systèmes informatiques
+# 10.15.97 Techniques des systèmes informatiques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.53 Community Integration through Co-operative Education"
+title: "10.33.53 Community Integration through Co-operative Education"
 description: "Market > College Programs > Lambton College > Community Integration through Co-operative Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.53 Community Integration through Co-operative Education
+# 10.33.53 Community Integration through Co-operative Education
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.21.65 General Arts and Science – Liberal Arts Ontario Tech University Transfer"
+title: "10.22.65 General Arts and Science – Liberal Arts Ontario Tech University Transfer"
 description: "Market > College Programs > Durham College > General Arts and Science – Liberal Arts Ontario Tech University Transfer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.65 General Arts and Science – Liberal Arts Ontario Tech University Transfer
+# 10.22.65 General Arts and Science – Liberal Arts Ontario Tech University Transfer
 
 ## Glossary
 

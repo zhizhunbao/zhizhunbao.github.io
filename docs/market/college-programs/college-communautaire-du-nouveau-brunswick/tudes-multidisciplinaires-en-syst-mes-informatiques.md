@@ -1,10 +1,10 @@
 ---
-title: "10.12.76 Études multidisciplinaires en systèmes informatiques"
+title: "10.13.76 Études multidisciplinaires en systèmes informatiques"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Études multidisciplinaires en systèmes informatiques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.76 Études multidisciplinaires en systèmes informatiques
+# 10.13.76 Études multidisciplinaires en systèmes informatiques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.26 Educational Support (ED)"
+title: "10.24.26 Educational Support (ED)"
 description: "Market > College Programs > Fleming College > Educational Support (ED): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.26 Educational Support (ED)
+# 10.24.26 Educational Support (ED)
 
 ## Glossary
 

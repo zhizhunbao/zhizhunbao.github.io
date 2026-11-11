@@ -1,10 +1,10 @@
 ---
-title: "10.39.32 Computer Engineering Technology - Mechatronic Systems"
+title: "10.40.32 Computer Engineering Technology - Mechatronic Systems"
 description: "Market > College Programs > Mohawk College > Computer Engineering Technology - Mechatronic Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.32 Computer Engineering Technology - Mechatronic Systems
+# 10.40.32 Computer Engineering Technology - Mechatronic Systems
 
 ## Glossary
 

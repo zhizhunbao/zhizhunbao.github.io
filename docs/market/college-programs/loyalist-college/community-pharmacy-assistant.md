@@ -1,10 +1,10 @@
 ---
-title: "10.35.21 Community Pharmacy Assistant"
+title: "10.36.21 Community Pharmacy Assistant"
 description: "Market > College Programs > Loyalist College > Community Pharmacy Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.21 Community Pharmacy Assistant
+# 10.36.21 Community Pharmacy Assistant
 
 ## Glossary
 

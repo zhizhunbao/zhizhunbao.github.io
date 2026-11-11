@@ -1,10 +1,10 @@
 ---
-title: "10.15.30 Medical Laboratory Technology Science Diploma"
+title: "10.16.30 Medical Laboratory Technology Science Diploma"
 description: "Market > College Programs > College of New Caledonia > Medical Laboratory Technology Science Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.30 Medical Laboratory Technology Science Diploma
+# 10.16.30 Medical Laboratory Technology Science Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.65 Pharmacy Technician"
+title: "10.20.65 Pharmacy Technician"
 description: "Market > College Programs > Confederation College > Pharmacy Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.65 Pharmacy Technician
+# 10.20.65 Pharmacy Technician
 
 ## Glossary
 

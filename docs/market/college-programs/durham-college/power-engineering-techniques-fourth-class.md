@@ -1,10 +1,10 @@
 ---
-title: "10.21.106 Power Engineering Techniques – Fourth Class"
+title: "10.22.106 Power Engineering Techniques – Fourth Class"
 description: "Market > College Programs > Durham College > Power Engineering Techniques – Fourth Class: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.106 Power Engineering Techniques – Fourth Class
+# 10.22.106 Power Engineering Techniques – Fourth Class
 
 ## Glossary
 

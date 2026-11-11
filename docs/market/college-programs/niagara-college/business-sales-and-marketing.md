@@ -1,10 +1,10 @@
 ---
-title: "10.41.18 Business – Sales and Marketing"
+title: "10.42.18 Business – Sales and Marketing"
 description: "Market > College Programs > Niagara College > Business – Sales and Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.18 Business – Sales and Marketing
+# 10.42.18 Business – Sales and Marketing
 
 ## Glossary
 

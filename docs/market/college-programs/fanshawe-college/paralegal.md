@@ -1,10 +1,10 @@
 ---
-title: "10.22.134 Paralegal"
+title: "10.23.134 Paralegal"
 description: "Market > College Programs > Fanshawe College > Paralegal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.134 Paralegal
+# 10.23.134 Paralegal
 
 ## Glossary
 

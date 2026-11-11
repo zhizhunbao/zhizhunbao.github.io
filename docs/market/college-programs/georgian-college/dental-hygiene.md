@@ -1,10 +1,10 @@
 ---
-title: "10.25.55 Dental Hygiene"
+title: "10.26.55 Dental Hygiene"
 description: "Market > College Programs > Georgian College > Dental Hygiene: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.55 Dental Hygiene
+# 10.26.55 Dental Hygiene
 
 ## Glossary
 

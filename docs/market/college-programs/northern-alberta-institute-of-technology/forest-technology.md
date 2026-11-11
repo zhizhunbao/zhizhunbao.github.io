@@ -1,10 +1,10 @@
 ---
-title: "10.45.57 Forest Technology"
+title: "10.46.57 Forest Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Forest Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.57 Forest Technology
+# 10.46.57 Forest Technology
 
 ## Glossary
 

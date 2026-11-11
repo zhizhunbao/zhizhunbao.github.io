@@ -1,10 +1,10 @@
 ---
-title: "10.50.129 Wind Turbine Technician"
+title: "10.51.129 Wind Turbine Technician"
 description: "Market > College Programs > Nova Scotia Community College > Wind Turbine Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.129 Wind Turbine Technician
+# 10.51.129 Wind Turbine Technician
 
 ## Glossary
 

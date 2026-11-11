@@ -1,10 +1,10 @@
 ---
-title: "10.50.54 Electronic Systems Technician"
+title: "10.51.54 Electronic Systems Technician"
 description: "Market > College Programs > Nova Scotia Community College > Electronic Systems Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.54 Electronic Systems Technician
+# 10.51.54 Electronic Systems Technician
 
 ## Glossary
 

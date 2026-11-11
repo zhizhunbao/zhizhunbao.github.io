@@ -1,10 +1,10 @@
 ---
-title: "10.16.7 Applied Music"
+title: "10.17.7 Applied Music"
 description: "Market > College Programs > College of the North Atlantic > Applied Music: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.7 Applied Music
+# 10.17.7 Applied Music
 
 ## Glossary
 

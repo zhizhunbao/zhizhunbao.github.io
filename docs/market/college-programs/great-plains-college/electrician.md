@@ -1,10 +1,10 @@
 ---
-title: "10.26.7 Electrician"
+title: "10.27.7 Electrician"
 description: "Market > College Programs > Great Plains College > Electrician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.7 Electrician
+# 10.27.7 Electrician
 
 ## Glossary
 

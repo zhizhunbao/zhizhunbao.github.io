@@ -1,10 +1,10 @@
 ---
-title: "10.18.181 Robotics and Industrial Automation (Optional Co-op)"
+title: "10.19.181 Robotics and Industrial Automation (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Robotics and Industrial Automation (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.181 Robotics and Industrial Automation (Optional Co-op)
+# 10.19.181 Robotics and Industrial Automation (Optional Co-op)
 
 ## Glossary
 

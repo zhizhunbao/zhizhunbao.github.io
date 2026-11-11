@@ -1,10 +1,10 @@
 ---
-title: "10.34.34 General Arts and Science - Psychology and Sociology"
+title: "10.35.34 General Arts and Science - Psychology and Sociology"
 description: "Market > College Programs > Lethbridge Polytechnic > General Arts and Science - Psychology and Sociology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.34 General Arts and Science - Psychology and Sociology
+# 10.35.34 General Arts and Science - Psychology and Sociology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.82 General Arts and Science - Liberal Studies"
+title: "10.26.82 General Arts and Science - Liberal Studies"
 description: "Market > College Programs > Georgian College > General Arts and Science - Liberal Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.82 General Arts and Science - Liberal Studies
+# 10.26.82 General Arts and Science - Liberal Studies
 
 ## Glossary
 

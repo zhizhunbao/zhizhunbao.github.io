@@ -1,10 +1,10 @@
 ---
-title: "10.59.10 Arts and Science – University Transfer"
+title: "10.60.10 Arts and Science – University Transfer"
 description: "Market > College Programs > Seneca Polytechnic > Arts and Science – University Transfer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.10 Arts and Science – University Transfer
+# 10.60.10 Arts and Science – University Transfer
 
 ## Glossary
 

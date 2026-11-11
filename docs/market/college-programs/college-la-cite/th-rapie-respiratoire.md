@@ -1,10 +1,10 @@
 ---
-title: "10.14.126 Thérapie respiratoire"
+title: "10.15.126 Thérapie respiratoire"
 description: "Market > College Programs > Collège La Cité > Thérapie respiratoire: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.126 Thérapie respiratoire
+# 10.15.126 Thérapie respiratoire
 
 ## Glossary
 

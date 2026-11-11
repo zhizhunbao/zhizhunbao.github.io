@@ -1,10 +1,10 @@
 ---
-title: "10.19.41 Health Administration and Leadership"
+title: "10.20.41 Health Administration and Leadership"
 description: "Market > College Programs > Confederation College > Health Administration and Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.41 Health Administration and Leadership
+# 10.20.41 Health Administration and Leadership
 
 ## Glossary
 

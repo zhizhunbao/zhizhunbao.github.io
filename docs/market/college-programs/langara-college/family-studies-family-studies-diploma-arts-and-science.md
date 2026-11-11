@@ -1,10 +1,10 @@
 ---
-title: "10.33.51 Family Studies (family-studies-diploma-arts-and-science)"
+title: "10.34.51 Family Studies (family-studies-diploma-arts-and-science)"
 description: "Market > College Programs > Langara College > Family Studies (family-studies-diploma-arts-and-science): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.51 Family Studies (family-studies-diploma-arts-and-science)
+# 10.34.51 Family Studies (family-studies-diploma-arts-and-science)
 
 ## Glossary
 

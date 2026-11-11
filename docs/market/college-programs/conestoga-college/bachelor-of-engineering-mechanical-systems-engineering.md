@@ -1,10 +1,10 @@
 ---
-title: "10.18.26 Bachelor of Engineering - Mechanical Systems Engineering"
+title: "10.19.26 Bachelor of Engineering - Mechanical Systems Engineering"
 description: "Market > College Programs > Conestoga College > Bachelor of Engineering - Mechanical Systems Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.26 Bachelor of Engineering - Mechanical Systems Engineering
+# 10.19.26 Bachelor of Engineering - Mechanical Systems Engineering
 
 ## Glossary
 

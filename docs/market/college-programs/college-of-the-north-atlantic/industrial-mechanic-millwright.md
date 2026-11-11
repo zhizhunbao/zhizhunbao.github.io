@@ -1,10 +1,10 @@
 ---
-title: "10.16.57 Industrial Mechanic (Millwright)"
+title: "10.17.57 Industrial Mechanic (Millwright)"
 description: "Market > College Programs > College of the North Atlantic > Industrial Mechanic (Millwright): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.57 Industrial Mechanic (Millwright)
+# 10.17.57 Industrial Mechanic (Millwright)
 
 ## Glossary
 

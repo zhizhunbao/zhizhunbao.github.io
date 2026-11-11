@@ -1,10 +1,10 @@
 ---
-title: "10.23.52 Mental Health and Addiction Worker - Social Service Worker Dual Diploma"
+title: "10.24.52 Mental Health and Addiction Worker - Social Service Worker Dual Diploma"
 description: "Market > College Programs > Fleming College > Mental Health and Addiction Worker - Social Service Worker Dual Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.52 Mental Health and Addiction Worker - Social Service Worker Dual Diploma
+# 10.24.52 Mental Health and Addiction Worker - Social Service Worker Dual Diploma
 
 ## Glossary
 

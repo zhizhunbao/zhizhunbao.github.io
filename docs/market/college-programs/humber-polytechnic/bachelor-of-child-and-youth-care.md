@@ -1,10 +1,10 @@
 ---
-title: "10.28.8 Bachelor of Child and Youth Care"
+title: "10.29.8 Bachelor of Child and Youth Care"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Child and Youth Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.8 Bachelor of Child and Youth Care
+# 10.29.8 Bachelor of Child and Youth Care
 
 ## Glossary
 

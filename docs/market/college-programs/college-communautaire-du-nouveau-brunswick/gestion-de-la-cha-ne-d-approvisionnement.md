@@ -1,10 +1,10 @@
 ---
-title: "10.12.19 Gestion de la chaîne d’approvisionnement"
+title: "10.13.19 Gestion de la chaîne d’approvisionnement"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Gestion de la chaîne d’approvisionnement: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.19 Gestion de la chaîne d’approvisionnement
+# 10.13.19 Gestion de la chaîne d’approvisionnement
 
 ## Glossary
 

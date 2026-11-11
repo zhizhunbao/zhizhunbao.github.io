@@ -1,10 +1,10 @@
 ---
-title: "10.42.15 Digital Marketing"
+title: "10.43.15 Digital Marketing"
 description: "Market > College Programs > NorQuest College > Digital Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.15 Digital Marketing
+# 10.43.15 Digital Marketing
 
 ## Glossary
 

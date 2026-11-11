@@ -1,10 +1,10 @@
 ---
-title: "10.54.20 Culinary Arts Diploma"
+title: "10.55.20 Culinary Arts Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Culinary Arts Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.20 Culinary Arts Diploma
+# 10.55.20 Culinary Arts Diploma
 
 ## Glossary
 

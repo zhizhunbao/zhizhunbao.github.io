@@ -1,10 +1,10 @@
 ---
-title: "10.16.106 Welder / Metal Fabricator (Fitter)"
+title: "10.17.106 Welder / Metal Fabricator (Fitter)"
 description: "Market > College Programs > College of the North Atlantic > Welder / Metal Fabricator (Fitter): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.106 Welder / Metal Fabricator (Fitter)
+# 10.17.106 Welder / Metal Fabricator (Fitter)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.66 Enhanced Practice for Internationally Educated Nurses - Complex Care"
+title: "10.26.66 Enhanced Practice for Internationally Educated Nurses - Complex Care"
 description: "Market > College Programs > Georgian College > Enhanced Practice for Internationally Educated Nurses - Complex Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.66 Enhanced Practice for Internationally Educated Nurses - Complex Care
+# 10.26.66 Enhanced Practice for Internationally Educated Nurses - Complex Care
 
 ## Glossary
 

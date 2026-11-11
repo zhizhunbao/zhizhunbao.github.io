@@ -1,10 +1,10 @@
 ---
-title: "10.34.47 Practical Nurse Refresher"
+title: "10.35.47 Practical Nurse Refresher"
 description: "Market > College Programs > Lethbridge Polytechnic > Practical Nurse Refresher: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.47 Practical Nurse Refresher
+# 10.35.47 Practical Nurse Refresher
 
 ## Glossary
 

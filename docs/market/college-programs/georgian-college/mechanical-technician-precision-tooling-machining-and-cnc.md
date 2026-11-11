@@ -1,10 +1,10 @@
 ---
-title: "10.25.116 Mechanical Technician - Precision Tooling, Machining, and CNC"
+title: "10.26.116 Mechanical Technician - Precision Tooling, Machining, and CNC"
 description: "Market > College Programs > Georgian College > Mechanical Technician - Precision Tooling, Machining, and CNC: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.116 Mechanical Technician - Precision Tooling, Machining, and CNC
+# 10.26.116 Mechanical Technician - Precision Tooling, Machining, and CNC
 
 ## Glossary
 

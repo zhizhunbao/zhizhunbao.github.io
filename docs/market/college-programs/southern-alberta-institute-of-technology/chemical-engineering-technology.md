@@ -1,10 +1,10 @@
 ---
-title: "10.62.35 Chemical Engineering Technology"
+title: "10.63.35 Chemical Engineering Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Chemical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.35 Chemical Engineering Technology
+# 10.63.35 Chemical Engineering Technology
 
 ## Glossary
 

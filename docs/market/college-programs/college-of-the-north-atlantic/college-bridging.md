@@ -1,10 +1,10 @@
 ---
-title: "10.16.19 College Bridging"
+title: "10.17.19 College Bridging"
 description: "Market > College Programs > College of the North Atlantic > College Bridging: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.19 College Bridging
+# 10.17.19 College Bridging
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.20.33 Computing Science"
+title: "10.21.33 Computing Science"
 description: "Market > College Programs > Douglas College > Computing Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.33 Computing Science
+# 10.21.33 Computing Science
 
 ## Glossary
 

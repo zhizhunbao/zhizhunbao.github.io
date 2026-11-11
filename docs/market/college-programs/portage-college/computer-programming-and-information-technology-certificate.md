@@ -1,10 +1,10 @@
 ---
-title: "10.53.10 Computer Programming and Information Technology Certificate"
+title: "10.54.10 Computer Programming and Information Technology Certificate"
 description: "Market > College Programs > Portage College > Computer Programming and Information Technology Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.10 Computer Programming and Information Technology Certificate
+# 10.54.10 Computer Programming and Information Technology Certificate
 
 ## Glossary
 

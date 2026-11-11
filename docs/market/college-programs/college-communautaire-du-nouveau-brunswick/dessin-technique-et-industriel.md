@@ -1,10 +1,10 @@
 ---
-title: "10.12.14 Dessin technique et industriel"
+title: "10.13.14 Dessin technique et industriel"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Dessin technique et industriel: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.14 Dessin technique et industriel
+# 10.13.14 Dessin technique et industriel
 
 ## Glossary
 

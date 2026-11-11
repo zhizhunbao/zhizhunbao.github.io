@@ -1,10 +1,10 @@
 ---
-title: "10.50.32 Construction Project Management"
+title: "10.51.32 Construction Project Management"
 description: "Market > College Programs > Nova Scotia Community College > Construction Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.32 Construction Project Management
+# 10.51.32 Construction Project Management
 
 ## Glossary
 

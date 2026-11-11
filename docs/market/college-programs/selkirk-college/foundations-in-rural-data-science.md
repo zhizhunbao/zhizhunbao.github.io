@@ -1,10 +1,10 @@
 ---
-title: "10.58.37 Foundations in Rural Data Science"
+title: "10.59.37 Foundations in Rural Data Science"
 description: "Market > College Programs > Selkirk College > Foundations in Rural Data Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.37 Foundations in Rural Data Science
+# 10.59.37 Foundations in Rural Data Science
 
 ## Glossary
 

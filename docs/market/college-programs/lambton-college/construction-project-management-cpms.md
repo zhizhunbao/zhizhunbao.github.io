@@ -1,10 +1,10 @@
 ---
-title: "10.32.59 Construction Project Management (CPMS)"
+title: "10.33.59 Construction Project Management (CPMS)"
 description: "Market > College Programs > Lambton College > Construction Project Management (CPMS): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.59 Construction Project Management (CPMS)
+# 10.33.59 Construction Project Management (CPMS)
 
 ## Glossary
 

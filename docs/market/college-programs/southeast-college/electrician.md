@@ -1,10 +1,10 @@
 ---
-title: "10.61.3 Electrician"
+title: "10.62.3 Electrician"
 description: "Market > College Programs > Southeast College > Electrician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.61.3 Electrician
+# 10.62.3 Electrician
 
 ## Glossary
 

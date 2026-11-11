@@ -1,10 +1,10 @@
 ---
-title: "10.22.99 Honours Bachelor of Applied Technology - Biotechnology"
+title: "10.23.99 Honours Bachelor of Applied Technology - Biotechnology"
 description: "Market > College Programs > Fanshawe College > Honours Bachelor of Applied Technology - Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.99 Honours Bachelor of Applied Technology - Biotechnology
+# 10.23.99 Honours Bachelor of Applied Technology - Biotechnology
 
 ## Glossary
 

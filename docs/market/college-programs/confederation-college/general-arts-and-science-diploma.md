@@ -1,10 +1,10 @@
 ---
-title: "10.19.40 General Arts and Science - Diploma"
+title: "10.20.40 General Arts and Science - Diploma"
 description: "Market > College Programs > Confederation College > General Arts and Science - Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.40 General Arts and Science - Diploma
+# 10.20.40 General Arts and Science - Diploma
 
 ## Glossary
 

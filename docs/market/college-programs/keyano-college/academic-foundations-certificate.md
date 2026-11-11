@@ -1,10 +1,10 @@
 ---
-title: "10.30.1 Academic Foundations Certificate"
+title: "10.31.1 Academic Foundations Certificate"
 description: "Market > College Programs > Keyano College > Academic Foundations Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.1 Academic Foundations Certificate
+# 10.31.1 Academic Foundations Certificate
 
 ## Glossary
 

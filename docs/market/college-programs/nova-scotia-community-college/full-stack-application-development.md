@@ -1,10 +1,10 @@
 ---
-title: "10.50.57 Full Stack Application Development"
+title: "10.51.57 Full Stack Application Development"
 description: "Market > College Programs > Nova Scotia Community College > Full Stack Application Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.57 Full Stack Application Development
+# 10.51.57 Full Stack Application Development
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.37.22 Industrial Welding"
+title: "10.38.22 Industrial Welding"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Industrial Welding: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.22 Industrial Welding
+# 10.38.22 Industrial Welding
 
 ## Glossary
 

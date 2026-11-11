@@ -1,10 +1,10 @@
 ---
-title: "10.30.13 Computer Systems Technology Diploma"
+title: "10.31.13 Computer Systems Technology Diploma"
 description: "Market > College Programs > Keyano College > Computer Systems Technology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.13 Computer Systems Technology Diploma
+# 10.31.13 Computer Systems Technology Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.126 Music Industry Management and Artist Development"
+title: "10.23.126 Music Industry Management and Artist Development"
 description: "Market > College Programs > Fanshawe College > Music Industry Management and Artist Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.126 Music Industry Management and Artist Development
+# 10.23.126 Music Industry Management and Artist Development
 
 ## Glossary
 

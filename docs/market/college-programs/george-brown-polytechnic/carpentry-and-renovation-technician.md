@@ -1,10 +1,10 @@
 ---
-title: "10.24.10 Carpentry and Renovation Technician"
+title: "10.25.10 Carpentry and Renovation Technician"
 description: "Market > College Programs > George Brown Polytechnic > Carpentry and Renovation Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.10 Carpentry and Renovation Technician
+# 10.25.10 Carpentry and Renovation Technician
 
 ## Glossary
 

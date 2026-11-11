@@ -1,10 +1,10 @@
 ---
-title: "10.59.131 Office Administration – Legal"
+title: "10.60.131 Office Administration – Legal"
 description: "Market > College Programs > Seneca Polytechnic > Office Administration – Legal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.131 Office Administration – Legal
+# 10.60.131 Office Administration – Legal
 
 ## Glossary
 

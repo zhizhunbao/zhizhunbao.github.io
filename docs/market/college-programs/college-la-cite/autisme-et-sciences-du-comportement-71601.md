@@ -1,10 +1,10 @@
 ---
-title: "10.14.16 Autisme et sciences du comportement (71601)"
+title: "10.15.16 Autisme et sciences du comportement (71601)"
 description: "Market > College Programs > Collège La Cité > Autisme et sciences du comportement (71601): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.16 Autisme et sciences du comportement (71601)
+# 10.15.16 Autisme et sciences du comportement (71601)
 
 ## Glossary
 

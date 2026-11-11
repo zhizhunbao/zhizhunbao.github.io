@@ -1,10 +1,10 @@
 ---
-title: "10.11.37 Techniques agricoles"
+title: "10.12.37 Techniques agricoles"
 description: "Market > College Programs > Collège Boréal > Techniques agricoles: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.37 Techniques agricoles
+# 10.12.37 Techniques agricoles
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.11.64 Échographie diagnostique – POSTDIPLÔME"
+title: "10.12.64 Échographie diagnostique – POSTDIPLÔME"
 description: "Market > College Programs > Collège Boréal > Échographie diagnostique – POSTDIPLÔME: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.64 Échographie diagnostique – POSTDIPLÔME
+# 10.12.64 Échographie diagnostique – POSTDIPLÔME
 
 ## Glossary
 

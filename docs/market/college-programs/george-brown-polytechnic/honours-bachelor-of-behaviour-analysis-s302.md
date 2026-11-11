@@ -1,10 +1,10 @@
 ---
-title: "10.24.44 Honours Bachelor of Behaviour Analysis (S302)"
+title: "10.25.44 Honours Bachelor of Behaviour Analysis (S302)"
 description: "Market > College Programs > George Brown Polytechnic > Honours Bachelor of Behaviour Analysis (S302): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.44 Honours Bachelor of Behaviour Analysis (S302)
+# 10.25.44 Honours Bachelor of Behaviour Analysis (S302)
 
 ## Glossary
 

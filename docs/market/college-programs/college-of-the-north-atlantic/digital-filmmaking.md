@@ -1,10 +1,10 @@
 ---
-title: "10.16.34 Digital Filmmaking"
+title: "10.17.34 Digital Filmmaking"
 description: "Market > College Programs > College of the North Atlantic > Digital Filmmaking: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.34 Digital Filmmaking
+# 10.17.34 Digital Filmmaking
 
 ## Glossary
 

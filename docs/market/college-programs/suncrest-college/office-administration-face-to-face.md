@@ -1,10 +1,10 @@
 ---
-title: "10.65.18 Office Administration - Face to Face"
+title: "10.66.18 Office Administration - Face to Face"
 description: "Market > College Programs > Suncrest College > Office Administration - Face to Face: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.18 Office Administration - Face to Face
+# 10.66.18 Office Administration - Face to Face
 
 ## Glossary
 

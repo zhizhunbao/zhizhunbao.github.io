@@ -1,10 +1,10 @@
 ---
-title: "10.11.6 Assistant de l’ergothérapeute et Assistant du physiothérapeute"
+title: "10.12.6 Assistant de l’ergothérapeute et Assistant du physiothérapeute"
 description: "Market > College Programs > Collège Boréal > Assistant de l’ergothérapeute et Assistant du physiothérapeute: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.6 Assistant de l’ergothérapeute et Assistant du physiothérapeute
+# 10.12.6 Assistant de l’ergothérapeute et Assistant du physiothérapeute
 
 ## Glossary
 

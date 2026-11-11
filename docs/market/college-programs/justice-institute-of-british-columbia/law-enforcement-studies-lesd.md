@@ -1,10 +1,10 @@
 ---
-title: "10.29.21 Law Enforcement Studies (LESD)"
+title: "10.30.21 Law Enforcement Studies (LESD)"
 description: "Market > College Programs > Justice Institute of British Columbia > Law Enforcement Studies (LESD): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.21 Law Enforcement Studies (LESD)
+# 10.30.21 Law Enforcement Studies (LESD)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.109 Law Clerk"
+title: "10.26.109 Law Clerk"
 description: "Market > College Programs > Georgian College > Law Clerk: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.109 Law Clerk
+# 10.26.109 Law Clerk
 
 ## Glossary
 

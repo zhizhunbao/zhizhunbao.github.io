@@ -1,10 +1,10 @@
 ---
-title: "10.50.82 Landscape Technician"
+title: "10.51.82 Landscape Technician"
 description: "Market > College Programs > Nova Scotia Community College > Landscape Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.82 Landscape Technician
+# 10.51.82 Landscape Technician
 
 ## Glossary
 

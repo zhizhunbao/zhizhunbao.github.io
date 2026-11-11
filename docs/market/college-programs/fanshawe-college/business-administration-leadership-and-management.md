@@ -1,10 +1,10 @@
 ---
-title: "10.22.38 Business Administration - Leadership and Management"
+title: "10.23.38 Business Administration - Leadership and Management"
 description: "Market > College Programs > Fanshawe College > Business Administration - Leadership and Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.38 Business Administration - Leadership and Management
+# 10.23.38 Business Administration - Leadership and Management
 
 ## Glossary
 

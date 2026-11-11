@@ -1,10 +1,10 @@
 ---
-title: "10.42.29 Justice"
+title: "10.43.29 Justice"
 description: "Market > College Programs > NorQuest College > Justice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.29 Justice
+# 10.43.29 Justice
 
 ## Glossary
 

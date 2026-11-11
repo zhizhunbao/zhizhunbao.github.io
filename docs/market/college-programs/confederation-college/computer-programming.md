@@ -1,10 +1,10 @@
 ---
-title: "10.19.26 Computer Programming"
+title: "10.20.26 Computer Programming"
 description: "Market > College Programs > Confederation College > Computer Programming: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.26 Computer Programming
+# 10.20.26 Computer Programming
 
 ## Glossary
 

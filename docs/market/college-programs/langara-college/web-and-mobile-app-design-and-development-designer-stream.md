@@ -1,10 +1,10 @@
 ---
-title: "10.33.95 Web and Mobile App Design and Development (Designer Stream)"
+title: "10.34.95 Web and Mobile App Design and Development (Designer Stream)"
 description: "Market > College Programs > Langara College > Web and Mobile App Design and Development (Designer Stream): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.95 Web and Mobile App Design and Development (Designer Stream)
+# 10.34.95 Web and Mobile App Design and Development (Designer Stream)
 
 ## Glossary
 

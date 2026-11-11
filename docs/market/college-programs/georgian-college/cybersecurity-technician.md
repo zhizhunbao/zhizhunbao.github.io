@@ -1,10 +1,10 @@
 ---
-title: "10.25.52 Cybersecurity Technician"
+title: "10.26.52 Cybersecurity Technician"
 description: "Market > College Programs > Georgian College > Cybersecurity Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.52 Cybersecurity Technician
+# 10.26.52 Cybersecurity Technician
 
 ## Glossary
 

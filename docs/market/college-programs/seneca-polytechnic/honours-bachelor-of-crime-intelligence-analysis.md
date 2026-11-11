@@ -1,10 +1,10 @@
 ---
-title: "10.59.88 Honours Bachelor of Crime & Intelligence Analysis"
+title: "10.60.88 Honours Bachelor of Crime & Intelligence Analysis"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Crime & Intelligence Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.88 Honours Bachelor of Crime & Intelligence Analysis
+# 10.60.88 Honours Bachelor of Crime & Intelligence Analysis
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.61.10 Welding"
+title: "10.62.10 Welding"
 description: "Market > College Programs > Southeast College > Welding: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.61.10 Welding
+# 10.62.10 Welding
 
 ## Glossary
 

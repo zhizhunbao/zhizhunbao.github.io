@@ -20,6 +20,7 @@ ms.date: 2026-11-08
 | **[Canadore College](canadore-college/index.md)**<br>坎纳多学院 | (Definition pending) | （定义待补） | [Canadore College, n.d.](https://www.canadorecollege.ca/canadore-international/pgwp) |
 | **[Carlton Trail College](carlton-trail-college/index.md)**<br>卡尔顿小道学院 | (Definition pending) | （定义待补） | [Carlton Trail College, n.d.](https://www.carltontrailcollege.com/future-students/welcome/international-students/) |
 | **[Centennial College](centennial-college/index.md)**<br>百年理工学院 | (Definition pending) | （定义待补） | [Centennial College, n.d.](https://www.centennialcollege.ca/programs-courses/full-time) |
+| **[Centre for Nursing Studies](centre-for-nursing-studies/index.md)**<br>护理学中心 | (Definition pending) | （定义待补） | [Centre for Nursing Studies, n.d.](https://cns.easternhealth.ca/programs-and-courses/program-and-course-offerings/) |
 | **[Coast Mountain College](coast-mountain-college/index.md)**<br>海岸山脉学院 | (Definition pending) | （定义待补） | [Coast Mountain College, n.d.](https://www.coastmountaincollege.ca/programs/explore/international) |
 | **[Collège Boréal](college-boreal/index.md)**<br>博雷亚尔学院 | (Definition pending) | （定义待补） | [Collège Boréal, n.d.](https://collegeboreal.ca/futurs-etudiants-et-etudiantes/candidats-internationaux/) |
 | **[Collège communautaire du Nouveau-Brunswick](college-communautaire-du-nouveau-brunswick/index.md)**<br>新不伦瑞克法语社区学院 | (Definition pending) | （定义待补） | [Collège communautaire du Nouveau-Brunswick, n.d.](https://ccnb.ca/admission-et-inscription/ptpd/) |
@@ -77,6 +78,7 @@ ms.date: 2026-11-08
 | **[St. Lawrence College](st-lawrence-college/index.md)**<br>圣劳伦斯学院 | (Definition pending) | （定义待补） | [St. Lawrence College, n.d.](https://www.stlawrencecollege.ca/services/international/pgwp-aligned-programs/pgwp-programs-june2025-onward) |
 | **[Suncrest College](suncrest-college/index.md)**<br>森克雷斯特学院 | (Definition pending) | （定义待补） | [Suncrest College, n.d.](https://suncrestcollege.ca/international-students) |
 | **[Vancouver Community College](vancouver-community-college/index.md)**<br>温哥华社区学院 | (Definition pending) | （定义待补） | [Vancouver Community College, n.d.](https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/) |
+| **[Western Regional School of Nursing](western-regional-school-of-nursing/index.md)**<br>西部地区护理学校 | (Definition pending) | （定义待补） | [Western Regional School of Nursing, n.d.](https://www.mun.ca/nursingadmissions/admission-information/international-applicants/) |
 
 ## References
 
@@ -97,6 +99,8 @@ Canadore College. (n.d.). *Post-Graduation Work Permit (PGWP) eligible programs 
 Carlton Trail College. (n.d.). *International students*. Retrieved November 10, 2026, from <https://www.carltontrailcollege.com/future-students/welcome/international-students/>
 
 Centennial College. (n.d.). *Full-time programs*. Retrieved November 10, 2026, from <https://www.centennialcollege.ca/programs-courses/full-time>
+
+Centre for Nursing Studies. (n.d.). *Program and Course Offerings*. Retrieved November 10, 2026, from <https://cns.easternhealth.ca/programs-and-courses/program-and-course-offerings/>
 
 Coast Mountain College. (n.d.). *International*. Retrieved November 9, 2026, from <https://www.coastmountaincollege.ca/programs/explore/international>
 
@@ -211,3 +215,5 @@ St. Lawrence College. (n.d.). *PGWP-aligned programs, June 25, 2025 onward*. Ret
 Suncrest College. (n.d.). *International students*. Retrieved November 10, 2026, from <https://suncrestcollege.ca/international-students>
 
 Vancouver Community College. (n.d.). *PGWP-eligible programs*. Retrieved November 9, 2026, from <https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/>
+
+Western Regional School of Nursing. (n.d.). *International Applicants*. Retrieved November 10, 2026, from <https://www.mun.ca/nursingadmissions/admission-information/international-applicants/>

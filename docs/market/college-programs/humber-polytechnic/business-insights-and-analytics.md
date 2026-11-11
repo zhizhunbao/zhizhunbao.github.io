@@ -1,10 +1,10 @@
 ---
-title: "10.28.39 Business Insights and Analytics"
+title: "10.29.39 Business Insights and Analytics"
 description: "Market > College Programs > Humber Polytechnic > Business Insights and Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.39 Business Insights and Analytics
+# 10.29.39 Business Insights and Analytics
 
 ## Glossary
 

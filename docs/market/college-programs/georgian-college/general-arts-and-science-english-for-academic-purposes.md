@@ -1,10 +1,10 @@
 ---
-title: "10.25.81 General Arts and Science - English for Academic Purposes"
+title: "10.26.81 General Arts and Science - English for Academic Purposes"
 description: "Market > College Programs > Georgian College > General Arts and Science - English for Academic Purposes: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.81 General Arts and Science - English for Academic Purposes
+# 10.26.81 General Arts and Science - English for Academic Purposes
 
 ## Glossary
 

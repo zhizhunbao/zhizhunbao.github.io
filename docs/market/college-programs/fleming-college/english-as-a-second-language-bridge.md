@@ -1,10 +1,10 @@
 ---
-title: "10.23.33 English As A Second Language Bridge"
+title: "10.24.33 English As A Second Language Bridge"
 description: "Market > College Programs > Fleming College > English As A Second Language Bridge: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.33 English As A Second Language Bridge
+# 10.24.33 English As A Second Language Bridge
 
 ## Glossary
 

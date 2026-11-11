@@ -1,10 +1,10 @@
 ---
-title: "10.27.18 Construction Technology and Management"
+title: "10.28.18 Construction Technology and Management"
 description: "Market > College Programs > Holland College > Construction Technology and Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.18 Construction Technology and Management
+# 10.28.18 Construction Technology and Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.60.30 Construction Engineering Technician – Sustainability"
+title: "10.61.30 Construction Engineering Technician – Sustainability"
 description: "Market > College Programs > Sheridan College > Construction Engineering Technician – Sustainability: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.30 Construction Engineering Technician – Sustainability
+# 10.61.30 Construction Engineering Technician – Sustainability
 
 ## Glossary
 

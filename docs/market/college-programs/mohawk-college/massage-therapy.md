@@ -1,10 +1,10 @@
 ---
-title: "10.39.63 Massage Therapy"
+title: "10.40.63 Massage Therapy"
 description: "Market > College Programs > Mohawk College > Massage Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.63 Massage Therapy
+# 10.40.63 Massage Therapy
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.27.4 Aircraft Turbine Technician"
+title: "10.28.4 Aircraft Turbine Technician"
 description: "Market > College Programs > Holland College > Aircraft Turbine Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.4 Aircraft Turbine Technician
+# 10.28.4 Aircraft Turbine Technician
 
 ## Glossary
 

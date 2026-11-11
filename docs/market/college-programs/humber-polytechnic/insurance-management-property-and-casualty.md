@@ -1,10 +1,10 @@
 ---
-title: "10.28.90 Insurance Management – Property and Casualty"
+title: "10.29.90 Insurance Management – Property and Casualty"
 description: "Market > College Programs > Humber Polytechnic > Insurance Management – Property and Casualty: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.90 Insurance Management – Property and Casualty
+# 10.29.90 Insurance Management – Property and Casualty
 
 ## Glossary
 

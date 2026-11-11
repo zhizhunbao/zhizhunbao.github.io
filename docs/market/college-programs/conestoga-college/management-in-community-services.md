@@ -1,10 +1,10 @@
 ---
-title: "10.18.135 Management in Community Services"
+title: "10.19.135 Management in Community Services"
 description: "Market > College Programs > Conestoga College > Management in Community Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.135 Management in Community Services
+# 10.19.135 Management in Community Services
 
 ## Glossary
 

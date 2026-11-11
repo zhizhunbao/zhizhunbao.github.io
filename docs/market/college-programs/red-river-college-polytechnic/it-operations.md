@@ -1,10 +1,10 @@
 ---
-title: "10.55.41 IT Operations"
+title: "10.56.41 IT Operations"
 description: "Market > College Programs > Red River College Polytechnic > IT Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.41 IT Operations
+# 10.56.41 IT Operations
 
 ## Glossary
 

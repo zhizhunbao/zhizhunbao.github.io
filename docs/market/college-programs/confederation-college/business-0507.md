@@ -1,10 +1,10 @@
 ---
-title: "10.19.10 Business (0507)"
+title: "10.20.10 Business (0507)"
 description: "Market > College Programs > Confederation College > Business (0507): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.10 Business (0507)
+# 10.20.10 Business (0507)
 
 ## Glossary
 

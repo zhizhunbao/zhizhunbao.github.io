@@ -1,10 +1,10 @@
 ---
-title: "10.65.21 Power Engineering (Third Class)"
+title: "10.66.21 Power Engineering (Third Class)"
 description: "Market > College Programs > Suncrest College > Power Engineering (Third Class): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.21 Power Engineering (Third Class)
+# 10.66.21 Power Engineering (Third Class)
 
 ## Glossary
 

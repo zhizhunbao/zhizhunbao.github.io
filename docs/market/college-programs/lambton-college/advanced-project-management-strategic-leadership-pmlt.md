@@ -1,10 +1,10 @@
 ---
-title: "10.32.3 Advanced Project Management & Strategic Leadership (PMLT)"
+title: "10.33.3 Advanced Project Management & Strategic Leadership (PMLT)"
 description: "Market > College Programs > Lambton College > Advanced Project Management & Strategic Leadership (PMLT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.3 Advanced Project Management & Strategic Leadership (PMLT)
+# 10.33.3 Advanced Project Management & Strategic Leadership (PMLT)
 
 ## Glossary
 

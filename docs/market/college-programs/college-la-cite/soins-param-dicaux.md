@@ -1,10 +1,10 @@
 ---
-title: "10.14.82 Soins paramédicaux"
+title: "10.15.82 Soins paramédicaux"
 description: "Market > College Programs > Collège La Cité > Soins paramédicaux: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.82 Soins paramédicaux
+# 10.15.82 Soins paramédicaux
 
 ## Glossary
 

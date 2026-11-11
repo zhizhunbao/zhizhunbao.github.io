@@ -1,10 +1,10 @@
 ---
-title: "10.42.5 Arts and Sciences Diploma"
+title: "10.43.5 Arts and Sciences Diploma"
 description: "Market > College Programs > NorQuest College > Arts and Sciences Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.5 Arts and Sciences Diploma
+# 10.43.5 Arts and Sciences Diploma
 
 ## Glossary
 

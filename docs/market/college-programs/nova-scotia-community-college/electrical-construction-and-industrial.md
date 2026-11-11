@@ -1,10 +1,10 @@
 ---
-title: "10.50.48 Electrical Construction and Industrial"
+title: "10.51.48 Electrical Construction and Industrial"
 description: "Market > College Programs > Nova Scotia Community College > Electrical Construction and Industrial: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.48 Electrical Construction and Industrial
+# 10.51.48 Electrical Construction and Industrial
 
 ## Glossary
 

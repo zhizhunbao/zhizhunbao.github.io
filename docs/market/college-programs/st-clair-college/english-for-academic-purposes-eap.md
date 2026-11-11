@@ -1,10 +1,10 @@
 ---
-title: "10.63.47 English for Academic Purposes (EAP)"
+title: "10.64.47 English for Academic Purposes (EAP)"
 description: "Market > College Programs > St. Clair College > English for Academic Purposes (EAP): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.47 English for Academic Purposes (EAP)
+# 10.64.47 English for Academic Purposes (EAP)
 
 ## Glossary
 

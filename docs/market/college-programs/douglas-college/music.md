@@ -1,10 +1,10 @@
 ---
-title: "10.20.72 Music"
+title: "10.21.72 Music"
 description: "Market > College Programs > Douglas College > Music: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.72 Music
+# 10.21.72 Music
 
 ## Glossary
 

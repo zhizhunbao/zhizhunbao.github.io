@@ -1,10 +1,10 @@
 ---
-title: "10.50.112 Practical Nursing"
+title: "10.51.112 Practical Nursing"
 description: "Market > College Programs > Nova Scotia Community College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.112 Practical Nursing
+# 10.51.112 Practical Nursing
 
 ## Glossary
 

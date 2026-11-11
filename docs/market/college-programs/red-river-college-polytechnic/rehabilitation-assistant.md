@@ -1,10 +1,10 @@
 ---
-title: "10.55.60 Rehabilitation Assistant"
+title: "10.56.60 Rehabilitation Assistant"
 description: "Market > College Programs > Red River College Polytechnic > Rehabilitation Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.60 Rehabilitation Assistant
+# 10.56.60 Rehabilitation Assistant
 
 ## Glossary
 

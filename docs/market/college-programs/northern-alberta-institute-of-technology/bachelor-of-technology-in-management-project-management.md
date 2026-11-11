@@ -1,10 +1,10 @@
 ---
-title: "10.45.18 Bachelor of Technology in Management - Project Management"
+title: "10.46.18 Bachelor of Technology in Management - Project Management"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Bachelor of Technology in Management - Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.18 Bachelor of Technology in Management - Project Management
+# 10.46.18 Bachelor of Technology in Management - Project Management
 
 ## Glossary
 

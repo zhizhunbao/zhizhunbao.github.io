@@ -1,10 +1,10 @@
 ---
-title: "10.22.59 Culinary Skills"
+title: "10.23.59 Culinary Skills"
 description: "Market > College Programs > Fanshawe College > Culinary Skills: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.59 Culinary Skills
+# 10.23.59 Culinary Skills
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.52.21 Hospitality & Tourism Certificate"
+title: "10.53.21 Hospitality & Tourism Certificate"
 description: "Market > College Programs > Olds College > Hospitality & Tourism Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.21 Hospitality & Tourism Certificate
+# 10.53.21 Hospitality & Tourism Certificate
 
 ## Glossary
 

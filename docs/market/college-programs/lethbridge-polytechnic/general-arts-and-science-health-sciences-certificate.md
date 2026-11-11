@@ -1,10 +1,10 @@
 ---
-title: "10.34.32 General Arts and Science - Health Sciences Certificate"
+title: "10.35.32 General Arts and Science - Health Sciences Certificate"
 description: "Market > College Programs > Lethbridge Polytechnic > General Arts and Science - Health Sciences Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.32 General Arts and Science - Health Sciences Certificate
+# 10.35.32 General Arts and Science - Health Sciences Certificate
 
 ## Glossary
 

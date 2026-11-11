@@ -1,10 +1,10 @@
 ---
-title: "10.25.39 Communication and Professional Writing"
+title: "10.26.39 Communication and Professional Writing"
 description: "Market > College Programs > Georgian College > Communication and Professional Writing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.39 Communication and Professional Writing
+# 10.26.39 Communication and Professional Writing
 
 ## Glossary
 

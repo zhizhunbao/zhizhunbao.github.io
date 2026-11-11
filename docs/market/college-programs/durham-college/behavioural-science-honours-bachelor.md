@@ -1,10 +1,10 @@
 ---
-title: "10.21.17 Behavioural Science – Honours Bachelor"
+title: "10.22.17 Behavioural Science – Honours Bachelor"
 description: "Market > College Programs > Durham College > Behavioural Science – Honours Bachelor: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.17 Behavioural Science – Honours Bachelor
+# 10.22.17 Behavioural Science – Honours Bachelor
 
 ## Glossary
 

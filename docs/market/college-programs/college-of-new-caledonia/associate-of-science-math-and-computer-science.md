@@ -1,10 +1,10 @@
 ---
-title: "10.15.6 Associate of Science Math and Computer Science"
+title: "10.16.6 Associate of Science Math and Computer Science"
 description: "Market > College Programs > College of New Caledonia > Associate of Science Math and Computer Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.6 Associate of Science Math and Computer Science
+# 10.16.6 Associate of Science Math and Computer Science
 
 ## Glossary
 

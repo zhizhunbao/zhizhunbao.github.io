@@ -1,10 +1,10 @@
 ---
-title: "10.40.39 Hospitality and Tourism Management"
+title: "10.41.39 Hospitality and Tourism Management"
 description: "Market > College Programs > New Brunswick Community College > Hospitality and Tourism Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.39 Hospitality and Tourism Management
+# 10.41.39 Hospitality and Tourism Management
 
 ## Glossary
 

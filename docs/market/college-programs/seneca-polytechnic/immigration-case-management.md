@@ -1,10 +1,10 @@
 ---
-title: "10.59.106 Immigration Case Management"
+title: "10.60.106 Immigration Case Management"
 description: "Market > College Programs > Seneca Polytechnic > Immigration Case Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.106 Immigration Case Management
+# 10.60.106 Immigration Case Management
 
 ## Glossary
 

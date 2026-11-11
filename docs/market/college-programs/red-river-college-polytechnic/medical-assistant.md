@@ -1,10 +1,10 @@
 ---
-title: "10.55.50 Medical Assistant"
+title: "10.56.50 Medical Assistant"
 description: "Market > College Programs > Red River College Polytechnic > Medical Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.50 Medical Assistant
+# 10.56.50 Medical Assistant
 
 ## Glossary
 

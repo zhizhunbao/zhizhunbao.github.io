@@ -1,10 +1,10 @@
 ---
-title: "10.12.34 Préposé aux soins avec intégration au milieu de travail canadien"
+title: "10.13.34 Préposé aux soins avec intégration au milieu de travail canadien"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Préposé aux soins avec intégration au milieu de travail canadien: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.34 Préposé aux soins avec intégration au milieu de travail canadien
+# 10.13.34 Préposé aux soins avec intégration au milieu de travail canadien
 
 ## Glossary
 

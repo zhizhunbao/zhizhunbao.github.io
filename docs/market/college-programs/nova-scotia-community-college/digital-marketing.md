@@ -1,10 +1,10 @@
 ---
-title: "10.50.44 Digital Marketing"
+title: "10.51.44 Digital Marketing"
 description: "Market > College Programs > Nova Scotia Community College > Digital Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.44 Digital Marketing
+# 10.51.44 Digital Marketing
 
 ## Glossary
 

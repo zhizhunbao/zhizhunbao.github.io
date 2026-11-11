@@ -1,10 +1,10 @@
 ---
-title: "10.24.77 Smart Building Design and Operations"
+title: "10.25.77 Smart Building Design and Operations"
 description: "Market > College Programs > George Brown Polytechnic > Smart Building Design and Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.77 Smart Building Design and Operations
+# 10.25.77 Smart Building Design and Operations
 
 ## Glossary
 

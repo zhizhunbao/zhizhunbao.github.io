@@ -1,10 +1,10 @@
 ---
-title: "10.31.27 Early Childhood Education Diploma, 2-year (Vermilion)"
+title: "10.32.27 Early Childhood Education Diploma, 2-year (Vermilion)"
 description: "Market > College Programs > Lakeland College > Early Childhood Education Diploma, 2-year (Vermilion): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.27 Early Childhood Education Diploma, 2-year (Vermilion)
+# 10.32.27 Early Childhood Education Diploma, 2-year (Vermilion)
 
 ## Glossary
 

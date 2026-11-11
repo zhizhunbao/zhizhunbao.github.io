@@ -1,10 +1,10 @@
 ---
-title: "10.62.102 Petroleum Land Administration"
+title: "10.63.102 Petroleum Land Administration"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Petroleum Land Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.102 Petroleum Land Administration
+# 10.63.102 Petroleum Land Administration
 
 ## Glossary
 

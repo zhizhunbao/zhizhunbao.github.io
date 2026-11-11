@@ -1,10 +1,10 @@
 ---
-title: "10.59.124 Medical Esthetics Nursing"
+title: "10.60.124 Medical Esthetics Nursing"
 description: "Market > College Programs > Seneca Polytechnic > Medical Esthetics Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.124 Medical Esthetics Nursing
+# 10.60.124 Medical Esthetics Nursing
 
 ## Glossary
 

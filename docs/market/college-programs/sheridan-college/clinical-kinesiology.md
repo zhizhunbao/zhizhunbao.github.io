@@ -1,10 +1,10 @@
 ---
-title: "10.60.21 Clinical Kinesiology"
+title: "10.61.21 Clinical Kinesiology"
 description: "Market > College Programs > Sheridan College > Clinical Kinesiology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.21 Clinical Kinesiology
+# 10.61.21 Clinical Kinesiology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.62.86 Marketing"
+title: "10.63.86 Marketing"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.86 Marketing
+# 10.63.86 Marketing
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.24 Business - Entrepreneurship (ENTB)"
+title: "10.26.24 Business - Entrepreneurship (ENTB)"
 description: "Market > College Programs > Georgian College > Business - Entrepreneurship (ENTB): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.24 Business - Entrepreneurship (ENTB)
+# 10.26.24 Business - Entrepreneurship (ENTB)
 
 ## Glossary
 

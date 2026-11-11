@@ -1,10 +1,10 @@
 ---
-title: "10.12.46 Techniques de gestion et d’administration"
+title: "10.13.46 Techniques de gestion et d’administration"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Techniques de gestion et d’administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.46 Techniques de gestion et d’administration
+# 10.13.46 Techniques de gestion et d’administration
 
 ## Glossary
 

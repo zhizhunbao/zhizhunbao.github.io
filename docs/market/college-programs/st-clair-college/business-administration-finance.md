@@ -1,10 +1,10 @@
 ---
-title: "10.63.13 Business Administration - Finance"
+title: "10.64.13 Business Administration - Finance"
 description: "Market > College Programs > St. Clair College > Business Administration - Finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.13 Business Administration - Finance
+# 10.64.13 Business Administration - Finance
 
 ## Glossary
 

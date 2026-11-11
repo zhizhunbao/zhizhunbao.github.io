@@ -1,10 +1,10 @@
 ---
-title: "10.50.104 Oceans Technology"
+title: "10.51.104 Oceans Technology"
 description: "Market > College Programs > Nova Scotia Community College > Oceans Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.104 Oceans Technology
+# 10.51.104 Oceans Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.44.6 Early Childhood Education Level II Certificate"
+title: "10.45.6 Early Childhood Education Level II Certificate"
 description: "Market > College Programs > North West College > Early Childhood Education Level II Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.44.6 Early Childhood Education Level II Certificate
+# 10.45.6 Early Childhood Education Level II Certificate
 
 ## Glossary
 

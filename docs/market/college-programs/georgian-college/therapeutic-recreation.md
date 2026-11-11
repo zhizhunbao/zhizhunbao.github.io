@@ -1,10 +1,10 @@
 ---
-title: "10.25.153 Therapeutic Recreation"
+title: "10.26.153 Therapeutic Recreation"
 description: "Market > College Programs > Georgian College > Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.153 Therapeutic Recreation
+# 10.26.153 Therapeutic Recreation
 
 ## Glossary
 

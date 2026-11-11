@@ -1,10 +1,10 @@
 ---
-title: "10.12.62 Technologie d’électrophysiologie médicale – cardiologie"
+title: "10.13.62 Technologie d’électrophysiologie médicale – cardiologie"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technologie d’électrophysiologie médicale – cardiologie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.62 Technologie d’électrophysiologie médicale – cardiologie
+# 10.13.62 Technologie d’électrophysiologie médicale – cardiologie
 
 ## Glossary
 

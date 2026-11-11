@@ -1,10 +1,10 @@
 ---
-title: "10.46.30 Mechanical Engineering Technology"
+title: "10.47.30 Mechanical Engineering Technology"
 description: "Market > College Programs > Northern College > Mechanical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.30 Mechanical Engineering Technology
+# 10.47.30 Mechanical Engineering Technology
 
 ## Glossary
 

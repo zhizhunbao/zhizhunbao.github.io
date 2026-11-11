@@ -1,10 +1,10 @@
 ---
-title: "10.28.22 Bachelor of Engineering - Mechatronics Engineering"
+title: "10.29.22 Bachelor of Engineering - Mechatronics Engineering"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Engineering - Mechatronics Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.22 Bachelor of Engineering - Mechatronics Engineering
+# 10.29.22 Bachelor of Engineering - Mechatronics Engineering
 
 ## Glossary
 

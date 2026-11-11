@@ -1,10 +1,10 @@
 ---
-title: "10.62.70 Hospitality and Tourism Management - Restaurant and Service Operations"
+title: "10.63.70 Hospitality and Tourism Management - Restaurant and Service Operations"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Hospitality and Tourism Management - Restaurant and Service Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.70 Hospitality and Tourism Management - Restaurant and Service Operations
+# 10.63.70 Hospitality and Tourism Management - Restaurant and Service Operations
 
 ## Glossary
 

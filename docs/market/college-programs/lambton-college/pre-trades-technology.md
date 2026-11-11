@@ -1,10 +1,10 @@
 ---
-title: "10.32.116 Pre-Trades & Technology"
+title: "10.33.116 Pre-Trades & Technology"
 description: "Market > College Programs > Lambton College > Pre-Trades & Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.116 Pre-Trades & Technology
+# 10.33.116 Pre-Trades & Technology
 
 ## Glossary
 

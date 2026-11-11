@@ -1,10 +1,10 @@
 ---
-title: "10.64.26 Cybersecurity (S1136)"
+title: "10.65.26 Cybersecurity (S1136)"
 description: "Market > College Programs > St. Lawrence College > Cybersecurity (S1136): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.26 Cybersecurity (S1136)
+# 10.65.26 Cybersecurity (S1136)
 
 ## Glossary
 

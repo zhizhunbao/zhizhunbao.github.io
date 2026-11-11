@@ -1,10 +1,10 @@
 ---
-title: "10.23.12 Computer Engineering Technician"
+title: "10.24.12 Computer Engineering Technician"
 description: "Market > College Programs > Fleming College > Computer Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.12 Computer Engineering Technician
+# 10.24.12 Computer Engineering Technician
 
 ## Glossary
 

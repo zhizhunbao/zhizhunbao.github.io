@@ -1,10 +1,10 @@
 ---
-title: "10.50.14 Behavioural Interventions"
+title: "10.51.14 Behavioural Interventions"
 description: "Market > College Programs > Nova Scotia Community College > Behavioural Interventions: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.14 Behavioural Interventions
+# 10.51.14 Behavioural Interventions
 
 ## Glossary
 

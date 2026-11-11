@@ -1,10 +1,10 @@
 ---
-title: "10.32.8 Agri-Business Management"
+title: "10.33.8 Agri-Business Management"
 description: "Market > College Programs > Lambton College > Agri-Business Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.8 Agri-Business Management
+# 10.33.8 Agri-Business Management
 
 ## Glossary
 

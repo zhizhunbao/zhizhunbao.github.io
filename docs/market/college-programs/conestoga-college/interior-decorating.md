@@ -1,10 +1,10 @@
 ---
-title: "10.18.131 Interior Decorating"
+title: "10.19.131 Interior Decorating"
 description: "Market > College Programs > Conestoga College > Interior Decorating: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.131 Interior Decorating
+# 10.19.131 Interior Decorating
 
 ## Glossary
 

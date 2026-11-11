@@ -1,10 +1,10 @@
 ---
-title: "10.32.132 Therapeutic Recreation"
+title: "10.33.132 Therapeutic Recreation"
 description: "Market > College Programs > Lambton College > Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.132 Therapeutic Recreation
+# 10.33.132 Therapeutic Recreation
 
 ## Glossary
 

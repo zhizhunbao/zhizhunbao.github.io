@@ -1,10 +1,10 @@
 ---
-title: "10.22.73 Electrical Engineering Technician"
+title: "10.23.73 Electrical Engineering Technician"
 description: "Market > College Programs > Fanshawe College > Electrical Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.73 Electrical Engineering Technician
+# 10.23.73 Electrical Engineering Technician
 
 ## Glossary
 

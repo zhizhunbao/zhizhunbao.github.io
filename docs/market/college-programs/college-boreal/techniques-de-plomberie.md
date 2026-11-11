@@ -1,10 +1,10 @@
 ---
-title: "10.11.39 Techniques de plomberie"
+title: "10.12.39 Techniques de plomberie"
 description: "Market > College Programs > Collège Boréal > Techniques de plomberie: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.39 Techniques de plomberie
+# 10.12.39 Techniques de plomberie
 
 ## Glossary
 

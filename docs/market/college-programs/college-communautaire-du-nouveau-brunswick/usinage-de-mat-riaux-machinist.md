@@ -1,10 +1,10 @@
 ---
-title: "10.12.67 Usinage de matériaux (Machinist)"
+title: "10.13.67 Usinage de matériaux (Machinist)"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Usinage de matériaux (Machinist): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.67 Usinage de matériaux (Machinist)
+# 10.13.67 Usinage de matériaux (Machinist)
 
 ## Glossary
 

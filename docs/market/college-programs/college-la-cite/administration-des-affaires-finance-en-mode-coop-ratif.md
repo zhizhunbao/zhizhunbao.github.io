@@ -1,10 +1,10 @@
 ---
-title: "10.14.9 Administration des affaires – finance en mode coopératif"
+title: "10.15.9 Administration des affaires – finance en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Administration des affaires – finance en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.9 Administration des affaires – finance en mode coopératif
+# 10.15.9 Administration des affaires – finance en mode coopératif
 
 ## Glossary
 

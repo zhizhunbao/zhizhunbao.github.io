@@ -1,10 +1,10 @@
 ---
-title: "10.35.33 General Arts and Science – One Year"
+title: "10.36.33 General Arts and Science – One Year"
 description: "Market > College Programs > Loyalist College > General Arts and Science – One Year: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.33 General Arts and Science – One Year
+# 10.36.33 General Arts and Science – One Year
 
 ## Glossary
 

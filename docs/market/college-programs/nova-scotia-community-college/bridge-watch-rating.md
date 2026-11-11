@@ -1,10 +1,10 @@
 ---
-title: "10.50.16 Bridge Watch Rating"
+title: "10.51.16 Bridge Watch Rating"
 description: "Market > College Programs > Nova Scotia Community College > Bridge Watch Rating: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.16 Bridge Watch Rating
+# 10.51.16 Bridge Watch Rating
 
 ## Glossary
 

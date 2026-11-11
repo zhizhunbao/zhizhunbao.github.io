@@ -1,10 +1,10 @@
 ---
-title: "10.23.8 Carpentry and Renovation Technician (SLCPT)"
+title: "10.24.8 Carpentry and Renovation Technician (SLCPT)"
 description: "Market > College Programs > Fleming College > Carpentry and Renovation Technician (SLCPT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.8 Carpentry and Renovation Technician (SLCPT)
+# 10.24.8 Carpentry and Renovation Technician (SLCPT)
 
 ## Glossary
 

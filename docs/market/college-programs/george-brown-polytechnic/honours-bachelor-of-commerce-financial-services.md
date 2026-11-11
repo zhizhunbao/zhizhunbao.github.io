@@ -1,10 +1,10 @@
 ---
-title: "10.24.51 Honours Bachelor of Commerce (Financial Services)"
+title: "10.25.51 Honours Bachelor of Commerce (Financial Services)"
 description: "Market > College Programs > George Brown Polytechnic > Honours Bachelor of Commerce (Financial Services): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.51 Honours Bachelor of Commerce (Financial Services)
+# 10.25.51 Honours Bachelor of Commerce (Financial Services)
 
 ## Glossary
 

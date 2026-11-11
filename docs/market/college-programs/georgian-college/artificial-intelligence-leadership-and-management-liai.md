@@ -1,10 +1,10 @@
 ---
-title: "10.25.12 Artificial Intelligence Leadership and Management (LIAI)"
+title: "10.26.12 Artificial Intelligence Leadership and Management (LIAI)"
 description: "Market > College Programs > Georgian College > Artificial Intelligence Leadership and Management (LIAI): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.12 Artificial Intelligence Leadership and Management (LIAI)
+# 10.26.12 Artificial Intelligence Leadership and Management (LIAI)
 
 ## Glossary
 

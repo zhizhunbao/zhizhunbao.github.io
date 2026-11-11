@@ -1,10 +1,10 @@
 ---
-title: "10.62.95 Nuclear Medicine Technology"
+title: "10.63.95 Nuclear Medicine Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Nuclear Medicine Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.95 Nuclear Medicine Technology
+# 10.63.95 Nuclear Medicine Technology
 
 ## Glossary
 

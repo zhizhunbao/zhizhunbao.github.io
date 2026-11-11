@@ -1,10 +1,10 @@
 ---
-title: "10.33.29 Commerce & Business Studies"
+title: "10.34.29 Commerce & Business Studies"
 description: "Market > College Programs > Langara College > Commerce & Business Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.29 Commerce & Business Studies
+# 10.34.29 Commerce & Business Studies
 
 ## Glossary
 

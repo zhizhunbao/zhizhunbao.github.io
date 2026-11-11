@@ -1,10 +1,10 @@
 ---
-title: "10.12.74 Études multidisciplinaires en métiers"
+title: "10.13.74 Études multidisciplinaires en métiers"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Études multidisciplinaires en métiers: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.74 Études multidisciplinaires en métiers
+# 10.13.74 Études multidisciplinaires en métiers
 
 ## Glossary
 

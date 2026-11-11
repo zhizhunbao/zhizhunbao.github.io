@@ -1,10 +1,10 @@
 ---
-title: "10.11.52 Techniques d’éducation spécialisée"
+title: "10.12.52 Techniques d’éducation spécialisée"
 description: "Market > College Programs > Collège Boréal > Techniques d’éducation spécialisée: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.52 Techniques d’éducation spécialisée
+# 10.12.52 Techniques d’éducation spécialisée
 
 ## Glossary
 

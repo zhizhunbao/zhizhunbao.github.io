@@ -1,10 +1,10 @@
 ---
-title: "10.56.26 Educational Assistant"
+title: "10.57.26 Educational Assistant"
 description: "Market > College Programs > Saskatchewan Polytechnic > Educational Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.26 Educational Assistant
+# 10.57.26 Educational Assistant
 
 ## Glossary
 

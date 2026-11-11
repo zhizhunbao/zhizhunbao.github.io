@@ -1,10 +1,10 @@
 ---
-title: "10.50.43 Digital Animation - 3D"
+title: "10.51.43 Digital Animation - 3D"
 description: "Market > College Programs > Nova Scotia Community College > Digital Animation - 3D: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.43 Digital Animation - 3D
+# 10.51.43 Digital Animation - 3D
 
 ## Glossary
 

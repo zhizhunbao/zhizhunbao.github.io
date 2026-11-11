@@ -1,10 +1,10 @@
 ---
-title: "10.52.20 Horticulture Technologist Diploma"
+title: "10.53.20 Horticulture Technologist Diploma"
 description: "Market > College Programs > Olds College > Horticulture Technologist Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.20 Horticulture Technologist Diploma
+# 10.53.20 Horticulture Technologist Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.24.19 Computer Programming and Analysis"
+title: "10.25.19 Computer Programming and Analysis"
 description: "Market > College Programs > George Brown Polytechnic > Computer Programming and Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.19 Computer Programming and Analysis
+# 10.25.19 Computer Programming and Analysis
 
 ## Glossary
 

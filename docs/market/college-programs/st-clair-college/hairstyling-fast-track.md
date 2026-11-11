@@ -1,10 +1,10 @@
 ---
-title: "10.63.56 Hairstyling (Fast Track)"
+title: "10.64.56 Hairstyling (Fast Track)"
 description: "Market > College Programs > St. Clair College > Hairstyling (Fast Track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.56 Hairstyling (Fast Track)
+# 10.64.56 Hairstyling (Fast Track)
 
 ## Glossary
 

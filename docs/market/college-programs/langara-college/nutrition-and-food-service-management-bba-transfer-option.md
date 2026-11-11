@@ -1,10 +1,10 @@
 ---
-title: "10.33.81 Nutrition and Food Service Management (BBA Transfer Option)"
+title: "10.34.81 Nutrition and Food Service Management (BBA Transfer Option)"
 description: "Market > College Programs > Langara College > Nutrition and Food Service Management (BBA Transfer Option): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.81 Nutrition and Food Service Management (BBA Transfer Option)
+# 10.34.81 Nutrition and Food Service Management (BBA Transfer Option)
 
 ## Glossary
 

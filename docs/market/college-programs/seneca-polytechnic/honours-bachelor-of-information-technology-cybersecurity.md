@@ -1,10 +1,10 @@
 ---
-title: "10.59.93 Honours Bachelor of Information Technology – Cybersecurity"
+title: "10.60.93 Honours Bachelor of Information Technology – Cybersecurity"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Information Technology – Cybersecurity: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.93 Honours Bachelor of Information Technology – Cybersecurity
+# 10.60.93 Honours Bachelor of Information Technology – Cybersecurity
 
 ## Glossary
 

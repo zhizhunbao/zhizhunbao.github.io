@@ -1,10 +1,10 @@
 ---
-title: "10.21.82 Massage Therapy"
+title: "10.22.82 Massage Therapy"
 description: "Market > College Programs > Durham College > Massage Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.82 Massage Therapy
+# 10.22.82 Massage Therapy
 
 ## Glossary
 

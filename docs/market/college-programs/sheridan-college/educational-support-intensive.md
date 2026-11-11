@@ -1,10 +1,10 @@
 ---
-title: "10.60.38 Educational Support – Intensive"
+title: "10.61.38 Educational Support – Intensive"
 description: "Market > College Programs > Sheridan College > Educational Support – Intensive: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.38 Educational Support – Intensive
+# 10.61.38 Educational Support – Intensive
 
 ## Glossary
 

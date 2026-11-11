@@ -1,10 +1,10 @@
 ---
-title: "10.41.31 Culinary Skills"
+title: "10.42.31 Culinary Skills"
 description: "Market > College Programs > Niagara College > Culinary Skills: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.31 Culinary Skills
+# 10.42.31 Culinary Skills
 
 ## Glossary
 

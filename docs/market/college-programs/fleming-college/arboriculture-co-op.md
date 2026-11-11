@@ -1,10 +1,10 @@
 ---
-title: "10.23.2 Arboriculture (Co-op)"
+title: "10.24.2 Arboriculture (Co-op)"
 description: "Market > College Programs > Fleming College > Arboriculture (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.2 Arboriculture (Co-op)
+# 10.24.2 Arboriculture (Co-op)
 
 ## Glossary
 

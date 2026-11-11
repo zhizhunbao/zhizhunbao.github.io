@@ -1,10 +1,10 @@
 ---
-title: "10.63.102 Predictive Data Analytics"
+title: "10.64.102 Predictive Data Analytics"
 description: "Market > College Programs > St. Clair College > Predictive Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.102 Predictive Data Analytics
+# 10.64.102 Predictive Data Analytics
 
 ## Glossary
 

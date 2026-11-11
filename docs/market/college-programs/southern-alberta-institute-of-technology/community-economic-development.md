@@ -1,10 +1,10 @@
 ---
-title: "10.62.41 Community Economic Development"
+title: "10.63.41 Community Economic Development"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Community Economic Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.41 Community Economic Development
+# 10.63.41 Community Economic Development
 
 ## Glossary
 

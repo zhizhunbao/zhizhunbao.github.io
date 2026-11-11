@@ -1,10 +1,10 @@
 ---
-title: "10.55.16 Construction Management"
+title: "10.56.16 Construction Management"
 description: "Market > College Programs > Red River College Polytechnic > Construction Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.16 Construction Management
+# 10.56.16 Construction Management
 
 ## Glossary
 

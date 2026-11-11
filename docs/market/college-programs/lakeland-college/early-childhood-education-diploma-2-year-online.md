@@ -1,10 +1,10 @@
 ---
-title: "10.31.28 Early Childhood Education Diploma, 2-year (Online)"
+title: "10.32.28 Early Childhood Education Diploma, 2-year (Online)"
 description: "Market > College Programs > Lakeland College > Early Childhood Education Diploma, 2-year (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.28 Early Childhood Education Diploma, 2-year (Online)
+# 10.32.28 Early Childhood Education Diploma, 2-year (Online)
 
 ## Glossary
 

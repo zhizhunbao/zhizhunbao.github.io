@@ -1,10 +1,10 @@
 ---
-title: "10.27.33 Journalism and Communications (Graduate Certificate)"
+title: "10.28.33 Journalism and Communications (Graduate Certificate)"
 description: "Market > College Programs > Holland College > Journalism and Communications (Graduate Certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.33 Journalism and Communications (Graduate Certificate)
+# 10.28.33 Journalism and Communications (Graduate Certificate)
 
 ## Glossary
 

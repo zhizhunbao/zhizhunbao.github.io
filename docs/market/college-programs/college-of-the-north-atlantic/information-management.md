@@ -1,10 +1,10 @@
 ---
-title: "10.16.58 Information Management"
+title: "10.17.58 Information Management"
 description: "Market > College Programs > College of the North Atlantic > Information Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.58 Information Management
+# 10.17.58 Information Management
 
 ## Glossary
 

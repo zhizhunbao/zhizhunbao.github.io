@@ -1,10 +1,10 @@
 ---
-title: "10.35.17 Civil Engineering Technician"
+title: "10.36.17 Civil Engineering Technician"
 description: "Market > College Programs > Loyalist College > Civil Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.17 Civil Engineering Technician
+# 10.36.17 Civil Engineering Technician
 
 ## Glossary
 

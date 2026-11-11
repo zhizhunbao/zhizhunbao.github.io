@@ -1,10 +1,10 @@
 ---
-title: "10.21.59 Fine Arts – Advanced"
+title: "10.22.59 Fine Arts – Advanced"
 description: "Market > College Programs > Durham College > Fine Arts – Advanced: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.59 Fine Arts – Advanced
+# 10.22.59 Fine Arts – Advanced
 
 ## Glossary
 

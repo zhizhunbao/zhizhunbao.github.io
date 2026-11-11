@@ -1,10 +1,10 @@
 ---
-title: "10.64.40 Esthetician"
+title: "10.65.40 Esthetician"
 description: "Market > College Programs > St. Lawrence College > Esthetician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.40 Esthetician
+# 10.65.40 Esthetician
 
 ## Glossary
 

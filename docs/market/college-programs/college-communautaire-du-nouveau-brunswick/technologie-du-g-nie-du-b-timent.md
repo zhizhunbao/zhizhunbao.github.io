@@ -1,10 +1,10 @@
 ---
-title: "10.12.58 Technologie du génie du bâtiment"
+title: "10.13.58 Technologie du génie du bâtiment"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technologie du génie du bâtiment: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.58 Technologie du génie du bâtiment
+# 10.13.58 Technologie du génie du bâtiment
 
 ## Glossary
 

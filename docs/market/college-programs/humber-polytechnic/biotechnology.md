@@ -1,10 +1,10 @@
 ---
-title: "10.28.36 Biotechnology"
+title: "10.29.36 Biotechnology"
 description: "Market > College Programs > Humber Polytechnic > Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.36 Biotechnology
+# 10.29.36 Biotechnology
 
 ## Glossary
 

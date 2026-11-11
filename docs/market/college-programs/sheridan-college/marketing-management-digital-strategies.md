@@ -1,10 +1,10 @@
 ---
-title: "10.60.81 Marketing Management – Digital Strategies"
+title: "10.61.81 Marketing Management – Digital Strategies"
 description: "Market > College Programs > Sheridan College > Marketing Management – Digital Strategies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.81 Marketing Management – Digital Strategies
+# 10.61.81 Marketing Management – Digital Strategies
 
 ## Glossary
 

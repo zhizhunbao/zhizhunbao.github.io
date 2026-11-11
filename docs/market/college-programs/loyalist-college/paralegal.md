@@ -1,10 +1,10 @@
 ---
-title: "10.35.49 Paralegal"
+title: "10.36.49 Paralegal"
 description: "Market > College Programs > Loyalist College > Paralegal: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.49 Paralegal
+# 10.36.49 Paralegal
 
 ## Glossary
 

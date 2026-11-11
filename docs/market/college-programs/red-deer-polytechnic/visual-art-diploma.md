@@ -1,10 +1,10 @@
 ---
-title: "10.54.38 Visual Art Diploma"
+title: "10.55.38 Visual Art Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Visual Art Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.38 Visual Art Diploma
+# 10.55.38 Visual Art Diploma
 
 ## Glossary
 

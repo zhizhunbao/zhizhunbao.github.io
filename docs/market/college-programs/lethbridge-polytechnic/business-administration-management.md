@@ -1,10 +1,10 @@
 ---
-title: "10.34.11 Business Administration - Management"
+title: "10.35.11 Business Administration - Management"
 description: "Market > College Programs > Lethbridge Polytechnic > Business Administration - Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.11 Business Administration - Management
+# 10.35.11 Business Administration - Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.33.1 Accounting (accounting-diploma)"
+title: "10.34.1 Accounting (accounting-diploma)"
 description: "Market > College Programs > Langara College > Accounting (accounting-diploma): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.1 Accounting (accounting-diploma)
+# 10.34.1 Accounting (accounting-diploma)
 
 ## Glossary
 

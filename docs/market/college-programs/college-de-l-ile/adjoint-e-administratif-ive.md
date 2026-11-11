@@ -1,10 +1,10 @@
 ---
-title: "10.13.1 Adjoint-e administratif-ive"
+title: "10.14.1 Adjoint-e administratif-ive"
 description: "Market > College Programs > Collège de l'Île > Adjoint-e administratif-ive: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.1 Adjoint-e administratif-ive
+# 10.14.1 Adjoint-e administratif-ive
 
 ## Glossary
 

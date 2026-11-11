@@ -1,10 +1,10 @@
 ---
-title: "10.65.24 Primary Care Paramedic - Fall 2027"
+title: "10.66.24 Primary Care Paramedic - Fall 2027"
 description: "Market > College Programs > Suncrest College > Primary Care Paramedic - Fall 2027: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.24 Primary Care Paramedic - Fall 2027
+# 10.66.24 Primary Care Paramedic - Fall 2027
 
 ## Glossary
 

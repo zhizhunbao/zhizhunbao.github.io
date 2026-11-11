@@ -1,10 +1,10 @@
 ---
-title: "10.64.53 Mechanical Technician"
+title: "10.65.53 Mechanical Technician"
 description: "Market > College Programs > St. Lawrence College > Mechanical Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.53 Mechanical Technician
+# 10.65.53 Mechanical Technician
 
 ## Glossary
 

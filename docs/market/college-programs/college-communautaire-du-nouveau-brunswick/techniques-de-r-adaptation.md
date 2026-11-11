@@ -1,10 +1,10 @@
 ---
-title: "10.12.48 Techniques de réadaptation"
+title: "10.13.48 Techniques de réadaptation"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Techniques de réadaptation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.48 Techniques de réadaptation
+# 10.13.48 Techniques de réadaptation
 
 ## Glossary
 

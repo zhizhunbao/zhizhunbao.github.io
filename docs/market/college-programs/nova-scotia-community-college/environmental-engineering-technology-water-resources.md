@@ -1,10 +1,10 @@
 ---
-title: "10.50.55 Environmental Engineering Technology – Water Resources"
+title: "10.51.55 Environmental Engineering Technology – Water Resources"
 description: "Market > College Programs > Nova Scotia Community College > Environmental Engineering Technology – Water Resources: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.55 Environmental Engineering Technology – Water Resources
+# 10.51.55 Environmental Engineering Technology – Water Resources
 
 ## Glossary
 

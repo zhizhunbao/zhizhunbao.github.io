@@ -1,10 +1,10 @@
 ---
-title: "10.50.5 Aircraft Maintenance Technology - Mechanical"
+title: "10.51.5 Aircraft Maintenance Technology - Mechanical"
 description: "Market > College Programs > Nova Scotia Community College > Aircraft Maintenance Technology - Mechanical: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.5 Aircraft Maintenance Technology - Mechanical
+# 10.51.5 Aircraft Maintenance Technology - Mechanical
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.21 Drawing and Painting"
+title: "10.24.21 Drawing and Painting"
 description: "Market > College Programs > Fleming College > Drawing and Painting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.21 Drawing and Painting
+# 10.24.21 Drawing and Painting
 
 ## Glossary
 

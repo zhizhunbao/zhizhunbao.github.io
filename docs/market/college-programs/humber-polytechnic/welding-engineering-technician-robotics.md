@@ -1,10 +1,10 @@
 ---
-title: "10.28.124 Welding Engineering Technician - Robotics"
+title: "10.29.124 Welding Engineering Technician - Robotics"
 description: "Market > College Programs > Humber Polytechnic > Welding Engineering Technician - Robotics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.124 Welding Engineering Technician - Robotics
+# 10.29.124 Welding Engineering Technician - Robotics
 
 ## Glossary
 

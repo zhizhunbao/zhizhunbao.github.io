@@ -1,10 +1,10 @@
 ---
-title: "10.31.4 Animal Assisted Wellness, 1-year Certificate"
+title: "10.32.4 Animal Assisted Wellness, 1-year Certificate"
 description: "Market > College Programs > Lakeland College > Animal Assisted Wellness, 1-year Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.4 Animal Assisted Wellness, 1-year Certificate
+# 10.32.4 Animal Assisted Wellness, 1-year Certificate
 
 ## Glossary
 

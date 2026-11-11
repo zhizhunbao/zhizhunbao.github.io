@@ -1,10 +1,10 @@
 ---
-title: "10.53.12 Early Learning & Child Care Certificate"
+title: "10.54.12 Early Learning & Child Care Certificate"
 description: "Market > College Programs > Portage College > Early Learning & Child Care Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.12 Early Learning & Child Care Certificate
+# 10.54.12 Early Learning & Child Care Certificate
 
 ## Glossary
 

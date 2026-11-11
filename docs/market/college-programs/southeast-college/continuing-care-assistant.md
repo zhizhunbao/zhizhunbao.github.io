@@ -1,10 +1,10 @@
 ---
-title: "10.61.1 Continuing Care Assistant"
+title: "10.62.1 Continuing Care Assistant"
 description: "Market > College Programs > Southeast College > Continuing Care Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.61.1 Continuing Care Assistant
+# 10.62.1 Continuing Care Assistant
 
 ## Glossary
 

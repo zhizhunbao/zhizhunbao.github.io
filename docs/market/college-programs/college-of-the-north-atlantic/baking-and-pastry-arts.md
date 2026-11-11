@@ -1,10 +1,10 @@
 ---
-title: "10.16.14 Baking and Pastry Arts"
+title: "10.17.14 Baking and Pastry Arts"
 description: "Market > College Programs > College of the North Atlantic > Baking and Pastry Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.14 Baking and Pastry Arts
+# 10.17.14 Baking and Pastry Arts
 
 ## Glossary
 

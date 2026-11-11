@@ -1,10 +1,10 @@
 ---
-title: "10.63.111 Social Service Worker - Gerontology"
+title: "10.64.111 Social Service Worker - Gerontology"
 description: "Market > College Programs > St. Clair College > Social Service Worker - Gerontology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.111 Social Service Worker - Gerontology
+# 10.64.111 Social Service Worker - Gerontology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.64.12 Biotechnology Advanced"
+title: "10.65.12 Biotechnology Advanced"
 description: "Market > College Programs > St. Lawrence College > Biotechnology Advanced: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.12 Biotechnology Advanced
+# 10.65.12 Biotechnology Advanced
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.54 Medical Radiation Technology"
+title: "10.20.54 Medical Radiation Technology"
 description: "Market > College Programs > Confederation College > Medical Radiation Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.54 Medical Radiation Technology
+# 10.20.54 Medical Radiation Technology
 
 ## Glossary
 

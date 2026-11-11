@@ -1,10 +1,10 @@
 ---
-title: "10.25.108 Kitchen and Bath Design"
+title: "10.26.108 Kitchen and Bath Design"
 description: "Market > College Programs > Georgian College > Kitchen and Bath Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.108 Kitchen and Bath Design
+# 10.26.108 Kitchen and Bath Design
 
 ## Glossary
 

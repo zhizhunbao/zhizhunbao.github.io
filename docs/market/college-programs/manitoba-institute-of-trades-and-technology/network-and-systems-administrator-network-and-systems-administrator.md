@@ -1,10 +1,10 @@
 ---
-title: "10.37.26 Network and Systems Administrator (network-and-systems-administrator)"
+title: "10.38.26 Network and Systems Administrator (network-and-systems-administrator)"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Network and Systems Administrator (network-and-systems-administrator): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.26 Network and Systems Administrator (network-and-systems-administrator)
+# 10.38.26 Network and Systems Administrator (network-and-systems-administrator)
 
 ## Glossary
 

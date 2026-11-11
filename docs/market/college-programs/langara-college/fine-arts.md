@@ -1,10 +1,10 @@
 ---
-title: "10.33.56 Fine Arts"
+title: "10.34.56 Fine Arts"
 description: "Market > College Programs > Langara College > Fine Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.56 Fine Arts
+# 10.34.56 Fine Arts
 
 ## Glossary
 

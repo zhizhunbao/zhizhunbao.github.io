@@ -1,10 +1,10 @@
 ---
-title: "10.18.123 Human Factors and Ergonomics"
+title: "10.19.123 Human Factors and Ergonomics"
 description: "Market > College Programs > Conestoga College > Human Factors and Ergonomics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.123 Human Factors and Ergonomics
+# 10.19.123 Human Factors and Ergonomics
 
 ## Glossary
 

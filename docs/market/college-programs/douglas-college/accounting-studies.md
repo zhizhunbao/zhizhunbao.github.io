@@ -1,10 +1,10 @@
 ---
-title: "10.20.9 Accounting Studies"
+title: "10.21.9 Accounting Studies"
 description: "Market > College Programs > Douglas College > Accounting Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.9 Accounting Studies
+# 10.21.9 Accounting Studies
 
 ## Glossary
 

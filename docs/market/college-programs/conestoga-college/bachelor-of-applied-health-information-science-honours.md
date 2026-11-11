@@ -1,10 +1,10 @@
 ---
-title: "10.18.11 Bachelor of Applied Health Information Science (Honours)"
+title: "10.19.11 Bachelor of Applied Health Information Science (Honours)"
 description: "Market > College Programs > Conestoga College > Bachelor of Applied Health Information Science (Honours): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.11 Bachelor of Applied Health Information Science (Honours)
+# 10.19.11 Bachelor of Applied Health Information Science (Honours)
 
 ## Glossary
 

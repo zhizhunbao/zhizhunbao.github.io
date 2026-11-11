@@ -1,10 +1,10 @@
 ---
-title: "10.12.40 Soins paramédicaux primaires"
+title: "10.13.40 Soins paramédicaux primaires"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Soins paramédicaux primaires: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.40 Soins paramédicaux primaires
+# 10.13.40 Soins paramédicaux primaires
 
 ## Glossary
 

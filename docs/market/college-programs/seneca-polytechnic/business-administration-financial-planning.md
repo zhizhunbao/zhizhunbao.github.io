@@ -1,10 +1,10 @@
 ---
-title: "10.59.22 Business Administration – Financial Planning"
+title: "10.60.22 Business Administration – Financial Planning"
 description: "Market > College Programs > Seneca Polytechnic > Business Administration – Financial Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.22 Business Administration – Financial Planning
+# 10.60.22 Business Administration – Financial Planning
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.36.3 Business Administrative Assistant Certificate Program"
+title: "10.37.3 Business Administrative Assistant Certificate Program"
 description: "Market > College Programs > MaKami College > Business Administrative Assistant Certificate Program: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.36.3 Business Administrative Assistant Certificate Program
+# 10.37.3 Business Administrative Assistant Certificate Program
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.38.10 Child and Youth Care Counsellor"
+title: "10.39.10 Child and Youth Care Counsellor"
 description: "Market > College Programs > Medicine Hat College > Child and Youth Care Counsellor: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.10 Child and Youth Care Counsellor
+# 10.39.10 Child and Youth Care Counsellor
 
 ## Glossary
 

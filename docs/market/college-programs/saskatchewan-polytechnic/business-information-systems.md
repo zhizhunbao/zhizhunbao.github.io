@@ -1,10 +1,10 @@
 ---
-title: "10.56.12 Business Information Systems"
+title: "10.57.12 Business Information Systems"
 description: "Market > College Programs > Saskatchewan Polytechnic > Business Information Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.12 Business Information Systems
+# 10.57.12 Business Information Systems
 
 ## Glossary
 

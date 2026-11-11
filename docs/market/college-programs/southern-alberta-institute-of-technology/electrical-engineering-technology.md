@@ -1,10 +1,10 @@
 ---
-title: "10.62.53 Electrical Engineering Technology"
+title: "10.63.53 Electrical Engineering Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Electrical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.53 Electrical Engineering Technology
+# 10.63.53 Electrical Engineering Technology
 
 ## Glossary
 

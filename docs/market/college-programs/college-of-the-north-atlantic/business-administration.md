@@ -1,10 +1,10 @@
 ---
-title: "10.16.15 Business Administration"
+title: "10.17.15 Business Administration"
 description: "Market > College Programs > College of the North Atlantic > Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.15 Business Administration
+# 10.17.15 Business Administration
 
 ## Glossary
 

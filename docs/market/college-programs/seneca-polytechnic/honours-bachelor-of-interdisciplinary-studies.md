@@ -1,10 +1,10 @@
 ---
-title: "10.59.94 Honours Bachelor of Interdisciplinary Studies"
+title: "10.60.94 Honours Bachelor of Interdisciplinary Studies"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Interdisciplinary Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.94 Honours Bachelor of Interdisciplinary Studies
+# 10.60.94 Honours Bachelor of Interdisciplinary Studies
 
 ## Glossary
 

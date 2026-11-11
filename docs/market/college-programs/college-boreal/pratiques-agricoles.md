@@ -1,10 +1,10 @@
 ---
-title: "10.11.26 Pratiques agricoles"
+title: "10.12.26 Pratiques agricoles"
 description: "Market > College Programs > Collège Boréal > Pratiques agricoles: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.26 Pratiques agricoles
+# 10.12.26 Pratiques agricoles
 
 ## Glossary
 

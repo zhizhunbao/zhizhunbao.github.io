@@ -1,10 +1,10 @@
 ---
-title: "10.28.46 Clinical Bioinformatics"
+title: "10.29.46 Clinical Bioinformatics"
 description: "Market > College Programs > Humber Polytechnic > Clinical Bioinformatics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.46 Clinical Bioinformatics
+# 10.29.46 Clinical Bioinformatics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.25.83 General Arts and Science - Liberal Studies Foundation"
+title: "10.26.83 General Arts and Science - Liberal Studies Foundation"
 description: "Market > College Programs > Georgian College > General Arts and Science - Liberal Studies Foundation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.83 General Arts and Science - Liberal Studies Foundation
+# 10.26.83 General Arts and Science - Liberal Studies Foundation
 
 ## Glossary
 

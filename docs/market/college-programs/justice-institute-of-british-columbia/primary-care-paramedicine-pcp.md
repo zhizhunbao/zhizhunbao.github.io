@@ -1,10 +1,10 @@
 ---
-title: "10.29.24 Primary Care Paramedicine (PCP)"
+title: "10.30.24 Primary Care Paramedicine (PCP)"
 description: "Market > College Programs > Justice Institute of British Columbia > Primary Care Paramedicine (PCP): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.24 Primary Care Paramedicine (PCP)
+# 10.30.24 Primary Care Paramedicine (PCP)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.49 Chemical Production & Power Engineering Technology - Accelerated"
+title: "10.33.49 Chemical Production & Power Engineering Technology - Accelerated"
 description: "Market > College Programs > Lambton College > Chemical Production & Power Engineering Technology - Accelerated: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.49 Chemical Production & Power Engineering Technology - Accelerated
+# 10.33.49 Chemical Production & Power Engineering Technology - Accelerated
 
 ## Glossary
 

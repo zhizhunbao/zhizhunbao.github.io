@@ -1,10 +1,10 @@
 ---
-title: "10.31.18 Business Administration Diploma: Small Business & Entrepreneurship Major, 2-year"
+title: "10.32.18 Business Administration Diploma: Small Business & Entrepreneurship Major, 2-year"
 description: "Market > College Programs > Lakeland College > Business Administration Diploma: Small Business & Entrepreneurship Major, 2-year: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.18 Business Administration Diploma: Small Business & Entrepreneurship Major, 2-year
+# 10.32.18 Business Administration Diploma: Small Business & Entrepreneurship Major, 2-year
 
 ## Glossary
 

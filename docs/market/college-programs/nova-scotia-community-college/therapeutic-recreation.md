@@ -1,10 +1,10 @@
 ---
-title: "10.50.125 Therapeutic Recreation"
+title: "10.51.125 Therapeutic Recreation"
 description: "Market > College Programs > Nova Scotia Community College > Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.125 Therapeutic Recreation
+# 10.51.125 Therapeutic Recreation
 
 ## Glossary
 

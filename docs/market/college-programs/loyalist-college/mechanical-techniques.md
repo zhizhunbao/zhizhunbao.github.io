@@ -1,10 +1,10 @@
 ---
-title: "10.35.38 Mechanical Techniques"
+title: "10.36.38 Mechanical Techniques"
 description: "Market > College Programs > Loyalist College > Mechanical Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.38 Mechanical Techniques
+# 10.36.38 Mechanical Techniques
 
 ## Glossary
 

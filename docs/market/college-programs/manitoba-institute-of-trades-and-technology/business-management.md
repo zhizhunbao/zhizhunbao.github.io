@@ -1,10 +1,10 @@
 ---
-title: "10.37.4 Business Management"
+title: "10.38.4 Business Management"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Business Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.4 Business Management
+# 10.38.4 Business Management
 
 ## Glossary
 

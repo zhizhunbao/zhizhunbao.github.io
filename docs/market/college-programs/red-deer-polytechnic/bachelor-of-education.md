@@ -1,10 +1,10 @@
 ---
-title: "10.54.10 Bachelor of Education"
+title: "10.55.10 Bachelor of Education"
 description: "Market > College Programs > Red Deer Polytechnic > Bachelor of Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.10 Bachelor of Education
+# 10.55.10 Bachelor of Education
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.152 Mobile and Web Development"
+title: "10.19.152 Mobile and Web Development"
 description: "Market > College Programs > Conestoga College > Mobile and Web Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.152 Mobile and Web Development
+# 10.19.152 Mobile and Web Development
 
 ## Glossary
 

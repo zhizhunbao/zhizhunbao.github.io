@@ -1,10 +1,10 @@
 ---
-title: "10.19.49 Library and Information Technician"
+title: "10.20.49 Library and Information Technician"
 description: "Market > College Programs > Confederation College > Library and Information Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.49 Library and Information Technician
+# 10.20.49 Library and Information Technician
 
 ## Glossary
 

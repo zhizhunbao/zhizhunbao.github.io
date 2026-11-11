@@ -1,10 +1,10 @@
 ---
-title: "10.35.66 Television, Filmmaking and Digital Content Creation"
+title: "10.36.66 Television, Filmmaking and Digital Content Creation"
 description: "Market > College Programs > Loyalist College > Television, Filmmaking and Digital Content Creation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.66 Television, Filmmaking and Digital Content Creation
+# 10.36.66 Television, Filmmaking and Digital Content Creation
 
 ## Glossary
 

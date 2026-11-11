@@ -1,10 +1,10 @@
 ---
-title: "10.11.12 Baccalauréat spécialisé en informatique"
+title: "10.12.12 Baccalauréat spécialisé en informatique"
 description: "Market > College Programs > Collège Boréal > Baccalauréat spécialisé en informatique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.12 Baccalauréat spécialisé en informatique
+# 10.12.12 Baccalauréat spécialisé en informatique
 
 ## Glossary
 

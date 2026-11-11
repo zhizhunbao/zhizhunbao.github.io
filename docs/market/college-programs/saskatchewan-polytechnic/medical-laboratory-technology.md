@@ -1,10 +1,10 @@
 ---
-title: "10.56.46 Medical Laboratory Technology"
+title: "10.57.46 Medical Laboratory Technology"
 description: "Market > College Programs > Saskatchewan Polytechnic > Medical Laboratory Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.46 Medical Laboratory Technology
+# 10.57.46 Medical Laboratory Technology
 
 ## Glossary
 

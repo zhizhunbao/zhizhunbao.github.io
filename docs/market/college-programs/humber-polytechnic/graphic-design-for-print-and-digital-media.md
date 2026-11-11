@@ -1,10 +1,10 @@
 ---
-title: "10.28.79 Graphic Design for Print and Digital Media"
+title: "10.29.79 Graphic Design for Print and Digital Media"
 description: "Market > College Programs > Humber Polytechnic > Graphic Design for Print and Digital Media: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.79 Graphic Design for Print and Digital Media
+# 10.29.79 Graphic Design for Print and Digital Media
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.17 Bachelor of Commerce - Marketing"
+title: "10.29.17 Bachelor of Commerce - Marketing"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Commerce - Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.17 Bachelor of Commerce - Marketing
+# 10.29.17 Bachelor of Commerce - Marketing
 
 ## Glossary
 

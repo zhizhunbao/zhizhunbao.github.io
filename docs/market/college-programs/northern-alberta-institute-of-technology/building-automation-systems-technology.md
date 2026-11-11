@@ -1,10 +1,10 @@
 ---
-title: "10.45.22 Building Automation Systems Technology"
+title: "10.46.22 Building Automation Systems Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Building Automation Systems Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.22 Building Automation Systems Technology
+# 10.46.22 Building Automation Systems Technology
 
 ## Glossary
 

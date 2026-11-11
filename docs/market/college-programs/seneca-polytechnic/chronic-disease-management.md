@@ -1,10 +1,10 @@
 ---
-title: "10.59.34 Chronic Disease Management"
+title: "10.60.34 Chronic Disease Management"
 description: "Market > College Programs > Seneca Polytechnic > Chronic Disease Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.34 Chronic Disease Management
+# 10.60.34 Chronic Disease Management
 
 ## Glossary
 

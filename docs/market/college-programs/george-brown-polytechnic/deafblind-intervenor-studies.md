@@ -1,10 +1,10 @@
 ---
-title: "10.24.29 Deafblind & Intervenor Studies"
+title: "10.25.29 Deafblind & Intervenor Studies"
 description: "Market > College Programs > George Brown Polytechnic > Deafblind & Intervenor Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.29 Deafblind & Intervenor Studies
+# 10.25.29 Deafblind & Intervenor Studies
 
 ## Glossary
 

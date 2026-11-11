@@ -1,10 +1,10 @@
 ---
-title: "10.48.15 Post-Degree Diploma in Information Resources Management"
+title: "10.49.15 Post-Degree Diploma in Information Resources Management"
 description: "Market > College Programs > Northern Lights College > Post-Degree Diploma in Information Resources Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.15 Post-Degree Diploma in Information Resources Management
+# 10.49.15 Post-Degree Diploma in Information Resources Management
 
 ## Glossary
 

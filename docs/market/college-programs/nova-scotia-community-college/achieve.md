@@ -1,10 +1,10 @@
 ---
-title: "10.50.1 Achieve"
+title: "10.51.1 Achieve"
 description: "Market > College Programs > Nova Scotia Community College > Achieve: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.1 Achieve
+# 10.51.1 Achieve
 
 ## Glossary
 

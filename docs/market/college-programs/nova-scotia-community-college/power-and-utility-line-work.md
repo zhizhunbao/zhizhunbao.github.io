@@ -1,10 +1,10 @@
 ---
-title: "10.50.110 Power and Utility Line Work"
+title: "10.51.110 Power and Utility Line Work"
 description: "Market > College Programs > Nova Scotia Community College > Power and Utility Line Work: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.110 Power and Utility Line Work
+# 10.51.110 Power and Utility Line Work
 
 ## Glossary
 

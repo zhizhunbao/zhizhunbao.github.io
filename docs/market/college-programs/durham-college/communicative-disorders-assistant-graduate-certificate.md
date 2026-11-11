@@ -1,10 +1,10 @@
 ---
-title: "10.21.29 Communicative Disorders Assistant (graduate certificate)"
+title: "10.22.29 Communicative Disorders Assistant (graduate certificate)"
 description: "Market > College Programs > Durham College > Communicative Disorders Assistant (graduate certificate): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.29 Communicative Disorders Assistant (graduate certificate)
+# 10.22.29 Communicative Disorders Assistant (graduate certificate)
 
 ## Glossary
 

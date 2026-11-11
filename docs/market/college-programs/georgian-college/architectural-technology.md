@@ -1,10 +1,10 @@
 ---
-title: "10.25.8 Architectural Technology"
+title: "10.26.8 Architectural Technology"
 description: "Market > College Programs > Georgian College > Architectural Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.8 Architectural Technology
+# 10.26.8 Architectural Technology
 
 ## Glossary
 

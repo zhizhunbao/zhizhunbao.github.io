@@ -1,10 +1,10 @@
 ---
-title: "10.66.9 Automotive Repair and Refinishing"
+title: "10.67.9 Automotive Repair and Refinishing"
 description: "Market > College Programs > Vancouver Community College > Automotive Repair and Refinishing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.9 Automotive Repair and Refinishing
+# 10.67.9 Automotive Repair and Refinishing
 
 ## Glossary
 

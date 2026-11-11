@@ -1,10 +1,10 @@
 ---
-title: "10.25.94 Honours Bachelor of Business Administration (Management and Leadership)"
+title: "10.26.94 Honours Bachelor of Business Administration (Management and Leadership)"
 description: "Market > College Programs > Georgian College > Honours Bachelor of Business Administration (Management and Leadership): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.94 Honours Bachelor of Business Administration (Management and Leadership)
+# 10.26.94 Honours Bachelor of Business Administration (Management and Leadership)
 
 ## Glossary
 

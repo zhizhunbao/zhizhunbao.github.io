@@ -1,10 +1,10 @@
 ---
-title: "10.14.70 Relations publiques"
+title: "10.15.70 Relations publiques"
 description: "Market > College Programs > Collège La Cité > Relations publiques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.70 Relations publiques
+# 10.15.70 Relations publiques
 
 ## Glossary
 

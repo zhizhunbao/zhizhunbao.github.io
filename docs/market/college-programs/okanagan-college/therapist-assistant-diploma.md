@@ -1,10 +1,10 @@
 ---
-title: "10.51.31 Therapist Assistant Diploma"
+title: "10.52.31 Therapist Assistant Diploma"
 description: "Market > College Programs > Okanagan College > Therapist Assistant Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.31 Therapist Assistant Diploma
+# 10.52.31 Therapist Assistant Diploma
 
 ## Glossary
 

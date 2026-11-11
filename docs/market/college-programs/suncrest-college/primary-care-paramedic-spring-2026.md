@@ -1,10 +1,10 @@
 ---
-title: "10.65.25 Primary Care Paramedic - Spring 2026"
+title: "10.66.25 Primary Care Paramedic - Spring 2026"
 description: "Market > College Programs > Suncrest College > Primary Care Paramedic - Spring 2026: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.25 Primary Care Paramedic - Spring 2026
+# 10.66.25 Primary Care Paramedic - Spring 2026
 
 ## Glossary
 

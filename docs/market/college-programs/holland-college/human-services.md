@@ -1,10 +1,10 @@
 ---
-title: "10.27.30 Human Services"
+title: "10.28.30 Human Services"
 description: "Market > College Programs > Holland College > Human Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.30 Human Services
+# 10.28.30 Human Services
 
 ## Glossary
 

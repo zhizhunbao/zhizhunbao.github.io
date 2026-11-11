@@ -1,10 +1,10 @@
 ---
-title: "10.32.129 Supply Chain Management - One-Year"
+title: "10.33.129 Supply Chain Management - One-Year"
 description: "Market > College Programs > Lambton College > Supply Chain Management - One-Year: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.129 Supply Chain Management - One-Year
+# 10.33.129 Supply Chain Management - One-Year
 
 ## Glossary
 

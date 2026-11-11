@@ -1,10 +1,10 @@
 ---
-title: "10.40.67 Plumbing"
+title: "10.41.67 Plumbing"
 description: "Market > College Programs > New Brunswick Community College > Plumbing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.67 Plumbing
+# 10.41.67 Plumbing
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.15.37 Practical Nurse Diploma"
+title: "10.16.37 Practical Nurse Diploma"
 description: "Market > College Programs > College of New Caledonia > Practical Nurse Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.37 Practical Nurse Diploma
+# 10.16.37 Practical Nurse Diploma
 
 ## Glossary
 

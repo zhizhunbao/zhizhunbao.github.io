@@ -1,10 +1,10 @@
 ---
-title: "10.37.25 Medical Assistant and Patient Care"
+title: "10.38.25 Medical Assistant and Patient Care"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Medical Assistant and Patient Care: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.25 Medical Assistant and Patient Care
+# 10.38.25 Medical Assistant and Patient Care
 
 ## Glossary
 

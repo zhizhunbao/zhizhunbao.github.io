@@ -1,10 +1,10 @@
 ---
-title: "10.22.42 Business Fundamentals - Entrepreneurship"
+title: "10.23.42 Business Fundamentals - Entrepreneurship"
 description: "Market > College Programs > Fanshawe College > Business Fundamentals - Entrepreneurship: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.42 Business Fundamentals - Entrepreneurship
+# 10.23.42 Business Fundamentals - Entrepreneurship
 
 ## Glossary
 

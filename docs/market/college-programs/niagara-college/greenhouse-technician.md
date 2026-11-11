@@ -1,10 +1,10 @@
 ---
-title: "10.41.50 Greenhouse Technician"
+title: "10.42.50 Greenhouse Technician"
 description: "Market > College Programs > Niagara College > Greenhouse Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.50 Greenhouse Technician
+# 10.42.50 Greenhouse Technician
 
 ## Glossary
 

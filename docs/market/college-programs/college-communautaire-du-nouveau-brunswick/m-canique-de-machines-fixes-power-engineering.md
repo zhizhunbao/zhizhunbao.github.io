@@ -1,10 +1,10 @@
 ---
-title: "10.12.24 Mécanique de machines fixes (Power Engineering)"
+title: "10.13.24 Mécanique de machines fixes (Power Engineering)"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Mécanique de machines fixes (Power Engineering): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.24 Mécanique de machines fixes (Power Engineering)
+# 10.13.24 Mécanique de machines fixes (Power Engineering)
 
 ## Glossary
 

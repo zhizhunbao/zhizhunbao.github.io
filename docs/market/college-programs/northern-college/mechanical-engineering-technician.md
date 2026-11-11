@@ -1,10 +1,10 @@
 ---
-title: "10.46.29 Mechanical Engineering Technician"
+title: "10.47.29 Mechanical Engineering Technician"
 description: "Market > College Programs > Northern College > Mechanical Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.29 Mechanical Engineering Technician
+# 10.47.29 Mechanical Engineering Technician
 
 ## Glossary
 

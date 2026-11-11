@@ -1,10 +1,10 @@
 ---
-title: "10.59.25 Business Administration – Purchasing & Supply Management"
+title: "10.60.25 Business Administration – Purchasing & Supply Management"
 description: "Market > College Programs > Seneca Polytechnic > Business Administration – Purchasing & Supply Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.25 Business Administration – Purchasing & Supply Management
+# 10.60.25 Business Administration – Purchasing & Supply Management
 
 ## Glossary
 

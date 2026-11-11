@@ -1,10 +1,10 @@
 ---
-title: "10.40.2 Administrative Professional"
+title: "10.41.2 Administrative Professional"
 description: "Market > College Programs > New Brunswick Community College > Administrative Professional: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.2 Administrative Professional
+# 10.41.2 Administrative Professional
 
 ## Glossary
 

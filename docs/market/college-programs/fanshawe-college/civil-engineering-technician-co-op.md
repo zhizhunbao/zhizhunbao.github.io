@@ -1,10 +1,10 @@
 ---
-title: "10.22.48 Civil Engineering Technician (Co-op)"
+title: "10.23.48 Civil Engineering Technician (Co-op)"
 description: "Market > College Programs > Fanshawe College > Civil Engineering Technician (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.48 Civil Engineering Technician (Co-op)
+# 10.23.48 Civil Engineering Technician (Co-op)
 
 ## Glossary
 

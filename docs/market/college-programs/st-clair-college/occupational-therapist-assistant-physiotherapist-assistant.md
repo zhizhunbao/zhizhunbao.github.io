@@ -1,10 +1,10 @@
 ---
-title: "10.63.80 Occupational Therapist Assistant / Physiotherapist Assistant"
+title: "10.64.80 Occupational Therapist Assistant / Physiotherapist Assistant"
 description: "Market > College Programs > St. Clair College > Occupational Therapist Assistant / Physiotherapist Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.80 Occupational Therapist Assistant / Physiotherapist Assistant
+# 10.64.80 Occupational Therapist Assistant / Physiotherapist Assistant
 
 ## Glossary
 

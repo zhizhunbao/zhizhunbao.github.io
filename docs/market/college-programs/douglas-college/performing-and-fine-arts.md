@@ -1,10 +1,10 @@
 ---
-title: "10.20.75 Performing and Fine Arts"
+title: "10.21.75 Performing and Fine Arts"
 description: "Market > College Programs > Douglas College > Performing and Fine Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.75 Performing and Fine Arts
+# 10.21.75 Performing and Fine Arts
 
 ## Glossary
 

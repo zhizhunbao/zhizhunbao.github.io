@@ -1,10 +1,10 @@
 ---
-title: "10.63.73 Medical Laboratory Technician"
+title: "10.64.73 Medical Laboratory Technician"
 description: "Market > College Programs > St. Clair College > Medical Laboratory Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.73 Medical Laboratory Technician
+# 10.64.73 Medical Laboratory Technician
 
 ## Glossary
 

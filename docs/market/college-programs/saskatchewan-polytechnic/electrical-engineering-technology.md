@@ -1,10 +1,10 @@
 ---
-title: "10.56.27 Electrical Engineering Technology"
+title: "10.57.27 Electrical Engineering Technology"
 description: "Market > College Programs > Saskatchewan Polytechnic > Electrical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.27 Electrical Engineering Technology
+# 10.57.27 Electrical Engineering Technology
 
 ## Glossary
 

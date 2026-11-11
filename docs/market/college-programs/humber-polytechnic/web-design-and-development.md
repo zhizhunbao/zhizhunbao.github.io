@@ -1,10 +1,10 @@
 ---
-title: "10.28.122 Web Design and Development"
+title: "10.29.122 Web Design and Development"
 description: "Market > College Programs > Humber Polytechnic > Web Design and Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.122 Web Design and Development
+# 10.29.122 Web Design and Development
 
 ## Glossary
 

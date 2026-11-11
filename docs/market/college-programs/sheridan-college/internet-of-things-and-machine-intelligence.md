@@ -1,10 +1,10 @@
 ---
-title: "10.60.79 Internet of Things and Machine Intelligence"
+title: "10.61.79 Internet of Things and Machine Intelligence"
 description: "Market > College Programs > Sheridan College > Internet of Things and Machine Intelligence: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.79 Internet of Things and Machine Intelligence
+# 10.61.79 Internet of Things and Machine Intelligence
 
 ## Glossary
 

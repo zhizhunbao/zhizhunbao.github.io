@@ -1,10 +1,10 @@
 ---
-title: "10.57.40 Motive Power Technician - Advanced Repair"
+title: "10.58.40 Motive Power Technician - Advanced Repair"
 description: "Market > College Programs > Sault College > Motive Power Technician - Advanced Repair: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.40 Motive Power Technician - Advanced Repair
+# 10.58.40 Motive Power Technician - Advanced Repair
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.19.55 Motive Power Techniques - Automotive"
+title: "10.20.55 Motive Power Techniques - Automotive"
 description: "Market > College Programs > Confederation College > Motive Power Techniques - Automotive: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.55 Motive Power Techniques - Automotive
+# 10.20.55 Motive Power Techniques - Automotive
 
 ## Glossary
 

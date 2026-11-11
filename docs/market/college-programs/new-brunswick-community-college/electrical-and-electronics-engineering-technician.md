@@ -1,10 +1,10 @@
 ---
-title: "10.40.29 Electrical and Electronics Engineering Technician"
+title: "10.41.29 Electrical and Electronics Engineering Technician"
 description: "Market > College Programs > New Brunswick Community College > Electrical and Electronics Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.29 Electrical and Electronics Engineering Technician
+# 10.41.29 Electrical and Electronics Engineering Technician
 
 ## Glossary
 

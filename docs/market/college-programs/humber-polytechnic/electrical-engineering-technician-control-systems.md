@@ -1,10 +1,10 @@
 ---
-title: "10.28.63 Electrical Engineering Technician - Control Systems"
+title: "10.29.63 Electrical Engineering Technician - Control Systems"
 description: "Market > College Programs > Humber Polytechnic > Electrical Engineering Technician - Control Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.63 Electrical Engineering Technician - Control Systems
+# 10.29.63 Electrical Engineering Technician - Control Systems
 
 ## Glossary
 

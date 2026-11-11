@@ -1,10 +1,10 @@
 ---
-title: "10.23.24 Ecosystem Management Technician"
+title: "10.24.24 Ecosystem Management Technician"
 description: "Market > College Programs > Fleming College > Ecosystem Management Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.24 Ecosystem Management Technician
+# 10.24.24 Ecosystem Management Technician
 
 ## Glossary
 

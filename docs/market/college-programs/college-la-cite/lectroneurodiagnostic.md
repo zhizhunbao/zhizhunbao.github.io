@@ -1,10 +1,10 @@
 ---
-title: "10.14.131 Électroneurodiagnostic"
+title: "10.15.131 Électroneurodiagnostic"
 description: "Market > College Programs > Collège La Cité > Électroneurodiagnostic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.131 Électroneurodiagnostic
+# 10.15.131 Électroneurodiagnostic
 
 ## Glossary
 

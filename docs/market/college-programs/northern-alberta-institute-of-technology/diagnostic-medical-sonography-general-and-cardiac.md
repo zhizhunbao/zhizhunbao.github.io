@@ -1,10 +1,10 @@
 ---
-title: "10.45.48 Diagnostic Medical Sonography - General and Cardiac"
+title: "10.46.48 Diagnostic Medical Sonography - General and Cardiac"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Diagnostic Medical Sonography - General and Cardiac: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.48 Diagnostic Medical Sonography - General and Cardiac
+# 10.46.48 Diagnostic Medical Sonography - General and Cardiac
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.55.43 International Pathway to Nursing"
+title: "10.56.43 International Pathway to Nursing"
 description: "Market > College Programs > Red River College Polytechnic > International Pathway to Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.43 International Pathway to Nursing
+# 10.56.43 International Pathway to Nursing
 
 ## Glossary
 

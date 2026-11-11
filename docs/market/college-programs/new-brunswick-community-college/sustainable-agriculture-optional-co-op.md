@@ -1,10 +1,10 @@
 ---
-title: "10.40.78 Sustainable Agriculture (Optional Co-op)"
+title: "10.41.78 Sustainable Agriculture (Optional Co-op)"
 description: "Market > College Programs > New Brunswick Community College > Sustainable Agriculture (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.78 Sustainable Agriculture (Optional Co-op)
+# 10.41.78 Sustainable Agriculture (Optional Co-op)
 
 ## Glossary
 

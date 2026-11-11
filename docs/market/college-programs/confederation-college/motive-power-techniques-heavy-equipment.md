@@ -1,10 +1,10 @@
 ---
-title: "10.19.56 Motive Power Techniques - Heavy Equipment"
+title: "10.20.56 Motive Power Techniques - Heavy Equipment"
 description: "Market > College Programs > Confederation College > Motive Power Techniques - Heavy Equipment: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.56 Motive Power Techniques - Heavy Equipment
+# 10.20.56 Motive Power Techniques - Heavy Equipment
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.60.59 Honours Bachelor of Craft and Design (Multidisciplinary)"
+title: "10.61.59 Honours Bachelor of Craft and Design (Multidisciplinary)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Craft and Design (Multidisciplinary): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.59 Honours Bachelor of Craft and Design (Multidisciplinary)
+# 10.61.59 Honours Bachelor of Craft and Design (Multidisciplinary)
 
 ## Glossary
 

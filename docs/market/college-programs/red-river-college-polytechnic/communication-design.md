@@ -1,10 +1,10 @@
 ---
-title: "10.55.15 Communication Design"
+title: "10.56.15 Communication Design"
 description: "Market > College Programs > Red River College Polytechnic > Communication Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.15 Communication Design
+# 10.56.15 Communication Design
 
 ## Glossary
 

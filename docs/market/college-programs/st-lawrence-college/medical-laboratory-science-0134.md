@@ -1,10 +1,10 @@
 ---
-title: "10.64.57 Medical Laboratory Science (0134)"
+title: "10.65.57 Medical Laboratory Science (0134)"
 description: "Market > College Programs > St. Lawrence College > Medical Laboratory Science (0134): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.57 Medical Laboratory Science (0134)
+# 10.65.57 Medical Laboratory Science (0134)
 
 ## Glossary
 

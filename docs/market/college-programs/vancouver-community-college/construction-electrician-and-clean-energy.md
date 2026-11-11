@@ -1,10 +1,10 @@
 ---
-title: "10.66.16 Construction Electrician and Clean Energy"
+title: "10.67.16 Construction Electrician and Clean Energy"
 description: "Market > College Programs > Vancouver Community College > Construction Electrician and Clean Energy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.16 Construction Electrician and Clean Energy
+# 10.67.16 Construction Electrician and Clean Energy
 
 ## Glossary
 

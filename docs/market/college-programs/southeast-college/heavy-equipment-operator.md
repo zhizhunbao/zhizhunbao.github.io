@@ -1,10 +1,10 @@
 ---
-title: "10.61.5 Heavy Equipment Operator"
+title: "10.62.5 Heavy Equipment Operator"
 description: "Market > College Programs > Southeast College > Heavy Equipment Operator: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.61.5 Heavy Equipment Operator
+# 10.62.5 Heavy Equipment Operator
 
 ## Glossary
 

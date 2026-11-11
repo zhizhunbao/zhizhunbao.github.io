@@ -1,10 +1,10 @@
 ---
-title: "10.59.101 Honours Bachelor of Therapeutic Recreation"
+title: "10.60.101 Honours Bachelor of Therapeutic Recreation"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Therapeutic Recreation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.101 Honours Bachelor of Therapeutic Recreation
+# 10.60.101 Honours Bachelor of Therapeutic Recreation
 
 ## Glossary
 

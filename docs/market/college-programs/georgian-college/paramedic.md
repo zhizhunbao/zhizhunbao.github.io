@@ -1,10 +1,10 @@
 ---
-title: "10.25.133 Paramedic"
+title: "10.26.133 Paramedic"
 description: "Market > College Programs > Georgian College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.133 Paramedic
+# 10.26.133 Paramedic
 
 ## Glossary
 

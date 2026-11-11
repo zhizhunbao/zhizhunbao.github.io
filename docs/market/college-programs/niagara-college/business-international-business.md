@@ -1,10 +1,10 @@
 ---
-title: "10.41.17 Business – International Business"
+title: "10.42.17 Business – International Business"
 description: "Market > College Programs > Niagara College > Business – International Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.17 Business – International Business
+# 10.42.17 Business – International Business
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.27.55 Wind Turbine Technology"
+title: "10.28.55 Wind Turbine Technology"
 description: "Market > College Programs > Holland College > Wind Turbine Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.55 Wind Turbine Technology
+# 10.28.55 Wind Turbine Technology
 
 ## Glossary
 

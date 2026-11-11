@@ -1,10 +1,10 @@
 ---
-title: "10.18.78 Construction Techniques (Masonry, Plumbing, Electrical, and Carpentry)"
+title: "10.19.78 Construction Techniques (Masonry, Plumbing, Electrical, and Carpentry)"
 description: "Market > College Programs > Conestoga College > Construction Techniques (Masonry, Plumbing, Electrical, and Carpentry): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.78 Construction Techniques (Masonry, Plumbing, Electrical, and Carpentry)
+# 10.19.78 Construction Techniques (Masonry, Plumbing, Electrical, and Carpentry)
 
 ## Glossary
 

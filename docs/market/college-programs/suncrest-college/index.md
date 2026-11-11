@@ -1,10 +1,10 @@
 ---
-title: "10.65 Suncrest College"
+title: "10.66 Suncrest College"
 description: "Market > College Programs > Suncrest College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65 Suncrest College
+# 10.66 Suncrest College
 
 ## Glossary
 

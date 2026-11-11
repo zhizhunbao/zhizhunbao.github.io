@@ -1,10 +1,10 @@
 ---
-title: "10.14.116 Technologie du génie civil – construction"
+title: "10.15.116 Technologie du génie civil – construction"
 description: "Market > College Programs > Collège La Cité > Technologie du génie civil – construction: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.116 Technologie du génie civil – construction
+# 10.15.116 Technologie du génie civil – construction
 
 ## Glossary
 

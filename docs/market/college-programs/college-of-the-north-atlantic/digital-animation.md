@@ -1,10 +1,10 @@
 ---
-title: "10.16.33 Digital Animation"
+title: "10.17.33 Digital Animation"
 description: "Market > College Programs > College of the North Atlantic > Digital Animation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.33 Digital Animation
+# 10.17.33 Digital Animation
 
 ## Glossary
 

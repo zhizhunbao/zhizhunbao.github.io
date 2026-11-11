@@ -1,10 +1,10 @@
 ---
-title: "10.62.8 Automation and Instrumentation Engineering Technology"
+title: "10.63.8 Automation and Instrumentation Engineering Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Automation and Instrumentation Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.8 Automation and Instrumentation Engineering Technology
+# 10.63.8 Automation and Instrumentation Engineering Technology
 
 ## Glossary
 

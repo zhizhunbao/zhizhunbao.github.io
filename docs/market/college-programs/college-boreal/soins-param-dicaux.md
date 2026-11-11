@@ -1,10 +1,10 @@
 ---
-title: "10.11.35 Soins paramédicaux"
+title: "10.12.35 Soins paramédicaux"
 description: "Market > College Programs > Collège Boréal > Soins paramédicaux: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.35 Soins paramédicaux
+# 10.12.35 Soins paramédicaux
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.55.31 Game Development - Art"
+title: "10.56.31 Game Development - Art"
 description: "Market > College Programs > Red River College Polytechnic > Game Development - Art: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.31 Game Development - Art
+# 10.56.31 Game Development - Art
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.66.21 Dance"
+title: "10.67.21 Dance"
 description: "Market > College Programs > Vancouver Community College > Dance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.21 Dance
+# 10.67.21 Dance
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.88 Digital Solutions Management (Optional Co-op)"
+title: "10.19.88 Digital Solutions Management (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Digital Solutions Management (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.88 Digital Solutions Management (Optional Co-op)
+# 10.19.88 Digital Solutions Management (Optional Co-op)
 
 ## Glossary
 

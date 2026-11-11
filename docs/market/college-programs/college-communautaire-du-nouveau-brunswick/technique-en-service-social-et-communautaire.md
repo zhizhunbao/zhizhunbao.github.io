@@ -1,10 +1,10 @@
 ---
-title: "10.12.44 Technique en service social et communautaire"
+title: "10.13.44 Technique en service social et communautaire"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technique en service social et communautaire: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.44 Technique en service social et communautaire
+# 10.13.44 Technique en service social et communautaire
 
 ## Glossary
 

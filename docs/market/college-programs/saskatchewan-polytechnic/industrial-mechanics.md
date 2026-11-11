@@ -1,10 +1,10 @@
 ---
-title: "10.56.35 Industrial Mechanics"
+title: "10.57.35 Industrial Mechanics"
 description: "Market > College Programs > Saskatchewan Polytechnic > Industrial Mechanics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.35 Industrial Mechanics
+# 10.57.35 Industrial Mechanics
 
 ## Glossary
 

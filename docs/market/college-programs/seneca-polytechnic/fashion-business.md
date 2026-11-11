@@ -1,10 +1,10 @@
 ---
-title: "10.59.65 Fashion Business"
+title: "10.60.65 Fashion Business"
 description: "Market > College Programs > Seneca Polytechnic > Fashion Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.65 Fashion Business
+# 10.60.65 Fashion Business
 
 ## Glossary
 

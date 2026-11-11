@@ -1,10 +1,10 @@
 ---
-title: "10.48.13 Post-Degree Diploma in Environmental Management"
+title: "10.49.13 Post-Degree Diploma in Environmental Management"
 description: "Market > College Programs > Northern Lights College > Post-Degree Diploma in Environmental Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.13 Post-Degree Diploma in Environmental Management
+# 10.49.13 Post-Degree Diploma in Environmental Management
 
 ## Glossary
 

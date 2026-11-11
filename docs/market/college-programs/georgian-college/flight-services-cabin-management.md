@@ -1,10 +1,10 @@
 ---
-title: "10.25.73 Flight Services - Cabin Management"
+title: "10.26.73 Flight Services - Cabin Management"
 description: "Market > College Programs > Georgian College > Flight Services - Cabin Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.73 Flight Services - Cabin Management
+# 10.26.73 Flight Services - Cabin Management
 
 ## Glossary
 

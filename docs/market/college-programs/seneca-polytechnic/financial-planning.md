@@ -1,10 +1,10 @@
 ---
-title: "10.59.67 Financial Planning"
+title: "10.60.67 Financial Planning"
 description: "Market > College Programs > Seneca Polytechnic > Financial Planning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.67 Financial Planning
+# 10.60.67 Financial Planning
 
 ## Glossary
 

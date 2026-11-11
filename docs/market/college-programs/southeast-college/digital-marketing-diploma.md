@@ -1,10 +1,10 @@
 ---
-title: "10.61.2 Digital Marketing Diploma"
+title: "10.62.2 Digital Marketing Diploma"
 description: "Market > College Programs > Southeast College > Digital Marketing Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.61.2 Digital Marketing Diploma
+# 10.62.2 Digital Marketing Diploma
 
 ## Glossary
 

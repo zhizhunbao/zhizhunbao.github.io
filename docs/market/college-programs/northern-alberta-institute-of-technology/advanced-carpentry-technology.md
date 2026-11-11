@@ -1,10 +1,10 @@
 ---
-title: "10.45.2 Advanced Carpentry Technology"
+title: "10.46.2 Advanced Carpentry Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Advanced Carpentry Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.2 Advanced Carpentry Technology
+# 10.46.2 Advanced Carpentry Technology
 
 ## Glossary
 

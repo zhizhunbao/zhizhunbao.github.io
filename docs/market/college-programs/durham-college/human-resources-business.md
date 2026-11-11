@@ -1,10 +1,10 @@
 ---
-title: "10.21.75 Human Resources – Business"
+title: "10.22.75 Human Resources – Business"
 description: "Market > College Programs > Durham College > Human Resources – Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.75 Human Resources – Business
+# 10.22.75 Human Resources – Business
 
 ## Glossary
 

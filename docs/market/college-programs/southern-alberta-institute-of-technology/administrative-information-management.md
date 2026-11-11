@@ -1,10 +1,10 @@
 ---
-title: "10.62.2 Administrative Information Management"
+title: "10.63.2 Administrative Information Management"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Administrative Information Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.2 Administrative Information Management
+# 10.63.2 Administrative Information Management
 
 ## Glossary
 

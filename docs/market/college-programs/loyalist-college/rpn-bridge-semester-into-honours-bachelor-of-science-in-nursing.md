@@ -1,10 +1,10 @@
 ---
-title: "10.35.63 RPN Bridge Semester into Honours Bachelor of Science in Nursing"
+title: "10.36.63 RPN Bridge Semester into Honours Bachelor of Science in Nursing"
 description: "Market > College Programs > Loyalist College > RPN Bridge Semester into Honours Bachelor of Science in Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.63 RPN Bridge Semester into Honours Bachelor of Science in Nursing
+# 10.36.63 RPN Bridge Semester into Honours Bachelor of Science in Nursing
 
 ## Glossary
 

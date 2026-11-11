@@ -1,10 +1,10 @@
 ---
-title: "10.38.12 Criminal Justice"
+title: "10.39.12 Criminal Justice"
 description: "Market > College Programs > Medicine Hat College > Criminal Justice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.12 Criminal Justice
+# 10.39.12 Criminal Justice
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.63.42 Electric Drive Vehicle Technician"
+title: "10.64.42 Electric Drive Vehicle Technician"
 description: "Market > College Programs > St. Clair College > Electric Drive Vehicle Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.42 Electric Drive Vehicle Technician
+# 10.64.42 Electric Drive Vehicle Technician
 
 ## Glossary
 

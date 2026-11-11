@@ -1,10 +1,10 @@
 ---
-title: "10.45.70 Landscape Architectural Technology"
+title: "10.46.70 Landscape Architectural Technology"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Landscape Architectural Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.70 Landscape Architectural Technology
+# 10.46.70 Landscape Architectural Technology
 
 ## Glossary
 

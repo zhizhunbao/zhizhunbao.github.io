@@ -1,10 +1,10 @@
 ---
-title: "10.23.65 Practical Nursing (In-Person)"
+title: "10.24.65 Practical Nursing (In-Person)"
 description: "Market > College Programs > Fleming College > Practical Nursing (In-Person): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.65 Practical Nursing (In-Person)
+# 10.24.65 Practical Nursing (In-Person)
 
 ## Glossary
 

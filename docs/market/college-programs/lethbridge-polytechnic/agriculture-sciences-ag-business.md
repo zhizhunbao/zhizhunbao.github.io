@@ -1,10 +1,10 @@
 ---
-title: "10.34.6 Agriculture Sciences - Ag Business"
+title: "10.35.6 Agriculture Sciences - Ag Business"
 description: "Market > College Programs > Lethbridge Polytechnic > Agriculture Sciences - Ag Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.6 Agriculture Sciences - Ag Business
+# 10.35.6 Agriculture Sciences - Ag Business
 
 ## Glossary
 

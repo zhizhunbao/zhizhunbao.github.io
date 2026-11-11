@@ -1,10 +1,10 @@
 ---
-title: "10.30.25 Primary Care Paramedic Diploma"
+title: "10.31.25 Primary Care Paramedic Diploma"
 description: "Market > College Programs > Keyano College > Primary Care Paramedic Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.25 Primary Care Paramedic Diploma
+# 10.31.25 Primary Care Paramedic Diploma
 
 ## Glossary
 

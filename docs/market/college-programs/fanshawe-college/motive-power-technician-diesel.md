@@ -1,10 +1,10 @@
 ---
-title: "10.22.123 Motive Power Technician (Diesel)"
+title: "10.23.123 Motive Power Technician (Diesel)"
 description: "Market > College Programs > Fanshawe College > Motive Power Technician (Diesel): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.123 Motive Power Technician (Diesel)
+# 10.23.123 Motive Power Technician (Diesel)
 
 ## Glossary
 

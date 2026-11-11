@@ -1,10 +1,10 @@
 ---
-title: "10.46.51 Veterinary Assistant"
+title: "10.47.51 Veterinary Assistant"
 description: "Market > College Programs > Northern College > Veterinary Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.51 Veterinary Assistant
+# 10.47.51 Veterinary Assistant
 
 ## Glossary
 

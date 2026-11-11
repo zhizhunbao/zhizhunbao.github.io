@@ -1,10 +1,10 @@
 ---
-title: "10.22.1 3D Animation and Character Design"
+title: "10.23.1 3D Animation and Character Design"
 description: "Market > College Programs > Fanshawe College > 3D Animation and Character Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.1 3D Animation and Character Design
+# 10.23.1 3D Animation and Character Design
 
 ## Glossary
 

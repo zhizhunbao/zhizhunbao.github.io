@@ -1,10 +1,10 @@
 ---
-title: "10.12.61 Technologie du génie électronique"
+title: "10.13.61 Technologie du génie électronique"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technologie du génie électronique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.61 Technologie du génie électronique
+# 10.13.61 Technologie du génie électronique
 
 ## Glossary
 

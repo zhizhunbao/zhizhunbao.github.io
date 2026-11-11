@@ -1,10 +1,10 @@
 ---
-title: "10.57.49 Police Foundations"
+title: "10.58.49 Police Foundations"
 description: "Market > College Programs > Sault College > Police Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.49 Police Foundations
+# 10.58.49 Police Foundations
 
 ## Glossary
 

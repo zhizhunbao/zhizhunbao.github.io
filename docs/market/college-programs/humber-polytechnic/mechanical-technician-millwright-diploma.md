@@ -1,10 +1,10 @@
 ---
-title: "10.28.97 Mechanical Technician – Millwright Diploma"
+title: "10.29.97 Mechanical Technician – Millwright Diploma"
 description: "Market > College Programs > Humber Polytechnic > Mechanical Technician – Millwright Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.97 Mechanical Technician – Millwright Diploma
+# 10.29.97 Mechanical Technician – Millwright Diploma
 
 ## Glossary
 

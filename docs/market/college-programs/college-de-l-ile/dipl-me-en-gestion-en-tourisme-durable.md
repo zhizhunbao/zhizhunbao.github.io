@@ -1,10 +1,10 @@
 ---
-title: "10.13.4 Diplôme en gestion en tourisme durable"
+title: "10.14.4 Diplôme en gestion en tourisme durable"
 description: "Market > College Programs > Collège de l'Île > Diplôme en gestion en tourisme durable: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.4 Diplôme en gestion en tourisme durable
+# 10.14.4 Diplôme en gestion en tourisme durable
 
 ## Glossary
 

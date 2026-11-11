@@ -1,10 +1,10 @@
 ---
-title: "10.37.5 CAD Technician"
+title: "10.38.5 CAD Technician"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > CAD Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.5 CAD Technician
+# 10.38.5 CAD Technician
 
 ## Glossary
 

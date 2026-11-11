@@ -1,10 +1,10 @@
 ---
-title: "10.18.172 Predictive Analytics"
+title: "10.19.172 Predictive Analytics"
 description: "Market > College Programs > Conestoga College > Predictive Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.172 Predictive Analytics
+# 10.19.172 Predictive Analytics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.14.87 Techniques agricoles – production de fruits et légumes"
+title: "10.15.87 Techniques agricoles – production de fruits et légumes"
 description: "Market > College Programs > Collège La Cité > Techniques agricoles – production de fruits et légumes: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.87 Techniques agricoles – production de fruits et légumes
+# 10.15.87 Techniques agricoles – production de fruits et légumes
 
 ## Glossary
 

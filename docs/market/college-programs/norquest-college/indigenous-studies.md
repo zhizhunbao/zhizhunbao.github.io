@@ -1,10 +1,10 @@
 ---
-title: "10.42.27 Indigenous Studies"
+title: "10.43.27 Indigenous Studies"
 description: "Market > College Programs > NorQuest College > Indigenous Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.27 Indigenous Studies
+# 10.43.27 Indigenous Studies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.12.32 Préposé aux soins"
+title: "10.13.32 Préposé aux soins"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Préposé aux soins: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.32 Préposé aux soins
+# 10.13.32 Préposé aux soins
 
 ## Glossary
 

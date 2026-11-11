@@ -1,10 +1,10 @@
 ---
-title: "10.22.128 Occupational Health and Safety Management"
+title: "10.23.128 Occupational Health and Safety Management"
 description: "Market > College Programs > Fanshawe College > Occupational Health and Safety Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.128 Occupational Health and Safety Management
+# 10.23.128 Occupational Health and Safety Management
 
 ## Glossary
 

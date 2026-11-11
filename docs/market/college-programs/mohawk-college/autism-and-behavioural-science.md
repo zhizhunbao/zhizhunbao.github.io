@@ -1,10 +1,10 @@
 ---
-title: "10.39.7 Autism and Behavioural Science"
+title: "10.40.7 Autism and Behavioural Science"
 description: "Market > College Programs > Mohawk College > Autism and Behavioural Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.7 Autism and Behavioural Science
+# 10.40.7 Autism and Behavioural Science
 
 ## Glossary
 

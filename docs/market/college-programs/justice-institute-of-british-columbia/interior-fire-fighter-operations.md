@@ -1,10 +1,10 @@
 ---
-title: "10.29.18 Interior Fire Fighter Operations"
+title: "10.30.18 Interior Fire Fighter Operations"
 description: "Market > College Programs > Justice Institute of British Columbia > Interior Fire Fighter Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.18 Interior Fire Fighter Operations
+# 10.30.18 Interior Fire Fighter Operations
 
 ## Glossary
 

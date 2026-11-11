@@ -1,10 +1,10 @@
 ---
-title: "10.22.35 Business - Supply Chain and Operations"
+title: "10.23.35 Business - Supply Chain and Operations"
 description: "Market > College Programs > Fanshawe College > Business - Supply Chain and Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.35 Business - Supply Chain and Operations
+# 10.23.35 Business - Supply Chain and Operations
 
 ## Glossary
 

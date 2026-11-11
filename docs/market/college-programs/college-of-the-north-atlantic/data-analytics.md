@@ -1,10 +1,10 @@
 ---
-title: "10.16.31 Data Analytics"
+title: "10.17.31 Data Analytics"
 description: "Market > College Programs > College of the North Atlantic > Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.31 Data Analytics
+# 10.17.31 Data Analytics
 
 ## Glossary
 

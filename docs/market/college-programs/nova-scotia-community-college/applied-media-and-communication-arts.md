@@ -1,10 +1,10 @@
 ---
-title: "10.50.8 Applied Media and Communication Arts"
+title: "10.51.8 Applied Media and Communication Arts"
 description: "Market > College Programs > Nova Scotia Community College > Applied Media and Communication Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.8 Applied Media and Communication Arts
+# 10.51.8 Applied Media and Communication Arts
 
 ## Glossary
 

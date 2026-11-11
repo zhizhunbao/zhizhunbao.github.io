@@ -1,10 +1,10 @@
 ---
-title: "10.55.47 Marine and Powersports Technician"
+title: "10.56.47 Marine and Powersports Technician"
 description: "Market > College Programs > Red River College Polytechnic > Marine and Powersports Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.47 Marine and Powersports Technician
+# 10.56.47 Marine and Powersports Technician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.26.10 Practical Nursing"
+title: "10.27.10 Practical Nursing"
 description: "Market > College Programs > Great Plains College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.26.10 Practical Nursing
+# 10.27.10 Practical Nursing
 
 ## Glossary
 

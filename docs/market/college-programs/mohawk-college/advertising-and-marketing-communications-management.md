@@ -1,10 +1,10 @@
 ---
-title: "10.39.2 Advertising and Marketing Communications Management"
+title: "10.40.2 Advertising and Marketing Communications Management"
 description: "Market > College Programs > Mohawk College > Advertising and Marketing Communications Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.2 Advertising and Marketing Communications Management
+# 10.40.2 Advertising and Marketing Communications Management
 
 ## Glossary
 

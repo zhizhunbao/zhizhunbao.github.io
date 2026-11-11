@@ -1,10 +1,10 @@
 ---
-title: "10.28.51 Computer Systems Technician - Data Centre Operations"
+title: "10.29.51 Computer Systems Technician - Data Centre Operations"
 description: "Market > College Programs > Humber Polytechnic > Computer Systems Technician - Data Centre Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.51 Computer Systems Technician - Data Centre Operations
+# 10.29.51 Computer Systems Technician - Data Centre Operations
 
 ## Glossary
 

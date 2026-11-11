@@ -1,10 +1,10 @@
 ---
-title: "10.56.6 Bachelor of Applied Management"
+title: "10.57.6 Bachelor of Applied Management"
 description: "Market > College Programs > Saskatchewan Polytechnic > Bachelor of Applied Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.6 Bachelor of Applied Management
+# 10.57.6 Bachelor of Applied Management
 
 ## Glossary
 

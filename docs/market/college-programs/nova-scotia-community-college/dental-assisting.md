@@ -1,10 +1,10 @@
 ---
-title: "10.50.39 Dental Assisting"
+title: "10.51.39 Dental Assisting"
 description: "Market > College Programs > Nova Scotia Community College > Dental Assisting: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.39 Dental Assisting
+# 10.51.39 Dental Assisting
 
 ## Glossary
 

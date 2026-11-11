@@ -1,10 +1,10 @@
 ---
-title: "10.12.10 Contrôle qualité – transformation alimentaire"
+title: "10.13.10 Contrôle qualité – transformation alimentaire"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Contrôle qualité – transformation alimentaire: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.10 Contrôle qualité – transformation alimentaire
+# 10.13.10 Contrôle qualité – transformation alimentaire
 
 ## Glossary
 

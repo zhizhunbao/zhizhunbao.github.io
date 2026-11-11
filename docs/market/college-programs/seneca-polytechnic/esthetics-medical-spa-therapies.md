@@ -1,10 +1,10 @@
 ---
-title: "10.59.62 Esthetics & Medical Spa Therapies"
+title: "10.60.62 Esthetics & Medical Spa Therapies"
 description: "Market > College Programs > Seneca Polytechnic > Esthetics & Medical Spa Therapies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.62 Esthetics & Medical Spa Therapies
+# 10.60.62 Esthetics & Medical Spa Therapies
 
 ## Glossary
 

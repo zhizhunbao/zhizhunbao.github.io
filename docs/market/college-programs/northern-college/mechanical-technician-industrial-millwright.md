@@ -1,10 +1,10 @@
 ---
-title: "10.46.31 Mechanical Technician – Industrial Millwright"
+title: "10.47.31 Mechanical Technician – Industrial Millwright"
 description: "Market > College Programs > Northern College > Mechanical Technician – Industrial Millwright: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.31 Mechanical Technician – Industrial Millwright
+# 10.47.31 Mechanical Technician – Industrial Millwright
 
 ## Glossary
 

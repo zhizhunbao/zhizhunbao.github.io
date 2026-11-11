@@ -1,10 +1,10 @@
 ---
-title: "10.53.20 Indigenous Art Certificate"
+title: "10.54.20 Indigenous Art Certificate"
 description: "Market > College Programs > Portage College > Indigenous Art Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.20 Indigenous Art Certificate
+# 10.54.20 Indigenous Art Certificate
 
 ## Glossary
 

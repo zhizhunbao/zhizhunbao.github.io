@@ -1,10 +1,10 @@
 ---
-title: "10.22.12 Artificial Intelligence and Machine Learning"
+title: "10.23.12 Artificial Intelligence and Machine Learning"
 description: "Market > College Programs > Fanshawe College > Artificial Intelligence and Machine Learning: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.12 Artificial Intelligence and Machine Learning
+# 10.23.12 Artificial Intelligence and Machine Learning
 
 ## Glossary
 

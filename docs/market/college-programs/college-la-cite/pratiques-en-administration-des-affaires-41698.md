@@ -1,10 +1,10 @@
 ---
-title: "10.14.56 Pratiques en administration des affaires (41698)"
+title: "10.15.56 Pratiques en administration des affaires (41698)"
 description: "Market > College Programs > Collège La Cité > Pratiques en administration des affaires (41698): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.56 Pratiques en administration des affaires (41698)
+# 10.15.56 Pratiques en administration des affaires (41698)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.61 Pharmacy Technician (SLPHM)"
+title: "10.24.61 Pharmacy Technician (SLPHM)"
 description: "Market > College Programs > Fleming College > Pharmacy Technician (SLPHM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.61 Pharmacy Technician (SLPHM)
+# 10.24.61 Pharmacy Technician (SLPHM)
 
 ## Glossary
 

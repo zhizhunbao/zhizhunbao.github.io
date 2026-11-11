@@ -1,10 +1,10 @@
 ---
-title: "10.37.27 Network and Systems Administrator (network-and-systems-administrator-adv-cert)"
+title: "10.38.27 Network and Systems Administrator (network-and-systems-administrator-adv-cert)"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Network and Systems Administrator (network-and-systems-administrator-adv-cert): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.27 Network and Systems Administrator (network-and-systems-administrator-adv-cert)
+# 10.38.27 Network and Systems Administrator (network-and-systems-administrator-adv-cert)
 
 ## Glossary
 

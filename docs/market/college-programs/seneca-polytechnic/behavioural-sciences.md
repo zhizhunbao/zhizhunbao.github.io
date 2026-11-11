@@ -1,10 +1,10 @@
 ---
-title: "10.59.17 Behavioural Sciences"
+title: "10.60.17 Behavioural Sciences"
 description: "Market > College Programs > Seneca Polytechnic > Behavioural Sciences: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.17 Behavioural Sciences
+# 10.60.17 Behavioural Sciences
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50.109 Plumbing"
+title: "10.51.109 Plumbing"
 description: "Market > College Programs > Nova Scotia Community College > Plumbing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.109 Plumbing
+# 10.51.109 Plumbing
 
 ## Glossary
 

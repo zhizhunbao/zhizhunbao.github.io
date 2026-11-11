@@ -1,10 +1,10 @@
 ---
-title: "10.31.12 Barber, 4-month Certificate"
+title: "10.32.12 Barber, 4-month Certificate"
 description: "Market > College Programs > Lakeland College > Barber, 4-month Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.12 Barber, 4-month Certificate
+# 10.32.12 Barber, 4-month Certificate
 
 ## Glossary
 

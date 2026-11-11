@@ -1,10 +1,10 @@
 ---
-title: "10.56.16 Cloud Computing and Artificial Intelligence Infrastructure"
+title: "10.57.16 Cloud Computing and Artificial Intelligence Infrastructure"
 description: "Market > College Programs > Saskatchewan Polytechnic > Cloud Computing and Artificial Intelligence Infrastructure: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.16 Cloud Computing and Artificial Intelligence Infrastructure
+# 10.57.16 Cloud Computing and Artificial Intelligence Infrastructure
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.40.56 Machinist"
+title: "10.41.56 Machinist"
 description: "Market > College Programs > New Brunswick Community College > Machinist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.56 Machinist
+# 10.41.56 Machinist
 
 ## Glossary
 

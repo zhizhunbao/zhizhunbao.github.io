@@ -1,10 +1,10 @@
 ---
-title: "10.63.58 Honours Bachelor of Applied Arts in Social Justice & Legal Studies"
+title: "10.64.58 Honours Bachelor of Applied Arts in Social Justice & Legal Studies"
 description: "Market > College Programs > St. Clair College > Honours Bachelor of Applied Arts in Social Justice & Legal Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.58 Honours Bachelor of Applied Arts in Social Justice & Legal Studies
+# 10.64.58 Honours Bachelor of Applied Arts in Social Justice & Legal Studies
 
 ## Glossary
 

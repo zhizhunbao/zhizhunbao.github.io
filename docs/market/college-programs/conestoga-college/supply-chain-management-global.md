@@ -1,10 +1,10 @@
 ---
-title: "10.18.187 Supply Chain Management - Global"
+title: "10.19.187 Supply Chain Management - Global"
 description: "Market > College Programs > Conestoga College > Supply Chain Management - Global: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.187 Supply Chain Management - Global
+# 10.19.187 Supply Chain Management - Global
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.50.45 Disability Support Professional"
+title: "10.51.45 Disability Support Professional"
 description: "Market > College Programs > Nova Scotia Community College > Disability Support Professional: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.45 Disability Support Professional
+# 10.51.45 Disability Support Professional
 
 ## Glossary
 

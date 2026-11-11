@@ -1,10 +1,10 @@
 ---
-title: "10.39.29 Civil Engineering Technology"
+title: "10.40.29 Civil Engineering Technology"
 description: "Market > College Programs > Mohawk College > Civil Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.29 Civil Engineering Technology
+# 10.40.29 Civil Engineering Technology
 
 ## Glossary
 

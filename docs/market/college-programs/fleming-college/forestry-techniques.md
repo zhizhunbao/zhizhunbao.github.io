@@ -1,10 +1,10 @@
 ---
-title: "10.23.40 Forestry Techniques"
+title: "10.24.40 Forestry Techniques"
 description: "Market > College Programs > Fleming College > Forestry Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.40 Forestry Techniques
+# 10.24.40 Forestry Techniques
 
 ## Glossary
 

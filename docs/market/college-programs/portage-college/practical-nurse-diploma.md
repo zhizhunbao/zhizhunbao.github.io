@@ -1,10 +1,10 @@
 ---
-title: "10.53.25 Practical Nurse Diploma"
+title: "10.54.25 Practical Nurse Diploma"
 description: "Market > College Programs > Portage College > Practical Nurse Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.25 Practical Nurse Diploma
+# 10.54.25 Practical Nurse Diploma
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.12.29 Principes de gestion d’entreprises"
+title: "10.13.29 Principes de gestion d’entreprises"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Principes de gestion d’entreprises: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.29 Principes de gestion d’entreprises
+# 10.13.29 Principes de gestion d’entreprises
 
 ## Glossary
 

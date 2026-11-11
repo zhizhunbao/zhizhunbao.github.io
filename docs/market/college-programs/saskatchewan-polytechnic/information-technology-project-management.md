@@ -1,10 +1,10 @@
 ---
-title: "10.56.36 Information Technology Project Management"
+title: "10.57.36 Information Technology Project Management"
 description: "Market > College Programs > Saskatchewan Polytechnic > Information Technology Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.36 Information Technology Project Management
+# 10.57.36 Information Technology Project Management
 
 ## Glossary
 

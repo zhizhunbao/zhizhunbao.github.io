@@ -1,10 +1,10 @@
 ---
-title: "10.28.16 Bachelor of Commerce - Management Studies"
+title: "10.29.16 Bachelor of Commerce - Management Studies"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Commerce - Management Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.16 Bachelor of Commerce - Management Studies
+# 10.29.16 Bachelor of Commerce - Management Studies
 
 ## Glossary
 

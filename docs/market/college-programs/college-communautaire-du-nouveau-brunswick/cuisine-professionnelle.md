@@ -1,10 +1,10 @@
 ---
-title: "10.12.11 Cuisine professionnelle"
+title: "10.13.11 Cuisine professionnelle"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Cuisine professionnelle: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.11 Cuisine professionnelle
+# 10.13.11 Cuisine professionnelle
 
 ## Glossary
 

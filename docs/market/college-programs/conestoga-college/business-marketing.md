@@ -1,10 +1,10 @@
 ---
-title: "10.18.49 Business - Marketing"
+title: "10.19.49 Business - Marketing"
 description: "Market > College Programs > Conestoga College > Business - Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.49 Business - Marketing
+# 10.19.49 Business - Marketing
 
 ## Glossary
 

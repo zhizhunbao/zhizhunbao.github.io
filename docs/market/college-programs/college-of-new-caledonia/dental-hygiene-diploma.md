@@ -1,10 +1,10 @@
 ---
-title: "10.15.16 Dental Hygiene Diploma"
+title: "10.16.16 Dental Hygiene Diploma"
 description: "Market > College Programs > College of New Caledonia > Dental Hygiene Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.16 Dental Hygiene Diploma
+# 10.16.16 Dental Hygiene Diploma
 
 ## Glossary
 

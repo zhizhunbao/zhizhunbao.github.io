@@ -1,10 +1,10 @@
 ---
-title: "10.54.11 Bachelor of Education After Degree"
+title: "10.55.11 Bachelor of Education After Degree"
 description: "Market > College Programs > Red Deer Polytechnic > Bachelor of Education After Degree: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.11 Bachelor of Education After Degree
+# 10.55.11 Bachelor of Education After Degree
 
 ## Glossary
 

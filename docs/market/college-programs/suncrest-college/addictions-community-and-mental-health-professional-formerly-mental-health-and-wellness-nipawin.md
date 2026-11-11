@@ -1,10 +1,10 @@
 ---
-title: "10.65.2 Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Nipawin"
+title: "10.66.2 Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Nipawin"
 description: "Market > College Programs > Suncrest College > Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Nipawin: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.2 Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Nipawin
+# 10.66.2 Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Nipawin
 
 ## Glossary
 

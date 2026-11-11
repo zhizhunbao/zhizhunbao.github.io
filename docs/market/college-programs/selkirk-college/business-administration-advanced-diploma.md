@@ -1,10 +1,10 @@
 ---
-title: "10.58.9 Business Administration - Advanced Diploma"
+title: "10.59.9 Business Administration - Advanced Diploma"
 description: "Market > College Programs > Selkirk College > Business Administration - Advanced Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.9 Business Administration - Advanced Diploma
+# 10.59.9 Business Administration - Advanced Diploma
 
 ## Glossary
 

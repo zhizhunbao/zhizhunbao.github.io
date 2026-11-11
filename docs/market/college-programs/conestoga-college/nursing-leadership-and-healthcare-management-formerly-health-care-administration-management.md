@@ -1,10 +1,10 @@
 ---
-title: "10.18.157 Nursing Leadership and Healthcare Management (formerly Health Care Administration Management)"
+title: "10.19.157 Nursing Leadership and Healthcare Management (formerly Health Care Administration Management)"
 description: "Market > College Programs > Conestoga College > Nursing Leadership and Healthcare Management (formerly Health Care Administration Management): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.157 Nursing Leadership and Healthcare Management (formerly Health Care Administration Management)
+# 10.19.157 Nursing Leadership and Healthcare Management (formerly Health Care Administration Management)
 
 ## Glossary
 

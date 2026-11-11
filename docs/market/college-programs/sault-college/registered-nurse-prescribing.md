@@ -1,10 +1,10 @@
 ---
-title: "10.57.55 Registered Nurse - Prescribing"
+title: "10.58.55 Registered Nurse - Prescribing"
 description: "Market > College Programs > Sault College > Registered Nurse - Prescribing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.55 Registered Nurse - Prescribing
+# 10.58.55 Registered Nurse - Prescribing
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.39.24 Canadian Health Care for Foreign Trained Professionals (International Only)"
+title: "10.40.24 Canadian Health Care for Foreign Trained Professionals (International Only)"
 description: "Market > College Programs > Mohawk College > Canadian Health Care for Foreign Trained Professionals (International Only): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.24 Canadian Health Care for Foreign Trained Professionals (International Only)
+# 10.40.24 Canadian Health Care for Foreign Trained Professionals (International Only)
 
 ## Glossary
 

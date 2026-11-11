@@ -1,10 +1,10 @@
 ---
-title: "10.18.111 Game - Art"
+title: "10.19.111 Game - Art"
 description: "Market > College Programs > Conestoga College > Game - Art: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.111 Game - Art
+# 10.19.111 Game - Art
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.51 Okanagan College"
+title: "10.52 Okanagan College"
 description: "Market > College Programs > Okanagan College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51 Okanagan College
+# 10.52 Okanagan College
 
 ## Glossary
 

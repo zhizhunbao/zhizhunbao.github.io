@@ -1,10 +1,10 @@
 ---
-title: "10.28.25 Bachelor of Health Sciences - Athletic Therapy"
+title: "10.29.25 Bachelor of Health Sciences - Athletic Therapy"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Health Sciences - Athletic Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.25 Bachelor of Health Sciences - Athletic Therapy
+# 10.29.25 Bachelor of Health Sciences - Athletic Therapy
 
 ## Glossary
 

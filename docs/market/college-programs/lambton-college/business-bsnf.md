@@ -1,10 +1,10 @@
 ---
-title: "10.32.22 Business (BSNF)"
+title: "10.33.22 Business (BSNF)"
 description: "Market > College Programs > Lambton College > Business (BSNF): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.22 Business (BSNF)
+# 10.33.22 Business (BSNF)
 
 ## Glossary
 

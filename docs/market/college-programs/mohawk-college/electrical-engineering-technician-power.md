@@ -1,10 +1,10 @@
 ---
-title: "10.39.46 Electrical Engineering Technician - Power"
+title: "10.40.46 Electrical Engineering Technician - Power"
 description: "Market > College Programs > Mohawk College > Electrical Engineering Technician - Power: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.46 Electrical Engineering Technician - Power
+# 10.40.46 Electrical Engineering Technician - Power
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.127 Nutrition and Food Service Management"
+title: "10.23.127 Nutrition and Food Service Management"
 description: "Market > College Programs > Fanshawe College > Nutrition and Food Service Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.127 Nutrition and Food Service Management
+# 10.23.127 Nutrition and Food Service Management
 
 ## Glossary
 

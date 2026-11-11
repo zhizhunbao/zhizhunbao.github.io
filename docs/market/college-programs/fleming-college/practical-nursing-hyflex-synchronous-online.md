@@ -1,10 +1,10 @@
 ---
-title: "10.23.64 Practical Nursing (HyFlex - Synchronous Online)"
+title: "10.24.64 Practical Nursing (HyFlex - Synchronous Online)"
 description: "Market > College Programs > Fleming College > Practical Nursing (HyFlex - Synchronous Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.64 Practical Nursing (HyFlex - Synchronous Online)
+# 10.24.64 Practical Nursing (HyFlex - Synchronous Online)
 
 ## Glossary
 

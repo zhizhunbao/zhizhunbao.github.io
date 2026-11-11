@@ -1,10 +1,10 @@
 ---
-title: "10.50.87 Marine Foundations - Marine Emergency Duties"
+title: "10.51.87 Marine Foundations - Marine Emergency Duties"
 description: "Market > College Programs > Nova Scotia Community College > Marine Foundations - Marine Emergency Duties: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.87 Marine Foundations - Marine Emergency Duties
+# 10.51.87 Marine Foundations - Marine Emergency Duties
 
 ## Glossary
 

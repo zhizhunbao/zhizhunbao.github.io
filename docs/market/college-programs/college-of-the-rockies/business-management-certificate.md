@@ -1,10 +1,10 @@
 ---
-title: "10.17.10 Business Management Certificate"
+title: "10.18.10 Business Management Certificate"
 description: "Market > College Programs > College of the Rockies > Business Management Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.10 Business Management Certificate
+# 10.18.10 Business Management Certificate
 
 ## Glossary
 

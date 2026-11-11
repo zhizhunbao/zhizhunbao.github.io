@@ -1,10 +1,10 @@
 ---
-title: "10.46.25 Heavy Equipment Techniques"
+title: "10.47.25 Heavy Equipment Techniques"
 description: "Market > College Programs > Northern College > Heavy Equipment Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.25 Heavy Equipment Techniques
+# 10.47.25 Heavy Equipment Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.63.92 Police Foundations"
+title: "10.64.92 Police Foundations"
 description: "Market > College Programs > St. Clair College > Police Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.92 Police Foundations
+# 10.64.92 Police Foundations
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.169 Practical Nursing"
+title: "10.19.169 Practical Nursing"
 description: "Market > College Programs > Conestoga College > Practical Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.169 Practical Nursing
+# 10.19.169 Practical Nursing
 
 ## Glossary
 

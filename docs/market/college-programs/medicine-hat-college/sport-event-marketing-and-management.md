@@ -1,10 +1,10 @@
 ---
-title: "10.38.30 Sport & Event Marketing and Management"
+title: "10.39.30 Sport & Event Marketing and Management"
 description: "Market > College Programs > Medicine Hat College > Sport & Event Marketing and Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.30 Sport & Event Marketing and Management
+# 10.39.30 Sport & Event Marketing and Management
 
 ## Glossary
 

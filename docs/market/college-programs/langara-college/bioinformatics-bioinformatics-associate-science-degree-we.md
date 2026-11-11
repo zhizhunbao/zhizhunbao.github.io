@@ -1,10 +1,10 @@
 ---
-title: "10.33.11 Bioinformatics (bioinformatics-associate-science-degree-we)"
+title: "10.34.11 Bioinformatics (bioinformatics-associate-science-degree-we)"
 description: "Market > College Programs > Langara College > Bioinformatics (bioinformatics-associate-science-degree-we): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.11 Bioinformatics (bioinformatics-associate-science-degree-we)
+# 10.34.11 Bioinformatics (bioinformatics-associate-science-degree-we)
 
 ## Glossary
 

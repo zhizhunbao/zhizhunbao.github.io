@@ -1,10 +1,10 @@
 ---
-title: "10.25.88 Graphic Design"
+title: "10.26.88 Graphic Design"
 description: "Market > College Programs > Georgian College > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.88 Graphic Design
+# 10.26.88 Graphic Design
 
 ## Glossary
 

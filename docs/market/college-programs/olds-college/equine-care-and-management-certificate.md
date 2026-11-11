@@ -1,10 +1,10 @@
 ---
-title: "10.52.16 Equine Care and Management Certificate"
+title: "10.53.16 Equine Care and Management Certificate"
 description: "Market > College Programs > Olds College > Equine Care and Management Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.16 Equine Care and Management Certificate
+# 10.53.16 Equine Care and Management Certificate
 
 ## Glossary
 

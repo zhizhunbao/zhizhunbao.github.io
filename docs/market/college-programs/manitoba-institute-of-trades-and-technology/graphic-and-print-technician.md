@@ -1,10 +1,10 @@
 ---
-title: "10.37.15 Graphic and Print Technician"
+title: "10.38.15 Graphic and Print Technician"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Graphic and Print Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.15 Graphic and Print Technician
+# 10.38.15 Graphic and Print Technician
 
 ## Glossary
 

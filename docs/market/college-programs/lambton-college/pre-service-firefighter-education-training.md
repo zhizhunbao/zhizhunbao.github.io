@@ -1,10 +1,10 @@
 ---
-title: "10.32.115 Pre-Service Firefighter Education & Training"
+title: "10.33.115 Pre-Service Firefighter Education & Training"
 description: "Market > College Programs > Lambton College > Pre-Service Firefighter Education & Training: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.115 Pre-Service Firefighter Education & Training
+# 10.33.115 Pre-Service Firefighter Education & Training
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.63.34 Dental Hygiene"
+title: "10.64.34 Dental Hygiene"
 description: "Market > College Programs > St. Clair College > Dental Hygiene: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.34 Dental Hygiene
+# 10.64.34 Dental Hygiene
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.18.133 Journalism"
+title: "10.19.133 Journalism"
 description: "Market > College Programs > Conestoga College > Journalism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.133 Journalism
+# 10.19.133 Journalism
 
 ## Glossary
 

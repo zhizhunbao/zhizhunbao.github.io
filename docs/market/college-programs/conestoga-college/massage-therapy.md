@@ -1,10 +1,10 @@
 ---
-title: "10.18.137 Massage Therapy"
+title: "10.19.137 Massage Therapy"
 description: "Market > College Programs > Conestoga College > Massage Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.137 Massage Therapy
+# 10.19.137 Massage Therapy
 
 ## Glossary
 

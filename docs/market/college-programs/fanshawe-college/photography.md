@@ -1,10 +1,10 @@
 ---
-title: "10.22.141 Photography"
+title: "10.23.141 Photography"
 description: "Market > College Programs > Fanshawe College > Photography: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.141 Photography
+# 10.23.141 Photography
 
 ## Glossary
 

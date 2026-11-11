@@ -1,10 +1,10 @@
 ---
-title: "10.29.6 Emergency & Security Management"
+title: "10.30.6 Emergency & Security Management"
 description: "Market > College Programs > Justice Institute of British Columbia > Emergency & Security Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.6 Emergency & Security Management
+# 10.30.6 Emergency & Security Management
 
 ## Glossary
 

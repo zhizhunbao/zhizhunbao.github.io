@@ -1,10 +1,10 @@
 ---
-title: "10.38.13 Early Childhood Education"
+title: "10.39.13 Early Childhood Education"
 description: "Market > College Programs > Medicine Hat College > Early Childhood Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.13 Early Childhood Education
+# 10.39.13 Early Childhood Education
 
 ## Glossary
 

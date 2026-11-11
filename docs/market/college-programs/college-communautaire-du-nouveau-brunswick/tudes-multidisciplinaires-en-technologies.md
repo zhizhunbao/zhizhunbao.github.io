@@ -1,10 +1,10 @@
 ---
-title: "10.12.77 Études multidisciplinaires en technologies"
+title: "10.13.77 Études multidisciplinaires en technologies"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Études multidisciplinaires en technologies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.77 Études multidisciplinaires en technologies
+# 10.13.77 Études multidisciplinaires en technologies
 
 ## Glossary
 

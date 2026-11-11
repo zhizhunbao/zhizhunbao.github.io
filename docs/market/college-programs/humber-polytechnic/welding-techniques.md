@@ -1,10 +1,10 @@
 ---
-title: "10.28.125 Welding Techniques"
+title: "10.29.125 Welding Techniques"
 description: "Market > College Programs > Humber Polytechnic > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.125 Welding Techniques
+# 10.29.125 Welding Techniques
 
 ## Glossary
 

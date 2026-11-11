@@ -1,10 +1,10 @@
 ---
-title: "10.23.31 Electrical Engineering Technology (Co-op)"
+title: "10.24.31 Electrical Engineering Technology (Co-op)"
 description: "Market > College Programs > Fleming College > Electrical Engineering Technology (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.31 Electrical Engineering Technology (Co-op)
+# 10.24.31 Electrical Engineering Technology (Co-op)
 
 ## Glossary
 

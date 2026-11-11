@@ -1,10 +1,10 @@
 ---
-title: "10.23.9 Ceramics"
+title: "10.24.9 Ceramics"
 description: "Market > College Programs > Fleming College > Ceramics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.9 Ceramics
+# 10.24.9 Ceramics
 
 ## Glossary
 

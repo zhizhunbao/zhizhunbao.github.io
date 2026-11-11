@@ -1,10 +1,10 @@
 ---
-title: "10.22.74 Electrical Engineering Technology (Co-op)"
+title: "10.23.74 Electrical Engineering Technology (Co-op)"
 description: "Market > College Programs > Fanshawe College > Electrical Engineering Technology (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.74 Electrical Engineering Technology (Co-op)
+# 10.23.74 Electrical Engineering Technology (Co-op)
 
 ## Glossary
 

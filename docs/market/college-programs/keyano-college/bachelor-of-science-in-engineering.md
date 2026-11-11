@@ -1,10 +1,10 @@
 ---
-title: "10.30.6 Bachelor of Science in Engineering"
+title: "10.31.6 Bachelor of Science in Engineering"
 description: "Market > College Programs > Keyano College > Bachelor of Science in Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.6 Bachelor of Science in Engineering
+# 10.31.6 Bachelor of Science in Engineering
 
 ## Glossary
 

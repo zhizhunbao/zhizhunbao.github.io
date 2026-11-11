@@ -1,10 +1,10 @@
 ---
-title: "10.30.14 Early Learning and Child Care Certificate"
+title: "10.31.14 Early Learning and Child Care Certificate"
 description: "Market > College Programs > Keyano College > Early Learning and Child Care Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.14 Early Learning and Child Care Certificate
+# 10.31.14 Early Learning and Child Care Certificate
 
 ## Glossary
 

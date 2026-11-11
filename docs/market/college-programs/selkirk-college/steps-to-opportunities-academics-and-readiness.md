@@ -1,10 +1,10 @@
 ---
-title: "10.58.72 Steps to Opportunities, Academics and Readiness"
+title: "10.59.72 Steps to Opportunities, Academics and Readiness"
 description: "Market > College Programs > Selkirk College > Steps to Opportunities, Academics and Readiness: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.72 Steps to Opportunities, Academics and Readiness
+# 10.59.72 Steps to Opportunities, Academics and Readiness
 
 ## Glossary
 

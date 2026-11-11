@@ -1,10 +1,10 @@
 ---
-title: "10.65.26 University - Liberal Arts Certificate"
+title: "10.66.26 University - Liberal Arts Certificate"
 description: "Market > College Programs > Suncrest College > University - Liberal Arts Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.26 University - Liberal Arts Certificate
+# 10.66.26 University - Liberal Arts Certificate
 
 ## Glossary
 

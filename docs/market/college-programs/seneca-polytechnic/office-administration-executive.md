@@ -1,10 +1,10 @@
 ---
-title: "10.59.129 Office Administration – Executive"
+title: "10.60.129 Office Administration – Executive"
 description: "Market > College Programs > Seneca Polytechnic > Office Administration – Executive: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.129 Office Administration – Executive
+# 10.60.129 Office Administration – Executive
 
 ## Glossary
 

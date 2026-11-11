@@ -1,10 +1,10 @@
 ---
-title: "10.38.32 Sustainable Innovation"
+title: "10.39.32 Sustainable Innovation"
 description: "Market > College Programs > Medicine Hat College > Sustainable Innovation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.32 Sustainable Innovation
+# 10.39.32 Sustainable Innovation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.39.80 Recreation Therapy"
+title: "10.40.80 Recreation Therapy"
 description: "Market > College Programs > Mohawk College > Recreation Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.80 Recreation Therapy
+# 10.40.80 Recreation Therapy
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.59.89 Honours Bachelor of Data Science and Analytics"
+title: "10.60.89 Honours Bachelor of Data Science and Analytics"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Data Science and Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.89 Honours Bachelor of Data Science and Analytics
+# 10.60.89 Honours Bachelor of Data Science and Analytics
 
 ## Glossary
 

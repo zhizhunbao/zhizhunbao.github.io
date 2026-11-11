@@ -1,10 +1,10 @@
 ---
-title: "10.19.70 Pre-Health Sciences - Pathway to Advanced Diplomas & Degrees"
+title: "10.20.70 Pre-Health Sciences - Pathway to Advanced Diplomas & Degrees"
 description: "Market > College Programs > Confederation College > Pre-Health Sciences - Pathway to Advanced Diplomas & Degrees: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.70 Pre-Health Sciences - Pathway to Advanced Diplomas & Degrees
+# 10.20.70 Pre-Health Sciences - Pathway to Advanced Diplomas & Degrees
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.40.33 Electrical: Industrial"
+title: "10.41.33 Electrical: Industrial"
 description: "Market > College Programs > New Brunswick Community College > Electrical: Industrial: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.33 Electrical: Industrial
+# 10.41.33 Electrical: Industrial
 
 ## Glossary
 

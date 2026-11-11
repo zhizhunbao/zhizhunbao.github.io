@@ -1,10 +1,10 @@
 ---
-title: "10.12.37 Sciences de laboratoire médical"
+title: "10.13.37 Sciences de laboratoire médical"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Sciences de laboratoire médical: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.37 Sciences de laboratoire médical
+# 10.13.37 Sciences de laboratoire médical
 
 ## Glossary
 

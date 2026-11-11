@@ -1,10 +1,10 @@
 ---
-title: "10.64.67 Pre-Service Firefighter Education and Training"
+title: "10.65.67 Pre-Service Firefighter Education and Training"
 description: "Market > College Programs > St. Lawrence College > Pre-Service Firefighter Education and Training: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.67 Pre-Service Firefighter Education and Training
+# 10.65.67 Pre-Service Firefighter Education and Training
 
 ## Glossary
 

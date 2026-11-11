@@ -1,10 +1,10 @@
 ---
-title: "10.21.68 General Arts and Science – Trent University Transfer"
+title: "10.22.68 General Arts and Science – Trent University Transfer"
 description: "Market > College Programs > Durham College > General Arts and Science – Trent University Transfer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.68 General Arts and Science – Trent University Transfer
+# 10.22.68 General Arts and Science – Trent University Transfer
 
 ## Glossary
 

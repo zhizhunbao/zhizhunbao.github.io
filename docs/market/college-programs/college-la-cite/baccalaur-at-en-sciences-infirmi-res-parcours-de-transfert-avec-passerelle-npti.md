@@ -1,10 +1,10 @@
 ---
-title: "10.14.23 Baccalauréat en sciences infirmières – Parcours de transfert avec passerelle NPTI"
+title: "10.15.23 Baccalauréat en sciences infirmières – Parcours de transfert avec passerelle NPTI"
 description: "Market > College Programs > Collège La Cité > Baccalauréat en sciences infirmières – Parcours de transfert avec passerelle NPTI: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.23 Baccalauréat en sciences infirmières – Parcours de transfert avec passerelle NPTI
+# 10.15.23 Baccalauréat en sciences infirmières – Parcours de transfert avec passerelle NPTI
 
 ## Glossary
 

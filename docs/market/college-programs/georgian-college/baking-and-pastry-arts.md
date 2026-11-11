@@ -1,10 +1,10 @@
 ---
-title: "10.25.15 Baking and Pastry Arts"
+title: "10.26.15 Baking and Pastry Arts"
 description: "Market > College Programs > Georgian College > Baking and Pastry Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.15 Baking and Pastry Arts
+# 10.26.15 Baking and Pastry Arts
 
 ## Glossary
 

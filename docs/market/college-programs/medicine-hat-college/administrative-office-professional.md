@@ -1,10 +1,10 @@
 ---
-title: "10.38.3 Administrative Office Professional"
+title: "10.39.3 Administrative Office Professional"
 description: "Market > College Programs > Medicine Hat College > Administrative Office Professional: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.3 Administrative Office Professional
+# 10.39.3 Administrative Office Professional
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.99 Medical Esthetics & Advanced Skin Care Therapies"
+title: "10.33.99 Medical Esthetics & Advanced Skin Care Therapies"
 description: "Market > College Programs > Lambton College > Medical Esthetics & Advanced Skin Care Therapies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.99 Medical Esthetics & Advanced Skin Care Therapies
+# 10.33.99 Medical Esthetics & Advanced Skin Care Therapies
 
 ## Glossary
 

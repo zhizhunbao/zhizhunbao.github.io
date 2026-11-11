@@ -1,10 +1,10 @@
 ---
-title: "10.50.53 Electronic Engineering Technology"
+title: "10.51.53 Electronic Engineering Technology"
 description: "Market > College Programs > Nova Scotia Community College > Electronic Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.53 Electronic Engineering Technology
+# 10.51.53 Electronic Engineering Technology
 
 ## Glossary
 

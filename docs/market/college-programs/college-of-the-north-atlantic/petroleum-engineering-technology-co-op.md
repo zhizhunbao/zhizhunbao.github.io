@@ -1,10 +1,10 @@
 ---
-title: "10.16.78 Petroleum Engineering Technology (Co-op)"
+title: "10.17.78 Petroleum Engineering Technology (Co-op)"
 description: "Market > College Programs > College of the North Atlantic > Petroleum Engineering Technology (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.78 Petroleum Engineering Technology (Co-op)
+# 10.17.78 Petroleum Engineering Technology (Co-op)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.62.66 Hospitality and Tourism Management - Entrepreneurship and Innovation"
+title: "10.63.66 Hospitality and Tourism Management - Entrepreneurship and Innovation"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Hospitality and Tourism Management - Entrepreneurship and Innovation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.66 Hospitality and Tourism Management - Entrepreneurship and Innovation
+# 10.63.66 Hospitality and Tourism Management - Entrepreneurship and Innovation
 
 ## Glossary
 

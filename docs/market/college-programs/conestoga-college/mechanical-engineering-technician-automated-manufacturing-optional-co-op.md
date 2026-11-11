@@ -1,10 +1,10 @@
 ---
-title: "10.18.138 Mechanical Engineering Technician - Automated Manufacturing (Optional Co-op)"
+title: "10.19.138 Mechanical Engineering Technician - Automated Manufacturing (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Mechanical Engineering Technician - Automated Manufacturing (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.138 Mechanical Engineering Technician - Automated Manufacturing (Optional Co-op)
+# 10.19.138 Mechanical Engineering Technician - Automated Manufacturing (Optional Co-op)
 
 ## Glossary
 

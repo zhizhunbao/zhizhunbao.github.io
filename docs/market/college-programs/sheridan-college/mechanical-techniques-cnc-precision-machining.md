@@ -1,10 +1,10 @@
 ---
-title: "10.60.86 Mechanical Techniques – CNC & Precision Machining"
+title: "10.61.86 Mechanical Techniques – CNC & Precision Machining"
 description: "Market > College Programs > Sheridan College > Mechanical Techniques – CNC & Precision Machining: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.86 Mechanical Techniques – CNC & Precision Machining
+# 10.61.86 Mechanical Techniques – CNC & Precision Machining
 
 ## Glossary
 

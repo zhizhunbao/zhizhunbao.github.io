@@ -1,10 +1,10 @@
 ---
-title: "10.41.58 Horticulture Technician – Landscape (Co-op)"
+title: "10.42.58 Horticulture Technician – Landscape (Co-op)"
 description: "Market > College Programs > Niagara College > Horticulture Technician – Landscape (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.58 Horticulture Technician – Landscape (Co-op)
+# 10.42.58 Horticulture Technician – Landscape (Co-op)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.18 Developmental Services Worker (SLDSW)"
+title: "10.24.18 Developmental Services Worker (SLDSW)"
 description: "Market > College Programs > Fleming College > Developmental Services Worker (SLDSW): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.18 Developmental Services Worker (SLDSW)
+# 10.24.18 Developmental Services Worker (SLDSW)
 
 ## Glossary
 

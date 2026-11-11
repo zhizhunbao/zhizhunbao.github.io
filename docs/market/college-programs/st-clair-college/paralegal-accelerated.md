@@ -1,10 +1,10 @@
 ---
-title: "10.63.87 Paralegal - Accelerated"
+title: "10.64.87 Paralegal - Accelerated"
 description: "Market > College Programs > St. Clair College > Paralegal - Accelerated: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.87 Paralegal - Accelerated
+# 10.64.87 Paralegal - Accelerated
 
 ## Glossary
 

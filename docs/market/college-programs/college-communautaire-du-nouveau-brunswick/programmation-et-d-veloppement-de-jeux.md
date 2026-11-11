@@ -1,10 +1,10 @@
 ---
-title: "10.12.30 Programmation et développement de jeux"
+title: "10.13.30 Programmation et développement de jeux"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Programmation et développement de jeux: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.30 Programmation et développement de jeux
+# 10.13.30 Programmation et développement de jeux
 
 ## Glossary
 

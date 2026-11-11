@@ -1,10 +1,10 @@
 ---
-title: "10.59.80 Government Relations"
+title: "10.60.80 Government Relations"
 description: "Market > College Programs > Seneca Polytechnic > Government Relations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.80 Government Relations
+# 10.60.80 Government Relations
 
 ## Glossary
 

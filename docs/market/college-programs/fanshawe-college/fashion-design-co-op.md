@@ -1,10 +1,10 @@
 ---
-title: "10.22.80 Fashion Design (Co-op)"
+title: "10.23.80 Fashion Design (Co-op)"
 description: "Market > College Programs > Fanshawe College > Fashion Design (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.80 Fashion Design (Co-op)
+# 10.23.80 Fashion Design (Co-op)
 
 ## Glossary
 

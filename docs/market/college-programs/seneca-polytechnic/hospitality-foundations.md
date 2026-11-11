@@ -1,10 +1,10 @@
 ---
-title: "10.59.102 Hospitality Foundations"
+title: "10.60.102 Hospitality Foundations"
 description: "Market > College Programs > Seneca Polytechnic > Hospitality Foundations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.102 Hospitality Foundations
+# 10.60.102 Hospitality Foundations
 
 ## Glossary
 

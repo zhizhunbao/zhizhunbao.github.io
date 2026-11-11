@@ -1,10 +1,10 @@
 ---
-title: "10.57.34 Mechanical Engineering Technician - Manufacturing"
+title: "10.58.34 Mechanical Engineering Technician - Manufacturing"
 description: "Market > College Programs > Sault College > Mechanical Engineering Technician - Manufacturing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.34 Mechanical Engineering Technician - Manufacturing
+# 10.58.34 Mechanical Engineering Technician - Manufacturing
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.28.5 Artificial Intelligence - Integration and Governance"
+title: "10.29.5 Artificial Intelligence - Integration and Governance"
 description: "Market > College Programs > Humber Polytechnic > Artificial Intelligence - Integration and Governance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.5 Artificial Intelligence - Integration and Governance
+# 10.29.5 Artificial Intelligence - Integration and Governance
 
 ## Glossary
 

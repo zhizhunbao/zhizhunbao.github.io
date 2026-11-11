@@ -1,10 +1,10 @@
 ---
-title: "10.49.14 Emergency Medical Responder"
+title: "10.50.14 Emergency Medical Responder"
 description: "Market > College Programs > Northwestern Polytechnic > Emergency Medical Responder: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.14 Emergency Medical Responder
+# 10.50.14 Emergency Medical Responder
 
 ## Glossary
 

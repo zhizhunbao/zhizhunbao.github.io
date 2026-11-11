@@ -1,10 +1,10 @@
 ---
-title: "10.40.30 Electrical Engineering Technology (Optional Co-op)"
+title: "10.41.30 Electrical Engineering Technology (Optional Co-op)"
 description: "Market > College Programs > New Brunswick Community College > Electrical Engineering Technology (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.30 Electrical Engineering Technology (Optional Co-op)
+# 10.41.30 Electrical Engineering Technology (Optional Co-op)
 
 ## Glossary
 

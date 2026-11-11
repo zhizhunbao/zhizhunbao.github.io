@@ -1,10 +1,10 @@
 ---
-title: "10.42.10 Community Support Worker"
+title: "10.43.10 Community Support Worker"
 description: "Market > College Programs > NorQuest College > Community Support Worker: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.10 Community Support Worker
+# 10.43.10 Community Support Worker
 
 ## Glossary
 

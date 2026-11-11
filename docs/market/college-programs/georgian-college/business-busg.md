@@ -1,10 +1,10 @@
 ---
-title: "10.25.19 Business (BUSG)"
+title: "10.26.19 Business (BUSG)"
 description: "Market > College Programs > Georgian College > Business (BUSG): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.19 Business (BUSG)
+# 10.26.19 Business (BUSG)
 
 ## Glossary
 

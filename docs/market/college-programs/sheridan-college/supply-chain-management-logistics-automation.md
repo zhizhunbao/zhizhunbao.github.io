@@ -1,10 +1,10 @@
 ---
-title: "10.60.104 Supply Chain Management – Logistics Automation"
+title: "10.61.104 Supply Chain Management – Logistics Automation"
 description: "Market > College Programs > Sheridan College > Supply Chain Management – Logistics Automation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.104 Supply Chain Management – Logistics Automation
+# 10.61.104 Supply Chain Management – Logistics Automation
 
 ## Glossary
 

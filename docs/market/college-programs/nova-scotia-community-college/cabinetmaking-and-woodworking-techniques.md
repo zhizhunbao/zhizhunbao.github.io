@@ -1,10 +1,10 @@
 ---
-title: "10.50.25 Cabinetmaking and Woodworking Techniques"
+title: "10.51.25 Cabinetmaking and Woodworking Techniques"
 description: "Market > College Programs > Nova Scotia Community College > Cabinetmaking and Woodworking Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.25 Cabinetmaking and Woodworking Techniques
+# 10.51.25 Cabinetmaking and Woodworking Techniques
 
 ## Glossary
 

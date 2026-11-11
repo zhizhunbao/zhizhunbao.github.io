@@ -1,10 +1,10 @@
 ---
-title: "10.63.18 Chemical Laboratory Technology"
+title: "10.64.18 Chemical Laboratory Technology"
 description: "Market > College Programs > St. Clair College > Chemical Laboratory Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.18 Chemical Laboratory Technology
+# 10.64.18 Chemical Laboratory Technology
 
 ## Glossary
 

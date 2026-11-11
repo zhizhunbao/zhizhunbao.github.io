@@ -1,10 +1,10 @@
 ---
-title: "10.25.110 Maajii-Anishnaabemdaa (Start Speaking the Language)"
+title: "10.26.110 Maajii-Anishnaabemdaa (Start Speaking the Language)"
 description: "Market > College Programs > Georgian College > Maajii-Anishnaabemdaa (Start Speaking the Language): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.110 Maajii-Anishnaabemdaa (Start Speaking the Language)
+# 10.26.110 Maajii-Anishnaabemdaa (Start Speaking the Language)
 
 ## Glossary
 

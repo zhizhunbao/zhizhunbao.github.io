@@ -1,10 +1,10 @@
 ---
-title: "10.24.9 Business Administration - Supply Chain and Operations Management (B162)"
+title: "10.25.9 Business Administration - Supply Chain and Operations Management (B162)"
 description: "Market > College Programs > George Brown Polytechnic > Business Administration - Supply Chain and Operations Management (B162): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.9 Business Administration - Supply Chain and Operations Management (B162)
+# 10.25.9 Business Administration - Supply Chain and Operations Management (B162)
 
 ## Glossary
 

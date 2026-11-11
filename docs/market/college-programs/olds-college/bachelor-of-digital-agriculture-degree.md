@@ -1,10 +1,10 @@
 ---
-title: "10.52.10 Bachelor of Digital Agriculture Degree"
+title: "10.53.10 Bachelor of Digital Agriculture Degree"
 description: "Market > College Programs > Olds College > Bachelor of Digital Agriculture Degree: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.10 Bachelor of Digital Agriculture Degree
+# 10.53.10 Bachelor of Digital Agriculture Degree
 
 ## Glossary
 

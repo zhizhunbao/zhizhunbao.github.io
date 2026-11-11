@@ -1,10 +1,10 @@
 ---
-title: "10.60.47 Graphic Design – Creative Practice"
+title: "10.61.47 Graphic Design – Creative Practice"
 description: "Market > College Programs > Sheridan College > Graphic Design – Creative Practice: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.47 Graphic Design – Creative Practice
+# 10.61.47 Graphic Design – Creative Practice
 
 ## Glossary
 

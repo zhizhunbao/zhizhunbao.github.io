@@ -1,10 +1,10 @@
 ---
-title: "10.41.79 Professional Butchery Techniques"
+title: "10.42.79 Professional Butchery Techniques"
 description: "Market > College Programs > Niagara College > Professional Butchery Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.79 Professional Butchery Techniques
+# 10.42.79 Professional Butchery Techniques
 
 ## Glossary
 

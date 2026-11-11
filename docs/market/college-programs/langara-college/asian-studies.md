@@ -1,10 +1,10 @@
 ---
-title: "10.33.10 Asian Studies"
+title: "10.34.10 Asian Studies"
 description: "Market > College Programs > Langara College > Asian Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.10 Asian Studies
+# 10.34.10 Asian Studies
 
 ## Glossary
 

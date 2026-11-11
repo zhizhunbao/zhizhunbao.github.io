@@ -1,10 +1,10 @@
 ---
-title: "10.55.54 Nursing"
+title: "10.56.54 Nursing"
 description: "Market > College Programs > Red River College Polytechnic > Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.54 Nursing
+# 10.56.54 Nursing
 
 ## Glossary
 

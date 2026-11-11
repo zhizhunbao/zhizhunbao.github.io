@@ -1,10 +1,10 @@
 ---
-title: "10.35.39 Mechatronics"
+title: "10.36.39 Mechatronics"
 description: "Market > College Programs > Loyalist College > Mechatronics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.39 Mechatronics
+# 10.36.39 Mechatronics
 
 ## Glossary
 

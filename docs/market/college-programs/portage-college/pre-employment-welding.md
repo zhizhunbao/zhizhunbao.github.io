@@ -1,10 +1,10 @@
 ---
-title: "10.53.27 Pre-Employment Welding"
+title: "10.54.27 Pre-Employment Welding"
 description: "Market > College Programs > Portage College > Pre-Employment Welding: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.27 Pre-Employment Welding
+# 10.54.27 Pre-Employment Welding
 
 ## Glossary
 

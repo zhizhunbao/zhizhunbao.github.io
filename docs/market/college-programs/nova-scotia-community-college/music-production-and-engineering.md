@@ -1,10 +1,10 @@
 ---
-title: "10.50.99 Music Production and Engineering"
+title: "10.51.99 Music Production and Engineering"
 description: "Market > College Programs > Nova Scotia Community College > Music Production and Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.99 Music Production and Engineering
+# 10.51.99 Music Production and Engineering
 
 ## Glossary
 

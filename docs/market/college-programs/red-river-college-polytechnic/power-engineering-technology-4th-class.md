@@ -1,10 +1,10 @@
 ---
-title: "10.55.58 Power Engineering Technology (4th Class)"
+title: "10.56.58 Power Engineering Technology (4th Class)"
 description: "Market > College Programs > Red River College Polytechnic > Power Engineering Technology (4th Class): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.58 Power Engineering Technology (4th Class)
+# 10.56.58 Power Engineering Technology (4th Class)
 
 ## Glossary
 

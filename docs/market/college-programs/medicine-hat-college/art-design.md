@@ -1,10 +1,10 @@
 ---
-title: "10.38.5 Art & Design"
+title: "10.39.5 Art & Design"
 description: "Market > College Programs > Medicine Hat College > Art & Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.5 Art & Design
+# 10.39.5 Art & Design
 
 ## Glossary
 

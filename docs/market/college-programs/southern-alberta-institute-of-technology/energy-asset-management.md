@@ -1,10 +1,10 @@
 ---
-title: "10.62.56 Energy Asset Management"
+title: "10.63.56 Energy Asset Management"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Energy Asset Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.56 Energy Asset Management
+# 10.63.56 Energy Asset Management
 
 ## Glossary
 

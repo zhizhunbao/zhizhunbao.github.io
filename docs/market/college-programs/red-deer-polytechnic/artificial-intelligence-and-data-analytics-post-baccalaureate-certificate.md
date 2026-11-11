@@ -1,10 +1,10 @@
 ---
-title: "10.54.4 Artificial Intelligence and Data Analytics Post-Baccalaureate Certificate"
+title: "10.55.4 Artificial Intelligence and Data Analytics Post-Baccalaureate Certificate"
 description: "Market > College Programs > Red Deer Polytechnic > Artificial Intelligence and Data Analytics Post-Baccalaureate Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.4 Artificial Intelligence and Data Analytics Post-Baccalaureate Certificate
+# 10.55.4 Artificial Intelligence and Data Analytics Post-Baccalaureate Certificate
 
 ## Glossary
 

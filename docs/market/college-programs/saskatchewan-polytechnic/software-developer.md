@@ -1,10 +1,10 @@
 ---
-title: "10.56.52 Software Developer"
+title: "10.57.52 Software Developer"
 description: "Market > College Programs > Saskatchewan Polytechnic > Software Developer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.52 Software Developer
+# 10.57.52 Software Developer
 
 ## Glossary
 

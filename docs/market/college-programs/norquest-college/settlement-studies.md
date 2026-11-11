@@ -1,10 +1,10 @@
 ---
-title: "10.42.39 Settlement Studies"
+title: "10.43.39 Settlement Studies"
 description: "Market > College Programs > NorQuest College > Settlement Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.42.39 Settlement Studies
+# 10.43.39 Settlement Studies
 
 ## Glossary
 

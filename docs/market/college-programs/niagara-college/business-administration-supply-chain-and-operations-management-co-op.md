@@ -1,10 +1,10 @@
 ---
-title: "10.41.15 Business Administration – Supply Chain and Operations Management (Co-op)"
+title: "10.42.15 Business Administration – Supply Chain and Operations Management (Co-op)"
 description: "Market > College Programs > Niagara College > Business Administration – Supply Chain and Operations Management (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.15 Business Administration – Supply Chain and Operations Management (Co-op)
+# 10.42.15 Business Administration – Supply Chain and Operations Management (Co-op)
 
 ## Glossary
 

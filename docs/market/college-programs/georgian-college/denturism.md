@@ -1,10 +1,10 @@
 ---
-title: "10.25.57 Denturism"
+title: "10.26.57 Denturism"
 description: "Market > College Programs > Georgian College > Denturism: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.57 Denturism
+# 10.26.57 Denturism
 
 ## Glossary
 

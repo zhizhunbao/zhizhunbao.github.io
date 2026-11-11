@@ -1,10 +1,10 @@
 ---
-title: "10.55.24 Digital Media Design-Interaction Design and Development"
+title: "10.56.24 Digital Media Design-Interaction Design and Development"
 description: "Market > College Programs > Red River College Polytechnic > Digital Media Design-Interaction Design and Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.24 Digital Media Design-Interaction Design and Development
+# 10.56.24 Digital Media Design-Interaction Design and Development
 
 ## Glossary
 

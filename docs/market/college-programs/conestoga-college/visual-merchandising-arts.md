@@ -1,10 +1,10 @@
 ---
-title: "10.18.197 Visual Merchandising Arts"
+title: "10.19.197 Visual Merchandising Arts"
 description: "Market > College Programs > Conestoga College > Visual Merchandising Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.197 Visual Merchandising Arts
+# 10.19.197 Visual Merchandising Arts
 
 ## Glossary
 

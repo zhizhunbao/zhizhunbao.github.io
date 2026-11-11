@@ -1,10 +1,10 @@
 ---
-title: "10.33.4 Accounting (Co-operative Education)"
+title: "10.34.4 Accounting (Co-operative Education)"
 description: "Market > College Programs > Langara College > Accounting (Co-operative Education): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.4 Accounting (Co-operative Education)
+# 10.34.4 Accounting (Co-operative Education)
 
 ## Glossary
 

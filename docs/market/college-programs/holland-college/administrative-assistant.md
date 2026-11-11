@@ -1,10 +1,10 @@
 ---
-title: "10.27.2 Administrative Assistant"
+title: "10.28.2 Administrative Assistant"
 description: "Market > College Programs > Holland College > Administrative Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.2 Administrative Assistant
+# 10.28.2 Administrative Assistant
 
 ## Glossary
 

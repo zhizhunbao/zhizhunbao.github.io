@@ -1,10 +1,10 @@
 ---
-title: "10.22.87 Food Processing - Product Development (Co-op)"
+title: "10.23.87 Food Processing - Product Development (Co-op)"
 description: "Market > College Programs > Fanshawe College > Food Processing - Product Development (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.87 Food Processing - Product Development (Co-op)
+# 10.23.87 Food Processing - Product Development (Co-op)
 
 ## Glossary
 

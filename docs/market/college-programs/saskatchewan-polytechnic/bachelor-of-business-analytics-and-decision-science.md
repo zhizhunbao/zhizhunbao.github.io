@@ -1,10 +1,10 @@
 ---
-title: "10.56.7 Bachelor of Business Analytics and Decision Science"
+title: "10.57.7 Bachelor of Business Analytics and Decision Science"
 description: "Market > College Programs > Saskatchewan Polytechnic > Bachelor of Business Analytics and Decision Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.7 Bachelor of Business Analytics and Decision Science
+# 10.57.7 Bachelor of Business Analytics and Decision Science
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.60.56 Honours Bachelor of Craft and Design (Furniture)"
+title: "10.61.56 Honours Bachelor of Craft and Design (Furniture)"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Craft and Design (Furniture): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.56 Honours Bachelor of Craft and Design (Furniture)
+# 10.61.56 Honours Bachelor of Craft and Design (Furniture)
 
 ## Glossary
 

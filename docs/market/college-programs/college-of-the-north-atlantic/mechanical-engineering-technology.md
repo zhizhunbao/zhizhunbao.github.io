@@ -1,10 +1,10 @@
 ---
-title: "10.16.67 Mechanical Engineering Technology"
+title: "10.17.67 Mechanical Engineering Technology"
 description: "Market > College Programs > College of the North Atlantic > Mechanical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.67 Mechanical Engineering Technology
+# 10.17.67 Mechanical Engineering Technology
 
 ## Glossary
 

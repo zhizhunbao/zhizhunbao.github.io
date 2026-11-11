@@ -1,10 +1,10 @@
 ---
-title: "10.27.36 Music Performance"
+title: "10.28.36 Music Performance"
 description: "Market > College Programs > Holland College > Music Performance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.36 Music Performance
+# 10.28.36 Music Performance
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.54.28 Kinesiology & Sport Studies Diploma"
+title: "10.55.28 Kinesiology & Sport Studies Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Kinesiology & Sport Studies Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.28 Kinesiology & Sport Studies Diploma
+# 10.55.28 Kinesiology & Sport Studies Diploma
 
 ## Glossary
 

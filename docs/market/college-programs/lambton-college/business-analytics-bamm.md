@@ -1,10 +1,10 @@
 ---
-title: "10.32.34 Business Analytics (BAMM)"
+title: "10.33.34 Business Analytics (BAMM)"
 description: "Market > College Programs > Lambton College > Business Analytics (BAMM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.34 Business Analytics (BAMM)
+# 10.33.34 Business Analytics (BAMM)
 
 ## Glossary
 

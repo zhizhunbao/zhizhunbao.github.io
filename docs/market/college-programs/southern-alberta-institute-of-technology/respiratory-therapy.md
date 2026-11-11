@@ -1,10 +1,10 @@
 ---
-title: "10.62.115 Respiratory Therapy"
+title: "10.63.115 Respiratory Therapy"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Respiratory Therapy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.115 Respiratory Therapy
+# 10.63.115 Respiratory Therapy
 
 ## Glossary
 

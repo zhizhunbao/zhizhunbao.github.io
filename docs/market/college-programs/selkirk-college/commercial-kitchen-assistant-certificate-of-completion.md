@@ -1,10 +1,10 @@
 ---
-title: "10.58.15 Commercial Kitchen Assistant - Certificate of Completion"
+title: "10.59.15 Commercial Kitchen Assistant - Certificate of Completion"
 description: "Market > College Programs > Selkirk College > Commercial Kitchen Assistant - Certificate of Completion: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.15 Commercial Kitchen Assistant - Certificate of Completion
+# 10.59.15 Commercial Kitchen Assistant - Certificate of Completion
 
 ## Glossary
 

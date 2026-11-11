@@ -1,10 +1,10 @@
 ---
-title: "10.51.11 Civil Engineering Technology Diploma"
+title: "10.52.11 Civil Engineering Technology Diploma"
 description: "Market > College Programs > Okanagan College > Civil Engineering Technology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.11 Civil Engineering Technology Diploma
+# 10.52.11 Civil Engineering Technology Diploma
 
 ## Glossary
 

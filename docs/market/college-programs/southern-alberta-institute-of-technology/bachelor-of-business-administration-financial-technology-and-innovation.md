@@ -1,10 +1,10 @@
 ---
-title: "10.62.15 Bachelor of Business Administration - Financial Technology and Innovation"
+title: "10.63.15 Bachelor of Business Administration - Financial Technology and Innovation"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Bachelor of Business Administration - Financial Technology and Innovation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.15 Bachelor of Business Administration - Financial Technology and Innovation
+# 10.63.15 Bachelor of Business Administration - Financial Technology and Innovation
 
 ## Glossary
 

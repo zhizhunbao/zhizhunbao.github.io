@@ -1,10 +1,10 @@
 ---
-title: "10.12.33 Préposé aux soins aigus"
+title: "10.13.33 Préposé aux soins aigus"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Préposé aux soins aigus: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.33 Préposé aux soins aigus
+# 10.13.33 Préposé aux soins aigus
 
 ## Glossary
 

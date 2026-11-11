@@ -1,10 +1,10 @@
 ---
-title: "10.50.96 Metal Fabrication"
+title: "10.51.96 Metal Fabrication"
 description: "Market > College Programs > Nova Scotia Community College > Metal Fabrication: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.96 Metal Fabrication
+# 10.51.96 Metal Fabrication
 
 ## Glossary
 

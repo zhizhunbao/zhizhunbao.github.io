@@ -1,10 +1,10 @@
 ---
-title: "10.59.113 Law Clerk"
+title: "10.60.113 Law Clerk"
 description: "Market > College Programs > Seneca Polytechnic > Law Clerk: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.113 Law Clerk
+# 10.60.113 Law Clerk
 
 ## Glossary
 

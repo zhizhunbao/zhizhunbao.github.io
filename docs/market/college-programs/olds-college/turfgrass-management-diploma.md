@@ -1,10 +1,10 @@
 ---
-title: "10.52.31 Turfgrass Management Diploma"
+title: "10.53.31 Turfgrass Management Diploma"
 description: "Market > College Programs > Olds College > Turfgrass Management Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.31 Turfgrass Management Diploma
+# 10.53.31 Turfgrass Management Diploma
 
 ## Glossary
 

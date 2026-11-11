@@ -1,10 +1,10 @@
 ---
-title: "10.37 Manitoba Institute of Trades and Technology"
+title: "10.38 Manitoba Institute of Trades and Technology"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37 Manitoba Institute of Trades and Technology
+# 10.38 Manitoba Institute of Trades and Technology
 
 ## Glossary
 

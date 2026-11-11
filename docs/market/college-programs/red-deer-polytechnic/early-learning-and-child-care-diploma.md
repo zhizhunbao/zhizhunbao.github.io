@@ -1,10 +1,10 @@
 ---
-title: "10.54.25 Early Learning and Child Care Diploma"
+title: "10.55.25 Early Learning and Child Care Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Early Learning and Child Care Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.25 Early Learning and Child Care Diploma
+# 10.55.25 Early Learning and Child Care Diploma
 
 ## Glossary
 

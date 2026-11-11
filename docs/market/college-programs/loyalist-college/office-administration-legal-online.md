@@ -1,10 +1,10 @@
 ---
-title: "10.35.48 Office Administration – Legal (Online)"
+title: "10.36.48 Office Administration – Legal (Online)"
 description: "Market > College Programs > Loyalist College > Office Administration – Legal (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.48 Office Administration – Legal (Online)
+# 10.36.48 Office Administration – Legal (Online)
 
 ## Glossary
 

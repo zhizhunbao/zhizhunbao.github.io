@@ -1,10 +1,10 @@
 ---
-title: "10.27.29 Human Resource Management"
+title: "10.28.29 Human Resource Management"
 description: "Market > College Programs > Holland College > Human Resource Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.29 Human Resource Management
+# 10.28.29 Human Resource Management
 
 ## Glossary
 

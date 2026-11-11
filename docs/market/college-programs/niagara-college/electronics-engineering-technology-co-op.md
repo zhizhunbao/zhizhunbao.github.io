@@ -1,10 +1,10 @@
 ---
-title: "10.41.42 Electronics Engineering Technology (Co-op)"
+title: "10.42.42 Electronics Engineering Technology (Co-op)"
 description: "Market > College Programs > Niagara College > Electronics Engineering Technology (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.42 Electronics Engineering Technology (Co-op)
+# 10.42.42 Electronics Engineering Technology (Co-op)
 
 ## Glossary
 

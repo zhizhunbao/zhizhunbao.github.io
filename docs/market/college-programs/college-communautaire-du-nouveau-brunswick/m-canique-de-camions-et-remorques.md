@@ -1,10 +1,10 @@
 ---
-title: "10.12.22 Mécanique de camions et remorques"
+title: "10.13.22 Mécanique de camions et remorques"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Mécanique de camions et remorques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.22 Mécanique de camions et remorques
+# 10.13.22 Mécanique de camions et remorques
 
 ## Glossary
 

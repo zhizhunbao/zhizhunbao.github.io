@@ -1,10 +1,10 @@
 ---
-title: "10.25.125 Museum and Gallery Studies"
+title: "10.26.125 Museum and Gallery Studies"
 description: "Market > College Programs > Georgian College > Museum and Gallery Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.125 Museum and Gallery Studies
+# 10.26.125 Museum and Gallery Studies
 
 ## Glossary
 

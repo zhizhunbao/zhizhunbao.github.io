@@ -1,10 +1,10 @@
 ---
-title: "10.59.38 Cloud Architecture & Administration"
+title: "10.60.38 Cloud Architecture & Administration"
 description: "Market > College Programs > Seneca Polytechnic > Cloud Architecture & Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.38 Cloud Architecture & Administration
+# 10.60.38 Cloud Architecture & Administration
 
 ## Glossary
 

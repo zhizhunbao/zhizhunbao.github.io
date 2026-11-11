@@ -1,10 +1,10 @@
 ---
-title: "10.37.21 Industrial Mechanic/Millwright"
+title: "10.38.21 Industrial Mechanic/Millwright"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Industrial Mechanic/Millwright: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.21 Industrial Mechanic/Millwright
+# 10.38.21 Industrial Mechanic/Millwright
 
 ## Glossary
 

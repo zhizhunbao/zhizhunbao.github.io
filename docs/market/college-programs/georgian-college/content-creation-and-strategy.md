@@ -1,10 +1,10 @@
 ---
-title: "10.25.48 Content Creation and Strategy"
+title: "10.26.48 Content Creation and Strategy"
 description: "Market > College Programs > Georgian College > Content Creation and Strategy: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.48 Content Creation and Strategy
+# 10.26.48 Content Creation and Strategy
 
 ## Glossary
 

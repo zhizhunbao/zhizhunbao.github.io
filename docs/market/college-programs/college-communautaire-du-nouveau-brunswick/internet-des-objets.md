@@ -1,10 +1,10 @@
 ---
-title: "10.12.20 Internet des objets"
+title: "10.13.20 Internet des objets"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Internet des objets: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.20 Internet des objets
+# 10.13.20 Internet des objets
 
 ## Glossary
 

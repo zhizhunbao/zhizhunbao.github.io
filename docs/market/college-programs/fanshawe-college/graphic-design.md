@@ -1,10 +1,10 @@
 ---
-title: "10.22.93 Graphic Design"
+title: "10.23.93 Graphic Design"
 description: "Market > College Programs > Fanshawe College > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.93 Graphic Design
+# 10.23.93 Graphic Design
 
 ## Glossary
 

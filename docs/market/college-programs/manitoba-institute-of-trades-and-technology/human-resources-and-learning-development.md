@@ -1,10 +1,10 @@
 ---
-title: "10.37.20 Human Resources and Learning Development"
+title: "10.38.20 Human Resources and Learning Development"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Human Resources and Learning Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.20 Human Resources and Learning Development
+# 10.38.20 Human Resources and Learning Development
 
 ## Glossary
 

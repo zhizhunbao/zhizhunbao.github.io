@@ -1,10 +1,10 @@
 ---
-title: "10.60.36 Early Childhood Education – Intensive"
+title: "10.61.36 Early Childhood Education – Intensive"
 description: "Market > College Programs > Sheridan College > Early Childhood Education – Intensive: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.36 Early Childhood Education – Intensive
+# 10.61.36 Early Childhood Education – Intensive
 
 ## Glossary
 

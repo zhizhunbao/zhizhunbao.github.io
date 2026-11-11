@@ -1,10 +1,10 @@
 ---
-title: "10.22.61 Cyber Security (Co-op)"
+title: "10.23.61 Cyber Security (Co-op)"
 description: "Market > College Programs > Fanshawe College > Cyber Security (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.61 Cyber Security (Co-op)
+# 10.23.61 Cyber Security (Co-op)
 
 ## Glossary
 

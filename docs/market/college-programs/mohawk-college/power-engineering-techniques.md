@@ -1,10 +1,10 @@
 ---
-title: "10.39.75 Power Engineering Techniques"
+title: "10.40.75 Power Engineering Techniques"
 description: "Market > College Programs > Mohawk College > Power Engineering Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.75 Power Engineering Techniques
+# 10.40.75 Power Engineering Techniques
 
 ## Glossary
 

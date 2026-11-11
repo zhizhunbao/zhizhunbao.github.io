@@ -1,10 +1,10 @@
 ---
-title: "10.25.113 Marketing Management"
+title: "10.26.113 Marketing Management"
 description: "Market > College Programs > Georgian College > Marketing Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.113 Marketing Management
+# 10.26.113 Marketing Management
 
 ## Glossary
 

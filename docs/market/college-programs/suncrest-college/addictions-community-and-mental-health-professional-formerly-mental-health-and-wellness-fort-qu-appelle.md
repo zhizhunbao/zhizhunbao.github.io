@@ -1,10 +1,10 @@
 ---
-title: "10.65.1 Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Fort Qu'Appelle"
+title: "10.66.1 Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Fort Qu'Appelle"
 description: "Market > College Programs > Suncrest College > Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Fort Qu'Appelle: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.1 Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Fort Qu'Appelle
+# 10.66.1 Addictions, Community, and Mental Health Professional (formerly Mental Health and Wellness) - Fort Qu'Appelle
 
 ## Glossary
 

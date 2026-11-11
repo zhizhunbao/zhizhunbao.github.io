@@ -1,10 +1,10 @@
 ---
-title: "10.32.104 Occupational Therapist Assistant & Physiotherapist Assistant"
+title: "10.33.104 Occupational Therapist Assistant & Physiotherapist Assistant"
 description: "Market > College Programs > Lambton College > Occupational Therapist Assistant & Physiotherapist Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.104 Occupational Therapist Assistant & Physiotherapist Assistant
+# 10.33.104 Occupational Therapist Assistant & Physiotherapist Assistant
 
 ## Glossary
 

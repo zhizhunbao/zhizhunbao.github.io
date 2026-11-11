@@ -1,10 +1,10 @@
 ---
-title: "10.24.23 Computing Foundations – AI Solutions"
+title: "10.25.23 Computing Foundations – AI Solutions"
 description: "Market > College Programs > George Brown Polytechnic > Computing Foundations – AI Solutions: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.23 Computing Foundations – AI Solutions
+# 10.25.23 Computing Foundations – AI Solutions
 
 ## Glossary
 

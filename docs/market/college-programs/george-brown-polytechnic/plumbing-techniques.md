@@ -1,10 +1,10 @@
 ---
-title: "10.24.73 Plumbing Techniques"
+title: "10.25.73 Plumbing Techniques"
 description: "Market > College Programs > George Brown Polytechnic > Plumbing Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.73 Plumbing Techniques
+# 10.25.73 Plumbing Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.47.4 Business Administration Management Studies Diploma"
+title: "10.48.4 Business Administration Management Studies Diploma"
 description: "Market > College Programs > Northern Lakes College > Business Administration Management Studies Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.4 Business Administration Management Studies Diploma
+# 10.48.4 Business Administration Management Studies Diploma
 
 ## Glossary
 

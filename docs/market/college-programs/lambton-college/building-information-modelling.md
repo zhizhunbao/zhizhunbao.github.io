@@ -1,10 +1,10 @@
 ---
-title: "10.32.19 Building Information Modelling"
+title: "10.33.19 Building Information Modelling"
 description: "Market > College Programs > Lambton College > Building Information Modelling: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.19 Building Information Modelling
+# 10.33.19 Building Information Modelling
 
 ## Glossary
 

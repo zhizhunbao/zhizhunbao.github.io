@@ -1,10 +1,10 @@
 ---
-title: "10.32.111 Policing & Community Safety"
+title: "10.33.111 Policing & Community Safety"
 description: "Market > College Programs > Lambton College > Policing & Community Safety: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.111 Policing & Community Safety
+# 10.33.111 Policing & Community Safety
 
 ## Glossary
 

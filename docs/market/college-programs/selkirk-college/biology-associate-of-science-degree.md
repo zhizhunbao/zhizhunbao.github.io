@@ -1,10 +1,10 @@
 ---
-title: "10.58.6 Biology - Associate of Science Degree"
+title: "10.59.6 Biology - Associate of Science Degree"
 description: "Market > College Programs > Selkirk College > Biology - Associate of Science Degree: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.6 Biology - Associate of Science Degree
+# 10.59.6 Biology - Associate of Science Degree
 
 ## Glossary
 

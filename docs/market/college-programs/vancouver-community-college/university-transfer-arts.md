@@ -1,10 +1,10 @@
 ---
-title: "10.66.50 University Transfer – Arts"
+title: "10.67.50 University Transfer – Arts"
 description: "Market > College Programs > Vancouver Community College > University Transfer – Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.50 University Transfer – Arts
+# 10.67.50 University Transfer – Arts
 
 ## Glossary
 

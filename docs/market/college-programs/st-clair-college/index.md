@@ -1,10 +1,10 @@
 ---
-title: "10.63 St. Clair College"
+title: "10.64 St. Clair College"
 description: "Market > College Programs > St. Clair College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63 St. Clair College
+# 10.64 St. Clair College
 
 ## Glossary
 

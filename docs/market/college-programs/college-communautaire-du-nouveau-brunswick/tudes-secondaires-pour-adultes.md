@@ -1,10 +1,10 @@
 ---
-title: "10.12.78 Études secondaires pour adultes"
+title: "10.13.78 Études secondaires pour adultes"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Études secondaires pour adultes: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.78 Études secondaires pour adultes
+# 10.13.78 Études secondaires pour adultes
 
 ## Glossary
 

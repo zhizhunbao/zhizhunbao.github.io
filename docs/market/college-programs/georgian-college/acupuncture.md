@@ -1,10 +1,10 @@
 ---
-title: "10.25.1 Acupuncture"
+title: "10.26.1 Acupuncture"
 description: "Market > College Programs > Georgian College > Acupuncture: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.1 Acupuncture
+# 10.26.1 Acupuncture
 
 ## Glossary
 

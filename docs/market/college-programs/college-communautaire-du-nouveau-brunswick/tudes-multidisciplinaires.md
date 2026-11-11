@@ -1,10 +1,10 @@
 ---
-title: "10.12.73 Études multidisciplinaires"
+title: "10.13.73 Études multidisciplinaires"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Études multidisciplinaires: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.73 Études multidisciplinaires
+# 10.13.73 Études multidisciplinaires
 
 ## Glossary
 

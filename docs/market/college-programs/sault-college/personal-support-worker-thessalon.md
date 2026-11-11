@@ -1,10 +1,10 @@
 ---
-title: "10.57.47 Personal Support Worker (Thessalon)"
+title: "10.58.47 Personal Support Worker (Thessalon)"
 description: "Market > College Programs > Sault College > Personal Support Worker (Thessalon): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.57.47 Personal Support Worker (Thessalon)
+# 10.58.47 Personal Support Worker (Thessalon)
 
 ## Glossary
 

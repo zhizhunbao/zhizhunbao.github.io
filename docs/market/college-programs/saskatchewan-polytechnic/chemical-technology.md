@@ -1,10 +1,10 @@
 ---
-title: "10.56.14 Chemical Technology"
+title: "10.57.14 Chemical Technology"
 description: "Market > College Programs > Saskatchewan Polytechnic > Chemical Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.14 Chemical Technology
+# 10.57.14 Chemical Technology
 
 ## Glossary
 

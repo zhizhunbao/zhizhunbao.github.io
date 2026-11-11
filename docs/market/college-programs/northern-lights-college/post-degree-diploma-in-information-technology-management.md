@@ -1,10 +1,10 @@
 ---
-title: "10.48.16 Post-Degree Diploma in Information Technology Management"
+title: "10.49.16 Post-Degree Diploma in Information Technology Management"
 description: "Market > College Programs > Northern Lights College > Post-Degree Diploma in Information Technology Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.16 Post-Degree Diploma in Information Technology Management
+# 10.49.16 Post-Degree Diploma in Information Technology Management
 
 ## Glossary
 

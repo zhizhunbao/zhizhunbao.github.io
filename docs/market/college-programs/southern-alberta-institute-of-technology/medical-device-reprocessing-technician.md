@@ -1,10 +1,10 @@
 ---
-title: "10.62.88 Medical Device Reprocessing Technician"
+title: "10.63.88 Medical Device Reprocessing Technician"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Medical Device Reprocessing Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.88 Medical Device Reprocessing Technician
+# 10.63.88 Medical Device Reprocessing Technician
 
 ## Glossary
 

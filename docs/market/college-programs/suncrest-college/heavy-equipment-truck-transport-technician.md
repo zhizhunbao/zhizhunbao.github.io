@@ -1,10 +1,10 @@
 ---
-title: "10.65.14 Heavy Equipment Truck & Transport Technician"
+title: "10.66.14 Heavy Equipment Truck & Transport Technician"
 description: "Market > College Programs > Suncrest College > Heavy Equipment Truck & Transport Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.14 Heavy Equipment Truck & Transport Technician
+# 10.66.14 Heavy Equipment Truck & Transport Technician
 
 ## Glossary
 

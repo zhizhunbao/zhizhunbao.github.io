@@ -1,10 +1,10 @@
 ---
-title: "10.20.20 Bachelor of Business Administration, Management"
+title: "10.21.20 Bachelor of Business Administration, Management"
 description: "Market > College Programs > Douglas College > Bachelor of Business Administration, Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.20 Bachelor of Business Administration, Management
+# 10.21.20 Bachelor of Business Administration, Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.66.7 ASL and Deaf Studies"
+title: "10.67.7 ASL and Deaf Studies"
 description: "Market > College Programs > Vancouver Community College > ASL and Deaf Studies: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.7 ASL and Deaf Studies
+# 10.67.7 ASL and Deaf Studies
 
 ## Glossary
 

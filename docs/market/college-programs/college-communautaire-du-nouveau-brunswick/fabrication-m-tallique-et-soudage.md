@@ -1,10 +1,10 @@
 ---
-title: "10.12.17 Fabrication métallique et soudage"
+title: "10.13.17 Fabrication métallique et soudage"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Fabrication métallique et soudage: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.17 Fabrication métallique et soudage
+# 10.13.17 Fabrication métallique et soudage
 
 ## Glossary
 

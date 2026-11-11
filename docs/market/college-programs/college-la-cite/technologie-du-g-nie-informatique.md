@@ -1,10 +1,10 @@
 ---
-title: "10.14.118 Technologie du génie informatique"
+title: "10.15.118 Technologie du génie informatique"
 description: "Market > College Programs > Collège La Cité > Technologie du génie informatique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.118 Technologie du génie informatique
+# 10.15.118 Technologie du génie informatique
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.117 Massage Therapy (Accelerated)"
+title: "10.23.117 Massage Therapy (Accelerated)"
 description: "Market > College Programs > Fanshawe College > Massage Therapy (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.117 Massage Therapy (Accelerated)
+# 10.23.117 Massage Therapy (Accelerated)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.34.33 General Arts and Science - Kinesiology Certificate"
+title: "10.35.33 General Arts and Science - Kinesiology Certificate"
 description: "Market > College Programs > Lethbridge Polytechnic > General Arts and Science - Kinesiology Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.33 General Arts and Science - Kinesiology Certificate
+# 10.35.33 General Arts and Science - Kinesiology Certificate
 
 ## Glossary
 

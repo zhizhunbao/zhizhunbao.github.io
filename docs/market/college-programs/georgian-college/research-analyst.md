@@ -1,10 +1,10 @@
 ---
-title: "10.25.147 Research Analyst"
+title: "10.26.147 Research Analyst"
 description: "Market > College Programs > Georgian College > Research Analyst: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.147 Research Analyst
+# 10.26.147 Research Analyst
 
 ## Glossary
 

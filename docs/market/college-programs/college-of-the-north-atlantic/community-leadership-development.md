@@ -1,10 +1,10 @@
 ---
-title: "10.16.23 Community Leadership Development"
+title: "10.17.23 Community Leadership Development"
 description: "Market > College Programs > College of the North Atlantic > Community Leadership Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.23 Community Leadership Development
+# 10.17.23 Community Leadership Development
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.58.75 Word Processing Skills - Associate Certificate"
+title: "10.59.75 Word Processing Skills - Associate Certificate"
 description: "Market > College Programs > Selkirk College > Word Processing Skills - Associate Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.58.75 Word Processing Skills - Associate Certificate
+# 10.59.75 Word Processing Skills - Associate Certificate
 
 ## Glossary
 

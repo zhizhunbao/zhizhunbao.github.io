@@ -1,10 +1,10 @@
 ---
-title: "10.56.4 Artificial Intelligence and Data Analytics"
+title: "10.57.4 Artificial Intelligence and Data Analytics"
 description: "Market > College Programs > Saskatchewan Polytechnic > Artificial Intelligence and Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.4 Artificial Intelligence and Data Analytics
+# 10.57.4 Artificial Intelligence and Data Analytics
 
 ## Glossary
 

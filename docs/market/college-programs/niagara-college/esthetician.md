@@ -1,10 +1,10 @@
 ---
-title: "10.41.45 Esthetician"
+title: "10.42.45 Esthetician"
 description: "Market > College Programs > Niagara College > Esthetician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.45 Esthetician
+# 10.42.45 Esthetician
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.33.63 Health Sciences: Arts"
+title: "10.34.63 Health Sciences: Arts"
 description: "Market > College Programs > Langara College > Health Sciences: Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.63 Health Sciences: Arts
+# 10.34.63 Health Sciences: Arts
 
 ## Glossary
 

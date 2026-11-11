@@ -1,10 +1,10 @@
 ---
-title: "10.20 Douglas College"
+title: "10.21 Douglas College"
 description: "Market > College Programs > Douglas College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20 Douglas College
+# 10.21 Douglas College
 
 ## Glossary
 

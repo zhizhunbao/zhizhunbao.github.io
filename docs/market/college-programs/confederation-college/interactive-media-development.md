@@ -1,10 +1,10 @@
 ---
-title: "10.19.48 Interactive Media Development"
+title: "10.20.48 Interactive Media Development"
 description: "Market > College Programs > Confederation College > Interactive Media Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.48 Interactive Media Development
+# 10.20.48 Interactive Media Development
 
 ## Glossary
 

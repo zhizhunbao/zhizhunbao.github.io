@@ -1,10 +1,10 @@
 ---
-title: "10.55.63 Therapeutic Recreation Facilitator for Older Adults"
+title: "10.56.63 Therapeutic Recreation Facilitator for Older Adults"
 description: "Market > College Programs > Red River College Polytechnic > Therapeutic Recreation Facilitator for Older Adults: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.63 Therapeutic Recreation Facilitator for Older Adults
+# 10.56.63 Therapeutic Recreation Facilitator for Older Adults
 
 ## Glossary
 

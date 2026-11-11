@@ -1,10 +1,10 @@
 ---
-title: "10.27.19 Correctional Officer"
+title: "10.28.19 Correctional Officer"
 description: "Market > College Programs > Holland College > Correctional Officer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.19 Correctional Officer
+# 10.28.19 Correctional Officer
 
 ## Glossary
 

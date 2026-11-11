@@ -1,10 +1,10 @@
 ---
-title: "10.15.8 Automotive Service Technician Foundation"
+title: "10.16.8 Automotive Service Technician Foundation"
 description: "Market > College Programs > College of New Caledonia > Automotive Service Technician Foundation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.8 Automotive Service Technician Foundation
+# 10.16.8 Automotive Service Technician Foundation
 
 ## Glossary
 

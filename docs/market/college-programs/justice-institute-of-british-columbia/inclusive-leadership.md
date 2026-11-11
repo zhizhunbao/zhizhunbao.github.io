@@ -1,10 +1,10 @@
 ---
-title: "10.29.16 Inclusive Leadership"
+title: "10.30.16 Inclusive Leadership"
 description: "Market > College Programs > Justice Institute of British Columbia > Inclusive Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.16 Inclusive Leadership
+# 10.30.16 Inclusive Leadership
 
 ## Glossary
 

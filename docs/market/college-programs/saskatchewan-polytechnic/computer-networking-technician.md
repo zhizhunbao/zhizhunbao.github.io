@@ -1,10 +1,10 @@
 ---
-title: "10.56.18 Computer Networking Technician"
+title: "10.57.18 Computer Networking Technician"
 description: "Market > College Programs > Saskatchewan Polytechnic > Computer Networking Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.18 Computer Networking Technician
+# 10.57.18 Computer Networking Technician
 
 ## Glossary
 

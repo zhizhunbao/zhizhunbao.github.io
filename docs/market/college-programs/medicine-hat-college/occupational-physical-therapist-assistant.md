@@ -1,10 +1,10 @@
 ---
-title: "10.38.22 Occupational/Physical Therapist Assistant"
+title: "10.39.22 Occupational/Physical Therapist Assistant"
 description: "Market > College Programs > Medicine Hat College > Occupational/Physical Therapist Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.38.22 Occupational/Physical Therapist Assistant
+# 10.39.22 Occupational/Physical Therapist Assistant
 
 ## Glossary
 

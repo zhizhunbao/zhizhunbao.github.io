@@ -1,10 +1,10 @@
 ---
-title: "10.11.29 Programme général d’arts et sciences – Anglais pour les études"
+title: "10.12.29 Programme général d’arts et sciences – Anglais pour les études"
 description: "Market > College Programs > Collège Boréal > Programme général d’arts et sciences – Anglais pour les études: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.29 Programme général d’arts et sciences – Anglais pour les études
+# 10.12.29 Programme général d’arts et sciences – Anglais pour les études
 
 ## Glossary
 

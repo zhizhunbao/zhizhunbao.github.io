@@ -1,10 +1,10 @@
 ---
-title: "10.12.56 Technologie de l’instrumentation et de l’automatisation"
+title: "10.13.56 Technologie de l’instrumentation et de l’automatisation"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technologie de l’instrumentation et de l’automatisation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.56 Technologie de l’instrumentation et de l’automatisation
+# 10.13.56 Technologie de l’instrumentation et de l’automatisation
 
 ## Glossary
 

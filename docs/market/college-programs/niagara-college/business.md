@@ -1,10 +1,10 @@
 ---
-title: "10.41.10 Business"
+title: "10.42.10 Business"
 description: "Market > College Programs > Niagara College > Business: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.10 Business
+# 10.42.10 Business
 
 ## Glossary
 

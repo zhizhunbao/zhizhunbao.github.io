@@ -1,10 +1,10 @@
 ---
-title: "10.23.57 Paramedic"
+title: "10.24.57 Paramedic"
 description: "Market > College Programs > Fleming College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.57 Paramedic
+# 10.24.57 Paramedic
 
 ## Glossary
 

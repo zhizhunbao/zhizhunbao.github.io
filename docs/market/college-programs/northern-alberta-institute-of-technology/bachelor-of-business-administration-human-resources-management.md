@@ -1,10 +1,10 @@
 ---
-title: "10.45.12 Bachelor of Business Administration - Human Resources Management"
+title: "10.46.12 Bachelor of Business Administration - Human Resources Management"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Bachelor of Business Administration - Human Resources Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.12 Bachelor of Business Administration - Human Resources Management
+# 10.46.12 Bachelor of Business Administration - Human Resources Management
 
 ## Glossary
 

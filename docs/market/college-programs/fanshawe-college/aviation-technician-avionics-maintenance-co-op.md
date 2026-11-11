@@ -1,10 +1,10 @@
 ---
-title: "10.22.18 Aviation Technician - Avionics Maintenance (Co-op)"
+title: "10.23.18 Aviation Technician - Avionics Maintenance (Co-op)"
 description: "Market > College Programs > Fanshawe College > Aviation Technician - Avionics Maintenance (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.18 Aviation Technician - Avionics Maintenance (Co-op)
+# 10.23.18 Aviation Technician - Avionics Maintenance (Co-op)
 
 ## Glossary
 

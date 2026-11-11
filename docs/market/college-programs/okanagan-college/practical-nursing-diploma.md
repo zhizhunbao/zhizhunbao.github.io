@@ -1,10 +1,10 @@
 ---
-title: "10.51.30 Practical Nursing Diploma"
+title: "10.52.30 Practical Nursing Diploma"
 description: "Market > College Programs > Okanagan College > Practical Nursing Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.30 Practical Nursing Diploma
+# 10.52.30 Practical Nursing Diploma
 
 ## Glossary
 

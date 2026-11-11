@@ -1,10 +1,10 @@
 ---
-title: "10.12.2 Art culinaire"
+title: "10.13.2 Art culinaire"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Art culinaire: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.2 Art culinaire
+# 10.13.2 Art culinaire
 
 ## Glossary
 

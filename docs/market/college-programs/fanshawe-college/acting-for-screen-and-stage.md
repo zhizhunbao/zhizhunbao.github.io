@@ -1,10 +1,10 @@
 ---
-title: "10.22.3 Acting for Screen and Stage"
+title: "10.23.3 Acting for Screen and Stage"
 description: "Market > College Programs > Fanshawe College > Acting for Screen and Stage: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.3 Acting for Screen and Stage
+# 10.23.3 Acting for Screen and Stage
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.35.45 Office Administration – Executive (Online)"
+title: "10.36.45 Office Administration – Executive (Online)"
 description: "Market > College Programs > Loyalist College > Office Administration – Executive (Online): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.45 Office Administration – Executive (Online)
+# 10.36.45 Office Administration – Executive (Online)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.53.24 Power Engineering"
+title: "10.54.24 Power Engineering"
 description: "Market > College Programs > Portage College > Power Engineering: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.24 Power Engineering
+# 10.54.24 Power Engineering
 
 ## Glossary
 

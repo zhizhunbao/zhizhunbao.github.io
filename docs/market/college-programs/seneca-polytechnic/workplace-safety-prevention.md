@@ -1,10 +1,10 @@
 ---
-title: "10.59.163 Workplace Safety & Prevention"
+title: "10.60.163 Workplace Safety & Prevention"
 description: "Market > College Programs > Seneca Polytechnic > Workplace Safety & Prevention: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.163 Workplace Safety & Prevention
+# 10.60.163 Workplace Safety & Prevention
 
 ## Glossary
 

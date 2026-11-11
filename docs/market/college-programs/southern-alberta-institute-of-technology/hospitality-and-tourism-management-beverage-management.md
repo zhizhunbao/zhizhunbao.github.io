@@ -1,10 +1,10 @@
 ---
-title: "10.62.65 Hospitality and Tourism Management - Beverage Management"
+title: "10.63.65 Hospitality and Tourism Management - Beverage Management"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Hospitality and Tourism Management - Beverage Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.65 Hospitality and Tourism Management - Beverage Management
+# 10.63.65 Hospitality and Tourism Management - Beverage Management
 
 ## Glossary
 

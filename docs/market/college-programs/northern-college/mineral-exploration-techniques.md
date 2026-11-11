@@ -1,10 +1,10 @@
 ---
-title: "10.46.36 Mineral Exploration Techniques"
+title: "10.47.36 Mineral Exploration Techniques"
 description: "Market > College Programs > Northern College > Mineral Exploration Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.36 Mineral Exploration Techniques
+# 10.47.36 Mineral Exploration Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.48.10 Heavy Mechanical Trades Foundation Certificate"
+title: "10.49.10 Heavy Mechanical Trades Foundation Certificate"
 description: "Market > College Programs > Northern Lights College > Heavy Mechanical Trades Foundation Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.10 Heavy Mechanical Trades Foundation Certificate
+# 10.49.10 Heavy Mechanical Trades Foundation Certificate
 
 ## Glossary
 

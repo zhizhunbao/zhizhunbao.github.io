@@ -1,10 +1,10 @@
 ---
-title: "10.22.103 Honours Bachelor of Commerce (Human Resources Management)"
+title: "10.23.103 Honours Bachelor of Commerce (Human Resources Management)"
 description: "Market > College Programs > Fanshawe College > Honours Bachelor of Commerce (Human Resources Management): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.103 Honours Bachelor of Commerce (Human Resources Management)
+# 10.23.103 Honours Bachelor of Commerce (Human Resources Management)
 
 ## Glossary
 

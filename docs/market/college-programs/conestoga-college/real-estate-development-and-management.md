@@ -1,10 +1,10 @@
 ---
-title: "10.18.176 Real Estate Development and Management"
+title: "10.19.176 Real Estate Development and Management"
 description: "Market > College Programs > Conestoga College > Real Estate Development and Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.176 Real Estate Development and Management
+# 10.19.176 Real Estate Development and Management
 
 ## Glossary
 

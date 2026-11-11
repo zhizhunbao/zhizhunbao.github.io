@@ -1,10 +1,10 @@
 ---
-title: "10.55.25 Digital Media Design-Video and Motion Graphics"
+title: "10.56.25 Digital Media Design-Video and Motion Graphics"
 description: "Market > College Programs > Red River College Polytechnic > Digital Media Design-Video and Motion Graphics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.25 Digital Media Design-Video and Motion Graphics
+# 10.56.25 Digital Media Design-Video and Motion Graphics
 
 ## Glossary
 

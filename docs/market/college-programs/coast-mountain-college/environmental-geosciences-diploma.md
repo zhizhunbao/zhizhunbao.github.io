@@ -1,10 +1,10 @@
 ---
-title: "10.10.13 Environmental Geosciences Diploma"
+title: "10.11.13 Environmental Geosciences Diploma"
 description: "Market > College Programs > Coast Mountain College > Environmental Geosciences Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.13 Environmental Geosciences Diploma
+# 10.11.13 Environmental Geosciences Diploma
 
 ## Glossary
 

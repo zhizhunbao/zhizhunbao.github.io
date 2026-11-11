@@ -1,10 +1,10 @@
 ---
-title: "10.51.3 Animation Diploma"
+title: "10.52.3 Animation Diploma"
 description: "Market > College Programs > Okanagan College > Animation Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.3 Animation Diploma
+# 10.52.3 Animation Diploma
 
 ## Glossary
 

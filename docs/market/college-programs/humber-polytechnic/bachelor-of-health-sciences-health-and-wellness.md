@@ -1,10 +1,10 @@
 ---
-title: "10.28.26 Bachelor of Health Sciences - Health and Wellness"
+title: "10.29.26 Bachelor of Health Sciences - Health and Wellness"
 description: "Market > College Programs > Humber Polytechnic > Bachelor of Health Sciences - Health and Wellness: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.26 Bachelor of Health Sciences - Health and Wellness
+# 10.29.26 Bachelor of Health Sciences - Health and Wellness
 
 ## Glossary
 

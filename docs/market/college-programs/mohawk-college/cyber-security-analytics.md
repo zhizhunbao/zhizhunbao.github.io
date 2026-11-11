@@ -1,10 +1,10 @@
 ---
-title: "10.39.42 Cyber Security Analytics"
+title: "10.40.42 Cyber Security Analytics"
 description: "Market > College Programs > Mohawk College > Cyber Security Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.42 Cyber Security Analytics
+# 10.40.42 Cyber Security Analytics
 
 ## Glossary
 

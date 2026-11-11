@@ -1,10 +1,10 @@
 ---
-title: "10.28.120 User Experience (UX) Design"
+title: "10.29.120 User Experience (UX) Design"
 description: "Market > College Programs > Humber Polytechnic > User Experience (UX) Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.120 User Experience (UX) Design
+# 10.29.120 User Experience (UX) Design
 
 ## Glossary
 

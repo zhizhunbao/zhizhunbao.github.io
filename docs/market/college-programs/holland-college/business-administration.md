@@ -1,10 +1,10 @@
 ---
-title: "10.27.10 Business Administration"
+title: "10.28.10 Business Administration"
 description: "Market > College Programs > Holland College > Business Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.27.10 Business Administration
+# 10.28.10 Business Administration
 
 ## Glossary
 

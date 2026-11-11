@@ -1,10 +1,10 @@
 ---
-title: "10.64.28 Data Analytics"
+title: "10.65.28 Data Analytics"
 description: "Market > College Programs > St. Lawrence College > Data Analytics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.28 Data Analytics
+# 10.65.28 Data Analytics
 
 ## Glossary
 

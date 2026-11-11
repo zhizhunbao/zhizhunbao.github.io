@@ -1,10 +1,10 @@
 ---
-title: "10.59.99 Honours Bachelor of Science – Nursing (Fast track)"
+title: "10.60.99 Honours Bachelor of Science – Nursing (Fast track)"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Science – Nursing (Fast track): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.99 Honours Bachelor of Science – Nursing (Fast track)
+# 10.60.99 Honours Bachelor of Science – Nursing (Fast track)
 
 ## Glossary
 

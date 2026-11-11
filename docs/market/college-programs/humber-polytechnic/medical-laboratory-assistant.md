@@ -1,10 +1,10 @@
 ---
-title: "10.28.101 Medical Laboratory Assistant"
+title: "10.29.101 Medical Laboratory Assistant"
 description: "Market > College Programs > Humber Polytechnic > Medical Laboratory Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.101 Medical Laboratory Assistant
+# 10.29.101 Medical Laboratory Assistant
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.22.44 Carpentry and Renovation Techniques"
+title: "10.23.44 Carpentry and Renovation Techniques"
 description: "Market > College Programs > Fanshawe College > Carpentry and Renovation Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.44 Carpentry and Renovation Techniques
+# 10.23.44 Carpentry and Renovation Techniques
 
 ## Glossary
 

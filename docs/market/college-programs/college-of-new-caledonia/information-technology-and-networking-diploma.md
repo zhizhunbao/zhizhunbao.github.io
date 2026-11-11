@@ -1,10 +1,10 @@
 ---
-title: "10.15.28 Information Technology and Networking Diploma"
+title: "10.16.28 Information Technology and Networking Diploma"
 description: "Market > College Programs > College of New Caledonia > Information Technology and Networking Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.28 Information Technology and Networking Diploma
+# 10.16.28 Information Technology and Networking Diploma
 
 ## Glossary
 

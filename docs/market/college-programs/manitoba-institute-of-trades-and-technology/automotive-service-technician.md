@@ -1,10 +1,10 @@
 ---
-title: "10.37.3 Automotive Service Technician"
+title: "10.38.3 Automotive Service Technician"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Automotive Service Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.3 Automotive Service Technician
+# 10.38.3 Automotive Service Technician
 
 ## Glossary
 

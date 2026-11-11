@@ -1,10 +1,10 @@
 ---
-title: "10.24.55 Honours Bachelor of Food Studies (H318)"
+title: "10.25.55 Honours Bachelor of Food Studies (H318)"
 description: "Market > College Programs > George Brown Polytechnic > Honours Bachelor of Food Studies (H318): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.55 Honours Bachelor of Food Studies (H318)
+# 10.25.55 Honours Bachelor of Food Studies (H318)
 
 ## Glossary
 

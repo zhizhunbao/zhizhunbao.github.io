@@ -1,10 +1,10 @@
 ---
-title: "10.14.51 Parajuriste"
+title: "10.15.51 Parajuriste"
 description: "Market > College Programs > Collège La Cité > Parajuriste: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.51 Parajuriste
+# 10.15.51 Parajuriste
 
 ## Glossary
 

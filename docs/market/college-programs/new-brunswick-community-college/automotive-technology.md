@@ -1,10 +1,10 @@
 ---
-title: "10.40.10 Automotive Technology"
+title: "10.41.10 Automotive Technology"
 description: "Market > College Programs > New Brunswick Community College > Automotive Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.10 Automotive Technology
+# 10.41.10 Automotive Technology
 
 ## Glossary
 

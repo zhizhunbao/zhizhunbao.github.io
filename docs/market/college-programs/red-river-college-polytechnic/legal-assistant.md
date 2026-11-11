@@ -1,10 +1,10 @@
 ---
-title: "10.55.44 Legal Assistant"
+title: "10.56.44 Legal Assistant"
 description: "Market > College Programs > Red River College Polytechnic > Legal Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.44 Legal Assistant
+# 10.56.44 Legal Assistant
 
 ## Glossary
 

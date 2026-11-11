@@ -1,10 +1,10 @@
 ---
-title: "10.46.46 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees"
+title: "10.47.46 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees"
 description: "Market > College Programs > Northern College > Pre-Health Sciences Pathway to Advanced Diplomas and Degrees: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.46 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees
+# 10.47.46 Pre-Health Sciences Pathway to Advanced Diplomas and Degrees
 
 ## Glossary
 

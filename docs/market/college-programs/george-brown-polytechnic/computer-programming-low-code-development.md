@@ -1,10 +1,10 @@
 ---
-title: "10.24.18 Computer Programming - Low Code Development"
+title: "10.25.18 Computer Programming - Low Code Development"
 description: "Market > College Programs > George Brown Polytechnic > Computer Programming - Low Code Development: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.24.18 Computer Programming - Low Code Development
+# 10.25.18 Computer Programming - Low Code Development
 
 ## Glossary
 

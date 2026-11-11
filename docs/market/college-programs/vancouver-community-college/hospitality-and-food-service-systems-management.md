@@ -1,10 +1,10 @@
 ---
-title: "10.66.37 Hospitality and Food Service Systems Management"
+title: "10.67.37 Hospitality and Food Service Systems Management"
 description: "Market > College Programs > Vancouver Community College > Hospitality and Food Service Systems Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.37 Hospitality and Food Service Systems Management
+# 10.67.37 Hospitality and Food Service Systems Management
 
 ## Glossary
 

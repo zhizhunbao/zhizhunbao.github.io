@@ -1,10 +1,10 @@
 ---
-title: "10.66.17 Construction Engineering Technician"
+title: "10.67.17 Construction Engineering Technician"
 description: "Market > College Programs > Vancouver Community College > Construction Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.17 Construction Engineering Technician
+# 10.67.17 Construction Engineering Technician
 
 ## Glossary
 

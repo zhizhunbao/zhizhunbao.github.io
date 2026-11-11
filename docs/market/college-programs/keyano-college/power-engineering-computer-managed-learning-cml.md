@@ -1,10 +1,10 @@
 ---
-title: "10.30.23 Power Engineering Computer Managed Learning (CML)"
+title: "10.31.23 Power Engineering Computer Managed Learning (CML)"
 description: "Market > College Programs > Keyano College > Power Engineering Computer Managed Learning (CML): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.23 Power Engineering Computer Managed Learning (CML)
+# 10.31.23 Power Engineering Computer Managed Learning (CML)
 
 ## Glossary
 

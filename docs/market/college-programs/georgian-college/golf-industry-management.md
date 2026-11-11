@@ -1,10 +1,10 @@
 ---
-title: "10.25.87 Golf Industry Management"
+title: "10.26.87 Golf Industry Management"
 description: "Market > College Programs > Georgian College > Golf Industry Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.87 Golf Industry Management
+# 10.26.87 Golf Industry Management
 
 ## Glossary
 

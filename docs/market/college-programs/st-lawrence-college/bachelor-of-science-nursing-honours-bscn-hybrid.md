@@ -1,10 +1,10 @@
 ---
-title: "10.64.9 Bachelor of Science - Nursing (Honours) - BScN - Hybrid"
+title: "10.65.9 Bachelor of Science - Nursing (Honours) - BScN - Hybrid"
 description: "Market > College Programs > St. Lawrence College > Bachelor of Science - Nursing (Honours) - BScN - Hybrid: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.64.9 Bachelor of Science - Nursing (Honours) - BScN - Hybrid
+# 10.65.9 Bachelor of Science - Nursing (Honours) - BScN - Hybrid
 
 ## Glossary
 

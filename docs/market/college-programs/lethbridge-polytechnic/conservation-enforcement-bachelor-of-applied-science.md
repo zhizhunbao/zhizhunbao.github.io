@@ -1,10 +1,10 @@
 ---
-title: "10.34.15 Conservation Enforcement - Bachelor of Applied Science"
+title: "10.35.15 Conservation Enforcement - Bachelor of Applied Science"
 description: "Market > College Programs > Lethbridge Polytechnic > Conservation Enforcement - Bachelor of Applied Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.15 Conservation Enforcement - Bachelor of Applied Science
+# 10.35.15 Conservation Enforcement - Bachelor of Applied Science
 
 ## Glossary
 

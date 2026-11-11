@@ -1,10 +1,10 @@
 ---
-title: "10.10.9 Criminology Diploma"
+title: "10.11.9 Criminology Diploma"
 description: "Market > College Programs > Coast Mountain College > Criminology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.10.9 Criminology Diploma
+# 10.11.9 Criminology Diploma
 
 ## Glossary
 

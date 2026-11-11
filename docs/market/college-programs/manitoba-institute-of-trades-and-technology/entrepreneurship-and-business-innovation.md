@@ -1,10 +1,10 @@
 ---
-title: "10.37.13 Entrepreneurship and Business Innovation"
+title: "10.38.13 Entrepreneurship and Business Innovation"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Entrepreneurship and Business Innovation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.13 Entrepreneurship and Business Innovation
+# 10.38.13 Entrepreneurship and Business Innovation
 
 ## Glossary
 

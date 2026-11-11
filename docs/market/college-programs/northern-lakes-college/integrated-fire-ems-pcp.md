@@ -1,10 +1,10 @@
 ---
-title: "10.47.13 Integrated Fire & EMS (PCP)"
+title: "10.48.13 Integrated Fire & EMS (PCP)"
 description: "Market > College Programs > Northern Lakes College > Integrated Fire & EMS (PCP): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.13 Integrated Fire & EMS (PCP)
+# 10.48.13 Integrated Fire & EMS (PCP)
 
 ## Glossary
 

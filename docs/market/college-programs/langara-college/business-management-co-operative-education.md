@@ -1,10 +1,10 @@
 ---
-title: "10.33.23 Business Management (Co-operative Education)"
+title: "10.34.23 Business Management (Co-operative Education)"
 description: "Market > College Programs > Langara College > Business Management (Co-operative Education): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.23 Business Management (Co-operative Education)
+# 10.34.23 Business Management (Co-operative Education)
 
 ## Glossary
 

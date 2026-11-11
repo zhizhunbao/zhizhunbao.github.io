@@ -1,10 +1,10 @@
 ---
-title: "10.16.110 X-Ray Skills for Medical Laboratory Technologists"
+title: "10.17.110 X-Ray Skills for Medical Laboratory Technologists"
 description: "Market > College Programs > College of the North Atlantic > X-Ray Skills for Medical Laboratory Technologists: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.110 X-Ray Skills for Medical Laboratory Technologists
+# 10.17.110 X-Ray Skills for Medical Laboratory Technologists
 
 ## Glossary
 

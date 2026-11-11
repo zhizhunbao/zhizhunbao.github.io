@@ -1,10 +1,10 @@
 ---
-title: "10.52.17 Equine Massage Therapy Certificate"
+title: "10.53.17 Equine Massage Therapy Certificate"
 description: "Market > College Programs > Olds College > Equine Massage Therapy Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.17 Equine Massage Therapy Certificate
+# 10.53.17 Equine Massage Therapy Certificate
 
 ## Glossary
 

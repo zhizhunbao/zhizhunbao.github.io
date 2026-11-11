@@ -1,10 +1,10 @@
 ---
-title: "10.15.24 Health Care Assistant Certificate"
+title: "10.16.24 Health Care Assistant Certificate"
 description: "Market > College Programs > College of New Caledonia > Health Care Assistant Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.15.24 Health Care Assistant Certificate
+# 10.16.24 Health Care Assistant Certificate
 
 ## Glossary
 

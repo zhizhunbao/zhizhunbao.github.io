@@ -1,10 +1,10 @@
 ---
-title: "10.22.86 Food Processing - Operational Leadership"
+title: "10.23.86 Food Processing - Operational Leadership"
 description: "Market > College Programs > Fanshawe College > Food Processing - Operational Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.86 Food Processing - Operational Leadership
+# 10.23.86 Food Processing - Operational Leadership
 
 ## Glossary
 

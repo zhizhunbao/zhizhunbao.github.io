@@ -1,10 +1,10 @@
 ---
-title: "10.66.32 Hairstylist"
+title: "10.67.32 Hairstylist"
 description: "Market > College Programs > Vancouver Community College > Hairstylist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.32 Hairstylist
+# 10.67.32 Hairstylist
 
 ## Glossary
 

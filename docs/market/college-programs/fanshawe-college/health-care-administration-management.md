@@ -1,10 +1,10 @@
 ---
-title: "10.22.96 Health Care Administration Management"
+title: "10.23.96 Health Care Administration Management"
 description: "Market > College Programs > Fanshawe College > Health Care Administration Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.96 Health Care Administration Management
+# 10.23.96 Health Care Administration Management
 
 ## Glossary
 

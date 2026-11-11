@@ -1,10 +1,10 @@
 ---
-title: "10.63.59 Honours Bachelor of Business Administration (Information Communication Technology)"
+title: "10.64.59 Honours Bachelor of Business Administration (Information Communication Technology)"
 description: "Market > College Programs > St. Clair College > Honours Bachelor of Business Administration (Information Communication Technology): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.59 Honours Bachelor of Business Administration (Information Communication Technology)
+# 10.64.59 Honours Bachelor of Business Administration (Information Communication Technology)
 
 ## Glossary
 

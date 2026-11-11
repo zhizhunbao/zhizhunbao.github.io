@@ -1,10 +1,10 @@
 ---
-title: "10.19.77 Social Service Worker (0154)"
+title: "10.20.77 Social Service Worker (0154)"
 description: "Market > College Programs > Confederation College > Social Service Worker (0154): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.77 Social Service Worker (0154)
+# 10.20.77 Social Service Worker (0154)
 
 ## Glossary
 

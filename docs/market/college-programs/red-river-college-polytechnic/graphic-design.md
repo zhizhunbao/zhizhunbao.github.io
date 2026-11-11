@@ -1,10 +1,10 @@
 ---
-title: "10.55.33 Graphic Design"
+title: "10.56.33 Graphic Design"
 description: "Market > College Programs > Red River College Polytechnic > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.33 Graphic Design
+# 10.56.33 Graphic Design
 
 ## Glossary
 

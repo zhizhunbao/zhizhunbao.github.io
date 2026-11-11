@@ -1,10 +1,10 @@
 ---
-title: "10.60.66 Honours Bachelor of Game Design"
+title: "10.61.66 Honours Bachelor of Game Design"
 description: "Market > College Programs > Sheridan College > Honours Bachelor of Game Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.66 Honours Bachelor of Game Design
+# 10.61.66 Honours Bachelor of Game Design
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.47.9 Educational Assistant"
+title: "10.48.9 Educational Assistant"
 description: "Market > College Programs > Northern Lakes College > Educational Assistant: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.9 Educational Assistant
+# 10.48.9 Educational Assistant
 
 ## Glossary
 

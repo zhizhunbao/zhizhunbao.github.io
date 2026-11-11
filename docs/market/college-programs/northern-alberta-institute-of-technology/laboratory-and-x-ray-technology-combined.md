@@ -1,10 +1,10 @@
 ---
-title: "10.45.68 Laboratory and X-Ray Technology Combined"
+title: "10.46.68 Laboratory and X-Ray Technology Combined"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Laboratory and X-Ray Technology Combined: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.68 Laboratory and X-Ray Technology Combined
+# 10.46.68 Laboratory and X-Ray Technology Combined
 
 ## Glossary
 

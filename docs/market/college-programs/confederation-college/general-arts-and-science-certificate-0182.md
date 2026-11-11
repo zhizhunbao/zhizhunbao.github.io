@@ -1,10 +1,10 @@
 ---
-title: "10.19.39 General Arts and Science - Certificate (0182)"
+title: "10.20.39 General Arts and Science - Certificate (0182)"
 description: "Market > College Programs > Confederation College > General Arts and Science - Certificate (0182): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.39 General Arts and Science - Certificate (0182)
+# 10.20.39 General Arts and Science - Certificate (0182)
 
 ## Glossary
 

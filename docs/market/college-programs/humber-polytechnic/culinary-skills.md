@@ -1,10 +1,10 @@
 ---
-title: "10.28.55 Culinary Skills"
+title: "10.29.55 Culinary Skills"
 description: "Market > College Programs > Humber Polytechnic > Culinary Skills: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.55 Culinary Skills
+# 10.29.55 Culinary Skills
 
 ## Glossary
 

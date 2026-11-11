@@ -1,10 +1,10 @@
 ---
-title: "10.25.90 Hairstyling"
+title: "10.26.90 Hairstyling"
 description: "Market > College Programs > Georgian College > Hairstyling: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.90 Hairstyling
+# 10.26.90 Hairstyling
 
 ## Glossary
 

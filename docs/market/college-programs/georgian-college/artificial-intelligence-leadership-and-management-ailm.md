@@ -1,10 +1,10 @@
 ---
-title: "10.25.11 Artificial Intelligence Leadership and Management (AILM)"
+title: "10.26.11 Artificial Intelligence Leadership and Management (AILM)"
 description: "Market > College Programs > Georgian College > Artificial Intelligence Leadership and Management (AILM): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.11 Artificial Intelligence Leadership and Management (AILM)
+# 10.26.11 Artificial Intelligence Leadership and Management (AILM)
 
 ## Glossary
 

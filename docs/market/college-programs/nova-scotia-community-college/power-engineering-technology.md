@@ -1,10 +1,10 @@
 ---
-title: "10.50.111 Power Engineering Technology"
+title: "10.51.111 Power Engineering Technology"
 description: "Market > College Programs > Nova Scotia Community College > Power Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.111 Power Engineering Technology
+# 10.51.111 Power Engineering Technology
 
 ## Glossary
 

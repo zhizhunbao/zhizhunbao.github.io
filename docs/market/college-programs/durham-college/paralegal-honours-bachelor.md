@@ -1,10 +1,10 @@
 ---
-title: "10.21.100 Paralegal – Honours Bachelor"
+title: "10.22.100 Paralegal – Honours Bachelor"
 description: "Market > College Programs > Durham College > Paralegal – Honours Bachelor: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.21.100 Paralegal – Honours Bachelor
+# 10.22.100 Paralegal – Honours Bachelor
 
 ## Glossary
 

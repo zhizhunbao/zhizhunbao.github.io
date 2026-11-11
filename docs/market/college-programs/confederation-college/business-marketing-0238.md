@@ -1,10 +1,10 @@
 ---
-title: "10.19.15 Business - Marketing (0238)"
+title: "10.20.15 Business - Marketing (0238)"
 description: "Market > College Programs > Confederation College > Business - Marketing (0238): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.15 Business - Marketing (0238)
+# 10.20.15 Business - Marketing (0238)
 
 ## Glossary
 

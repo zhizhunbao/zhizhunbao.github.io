@@ -1,10 +1,10 @@
 ---
-title: "10.50.61 Geographic Information Systems"
+title: "10.51.61 Geographic Information Systems"
 description: "Market > College Programs > Nova Scotia Community College > Geographic Information Systems: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.61 Geographic Information Systems
+# 10.51.61 Geographic Information Systems
 
 ## Glossary
 

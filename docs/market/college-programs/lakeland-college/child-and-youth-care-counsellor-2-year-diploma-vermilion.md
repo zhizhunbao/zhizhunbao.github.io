@@ -1,10 +1,10 @@
 ---
-title: "10.31.19 Child and Youth Care Counsellor, 2-year Diploma (Vermilion)"
+title: "10.32.19 Child and Youth Care Counsellor, 2-year Diploma (Vermilion)"
 description: "Market > College Programs > Lakeland College > Child and Youth Care Counsellor, 2-year Diploma (Vermilion): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.19 Child and Youth Care Counsellor, 2-year Diploma (Vermilion)
+# 10.32.19 Child and Youth Care Counsellor, 2-year Diploma (Vermilion)
 
 ## Glossary
 

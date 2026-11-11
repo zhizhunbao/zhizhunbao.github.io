@@ -1,10 +1,10 @@
 ---
-title: "10.19.33 Electrical Engineering Technology (0396)"
+title: "10.20.33 Electrical Engineering Technology (0396)"
 description: "Market > College Programs > Confederation College > Electrical Engineering Technology (0396): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.33 Electrical Engineering Technology (0396)
+# 10.20.33 Electrical Engineering Technology (0396)
 
 ## Glossary
 

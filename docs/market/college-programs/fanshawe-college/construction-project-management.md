@@ -1,10 +1,10 @@
 ---
-title: "10.22.57 Construction Project Management"
+title: "10.23.57 Construction Project Management"
 description: "Market > College Programs > Fanshawe College > Construction Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.57 Construction Project Management
+# 10.23.57 Construction Project Management
 
 ## Glossary
 

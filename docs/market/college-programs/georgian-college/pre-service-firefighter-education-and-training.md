@@ -1,10 +1,10 @@
 ---
-title: "10.25.142 Pre-service Firefighter Education and Training"
+title: "10.26.142 Pre-service Firefighter Education and Training"
 description: "Market > College Programs > Georgian College > Pre-service Firefighter Education and Training: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.142 Pre-service Firefighter Education and Training
+# 10.26.142 Pre-service Firefighter Education and Training
 
 ## Glossary
 

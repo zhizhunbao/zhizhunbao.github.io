@@ -1,10 +1,10 @@
 ---
-title: "10.41.41 Electronics Engineering Technician"
+title: "10.42.41 Electronics Engineering Technician"
 description: "Market > College Programs > Niagara College > Electronics Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.41 Electronics Engineering Technician
+# 10.42.41 Electronics Engineering Technician
 
 ## Glossary
 

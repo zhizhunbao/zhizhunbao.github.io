@@ -1,10 +1,10 @@
 ---
-title: "10.54.35 Social Work Diploma"
+title: "10.55.35 Social Work Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Social Work Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.35 Social Work Diploma
+# 10.55.35 Social Work Diploma
 
 ## Glossary
 

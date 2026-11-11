@@ -1,10 +1,10 @@
 ---
-title: "10.59.81 Graphic Design"
+title: "10.60.81 Graphic Design"
 description: "Market > College Programs > Seneca Polytechnic > Graphic Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.81 Graphic Design
+# 10.60.81 Graphic Design
 
 ## Glossary
 

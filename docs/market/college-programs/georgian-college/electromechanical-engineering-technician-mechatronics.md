@@ -1,10 +1,10 @@
 ---
-title: "10.25.64 Electromechanical Engineering Technician - Mechatronics"
+title: "10.26.64 Electromechanical Engineering Technician - Mechatronics"
 description: "Market > College Programs > Georgian College > Electromechanical Engineering Technician - Mechatronics: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.64 Electromechanical Engineering Technician - Mechatronics
+# 10.26.64 Electromechanical Engineering Technician - Mechatronics
 
 ## Glossary
 

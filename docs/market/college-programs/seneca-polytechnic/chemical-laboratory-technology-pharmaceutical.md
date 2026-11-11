@@ -1,10 +1,10 @@
 ---
-title: "10.59.32 Chemical Laboratory Technology – Pharmaceutical"
+title: "10.60.32 Chemical Laboratory Technology – Pharmaceutical"
 description: "Market > College Programs > Seneca Polytechnic > Chemical Laboratory Technology – Pharmaceutical: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.32 Chemical Laboratory Technology – Pharmaceutical
+# 10.60.32 Chemical Laboratory Technology – Pharmaceutical
 
 ## Glossary
 

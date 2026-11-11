@@ -1,10 +1,10 @@
 ---
-title: "10.19.24 College Access"
+title: "10.20.24 College Access"
 description: "Market > College Programs > Confederation College > College Access: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.19.24 College Access
+# 10.20.24 College Access
 
 ## Glossary
 

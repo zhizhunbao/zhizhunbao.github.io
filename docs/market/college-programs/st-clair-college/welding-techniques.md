@@ -1,10 +1,10 @@
 ---
-title: "10.63.117 Welding Techniques"
+title: "10.64.117 Welding Techniques"
 description: "Market > College Programs > St. Clair College > Welding Techniques: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.117 Welding Techniques
+# 10.64.117 Welding Techniques
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.20.1 Academic Foundations for Potential Health Information Management Applicants"
+title: "10.21.1 Academic Foundations for Potential Health Information Management Applicants"
 description: "Market > College Programs > Douglas College > Academic Foundations for Potential Health Information Management Applicants: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.1 Academic Foundations for Potential Health Information Management Applicants
+# 10.21.1 Academic Foundations for Potential Health Information Management Applicants
 
 ## Glossary
 

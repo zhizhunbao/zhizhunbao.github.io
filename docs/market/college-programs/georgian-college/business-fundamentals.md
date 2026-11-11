@@ -1,10 +1,10 @@
 ---
-title: "10.25.31 Business Fundamentals"
+title: "10.26.31 Business Fundamentals"
 description: "Market > College Programs > Georgian College > Business Fundamentals: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.31 Business Fundamentals
+# 10.26.31 Business Fundamentals
 
 ## Glossary
 

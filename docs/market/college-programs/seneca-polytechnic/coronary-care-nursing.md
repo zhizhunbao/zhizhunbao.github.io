@@ -1,10 +1,10 @@
 ---
-title: "10.59.44 Coronary Care Nursing"
+title: "10.60.44 Coronary Care Nursing"
 description: "Market > College Programs > Seneca Polytechnic > Coronary Care Nursing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.44 Coronary Care Nursing
+# 10.60.44 Coronary Care Nursing
 
 ## Glossary
 

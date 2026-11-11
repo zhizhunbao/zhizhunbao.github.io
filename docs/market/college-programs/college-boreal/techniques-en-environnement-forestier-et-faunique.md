@@ -1,10 +1,10 @@
 ---
-title: "10.11.54 Techniques en environnement forestier et faunique"
+title: "10.12.54 Techniques en environnement forestier et faunique"
 description: "Market > College Programs > Collège Boréal > Techniques en environnement forestier et faunique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.54 Techniques en environnement forestier et faunique
+# 10.12.54 Techniques en environnement forestier et faunique
 
 ## Glossary
 

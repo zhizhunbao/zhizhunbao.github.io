@@ -1,10 +1,10 @@
 ---
-title: "10.18.134 Machining for Manufacturing"
+title: "10.19.134 Machining for Manufacturing"
 description: "Market > College Programs > Conestoga College > Machining for Manufacturing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.134 Machining for Manufacturing
+# 10.19.134 Machining for Manufacturing
 
 ## Glossary
 

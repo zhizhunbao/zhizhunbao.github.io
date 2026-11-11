@@ -1,10 +1,10 @@
 ---
-title: "10.47 Northern Lakes College"
+title: "10.48 Northern Lakes College"
 description: "Market > College Programs > Northern Lakes College: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47 Northern Lakes College
+# 10.48 Northern Lakes College
 
 ## Glossary
 

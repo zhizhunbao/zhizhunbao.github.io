@@ -1,10 +1,10 @@
 ---
-title: "10.63.114 Supply Chain Management"
+title: "10.64.114 Supply Chain Management"
 description: "Market > College Programs > St. Clair College > Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.114 Supply Chain Management
+# 10.64.114 Supply Chain Management
 
 ## Glossary
 

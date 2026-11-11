@@ -1,10 +1,10 @@
 ---
-title: "10.59.153 Sports, Entertainment & Event Marketing"
+title: "10.60.153 Sports, Entertainment & Event Marketing"
 description: "Market > College Programs > Seneca Polytechnic > Sports, Entertainment & Event Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.153 Sports, Entertainment & Event Marketing
+# 10.60.153 Sports, Entertainment & Event Marketing
 
 ## Glossary
 

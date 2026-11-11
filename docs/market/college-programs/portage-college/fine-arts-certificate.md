@@ -1,10 +1,10 @@
 ---
-title: "10.53.18 Fine Arts Certificate"
+title: "10.54.18 Fine Arts Certificate"
 description: "Market > College Programs > Portage College > Fine Arts Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.53.18 Fine Arts Certificate
+# 10.54.18 Fine Arts Certificate
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.32.105 Paramedic"
+title: "10.33.105 Paramedic"
 description: "Market > College Programs > Lambton College > Paramedic: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.105 Paramedic
+# 10.33.105 Paramedic
 
 ## Glossary
 

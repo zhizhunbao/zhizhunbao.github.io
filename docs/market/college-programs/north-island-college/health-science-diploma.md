@@ -1,10 +1,10 @@
 ---
-title: "10.43.14 Health Science Diploma"
+title: "10.44.14 Health Science Diploma"
 description: "Market > College Programs > North Island College > Health Science Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.43.14 Health Science Diploma
+# 10.44.14 Health Science Diploma
 
 ## Glossary
 

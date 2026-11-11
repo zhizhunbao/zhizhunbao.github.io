@@ -1,10 +1,10 @@
 ---
-title: "10.22.6 Advanced Filmmaking"
+title: "10.23.6 Advanced Filmmaking"
 description: "Market > College Programs > Fanshawe College > Advanced Filmmaking: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.22.6 Advanced Filmmaking
+# 10.23.6 Advanced Filmmaking
 
 ## Glossary
 

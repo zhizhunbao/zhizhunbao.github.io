@@ -1,10 +1,10 @@
 ---
-title: "10.20.39 Digital Marketing"
+title: "10.21.39 Digital Marketing"
 description: "Market > College Programs > Douglas College > Digital Marketing: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.39 Digital Marketing
+# 10.21.39 Digital Marketing
 
 ## Glossary
 

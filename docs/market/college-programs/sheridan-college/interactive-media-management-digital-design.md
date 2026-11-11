@@ -1,10 +1,10 @@
 ---
-title: "10.60.77 Interactive Media Management – Digital Design"
+title: "10.61.77 Interactive Media Management – Digital Design"
 description: "Market > College Programs > Sheridan College > Interactive Media Management – Digital Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.60.77 Interactive Media Management – Digital Design
+# 10.61.77 Interactive Media Management – Digital Design
 
 ## Glossary
 

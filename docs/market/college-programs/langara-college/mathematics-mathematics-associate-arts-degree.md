@@ -1,10 +1,10 @@
 ---
-title: "10.33.77 Mathematics (mathematics-associate-arts-degree)"
+title: "10.34.77 Mathematics (mathematics-associate-arts-degree)"
 description: "Market > College Programs > Langara College > Mathematics (mathematics-associate-arts-degree): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.77 Mathematics (mathematics-associate-arts-degree)
+# 10.34.77 Mathematics (mathematics-associate-arts-degree)
 
 ## Glossary
 

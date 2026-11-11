@@ -1,10 +1,10 @@
 ---
-title: "10.66.12 Baking and Pastry Arts"
+title: "10.67.12 Baking and Pastry Arts"
 description: "Market > College Programs > Vancouver Community College > Baking and Pastry Arts: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.12 Baking and Pastry Arts
+# 10.67.12 Baking and Pastry Arts
 
 ## Glossary
 

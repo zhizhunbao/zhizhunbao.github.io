@@ -1,10 +1,10 @@
 ---
-title: "10.18.77 Construction Techniques (Carpentry, Electrical, HVAC and Welding)"
+title: "10.19.77 Construction Techniques (Carpentry, Electrical, HVAC and Welding)"
 description: "Market > College Programs > Conestoga College > Construction Techniques (Carpentry, Electrical, HVAC and Welding): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.77 Construction Techniques (Carpentry, Electrical, HVAC and Welding)
+# 10.19.77 Construction Techniques (Carpentry, Electrical, HVAC and Welding)
 
 ## Glossary
 

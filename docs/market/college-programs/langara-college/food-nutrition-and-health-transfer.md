@@ -1,10 +1,10 @@
 ---
-title: "10.33.58 Food, Nutrition, and Health Transfer"
+title: "10.34.58 Food, Nutrition, and Health Transfer"
 description: "Market > College Programs > Langara College > Food, Nutrition, and Health Transfer: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.58 Food, Nutrition, and Health Transfer
+# 10.34.58 Food, Nutrition, and Health Transfer
 
 ## Glossary
 

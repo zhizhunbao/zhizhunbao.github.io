@@ -1,10 +1,10 @@
 ---
-title: "10.49.9 Early Learning & Child Care (ELCC)"
+title: "10.50.9 Early Learning & Child Care (ELCC)"
 description: "Market > College Programs > Northwestern Polytechnic > Early Learning & Child Care (ELCC): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.49.9 Early Learning & Child Care (ELCC)
+# 10.50.9 Early Learning & Child Care (ELCC)
 
 ## Glossary
 

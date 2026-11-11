@@ -1,10 +1,10 @@
 ---
-title: "10.14.39 Design graphique"
+title: "10.15.39 Design graphique"
 description: "Market > College Programs > Collège La Cité > Design graphique: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.39 Design graphique
+# 10.15.39 Design graphique
 
 ## Glossary
 

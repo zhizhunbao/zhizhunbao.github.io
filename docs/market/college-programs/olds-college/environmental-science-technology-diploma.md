@@ -1,10 +1,10 @@
 ---
-title: "10.52.15 Environmental Science & Technology Diploma"
+title: "10.53.15 Environmental Science & Technology Diploma"
 description: "Market > College Programs > Olds College > Environmental Science & Technology Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.52.15 Environmental Science & Technology Diploma
+# 10.53.15 Environmental Science & Technology Diploma
 
 ## Glossary
 

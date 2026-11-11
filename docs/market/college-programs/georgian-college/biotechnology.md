@@ -1,10 +1,10 @@
 ---
-title: "10.25.17 Biotechnology"
+title: "10.26.17 Biotechnology"
 description: "Market > College Programs > Georgian College > Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.17 Biotechnology
+# 10.26.17 Biotechnology
 
 ## Glossary
 

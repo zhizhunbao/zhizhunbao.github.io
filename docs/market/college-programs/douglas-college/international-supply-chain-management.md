@@ -1,10 +1,10 @@
 ---
-title: "10.20.65 International Supply Chain Management"
+title: "10.21.65 International Supply Chain Management"
 description: "Market > College Programs > Douglas College > International Supply Chain Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.65 International Supply Chain Management
+# 10.21.65 International Supply Chain Management
 
 ## Glossary
 

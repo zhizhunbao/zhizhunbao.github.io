@@ -1,10 +1,10 @@
 ---
-title: "10.46.53 Veterinary Technology – Wildlife Rehabilitation"
+title: "10.47.53 Veterinary Technology – Wildlife Rehabilitation"
 description: "Market > College Programs > Northern College > Veterinary Technology – Wildlife Rehabilitation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.46.53 Veterinary Technology – Wildlife Rehabilitation
+# 10.47.53 Veterinary Technology – Wildlife Rehabilitation
 
 ## Glossary
 

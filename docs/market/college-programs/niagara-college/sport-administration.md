@@ -1,10 +1,10 @@
 ---
-title: "10.41.84 Sport Administration"
+title: "10.42.84 Sport Administration"
 description: "Market > College Programs > Niagara College > Sport Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.41.84 Sport Administration
+# 10.42.84 Sport Administration
 
 ## Glossary
 

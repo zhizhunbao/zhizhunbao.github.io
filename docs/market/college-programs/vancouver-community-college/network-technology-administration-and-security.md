@@ -1,10 +1,10 @@
 ---
-title: "10.66.43 Network Technology Administration and Security"
+title: "10.67.43 Network Technology Administration and Security"
 description: "Market > College Programs > Vancouver Community College > Network Technology Administration and Security: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.66.43 Network Technology Administration and Security
+# 10.67.43 Network Technology Administration and Security
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.35.14 Career and College Prep"
+title: "10.36.14 Career and College Prep"
 description: "Market > College Programs > Loyalist College > Career and College Prep: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.35.14 Career and College Prep
+# 10.36.14 Career and College Prep
 
 ## Glossary
 

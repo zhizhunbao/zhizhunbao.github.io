@@ -1,10 +1,10 @@
 ---
-title: "10.56.33 Health Care Cook"
+title: "10.57.33 Health Care Cook"
 description: "Market > College Programs > Saskatchewan Polytechnic > Health Care Cook: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.56.33 Health Care Cook
+# 10.57.33 Health Care Cook
 
 ## Glossary
 

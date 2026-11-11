@@ -1,10 +1,10 @@
 ---
-title: "10.18.142 Mechanical Technician - General Machinist (Optional Co-op)"
+title: "10.19.142 Mechanical Technician - General Machinist (Optional Co-op)"
 description: "Market > College Programs > Conestoga College > Mechanical Technician - General Machinist (Optional Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.18.142 Mechanical Technician - General Machinist (Optional Co-op)
+# 10.19.142 Mechanical Technician - General Machinist (Optional Co-op)
 
 ## Glossary
 

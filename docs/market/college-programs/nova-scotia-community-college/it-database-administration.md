@@ -1,10 +1,10 @@
 ---
-title: "10.50.78 IT Database Administration"
+title: "10.51.78 IT Database Administration"
 description: "Market > College Programs > Nova Scotia Community College > IT Database Administration: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.50.78 IT Database Administration
+# 10.51.78 IT Database Administration
 
 ## Glossary
 

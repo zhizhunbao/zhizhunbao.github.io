@@ -1,10 +1,10 @@
 ---
-title: "10.39.15 Biotechnology - Advanced"
+title: "10.40.15 Biotechnology - Advanced"
 description: "Market > College Programs > Mohawk College > Biotechnology - Advanced: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.15 Biotechnology - Advanced
+# 10.40.15 Biotechnology - Advanced
 
 ## Glossary
 

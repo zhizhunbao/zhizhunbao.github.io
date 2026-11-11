@@ -1,10 +1,10 @@
 ---
-title: "10.62.87 Mechanical Engineering Technology"
+title: "10.63.87 Mechanical Engineering Technology"
 description: "Market > College Programs > Southern Alberta Institute of Technology > Mechanical Engineering Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.62.87 Mechanical Engineering Technology
+# 10.63.87 Mechanical Engineering Technology
 
 ## Glossary
 

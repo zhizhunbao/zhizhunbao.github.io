@@ -1,10 +1,10 @@
 ---
-title: "10.31.25 Early Childhood Education Certificate, 1-year (Vermilion)"
+title: "10.32.25 Early Childhood Education Certificate, 1-year (Vermilion)"
 description: "Market > College Programs > Lakeland College > Early Childhood Education Certificate, 1-year (Vermilion): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.31.25 Early Childhood Education Certificate, 1-year (Vermilion)
+# 10.32.25 Early Childhood Education Certificate, 1-year (Vermilion)
 
 ## Glossary
 

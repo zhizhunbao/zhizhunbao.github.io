@@ -1,10 +1,10 @@
 ---
-title: "10.16.17 Chemical Process Engineering Technology (Co-op)"
+title: "10.17.17 Chemical Process Engineering Technology (Co-op)"
 description: "Market > College Programs > College of the North Atlantic > Chemical Process Engineering Technology (Co-op): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.17 Chemical Process Engineering Technology (Co-op)
+# 10.17.17 Chemical Process Engineering Technology (Co-op)
 
 ## Glossary
 

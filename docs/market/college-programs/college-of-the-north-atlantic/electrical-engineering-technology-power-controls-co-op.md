@@ -1,10 +1,10 @@
 ---
-title: "10.16.38 Electrical Engineering Technology (Power & Controls) Co-op"
+title: "10.17.38 Electrical Engineering Technology (Power & Controls) Co-op"
 description: "Market > College Programs > College of the North Atlantic > Electrical Engineering Technology (Power & Controls) Co-op: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.38 Electrical Engineering Technology (Power & Controls) Co-op
+# 10.17.38 Electrical Engineering Technology (Power & Controls) Co-op
 
 ## Glossary
 

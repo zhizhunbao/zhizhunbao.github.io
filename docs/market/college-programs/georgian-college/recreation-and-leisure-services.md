@@ -1,10 +1,10 @@
 ---
-title: "10.25.146 Recreation and Leisure Services"
+title: "10.26.146 Recreation and Leisure Services"
 description: "Market > College Programs > Georgian College > Recreation and Leisure Services: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.25.146 Recreation and Leisure Services
+# 10.26.146 Recreation and Leisure Services
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.63.103 Project Management"
+title: "10.64.103 Project Management"
 description: "Market > College Programs > St. Clair College > Project Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.63.103 Project Management
+# 10.64.103 Project Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.59.147 Real Property Administration (Assessment & Appraisal) (Accelerated)"
+title: "10.60.147 Real Property Administration (Assessment & Appraisal) (Accelerated)"
 description: "Market > College Programs > Seneca Polytechnic > Real Property Administration (Assessment & Appraisal) (Accelerated): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.147 Real Property Administration (Assessment & Appraisal) (Accelerated)
+# 10.60.147 Real Property Administration (Assessment & Appraisal) (Accelerated)
 
 ## Glossary
 

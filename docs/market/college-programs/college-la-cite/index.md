@@ -1,10 +1,10 @@
 ---
-title: "10.14 Collège La Cité"
+title: "10.15 Collège La Cité"
 description: "Market > College Programs > Collège La Cité: its rankings and its programs with their CIP codes, one page per program with its courses; skeleton, definitions pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14 Collège La Cité
+# 10.15 Collège La Cité
 
 ## Glossary
 

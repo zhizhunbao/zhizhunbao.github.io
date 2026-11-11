@@ -1,10 +1,10 @@
 ---
-title: "10.33.12 Bioinformatics (bioinformatics-baccalaureate-degree-we)"
+title: "10.34.12 Bioinformatics (bioinformatics-baccalaureate-degree-we)"
 description: "Market > College Programs > Langara College > Bioinformatics (bioinformatics-baccalaureate-degree-we): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.12 Bioinformatics (bioinformatics-baccalaureate-degree-we)
+# 10.34.12 Bioinformatics (bioinformatics-baccalaureate-degree-we)
 
 ## Glossary
 

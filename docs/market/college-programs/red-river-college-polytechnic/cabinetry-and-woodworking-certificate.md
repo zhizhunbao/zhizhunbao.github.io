@@ -1,10 +1,10 @@
 ---
-title: "10.55.10 Cabinetry and Woodworking - Certificate"
+title: "10.56.10 Cabinetry and Woodworking - Certificate"
 description: "Market > College Programs > Red River College Polytechnic > Cabinetry and Woodworking - Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.55.10 Cabinetry and Woodworking - Certificate
+# 10.56.10 Cabinetry and Woodworking - Certificate
 
 ## Glossary
 

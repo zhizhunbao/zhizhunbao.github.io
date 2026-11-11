@@ -1,10 +1,10 @@
 ---
-title: "10.39.77 Practical Nursing (PSW to PN Bridging Stream)"
+title: "10.40.77 Practical Nursing (PSW to PN Bridging Stream)"
 description: "Market > College Programs > Mohawk College > Practical Nursing (PSW to PN Bridging Stream): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.77 Practical Nursing (PSW to PN Bridging Stream)
+# 10.40.77 Practical Nursing (PSW to PN Bridging Stream)
 
 ## Glossary
 

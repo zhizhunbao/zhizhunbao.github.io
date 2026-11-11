@@ -1,10 +1,10 @@
 ---
-title: "10.20.51 General Business (ctgbus)"
+title: "10.21.51 General Business (ctgbus)"
 description: "Market > College Programs > Douglas College > General Business (ctgbus): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.20.51 General Business (ctgbus)
+# 10.21.51 General Business (ctgbus)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.23.66 Practical Nursing (Part-time)"
+title: "10.24.66 Practical Nursing (Part-time)"
 description: "Market > College Programs > Fleming College > Practical Nursing (Part-time): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.23.66 Practical Nursing (Part-time)
+# 10.24.66 Practical Nursing (Part-time)
 
 ## Glossary
 

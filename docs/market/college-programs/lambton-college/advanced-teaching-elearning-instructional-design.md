@@ -1,10 +1,10 @@
 ---
-title: "10.32.7 Advanced Teaching - Elearning & Instructional Design"
+title: "10.33.7 Advanced Teaching - Elearning & Instructional Design"
 description: "Market > College Programs > Lambton College > Advanced Teaching - Elearning & Instructional Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.7 Advanced Teaching - Elearning & Instructional Design
+# 10.33.7 Advanced Teaching - Elearning & Instructional Design
 
 ## Glossary
 

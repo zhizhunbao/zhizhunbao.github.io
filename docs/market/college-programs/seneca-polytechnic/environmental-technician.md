@@ -1,10 +1,10 @@
 ---
-title: "10.59.59 Environmental Technician"
+title: "10.60.59 Environmental Technician"
 description: "Market > College Programs > Seneca Polytechnic > Environmental Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.59 Environmental Technician
+# 10.60.59 Environmental Technician
 
 ## Glossary
 

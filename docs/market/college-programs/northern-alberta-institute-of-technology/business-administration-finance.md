@@ -1,10 +1,10 @@
 ---
-title: "10.45.25 Business Administration - Finance"
+title: "10.46.25 Business Administration - Finance"
 description: "Market > College Programs > Northern Alberta Institute of Technology > Business Administration - Finance: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.45.25 Business Administration - Finance
+# 10.46.25 Business Administration - Finance
 
 ## Glossary
 

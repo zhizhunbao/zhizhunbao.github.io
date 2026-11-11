@@ -1,10 +1,10 @@
 ---
-title: "10.37.2 Applied Leadership"
+title: "10.38.2 Applied Leadership"
 description: "Market > College Programs > Manitoba Institute of Trades and Technology > Applied Leadership: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.37.2 Applied Leadership
+# 10.38.2 Applied Leadership
 
 ## Glossary
 

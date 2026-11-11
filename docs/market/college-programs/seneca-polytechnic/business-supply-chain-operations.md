@@ -1,10 +1,10 @@
 ---
-title: "10.59.30 Business – Supply Chain & Operations"
+title: "10.60.30 Business – Supply Chain & Operations"
 description: "Market > College Programs > Seneca Polytechnic > Business – Supply Chain & Operations: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.30 Business – Supply Chain & Operations
+# 10.60.30 Business – Supply Chain & Operations
 
 ## Glossary
 

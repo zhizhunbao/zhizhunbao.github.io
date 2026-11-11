@@ -1,10 +1,10 @@
 ---
-title: "10.13.9 Santé mentale et soins aux aînés"
+title: "10.14.9 Santé mentale et soins aux aînés"
 description: "Market > College Programs > Collège de l'Île > Santé mentale et soins aux aînés: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.13.9 Santé mentale et soins aux aînés
+# 10.14.9 Santé mentale et soins aux aînés
 
 ## Glossary
 

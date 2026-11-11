@@ -1,10 +1,10 @@
 ---
-title: "10.30.11 College Preparation"
+title: "10.31.11 College Preparation"
 description: "Market > College Programs > Keyano College > College Preparation: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.30.11 College Preparation
+# 10.31.11 College Preparation
 
 ## Glossary
 

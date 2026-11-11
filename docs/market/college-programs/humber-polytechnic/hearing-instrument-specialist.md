@@ -1,10 +1,10 @@
 ---
-title: "10.28.81 Hearing Instrument Specialist"
+title: "10.29.81 Hearing Instrument Specialist"
 description: "Market > College Programs > Humber Polytechnic > Hearing Instrument Specialist: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.28.81 Hearing Instrument Specialist
+# 10.29.81 Hearing Instrument Specialist
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.14.11 Administration des affaires – gestion des ressources humaines en mode coopératif"
+title: "10.15.11 Administration des affaires – gestion des ressources humaines en mode coopératif"
 description: "Market > College Programs > Collège La Cité > Administration des affaires – gestion des ressources humaines en mode coopératif: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.14.11 Administration des affaires – gestion des ressources humaines en mode coopératif
+# 10.15.11 Administration des affaires – gestion des ressources humaines en mode coopératif
 
 ## Glossary
 

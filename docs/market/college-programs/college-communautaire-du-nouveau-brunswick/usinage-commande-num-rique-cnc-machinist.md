@@ -1,10 +1,10 @@
 ---
-title: "10.12.68 Usinage à commande numérique (CNC Machinist)"
+title: "10.13.68 Usinage à commande numérique (CNC Machinist)"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Usinage à commande numérique (CNC Machinist): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.68 Usinage à commande numérique (CNC Machinist)
+# 10.13.68 Usinage à commande numérique (CNC Machinist)
 
 ## Glossary
 

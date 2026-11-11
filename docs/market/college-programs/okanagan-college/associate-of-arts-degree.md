@@ -1,10 +1,10 @@
 ---
-title: "10.51.5 Associate of Arts Degree"
+title: "10.52.5 Associate of Arts Degree"
 description: "Market > College Programs > Okanagan College > Associate of Arts Degree: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.51.5 Associate of Arts Degree
+# 10.52.5 Associate of Arts Degree
 
 ## Glossary
 

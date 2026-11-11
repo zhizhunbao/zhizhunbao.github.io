@@ -1,10 +1,10 @@
 ---
-title: "10.48.17 Post-Degree Diploma in Management Science"
+title: "10.49.17 Post-Degree Diploma in Management Science"
 description: "Market > College Programs > Northern Lights College > Post-Degree Diploma in Management Science: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.48.17 Post-Degree Diploma in Management Science
+# 10.49.17 Post-Degree Diploma in Management Science
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.39.6 Architectural Technology"
+title: "10.40.6 Architectural Technology"
 description: "Market > College Programs > Mohawk College > Architectural Technology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.39.6 Architectural Technology
+# 10.40.6 Architectural Technology
 
 ## Glossary
 

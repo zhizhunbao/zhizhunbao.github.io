@@ -1,10 +1,10 @@
 ---
-title: "10.59.20 Building Systems Engineering Technician"
+title: "10.60.20 Building Systems Engineering Technician"
 description: "Market > College Programs > Seneca Polytechnic > Building Systems Engineering Technician: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.20 Building Systems Engineering Technician
+# 10.60.20 Building Systems Engineering Technician
 
 ## Glossary
 

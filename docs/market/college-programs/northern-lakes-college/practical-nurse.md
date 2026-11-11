@@ -1,10 +1,10 @@
 ---
-title: "10.47.18 Practical Nurse"
+title: "10.48.18 Practical Nurse"
 description: "Market > College Programs > Northern Lakes College > Practical Nurse: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.47.18 Practical Nurse
+# 10.48.18 Practical Nurse
 
 ## Glossary
 

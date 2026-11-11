@@ -1,10 +1,10 @@
 ---
-title: "10.29.4 Cybercrime Analysis"
+title: "10.30.4 Cybercrime Analysis"
 description: "Market > College Programs > Justice Institute of British Columbia > Cybercrime Analysis: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.29.4 Cybercrime Analysis
+# 10.30.4 Cybercrime Analysis
 
 ## Glossary
 

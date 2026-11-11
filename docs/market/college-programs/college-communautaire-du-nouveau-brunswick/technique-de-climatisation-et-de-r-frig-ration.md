@@ -1,10 +1,10 @@
 ---
-title: "10.12.43 Technique de climatisation et de réfrigération"
+title: "10.13.43 Technique de climatisation et de réfrigération"
 description: "Market > College Programs > Collège communautaire du Nouveau-Brunswick > Technique de climatisation et de réfrigération: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.12.43 Technique de climatisation et de réfrigération
+# 10.13.43 Technique de climatisation et de réfrigération
 
 ## Glossary
 

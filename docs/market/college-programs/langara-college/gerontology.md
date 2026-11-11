@@ -1,10 +1,10 @@
 ---
-title: "10.33.60 Gerontology"
+title: "10.34.60 Gerontology"
 description: "Market > College Programs > Langara College > Gerontology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.33.60 Gerontology
+# 10.34.60 Gerontology
 
 ## Glossary
 

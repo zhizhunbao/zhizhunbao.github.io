@@ -1,10 +1,10 @@
 ---
-title: "10.16.100 Textile & Apparel Design"
+title: "10.17.100 Textile & Apparel Design"
 description: "Market > College Programs > College of the North Atlantic > Textile & Apparel Design: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.100 Textile & Apparel Design
+# 10.17.100 Textile & Apparel Design
 
 ## Glossary
 

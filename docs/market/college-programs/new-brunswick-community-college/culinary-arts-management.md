@@ -1,10 +1,10 @@
 ---
-title: "10.40.25 Culinary Arts Management"
+title: "10.41.25 Culinary Arts Management"
 description: "Market > College Programs > New Brunswick Community College > Culinary Arts Management: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.40.25 Culinary Arts Management
+# 10.41.25 Culinary Arts Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "10.16.28 Critical Care Paramedicine"
+title: "10.17.28 Critical Care Paramedicine"
 description: "Market > College Programs > College of the North Atlantic > Critical Care Paramedicine: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.16.28 Critical Care Paramedicine
+# 10.17.28 Critical Care Paramedicine
 
 ## Glossary
 

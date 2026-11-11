@@ -1,10 +1,10 @@
 ---
-title: "10.17.16 Environmental Studies Certificate"
+title: "10.18.16 Environmental Studies Certificate"
 description: "Market > College Programs > College of the Rockies > Environmental Studies Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.17.16 Environmental Studies Certificate
+# 10.18.16 Environmental Studies Certificate
 
 ## Glossary
 

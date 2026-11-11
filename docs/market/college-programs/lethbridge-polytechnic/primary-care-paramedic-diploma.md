@@ -1,10 +1,10 @@
 ---
-title: "10.34.54 Primary Care Paramedic Diploma"
+title: "10.35.54 Primary Care Paramedic Diploma"
 description: "Market > College Programs > Lethbridge Polytechnic > Primary Care Paramedic Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.34.54 Primary Care Paramedic Diploma
+# 10.35.54 Primary Care Paramedic Diploma
 
 ## Glossary
 

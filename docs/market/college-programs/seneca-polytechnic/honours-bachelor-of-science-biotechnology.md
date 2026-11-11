@@ -1,10 +1,10 @@
 ---
-title: "10.59.96 Honours Bachelor of Science – Biotechnology"
+title: "10.60.96 Honours Bachelor of Science – Biotechnology"
 description: "Market > College Programs > Seneca Polytechnic > Honours Bachelor of Science – Biotechnology: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.59.96 Honours Bachelor of Science – Biotechnology
+# 10.60.96 Honours Bachelor of Science – Biotechnology
 
 ## Glossary
 

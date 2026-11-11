@@ -1,10 +1,10 @@
 ---
-title: "10.32.6 Advanced Project Management - Information Technology (PMIT)"
+title: "10.33.6 Advanced Project Management - Information Technology (PMIT)"
 description: "Market > College Programs > Lambton College > Advanced Project Management - Information Technology (PMIT): the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.32.6 Advanced Project Management - Information Technology (PMIT)
+# 10.33.6 Advanced Project Management - Information Technology (PMIT)
 
 ## Glossary
 

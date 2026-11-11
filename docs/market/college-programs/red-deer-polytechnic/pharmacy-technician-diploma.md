@@ -1,10 +1,10 @@
 ---
-title: "10.54.34 Pharmacy Technician Diploma"
+title: "10.55.34 Pharmacy Technician Diploma"
 description: "Market > College Programs > Red Deer Polytechnic > Pharmacy Technician Diploma: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.54.34 Pharmacy Technician Diploma
+# 10.55.34 Pharmacy Technician Diploma
 
 ## Glossary
 

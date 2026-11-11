@@ -1,10 +1,10 @@
 ---
-title: "10.11.19 Hygiène dentaire"
+title: "10.12.19 Hygiène dentaire"
 description: "Market > College Programs > Collège Boréal > Hygiène dentaire: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.11.19 Hygiène dentaire
+# 10.12.19 Hygiène dentaire
 
 ## Glossary
 

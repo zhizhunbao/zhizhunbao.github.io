@@ -1,10 +1,10 @@
 ---
-title: "10.65.4 Bachelor of Indigenous Education"
+title: "10.66.4 Bachelor of Indigenous Education"
 description: "Market > College Programs > Suncrest College > Bachelor of Indigenous Education: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.4 Bachelor of Indigenous Education
+# 10.66.4 Bachelor of Indigenous Education
 
 ## Glossary
 

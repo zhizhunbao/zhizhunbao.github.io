@@ -1,10 +1,10 @@
 ---
-title: "10.65.13 Electrical Applied Certificate"
+title: "10.66.13 Electrical Applied Certificate"
 description: "Market > College Programs > Suncrest College > Electrical Applied Certificate: the courses of the program; skeleton, definition pending."
 ms.date: 2026-11-08
 ---
 
-# 10.65.13 Electrical Applied Certificate
+# 10.66.13 Electrical Applied Certificate
 
 ## Glossary
 
