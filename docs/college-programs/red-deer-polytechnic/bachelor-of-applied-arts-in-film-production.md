@@ -1,0 +1,78 @@
+---
+title: "55.6 Bachelor of Applied Arts in Film Production"
+description: "College Programs > Red Deer Polytechnic > Bachelor of Applied Arts in Film Production: the courses of the program; skeleton, definition pending."
+ms.date: 2026-11-08
+---
+
+# 55.6 Bachelor of Applied Arts in Film Production
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Bachelor of Applied Arts in Film Production**<br>电影制作应用艺术学士 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/programs/bachelor-applied-arts-film-production) |
+| **Communication for Creative Arts**<br>创意艺术沟通 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Production Fundamentals I**<br>制作基础 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Film Production I**<br>电影制作 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Introduction to Film Production**<br>电影制作导论 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **2D Visual Fundamentals**<br>2D视觉基础 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Drawing I**<br>绘画 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Storytelling I**<br>故事叙述 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Production Fundamentals II**<br>制作基础 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Directing I**<br>导演 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Storytelling II**<br>故事叙述 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Film Production II**<br>电影制作 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Documentary Fundamentals**<br>纪录片基础 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Projects I**<br>项目 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Film Production III**<br>电影制作 III | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Advanced Cinematography I**<br>高级电影摄影 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Business for Stage and Screen**<br>舞台与影视商务 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Workshops I**<br>工作坊 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Film Projects I**<br>电影项目 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Film Production IV**<br>电影制作 IV | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Business for Film Production**<br>电影制作商务 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Directing for Film I**<br>电影导演 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Workshops II**<br>工作坊 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Film Projects II**<br>电影项目 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Film Production V**<br>电影制作 V | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Screenwriting**<br>编剧 | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Directing for Film II**<br>电影导演 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Applied Practicum I**<br>应用实习 I | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| **Applied Practicum II**<br>应用实习 II | (Definition pending) | （定义待补） | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Source |
+|---|---|---|---|---|
+| YEAR 1 FALL COURSES |  | COMM 1210 | Communication for Creative Arts | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 1 FALL COURSES |  | PROD 1100 | Production Fundamentals I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 1 FALL COURSES |  | PROD 1103 | Film Production I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 1 WINTER COURSES |  | PROD 1001 | Introduction to Film Production | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 1 WINTER COURSES |  | ART 1231 | 2D Visual Fundamentals | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 1 WINTER COURSES |  | ART 1241 | Drawing I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 1 WINTER COURSES |  | CREA 1110 | Storytelling I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 1 WINTER COURSES |  | PROD 1101 | Production Fundamentals II | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 2 FALL COURSES |  | FTLE 2205 | Directing I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 2 FALL COURSES |  | FTLE 2210 | Storytelling II | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 2 FALL COURSES |  | PROD 2203 | Film Production II | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 2 FALL COURSES |  | PROD 2221 | Documentary Fundamentals | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 2 WINTER COURSES |  | FTLE 2220 | Projects I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 2 WINTER COURSES |  | PROD 2204 | Film Production III | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 2 WINTER COURSES |  | PROD 2205 | Advanced Cinematography I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 2 WINTER COURSES |  | FTLE 2215 | Business for Stage and Screen | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 FALL COURSES |  | FTLE 3305 | Workshops I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 FALL COURSES |  | PROD 3300 | Film Projects I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 FALL COURSES |  | PROD 3303 | Film Production IV | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 FALL COURSES |  | PROD 3307 | Business for Film Production | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 FALL COURSES |  | ACT 3326 | Directing for Film I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 WINTER COURSES |  | FTLE 3306 | Workshops II | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 WINTER COURSES |  | PROD 3301 | Film Projects II | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 WINTER COURSES |  | PROD 3304 | Film Production V | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 WINTER COURSES |  | PROD 3315 | Screenwriting | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 3 WINTER COURSES |  | ACT 3327 | Directing for Film II | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 4 FALL COURSES |  | FTLE 4405 | Applied Practicum I | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+| YEAR 4 WINTER COURSES |  | FTLE 4410 | Applied Practicum II | [Red Deer Polytechnic, n.d.](https://rdpolytech.ca/sites/default/files/2026-07/RDP%20Bachelor%20of%20Applied%20Arts%2C%20Film%20Production%20Academic%20Planning%20Guide%202026-2027%20updated.pdf) |
+
+## References
+
+Red Deer Polytechnic. (n.d.). *Bachelor of Applied Arts in Film Production*. Retrieved November 9, 2026, from <https://rdpolytech.ca/programs/bachelor-applied-arts-film-production>

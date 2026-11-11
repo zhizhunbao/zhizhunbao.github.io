@@ -1,0 +1,62 @@
+---
+title: "4.60 Forensic Investigation (Digital Forensics and Cybersecurity Option)"
+description: "College Programs > British Columbia Institute of Technology > Forensic Investigation (Digital Forensics and Cybersecurity Option): the courses of the program; skeleton, definition pending."
+ms.date: 2026-11-08
+---
+
+# 4.60 Forensic Investigation (Digital Forensics and Cybersecurity Option)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Forensic Investigation (Digital Forensics and Cybersecurity Option)**<br>法医调查（数字取证与网络安全方向） | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Forensic Applications of Criminal Law 1: Legal Procedures**<br>刑法 1 的法医学应用：法律程序 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Introduction to Digital Forensics and Evidence Imaging**<br>数字取证与证据成像导论 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Cybersecurity Foundations**<br>网络安全基础 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Digital Forensics in the Cloud**<br>云端数字取证 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Critical Reading and Writing**<br>批判性阅读与写作 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Criminal Law 2: Legal Evidence**<br>刑法 2：法律证据 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Research Methodology and Measurement Models**<br>研究方法论与测量模型 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Mobile Forensics**<br>移动设备取证 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Digital Forensics 1**<br>数字取证 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Network Security 1**<br>网络安全 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Principles of Incident Response and Disaster Recovery**<br>事件响应与灾难恢复原理 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Digital Forensics 2**<br>数字取证 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Network Security 2**<br>网络安全 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Security Applications**<br>安全应用 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Graduation Project 1**<br>毕业项目 1 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Management Skills and Applications**<br>管理技能与应用 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Report Writing and Workplace Communication for Forensic Investigation**<br>法庭调查报告撰写与职场沟通 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Network Exploits and Vulnerabilities**<br>网络漏洞利用与脆弱性 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Graduation Project 2**<br>毕业项目 2 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| **Applied Ethics**<br>应用伦理学 | (Definition pending) | （定义待补） | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Source |
+|---|---|---|---|---|
+| Full-time option: Term 1 (15 weeks) |  | FSCT 7001 | Forensic Applications of Criminal Law 1: Legal Procedures | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Full-time option: Term 1 (15 weeks) |  | FSCT 7509 | Introduction to Digital Forensics and Evidence Imaging | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Full-time option: Term 1 (15 weeks) |  | FSCT 7511 | Cybersecurity Foundations | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Full-time option: Term 1 (15 weeks) |  | FSCT 7512 | Digital Forensics in the Cloud | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Full-time option: Term 1 (15 weeks) |  | LIBS 7001 | Critical Reading and Writing | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 2 (15 weeks) |  | FSCT 7002 | Criminal Law 2: Legal Evidence | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 2 (15 weeks) |  | FSCT 7910 | Research Methodology and Measurement Models | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 2 (15 weeks) |  | FSCT 8500 | Mobile Forensics | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 2 (15 weeks) |  | FSCT 8513 | Digital Forensics 1 | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 2 (15 weeks) |  | FSCT 8540 | Network Security 1 | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 3 (15 weeks) |  | FSCT 7131 | Principles of Incident Response and Disaster Recovery | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 3 (15 weeks) |  | FSCT 8523 | Digital Forensics 2 | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 3 (15 weeks) |  | FSCT 8560 | Network Security 2 | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 3 (15 weeks) |  | FSCT 8561 | Security Applications | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 3 (15 weeks) |  | FSCT 8611 | Graduation Project 1 | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 4 (15 weeks) |  | BUSA 7250 | Management Skills and Applications | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 4 (15 weeks) |  | COMM 7200 | Report Writing and Workplace Communication for Forensic Investigation | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 4 (15 weeks) |  | FSCT 8590 | Network Exploits and Vulnerabilities | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 4 (15 weeks) |  | FSCT 8622 | Graduation Project 2 | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+| Term 4 (15 weeks) |  | LIBS 7002 | Applied Ethics | [British Columbia Institute of Technology, n.d.](https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/) |
+
+## References
+
+British Columbia Institute of Technology. (n.d.). *Forensic Investigation (Digital Forensics and Cybersecurity Option)*. Retrieved November 8, 2026, from <https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/>

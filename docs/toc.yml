@@ -59,5 +59,11 @@ items:
   href: courses/
 - name: Market
   href: market/
+- name: Schools
+  items:
+  - name: College Programs
+    href: college-programs/
+  - name: University Programs
+    href: university-programs/
 - name: Blog
   href: blog/

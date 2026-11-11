@@ -1,0 +1,163 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. McGill University"
+  href: mcgill-university/index.md
+- name: "2. University of Toronto"
+  href: university-of-toronto/index.md
+- name: "3. The University of British Columbia"
+  href: the-university-of-british-columbia/index.md
+- name: "4. University of Waterloo"
+  href: university-of-waterloo/index.md
+- name: "5. Queen’s University"
+  href: queens-university/index.md
+- name: "6. University of Alberta"
+  href: university-of-alberta/index.md
+- name: "7. McMaster University"
+  href: mcmaster-university/index.md
+- name: "8. University of Ottawa"
+  href: university-of-ottawa/index.md
+- name: "9. University of Calgary"
+  href: university-of-calgary/index.md
+- name: "10. Western University"
+  href: western-university/index.md
+- name: "11. Université Laval"
+  href: universite-laval/index.md
+- name: "12. Université de Montréal"
+  href: universite-de-montreal/index.md
+- name: "13. York University"
+  href: york-university/index.md
+- name: "14. Toronto Metropolitan University"
+  href: toronto-metropolitan-university/index.md
+- name: "15. Concordia University"
+  href: concordia-university/index.md
+- name: "16. Simon Fraser University"
+  href: simon-fraser-university/index.md
+- name: "17. University of Victoria"
+  href: university-of-victoria/index.md
+- name: "18. Dalhousie University"
+  href: dalhousie-university/index.md
+- name: "19. Carleton University"
+  href: carleton-university/index.md
+- name: "20. University of Guelph"
+  href: university-of-guelph/index.md
+- name: "21. University of Saskatchewan"
+  href: university-of-saskatchewan/index.md
+- name: "22. University of Manitoba"
+  href: university-of-manitoba/index.md
+- name: "23. Université de Sherbrooke"
+  href: universite-de-sherbrooke/index.md
+- name: "24. Wilfrid Laurier University"
+  href: wilfrid-laurier-university/index.md
+- name: "25. Université du Québec à Montréal"
+  href: universite-du-quebec-a-montreal/index.md
+- name: "26. Brock University"
+  href: brock-university/index.md
+- name: "27. Memorial University of Newfoundland"
+  href: memorial-university-of-newfoundland/index.md
+- name: "28. Trent University"
+  href: trent-university/index.md
+- name: "29. University of Windsor"
+  href: university-of-windsor/index.md
+- name: "30. Ontario Tech University"
+  href: ontario-tech-university/index.md
+- name: "31. University of Regina"
+  href: university-of-regina/index.md
+- name: "32. Thompson Rivers University"
+  href: thompson-rivers-university/index.md
+- name: "33. Mount Royal University"
+  href: mount-royal-university/index.md
+- name: "34. MacEwan University"
+  href: macewan-university/index.md
+- name: "35. Mount Allison University"
+  href: mount-allison-university/index.md
+- name: "36. University of Northern British Columbia"
+  href: university-of-northern-british-columbia/index.md
+- name: "37. St. Francis Xavier University"
+  href: st-francis-xavier-university/index.md
+- name: "38. Acadia University"
+  href: acadia-university/index.md
+- name: "39. University of New Brunswick"
+  href: university-of-new-brunswick/index.md
+- name: "40. Bishop's University"
+  href: bishop-s-university/index.md
+- name: "41. Saint Mary's University"
+  href: saint-mary-s-university/index.md
+- name: "42. Lakehead University"
+  href: lakehead-university/index.md
+- name: "43. University of Lethbridge"
+  href: university-of-lethbridge/index.md
+- name: "44. University of Prince Edward Island"
+  href: university-of-prince-edward-island/index.md
+- name: "45. St Thomas University"
+  href: st-thomas-university/index.md
+- name: "46. Université de Moncton"
+  href: universite-de-moncton/index.md
+- name: "47. University of Winnipeg"
+  href: university-of-winnipeg/index.md
+- name: "48. Laurentian University"
+  href: laurentian-university/index.md
+- name: "49. Nipissing University"
+  href: nipissing-university/index.md
+- name: "50. Brandon University"
+  href: brandon-university/index.md
+- name: "51. Mount Saint Vincent University"
+  href: mount-saint-vincent-university/index.md
+- name: "52. University of the Fraser Valley"
+  href: university-of-the-fraser-valley/index.md
+- name: "53. Cape Breton University"
+  href: cape-breton-university/index.md
+- name: "54. Algoma University"
+  href: algoma-university/index.md
+- name: "55. Concordia University of Edmonton"
+  href: concordia-university-of-edmonton/index.md
+- name: "56. Vancouver Island University"
+  href: vancouver-island-university/index.md
+- name: "57. Alberta University of the Arts"
+  href: alberta-university-of-the-arts/index.md
+- name: "58. Athabasca University"
+  href: athabasca-university/index.md
+- name: "59. Burman University"
+  href: burman-university/index.md
+- name: "60. Capilano University"
+  href: capilano-university/index.md
+- name: "61. Emily Carr University of Art + Design"
+  href: emily-carr-university-of-art-design/index.md
+- name: "62. The King's University"
+  href: the-king-s-university/index.md
+- name: "63. Kwantlen Polytechnic University"
+  href: kwantlen-polytechnic-university/index.md
+- name: "64. NSCAD University"
+  href: nscad-university/index.md
+- name: "65. OCAD University"
+  href: ocad-university/index.md
+- name: "66. Royal Roads University"
+  href: royal-roads-university/index.md
+- name: "67. St. Mary's University"
+  href: st-mary-s-university/index.md
+- name: "68. Université de Hearst"
+  href: universite-de-hearst/index.md
+- name: "69. Université de l'Ontario français"
+  href: universite-de-l-ontario-francais/index.md
+- name: "70. Université de Saint-Boniface"
+  href: universite-de-saint-boniface/index.md
+- name: "71. Université du Québec à Chicoutimi"
+  href: universite-du-quebec-a-chicoutimi/index.md
+- name: "72. Université du Québec à Rimouski"
+  href: universite-du-quebec-a-rimouski/index.md
+- name: "73. Université du Québec à Trois-Rivières"
+  href: universite-du-quebec-a-trois-rivieres/index.md
+- name: "74. Université du Québec en Abitibi-Témiscamingue"
+  href: universite-du-quebec-en-abitibi-temiscamingue/index.md
+- name: "75. Université du Québec en Outaouais"
+  href: universite-du-quebec-en-outaouais/index.md
+- name: "76. Université Sainte-Anne"
+  href: universite-sainte-anne/index.md
+- name: "77. Université TÉLUQ"
+  href: universite-teluq/index.md
+- name: "78. University College of the North"
+  href: university-college-of-the-north/index.md
+- name: "79. University of King's College"
+  href: university-of-king-s-college/index.md
+- name: "80. Yukon University"
+  href: yukon-university/index.md
