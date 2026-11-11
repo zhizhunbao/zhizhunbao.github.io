@@ -1,0 +1,60 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Guide"
+  href: guide/index.md
+  items:
+  - name: "1.1 Get Started"
+    href: guide/get-started/index.md
+    items:
+    - name: "1.1.1 Cloud"
+      href: guide/get-started/1-1-1-cloud.md
+  - name: "1.2 Capabilities"
+    href: guide/capabilities/index.md
+    items:
+    - name: "1.2.1 Streaming"
+      href: guide/capabilities/1-2-1-streaming.md
+    - name: "1.2.2 Thinking"
+      href: guide/capabilities/1-2-2-thinking.md
+    - name: "1.2.3 Structured Outputs"
+      href: guide/capabilities/1-2-3-structured-outputs.md
+    - name: "1.2.4 Decision"
+      href: guide/capabilities/1-2-4-decision.md
+    - name: "1.2.5 Vision"
+      href: guide/capabilities/1-2-5-vision.md
+    - name: "1.2.6 Embeddings"
+      href: guide/capabilities/1-2-6-embeddings.md
+    - name: "1.2.7 Speech"
+      href: guide/capabilities/1-2-7-speech.md
+    - name: "1.2.8 Tool Calling"
+      href: guide/capabilities/1-2-8-tool-calling.md
+    - name: "1.2.9 Web Search"
+      href: guide/capabilities/1-2-9-web-search.md
+  - name: "1.3 More Information"
+    href: guide/more-information/index.md
+    items:
+    - name: "1.3.1 CLI Reference"
+      href: guide/more-information/1-3-1-cli-reference.md
+    - name: "1.3.2 Modelfile"
+      href: guide/more-information/1-3-2-modelfile.md
+    - name: "1.3.3 Context Length"
+      href: guide/more-information/1-3-3-context-length.md
+    - name: "1.3.4 Hardware Support"
+      href: guide/more-information/1-3-4-hardware-support.md
+- name: "2. Integrations"
+  href: 2-integrations.md
+- name: "3. API Reference"
+  href: api-reference/index.md
+  items:
+  - name: "3.1 Authentication"
+    href: api-reference/3-1-authentication.md
+  - name: "3.2 Streaming"
+    href: api-reference/3-2-streaming.md
+  - name: "3.3 Usage"
+    href: api-reference/3-3-usage.md
+  - name: "3.4 Errors"
+    href: api-reference/3-4-errors.md
+  - name: "3.5 OpenAI Compatibility"
+    href: api-reference/3-5-openai-compatibility.md
+  - name: "3.6 Anthropic Compatibility"
+    href: api-reference/3-6-anthropic-compatibility.md

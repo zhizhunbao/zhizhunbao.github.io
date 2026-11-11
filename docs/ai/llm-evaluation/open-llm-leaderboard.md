@@ -6,6 +6,10 @@ ms.date: 2026-11-10
 
 # Open LLM Leaderboard
 
+## Classification
+
+![Open LLM Leaderboard: its 14 terms, in LLM Evaluation.](media/open-llm-leaderboard.png)
+
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |

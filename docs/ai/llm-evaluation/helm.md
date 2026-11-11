@@ -6,6 +6,10 @@ ms.date: 2026-11-10
 
 # HELM
 
+## Classification
+
+![HELM: its 15 terms, in LLM Evaluation.](media/helm.png)
+
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |

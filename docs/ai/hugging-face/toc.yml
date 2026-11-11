@@ -1,0 +1,136 @@
+items:
+- name: Overview
+  href: index.md
+- name: "Hub"
+  href: hub/index.md
+  items:
+  - name: "Model Cards"
+    href: hub/model-cards.md
+  - name: "Eval Results"
+    href: hub/eval-results.md
+  - name: "GGUF"
+    href: hub/gguf.md
+- name: "Transformers"
+  href: transformers/index.md
+  items:
+  - name: "1. Get Started"
+    href: transformers/get-started/index.md
+    items:
+    - name: "1.1 Transformers"
+      href: transformers/get-started/transformers.md
+    - name: "1.2 Installation"
+      href: transformers/get-started/installation.md
+    - name: "1.3 Quickstart"
+      href: transformers/get-started/quickstart.md
+  - name: "2. Base Classes"
+    href: transformers/base-classes/index.md
+    items:
+    - name: "2.1 Models"
+      href: transformers/base-classes/models.md
+    - name: "2.2 Preprocessors"
+      href: transformers/base-classes/preprocessors.md
+  - name: "3. Inference"
+    href: transformers/inference/index.md
+    items:
+    - name: "3.1 Pipeline API"
+      href: transformers/inference/pipeline-api.md
+    - name: "3.2 Generate API"
+      href: transformers/inference/generate-api.md
+    - name: "3.3 Optimization"
+      href: transformers/inference/optimization.md
+    - name: "3.4 Chat with Models"
+      href: transformers/inference/chat-with-models.md
+    - name: "3.5 Serving"
+      href: transformers/inference/serving.md
+  - name: "4. Training"
+    href: transformers/training/index.md
+    items:
+    - name: "4.1 Get Started"
+      href: transformers/training/get-started.md
+    - name: "4.2 Customization"
+      href: transformers/training/customization.md
+    - name: "4.3 Parameter-Efficient Fine-Tuning"
+      href: transformers/training/parameter-efficient-fine-tuning.md
+    - name: "4.4 Performance"
+      href: transformers/training/performance.md
+    - name: "4.5 Distributed Training"
+      href: transformers/training/distributed-training.md
+  - name: "5. Hardware"
+    href: transformers/hardware/index.md
+    items:
+    - name: "5.1 Overview"
+      href: transformers/hardware/overview.md
+    - name: "5.2 CPU"
+      href: transformers/hardware/cpu.md
+    - name: "5.3 NVIDIA GPU"
+      href: transformers/hardware/nvidia-gpu.md
+    - name: "5.4 AMD GPU"
+      href: transformers/hardware/amd-gpu.md
+    - name: "5.5 Intel GPU"
+      href: transformers/hardware/intel-gpu.md
+    - name: "5.6 Apple Silicon"
+      href: transformers/hardware/apple-silicon.md
+    - name: "5.7 Intel Gaudi"
+      href: transformers/hardware/intel-gaudi.md
+    - name: "5.8 AWS Trainium"
+      href: transformers/hardware/aws-trainium.md
+  - name: "6. Quantization"
+    href: transformers/quantization/index.md
+    items:
+    - name: "6.1 Overview"
+      href: transformers/quantization/overview.md
+    - name: "6.2 Selecting a Quantization Method"
+      href: transformers/quantization/selecting-a-quantization-method.md
+    - name: "6.3 Quantization Concepts"
+      href: transformers/quantization/quantization-concepts.md
+    - name: "6.4 Quantize on the Fly"
+      href: transformers/quantization/quantize-on-the-fly.md
+    - name: "6.5 FP4 and FP8 Formats"
+      href: transformers/quantization/fp4-and-fp8-formats.md
+    - name: "6.6 Calibration-Based Methods"
+      href: transformers/quantization/calibration-based-methods.md
+    - name: "6.7 Load Pre-Quantized Models"
+      href: transformers/quantization/load-pre-quantized-models.md
+    - name: "6.8 Hardware Toolkits"
+      href: transformers/quantization/hardware-toolkits.md
+    - name: "6.9 Contribute"
+      href: transformers/quantization/contribute.md
+  - name: "7. Ecosystem Integrations"
+    href: transformers/ecosystem-integrations/index.md
+    items:
+    - name: "7.1 Inference Engines"
+      href: transformers/ecosystem-integrations/inference-engines.md
+    - name: "7.2 Local Deployment"
+      href: transformers/ecosystem-integrations/local-deployment.md
+    - name: "7.3 Pretraining"
+      href: transformers/ecosystem-integrations/pretraining.md
+    - name: "7.4 Fine-Tuning"
+      href: transformers/ecosystem-integrations/fine-tuning.md
+  - name: "8. Resources"
+    href: transformers/resources/index.md
+    items:
+    - name: "8.1 Task Recipes"
+      href: transformers/resources/task-recipes.md
+    - name: "8.2 Glossary"
+      href: transformers/resources/glossary.md
+    - name: "8.3 Philosophy"
+      href: transformers/resources/philosophy.md
+    - name: "8.4 Models Timeline"
+      href: transformers/resources/models-timeline.md
+    - name: "8.5 Notebooks with Examples"
+      href: transformers/resources/notebooks-with-examples.md
+    - name: "8.6 Community Resources"
+      href: transformers/resources/community-resources.md
+    - name: "8.7 Troubleshoot"
+      href: transformers/resources/troubleshoot.md
+  - name: "9. API"
+    href: transformers/api/index.md
+    items:
+    - name: "9.1 Main Classes"
+      href: transformers/api/main-classes.md
+    - name: "9.2 Models"
+      href: transformers/api/models.md
+    - name: "9.3 Internal Helpers"
+      href: transformers/api/internal-helpers.md
+    - name: "9.4 Reference"
+      href: transformers/api/reference.md

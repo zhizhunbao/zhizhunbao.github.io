@@ -1,0 +1,35 @@
+---
+title: "6.2 Selecting a Quantization Method"
+description: "Transformers, 6.2 Selecting a quantization method; terms quoted from the documentation."
+ms.date: 2026-11-10
+---
+
+# 6.2 Selecting a Quantization Method
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Selecting a Quantization Method**<br>选择量化方法 | (context) "This guide helps you choose **the most common and production-ready quantization techniques** depending on your use case, and presents **the advantages and disadvantages** of each technique." | （语境）本指南帮助你根据用例选择**最常见、可用于生产的量化技术**，并介绍每种技术的**优点与缺点**。 | [Hugging Face, n.d., "Selecting a quantization method", para. 1](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#selecting-a-quantization-method) |
+| **Quantization Picker**<br>量化方法选择器 | (context) "For **a comprehensive overview of all supported methods** and their features, refer to the quantization picker or **the full compatibility table** below it." | （语境）要**全面了解所有受支持的方法**及其特性，请参考量化方法选择器或其下方的**完整兼容性表**。 | [Hugging Face, n.d., "Selecting a quantization method", para. 2](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#selecting-a-quantization-method) |
+| **On-the-Fly Quantization**<br>即时量化 | (context) "These methods are **generally easier to use** as they don’t need **a separate calibration dataset or step**." | （语境）这些方法**通常更易使用**，因为它们不需要**单独的校准数据集或校准步骤**。 | [Hugging Face, n.d., "No Calibration Required (On-the-fly Quantization)", para. 1](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#no-calibration-required-on-the-fly-quantization) |
+| **bitsandbytes**<br>bitsandbytes | (context) "**ease of use** and **QLoRA fine-tuning** on NVIDIA and Intel GPUs" | （语境）**易用**，并可在 NVIDIA 与 Intel GPU 上做 **QLoRA 微调**。 | [Hugging Face, n.d., "Inference", table, bitsandbytes](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#inference) |
+| **HQQ (Half-Quadratic Quantization)**<br>HQQ（半二次量化） | (context) "**fast on the fly quantization** without **calibration**" | （语境）**快速的即时量化**，无需**校准**。 | [Hugging Face, n.d., "Inference", table, HQQ](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#inference) |
+| **SINQ**<br>SINQ | (context) "**super-fast but high-quality** on the fly quantization **without calibration**" | （语境）**超快且高质量**的即时量化，**无需校准**。 | [Hugging Face, n.d., "Inference", table, SINQ](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#inference) |
+| **torchao**<br>torchao | (context) "**flexibility** and **fast inference with torch.compile**" | （语境）**灵活**，并能**借助 torch.compile 快速推理**。 | [Hugging Face, n.d., "Inference", table, torchao](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#inference) |
+| **Calibration-Based Quantization**<br>基于校准的量化 | (context) "These methods require **an upfront calibration step** using a dataset to potentially **achieve higher accuracy**." | （语境）这些方法需要用数据集做**一个预先的校准步骤**，以期**达到更高的准确度**。 | [Hugging Face, n.d., "Calibration-based Quantization", para. 1](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#calibration-based-quantization) |
+| **GPTQ**<br>GPTQ | (context) "**good 4-bit accuracy** with **upfront calibration**" | （语境）**4 位下准确度好**，需**预先校准**。 | [Hugging Face, n.d., "Inference", table, GPTQModel or AWQ](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#inference) |
+| **GPTQ Calibration Time**<br>GPTQ 校准时间 | (context) "Calibration for **8B model** takes **~20 minutes on one A100 gpu**." | （语境）**8B 模型**的校准**在一块 A100 GPU 上约需 20 分钟**。 | [Hugging Face, n.d., "GPTQ/GPTQModel", para. 1](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#gptqgptqmodel) |
+| **AWQ (Activation-Aware Weight Quantization)**<br>AWQ（激活感知权重量化） | (context) "Often achieves **high accuracy at 4-bit**. (Sometimes **surpasses GPTQ** on specific tasks.)" | （语境）常常能**在 4 位下达到高准确度**。（在特定任务上有时**超过 GPTQ**。） | [Hugging Face, n.d., "AWQ (Activation-aware Weight Quantization)", table, Pros](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#awq-activation-aware-weight-quantization) |
+| **AWQ Calibration Time**<br>AWQ 校准时间 | (context) "Calibration for **8B model** takes **~10 minutes on one A100 gpu**." | （语境）**8B 模型**的校准**在一块 A100 GPU 上约需 10 分钟**。 | [Hugging Face, n.d., "AWQ (Activation-aware Weight Quantization)", para. 1](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#awq-activation-aware-weight-quantization) |
+| **compressed-tensors**<br>compressed-tensors | (context) "**loading specific quantized formats** (**FP8**)" | （语境）**加载特定的量化格式**（**FP8**）。 | [Hugging Face, n.d., "Inference", table, compressed-tensors](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#inference) |
+| **QLoRA**<br>QLoRA | (context) "**The standard method** for **QLoRA fine-tuning via PEFT**." | （语境）**标准方法**，用于**通过 PEFT 进行 QLoRA 微调**。 | [Hugging Face, n.d., "Fine-tuning", "bitsandbytes", Description](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#fine-tuning) |
+| **Research Quantization Methods**<br>研究性量化方法 | (context) "Methods like AQLM, SpQR, VPTQ, HIGGS, etc., **push the boundaries of compression** (< 2-bit) or **explore novel techniques**." | （语境）AQLM、SpQR、VPTQ、HIGGS 等方法**推进压缩的极限**（低于 2 位），或**探索新技术**。 | [Hugging Face, n.d., "Research", para. 1](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#research) |
+| **8-bit Quantization**<br>8 位量化 | (context) "**Very close** to **baseline bf16 model**" | （语境）**非常接近**于**基线 bf16 模型**。 | [Hugging Face, n.d., "Benchmark Comparison", key takeaways table, 8-bit](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#benchmark-comparison) |
+| **4-bit Quantization**<br>4 位量化 | (context) "AWQ/GPTQ **often lead in accuracy** but need calibration. HQQ/bnb-nf4/SINQ are **easy on-the-fly**." | （语境）AWQ/GPTQ **准确度常常领先**，但需要校准。HQQ/bnb-nf4/SINQ **即时量化很方便**。 | [Hugging Face, n.d., "Benchmark Comparison", key takeaways table, 4-bit](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#benchmark-comparison) |
+| **Sub-4-bit Quantization**<br>低于 4 位的量化 | (context) "**Noticeable drop**, especially **at 2-bit**" | （语境）**明显下降**，尤其是**在 2 位时**。 | [Hugging Face, n.d., "Benchmark Comparison", key takeaways table, Sub-4-bit](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#benchmark-comparison) |
+| **Task-Specific Benchmarking**<br>针对任务的基准测试 | (context) "Always benchmark **the performance (accuracy and speed)** of the quantized model **on your specific task and hardware** to ensure it meets your requirements." | （语境）务必对量化模型的**性能**（准确度与速度）做基准测试，**在你的具体任务和硬件上**，确认它满足你的要求。 | [Hugging Face, n.d., "Benchmark Comparison", note](https://huggingface.co/docs/transformers/v5.20.2/en/quantization/selecting#benchmark-comparison) |
+
+## References
+
+Hugging Face. (n.d.). *Transformers documentation* (Version 5.20.2). Retrieved November 10, 2026, from <https://huggingface.co/docs/transformers/v5.20.2/en/index>

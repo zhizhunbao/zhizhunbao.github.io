@@ -1,6 +1,6 @@
 # ROS 2: allowed pages
 
-Source: the ROS 2 Documentation for Lyrical Luth, the latest LTS distribution (https://docs.ros.org/en/lyrical/). Its full menu is in the cached index page (`design-refs/official-docs/cache/html/docs-en-lyrical.html`), so nothing here copies it.
+Source: the ROS 2 Documentation for Lyrical Luth, the latest LTS distribution (https://docs.ros.org/en/lyrical/). Its full menu is in the cached index page (`references/official-docs/cache/html/docs-en-lyrical.html`), so nothing here copies it.
 
 The site lists the official menu as it stands, names, order and nesting unchanged, with the parts that hold no terms removed. Every figure shows one level: the Overview shows the groups and their entries, and each entry's deeper entries are planned on its own page ("Parts") and drawn in that page's figure.
 

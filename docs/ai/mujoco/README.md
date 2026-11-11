@@ -1,6 +1,6 @@
 # MuJoCo: allowed pages
 
-Source: the MuJoCo Documentation, version 3.17.0 (stable) (https://mujoco.readthedocs.io/en/stable/). Its full menu is in the cached Overview page (`design-refs/official-docs/cache/html/mujoco-en-stable-overview-html.html`), so nothing here copies it.
+Source: the MuJoCo Documentation, version 3.17.0 (stable) (https://mujoco.readthedocs.io/en/stable/). Its full menu is in the cached Overview page (`references/official-docs/cache/html/mujoco-en-stable-overview-html.html`), so nothing here copies it.
 
 The site lists the official menu as it stands, names and order unchanged, with the parts that hold no terms removed (the ROS 2 layout). The menu has one level of chapters; a chapter's entries are its sub-pages, and for a chapter that is a single long page, its sections (the user's choice, 2026-10-30), followed by its sub-pages.
 

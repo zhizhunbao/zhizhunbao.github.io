@@ -1,6 +1,6 @@
 # LLM Evaluation: sources, licenses and checklist
 
-Not published (`docfx.json` excludes `**/README.md`). Entry added 2026-11-10 at the user's request (choosing local models and reading leaderboards); placement chosen by the user the same day: one entry, LLM Evaluation, holding the six evaluation sites, under a new AI menu group Model Evaluation after AI Platforms. The AI Overview figure (`docs/ai/media/ai.png`) and its Glossary have no row for the group yet (another session had uncommitted edits to both); add them once the skeleton is confirmed. No figures yet (skeleton rule).
+Not published (`docfx.json` excludes `**/README.md`). Entry added 2026-11-10 at the user's request (choosing local models and reading leaderboards); placement chosen by the user the same day: one entry, LLM Evaluation, holding the six evaluation sites, under a new AI menu group Model Evaluation after AI Platforms. The AI Overview figure (`docs/ai/media/ai.png`, source `figures/ai/ai.html`) and its Glossary carry the group since 2026-11-10 (the group row quotes the HELM paper's abstract). Figures drawn 2026-11-10 after the user handed the rest over: `figures/ai/llm-evaluation/`, in the style of the reference section figure (frame LLM Evaluation, the site as the group, its terms flowing in rows); the Overview figure is a single untitled group of the six sites.
 
 Rule for this entry: methods and concepts only, never scores or rankings (they change weekly).
 

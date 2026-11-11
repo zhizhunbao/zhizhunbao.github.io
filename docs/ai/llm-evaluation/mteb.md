@@ -6,6 +6,10 @@ ms.date: 2026-11-10
 
 # MTEB
 
+## Classification
+
+![MTEB: its 16 terms, in LLM Evaluation.](media/mteb.png)
+
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |

@@ -17,7 +17,7 @@ items:
     href: gymnasium/toc.yml
   - name: Stable-Baselines3
     href: stable-baselines3/toc.yml
-- name: Perception and Computer Vision
+- name: Computer Vision
   items:
   - name: OpenCV
     href: opencv/toc.yml
@@ -25,22 +25,26 @@ items:
     href: ultralytics-yolo/toc.yml
 - name: Natural Language Processing
   items:
-  - name: Hugging Face Transformers
-    href: hugging-face-transformers/toc.yml
+  - name: NLTK
+    href: nltk/index.md
+  - name: spaCy
+    href: spacy/index.md
 - name: Agents and Cognitive Systems
   items:
   - name: LlamaIndex
     href: llamaindex/index.md
   - name: Model Context Protocol
     href: model-context-protocol/index.md
-- name: Deployed Deep Generative Models
+- name: AI Platforms
   items:
   - name: Claude
-    href: claude/index.md
+    href: claude/toc.yml
+  - name: Hugging Face
+    href: hugging-face/toc.yml
   - name: Microsoft Foundry
     href: microsoft-foundry/index.md
   - name: Ollama
-    href: ollama/index.md
+    href: ollama/toc.yml
   - name: OpenAI
     href: openai/index.md
 - name: Model Evaluation

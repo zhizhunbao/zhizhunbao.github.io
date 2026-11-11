@@ -1,6 +1,6 @@
 # Gymnasium: allowed pages
 
-Source: the Gymnasium Documentation, version 1.4.0 (https://gymnasium.farama.org/). Its full menu is in the cached home page (`design-refs/official-docs/cache/html/gymnasium.html`), so nothing here copies it.
+Source: the Gymnasium Documentation, version 1.4.0 (https://gymnasium.farama.org/). Its full menu is in the cached home page (`references/official-docs/cache/html/gymnasium.html`), so nothing here copies it.
 
 The site lists the official menu as it stands, names, order and nesting unchanged, with the parts that hold no terms removed (the ROS 2 layout). Every figure shows one level below its page: the Overview shows the groups and their entries, each group page its entries with their parts, and each entry page its parts.
 

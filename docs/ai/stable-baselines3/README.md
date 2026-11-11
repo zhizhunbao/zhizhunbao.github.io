@@ -1,6 +1,6 @@
 # Stable-Baselines3: allowed pages
 
-Source: the Stable-Baselines3 Docs, version 2.9.2a0 (master) (https://stable-baselines3.readthedocs.io/en/master/). Its full menu is in the cached home page (`design-refs/official-docs/cache/html/stable-baselines3-en-master.html`), so nothing here copies it.
+Source: the Stable-Baselines3 Docs, version 2.9.2a0 (master) (https://stable-baselines3.readthedocs.io/en/master/). Its full menu is in the cached home page (`references/official-docs/cache/html/stable-baselines3-en-master.html`), so nothing here copies it.
 
 The site lists the official menu as it stands, names and order unchanged, with the parts that hold no terms removed (the ROS 2 layout). The menu's second level only links to sections of the same page, so the entries have no parts.
 

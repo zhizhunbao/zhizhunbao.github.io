@@ -6,6 +6,10 @@ ms.date: 2026-11-10
 
 # LLM Evaluation
 
+## Classification
+
+![LLM Evaluation: six evaluation sites, Artificial Analysis, HELM, LiveBench, LMArena, MTEB and Open LLM Leaderboard.](media/llm-evaluation.png)
+
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
