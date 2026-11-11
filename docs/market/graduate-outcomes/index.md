@@ -1,10 +1,10 @@
 ---
-title: "8. Graduate Outcomes"
+title: "9. Graduate Outcomes"
 description: "Market > Graduate Outcomes: what graduates earn after school, one page per publisher (Statistics Canada)."
 ms.date: 2026-11-07
 ---
 
-# 8. Graduate Outcomes
+# 9. Graduate Outcomes
 
 ## Glossary
 

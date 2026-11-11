@@ -1,10 +1,10 @@
 ---
-title: "8.1 Statistics Canada"
+title: "9.1 Statistics Canada"
 description: "Market > Graduate Outcomes > Statistics Canada: who publishes the labour market outcome indicators of postsecondary graduates, and median employment income two years after graduation of 2022 college diploma and undergraduate degree graduates by field of study, for Canada and each province, Canadian and international students apart."
 ms.date: 2026-11-07
 ---
 
-# 8.1 Statistics Canada
+# 9.1 Statistics Canada
 
 ## Glossary
 
