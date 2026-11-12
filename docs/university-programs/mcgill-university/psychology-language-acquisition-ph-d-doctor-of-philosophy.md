@@ -1,0 +1,130 @@
+---
+title: "1.736 Psychology: Language Acquisition (Ph.D.) (Doctor of Philosophy)"
+description: "University Programs > McGill University > Psychology: Language Acquisition (Ph.D.) (Doctor of Philosophy): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.736 Psychology: Language Acquisition (Ph.D.) (Doctor of Philosophy)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Psychology: Language Acquisition (Ph.D.) (Doctor of Philosophy)**<br>心理学：语言习得（Ph.D.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Language Acquisition Issues 2.**<br>语言习得问题 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Doctoral Comprehensive Examination.**<br>博士综合考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Language Acquisition Issues 1.**<br>语言习得问题 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Language Acquisition Issues 4.**<br>语言习得问题 4 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Comparative and Physiological Psychology 3.**<br>比较与生理心理学 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Comparative and Physiological Psychology 6.**<br>比较与生理心理学 6 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Personality and Social Psychology.**<br>人格与社会心理学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Ethics and Professional Issues.**<br>伦理与专业问题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Theory of Assessment.**<br>评估理论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Clinical Neuroscience Methods.**<br>临床神经科学方法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Clinical Psychology 1.**<br>临床心理学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Clinical Psychology 2.**<br>临床心理学 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Developmental Psychology and Language.**<br>发展心理学与语言 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Perception and Cognition.**<br>知觉与认知 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Quantitative and Individual Differences.**<br>定量分析与个体差异 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Applied Bayesian Statistics.**<br>应用贝叶斯统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Psychotherapy and Behaviour Change.**<br>心理治疗与行为改变 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Health Psychology Seminar 1.**<br>健康心理学研讨课 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Social Justice Issues in Second Language Education.**<br>第二语言教育中的社会正义问题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Second Language Learning.**<br>第二语言学习 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Educational Sociolinguistics.**<br>教育社会语言学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Instructed Second Language Acquisition Research.**<br>课堂第二语言习得研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Critical Multi-Literacies and Language Education**<br>批判性多元素养与语言教育 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Topics in Acquisition of Phonology.**<br>音系习得专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Topics in Language Acquisition.**<br>语言习得专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Phonological Development.**<br>音系发展 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Phonological Disorders: Children.**<br>音系障碍：儿童 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Developmental Language Disorders 1.**<br>发育性语言障碍 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Developmental Language Disorders 2.**<br>发育性语言障碍 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Advanced Research Seminar 1.**<br>高级研究研讨课 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Advanced Research Seminar 2.**<br>高级研究研讨课 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Advanced Research Seminar 3.**<br>高级研究研讨课 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Language Acquisition Issues 5.**<br>语言习得问题 5 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Language Acquisition Issues 3.**<br>语言习得问题 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Intermediate Statistics.**<br>中级统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Univariate/Multivariate Analysis.**<br>单变量/多变量分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Experimental Linguistics: Methods.**<br>实验语言学：方法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Advanced Statistics 1.**<br>高级统计学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Advanced Statistics 2.**<br>高级统计学 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+| **Psychology Theory.**<br>心理学理论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Thesis |  | A thesis for the doctoral degree must constitute original scholarship and must be a distinct contribution to knowledge. It must show familiarity with previous work in the field and must demonstrate ability to plan and carry out research, organize results, and defend the approach and conclusions in a scholarly manner. The research presented must meet current standards of the discipline; as well, the thesis must clearly demonstrate how the research advances knowledge in the field. Finally, the thesis must be written in compliance with norms for academic and scholarly expression and for publication in the public domain. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Required Courses (6 credits) | LING 710 | Language Acquisition Issues 2. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Required Courses (6 credits) | PSYC 701 | Doctoral Comprehensive Examination. | 0 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Required Courses (6 credits) | PSYC 709 | Language Acquisition Issues 1. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Required Courses (6 credits) | SCSD 712 | Language Acquisition Issues 4. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) |  | 12 credits (one course per term in Year 2 and Year 3) chosen from the following list: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 712 | Comparative and Physiological Psychology 3. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 715 | Comparative and Physiological Psychology 6. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 722 | Personality and Social Psychology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 723 | Personality and Social Psychology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 724 | Personality and Social Psychology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 725 | Personality and Social Psychology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 727 | Personality and Social Psychology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 728 | Ethics and Professional Issues. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 729 | Theory of Assessment. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 730 | Clinical Neuroscience Methods. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 732D1 | Clinical Psychology 1. | 1.5 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 732D2 | Clinical Psychology 1. | 1.5 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 733D1 | Clinical Psychology 2. | 1.5 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 733D2 | Clinical Psychology 2. | 1.5 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 734 | Developmental Psychology and Language. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 735 | Developmental Psychology and Language. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 736 | Developmental Psychology and Language. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 740 | Perception and Cognition. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 741 | Perception and Cognition. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 742 | Perception and Cognition. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 744 | Perception and Cognition. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 746 | Quantitative and Individual Differences. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 747 | Quantitative and Individual Differences. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 748 | Quantitative and Individual Differences. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 749 | Quantitative and Individual Differences. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 750 | Applied Bayesian Statistics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 752D1 | Psychotherapy and Behaviour Change. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 752D2 | Psychotherapy and Behaviour Change. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 753 | Health Psychology Seminar 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) |  | At least 3 credits selected from the following list: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | EDSL 620 | Social Justice Issues in Second Language Education. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | EDSL 623 | Second Language Learning. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | EDSL 624 | Educational Sociolinguistics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | EDSL 627 | Instructed Second Language Acquisition Research. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | EDSL 632 | Critical Multi-Literacies and Language Education | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | LING 651 | Topics in Acquisition of Phonology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 545 | Topics in Language Acquisition. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 735 | Developmental Psychology and Language. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | SCSD 619 | Phonological Development. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | SCSD 632 | Phonological Disorders: Children. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | SCSD 637 | Developmental Language Disorders 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | SCSD 643 | Developmental Language Disorders 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | SCSD 652 | Advanced Research Seminar 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | SCSD 653 | Advanced Research Seminar 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | SCSD 654 | Advanced Research Seminar 3. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) |  | 0-2 from the following: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | EDPE 713 | Language Acquisition Issues 5. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | EDSL 711 | Language Acquisition Issues 3. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) |  | 0-3 credits of statistics from the following list: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | EDPE 676 | Intermediate Statistics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | EDPE 682 | Univariate/Multivariate Analysis. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | LING 620 | Experimental Linguistics: Methods. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 650 | Advanced Statistics 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 651 | Advanced Statistics 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) |  | Students who have taken an equivalent course in statistics will be deemed to have satisfied this requirement for the Language Acquisition Option. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) |  | These 3 credits are only required for students who have not previously taken an equivalent course in statistics. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) |  | 0-12 credits from the following (students without a McGill master's degree need to take all 12 credits): |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 650 | Advanced Statistics 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 651 | Advanced Statistics 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 660D1 | Psychology Theory. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) | PSYC 660D2 | Psychology Theory. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+|  | Complementary Courses (15-32 credits) |  | Note: The Department of Psychology does not ordinarily require an examination in a foreign language however, all students planning on practicing clinical psychology in the province of Quebec will be examined based on their proficiency in French before being admitted to the professional association. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/) |
+
+## References
+
+McGill University. (n.d.). *Psychology: Language Acquisition (Ph.D.)*. Retrieved November 11, 2026, from <https://coursecatalogue.mcgill.ca/en/graduate/arts/psychology/psychology-language-acquisition-phd/>

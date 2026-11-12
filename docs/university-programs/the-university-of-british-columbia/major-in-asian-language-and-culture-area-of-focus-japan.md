@@ -1,0 +1,39 @@
+---
+title: "3.226 Major in Asian Language and Culture - Area of Focus: Japan"
+description: "University Programs > The University of British Columbia > Major in Asian Language and Culture - Area of Focus: Japan: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 3.226 Major in Asian Language and Culture - Area of Focus: Japan
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Major in Asian Language and Culture - Area of Focus: Japan**<br>亚洲语言与文化（重点领域：日本）主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+| **Canada, Japan and the Pacific: Cultural Studies**<br>加拿大、日本与太平洋：文化研究 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+| **Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives**<br>加拿大、日本与太平洋：政治、经济与地理视角 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+| **Topics in Asian Studies Crossings**<br>亚洲研究交叉专题 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+| **Advanced Modern Japanese: Reading and Writing I**<br>高级现代日语：阅读与写作 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+| **Advanced Modern Japanese: Reading and Writing II**<br>高级现代日语：阅读与写作 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  |  |  | ASIA_V or ASIX_V credits: 18-24 |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  | 6 credits: ASIA_V or ASIX_V 200-level (this may include ASTU_V 201/202) | ASIX_V 200 |  |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  | 6 credits: ASIA_V or ASIX_V 200-level (this may include ASTU_V 201/202) | ASTU_V 201 | Canada, Japan and the Pacific: Cultural Studies |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  | 6 credits: ASIA_V or ASIX_V 200-level (this may include ASTU_V 201/202) | ASTU_V 202 | Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  |  | ASIX_V 300 | Topics in Asian Studies Crossings |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  |  | ASIX_V 400 |  |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  |  |  | At least 9 upper-level (300+) ASIA_V or ASIX_V credits must be related to Japan. |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  |  |  | Language (JAPN) credits: 21-27 |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  | 6 credits: JAPN_V 400 and JAPN_V 401 | JAPN_V 400 | Advanced Modern Japanese: Reading and Writing I |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  | 6 credits: JAPN_V 400 and JAPN_V 401 | JAPN_V 401 | Advanced Modern Japanese: Reading and Writing II |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  |  |  | R (Research Intensive) credits: |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+|  |  |  | A maximum of 3 credits of ASIA_V or ASIX_V R courses is permitted in the degree. |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies) |
+
+## References
+
+The University of British Columbia. (n.d.). *Major in Asian Language and Culture - Area of Focus: Japan*. Retrieved November 11, 2026, from <https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies>

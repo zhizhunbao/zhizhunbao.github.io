@@ -1,0 +1,48 @@
+---
+title: "4.340 Master of Science (MSc) in Physics - Nanotechnology - Internship (transfer entry)"
+description: "University Programs > University of Waterloo > Master of Science (MSc) in Physics - Nanotechnology - Internship (transfer entry): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 4.340 Master of Science (MSc) in Physics - Nanotechnology - Internship (transfer entry)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Master of Science (MSc) in Physics - Nanotechnology - Internship (transfer entry)**<br>理学硕士（MSc），物理学 - 纳米技术 - 实习（转入） | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+| **Introduction to Nanotechnology**<br>纳米技术导论 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+| **Materials Biocompatibility**<br>材料生物相容性 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+| **Characterization of Nanomaterials**<br>纳米材料表征 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+| **Structure and Spectroscopy of Nanoscale Materials**<br>纳米尺度材料的结构与光谱学 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+| **Nanocomposites**<br>纳米复合材料 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+| **Nanomechanics and Molecular Dynamics Simulations**<br>纳米力学与分子动力学模拟 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+| **Design of MEMS & NEMS**<br>MEMS与NEMS设计 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+| **Advanced MicroElectroMechanical Systems: Physics, Design & Fabrication**<br>高级微机电系统：物理、设计与制造 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+| **From Atoms to Crystals, Quantum Wells, Wires and Dots**<br>从原子到晶体、量子阱、量子线与量子点 | (Definition pending) | （定义待补） | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Thesis option: Course requirements |  | Students must complete the following 4 one-term courses (0.50 unit weight): |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements | NANO 600 | Introduction to Nanotechnology |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements |  | 1 nanotechnology elective course |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements |  | 1 of PHYS 701, PHYS 704 or PHYS 706 |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements |  | 1 graduate level or 300 or 400 level undergraduate course. Undergraduate courses must be approved by the student’s supervisor, the Associate Chair of Graduate Studies, Department of Physics and Astronomy and the Associate Dean of Science for Graduate Studies prior to enrolment in the course |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements |  | Nanotechnology elective courses: |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements | BME 611/NANO 608/SYDE 684 | Materials Biocompatibility |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements | NANO 601 | Characterization of Nanomaterials |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements | NANO 602 | Structure and Spectroscopy of Nanoscale Materials |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements | NANO 603 | Nanocomposites |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements | NANO 604 | Nanomechanics and Molecular Dynamics Simulations |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements | NANO 605/SYDE 683 | Design of MEMS & NEMS |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements | NANO 606/SYDE 682 | Advanced MicroElectroMechanical Systems: Physics, Design & Fabrication |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements | NANO 707 | From Atoms to Crystals, Quantum Wells, Wires and Dots |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements |  | Nanotechnology elective courses are designed to provide the base knowledge and skill set required to prepare students for more specialized courses and to conduct interdisciplinary nanoscale research. |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements |  | Students who have completed their Bachelor of Applied Science (BASc) degree in Nanotechnology Engineering at the University of Waterloo can not take NANO 600. Instead, they can choose any 1 course from the list of nanotechnology elective courses. |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+|  | Thesis option: Course requirements |  | An average of at least 70% must be obtained in the required courses. A minimum grade of 65% is required for a pass in each course. If a student does not meet these minimum grade requirements, or receives a failing grade in any course, the student may be required to withdraw from the program. |  | [University of Waterloo, n.d.](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0) |
+
+## References
+
+University of Waterloo. (n.d.). *Master of Science (MSc) in Physics - Nanotechnology - Internship (transfer entry)*. Retrieved November 11, 2026, from <https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/HkN5ndmo0>

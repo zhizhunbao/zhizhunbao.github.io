@@ -1,0 +1,79 @@
+---
+title: "5.25 Chemistry – Major (Science) – Bachelor of Science (Honours)"
+description: "University Programs > Queen’s University > Chemistry – Major (Science) – Bachelor of Science (Honours): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 5.25 Chemistry – Major (Science) – Bachelor of Science (Honours)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Chemistry – Major (Science) – Bachelor of Science (Honours)**<br>化学 - 主修（理科） - 理学学士（荣誉） | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **General Chemistry I: From Atoms to Matter**<br>普通化学 I：从原子到物质 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **General Chemistry II: Thermodynamics and Kinetics**<br>普通化学 II：热力学与动力学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **General Chemistry**<br>普通化学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Mathematical Tools for Chemical Problems**<br>化学问题的数学工具 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Linear Algebra**<br>线性代数 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Introduction to Linear Algebra**<br>线性代数导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Main Group Chemistry**<br>主族化学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Principles of Chemical Reactivity**<br>化学反应性原理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Introduction to Chemical Analysis**<br>化学分析导论 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Material, Solutions, and Interfaces**<br>材料、溶液与界面 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Methods of Structure Determination**<br>结构测定方法 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Organic Reactions**<br>有机反应 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Mechanistic Organic Chemistry**<br>机理有机化学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Transition Metal Chemistry**<br>过渡金属化学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Quantum Mechanics**<br>量子力学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Instrumental Chemical Analysis**<br>仪器化学分析 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **The Chemical Bond: Computation and Spectroscopy**<br>化学键：计算与光谱学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Biological Chemistry**<br>生物化学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Experimental Chemistry**<br>实验化学 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Research Project**<br>研究项目 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Fundamental Physics**<br>基础物理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **General Physics**<br>普通物理 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Introduction to Physics I**<br>物理导论 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Introduction to Physics II**<br>物理导论 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Differential and Integral Calculus**<br>微积分 | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Differential and Integral Calculus I**<br>微积分 I | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+| **Differential and Integral Calculus II**<br>微积分 II | (Definition pending) | （定义待补） | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | 1. Core / A. Complete 6.00 units from the following: | CHEM 109 | General Chemistry I: From Atoms to Matter |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / A. Complete 6.00 units from the following: (and) | CHEM 110 | General Chemistry II: Thermodynamics and Kinetics |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / A. Complete 6.00 units from the following: (or) | CHEM 112 | General Chemistry |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / B. Complete 3.00 units from the following: | CHEM 224 | Mathematical Tools for Chemical Problems |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / B. Complete 3.00 units from the following: | MATH 110 | Linear Algebra |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / B. Complete 3.00 units from the following: | MATH 112 | Introduction to Linear Algebra |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / C. Complete the following: | CHEM 211 | Main Group Chemistry | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / C. Complete the following: | CHEM 212 | Principles of Chemical Reactivity | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / C. Complete the following: | CHEM 213 | Introduction to Chemical Analysis | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / C. Complete the following: | CHEM 221 | Material, Solutions, and Interfaces | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / C. Complete the following: | CHEM 222 | Methods of Structure Determination | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / C. Complete the following: | CHEM 223 | Organic Reactions | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / D. Complete the following: | CHEM 311 | Mechanistic Organic Chemistry | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / D. Complete the following: | CHEM 312 | Transition Metal Chemistry | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / D. Complete the following: | CHEM 313 | Quantum Mechanics | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / D. Complete the following: | CHEM 321 | Instrumental Chemical Analysis | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / D. Complete the following: | CHEM 322 | The Chemical Bond: Computation and Spectroscopy | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / D. Complete the following: | CHEM 323 | Biological Chemistry | 3.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / D. Complete the following: | CHEM 397 | Experimental Chemistry | 6.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 1. Core / E. Complete the following: | CHEM 497 | Research Project | 6.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 2. Option / A. Complete 3.00 units from the following: |  | CHEM at the 400-level |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 3. Supporting / A. Complete 6.00 units from the following: | PHYS 104 | Fundamental Physics |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 3. Supporting / A. Complete 6.00 units from the following: (or) | PHYS 106 | General Physics |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 3. Supporting / A. Complete 6.00 units from the following: (or) | PHYS 115 | Introduction to Physics I |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 3. Supporting / A. Complete 6.00 units from the following: (and) | PHYS 116 | Introduction to Physics II |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 3. Supporting / B. Complete 6.00 units from the following: | MATH 120 | Differential and Integral Calculus |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 3. Supporting / B. Complete 6.00 units from the following: (or) | MATH 121 | Differential and Integral Calculus |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 3. Supporting / B. Complete 6.00 units from the following: (or) | MATH 123 | Differential and Integral Calculus I |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  | 3. Supporting / B. Complete 6.00 units from the following: (and) | MATH 124 | Differential and Integral Calculus II |  | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+|  |  |  | Elective Courses | 48.00 | [Queen’s University, n.d.](https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/) |
+
+## References
+
+Queen’s University. (n.d.). *Chemistry – Major (Science) – Bachelor of Science (Honours)*. Retrieved November 11, 2026, from <https://www.queensu.ca/academic-calendar/arts-science/schools-departments-programs/chemistry/chemistry-major-science-bs-honours/>

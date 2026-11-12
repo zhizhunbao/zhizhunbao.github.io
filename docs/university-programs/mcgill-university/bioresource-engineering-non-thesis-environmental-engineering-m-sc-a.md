@@ -1,0 +1,67 @@
+---
+title: "1.354 Bioresource Engineering (Non-Thesis): Environmental Engineering (M.Sc.A.)"
+description: "University Programs > McGill University > Bioresource Engineering (Non-Thesis): Environmental Engineering (M.Sc.A.): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.354 Bioresource Engineering (Non-Thesis): Environmental Engineering (M.Sc.A.)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Bioresource Engineering (Non-Thesis): Environmental Engineering (M.Sc.A.)**<br>生物资源工程（非论文型）：环境工程（M.Sc.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Project 1.**<br>项目 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Project 2.**<br>项目 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Water Quality Management.**<br>水质管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Environmental Bioremediation.**<br>环境生物修复 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Environmental Engineering Seminar.**<br>环境工程研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Experimental Designs 1.**<br>实验设计 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Environmental Data Analysis.**<br>环境数据分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Advanced Statistics 1.**<br>高级统计学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Principles of Toxicology.**<br>毒理学原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Occupational Hygiene.**<br>职业卫生 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Theory: Water / Wastewater Treatment.**<br>理论：供水/污水处理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Bioprocesses for Wastewater Resource Recovery.**<br>废水资源回收生物过程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Chemical and Physical Treatment of Waters.**<br>水的化学与物理处理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Industrial Air Pollution Control.**<br>工业空气污染控制 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Air Pollution Engineering.**<br>空气污染工程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Advanced Environmental Systems Modelling.**<br>高级环境系统建模 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+| **Environmental Policy and Planning.**<br>环境政策与规划 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Research Project (6 credits) | BREE 671 | Project 1. | 6 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Research Project (6 credits) | BREE 672 | Project 2. | 6 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Required Courses (9 credits) | BREE 533 | Water Quality Management. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Required Courses (9 credits) | CHEE 591 | Environmental Bioremediation. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Required Courses (9 credits) | CIVE 615 | Environmental Engineering Seminar. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Data Analysis Course |  | 3 credits from the following: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Data Analysis Course | AEMA 611 | Experimental Designs 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Data Analysis Course | CIVE 555 | Environmental Data Analysis. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Data Analysis Course | PSYC 650 | Advanced Statistics 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Toxicology Course |  | 3 credits from the following: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Toxicology Course | OCCH 612 | Principles of Toxicology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Toxicology Course | OCCH 616 | Occupational Hygiene. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Water Pollution Engineering Course |  | 4 credits from the following: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Water Pollution Engineering Course | CIVE 651 | Theory: Water / Wastewater Treatment. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Water Pollution Engineering Course | CIVE 652 | Bioprocesses for Wastewater Resource Recovery. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Water Pollution Engineering Course | CIVE 660 | Chemical and Physical Treatment of Waters. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Air Pollution Engineering Course |  | 3 credits from the following: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Air Pollution Engineering Course | CHEE 592 | Industrial Air Pollution Control. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Air Pollution Engineering Course | MECH 534 | Air Pollution Engineering. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Air Pollution Engineering Course |  | or an approved 500-, 600-, or 700-level alternative course. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Environmental Impact Course |  | 3 credits from the following: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Environmental Impact Course | GEOG 601 | Advanced Environmental Systems Modelling. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Environmental Impact Course |  | or an approved 500-, 600-, or 700-level alternative course. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Environmental Policy Course |  | 3 credits from the following: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Environmental Policy Course | URBP 506 | Environmental Policy and Planning. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Environmental Policy Course |  | or an approved 500-, 600-, or 700-level alternative course. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Environmental Policy Course |  | Further complementary courses (balance of coursework to meet the 45-credit program requirement): |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+|  | Environmental Policy Course |  | Remaining Engineering or Non-Engineering courses from an approved list of courses, at the 500, 600, or 700 level, from the Faculty of Engineering, Faculty of Agricultural and Environmental Sciences, Faculty of Law, Faculty of Religious Studies, Desautels Faculty of Management, and Departments of Atmospheric and Oceanic Sciences, Biology, Chemistry, Earth and Planetary Sciences, Economics, Epidemiology and Biostatistics, Geography, Occupational Health, Political Science, Sociology, and the Bieler School of Environment. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/) |
+
+## References
+
+McGill University. (n.d.). *Bioresource Engineering (Non-Thesis): Environmental Engineering (M.Sc.A.)*. Retrieved November 11, 2026, from <https://coursecatalogue.mcgill.ca/en/graduate/agri-env-sci/bioresource-engineering/bioresource-engineering-non-thesis-environmental-engineering-msca/>

@@ -1,0 +1,110 @@
+---
+title: "22.98 Geophysics, B.Sc. Honours"
+description: "University Programs > University of Manitoba > Geophysics, B.Sc. Honours: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 22.98 Geophysics, B.Sc. Honours
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Geophysics, B.Sc. Honours**<br>地球物理学，B.Sc. 荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Theory and Application of Geophysical Inversion Methods**<br>地球物理反演方法的理论与应用 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Physics of the Earth: Seismology and Heat Flow**<br>地球物理：地震学与热流 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Physics of the Earth: Geomagnetism and Gravity**<br>地球物理：地磁与重力 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Technical Report**<br>技术报告 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Environmental Geology**<br>环境地质学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Energy and Mineral Resources**<br>能源与矿产资源 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Principles of Inorganic Geochemistry**<br>无机地球化学原理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Petrogenesis of Igneous Rocks**<br>火成岩岩石成因学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Engineering Geology**<br>工程地质学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Structure and Metamorphism**<br>构造与变质作用 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Hydrogeology**<br>水文地质学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Glacial Geology**<br>冰川地质学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Geology and Geophysics of the Planets**<br>行星地质学与地球物理学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Sedimentology and Stratigraphy**<br>沉积学与地层学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Introduction to Field Mapping**<br>野外测绘导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Advanced Studies in Earth Sciences**<br>地球科学高级研究 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Mineral Deposits**<br>矿床 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Mineral Exploration Techniques**<br>矿产勘探技术 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Global Change**<br>全球变化 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Mineral Resource Development**<br>矿产资源开发 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Petroleum Geology**<br>石油地质学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Basin Analysis**<br>盆地分析 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Advanced Field Mapping**<br>高级野外制图 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Environmental Chemistry**<br>环境化学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Atmospheric Thermodynamics, Clouds and Precipitation (PS)**<br>大气热力学、云与降水 (PS) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Introduction to Process Hydrology (PS)**<br>过程水文学导论（PS） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Geomorphology (PS)**<br>地貌学 (PS) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Introduction to Oceanography**<br>海洋学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Introduction to Remote Sensing (TS)**<br>遥感导论（TS） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Atmospheric Dynamics, Storms and Radar (PS)**<br>大气动力学、风暴与雷达 (PS) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Introduction to Microclimates and Micrometeorology (PS)**<br>微气候与微气象学导论（PS） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Geographic Information Systems (TS)**<br>地理信息系统 (TS) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Foundations of Astrophysics**<br>天体物理学基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Stars**<br>恒星 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Physical Chemistry 1**<br>物理化学 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Physical Chemistry 2**<br>物理化学 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Modern Physics for Engineers**<br>工程师现代物理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Optics**<br>光学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Circuit Theory and Introductory Electronics**<br>电路理论与电子学入门 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Classical Mechanics 1**<br>经典力学 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Electro - and Magnetostatic Theory**<br>静电与静磁理论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Classical Thermodynamics**<br>经典热力学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+| **Fundamentals of Fluid Mechanics**<br>流体力学基础 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Geophysics Course Electives List | GEOL 4250 | Theory and Application of Geophysical Inversion Methods | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Geophysics Course Electives List | GEOL 4320 | Physics of the Earth: Seismology and Heat Flow | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Geophysics Course Electives List | GEOL 4330 | Physics of the Earth: Geomagnetism and Gravity | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Geophysics Course Electives List | GEOL 4920 | Technical Report | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 2390 | Environmental Geology | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 2570 | Energy and Mineral Resources | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 2770 | Principles of Inorganic Geochemistry | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 3110 | Petrogenesis of Igneous Rocks | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 3420 | Engineering Geology | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 3440 | Structure and Metamorphism | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 3450 | Hydrogeology | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 3490 | Glacial Geology | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 3750 | Geology and Geophysics of the Planets | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 3900 | Sedimentology and Stratigraphy | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 3910 | Introduction to Field Mapping | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 4270 | Advanced Studies in Earth Sciences | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 4300 | Mineral Deposits | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 4360 | Mineral Exploration Techniques | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 4370 | Global Change | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 4380 | Mineral Resource Development | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 4520 | Petroleum Geology | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 4890 | Basin Analysis | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOL 4910 | Advanced Field Mapping | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | ENVR 2550 | Environmental Chemistry | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOG 2300 | Atmospheric Thermodynamics, Clouds and Precipitation (PS) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOG 2310 | Introduction to Process Hydrology (PS) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOG 2550 | Geomorphology (PS) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOG 2930 | Introduction to Oceanography | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOG 3200 | Introduction to Remote Sensing (TS) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOG 3310 | Atmospheric Dynamics, Storms and Radar (PS) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOG 3320 | Introduction to Microclimates and Micrometeorology (PS) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List | GEOG 3730 | Geographic Information Systems (TS) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Earth Science Course Electives List |  | Any course from the Geophysics Course Electives List or the Physical Science Course Electives List not already taken, or any advanced level Geological Sciences, Physics or Mathematics course(s) approved by department |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | ASTR 2000 | Foundations of Astrophysics | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | ASTR 3180 | Stars | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | CHEM 2600 | Physical Chemistry 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | CHEM 3600 | Physical Chemistry 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | PHYS 2152 | Modern Physics for Engineers | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | PHYS 2260 | Optics | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | PHYS 2610 | Circuit Theory and Introductory Electronics | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | PHYS 2650 | Classical Mechanics 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | PHYS 3630 | Electro - and Magnetostatic Theory | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | PHYS 3670 | Classical Thermodynamics | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List | MECH 2262 | Fundamentals of Fluid Mechanics | 4 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+|  | Physical Science Course Electives List |  | Or alternate physical science course(s) approved by department |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/) |
+
+## References
+
+University of Manitoba. (n.d.). *Geophysics, B.Sc. Honours*. Retrieved November 11, 2026, from <https://catalog.umanitoba.ca/undergraduate-studies/environment-earth-resources/earth-sciences/geophysics-bsc-honours/>

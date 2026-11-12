@@ -1,0 +1,147 @@
+---
+title: "1.41 Canadian Studies Honours (B.A.)"
+description: "University Programs > McGill University > Canadian Studies Honours (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.41 Canadian Studies Honours (B.A.)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Canadian Studies Honours (B.A.)**<br>加拿大研究荣誉（B.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Understanding Canada.**<br>理解加拿大 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Shaping Public Affairs in Canada.**<br>塑造加拿大的公共事务 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Honours Thesis 1.**<br>荣誉论文 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Honours Thesis 2.**<br>荣誉论文 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Topics in Indigenous Public Affairs .**<br>原住民公共事务专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Introduction to Indigenous Studies.**<br>原住民研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canada and Quebec Seminar.**<br>加拿大与魁北克研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Introduction to the Study of Quebec.**<br>魁北克研究导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Contemporary Issues in Quebec.**<br>魁北克当代议题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Making Canada**<br>构建加拿大 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Current Economic Problems: Topics.**<br>当前经济问题：专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Literature 1.**<br>加拿大文学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Literature 2.**<br>加拿大文学 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Littérature québécoise.**<br>魁北克文学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Survey: Canada to 1867.**<br>概览：1867 年前的加拿大 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Survey: Canada since 1867.**<br>概览：1867 年以来的加拿大 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Government of Canada.**<br>加拿大政府 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Political Process and Behaviour in Canada.**<br>加拿大的政治过程与行为 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Sociology of Ethnic Relations.**<br>族群关系社会学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Topics in Canadian Studies 1.**<br>加拿大研究专题 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Topics in Canadian Studies 2.**<br>加拿大研究专题 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canada in the World.**<br>加拿大在世界中 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Sex and Gender in Canada.**<br>加拿大的性与性别 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Cultures: Context and Issues.**<br>加拿大文化：背景与议题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Topics in Canadian Public Affairs 1.**<br>加拿大公共事务专题 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Topics in Canadian Public Affairs 2.**<br>加拿大公共事务专题 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Indigenous Art and Culture.**<br>原住民艺术与文化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Studies Seminar 1.**<br>加拿大研究研讨课 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Studies Seminar 2.**<br>加拿大研究研讨课 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Studies Seminar 4.**<br>加拿大研究研讨课 4 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Studies Seminar 5.**<br>加拿大研究研讨课 5 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Studies Seminar 6.**<br>加拿大研究研讨课 6 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Individual Reading Course.**<br>个人阅读课程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Internship - Canadian Studies.**<br>实习：加拿大研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Indigenous Studies of Anthropology.**<br>原住民人类学研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Aspects of Canadian Art.**<br>加拿大艺术面面观 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Economic Policy.**<br>加拿大经济政策 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Industrial Organization.**<br>产业组织 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Governmental Policy Towards Business.**<br>政府对商业的政策 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Drama and Theatre.**<br>加拿大戏剧与剧场 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Cinema.**<br>加拿大电影 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Cinéma québécois.**<br>魁北克电影 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **History of Quebec.**<br>魁北克史 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canada and the World.**<br>加拿大与世界 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Women in Post-Confederation Canada.**<br>联邦成立后加拿大的女性 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Cultural Diversity in Canada.**<br>加拿大的文化多样性 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canada 1870-1914.**<br>加拿大 1870-1914 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canada 1914-1945.**<br>加拿大 1914-1945 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canada since 1945.**<br>1945 年以来的加拿大 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Melancholic Migrants**<br>忧郁的移民 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian English.**<br>加拿大英语 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Le Québec et le Canada.**<br>魁北克与加拿大 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Indigenous Peoples and the Canadian State.**<br>原住民与加拿大国家 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Health Care in Canada.**<br>加拿大的医疗保健 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Partis politiques et comportements électoraux au Québec.**<br>魁北克的政党与选举行为 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Quebec Culture and Society.**<br>魁北克文化与社会 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Suspect Minorities in Canada.**<br>加拿大的可疑少数群体 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+| **Canadian Ethnic Studies Seminar.**<br>加拿大族裔研究研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Required Courses (12 credits) | CANS 200 | Understanding Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Required Courses (12 credits) | CANS 420 | Shaping Public Affairs in Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Required Courses (12 credits) | CANS 480 | Honours Thesis 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Required Courses (12 credits) | CANS 481 | Honours Thesis 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Complementary Courses (42 credits) |  | 3 credits chosen from: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Complementary Courses (42 credits) | CANS 306 | Topics in Indigenous Public Affairs . | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Complementary Courses (42 credits) | INDG 200 | Introduction to Indigenous Studies. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Complementary Courses (42 credits) |  | 3 credits chosen from: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Complementary Courses (42 credits) | CANS 413 | Canada and Quebec Seminar. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Complementary Courses (42 credits) | QCST 200 | Introduction to the Study of Quebec. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Complementary Courses (42 credits) | QCST 440 | Contemporary Issues in Quebec. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | Complementary Courses (42 credits) |  | Or another undergraduate 3-credit course focused on Quebec |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level |  | 9 credits chosen from: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | CANS 203 | Making Canada | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | ECON 219 | Current Economic Problems: Topics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | ENGL 228 | Canadian Literature 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | ENGL 229 | Canadian Literature 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | FREN 252 | Littérature québécoise. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | HIST 202 | Survey: Canada to 1867. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | HIST 203 | Survey: Canada since 1867. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | INDG 200 | Introduction to Indigenous Studies. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | POLI 221 | Government of Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | POLI 222 | Political Process and Behaviour in Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 200 Level | SOCI 230 | Sociology of Ethnic Relations. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels |  | 9-15 credits in interdisciplinary Canadian Studies (CANS) courses chosen from: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 300 | Topics in Canadian Studies 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 301 | Topics in Canadian Studies 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 307 | Canada in the World. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 308 | Sex and Gender in Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 310 | Canadian Cultures: Context and Issues. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 311 | Topics in Canadian Public Affairs 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 312 | Topics in Canadian Public Affairs 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 315 | Indigenous Art and Culture. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 401 | Canadian Studies Seminar 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 402 | Canadian Studies Seminar 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 404 | Canadian Studies Seminar 4. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 405 | Canadian Studies Seminar 5. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 406 | Canadian Studies Seminar 6. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 408 | Individual Reading Course. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 413 | Canada and Quebec Seminar. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | CANS 499 | Internship - Canadian Studies. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels |  | 12-18 credits chosen from: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | ANTH 338 | Indigenous Studies of Anthropology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | ARTH 302 | Aspects of Canadian Art. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | ECON 303 | Canadian Economic Policy. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | ECON 305 | Industrial Organization. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | ECON 308 | Governmental Policy Towards Business. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | ENGL 313 | Canadian Drama and Theatre. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | ENGL 393 | Canadian Cinema. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | FREN 315 | Cinéma québécois. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | HIST 303 | History of Quebec. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | HIST 342 | Canada and the World. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | HIST 343 | Women in Post-Confederation Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | HIST 357 | Cultural Diversity in Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | HIST 363 | Canada 1870-1914. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | HIST 364 | Canada 1914-1945. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | HIST 367 | Canada since 1945. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | ISLA 395 | Melancholic Migrants | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | LING 325 | Canadian English. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | POLI 336 | Le Québec et le Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | POLI 372 | Indigenous Peoples and the Canadian State. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | POLI 417 | Health Care in Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | POLI 426 | Partis politiques et comportements électoraux au Québec. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | QCST 300 | Quebec Culture and Society. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | QCST 440 | Contemporary Issues in Quebec. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | SOCI 375 | Suspect Minorities in Canada. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+|  | 300 and 400 levels | SOCI 475 | Canadian Ethnic Studies Seminar. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/) |
+
+## References
+
+McGill University. (n.d.). *Canadian Studies Honours (B.A.)*. Retrieved November 11, 2026, from <https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/>

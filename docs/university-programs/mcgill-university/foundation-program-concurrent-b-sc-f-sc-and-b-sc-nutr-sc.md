@@ -1,0 +1,105 @@
+---
+title: "1.131 Foundation Program Concurrent (B.Sc. (F.Sc.)) and (B.Sc. (Nutr.Sc.))"
+description: "University Programs > McGill University > Foundation Program Concurrent (B.Sc. (F.Sc.)) and (B.Sc. (Nutr.Sc.)): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.131 Foundation Program Concurrent (B.Sc. (F.Sc.)) and (B.Sc. (Nutr.Sc.))
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Foundation Program Concurrent (B.Sc. (F.Sc.)) and (B.Sc. (Nutr.Sc.))**<br>基础项目同修（B.Sc.（F.Sc.））与（B.Sc.（Nutr.Sc.）） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Integrated Life Sciences.**<br>综合生命科学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **General Chemistry 1.**<br>普通化学 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **General Chemistry 2.**<br>普通化学 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Calculus for Life Sciences.**<br>生命科学微积分 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Elements of Physics.**<br>物理学要素 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Organic Chemistry.**<br>有机化学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Organisms 1.**<br>生物体 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Organisms 2.**<br>生物体 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Evolution and Phylogeny.**<br>进化与系统发育 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Indigenous Health and Nutrition.**<br>原住民健康与营养 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Precalculus Lab.**<br>预备微积分实验课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Data Analytics for Biosystems**<br>生物系统数据分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Statistical Methods 1.**<br>统计方法 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Principles of Microeconomics.**<br>微观经济学原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Principles of Macroeconomics.**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Economic Systems of Agriculture.**<br>农业经济体系 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Agro-Ecosystems Field Course.**<br>农业生态系统野外课程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Principles of Ecological Agriculture.**<br>生态农业原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Introduction to Livestock Management**<br>畜牧管理导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Linear Algebra.**<br>线性代数 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Hydrology and Water Resources.**<br>水文学与水资源 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Agri-Food Buildings.**<br>农业食品建筑 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Management of Organic Residue**<br>有机残余物管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Insect Biology.**<br>昆虫生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **The Biophysical Environment.**<br>生物物理环境 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **The Global Environment.**<br>全球环境 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Society, Environment and Sustainability.**<br>社会、环境与可持续性 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **The Evolving Earth.**<br>演化中的地球 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Knowledge, Ethics and Environment.**<br>知识、伦理与环境 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Introduction to Food Science.**<br>食品科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Molecular Cell Biology.**<br>分子细胞生物学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **One Health Fundamentals.**<br>同一健康基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Introductory Microbiology.**<br>微生物学入门 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Environment and Health.**<br>环境与健康 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Applied Human Resources.**<br>应用人力资源 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Financial Management and Accounting.**<br>财务管理与会计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Introduction to Crop Science**<br>作物科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Plant Propagation.**<br>植物繁殖 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Urban Horticulture.**<br>城市园艺 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Greenhouse Management.**<br>温室管理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+| **Natural History of Vertebrates.**<br>脊椎动物自然史 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Required Courses (24 credits) | AEBI 120 | Integrated Life Sciences. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Required Courses (24 credits) | AECH 110 | General Chemistry 1. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Required Courses (24 credits) | AECH 111 | General Chemistry 2. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Required Courses (24 credits) | AEMA 100 | Calculus for Life Sciences. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Required Courses (24 credits) | AEPH 100 | Elements of Physics. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Required Courses (24 credits) | FDSC 230 | Organic Chemistry. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) |  | 6 credits from the following: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AEBI 210 | Organisms 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AEBI 211 | Organisms 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AEBI 212 | Evolution and Phylogeny. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AEIS 230 | Indigenous Health and Nutrition. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AEMA 105 | Precalculus Lab. | 1 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AEMA 204 | Data Analytics for Biosystems | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AEMA 310 | Statistical Methods 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AGEC 200 | Principles of Microeconomics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AGEC 201 | Principles of Macroeconomics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AGEC 231 | Economic Systems of Agriculture. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AGRI 215 | Agro-Ecosystems Field Course. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | AGRI 340 | Principles of Ecological Agriculture. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | ANSC 250 | Introduction to Livestock Management | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | BREE 103 | Linear Algebra. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | BREE 217 | Hydrology and Water Resources. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | BREE 314 | Agri-Food Buildings. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | BREE 322 | Management of Organic Residue | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | ENTO 330 | Insect Biology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | ENVB 210 | The Biophysical Environment. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | ENVR 200 | The Global Environment. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | ENVR 201 | Society, Environment and Sustainability. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | ENVR 202 | The Evolving Earth. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | ENVR 203 | Knowledge, Ethics and Environment. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | FDSC 200 | Introduction to Food Science. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | LSCI 202 | Molecular Cell Biology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | LSCI 207 | One Health Fundamentals. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | LSCI 230 | Introductory Microbiology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | NRSC 221 | Environment and Health. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | NUTR 342 | Applied Human Resources. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | NUTR 343 | Financial Management and Accounting. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | PLNT 200 | Introduction to Crop Science | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | PLNT 310 | Plant Propagation. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | PLNT 312 | Urban Horticulture. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | PLNT 322 | Greenhouse Management. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+|  | Complementary Courses (6 credits) | WILD 307 | Natural History of Vertebrates. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/) |
+
+## References
+
+McGill University. (n.d.). *Foundation Program Concurrent (B.Sc. (F.Sc.)) and (B.Sc. (Nutr.Sc.))*. Retrieved November 11, 2026, from <https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/>

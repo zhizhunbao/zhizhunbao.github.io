@@ -1,0 +1,214 @@
+---
+title: "47.94 Indigenous Studies, 3-Year BA"
+description: "University Programs > University of Winnipeg > Indigenous Studies, 3-Year BA: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 47.94 Indigenous Studies, 3-Year BA
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Indigenous Studies, 3-Year BA**<br>原住民研究，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Introduction to Indigenous Studies: Art, Culture and History**<br>原住民研究导论：艺术、文化与历史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Introduction to Indigenous Studies: Politics and Governance**<br>原住民研究导论：政治与治理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **IS-**<br>IS- | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Women and Resilience**<br>原住民女性与韧性 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Peoples, Lands, and Resources**<br>原住民、土地与资源 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Intermediate Cree**<br>中级克里语 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Intermediate Ojibwe**<br>中级奥吉布瓦语 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **International Rights of Indigenous Peoples**<br>原住民的国际权利 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Special Topics in Indigenous Studies**<br>原住民研究专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Health History**<br>原住民健康史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Ways of Knowing**<br>原住民认知方式 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Introductory Cree**<br>克里语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Introductory Ojibwe**<br>奥吉布瓦语入门 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Sciences: Contributions to Contemporary Challenges**<br>原住民科学：对当代挑战的贡献 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Ethnoecology: A Research Approach**<br>民族生态学：一种研究途径 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **or by taking**<br>或修读 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Protecting Indigenous Knowledge Systems**<br>保护原住民知识体系 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Ethnobotany Field School**<br>民族植物学野外学校 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **with permission of IS Chair**<br>需 IS 系主任许可 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Treaties in Canada**<br>加拿大原住民条约 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Mazinaatesewin: Indigenous Representation in Film**<br>Mazinaatesewin：电影中的原住民形象 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **with permission of IS**<br>需 IS 许可 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Algonquin Peoples**<br>阿尔衮琴人 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Archaeological Field School (IS Chair**<br>考古田野学校（IS 系主任 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **on Turtle Island)**<br>在龟岛上） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Conflict & Development Issues in Indigenous**<br>原住民冲突与发展问题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Food Systems Field School**<br>原住民食物系统野外学校 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Postcolonial Literatures: an Introduction**<br>后殖民文学导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Literatures and Cultures**<br>原住民文学与文化 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Topics in Indigenous Texts and Cultures**<br>原住民文本与文化专题 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Policy**<br>原住民政策 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Advanced Cree I**<br>高级克里语 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Advanced Ojibwe I**<br>高级奥吉布瓦语 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Peoples in Canada to 1815**<br>1815 年以前的加拿大原住民 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Advanced Ojibwe II**<br>高级奥吉布瓦语 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Peoples in Canada since 1815**<br>1815 年以来的加拿大原住民 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **IS/HIST/WGS Indigenous Women’s History**<br>IS/HIST/WGS 原住民女性史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **History of Indigenous Education: Residential**<br>原住民教育史：寄宿 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Directed Readings Anthropology**<br>人类学指导阅读 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Material Culture in the History of**<br>物质文化在……历史中 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Ethnography of Indigenous Peoples in Canada and the US**<br>加拿大和美国原住民民族志 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **/**<br>/ | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **of the Northern Plains**<br>北部平原的 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Archaeology of North America**<br>北美考古学 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Peoples and Treaties**<br>原住民与条约 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Rise of the New World Civilization**<br>新世界文明的兴起 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Women’s History**<br>原住民女性史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Archaeological Field School (IS Chair permission required)**<br>考古田野学校（需 IS 系主任许可） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **History of the Métis in Canada**<br>加拿大梅蒂人史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **History of Eastern and Subarctic**<br>东部与亚北极地区史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Haudenosaunee Peoples**<br>豪德诺索尼人 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Peoples of Arctic Canada ANTH**<br>加拿大北极地区原住民 ANTH | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **History of Winnipeg**<br>温尼伯史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Arts /**<br>原住民艺术 / | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Peoples of Canada**<br>加拿大原住民 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **History of the Indigenous History Peoples of the Northern Plains**<br>北部平原原住民史 原住民历史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Plains**<br>平原 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **/ Indigenous Spirituality: Research Methods**<br>/ 原住民灵性：研究方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Languages of South America**<br>南美洲原住民语言 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Race, Ethnic and Indigenous Relations**<br>种族、族群与原住民关系 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Crime, Victimization and Justice in Aboriginal**<br>原住民的犯罪、受害与司法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous People in Canada & the Law**<br>加拿大原住民与法律 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Justice & Canadian Law**<br>原住民司法与加拿大法律 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Community Development**<br>社区发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Colonization and Indigenous Peoples**<br>殖民化与原住民 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Introduction to Indigenous Spirituality**<br>原住民灵性导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Management and Financial Administration**<br>管理与财务行政 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous & Christian Encounter**<br>原住民与基督教的相遇 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Sacred Narratives Pre-Master's Courses**<br>原住民神圣叙事 硕士预备课程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **The Intergenerational Legacy of Residential Schools**<br>寄宿学校的代际遗产 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Global Perspectives on Aboriginal**<br>原住民的全球视角 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Healers**<br>原住民治疗师 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+| **Indigenous Women’s Teachings**<br>原住民女性的教导 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  |  |  | Students may take a maximum of 6 credit hours of Directed Reading towards the major requirements. |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  |  |  | Students may not count the same course for more than one of the above categories. Courses worth 6 credits meet the 3 credit requirement in the required course categories; any additional credits accrued will count toward the IS major credit hours. |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-1016 | Introduction to Indigenous Studies: Art, Culture and History | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-1017 | Introduction to Indigenous Studies: Politics and Governance | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | 3 credits of Indigenous Cultures and Histories – may be met by taking IS-1101, IS- |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-1101 | IS- |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | 1201, IS-2040, IS-2050, IS-2101, IS-2201, IS-3100, or by taking IS-2001, IS-3001, IS/HIST-3590, any HIST electives accepted for the 3-Yr BA. |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2040 | Indigenous Women and Resilience |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2050 | Indigenous Peoples, Lands, and Resources |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2101 | Intermediate Cree |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2201 | Intermediate Ojibwe |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3100 | International Rights of Indigenous Peoples |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2001 | Special Topics in Indigenous Studies |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3001 | Special Topics in Indigenous Studies |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS/HIST-3590 | Indigenous Health History |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | 3 credits of Indigenous Sciences\* and knowledge systems – may be met by taking |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS/UIC-1010 | Indigenous Ways of Knowing |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-1101 | Introductory Cree |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-1201 | Introductory Ojibwe |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2012 | Indigenous Sciences: Contributions to Contemporary Challenges |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2101 | Intermediate Cree |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2201 | Intermediate Ojibwe |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3012/ANTH-3170 | Ethnoecology: A Research Approach |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3204 | or by taking |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2001 | Special Topics in Indigenous Studies |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3001 | Special Topics in Indigenous Studies |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3010 | Protecting Indigenous Knowledge Systems |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3201 | Ethnobotany Field School |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3901 | with permission of IS Chair |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | 3 credits of Indigenous Politics/Governance – may be met by taking, IS-2040, IS-2050, |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2040 | Indigenous Women and Resilience |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2050 | Indigenous Peoples, Lands, and Resources |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2060 | Indigenous Treaties in Canada |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2402 | Mazinaatesewin: Indigenous Representation in Film |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3100 | or by taking |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2001 | Special Topics in Indigenous Studies |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3001 | Special Topics in Indigenous Studies |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3901 | with permission of IS |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | Chair. |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | 3-YR BA ELECTIVES: (with Required Courses, to total 36-48 Credit hours) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | Indigenous Studies ANTH-3128 History of Eastern and SubArctic /HIST-3528 Algonquin Peoples |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-3128 |  |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3528 | Algonquin Peoples |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-1101 | Introductory Cree | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-3132 |  |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-1201 | Introductory Ojibwe | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2001 | Special Topics in Indigenous Studies | 3 or 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-3203 | Archaeological Field School (IS Chair | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2012 | Indigenous Sciences: Contributions to Contemporary Challenges | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2040 | Indigenous Women and Resilience | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2050 | Indigenous Peoples, Lands, and Resources | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2060 | on Turtle Island) | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | CRS/IDS-2443 | Conflict & Development Issues in Indigenous | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2101 | Intermediate Cree | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2201 | Intermediate Ojibwe | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-2401 | Indigenous Food Systems Field School | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ENGL-2722 | Postcolonial Literatures: an Introduction | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3001 | Special Topics in Indigenous Studies | 3 or 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ENGL/IS-3717 | Indigenous Literatures and Cultures | 3/6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3010 | Protecting Indigenous Knowledge Systems | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3012 | Ethnoecology: A Research Approach | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ENGL/IS-3723 | Topics in Indigenous Texts and Cultures | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3100 | International Rights of Indigenous Peoples | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3102 | Indigenous Policy | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3105 | Advanced Cree I | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3106 | Advanced Ojibwe I | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-2610 | Indigenous Peoples in Canada to 1815 | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS/IL-3107 | Advanced Ojibwe II | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-2611 | Indigenous Peoples in Canada since 1815 | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3201 | IS/HIST/WGS Indigenous Women’s History | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-2616 | History of Indigenous Education: Residential | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | 3523(3) HIST-3619(3) Indigenous Peoples and Christian Missions |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3619 |  | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | IS-3901 | Directed Readings Anthropology | 3 or 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3615/ANTH-3129 | Material Culture in the History of | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-2103 | Ethnography of Indigenous Peoples in Canada and the US | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3616 | / |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-3127 | of the Northern Plains | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-2202 | Archaeology of North America | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3617 | Indigenous Peoples and Treaties | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-2210 | Rise of the New World Civilization | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3623/IS-3523 | Indigenous Women’s History | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-2214 | Archaeological Field School (IS Chair permission required) | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3625 | History of the Métis in Canada | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3528 | Algonquin Peoples | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-3128 | History of Eastern and Subarctic |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-2220 | Archaeological Field School (IS Chair permission required) | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3632/ANTH-3136 | Haudenosaunee Peoples | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-3120 | Indigenous Peoples of Arctic Canada ANTH | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3544 | History of Winnipeg | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3814 | Indigenous Arts / | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3126 | Indigenous Peoples of Canada | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | ANTH-3127 | History of the Indigenous History Peoples of the Northern Plains |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | /HIST- 3518(3) Plains |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | HIST-3518 | Plains | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | Linguistics REL-3804(3) Indigenous Spirituality: Research Methods |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | REL-3804 | / Indigenous Spirituality: Research Methods | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | LING-4103/IS-3104 | Indigenous Languages of South America |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | Sociology |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | Philosophy SOC-2105(6) Race, Ethnic and Indigenous Relations |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | SOC-2105 | Race, Ethnic and Indigenous Relations | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | PHIL-3500 |  | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | SOC-3123 | Crime, Victimization and Justice in Aboriginal | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | (Prerequisite waived for Indigenous Studies students) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | Political Science |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | POL-3411 | Indigenous People in Canada & the Law | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | POL-3415 | Indigenous Justice & Canadian Law | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | UIC/IS-1010 | Indigenous Ways of Knowing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | UIC-2001/IS-2301 | Community Development | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: |  | Religion & Culture UIC/IS/POL-2020(3) Colonization and Indigenous Peoples |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | UIC/IS/POL-2020 | Colonization and Indigenous Peoples | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | REL-2801 | Introduction to Indigenous Spirituality | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | UIC/IS/BUS-2030 | Management and Financial Administration | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | REL-2802 | Indigenous & Christian Encounter | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | REL-2803 | Indigenous Sacred Narratives Pre-Master's Courses | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | UIC/IS-3125 | The Intergenerational Legacy of Residential Schools | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | REL/IDS-2804 | Global Perspectives on Aboriginal | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | REL-3802 | Indigenous Healers | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+|  | Required Courses: | REL-3803 | Indigenous Women’s Teachings | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1) |
+
+## References
+
+University of Winnipeg. (n.d.). *Indigenous Studies, 3-Year BA*. Retrieved November 11, 2026, from <https://www.uwinnipeg.ca/academics/calendar/docs/is.pdf#page=1>

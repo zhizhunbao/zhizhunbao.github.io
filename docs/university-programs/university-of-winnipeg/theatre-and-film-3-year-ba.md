@@ -1,0 +1,213 @@
+---
+title: "47.159 Theatre and Film, 3-Year BA"
+description: "University Programs > University of Winnipeg > Theatre and Film, 3-Year BA: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 47.159 Theatre and Film, 3-Year BA
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Theatre and Film, 3-Year BA**<br>戏剧与电影，3 年制 BA | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Play Analysis**<br>戏剧分析 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Theatre History I: Ancient to Early Modern**<br>戏剧史 I：从古代到近代早期 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Staging Greek and Roman Drama**<br>希腊与罗马戏剧的舞台呈现 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Theatre History III Modernity into the Present**<br>戏剧史 III 从现代性到当下 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Canadian Drama**<br>加拿大戏剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Shakespeare**<br>莎士比亚 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Modern Drama**<br>现代戏剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Le théâtre classique**<br>古典戏剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Film**<br>电影导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Filmmaking I: Screen Narrative Technique**<br>电影制作 I：银幕叙事技巧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **History of Film**<br>电影史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Filmmaking II: Directing the Short Film**<br>电影制作 II：短片导演 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Advanced Post-Production**<br>高级后期制作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Documentary Filmmaking**<br>纪录片制作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Advanced Screenwriting**<br>高级编剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Theatre: Performance**<br>戏剧导论：表演 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Theatre: Performance (Only ONE of**<br>戏剧导论：表演（仅限其中之一 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **1002 or 1003 may be used toward the major)**<br>1002 或 1003 可计入主修） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Acting Theory and Practice**<br>表演理论与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Acting III: Advanced Practice, Process and Performance**<br>表演 III：高级实践、过程与演出 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Screen Acting**<br>银幕表演 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Musical Theatre (offered every second year)**<br>音乐剧（每两年开设一次） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Acting III: Honours**<br>表演 III：荣誉课程 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Devised Theatre (offered every second year)**<br>集体创作戏剧（每两年开设一次） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Voice and Speech Skills for Presentation and Performance**<br>演讲与表演的发声和言语技能 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Principles of Physical Training for the Actor**<br>演员体能训练原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Make-up: Theory and Practice**<br>化妆：理论与实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Business of Theatre**<br>戏剧商业 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Principles of Design**<br>设计原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Scenic Design**<br>舞台设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Costume Design**<br>服装设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Costuming**<br>服装制作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Lighting Design**<br>灯光设计 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Graphic Standards for Theatre Design & Production**<br>戏剧设计与制作的制图标准 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **History of European Art**<br>欧洲艺术史 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Acting Theory and Practice (recommended; pre-req is**<br>表演理论与实践（推荐；先修课为 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Physical Storytelling and Creation**<br>形体叙事与创作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Drama in Education (offered every second year)**<br>教育戏剧（每两年开设一次） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Production I**<br>制作 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Approach to Directing**<br>导演方法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Screenwriting**<br>编剧导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Film Comedy**<br>电影喜剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Film Horror**<br>电影恐怖片 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Producing for Film**<br>电影制片 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Script and Screen**<br>剧本与银幕 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Lighting and Sound in Production**<br>演出中的灯光与音响 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Theatrical Production I**<br>戏剧制作 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Theatrical Production II**<br>戏剧制作 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Production Operations and Management**<br>生产运营与管理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **OR any TWO of the Theatre (THFM) courses listed below under**<br>或下列戏剧（THFM）课程中任意两门，见下文 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Stage Management**<br>舞台管理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Honours Stage Management – Theory**<br>荣誉舞台管理，理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Properties for the Stage**<br>舞台道具 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Scenic Painting**<br>舞台绘景 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Honours Stage Management – Practice**<br>荣誉舞台管理，实践 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Theories in Theatre**<br>戏剧理论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Playwriting I**<br>剧本创作 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Introduction to Devised Theatre**<br>集体创作戏剧导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Principles of Physical Training**<br>体能训练原理 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Acting III: APPP**<br>表演 III：APPP | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Advanced Movement**<br>高级形体动作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Advanced Movement II**<br>高级形体动作 II | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Voice & Text Foundations in Studio**<br>工作室中的声音与文本基础 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Stage Combat**<br>舞台格斗 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Playwriting II: General (offered every second year)**<br>剧本创作 II：通用（每两年开设一次） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Musical Theatre**<br>音乐剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Advanced Dance for Musical Theatre**<br>音乐剧高级舞蹈 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Advanced Music and Singing**<br>高级音乐与歌唱 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+| **Directing I**<br>导演 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Required Courses for all concentrations except Filmmaking: |  | ONE Introduction to Theatre course (Only one Introduction to Theatre may be used toward a THFM major) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required Courses for all concentrations except Filmmaking: | THFM/ENGL-2703 | Play Analysis | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required Courses for all concentrations except Filmmaking: |  | One sequence of practical courses representing one concentration in Theatrical Study as defined below. |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | THEATRE STUDIES GROUP | THFM-2401/HIST-2190 | Theatre History I: Ancient to Early Modern | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | THEATRE STUDIES GROUP | THFM/CLAS-2405 | Staging Greek and Roman Drama | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | THEATRE STUDIES GROUP | THFM-3401/HIST-3190 | Theatre History III Modernity into the Present | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | THEATRE STUDIES GROUP | THFM-3402/ENGL-3403 | Canadian Drama | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | THEATRE STUDIES GROUP | ENGL-2311 | Shakespeare | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | THEATRE STUDIES GROUP | ENGL-3401 | Modern Drama | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | THEATRE STUDIES GROUP | FREN-4748 | Le théâtre classique | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required courses for FILMMAKING: |  | ONE Introduction to Theatre course (Only one Introduction to Theatre may be used toward a THFM major) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required courses for FILMMAKING: | THFM-1010 | Introduction to Film | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required courses for FILMMAKING: | THFM-2310 | Filmmaking I: Screen Narrative Technique | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required courses for FILMMAKING: | THFM-2410/HIST-2191 | History of Film | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of: | THFM-3310 | Filmmaking II: Directing the Short Film | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of: | THFM-3314 | Advanced Post-Production | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of: | THFM-3315 | Documentary Filmmaking | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of: | THFM-3611 | Advanced Screenwriting | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-1001 | Introduction to Theatre: Performance |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-1003 | Introduction to Theatre: Performance (Only ONE of |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-1001 | 1002 or 1003 may be used toward the major) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-2101 | Acting Theory and Practice | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of the following: | THFM-3101 | Acting III: Advanced Practice, Process and Performance | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of the following: | THFM-3110 | Screen Acting | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of the following: | THFM-3920 | Musical Theatre (offered every second year) | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of the following: | THFM-4131 | Acting III: Honours | 9 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of the following: | THFM-4133 | Devised Theatre (offered every second year) | 9 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: | THFM/ENGL-2703 | Play Analysis | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: |  | AND a minimum of 3 credit hours from the Theatre Studies Group |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2502 | Voice and Speech Skills for Presentation and Performance | 3 or 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2505 | Principles of Physical Training for the Actor | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2603 | Make-up: Theory and Practice | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2802 | Business of Theatre | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): |  | A first-year English course |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: |  | ONE Introduction to Theatre course (Only ONE of THFM 1001, 1002 or 1003 may be used toward the major) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-1001 | Introduction to Theatre: Performance |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-2201 | Principles of Design | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-3204 | Scenic Design | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-3205 | Costume Design | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: | THFM/ENGL-2703 | Play Analysis | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: |  | AND a minimum of 3 credit hours from the Theatre Studies Group |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2601 | Costuming | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2602 | Lighting Design | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2202 | Graphic Standards for Theatre Design & Production | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | HIST-2800 | History of European Art | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): |  | A first-year English course |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: |  | ONE Introduction to Theatre course (Only ONE of THFM 1001, 1002 or 1003 may be used toward the major) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-1001 | Introduction to Theatre: Performance |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-2101 | Acting Theory and Practice (recommended; pre-req is | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-1001 | Introduction to Theatre: Performance |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: |  | 1002) OR THFM-2503(6) Physical Storytelling and Creation |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-2503 | Physical Storytelling and Creation | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-3502 | Drama in Education (offered every second year) | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: | THFM/ENGL-2703 | Play Analysis | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: |  | AND a minimum of 3 credit hours from the Theatre Studies Group |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended: | THFM-2201 | Principles of Design | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended: | THFM-2801 | Production I | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended: | THFM-3131 | Approach to Directing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended: |  | A first-year English course |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-1010 | Introduction to Film | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-2310 | Filmmaking I: Screen Narrative Technique | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of: | THFM-3310 | Filmmaking II: Directing the Short Film | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of: | THFM-3314 | Advanced Post-Production | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of: | THFM-3315 | Documentary Filmmaking | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | AND at least ONE of: | THFM-3611 | Advanced Screenwriting | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: |  | ONE Introduction to Theatre course (Only ONE of THFM 1001, 1002 or 1003 may be used toward the major) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: | THFM-1001 | Introduction to Theatre: Performance |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: | THFM-2410/HIST-2191 | History of Film | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: | THFM-2611 | Introduction to Screenwriting | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2311 | Film Comedy | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2314 | Film Horror | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2510 | Producing for Film | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2602 | Lighting Design | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2610 | Script and Screen | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2801 | Production I | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2803 | Lighting and Sound in Production | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-3611 | Advanced Screenwriting | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-3314 | Advanced Post-Production | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-3315 | Documentary Filmmaking | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory Sequence: |  | ONE Introduction to Theatre course (Only ONE of THFM 1001, 1002 or 1003 may be used toward the major) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory Sequence: | THFM-1001 | Introduction to Theatre: Performance |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory Sequence: | THFM-2801 | Theatrical Production I | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | For PRODUCTION only: | THFM-3801 | Theatrical Production II | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | For PRODUCTION only: | THFM-3807 | Production Operations and Management | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | For STAGE MANAGEMENT only: | THFM-3801 | OR any TWO of the Theatre (THFM) courses listed below under | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | For STAGE MANAGEMENT only: |  | "Recommended" |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | For STAGE MANAGEMENT only: | THFM-3802 | Stage Management | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | For STAGE MANAGEMENT only: | THFM-4802 | Honours Stage Management – Theory | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: | THFM/ENGL-2703 | Play Analysis | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year: |  | AND a minimum of 3 credit hours from the Theatre Studies Group |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2201 | Principles of Design | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2601 | Costuming | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2802 | Business of Theatre | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-2202 | Graphic Standards for Theatre Design & Production | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-3803 | Properties for the Stage | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-3804 | Scenic Painting | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-3807 | Production Operations and Management | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Recommended (in no particular order of preference): | THFM-4803 | Honours Stage Management – Practice | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: |  | ONE Introduction to Theatre course (Only ONE of THFM 1001, 1002 or 1003 may be used toward the major) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-1001 | Introduction to Theatre: Performance |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-2101 | Acting Theory and Practice | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM-2201 | Principles of Design | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Compulsory sequence: | THFM/ENGL-2703 | Play Analysis | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year (as long as pre-requisites are met for subsequent courses): | THFM-2802 | Business of Theatre | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year (as long as pre-requisites are met for subsequent courses): | THFM-4443 | Theories in Theatre | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Required but not in any particular order or year (as long as pre-requisites are met for subsequent courses): |  | AND a minimum of 9 credit hours from the Theatre Studies Group |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-2701 | Playwriting I | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-2133 | Introduction to Devised Theatre | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-2505 | Principles of Physical Training | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-2801 | Theatrical Production I | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3101 | Acting III: APPP | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3105 | Advanced Movement | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3106 | Advanced Movement II | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3108 | Voice & Text Foundations in Studio | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3110 | Screen Acting | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3131 | Approach to Directing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3503 | Stage Combat | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3701 | Playwriting II: General (offered every second year) | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3920 | Musical Theatre | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3924 | Advanced Dance for Musical Theatre | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-3925 | Advanced Music and Singing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+|  | Plus 9ch from the following: | THFM-4331 | Directing I | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1) |
+
+## References
+
+University of Winnipeg. (n.d.). *Theatre and Film, 3-Year BA*. Retrieved November 11, 2026, from <https://www.uwinnipeg.ca/academics/calendar/docs/thfm.pdf#page=1>

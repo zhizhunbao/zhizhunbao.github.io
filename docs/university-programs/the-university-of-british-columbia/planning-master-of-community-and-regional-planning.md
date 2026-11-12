@@ -1,0 +1,67 @@
+---
+title: "3.456 Planning, Master of Community and Regional Planning"
+description: "University Programs > The University of British Columbia > Planning, Master of Community and Regional Planning: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 3.456 Planning, Master of Community and Regional Planning
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Planning, Master of Community and Regional Planning**<br>规划，社区与区域规划硕士 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Comparative Perspectives on Planning History and Futures**<br>规划史与未来的比较视角 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Reconciliation and Planning**<br>和解与规划 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Sustainability and Resilience in Planning**<br>规划中的可持续性与韧性 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Urban Design and Visual Representation**<br>城市设计与视觉表达 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Planning Theory, Values, and Ethics**<br>规划理论、价值与伦理 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Information and Analysis in Planning**<br>规划中的信息与分析 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Engagement and Facilitation for Planners**<br>规划师的参与和促进 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **The Legal and Institutional Context of Planning**<br>规划的法律与制度背景 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Urban Economics, Infrastructure, and Real Estate Issues in Planning**<br>规划中的城市经济学、基础设施与房地产议题 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Making and Implementing Community and Regional Plans**<br>社区与区域规划的制定与实施 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Internship**<br>实习 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Planning Praxis**<br>规划实践 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Planning Studio**<br>规划工作室 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Indigenous Planning: Ways of Being, Knowing and Doing**<br>原住民规划：存在、认知与行动方式 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Indigenous Law, Governance and Community Planning**<br>原住民法、治理与社区规划 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Planning for Community Economic Development**<br>社区经济发展规划 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+| **Indigenous Community Planning Practicum**<br>原住民社区规划实习 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  |  |  | The M.C.R.P. curriculum offers a strong core sequence of 42 credits that is tailored to the evolving demands of the profession. |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  |  |  | Students will additionally complete 18 credits of elective courses customized for their interests and professional aspirations. |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements |  | The total program credit requirement is 60 credits, including 42 credits of required courses that incorporate accreditation performance criteria and essential background for planning. |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 500 | Comparative Perspectives on Planning History and Futures | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 501 | Reconciliation and Planning | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 502 | Sustainability and Resilience in Planning | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 504 | Urban Design and Visual Representation | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 505 | Planning Theory, Values, and Ethics | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 506 | Information and Analysis in Planning | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 507 | Engagement and Facilitation for Planners | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 511 | The Legal and Institutional Context of Planning | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 512 | Urban Economics, Infrastructure, and Real Estate Issues in Planning | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 513 | Making and Implementing Community and Regional Plans | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 527 | Internship |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 540 | Planning Praxis | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 541 | Planning Studio | 6 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements |  | For the remaining 18 credits, students can choose courses tailored with their interests through consultation with their Faculty Advisor. |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 500 | Comparative Perspectives on Planning History and Futures | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 502 | Sustainability and Resilience in Planning | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 504 | Urban Design and Visual Representation | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 505 | Planning Theory, Values, and Ethics | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 506 | Information and Analysis in Planning | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 507 | Engagement and Facilitation for Planners | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 511 | The Legal and Institutional Context of Planning | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 514 | Indigenous Planning: Ways of Being, Knowing and Doing | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 515 | Indigenous Law, Governance and Community Planning | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 516 | Planning for Community Economic Development | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+|  | Program Requirements | PLAN_V 543 | Indigenous Community Planning Practicum | 12 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning) |
+
+## References
+
+The University of British Columbia. (n.d.). *Planning, Master of Community and Regional Planning*. Retrieved November 11, 2026, from <https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/planning>

@@ -1,0 +1,38 @@
+---
+title: "1.463 Italian (Thesis) (M.A.)"
+description: "University Programs > McGill University > Italian (Thesis) (M.A.): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.463 Italian (Thesis) (M.A.)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Italian (Thesis) (M.A.)**<br>意大利语（论文型）（M.A.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+| **Thesis Proposal.**<br>论文开题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+| **Thesis.**<br>论文 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+| **The Literary Tradition.**<br>文学传统 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+| **Bibliography of Italian Literature.**<br>意大利文学文献 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+| **Topics in Literary Theory.**<br>文学理论专题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+| **Research Seminar.**<br>研究研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Thesis Courses (24 credits) | ITAL 698 | Thesis Proposal. | 6 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+|  | Thesis Courses (24 credits) | ITAL 699 | Thesis. | 18 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+|  | Required Courses (12 credits) | ITAL 602 | The Literary Tradition. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+|  | Required Courses (12 credits) | ITAL 610 | Bibliography of Italian Literature. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+|  | Required Courses (12 credits) | ITAL 619 | Topics in Literary Theory. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+|  | Required Courses (12 credits) | ITAL 680 | Research Seminar. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+|  | Complementary Courses (9 credits) |  | 9 additional course credits, chosen in consultation with an adviser from among the graduate courses offered by the Department. The three courses should cover three distinct chronological periods in Italian literature. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+|  | Complementary Courses (9 credits) |  | A maximum of 6 credits of graduate courses may be taken outside the Italian Studies Department, upon the advice of the Supervisor and with the permission of the Graduate Studies Director. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+|  | Complementary Courses (9 credits) |  | In exceptional cases, when program requirements cannot be fulfilled otherwise, students may take ITAL 606 Individual Reading Course 1. and ITAL 607 Individual Reading Course 2. offered as tutorials. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+|  | Complementary Courses (9 credits) |  | Typically, the first year of the program will consist of: Literary Theory course, ITAL 610 Bibliography of Italian Literature. , the three complementary courses and ITAL 698 Thesis Proposal. . The second year will include ITAL 602 The Literary Tradition. , ITAL 680 Research Seminar. and the thesis. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/) |
+
+## References
+
+McGill University. (n.d.). *Italian (Thesis) (M.A.)*. Retrieved November 11, 2026, from <https://coursecatalogue.mcgill.ca/en/graduate/arts/languages-literatures-cultures/italian-thesis-ma/>

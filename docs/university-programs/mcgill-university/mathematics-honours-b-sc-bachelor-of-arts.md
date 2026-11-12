@@ -1,0 +1,120 @@
+---
+title: "1.197 Mathematics Honours (B.Sc.) (Bachelor of Arts)"
+description: "University Programs > McGill University > Mathematics Honours (B.Sc.) (Bachelor of Arts): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.197 Mathematics Honours (B.Sc.) (Bachelor of Arts)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Mathematics Honours (B.Sc.) (Bachelor of Arts)**<br>数学荣誉（B.Sc.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Linear Algebra and Geometry.**<br>线性代数与几何 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Calculus A.**<br>微积分 A | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Calculus B.**<br>微积分 B | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Calculus 3.**<br>微积分 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Algebra 2.**<br>荣誉代数 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Analysis 2.**<br>荣誉分析 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Ordinary Differential Equations.**<br>荣誉常微分方程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Probability.**<br>荣誉概率论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Statistics.**<br>荣誉统计学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Advanced Calculus.**<br>荣誉高等微积分 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Analysis 3.**<br>荣誉分析 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Analysis 4.**<br>荣誉分析 4 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Algebra 3.**<br>荣誉代数 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Algebra 4.**<br>荣誉代数 4 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Differential Geometry.**<br>荣誉微分几何 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Complex Analysis.**<br>荣誉复分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Research Project.**<br>荣誉研究项目 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Partial Differential Equations.**<br>荣誉偏微分方程 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Analysis 1.**<br>分析 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Analysis 1.**<br>荣誉分析 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Algebra 1.**<br>代数 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Algebra 1.**<br>荣誉代数 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Principles of Statistics 2.**<br>统计学原理 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Introduction to Statistical Computing.**<br>统计计算导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Fundamentals of Statistical Learning.**<br>统计学习基础 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Theory of Interest.**<br>利息理论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **History and Philosophy of Mathematics.**<br>数学的历史与哲学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Nonlinear Optimization .**<br>非线性优化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Mathematical Finance.**<br>数理金融 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Machine Learning .**<br>机器学习 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Convex Optimization.**<br>凸优化 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Introduction to Computer Science.**<br>计算机科学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Algorithms and Data Structures.**<br>荣誉算法与数据结构 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Discrete Mathematics .**<br>荣誉离散数学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Problem Seminar.**<br>问题研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Groups, Tilings and Algorithms.**<br>荣誉群、镶嵌与算法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Nonlinear Dynamics.**<br>荣誉非线性动力学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Number Theory.**<br>荣誉数论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Numerical Analysis.**<br>荣誉数值分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Matrix Numerical Analysis.**<br>荣誉矩阵数值分析 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Euclidean Geometry .**<br>荣誉欧几里得几何 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Independent Study.**<br>荣誉独立研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+| **Honours Set Theory.**<br>荣誉集合论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Program Prerequisites |  | The minimum requirement for entry into the Honours program is that the student has completed with high standing the following courses below or their equivalents. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Program Prerequisites | MATH 133 | Linear Algebra and Geometry. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Program Prerequisites | MATH 150 | Calculus A. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Program Prerequisites | MATH 151 | Calculus B. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Program Prerequisites |  | In particular, MATH 150 Calculus A. / MATH 151 Calculus B. and MATH 140 Calculus 1. / MATH 141 Calculus 2. / MATH 222 Calculus 3. are considered equivalent. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Program Prerequisites |  | Students who have not completed an equivalent of MATH 222 Calculus 3. on entering the program must consult an academic adviser and take MATH 222 Calculus 3. as a required course in the first semester, increasing the total number of program credits from 60 to 63. Students who have successfully completed MATH 150 Calculus A. / MATH 151 Calculus B. are not required to take MATH 222 Calculus 3. . |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Program Prerequisites |  | Students who transfer to Honours in Mathematics from other programs will have credits for previous courses assigned, as appropriate, by the Department. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Program Prerequisites |  | To be awarded the Honours degree, the student must have, at time of graduation, a CGPA of at least 3.00 in the required and complementary Mathematics courses of the program, as well as an overall CGPA of at least 3.00. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 222 | Calculus 3. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 251 | Honours Algebra 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 255 | Honours Analysis 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 325 | Honours Ordinary Differential Equations. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 356 | Honours Probability. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 357 | Honours Statistics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 358 | Honours Advanced Calculus. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 454 | Honours Analysis 3. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 455 | Honours Analysis 4. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 456 | Honours Algebra 3. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 457 | Honours Algebra 4. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 458 | Honours Differential Geometry. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 466 | Honours Complex Analysis. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 470 | Honours Research Project. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Required Courses (45 credits) | MATH 475 | Honours Partial Differential Equations. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) |  | 3 credits selected from: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 242 | Analysis 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 254 | Honours Analysis 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) |  | 3 credits selected from: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 235 | Algebra 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 245 | Honours Algebra 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) |  | 0-6 credits from the following courses for which no Honours equivalent exists: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 204 | Principles of Statistics 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 208 | Introduction to Statistical Computing. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 308 | Fundamentals of Statistical Learning. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 329 | Theory of Interest. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 338 | History and Philosophy of Mathematics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 378 | Nonlinear Optimization . | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 430 | Mathematical Finance. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 462 | Machine Learning . | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 463 | Convex Optimization. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) |  | 6-12 credits selected from: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | COMP 250 | Introduction to Computer Science. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | COMP 252 | Honours Algorithms and Data Structures. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 350 | Honours Discrete Mathematics . | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 352 | Problem Seminar. | 1 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 365 | Honours Groups, Tilings and Algorithms. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 376 | Honours Nonlinear Dynamics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 377 | Honours Number Theory. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 387 | Honours Numerical Analysis. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 397 | Honours Matrix Numerical Analysis. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 398 | Honours Euclidean Geometry . | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 462 | Machine Learning . | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 480 | Honours Independent Study. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) | MATH 488 | Honours Set Theory. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) |  | all MATH 500-level courses |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+|  | Complementary Courses (15 credits) |  | Students may select other courses with the permission of the Department. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/) |
+
+## References
+
+McGill University. (n.d.). *Mathematics Honours (B.Sc.)*. Retrieved November 11, 2026, from <https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/>

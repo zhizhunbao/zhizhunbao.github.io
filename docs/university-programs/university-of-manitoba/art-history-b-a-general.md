@@ -1,0 +1,102 @@
+---
+title: "22.14 Art History, B.A. General"
+description: "University Programs > University of Manitoba > Art History, B.A. General: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 22.14 Art History, B.A. General
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Art History, B.A. General**<br>艺术史，B.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Introduction to Art 1A**<br>艺术导论 1A | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Introduction to Art 2A**<br>艺术导论 2A | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **First Year Field Trip**<br>一年级野外考察 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Greek Art and Archaeology**<br>希腊艺术与考古学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Roman Art and Archaeology**<br>罗马艺术与考古 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Survey of Asian Art**<br>亚洲艺术概览 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Medieval to Early Renaissance Art and Architecture**<br>中世纪至文艺复兴早期艺术与建筑 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Renaissance to Baroque Art and Architecture**<br>文艺复兴至巴洛克艺术与建筑 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Modern to Contemporary Art**<br>现代至当代艺术 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Indigenous Peoples’ Art History**<br>原住民艺术史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Women and Art**<br>女性与艺术 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Field Studies in Art History I**<br>艺术史田野研究 I | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Field Studies in Art History 2**<br>艺术史田野研究 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Writing about Art**<br>艺术写作 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Topics in Medieval Art and Architecture**<br>中世纪艺术与建筑专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Topics in Renaissance and Baroque Art and Architecture**<br>文艺复兴与巴洛克艺术与建筑专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Topics in 18th and 19th Century Art**<br>18 世纪与 19 世纪艺术专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Topics in 20th Century Art**<br>20 世纪艺术专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **History of Photography**<br>摄影史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **History of Ceramics**<br>陶瓷史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Art in New Media**<br>新媒体艺术 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Contemporary Art History**<br>当代艺术史 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Introduction to The Theory of Art**<br>艺术理论导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Topics in Aboriginal Art**<br>原住民艺术专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Chinese Art and Architecture**<br>中国艺术与建筑 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Japanese Art and Architecture**<br>日本艺术与建筑 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Topics in Art History**<br>艺术史专题 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Canadian Art and Architecture to World War 2**<br>第 2 次世界大战以前的加拿大艺术与建筑 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Canadian Art Since World War 2**<br>第 2 次世界大战以来的加拿大艺术 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Early Byzantine Art and Architecture**<br>早期拜占庭艺术与建筑 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Later Byzantine Art and Architecture**<br>晚期拜占庭艺术与建筑 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Inuit Art**<br>因纽特艺术 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Islamic Art and Architecture**<br>伊斯兰艺术与建筑 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Twentieth Century American Art Until 1950**<br>1950 年以前的 20 世纪美国艺术 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Introduction to Curatorial Studies**<br>策展研究导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Seminar in Art Theory and Criticism**<br>艺术理论与批评研讨课 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Seminar in Art History 1**<br>艺术史研讨课 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Seminar on Contemporary Issues in Art**<br>当代艺术问题研讨课 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Directed Study 1**<br>指导研究 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+| **Directed Study 2**<br>指导研究 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Introductory Courses | FAAH 1030 | Introduction to Art 1A | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Introductory Courses | FAAH 1040 | Introduction to Art 2A | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Introductory Courses | FA 1990 | First Year Field Trip | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Classics | CLAS 2670 | Greek Art and Archaeology | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Classics | CLAS 2680 | Roman Art and Archaeology | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Art History | FAAH 1100 | Survey of Asian Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Art History | FAAH 2060 | Medieval to Early Renaissance Art and Architecture | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Art History | FAAH 2070 | Renaissance to Baroque Art and Architecture | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Art History | FAAH 2080 | Modern to Contemporary Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Art History | FAAH 2090 | Indigenous Peoples’ Art History | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | Art History | FAAH 2110 | Women and Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 2910 | Field Studies in Art History I | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 2920 | Field Studies in Art History 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 2930 | Writing about Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3130 | Topics in Medieval Art and Architecture | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3140 | Topics in Renaissance and Baroque Art and Architecture | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3150 | Topics in 18th and 19th Century Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3160 | Topics in 20th Century Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3180 | History of Photography | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3190 | History of Ceramics | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3200 | Art in New Media | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3202 | Contemporary Art History | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3212 | Introduction to The Theory of Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3220 | Topics in Aboriginal Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3230 | Chinese Art and Architecture | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3240 | Japanese Art and Architecture | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3250 | Topics in Art History | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3260 | Canadian Art and Architecture to World War 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3270 | Canadian Art Since World War 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3280 | Early Byzantine Art and Architecture | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3290 | Later Byzantine Art and Architecture | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3430 | Inuit Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3590 | Islamic Art and Architecture | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3780 | Twentieth Century American Art Until 1950 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 3930 | Introduction to Curatorial Studies | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 4060 | Seminar in Art Theory and Criticism | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 4070 | Seminar in Art History 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 4090 | Seminar on Contemporary Issues in Art | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 4710 | Directed Study 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+|  | School of Art | FAAH 4720 | Directed Study 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/) |
+
+## References
+
+University of Manitoba. (n.d.). *Art History, B.A. General*. Retrieved November 11, 2026, from <https://catalog.umanitoba.ca/undergraduate-studies/arts/courses-programs-offered-faculties-schools-credit-arts/art-history-ba-general/>

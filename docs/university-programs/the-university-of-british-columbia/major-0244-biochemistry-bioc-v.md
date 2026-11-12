@@ -1,0 +1,99 @@
+---
+title: "3.198 Major (0244): Biochemistry (BIOC_V)"
+description: "University Programs > The University of British Columbia > Major (0244): Biochemistry (BIOC_V): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 3.198 Major (0244): Biochemistry (BIOC_V)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Major (0244): Biochemistry (BIOC_V)**<br>主修（0244）：生物化学（BIOC_V） | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **First-Year Seminar in Science**<br>理学一年级研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Biology of the Cell**<br>细胞生物学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Structure and Bonding in Chemistry**<br>化学中的结构与成键 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Structure, Bonding, and Equilibrium in Chemistry**<br>化学中的结构、成键与平衡 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Chemical Bonding, Molecular Structure and Properties for Lab Sciences**<br>实验科学的化学键、分子结构与性质 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Thermodynamics, Kinetics and Organic Chemistry**<br>热力学、动力学与有机化学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Differential Calculus with Applications**<br>微分学及其应用 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Differential Calculus with Applications to Life Sciences**<br>微分学及其在生命科学中的应用 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Differential Calculus with Applications to Commerce and Social Sciences**<br>微分学及其在商科与社会科学中的应用 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Introduction to Data Science**<br>数据科学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Introduction to Systematic Program Design**<br>系统化程序设计导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Introductory Physics**<br>物理学入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Fundamentals of Biochemistry**<br>生物化学基础 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Fundamentals of Cell Biology**<br>细胞生物学基础 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Fundamentals of Genetics**<br>遗传学基础 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Physical Chemistry**<br>物理化学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Introduction to Organic Chemistry**<br>有机化学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Organic Chemistry**<br>有机化学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Intermediate Synthetic Chemistry Laboratory**<br>中级合成化学实验 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Statistical Inference for Data Science**<br>数据科学统计推断 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Programming, Problem Solving, and Algorithms**<br>编程、问题求解与算法 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Biochemistry Laboratory**<br>生物化学实验 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Molecular Biochemistry**<br>分子生物化学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Quantitative Methods in Biochemistry**<br>生物化学定量方法 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Molecular Genetics**<br>分子遗传学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Advanced Organic Chemistry for the Life Sciences**<br>生命科学高级有机化学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Proteins: Structure and Function**<br>蛋白质：结构与功能 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Nucleic Acids-Structure and Function**<br>核酸——结构与功能 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Enzymology**<br>酶学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Recombinant DNA Techniques**<br>重组 DNA 技术 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Advanced Topics in Protein Biochemistry**<br>蛋白质生物化学高级专题 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Concepts in Molecular Biology**<br>分子生物学概念 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Membrane Biochemistry**<br>膜生物化学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Advanced Techniques in Biochemistry**<br>生物化学高级技术 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| **Biochemistry & Society: Current Issues**<br>生物化学与社会：当前议题 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  |  |  | First Year Credits |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  |  | SCIE_V 113 | First-Year Seminar in Science | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  |  |  | Additional Communication Requirement | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  |  | BIOL_V 112 | Biology of the Cell | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  | CHEM_V 121 (or 111 or 141) | CHEM_V 121 | Structure and Bonding in Chemistry | 4 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  | CHEM_V 121 (or 111 or 141) | CHEM_V 111 | Structure, Bonding, and Equilibrium in Chemistry | 4 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  | CHEM_V 121 (or 111 or 141) | CHEM_V 141 | Chemical Bonding, Molecular Structure and Properties for Lab Sciences | 4 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  |  | CHEM_V 123 | Thermodynamics, Kinetics and Organic Chemistry | 4 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  | MATH_V 100 or 102 or 104 | MATH_V 100 | Differential Calculus with Applications | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  | MATH_V 100 or 102 or 104 | MATH_V 102 | Differential Calculus with Applications to Life Sciences | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  | MATH_V 100 or 102 or 104 | MATH_V 104 | Differential Calculus with Applications to Commerce and Social Sciences | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  | DSCI_V 100 or CPSC_V 103 | DSCI_V 100 | Introduction to Data Science | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  | DSCI_V 100 or CPSC_V 103 | CPSC_V 103 | Introduction to Systematic Program Design | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  | PHYS_V 100-level | PHYS_V 100 | Introductory Physics | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+|  |  |  | Electives | 4 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year |  | BIOC_V 203 | Fundamentals of Biochemistry | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year |  | BIOL_V 200 | Fundamentals of Cell Biology | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year |  | BIOL_V 234 | Fundamentals of Genetics | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year |  | CHEM_V 205 | Physical Chemistry | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year |  | CHEM_V 203 | Introduction to Organic Chemistry | 4 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year | CHEM_V 213, 245 | CHEM_V 213 | Organic Chemistry | 4 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year | CHEM_V 213, 245 | CHEM_V 245 | Intermediate Synthetic Chemistry Laboratory | 4 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year | STAT_V 201 or CPSC_V 203 | STAT_V 201 | Statistical Inference for Data Science | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year | STAT_V 201 or CPSC_V 203 | CPSC_V 203 | Programming, Problem Solving, and Algorithms | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Second Year |  |  | Electives | 7 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Third Year |  | BIOC_V 301 | Biochemistry Laboratory | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Third Year |  | BIOC_V 303 | Molecular Biochemistry | 6 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Third Year |  | BIOC_V 306 | Quantitative Methods in Biochemistry | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Third Year |  | BIOL_V 335 | Molecular Genetics | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Third Year |  | CHEM_V 313 | Advanced Organic Chemistry for the Life Sciences | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Third Year |  |  | Electives | 12 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year | BIOC_V 402, 410 | BIOC_V 402 | Proteins: Structure and Function | 6 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year | BIOC_V 402, 410 | BIOC_V 410 | Nucleic Acids-Structure and Function | 6 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year | One of BIOC_V 403, 421, 430, 440, 450, 460, 470 | BIOC_V 403 | Enzymology | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year | One of BIOC_V 403, 421, 430, 440, 450, 460, 470 | BIOC_V 421 | Recombinant DNA Techniques | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year | One of BIOC_V 403, 421, 430, 440, 450, 460, 470 | BIOC_V 430 | Advanced Topics in Protein Biochemistry | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year | One of BIOC_V 403, 421, 430, 440, 450, 460, 470 | BIOC_V 440 | Concepts in Molecular Biology | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year | One of BIOC_V 403, 421, 430, 440, 450, 460, 470 | BIOC_V 450 | Membrane Biochemistry | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year | One of BIOC_V 403, 421, 430, 440, 450, 460, 470 | BIOC_V 460 | Advanced Techniques in Biochemistry | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year | One of BIOC_V 403, 421, 430, 440, 450, 460, 470 | BIOC_V 470 | Biochemistry & Society: Current Issues | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year |  |  | BIOC_V Upper Year Elective | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+| Fourth Year |  |  | Electives | 18 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry) |
+
+## References
+
+The University of British Columbia. (n.d.). *Major (0244): Biochemistry (BIOC_V)*. Retrieved November 11, 2026, from <https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry>

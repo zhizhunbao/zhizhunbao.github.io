@@ -1,0 +1,76 @@
+---
+title: "3.258 Major in Geography"
+description: "University Programs > The University of British Columbia > Major in Geography: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 3.258 Major in Geography
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Major in Geography**<br>地理学主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Earth Systems: Weather, Climate, and Life**<br>地球系统：天气、气候与生命 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Earth Systems: Landscape Dynamics**<br>地球系统：地貌动力学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Introduction to Physical Geography: Place, Process, and People**<br>自然地理学导论：地方、过程与人 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Human Geography: Space, Place, and Community**<br>人文地理学：空间、地方与社区 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Human Geography: Resources, Development, and Society**<br>人文地理学：资源、发展与社会 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Introduction to Research in Sustainability and Geography**<br>可持续性与地理学研究导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Seeing our World: An Introduction to Visual Geographies**<br>观看我们的世界：视觉地理学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Introduction to Cartography and Mapmaking**<br>制图学与地图制作导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Geographic Data Analysis**<br>地理数据分析 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Introduction to Environmental Issues**<br>环境问题导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Geographies of British Columbia**<br>不列颠哥伦比亚省地理 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Food Systems I: System Thinking**<br>食品系统 I：系统思维 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Climate Change and Society**<br>气候变化与社会 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Introduction to Urban Geography**<br>城市地理学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Space and Culture**<br>空间与文化 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Development Geography**<br>发展地理学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Introduction to the Geography of Canada**<br>加拿大地理导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **People, Places and Pinot**<br>人、地方与黑皮诺 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Research Strategies in Human Geography**<br>人文地理学研究策略 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Community Based Participatory Research: Theory and Practice**<br>社区参与式研究：理论与实践 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Qualitative Research in Human Geography**<br>人文地理学质性研究 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+| **Advanced Seminar in Critical Geography**<br>批判地理学高级研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  |  |  | Major in Geography Credits |  | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  |  |  | Foundational Requirements | 21 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  |  |  | Program Requirements | 48 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  |  |  | 300/400-level Electives outside of GEOG_O | 18 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  |  |  | Electives any level | 33 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  |  |  | First Year Credits |  | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | One of GEOG_O 108, 109, 110 | GEOG_O 108 | Earth Systems: Weather, Climate, and Life | 3 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | One of GEOG_O 108, 109, 110 | GEOG_O 109 | Earth Systems: Landscape Dynamics | 3 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | One of GEOG_O 108, 109, 110 | GEOG_O 110 | Introduction to Physical Geography: Place, Process, and People | 3 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | One of GEOG_O 128, 129 | GEOG_O 128 | Human Geography: Space, Place, and Community | 3 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | One of GEOG_O 128, 129 | GEOG_O 129 | Human Geography: Resources, Development, and Society | 3 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  |  |  | Second Year Credits |  | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 201, 257, 270, 271 | GEOG_O 201 | Introduction to Research in Sustainability and Geography | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 201, 257, 270, 271 | GEOG_O 257 | Seeing our World: An Introduction to Visual Geographies | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 201, 257, 270, 271 | GEOG_O 270 | Introduction to Cartography and Mapmaking | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 201, 257, 270, 271 | GEOG_O 271 | Geographic Data Analysis | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 213, 217, 221, 233, 250, 255, 280, 290, 295 | GEOG_O 213 | Introduction to Environmental Issues | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 213, 217, 221, 233, 250, 255, 280, 290, 295 | GEOG_O 217 | Geographies of British Columbia | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 213, 217, 221, 233, 250, 255, 280, 290, 295 | GEOG_O 221 | Food Systems I: System Thinking | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 213, 217, 221, 233, 250, 255, 280, 290, 295 | GEOG_O 233 | Climate Change and Society | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 213, 217, 221, 233, 250, 255, 280, 290, 295 | GEOG_O 250 | Introduction to Urban Geography | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 213, 217, 221, 233, 250, 255, 280, 290, 295 | GEOG_O 255 | Space and Culture | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 213, 217, 221, 233, 250, 255, 280, 290, 295 | GEOG_O 280 | Development Geography | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 213, 217, 221, 233, 250, 255, 280, 290, 295 | GEOG_O 290 | Introduction to the Geography of Canada | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 213, 217, 221, 233, 250, 255, 280, 290, 295 | GEOG_O 295 | People, Places and Pinot | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  |  |  | Third and Fourth Years Credits |  | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  |  |  | Geographic methods, skills, and experiences: |  | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 371, 470, 474, 480 | GEOG_O 371 | Research Strategies in Human Geography | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 371, 470, 474, 480 | GEOG_O 470 | Community Based Participatory Research: Theory and Practice | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 371, 470, 474, 480 | GEOG_O 474 | Qualitative Research in Human Geography | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  | Two of GEOG_O 371, 470, 474, 480 | GEOG_O 480 | Advanced Seminar in Critical Geography | 6 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+|  |  |  | 300/400-level GEOG_O or GISC_O electives | 24 | [The University of British Columbia, n.d.](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography) |
+
+## References
+
+The University of British Columbia. (n.d.). *Major in Geography*. Retrieved November 11, 2026, from <https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/geography>

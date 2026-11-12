@@ -1,0 +1,51 @@
+---
+title: "1.642 Communication Sciences and Disorders: Language Acquisition (Ph.D.)"
+description: "University Programs > McGill University > Communication Sciences and Disorders: Language Acquisition (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.642 Communication Sciences and Disorders: Language Acquisition (Ph.D.)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Communication Sciences and Disorders: Language Acquisition (Ph.D.)**<br>传播科学与障碍：语言习得（Ph.D.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Language Acquisition Issues 2.**<br>语言习得问题 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Language Acquisition Issues 1.**<br>语言习得问题 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Advanced Research Seminar 1.**<br>高级研究研讨课 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Advanced Research Seminar 2.**<br>高级研究研讨课 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Doctoral Comprehensive.**<br>博士综合考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Language Acquisition Issues 4.**<br>语言习得问题 4 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Language Acquisition Issues 5.**<br>语言习得问题 5 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Language Acquisition Issues 3.**<br>语言习得问题 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Advanced Research Seminar 3.**<br>高级研究研讨课 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Research Project 1.**<br>研究项目 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+| **Research Project 2.**<br>研究项目 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Thesis |  | A thesis for the doctoral degree must constitute original scholarship and must be a distinct contribution to knowledge. It must show familiarity with previous work in the field and must demonstrate ability to plan and carry out research, organize results, and defend the approach and conclusions in a scholarly manner. The research presented must meet current standards of the discipline; as well, the thesis must clearly demonstrate how the research advances knowledge in the field. Finally, the thesis must be written in compliance with norms for academic and scholarly expression and for publication in the public domain. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Required Courses (12 credits) |  | For both PhD 1 and PhD 2: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Required Courses (12 credits) | LING 710 | Language Acquisition Issues 2. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Required Courses (12 credits) | PSYC 709 | Language Acquisition Issues 1. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Required Courses (12 credits) | SCSD 652 | Advanced Research Seminar 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Required Courses (12 credits) | SCSD 653 | Advanced Research Seminar 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Required Courses (12 credits) | SCSD 701 | Doctoral Comprehensive. | 0 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Required Courses (12 credits) | SCSD 712 | Language Acquisition Issues 4. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) |  | For both PhD 1 and PhD 2: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) |  | 6 credits of statistics courses at the 500 level or higher, pre-approved by the supervisor and the graduate program director. At least 3 credits at the 500 level or higher in language acquisition courses that have been approved by the Director of the Language Acquisition Program. For a pre-approved list go to: https://www.mcgill.ca/scsd/programs/rt/phd/language-acquisition-courses . |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) |  | For PhD 1 students, 0-2 credits from the following: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) | EDPE 713 | Language Acquisition Issues 5. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) | EDSL 711 | Language Acquisition Issues 3. | 2 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) |  | In addition to the above, students entering at PhD 1 must take the following 15 credits: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) | SCSD 654 | Advanced Research Seminar 3. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) | SCSD 685 | Research Project 1. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) | SCSD 686 | Research Project 2. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+|  | Complementary Courses (9 or 26 credits) |  | Plus 6 credits, of graduate-level courses pre-approved by the supervisor and the graduate program director. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/) |
+
+## References
+
+McGill University. (n.d.). *Communication Sciences and Disorders: Language Acquisition (Ph.D.)*. Retrieved November 11, 2026, from <https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/communication-sciences-disorders/communication-sciences-disorders-language-acquisition-phd/>

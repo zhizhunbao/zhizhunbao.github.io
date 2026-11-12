@@ -1,0 +1,91 @@
+---
+title: "47.173 Certificate in Writing"
+description: "University Programs > University of Winnipeg > Certificate in Writing: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 47.173 Certificate in Writing
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Certificate in Writing**<br>写作证书 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Professional Style and Editing (prerequisite for Advanced Editing)**<br>专业文体与编辑（高级编辑的先修课） | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Rhetorical Grammar**<br>修辞语法 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Tutoring Writing**<br>写作辅导 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Digital Storytelling and Participatory Media**<br>数字叙事与参与式媒体 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Advanced Editing**<br>高级编辑 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Studies in the Rhetoric of Nonfiction**<br>非虚构修辞研究 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **The New Journalism**<br>新新闻主义 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Environmental Communication**<br>环境传播 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Composition Studies**<br>写作研究 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Narrative Thinking and Writing**<br>叙事思维与写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Composing Our Winnipeg**<br>书写我们的温尼伯 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Writing for Scholarly Audiences**<br>学术读者写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Investigative Journalism**<br>调查性新闻 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Technical and Professional Communication**<br>技术与专业传播 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Writing Internship**<br>写作实习 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Professional Style and Editing**<br>专业文体与编辑 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Introduction to Creative Writing: Developing a Portfolio**<br>创意写作导论：作品集的发展 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Creative Writing Comprehensive**<br>创意写作综合课 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Advanced Creative Writing**<br>高级创意写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Writing Short Fiction**<br>短篇小说写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Writing Poems**<br>诗歌写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Writing for Children**<br>儿童写作 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Script and Screen**<br>剧本与银幕 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Introduction to Screenwriting**<br>编剧导论 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Playwriting I**<br>剧本创作 I | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Advanced Screenwriting**<br>高级编剧 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+| **Playwriting II: General**<br>剧本创作 II：通用 | (Definition pending) | （定义待补） | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Students are required to take 30 credit hours from the following courses: |  | RHET-11xx(3) Any section of Academic Writing or exemption from the Writing Requirement (prerequisite for upper-level RHET courses) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-2131 | Professional Style and Editing (prerequisite for Advanced Editing) | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-2350 | Rhetorical Grammar | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-2500 | Tutoring Writing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-2530 | Digital Storytelling and Participatory Media | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3131 | Advanced Editing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-4150 | Studies in the Rhetoric of Nonfiction | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3154 | The New Journalism | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3155 | Environmental Communication | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3250 | Composition Studies | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3255 | Narrative Thinking and Writing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3321 | Composing Our Winnipeg | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3329 | Writing for Scholarly Audiences | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3330 | Investigative Journalism | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3340 | Technical and Professional Communication | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students are required to take 30 credit hours from the following courses: | RHET-3331 | Writing Internship | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: |  | Area 1: Audience |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-2131 | Professional Style and Editing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-3329 | Writing for Scholarly Audiences | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-3340 | Technical and Professional Communication | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: |  | Area 2: Textual Processes |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: |  | RHET-11xx (prerequisite for upper-level RHET courses) |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-2500 | Tutoring Writing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-3250 | Composition Studies | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: |  | Area 3: Genres |  | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-2530 | Digital Storytelling and Participatory Media | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-4150 | Studies in the Rhetoric of Nonfiction | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-3154 | The New Journalism | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-3155 | Environmental Communication | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-3255 | Narrative Thinking and Writing | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | For students looking for guidance in creating their program, the Department strongly recommends that students elect to take courses in each of the following areas: | RHET-3330 | Investigative Journalism | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | ENGL-2102 | Introduction to Creative Writing: Developing a Portfolio | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | ENGL-3101 | Creative Writing Comprehensive | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | ENGL-3112 | Advanced Creative Writing | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | ENGL-3113 | Writing Short Fiction | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | ENGL-3114 | Writing Poems | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | ENGL-3115 | Writing for Children | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | THFM-2610 | Script and Screen | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | THFM-2611 | Introduction to Screenwriting | 3 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | THFM-2701 | Playwriting I | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | THFM-3611 | Advanced Screenwriting | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+|  | Students can choose up to 9 credit hours of interdisciplinary writing electives from the following courses to fulfill the 30-credit-hour Certificate program. Note that prerequisites for these courses do not count toward the Certificate: | THFM-3701 | Playwriting II: General | 6 | [University of Winnipeg, n.d.](https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8) |
+
+## References
+
+University of Winnipeg. (n.d.). *Certificate in Writing*. Retrieved November 11, 2026, from <https://www.uwinnipeg.ca/academics/calendar/docs/rhet.pdf#page=8>

@@ -1,0 +1,79 @@
+---
+title: "3.234 Major in Cognitive Systems: Cognition and the Brain"
+description: "University Programs > The University of British Columbia > Major in Cognitive Systems: Cognition and the Brain: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 3.234 Major in Cognitive Systems: Cognition and the Brain
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Major in Cognitive Systems: Cognition and the Brain**<br>认知系统主修：认知与大脑 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Models of Computation**<br>计算模型 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Introduction to Language and Linguistics**<br>语言与语言学导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Language in the Age of AI**<br>人工智能时代的语言 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Clinical Topics in Speech, Language, and Hearing Sciences**<br>言语、语言与听力科学临床专题 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Language Acquisition**<br>语言习得 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **The Languages of Africa**<br>非洲语言 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Indigenous Languages of the Americas**<br>美洲原住民语言 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Introduction to Cognitive Systems**<br>认知系统导论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Analysis of Behavioural Data**<br>行为数据分析 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Elementary Statistics for Applications**<br>应用初等统计学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Statistical Inference for Data Science**<br>数据科学统计推断 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Introductory Probability and Statistics**<br>概率与统计入门 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Symbolic Logic**<br>符号逻辑 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Enriched Symbolic Logic**<br>强化符号逻辑 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Understanding and Designing Cognitive Systems**<br>认知系统的理解与设计 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Research Methods in Cognitive Systems**<br>认知系统研究方法 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Seminar in Cognitive Systems**<br>认知系统研讨课 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Research in Cognitive Systems**<br>认知系统研究 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Induction, Decision and Game Theory**<br>归纳、决策与博弈论 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Philosophical Perspectives on Cognitive Systems Research**<br>认知系统研究的哲学视角 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Philosophy of Language I**<br>语言哲学 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Philosophy of Perception**<br>知觉哲学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Philosophy of Mind**<br>心灵哲学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Topics in the Philosophy of Cognitive Science**<br>认知科学哲学专题 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+| **Cognitive Neuroscience**<br>认知神经科学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  |  | PSYC_V 100 |  | or 101 and 102 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  |  | CPSC_V 110 |  | or 103 and 107 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  |  | CPSC_V 121 | Models of Computation |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | One of LING_V 100, 142, 209, 222, 308, or 433 | LING_V 100 | Introduction to Language and Linguistics |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | One of LING_V 100, 142, 209, 222, 308, or 433 | LING_V 142 | Language in the Age of AI |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | One of LING_V 100, 142, 209, 222, 308, or 433 | LING_V 209 | Clinical Topics in Speech, Language, and Hearing Sciences |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | One of LING_V 100, 142, 209, 222, 308, or 433 | LING_V 222 | Language Acquisition |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | One of LING_V 100, 142, 209, 222, 308, or 433 | LING_V 308 | The Languages of Africa |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | One of LING_V 100, 142, 209, 222, 308, or 433 | LING_V 433 | Indigenous Languages of the Americas |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  |  | COGS_V 200 | Introduction to Cognitive Systems |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  |  | PSYC_V 217 | Research Methods |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | PSYC_V 218 or STAT_V 200, 201, or 251 | PSYC_V 218 | Analysis of Behavioural Data |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | PSYC_V 218 or STAT_V 200, 201, or 251 | STAT_V 200 | Elementary Statistics for Applications |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | PSYC_V 218 or STAT_V 200, 201, or 251 | STAT_V 201 | Statistical Inference for Data Science |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | PSYC_V 218 or STAT_V 200, 201, or 251 | STAT_V 251 | Introductory Probability and Statistics |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | PHIL_V 220 or 222 | PHIL_V 220 | Symbolic Logic |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | PHIL_V 220 or 222 | PHIL_V 222 | Enriched Symbolic Logic |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  |  | COGS_V 300 | Understanding and Designing Cognitive Systems |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | COGS_V 303, 401 and 402 | COGS_V 303 | Research Methods in Cognitive Systems |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | COGS_V 303, 401 and 402 | COGS_V 401 | Seminar in Cognitive Systems |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | COGS_V 303, 401 and 402 | COGS_V 402 | Research in Cognitive Systems |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | Six credits of philosophy courses taken from this list: PHIL_V 321, PHIL_V 351, PHIL_V 326, PHIL_V 441, PHIL_V 451, PHIL_V 455 | PHIL_V 321 | Induction, Decision and Game Theory |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | Six credits of philosophy courses taken from this list: PHIL_V 321, PHIL_V 351, PHIL_V 326, PHIL_V 441, PHIL_V 451, PHIL_V 455 | PHIL_V 351 | Philosophical Perspectives on Cognitive Systems Research |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | Six credits of philosophy courses taken from this list: PHIL_V 321, PHIL_V 351, PHIL_V 326, PHIL_V 441, PHIL_V 451, PHIL_V 455 | PHIL_V 326 | Philosophy of Language I |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | Six credits of philosophy courses taken from this list: PHIL_V 321, PHIL_V 351, PHIL_V 326, PHIL_V 441, PHIL_V 451, PHIL_V 455 | PHIL_V 441 | Philosophy of Perception |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | Six credits of philosophy courses taken from this list: PHIL_V 321, PHIL_V 351, PHIL_V 326, PHIL_V 441, PHIL_V 451, PHIL_V 455 | PHIL_V 451 | Philosophy of Mind |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | Six credits of philosophy courses taken from this list: PHIL_V 321, PHIL_V 351, PHIL_V 326, PHIL_V 441, PHIL_V 451, PHIL_V 455 | PHIL_V 455 | Topics in the Philosophy of Cognitive Science |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  |  | PSYC_V 365 | Cognitive Neuroscience |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | LING_V 308 and 433 are foundational alternatives accepted for lower-level credit.Students intending to enroll in the Minor in Data Science should satisfy this requirement by taking STAT_V 201. | LING_V 308 | The Languages of Africa |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | LING_V 308 and 433 are foundational alternatives accepted for lower-level credit.Students intending to enroll in the Minor in Data Science should satisfy this requirement by taking STAT_V 201. | LING_V 433 | Indigenous Languages of the Americas |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+|  | LING_V 308 and 433 are foundational alternatives accepted for lower-level credit.Students intending to enroll in the Minor in Data Science should satisfy this requirement by taking STAT_V 201. | STAT_V 201 | Statistical Inference for Data Science |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology) |
+
+## References
+
+The University of British Columbia. (n.d.). *Major in Cognitive Systems: Cognition and the Brain*. Retrieved November 11, 2026, from <https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology>

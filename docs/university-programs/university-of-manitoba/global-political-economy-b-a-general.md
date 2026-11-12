@@ -1,0 +1,83 @@
+---
+title: "22.105 Global Political Economy, B.A. General"
+description: "University Programs > University of Manitoba > Global Political Economy, B.A. General: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 22.105 Global Political Economy, B.A. General
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Global Political Economy, B.A. General**<br>全球政治经济学，B.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Modern World History: 1500-1800 (M)**<br>现代世界史：1500-1800（M） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Modern World History: 1800-Present (M)**<br>现代世界史：1800 年至今（M） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Modern World History, 1914-1945: The 30 Years' Crisis (M)**<br>现代世界史，1914-1945：30 年危机（M） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Modern World History, 1945-1992: The Age of Three Worlds (M)**<br>现代世界史，1945-1992：三个世界的时代（M） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Modern World History, 1980-Present: New World Order? (M)**<br>现代世界史，1980 年至今：新世界秩序？（M） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Introduction to Microeconomic Principles and Introduction to Macroeconomic Principles**<br>微观经济学原理导论 与 宏观经济学原理导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Introduction to Canadian Economic Issues and Policies and Introduction to Global and Environmental Economic Issues and Policies**<br>加拿大经济问题与政策导论 与 全球与环境经济问题与政策导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Social Justice in the 21st Century: Global Political Economy and Environmental Change**<br>21 世纪的社会正义：全球政治经济与环境变化 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Culture, Society, and Power**<br>文化、社会与权力 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Political Economy 1: Production and Distribution**<br>政治经济学 1：生产与分配 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Political Economy 2: Economic Growth and Fluctuations in a Global Economic Environment**<br>政治经济学 2：全球经济环境中的经济增长与波动 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Perspectives on Global Political Economy**<br>全球政治经济学视角 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Understanding Social Research and Understanding Social Statistics**<br>理解社会研究 与 理解社会统计 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Ethnographic Research Methods and Basic Statistical Analysis 1**<br>民族志研究方法与基础统计分析 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Women in Cross-Cultural Perspective**<br>跨文化视角下的女性 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Feminism and Sociological Theory**<br>女性主义与社会学理论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Sociological Perspectives on Gender and Sexuality**<br>性别与性的社会学视角 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **A Survey of Global Political Economy**<br>全球政治经济学概览 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **International Political Economy or Anthropological Perspectives on Globalization and the World-System**<br>国际政治经济学或全球化与世界体系的人类学视角 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Theories of the Capitalist World Order**<br>资本主义世界秩序理论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Power, Politics and the Welfare State**<br>权力、政治与福利国家 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Ecology and Society**<br>生态与社会 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Critiquing Consumption, Creating Community**<br>批判消费，营造社区 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| **Power and Inequality in Comparative Perspective**<br>比较视角下的权力与不平等 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+| Year 1 | Degree Requirements 1 |  | 6 credit hours from the following: | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 | HIST 1370 | Modern World History: 1500-1800 (M) |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 | HIST 1380 | Modern World History: 1800-Present (M) |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 | HIST 2730 | Modern World History, 1914-1945: The 30 Years' Crisis (M) |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 | HIST 2732 | Modern World History, 1945-1992: The Age of Three Worlds (M) |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 | HIST 2734 | Modern World History, 1980-Present: New World Order? (M) |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 |  | One of the following sets of Introductory Economics courses: | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 |  | Both: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 | ECON 1010 & ECON 1020 | Introduction to Microeconomic Principles and Introduction to Macroeconomic Principles |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 |  | or both: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 | ECON 1210 & ECON 1220 | Introduction to Canadian Economic Issues and Policies and Introduction to Global and Environmental Economic Issues and Policies |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 | GPE/GEOG 1700 | Social Justice in the 21st Century: Global Political Economy and Environmental Change | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 1 | Degree Requirements 1 |  | 15 credit hours of open electives | 15 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 | ANTH 2000 | Culture, Society, and Power | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 | ECON 2540 | Political Economy 1: Production and Distribution | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 | ECON 2550 | Political Economy 2: Economic Growth and Fluctuations in a Global Economic Environment | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 | GPE 2700 | Perspectives on Global Political Economy | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 |  | One of the following: | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 |  | Both: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 | SOC 2292 & SOC 2294 | Understanding Social Research and Understanding Social Statistics |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 |  | or both: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 | ANTH 3930 & STAT 1000 | Ethnographic Research Methods and Basic Statistical Analysis 1 |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 2 | Degree Requirements 1 |  | 12 credit hours of open electives | 12 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 |  | One of the following: | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | ANTH 3320 | Women in Cross-Cultural Perspective |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | SOC 3350 | Feminism and Sociological Theory |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | SOC 3810 | Sociological Perspectives on Gender and Sexuality |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | GPE 3700 | A Survey of Global Political Economy | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | POLS 3250 or ANTH 3750 | International Political Economy or Anthropological Perspectives on Globalization and the World-System | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | POLS 3270 | Theories of the Capitalist World Order | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 |  | One of the following: | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | SOC 3380 | Power, Politics and the Welfare State |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | SOC 3838 | Ecology and Society |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | SOC 3840 | Critiquing Consumption, Creating Community |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 | SOC 3890 | Power and Inequality in Comparative Perspective |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 |  | 15 credit hours of open electives | 15 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+| Year 3 | Degree Requirements 1 |  | Refer to the information directly below this list for other important degree requirements students need to complete prior to graduation |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/) |
+
+## References
+
+University of Manitoba. (n.d.). *Global Political Economy, B.A. General*. Retrieved November 11, 2026, from <https://catalog.umanitoba.ca/undergraduate-studies/arts/global-political-economy/global-political-economy-ba-general/>

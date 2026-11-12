@@ -1,0 +1,86 @@
+---
+title: "22.45 Computer Science - Statistics Joint, B.Sc. Honours"
+description: "University Programs > University of Manitoba > Computer Science - Statistics Joint, B.Sc. Honours: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 22.45 Computer Science - Statistics Joint, B.Sc. Honours
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Computer Science - Statistics Joint, B.Sc. Honours**<br>计算机科学 - 统计学联合，B.Sc. 荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Introductory Computer Science 1**<br>计算机科学入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Introductory Computer Science 2 (B)**<br>计算机科学入门 2（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Introduction to Statistics and Computing**<br>统计与计算导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Statistics and Computing (B)**<br>统计与计算（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Linear Algebra 1**<br>线性代数 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Integral Calculus**<br>积分学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Elementary Discrete Mathematics**<br>初等离散数学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Algorithms: Design and Implementation**<br>算法：设计与实现 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Data Structures: Analysis and Implementation**<br>数据结构：分析与实现 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Programming Paradigms**<br>编程范式 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Software Development 1**<br>软件开发 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Software Development 2**<br>软件开发 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Introduction to Probability 1**<br>概率论导论 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Introduction to Analysis**<br>分析学导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Multivariable Calculus**<br>多元微积分 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Principles of Data Collection**<br>数据收集原理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Introduction to Probability 2**<br>概率论导论 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Theory of Computing**<br>计算理论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Machine Learning Concepts and Usage**<br>机器学习概念与应用 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Databases Concepts and Usage**<br>数据库概念与应用 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Introduction to Stochastic Processes**<br>随机过程导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Introduction to Statistical Inference**<br>统计推断导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Statistical Computing**<br>统计计算 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Linear Models**<br>线性模型 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Co-operative Education Work Term 1**<br>合作教育工作学期 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Co-operative Education Work Term 2**<br>合作教育工作学期 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Co-operative Education Work Term 3**<br>合作教育工作学期 3 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Co-operative Education Work Term 4 (if 4th work term selected)**<br>合作教育工作学期 4（如选择第 4 个工作学期） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| **Statistical Inference**<br>统计推断 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+| Year 1 | Joint Honours (Including Co-operative Option if Selected) | COMP 1010 | Introductory Computer Science 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 1 | Joint Honours (Including Co-operative Option if Selected) | COMP 1020 | Introductory Computer Science 2 (B) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 1 | Joint Honours (Including Co-operative Option if Selected) | STAT 1150 | Introduction to Statistics and Computing | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 1 | Joint Honours (Including Co-operative Option if Selected) | STAT 2150 | Statistics and Computing (B) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 1 | Joint Honours (Including Co-operative Option if Selected) | MATH 1220 | Linear Algebra 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 1 | Joint Honours (Including Co-operative Option if Selected) | MATH 1230 | Differential Calculus | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 1 | Joint Honours (Including Co-operative Option if Selected) | MATH 1232 | Integral Calculus | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 1 | Joint Honours (Including Co-operative Option if Selected) | MATH 1240 | Elementary Discrete Mathematics | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 1 | Joint Honours (Including Co-operative Option if Selected) |  | 6 credit hours from the Faculty of Arts, which could include the required 3 credit hour “W” course | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 2 | Joint Honours (Including Co-operative Option if Selected) | COMP 2080 | Algorithms: Design and Implementation | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 2 | Joint Honours (Including Co-operative Option if Selected) | COMP 2140 | Data Structures: Analysis and Implementation | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 2 | Joint Honours (Including Co-operative Option if Selected) | COMP 2400 | Programming Paradigms | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 2 | Joint Honours (Including Co-operative Option if Selected) | COMP 2450 | Software Development 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 2 | Joint Honours (Including Co-operative Option if Selected) | COMP 2452 | Software Development 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 2 | Joint Honours (Including Co-operative Option if Selected) | STAT 2400 | Introduction to Probability 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 2 | Joint Honours (Including Co-operative Option if Selected) | MATH 2080 | Introduction to Analysis | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 2 | Joint Honours (Including Co-operative Option if Selected) | MATH 2150 | Multivariable Calculus | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Years 2-3 | Joint Honours (Including Co-operative Option if Selected) | STAT 2300 | Principles of Data Collection | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Years 2-3 | Joint Honours (Including Co-operative Option if Selected) | STAT 2800 | Introduction to Probability 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Years 2-3 | Joint Honours (Including Co-operative Option if Selected) |  | 9 credit hours of electives | 9 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 3 | Joint Honours (Including Co-operative Option if Selected) | COMP 3320 | Theory of Computing | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 3 | Joint Honours (Including Co-operative Option if Selected) | COMP 3360 | Machine Learning Concepts and Usage | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 3 | Joint Honours (Including Co-operative Option if Selected) | COMP 3380 | Databases Concepts and Usage | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 3 | Joint Honours (Including Co-operative Option if Selected) | STAT 3030 | Introduction to Stochastic Processes | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 3 | Joint Honours (Including Co-operative Option if Selected) | STAT 3100 | Introduction to Statistical Inference | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 3 | Joint Honours (Including Co-operative Option if Selected) | STAT 3150 | Statistical Computing | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 3 | Joint Honours (Including Co-operative Option if Selected) | STAT 3450 | Linear Models | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Years 3-4 | Joint Honours (Including Co-operative Option if Selected) |  | Co-op Requirements (if selected): |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Years 3-4 | Joint Honours (Including Co-operative Option if Selected) | SCI 3980 | Co-operative Education Work Term 1 | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Years 3-4 | Joint Honours (Including Co-operative Option if Selected) | SCI 3990 | Co-operative Education Work Term 2 | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Years 3-4 | Joint Honours (Including Co-operative Option if Selected) | SCI 4980 | Co-operative Education Work Term 3 | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Years 3-4 | Joint Honours (Including Co-operative Option if Selected) | SCI 4990 | Co-operative Education Work Term 4 (if 4th work term selected) | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 4 | Joint Honours (Including Co-operative Option if Selected) | STAT 4100 | Statistical Inference | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+| Year 4 | Joint Honours (Including Co-operative Option if Selected) |  | 27 credit hours of electives | 27 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/) |
+
+## References
+
+University of Manitoba. (n.d.). *Computer Science - Statistics Joint, B.Sc. Honours*. Retrieved November 11, 2026, from <https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-statistics-bsc-honours/>

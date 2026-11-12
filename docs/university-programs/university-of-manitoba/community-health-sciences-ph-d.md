@@ -1,0 +1,73 @@
+---
+title: "22.329 Community Health Sciences, Ph.D."
+description: "University Programs > University of Manitoba > Community Health Sciences, Ph.D.: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 22.329 Community Health Sciences, Ph.D.
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Community Health Sciences, Ph.D.**<br>社区健康科学，Ph.D. | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Research Integrity Tutorial**<br>研究诚信辅导课 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Academic Integrity Tutorial**<br>学术诚信教程 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Senior seminar in Community Health Sciences**<br>社区健康科学高年级研讨课 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Advanced Epidemiology**<br>高级流行病学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Advanced Qualitative Research Methods in Community Health Sciences**<br>社区健康科学高级质性研究方法 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Advanced Biostatistics for Community Health Sciences**<br>社区健康科学高级生物统计学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Doctoral Candidacy Examination**<br>博士资格考试 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Doctoral Thesis (Proposal Work / Proposal Defense, Research)**<br>博士论文（开题工作/开题答辩、研究） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Doctoral Thesis (Thesis Research continued, Write up and Defense)**<br>博士论文（论文研究继续、撰写与答辩） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Principles of Epidemiology**<br>流行病学原理 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Methods and Concepts for Community Health Sciences**<br>社区健康科学的方法与概念 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Health Policy and Planning**<br>卫生政策与规划 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Organization and Financing of the Canadian Health Care System**<br>加拿大医疗体系的组织与筹资 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Biostatistics for Community Health Sciences**<br>社区健康科学生物统计学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Biostatistics for the Health and Human Sciences**<br>健康与人类科学生物统计学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| **Qualitative Research Methods in Community Health Sciences**<br>社区健康科学中的质性研究方法 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+| Year 1 | Admitted With an MSc in Community Health Sciences | GRAD 7300 | Research Integrity Tutorial | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted With an MSc in Community Health Sciences | GRAD 7500 | Academic Integrity Tutorial | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted With an MSc in Community Health Sciences | CHSC 8600 | Senior seminar in Community Health Sciences | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted With an MSc in Community Health Sciences |  | Select one of the following: | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted With an MSc in Community Health Sciences | CHSC 7540 | Advanced Epidemiology |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted With an MSc in Community Health Sciences | CHSC 7740 | Advanced Qualitative Research Methods in Community Health Sciences |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted With an MSc in Community Health Sciences | CHSC 7830 | Advanced Biostatistics for Community Health Sciences |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted With an MSc in Community Health Sciences |  | 12 credit hours of approved elective courses as 7000 level offered by the College of Community and Global Health | 12 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 2 | Admitted With an MSc in Community Health Sciences | GRAD 8010 | Doctoral Candidacy Examination | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 2 | Admitted With an MSc in Community Health Sciences | GRAD 8000 | Doctoral Thesis (Proposal Work / Proposal Defense, Research) | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Years 3-4 | Admitted With an MSc in Community Health Sciences | GRAD 8000 | Doctoral Thesis (Thesis Research continued, Write up and Defense) | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences |  | Required |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | GRAD 7300 | Research Integrity Tutorial | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | GRAD 7500 | Academic Integrity Tutorial | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences |  | Prerequisites |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences |  | The following courses may count toward the PhD requirement of 12 electives credit hours: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7520 | Principles of Epidemiology |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7860 | Methods and Concepts for Community Health Sciences |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences |  | Select one of the following: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7300 | Health Policy and Planning |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7320 | Organization and Financing of the Canadian Health Care System |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences |  | Select one of the following: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7820 | Biostatistics for Community Health Sciences |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7810 | Biostatistics for the Health and Human Sciences |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7738 | Qualitative Research Methods in Community Health Sciences |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences |  | Formal Course Requirements |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 8600 | Senior seminar in Community Health Sciences | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences |  | Select one of the following: | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7540 | Advanced Epidemiology |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7740 | Advanced Qualitative Research Methods in Community Health Sciences |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences | CHSC 7830 | Advanced Biostatistics for Community Health Sciences |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 1 | Admitted Without an MSc in Community Health Sciences |  | 12 credit hours of approved elective courses as 7000 level offered by the College of Community and Global Health | 12 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 2 | Admitted Without an MSc in Community Health Sciences | GRAD 8010 | Doctoral Candidacy Examination | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Year 2 | Admitted Without an MSc in Community Health Sciences | GRAD 8000 | Doctoral Thesis (Proposal Work / Proposal Defense, Research) | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+| Years 3-4 | Admitted Without an MSc in Community Health Sciences | GRAD 8000 | Doctoral Thesis (Thesis Research continued, Write up and Defense) | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/) |
+
+## References
+
+University of Manitoba. (n.d.). *Community Health Sciences, Ph.D.*. Retrieved November 11, 2026, from <https://catalog.umanitoba.ca/graduate-studies/health-sciences/community-global-health/community-health-sciences-phd/>

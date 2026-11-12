@@ -1,0 +1,82 @@
+---
+title: "22.194 Spanish, B.A. General"
+description: "University Programs > University of Manitoba > Spanish, B.A. General: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 22.194 Spanish, B.A. General
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Spanish, B.A. General**<br>西班牙语，B.A. 普通 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| **Introductory Spanish 1**<br>西班牙语入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| **Introductory Spanish 2**<br>西班牙语入门 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| **Intermediate Spanish Grammar and Conversation 1 and Intermediate Spanish Grammar and Conversation 2**<br>中级西班牙语语法与会话 1 和中级西班牙语语法与会话 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| **Accelerated Intermediate Spanish**<br>加速中级西班牙语 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| **Spanish for Native Speakers**<br>母语者西班牙语 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| **Advanced Spanish Composition**<br>高级西班牙语写作 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+| Year 1 | General Major (Option 1) 1 | SPAN 1182 | Introductory Spanish 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 1) 1 | SPAN 1184 | Introductory Spanish 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 1) 1 |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 1) 1 |  | 18 credit hours from outside of your Major and Minor areas of study | 18 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 |  | One of the following options: | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 |  | Option A: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 | SPAN 1262 & SPAN 1272 | Intermediate Spanish Grammar and Conversation 1 and Intermediate Spanish Grammar and Conversation 2 |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 |  | Option B: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 | SPAN 1290 | Accelerated Intermediate Spanish |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 |  | Option C: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 | SPAN 1280 | Spanish for Native Speakers |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 |  | and 3 credit hours from Spanish courses numbered at the 2000 level |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 |  | 12 credit hours from outside your Major and Minor areas of study | 12 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 1) 1 |  | 6 credit hours of open electives | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 1) 1 | SPAN 2550 | Advanced Spanish Composition | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 1) 1 |  | 9 credit hours from Spanish courses numbered at the 2000 level | 9 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 1) 1 |  | 6 credit hours from Spanish courses numbered at the 3000 level | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 1) 1 |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 1) 1 |  | 6 credit hours of open electives | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 1) 1 |  | Refer to the information directly below this list for other important degree requirements students need to complete prior to graduation |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 2) 1 | SPAN 1184 | Introductory Spanish 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 2) 1 |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 2) 1 |  | 21 credit hours from outside of your Major and Minor areas of study | 21 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 |  | One of the following options: | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 |  | Option A: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 | SPAN 1262 & SPAN 1272 | Intermediate Spanish Grammar and Conversation 1 and Intermediate Spanish Grammar and Conversation 2 |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 |  | Option B: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 | SPAN 1290 | Accelerated Intermediate Spanish |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 |  | Option C: |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 | SPAN 1280 | Spanish for Native Speakers |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 |  | and 3 credit hours from Spanish courses numbered at the 2000 level |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 | SPAN 2550 | Advanced Spanish Composition | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 |  | 6 credit hours from Spanish courses numbered at the 2000 level | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 2) 1 |  | 9 credit hours from outside your Major and Minor areas of study | 9 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 2) 1 |  | 12 credit hours from Spanish courses numbered at the 3000 level | 12 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 2) 1 |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 2) 1 |  | 12 credit hours of open electives | 12 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 2) 1 |  | Refer to the information directly below this list for other important degree requirements students need to complete prior to graduation |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 3) 1 | SPAN 1280 | Spanish for Native Speakers | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 3) 1 |  | 3 credit hours from Spanish courses numbered at the 2000 level | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 3) 1 |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 1 | General Major (Option 3) 1 |  | 18 credit hours from outside of your Major and Minor areas of study | 18 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 3) 1 | SPAN 2550 | Advanced Spanish Composition | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 3) 1 |  | 9 credit hours from Spanish courses numbered at the 2000 level | 9 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 3) 1 |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 3) 1 |  | 6 credit hours from outside your Major and Minor areas of study | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 2 | General Major (Option 3) 1 |  | 6 credit hours of open electives | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 3) 1 |  | 12 credit hours from Spanish courses numbered at the 3000 level | 12 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 3) 1 |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 3) 1 |  | 6 credit hours from outside your Major and Minor areas of study | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 3) 1 |  | 6 credit hours of open electives | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+| Year 3 | General Major (Option 3) 1 |  | Refer to the information directly below this list for other important degree requirements students need to complete prior to graduation |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/) |
+
+## References
+
+University of Manitoba. (n.d.). *Spanish, B.A. General*. Retrieved November 11, 2026, from <https://catalog.umanitoba.ca/undergraduate-studies/arts/french-spanish-italian/spanish-ba-general/>

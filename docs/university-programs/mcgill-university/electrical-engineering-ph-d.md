@@ -1,0 +1,30 @@
+---
+title: "1.659 Electrical Engineering (Ph.D.)"
+description: "University Programs > McGill University > Electrical Engineering (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.659 Electrical Engineering (Ph.D.)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Electrical Engineering (Ph.D.)**<br>电气工程（Ph.D.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/) |
+| **Ph.D. Qualifying Examination.**<br>博士资格考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/) |
+| **Ph.D. Research Plan Proposal.**<br>博士研究计划开题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/) |
+| **Doctoral Research Seminar.**<br>博士研究研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Thesis |  | A thesis for the doctoral degree must constitute original scholarship and must be a distinct contribution to knowledge. It must show familiarity with previous work in the field and must demonstrate ability to plan and carry out research, organize results, and defend the approach and conclusions in a scholarly manner. The research presented must meet current standards of the discipline; as well, the thesis must clearly demonstrate how the research advances knowledge in the field. Finally, the thesis must be written in compliance with norms for academic and scholarly expression and for publication in the public domain. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/) |
+|  | Required Courses | ECSE 701 | Ph.D. Qualifying Examination. | 0 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/) |
+|  | Required Courses | ECSE 702 | Ph.D. Research Plan Proposal. | 0 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/) |
+|  | Required Courses | ECSE 703 | Doctoral Research Seminar. | 0 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/) |
+|  | Required Courses |  | In addition to the successful completion of the required courses above, students must complete the courses prescribed by the student's Supervisory Committee. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/) |
+
+## References
+
+McGill University. (n.d.). *Electrical Engineering (Ph.D.)*. Retrieved November 11, 2026, from <https://coursecatalogue.mcgill.ca/en/graduate/engineering/electrical-computer-engineering/electrical-engineering-phd/>

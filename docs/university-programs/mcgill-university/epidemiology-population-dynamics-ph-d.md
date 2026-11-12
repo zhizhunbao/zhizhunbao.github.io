@@ -1,0 +1,76 @@
+---
+title: "1.665 Epidemiology: Population Dynamics (Ph.D.)"
+description: "University Programs > McGill University > Epidemiology: Population Dynamics (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.665 Epidemiology: Population Dynamics (Ph.D.)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Epidemiology: Population Dynamics (Ph.D.)**<br>流行病学：人口动力学（Ph.D.） | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Ph.D. Comprehensive Examination.**<br>博士综合考试 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Ph.D. Proposal.**<br>博士开题 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Principles of Study Design.**<br>研究设计原理 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Doctoral Level Epidemiologic Methods 1.**<br>博士水平流行病学方法 1 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Doctoral Level Epidemiologic Methods 2.**<br>博士水平流行病学方法 2 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Doctoral Seminar in Epidemiology.**<br>流行病学博士研讨课 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Research Design in Health Sciences.**<br>健康科学研究设计 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Sociology of Population.**<br>人口社会学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Demographic Methods.**<br>人口学方法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Economic Development 3.**<br>经济发展 3 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Labour Economics.**<br>劳动经济学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Economic Development 4.**<br>经济发展 4 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Advanced Labour Economics.**<br>高级劳动经济学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Empirical Microeconomics.**<br>实证微观经济学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Health Economics.**<br>卫生经济学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Methods in Social Epidemiology.**<br>社会流行病学方法 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Global Health: Epidemiological Research.**<br>全球卫生：流行病学研究 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Health Care Systems in Comparative Perspective.**<br>比较视角下的医疗保健系统 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Economic Evaluation of Health Programs.**<br>健康项目经济评价 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Global Environmental Health and Burden of Disease.**<br>全球环境卫生与疾病负担 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Introduction to Infectious Disease Epidemiology.**<br>传染病流行病学导论 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Sociology of Childbearing**<br>生育社会学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Migration and Immigrant Groups.**<br>移民与移民群体 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Sociology of the Family.**<br>家庭社会学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+| **Biosociology/Biodemography.**<br>生物社会学/生物人口学 | (Definition pending) | （定义待补） | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Thesis |  | A thesis for the doctoral degree must constitute original scholarship and must be a distinct contribution to knowledge. It must show familiarity with previous work in the field and must demonstrate ability to plan and carry out research, organize results, and defend the approach and conclusions in a scholarly manner. The research presented must meet current standards of the discipline; as well, the thesis must clearly demonstrate how the research advances knowledge in the field. Finally, the thesis must be written in compliance with norms for academic and scholarly expression and for publication in the public domain. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Required Courses (23 credits) | EPIB 701 | Ph.D. Comprehensive Examination. | 0 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Required Courses (23 credits) | EPIB 702 | Ph.D. Proposal. | 0 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Required Courses (23 credits) | EPIB 703 | Principles of Study Design. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Required Courses (23 credits) | EPIB 704 | Doctoral Level Epidemiologic Methods 1. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Required Courses (23 credits) | EPIB 705 | Doctoral Level Epidemiologic Methods 2. | 4 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Required Courses (23 credits) | EPIB 706 | Doctoral Seminar in Epidemiology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Required Courses (23 credits) | EPIB 707 | Research Design in Health Sciences. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Required Courses (23 credits) | SOCI 545 | Sociology of Population. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Required Courses (23 credits) | SOCI 626 | Demographic Methods. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) |  | 9 credits of coursework, at the 500 level or higher, with a minimum of 3 credits in biostatistics, 3 credits in epidemiology, and 3 credits from courses approved for the Population Dynamics Option from the list below: |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | ECON 634 | Economic Development 3. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | ECON 641 | Labour Economics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | ECON 734 | Economic Development 4. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | ECON 741 | Advanced Labour Economics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | ECON 742 | Empirical Microeconomics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | ECON 744 | Health Economics. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | EPIB 648 | Methods in Social Epidemiology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | EPIB 681 | Global Health: Epidemiological Research. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | PPHS 525 | Health Care Systems in Comparative Perspective. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | PPHS 528 | Economic Evaluation of Health Programs. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | PPHS 529 | Global Environmental Health and Burden of Disease. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | PPHS 615 | Introduction to Infectious Disease Epidemiology. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | SOCI 502 | Sociology of Childbearing | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | SOCI 520 | Migration and Immigrant Groups. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | SOCI 525 | Health Care Systems in Comparative Perspective. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | SOCI 535 | Sociology of the Family. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) | SOCI 588 | Biosociology/Biodemography. | 3 | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+|  | Complementary Courses (9 credits) |  | Courses must be chosen in consultation with the student's supervisor and/or the program director or advisor. |  | [McGill University, n.d.](https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/) |
+
+## References
+
+McGill University. (n.d.). *Epidemiology: Population Dynamics (Ph.D.)*. Retrieved November 11, 2026, from <https://coursecatalogue.mcgill.ca/en/graduate/medicine-health-sciences/population-global-health/epidemiology-population-dynamics-phd/>

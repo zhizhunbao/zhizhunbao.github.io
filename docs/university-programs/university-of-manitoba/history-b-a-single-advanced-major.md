@@ -1,0 +1,47 @@
+---
+title: "22.112 History, B.A. Single Advanced Major"
+description: "University Programs > University of Manitoba > History, B.A. Single Advanced Major: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 22.112 History, B.A. Single Advanced Major
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **History, B.A. Single Advanced Major**<br>历史学，B.A. 单一高级主修 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| **Arts Co-operative Option 1**<br>文学院合作教育选项 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| **Arts Co-operative Option 2**<br>文学院合作教育选项 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| **Arts Co-operative Option 3**<br>文学院合作教育选项 3 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+| Year 1 | (including Co-operative Education Option if selected) |  | 6 credit hours in History courses numbered at the 1000 or 2000 level | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 1 | (including Co-operative Education Option if selected) |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar. | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 1 | (including Co-operative Education Option if selected) |  | 18 credit hours from outside of your Major and Minor areas of study | 18 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 2 | (including Co-operative Education Option if selected) |  | 18 credit hours in History courses numbered at or above the 2000 level | 18 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 2 | (including Co-operative Education Option if selected) |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar. | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 2 | (including Co-operative Education Option if selected) |  | 6 credit hours from outside your Major and Minor areas of study. | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 3 | (including Co-operative Education Option if selected) |  | Select one of the following options: | 18 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 3 | (including Co-operative Education Option if selected) |  | 18 credit hours in History courses numbered at or above the 3000 level |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 3 | (including Co-operative Education Option if selected) |  | or |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 3 | (including Co-operative Education Option if selected) |  | 12 credit hours in History courses numbered at the 3000 level and 6 credit hours in History courses numbered at the 2000 level |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 3 | (including Co-operative Education Option if selected) |  | or |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 3 | (including Co-operative Education Option if selected) |  | 12 credit hours in History courses numbered at the 3000 level and 6 credit hours in History courses numbered at the 4000 level |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 3 | (including Co-operative Education Option if selected) |  | 6 credit hours from your Minor area of study as described in that unit's section of the calendar. | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 3 | (including Co-operative Education Option if selected) |  | 6 credit hours from outside your Major and Minor areas of study. | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 4 | (including Co-operative Education Option if selected) |  | 6 credit hours in History courses numbered at the 4000 level | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 4 | (including Co-operative Education Option if selected) |  | 12 credit hours from outside your Major and Minor areas of study. | 12 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 4 | (including Co-operative Education Option if selected) |  | 12 credit hours of open electives | 12 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Year 4 | (including Co-operative Education Option if selected) |  | Refer to the information directly below this list for other important degree requirements students need to complete prior to graduation |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Years 3-4 | Co-operative Education Option |  | If the Co-operative Education Option is selected, time to completion will be extended by 12 months and the following three, 1 credit hour work term courses will replace three credit hours of elective credit in year 4 |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Years 3-4 | Co-operative Education Option | ARTS 3010 | Arts Co-operative Option 1 | 1 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Years 3-4 | Co-operative Education Option | ARTS 3020 | Arts Co-operative Option 2 | 1 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+| Years 3-4 | Co-operative Education Option | ARTS 3030 | Arts Co-operative Option 3 | 1 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/) |
+
+## References
+
+University of Manitoba. (n.d.). *History, B.A. Single Advanced Major*. Retrieved November 11, 2026, from <https://catalog.umanitoba.ca/undergraduate-studies/arts/history/history-ba-single-advanced/>

@@ -1,0 +1,78 @@
+---
+title: "22.46 Computer Science, B.C.Sc., Honours"
+description: "University Programs > University of Manitoba > Computer Science, B.C.Sc., Honours: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 22.46 Computer Science, B.C.Sc., Honours
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Computer Science, B.C.Sc., Honours**<br>计算机科学，B.C.Sc.，荣誉 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Introductory Computer Science 1**<br>计算机科学入门 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Introductory Computer Science 2 (B)**<br>计算机科学入门 2（B） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Linear Algebra 1 (C+)**<br>线性代数 1（C+） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Differential Calculus**<br>微分学 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Elementary Discrete Mathematics (B)**<br>初等离散数学 (B) | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Calculus 2**<br>微积分 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Introduction to Statistics and Computing**<br>统计与计算导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Algorithms: Design and Implementation**<br>算法：设计与实现 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Data Structures: Analysis and Implementation**<br>数据结构：分析与实现 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Programming Paradigms**<br>编程范式 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Software Development 1**<br>软件开发 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Software Development 2**<br>软件开发 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Introduction to Computer Systems**<br>计算机系统导论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Computer Systems**<br>计算机系统 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Theory of Computing**<br>计算理论 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Software Engineering 1**<br>软件工程 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Co-operative Education Work Term 1**<br>合作教育工作学期 1 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Co-operative Education Work Term 2**<br>合作教育工作学期 2 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Co-operative Education Work Term 3**<br>合作教育工作学期 3 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Co-operative Education Work Term 4 (if a 4th work term is selected)**<br>合作教育工作学期 4（如选择第 4 个工作学期） | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Professional Practice in Computer Science**<br>计算机科学专业实践 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Computability and Complexity**<br>可计算性与复杂性 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Advanced Data Structures**<br>高级数据结构 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| **Advanced Algorithms**<br>高级算法 | (Definition pending) | （定义待补） | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+| Year 1 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 1010 | Introductory Computer Science 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 1 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 1020 | Introductory Computer Science 2 (B) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 1 | Honours (Including Co-operative Option if Selected) 1,2,3 | MATH 1220 | Linear Algebra 1 (C+) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 1 | Honours (Including Co-operative Option if Selected) 1,2,3 | MATH 1230 | Differential Calculus | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 1 | Honours (Including Co-operative Option if Selected) 1,2,3 | MATH 1240 | Elementary Discrete Mathematics (B) | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 1 | Honours (Including Co-operative Option if Selected) 1,2,3 | MATH 1700 | Calculus 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 1-2 | Honours (Including Co-operative Option if Selected) 1,2,3 | STAT 1150 | Introduction to Statistics and Computing | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 1-2 | Honours (Including Co-operative Option if Selected) 1,2,3 |  | 6 credit hours from the Faculty of Arts, which should include the required 3 credit hour “W” course | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 1-2 | Honours (Including Co-operative Option if Selected) 1,2,3 |  | 15 credit hours of electives | 15 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 2 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 2080 | Algorithms: Design and Implementation | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 2 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 2140 | Data Structures: Analysis and Implementation | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 2 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 2400 | Programming Paradigms | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 2 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 2450 | Software Development 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 2 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 2452 | Software Development 2 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 2 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 2280 | Introduction to Computer Systems | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 3 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 3280 | Computer Systems | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 3 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 3320 | Theory of Computing | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 3 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 3350 | Software Engineering 1 | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 3 | Honours (Including Co-operative Option if Selected) 1,2,3 |  | 6 credit hours of 3000 level Computer Science courses | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 3-4 | Honours (Including Co-operative Option if Selected) 1,2,3 |  | 18 credit hours of electives | 18 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 3-4 | Honours (Including Co-operative Option if Selected) 1,2,3 |  | 6 credit hours of 3000 or 4000 level Computer Science courses | 6 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 3-4 | Honours (Including Co-operative Option if Selected) 1,2,3 |  | Co-op Requirements (if selected): |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 3-4 | Honours (Including Co-operative Option if Selected) 1,2,3 | SCI 3980 | Co-operative Education Work Term 1 | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 3-4 | Honours (Including Co-operative Option if Selected) 1,2,3 | SCI 3990 | Co-operative Education Work Term 2 | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 3-4 | Honours (Including Co-operative Option if Selected) 1,2,3 | SCI 4980 | Co-operative Education Work Term 3 | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Years 3-4 | Honours (Including Co-operative Option if Selected) 1,2,3 | SCI 4990 | Co-operative Education Work Term 4 (if a 4th work term is selected) | 0 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 4 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 4620 | Professional Practice in Computer Science | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 4 | Honours (Including Co-operative Option if Selected) 1,2,3 |  | One of: | 3 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 4 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 4320 | Computability and Complexity |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 4 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 4420 | Advanced Data Structures |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 4 | Honours (Including Co-operative Option if Selected) 1,2,3 | COMP 4422 | Advanced Algorithms |  | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+| Year 4 | Honours (Including Co-operative Option if Selected) 1,2,3 |  | 15 credit hours of 4000 level Computer Science courses | 15 | [University of Manitoba, n.d.](https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/) |
+
+## References
+
+University of Manitoba. (n.d.). *Computer Science, B.C.Sc., Honours*. Retrieved November 11, 2026, from <https://catalog.umanitoba.ca/undergraduate-studies/science/computer-science/computer-science-bcsc-honours/>

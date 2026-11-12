@@ -1,0 +1,69 @@
+---
+title: "3.114 Dietetics Major"
+description: "University Programs > The University of British Columbia > Dietetics Major: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 3.114 Dietetics Major
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Dietetics Major**<br>营养配餐学主修 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **General Biochemistry**<br>普通生物化学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Food Theory and Applications**<br>食品理论与应用 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Counselling Skills in Dietetics**<br>营养学咨询技能 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Fundamentals of Nutrition**<br>营养学基础 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Vitamins, Minerals, and Health**<br>维生素、矿物质与健康 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Nutrition Assessment**<br>营养评估 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Human Nutrition Over The Life Span**<br>人类生命周期营养 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Nutrition Care I**<br>营养护理 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Professional Dietetic Practice I**<br>专业营养实践 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Dietetics Practice Education Placement I**<br>营养学实践教育实习 I | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Research Methods in Human Nutrition**<br>人类营养研究方法 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Business Concepts in Food, Nutrition, and Health**<br>食品、营养与健康中的商业概念 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Food Service Systems Management**<br>餐饮服务系统管理 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Nutrition Care II**<br>营养护理 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Applied Public Health Nutrition**<br>应用公共卫生营养学 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Nutrition Care III**<br>营养护理 III | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Professional Dietetic Practice II**<br>专业营养实践 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Dietetics Practice Education Placement II**<br>营养学实践教育实习 II | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Land, Food, and Community II: Principles and Practice of Community Food Security**<br>土地、食物与社区 II：社区粮食安全的原理与实践 | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Dietetics Practice Education Placement III**<br>营养学实践教育实习 III | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| **Dietetics Practice Education Placement IV**<br>营养学实践教育实习 IV | (Definition pending) | （定义待补） | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+| Third Year |  | BIOC_V 302 | General Biochemistry | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 340 | Food Theory and Applications | 4.5 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 345 | Counselling Skills in Dietetics | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 350 | Fundamentals of Nutrition | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 351 | Vitamins, Minerals, and Health | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 370 | Nutrition Assessment | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 371 | Human Nutrition Over The Life Span | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 375 | Nutrition Care I | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 380 | Professional Dietetic Practice I | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 381 | Dietetics Practice Education Placement I | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Third Year |  | FNH_V 398 | Research Methods in Human Nutrition | 4 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fourth Year |  | FNH_V 415 | Business Concepts in Food, Nutrition, and Health | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fourth Year |  | FNH_V 440 | Food Service Systems Management | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fourth Year |  | FNH_V 470 | Nutrition Care II | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fourth Year |  | FNH_V 473 | Applied Public Health Nutrition | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fourth Year |  | FNH_V 475 | Nutrition Care III | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fourth Year |  | FNH_V 480 | Professional Dietetic Practice II | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fourth Year |  | FNH_V 481 | Dietetics Practice Education Placement II | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fourth Year |  | LFS_V 350 | Land, Food, and Community II: Principles and Practice of Community Food Security | 3 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fourth Year |  |  | Restricted electives | 9 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fifth Year |  | FNH_V 482 | Dietetics Practice Education Placement III | 12 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+| Fifth Year |  | FNH_V 483 | Dietetics Practice Education Placement IV | 12 | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+|  | FNH_V 381: Involves practice education placements in Summer Session Term 1 of Year 3 | FNH_V 381 | Dietetics Practice Education Placement I |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+|  | FNH_V 481: Involves practice education placements in Summer Session Term 1 or Year 4 | FNH_V 481 | Dietetics Practice Education Placement II |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+|  | FNH_V 482: Involves practice education placements in Term 1 of Year 5 | FNH_V 482 | Dietetics Practice Education Placement III |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+|  | FNH_V 482: Involves practice education placements in Term 1 of Year 5 | FNH_V 482 | Dietetics Practice Education Placement III |  | [The University of British Columbia, n.d.](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major) |
+
+## References
+
+The University of British Columbia. (n.d.). *Dietetics Major*. Retrieved November 11, 2026, from <https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-nutrition-and-health-fnh/dietetics-major>
