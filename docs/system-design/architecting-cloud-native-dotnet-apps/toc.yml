@@ -1,0 +1,95 @@
+items:
+- name: Overview
+  href: index.md
+- name: "1. Introduction to Cloud-Native Applications"
+  href: chapter-1/index.md
+  items:
+  - name: "1.1 Cloud Native"
+    href: chapter-1/1-1-cloud-native.md
+  - name: "1.2 Candidate Apps for Cloud Native"
+    href: chapter-1/1-2-candidate-apps-for-cloud-native.md
+- name: "2. Introducing the eShopOnContainers Reference App"
+  href: chapter-2/index.md
+  items:
+  - name: "2.1 Mapping eShopOnContainers to Azure Services"
+    href: chapter-2/2-1-mapping-eshoponcontainers-to-azure-services.md
+  - name: "2.2 Centralized Configuration"
+    href: chapter-2/2-2-centralized-configuration.md
+- name: "3. Scaling Cloud-Native .NET Applications"
+  href: chapter-3/index.md
+  items:
+  - name: "3.1 Leveraging Containers and Orchestrators"
+    href: chapter-3/3-1-leveraging-containers-and-orchestrators.md
+  - name: "3.2 Leveraging Serverless Functions"
+    href: chapter-3/3-2-leveraging-serverless-functions.md
+  - name: "3.3 Combining Containers and Serverless Approaches"
+    href: chapter-3/3-3-combining-containers-and-serverless-approaches.md
+  - name: "3.4 Deploying Containers in Azure"
+    href: chapter-3/3-4-deploying-containers-in-azure.md
+  - name: "3.5 Scaling Containers and Serverless Applications"
+    href: chapter-3/3-5-scaling-containers-and-serverless-applications.md
+  - name: "3.6 Other Deployment Options"
+    href: chapter-3/3-6-other-deployment-options.md
+- name: "4. Cloud-Native Communication Patterns"
+  href: chapter-4/index.md
+  items:
+  - name: "4.1 Front-End Client Communication"
+    href: chapter-4/4-1-front-end-client-communication.md
+  - name: "4.2 Service to Service Communication"
+    href: chapter-4/4-2-service-to-service-communication.md
+  - name: "4.3 gRPC"
+    href: chapter-4/4-3-grpc.md
+  - name: "4.4 Service Mesh Communication Infrastructure"
+    href: chapter-4/4-4-service-mesh-communication-infrastructure.md
+- name: "5. Cloud-Native Data Patterns"
+  href: chapter-5/index.md
+  items:
+  - name: "5.1 Relational vs. NoSQL Data"
+    href: chapter-5/5-1-relational-vs-nosql-data.md
+  - name: "5.2 Caching in a Cloud-Native Application"
+    href: chapter-5/5-2-caching-in-a-cloud-native-application.md
+  - name: "5.3 Elasticsearch in Azure"
+    href: chapter-5/5-3-elasticsearch-in-azure.md
+- name: "6. Cloud-Native Resiliency"
+  href: chapter-6/index.md
+  items:
+  - name: "6.1 Application Resiliency Patterns"
+    href: chapter-6/6-1-application-resiliency-patterns.md
+  - name: "6.2 Cloud Infrastructure Resiliency with Azure"
+    href: chapter-6/6-2-cloud-infrastructure-resiliency-with-azure.md
+  - name: "6.3 Resilient Communication"
+    href: chapter-6/6-3-resilient-communication.md
+- name: "7. Monitoring and Health"
+  href: chapter-7/index.md
+  items:
+  - name: "7.1 Observability Patterns"
+    href: chapter-7/7-1-observability-patterns.md
+  - name: "7.2 Logging with Elastic Stack"
+    href: chapter-7/7-2-logging-with-elastic-stack.md
+  - name: "7.3 Monitoring in Azure Kubernetes Services"
+    href: chapter-7/7-3-monitoring-in-azure-kubernetes-services.md
+  - name: "7.4 Azure Monitor"
+    href: chapter-7/7-4-azure-monitor.md
+- name: "8. Cloud-Native Identity"
+  href: chapter-8/index.md
+  items:
+  - name: "8.1 Authentication and Authorization in Cloud-Native Apps"
+    href: chapter-8/8-1-authentication-and-authorization-in-cloud-native-apps.md
+  - name: "8.2 Azure Active Directory"
+    href: chapter-8/8-2-azure-active-directory.md
+  - name: "8.3 Identity Server"
+    href: chapter-8/8-3-identity-server.md
+- name: "9. Cloud-Native Security"
+  href: chapter-9/index.md
+  items:
+  - name: "9.1 Azure Security for Cloud-Native Apps"
+    href: chapter-9/9-1-azure-security-for-cloud-native-apps.md
+- name: "10. DevOps"
+  href: chapter-10/index.md
+  items:
+  - name: "10.1 Feature Flags"
+    href: chapter-10/10-1-feature-flags.md
+  - name: "10.2 Infrastructure as Code"
+    href: chapter-10/10-2-infrastructure-as-code.md
+  - name: "10.3 Cloud Native Application Bundles"
+    href: chapter-10/10-3-cloud-native-application-bundles.md
