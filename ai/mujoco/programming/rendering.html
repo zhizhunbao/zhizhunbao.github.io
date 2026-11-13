@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.6 Rendering | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 5.6 Rendering: Filament rendering, OpenGL rendering.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="56-rendering">5.6 Rendering</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/rendering.png" alt="5.6 Rendering: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5.6 Rendering</strong><br>渲染</td>
+<td>(context) &quot;MuJoCo provides <strong>two built-in 3D rendering backends that support both interactive onscreen viewers and headless offscreen rendering</strong>:&quot;</td>
+<td>（语境）MuJoCo 提供<strong>两个内置的三维渲染后端，既支持交互式屏幕查看器，也支持无界面的离屏渲染</strong>：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering">Google DeepMind, n.d., &quot;Rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Filament rendering</strong><br>Filament 渲染</td>
+<td>&quot;MuJoCo provides <strong>a renderer based on Filament, Google’s real-time physically based rendering engine</strong>.&quot;</td>
+<td>MuJoCo 提供<strong>一个基于 Filament（Google 的实时基于物理的渲染引擎）的渲染器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#filament-rendering">Google DeepMind, n.d., &quot;Filament rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>retained-mode</strong><br>保留模式</td>
+<td>&quot;It uses a retained-mode, asynchronous architecture in which <strong>meshes, textures, lights, and renderables are created once from mjModel and updated in place from mjData each frame</strong>.&quot;</td>
+<td>它采用保留模式的异步架构，其中<strong>网格、纹理、灯光和可渲染对象从 mjModel 创建一次，然后每帧根据 mjData 就地更新</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering">Google DeepMind, n.d., &quot;Rendering&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Core concepts</strong><br>核心概念</td>
+<td>(context) &quot;The mjrf C API revolves around <strong>seven opaque object types</strong>&quot;</td>
+<td>（语境）mjrf C API 围绕<strong>七种不透明对象类型</strong>展开</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfContext</strong><br>Filament 上下文 mjrfContext</td>
+<td>&quot;mjrfContext is <strong>the entry point to the Filament renderer</strong>.&quot;</td>
+<td>mjrfContext 是<strong>Filament 渲染器的入口</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfScene</strong><br>Filament 场景 mjrfScene</td>
+<td>&quot;A mjrfScene is <strong>a container of lights, renderables, and an optional skybox texture</strong>;&quot;</td>
+<td>mjrfScene 是<strong>容纳灯光、可渲染对象和一个可选天空盒纹理的容器</strong>；</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfMesh</strong><br>Filament 网格 mjrfMesh</td>
+<td>&quot;mjrfMesh <strong>stores vertex attributes (positions, packed tangent-frame orientations, UVs) and indices</strong> uploaded via mjrf_uploadMesh, along with bounding boxes used for frustum culling.&quot;</td>
+<td>mjrfMesh <strong>存储顶点属性（位置、打包的切线坐标系朝向、UV）和索引</strong>，它们通过 mjrf_uploadMesh 上传，还存储用于视锥剔除的包围盒。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjrfTexture</strong><br>Filament 纹理 mjrfTexture</td>
+<td>&quot;mjrfTexture <strong>stores 2D, cubemap, or KTX-compressed image data</strong> uploaded via mjrf_uploadTexture.&quot;</td>
+<td>mjrfTexture <strong>存储二维、立方体贴图或 KTX 压缩的图像数据</strong>，它们通过 mjrf_uploadTexture 上传。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjrfRenderable</strong><br>可渲染对象 mjrfRenderable</td>
+<td>&quot;An mjrfRenderable is <strong>a persistent drawable entity in a scene, combining surface geometry, material appearance, and a 3D transform</strong>:&quot;</td>
+<td>mjrfRenderable 是<strong>场景中一个持久的可绘制实体，组合了表面几何、材质外观和三维变换</strong>：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Geometry</strong><br>几何</td>
+<td>&quot;A renderable can reference either <strong>a custom mjrfMesh (via mjrf_setRenderableMesh) or a built-in geometric primitive</strong> such as a sphere, capsule, cylinder, box, or ellipsoid (via mjrf_setRenderableGeomMesh, which caches and shares underlying mesh buffers across renderables with matching quality parameters).&quot;</td>
+<td>可渲染对象可以引用<strong>一个自定义的 mjrfMesh（通过 mjrf_setRenderableMesh），或一个内置几何图元</strong>，如球、胶囊、圆柱、长方体或椭球（通过 mjrf_setRenderableGeomMesh，它会缓存底层网格缓冲区，并在质量参数相同的可渲染对象之间共享）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Material</strong><br>材质</td>
+<td>&quot;mjrf_setRenderableMaterial applies an mjrfMaterial struct, which <strong>selects between three shading models</strong>: metallic-roughness PBR, legacy specular-glossiness (Phong), or unlit rendering for UI and decorative overlays (decor, which also places the object on the decor layer and disables shadows).&quot;</td>
+<td>mjrf_setRenderableMaterial 应用一个 mjrfMaterial 结构体，它<strong>在三种着色模型之间选择</strong>：金属度-粗糙度 PBR、旧式镜面-光泽度（Phong），或用于 UI 和装饰叠加层的无光照渲染（decor，它还会把对象放到装饰层并关闭阴影）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjrfMaterial</strong><br>Filament 材质 mjrfMaterial</td>
+<td>(context) &quot;Plain structs such as mjrfMaterial and mjrfRenderRequest <strong>describe how these objects are configured and drawn</strong>.&quot;</td>
+<td>（语境）像 mjrfMaterial 和 mjrfRenderRequest 这样的普通结构体<strong>描述这些对象如何配置和绘制</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Pose and size</strong><br>位姿与尺寸</td>
+<td>&quot;On each frame, mjrf_setRenderablePose <strong>updates the renderable’s 3D position and rotation matrix in place</strong>, and mjrf_setRenderableSize updates its scale (handling non-uniform primitive scaling such as keeping capsule end-caps spherical).&quot;</td>
+<td>每一帧，mjrf_setRenderablePose <strong>就地更新可渲染对象的三维位置和旋转矩阵</strong>，mjrf_setRenderableSize 更新它的缩放（处理图元的非均匀缩放，例如保持胶囊端帽为球形）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjrfLight</strong><br>Filament 灯光 mjrfLight</td>
+<td>&quot;mjrfLight <strong>represents directional, spot, point, or image-based (IBL environment cubemap) light sources</strong> added to a scene via mjrf_addSceneLight.&quot;</td>
+<td>mjrfLight <strong>表示平行光、聚光灯、点光源或基于图像的（IBL 环境立方体贴图）光源</strong>，它们通过 mjrf_addSceneLight 添加到场景中。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>headlight</strong><br>头灯</td>
+<td>&quot;Note that the camera-aligned headlight is <strong>specified on mjrfRenderRequest (with intensity in lux) rather than as a scene light</strong>, so rendering the same scene from multiple cameras does not cross-illuminate views.&quot;</td>
+<td>注意，与相机对齐的头灯<strong>在 mjrfRenderRequest 上指定（强度单位为勒克斯），而不是作为场景灯光</strong>，因此从多个相机渲染同一场景时各视图不会相互照亮。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>mjrfRenderTarget</strong><br>渲染目标 mjrfRenderTarget</td>
+<td>(context) &quot;Each mjrfRenderRequest pairs an mjrfScene with a camera (mjrCamera), viewport, <strong>optional offscreen mjrfRenderTarget (or NULL for the native window)</strong>, draw mode (mjrDrawMode: default, no-textures, wireframe, depth, solver islands, or segmentation by ID/color), and per-view flags (shadows, reflections, post-processing, headlight).&quot;</td>
+<td>（语境）每个 mjrfRenderRequest 把一个 mjrfScene 与相机（mjrCamera）、视口、<strong>可选的离屏 mjrfRenderTarget（为 NULL 时表示原生窗口）</strong>、绘制模式（mjrDrawMode：默认、无纹理、线框、深度、求解器岛，或按 ID/颜色分割）以及逐视图标志（阴影、反射、后处理、头灯）配成一组。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>mjrfRenderRequest</strong><br>渲染请求 mjrfRenderRequest</td>
+<td>&quot;Each mjrfRenderRequest <strong>pairs an mjrfScene with a camera (mjrCamera), viewport, optional offscreen mjrfRenderTarget (or NULL for the native window), draw mode</strong> (mjrDrawMode: default, no-textures, wireframe, depth, solver islands, or segmentation by ID/color), and per-view flags (shadows, reflections, post-processing, headlight).&quot;</td>
+<td>每个 mjrfRenderRequest <strong>把一个 mjrfScene 与相机（mjrCamera）、视口、可选的离屏 mjrfRenderTarget（为 NULL 时表示原生窗口）、绘制模式配成一组</strong>（mjrDrawMode：默认、无纹理、线框、深度、求解器岛，或按 ID/颜色分割），并带有逐视图标志（阴影、反射、后处理、头灯）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>mjrfReadRequest</strong><br>读取请求 mjrfReadRequest</td>
+<td>&quot;Offscreen pixel readbacks are <strong>requested alongside render requests via mjrfReadRequest</strong>.&quot;</td>
+<td>离屏像素回读<strong>通过 mjrfReadRequest 与渲染请求一起提交</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>mjrfFrameHandle</strong><br>帧句柄 mjrfFrameHandle</td>
+<td>&quot;mjrf_render dispatches work to a dedicated render thread and returns an mjrfFrameHandle, which <strong>the caller synchronizes on with mjrf_waitForFrame</strong>.&quot;</td>
+<td>mjrf_render 把工作分派给一个专用渲染线程，并返回一个 mjrfFrameHandle，<strong>调用者用 mjrf_waitForFrame 在它上面同步</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#core-concepts">Google DeepMind, n.d., &quot;Core concepts&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>Support layer</strong><br>支持层</td>
+<td>(context) &quot;most MuJoCo applications use <strong>the support layer</strong> in src/render/filament/support&quot;</td>
+<td>（语境）大多数 MuJoCo 应用使用 src/render/filament/support 中的<strong>支持层</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#support-layer">Google DeepMind, n.d., &quot;Support layer&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ModelResources</strong><br>模型资源类 ModelResources</td>
+<td>&quot;Creates and owns <strong>all mjrfMesh (meshes, convex hulls, and heightfields) and mjrfTexture resources from an mjModel</strong>, and supports re-uploading modified assets dynamically.&quot;</td>
+<td>根据 mjModel 创建并持有<strong>所有 mjrfMesh（网格、凸包和高度场）和 mjrfTexture 资源</strong>，并支持动态重新上传修改过的资源。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#support-layer">Google DeepMind, n.d., &quot;Support layer&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>ModelLights</strong><br>模型灯光类 ModelLights</td>
+<td>&quot;Populates and updates <strong>the scene’s mjrfLight instances from mjModel and mjData</strong>, and automatically configures fallback environment and directional lighting when a model does not define photometric light intensities.&quot;</td>
+<td>根据 mjModel 和 mjData 填充并更新<strong>场景中的 mjrfLight 实例</strong>，并在模型未定义光度学灯光强度时自动配置后备的环境光和平行光照明。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#support-layer">Google DeepMind, n.d., &quot;Support layer&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>ModelRenderables</strong><br>模型可渲染对象类 ModelRenderables</td>
+<td>&quot;Creates <strong>persistent mjrfRenderable entities for all model geoms, sites, skins, flexes, and spatial tendons</strong>.&quot;</td>
+<td>为<strong>所有模型 geom、site、蒙皮、柔性体和空间肌腱创建持久的 mjrfRenderable 实体</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#support-layer">Google DeepMind, n.d., &quot;Support layer&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>ModelDecorations</strong><br>模型装饰类 ModelDecorations</td>
+<td>&quot;Bridges <strong>the abstract visualizer for transient decorative geometry</strong>.&quot;</td>
+<td>为临时的装饰性几何<strong>桥接抽象可视化器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#support-layer">Google DeepMind, n.d., &quot;Support layer&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Authoring scenes</strong><br>场景制作</td>
+<td>(context) &quot;The Filament renderer <strong>supports both models</strong>.&quot;</td>
+<td>（语境）Filament 渲染器<strong>同时支持这两种模型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#authoring-scenes">Google DeepMind, n.d., &quot;Authoring scenes&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Phong lighting model</strong><br>Phong 光照模型</td>
+<td>&quot;The classic renderer implements a traditional Phong lighting model: <strong>surface color is a sum of ambient, diffuse, specular and emissive terms</strong>, and light intensities are dimensionless values tuned by eye.&quot;</td>
+<td>经典渲染器实现了传统的 Phong 光照模型：<strong>表面颜色是环境光、漫反射、镜面反射和自发光各项之和</strong>，灯光强度是凭眼睛调节的无量纲值。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#authoring-scenes">Google DeepMind, n.d., &quot;Authoring scenes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>physically-based rendering (PBR)</strong><br>基于物理的渲染（PBR）</td>
+<td>&quot;Modern physically-based rendering (PBR) engines <strong>describe surfaces with empirically measurable properties and lights with photometric units</strong>.&quot;</td>
+<td>现代基于物理的渲染（PBR）引擎<strong>用可经验测量的属性描述表面，用光度学单位描述灯光</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#authoring-scenes">Google DeepMind, n.d., &quot;Authoring scenes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Materials</strong><br>材质</td>
+<td>&quot;A material is shaded with the PBR lighting model if it <strong>defines any physical property</strong>: a non-negative metallic or roughness coefficient, or texture layers with PBR roles (metallic, roughness, packed occlusion-roughness-metallic, normal, emissive, occlusion).&quot;</td>
+<td>如果一个材质<strong>定义了任何物理属性</strong>，它就用 PBR 光照模型着色：非负的金属度或粗糙度系数，或具有 PBR 角色的纹理层（金属度、粗糙度、打包的遮蔽-粗糙度-金属度、法线、自发光、遮蔽）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#materials">Google DeepMind, n.d., &quot;Materials&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Lighting</strong><br>光照</td>
+<td>&quot;Physical lighting is <strong>enabled by the lights themselves</strong>: if any light in the model has positive intensity, all lights are assumed to be photometric, with intensities measured in candela.&quot;</td>
+<td>物理光照<strong>由灯光本身启用</strong>：只要模型中有任何灯光强度为正，所有灯光就都被视为光度学灯光，强度以坎德拉计量。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#lighting">Google DeepMind, n.d., &quot;Lighting&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>image-based lighting</strong><br>基于图像的光照</td>
+<td>&quot;Lights of type image provide image-based lighting: <strong>the referenced texture illuminates the scene as an environment map</strong>.&quot;</td>
+<td>image 类型的灯光提供基于图像的光照：<strong>被引用的纹理作为环境贴图照亮场景</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#lighting">Google DeepMind, n.d., &quot;Lighting&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Rendering options</strong><br>渲染选项</td>
+<td>&quot;The Filament renderer provides <strong>a set of options for controlling how the final image is rendered</strong>.&quot;</td>
+<td>Filament 渲染器提供<strong>一组用于控制最终图像如何渲染的选项</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering-options">Google DeepMind, n.d., &quot;Rendering options&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Shadows</strong><br>阴影</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering-options">Google DeepMind, n.d., &quot;Rendering options&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Screen-space ambient occlusion</strong><br>屏幕空间环境光遮蔽</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering-options">Google DeepMind, n.d., &quot;Rendering options&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Bloom</strong><br>泛光</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering-options">Google DeepMind, n.d., &quot;Rendering options&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Color grading</strong><br>调色</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering-options">Google DeepMind, n.d., &quot;Rendering options&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Exponential height fog</strong><br>指数高度雾</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering-options">Google DeepMind, n.d., &quot;Rendering options&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Vignette</strong><br>暗角</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering-options">Google DeepMind, n.d., &quot;Rendering options&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Background</strong><br>背景</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering-options">Google DeepMind, n.d., &quot;Rendering options&quot;</a></td>
+</tr>
+<tr>
+<td><strong>OpenGL rendering</strong><br>OpenGL 渲染</td>
+<td>&quot;The classic OpenGL renderer (mjr) <strong>takes the mjvScene data structure populated in the Visualization stage and renders it</strong>.&quot;</td>
+<td>经典 OpenGL 渲染器（mjr）<strong>接收在可视化阶段填充好的 mjvScene 数据结构并渲染它</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#opengl-rendering">Google DeepMind, n.d., &quot;OpenGL rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>immediate-mode</strong><br>立即模式</td>
+<td>&quot;It uses an immediate-mode scene architecture in which <strong>mjv_updateScene populates an mjvScene with all geometric objects and lights on every frame</strong>, and mjr_render draws it.&quot;</td>
+<td>它采用立即模式的场景架构，其中 <strong>mjv_updateScene 每帧都用全部几何对象和灯光填充一个 mjvScene</strong>，再由 mjr_render 绘制它。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#rendering">Google DeepMind, n.d., &quot;Rendering&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Using OpenGL</strong><br>使用 OpenGL</td>
+<td>(context) &quot;MuJoCo uses <strong>OpenGL 1.5 in the compatibility profile</strong> with the ARB_framebuffer_object and ARB_vertex_buffer_object extensions.&quot;</td>
+<td>（语境）MuJoCo 使用<strong>兼容性配置下的 OpenGL 1.5</strong>，并使用 ARB_framebuffer_object 和 ARB_vertex_buffer_object 扩展。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#using-opengl">Google DeepMind, n.d., &quot;Using OpenGL&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Context and GPU resources</strong><br>上下文与 GPU 资源</td>
+<td>(context) &quot;The first step in the rendering process is to <strong>create the model-specific GPU context mjrContext</strong>.&quot;</td>
+<td>（语境）渲染过程的第一步是<strong>创建特定于模型的 GPU 上下文 mjrContext</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#context-and-gpu-resources">Google DeepMind, n.d., &quot;Context and GPU resources&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>OpenGL context</strong><br>OpenGL 上下文</td>
+<td>&quot;An OpenGL context is <strong>what enables the application to talk to the video driver and send rendering commands</strong>.&quot;</td>
+<td>OpenGL 上下文是<strong>让应用能够与显卡驱动通信并发送渲染命令的东西</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#context-and-gpu-resources">Google DeepMind, n.d., &quot;Context and GPU resources&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>mjrContext</strong><br>GPU 上下文 mjrContext</td>
+<td>&quot;mjrContext is specific to MuJoCo. After creation, it contains <strong>references (called “names” in OpenGL) to all the resources that were uploaded to the GPU by mjr_makeContext</strong>.&quot;</td>
+<td>mjrContext 是 MuJoCo 特有的。创建之后，它包含<strong>对 mjr_makeContext 上传到 GPU 的所有资源的引用（在 OpenGL 中称为“名字”）</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#context-and-gpu-resources">Google DeepMind, n.d., &quot;Context and GPU resources&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Buffers for rendering</strong><br>渲染缓冲区</td>
+<td>&quot;In MuJoCo we provide <strong>systematic support for two framebuffers: the default window framebuffer, and one offscreen framebuffer</strong>.&quot;</td>
+<td>在 MuJoCo 中，我们<strong>系统地支持两个帧缓冲区：默认的窗口帧缓冲区和一个离屏帧缓冲区</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#buffers-for-rendering">Google DeepMind, n.d., &quot;Buffers for rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>framebuffer objects (FBOs)</strong><br>帧缓冲区对象（FBO）</td>
+<td>(context) &quot;In addition to the default window framebuffer, OpenGL can support <strong>unlimited framebuffer objects (FBOs) for custom rendering</strong>.&quot;</td>
+<td>（语境）除了默认的窗口帧缓冲区，OpenGL 还可以支持<strong>任意数量的用于自定义渲染的帧缓冲区对象（FBO）</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#buffers-for-rendering">Google DeepMind, n.d., &quot;Buffers for rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtFramebuffer</strong><br>帧缓冲区枚举 mjtFramebuffer</td>
+<td>(context) &quot;They are referred to by <strong>the constants in the enum type mjtFramebuffer</strong>, namely mjFB_WINDOW and mjFB_OFFSCREEN.&quot;</td>
+<td>（语境）它们用<strong>枚举类型 mjtFramebuffer 中的常量</strong>来指代，即 mjFB_WINDOW 和 mjFB_OFFSCREEN。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#buffers-for-rendering">Google DeepMind, n.d., &quot;Buffers for rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>active buffer</strong><br>活动缓冲区</td>
+<td>&quot;At any time, one of these two buffers is active for the purposes of MuJoCo rendering, meaning that <strong>all subsequent commands are directed to it</strong>.&quot;</td>
+<td>在任何时刻，这两个缓冲区中有一个对 MuJoCo 渲染而言是活动的，意思是<strong>之后的所有命令都发往它</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#buffers-for-rendering">Google DeepMind, n.d., &quot;Buffers for rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>window framebuffer</strong><br>窗口帧缓冲区</td>
+<td>&quot;The window framebuffer is <strong>created and managed by the operating system and not by OpenGL</strong>.&quot;</td>
+<td>窗口帧缓冲区<strong>由操作系统而不是由 OpenGL 创建和管理</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#buffers-for-rendering">Google DeepMind, n.d., &quot;Buffers for rendering&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>offscreen framebuffer</strong><br>离屏帧缓冲区</td>
+<td>&quot;In contrast, the offscreen framebuffer is <strong>managed entirely by OpenGL</strong>, and so we can create that buffer with whatever properties we want, namely with the resolution and multi-sample properties specified in mjModel.vis.&quot;</td>
+<td>相比之下，离屏帧缓冲区<strong>完全由 OpenGL 管理</strong>，因此我们可以按需要的任何属性创建它，即使用 mjModel.vis 中指定的分辨率和多重采样属性。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#buffers-for-rendering">Google DeepMind, n.d., &quot;Buffers for rendering&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Drawing pixels</strong><br>绘制像素</td>
+<td>(context) &quot;The main rendering function is <strong>mjr_render</strong>.&quot;</td>
+<td>（语境）主渲染函数是 <strong>mjr_render</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#drawing-pixels">Google DeepMind, n.d., &quot;Drawing pixels&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtRndFlag</strong><br>渲染标志枚举 mjtRndFlag</td>
+<td>(context) &quot;The array mjvScene.flags contains <strong>flags indexed by the enum type mjtRndFlag</strong> and include options for enabling and disabling wireframe mode, shadows, reflections, skyboxes and fog.&quot;</td>
+<td>（语境）数组 mjvScene.flags 包含<strong>由枚举类型 mjtRndFlag 索引的标志</strong>，包括启用和禁用线框模式、阴影、反射、天空盒和雾的选项。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#drawing-pixels">Google DeepMind, n.d., &quot;Drawing pixels&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>mjtStereo</strong><br>立体模式枚举 mjtStereo</td>
+<td>(context) &quot;The possible values are given by <strong>the enum type mjtStereo</strong> and are as follows:&quot;</td>
+<td>（语境）可能的取值由<strong>枚举类型 mjtStereo</strong> 给出，如下：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html#drawing-pixels">Google DeepMind, n.d., &quot;Drawing pixels&quot;, para. 3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Rendering</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/programming/rendering.html">https://mujoco.readthedocs.io/en/stable/programming/rendering.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

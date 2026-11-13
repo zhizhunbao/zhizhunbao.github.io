@@ -1,0 +1,2330 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.58 Co-op in Software Engineering (B.Eng.) | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="University Programs &gt; McGill University &gt; Co-op in Software Engineering (B.Eng.): the courses of the program as the academic calendar lists them; definitions pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="158-co-op-in-software-engineering-beng">1.58 Co-op in Software Engineering (B.Eng.)</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Co-op in Software Engineering (B.Eng.)</strong><br>软件工程合作教育（B.Eng.）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>General Chemistry 2.</strong><br>普通化学 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Linear Algebra and Geometry.</strong><br>线性代数与几何</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Calculus 1.</strong><br>微积分 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Calculus 2.</strong><br>微积分 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mechanics and Waves.</strong><br>力学与波</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electromagnetism and Optics.</strong><br>电磁学与光学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Foundations of Programming.</strong><br>编程基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Software Systems.</strong><br>软件系统导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Algorithms and Data Structures.</strong><br>算法与数据结构</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Programming Languages and Paradigms.</strong><br>编程语言与范式</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Algorithm Design.</strong><br>算法设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Database Systems.</strong><br>数据库系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to the Engineering Profession.</strong><br>工程职业导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Responsibilities of the Professional Engineer.</strong><br>专业工程师的责任</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Engineering Economy.</strong><br>工程经济学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Engineering Professional Practice.</strong><br>工程专业实践</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Discrete Structures.</strong><br>离散结构</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Intermediate Calculus.</strong><br>中级微积分</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Ordinary Differential Equations for Engineers.</strong><br>工程常微分方程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Communication in Engineering.</strong><br>工程交流</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electric Circuits 1.</strong><br>电路 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Co-operative Work Term 1.</strong><br>合作教育工作学期 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Probability and Statistics for Engineers</strong><br>工程师概率与统计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Design Principles and Methods.</strong><br>设计原则与方法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Digital Logic.</strong><br>数字逻辑</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Model-Based Programming.</strong><br>基于模型的编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Fundamentals of Software Development.</strong><br>软件开发基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Co-operative Work Term 2.</strong><br>合作教育工作学期 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Thermodynamics of Computing.</strong><br>计算的热力学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Signals and Networks.</strong><br>信号与网络</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Software Engineering.</strong><br>软件工程导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Organization.</strong><br>计算机组成</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Requirements Engineering.</strong><br>软件需求工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Co-operative Work Term 3.</strong><br>合作教育工作学期 3</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Parallel Computing.</strong><br>并行计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Operating Systems.</strong><br>操作系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Engineering Practice.</strong><br>软件工程实践</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Validation.</strong><br>软件验证</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Capstone Design Project.</strong><br>毕业设计项目</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Digital Systems.</strong><br>数字系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Computer Vision.</strong><br>计算机视觉导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Telecommunication Networks.</strong><br>电信网络</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Language Engineering.</strong><br>软件语言工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Microprocessors.</strong><br>微处理器</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Fundamentals of Circuit Simulation and Modelling.</strong><br>电路仿真与建模基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computational Photography.</strong><br>计算摄影</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principles of Web Development.</strong><br>网站开发原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Theory of Computation.</strong><br>计算理论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Numerical Computing.</strong><br>数值计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Data Science.</strong><br>数据科学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Concurrent Programming.</strong><br>并发编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction Robotics and Intelligent Systems.</strong><br>机器人与智能系统导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Artificial Intelligence.</strong><br>人工智能</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Distributed Systems.</strong><br>分布式系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Compiler Design.</strong><br>编译器设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Modern Computer Games.</strong><br>现代电脑游戏</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Formal Verification.</strong><br>形式化验证</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Architecture.</strong><br>软件架构</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Model-Driven Software Development.</strong><br>模型驱动的软件开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cryptography and Data Security.</strong><br>密码学与数据安全</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Brain-Inspired Artificial Intelligence.</strong><br>类脑人工智能</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Natural Language Processing.</strong><br>自然语言处理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Machine Learning.</strong><br>应用机器学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Fundamentals of Computer Animation.</strong><br>计算机动画基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Theory of Machine Learning.</strong><br>机器学习理论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Probabilistic Graphical Models.</strong><br>概率图模型</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Numerical Methods in Engineering.</strong><br>工程中的数值方法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Co-operative Work Term 4.</strong><br>合作教育工作学期 4</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Embedded Systems.</strong><br>嵌入式系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Fault Tolerant Computing.</strong><br>容错计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Human-Computer Interaction.</strong><br>人机交互</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Architecture.</strong><br>计算机体系结构</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Delivery.</strong><br>软件交付</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Realistic Image Synthesis.</strong><br>真实感图像合成</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Optimization and Optimal Control.</strong><br>优化与最优控制</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Information Theory and Coding.</strong><br>信息论与编码</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Probability and Random Signals 2.</strong><br>概率与随机信号 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Satellite Navigation Systems .</strong><br>卫星导航系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Graphics.</strong><br>计算机图形学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Machine Learning for Engineers.</strong><br>工程师机器学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Deep Learning.</strong><br>深度学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Robotics .</strong><br>应用机器人学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Machine Learning in Network Biology.</strong><br>网络生物学中的机器学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Ethics of Intelligent Systems.</strong><br>智能系统伦理导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Automated Program Analysis and Testing.</strong><br>自动程序分析与测试</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Honours Applied Linear Algebra.</strong><br>荣誉应用线性代数</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Anthropology of Development.</strong><br>发展人类学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sustainable Design.</strong><br>可持续设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Biotechnology Ethics and Society.</strong><br>生物技术伦理与社会</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>History of Communication.</strong><br>传播史</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Disability, Technology and Communication.</strong><br>残障、技术与交流</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Economics of the Environment.</strong><br>环境经济学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Economics of Climate Change.</strong><br>气候变化经济学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Society, Environment and Sustainability.</strong><br>社会、环境与可持续性</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environmental Systems.</strong><br>环境系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Global Change: Past, Present and Future.</strong><br>全球变化：过去、现在与未来</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environmental Management 1.</strong><br>环境管理 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Managing and Organizing Digital Technology.</strong><br>数字技术的管理与组织</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Design Thinking for User Experience.</strong><br>用户体验设计思维</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Technology and Innovation for Sustainability.</strong><br>可持续性的技术与创新</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Understanding Digital and Social Media.</strong><br>理解数字与社交媒体</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Information Technology Management .</strong><br>信息技术管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Strategies for Sustainability.</strong><br>可持续性战略</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Managing Innovation.</strong><br>创新管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Emerging Technologies: Organizing and Societal Stakes.</strong><br>新兴技术：组织与社会利害</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Biomedical Ethics.</strong><br>生物医学伦理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Foundations of Sustainability for Engineering and Design.</strong><br>工程与设计可持续性基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Economics for Sustainability in Engineering and Design.</strong><br>工程与设计中的可持续性经济学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Technology and Society.</strong><br>技术与社会</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sociology of Work and Industry.</strong><br>工作与产业社会学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sociology of Science.</strong><br>科学社会学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Technological Entrepreneurship.</strong><br>技术创业</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Labour-Management Relations.</strong><br>劳资关系导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Entrepreneurship Essentials for Non-Management Students.</strong><br>非管理专业学生创业要点</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Organizational Behaviour.</strong><br>组织行为学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principles of Marketing.</strong><br>市场营销原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Leadership.</strong><br>领导力</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Managing Organizational Teams.</strong><br>组织团队管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Human Resources Management.</strong><br>人力资源管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Knowledge, Ethics and Environment.</strong><br>知识、伦理与环境</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environmental Thought.</strong><br>环境思想</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>History and Philosophy of Mathematics.</strong><br>数学的历史与哲学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Psychology.</strong><br>心理学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>History of Housing.</strong><br>住房史</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Law for Architects and Engineers.</strong><br>建筑师与工程师法律</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Technology Business Plan Design.</strong><br>技术商业计划设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Technology Business Plan Project.</strong><br>技术商业计划项目</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Type</th>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Credits</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td></td>
+<td>Generally, students admitted to Engineering from Quebec CEGEPs may be granted transfer credit for Year 0 courses</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td></td>
+<td>For information on transfer credit for French Baccalaureate, International Baccalaureate exams, Advanced Placement exams, Advanced Levels, and Science Placement Exams, see <a href="http://www.mcgill.ca/engineering/current-students/undergraduate/new-stud..">http://www.mcgill.ca/engineering/current-students/undergraduate/new-stud..</a>. and select your term of admission.</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td>CHEM 120</td>
+<td>General Chemistry 2.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td>MATH 133</td>
+<td>Linear Algebra and Geometry.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td>MATH 140</td>
+<td>Calculus 1.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td>MATH 141</td>
+<td>Calculus 2.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td>PHYS 131</td>
+<td>Mechanics and Waves.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td>PHYS 142</td>
+<td>Electromagnetism and Optics.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td></td>
+<td>AND 3 credits Natural Science complementary courses chosen from courses from the following science departments, approved by the Undergraduate Programs Office in the Department of Electrical and Computer Engineering:</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td></td>
+<td>Atmospheric and Oceanic Sciences (ATOC)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td></td>
+<td>Biology (BIOL)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td></td>
+<td>Chemistry (CHEM)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td></td>
+<td>Earth and Planetary Sciences (EPSC)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td></td>
+<td>Earth System Science (ESYS)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Year 0 Courses (25 credits)</td>
+<td></td>
+<td>Physics (PHYS)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>COMP 202</td>
+<td>Foundations of Programming.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>COMP 206</td>
+<td>Introduction to Software Systems.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>COMP 251</td>
+<td>Algorithms and Data Structures.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>COMP 302</td>
+<td>Programming Languages and Paradigms.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>COMP 360</td>
+<td>Algorithm Design.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>COMP 421</td>
+<td>Database Systems.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>FACC 100</td>
+<td>Introduction to the Engineering Profession.</td>
+<td>1</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>FACC 250</td>
+<td>Responsibilities of the Professional Engineer.</td>
+<td>0</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>FACC 300</td>
+<td>Engineering Economy.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>FACC 400</td>
+<td>Engineering Professional Practice.</td>
+<td>1</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>MATH 240</td>
+<td>Discrete Structures.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>MATH 262</td>
+<td>Intermediate Calculus.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>MATH 263</td>
+<td>Ordinary Differential Equations for Engineers.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Non-Departmental Courses (35 credits)</td>
+<td>WCOM 206</td>
+<td>Communication in Engineering.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 200</td>
+<td>Electric Circuits 1.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 201</td>
+<td>Co-operative Work Term 1.</td>
+<td>2</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 205</td>
+<td>Probability and Statistics for Engineers</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 211</td>
+<td>Design Principles and Methods.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 222</td>
+<td>Digital Logic.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 223</td>
+<td>Model-Based Programming.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 250</td>
+<td>Fundamentals of Software Development.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 301</td>
+<td>Co-operative Work Term 2.</td>
+<td>2</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 310</td>
+<td>Thermodynamics of Computing.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 316</td>
+<td>Signals and Networks.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 321</td>
+<td>Introduction to Software Engineering.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 324</td>
+<td>Computer Organization.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 326</td>
+<td>Software Requirements Engineering.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 401</td>
+<td>Co-operative Work Term 3.</td>
+<td>2</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 420</td>
+<td>Parallel Computing.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 427</td>
+<td>Operating Systems.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 428</td>
+<td>Software Engineering Practice.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 429</td>
+<td>Software Validation.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 458D1</td>
+<td>Capstone Design Project.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td>ECSE 458D2</td>
+<td>Capstone Design Project.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Software Engineering Courses (58 credits)</td>
+<td></td>
+<td>Note: ECSE 458N1 Capstone Design Project. and ECSE 458N2 Capstone Design Project. can be taken instead of ECSE 458D1 Capstone Design Project. and ECSE 458D2 Capstone Design Project. .</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Technical Complementaries</td>
+<td></td>
+<td>11-14 credits (4 courses) must be taken, chosen as follows:</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Technical Complementaries</td>
+<td></td>
+<td>3-4 credits (1 course) from List A</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Technical Complementaries</td>
+<td></td>
+<td>8-11 credits (3 courses) from List A or List B</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List A</td>
+<td></td>
+<td>3-4 credits from the following:</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List A</td>
+<td>ECSE 325</td>
+<td>Digital Systems.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List A</td>
+<td>ECSE 415</td>
+<td>Introduction to Computer Vision.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List A</td>
+<td>ECSE 416</td>
+<td>Telecommunication Networks.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List A</td>
+<td>ECSE 439</td>
+<td>Software Language Engineering.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List A</td>
+<td>ECSE 444</td>
+<td>Microprocessors.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List A</td>
+<td>ECSE 472</td>
+<td>Fundamentals of Circuit Simulation and Modelling.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List A</td>
+<td>ECSE 544</td>
+<td>Computational Photography.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td></td>
+<td>0-11 credits from the following:</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 307</td>
+<td>Principles of Web Development.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 330</td>
+<td>Theory of Computation.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 350</td>
+<td>Numerical Computing.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 370</td>
+<td>Introduction to Data Science.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 409</td>
+<td>Concurrent Programming.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 417</td>
+<td>Introduction Robotics and Intelligent Systems.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 424</td>
+<td>Artificial Intelligence.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 512</td>
+<td>Distributed Systems.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 520</td>
+<td>Compiler Design.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 521</td>
+<td>Modern Computer Games.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 525</td>
+<td>Formal Verification.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 529</td>
+<td>Software Architecture.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 533</td>
+<td>Model-Driven Software Development.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 547</td>
+<td>Cryptography and Data Security.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 549</td>
+<td>Brain-Inspired Artificial Intelligence.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 550</td>
+<td>Natural Language Processing.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 551</td>
+<td>Applied Machine Learning.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 559</td>
+<td>Fundamentals of Computer Animation.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 562</td>
+<td>Theory of Machine Learning.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>COMP 588</td>
+<td>Probabilistic Graphical Models.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 343</td>
+<td>Numerical Methods in Engineering.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 402</td>
+<td>Co-operative Work Term 4.</td>
+<td>2</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 421</td>
+<td>Embedded Systems.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 422</td>
+<td>Fault Tolerant Computing.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 424</td>
+<td>Human-Computer Interaction.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 425</td>
+<td>Computer Architecture.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 437</td>
+<td>Software Delivery.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 446</td>
+<td>Realistic Image Synthesis.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 507</td>
+<td>Optimization and Optimal Control.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 520</td>
+<td>Information Theory and Coding.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 509</td>
+<td>Probability and Random Signals 2.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 525</td>
+<td>Satellite Navigation Systems .</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 526</td>
+<td>Artificial Intelligence.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 532</td>
+<td>Computer Graphics.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 551</td>
+<td>Machine Learning for Engineers.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 552</td>
+<td>Deep Learning.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 554</td>
+<td>Applied Robotics .</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 556</td>
+<td>Machine Learning in Network Biology.</td>
+<td>4</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 557</td>
+<td>Introduction to Ethics of Intelligent Systems.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>ECSE 561</td>
+<td>Automated Program Analysis and Testing.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>List B</td>
+<td>MATH 247</td>
+<td>Honours Applied Linear Algebra.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Complementary Studies</td>
+<td></td>
+<td>9 credits</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td></td>
+<td>3 credits from the following:</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>ANTH 212</td>
+<td>Anthropology of Development.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>ARCH 515</td>
+<td>Sustainable Design.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>BTEC 502</td>
+<td>Biotechnology Ethics and Society.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>COMS 200</td>
+<td>History of Communication.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>COMS 411</td>
+<td>Disability, Technology and Communication.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>ECON 225</td>
+<td>Economics of the Environment.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>ECON 347</td>
+<td>Economics of Climate Change.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>ENVR 201</td>
+<td>Society, Environment and Sustainability.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>GEOG 203</td>
+<td>Environmental Systems.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>GEOG 205</td>
+<td>Global Change: Past, Present and Future.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>GEOG 302</td>
+<td>Environmental Management 1.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>INSY 331</td>
+<td>Managing and Organizing Digital Technology.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>INSY 334</td>
+<td>Design Thinking for User Experience.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>INSY 455</td>
+<td>Technology and Innovation for Sustainability.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>LLCU 212</td>
+<td>Understanding Digital and Social Media.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>MGCR 331</td>
+<td>Information Technology Management .</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>MGPO 440</td>
+<td>Strategies for Sustainability.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>MGPO 460</td>
+<td>Managing Innovation.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>MGPO 485</td>
+<td>Emerging Technologies: Organizing and Societal Stakes.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>PHIL 343</td>
+<td>Biomedical Ethics.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>SEAD 500</td>
+<td>Foundations of Sustainability for Engineering and Design.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>SEAD 530</td>
+<td>Economics for Sustainability in Engineering and Design.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>SOCI 235</td>
+<td>Technology and Society.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>SOCI 312</td>
+<td>Sociology of Work and Industry.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td>SOCI 325</td>
+<td>Sociology of Science.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group A - Impact of Technology on Society</td>
+<td></td>
+<td>*Note: Enrolment in certain courses is subject to permission from the offering department.</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group B - Humanities and Social Sciences, Management Studies, and Law</td>
+<td></td>
+<td>6 credits</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Group B - Humanities and Social Sciences, Management Studies, and Law</td>
+<td></td>
+<td>Generally, students admitted to Engineering from Quebec CEGEPs are granted transfer credits for 3 credits (one course) from the Complementary Studies Group B list.</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>200 or 300 level courses in the following departments excluding seminars, field courses, surveys, special/selected topics courses, courses with physical, natural or medical sciences, mathematics, and statistic contents, and courses reserved for major or Honours in the relative programs:</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Anthropology (ANTH)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Art History &amp; Communications (ARTH and COMS)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>East Asian Studies (EAST)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Economics (ECON) (any 200- or 300-level course excluding ECON 227D1/D2 and ECON 337)*</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>French Language &amp; Literature (FREN)* (excluding FREN 222 and FREN 333)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>French Language Center (FRSL courses 200 level or higher)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>History and Classical Studies (HIST and CLAS) excluding HIST 399</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Inst for Gender, Sex &amp; Fem St (GSFS)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Institute for Study of Canada (CANS, and INDG)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Islamic Studies (AFRI, and ISLA)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Jewish Studies (JWST)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Languages, Literatures, Cultures (GERM, HISP, ITAL, LLCU and RUSS)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Philosophy (PHIL) (excluding PHIL 210 and PHIL 310)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Political Science (POLI) (excluding POLI 311)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Religious Studies (CATH and RELG)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Sociology (SOCI) (excluding SOCI 211, SOCI 330, SOCI 342, SOCI 343 and SOCI 350)</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>OR from the following list:</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>OR from the following:</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Desautels Faculty of Management</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>BUSA 465</td>
+<td>Technological Entrepreneurship.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>INDR 294</td>
+<td>Introduction to Labour-Management Relations.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>INTG 215</td>
+<td>Entrepreneurship Essentials for Non-Management Students.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>MGCR 222</td>
+<td>Introduction to Organizational Behaviour.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>MGCR 352</td>
+<td>Principles of Marketing.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>ORGB 321</td>
+<td>Leadership.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>ORGB 420</td>
+<td>Managing Organizational Teams.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>ORGB 423</td>
+<td>Human Resources Management.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Faculty of Science</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>ENVR 203</td>
+<td>Knowledge, Ethics and Environment.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>ENVR 400</td>
+<td>Environmental Thought.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>MATH 338</td>
+<td>History and Philosophy of Mathematics.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>PSYC 100</td>
+<td>Introduction to Psychology.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>Faculty of Engineering</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>ARCH 528</td>
+<td>History of Housing.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>FACC 220</td>
+<td>Law for Architects and Engineers.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>FACC 500</td>
+<td>Technology Business Plan Design.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td>FACC 501</td>
+<td>Technology Business Plan Project.</td>
+<td>3</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Faculty of Arts</td>
+<td></td>
+<td>* Note: Restriction applies to courses that are reserved for the majors and Honours.</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Elective Course (3 credits)</td>
+<td></td>
+<td>One 3-credit course at the 200-level or higher from any department at McGill, approved by the Undergraduate Programs Office in the Department of Electrical and Computer Engineering.</td>
+<td></td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">McGill University, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>McGill University. (n.d.). <em>Co-op in Software Engineering (B.Eng.)</em>. Retrieved November 11, 2026, from <a href="https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/">https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 19:31:28-05:00">11/11/2026 19:31:28</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

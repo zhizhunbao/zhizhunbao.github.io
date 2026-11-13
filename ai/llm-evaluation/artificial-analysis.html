@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>Artificial Analysis | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="LLM Evaluation: Artificial Analysis, its Intelligence Index and benchmarking methodology; terms defined in this site&#39;s own words (Summary rows).">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="artificial-analysis">Artificial Analysis</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/artificial-analysis.png" alt="Artificial Analysis: its 18 terms, in LLM Evaluation."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Artificial Analysis</strong><br>Artificial Analysis</td>
+<td>(Summary) A company that <strong>benchmarks AI models, API endpoints and systems</strong> on intelligence, quality, performance and price, measuring <strong>the performance customers actually get</strong> across providers rather than the best a piece of hardware can do.</td>
+<td>（概述）一家<strong>为 AI 模型、API 端点和系统做基准测试</strong>的公司，测智能、质量、性能和价格，衡量的是各家服务商那里<strong>客户实际得到的性能</strong>，而不是某种硬件能达到的最好水平。</td>
+<td><a href="https://artificialanalysis.ai/methodology#scope">Artificial Analysis, n.d.-a, &quot;Scope&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Artificial Analysis Intelligence Index</strong><br>Artificial Analysis 智能指数</td>
+<td>(Summary) A <strong>weighted average over a suite of evaluations</strong> (nine in version 5.0.1, the version cached) that <strong>sums up a language model's intelligence</strong> across knowledge work, coding, science and general knowledge, meant for comparing models.</td>
+<td>（概述）对<strong>一组评测取加权平均</strong>（缓存时的 5.0.1 版共九项），<strong>综合概括语言模型的智能水平</strong>，覆盖知识工作、编程、科学与常识，用于比较模型。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#artificial-analysis-intelligence-index">Artificial Analysis, n.d.-b, &quot;Artificial Analysis Intelligence Index&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Intelligence Index Category</strong><br>智能指数类别</td>
+<td>(Summary) One of the <strong>four groups the index is built from</strong>, Knowledge Work, Coding, Science and General, each <strong>weighted 25%</strong>, with its own per-evaluation weights inside.</td>
+<td>（概述）指数所由构成的<strong>四个组</strong>之一：Knowledge Work、Coding、Science、General，每组<strong>权重 25%</strong>，组内各项评测另有权重。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#artificial-analysis-intelligence-index">Artificial Analysis, n.d.-b, &quot;Artificial Analysis Intelligence Index&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Private Evaluation</strong><br>私有评测</td>
+<td>(Summary) An evaluation in the index that is <strong>marked Private</strong> in the suite table, as opposed to one built on a <strong>publicly released dataset</strong>.</td>
+<td>（概述）指数中在评测表里<strong>标为 Private</strong> 的评测，相对于建立在<strong>公开发布的数据集</strong>之上的评测。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#artificial-analysis-intelligence-index">Artificial Analysis, n.d.-b, &quot;Artificial Analysis Intelligence Index&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Additional Evaluations</strong><br>附加评测</td>
+<td>(Summary) Evaluations run <strong>beyond the index suite</strong>, such as multilingual, visual and mathematical ones, which are <strong>reported separately</strong> and do not count toward the index score.</td>
+<td>（概述）在<strong>指数套件之外</strong>运行的评测，如多语言、视觉、数学类，<strong>单独报告</strong>，不计入指数得分。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#additional-evaluations">Artificial Analysis, n.d.-b, &quot;Additional Evaluations&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Artificial Analysis Multilingual Index</strong><br>Artificial Analysis 多语言指数</td>
+<td>(Summary) A separate index of <strong>multilingual ability</strong>, based on <strong>the Global-MMLU-Lite evaluation</strong> in the languages Artificial Analysis supports, Chinese among them.</td>
+<td>（概述）一项单独的<strong>多语言能力</strong>指数，依据 <strong>Global-MMLU-Lite 评测</strong>，覆盖 Artificial Analysis 支持的语言，其中包括中文。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#additional-evaluations">Artificial Analysis, n.d.-b, &quot;Additional Evaluations&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Standardized</strong><br>标准化</td>
+<td>(Summary) An evaluation principle: every model is tested under <strong>identical conditions</strong>, with the same prompting, temperature settings and <strong>evaluation criteria</strong>.</td>
+<td>（概述）一条评测原则：每个模型都在<strong>相同条件</strong>下测试，提示方式、温度设置和<strong>评判标准</strong>都一样。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#intelligence-evaluation-principles">Artificial Analysis, n.d.-b, &quot;Intelligence Evaluation Principles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Unbiased</strong><br>无偏</td>
+<td>(Summary) An evaluation principle: answers that do follow the prompt's instructions are <strong>not unfairly penalized</strong>, through clear prompts and <strong>flexible answer extraction and validation</strong>.</td>
+<td>（概述）一条评测原则：确实遵守了提示指令的回答<strong>不受不公平的扣分</strong>，靠的是清楚的提示和<strong>灵活的答案抽取与校验</strong>。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#intelligence-evaluation-principles">Artificial Analysis, n.d.-b, &quot;Intelligence Evaluation Principles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Zero-Shot Instruction Prompted</strong><br>零样本指令提示</td>
+<td>(Summary) An evaluation principle: models get <strong>clear instructions without examples</strong>, so the test shows whether they <strong>follow directions without few-shot learning</strong>.</td>
+<td>（概述）一条评测原则：给模型<strong>清楚的指令而不给示例</strong>，于是测出的是模型能否<strong>不靠少样本学习就按指示做</strong>。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#intelligence-evaluation-principles">Artificial Analysis, n.d.-b, &quot;Intelligence Evaluation Principles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Transparent</strong><br>透明</td>
+<td>(Summary) An evaluation principle: the <strong>methodology is disclosed</strong>, including prompt templates, evaluation criteria and <strong>known limitations</strong>.</td>
+<td>（概述）一条评测原则：<strong>公开方法</strong>，包括提示模板、评判标准和<strong>已知局限</strong>。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#intelligence-evaluation-principles">Artificial Analysis, n.d.-b, &quot;Intelligence Evaluation Principles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>pass@1</strong><br>pass@1</td>
+<td>(Summary) Scoring in which a model must give <strong>the correct answer on its first attempt</strong>; for evaluations run several times, the result is <strong>averaged over all repeats</strong>.</td>
+<td>（概述）一种计分方式：模型必须<strong>第一次尝试就答对</strong>；对重复运行多次的评测，结果<strong>在所有重复上取平均</strong>。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#general-testing-parameters">Artificial Analysis, n.d.-b, &quot;General Testing Parameters&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Limitations</strong><br>局限</td>
+<td>(Summary) The index is said to <strong>have limitations and not to fit every use case</strong>; it is a <strong>primarily text-based, English-language suite</strong>, with visual reasoning, speech input and multilingual ability measured separately.</td>
+<td>（概述）该指数被说明<strong>有局限、并不适用于每种用例</strong>；它是一套<strong>以文本为主的英语评测</strong>，视觉推理、语音输入和多语言能力另行测量。</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking#artificial-analysis-intelligence-index">Artificial Analysis, n.d.-b, &quot;Artificial Analysis Intelligence Index&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Open Weights</strong><br>开放权重</td>
+<td>(Summary) A model whose <strong>weights its creator has released publicly</strong>; the term is used instead of &quot;open source&quot; because many such licenses <strong>do not meet the full definition</strong> of open-source software.</td>
+<td>（概述）<strong>创建者已公开发布权重</strong>的模型；用这个说法而不说&quot;开源&quot;，是因为许多此类许可<strong>达不到开源软件的完整定义</strong>。</td>
+<td><a href="https://artificialanalysis.ai/methodology#definitions">Artificial Analysis, n.d.-a, &quot;Definitions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Endpoint</strong><br>端点</td>
+<td>(Summary) A <strong>hosted instance of a model</strong> reached through an API; one model may have <strong>several endpoints</strong> at different providers.</td>
+<td>（概述）通过 API 访问的<strong>模型托管实例</strong>；同一个模型可能在不同服务商那里有<strong>多个端点</strong>。</td>
+<td><a href="https://artificialanalysis.ai/methodology#definitions">Artificial Analysis, n.d.-a, &quot;Definitions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Price (Blended)</strong><br>混合价格</td>
+<td>(Summary) A single price for easier comparison, <strong>assuming a 7:2:1 mix</strong> of cache-hit, input and <strong>output tokens</strong>.</td>
+<td>（概述）为便于比较而算出的单一价格，<strong>假定按 7:2:1 混合</strong>缓存命中、输入和<strong>输出令牌</strong>。</td>
+<td><a href="https://artificialanalysis.ai/methodology#definitions">Artificial Analysis, n.d.-a, &quot;Definitions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Cost per Task</strong><br>每任务成本</td>
+<td>(Summary) The <strong>weighted-average cost in US dollars</strong> of one Intelligence Index task; because it follows actual token use, models that <strong>write longer answers or more reasoning</strong> cost more even at the same per-token price.</td>
+<td>（概述）完成一道智能指数任务的<strong>加权平均美元成本</strong>；由于它按实际令牌用量计算，<strong>回答更长或推理更多</strong>的模型即使单价相同也更贵。</td>
+<td><a href="https://artificialanalysis.ai/methodology#definitions">Artificial Analysis, n.d.-a, &quot;Definitions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Time per Task</strong><br>每任务时间</td>
+<td>(Summary) The <strong>estimated weighted-average time</strong> for one Intelligence Index task, derived from <strong>tokens per task and the model's output speed</strong> rather than from timing the evaluation runs.</td>
+<td>（概述）完成一道智能指数任务的<strong>估计加权平均时间</strong>，由<strong>每题令牌数和模型的输出速度</strong>推算，而不是给评测运行计时。</td>
+<td><a href="https://artificialanalysis.ai/methodology#definitions">Artificial Analysis, n.d.-a, &quot;Definitions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Output Speed</strong><br>输出速度</td>
+<td>(Summary) <strong>Output tokens per second</strong>, reasoning tokens included, over <strong>a request's full duration</strong> from sending it to receiving the final token.</td>
+<td>（概述）<strong>每秒输出令牌数</strong>，含推理令牌，按<strong>请求的完整时长</strong>计算，从发出请求到收到最后一个令牌。</td>
+<td><a href="https://artificialanalysis.ai/methodology#definitions">Artificial Analysis, n.d.-a, &quot;Definitions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Time to First Token</strong><br>首令牌时间</td>
+<td>(Summary) The seconds between <strong>sending a request</strong> and <strong>receiving the first token</strong> of the response, which for reasoning models is the first reasoning token.</td>
+<td>（概述）从<strong>发出请求</strong>到<strong>收到响应的第一个令牌</strong>之间的秒数；对推理模型来说是第一个推理令牌。</td>
+<td><a href="https://artificialanalysis.ai/methodology#definitions">Artificial Analysis, n.d.-a, &quot;Definitions&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Artificial Analysis. (n.d.-a). <em>Artificial Analysis benchmarking methodology</em>. Retrieved November 10, 2026, from <a href="https://artificialanalysis.ai/methodology">https://artificialanalysis.ai/methodology</a></p>
+<p>Artificial Analysis. (n.d.-b). <em>Artificial Analysis intelligence benchmarking methodology</em> (Intelligence Index v5.0.1). Retrieved November 10, 2026, from <a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking">https://artificialanalysis.ai/methodology/intelligence-benchmarking</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-10">11/10/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

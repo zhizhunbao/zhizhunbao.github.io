@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6. Platform | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Ultralytics YOLO, 6. Platform: 6.1 Agents, 6.2 Data, 6.3 Train, 6.4 Deploy, 6.5 Explore, 6.6 REST API.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="6-platform">6. Platform</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/platform.png" alt="6. Platform: its 6 entries from the official menu, in menu order and numbered here, each with the entries the menu lists under it, in Ultralytics YOLO."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6 Platform</strong><br>平台</td>
+<td>&quot;Ultralytics Platform is <strong>a comprehensive end-to-end computer vision platform that streamlines the entire ML workflow from data preparation to model deployment</strong>.&quot;</td>
+<td>Ultralytics Platform 是<strong>一个全面的端到端计算机视觉平台，简化从数据准备到模型部署的整个机器学习工作流</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/#ultralytics-platform">Ultralytics, n.d.-g, &quot;Ultralytics Platform&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="agents.html">6.1 Agents</a></strong><br>智能体</td>
+<td>&quot;Agents <strong>connects images, models, conditions, and actions in a visual workflow</strong>.&quot;</td>
+<td>Agents <strong>在一个可视化工作流中把图像、模型、条件和动作连接起来</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/agents/#agents">Ultralytics, n.d.-a, &quot;Agents&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="data.html">6.2 Data</a></strong><br>数据</td>
+<td>(context) &quot;Data preparation is <strong>the foundation of successful computer vision models</strong>.&quot;</td>
+<td>（语境）数据准备是<strong>成功的计算机视觉模型的基础</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/data/#data-preparation">Ultralytics, n.d.-b, &quot;Data Preparation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="train.html">6.3 Train</a></strong><br>训练</td>
+<td>&quot;Ultralytics Platform provides <strong>comprehensive tools for training YOLO models, from organizing experiments to running cloud training jobs with real-time metrics streaming</strong>.&quot;</td>
+<td>Ultralytics Platform 提供<strong>训练 YOLO 模型的全套工具，从组织实验到运行带实时指标流的云端训练任务</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/train/#model-training">Ultralytics, n.d.-e, &quot;Model Training&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="deploy.html">6.4 Deploy</a></strong><br>部署</td>
+<td>&quot;Ultralytics Platform provides <strong>comprehensive model deployment options for putting your YOLO models into production</strong>.&quot;</td>
+<td>Ultralytics Platform 提供<strong>全面的模型部署选项，把 YOLO 模型投入生产</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/deploy/#deployment">Ultralytics, n.d.-c, &quot;Deployment&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="explore.html">6.5 Explore</a></strong><br>探索</td>
+<td>&quot;Ultralytics Platform Explore page <strong>showcases public content from the community</strong>.&quot;</td>
+<td>Ultralytics Platform 的 Explore 页面<strong>展示来自社区的公开内容</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/explore/#explore">Ultralytics, n.d.-d, &quot;Explore&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="rest-api.html">6.6 REST API</a></strong><br>REST API</td>
+<td>&quot;Ultralytics Platform provides <strong>a REST API for programmatic access to datasets, images, projects, models, training, exports, and deployments</strong>.&quot;</td>
+<td>Ultralytics Platform 提供<strong>一个 REST API，供程序访问数据集、图像、项目、模型、训练、导出和部署</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/api/#rest-api-reference">Ultralytics, n.d.-f, &quot;REST API Reference&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Multi-Region Infrastructure</strong><br>多区域基础设施</td>
+<td>(context) &quot;<strong>Your data stays in your region.</strong> Ultralytics Platform operates infrastructure in three global regions:&quot;</td>
+<td>（语境）<strong>你的数据留在你所在的区域。</strong> Ultralytics Platform 在全球三个区域运营基础设施：</td>
+<td><a href="https://docs.ultralytics.com/platform/#multi-region-infrastructure">Ultralytics, n.d.-g, &quot;Multi-Region Infrastructure&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Key Features</strong><br>主要功能</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/platform/#key-features">Ultralytics, n.d.-g, &quot;Key Features&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Data Preparation</strong><br>数据准备</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/platform/#data-preparation">Ultralytics, n.d.-g, &quot;Data Preparation&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Dataset Management</strong><br>数据集管理</td>
+<td>&quot;Dataset Management: <strong>Create datasets from local files, a URL, connected cloud storage, or an on-premise host, with automatic processing</strong>&quot;</td>
+<td>数据集管理：<strong>从本地文件、URL、已连接的云存储或本地部署的主机创建数据集，并自动处理</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#data-preparation">Ultralytics, n.d.-g, &quot;Data Preparation&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Annotation Editor</strong><br>标注编辑器</td>
+<td>&quot;Annotation Editor: <strong>Manual annotation tools for 6 YOLO task types</strong>&quot;</td>
+<td>标注编辑器：<strong>面向 6 种 YOLO 任务类型的手动标注工具</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#data-preparation">Ultralytics, n.d.-g, &quot;Data Preparation&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Skeleton Templates</strong><br>骨架模板</td>
+<td>&quot;Skeleton Templates: <strong>Built-in (Person, Hand, Dog, Face, Box) and custom skeleton templates for one-click pose annotation</strong>&quot;</td>
+<td>骨架模板：<strong>内置（人、手、狗、脸、框）和自定义的骨架模板，用于一键姿态标注</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#data-preparation">Ultralytics, n.d.-g, &quot;Data Preparation&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Smart Annotation</strong><br>智能标注</td>
+<td>&quot;Smart Annotation: <strong>Use SAM 2.1 (Tiny, Small, Base, Large), SAM 3, or SAM 3.1 (default) from the annotation toolbar</strong> for detect, segment, semantic, and OBB tasks&quot;</td>
+<td>智能标注：对检测、分割、语义分割和 OBB 任务，<strong>在标注工具栏中使用 SAM 2.1（Tiny、Small、Base、Large）、SAM 3 或 SAM 3.1（默认）</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#data-preparation">Ultralytics, n.d.-g, &quot;Data Preparation&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Dataset Versioning</strong><br>数据集版本管理</td>
+<td>&quot;Dataset Versioning: <strong>Create numbered NDJSON snapshots with descriptions, then download or restore any version for reproducible training</strong>&quot;</td>
+<td>数据集版本管理：<strong>创建带说明的编号 NDJSON 快照，之后可下载或恢复任一版本，以便可复现地训练</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#data-preparation">Ultralytics, n.d.-g, &quot;Data Preparation&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>Statistics</strong><br>统计</td>
+<td>&quot;Statistics: <strong>Class distribution, split distribution, location heatmaps, and bounding box dimension analysis</strong>&quot;</td>
+<td>统计：<strong>类别分布、划分分布、位置热力图和边界框尺寸分析</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#data-preparation">Ultralytics, n.d.-g, &quot;Data Preparation&quot;, item 6</a></td>
+</tr>
+<tr>
+<td><strong>Model Training</strong><br>模型训练</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/platform/#model-training">Ultralytics, n.d.-g, &quot;Model Training&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Cloud Training</strong><br>云端训练</td>
+<td>&quot;Cloud Training: <strong>Train on cloud GPUs</strong> (24 on all plans, 26 with Pro or Enterprise for B200 and B300) <strong>with real-time metrics and a live cost estimate</strong>&quot;</td>
+<td>云端训练：<strong>在云 GPU 上训练</strong>（所有套餐 24 种，Pro 或 Enterprise 另有 B200 和 B300 共 26 种），<strong>带实时指标和实时成本估算</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#model-training">Ultralytics, n.d.-g, &quot;Model Training&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Remote Training</strong><br>远程训练</td>
+<td>&quot;Remote Training: <strong>Train anywhere and stream metrics to Ultralytics Platform</strong>&quot;</td>
+<td>远程训练：<strong>在任何地方训练，并把指标实时推送到 Ultralytics Platform</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#model-training">Ultralytics, n.d.-g, &quot;Model Training&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Settings</strong><br>高级设置</td>
+<td>&quot;Advanced Settings: <strong>Override any Ultralytics training argument from a built-in YAML editor in the training dialog</strong>&quot;</td>
+<td>高级设置：<strong>在训练对话框内置的 YAML 编辑器中覆盖任何 Ultralytics 训练参数</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#model-training">Ultralytics, n.d.-g, &quot;Model Training&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Project Organization</strong><br>项目组织</td>
+<td>&quot;Project Organization: <strong>Group related models, compare experiments, track activity</strong>&quot;</td>
+<td>项目组织：<strong>把相关模型归组、比较实验、跟踪活动</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#model-training">Ultralytics, n.d.-g, &quot;Model Training&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>22 Export Formats</strong><br>22 种导出格式</td>
+<td>&quot;22 Export Formats: <strong>ONNX, TensorRT, CoreML, LiteRT, Hailo, Ascend, and more</strong>&quot;</td>
+<td>22 种导出格式：<strong>ONNX、TensorRT、CoreML、LiteRT、Hailo、Ascend 等</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#model-training">Ultralytics, n.d.-g, &quot;Model Training&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>Deployment</strong><br>部署</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/platform/#deployment">Ultralytics, n.d.-g, &quot;Deployment&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Inference Testing</strong><br>推理测试</td>
+<td>&quot;Inference Testing: <strong>Test models directly in the browser with your own images, a webcam capture, or the built-in examples</strong>&quot;</td>
+<td>推理测试：<strong>直接在浏览器中用你自己的图像、摄像头抓拍或内置示例测试模型</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#deployment">Ultralytics, n.d.-g, &quot;Deployment&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Dedicated Endpoints</strong><br>专用端点</td>
+<td>&quot;Dedicated Endpoints: <strong>Deploy to 42 global regions with scale-to-zero by default</strong> (single active instance)&quot;</td>
+<td>专用端点：<strong>部署到全球 42 个区域，默认可缩容到零</strong>（单个活动实例）</td>
+<td><a href="https://docs.ultralytics.com/platform/#deployment">Ultralytics, n.d.-g, &quot;Deployment&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Monitoring</strong><br>监控</td>
+<td>&quot;Monitoring: <strong>Real-time metrics, request logs, and performance dashboards</strong>&quot;</td>
+<td>监控：<strong>实时指标、请求日志和性能仪表板</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/#deployment">Ultralytics, n.d.-g, &quot;Deployment&quot;, item 3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Ultralytics. (n.d.-a). <em>Agents</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/agents/">https://docs.ultralytics.com/platform/agents/</a></p>
+<p>Ultralytics. (n.d.-b). <em>Data Preparation</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/data/">https://docs.ultralytics.com/platform/data/</a></p>
+<p>Ultralytics. (n.d.-c). <em>Deployment</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/deploy/">https://docs.ultralytics.com/platform/deploy/</a></p>
+<p>Ultralytics. (n.d.-d). <em>Explore</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/explore/">https://docs.ultralytics.com/platform/explore/</a></p>
+<p>Ultralytics. (n.d.-e). <em>Model Training</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/train/">https://docs.ultralytics.com/platform/train/</a></p>
+<p>Ultralytics. (n.d.-f). <em>REST API Reference</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/api/">https://docs.ultralytics.com/platform/api/</a></p>
+<p>Ultralytics. (n.d.-g). <em>Ultralytics Platform</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/">https://docs.ultralytics.com/platform/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

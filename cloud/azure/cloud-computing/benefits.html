@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.5 Benefits | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 1.5 Benefits: high availability, scalability, reliability, predictability, security, governance, manageability.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="15-benefits">1.5 Benefits</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/benefits.png" alt="Benefits sorted into seven groups: high availability, scalability (vertical scaling, horizontal scaling), reliability, predictability (performance predictability, cost predictability), security, governance and manageability (management of the cloud, management in the cloud)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Benefits</strong><br>优势</td>
+<td>&quot;You learn how cloud computing can help you <strong>meet variable demand</strong> while providing a <strong>good experience</strong> for your customer. You also learn about <strong>security</strong>, <strong>governance</strong>, sustainability, and overall <strong>manageability</strong> in the cloud.&quot;</td>
+<td>你将了解云计算如何帮助你<strong>满足可变需求</strong>，同时为客户提供<strong>良好的体验</strong>。你还将了解云中的<strong>安全性</strong>、<strong>治理</strong>、可持续性和整体<strong>可管理性</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/1-introduction#:%7E:text=You%20learn%20how%20cloud%20computing%20can%20help%20you%20meet%20variable%20demand">Microsoft, n.d.-a, &quot;Introduction&quot; unit, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>High availability</strong><br>高可用性</td>
+<td>&quot;High availability focuses on <strong>ensuring maximum availability</strong>, <strong>regardless of disruptions or events</strong> that may occur.&quot;</td>
+<td>高可用性侧重于<strong>确保最大可用性</strong>，<strong>无论可能发生何种中断或事件</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud#:%7E:text=High%20availability%20focuses%20on%20ensuring%20maximum%20availability">Microsoft, n.d.-b, &quot;High availability&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Scalability</strong><br>可伸缩性</td>
+<td>&quot;Scalability refers to the <strong>ability to adjust resources</strong> to <strong>meet demand</strong>.&quot;</td>
+<td>可伸缩性是指<strong>调整资源的能力</strong>，以<strong>满足需求</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud#:%7E:text=Scalability%20refers%20to%20the%20ability%20to%20adjust%20resources">Microsoft, n.d.-b, &quot;Scalability&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Vertical scaling</strong><br>垂直缩放</td>
+<td>&quot;Vertical scaling is focused on <strong>increasing or decreasing the capabilities</strong> of resources.&quot;</td>
+<td>垂直缩放侧重于<strong>增加或减少资源的能力</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud#:%7E:text=Vertical%20scaling%20is%20focused%20on%20increasing%20or%20decreasing%20the%20capabilities">Microsoft, n.d.-b, &quot;Scalability&quot; section, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Horizontal scaling</strong><br>水平缩放</td>
+<td>&quot;Horizontal scaling is <strong>adding or subtracting the number of resources</strong>.&quot;</td>
+<td>水平缩放是<strong>增加或减少资源的数量</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud#:%7E:text=Horizontal%20scaling%20is%20adding%20or%20subtracting%20the%20number%20of%20resources">Microsoft, n.d.-b, &quot;Scalability&quot; section, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Reliability</strong><br>可靠性</td>
+<td>&quot;Reliability is the ability of a system to <strong>recover from failures</strong> and <strong>continue to function</strong>.&quot;</td>
+<td>可靠性是系统<strong>从故障中恢复</strong>并<strong>继续运行</strong>的能力。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud#:%7E:text=Reliability%20is%20the%20ability%20of%20a%20system%20to%20recover%20from%20failures">Microsoft, n.d.-c, &quot;Reliability&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Predictability</strong><br>可预测性</td>
+<td>&quot;Predictability can be focused on <strong>performance predictability</strong> or <strong>cost predictability</strong>.&quot;</td>
+<td>可预测性可以侧重于<strong>性能可预测性</strong>或<strong>成本可预测性</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud#:%7E:text=Predictability%20can%20be%20focused%20on%20performance%20predictability">Microsoft, n.d.-c, &quot;Predictability&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Performance predictability</strong><br>性能可预测性</td>
+<td>&quot;Performance predictability focuses on <strong>predicting the resources needed</strong> to deliver a <strong>positive experience</strong> for your customers.&quot;</td>
+<td>性能可预测性侧重于<strong>预测所需的资源</strong>，以便为客户提供<strong>良好的体验</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud#:%7E:text=Performance%20predictability%20focuses%20on%20predicting%20the%20resources%20needed">Microsoft, n.d.-c, &quot;Performance&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cost predictability</strong><br>成本可预测性</td>
+<td>&quot;Cost predictability is focused on <strong>predicting or forecasting the cost</strong> of the <strong>cloud spend</strong>.&quot;</td>
+<td>成本可预测性侧重于<strong>预测或预估成本</strong>，对象是<strong>云支出</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud#:%7E:text=Cost%20predictability%20is%20focused%20on%20predicting%20or%20forecasting%20the%20cost">Microsoft, n.d.-c, &quot;Cost&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Security</strong><br>安全性</td>
+<td>(context) &quot;On the <strong>security</strong> side, you can find a cloud solution that <strong>matches your security needs</strong>.&quot;</td>
+<td>（语境）在<strong>安全性</strong>方面，你可以找到<strong>符合你安全需求</strong>的云解决方案。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud#:%7E:text=On%20the%20security%20side%2C%20you%20can%20find%20a%20cloud%20solution">Microsoft, n.d.-d, &quot;Describe the benefits of security and governance in the cloud&quot; unit, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Governance</strong><br>治理</td>
+<td>(context) &quot;Whether you're deploying infrastructure as a service or software as a service, <strong>cloud features support governance and compliance</strong>.&quot;</td>
+<td>（语境）无论你部署的是基础结构即服务还是软件即服务，<strong>云功能都支持治理和合规性</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud#:%7E:text=cloud%20features%20support%20governance%20and%20compliance">Microsoft, n.d.-d, &quot;Describe the benefits of security and governance in the cloud&quot; unit, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Manageability</strong><br>可管理性</td>
+<td>(context) &quot;There are <strong>two types of manageability</strong> for cloud computing, and both are <strong>excellent benefits</strong>.&quot;</td>
+<td>（语境）云计算有<strong>两种类型的可管理性</strong>，两者都是<strong>出色的优势</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud#:%7E:text=There%20are%20two%20types%20of%20manageability%20for%20cloud%20computing">Microsoft, n.d.-e, &quot;Describe the benefits of manageability in the cloud&quot; unit, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Management of the cloud</strong><br>云管理</td>
+<td>&quot;Management of the cloud speaks to <strong>managing your cloud resources</strong>.&quot;</td>
+<td>云管理指的是<strong>管理你的云资源</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud#:%7E:text=Management%20of%20the%20cloud%20speaks%20to%20managing%20your%20cloud%20resources">Microsoft, n.d.-e, &quot;Management of the cloud&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Management in the cloud</strong><br>云中的管理</td>
+<td>&quot;Management in the cloud speaks to <strong>how you're able to manage</strong> your cloud environment and resources.&quot;</td>
+<td>云中的管理指的是<strong>你能够通过什么方式管理</strong>云环境和资源。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud#:%7E:text=Management%20in%20the%20cloud%20speaks%20to%20how%20you">Microsoft, n.d.-e, &quot;Management in the cloud&quot; section, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (n.d.-a). <em>Introduction</em> [Training unit of <em>Describe the benefits of using cloud services</em>]. Microsoft Learn. Retrieved October 26, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/1-introduction">https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/1-introduction</a></li>
+<li>Microsoft. (n.d.-b). <em>Describe the benefits of high availability and scalability in the cloud</em> [Training unit]. Microsoft Learn. Retrieved October 18, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud">https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud</a></li>
+<li>Microsoft. (n.d.-c). <em>Describe the benefits of reliability and predictability in the cloud</em> [Training unit]. Microsoft Learn. Retrieved October 26, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud">https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/3-reliability-predictability-cloud</a></li>
+<li>Microsoft. (n.d.-d). <em>Describe the benefits of security and governance in the cloud</em> [Training unit]. Microsoft Learn. Retrieved October 19, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud">https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/4-security-governance-cloud</a></li>
+<li>Microsoft. (n.d.-e). <em>Describe the benefits of manageability in the cloud</em> [Training unit]. Microsoft Learn. Retrieved October 26, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud">https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/5-manageability-cloud</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 12:58:52-04:00">10/27/2026 12:58:52</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

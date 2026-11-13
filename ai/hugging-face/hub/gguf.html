@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>GGUF | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Hub, GGUF: the GGUF format and its quantization types quoted from the Hub documentation; llama-quantize from the llama.cpp README; the _S, _M and _L quantization mixes from the k-quants pull request (Summary rows).">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="gguf">GGUF</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>GGUF</strong><br>GGUF</td>
+<td>(context) &quot;Hugging Face Hub supports all file formats, but has built-in features for GGUF format, <strong>a binary format</strong> that is optimized for <strong>quick loading and saving of models</strong>, making it highly efficient for inference purposes.&quot;</td>
+<td>（语境）Hugging Face Hub 支持所有文件格式，但为 GGUF 格式提供了内置功能；GGUF 是<strong>一种二进制格式</strong>，针对<strong>模型的快速加载与保存</strong>做了优化，因而用于推理时效率很高。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#gguf">Hugging Face, n.d., &quot;GGUF&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>GGML</strong><br>GGML</td>
+<td>(context) &quot;GGUF is designed for use with <strong>GGML</strong> and <strong>other executors</strong>.&quot;</td>
+<td>（语境）GGUF 是为配合 <strong>GGML</strong> 及<strong>其他执行器</strong>使用而设计的。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#gguf">Hugging Face, n.d., &quot;GGUF&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>llama.cpp</strong><br>llama.cpp</td>
+<td>(context) &quot;GGUF was developed by @ggerganov who is also the developer of <strong>llama.cpp</strong>, <strong>a popular C/C++ LLM inference framework</strong>.&quot;</td>
+<td>（语境）GGUF 由 @ggerganov 开发，他也是 <strong>llama.cpp</strong> 的开发者；llama.cpp 是<strong>一个流行的 C/C++ LLM 推理框架</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#gguf">Hugging Face, n.d., &quot;GGUF&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>GGUF Conversion</strong><br>GGUF 转换</td>
+<td>(context) &quot;Models initially developed in <strong>frameworks like PyTorch</strong> can be <strong>converted to GGUF format</strong> for use with those engines.&quot;</td>
+<td>（语境）最初在 <strong>PyTorch 等框架</strong>中开发的模型，可以<strong>转换为 GGUF 格式</strong>，供这些引擎使用。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#gguf">Hugging Face, n.d., &quot;GGUF&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>GGUF Metadata</strong><br>GGUF 元数据</td>
+<td>(context) &quot;unlike <strong>tensor-only file formats</strong> like safetensors – which is also a recommended model format for the Hub – GGUF encodes both the tensors and <strong>a standardized set of metadata</strong>.&quot;</td>
+<td>（语境）与 safetensors 这类<strong>只存张量的文件格式</strong>不同（safetensors 也是 Hub 推荐的模型格式），GGUF 既编码张量，也编码<strong>一组标准化的元数据</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#gguf">Hugging Face, n.d., &quot;GGUF&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>GGUF Viewer</strong><br>GGUF 查看器</td>
+<td>&quot;The Hub has <strong>a viewer for GGUF files</strong> that lets a user check out <strong>metadata &amp; tensors info</strong> (name, shape, precision).&quot;</td>
+<td>Hub 有一个 <strong>GGUF 文件查看器</strong>，让用户查看<strong>元数据与张量信息</strong>（名称、形状、精度）。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#viewer-for-metadata--tensors-info">Hugging Face, n.d., &quot;Viewer for metadata &amp; tensors info&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>F64</strong><br>F64</td>
+<td>&quot;<strong>64-bit</strong> standard IEEE 754 <strong>double-precision floating-point number</strong>.&quot;</td>
+<td><strong>64 位</strong>标准 IEEE 754 <strong>双精度浮点数</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, F64</a></td>
+</tr>
+<tr>
+<td><strong>I64</strong><br>I64</td>
+<td>&quot;<strong>64-bit</strong> fixed-width <strong>integer number</strong>.&quot;</td>
+<td><strong>64 位</strong>定宽<strong>整数</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, I64</a></td>
+</tr>
+<tr>
+<td><strong>F32</strong><br>F32</td>
+<td>&quot;<strong>32-bit</strong> standard IEEE 754 <strong>single-precision floating-point number</strong>.&quot;</td>
+<td><strong>32 位</strong>标准 IEEE 754 <strong>单精度浮点数</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, F32</a></td>
+</tr>
+<tr>
+<td><strong>I32</strong><br>I32</td>
+<td>&quot;<strong>32-bit</strong> fixed-width <strong>integer number</strong>.&quot;</td>
+<td><strong>32 位</strong>定宽<strong>整数</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, I32</a></td>
+</tr>
+<tr>
+<td><strong>F16</strong><br>F16</td>
+<td>&quot;<strong>16-bit</strong> standard IEEE 754 <strong>half-precision floating-point number</strong>.&quot;</td>
+<td><strong>16 位</strong>标准 IEEE 754 <strong>半精度浮点数</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, F16</a></td>
+</tr>
+<tr>
+<td><strong>BF16</strong><br>BF16</td>
+<td>&quot;<strong>16-bit shortened version</strong> of the <strong>32-bit IEEE 754 single-precision floating-point number</strong>.&quot;</td>
+<td><strong>16 位缩短版</strong>，缩短自 <strong>32 位 IEEE 754 单精度浮点数</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, BF16</a></td>
+</tr>
+<tr>
+<td><strong>I16</strong><br>I16</td>
+<td>&quot;<strong>16-bit</strong> fixed-width <strong>integer number</strong>.&quot;</td>
+<td><strong>16 位</strong>定宽<strong>整数</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, I16</a></td>
+</tr>
+<tr>
+<td><strong>Q8_K</strong><br>Q8_K</td>
+<td>&quot;<strong>8-bit quantization</strong> (<code>q</code>). Each block has 256 weights. <strong>Only used for quantizing intermediate results</strong>. All 2-6 bit dot products are implemented for this quantization type. Weight formula: <code>w = q * block_scale</code>.&quot;</td>
+<td><strong>8 位量化</strong>（<code>q</code>）。每个块有 256 个权重。<strong>只用于量化中间结果</strong>。所有 2 至 6 位的点积都为这种量化类型实现了。权重公式：<code>w = q * block_scale</code>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Q8_K</a></td>
+</tr>
+<tr>
+<td><strong>I8</strong><br>I8</td>
+<td>&quot;<strong>8-bit</strong> fixed-width <strong>integer number</strong>.&quot;</td>
+<td><strong>8 位</strong>定宽<strong>整数</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, I8</a></td>
+</tr>
+<tr>
+<td><strong>Q6_K</strong><br>Q6_K</td>
+<td>&quot;<strong>6-bit quantization</strong> (<code>q</code>). Super-blocks with 16 blocks, each block has 16 weights. Weight formula: <code>w = q * block_scale(8-bit)</code>, resulting in <strong>6.5625 bits-per-weight</strong>.&quot;</td>
+<td><strong>6 位量化</strong>（<code>q</code>）。超级块含 16 个块，每块 16 个权重。权重公式：<code>w = q * block_scale(8-bit)</code>，结果为<strong>每权重 6.5625 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Q6_K</a></td>
+</tr>
+<tr>
+<td><strong>Q5_K</strong><br>Q5_K</td>
+<td>&quot;<strong>5-bit quantization</strong> (<code>q</code>). Super-blocks with 8 blocks, each block has 32 weights. Weight formula: <code>w = q * block_scale(6-bit) + block_min(6-bit)</code>, resulting in <strong>5.5 bits-per-weight</strong>.&quot;</td>
+<td><strong>5 位量化</strong>（<code>q</code>）。超级块含 8 个块，每块 32 个权重。权重公式：<code>w = q * block_scale(6-bit) + block_min(6-bit)</code>，结果为<strong>每权重 5.5 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Q5_K</a></td>
+</tr>
+<tr>
+<td><strong>Q4_K</strong><br>Q4_K</td>
+<td>&quot;<strong>4-bit quantization</strong> (<code>q</code>). Super-blocks with 8 blocks, each block has 32 weights. Weight formula: <code>w = q * block_scale(6-bit) + block_min(6-bit)</code>, resulting in <strong>4.5 bits-per-weight</strong>.&quot;</td>
+<td><strong>4 位量化</strong>（<code>q</code>）。超级块含 8 个块，每块 32 个权重。权重公式：<code>w = q * block_scale(6-bit) + block_min(6-bit)</code>，结果为<strong>每权重 4.5 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Q4_K</a></td>
+</tr>
+<tr>
+<td><strong>Q3_K</strong><br>Q3_K</td>
+<td>&quot;<strong>3-bit quantization</strong> (<code>q</code>). Super-blocks with 16 blocks, each block has 16 weights. Weight formula: <code>w = q * block_scale(6-bit)</code>, resulting in <strong>3.4375 bits-per-weight</strong>.&quot;</td>
+<td><strong>3 位量化</strong>（<code>q</code>）。超级块含 16 个块，每块 16 个权重。权重公式：<code>w = q * block_scale(6-bit)</code>，结果为<strong>每权重 3.4375 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Q3_K</a></td>
+</tr>
+<tr>
+<td><strong>Q2_K</strong><br>Q2_K</td>
+<td>&quot;<strong>2-bit quantization</strong> (<code>q</code>). Super-blocks with 16 blocks, each block has 16 weights. Weight formula: <code>w = q * block_scale(4-bit) + block_min(4-bit)</code>, resulting in <strong>2.625 bits-per-weight</strong>.&quot;</td>
+<td><strong>2 位量化</strong>（<code>q</code>）。超级块含 16 个块，每块 16 个权重。权重公式：<code>w = q * block_scale(4-bit) + block_min(4-bit)</code>，结果为<strong>每权重 2.625 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Q2_K</a></td>
+</tr>
+<tr>
+<td><strong>IQ4_NL</strong><br>IQ4_NL</td>
+<td>&quot;<strong>4-bit quantization</strong> (<code>q</code>). Super-blocks with 256 weights. Weight <code>w</code> is obtained using <code>super_block_scale</code> &amp; <strong>importance matrix</strong>.&quot;</td>
+<td><strong>4 位量化</strong>（<code>q</code>）。超级块含 256 个权重。权重 <code>w</code> 由 <code>super_block_scale</code> 与<strong>重要性矩阵</strong>求得。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, IQ4_NL</a></td>
+</tr>
+<tr>
+<td><strong>IQ4_XS</strong><br>IQ4_XS</td>
+<td>&quot;<strong>4-bit quantization</strong> (<code>q</code>). Super-blocks with 256 weights. Weight <code>w</code> is obtained using <code>super_block_scale</code> &amp; importance matrix, resulting in <strong>4.25 bits-per-weight</strong>.&quot;</td>
+<td><strong>4 位量化</strong>（<code>q</code>）。超级块含 256 个权重。权重 <code>w</code> 由 <code>super_block_scale</code> 与重要性矩阵求得，结果为<strong>每权重 4.25 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, IQ4_XS</a></td>
+</tr>
+<tr>
+<td><strong>IQ3_S</strong><br>IQ3_S</td>
+<td>&quot;<strong>3-bit quantization</strong> (<code>q</code>). Super-blocks with 256 weights. Weight <code>w</code> is obtained using <code>super_block_scale</code> &amp; importance matrix, resulting in <strong>3.44 bits-per-weight</strong>.&quot;</td>
+<td><strong>3 位量化</strong>（<code>q</code>）。超级块含 256 个权重。权重 <code>w</code> 由 <code>super_block_scale</code> 与重要性矩阵求得，结果为<strong>每权重 3.44 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, IQ3_S</a></td>
+</tr>
+<tr>
+<td><strong>IQ3_XXS</strong><br>IQ3_XXS</td>
+<td>&quot;<strong>3-bit quantization</strong> (<code>q</code>). Super-blocks with 256 weights. Weight <code>w</code> is obtained using <code>super_block_scale</code> &amp; importance matrix, resulting in <strong>3.06 bits-per-weight</strong>.&quot;</td>
+<td><strong>3 位量化</strong>（<code>q</code>）。超级块含 256 个权重。权重 <code>w</code> 由 <code>super_block_scale</code> 与重要性矩阵求得，结果为<strong>每权重 3.06 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, IQ3_XXS</a></td>
+</tr>
+<tr>
+<td><strong>IQ2_XXS</strong><br>IQ2_XXS</td>
+<td>&quot;<strong>2-bit quantization</strong> (<code>q</code>). Super-blocks with 256 weights. Weight <code>w</code> is obtained using <code>super_block_scale</code> &amp; importance matrix, resulting in <strong>2.06 bits-per-weight</strong>.&quot;</td>
+<td><strong>2 位量化</strong>（<code>q</code>）。超级块含 256 个权重。权重 <code>w</code> 由 <code>super_block_scale</code> 与重要性矩阵求得，结果为<strong>每权重 2.06 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, IQ2_XXS</a></td>
+</tr>
+<tr>
+<td><strong>IQ2_S</strong><br>IQ2_S</td>
+<td>&quot;<strong>2-bit quantization</strong> (<code>q</code>). Super-blocks with 256 weights. Weight <code>w</code> is obtained using <code>super_block_scale</code> &amp; importance matrix, resulting in <strong>2.5 bits-per-weight</strong>.&quot;</td>
+<td><strong>2 位量化</strong>（<code>q</code>）。超级块含 256 个权重。权重 <code>w</code> 由 <code>super_block_scale</code> 与重要性矩阵求得，结果为<strong>每权重 2.5 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, IQ2_S</a></td>
+</tr>
+<tr>
+<td><strong>IQ2_XS</strong><br>IQ2_XS</td>
+<td>&quot;<strong>2-bit quantization</strong> (<code>q</code>). Super-blocks with 256 weights. Weight <code>w</code> is obtained using <code>super_block_scale</code> &amp; importance matrix, resulting in <strong>2.31 bits-per-weight</strong>.&quot;</td>
+<td><strong>2 位量化</strong>（<code>q</code>）。超级块含 256 个权重。权重 <code>w</code> 由 <code>super_block_scale</code> 与重要性矩阵求得，结果为<strong>每权重 2.31 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, IQ2_XS</a></td>
+</tr>
+<tr>
+<td><strong>IQ1_S</strong><br>IQ1_S</td>
+<td>&quot;<strong>1-bit quantization</strong> (<code>q</code>). Super-blocks with 256 weights. Weight <code>w</code> is obtained using <code>super_block_scale</code> &amp; importance matrix, resulting in <strong>1.56 bits-per-weight</strong>.&quot;</td>
+<td><strong>1 位量化</strong>（<code>q</code>）。超级块含 256 个权重。权重 <code>w</code> 由 <code>super_block_scale</code> 与重要性矩阵求得，结果为<strong>每权重 1.56 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, IQ1_S</a></td>
+</tr>
+<tr>
+<td><strong>IQ1_M</strong><br>IQ1_M</td>
+<td>&quot;<strong>1-bit quantization</strong> (<code>q</code>). Super-blocks with 256 weights. Weight <code>w</code> is obtained using <code>super_block_scale</code> &amp; importance matrix, resulting in <strong>1.75 bits-per-weight</strong>.&quot;</td>
+<td><strong>1 位量化</strong>（<code>q</code>）。超级块含 256 个权重。权重 <code>w</code> 由 <code>super_block_scale</code> 与重要性矩阵求得，结果为<strong>每权重 1.75 位</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, IQ1_M</a></td>
+</tr>
+<tr>
+<td><strong>TQ1_0</strong><br>TQ1_0</td>
+<td>&quot;<strong>Ternary quantization</strong>.&quot;</td>
+<td><strong>三值量化</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, TQ1_0</a></td>
+</tr>
+<tr>
+<td><strong>TQ2_0</strong><br>TQ2_0</td>
+<td>&quot;<strong>Ternary quantization</strong>.&quot;</td>
+<td><strong>三值量化</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, TQ2_0</a></td>
+</tr>
+<tr>
+<td><strong>MXFP4</strong><br>MXFP4</td>
+<td>&quot;<strong>4-bit Microscaling Block Floating Point</strong>.&quot;</td>
+<td><strong>4 位微缩放块浮点</strong>。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, MXFP4</a></td>
+</tr>
+<tr>
+<td><strong>Q8_0</strong><br>Q8_0</td>
+<td>&quot;<strong>8-bit round-to-nearest quantization</strong> (<code>q</code>). Each block has 32 weights. Weight formula: <code>w = q * block_scale</code>. <strong>Legacy quantization method</strong> (not used widely as of today).&quot;</td>
+<td><strong>8 位就近舍入量化</strong>（<code>q</code>）。每个块有 32 个权重。权重公式：<code>w = q * block_scale</code>。<strong>旧式量化方法</strong>（如今已不广泛使用）。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Legacy types, Q8_0</a></td>
+</tr>
+<tr>
+<td><strong>Q8_1</strong><br>Q8_1</td>
+<td>&quot;<strong>8-bit round-to-nearest quantization</strong> (<code>q</code>). Each block has 32 weights. Weight formula: <code>w = q * block_scale + block_minimum</code>. <strong>Legacy quantization method</strong> (not used widely as of today).&quot;</td>
+<td><strong>8 位就近舍入量化</strong>（<code>q</code>）。每个块有 32 个权重。权重公式：<code>w = q * block_scale + block_minimum</code>。<strong>旧式量化方法</strong>（如今已不广泛使用）。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Legacy types, Q8_1</a></td>
+</tr>
+<tr>
+<td><strong>Q5_0</strong><br>Q5_0</td>
+<td>&quot;<strong>5-bit round-to-nearest quantization</strong> (<code>q</code>). Each block has 32 weights. Weight formula: <code>w = q * block_scale</code>. <strong>Legacy quantization method</strong> (not used widely as of today).&quot;</td>
+<td><strong>5 位就近舍入量化</strong>（<code>q</code>）。每个块有 32 个权重。权重公式：<code>w = q * block_scale</code>。<strong>旧式量化方法</strong>（如今已不广泛使用）。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Legacy types, Q5_0</a></td>
+</tr>
+<tr>
+<td><strong>Q5_1</strong><br>Q5_1</td>
+<td>&quot;<strong>5-bit round-to-nearest quantization</strong> (<code>q</code>). Each block has 32 weights. Weight formula: <code>w = q * block_scale + block_minimum</code>. <strong>Legacy quantization method</strong> (not used widely as of today).&quot;</td>
+<td><strong>5 位就近舍入量化</strong>（<code>q</code>）。每个块有 32 个权重。权重公式：<code>w = q * block_scale + block_minimum</code>。<strong>旧式量化方法</strong>（如今已不广泛使用）。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Legacy types, Q5_1</a></td>
+</tr>
+<tr>
+<td><strong>Q4_0</strong><br>Q4_0</td>
+<td>&quot;<strong>4-bit round-to-nearest quantization</strong> (<code>q</code>). Each block has 32 weights. Weight formula: <code>w = q * block_scale</code>. <strong>Legacy quantization method</strong> (not used widely as of today).&quot;</td>
+<td><strong>4 位就近舍入量化</strong>（<code>q</code>）。每个块有 32 个权重。权重公式：<code>w = q * block_scale</code>。<strong>旧式量化方法</strong>（如今已不广泛使用）。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Legacy types, Q4_0</a></td>
+</tr>
+<tr>
+<td><strong>Q4_1</strong><br>Q4_1</td>
+<td>&quot;<strong>4-bit round-to-nearest quantization</strong> (<code>q</code>). Each block has 32 weights. Weight formula: <code>w = q * block_scale + block_minimum</code>. <strong>Legacy quantization method</strong> (not used widely as of today).&quot;</td>
+<td><strong>4 位就近舍入量化</strong>（<code>q</code>）。每个块有 32 个权重。权重公式：<code>w = q * block_scale + block_minimum</code>。<strong>旧式量化方法</strong>（如今已不广泛使用）。</td>
+<td><a href="https://huggingface.co/docs/hub/gguf#quantization-types">Hugging Face, n.d., &quot;Quantization Types&quot;, Legacy types, Q4_1</a></td>
+</tr>
+<tr>
+<td><strong>llama-quantize</strong><br>llama-quantize</td>
+<td>(context) &quot;This tool takes <strong>a GGUF input model file</strong>, typically in a high-precision format like F32 or BF16, and <strong>converts it to a quantized format</strong>.&quot;</td>
+<td>（语境）这个工具接收<strong>一个 GGUF 输入模型文件</strong>（通常是 F32 或 BF16 这类高精度格式），并<strong>把它转换为量化格式</strong>。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/blob/master/tools/quantize/README.md#quantize">ggml-org, n.d., &quot;quantize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Quantization Accuracy Loss</strong><br>量化精度损失</td>
+<td>(context) &quot;This process however, may introduce <strong>some accuracy loss</strong> which is usually measured in <strong>Perplexity (ppl) and/or Kullback–Leibler Divergence (kld)</strong>.&quot;</td>
+<td>（语境）不过，这个过程可能带来<strong>一些精度损失</strong>，通常用<strong>困惑度（ppl）和/或 KL 散度</strong>（kld）来衡量。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/blob/master/tools/quantize/README.md#quantize">ggml-org, n.d., &quot;quantize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Importance Matrix</strong><br>重要性矩阵</td>
+<td>(context) &quot;use <strong>data in file_name</strong> as <strong>importance matrix for quant optimizations</strong>&quot;</td>
+<td>（语境）把 <strong>file_name 中的数据</strong>用作<strong>量化优化的重要性矩阵</strong>。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/blob/master/tools/quantize/README.md#quantize-the-gguf">ggml-org, n.d., &quot;Quantize the GGUF&quot;, option <code>--imatrix</code></a></td>
+</tr>
+<tr>
+<td><strong>K-Quant Mixture</strong><br>k-quant 混合</td>
+<td>(context) &quot;disable <strong>k-quant mixtures</strong> and quantizes <strong>all tensors to the same type</strong>&quot;</td>
+<td>（语境）关闭 <strong>k-quant 混合</strong>，把<strong>所有张量量化成同一类型</strong>。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/blob/master/tools/quantize/README.md#quantize-the-gguf">ggml-org, n.d., &quot;Quantize the GGUF&quot;, option <code>--pure</code></a></td>
+</tr>
+<tr>
+<td><strong>Quantization Mix</strong><br>量化混合方案</td>
+<td>(Summary) A llama.cpp quantization type that <strong>assigns different block types to different tensors</strong> of the model; when k-quants were added (2023), every such type also <strong>kept the output weight tensor at 6 bits</strong>.</td>
+<td>（概述）llama.cpp 的一种量化类型，<strong>给模型的不同张量分配不同的块类型</strong>；k-quants 加入时（2023 年），每种这类类型都<strong>把输出权重张量保持在 6 位</strong>。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/pull/1684">Kawrakow, 2023, &quot;k-quants&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Q3_K_S</strong><br>Q3_K_S</td>
+<td>(Summary) The mix that <strong>uses Q3_K</strong> for <strong>every tensor</strong>, as described when k-quants were added.</td>
+<td>（概述）<strong>用 Q3_K</strong> 处理<strong>所有张量</strong>的混合方案，见 k-quants 加入时的说明。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/pull/1684">Kawrakow, 2023, &quot;k-quants&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Q3_K_M</strong><br>Q3_K_M</td>
+<td>(Summary) The mix that uses <strong>Q4_K for the attention.wv, attention.wo and feed_forward.w2 tensors</strong> and <strong>Q3_K for the rest</strong>, as described when k-quants were added.</td>
+<td>（概述）<strong>attention.wv、attention.wo 和 feed_forward.w2 张量用 Q4_K</strong>、<strong>其余用 Q3_K</strong> 的混合方案，见 k-quants 加入时的说明。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/pull/1684">Kawrakow, 2023, &quot;k-quants&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Q3_K_L</strong><br>Q3_K_L</td>
+<td>(Summary) The mix that uses <strong>Q5_K for the attention.wv, attention.wo and feed_forward.w2 tensors</strong> and <strong>Q3_K for the rest</strong>, as described when k-quants were added.</td>
+<td>（概述）<strong>attention.wv、attention.wo 和 feed_forward.w2 张量用 Q5_K</strong>、<strong>其余用 Q3_K</strong> 的混合方案，见 k-quants 加入时的说明。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/pull/1684">Kawrakow, 2023, &quot;k-quants&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Q4_K_S</strong><br>Q4_K_S</td>
+<td>(Summary) The mix that <strong>uses Q4_K</strong> for <strong>every tensor</strong>, as described when k-quants were added.</td>
+<td>（概述）<strong>用 Q4_K</strong> 处理<strong>所有张量</strong>的混合方案，见 k-quants 加入时的说明。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/pull/1684">Kawrakow, 2023, &quot;k-quants&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Q4_K_M</strong><br>Q4_K_M</td>
+<td>(Summary) The mix that uses <strong>Q6_K for half of the attention.wv and feed_forward.w2 tensors</strong> and <strong>Q4_K for the rest</strong>, as described when k-quants were added.</td>
+<td>（概述）<strong>attention.wv 和 feed_forward.w2 张量中的一半用 Q6_K</strong>、<strong>其余用 Q4_K</strong> 的混合方案，见 k-quants 加入时的说明。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/pull/1684">Kawrakow, 2023, &quot;k-quants&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Q5_K_S</strong><br>Q5_K_S</td>
+<td>(Summary) The mix that <strong>uses Q5_K</strong> for <strong>every tensor</strong>, as described when k-quants were added.</td>
+<td>（概述）<strong>用 Q5_K</strong> 处理<strong>所有张量</strong>的混合方案，见 k-quants 加入时的说明。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/pull/1684">Kawrakow, 2023, &quot;k-quants&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Q5_K_M</strong><br>Q5_K_M</td>
+<td>(Summary) The mix that uses <strong>Q6_K for half of the attention.wv and feed_forward.w2 tensors</strong> and <strong>Q5_K for the rest</strong>, as described when k-quants were added.</td>
+<td>（概述）<strong>attention.wv 和 feed_forward.w2 张量中的一半用 Q6_K</strong>、<strong>其余用 Q5_K</strong> 的混合方案，见 k-quants 加入时的说明。</td>
+<td><a href="https://github.com/ggml-org/llama.cpp/pull/1684">Kawrakow, 2023, &quot;k-quants&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>ggml-org. (n.d.). quantize [README]. In <em>llama.cpp</em>. GitHub. Retrieved November 10, 2026, from <a href="https://github.com/ggml-org/llama.cpp/blob/master/tools/quantize/README.md">https://github.com/ggml-org/llama.cpp/blob/master/tools/quantize/README.md</a></p>
+<p>Hugging Face. (n.d.). GGUF. In <em>Hugging Face Hub documentation</em>. Retrieved November 10, 2026, from <a href="https://huggingface.co/docs/hub/gguf">https://huggingface.co/docs/hub/gguf</a></p>
+<p>Kawrakow, I. (2023, June 5). <em>k-quants</em> (Pull Request No. 1684) [Merged pull request]. In <em>llama.cpp</em>. GitHub. <a href="https://github.com/ggml-org/llama.cpp/pull/1684">https://github.com/ggml-org/llama.cpp/pull/1684</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-10 20:22:20-05:00">11/10/2026 20:22:20</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

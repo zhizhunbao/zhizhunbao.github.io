@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>3.12 SAM 3 (Segment Anything Model 3) | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Ultralytics YOLO, 3.12 SAM 3 (Segment Anything Model 3): Promptable Concept Segmentation (PCS), SAM 3.1, Architecture, SA-Co Dataset, Evaluation Metrics, SAM 3 Agent: Extended Language Reasoning.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="312-sam-3-segment-anything-model-3">3.12 SAM 3 (Segment Anything Model 3)</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/sam-3-segment-anything-model-3.png" alt="3.12 SAM 3 (Segment Anything Model 3): its parts from the official menu, each with the entries the menu lists under it, in Ultralytics YOLO."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>3.12 SAM 3 (Segment Anything Model 3)</strong><br>SAM 3（分割一切模型 3）</td>
+<td>&quot;SAM 3 (Segment Anything Model 3) is <strong>Meta's released foundation model for Promptable Concept Segmentation (PCS)</strong>.&quot;</td>
+<td>SAM 3（分割一切模型 3）是 <strong>Meta 发布的、用于可提示概念分割（PCS）的基础模型</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#sam-3-segment-anything-with-concepts">Ultralytics, n.d., &quot;SAM 3: Segment Anything with Concepts&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Promptable Concept Segmentation (PCS)</strong><br>可提示概念分割（PCS）</td>
+<td>&quot;The PCS task <strong>takes a concept prompt as input and returns segmentation masks with unique identities for all matching object instances</strong>.&quot;</td>
+<td>PCS 任务<strong>以概念提示为输入，为所有匹配的物体实例返回带有唯一身份的分割掩码</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#what-is-promptable-concept-segmentation-pcs">Ultralytics, n.d., &quot;What is Promptable Concept Segmentation (PCS)?&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Text</strong><br>文本</td>
+<td>&quot;Text: <strong>Simple noun phrases like &quot;red apple&quot; or &quot;person wearing a hat&quot;</strong>, similar to zero-shot learning&quot;</td>
+<td>文本指<strong>简单的名词短语，例如“red apple”或“person wearing a hat”</strong>，类似于零样本学习</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#what-is-promptable-concept-segmentation-pcs">Ultralytics, n.d., &quot;What is Promptable Concept Segmentation (PCS)?&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Image exemplars</strong><br>图像示例</td>
+<td>&quot;Image exemplars: <strong>Bounding boxes around example objects (positive or negative)</strong> for fast generalization&quot;</td>
+<td>图像示例指<strong>围住示例物体（正例或负例）的边界框</strong>，用于快速泛化</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#what-is-promptable-concept-segmentation-pcs">Ultralytics, n.d., &quot;What is Promptable Concept Segmentation (PCS)?&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Combined</strong><br>组合</td>
+<td>&quot;Combined: <strong>Both text and image exemplars together</strong> for precise control&quot;</td>
+<td>组合指<strong>文本和图像示例一起使用</strong>，以实现精确控制</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#what-is-promptable-concept-segmentation-pcs">Ultralytics, n.d., &quot;What is Promptable Concept Segmentation (PCS)?&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>SAM 3.1</strong><br>SAM 3.1</td>
+<td>&quot;SAM 3.1, released by Meta on March 27, 2026, is <strong>a new SAM 3 checkpoint that adds Object Multiplex, a shared-memory approach to multi-object video tracking</strong>.&quot;</td>
+<td>SAM 3.1 由 Meta 于 2026 年 3 月 27 日发布，是<strong>一个新的 SAM 3 检查点，它加入了 Object Multiplex，一种用于多目标视频跟踪的共享内存方法</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#sam-31">Ultralytics, n.d., &quot;SAM 3.1&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Object Multiplex</strong><br>Object Multiplex（对象多路复用）</td>
+<td>&quot;Instead of processing every tracked object independently, SAM 3.1 <strong>groups objects into fixed-capacity buckets and processes them jointly</strong>&quot;</td>
+<td>SAM 3.1 不再独立处理每个被跟踪的物体，而是<strong>把物体分组放入固定容量的桶中并联合处理</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#sam-31">Ultralytics, n.d., &quot;SAM 3.1&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Architecture</strong><br>架构</td>
+<td>&quot;SAM 3 consists of <strong>a detector and tracker that share a Perception Encoder (PE) vision backbone</strong>.&quot;</td>
+<td>SAM 3 由<strong>共用一个感知编码器（PE）视觉骨干网络的检测器和跟踪器</strong>组成。</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#architecture">Ultralytics, n.d., &quot;Architecture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Core Components</strong><br>核心组件</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#core-components">Ultralytics, n.d., &quot;Core Components&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Detector</strong><br>检测器</td>
+<td>&quot;Detector: <strong>DETR-based architecture for image-level concept detection</strong>&quot;</td>
+<td>检测器是<strong>用于图像级概念检测的基于 DETR 的架构</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#core-components">Ultralytics, n.d., &quot;Core Components&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Tracker</strong><br>跟踪器</td>
+<td>&quot;Tracker: <strong>Memory-based video segmentation inherited from SAM 2</strong>&quot;</td>
+<td>跟踪器是<strong>继承自 SAM 2 的基于记忆的视频分割</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#core-components">Ultralytics, n.d., &quot;Core Components&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Presence Token</strong><br>存在标记</td>
+<td>&quot;Presence Token: <strong>A learned global token that predicts whether the target concept is present in the image/frame</strong>, improving detection by separating recognition from localization.&quot;</td>
+<td>存在标记是<strong>一个学习得到的全局标记，用来预测目标概念是否出现在图像或帧中</strong>，通过把识别与定位分开来改进检测。</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#core-components">Ultralytics, n.d., &quot;Core Components&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Key Innovations</strong><br>关键创新</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#key-innovations">Ultralytics, n.d., &quot;Key Innovations&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Decoupled Recognition and Localization</strong><br>识别与定位解耦</td>
+<td>&quot;Decoupled Recognition and Localization: <strong>The presence head predicts concept presence globally, while proposal queries focus only on localization</strong>, avoiding conflicting objectives.&quot;</td>
+<td>识别与定位解耦指<strong>存在头在全局预测概念是否存在，而提议查询只专注于定位</strong>，避免目标相互冲突。</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#key-innovations">Ultralytics, n.d., &quot;Key Innovations&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Unified Concept and Visual Prompts</strong><br>统一的概念提示与视觉提示</td>
+<td>&quot;Unified Concept and Visual Prompts: <strong>Supports both PCS (concept prompts) and PVS (visual prompts like SAM 2's clicks/boxes) in a single model.</strong>&quot;</td>
+<td>统一的概念提示与视觉提示指<strong>在单个模型中同时支持 PCS（概念提示）和 PVS（像 SAM 2 的点击或框那样的视觉提示）。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#key-innovations">Ultralytics, n.d., &quot;Key Innovations&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Interactive Exemplar Refinement</strong><br>交互式示例细化</td>
+<td>&quot;Interactive Exemplar Refinement: <strong>Users can add positive or negative image exemplars to iteratively refine results</strong>&quot;</td>
+<td>交互式示例细化指<strong>用户可以添加正例或负例图像示例来迭代地细化结果</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#key-innovations">Ultralytics, n.d., &quot;Key Innovations&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Temporal Disambiguation</strong><br>时间消歧</td>
+<td>&quot;Temporal Disambiguation: <strong>Uses masklet detection scores and periodic re-prompting to handle occlusions, crowded scenes, and tracking failures in video</strong>&quot;</td>
+<td>时间消歧指<strong>使用掩码片段检测分数和周期性重新提示来处理视频中的遮挡、拥挤场景和跟踪失败</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#key-innovations">Ultralytics, n.d., &quot;Key Innovations&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>SA-Co Dataset</strong><br>SA-Co 数据集</td>
+<td>&quot;SAM 3 is trained on Segment Anything with Concepts (SA-Co), <strong>Meta's largest and most diverse segmentation dataset to date</strong>&quot;</td>
+<td>SAM 3 在 Segment Anything with Concepts（SA-Co）上训练，它是 <strong>Meta 迄今规模最大、最多样的分割数据集</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#sa-co-dataset">Ultralytics, n.d., &quot;SA-Co Dataset&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Training Data</strong><br>训练数据</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#training-data">Ultralytics, n.d., &quot;Training Data&quot;</a></td>
+</tr>
+<tr>
+<td><strong>SA-Co/HQ</strong><br>SA-Co/HQ</td>
+<td>&quot;<strong>High-quality human-annotated image data from 4-phase data engine</strong>&quot;</td>
+<td><strong>来自四阶段数据引擎的高质量人工标注图像数据</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#training-data">Ultralytics, n.d., &quot;Training Data&quot;, table, row 1</a></td>
+</tr>
+<tr>
+<td><strong>SA-Co/SYN</strong><br>SA-Co/SYN</td>
+<td>&quot;<strong>Synthetic dataset labeled by AI without human involvement</strong>&quot;</td>
+<td><strong>由 AI 在无人参与的情况下标注的合成数据集</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#training-data">Ultralytics, n.d., &quot;Training Data&quot;, table, row 2</a></td>
+</tr>
+<tr>
+<td><strong>SA-Co/EXT</strong><br>SA-Co/EXT</td>
+<td>&quot;<strong>15 external datasets enriched with hard negatives</strong>&quot;</td>
+<td><strong>15 个用困难负例充实过的外部数据集</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#training-data">Ultralytics, n.d., &quot;Training Data&quot;, table, row 3</a></td>
+</tr>
+<tr>
+<td><strong>SA-Co/VIDEO</strong><br>SA-Co/VIDEO</td>
+<td>&quot;<strong>Video annotations with temporal tracking</strong>&quot;</td>
+<td><strong>带有时间跟踪的视频标注</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#training-data">Ultralytics, n.d., &quot;Training Data&quot;, table, row 4</a></td>
+</tr>
+<tr>
+<td><strong>Benchmark Data</strong><br>基准数据</td>
+<td>(context) &quot;The SA-Co evaluation benchmark contains <strong>214K unique phrases across 126K images and videos</strong>&quot;</td>
+<td>（语境）SA-Co 评估基准包含<strong>分布在 12.6 万张图像和视频中的 21.4 万个不同短语</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#benchmark-data">Ultralytics, n.d., &quot;Benchmark Data&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SA-Co/Gold</strong><br>SA-Co/Gold</td>
+<td>&quot;SA-Co/Gold: <strong>7 domains, triple-annotated for measuring human performance bounds</strong>&quot;</td>
+<td>SA-Co/Gold：<strong>7 个领域，三重标注，用于衡量人类表现的界限</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#benchmark-data">Ultralytics, n.d., &quot;Benchmark Data&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>SA-Co/Silver</strong><br>SA-Co/Silver</td>
+<td>&quot;SA-Co/Silver: <strong>10 domains, single human annotation</strong>&quot;</td>
+<td>SA-Co/Silver：<strong>10 个领域，单次人工标注</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#benchmark-data">Ultralytics, n.d., &quot;Benchmark Data&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>SA-Co/Bronze and SA-Co/Bio</strong><br>SA-Co/Bronze 与 SA-Co/Bio</td>
+<td>&quot;SA-Co/Bronze and SA-Co/Bio: <strong>9 existing datasets adapted for concept segmentation</strong>&quot;</td>
+<td>SA-Co/Bronze 与 SA-Co/Bio：<strong>9 个为概念分割改编的现有数据集</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#benchmark-data">Ultralytics, n.d., &quot;Benchmark Data&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>SA-Co/VEval</strong><br>SA-Co/VEval</td>
+<td>&quot;SA-Co/VEval: <strong>Video benchmark with 3 domains (SA-V, YT-Temporal-1B, SmartGlasses)</strong>&quot;</td>
+<td>SA-Co/VEval 是<strong>包含 3 个领域（SA-V、YT-Temporal-1B、SmartGlasses）的视频基准</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#benchmark-data">Ultralytics, n.d., &quot;Benchmark Data&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Data Engine Innovations</strong><br>数据引擎创新</td>
+<td>(context) &quot;SAM 3's scalable human- and model-in-the-loop data engine achieves <strong>2× annotation throughput</strong> through:&quot;</td>
+<td>（语境）SAM 3 的可扩展、人与模型共同参与的数据引擎通过以下方式实现了 <strong>2 倍的标注吞吐量</strong>：</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#data-engine-innovations">Ultralytics, n.d., &quot;Data Engine Innovations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AI Annotators</strong><br>AI 标注器</td>
+<td>&quot;AI Annotators: <strong>Llama based models propose diverse noun phrases including hard negatives</strong>&quot;</td>
+<td>AI 标注器指<strong>基于 Llama 的模型提出多样的名词短语，包括困难负例</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#data-engine-innovations">Ultralytics, n.d., &quot;Data Engine Innovations&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>AI Verifiers</strong><br>AI 校验器</td>
+<td>&quot;AI Verifiers: <strong>Fine-tuned multimodal LLMs verify mask quality and exhaustivity at near-human performance</strong>&quot;</td>
+<td>AI 校验器指<strong>微调过的多模态大语言模型以接近人类的水平校验掩码质量和完备性</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#data-engine-innovations">Ultralytics, n.d., &quot;Data Engine Innovations&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Active Mining</strong><br>主动挖掘</td>
+<td>&quot;Active Mining: <strong>Focuses human effort on challenging failure cases where AI struggles</strong>&quot;</td>
+<td>主动挖掘指<strong>把人工精力集中在 AI 难以处理的困难失败案例上</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#data-engine-innovations">Ultralytics, n.d., &quot;Data Engine Innovations&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Ontology-Driven</strong><br>本体驱动</td>
+<td>&quot;Ontology-Driven: <strong>Leverages a large ontology grounded in Wikidata for concept coverage</strong>&quot;</td>
+<td>本体驱动指<strong>利用一个以 Wikidata 为基础的大型本体来覆盖概念</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#data-engine-innovations">Ultralytics, n.d., &quot;Data Engine Innovations&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Evaluation Metrics</strong><br>评估指标</td>
+<td>(context) &quot;SAM 3 introduces <strong>new metrics designed for the PCS task</strong>, complementing familiar measures like F1 score, precision, and recall.&quot;</td>
+<td>（语境）SAM 3 引入了<strong>为 PCS 任务设计的新指标</strong>，作为 F1 分数、精确率和召回率等常见度量的补充。</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#evaluation-metrics">Ultralytics, n.d., &quot;Evaluation Metrics&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Classification-Gated F1 (CGF1)</strong><br>分类门控 F1（CGF1）</td>
+<td>&quot;<strong>The primary metric combining localization and classification</strong>:&quot;</td>
+<td><strong>结合定位与分类的主要指标</strong>：</td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#classification-gated-f1-cgf1">Ultralytics, n.d., &quot;Classification-Gated F1 (CGF1)&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>pmF1</strong><br>pmF1（正样本宏平均 F1）</td>
+<td>&quot;pmF1 (Positive Macro F1): <strong>Measures localization quality on positive examples</strong>&quot;</td>
+<td>pmF1（正样本宏平均 F1）用于<strong>衡量正样本上的定位质量</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#classification-gated-f1-cgf1">Ultralytics, n.d., &quot;Classification-Gated F1 (CGF1)&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>IL_MCC</strong><br>IL_MCC（图像级马修斯相关系数）</td>
+<td>&quot;IL_MCC (Image-Level Matthews Correlation Coefficient): <strong>Measures binary classification accuracy</strong>&quot;</td>
+<td>IL_MCC（图像级马修斯相关系数）用于<strong>衡量二分类准确率</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#classification-gated-f1-cgf1">Ultralytics, n.d., &quot;Classification-Gated F1 (CGF1)&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>SAM 3 Agent: Extended Language Reasoning</strong><br>SAM 3 Agent：扩展的语言推理</td>
+<td>&quot;SAM 3 can be combined with Multimodal Large Language Models (MLLMs) <strong>to handle complex queries requiring reasoning</strong>&quot;</td>
+<td>SAM 3 可以与多模态大语言模型（MLLM）结合，用来<strong>处理需要推理的复杂查询</strong></td>
+<td><a href="https://docs.ultralytics.com/models/sam-3/#sam-3-agent-extended-language-reasoning">Ultralytics, n.d., &quot;SAM 3 Agent: Extended Language Reasoning&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Ultralytics. (n.d.). <em>SAM 3: Segment Anything with Concepts</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/sam-3/">https://docs.ultralytics.com/models/sam-3/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

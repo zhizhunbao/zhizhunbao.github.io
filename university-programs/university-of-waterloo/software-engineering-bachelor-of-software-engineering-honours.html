@@ -1,0 +1,3348 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.163 Software Engineering (Bachelor of Software Engineering - Honours) | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="University Programs &gt; University of Waterloo &gt; Software Engineering (Bachelor of Software Engineering - Honours): the courses of the program as the academic calendar lists them; definitions pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="4163-software-engineering-bachelor-of-software-engineering---honours">4.163 Software Engineering (Bachelor of Software Engineering - Honours)</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Software Engineering (Bachelor of Software Engineering - Honours)</strong><br>软件工程（软件工程学士 - 荣誉）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Programming Principles</strong><br>编程原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Chemistry for Engineers</strong><br>工程师化学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Linear Algebra for Engineering</strong><br>工程线性代数</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Calculus 1 for Engineering</strong><br>工程微积分 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Algebra for Honours Mathematics</strong><br>荣誉数学代数</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Methods of Software Engineering</strong><br>软件工程方法导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Data Abstraction and Implementation</strong><br>数据抽象与实现导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Digital Circuits and Systems</strong><br>数字电路与系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Linear Circuits</strong><br>线性电路</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Engineering Economics and Impact on Society</strong><br>工程经济学及其社会影响</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Calculus 2 for Engineering</strong><br>工程微积分 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Seminar</strong><br>研讨课</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Foundations of Sequential Programs</strong><br>顺序程序基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Digital Computers</strong><br>数字计算机</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Logic and Computation</strong><br>逻辑与计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Statistics for Software Engineering</strong><br>软件工程统计学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Classical Mechanics</strong><br>经典力学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mechanics</strong><br>力学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Data Structures and Data Management</strong><br>数据结构与数据管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Engineering Principles</strong><br>软件工程原则</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Database Management</strong><br>数据库管理导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Combinatorics</strong><br>组合数学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Algorithms</strong><br>算法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Signals, Systems, and Differential Equations</strong><br>信号、系统与微分方程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Operating Systems</strong><br>操作系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Design and Architectures</strong><br>软件设计与架构</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Testing and Quality Assurance</strong><br>软件测试与质量保证</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Concurrent and Parallel Programming</strong><br>并发与并行编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Networks</strong><br>计算机网络</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Feedback Control</strong><br>反馈控制导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Project Management, Requirements, and Analysis</strong><br>软件项目管理、需求与分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>User Interfaces</strong><br>用户界面</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Human-Computer Interaction</strong><br>人机交互</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Interdisciplinary Design Project 1</strong><br>跨学科设计项目 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Design Project 1</strong><br>设计项目 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Interdisciplinary Design Project 2</strong><br>跨学科设计项目 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Design Project 2</strong><br>设计项目 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Interpersonal Communication</strong><br>人际沟通</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Public Speaking</strong><br>公共演讲</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Oral Communications for Academic Purposes</strong><br>学术口语交流</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Clear Communication in English Writing</strong><br>英语写作清晰表达</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Written Academic English</strong><br>学术书面英语</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Academic Writing</strong><br>学术写作导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Communications in Mathematics and Computer Science</strong><br>数学与计算机科学中的沟通</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Academic Writing</strong><br>高级学术写作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Genres of Technical Communication</strong><br>技术传播的文体</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computational Modelling of Cellular Systems</strong><br>细胞系统计算建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Biodiversity, Biomes, and Evolution</strong><br>生物多样性、生物群系与进化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Cell Biology</strong><br>细胞生物学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cell Biology Laboratory</strong><br>细胞生物学实验</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Organismal and Evolutionary Ecology</strong><br>生物体与进化生态学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Diversity of Life</strong><br>生命的多样性</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Vertebrate Zoology</strong><br>脊椎动物学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Plant Structure and Function</strong><br>植物结构与功能导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Genetics</strong><br>遗传学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Fundamentals of Microbiology</strong><br>微生物学基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Microbiology Laboratory</strong><br>微生物学实验</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Applied Microbiology</strong><br>应用微生物学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principles of Human Physiology 1</strong><br>人体生理学原理 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Biophysics</strong><br>生物物理学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Methods in Bioinformatics</strong><br>生物信息学方法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principles of Human Physiology 2</strong><br>人体生理学原理 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Human Physiology Laboratory</strong><br>人体生理学实验</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cellular Neurophysiology</strong><br>细胞神经生理学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Genomics</strong><br>基因组学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Systems Neuroscience: From Neurons to Behaviour</strong><br>系统神经科学：从神经元到行为</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Arctic Ecology</strong><br>北极生态学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Engineering Biology</strong><br>工程生物学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>General Chemistry 2</strong><br>普通化学 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>General Chemistry Laboratory 2</strong><br>普通化学实验 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Spectroscopy and Structure</strong><br>光谱学与结构入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Biochemistry</strong><br>生物化学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Biochemistry Laboratory</strong><br>生物化学入门实验</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Chemical Thermodynamics</strong><br>化学热力学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Organic Chemistry for Engineering</strong><br>工程有机化学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Organic Chemistry Laboratory for Engineering Students</strong><br>工程专业学生有机化学实验</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Basic Organic Chemistry 1</strong><br>基础有机化学 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Quantum Mechanics</strong><br>量子力学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computational Techniques in Biological Sequence Analysis</strong><br>生物序列分析计算技术</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Earth Sciences</strong><br>地球科学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Environmental Sciences</strong><br>环境科学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Hydrology</strong><br>水文学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Geochemistry</strong><br>地球化学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Disasters and Natural Hazards</strong><br>灾害与自然灾害</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Geological Impacts on Human Health</strong><br>地质对人类健康的影响</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electricity and Magnetism</strong><br>电与磁</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Semiconductor Physics and Devices</strong><br>半导体物理与器件</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Quantum Mechanics</strong><br>量子力学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Thermal Physics</strong><br>热物理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Geometrical and Physical Optics</strong><br>几何光学与物理光学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Aquatic Chemistry</strong><br>水化学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Field Ecology</strong><br>野外生态学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Organic Chemistry for Nanotechnology Engineers</strong><br>纳米技术工程师有机化学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to the Universe</strong><br>宇宙导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Quantum Physics 1</strong><br>量子物理 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Classical Mechanics and Special Relativity</strong><br>经典力学与狭义相对论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Planets</strong><br>行星</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Quantum Physics 2</strong><br>量子物理 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Stars</strong><br>恒星</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Molecular and Cellular Biophysics</strong><br>分子与细胞生物物理学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Physics of Quantum Computing</strong><br>量子计算物理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cognitive Processes</strong><br>认知过程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Physiological Psychology</strong><br>生理心理学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Perception</strong><br>知觉</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Human Neuropsychology</strong><br>人类神经心理学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Energy - Its Development, Use, and Issues</strong><br>能源：发展、利用与问题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Physical Science of Climate Change</strong><br>气候变化的物理科学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Astronomy</strong><br>天文学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environmental Geology</strong><br>环境地质学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Computational Mathematics</strong><br>计算数学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Neural Networks</strong><br>神经网络</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to the Theory of Computing</strong><br>计算理论导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Models of Computation</strong><br>计算模型</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Numerical Computation</strong><br>数值计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principles of Programming Languages</strong><br>程序设计语言原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Compiler Construction</strong><br>编译器构造</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Database Systems Implementation</strong><br>数据库系统实现</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Architecture</strong><br>计算机体系结构</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Data-Intensive Distributed Computing</strong><br>数据密集型分布式计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Real-Time Programming</strong><br>实时编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software and Systems Security</strong><br>软件与系统安全</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Distributed Systems</strong><br>分布式系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>System Performance Evaluation</strong><br>系统性能评估</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Privacy, Cryptography, Network and Data Security</strong><br>隐私、密码学、网络与数据安全</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Formal Languages and Parsing</strong><br>形式语言与语法分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Algorithm Design and Analysis</strong><br>算法设计与分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Machine Learning</strong><br>机器学习导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computational Vision</strong><br>计算视觉</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Statistical and Computational Foundations of Machine Learning</strong><br>机器学习的统计与计算基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Artificial Intelligence</strong><br>人工智能导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Symbolic Computation</strong><br>符号计算导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Computer Graphics</strong><br>计算机图形学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Topics in Computer Science</strong><br>计算机科学高级专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Digital Signal Processing</strong><br>数字信号处理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Digital Hardware Systems</strong><br>数字硬件系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electronic Circuits 2</strong><br>电子电路 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Quantum Information Processing Devices</strong><br>量子信息处理器件</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Fundamentals of Experimental Quantum Information</strong><br>实验量子信息基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Programming of Quantum Computing Algorithms</strong><br>量子计算算法编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Superconducting Quantum Circuits</strong><br>超导量子电路</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cryptography and System Security</strong><br>密码学与系统安全</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Topics in Networking</strong><br>网络技术高级专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Image Processing</strong><br>图像处理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Embedded Computer Systems</strong><br>嵌入式计算机系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Distributed Computing</strong><br>分布式计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Embedded Software</strong><br>嵌入式软件</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Artificial and Natural Intelligence</strong><br>人工智能与自然智能</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Machine Learning</strong><br>机器学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Reinforcement Learning</strong><br>强化学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Security</strong><br>计算机安全</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Programming for Performance</strong><br>面向性能的编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Digital Control Systems</strong><br>数字控制系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Robot Dynamics and Control</strong><br>机器人动力学与控制</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Multivariable Control Systems</strong><br>多变量控制系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Special Topics in Electrical and Computer Engineering</strong><br>电气与计算机工程专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Autonomous Vehicles</strong><br>自动驾驶车辆</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computational Neuroscience</strong><br>计算神经科学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Coding Theory</strong><br>编码理论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Graph Theory</strong><br>图论导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Network Flow Theory</strong><br>网络流理论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computational Discrete Optimization</strong><br>计算离散优化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Nonlinear Optimization</strong><br>非线性优化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Game Theory</strong><br>博弈论导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Quantum Information Processing</strong><br>量子信息处理导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>The Mathematics of Public-Key Cryptography</strong><br>公钥密码学的数学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Cryptography</strong><br>应用密码学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Analytics and User Experience</strong><br>分析与用户体验</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Autonomous Mobile Robots</strong><br>自主移动机器人</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Multi-Sensor Data Fusion</strong><br>多传感器数据融合</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Topics in Software Engineering</strong><br>软件工程高级专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computational Inference</strong><br>计算推断</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Statistical Learning - Classification</strong><br>统计学习：分类</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Data Visualization</strong><br>数据可视化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Statistical Learning - Advanced Regression</strong><br>统计学习：高级回归</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Conflict Resolution</strong><br>冲突解决</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cognitive Ergonomics</strong><br>认知工效学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>User Centred Design Methods</strong><br>以用户为中心的设计方法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Simulating Neurobiological Systems</strong><br>神经生物系统模拟</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Environment and Business</strong><br>环境与商业导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principles of Marketing for Sustainability Professionals</strong><br>可持续性专业人员的市场营销原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Literature for an Ailing Planet</strong><br>病痛星球的文学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environmental Sustainability and Ethics</strong><br>环境可持续性与伦理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sustainability: The Future We Want</strong><br>可持续性：我们想要的未来</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Ecological Economics</strong><br>生态经济学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environmental and Sustainability Assessment 1</strong><br>环境与可持续性评估 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Gendering Environmental Politics</strong><br>环境政治的性别化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Communities and Sustainability</strong><br>社区与可持续性</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Sustainable Agroecosystems</strong><br>可持续农业生态系统导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Spirituality, Religion, and Ecology</strong><br>灵性、宗教与生态</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Peace and the Environment</strong><br>和平与环境</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Urban Water and Wastewater Systems: Integrated Planning and Management</strong><br>城市供水与污水系统：综合规划与管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Economics and Sustainability</strong><br>经济学与可持续性</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environmental Politics and System Change</strong><br>环境政治与系统变革</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Food Systems and Sustainability</strong><br>食物系统与可持续性</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>First Nations and the Environment</strong><br>第一民族与环境</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Global Environmental Governance</strong><br>全球环境治理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Climate Change Fundamentals</strong><br>气候变化基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Global Environment and Health</strong><br>全球环境与健康</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environment and Development in a Global Perspective</strong><br>全球视角下的环境与发展</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environmental Ethics</strong><br>环境伦理学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Environmental Planning in Rural and Regional Systems</strong><br>乡村与区域系统中的环境规划</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sustainability in Design</strong><br>设计中的可持续性</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Type</th>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Credits</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1A Term</td>
+<td>Complete all the following:</td>
+<td>CS137</td>
+<td>Programming Principles</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1A Term</td>
+<td>Complete all the following:</td>
+<td>CHE102</td>
+<td>Chemistry for Engineers</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1A Term</td>
+<td>Complete all the following:</td>
+<td>MATH115</td>
+<td>Linear Algebra for Engineering</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1A Term</td>
+<td>Complete all the following:</td>
+<td>MATH117</td>
+<td>Calculus 1 for Engineering</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1A Term</td>
+<td>Complete all the following:</td>
+<td>MATH135</td>
+<td>Algebra for Honours Mathematics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1A Term</td>
+<td>Complete all the following:</td>
+<td>SE101</td>
+<td>Introduction to Methods of Software Engineering</td>
+<td>0.25</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1B Term</td>
+<td>Complete all the following:</td>
+<td>CS138</td>
+<td>Introduction to Data Abstraction and Implementation</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1B Term</td>
+<td>Complete all the following:</td>
+<td>ECE124</td>
+<td>Digital Circuits and Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1B Term</td>
+<td>Complete all the following:</td>
+<td>ECE140</td>
+<td>Linear Circuits</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1B Term</td>
+<td>Complete all the following:</td>
+<td>ECE192</td>
+<td>Engineering Economics and Impact on Society</td>
+<td>0.25</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1B Term</td>
+<td>Complete all the following:</td>
+<td>MATH119</td>
+<td>Calculus 2 for Engineering</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1B Term</td>
+<td>Complete all the following:</td>
+<td>SE102</td>
+<td>Seminar</td>
+<td>0.00</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>1B Term</td>
+<td></td>
+<td></td>
+<td>Complete 1 approved elective</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2A Term</td>
+<td>Complete all the following:</td>
+<td>CS241</td>
+<td>Foundations of Sequential Programs</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2A Term</td>
+<td>Complete all the following:</td>
+<td>ECE222</td>
+<td>Digital Computers</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2A Term</td>
+<td>Complete all the following:</td>
+<td>SE201</td>
+<td>Seminar</td>
+<td>0.00</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2A Term</td>
+<td>Complete all the following:</td>
+<td>SE212</td>
+<td>Logic and Computation</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2A Term</td>
+<td>Complete all the following:</td>
+<td>STAT206</td>
+<td>Statistics for Software Engineering</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2A Term</td>
+<td>Complete 1 of the following:</td>
+<td>ECE105</td>
+<td>Classical Mechanics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2A Term</td>
+<td>Complete 1 of the following:</td>
+<td>PHYS115</td>
+<td>Mechanics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2A Term</td>
+<td>Complete 1 of the following:</td>
+<td>PHYS121</td>
+<td>Mechanics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2B Term</td>
+<td>Complete all the following:</td>
+<td>CS240</td>
+<td>Data Structures and Data Management</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2B Term</td>
+<td>Complete all the following:</td>
+<td>CS247</td>
+<td>Software Engineering Principles</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2B Term</td>
+<td>Complete all the following:</td>
+<td>CS348</td>
+<td>Introduction to Database Management</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2B Term</td>
+<td>Complete all the following:</td>
+<td>MATH239</td>
+<td>Introduction to Combinatorics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2B Term</td>
+<td>Complete all the following:</td>
+<td>SE202</td>
+<td>Seminar</td>
+<td>0.00</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>2B Term</td>
+<td></td>
+<td></td>
+<td>Complete 1 approved elective</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3A Term</td>
+<td>Complete all the following:</td>
+<td>CS341</td>
+<td>Algorithms</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3A Term</td>
+<td>Complete all the following:</td>
+<td>MATH213</td>
+<td>Signals, Systems, and Differential Equations</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3A Term</td>
+<td>Complete all the following:</td>
+<td>SE301</td>
+<td>Seminar</td>
+<td>0.00</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3A Term</td>
+<td>Complete all the following:</td>
+<td>SE350</td>
+<td>Operating Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3A Term</td>
+<td>Complete all the following:</td>
+<td>SE464</td>
+<td>Software Design and Architectures</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3A Term</td>
+<td>Complete all the following:</td>
+<td>SE465</td>
+<td>Software Testing and Quality Assurance</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3A Term</td>
+<td></td>
+<td></td>
+<td>Complete 1 approved elective</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3B Term</td>
+<td>Complete all the following:</td>
+<td>CS343</td>
+<td>Concurrent and Parallel Programming</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3B Term</td>
+<td>Complete all the following:</td>
+<td>ECE358</td>
+<td>Computer Networks</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3B Term</td>
+<td>Complete all the following:</td>
+<td>SE302</td>
+<td>Seminar</td>
+<td>0.00</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3B Term</td>
+<td>Complete all the following:</td>
+<td>SE380</td>
+<td>Introduction to Feedback Control</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3B Term</td>
+<td>Complete all the following:</td>
+<td>SE463</td>
+<td>Software Project Management, Requirements, and Analysis</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3B Term</td>
+<td>Complete 1 of the following:</td>
+<td>CS349</td>
+<td>User Interfaces</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3B Term</td>
+<td>Complete 1 of the following:</td>
+<td>CS449</td>
+<td>Human-Computer Interaction</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3B Term</td>
+<td>Complete 1 of the following:</td>
+<td>MSE343</td>
+<td>Human-Computer Interaction</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>3B Term</td>
+<td></td>
+<td></td>
+<td>Complete 1 approved elective</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>4A Term</td>
+<td>Complete all the following:</td>
+<td>SE401</td>
+<td>Seminar</td>
+<td>0.00</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>4A Term</td>
+<td>Complete 1 of the following:</td>
+<td>GENE403</td>
+<td>Interdisciplinary Design Project 1</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>4A Term</td>
+<td>Complete 1 of the following:</td>
+<td>SE490</td>
+<td>Design Project 1</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>4A Term</td>
+<td></td>
+<td></td>
+<td>Complete 4 approved electives</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>4B Term</td>
+<td>Complete all the following:</td>
+<td>SE402</td>
+<td>Seminar</td>
+<td>0.00</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>4B Term</td>
+<td>Complete 1 of the following:</td>
+<td>GENE404</td>
+<td>Interdisciplinary Design Project 2</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>4B Term</td>
+<td>Complete 1 of the following:</td>
+<td>SE491</td>
+<td>Design Project 2</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td>4B Term</td>
+<td></td>
+<td></td>
+<td>Complete 4 approved electives</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>COMMST100</td>
+<td>Interpersonal Communication</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>COMMST223</td>
+<td>Public Speaking</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>EMLS101</td>
+<td>Oral Communications for Academic Purposes</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>EMLS102</td>
+<td>Clear Communication in English Writing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>EMLS129</td>
+<td>Written Academic English</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>ENGL109</td>
+<td>Introduction to Academic Writing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>ENGL119</td>
+<td>Communications in Mathematics and Computer Science</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>ENGL129</td>
+<td>Written Academic English</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>ENGL209</td>
+<td>Advanced Academic Writing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Undergraduate Communication Requirement | Complete 1 of the following:</td>
+<td>ENGL210E</td>
+<td>Genres of Technical Communication</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List</td>
+<td></td>
+<td>Complete a total of 3 lecture courses (see Additional Constraints).</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>AMATH382</td>
+<td>Computational Modelling of Cellular Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL110</td>
+<td>Biodiversity, Biomes, and Evolution</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL130</td>
+<td>Introductory Cell Biology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL130L</td>
+<td>Cell Biology Laboratory</td>
+<td>0.25</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL150</td>
+<td>Organismal and Evolutionary Ecology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL165</td>
+<td>Diversity of Life</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL211</td>
+<td>Introductory Vertebrate Zoology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL220</td>
+<td>Introduction to Plant Structure and Function</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL239</td>
+<td>Genetics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL240</td>
+<td>Fundamentals of Microbiology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL240L</td>
+<td>Microbiology Laboratory</td>
+<td>0.25</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL241</td>
+<td>Introduction to Applied Microbiology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL273</td>
+<td>Principles of Human Physiology 1</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL280</td>
+<td>Introduction to Biophysics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL365</td>
+<td>Methods in Bioinformatics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL373</td>
+<td>Principles of Human Physiology 2</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL373L</td>
+<td>Human Physiology Laboratory</td>
+<td>0.25</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL376</td>
+<td>Cellular Neurophysiology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL382</td>
+<td>Computational Modelling of Cellular Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL469</td>
+<td>Genomics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL476</td>
+<td>Systems Neuroscience: From Neurons to Behaviour</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>BIOL489</td>
+<td>Arctic Ecology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHE161</td>
+<td>Engineering Biology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM123</td>
+<td>General Chemistry 2</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM123L</td>
+<td>General Chemistry Laboratory 2</td>
+<td>0.25</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM209</td>
+<td>Introductory Spectroscopy and Structure</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM237</td>
+<td>Introductory Biochemistry</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM237L</td>
+<td>Introductory Biochemistry Laboratory</td>
+<td>0.25</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM254</td>
+<td>Introductory Chemical Thermodynamics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM262</td>
+<td>Organic Chemistry for Engineering</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM262L</td>
+<td>Organic Chemistry Laboratory for Engineering Students</td>
+<td>0.25</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM266</td>
+<td>Basic Organic Chemistry 1</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CHEM356</td>
+<td>Introductory Quantum Mechanics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>CS482</td>
+<td>Computational Techniques in Biological Sequence Analysis</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>EARTH121</td>
+<td>Introductory Earth Sciences</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>EARTH122</td>
+<td>Introductory Environmental Sciences</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>EARTH123</td>
+<td>Introductory Hydrology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>EARTH221</td>
+<td>Introductory Geochemistry</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>EARTH270</td>
+<td>Disasters and Natural Hazards</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>EARTH281</td>
+<td>Geological Impacts on Human Health</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>ECE106</td>
+<td>Electricity and Magnetism</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>ECE231</td>
+<td>Semiconductor Physics and Devices</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>ECE305</td>
+<td>Introduction to Quantum Mechanics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>ECE403</td>
+<td>Thermal Physics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>ECE404</td>
+<td>Geometrical and Physical Optics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>ENVE275</td>
+<td>Aquatic Chemistry</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>ENVS200</td>
+<td>Field Ecology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>NE222</td>
+<td>Organic Chemistry for Nanotechnology Engineers</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS122</td>
+<td>Electricity and Magnetism</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS175</td>
+<td>Introduction to the Universe</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS233</td>
+<td>Introduction to Quantum Mechanics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS234</td>
+<td>Quantum Physics 1</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS263</td>
+<td>Classical Mechanics and Special Relativity</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS275</td>
+<td>Planets</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS280</td>
+<td>Introduction to Biophysics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS334</td>
+<td>Quantum Physics 2</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS375</td>
+<td>Stars</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS380</td>
+<td>Molecular and Cellular Biophysics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PHYS468</td>
+<td>Physics of Quantum Computing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PSYCH207</td>
+<td>Cognitive Processes</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PSYCH261</td>
+<td>Physiological Psychology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PSYCH306</td>
+<td>Perception</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>PSYCH307</td>
+<td>Human Neuropsychology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>SCI200</td>
+<td>Energy - Its Development, Use, and Issues</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>EARTH305</td>
+<td>Physical Science of Climate Change</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>SCI238</td>
+<td>Introductory Astronomy</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Natural Science List | Choose any of the following:</td>
+<td>SCI250</td>
+<td>Environmental Geology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List</td>
+<td></td>
+<td>Complete a minimum of 4 Technical Electives.</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>AMATH242</td>
+<td>Introduction to Computational Mathematics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>AMATH449</td>
+<td>Neural Networks</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS360</td>
+<td>Introduction to the Theory of Computing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS365</td>
+<td>Models of Computation</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS370</td>
+<td>Numerical Computation</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS371</td>
+<td>Introduction to Computational Mathematics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS442</td>
+<td>Principles of Programming Languages</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS444</td>
+<td>Compiler Construction</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS448</td>
+<td>Database Systems Implementation</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS450</td>
+<td>Computer Architecture</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS451</td>
+<td>Data-Intensive Distributed Computing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS452</td>
+<td>Real-Time Programming</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS453</td>
+<td>Software and Systems Security</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS454</td>
+<td>Distributed Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS457</td>
+<td>System Performance Evaluation</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS459</td>
+<td>Privacy, Cryptography, Network and Data Security</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS462</td>
+<td>Formal Languages and Parsing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS466</td>
+<td>Algorithm Design and Analysis</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS479</td>
+<td>Neural Networks</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS480</td>
+<td>Introduction to Machine Learning</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS484</td>
+<td>Computational Vision</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS485</td>
+<td>Statistical and Computational Foundations of Machine Learning</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS486</td>
+<td>Introduction to Artificial Intelligence</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS487</td>
+<td>Introduction to Symbolic Computation</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS488</td>
+<td>Introduction to Computer Graphics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 1 | Complete 1 of the following:</td>
+<td>CS489</td>
+<td>Advanced Topics in Computer Science</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE313</td>
+<td>Digital Signal Processing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE320</td>
+<td>Computer Architecture</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE327</td>
+<td>Digital Hardware Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE340</td>
+<td>Electronic Circuits 2</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE405A</td>
+<td>Quantum Information Processing Devices</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE405B</td>
+<td>Fundamentals of Experimental Quantum Information</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE405C</td>
+<td>Programming of Quantum Computing Algorithms</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE405D</td>
+<td>Superconducting Quantum Circuits</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE409</td>
+<td>Cryptography and System Security</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE416</td>
+<td>Advanced Topics in Networking</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE417</td>
+<td>Image Processing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE423</td>
+<td>Embedded Computer Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE454</td>
+<td>Distributed Computing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE455</td>
+<td>Embedded Software</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE457A</td>
+<td>Artificial and Natural Intelligence</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE457B</td>
+<td>Machine Learning</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE457C</td>
+<td>Reinforcement Learning</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE458</td>
+<td>Computer Security</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE459</td>
+<td>Programming for Performance</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE481</td>
+<td>Digital Control Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE486</td>
+<td>Robot Dynamics and Control</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE488</td>
+<td>Multivariable Control Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE493</td>
+<td>Special Topics in Electrical and Computer Engineering</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 2 | Complete 1 of the following:</td>
+<td>ECE495</td>
+<td>Autonomous Vehicles</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3</td>
+<td></td>
+<td>Complete 2 additional course from List 1, List 2, or List 3.</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>BIOL487</td>
+<td>Computational Neuroscience</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CO331</td>
+<td>Coding Theory</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CO342</td>
+<td>Introduction to Graph Theory</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CO351</td>
+<td>Network Flow Theory</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CO353</td>
+<td>Computational Discrete Optimization</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CO367</td>
+<td>Nonlinear Optimization</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CO456</td>
+<td>Introduction to Game Theory</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CO481</td>
+<td>Introduction to Quantum Information Processing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CO485</td>
+<td>The Mathematics of Public-Key Cryptography</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CO487</td>
+<td>Applied Cryptography</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>CS467</td>
+<td>Introduction to Quantum Information Processing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>MSE343</td>
+<td>Human-Computer Interaction</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>MSE446</td>
+<td>Introduction to Machine Learning</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>MSE543</td>
+<td>Analytics and User Experience</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>MTE544</td>
+<td>Autonomous Mobile Robots</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>MTE546</td>
+<td>Multi-Sensor Data Fusion</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>PHYS467</td>
+<td>Introduction to Quantum Information Processing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>SE498</td>
+<td>Advanced Topics in Software Engineering</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>STAT440</td>
+<td>Computational Inference</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>STAT441</td>
+<td>Statistical Learning - Classification</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>STAT442</td>
+<td>Data Visualization</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>STAT444</td>
+<td>Statistical Learning - Advanced Regression</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>SYDE533</td>
+<td>Conflict Resolution</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>SYDE543</td>
+<td>Cognitive Ergonomics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>SYDE548</td>
+<td>User Centred Design Methods</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>SYDE552</td>
+<td>Computational Neuroscience</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>SYDE556</td>
+<td>Simulating Neurobiological Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Technical Electives List | List 3 | Choose any of the following:</td>
+<td>SYDE575</td>
+<td>Image Processing</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements</td>
+<td></td>
+<td>Complete 1 sustainability-related course, from the following list. This course may also be counted towards another elective requirement (e.g., Natural Science elective, Complementary Studies elective) if part of that list.</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>BIOL489</td>
+<td>Arctic Ecology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>EARTH270</td>
+<td>Disasters and Natural Hazards</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>EARTH305</td>
+<td>Physical Science of Climate Change</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ENBUS102</td>
+<td>Introduction to Environment and Business</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ENBUS211</td>
+<td>Principles of Marketing for Sustainability Professionals</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ENGL248</td>
+<td>Literature for an Ailing Planet</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ENVS105</td>
+<td>Environmental Sustainability and Ethics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ENVS200</td>
+<td>Field Ecology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ENVS205</td>
+<td>Sustainability: The Future We Want</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ENVS220</td>
+<td>Ecological Economics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS215</td>
+<td>Environmental and Sustainability Assessment 1</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS225</td>
+<td>Gendering Environmental Politics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS253</td>
+<td>Communities and Sustainability</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS270</td>
+<td>Introduction to Sustainable Agroecosystems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS294</td>
+<td>Spirituality, Religion, and Ecology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS310</td>
+<td>Peace and the Environment</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS316</td>
+<td>Urban Water and Wastewater Systems: Integrated Planning and Management</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS320</td>
+<td>Economics and Sustainability</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS328</td>
+<td>Environmental Politics and System Change</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS361</td>
+<td>Food Systems and Sustainability</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS372</td>
+<td>First Nations and the Environment</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>ERS404</td>
+<td>Global Environmental Governance</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>GEOG207</td>
+<td>Climate Change Fundamentals</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>GEOG225</td>
+<td>Global Environment and Health</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>GEOG326</td>
+<td>Environment and Development in a Global Perspective</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>GEOG361</td>
+<td>Food Systems and Sustainability</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>PACS310</td>
+<td>Peace and the Environment</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>PHIL224</td>
+<td>Environmental Ethics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>PLAN451</td>
+<td>Environmental Planning in Rural and Regional Systems</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>PSCI432</td>
+<td>Global Environmental Governance</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>RCS285</td>
+<td>Spirituality, Religion, and Ecology</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>SCI200</td>
+<td>Energy - Its Development, Use, and Issues</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>SCI205</td>
+<td>Climate Change Fundamentals</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Course Lists | Additional Requirements | Complete 1 of the following:</td>
+<td>THPERF374</td>
+<td>Sustainability in Design</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">University of Waterloo, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>University of Waterloo. (n.d.). <em>Software Engineering (Bachelor of Software Engineering - Honours)</em>. Retrieved November 11, 2026, from <a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3">https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 19:31:28-05:00">11/11/2026 19:31:28</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

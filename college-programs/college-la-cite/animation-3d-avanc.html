@@ -1,0 +1,1387 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>15.13 Animation 3D – avanc&#233; | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="College Programs &gt; Coll&#232;ge La Cit&#233; &gt; Animation 3D – avanc&#233;: the courses of the program; skeleton, definition pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1513-animation-3d--avancé">15.13 Animation 3D – avancé</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Animation 3D – avancé</strong><br>3D动画：高级</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Formes simples en perspective</strong><br>透视中的简单形体</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Objets en perspective</strong><br>透视中的物体</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Harmonisation de la couleur entre éléments visuels</strong><br>视觉元素间的色彩协调</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Création de formes 3D simples</strong><br>简单3D形体创建</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Création de formes 3D complexes</strong><br>复杂3D形体创建</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Création d'objets 3D simples</strong><br>简单3D物体创建</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Initiation aux matériaux</strong><br>材料入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Initiation aux textures</strong><br>纹理入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projet 1 - Animation 3D</strong><br>项目 1 - 3D动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Scénarimage 3D d'une séquence animée</strong><br>动画序列3D分镜</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Accueil et intégration en animation 3D</strong><br>3D动画入门与融入</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Création d'images en utilisant le langage cinématographique</strong><br>运用电影语言创作图像</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principes d'animation d'objet 3D</strong><br>3D对象动画原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principes d'animation d'objet 2D</strong><br>2D对象动画原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principes d'animation</strong><br>动画原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Initiation à l'éclairage</strong><br>照明入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Exécution d'un projet d'équipe - Préproduction 3D</strong><br>团队项目执行 - 3D前期制作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Stratégies de communication en milieu professionnel</strong><br>职场沟通策略</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Communication orale en milieu professionnel</strong><br>职业口头沟通</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Communication écrite en milieu professionnel</strong><br>职场书面沟通</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projet 2 - Animation 3D</strong><br>项目 2 - 3D动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projet 3 - Animation 3D</strong><br>项目 3 - 3D动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Exécution d'un projet d'équipe - Production 3D</strong><br>团队项目执行 - 3D制作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Dessin d'anatomie et éléments de personnages stylisés</strong><br>解剖绘画与风格化角色元素</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Dessin d'anatomie et éléments de personnages réalistes</strong><br>解剖绘画与写实角色元素</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Texture stylisée d'objets simples pour le film d'animation</strong><br>动画电影的简单物体风格化纹理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Animation de sauts</strong><br>跳跃动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Modélisation d'objets simples pour le film d'animation</strong><br>动画电影简单物体建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Dessin d'éléments de layouts réalistes</strong><br>写实布局元素绘制</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Animation de forces et mouvements</strong><br>力与运动动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Animation d'un cycle de marche</strong><br>行走循环动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sculpture d'objets simples pour le film d'animation</strong><br>动画电影简单物件雕刻</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Modélisation d'éléments de personnages pour le film d'animation</strong><br>动画电影角色元素建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Dessin d'éléments de layouts stylisés</strong><br>风格化布局元素绘制</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Texture stylisée de personnages pour le film d'animation</strong><br>动画电影的角色风格化纹理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sculpture de personnages pour le film d'animation</strong><br>动画电影角色雕刻</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Analyse de styles de personnages et de layouts</strong><br>角色风格与布局分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction à la sculpture et texturation 3D</strong><br>3D雕刻与纹理导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projet 4 - Animation 3D</strong><br>项目 4 - 3D动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projet 5 - Animation 3D</strong><br>项目 5 - 3D动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Autonomisation lors d'un projet d'équipe - Préproduction 3D</strong><br>团队项目赋能 - 3D前期制作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Citoyenneté canadienne</strong><br>加拿大公民身份</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Santé, environnement et prévention des infections</strong><br>健康、环境与感染预防</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>De l'identité à la culture</strong><br>从身份认同到文化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Vive l'espagnol</strong><br>西班牙语万岁</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Réalités autochtones contemporaines</strong><br>当代原住民现实</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>La perception en psychologie</strong><br>心理学中的感知</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Découvrir l'éthique appliquée : comment décider ?</strong><br>探索应用伦理：如何决策？</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Le bonheur : nourrir, équilibrer et renforcer votre qualité de vie</strong><br>幸福：滋养、平衡并提升您的生活品质</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>La compassion</strong><br>同理心</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>La résilience</strong><br>心理韧性</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Équité, diversité, inclusivité</strong><br>公平、多元与包容</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Exploration des métiers</strong><br>行业探索</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Foundations of English</strong><br>英语基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Oral Communication: Beginner Level</strong><br>口语交际：初级</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Oral Communication: Intermediate Level</strong><br>口语交际：中级</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Modélisation d'objets pour le jeu vidéo</strong><br>电子游戏物体建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sculpture d'objets pour le jeu vidéo</strong><br>电子游戏物件雕刻</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sculpture d'objets pour le film d'effets spéciaux</strong><br>特效电影物件雕刻</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Modélisation d'objets pour le film d'effets spéciaux</strong><br>特效电影物体建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Texture stylisée d'objets pour le jeu vidéo</strong><br>电子游戏的风格化物体纹理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Texture réaliste d'objets pour le film d'effets spéciaux</strong><br>特效电影的逼真物体纹理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Texture réaliste de personnages pour le film d'effets spéciaux</strong><br>特效电影的逼真角色纹理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Texture stylisée de personnages pour le jeu vidéo</strong><br>电子游戏的风格化角色纹理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Animation (jeu d'acteur) pour le film d'animation</strong><br>动画（表演）：动画电影</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Modélisation d'éléments de personnages pour le film d'effets spéciaux</strong><br>特效电影角色元素建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Modélisation d'éléments de personnages pour le jeu vidéo</strong><br>电子游戏角色元素建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sculpture de personnages pour le jeu vidéo</strong><br>电子游戏角色雕刻</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Animation (jeu d'acteur) pour le jeu vidéo</strong><br>动画（表演）：电子游戏</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Animation (jeu d'acteur) pour le film d'effets spéciaux</strong><br>动画（表演）：特效电影</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sculpture de personnages pour le film d'effets spéciaux</strong><br>特效电影角色雕刻</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Intro au rig</strong><br>钻机入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Journal d'entretien professionnel</strong><br>职业面谈日志</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Éclairage et rendu d'objets 3D</strong><br>3D 对象的照明与渲染</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Portfolio professionnel</strong><br>专业作品集</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Portfolio et marché de l'emploi</strong><br>作品集与就业市场</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projet 7 - Animation 3D</strong><br>项目 7 - 3D动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projet 8 - Animation 3D</strong><br>项目 8 - 3D动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Éclairage et rendu de layouts</strong><br>布局的照明与渲染</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Éclairage et rendu de personnages</strong><br>角色的照明与渲染</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projet 6 - Animation 3D</strong><br>项目 6 - 3D动画</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Production d'équipe en 3D</strong><br>3D团队制作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Written Communication: Beginner Level</strong><br>书面沟通：初级</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Written Communication: Intermediate Level</strong><br>书面沟通：中级</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projet d'animation 3D avancé</strong><br>高级3D动画项目</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Planification d'un projet d'équipe - Préproduction 3D</strong><br>团队项目规划 - 3D前期制作 3</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Tendances technologiques et conférences</strong><br>技术趋势与会议</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Master class</strong><br>大师课</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projets d'animation 3D avancé</strong><br>高级3D动画项目</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Gestion d'un projet d'équipe - Production 3D</strong><br>团队项目管理 - 3D制作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Tutoriels et veille technologique</strong><br>教程与技术监测</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Type</th>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024357 ART</td>
+<td>Formes simples en perspective</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024374 ART</td>
+<td>Objets en perspective</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024384 ART</td>
+<td>Harmonisation de la couleur entre éléments visuels</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024377 ART</td>
+<td>Création de formes 3D simples</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024372 ART</td>
+<td>Création de formes 3D complexes</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024386 ART</td>
+<td>Création d'objets 3D simples</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024390 ART</td>
+<td>Initiation aux matériaux</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024379 ART</td>
+<td>Initiation aux textures</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>027204 ART</td>
+<td>Projet 1 - Animation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024376 ART</td>
+<td>Scénarimage 3D d'une séquence animée</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>030363 ART</td>
+<td>Accueil et intégration en animation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024383 ART</td>
+<td>Création d'images en utilisant le langage cinématographique</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024389 ART</td>
+<td>Principes d'animation d'objet 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024369 ART</td>
+<td>Principes d'animation d'objet 2D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024385 ART</td>
+<td>Principes d'animation</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>024393 ART</td>
+<td>Initiation à l'éclairage</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>cours obligatoires</td>
+<td>031349 ART</td>
+<td>Exécution d'un projet d'équipe - Préproduction 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>un cours de français</td>
+<td>032309 FRA</td>
+<td>Stratégies de communication en milieu professionnel</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>un cours de français</td>
+<td>032313 FRA</td>
+<td>Communication orale en milieu professionnel</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 1</td>
+<td>un cours de français</td>
+<td>032317 FRA</td>
+<td>Communication écrite en milieu professionnel</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>cours obligatoires</td>
+<td>027205 ART</td>
+<td>Projet 2 - Animation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>cours obligatoires</td>
+<td>027206 ART</td>
+<td>Projet 3 - Animation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>cours obligatoires</td>
+<td>031350 ART</td>
+<td>Exécution d'un projet d'équipe - Production 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>un cours de français</td>
+<td>032313 FRA</td>
+<td>Communication orale en milieu professionnel</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>un cours de français</td>
+<td>032317 FRA</td>
+<td>Communication écrite en milieu professionnel</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024382 ART</td>
+<td>Dessin d'anatomie et éléments de personnages stylisés</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024388 ART</td>
+<td>Dessin d'anatomie et éléments de personnages réalistes</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024421 ART</td>
+<td>Texture stylisée d'objets simples pour le film d'animation</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024430 ART</td>
+<td>Animation de sauts</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024439 ART</td>
+<td>Modélisation d'objets simples pour le film d'animation</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024442 ART</td>
+<td>Dessin d'éléments de layouts réalistes</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024460 ART</td>
+<td>Animation de forces et mouvements</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024464 ART</td>
+<td>Animation d'un cycle de marche</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024469 ART</td>
+<td>Sculpture d'objets simples pour le film d'animation</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024492 ART</td>
+<td>Modélisation d'éléments de personnages pour le film d'animation</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024471 MDI</td>
+<td>Dessin d'éléments de layouts stylisés</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024507 ART</td>
+<td>Texture stylisée de personnages pour le film d'animation</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>024517 ART</td>
+<td>Sculpture de personnages pour le film d'animation</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>031353 ART</td>
+<td>Analyse de styles de personnages et de layouts</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 2</td>
+<td>12 cours aux choix</td>
+<td>031348 ART</td>
+<td>Introduction à la sculpture et texturation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours obligatoires</td>
+<td>027207 ART</td>
+<td>Projet 4 - Animation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours obligatoires</td>
+<td>027208 ART</td>
+<td>Projet 5 - Animation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours obligatoires</td>
+<td>031351 ART</td>
+<td>Autonomisation lors d'un projet d'équipe - Préproduction 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>025626 FGE</td>
+<td>Citoyenneté canadienne</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>025627 FGE</td>
+<td>Santé, environnement et prévention des infections</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>025630 FGE</td>
+<td>De l'identité à la culture</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>025631 FGE</td>
+<td>Vive l'espagnol</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>025633 FGE</td>
+<td>Réalités autochtones contemporaines</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>025634 FGE</td>
+<td>La perception en psychologie</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>025700 FGE</td>
+<td>Découvrir l'éthique appliquée : comment décider ?</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>027192 FGE</td>
+<td>Le bonheur : nourrir, équilibrer et renforcer votre qualité de vie</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>028230 FGE</td>
+<td>La compassion</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>029848 FGE</td>
+<td>La résilience</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>030018 FGE</td>
+<td>Équité, diversité, inclusivité</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>cours au choix FGE</td>
+<td>025638 FGE</td>
+<td>Exploration des métiers</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>un cours d'anglais</td>
+<td>026988 ENL</td>
+<td>Foundations of English</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>un cours d'anglais</td>
+<td>026990 ENL</td>
+<td>Oral Communication: Beginner Level</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>un cours d'anglais</td>
+<td>026992 ENL</td>
+<td>Oral Communication: Intermediate Level</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024420 ART</td>
+<td>Modélisation d'objets pour le jeu vidéo</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024431 ART</td>
+<td>Sculpture d'objets pour le jeu vidéo</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024444 ART</td>
+<td>Sculpture d'objets pour le film d'effets spéciaux</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024452 ART</td>
+<td>Modélisation d'objets pour le film d'effets spéciaux</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024457 ART</td>
+<td>Texture stylisée d'objets pour le jeu vidéo</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024461 ART</td>
+<td>Texture réaliste d'objets pour le film d'effets spéciaux</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024498 ART</td>
+<td>Texture réaliste de personnages pour le film d'effets spéciaux</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024503 ART</td>
+<td>Texture stylisée de personnages pour le jeu vidéo</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024505 ART</td>
+<td>Animation (jeu d'acteur) pour le film d'animation</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024509 ART</td>
+<td>Modélisation d'éléments de personnages pour le film d'effets spéciaux</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024510 ART</td>
+<td>Modélisation d'éléments de personnages pour le jeu vidéo</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024512 ART</td>
+<td>Sculpture de personnages pour le jeu vidéo</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024523 ART</td>
+<td>Animation (jeu d'acteur) pour le jeu vidéo</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024526 ART</td>
+<td>Animation (jeu d'acteur) pour le film d'effets spéciaux</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>024529 ART</td>
+<td>Sculpture de personnages pour le film d'effets spéciaux</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 3</td>
+<td>9 cours au choix</td>
+<td>027214 ART</td>
+<td>Intro au rig</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>024536 ART</td>
+<td>Journal d'entretien professionnel</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>024574 ART</td>
+<td>Éclairage et rendu d'objets 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>024576 ART</td>
+<td>Portfolio professionnel</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>024612 ART</td>
+<td>Portfolio et marché de l'emploi</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>027210 ART</td>
+<td>Projet 7 - Animation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>027211 ART</td>
+<td>Projet 8 - Animation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>024551 ART</td>
+<td>Éclairage et rendu de layouts</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>024616 ART</td>
+<td>Éclairage et rendu de personnages</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>027209 ART</td>
+<td>Projet 6 - Animation 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>cours obligatoires</td>
+<td>031352 ART</td>
+<td>Production d'équipe en 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>un cours d'anglais</td>
+<td>026989 ENL</td>
+<td>Written Communication: Beginner Level</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 4</td>
+<td>un cours d'anglais</td>
+<td>026991 ENL</td>
+<td>Written Communication: Intermediate Level</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 5</td>
+<td>cours obligatoires</td>
+<td>024614 ART</td>
+<td>Projet d'animation 3D avancé</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 5</td>
+<td>cours obligatoires</td>
+<td>024617 ART</td>
+<td>Planification d'un projet d'équipe - Préproduction 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 5</td>
+<td>cours obligatoires</td>
+<td>024632 ART</td>
+<td>Tendances technologiques et conférences</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 5</td>
+<td>cours obligatoires</td>
+<td>024636 ART</td>
+<td>Master class</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 6</td>
+<td>cours obligatoires</td>
+<td>024637 ART</td>
+<td>Projets d'animation 3D avancé</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 6</td>
+<td>cours obligatoires</td>
+<td>024626 ART</td>
+<td>Master class</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 6</td>
+<td>cours obligatoires</td>
+<td>024630 ART</td>
+<td>Gestion d'un projet d'équipe - Production 3D</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td>Étape 6</td>
+<td>cours obligatoires</td>
+<td>024622 ART</td>
+<td>Tutoriels et veille technologique</td>
+<td><a href="https://www.collegelacite.ca/programmes/61636">Collège La Cité, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Collège La Cité. (n.d.). <em>Animation 3D – avancé</em>. Retrieved November 10, 2026, from <a href="https://www.collegelacite.ca/programmes/61636">https://www.collegelacite.ca/programmes/61636</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 17:34:09-05:00">11/11/2026 17:34:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

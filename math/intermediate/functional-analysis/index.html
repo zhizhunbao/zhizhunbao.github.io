@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>Functional Analysis | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Functional Analysis (泛函分析), a subject of the Intermediate level of Mathematical Sciences, from the MIT 18.102 lecture notes (Spring 2021): 23 lectures, each a page listing its 179 numbered items in all; terms to come.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="functional-analysis">Functional Analysis</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/functional-analysis%401x.png" alt="Functional Analysis: its 23 lectures, one group each listing its numbered items (179 in all)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Functional Analysis</strong><br>泛函分析</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/">Rodriguez, 2021</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-basic-banach-space-theory.html">1 Basic Banach Space Theory</a></strong><br>巴拿赫空间基本理论</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/4ae9a5af8622dba3aa37461b71d08407_MIT18_102s21_lec1.pdf">Rodriguez, 2021, lecture 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-bounded-linear-operators.html">2 Bounded Linear Operators</a></strong><br>有界线性算子</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/22bf2f774fb161776032491568148707_MIT18_102s21_lec2.pdf">Rodriguez, 2021, lecture 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="3-quotient-spaces-the-baire-category-theorem-and-the-uniform-boundedness-theorem.html">3 Quotient Spaces, the Baire Category Theorem and the Uniform Boundedness Theorem</a></strong><br>商空间、贝尔纲定理与一致有界性定理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/f168e97ce4839083e546555a6a994697_MIT18_102s21_lec3.pdf">Rodriguez, 2021, lecture 3</a></td>
+</tr>
+<tr>
+<td><strong><a href="4-the-open-mapping-theorem-and-the-closed-graph-theorem.html">4 The Open Mapping Theorem and the Closed Graph Theorem</a></strong><br>开映射定理与闭图像定理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/038fc32ab9c1bb63a4f29bd9d7c97961_MIT18_102s21_lec4.pdf">Rodriguez, 2021, lecture 4</a></td>
+</tr>
+<tr>
+<td><strong><a href="5-zorns-lemma-and-the-hahn-banach-theorem.html">5 Zorn's Lemma and the Hahn-Banach Theorem</a></strong><br>佐恩引理与哈恩-巴拿赫定理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/06f9cf855f9f5eaa1898f3e684e05cec_MIT18_102s21_lec5.pdf">Rodriguez, 2021, lecture 5</a></td>
+</tr>
+<tr>
+<td><strong><a href="6-the-double-dual-and-the-outer-measure-of-a-subset-of-real-numbers.html">6 The Double Dual and the Outer Measure of a Subset of Real Numbers</a></strong><br>二次对偶与实数子集的外测度</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/806234baa2feadee4b54cdf679382257_MIT18_102s21_lec6.pdf">Rodriguez, 2021, lecture 6</a></td>
+</tr>
+<tr>
+<td><strong><a href="7-sigma-algebras.html">7 Sigma Algebras</a></strong><br>σ-代数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/822b1a9ec1fbf16192b5564621d3b387_MIT18_102s21_lec7.pdf">Rodriguez, 2021, lecture 7</a></td>
+</tr>
+<tr>
+<td><strong><a href="8-lebesgue-measurable-subsets-and-measure.html">8 Lebesgue Measurable Subsets and Measure</a></strong><br>勒贝格可测子集与测度</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/1bf275c0667d3e903e4de22b9fb4481b_MIT18_102s21_lec8.pdf">Rodriguez, 2021, lecture 8</a></td>
+</tr>
+<tr>
+<td><strong><a href="9-lebesgue-measurable-functions.html">9 Lebesgue Measurable Functions</a></strong><br>勒贝格可测函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/ede0e9d0812d4b602efafe3ca879b19f_MIT18_102s21_lec9.pdf">Rodriguez, 2021, lecture 9</a></td>
+</tr>
+<tr>
+<td><strong><a href="10-simple-functions.html">10 Simple Functions</a></strong><br>简单函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/ebbbc59aa40252dff3d4ec766c057451_MIT18_102s21_lec10.pdf">Rodriguez, 2021, lecture 10</a></td>
+</tr>
+<tr>
+<td><strong><a href="11-the-lebesgue-integral-of-a-nonnegative-function-and-convergence-theorems.html">11 The Lebesgue Integral of a Nonnegative Function and Convergence Theorems</a></strong><br>非负函数的勒贝格积分与收敛定理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/615c26170233747c081d6dab928f7d91_MIT18_102s21_lec11.pdf">Rodriguez, 2021, lecture 11</a></td>
+</tr>
+<tr>
+<td><strong><a href="12-lebesgue-integrable-functions-the-lebesgue-integral-and-the-dominated-convergence-theorem.html">12 Lebesgue Integrable Functions, the Lebesgue Integral and the Dominated Convergence Theorem</a></strong><br>勒贝格可积函数、勒贝格积分与控制收敛定理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/e407e57ea631a29148ee94afecef7d33_MIT18_102s21_lec12.pdf">Rodriguez, 2021, lecture 12</a></td>
+</tr>
+<tr>
+<td><strong><a href="13-lp-space-theory.html">13 Lp Space Theory</a></strong><br>Lp 空间理论</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/aad5fcf3b0f85788519a0324258dd296_MIT18_102s21_lec13.pdf">Rodriguez, 2021, lecture 13</a></td>
+</tr>
+<tr>
+<td><strong><a href="14-basic-hilbert-space-theory.html">14 Basic Hilbert Space Theory</a></strong><br>希尔伯特空间基本理论</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/721d74b7fa9b3b5427779b6905df95ec_MIT18_102s21_lec14.pdf">Rodriguez, 2021, lecture 14</a></td>
+</tr>
+<tr>
+<td><strong><a href="15-orthonormal-bases-and-fourier-series.html">15 Orthonormal Bases and Fourier Series</a></strong><br>标准正交基与傅里叶级数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/859833f65ee4aec6b0fea35a300d10cd_MIT18_102s21_lec15.pdf">Rodriguez, 2021, lecture 15</a></td>
+</tr>
+<tr>
+<td><strong><a href="16-fejers-theorem-and-convergence-of-fourier-series.html">16 Fejer's Theorem and Convergence of Fourier Series</a></strong><br>费耶尔定理与傅里叶级数的收敛</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/eb44436072623f60f8f416875d4b2c11_MIT18_102s21_lec16.pdf">Rodriguez, 2021, lecture 16</a></td>
+</tr>
+<tr>
+<td><strong><a href="17-minimizers-orthogonal-complements-and-the-riesz-representation-theorem.html">17 Minimizers, Orthogonal Complements and the Riesz Representation Theorem</a></strong><br>极小元、正交补与里斯表示定理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/c97549663746d6bc4a379077e067c55b_MIT18_102s21_lec17.pdf">Rodriguez, 2021, lecture 17</a></td>
+</tr>
+<tr>
+<td><strong><a href="18-the-adjoint-of-a-bounded-linear-operator-on-a-hilbert-space.html">18 The Adjoint of a Bounded Linear Operator on a Hilbert Space</a></strong><br>希尔伯特空间上有界线性算子的伴随</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/7f23bfc43ee2e1efd238a5384e5b9d51_MIT18_102s21_lec18.pdf">Rodriguez, 2021, lecture 18</a></td>
+</tr>
+<tr>
+<td><strong><a href="19-compact-subsets-of-a-hilbert-space-and-finite-rank-operators.html">19 Compact Subsets of a Hilbert Space and Finite-Rank Operators</a></strong><br>希尔伯特空间的紧子集与有限秩算子</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/39ac233d5d7cbfffcdce8086143688f6_MIT18_102s21_lec19.pdf">Rodriguez, 2021, lecture 19</a></td>
+</tr>
+<tr>
+<td><strong><a href="20-compact-operators-and-the-spectrum-of-a-bounded-linear-operator-on-a-hilbert-space.html">20 Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space</a></strong><br>紧算子与希尔伯特空间上有界线性算子的谱</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/9eaaf363541d01d53c330ee7931fc715_MIT18_102s21_lec20.pdf">Rodriguez, 2021, lecture 20</a></td>
+</tr>
+<tr>
+<td><strong><a href="21-the-spectrum-of-self-adjoint-operators-and-the-eigenspaces-of-compact-self-adjoint-operators.html">21 The spectrum of Self-Adjoint Operators and the Eigenspaces of Compact Self-Adjoint Operators</a></strong><br>自伴算子的谱与紧自伴算子的特征空间</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/345c4a5141559a4069aeb3105acd8ef3_MIT18_102s21_lec21.pdf">Rodriguez, 2021, lecture 21</a></td>
+</tr>
+<tr>
+<td><strong><a href="22-the-spectral-theorem-for-a-compact-self-adjoint-operator.html">22 The Spectral Theorem for a Compact Self-Adjoint Operator</a></strong><br>紧自伴算子的谱定理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/57596554e180e442c9487f580303147b_MIT18_102s21_lec22.pdf">Rodriguez, 2021, lecture 22</a></td>
+</tr>
+<tr>
+<td><strong><a href="23-the-dirichlet-problem-on-an-interval.html">23 The Dirichlet Problem on an Interval</a></strong><br>区间上的狄利克雷问题</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/9f0f59147c3235d57eacca9157faf834_MIT18_102s21_lec23.pdf">Rodriguez, 2021, lecture 23</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Rodriguez, C. (2021). <em>18.102 Introduction to functional analysis: Lecture notes</em> (Spring 2021). MIT OpenCourseWare. Retrieved October 31, 2026, from <a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/">https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-01 13:48:46-05:00">11/01/2026 13:48:46</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

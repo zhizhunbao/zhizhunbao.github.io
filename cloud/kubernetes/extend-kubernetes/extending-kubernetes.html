@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>14.0 Extending Kubernetes | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 14.0 Extending Kubernetes: 14.0.1 Configuration, 14.0.2 Extensions, 14.0.3 Client extensions, 14.0.4 API extensions, 14.0.5 API access extensions, 14.0.6 Infrastructure extensions, 14.0.7 Scheduling extensions.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="140-extending-kubernetes">14.0 Extending Kubernetes</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/extend-kubernetes-extending-kubernetes.png" alt="14.0 Extending Kubernetes: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>14.0 Extending Kubernetes</strong><br>扩展 Kubernetes</td>
+<td>&quot;<strong>Different ways</strong> to <strong>change the behavior of your Kubernetes cluster</strong>.&quot;</td>
+<td><strong>不同方式</strong>，用来<strong>改变 Kubernetes 集群的行为</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=Different%20ways%20to%20change%20the%20behavior%20of">The Kubernetes Authors, n.d., &quot;Extending Kubernetes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>14.0.1 Configuration</strong><br>配置</td>
+<td>(context) &quot;<strong><em>Configuration files</em> and <em>command arguments</em></strong> are documented in <strong>the Reference section of the online documentation</strong>&quot;</td>
+<td>（语境）<strong><em>配置文件</em>和<em>命令参数</em></strong> 记载在<strong>在线文档的参考部分</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=%2AConfiguration%20files%2A%20and%20%2Acommand%20arguments%2A%20are%20documented">The Kubernetes Authors, n.d., &quot;Configuration&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>policy APIs</strong><br>策略 API</td>
+<td>(context) &quot;<strong>Built-in <em>policy APIs</em></strong>, such as <strong>ResourceQuota, NetworkPolicy and Role-based Access Control</strong>&quot;</td>
+<td>（语境）<strong>内置的<em>策略 API</em></strong>，例如 <strong>ResourceQuota、NetworkPolicy 和基于角色的访问控制</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=Built-in%20%2Apolicy%20APIs%2A%2C%20such%20as%20%5BResourceQuota%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Fconcepts%2Fpolicy%2Fresource-quotas%2F%29%2C%20%5BNetworkPolicy%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Fconcepts%2Fservices-networking%2Fnetwork-policies%2F%29">The Kubernetes Authors, n.d., &quot;Configuration&quot;, para. 8</a></td>
+</tr>
+<tr>
+<td><strong>14.0.2 Extensions</strong><br>扩展</td>
+<td>&quot;<strong>Extensions</strong> are <strong>software components</strong> that <strong>extend and deeply integrate with Kubernetes</strong>.&quot;</td>
+<td><strong>扩展</strong>是一类<strong>软件组件</strong>，它们<strong>扩展 Kubernetes 并与之深度集成</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=Extensions%20are%20software%20components%20that%20extend%20and">The Kubernetes Authors, n.d., &quot;Extensions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Automation</strong><br>自动化</td>
+<td>&quot;<em><strong>Automation</strong></em> can <strong>run on the cluster</strong> or <strong>off it</strong>.&quot;</td>
+<td><em><strong>自动化</strong></em> 可以<strong>在集群内运行</strong>，也可以<strong>在集群外运行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=%2AAutomation%2A%20can%20run%20on%20the%20cluster%20or">The Kubernetes Authors, n.d., &quot;Extension patterns&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>webhook</strong><br>Webhook</td>
+<td>&quot;When <strong>Kubernetes is the client</strong> and <strong>calls out to a remote service</strong>, <strong>Kubernetes calls this a <em>webhook</em></strong>.&quot;</td>
+<td>当 <strong>Kubernetes 作为客户端</strong>并<strong>调用远程服务</strong>时，<strong>Kubernetes 把这称为 <em>Webhook</em></strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=When%20Kubernetes%20is%20the%20client%20and%20calls">The Kubernetes Authors, n.d., &quot;Extension patterns&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>webhook backend</strong><br>Webhook 后端</td>
+<td>&quot;<strong>The remote service</strong> is <strong>called a <em>webhook backend</em></strong>.&quot;</td>
+<td><strong>该远程服务</strong>被<strong>称为 <em>Webhook 后端</em></strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=The%20remote%20service%20is%20called%20a%20%2Awebhook">The Kubernetes Authors, n.d., &quot;Extension patterns&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Built-in resource kinds</strong><br>内置资源类型</td>
+<td>&quot;<em><strong>Built-in resource kinds</strong></em>, such as <code>pods</code>, are <strong>defined by the Kubernetes project</strong> and <strong>can't be changed</strong>.&quot;</td>
+<td><em><strong>内置资源类型</strong></em>（例如 <code>pods</code>）<strong>由 Kubernetes 项目定义</strong>，<strong>不能更改</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=%2ABuilt-in%20resource%20kinds%2A%2C%20such%20as%20%60pods%60%2C%20are">The Kubernetes Authors, n.d., &quot;Key to the figure&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>14.0.3 Client extensions</strong><br>客户端扩展</td>
+<td>&quot;<strong>Plugins for kubectl</strong> are <strong>separate binaries</strong> that <strong>add or replace the behavior of specific subcommands</strong>.&quot;</td>
+<td><strong>kubectl 插件</strong>是<strong>独立的二进制文件</strong>，用来<strong>添加或替换特定子命令的行为</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=Plugins%20for%20kubectl%20are%20separate%20binaries%20that">The Kubernetes Authors, n.d., &quot;Client extensions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>14.0.4 API extensions</strong><br>API 扩展</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#api-extensions">The Kubernetes Authors, n.d., &quot;API extensions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Custom Resource</strong><br>自定义资源</td>
+<td>(context) &quot;Consider <strong>adding a <em>Custom Resource</em> to Kubernetes</strong> if you want to <strong>define new controllers, application configuration objects or other declarative APIs</strong>&quot;</td>
+<td>（语境）可以考虑<strong>向 Kubernetes 添加<em>自定义资源</em></strong>，前提是你想<strong>定义新的控制器、应用配置对象或其他声明式 API</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=Consider%20adding%20a%20%2ACustom%20Resource%2A%20to%20Kubernetes">The Kubernetes Authors, n.d., &quot;Custom resource definitions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>API Access Extensions</strong><br>API 访问扩展</td>
+<td>(context) &quot;<strong>Adding an API</strong> does not directly let you affect <strong>the behavior of existing APIs</strong> (such as Pods), whereas <strong><em>API Access Extensions</em> do</strong>.&quot;</td>
+<td>（语境）<strong>添加 API</strong> 并不能直接影响<strong>现有 API 的行为</strong>（例如 Pod），而 <strong><em>API 访问扩展</em>可以</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=Adding%20an%20API%20does%20not%20directly%20let">The Kubernetes Authors, n.d., &quot;Changing built-in resources&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>14.0.5 API access extensions</strong><br>API 访问扩展</td>
+<td>&quot;When a request reaches the Kubernetes API Server, <strong>it is first <em>authenticated</em></strong>, then <em><strong>authorized</strong></em>, and is then subject to <strong>various types of <em>admission control</em></strong>&quot;</td>
+<td>请求到达 Kubernetes API 服务器后，<strong>先被<em>认证</em></strong>，再被 <em><strong>鉴权</strong></em>，然后接受<strong>各种<em>准入控制</em></strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=When%20a%20request%20reaches%20the%20Kubernetes%20API">The Kubernetes Authors, n.d., &quot;API access extensions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Authentication</strong><br>认证</td>
+<td>&quot;Authentication <strong>maps headers or certificates</strong> in all requests to <strong>a username for the client making the request</strong>.&quot;</td>
+<td>认证<strong>把每个请求中的请求头或证书映射</strong>为<strong>发出请求的客户端的用户名</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=%5BAuthentication%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Freference%2Faccess-authn-authz%2Fauthentication%2F%29%20maps%20headers%20or%20certificates%20in%20all">The Kubernetes Authors, n.d., &quot;Authentication&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Authorization</strong><br>鉴权</td>
+<td>&quot;Authorization <strong>determines whether specific users</strong> can <strong>read, write, and do other operations on API resources</strong>.&quot;</td>
+<td>鉴权<strong>决定特定用户</strong>能否<strong>对 API 资源进行读、写及其他操作</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=%5BAuthorization%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Freference%2Faccess-authn-authz%2Fauthorization%2F%29%20determines%20whether%20specific%20users%20can%20read%2C">The Kubernetes Authors, n.d., &quot;Authorization&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Dynamic admission control</strong><br>动态准入控制</td>
+<td>(context) &quot;After a request is authorized, if it is <strong>a write operation</strong>, it also goes through <strong>Admission Control steps</strong>.&quot;</td>
+<td>（语境）请求通过鉴权之后，如果是<strong>写操作</strong>，还要经过<strong>准入控制步骤</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=After%20a%20request%20is%20authorized%2C%20if%20it">The Kubernetes Authors, n.d., &quot;Dynamic admission control&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>14.0.6 Infrastructure extensions</strong><br>基础设施扩展</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#infrastructure-extensions">The Kubernetes Authors, n.d., &quot;Infrastructure extensions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Device plugins</strong><br>设备插件</td>
+<td>&quot;<em>Device plugins</em> <strong>allow a node to discover new Node resources</strong> (in addition to <strong>the builtin ones like cpu and memory</strong>)&quot;</td>
+<td><em>设备插件</em> <strong>让节点发现新的节点资源</strong>（除了 <strong>cpu 和内存等内置资源</strong>之外）</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=%2ADevice%20plugins%2A%20allow%20a%20node%20to%20discover">The Kubernetes Authors, n.d., &quot;Device plugins&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Storage plugins</strong><br>存储插件</td>
+<td>&quot;<strong>Container Storage Interface (CSI) plugins</strong> provide a way to <strong>extend Kubernetes with supports for new kinds of volumes</strong>.&quot;</td>
+<td><strong>容器存储接口插件</strong>（CSI）提供一种方式来<strong>扩展 Kubernetes 以支持新的卷类型</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=%5BContainer%20Storage%20Interface%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Fconcepts%2Fstorage%2Fvolumes%2F%23csi%29%20%28CSI%29%20plugins%20provide%20a">The Kubernetes Authors, n.d., &quot;Storage plugins&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>network plugin</strong><br>网络插件</td>
+<td>&quot;Your Kubernetes cluster needs a <em><strong>network plugin</strong></em> in order to have <strong>a working Pod network</strong> and to support <strong>other aspects of the Kubernetes network model</strong>.&quot;</td>
+<td>你的 Kubernetes 集群需要一个 <em><strong>网络插件</strong></em>，才能拥有<strong>可用的 Pod 网络</strong>并支持 <strong>Kubernetes 网络模型的其他方面</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=Your%20Kubernetes%20cluster%20needs%20a%20%2Anetwork%20plugin%2A">The Kubernetes Authors, n.d., &quot;Network plugins&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Kubelet image credential provider plugins</strong><br>kubelet 镜像凭据提供程序插件</td>
+<td>&quot;The plugins can <strong>communicate with external services</strong> or <strong>use local files</strong> to <strong>obtain credentials</strong>.&quot;</td>
+<td>这些插件可以<strong>与外部服务通信</strong>，或<strong>使用本地文件</strong>，来<strong>获取凭据</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=The%20plugins%20can%20communicate%20with%20external%20services">The Kubernetes Authors, n.d., &quot;Kubelet image credential provider plugins&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>14.0.7 Scheduling extensions</strong><br>调度扩展</td>
+<td>&quot;<strong>The scheduler</strong> is <strong>a special type of controller</strong> that <strong>watches pods</strong>, and <strong>assigns pods to nodes</strong>.&quot;</td>
+<td><strong>调度器</strong>是<strong>一种特殊的控制器</strong>，它<strong>监视 Pod</strong> 并<strong>把 Pod 分配给节点</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/extend-kubernetes/#:%7E:text=The%20scheduler%20is%20a%20special%20type%20of">The Kubernetes Authors, n.d., &quot;Scheduling extensions&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Extending Kubernetes</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/extend-kubernetes/">https://kubernetes.io/docs/concepts/extend-kubernetes/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

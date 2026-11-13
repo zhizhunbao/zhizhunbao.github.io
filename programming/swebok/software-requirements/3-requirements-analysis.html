@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>3. Requirements Analysis | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="SWEBOK, Chapter 1: Software Requirements: 3. Requirements Analysis: 24 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="3-requirements-analysis">3. Requirements Analysis</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Requirements Analysis</strong><br>需求分析</td>
+<td>&quot;Requirements analysis helps software developers <strong>understand the meaning and implications of candidate requirements</strong>, both <strong>individually and in the context of the overall set of requirements</strong>.&quot;</td>
+<td>需求分析帮助软件开发者<strong>理解候选需求的含义和影响</strong>，既<strong>单独地看，也放在整套需求的背景下看</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3, para. 1, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Basic Requirements Analysis</strong><br>基本需求分析</td>
+<td>&quot;The following list of <strong>desirable properties of requirements</strong> can <strong>guide basic requirements analysis</strong>.&quot;</td>
+<td>下面这份<strong>需求的理想属性</strong>清单可以<strong>指导基本需求分析</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 1, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Unambiguous</strong><br>无歧义</td>
+<td>&quot;be <strong>unambiguous</strong> (<strong>interpretable in only one way</strong>);&quot;</td>
+<td><strong>无歧义</strong>（<strong>只能有一种解读</strong>）；</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 1, item 1, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Testable</strong><br>可测试</td>
+<td>&quot;be <strong>testable</strong> (quantified), meaning that <strong>compliance or noncompliance can be clearly demonstrated</strong>;&quot;</td>
+<td><strong>可测试</strong>（已量化），即<strong>符合与否能被清楚地证明</strong>；</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 1, item 2, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Binding</strong><br>有约束力</td>
+<td>&quot;be <strong>binding</strong>, meaning that <strong>clients are willing to pay for it</strong> and unwilling not to have it;&quot;</td>
+<td><strong>有约束力</strong>，即<strong>委托方愿意为它付钱</strong>，也不愿意没有它；</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 1, item 3, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Atomic</strong><br>原子性</td>
+<td>&quot;<strong>atomic</strong>, <strong>represent a single decision</strong>&quot;</td>
+<td><strong>原子性</strong>，<strong>只代表一个决定</strong></td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 1, item 4, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Complete</strong><br>完整</td>
+<td>&quot;<strong>complete</strong> — The requirements <strong>adequately address boundary conditions, exception conditions and security needs</strong>;&quot;</td>
+<td><strong>完整</strong>：这些需求<strong>充分覆盖了边界条件、异常条件和安全需要</strong>；</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 2, item 1, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Concise</strong><br>简洁</td>
+<td>&quot;<strong>concise</strong> — <strong>No extraneous content</strong> in the requirements&quot;</td>
+<td><strong>简洁</strong>：需求中<strong>没有多余内容</strong></td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 2, item 2, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Internally Consistent</strong><br>内部一致</td>
+<td>&quot;<strong>internally consistent</strong> — <strong>No requirement conflicts with any other</strong>;&quot;</td>
+<td><strong>内部一致</strong>：<strong>没有任何一条需求与其他需求冲突</strong>；</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 2, item 3, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Externally Consistent</strong><br>外部一致</td>
+<td>&quot;<strong>externally consistent</strong> — <strong>No requirement conflicts with any source material</strong>;&quot;</td>
+<td><strong>外部一致</strong>：<strong>没有任何一条需求与来源材料冲突</strong>；</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 2, item 4, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Feasible</strong><br>可行</td>
+<td>&quot;<strong>feasible</strong> — A viable, cost-effective solution can be created <strong>within cost, schedule, staffing, and other constraints</strong>.&quot;</td>
+<td><strong>可行</strong>：能够<strong>在成本、进度、人员和其他约束之内</strong>做出一个可行且划算的方案。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 2, item 5, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>5-Whys Technique</strong><br>五个为什么</td>
+<td>&quot;The <strong>5-whys technique</strong> (e.g., [3*, c4]) involves <strong>repeatedly asking, “Why is this the requirement?”</strong> to <strong>converge on the true problem</strong>.&quot;</td>
+<td><strong>五个为什么</strong>（例如 [3*, c4]）指<strong>反复追问「为什么这是需求？」</strong>，以便<strong>收敛到真正的问题</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.1, para. 3, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Economics of Quality of Service Constraints</strong><br>服务质量约束的经济性</td>
+<td>&quot;Quality of service constraints can be <strong>particularly challenging</strong>. This is generally because engineers <strong>do not consider them from an economic perspective</strong> [9, c4].&quot;</td>
+<td>服务质量约束可能<strong>特别棘手</strong>，通常是因为工程师<strong>没有从经济角度考虑它们</strong> [9, c4]。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.2, para. 1, p. 1-8</a></td>
+</tr>
+<tr>
+<td><strong>Perfection Point</strong><br>完美点</td>
+<td>&quot;<strong>Perfection point</strong> — This is the <strong>most favorable level of performance</strong>, beyond which <strong>there is no additional benefit</strong>.&quot;</td>
+<td><strong>完美点</strong>：<strong>最理想的性能水平</strong>，超过它就<strong>不再有额外收益</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.2, para. 3, item 1, p. 1-9</a></td>
+</tr>
+<tr>
+<td><strong>Fail Point</strong><br>失败点</td>
+<td>&quot;<strong>Fail point</strong> — This is the <strong>least favorable level of performance</strong>, beyond which <strong>there is no further reduction in benefit</strong>.&quot;</td>
+<td><strong>失败点</strong>：<strong>最不理想的性能水平</strong>，超过它收益<strong>不再进一步下降</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.2, para. 3, item 2, p. 1-9</a></td>
+</tr>
+<tr>
+<td><strong>Most Cost-Effective Performance Level</strong><br>最具成本效益的性能水平</td>
+<td>&quot;Figure 1.5 illustrates the <strong>most cost-effective performance level</strong> — the performance level with the <strong>maximum positive difference between the value at that performance level and the cost to achieve it</strong>.&quot;</td>
+<td>图 1.5 展示了<strong>最具成本效益的性能水平</strong>，即<strong>该水平的价值与达到它的成本之间正差最大</strong>的性能水平。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.2, para. 5, p. 1-9</a></td>
+</tr>
+<tr>
+<td><strong>Formal Analysis</strong><br>形式化分析</td>
+<td>&quot;<strong>Formal analysis</strong> has shown <strong>benefits in some application domains</strong>, particularly <strong>high-integrity systems</strong> (e.g., [5, c6]).&quot;</td>
+<td><strong>形式化分析</strong>已在<strong>某些应用领域显示出好处</strong>，尤其是<strong>高完整性系统</strong>（例如 [5, c6]）。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.3, para. 1, p. 1-9</a></td>
+</tr>
+<tr>
+<td><strong>Addressing Conflict in Requirements</strong><br>处理需求冲突</td>
+<td>&quot;One particularly important aspect of requirements analysis is <strong>identifying and managing such conflicts</strong> (e.g., [6, c17]).&quot;</td>
+<td>需求分析中特别重要的一个方面是<strong>识别和管理这类冲突</strong>（例如 [6, c17]）。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.4, para. 1, p. 1-10</a></td>
+</tr>
+<tr>
+<td><strong>Project Scope Management</strong><br>项目范围管理</td>
+<td>&quot;A specific example is <strong>project scope management</strong> — namely, <strong>balancing what’s desired in the stated software product requirements with what can be accomplished</strong> given the project requirements of cost, schedule, staffing and other project-level constraints.&quot;</td>
+<td>一个具体例子是<strong>项目范围管理</strong>，即在成本、进度、人员和其他项目级约束这些项目需求下，<strong>在已陈述的软件产品需求所期望的内容与能够完成的内容之间取得平衡</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.4, para. 2, p. 1-10</a></td>
+</tr>
+<tr>
+<td><strong>Product Family Development</strong><br>产品族开发</td>
+<td>&quot;Another approach is to apply <strong>product family development</strong> (e.g., [20]). This involves <strong>separating requirements into two categories</strong>.&quot;</td>
+<td>另一种方法是采用<strong>产品族开发</strong>（例如 [20]），也就是<strong>把需求分成两类</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.4, para. 3, p. 1-10</a></td>
+</tr>
+<tr>
+<td><strong>Invariant Requirements</strong><br>不变需求</td>
+<td>&quot;The first category contains the <strong>invariant requirements</strong>. These are <strong>requirements that all stakeholders agree on</strong>.&quot;</td>
+<td>第一类是<strong>不变需求</strong>，即<strong>所有干系人都同意的需求</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.4, para. 3, p. 1-10</a></td>
+</tr>
+<tr>
+<td><strong>Variant Requirements</strong><br>可变需求</td>
+<td>&quot;The second category contains the <strong>variant requirements</strong>, where <strong>conflict exists</strong>.&quot;</td>
+<td>第二类是<strong>可变需求</strong>，即<strong>存在冲突的需求</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.4, para. 3, p. 1-10</a></td>
+</tr>
+<tr>
+<td><strong>Design to Invariants</strong><br>面向不变量设计</td>
+<td>&quot;The software can be designed using <strong>design to invariants</strong> to <strong>accommodate the invariant requirements</strong> and design for change to incorporate customization points to configure an instance of the system to best fit relevant stakeholders.&quot;</td>
+<td>软件可以用<strong>面向不变量设计</strong>来<strong>容纳不变需求</strong>，并用面向变化设计加入定制点，把系统实例配置得最适合相关干系人。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.4, para. 3, p. 1-10</a></td>
+</tr>
+<tr>
+<td><strong>Design for Change</strong><br>面向变化设计</td>
+<td>&quot;The software can be designed using design to invariants to accommodate the invariant requirements and <strong>design for change</strong> to <strong>incorporate customization points</strong> to configure an instance of the system to best fit relevant stakeholders.&quot;</td>
+<td>软件可以用面向不变量设计来容纳不变需求，并用<strong>面向变化设计</strong>来<strong>加入定制点</strong>，把系统实例配置得最适合相关干系人。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 3.4, para. 3, p. 1-10</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>IEEE Computer Society. (n.d.). <em>SWEBOK Guide V4.0 topics</em>. Retrieved November 7, 2026, from <a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics">https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics</a></p>
+<p>Washizaki, H. (Ed.). (2026). <em>Guide to the software engineering body of knowledge (SWEBOK Guide), version 4.0a</em>. IEEE Computer Society. <a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-07 20:20:09-05:00">11/07/2026 20:20:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

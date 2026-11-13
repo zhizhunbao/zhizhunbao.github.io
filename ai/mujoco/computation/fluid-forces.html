@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.9 Fluid forces | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 2.9 Fluid forces: Inertia model, Ellipsoid model.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="29-fluid-forces">2.9 Fluid forces</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/fluid-forces.png" alt="2.9 Fluid forces: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.9 Fluid forces</strong><br>流体力</td>
+<td>(context) &quot;Nevertheless we provide <strong>two phenomenological models which are sufficient for simulating behaviors such as flying and swimming</strong>.&quot;</td>
+<td>（语境）不过我们提供了<strong>两种唯象模型，足以模拟飞行和游泳等行为</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#fluid-forces">Google DeepMind, n.d., &quot;Fluid forces&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Inertia model</strong><br>惯量模型</td>
+<td>&quot;In this model <strong>the shape of each body, for fluid dynamics purposes, is assumed to be the equivalent inertia box</strong>, which can also be visualized.&quot;</td>
+<td>在这个模型中，<strong>出于流体动力学的目的，每个刚体的形状被假定为等效惯量盒</strong>，它也可以被可视化。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#inertia-model">Google DeepMind, n.d., &quot;Inertia model&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Quadratic drag</strong><br>二次阻力</td>
+<td>&quot;scale quadratically with the velocity of the body, and are <strong>a valid approximation of the fluid forces at high Reynolds numbers</strong>&quot;</td>
+<td>随刚体速度呈二次方变化，是<strong>高雷诺数下流体力的有效近似</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#inertia-model">Google DeepMind, n.d., &quot;Inertia model&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Viscous resistance</strong><br>黏性阻力</td>
+<td>&quot;scale linearly with the body velocity, and <strong>approximate the fluid forces at low Reynolds numbers</strong>&quot;</td>
+<td>随刚体速度呈线性变化，<strong>近似低雷诺数下的流体力</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#inertia-model">Google DeepMind, n.d., &quot;Inertia model&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Ellipsoid model</strong><br>椭球模型</td>
+<td>&quot;In this section we describe and derive <strong>a stateless model of the forces exerted onto a moving rigid body by the surrounding fluid, based on an ellipsoidal approximation of geom shape</strong>.&quot;</td>
+<td>本节介绍并推导<strong>一个无状态模型，描述周围流体作用在运动刚体上的力，它基于对 geom 形状的椭球近似</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#ellipsoid-model">Google DeepMind, n.d., &quot;Ellipsoid model&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Notation</strong><br>记号</td>
+<td>(context) &quot;The problem is described in <strong>a reference frame aligned with the sides of the ellipsoid and moving with it</strong>.&quot;</td>
+<td>（语境）问题在<strong>一个与椭球各边对齐并随其运动的参考坐标系</strong>中描述。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#notation">Google DeepMind, n.d., &quot;Notation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Reynolds number</strong><br>雷诺数</td>
+<td>&quot;The Reynolds number is <strong>the ratio between inertial and viscous forces within a flow</strong>&quot;</td>
+<td>雷诺数是<strong>流动中惯性力与黏性力之比</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#notation">Google DeepMind, n.d., &quot;Notation&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Circulation</strong><br>环量</td>
+<td>&quot;to denote circulation, which is <strong>the line integral of the velocity field around a closed curve</strong>&quot;</td>
+<td>表示环量，它是<strong>速度场沿一条闭合曲线的线积分</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#notation">Google DeepMind, n.d., &quot;Notation&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Vorticity</strong><br>涡量</td>
+<td>&quot;For a rigid-body motion, <strong>the vorticity is twice the angular velocity</strong>.&quot;</td>
+<td>对于刚体运动，<strong>涡量是角速度的两倍</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#notation">Google DeepMind, n.d., &quot;Notation&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Ellipsoid projection</strong><br>椭球投影</td>
+<td>&quot;<strong>the area projected by the ellipsoid onto the plane normal to</strong>&quot;</td>
+<td><strong>椭球在法向平面上的投影面积</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#ellipsoid-projection">Google DeepMind, n.d., &quot;Ellipsoid projection&quot;, lemma</a></td>
+</tr>
+<tr>
+<td><strong>Added mass</strong><br>附加质量</td>
+<td>&quot;For a body moving in a fluid, added mass or virtual mass <strong>measures the inertia of the fluid that is moved due to the body’s motion</strong>.&quot;</td>
+<td>对于在流体中运动的物体，附加质量或虚拟质量<strong>度量因物体运动而被带动的流体的惯性</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#added-mass">Google DeepMind, n.d., &quot;Added mass&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Viscous drag</strong><br>黏性拖曳</td>
+<td>&quot;The drag force <strong>acts to oppose the motion of the body relative to the surrounding flow</strong>.&quot;</td>
+<td>拖曳力<strong>阻碍物体相对于周围流体的运动</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#viscous-drag">Google DeepMind, n.d., &quot;Viscous drag&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Viscous resistance</strong><br>黏性阻力</td>
+<td>&quot;Finally the viscous resistance terms, also known as linear drag, <strong>well approvimate the fluid forces for Reynolds numbers around or below</strong>&quot;</td>
+<td>最后，黏性阻力项（也称线性阻力）<strong>能很好地近似雷诺数在某量级附近或以下时的流体力</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#viscous-drag">Google DeepMind, n.d., &quot;Viscous drag&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Viscous lift</strong><br>黏性升力</td>
+<td>(context) &quot;In the next subsections we define <strong>two sources of circulation and the resulting lift forces</strong>.&quot;</td>
+<td>（语境）在接下来的小节中，我们定义<strong>两种环量来源以及由此产生的升力</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#viscous-lift">Google DeepMind, n.d., &quot;Viscous lift&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Kutta-Joukowski theorem</strong><br>库塔-茹科夫斯基定理</td>
+<td>&quot;The Kutta-Joukowski theorem <strong>calculates the lift</strong>&quot;</td>
+<td>库塔-茹科夫斯基定理<strong>计算升力</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#viscous-lift">Google DeepMind, n.d., &quot;Viscous lift&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Magnus force</strong><br>马格努斯力</td>
+<td>&quot;The Magnus effect <strong>describes the motion of a rotating object moving through a fluid</strong>.&quot;</td>
+<td>马格努斯效应<strong>描述在流体中运动的旋转物体的运动</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#magnus-force">Google DeepMind, n.d., &quot;Magnus force&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Stagnation point</strong><br>驻点</td>
+<td>&quot;A stagnation point is <strong>a location in the flow field where the velocity is zero</strong>.&quot;</td>
+<td>驻点是<strong>流场中速度为零的位置</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#kutta-condition">Google DeepMind, n.d., &quot;Kutta condition&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Kutta condition</strong><br>库塔条件</td>
+<td>&quot;A moving body with a sharp trailing (rear) edge will generate in the surrounding flow <strong>a circulation of sufficient strength to hold the rear stagnation point at the trailing edge</strong>. This is the Kutta condition, a fluid dynamic phenomenon that can be observed for solid bodies with sharp corners, such as slender bodies or the trailing edges of airfoils.&quot;</td>
+<td>带有尖锐后缘的运动物体会在周围流体中产生<strong>足够强的环量，使后驻点保持在后缘处</strong>。这就是库塔条件，一种可以在有尖角的固体上观察到的流体动力学现象，例如细长物体或翼型的后缘。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html#kutta-condition">Google DeepMind, n.d., &quot;Kutta condition&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Fluid forces</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/computation/fluid.html">https://mujoco.readthedocs.io/en/stable/computation/fluid.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

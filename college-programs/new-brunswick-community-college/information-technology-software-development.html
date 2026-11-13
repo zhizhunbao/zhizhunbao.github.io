@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>41.53 Information Technology: Software Development | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="College Programs &gt; New Brunswick Community College &gt; Information Technology: Software Development: the courses of the program; skeleton, definition pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="4153-information-technology-software-development">41.53 Information Technology: Software Development</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Information Technology: Software Development</strong><br>信息技术：软件开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Embedded Systems Fundamentals</strong><br>嵌入式系统基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Embedded Systems Using Real-Time Operating Systems</strong><br>基于实时操作系统的嵌入式系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Written, Interpersonal, and Intrapersonal Skills Development</strong><br>书面、人际与自我能力发展</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Technical Research and Writing for Information Technology</strong><br>信息技术的技术研究与写作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Database Design and SQL</strong><br>数据库设计与 SQL</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Intermediate SQL for Developers</strong><br>面向开发人员的中级 SQL</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Data Retrieval and Visualization</strong><br>数据检索与可视化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Ethics for Computing Professionals</strong><br>计算机专业人员伦理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Math and Statistics</strong><br>计算机数学与统计学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Responsive Web Design</strong><br>响应式网页设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Command Line Interface: Bash</strong><br>命令行界面：Bash</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Operating and File Systems Concepts</strong><br>操作系统与文件系统概念</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Orientation to Community Services</strong><br>社区服务入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Employment Readiness</strong><br>就业准备</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Programming Fundamentals</strong><br>编程基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Object Oriented Programming</strong><br>面向对象程序设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>JavaScript Programming</strong><br>JavaScript 编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Database Programming</strong><br>数据库编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced JavaScript</strong><br>高级 JavaScript</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Server-Side Web: MVC Framework</strong><br>服务器端 Web：MVC 框架</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>PHP</strong><br>PHP</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Software Architecture</strong><br>应用软件架构</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Networking for Programmers</strong><br>程序员网络</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Enterprise Java</strong><br>企业级 Java</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>C++ Programming</strong><br>C++程序设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Front-End Frameworks: Single Page Applications</strong><br>前端框架：单页应用</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>iOS Application Development</strong><br>iOS 应用开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Android Application Development</strong><br>Android应用开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Field Experience: Software Development</strong><br>实践经历：软件开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Capstone Project: Software Development</strong><br>毕业设计项目：软件开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Source Control</strong><br>源代码控制导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Work Safely</strong><br>安全作业</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>User Interface Design</strong><br>用户界面设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Engineering</strong><br>软件工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Quality Assurance Testing</strong><br>质量保证测试</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cloud Foundations: Amazon Web Services</strong><br>云基础：亚马逊云科技（Amazon Web Services）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Systems Analysis and Design Project</strong><br>系统分析与设计项目</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CEIO1065A</td>
+<td>Embedded Systems Fundamentals</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>CEIO1066A</td>
+<td>Embedded Systems Using Real-Time Operating Systems</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>COMM1281A</td>
+<td>Written, Interpersonal, and Intrapersonal Skills Development</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>COMM1282A</td>
+<td>Technical Research and Writing for Information Technology</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>DATA1054A</td>
+<td>Database Design and SQL</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>DATA1055B</td>
+<td>Intermediate SQL for Developers</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>DATA1056A</td>
+<td>Data Retrieval and Visualization</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>ETHI1075A</td>
+<td>Ethics for Computing Professionals</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>MATH1300A</td>
+<td>Computer Math and Statistics</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>MULT1190A</td>
+<td>Responsive Web Design</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1100A</td>
+<td>Command Line Interface: Bash</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1101A</td>
+<td>Operating and File Systems Concepts</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PERS1274A</td>
+<td>Orientation to Community Services</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PERS1313A</td>
+<td>Employment Readiness</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1337A</td>
+<td>Programming Fundamentals</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1338A</td>
+<td>Object Oriented Programming</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1339B</td>
+<td>JavaScript Programming</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1340A</td>
+<td>Database Programming</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1341A</td>
+<td>Advanced JavaScript</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1342A</td>
+<td>Server-Side Web: MVC Framework</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1343B</td>
+<td>PHP</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1344B</td>
+<td>Applied Software Architecture</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1345A</td>
+<td>Networking for Programmers</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1346A</td>
+<td>Enterprise Java</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1353A</td>
+<td>C++ Programming</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1354A</td>
+<td>Front-End Frameworks: Single Page Applications</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1355A</td>
+<td>iOS Application Development</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1356A</td>
+<td>Android Application Development</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1357B</td>
+<td>Field Experience: Software Development</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PROG1358B</td>
+<td>Capstone Project: Software Development</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>SAAL1882A</td>
+<td>Introduction to Source Control</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>SECU1322C</td>
+<td>Work Safely</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>SYST1070A</td>
+<td>User Interface Design</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>SYST1088A</td>
+<td>Software Engineering</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>SYST1091A</td>
+<td>Quality Assurance Testing</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>SYST1092A</td>
+<td>Cloud Foundations: Amazon Web Services</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>SYST1093A</td>
+<td>Systems Analysis and Design Project</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">New Brunswick Community College, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>New Brunswick Community College. (n.d.). <em>Information Technology: Software Development</em>. Retrieved November 8, 2026, from <a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7">https://nbcc.ca/programs-courses/program-details?baseCurriculumId=83db4e15-85f6-445f-8e89-60de01d802c7</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 17:34:09-05:00">11/11/2026 17:34:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

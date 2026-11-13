@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.3 Spaces | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Gymnasium, 2.3 Spaces: Methods, Fundamental Spaces, Composite Spaces, Spaces Utils.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="23-spaces">2.3 Spaces</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/spaces.png" alt="2.3 Spaces: its parts from the official menu, each with the entries the menu lists under it, in Gymnasium."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.3 Spaces</strong><br>空间</td>
+<td>&quot;Spaces <strong>describe mathematical sets and are used in Gym to specify valid actions and observations</strong>.&quot;</td>
+<td>空间<strong>描述数学上的集合，在 Gym 中用来规定合法的动作和观测</strong>。</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/">Farama Foundation, n.d.-c, &quot;Spaces&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Methods</strong><br>方法</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/#methods">Farama Foundation, n.d.-c, &quot;Methods&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Space.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Randomly sample an element of this space.</strong>&quot;</td>
+<td><strong>从这个空间中随机采样一个元素。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/#gymnasium.spaces.Space.sample">Farama Foundation, n.d.-c, &quot;gymnasium.spaces.Space.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Space.contains</strong><br>contains 方法</td>
+<td>&quot;<strong>Return boolean specifying if x is a valid member of this space</strong>, equivalent to sample in space.&quot;</td>
+<td><strong>返回布尔值，指明 x 是否为这个空间的合法成员</strong>，等价于 sample in space。</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/#gymnasium.spaces.Space.contains">Farama Foundation, n.d.-c, &quot;gymnasium.spaces.Space.contains&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Space.seed</strong><br>seed 方法</td>
+<td>&quot;<strong>Seed the pseudorandom number generator (PRNG) of this space and, if applicable, the PRNGs of subspaces.</strong>&quot;</td>
+<td><strong>为这个空间的伪随机数生成器（PRNG）设置种子，如适用，也为各子空间的 PRNG 设置种子。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/#gymnasium.spaces.Space.seed">Farama Foundation, n.d.-c, &quot;gymnasium.spaces.Space.seed&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Space.to_jsonable</strong><br>to_jsonable 方法</td>
+<td>&quot;<strong>Convert a batch of samples from this space to a JSONable data type.</strong>&quot;</td>
+<td><strong>把这个空间的一批样本转换为可 JSON 序列化的数据类型。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/#gymnasium.spaces.Space.to_jsonable">Farama Foundation, n.d.-c, &quot;gymnasium.spaces.Space.to_jsonable&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Space.from_jsonable</strong><br>from_jsonable 方法</td>
+<td>&quot;<strong>Convert a JSONable data type to a batch of samples from this space.</strong>&quot;</td>
+<td><strong>把可 JSON 序列化的数据类型转换为这个空间的一批样本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/#gymnasium.spaces.Space.from_jsonable">Farama Foundation, n.d.-c, &quot;gymnasium.spaces.Space.from_jsonable&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Fundamental Spaces</strong><br>基本空间</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/">Farama Foundation, n.d.-b, &quot;Fundamental Spaces&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Box</strong><br>Box（盒空间）</td>
+<td>&quot;<strong>A (possibly unbounded) box in Rn.</strong>&quot;</td>
+<td><strong>Rn 中的一个（可能无界的）盒子。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.Box">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.Box&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Box.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single random sample inside the Box.</strong>&quot;</td>
+<td><strong>在 Box 内部生成一个随机样本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.Box.sample">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.Box.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Box.is_bounded</strong><br>is_bounded 方法</td>
+<td>&quot;<strong>Checks whether the box is bounded in some sense.</strong>&quot;</td>
+<td><strong>检查盒子在某种意义上是否有界。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.Box.is_bounded">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.Box.is_bounded&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Discrete</strong><br>Discrete（离散空间）</td>
+<td>&quot;<strong>A space consisting of finitely many elements.</strong>&quot;</td>
+<td><strong>由有限个元素组成的空间。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.Discrete">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.Discrete&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Discrete.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single random sample from this space.</strong>&quot;</td>
+<td><strong>从这个空间生成一个随机样本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.Discrete.sample">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.Discrete.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>MultiBinary</strong><br>MultiBinary（多二值空间）</td>
+<td>&quot;<strong>An n-shape binary space.</strong>&quot;</td>
+<td><strong>一个 n 形状的二值空间。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.MultiBinary">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.MultiBinary&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>MultiBinary.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single random sample from this space.</strong>&quot;</td>
+<td><strong>从这个空间生成一个随机样本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.MultiBinary.sample">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.MultiBinary.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>MultiDiscrete</strong><br>MultiDiscrete（多离散空间）</td>
+<td>&quot;This represents <strong>the cartesian product of arbitrary Discrete spaces</strong>.&quot;</td>
+<td>它表示<strong>任意多个 Discrete 空间的笛卡尔积</strong>。</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.MultiDiscrete">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.MultiDiscrete&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>MultiDiscrete.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single random sample from this space.</strong>&quot;</td>
+<td><strong>从这个空间生成一个随机样本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.MultiDiscrete.sample">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.MultiDiscrete.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Text</strong><br>Text（文本空间）</td>
+<td>&quot;<strong>A space representing a string comprised of characters from a given charset.</strong>&quot;</td>
+<td><strong>表示由给定字符集中的字符组成的字符串的空间。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.Text">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.Text&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Text.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single random sample from this space</strong> with by default a random length between min_length and max_length and sampled from the charset.&quot;</td>
+<td><strong>从这个空间生成一个随机样本</strong>，默认长度在 min_length 与 max_length 之间随机，字符从 charset 中采样。</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/fundamental/#gymnasium.spaces.Text.sample">Farama Foundation, n.d.-b, &quot;gymnasium.spaces.Text.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Composite Spaces</strong><br>复合空间</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/">Farama Foundation, n.d.-a, &quot;Composite Spaces&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Dict</strong><br>Dict（字典空间）</td>
+<td>&quot;<strong>A dictionary of Space instances.</strong>&quot;</td>
+<td><strong>由 Space 实例组成的字典。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Dict">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Dict&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Dict.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single random sample from this space.</strong>&quot;</td>
+<td><strong>从这个空间生成一个随机样本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Dict.sample">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Dict.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Dict.seed</strong><br>seed 方法</td>
+<td>&quot;<strong>Seed the PRNG of this space and all subspaces.</strong>&quot;</td>
+<td><strong>为这个空间及其所有子空间的 PRNG 设置种子。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Dict.seed">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Dict.seed&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Tuple</strong><br>Tuple（元组空间）</td>
+<td>&quot;<strong>A tuple (more precisely: the cartesian product) of Space instances.</strong>&quot;</td>
+<td><strong>由 Space 实例组成的元组（更准确地说，是它们的笛卡尔积）。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Tuple">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Tuple&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Tuple.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single random sample inside this space.</strong>&quot;</td>
+<td><strong>在这个空间内部生成一个随机样本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Tuple.sample">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Tuple.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Tuple.seed</strong><br>seed 方法</td>
+<td>&quot;<strong>Seed the PRNG of this space and all subspaces.</strong>&quot;</td>
+<td><strong>为这个空间及其所有子空间的 PRNG 设置种子。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Tuple.seed">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Tuple.seed&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sequence</strong><br>Sequence（序列空间）</td>
+<td>&quot;This space represent <strong>sets of finite-length sequences</strong>.&quot;</td>
+<td>这个空间表示<strong>有限长度序列的集合</strong>。</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Sequence">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Sequence&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sequence.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single random sample from this space.</strong>&quot;</td>
+<td><strong>从这个空间生成一个随机样本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Sequence.sample">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Sequence.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sequence.seed</strong><br>seed 方法</td>
+<td>&quot;<strong>Seed the PRNG of the Sequence space and the feature space.</strong>&quot;</td>
+<td><strong>为 Sequence 空间及其特征空间的 PRNG 设置种子。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Sequence.seed">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Sequence.seed&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Graph</strong><br>Graph（图空间）</td>
+<td>&quot;<strong>A space representing graph information as a series of nodes connected with edges according to an adjacency matrix represented as a series of edge_links.</strong>&quot;</td>
+<td><strong>把图信息表示为一系列节点的空间，节点之间按邻接矩阵用边相连，邻接矩阵表示为一系列 edge_links。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Graph">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Graph&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Graph.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single sample graph</strong> with num_nodes between 1 and 10 sampled from the Graph.&quot;</td>
+<td><strong>生成一个样本图</strong>，从该 Graph 中采样，num_nodes 在 1 到 10 之间。</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Graph.sample">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Graph.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Graph.seed</strong><br>seed 方法</td>
+<td>&quot;<strong>Seeds the PRNG of this space and node / edge subspace.</strong>&quot;</td>
+<td><strong>为这个空间及其节点、边子空间的 PRNG 设置种子。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.Graph.seed">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.Graph.seed&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>OneOf</strong><br>OneOf（多选一空间）</td>
+<td>&quot;<strong>An exclusive tuple (more precisely: the direct sum) of Space instances.</strong>&quot;</td>
+<td><strong>由 Space 实例组成的互斥元组（更准确地说，是它们的直和）。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.OneOf">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.OneOf&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>OneOf.sample</strong><br>sample 方法</td>
+<td>&quot;<strong>Generates a single random sample inside this space.</strong>&quot;</td>
+<td><strong>在这个空间内部生成一个随机样本。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.OneOf.sample">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.OneOf.sample&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>OneOf.seed</strong><br>seed 方法</td>
+<td>&quot;<strong>Seed the PRNG of this space and all subspaces.</strong>&quot;</td>
+<td><strong>为这个空间及其所有子空间的 PRNG 设置种子。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/spaces/composite/#gymnasium.spaces.OneOf.seed">Farama Foundation, n.d.-a, &quot;gymnasium.spaces.OneOf.seed&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Spaces Utils</strong><br>空间工具函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gymnasium.farama.org/api/spaces/utils/">Farama Foundation, n.d.-d, &quot;Spaces Utils&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Farama Foundation. (n.d.-a). <em>Composite Spaces</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/spaces/composite/">https://gymnasium.farama.org/api/spaces/composite/</a></p>
+<p>Farama Foundation. (n.d.-b). <em>Fundamental Spaces</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/spaces/fundamental/">https://gymnasium.farama.org/api/spaces/fundamental/</a></p>
+<p>Farama Foundation. (n.d.-c). <em>Spaces</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/spaces/">https://gymnasium.farama.org/api/spaces/</a></p>
+<p>Farama Foundation. (n.d.-d). <em>Spaces Utils</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/spaces/utils/">https://gymnasium.farama.org/api/spaces/utils/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

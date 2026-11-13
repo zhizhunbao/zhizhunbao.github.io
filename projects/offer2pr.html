@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>Offer2PR | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="A daily-updated Canadian job board with 24,000+ live postings from 30 sources across all 10 provinces, tagged with immigration signals; in English, Chinese and Korean.">
+      <link rel="icon" href="../favicon.svg">
+      <link rel="stylesheet" href="../public/atlas.min.css">
+      <link rel="stylesheet" href="../public/kb.css">
+      <meta name="kb:rel" content="../">
+      <meta name="kb:navrel" content="../toc.html">
+      <meta name="kb:tocrel" content="toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../index.html" aria-label="Peng Wang">
+          <img src="../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="offer2pr">Offer2PR</h1>
+
+<p>A daily-updated Canadian job board with 24,000+ live postings from 30 sources across all 10 provinces, tagged with immigration signals; in English, Chinese and Korean.</p>
+<ul>
+<li><strong>Role:</strong> Founder: AI Agent Development &amp; Operations</li>
+<li><strong>Organization:</strong> offer2pr.com, Ottawa, ON</li>
+<li><strong>Dates:</strong> Jun 2026 – Present</li>
+<li><strong>Stack:</strong> AI agents, Claude API, TypeScript, Next.js, Payload CMS, PostgreSQL, Python, Docker, Render, Cloudflare</li>
+<li><strong>Live site:</strong> <a href="https://offer2pr.com">https://offer2pr.com</a></li>
+<li><strong>Source code:</strong> <a href="https://github.com/zhizhunbao/pnp-job-tracker">https://github.com/zhizhunbao/pnp-job-tracker</a></li>
+</ul>
+<h2 id="what-it-does">What it does</h2>
+<p>A job board for people in Canada who need an employer offer or a provincial nomination on the way to permanent residence. Every posting carries immigration signals:</p>
+<ul>
+<li>a rough PNP eligibility flag (TEER 0–3 or a shortage list)</li>
+<li>pay compared with the median wage for the occupation</li>
+<li>whether the employer is designated or has LMIA history</li>
+</ul>
+<p>The job board filters by province, occupation, pathway and experience. The employer board ranks employers and shows where they are hiring.</p>
+<p><img src="media/offer2pr/jobs.webp" alt="Job board on offer2pr.com"></p>
+<p><em>Job board on offer2pr.com</em></p>
+<p><img src="media/offer2pr/employers.webp" alt="Employer board on offer2pr.com"></p>
+<p><em>Employer board on offer2pr.com</em></p>
+<h2 id="how-its-built">How it's built</h2>
+<ul>
+<li><strong>Python ETL</strong>: crawl → raw → processed → mart, then a loader fills PostgreSQL. Sources include Job Bank (all 10 provinces), Jobillico, Jobboom, GC Jobs, CareerBeacon and selected employer career sites. Jobs refresh every hour.</li>
+<li><strong>Operations</strong>: the ETL runs unattended in Docker on a self-managed host, about 60 containers; see below.</li>
+<li><strong>Web</strong>: Next.js + Payload CMS + PostgreSQL on Render, DNS on Cloudflare.</li>
+<li><strong>CI</strong>: GitHub Actions type-checks and lints every push; a local pre-push hook adds Python lint, type checks and a build.</li>
+</ul>
+<h2 id="ai-agents-in-the-product">AI agents in the product</h2>
+<ul>
+<li><strong>Advisor agent (Aug – Sep 2026).</strong> A tool-calling agent with 9 tools (occupation search, job lookup, draw history, thresholds, points and more). Its rules: it never decides, ranks or computes, and every number in an answer must appear in a tool result. An output gate rewrote drafts that broke the rules, answers cited their sources, and the tool trace streamed to the page. A 24-case gold set plus real user questions served as the evaluation.</li>
+<li><strong>Site guide (live since Sep 2026).</strong> When the advisor was more than the job needed, I replaced it with a two-step guide on Claude Haiku: one structured call routes the question to the right page, and an optional second call answers only from database facts, with daily quotas to cap cost.</li>
+<li><strong>Occupation resolver.</strong> An agent with search, slot-filling and give-up tools that rejects any occupation code the search didn't return, covered by 21 integration tests.</li>
+<li><strong>Cover letters.</strong> One grounded call per job, from the job ad and the chosen résumé, with a switchable model provider and a daily limit.</li>
+</ul>
+<h2 id="how-i-operate-it">How I operate it</h2>
+<ul>
+<li><strong>One unit, one container, one check.</strong> Each ETL unit (about 60) runs in its own container with <code>restart: unless-stopped</code> and its own schedule: Job Bank every hour, the build step right after each Job Bank round, the database backup once a day. A failing unit turns red on its own instead of hiding behind its neighbours.</li>
+<li><strong>Monitoring.</strong> A self-hosted healthchecks service (the hosted free tier stops at 20 checks) has one check per unit. Each unit pings after every successful round and sends an explicit failure, with the error lines, after 30 minutes of continuous failure. A separate freshness check passes only when the whole fleet's data is fresh, and a few checks on hosted healthchecks.io act as the alarm if the whole host goes down. Alerts arrive by email.</li>
+<li><strong>Data safety.</strong> A daily <code>pg_dump</code> of production, with 14 days kept. Crawl ledgers are written only after a clean finish, and the mart has a fuse that holds back incomplete data instead of publishing it.</li>
+<li><strong>Release gates.</strong> A pre-push hook runs ruff, pyrefly, a structure check and eslint; GitHub Actions runs type checks and lint with a suppression baseline that can only shrink. The web app deploys on push to Render, and I confirm each deploy by checking the live <code>/api/version</code> against the commit.</li>
+</ul>
+<h2 id="incidents-and-fixes">Incidents and fixes</h2>
+<ul>
+<li><strong>Missing Job Bank postings (Oct 2026).</strong> An audit of 425 live postings found 28 missing from the board. The parse step was dropping about 350 older rows per round, and postings marked dead never came back. I added a daily full sweep per province and a revive path for postings that reappear. Misses went from 28 to 3 of 425 (2 waiting out a cooldown, 1 truly expired), and open postings went from 63,857 to 73,723.</li>
+<li><strong>Bot-check fallback poisoning the cache (Oct 2026).</strong> When a direct fetch got HTTP 403 and the browser fallback succeeded, the page was still recorded as 403, which invalidated the cache for a whole government site. Fixed the status recording and now reject fallback pages that are only a bot check.</li>
+<li><strong>Slow self-check (Oct 2026).</strong> Reusing the crawl manifest for 30 seconds cut the pathways self-check from 1,376 s to 102 s.</li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-18 18:47:47-04:00">10/18/2026 18:47:47</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

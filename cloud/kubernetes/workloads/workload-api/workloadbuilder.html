@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.5.4 Scheduling Building Block APIs and the workloadbuilder Library | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 4.5.4 Scheduling Building Block APIs and the workloadbuilder Library: 4.5.4.1 Reusable building blocks, 4.5.4.2 The workloadbuilder library.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="454-scheduling-building-block-apis-and-the-workloadbuilder-library">4.5.4 Scheduling Building Block APIs and the workloadbuilder Library</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/workloads-workload-api-workloadbuilder.png" alt="4.5.4 Scheduling Building Block APIs and the workloadbuilder Library: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>4.5.4 Scheduling Building Block APIs and the workloadbuilder Library</strong><br>调度构建块 API 与 workloadbuilder 库</td>
+<td>&quot;Workload-aware Scheduling defines <strong>a set of reusable API <em>building blocks</em></strong> under <strong>the <code>scheduling.k8s.io</code> API group</strong>.&quot;</td>
+<td>工作负载感知调度定义了<strong>一组可复用的 API <em>构建块</em></strong>，位于 <strong><code>scheduling.k8s.io</code> API 组</strong>下。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=Workload-aware%20Scheduling%20defines%20a%20set%20of%20reusable">The Kubernetes Authors, n.d., &quot;Scheduling Building Block APIs and the workloadbuilder Library&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>4.5.4.1 Reusable building blocks</strong><br>可复用的构建块</td>
+<td>&quot;The building blocks are <strong>strongly-typed Go structs</strong> in <strong>the <code>scheduling.k8s.io/v1alpha3</code> API group</strong>.&quot;</td>
+<td>这些构建块是<strong>强类型的 Go 结构体</strong>，位于 <strong><code>scheduling.k8s.io/v1alpha3</code> API 组</strong>中。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=The%20building%20blocks%20are%20strongly-typed%20Go%20structs">The Kubernetes Authors, n.d., &quot;Reusable building blocks&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Scheduling policy</strong><br>调度策略</td>
+<td>&quot;<strong>The scheduling policy block</strong> carries <strong>the same <code>basic</code> and <code>gang</code> policies</strong> as <strong>a PodGroup's <code>spec.schedulingPolicy</code></strong>.&quot;</td>
+<td><strong>调度策略块</strong>携带<strong>同样的 <code>basic</code> 和 <code>gang</code> 策略</strong>，同 <strong>PodGroup 的 <code>spec.schedulingPolicy</code></strong> 一样。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=The%20scheduling%20policy%20block%20carries%20the%20same">The Kubernetes Authors, n.d., &quot;Scheduling policy&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Scheduling constraints</strong><br>调度约束</td>
+<td>&quot;<strong>The scheduling constraints block</strong> carries <strong>the topology constraints</strong> documented in <strong>Topology-aware workload scheduling</strong>&quot;</td>
+<td><strong>调度约束块</strong>携带<strong>拓扑约束</strong>，记载于<strong>拓扑感知工作负载调度</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=The%20scheduling%20constraints%20block%20carries%20the%20topology">The Kubernetes Authors, n.d., &quot;Scheduling constraints&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Disruption mode</strong><br>干扰模式</td>
+<td>&quot;<strong>The disruption mode block</strong> selects whether the group's Pods may be <strong>disrupted individually (<code>single</code>)</strong> or <strong>only as a unit (<code>all</code>)</strong>&quot;</td>
+<td><strong>干扰模式块</strong>选择组内 Pod 是<strong>可以单独被干扰（<code>single</code>）</strong>，还是<strong>只能作为整体被干扰（<code>all</code>）</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=The%20disruption%20mode%20block%20selects%20whether%20the">The Kubernetes Authors, n.d., &quot;Disruption mode&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Resource claims</strong><br>资源申领</td>
+<td>&quot;<strong>The resource claims block</strong> expresses which dynamic resource allocation claims are <strong>shared by every Pod in the group</strong> rather than <strong>allocated per Pod</strong>.&quot;</td>
+<td><strong>资源申领块</strong>表示哪些动态资源分配申领<strong>由组内每个 Pod 共享</strong>，而不是<strong>按 Pod 分别分配</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=The%20resource%20claims%20block%20expresses%20which%20%5Bdynamic">The Kubernetes Authors, n.d., &quot;Resource claims&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>group of groups</strong><br>组的组</td>
+<td>(context) &quot;<strong>Multi-level controllers</strong> that <strong>orchestrate other controllers</strong> (for example, JobSet creating Jobs) <strong>coordinate a <em>group of groups</em></strong>.&quot;</td>
+<td>（语境）<strong>多级控制器</strong>会<strong>编排其他控制器</strong>（例如创建 Job 的 JobSet），它们<strong>协调一个<em>组的组</em></strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=Multi-level%20controllers%20that%20orchestrate%20other%20controllers%20%28for">The Kubernetes Authors, n.d., &quot;Composite building blocks&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.5.4.2 The workloadbuilder library</strong><br>workloadbuilder 库</td>
+<td>&quot;<code>workloadbuilder</code> is <strong>a shared Go library</strong> that <strong>turns a controller's scheduling intent</strong> into <strong>the scheduler-facing Workload and its runtime PodGroup/CompositePodGroup objects</strong>&quot;</td>
+<td><code>workloadbuilder</code> 是<strong>一个共享的 Go 库</strong>，它<strong>转换控制器的调度意图</strong>，得到<strong>面向调度器的 Workload 及其运行时 PodGroup/CompositePodGroup 对象</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=%60workloadbuilder%60%20is%20a%20shared%20Go%20library%20that">The Kubernetes Authors, n.d., &quot;The workloadbuilder library&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>default config</strong><br>默认配置</td>
+<td>&quot;a <em>default config</em>, <strong>the controller's own defaults</strong> for <strong>anything the user leaves unset</strong>.&quot;</td>
+<td><em>默认配置</em>：<strong>控制器自身的默认值</strong>，针对<strong>用户未设置的任何内容</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=a%20%2Adefault%20config%2A%2C%20the%20controller%27s%20own%20defaults">The Kubernetes Authors, n.d., &quot;How a controller uses it&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>input</strong><br>输入</td>
+<td>&quot;an <em>input</em>, <strong>the user's intent</strong> taken from <strong>the controller's API</strong>.&quot;</td>
+<td><em>输入</em>：<strong>用户的意图</strong>，取自<strong>控制器的 API</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=an%20%2Ainput%2A%2C%20the%20user%27s%20intent%20taken%20from">The Kubernetes Authors, n.d., &quot;How a controller uses it&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>callbacks</strong><br>回调</td>
+<td>&quot;<strong>optional <em>callbacks</em></strong>, which <strong>adjust the merged configuration</strong>.&quot;</td>
+<td><strong>可选的<em>回调</em></strong>，用于<strong>调整合并后的配置</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/#:%7E:text=optional%20%2Acallbacks%2A%2C%20which%20adjust%20the%20merged%20configuration.">The Kubernetes Authors, n.d., &quot;How a controller uses it&quot;, para. 4</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Scheduling Building Block APIs and the workloadbuilder Library</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/">https://kubernetes.io/docs/concepts/workloads/workload-api/workloadbuilder/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

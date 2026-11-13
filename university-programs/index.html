@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>University Programs | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="University Programs: the programs and courses of Canadian public universities from their academic calendars, one folder per university; skeleton, definitions pending.">
+      <link rel="icon" href="../favicon.svg">
+      <link rel="stylesheet" href="../public/atlas.min.css">
+      <link rel="stylesheet" href="../public/kb.css">
+      <meta name="kb:rel" content="../">
+      <meta name="kb:navrel" content="../toc.html">
+      <meta name="kb:tocrel" content="toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../index.html" aria-label="Peng Wang">
+          <img src="../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="university-programs">University Programs</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>University Programs</strong><br>大学专业</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.brandonu.ca/calendar/">Brandon University, n.d., &quot;Course calendar&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="mcgill-university/index.html">McGill University</a></strong><br>麦吉尔大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://coursecatalogue.mcgill.ca/en/">McGill University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-toronto/index.html">University of Toronto</a></strong><br>多伦多大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://artsci.calendar.utoronto.ca/">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="the-university-of-british-columbia/index.html">The University of British Columbia</a></strong><br>不列颠哥伦比亚大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://vancouver.calendar.ubc.ca/">The University of British Columbia, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-waterloo/index.html">University of Waterloo</a></strong><br>滑铁卢大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="queens-university/index.html">Queen’s University</a></strong><br>女王大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.queensu.ca/academic-calendar/">Queen’s University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-alberta/index.html">University of Alberta</a></strong><br>阿尔伯塔大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.ualberta.ca/">University of Alberta, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="mcmaster-university/index.html">McMaster University</a></strong><br>麦克马斯特大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://academiccalendars.romcmaster.ca/">McMaster University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-ottawa/index.html">University of Ottawa</a></strong><br>渥太华大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalogue.uottawa.ca/en/undergrad/">University of Ottawa, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-calgary/index.html">University of Calgary</a></strong><br>卡尔加里大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.ucalgary.ca/programs">University of Calgary, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="western-university/index.html">Western University</a></strong><br>西安大略大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.westerncalendar.uwo.ca/">Western University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-laval/index.html">Université Laval</a></strong><br>拉瓦尔大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.ulaval.ca/etudes/programmes">Université Laval, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-de-montreal/index.html">Université de Montréal</a></strong><br>蒙特利尔大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://admission.umontreal.ca/programmes-detudes/">Université de Montréal, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="york-university/index.html">York University</a></strong><br>约克大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendars.students.yorku.ca/">York University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="toronto-metropolitan-university/index.html">Toronto Metropolitan University</a></strong><br>多伦多都会大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.torontomu.ca/calendar/2026-2027/">Toronto Metropolitan University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="concordia-university/index.html">Concordia University</a></strong><br>康考迪亚大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.concordia.ca/academics/undergraduate/calendar.html">Concordia University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="simon-fraser-university/index.html">Simon Fraser University</a></strong><br>西蒙菲莎大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sfu.ca/students/calendar/2027/spring/academic-programs.html">Simon Fraser University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-victoria/index.html">University of Victoria</a></strong><br>维多利亚大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.uvic.ca/calendar/undergrad/index.php">University of Victoria, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="dalhousie-university/index.html">Dalhousie University</a></strong><br>达尔豪斯大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;catalogid=141&amp;loaduseredits=False">Dalhousie University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="carleton-university/index.html">Carleton University</a></strong><br>卡尔顿大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.carleton.ca/undergrad/">Carleton University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-guelph/index.html">University of Guelph</a></strong><br>圭尔夫大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.uoguelph.ca/undergraduate-calendar/">University of Guelph, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-saskatchewan/index.html">University of Saskatchewan</a></strong><br>萨斯喀彻温大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://programs.usask.ca/">University of Saskatchewan, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-manitoba/index.html">University of Manitoba</a></strong><br>曼尼托巴大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://umanitoba.ca/registrar/academic-calendar">University of Manitoba, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-de-sherbrooke/index.html">Université de Sherbrooke</a></strong><br>舍布鲁克大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.usherbrooke.ca/admission/programmes-cours/1er-cycle/">Université de Sherbrooke, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="wilfrid-laurier-university/index.html">Wilfrid Laurier University</a></strong><br>劳里埃大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://academic-calendar.wlu.ca/index_old.php?cal=1&amp;y=93">Wilfrid Laurier University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-du-quebec-a-montreal/index.html">Université du Québec à Montréal</a></strong><br>魁北克大学蒙特利尔分校</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://etudier.uqam.ca/programmes">Université du Québec à Montréal, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="brock-university/index.html">Brock University</a></strong><br>布鲁克大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.brocku.ca/">Brock University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="memorial-university-of-newfoundland/index.html">Memorial University of Newfoundland</a></strong><br>纽芬兰纪念大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.mun.ca/university-calendar/">Memorial University of Newfoundland, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="trent-university/index.html">Trent University</a></strong><br>特伦特大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.trentu.ca/">Trent University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-windsor/index.html">University of Windsor</a></strong><br>温莎大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars">University of Windsor, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="ontario-tech-university/index.html">Ontario Tech University</a></strong><br>安大略理工大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.ontariotechu.ca/">Ontario Tech University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-regina/index.html">University of Regina</a></strong><br>里贾纳大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.uregina.ca/registrar/academic-calendars-and-schedule/undergraduate-calendar.html">University of Regina, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="thompson-rivers-university/index.html">Thompson Rivers University</a></strong><br>汤普森河大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.tru.ca/current/enrolment-services/calendar.html">Thompson Rivers University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="mount-royal-university/index.html">Mount Royal University</a></strong><br>皇家山大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mtroyal.ca/">Mount Royal University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="macewan-university/index.html">MacEwan University</a></strong><br>麦科文大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.macewan.ca/">MacEwan University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="mount-allison-university/index.html">Mount Allison University</a></strong><br>蒙特爱立森大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://mta.ca/academic-calendar">Mount Allison University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-northern-british-columbia/index.html">University of Northern British Columbia</a></strong><br>北英属哥伦比亚大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.unbc.ca/calendar/undergraduate">University of Northern British Columbia, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="st-francis-xavier-university/index.html">St. Francis Xavier University</a></strong><br>圣弗朗西斯泽维尔大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.stfx.ca/applications-admissions/registrars-office/academic-calendar">St. Francis Xavier University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="acadia-university/index.html">Acadia University</a></strong><br>阿卡迪亚大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://registrar.acadiau.ca/AcademicCalendars.html">Acadia University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-new-brunswick/index.html">University of New Brunswick</a></strong><br>新不伦瑞克大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.unb.ca/academics/calendar/undergraduate/current/index.html">University of New Brunswick, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="bishop-s-university/index.html">Bishop's University</a></strong><br>主教大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.ubishops.ca/academics/academic-calendar/">Bishop's University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="saint-mary-s-university/index.html">Saint Mary's University</a></strong><br>圣玛丽大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://smu-ca-public.courseleaf.com/">Saint Mary's University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="lakehead-university/index.html">Lakehead University</a></strong><br>湖首大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://csdc.lakeheadu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog">Lakehead University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-lethbridge/index.html">University of Lethbridge</a></strong><br>莱斯布里奇大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.ulethbridge.ca/sites/ross/calendar/undergraduate/">University of Lethbridge, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-prince-edward-island/index.html">University of Prince Edward Island</a></strong><br>爱德华王子岛大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.upei.ca/current/">University of Prince Edward Island, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="st-thomas-university/index.html">St Thomas University</a></strong><br>圣托马斯大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://stu.ca/registrar/academic-calendar/">St Thomas University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-de-moncton/index.html">Université de Moncton</a></strong><br>蒙克顿大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.umoncton.ca/programmes">Université de Moncton, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-winnipeg/index.html">University of Winnipeg</a></strong><br>温尼伯大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.uwinnipeg.ca/academics/calendar/">University of Winnipeg, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="laurentian-university/index.html">Laurentian University</a></strong><br>劳伦森大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://laurentian.ca/academics/undergraduate-programs">Laurentian University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="nipissing-university/index.html">Nipissing University</a></strong><br>尼皮辛大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://academiccalendar.nipissingu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog">Nipissing University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="brandon-university/index.html">Brandon University</a></strong><br>布兰登大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.brandonu.ca/calendar/">Brandon University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="mount-saint-vincent-university/index.html">Mount Saint Vincent University</a></strong><br>圣文森特山大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.msvu.ca/academics/university-academic-calendars/undergraduate-academic-calendar/">Mount Saint Vincent University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-the-fraser-valley/index.html">University of the Fraser Valley</a></strong><br>菲莎河谷大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.ufv.ca/calendar/current/">University of the Fraser Valley, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="cape-breton-university/index.html">Cape Breton University</a></strong><br>卡普顿大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://pressbooks.atlanticoer-relatlantique.ca/2627version/">Cape Breton University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="algoma-university/index.html">Algoma University</a></strong><br>阿尔戈马大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://algomau.ca/academics/home-of-the-registrar/academic-calendar-2026-2027/">Algoma University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="concordia-university-of-edmonton/index.html">Concordia University of Edmonton</a></strong><br>埃德蒙顿康考迪亚大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://concordia.ab.ca/student-services/registrar/academic-calendar/2026-2027/">Concordia University of Edmonton, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="vancouver-island-university/index.html">Vancouver Island University</a></strong><br>温哥华岛大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.viu.ca/programs/">Vancouver Island University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="alberta-university-of-the-arts/index.html">Alberta University of the Arts</a></strong><br>阿尔伯塔艺术大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.auarts.ca/future-students/academic-calendar">Alberta University of the Arts, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="athabasca-university/index.html">Athabasca University</a></strong><br>阿萨巴斯卡大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.athabascau.ca/calendar/index.html">Athabasca University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="burman-university/index.html">Burman University</a></strong><br>伯曼大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.burmanu.ca/academiccalendar">Burman University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="capilano-university/index.html">Capilano University</a></strong><br>卡皮拉诺大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.capilanou.ca/admissions/course-registration/capilano-university-calendar/capu-calendar-2026-2027/">Capilano University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="emily-carr-university-of-art-design/index.html">Emily Carr University of Art + Design</a></strong><br>艾米丽卡尔艺术与设计大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://ecuad.ca/degree-programs/undergraduate/">Emily Carr University of Art + Design, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="the-king-s-university/index.html">The King's University</a></strong><br>国王大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.kingsu.ca/programs">The King's University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="kwantlen-polytechnic-university/index.html">Kwantlen Polytechnic University</a></strong><br>昆特兰理工大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://calendar.kpu.ca/">Kwantlen Polytechnic University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="nscad-university/index.html">NSCAD University</a></strong><br>新斯科舍艺术与设计大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nscad.ca/student-experience/academic-resources/nscad-academic-calendar/">NSCAD University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="ocad-university/index.html">OCAD University</a></strong><br>安大略艺术设计大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.ocadu.ca/office-of-the-registrar">OCAD University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="royal-roads-university/index.html">Royal Roads University</a></strong><br>皇家路大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.royalroads.ca/programs">Royal Roads University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="st-mary-s-university/index.html">St. Mary's University</a></strong><br>卡尔加里圣玛丽大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://stmu.ca/academics/resources/academic-policies/">St. Mary's University, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-de-hearst/index.html">Université de Hearst</a></strong><br>赫斯特大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uhearst.ca/etudiantes-et-etudiants/calendrier-universitaire-1er-cycle/">Université de Hearst, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-de-l-ontario-francais/index.html">Université de l'Ontario français</a></strong><br>安大略法语大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://jetudie.uontario.ca/registrariat/annuaire-universitaire">Université de l'Ontario français, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-de-saint-boniface/index.html">Université de Saint-Boniface</a></strong><br>圣博尼法斯大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://ustboniface.ca/annuaire2026">Université de Saint-Boniface, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-du-quebec-a-chicoutimi/index.html">Université du Québec à Chicoutimi</a></strong><br>魁北克大学希库蒂米分校</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.uqac.ca/programmes/">Université du Québec à Chicoutimi, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-du-quebec-a-rimouski/index.html">Université du Québec à Rimouski</a></strong><br>魁北克大学里穆斯基分校</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.uqar.ca/programmes-formations-et-admission/programmes-detudes/">Université du Québec à Rimouski, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-du-quebec-a-trois-rivieres/index.html">Université du Québec à Trois-Rivières</a></strong><br>魁北克大学三河分校</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://oraprdnt.uqtr.uquebec.ca/portail/triw084.afficher">Université du Québec à Trois-Rivières, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-du-quebec-en-abitibi-temiscamingue/index.html">Université du Québec en Abitibi-Témiscamingue</a></strong><br>魁北克大学阿比蒂比-特米斯卡明格分校</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.uqat.ca/etudes/">Université du Québec en Abitibi-Témiscamingue, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-du-quebec-en-outaouais/index.html">Université du Québec en Outaouais</a></strong><br>魁北克大学乌塔奥韦分校</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uqo.ca/recherche-programmes?cycle%5B0%5D=1er&amp;trimestre_all=1&amp;regime=&amp;lieu=&amp;contingente=">Université du Québec en Outaouais, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-sainte-anne/index.html">Université Sainte-Anne</a></strong><br>圣安妮大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.usainteanne.ca/etudes/annuaire">Université Sainte-Anne, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="universite-teluq/index.html">Université TÉLUQ</a></strong><br>魁北克远程大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.teluq.ca/etudes/programmes">Université TÉLUQ, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-college-of-the-north/index.html">University College of the North</a></strong><br>北方大学学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://ucn.ca/registrars-office/academic-calendars">University College of the North, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="university-of-king-s-college/index.html">University of King's College</a></strong><br>国王学院大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://academiccalendar.ukings.ca/">University of King's College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="yukon-university/index.html">Yukon University</a></strong><br>育空大学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.yukonu.ca/programs">Yukon University, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Acadia University. (n.d.). <em>Academic calendars</em>. Retrieved November 10, 2026, from <a href="https://registrar.acadiau.ca/AcademicCalendars.html">https://registrar.acadiau.ca/AcademicCalendars.html</a></p>
+<p>Alberta University of the Arts. (n.d.). <em>Academic calendar</em>. Retrieved November 10, 2026, from <a href="https://www.auarts.ca/future-students/academic-calendar">https://www.auarts.ca/future-students/academic-calendar</a></p>
+<p>Algoma University. (n.d.). <em>Academic calendar: Undergrad</em>. Retrieved November 10, 2026, from <a href="https://algomau.ca/academics/home-of-the-registrar/academic-calendar-2026-2027/">https://algomau.ca/academics/home-of-the-registrar/academic-calendar-2026-2027/</a></p>
+<p>Athabasca University. (n.d.). <em>Calendar</em>. Retrieved November 10, 2026, from <a href="https://www.athabascau.ca/calendar/index.html">https://www.athabascau.ca/calendar/index.html</a></p>
+<p>Bishop's University. (n.d.). <em>Academic calendar</em>. Retrieved November 10, 2026, from <a href="https://www.ubishops.ca/academics/academic-calendar/">https://www.ubishops.ca/academics/academic-calendar/</a></p>
+<p>Brandon University. (n.d.). <em>Course calendar</em>. Retrieved November 10, 2026, from <a href="https://www.brandonu.ca/calendar/">https://www.brandonu.ca/calendar/</a></p>
+<p>Brock University. (n.d.). <em>Academic calendar</em>. Retrieved November 10, 2026, from <a href="https://calendar.brocku.ca/">https://calendar.brocku.ca/</a></p>
+<p>Burman University. (n.d.). <em>Academic calendar: Current &amp; previous years</em>. Retrieved November 10, 2026, from <a href="https://www.burmanu.ca/academiccalendar">https://www.burmanu.ca/academiccalendar</a></p>
+<p>Cape Breton University. (n.d.). <em>CBU academic calendar 2026-2027</em>. Retrieved November 10, 2026, from <a href="https://pressbooks.atlanticoer-relatlantique.ca/2627version/">https://pressbooks.atlanticoer-relatlantique.ca/2627version/</a></p>
+<p>Capilano University. (n.d.). <em>CapU calendar 2026-2027</em>. Retrieved November 10, 2026, from <a href="https://www.capilanou.ca/admissions/course-registration/capilano-university-calendar/capu-calendar-2026-2027/">https://www.capilanou.ca/admissions/course-registration/capilano-university-calendar/capu-calendar-2026-2027/</a></p>
+<p>Carleton University. (n.d.). <em>2026-27 undergraduate calendar</em>. Retrieved November 10, 2026, from <a href="https://calendar.carleton.ca/undergrad/">https://calendar.carleton.ca/undergrad/</a></p>
+<p>Concordia University. (n.d.). <em>Undergraduate calendar</em>. Retrieved November 10, 2026, from <a href="https://www.concordia.ca/academics/undergraduate/calendar.html">https://www.concordia.ca/academics/undergraduate/calendar.html</a></p>
+<p>Concordia University of Edmonton. (n.d.). <em>2026-2027</em>. Retrieved November 10, 2026, from <a href="https://concordia.ab.ca/student-services/registrar/academic-calendar/2026-2027/">https://concordia.ab.ca/student-services/registrar/academic-calendar/2026-2027/</a></p>
+<p>Dalhousie University. (n.d.). <em>Dalhousie academic calendars</em>. Retrieved November 10, 2026, from <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;catalogid=141&amp;loaduseredits=False">https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;catalogid=141&amp;loaduseredits=False</a></p>
+<p>Emily Carr University of Art + Design. (n.d.). <em>Undergraduate programs</em>. Retrieved November 10, 2026, from <a href="https://ecuad.ca/degree-programs/undergraduate/">https://ecuad.ca/degree-programs/undergraduate/</a></p>
+<p>Kwantlen Polytechnic University. (n.d.). <em>University calendar</em>. Retrieved November 10, 2026, from <a href="https://calendar.kpu.ca/">https://calendar.kpu.ca/</a></p>
+<p>Lakehead University. (n.d.). <em>Catalog: View catalog</em>. Retrieved November 10, 2026, from <a href="https://csdc.lakeheadu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog">https://csdc.lakeheadu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog</a></p>
+<p>Laurentian University. (n.d.). <em>Undergraduate programs</em>. Retrieved November 10, 2026, from <a href="https://laurentian.ca/academics/undergraduate-programs">https://laurentian.ca/academics/undergraduate-programs</a></p>
+<p>MacEwan University. (n.d.). <em>MacEwan University 2027-2028 academic calendar</em>. Retrieved November 10, 2026, from <a href="https://calendar.macewan.ca/">https://calendar.macewan.ca/</a></p>
+<p>McGill University. (n.d.). <em>Welcome to the McGill Course Catalogue</em>. Retrieved November 10, 2026, from <a href="https://coursecatalogue.mcgill.ca/en/">https://coursecatalogue.mcgill.ca/en/</a></p>
+<p>McMaster University. (n.d.). [Academic calendars]. Retrieved November 10, 2026, from <a href="https://academiccalendars.romcmaster.ca/">https://academiccalendars.romcmaster.ca/</a></p>
+<p>Memorial University of Newfoundland. (n.d.). <em>2026-2027 university calendar</em>. Retrieved November 10, 2026, from <a href="https://www.mun.ca/university-calendar/">https://www.mun.ca/university-calendar/</a></p>
+<p>Mount Allison University. (n.d.). <em>Academic calendar</em>. Retrieved November 10, 2026, from <a href="https://mta.ca/academic-calendar">https://mta.ca/academic-calendar</a></p>
+<p>Mount Royal University. (n.d.). <em>Mount Royal 2026-2027 academic calendar</em>. Retrieved November 10, 2026, from <a href="https://catalog.mtroyal.ca/">https://catalog.mtroyal.ca/</a></p>
+<p>Mount Saint Vincent University. (n.d.). <em>Undergraduate academic calendar</em>. Retrieved November 10, 2026, from <a href="https://www.msvu.ca/academics/university-academic-calendars/undergraduate-academic-calendar/">https://www.msvu.ca/academics/university-academic-calendars/undergraduate-academic-calendar/</a></p>
+<p>Nipissing University. (n.d.). <em>Academic calendar 2026/2027</em>. Retrieved November 10, 2026, from <a href="https://academiccalendar.nipissingu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog">https://academiccalendar.nipissingu.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog</a></p>
+<p>NSCAD University. (n.d.). <em>NSCAD academic calendar</em>. Retrieved November 10, 2026, from <a href="https://nscad.ca/student-experience/academic-resources/nscad-academic-calendar/">https://nscad.ca/student-experience/academic-resources/nscad-academic-calendar/</a></p>
+<p>OCAD University. (n.d.). <em>Office of the Registrar</em>. Retrieved November 10, 2026, from <a href="https://www.ocadu.ca/office-of-the-registrar">https://www.ocadu.ca/office-of-the-registrar</a></p>
+<p>Ontario Tech University. (n.d.). [Undergraduate academic calendar]. Retrieved November 10, 2026, from <a href="https://calendar.ontariotechu.ca/">https://calendar.ontariotechu.ca/</a></p>
+<p>Queen’s University. (n.d.). <em>Queen's University academic calendar</em>. Retrieved November 10, 2026, from <a href="https://www.queensu.ca/academic-calendar/">https://www.queensu.ca/academic-calendar/</a></p>
+<p>Royal Roads University. (n.d.). <em>Programs</em>. Retrieved November 10, 2026, from <a href="https://www.royalroads.ca/programs">https://www.royalroads.ca/programs</a></p>
+<p>Saint Mary's University. (n.d.). [Academic calendar]. Retrieved November 10, 2026, from <a href="https://smu-ca-public.courseleaf.com/">https://smu-ca-public.courseleaf.com/</a></p>
+<p>Simon Fraser University. (n.d.). <em>Academic programs: Spring calendar</em>. Retrieved November 10, 2026, from <a href="https://www.sfu.ca/students/calendar/2027/spring/academic-programs.html">https://www.sfu.ca/students/calendar/2027/spring/academic-programs.html</a></p>
+<p>St Thomas University. (n.d.). <em>Academic calendar</em>. Retrieved November 10, 2026, from <a href="https://stu.ca/registrar/academic-calendar/">https://stu.ca/registrar/academic-calendar/</a></p>
+<p>St. Francis Xavier University. (n.d.). <em>Academic calendars</em>. Retrieved November 10, 2026, from <a href="https://www.stfx.ca/applications-admissions/registrars-office/academic-calendar">https://www.stfx.ca/applications-admissions/registrars-office/academic-calendar</a></p>
+<p>St. Mary's University. (n.d.). <em>Academic calendar &amp; policies</em>. Retrieved November 10, 2026, from <a href="https://stmu.ca/academics/resources/academic-policies/">https://stmu.ca/academics/resources/academic-policies/</a></p>
+<p>The King's University. (n.d.). <em>Undergraduate programs &amp; certificates</em>. Retrieved November 10, 2026, from <a href="https://www.kingsu.ca/programs">https://www.kingsu.ca/programs</a></p>
+<p>The University of British Columbia. (n.d.). <em>UBC academic calendar</em>. Retrieved November 10, 2026, from <a href="https://vancouver.calendar.ubc.ca/">https://vancouver.calendar.ubc.ca/</a></p>
+<p>Thompson Rivers University. (n.d.). <em>Academic calendar</em>. Retrieved November 10, 2026, from <a href="https://www.tru.ca/current/enrolment-services/calendar.html">https://www.tru.ca/current/enrolment-services/calendar.html</a></p>
+<p>Toronto Metropolitan University. (n.d.). <em>2026-2027 calendar</em>. Retrieved November 10, 2026, from <a href="https://www.torontomu.ca/calendar/2026-2027/">https://www.torontomu.ca/calendar/2026-2027/</a></p>
+<p>Trent University. (n.d.). <em>Trent University catalog</em>. Retrieved November 10, 2026, from <a href="https://calendar.trentu.ca/">https://calendar.trentu.ca/</a></p>
+<p>Université de Hearst. (n.d.). <em>Calendrier universitaire 1er cycle</em>. Retrieved November 10, 2026, from <a href="https://uhearst.ca/etudiantes-et-etudiants/calendrier-universitaire-1er-cycle/">https://uhearst.ca/etudiantes-et-etudiants/calendrier-universitaire-1er-cycle/</a></p>
+<p>Université de l'Ontario français. (n.d.). <em>L'annuaire universitaire</em>. Retrieved November 10, 2026, from <a href="https://jetudie.uontario.ca/registrariat/annuaire-universitaire">https://jetudie.uontario.ca/registrariat/annuaire-universitaire</a></p>
+<p>Université de Moncton. (n.d.). <em>Baccalauréats et autres programmes de 1er cycle</em>. Retrieved November 10, 2026, from <a href="https://www.umoncton.ca/programmes">https://www.umoncton.ca/programmes</a></p>
+<p>Université de Montréal. (n.d.). <em>Nos programmes d'études</em>. Retrieved November 10, 2026, from <a href="https://admission.umontreal.ca/programmes-detudes/">https://admission.umontreal.ca/programmes-detudes/</a></p>
+<p>Université de Saint-Boniface. (n.d.). <em>Annuaire 2026</em>. Retrieved November 10, 2026, from <a href="https://ustboniface.ca/annuaire2026">https://ustboniface.ca/annuaire2026</a></p>
+<p>Université de Sherbrooke. (n.d.). <em>1er cycle: Programmes et admission</em>. Retrieved November 10, 2026, from <a href="https://www.usherbrooke.ca/admission/programmes-cours/1er-cycle/">https://www.usherbrooke.ca/admission/programmes-cours/1er-cycle/</a></p>
+<p>Université du Québec à Chicoutimi. (n.d.). <em>Programmes</em>. Retrieved November 10, 2026, from <a href="https://www.uqac.ca/programmes/">https://www.uqac.ca/programmes/</a></p>
+<p>Université du Québec à Montréal. (n.d.). [Programmes et cours]. Retrieved November 10, 2026, from <a href="https://etudier.uqam.ca/programmes">https://etudier.uqam.ca/programmes</a></p>
+<p>Université du Québec à Rimouski. (n.d.). <em>Résultats de recherche de programmes</em>. Retrieved November 10, 2026, from <a href="https://www.uqar.ca/programmes-formations-et-admission/programmes-detudes/">https://www.uqar.ca/programmes-formations-et-admission/programmes-detudes/</a></p>
+<p>Université du Québec à Trois-Rivières. (n.d.). <em>Répertoire des programmes</em>. Retrieved November 10, 2026, from <a href="https://oraprdnt.uqtr.uquebec.ca/portail/triw084.afficher">https://oraprdnt.uqtr.uquebec.ca/portail/triw084.afficher</a></p>
+<p>Université du Québec en Abitibi-Témiscamingue. (n.d.). <em>Les études</em>. Retrieved November 10, 2026, from <a href="https://www.uqat.ca/etudes/">https://www.uqat.ca/etudes/</a></p>
+<p>Université du Québec en Outaouais. (n.d.). <em>Découvrez nos programmes d'études</em>. Retrieved November 10, 2026, from <a href="https://uqo.ca/recherche-programmes?cycle%5B0%5D=1er&amp;trimestre_all=1&amp;regime=&amp;lieu=&amp;contingente=">https://uqo.ca/recherche-programmes?cycle%5B0%5D=1er&amp;trimestre_all=1&amp;regime=&amp;lieu=&amp;contingente=</a></p>
+<p>Université Laval. (n.d.). <em>Trouvez votre programme d'études</em>. Retrieved November 10, 2026, from <a href="https://www.ulaval.ca/etudes/programmes">https://www.ulaval.ca/etudes/programmes</a></p>
+<p>Université Sainte-Anne. (n.d.). <em>Annuaire</em>. Retrieved November 10, 2026, from <a href="https://www.usainteanne.ca/etudes/annuaire">https://www.usainteanne.ca/etudes/annuaire</a></p>
+<p>Université TÉLUQ. (n.d.). <em>Programmes</em>. Retrieved November 10, 2026, from <a href="https://www.teluq.ca/etudes/programmes">https://www.teluq.ca/etudes/programmes</a></p>
+<p>University College of the North. (n.d.). <em>Registrar's Office</em>. Retrieved November 10, 2026, from <a href="https://ucn.ca/registrars-office/academic-calendars">https://ucn.ca/registrars-office/academic-calendars</a></p>
+<p>University of Alberta. (n.d.). [University calendar]. Retrieved November 10, 2026, from <a href="https://calendar.ualberta.ca/">https://calendar.ualberta.ca/</a></p>
+<p>University of Calgary. (n.d.). <em>Programs</em>. Retrieved November 10, 2026, from <a href="https://calendar.ucalgary.ca/programs">https://calendar.ucalgary.ca/programs</a></p>
+<p>University of Guelph. (n.d.). <em>Undergraduate calendar</em>. Retrieved November 10, 2026, from <a href="https://calendar.uoguelph.ca/undergraduate-calendar/">https://calendar.uoguelph.ca/undergraduate-calendar/</a></p>
+<p>University of King's College. (n.d.). <em>University of King's College academic calendar</em>. Retrieved November 10, 2026, from <a href="https://academiccalendar.ukings.ca/">https://academiccalendar.ukings.ca/</a></p>
+<p>University of Lethbridge. (n.d.). <em>Undergraduate calendar (2026/2027)</em>. Retrieved November 10, 2026, from <a href="https://www.ulethbridge.ca/sites/ross/calendar/undergraduate/">https://www.ulethbridge.ca/sites/ross/calendar/undergraduate/</a></p>
+<p>University of Manitoba. (n.d.). <em>Academic calendar</em>. Retrieved November 10, 2026, from <a href="https://umanitoba.ca/registrar/academic-calendar">https://umanitoba.ca/registrar/academic-calendar</a></p>
+<p>University of New Brunswick. (n.d.). <em>Undergraduate calendar</em>. Retrieved November 10, 2026, from <a href="https://www.unb.ca/academics/calendar/undergraduate/current/index.html">https://www.unb.ca/academics/calendar/undergraduate/current/index.html</a></p>
+<p>University of Northern British Columbia. (n.d.). <em>Undergraduate calendar</em>. Retrieved November 10, 2026, from <a href="https://www.unbc.ca/calendar/undergraduate">https://www.unbc.ca/calendar/undergraduate</a></p>
+<p>University of Ottawa. (n.d.). <em>Undergraduate programs</em>. Retrieved November 10, 2026, from <a href="https://catalogue.uottawa.ca/en/undergrad/">https://catalogue.uottawa.ca/en/undergrad/</a></p>
+<p>University of Prince Edward Island. (n.d.). <em>UPEI calendar 2026-2027</em>. Retrieved November 10, 2026, from <a href="https://calendar.upei.ca/current/">https://calendar.upei.ca/current/</a></p>
+<p>University of Regina. (n.d.). <em>Undergraduate calendar</em>. Retrieved November 10, 2026, from <a href="https://www.uregina.ca/registrar/academic-calendars-and-schedule/undergraduate-calendar.html">https://www.uregina.ca/registrar/academic-calendars-and-schedule/undergraduate-calendar.html</a></p>
+<p>University of Saskatchewan. (n.d.). <em>Course and program catalogue: University catalogue 2026-27</em>. Retrieved November 10, 2026, from <a href="https://programs.usask.ca/">https://programs.usask.ca/</a></p>
+<p>University of the Fraser Valley. (n.d.). <em>Academic calendar 2026/27</em>. Retrieved November 10, 2026, from <a href="https://www.ufv.ca/calendar/current/">https://www.ufv.ca/calendar/current/</a></p>
+<p>University of Toronto. (n.d.). <em>2026-27 academic calendar</em>. Retrieved November 10, 2026, from <a href="https://artsci.calendar.utoronto.ca/">https://artsci.calendar.utoronto.ca/</a></p>
+<p>University of Victoria. (n.d.). <em>Undergraduate calendar</em>. Retrieved November 10, 2026, from <a href="https://www.uvic.ca/calendar/undergrad/index.php">https://www.uvic.ca/calendar/undergrad/index.php</a></p>
+<p>University of Waterloo. (n.d.). <em>Undergraduate studies</em>. Retrieved November 10, 2026, from <a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog">https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog</a></p>
+<p>University of Windsor. (n.d.). <em>Academic calendars</em>. Retrieved November 10, 2026, from <a href="https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars">https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars</a></p>
+<p>University of Winnipeg. (n.d.). <em>Academic calendar</em>. Retrieved November 10, 2026, from <a href="https://www.uwinnipeg.ca/academics/calendar/">https://www.uwinnipeg.ca/academics/calendar/</a></p>
+<p>Vancouver Island University. (n.d.). <em>Programs and courses</em>. Retrieved November 10, 2026, from <a href="https://www.viu.ca/programs/">https://www.viu.ca/programs/</a></p>
+<p>Western University. (n.d.). <em>Academic calendar</em>. Retrieved November 10, 2026, from <a href="https://www.westerncalendar.uwo.ca/">https://www.westerncalendar.uwo.ca/</a></p>
+<p>Wilfrid Laurier University. (n.d.). <em>Undergraduate academic calendar 2026/2027</em>. Retrieved November 10, 2026, from <a href="https://academic-calendar.wlu.ca/index_old.php?cal=1&amp;y=93">https://academic-calendar.wlu.ca/index_old.php?cal=1&amp;y=93</a></p>
+<p>York University. (n.d.). <em>2026-2027 academic calendar</em>. Retrieved November 10, 2026, from <a href="https://calendars.students.yorku.ca/">https://calendars.students.yorku.ca/</a></p>
+<p>Yukon University. (n.d.). <em>Programs &amp; courses</em>. Retrieved November 10, 2026, from <a href="https://www.yukonu.ca/programs">https://www.yukonu.ca/programs</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 17:34:09-05:00">11/11/2026 17:34:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

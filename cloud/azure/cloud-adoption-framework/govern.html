@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>26.5 Govern | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 26.5 Govern: Build governance team, Assess risks, Document policies, Enforce policies, Monitor compliance.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="265-govern">26.5 Govern</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/govern.png" alt="Govern, in its sections: Build governance team, Assess risks, Document policies, Enforce policies, Monitor compliance."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Govern</strong><br>治理<br>(retired 2019–2023: the Five Disciplines of Cloud Governance: Cost Management, Security Baseline, Identity Baseline, Resource Consistency, Deployment Acceleration; <a href="https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a535116/docs/govern/governance-disciplines.md">Microsoft, 2022</a>)</td>
+<td>&quot;<strong>Cloud governance</strong> is how an organization <strong>controls its use of cloud services by establishing guardrails</strong>.&quot;</td>
+<td><strong>云治理</strong>是组织<strong>通过建立防护措施来控制其云服务使用</strong>的方式。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team#:%7E:text=Cloud%20governance%20is%20how%20an%20organization%20controls%20its">Microsoft, 2026b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Build governance team</strong><br>组建治理团队</td>
+<td>(context) &quot;The first step is to <strong>establish a dedicated cloud governance team</strong> to <strong>oversee cloud governance across the organization</strong>.&quot;</td>
+<td>（语境）第一步是<strong>建立专门的云治理团队</strong>，<strong>在整个组织中监督云治理</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team#:%7E:text=establish%20a%20dedicated%20cloud%20governance%20team">Microsoft, 2026b, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Assess risks</strong><br>评估风险</td>
+<td>&quot;A &quot;risk&quot; in this context is <strong>any potential unwanted outcome</strong>, such as a security breach, compliance violation, service outage, or cost overrun, that could result from <strong>how the cloud is used</strong>.&quot;</td>
+<td>此处的&quot;风险&quot;指<strong>任何潜在的不良后果</strong>，例如安全漏洞、合规违规、服务中断或成本超支，这些后果可能源于<strong>云的使用方式</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/assess-cloud-risks#:%7E:text=is%20any%20potential%20unwanted%20outcome">Microsoft, 2026a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Document policies</strong><br>记录策略</td>
+<td>(context) &quot;For each significant risk or group of risks, there should be <strong>one or more corresponding governance policies</strong>.&quot;</td>
+<td>（语境）对于每个重大风险或每组风险，都应有<strong>一个或多个相应的治理策略</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/document-cloud-governance-policies#:%7E:text=there%20should%20be%20one%20or%20more%20corresponding%20governance%20policies">Microsoft, 2026c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Enforce policies</strong><br>执行策略</td>
+<td>&quot;<strong>Cloud governance enforcement</strong> means <strong>implementing controls, processes, and tools</strong> so that <strong>cloud usage adheres to the governance policies</strong>.&quot;</td>
+<td><strong>云治理执行</strong>是指<strong>实施控制、流程和工具</strong>，使<strong>云的使用遵守治理策略</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/enforce-cloud-governance-policies#:%7E:text=Cloud%20governance%20enforcement%20means%20implementing%20controls">Microsoft, 2026d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Monitor compliance</strong><br>监视合规性</td>
+<td>&quot;Monitoring is about <strong>continuously measuring how well the cloud environment complies with your governance policies</strong> and <strong>detecting when it becomes noncompliant</strong> with those policies.&quot;</td>
+<td>监视就是<strong>持续衡量云环境遵守治理策略的程度</strong>，并<strong>检测它何时变得不合规</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/monitor-cloud-governance#:%7E:text=Monitoring%20is%20about%20continuously%20measuring">Microsoft, 2026e, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2022, January 28). <em>The Five Disciplines of Cloud Governance</em> [Retired Cloud Adoption Framework page; source file at commit a535116]. GitHub, MicrosoftDocs/cloud-adoption-framework. <a href="https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a535116/docs/govern/governance-disciplines.md">https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/a535116/docs/govern/governance-disciplines.md</a></li>
+<li>Microsoft. (2026a, March 9). <em>Assess cloud risks</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/assess-cloud-risks">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/assess-cloud-risks</a></li>
+<li>Microsoft. (2026b, October 1). <em>Build a cloud governance team</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team</a></li>
+<li>Microsoft. (2026c, June 25). <em>Document cloud governance policies</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/document-cloud-governance-policies">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/document-cloud-governance-policies</a></li>
+<li>Microsoft. (2026d, October 1). <em>Enforce cloud governance policies</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/enforce-cloud-governance-policies">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/enforce-cloud-governance-policies</a></li>
+<li>Microsoft. (2026e, June 25). <em>Monitor cloud compliance</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/monitor-cloud-governance">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/monitor-cloud-governance</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 17:51:06-05:00">11/03/2026 17:51:06</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.45 Computer Systems Technology | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="College Programs &gt; British Columbia Institute of Technology &gt; Computer Systems Technology: the courses of the program; skeleton, definition pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="445-computer-systems-technology">4.45 Computer Systems Technology</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Computer Systems Technology</strong><br>计算机系统技术</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Business Communications 1</strong><br>商务沟通 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>CST Program Fundamentals</strong><br>CST 专业基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Mathematics</strong><br>应用数学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Programming Methods</strong><br>编程方法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Web Development 1</strong><br>Web 开发 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Business Analysis and System Design</strong><br>商业分析与系统设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projects 1</strong><br>项目 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Web Development 2*</strong><br>Web 开发 2*</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projects 2*</strong><br>项目 2*</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Business Communications 2</strong><br>商务沟通 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Discrete Mathematics</strong><br>离散数学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Procedural Programming</strong><br>过程式编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Object Oriented Programming 1</strong><br>面向对象编程 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Relational Database Systems</strong><br>关系数据库系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Organization/Architecture</strong><br>计算机组成/体系结构</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Object Oriented Programming 2</strong><br>面向对象编程 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mobile Development with Android Technologies</strong><br>Android 技术移动开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Data Communications</strong><br>数据通信导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Algorithm Analysis and Design</strong><br>算法分析与设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Probability and Statistics</strong><br>应用概率与统计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projects Practicum 1*</strong><br>项目实习 1*</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Artificial Intelligence</strong><br>人工智能导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Client/Server Systems Development Fundamentals</strong><br>客户端/服务器系统开发基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cloud Computing Platforms</strong><br>云计算平台</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Server-Side Web Scripting</strong><br>服务器端网页脚本编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Database Systems 1</strong><br>数据库系统 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Network Protocol Design and Implementation</strong><br>网络协议设计与实现</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Digital Image, Video and Audio Fundamentals</strong><br>数字图像、视频与音频基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Full-Stack Development for Enterprise Systems</strong><br>企业系统全栈开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Predictive Modelling</strong><br>预测建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Functional Programming</strong><br>函数式编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Ideation</strong><br>创意构思</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Selected Topics in Application Development</strong><br>应用开发专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Internet Software Architecture*</strong><br>互联网软件架构*</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Operating Systems</strong><br>操作系统导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Ethics for Computing Professionals*</strong><br>计算机专业人员伦理*</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projects Practicum 1**</strong><br>项目实习 1**</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Projects Practicum 2**</strong><br>项目实习 2**</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Machine Learning</strong><br>机器学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Selected Topics in Artificial Intelligence and Machine Learning</strong><br>人工智能与机器学习专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Client/Server Systems Quality Control</strong><br>客户端/服务器系统质量控制</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Distributed Software Architectures</strong><br>分布式软件架构</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>DevOps Engineering</strong><br>DevOps 工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Serverless Computing and Microservices</strong><br>无服务器计算与微服务</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Web Application Development with Microsoft Technologies</strong><br>基于微软技术的 Web 应用开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mobile Development with Apple Technologies</strong><br>Apple 技术移动开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Database Systems 2</strong><br>数据库系统 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Selected Topics in Database Systems</strong><br>数据库系统专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Network Applications Development</strong><br>高级网络应用开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Selected Topics in Data Communications/Internetworking</strong><br>数据通信与网络互联专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Selected Topics in Digital Processing</strong><br>数字处理专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Gaming Systems</strong><br>游戏系统</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Intranet Planning and Development</strong><br>内部网规划与开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Developing Enterprise Service</strong><br>企业服务开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>System Administration</strong><br>系统管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Predictive Machine Learning</strong><br>预测性机器学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Big Data Analytics Methods</strong><br>大数据分析方法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Concurrent Programming</strong><br>并发编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Selected Application of Programming Paradigms</strong><br>编程范式选讲应用</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>UX/UI Design and Prototyping</strong><br>UX/UI 设计与原型制作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Minimal Viable Product (MVP)</strong><br>最小可行产品（MVP）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Business Plan</strong><br>商业计划</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Pitching and Positioning</strong><br>推介与定位</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>HCI for Application Development</strong><br>应用开发人机交互</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Software Engineering</strong><br>软件工程导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cooperative Education Workterm 1</strong><br>带薪实习工作学期 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cooperative Education Workterm 2</strong><br>带薪实习工作学期 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Type</th>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>First Year - Level 1</td>
+<td></td>
+<td>COMM 1116</td>
+<td>Business Communications 1</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 1</td>
+<td></td>
+<td>COMP 1100</td>
+<td>CST Program Fundamentals</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 1</td>
+<td></td>
+<td>COMP 1113</td>
+<td>Applied Mathematics</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 1</td>
+<td></td>
+<td>COMP 1510</td>
+<td>Programming Methods</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 1</td>
+<td></td>
+<td>COMP 1537</td>
+<td>Web Development 1</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 1</td>
+<td></td>
+<td>COMP 1712</td>
+<td>Business Analysis and System Design</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 1</td>
+<td></td>
+<td>COMP 1800</td>
+<td>Projects 1</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 1 / Level 1B - January term (5 weeks, April - May)</td>
+<td></td>
+<td>COMP 2537</td>
+<td>Web Development 2*</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 1 / Level 1B - January term (5 weeks, April - May)</td>
+<td></td>
+<td>COMP 2800</td>
+<td>Projects 2*</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 2</td>
+<td></td>
+<td>COMM 2216</td>
+<td>Business Communications 2</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 2</td>
+<td></td>
+<td>COMP 2121</td>
+<td>Discrete Mathematics</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 2</td>
+<td></td>
+<td>COMP 2510</td>
+<td>Procedural Programming</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 2</td>
+<td></td>
+<td>COMP 2522</td>
+<td>Object Oriented Programming 1</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 2</td>
+<td></td>
+<td>COMP 2714</td>
+<td>Relational Database Systems</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 2</td>
+<td></td>
+<td>COMP 2721</td>
+<td>Computer Organization/Architecture</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 2 / Level 2B - January term (5 weeks, April - May)</td>
+<td></td>
+<td>COMP 2537</td>
+<td>Web Development 2*</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>First Year - Level 2 / Level 2B - January term (5 weeks, April - May)</td>
+<td></td>
+<td>COMP 2800</td>
+<td>Projects 2*</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3</td>
+<td></td>
+<td>COMP 3522</td>
+<td>Object Oriented Programming 2</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3</td>
+<td></td>
+<td>COMP 3717</td>
+<td>Mobile Development with Android Technologies</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3</td>
+<td></td>
+<td>COMP 3721</td>
+<td>Introduction to Data Communications</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3</td>
+<td></td>
+<td>COMP 3760</td>
+<td>Algorithm Analysis and Design</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3</td>
+<td></td>
+<td>MATH 3042</td>
+<td>Applied Probability and Statistics</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Level 3B - January term (5 weeks, April - May)</td>
+<td></td>
+<td>COMP 3800</td>
+<td>Projects Practicum 1*</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Artificial Intelligence and Machine Learning Option</td>
+<td></td>
+<td>COMP 3981</td>
+<td>Introduction to Artificial Intelligence</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Client/Server Option</td>
+<td></td>
+<td>COMP 3940</td>
+<td>Client/Server Systems Development Fundamentals</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Cloud Computing Option</td>
+<td></td>
+<td>COMP 3962</td>
+<td>Cloud Computing Platforms</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Combined (Web and Mobile) Option</td>
+<td></td>
+<td>COMP 3975</td>
+<td>Server-Side Web Scripting</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Database Option</td>
+<td></td>
+<td>COMP 3920</td>
+<td>Database Systems 1</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Data Communications and Internetworking Option</td>
+<td></td>
+<td>COMP 3980</td>
+<td>Network Protocol Design and Implementation</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Digital Processing Option</td>
+<td></td>
+<td>COMP 3931</td>
+<td>Digital Image, Video and Audio Fundamentals</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Information Systems Option</td>
+<td></td>
+<td>COMP 3910</td>
+<td>Full-Stack Development for Enterprise Systems</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Predictive Analytics Option</td>
+<td></td>
+<td>COMP 3948</td>
+<td>Predictive Modelling</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Programming Paradigms Option</td>
+<td></td>
+<td>COMP 3958</td>
+<td>Functional Programming</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Tech Entrepreneur Option</td>
+<td></td>
+<td>COMP 3942</td>
+<td>Ideation</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 3 / Technical Programming Option</td>
+<td></td>
+<td>COMP 3951</td>
+<td>Selected Topics in Application Development</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Common courses</td>
+<td></td>
+<td>COMP 4537</td>
+<td>Internet Software Architecture*</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Common courses</td>
+<td></td>
+<td>COMP 4736</td>
+<td>Introduction to Operating Systems</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Common courses</td>
+<td></td>
+<td>LIBS 7102</td>
+<td>Ethics for Computing Professionals*</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / January term</td>
+<td></td>
+<td>COMP 3800</td>
+<td>Projects Practicum 1**</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / January term</td>
+<td></td>
+<td>COMP 4800</td>
+<td>Projects Practicum 2**</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / September term</td>
+<td></td>
+<td>COMP 4800</td>
+<td>Projects Practicum 2**</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Artificial Intelligence and Machine Learning Option</td>
+<td></td>
+<td>COMP 4983</td>
+<td>Machine Learning</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Artificial Intelligence and Machine Learning Option</td>
+<td></td>
+<td>COMP 4989</td>
+<td>Selected Topics in Artificial Intelligence and Machine Learning</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Client/Server Option</td>
+<td></td>
+<td>COMP 4941</td>
+<td>Client/Server Systems Quality Control</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Client/Server Option</td>
+<td></td>
+<td>COMP 4945</td>
+<td>Distributed Software Architectures</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Cloud Computing Option</td>
+<td></td>
+<td>COMP 4964</td>
+<td>DevOps Engineering</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Cloud Computing Option</td>
+<td></td>
+<td>COMP 4968</td>
+<td>Serverless Computing and Microservices</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Combined (Web and Mobile) Option</td>
+<td></td>
+<td>COMP 4976</td>
+<td>Web Application Development with Microsoft Technologies</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Combined (Web and Mobile) Option</td>
+<td></td>
+<td>COMP 4977</td>
+<td>Mobile Development with Apple Technologies</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Database Option</td>
+<td></td>
+<td>COMP 4921</td>
+<td>Database Systems 2</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Database Option</td>
+<td></td>
+<td>COMP 4925</td>
+<td>Selected Topics in Database Systems</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Data Communications and Internetworking Option</td>
+<td></td>
+<td>COMP 4981</td>
+<td>Advanced Network Applications Development</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Data Communications and Internetworking Option</td>
+<td></td>
+<td>COMP 4985</td>
+<td>Selected Topics in Data Communications/Internetworking</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Digital Processing Option</td>
+<td></td>
+<td>COMP 4932</td>
+<td>Selected Topics in Digital Processing</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Digital Processing Option</td>
+<td></td>
+<td>COMP 4995</td>
+<td>Gaming Systems</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Information Systems Option</td>
+<td></td>
+<td>COMP 4870</td>
+<td>Intranet Planning and Development</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Information Systems Option</td>
+<td></td>
+<td>COMP 4911</td>
+<td>Developing Enterprise Service</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Information Systems Option</td>
+<td></td>
+<td>COMP 4915</td>
+<td>System Administration</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Predictive Analytics Option</td>
+<td></td>
+<td>COMP 4948</td>
+<td>Predictive Machine Learning</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Predictive Analytics Option</td>
+<td></td>
+<td>COMP 4949</td>
+<td>Big Data Analytics Methods</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Programming Paradigms Option</td>
+<td></td>
+<td>COMP 4958</td>
+<td>Concurrent Programming</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Programming Paradigms Option</td>
+<td></td>
+<td>COMP 4959</td>
+<td>Selected Application of Programming Paradigms</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Tech Entrepreneur Option</td>
+<td></td>
+<td>COMP 4943</td>
+<td>UX/UI Design and Prototyping</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Tech Entrepreneur Option</td>
+<td></td>
+<td>COMP 4944</td>
+<td>Minimal Viable Product (MVP)</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Tech Entrepreneur Option</td>
+<td></td>
+<td>COMP 4946</td>
+<td>Business Plan</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Tech Entrepreneur Option</td>
+<td></td>
+<td>MKTG 4919</td>
+<td>Pitching and Positioning</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Technical Programming Option</td>
+<td></td>
+<td>COMP 4952</td>
+<td>HCI for Application Development</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Second Year - Level 4 / Technical Programming Option</td>
+<td></td>
+<td>COMP 4957</td>
+<td>Introduction to Software Engineering</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Co-op work term courses (competitive entry)</td>
+<td></td>
+<td>COMP 2990</td>
+<td>Cooperative Education Workterm 1</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td>Co-op work term courses (competitive entry)</td>
+<td></td>
+<td>COMP 3990</td>
+<td>Cooperative Education Workterm 2</td>
+<td><a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>British Columbia Institute of Technology. (n.d.). <em>Computer Systems Technology</em>. Retrieved November 8, 2026, from <a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 17:34:09-05:00">11/11/2026 17:34:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

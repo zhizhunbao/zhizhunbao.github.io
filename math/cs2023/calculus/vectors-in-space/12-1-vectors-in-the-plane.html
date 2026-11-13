@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>12.1 Vectors in the Plane | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="12.1 Vectors in the Plane, part of 12 Vectors in Space: 19 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="121-vectors-in-the-plane">12.1 Vectors in the Plane</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/12-1-vectors-in-the-plane.png" alt="12.1 Vectors in the Plane: its 19 terms, in 12 Vectors in Space."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>12 Vectors in Space</strong><br>空间向量</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-introduction">Strang &amp; Herman, 2016c, chapter 2</a></td>
+</tr>
+<tr>
+<td><strong>12.1 Vectors in the Plane</strong><br>平面向量</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-1-vectors-in-the-plane">Strang &amp; Herman, 2016c, section 2.1</a></td>
+</tr>
+<tr>
+<td><strong>Component</strong><br>分量</td>
+<td>&quot;<strong>a scalar</strong> that describes either the vertical or horizontal direction of a vector&quot;</td>
+<td>描述向量竖直方向或水平方向的<strong>标量</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793541423">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Equivalent Vectors</strong><br>相等向量</td>
+<td>&quot;vectors that have <strong>the same magnitude and the same direction</strong>&quot;</td>
+<td>具有<strong>相同大小和相同方向</strong>的向量</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793541432">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Initial Point</strong><br>起点</td>
+<td>&quot;<strong>the starting point</strong> of a vector&quot;</td>
+<td>向量的<strong>起始点</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793541440">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Magnitude</strong><br>模</td>
+<td>&quot;<strong>the length</strong> of a vector&quot;</td>
+<td>向量的<strong>长度</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793299540">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Normalization</strong><br>单位化</td>
+<td>&quot;using scalar multiplication to <strong>find a unit vector with a given direction</strong>&quot;</td>
+<td>用数乘<strong>求给定方向的单位向量</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793299548">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Parallelogram Method</strong><br>平行四边形法</td>
+<td>&quot;a method for finding the sum of two vectors; position the vectors so they share the same initial point; the vectors then form two adjacent sides of a parallelogram; the sum of the vectors is <strong>the diagonal of that parallelogram</strong>&quot;</td>
+<td>求两个向量之和的方法；把两个向量放成共起点；这两个向量构成平行四边形的两条邻边；向量之和是<strong>该平行四边形的对角线</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793299557">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Scalar</strong><br>标量</td>
+<td>&quot;<strong>a real number</strong>&quot;</td>
+<td><strong>一个实数</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793944666">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Scalar Multiplication</strong><br>数乘</td>
+<td>&quot;a vector operation that defines <strong>the product of a scalar and a vector</strong>&quot;</td>
+<td>定义<strong>标量与向量之积</strong>的向量运算</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793944675">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Standard Unit Vectors</strong><br>标准单位向量</td>
+<td>&quot;<strong>unit vectors along the coordinate axes</strong>: <span class="math">\(\text{i}=\langle 1,0\rangle ,\text{j}=\langle 0,1\rangle\)</span>&quot;</td>
+<td><strong>沿坐标轴的单位向量</strong>：<span class="math">\(\text{i}=\langle 1,0\rangle ,\text{j}=\langle 0,1\rangle\)</span></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793542248">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Standard-position Vector</strong><br>标准位置向量</td>
+<td>&quot;<strong>a vector with initial point</strong> <span class="math">\((0,0)\)</span>&quot;</td>
+<td><strong>起点为 <span class="math">\((0,0)\)</span> 的向量</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793944683">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Terminal Point</strong><br>终点</td>
+<td>&quot;<strong>the endpoint</strong> of a vector&quot;</td>
+<td>向量的<strong>终点</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793936699">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Triangle Inequality</strong><br>三角不等式</td>
+<td>&quot;the length of any side of a triangle is <strong>less than the sum of the lengths of the other two sides</strong>&quot;</td>
+<td>三角形任一边的长度<strong>小于另外两边长度之和</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793936708">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Triangle Method</strong><br>三角形法</td>
+<td>&quot;a method for finding the sum of two vectors; position the vectors so the terminal point of one vector is the initial point of the other; these vectors then form two sides of a triangle; the sum of the vectors is <strong>the vector that forms the third side</strong>; the initial point of the sum is the initial point of the first vector; the terminal point of the sum is the terminal point of the second vector&quot;</td>
+<td>求两个向量之和的方法；把向量放成一个向量的终点是另一个向量的起点；这两个向量构成三角形的两边；向量之和是<strong>构成第三边的向量</strong>；和的起点是第一个向量的起点；和的终点是第二个向量的终点</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793936717">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Unit Vector</strong><br>单位向量</td>
+<td>&quot;<strong>a vector with margnitude</strong> <span class="math">\(1\)</span>&quot;</td>
+<td><strong>大小为 <span class="math">\(1\)</span> 的向量</strong></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793234033">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Vector</strong><br>向量</td>
+<td>&quot;a mathematical object that has <strong>both magnitude and direction</strong>&quot;</td>
+<td><strong>既有大小又有方向</strong>的数学对象</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793234045">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Vector Addition</strong><br>向量加法</td>
+<td>&quot;a vector operation that defines <strong>the sum of two vectors</strong>&quot;</td>
+<td>定义<strong>两个向量之和</strong>的向量运算</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793960037">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Vector Difference</strong><br>向量差</td>
+<td>&quot;the vector difference <span class="math">\(\text{v}-\text{w}\)</span> <strong>is defined as</strong> <span class="math">\(v+(-\text{w})=v+(-1)\text{w}\)</span>&quot;</td>
+<td>向量差 <span class="math">\(\text{v}-\text{w}\)</span> <strong>定义为</strong> <span class="math">\(v+(-\text{w})=v+(-1)\text{w}\)</span></td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793960045">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Vector Sum</strong><br>向量和</td>
+<td>&quot;the sum of two vectors, <span class="math">\(\text{v}\)</span> and <span class="math">\(\text{w},\)</span> can be constructed graphically by <strong>placing the initial point of</strong> <span class="math">\(\text{w}\)</span> at the terminal point of <span class="math">\(\text{v};\)</span> then the vector sum <span class="math">\(v+w\)</span> is the vector with an initial point that coincides with the initial point of <span class="math">\(\text{v},\)</span> and with a terminal point that coincides with the terminal point of <span class="math">\(\text{w}\)</span>&quot;</td>
+<td>两个向量 <span class="math">\(\text{v}\)</span> 和 <span class="math">\(\text{w},\)</span> 之和可以用作图构造：把 <span class="math">\(\text{w}\)</span> <strong>的起点放在</strong> <span class="math">\(\text{v};\)</span> 的终点；于是向量和 <span class="math">\(v+w\)</span> 是起点与 <span class="math">\(\text{v},\)</span> 的起点重合、终点与 <span class="math">\(\text{w}\)</span> 的终点重合的向量</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793294036">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+<tr>
+<td><strong>Zero Vector</strong><br>零向量</td>
+<td>&quot;the vector with <strong>both initial point and terminal point</strong> <span class="math">\((0,0)\)</span>&quot;</td>
+<td><strong>起点和终点都</strong>是 <span class="math">\((0,0)\)</span> 的向量</td>
+<td><a href="https://openstax.org/books/calculus-volume-3/pages/2-key-terms#fs-id1167793564161">Strang &amp; Herman, 2016c, chapter 2 Key Terms</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Strang, G., &amp; Herman, E. (2016c). <em>Calculus volume 3</em>. OpenStax. Retrieved October 29, 2026, from <a href="https://openstax.org/details/books/calculus-volume-3">https://openstax.org/details/books/calculus-volume-3</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 12:02:05-04:00">10/30/2026 12:02:05</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

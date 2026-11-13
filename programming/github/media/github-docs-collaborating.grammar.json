@@ -1,0 +1,172 @@
+{
+ "GitHub": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "fork and pull model": {
+  "verbs": [
+   [
+    "can fork",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "可以复刻",
+    0
+   ]
+  ]
+ },
+ "upstream repository": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "fork": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "shared repository model": {
+  "verbs": [
+   [
+    "have",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "拥有",
+    0
+   ]
+  ]
+ },
+ "collaborator": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "branch": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "is referred to as",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "被称为",
+    0
+   ]
+  ]
+ },
+ "pull request": {
+  "verbs": [
+   [
+    "are",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "review": {
+  "verbs": [
+   [
+    "let",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "让",
+    0
+   ]
+  ]
+ },
+ "merge": {
+  "verbs": [
+   [
+    "takes",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "会获取",
+    0
+   ]
+  ]
+ },
+ "default branch": {
+  "verbs": [
+   [
+    "has",
+    0
+   ],
+   [
+    "is usually called",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "有",
+    0
+   ],
+   [
+    "通常称为",
+    0
+   ]
+  ]
+ }
+}

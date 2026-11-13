@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>3.3 Reliability Concepts | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 3.3 Reliability concepts: Shared responsibility model for reliability, Core platform reliability, Reliability-enhancing capabilities, Applications, High availability, Fault tolerance, Scalability and elasticity, Chaos engineering, Azure Chaos Studio, Recovery Point Objective (RPO), Recovery Time Objective (RTO), Redundancy, Replication, Backup, Failover, Active-active, Planned failover, Unplanned failover, Failback, Service-level agreement (SLA), Service-level objective (SLO), Service credits.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="33-reliability-concepts">3.3 Reliability Concepts</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/reliability-concepts.png" alt="Reliability concepts: Shared responsibility model for reliability (expanded into Core platform reliability, Reliability-enhancing capabilities, Applications), High availability, Fault tolerance, Scalability and elasticity, Chaos engineering, Azure Chaos Studio, Recovery Point Objective (RPO), Recovery Time Objective (RTO), Redundancy, Replication, Backup, Failover (expanded into Active-active, Planned failover, Unplanned failover), Failback, Service-level agreement (SLA), Service-level objective (SLO), Service credits."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Shared responsibility model for reliability</strong><br>可靠性共同责任模型</td>
+<td>&quot;The shared responsibility model for reliability has <strong>three levels</strong>:&quot;</td>
+<td>可靠性共同责任模型有<strong>三个层级</strong>：</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility#:%7E:text=The%20shared%20responsibility%20model%20for%20reliability%20has%20three%20levels">Microsoft, 2026b, &quot;Shared responsibility model for reliability&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Core platform reliability</strong><br>核心平台可靠性</td>
+<td>&quot;The Azure platform provides a <strong>base level of reliability</strong> for <strong>all customers and all services</strong> through the underlying infrastructure, services, and processes.&quot;</td>
+<td>Azure 平台通过底层基础结构、服务和流程，提供<strong>基本的可靠性</strong>，面向<strong>所有客户和所有服务</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility#:%7E:text=The%20Azure%20platform%20provides%20a%20base%20level%20of%20reliability">Microsoft, 2026b, &quot;Shared responsibility model for reliability&quot; section, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Reliability-enhancing capabilities</strong><br>可靠性增强功能</td>
+<td>&quot;Azure offers a suite of <strong>built-in features and services that enhance reliability</strong>, such as using availability zones, deploying across multiple regions, and implementing backup strategies. While Azure provides these capabilities, it's <strong>your responsibility to evaluate and configure them</strong> to align with your specific requirements.&quot;</td>
+<td>Azure 提供一套<strong>增强可靠性的内置功能和服务</strong>，例如使用可用区、跨多个区域部署以及实施备份策略。虽然 Azure 提供这些功能，但<strong>评估和配置它们是你的责任</strong>，以符合你的具体要求。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility#:%7E:text=Azure%20offers%20a%20suite%20of%20built-in%20features%20and%20services%20that%20enhance%20reliability">Microsoft, 2026b, &quot;Shared responsibility model for reliability&quot; section, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>Applications</strong><br>应用程序</td>
+<td>&quot;To make effective use of the other levels, you must <strong>design your application and workload for reliability</strong>.&quot;</td>
+<td>要有效利用其他层级，你必须<strong>为可靠性设计你的应用程序和工作负载</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility#:%7E:text=To%20make%20effective%20use%20of%20the%20other%20levels">Microsoft, 2026b, &quot;Shared responsibility model for reliability&quot; section, list item 3</a></td>
+</tr>
+<tr>
+<td><strong>High availability</strong><br>高可用性</td>
+<td>&quot;<em>High availability</em> is the state in which a specific workload can <strong>maintain its necessary level of uptime on a day-to-day basis</strong>, <strong>even during transient faults and intermittent failures</strong>.&quot;</td>
+<td>高可用性是指特定工作负载能够<strong>日常保持所需正常运行时间水平</strong>的状态，<strong>即使在发生暂时性故障和间歇性失败时</strong>也是如此。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery#:%7E:text=is%20the%20state%20in%20which%20a%20specific%20workload%20can%20maintain">Microsoft, 2025a, &quot;High availability&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Fault tolerance</strong><br>容错</td>
+<td>&quot;<em>Fault tolerance</em> is the ability of a system to <strong>continue operating, in some defined capacity, in the event of a failure</strong>.&quot;</td>
+<td>容错是系统<strong>在发生故障时仍能以某种既定能力继续运行</strong>的能力。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery#:%7E:text=is%20the%20ability%20of%20a%20system%20to%20continue%20operating">Microsoft, 2025a, &quot;Fault tolerance&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Scalability and elasticity</strong><br>可伸缩性和弹性</td>
+<td>&quot;Scalability and elasticity are the abilities of a system to <strong>handle increased load by adding and removing resources</strong> (scalability), and to <strong>do so quickly as your requirements change</strong> (elasticity).&quot;</td>
+<td>可伸缩性和弹性是系统的能力：<strong>通过添加和移除资源来处理增加的负载</strong>（可伸缩性），以及<strong>在需求变化时快速做到这一点</strong>（弹性）。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery#:%7E:text=are%20the%20abilities%20of%20a%20system%20to%20handle%20increased%20load">Microsoft, 2025a, &quot;Scalability and elasticity&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Chaos engineering</strong><br>混沌工程</td>
+<td>&quot;Testing your solution's ability to <strong>automatically tolerate or recover from a variety of fault types</strong> is called <strong>chaos engineering</strong>.&quot;</td>
+<td>测试解决方案<strong>自动承受各种故障类型或从中恢复</strong>的能力，称为<strong>混沌工程</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery#:%7E:text=Testing%20your%20solution">Microsoft, 2025a, &quot;Automated testing&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Chaos Studio</strong><br>Azure 混沌工作室</td>
+<td>&quot;Azure Chaos Studio is a <strong>chaos engineering tool</strong> that can <strong>simulate some common fault types</strong>.&quot;</td>
+<td>Azure 混沌工作室是一种<strong>混沌工程工具</strong>，可以<strong>模拟一些常见的故障类型</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery#:%7E:text=is%20a%20chaos%20engineering%20tool%20that%20can%20simulate%20some%20common%20fault%20types">Microsoft, 2025a, &quot;Automated testing&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Recovery Point Objective (RPO)</strong><br>恢复点目标</td>
+<td>&quot;Recovery Point Objective (RPO) is the <strong>maximum duration of acceptable data loss</strong> <strong>in the event of a disaster</strong>.&quot;</td>
+<td>恢复点目标（RPO）是<strong>可接受的最长数据丢失时长</strong>，针对的是<strong>发生灾难的情况</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery#:%7E:text=is%20the%20maximum%20duration%20of%20acceptable%20data%20loss">Microsoft, 2025a, &quot;Disaster recovery requirements&quot; section, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Recovery Time Objective (RTO)</strong><br>恢复时间目标</td>
+<td>&quot;Recovery Time Objective (RTO) is the <strong>maximum duration of acceptable downtime</strong> <strong>in the event of a disaster</strong>, where 'downtime' is defined by your specification.&quot;</td>
+<td>恢复时间目标（RTO）是<strong>可接受的最长停机时长</strong>，针对的是<strong>发生灾难的情况</strong>，其中“停机”由你的规范定义。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery#:%7E:text=is%20the%20maximum%20duration%20of%20acceptable%20downtime">Microsoft, 2025a, &quot;Disaster recovery requirements&quot; section, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>Redundancy</strong><br>冗余</td>
+<td>&quot;<em>Redundancy</em> is the ability to maintain <strong>multiple identical copies of a service component</strong>, and to use those copies in a way that prevents any one component from becoming a <strong>single point of failure</strong>.&quot;</td>
+<td>冗余是维护<strong>服务组件的多个相同副本</strong>的能力，并以某种方式使用这些副本，防止任何一个组件成为<strong>单点故障</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-redundancy-replication-backup#:%7E:text=is%20the%20ability%20to%20maintain%20multiple%20identical%20copies%20of%20a%20service%20component">Microsoft, 2025b, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Replication</strong><br>复制</td>
+<td>&quot;<em>Replication or data redundancy</em> is the ability to maintain <strong>multiple copies of data</strong>, called <strong>replicas</strong>.&quot;</td>
+<td>复制（或数据冗余）是维护<strong>数据的多个副本</strong>的能力，这些副本称为<strong>副本（replica）</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-redundancy-replication-backup#:%7E:text=is%20the%20ability%20to%20maintain%20multiple%20copies%20of%20data%2C%20called%20replicas">Microsoft, 2025b, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Backup</strong><br>备份</td>
+<td>&quot;<em>Backup</em> is the ability to maintain a <strong>timestamped copy of data</strong> that can be used to <strong>restore data that has been lost</strong>.&quot;</td>
+<td>备份是维护<strong>带时间戳的数据副本</strong>的能力，可用来<strong>恢复已丢失的数据</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-redundancy-replication-backup#:%7E:text=is%20the%20ability%20to%20maintain%20a%20timestamped%20copy%20of%20data">Microsoft, 2025b, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Failover</strong><br>故障转移</td>
+<td>&quot;With failover, you can <strong>redirect traffic and requests</strong> from <strong>unhealthy instances to healthy ones</strong>.&quot;</td>
+<td>通过故障转移，你可以<strong>重定向流量和请求</strong>，<strong>从运行不正常的实例转到正常的实例</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-failover-failback#:%7E:text=With%20failover%2C%20you%20can%20redirect%20traffic%20and%20requests">Microsoft, 2026c, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Active-active</strong><br>主动-主动</td>
+<td>&quot;Some solutions are built to use an <em>active-active</em> approach, which means <strong>multiple instances all serve requests</strong>.&quot;</td>
+<td>有些解决方案采用<em>主动-主动</em>方式，即<strong>多个实例都处理请求</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-failover-failback#:%7E:text=which%20means%20multiple%20instances%20all%20serve%20requests">Microsoft, 2026c, &quot;Active and passive instance roles&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Planned failover</strong><br>计划内故障转移</td>
+<td>&quot;In contrast, <em>planned failovers</em> are those that you <strong>proactively trigger</strong>.&quot;</td>
+<td>相比之下，<em>计划内故障转移</em>是你<strong>主动触发</strong>的故障转移。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-failover-failback#:%7E:text=are%20those%20that%20you%20proactively%20trigger">Microsoft, 2026c, &quot;Planned and unplanned failovers&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>Unplanned failover</strong><br>计划外故障转移</td>
+<td>&quot;<em>Unplanned failovers</em> are those that are performed <strong>during an outage of a component</strong>, so that you can <strong>restore service by using another instance</strong>.&quot;</td>
+<td><em>计划外故障转移</em>是在<strong>某个组件中断期间</strong>执行的故障转移，以便<strong>使用另一个实例恢复服务</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-failover-failback#:%7E:text=are%20those%20that%20are%20performed%20during%20an%20outage">Microsoft, 2026c, &quot;Planned and unplanned failovers&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>Failback</strong><br>故障回复</td>
+<td>&quot;<em>Failback</em> is the process of <strong>reinstating and redirecting traffic back to the original primary instance</strong>.&quot;</td>
+<td><em>故障回复</em>是<strong>恢复原始主实例并把流量重新导回它</strong>的过程。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-failover-failback#:%7E:text=is%20the%20process%20of%20reinstating%20and%20redirecting%20traffic%20back">Microsoft, 2026c, &quot;Failback&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Service-level agreement (SLA)</strong><br>服务级别协议 (SLA)</td>
+<td>&quot;An SLA is a <strong>set of conditional commitments</strong>. It states that <em>if</em> a customer <strong>meets certain requirements</strong>, <em>then</em> the service provider <strong>commits to a defined level of service</strong>.&quot;</td>
+<td>SLA 是一组<strong>有条件的承诺</strong>。它规定：<em>如果</em>客户<strong>满足某些要求</strong>，<em>那么</em>服务提供商<strong>承诺提供规定的服务水平</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-service-level-agreements#:%7E:text=An%20SLA%20is%20a%20set%20of%20conditional%20commitments">Microsoft, 2026a, &quot;What an SLA is and isn't&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Service-level objective (SLO)</strong><br>服务级别目标 (SLO)</td>
+<td>&quot;A <strong>service-level objective (SLO)</strong> is an <strong>internal reliability target</strong> that you set for <strong>your own workload</strong>.&quot;</td>
+<td><strong>服务级别目标 (SLO)</strong> 是一个<strong>内部可靠性目标</strong>，由你为<strong>自己的工作负载</strong>设定。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-service-level-agreements#:%7E:text=is%20an%20internal%20reliability%20target">Microsoft, 2026a, &quot;How SLAs relate to SLOs and reliability targets&quot; section, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Service credits</strong><br>服务抵扣额</td>
+<td>&quot;Service credits are typically a <strong>percentage of the monthly service fee</strong> for the <strong>affected service</strong>.&quot;</td>
+<td>服务抵扣额通常是<strong>月度服务费的一个百分比</strong>，按<strong>受影响的服务</strong>计算。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/reliability/concept-service-level-agreements#:%7E:text=Service%20credits%20are%20typically%20a%20percentage">Microsoft, 2026a, &quot;Step 4: File the claim within the required timeframe&quot; section, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2025a, November 4). <em>What are business continuity, high availability, and disaster recovery?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery">https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery</a></li>
+<li>Microsoft. (2025b, February 26). <em>What are redundancy, replication, and backup?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/reliability/concept-redundancy-replication-backup">https://learn.microsoft.com/en-us/azure/reliability/concept-redundancy-replication-backup</a></li>
+<li>Microsoft. (2026a, April 1). <em>How to read a service-level agreement (SLA)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/reliability/concept-service-level-agreements">https://learn.microsoft.com/en-us/azure/reliability/concept-service-level-agreements</a></li>
+<li>Microsoft. (2026b, June 1). <em>Shared responsibility for reliability</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility">https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility</a></li>
+<li>Microsoft. (2026c, January 22). <em>What are failover and failback?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/reliability/concept-failover-failback">https://learn.microsoft.com/en-us/azure/reliability/concept-failover-failback</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:35-04:00">10/27/2026 21:51:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

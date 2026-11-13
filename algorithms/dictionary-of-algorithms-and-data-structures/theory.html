@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>13. Theory | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Dictionary of Algorithms and Data Structures, 13. Theory: 156 entries.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="13-theory">13. Theory</h1>
+
+<p>Sources: <a href="https://xlinux.nist.gov/dads/termsArea.html#theory">Dictionary of Algorithms and Data Structures, Index by Area: Theory</a>.</p>
+<p>The entries the source lists in this area, in its alphabetical order, each with its type and a link to its definition (156: 2 algorithms, 2 data structures, 7 classic problems, 6 algorithmic techniques, 139 definitions). An entry can belong to several areas.</p>
+<ul>
+<li><a href="https://xlinux.nist.gov/dads/HTML/rhoapproxmtn.html">ρ-approximation algorithm</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/absolute.html">absolute performance guarantee</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/adversary.html">adversary</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/decidableProblem.html">algorithmically solvable</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/alternation.html">alternation</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/amortizdcost.html">amortized cost</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/approximatin.html">approximation algorithm</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/asymptoticBound.html">asymptotic bound</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/asymptoticSpaceComplexity.html">asymptotic space complexity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/asymptoticTimeComplexity.html">asymptotic time complexity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/averageCaseCost.html">average-case cost</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bestcasecost.html">best-case cost</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bpp.html">bounded error probability in polynomial time</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bpp.html">BPP</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/britishMuseum.html">British Museum technique</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/calcucommsys.html">Calculus of Communicating Systems</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/canonical.html">canonical complexity class</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/ccs.html">CCS</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/cellProbeModel.html">cell probe model</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/coarsening.html">coarsening</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/communseqpro.html">Communicating Sequential Processes</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/competitiveAnalysis.html">competitive analysis</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/competitivrt.html">competitive ratio</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/complexity.html">complexity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/complexityClass.html">complexity class</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/computable.html">computable</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/cookreductin.html">Cook reduction</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/cookstheorem.html">Cook's theorem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/csp.html">CSP</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/decidableLanguage.html">decidable language</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/decidableProblem.html">decidable problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/decisionProblem.html">decision problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/depoissonization.html">depoissonization</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/deterministc.html">deterministic</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/diagonaliztn.html">diagonalization</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/diningphilos.html">dining philosophers</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/distributionalComplex.html">distributional complexity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/elementnqnss.html">element uniqueness</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/euclidntrvls.html">Euclidean traveling salesman problem</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/EulersFormula.html">Euler's formula</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/exponential.html">exponential</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/feasibleregn.html">feasible region</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/feasiblesltn.html">feasible solution</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/language.html">formal language</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/fractional.html">fractional solution</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/fullypolynml.html">fully polynomial approximation scheme</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/haltingProblem.html">halting problem</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hugeSparseArray.html">huge sparse array</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/incompressbl.html">incompressible string</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/information.html">information theoretic bound</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/interactvprf.html">interactive proof system</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/intractable.html">intractable</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/karpreductin.html">Karp reduction</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/kolmogorov.html">Kolmogorov complexity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/kraftsinqlty.html">Kraft's inequality</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/language.html">language</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linear.html">linear</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/logarithmic.html">logarithmic</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/lowerbound.html">lower bound</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/lreduction.html">l-reduction</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/manyonerdctn.html">many-one reduction</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/minimumBoundingBox.html">MBB</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/minimumBoundingBox.html">minimum bounding box</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/modelcheckng.html">model checking</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/modelOfComputation.html">model of computation</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/moderatexpon.html">moderately exponential</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/nCmanyone.html">NC many-one reducibility</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/nondeterministic.html">nondeterministic</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/np.html">nondeterministic polynomial time</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/np.html">NP</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/npcomplete.html">NP-complete</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/nPcompltlngg.html">NP-complete language</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/nphard.html">NP-hard</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/objective.html">objective function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/offline.html">off-line algorithm</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/online.html">on-line algorithm</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bestcasecost.html">optimal cost</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/optimalsoltn.html">optimal solution</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/optimalvalue.html">optimal value</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/optimization.html">optimization problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/p.html">P</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/paddingrgmnt.html">padding argument</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/partialfunct.html">partial function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/partiallyDecidableProb.html">partially decidable problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/partialrcrsv.html">partial recursive function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/pcomplete.html">P-complete</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/postsCorrespondProb.html">PCP</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/performance.html">performance guarantee</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/relativePerformGuar.html">performance ratio</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/pointermachn.html">pointer machine</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/poissonizatn.html">poissonization</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/polylogarith.html">polylogarithmic</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/polynomial.html">polynomial</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/polynomaprox.html">polynomial approximation scheme</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/polynomhier.html">polynomial hierarchy</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/polynomialtm.html">polynomial time</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/polynomtredc.html">polynomial-time reduction</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/postsCorrespondProb.html">Post's correspondence problem</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/potentialfnc.html">potential function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/primitiveRecursive.html">primitive recursive</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/prisonersDilemma.html">prisoner's dilemma</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/probabilisticallyCheckableProof.html">probabilistically checkable proof</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/processalgbr.html">process algebra</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/polynomaprox.html">PTAS</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/purelyfnctnl.html">purely functional language</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/pushdownTransducer.html">pushdown transducer</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/randomaccess.html">random access machine</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/randomizedComplexity.html">randomized complexity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/rp.html">randomized polynomial time</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/randomizdrnd.html">randomized rounding</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/recurrence.html">recurrence equations</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/recurrence.html">recurrence relation</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/recursionTree.html">recursion tree</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/decidableLanguage.html">recursive language</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/recursivelyEnumerableLang.html">recursively enumerable language</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/decidableProblem.html">recursively solvable</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/reduction.html">reduction</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/relational.html">relational structure</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/relativePerformGuar.html">relative performance guarantee</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/relaxation.html">relaxation</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/rescalable.html">rescalable</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/ricesmethod.html">Rice's method</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/rp.html">RP</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/runtime.html">run time</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/separatnthrm.html">separation theorem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/sharedmemory.html">shared memory</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/simulatnthrm.html">simulation theorem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/singularity.html">singularity analysis</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/solvable.html">solvable</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/space.html">space-constructible function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stronglyNP.html">strongly NP-hard</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/subadditive.html">subadditive ergodic theorem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/sublinearTimeAlgo.html">sublinear time algorithm</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/temporllogic.html">temporal logic</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/time.html">time-constructible function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/timespace.html">time/space complexity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/totalfunc.html">total function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/decidableLanguage.html">totally decidable language</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/decidableProblem.html">totally decidable problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/totallyUndecidableProb.html">totally undecidable problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/tractable.html">tractable</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/turingredctn.html">Turing reduction</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/turingTransducer.html">Turing transducer</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/uncomputableFunction.html">uncomputable function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/uncomputableProblem.html">uncomputable problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/undecidableLanguage.html">undecidable language</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/undecidableProblem.html">undecidable problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/uniformCircuitComplexity.html">uniform circuit complexity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/uniformCircuitFamily.html">uniform circuit family</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/unsolvableProblem.html">unsolvable problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/venndiagram.html">Venn diagram</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/worstCaseExecutionTime.html">WCET</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/worstcase.html">worst case</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/worstcaseCost.html">worst-case cost</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/worstCaseExecutionTime.html">worst-case execution time</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/zpp.html">ZPP</a> (definition)</li>
+</ul>
+<p>Not written yet.</p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-25 03:38:24-04:00">10/25/2026 03:38:24</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

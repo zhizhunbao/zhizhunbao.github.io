@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.5 Track | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Ultralytics YOLO, 1.5 Track: Supported Trackers, Configuration, Tracker Details.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="15-track">1.5 Track</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/track.png" alt="1.5 Track: its parts from the official menu, each with the entries the menu lists under it, in Ultralytics YOLO."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.5 Track</strong><br>跟踪</td>
+<td>&quot;Object tracking in the realm of video analytics is <strong>a critical task that not only identifies the location and class of objects within the frame but also maintains a unique ID for each detected object as the video progresses</strong>.&quot;</td>
+<td>视频分析中的目标跟踪是<strong>一项关键任务，它不仅识别画面中物体的位置和类别，还随着视频推进为每个检测到的物体保持唯一的 ID</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#multi-object-tracking-with-ultralytics-yolo">Ultralytics, n.d., &quot;Multi-Object Tracking with Ultralytics YOLO&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Supported Trackers</strong><br>支持的跟踪器</td>
+<td>(context) &quot;Ultralytics YOLO <strong>ships with six built-in trackers</strong>.&quot;</td>
+<td>（语境）Ultralytics YOLO <strong>内置六个跟踪器</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#supported-trackers">Ultralytics, n.d., &quot;Supported Trackers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Configuration</strong><br>配置</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#configuration">Ultralytics, n.d., &quot;Configuration&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Tracking Arguments</strong><br>跟踪参数</td>
+<td>(context) &quot;Tracking configuration <strong>shares properties with Predict mode, such as <code>conf</code>, <code>iou</code>, and <code>show</code></strong>.&quot;</td>
+<td>（语境）跟踪配置<strong>与预测模式共用一些属性，例如 <code>conf</code>、<code>iou</code> 和 <code>show</code></strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#tracking-arguments">Ultralytics, n.d., &quot;Tracking Arguments&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Custom Tracker Configuration</strong><br>自定义跟踪器配置</td>
+<td>(context) &quot;Ultralytics also allows you to <strong>use a modified tracker configuration file</strong>.&quot;</td>
+<td>（语境）Ultralytics 还允许你<strong>使用修改过的跟踪器配置文件</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#custom-tracker-configuration">Ultralytics, n.d., &quot;Custom Tracker Configuration&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Shared Tracker Arguments</strong><br>共享跟踪器参数</td>
+<td>(context) &quot;The following parameters are <strong>common to most tracker YAML files</strong>&quot;</td>
+<td>（语境）以下参数<strong>为大多数跟踪器 YAML 文件所共有</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#shared-tracker-arguments">Ultralytics, n.d., &quot;Shared Tracker Arguments&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Tracker-specific Arguments</strong><br>跟踪器专属参数</td>
+<td>(context) &quot;Each algorithm <strong>exposes additional knobs on top of the shared parameters</strong>.&quot;</td>
+<td>（语境）每个算法都<strong>在共享参数之外提供额外的调节项</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#tracker-specific-arguments">Ultralytics, n.d., &quot;Tracker-specific Arguments&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Enabling Re-Identification (ReID)</strong><br>启用重识别（ReID）</td>
+<td>(context) &quot;ReID is <strong>disabled by default to minimize overhead</strong>.&quot;</td>
+<td>（语境）ReID <strong>默认关闭，以尽量减少开销</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#enabling-re-identification-reid">Ultralytics, n.d., &quot;Enabling Re-Identification (ReID)&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>model: auto</strong><br>model: auto</td>
+<td>&quot;<code>model: auto</code> — <strong>Uses native YOLO detector features, adding minimal overhead.</strong>&quot;</td>
+<td><code>model: auto</code>：<strong>使用 YOLO 检测器自身的特征，开销极小。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#enabling-re-identification-reid">Ultralytics, n.d., &quot;Enabling Re-Identification (ReID)&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Custom ReID model</strong><br>自定义 ReID 模型</td>
+<td>&quot;Custom ReID model — <strong>Point <code>model:</code> at a <code>.pt</code> checkpoint or a compatible exported embedding model</strong>&quot;</td>
+<td>自定义 ReID 模型：<strong>把 <code>model:</code> 指向一个 <code>.pt</code> 检查点或兼容的已导出嵌入模型</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#enabling-re-identification-reid">Ultralytics, n.d., &quot;Enabling Re-Identification (ReID)&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Tracker Details</strong><br>跟踪器详解</td>
+<td>(context) &quot;The sections below describe <strong>each tracker's design, specific parameters, and tuning tips</strong>.&quot;</td>
+<td>（语境）下面各节介绍<strong>每个跟踪器的设计、专属参数和调参建议</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#tracker-details">Ultralytics, n.d., &quot;Tracker Details&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>BoT-SORT</strong><br>BoT-SORT</td>
+<td>&quot;BoT-SORT (Aharon et al., 2022) <strong>extends ByteTrack with camera-motion compensation and optional ReID</strong>:&quot;</td>
+<td>BoT-SORT（Aharon 等，2022）<strong>在 ByteTrack 的基础上加入相机运动补偿和可选的 ReID</strong>：</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#bot-sort">Ultralytics, n.d., &quot;BoT-SORT&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Camera Motion Compensation (CMC)</strong><br>相机运动补偿（CMC）</td>
+<td>&quot;Camera Motion Compensation (CMC): <strong>an affine warp estimated each frame</strong> (sparse optical flow by default; ORB / ECC also available) <strong>is applied to Kalman states before IoU matching</strong>.&quot;</td>
+<td>相机运动补偿（CMC）：<strong>每帧估计一个仿射变换</strong>（默认用稀疏光流；也可用 ORB / ECC），<strong>在 IoU 匹配前作用到卡尔曼状态上</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#bot-sort">Ultralytics, n.d., &quot;BoT-SORT&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Optional ReID</strong><br>可选 ReID</td>
+<td>&quot;Optional ReID: <strong>appearance embeddings can be fused into the cost matrix</strong>.&quot;</td>
+<td>可选 ReID：<strong>外观嵌入可以融合进代价矩阵</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#bot-sort">Ultralytics, n.d., &quot;BoT-SORT&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>ByteTrack</strong><br>ByteTrack</td>
+<td>&quot;ByteTrack (Zhang et al., ECCV 2022) is <strong>the lightweight baseline</strong>.&quot;</td>
+<td>ByteTrack（Zhang 等，ECCV 2022）是<strong>轻量级基线</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#bytetrack">Ultralytics, n.d., &quot;ByteTrack&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Stage 1</strong><br>第一阶段</td>
+<td>&quot;Stage 1: <strong>match high-score detections against active tracks.</strong>&quot;</td>
+<td>第一阶段：<strong>把高分检测结果与活动轨迹匹配。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#bytetrack">Ultralytics, n.d., &quot;ByteTrack&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Stage 2</strong><br>第二阶段</td>
+<td>&quot;Stage 2: <strong>retry unmatched tracks against low-score detections</strong> to recover through brief partial occlusion.&quot;</td>
+<td>第二阶段：<strong>把未匹配的轨迹再与低分检测结果匹配</strong>，以便在短暂的部分遮挡后恢复。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#bytetrack">Ultralytics, n.d., &quot;ByteTrack&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>OC-SORT</strong><br>OC-SORT</td>
+<td>&quot;OC-SORT (Cao et al., CVPR 2023) is <strong>an observation-centric extension of SORT</strong>.&quot;</td>
+<td>OC-SORT（Cao 等，CVPR 2023）是<strong>以观测为中心的 SORT 扩展</strong>。</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#oc-sort">Ultralytics, n.d., &quot;OC-SORT&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Observation-Centric Re-update (ORU)</strong><br>以观测为中心的重新更新（ORU）</td>
+<td>&quot;Observation-Centric Re-update (ORU): <strong>replays a virtual trajectory between the last observation and the current detection, re-running the Kalman update to repair drifted velocity.</strong>&quot;</td>
+<td>以观测为中心的重新更新（ORU）：<strong>在上一次观测和当前检测之间回放一条虚拟轨迹，重新执行卡尔曼更新以修正漂移的速度。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#oc-sort">Ultralytics, n.d., &quot;OC-SORT&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Observation-Centric Momentum (OCM)</strong><br>以观测为中心的动量（OCM）</td>
+<td>&quot;Observation-Centric Momentum (OCM): <strong>penalizes detections moving in the wrong direction via a velocity-consistency term.</strong>&quot;</td>
+<td>以观测为中心的动量（OCM）：<strong>通过速度一致性项惩罚朝错误方向移动的检测结果。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#oc-sort">Ultralytics, n.d., &quot;OC-SORT&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Observation-Centric Recovery (OCR)</strong><br>以观测为中心的恢复（OCR）</td>
+<td>&quot;Observation-Centric Recovery (OCR): <strong>re-checks unmatched detections against recently lost tracks using their last observation rather than the predicted state.</strong>&quot;</td>
+<td>以观测为中心的恢复（OCR）：<strong>用最近丢失轨迹的最后一次观测（而非预测状态）重新核对未匹配的检测结果。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#oc-sort">Ultralytics, n.d., &quot;OC-SORT&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Deep OC-SORT</strong><br>Deep OC-SORT</td>
+<td>&quot;Deep OC-SORT <strong>augments OC-SORT with appearance information and camera-motion compensation</strong>:&quot;</td>
+<td>Deep OC-SORT <strong>在 OC-SORT 的基础上加入外观信息和相机运动补偿</strong>：</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#deep-oc-sort">Ultralytics, n.d., &quot;Deep OC-SORT&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Appearance matching</strong><br>外观匹配</td>
+<td>&quot;Appearance matching: <strong>cosine embedding distance is gated by overlap and fused with motion cost.</strong>&quot;</td>
+<td>外观匹配：<strong>余弦嵌入距离先经重叠度门控，再与运动代价融合。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#deep-oc-sort">Ultralytics, n.d., &quot;Deep OC-SORT&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Dynamic appearance EMA</strong><br>动态外观 EMA</td>
+<td>&quot;Dynamic appearance EMA: <strong>track embeddings update with an EMA whose smoothing factor adapts to detection confidence.</strong>&quot;</td>
+<td>动态外观 EMA：<strong>轨迹嵌入用 EMA 更新，其平滑系数随检测置信度自适应。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#deep-oc-sort">Ultralytics, n.d., &quot;Deep OC-SORT&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Camera Motion Compensation</strong><br>相机运动补偿</td>
+<td>&quot;Camera Motion Compensation: <strong>Kalman states are warped frame-to-frame via sparse optical flow, ORB, or ECC.</strong>&quot;</td>
+<td>相机运动补偿：<strong>卡尔曼状态通过稀疏光流、ORB 或 ECC 逐帧变换。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#deep-oc-sort">Ultralytics, n.d., &quot;Deep OC-SORT&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>FastTracker</strong><br>FastTracker</td>
+<td>&quot;FastTracker is <strong>an occlusion-aware ByteTrack variant with no appearance model</strong>:&quot;</td>
+<td>FastTracker 是<strong>一种能感知遮挡、不带外观模型的 ByteTrack 变体</strong>：</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#fasttracker">Ultralytics, n.d., &quot;FastTracker&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Occlusion detection</strong><br>遮挡检测</td>
+<td>&quot;Occlusion detection: <strong>flags tracks occluded when coverage by other active tracks exceeds <code>occ_cover_thresh</code>.</strong>&quot;</td>
+<td>遮挡检测：<strong>当轨迹被其他活动轨迹覆盖的比例超过 <code>occ_cover_thresh</code> 时，把它标记为被遮挡。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#fasttracker">Ultralytics, n.d., &quot;FastTracker&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Kalman rollback on occlusion</strong><br>遮挡时卡尔曼回滚</td>
+<td>&quot;Kalman rollback on occlusion: <strong>rolls the Kalman state back to a pre-occlusion frame using ring-buffered history.</strong>&quot;</td>
+<td>遮挡时卡尔曼回滚：<strong>利用环形缓冲的历史，把卡尔曼状态回滚到遮挡前的一帧。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#fasttracker">Ultralytics, n.d., &quot;FastTracker&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Motion dampening and search expansion</strong><br>运动阻尼与搜索扩展</td>
+<td>&quot;Motion dampening and search expansion: <strong>velocity is dampened and the predicted bbox is enlarged while occluded.</strong>&quot;</td>
+<td>运动阻尼与搜索扩展：<strong>遮挡期间速度被阻尼，预测框被放大。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#fasttracker">Ultralytics, n.d., &quot;FastTracker&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Init-IoU suppression</strong><br>初始化 IoU 抑制</td>
+<td>&quot;Init-IoU suppression: <strong>prevents new tracks from spawning on top of active tracks.</strong>&quot;</td>
+<td>初始化 IoU 抑制：<strong>防止新轨迹在活动轨迹之上生成。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#fasttracker">Ultralytics, n.d., &quot;FastTracker&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>TrackTrack</strong><br>TrackTrack</td>
+<td>&quot;TrackTrack (Shim et al., CVPR 2025) is the default tracker. It <strong>reasons from each track's perspective with multi-cue iterative association</strong>:&quot;</td>
+<td>TrackTrack（Shim 等，CVPR 2025）是默认跟踪器。它<strong>从每条轨迹的视角出发，用多线索迭代关联进行推理</strong>：</td>
+<td><a href="https://docs.ultralytics.com/modes/track/#tracktrack">Ultralytics, n.d., &quot;TrackTrack&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Track-Perspective-Based Association (TPA)</strong><br>基于轨迹视角的关联（TPA）</td>
+<td>&quot;Track-Perspective-Based Association (TPA): <strong>combines HMIoU, optional cosine ReID distance, confidence-projection distance, and corner-angle distance.</strong>&quot;</td>
+<td>基于轨迹视角的关联（TPA）：<strong>结合 HMIoU、可选的余弦 ReID 距离、置信度投影距离和角点角度距离。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#tracktrack">Ultralytics, n.d., &quot;TrackTrack&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Track-Aware Initialization (TAI)</strong><br>感知轨迹的初始化（TAI）</td>
+<td>&quot;Track-Aware Initialization (TAI): <strong>suppresses duplicate spawns before a new ID is created.</strong>&quot;</td>
+<td>感知轨迹的初始化（TAI）：<strong>在创建新 ID 之前抑制重复生成。</strong></td>
+<td><a href="https://docs.ultralytics.com/modes/track/#tracktrack">Ultralytics, n.d., &quot;TrackTrack&quot;, item 2</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Ultralytics. (n.d.). <em>Multi-Object Tracking with Ultralytics YOLO</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/modes/track/">https://docs.ultralytics.com/modes/track/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

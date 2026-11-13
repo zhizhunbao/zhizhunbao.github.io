@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>MSC2020 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MSC2020: the 63 classes of the Mathematics Subject Classification 2020 and their subclasses.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="msc2020">MSC2020</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/msc2020%401x.png" alt="MSC2020: its 63 classes in MSC order, from 00 General and Overarching Topics; Collections to 97 Mathematics Education, one group each listing its subclasses by code and name (534 in all); the groups wrap at the page width, one to three in a row."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MSC2020</strong><br>MSC2020</td>
+<td>&quot;Mathematical Reviews (MR) and zbMATH collaborate on maintaining the Mathematics Subject Classification, which is used by these reviewing services, publishers, funding agencies, and others to <strong>categorize items in the mathematical sciences literature</strong>. It is <strong>a taxonomy created by and for mathematical researchers</strong>.&quot;</td>
+<td>Mathematical Reviews（MR）和 zbMATH 共同维护数学学科分类，这些评论服务、出版社、资助机构等用它来<strong>给数学科学文献分类</strong>。它是<strong>由数学研究者创建、为数学研究者服务的分类体系</strong>。</td>
+<td><a href="https://msc2020.org/#:%7E:text=Mathematical%20Reviews%20%28MR%29%20and%20zbMATH%20collaborate">Associate Editors of Mathematical Reviews and zbMATH, 2020, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="00-general-and-overarching-topics-collections/index.html">00 General and Overarching Topics; Collections</a></strong><br>一般与综合性主题；文集</td>
+<td>(context) &quot;Mathematics is a broad-ranging field of study in which <strong>the properties and interactions of idealized objects</strong> are examined.&quot;</td>
+<td>（语境）数学是一个范围广泛的研究领域，它考察<strong>理想化对象的性质和相互作用</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/Mathematics.html#:%7E:text=Mathematics%20is%20a%20broad%2Dranging%20field%20of%20study">Weisstein, n.d.-ag, &quot;Mathematics&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="01-history-and-biography/index.html">01 History and Biography</a></strong><br>历史与传记</td>
+<td>(Definition pending: no web source yet.)</td>
+<td>（定义待补：暂无网页来源。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="03-mathematical-logic-and-foundations/index.html">03 Mathematical Logic and Foundations</a></strong><br>数理逻辑与基础</td>
+<td>&quot;Logic is the <strong>formal mathematical study</strong> of the methods, structure, and validity of <strong>mathematical deduction and proof</strong>.&quot;</td>
+<td>逻辑是对<strong>数学演绎与证明</strong>的方法、结构和有效性所作的<strong>形式化数学研究</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/Logic.html#:%7E:text=Logic%20is%20the%20formal%20mathematical%20study">Weisstein, n.d.-ad, &quot;Logic&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="05-combinatorics/index.html">05 Combinatorics</a></strong><br>组合数学</td>
+<td>&quot;Combinatorics, also called combinatorial mathematics, is the branch of discrete mathematics concerned with <strong>enumeration problems, existence problems, constructions, and structural properties</strong> of discrete objects.&quot;</td>
+<td>组合数学（也称组合学）是离散数学的一个分支，研究离散对象的<strong>计数问题、存在性问题、构造以及结构性质</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/Combinatorics.html#:%7E:text=is%20the%20branch%20of%20discrete%20mathematics%20concerned%20with%20enumeration%20problems">Weisstein, n.d.-i, &quot;Combinatorics&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="06-order-lattices-ordered-algebraic-structures/index.html">06 Order, Lattices, Ordered Algebraic Structures</a></strong><br>序、格、有序代数结构</td>
+<td>(context) &quot;A partially ordered set (or poset) is <strong>a set taken together with a partial order on it</strong>.&quot;</td>
+<td>（语境）偏序集（poset）是<strong>一个集合连同它上面的一个偏序</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/PartiallyOrderedSet.html#:%7E:text=A%20partially%20ordered%20set%20%28or%20poset%29%20is%20a%20set%20taken%20together">Weisstein, n.d.-aq, &quot;Partially ordered set&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="08-general-algebraic-systems/index.html">08 General Algebraic Systems</a></strong><br>一般代数系统</td>
+<td>(context) &quot;Universal algebra studies <strong>common properties of all algebraic structures</strong>, including groups, rings, fields, lattices, etc.&quot;</td>
+<td>（语境）泛代数研究<strong>所有代数结构的共同性质</strong>，这些结构包括群、环、域、格等。</td>
+<td><a href="https://mathworld.wolfram.com/UniversalAlgebra.html#:%7E:text=Universal%20algebra%20studies%20common%20properties%20of%20all%20algebraic%20structures">Weisstein, n.d.-bb, &quot;Universal algebra&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="11-number-theory/index.html">11 Number Theory</a></strong><br>数论</td>
+<td>&quot;Number theory is a vast and fascinating field of mathematics, sometimes called 'higher arithmetic,' consisting of <strong>the study of the properties of whole numbers</strong>.&quot;</td>
+<td>数论是一个广阔而迷人的数学领域，有时被称为“高等算术”，它由<strong>对整数性质的研究</strong>构成。</td>
+<td><a href="https://mathworld.wolfram.com/NumberTheory.html#:%7E:text=consisting%20of%20the%20study%20of%20the%20properties%20of%20whole%20numbers">Weisstein, n.d.-aj, &quot;Number theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="12-field-theory-and-polynomials/index.html">12 Field Theory and Polynomials</a></strong><br>域论与多项式</td>
+<td>&quot;A field is any set of elements that satisfies the <strong>field axioms for both addition and multiplication</strong> and is a <strong>commutative division algebra</strong>.&quot;</td>
+<td>域是满足<strong>加法和乘法两方面的域公理</strong>、并且是<strong>交换除代数</strong>的任意元素集合。</td>
+<td><a href="https://mathworld.wolfram.com/Field.html#:%7E:text=A%20field%20is%20any%20set%20of%20elements%20that%20satisfies%20the%20field%20axioms">Weisstein, n.d.-p, &quot;Field&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="13-commutative-algebra/index.html">13 Commutative Algebra</a></strong><br>交换代数</td>
+<td>&quot;A commutative algebra over a field k is a <strong>vector space A over k</strong> equipped with <strong>bilinear multiplication</strong> satisfying ab=ba for all a,b in A.&quot;</td>
+<td>域 k 上的交换代数是 <strong>k 上的向量空间 A</strong>，它配有<strong>双线性乘法</strong>，并对 A 中所有 a、b 满足 ab=ba。</td>
+<td><a href="https://mathworld.wolfram.com/CommutativeAlgebra.html#:%7E:text=A%20commutative%20algebra%20over%20a%20field%20k%20is%20a%20vector%20space">Weisstein, n.d.-j, &quot;Commutative algebra&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="14-algebraic-geometry/index.html">14 Algebraic Geometry</a></strong><br>代数几何</td>
+<td>&quot;Algebraic geometry is the study of <strong>geometries that come from algebra</strong>, in particular, from rings.&quot;</td>
+<td>代数几何研究<strong>来自代数的几何</strong>，特别是来自环的几何。</td>
+<td><a href="https://mathworld.wolfram.com/AlgebraicGeometry.html#:%7E:text=Algebraic%20geometry%20is%20the%20study%20of%20geometries%20that%20come%20from%20algebra">Weisstein, n.d.-a, &quot;Algebraic geometry&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="15-linear-and-multilinear-algebra-matrix-theory/index.html">15 Linear and Multilinear Algebra; Matrix Theory</a></strong><br>线性与多重线性代数；矩阵论</td>
+<td>&quot;Linear algebra is the study of <strong>sets of linear equations</strong> and their <strong>transformation properties</strong>.&quot;</td>
+<td>线性代数研究<strong>线性方程组</strong>及其<strong>变换性质</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/LinearAlgebra.html#:%7E:text=Linear%20algebra%20is%20the%20study%20of%20sets%20of%20linear%20equations">Weisstein, n.d.-ac, &quot;Linear algebra&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="16-associative-rings-and-algebras/index.html">16 Associative Rings and Algebras</a></strong><br>结合环与结合代数</td>
+<td>&quot;A ring in the mathematical sense is <strong>a set S together with two binary operators</strong> + and * (commonly interpreted as <strong>addition and multiplication</strong>, respectively) satisfying the following conditions ...&quot;</td>
+<td>数学意义上的环是<strong>一个集合 S 连同两个二元运算</strong> + 和 *（通常分别解释为<strong>加法和乘法</strong>），并满足以下条件……</td>
+<td><a href="https://mathworld.wolfram.com/Ring.html#:%7E:text=A%20ring%20in%20the%20mathematical%20sense%20is%20a%20set">Weisstein, n.d.-av, &quot;Ring&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="17-nonassociative-rings-and-algebras/index.html">17 Nonassociative Rings and Algebras</a></strong><br>非结合环与非结合代数</td>
+<td>&quot;A nonassociative algebra is an algebra which <strong>does not satisfy</strong> a(bc)=(ab)c.&quot;</td>
+<td>非结合代数是<strong>不满足</strong> a(bc)=(ab)c 的代数。</td>
+<td><a href="https://mathworld.wolfram.com/NonassociativeAlgebra.html#:%7E:text=A%20nonassociative%20algebra%20is%20an%20algebra%20which%20does%20not%20satisfy">Weisstein, n.d.-ai, &quot;Nonassociative algebra&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="18-category-theory-homological-algebra/index.html">18 Category Theory; Homological Algebra</a></strong><br>范畴论；同调代数</td>
+<td>&quot;The branch of mathematics which formalizes a number of <strong>algebraic properties of collections of transformations between mathematical objects</strong> (such as binary relations, groups, sets, topological spaces, etc.) of the same type ...&quot;</td>
+<td>这个数学分支把同一类型的数学对象（如二元关系、群、集合、拓扑空间等）之间<strong>变换的汇集所具有的若干代数性质</strong>加以形式化……</td>
+<td><a href="https://mathworld.wolfram.com/CategoryTheory.html#:%7E:text=The%20branch%20of%20mathematics%20which%20formalizes%20a%20number%20of%20algebraic%20properties">Weisstein, n.d.-g, &quot;Category theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="19-k-theory/index.html">19 K-Theory</a></strong><br>K-理论</td>
+<td>&quot;K-theory is a branch of mathematics which <strong>brings together ideas from algebraic geometry, linear algebra, and number theory</strong>.&quot;</td>
+<td>K-理论是一个数学分支，它<strong>把代数几何、线性代数和数论的思想结合在一起</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/K-Theory.html#:%7E:text=K%2Dtheory%20is%20a%20branch%20of%20mathematics%20which%20brings%20together%20ideas">Weisstein, n.d.-ab, &quot;K-theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="20-group-theory-and-generalizations/index.html">20 Group Theory and Generalizations</a></strong><br>群论及其推广</td>
+<td>&quot;The <strong>study of groups</strong>.&quot;</td>
+<td>对<strong>群的研究</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/GroupTheory.html#:%7E:text=The%20study%20of%20groups">Weisstein, n.d.-v, &quot;Group theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="22-topological-groups-lie-groups/index.html">22 Topological Groups, Lie Groups</a></strong><br>拓扑群、李群</td>
+<td>&quot;A topological group is a <strong>continuous group</strong> G which has the <strong>topology of a T2-space</strong>.&quot;</td>
+<td>拓扑群是具有 <strong>T2 空间拓扑</strong>的<strong>连续群</strong> G。</td>
+<td><a href="https://mathworld.wolfram.com/TopologicalGroup.html#:%7E:text=A%20topological%20group%20is%20a%20continuous%20group">Weisstein, n.d.-az, &quot;Topological group&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="26-real-functions/index.html">26 Real Functions</a></strong><br>实函数</td>
+<td>&quot;A function whose <strong>range is in the real numbers</strong> is said to be a real function, also called a real-valued function.&quot;</td>
+<td><strong>值域在实数中</strong>的函数称为实函数，也称为实值函数。</td>
+<td><a href="https://mathworld.wolfram.com/RealFunction.html#:%7E:text=A%20function%20whose%20range%20is%20in%20the%20real%20numbers">Weisstein, n.d.-au, &quot;Real function&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="28-measure-and-integration/index.html">28 Measure and Integration</a></strong><br>测度与积分</td>
+<td>&quot;Measure theory is the <strong>study of measures</strong>. It generalizes the intuitive notions of <strong>length, area, and volume</strong>.&quot;</td>
+<td>测度论是<strong>对测度的研究</strong>。它推广了<strong>长度、面积和体积</strong>这些直观概念。</td>
+<td><a href="https://mathworld.wolfram.com/MeasureTheory.html#:%7E:text=Measure%20theory%20is%20the%20study%20of%20measures">Weisstein, n.d.-ah, &quot;Measure theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="30-functions-of-a-complex-variable/index.html">30 Functions of a Complex Variable</a></strong><br>复变函数</td>
+<td>(context) &quot;Complex analysis is the study of <strong>complex numbers together with their derivatives</strong>, manipulation, and other properties.&quot;</td>
+<td>（语境）复分析研究<strong>复数及其导数</strong>、运算和其他性质。</td>
+<td><a href="https://mathworld.wolfram.com/ComplexAnalysis.html#:%7E:text=Complex%20analysis%20is%20the%20study%20of%20complex%20numbers">Weisstein, n.d.-k, &quot;Complex analysis&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="31-potential-theory/index.html">31 Potential Theory</a></strong><br>位势论</td>
+<td>&quot;The study of <strong>harmonic functions</strong> (also called potential functions).&quot;</td>
+<td>对<strong>调和函数</strong>（也称位势函数）的研究。</td>
+<td><a href="https://mathworld.wolfram.com/PotentialTheory.html#:%7E:text=The%20study%20of%20harmonic%20functions">Weisstein, n.d.-ar, &quot;Potential theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="32-several-complex-variables-and-analytic-spaces/index.html">32 Several Complex Variables and Analytic Spaces</a></strong><br>多复变与解析空间</td>
+<td>(context) &quot;Complex analysis is the study of <strong>complex numbers together with their derivatives</strong>, manipulation, and other properties.&quot;</td>
+<td>（语境）复分析研究<strong>复数及其导数</strong>、运算和其他性质。</td>
+<td><a href="https://mathworld.wolfram.com/ComplexAnalysis.html#:%7E:text=Complex%20analysis%20is%20the%20study%20of%20complex%20numbers">Weisstein, n.d.-k, &quot;Complex analysis&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="33-special-functions/index.html">33 Special Functions</a></strong><br>特殊函数</td>
+<td>&quot;A special function is a function (usually named after an early investigator of its properties) having <strong>a particular use in mathematical physics</strong> or some other branch of mathematics.&quot;</td>
+<td>特殊函数是一种函数（通常以早期研究其性质的人命名），它<strong>有特定的用途，用在数学物理</strong>或其他数学分支中。</td>
+<td><a href="https://mathworld.wolfram.com/SpecialFunction.html#:%7E:text=A%20special%20function%20is%20a%20function">Weisstein, n.d.-ax, &quot;Special function&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="34-ordinary-differential-equations/index.html">34 Ordinary Differential Equations</a></strong><br>常微分方程</td>
+<td>&quot;An ordinary differential equation (frequently called an 'ODE,' 'diff eq,' or 'diffy Q') is an <strong>equality involving a function and its derivatives</strong>.&quot;</td>
+<td>常微分方程（常称为“ODE”“diff eq”或“diffy Q”）是<strong>含有一个函数及其导数的等式</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/OrdinaryDifferentialEquation.html#:%7E:text=is%20an%20equality%20involving%20a%20function%20and%20its%20derivatives">Weisstein, n.d.-ao, &quot;Ordinary differential equation&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="35-partial-differential-equations/index.html">35 Partial Differential Equations</a></strong><br>偏微分方程</td>
+<td>&quot;A partial differential equation (PDE) is an <strong>equation involving functions and their partial derivatives</strong> ...&quot;</td>
+<td>偏微分方程（PDE）是<strong>含有函数及其偏导数的方程</strong>……</td>
+<td><a href="https://mathworld.wolfram.com/PartialDifferentialEquation.html#:%7E:text=A%20partial%20differential%20equation%20%28PDE%29%20is%20an%20equation%20involving%20functions">Weisstein, n.d.-ap, &quot;Partial differential equation&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="37-dynamical-systems-and-ergodic-theory/index.html">37 Dynamical Systems and Ergodic Theory</a></strong><br>动力系统与遍历理论</td>
+<td>&quot;A dynamical system describes <strong>how a state evolves with time</strong>.&quot;</td>
+<td>动力系统描述<strong>状态如何随时间演化</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/DynamicalSystem.html#:%7E:text=A%20dynamical%20system%20describes%20how%20a%20state%20evolves%20with%20time">Weisstein, n.d.-o, &quot;Dynamical system&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="39-difference-and-functional-equations/index.html">39 Difference and Functional Equations</a></strong><br>差分方程与函数方程</td>
+<td>&quot;A difference equation, also called a finite difference equations, is an equation that <strong>involves finite differences of a function</strong>.&quot;</td>
+<td>差分方程（也称有限差分方程）是<strong>含有函数的有限差分</strong>的方程。</td>
+<td><a href="https://mathworld.wolfram.com/DifferenceEquation.html#:%7E:text=is%20an%20equation%20that%20involves%20finite%20differences%20of%20a%20function">Weisstein, n.d.-m, &quot;Difference equation&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="40-sequences-series-summability/index.html">40 Sequences, Series, Summability</a></strong><br>序列、级数、可和性</td>
+<td>&quot;A sequence is an <strong>ordered set of mathematical objects</strong>.&quot;</td>
+<td>序列是<strong>数学对象的有序集合</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/Sequence.html#:%7E:text=A%20sequence%20is%20an%20ordered%20set%20of%20mathematical%20objects">Weisstein, n.d.-aw, &quot;Sequence&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="41-approximations-and-expansions/index.html">41 Approximations and Expansions</a></strong><br>逼近与展开</td>
+<td>&quot;The mathematical study of <strong>how given quantities can be approximated by other (usually simpler) ones</strong> under appropriate conditions.&quot;</td>
+<td>对<strong>给定的量如何在适当条件下用其他（通常更简单的）量来近似</strong>所作的数学研究。</td>
+<td><a href="https://mathworld.wolfram.com/ApproximationTheory.html#:%7E:text=The%20mathematical%20study%20of%20how%20given%20quantities%20can%20be%20approximated">Weisstein, n.d.-d, &quot;Approximation theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="42-harmonic-analysis-on-euclidean-spaces/index.html">42 Harmonic Analysis on Euclidean Spaces</a></strong><br>欧氏空间上的调和分析</td>
+<td>&quot;Harmonic analysis studies <strong>the representation and analysis of functions through oscillatory components</strong>.&quot;</td>
+<td>调和分析研究<strong>通过振荡分量来表示和分析函数</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/HarmonicAnalysis.html#:%7E:text=Harmonic%20analysis%20studies%20the%20representation%20and%20analysis%20of%20functions">Weisstein, n.d.-w, &quot;Harmonic analysis&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="43-abstract-harmonic-analysis/index.html">43 Abstract Harmonic Analysis</a></strong><br>抽象调和分析</td>
+<td>(context) &quot;The field includes such branches as Fourier series, isospectral manifolds (hearing the shape of a drum), and <strong>topological groups</strong>.&quot;</td>
+<td>（语境）这一领域包括傅里叶级数、等谱流形（听出鼓的形状）以及<strong>拓扑群</strong>等分支。</td>
+<td><a href="https://mathworld.wolfram.com/HarmonicAnalysis.html#:%7E:text=The%20field%20includes%20such%20branches%20as%20Fourier%20series">Weisstein, n.d.-w, &quot;Harmonic analysis&quot; entry, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="44-integral-transforms-operational-calculus/index.html">44 Integral Transforms, Operational Calculus</a></strong><br>积分变换、算子演算</td>
+<td>&quot;A general integral transform is defined by g(alpha)=int_a^bf(t)K(alpha,t)dt, where K(alpha,t) is called the <strong>integral kernel</strong> of the transform.&quot;</td>
+<td>一般的积分变换定义为 g(alpha)=int_a^bf(t)K(alpha,t)dt，其中 K(alpha,t) 称为该变换的<strong>积分核</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/IntegralTransform.html#:%7E:text=A%20general%20integral%20transform%20is%20defined%20by">Weisstein, n.d.-aa, &quot;Integral transform&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="45-integral-equations/index.html">45 Integral Equations</a></strong><br>积分方程</td>
+<td>&quot;An integral equation is an equation involving <strong>a function f(x) and integrals of that function</strong> to solved for f(x).&quot;</td>
+<td>积分方程是含有<strong>一个函数 f(x) 以及该函数的积分</strong>、要从中解出 f(x) 的方程。</td>
+<td><a href="https://mathworld.wolfram.com/IntegralEquation.html#:%7E:text=An%20integral%20equation%20is%20an%20equation%20involving%20a%20function">Weisstein, n.d.-z, &quot;Integral equation&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="46-functional-analysis/index.html">46 Functional Analysis</a></strong><br>泛函分析</td>
+<td>&quot;Functional analysis is a branch of mathematics concerned with <strong>infinite-dimensional vector spaces</strong> (mainly function spaces) and <strong>mappings between them</strong>.&quot;</td>
+<td>泛函分析是一个数学分支，研究<strong>无穷维向量空间</strong>（主要是函数空间）以及<strong>它们之间的映射</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/FunctionalAnalysis.html#:%7E:text=Functional%20analysis%20is%20a%20branch%20of%20mathematics%20concerned%20with%20infinite">Weisstein, n.d.-r, &quot;Functional analysis&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="47-operator-theory/index.html">47 Operator Theory</a></strong><br>算子理论</td>
+<td>&quot;Operator theory is a broad area of mathematics connected with <strong>functional analysis, differential equations, index theory, representation theory, and mathematical physics</strong>.&quot;</td>
+<td>算子理论是一个广阔的数学领域，与<strong>泛函分析、微分方程、指标理论、表示论和数学物理</strong>相关联。</td>
+<td><a href="https://mathworld.wolfram.com/OperatorTheory.html#:%7E:text=Operator%20theory%20is%20a%20broad%20area%20of%20mathematics">Weisstein, n.d.-am, &quot;Operator theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="49-calculus-of-variations-and-optimal-control-optimization/index.html">49 Calculus of Variations and Optimal Control; Optimization</a></strong><br>变分法与最优控制；最优化</td>
+<td>&quot;Calculus of variations seeks to find <strong>the path, curve, surface, etc., for which a given functional has a stationary value</strong> (which, in physical problems, is usually a minimum or maximum).&quot;</td>
+<td>变分法寻找<strong>使给定泛函取驻值的路径、曲线、曲面等</strong>（在物理问题中通常是极小值或极大值）。</td>
+<td><a href="https://mathworld.wolfram.com/CalculusofVariations.html#:%7E:text=Calculus%20of%20variations%20seeks%20to%20find%20the%20path">Weisstein, n.d.-f, &quot;Calculus of variations&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="51-geometry/index.html">51 Geometry</a></strong><br>几何</td>
+<td>&quot;Geometry is the study of <strong>figures in a space of a given number of dimensions and of a given type</strong>.&quot;</td>
+<td>几何研究<strong>给定维数、给定类型的空间中的图形</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/Geometry.html#:%7E:text=Geometry%20is%20the%20study%20of%20figures%20in%20a%20space">Weisstein, n.d.-u, &quot;Geometry&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="52-convex-and-discrete-geometry/index.html">52 Convex and Discrete Geometry</a></strong><br>凸几何与离散几何</td>
+<td>(context) &quot;Combinatorial geometry is a blending of principles from the areas of combinatorics and geometry. It deals with <strong>combinations and arrangements of geometric objects</strong> and with <strong>discrete properties of these objects</strong>.&quot;</td>
+<td>（语境）组合几何融合了组合学和几何学两方面的原理。它研究<strong>几何对象的组合与排列</strong>，以及<strong>这些对象的离散性质</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/CombinatorialGeometry.html#:%7E:text=It%20deals%20with%20combinations%20and%20arrangements%20of%20geometric%20objects">Weisstein, n.d.-h, &quot;Combinatorial geometry&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="53-differential-geometry/index.html">53 Differential Geometry</a></strong><br>微分几何</td>
+<td>&quot;Differential geometry is the <strong>study of Riemannian manifolds</strong>.&quot;</td>
+<td>微分几何是<strong>对黎曼流形的研究</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/DifferentialGeometry.html#:%7E:text=Differential%20geometry%20is%20the%20study%20of%20Riemannian%20manifolds">Weisstein, n.d.-n, &quot;Differential geometry&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="54-general-topology/index.html">54 General Topology</a></strong><br>一般拓扑</td>
+<td>(context) &quot;Topology is the mathematical study of <strong>the properties that are preserved through deformations, twistings, and stretchings of objects</strong>.&quot;</td>
+<td>（语境）拓扑学是对<strong>物体经过变形、扭曲和拉伸后仍保持的性质</strong>所作的数学研究。</td>
+<td><a href="https://mathworld.wolfram.com/Topology.html#:%7E:text=Topology%20is%20the%20mathematical%20study%20of%20the%20properties">Weisstein, n.d.-ba, &quot;Topology&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="55-algebraic-topology/index.html">55 Algebraic Topology</a></strong><br>代数拓扑</td>
+<td>&quot;Algebraic topology is the study of <strong>intrinsic qualitative aspects of spatial objects</strong> (e.g., surfaces, spheres, tori, circles, knots, links, configuration spaces, etc.) that <strong>remain invariant under both-directions continuous one-to-one (homeomorphic) transformations</strong>.&quot;</td>
+<td>代数拓扑研究<strong>空间对象的内在定性特征</strong>（如曲面、球面、环面、圆、纽结、链环、构形空间等），这些特征<strong>在双向连续的一一（同胚）变换下保持不变</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/AlgebraicTopology.html#:%7E:text=Algebraic%20topology%20is%20the%20study%20of%20intrinsic%20qualitative%20aspects">Weisstein, n.d.-b, &quot;Algebraic topology&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="57-manifolds-and-cell-complexes/index.html">57 Manifolds and Cell Complexes</a></strong><br>流形与胞腔复形</td>
+<td>&quot;More concisely, <strong>any object that can be 'charted'</strong> is a manifold.&quot;</td>
+<td>更简洁地说，<strong>任何可以“绘制成图册”的对象</strong>都是流形。</td>
+<td><a href="https://mathworld.wolfram.com/Manifold.html#:%7E:text=More%20concisely%2C%20any%20object%20that%20can%20be">Weisstein, n.d.-ae, &quot;Manifold&quot; entry, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="58-global-analysis-analysis-on-manifolds/index.html">58 Global Analysis, Analysis on Manifolds</a></strong><br>整体分析、流形上的分析</td>
+<td>(context) &quot;A manifold without boundary is a T2-space with a second countable topology that is <strong>locally Euclidean</strong> (i.e., around every point, there is a neighborhood that is <strong>topologically the same as the open unit ball in R^n</strong>).&quot;</td>
+<td>（语境）无边流形是具有第二可数拓扑、并且<strong>局部是欧几里得的</strong> T2 空间（即每一点周围都有一个邻域，它<strong>在拓扑上与 R^n 中的开单位球相同</strong>）。</td>
+<td><a href="https://mathworld.wolfram.com/Manifold.html#:%7E:text=A%20manifold%20without%20boundary%20is%20a">Weisstein, n.d.-ae, &quot;Manifold&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="60-probability-theory-and-stochastic-processes/index.html">60 Probability Theory and Stochastic Processes</a></strong><br>概率论与随机过程</td>
+<td>&quot;Probability is the branch of mathematics that studies the <strong>possible outcomes of given events</strong> together with the outcomes' <strong>relative likelihoods and distributions</strong>.&quot;</td>
+<td>概率是数学的一个分支，研究<strong>给定事件的可能结果</strong>，以及这些结果的<strong>相对可能性和分布</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/Probability.html#:%7E:text=Probability%20is%20the%20branch%20of%20mathematics%20that%20studies%20the%20possible%20outcomes">Weisstein, n.d.-as, &quot;Probability&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="62-statistics/index.html">62 Statistics</a></strong><br>统计</td>
+<td>&quot;The mathematical study of the <strong>likelihood and probability of events</strong> occurring based on known information and inferred by <strong>taking a limited number of samples</strong>.&quot;</td>
+<td>对事件发生的<strong>可能性和概率</strong>所作的数学研究，依据已知信息，并通过<strong>抽取有限数量的样本</strong>来推断。</td>
+<td><a href="https://mathworld.wolfram.com/Statistics.html#:%7E:text=The%20mathematical%20study%20of%20the%20likelihood%20and%20probability%20of%20events">Weisstein, n.d.-ay, &quot;Statistics&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="65-numerical-analysis/index.html">65 Numerical Analysis</a></strong><br>数值分析</td>
+<td>&quot;Numerical analysis is the study of <strong>algorithms for obtaining numerical approximations to mathematical problems</strong>.&quot;</td>
+<td>数值分析研究<strong>求数学问题数值近似解的算法</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/NumericalAnalysis.html#:%7E:text=Numerical%20analysis%20is%20the%20study%20of%20algorithms">Weisstein, n.d.-ak, &quot;Numerical analysis&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="68-computer-science/index.html">68 Computer Science</a></strong><br>计算机科学</td>
+<td>(context) &quot;An algorithm is a <strong>specific set of instructions for carrying out a procedure or solving a problem</strong>, usually with the requirement that the procedure terminate at some point.&quot;</td>
+<td>（语境）算法是<strong>执行某个过程或解决某个问题的一组具体指令</strong>，通常要求该过程在某一时刻终止。</td>
+<td><a href="https://mathworld.wolfram.com/Algorithm.html#:%7E:text=An%20algorithm%20is%20a%20specific%20set%20of%20instructions">Weisstein, n.d.-c, &quot;Algorithm&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="70-mechanics-of-particles-and-systems/index.html">70 Mechanics of Particles and Systems</a></strong><br>质点与质点系力学</td>
+<td>(Definition pending: no web source yet.)</td>
+<td>（定义待补：暂无网页来源。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="74-mechanics-of-deformable-solids/index.html">74 Mechanics of Deformable Solids</a></strong><br>可变形固体力学</td>
+<td>(Definition pending: no web source yet.)</td>
+<td>（定义待补：暂无网页来源。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="76-fluid-mechanics/index.html">76 Fluid Mechanics</a></strong><br>流体力学</td>
+<td>&quot;Fluid mechanics is the study of <strong>the flow of fluids</strong>, and is sometimes known as hydrodynamics.&quot;</td>
+<td>流体力学研究<strong>流体的流动</strong>，有时也称为水动力学。</td>
+<td><a href="https://scienceworld.wolfram.com/physics/FluidMechanics.html#:%7E:text=Fluid%20mechanics%20is%20the%20study%20of%20the%20flow%20of">Weisstein, n.d.-q, &quot;Fluid mechanics&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="78-optics-electromagnetic-theory/index.html">78 Optics, Electromagnetic Theory</a></strong><br>光学、电磁理论</td>
+<td>&quot;Optics is the study of <strong>the propagation of electromagnetic radiation</strong> (most commonly, visible light).&quot;</td>
+<td>光学研究<strong>电磁辐射的传播</strong>（最常见的是可见光）。</td>
+<td><a href="https://scienceworld.wolfram.com/physics/Optics.html#:%7E:text=Optics%20is%20the%20study%20of%20the%20propagation%20of%20electromagnetic%20radiation">Weisstein, n.d.-an, &quot;Optics&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="80-classical-thermodynamics-heat-transfer/index.html">80 Classical Thermodynamics, Heat Transfer</a></strong><br>经典热力学、热传递</td>
+<td>(context) &quot;The heat conduction equation is a <strong>partial differential diffusion equation</strong> ...&quot;</td>
+<td>（语境）热传导方程是一种<strong>偏微分扩散方程</strong>……</td>
+<td><a href="https://mathworld.wolfram.com/HeatConductionEquation.html#:%7E:text=The%20heat%20conduction%20equation%20is%20a%20partial%20differential%20diffusion%20equation">Weisstein, n.d.-x, &quot;Heat conduction equation&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="81-quantum-theory/index.html">81 Quantum Theory</a></strong><br>量子理论</td>
+<td>&quot;Quantum mechanics is the description of <strong>motion and interaction of particles at the small scales</strong> where the discrete nature of the physical world becomes important.&quot;</td>
+<td>量子力学描述<strong>在微小尺度上粒子的运动和相互作用</strong>，在这些尺度上物理世界的离散性变得重要。</td>
+<td><a href="https://scienceworld.wolfram.com/physics/QuantumMechanics.html#:%7E:text=Quantum%20mechanics%20is%20the%20description%20of%20motion%20and%20interaction">Weisstein, n.d.-at, &quot;Quantum mechanics&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="82-statistical-mechanics-structure-of-matter/index.html">82 Statistical Mechanics, Structure of Matter</a></strong><br>统计力学、物质结构</td>
+<td>(Definition pending: no web source yet.)</td>
+<td>（定义待补：暂无网页来源。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="83-relativity-and-gravitational-theory/index.html">83 Relativity and Gravitational Theory</a></strong><br>相对论与引力理论</td>
+<td>&quot;A theory invented by Albert Einstein which <strong>describes gravitational forces in terms of the curvature in space caused by the presence of mass</strong>.&quot;</td>
+<td>由爱因斯坦（Albert Einstein）提出的理论，它<strong>用质量的存在所引起的空间弯曲来描述引力</strong>。</td>
+<td><a href="https://scienceworld.wolfram.com/physics/GeneralRelativity.html#:%7E:text=A%20theory%20invented%20by%20Albert%20Einstein">Weisstein, n.d.-t, &quot;General relativity&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="85-astronomy-and-astrophysics/index.html">85 Astronomy and Astrophysics</a></strong><br>天文学与天体物理学</td>
+<td>&quot;The study of <strong>the physical properties of astronomical objects</strong>, including stars, planets, black holes, neutron stars, accretion disks, etc.&quot;</td>
+<td>对<strong>天体物理性质</strong>的研究，天体包括恒星、行星、黑洞、中子星、吸积盘等。</td>
+<td><a href="https://scienceworld.wolfram.com/physics/Astrophysics.html#:%7E:text=The%20study%20of%20the%20physical%20properties%20of%20astronomical%20objects">Weisstein, n.d.-e, &quot;Astrophysics&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="86-geophysics/index.html">86 Geophysics</a></strong><br>地球物理</td>
+<td>(Definition pending: no web source yet.)</td>
+<td>（定义待补：暂无网页来源。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="90-operations-research-mathematical-programming/index.html">90 Operations Research, Mathematical Programming</a></strong><br>运筹学、数学规划</td>
+<td>&quot;Operations research is a vast branch of mathematics which encompasses <strong>many diverse areas of minimization and optimization</strong>.&quot;</td>
+<td>运筹学是一个广阔的数学分支，涵盖<strong>极小化与最优化的许多不同领域</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/OperationsResearch.html#:%7E:text=Operations%20research%20is%20a%20vast%20branch%20of%20mathematics">Weisstein, n.d.-al, &quot;Operations research&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="91-game-theory-economics-finance-and-other-social-and-behaviora/index.html">91 Game Theory, Economics, Finance, and Other Social and Behavioral Sciences</a></strong><br>博弈论、经济学、金融及其他社会与行为科学</td>
+<td>&quot;Game theory is a branch of mathematics that deals with <strong>the analysis of games</strong> (i.e., situations involving parties with conflicting interests).&quot;</td>
+<td>博弈论是一个数学分支，处理<strong>对博弈的分析</strong>（即涉及利益冲突各方的情形）。</td>
+<td><a href="https://mathworld.wolfram.com/GameTheory.html#:%7E:text=Game%20theory%20is%20a%20branch%20of%20mathematics%20that%20deals%20with%20the%20analysis%20of%20games">Weisstein, n.d.-s, &quot;Game theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="92-biology-and-other-natural-sciences/index.html">92 Biology and Other Natural Sciences</a></strong><br>生物学及其他自然科学</td>
+<td>&quot;Mathematical biology is the use of <strong>mathematical methods to formulate and analyze models of biological systems</strong>.&quot;</td>
+<td>数学生物学是运用<strong>数学方法来建立和分析生物系统的模型</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/MathematicalBiology.html#:%7E:text=Mathematical%20biology%20is%20the%20use%20of%20mathematical%20methods">Weisstein, n.d.-af, &quot;Mathematical biology&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="93-systems-theory-control/index.html">93 Systems Theory; Control</a></strong><br>系统论；控制</td>
+<td>&quot;The mathematical study of <strong>how to manipulate the parameters affecting the behavior of a system</strong> to produce the desired or optimal outcome.&quot;</td>
+<td>对<strong>如何调节影响系统行为的参数</strong>、以得到期望或最优结果所作的数学研究。</td>
+<td><a href="https://mathworld.wolfram.com/ControlTheory.html#:%7E:text=The%20mathematical%20study%20of%20how%20to%20manipulate%20the%20parameters">Weisstein, n.d.-l, &quot;Control theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="94-information-and-communication-theory-circuits/index.html">94 Information and Communication Theory, Circuits</a></strong><br>信息与通信理论、电路</td>
+<td>&quot;Information theory is the branch of mathematics dealing with <strong>the efficient and accurate storage, transmission, and representation of information</strong>.&quot;</td>
+<td>信息论是一个数学分支，处理<strong>信息的高效、准确存储、传输和表示</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/InformationTheory.html#:%7E:text=Information%20theory%20is%20the%20branch%20of%20mathematics%20dealing%20with">Weisstein, n.d.-y, &quot;Information theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="97-mathematics-education/index.html">97 Mathematics Education</a></strong><br>数学教育</td>
+<td>(Definition pending: no web source yet.)</td>
+<td>（定义待补：暂无网页来源。）</td>
+<td>Pending</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Associate Editors of Mathematical Reviews and zbMATH. (2020). <em>MSC2020: Mathematics Subject Classification system</em>. Retrieved October 27, 2026, from <a href="https://msc2020.org/">https://msc2020.org/</a></p>
+<p>Weisstein, E. W. (n.d.-a). <em>Algebraic geometry</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/AlgebraicGeometry.html">https://mathworld.wolfram.com/AlgebraicGeometry.html</a></p>
+<p>Weisstein, E. W. (n.d.-b). <em>Algebraic topology</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/AlgebraicTopology.html">https://mathworld.wolfram.com/AlgebraicTopology.html</a></p>
+<p>Weisstein, E. W. (n.d.-c). <em>Algorithm</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Algorithm.html">https://mathworld.wolfram.com/Algorithm.html</a></p>
+<p>Weisstein, E. W. (n.d.-d). <em>Approximation theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/ApproximationTheory.html">https://mathworld.wolfram.com/ApproximationTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-e). <em>Astrophysics</em>. Eric Weisstein's World of Physics. Retrieved October 27, 2026, from <a href="https://scienceworld.wolfram.com/physics/Astrophysics.html">https://scienceworld.wolfram.com/physics/Astrophysics.html</a></p>
+<p>Weisstein, E. W. (n.d.-f). <em>Calculus of variations</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/CalculusofVariations.html">https://mathworld.wolfram.com/CalculusofVariations.html</a></p>
+<p>Weisstein, E. W. (n.d.-g). <em>Category theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/CategoryTheory.html">https://mathworld.wolfram.com/CategoryTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-h). <em>Combinatorial geometry</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/CombinatorialGeometry.html">https://mathworld.wolfram.com/CombinatorialGeometry.html</a></p>
+<p>Weisstein, E. W. (n.d.-i). <em>Combinatorics</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Combinatorics.html">https://mathworld.wolfram.com/Combinatorics.html</a></p>
+<p>Weisstein, E. W. (n.d.-j). <em>Commutative algebra</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/CommutativeAlgebra.html">https://mathworld.wolfram.com/CommutativeAlgebra.html</a></p>
+<p>Weisstein, E. W. (n.d.-k). <em>Complex analysis</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/ComplexAnalysis.html">https://mathworld.wolfram.com/ComplexAnalysis.html</a></p>
+<p>Weisstein, E. W. (n.d.-l). <em>Control theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/ControlTheory.html">https://mathworld.wolfram.com/ControlTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-m). <em>Difference equation</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/DifferenceEquation.html">https://mathworld.wolfram.com/DifferenceEquation.html</a></p>
+<p>Weisstein, E. W. (n.d.-n). <em>Differential geometry</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/DifferentialGeometry.html">https://mathworld.wolfram.com/DifferentialGeometry.html</a></p>
+<p>Weisstein, E. W. (n.d.-o). <em>Dynamical system</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/DynamicalSystem.html">https://mathworld.wolfram.com/DynamicalSystem.html</a></p>
+<p>Weisstein, E. W. (n.d.-p). <em>Field</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Field.html">https://mathworld.wolfram.com/Field.html</a></p>
+<p>Weisstein, E. W. (n.d.-q). <em>Fluid mechanics</em>. Eric Weisstein's World of Physics. Retrieved October 27, 2026, from <a href="https://scienceworld.wolfram.com/physics/FluidMechanics.html">https://scienceworld.wolfram.com/physics/FluidMechanics.html</a></p>
+<p>Weisstein, E. W. (n.d.-r). <em>Functional analysis</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/FunctionalAnalysis.html">https://mathworld.wolfram.com/FunctionalAnalysis.html</a></p>
+<p>Weisstein, E. W. (n.d.-s). <em>Game theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/GameTheory.html">https://mathworld.wolfram.com/GameTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-t). <em>General relativity</em>. Eric Weisstein's World of Physics. Retrieved October 27, 2026, from <a href="https://scienceworld.wolfram.com/physics/GeneralRelativity.html">https://scienceworld.wolfram.com/physics/GeneralRelativity.html</a></p>
+<p>Weisstein, E. W. (n.d.-u). <em>Geometry</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Geometry.html">https://mathworld.wolfram.com/Geometry.html</a></p>
+<p>Weisstein, E. W. (n.d.-v). <em>Group theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/GroupTheory.html">https://mathworld.wolfram.com/GroupTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-w). <em>Harmonic analysis</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/HarmonicAnalysis.html">https://mathworld.wolfram.com/HarmonicAnalysis.html</a></p>
+<p>Weisstein, E. W. (n.d.-x). <em>Heat conduction equation</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/HeatConductionEquation.html">https://mathworld.wolfram.com/HeatConductionEquation.html</a></p>
+<p>Weisstein, E. W. (n.d.-y). <em>Information theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/InformationTheory.html">https://mathworld.wolfram.com/InformationTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-z). <em>Integral equation</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/IntegralEquation.html">https://mathworld.wolfram.com/IntegralEquation.html</a></p>
+<p>Weisstein, E. W. (n.d.-aa). <em>Integral transform</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/IntegralTransform.html">https://mathworld.wolfram.com/IntegralTransform.html</a></p>
+<p>Weisstein, E. W. (n.d.-ab). <em>K-theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/K-Theory.html">https://mathworld.wolfram.com/K-Theory.html</a></p>
+<p>Weisstein, E. W. (n.d.-ac). <em>Linear algebra</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/LinearAlgebra.html">https://mathworld.wolfram.com/LinearAlgebra.html</a></p>
+<p>Weisstein, E. W. (n.d.-ad). <em>Logic</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Logic.html">https://mathworld.wolfram.com/Logic.html</a></p>
+<p>Weisstein, E. W. (n.d.-ae). <em>Manifold</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Manifold.html">https://mathworld.wolfram.com/Manifold.html</a></p>
+<p>Weisstein, E. W. (n.d.-af). <em>Mathematical biology</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/MathematicalBiology.html">https://mathworld.wolfram.com/MathematicalBiology.html</a></p>
+<p>Weisstein, E. W. (n.d.-ag). <em>Mathematics</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Mathematics.html">https://mathworld.wolfram.com/Mathematics.html</a></p>
+<p>Weisstein, E. W. (n.d.-ah). <em>Measure theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/MeasureTheory.html">https://mathworld.wolfram.com/MeasureTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-ai). <em>Nonassociative algebra</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/NonassociativeAlgebra.html">https://mathworld.wolfram.com/NonassociativeAlgebra.html</a></p>
+<p>Weisstein, E. W. (n.d.-aj). <em>Number theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/NumberTheory.html">https://mathworld.wolfram.com/NumberTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-ak). <em>Numerical analysis</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/NumericalAnalysis.html">https://mathworld.wolfram.com/NumericalAnalysis.html</a></p>
+<p>Weisstein, E. W. (n.d.-al). <em>Operations research</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/OperationsResearch.html">https://mathworld.wolfram.com/OperationsResearch.html</a></p>
+<p>Weisstein, E. W. (n.d.-am). <em>Operator theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/OperatorTheory.html">https://mathworld.wolfram.com/OperatorTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-an). <em>Optics</em>. Eric Weisstein's World of Physics. Retrieved October 27, 2026, from <a href="https://scienceworld.wolfram.com/physics/Optics.html">https://scienceworld.wolfram.com/physics/Optics.html</a></p>
+<p>Weisstein, E. W. (n.d.-ao). <em>Ordinary differential equation</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/OrdinaryDifferentialEquation.html">https://mathworld.wolfram.com/OrdinaryDifferentialEquation.html</a></p>
+<p>Weisstein, E. W. (n.d.-ap). <em>Partial differential equation</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/PartialDifferentialEquation.html">https://mathworld.wolfram.com/PartialDifferentialEquation.html</a></p>
+<p>Weisstein, E. W. (n.d.-aq). <em>Partially ordered set</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/PartiallyOrderedSet.html">https://mathworld.wolfram.com/PartiallyOrderedSet.html</a></p>
+<p>Weisstein, E. W. (n.d.-ar). <em>Potential theory</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/PotentialTheory.html">https://mathworld.wolfram.com/PotentialTheory.html</a></p>
+<p>Weisstein, E. W. (n.d.-as). <em>Probability</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Probability.html">https://mathworld.wolfram.com/Probability.html</a></p>
+<p>Weisstein, E. W. (n.d.-at). <em>Quantum mechanics</em>. Eric Weisstein's World of Physics. Retrieved October 27, 2026, from <a href="https://scienceworld.wolfram.com/physics/QuantumMechanics.html">https://scienceworld.wolfram.com/physics/QuantumMechanics.html</a></p>
+<p>Weisstein, E. W. (n.d.-au). <em>Real function</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/RealFunction.html">https://mathworld.wolfram.com/RealFunction.html</a></p>
+<p>Weisstein, E. W. (n.d.-av). <em>Ring</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Ring.html">https://mathworld.wolfram.com/Ring.html</a></p>
+<p>Weisstein, E. W. (n.d.-aw). <em>Sequence</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Sequence.html">https://mathworld.wolfram.com/Sequence.html</a></p>
+<p>Weisstein, E. W. (n.d.-ax). <em>Special function</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/SpecialFunction.html">https://mathworld.wolfram.com/SpecialFunction.html</a></p>
+<p>Weisstein, E. W. (n.d.-ay). <em>Statistics</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Statistics.html">https://mathworld.wolfram.com/Statistics.html</a></p>
+<p>Weisstein, E. W. (n.d.-az). <em>Topological group</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/TopologicalGroup.html">https://mathworld.wolfram.com/TopologicalGroup.html</a></p>
+<p>Weisstein, E. W. (n.d.-ba). <em>Topology</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Topology.html">https://mathworld.wolfram.com/Topology.html</a></p>
+<p>Weisstein, E. W. (n.d.-bb). <em>Universal algebra</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/UniversalAlgebra.html">https://mathworld.wolfram.com/UniversalAlgebra.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:36-04:00">10/27/2026 21:51:36</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.9 Contours in OpenCV | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="OpenCV, 2.9 Contours in OpenCV: Contours : Getting Started, Contour Features, Contour Properties, Contours : More Functions, Contours Hierarchy.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="29-contours-in-opencv">2.9 Contours in OpenCV</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/contours-in-opencv.png" alt="2.9 Contours in OpenCV: its parts from the official menu, each with the entries the menu lists under it, in OpenCV."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.9 Contours in OpenCV</strong><br>OpenCV 中的轮廓</td>
+<td>(context) &quot;<strong>All about Contours in OpenCV</strong>&quot;</td>
+<td>（语境）<strong>关于 OpenCV 中轮廓的一切</strong></td>
+<td><a href="https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html">OpenCV team, n.d.-g, &quot;Image Processing in OpenCV&quot;, item 9</a></td>
+</tr>
+<tr>
+<td><strong>Contours : Getting Started</strong><br>轮廓入门</td>
+<td>(context) &quot;Learn to <strong>find and draw Contours</strong>&quot;</td>
+<td>（语境）学习<strong>寻找和绘制轮廓</strong></td>
+<td><a href="https://docs.opencv.org/4.x/d3/d05/tutorial_py_table_of_contents_contours.html">OpenCV team, n.d.-f, &quot;Contours in OpenCV&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Contours</strong><br>轮廓</td>
+<td>&quot;Contours can be explained simply as <strong>a curve joining all the continuous points (along the boundary), having same color or intensity</strong>.&quot;</td>
+<td>轮廓可以简单地解释为<strong>连接所有连续点（沿边界）、具有相同颜色或强度的曲线</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html#autotoc_md1347">OpenCV team, n.d.-c, &quot;What are contours?&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contour Approximation Method</strong><br>轮廓近似方法</td>
+<td>(context) &quot;But <strong>does it store all the coordinates</strong> ? That is specified by this contour approximation method.&quot;</td>
+<td>（语境）但<strong>它会存储所有坐标吗</strong>？这由轮廓近似方法来指定。</td>
+<td><a href="https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html#autotoc_md1349">OpenCV team, n.d.-c, &quot;Contour Approximation Method&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Contour Features</strong><br>轮廓特征</td>
+<td>(context) &quot;Learn to find <strong>different features of contours like area, perimeter, bounding rectangle etc</strong>.&quot;</td>
+<td>（语境）学习求<strong>轮廓的各种特征，如面积、周长、外接矩形等</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d3/d05/tutorial_py_table_of_contents_contours.html">OpenCV team, n.d.-f, &quot;Contours in OpenCV&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Moments</strong><br>矩</td>
+<td>&quot;Image moments help you to <strong>calculate some features like center of mass of the object, area of the object etc</strong>.&quot;</td>
+<td>图像矩帮助你<strong>计算一些特征，如物体的质心、物体的面积等</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1324">OpenCV team, n.d.-a, &quot;1. Moments&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contour Area</strong><br>轮廓面积</td>
+<td>(context) &quot;Contour area is given by the function cv.contourArea() or <strong>from moments, M['m00']</strong>.&quot;</td>
+<td>（语境）轮廓面积由函数 cv.contourArea() 给出，或者<strong>由矩 M['m00'] 得到</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1325">OpenCV team, n.d.-a, &quot;2. Contour Area&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contour Perimeter</strong><br>轮廓周长</td>
+<td>&quot;It is also called <strong>arc length</strong>.&quot;</td>
+<td>它也称为<strong>弧长</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1326">OpenCV team, n.d.-a, &quot;3. Contour Perimeter&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contour Approximation</strong><br>轮廓近似</td>
+<td>&quot;It <strong>approximates a contour shape to another shape with less number of vertices depending upon the precision we specify</strong>.&quot;</td>
+<td>它<strong>按照我们指定的精度，把一个轮廓形状近似为另一个顶点更少的形状</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1327">OpenCV team, n.d.-a, &quot;4. Contour Approximation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Douglas-Peucker algorithm</strong><br>道格拉斯-普克算法</td>
+<td>(context) &quot;It is <strong>an implementation of Douglas-Peucker algorithm</strong>.&quot;</td>
+<td>（语境）它是<strong>道格拉斯-普克算法的一种实现</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1327">OpenCV team, n.d.-a, &quot;4. Contour Approximation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Convex Hull</strong><br>凸包</td>
+<td>&quot;Here, cv.convexHull() function <strong>checks a curve for convexity defects and corrects it</strong>.&quot;</td>
+<td>这里，cv.convexHull() 函数<strong>检查曲线的凸缺陷并加以修正</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1328">OpenCV team, n.d.-a, &quot;5. Convex Hull&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>convex curves</strong><br>凸曲线</td>
+<td>&quot;Generally speaking, convex curves are <strong>the curves which are always bulged out, or at-least flat</strong>.&quot;</td>
+<td>一般来说，凸曲线是<strong>始终向外凸出、或至少是平的曲线</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1328">OpenCV team, n.d.-a, &quot;5. Convex Hull&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>convexity defects</strong><br>凸缺陷</td>
+<td>&quot;And <strong>if it is bulged inside</strong>, it is called convexity defects.&quot;</td>
+<td>而<strong>如果它向内凹进</strong>，就称为凸缺陷。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1328">OpenCV team, n.d.-a, &quot;5. Convex Hull&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Checking Convexity</strong><br>检查凸性</td>
+<td>&quot;There is a function to <strong>check if a curve is convex or not</strong>, cv.isContourConvex().&quot;</td>
+<td>有一个函数可以<strong>检查曲线是否为凸</strong>：cv.isContourConvex()。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1329">OpenCV team, n.d.-a, &quot;6. Checking Convexity&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Bounding Rectangle</strong><br>外接矩形</td>
+<td>(context) &quot;There are <strong>two types of bounding rectangles</strong>.&quot;</td>
+<td>（语境）外接矩形有<strong>两种类型</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1330">OpenCV team, n.d.-a, &quot;7. Bounding Rectangle&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Straight Bounding Rectangle</strong><br>直立外接矩形</td>
+<td>&quot;It is <strong>a straight rectangle, it doesn't consider the rotation of the object</strong>.&quot;</td>
+<td>它是<strong>一个直立的矩形，不考虑物体的旋转</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1331">OpenCV team, n.d.-a, &quot;7.a. Straight Bounding Rectangle&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Rotated Rectangle</strong><br>旋转矩形</td>
+<td>&quot;Here, <strong>bounding rectangle is drawn with minimum area, so it considers the rotation also</strong>.&quot;</td>
+<td>这里，<strong>外接矩形按最小面积绘制，因此也考虑了旋转</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1332">OpenCV team, n.d.-a, &quot;7.b. Rotated Rectangle&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Minimum Enclosing Circle</strong><br>最小外接圆</td>
+<td>&quot;It is <strong>a circle which completely covers the object with minimum area</strong>.&quot;</td>
+<td>它是<strong>以最小面积完全覆盖物体的圆</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1333">OpenCV team, n.d.-a, &quot;8. Minimum Enclosing Circle&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Fitting an Ellipse</strong><br>拟合椭圆</td>
+<td>(context) &quot;Next one is to <strong>fit an ellipse to an object</strong>.&quot;</td>
+<td>（语境）下一个是<strong>为物体拟合一个椭圆</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1334">OpenCV team, n.d.-a, &quot;9. Fitting an Ellipse&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Fitting a Line</strong><br>拟合直线</td>
+<td>(context) &quot;Similarly we can <strong>fit a line to a set of points</strong>.&quot;</td>
+<td>（语境）类似地，我们可以<strong>为一组点拟合一条直线</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html#autotoc_md1335">OpenCV team, n.d.-a, &quot;10. Fitting a Line&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contour Properties</strong><br>轮廓属性</td>
+<td>(context) &quot;Learn to find <strong>different properties of contours like Solidity, Mean Intensity etc</strong>.&quot;</td>
+<td>（语境）学习求<strong>轮廓的各种属性，如实心度、平均强度等</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d3/d05/tutorial_py_table_of_contents_contours.html">OpenCV team, n.d.-f, &quot;Contours in OpenCV&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Aspect Ratio</strong><br>宽高比</td>
+<td>&quot;It is <strong>the ratio of width to height of bounding rect of the object</strong>.&quot;</td>
+<td>它是<strong>物体外接矩形的宽与高之比</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html#autotoc_md1336">OpenCV team, n.d.-b, &quot;1. Aspect Ratio&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Extent</strong><br>范围比（Extent）</td>
+<td>&quot;Extent is <strong>the ratio of contour area to bounding rectangle area</strong>.&quot;</td>
+<td>Extent 是<strong>轮廓面积与外接矩形面积之比</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html#autotoc_md1337">OpenCV team, n.d.-b, &quot;2. Extent&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Solidity</strong><br>实心度</td>
+<td>&quot;Solidity is <strong>the ratio of contour area to its convex hull area</strong>.&quot;</td>
+<td>实心度是<strong>轮廓面积与其凸包面积之比</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html#autotoc_md1338">OpenCV team, n.d.-b, &quot;3. Solidity&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Equivalent Diameter</strong><br>等效直径</td>
+<td>&quot;Equivalent Diameter is <strong>the diameter of the circle whose area is same as the contour area</strong>.&quot;</td>
+<td>等效直径是<strong>面积与轮廓面积相同的圆的直径</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html#autotoc_md1339">OpenCV team, n.d.-b, &quot;4. Equivalent Diameter&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Orientation</strong><br>方向</td>
+<td>&quot;Orientation is <strong>the angle at which object is directed</strong>.&quot;</td>
+<td>方向是<strong>物体所指向的角度</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html#autotoc_md1340">OpenCV team, n.d.-b, &quot;5. Orientation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Mask and Pixel Points</strong><br>掩模与像素点</td>
+<td>(context) &quot;In some cases, we may need <strong>all the points which comprises that object</strong>.&quot;</td>
+<td>（语境）有些情况下，我们可能需要<strong>构成该物体的所有点</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html#autotoc_md1341">OpenCV team, n.d.-b, &quot;6. Mask and Pixel Points&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Maximum Value, Minimum Value and their locations</strong><br>最大值、最小值及其位置</td>
+<td>(context) &quot;We can find these parameters <strong>using a mask image</strong>.&quot;</td>
+<td>（语境）我们可以<strong>用掩模图像</strong>求出这些参数。</td>
+<td><a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html#autotoc_md1342">OpenCV team, n.d.-b, &quot;7. Maximum Value, Minimum Value and their locations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Mean Color or Mean Intensity</strong><br>平均颜色或平均强度</td>
+<td>&quot;Here, we can find <strong>the average color of an object</strong>. Or it can be <strong>average intensity of the object in grayscale mode</strong>.&quot;</td>
+<td>这里可以求出<strong>物体的平均颜色</strong>。也可以是<strong>灰度模式下物体的平均强度</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html#autotoc_md1343">OpenCV team, n.d.-b, &quot;8. Mean Color or Mean Intensity&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Extreme Points</strong><br>极点</td>
+<td>&quot;Extreme Points means <strong>topmost, bottommost, rightmost and leftmost points of the object</strong>.&quot;</td>
+<td>极点指<strong>物体最上、最下、最右和最左的点</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html#autotoc_md1344">OpenCV team, n.d.-b, &quot;9. Extreme Points&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Contours : More Functions</strong><br>轮廓：更多函数</td>
+<td>(context) &quot;Learn to find <strong>convexity defects, pointPolygonTest, match different shapes etc</strong>.&quot;</td>
+<td>（语境）学习求<strong>凸缺陷、使用 pointPolygonTest、匹配不同形状等</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d3/d05/tutorial_py_table_of_contents_contours.html">OpenCV team, n.d.-f, &quot;Contours in OpenCV&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Convexity Defects</strong><br>凸缺陷</td>
+<td>&quot;<strong>Any deviation of the object from this hull</strong> can be considered as convexity defect.&quot;</td>
+<td><strong>物体对凸包的任何偏离</strong>都可以看作凸缺陷。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html#autotoc_md1361">OpenCV team, n.d.-d, &quot;1. Convexity Defects&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Point Polygon Test</strong><br>点与多边形测试</td>
+<td>&quot;This function <strong>finds the shortest distance between a point in the image and a contour</strong>.&quot;</td>
+<td>这个函数<strong>求图像中一个点到轮廓的最短距离</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html#autotoc_md1362">OpenCV team, n.d.-d, &quot;2. Point Polygon Test&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Match Shapes</strong><br>形状匹配</td>
+<td>&quot;OpenCV comes with a function cv.matchShapes() which <strong>enables us to compare two shapes, or two contours and returns a metric showing the similarity</strong>.&quot;</td>
+<td>OpenCV 提供函数 cv.matchShapes()，它<strong>让我们比较两个形状或两个轮廓，并返回一个表示相似度的度量</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html#autotoc_md1363">OpenCV team, n.d.-d, &quot;3. Match Shapes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Hu-Moments</strong><br>Hu 矩</td>
+<td>&quot;Hu-Moments are <strong>seven moments invariant to translation, rotation and scale</strong>.&quot;</td>
+<td>Hu 矩是<strong>对平移、旋转和缩放保持不变的七个矩</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html#autotoc_md1363">OpenCV team, n.d.-d, &quot;3. Match Shapes&quot;, Note</a></td>
+</tr>
+<tr>
+<td><strong>Contours Hierarchy</strong><br>轮廓层级</td>
+<td>(context) &quot;Learn about <strong>Contour Hierarchy</strong>&quot;</td>
+<td>（语境）学习<strong>轮廓层级</strong></td>
+<td><a href="https://docs.opencv.org/4.x/d3/d05/tutorial_py_table_of_contents_contours.html">OpenCV team, n.d.-f, &quot;Contours in OpenCV&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>Hierarchy</strong><br>层级</td>
+<td>&quot;<strong>Representation of this relationship</strong> is called the Hierarchy.&quot;</td>
+<td><strong>这种关系的表示</strong>称为层级。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1352">OpenCV team, n.d.-e, &quot;What is Hierarchy?&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>parent</strong><br>父轮廓</td>
+<td>&quot;In this case, we call <strong>outer one as parent</strong> and inner one as child.&quot;</td>
+<td>这种情况下，我们把<strong>外面的称为父轮廓</strong>，里面的称为子轮廓。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1352">OpenCV team, n.d.-e, &quot;What is Hierarchy?&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>child</strong><br>子轮廓</td>
+<td>&quot;In this case, we call outer one as parent and <strong>inner one as child</strong>.&quot;</td>
+<td>这种情况下，我们把外面的称为父轮廓，<strong>里面的称为子轮廓</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1352">OpenCV team, n.d.-e, &quot;What is Hierarchy?&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>external or outermost</strong><br>外部轮廓（最外层）</td>
+<td>(context) &quot;Here, <strong>contours 0,1,2</strong> are external or outermost.&quot;</td>
+<td>（语境）这里，<strong>轮廓 0、1、2</strong> 是外部的或最外层的。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1352">OpenCV team, n.d.-e, &quot;What is Hierarchy?&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>same hierarchy level</strong><br>同一层级</td>
+<td>(context) &quot;We can say, they are in hierarchy-0 or simply they are in <strong>same hierarchy level</strong>.&quot;</td>
+<td>（语境）可以说它们处于 hierarchy-0，或者简单地说处于<strong>同一层级</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1352">OpenCV team, n.d.-e, &quot;What is Hierarchy?&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>first child</strong><br>第一个子轮廓</td>
+<td>(context) &quot;From the way I numbered the boxes, I would say <strong>contour-4 is the first child of contour-3a</strong> (It can be contour-5 also).&quot;</td>
+<td>（语境）按照我给方框编号的方式，我会说<strong>轮廓 4 是轮廓 3a 的第一个子轮廓</strong>（也可以是轮廓 5）。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1352">OpenCV team, n.d.-e, &quot;What is Hierarchy?&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Hierarchy Representation in OpenCV</strong><br>OpenCV 中的层级表示</td>
+<td>&quot;OpenCV represents it as <strong>an array of four values</strong> : [Next, Previous, First_Child, Parent]&quot;</td>
+<td>OpenCV 把它表示为<strong>由四个值组成的数组</strong>：[Next, Previous, First_Child, Parent]</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1353">OpenCV team, n.d.-e, &quot;Hierarchy Representation in OpenCV&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Next</strong><br>下一个（Next）</td>
+<td>&quot;Next denotes <strong>next contour at the same hierarchical level</strong>.&quot;</td>
+<td>Next 表示<strong>同一层级上的下一个轮廓</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1353">OpenCV team, n.d.-e, &quot;Hierarchy Representation in OpenCV&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Previous</strong><br>上一个（Previous）</td>
+<td>&quot;Previous denotes <strong>previous contour at the same hierarchical level</strong>.&quot;</td>
+<td>Previous 表示<strong>同一层级上的上一个轮廓</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1353">OpenCV team, n.d.-e, &quot;Hierarchy Representation in OpenCV&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>First_Child</strong><br>第一个子轮廓（First_Child）</td>
+<td>&quot;First_Child denotes <strong>its first child contour</strong>.&quot;</td>
+<td>First_Child 表示<strong>它的第一个子轮廓</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1353">OpenCV team, n.d.-e, &quot;Hierarchy Representation in OpenCV&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Parent</strong><br>父轮廓（Parent）</td>
+<td>&quot;Parent denotes <strong>index of its parent contour</strong>.&quot;</td>
+<td>Parent 表示<strong>其父轮廓的索引</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1353">OpenCV team, n.d.-e, &quot;Hierarchy Representation in OpenCV&quot;, para. 9</a></td>
+</tr>
+<tr>
+<td><strong>Contour Retrieval Mode</strong><br>轮廓检索模式</td>
+<td>(context) &quot;But when we found the contours in image using cv.findContours() function, we have passed an argument, <strong>Contour Retrieval Mode</strong>.&quot;</td>
+<td>（语境）但用 cv.findContours() 函数在图像中寻找轮廓时，我们传入了一个参数：<strong>轮廓检索模式</strong>。</td>
+<td><a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html#autotoc_md1351">OpenCV team, n.d.-e, &quot;Theory&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>OpenCV team. (n.d.-a). <em>Contour Features</em>. OpenCV-Python Tutorials (Version 4.13.0). Retrieved October 31, 2026, from <a href="https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html">https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html</a></p>
+<p>OpenCV team. (n.d.-b). <em>Contour Properties</em>. OpenCV-Python Tutorials (Version 4.13.0). Retrieved October 31, 2026, from <a href="https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html">https://docs.opencv.org/4.x/d1/d32/tutorial_py_contour_properties.html</a></p>
+<p>OpenCV team. (n.d.-c). <em>Contours : Getting Started</em>. OpenCV-Python Tutorials (Version 4.13.0). Retrieved October 31, 2026, from <a href="https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html">https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html</a></p>
+<p>OpenCV team. (n.d.-d). <em>Contours : More Functions</em>. OpenCV-Python Tutorials (Version 4.13.0). Retrieved October 31, 2026, from <a href="https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html">https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html</a></p>
+<p>OpenCV team. (n.d.-e). <em>Contours Hierarchy</em>. OpenCV-Python Tutorials (Version 4.13.0). Retrieved October 31, 2026, from <a href="https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html">https://docs.opencv.org/4.x/d9/d8b/tutorial_py_contours_hierarchy.html</a></p>
+<p>OpenCV team. (n.d.-f). <em>Contours in OpenCV</em>. OpenCV-Python Tutorials (Version 4.13.0). Retrieved October 31, 2026, from <a href="https://docs.opencv.org/4.x/d3/d05/tutorial_py_table_of_contents_contours.html">https://docs.opencv.org/4.x/d3/d05/tutorial_py_table_of_contents_contours.html</a></p>
+<p>OpenCV team. (n.d.-g). <em>Image Processing in OpenCV</em>. OpenCV-Python Tutorials (Version 4.13.0). Retrieved October 31, 2026, from <a href="https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html">https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1575 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6.1 Types | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 6.1 Types: Primitive types, Model, Data, Visualization, Rendering (enum types), Filament Rendering (enum types), User Interface (enum types), Spec, Plugins (enum types), Main structs, Auxiliary, Logging (struct types), Sim statistics, Visualisation, Rendering (struct types), Filament Rendering (struct types), User Interface (struct types), Model Editing, Plugins (struct types), Batched simulation, Physics Callbacks, Log Callbacks, UI Callbacks, Resource Provider Callbacks, Batch callbacks.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="61-types">6.1 Types</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/types%401x.png" alt="6.1 Types: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6.1 Types</strong><br>类型</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#types">Google DeepMind, n.d., &quot;Types&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Primitive types</strong><br>基本类型</td>
+<td>&quot;Four <strong>primitive types: mjtNum, mjtByte, mjtBool, and mjtSize</strong>.&quot;</td>
+<td>四种<strong>基本类型：mjtNum、mjtByte、mjtBool 和 mjtSize</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#primitive-types">Google DeepMind, n.d., &quot;Primitive types&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtNum</strong><br>mjtNum</td>
+<td>&quot;This is <strong>the floating-point type used throughout the simulator</strong>.&quot;</td>
+<td>这是<strong>整个仿真器中使用的浮点类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtnum">Google DeepMind, n.d., &quot;mjtNum&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtByte</strong><br>mjtByte</td>
+<td>&quot;<strong>Byte type used to represent small integers and binary data</strong>.&quot;</td>
+<td><strong>用于表示小整数和二进制数据的字节类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtbyte">Google DeepMind, n.d., &quot;mjtByte&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtBool</strong><br>mjtBool</td>
+<td>&quot;<strong>Boolean type used to represent true/false values</strong>.&quot;</td>
+<td><strong>用于表示真/假值的布尔类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtbool">Google DeepMind, n.d., &quot;mjtBool&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtSize</strong><br>mjtSize</td>
+<td>&quot;<strong>Size type used to represent buffer sizes</strong>.&quot;</td>
+<td><strong>用于表示缓冲区大小的尺寸类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtsize">Google DeepMind, n.d., &quot;mjtSize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Model</strong><br>模型枚举</td>
+<td>&quot;Enums used in <strong>mjModel</strong>.&quot;</td>
+<td>用于 <strong>mjModel</strong> 的枚举。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#model">Google DeepMind, n.d., &quot;Model&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjtDisableBit</strong><br>mjtDisableBit</td>
+<td>&quot;<strong>Constants which are powers of 2</strong>. They are used as <strong>bitmasks for the field disableflags of mjOption</strong>.&quot;</td>
+<td><strong>2 的幂次常量</strong>。它们用作 <strong>mjOption 中 disableflags 字段的位掩码</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtdisablebit">Google DeepMind, n.d., &quot;mjtDisableBit&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtEnableBit</strong><br>mjtEnableBit</td>
+<td>&quot;<strong>Constants which are powers of 2</strong>. They are used as <strong>bitmasks for the field enableflags of mjOption</strong>.&quot;</td>
+<td><strong>2 的幂次常量</strong>。它们用作 <strong>mjOption 中 enableflags 字段的位掩码</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtenablebit">Google DeepMind, n.d., &quot;mjtEnableBit&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtJoint</strong><br>mjtJoint</td>
+<td>&quot;<strong>Primitive joint types</strong>.&quot;</td>
+<td><strong>基本关节类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtjoint">Google DeepMind, n.d., &quot;mjtJoint&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtGeom</strong><br>mjtGeom</td>
+<td>&quot;<strong>Geometric types supported by MuJoCo</strong>.&quot;</td>
+<td><strong>MuJoCo 支持的几何类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtgeom">Google DeepMind, n.d., &quot;mjtGeom&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtProjection</strong><br>mjtProjection</td>
+<td>&quot;<strong>Type of camera projection</strong>.&quot;</td>
+<td><strong>相机投影的类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtprojection">Google DeepMind, n.d., &quot;mjtProjection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtCamLight</strong><br>mjtCamLight</td>
+<td>&quot;<strong>Dynamic modes for cameras and lights, specifying how the camera/light position and orientation are computed</strong>.&quot;</td>
+<td><strong>相机和光源的动态模式，指定相机/光源的位置和朝向如何计算</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtcamlight">Google DeepMind, n.d., &quot;mjtCamLight&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtLightType</strong><br>mjtLightType</td>
+<td>&quot;<strong>The type of a light source</strong> describing how its position, orientation and other properties will interact with the objects in the scene.&quot;</td>
+<td><strong>光源的类型</strong>，描述其位置、朝向及其他属性如何与场景中的物体相互作用。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtlighttype">Google DeepMind, n.d., &quot;mjtLightType&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtTexture</strong><br>mjtTexture</td>
+<td>&quot;<strong>Texture types, specifying how the texture will be mapped</strong>.&quot;</td>
+<td><strong>纹理类型，指定纹理将如何映射</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjttexture">Google DeepMind, n.d., &quot;mjtTexture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtTextureRole</strong><br>mjtTextureRole</td>
+<td>&quot;<strong>Texture roles, specifying how the renderer should interpret the texture</strong>.&quot;</td>
+<td><strong>纹理角色，指定渲染器应如何解释该纹理</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjttexturerole">Google DeepMind, n.d., &quot;mjtTextureRole&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtColorSpace</strong><br>mjtColorSpace</td>
+<td>&quot;<strong>Type of color space encoding for textures</strong>.&quot;</td>
+<td><strong>纹理的色彩空间编码类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtcolorspace">Google DeepMind, n.d., &quot;mjtColorSpace&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtIntegrator</strong><br>mjtIntegrator</td>
+<td>&quot;<strong>Numerical integrator types</strong>.&quot;</td>
+<td><strong>数值积分器类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtintegrator">Google DeepMind, n.d., &quot;mjtIntegrator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtCone</strong><br>mjtCone</td>
+<td>&quot;<strong>Available friction cone types</strong>.&quot;</td>
+<td><strong>可用的摩擦锥类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtcone">Google DeepMind, n.d., &quot;mjtCone&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtJacobian</strong><br>mjtJacobian</td>
+<td>&quot;<strong>Available Jacobian types</strong>.&quot;</td>
+<td><strong>可用的雅可比矩阵类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtjacobian">Google DeepMind, n.d., &quot;mjtJacobian&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtSolver</strong><br>mjtSolver</td>
+<td>&quot;<strong>Available constraint solver algorithms</strong>.&quot;</td>
+<td><strong>可用的约束求解器算法</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtsolver">Google DeepMind, n.d., &quot;mjtSolver&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtEq</strong><br>mjtEq</td>
+<td>&quot;<strong>Equality constraint types</strong>.&quot;</td>
+<td><strong>等式约束类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjteq">Google DeepMind, n.d., &quot;mjtEq&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtWrap</strong><br>mjtWrap</td>
+<td>&quot;<strong>Tendon wrapping object types</strong>.&quot;</td>
+<td><strong>肌腱缠绕对象类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtwrap">Google DeepMind, n.d., &quot;mjtWrap&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtTrn</strong><br>mjtTrn</td>
+<td>&quot;<strong>Actuator transmission types</strong>.&quot;</td>
+<td><strong>执行器传动类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjttrn">Google DeepMind, n.d., &quot;mjtTrn&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtDyn</strong><br>mjtDyn</td>
+<td>&quot;<strong>Actuator dynamics types</strong>.&quot;</td>
+<td><strong>执行器动力学类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtdyn">Google DeepMind, n.d., &quot;mjtDyn&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtGain</strong><br>mjtGain</td>
+<td>&quot;<strong>Actuator gain types</strong>.&quot;</td>
+<td><strong>执行器增益类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtgain">Google DeepMind, n.d., &quot;mjtGain&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtBias</strong><br>mjtBias</td>
+<td>&quot;<strong>Actuator bias types</strong>.&quot;</td>
+<td><strong>执行器偏置类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtbias">Google DeepMind, n.d., &quot;mjtBias&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtCtrlChart</strong><br>mjtCtrlChart</td>
+<td>&quot;<strong>Orientation input charts of so3 actuators</strong>.&quot;</td>
+<td><strong>so3 执行器的朝向输入坐标卡</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtctrlchart">Google DeepMind, n.d., &quot;mjtCtrlChart&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtCtrlInput</strong><br>mjtCtrlInput</td>
+<td>&quot;<strong>Input bitflags of actuators</strong>: the input subset of pid and dcmotor actuators, and the declared input of actuators with fixed or affine gain.&quot;</td>
+<td><strong>执行器的输入位标志</strong>：pid 和 dcmotor 执行器的输入子集，以及固定增益或仿射增益执行器的声明输入。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtctrlinput">Google DeepMind, n.d., &quot;mjtCtrlInput&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtObj</strong><br>mjtObj</td>
+<td>&quot;<strong>MuJoCo object types</strong>.&quot;</td>
+<td><strong>MuJoCo 对象类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtobj">Google DeepMind, n.d., &quot;mjtObj&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtSensor</strong><br>mjtSensor</td>
+<td>&quot;<strong>Sensor types</strong>.&quot;</td>
+<td><strong>传感器类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtsensor">Google DeepMind, n.d., &quot;mjtSensor&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtStage</strong><br>mjtStage</td>
+<td>&quot;These are <strong>the compute stages for the skipstage parameters of mj_forwardSkip and mj_inverseSkip</strong>.&quot;</td>
+<td>这些是 <strong>mj_forwardSkip 和 mj_inverseSkip 的 skipstage 参数所用的计算阶段</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtstage">Google DeepMind, n.d., &quot;mjtStage&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtDataType</strong><br>mjtDataType</td>
+<td>&quot;These are <strong>the possible sensor data types</strong>, used in mjData.sensor_datatype.&quot;</td>
+<td>这些是<strong>可能的传感器数据类型</strong>，用于 mjData.sensor_datatype。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtdatatype">Google DeepMind, n.d., &quot;mjtDataType&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtConDataField</strong><br>mjtConDataField</td>
+<td>&quot;<strong>Types of data fields returned by contact sensors</strong>.&quot;</td>
+<td><strong>接触传感器返回的数据字段类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtcondatafield">Google DeepMind, n.d., &quot;mjtConDataField&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtRayDataField</strong><br>mjtRayDataField</td>
+<td>&quot;<strong>Data fields returned by rangefinder sensors</strong>.&quot;</td>
+<td><strong>测距传感器返回的数据字段</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtraydatafield">Google DeepMind, n.d., &quot;mjtRayDataField&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtCamOutBit</strong><br>mjtCamOutBit</td>
+<td>&quot;<strong>Camera output type bitflags</strong>.&quot;</td>
+<td><strong>相机输出类型位标志</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtcamoutbit">Google DeepMind, n.d., &quot;mjtCamOutBit&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtSameFrame</strong><br>mjtSameFrame</td>
+<td>&quot;<strong>Types of frame alignment of elements with their parent bodies</strong>.&quot;</td>
+<td><strong>元素与其父刚体之间坐标系对齐的类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtsameframe">Google DeepMind, n.d., &quot;mjtSameFrame&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtSleepPolicy</strong><br>mjtSleepPolicy</td>
+<td>&quot;<strong>Sleep policy associated with a tree</strong>.&quot;</td>
+<td><strong>与一棵树关联的休眠策略</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtsleeppolicy">Google DeepMind, n.d., &quot;mjtSleepPolicy&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtLRMode</strong><br>mjtLRMode</td>
+<td>&quot;<strong>Mode for actuator length range computation</strong>.&quot;</td>
+<td><strong>执行器长度范围计算的模式</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtlrmode">Google DeepMind, n.d., &quot;mjtLRMode&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtFlexSelf</strong><br>mjtFlexSelf</td>
+<td>&quot;<strong>Types of flex self-collisions midphase</strong>.&quot;</td>
+<td><strong>柔性体自碰撞中间阶段的类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtflexself">Google DeepMind, n.d., &quot;mjtFlexSelf&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtSDFType</strong><br>mjtSDFType</td>
+<td>&quot;<strong>Formulas used to combine SDFs when calling mjc_distance and mjc_gradient</strong>.&quot;</td>
+<td><strong>调用 mjc_distance 和 mjc_gradient 时用于组合 SDF 的公式</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtsdftype">Google DeepMind, n.d., &quot;mjtSDFType&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Data</strong><br>数据枚举</td>
+<td>&quot;Enums used in <strong>mjData</strong>.&quot;</td>
+<td>用于 <strong>mjData</strong> 的枚举。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#data">Google DeepMind, n.d., &quot;Data&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjtState</strong><br>mjtState</td>
+<td>&quot;<strong>State component elements as integer bitflags and several convenient combinations of these flags</strong>.&quot;</td>
+<td><strong>以整数位标志表示的状态分量元素，以及这些标志的几种便捷组合</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtstate">Google DeepMind, n.d., &quot;mjtState&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtConstraint</strong><br>mjtConstraint</td>
+<td>&quot;<strong>Constraint types</strong>.&quot;</td>
+<td><strong>约束类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtconstraint">Google DeepMind, n.d., &quot;mjtConstraint&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtConstraintState</strong><br>mjtConstraintState</td>
+<td>&quot;These values are used by the solver internally to <strong>keep track of the constraint states</strong>.&quot;</td>
+<td>这些值由求解器在内部使用，以<strong>跟踪约束状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtconstraintstate">Google DeepMind, n.d., &quot;mjtConstraintState&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtWarning</strong><br>mjtWarning</td>
+<td>&quot;<strong>Warning types</strong>.&quot;</td>
+<td><strong>警告类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtwarning">Google DeepMind, n.d., &quot;mjtWarning&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtTimer</strong><br>mjtTimer</td>
+<td>&quot;<strong>Timer types</strong>.&quot;</td>
+<td><strong>计时器类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjttimer">Google DeepMind, n.d., &quot;mjtTimer&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtSleepState</strong><br>mjtSleepState</td>
+<td>&quot;<strong>Sleep state of an object</strong>.&quot;</td>
+<td><strong>对象的休眠状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtsleepstate">Google DeepMind, n.d., &quot;mjtSleepState&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logging (enum types)</strong><br>日志枚举</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#logging">Google DeepMind, n.d., &quot;Logging&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjtLogLevel</strong><br>mjtLogLevel</td>
+<td>&quot;<strong>Log message severity level</strong>.&quot;</td>
+<td><strong>日志消息的严重级别</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtloglevel">Google DeepMind, n.d., &quot;mjtLogLevel&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtLogTopic</strong><br>mjtLogTopic</td>
+<td>&quot;<strong>Topic identifiers for informational messages</strong>.&quot;</td>
+<td><strong>信息类消息的主题标识符</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtlogtopic">Google DeepMind, n.d., &quot;mjtLogTopic&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Visualization</strong><br>可视化枚举</td>
+<td>&quot;Enums for <strong>abstract visualization</strong>.&quot;</td>
+<td>用于<strong>抽象可视化</strong>的枚举。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#visualization">Google DeepMind, n.d., &quot;Visualization&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjtCatBit</strong><br>mjtCatBit</td>
+<td>&quot;These are <strong>the available categories of geoms in the abstract visualizer</strong>.&quot;</td>
+<td>这些是<strong>抽象可视化器中可用的 geom 类别</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtcatbit">Google DeepMind, n.d., &quot;mjtCatBit&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtMouse</strong><br>mjtMouse</td>
+<td>&quot;These are <strong>the mouse actions that the abstract visualizer recognizes</strong>.&quot;</td>
+<td>这些是<strong>抽象可视化器能识别的鼠标动作</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtmouse">Google DeepMind, n.d., &quot;mjtMouse&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtPertBit</strong><br>mjtPertBit</td>
+<td>&quot;These bitmasks <strong>enable the translational and rotational components of the mouse perturbation</strong>.&quot;</td>
+<td>这些位掩码<strong>启用鼠标扰动的平移分量和旋转分量</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtpertbit">Google DeepMind, n.d., &quot;mjtPertBit&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtCamera</strong><br>mjtCamera</td>
+<td>&quot;These are <strong>the possible camera types</strong>, used in mjvCamera.type.&quot;</td>
+<td>这些是<strong>可能的相机类型</strong>，用于 mjvCamera.type。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtcamera">Google DeepMind, n.d., &quot;mjtCamera&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtLabel</strong><br>mjtLabel</td>
+<td>&quot;These are <strong>the abstract visualization elements that can have text labels</strong>.&quot;</td>
+<td>这些是<strong>可以带文本标签的抽象可视化元素</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtlabel">Google DeepMind, n.d., &quot;mjtLabel&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtFrame</strong><br>mjtFrame</td>
+<td>&quot;These are <strong>the MuJoCo objects whose spatial frames can be rendered</strong>.&quot;</td>
+<td>这些是<strong>其空间坐标系可以被渲染的 MuJoCo 对象</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtframe">Google DeepMind, n.d., &quot;mjtFrame&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtVisFlag</strong><br>mjtVisFlag</td>
+<td>&quot;These are <strong>indices in the array mjvOption.flags, whose elements enable/disable the visualization of the corresponding model or decoration element</strong>.&quot;</td>
+<td>这些是<strong>数组 mjvOption.flags 中的索引，其元素启用/禁用相应模型元素或装饰元素的可视化</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtvisflag">Google DeepMind, n.d., &quot;mjtVisFlag&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtRndFlag</strong><br>mjtRndFlag</td>
+<td>&quot;These are <strong>indices in the array mjvScene.flags, whose elements enable/disable OpenGL rendering effects</strong>.&quot;</td>
+<td>这些是<strong>数组 mjvScene.flags 中的索引，其元素启用/禁用 OpenGL 渲染效果</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtrndflag">Google DeepMind, n.d., &quot;mjtRndFlag&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtStereo</strong><br>mjtStereo</td>
+<td>&quot;These are <strong>the possible stereo rendering types</strong>.&quot;</td>
+<td>这些是<strong>可能的立体渲染类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtstereo">Google DeepMind, n.d., &quot;mjtStereo&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Rendering (enum types)</strong><br>渲染枚举</td>
+<td>&quot;Enums used by <strong>the classic renderer</strong>.&quot;</td>
+<td>经典渲染器所用的枚举。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#rendering">Google DeepMind, n.d., &quot;Rendering&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjtGridPos</strong><br>mjtGridPos</td>
+<td>&quot;These are <strong>the possible grid positions for text overlays</strong>.&quot;</td>
+<td>这些是<strong>文本叠加层可能的网格位置</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtgridpos">Google DeepMind, n.d., &quot;mjtGridPos&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtFramebuffer</strong><br>mjtFramebuffer</td>
+<td>&quot;These are <strong>the possible framebuffers</strong>.&quot;</td>
+<td>这些是<strong>可能的帧缓冲区</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtframebuffer">Google DeepMind, n.d., &quot;mjtFramebuffer&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtDepthMap</strong><br>mjtDepthMap</td>
+<td>&quot;These are <strong>the depth mapping options</strong>.&quot;</td>
+<td>这些是<strong>深度映射选项</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtdepthmap">Google DeepMind, n.d., &quot;mjtDepthMap&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtFontScale</strong><br>mjtFontScale</td>
+<td>&quot;These are <strong>the possible font sizes</strong>.&quot;</td>
+<td>这些是<strong>可能的字体大小</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtfontscale">Google DeepMind, n.d., &quot;mjtFontScale&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtFont</strong><br>mjtFont</td>
+<td>&quot;These are <strong>the possible font types</strong>.&quot;</td>
+<td>这些是<strong>可能的字体类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtfont">Google DeepMind, n.d., &quot;mjtFont&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrPixelFormat</strong><br>mjrPixelFormat</td>
+<td>&quot;<strong>pixel format for textures</strong>&quot;</td>
+<td><strong>纹理的像素格式</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrpixelformat">Google DeepMind, n.d., &quot;mjrPixelFormat&quot;, code comment</a></td>
+</tr>
+<tr>
+<td><strong>mjrVertexAttributeUsage</strong><br>mjrVertexAttributeUsage</td>
+<td>&quot;<strong>usage/purpose of a vertex attribute</strong>&quot;</td>
+<td><strong>顶点属性的用途/目的</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrvertexattributeusage">Google DeepMind, n.d., &quot;mjrVertexAttributeUsage&quot;, code comment</a></td>
+</tr>
+<tr>
+<td><strong>mjrVertexAttributeType</strong><br>mjrVertexAttributeType</td>
+<td>&quot;<strong>data format of a vertex attribute</strong>&quot;</td>
+<td><strong>顶点属性的数据格式</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrvertexattributetype">Google DeepMind, n.d., &quot;mjrVertexAttributeType&quot;, code comment</a></td>
+</tr>
+<tr>
+<td><strong>mjrIndexType</strong><br>mjrIndexType</td>
+<td>&quot;<strong>data type of index buffer data</strong>&quot;</td>
+<td><strong>索引缓冲区数据的数据类型</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrindextype">Google DeepMind, n.d., &quot;mjrIndexType&quot;, code comment</a></td>
+</tr>
+<tr>
+<td><strong>mjrMeshPrimitiveType</strong><br>mjrMeshPrimitiveType</td>
+<td>&quot;<strong>type of mesh primitive</strong>&quot;</td>
+<td><strong>网格图元的类型</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrmeshprimitivetype">Google DeepMind, n.d., &quot;mjrMeshPrimitiveType&quot;, code comment</a></td>
+</tr>
+<tr>
+<td><strong>Filament Rendering (enum types)</strong><br>Filament 渲染枚举</td>
+<td>&quot;Enums used by <strong>the filament renderer</strong>.&quot;</td>
+<td>filament 渲染器所用的枚举。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#filament-rendering">Google DeepMind, n.d., &quot;Filament Rendering&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjrGraphicsApi</strong><br>mjrGraphicsApi</td>
+<td>&quot;<strong>The underlying graphics API to use for Filament rendering</strong>.&quot;</td>
+<td><strong>Filament 渲染所用的底层图形 API</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrgraphicsapi">Google DeepMind, n.d., &quot;mjrGraphicsApi&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrDrawMode</strong><br>mjrDrawMode</td>
+<td>&quot;<strong>High-level control for how to draw objects in the scene for Filament rendering</strong>.&quot;</td>
+<td><strong>Filament 渲染中关于如何绘制场景中物体的高层控制</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrdrawmode">Google DeepMind, n.d., &quot;mjrDrawMode&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>User Interface (enum types)</strong><br>用户界面枚举</td>
+<td>&quot;Enums used by <strong>the mjUI user interface package</strong>.&quot;</td>
+<td>mjUI 用户界面包所用的枚举。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#user-interface">Google DeepMind, n.d., &quot;User Interface&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjtButton</strong><br>mjtButton</td>
+<td>&quot;<strong>Mouse button IDs used in the UI framework</strong>.&quot;</td>
+<td><strong>UI 框架中使用的鼠标按键 ID</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtbutton">Google DeepMind, n.d., &quot;mjtButton&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtEvent</strong><br>mjtEvent</td>
+<td>&quot;<strong>Event types used in the UI framework</strong>.&quot;</td>
+<td><strong>UI 框架中使用的事件类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtevent">Google DeepMind, n.d., &quot;mjtEvent&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtItem</strong><br>mjtItem</td>
+<td>&quot;<strong>Item types used in the UI framework</strong>.&quot;</td>
+<td><strong>UI 框架中使用的条目类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtitem">Google DeepMind, n.d., &quot;mjtItem&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtSection</strong><br>mjtSection</td>
+<td>&quot;<strong>State of a UI section</strong>.&quot;</td>
+<td><strong>UI 分区的状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtsection">Google DeepMind, n.d., &quot;mjtSection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Spec</strong><br>模型规格枚举</td>
+<td>&quot;Enums used for <strong>procedural model manipulation</strong>.&quot;</td>
+<td>用于<strong>程序化模型操作</strong>的枚举。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#spec">Google DeepMind, n.d., &quot;Spec&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjtGeomInertia</strong><br>mjtGeomInertia</td>
+<td>&quot;<strong>Type of inertia inference</strong>.&quot;</td>
+<td><strong>惯性推断的类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtgeominertia">Google DeepMind, n.d., &quot;mjtGeomInertia&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtBuiltin</strong><br>mjtBuiltin</td>
+<td>&quot;<strong>Type of built-in procedural texture</strong>.&quot;</td>
+<td><strong>内置程序化纹理的类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtbuiltin">Google DeepMind, n.d., &quot;mjtBuiltin&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtMark</strong><br>mjtMark</td>
+<td>&quot;<strong>Mark type for procedural textures</strong>.&quot;</td>
+<td><strong>程序化纹理的标记类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtmark">Google DeepMind, n.d., &quot;mjtMark&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtLimited</strong><br>mjtLimited</td>
+<td>&quot;<strong>Type of limit specification</strong>.&quot;</td>
+<td><strong>限位设定的类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtlimited">Google DeepMind, n.d., &quot;mjtLimited&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtAlignFree</strong><br>mjtAlignFree</td>
+<td>&quot;<strong>Whether to align free joints with the inertial frame</strong>.&quot;</td>
+<td><strong>是否将自由关节与惯性坐标系对齐</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtalignfree">Google DeepMind, n.d., &quot;mjtAlignFree&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtPassthrough</strong><br>mjtPassthrough</td>
+<td>&quot;<strong>Which assets the compiler leaves by reference instead of loading into mjModel, a bitmask</strong>; see compiler/passthrough.&quot;</td>
+<td><strong>编译器以引用方式保留、而不加载到 mjModel 中的资源，是一个位掩码</strong>；参见 compiler/passthrough。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtpassthrough">Google DeepMind, n.d., &quot;mjtPassthrough&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtEmbed</strong><br>mjtEmbed</td>
+<td>&quot;<strong>Whether an asset’s payload is in the model or the asset is by reference</strong>; see texture/embed.&quot;</td>
+<td><strong>资源的有效载荷是在模型中，还是该资源以引用方式存在</strong>；参见 texture/embed。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtembed">Google DeepMind, n.d., &quot;mjtEmbed&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtInertiaFromGeom</strong><br>mjtInertiaFromGeom</td>
+<td>&quot;<strong>Whether to infer body inertias from child geoms</strong>.&quot;</td>
+<td><strong>是否从子 geom 推断刚体惯性</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtinertiafromgeom">Google DeepMind, n.d., &quot;mjtInertiaFromGeom&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtOrientation</strong><br>mjtOrientation</td>
+<td>&quot;<strong>Type of orientation specifier</strong>.&quot;</td>
+<td><strong>朝向描述符的类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtorientation">Google DeepMind, n.d., &quot;mjtOrientation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtMeshInertia</strong><br>mjtMeshInertia</td>
+<td>&quot;<strong>Type of mesh inertia computation</strong>.&quot;</td>
+<td><strong>网格惯性计算的类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtmeshinertia">Google DeepMind, n.d., &quot;mjtMeshInertia&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtMeshBuiltin</strong><br>mjtMeshBuiltin</td>
+<td>&quot;<strong>Type of built-in procedural mesh</strong>.&quot;</td>
+<td><strong>内置程序化网格的类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtmeshbuiltin">Google DeepMind, n.d., &quot;mjtMeshBuiltin&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtFlexSection</strong><br>mjtFlexSection</td>
+<td>&quot;<strong>Cross-section of 1D flex elasticity</strong>, see section.&quot;</td>
+<td><strong>一维柔性体弹性的横截面</strong>，参见 section。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtflexsection">Google DeepMind, n.d., &quot;mjtFlexSection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtConflict</strong><br>mjtConflict</td>
+<td>&quot;<strong>Conflict resolution mode for attach</strong>.&quot;</td>
+<td><strong>附加（attach）时的冲突解决模式</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtconflict">Google DeepMind, n.d., &quot;mjtConflict&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtScaling</strong><br>mjtScaling</td>
+<td>&quot;<strong>Physical policy of a frame’s scale</strong>, see scaling.&quot;</td>
+<td><strong>坐标系 scale 的物理策略</strong>，参见 scaling。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtscaling">Google DeepMind, n.d., &quot;mjtScaling&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtActuator</strong><br>mjtActuator</td>
+<td>&quot;<strong>The actuator element an actuator is written with: general or one of its shortcuts</strong>.&quot;</td>
+<td><strong>编写某个执行器时所用的执行器元素：general 或其快捷方式之一</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtactuator">Google DeepMind, n.d., &quot;mjtActuator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtCTimer</strong><br>mjtCTimer</td>
+<td>&quot;<strong>Compiler timing categories</strong>, used in mjs_getTimer.&quot;</td>
+<td><strong>编译器计时类别</strong>，用于 mjs_getTimer。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtctimer">Google DeepMind, n.d., &quot;mjtCTimer&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Plugins (enum types)</strong><br>插件枚举</td>
+<td>&quot;Enums used by <strong>engine plugins</strong>.&quot;</td>
+<td>引擎插件所用的枚举。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#plugins">Google DeepMind, n.d., &quot;Plugins&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>mjtPluginCapabilityBit</strong><br>mjtPluginCapabilityBit</td>
+<td>&quot;<strong>Capabilities declared by an engine plugin</strong>.&quot;</td>
+<td><strong>引擎插件所声明的能力</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtplugincapabilitybit">Google DeepMind, n.d., &quot;mjtPluginCapabilityBit&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Main structs</strong><br>主结构体</td>
+<td>&quot;The three central struct types for physics simulation are <strong>mjModel, mjOption (embedded in mjModel) and mjData</strong>.&quot;</td>
+<td>物理仿真的三个核心结构体类型是 <strong>mjModel、mjOption（嵌入在 mjModel 中）和 mjData</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#struct-types">Google DeepMind, n.d., &quot;Struct types&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjModel</strong><br>mjModel</td>
+<td>&quot;This is <strong>the main data structure holding the MuJoCo model</strong>.&quot;</td>
+<td>这是<strong>保存 MuJoCo 模型的主数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjmodel">Google DeepMind, n.d., &quot;mjModel&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjOption</strong><br>mjOption</td>
+<td>&quot;This is <strong>the data structure with simulation options</strong>.&quot;</td>
+<td>这是<strong>包含仿真选项的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjoption">Google DeepMind, n.d., &quot;mjOption&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjData</strong><br>mjData</td>
+<td>&quot;This is <strong>the main data structure holding the simulation state</strong>.&quot;</td>
+<td>这是<strong>保存仿真状态的主数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjdata">Google DeepMind, n.d., &quot;mjData&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Auxiliary</strong><br>辅助结构体</td>
+<td>&quot;Auxiliary struct types, <strong>also used by the engine</strong>.&quot;</td>
+<td>辅助结构体类型，<strong>也被引擎使用</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#auxiliary">Google DeepMind, n.d., &quot;Auxiliary&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjVisual</strong><br>mjVisual</td>
+<td>&quot;This is <strong>the data structure with abstract visualization options</strong>.&quot;</td>
+<td>这是<strong>包含抽象可视化选项的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvisual">Google DeepMind, n.d., &quot;mjVisual&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjStatistic</strong><br>mjStatistic</td>
+<td>&quot;This is <strong>the data structure with model statistics precomputed by the compiler or set by the user</strong>.&quot;</td>
+<td>这是<strong>包含由编译器预先计算或由用户设置的模型统计量的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjstatistic">Google DeepMind, n.d., &quot;mjStatistic&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjPreContact</strong><br>mjPreContact</td>
+<td>&quot;This is <strong>the data structure holding information about one contact filled out by a narrowphase collision detector</strong>.&quot;</td>
+<td>这是<strong>保存由窄相碰撞检测器填写的单个接触信息的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjprecontact">Google DeepMind, n.d., &quot;mjPreContact&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjContact</strong><br>mjContact</td>
+<td>&quot;This is <strong>the data structure holding information about one contact</strong>.&quot;</td>
+<td>这是<strong>保存单个接触信息的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjcontact">Google DeepMind, n.d., &quot;mjContact&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjResource</strong><br>mjResource</td>
+<td>&quot;A resource is <strong>an abstraction of a file in a filesystem</strong>.&quot;</td>
+<td>资源是<strong>对文件系统中文件的一种抽象</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjresource">Google DeepMind, n.d., &quot;mjResource&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjVFS</strong><br>mjVFS</td>
+<td>&quot;This is <strong>the data structure of the virtual file system</strong>.&quot;</td>
+<td>这是<strong>虚拟文件系统的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvfs">Google DeepMind, n.d., &quot;mjVFS&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjLROpt</strong><br>mjLROpt</td>
+<td>&quot;<strong>Options for configuring the automatic actuator length-range computation</strong>.&quot;</td>
+<td><strong>用于配置自动执行器长度范围计算的选项</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjlropt">Google DeepMind, n.d., &quot;mjLROpt&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjCache</strong><br>mjCache</td>
+<td>&quot;<strong>Asset cache used by the compiler to avoid repeated slow recompilation</strong>.&quot;</td>
+<td><strong>编译器用来避免重复缓慢重新编译的资源缓存</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjcache">Google DeepMind, n.d., &quot;mjCache&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Logging (struct types)</strong><br>日志结构体</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#tylogstructure">Google DeepMind, n.d., &quot;Logging&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjLogMessage</strong><br>mjLogMessage</td>
+<td>&quot;<strong>Structured log message passed to mjfLogHandler callbacks</strong>.&quot;</td>
+<td><strong>传递给 mjfLogHandler 回调的结构化日志消息</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjlogmessage">Google DeepMind, n.d., &quot;mjLogMessage&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjLogConfig</strong><br>mjLogConfig</td>
+<td>&quot;<strong>Configuration for the default log handler</strong>.&quot;</td>
+<td><strong>默认日志处理器的配置</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjlogconfig">Google DeepMind, n.d., &quot;mjLogConfig&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sim statistics</strong><br>仿真统计结构体</td>
+<td>&quot;Structs for <strong>collecting simulation statistics</strong>.&quot;</td>
+<td>用于<strong>收集仿真统计信息</strong>的结构体。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#sim-statistics">Google DeepMind, n.d., &quot;Sim statistics&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjWarningStat</strong><br>mjWarningStat</td>
+<td>&quot;This is <strong>the data structure holding information about one warning type</strong>.&quot;</td>
+<td>这是<strong>保存某一种警告类型信息的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjwarningstat">Google DeepMind, n.d., &quot;mjWarningStat&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjTimerStat</strong><br>mjTimerStat</td>
+<td>&quot;This is <strong>the data structure holding information about one timer</strong>.&quot;</td>
+<td>这是<strong>保存单个计时器信息的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjtimerstat">Google DeepMind, n.d., &quot;mjTimerStat&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjSolverStat</strong><br>mjSolverStat</td>
+<td>&quot;This is <strong>the data structure holding information about one solver iteration</strong>.&quot;</td>
+<td>这是<strong>保存单次求解器迭代信息的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsolverstat">Google DeepMind, n.d., &quot;mjSolverStat&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Visualisation</strong><br>可视化结构体</td>
+<td>&quot;Structs for <strong>abstract visualization</strong>.&quot;</td>
+<td>用于<strong>抽象可视化</strong>的结构体。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#visualisation">Google DeepMind, n.d., &quot;Visualisation&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjvPerturb</strong><br>mjvPerturb</td>
+<td>&quot;This is <strong>the data structure holding information about mouse perturbations</strong>.&quot;</td>
+<td>这是<strong>保存鼠标扰动信息的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvperturb">Google DeepMind, n.d., &quot;mjvPerturb&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjvCamera</strong><br>mjvCamera</td>
+<td>&quot;This is <strong>the data structure describing one abstract camera</strong>.&quot;</td>
+<td>这是<strong>描述一个抽象相机的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvcamera">Google DeepMind, n.d., &quot;mjvCamera&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjvGLCamera</strong><br>mjvGLCamera</td>
+<td>&quot;This is <strong>the data structure describing one OpenGL camera</strong>.&quot;</td>
+<td>这是<strong>描述一个 OpenGL 相机的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvglcamera">Google DeepMind, n.d., &quot;mjvGLCamera&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjvGeom</strong><br>mjvGeom</td>
+<td>&quot;This is <strong>the data structure describing one abstract visualization geom</strong> - which could correspond to a model geom or to a decoration element constructed by the visualizer.&quot;</td>
+<td>这是<strong>描述一个抽象可视化 geom 的数据结构</strong>，它可能对应模型中的某个 geom，也可能对应可视化器构造的装饰元素。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvgeom">Google DeepMind, n.d., &quot;mjvGeom&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjvLight</strong><br>mjvLight</td>
+<td>&quot;This is <strong>the data structure describing one OpenGL light</strong>.&quot;</td>
+<td>这是<strong>描述一个 OpenGL 光源的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvlight">Google DeepMind, n.d., &quot;mjvLight&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjvOption</strong><br>mjvOption</td>
+<td>&quot;This structure contains <strong>options that enable and disable the visualization of various elements</strong>.&quot;</td>
+<td>该结构体包含<strong>启用和禁用各种元素可视化的选项</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvoption">Google DeepMind, n.d., &quot;mjvOption&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjvScene</strong><br>mjvScene</td>
+<td>&quot;This structure contains <strong>everything needed to render the 3D scene in OpenGL</strong>.&quot;</td>
+<td>该结构体包含<strong>在 OpenGL 中渲染三维场景所需的一切</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvscene">Google DeepMind, n.d., &quot;mjvScene&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjvFigure</strong><br>mjvFigure</td>
+<td>&quot;This structure contains <strong>everything needed to render a 2D plot in OpenGL</strong>.&quot;</td>
+<td>该结构体包含<strong>在 OpenGL 中渲染二维图表所需的一切</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjvfigure">Google DeepMind, n.d., &quot;mjvFigure&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Rendering (struct types)</strong><br>渲染结构体</td>
+<td>&quot;Structs used by <strong>the classic renderer</strong>.&quot;</td>
+<td>经典渲染器所用的结构体。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#tyrenderstructure">Google DeepMind, n.d., &quot;Rendering&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjrRect</strong><br>mjrRect</td>
+<td>&quot;This structure <strong>specifies a rectangle</strong>.&quot;</td>
+<td>该结构体<strong>指定一个矩形</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrrect">Google DeepMind, n.d., &quot;mjrRect&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrVertexAttribute</strong><br>mjrVertexAttribute</td>
+<td>&quot;This structure <strong>specifies the attributes for a single vertex</strong>.&quot;</td>
+<td>该结构体<strong>指定单个顶点的属性</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrvertexattribute">Google DeepMind, n.d., &quot;mjrVertexAttribute&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrRendererInfo</strong><br>mjrRendererInfo</td>
+<td>&quot;This structure contains <strong>information about the available renderer and its current context</strong>.&quot;</td>
+<td>该结构体包含<strong>可用渲染器及其当前上下文的信息</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrrendererinfo">Google DeepMind, n.d., &quot;mjrRendererInfo&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrContext</strong><br>mjrContext</td>
+<td>&quot;This structure contains <strong>the custom OpenGL rendering context, with the ids of all OpenGL resources uploaded to the GPU</strong>.&quot;</td>
+<td>该结构体包含<strong>自定义的 OpenGL 渲染上下文，以及所有已上传到 GPU 的 OpenGL 资源的 id</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrcontext">Google DeepMind, n.d., &quot;mjrContext&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Filament Rendering (struct types)</strong><br>Filament 渲染结构体</td>
+<td>&quot;Structs used by <strong>the filament renderer</strong>.&quot;</td>
+<td>filament 渲染器所用的结构体。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#tyfilamentrenderstructure">Google DeepMind, n.d., &quot;Filament Rendering&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjrfContext</strong><br>mjrfContext</td>
+<td>&quot;The Context is <strong>the main entry point for the filament rendering library</strong>.&quot;</td>
+<td>Context 是 <strong>filament 渲染库的主入口</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfcontext">Google DeepMind, n.d., &quot;mjrfContext&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfContextConfig</strong><br>mjrfContextConfig</td>
+<td>&quot;<strong>Parameters for creating filament graphics context</strong>.&quot;</td>
+<td><strong>用于创建 filament 图形上下文的参数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfcontextconfig">Google DeepMind, n.d., &quot;mjrfContextConfig&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfTexture</strong><br>mjrfTexture</td>
+<td>&quot;A texture is <strong>a 2D or 3D (cubemap) image that adds visual detail to a rendered model, such as color or bumpiness, without increasing geometric complexity</strong>.&quot;</td>
+<td>纹理是<strong>一种二维或三维（立方体贴图）图像，它为渲染模型添加颜色或凹凸等视觉细节，而不增加几何复杂度</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrftexture">Google DeepMind, n.d., &quot;mjrfTexture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfTextureConfig</strong><br>mjrfTextureConfig</td>
+<td>&quot;<strong>Parameters for creating a texture</strong>.&quot;</td>
+<td><strong>用于创建纹理的参数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrftextureconfig">Google DeepMind, n.d., &quot;mjrfTextureConfig&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfTextureData</strong><br>mjrfTextureData</td>
+<td>&quot;<strong>Binary data payload for a texture</strong>.&quot;</td>
+<td><strong>纹理的二进制数据载荷</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrftexturedata">Google DeepMind, n.d., &quot;mjrfTextureData&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfMesh</strong><br>mjrfMesh</td>
+<td>&quot;A mesh <strong>describes the surface geometry of an object to be rendered</strong>.&quot;</td>
+<td>网格<strong>描述待渲染物体的表面几何</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfmesh">Google DeepMind, n.d., &quot;mjrfMesh&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfMeshConfig</strong><br>mjrfMeshConfig</td>
+<td>&quot;<strong>Parameters for creating a mesh</strong>.&quot;</td>
+<td><strong>用于创建网格的参数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfmeshconfig">Google DeepMind, n.d., &quot;mjrfMeshConfig&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfMeshData</strong><br>mjrfMeshData</td>
+<td>&quot;<strong>Binary data for a mesh</strong>.&quot;</td>
+<td><strong>网格的二进制数据</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfmeshdata">Google DeepMind, n.d., &quot;mjrfMeshData&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfScene</strong><br>mjrfScene</td>
+<td>&quot;A Scene is <strong>a collection of Lights and Renderables that describes what is to be rendered</strong>.&quot;</td>
+<td>Scene 是<strong>一组光源和可渲染物，描述要渲染的内容</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfscene">Google DeepMind, n.d., &quot;mjrfScene&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfSceneParams</strong><br>mjrfSceneParams</td>
+<td>&quot;<strong>Parameters for creating a scene</strong>.&quot;</td>
+<td><strong>用于创建场景的参数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfsceneparams">Google DeepMind, n.d., &quot;mjrfSceneParams&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfLight</strong><br>mjrfLight</td>
+<td>&quot;A light is <strong>a source of illumination</strong>.&quot;</td>
+<td>光源是<strong>照明的来源</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrflight">Google DeepMind, n.d., &quot;mjrfLight&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfLightParams</strong><br>mjrfLightParams</td>
+<td>&quot;<strong>Parameters for creating a light</strong>.&quot;</td>
+<td><strong>用于创建光源的参数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrflightparams">Google DeepMind, n.d., &quot;mjrfLightParams&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfRenderable</strong><br>mjrfRenderable</td>
+<td>&quot;A renderable is <strong>a single object that is to be drawn</strong>.&quot;</td>
+<td>可渲染物是<strong>一个待绘制的单个对象</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfrenderable">Google DeepMind, n.d., &quot;mjrfRenderable&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfRenderableParams</strong><br>mjrfRenderableParams</td>
+<td>&quot;<strong>Parameters for creating a renderable</strong>.&quot;</td>
+<td><strong>用于创建可渲染物的参数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfrenderableparams">Google DeepMind, n.d., &quot;mjrfRenderableParams&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfMaterial</strong><br>mjrfMaterial</td>
+<td>&quot;Materials <strong>describe the properties of the surface of a renderable</strong>, effectively dictating how the surface interacts with lights to produce a final pixel color in the output image.&quot;</td>
+<td>材质<strong>描述可渲染物表面的属性</strong>，实际上决定了表面如何与光源相互作用，从而在输出图像中产生最终的像素颜色。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfmaterial">Google DeepMind, n.d., &quot;mjrfMaterial&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfRenderTarget</strong><br>mjrfRenderTarget</td>
+<td>&quot;A RenderTarget is <strong>a memory buffer that holds the results of a rendering operation</strong>.&quot;</td>
+<td>RenderTarget 是<strong>保存渲染操作结果的内存缓冲区</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfrendertarget">Google DeepMind, n.d., &quot;mjrfRenderTarget&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfRenderTargetConfig</strong><br>mjrfRenderTargetConfig</td>
+<td>&quot;<strong>Parameters for creating a render target</strong>.&quot;</td>
+<td><strong>用于创建渲染目标的参数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfrendertargetconfig">Google DeepMind, n.d., &quot;mjrfRenderTargetConfig&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfRenderRequest</strong><br>mjrfRenderRequest</td>
+<td>&quot;<strong>A single rendering operation</strong>.&quot;</td>
+<td><strong>单次渲染操作</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfrenderrequest">Google DeepMind, n.d., &quot;mjrfRenderRequest&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfReadRequest</strong><br>mjrfReadRequest</td>
+<td>&quot;<strong>A single pixel read operation</strong>.&quot;</td>
+<td><strong>单次像素读取操作</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfreadrequest">Google DeepMind, n.d., &quot;mjrfReadRequest&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjrfFrameStats</strong><br>mjrfFrameStats</td>
+<td>&quot;<strong>Information about a single frame of rendering</strong>.&quot;</td>
+<td><strong>关于单帧渲染的信息</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjrfframestats">Google DeepMind, n.d., &quot;mjrfFrameStats&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>User Interface (struct types)</strong><br>用户界面结构体</td>
+<td>&quot;Structs used by <strong>the UI framework</strong>.&quot;</td>
+<td>UI 框架所用的结构体。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#tyuistructure">Google DeepMind, n.d., &quot;User Interface&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjuiState</strong><br>mjuiState</td>
+<td>&quot;This C struct represents <strong>the global state of the window, keyboard and mouse, input event descriptors, and all window rectangles (including the visible UI rectangles)</strong>.&quot;</td>
+<td>这个 C 结构体表示<strong>窗口、键盘和鼠标的全局状态、输入事件描述符，以及所有窗口矩形（包括可见的 UI 矩形）</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjuistate">Google DeepMind, n.d., &quot;mjuiState&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjuiThemeSpacing</strong><br>mjuiThemeSpacing</td>
+<td>&quot;This structure <strong>defines the spacing of UI items in the theme</strong>.&quot;</td>
+<td>该结构体<strong>定义主题中 UI 条目的间距</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjuithemespacing">Google DeepMind, n.d., &quot;mjuiThemeSpacing&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjuiThemeColor</strong><br>mjuiThemeColor</td>
+<td>&quot;This structure <strong>defines the colors of UI items in the theme</strong>.&quot;</td>
+<td>该结构体<strong>定义主题中 UI 条目的颜色</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjuithemecolor">Google DeepMind, n.d., &quot;mjuiThemeColor&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjuiItem</strong><br>mjuiItem</td>
+<td>&quot;This structure <strong>defines one UI item</strong>.&quot;</td>
+<td>该结构体<strong>定义一个 UI 条目</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjuiitem">Google DeepMind, n.d., &quot;mjuiItem&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjuiSection</strong><br>mjuiSection</td>
+<td>&quot;This structure <strong>defines one section of the UI</strong>.&quot;</td>
+<td>该结构体<strong>定义 UI 的一个分区</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjuisection">Google DeepMind, n.d., &quot;mjuiSection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjuiDef</strong><br>mjuiDef</td>
+<td>&quot;This structure <strong>defines one entry in the definition table used for simplified UI construction</strong>.&quot;</td>
+<td>该结构体<strong>定义用于简化 UI 构建的定义表中的一项</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjuidef">Google DeepMind, n.d., &quot;mjuiDef&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjUI</strong><br>mjUI</td>
+<td>&quot;This C struct <strong>represents an entire UI</strong>.&quot;</td>
+<td>这个 C 结构体<strong>表示一个完整的 UI</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjui">Google DeepMind, n.d., &quot;mjUI&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Model Editing</strong><br>模型编辑结构体</td>
+<td>&quot;Structs used for <strong>procedural model manipulation</strong>.&quot;</td>
+<td>用于<strong>程序化模型操作</strong>的结构体。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#model-editing">Google DeepMind, n.d., &quot;Model Editing&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjSpec</strong><br>mjSpec</td>
+<td>&quot;<strong>Model specification</strong>.&quot;</td>
+<td><strong>模型规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjspec">Google DeepMind, n.d., &quot;mjSpec&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsElement</strong><br>mjsElement</td>
+<td>&quot;<strong>Special type corresponding to any element</strong>.&quot;</td>
+<td><strong>对应任意元素的特殊类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjselement">Google DeepMind, n.d., &quot;mjsElement&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsCompiler</strong><br>mjsCompiler</td>
+<td>&quot;<strong>Compiler options</strong>.&quot;</td>
+<td><strong>编译器选项</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjscompiler">Google DeepMind, n.d., &quot;mjsCompiler&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsAuthored</strong><br>mjsAuthored</td>
+<td>&quot;<strong>Authored tracking bitmasks for mjModel structs</strong>.&quot;</td>
+<td><strong>跟踪 mjModel 结构体中哪些字段由作者设定的位掩码</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsauthored">Google DeepMind, n.d., &quot;mjsAuthored&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsBody</strong><br>mjsBody</td>
+<td>&quot;<strong>Body specification</strong>.&quot;</td>
+<td><strong>刚体规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsbody">Google DeepMind, n.d., &quot;mjsBody&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsFrame</strong><br>mjsFrame</td>
+<td>&quot;<strong>Frame specification</strong>.&quot;</td>
+<td><strong>坐标系规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsframe">Google DeepMind, n.d., &quot;mjsFrame&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsJoint</strong><br>mjsJoint</td>
+<td>&quot;<strong>Joint specification</strong>.&quot;</td>
+<td><strong>关节规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsjoint">Google DeepMind, n.d., &quot;mjsJoint&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsGeom</strong><br>mjsGeom</td>
+<td>&quot;<strong>Geom specification</strong>.&quot;</td>
+<td><strong>geom 规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsgeom">Google DeepMind, n.d., &quot;mjsGeom&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsSite</strong><br>mjsSite</td>
+<td>&quot;<strong>Site specification</strong>.&quot;</td>
+<td><strong>site 规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjssite">Google DeepMind, n.d., &quot;mjsSite&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsCamera</strong><br>mjsCamera</td>
+<td>&quot;<strong>Camera specification</strong>.&quot;</td>
+<td><strong>相机规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjscamera">Google DeepMind, n.d., &quot;mjsCamera&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsLight</strong><br>mjsLight</td>
+<td>&quot;<strong>Light specification</strong>.&quot;</td>
+<td><strong>光源规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjslight">Google DeepMind, n.d., &quot;mjsLight&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsFlex</strong><br>mjsFlex</td>
+<td>&quot;<strong>Flex specification</strong>.&quot;</td>
+<td><strong>柔性体规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsflex">Google DeepMind, n.d., &quot;mjsFlex&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsMesh</strong><br>mjsMesh</td>
+<td>&quot;<strong>Mesh specification</strong>.&quot;</td>
+<td><strong>网格规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsmesh">Google DeepMind, n.d., &quot;mjsMesh&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsHField</strong><br>mjsHField</td>
+<td>&quot;<strong>Height field specification</strong>.&quot;</td>
+<td><strong>高度场规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjshfield">Google DeepMind, n.d., &quot;mjsHField&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsSkin</strong><br>mjsSkin</td>
+<td>&quot;<strong>Skin specification</strong>.&quot;</td>
+<td><strong>蒙皮规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsskin">Google DeepMind, n.d., &quot;mjsSkin&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsTexture</strong><br>mjsTexture</td>
+<td>&quot;<strong>Texture specification</strong>.&quot;</td>
+<td><strong>纹理规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjstexture">Google DeepMind, n.d., &quot;mjsTexture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsMaterial</strong><br>mjsMaterial</td>
+<td>&quot;<strong>Material specification</strong>.&quot;</td>
+<td><strong>材质规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsmaterial">Google DeepMind, n.d., &quot;mjsMaterial&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsPair</strong><br>mjsPair</td>
+<td>&quot;<strong>Pair specification</strong>.&quot;</td>
+<td><strong>接触对规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjspair">Google DeepMind, n.d., &quot;mjsPair&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsExclude</strong><br>mjsExclude</td>
+<td>&quot;<strong>Exclude specification</strong>.&quot;</td>
+<td><strong>接触排除规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsexclude">Google DeepMind, n.d., &quot;mjsExclude&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsEquality</strong><br>mjsEquality</td>
+<td>&quot;<strong>Equality specification</strong>.&quot;</td>
+<td><strong>等式约束规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsequality">Google DeepMind, n.d., &quot;mjsEquality&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsTendon</strong><br>mjsTendon</td>
+<td>&quot;<strong>Tendon specification</strong>.&quot;</td>
+<td><strong>肌腱规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjstendon">Google DeepMind, n.d., &quot;mjsTendon&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsWrap</strong><br>mjsWrap</td>
+<td>&quot;<strong>Wrapping object specification</strong>.&quot;</td>
+<td><strong>缠绕对象规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjswrap">Google DeepMind, n.d., &quot;mjsWrap&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsActuator</strong><br>mjsActuator</td>
+<td>&quot;<strong>Actuator specification</strong>.&quot;</td>
+<td><strong>执行器规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsactuator">Google DeepMind, n.d., &quot;mjsActuator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsSensor</strong><br>mjsSensor</td>
+<td>&quot;<strong>Sensor specification</strong>.&quot;</td>
+<td><strong>传感器规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjssensor">Google DeepMind, n.d., &quot;mjsSensor&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsNumeric</strong><br>mjsNumeric</td>
+<td>&quot;<strong>Custom numeric field specification</strong>.&quot;</td>
+<td><strong>自定义数值字段规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsnumeric">Google DeepMind, n.d., &quot;mjsNumeric&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsText</strong><br>mjsText</td>
+<td>&quot;<strong>Custom text specification</strong>.&quot;</td>
+<td><strong>自定义文本规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjstext">Google DeepMind, n.d., &quot;mjsText&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsTuple</strong><br>mjsTuple</td>
+<td>&quot;<strong>Tuple specification</strong>.&quot;</td>
+<td><strong>元组规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjstuple">Google DeepMind, n.d., &quot;mjsTuple&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsKey</strong><br>mjsKey</td>
+<td>&quot;<strong>Keyframe specification</strong>.&quot;</td>
+<td><strong>关键帧规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjskey">Google DeepMind, n.d., &quot;mjsKey&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsDefault</strong><br>mjsDefault</td>
+<td>&quot;<strong>Default specification</strong>.&quot;</td>
+<td><strong>默认设置规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsdefault">Google DeepMind, n.d., &quot;mjsDefault&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsPlugin</strong><br>mjsPlugin</td>
+<td>&quot;<strong>Plugin specification</strong>.&quot;</td>
+<td><strong>插件规格</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsplugin">Google DeepMind, n.d., &quot;mjsPlugin&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjsOrientation</strong><br>mjsOrientation</td>
+<td>&quot;<strong>Alternative orientation specifiers</strong>.&quot;</td>
+<td><strong>可替代的朝向描述符</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsorientation">Google DeepMind, n.d., &quot;mjsOrientation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Array handles</strong><br>数组句柄</td>
+<td>&quot;<strong>C handles for C++ strings and vector types</strong>.&quot;</td>
+<td><strong>用于 C++ 字符串和向量类型的 C 句柄</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#array-handles">Google DeepMind, n.d., &quot;Array handles&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjString</strong><br>mjString</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjstring">Google DeepMind, n.d., &quot;Array handles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjStringVec</strong><br>mjStringVec</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjstringvec">Google DeepMind, n.d., &quot;Array handles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjIntVec</strong><br>mjIntVec</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjintvec">Google DeepMind, n.d., &quot;Array handles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjIntVecVec</strong><br>mjIntVecVec</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjintvecvec">Google DeepMind, n.d., &quot;Array handles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjFloatVec</strong><br>mjFloatVec</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfloatvec">Google DeepMind, n.d., &quot;Array handles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjFloatVecVec</strong><br>mjFloatVecVec</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfloatvecvec">Google DeepMind, n.d., &quot;Array handles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjDoubleVec</strong><br>mjDoubleVec</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjdoublevec">Google DeepMind, n.d., &quot;Array handles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjByteVec</strong><br>mjByteVec</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjbytevec">Google DeepMind, n.d., &quot;Array handles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Plugins (struct types)</strong><br>插件结构体</td>
+<td>&quot;Structs used by <strong>engine plugins</strong>.&quot;</td>
+<td>引擎插件所用的结构体。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#typluginstructure">Google DeepMind, n.d., &quot;Plugins&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjpPlugin</strong><br>mjpPlugin</td>
+<td>&quot;This structure contains <strong>the definition of a single engine plugin</strong>.&quot;</td>
+<td>该结构体包含<strong>单个引擎插件的定义</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjpplugin">Google DeepMind, n.d., &quot;mjpPlugin&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjSDF</strong><br>mjSDF</td>
+<td>&quot;<strong>Data structure used by the Signed Distance Functions API for computing distances and gradients between SDF geoms</strong>.&quot;</td>
+<td><strong>符号距离函数 API 用来计算 SDF geom 之间距离和梯度的数据结构</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjsdf">Google DeepMind, n.d., &quot;mjSDF&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjpResourceProvider</strong><br>mjpResourceProvider</td>
+<td>&quot;This data structure contains <strong>the definition of a resource provider</strong>.&quot;</td>
+<td>该数据结构包含<strong>资源提供者的定义</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjpresourceprovider">Google DeepMind, n.d., &quot;mjpResourceProvider&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjpDecoder</strong><br>mjpDecoder</td>
+<td>&quot;This data structure <strong>defines a decoder</strong>.&quot;</td>
+<td>该数据结构<strong>定义一个解码器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjpdecoder">Google DeepMind, n.d., &quot;mjpDecoder&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjpEncoder</strong><br>mjpEncoder</td>
+<td>&quot;This data structure <strong>defines an encoder</strong>.&quot;</td>
+<td>该数据结构<strong>定义一个编码器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjpencoder">Google DeepMind, n.d., &quot;mjpEncoder&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Batched simulation</strong><br>批量仿真结构体</td>
+<td>&quot;These types are used by <strong>the batch API</strong>, declared in mjbatch.h.&quot;</td>
+<td>这些类型由<strong>批量 API</strong> 使用，声明于 mjbatch.h。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#batched-simulation">Google DeepMind, n.d., &quot;Batched simulation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjBatch</strong><br>mjBatch</td>
+<td>&quot;<strong>An opaque handle to nsim simulations of one model and the thread pool that runs them</strong>, created by mjb_makeBatch and freed by mjb_deleteBatch.&quot;</td>
+<td><strong>一个不透明句柄，指向同一模型的 nsim 个仿真以及运行它们的线程池</strong>，由 mjb_makeBatch 创建、由 mjb_deleteBatch 释放。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjbatch">Google DeepMind, n.d., &quot;mjBatch&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjBatchConfig</strong><br>mjBatchConfig</td>
+<td>&quot;<strong>The parameters of mjb_makeBatch</strong>, set to their defaults by mjb_defaultConfig.&quot;</td>
+<td><strong>mjb_makeBatch 的参数</strong>，由 mjb_defaultConfig 设为默认值。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjbatchconfig">Google DeepMind, n.d., &quot;mjBatchConfig&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjBatchRecord</strong><br>mjBatchRecord</td>
+<td>&quot;<strong>A field or state recorded by mjb_rollout after every substep</strong>.&quot;</td>
+<td><strong>由 mjb_rollout 在每个子步之后记录的字段或状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjbatchrecord">Google DeepMind, n.d., &quot;mjBatchRecord&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Physics Callbacks</strong><br>物理回调函数类型</td>
+<td>&quot;These function types are used by <strong>physics callbacks</strong>.&quot;</td>
+<td>这些函数类型由<strong>物理回调</strong>使用。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#physics-callbacks">Google DeepMind, n.d., &quot;Physics Callbacks&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfGeneric</strong><br>mjfGeneric</td>
+<td>&quot;This is <strong>the function type of the callbacks mjcb_passive and mjcb_control</strong>.&quot;</td>
+<td>这是<strong>回调 mjcb_passive 和 mjcb_control 的函数类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfgeneric">Google DeepMind, n.d., &quot;mjfGeneric&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfConFilt</strong><br>mjfConFilt</td>
+<td>&quot;This is <strong>the function type of the callback mjcb_contactfilter</strong>.&quot;</td>
+<td>这是<strong>回调 mjcb_contactfilter 的函数类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfconfilt">Google DeepMind, n.d., &quot;mjfConFilt&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfSensor</strong><br>mjfSensor</td>
+<td>&quot;This is <strong>the function type of the callback mjcb_sensor</strong>.&quot;</td>
+<td>这是<strong>回调 mjcb_sensor 的函数类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfsensor">Google DeepMind, n.d., &quot;mjfSensor&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfTime</strong><br>mjfTime</td>
+<td>&quot;This is <strong>the function type of the callback mjcb_time</strong>.&quot;</td>
+<td>这是<strong>回调 mjcb_time 的函数类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjftime">Google DeepMind, n.d., &quot;mjfTime&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfAct</strong><br>mjfAct</td>
+<td>&quot;This is <strong>the function type of the callbacks mjcb_act_dyn, mjcb_act_gain and mjcb_act_bias</strong>.&quot;</td>
+<td>这是<strong>回调 mjcb_act_dyn、mjcb_act_gain 和 mjcb_act_bias 的函数类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfact">Google DeepMind, n.d., &quot;mjfAct&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfCollision</strong><br>mjfCollision</td>
+<td>&quot;This is <strong>the function type of the callbacks in the collision table mjCOLLISIONFUNC</strong>.&quot;</td>
+<td>这是<strong>碰撞表 mjCOLLISIONFUNC 中各回调的函数类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfcollision">Google DeepMind, n.d., &quot;mjfCollision&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Log Callbacks</strong><br>日志回调函数类型</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#log-callbacks">Google DeepMind, n.d., &quot;Log Callbacks&quot;</a></td>
+</tr>
+<tr>
+<td><strong>mjfLogHandler</strong><br>mjfLogHandler</td>
+<td>&quot;This is <strong>the function type of the log handler callback installed via mju_setLogHandler</strong>.&quot;</td>
+<td>这是<strong>通过 mju_setLogHandler 安装的日志处理回调的函数类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfloghandler">Google DeepMind, n.d., &quot;mjfLogHandler&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>UI Callbacks</strong><br>UI 回调函数类型</td>
+<td>&quot;These function types are used by <strong>the UI framework</strong>.&quot;</td>
+<td>这些函数类型由 <strong>UI 框架</strong>使用。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#ui-callbacks">Google DeepMind, n.d., &quot;UI Callbacks&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfItemEnable</strong><br>mjfItemEnable</td>
+<td>&quot;This is <strong>the function type of the predicate function used by the UI framework to determine if each item is enabled or disabled</strong>.&quot;</td>
+<td>这是 <strong>UI 框架用来判断每个条目是启用还是禁用的谓词函数的函数类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfitemenable">Google DeepMind, n.d., &quot;mjfItemEnable&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Resource Provider Callbacks</strong><br>资源提供者回调函数类型</td>
+<td>&quot;These callbacks are used by <strong>resource providers</strong>.&quot;</td>
+<td>这些回调由<strong>资源提供者</strong>使用。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#resource-provider-callbacks">Google DeepMind, n.d., &quot;Resource Provider Callbacks&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfOpenResource</strong><br>mjfOpenResource</td>
+<td>&quot;This callback is <strong>for opening a resource</strong>; returns zero on failure.&quot;</td>
+<td>该回调<strong>用于打开资源</strong>；失败时返回零。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfopenresource">Google DeepMind, n.d., &quot;mjfOpenResource&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfReadResource</strong><br>mjfReadResource</td>
+<td>&quot;This callback is <strong>for reading a resource</strong>.&quot;</td>
+<td>该回调<strong>用于读取资源</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfreadresource">Google DeepMind, n.d., &quot;mjfReadResource&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfCloseResource</strong><br>mjfCloseResource</td>
+<td>&quot;This callback is <strong>for closing a resource</strong>, and is responsible for freeing any allocated memory.&quot;</td>
+<td>该回调<strong>用于关闭资源</strong>，并负责释放所有已分配的内存。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfcloseresource">Google DeepMind, n.d., &quot;mjfCloseResource&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfGetResourceDir</strong><br>mjfGetResourceDir</td>
+<td>&quot;This callback is <strong>for returning the directory of a resource</strong>, by setting dir to the directory string with ndir being size of directory string.&quot;</td>
+<td>该回调<strong>用于返回资源所在的目录</strong>，方法是把 dir 设为目录字符串、ndir 设为该字符串的长度。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfgetresourcedir">Google DeepMind, n.d., &quot;mjfGetResourceDir&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfResourceModified</strong><br>mjfResourceModified</td>
+<td>&quot;This callback is <strong>for checking if a resource was modified since it was last read</strong>.&quot;</td>
+<td>该回调<strong>用于检查资源自上次读取以来是否被修改过</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfresourcemodified">Google DeepMind, n.d., &quot;mjfResourceModified&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfDecode</strong><br>mjfDecode</td>
+<td>&quot;This callback is given an opened resource, and is <strong>responsible for decoding it into a mjSpec</strong>.&quot;</td>
+<td>该回调接收一个已打开的资源，并<strong>负责将其解码为 mjSpec</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfdecode">Google DeepMind, n.d., &quot;mjfDecode&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfCanDecode</strong><br>mjfCanDecode</td>
+<td>&quot;This callback is given an opened resource, and is <strong>responsible for returning true if the resource can be decoded by the mjpDecoder</strong>.&quot;</td>
+<td>该回调接收一个已打开的资源，并<strong>负责在该资源可被 mjpDecoder 解码时返回 true</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfcandecode">Google DeepMind, n.d., &quot;mjfCanDecode&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfEncode</strong><br>mjfEncode</td>
+<td>&quot;This callback <strong>populates the mjResource data member with bytes representing the given spec in the format associated with the owning plugin</strong>.&quot;</td>
+<td>该回调<strong>用表示给定 spec 的字节填充 mjResource 的 data 成员，格式为所属插件关联的格式</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfencode">Google DeepMind, n.d., &quot;mjfEncode&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Batch callbacks</strong><br>批量回调函数类型</td>
+<td>&quot;This function type is used by <strong>the batch API</strong>.&quot;</td>
+<td>该函数类型由<strong>批量 API</strong> 使用。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#batch-callbacks">Google DeepMind, n.d., &quot;Batch callbacks&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfBatchFunc</strong><br>mjfBatchFunc</td>
+<td>&quot;This is <strong>the function type run by mjb_apply on simulation sim, on a batch thread</strong>.&quot;</td>
+<td>这是 <strong>mjb_apply 在某个批量线程上对仿真 sim 运行的函数类型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html#mjfbatchfunc">Google DeepMind, n.d., &quot;mjfBatchFunc&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Types</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html">https://mujoco.readthedocs.io/en/stable/APIreference/APItypes.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

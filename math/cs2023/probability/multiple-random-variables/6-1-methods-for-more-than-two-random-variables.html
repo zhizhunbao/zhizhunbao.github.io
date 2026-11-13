@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6.1 Methods for More Than Two Random Variables | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="6.1 Methods for More Than Two Random Variables, part of 6 Multiple Random Variables: 17 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="61-methods-for-more-than-two-random-variables">6.1 Methods for More Than Two Random Variables</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/6-1-methods-for-more-than-two-random-variables.png" alt="6.1 Methods for More Than Two Random Variables: its 6 subsections, one group each listing the terms it defines (17 in all)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6.1 Methods for More Than Two Random Variables</strong><br>多于两个随机变量的方法</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_1_joint_distributions_independence.php">Pishro-Nik, 2014, section 6.1</a></td>
+</tr>
+<tr>
+<td><strong>6.1.1 Joint Distributions and Independence</strong><br>联合分布与独立性</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_1_joint_distributions_independence.php">Pishro-Nik, 2014, section 6.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Independent and Identically Distributed (i.i.d.)</strong><br>独立同分布</td>
+<td>&quot;Random variables <span class="math">\(X_1\)</span>, <span class="math">\(X_2\)</span>,..., <span class="math">\(X_n\)</span> are said to be <strong>independent and identically distributed (i.i.d.)</strong> if they are independent, and they have the same marginal distributions:&quot;</td>
+<td>若随机变量 <span class="math">\(X_1\)</span>, <span class="math">\(X_2\)</span>,..., <span class="math">\(X_n\)</span> 相互独立且具有相同的边缘分布，则称它们<strong>独立同分布</strong>（i.i.d.）：</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_1_joint_distributions_independence.php#:%7E:text=Random%20variables%20%2C%20%2C...%2C%20are%20said">Pishro-Nik, 2014, section 6.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Independent and Identically Distributed (i.i.d.)</strong><br>独立同分布</td>
+<td>&quot;Random variables <span class="math">\(X_1\)</span>, <span class="math">\(X_2\)</span>,..., <span class="math">\(X_n\)</span> are said to be <strong>independent and identically distributed (i.i.d.)</strong> if they are independent, and they have the same marginal distributions: <span class="math">\(\begin{align} \nonumber F_{X_1}(x)=F_{X_2}(x)=...=F_{X_n}(x), \textrm{ for all }x \in \mathbb{R}. \end{align}\)</span>&quot;</td>
+<td>若随机变量 <span class="math">\(X_1\)</span>、<span class="math">\(X_2\)</span>、...、<span class="math">\(X_n\)</span> 相互独立且具有相同的边缘分布 <span class="math">\(\begin{align} \nonumber F_{X_1}(x)=F_{X_2}(x)=...=F_{X_n}(x), \textrm{ for all }x \in \mathbb{R}. \end{align}\)</span>，则称它们<strong>独立同分布</strong>（i.i.d.）</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_1_joint_distributions_independence.php#:%7E:text=Random%20variables%20%2C%20%2C...%2C%20are%20said">Pishro-Nik, 2014, section 6.1.1</a></td>
+</tr>
+<tr>
+<td><strong>6.1.2 Sums of Random Variables</strong><br>随机变量之和</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_2_sums_random_variables.php">Pishro-Nik, 2014, section 6.1.2</a></td>
+</tr>
+<tr>
+<td><strong>6.1.3 Moment Generating Functions</strong><br>矩母函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_3_moment_functions.php">Pishro-Nik, 2014, section 6.1.3</a></td>
+</tr>
+<tr>
+<td><strong>Moment Generating Function</strong><br>矩母函数</td>
+<td>&quot;The <strong>moment generating function (MGF)</strong> of a random variable <span class="math">\(X\)</span> is a function <span class="math">\(M_X(s)\)</span> defined as <span class="math">\(\begin{align} \nonumber M_X(s)=E\left[e^{sX}\right]. \end{align}\)</span>&quot;</td>
+<td>随机变量 <span class="math">\(X\)</span> 的<strong>矩母函数</strong>（MGF）是定义为 <span class="math">\(\begin{align} \nonumber M_X(s)=E\left[e^{sX}\right]. \end{align}\)</span> 的函数 <span class="math">\(M_X(s)\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_3_moment_functions.php#:%7E:text=The%20moment%20generating%20function%20%28MGF%29%20of">Pishro-Nik, 2014, section 6.1.3</a></td>
+</tr>
+<tr>
+<td><strong>Moment Generating Function (MGF)</strong><br>矩母函数</td>
+<td>&quot;The <strong>moment generating function (MGF)</strong> of a random variable <span class="math">\(X\)</span> is a function <span class="math">\(M_X(s)\)</span> defined as&quot;</td>
+<td>随机变量 <span class="math">\(X\)</span> 的<strong>矩母函数</strong>（MGF）是定义为如下形式的函数 <span class="math">\(M_X(s)\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_3_moment_functions.php#:%7E:text=The%20moment%20generating%20function%20%28MGF%29%20of">Pishro-Nik, 2014, section 6.1.3</a></td>
+</tr>
+<tr>
+<td><strong>nth Moment</strong><br>n 阶矩</td>
+<td>&quot;The <strong>n th moment</strong> of a random variable <span class="math">\(X\)</span> is defined to be <span class="math">\(E[X^n]\)</span>.&quot;</td>
+<td>随机变量 <span class="math">\(X\)</span> 的 <strong>n 阶矩</strong>定义为 <span class="math">\(E[X^n]\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_3_moment_functions.php#:%7E:text=The%20n%20th%20moment%20of%20a">Pishro-Nik, 2014, section 6.1.3</a></td>
+</tr>
+<tr>
+<td><strong>nth Central Moment</strong><br>n 阶中心矩</td>
+<td>&quot;The <strong>n th central moment</strong> of <span class="math">\(X\)</span> is defined to be <span class="math">\(E[(X-EX)^n]\)</span>.&quot;</td>
+<td><span class="math">\(X\)</span> 的 <strong>n 阶中心矩</strong>定义为 <span class="math">\(E[(X-EX)^n]\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_3_moment_functions.php#:%7E:text=The%20n%20th%20central%20moment%20of">Pishro-Nik, 2014, section 6.1.3</a></td>
+</tr>
+<tr>
+<td><strong>6.1.4 Characteristic Functions</strong><br>特征函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_4_characteristic_functions.php">Pishro-Nik, 2014, section 6.1.4</a></td>
+</tr>
+<tr>
+<td><strong>6.1.5 Random Vectors</strong><br>随机向量</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Random Vector</strong><br>随机向量</td>
+<td>&quot;We call <span class="math">\(\textbf{X}\)</span> a <strong>random vector</strong>.&quot;</td>
+<td>我们称 <span class="math">\(\textbf{X}\)</span> 为<strong>随机向量</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=We%20call%20a%20random%20vector.">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Expected Value Vector</strong><br>期望向量（均值向量）</td>
+<td>&quot;The <strong>expected value vector</strong> or the <strong>mean vector</strong> of the random vector X is defined as <span class="math">\(\begin{align} \nonumber E\mathbf{X} = \begin{bmatrix} EX_1 \\ EX_2 \\. \\[-10pt]. \\[-10pt]. \\[5pt] EX_n \end{bmatrix}. \end{align}\)</span>&quot;</td>
+<td>随机向量 X 的<strong>期望向量</strong>或<strong>均值向量</strong>定义为 <span class="math">\(\begin{align} \nonumber E\mathbf{X} = \begin{bmatrix} EX_1 \\ EX_2 \\. \\[-10pt]. \\[-10pt]. \\[5pt] EX_n \end{bmatrix}. \end{align}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=The%20expected%20value%20vector%20or%20the">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Random Matrix</strong><br>随机矩阵</td>
+<td>&quot;Similarly, a <strong>random matrix</strong> is a matrix whose elements are random variables.&quot;</td>
+<td>类似地，<strong>随机矩阵</strong>是其元素为随机变量的矩阵。</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=Similarly%2C%20a%20random%20matrix%20is%20a">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Correlation Matrix</strong><br>相关矩阵</td>
+<td>&quot;For a random vector <span class="math">\(\mathbf{X}\)</span>, we define the <strong>correlation matrix</strong>, <span class="math">\(\mathbf{R_X}\)</span>, as&quot;</td>
+<td>对于随机向量 <span class="math">\(\mathbf{X}\)</span>，我们将<strong>相关矩阵</strong> <span class="math">\(\mathbf{R_X}\)</span> 定义为</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=For%20a%20random%20vector%20%2C%20we">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Covariance Matrix</strong><br>协方差矩阵</td>
+<td>&quot;The <strong>covariance matrix</strong>, <span class="math">\(C_X\)</span>, is&quot;</td>
+<td><strong>协方差矩阵</strong> <span class="math">\(C_X\)</span> 为</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=The%20covariance%20matrix%2C%20%2C%20is">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Positive Semi-Definite (PSD) Matrix</strong><br>半正定矩阵</td>
+<td>&quot;Remember from linear algebra that a symmetric matrix M is <strong>positive semi-definite (PSD)</strong> if, for all vectors b, we have <span class="math">\(\begin{align} \mathbf{b^T M b} \geq 0. \end{align}\)</span>&quot;</td>
+<td>回顾线性代数，若对所有向量 b 都有 <span class="math">\(\begin{align} \mathbf{b^T M b} \geq 0. \end{align}\)</span>，则对称矩阵 M 是<strong>半正定</strong>（PSD）的</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=Remember%20from%20linear%20algebra%20that%20a">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Positive Definite (PD) Matrix</strong><br>正定矩阵</td>
+<td>&quot;Also, M is said to be <strong>positive definite (PD)</strong>, if for all vectors b <span class="math">\(\neq 0\)</span>, we have <span class="math">\(\begin{align} \mathbf{b^T M b} &gt; 0. \end{align}\)</span>&quot;</td>
+<td>此外，若对所有向量 b <span class="math">\(\neq 0\)</span>，都有 <span class="math">\(\begin{align} \mathbf{b^T M b} &gt; 0. \end{align}\)</span>，则称 M 是<strong>正定</strong>（PD）的</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=Also%2C%20M%20is%20said%20to%20be">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Cross Correlation Matrix</strong><br>互相关矩阵</td>
+<td>&quot;Finally, if we have two random vectors, <span class="math">\(\mathbf{X}\)</span> and <span class="math">\(\mathbf{Y}\)</span>, we can define the <strong>cross correlation matrix</strong> of <span class="math">\(\mathbf{X}\)</span> and <span class="math">\(\mathbf{Y}\)</span> as <span class="math">\(\begin{align} \nonumber \mathbf{R_{XY}=E[X Y^T]}. \end{align}\)</span>&quot;</td>
+<td>最后，若有两个随机向量 <span class="math">\(\mathbf{X}\)</span> 和 <span class="math">\(\mathbf{Y}\)</span>，我们可以将 <span class="math">\(\mathbf{X}\)</span> 和 <span class="math">\(\mathbf{Y}\)</span> 的<strong>互相关矩阵</strong>定义为 <span class="math">\(\begin{align} \nonumber \mathbf{R_{XY}=E[X Y^T]}. \end{align}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=Finally%2C%20if%20we%20have%20two%20random">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Cross Covariance Matrix</strong><br>互协方差矩阵</td>
+<td>&quot;Also, the <strong>cross covariance matrix</strong> of X and Y is <span class="math">\(\begin{align} \nonumber \mathbf{C_{XY}=E[(X-EX)(Y-EY)^T]}. \end{align}\)</span>&quot;</td>
+<td>此外，X 与 Y 的<strong>互协方差矩阵</strong>为 <span class="math">\(\begin{align} \nonumber \mathbf{C_{XY}=E[(X-EX)(Y-EY)^T]}. \end{align}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=Also%2C%20the%20cross%20covariance%20matrix%20of">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Standard Normal Random Vector</strong><br>标准正态随机向量</td>
+<td>&quot;Let's call such a random vector the <strong>standard normal random vector</strong>.&quot;</td>
+<td>我们称这样的随机向量为<strong>标准正态随机向量</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_5_random_vectors.php#:%7E:text=Let%27s%20call%20such%20a%20random%20vector">Pishro-Nik, 2014, section 6.1.5</a></td>
+</tr>
+<tr>
+<td><strong>6.1.6 Solved Problems</strong><br>例题详解</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_6_solved_probs.php">Pishro-Nik, 2014, section 6.1.6</a></td>
+</tr>
+<tr>
+<td><strong>Probability Generating Function (PGF)</strong><br>概率母函数</td>
+<td>&quot;For these random variables it is usually more useful to work with <strong>probability generating functions (PGF)s</strong> defined as <span class="math">\(\begin{align} G_X(z)=E[z^X]=\sum_{n=0}^{\infty} P(X=n)z^n, \end{align}\)</span> for all <span class="math">\(z \in \mathbb{R}\)</span> that <span class="math">\(G_X(z)\)</span> is finite.&quot;</td>
+<td>对于这些随机变量，通常使用<strong>概率母函数</strong>（PGF）更为有用，其定义为 <span class="math">\(\begin{align} G_X(z)=E[z^X]=\sum_{n=0}^{\infty} P(X=n)z^n, \end{align}\)</span>，对所有使 <span class="math">\(G_X(z)\)</span> 有限的 <span class="math">\(z \in \mathbb{R}\)</span> 成立。</td>
+<td><a href="https://www.probabilitycourse.com/chapter6/6_1_6_solved_probs.php#:%7E:text=For%20these%20random%20variables%20it%20is">Pishro-Nik, 2014, section 6.1.6</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Pishro-Nik, H. (2014). <em>Introduction to probability, statistics, and random processes</em>. Kappa Research. Retrieved October 28, 2026, from <a href="https://www.probabilitycourse.com/">https://www.probabilitycourse.com/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-28">10/28/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

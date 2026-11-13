@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>60.100 Honours Bachelor of Technology – Software Development | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="College Programs &gt; Seneca Polytechnic &gt; Honours Bachelor of Technology – Software Development: the courses of the program; skeleton, definition pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="60100-honours-bachelor-of-technology--software-development">60.100 Honours Bachelor of Technology – Software Development</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Honours Bachelor of Technology – Software Development</strong><br>技术荣誉学士：软件开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Canadian Business</strong><br>加拿大商业导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Foundations for Developers</strong><br>开发人员计算机基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Operating Systems</strong><br>操作系统导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Programming Fundamentals Using C</strong><br>使用C的编程基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Writing Strategies</strong><br>写作策略</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Interpersonal Communications in Organizations</strong><br>组织中的人际沟通</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Database Design Principles</strong><br>数据库设计原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Web Programming Principles</strong><br>网页编程原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mathematics for Developers</strong><br>开发者数学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>The Object-Oriented Paradigm Using C++</strong><br>使用 C++ 的面向对象范式</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Database Technologies</strong><br>高级数据库技术</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Web Programming Tools and Frameworks</strong><br>Web 编程工具与框架</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Statistics for Developers</strong><br>开发人员统计学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Object-Oriented Software Development Using C++</strong><br>使用C++的面向对象软件开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Business Requirements Analysis Using OO Models</strong><br>使用面向对象模型的业务需求分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Presentation Skills</strong><br>演讲技巧</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Business and Technical Writing</strong><br>商务与技术写作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Web Programming for Apps and Services</strong><br>面向应用与服务的 Web 编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Data Communications Programming</strong><br>数据通信编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>System Development and Design</strong><br>系统开发与设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>System Analysis and Design</strong><br>系统分析与设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Marketing</strong><br>市场营销导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Principles of GUI Design and Programming</strong><br>图形用户界面设计与编程原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Web Programming for the Cloud</strong><br>面向云的 Web 编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Data Structures and Algorithms</strong><br>数据结构与算法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Project Management</strong><br>软件项目管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Work Term Preparation</strong><br>工作学期准备</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced User Interface Design</strong><br>高级用户界面设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mobile Applications</strong><br>移动应用</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Major Project - Planning and Design</strong><br>主要项目 - 规划与设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Development, Co-op</strong><br>软件开发，合作教育</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Law, Ethics and Social Responsibility</strong><br>法律、伦理与社会责任</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Human-Computer Interaction</strong><br>人机交互</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Information Security</strong><br>信息安全</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Major Project - Implementation</strong><br>主要项目 - 实施</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Software Development, Co-op II</strong><br>软件开发，合作教育 II</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Research Methods</strong><br>研究方法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Technology Planning and Acquisition</strong><br>技术规划与采购</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>High Performance Computing</strong><br>高性能计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Web Application Security Assessment</strong><br>Web 应用安全评估</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Python for Programmers: Sockets and Security</strong><br>程序员Python：套接字与安全</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cross-platform App Development</strong><br>跨平台应用开发</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Topics in Open Source Development</strong><br>开源开发专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Open Source Project</strong><br>开源项目</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Topics in UNIX Systems Programming</strong><br>UNIX 系统编程专题</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Vision</strong><br>计算机视觉</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Parallel Algorithms And Programming Techniques</strong><br>并行算法与编程技术</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mobile App Development - iOS</strong><br>移动应用开发 - iOS</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mobile App Development - Android</strong><br>移动应用开发 - Android</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Game Engine Foundations</strong><br>游戏引擎基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Game Content Creation</strong><br>游戏内容创作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Game Development Fundamentals</strong><br>游戏开发基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mobile Robotics Software Design</strong><br>移动机器人软件设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>AI for Software Developers</strong><br>面向软件开发人员的AI</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Compiler Design</strong><br>编译器设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Type</th>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>BAB100</td>
+<td>Introduction to Canadian Business</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>BTL100</td>
+<td>Computer Foundations for Developers</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>BTO125</td>
+<td>Introduction to Operating Systems</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>BTP100</td>
+<td>Programming Fundamentals Using C</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>ENG106</td>
+<td>Writing Strategies</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>BTC240</td>
+<td>Interpersonal Communications in Organizations</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>BTD210</td>
+<td>Database Design Principles</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>BTI225</td>
+<td>Web Programming Principles</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>BTL200</td>
+<td>Mathematics for Developers</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>BTP200</td>
+<td>The Object-Oriented Paradigm Using C++</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>BTD315</td>
+<td>Advanced Database Technologies</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>BTI325</td>
+<td>Web Programming Tools and Frameworks</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>BTL300</td>
+<td>Statistics for Developers</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>BTP305</td>
+<td>Object-Oriented Software Development Using C++</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>BTS330</td>
+<td>Business Requirements Analysis Using OO Models</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>LSP400</td>
+<td>Presentation Skills</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>BTC440</td>
+<td>Business and Technical Writing</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>BTI425</td>
+<td>Web Programming for Apps and Services</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>BTN415</td>
+<td>Data Communications Programming</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>BTP405</td>
+<td>System Development and Design</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>BTS435</td>
+<td>System Analysis and Design</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>BAB235</td>
+<td>Introduction to Marketing</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>BTH545</td>
+<td>Principles of GUI Design and Programming</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>BTI525</td>
+<td>Web Programming for the Cloud</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>BTP500</td>
+<td>Data Structures and Algorithms</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>BTS535</td>
+<td>Software Project Management</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>WTP200</td>
+<td>Work Term Preparation</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 6</td>
+<td></td>
+<td>BTH650</td>
+<td>Advanced User Interface Design</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 6</td>
+<td></td>
+<td>BTP610</td>
+<td>Mobile Applications</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 6</td>
+<td></td>
+<td>BTS530</td>
+<td>Major Project - Planning and Design</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Work-Integrated Learning Term 1</td>
+<td></td>
+<td>BSD771</td>
+<td>Software Development, Co-op</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 7</td>
+<td></td>
+<td>BTE620</td>
+<td>Law, Ethics and Social Responsibility</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 7</td>
+<td></td>
+<td>BTH745</td>
+<td>Human-Computer Interaction</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 7</td>
+<td></td>
+<td>BTN710</td>
+<td>Information Security</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 7</td>
+<td></td>
+<td>BTS630</td>
+<td>Major Project - Implementation</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Work-Integrated Learning Term 2</td>
+<td></td>
+<td>BSD772</td>
+<td>Software Development, Co-op II</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 8</td>
+<td></td>
+<td>BTM710</td>
+<td>Research Methods</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 8</td>
+<td></td>
+<td>BTM800</td>
+<td>Technology Planning and Acquisition</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>BDA420</td>
+<td>High Performance Computing</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>BTP610</td>
+<td>Mobile Applications</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPI910</td>
+<td>Web Application Security Assessment</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPI912</td>
+<td>Python for Programmers: Sockets and Security</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS530</td>
+<td>Cross-platform App Development</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS909</td>
+<td>Topics in Open Source Development</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS911</td>
+<td>Open Source Project</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS912</td>
+<td>Topics in UNIX Systems Programming</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS920</td>
+<td>Computer Vision</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS921</td>
+<td>Parallel Algorithms And Programming Techniques</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS923</td>
+<td>Mobile App Development - iOS</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS924</td>
+<td>Mobile App Development - Android</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS931</td>
+<td>Game Engine Foundations</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS936</td>
+<td>Game Content Creation</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS937</td>
+<td>Game Development Fundamentals</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS941</td>
+<td>Mobile Robotics Software Design</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>DPS970</td>
+<td>AI for Software Developers</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Professional Options, Semester 8</td>
+<td></td>
+<td>SEP700</td>
+<td>Compiler Design</td>
+<td><a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD/courses.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Seneca Polytechnic. (n.d.). <em>Honours Bachelor of Technology – Software Development</em>. Retrieved November 10, 2026, from <a href="https://www.senecapolytechnic.ca/programs/fulltime/BSD.html">https://www.senecapolytechnic.ca/programs/fulltime/BSD.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 17:34:09-05:00">11/11/2026 17:34:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

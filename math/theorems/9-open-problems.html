@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>9 Open Problems | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Open Problems, part 9 of Theorems and Conjectures: problem lists, starting with the 7 Millennium Prize Problems of the Clay Mathematics Institute.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="9-open-problems">9 Open Problems</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="index.html">Theorems and Conjectures</a></strong><br>定理与猜想</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.cs.ru.nl/%7Efreek/100/">Wiedijk, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="9-open-problems.html">9 Open Problems</a></strong><br>未解决问题</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.claymath.org/millennium-problems/">Clay Mathematics Institute, n.d.-a</a></td>
+</tr>
+<tr>
+<td><strong>9.1 Millennium Prize Problems</strong><br>千禧年大奖难题</td>
+<td>&quot;The seven Millennium Prize Problems were chosen by the founding Scientific Advisory Board of CMI, which conferred with leading experts worldwide. The focus of the board was on <strong>important classic questions that have resisted solution for many years</strong>.&quot;</td>
+<td>七个千禧年大奖难题由 CMI（克雷数学研究所）创始科学顾问委员会与世界各地的顶尖专家商议后选定。委员会关注的是<strong>多年来未被解决的重要经典问题</strong>。</td>
+<td><a href="https://www.claymath.org/millennium-problems/">Clay Mathematics Institute, n.d.-a</a></td>
+</tr>
+<tr>
+<td><strong>P vs NP</strong><br>P 与 NP 问题</td>
+<td>&quot;one of the outstanding problems in computer science is determining <strong>whether questions exist whose answer can be quickly checked, but which require an impossibly long time to solve</strong> by any direct procedure.&quot;</td>
+<td>计算机科学中悬而未决的问题之一，是判定<strong>是否存在答案能被快速验证、却需要长得不可能的时间才能解出的问题</strong>（用任何直接的方法）。</td>
+<td><a href="https://www.claymath.org/millennium/p-vs-np/">Clay Mathematics Institute, n.d.-b</a></td>
+</tr>
+<tr>
+<td><strong>Hodge Conjecture</strong><br>霍奇猜想</td>
+<td>&quot;The Hodge conjecture asserts that for particularly nice types of spaces called projective algebraic varieties, <strong>the pieces called Hodge cycles are actually (rational linear) combinations of geometric pieces called algebraic cycles</strong>.&quot;</td>
+<td>霍奇猜想断言，对于称为射影代数簇的一类特别好的空间，<strong>称为霍奇闭链的部分实际上是称为代数闭链的几何部分的（有理线性）组合</strong>。</td>
+<td><a href="https://www.claymath.org/millennium/hodge-conjecture/">Clay Mathematics Institute, n.d.-c</a></td>
+</tr>
+<tr>
+<td><strong>Poincaré Conjecture</strong><br>庞加莱猜想（已解决）</td>
+<td>&quot;Poincaré, almost a hundred years ago, knew that <strong>a two dimensional sphere is essentially characterized by this property of simple connectivity</strong>, and <strong>asked the corresponding question for the three dimensional sphere</strong>.&quot;</td>
+<td>近一百年前，庞加莱就知道<strong>二维球面本质上由单连通这一性质刻画</strong>，并<strong>对三维球面提出了相应的问题</strong>。</td>
+<td><a href="https://www.claymath.org/millennium/poincare-conjecture/">Clay Mathematics Institute, n.d.-d</a></td>
+</tr>
+<tr>
+<td><strong>Riemann Hypothesis</strong><br>黎曼猜想</td>
+<td>&quot;The Riemann hypothesis asserts that <strong>all <em>interesting</em> solutions of the equation ζ(s) = 0 lie on a certain vertical straight line</strong>.&quot;</td>
+<td>黎曼猜想断言，<strong>方程 ζ(s) = 0 的所有<em>有意义的</em>解都位于某条竖直的直线上</strong>。</td>
+<td><a href="https://www.claymath.org/millennium/riemann-hypothesis/">Clay Mathematics Institute, n.d.-e</a></td>
+</tr>
+<tr>
+<td><strong>Yang-Mills and Mass Gap</strong><br>杨-米尔斯与质量间隙</td>
+<td>&quot;Progress in <strong>establishing the existence of the Yang-Mills theory and a mass gap</strong> will require the introduction of fundamental new ideas both in physics and in mathematics.&quot;</td>
+<td>要在<strong>确立杨-米尔斯理论和质量间隙的存在性</strong>上取得进展，需要在物理和数学两方面引入全新的基本思想。</td>
+<td><a href="https://www.claymath.org/millennium/yang-mills-the-maths-gap/">Clay Mathematics Institute, n.d.-f</a></td>
+</tr>
+<tr>
+<td><strong>Navier-Stokes Equation</strong><br>纳维-斯托克斯方程</td>
+<td>&quot;The challenge is to make substantial progress toward <strong>a mathematical theory which will unlock the secrets hidden in the Navier-Stokes equations</strong>.&quot;</td>
+<td>挑战在于取得实质性进展，建立<strong>一套能揭开纳维-斯托克斯方程中隐藏秘密的数学理论</strong>。</td>
+<td><a href="https://www.claymath.org/millennium/navier-stokes-equation/">Clay Mathematics Institute, n.d.-g</a></td>
+</tr>
+<tr>
+<td><strong>Birch and Swinnerton-Dyer Conjecture</strong><br>贝赫和斯维讷通-戴尔猜想</td>
+<td>&quot;the Birch and Swinnerton-Dyer conjecture asserts that <strong>the size of the group of rational points is related to the behavior of an associated zeta function ζ(s) near the point s=1</strong>.&quot;</td>
+<td>贝赫和斯维讷通-戴尔猜想断言，<strong>有理点群的大小与相应的 zeta 函数 ζ(s) 在 s=1 附近的性态有关</strong>。</td>
+<td><a href="https://www.claymath.org/millennium/birch-and-swinnerton-dyer-conjecture/">Clay Mathematics Institute, n.d.-h</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Clay Mathematics Institute. (n.d.-a). <em>Millennium problems</em>. Retrieved November 2, 2026, from <a href="https://www.claymath.org/millennium-problems/">https://www.claymath.org/millennium-problems/</a></p>
+<p>Clay Mathematics Institute. (n.d.-b). <em>P vs NP</em>. Retrieved November 2, 2026, from <a href="https://www.claymath.org/millennium/p-vs-np/">https://www.claymath.org/millennium/p-vs-np/</a></p>
+<p>Clay Mathematics Institute. (n.d.-c). <em>Hodge conjecture</em>. Retrieved November 2, 2026, from <a href="https://www.claymath.org/millennium/hodge-conjecture/">https://www.claymath.org/millennium/hodge-conjecture/</a></p>
+<p>Clay Mathematics Institute. (n.d.-d). <em>Poincaré conjecture</em>. Retrieved November 2, 2026, from <a href="https://www.claymath.org/millennium/poincare-conjecture/">https://www.claymath.org/millennium/poincare-conjecture/</a></p>
+<p>Clay Mathematics Institute. (n.d.-e). <em>Riemann hypothesis</em>. Retrieved November 2, 2026, from <a href="https://www.claymath.org/millennium/riemann-hypothesis/">https://www.claymath.org/millennium/riemann-hypothesis/</a></p>
+<p>Clay Mathematics Institute. (n.d.-f). <em>Yang-Mills &amp; the mass gap</em>. Retrieved November 2, 2026, from <a href="https://www.claymath.org/millennium/yang-mills-the-maths-gap/">https://www.claymath.org/millennium/yang-mills-the-maths-gap/</a></p>
+<p>Clay Mathematics Institute. (n.d.-g). <em>Navier-Stokes equation</em>. Retrieved November 2, 2026, from <a href="https://www.claymath.org/millennium/navier-stokes-equation/">https://www.claymath.org/millennium/navier-stokes-equation/</a></p>
+<p>Clay Mathematics Institute. (n.d.-h). <em>Birch and Swinnerton-Dyer conjecture</em>. Retrieved November 2, 2026, from <a href="https://www.claymath.org/millennium/birch-and-swinnerton-dyer-conjecture/">https://www.claymath.org/millennium/birch-and-swinnerton-dyer-conjecture/</a></p>
+<p>Wiedijk, F. (n.d.). <em>Formalizing 100 theorems</em>. Radboud University Nijmegen. Retrieved November 1, 2026, from <a href="https://www.cs.ru.nl/%7Efreek/100/">https://www.cs.ru.nl/~freek/100/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-02 17:03:17-05:00">11/02/2026 17:03:17</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

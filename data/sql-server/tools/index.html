@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>10. Tools | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="SQL Server, 10. Tools: dta utility, Distributed Replay, SQL Server Configuration Manager, bulk copy program utility (bcp), sqlcmd utility, ssbdiagnose utility, SQL Server Data Tools (SSDT), SQL Server Management Studio (SSMS), SQL database project, SqlPackage, SQL Server Profiler, MSSQL extension for Visual Studio Code.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="10-tools">10. Tools</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/tools.png" alt="Tools: dta utility, Distributed Replay, SQL Server Configuration Manager, bulk copy program utility (bcp), sqlcmd utility, ssbdiagnose utility, SQL Server Data Tools (SSDT), SQL Server Management Studio (SSMS), SQL database project, SqlPackage, SQL Server Profiler, MSSQL extension for Visual Studio Code."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="dta-utility.html">dta utility</a></strong><br>dta 实用工具</td>
+<td>&quot;The <strong>dta utility</strong> is the <strong>command prompt version of Database Engine Tuning Advisor</strong>. The dta utility is designed to allow you to use Database Engine Tuning Advisor functionality in applications and scripts.&quot;</td>
+<td><strong>dta 实用工具</strong>是<strong>数据库引擎优化顾问的命令提示符版本</strong>。dta 实用工具旨在让你能够在应用程序和脚本中使用数据库引擎优化顾问的功能。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/dta/dta-utility#:%7E:text=The%20dta%20utility%20is%20the%20command%20prompt%20version">Microsoft, 2025d, para 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="distributed-replay.html">Distributed Replay</a></strong><br>分布式重播</td>
+<td>&quot;The Microsoft SQL Server <strong>Distributed Replay</strong> feature helps you <strong>assess the effect of future SQL Server upgrades</strong>. You can also use it to help assess the effect of hardware and operating system upgrades, and SQL Server tuning.&quot;</td>
+<td>Microsoft SQL Server <strong>分布式重播</strong>功能可帮助你<strong>评估未来 SQL Server 升级的影响</strong>。你还可以用它来帮助评估硬件和操作系统升级以及 SQL Server 优化的影响。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/distributed-replay/sql-server-distributed-replay#:%7E:text=The%20Microsoft%20SQL%20Server%20Distributed%20Replay%20feature%20helps">Microsoft, 2025b, para 2 (the Important note is para 1)</a></td>
+</tr>
+<tr>
+<td><strong><a href="sql-server-configuration-manager.html">SQL Server Configuration Manager</a></strong><br>SQL Server 配置管理器</td>
+<td>&quot;<strong>SQL Server Configuration Manager</strong> is a tool to <strong>manage the services associated with SQL Server</strong>, <strong>configure the network protocols</strong> used by SQL Server, and manage the network connectivity configuration from SQL Server client computers.&quot;</td>
+<td><strong>SQL Server 配置管理器</strong>是一种工具，用于<strong>管理与 SQL Server 关联的服务</strong>、<strong>配置</strong> SQL Server 使用的<strong>网络协议</strong>，以及管理来自 SQL Server 客户端计算机的网络连接配置。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/configuration-manager/sql-server-configuration-manager#:%7E:text=SQL%20Server%20Configuration%20Manager%20is%20a%20tool%20to">Microsoft, 2026b, para 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="bulk-copy-program-utility-bcp.html">bulk copy program utility (bcp)</a></strong><br>bcp 大容量复制程序实用工具</td>
+<td>&quot;The <strong>bulk copy program utility</strong> (<strong><code>bcp</code></strong>) <strong>bulk copies data</strong> between an instance of the SQL Server Database Engine and a <strong>data file in a user-specified format</strong>.&quot;</td>
+<td><strong>大容量复制程序实用工具</strong>（<strong>bcp</strong>）在 SQL Server 数据库引擎实例与<strong>用户指定格式的数据文件</strong>之间<strong>大容量复制数据</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/bcp/bcp-utility#:%7E:text=The%20bulk%20copy%20program%20utility%20%28%60bcp%60%29%20bulk%20copies">Microsoft, 2026f, para 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sqlcmd-utility.html">sqlcmd utility</a></strong><br>sqlcmd 实用工具</td>
+<td>(context) &quot;Use the <strong>sqlcmd utility</strong> to <strong>enter Transact-SQL statements, system procedures, and script files</strong> through various modes:&quot;</td>
+<td>（语境）使用 <strong>sqlcmd 实用工具</strong>，通过多种模式<strong>输入 Transact-SQL 语句、系统过程和脚本文件</strong>：</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility#:%7E:text=Use%20the%20sqlcmd%20utility%20to%20enter%20Transact-SQL%20statements%2C">Microsoft, 2026g, para 1 (the modes are a list)</a></td>
+</tr>
+<tr>
+<td><strong><a href="ssbdiagnose-utility.html">ssbdiagnose utility</a></strong><br>ssbdiagnose 实用工具</td>
+<td>&quot;The <strong>ssbdiagnose utility</strong> <strong>reports issues in Service Broker conversations</strong> or the configuration of Service Broker services.&quot;</td>
+<td><strong>ssbdiagnose 实用工具</strong>会<strong>报告 Service Broker 对话中的问题</strong>或 Service Broker 服务配置中的问题。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/ssbdiagnose/ssbdiagnose-utility-service-broker#:%7E:text=The%20ssbdiagnose%20utility%20reports%20issues%20in%20Service%20Broker">Microsoft, 2025e, para 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sql-server-data-tools-ssdt.html">SQL Server Data Tools (SSDT)</a></strong><br>SQL Server Data Tools (SSDT)</td>
+<td>&quot;<strong>SQL Server Data Tools (SSDT)</strong> is a <strong>set of development tools in Visual Studio</strong> with focus on <strong>building SQL Server databases and Azure SQL databases</strong>.&quot;</td>
+<td><strong>SQL Server Data Tools (SSDT)</strong> 是 <strong>Visual Studio 中的一组开发工具</strong>，重点用于<strong>构建 SQL Server 数据库和 Azure SQL 数据库</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools#:%7E:text=SQL%20Server%20Data%20Tools%20%28SSDT%29%20is%20a%20set">Microsoft, 2025a, para 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sql-server-management-studio-ssms.html">SQL Server Management Studio (SSMS)</a></strong><br>SQL Server Management Studio (SSMS)</td>
+<td>&quot;<strong>SQL Server Management Studio (SSMS)</strong> is an <strong>integrated environment for managing any SQL infrastructure</strong>.&quot;</td>
+<td><strong>SQL Server Management Studio (SSMS)</strong> 是用于<strong>管理任何 SQL 基础结构的集成环境</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/ssms#:%7E:text=SQL%20Server%20Management%20Studio%20%28SSMS%29%20is%20an%20integrated">Microsoft, 2026e, para 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sql-database-project.html">SQL database project</a></strong><br>SQL 数据库项目</td>
+<td>&quot;A <strong>SQL database project</strong> is a <strong>local representation of SQL objects</strong> that comprise the <strong>schema for a single database</strong>, such as tables, stored procedures, or functions.&quot;</td>
+<td><strong>SQL 数据库项目</strong>是构成<strong>单个数据库架构</strong>的 <strong>SQL 对象的本地表示形式</strong>，例如表、存储过程或函数。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects#:%7E:text=A%20SQL%20database%20project%20is%20a%20local%20representation">Microsoft, 2026d, para 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sqlpackage.html">SqlPackage</a></strong><br>SqlPackage</td>
+<td>&quot;<strong>SqlPackage</strong> is a <strong>command-line utility</strong> that <strong>automates the database development tasks</strong> by exposing some of the public Data-Tier Application Framework (DacFx) APIs.&quot;</td>
+<td><strong>SqlPackage</strong> 是一种<strong>命令行实用工具</strong>，通过公开部分公共数据层应用程序框架 (DacFx) API 来<strong>自动执行数据库开发任务</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage#:%7E:text=SqlPackage%20is%20a%20command-line%20utility%20that%20automates%20the">Microsoft, 2025c, para 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sql-server-profiler.html">SQL Server Profiler</a></strong><br>SQL Server Profiler</td>
+<td>&quot;<strong>SQL Server Profiler</strong> is an <strong>interface to create and manage traces</strong> and analyze and replay trace results.&quot;</td>
+<td><strong>SQL Server Profiler</strong> 是用于<strong>创建和管理跟踪</strong>以及分析和重播跟踪结果的<strong>界面</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler#:%7E:text=SQL%20Server%20Profiler%20is%20an%20interface%20to%20create">Microsoft, 2026c, para 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="mssql-extension-for-visual-studio-code.html">MSSQL extension for Visual Studio Code</a></strong><br>适用于 Visual Studio Code 的 MSSQL 扩展</td>
+<td>&quot;The <strong>MSSQL extension for Visual Studio Code</strong> <strong>supports developers building applications</strong> that use Azure SQL (including Azure SQL Database, Azure SQL Managed Instance, and SQL Server on Azure Virtual Machines), SQL database in Microsoft Fabric, and SQL Server.&quot;</td>
+<td><strong>适用于 Visual Studio Code 的 MSSQL 扩展</strong>为<strong>构建应用程序的开发人员提供支持</strong>，这些应用程序使用 Azure SQL（包括 Azure SQL 数据库、Azure SQL 托管实例和 Azure 虚拟机上的 SQL Server）、Microsoft Fabric 中的 SQL 数据库以及 SQL Server。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/tools/visual-studio-code-extensions/mssql/mssql-extension-visual-studio-code#:%7E:text=The%20MSSQL%20extension%20for%20Visual%20Studio%20Code%20supports">Microsoft, 2026a, para 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2025a, December 3). <em>SQL Server Data Tools</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools">https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools</a></li>
+<li>Microsoft. (2025b, September 7). <em>SQL Server Distributed Replay overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/distributed-replay/sql-server-distributed-replay">https://learn.microsoft.com/en-us/sql/tools/distributed-replay/sql-server-distributed-replay</a></li>
+<li>Microsoft. (2025c, March 2). <em>SqlPackage</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage">https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage</a></li>
+<li>Microsoft. (2025d, December 15). <em>dta utility</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/dta/dta-utility">https://learn.microsoft.com/en-us/sql/tools/dta/dta-utility</a></li>
+<li>Microsoft. (2025e, December 16). <em>ssbdiagnose utility (Service Broker)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/ssbdiagnose/ssbdiagnose-utility-service-broker">https://learn.microsoft.com/en-us/sql/tools/ssbdiagnose/ssbdiagnose-utility-service-broker</a></li>
+<li>Microsoft. (2026a, August 17). <em>MSSQL extension for Visual Studio Code</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/visual-studio-code-extensions/mssql/mssql-extension-visual-studio-code">https://learn.microsoft.com/en-us/sql/tools/visual-studio-code-extensions/mssql/mssql-extension-visual-studio-code</a></li>
+<li>Microsoft. (2026b, March 16). <em>SQL Server Configuration Manager</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/configuration-manager/sql-server-configuration-manager">https://learn.microsoft.com/en-us/sql/tools/configuration-manager/sql-server-configuration-manager</a></li>
+<li>Microsoft. (2026c, February 21). <em>SQL Server Profiler</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler">https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler</a></li>
+<li>Microsoft. (2026d, February 6). <em>What are SQL database projects?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects">https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects</a></li>
+<li>Microsoft. (2026e, March 9). <em>What is SQL Server Management Studio (SSMS)?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/ssms">https://learn.microsoft.com/en-us/sql/ssms</a></li>
+<li>Microsoft. (2026f, September 7). <em>bcp utility</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/bcp/bcp-utility">https://learn.microsoft.com/en-us/sql/tools/bcp/bcp-utility</a></li>
+<li>Microsoft. (2026g, October 10). <em>sqlcmd utility</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility">https://learn.microsoft.com/en-us/sql/tools/sqlcmd/sqlcmd-utility</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-26 22:40:27-04:00">10/26/2026 22:40:27</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6.2 Persistent Volumes | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 6.2 Persistent Volumes: 6.2.1 Introduction, 6.2.2 Lifecycle of a volume and claim, 6.2.3 Persistent Volumes, 6.2.4 Volume populators and data sources.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="62-persistent-volumes">6.2 Persistent Volumes</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/storage-persistent-volumes.png" alt="6.2 Persistent Volumes: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6.2 Persistent Volumes</strong><br>持久卷</td>
+<td>(context) &quot;<strong>Managing storage</strong> is <strong>a distinct problem from managing compute instances</strong>.&quot;</td>
+<td>（语境）<strong>管理存储</strong>是<strong>一个与管理计算实例截然不同的问题</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=Managing%20storage%20is%20a%20distinct%20problem%20from">The Kubernetes Authors, n.d., &quot;Introduction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>6.2.1 Introduction</strong><br>介绍</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#introduction">The Kubernetes Authors, n.d., &quot;Introduction&quot;</a></td>
+</tr>
+<tr>
+<td><strong>PersistentVolume (PV)</strong><br>PersistentVolume（PV）</td>
+<td>&quot;<strong>A <em>PersistentVolume</em> (PV)</strong> is <strong>a piece of storage in the cluster</strong> that has been <strong>provisioned by an administrator or dynamically provisioned using Storage Classes</strong>.&quot;</td>
+<td><strong>PersistentVolume</strong>（PV）是<strong>集群中的一块存储</strong>，<strong>由管理员供应，或使用存储类动态供应</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=A%20%2APersistentVolume%2A%20%28PV%29%20is%20a%20piece%20of">The Kubernetes Authors, n.d., &quot;Introduction&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>PersistentVolumeClaim (PVC)</strong><br>PersistentVolumeClaim（PVC）</td>
+<td>&quot;<strong>A <em>PersistentVolumeClaim</em> (PVC)</strong> is <strong>a request for storage by a user</strong>.&quot;</td>
+<td><strong>PersistentVolumeClaim</strong>（PVC）是<strong>用户对存储的请求</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=A%20%2APersistentVolumeClaim%2A%20%28PVC%29%20is%20a%20request%20for">The Kubernetes Authors, n.d., &quot;Introduction&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>StorageClass</strong><br>StorageClass</td>
+<td>(context) &quot;For these needs, there is the <em>StorageClass</em> resource.&quot;</td>
+<td>（语境）针对这些需求，有 <em>StorageClass</em> 资源。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=For%20these%20needs%2C%20there%20is%20the%20%2AStorageClass%2A">The Kubernetes Authors, n.d., &quot;Introduction&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>6.2.2 Lifecycle of a volume and claim</strong><br>卷与申领的生命周期</td>
+<td>&quot;<strong>PVs</strong> are <strong>resources in the cluster</strong>.&quot;</td>
+<td><strong>PV</strong> 是<strong>集群中的资源</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=PVs%20are%20resources%20in%20the%20cluster.">The Kubernetes Authors, n.d., &quot;Lifecycle of a volume and claim&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Static</strong><br>静态</td>
+<td>(context) &quot;<strong>A cluster administrator</strong> creates <strong>a number of PVs</strong>.&quot;</td>
+<td>（语境）<strong>集群管理员</strong>会创建<strong>若干 PV</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=A%20cluster%20administrator%20creates%20a%20number%20of">The Kubernetes Authors, n.d., &quot;Static&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Dynamic</strong><br>动态</td>
+<td>&quot;When <strong>none of the static PVs the administrator created match a user's PersistentVolumeClaim</strong>, the cluster may try to <strong>dynamically provision a volume specially for the PVC</strong>.&quot;</td>
+<td>当<strong>管理员创建的静态 PV 都不匹配用户的 PersistentVolumeClaim</strong> 时，集群可能尝试<strong>专门为该 PVC 动态供应一个卷</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=When%20none%20of%20the%20static%20PVs%20the">The Kubernetes Authors, n.d., &quot;Dynamic&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Storage Object in Use Protection</strong><br>使用中存储对象保护</td>
+<td>&quot;The purpose of the Storage Object in Use Protection feature is to ensure that <strong>PersistentVolumeClaims (PVCs) in active use by a Pod</strong> and <strong>PersistentVolume (PVs) that are bound to PVCs</strong> are <strong>not removed from the system</strong>&quot;</td>
+<td>使用中存储对象保护功能的目的是确保<strong>正被 Pod 使用的 PVC</strong>（PersistentVolumeClaim）以及<strong>绑定到 PVC 的 PV</strong>（PersistentVolume）都<strong>不会被从系统中删除</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=The%20purpose%20of%20the%20Storage%20Object%20in">The Kubernetes Authors, n.d., &quot;Storage Object in Use Protection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Retain</strong><br>Retain</td>
+<td>&quot;<strong>The <code>Retain</code> reclaim policy</strong> allows for <strong>manual reclamation of the resource</strong>.&quot;</td>
+<td><strong><code>Retain</code> 回收策略</strong>允许<strong>手动回收资源</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=The%20%60Retain%60%20reclaim%20policy%20allows%20for%20manual">The Kubernetes Authors, n.d., &quot;Retain&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Delete</strong><br>Delete</td>
+<td>&quot;For volume plugins that support the <code>Delete</code> reclaim policy, <strong>deletion removes both the PersistentVolume object from Kubernetes</strong>, as well as <strong>the associated storage asset in the external infrastructure</strong>.&quot;</td>
+<td>对于支持 <code>Delete</code> 回收策略的卷插件，<strong>删除操作会同时移除 Kubernetes 中的 PersistentVolume 对象</strong>，以及<strong>外部基础设施中关联的存储资产</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=For%20volume%20plugins%20that%20support%20the%20%60Delete%60">The Kubernetes Authors, n.d., &quot;Delete&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>6.2.3 Persistent Volumes</strong><br>持久卷</td>
+<td>&quot;<strong>Each PV</strong> contains <strong>a spec and status</strong>, which is <strong>the specification and status of the volume</strong>.&quot;</td>
+<td><strong>每个 PV</strong> 都包含<strong>规约和状态</strong>，即<strong>卷的规格和状态</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=Each%20PV%20contains%20a%20spec%20and%20status%2C">The Kubernetes Authors, n.d., &quot;Persistent Volumes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Volume Mode</strong><br>卷模式</td>
+<td>&quot;Kubernetes supports <strong>two <code>volumeModes</code></strong> of PersistentVolumes: <strong><code>Filesystem</code> and <code>Block</code></strong>.&quot;</td>
+<td>Kubernetes 支持 PersistentVolume 的<strong>两种 <code>volumeModes</code></strong>，即 <strong><code>Filesystem</code> 和 <code>Block</code></strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=Kubernetes%20supports%20two%20%60volumeModes%60%20of%20PersistentVolumes%3A%20%60Filesystem%60">The Kubernetes Authors, n.d., &quot;Volume Mode&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ReadWriteOnce</strong><br>ReadWriteOnce</td>
+<td>&quot;the volume can be <strong>mounted as read-write</strong> by <strong>a single node</strong>.&quot;</td>
+<td>卷可以<strong>以读写方式挂载</strong>到<strong>单个节点</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=the%20volume%20can%20be%20mounted%20as%20read-write">The Kubernetes Authors, n.d., &quot;Access Modes&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>ReadOnlyMany</strong><br>ReadOnlyMany</td>
+<td>&quot;the volume can be <strong>mounted as read-only</strong> by <strong>many nodes</strong>.&quot;</td>
+<td>卷可以<strong>以只读方式挂载</strong>到<strong>多个节点</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=the%20volume%20can%20be%20mounted%20as%20read-only">The Kubernetes Authors, n.d., &quot;Access Modes&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>ReadWriteMany</strong><br>ReadWriteMany</td>
+<td>&quot;the volume can be <strong>mounted as read-write</strong> by <strong>many nodes</strong>.&quot;</td>
+<td>卷可以<strong>以读写方式挂载</strong>到<strong>多个节点</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=the%20volume%20can%20be%20mounted%20as%20read-write">The Kubernetes Authors, n.d., &quot;Access Modes&quot;, para. 8</a></td>
+</tr>
+<tr>
+<td><strong>ReadWriteOncePod</strong><br>ReadWriteOncePod</td>
+<td>&quot;the volume can be <strong>mounted as read-write</strong> by <strong>a single Pod</strong>.&quot;</td>
+<td>卷可以<strong>以读写方式挂载</strong>到<strong>单个 Pod</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=the%20volume%20can%20be%20mounted%20as%20read-write">The Kubernetes Authors, n.d., &quot;Access Modes&quot;, para. 10</a></td>
+</tr>
+<tr>
+<td><strong>Available</strong><br>Available</td>
+<td>&quot;<strong>a free resource</strong> that is <strong>not yet bound to a claim</strong>&quot;</td>
+<td><strong>空闲资源</strong>，它<strong>尚未绑定到申领</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=a%20free%20resource%20that%20is%20not%20yet">The Kubernetes Authors, n.d., &quot;Phase&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Bound</strong><br>Bound</td>
+<td>&quot;<strong>the volume</strong> is <strong>bound to a claim</strong>&quot;</td>
+<td><strong>卷</strong>已<strong>绑定到申领</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=the%20volume%20is%20bound%20to%20a%20claim">The Kubernetes Authors, n.d., &quot;Phase&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Released</strong><br>Released</td>
+<td>&quot;<strong>the claim has been deleted</strong>, but <strong>the associated storage resource is not yet reclaimed by the cluster</strong>&quot;</td>
+<td><strong>申领已被删除</strong>，但<strong>关联的存储资源尚未被集群回收</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=the%20claim%20has%20been%20deleted%2C%20but%20the">The Kubernetes Authors, n.d., &quot;Phase&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Failed</strong><br>Failed</td>
+<td>&quot;<strong>the volume</strong> has <strong>failed its (automated) reclamation</strong>&quot;</td>
+<td><strong>卷</strong>的（自动）<strong>回收失败</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=the%20volume%20has%20failed%20its%20%28automated%29%20reclamation">The Kubernetes Authors, n.d., &quot;Phase&quot;, para. 9</a></td>
+</tr>
+<tr>
+<td><strong>6.2.4 Volume populators and data sources</strong><br>卷填充器与数据源</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#volume-populators-and-data-sources">The Kubernetes Authors, n.d., &quot;Volume populators and data sources&quot;</a></td>
+</tr>
+<tr>
+<td><strong>data source</strong><br>数据源</td>
+<td>&quot;<strong>Volume cloning and snapshot restore</strong> pre-populate <strong>a new volume from a built-in <em>data source</em></strong>.&quot;</td>
+<td><strong>卷克隆和快照恢复</strong>会预先填充<strong>来自内置<em>数据源</em>的新卷</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=%5BVolume%20cloning%5D%28%23volume-cloning%29%20and%20%5Bsnapshot%20restore%5D%28%23volume-snapshot-and-restore-volume-from-snapshot-support%29%20pre-populate%20a">The Kubernetes Authors, n.d., &quot;Volume populators and data sources&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Volume populators</strong><br>卷填充器</td>
+<td>&quot;<strong><em>Volume populators</em> extend this mechanism</strong> so that a PersistentVolumeClaim can be <strong>pre-populated from other kinds of source (a custom resource)</strong>&quot;</td>
+<td><strong>卷填充器扩展了这一机制</strong>，使 PersistentVolumeClaim 可以<strong>从其他类型的源（自定义资源）预先填充</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/#:%7E:text=%2AVolume%20populators%2A%20extend%20this%20mechanism%20so%20that">The Kubernetes Authors, n.d., &quot;Volume populators and data sources&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Persistent Volumes</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/storage/persistent-volumes/">https://kubernetes.io/docs/concepts/storage/persistent-volumes/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

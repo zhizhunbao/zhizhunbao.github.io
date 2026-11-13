@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>25.36 Electromechanical Engineering Technology - Power and Control | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="College Programs &gt; George Brown Polytechnic &gt; Electromechanical Engineering Technology - Power and Control: the courses of the program; skeleton, definition pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2536-electromechanical-engineering-technology---power-and-control">25.36 Electromechanical Engineering Technology - Power and Control</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Electromechanical Engineering Technology - Power and Control</strong><br>机电工程技术 - 动力与控制</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Communicating Across Contexts</strong><br>跨情境沟通</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Circuit Analysis</strong><br>电路分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electro-Pneumatics</strong><br>电气-气动</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Personal Finance</strong><br>个人理财</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mathematics for Engineering Technology 1</strong><br>工程技术数学 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Blueprint Reading &amp; Metrology</strong><br>图纸识读与计量学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Residential Prints and Electrical Safety Code 1</strong><br>住宅图纸与电气安全规范 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electronic Devices</strong><br>电子器件</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Motors and Controls</strong><br>电机与控制</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cad Electrical Circuits</strong><br>CAD电气电路</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mathematics for Engineering Technology 2</strong><br>工程技术数学 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>General Elective</strong><br>通识选修课</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Plc Systems 1</strong><br>PLC系统 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Digital Electronics</strong><br>数字电子学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Dc Circuit Fundamentals</strong><br>直流电路基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Instrumentation 1</strong><br>仪表 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cad Electrical Layouts</strong><br>CAD电气布局</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computer Applications</strong><br>计算机应用</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Gis Technology</strong><br>GIS技术导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Programming Principles</strong><br>编程原理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Robotics</strong><br>机器人技术</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Ac Circuit Fundamentals</strong><br>交流电路基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Mep in Commerical Buildings</strong><br>商业建筑MEP导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Network Fundamentals</strong><br>网络基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Coop Work Term 1</strong><br>合作教育工作学期 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electrical Installation Methods 1</strong><br>电气安装方法 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Residential Prints and Electrical Safety Code 2</strong><br>住宅图纸与电气安全规范 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Cad (Revit)</strong><br>高级CAD（Revit）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Power Transmission and Distribution</strong><br>输配电</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Calculus for Mechanical Technology</strong><br>机械技术入门微积分</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Sustainable Energy Technologies</strong><br>可持续能源技术</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Coop Work Term 2</strong><br>合作教育工作学期 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Transformers</strong><br>变压器</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electrical Maintenance Management</strong><br>电气维护管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Power Quality and Distribution</strong><br>电能质量与配电</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electrical Protection and Control</strong><br>电气保护与控制</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Project Management Practices</strong><br>项目管理实务</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Calculus 2</strong><br>微积分 2</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Type</th>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>COMM2000</td>
+<td>Communicating Across Contexts</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>EMNG1001</td>
+<td>Circuit Analysis</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>EMNG1016</td>
+<td>Electro-Pneumatics</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>GSSC1027</td>
+<td>Personal Finance</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>MATH1160</td>
+<td>Mathematics for Engineering Technology 1</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>MENG1093</td>
+<td>Blueprint Reading &amp; Metrology</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>ELCL1047</td>
+<td>Residential Prints and Electrical Safety Code 1</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>EMNG1013</td>
+<td>Electronic Devices</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>EMNG1015</td>
+<td>Motors and Controls</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>EMNG1021</td>
+<td>Cad Electrical Circuits</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>MATH1171</td>
+<td>Mathematics for Engineering Technology 2</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>GNED</td>
+<td>General Elective</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>EMNG2001</td>
+<td>Plc Systems 1</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>EMNG2004</td>
+<td>Digital Electronics</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>EMNG2007</td>
+<td>Dc Circuit Fundamentals</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>EMNG2020</td>
+<td>Instrumentation 1</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>EMNG2035</td>
+<td>Cad Electrical Layouts</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>EMNG2036</td>
+<td>Computer Applications</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>CIVL3028</td>
+<td>Introduction to Gis Technology</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>EMNG2037</td>
+<td>Programming Principles</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>EMNG2041</td>
+<td>Robotics</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>EMNG2043</td>
+<td>Ac Circuit Fundamentals</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>EMNG2046</td>
+<td>Introduction to Mep in Commerical Buildings</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>EMNG3003</td>
+<td>Network Fundamentals</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>GNED</td>
+<td>General Elective</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Co-op Placement</td>
+<td></td>
+<td>TCOP1007</td>
+<td>Coop Work Term 1</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>ELCL1048</td>
+<td>Electrical Installation Methods 1</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>ELCL1057</td>
+<td>Residential Prints and Electrical Safety Code 2</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>EMNG3024</td>
+<td>Advanced Cad (Revit)</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>EMNG3025</td>
+<td>Power Transmission and Distribution</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>MATH2015</td>
+<td>Introductory Calculus for Mechanical Technology</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 5</td>
+<td></td>
+<td>MENG2046</td>
+<td>Sustainable Energy Technologies</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Co-op Placement</td>
+<td></td>
+<td>TCOP2007</td>
+<td>Coop Work Term 2</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 6</td>
+<td></td>
+<td>EMNG2047</td>
+<td>Transformers</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 6</td>
+<td></td>
+<td>EMNG3027</td>
+<td>Electrical Maintenance Management</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 6</td>
+<td></td>
+<td>EMNG3028</td>
+<td>Power Quality and Distribution</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 6</td>
+<td></td>
+<td>EMNG3029</td>
+<td>Electrical Protection and Control</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 6</td>
+<td></td>
+<td>EMNG3030</td>
+<td>Project Management Practices</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 6</td>
+<td></td>
+<td>MATH3006</td>
+<td>Calculus 2</td>
+<td><a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">George Brown Polytechnic, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>George Brown Polytechnic. (n.d.). <em>Electromechanical Engineering Technology - Power and Control</em>. Retrieved November 10, 2026, from <a href="https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182">https://www.georgebrown.ca/programs/electromechanical-engineering-technology-power-and-control-program-t182</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 17:34:09-05:00">11/11/2026 17:34:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

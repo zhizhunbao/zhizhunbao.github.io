@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>41.51 Information Technology: Network Administration | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="College Programs &gt; New Brunswick Community College &gt; Information Technology: Network Administration: the courses of the program; skeleton, definition pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="4151-information-technology-network-administration">41.51 Information Technology: Network Administration</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Information Technology: Network Administration</strong><br>信息技术：网络管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Business for IT Professionals</strong><br>IT 专业人员商业课程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>PC Systems, Mobile and Peripheral Devices</strong><br>个人电脑系统、移动设备与外围设备</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Written Communications for Information Technology</strong><br>信息技术书面沟通</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cloud II: Amazon Web Services</strong><br>云 II：亚马逊云科技（Amazon Web Services）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cloud III: Microsoft Azure</strong><br>云 III：Microsoft Azure</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Studies I: Network Solutions</strong><br>应用研究 I：网络解决方案</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Studies II: Advanced Network Solutions</strong><br>应用研究 II：高级网络解决方案</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Networks I: Networking Foundations</strong><br>网络 I：网络基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Networks II: Essential Network Infrastructure</strong><br>网络 II：基本网络基础设施</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Networks III: Enterprise Infrastructure and Automation</strong><br>网络 III：企业基础设施与自动化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cloud I: Introduction to Virtualization and Containerization</strong><br>云 I：虚拟化与容器化入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft I: Introduction to Windows Operating Systems</strong><br>Microsoft I：Windows 操作系统导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft II: Administering Windows Server</strong><br>Microsoft II：Windows Server 管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft III: Windows Server Infrastructure Services</strong><br>Microsoft III：Windows Server 基础架构服务</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft IV: Administering Microsoft 365</strong><br>Microsoft IV：Microsoft 365 管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Command Line I: Introduction to Windows Command Line</strong><br>命令行 I：Windows 命令行入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Command Line II: Introduction to PowerShell</strong><br>命令行 II：PowerShell 入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Linux I: Linux Fundamentals</strong><br>Linux I：Linux 基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Linux II: Linux Administration</strong><br>Linux II：Linux 管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Orientation to Community Service</strong><br>社区服务入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Interpersonal Communication</strong><br>人际沟通</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Employment Readiness</strong><br>就业准备</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Work Safely</strong><br>安全作业</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>BMGE1163C</td>
+<td>Business for IT Professionals</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>CEIO1064A</td>
+<td>PC Systems, Mobile and Peripheral Devices</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>COMM1266A</td>
+<td>Written Communications for Information Technology</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>NCRC1181C</td>
+<td>Cloud II: Amazon Web Services</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>NCRC1182C</td>
+<td>Cloud III: Microsoft Azure</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>NCRC1183B</td>
+<td>Applied Studies I: Network Solutions</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>NCRC1184B</td>
+<td>Applied Studies II: Advanced Network Solutions</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>NCRC1201A</td>
+<td>Networks I: Networking Foundations</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>NCRC1202A</td>
+<td>Networks II: Essential Network Infrastructure</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>NCRC1203A</td>
+<td>Networks III: Enterprise Infrastructure and Automation</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>NCRC1212A</td>
+<td>Cloud I: Introduction to Virtualization and Containerization</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1090B</td>
+<td>Microsoft I: Introduction to Windows Operating Systems</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1091E</td>
+<td>Microsoft II: Administering Windows Server</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1092D</td>
+<td>Microsoft III: Windows Server Infrastructure Services</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1093D</td>
+<td>Microsoft IV: Administering Microsoft 365</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1094B</td>
+<td>Command Line I: Introduction to Windows Command Line</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1095D</td>
+<td>Command Line II: Introduction to PowerShell</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1097D</td>
+<td>Linux I: Linux Fundamentals</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>OSSE1098D</td>
+<td>Linux II: Linux Administration</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PERS1263A</td>
+<td>Orientation to Community Service</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PERS1264A</td>
+<td>Interpersonal Communication</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>PERS1313A</td>
+<td>Employment Readiness</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td>SECU1322C</td>
+<td>Work Safely</td>
+<td><a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">New Brunswick Community College, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>New Brunswick Community College. (n.d.). <em>Information Technology: Network Administration</em>. Retrieved November 8, 2026, from <a href="https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a">https://nbcc.ca/programs-courses/program-details?baseCurriculumId=3f485930-f502-45ff-9ad1-ed4b3913e48a</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 17:34:09-05:00">11/11/2026 17:34:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

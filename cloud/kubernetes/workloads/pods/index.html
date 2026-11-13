@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.1 Pods | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 4.1 Pods: 4.1.0 Pods, 4.1.1 Pod Lifecycle, 4.1.2 Pod Conditions, 4.1.3 Init Containers, 4.1.4 Sidecar Containers, 4.1.5 Ephemeral Containers, 4.1.6 Liveness, Readiness, and Startup Probes, 4.1.7 Disruptions, 4.1.8 Pod Hostname, 4.1.9 Pod Quality of Service Classes, 4.1.10 Scheduling Group, 4.1.11 Static Pods, 4.1.12 User Namespaces, 4.1.13 Downward API, 4.1.14 Advanced Pod Configuration.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="41-pods">4.1 Pods</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/workloads-pods.png" alt="4.1 Pods: its pages, numbered here, each with the sections of its page that hold terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>4.1 Pods</strong><br>Pod</td>
+<td>&quot;<em><strong>Pods</strong></em> are <strong>the smallest deployable units of computing</strong> that you can <strong>create and manage in Kubernetes</strong>.&quot;</td>
+<td><em><strong>Pod</strong></em> 是<strong>最小的可部署计算单元</strong>，可供你<strong>在 Kubernetes 中创建和管理</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=%2APods%2A%20are%20the%20smallest%20deployable%20units%20of">The Kubernetes Authors, n.d.-k, &quot;Pods&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="pods.html">4.1.0 Pods</a></strong><br>Pod</td>
+<td>&quot;<em>Pods</em> are <strong>the smallest deployable units of computing</strong> that you can <strong>create and manage in Kubernetes</strong>.&quot; &quot;A <em>Pod</em> (as in a pod of whales or pea pod) is <strong>a group of one or more containers</strong>, with shared storage and network resources, and <strong>a specification for how to run the containers</strong>.&quot;</td>
+<td><em>Pod</em> 是<strong>最小的可部署计算单元</strong>，你可以<strong>在 Kubernetes 中创建和管理</strong>它。<em>Pod</em>（就像一群鲸鱼或一个豌豆荚）是<strong>一组一个或多个容器</strong>，共享存储和网络资源，并带有<strong>如何运行这些容器的规约</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/#:%7E:text=Pods%20are%20the%20smallest%20deployable%20units%20of%20computing">The Kubernetes Authors, n.d.-k, &quot;Pods&quot;, para. 1 and 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="pod-lifecycle.html">4.1.1 Pod Lifecycle</a></strong><br>Pod 的生命周期</td>
+<td>(context) &quot;Pods follow <strong>a defined lifecycle</strong>,&quot;</td>
+<td>（语境）Pod 遵循<strong>一个既定的生命周期</strong>，</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=Pods%20follow%20a%20defined%20lifecycle%2C">The Kubernetes Authors, n.d.-i, &quot;Pod Lifecycle&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="pod-condition.html">4.1.2 Pod Conditions</a></strong><br>Pod 状况</td>
+<td>&quot;<strong>Conditions</strong> are <strong>markers for some aspect of the actual state</strong> of the thing the object represents.&quot;</td>
+<td><strong>状况</strong>是对象所代表事物<strong>实际状态某一方面的标记</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-condition/#:%7E:text=Conditions%20are%20markers%20for%20some%20aspect%20of">The Kubernetes Authors, n.d.-g, &quot;Pod Conditions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="init-containers.html">4.1.3 Init Containers</a></strong><br>Init 容器</td>
+<td>&quot;This page provides an overview of init containers: <strong>specialized containers</strong> that <strong>run before app containers in a Pod</strong>.&quot;</td>
+<td>本页概述 Init 容器：<strong>专用容器</strong>，<strong>在 Pod 中先于应用容器运行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/init-containers/#:%7E:text=This%20page%20provides%20an%20overview%20of%20init">The Kubernetes Authors, n.d.-e, &quot;Init Containers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sidecar-containers.html">4.1.4 Sidecar Containers</a></strong><br>边车容器</td>
+<td>&quot;Sidecar containers are <strong>the secondary containers</strong> that <strong>run along with the main application container within the same Pod</strong>.&quot;</td>
+<td>边车容器是<strong>辅助容器</strong>，<strong>在同一个 Pod 中与主应用容器一起运行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/sidecar-containers/#:%7E:text=Sidecar%20containers%20are%20the%20secondary%20containers%20that">The Kubernetes Authors, n.d.-m, &quot;Sidecar Containers&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="ephemeral-containers.html">4.1.5 Ephemeral Containers</a></strong><br>临时容器</td>
+<td>&quot;ephemeral containers: <strong>a special type of container</strong> that <strong>runs temporarily in an existing Pod</strong>&quot;</td>
+<td>临时容器：<strong>一种特殊类型的容器</strong>，<strong>在已有 Pod 中临时运行</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers/#:%7E:text=ephemeral%20containers%3A%20a%20special%20type%20of%20container">The Kubernetes Authors, n.d.-d, &quot;Ephemeral Containers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="probes.html">4.1.6 Liveness, Readiness, and Startup Probes</a></strong><br>存活、就绪和启动探针</td>
+<td>&quot;Kubernetes lets you define <em><strong>probes</strong></em> to <strong>continuously monitor the health of containers</strong> in a Pod.&quot;</td>
+<td>Kubernetes 让你定义<em><strong>探针</strong></em>，<strong>持续监控 Pod 中容器的健康状况</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/probes/#:%7E:text=Kubernetes%20lets%20you%20define%20%2Aprobes%2A%20to%20continuously">The Kubernetes Authors, n.d.-f, &quot;Liveness, Readiness, and Startup Probes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="disruptions.html">4.1.7 Disruptions</a></strong><br>干扰</td>
+<td>(context) &quot;This guide is for application owners who want to <strong>build highly available applications</strong>, and thus need to understand <strong>what types of disruptions can happen to Pods</strong>.&quot;</td>
+<td>（语境）本指南面向想<strong>构建高可用应用</strong>的应用所有者，他们因此需要了解 <strong>Pod 可能遇到哪些类型的干扰</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/disruptions/#:%7E:text=This%20guide%20is%20for%20application%20owners%20who">The Kubernetes Authors, n.d.-b, &quot;Disruptions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="pod-hostname.html">4.1.8 Pod Hostname</a></strong><br>Pod 主机名</td>
+<td>(context) &quot;When a Pod is created, <strong>its hostname</strong> (as observed from within the Pod) is <strong>derived from the Pod's metadata.name value</strong>.&quot;</td>
+<td>（语境）创建 Pod 时，<strong>它的主机名</strong>（从 Pod 内部看到的）<strong>取自 Pod 的 metadata.name 值</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-hostname/#:%7E:text=When%20a%20Pod%20is%20created%2C%20its%20hostname">The Kubernetes Authors, n.d.-h, &quot;Default Pod hostname&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="pod-qos.html">4.1.9 Pod Quality of Service Classes</a></strong><br>Pod 服务质量类</td>
+<td>&quot;Kubernetes <strong>classifies the Pods that you run</strong> and <strong>allocates each Pod into a specific <em>quality of service (QoS) class</em></strong>.&quot;</td>
+<td>Kubernetes <strong>对你运行的 Pod 进行分类</strong>，并<strong>把每个 Pod 归入特定的<em>服务质量（QoS）类</em></strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-qos/#:%7E:text=Kubernetes%20classifies%20the%20Pods%20that%20you%20run">The Kubernetes Authors, n.d.-j, &quot;Quality of Service classes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="scheduling-group.html">4.1.10 Scheduling Group</a></strong><br>调度组</td>
+<td>(context) &quot;When the <strong>GenericWorkload feature gate</strong> is enabled, you can <strong>set the <code>spec.schedulingGroup</code> field</strong> in your <code>Pod</code> manifest.&quot;</td>
+<td>（语境）启用 <strong>GenericWorkload 特性门控</strong>后，你可以在 <code>Pod</code> 清单中<strong>设置 <code>spec.schedulingGroup</code> 字段</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/scheduling-group/#:%7E:text=When%20the%20%5BGenericWorkload%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Freference%2Fcommand-line-tools-reference%2Ffeature-gates%2F%23GenericWorkload%29%20feature%20gate%20is%20enabled%2C">The Kubernetes Authors, n.d.-l, &quot;Specifying a scheduling group&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="static-pods.html">4.1.11 Static Pods</a></strong><br>静态 Pod</td>
+<td>&quot;<em>Static Pods</em> are <strong>managed directly by the kubelet daemon on a specific node</strong>, <strong>without the API server observing them</strong>.&quot;</td>
+<td><em>静态 Pod</em> <strong>由特定节点上的 kubelet 守护进程直接管理</strong>，<strong>API 服务器不会观察它们</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/static-pods/#:%7E:text=%2AStatic%20Pods%2A%20are%20managed%20directly%20by%20the">The Kubernetes Authors, n.d.-n, &quot;Static Pods&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="user-namespaces.html">4.1.12 User Namespaces</a></strong><br>用户命名空间</td>
+<td>&quot;User namespaces is <strong>a Linux feature</strong> that allows you to <strong>map users in the container to different users in the host</strong>.&quot;</td>
+<td>用户命名空间是<strong>一项 Linux 功能</strong>，让你<strong>把容器内的用户映射为主机上的不同用户</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/user-namespaces/#:%7E:text=User%20namespaces%20is%20a%20Linux%20feature%20that">The Kubernetes Authors, n.d.-o, &quot;Introduction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="downward-api.html">4.1.13 Downward API</a></strong><br>Downward API</td>
+<td>&quot;The <em><strong>downward API</strong></em> allows containers to <strong>consume information about themselves or the cluster</strong> without using <strong>the Kubernetes client or API server</strong>.&quot;</td>
+<td><em><strong>Downward API</strong></em> 让容器<strong>获取关于自身或集群的信息</strong>，而无需使用 <strong>Kubernetes 客户端或 API 服务器</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/downward-api/#:%7E:text=The%20%2Adownward%20API%2A%20allows%20containers%20to%20consume">The Kubernetes Authors, n.d.-c, &quot;Downward API&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="advanced-pod-config.html">4.1.14 Advanced Pod Configuration</a></strong><br>Pod 高级配置</td>
+<td>(context) &quot;This page covers <strong>advanced Pod configuration topics</strong>&quot;</td>
+<td>（语境）本页介绍 <strong>Pod 的高级配置主题</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/advanced-pod-config/#:%7E:text=This%20page%20covers%20advanced%20Pod%20configuration%20topics">The Kubernetes Authors, n.d.-a, &quot;Advanced Pod Configuration&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.-a). <em>Advanced Pod Configuration</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/advanced-pod-config/">https://kubernetes.io/docs/concepts/workloads/pods/advanced-pod-config/</a></p>
+<p>The Kubernetes Authors. (n.d.-b). <em>Disruptions</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/disruptions/">https://kubernetes.io/docs/concepts/workloads/pods/disruptions/</a></p>
+<p>The Kubernetes Authors. (n.d.-c). <em>Downward API</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/downward-api/">https://kubernetes.io/docs/concepts/workloads/pods/downward-api/</a></p>
+<p>The Kubernetes Authors. (n.d.-d). <em>Ephemeral Containers</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers/">https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers/</a></p>
+<p>The Kubernetes Authors. (n.d.-e). <em>Init Containers</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/init-containers/">https://kubernetes.io/docs/concepts/workloads/pods/init-containers/</a></p>
+<p>The Kubernetes Authors. (n.d.-f). <em>Liveness, Readiness, and Startup Probes</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/probes/">https://kubernetes.io/docs/concepts/workloads/pods/probes/</a></p>
+<p>The Kubernetes Authors. (n.d.-g). <em>Pod Conditions</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-condition/">https://kubernetes.io/docs/concepts/workloads/pods/pod-condition/</a></p>
+<p>The Kubernetes Authors. (n.d.-h). <em>Pod Hostname</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-hostname/">https://kubernetes.io/docs/concepts/workloads/pods/pod-hostname/</a></p>
+<p>The Kubernetes Authors. (n.d.-i). <em>Pod Lifecycle</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/">https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/</a></p>
+<p>The Kubernetes Authors. (n.d.-j). <em>Pod Quality of Service Classes</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-qos/">https://kubernetes.io/docs/concepts/workloads/pods/pod-qos/</a></p>
+<p>The Kubernetes Authors. (n.d.-k). <em>Pods</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/">https://kubernetes.io/docs/concepts/workloads/pods/</a></p>
+<p>The Kubernetes Authors. (n.d.-l). <em>Scheduling Group</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/scheduling-group/">https://kubernetes.io/docs/concepts/workloads/pods/scheduling-group/</a></p>
+<p>The Kubernetes Authors. (n.d.-m). <em>Sidecar Containers</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/sidecar-containers/">https://kubernetes.io/docs/concepts/workloads/pods/sidecar-containers/</a></p>
+<p>The Kubernetes Authors. (n.d.-n). <em>Static Pods</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/static-pods/">https://kubernetes.io/docs/concepts/workloads/pods/static-pods/</a></p>
+<p>The Kubernetes Authors. (n.d.-o). <em>User Namespaces</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/user-namespaces/">https://kubernetes.io/docs/concepts/workloads/pods/user-namespaces/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

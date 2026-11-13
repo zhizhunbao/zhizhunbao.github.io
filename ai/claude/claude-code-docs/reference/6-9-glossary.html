@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6.9 Glossary | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Claude Code Docs: 6.9 Glossary, the source&#39;s own term list, 52 terms; skeleton, definitions pending.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="69-glossary">6.9 Glossary</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6.9 Glossary</strong><br>术语表</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary">Anthropic, n.d., &quot;Glossary&quot;</a></td>
+</tr>
+<tr>
+<td><strong>AGENTS.md</strong><br>AGENTS.md</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#agents-md">Anthropic, n.d., &quot;Glossary&quot;, AGENTS.md</a></td>
+</tr>
+<tr>
+<td><strong>Agent teams</strong><br>代理团队</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#agent-teams">Anthropic, n.d., &quot;Glossary&quot;, Agent teams</a></td>
+</tr>
+<tr>
+<td><strong>Agentic coding</strong><br>代理式编码</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#agentic-coding">Anthropic, n.d., &quot;Glossary&quot;, Agentic coding</a></td>
+</tr>
+<tr>
+<td><strong>Agentic harness</strong><br>代理运行框架</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#agentic-harness">Anthropic, n.d., &quot;Glossary&quot;, Agentic harness</a></td>
+</tr>
+<tr>
+<td><strong>Agentic loop</strong><br>代理循环</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#agentic-loop">Anthropic, n.d., &quot;Glossary&quot;, Agentic loop</a></td>
+</tr>
+<tr>
+<td><strong>Artifact</strong><br>Artifact（可分享的交互页面）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#artifact">Anthropic, n.d., &quot;Glossary&quot;, Artifact</a></td>
+</tr>
+<tr>
+<td><strong>Auto memory</strong><br>自动记忆</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#auto-memory">Anthropic, n.d., &quot;Glossary&quot;, Auto memory</a></td>
+</tr>
+<tr>
+<td><strong>Auto mode</strong><br>自动模式</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#auto-mode">Anthropic, n.d., &quot;Glossary&quot;, Auto mode</a></td>
+</tr>
+<tr>
+<td><strong>Bare mode</strong><br>裸模式</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#bare-mode">Anthropic, n.d., &quot;Glossary&quot;, Bare mode</a></td>
+</tr>
+<tr>
+<td><strong>Bundled skills</strong><br>内置技能</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#bundled-skills">Anthropic, n.d., &quot;Glossary&quot;, Bundled skills</a></td>
+</tr>
+<tr>
+<td><strong>Channel</strong><br>通道</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#channel">Anthropic, n.d., &quot;Glossary&quot;, Channel</a></td>
+</tr>
+<tr>
+<td><strong>Checkpoint</strong><br>检查点</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#checkpoint">Anthropic, n.d., &quot;Glossary&quot;, Checkpoint</a></td>
+</tr>
+<tr>
+<td><strong>.claude directory</strong><br>.claude 目录</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#claude-directory">Anthropic, n.d., &quot;Glossary&quot;, .claude directory</a></td>
+</tr>
+<tr>
+<td><strong>CLAUDE.md</strong><br>CLAUDE.md</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#claude-md">Anthropic, n.d., &quot;Glossary&quot;, CLAUDE.md</a></td>
+</tr>
+<tr>
+<td><strong>Cloud session</strong><br>云会话</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#cloud-session">Anthropic, n.d., &quot;Glossary&quot;, Cloud session</a></td>
+</tr>
+<tr>
+<td><strong>Command</strong><br>命令</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#command">Anthropic, n.d., &quot;Glossary&quot;, Command</a></td>
+</tr>
+<tr>
+<td><strong>Compaction</strong><br>压缩</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#compaction">Anthropic, n.d., &quot;Glossary&quot;, Compaction</a></td>
+</tr>
+<tr>
+<td><strong>Connector</strong><br>连接器</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#connector">Anthropic, n.d., &quot;Glossary&quot;, Connector</a></td>
+</tr>
+<tr>
+<td><strong>Context window</strong><br>上下文窗口</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#context-window">Anthropic, n.d., &quot;Glossary&quot;, Context window</a></td>
+</tr>
+<tr>
+<td><strong>Dispatch</strong><br>Dispatch（派发）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#dispatch">Anthropic, n.d., &quot;Glossary&quot;, Dispatch</a></td>
+</tr>
+<tr>
+<td><strong>Effort level</strong><br>努力程度</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#effort-level">Anthropic, n.d., &quot;Glossary&quot;, Effort level</a></td>
+</tr>
+<tr>
+<td><strong>Extended thinking</strong><br>扩展思考</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#extended-thinking">Anthropic, n.d., &quot;Glossary&quot;, Extended thinking</a></td>
+</tr>
+<tr>
+<td><strong>Frontmatter</strong><br>前置元数据</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#frontmatter">Anthropic, n.d., &quot;Glossary&quot;, Frontmatter</a></td>
+</tr>
+<tr>
+<td><strong>Hook</strong><br>钩子</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#hook">Anthropic, n.d., &quot;Glossary&quot;, Hook</a></td>
+</tr>
+<tr>
+<td><strong>Managed settings</strong><br>托管设置</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#managed-settings">Anthropic, n.d., &quot;Glossary&quot;, Managed settings</a></td>
+</tr>
+<tr>
+<td><strong>MCP (Model Context Protocol)</strong><br>模型上下文协议</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#mcp-model-context-protocol">Anthropic, n.d., &quot;Glossary&quot;, MCP (Model Context Protocol)</a></td>
+</tr>
+<tr>
+<td><strong>MCP server</strong><br>MCP 服务器</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#mcp-server">Anthropic, n.d., &quot;Glossary&quot;, MCP server</a></td>
+</tr>
+<tr>
+<td><strong>MCP Tool Search</strong><br>MCP 工具搜索</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#mcp-tool-search">Anthropic, n.d., &quot;Glossary&quot;, MCP Tool Search</a></td>
+</tr>
+<tr>
+<td><strong>Non-interactive mode</strong><br>非交互模式</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#non-interactive-mode">Anthropic, n.d., &quot;Glossary&quot;, Non-interactive mode</a></td>
+</tr>
+<tr>
+<td><strong>Output style</strong><br>输出样式</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#output-style">Anthropic, n.d., &quot;Glossary&quot;, Output style</a></td>
+</tr>
+<tr>
+<td><strong>Permission mode</strong><br>权限模式</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#permission-mode">Anthropic, n.d., &quot;Glossary&quot;, Permission mode</a></td>
+</tr>
+<tr>
+<td><strong>Permission rule</strong><br>权限规则</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#permission-rule">Anthropic, n.d., &quot;Glossary&quot;, Permission rule</a></td>
+</tr>
+<tr>
+<td><strong>Plan mode</strong><br>计划模式</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#plan-mode">Anthropic, n.d., &quot;Glossary&quot;, Plan mode</a></td>
+</tr>
+<tr>
+<td><strong>Plugin</strong><br>插件</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#plugin">Anthropic, n.d., &quot;Glossary&quot;, Plugin</a></td>
+</tr>
+<tr>
+<td><strong>Project trust</strong><br>项目信任</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#project-trust">Anthropic, n.d., &quot;Glossary&quot;, Project trust</a></td>
+</tr>
+<tr>
+<td><strong>Prompt injection</strong><br>提示注入</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#prompt-injection">Anthropic, n.d., &quot;Glossary&quot;, Prompt injection</a></td>
+</tr>
+<tr>
+<td><strong>Remote Control</strong><br>远程控制</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#remote-control">Anthropic, n.d., &quot;Glossary&quot;, Remote Control</a></td>
+</tr>
+<tr>
+<td><strong>Rules</strong><br>规则</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#rules">Anthropic, n.d., &quot;Glossary&quot;, Rules</a></td>
+</tr>
+<tr>
+<td><strong>Sandboxing</strong><br>沙箱化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#sandboxing">Anthropic, n.d., &quot;Glossary&quot;, Sandboxing</a></td>
+</tr>
+<tr>
+<td><strong>Session</strong><br>会话</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#session">Anthropic, n.d., &quot;Glossary&quot;, Session</a></td>
+</tr>
+<tr>
+<td><strong>Settings layers</strong><br>设置层级</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#settings-layers">Anthropic, n.d., &quot;Glossary&quot;, Settings layers</a></td>
+</tr>
+<tr>
+<td><strong>Skill</strong><br>技能</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#skill">Anthropic, n.d., &quot;Glossary&quot;, Skill</a></td>
+</tr>
+<tr>
+<td><strong>Subagent</strong><br>子代理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#subagent">Anthropic, n.d., &quot;Glossary&quot;, Subagent</a></td>
+</tr>
+<tr>
+<td><strong>Surface</strong><br>使用入口</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#surface">Anthropic, n.d., &quot;Glossary&quot;, Surface</a></td>
+</tr>
+<tr>
+<td><strong>System prompt</strong><br>系统提示</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#system-prompt">Anthropic, n.d., &quot;Glossary&quot;, System prompt</a></td>
+</tr>
+<tr>
+<td><strong>System reminder</strong><br>系统提醒</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#system-reminder">Anthropic, n.d., &quot;Glossary&quot;, System reminder</a></td>
+</tr>
+<tr>
+<td><strong>Teleport</strong><br>Teleport（会话传送）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#teleport">Anthropic, n.d., &quot;Glossary&quot;, Teleport</a></td>
+</tr>
+<tr>
+<td><strong>Tool</strong><br>工具</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#tool">Anthropic, n.d., &quot;Glossary&quot;, Tool</a></td>
+</tr>
+<tr>
+<td><strong>Transcript</strong><br>对话记录</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#transcript">Anthropic, n.d., &quot;Glossary&quot;, Transcript</a></td>
+</tr>
+<tr>
+<td><strong>Turn</strong><br>轮次</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#turn">Anthropic, n.d., &quot;Glossary&quot;, Turn</a></td>
+</tr>
+<tr>
+<td><strong>Verification loop</strong><br>验证循环</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#verification-loop">Anthropic, n.d., &quot;Glossary&quot;, Verification loop</a></td>
+</tr>
+<tr>
+<td><strong>Worktree isolation</strong><br>工作树隔离</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://code.claude.com/docs/en/glossary#worktree-isolation">Anthropic, n.d., &quot;Glossary&quot;, Worktree isolation</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Anthropic. (n.d.). <em>Claude Code Docs</em>. Retrieved November 8, 2026, from <a href="https://code.claude.com/docs/en/overview">https://code.claude.com/docs/en/overview</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-10 20:22:20-05:00">11/10/2026 20:22:20</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

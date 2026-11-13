@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>24.4 Execute | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 24.4 Execute: Azure Migrate, Azure Migrate and Modernize, Agentless migration, Agent-based migration, Azure Database Migration Service, Data Migration Assistant, Azure App Service Migration Assistant, Azure Data Box.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="244-execute">24.4 Execute</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/execute.png" alt="Execute: Azure Migrate, Azure Migrate and Modernize, Agentless migration, Agent-based migration, Azure Database Migration Service, Data Migration Assistant, Azure App Service Migration Assistant, Azure Data Box."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Execute</strong><br>执行</td>
+<td>&quot;In the execution phase, you perform the <strong>migration or modernization</strong> of your workloads to <strong>move to Azure</strong>.&quot;</td>
+<td>在执行阶段，你对工作负载进行<strong>迁移或现代化</strong>，以便<strong>转移到 Azure</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=In%20the%20execution%20phase%2C%20you%20perform%20the%20migration%20or%20modernization">Microsoft, n.d., &quot;Execute&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Migrate</strong><br>Azure Migrate</td>
+<td>&quot;Azure Migrate is a service that helps you <strong>decide on, plan, and execute</strong> your <strong>migration to Azure</strong>.&quot;</td>
+<td>Azure Migrate 是一项服务，帮助你<strong>决定、规划和执行</strong>自己的<strong>到 Azure 的迁移</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=Azure%20Migrate%20is%20a%20service%20that%20helps%20you%20decide">Microsoft, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Migrate and Modernize</strong><br>Azure Migrate 迁移和现代化</td>
+<td>&quot;Migrate <strong>VMware VMs, Hyper-V VMs, physical servers, other virtualized servers, and public cloud VMs</strong> to Azure.&quot;</td>
+<td>把 <strong>VMware VM、Hyper-V VM、物理服务器、其他虚拟化服务器和公有云 VM</strong> 迁移到 Azure。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=Migrate%20VMware%20VMs%2C%20Hyper%2DV%20VMs%2C%20physical%20servers">Microsoft, n.d., &quot;Integrated tools and features&quot; section, &quot;Migrate and Modernize&quot; row, Details</a></td>
+</tr>
+<tr>
+<td><strong>Agentless migration</strong><br>无代理迁移</td>
+<td>&quot;For <strong>agentless migration</strong>, the Azure Migrate and Modernize tool uses <strong>the same appliance that's used for discovery and assessment of servers</strong>.&quot;</td>
+<td>对于<strong>无代理迁移</strong>，Azure Migrate 迁移和现代化工具使用<strong>与服务器发现和评估所用的同一个设备</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=For%20agentless%20migration%2C%20the%20Azure%20Migrate">Microsoft, n.d., &quot;Execute&quot; section, &quot;On-premises VMware VMs&quot; row, Details</a></td>
+</tr>
+<tr>
+<td><strong>Agent-based migration</strong><br>基于代理的迁移</td>
+<td>&quot;For <strong>agent-based migration</strong>, the Azure Migrate and Modernize tool uses a <strong>replication appliance</strong>.&quot;</td>
+<td>对于<strong>基于代理的迁移</strong>，Azure Migrate 迁移和现代化工具使用<strong>复制设备</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=For%20agent%2Dbased%20migration%2C%20the%20Azure%20Migrate">Microsoft, n.d., &quot;Execute&quot; section, &quot;On-premises VMware VMs&quot; row, Details</a></td>
+</tr>
+<tr>
+<td><strong>Azure Database Migration Service</strong><br>Azure 数据库迁移服务</td>
+<td>&quot;Migrate <strong>on-premises databases</strong> to <strong>Azure VMs running SQL Server, Azure SQL Database, or Azure SQL Managed Instance</strong>.&quot;</td>
+<td>把<strong>本地数据库</strong>迁移到<strong>运行 SQL Server 的 Azure VM、Azure SQL 数据库或 Azure SQL 托管实例</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=Migrate%20on%2Dpremises%20databases%20to%20Azure%20VMs%20running%20SQL%20Server">Microsoft, n.d., &quot;Integrated tools and features&quot; section, &quot;Azure Database Migration Service&quot; row, Function</a></td>
+</tr>
+<tr>
+<td><strong>Data Migration Assistant</strong><br>数据迁移助手</td>
+<td>&quot;Data Migration Assistant is a <strong>standalone tool to assess SQL servers</strong>. It helps <strong>pinpoint potential problems that block migration</strong>.&quot;</td>
+<td>数据迁移助手是<strong>用于评估 SQL 服务器的独立工具</strong>。它帮助<strong>找出阻碍迁移的潜在问题</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=Data%20Migration%20Assistant%20is%20a%20standalone%20tool%20to%20assess%20SQL%20servers">Microsoft, n.d., &quot;Integrated tools and features&quot; section, &quot;Data Migration Assistant&quot; row, Details</a></td>
+</tr>
+<tr>
+<td><strong>Azure App Service Migration Assistant</strong><br>Azure App Service 迁移助手</td>
+<td>&quot;Azure App Service Migration Assistant is a <strong>standalone tool to assess on-premises websites</strong> for <strong>migration to Azure App Service</strong>.&quot;</td>
+<td>Azure App Service 迁移助手是<strong>评估本地网站的独立工具</strong>，用于<strong>迁移到 Azure App Service</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=Azure%20App%20Service%20Migration%20Assistant%20is%20a%20standalone%20tool">Microsoft, n.d., &quot;Integrated tools and features&quot; section, &quot;Azure App Service Migration Assistant&quot; row, Details</a></td>
+</tr>
+<tr>
+<td><strong>Azure Data Box</strong><br>Azure Data Box</td>
+<td>&quot;Use Azure Data Box products to <strong>move large amounts of offline data to Azure</strong>.&quot;</td>
+<td>使用 Azure Data Box 产品<strong>把大量离线数据转移到 Azure</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview#:%7E:text=Use%20Azure%20Data%20Box%20products%20to%20move%20large%20amounts%20of%20offline%20data">Microsoft, n.d., &quot;Integrated tools and features&quot; section, &quot;Azure Data Box&quot; row, Details</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Microsoft. (n.d.). <em>About Azure Migrate</em>. Microsoft Learn. Retrieved October 18, 2026, from <a href="https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview">https://learn.microsoft.com/en-us/azure/migrate/migrate-services-overview</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 12:58:52-04:00">10/27/2026 12:58:52</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

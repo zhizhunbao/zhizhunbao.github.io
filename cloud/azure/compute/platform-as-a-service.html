@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.2 Platform as a Service (PaaS) | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 4.2 Platform as a service (PaaS): Azure App Service, Azure Kubernetes Service (AKS), Azure Kubernetes Fleet Manager, Azure Container Apps, Azure Container Instances, Azure Red Hat OpenShift, Azure Batch, Azure Static Web Apps, Azure Spring Apps, Azure Cloud Services (extended support).">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="42-platform-as-a-service-paas">4.2 Platform as a Service (PaaS)</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/platform-as-a-service.png" alt="Platform as a service (PaaS), ten terms: Azure App Service, AKS, Container Apps, Container Instances, Red Hat OpenShift and Batch, defined in Choose an Azure compute service, and Kubernetes Fleet Manager, Static Web Apps, Spring Apps and Cloud Services (extended support), described in the Compute list of the Azure documentation; Azure App Service expanded into the Azure App Service plan and Hybrid Connections, from What are Azure App Service plans? and Create and use hybrid connections in Azure App Service."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Azure App Service</strong><br>Azure 应用服务</td>
+<td>&quot;Azure App Service is a <strong>managed service</strong> for <strong>hosting web apps, mobile app back ends, RESTful APIs, or automated business processes</strong>.&quot;</td>
+<td>Azure App Service 是一项<strong>托管服务</strong>，用于<strong>托管 Web 应用、移动应用后端、RESTful API 或自动化业务流程</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:%7E:text=is%20a%20managed%20service%20for%20hosting%20web%20apps">Microsoft, 2026a, &quot;Understand the basic features&quot; section, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>Azure App Service plan</strong><br>Azure 应用服务计划</td>
+<td>&quot;An Azure App Service plan <strong>defines a set of compute resources</strong> for <strong>a web app to run</strong>. An app service always runs in an App Service plan.&quot;</td>
+<td>Azure App Service 计划<strong>定义一组计算资源</strong>，供 <strong>Web 应用运行</strong>。应用服务始终在某个 App Service 计划中运行。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans#:%7E:text=defines%20a%20set%20of%20compute%20resources">Microsoft, 2026c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Hybrid Connections</strong><br>混合连接</td>
+<td>&quot;Within App Service, Hybrid Connections can be used to <strong>access application resources in any network</strong> that can make outbound calls to Azure over port 443. Hybrid Connections provides <strong>access from your app to a TCP endpoint</strong>.&quot;</td>
+<td>在 App Service 中，Hybrid Connections 可用于<strong>访问任意网络中的应用程序资源</strong>，只要该网络能通过 443 端口向 Azure 发出出站调用。Hybrid Connections 提供<strong>从你的应用到 TCP 终结点的访问</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections#:%7E:text=can%20be%20used%20to%20access%20application%20resources">Microsoft, 2026b, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Azure Kubernetes Service (AKS)</strong><br>Azure Kubernetes 服务（AKS）</td>
+<td>&quot;Azure Kubernetes Service (AKS) is a <strong>managed Kubernetes service</strong> for <strong>running containerized applications</strong>.&quot;</td>
+<td>Azure Kubernetes Service（AKS）是一项<strong>托管 Kubernetes 服务</strong>，用于<strong>运行容器化应用程序</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:%7E:text=is%20a%20managed%20Kubernetes%20service">Microsoft, 2026a, &quot;Understand the basic features&quot; section, list item 4</a></td>
+</tr>
+<tr>
+<td><strong>Azure Kubernetes Fleet Manager</strong><br>Azure Kubernetes 舰队管理器</td>
+<td>&quot;Azure Kubernetes Fleet Manager enables <strong>at-scale management</strong> of <strong>multiple supported Kubernetes clusters</strong>.&quot;</td>
+<td>Azure Kubernetes 舰队管理器支持对<strong>多个受支持的 Kubernetes 群集</strong>进行<strong>大规模管理</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/kubernetes-fleet/overview#:%7E:text=enables%20at-scale%20management%20of%20multiple">Microsoft, 2026d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Container Apps</strong><br>Azure 容器应用</td>
+<td>&quot;Azure Container Apps is a <strong>managed service built on Kubernetes</strong>, which simplifies the deployment of containerized applications in a <strong>serverless environment</strong>.&quot;</td>
+<td>Azure Container Apps 是一项<strong>基于 Kubernetes 构建的托管服务</strong>，可简化在<strong>无服务器环境</strong>中部署容器化应用程序。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:%7E:text=is%20a%20managed%20service%20built%20on%20Kubernetes">Microsoft, 2026a, &quot;Understand the basic features&quot; section, list item 5</a></td>
+</tr>
+<tr>
+<td><strong>Azure Container Instances</strong><br>Azure 容器实例</td>
+<td>&quot;Azure Container Instances is a service for <strong>running a single container or group of containers</strong> in Azure. Container Instances doesn't provide full container orchestration, but you can implement containers <strong>without the need to provision VMs</strong> or adopt a higher-level service.&quot;</td>
+<td>Azure Container Instances 是一项服务，用于在 Azure 中<strong>运行单个容器或一组容器</strong>。Container Instances 不提供完整的容器编排，但你可以<strong>无需预配 VM</strong> 或采用更高层级的服务就实现容器。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:%7E:text=is%20a%20service%20for%20running%20a%20single%20container">Microsoft, 2026a, &quot;Understand the basic features&quot; section, list item 6</a></td>
+</tr>
+<tr>
+<td><strong>Azure Red Hat OpenShift</strong><br>Azure Red Hat OpenShift</td>
+<td>&quot;Azure Red Hat OpenShift is a <strong>fully managed OpenShift cluster</strong> for <strong>running containers in production with Kubernetes</strong>.&quot;</td>
+<td>Azure Red Hat OpenShift 是一个<strong>完全托管的 OpenShift 群集</strong>，用于<strong>借助 Kubernetes 在生产环境中运行容器</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:%7E:text=is%20a%20fully%20managed%20OpenShift%20cluster">Microsoft, 2026a, &quot;Understand the basic features&quot; section, list item 7</a></td>
+</tr>
+<tr>
+<td><strong>Azure Batch</strong><br>Azure 批处理</td>
+<td>&quot;Azure Batch is a <strong>managed service</strong> for <strong>running large-scale parallel and high-performance computing</strong> (HPC) applications.&quot;</td>
+<td>Azure Batch 是一项<strong>托管服务</strong>，用于<strong>运行大规模并行和高性能计算</strong>（HPC）应用程序。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree#:%7E:text=running%20large%2Dscale%20parallel%20and%20high%2Dperformance">Microsoft, 2026a, &quot;Understand the basic features&quot; section, list item 8</a></td>
+</tr>
+<tr>
+<td><strong>Azure Static Web Apps</strong><br>Azure 静态 Web 应用</td>
+<td>&quot;Azure Static Web Apps is a service that <strong>automatically deploys full stack web apps</strong> to Azure <strong>from a code repository</strong>.&quot;</td>
+<td>Azure 静态 Web 应用是一种服务，它<strong>从代码存储库</strong>把<strong>全栈 Web 应用自动部署</strong>到 Azure。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/static-web-apps/overview#:%7E:text=automatically%20deploys%20full%20stack%20web%20apps">Microsoft, 2024b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Spring Apps</strong><br>Azure Spring Apps</td>
+<td>&quot;Azure Spring Apps makes it easy to <strong>deploy Spring Boot applications to Azure</strong> <strong>without any code changes</strong>.&quot;</td>
+<td>Azure Spring Apps 让你可以轻松地<strong>把 Spring Boot 应用程序部署到 Azure</strong>，<strong>无需任何代码更改</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/overview#:%7E:text=makes%20it%20easy%20to%20deploy%20Spring%20Boot%20applications">Microsoft, 2025, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Cloud Services (extended support)</strong><br>Azure 云服务（扩展支持）</td>
+<td>&quot;Cloud Services (extended support) is a new <strong>Azure Resource Manager based deployment model</strong> for <strong>Azure Cloud Services</strong> product and is now generally available.&quot;</td>
+<td>Cloud Services（扩展支持）是 <strong>Azure Cloud Services</strong> 产品的一种新的<strong>基于 Azure 资源管理器的部署模型</strong>，现已正式发布。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/overview#:%7E:text=is%20a%20new%20Azure%20Resource%20Manager%20based%20deployment%20model">Microsoft, 2024a, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (n.d.). <em>Azure documentation</em>. Microsoft Learn. Retrieved October 26, 2026, from <a href="https://learn.microsoft.com/en-us/azure/">https://learn.microsoft.com/en-us/azure/</a></li>
+<li>Microsoft. (2024a, July 24). <em>About Azure Cloud Services (extended support)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/overview">https://learn.microsoft.com/en-us/azure/cloud-services-extended-support/overview</a></li>
+<li>Microsoft. (2024b, June 24). <em>What is Azure Static Web Apps?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/static-web-apps/overview">https://learn.microsoft.com/en-us/azure/static-web-apps/overview</a></li>
+<li>Microsoft. (2025, October 31). <em>What is Azure Spring Apps?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/overview">https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/overview</a></li>
+<li>Microsoft. (2026a, February 19). <em>Choose an Azure compute service</em>. Azure Architecture Center. <a href="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree">https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree</a></li>
+<li>Microsoft. (2026b, March 30). <em>Create and use hybrid connections in Azure App Service</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections">https://learn.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections</a></li>
+<li>Microsoft. (2026c, August 24). <em>What are Azure App Service plans?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans">https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans</a></li>
+<li>Microsoft. (2026d, June 15). <em>What is Azure Kubernetes Fleet Manager?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/kubernetes-fleet/overview">https://learn.microsoft.com/en-us/azure/kubernetes-fleet/overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:35-04:00">10/27/2026 21:51:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

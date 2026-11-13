@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.182 ENGINEERING MATHEMATICS, STATISTICS &amp; FINANCE | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="University Programs &gt; University of Toronto &gt; ENGINEERING MATHEMATICS, STATISTICS &amp; FINANCE: the courses of the program as the academic calendar lists them; definitions pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2182-engineering-mathematics-statistics--finance">2.182 ENGINEERING MATHEMATICS, STATISTICS &amp; FINANCE</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ENGINEERING MATHEMATICS, STATISTICS &amp; FINANCE</strong><br>工程数学、统计学与金融</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Economic Analysis and Decision Making</strong><br>经济分析与决策</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Engineering Science Option Seminar</strong><br>工程科学方向研讨课</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Partial Differential Equations</strong><br>偏微分方程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Financial Engineering</strong><br>金融工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Methods of Data Analysis I</strong><br>数据分析方法 I</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Probability</strong><br>概率论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Financial Principles for Actuarial Science II</strong><br>精算科学金融原理 II</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Engineering Finance and Economics</strong><br>工程金融与经济学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Elements of Analysis</strong><br>分析学基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mathematical Programming (Optimization)</strong><br>数学规划（优化）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Financial Optimization Models</strong><br>金融优化模型</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Thesis</strong><br>论文</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Stochastic Methods for Actuarial Science</strong><br>精算科学的随机方法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Engineering Mathematics, Statistics and Finance Capstone Design</strong><br>工程数学、统计与金融毕业设计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Fundamentals of Deep Learning</strong><br>深度学习应用基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Databases</strong><br>数据库导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Artificial Intelligence</strong><br>人工智能导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Foundations of Computing</strong><br>计算基础</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Systems Modelling and Simulation</strong><br>系统建模与仿真</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Operations Research</strong><br>高级运筹学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Optimization in Machine Learning</strong><br>机器学习中的优化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Scheduling</strong><br>调度</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Decision Making Under Uncertainty</strong><br>不确定性下的决策</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Fixed Income Securities</strong><br>固定收益证券</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Statistical Computation</strong><br>统计计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Scientific Computing</strong><br>科学计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mathematical Theory of Finance</strong><br>金融数学理论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Modelling in Biological and Chemical Systems</strong><br>生物与化学系统建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Data-based Modelling for Prediction and Control</strong><br>基于数据的预测与控制建模</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Data Structures and Analysis</strong><br>数据结构与分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Machine Learning</strong><br>机器学习导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Foundations and Frontiers in Cybersecurity</strong><br>网络安全的基础与前沿</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Cases in Operations Research</strong><br>运筹学案例</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Analytics in Action</strong><br>行动中的分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Knowledge Modelling and Management</strong><br>知识建模与管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Reliability and Maintainability Engineering</strong><br>可靠性与可维护性工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Electrification Via Electricity Markets</strong><br>通过电力市场实现电气化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Risk Management for Financial Managers</strong><br>金融管理者风险管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Financial Trading Strategies (formerly RSM412H1 )</strong><br>金融交易策略（原 RSM412H1 ）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Stochastic Processes (formerly STA348H1 )</strong><br>随机过程（原 STA348H1）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Time Series Analysis</strong><br>时间序列分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Type</th>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Credits</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fall Session – Year 3</td>
+<td></td>
+<td>CHE374H1</td>
+<td>Economic Analysis and Decision Making</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Fall Session – Year 3</td>
+<td></td>
+<td>ESC301H1</td>
+<td>Engineering Science Option Seminar</td>
+<td>0.25</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Fall Session – Year 3</td>
+<td></td>
+<td>ESC384H1</td>
+<td>Partial Differential Equations</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Fall Session – Year 3</td>
+<td></td>
+<td>MIE375H1</td>
+<td>Financial Engineering</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Fall Session – Year 3</td>
+<td></td>
+<td>STA302H1</td>
+<td>Methods of Data Analysis I</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Fall Session – Year 3</td>
+<td></td>
+<td>STA347H1</td>
+<td>Probability</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Winter Session – Year 3</td>
+<td></td>
+<td>ACT370H1</td>
+<td>Financial Principles for Actuarial Science II</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Winter Session – Year 3</td>
+<td></td>
+<td>CHE375H1</td>
+<td>Engineering Finance and Economics</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Winter Session – Year 3</td>
+<td></td>
+<td>ESC301H1</td>
+<td>Engineering Science Option Seminar</td>
+<td>0.25</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Winter Session – Year 3</td>
+<td></td>
+<td>MAT336H1</td>
+<td>Elements of Analysis</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Winter Session – Year 3</td>
+<td></td>
+<td>MIE376H1</td>
+<td>Mathematical Programming (Optimization)</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Winter Session – Year 3</td>
+<td></td>
+<td>MIE377H1</td>
+<td>Financial Optimization Models</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td></td>
+<td>ESC499Y1</td>
+<td>Thesis</td>
+<td>1.00</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td></td>
+<td>ACT460H1</td>
+<td>Stochastic Methods for Actuarial Science</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td></td>
+<td>MIE479H1</td>
+<td>Engineering Mathematics, Statistics and Finance Capstone Design</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td></td>
+<td></td>
+<td>Two (2) Complementary Studies Electives | F/S/Y | 1.00</td>
+<td></td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td></td>
+<td></td>
+<td>Four (4) Technical Electives | F/S/Y | 2.00</td>
+<td></td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>APS360H1</td>
+<td>Applied Fundamentals of Deep Learning</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>CSC343H1</td>
+<td>Introduction to Databases</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>CSC384H1</td>
+<td>Introduction to Artificial Intelligence</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>ECE358H1</td>
+<td>Foundations of Computing</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>MIE360H1</td>
+<td>Systems Modelling and Simulation</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>MIE365H1</td>
+<td>Advanced Operations Research</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>MIE424H1</td>
+<td>Optimization in Machine Learning</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>MIE562H1</td>
+<td>Scheduling</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>MIE566H1</td>
+<td>Decision Making Under Uncertainty</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>RSM430H1</td>
+<td>Fixed Income Securities</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td>STA410H1</td>
+<td>Statistical Computation</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Fall Term</td>
+<td></td>
+<td>Other Technical Elective | F | 0.50</td>
+<td></td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>AER336H1</td>
+<td>Scientific Computing</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>APM466H1</td>
+<td>Mathematical Theory of Finance</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>APS360H1</td>
+<td>Applied Fundamentals of Deep Learning</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>CHE471H1</td>
+<td>Modelling in Biological and Chemical Systems</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>CHE507H1</td>
+<td>Data-based Modelling for Prediction and Control</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>CSC263H1</td>
+<td>Data Structures and Analysis</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>CSC311H1</td>
+<td>Introduction to Machine Learning</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>CSC343H1</td>
+<td>Introduction to Databases</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>CSC343H1</td>
+<td>Introduction to Databases</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>CSC384H1</td>
+<td>Introduction to Artificial Intelligence</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>ECE381H1</td>
+<td>Foundations and Frontiers in Cybersecurity</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>ECE421H1</td>
+<td>Introduction to Machine Learning</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>MIE367H1</td>
+<td>Cases in Operations Research</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>MIE368H1</td>
+<td>Analytics in Action</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>MIE457H1</td>
+<td>Knowledge Modelling and Management</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>MIE469H1</td>
+<td>Reliability and Maintainability Engineering</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>MIE535H1</td>
+<td>Electrification Via Electricity Markets</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>RSM432H1</td>
+<td>Risk Management for Financial Managers</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>RSM434H1</td>
+<td>Financial Trading Strategies (formerly RSM412H1 )</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>RSM412H1</td>
+<td>Financial Trading Strategies (formerly RSM412H1 )</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>STA447H1</td>
+<td>Stochastic Processes (formerly STA348H1 )</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>STA348H1</td>
+<td>Stochastic Processes (formerly STA348H1 )</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td>STA457H1</td>
+<td>Time Series Analysis</td>
+<td>0.50</td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+<tr>
+<td>Year 4</td>
+<td>Electives – Winter Term</td>
+<td></td>
+<td>Other Technical Elective | F/S/Y</td>
+<td></td>
+<td><a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">University of Toronto, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>University of Toronto. (n.d.). <em>ENGINEERING MATHEMATICS, STATISTICS &amp; FINANCE</em>. Retrieved November 11, 2026, from <a href="https://engineering.calendar.utoronto.ca/program/aeescbasef">https://engineering.calendar.utoronto.ca/program/aeescbasef</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 19:31:28-05:00">11/11/2026 19:31:28</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

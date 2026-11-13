@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.5 Onboarding | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Fluent 2, 2.5 Onboarding: 10 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="25-onboarding">2.5 Onboarding</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Onboarding</strong><br>引导（Onboarding）</td>
+<td>&quot;Onboarding experiences guide people through <strong>how to get started</strong> with <strong>a product or feature</strong>.&quot;</td>
+<td>引导体验带人了解<strong>如何开始使用</strong>某个<strong>产品或功能</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=Onboarding%20experiences%20guide%20people%20through%20how">Microsoft, n.d., &quot;Onboarding&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Relevant</strong><br>相关</td>
+<td>(context) &quot;Make sure onboarding content is presented <strong>within context</strong> of <strong>a closely related task</strong>.&quot;</td>
+<td>（语境）确保引导内容出现在<strong>情境之中</strong>，即与<strong>一项密切相关的任务</strong>放在一起。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=Make%20sure%20onboarding%20content%20is%20presented">Microsoft, n.d., &quot;Onboarding&quot;, Principles</a></td>
+</tr>
+<tr>
+<td><strong>Non-distracting</strong><br>不干扰</td>
+<td>&quot;Avoid being <strong>a barrier</strong> to <strong>the user’s primary goal</strong>.&quot;</td>
+<td>避免成为<strong>障碍</strong>，挡住<strong>用户的主要目标</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=Avoid%20being%20a%20barrier%20to%20the">Microsoft, n.d., &quot;Onboarding&quot;, Principles</a></td>
+</tr>
+<tr>
+<td><strong>Optional</strong><br>可选</td>
+<td>&quot;Allow people to <strong>exit and finish what they’re doing</strong>, but give them <strong>a way to come back to it later</strong>.&quot;</td>
+<td>允许人们<strong>退出并完成手头的事</strong>，但给他们<strong>以后回来的途径</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=Allow%20people%20to%20exit%20and%20finish">Microsoft, n.d., &quot;Onboarding&quot;, Principles</a></td>
+</tr>
+<tr>
+<td><strong>Benefit-focused</strong><br>突出好处</td>
+<td>(context) &quot;Let them know up front <strong>how they’ll benefit</strong>, so they’re <strong>motivated to pay attention</strong>.&quot;</td>
+<td>（语境）一开始就告诉他们<strong>能得到什么好处</strong>，让他们<strong>有动力去留意</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=Let%20them%20know%20up%20front%20how">Microsoft, n.d., &quot;Onboarding&quot;, Principles</a></td>
+</tr>
+<tr>
+<td><strong>Coherent</strong><br>一致</td>
+<td>&quot;Use <strong>standard Fluent components</strong> so that users <strong>know what to expect</strong> when interacting with your onboarding experience.&quot;</td>
+<td>使用<strong>标准的 Fluent 组件</strong>，让用户在与引导体验互动时<strong>知道会发生什么</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=Use%20standard%20Fluent%20components%20so%20that">Microsoft, n.d., &quot;Onboarding&quot;, Principles</a></td>
+</tr>
+<tr>
+<td><strong>Welcome</strong><br>欢迎</td>
+<td>&quot;Welcome experiences <strong>reassure people</strong> they’re stating <strong>in the right place</strong>.&quot;</td>
+<td>欢迎体验<strong>让人安心</strong>，确认自己<strong>来对了地方</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=Welcome%20experiences%20reassure%20people%20they%27re%20stating">Microsoft, n.d., &quot;Onboarding&quot;, Scenarios and goals</a></td>
+</tr>
+<tr>
+<td><strong>Orient</strong><br>定向</td>
+<td>(context) &quot;After welcoming the user to a new experience, it’s important to <strong>show them helpful features</strong> in context. To show where certain options appear, try <strong>empty states or teaching popovers</strong>.&quot;</td>
+<td>（语境）欢迎用户进入新体验之后，重要的是在情境中<strong>向他们展示有用的功能</strong>。要指出某些选项在哪里，可以用<strong>空状态或教学浮层</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=After%20welcoming%20the%20user%20to%20a">Microsoft, n.d., &quot;Onboarding&quot;, Scenarios and goals</a></td>
+</tr>
+<tr>
+<td><strong>Notify</strong><br>通知</td>
+<td>(context) &quot;When functionality in an app or experiences is <strong>added or changed</strong>, notify users about <strong>what they can now gain</strong> and how they might adapt their behaviors to the new UX.&quot;</td>
+<td>（语境）当应用或体验里的功能<strong>新增或改变</strong>时，告诉用户<strong>他们现在能得到什么</strong>，以及该如何调整做法来适应新的体验。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=When%20functionality%20in%20an%20app%20or">Microsoft, n.d., &quot;Onboarding&quot;, Scenarios and goals</a></td>
+</tr>
+<tr>
+<td><strong>Explain</strong><br>说明</td>
+<td>(context) &quot;To tell people <strong>what they can do</strong> or provide details that might not be readily apparent, try putting <strong>hints in the UI</strong> that can tell people how they might move forward.&quot;</td>
+<td>（语境）要告诉人们<strong>能做什么</strong>，或提供不太显眼的细节，可以在<strong>界面里放提示</strong>，告诉人们下一步怎么走。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=To%20tell%20people%20what%20they%20can">Microsoft, n.d., &quot;Onboarding&quot;, Scenarios and goals</a></td>
+</tr>
+<tr>
+<td><strong>Take action</strong><br>采取行动</td>
+<td>(context) &quot;Sometimes, before they dive in, users need to complete <strong>some preliminary actions</strong> needed to <strong>use the app or feature</strong>.&quot;</td>
+<td>（语境）有时用户在深入之前，需要先完成<strong>一些准备操作</strong>，才能<strong>使用应用或功能</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/onboarding#:%7E:text=Sometimes%2C%20before%20they%20dive%20in%2C%20users">Microsoft, n.d., &quot;Onboarding&quot;, Scenarios and goals</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Microsoft. (n.d.). <em>Fluent 2 Design System</em>. Retrieved November 6, 2026, from <a href="https://fluent2.microsoft.design/">https://fluent2.microsoft.design/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-06 23:33:23-05:00">11/06/2026 23:33:23</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

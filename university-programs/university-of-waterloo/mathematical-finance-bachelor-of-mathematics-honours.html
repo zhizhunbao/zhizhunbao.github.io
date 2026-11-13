@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.99 Mathematical Finance (Bachelor of Mathematics - Honours) | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="University Programs &gt; University of Waterloo &gt; Mathematical Finance (Bachelor of Mathematics - Honours): the courses of the program as the academic calendar lists them; definitions pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="499-mathematical-finance-bachelor-of-mathematics---honours">4.99 Mathematical Finance (Bachelor of Mathematics - Honours)</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Mathematical Finance (Bachelor of Mathematics - Honours)</strong><br>金融数学（数学学士 - 荣誉）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introductory Financial Mathematics</strong><br>金融数学入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Investment Science and Corporate Finance</strong><br>投资科学与公司金融</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Quantitative Enterprise Risk Management</strong><br>定量企业风险管理</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mathematics of Financial Markets</strong><br>金融市场数学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Real Analysis</strong><br>实分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Measure Theory</strong><br>测度论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Mathematical Statistics</strong><br>数理统计</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applied Linear Models</strong><br>应用线性模型</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Stochastic Processes 1</strong><br>随机过程 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Forecasting</strong><br>预测</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Financial Accounting</strong><br>财务会计导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Managerial Accounting</strong><br>管理会计导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Business in North America</strong><br>北美商业导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Computational Mathematics</strong><br>计算数学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Computational Methods in Business and Finance</strong><br>商业与金融计算方法</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Differential Equations</strong><br>微分方程导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Differential Equations (Advanced Level)</strong><br>微分方程导论（高级水平）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Differential Equations for Business and Economics</strong><br>商业与经济微分方程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Ordinary Differential Equations</strong><br>常微分方程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Optimization</strong><br>最优化导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Optimization (Advanced Level)</strong><br>最优化导论（高级）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Complex Analysis</strong><br>复分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Numerical Computation for Financial Modelling</strong><br>金融建模的数值计算</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Partial Differential Equations 1</strong><br>偏微分方程 1</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Portfolio Optimization Models</strong><br>投资组合优化模型</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Functional Analysis</strong><br>泛函分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Microeconomics</strong><br>微观经济学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Macroeconomics</strong><br>宏观经济学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Microeconomic Theory for Business and Policy</strong><br>商业与政策的微观经济理论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Calculus 3 (Advanced Level)</strong><br>微积分 3（高级水平）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Calculus 3 for Honours Mathematics</strong><br>荣誉数学微积分 3</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Real Analysis</strong><br>实分析导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Type</th>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Credits</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>ACTSC231</td>
+<td>Introductory Financial Mathematics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>ACTSC372</td>
+<td>Investment Science and Corporate Finance</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>ACTSC445</td>
+<td>Quantitative Enterprise Risk Management</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>ACTSC446</td>
+<td>Mathematics of Financial Markets</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>PMATH351</td>
+<td>Real Analysis</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>PMATH450</td>
+<td>Measure Theory</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>STAT330</td>
+<td>Mathematical Statistics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>STAT331</td>
+<td>Applied Linear Models</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>STAT333</td>
+<td>Stochastic Processes 1</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete all the following:</td>
+<td>STAT443</td>
+<td>Forecasting</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following | Complete all the following:</td>
+<td>AFM101</td>
+<td>Introduction to Financial Accounting</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following</td>
+<td></td>
+<td>Complete all the following: BUS127W</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following | Complete all the following:</td>
+<td>AFM102</td>
+<td>Introduction to Managerial Accounting</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following</td>
+<td></td>
+<td>Complete all the following: BUS247W</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following</td>
+<td>AFM131</td>
+<td>Introduction to Business in North America</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following</td>
+<td>ARBUS101</td>
+<td>Introduction to Business in North America</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following</td>
+<td></td>
+<td>Complete all the following: BUS111W</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>AMATH242</td>
+<td>Introduction to Computational Mathematics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>CS335</td>
+<td>Computational Methods in Business and Finance</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>CS371</td>
+<td>Introduction to Computational Mathematics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>AMATH250</td>
+<td>Introduction to Differential Equations</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>AMATH251</td>
+<td>Introduction to Differential Equations (Advanced Level)</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>AMATH350</td>
+<td>Differential Equations for Business and Economics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>AMATH351</td>
+<td>Ordinary Differential Equations</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>CO250</td>
+<td>Introduction to Optimization</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>CO255</td>
+<td>Introduction to Optimization (Advanced Level)</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>PMATH352</td>
+<td>Complex Analysis</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>ACTSC447</td>
+<td>Numerical Computation for Financial Modelling</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>AMATH353</td>
+<td>Partial Differential Equations 1</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>CO372</td>
+<td>Portfolio Optimization Models</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>CS476</td>
+<td>Numerical Computation for Financial Modelling</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following:</td>
+<td>PMATH453</td>
+<td>Functional Analysis</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following | Complete all the following:</td>
+<td>ECON101</td>
+<td>Introduction to Microeconomics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following</td>
+<td></td>
+<td>Complete all the following: ECON120W</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following | Complete all the following:</td>
+<td>ECON102</td>
+<td>Introduction to Macroeconomics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following</td>
+<td></td>
+<td>Complete all the following: ECON140W</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following | Complete all the following:</td>
+<td>ECON201</td>
+<td>Microeconomic Theory for Business and Policy</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following</td>
+<td></td>
+<td>Complete all the following: ECON260W</td>
+<td></td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following | Complete all the following:</td>
+<td>MATH247</td>
+<td>Calculus 3 (Advanced Level)</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following | Complete all the following:</td>
+<td>MATH237</td>
+<td>Calculus 3 for Honours Mathematics</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+<tr>
+<td></td>
+<td>Required Courses | Complete 1 of the following | Complete all the following:</td>
+<td>PMATH333</td>
+<td>Introduction to Real Analysis</td>
+<td>0.50</td>
+<td><a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">University of Waterloo, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>University of Waterloo. (n.d.). <em>Mathematical Finance (Bachelor of Mathematics - Honours)</em>. Retrieved November 11, 2026, from <a href="https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn">https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAkJARjn</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 19:31:28-05:00">11/11/2026 19:31:28</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>9.1 Relational Data Stores | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 9.1 Relational data stores: SQL Database, Azure SQL Managed Instance, SQL Database (Hyperscale), Azure Database for PostgreSQL, Azure Database for MySQL, SQL Database in Fabric.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="91-relational-data-stores">9.1 Relational Data Stores</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/relational-data-stores.png" alt="Relational data stores, 6 Azure services from &quot;Select an Azure service for relational data stores&quot; in Understand data models: SQL Database, Azure SQL Managed Instance, SQL Database (Hyperscale), Azure Database for PostgreSQL, Azure Database for MySQL, SQL Database in Fabric. SQL Database expands to Dynamic data masking, which expands to its six masking functions: Default, Credit card, Email, Random number, Custom text, Datetime."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SQL Database</strong><br>SQL 数据库</td>
+<td>&quot;SQL Database is a <strong>managed relational database</strong> for <strong>modern cloud applications</strong> that use the <strong>SQL Server engine</strong>.&quot;</td>
+<td>SQL 数据库是一种<strong>托管关系数据库</strong>，面向<strong>现代云应用程序</strong>，使用的是 <strong>SQL Server 引擎</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models#:%7E:text=is%20a%20managed%20relational%20database%20for%20modern%20cloud%20applications">Microsoft, 2025, &quot;Select an Azure service for relational data stores&quot; section, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Dynamic data masking</strong><br>动态数据掩码</td>
+<td>&quot;Azure SQL Database, SQL database in Microsoft Fabric, and Azure SQL Managed Instance support dynamic data masking (DDM). Dynamic data masking <strong>limits sensitive data exposure by masking it to nonprivileged users</strong>.&quot;</td>
+<td>Azure SQL 数据库、Microsoft Fabric 中的 SQL 数据库和 Azure SQL 托管实例都支持动态数据掩码（DDM）。动态数据掩码<strong>通过对非特权用户掩盖敏感数据来减少敏感数据的暴露</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview#:%7E:text=limits%20sensitive%20data%20exposure%20by%20masking%20it">Microsoft, 2026, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Default</strong><br>默认</td>
+<td>&quot;<strong>Default</strong> <strong>Full masking according to the data types of the designated fields</strong>&quot;</td>
+<td><strong>默认</strong>：<strong>按指定字段的数据类型进行完全掩码</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview#:%7E:text=Full%20masking%20according%20to%20the%20data%20types">Microsoft, 2026, &quot;Dynamic data masking policy&quot; section, &quot;Masking functions&quot; table, row 1</a></td>
+</tr>
+<tr>
+<td><strong>Credit card</strong><br>信用卡</td>
+<td>&quot;<strong>Credit card</strong> <strong>Masking method, which exposes the last four digits of the designated fields</strong> and adds a constant string as a prefix in the form of a credit card.&quot;</td>
+<td><strong>信用卡</strong>：<strong>只露出指定字段的最后四位</strong>，并在前面加一个信用卡格式的固定字符串。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview#:%7E:text=exposes%20the%20last%20four%20digits%20of%20the%20designated%20fields">Microsoft, 2026, &quot;Dynamic data masking policy&quot; section, &quot;Masking functions&quot; table, row 2</a></td>
+</tr>
+<tr>
+<td><strong>Email</strong><br>电子邮件</td>
+<td>&quot;<strong>Email</strong> <strong>Masking method, which exposes the first letter and replaces the domain with XXXX.com</strong> using a constant string prefix in the form of an email address.&quot;</td>
+<td><strong>电子邮件</strong>：<strong>只露出第一个字母，并把域名替换成 XXXX.com</strong>，前缀是电子邮件格式的固定字符串。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview#:%7E:text=exposes%20the%20first%20letter%20and%20replaces%20the%20domain">Microsoft, 2026, &quot;Dynamic data masking policy&quot; section, &quot;Masking functions&quot; table, row 3</a></td>
+</tr>
+<tr>
+<td><strong>Random number</strong><br>随机数</td>
+<td>&quot;<strong>Random number</strong> <strong>Masking method, which generates a random number</strong> according to the selected boundaries and actual data types.&quot;</td>
+<td><strong>随机数</strong>：<strong>生成一个随机数</strong>，范围按所选的边界和实际数据类型决定。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview#:%7E:text=which%20generates%20a%20random%20number%20according%20to%20the%20selected%20boundaries">Microsoft, 2026, &quot;Dynamic data masking policy&quot; section, &quot;Masking functions&quot; table, row 4</a></td>
+</tr>
+<tr>
+<td><strong>Custom text</strong><br>自定义文本</td>
+<td>&quot;<strong>Custom text</strong> <strong>Masking method, which exposes the first and last characters</strong> and adds a custom padding string in the middle.&quot;</td>
+<td><strong>自定义文本</strong>：<strong>只露出首尾字符</strong>，中间加一段自定义的填充字符串。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview#:%7E:text=exposes%20the%20first%20and%20last%20characters">Microsoft, 2026, &quot;Dynamic data masking policy&quot; section, &quot;Masking functions&quot; table, row 5</a></td>
+</tr>
+<tr>
+<td><strong>Datetime</strong><br>日期时间</td>
+<td>&quot;<strong>Datetime</strong> <strong>Enables granular masking for date/time columns</strong>, namely <strong>datetime</strong>, <strong>datetime2</strong>, <strong>date</strong>, <strong>time</strong>, <strong>datetimeoffset</strong>, and <strong>smalldatetime</strong>.&quot;</td>
+<td><strong>日期时间</strong>：<strong>对日期/时间列做细粒度掩码</strong>，即 <strong>datetime</strong>、<strong>datetime2</strong>、<strong>date</strong>、<strong>time</strong>、<strong>datetimeoffset</strong> 和 <strong>smalldatetime</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview#:%7E:text=Enables%20granular%20masking%20for%20date%2Ftime%20columns">Microsoft, 2026, &quot;Dynamic data masking policy&quot; section, &quot;Masking functions&quot; table, row 6</a></td>
+</tr>
+<tr>
+<td><strong>Azure SQL Managed Instance</strong><br>Azure SQL 托管实例</td>
+<td>&quot;Azure SQL Managed Instance is a <strong>near-complete SQL Server environment in the cloud</strong> that's ideal for <strong>lift-and-shift migrations</strong>.&quot;</td>
+<td>Azure SQL 托管实例是<strong>云中近乎完整的 SQL Server 环境</strong>，非常适合<strong>直接迁移</strong>（lift-and-shift）。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models#:%7E:text=is%20a%20near-complete%20SQL%20Server%20environment%20in%20the%20cloud">Microsoft, 2025, &quot;Select an Azure service for relational data stores&quot; section, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>SQL Database (Hyperscale)</strong><br>SQL 数据库（超大规模）</td>
+<td>&quot;SQL Database (Hyperscale) is a <strong>highly scalable SQL tier</strong> designed for <strong>massive workloads</strong> with fast autoscaling and rapid backups.&quot;</td>
+<td>SQL 数据库（超大规模）是一种<strong>高度可扩展的 SQL 层级</strong>，专为<strong>海量工作负载</strong>设计，具有快速自动缩放和快速备份能力。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models#:%7E:text=is%20a%20highly%20scalable%20SQL%20tier%20designed%20for%20massive%20workloads">Microsoft, 2025, &quot;Select an Azure service for relational data stores&quot; section, list item 3</a></td>
+</tr>
+<tr>
+<td><strong>Azure Database for PostgreSQL</strong><br>Azure Database for PostgreSQL</td>
+<td>&quot;Azure Database for PostgreSQL is a <strong>managed PostgreSQL service</strong> that supports <strong>open-source extensions</strong> and <strong>flexible deployment options</strong>.&quot;</td>
+<td>Azure Database for PostgreSQL 是一种<strong>托管 PostgreSQL 服务</strong>，支持<strong>开源扩展</strong>和<strong>灵活的部署选项</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models#:%7E:text=is%20a%20managed%20PostgreSQL%20service%20that%20supports%20open-source%20extensions">Microsoft, 2025, &quot;Select an Azure service for relational data stores&quot; section, list item 4</a></td>
+</tr>
+<tr>
+<td><strong>Azure Database for MySQL</strong><br>Azure Database for MySQL</td>
+<td>&quot;Azure Database for MySQL is a <strong>managed MySQL database</strong> for <strong>web apps and open-source workloads</strong>.&quot;</td>
+<td>Azure Database for MySQL 是一种<strong>托管 MySQL 数据库</strong>，用于 <strong>Web 应用和开源工作负载</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models#:%7E:text=is%20a%20managed%20MySQL%20database%20for%20web%20apps">Microsoft, 2025, &quot;Select an Azure service for relational data stores&quot; section, list item 5</a></td>
+</tr>
+<tr>
+<td><strong>SQL Database in Fabric</strong><br>Fabric 中的 SQL 数据库</td>
+<td>&quot;SQL Database in Fabric is a <strong>developer-friendly transactional database</strong>, based on SQL Database, that you can use to <strong>easily create an operational database in Fabric</strong>.&quot;</td>
+<td>Fabric 中的 SQL 数据库是一种<strong>对开发人员友好的事务数据库</strong>，基于 SQL 数据库，你可以用它<strong>在 Fabric 中轻松创建操作数据库</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models#:%7E:text=is%20a%20developer-friendly%20transactional%20database">Microsoft, 2025, &quot;Select an Azure service for relational data stores&quot; section, list item 6</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2025, September 23). <em>Understand data models</em>. Azure Architecture Center. <a href="https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models">https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/understand-data-store-models</a></li>
+<li>Microsoft. (2026, November 3). <em>Dynamic data masking</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview">https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 18:15:17-05:00">11/04/2026 18:15:17</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

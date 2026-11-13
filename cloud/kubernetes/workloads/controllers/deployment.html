@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.2.1 Deployments | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 4.2.1 Deployments: 4.2.1.0 Deployments, 4.2.1.1 Updating a Deployment, 4.2.1.2 Rolling Back a Deployment, 4.2.1.3 Scaling a Deployment, 4.2.1.4 Deployment status, 4.2.1.5 Writing a Deployment Spec.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="421-deployments">4.2.1 Deployments</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/workloads-controllers-deployment.png" alt="4.2.1 Deployments: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>4.2.1 Deployments</strong><br>Deployment</td>
+<td>&quot;A Deployment <strong>manages a set of Pods</strong> to <strong>run an application workload</strong>, usually one that <strong>doesn't maintain state</strong>.&quot;</td>
+<td>Deployment <strong>管理一组 Pod</strong>，用来<strong>运行一个应用工作负载</strong>，通常是<strong>不维护状态</strong>的工作负载。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=A%20Deployment%20manages%20a%20set%20of%20Pods">The Kubernetes Authors, n.d., &quot;Deployments&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.2.1.0 Deployments</strong><br>Deployment</td>
+<td>&quot;A <em>Deployment</em> provides <strong>declarative updates</strong> for <strong>Pods and ReplicaSets</strong>.&quot;</td>
+<td><em>Deployment</em> 提供<strong>声明式更新</strong>，面向 <strong>Pod 和 ReplicaSet</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=A%20%2ADeployment%2A%20provides%20declarative%20updates%20for">The Kubernetes Authors, n.d., &quot;Deployments&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>desired state</strong><br>期望状态</td>
+<td>(context) &quot;You describe a <em>desired state</em> in a Deployment, and <strong>the Deployment Controller</strong> changes <strong>the actual state to the desired state</strong> at <strong>a controlled rate</strong>.&quot;</td>
+<td>（语境）你在 Deployment 中描述<em>期望状态</em>，<strong>Deployment 控制器</strong> 会<strong>把实际状态变为期望状态</strong>，以<strong>受控的速率</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=You%20describe%20a%20%2Adesired%20state%2A%20in%20a">The Kubernetes Authors, n.d., &quot;Deployments&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>4.2.1.1 Updating a Deployment</strong><br>更新 Deployment</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#updating-a-deployment">The Kubernetes Authors, n.d., &quot;Updating a Deployment&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Rollover</strong><br>滚动覆盖</td>
+<td>(context) &quot;Each time a new Deployment is observed by the Deployment controller, <strong>a ReplicaSet is created</strong> to <strong>bring up the desired Pods</strong>.&quot;</td>
+<td>（语境）Deployment 控制器每观察到一个新的 Deployment，<strong>就创建一个 ReplicaSet</strong> 来<strong>启动期望的 Pod</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=Each%20time%20a%20new%20Deployment%20is%20observed">The Kubernetes Authors, n.d., &quot;Rollover (aka multiple updates in-flight)&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>non-overlapping change</strong><br>不重叠的变更</td>
+<td>(context) &quot;This is a <em>non-overlapping</em> change: <strong>the new Deployment</strong> will <strong>not &quot;see&quot; the old Pods</strong> (which lack the new label)&quot;</td>
+<td>（语境）这是一种<em>不重叠</em>的变更：<strong>新的 Deployment</strong> 将<strong>不会“看到”旧的 Pod</strong>（它们缺少新标签）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=This%20is%20a%20%2Anon-overlapping%2A%20change%3A%20the%20new">The Kubernetes Authors, n.d., &quot;Label selector updates&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>overlapping change</strong><br>重叠的变更</td>
+<td>(context) &quot;This is an <em>overlapping</em> change: <strong>the new, broader selector</strong> would <strong>match the old Pods</strong>.&quot;</td>
+<td>（语境）这是一种<em>重叠</em>的变更：<strong>新的、更宽泛的选择算符</strong>会<strong>匹配旧的 Pod</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=This%20is%20an%20%2Aoverlapping%2A%20change%3A%20the%20new%2C">The Kubernetes Authors, n.d., &quot;Label selector updates&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>4.2.1.2 Rolling Back a Deployment</strong><br>回滚 Deployment</td>
+<td>(context) &quot;Sometimes, you may want to <strong>rollback a Deployment</strong>; for example, <strong>when the Deployment is not stable</strong>, such as crash looping.&quot;</td>
+<td>（语境）有时你可能想要<strong>回滚 Deployment</strong>，例如<strong>在 Deployment 不稳定时</strong>，比如崩溃循环。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=Sometimes%2C%20you%20may%20want%20to%20rollback%20a">The Kubernetes Authors, n.d., &quot;Rolling Back a Deployment&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>revision</strong><br>修订版本</td>
+<td>&quot;A Deployment's revision is <strong>created when a Deployment's rollout is triggered</strong>. This means that the new revision is created <strong>if and only if the Deployment's Pod template (<code>.spec.template</code>) is changed</strong>, for example if you update the labels or container images of the template.&quot;</td>
+<td>Deployment 的修订版本<strong>在 Deployment 的上线被触发时创建</strong>。这意味着新的修订版本<strong>当且仅当 Deployment 的 Pod 模板（<code>.spec.template</code>）发生变更时才会创建</strong>，例如你更新了模板的标签或容器镜像。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=A%20Deployment%27s%20revision%20is%20created%20when">The Kubernetes Authors, n.d., &quot;Rolling Back a Deployment&quot;, Note, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.2.1.3 Scaling a Deployment</strong><br>扩缩 Deployment</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#scaling-a-deployment">The Kubernetes Authors, n.d., &quot;Scaling a Deployment&quot;</a></td>
+</tr>
+<tr>
+<td><strong>proportional scaling</strong><br>按比例扩缩</td>
+<td>(context) &quot;This is called <em>proportional scaling</em>.&quot;</td>
+<td>（语境）这称为<em>按比例扩缩</em>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=This%20is%20called%20%2Aproportional%20scaling%2A.">The Kubernetes Authors, n.d., &quot;Proportional scaling&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.2.1.4 Deployment status</strong><br>Deployment 状态</td>
+<td>&quot;A Deployment enters <strong>various states</strong> during <strong>its lifecycle</strong>.&quot;</td>
+<td>Deployment 进入<strong>多种状态</strong>，贯穿<strong>其生命周期</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=A%20Deployment%20enters%20various%20states%20during%20its">The Kubernetes Authors, n.d., &quot;Deployment status&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Progressing Deployment</strong><br>进行中的 Deployment</td>
+<td>(context) &quot;Kubernetes <strong>marks a Deployment as <em>progressing</em></strong> when <strong>one of the following tasks is performed</strong>:&quot;</td>
+<td>（语境）Kubernetes <strong>把 Deployment 标记为<em>进行中</em></strong>，当<strong>执行以下任一任务时</strong>：</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=Kubernetes%20marks%20a%20Deployment%20as%20%2Aprogressing%2A%20when">The Kubernetes Authors, n.d., &quot;Progressing Deployment&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Complete Deployment</strong><br>已完成的 Deployment</td>
+<td>(context) &quot;Kubernetes <strong>marks a Deployment as <em>complete</em></strong> when <strong>it has the following characteristics</strong>:&quot;</td>
+<td>（语境）Kubernetes <strong>把 Deployment 标记为<em>已完成</em></strong>，当<strong>它具备以下特征时</strong>：</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=Kubernetes%20marks%20a%20Deployment%20as%20%2Acomplete%2A%20when">The Kubernetes Authors, n.d., &quot;Complete Deployment&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Failed Deployment</strong><br>失败的 Deployment</td>
+<td>(context) &quot;Your Deployment may get <strong>stuck trying to deploy its newest ReplicaSet</strong> without <strong>ever completing</strong>.&quot;</td>
+<td>（语境）你的 Deployment 可能会<strong>卡在部署最新 ReplicaSet 的过程中</strong>，<strong>始终无法完成</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=Your%20Deployment%20may%20get%20stuck%20trying%20to">The Kubernetes Authors, n.d., &quot;Failed Deployment&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.2.1.5 Writing a Deployment Spec</strong><br>编写 Deployment 规约</td>
+<td>(context) &quot;As with all other Kubernetes configs, <strong>a Deployment</strong> needs <strong><code>.apiVersion</code>, <code>.kind</code>, and <code>.metadata</code> fields</strong>.&quot;</td>
+<td>（语境）与其他所有 Kubernetes 配置一样，<strong>Deployment</strong> 需要有 <strong><code>.apiVersion</code>、<code>.kind</code> 和 <code>.metadata</code> 字段</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=As%20with%20all%20other%20Kubernetes%20configs%2C%20a">The Kubernetes Authors, n.d., &quot;Writing a Deployment Spec&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Recreate Deployment</strong><br>Recreate 策略</td>
+<td>&quot;<strong>All existing Pods are killed</strong> before <strong>new ones are created</strong> when <code>.spec.strategy.type==Recreate</code>.&quot;</td>
+<td>当 <code>.spec.strategy.type==Recreate</code> 时，<strong>先杀死所有现有 Pod</strong>，再<strong>创建新的 Pod</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=All%20existing%20Pods%20are%20killed%20before%20new">The Kubernetes Authors, n.d., &quot;Recreate Deployment&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Rolling Update Deployment</strong><br>RollingUpdate 策略</td>
+<td>&quot;The Deployment <strong>updates Pods in a rolling update fashion</strong> (<strong>gradually scale down the old ReplicaSets</strong> and <strong>scale up the new one</strong>) when <code>.spec.strategy.type==RollingUpdate</code>.&quot;</td>
+<td>当 <code>.spec.strategy.type==RollingUpdate</code> 时，Deployment <strong>以滚动更新方式更新 Pod</strong>（<strong>逐步缩容旧的 ReplicaSet</strong>、<strong>扩容新的 ReplicaSet</strong>）。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=The%20Deployment%20updates%20Pods%20in%20a%20rolling">The Kubernetes Authors, n.d., &quot;Rolling Update Deployment&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Max Unavailable</strong><br>最大不可用</td>
+<td>&quot;<code>.spec.strategy.rollingUpdate.maxUnavailable</code> is <strong>an optional field</strong> that specifies <strong>the maximum number of Pods</strong> that can be <strong>unavailable during the update process</strong>.&quot;</td>
+<td><code>.spec.strategy.rollingUpdate.maxUnavailable</code> 是<strong>一个可选字段</strong>，指定<strong>最多可以有多少个 Pod</strong> 在<strong>更新过程中不可用</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=%60.spec.strategy.rollingUpdate.maxUnavailable%60%20is%20an%20optional%20field%20that%20specifies">The Kubernetes Authors, n.d., &quot;Max Unavailable&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Max Surge</strong><br>最大峰值</td>
+<td>&quot;<code>.spec.strategy.rollingUpdate.maxSurge</code> is <strong>an optional field</strong> that specifies <strong>the maximum number of Pods</strong> that can be <strong>created over the desired number of Pods</strong>.&quot;</td>
+<td><code>.spec.strategy.rollingUpdate.maxSurge</code> 是<strong>一个可选字段</strong>，指定<strong>最多可以有多少个 Pod</strong> 能<strong>在期望 Pod 数之上额外创建</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#:%7E:text=%60.spec.strategy.rollingUpdate.maxSurge%60%20is%20an%20optional%20field%20that%20specifies">The Kubernetes Authors, n.d., &quot;Max Surge&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Deployments</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/">https://kubernetes.io/docs/concepts/workloads/controllers/deployment/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2 Cluster Architecture | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 2 Cluster Architecture: 2.0 Cluster Architecture, 2.1 Nodes, 2.2 Communication between Nodes and the Control Plane, 2.3 Controllers, 2.4 Leases, 2.5 Cloud Controller Manager, 2.6 About cgroup v2, 2.7 Kubernetes Self-Healing, 2.8 Garbage Collection, 2.9 Mixed Version Proxy.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2-cluster-architecture">2 Cluster Architecture</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/architecture.png" alt="2 Cluster Architecture: its pages, numbered here, each with the sections of its page that hold terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2 Cluster Architecture</strong><br>集群架构</td>
+<td>(context) &quot;<strong>The architectural concepts behind Kubernetes.</strong>&quot;</td>
+<td>（语境）<strong>Kubernetes 背后的架构概念。</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/#:%7E:text=The%20architectural%20concepts%20behind%20Kubernetes.">The Kubernetes Authors, n.d.-c, &quot;Cluster Architecture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="cluster-architecture.html">2.0 Cluster Architecture</a></strong><br>集群架构</td>
+<td>&quot;A Kubernetes cluster consists of <strong>a control plane</strong> plus <strong>a set of worker machines, called nodes</strong>, that <strong>run containerized applications</strong>.&quot;</td>
+<td>Kubernetes 集群由<strong>一个控制平面</strong>加上<strong>一组称为节点的工作机器</strong>组成，它们<strong>运行容器化应用</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/#:%7E:text=A%20Kubernetes%20cluster%20consists%20of%20a%20control">The Kubernetes Authors, n.d.-c, &quot;Cluster Architecture&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="nodes.html">2.1 Nodes</a></strong><br>节点</td>
+<td>&quot;A node may be <strong>a virtual or physical machine</strong>, <strong>depending on the cluster</strong>.&quot;</td>
+<td>节点可以是<strong>虚拟机或物理机</strong>，<strong>取决于集群</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/nodes/#:%7E:text=A%20node%20may%20be%20a%20virtual%20or">The Kubernetes Authors, n.d.-j, &quot;Nodes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="control-plane-node-communication.html">2.2 Communication between Nodes and the Control Plane</a></strong><br>节点与控制平面之间的通信</td>
+<td>(context) &quot;Kubernetes has <strong>a &quot;hub-and-spoke&quot; API pattern</strong>.&quot;</td>
+<td>（语境）Kubernetes 采用 <strong>“中心辐射”式的 API 模式</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/#:%7E:text=Kubernetes%20has%20a%20%22hub-and-spoke%22%20API%20pattern.">The Kubernetes Authors, n.d.-d, &quot;Node to Control Plane&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="controller.html">2.3 Controllers</a></strong><br>控制器</td>
+<td>(context) &quot;In robotics and automation, a <em>control loop</em> is <strong>a non-terminating loop</strong> that <strong>regulates the state of a system</strong>.&quot;</td>
+<td>（语境）在机器人和自动化领域，<em>控制回路</em>是<strong>一个非终止循环</strong>，<strong>调节系统的状态</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/controller/#:%7E:text=In%20robotics%20and%20automation%2C%20a%20%2Acontrol%20loop%2A">The Kubernetes Authors, n.d.-e, &quot;Controllers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="leases.html">2.4 Leases</a></strong><br>租约</td>
+<td>&quot;Distributed systems often have a need for <em>leases</em>, which provide a mechanism to <strong>lock shared resources</strong> and <strong>coordinate activity between members of a set</strong>.&quot;</td>
+<td>分布式系统常常需要<em>租约</em>，它提供一种机制来<strong>锁定共享资源</strong>，并<strong>协调一组成员之间的活动</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/leases/#:%7E:text=Distributed%20systems%20often%20have%20a%20need%20for">The Kubernetes Authors, n.d.-h, &quot;Leases&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="cloud-controller.html">2.5 Cloud Controller Manager</a></strong><br>云控制器管理器</td>
+<td>&quot;The cloud-controller-manager is <strong>a Kubernetes control plane component</strong> that <strong>embeds cloud-specific control logic</strong>.&quot;</td>
+<td>云控制器管理器是<strong>一个 Kubernetes 控制平面组件</strong>，<strong>嵌入了云平台特定的控制逻辑</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/cloud-controller/#:%7E:text=The%20cloud-controller-manager%20is%20a%20Kubernetes%20%5Bcontrol%20plane%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Freference%2Fglossary%2F%3Fall%3Dtrue%23term-control-plane%29">The Kubernetes Authors, n.d.-b, &quot;Cloud Controller Manager&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="cgroups.html">2.6 About cgroup v2</a></strong><br>关于 cgroup v2</td>
+<td>(context) &quot;On Linux, control groups <strong>constrain resources</strong> that are <strong>allocated to processes</strong>.&quot;</td>
+<td>（语境）在 Linux 上，控制组<strong>约束资源</strong>，这些资源<strong>分配给进程</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/cgroups/#:%7E:text=On%20Linux%2C%20%5Bcontrol%20groups%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Freference%2Fglossary%2F%3Fall%3Dtrue%23term-cgroup%29%20constrain%20resources%20that">The Kubernetes Authors, n.d.-a, &quot;About cgroup v2&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="self-healing.html">2.7 Kubernetes Self-Healing</a></strong><br>Kubernetes 自我修复</td>
+<td>&quot;Kubernetes is designed with <strong>self-healing capabilities</strong> that help <strong>maintain the health and availability of workloads</strong>.&quot;</td>
+<td>Kubernetes 设计有<strong>自我修复能力</strong>，帮助<strong>维持工作负载的健康和可用性</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/self-healing/#:%7E:text=Kubernetes%20is%20designed%20with%20self-healing%20capabilities%20that">The Kubernetes Authors, n.d.-g, &quot;Kubernetes Self-Healing&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="garbage-collection.html">2.8 Garbage Collection</a></strong><br>垃圾回收</td>
+<td>&quot;Garbage collection is <strong>a collective term</strong> for <strong>the various mechanisms</strong> Kubernetes uses to <strong>clean up cluster resources</strong>.&quot;</td>
+<td>垃圾回收是<strong>一个统称</strong>，指<strong>各种机制</strong>，Kubernetes 用它们来<strong>清理集群资源</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/garbage-collection/#:%7E:text=Garbage%20collection%20is%20a%20collective%20term%20for">The Kubernetes Authors, n.d.-f, &quot;Garbage Collection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="mixed-version-proxy.html">2.9 Mixed Version Proxy</a></strong><br>混合版本代理</td>
+<td>&quot;Kubernetes 1.37 includes a beta feature that lets an API Server <strong>proxy resource requests</strong> to <strong>other <em>peer</em> API servers</strong>.&quot;</td>
+<td>Kubernetes 1.37 包含一项 beta 功能，让一个 API 服务器 <strong>把资源请求代理</strong>给<strong>其他<em>对等</em> API 服务器</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/architecture/mixed-version-proxy/#:%7E:text=Kubernetes%201.37%20includes%20a%20beta%20feature%20that">The Kubernetes Authors, n.d.-i, &quot;Mixed Version Proxy&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.-a). <em>About cgroup v2</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/cgroups/">https://kubernetes.io/docs/concepts/architecture/cgroups/</a></p>
+<p>The Kubernetes Authors. (n.d.-b). <em>Cloud Controller Manager</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/cloud-controller/">https://kubernetes.io/docs/concepts/architecture/cloud-controller/</a></p>
+<p>The Kubernetes Authors. (n.d.-c). <em>Cluster Architecture</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/">https://kubernetes.io/docs/concepts/architecture/</a></p>
+<p>The Kubernetes Authors. (n.d.-d). <em>Communication between Nodes and the Control Plane</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/">https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/</a></p>
+<p>The Kubernetes Authors. (n.d.-e). <em>Controllers</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/controller/">https://kubernetes.io/docs/concepts/architecture/controller/</a></p>
+<p>The Kubernetes Authors. (n.d.-f). <em>Garbage Collection</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/garbage-collection/">https://kubernetes.io/docs/concepts/architecture/garbage-collection/</a></p>
+<p>The Kubernetes Authors. (n.d.-g). <em>Kubernetes Self-Healing</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/self-healing/">https://kubernetes.io/docs/concepts/architecture/self-healing/</a></p>
+<p>The Kubernetes Authors. (n.d.-h). <em>Leases</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/leases/">https://kubernetes.io/docs/concepts/architecture/leases/</a></p>
+<p>The Kubernetes Authors. (n.d.-i). <em>Mixed Version Proxy</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/mixed-version-proxy/">https://kubernetes.io/docs/concepts/architecture/mixed-version-proxy/</a></p>
+<p>The Kubernetes Authors. (n.d.-j). <em>Nodes</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/architecture/nodes/">https://kubernetes.io/docs/concepts/architecture/nodes/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:03:55-05:00">11/04/2026 20:03:55</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>7. Python | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 7. Python: 7.1 Interactive viewer, 7.2 Model editing, 7.3 Modules, 7.4 Utilities.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="7-python">7. Python</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/python.png" alt="7. Python: its 4 entries from the official menu, in menu order and numbered here, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>7 Python</strong><br>Python</td>
+<td>&quot;MuJoCo comes with <strong>native Python bindings that are developed in C++ using pybind11</strong>.&quot;</td>
+<td>MuJoCo 自带<strong>用 pybind11 在 C++ 中开发的原生 Python 绑定</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#python">Google DeepMind, n.d., &quot;Python&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="interactive-viewer.html">7.1 Interactive viewer</a></strong><br>交互式查看器</td>
+<td>&quot;<strong>An interactive GUI viewer</strong> is provided as part of the Python package in the mujoco.viewer module.&quot;</td>
+<td><strong>一个交互式图形界面查看器</strong>作为 Python 包的一部分，在 mujoco.viewer 模块中提供。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#interactive-viewer">Google DeepMind, n.d., &quot;Interactive viewer&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="model-editing.html">7.2 Model editing</a></strong><br>模型编辑</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#model-editing">Google DeepMind, n.d., &quot;Model editing&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="modules.html">7.3 Modules</a></strong><br>模块</td>
+<td>(context) &quot;The mujoco package contains <strong>two sub-modules: mujoco.rollout and mujoco.minimize</strong>&quot;</td>
+<td>（语境）mujoco 包包含<strong>两个子模块：mujoco.rollout 和 mujoco.minimize</strong></td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#modules">Google DeepMind, n.d., &quot;Modules&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="utilities.html">7.4 Utilities</a></strong><br>工具脚本</td>
+<td>(context) &quot;The python/mujoco directory also contains <strong>utility scripts</strong>.&quot;</td>
+<td>（语境）python/mujoco 目录中还包含<strong>工具脚本</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#utilities">Google DeepMind, n.d., &quot;Utilities&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Structs</strong><br>结构体</td>
+<td>&quot;The bindings include <strong>Python classes that expose MuJoCo data structures</strong>.&quot;</td>
+<td>绑定包含<strong>提供 MuJoCo 数据结构的 Python 类</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#structs">Google DeepMind, n.d., &quot;Structs&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>MjModel</strong><br>MjModel 类</td>
+<td>(context) &quot;The mujoco.MjModel class does not have a Python constructor. Instead, we provide <strong>three static factory functions that create a new mjModel instance</strong>: mujoco.MjModel.from_xml_string, mujoco.MjModel.from_xml_path, and mujoco.MjModel.from_binary_path.&quot;</td>
+<td>（语境）mujoco.MjModel 类没有 Python 构造函数。取而代之，我们提供<strong>三个创建新 mjModel 实例的静态工厂函数</strong>：mujoco.MjModel.from_xml_string、mujoco.MjModel.from_xml_path 和 mujoco.MjModel.from_binary_path。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#structs">Google DeepMind, n.d., &quot;Structs&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>MjData</strong><br>MjData 类</td>
+<td>(context) &quot;In order to conform to PEP 8 naming guidelines, struct names begin with a capital letter, for example <strong>mjData becomes mujoco.MjData in Python</strong>.&quot;</td>
+<td>（语境）为了符合 PEP 8 命名规范，结构体名称以大写字母开头，例如 <strong>mjData 在 Python 中变为 mujoco.MjData</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#structs">Google DeepMind, n.d., &quot;Structs&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>MjOption</strong><br>MjOption 类</td>
+<td>&quot;For structs that have an mj_defaultFoo-style initialization function, the Python constructor calls the default initializer automatically, so for example mujoco.MjOption() <strong>creates a new mjOption instance that is pre-initialized with mj_defaultOption</strong>.&quot;</td>
+<td>对于有 mj_defaultFoo 式初始化函数的结构体，Python 构造函数会自动调用默认初始化函数，例如 mujoco.MjOption() <strong>创建一个用 mj_defaultOption 预先初始化的新 mjOption 实例</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#structs">Google DeepMind, n.d., &quot;Structs&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>MjvScene</strong><br>MjvScene 类</td>
+<td>&quot;Structs with a mj_makeFoo-style initialization function have corresponding constructor overloads in Python, for example mujoco.MjvScene(model, maxgeom=10) in Python <strong>creates a new mjvScene instance that is initialized with mjv_makeScene(model, [the new mjvScene instance], 10) in C</strong>.&quot;</td>
+<td>有 mj_makeFoo 式初始化函数的结构体在 Python 中有相应的构造函数重载，例如 Python 中的 mujoco.MjvScene(model, maxgeom=10) <strong>创建一个新的 mjvScene 实例，它在 C 中用 mjv_makeScene(model, [新的 mjvScene 实例], 10) 初始化</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#structs">Google DeepMind, n.d., &quot;Structs&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>MjVisual</strong><br>MjVisual 类</td>
+<td>(context) &quot;Likewise, the sub-struct attributes of MjModel (opt, vis, stat) and MjVisual (global_, quality, headlight, map, scale, rgba) <strong>can be assigned to</strong>, for example model.opt = new_opt, which copies the fields of new_opt into the model’s own mjOption struct in place.&quot;</td>
+<td>（语境）同样，MjModel 的子结构体属性（opt、vis、stat）和 MjVisual 的子结构体属性（global_、quality、headlight、map、scale、rgba）<strong>可以被赋值</strong>，例如 model.opt = new_opt，它把 new_opt 的字段就地复制到模型自己的 mjOption 结构体中。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#structs">Google DeepMind, n.d., &quot;Structs&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Enums and constants</strong><br>枚举与常量</td>
+<td>(context) &quot;MuJoCo enums are available as <strong>mujoco.mjtEnumType.ENUM_VALUE</strong>, for example mujoco.mjtObj.mjOBJ_SITE.&quot;</td>
+<td>（语境）MuJoCo 枚举以 <strong>mujoco.mjtEnumType.ENUM_VALUE</strong> 的形式提供，例如 mujoco.mjtObj.mjOBJ_SITE。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#enums-and-constants">Google DeepMind, n.d., &quot;Enums and constants&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Named access</strong><br>按名称访问</td>
+<td>&quot;For convenience and code readability, the Python bindings provide <strong>“named access” API on MjModel and MjData</strong>.&quot;</td>
+<td>为了方便和代码可读性，Python 绑定在 MjModel 和 MjData 上提供“<strong>按名称访问”API</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#named-access">Google DeepMind, n.d., &quot;Named access&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>name category</strong><br>名称类别</td>
+<td>&quot;Each name_fooadr field in the mjModel struct <strong>defines a name category foo</strong>.&quot;</td>
+<td>mjModel 结构体中的每个 name_fooadr 字段<strong>定义一个名称类别 foo</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#named-access">Google DeepMind, n.d., &quot;Named access&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>accessor object</strong><br>访问器对象</td>
+<td>&quot;The accessor object <strong>contains attributes whose names correspond to the fields of either mujoco.MjModel or mujoco.MjData but with the part before the underscore removed</strong>.&quot;</td>
+<td>访问器对象<strong>包含一些属性，其名称对应 mujoco.MjModel 或 mujoco.MjData 的字段，但去掉了下划线之前的部分</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#named-access">Google DeepMind, n.d., &quot;Named access&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>aliases</strong><br>别名</td>
+<td>&quot;Additionally, the Python API define <strong>a number of aliases for some name categories corresponding to the XML element name in the MJCF schema</strong> that defines an entity of that category.&quot;</td>
+<td>此外，Python API 为某些名称类别定义了<strong>若干别名，对应 MJCF 模式中定义该类别实体的 XML 元素名</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#named-access">Google DeepMind, n.d., &quot;Named access&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Rendering</strong><br>渲染</td>
+<td>(context) &quot;MuJoCo provides <strong>two rendering APIs</strong>: the classic rendering API (which uses OpenGL 1.5) and the filament rendering API (which provides more modern physically-based rendering capabilities).&quot;</td>
+<td>（语境）MuJoCo 提供<strong>两套渲染 API</strong>：经典渲染 API（使用 OpenGL 1.5）和 Filament 渲染 API（提供更现代的基于物理的渲染能力）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#rendering">Google DeepMind, n.d., &quot;Rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Filament Rendering</strong><br>Filament 渲染</td>
+<td>&quot;The Python mjrf module <strong>exposes the mjrf_ C API to python</strong>.&quot;</td>
+<td>Python 的 mjrf 模块<strong>把 mjrf_ C API 提供给 Python</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#filament-rendering">Google DeepMind, n.d., &quot;Filament Rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Basic structs</strong><br>基本结构体</td>
+<td>&quot;Basic structs (e.g. mjrRect, mjrCamera, etc.) are <strong>considered to be simple POD data types and are bound directly as python types</strong> allowing copies to be made as needed.&quot;</td>
+<td>基本结构体（例如 mjrRect、mjrCamera 等）<strong>被视为简单的 POD 数据类型，直接绑定为 Python 类型</strong>，可以按需复制。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#filament-rendering">Google DeepMind, n.d., &quot;Filament Rendering&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Objects</strong><br>对象</td>
+<td>&quot;mjrf types that have explicit create/destroy functions in the C API (e.g. mjrfContext, mjrfTexture, etc.) are <strong>treated as “Objects”</strong>.&quot;</td>
+<td>在 C API 中有显式创建或销毁函数的 mjrf 类型（例如 mjrfContext、mjrfTexture 等）<strong>被当作“对象”</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#filament-rendering">Google DeepMind, n.d., &quot;Filament Rendering&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>ModelScene</strong><br>ModelScene 类</td>
+<td>&quot;We also provide a ModelScene helper class under mujoco.rendering.filament. This class can be used to <strong>add and update mjrfRenderable and mjrfLight objects in an mjrfScene based on the contents of an mjModel and mjData</strong>.&quot;</td>
+<td>我们还在 mujoco.rendering.filament 下提供 ModelScene 辅助类。这个类可用来<strong>根据 mjModel 和 mjData 的内容，在 mjrfScene 中添加和更新 mjrfRenderable 与 mjrfLight 对象</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#filament-rendering">Google DeepMind, n.d., &quot;Filament Rendering&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Renderer</strong><br>Renderer 类</td>
+<td>&quot;Similarly, we also provide a Renderer class under mujoco.rendering.filament. This class can be used to <strong>manage the lifetimes of key objects (such as the mjrfContext and mjrfScene) and provides useful functions for controlling the camera and reading pixels</strong>.&quot;</td>
+<td>类似地，我们还在 mujoco.rendering.filament 下提供 Renderer 类。这个类可用来<strong>管理关键对象（如 mjrfContext 和 mjrfScene）的生命周期，并提供控制相机和读取像素的实用函数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#filament-rendering">Google DeepMind, n.d., &quot;Filament Rendering&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Classic Rendering</strong><br>经典渲染</td>
+<td>(context) &quot;The MuJoCo classic renderer expects users to <strong>set up a working OpenGL context before calling any of its mjr_ rendering routines</strong>.&quot;</td>
+<td>（语境）MuJoCo 经典渲染器要求用户<strong>在调用其任何 mjr_ 渲染例程之前建立一个可用的 OpenGL 上下文</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#classic-rendering">Google DeepMind, n.d., &quot;Classic Rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mujoco.GLContext</strong><br>mujoco.GLContext 类</td>
+<td>&quot;The Python bindings provide <strong>a basic class mujoco.GLContext that helps users set up such a context for offscreen rendering</strong>.&quot;</td>
+<td>Python 绑定提供<strong>一个基础类 mujoco.GLContext，帮助用户为离屏渲染建立这样的上下文</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#classic-rendering">Google DeepMind, n.d., &quot;Classic Rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>make_current()</strong><br>make_current() 方法</td>
+<td>(context) &quot;Once the context is created, it must be <strong>made current before MuJoCo rendering functions can be called</strong>, which you can do so via ctx.make_current().&quot;</td>
+<td>（语境）上下文创建之后，必须<strong>先把它设为当前上下文，才能调用 MuJoCo 渲染函数</strong>，可以通过 ctx.make_current() 完成。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#classic-rendering">Google DeepMind, n.d., &quot;Classic Rendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>free()</strong><br>free() 方法</td>
+<td>(context) &quot;The context is freed automatically when the ctx object is deleted, but in some multi-threaded scenario it may be necessary to <strong>explicitly free the underlying OpenGL context</strong>.&quot;</td>
+<td>（语境）删除 ctx 对象时上下文会自动释放，但在某些多线程场景中，可能需要<strong>显式释放底层的 OpenGL 上下文</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#classic-rendering">Google DeepMind, n.d., &quot;Classic Rendering&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Error handling</strong><br>错误处理</td>
+<td>&quot;The Python bindings utilizes longjmp to allow it to <strong>convert irrecoverable MuJoCo errors into Python exceptions</strong> of type mujoco.FatalError that can be caught and processed in the usual Pythonic way.&quot;</td>
+<td>Python 绑定利用 longjmp，<strong>把不可恢复的 MuJoCo 错误转换为 Python 异常</strong>（类型为 mujoco.FatalError），可以按通常的 Python 方式捕获和处理。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#error-handling">Google DeepMind, n.d., &quot;Error handling&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Callbacks</strong><br>回调</td>
+<td>&quot;MuJoCo allows users to <strong>install custom callback functions to modify certain parts of its computation pipeline</strong>.&quot;</td>
+<td>MuJoCo 允许用户<strong>安装自定义回调函数，以修改其计算流水线的某些部分</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/python.html#callbacks">Google DeepMind, n.d., &quot;Callbacks&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Python</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/python.html">https://mujoco.readthedocs.io/en/stable/python.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

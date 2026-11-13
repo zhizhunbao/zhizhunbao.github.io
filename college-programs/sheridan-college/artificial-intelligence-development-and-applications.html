@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>61.11 Artificial Intelligence Development and Applications | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="College Programs &gt; Sheridan College &gt; Artificial Intelligence Development and Applications: the courses of the program; skeleton, definition pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="6111-artificial-intelligence-development-and-applications">61.11 Artificial Intelligence Development and Applications</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Artificial Intelligence Development and Applications</strong><br>人工智能开发与应用</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to AI</strong><br>AI导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Introduction to Data Science</strong><br>数据科学导论</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Big Data Storage and Analysis</strong><br>大数据存储与分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Data Visualization</strong><br>数据可视化</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Python for AI and ML</strong><br>面向AI与ML的高级Python</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Standards and Practices in Canadian IT Industry</strong><br>加拿大IT行业的标准与实践</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>AI and Natural Languages</strong><br>AI与自然语言</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Neural Networks and Deep Learning</strong><br>神经网络与深度学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Social Media Data Mining and Analysis</strong><br>社交媒体数据挖掘与分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Ethics and Responsible AI</strong><br>伦理与负责任的AI</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>AI and ML Capstone Project</strong><br>AI与机器学习毕业设计项目</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Work-Term and Career Preparation (for co-op students only)</strong><br>工作学期与职业准备（仅限带薪实习学生）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Co-op Work Term or Co-op Workplace Simulation (optional)</strong><br>合作教育工作学期或合作教育工作场所模拟（选修）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Python Programming for AI</strong><br>面向AI的Python编程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>The Future of Work: Engagement, Productivity and Wellness</strong><br>工作的未来：敬业度、生产力与健康</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Technology in the Canadian Economy</strong><br>加拿大经济中的技术</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Workplace Communication in Canada</strong><br>加拿大职场沟通</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Applications of Creativity and Innovation</strong><br>创造力与创新的应用</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Building Your Canadian Career Toolkit</strong><br>打造你的加拿大职业工具包</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Big Data Analysis and Storage</strong><br>大数据分析与存储</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Advanced Python for AI &amp; ML</strong><br>面向AI与ML的高级Python</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Neural Networks &amp; Deep Learning</strong><br>神经网络与深度学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Social Media Data Mining &amp; Analysis</strong><br>社交媒体数据挖掘与分析</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>AI &amp; ML Capstone Project</strong><br>AI与机器学习毕业设计项目</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Work-Term &amp; Career Preparation</strong><br>工作学期与职业准备</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong>Co-op Work Term or Co-op Workplace Simulation</strong><br>合作教育工作学期或合作教育工作场所模拟</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="courses">Courses</h2>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Type</th>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>INFO57913</td>
+<td>Introduction to AI</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>STAT53894</td>
+<td>Introduction to Data Science</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>SYST52461</td>
+<td>Big Data Storage and Analysis</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>STAT50002</td>
+<td>Data Visualization</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>PROG50141</td>
+<td>Advanced Python for AI and ML</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>BUSM50258</td>
+<td>Standards and Practices in Canadian IT Industry</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>PROG57255</td>
+<td>AI and Natural Languages</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>PROG55603</td>
+<td>Neural Networks and Deep Learning</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>INFO57086</td>
+<td>Social Media Data Mining and Analysis</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>INFO55035</td>
+<td>Ethics and Responsible AI</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>INFO53883</td>
+<td>AI and ML Capstone Project</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>COWT 53816</td>
+<td>Work-Term and Career Preparation (for co-op students only)</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>COWT 51075</td>
+<td>Co-op Work Term or Co-op Workplace Simulation (optional)</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>PROG50139</td>
+<td>Python Programming for AI</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>BUSM50258</td>
+<td>Standards and Practices in Canadian IT Industry</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>SOCI58042</td>
+<td>The Future of Work: Engagement, Productivity and Wellness</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>INFO53161</td>
+<td>Technology in the Canadian Economy</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td></td>
+<td>COMM52003</td>
+<td>Workplace Communication in Canada</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td>Elective</td>
+<td>CULT57560</td>
+<td>Applications of Creativity and Innovation</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 1</td>
+<td>Elective</td>
+<td>CRED51687</td>
+<td>Building Your Canadian Career Toolkit</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>INFO57913</td>
+<td>Introduction to AI</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>STAT53894</td>
+<td>Introduction to Data Science</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>SYST52461</td>
+<td>Big Data Analysis and Storage</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>STAT50002</td>
+<td>Data Visualization</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 2</td>
+<td></td>
+<td>PROG50141</td>
+<td>Advanced Python for AI &amp; ML</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>PROG57255</td>
+<td>AI and Natural Languages</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>PROG55603</td>
+<td>Neural Networks &amp; Deep Learning</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>INFO57086</td>
+<td>Social Media Data Mining &amp; Analysis</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>INFO55035</td>
+<td>Ethics and Responsible AI</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>INFO53883</td>
+<td>AI &amp; ML Capstone Project</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 3</td>
+<td></td>
+<td>COWT 53816</td>
+<td>Work-Term &amp; Career Preparation</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td>Semester 4</td>
+<td></td>
+<td>COWT 51075</td>
+<td>Co-op Work Term or Co-op Workplace Simulation</td>
+<td><a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">Sheridan College, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Sheridan College. (n.d.). <em>Artificial Intelligence Development and Applications</em>. Retrieved November 10, 2026, from <a href="https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications">https://www.sheridancollege.ca/programs/artificial-intelligence-development-and-applications</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 17:34:09-05:00">11/11/2026 17:34:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

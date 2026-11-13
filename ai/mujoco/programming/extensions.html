@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.9 Extensions | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 5.9 Extensions: Engine plugins, Decoders, Encoders, Resource providers.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="59-extensions">5.9 Extensions</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/extensions.png" alt="5.9 Extensions: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5.9 Extensions</strong><br>扩展</td>
+<td>(context) &quot;At present, extensibility is provided by via <strong>engine plugins, decoders, and resource providers</strong>.&quot;</td>
+<td>（语境）目前，可扩展性由<strong>引擎插件、解码器和资源提供者</strong>提供。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#extensions">Google DeepMind, n.d., &quot;Extensions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Engine plugins</strong><br>引擎插件</td>
+<td>&quot;Engine plugins <strong>allow user-defined logic to be inserted into various parts of MuJoCo’s computational pipeline</strong>.&quot;</td>
+<td>引擎插件<strong>允许把用户定义的逻辑插入 MuJoCo 计算流水线的各个部分</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#engine-plugins">Google DeepMind, n.d., &quot;Engine plugins&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Thread safety</strong><br>线程安全</td>
+<td>&quot;Plugin instances (see below) are <strong>thread-local, avoiding collisions</strong>.&quot;</td>
+<td>插件实例（见下文）是<strong>线程局部的，避免冲突</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#engine-plugins">Google DeepMind, n.d., &quot;Engine plugins&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Statefulness</strong><br>有状态性</td>
+<td>&quot;Plugins can be stateful, and <strong>their state will be (de)serialized correctly</strong>.&quot;</td>
+<td>插件可以是有状态的，<strong>它们的状态会被正确地序列化和反序列化</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#engine-plugins">Google DeepMind, n.d., &quot;Engine plugins&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Interoperability</strong><br>互操作性</td>
+<td>&quot;Different plugins <strong>can coexist without interference</strong>.&quot;</td>
+<td>不同的插件<strong>可以共存而互不干扰</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#engine-plugins">Google DeepMind, n.d., &quot;Engine plugins&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Plugin</strong><br>插件</td>
+<td>&quot;A plugin is <strong>a collection of functions and static attributes that implement its capabilities, bundled into an mjpPlugin struct</strong>.&quot;</td>
+<td>插件是<strong>实现其功能的一组函数和静态属性，打包在一个 mjpPlugin 结构体中</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#engine-plugins">Google DeepMind, n.d., &quot;Engine plugins&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>stateless</strong><br>无状态</td>
+<td>&quot;Plugin functions are stateless: <strong>they depend only on the arguments passed to them</strong>.&quot;</td>
+<td>插件函数是无状态的：<strong>它们只依赖传给它们的参数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#engine-plugins">Google DeepMind, n.d., &quot;Engine plugins&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Plugin instance</strong><br>插件实例</td>
+<td>&quot;A plugin instance <strong>represents the self-contained runtime state that is operated on by the plugin</strong>: when the plugin logic is executed, the instance state is passed in by the engine.&quot;</td>
+<td>插件实例<strong>表示由插件操作的自包含运行时状态</strong>：执行插件逻辑时，引擎把实例状态传进去。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#engine-plugins">Google DeepMind, n.d., &quot;Engine plugins&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>one-to-one</strong><br>一对一</td>
+<td>&quot;In this simplest case, <strong>each instance is referenced once in the model</strong>.&quot;</td>
+<td>在这种最简单的情况下，<strong>每个实例在模型中只被引用一次</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#engine-plugins">Google DeepMind, n.d., &quot;Engine plugins&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>one-to-many</strong><br>一对多</td>
+<td>&quot;Alternatively, <strong>the behavior of multiple elements can be backed by a single plugin instance</strong>.&quot;</td>
+<td>或者，<strong>多个元素的行为可以由单个插件实例支撑</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#engine-plugins">Google DeepMind, n.d., &quot;Engine plugins&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Plugin capabilities</strong><br>插件能力</td>
+<td>(context) &quot;The capabilityflags member is <strong>an integer bitfield describing the plugin’s capabilities</strong>, where bit semantics are defined in the enum mjtPluginCapabilityBit.&quot;</td>
+<td>（语境）capabilityflags 成员是<strong>一个描述插件能力的整数位域</strong>，各位的含义在枚举 mjtPluginCapabilityBit 中定义。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#plugin-capabilities">Google DeepMind, n.d., &quot;Plugin capabilities&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjpPlugin</strong><br>插件结构体 mjpPlugin</td>
+<td>&quot;A plugin is described by <strong>the contents of its associated mjpPlugin struct</strong>.&quot;</td>
+<td>插件由<strong>其关联的 mjpPlugin 结构体的内容</strong>描述。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#plugin-capabilities">Google DeepMind, n.d., &quot;Plugin capabilities&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjtPluginCapabilityBit</strong><br>插件能力位枚举 mjtPluginCapabilityBit</td>
+<td>(context) &quot;The capabilityflags member is an integer bitfield describing the plugin’s capabilities, where <strong>bit semantics are defined in the enum mjtPluginCapabilityBit</strong>.&quot;</td>
+<td>（语境）capabilityflags 成员是一个描述插件能力的整数位域，<strong>各位的含义在枚举 mjtPluginCapabilityBit 中定义</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#plugin-capabilities">Google DeepMind, n.d., &quot;Plugin capabilities&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Actuator plugin</strong><br>执行器插件</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#plugin-capabilities">Google DeepMind, n.d., &quot;Plugin capabilities&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Sensor plugin</strong><br>传感器插件</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#plugin-capabilities">Google DeepMind, n.d., &quot;Plugin capabilities&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Passive force plugin</strong><br>被动力插件</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#plugin-capabilities">Google DeepMind, n.d., &quot;Plugin capabilities&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Signed distance field plugin</strong><br>有符号距离场插件</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#plugin-capabilities">Google DeepMind, n.d., &quot;Plugin capabilities&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Declaration in MJCF</strong><br>在 MJCF 中声明</td>
+<td>(context) &quot;First, <strong>a plugin dependency must be declared through <extension><plugin></plugin></extension></strong>.&quot;</td>
+<td>（语境）首先，<strong>插件依赖必须通过 <extension><plugin> 声明</plugin></extension></strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#declaration-in-mjcf">Google DeepMind, n.d., &quot;Declaration in MJCF&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Configuration in MJCF</strong><br>在 MJCF 中配置</td>
+<td>&quot;Plugins can declare <strong>custom attributes that represent specialized configurable parameters</strong>.&quot;</td>
+<td>插件可以声明<strong>表示专门可配置参数的自定义属性</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#configuration-in-mjcf">Google DeepMind, n.d., &quot;Configuration in MJCF&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Plugin state</strong><br>插件状态</td>
+<td>&quot;The term plugin state refers to <strong>the time-dependent state of the plugin instance that consists of floating point values</strong>, while the term plugin data refers to arbitrary data structures consisting of memoized payload that should be considered implementation detail for the plugin’s computation.&quot;</td>
+<td>术语“插件状态”指<strong>插件实例中由浮点数值构成的、随时间变化的状态</strong>，而术语“插件数据”指由记忆化负载构成的任意数据结构，应被视为插件计算的实现细节。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#plugin-state">Google DeepMind, n.d., &quot;Plugin state&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>plugin data</strong><br>插件数据</td>
+<td>&quot;The term plugin state refers to the time-dependent state of the plugin instance that consists of floating point values, while the term plugin data refers to <strong>arbitrary data structures consisting of memoized payload that should be considered implementation detail for the plugin’s computation</strong>.&quot;</td>
+<td>术语“插件状态”指插件实例中由浮点数值构成的、随时间变化的状态，而术语“插件数据”指<strong>由记忆化负载构成的任意数据结构，应被视为插件计算的实现细节</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#plugin-state">Google DeepMind, n.d., &quot;Plugin state&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Actuator states</strong><br>执行器状态</td>
+<td>(context) &quot;When writing stateful actuator plugins, there are <strong>two choices for where to save the actuator state</strong>.&quot;</td>
+<td>（语境）编写有状态的执行器插件时，<strong>执行器状态可以保存在两个地方之一</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#actuator-states">Google DeepMind, n.d., &quot;Actuator states&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Registration</strong><br>注册</td>
+<td>&quot;Plugins must be <strong>registered with MuJoCo before they can be referenced in MJCF models</strong>.&quot;</td>
+<td>插件必须<strong>先向 MuJoCo 注册，才能在 MJCF 模型中被引用</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#registration">Google DeepMind, n.d., &quot;Registration&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>actuator</strong><br>actuator 插件目录</td>
+<td>&quot;The plugins in the actuator/ directory <strong>implement custom actuators, so far only a PID controller</strong>.&quot;</td>
+<td>actuator/ 目录中的插件<strong>实现自定义执行器，目前只有一个 PID 控制器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#actuator">Google DeepMind, n.d., &quot;actuator&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>elasticity</strong><br>elasticity 插件目录</td>
+<td>&quot;The plugins in the elasticity/ directory are <strong>passive forces based on continuum mechanics for 1-dimensional and 2-dimensional bodies</strong>.&quot;</td>
+<td>elasticity/ 目录中的插件是<strong>基于连续介质力学、作用于一维和二维物体的被动力</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#elasticity">Google DeepMind, n.d., &quot;elasticity&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>sensor</strong><br>sensor 插件目录</td>
+<td>&quot;The plugins in the sensor/ directory <strong>implement custom sensors</strong>.&quot;</td>
+<td>sensor/ 目录中的插件<strong>实现自定义传感器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#sensor">Google DeepMind, n.d., &quot;sensor&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>sdf</strong><br>sdf 插件目录</td>
+<td>&quot;The plugins in the sdf/ directory <strong>specify custom shapes in a mesh-free manner, by defining methods computing a signed distance field and its gradient at query points</strong>.&quot;</td>
+<td>sdf/ 目录中的插件<strong>以无网格的方式指定自定义形状，做法是定义在查询点计算有符号距离场及其梯度的方法</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#sdf">Google DeepMind, n.d., &quot;sdf&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>sdf_distance</strong><br>sdf_distance 方法</td>
+<td>&quot;Returns <strong>the signed distance of the query point given in local coordinates</strong>.&quot;</td>
+<td>返回<strong>以局部坐标给出的查询点的有符号距离</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#sdf">Google DeepMind, n.d., &quot;sdf&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>sdf_staticdistance</strong><br>sdf_staticdistance 方法</td>
+<td>&quot;This is <strong>the static version of the previous function, taking config attributes as additional inputs</strong>.&quot;</td>
+<td>这是<strong>前一个函数的静态版本，把配置属性作为额外输入</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#sdf">Google DeepMind, n.d., &quot;sdf&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>sdf_gradient</strong><br>sdf_gradient 方法</td>
+<td>&quot;Computes <strong>the gradient in local coordinates of the SDF at the query point</strong>.&quot;</td>
+<td>计算<strong>SDF 在查询点处的局部坐标梯度</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#sdf">Google DeepMind, n.d., &quot;sdf&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>sdf_aabb</strong><br>sdf_aabb 方法</td>
+<td>&quot;Computes <strong>the axis-aligned bounding box in local coordinates</strong>.&quot;</td>
+<td>计算<strong>局部坐标下的轴对齐包围盒</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#sdf">Google DeepMind, n.d., &quot;sdf&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Decoders</strong><br>解码器</td>
+<td>&quot;Decoder plugins <strong>extend asset loading capabilities beyond MJCF and URDF</strong>.&quot;</td>
+<td>解码器插件<strong>把资源加载能力扩展到 MJCF 和 URDF 之外</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#decoders">Google DeepMind, n.d., &quot;Decoders&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>OBJ decoder</strong><br>OBJ 解码器</td>
+<td>&quot;OBJ decoder (plugin/obj_decoder) – <strong>Wavefront OBJ</strong>.&quot;</td>
+<td>OBJ 解码器（plugin/obj_decoder），对应 <strong>Wavefront OBJ</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#decoders">Google DeepMind, n.d., &quot;Decoders&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>STL decoder</strong><br>STL 解码器</td>
+<td>&quot;STL decoder (plugin/stl_decoder) – <strong>STL</strong>&quot;</td>
+<td>STL 解码器（plugin/stl_decoder），对应 <strong>STL</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#decoders">Google DeepMind, n.d., &quot;Decoders&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>USD decoder</strong><br>USD 解码器</td>
+<td>&quot;USD decoder (plugin/usd_decoder) – <strong>Universal Scene Description</strong>.&quot;</td>
+<td>USD 解码器（plugin/usd_decoder），对应 <strong>Universal Scene Description（通用场景描述）</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#decoders">Google DeepMind, n.d., &quot;Decoders&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Decoder interface</strong><br>解码器接口</td>
+<td>(context) &quot;A decoder is described by <strong>the mjpDecoder struct</strong>, which has the following fields:&quot;</td>
+<td>（语境）解码器由 <strong>mjpDecoder 结构体</strong>描述，它有以下字段：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#decoder-interface">Google DeepMind, n.d., &quot;Decoder interface&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjpDecoder</strong><br>解码器结构体 mjpDecoder</td>
+<td>&quot;A decoder is <strong>described by the mjpDecoder struct</strong>, which has the following fields:&quot;</td>
+<td>解码器<strong>由 mjpDecoder 结构体描述</strong>，它有以下字段：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#decoder-interface">Google DeepMind, n.d., &quot;Decoder interface&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfCanDecode</strong><br>可解码回调类型 mjfCanDecode</td>
+<td>&quot;A callback of type mjfCanDecode that <strong>determines whether the decoder can handle a given resource</strong>.&quot;</td>
+<td>一个 mjfCanDecode 类型的回调，<strong>判断解码器能否处理给定的资源</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#decoder-interface">Google DeepMind, n.d., &quot;Decoder interface&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjfDecode</strong><br>解码回调类型 mjfDecode</td>
+<td>&quot;A callback of type mjfDecode that <strong>performs the actual decoding</strong>.&quot;</td>
+<td>一个 mjfDecode 类型的回调，<strong>执行实际的解码</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#decoder-interface">Google DeepMind, n.d., &quot;Decoder interface&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Encoders</strong><br>编码器</td>
+<td>&quot;Encoder plugins <strong>extend asset serialization and model saving capabilities beyond native formats</strong> (XML, MJB, TXT).&quot;</td>
+<td>编码器插件<strong>把资源序列化和模型保存能力扩展到原生格式之外</strong>（XML、MJB、TXT）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#encoders">Google DeepMind, n.d., &quot;Encoders&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Zip encoder</strong><br>Zip 编码器</td>
+<td>&quot;MuJoCo ships with <strong>a built-in Zip encoder for .mjz archives</strong> (src/xml/mjz/mjz_encoder.cc).&quot;</td>
+<td>MuJoCo 自带<strong>一个用于 .mjz 归档的内置 Zip 编码器</strong>（src/xml/mjz/mjz_encoder.cc）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#encoders">Google DeepMind, n.d., &quot;Encoders&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Encoder interface</strong><br>编码器接口</td>
+<td>(context) &quot;An encoder is described by <strong>the mjpEncoder struct</strong>, which has the following fields:&quot;</td>
+<td>（语境）编码器由 <strong>mjpEncoder 结构体</strong>描述，它有以下字段：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#encoder-interface">Google DeepMind, n.d., &quot;Encoder interface&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjpEncoder</strong><br>编码器结构体 mjpEncoder</td>
+<td>&quot;An encoder is <strong>described by the mjpEncoder struct</strong>, which has the following fields:&quot;</td>
+<td>编码器<strong>由 mjpEncoder 结构体描述</strong>，它有以下字段：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#encoder-interface">Google DeepMind, n.d., &quot;Encoder interface&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjfEncode</strong><br>编码回调类型 mjfEncode</td>
+<td>&quot;A callback of type mjfEncode that <strong>performs the actual serialization</strong>.&quot;</td>
+<td>一个 mjfEncode 类型的回调，<strong>执行实际的序列化</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#encoder-interface">Google DeepMind, n.d., &quot;Encoder interface&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Resource providers</strong><br>资源提供者</td>
+<td>&quot;Resource providers (mjpResourceProvider) <strong>extend MuJoCo to load assets (XML files, meshes, textures, and etc.) that don’t necessarily come from the OS filesystem or the Virtual File System</strong> (mjVFS).&quot;</td>
+<td>资源提供者（mjpResourceProvider）<strong>扩展 MuJoCo，使其能加载不一定来自操作系统文件系统或虚拟文件系统的资源（XML 文件、网格、纹理等）</strong>（mjVFS）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#resource-providers">Google DeepMind, n.d., &quot;Resource providers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>mjResource</strong><br>资源结构体 mjResource</td>
+<td>(context) &quot;These extensions are <strong>handled abstractly in MuJoCo via the mjResource struct</strong>.&quot;</td>
+<td>（语境）这些扩展<strong>在 MuJoCo 中通过 mjResource 结构体以抽象方式处理</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#resource-providers">Google DeepMind, n.d., &quot;Resource providers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Overview</strong><br>概述</td>
+<td>(context) &quot;Creating a new resource provider works by <strong>registering a mjpResourceProvider struct via mjp_registerProvider in a global table</strong>.&quot;</td>
+<td>（语境）创建新的资源提供者的方法是<strong>通过 mjp_registerProvider 把一个 mjpResourceProvider 结构体注册到全局表中</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Resource prefix</strong><br>资源前缀</td>
+<td>&quot;Resources are <strong>identified by prefixes in their name</strong>.&quot;</td>
+<td>资源<strong>通过其名称中的前缀来识别</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Callbacks</strong><br>回调</td>
+<td>&quot;There are <strong>three callbacks that a resource provider is required to implement</strong>: open, read, and close.&quot;</td>
+<td>资源提供者<strong>必须实现三个回调</strong>：open、read 和 close。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Data Pointer</strong><br>数据指针</td>
+<td>&quot;Lastly, there’s <strong>an opaque data pointer for the provider to pass data into the callbacks</strong>.&quot;</td>
+<td>最后，还有<strong>一个不透明的数据指针，供提供者把数据传给各个回调</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>mjfOpenResource</strong><br>打开资源回调类型 mjfOpenResource</td>
+<td>&quot;The open callback takes a single parameter of type mjResource. The name field of the resource should be used to <strong>verify that the resource exists and populate the resource data field with any extra information needed for the resource</strong>.&quot;</td>
+<td>open 回调接受一个 mjResource 类型的参数。应当用资源的 name 字段<strong>验证资源存在，并把该资源所需的任何额外信息填入资源的 data 字段</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>mjfReadResource</strong><br>读取资源回调类型 mjfReadResource</td>
+<td>&quot;The read callback should <strong>point the buffer pointer to the location of where the bytes of the resource can be read and return the number of bytes pointed to in the buffer</strong>.&quot;</td>
+<td>read 回调应当<strong>把 buffer 指针指向可以读取资源字节的位置，并返回 buffer 中所指的字节数</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>mjfCloseResource</strong><br>关闭资源回调类型 mjfCloseResource</td>
+<td>&quot;This callback takes a single parameter of type mjResource, and should be used to <strong>free any memory allocated in the data field in the supplied resource</strong>.&quot;</td>
+<td>这个回调接受一个 mjResource 类型的参数，应当用来<strong>释放所给资源的 data 字段中分配的任何内存</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, item 6</a></td>
+</tr>
+<tr>
+<td><strong>mjfGetResourceDir</strong><br>获取资源目录回调类型 mjfGetResourceDir</td>
+<td>&quot;This callback is optional and is used to <strong>extract the directory from a resource name</strong>.&quot;</td>
+<td>这个回调是可选的，用于<strong>从资源名称中提取目录</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, item 7</a></td>
+</tr>
+<tr>
+<td><strong>mjfResourceModified</strong><br>资源已修改回调类型 mjfResourceModified</td>
+<td>&quot;This callback is optional and is used to <strong>check if an existing opened resource has been modified from its original source</strong>.&quot;</td>
+<td>这个回调是可选的，用于<strong>检查一个已打开的资源相对其原始来源是否已被修改</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, item 8</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Extensions</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/programming/extension.html">https://mujoco.readthedocs.io/en/stable/programming/extension.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

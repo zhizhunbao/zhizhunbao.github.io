@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>8.10 Linux kernel security constraints for Pods and containers | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 8.10 Linux kernel security constraints for Pods and containers: 8.10.1 Security features in the Linux kernel, 8.10.2 Kernel-level security features and privileged containers.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="810-linux-kernel-security-constraints-for-pods-and-containers">8.10 Linux kernel security constraints for Pods and containers</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/security-linux-kernel-security-constraints.png" alt="8.10 Linux kernel security constraints for Pods and containers: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>8.10 Linux kernel security constraints for Pods and containers</strong><br>Pod 和容器的 Linux 内核安全约束</td>
+<td>(context) &quot;Overview of <strong>Linux kernel security modules and constraints</strong> that you can use to <strong>harden your Pods and containers</strong>.&quot;</td>
+<td>（语境）概述 <strong>Linux 内核安全模块与约束</strong>，可用来<strong>加固 Pod 和容器</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/#:%7E:text=Overview%20of%20Linux%20kernel%20security%20modules%20and">The Kubernetes Authors, n.d., &quot;Linux kernel security constraints for Pods and containers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>8.10.1 Security features in the Linux kernel</strong><br>Linux 内核中的安全特性</td>
+<td>&quot;Kubernetes lets you <strong>configure and use Linux kernel features</strong> to <strong>improve isolation</strong> and <strong>harden your containerized workloads</strong>.&quot;</td>
+<td>Kubernetes 让你<strong>配置并使用 Linux 内核特性</strong>，以<strong>增强隔离</strong>并<strong>加固容器化工作负载</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/#:%7E:text=Kubernetes%20lets%20you%20configure%20and%20use%20Linux">The Kubernetes Authors, n.d., &quot;Security features in the Linux kernel&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>capabilities</strong><br>权能</td>
+<td>&quot;<strong>Linux uses <em>capabilities</em></strong> to <strong>divide the available privileges into categories</strong>, so that processes can get the privileges required to perform specific actions <strong>without being granted all privileges</strong>.&quot;</td>
+<td><strong>Linux 使用<em>权能</em>这一机制</strong>，用来<strong>把可用特权划分为若干类别</strong>，使进程只获得执行特定操作所需的特权，而<strong>不被授予全部特权</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/#:%7E:text=Linux%20uses%20%2Acapabilities%2A%20to%20divide%20the%20available">The Kubernetes Authors, n.d., &quot;seccomp&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>seccomp</strong><br>seccomp</td>
+<td>&quot;<strong>seccomp</strong> is <strong>a low-level security configuration</strong> that you should only configure yourself if you require <strong>fine-grained control over Linux syscalls</strong>.&quot;</td>
+<td><strong>seccomp</strong> 是<strong>一种底层安全配置</strong>，只有在你需要<strong>对 Linux 系统调用进行细粒度控制</strong>时才应自行配置。</td>
+<td><a href="https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/#:%7E:text=seccomp%20is%20a%20low-level%20security%20configuration%20that">The Kubernetes Authors, n.d., &quot;Considerations for seccomp&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AppArmor</strong><br>AppArmor</td>
+<td>&quot;<strong>AppArmor</strong> is <strong>a Linux kernel security module</strong> that <strong>supplements the standard Linux user and group based permissions</strong> to <strong>confine programs to a limited set of resources</strong>.&quot;</td>
+<td><strong>AppArmor</strong> 是<strong>一个 Linux 内核安全模块</strong>，它<strong>补充标准的基于用户和组的 Linux 权限</strong>，把<strong>程序限制在有限的资源集合内</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/#:%7E:text=%5BAppArmor%5D%28https%3A%2F%2Fapparmor.net%2F%29%20is%20a%20Linux%20kernel%20security%20module">The Kubernetes Authors, n.d., &quot;AppArmor&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SELinux</strong><br>SELinux</td>
+<td>&quot;<strong>SELinux</strong> is <strong>a Linux kernel security module</strong> that lets you <strong>restrict the access</strong> that <strong>a specific <em>subject</em></strong>, such as a process, has to <strong>the files on your system</strong>.&quot;</td>
+<td><strong>SELinux</strong> 是<strong>一个 Linux 内核安全模块</strong>，让你<strong>限制访问权</strong>，针对<strong>特定<em>主体</em>（例如进程）</strong>，限制其对<strong>系统中文件</strong>的访问。</td>
+<td><a href="https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/#:%7E:text=SELinux%20is%20a%20Linux%20kernel%20security%20module">The Kubernetes Authors, n.d., &quot;SELinux&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>8.10.2 Kernel-level security features and privileged containers</strong><br>内核级安全特性与特权容器</td>
+<td>&quot;Kubernetes lets you specify that <strong>some trusted containers</strong> can <strong>run in <em>privileged</em> mode</strong>.&quot;</td>
+<td>Kubernetes 允许你指定<strong>某些受信任的容器</strong>可以<strong>以<em>特权</em>模式运行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/#:%7E:text=Kubernetes%20lets%20you%20specify%20that%20some%20trusted">The Kubernetes Authors, n.d., &quot;Kernel-level security features and privileged containers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Privileged mode</strong><br>特权模式</td>
+<td>&quot;<strong>Any container in a Pod</strong> can enable <em>Privileged mode</em> if you set the <strong><code>privileged: true</code></strong> field in <strong>the securityContext field</strong> for the container.&quot;</td>
+<td>Pod 中的<strong>任何容器</strong>，只要设置了 <strong><code>privileged: true</code></strong>，位置在容器的 <strong>securityContext 字段</strong>中，就可以启用<em>特权模式</em>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/#:%7E:text=Any%20container%20in%20a%20Pod%20can%20enable">The Kubernetes Authors, n.d., &quot;Privileged containers&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Linux kernel security constraints for Pods and containers</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/">https://kubernetes.io/docs/concepts/security/linux-kernel-security-constraints/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

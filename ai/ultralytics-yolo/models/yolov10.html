@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>3.4 YOLOv10 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Ultralytics YOLO, 3.4 YOLOv10: Architecture, Key Features, Model Variants, Methodology.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="34-yolov10">3.4 YOLOv10</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/yolov10.png" alt="3.4 YOLOv10: its parts from the official menu, each with the entries the menu lists under it, in Ultralytics YOLO."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>3.4 YOLOv10</strong><br>YOLOv10</td>
+<td>&quot;YOLOv10, released in May 2024 and built on the Ultralytics Python package by researchers at Tsinghua University, <strong>introduces a new approach to real-time object detection, addressing both the post-processing and model architecture deficiencies found in previous YOLO versions</strong>.&quot;</td>
+<td>YOLOv10 于 2024 年 5 月发布，由清华大学的研究人员基于 Ultralytics Python 包构建，<strong>提出了一种新的实时目标检测方法，同时解决了以往 YOLO 版本在后处理和模型架构上的不足</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#yolov10-real-time-end-to-end-object-detection">Ultralytics, n.d., &quot;YOLOv10: Real-Time End-to-End Object Detection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Architecture</strong><br>架构</td>
+<td>(context) &quot;The architecture of YOLOv10 <strong>builds upon the strengths of previous YOLO models while introducing several key innovations</strong>.&quot;</td>
+<td>（语境）YOLOv10 的架构<strong>在以往 YOLO 模型优势的基础上，引入了若干关键创新</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#architecture">Ultralytics, n.d., &quot;Architecture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Backbone</strong><br>骨干网络</td>
+<td>&quot;Backbone: <strong>Responsible for feature extraction</strong>, the backbone in YOLOv10 uses an enhanced version of CSPNet (Cross Stage Partial Network) to improve gradient flow and reduce computational redundancy.&quot;</td>
+<td>骨干网络<strong>负责特征提取</strong>，YOLOv10 的骨干网络使用增强版的 CSPNet（跨阶段局部网络），以改善梯度流并减少计算冗余。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#architecture">Ultralytics, n.d., &quot;Architecture&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Neck</strong><br>颈部</td>
+<td>&quot;Neck: The neck is designed <strong>to aggregate features from different scales and passes them to the head</strong>.&quot;</td>
+<td>颈部：颈部用于<strong>聚合来自不同尺度的特征，并把它们传给检测头</strong>。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#architecture">Ultralytics, n.d., &quot;Architecture&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>One-to-Many Head</strong><br>一对多检测头</td>
+<td>&quot;One-to-Many Head: <strong>Generates multiple predictions per object during training</strong> to provide rich supervisory signals and improve learning accuracy.&quot;</td>
+<td>一对多检测头<strong>训练时为每个物体生成多个预测</strong>，以提供丰富的监督信号并提高学习精度。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#architecture">Ultralytics, n.d., &quot;Architecture&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>One-to-One Head</strong><br>一对一检测头</td>
+<td>&quot;One-to-One Head: <strong>Generates a single best prediction per object during inference</strong> to eliminate the need for NMS, thereby reducing latency and improving efficiency.&quot;</td>
+<td>一对一检测头<strong>推理时为每个物体只生成一个最佳预测</strong>，从而无需 NMS，降低延迟并提高效率。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#architecture">Ultralytics, n.d., &quot;Architecture&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Key Features</strong><br>主要特性</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#key-features">Ultralytics, n.d., &quot;Key Features&quot;</a></td>
+</tr>
+<tr>
+<td><strong>NMS-Free Training</strong><br>免 NMS 训练</td>
+<td>&quot;NMS-Free Training: <strong>Utilizes consistent dual assignments to eliminate the need for NMS</strong>, reducing inference latency.&quot;</td>
+<td>免 NMS 训练<strong>利用一致的双重分配来消除对 NMS 的需要</strong>，降低推理延迟。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#key-features">Ultralytics, n.d., &quot;Key Features&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Holistic Model Design</strong><br>整体模型设计</td>
+<td>&quot;Holistic Model Design: <strong>Comprehensive optimization of various components from both efficiency and accuracy perspectives</strong>, including lightweight classification heads, spatial-channel decoupled downsampling, and rank-guided block design.&quot;</td>
+<td>整体模型设计指<strong>从效率和精度两个角度全面优化各个组件</strong>，包括轻量级分类头、空间-通道解耦下采样和秩引导的模块设计。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#key-features">Ultralytics, n.d., &quot;Key Features&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Enhanced Model Capabilities</strong><br>增强的模型能力</td>
+<td>&quot;Enhanced Model Capabilities: <strong>Incorporates large-kernel convolutions and partial self-attention modules</strong> to improve performance without significant computational cost.&quot;</td>
+<td>增强的模型能力指<strong>引入大核卷积和部分自注意力模块</strong>，在不显著增加计算成本的情况下提升性能。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#key-features">Ultralytics, n.d., &quot;Key Features&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Model Variants</strong><br>模型变体</td>
+<td>(context) &quot;YOLOv10 comes in <strong>various model scales to cater to different application needs</strong>:&quot;</td>
+<td>（语境）YOLOv10 提供<strong>多种模型规模，以满足不同的应用需求</strong>：</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#model-variants">Ultralytics, n.d., &quot;Model Variants&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>YOLOv10n</strong><br>YOLOv10n</td>
+<td>&quot;YOLOv10n: <strong>Nano version for extremely resource-constrained environments.</strong>&quot;</td>
+<td>YOLOv10n 是<strong>面向资源极其受限环境的 Nano 版本。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#model-variants">Ultralytics, n.d., &quot;Model Variants&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>YOLOv10s</strong><br>YOLOv10s</td>
+<td>&quot;YOLOv10s: <strong>Small version balancing speed and accuracy.</strong>&quot;</td>
+<td>YOLOv10s 是<strong>兼顾速度与精度的 Small 版本。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#model-variants">Ultralytics, n.d., &quot;Model Variants&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>YOLOv10m</strong><br>YOLOv10m</td>
+<td>&quot;YOLOv10m: <strong>Medium version for general-purpose use.</strong>&quot;</td>
+<td>YOLOv10m 是<strong>用于通用场景的 Medium 版本。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#model-variants">Ultralytics, n.d., &quot;Model Variants&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>YOLOv10b</strong><br>YOLOv10b</td>
+<td>&quot;YOLOv10b: <strong>Balanced version with increased width for higher accuracy.</strong>&quot;</td>
+<td>YOLOv10b 是<strong>加大宽度以提高精度的 Balanced 版本。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#model-variants">Ultralytics, n.d., &quot;Model Variants&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>YOLOv10l</strong><br>YOLOv10l</td>
+<td>&quot;YOLOv10l: <strong>Large version for higher accuracy at the cost of increased computational resources.</strong>&quot;</td>
+<td>YOLOv10l 是<strong>以更多计算资源换取更高精度的 Large 版本。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#model-variants">Ultralytics, n.d., &quot;Model Variants&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>YOLOv10x</strong><br>YOLOv10x</td>
+<td>&quot;YOLOv10x: <strong>Extra-large version for maximum accuracy and performance.</strong>&quot;</td>
+<td>YOLOv10x 是<strong>追求最高精度和性能的 Extra-large 版本。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#model-variants">Ultralytics, n.d., &quot;Model Variants&quot;, item 6</a></td>
+</tr>
+<tr>
+<td><strong>Methodology</strong><br>方法</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#methodology">Ultralytics, n.d., &quot;Methodology&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Consistent Dual Assignments for NMS-Free Training</strong><br>面向免 NMS 训练的一致双重分配</td>
+<td>&quot;YOLOv10 employs dual label assignments, <strong>combining one-to-many and one-to-one strategies during training</strong> to ensure rich supervision and efficient end-to-end deployment.&quot;</td>
+<td>YOLOv10 采用双重标签分配，即<strong>在训练中结合一对多和一对一两种策略</strong>，以确保丰富的监督和高效的端到端部署。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#consistent-dual-assignments-for-nms-free-training">Ultralytics, n.d., &quot;Consistent Dual Assignments for NMS-Free Training&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Holistic Efficiency-Accuracy Driven Model Design</strong><br>效率与精度驱动的整体模型设计</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#holistic-efficiency-accuracy-driven-model-design">Ultralytics, n.d., &quot;Holistic Efficiency- Accuracy Driven Model Design&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Lightweight Classification Head</strong><br>轻量级分类头</td>
+<td>&quot;Lightweight Classification Head: <strong>Reduces the computational overhead of the classification head by using depth-wise separable convolutions.</strong>&quot;</td>
+<td>轻量级分类头<strong>使用深度可分离卷积来减少分类头的计算开销。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#efficiency-enhancements">Ultralytics, n.d., &quot;Efficiency Enhancements&quot;, Efficiency Enhancements, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Spatial-Channel Decoupled Downsampling</strong><br>空间-通道解耦下采样</td>
+<td>&quot;Spatial-Channel Decoupled Downsampling: <strong>Decouples spatial reduction and channel modulation</strong> to minimize information loss and computational cost.&quot;</td>
+<td>空间-通道解耦下采样<strong>把空间缩减与通道调制解耦</strong>，以尽量减少信息损失和计算成本。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#efficiency-enhancements">Ultralytics, n.d., &quot;Efficiency Enhancements&quot;, Efficiency Enhancements, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Rank-Guided Block Design</strong><br>秩引导的模块设计</td>
+<td>&quot;Rank-Guided Block Design: <strong>Adapts block design based on intrinsic stage redundancy</strong>, ensuring optimal parameter utilization.&quot;</td>
+<td>秩引导的模块设计<strong>根据各阶段的内在冗余调整模块设计</strong>，确保参数得到最佳利用。</td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#efficiency-enhancements">Ultralytics, n.d., &quot;Efficiency Enhancements&quot;, Efficiency Enhancements, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Large-Kernel Convolution</strong><br>大核卷积</td>
+<td>&quot;Large-Kernel Convolution: <strong>Enlarges the receptive field to enhance feature extraction capability.</strong>&quot;</td>
+<td>大核卷积<strong>扩大感受野以增强特征提取能力。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#accuracy-enhancements">Ultralytics, n.d., &quot;Accuracy Enhancements&quot;, Accuracy Enhancements, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Partial Self-Attention (PSA)</strong><br>部分自注意力（PSA）</td>
+<td>&quot;Partial Self-Attention (PSA): <strong>Incorporates self-attention modules to improve global representation learning with minimal overhead.</strong>&quot;</td>
+<td>部分自注意力（PSA）的做法是<strong>引入自注意力模块，以极小的开销改进全局表征学习。</strong></td>
+<td><a href="https://docs.ultralytics.com/models/yolov10/#accuracy-enhancements">Ultralytics, n.d., &quot;Accuracy Enhancements&quot;, Accuracy Enhancements, item 2</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Ultralytics. (n.d.). <em>YOLOv10: Real-Time End-to-End Object Detection</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/models/yolov10/">https://docs.ultralytics.com/models/yolov10/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

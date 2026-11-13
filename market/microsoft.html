@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5. Microsoft | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Market &gt; Microsoft: its reports on a timeline, one row per edition, newest first.">
+      <link rel="icon" href="../favicon.svg">
+      <link rel="stylesheet" href="../public/atlas.min.css">
+      <link rel="stylesheet" href="../public/kb.css">
+      <meta name="kb:rel" content="../">
+      <meta name="kb:navrel" content="../toc.html">
+      <meta name="kb:tocrel" content="toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../index.html" aria-label="Peng Wang">
+          <img src="../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="5-microsoft">5. Microsoft</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/microsoft.png" alt="Microsoft: its report series in rows, left to right: Digital Defense Report, Work Trend Index."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Microsoft</strong><br>微软</td>
+<td>&quot;Microsoft's mission is to <strong>empower every person and every organization</strong> on the planet to <strong>achieve more</strong>.&quot;</td>
+<td>微软的使命是<strong>予力全球每一人、每一组织</strong>，<strong>成就不凡</strong>。</td>
+<td><a href="https://www.microsoft.com/en-us/about#:%7E:text=Microsoft%27s%20mission%20is%20to%20empower%20every%20person%20and">Microsoft, n.d., para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Digital Defense Report</strong><br>数字防御报告</td>
+<td>&quot;This report helps organizations decode what is needed to <strong>secure AI and build resilience</strong> across the interconnected systems they depend on.&quot;</td>
+<td>这份报告帮助组织理解在相互关联的系统中<strong>保护 AI 并建立韧性</strong>需要什么。</td>
+<td><a href="https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/#:%7E:text=This%20report%20helps%20organizations%20decode%20what%20is%20needed">Microsoft, 2026b, intro, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Work Trend Index</strong><br>工作趋势指数</td>
+<td>&quot;The Work Trend Index survey was conducted by an <strong>independent research firm</strong>, Edelman Data x Intelligence, among <strong>20,000</strong> full-time employed or self-employed <strong>knowledge workers</strong> who use AI at work across <strong>10 markets</strong> between February 18, 2026, and April 7, 2026.&quot;</td>
+<td>工作趋势指数调查由<strong>独立研究公司</strong> Edelman Data x Intelligence 实施，于 2026 年 2 月 18 日至 4 月 7 日在 <strong>10 个市场</strong>调查了 <strong>20,000 名</strong>在工作中使用 AI 的全职或自雇<strong>知识工作者</strong>。</td>
+<td><a href="https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization#:%7E:text=The%20Work%20Trend%20Index%20survey%20was%20conducted%20by">Microsoft, 2026a, &quot;Work Trend Index Survey&quot; section, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="timeline">Timeline</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Report</th>
+<th>Scope</th>
+<th>Key figures</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2026-10-01</td>
+<td>Digital Defense Report 2026</td>
+<td>&quot;<strong>165+ trillion</strong>&quot; &quot;Security signals processed daily&quot;; data from July 1, 2025 to June 30, 2026</td>
+<td><ul><li>&quot;<strong>63%</strong>&quot; &quot;Of intrusions involved <strong>data theft</strong>&quot;</li><li>&quot;<strong>5.3 hours</strong>&quot; &quot;Average time before <strong>exposed cloud workloads were attacked</strong>&quot;</li><li>&quot;<strong>15.8%</strong>&quot; &quot;Increase year-on-year in <strong>ransom detonations</strong> against enterprises.&quot;</li><li>&quot;<strong>78%</strong>&quot; &quot;Of observed attack techniques against critical infrastructure used <strong>cloud identity abuse</strong>.&quot;</li></ul></td>
+<td><a href="https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/#section-cybercrime">Microsoft, 2026b, &quot;Key figures from the report&quot;, &quot;Cybercrime&quot; and &quot;Resilience&quot; sections</a></td>
+</tr>
+<tr>
+<td>2026-05-05</td>
+<td>Work Trend Index 2026: Agents, human agency, and the opportunity for every organization</td>
+<td>&quot;among <strong>20,000</strong> full-time employed or self-employed knowledge workers who use AI at work across <strong>10 markets</strong>&quot; &quot;between February 18, 2026, and April 7, 2026.&quot;</td>
+<td><ul><li>&quot;The number of <strong>active agents</strong> in the Microsoft 365 ecosystem has <strong>grown 15x year over year</strong>&quot;</li><li>&quot;In software and technology, adoption is broad, accounting for <strong>nearly one in five of all firms using agents</strong>.&quot;</li></ul></td>
+<td><a href="https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization">Microsoft, 2026a, Section III &quot;Redesigning systems and processes&quot;, &quot;AI scales differently by industry&quot; and &quot;Work Trend Index Survey&quot;</a></td>
+</tr>
+<tr>
+<td>2025-10-16</td>
+<td>Digital Defense Report 2025</td>
+<td>Trends from July 2024 through June 2025</td>
+<td><ul><li>&quot;Adversaries are increasingly <strong>attacking the cloud</strong>, with <strong>destructive campaigns up 87%</strong>.&quot;</li><li>&quot;<strong>AI-driven phishing</strong> is now <strong>three times more effective</strong> than traditional campaigns, and over 40% of ransomware attacks have a hybrid component.&quot;</li><li>&quot;<strong>28%</strong> of breaches were initiated through <strong>phishing or social engineering</strong>, 18% were via unpatched web assets, and 12% leveraged exposed remote services.&quot;</li></ul></td>
+<td><a href="https://www.microsoft.com/en-us/security/security-insider/threat-landscape/microsoft-digital-defense-report-2025#Key-themes">Microsoft, 2025b, &quot;Key themes&quot; and &quot;Diversity in initial access&quot; sections</a></td>
+</tr>
+<tr>
+<td>2025-04-23</td>
+<td>Work Trend Index 2025: The year the Frontier Firm is born</td>
+<td>&quot;among <strong>31,000</strong> full-time employed or self-employed knowledge workers across <strong>31 markets</strong>&quot; &quot;between February 6, 2025 and March 24, 2025&quot;</td>
+<td><ul><li>&quot;Nearly half of leaders (<strong>46%</strong>) say their companies are <strong>using agents to fully automate workflows</strong> or processes&quot;</li><li>&quot;<strong>28% of managers</strong> are considering <strong>hiring AI workforce managers</strong> to lead hybrid teams of people and agents&quot;</li><li>&quot;<strong>67% of leaders</strong> are familiar or extremely familiar with agents, compared to just <strong>40% of employees</strong>.&quot;</li></ul></td>
+<td><a href="https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born">Microsoft, 2025a, sections 2 and 3, &quot;The race to be an agent boss&quot; and &quot;Survey Methodology&quot;</a></td>
+</tr>
+<tr>
+<td>2024-10-15</td>
+<td>Digital Defense Report 2024</td>
+<td>&quot;<strong>78 trillion</strong> security signals per day inform our insights&quot;</td>
+<td><ul><li>&quot;our customers face <strong>more than 600 million</strong> cybercriminal and nation-state attacks every day&quot;</li><li>&quot;Microsoft Threat Intelligence now tracks <strong>more than 1,500 unique threat groups</strong>&quot;</li><li>&quot;Microsoft observed a <strong>2.75x year-over-year increase</strong> in human-operated <strong>ransomware</strong>-linked encounters&quot;</li><li>&quot;<strong>password-based attacks</strong> make up <strong>over 99%</strong> of the 600 million daily identity attacks.&quot;</li></ul></td>
+<td><a href="https://www.microsoft.com/en-us/security/security-insider/threat-landscape/microsoft-digital-defense-report-2024#Ransomware">Microsoft, 2024, &quot;Overview&quot;, &quot;Microsoft's unique vantage point&quot;, &quot;Ransomware&quot; and &quot;Identity and social engineering&quot; sections</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Microsoft. (2024, October 15). <em>Microsoft Digital Defense Report 2024</em>. Microsoft Security Insider. <a href="https://www.microsoft.com/en-us/security/security-insider/threat-landscape/microsoft-digital-defense-report-2024">https://www.microsoft.com/en-us/security/security-insider/threat-landscape/microsoft-digital-defense-report-2024</a></p>
+<p>Microsoft. (2025a, April 23). <em>2025: The year the Frontier Firm is born</em> (Work Trend Index Annual Report). Microsoft WorkLab. <a href="https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born">https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born</a></p>
+<p>Microsoft. (2025b, October 16). <em>Microsoft Digital Defense Report 2025</em>. Microsoft Security Insider. <a href="https://www.microsoft.com/en-us/security/security-insider/threat-landscape/microsoft-digital-defense-report-2025">https://www.microsoft.com/en-us/security/security-insider/threat-landscape/microsoft-digital-defense-report-2025</a></p>
+<p>Microsoft. (2026a, May 5). <em>Agents, human agency, and the opportunity for every organization</em> (Work Trend Index Annual Report). Microsoft WorkLab. <a href="https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization">https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization</a></p>
+<p>Microsoft. (2026b, October 1). <em>Microsoft Digital Defense Report 2026</em>. <a href="https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/">https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/</a></p>
+<p>Microsoft. (n.d.). <em>About Microsoft</em>. Retrieved November 3, 2026, from <a href="https://www.microsoft.com/en-us/about">https://www.microsoft.com/en-us/about</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 19:59:40-05:00">11/03/2026 19:59:40</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

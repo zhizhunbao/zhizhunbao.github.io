@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.4 Functions | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Next.js, 2. API Reference: 2.4 Functions, 44 pages; skeleton, definitions pending.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="24-functions">2.4 Functions</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.4 Functions</strong><br>函数</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions">Vercel, n.d., &quot;Functions&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-1-after.html">2.4.1 after</a></strong><br>after</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/after">Vercel, n.d., &quot;after&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-2-cachelife.html">2.4.2 cacheLife</a></strong><br>cacheLife</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/cacheLife">Vercel, n.d., &quot;cacheLife&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-3-cachetag.html">2.4.3 cacheTag</a></strong><br>cacheTag</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/cacheTag">Vercel, n.d., &quot;cacheTag&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-4-catcherror.html">2.4.4 catchError</a></strong><br>catchError</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/catchError">Vercel, n.d., &quot;catchError&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-5-connection.html">2.4.5 connection</a></strong><br>connection</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/connection">Vercel, n.d., &quot;connection&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-6-cookies.html">2.4.6 cookies</a></strong><br>cookies</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/cookies">Vercel, n.d., &quot;cookies&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-7-draftmode.html">2.4.7 draftMode</a></strong><br>draftMode</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/draft-mode">Vercel, n.d., &quot;draftMode&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-8-fetch.html">2.4.8 fetch</a></strong><br>fetch</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/fetch">Vercel, n.d., &quot;fetch&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-9-forbidden.html">2.4.9 forbidden</a></strong><br>forbidden</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/forbidden">Vercel, n.d., &quot;forbidden&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-10-generateimagemetadata.html">2.4.10 generateImageMetadata</a></strong><br>generateImageMetadata</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/generate-image-metadata">Vercel, n.d., &quot;generateImageMetadata&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-11-generatemetadata.html">2.4.11 generateMetadata</a></strong><br>generateMetadata</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/generate-metadata">Vercel, n.d., &quot;generateMetadata&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-12-generatesitemaps.html">2.4.12 generateSitemaps</a></strong><br>generateSitemaps</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/generate-sitemaps">Vercel, n.d., &quot;generateSitemaps&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-13-generatestaticparams.html">2.4.13 generateStaticParams</a></strong><br>generateStaticParams</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/generate-static-params">Vercel, n.d., &quot;generateStaticParams&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-14-generateviewport.html">2.4.14 generateViewport</a></strong><br>generateViewport</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/generate-viewport">Vercel, n.d., &quot;generateViewport&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-15-headers.html">2.4.15 headers</a></strong><br>headers</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/headers">Vercel, n.d., &quot;headers&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-16-imageresponse.html">2.4.16 ImageResponse</a></strong><br>ImageResponse</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/image-response">Vercel, n.d., &quot;ImageResponse&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-17-io.html">2.4.17 io</a></strong><br>io</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/io">Vercel, n.d., &quot;io&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-18-navigation.html">2.4.18 navigation</a></strong><br>导航函数</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/navigation">Vercel, n.d., &quot;navigation&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-19-nextrequest.html">2.4.19 NextRequest</a></strong><br>NextRequest</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/next-request">Vercel, n.d., &quot;NextRequest&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-20-nextresponse.html">2.4.20 NextResponse</a></strong><br>NextResponse</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/next-response">Vercel, n.d., &quot;NextResponse&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-21-root-params.html">2.4.21 root-params</a></strong><br>root-params</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/next-root-params">Vercel, n.d., &quot;root-params&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-22-notfound.html">2.4.22 notFound</a></strong><br>notFound</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/not-found">Vercel, n.d., &quot;notFound&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-23-permanentredirect.html">2.4.23 permanentRedirect</a></strong><br>permanentRedirect</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/permanentRedirect">Vercel, n.d., &quot;permanentRedirect&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-24-prefetch.html">2.4.24 prefetch</a></strong><br>prefetch</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/prefetch">Vercel, n.d., &quot;prefetch&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-25-redirect.html">2.4.25 redirect</a></strong><br>redirect</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/redirect">Vercel, n.d., &quot;redirect&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-26-refresh.html">2.4.26 refresh</a></strong><br>refresh</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/refresh">Vercel, n.d., &quot;refresh&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-27-revalidatepath.html">2.4.27 revalidatePath</a></strong><br>revalidatePath</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/revalidatePath">Vercel, n.d., &quot;revalidatePath&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-28-revalidatetag.html">2.4.28 revalidateTag</a></strong><br>revalidateTag</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/revalidateTag">Vercel, n.d., &quot;revalidateTag&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-29-unauthorized.html">2.4.29 unauthorized</a></strong><br>unauthorized</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/unauthorized">Vercel, n.d., &quot;unauthorized&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-30-unstable-cache.html">2.4.30 unstable_cache</a></strong><br>unstable_cache</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/unstable_cache">Vercel, n.d., &quot;unstable_cache&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-31-unstable-nostore.html">2.4.31 unstable_noStore</a></strong><br>unstable_noStore</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/unstable_noStore">Vercel, n.d., &quot;unstable_noStore&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-32-unstable-rethrow.html">2.4.32 unstable_rethrow</a></strong><br>unstable_rethrow</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/unstable_rethrow">Vercel, n.d., &quot;unstable_rethrow&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-33-updatetag.html">2.4.33 updateTag</a></strong><br>updateTag</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/updateTag">Vercel, n.d., &quot;updateTag&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-34-uselinkstatus.html">2.4.34 useLinkStatus</a></strong><br>useLinkStatus</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-link-status">Vercel, n.d., &quot;useLinkStatus&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-35-useoffline.html">2.4.35 useOffline</a></strong><br>useOffline</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-offline">Vercel, n.d., &quot;useOffline&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-36-useparams.html">2.4.36 useParams</a></strong><br>useParams</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-params">Vercel, n.d., &quot;useParams&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-37-usepathname.html">2.4.37 usePathname</a></strong><br>usePathname</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-pathname">Vercel, n.d., &quot;usePathname&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-38-usereportwebvitals.html">2.4.38 useReportWebVitals</a></strong><br>useReportWebVitals</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-report-web-vitals">Vercel, n.d., &quot;useReportWebVitals&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-39-userouter.html">2.4.39 useRouter</a></strong><br>useRouter</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-router">Vercel, n.d., &quot;useRouter&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-40-usesearchparams.html">2.4.40 useSearchParams</a></strong><br>useSearchParams</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-search-params">Vercel, n.d., &quot;useSearchParams&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-41-useselectedlayoutsegment.html">2.4.41 useSelectedLayoutSegment</a></strong><br>useSelectedLayoutSegment</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-selected-layout-segment">Vercel, n.d., &quot;useSelectedLayoutSegment&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-42-useselectedlayoutsegments.html">2.4.42 useSelectedLayoutSegments</a></strong><br>useSelectedLayoutSegments</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-selected-layout-segments">Vercel, n.d., &quot;useSelectedLayoutSegments&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-43-useserverinsertedhtml.html">2.4.43 useServerInsertedHTML</a></strong><br>useServerInsertedHTML</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/use-server-inserted-html">Vercel, n.d., &quot;useServerInsertedHTML&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-4-44-useragent.html">2.4.44 userAgent</a></strong><br>userAgent</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nextjs.org/docs/app/api-reference/functions/userAgent">Vercel, n.d., &quot;userAgent&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Vercel. (n.d.). <em>Next.js Docs</em> (Version 16.4.5). Retrieved November 7, 2026, from <a href="https://nextjs.org/docs">https://nextjs.org/docs</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-07 18:37:03-05:00">11/07/2026 18:37:03</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

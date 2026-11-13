@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.5 Collision detection | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 2.5 Collision detection: Selection, Checking.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="25-collision-detection">2.5 Collision detection</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/collision-detection.png" alt="2.5 Collision detection: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.5 Collision detection</strong><br>碰撞检测</td>
+<td>(context) &quot;Collision detection <strong>operates on geoms, which are geometric entities rigidly attached to the underlying bodies</strong>.&quot;</td>
+<td>（语境）碰撞检测<strong>作用于 geom，即刚性附着在底层刚体上的几何实体</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#collision-detection">Google DeepMind, n.d., &quot;Collision detection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Selection</strong><br>选择</td>
+<td>&quot;MuJoCo has <strong>flexible mechanisms for deciding which geom pairs are checked in detail</strong>.&quot;</td>
+<td>MuJoCo 有<strong>灵活的机制来决定哪些 geom 对要做详细检查</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#selection">Google DeepMind, n.d., &quot;Selection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Generation</strong><br>生成</td>
+<td>&quot;First we <strong>generate a list of candidate geom pairs by merging from two sources</strong>: pairs of bodies that might contain colliding geoms and the explicit list of geom pairs defined with the pair element in MJCF.&quot;</td>
+<td>首先，我们<strong>合并两个来源，生成候选 geom 对列表</strong>：可能包含碰撞 geom 的刚体对，以及用 MJCF 中 pair 元素定义的显式 geom 对列表。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#selection">Google DeepMind, n.d., &quot;Selection&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Broad-phase collision detection</strong><br>粗阶段碰撞检测</td>
+<td>&quot;The body pairs are generated via <strong>broad-phase collision detection based on a modified sweep-and-prune algorithm</strong>.&quot;</td>
+<td>刚体对通过<strong>基于改进的扫掠剪枝算法的粗阶段碰撞检测</strong>生成。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#selection">Google DeepMind, n.d., &quot;Selection&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Mid-phase collision detection</strong><br>中阶段碰撞检测</td>
+<td>&quot;Then, for each body pair, <strong>mid-phase collision detection is performed using a static bounding volume hierarchy (a BVH binary tree) of axis-aligned bounding boxes (AABB)</strong>.&quot;</td>
+<td>然后，对每个刚体对，<strong>用由轴对齐包围盒（AABB）构成的静态包围体层次结构（BVH 二叉树）进行中阶段碰撞检测</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#selection">Google DeepMind, n.d., &quot;Selection&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Filtering</strong><br>过滤</td>
+<td>&quot;Next we <strong>apply four filters to the list generated in the previous step</strong>.&quot;</td>
+<td>接下来<strong>对上一步生成的列表应用四个过滤器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#selection">Google DeepMind, n.d., &quot;Selection&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Checking</strong><br>检查</td>
+<td>&quot;Detailed collision checking, also known as <strong>near-phase or narrow-phase collision detection</strong>, is performed by functions that depend on the geom types in the pair.&quot;</td>
+<td>详细的碰撞检查，也称为<strong>近阶段或窄阶段碰撞检测</strong>，由依赖于 geom 对类型的函数完成。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#checking">Google DeepMind, n.d., &quot;Checking&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Convex collisions</strong><br>凸碰撞</td>
+<td>&quot;All collisions involving pairs of geoms that do not have an analytic collider (e.g., meshes), <strong>are handled by one of two general-purpose convex collision detection (CCD) pipelines</strong>:&quot;</td>
+<td>所有涉及没有解析碰撞器的 geom 对（例如网格）的碰撞，<strong>由两条通用凸碰撞检测（CCD）流水线之一处理</strong>：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#convex-collisions">Google DeepMind, n.d., &quot;Convex collisions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>native pipeline</strong><br>原生流水线</td>
+<td>&quot;The native CCD pipeline (“nativeccd”) is <strong>implemented natively in MuJoCo, based on the Gilbert-Johnson-Keerthi and Expanding Polytope algorithms</strong> (GJK / EPA).&quot;</td>
+<td>原生 CCD 流水线（“nativeccd”）<strong>在 MuJoCo 中原生实现，基于 Gilbert-Johnson-Keerthi 算法和扩展多胞体算法</strong>（GJK / EPA）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#convex-collisions">Google DeepMind, n.d., &quot;Convex collisions&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>libccd pipeline</strong><br>libccd 流水线</td>
+<td>&quot;This legacy pipeline is <strong>based on the libccd library, and uses Minkowski Portal Refinement</strong> (MPR).&quot;</td>
+<td>这条旧版流水线<strong>基于 libccd 库，使用闵可夫斯基入口细化</strong>（MPR）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#convex-collisions">Google DeepMind, n.d., &quot;Convex collisions&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Multiple contacts</strong><br>多接触点</td>
+<td>&quot;Both of MuJoCo’s CCD pipelines <strong>can return multiple points per contacting pair</strong> (“multiccd”).&quot;</td>
+<td>MuJoCo 的两条 CCD 流水线都<strong>能为每个接触对返回多个点</strong>（“multiccd”）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#multiple-contacts">Google DeepMind, n.d., &quot;Multiple contacts&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>multi-run pipeline</strong><br>多次运行流水线</td>
+<td>&quot;Multiple contact points are found <strong>by rotating the two geoms by ±1e-3 radians around the tangential axes and re-running the collision routine</strong>.&quot;</td>
+<td>多个接触点的求法是<strong>把两个 geom 绕切向轴旋转 ±1e-3 弧度，然后重新运行碰撞例程</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#multiple-contacts">Google DeepMind, n.d., &quot;Multiple contacts&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>single-shot pipeline</strong><br>单次流水线</td>
+<td>&quot;The single-shot pipeline is <strong>used in conjunction with the native CCD pipeline</strong>, i.e., when the nativeccd flag is enabled.&quot;</td>
+<td>单次流水线<strong>与原生 CCD 流水线配合使用</strong>，即在启用 nativeccd 标志时。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#multiple-contacts">Google DeepMind, n.d., &quot;Multiple contacts&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Geom distance</strong><br>geom 距离</td>
+<td>(context) &quot;The narrow-phase collision functions described above <strong>drive the mj_geomDistance function and associated collision sensors</strong>.&quot;</td>
+<td>（语境）上面介绍的窄阶段碰撞函数<strong>驱动 mj_geomDistance 函数及相关的碰撞传感器</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#geom-distance">Google DeepMind, n.d., &quot;Geom distance&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Convex decomposition</strong><br>凸分解</td>
+<td>&quot;In order to model a non-convex object other than a height field, <strong>the user must decompose it into a union of convex geoms</strong> (which can be primitive shapes or meshes) and attach them to the same body.&quot;</td>
+<td>要建模高度场以外的非凸物体，<strong>用户必须把它分解为若干凸 geom 的并集</strong>（可以是基本形状或网格），并把它们附着到同一个刚体上。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#convex-decomposition">Google DeepMind, n.d., &quot;Convex decomposition&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Pair-wise colliders</strong><br>成对碰撞器</td>
+<td>(context) &quot;The table below <strong>provides information about the colliders used for different geom pairs</strong>.&quot;</td>
+<td>（语境）下表<strong>给出不同 geom 对所用碰撞器的信息</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#pair-wise-colliders">Google DeepMind, n.d., &quot;Pair-wise colliders&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Computation</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/computation/index.html">https://mujoco.readthedocs.io/en/stable/computation/index.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

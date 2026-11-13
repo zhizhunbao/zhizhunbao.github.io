@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>11. Searching | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Dictionary of Algorithms and Data Structures, 11. Searching: 226 entries.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="11-searching">11. Searching</h1>
+
+<p>Sources: <a href="https://xlinux.nist.gov/dads/termsArea.html#search">Dictionary of Algorithms and Data Structures, Index by Area: Searching</a>.</p>
+<p>The entries the source lists in this area, in its alphabetical order, each with its type and a link to its definition (226: 96 algorithms, 71 data structures, 17 classic problems, 4 algorithmic techniques, 38 definitions). An entry can belong to several areas.</p>
+<ul>
+<li><a href="https://xlinux.nist.gov/dads/HTML/adaptkdtree.html">adaptive k-d tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/ahoCorasick.html">Aho-Corasick</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/alphaskipsr.html">Alpha Skip Search algorithm</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/apostolicocr.html">Apostolico-Crochemore</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/apostolicogi.html">Apostolico-Giancarlo algorithm</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stringMatchwError.html">approximate string matching</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/arraysearch.html">array search</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dictionary.html">association list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bangfile.html">BANG file</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bdtree.html">BD-tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/binarySearch.html">binary search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/block.html">block</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/blockAddressingIndex.html">block addressing index</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/jumpsearch.html">block search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bloomFilter.html">Bloom filter</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/BondSeqSearch.html">Bond Sequential Search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/border.html">border</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/boyermoore.html">Boyer-Moore</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/boyerMooreHorspool.html">Boyer-Moore-Horspool</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/branchNbound.html">branch and bound</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bruteForceStringSearch.html">brute force string search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bruteForceStrSrchwMismatch.html">brute force string search with mismatches</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bsptree.html">BSP-tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bucketarray.html">bucket array</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/buddytree.html">buddy tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bvtree.html">BV-tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/calendarQueue.html">calendar queue</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/candidate.html">candidate consistency testing</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/candidateVerification.html">candidate verification</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/caverphone.html">Caverphone</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/celltree.html">cell tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/chaining.html">chaining</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/clustering.html">clustering</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/clusteringFree.html">clustering free</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/coalescedChaining.html">coalesced chaining</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/collision.html">collision</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/collisionres.html">collision resolution scheme</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/colussi.html">Colussi</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/CommentzWalter.html">Commentz-Walter</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/cuckooHashing.html">cuckoo hashing</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dadjacent.html">D-adjacent</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/determFinitAutSrch.html">deterministic finite automata string search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dichotomicSearch.html">dichotomic search</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dictionary.html">dictionary</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/directChaining.html">direct chaining</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dontcare.html">don't care</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/doublehashng.html">double hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dynamicHashing.html">dynamic hashing</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stringMatching.html">exact string matching</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/excell.html">EXCELL</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/exhaustiveSearch.html">exhaustive search</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/extendkdtree.html">extended k-d tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/extendibleHashing.html">extendible hashing</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/separateChaining.html">external chaining</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/externalindx.html">external index</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/interpolationSearch.html">extrapolation search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/extremal.html">extremal</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/substring.html">factor</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/fathoming.html">fathoming</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/fibonaccianSearch.html">Fibonaccian search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/find.html">Find</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/selectkth.html">find k th least element</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/forwardIndex.html">forward index</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/frequencyCountHueristic.html">frequency count heuristic</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/fullInvertedIndex.html">full inverted index</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/galilgiancar.html">Galil-Giancarlo</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/galilseifers.html">Galil-Seiferas</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/gridfile.html">grid file</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hash.html">hash</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hash.html">hash function</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hashheap.html">hash heap</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hashtab.html">hash table</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hashtabdelet.html">hash table delete</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hbtree.html">hB-tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/longestCommonSubsequence.html">heaviest common subsequence</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/boyerMooreHorspool.html">Horspool</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/invertibleBloomTable.html">IBLT</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linearHashing.html">incremental hashing</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/indexfile.html">index file</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/interpolationSearch.html">interpolation search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/interpsequen.html">interpolation-sequential search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/inverseSuffixArray.html">inverse suffix array</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/inversionList.html">inversion list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/invertedFileIndex.html">inverted file index</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/invertedIndex.html">inverted index</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/invertibleBloomTable.html">invertible Bloom lookup table</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/jaroWinkler.html">Jaro-Winkler</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/jumpList.html">jump list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/jumpsearch.html">jump search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/karpRabin.html">Karp-Rabin</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/kdbtree.html">k-d-B-tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/kdtree.html">k-d tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/knuthMorrisPratt.html">KMP</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/kmpskipsrch.html">KmpSkip Search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/knuthMorrisPratt.html">Knuth-Morris-Pratt algorithm</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/selectkth.html">k th smallest element</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/lcfsHashing.html">LCFS hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/LCS.html">LCS</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/lexicgrphcl.html">lexicographical order</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linearhash.html">linear hash</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linearHashing.html">linear hashing</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linearprobng.html">linear probing</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linearquadtr.html">linear quadtree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linearSearch.html">linear search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/loadfactor.html">load factor</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/localalgnmnt.html">local alignment</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/localitySensitiveHashing.html">locality-sensitive hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/longestCommonSubsequence.html">longest common subsequence</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/longestCommonSubstring.html">longest common substring</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dictionary.html">map</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/maximalshift.html">Maximal Shift</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/metaheuristic.html">metaheuristic</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/metaphone.html">metaphone</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/minimalPerfectHash.html">minimal perfect hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/minimax.html">minimax</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/modifind.html">MODIFIND</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/morrispratt.html">Morris-Pratt algorithm</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/movefront.html">move-to-front heuristic</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/movetoroot.html">move-to-root heuristic</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/multilaygrd.html">multilayer grid file</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/multiplicationMethod.html">multiplication method</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/multiwaySearchTree.html">multiway search tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bruteForceStringSearch.html">naive string search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/notsonaive.html">Not So Naive</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/nysiis.html">NYSIIS</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/occurrence.html">occurrence</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/octree.html">octree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/offset.html">offset</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/openAddressing.html">open addressing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/perfecthash.html">optimal hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/optimalMismatch.html">optimal mismatch</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/orderedarry.html">ordered array</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linearhash.html">order-preserving hash</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/orderPreservMinPerfectHash.html">order-preserving minimal perfect hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/orthogonalLists.html">orthogonal lists</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/pointAccessMethod.html">PAM</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/pattern.html">pattern</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/patternelmnt.html">pattern element</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/pearsonshash.html">Pearson's hash</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/perfecthash.html">perfect hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/phoneticCoding.html">phonetic coding</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/plophashing.html">PLOP-hashing</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/pointAccessMethod.html">point access method</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/polychotomy.html">polychotomy</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/prefix.html">prefix</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/primaryClustering.html">primary clustering</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/probesequenc.html">probe sequence</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dictionary.html">property list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/quadraticprb.html">quadratic probing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/quadtree.html">quadtree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/quicksearch.html">quick search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/karpRabin.html">Rabin-Karp</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/raita.html">Raita</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/randomSearch.html">random search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/rank.html">rank</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/ratcliffObershelp.html">Ratcliff/Obershelp pattern recognition</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/doublehashng.html">rehashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/reservoirSampling.html">reservoir sampling</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/reverseColus.html">Reverse Colussi</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/reversefactr.html">Reverse Factor</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/rfile.html">R-file</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/robinHoodHashing.html">Robin Hood hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/rplustree.html">R + -tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/spatialAccessMethod.html">SAM</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hashtab.html">scatter storage</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/search.html">search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/secantSearch.html">secant search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/secondaryClustering.html">secondary clustering</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/segment.html">segment</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/select.html">Select</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/selectAndPartition.html">select and partition</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/selectkth.html">selection problem</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/selectkth.html">select k th element</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/selectmode.html">select mode</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/selfOrganizingList.html">self-organizing list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/transposeSeqSearch.html">self-organizing sequential search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/separateChaining.html">separate chaining</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linearSearch.html">sequential search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/shiftOr.html">Shift-Or</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/shortestCommonSuperseq.html">shortest common supersequence</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/shortestCommonSuperstring.html">shortest common superstring</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/simonsAlgo.html">Simon's algorithm</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/simpleUniformHashing.html">simple uniform hashing</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/simulatedAnnealing.html">simulated annealing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/skiplist.html">skip list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/skipSearch.html">skip search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/smithAlgorithm.html">Smith algorithm</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/smithWaterman.html">Smith-Waterman algorithm</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/sortedarray.html">sorted array</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/sortedlist.html">sorted list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/SSTable.html">sorted-string table</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/soundex.html">soundex</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/spaceOrderingMethod.html">space ordering method</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/sparsity.html">sparsity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/spatialAccessMethod.html">spatial access method</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/spiralStorage.html">spiral storage</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/SSTable.html">SSTable</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stringMatching.html">string matching</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stringMatchOrdAlphabet.html">string matching on ordered alphabets</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stringMatchwError.html">string matching with errors</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stringMatchwMismatch.html">string matching with mismatches</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stringMatching.html">string searching</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/strsrch.html">strsrch</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/subsequence.html">subsequence</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/substring.html">substring</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/suffix.html">suffix</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/suffixarray.html">suffix array</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/tabulationHashing.html">tabulation hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/ternarySearchTree.html">ternary search tree</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stringMatching.html">text searching</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/transposeSeqSearch.html">transpose sequential search</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/ternarySearchTree.html">TST</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/turboBM.html">Turbo-BM</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/turboRevFact.html">Turbo Reverse Factor</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/twingridfl.html">twin grid file</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/twistedTabulationHashing.html">twisted tabulation hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/twoChoiceHashing.html">2-choice hashing</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/twoLeftHashing.html">2-left hashing</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/twolevgrid.html">two-level grid file</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/twoWay.html">Two Way algorithm</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/uniformhashn.html">uniform hashing</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/universalhsh.html">universal hashing</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/weakheap.html">weak-heap</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/window.html">window</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/worstCaseMinimumAccess.html">worst-case minimum access</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/zhuTakaoka.html">Zhu-Takaoka</a> (algorithm)</li>
+</ul>
+<p>Not written yet.</p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-25 03:38:24-04:00">10/25/2026 03:38:24</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>
