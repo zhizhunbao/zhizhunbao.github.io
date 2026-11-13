@@ -3,6 +3,10 @@ items:
   href: index.md
 - name: "Learning"
   items:
+  - name: "2026"
+    items:
+    - name: "The Full Stack Midterm Project"
+      href: learning/2026/full-stack-midterm-project.md
   - name: "2025"
     items:
     - name: "The AI Course Exam Crisis"
@@ -15,6 +19,10 @@ items:
       href: projects/2025/city-of-ottawa-ai-chatbot.md
 - name: "Interview"
   items:
+  - name: "2026"
+    items:
+    - name: "The Full Stack Midterm Project"
+      href: interview/2026/full-stack-midterm-project.md
   - name: "2025"
     items:
     - name: "The AI Course Exam Crisis"
