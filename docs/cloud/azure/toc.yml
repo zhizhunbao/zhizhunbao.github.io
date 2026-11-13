@@ -111,19 +111,21 @@ items:
 - name: "11. Analytics"
   href: analytics/index.md
   items:
-  - name: "11.1 Data Storage"
+  - name: "11.1 Data Sources"
+    href: analytics/data-sources.md
+  - name: "11.2 Data Storage"
     href: analytics/data-storage.md
-  - name: "11.2 Batch Processing"
+  - name: "11.3 Batch Processing"
     href: analytics/batch-processing.md
-  - name: "11.3 Real-Time Message Ingestion"
+  - name: "11.4 Real-Time Message Ingestion"
     href: analytics/real-time-message-ingestion.md
-  - name: "11.4 Stream Processing"
+  - name: "11.5 Stream Processing"
     href: analytics/stream-processing.md
-  - name: "11.5 Analytical Data Store"
+  - name: "11.6 Analytical Data Store"
     href: analytics/analytical-data-store.md
-  - name: "11.6 Analytics and Reporting"
+  - name: "11.7 Analytics and Reporting"
     href: analytics/analytics-and-reporting.md
-  - name: "11.7 Orchestration"
+  - name: "11.8 Orchestration"
     href: analytics/orchestration.md
 - name: "12. Internet of Things"
   href: internet-of-things/index.md

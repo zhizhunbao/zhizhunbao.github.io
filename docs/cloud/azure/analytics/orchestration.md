@@ -1,10 +1,10 @@
 ---
-title: "11.7 Orchestration"
-description: "Microsoft Azure, 11.7 Orchestration: Azure Data Factory, Data Factory in Microsoft Fabric, Apache Oozie, Apache Sqoop."
+title: "11.8 Orchestration"
+description: "Microsoft Azure, 11.8 Orchestration: Azure Data Factory, Data Factory in Microsoft Fabric, Apache Oozie, Apache Sqoop."
 ms.date: 2026-10-27
 ---
 
-# 11.7 Orchestration
+# 11.8 Orchestration
 
 ## Classification
 
