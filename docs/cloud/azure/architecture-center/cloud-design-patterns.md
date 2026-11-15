@@ -1,6 +1,6 @@
 ---
 title: "27.3 Cloud Design Patterns"
-description: "Microsoft Azure, 27.3 Cloud design patterns: Cache-Aside, Circuit Breaker, Competing Consumers, Event Sourcing, Gateway Aggregation, Gateway Offloading, Gateway Routing, Publisher-Subscriber, Queue-Based Load Leveling, Retry, Sharding, Strangler Fig."
+description: "Microsoft Azure, 27.3 Cloud design patterns: Cache-Aside, Circuit Breaker, Competing Consumers, Event Sourcing, Gateway Aggregation, Gateway Offloading, Gateway Routing, Health Endpoint Monitoring, Publisher-Subscriber, Queue-Based Load Leveling, Retry, Sharding, Strangler Fig."
 ms.date: 2026-10-27
 ---
 
@@ -8,7 +8,7 @@ ms.date: 2026-10-27
 
 ## Classification
 
-![Cloud design patterns, 12 terms from Cloud design patterns, in its order: Cache-Aside, Circuit Breaker, Competing Consumers, Event Sourcing, Gateway Aggregation, Gateway Offloading, Gateway Routing, Publisher-Subscriber, Queue-Based Load Leveling, Retry, Sharding, Strangler Fig.](media/cloud-design-patterns.png)
+![Cloud design patterns, 13 terms from Cloud design patterns, in its order: Cache-Aside, Circuit Breaker, Competing Consumers, Event Sourcing, Gateway Aggregation, Gateway Offloading, Gateway Routing, Health Endpoint Monitoring, Publisher-Subscriber, Queue-Based Load Leveling, Retry, Sharding, Strangler Fig.](media/cloud-design-patterns.png)
 
 ## Glossary
 
@@ -21,6 +21,7 @@ ms.date: 2026-10-27
 | **Gateway Aggregation**<br>网关聚合 | "Use a **gateway** to **aggregate multiple individual requests into a single request**." | 使用**网关**，**把多个单独的请求聚合为一个请求**。 | [Microsoft, 2026, "Catalog of patterns" table, "Gateway Aggregation" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Use%20a%20gateway%20to%20aggregate%20multiple%20individual%20requests) |
 | **Gateway Offloading**<br>网关卸载 | "**Offload shared or specialized service functionality** to a **gateway proxy**." | **把共享或专用的服务功能卸载**到**网关代理**。 | [Microsoft, 2026, "Catalog of patterns" table, "Gateway Offloading" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Offload%20shared%20or%20specialized%20service%20functionality) |
 | **Gateway Routing**<br>网关路由 | "**Route requests to multiple services** by using a **single endpoint**." | **把请求路由到多个服务**，使用的是**单个终结点**。 | [Microsoft, 2026, "Catalog of patterns" table, "Gateway Routing" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Route%20requests%20to%20multiple%20services%20by%20using%20a%20single%20endpoint) |
+| **Health Endpoint Monitoring**<br>健康终结点监视 | "Implement **functional checks in an application** that external tools can access through **exposed endpoints at regular intervals**." | 实现**应用程序中的功能检查**，让外部工具能够通过**公开的终结点定期**访问这些检查。 | [Microsoft, 2026, "Catalog of patterns" table, "Health Endpoint Monitoring" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Implement%20functional%20checks%20in%20an%20application%20that%20external%20tools) |
 | **Publisher-Subscriber**<br>发布服务器-订阅服务器 | "Enable an application to **announce events to multiple consumers asynchronously**, **without coupling senders to receivers**." | 让应用程序能够**异步地向多个使用者发布事件**，**而不把发送方和接收方耦合在一起**。 | [Microsoft, 2026, "Catalog of patterns" table, "Publisher-Subscriber" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Enable%20an%20application%20to%20announce%20events%20to%20multiple%20consumers) |
 | **Queue-Based Load Leveling**<br>基于队列的负载均衡 | "Use a **queue** that **creates a buffer between a task and a service** to **smooth intermittent heavy loads**." | 使用**队列**，**在任务和服务之间创建缓冲区**，以**平滑间歇性的重负载**。 | [Microsoft, 2026, "Catalog of patterns" table, "Queue-Based Load Leveling" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Use%20a%20queue%20that%20creates%20a%20buffer%20between%20a%20task%20and%20a%20service) |
 | **Retry**<br>重试 | "Enable applications to **handle anticipated temporary failures** by **retrying failed operations**." | 让应用程序能够**处理预期的暂时性故障**，方法是**重试失败的操作**。 | [Microsoft, 2026, "Catalog of patterns" table, "Retry" row](https://learn.microsoft.com/en-us/azure/architecture/patterns/#:~:text=Enable%20applications%20to%20handle%20anticipated%20temporary%20failures) |
