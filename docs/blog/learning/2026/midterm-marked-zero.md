@@ -19,8 +19,9 @@ With four choices per question, even random guessing gives **about 25 out of 100
 | # | Date | What happened | Time since the exam |
 |---|---|---|---|
 | 1 | 2026‑10‑20 | I wrote the midterm in class. | |
-| 2 | 2026‑11‑03 | The professor mentioned in class that **three students had failed**. | 2 weeks |
-| 3 | 2026‑11‑14 | The grade appeared online in the evening: **0 out of 10**, with no feedback. | 3 weeks and 4 days |
+| 2 | 2026‑10‑27 | No class this week: it was the break week. | 1 week |
+| 3 | 2026‑11‑03 | First class after the break. The professor mentioned in class that **three students had failed**. | 2 weeks |
+| 4 | 2026‑11‑14 | The grade appeared online in the evening: **0 out of 10**, with no feedback. | 3 weeks and 4 days |
 
 ## What I Did
 
