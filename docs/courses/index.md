@@ -1,6 +1,6 @@
 ---
 title: Courses
-description: "Courses (temporary, until graduation): CST8913 Cloud Migration, the week concepts with my lab scenarios as keyword tables for the oral exam. CST8914 Accessible by Design, the week topics mapped to the pages of the field."
+description: "Courses (temporary, until graduation): CST8913 Cloud Migration, the week concepts with my lab scenarios as keyword tables for the oral exam."
 ms.date: 2026-11-01
 ---
 
@@ -699,25 +699,3 @@ ms.date: 2026-11-01
 | 28 | A file storage service for storing and sharing files with users, typically used in shared file systems across applications. | **Amazon EFS** | **Azure Files** | **Filestore** |
 | 29 | A service that helps you transcode, process, and stream media content such as video and audio. | **AWS Elemental MediaConvert** | No first-party service (Azure Media Services retired in 2024; partner solutions) | **Transcoder API** |
 | 30 | A real-time communication service used for sending notifications, emails, and text messages to users and devices. | **Amazon SNS (email: Amazon SES)** | **Azure Notification Hubs, Azure Communication Services** | **Firebase Cloud Messaging (push only)** |
-
-## CST8914 Accessible by Design
-
-### W9: Understanding WAI-ARIA
-
-| Keyword | Description | 中文翻译 |
-|---|---|---|
-| **[4.1 WAI-ARIA Roles](../ui-ux/wai-aria/using-wai-aria/wai-aria-roles.md)** | W9 teaches **roles** under **static ARIA**, a group name used by the lecture and not by the specification. | W9 把**角色**放在**静态 ARIA** 下，这个分组名称来自课程，不来自规范。 |
-| **[4.2 WAI-ARIA States and Properties](../ui-ux/wai-aria/using-wai-aria/wai-aria-states-and-properties.md)** | W9 teaches **properties** under static ARIA and **states** under **dynamic ARIA**. | W9 把**属性**放在静态 ARIA 下，把**状态**放在**动态 ARIA** 下。 |
-| **[6.6.2 Live Region Attributes](../ui-ux/wai-aria/supported-states-and-properties/taxonomy-of-wai-aria-states-and-properties/live-region-attributes.md)** | W9 teaches **live regions** under **dynamic ARIA**. | W9 把**实时区域**放在**动态 ARIA** 下。 |
-
-### W11: Accessible Custom Components and Widgets
-
-| Keyword | Description | 中文翻译 |
-|---|---|---|
-| **[2.1 First Rule of ARIA Use](../ui-ux/using-aria/notes-on-aria-use-in-html.md)** | W11 opens with this rule: build a component from **native HTML** first and add ARIA only **to fill the gaps** HTML leaves. | W11 以这条规则开场：先用**原生 HTML** 搭组件，只在 HTML 留下空缺时**用 ARIA 补上**。 |
-| **[Widget](../ui-ux/wai-aria/important-terms.md)** | W11 calls a custom UI component a **widget**: several HTML elements that **work as one piece of UI**. | W11 把自定义 UI 组件称为**控件**：几个 HTML 元素**作为一个整体工作**。 |
-| **[ARIA Authoring Practices Guide](../ui-ux/apg/index.md)** | W11 uses the **APG patterns** as the place to look up **what a component needs**: roles, states, properties and keyboard support. | W11 把 **APG 模式**当作查找**组件需要什么**的地方：角色、状态、属性和键盘支持。 |
-| **[1.6 Slider](../ui-ux/apg/patterns/slider.md)** | W11 example of a component whose pattern **has a working example**; the lecture's slider was missing the **slider role, keyboard support and a label**. | W11 的例子之一：这个模式**有可运行的示例**；课上的滑块缺少 **slider 角色、键盘支持和标签**。 |
-| **[1.23 Tooltip](../ui-ux/apg/patterns/tooltip.md)** | W11 example of a pattern **without an example**, so the lecture also checks WCAG **1.4.13 Content on Hover or Focus**. | W11 的例子之一：这个模式**没有示例**，所以课上同时对照 WCAG **1.4.13 悬停或聚焦时的内容**。 |
-| **[1.4.13 Content on Hover or Focus](../ui-ux/wcag-2-2/perceivable/distinguishable.md)** | W11 uses this criterion for the tooltip: content that **appears on hover or focus** must be **dismissible, hoverable and persistent**. | W11 用这条标准检查工具提示：**悬停或聚焦时出现**的内容必须**可关闭、可悬停、能持续显示**。 |
-| **[1.13 Accordion (Sections With Show/Hide Functionality)](../ui-ux/apg/patterns/accordion.md)** | Lab 11 compares an accordion with this pattern's **keyboard interaction** and its **roles, states and properties**. | Lab 11 拿一个手风琴组件对照这个模式的**键盘交互**以及**角色、状态和属性**。 |

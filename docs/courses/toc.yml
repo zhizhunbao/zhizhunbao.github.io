@@ -1,3 +1,5 @@
 items:
 - name: "CST8913 Cloud Migration"
   href: index.md
+- name: "CST8914 Accessible by Design"
+  href: cst8914.md
