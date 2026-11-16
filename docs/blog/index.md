@@ -1,7 +1,7 @@
 ---
 title: Blog
 description: "Stories and reflections: my own experiences and what I learned from them, newest first."
-ms.date: 2026-11-06
+ms.date: 2026-11-15
 ---
 
 # Blog
@@ -22,3 +22,12 @@ ms.date: 2026-11-06
 | **September to October 2025** | [The AI Course Exam Crisis](learning/2025/ai-course-exam-crisis.md) | I started **programming with AI**, mainly with **Claude 4**, and sometimes with Claude 3.5. | 我开始**用 AI 编程**，主要用 **Claude 4**，有时也用 Claude 3.5。 |
 | **September 2025** | [The City of Ottawa AI Chatbot](projects/2025/city-of-ottawa-ai-chatbot.md) | My team started the **City of Ottawa chatbot** with **open-source components**. | 团队开始用**开源方案**做 **City of Ottawa chatbot**。 |
 | **September 2025** | [The AI Course Exam Crisis](learning/2025/ai-course-exam-crisis.md) | I started the **AI program** at **Algonquin College**. | 我开始在 **Algonquin College** 读 **AI 专业**。 |
+
+## 2021
+
+| Time | Post | Description | 中文翻译 |
+|---|---|---|---|
+| **October to November 2021** | [The Day the Data Stopped](work/2021/the-day-the-data-stopped.md) | Not written yet. | 尚未撰写。 |
+| **From October 2021** | [Taking Over Operations](work/2021/taking-over-operations.md) | Not written yet. | 尚未撰写。 |
+| **October 2021 to June 2022** | [The Security Compliance Project](work/2021/security-compliance-project.md) | Not written yet. | 尚未撰写。 |
+| **2021** | [Leading My First Team](work/2021/leading-my-first-team.md) | Not written yet. | 尚未撰写。 |

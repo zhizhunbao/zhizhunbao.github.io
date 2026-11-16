@@ -17,6 +17,18 @@ items:
     items:
     - name: "The City of Ottawa AI Chatbot"
       href: projects/2025/city-of-ottawa-ai-chatbot.md
+- name: "Work"
+  items:
+  - name: "2021"
+    items:
+    - name: "Leading My First Team"
+      href: work/2021/leading-my-first-team.md
+    - name: "The Security Compliance Project"
+      href: work/2021/security-compliance-project.md
+    - name: "Taking Over Operations"
+      href: work/2021/taking-over-operations.md
+    - name: "The Day the Data Stopped"
+      href: work/2021/the-day-the-data-stopped.md
 - name: "Interview"
   items:
   - name: "2026"
@@ -29,3 +41,13 @@ items:
       href: interview/2025/ai-course-exam-crisis.md
     - name: "The City of Ottawa AI Chatbot"
       href: interview/2025/city-of-ottawa-ai-chatbot.md
+  - name: "2021"
+    items:
+    - name: "Leading My First Team"
+      href: interview/2021/leading-my-first-team.md
+    - name: "The Security Compliance Project"
+      href: interview/2021/security-compliance-project.md
+    - name: "Taking Over Operations"
+      href: interview/2021/taking-over-operations.md
+    - name: "The Day the Data Stopped"
+      href: interview/2021/the-day-the-data-stopped.md
