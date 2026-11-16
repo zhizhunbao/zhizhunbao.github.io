@@ -39,7 +39,18 @@ I also saved full-screen screenshots of my grades and of my submitted labs, with
 
 ### The Rules
 
-I read the college's policies on grade review and academic appeal. The learner contacts the professor within five business days of the grade; the professor reviews it and answers within five business days. If there is no answer, the learner may ask the chair to help. After that there is a formal grade review by another professor, and then an academic appeal. The college also has an independent, confidential Office of the Ombudsman, a student has the right to see the exam, and the college prohibits reprisal against a student who raises a concern.
+I read the college's policies on grade review and academic appeal.
+
+| # | Step or right | Who acts | Rule |
+|---|---|---|---|
+| 1 | Informal review | The learner | Contacts the professor within five business days of the grade. |
+| 2 | Informal review | The professor | Reviews the concern and answers within five business days of the request. |
+| 3 | Help from the chair | The learner | May ask the chair to help contact the professor. |
+| 4 | Formal grade review | Another professor | Marks the work again; the learner asks for it within five days of the informal result. |
+| 5 | Academic appeal | An appeal committee | The last step inside the college; its decision is final. |
+| 6 | Advice | The Office of the Ombudsman | Independent and confidential; a learner can ask it for advice at any step. |
+| 7 | Right to see the exam | The learner | A student has the right to see and review the exam. |
+| 8 | No reprisal | The college | Prohibits reprisal against a student who raises a concern. |
 
 ### My Plan
 
