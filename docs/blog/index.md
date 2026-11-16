@@ -1,7 +1,7 @@
 ---
 title: Blog
 description: "Stories and reflections: my own experiences and what I learned from them, newest first."
-ms.date: 2026-11-15
+ms.date: 2026-11-16
 ---
 
 # Blog
@@ -10,6 +10,7 @@ ms.date: 2026-11-15
 
 | Time | Post | Description | 中文翻译 |
 |---|---|---|---|
+| **November 14, 2026** | [The Midterm Marked Zero](learning/2026/midterm-marked-zero.md) | A **100-question multiple-choice midterm** came back as **0**; I emailed the professor twice, kept a record, read the college's grade review rules and made a plan with a date for each step. Still open. | 一次 **100 道选择题的期中考试**成绩出来是 **0 分**；我给老师发了两封邮件，留了记录，读了学校的成绩复核规定，给每一步都定了日期。还没有结果。 |
 | **October 2026** | [The Full Stack Midterm Project](learning/2026/full-stack-midterm-project.md) | With a **difficult teammate** in a three-person midterm project, I built the **whole project on my own as a backup**, warned the teacher early, and submitted at 11:45 before the midnight deadline. | 在三人期中项目里遇到一个**难合作的组员**，我自己**把整个项目做完作为备份**，提前跟老师说明风险，在午夜截止前 11:45 提交。 |
 | **May 1, 2026** | [The City of Ottawa AI Chatbot](projects/2025/city-of-ottawa-ai-chatbot.md) | We presented the chatbot at **HUBBUB 2026** at the University of Ottawa; hardly anyone cared about it, and we left after half a day. | 我们在 University of Ottawa 的 **HUBBUB 2026** 展示了这个 chatbot；基本没人在乎，站了半天就走了。 |
 | **Winter 2026 term** | [The City of Ottawa AI Chatbot](projects/2025/city-of-ottawa-ai-chatbot.md) | The **City's development team** took the code and did user management; we built the hard parts, **locating answers in the PDF** and **generating charts**, then emailed them in. | **市政府的开发团队**把代码拿过去做用户管理；比较难的**在 PDF 里定位答案**和**生成图表**由我们做，做完发邮件提交。 |
