@@ -44,11 +44,12 @@ I will add the result here when I have it.
 
 ## My Questions
 
+Professor, may I ask you for some advice? This page is **my situation and my plan**, and I have two questions.
+
 | # | Question |
 |---|---|
 | 1 | Is this plan **the right way to handle it**? |
 | 2 | Can a mistake like this **usually be fixed**? |
-| 3 | **How should I ask the professor?** I plan to say: "I need your help. I think my answer sheet was not scanned correctly. Could you please recheck it?" |
 
 ## Reflections
 
