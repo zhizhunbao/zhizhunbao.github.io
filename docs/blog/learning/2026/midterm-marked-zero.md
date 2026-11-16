@@ -48,6 +48,7 @@ I will add the result here when I have it.
 |---|---|
 | 1 | Is this plan **the right way to handle it**? |
 | 2 | Can a mistake like this **usually be fixed**? |
+| 3 | **How should I ask the professor?** I plan to say: "I need your help. I think my answer sheet was not scanned correctly. Could you please recheck it?" |
 
 ## Reflections
 
