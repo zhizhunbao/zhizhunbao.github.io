@@ -22,6 +22,13 @@ In one of my courses this term, the midterm was 100 multiple-choice questions on
 
 About two weeks after the exam, the professor mentioned in class that three students had failed. On a Saturday night, more than three weeks after the exam, the grade appeared online: mine was 0 out of 10, with no feedback. Three of us had exactly 0.
 
+| # | Date | What happened | Time since the exam |
+|---|---|---|---|
+| 1 | Tuesday, October 20, 2026 | I wrote the midterm in class. | |
+| 2 | Tuesday, November 3, 2026 | The professor mentioned in class that three students had failed. | 2 weeks |
+| 3 | Saturday, November 14, 2026 | The grade appeared online in the evening: 0 out of 10, with no feedback. I emailed the professor that night. | 3 weeks and 4 days |
+| 4 | Monday, November 16, 2026 | I had no reply, so I sent a second email. | 3 weeks and 6 days |
+
 With four choices per question, even random guessing gives about 25 out of 100. So I don't think the 0 is the mark I earned; I think my answer sheet was not scanned, was not matched to my student number, or was entered wrongly.
 
 ### What I Did
