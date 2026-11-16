@@ -30,21 +30,6 @@ With four choices per question, even random guessing gives about 25 out of 100. 
 | 2 | 2026-11-16 | I had no reply, so I answered on the same thread, said that I had used a pencil and that he had seen my sheet, and asked to look at the answer sheet together on Tuesday. |
 | 3 | 2026-11-16 | I saved full-screen screenshots of my grades and of my submitted labs, with the date and time on the screen, and wrote a timeline of what happened on which day. |
 
-## The Rules
-
-I read the college's policies on grade review and academic appeal.
-
-| # | Step or right | Who acts | Rule |
-|---|---|---|---|
-| 1 | Informal review | The learner | Contacts the professor within five business days of the grade. |
-| 2 | Informal review | The professor | Reviews the concern and answers within five business days of the request. |
-| 3 | Help from the chair | The learner | May ask the chair to help contact the professor. |
-| 4 | Formal grade review | Another professor | Marks the work again; the learner asks for it within five days of the informal result. |
-| 5 | Academic appeal | An appeal committee | The last step inside the college; its decision is final. |
-| 6 | Advice | The Office of the Ombudsman | Independent and confidential; a learner can ask it for advice at any step. |
-| 7 | Right to see the exam | The learner | A student has the right to see and review the exam. |
-| 8 | No reprisal | The college | Prohibits reprisal against a student who raises a concern. |
-
 ## My Plan
 
 1. Tuesday, before class: ask the professor in person. I will say that I need his help, that I think my answer sheet was not scanned correctly, and ask when I can expect the result.
