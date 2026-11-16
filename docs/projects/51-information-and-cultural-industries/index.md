@@ -16,7 +16,7 @@ ms.date: 2026-11-05
 
 | Project | What it is | Role | Organization | Dates |
 |---|---|---|---|---|
-| [Smart-TV Big Data Platform](../huantv-big-data-platform.md) | A smart-TV data platform processing over a billion device records a day with sub-second queries, moved from self-managed CDH Hadoop on Tencent Cloud to Alibaba Cloud EMR, with Apache DolphinScheduler scheduling and ClickHouse queries. | Senior Big Data Architect: Architecture, Development & Operations | Guangzhou Huan Technology (HuanTV), Guangzhou | Apr 2015 – Sep 2022 |
+| [Smart-TV Big Data Platform](../huantv-big-data-platform.md) | Two smart-TV big data platforms, each processing over a billion device records a day with sub-second queries. HuanTV's moved in 2022 from self-managed CDH Hadoop on Tencent Cloud to Alibaba Cloud EMR and from xxl-job to Apache DolphinScheduler; Gozen Data's was built on Alibaba Cloud with an OSS data warehouse, EMR, DolphinScheduler and ClickHouse. | Senior Big Data Architect: Architecture, Development & Operations | Guangzhou Huan Technology (HuanTV), Guangzhou | Apr 2015 – Sep 2022 |
 
 ## References
 
