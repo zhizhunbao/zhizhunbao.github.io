@@ -10,11 +10,7 @@ A multiple-choice midterm that I wrote in pencil came back as 0, so I wrote to t
 
 ## What Happened
 
-### The Exam
-
 In one of my courses this term, the midterm was 100 multiple-choice questions on an answer sheet that a machine scans. I filled in the sheet with a pencil, and the professor looked at my sheet during the exam. Classmates said afterwards that the exam was close to the weekly quizzes.
-
-### The Zero
 
 About two weeks after the exam, the professor mentioned in class that three students had failed. On a Saturday night, more than three weeks after the exam, the grade appeared online: mine was 0 out of 10, with no feedback. Three of us had exactly 0.
 
@@ -27,13 +23,13 @@ About two weeks after the exam, the professor mentioned in class that three stud
 
 With four choices per question, even random guessing gives about 25 out of 100. So I don't think the 0 is the mark I earned; I think my answer sheet was not scanned, was not matched to my student number, or was entered wrongly.
 
-### What I Did
+## What I Did
 
 That same night I emailed the professor: I wrote the exam, the mark shows 0, and could he check. On Monday I had no reply, so I answered on the same thread, said that I had used a pencil and that he had seen my sheet, and asked to look at the answer sheet together on Tuesday.
 
 I also saved full-screen screenshots of my grades and of my submitted labs, with the date and time on the screen, and wrote a timeline of what happened on which day.
 
-### The Rules
+## The Rules
 
 I read the college's policies on grade review and academic appeal.
 
@@ -48,7 +44,7 @@ I read the college's policies on grade review and academic appeal.
 | 7 | Right to see the exam | The learner | A student has the right to see and review the exam. |
 | 8 | No reprisal | The college | Prohibits reprisal against a student who raises a concern. |
 
-### My Plan
+## My Plan
 
 1. Tuesday, before class: ask the professor in person. I will say that I need his help, that I think my answer sheet was not scanned correctly, and ask when I can expect the result.
 
