@@ -6,10 +6,6 @@ ms.date: 2026-11-16
 
 # The Midterm Marked Zero
 
-- **Time:** November 14, 2026, still open
-- **Topic:** Learning
-- **My role:** the student who got the 0; I collected the facts, read the rules and asked for a recheck
-
 A multiple-choice midterm that I wrote in pencil came back as 0, so I wrote to the professor, kept a record of every step, read the college's grade review rules, and made a plan with a date for each step.
 
 ## What Happened
