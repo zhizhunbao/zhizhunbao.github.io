@@ -20,14 +20,15 @@ With four choices per question, even random guessing gives about 25 out of 100. 
 |---|---|---|---|
 | 1 | 2026-10-20 | I wrote the midterm in class. | |
 | 2 | 2026-11-03 | The professor mentioned in class that three students had failed. | 2 weeks |
-| 3 | 2026-11-14 | The grade appeared online in the evening: 0 out of 10, with no feedback. I emailed the professor that night. | 3 weeks and 4 days |
-| 4 | 2026-11-16 | I had no reply, so I sent a second email. | 3 weeks and 6 days |
+| 3 | 2026-11-14 | The grade appeared online in the evening: 0 out of 10, with no feedback. | 3 weeks and 4 days |
 
 ## What I Did
 
-That same night I emailed the professor: I wrote the exam, the mark shows 0, and could he check. On Monday I had no reply, so I answered on the same thread, said that I had used a pencil and that he had seen my sheet, and asked to look at the answer sheet together on Tuesday.
-
-I also saved full-screen screenshots of my grades and of my submitted labs, with the date and time on the screen, and wrote a timeline of what happened on which day.
+| # | Date | What I did |
+|---|---|---|
+| 1 | 2026-11-14 | That same night I emailed the professor: I wrote the exam, the mark shows 0, and could he check. |
+| 2 | 2026-11-16 | I had no reply, so I answered on the same thread, said that I had used a pencil and that he had seen my sheet, and asked to look at the answer sheet together on Tuesday. |
+| 3 | 2026-11-16 | I saved full-screen screenshots of my grades and of my submitted labs, with the date and time on the screen, and wrote a timeline of what happened on which day. |
 
 ## The Rules
 
