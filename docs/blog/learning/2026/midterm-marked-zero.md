@@ -53,3 +53,11 @@ I will add the result here when I have it.
 - I read the rules before I decide what to do. Once I knew the deadlines and whom to ask next, I was much less anxious.
 
 - I count the cost of everything. Someone else's small mistake cost me days of time and sleep, so I try to settle it at the cheapest step and move to a more expensive step only when I have to.
+
+## References
+
+- Algonquin College. (2023, December 5). *AA37: Review of grade* (Procedure, steps 1.1, 1.2, 2.1 and 3.1). <https://www.algonquincollege.com/policies/files/2026/01/AA37.pdf>
+
+- Algonquin College. (2024, October 7). *AA19: Academic appeal* (Policy, items 4 and 6). <https://www.algonquincollege.com/policies/files/2026/01/AA19.pdf>
+
+- Algonquin College, Office of the Ombudsman. (n.d.). *What you should know about grade appeals* (Step 1, Informal consultation). <https://www.algonquincollege.com/ombudsman/files/2025/08/What-you-should-know-about-grade-appeals.pdf>
