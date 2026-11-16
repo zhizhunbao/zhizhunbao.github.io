@@ -33,17 +33,21 @@ With four choices per question, even random guessing gives **about 25 out of 100
 
 ## My Plan
 
-1. Tuesday, before class: **ask the professor in person**. I will say that I need his help, that I think my answer sheet was not scanned correctly, and ask **when I can expect the result**.
-
-2. Tuesday evening: send a short email that **confirms what he said**.
-
-3. Friday, the **fifth business day**: if there is no result, ask the **Office of the Ombudsman** for advice, and ask **the chair** to help.
-
-4. Only after that: a **formal grade review**, and an **appeal** if it is needed.
-
-**My question:** is this plan the right way to handle it, and can a mistake like this usually be fixed?
+| # | When | What I will do |
+|---|---|---|
+| 1 | 2026‑11‑17, before class | **Ask the professor in person.** I will say that I need his help, that I think my answer sheet was not scanned correctly, and ask **when I can expect the result**. |
+| 2 | 2026‑11‑17, evening | Send a short email that **confirms what he said**. |
+| 3 | 2026‑11‑20, the **fifth business day** | If there is no result, ask the **Office of the Ombudsman** for advice, and ask **the chair** to help. |
+| 4 | Only after that | A **formal grade review**, and an **appeal** if it is needed. |
 
 I will add the result here when I have it.
+
+## My Questions
+
+| # | Question |
+|---|---|
+| 1 | Is this plan **the right way to handle it**? |
+| 2 | Can a mistake like this **usually be fixed**? |
 
 ## Reflections
 
