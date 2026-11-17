@@ -33,23 +33,25 @@ With four choices per question, even random guessing gives **about 25 out of 100
 
 ## My Plan
 
-| # | When | What I will do |
-|---|---|---|
-| 1 | 2026‑11‑17, before class | **Ask the professor in person.** I will say that I need his help, that I think my answer sheet was not scanned correctly, and ask **when I can expect the result**. |
-| 2 | 2026‑11‑17, evening | Send a short email that **confirms what he said**. |
-| 3 | 2026‑11‑20, the **fifth business day** | If there is no result, ask the **Office of the Ombudsman** for advice, and ask **the chair** to help. |
-| 4 | Only after that | A **formal grade review**, and an **appeal** if it is needed. |
+| # | Date | When | What I will do |
+|---|---|---|---|
+| 1 | 2026‑11‑17 | Before class | **Ask the professor in person.** I will say that I need his help, that I think my answer sheet was not scanned correctly, and ask **when I can expect the result**. |
+| 2 | 2026‑11‑17 | Evening | Send a short email that **confirms what he said**. |
+| 3 | 2026‑11‑20 | The **fifth business day** | If there is no result, ask the **Office of the Ombudsman** for advice, and ask **the chair** to help. |
+| 4 | | Only after that | A **formal grade review**, and an **appeal** if it is needed. |
 
 I will add the result here when I have it.
 
 ## My Questions
 
-Professor, may I ask you for some advice? This page is **my situation and my plan**, and I have two questions.
+Professor, may I ask you for some advice? In another course, the midterm was **100 multiple-choice questions on an answer sheet, and I got 0**. I have four questions.
 
 | # | Question |
 |---|---|
-| 1 | Is this plan **the right way to handle it**? |
-| 2 | Can a mistake like this **usually be fixed**? |
+| 1 | Is this kind of situation **common**? I suspect my answer sheet **was not scanned correctly**. |
+| 2 | Should I **ask the professor for help in person tomorrow**? I have sent **two emails**, and he has **not replied**. |
+| 3 | Can a mistake like this **usually be fixed**? |
+| 4 | If he still does not reply, **who should I talk to first**? |
 
 ## Reflections
 
