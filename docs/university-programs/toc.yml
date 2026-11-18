@@ -9710,12 +9710,38 @@ items:
   items:
   - name: "2.1 Seoul National University"
     href: south-korea/seoul-national-university/index.md
+    items:
+    - name: "2.1.1 약학과"
+      href: south-korea/seoul-national-university/pharmacy.md
+    - name: "2.1.2 의학과"
+      href: south-korea/seoul-national-university/medicine.md
+    - name: "2.1.3 제약학과"
+      href: south-korea/seoul-national-university/pharmaceutical-science.md
   - name: "2.2 Yonsei University"
     href: south-korea/yonsei-university/index.md
+    items:
+    - name: "2.2.1 약학과"
+      href: south-korea/yonsei-university/pharmacy.md
+    - name: "2.2.2 의학과"
+      href: south-korea/yonsei-university/medicine.md
   - name: "2.3 Sungkyunkwan University"
     href: south-korea/sungkyunkwan-university/index.md
+    items:
+    - name: "2.3.1 약학과"
+      href: south-korea/sungkyunkwan-university/pharmacy.md
+    - name: "2.3.2 의예과"
+      href: south-korea/sungkyunkwan-university/premedicine.md
+    - name: "2.3.3 의학과"
+      href: south-korea/sungkyunkwan-university/medicine.md
   - name: "2.4 Chung-Ang University"
     href: south-korea/chung-ang-university/index.md
+    items:
+    - name: "2.4.1 약학부 약학전공"
+      href: south-korea/chung-ang-university/pharmacy.md
+    - name: "2.4.2 약학부 제약학전공"
+      href: south-korea/chung-ang-university/industrial-pharmacy.md
+    - name: "2.4.3 의학부"
+      href: south-korea/chung-ang-university/medicine.md
 - name: "3. United States"
   href: united-states/index.md
   items:
