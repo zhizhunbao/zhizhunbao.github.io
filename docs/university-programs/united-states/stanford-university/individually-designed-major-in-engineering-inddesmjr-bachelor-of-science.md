@@ -1,10 +1,10 @@
 ---
-title: "3.1.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science"
+title: "3.2.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science
+# 3.2.42 Individually Designed Major in Engineering, IndDesMjr: Bachelor of Science
 
 ## Glossary
 

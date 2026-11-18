@@ -1,10 +1,10 @@
 ---
-title: "3.1.111 Human Genetics and Genetic Counseling, Master of Science"
+title: "3.2.111 Human Genetics and Genetic Counseling, Master of Science"
 description: "University Programs > United States > Stanford University > Human Genetics and Genetic Counseling, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.111 Human Genetics and Genetic Counseling, Master of Science
+# 3.2.111 Human Genetics and Genetic Counseling, Master of Science
 
 ## Glossary
 

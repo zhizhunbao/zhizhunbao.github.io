@@ -1,10 +1,10 @@
 ---
-title: "3.1.162 Comparative Literature, Doctor of Philosophy"
+title: "3.2.162 Comparative Literature, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Comparative Literature, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.162 Comparative Literature, Doctor of Philosophy
+# 3.2.162 Comparative Literature, Doctor of Philosophy
 
 ## Glossary
 

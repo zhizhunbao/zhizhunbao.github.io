@@ -1,10 +1,10 @@
 ---
-title: "3.1.192 Medicine, Doctor of Medicine"
+title: "3.2.192 Medicine, Doctor of Medicine"
 description: "University Programs > United States > Stanford University > Medicine, Doctor of Medicine: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.192 Medicine, Doctor of Medicine
+# 3.2.192 Medicine, Doctor of Medicine
 
 ## Glossary
 

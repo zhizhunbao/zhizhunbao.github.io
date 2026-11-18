@@ -1,10 +1,10 @@
 ---
-title: "3.1.189 Linguistics, Doctor of Philosophy"
+title: "3.2.189 Linguistics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Linguistics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.189 Linguistics, Doctor of Philosophy
+# 3.2.189 Linguistics, Doctor of Philosophy
 
 ## Glossary
 

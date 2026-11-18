@@ -1,10 +1,10 @@
 ---
-title: "3.1.197 Musical Arts, Doctor of Musical Arts"
+title: "3.2.197 Musical Arts, Doctor of Musical Arts"
 description: "University Programs > United States > Stanford University > Musical Arts, Doctor of Musical Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.197 Musical Arts, Doctor of Musical Arts
+# 3.2.197 Musical Arts, Doctor of Musical Arts
 
 ## Glossary
 

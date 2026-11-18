@@ -1,10 +1,10 @@
 ---
-title: "3.1.188 Law, Doctor of the Science of Law"
+title: "3.2.188 Law, Doctor of the Science of Law"
 description: "University Programs > United States > Stanford University > Law, Doctor of the Science of Law: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.188 Law, Doctor of the Science of Law
+# 3.2.188 Law, Doctor of the Science of Law
 
 ## Glossary
 

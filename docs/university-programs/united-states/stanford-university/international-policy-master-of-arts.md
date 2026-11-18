@@ -1,10 +1,10 @@
 ---
-title: "3.1.113 International Policy, Master of Arts"
+title: "3.2.113 International Policy, Master of Arts"
 description: "University Programs > United States > Stanford University > International Policy, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.113 International Policy, Master of Arts
+# 3.2.113 International Policy, Master of Arts
 
 ## Glossary
 

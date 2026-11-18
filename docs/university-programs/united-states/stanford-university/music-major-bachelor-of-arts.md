@@ -1,10 +1,10 @@
 ---
-title: "3.1.51 Music, Major: Bachelor of Arts"
+title: "3.2.51 Music, Major: Bachelor of Arts"
 description: "University Programs > United States > Stanford University > Music, Major: Bachelor of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.51 Music, Major: Bachelor of Arts
+# 3.2.51 Music, Major: Bachelor of Arts
 
 ## Glossary
 

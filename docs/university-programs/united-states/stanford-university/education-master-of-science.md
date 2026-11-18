@@ -1,10 +1,10 @@
 ---
-title: "3.1.100 Education, Master of Science"
+title: "3.2.100 Education, Master of Science"
 description: "University Programs > United States > Stanford University > Education, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.100 Education, Master of Science
+# 3.2.100 Education, Master of Science
 
 ## Glossary
 

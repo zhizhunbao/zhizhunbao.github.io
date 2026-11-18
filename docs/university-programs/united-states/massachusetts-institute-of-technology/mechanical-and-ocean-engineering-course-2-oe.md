@@ -1,0 +1,81 @@
+---
+title: "3.1.44 Mechanical and Ocean Engineering (Course 2-OE)"
+description: "University Programs > United States > Massachusetts Institute of Technology > Mechanical and Ocean Engineering (Course 2-OE): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-18
+---
+
+# 3.1.44 Mechanical and Ocean Engineering (Course 2-OE)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Mechanical and Ocean Engineering (Course 2-OE)**<br>机械与海洋工程（Course 2-OE） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Designing for the Future: Earth, Sea, and Space**<br>面向未来的设计：地球、海洋与太空 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Mechanics and Materials I**<br>力学与材料 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Mechanics and Materials II**<br>力学与材料 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Dynamics and Control I**<br>动力学与控制 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Dynamics and Control II**<br>动力学与控制 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Thermal-Fluids Engineering I**<br>热流体工程 I | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Hydrodynamics**<br>流体动力学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Design of Electromechanical Robotic Systems (CI-M)**<br>机电机器人系统设计（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Acoustics and Sensing**<br>声学与传感 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Numerical Computation for Mechanical Engineers**<br>机械工程师数值计算 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Marine Power and Propulsion**<br>船舶动力与推进 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Measurement and Instrumentation (CI-M)**<br>测量与仪器（CI-M） | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Design and Experimentation for Ocean Engineering**<br>海洋工程设计与实验 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Electronics for Mechanical Systems**<br>机械系统电子学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Differential Equations**<br>微分方程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Thermal-Fluids Engineering II**<br>热流体工程 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Design and Manufacturing II**<br>设计与制造 II | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Engineering Systems Design**<br>工程系统设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Engineering Systems Development**<br>工程系统开发 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Design of Ocean Systems**<br>海洋系统设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Introduction to Robotics**<br>机器人学导论 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Analysis and Design of Feedback Control Systems**<br>反馈控制系统分析与设计 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Principles of Naval Architecture**<br>船舶原理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Management in Engineering**<br>工程管理 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+| **Undergraduate Thesis**<br>本科论文 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Bachelor of Science in Mechanical and Ocean Engineering > General Institute Requirements (GIRs) |  | Science Requirement | 6 Subjects | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > General Institute Requirements (GIRs) |  | Humanities, Arts, and Social Sciences (HASS) Requirement; at least two of these subjects must be designated as communication-intensive (CI-H) to fulfill the Communication Requirement. | 8 Subjects | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > General Institute Requirements (GIRs) |  | Restricted Electives in Science and Technology (REST) Requirement [can be satisfied by 2.001 and 18.03 in the Departmental Program] | 2 Subjects | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > General Institute Requirements (GIRs) |  | Laboratory Requirement (12 units) [can be satisfied by 2.671 in the Departmental Program] | 1 Subjects | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > General Institute Requirements (GIRs) > Physical Education Requirement |  | Swimming requirement, plus four physical education courses for eight points. |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.00A | Designing for the Future: Earth, Sea, and Space | 9 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.001 | Mechanics and Materials I | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.002 | Mechanics and Materials II | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.003[J] | Dynamics and Control I | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.004 | Dynamics and Control II | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.005 | Thermal-Fluids Engineering I | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.016 | Hydrodynamics | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.017[J] | Design of Electromechanical Robotic Systems (CI-M) | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.065 | Acoustics and Sensing | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.086 | Numerical Computation for Mechanical Engineers | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.612 | Marine Power and Propulsion | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.671 | Measurement and Instrumentation (CI-M) | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.677 | Design and Experimentation for Ocean Engineering | 6 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 2.678 | Electronics for Mechanical Systems | 6 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Required Subjects | 18.03 | Differential Equations | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives |  | Select one elective from the Restricted Electives list below. | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program |  | Units in Major | 177 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program |  | Unrestricted Electives | 48 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Unrestricted Electives |  | Units in Major That Also Satisfy the GIRs | (36) | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.006 | Thermal-Fluids Engineering II | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.008 | Design and Manufacturing II | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.013 | Engineering Systems Design | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.014 | Engineering Systems Development | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.019 | Design of Ocean Systems | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.12 | Introduction to Robotics | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.14 | Analysis and Design of Feedback Control Systems | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.700 | Principles of Naval Architecture | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.96 | Management in Engineering | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+|  | Bachelor of Science in Mechanical and Ocean Engineering > Departmental Program > Restricted Electives | 2.THU | Undergraduate Thesis | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) |
+
+## References
+
+Massachusetts Institute of Technology. (n.d.). *Mechanical and Ocean Engineering (Course 2-OE)*. Retrieved November 18, 2026, from <https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/>

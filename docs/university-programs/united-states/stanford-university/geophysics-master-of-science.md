@@ -1,10 +1,10 @@
 ---
-title: "3.1.108 Geophysics, Master of Science"
+title: "3.2.108 Geophysics, Master of Science"
 description: "University Programs > United States > Stanford University > Geophysics, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.108 Geophysics, Master of Science
+# 3.2.108 Geophysics, Master of Science
 
 ## Glossary
 

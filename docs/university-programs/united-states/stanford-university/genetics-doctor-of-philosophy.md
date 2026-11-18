@@ -1,10 +1,10 @@
 ---
-title: "3.1.179 Genetics, Doctor of Philosophy"
+title: "3.2.179 Genetics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Genetics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.179 Genetics, Doctor of Philosophy
+# 3.2.179 Genetics, Doctor of Philosophy
 
 ## Glossary
 
