@@ -1,0 +1,134 @@
+---
+title: "1.10.233 MAJOR IN FINANCE (must be part of Honours Double Major)"
+description: "University Programs > Canada > Western University > MAJOR IN FINANCE (must be part of Honours Double Major): the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 1.10.233 MAJOR IN FINANCE (must be part of Honours Double Major)
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **MAJOR IN FINANCE (must be part of Honours Double Major)**<br>金融主修（必须属于荣誉双主修） | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES**<br>消费者行为与人力资源导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO ACCOUNTING AND FINANCE**<br>会计与金融导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **CALCULUS I**<br>微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **CALCULUS II**<br>微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **CALCULUS I FOR THE MATHEMATICAL SCIENCES**<br>数学科学微积分 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **CALCULUS II FOR MATHEMATICAL AND PHYSICAL SCIENCES**<br>数学与物理科学微积分 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **METHODS OF CALCULUS**<br>微积分方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **METHODS OF FINITE MATHEMATICS**<br>有限数学方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **METHODS OF MATRIX ALGEBRA**<br>矩阵代数方法 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **LINEAR ALGEBRA I**<br>线性代数 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **PRINCIPLES OF MICROECONOMICS**<br>微观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **PRINCIPLES OF MACROECONOMICS**<br>宏观经济学原理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTORY CALCULUS**<br>微积分入门 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **ACCOUNTING & BUSINESS ANALYSIS**<br>会计与商业分析 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO FINANCIAL ACCOUNTING**<br>财务会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTRODUCTION TO MANAGERIAL ACCOUNTING**<br>管理会计导论 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **STATISTICS**<br>统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **ECONOMETRICS I**<br>计量经济学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **ECONOMETRICS II**<br>计量经济学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **STATISTICS FOR BUSINESS AND SOCIAL SCIENCES**<br>商业与社会科学统计学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTERMEDIATE MICROECONOMIC THEORY I**<br>中级微观经济理论 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTERMEDIATE MICROECONOMICS I**<br>中级微观经济学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTERMEDIATE MACROECONOMIC THEORY AND POLICY I**<br>中级宏观经济理论与政策 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTERMEDIATE MACROECONOMICS I**<br>中级宏观经济学 I | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **FINANCE**<br>金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **ADVANCED FINANCE**<br>高级金融 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **FINANCIAL MARKETS AND INSTITUTIONS**<br>金融市场与机构 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INVESTMENT MANAGEMENT**<br>投资管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **DERIVATIVES**<br>衍生品 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **REAL ESTATE INVESTMENT TRUSTS AND MORTGAGE BACKED SECURITIES**<br>房地产投资信托与抵押贷款支持证券 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **REAL ESTATE AND THE CITY**<br>房地产与城市 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **STRATEGIC MANAGEMENT**<br>战略管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTERMEDIATE MICROECONOMIC THEORY II**<br>中级微观经济理论 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+| **INTERMEDIATE MICROECONOMICS II**<br>中级微观经济学 II | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Admission Requirements |  | Students may not apply to a BMOS HONOURS DOUBLE MAJOR when they apply for admission to the University. In addition to meeting MOS Admission Requirements, students must successfully complete the Admission Requirements for a Major module in a discipline other than Management and Organizational Studies. If Admission Requirements are not met in either or both of the Majors, students will not be allowed to register in a BMOS Honours Double Major and will be required to apply to a BMOS Specialization or to another program. |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | 5.0 first-year courses: |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | After first year, students may apply for admission upon completion of 5.0 first-year requirements with no failures. Students must have an average of at least 70% on, and no grade less than 60% in, the following |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | 3.0 principal courses: |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course: | MOS 1021A/B | INTRODUCTION TO CONSUMER BEHAVIOUR AND HUMAN RESOURCES |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course: | MOS 1023A/B | INTRODUCTION TO ACCOUNTING AND FINANCE |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Calculus 1000A/B | CALCULUS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Calculus 1301A/B | CALCULUS II |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Calculus 1500A/B | CALCULUS I FOR THE MATHEMATICAL SCIENCES |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Calculus 1501A/B | CALCULUS II FOR MATHEMATICAL AND PHYSICAL SCIENCES |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Mathematics 1225A/B | METHODS OF CALCULUS |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Mathematics 1228A/B | METHODS OF FINITE MATHEMATICS |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Mathematics 1229A/B | METHODS OF MATRIX ALGEBRA |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Mathematics 1600A/B | LINEAR ALGEBRA I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course: | Economics 1021A/B | PRINCIPLES OF MICROECONOMICS |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course: | Economics 1022A/B | PRINCIPLES OF MACROECONOMICS |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | 1.0 course numbered 1000-1999 from: the Faculty of Social Science. | 1.0 | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | 1.0 course: numbered 1000-1999. | 1.0 | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Note: \*Students must complete | Calculus 1000A/B | CALCULUS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Note: \*Students must complete |  | if interested in pursuing an Honours Specialization in Finance or an Honours Double Major with Economics. |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | Note: \*\*Students admitted without Calculus should be aware that to enrol in certain courses/modules they may be required to take |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements | Mathematics 0110A/B | INTRODUCTORY CALCULUS |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | . When considering a course/module in another discipline, please check the Mathematics requirements(s). Students are responsible for ensuring they have completed the Mathematics and other entry requirements and prerequisites of the modules/courses they wish to take. |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | Note: After first year, Affiliated University College students require the completion of 5.0 courses with an overall cumulative average of 70%, in addition to the above. |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | After second year, students applying for a BMOS HONOURS DOUBLE MAJOR must have |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | a) achieved an average of at least 70% on the last 5.0 courses; |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | b) achieved an average of 70% on the 3.0 principal courses required for the module; |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | c) achieved a cumulative modular average of 70%; |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | d) obtained a minimum grade of 60% in each course required for the module; |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | e) obtained a passing grade in each elective course; |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | f) Main Campus Students: a minimum cumulative average of 65%, or |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Admission Requirements |  | Affiliated College Students: a minimum cumulative average of 70%. |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Module |  | 6.0 courses: | 6.0 | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course normally taken in second year from: | Business Administration 2257 | ACCOUNTING & BUSINESS ANALYSIS |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course normally taken in second year from: | MOS 2227A/B | INTRODUCTION TO FINANCIAL ACCOUNTING |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course normally taken in second year from: | MOS 2228A/B | INTRODUCTION TO MANAGERIAL ACCOUNTING |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | MOS 2242A/B | STATISTICS |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: |  | or any 0.5 Statistics 2000-level and 0.5 MOS 2000-level or above, |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Economics 2122A/B | ECONOMETRICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Economics 2222A/B | ECONOMETRICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Economics 2123A/B | ECONOMETRICS II |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Economics 2223A/B | ECONOMETRICS II |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Statistical Sciences 2035 | STATISTICS FOR BUSINESS AND SOCIAL SCIENCES |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Economics 2150A/B | INTERMEDIATE MICROECONOMIC THEORY I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Economics 2260A/B | INTERMEDIATE MICROECONOMICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Economics 2152A/B | INTERMEDIATE MACROECONOMIC THEORY AND POLICY I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course from: | Economics 2220A/B | INTERMEDIATE MACROECONOMICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course: | MOS 2310A/B | FINANCE |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 1.0 course: | MOS 3311A/B | ADVANCED FINANCE |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 0.5 course normally taken in third year from: | MOS 3313A/B | FINANCIAL MARKETS AND INSTITUTIONS |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 0.5 course normally taken in third year from: | MOS 3316A/B | INVESTMENT MANAGEMENT |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 0.5 course from: | MOS 4312A/B | DERIVATIVES |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 0.5 course from: | MOS 4313A/B | REAL ESTATE INVESTMENT TRUSTS AND MORTGAGE BACKED SECURITIES |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 0.5 course from: | MOS 4314F/G | REAL ESTATE AND THE CITY |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | 0.5 course: | MOS 4410A/B | STRATEGIC MANAGEMENT |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Module |  | 0.5 course from: any course offered by the Faculty of Social Science level 2000 or above. | 0.5 | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Notes: \*Students combining the Major with a Major in Economics must complete | Economics 2222A/B | ECONOMETRICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Notes: \*Students combining the Major with a Major in Economics must complete | Economics 2223A/B | ECONOMETRICS II |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Notes: \*Students combining the Major with a Major in Economics must complete |  | . In addition, 1.0 additional MOS 2000-level or above course must be completed in order to satisfy the MOS Module requirements. |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | Module |  | If a Statistics course 2000-level or above has been completed or is required for the other module, the MOS Statistics module requirement must be replaced with a 1.0 2200-level or above MOS course. |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2260A/B | INTERMEDIATE MICROECONOMICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2220A/B | INTERMEDIATE MACROECONOMICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete |  | . In addition, 1.0 additional MOS 2000-level or above course must be completed in order to satisfy the MOS Module requirements. Students who have completed |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2150A/B | INTERMEDIATE MICROECONOMIC THEORY I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2151A/B | INTERMEDIATE MICROECONOMIC THEORY II |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2152A/B | INTERMEDIATE MACROECONOMIC THEORY AND POLICY I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete |  | with no mark less than 75%, and who have taken |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Calculus 1000A/B | CALCULUS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete |  | with a mark of at least 60%, may enter the Honours Specialization in Finance and be exempt from taking |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2220A/B | INTERMEDIATE MACROECONOMICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2260A/B | INTERMEDIATE MICROECONOMICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2261A/B | INTERMEDIATE MICROECONOMICS II |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete |  | . Students who have completed these requirements and have also completed |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2122A/B | ECONOMETRICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2123A/B | ECONOMETRICS II |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete |  | with no mark less than 75% may also be exempt from taking |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2222A/B | ECONOMETRICS I |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+|  | \*\*Students combining this Major with a Major in Economics must complete | Economics 2223A/B | ECONOMETRICS II |  | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=) |
+
+## References
+
+Western University. (n.d.). *MAJOR IN FINANCE (must be part of Honours Double Major)*. Retrieved November 11, 2026, from <https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21524&SelectedCalendar=Live&ArchiveID=>
