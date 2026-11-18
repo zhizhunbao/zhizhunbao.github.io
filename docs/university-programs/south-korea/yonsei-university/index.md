@@ -12,6 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Yonsei University**<br>延世大学 | (Definition pending) | （定义待补） | [Yonsei University, n.d.](https://medicine.yonsei.ac.kr/medicine/about/specific/student.do) |
 | **[약학과](pharmacy.md)**<br>药学系 | (Definition pending) | （定义待补） | [Yonsei University, n.d.](https://pharmacy.yonsei.ac.kr/pharmacy/curriculum_2024.do) |
+| **[의예과](premedicine.md)**<br>医预科 | (Definition pending) | （定义待补） | [Yonsei University, n.d.](https://medicine.yonsei.ac.kr/medicine/about/specific/student.do) |
 | **[의학과](medicine.md)**<br>医学系 | (Definition pending) | （定义待补） | [Yonsei University, n.d.](https://medicine.yonsei.ac.kr/medicine/about/specific/student.do) |
 
 ## University Rankings
@@ -26,7 +27,7 @@ ms.date: 2026-11-18
 | Program Name | Faculty | Degree Level | Degree | Duration and Credentials | Campus | Source |
 |---|---|---|---|---|---|---|
 | [약학과](pharmacy.md)<br>药学系 | 약학대학 | Bachelor's<br>学士 |  |  |  | [Yonsei University, n.d.](https://pharmacy.yonsei.ac.kr/pharmacy/curriculum_2024.do) |
-| 의예과<br>医预科 | 의과대학 | Bachelor's<br>学士 |  |  |  | [Yonsei University, n.d.](https://medicine.yonsei.ac.kr/medicine/about/specific/student.do) |
+| [의예과](premedicine.md)<br>医预科 | 의과대학 | Bachelor's<br>学士 |  |  |  | [Yonsei University, n.d.](https://medicine.yonsei.ac.kr/medicine/about/specific/student.do) |
 | [의학과](medicine.md)<br>医学系 | 의과대학 | Bachelor's<br>学士 |  |  |  | [Yonsei University, n.d.](https://medicine.yonsei.ac.kr/medicine/about/specific/student.do) |
 
 ## References

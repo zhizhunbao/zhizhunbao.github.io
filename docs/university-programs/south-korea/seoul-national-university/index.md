@@ -12,6 +12,7 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Seoul National University**<br>首尔大学 | (Definition pending) | （定义待补） | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
 | **[약학과](pharmacy.md)**<br>药学系 | (Definition pending) | （定义待补） | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
+| **[의예과](premedicine.md)**<br>医预科 | (Definition pending) | （定义待补） | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
 | **[의학과](medicine.md)**<br>医学系 | (Definition pending) | （定义待补） | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
 | **[제약학과](pharmaceutical-science.md)**<br>制药学系 | (Definition pending) | （定义待补） | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
 
@@ -29,7 +30,7 @@ ms.date: 2026-11-18
 | Program Name | Faculty | Degree Level | Degree | Duration and Credentials | Campus | Source |
 |---|---|---|---|---|---|---|
 | [약학과](pharmacy.md)<br>药学系 | 약학대학 | Bachelor's<br>学士 |  |  |  | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
-| 의예과<br>医预科 | 의과대학 | Bachelor's<br>学士 |  |  |  | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
+| [의예과](premedicine.md)<br>医预科 | 의과대학 | Bachelor's<br>学士 |  |  |  | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
 | [의학과](medicine.md)<br>医学系 | 의과대학 | Bachelor's<br>学士 |  |  |  | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
 | [제약학과](pharmaceutical-science.md)<br>制药学系 | 약학대학 | Bachelor's<br>学士 |  |  |  | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
 
