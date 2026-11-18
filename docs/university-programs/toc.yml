@@ -9710,12 +9710,12 @@ items:
   items:
   - name: "2.1 Seoul National University"
     href: south-korea/seoul-national-university/index.md
+  - name: "2.2 Yonsei University"
+    href: south-korea/yonsei-university/index.md
   - name: "2.3 Sungkyunkwan University"
     href: south-korea/sungkyunkwan-university/index.md
   - name: "2.4 Chung-Ang University"
     href: south-korea/chung-ang-university/index.md
-  - name: "2.2 Yonsei University"
-    href: south-korea/yonsei-university/index.md
 - name: "3. United States"
   href: united-states/index.md
   items:
