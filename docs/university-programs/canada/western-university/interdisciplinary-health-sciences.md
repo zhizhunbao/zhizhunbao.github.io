@@ -1,10 +1,10 @@
 ---
-title: "1.10.429 Interdisciplinary Health Sciences"
+title: "1.10.430 Interdisciplinary Health Sciences"
 description: "University Programs > Canada > Western University > Interdisciplinary Health Sciences: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.10.429 Interdisciplinary Health Sciences
+# 1.10.430 Interdisciplinary Health Sciences
 
 ## Glossary
 

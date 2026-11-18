@@ -10,7 +10,7 @@ ms.date: 2026-11-18
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
-| **Department of Education**<br>（澳大利亚）教育部 | (Definition pending) | （定义待补） | [Department of Education, 2026](https://www.education.gov.au/higher-education-statistics/resources/2025-section-7-overseas-students) |
+| **Department of Education**<br>（澳大利亚）教育部 | "We provide **strategic direction and national leadership of Australia’s education system** – through early years, school, higher education and research." | 我们为**澳大利亚教育体系提供战略方向和国家层面的领导**，涵盖幼儿、中小学、高等教育和科研。 | [Department of Education, n.d., "Our role - what we do", para. 1](https://www.education.gov.au/about-department#:~:text=We%20provide%20strategic%20direction%20and%20national%20leadership) |
 
 ## International Students
 
@@ -47,3 +47,5 @@ Australian Government Department of Education, Selected Higher Education Statist
 ## References
 
 Department of Education. (2026). *2025 Section 7 - Overseas students* [Data set]. Australian Government. <https://www.education.gov.au/higher-education-statistics/resources/2025-section-7-overseas-students>
+
+Department of Education. (n.d.). *About the Department*. Australian Government. Retrieved November 18, 2026, from <https://www.education.gov.au/about-department>

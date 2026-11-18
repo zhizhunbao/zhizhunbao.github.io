@@ -1,10 +1,10 @@
 ---
-title: "1.5.183 Master of Managements Analytics"
+title: "1.5.184 Master of Managements Analytics"
 description: "University Programs > Canada > Queen’s University > Master of Managements Analytics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.183 Master of Managements Analytics
+# 1.5.184 Master of Managements Analytics
 
 ## Glossary
 

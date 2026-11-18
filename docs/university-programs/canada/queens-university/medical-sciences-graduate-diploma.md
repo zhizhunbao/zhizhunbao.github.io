@@ -1,10 +1,10 @@
 ---
-title: "1.5.203 Medical Sciences - Graduate Diploma"
+title: "1.5.205 Medical Sciences - Graduate Diploma"
 description: "University Programs > Canada > Queen’s University > Medical Sciences - Graduate Diploma: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.203 Medical Sciences - Graduate Diploma
+# 1.5.205 Medical Sciences - Graduate Diploma
 
 ## Glossary
 

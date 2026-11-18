@@ -1,10 +1,10 @@
 ---
-title: "1.5.187 Public Administration - Master of Public Administration"
+title: "1.5.188 Public Administration - Master of Public Administration"
 description: "University Programs > Canada > Queen’s University > Public Administration - Master of Public Administration: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.187 Public Administration - Master of Public Administration
+# 1.5.188 Public Administration - Master of Public Administration
 
 ## Glossary
 

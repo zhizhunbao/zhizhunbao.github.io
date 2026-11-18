@@ -1,10 +1,10 @@
 ---
-title: "1.5.185 Nursing - Master of Nursing Science"
+title: "1.5.186 Nursing - Master of Nursing Science"
 description: "University Programs > Canada > Queen’s University > Nursing - Master of Nursing Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.185 Nursing - Master of Nursing Science
+# 1.5.186 Nursing - Master of Nursing Science
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "1.5.188 World Indigenous Studies in Education - Master of Education"
+title: "1.5.189 World Indigenous Studies in Education - Master of Education"
 description: "University Programs > Canada > Queen’s University > World Indigenous Studies in Education - Master of Education: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.188 World Indigenous Studies in Education - Master of Education
+# 1.5.189 World Indigenous Studies in Education - Master of Education
 
 ## Glossary
 

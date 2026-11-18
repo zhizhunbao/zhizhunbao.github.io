@@ -1,10 +1,10 @@
 ---
-title: "1.5.181 Master of Management in Artificial Intelligence"
+title: "1.5.182 Master of Management in Artificial Intelligence"
 description: "University Programs > Canada > Queen’s University > Master of Management in Artificial Intelligence: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.181 Master of Management in Artificial Intelligence
+# 1.5.182 Master of Management in Artificial Intelligence
 
 ## Glossary
 

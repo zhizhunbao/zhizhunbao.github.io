@@ -1,10 +1,10 @@
 ---
-title: "1.5.180 Master of International Business"
+title: "1.5.181 Master of International Business"
 description: "University Programs > Canada > Queen’s University > Master of International Business: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.180 Master of International Business
+# 1.5.181 Master of International Business
 
 ## Glossary
 

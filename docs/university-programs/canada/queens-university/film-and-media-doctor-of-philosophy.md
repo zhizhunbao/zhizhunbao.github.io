@@ -1,10 +1,10 @@
 ---
-title: "1.5.190 Film and Media - Doctor of Philosophy"
+title: "1.5.191 Film and Media - Doctor of Philosophy"
 description: "University Programs > Canada > Queen’s University > Film and Media - Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.190 Film and Media - Doctor of Philosophy
+# 1.5.191 Film and Media - Doctor of Philosophy
 
 ## Glossary
 

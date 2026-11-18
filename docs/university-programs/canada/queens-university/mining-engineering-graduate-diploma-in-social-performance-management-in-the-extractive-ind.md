@@ -1,10 +1,10 @@
 ---
-title: "1.5.204 Mining Engineering - Graduate Diploma in Social Performance Management in the Extractive Industries"
+title: "1.5.206 Mining Engineering - Graduate Diploma in Social Performance Management in the Extractive Industries"
 description: "University Programs > Canada > Queen’s University > Mining Engineering - Graduate Diploma in Social Performance Management in the Extractive Industries: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.204 Mining Engineering - Graduate Diploma in Social Performance Management in the Extractive Industries
+# 1.5.206 Mining Engineering - Graduate Diploma in Social Performance Management in the Extractive Industries
 
 ## Glossary
 

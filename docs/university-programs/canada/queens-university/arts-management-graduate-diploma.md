@@ -1,10 +1,10 @@
 ---
-title: "1.5.200 Arts Management Graduate Diploma"
+title: "1.5.202 Arts Management Graduate Diploma"
 description: "University Programs > Canada > Queen’s University > Arts Management Graduate Diploma: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.200 Arts Management Graduate Diploma
+# 1.5.202 Arts Management Graduate Diploma
 
 ## Glossary
 

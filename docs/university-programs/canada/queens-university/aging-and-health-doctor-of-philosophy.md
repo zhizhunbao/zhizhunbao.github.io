@@ -1,10 +1,10 @@
 ---
-title: "1.5.189 Aging and Health - Doctor of Philosophy"
+title: "1.5.190 Aging and Health - Doctor of Philosophy"
 description: "University Programs > Canada > Queen’s University > Aging and Health - Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.189 Aging and Health - Doctor of Philosophy
+# 1.5.190 Aging and Health - Doctor of Philosophy
 
 ## Glossary
 

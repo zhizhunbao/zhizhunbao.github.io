@@ -1,10 +1,10 @@
 ---
-title: "1.5.206 Nursing - Nurse Practitioner Diploma"
+title: "1.5.208 Nursing - Nurse Practitioner Diploma"
 description: "University Programs > Canada > Queen’s University > Nursing - Nurse Practitioner Diploma: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.206 Nursing - Nurse Practitioner Diploma
+# 1.5.208 Nursing - Nurse Practitioner Diploma
 
 ## Glossary
 

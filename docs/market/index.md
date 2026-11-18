@@ -25,7 +25,7 @@ ms.date: 2026-11-03
 | **[School Rankings](school-rankings/index.md)**<br>中小学排名 | "(context) **the position or level** something or someone has in **a list that compares their importance, quality, success, etc.**" | （语境）某事物或某人所处的**位置或级别**，处在**一份比较其重要性、质量、成功程度等的列表**中 | [Cambridge University Press & Assessment, n.d., "ranking" noun, Business English](https://dictionary.cambridge.org/dictionary/english/ranking#:~:text=the%20position%20or%20level%20something) |
 | **[Graduate Outcomes](graduate-outcomes/index.md)**<br>毕业生结果 | "(context) Each year, Statistics Canada releases data on **the labour market outcomes of college and university graduates** using data from **the Education and Labour Market Longitudinal Platform (ELMLP)**." | （语境）加拿大统计局每年利用**教育与劳动力市场纵向平台（ELMLP）**的数据，发布**学院和大学毕业生的劳动力市场结果**。 | [Statistics Canada, 2026, "1 Introduction", para. 1](https://www150.statcan.gc.ca/n1/pub/37-20-0001/372000012026001-eng.htm#:~:text=Each%20year%2C%20Statistics%20Canada%20releases%20data) |
 | **[News](news/index.md)**<br>新闻 | "**information or reports about recent events**" | **关于近期事件的信息或报道** | [Cambridge University Press & Assessment, n.d., "news" noun, definition 1](https://dictionary.cambridge.org/dictionary/english/news) |
-| **[International Students](international-students/index.md)**<br>国际学生 | (Definition pending) | （定义待补） | [IIE, 2026](https://opendoorsdata.org/data/international-students/leading-institutions/) |
+| **[International Students](international-students/index.md)**<br>国际学生 | "Prior to 2021, Open Doors defined an international student as **an individual enrolled in coursework at an accredited, degree-granting higher education institution in the United States** on **a temporary visa that allows for academic study**." | 2021 年以前，Open Doors 把国际学生定义为**在美国一所经认证、可授予学位的高等教育机构修读课程的个人**，持有**允许学术学习的临时签证**。 | [Institute of International Education, n.d., "About: International Student Census", para. 4](https://opendoorsdata.org/about/about-international-student-census/#:~:text=Prior%20to%202021%2C%20Open%20Doors%20defined%20an%20international%20student) |
 
 ## References
 
@@ -40,6 +40,8 @@ Flexera. (n.d.). *About us*. Retrieved November 3, 2026, from <https://www.flexe
 Gartner. (n.d.). *About Gartner: Company information & leadership*. Retrieved November 3, 2026, from <https://www.gartner.com/en/about>
 
 IDC. (n.d.). *About IDC*. Retrieved November 3, 2026, from <https://www.idc.com/about/>
+
+Institute of International Education. (n.d.). *About: International student census*. Open Doors. Retrieved November 18, 2026, from <https://opendoorsdata.org/about/about-international-student-census/>
 
 LinkedIn. (n.d.). *About LinkedIn*. Retrieved November 3, 2026, from <https://about.linkedin.com/>
 

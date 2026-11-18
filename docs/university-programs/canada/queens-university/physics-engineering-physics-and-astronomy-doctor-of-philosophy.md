@@ -1,10 +1,10 @@
 ---
-title: "1.5.195 Physics, Engineering Physics and Astronomy - Doctor of Philosophy"
+title: "1.5.197 Physics, Engineering Physics and Astronomy - Doctor of Philosophy"
 description: "University Programs > Canada > Queen’s University > Physics, Engineering Physics and Astronomy - Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.195 Physics, Engineering Physics and Astronomy - Doctor of Philosophy
+# 1.5.197 Physics, Engineering Physics and Astronomy - Doctor of Philosophy
 
 ## Glossary
 

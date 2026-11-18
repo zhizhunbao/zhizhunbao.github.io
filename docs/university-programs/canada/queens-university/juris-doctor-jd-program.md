@@ -1,10 +1,10 @@
 ---
-title: "1.5.193 Juris Doctor (JD) Program"
+title: "1.5.194 Juris Doctor (JD) Program"
 description: "University Programs > Canada > Queen’s University > Juris Doctor (JD) Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 1.5.193 Juris Doctor (JD) Program
+# 1.5.194 Juris Doctor (JD) Program
 
 ## Glossary
 

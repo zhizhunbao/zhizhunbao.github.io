@@ -438,6 +438,7 @@ ms.date: 2026-11-11
 | **[CERTIFICATE IN THEORY-TO-ACTION: APPLIED SOCIAL RESEARCH](certificate-in-theory-to-action-applied-social-research.md)**<br>从理论到行动：应用社会研究证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=21740&SelectedCalendar=Live&ArchiveID=) |
 | **[CERTIFICATE IN WRITING](certificate-in-writing.md)**<br>写作证书 | (Definition pending) | （定义待补） | [Western University, n.d.](https://www.westerncalendar.uwo.ca/Modules.cfm?ModuleID=20918&SelectedCalendar=Live&ArchiveID=) |
 | **[Computer Science (Master of Science)](computer-science-master-of-science.md)**<br>计算机科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=37) |
+| **[Business Administration (Doctor of Philosophy)](business-administration-doctor-of-philosophy.md)**<br>工商管理 | (Definition pending) | （定义待补） | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=24) |
 | **[Computer Science (Doctor of Philosophy)](computer-science-doctor-of-philosophy.md)**<br>计算机科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=38) |
 | **[Interdisciplinary Health Sciences](interdisciplinary-health-sciences.md)**<br>跨学科健康科学 | (Definition pending) | （定义待补） | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=329) |
 
@@ -971,7 +972,7 @@ ms.date: 2026-11-11
 | Biochemistry<br>生物化学 | Schulich School of Medicine & Dentistry | Doctoral<br>博士 | Doctor of Philosophy | 12 Terms |  | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=16) |
 | Biology<br>生物学 | Faculty of Science | Doctoral<br>博士 | Doctor of Philosophy | 12 Terms |  | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=18) |
 | Biomedical Engineering<br>生物医学工程 | Faculty of Engineering | Doctoral<br>博士 | Doctor of Philosophy | 12 Terms (Full-time studies) |  | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=20) |
-| Business Administration<br>工商管理 | Ivey Business School | Doctoral<br>博士 | Doctor of Philosophy | 12 Terms |  | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=24) |
+| [Business Administration](business-administration-doctor-of-philosophy.md)<br>工商管理 | Ivey Business School | Doctoral<br>博士 | Doctor of Philosophy | 12 Terms |  | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=24) |
 | Chemical and Biochemical Engineering<br>化学与生物化学工程 | Faculty of Engineering | Doctoral<br>博士 | Doctor of Philosophy | 12 Terms (Full-time studies) |  | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=27) |
 | Chemistry<br>化学 | Faculty of Science | Doctoral<br>博士 | Doctor of Philosophy | 12 Terms, from MSc entry |  | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=2) |
 | Civil and Environmental Engineering<br>土木与环境工程 | Faculty of Engineering | Doctoral<br>博士 | Doctor of Philosophy | 12 Terms (Full-time studies) |  | [Western University, n.d.](https://grad.uwo.ca/admissions/program.cfm?p=30) |
