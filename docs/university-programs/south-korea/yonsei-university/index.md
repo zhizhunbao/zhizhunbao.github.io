@@ -1,10 +1,10 @@
 ---
-title: "2.4 Yonsei University"
+title: "2.2 Yonsei University"
 description: "University Programs > South Korea > Yonsei University: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.4 Yonsei University
+# 2.2 Yonsei University
 
 ## Glossary
 
@@ -17,6 +17,7 @@ ms.date: 2026-11-18
 | Ranking | Category | Rank | Source |
 |---|---|---|---|
 | QS<br>QS | World University Rankings 2027<br>世界大学排名 2027 | 42 | [QS Quacquarelli Symonds, 2026b](https://www.topuniversities.com/world-university-rankings) |
+| Times Higher Education<br>泰晤士高等教育 | World University Rankings 2027<br>世界大学排名 2027 | 80 | [Times Higher Education, 2026](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking) |
 
 ## Programs
 
@@ -28,5 +29,7 @@ ms.date: 2026-11-18
 ## References
 
 QS Quacquarelli Symonds. (2026b). *QS World University Rankings 2027: Top global universities*. TopUniversities. Retrieved November 5, 2026, from <https://www.topuniversities.com/world-university-rankings>
+
+Times Higher Education. (2026). *World University Rankings 2027* [Ranking table and its data file]. Retrieved November 5, 2026, from <https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking>
 
 Yonsei University. (n.d.). *학생연구* [College of Medicine]. Retrieved November 18, 2026, from <https://medicine.yonsei.ac.kr/medicine/about/specific/student.do>

@@ -1,10 +1,10 @@
 ---
-title: "2.1 Chung-Ang University"
+title: "2.4 Chung-Ang University"
 description: "University Programs > South Korea > Chung-Ang University: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1 Chung-Ang University
+# 2.4 Chung-Ang University
 
 ## Glossary
 

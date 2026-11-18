@@ -12,6 +12,12 @@ ms.date: 2026-11-18
 |---|---|---|---|
 | **Sungkyunkwan University**<br>成均馆大学 | (Definition pending) | （定义待补） | [Sungkyunkwan University, n.d.](https://pharm.skku.edu/college/loadmap01.php) |
 
+## University Rankings
+
+| Ranking | Category | Rank | Source |
+|---|---|---|---|
+| Times Higher Education<br>泰晤士高等教育 | World University Rankings 2027<br>世界大学排名 2027 | 68 | [Times Higher Education, 2026](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking) |
+
 ## Programs
 
 | Program Name | Faculty | Degree Level | Degree | Duration and Credentials | Campus | Source |
@@ -21,3 +27,5 @@ ms.date: 2026-11-18
 ## References
 
 Sungkyunkwan University. (n.d.). *졸업요건* [College of Pharmacy]. Retrieved November 18, 2026, from <https://pharm.skku.edu/college/loadmap01.php>
+
+Times Higher Education. (2026). *World University Rankings 2027* [Ranking table and its data file]. Retrieved November 5, 2026, from <https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking>

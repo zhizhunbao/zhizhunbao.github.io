@@ -1,6 +1,6 @@
 ---
 title: "2. South Korea"
-description: "University Programs > South Korea: universities in South Korea, alphabetical, one folder per university; definitions pending."
+description: "University Programs > South Korea: universities in South Korea, numbered in the order of the JoongAng Ilbo university evaluation's latest overall ranking, one folder per university; definitions pending."
 ms.date: 2026-11-18
 ---
 
@@ -11,10 +11,10 @@ ms.date: 2026-11-18
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **South Korea**<br>韩国 | (Definition pending) | （定义待补） | [Korean Council for University Education, n.d.](https://www.academyinfo.go.kr/) |
-| **[Chung-Ang University](chung-ang-university/index.md)**<br>中央大学 | (Definition pending) | （定义待补） | [Chung-Ang University, n.d.](https://pharm.cau.ac.kr/bm/bm-1-1.php) |
 | **[Seoul National University](seoul-national-university/index.md)**<br>首尔大学 | (Definition pending) | （定义待补） | [Seoul National University, n.d.](https://www.snu.ac.kr/academics/undergraduate/colleges) |
-| **[Sungkyunkwan University](sungkyunkwan-university/index.md)**<br>成均馆大学 | (Definition pending) | （定义待补） | [Sungkyunkwan University, n.d.](https://pharm.skku.edu/college/loadmap01.php) |
 | **[Yonsei University](yonsei-university/index.md)**<br>延世大学 | (Definition pending) | （定义待补） | [Yonsei University, n.d.](https://medicine.yonsei.ac.kr/medicine/about/specific/student.do) |
+| **[Sungkyunkwan University](sungkyunkwan-university/index.md)**<br>成均馆大学 | (Definition pending) | （定义待补） | [Sungkyunkwan University, n.d.](https://pharm.skku.edu/college/loadmap01.php) |
+| **[Chung-Ang University](chung-ang-university/index.md)**<br>中央大学 | (Definition pending) | （定义待补） | [Chung-Ang University, n.d.](https://pharm.cau.ac.kr/bm/bm-1-1.php) |
 
 ## References
 

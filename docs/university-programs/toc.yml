@@ -9708,13 +9708,13 @@ items:
 - name: "2. South Korea"
   href: south-korea/index.md
   items:
-  - name: "2.1 Chung-Ang University"
-    href: south-korea/chung-ang-university/index.md
-  - name: "2.2 Seoul National University"
+  - name: "2.1 Seoul National University"
     href: south-korea/seoul-national-university/index.md
   - name: "2.3 Sungkyunkwan University"
     href: south-korea/sungkyunkwan-university/index.md
-  - name: "2.4 Yonsei University"
+  - name: "2.4 Chung-Ang University"
+    href: south-korea/chung-ang-university/index.md
+  - name: "2.2 Yonsei University"
     href: south-korea/yonsei-university/index.md
 - name: "3. United States"
   href: united-states/index.md
