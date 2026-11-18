@@ -5978,14 +5978,1971 @@ items:
     href: queens-university/water-and-human-health-graduate-diploma.md
 - name: "6. University of Alberta"
   href: university-of-alberta/index.md
+  items:
+  - name: "6.1 Baccalauréat bilingue en Administration des affaires"
+    href: university-of-alberta/baccalaureat-bilingue-en-administration-des-affaires.md
+  - name: "6.2 Baccalauréat bilingue en Administration des affaires - En vigueur à partir de l’automne 2027"
+    href: university-of-alberta/baccalaureat-bilingue-en-administration-des-affaires-en-vigueur-a-partir-de-lautomne-2027.md
+  - name: "6.3 Baccalauréat en Éducation/Baccalauréat ès sciences"
+    href: university-of-alberta/baccalaureat-en-education-baccalaureat-es-sciences.md
+  - name: "6.4 Baccalauréat ès arts"
+    href: university-of-alberta/baccalaureat-es-arts.md
+  - name: "6.5 Baccalauréat ès sciences"
+    href: university-of-alberta/baccalaureat-es-sciences.md
+  - name: "6.6 Baccalauréat ès sciences infirmières (bilingue)"
+    href: university-of-alberta/baccalaureat-es-sciences-infirmieres-bilingue.md
+  - name: "6.7 Bachelor of Arts (Drama) / Bachelor of Education in Secondary Education Combined Degrees Program [Arts]"
+    href: university-of-alberta/bachelor-of-arts-drama-bachelor-of-education-in-secondary-education-combined-degrees-progr.md
+  - name: "6.8 Bachelor of Arts (Native Studies) / Bachelor of Education in Elementary Education Combined Degrees Program [Native Studies]"
+    href: university-of-alberta/bachelor-of-arts-native-studies-bachelor-of-education-in-elementary-education-combined-deg.md
+  - name: "6.9 Bachelor of Arts [Faculté Saint-Jean]"
+    href: university-of-alberta/bachelor-of-arts-faculte-saint-jean.md
+  - name: "6.10 Bachelor of Arts in Criminology"
+    href: university-of-alberta/bachelor-of-arts-in-criminology.md
+  - name: "6.11 Bachelor of Arts in Environmental Studies [ALES]"
+    href: university-of-alberta/bachelor-of-arts-in-environmental-studies-ales.md
+  - name: "6.12 Bachelor of Arts in Environmental Studies [Arts]"
+    href: university-of-alberta/bachelor-of-arts-in-environmental-studies-arts.md
+  - name: "6.13 Bachelor of Arts in Native Studies"
+    href: university-of-alberta/bachelor-of-arts-in-native-studies.md
+  - name: "6.14 Bachelor of Arts in Native Studies / Bachelor of Science in Environmental and Conservation Sciences Combined Degree Program [Native Studies]"
+    href: university-of-alberta/bachelor-of-arts-in-native-studies-bachelor-of-science-in-environmental-and-conservation-s.md
+  - name: "6.15 Bachelor of Arts in Native Studies Honors"
+    href: university-of-alberta/bachelor-of-arts-in-native-studies-honors.md
+  - name: "6.16 Bachelor of Arts in Recreation, Sport, and Tourism"
+    href: university-of-alberta/bachelor-of-arts-in-recreation-sport-and-tourism.md
+  - name: "6.17 Bachelor of Biomedicine Dual Degree Program"
+    href: university-of-alberta/bachelor-of-biomedicine-dual-degree-program.md
+  - name: "6.18 Bachelor of Commerce After Degree"
+    href: university-of-alberta/bachelor-of-commerce-after-degree.md
+  - name: "6.19 Bachelor of Commerce General"
+    href: university-of-alberta/bachelor-of-commerce-general.md
+  - name: "6.20 Bachelor of Education / Bachelor of Science Degrees [Faculté Saint-Jean]"
+    href: university-of-alberta/bachelor-of-education-bachelor-of-science-degrees-faculte-saint-jean.md
+  - name: "6.21 Bachelor of Education in Elementary Education"
+    href: university-of-alberta/bachelor-of-education-in-elementary-education.md
+  - name: "6.22 Bachelor of Education in Elementary Education (Augustana/Education) [Augustana]"
+    href: university-of-alberta/bachelor-of-education-in-elementary-education-augustana-education-augustana.md
+  - name: "6.23 Bachelor of Education in Elementary Education - After Degree"
+    href: university-of-alberta/bachelor-of-education-in-elementary-education-after-degree.md
+  - name: "6.24 Bachelor of Education in Secondary Education"
+    href: university-of-alberta/bachelor-of-education-in-secondary-education.md
+  - name: "6.25 Bachelor of Education in Secondary Education - After Degree"
+    href: university-of-alberta/bachelor-of-education-in-secondary-education-after-degree.md
+  - name: "6.26 Bachelor of Fine Arts in Art and Design"
+    href: university-of-alberta/bachelor-of-fine-arts-in-art-and-design.md
+  - name: "6.27 Bachelor of Health Sciences"
+    href: university-of-alberta/bachelor-of-health-sciences.md
+  - name: "6.28 Bachelor of Kinesiology"
+    href: university-of-alberta/bachelor-of-kinesiology.md
+  - name: "6.29 Bachelor of Kinesiology / Bachelor of Education Combined Degrees Program (Secondary and Elementary Routes) [Kinesiology, Sport, and Recreation]"
+    href: university-of-alberta/bachelor-of-kinesiology-bachelor-of-education-combined-degrees-program-secondary-and-eleme.md
+  - name: "6.30 Bachelor of Management [Augustana]"
+    href: university-of-alberta/bachelor-of-management-augustana.md
+  - name: "6.31 Bachelor of Music / Bachelor of Education in Elementary Education Combined Degrees Program [Arts]"
+    href: university-of-alberta/bachelor-of-music-bachelor-of-education-in-elementary-education-combined-degrees-program-a.md
+  - name: "6.32 Bachelor of Music / Bachelor of Education in Secondary Education Combined Degrees Program [Arts]"
+    href: university-of-alberta/bachelor-of-music-bachelor-of-education-in-secondary-education-combined-degrees-program-ar.md
+  - name: "6.33 Bachelor of Music [Augustana]"
+    href: university-of-alberta/bachelor-of-music-augustana.md
+  - name: "6.34 Bachelor of Science [Augustana]"
+    href: university-of-alberta/bachelor-of-science-augustana.md
+  - name: "6.35 Bachelor of Science [Faculté Saint-Jean]"
+    href: university-of-alberta/bachelor-of-science-faculte-saint-jean.md
+  - name: "6.36 Bachelor of Science Dental Hygiene"
+    href: university-of-alberta/bachelor-of-science-dental-hygiene.md
+  - name: "6.37 Bachelor of Science Honors in Food Science"
+    href: university-of-alberta/bachelor-of-science-honors-in-food-science.md
+  - name: "6.38 Bachelor of Science Honors in Nutrition"
+    href: university-of-alberta/bachelor-of-science-honors-in-nutrition.md
+  - name: "6.39 Bachelor of Science in Chemical Engineering"
+    href: university-of-alberta/bachelor-of-science-in-chemical-engineering.md
+  - name: "6.40 Bachelor of Science in Chemical Engineering Co-op - Plan I"
+    href: university-of-alberta/bachelor-of-science-in-chemical-engineering-co-op-plan-i.md
+  - name: "6.41 Bachelor of Science in Civil Engineering"
+    href: university-of-alberta/bachelor-of-science-in-civil-engineering.md
+  - name: "6.42 Bachelor of Science in Civil Engineering Co-op"
+    href: university-of-alberta/bachelor-of-science-in-civil-engineering-co-op.md
+  - name: "6.43 Bachelor of Science in Computer Engineering"
+    href: university-of-alberta/bachelor-of-science-in-computer-engineering.md
+  - name: "6.44 Bachelor of Science in Computer Engineering Co-op"
+    href: university-of-alberta/bachelor-of-science-in-computer-engineering-co-op.md
+  - name: "6.45 Bachelor of Science in Electrical Engineering"
+    href: university-of-alberta/bachelor-of-science-in-electrical-engineering.md
+  - name: "6.46 Bachelor of Science in Electrical Engineering Co-op"
+    href: university-of-alberta/bachelor-of-science-in-electrical-engineering-co-op.md
+  - name: "6.47 Bachelor of Science in Engineering Physics"
+    href: university-of-alberta/bachelor-of-science-in-engineering-physics.md
+  - name: "6.48 Bachelor of Science in Engineering Physics Co-op"
+    href: university-of-alberta/bachelor-of-science-in-engineering-physics-co-op.md
+  - name: "6.49 Bachelor of Science in Fashion Business Management"
+    href: university-of-alberta/bachelor-of-science-in-fashion-business-management.md
+  - name: "6.50 Bachelor of Science in Forest Business Management"
+    href: university-of-alberta/bachelor-of-science-in-forest-business-management.md
+  - name: "6.51 Bachelor of Science in Forestry"
+    href: university-of-alberta/bachelor-of-science-in-forestry.md
+  - name: "6.52 Bachelor of Science in Kinesiology"
+    href: university-of-alberta/bachelor-of-science-in-kinesiology.md
+  - name: "6.53 Bachelor of Science in Materials Engineering"
+    href: university-of-alberta/bachelor-of-science-in-materials-engineering.md
+  - name: "6.54 Bachelor of Science in Materials Engineering Co-op"
+    href: university-of-alberta/bachelor-of-science-in-materials-engineering-co-op.md
+  - name: "6.55 Bachelor of Science in Mechanical Engineering"
+    href: university-of-alberta/bachelor-of-science-in-mechanical-engineering.md
+  - name: "6.56 Bachelor of Science in Mechanical Engineering Co-op - Plan I"
+    href: university-of-alberta/bachelor-of-science-in-mechanical-engineering-co-op-plan-i.md
+  - name: "6.57 Bachelor of Science in Mechanical Engineering Co-op - Plan II"
+    href: university-of-alberta/bachelor-of-science-in-mechanical-engineering-co-op-plan-ii.md
+  - name: "6.58 Bachelor of Science in Mechatronics and Robotics Engineering Co-op"
+    href: university-of-alberta/bachelor-of-science-in-mechatronics-and-robotics-engineering-co-op.md
+  - name: "6.59 Bachelor of Science in Medical Laboratory Science"
+    href: university-of-alberta/bachelor-of-science-in-medical-laboratory-science.md
+  - name: "6.60 Bachelor of Science in Medical Laboratory Science Post-Professional Certification degree completion"
+    href: university-of-alberta/bachelor-of-science-in-medical-laboratory-science-post-professional-certification-degree-c.md
+  - name: "6.61 Bachelor of Science in Mining Engineering"
+    href: university-of-alberta/bachelor-of-science-in-mining-engineering.md
+  - name: "6.62 Bachelor of Science in Mining Engineering Co-op - Plan I"
+    href: university-of-alberta/bachelor-of-science-in-mining-engineering-co-op-plan-i.md
+  - name: "6.63 Bachelor of Science in Mining Engineering Co-op - Plan II"
+    href: university-of-alberta/bachelor-of-science-in-mining-engineering-co-op-plan-ii.md
+  - name: "6.64 Bachelor of Science in Nursing - After Degree"
+    href: university-of-alberta/bachelor-of-science-in-nursing-after-degree.md
+  - name: "6.65 Bachelor of Science in Nursing - Bilingual [Nursing]"
+    href: university-of-alberta/bachelor-of-science-in-nursing-bilingual-nursing.md
+  - name: "6.66 Bachelor of Science in Nursing - Collaborative"
+    href: university-of-alberta/bachelor-of-science-in-nursing-collaborative.md
+  - name: "6.67 Bachelor of Science in Nursing - Honors"
+    href: university-of-alberta/bachelor-of-science-in-nursing-honors.md
+  - name: "6.68 Bachelor of Science in Nutrition and Food Science - Dietetics Specialization"
+    href: university-of-alberta/bachelor-of-science-in-nutrition-and-food-science-dietetics-specialization.md
+  - name: "6.69 Bachelor of Science in Nutrition and Food Science - Food Science and Technology Specialization"
+    href: university-of-alberta/bachelor-of-science-in-nutrition-and-food-science-food-science-and-technology-specializati.md
+  - name: "6.70 Bachelor of Science in Nutrition and Food Science - General Program"
+    href: university-of-alberta/bachelor-of-science-in-nutrition-and-food-science-general-program.md
+  - name: "6.71 Bachelor of Science in Petroleum Engineering"
+    href: university-of-alberta/bachelor-of-science-in-petroleum-engineering.md
+  - name: "6.72 Bachelor of Science in Petroleum Engineering Co-op"
+    href: university-of-alberta/bachelor-of-science-in-petroleum-engineering-co-op.md
+  - name: "6.73 Bachelor of Science in Radiation Therapy"
+    href: university-of-alberta/bachelor-of-science-in-radiation-therapy.md
+  - name: "6.74 Bilingual Bachelor of Commerce - Effective Fall 2027 [Business]"
+    href: university-of-alberta/bilingual-bachelor-of-commerce-effective-fall-2027-business.md
+  - name: "6.75 Bilingual Bachelor of Commerce [Faculté Saint-Jean]"
+    href: university-of-alberta/bilingual-bachelor-of-commerce-faculte-saint-jean.md
+  - name: "6.76 Artificial Intelligence Everywhere Certificate"
+    href: university-of-alberta/artificial-intelligence-everywhere-certificate.md
+  - name: "6.77 Certificate in Applied Data Science"
+    href: university-of-alberta/certificate-in-applied-data-science.md
+  - name: "6.78 Certificate in Applied Social Science Research"
+    href: university-of-alberta/certificate-in-applied-social-science-research.md
+  - name: "6.79 Certificate in Archaeology"
+    href: university-of-alberta/certificate-in-archaeology.md
+  - name: "6.80 Certificate in Civil - Military Leadership"
+    href: university-of-alberta/certificate-in-civil-military-leadership.md
+  - name: "6.81 Certificate in Computer Game Development [Arts]"
+    href: university-of-alberta/certificate-in-computer-game-development-arts.md
+  - name: "6.82 Certificate in Dental Assisting"
+    href: university-of-alberta/certificate-in-dental-assisting.md
+  - name: "6.83 Certificate in Ethics"
+    href: university-of-alberta/certificate-in-ethics.md
+  - name: "6.84 Certificate in Indigenous Governance and Partnership (With Degree)"
+    href: university-of-alberta/certificate-in-indigenous-governance-and-partnership-with-degree.md
+  - name: "6.85 Certificate in Indigenous Sport and Recreation [Kinesiology, Sport, and Recreation]"
+    href: university-of-alberta/certificate-in-indigenous-sport-and-recreation-kinesiology-sport-and-recreation.md
+  - name: "6.86 Certificate in Interdisciplinary Leadership Studies"
+    href: university-of-alberta/certificate-in-interdisciplinary-leadership-studies.md
+  - name: "6.87 Certificate in Language Documentation and Revitalization"
+    href: university-of-alberta/certificate-in-language-documentation-and-revitalization.md
+  - name: "6.88 Certificate in Leadership"
+    href: university-of-alberta/certificate-in-leadership.md
+  - name: "6.89 Certificate in Politics and Democracy"
+    href: university-of-alberta/certificate-in-politics-and-democracy.md
+  - name: "6.90 Certificate in Sexuality Studies"
+    href: university-of-alberta/certificate-in-sexuality-studies.md
+  - name: "6.91 Certificate in Translation Studies in Japanese"
+    href: university-of-alberta/certificate-in-translation-studies-in-japanese.md
+  - name: "6.92 Certificate in World Sound Arts"
+    href: university-of-alberta/certificate-in-world-sound-arts.md
+  - name: "6.93 Certificate in Writing Studies"
+    href: university-of-alberta/certificate-in-writing-studies.md
+  - name: "6.94 Community Linguist Certificate"
+    href: university-of-alberta/community-linguist-certificate.md
+  - name: "6.95 MLCS Certificate in Translation Studies"
+    href: university-of-alberta/mlcs-certificate-in-translation-studies.md
+  - name: "6.96 Research Certificate in Arts (Psychology)"
+    href: university-of-alberta/research-certificate-in-arts-psychology.md
+  - name: "6.97 Research Certificate in Science (Psychology)"
+    href: university-of-alberta/research-certificate-in-science-psychology.md
+  - name: "6.98 Undergraduate Embedded Certificate in Planetary Health"
+    href: university-of-alberta/undergraduate-embedded-certificate-in-planetary-health.md
+  - name: "6.99 University Credit Certificate in Indigenous Governance and Partnership (Certificate only)"
+    href: university-of-alberta/university-credit-certificate-in-indigenous-governance-and-partnership-certificate-only.md
+  - name: "6.100 Doctor of Dental Surgery"
+    href: university-of-alberta/doctor-of-dental-surgery.md
+  - name: "6.101 Doctor of Dental Surgery Advanced Placement Program"
+    href: university-of-alberta/doctor-of-dental-surgery-advanced-placement-program.md
+  - name: "6.102 Doctor of Medicine"
+    href: university-of-alberta/doctor-of-medicine.md
+  - name: "6.103 Doctor of Pharmacy"
+    href: university-of-alberta/doctor-of-pharmacy.md
+  - name: "6.104 Juris Doctor"
+    href: university-of-alberta/juris-doctor.md
+  - name: "6.105 Post-Bachelor’s Certificate for Internationally Trained Legal Professionals"
+    href: university-of-alberta/post-bachelors-certificate-for-internationally-trained-legal-professionals.md
 - name: "7. McMaster University"
   href: mcmaster-university/index.md
 - name: "8. University of Ottawa"
   href: university-of-ottawa/index.md
+  items:
+  - name: "8.1 B.A. spécialisé bidisciplinaire en communication et lettres françaises"
+    href: university-of-ottawa/b-a-specialise-bidisciplinaire-en-communication-et-lettres-francaises.md
+  - name: "8.2 B.A. spécialisé Lettres françaises"
+    href: university-of-ottawa/b-a-specialise-lettres-francaises.md
+  - name: "8.3 Bachelor of Arts Interdisciplinary Studies"
+    href: university-of-ottawa/bachelor-of-arts-interdisciplinary-studies.md
+  - name: "8.4 Bachelor of Arts Interdisciplinary Studies (online)"
+    href: university-of-ottawa/bachelor-of-arts-interdisciplinary-studies-online.md
+  - name: "8.5 Bachelor of Fine Arts (BFA)"
+    href: university-of-ottawa/bachelor-of-fine-arts-bfa.md
+  - name: "8.6 Bachelor of Fine Arts in Acting"
+    href: university-of-ottawa/bachelor-of-fine-arts-in-acting.md
+  - name: "8.7 Bachelor of Multidisciplinary Design - Experiential Learning"
+    href: university-of-ottawa/bachelor-of-multidisciplinary-design-experiential-learning.md
+  - name: "8.8 Bachelor of Music (BMUS)"
+    href: university-of-ottawa/bachelor-of-music-bmus.md
+  - name: "8.9 Bachelor of Science"
+    href: university-of-ottawa/bachelor-of-science.md
+  - name: "8.10 Bachelor of Science with Double Minor"
+    href: university-of-ottawa/bachelor-of-science-with-double-minor.md
+  - name: "8.11 Bachelor of Science with Major"
+    href: university-of-ottawa/bachelor-of-science-with-major.md
+  - name: "8.12 Bachelor of Science with Minor"
+    href: university-of-ottawa/bachelor-of-science-with-minor.md
+  - name: "8.13 Bachelor of Social Sciences in Interdisciplinary Studies (Bachelor of Social Sciences)"
+    href: university-of-ottawa/bachelor-of-social-sciences-in-interdisciplinary-studies-bachelor-of-social-sciences.md
+  - name: "8.14 Bachelor of Social Sciences in Interdisciplinary Studies (Bachelor of Social Sciences)"
+    href: university-of-ottawa/bachelor-of-social-sciences-in-interdisciplinary-studies-bachelor-of-social-sciences-bachelor-social-scie.md
+  - name: "8.15 Bachelor of Social Sciences in Interdisciplinary Studies (Bachelor of Social Sciences)"
+    href: university-of-ottawa/bachelor-of-social-sciences-in-interdisciplinary-studies-bachelor-of-social-sciences-bachelor-social-scie-bachelor-social-scie.md
+  - name: "8.16 Bachelor of Social Sciences with double Minor"
+    href: university-of-ottawa/bachelor-of-social-sciences-with-double-minor.md
+  - name: "8.17 Bachelor of Social Sciences with Minor"
+    href: university-of-ottawa/bachelor-of-social-sciences-with-minor.md
+  - name: "8.18 BASc Biomedical Mechanical Engineering"
+    href: university-of-ottawa/basc-biomedical-mechanical-engineering.md
+  - name: "8.19 BASc Chemical Engineering"
+    href: university-of-ottawa/basc-chemical-engineering.md
+  - name: "8.20 BASc Civil Engineering"
+    href: university-of-ottawa/basc-civil-engineering.md
+  - name: "8.21 BASc Computer Engineering"
+    href: university-of-ottawa/basc-computer-engineering.md
+  - name: "8.22 BASc Electrical Engineering"
+    href: university-of-ottawa/basc-electrical-engineering.md
+  - name: "8.23 BASc Mechanical Engineering"
+    href: university-of-ottawa/basc-mechanical-engineering.md
+  - name: "8.24 BASc Multidisciplinary Design Engineering"
+    href: university-of-ottawa/basc-multidisciplinary-design-engineering.md
+  - name: "8.25 BASc Software Engineering"
+    href: university-of-ottawa/basc-software-engineering.md
+  - name: "8.26 Certificat/Baccalauréat en éducation - Éducation technologique"
+    href: university-of-ottawa/certificat-baccalaureat-en-education-education-technologique.md
+  - name: "8.27 Formation à l'enseignement - Cycles intermédiaire/supérieur"
+    href: university-of-ottawa/formation-a-l-enseignement-cycles-intermediaire-superieur.md
+  - name: "8.28 Formation à l'enseignement - Cycles moyen/intermédiaire"
+    href: university-of-ottawa/formation-a-l-enseignement-cycles-moyen-intermediaire.md
+  - name: "8.29 Formation à l'enseignement - Cycles primaire/moyen"
+    href: university-of-ottawa/formation-a-l-enseignement-cycles-primaire-moyen.md
+  - name: "8.30 Formation à l'enseignement en mode alternatif - B.Éd. (à temps partiel) - Cycles moyen/intermédiaire"
+    href: university-of-ottawa/formation-a-l-enseignement-en-mode-alternatif-b-ed-a-temps-partiel-cycles-moyen-intermedia.md
+  - name: "8.31 Formation à l'enseignement en mode alternatif - B.Éd. (à temps partiel) - Cycles primaire/moyen"
+    href: university-of-ottawa/formation-a-l-enseignement-en-mode-alternatif-b-ed-a-temps-partiel-cycles-primaire-moyen.md
+  - name: "8.32 Honours BA Communication"
+    href: university-of-ottawa/honours-ba-communication.md
+  - name: "8.33 Honours BA English"
+    href: university-of-ottawa/honours-ba-english.md
+  - name: "8.34 Honours BA Environmental Studies"
+    href: university-of-ottawa/honours-ba-environmental-studies.md
+  - name: "8.35 Honours BA Environmental Studies (Bilingual Program)"
+    href: university-of-ottawa/honours-ba-environmental-studies-bilingual-program.md
+  - name: "8.36 Honours BA Ethics and Political Philosophy"
+    href: university-of-ottawa/honours-ba-ethics-and-political-philosophy.md
+  - name: "8.37 Honours BA French Studies"
+    href: university-of-ottawa/honours-ba-french-studies.md
+  - name: "8.38 Honours BA French-English Translation"
+    href: university-of-ottawa/honours-ba-french-english-translation.md
+  - name: "8.39 Honours BA French-English Translation (two years)"
+    href: university-of-ottawa/honours-ba-french-english-translation-two-years.md
+  - name: "8.40 Honours BA French-Spanish-English Translation"
+    href: university-of-ottawa/honours-ba-french-spanish-english-translation.md
+  - name: "8.41 Honours BA French-Spanish-English Translation (two years)"
+    href: university-of-ottawa/honours-ba-french-spanish-english-translation-two-years.md
+  - name: "8.42 Honours BA Geography"
+    href: university-of-ottawa/honours-ba-geography.md
+  - name: "8.43 Honours BA Greek and Roman Studies"
+    href: university-of-ottawa/honours-ba-greek-and-roman-studies.md
+  - name: "8.44 Honours BA History"
+    href: university-of-ottawa/honours-ba-history.md
+  - name: "8.45 Honours BA Linguistics"
+    href: university-of-ottawa/honours-ba-linguistics.md
+  - name: "8.46 Honours BA Music"
+    href: university-of-ottawa/honours-ba-music.md
+  - name: "8.47 Honours BA Philosophy"
+    href: university-of-ottawa/honours-ba-philosophy.md
+  - name: "8.48 Honours BA Psychology"
+    href: university-of-ottawa/honours-ba-psychology.md
+  - name: "8.49 Honours BA Religious Studies"
+    href: university-of-ottawa/honours-ba-religious-studies.md
+  - name: "8.50 Honours BA Second Language Teaching - Teaching English as a Second Language (ESL)"
+    href: university-of-ottawa/honours-ba-second-language-teaching-teaching-english-as-a-second-language-esl.md
+  - name: "8.51 Honours BA Second Language Teaching - Teaching French as a Second Language (FLS)"
+    href: university-of-ottawa/honours-ba-second-language-teaching-teaching-french-as-a-second-language-fls.md
+  - name: "8.52 Honours BA Spanish"
+    href: university-of-ottawa/honours-ba-spanish.md
+  - name: "8.53 Honours BA Theatre"
+    href: university-of-ottawa/honours-ba-theatre.md
+  - name: "8.54 Honours Bachelor of Commerce (Global Management)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-global-management.md
+  - name: "8.55 Honours Bachelor of Commerce (Option in Accounting)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-in-accounting.md
+  - name: "8.56 Honours Bachelor of Commerce (Option in Business Analytics)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-in-business-analytics.md
+  - name: "8.57 Honours Bachelor of Commerce (Option in Business Technology Management)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-in-business-technology-management.md
+  - name: "8.58 Honours Bachelor of Commerce (Option in Entrepreneurship)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-in-entrepreneurship.md
+  - name: "8.59 Honours Bachelor of Commerce (Option in Finance)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-in-finance.md
+  - name: "8.60 Honours Bachelor of Commerce (Option in Healthcare Analytics)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-in-healthcare-analytics.md
+  - name: "8.61 Honours Bachelor of Commerce (Option in Human Resource Management)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-in-human-resource-management.md
+  - name: "8.62 Honours Bachelor of Commerce (Option in Management)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-in-management.md
+  - name: "8.63 Honours Bachelor of Commerce (Option in Marketing)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-in-marketing.md
+  - name: "8.64 Honours Bachelor of Commerce (Option International Management)"
+    href: university-of-ottawa/honours-bachelor-of-commerce-option-international-management.md
+  - name: "8.65 Honours Bachelor of Commerce in Accounting"
+    href: university-of-ottawa/honours-bachelor-of-commerce-in-accounting.md
+  - name: "8.66 Honours Bachelor of Digital Journalism"
+    href: university-of-ottawa/honours-bachelor-of-digital-journalism.md
+  - name: "8.67 Honours Bachelor of Health Sciences"
+    href: university-of-ottawa/honours-bachelor-of-health-sciences.md
+  - name: "8.68 Honours Bachelor of Human Kinetics"
+    href: university-of-ottawa/honours-bachelor-of-human-kinetics.md
+  - name: "8.69 Honours Bachelor of Human Kinetics - Recreation and Sport Management"
+    href: university-of-ottawa/honours-bachelor-of-human-kinetics-recreation-and-sport-management.md
+  - name: "8.70 Honours Bachelor of Integrated Food Sciences in partnership with Le Cordon Bleu"
+    href: university-of-ottawa/honours-bachelor-of-integrated-food-sciences-in-partnership-with-le-cordon-bleu.md
+  - name: "8.71 Honours Bachelor of Multidisciplinary Design – Experiential Learning"
+    href: university-of-ottawa/honours-bachelor-of-multidisciplinary-design-experiential-learning.md
+  - name: "8.72 Honours Bachelor of Public Relations"
+    href: university-of-ottawa/honours-bachelor-of-public-relations.md
+  - name: "8.73 Honours Bachelor of Science in Food Sciences"
+    href: university-of-ottawa/honours-bachelor-of-science-in-food-sciences.md
+  - name: "8.74 Honours Bachelor of Science in Human Kinetics"
+    href: university-of-ottawa/honours-bachelor-of-science-in-human-kinetics.md
+  - name: "8.75 Honours Bachelor of Science in Nursing"
+    href: university-of-ottawa/honours-bachelor-of-science-in-nursing.md
+  - name: "8.76 Honours Bachelor of Science in Nursing - Second Entry Program"
+    href: university-of-ottawa/honours-bachelor-of-science-in-nursing-second-entry-program.md
+  - name: "8.77 Honours Bachelor of Science in Nursing – Bridging Pathway"
+    href: university-of-ottawa/honours-bachelor-of-science-in-nursing-bridging-pathway.md
+  - name: "8.78 Honours Bachelor of Science in Nutrition and Dietetics"
+    href: university-of-ottawa/honours-bachelor-of-science-in-nutrition-and-dietetics.md
+  - name: "8.79 Honours Bachelor of Science in Translational and Molecular Medicine"
+    href: university-of-ottawa/honours-bachelor-of-science-in-translational-and-molecular-medicine.md
+  - name: "8.80 Honours Bachelor of Science Nursing"
+    href: university-of-ottawa/honours-bachelor-of-science-nursing.md
+  - name: "8.81 Honours BSc Biochemistry"
+    href: university-of-ottawa/honours-bsc-biochemistry.md
+  - name: "8.82 Honours BSc Biology"
+    href: university-of-ottawa/honours-bsc-biology.md
+  - name: "8.83 Honours BSc Biomedical Science"
+    href: university-of-ottawa/honours-bsc-biomedical-science.md
+  - name: "8.84 Honours BSc Biopharmaceutical Science"
+    href: university-of-ottawa/honours-bsc-biopharmaceutical-science.md
+  - name: "8.85 Honours BSc Chemistry"
+    href: university-of-ottawa/honours-bsc-chemistry.md
+  - name: "8.86 Honours BSc Computer Science"
+    href: university-of-ottawa/honours-bsc-computer-science.md
+  - name: "8.87 Honours BSc Environmental Geoscience"
+    href: university-of-ottawa/honours-bsc-environmental-geoscience.md
+  - name: "8.88 Honours BSc Environmental Science"
+    href: university-of-ottawa/honours-bsc-environmental-science.md
+  - name: "8.89 Honours BSc Financial Mathematics and Economics"
+    href: university-of-ottawa/honours-bsc-financial-mathematics-and-economics.md
+  - name: "8.90 Honours BSc Geology"
+    href: university-of-ottawa/honours-bsc-geology.md
+  - name: "8.91 Honours BSc Geology-Physics"
+    href: university-of-ottawa/honours-bsc-geology-physics.md
+  - name: "8.92 Honours BSc Mathematics"
+    href: university-of-ottawa/honours-bsc-mathematics.md
+  - name: "8.93 Honours BSc Ophthalmic Medical Technology"
+    href: university-of-ottawa/honours-bsc-ophthalmic-medical-technology.md
+  - name: "8.94 Honours BSc Physics"
+    href: university-of-ottawa/honours-bsc-physics.md
+  - name: "8.95 Honours BSc Physics-Mathematics"
+    href: university-of-ottawa/honours-bsc-physics-mathematics.md
+  - name: "8.96 Honours BSc Psychology"
+    href: university-of-ottawa/honours-bsc-psychology.md
+  - name: "8.97 Honours BSc Statistics"
+    href: university-of-ottawa/honours-bsc-statistics.md
+  - name: "8.98 Honours BSocSc Anthropology"
+    href: university-of-ottawa/honours-bsocsc-anthropology.md
+  - name: "8.99 Honours BSocSc Anthropology - In-depth Experiential Learning Stream (IELS)"
+    href: university-of-ottawa/honours-bsocsc-anthropology-in-depth-experiential-learning-stream-iels.md
+  - name: "8.100 Honours BSocSc Conflict Studies and Human Rights"
+    href: university-of-ottawa/honours-bsocsc-conflict-studies-and-human-rights.md
+  - name: "8.101 Honours BSocSc Conflict Studies and Human Rights - In-depth Experiential Learning Stream (IELS)"
+    href: university-of-ottawa/honours-bsocsc-conflict-studies-and-human-rights-in-depth-experiential-learning-stream-iel.md
+  - name: "8.102 Honours BSocSc Criminology"
+    href: university-of-ottawa/honours-bsocsc-criminology.md
+  - name: "8.103 Honours BSocSc Economics"
+    href: university-of-ottawa/honours-bsocsc-economics.md
+  - name: "8.104 Honours BSocSc Economics and Public Policy"
+    href: university-of-ottawa/honours-bsocsc-economics-and-public-policy.md
+  - name: "8.105 Honours BSocSc Environmental Economics and Public Policy"
+    href: university-of-ottawa/honours-bsocsc-environmental-economics-and-public-policy.md
+  - name: "8.106 Honours BSocSc International Development and Globalization"
+    href: university-of-ottawa/honours-bsocsc-international-development-and-globalization.md
+  - name: "8.107 Honours BSocSc International Development and Globalization - In-depth Experiential Learning Stream (IELS)"
+    href: university-of-ottawa/honours-bsocsc-international-development-and-globalization-in-depth-experiential-learning.md
+  - name: "8.108 Honours BSocSc International Economics and Development"
+    href: university-of-ottawa/honours-bsocsc-international-economics-and-development.md
+  - name: "8.109 Honours BSocSc International Studies and Modern Languages"
+    href: university-of-ottawa/honours-bsocsc-international-studies-and-modern-languages.md
+  - name: "8.110 Honours BSocSc International Studies and Modern Languages – In-depth Experiential Learning Stream (IELS)"
+    href: university-of-ottawa/honours-bsocsc-international-studies-and-modern-languages-in-depth-experiential-learning-s.md
+  - name: "8.111 Honours BSocSc Political Science"
+    href: university-of-ottawa/honours-bsocsc-political-science.md
+  - name: "8.112 Honours BSocSc Public Administration"
+    href: university-of-ottawa/honours-bsocsc-public-administration.md
+  - name: "8.113 Honours BSocSc Social Work - In-depth Experiential Learning Stream (IELS)"
+    href: university-of-ottawa/honours-bsocsc-social-work-in-depth-experiential-learning-stream-iels.md
+  - name: "8.114 Honours BSocSc Sociology"
+    href: university-of-ottawa/honours-bsocsc-sociology.md
+  - name: "8.115 Indigenous Teacher Education Program - Certificate/BEd (Primary/Junior division)"
+    href: university-of-ottawa/indigenous-teacher-education-program-certificate-bed-primary-junior-division.md
+  - name: "8.116 Joint Honours BA in Communication and Political Science"
+    href: university-of-ottawa/joint-honours-ba-in-communication-and-political-science.md
+  - name: "8.117 Joint Honours BA in Communication and Sociology"
+    href: university-of-ottawa/joint-honours-ba-in-communication-and-sociology.md
+  - name: "8.118 Joint Honours BA in History and Political Science"
+    href: university-of-ottawa/joint-honours-ba-in-history-and-political-science.md
+  - name: "8.119 Joint Honours BA in Philosophy and Political Science"
+    href: university-of-ottawa/joint-honours-ba-in-philosophy-and-political-science.md
+  - name: "8.120 Joint Honours BA in Psychology and Linguistics"
+    href: university-of-ottawa/joint-honours-ba-in-psychology-and-linguistics.md
+  - name: "8.121 Joint Honours BSc in Computer Science and Mathematics"
+    href: university-of-ottawa/joint-honours-bsc-in-computer-science-and-mathematics.md
+  - name: "8.122 Joint Honours BSc in Mathematics and Economics"
+    href: university-of-ottawa/joint-honours-bsc-in-mathematics-and-economics.md
+  - name: "8.123 Joint Honours BSocSc in Anthropology and Sociology"
+    href: university-of-ottawa/joint-honours-bsocsc-in-anthropology-and-sociology.md
+  - name: "8.124 Joint Honours BSocSc in Anthropology and Sociology - In-depth Experiential Learning Stream (IELS)"
+    href: university-of-ottawa/joint-honours-bsocsc-in-anthropology-and-sociology-in-depth-experiential-learning-stream-i.md
+  - name: "8.125 Joint Honours BSocSc in Communication and Political Science"
+    href: university-of-ottawa/joint-honours-bsocsc-in-communication-and-political-science.md
+  - name: "8.126 Joint Honours BSocSc in Communication and Sociology"
+    href: university-of-ottawa/joint-honours-bsocsc-in-communication-and-sociology.md
+  - name: "8.127 Joint Honours BSocSc in Criminology and in Feminist and Gender Studies"
+    href: university-of-ottawa/joint-honours-bsocsc-in-criminology-and-in-feminist-and-gender-studies.md
+  - name: "8.128 Joint Honours BSocSc in Economics and Political Science"
+    href: university-of-ottawa/joint-honours-bsocsc-in-economics-and-political-science.md
+  - name: "8.129 Joint Honours BSocSc in Feminist and Gender Studies and in Political Science"
+    href: university-of-ottawa/joint-honours-bsocsc-in-feminist-and-gender-studies-and-in-political-science.md
+  - name: "8.130 Joint Honours BSocSc in Feminist and Gender Studies and in Sociology"
+    href: university-of-ottawa/joint-honours-bsocsc-in-feminist-and-gender-studies-and-in-sociology.md
+  - name: "8.131 Joint Honours BSocSc in History and Political Science"
+    href: university-of-ottawa/joint-honours-bsocsc-in-history-and-political-science.md
+  - name: "8.132 Joint Honours BSocSc in Mathematics and Economics"
+    href: university-of-ottawa/joint-honours-bsocsc-in-mathematics-and-economics.md
+  - name: "8.133 Joint Honours BSocSc in Philosophy and Political Science"
+    href: university-of-ottawa/joint-honours-bsocsc-in-philosophy-and-political-science.md
+  - name: "8.134 Joint Honours BSocSc in Public Administration and Political Science"
+    href: university-of-ottawa/joint-honours-bsocsc-in-public-administration-and-political-science.md
+  - name: "8.135 Licentiate in Law (LLL)"
+    href: university-of-ottawa/licentiate-in-law-lll.md
+  - name: "8.136 Majeure en lettres françaises"
+    href: university-of-ottawa/majeure-en-lettres-francaises.md
+  - name: "8.137 Major in African Studies"
+    href: university-of-ottawa/major-in-african-studies.md
+  - name: "8.138 Major in Anthropology"
+    href: university-of-ottawa/major-in-anthropology.md
+  - name: "8.139 Major in Arabic Language and Culture"
+    href: university-of-ottawa/major-in-arabic-language-and-culture.md
+  - name: "8.140 Major in Art History"
+    href: university-of-ottawa/major-in-art-history.md
+  - name: "8.141 Major in Biochemistry"
+    href: university-of-ottawa/major-in-biochemistry.md
+  - name: "8.142 Major in Biology"
+    href: university-of-ottawa/major-in-biology.md
+  - name: "8.143 Major in Chemistry"
+    href: university-of-ottawa/major-in-chemistry.md
+  - name: "8.144 Major in Communication"
+    href: university-of-ottawa/major-in-communication.md
+  - name: "8.145 Major in Computer Science"
+    href: university-of-ottawa/major-in-computer-science.md
+  - name: "8.146 Major in Criminology"
+    href: university-of-ottawa/major-in-criminology.md
+  - name: "8.147 Major in Economics"
+    href: university-of-ottawa/major-in-economics.md
+  - name: "8.148 Major in English"
+    href: university-of-ottawa/major-in-english.md
+  - name: "8.149 Major in English Language Studies"
+    href: university-of-ottawa/major-in-english-language-studies.md
+  - name: "8.150 Major in Environmental Studies (Bilingual Program)"
+    href: university-of-ottawa/major-in-environmental-studies-bilingual-program.md
+  - name: "8.151 Major in Ethics and Political Philosophy"
+    href: university-of-ottawa/major-in-ethics-and-political-philosophy.md
+  - name: "8.152 Major in Feminist and Gender Studies"
+    href: university-of-ottawa/major-in-feminist-and-gender-studies.md
+  - name: "8.153 Major in French as a Second Language (FLS)"
+    href: university-of-ottawa/major-in-french-as-a-second-language-fls.md
+  - name: "8.154 Major in French Studies"
+    href: university-of-ottawa/major-in-french-studies.md
+  - name: "8.155 Major in Geography"
+    href: university-of-ottawa/major-in-geography.md
+  - name: "8.156 Major in Geology"
+    href: university-of-ottawa/major-in-geology.md
+  - name: "8.157 Major in German Language and Culture"
+    href: university-of-ottawa/major-in-german-language-and-culture.md
+  - name: "8.158 Major in Greek and Roman Studies"
+    href: university-of-ottawa/major-in-greek-and-roman-studies.md
+  - name: "8.159 Major in History"
+    href: university-of-ottawa/major-in-history.md
+  - name: "8.160 Major in Indigenous Studies"
+    href: university-of-ottawa/major-in-indigenous-studies.md
+  - name: "8.161 Major in Italian Language and Culture"
+    href: university-of-ottawa/major-in-italian-language-and-culture.md
+  - name: "8.162 Major in Life Sciences"
+    href: university-of-ottawa/major-in-life-sciences.md
+  - name: "8.163 Major in Linguistics"
+    href: university-of-ottawa/major-in-linguistics.md
+  - name: "8.164 Major in Mathematics"
+    href: university-of-ottawa/major-in-mathematics.md
+  - name: "8.165 Major in Medieval and Renaissance Studies"
+    href: university-of-ottawa/major-in-medieval-and-renaissance-studies.md
+  - name: "8.166 Major in Music Studies"
+    href: university-of-ottawa/major-in-music-studies.md
+  - name: "8.167 Major in Philosophy"
+    href: university-of-ottawa/major-in-philosophy.md
+  - name: "8.168 Major in Physical Geography and Geomatics"
+    href: university-of-ottawa/major-in-physical-geography-and-geomatics.md
+  - name: "8.169 Major in Physics"
+    href: university-of-ottawa/major-in-physics.md
+  - name: "8.170 Major in Political Science"
+    href: university-of-ottawa/major-in-political-science.md
+  - name: "8.171 Major in Psychology"
+    href: university-of-ottawa/major-in-psychology.md
+  - name: "8.172 Major in Public Administration"
+    href: university-of-ottawa/major-in-public-administration.md
+  - name: "8.173 Major in Religious Studies"
+    href: university-of-ottawa/major-in-religious-studies.md
+  - name: "8.174 Major in Russian Language and Culture"
+    href: university-of-ottawa/major-in-russian-language-and-culture.md
+  - name: "8.175 Major in Second Language Teaching - Teaching English as a Second Language (ESL)"
+    href: university-of-ottawa/major-in-second-language-teaching-teaching-english-as-a-second-language-esl.md
+  - name: "8.176 Major in Second Language Teaching - Teaching French as a Second Language (FLS)"
+    href: university-of-ottawa/major-in-second-language-teaching-teaching-french-as-a-second-language-fls.md
+  - name: "8.177 Major in Sociology"
+    href: university-of-ottawa/major-in-sociology.md
+  - name: "8.178 Major in Spanish"
+    href: university-of-ottawa/major-in-spanish.md
+  - name: "8.179 Major in Statistics"
+    href: university-of-ottawa/major-in-statistics.md
+  - name: "8.180 Major in Theatre"
+    href: university-of-ottawa/major-in-theatre.md
+  - name: "8.181 Major in Visual Arts"
+    href: university-of-ottawa/major-in-visual-arts.md
+  - name: "8.182 Major in World Cinemas"
+    href: university-of-ottawa/major-in-world-cinemas.md
+  - name: "8.183 Major in World Languages and Cultures"
+    href: university-of-ottawa/major-in-world-languages-and-cultures.md
+  - name: "8.184 National Program (JD)"
+    href: university-of-ottawa/national-program-jd.md
+  - name: "8.185 National Program (LL.L.)"
+    href: university-of-ottawa/national-program-ll-l.md
+  - name: "8.186 Teacher Education - Intermediate/Senior division"
+    href: university-of-ottawa/teacher-education-intermediate-senior-division.md
+  - name: "8.187 Teacher Education - Junior/Intermediate division"
+    href: university-of-ottawa/teacher-education-junior-intermediate-division.md
+  - name: "8.188 Teacher Education - Primary/Junior division"
+    href: university-of-ottawa/teacher-education-primary-junior-division.md
+  - name: "8.189 Certificat Rédaction professionnelle et édition"
+    href: university-of-ottawa/certificat-redaction-professionnelle-et-edition.md
+  - name: "8.190 Certificate Creative Writing"
+    href: university-of-ottawa/certificate-creative-writing.md
+  - name: "8.191 Certificate Francophone Studies"
+    href: university-of-ottawa/certificate-francophone-studies.md
+  - name: "8.192 Certificate Human Resource Management"
+    href: university-of-ottawa/certificate-human-resource-management.md
+  - name: "8.193 Certificate Indigenous Laws"
+    href: university-of-ottawa/certificate-indigenous-laws.md
+  - name: "8.194 Certificate Law"
+    href: university-of-ottawa/certificate-law.md
+  - name: "8.195 Certificate Management"
+    href: university-of-ottawa/certificate-management.md
+  - name: "8.196 Certificate Political Science"
+    href: university-of-ottawa/certificate-political-science.md
+  - name: "8.197 Certificate Professional Writing"
+    href: university-of-ottawa/certificate-professional-writing.md
+  - name: "8.198 Certificate translation English-French (Online)"
+    href: university-of-ottawa/certificate-translation-english-french-online.md
+  - name: "8.199 Executive Master of Health Administration (EMHA) (Online)"
+    href: university-of-ottawa/executive-master-of-health-administration-emha-online.md
+  - name: "8.200 Master of Applied Science Advanced Materials and Manufacturing"
+    href: university-of-ottawa/master-of-applied-science-advanced-materials-and-manufacturing.md
+  - name: "8.201 Master of Applied Science Anatomical Sciences Education"
+    href: university-of-ottawa/master-of-applied-science-anatomical-sciences-education.md
+  - name: "8.202 Master of Applied Science Biomedical Engineering"
+    href: university-of-ottawa/master-of-applied-science-biomedical-engineering.md
+  - name: "8.203 Master of Applied Science Biomedical Engineering and Specialization Bioinformatics"
+    href: university-of-ottawa/master-of-applied-science-biomedical-engineering-and-specialization-bioinformatics.md
+  - name: "8.204 Master of Applied Science Chemical Engineering"
+    href: university-of-ottawa/master-of-applied-science-chemical-engineering.md
+  - name: "8.205 Master of Applied Science Chemical Engineering and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-applied-science-chemical-engineering-and-specialization-science-society-and-poli.md
+  - name: "8.206 Master of Applied Science Civil Engineering"
+    href: university-of-ottawa/master-of-applied-science-civil-engineering.md
+  - name: "8.207 Master of Applied Science Civil Engineering and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-applied-science-civil-engineering-and-specialization-science-society-and-policy.md
+  - name: "8.208 Master of Applied Science Electrical and Computer Engineering"
+    href: university-of-ottawa/master-of-applied-science-electrical-and-computer-engineering.md
+  - name: "8.209 Master of Applied Science Electrical and Computer Engineering and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-applied-science-electrical-and-computer-engineering-and-specialization-science-s.md
+  - name: "8.210 Master of Applied Science Environmental Engineering"
+    href: university-of-ottawa/master-of-applied-science-environmental-engineering.md
+  - name: "8.211 Master of Applied Science in Accessibility in Biomedicine (Online)"
+    href: university-of-ottawa/master-of-applied-science-in-accessibility-in-biomedicine-online.md
+  - name: "8.212 Master of Applied Science in Systems Engineering"
+    href: university-of-ottawa/master-of-applied-science-in-systems-engineering.md
+  - name: "8.213 Master of Applied Science Mechanical Engineering"
+    href: university-of-ottawa/master-of-applied-science-mechanical-engineering.md
+  - name: "8.214 Master of Arts Anthropology"
+    href: university-of-ottawa/master-of-arts-anthropology.md
+  - name: "8.215 Master of Arts Bilingualism Studies"
+    href: university-of-ottawa/master-of-arts-bilingualism-studies.md
+  - name: "8.216 Master of Arts Classical Studies"
+    href: university-of-ottawa/master-of-arts-classical-studies.md
+  - name: "8.217 Master of Arts Classical Studies and Specialization Medieval and Renaissance Studies"
+    href: university-of-ottawa/master-of-arts-classical-studies-and-specialization-medieval-and-renaissance-studies.md
+  - name: "8.218 Master of Arts Communication"
+    href: university-of-ottawa/master-of-arts-communication.md
+  - name: "8.219 Master of Arts Communication and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-arts-communication-and-specialization-science-society-and-policy.md
+  - name: "8.220 Master of Arts Contemporary Art Theory"
+    href: university-of-ottawa/master-of-arts-contemporary-art-theory.md
+  - name: "8.221 Master of Arts Criminology"
+    href: university-of-ottawa/master-of-arts-criminology.md
+  - name: "8.222 Master of Arts Criminology and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-criminology-and-specialization-feminist-and-gender-studies.md
+  - name: "8.223 Master of Arts Economics"
+    href: university-of-ottawa/master-of-arts-economics.md
+  - name: "8.224 Master of arts Education"
+    href: university-of-ottawa/master-of-arts-education.md
+  - name: "8.225 Master of Arts Education and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-education-and-specialization-feminist-and-gender-studies.md
+  - name: "8.226 Master of Arts English Literature"
+    href: university-of-ottawa/master-of-arts-english-literature.md
+  - name: "8.227 Master of Arts English Literature and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-english-literature-and-specialization-feminist-and-gender-studies.md
+  - name: "8.228 Master of Arts English Literature and Specialization Medieval and Renaissance Studies"
+    href: university-of-ottawa/master-of-arts-english-literature-and-specialization-medieval-and-renaissance-studies.md
+  - name: "8.229 Master of Arts Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-feminist-and-gender-studies.md
+  - name: "8.230 Master of Arts Geography"
+    href: university-of-ottawa/master-of-arts-geography.md
+  - name: "8.231 Master of Arts Geography and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-arts-geography-and-specialization-science-society-and-policy.md
+  - name: "8.232 Master of Arts History"
+    href: university-of-ottawa/master-of-arts-history.md
+  - name: "8.233 Master of Arts History and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-history-and-specialization-feminist-and-gender-studies.md
+  - name: "8.234 Master of Arts History and Specialization Medieval and Renaissance Studies"
+    href: university-of-ottawa/master-of-arts-history-and-specialization-medieval-and-renaissance-studies.md
+  - name: "8.235 Master of Arts Human Kinetics"
+    href: university-of-ottawa/master-of-arts-human-kinetics.md
+  - name: "8.236 Master of Arts Human Kinetics with Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-human-kinetics-with-specialization-feminist-and-gender-studies.md
+  - name: "8.237 Master of Arts in Security and Defence Studies"
+    href: university-of-ottawa/master-of-arts-in-security-and-defence-studies.md
+  - name: "8.238 Master of Arts International Development and Globalization"
+    href: university-of-ottawa/master-of-arts-international-development-and-globalization.md
+  - name: "8.239 Master of Arts International Development and Globalization and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-international-development-and-globalization-and-specialization-feminist-and.md
+  - name: "8.240 Master of Arts Linguistics"
+    href: university-of-ottawa/master-of-arts-linguistics.md
+  - name: "8.241 Master of Arts Music"
+    href: university-of-ottawa/master-of-arts-music.md
+  - name: "8.242 Master of Arts Music and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-music-and-specialization-feminist-and-gender-studies.md
+  - name: "8.243 Master of Arts Music and Specialization Medieval and Renaissance Studies"
+    href: university-of-ottawa/master-of-arts-music-and-specialization-medieval-and-renaissance-studies.md
+  - name: "8.244 Master of Arts Philosophy"
+    href: university-of-ottawa/master-of-arts-philosophy.md
+  - name: "8.245 Master of Arts Philosophy and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-philosophy-and-specialization-feminist-and-gender-studies.md
+  - name: "8.246 Master of Arts Philosophy and Specialization Medieval and Renaissance Studies"
+    href: university-of-ottawa/master-of-arts-philosophy-and-specialization-medieval-and-renaissance-studies.md
+  - name: "8.247 Master of Arts Political Science"
+    href: university-of-ottawa/master-of-arts-political-science.md
+  - name: "8.248 Master of Arts Political Science and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-political-science-and-specialization-feminist-and-gender-studies.md
+  - name: "8.249 Master of Arts Psychedelics and Consciousness Studies"
+    href: university-of-ottawa/master-of-arts-psychedelics-and-consciousness-studies.md
+  - name: "8.250 Master of Arts Psychology"
+    href: university-of-ottawa/master-of-arts-psychology.md
+  - name: "8.251 Master of Arts Public Administration"
+    href: university-of-ottawa/master-of-arts-public-administration.md
+  - name: "8.252 Master of Arts Public Administration and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-public-administration-and-specialization-feminist-and-gender-studies.md
+  - name: "8.253 Master of Arts Public Administration and Specialization in Science, Society and Policy"
+    href: university-of-ottawa/master-of-arts-public-administration-and-specialization-in-science-society-and-policy.md
+  - name: "8.254 Master of Arts Public and International Affairs"
+    href: university-of-ottawa/master-of-arts-public-and-international-affairs.md
+  - name: "8.255 Master of Arts Public and International Affairs and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-arts-public-and-international-affairs-and-specialization-science-society-and-pol.md
+  - name: "8.256 Master of Arts Religious Studies"
+    href: university-of-ottawa/master-of-arts-religious-studies.md
+  - name: "8.257 Master of Arts Religious Studies and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-religious-studies-and-specialization-feminist-and-gender-studies.md
+  - name: "8.258 Master of Arts Religious Studies and Specialization Medieval and Renaissance Studies"
+    href: university-of-ottawa/master-of-arts-religious-studies-and-specialization-medieval-and-renaissance-studies.md
+  - name: "8.259 Master of Arts Sociology"
+    href: university-of-ottawa/master-of-arts-sociology.md
+  - name: "8.260 Master of Arts Sociology and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-arts-sociology-and-specialization-feminist-and-gender-studies.md
+  - name: "8.261 Master of Arts Spanish"
+    href: university-of-ottawa/master-of-arts-spanish.md
+  - name: "8.262 Master of Arts Spanish and Specialization Medieval and Renaissance Studies"
+    href: university-of-ottawa/master-of-arts-spanish-and-specialization-medieval-and-renaissance-studies.md
+  - name: "8.263 Master of Arts Theatre"
+    href: university-of-ottawa/master-of-arts-theatre.md
+  - name: "8.264 Master of Arts Theatre and Specialization Medieval and Renaissance Studies"
+    href: university-of-ottawa/master-of-arts-theatre-and-specialization-medieval-and-renaissance-studies.md
+  - name: "8.265 Master of Arts Translation Studies"
+    href: university-of-ottawa/master-of-arts-translation-studies.md
+  - name: "8.266 Master of Arts World Literatures and Cultures"
+    href: university-of-ottawa/master-of-arts-world-literatures-and-cultures.md
+  - name: "8.267 Master of Business Administration (MBA)"
+    href: university-of-ottawa/master-of-business-administration-mba.md
+  - name: "8.268 Master of Business Complex Project Leadership"
+    href: university-of-ottawa/master-of-business-complex-project-leadership.md
+  - name: "8.269 Master of Communication"
+    href: university-of-ottawa/master-of-communication.md
+  - name: "8.270 Master of Computer Science"
+    href: university-of-ottawa/master-of-computer-science.md
+  - name: "8.271 Master of Computer Science and Specialization Bioinformatics"
+    href: university-of-ottawa/master-of-computer-science-and-specialization-bioinformatics.md
+  - name: "8.272 Master of Conference Interpreting"
+    href: university-of-ottawa/master-of-conference-interpreting.md
+  - name: "8.273 Master of Digital Transformation and Innovation"
+    href: university-of-ottawa/master-of-digital-transformation-and-innovation.md
+  - name: "8.274 Master of Digital Transformation and Innovation (Online)"
+    href: university-of-ottawa/master-of-digital-transformation-and-innovation-online.md
+  - name: "8.275 Master of Education (Counselling Psychology)"
+    href: university-of-ottawa/master-of-education-counselling-psychology.md
+  - name: "8.276 Master of Education (Education in Minority Language Contexts and Inclusion)"
+    href: university-of-ottawa/master-of-education-education-in-minority-language-contexts-and-inclusion.md
+  - name: "8.277 Master of Education (Education in Minority Language Contexts and Inclusion) (Online)"
+    href: university-of-ottawa/master-of-education-education-in-minority-language-contexts-and-inclusion-online.md
+  - name: "8.278 Master of Education (Educational Leadership, Policy and Evaluation) (Online)"
+    href: university-of-ottawa/master-of-education-educational-leadership-policy-and-evaluation-online.md
+  - name: "8.279 Master of Education (Health Education)"
+    href: university-of-ottawa/master-of-education-health-education.md
+  - name: "8.280 Master of Education (Health Professions Education) (Online)"
+    href: university-of-ottawa/master-of-education-health-professions-education-online.md
+  - name: "8.281 Master of Education (Second Language Education) (Online)"
+    href: university-of-ottawa/master-of-education-second-language-education-online.md
+  - name: "8.282 Master of Education (Societies, Cultures and Languages)"
+    href: university-of-ottawa/master-of-education-societies-cultures-and-languages.md
+  - name: "8.283 Master of Education (Studies in Teaching and Learning)"
+    href: university-of-ottawa/master-of-education-studies-in-teaching-and-learning.md
+  - name: "8.284 Master of Education (Studies in Teaching and Learning) (Online)"
+    href: university-of-ottawa/master-of-education-studies-in-teaching-and-learning-online.md
+  - name: "8.285 Master of Engineering Advanced Materials and Manufacturing"
+    href: university-of-ottawa/master-of-engineering-advanced-materials-and-manufacturing.md
+  - name: "8.286 Master of Engineering Biomedical Engineering"
+    href: university-of-ottawa/master-of-engineering-biomedical-engineering.md
+  - name: "8.287 Master of Engineering Chemical Engineering"
+    href: university-of-ottawa/master-of-engineering-chemical-engineering.md
+  - name: "8.288 Master of Engineering Civil Engineering"
+    href: university-of-ottawa/master-of-engineering-civil-engineering.md
+  - name: "8.289 Master of Engineering Electrical and Computer Engineering"
+    href: university-of-ottawa/master-of-engineering-electrical-and-computer-engineering.md
+  - name: "8.290 Master of Engineering Engineering Management"
+    href: university-of-ottawa/master-of-engineering-engineering-management.md
+  - name: "8.291 Master of Engineering Environmental Engineering"
+    href: university-of-ottawa/master-of-engineering-environmental-engineering.md
+  - name: "8.292 Master of Engineering in Entrepreneurial Engineering Design"
+    href: university-of-ottawa/master-of-engineering-in-entrepreneurial-engineering-design.md
+  - name: "8.293 Master of Engineering in Systems Engineering"
+    href: university-of-ottawa/master-of-engineering-in-systems-engineering.md
+  - name: "8.294 Master of Engineering Management (Online)"
+    href: university-of-ottawa/master-of-engineering-management-online.md
+  - name: "8.295 Master of Engineering Mechanical Engineering"
+    href: university-of-ottawa/master-of-engineering-mechanical-engineering.md
+  - name: "8.296 Master of Fine Arts Theatre Directing"
+    href: university-of-ottawa/master-of-fine-arts-theatre-directing.md
+  - name: "8.297 Master of Fine Arts Visual Arts"
+    href: university-of-ottawa/master-of-fine-arts-visual-arts.md
+  - name: "8.298 Master of Health Administration (MHA)"
+    href: university-of-ottawa/master-of-health-administration-mha.md
+  - name: "8.299 Master of Health Sciences Audiology"
+    href: university-of-ottawa/master-of-health-sciences-audiology.md
+  - name: "8.300 Master of Health Sciences Occupational Therapy"
+    href: university-of-ottawa/master-of-health-sciences-occupational-therapy.md
+  - name: "8.301 Master of Health Sciences Physiotherapy"
+    href: university-of-ottawa/master-of-health-sciences-physiotherapy.md
+  - name: "8.302 Master of Health Sciences Speech-Language Pathology"
+    href: university-of-ottawa/master-of-health-sciences-speech-language-pathology.md
+  - name: "8.303 Master of Human Kinetics with Concentration Mental Performance Consulting"
+    href: university-of-ottawa/master-of-human-kinetics-with-concentration-mental-performance-consulting.md
+  - name: "8.304 Master of Human Kinetics with Concentration Sport Management"
+    href: university-of-ottawa/master-of-human-kinetics-with-concentration-sport-management.md
+  - name: "8.305 Master of Information Studies (Bilingual)"
+    href: university-of-ottawa/master-of-information-studies-bilingual.md
+  - name: "8.306 Master of Information Studies (Bilingual) and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-information-studies-bilingual-and-specialization-science-society-and-policy.md
+  - name: "8.307 Master of Interdisciplinary Artificial Intelligence (Online)"
+    href: university-of-ottawa/master-of-interdisciplinary-artificial-intelligence-online.md
+  - name: "8.308 Master of Laws (LLM)"
+    href: university-of-ottawa/master-of-laws-llm.md
+  - name: "8.309 Master of Laws (LLM) and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-laws-llm-and-specialization-feminist-and-gender-studies.md
+  - name: "8.310 Master of Music and Concentration Composition"
+    href: university-of-ottawa/master-of-music-and-concentration-composition.md
+  - name: "8.311 Master of Music and Concentration Performance"
+    href: university-of-ottawa/master-of-music-and-concentration-performance.md
+  - name: "8.312 Master of Public Health Concentration in Public Health Practice"
+    href: university-of-ottawa/master-of-public-health-concentration-in-public-health-practice.md
+  - name: "8.313 Master of Public Health, Concentration in Global Health"
+    href: university-of-ottawa/master-of-public-health-concentration-in-global-health.md
+  - name: "8.314 Master of Public Health, Concentration in Public Health Policy"
+    href: university-of-ottawa/master-of-public-health-concentration-in-public-health-policy.md
+  - name: "8.315 Master of Science Biochemistry"
+    href: university-of-ottawa/master-of-science-biochemistry.md
+  - name: "8.316 Master of Science Biochemistry and Specialization Bioinformatics"
+    href: university-of-ottawa/master-of-science-biochemistry-and-specialization-bioinformatics.md
+  - name: "8.317 Master of Science Biochemistry and Specialization Human and Molecular Genetics"
+    href: university-of-ottawa/master-of-science-biochemistry-and-specialization-human-and-molecular-genetics.md
+  - name: "8.318 Master of Science Biology"
+    href: university-of-ottawa/master-of-science-biology.md
+  - name: "8.319 Master of Science Biology and Specialization Bioinformatics"
+    href: university-of-ottawa/master-of-science-biology-and-specialization-bioinformatics.md
+  - name: "8.320 Master of Science Biology and Specialization Chemical and Environmental Toxicology"
+    href: university-of-ottawa/master-of-science-biology-and-specialization-chemical-and-environmental-toxicology.md
+  - name: "8.321 Master of Science Biology and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-science-biology-and-specialization-science-society-and-policy.md
+  - name: "8.322 Master of Science Cellular and Molecular Medicine"
+    href: university-of-ottawa/master-of-science-cellular-and-molecular-medicine.md
+  - name: "8.323 Master of Science Cellular and Molecular Medicine and Specialization Bioinformatics"
+    href: university-of-ottawa/master-of-science-cellular-and-molecular-medicine-and-specialization-bioinformatics.md
+  - name: "8.324 Master of Science Cellular and Molecular Medicine and Specialization Human and Molecular Genetics"
+    href: university-of-ottawa/master-of-science-cellular-and-molecular-medicine-and-specialization-human-and-molecular-g.md
+  - name: "8.325 Master of Science Chemistry"
+    href: university-of-ottawa/master-of-science-chemistry.md
+  - name: "8.326 Master of Science Chemistry and Specialization Chemical and Environmental Toxicology"
+    href: university-of-ottawa/master-of-science-chemistry-and-specialization-chemical-and-environmental-toxicology.md
+  - name: "8.327 Master of Science Chemistry and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-science-chemistry-and-specialization-science-society-and-policy.md
+  - name: "8.328 Master of Science Clinical Science and Translational Medicine"
+    href: university-of-ottawa/master-of-science-clinical-science-and-translational-medicine.md
+  - name: "8.329 Master of Science Digital Transformation and Innovation"
+    href: university-of-ottawa/master-of-science-digital-transformation-and-innovation.md
+  - name: "8.330 Master of Science Earth Sciences"
+    href: university-of-ottawa/master-of-science-earth-sciences.md
+  - name: "8.331 Master of Science Earth Sciences and Specialization Chemical and Environmental Toxicology"
+    href: university-of-ottawa/master-of-science-earth-sciences-and-specialization-chemical-and-environmental-toxicology.md
+  - name: "8.332 Master of Science Earth Sciences and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-science-earth-sciences-and-specialization-science-society-and-policy.md
+  - name: "8.333 Master of Science Environmental Sustainability"
+    href: university-of-ottawa/master-of-science-environmental-sustainability.md
+  - name: "8.334 Master of Science Geography"
+    href: university-of-ottawa/master-of-science-geography.md
+  - name: "8.335 Master of Science Geography and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-science-geography-and-specialization-science-society-and-policy.md
+  - name: "8.336 Master of Science Health Systems"
+    href: university-of-ottawa/master-of-science-health-systems.md
+  - name: "8.337 Master of Science Human Kinetics"
+    href: university-of-ottawa/master-of-science-human-kinetics.md
+  - name: "8.338 Master of Science in Epidemiology and Applied Health Research, Concentration in Clinical Research"
+    href: university-of-ottawa/master-of-science-in-epidemiology-and-applied-health-research-concentration-in-clinical-re.md
+  - name: "8.339 Master of Science in Epidemiology and Applied Health Research, Concentration in Epidemiology"
+    href: university-of-ottawa/master-of-science-in-epidemiology-and-applied-health-research-concentration-in-epidemiolog.md
+  - name: "8.340 Master of Science in Epidemiology and Applied Health Research, Concentration in Global Health Research"
+    href: university-of-ottawa/master-of-science-in-epidemiology-and-applied-health-research-concentration-in-global-heal.md
+  - name: "8.341 Master of Science in Epidemiology and Applied Health Research, Concentration in Health Policy"
+    href: university-of-ottawa/master-of-science-in-epidemiology-and-applied-health-research-concentration-in-health-poli.md
+  - name: "8.342 Master of Science in Epidemiology and Applied Health Research, Concentration in Health Technology Assessment"
+    href: university-of-ottawa/master-of-science-in-epidemiology-and-applied-health-research-concentration-in-health-tech.md
+  - name: "8.343 Master of Science in Epidemiology and Applied Health Research, Concentration in Implementation Science"
+    href: university-of-ottawa/master-of-science-in-epidemiology-and-applied-health-research-concentration-in-implementat.md
+  - name: "8.344 Master of Science in Management"
+    href: university-of-ottawa/master-of-science-in-management.md
+  - name: "8.345 Master of Science Interdisciplinary Health Sciences"
+    href: university-of-ottawa/master-of-science-interdisciplinary-health-sciences.md
+  - name: "8.346 Master of Science Mathematics and Statistics and Concentration Mathematics"
+    href: university-of-ottawa/master-of-science-mathematics-and-statistics-and-concentration-mathematics.md
+  - name: "8.347 Master of Science Mathematics and Statistics and Concentration Statistics"
+    href: university-of-ottawa/master-of-science-mathematics-and-statistics-and-concentration-statistics.md
+  - name: "8.348 Master of Science Mathematics and Statistics and Specialization Bioinformatics"
+    href: university-of-ottawa/master-of-science-mathematics-and-statistics-and-specialization-bioinformatics.md
+  - name: "8.349 Master of Science Microbiology and Immunology"
+    href: university-of-ottawa/master-of-science-microbiology-and-immunology.md
+  - name: "8.350 Master of Science Microbiology and Immunology and Specialization Bioinformatics"
+    href: university-of-ottawa/master-of-science-microbiology-and-immunology-and-specialization-bioinformatics.md
+  - name: "8.351 Master of Science Neuroscience"
+    href: university-of-ottawa/master-of-science-neuroscience.md
+  - name: "8.352 Master of Science Neuroscience and Specialization Human and Molecular Genetics"
+    href: university-of-ottawa/master-of-science-neuroscience-and-specialization-human-and-molecular-genetics.md
+  - name: "8.353 Master of Science Nursing"
+    href: university-of-ottawa/master-of-science-nursing.md
+  - name: "8.354 Master of Science Nursing and Specialization Feminist and Gender Studies"
+    href: university-of-ottawa/master-of-science-nursing-and-specialization-feminist-and-gender-studies.md
+  - name: "8.355 Master of Science Nutrition and Food Biosciences"
+    href: university-of-ottawa/master-of-science-nutrition-and-food-biosciences.md
+  - name: "8.356 Master of Science Physics"
+    href: university-of-ottawa/master-of-science-physics.md
+  - name: "8.357 Master of Science Physics and Specialization Science, Society and Policy"
+    href: university-of-ottawa/master-of-science-physics-and-specialization-science-society-and-policy.md
+  - name: "8.358 Master of Social Work"
+    href: university-of-ottawa/master-of-social-work.md
+  - name: "8.359 Master of Translation"
+    href: university-of-ottawa/master-of-translation.md
+  - name: "8.360 Maîtrise ès arts Lettres françaises"
+    href: university-of-ottawa/maitrise-es-arts-lettres-francaises.md
+  - name: "8.361 Maîtrise ès arts Lettres françaises Spécialisation Études féministes et de genre"
+    href: university-of-ottawa/maitrise-es-arts-lettres-francaises-specialisation-etudes-feministes-et-de-genre.md
+  - name: "8.362 Maîtrise ès arts Lettres françaises Spécialisation Études médiévales et de la Renaissance"
+    href: university-of-ottawa/maitrise-es-arts-lettres-francaises-specialisation-etudes-medievales-et-de-la-renaissance.md
+  - name: "8.363 Doctorat en philosophie Lettres françaises"
+    href: university-of-ottawa/doctorat-en-philosophie-lettres-francaises.md
+  - name: "8.364 Doctorate Environmental Sustainability"
+    href: university-of-ottawa/doctorate-environmental-sustainability.md
+  - name: "8.365 Doctorate in Philosophy Advanced Materials and Manufacturing"
+    href: university-of-ottawa/doctorate-in-philosophy-advanced-materials-and-manufacturing.md
+  - name: "8.366 Doctorate in Philosophy Anthropology"
+    href: university-of-ottawa/doctorate-in-philosophy-anthropology.md
+  - name: "8.367 Doctorate in Philosophy Biochemistry"
+    href: university-of-ottawa/doctorate-in-philosophy-biochemistry.md
+  - name: "8.368 Doctorate in Philosophy Biochemistry and Specialization Bioinformatics"
+    href: university-of-ottawa/doctorate-in-philosophy-biochemistry-and-specialization-bioinformatics.md
+  - name: "8.369 Doctorate in Philosophy Biochemistry and Specialization Human and Molecular Genetics"
+    href: university-of-ottawa/doctorate-in-philosophy-biochemistry-and-specialization-human-and-molecular-genetics.md
+  - name: "8.370 Doctorate in Philosophy Biology"
+    href: university-of-ottawa/doctorate-in-philosophy-biology.md
+  - name: "8.371 Doctorate in Philosophy Biology and Specialization Bioinformatics"
+    href: university-of-ottawa/doctorate-in-philosophy-biology-and-specialization-bioinformatics.md
+  - name: "8.372 Doctorate in Philosophy Biology and Specialization Chemical and Environmental Toxicology"
+    href: university-of-ottawa/doctorate-in-philosophy-biology-and-specialization-chemical-and-environmental-toxicology.md
+  - name: "8.373 Doctorate in Philosophy Biomedical Engineering"
+    href: university-of-ottawa/doctorate-in-philosophy-biomedical-engineering.md
+  - name: "8.374 Doctorate in Philosophy Biomedical Engineering and Specialization Bioinformatics"
+    href: university-of-ottawa/doctorate-in-philosophy-biomedical-engineering-and-specialization-bioinformatics.md
+  - name: "8.375 Doctorate in Philosophy Cellular and Molecular Medicine"
+    href: university-of-ottawa/doctorate-in-philosophy-cellular-and-molecular-medicine.md
+  - name: "8.376 Doctorate in Philosophy Cellular and Molecular Medicine and Specialization Bioinformatics"
+    href: university-of-ottawa/doctorate-in-philosophy-cellular-and-molecular-medicine-and-specialization-bioinformatics.md
+  - name: "8.377 Doctorate in Philosophy Cellular and Molecular Medicine and Specialization Human and Molecular Genetics"
+    href: university-of-ottawa/doctorate-in-philosophy-cellular-and-molecular-medicine-and-specialization-human-and-molec.md
+  - name: "8.378 Doctorate in Philosophy Chemical Engineering"
+    href: university-of-ottawa/doctorate-in-philosophy-chemical-engineering.md
+  - name: "8.379 Doctorate in Philosophy Chemistry"
+    href: university-of-ottawa/doctorate-in-philosophy-chemistry.md
+  - name: "8.380 Doctorate in Philosophy Chemistry and Specialization Chemical and Environmental Toxicology"
+    href: university-of-ottawa/doctorate-in-philosophy-chemistry-and-specialization-chemical-and-environmental-toxicology.md
+  - name: "8.381 Doctorate in Philosophy Civil Engineering"
+    href: university-of-ottawa/doctorate-in-philosophy-civil-engineering.md
+  - name: "8.382 Doctorate in philosophy Clinical Science and Translational Medicine"
+    href: university-of-ottawa/doctorate-in-philosophy-clinical-science-and-translational-medicine.md
+  - name: "8.383 Doctorate in Philosophy Communication"
+    href: university-of-ottawa/doctorate-in-philosophy-communication.md
+  - name: "8.384 Doctorate in Philosophy Computer Science"
+    href: university-of-ottawa/doctorate-in-philosophy-computer-science.md
+  - name: "8.385 Doctorate in Philosophy Criminology"
+    href: university-of-ottawa/doctorate-in-philosophy-criminology.md
+  - name: "8.386 Doctorate in Philosophy Digital Transformation and Innovation"
+    href: university-of-ottawa/doctorate-in-philosophy-digital-transformation-and-innovation.md
+  - name: "8.387 Doctorate in Philosophy Earth Sciences"
+    href: university-of-ottawa/doctorate-in-philosophy-earth-sciences.md
+  - name: "8.388 Doctorate in Philosophy Earth Sciences and Specialization Chemical and Environmental Toxicology"
+    href: university-of-ottawa/doctorate-in-philosophy-earth-sciences-and-specialization-chemical-and-environmental-toxic.md
+  - name: "8.389 Doctorate in Philosophy Economics"
+    href: university-of-ottawa/doctorate-in-philosophy-economics.md
+  - name: "8.390 Doctorate in Philosophy Education"
+    href: university-of-ottawa/doctorate-in-philosophy-education.md
+  - name: "8.391 Doctorate in Philosophy Electrical and Computer Engineering"
+    href: university-of-ottawa/doctorate-in-philosophy-electrical-and-computer-engineering.md
+  - name: "8.392 Doctorate in Philosophy English Literature"
+    href: university-of-ottawa/doctorate-in-philosophy-english-literature.md
+  - name: "8.393 Doctorate in Philosophy Environmental Engineering"
+    href: university-of-ottawa/doctorate-in-philosophy-environmental-engineering.md
+  - name: "8.394 Doctorate in Philosophy History"
+    href: university-of-ottawa/doctorate-in-philosophy-history.md
+  - name: "8.395 Doctorate in Philosophy Human Kinetics"
+    href: university-of-ottawa/doctorate-in-philosophy-human-kinetics.md
+  - name: "8.396 Doctorate in Philosophy in Feminist and Gender Studies"
+    href: university-of-ottawa/doctorate-in-philosophy-in-feminist-and-gender-studies.md
+  - name: "8.397 Doctorate in Philosophy in Geography"
+    href: university-of-ottawa/doctorate-in-philosophy-in-geography.md
+  - name: "8.398 Doctorate in Philosophy in Spanish"
+    href: university-of-ottawa/doctorate-in-philosophy-in-spanish.md
+  - name: "8.399 Doctorate in Philosophy Interdisciplinary Research in Music"
+    href: university-of-ottawa/doctorate-in-philosophy-interdisciplinary-research-in-music.md
+  - name: "8.400 Doctorate in Philosophy International Development"
+    href: university-of-ottawa/doctorate-in-philosophy-international-development.md
+  - name: "8.401 Doctorate in Philosophy Law"
+    href: university-of-ottawa/doctorate-in-philosophy-law.md
+  - name: "8.402 Doctorate in Philosophy Linguistics"
+    href: university-of-ottawa/doctorate-in-philosophy-linguistics.md
+  - name: "8.403 Doctorate in Philosophy Management"
+    href: university-of-ottawa/doctorate-in-philosophy-management.md
+  - name: "8.404 Doctorate in Philosophy Mathematics and Statistics"
+    href: university-of-ottawa/doctorate-in-philosophy-mathematics-and-statistics.md
+  - name: "8.405 Doctorate in Philosophy Mathematics and Statistics and Specialization Bioinformatics"
+    href: university-of-ottawa/doctorate-in-philosophy-mathematics-and-statistics-and-specialization-bioinformatics.md
+  - name: "8.406 Doctorate in Philosophy Mechanical Engineering"
+    href: university-of-ottawa/doctorate-in-philosophy-mechanical-engineering.md
+  - name: "8.407 Doctorate in Philosophy Microbiology and Immunology"
+    href: university-of-ottawa/doctorate-in-philosophy-microbiology-and-immunology.md
+  - name: "8.408 Doctorate in Philosophy Microbiology and Immunology and Specialization Bioinformatics"
+    href: university-of-ottawa/doctorate-in-philosophy-microbiology-and-immunology-and-specialization-bioinformatics.md
+  - name: "8.409 Doctorate in Philosophy Neuroscience"
+    href: university-of-ottawa/doctorate-in-philosophy-neuroscience.md
+  - name: "8.410 Doctorate in Philosophy Neuroscience and Specialization Human and Molecular Genetics"
+    href: university-of-ottawa/doctorate-in-philosophy-neuroscience-and-specialization-human-and-molecular-genetics.md
+  - name: "8.411 Doctorate in Philosophy Nursing"
+    href: university-of-ottawa/doctorate-in-philosophy-nursing.md
+  - name: "8.412 Doctorate in Philosophy Philosophy"
+    href: university-of-ottawa/doctorate-in-philosophy-philosophy.md
+  - name: "8.413 Doctorate in Philosophy Physics"
+    href: university-of-ottawa/doctorate-in-philosophy-physics.md
+  - name: "8.414 Doctorate in Philosophy Political Science"
+    href: university-of-ottawa/doctorate-in-philosophy-political-science.md
+  - name: "8.415 Doctorate in Philosophy Population Health"
+    href: university-of-ottawa/doctorate-in-philosophy-population-health.md
+  - name: "8.416 Doctorate in Philosophy Psychology"
+    href: university-of-ottawa/doctorate-in-philosophy-psychology.md
+  - name: "8.417 Doctorate in Philosophy Public Administration"
+    href: university-of-ottawa/doctorate-in-philosophy-public-administration.md
+  - name: "8.418 Doctorate in Philosophy Rehabilitation Sciences"
+    href: university-of-ottawa/doctorate-in-philosophy-rehabilitation-sciences.md
+  - name: "8.419 Doctorate in Philosophy Religious Studies"
+    href: university-of-ottawa/doctorate-in-philosophy-religious-studies.md
+  - name: "8.420 Doctorate in Philosophy Social Work"
+    href: university-of-ottawa/doctorate-in-philosophy-social-work.md
+  - name: "8.421 Doctorate in Philosophy Sociology"
+    href: university-of-ottawa/doctorate-in-philosophy-sociology.md
+  - name: "8.422 Doctorate in Philosophy Translation Studies"
+    href: university-of-ottawa/doctorate-in-philosophy-translation-studies.md
+  - name: "8.423 Doctorate of Philosophy in Epidemiology and Applied Health Research"
+    href: university-of-ottawa/doctorate-of-philosophy-in-epidemiology-and-applied-health-research.md
+  - name: "8.424 Juris Doctor (JD)"
+    href: university-of-ottawa/juris-doctor-jd.md
+  - name: "8.425 Undergraduate Doctor of Pharmacy (D.Pharm.)"
+    href: university-of-ottawa/undergraduate-doctor-of-pharmacy-d-pharm.md
+  - name: "8.426 Undergraduate Medical Education (MD Program)"
+    href: university-of-ottawa/undergraduate-medical-education-md-program.md
+  - name: "8.427 Graduate Diploma Chartered Professional Accountancy"
+    href: university-of-ottawa/graduate-diploma-chartered-professional-accountancy.md
+  - name: "8.428 Graduate Diploma Complex Project Leadership"
+    href: university-of-ottawa/graduate-diploma-complex-project-leadership.md
+  - name: "8.429 Graduate Diploma Engineering Management"
+    href: university-of-ottawa/graduate-diploma-engineering-management.md
+  - name: "8.430 Graduate Diploma Engineering Management (Online)"
+    href: university-of-ottawa/graduate-diploma-engineering-management-online.md
+  - name: "8.431 Graduate Diploma Food Policy and Regulatory Affairs (online)"
+    href: university-of-ottawa/graduate-diploma-food-policy-and-regulatory-affairs-online.md
+  - name: "8.432 Graduate Diploma for Nurse Practitioners"
+    href: university-of-ottawa/graduate-diploma-for-nurse-practitioners.md
+  - name: "8.433 Graduate Diploma Health Professions Education (Online)"
+    href: university-of-ottawa/graduate-diploma-health-professions-education-online.md
+  - name: "8.434 Graduate Diploma in Health Education"
+    href: university-of-ottawa/graduate-diploma-in-health-education.md
+  - name: "8.435 Graduate Diploma Information Management"
+    href: university-of-ottawa/graduate-diploma-information-management.md
+  - name: "8.436 Graduate Diploma Leadership and Management"
+    href: university-of-ottawa/graduate-diploma-leadership-and-management.md
+  - name: "8.437 Graduate Diploma Music Performance"
+    href: university-of-ottawa/graduate-diploma-music-performance.md
+  - name: "8.438 Graduate Diploma Music Performance (Online)"
+    href: university-of-ottawa/graduate-diploma-music-performance-online.md
+  - name: "8.439 Graduate Diploma Organizational Performance Management"
+    href: university-of-ottawa/graduate-diploma-organizational-performance-management.md
+  - name: "8.440 Graduate Diploma Piano Pedagogy Research"
+    href: university-of-ottawa/graduate-diploma-piano-pedagogy-research.md
+  - name: "8.441 Graduate Diploma Program Evaluation"
+    href: university-of-ottawa/graduate-diploma-program-evaluation.md
+  - name: "8.442 Graduate Diploma Public Management and Governance"
+    href: university-of-ottawa/graduate-diploma-public-management-and-governance.md
+  - name: "8.443 Graduate Diploma Scientific Management and Leadership"
+    href: university-of-ottawa/graduate-diploma-scientific-management-and-leadership.md
 - name: "9. University of Calgary"
   href: university-of-calgary/index.md
 - name: "10. Western University"
   href: western-university/index.md
+  items:
+  - name: "10.1 A. ELECTRICAL ENGINEERING PROGRAM"
+    href: western-university/a-electrical-engineering-program.md
+  - name: "10.2 A. GENERAL CHEMICAL ENGINEERING OPTION"
+    href: western-university/a-general-chemical-engineering-option.md
+  - name: "10.3 A. MECHANICAL ENGINEERING OPTION"
+    href: western-university/a-mechanical-engineering-option.md
+  - name: "10.4 A. STRUCTURAL ENGINEERING OPTION"
+    href: western-university/a-structural-engineering-option.md
+  - name: "10.5 ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING PROGRAM"
+    href: western-university/artificial-intelligence-systems-engineering-program.md
+  - name: "10.6 B. BIOCHEMICAL AND ENVIRONMENTAL ENGINEERING OPTION"
+    href: western-university/b-biochemical-and-environmental-engineering-option.md
+  - name: "10.7 B. ENVIRONMENTAL ENGINEERING OPTION"
+    href: western-university/b-environmental-engineering-option.md
+  - name: "10.8 BACHELOR OF EDUCATION PROGRAM"
+    href: western-university/bachelor-of-education-program.md
+  - name: "10.9 BACHELOR OF FINE ARTS, HONOURS SPECIALIZATION IN STUDIO ART"
+    href: western-university/bachelor-of-fine-arts-honours-specialization-in-studio-art.md
+  - name: "10.10 BACHELOR OF MUSIC"
+    href: western-university/bachelor-of-music.md
+  - name: "10.11 BACHELOR OF MUSIC (HONOURS)"
+    href: western-university/bachelor-of-music-honours.md
+  - name: "10.12 BACHELOR OF MUSIC WITH HONOURS IN COMPOSITION"
+    href: western-university/bachelor-of-music-with-honours-in-composition.md
+  - name: "10.13 BACHELOR OF MUSIC WITH HONOURS IN MUSIC EDUCATION"
+    href: western-university/bachelor-of-music-with-honours-in-music-education.md
+  - name: "10.14 BACHELOR OF MUSIC WITH HONOURS IN MUSIC RESEARCH"
+    href: western-university/bachelor-of-music-with-honours-in-music-research.md
+  - name: "10.15 BACHELOR OF MUSIC WITH HONOURS IN PERFORMANCE (ORCHESTRAL INSTRUMENT)"
+    href: western-university/bachelor-of-music-with-honours-in-performance-orchestral-instrument.md
+  - name: "10.16 BACHELOR OF MUSIC WITH HONOURS IN PERFORMANCE (PIANO)"
+    href: western-university/bachelor-of-music-with-honours-in-performance-piano.md
+  - name: "10.17 BACHELOR OF MUSIC WITH HONOURS IN PERFORMANCE (VOICE)"
+    href: western-university/bachelor-of-music-with-honours-in-performance-voice.md
+  - name: "10.18 BACHELOR OF SCIENCE IN NURSING PROGRAM"
+    href: western-university/bachelor-of-science-in-nursing-program.md
+  - name: "10.19 BACHELOR OF SOCIAL WORK (HONOURS) - HONOURS SPECIALIZATION IN SOCIAL WORK"
+    href: western-university/bachelor-of-social-work-honours-honours-specialization-in-social-work.md
+  - name: "10.20 COMPRESSED TIME FRAME BACHELOR OF SCIENCE IN NURSING PROGRAM – REGULAR STREAM"
+    href: western-university/compressed-time-frame-bachelor-of-science-in-nursing-program-regular-stream.md
+  - name: "10.21 COMPRESSED TIME FRAME BACHELOR OF SCIENCE IN NURSING PROGRAM – RPN STREAM A"
+    href: western-university/compressed-time-frame-bachelor-of-science-in-nursing-program-rpn-stream-a.md
+  - name: "10.22 COMPRESSED TIME FRAME BACHELOR OF SCIENCE IN NURSING PROGRAM – RPN STREAM B"
+    href: western-university/compressed-time-frame-bachelor-of-science-in-nursing-program-rpn-stream-b.md
+  - name: "10.23 D. MECHATRONIC SYSTEMS ENGINEERING AND BIOMEDICAL ENGINEERING OPTION"
+    href: western-university/d-mechatronic-systems-engineering-and-biomedical-engineering-option.md
+  - name: "10.24 E. MECHATRONIC SYSTEMS ENGINEERING AND ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING OPTION"
+    href: western-university/e-mechatronic-systems-engineering-and-artificial-intelligence-systems-engineering-option.md
+  - name: "10.25 F. CHEMICAL ENGINEERING AND BIOMEDICAL ENGINEERING OPTION"
+    href: western-university/f-chemical-engineering-and-biomedical-engineering-option.md
+  - name: "10.26 F. ENVIRONMENTAL ENGINEERING WITH INTERNATIONAL DEVELOPMENT OPTION"
+    href: western-university/f-environmental-engineering-with-international-development-option.md
+  - name: "10.27 F. MECHANICAL ENGINEERING AND BIOMEDICAL ENGINEERING OPTION"
+    href: western-university/f-mechanical-engineering-and-biomedical-engineering-option.md
+  - name: "10.28 G. CHEMICAL ENGINEERING AND ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING OPTION"
+    href: western-university/g-chemical-engineering-and-artificial-intelligence-systems-engineering-option.md
+  - name: "10.29 G. STRUCTURAL ENGINEERING WITH INTERNATIONAL DEVELOPMENT OPTION"
+    href: western-university/g-structural-engineering-with-international-development-option.md
+  - name: "10.30 H. CIVIL ENGINEERING AND ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING, SMART CITIES AND STRUCTURAL ENGINEERING OPTION"
+    href: western-university/h-civil-engineering-and-artificial-intelligence-systems-engineering-smart-cities-and-struc.md
+  - name: "10.31 H. ELECTRICAL ENGINEERING AND BIOMEDICAL ENGINEERING OPTION"
+    href: western-university/h-electrical-engineering-and-biomedical-engineering-option.md
+  - name: "10.32 H. MECHANICAL ENGINEERING – MECHANICAL ENGINEERING AND ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING OPTION"
+    href: western-university/h-mechanical-engineering-mechanical-engineering-and-artificial-intelligence-systems-engine.md
+  - name: "10.33 HONOURS SPECIALIZATION IN ACCOUNTING (21496)"
+    href: western-university/honours-specialization-in-accounting-21496.md
+  - name: "10.34 HONOURS SPECIALIZATION IN ACCOUNTING (21504)"
+    href: western-university/honours-specialization-in-accounting-21504.md
+  - name: "10.35 HONOURS SPECIALIZATION IN ACCOUNTING (21516)"
+    href: western-university/honours-specialization-in-accounting-21516.md
+  - name: "10.36 HONOURS SPECIALIZATION IN ACTUARIAL SCIENCE"
+    href: western-university/honours-specialization-in-actuarial-science.md
+  - name: "10.37 HONOURS SPECIALIZATION IN ANIMAL BEHAVIOUR (BSc)"
+    href: western-university/honours-specialization-in-animal-behaviour-bsc.md
+  - name: "10.38 HONOURS SPECIALIZATION IN ANTHROPOLOGY"
+    href: western-university/honours-specialization-in-anthropology.md
+  - name: "10.39 HONOURS SPECIALIZATION IN APPLIED MATHEMATICS"
+    href: western-university/honours-specialization-in-applied-mathematics.md
+  - name: "10.40 HONOURS SPECIALIZATION IN APPLIED PSYCHOLOGY"
+    href: western-university/honours-specialization-in-applied-psychology.md
+  - name: "10.41 HONOURS SPECIALIZATION IN ART HISTORY AND MUSEUM AND CURATORIAL STUDIES"
+    href: western-university/honours-specialization-in-art-history-and-museum-and-curatorial-studies.md
+  - name: "10.42 HONOURS SPECIALIZATION IN ART HISTORY AND STUDIO ART"
+    href: western-university/honours-specialization-in-art-history-and-studio-art.md
+  - name: "10.43 HONOURS SPECIALIZATION IN ASTROPHYSICS"
+    href: western-university/honours-specialization-in-astrophysics.md
+  - name: "10.44 HONOURS SPECIALIZATION IN BIOCHEMISTRY"
+    href: western-university/honours-specialization-in-biochemistry.md
+  - name: "10.45 HONOURS SPECIALIZATION IN BIOCHEMISTRY AND CANCER BIOLOGY"
+    href: western-university/honours-specialization-in-biochemistry-and-cancer-biology.md
+  - name: "10.46 HONOURS SPECIALIZATION IN BIOCHEMISTRY AND CHEMISTRY"
+    href: western-university/honours-specialization-in-biochemistry-and-chemistry.md
+  - name: "10.47 HONOURS SPECIALIZATION IN BIODIVERSITY AND CONSERVATION"
+    href: western-university/honours-specialization-in-biodiversity-and-conservation.md
+  - name: "10.48 HONOURS SPECIALIZATION IN BIOLOGY"
+    href: western-university/honours-specialization-in-biology.md
+  - name: "10.49 HONOURS SPECIALIZATION IN BUSINESS INTELLIGENCE"
+    href: western-university/honours-specialization-in-business-intelligence.md
+  - name: "10.50 HONOURS SPECIALIZATION IN CATHOLIC STUDIES"
+    href: western-university/honours-specialization-in-catholic-studies.md
+  - name: "10.51 HONOURS SPECIALIZATION IN CATHOLIC STUDIES FOR TEACHERS"
+    href: western-university/honours-specialization-in-catholic-studies-for-teachers.md
+  - name: "10.52 HONOURS SPECIALIZATION IN CHEMISTRY"
+    href: western-university/honours-specialization-in-chemistry.md
+  - name: "10.53 HONOURS SPECIALIZATION IN CHILDHOOD AND YOUTH STUDIES (formerly the HONOURS SPECIALIZATION IN CHILDHOOD AND SOCIAL INSTITUTIONS)"
+    href: western-university/honours-specialization-in-childhood-and-youth-studies-formerly-the-honours-specialization.md
+  - name: "10.54 HONOURS SPECIALIZATION IN CLASSICAL STUDIES"
+    href: western-university/honours-specialization-in-classical-studies.md
+  - name: "10.55 HONOURS SPECIALIZATION IN CLINICAL KINESIOLOGY"
+    href: western-university/honours-specialization-in-clinical-kinesiology.md
+  - name: "10.56 HONOURS SPECIALIZATION IN COMMERCIAL AVIATION MANAGEMENT"
+    href: western-university/honours-specialization-in-commercial-aviation-management.md
+  - name: "10.57 HONOURS SPECIALIZATION IN COMMUNITY AND CRIMINAL JUSTICE (Brescia)"
+    href: western-university/honours-specialization-in-community-and-criminal-justice-brescia.md
+  - name: "10.58 HONOURS SPECIALIZATION IN COMMUNITY DEVELOPMENT IN A GLOBAL CONTEXT (Brescia)"
+    href: western-university/honours-specialization-in-community-development-in-a-global-context-brescia.md
+  - name: "10.59 HONOURS SPECIALIZATION IN COMPUTER SCIENCE (COMPUTER SCIENCE PROGRAM)"
+    href: western-university/honours-specialization-in-computer-science-computer-science-program.md
+  - name: "10.60 HONOURS SPECIALIZATION IN CONSUMER BEHAVIOR"
+    href: western-university/honours-specialization-in-consumer-behavior.md
+  - name: "10.61 HONOURS SPECIALIZATION IN CREATIVE WRITING AND ENGLISH LANGUAGE AND LITERATURE"
+    href: western-university/honours-specialization-in-creative-writing-and-english-language-and-literature.md
+  - name: "10.62 HONOURS SPECIALIZATION IN CRIMINOLOGY"
+    href: western-university/honours-specialization-in-criminology.md
+  - name: "10.63 HONOURS SPECIALIZATION IN CULTURAL FORCES OF GLOBAL CHANGE"
+    href: western-university/honours-specialization-in-cultural-forces-of-global-change.md
+  - name: "10.64 HONOURS SPECIALIZATION IN DATA SCIENCE"
+    href: western-university/honours-specialization-in-data-science.md
+  - name: "10.65 HONOURS SPECIALIZATION IN DEVELOPMENTAL COGNITIVE NEUROSCIENCE - BSc"
+    href: western-university/honours-specialization-in-developmental-cognitive-neuroscience-bsc.md
+  - name: "10.66 HONOURS SPECIALIZATION IN ECONOMICS (20706)"
+    href: western-university/honours-specialization-in-economics-20706.md
+  - name: "10.67 HONOURS SPECIALIZATION IN ECONOMICS (20712)"
+    href: western-university/honours-specialization-in-economics-20712.md
+  - name: "10.68 HONOURS SPECIALIZATION IN ECONOMICS (21002)"
+    href: western-university/honours-specialization-in-economics-21002.md
+  - name: "10.69 HONOURS SPECIALIZATION IN ENGLISH AND CULTURAL STUDIES"
+    href: western-university/honours-specialization-in-english-and-cultural-studies.md
+  - name: "10.70 HONOURS SPECIALIZATION IN ENGLISH LANGUAGE AND LITERATURE (20718)"
+    href: western-university/honours-specialization-in-english-language-and-literature-20718.md
+  - name: "10.71 HONOURS SPECIALIZATION IN ENGLISH LANGUAGE AND LITERATURE (20911)"
+    href: western-university/honours-specialization-in-english-language-and-literature-20911.md
+  - name: "10.72 HONOURS SPECIALIZATION IN ENVIRONMENTAL GEOSCIENCE – For Professional Registration"
+    href: western-university/honours-specialization-in-environmental-geoscience-for-professional-registration.md
+  - name: "10.73 HONOURS SPECIALIZATION IN ENVIRONMENTAL SCIENCE"
+    href: western-university/honours-specialization-in-environmental-science.md
+  - name: "10.74 HONOURS SPECIALIZATION IN EPIDEMIOLOGY AND BIOSTATISTICS"
+    href: western-university/honours-specialization-in-epidemiology-and-biostatistics.md
+  - name: "10.75 HONOURS SPECIALIZATION IN FAMILY STUDIES AND HUMAN DEVELOPMENT - BA (HUMAN ECOLOGY)"
+    href: western-university/honours-specialization-in-family-studies-and-human-development-ba-human-ecology.md
+  - name: "10.76 HONOURS SPECIALIZATION IN FILM STUDIES"
+    href: western-university/honours-specialization-in-film-studies.md
+  - name: "10.77 HONOURS SPECIALIZATION IN FINANCE"
+    href: western-university/honours-specialization-in-finance.md
+  - name: "10.78 HONOURS SPECIALIZATION IN FINANCE AND ADMINISTRATION (21497)"
+    href: western-university/honours-specialization-in-finance-and-administration-21497.md
+  - name: "10.79 HONOURS SPECIALIZATION IN FINANCE AND ADMINISTRATION (21505)"
+    href: western-university/honours-specialization-in-finance-and-administration-21505.md
+  - name: "10.80 HONOURS SPECIALIZATION IN FINANCIAL ECONOMICS"
+    href: western-university/honours-specialization-in-financial-economics.md
+  - name: "10.81 HONOURS SPECIALIZATION IN FINANCIAL MODELLING"
+    href: western-university/honours-specialization-in-financial-modelling.md
+  - name: "10.82 HONOURS SPECIALIZATION IN FOODS AND NUTRITION"
+    href: western-university/honours-specialization-in-foods-and-nutrition.md
+  - name: "10.83 HONOURS SPECIALIZATION IN FRENCH LANGUAGE AND LITERATURE"
+    href: western-university/honours-specialization-in-french-language-and-literature.md
+  - name: "10.84 HONOURS SPECIALIZATION IN FRENCH STUDIES"
+    href: western-university/honours-specialization-in-french-studies.md
+  - name: "10.85 HONOURS SPECIALIZATION IN GENDER AND WOMEN'S STUDIES (21143)"
+    href: western-university/honours-specialization-in-gender-and-women-s-studies-21143.md
+  - name: "10.86 HONOURS SPECIALIZATION IN GENDER AND WOMEN'S STUDIES (21710)"
+    href: western-university/honours-specialization-in-gender-and-women-s-studies-21710.md
+  - name: "10.87 HONOURS SPECIALIZATION IN GENETICS"
+    href: western-university/honours-specialization-in-genetics.md
+  - name: "10.88 HONOURS SPECIALIZATION IN GENETICS AND BIOCHEMISTRY"
+    href: western-university/honours-specialization-in-genetics-and-biochemistry.md
+  - name: "10.89 HONOURS SPECIALIZATION IN GEOGRAPHIC INFORMATION SCIENCE - BA"
+    href: western-university/honours-specialization-in-geographic-information-science-ba.md
+  - name: "10.90 HONOURS SPECIALIZATION IN GEOGRAPHIC INFORMATION SCIENCE - BSc"
+    href: western-university/honours-specialization-in-geographic-information-science-bsc.md
+  - name: "10.91 HONOURS SPECIALIZATION IN GEOGRAPHY AND ENVIRONMENT - BA"
+    href: western-university/honours-specialization-in-geography-and-environment-ba.md
+  - name: "10.92 HONOURS SPECIALIZATION IN GEOGRAPHY AND ENVIRONMENT - BSc"
+    href: western-university/honours-specialization-in-geography-and-environment-bsc.md
+  - name: "10.93 HONOURS SPECIALIZATION IN GEOGRAPHY AND ENVIRONMENT AND COMMERCIAL AVIATION MANAGEMENT - BA"
+    href: western-university/honours-specialization-in-geography-and-environment-and-commercial-aviation-management-ba.md
+  - name: "10.94 HONOURS SPECIALIZATION IN GEOLOGY - For Professional Registration"
+    href: western-university/honours-specialization-in-geology-for-professional-registration.md
+  - name: "10.95 HONOURS SPECIALIZATION IN GEOLOGY AND BIOLOGY"
+    href: western-university/honours-specialization-in-geology-and-biology.md
+  - name: "10.96 HONOURS SPECIALIZATION IN GEOPHYSICS – For Professional Registration"
+    href: western-university/honours-specialization-in-geophysics-for-professional-registration.md
+  - name: "10.97 HONOURS SPECIALIZATION IN GLOBAL COMMERCE"
+    href: western-university/honours-specialization-in-global-commerce.md
+  - name: "10.98 HONOURS SPECIALIZATION IN GLOBAL DEVELOPMENT"
+    href: western-university/honours-specialization-in-global-development.md
+  - name: "10.99 HONOURS SPECIALIZATION IN GLOBAL ECONOMICS"
+    href: western-university/honours-specialization-in-global-economics.md
+  - name: "10.100 HONOURS SPECIALIZATION IN GLOBAL GENDER STUDIES (20686)"
+    href: western-university/honours-specialization-in-global-gender-studies-20686.md
+  - name: "10.101 HONOURS SPECIALIZATION IN GLOBAL GENDER STUDIES (21142)"
+    href: western-university/honours-specialization-in-global-gender-studies-21142.md
+  - name: "10.102 HONOURS SPECIALIZATION IN GLOBAL GENDER STUDIES (21709)"
+    href: western-university/honours-specialization-in-global-gender-studies-21709.md
+  - name: "10.103 HONOURS SPECIALIZATION IN GLOBAL HEALTH STUDIES"
+    href: western-university/honours-specialization-in-global-health-studies.md
+  - name: "10.104 HONOURS SPECIALIZATION IN GLOBAL JUSTICE"
+    href: western-university/honours-specialization-in-global-justice.md
+  - name: "10.105 HONOURS SPECIALIZATION IN GLOBAL RIGHTS ACTIONS"
+    href: western-university/honours-specialization-in-global-rights-actions.md
+  - name: "10.106 HONOURS SPECIALIZATION IN GLOBAL SOCIAL INNOVATION"
+    href: western-university/honours-specialization-in-global-social-innovation.md
+  - name: "10.107 HONOURS SPECIALIZATION IN HEALTH SCIENCES"
+    href: western-university/honours-specialization-in-health-sciences.md
+  - name: "10.108 HONOURS SPECIALIZATION IN HEALTH SCIENCES WITH BIOLOGY"
+    href: western-university/honours-specialization-in-health-sciences-with-biology.md
+  - name: "10.109 HONOURS SPECIALIZATION IN HISTORY (20751)"
+    href: western-university/honours-specialization-in-history-20751.md
+  - name: "10.110 HONOURS SPECIALIZATION IN HISTORY (21016)"
+    href: western-university/honours-specialization-in-history-21016.md
+  - name: "10.111 HONOURS SPECIALIZATION IN HISTORY (21221)"
+    href: western-university/honours-specialization-in-history-21221.md
+  - name: "10.112 HONOURS SPECIALIZATION IN HUMAN RESOURCE MANAGEMENT"
+    href: western-university/honours-specialization-in-human-resource-management.md
+  - name: "10.113 HONOURS SPECIALIZATION IN INDIGENOUS STUDIES"
+    href: western-university/honours-specialization-in-indigenous-studies.md
+  - name: "10.114 HONOURS SPECIALIZATION IN INTEGRATED SCIENCE WITH ASTROPHYSICS"
+    href: western-university/honours-specialization-in-integrated-science-with-astrophysics.md
+  - name: "10.115 HONOURS SPECIALIZATION IN INTEGRATED SCIENCE WITH BIOLOGY"
+    href: western-university/honours-specialization-in-integrated-science-with-biology.md
+  - name: "10.116 HONOURS SPECIALIZATION IN INTEGRATED SCIENCE WITH CHEMISTRY"
+    href: western-university/honours-specialization-in-integrated-science-with-chemistry.md
+  - name: "10.117 HONOURS SPECIALIZATION IN INTEGRATED SCIENCE WITH EARTH SCIENCES"
+    href: western-university/honours-specialization-in-integrated-science-with-earth-sciences.md
+  - name: "10.118 HONOURS SPECIALIZATION IN INTEGRATED SCIENCE WITH ENVIRONMENTAL SCIENCE"
+    href: western-university/honours-specialization-in-integrated-science-with-environmental-science.md
+  - name: "10.119 HONOURS SPECIALIZATION IN INTEGRATED SCIENCE WITH GENETICS"
+    href: western-university/honours-specialization-in-integrated-science-with-genetics.md
+  - name: "10.120 HONOURS SPECIALIZATION IN INTEGRATED SCIENCE WITH MATHEMATICAL AND STATISTICAL SCIENCES"
+    href: western-university/honours-specialization-in-integrated-science-with-mathematical-and-statistical-sciences.md
+  - name: "10.121 HONOURS SPECIALIZATION IN INTEGRATED SCIENCE WITH PHYSICS"
+    href: western-university/honours-specialization-in-integrated-science-with-physics.md
+  - name: "10.122 HONOURS SPECIALIZATION IN INTEGRATED SCIENCE WITH SYNTHETIC BIOLOGY"
+    href: western-university/honours-specialization-in-integrated-science-with-synthetic-biology.md
+  - name: "10.123 HONOURS SPECIALIZATION IN INTERDISCIPLINARY MEDICAL SCIENCES (IMS)"
+    href: western-university/honours-specialization-in-interdisciplinary-medical-sciences-ims.md
+  - name: "10.124 HONOURS SPECIALIZATION IN INTERNATIONAL RELATIONS"
+    href: western-university/honours-specialization-in-international-relations.md
+  - name: "10.125 HONOURS SPECIALIZATION IN KINESIOLOGY - BA"
+    href: western-university/honours-specialization-in-kinesiology-ba.md
+  - name: "10.126 HONOURS SPECIALIZATION IN KINESIOLOGY - BSc"
+    href: western-university/honours-specialization-in-kinesiology-bsc.md
+  - name: "10.127 HONOURS SPECIALIZATION IN LINGUISTICS (20760)"
+    href: western-university/honours-specialization-in-linguistics-20760.md
+  - name: "10.128 HONOURS SPECIALIZATION IN LINGUISTICS (21706)"
+    href: western-university/honours-specialization-in-linguistics-21706.md
+  - name: "10.129 HONOURS SPECIALIZATION IN MANAGEMENT AND LEGAL STUDIES"
+    href: western-university/honours-specialization-in-management-and-legal-studies.md
+  - name: "10.130 HONOURS SPECIALIZATION IN MARKETING AND SUSTAINABILITY"
+    href: western-university/honours-specialization-in-marketing-and-sustainability.md
+  - name: "10.131 HONOURS SPECIALIZATION IN MATHEMATICAL AND STATISTICAL SCIENCES"
+    href: western-university/honours-specialization-in-mathematical-and-statistical-sciences.md
+  - name: "10.132 HONOURS SPECIALIZATION IN MATHEMATICS"
+    href: western-university/honours-specialization-in-mathematics.md
+  - name: "10.133 HONOURS SPECIALIZATION IN MEDIA AND THE PUBLIC INTEREST (MPI)"
+    href: western-university/honours-specialization-in-media-and-the-public-interest-mpi.md
+  - name: "10.134 HONOURS SPECIALIZATION IN MEDIA, INFORMATION AND TECHNOCULTURE"
+    href: western-university/honours-specialization-in-media-information-and-technoculture.md
+  - name: "10.135 HONOURS SPECIALIZATION IN MEDICAL BIOINFORMATICS"
+    href: western-university/honours-specialization-in-medical-bioinformatics.md
+  - name: "10.136 HONOURS SPECIALIZATION IN MEDICAL BIOPHYSICS (Medical Science Concentration)"
+    href: western-university/honours-specialization-in-medical-biophysics-medical-science-concentration.md
+  - name: "10.137 HONOURS SPECIALIZATION IN MEDICAL CELL BIOLOGY"
+    href: western-university/honours-specialization-in-medical-cell-biology.md
+  - name: "10.138 HONOURS SPECIALIZATION IN MEDICAL PHYSICS"
+    href: western-university/honours-specialization-in-medical-physics.md
+  - name: "10.139 HONOURS SPECIALIZATION IN MICROBIOLOGY AND IMMUNOLOGY"
+    href: western-university/honours-specialization-in-microbiology-and-immunology.md
+  - name: "10.140 HONOURS SPECIALIZATION IN MUSIC"
+    href: western-university/honours-specialization-in-music.md
+  - name: "10.141 HONOURS SPECIALIZATION IN NEUROSCIENCE"
+    href: western-university/honours-specialization-in-neuroscience.md
+  - name: "10.142 HONOURS SPECIALIZATION IN NUTRITION AND DIETETICS"
+    href: western-university/honours-specialization-in-nutrition-and-dietetics.md
+  - name: "10.143 HONOURS SPECIALIZATION IN ONE HEALTH"
+    href: western-university/honours-specialization-in-one-health.md
+  - name: "10.144 HONOURS SPECIALIZATION IN ORGANIZATIONAL AND HUMAN RESOURCES"
+    href: western-university/honours-specialization-in-organizational-and-human-resources.md
+  - name: "10.145 HONOURS SPECIALIZATION IN ORGANIZATIONAL STUDIES, POLICY, AND ETHICS"
+    href: western-university/honours-specialization-in-organizational-studies-policy-and-ethics.md
+  - name: "10.146 HONOURS SPECIALIZATION IN PATHOLOGY"
+    href: western-university/honours-specialization-in-pathology.md
+  - name: "10.147 HONOURS SPECIALIZATION IN PHILOSOPHY (20791)"
+    href: western-university/honours-specialization-in-philosophy-20791.md
+  - name: "10.148 HONOURS SPECIALIZATION IN PHILOSOPHY (20921)"
+    href: western-university/honours-specialization-in-philosophy-20921.md
+  - name: "10.149 HONOURS SPECIALIZATION IN PHILOSOPHY (21231)"
+    href: western-university/honours-specialization-in-philosophy-21231.md
+  - name: "10.150 HONOURS SPECIALIZATION IN PHILOSOPHY, REASONING AND ETHICS"
+    href: western-university/honours-specialization-in-philosophy-reasoning-and-ethics.md
+  - name: "10.151 HONOURS SPECIALIZATION IN PHYSICS"
+    href: western-university/honours-specialization-in-physics.md
+  - name: "10.152 HONOURS SPECIALIZATION IN PHYSIOLOGY"
+    href: western-university/honours-specialization-in-physiology.md
+  - name: "10.153 HONOURS SPECIALIZATION IN PHYSIOLOGY AND PHARMACOLOGY"
+    href: western-university/honours-specialization-in-physiology-and-pharmacology.md
+  - name: "10.154 HONOURS SPECIALIZATION IN POLITICAL SCIENCE (20803)"
+    href: western-university/honours-specialization-in-political-science-20803.md
+  - name: "10.155 HONOURS SPECIALIZATION IN POLITICAL SCIENCE (21021)"
+    href: western-university/honours-specialization-in-political-science-21021.md
+  - name: "10.156 HONOURS SPECIALIZATION IN POLITICS AND INTERNATIONAL RELATIONS"
+    href: western-university/honours-specialization-in-politics-and-international-relations.md
+  - name: "10.157 HONOURS SPECIALIZATION IN POLITICS, PHILOSOPHY AND ECONOMICS - ECONOMICS (PPE-E)"
+    href: western-university/honours-specialization-in-politics-philosophy-and-economics-economics-ppe-e.md
+  - name: "10.158 HONOURS SPECIALIZATION IN POLITICS, PHILOSOPHY AND ECONOMICS - POLITICS AND PHILOSOPHY (PPE-P)"
+    href: western-university/honours-specialization-in-politics-philosophy-and-economics-politics-and-philosophy-ppe-p.md
+  - name: "10.159 HONOURS SPECIALIZATION IN PSYCHOLOGY"
+    href: western-university/honours-specialization-in-psychology.md
+  - name: "10.160 HONOURS SPECIALIZATION IN PSYCHOLOGY - BA (20805)"
+    href: western-university/honours-specialization-in-psychology-ba-20805.md
+  - name: "10.161 HONOURS SPECIALIZATION IN PSYCHOLOGY - BA (21026)"
+    href: western-university/honours-specialization-in-psychology-ba-21026.md
+  - name: "10.162 HONOURS SPECIALIZATION IN PSYCHOLOGY - BSc"
+    href: western-university/honours-specialization-in-psychology-bsc.md
+  - name: "10.163 HONOURS SPECIALIZATION IN PUBLIC HEALTH"
+    href: western-university/honours-specialization-in-public-health.md
+  - name: "10.164 HONOURS SPECIALIZATION IN REHABILITATION SCIENCES"
+    href: western-university/honours-specialization-in-rehabilitation-sciences.md
+  - name: "10.165 HONOURS SPECIALIZATION IN RELIGION AND SOCIETY"
+    href: western-university/honours-specialization-in-religion-and-society.md
+  - name: "10.166 HONOURS SPECIALIZATION IN SOCIAL AND POLITICAL THOUGHT"
+    href: western-university/honours-specialization-in-social-and-political-thought.md
+  - name: "10.167 HONOURS SPECIALIZATION IN SOCIAL JUSTICE AND PEACE STUDIES"
+    href: western-university/honours-specialization-in-social-justice-and-peace-studies.md
+  - name: "10.168 HONOURS SPECIALIZATION IN SOCIOLOGY (21047)"
+    href: western-university/honours-specialization-in-sociology-21047.md
+  - name: "10.169 HONOURS SPECIALIZATION IN SOCIOLOGY (21243)"
+    href: western-university/honours-specialization-in-sociology-21243.md
+  - name: "10.170 HONOURS SPECIALIZATION IN SOCIOLOGY (Brescia)"
+    href: western-university/honours-specialization-in-sociology-brescia.md
+  - name: "10.171 HONOURS SPECIALIZATION IN SPANISH (formerly the HONOURS SPECIALIZATION IN SPANISH LANGUAGE AND HISPANIC CULTURES)"
+    href: western-university/honours-specialization-in-spanish-formerly-the-honours-specialization-in-spanish-language.md
+  - name: "10.172 HONOURS SPECIALIZATION IN STATISTICS"
+    href: western-university/honours-specialization-in-statistics.md
+  - name: "10.173 HONOURS SPECIALIZATION IN SYNTHETIC BIOLOGY"
+    href: western-university/honours-specialization-in-synthetic-biology.md
+  - name: "10.174 HONOURS SPECIALIZATION IN THANATOLOGY"
+    href: western-university/honours-specialization-in-thanatology.md
+  - name: "10.175 HONOURS SPECIALIZATION IN URBAN DEVELOPMENT - BA"
+    href: western-university/honours-specialization-in-urban-development-ba.md
+  - name: "10.176 HONOURS SPECIALIZATION IN WORLD RELIGIONS AND CULTURES"
+    href: western-university/honours-specialization-in-world-religions-and-cultures.md
+  - name: "10.177 I. CIVIL ENGINEERING AND ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING, SMART CITIES AND ENVIRONMENTAL ENGINEERING OPTION"
+    href: western-university/i-civil-engineering-and-artificial-intelligence-systems-engineering-smart-cities-and-envir.md
+  - name: "10.178 INTEGRATED ENGINEERING PROGRAM"
+    href: western-university/integrated-engineering-program.md
+  - name: "10.179 M. ELECTRICAL ENGINEERING AND ARTIFICIAL INTELLIGENCE SYSTEMS ENGINEERING OPTION"
+    href: western-university/m-electrical-engineering-and-artificial-intelligence-systems-engineering-option.md
+  - name: "10.180 MAJOR IN ACCOUNTING (must be part of a double Major)"
+    href: western-university/major-in-accounting-must-be-part-of-a-double-major.md
+  - name: "10.181 MAJOR IN ACCOUNTING (must be part of an Honours Double Major)"
+    href: western-university/major-in-accounting-must-be-part-of-an-honours-double-major.md
+  - name: "10.182 MAJOR IN ACCOUNTING (must be part of Honours Double Major)"
+    href: western-university/major-in-accounting-must-be-part-of-honours-double-major.md
+  - name: "10.183 MAJOR IN ACTUARIAL SCIENCE"
+    href: western-university/major-in-actuarial-science.md
+  - name: "10.184 MAJOR IN ADVANCED STUDIES IN THE ARTS AND HUMANITIES"
+    href: western-university/major-in-advanced-studies-in-the-arts-and-humanities.md
+  - name: "10.185 MAJOR IN ANALYTICS AND DECISION SCIENCES"
+    href: western-university/major-in-analytics-and-decision-sciences.md
+  - name: "10.186 MAJOR IN ANIMAL ETHICS AND SUSTAINABILITY LEADERSHIP"
+    href: western-university/major-in-animal-ethics-and-sustainability-leadership.md
+  - name: "10.187 MAJOR IN ANTHROPOLOGY"
+    href: western-university/major-in-anthropology.md
+  - name: "10.188 MAJOR IN APPLIED MATHEMATICS"
+    href: western-university/major-in-applied-mathematics.md
+  - name: "10.189 MAJOR IN APPLIED STATISTICS"
+    href: western-university/major-in-applied-statistics.md
+  - name: "10.190 MAJOR IN ARCHAEOLOGY AND BIOLOGICAL ANTHROPOLOGY"
+    href: western-university/major-in-archaeology-and-biological-anthropology.md
+  - name: "10.191 MAJOR IN ART HISTORY AND MUSEUM AND CURATORIAL STUDIES"
+    href: western-university/major-in-art-history-and-museum-and-curatorial-studies.md
+  - name: "10.192 MAJOR IN ART HISTORY AND STUDIO ART"
+    href: western-university/major-in-art-history-and-studio-art.md
+  - name: "10.193 MAJOR IN ASTROPHYSICS"
+    href: western-university/major-in-astrophysics.md
+  - name: "10.194 MAJOR IN BIOCHEMISTRY"
+    href: western-university/major-in-biochemistry.md
+  - name: "10.195 MAJOR IN BIOLOGY"
+    href: western-university/major-in-biology.md
+  - name: "10.196 MAJOR IN BLACK STUDIES (21728)"
+    href: western-university/major-in-black-studies-21728.md
+  - name: "10.197 MAJOR IN BLACK STUDIES (21729)"
+    href: western-university/major-in-black-studies-21729.md
+  - name: "10.198 MAJOR IN CATHOLIC STUDIES"
+    href: western-university/major-in-catholic-studies.md
+  - name: "10.199 MAJOR IN CATHOLIC STUDIES FOR TEACHERS"
+    href: western-university/major-in-catholic-studies-for-teachers.md
+  - name: "10.200 MAJOR IN CHEMISTRY"
+    href: western-university/major-in-chemistry.md
+  - name: "10.201 MAJOR IN CHILDHOOD AND YOUTH STUDIES (formerly the MAJOR IN CHILDHOOD AND SOCIAL INSTITUTIONS)"
+    href: western-university/major-in-childhood-and-youth-studies-formerly-the-major-in-childhood-and-social-institutio.md
+  - name: "10.202 MAJOR IN CHINA STUDIES"
+    href: western-university/major-in-china-studies.md
+  - name: "10.203 MAJOR IN CLASSICAL STUDIES"
+    href: western-university/major-in-classical-studies.md
+  - name: "10.204 MAJOR IN CLIMATE CHANGE AND SOCIETY"
+    href: western-university/major-in-climate-change-and-society.md
+  - name: "10.205 MAJOR IN COMMERCIAL AVIATION MANAGEMENT (must be part of Honours Double Major)"
+    href: western-university/major-in-commercial-aviation-management-must-be-part-of-honours-double-major.md
+  - name: "10.206 MAJOR IN COMMUNITY DEVELOPMENT (Brescia)"
+    href: western-university/major-in-community-development-brescia.md
+  - name: "10.207 MAJOR IN COMPUTER SCIENCE (COMPUTER SCIENCE PROGRAM)"
+    href: western-university/major-in-computer-science-computer-science-program.md
+  - name: "10.208 MAJOR IN CONSUMER BEHAVIOR (must be part of Honours Double Major)"
+    href: western-university/major-in-consumer-behavior-must-be-part-of-honours-double-major.md
+  - name: "10.209 MAJOR IN CREATIVE ARTS AND PRODUCTION (21668)"
+    href: western-university/major-in-creative-arts-and-production-21668.md
+  - name: "10.210 MAJOR IN CREATIVE ARTS AND PRODUCTION (21669)"
+    href: western-university/major-in-creative-arts-and-production-21669.md
+  - name: "10.211 MAJOR IN CREATIVE ARTS AND PRODUCTION (21670)"
+    href: western-university/major-in-creative-arts-and-production-21670.md
+  - name: "10.212 MAJOR IN CREATIVE WRITING"
+    href: western-university/major-in-creative-writing.md
+  - name: "10.213 MAJOR IN CRIMINAL JUSTICE (Brescia)"
+    href: western-university/major-in-criminal-justice-brescia.md
+  - name: "10.214 MAJOR IN CRIMINOLOGY"
+    href: western-university/major-in-criminology.md
+  - name: "10.215 MAJOR IN CULTURAL FORCES OF GLOBAL CHANGE"
+    href: western-university/major-in-cultural-forces-of-global-change.md
+  - name: "10.216 MAJOR IN DATA SCIENCE"
+    href: western-university/major-in-data-science.md
+  - name: "10.217 MAJOR IN DISABILITY STUDIES"
+    href: western-university/major-in-disability-studies.md
+  - name: "10.218 MAJOR IN EAST ASIA STUDIES"
+    href: western-university/major-in-east-asia-studies.md
+  - name: "10.219 MAJOR IN ECONOMICS (20704)"
+    href: western-university/major-in-economics-20704.md
+  - name: "10.220 MAJOR IN ECONOMICS (20708)"
+    href: western-university/major-in-economics-20708.md
+  - name: "10.221 MAJOR IN ECONOMICS (20999)"
+    href: western-university/major-in-economics-20999.md
+  - name: "10.222 MAJOR IN ECOSYSTEM HEALTH"
+    href: western-university/major-in-ecosystem-health.md
+  - name: "10.223 MAJOR IN ENGLISH AND CULTURAL STUDIES"
+    href: western-university/major-in-english-and-cultural-studies.md
+  - name: "10.224 MAJOR IN ENGLISH LANGUAGE AND LITERATURE (20714)"
+    href: western-university/major-in-english-language-and-literature-20714.md
+  - name: "10.225 MAJOR IN ENGLISH LANGUAGE AND LITERATURE (20899)"
+    href: western-university/major-in-english-language-and-literature-20899.md
+  - name: "10.226 MAJOR IN ENVIRONMENT AND HEALTH"
+    href: western-university/major-in-environment-and-health.md
+  - name: "10.227 MAJOR IN ENVIRONMENTAL SCIENCE"
+    href: western-university/major-in-environmental-science.md
+  - name: "10.228 MAJOR IN EPIDEMIOLOGY AND BIOSTATISTICS"
+    href: western-university/major-in-epidemiology-and-biostatistics.md
+  - name: "10.229 MAJOR IN FAMILY STUDIES AND HUMAN DEVELOPMENT - BA (HUMAN ECOLOGY)"
+    href: western-university/major-in-family-studies-and-human-development-ba-human-ecology.md
+  - name: "10.230 MAJOR IN FILM STUDIES"
+    href: western-university/major-in-film-studies.md
+  - name: "10.231 MAJOR IN FINANCE (20707)"
+    href: western-university/major-in-finance-20707.md
+  - name: "10.232 MAJOR IN FINANCE (20709)"
+    href: western-university/major-in-finance-20709.md
+  - name: "10.233 MAJOR IN FINANCE (must be part of Honours Double Major)"
+    href: western-university/major-in-finance-must-be-part-of-honours-double-major.md
+  - name: "10.234 MAJOR IN FINANCIAL ECONOMICS"
+    href: western-university/major-in-financial-economics.md
+  - name: "10.235 MAJOR IN FINANCIAL MODELLING"
+    href: western-university/major-in-financial-modelling.md
+  - name: "10.236 MAJOR IN FRENCH FOR TEACHING"
+    href: western-university/major-in-french-for-teaching.md
+  - name: "10.237 MAJOR IN FRENCH LANGUAGE AND LITERATURE"
+    href: western-university/major-in-french-language-and-literature.md
+  - name: "10.238 MAJOR IN FRENCH STUDIES (20731)"
+    href: western-university/major-in-french-studies-20731.md
+  - name: "10.239 MAJOR IN FRENCH STUDIES (20928)"
+    href: western-university/major-in-french-studies-20928.md
+  - name: "10.240 MAJOR IN GENDER AND WOMEN'S STUDIES (21145)"
+    href: western-university/major-in-gender-and-women-s-studies-21145.md
+  - name: "10.241 MAJOR IN GENDER AND WOMEN'S STUDIES (21712)"
+    href: western-university/major-in-gender-and-women-s-studies-21712.md
+  - name: "10.242 MAJOR IN GENETICS"
+    href: western-university/major-in-genetics.md
+  - name: "10.243 MAJOR IN GEOGRAPHIC INFORMATION SCIENCE"
+    href: western-university/major-in-geographic-information-science.md
+  - name: "10.244 MAJOR IN GEOGRAPHY AND ENVIRONMENT"
+    href: western-university/major-in-geography-and-environment.md
+  - name: "10.245 MAJOR IN GEOLOGY"
+    href: western-university/major-in-geology.md
+  - name: "10.246 MAJOR IN GEOPHYSICS"
+    href: western-university/major-in-geophysics.md
+  - name: "10.247 MAJOR IN GLOBAL COMMERCE (must be part of an Honours Double Major)"
+    href: western-university/major-in-global-commerce-must-be-part-of-an-honours-double-major.md
+  - name: "10.248 MAJOR IN GLOBAL DEVELOPMENT"
+    href: western-university/major-in-global-development.md
+  - name: "10.249 MAJOR IN GLOBAL GREAT BOOKS"
+    href: western-university/major-in-global-great-books.md
+  - name: "10.250 MAJOR IN GLOBAL JUSTICE"
+    href: western-university/major-in-global-justice.md
+  - name: "10.251 MAJOR IN GLOBAL SOCIAL INNOVATION"
+    href: western-university/major-in-global-social-innovation.md
+  - name: "10.252 MAJOR IN GOVERNANCE, LEADERSHIP AND ETHICS"
+    href: western-university/major-in-governance-leadership-and-ethics.md
+  - name: "10.253 MAJOR IN HEALTH SCIENCES"
+    href: western-university/major-in-health-sciences.md
+  - name: "10.254 MAJOR IN HISTORY (20743)"
+    href: western-university/major-in-history-20743.md
+  - name: "10.255 MAJOR IN HISTORY (21007)"
+    href: western-university/major-in-history-21007.md
+  - name: "10.256 MAJOR IN HISTORY (21218)"
+    href: western-university/major-in-history-21218.md
+  - name: "10.257 MAJOR IN HUMAN RESOURCE MANAGEMENT (must be part of Honours Double Major)"
+    href: western-university/major-in-human-resource-management-must-be-part-of-honours-double-major.md
+  - name: "10.258 MAJOR IN HUMAN RIGHTS STUDIES"
+    href: western-university/major-in-human-rights-studies.md
+  - name: "10.259 MAJOR IN INDIGENOUS STUDIES"
+    href: western-university/major-in-indigenous-studies.md
+  - name: "10.260 MAJOR IN INTERDISCIPLINARY MEDICAL SCIENCES (IMS)"
+    href: western-university/major-in-interdisciplinary-medical-sciences-ims.md
+  - name: "10.261 MAJOR IN ITALIAN LANGUAGE AND CULTURE"
+    href: western-university/major-in-italian-language-and-culture.md
+  - name: "10.262 MAJOR IN JAPANESE STUDIES"
+    href: western-university/major-in-japanese-studies.md
+  - name: "10.263 MAJOR IN JEWISH STUDIES (20756)"
+    href: western-university/major-in-jewish-studies-20756.md
+  - name: "10.264 MAJOR IN JEWISH STUDIES (20758)"
+    href: western-university/major-in-jewish-studies-20758.md
+  - name: "10.265 MAJOR IN KINESIOLOGY"
+    href: western-university/major-in-kinesiology.md
+  - name: "10.266 MAJOR IN LINGUISTICS (20761)"
+    href: western-university/major-in-linguistics-20761.md
+  - name: "10.267 MAJOR IN LINGUISTICS (21707)"
+    href: western-university/major-in-linguistics-21707.md
+  - name: "10.268 MAJOR IN MANAGEMENT AND ORGANIZATIONAL STUDIES (must be part of a double Major)"
+    href: western-university/major-in-management-and-organizational-studies-must-be-part-of-a-double-major.md
+  - name: "10.269 MAJOR IN MANAGEMENT AND ORGANIZATIONAL STUDIES (must be part of an Honours Double Major)"
+    href: western-university/major-in-management-and-organizational-studies-must-be-part-of-an-honours-double-major.md
+  - name: "10.270 MAJOR IN MATHEMATICS"
+    href: western-university/major-in-mathematics.md
+  - name: "10.271 MAJOR IN MEDIA AND THE PUBLIC INTEREST (MPI)"
+    href: western-university/major-in-media-and-the-public-interest-mpi.md
+  - name: "10.272 MAJOR IN MEDIA, INFORMATION AND TECHNOCULTURE"
+    href: western-university/major-in-media-information-and-technoculture.md
+  - name: "10.273 MAJOR IN MEDICAL BIOINFORMATICS"
+    href: western-university/major-in-medical-bioinformatics.md
+  - name: "10.274 MAJOR IN MEDICAL BIOPHYSICS"
+    href: western-university/major-in-medical-biophysics.md
+  - name: "10.275 MAJOR IN MEDICAL CELL BIOLOGY"
+    href: western-university/major-in-medical-cell-biology.md
+  - name: "10.276 MAJOR IN MEDICAL PHYSICS"
+    href: western-university/major-in-medical-physics.md
+  - name: "10.277 MAJOR IN MEDICAL SCIENCES"
+    href: western-university/major-in-medical-sciences.md
+  - name: "10.278 MAJOR IN MEDIEVAL STUDIES"
+    href: western-university/major-in-medieval-studies.md
+  - name: "10.279 MAJOR IN MICROBIOLOGY AND IMMUNOLOGY"
+    href: western-university/major-in-microbiology-and-immunology.md
+  - name: "10.280 MAJOR IN MIDDLE EAST STUDIES"
+    href: western-university/major-in-middle-east-studies.md
+  - name: "10.281 MAJOR IN MUSIC"
+    href: western-university/major-in-music.md
+  - name: "10.282 MAJOR IN NUTRITION MANAGEMENT"
+    href: western-university/major-in-nutrition-management.md
+  - name: "10.283 MAJOR IN ONE HEALTH"
+    href: western-university/major-in-one-health.md
+  - name: "10.284 MAJOR IN ORGANIZATIONAL AND HUMAN RESOURCES (must be part of an Honours Double Major)"
+    href: western-university/major-in-organizational-and-human-resources-must-be-part-of-an-honours-double-major.md
+  - name: "10.285 MAJOR IN PATHOLOGY"
+    href: western-university/major-in-pathology.md
+  - name: "10.286 MAJOR IN PHARMACOLOGY"
+    href: western-university/major-in-pharmacology.md
+  - name: "10.287 MAJOR IN PHILOSOPHY (20786)"
+    href: western-university/major-in-philosophy-20786.md
+  - name: "10.288 MAJOR IN PHILOSOPHY (20922)"
+    href: western-university/major-in-philosophy-20922.md
+  - name: "10.289 MAJOR IN PHILOSOPHY (21227)"
+    href: western-university/major-in-philosophy-21227.md
+  - name: "10.290 MAJOR IN PHILOSOPHY IN COMMERCE"
+    href: western-university/major-in-philosophy-in-commerce.md
+  - name: "10.291 MAJOR IN PHYSICAL GEOGRAPHY AND ENVIRONMENT"
+    href: western-university/major-in-physical-geography-and-environment.md
+  - name: "10.292 MAJOR IN PHYSICS"
+    href: western-university/major-in-physics.md
+  - name: "10.293 MAJOR IN PHYSIOLOGY"
+    href: western-university/major-in-physiology.md
+  - name: "10.294 MAJOR IN POLITICAL SCIENCE (20795)"
+    href: western-university/major-in-political-science-20795.md
+  - name: "10.295 MAJOR IN POLITICAL SCIENCE (21019)"
+    href: western-university/major-in-political-science-21019.md
+  - name: "10.296 MAJOR IN POLITICS AND INTERNATIONAL RELATIONS"
+    href: western-university/major-in-politics-and-international-relations.md
+  - name: "10.297 MAJOR IN POPULAR MUSIC STUDIES"
+    href: western-university/major-in-popular-music-studies.md
+  - name: "10.298 MAJOR IN PSYCHOLOGY (20806)"
+    href: western-university/major-in-psychology-20806.md
+  - name: "10.299 MAJOR IN PSYCHOLOGY (21024)"
+    href: western-university/major-in-psychology-21024.md
+  - name: "10.300 MAJOR IN PSYCHOLOGY (21235)"
+    href: western-university/major-in-psychology-21235.md
+  - name: "10.301 MAJOR IN REHABILITATION SCIENCES"
+    href: western-university/major-in-rehabilitation-sciences.md
+  - name: "10.302 MAJOR IN RELIGION AND SOCIETY"
+    href: western-university/major-in-religion-and-society.md
+  - name: "10.303 MAJOR IN RELIGION AND THEOLOGY"
+    href: western-university/major-in-religion-and-theology.md
+  - name: "10.304 MAJOR IN SCIENTIFIC COMPUTING AND NUMERICAL METHODS"
+    href: western-university/major-in-scientific-computing-and-numerical-methods.md
+  - name: "10.305 MAJOR IN SEXUALITY STUDIES (21144)"
+    href: western-university/major-in-sexuality-studies-21144.md
+  - name: "10.306 MAJOR IN SEXUALITY STUDIES (21711)"
+    href: western-university/major-in-sexuality-studies-21711.md
+  - name: "10.307 MAJOR IN SOCIAL AND POLITICAL THOUGHT"
+    href: western-university/major-in-social-and-political-thought.md
+  - name: "10.308 MAJOR IN SOCIAL JUSTICE AND PEACE STUDIES"
+    href: western-university/major-in-social-justice-and-peace-studies.md
+  - name: "10.309 MAJOR IN SOCIOCULTURAL AND LINGUISTIC ANTHROPOLOGY"
+    href: western-university/major-in-sociocultural-and-linguistic-anthropology.md
+  - name: "10.310 MAJOR IN SOCIOLOGY (21042)"
+    href: western-university/major-in-sociology-21042.md
+  - name: "10.311 MAJOR IN SOCIOLOGY (21239)"
+    href: western-university/major-in-sociology-21239.md
+  - name: "10.312 MAJOR IN SOCIOLOGY (Brescia)"
+    href: western-university/major-in-sociology-brescia.md
+  - name: "10.313 MAJOR IN SPANISH"
+    href: western-university/major-in-spanish.md
+  - name: "10.314 MAJOR IN THANATOLOGY"
+    href: western-university/major-in-thanatology.md
+  - name: "10.315 MAJOR IN THEATRE STUDIES"
+    href: western-university/major-in-theatre-studies.md
+  - name: "10.316 MAJOR IN WORLD RELIGIONS AND CULTURES"
+    href: western-university/major-in-world-religions-and-cultures.md
+  - name: "10.317 MECHATRONIC SYSTEMS ENGINEERING"
+    href: western-university/mechatronic-systems-engineering.md
+  - name: "10.318 SOFTWARE ENGINEERING PROGRAM"
+    href: western-university/software-engineering-program.md
+  - name: "10.319 SPECIALIZATION IN ACCOUNTING (21501)"
+    href: western-university/specialization-in-accounting-21501.md
+  - name: "10.320 SPECIALIZATION IN ACCOUNTING (21512)"
+    href: western-university/specialization-in-accounting-21512.md
+  - name: "10.321 SPECIALIZATION IN ACCOUNTING (21526)"
+    href: western-university/specialization-in-accounting-21526.md
+  - name: "10.322 SPECIALIZATION IN ANTHROPOLOGY"
+    href: western-university/specialization-in-anthropology.md
+  - name: "10.323 SPECIALIZATION IN ASTROPHYSICS"
+    href: western-university/specialization-in-astrophysics.md
+  - name: "10.324 SPECIALIZATION IN BIOLOGY"
+    href: western-university/specialization-in-biology.md
+  - name: "10.325 SPECIALIZATION IN BUSINESS INTELLIGENCE"
+    href: western-university/specialization-in-business-intelligence.md
+  - name: "10.326 SPECIALIZATION IN CATHOLIC STUDIES"
+    href: western-university/specialization-in-catholic-studies.md
+  - name: "10.327 SPECIALIZATION IN CHEMISTRY"
+    href: western-university/specialization-in-chemistry.md
+  - name: "10.328 SPECIALIZATION IN CLASSICAL STUDIES"
+    href: western-university/specialization-in-classical-studies.md
+  - name: "10.329 SPECIALIZATION IN COMMERCIAL AVIATION MANAGEMENT"
+    href: western-university/specialization-in-commercial-aviation-management.md
+  - name: "10.330 SPECIALIZATION IN COMPUTER SCIENCE (COMPUTER SCIENCE PROGRAM)"
+    href: western-university/specialization-in-computer-science-computer-science-program.md
+  - name: "10.331 SPECIALIZATION IN CONSUMER BEHAVIOR"
+    href: western-university/specialization-in-consumer-behavior.md
+  - name: "10.332 SPECIALIZATION IN CULTURAL FORCES OF GLOBAL CHANGE"
+    href: western-university/specialization-in-cultural-forces-of-global-change.md
+  - name: "10.333 SPECIALIZATION IN ECONOMICS (21005)"
+    href: western-university/specialization-in-economics-21005.md
+  - name: "10.334 SPECIALIZATION IN ECONOMICS (21597)"
+    href: western-university/specialization-in-economics-21597.md
+  - name: "10.335 SPECIALIZATION IN ENGLISH AND CULTURAL STUDIES"
+    href: western-university/specialization-in-english-and-cultural-studies.md
+  - name: "10.336 SPECIALIZATION IN ENGLISH LANGUAGE AND LITERATURE (20719)"
+    href: western-university/specialization-in-english-language-and-literature-20719.md
+  - name: "10.337 SPECIALIZATION IN ENGLISH LANGUAGE AND LITERATURE (20913)"
+    href: western-university/specialization-in-english-language-and-literature-20913.md
+  - name: "10.338 SPECIALIZATION IN ENVIRONMENTAL GEOSCIENCE – For Professional Registration"
+    href: western-university/specialization-in-environmental-geoscience-for-professional-registration.md
+  - name: "10.339 SPECIALIZATION IN ENVIRONMENTAL SCIENCE"
+    href: western-university/specialization-in-environmental-science.md
+  - name: "10.340 SPECIALIZATION IN FAMILY STUDIES AND HUMAN DEVELOPMENT - BA (HUMAN ECOLOGY)"
+    href: western-university/specialization-in-family-studies-and-human-development-ba-human-ecology.md
+  - name: "10.341 SPECIALIZATION IN FILM STUDIES"
+    href: western-university/specialization-in-film-studies.md
+  - name: "10.342 SPECIALIZATION IN FINANCE"
+    href: western-university/specialization-in-finance.md
+  - name: "10.343 SPECIALIZATION IN FINANCE AND ADMINISTRATION (21502)"
+    href: western-university/specialization-in-finance-and-administration-21502.md
+  - name: "10.344 SPECIALIZATION IN FINANCE AND ADMINISTRATION (21513)"
+    href: western-university/specialization-in-finance-and-administration-21513.md
+  - name: "10.345 SPECIALIZATION IN FINANCIAL ECONOMICS"
+    href: western-university/specialization-in-financial-economics.md
+  - name: "10.346 SPECIALIZATION IN FOODS AND NUTRITION"
+    href: western-university/specialization-in-foods-and-nutrition.md
+  - name: "10.347 SPECIALIZATION IN FRENCH STUDIES (20741)"
+    href: western-university/specialization-in-french-studies-20741.md
+  - name: "10.348 SPECIALIZATION IN FRENCH STUDIES (20940)"
+    href: western-university/specialization-in-french-studies-20940.md
+  - name: "10.349 SPECIALIZATION IN GENDER AND WOMEN'S STUDIES (21149)"
+    href: western-university/specialization-in-gender-and-women-s-studies-21149.md
+  - name: "10.350 SPECIALIZATION IN GENDER AND WOMEN'S STUDIES (21716)"
+    href: western-university/specialization-in-gender-and-women-s-studies-21716.md
+  - name: "10.351 SPECIALIZATION IN GEOGRAPHY AND ENVIRONMENT"
+    href: western-university/specialization-in-geography-and-environment.md
+  - name: "10.352 SPECIALIZATION IN GEOGRAPHY AND ENVIRONMENT AND COMMERCIAL AVIATION MANAGEMENT - BA"
+    href: western-university/specialization-in-geography-and-environment-and-commercial-aviation-management-ba.md
+  - name: "10.353 SPECIALIZATION IN GEOLOGY AND BIOLOGY"
+    href: western-university/specialization-in-geology-and-biology.md
+  - name: "10.354 SPECIALIZATION IN GEOLOGY – For Professional Registration"
+    href: western-university/specialization-in-geology-for-professional-registration.md
+  - name: "10.355 SPECIALIZATION IN GEOPHYSICS – For Professional Registration"
+    href: western-university/specialization-in-geophysics-for-professional-registration.md
+  - name: "10.356 SPECIALIZATION IN GLOBAL COMMERCE"
+    href: western-university/specialization-in-global-commerce.md
+  - name: "10.357 SPECIALIZATION IN GLOBAL DEVELOPMENT"
+    href: western-university/specialization-in-global-development.md
+  - name: "10.358 SPECIALIZATION IN GLOBAL GENDER STUDIES"
+    href: western-university/specialization-in-global-gender-studies.md
+  - name: "10.359 SPECIALIZATION IN GLOBAL HEALTH STUDIES"
+    href: western-university/specialization-in-global-health-studies.md
+  - name: "10.360 SPECIALIZATION IN GLOBAL RIGHTS ACTIONS"
+    href: western-university/specialization-in-global-rights-actions.md
+  - name: "10.361 SPECIALIZATION IN GLOBAL SOCIAL INNOVATION"
+    href: western-university/specialization-in-global-social-innovation.md
+  - name: "10.362 SPECIALIZATION IN HEALTH SCIENCES"
+    href: western-university/specialization-in-health-sciences.md
+  - name: "10.363 SPECIALIZATION IN HISTORY (20752)"
+    href: western-university/specialization-in-history-20752.md
+  - name: "10.364 SPECIALIZATION IN HISTORY (21018)"
+    href: western-university/specialization-in-history-21018.md
+  - name: "10.365 SPECIALIZATION IN HUMAN RESOURCE MANAGEMENT"
+    href: western-university/specialization-in-human-resource-management.md
+  - name: "10.366 SPECIALIZATION IN INTERDISCIPLINARY MEDICAL SCIENCES (IMS)"
+    href: western-university/specialization-in-interdisciplinary-medical-sciences-ims.md
+  - name: "10.367 SPECIALIZATION IN MANAGEMENT AND LEGAL STUDIES"
+    href: western-university/specialization-in-management-and-legal-studies.md
+  - name: "10.368 SPECIALIZATION IN MARKETING AND SUSTAINABILITY"
+    href: western-university/specialization-in-marketing-and-sustainability.md
+  - name: "10.369 SPECIALIZATION IN MATHEMATICS"
+    href: western-university/specialization-in-mathematics.md
+  - name: "10.370 SPECIALIZATION IN MEDICAL PHYSICS"
+    href: western-university/specialization-in-medical-physics.md
+  - name: "10.371 SPECIALIZATION IN MUSIC ADMINISTRATIVE STUDIES"
+    href: western-university/specialization-in-music-administrative-studies.md
+  - name: "10.372 SPECIALIZATION IN ORGANIZATIONAL AND HUMAN RESOURCES"
+    href: western-university/specialization-in-organizational-and-human-resources.md
+  - name: "10.373 SPECIALIZATION IN ORGANIZATIONAL STUDIES, POLICY, AND ETHICS"
+    href: western-university/specialization-in-organizational-studies-policy-and-ethics.md
+  - name: "10.374 SPECIALIZATION IN PHILOSOPHY (20793)"
+    href: western-university/specialization-in-philosophy-20793.md
+  - name: "10.375 SPECIALIZATION IN PHILOSOPHY (20926)"
+    href: western-university/specialization-in-philosophy-20926.md
+  - name: "10.376 SPECIALIZATION IN PHILOSOPHY (21234)"
+    href: western-university/specialization-in-philosophy-21234.md
+  - name: "10.377 SPECIALIZATION IN PHILOSOPHY, REASONING AND ETHICS"
+    href: western-university/specialization-in-philosophy-reasoning-and-ethics.md
+  - name: "10.378 SPECIALIZATION IN PHYSICS"
+    href: western-university/specialization-in-physics.md
+  - name: "10.379 SPECIALIZATION IN PSYCHOLOGY"
+    href: western-university/specialization-in-psychology.md
+  - name: "10.380 SPECIALIZATION IN RELIGION AND SOCIETY"
+    href: western-university/specialization-in-religion-and-society.md
+  - name: "10.381 SPECIALIZATION IN SOCIAL JUSTICE AND PEACE STUDIES"
+    href: western-university/specialization-in-social-justice-and-peace-studies.md
+  - name: "10.382 SPECIALIZATION IN SOCIOLOGY"
+    href: western-university/specialization-in-sociology.md
+  - name: "10.383 SPECIALIZATION IN SOCIOLOGY (Brescia)"
+    href: western-university/specialization-in-sociology-brescia.md
+  - name: "10.384 SPECIALIZATION IN SPANISH (formerly the SPECIALIZATION IN SPANISH LANGUAGE AND HISPANIC CULTURES)"
+    href: western-university/specialization-in-spanish-formerly-the-specialization-in-spanish-language-and-hispanic-cul.md
+  - name: "10.385 SPECIALIZATION IN VISUAL ARTS"
+    href: western-university/specialization-in-visual-arts.md
+  - name: "10.386 SPECIALIZATION IN WORLD RELIGIONS AND CULTURES"
+    href: western-university/specialization-in-world-religions-and-cultures.md
+  - name: "10.387 THE HBA PROGRAM"
+    href: western-university/the-hba-program.md
+  - name: "10.388 ARTIST DIPLOMA IN PERFORMANCE (ONE-YEAR PROGRAM) - admission suspended"
+    href: western-university/artist-diploma-in-performance-one-year-program-admission-suspended.md
+  - name: "10.389 DIPLOMA IN DIETETIC EDUCATION AND PRACTICAL TRAINING"
+    href: western-university/diploma-in-dietetic-education-and-practical-training.md
+  - name: "10.390 DIPLOMA IN DIGITAL COMMUNICATION: SOCIAL MEDIA & VIRTUAL WORLDS"
+    href: western-university/diploma-in-digital-communication-social-media-virtual-worlds.md
+  - name: "10.391 DIPLOMA IN DIVERSITY AND FAMILIES"
+    href: western-university/diploma-in-diversity-and-families.md
+  - name: "10.392 DIPLOMA IN ETHICS"
+    href: western-university/diploma-in-ethics.md
+  - name: "10.393 DIPLOMA IN MANAGEMENT STUDIES (Brescia)"
+    href: western-university/diploma-in-management-studies-brescia.md
+  - name: "10.394 DIPLOMA IN MANAGEMENT STUDIES WITH WORK PLACEMENT (Brescia)"
+    href: western-university/diploma-in-management-studies-with-work-placement-brescia.md
+  - name: "10.395 DIPLOMA IN NUTRITION"
+    href: western-university/diploma-in-nutrition.md
+  - name: "10.396 DIPLOMA IN PUBLIC ADMINISTRATION"
+    href: western-university/diploma-in-public-administration.md
+  - name: "10.397 DIPLÔME DE FRANÇAIS PRATIQUE"
+    href: western-university/diplome-de-francais-pratique.md
+  - name: "10.398 CERTIFICAT DE FRANÇAIS PRATIQUE"
+    href: western-university/certificat-de-francais-pratique.md
+  - name: "10.399 CERTIFICATE IN CHILDHOOD AND ADVOCACY"
+    href: western-university/certificate-in-childhood-and-advocacy.md
+  - name: "10.400 CERTIFICATE IN CHILDHOOD AND THE LEGAL SYSTEM"
+    href: western-university/certificate-in-childhood-and-the-legal-system.md
+  - name: "10.401 CERTIFICATE IN CLIMATE CHANGE AND SOCIETY"
+    href: western-university/certificate-in-climate-change-and-society.md
+  - name: "10.402 CERTIFICATE IN COMMUNITY DEVELOPMENT (Brescia)"
+    href: western-university/certificate-in-community-development-brescia.md
+  - name: "10.403 CERTIFICATE IN CRITICAL PUBLIC HEALTH (21731)"
+    href: western-university/certificate-in-critical-public-health-21731.md
+  - name: "10.404 CERTIFICATE IN CRITICAL PUBLIC HEALTH (21732)"
+    href: western-university/certificate-in-critical-public-health-21732.md
+  - name: "10.405 CERTIFICATE IN CRITICAL PUBLIC HEALTH (21733)"
+    href: western-university/certificate-in-critical-public-health-21733.md
+  - name: "10.406 CERTIFICATE IN DATA SCIENCE"
+    href: western-university/certificate-in-data-science.md
+  - name: "10.407 CERTIFICATE IN DIGITAL COMMUNICATION: SOCIAL MEDIA & VIRTUAL WORLDS"
+    href: western-university/certificate-in-digital-communication-social-media-virtual-worlds.md
+  - name: "10.408 CERTIFICATE IN DIVERSITY AND FAMILIES"
+    href: western-university/certificate-in-diversity-and-families.md
+  - name: "10.409 CERTIFICATE IN ECOLOGICAL JUSTICE AND CLIMATE ETHICS"
+    href: western-university/certificate-in-ecological-justice-and-climate-ethics.md
+  - name: "10.410 CERTIFICATE IN ENGINEERING LEADERSHIP AND INNOVATION"
+    href: western-university/certificate-in-engineering-leadership-and-innovation.md
+  - name: "10.411 CERTIFICATE IN ENTREPRENEURSHIP"
+    href: western-university/certificate-in-entrepreneurship.md
+  - name: "10.412 CERTIFICATE IN ETHICS"
+    href: western-university/certificate-in-ethics.md
+  - name: "10.413 CERTIFICATE IN GEOGRAPHIC INFORMATION SCIENCE"
+    href: western-university/certificate-in-geographic-information-science.md
+  - name: "10.414 CERTIFICATE IN GERMAN STUDIES (formerly CERTIFICATE IN GERMAN)"
+    href: western-university/certificate-in-german-studies-formerly-certificate-in-german.md
+  - name: "10.415 CERTIFICATE IN ITALIAN (formerly CERTIFICATE IN PRACTICAL ITALIAN)"
+    href: western-university/certificate-in-italian-formerly-certificate-in-practical-italian.md
+  - name: "10.416 CERTIFICATE IN LOSS, GRIEF AND BEREAVEMENT STUDIES"
+    href: western-university/certificate-in-loss-grief-and-bereavement-studies.md
+  - name: "10.417 CERTIFICATE IN MODERN HEBREW"
+    href: western-university/certificate-in-modern-hebrew.md
+  - name: "10.418 CERTIFICATE IN PROFESSIONAL COMMUNICATION"
+    href: western-university/certificate-in-professional-communication.md
+  - name: "10.419 CERTIFICATE IN PURPOSE-DRIVEN AND CHARACTER LEADERSHIP"
+    href: western-university/certificate-in-purpose-driven-and-character-leadership.md
+  - name: "10.420 CERTIFICATE IN RELIGIOUS AND CULTURAL DIVERSITY"
+    href: western-university/certificate-in-religious-and-cultural-diversity.md
+  - name: "10.421 CERTIFICATE IN SPANISH (formerly the CERTIFICATE IN PRACTICAL SPANISH)"
+    href: western-university/certificate-in-spanish-formerly-the-certificate-in-practical-spanish.md
+  - name: "10.422 CERTIFICATE IN THE STUDY OF LAW AND PUBLIC POLICY"
+    href: western-university/certificate-in-the-study-of-law-and-public-policy.md
+  - name: "10.423 CERTIFICATE IN THE TEACHING AND PRACTICE OF WRITING"
+    href: western-university/certificate-in-the-teaching-and-practice-of-writing.md
+  - name: "10.424 CERTIFICATE IN THEATRE STUDIES"
+    href: western-university/certificate-in-theatre-studies.md
+  - name: "10.425 CERTIFICATE IN THEORY-TO-ACTION: APPLIED SOCIAL RESEARCH"
+    href: western-university/certificate-in-theory-to-action-applied-social-research.md
+  - name: "10.426 CERTIFICATE IN WRITING"
+    href: western-university/certificate-in-writing.md
+  - name: "10.427 Computer Science (Master of Science)"
+    href: western-university/computer-science-master-of-science.md
+  - name: "10.428 Computer Science (Doctor of Philosophy)"
+    href: western-university/computer-science-doctor-of-philosophy.md
+  - name: "10.429 Interdisciplinary Health Sciences"
+    href: western-university/interdisciplinary-health-sciences.md
 - name: "11. Université Laval"
   href: universite-laval/index.md
 - name: "12. Université de Montréal"

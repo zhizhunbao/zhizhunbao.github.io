@@ -1,0 +1,66 @@
+---
+title: "8.251 Master of Arts Public Administration"
+description: "University Programs > University of Ottawa > Master of Arts Public Administration: the courses of the program as the academic calendar lists them; definitions pending."
+ms.date: 2026-11-11
+---
+
+# 8.251 Master of Arts Public Administration
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Master of Arts Public Administration**<br>文学硕士，公共管理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+| **Research Methods**<br>研究方法 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+| **Gouvernance démocratique**<br>民主治理 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+| **Theories of Public Management**<br>公共管理理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+| **Theories of Public Policy**<br>公共政策理论 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+| **Thesis Proposal**<br>论文开题报告 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+| **Master's Thesis**<br>硕士论文 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+| **Major Research Paper**<br>主要研究论文 | (Definition pending) | （定义待补） | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Master's with Thesis |  | Enrollment is limited to a maximum of three courses/seminars per term, not including the thesis proposal. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Compulsory Courses: |  | Compulsory Courses: |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Compulsory Courses: | PAP 6103 | Research Methods | 3 Units | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Compulsory Courses: | PAP 6502 | Gouvernance démocratique | 3 Units | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Compulsory Courses: |  | 3 course units from: | 3 Units | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Compulsory Courses: > 3 course units from: | PAP 6110 | Theories of Public Management |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Compulsory Courses: > 3 course units from: | PAP 6111 | Theories of Public Policy |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Compulsory Courses: |  | 3 elective course units in public administration (PAP) or in other programs at the graduate level | 3 Units | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis Proposal: |  | Thesis Proposal: |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis Proposal: | PAP 6998 | Thesis Proposal |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis: |  | Thesis: |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis: | THM 7999 | Master's Thesis |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis: |  | Note(s) |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis Proposal |  | Enrollment in the thesis proposal (PAP 6998) should take place as early as possible, ideally in the first term but by the third term at the latest. Students should begin the process of selecting a thesis topic and potential supervisor immediately upon commencing the program. The topic and supervisor are selected in consultation with an adviser and must be registered no later than the end of the second term in the program. Once the topic and supervisor have been chosen, the thesis proposal is prepared with the help of the supervisor. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis Proposal |  | The defence of the topic, which is the only requirement of PAP 6998, must be completed before the end of the third term of enrollment (preferably earlier). Once the topic has been defended, students are allowed to enroll for the thesis (THM 7999). |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis Proposal |  | The thesis proposal is assessed by a committee, composed of the thesis supervisor and another professor chosen by the professor in charge of graduate studies in public administration in consultation with the student and the thesis supervisor. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis |  | The thesis (THM 7999) is prepared under the direction of the supervisor and evaluated following submission by a committee of professors proposed by the professor in charge of graduate studies in public administration. It is normally approximately twenty-five thousand words (between 80 and 120 pages). |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Thesis > Thesis |  | The thesis must demonstrate the student’s capacity for scholarly analysis of a specific subject. It does not have to be an exhaustive study of the kind expected of a doctoral dissertation, but it must display acapacity for rigorous analysis of a specific subject. It is judged as much for its methodological quality as for its contribution to knowledge. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper |  | Enrollment is limited to a maximum of three courses/seminars per term, not including the thesis proposal. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Compulsory Courses: |  | Compulsory Courses: |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Compulsory Courses: | PAP 6103 | Research Methods | 3 Units | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Compulsory Courses: | PAP 6502 | Gouvernance démocratique | 3 Units | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Compulsory Courses: |  | 3 course units from: | 3 Units | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Compulsory Courses: > 3 course units from: | PAP 6110 | Theories of Public Management |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Compulsory Courses: > 3 course units from: | PAP 6111 | Theories of Public Policy |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Compulsory Courses: |  | 9 elective course units in public administration (PAP) or in other programs at the graduate level | 9 Units | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Research Paper: |  | Research Paper: |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Research Paper: | MRP 6999 | Major Research Paper |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Master's with Research Paper > Research Paper: |  | Note(s) |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Co-op Option |  | In collaboration with the University of Ottawa’s co-op office, a co-op option is offered to a limited number of students in the master’s with research paper. This option gives selected students the opportunity to acquire practical work experience by completing two one-term (four months) work placements, normally in the public service. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Co-op Option |  | There are two possibilities within the co-op option. One is to complete the first co-op work placement in the spring term of the first year and the second placement in the winter term of the second year. The other possibility is to complete two consecutive work placements over the spring term of the first year and the fall term of the second year. The eight-month placement enables students to engage in a longer project within the host organization and thus acquire a more valuable work experience. In both cases, students who enroll in the co-op option will obtain twelve units (six units per work placement) for their work experience and co-op reports. Each work term is graded P/F (Pass or Fail), based on the employer’s report and on a written report completed by the student. The student reports will be evaluated by a professor in the program (who also serves as the program’s representative on the University’s Co-op Committee). |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Co-op Option |  | The units awarded for co-op work terms may not be used to obtain equivalences for other courses. In other words, the co-op units are additional to the minimum requirements of the MA degree. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Co-op Option |  | To remain enrolled in the co-op option, students must: |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Co-op Option |  | maintain full-time status; maintain a 7.0 grade point average; obtain a passing grade for each work term. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Transfer from Master’s to PhD |  | Students enrolled in the master’s program with thesis may be allowed to transfer to the PhD program without being required to write a master’s thesis. For additional information, please consult the “Admission Requirements” section of the PhD program. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Duration of Program |  | Full-time students are expected to fulfill all requirements of the master’s with thesis and the master’s with research paper with co-op option within two years. Full-time students are expected to fulfill all requirements of the master’s with research paper (without co-op) within 16 months. The maximum time permitted is four years from the date of initial enrollment in the program, whether full- or part-time. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+|  | Minimum Standards |  | The passing grade in all courses is C+. Students who fail two courses (equivalent to 6 units), the thesis proposal, the research paper, the thesis or whose progress is deemed unsatisfactory are required to withdraw. |  | [University of Ottawa, n.d.](https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/) |
+
+## References
+
+University of Ottawa. (n.d.). *Master of Arts Public Administration*. Retrieved November 11, 2026, from <https://catalogue.uottawa.ca/en/graduate/master-arts-public-administration/>
