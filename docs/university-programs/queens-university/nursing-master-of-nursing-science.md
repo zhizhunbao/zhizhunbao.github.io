@@ -1,10 +1,10 @@
 ---
-title: "5.184 Nursing - Master of Nursing Science"
+title: "5.185 Nursing - Master of Nursing Science"
 description: "University Programs > Queen’s University > Nursing - Master of Nursing Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.184 Nursing - Master of Nursing Science
+# 5.185 Nursing - Master of Nursing Science
 
 ## Glossary
 

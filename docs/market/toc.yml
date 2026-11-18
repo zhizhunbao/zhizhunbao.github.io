@@ -52,3 +52,14 @@ items:
     href: news/2025.md
   - name: "10.3 2024"
     href: news/2024.md
+- name: "11. International Students"
+  href: international-students/index.md
+  items:
+  - name: "11.1 Open Doors"
+    href: international-students/open-doors.md
+  - name: "11.2 HESA"
+    href: international-students/hesa.md
+  - name: "11.3 Department of Education"
+    href: international-students/department-of-education.md
+  - name: "11.4 IRCC"
+    href: international-students/ircc.md

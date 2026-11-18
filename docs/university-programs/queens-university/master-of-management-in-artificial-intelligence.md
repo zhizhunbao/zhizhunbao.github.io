@@ -1,10 +1,10 @@
 ---
-title: "5.180 Master of Management in Artificial Intelligence"
+title: "5.181 Master of Management in Artificial Intelligence"
 description: "University Programs > Queen’s University > Master of Management in Artificial Intelligence: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.180 Master of Management in Artificial Intelligence
+# 5.181 Master of Management in Artificial Intelligence
 
 ## Glossary
 

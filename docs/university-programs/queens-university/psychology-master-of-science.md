@@ -1,10 +1,10 @@
 ---
-title: "5.185 Psychology - Master of Science"
+title: "5.186 Psychology - Master of Science"
 description: "University Programs > Queen’s University > Psychology - Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.185 Psychology - Master of Science
+# 5.186 Psychology - Master of Science
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.196 Psychology - Doctor of Philosophy"
+title: "5.197 Psychology - Doctor of Philosophy"
 description: "University Programs > Queen’s University > Psychology - Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.196 Psychology - Doctor of Philosophy
+# 5.197 Psychology - Doctor of Philosophy
 
 ## Glossary
 

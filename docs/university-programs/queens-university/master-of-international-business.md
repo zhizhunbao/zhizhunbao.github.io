@@ -1,10 +1,10 @@
 ---
-title: "5.179 Master of International Business"
+title: "5.180 Master of International Business"
 description: "University Programs > Queen’s University > Master of International Business: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.179 Master of International Business
+# 5.180 Master of International Business
 
 ## Glossary
 

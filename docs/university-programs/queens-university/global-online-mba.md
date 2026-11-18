@@ -1,10 +1,10 @@
 ---
-title: "5.174 Global Online MBA"
+title: "5.175 Global Online MBA"
 description: "University Programs > Queen’s University > Global Online MBA: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.174 Global Online MBA
+# 5.175 Global Online MBA
 
 ## Glossary
 

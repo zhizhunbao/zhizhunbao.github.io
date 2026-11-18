@@ -1,10 +1,10 @@
 ---
-title: "5.178 Master of Financial Innovation & Technology"
+title: "5.179 Master of Financial Innovation & Technology"
 description: "University Programs > Queen’s University > Master of Financial Innovation & Technology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.178 Master of Financial Innovation & Technology
+# 5.179 Master of Financial Innovation & Technology
 
 ## Glossary
 

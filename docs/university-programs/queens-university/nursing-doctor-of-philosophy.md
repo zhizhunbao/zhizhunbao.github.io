@@ -1,10 +1,10 @@
 ---
-title: "5.193 Nursing - Doctor of Philosophy"
+title: "5.194 Nursing - Doctor of Philosophy"
 description: "University Programs > Queen’s University > Nursing - Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.193 Nursing - Doctor of Philosophy
+# 5.194 Nursing - Doctor of Philosophy
 
 ## Glossary
 

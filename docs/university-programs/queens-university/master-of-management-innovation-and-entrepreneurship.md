@@ -1,10 +1,10 @@
 ---
-title: "5.181 Master of Management Innovation and Entrepreneurship"
+title: "5.182 Master of Management Innovation and Entrepreneurship"
 description: "University Programs > Queen’s University > Master of Management Innovation and Entrepreneurship: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.181 Master of Management Innovation and Entrepreneurship
+# 5.182 Master of Management Innovation and Entrepreneurship
 
 ## Glossary
 

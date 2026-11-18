@@ -1,10 +1,10 @@
 ---
-title: "5.200 Biomedical Informatics - Graduate Diploma"
+title: "5.201 Biomedical Informatics - Graduate Diploma"
 description: "University Programs > Queen’s University > Biomedical Informatics - Graduate Diploma: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.200 Biomedical Informatics - Graduate Diploma
+# 5.201 Biomedical Informatics - Graduate Diploma
 
 ## Glossary
 

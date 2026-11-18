@@ -1,10 +1,10 @@
 ---
-title: "5.172 Full-Time MBA"
+title: "5.173 Full-Time MBA"
 description: "University Programs > Queen’s University > Full-Time MBA: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.172 Full-Time MBA
+# 5.173 Full-Time MBA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.182 Master of Managements Analytics"
+title: "5.183 Master of Managements Analytics"
 description: "University Programs > Queen’s University > Master of Managements Analytics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.182 Master of Managements Analytics
+# 5.183 Master of Managements Analytics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.177 Industrial Relations - Master of Industrial Relations and Professional Master of Industrial Relations"
+title: "5.178 Industrial Relations - Master of Industrial Relations and Professional Master of Industrial Relations"
 description: "University Programs > Queen’s University > Industrial Relations - Master of Industrial Relations and Professional Master of Industrial Relations: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.177 Industrial Relations - Master of Industrial Relations and Professional Master of Industrial Relations
+# 5.178 Industrial Relations - Master of Industrial Relations and Professional Master of Industrial Relations
 
 ## Glossary
 

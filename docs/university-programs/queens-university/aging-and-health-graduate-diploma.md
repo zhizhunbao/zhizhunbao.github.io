@@ -1,10 +1,10 @@
 ---
-title: "5.198 Aging and Health - Graduate Diploma"
+title: "5.199 Aging and Health - Graduate Diploma"
 description: "University Programs > Queen’s University > Aging and Health - Graduate Diploma: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.198 Aging and Health - Graduate Diploma
+# 5.199 Aging and Health - Graduate Diploma
 
 ## Glossary
 

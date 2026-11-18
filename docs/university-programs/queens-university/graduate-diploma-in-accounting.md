@@ -1,10 +1,10 @@
 ---
-title: "5.201 Graduate Diploma in Accounting"
+title: "5.202 Graduate Diploma in Accounting"
 description: "University Programs > Queen’s University > Graduate Diploma in Accounting: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.201 Graduate Diploma in Accounting
+# 5.202 Graduate Diploma in Accounting
 
 ## Glossary
 

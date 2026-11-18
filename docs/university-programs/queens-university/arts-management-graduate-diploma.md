@@ -1,10 +1,10 @@
 ---
-title: "5.199 Arts Management Graduate Diploma"
+title: "5.200 Arts Management Graduate Diploma"
 description: "University Programs > Queen’s University > Arts Management Graduate Diploma: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.199 Arts Management Graduate Diploma
+# 5.200 Arts Management Graduate Diploma
 
 ## Glossary
 

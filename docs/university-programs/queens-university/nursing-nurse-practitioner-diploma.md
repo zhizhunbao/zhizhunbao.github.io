@@ -1,10 +1,10 @@
 ---
-title: "5.205 Nursing - Nurse Practitioner Diploma"
+title: "5.206 Nursing - Nurse Practitioner Diploma"
 description: "University Programs > Queen’s University > Nursing - Nurse Practitioner Diploma: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.205 Nursing - Nurse Practitioner Diploma
+# 5.206 Nursing - Nurse Practitioner Diploma
 
 ## Glossary
 

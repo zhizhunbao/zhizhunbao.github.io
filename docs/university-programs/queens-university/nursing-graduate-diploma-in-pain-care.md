@@ -1,10 +1,10 @@
 ---
-title: "5.204 Nursing - Graduate Diploma in Pain Care"
+title: "5.205 Nursing - Graduate Diploma in Pain Care"
 description: "University Programs > Queen’s University > Nursing - Graduate Diploma in Pain Care: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.204 Nursing - Graduate Diploma in Pain Care
+# 5.205 Nursing - Graduate Diploma in Pain Care
 
 ## Glossary
 

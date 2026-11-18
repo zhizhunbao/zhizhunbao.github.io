@@ -1,10 +1,10 @@
 ---
-title: "5.176 Health Quality - Master of Science"
+title: "5.177 Health Quality - Master of Science"
 description: "University Programs > Queen’s University > Health Quality - Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.176 Health Quality - Master of Science
+# 5.177 Health Quality - Master of Science
 
 ## Glossary
 

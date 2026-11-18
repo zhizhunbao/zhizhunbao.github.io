@@ -1,10 +1,10 @@
 ---
-title: "5.206 Risk Policy and Regulation - Graduate Diploma"
+title: "5.207 Risk Policy and Regulation - Graduate Diploma"
 description: "University Programs > Queen’s University > Risk Policy and Regulation - Graduate Diploma: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.206 Risk Policy and Regulation - Graduate Diploma
+# 5.207 Risk Policy and Regulation - Graduate Diploma
 
 ## Glossary
 

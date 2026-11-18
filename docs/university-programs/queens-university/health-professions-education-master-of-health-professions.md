@@ -1,10 +1,10 @@
 ---
-title: "5.175 Health Professions Education - Master of Health Professions"
+title: "5.176 Health Professions Education - Master of Health Professions"
 description: "University Programs > Queen’s University > Health Professions Education - Master of Health Professions: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.175 Health Professions Education - Master of Health Professions
+# 5.176 Health Professions Education - Master of Health Professions
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.171 Film and Media - Master of Arts"
+title: "5.172 Film and Media - Master of Arts"
 description: "University Programs > Queen’s University > Film and Media - Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.171 Film and Media - Master of Arts
+# 5.172 Film and Media - Master of Arts
 
 ## Glossary
 

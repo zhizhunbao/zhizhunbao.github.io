@@ -1,10 +1,10 @@
 ---
-title: "5.173 Full-Time MMA"
+title: "5.174 Full-Time MMA"
 description: "University Programs > Queen’s University > Full-Time MMA: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.173 Full-Time MMA
+# 5.174 Full-Time MMA
 
 ## Glossary
 

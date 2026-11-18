@@ -1,10 +1,10 @@
 ---
-title: "5.192 Juris Doctor (JD) Program"
+title: "5.193 Juris Doctor (JD) Program"
 description: "University Programs > Queen’s University > Juris Doctor (JD) Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.192 Juris Doctor (JD) Program
+# 5.193 Juris Doctor (JD) Program
 
 ## Glossary
 

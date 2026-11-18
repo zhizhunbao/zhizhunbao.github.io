@@ -1,6 +1,6 @@
 ---
 title: "University Programs"
-description: "University Programs: the programs and courses of Canadian public universities from their academic calendars, one folder per university; skeleton, definitions pending."
+description: "University Programs: the programs and courses of Canadian public universities, and of Stanford University, from their academic calendars, one folder per university; skeleton, definitions pending."
 ms.date: 2026-11-10
 ---
 
@@ -91,6 +91,7 @@ ms.date: 2026-11-10
 | **[University College of the North](university-college-of-the-north/index.md)**<br>北方大学学院 | (Definition pending) | （定义待补） | [University College of the North, n.d.](https://ucn.ca/registrars-office/academic-calendars) |
 | **[University of King's College](university-of-king-s-college/index.md)**<br>国王学院大学 | (Definition pending) | （定义待补） | [University of King's College, n.d.](https://academiccalendar.ukings.ca/) |
 | **[Yukon University](yukon-university/index.md)**<br>育空大学 | (Definition pending) | （定义待补） | [Yukon University, n.d.](https://www.yukonu.ca/programs) |
+| **[Stanford University](stanford-university/index.md)**<br>斯坦福大学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/) |
 
 ## References
 
@@ -165,6 +166,8 @@ St Thomas University. (n.d.). *Academic calendar*. Retrieved November 10, 2026, 
 St. Francis Xavier University. (n.d.). *Academic calendars*. Retrieved November 10, 2026, from <https://www.stfx.ca/applications-admissions/registrars-office/academic-calendar>
 
 St. Mary's University. (n.d.). *Academic calendar & policies*. Retrieved November 10, 2026, from <https://stmu.ca/academics/resources/academic-policies/>
+
+Stanford University. (n.d.). *Stanford Bulletin*. Retrieved November 18, 2026, from <https://bulletin.stanford.edu/>
 
 The King's University. (n.d.). *Undergraduate programs & certificates*. Retrieved November 10, 2026, from <https://www.kingsu.ca/programs>
 

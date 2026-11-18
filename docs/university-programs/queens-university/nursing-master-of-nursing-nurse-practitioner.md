@@ -1,10 +1,10 @@
 ---
-title: "5.183 Nursing - Master of Nursing (Nurse Practitioner)"
+title: "5.184 Nursing - Master of Nursing (Nurse Practitioner)"
 description: "University Programs > Queen’s University > Nursing - Master of Nursing (Nurse Practitioner): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-11
 ---
 
-# 5.183 Nursing - Master of Nursing (Nurse Practitioner)
+# 5.184 Nursing - Master of Nursing (Nurse Practitioner)
 
 ## Glossary
 
