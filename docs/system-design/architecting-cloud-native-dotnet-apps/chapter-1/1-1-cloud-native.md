@@ -6,6 +6,10 @@ ms.date: 2026-11-11
 
 # 1.1 Cloud Native
 
+## Classification
+
+![1.1 Cloud Native: the sections of its page that hold terms, numbered here, each with its terms, in Architecting Cloud Native .NET Applications for Azure.](media/1-1-cloud-native.png)
+
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |

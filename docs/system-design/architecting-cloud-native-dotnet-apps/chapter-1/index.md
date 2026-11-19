@@ -6,6 +6,10 @@ ms.date: 2026-11-11
 
 # 1. Introduction to Cloud-Native Applications
 
+## Classification
+
+![1. Introduction to Cloud-Native Applications: its pages, numbered here, each with the sections of its page that hold terms, in Architecting Cloud Native .NET Applications for Azure.](media/chapter-1.png)
+
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |

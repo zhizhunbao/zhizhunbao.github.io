@@ -6,15 +6,19 @@ ms.date: 2026-11-11
 
 # Architecting Cloud Native .NET Applications for Azure
 
+## Classification
+
+![Architecting Cloud Native .NET Applications for Azure: the 10 chapters of the e-book, numbered here, one group each listing its pages; the groups wrap at the page width.](media/architecting-cloud-native-dotnet-apps.png)
+
 ## Glossary
 
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **Architecting Cloud Native .NET Applications for Azure**<br>为 Azure 构建云原生 .NET 应用 | (Definition pending) | （定义待补） | [Vettor & Smith, 2022](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/) |
 | **[1. Introduction to Cloud-Native Applications](chapter-1/index.md)**<br>云原生应用简介 | (Definition pending) | （定义待补） | [Microsoft, 2022, "Introduction to cloud-native applications"](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/introduction) |
-| **[2. Introducing the eShopOnContainers Reference App](chapter-2/index.md)**<br>eShopOnContainers 参考应用简介 | (Definition pending) | （定义待补） | [Microsoft, 2022, "Introducing eShopOnContainers reference app"](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/introduce-eshoponcontainers-reference-app) |
+| **[2. Introducing the eShopOnContainers Reference App](chapter-2/index.md)**<br>eShopOnContainers 参考应用简介 | "Microsoft, in partnership with leading community experts, has produced **a full-featured cloud-native microservices reference application**, **eShopOnContainers**." | 微软与社区领先专家合作，制作了**一个功能完整的云原生微服务参考应用**，即 **eShopOnContainers**。 | [Microsoft, 2022, "Introducing eShopOnContainers reference app", para. 1](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/introduce-eshoponcontainers-reference-app#:~:text=Microsoft%2C%20in%20partnership%20with%20leading%20community%20experts) |
 | **[3. Scaling Cloud-Native .NET Applications](chapter-3/index.md)**<br>扩展云原生 .NET 应用 | (Definition pending) | （定义待补） | [Microsoft, 2022, "Scaling cloud-native applications"](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/scale-applications) |
-| **[4. Cloud-Native Communication Patterns](chapter-4/index.md)**<br>云原生通信模式 | (Definition pending) | （定义待补） | [Microsoft, 2022, "Cloud-native communication patterns"](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/communication-patterns) |
+| **[4. Cloud-Native Communication Patterns](chapter-4/index.md)**<br>云原生通信模式 | "When constructing a cloud-native system, **communication** becomes **a significant design decision**." | 构建云原生系统时，**通信**成为**一项重要的设计决策**。 | [Microsoft, 2022, "Cloud-native communication patterns", para. 1](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/communication-patterns#:~:text=When%20constructing%20a%20cloud%2Dnative%20system%2C%20communication) |
 | **[5. Cloud-Native Data Patterns](chapter-5/index.md)**<br>云原生数据模式 | (Definition pending) | （定义待补） | [Microsoft, 2022, "Cloud-native data patterns"](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-data) |
 | **[6. Cloud-Native Resiliency](chapter-6/index.md)**<br>云原生韧性 | (Definition pending) | （定义待补） | [Microsoft, 2022, "Cloud-native resiliency"](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/resiliency) |
 | **[7. Monitoring and Health](chapter-7/index.md)**<br>监控与健康 | (Definition pending) | （定义待补） | [Microsoft, 2022, "Monitoring and health"](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/monitoring-health) |
