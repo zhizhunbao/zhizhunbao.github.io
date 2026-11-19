@@ -1,10 +1,10 @@
 ---
-title: "5.4.3 Anthropology (B.A.)"
+title: "5.5.3 Anthropology (B.A.)"
 description: "University Programs > United States > Yale University > Anthropology (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.3 Anthropology (B.A.)
+# 5.5.3 Anthropology (B.A.)
 
 ## Glossary
 

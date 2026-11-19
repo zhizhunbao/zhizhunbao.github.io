@@ -1,10 +1,10 @@
 ---
-title: "5.3.199 Oceans, Doctor of Philosophy"
+title: "5.4.199 Oceans, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Oceans, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.199 Oceans, Doctor of Philosophy
+# 5.4.199 Oceans, Doctor of Philosophy
 
 ## Glossary
 

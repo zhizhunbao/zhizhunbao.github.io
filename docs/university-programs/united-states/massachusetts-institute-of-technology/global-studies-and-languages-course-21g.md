@@ -1,10 +1,10 @@
 ---
-title: "5.2.32 Global Studies and Languages (Course 21G)"
+title: "5.3.32 Global Studies and Languages (Course 21G)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Global Studies and Languages (Course 21G): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.32 Global Studies and Languages (Course 21G)
+# 5.3.32 Global Studies and Languages (Course 21G)
 
 ## Glossary
 

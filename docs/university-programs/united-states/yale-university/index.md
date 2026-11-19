@@ -1,10 +1,10 @@
 ---
-title: "5.4 Yale University"
+title: "5.5 Yale University"
 description: "University Programs > United States > Yale University: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4 Yale University
+# 5.5 Yale University
 
 ## Glossary
 

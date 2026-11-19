@@ -1,10 +1,10 @@
 ---
-title: "5.2.23 Earth, Atmospheric, and Planetary Sciences (Course 12)"
+title: "5.3.23 Earth, Atmospheric, and Planetary Sciences (Course 12)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Earth, Atmospheric, and Planetary Sciences (Course 12): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.23 Earth, Atmospheric, and Planetary Sciences (Course 12)
+# 5.3.23 Earth, Atmospheric, and Planetary Sciences (Course 12)
 
 ## Glossary
 

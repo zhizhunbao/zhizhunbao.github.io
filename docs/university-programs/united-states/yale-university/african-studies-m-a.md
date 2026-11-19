@@ -1,10 +1,10 @@
 ---
-title: "5.4.82 African Studies (M.A.)"
+title: "5.5.82 African Studies (M.A.)"
 description: "University Programs > United States > Yale University > African Studies (M.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.82 African Studies (M.A.)
+# 5.5.82 African Studies (M.A.)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.3.82 Civil and Environmental Engineering, Engineer"
+title: "5.4.82 Civil and Environmental Engineering, Engineer"
 description: "University Programs > United States > Stanford University > Civil and Environmental Engineering, Engineer: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.82 Civil and Environmental Engineering, Engineer
+# 5.4.82 Civil and Environmental Engineering, Engineer
 
 ## Glossary
 

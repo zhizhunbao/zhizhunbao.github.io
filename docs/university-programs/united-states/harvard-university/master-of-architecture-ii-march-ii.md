@@ -1,10 +1,10 @@
 ---
-title: "5.1.64 Master of Architecture II (MArch II)"
+title: "5.2.64 Master of Architecture II (MArch II)"
 description: "University Programs > United States > Harvard University > Master of Architecture II (MArch II): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.64 Master of Architecture II (MArch II)
+# 5.2.64 Master of Architecture II (MArch II)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.79 Master of Public Health – Quantitative Methods"
+title: "5.2.79 Master of Public Health – Quantitative Methods"
 description: "University Programs > United States > Harvard University > Master of Public Health – Quantitative Methods: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.79 Master of Public Health – Quantitative Methods
+# 5.2.79 Master of Public Health – Quantitative Methods
 
 ## Glossary
 

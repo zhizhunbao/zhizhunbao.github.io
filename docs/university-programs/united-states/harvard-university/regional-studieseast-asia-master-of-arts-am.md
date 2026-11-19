@@ -1,10 +1,10 @@
 ---
-title: "5.1.89 Regional Studies–East Asia, Master of Arts (AM)"
+title: "5.2.89 Regional Studies–East Asia, Master of Arts (AM)"
 description: "University Programs > United States > Harvard University > Regional Studies–East Asia, Master of Arts (AM): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.89 Regional Studies–East Asia, Master of Arts (AM)
+# 5.2.89 Regional Studies–East Asia, Master of Arts (AM)
 
 ## Glossary
 

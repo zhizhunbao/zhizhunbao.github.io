@@ -1,10 +1,10 @@
 ---
-title: "5.1.53 Master in Health Care Management"
+title: "5.2.53 Master in Health Care Management"
 description: "University Programs > United States > Harvard University > Master in Health Care Management: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.53 Master in Health Care Management
+# 5.2.53 Master in Health Care Management
 
 ## Glossary
 

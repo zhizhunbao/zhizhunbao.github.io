@@ -1,7 +1,7 @@
 ---
 title: "5. United States"
 description: "University Programs > United States: universities in the United States, one folder per university; definitions pending."
-ms.date: 2026-11-18
+ms.date: 2026-11-19
 ---
 
 # 5. United States
@@ -11,12 +11,15 @@ ms.date: 2026-11-18
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **United States**<br>美国 | (Definition pending) | （定义待补） | [National Center for Education Statistics, n.d.](https://nces.ed.gov/collegenavigator/) |
+| **[Columbia University](columbia-university/index.md)**<br>哥伦比亚大学 | (Definition pending) | （定义待补） | [Columbia University, n.d.](https://bulletin.columbia.edu/) |
 | **[Harvard University](harvard-university/index.md)**<br>哈佛大学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://www.harvard.edu/programs/) |
 | **[Massachusetts Institute of Technology](massachusetts-institute-of-technology/index.md)**<br>麻省理工学院 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/) |
 | **[Stanford University](stanford-university/index.md)**<br>斯坦福大学 | (Definition pending) | （定义待补） | [Stanford University, n.d.](https://bulletin.stanford.edu/) |
 | **[Yale University](yale-university/index.md)**<br>耶鲁大学 | (Definition pending) | （定义待补） | [Yale University, n.d.](https://catalog.yale.edu/) |
 
 ## References
+
+Columbia University. (n.d.). *Columbia Bulletin* [Columbia College, School of General Studies, and Fu Foundation School of Engineering and Applied Science, 2026-2027]. Retrieved November 19, 2026, from <https://bulletin.columbia.edu/>
 
 Harvard University. (n.d.). *Programs of study*. Retrieved November 18, 2026, from <https://www.harvard.edu/programs/>
 

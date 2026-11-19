@@ -1,10 +1,10 @@
 ---
-title: "5.3.139 Statistics, Master of Science"
+title: "5.4.139 Statistics, Master of Science"
 description: "University Programs > United States > Stanford University > Statistics, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.139 Statistics, Master of Science
+# 5.4.139 Statistics, Master of Science
 
 ## Glossary
 

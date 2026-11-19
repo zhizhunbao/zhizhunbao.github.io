@@ -1,10 +1,10 @@
 ---
-title: "5.2.9 Biological Engineering (Course 20)"
+title: "5.3.9 Biological Engineering (Course 20)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Biological Engineering (Course 20): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.9 Biological Engineering (Course 20)
+# 5.3.9 Biological Engineering (Course 20)
 
 ## Glossary
 

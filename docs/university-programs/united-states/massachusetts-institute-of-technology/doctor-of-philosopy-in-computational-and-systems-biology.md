@@ -1,10 +1,10 @@
 ---
-title: "5.2.114 Doctor of Philosopy in Computational and Systems Biology"
+title: "5.3.114 Doctor of Philosopy in Computational and Systems Biology"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosopy in Computational and Systems Biology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.114 Doctor of Philosopy in Computational and Systems Biology
+# 5.3.114 Doctor of Philosopy in Computational and Systems Biology
 
 ## Glossary
 

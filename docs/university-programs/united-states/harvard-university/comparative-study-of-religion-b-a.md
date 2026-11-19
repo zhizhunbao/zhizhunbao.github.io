@@ -1,10 +1,10 @@
 ---
-title: "5.1.11 Comparative Study of Religion (B.A.)"
+title: "5.2.11 Comparative Study of Religion (B.A.)"
 description: "University Programs > United States > Harvard University > Comparative Study of Religion (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.11 Comparative Study of Religion (B.A.)
+# 5.2.11 Comparative Study of Religion (B.A.)
 
 ## Glossary
 

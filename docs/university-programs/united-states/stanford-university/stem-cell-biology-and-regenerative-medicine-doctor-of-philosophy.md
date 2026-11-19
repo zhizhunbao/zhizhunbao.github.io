@@ -1,10 +1,10 @@
 ---
-title: "5.3.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy"
+title: "5.4.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy
+# 5.4.208 Stem Cell Biology and Regenerative Medicine, Doctor of Philosophy
 
 ## Glossary
 

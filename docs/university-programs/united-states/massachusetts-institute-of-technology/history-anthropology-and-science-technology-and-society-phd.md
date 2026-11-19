@@ -1,10 +1,10 @@
 ---
-title: "5.2.121 History, Anthropology, and Science, Technology, and Society (PhD)"
+title: "5.3.121 History, Anthropology, and Science, Technology, and Society (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > History, Anthropology, and Science, Technology, and Society (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.121 History, Anthropology, and Science, Technology, and Society (PhD)
+# 5.3.121 History, Anthropology, and Science, Technology, and Society (PhD)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.4.76 Spanish (B.A.)"
+title: "5.5.76 Spanish (B.A.)"
 description: "University Programs > United States > Yale University > Spanish (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.76 Spanish (B.A.)
+# 5.5.76 Spanish (B.A.)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.70 Master of Public Health – Global Health"
+title: "5.2.70 Master of Public Health – Global Health"
 description: "University Programs > United States > Harvard University > Master of Public Health – Global Health: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.70 Master of Public Health – Global Health
+# 5.2.70 Master of Public Health – Global Health
 
 ## Glossary
 

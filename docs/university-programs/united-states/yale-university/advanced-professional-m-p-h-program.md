@@ -1,10 +1,10 @@
 ---
-title: "5.4.81 Advanced Professional M.P.H. Program"
+title: "5.5.81 Advanced Professional M.P.H. Program"
 description: "University Programs > United States > Yale University > Advanced Professional M.P.H. Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.81 Advanced Professional M.P.H. Program
+# 5.5.81 Advanced Professional M.P.H. Program
 
 ## Glossary
 

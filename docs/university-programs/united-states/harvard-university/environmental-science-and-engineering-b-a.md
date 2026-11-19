@@ -1,10 +1,10 @@
 ---
-title: "5.1.19 Environmental Science and Engineering (B.A.)"
+title: "5.2.19 Environmental Science and Engineering (B.A.)"
 description: "University Programs > United States > Harvard University > Environmental Science and Engineering (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.19 Environmental Science and Engineering (B.A.)
+# 5.2.19 Environmental Science and Engineering (B.A.)
 
 ## Glossary
 

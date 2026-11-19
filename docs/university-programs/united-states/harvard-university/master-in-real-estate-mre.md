@@ -1,10 +1,10 @@
 ---
-title: "5.1.60 Master in Real Estate (MRE)"
+title: "5.2.60 Master in Real Estate (MRE)"
 description: "University Programs > United States > Harvard University > Master in Real Estate (MRE): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.60 Master in Real Estate (MRE)
+# 5.2.60 Master in Real Estate (MRE)
 
 ## Glossary
 

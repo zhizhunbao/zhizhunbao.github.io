@@ -1,10 +1,10 @@
 ---
-title: "5.2.35 Humanities and Engineering (Course 21E)"
+title: "5.3.35 Humanities and Engineering (Course 21E)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Humanities and Engineering (Course 21E): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.35 Humanities and Engineering (Course 21E)
+# 5.3.35 Humanities and Engineering (Course 21E)
 
 ## Glossary
 

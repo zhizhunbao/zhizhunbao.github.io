@@ -1,10 +1,10 @@
 ---
-title: "5.3.127 Music, Master of Arts"
+title: "5.4.127 Music, Master of Arts"
 description: "University Programs > United States > Stanford University > Music, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.127 Music, Master of Arts
+# 5.4.127 Music, Master of Arts
 
 ## Glossary
 

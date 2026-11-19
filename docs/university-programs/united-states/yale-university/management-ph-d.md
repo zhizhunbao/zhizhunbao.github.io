@@ -1,10 +1,10 @@
 ---
-title: "5.4.144 Management (Ph.D.)"
+title: "5.5.144 Management (Ph.D.)"
 description: "University Programs > United States > Yale University > Management (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.144 Management (Ph.D.)
+# 5.5.144 Management (Ph.D.)
 
 ## Glossary
 

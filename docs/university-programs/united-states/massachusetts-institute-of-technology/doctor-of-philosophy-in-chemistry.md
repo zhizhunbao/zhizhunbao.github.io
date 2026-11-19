@@ -1,10 +1,10 @@
 ---
-title: "5.2.105 Doctor of Philosophy in Chemistry"
+title: "5.3.105 Doctor of Philosophy in Chemistry"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Chemistry: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.105 Doctor of Philosophy in Chemistry
+# 5.3.105 Doctor of Philosophy in Chemistry
 
 ## Glossary
 

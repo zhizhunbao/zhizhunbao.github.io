@@ -1,10 +1,10 @@
 ---
-title: "5.2.70 Master of Science in Computational Science and Engineering"
+title: "5.3.70 Master of Science in Computational Science and Engineering"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Computational Science and Engineering: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.70 Master of Science in Computational Science and Engineering
+# 5.3.70 Master of Science in Computational Science and Engineering
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.4.46 Greek, Ancient and Modern (B.A.)"
+title: "5.5.46 Greek, Ancient and Modern (B.A.)"
 description: "University Programs > United States > Yale University > Greek, Ancient and Modern (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.46 Greek, Ancient and Modern (B.A.)
+# 5.5.46 Greek, Ancient and Modern (B.A.)
 
 ## Glossary
 

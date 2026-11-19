@@ -1,10 +1,10 @@
 ---
-title: "5.2.25 Electrical Engineering with Computing (Course 6-5)"
+title: "5.3.25 Electrical Engineering with Computing (Course 6-5)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Electrical Engineering with Computing (Course 6-5): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.25 Electrical Engineering with Computing (Course 6-5)
+# 5.3.25 Electrical Engineering with Computing (Course 6-5)
 
 ## Glossary
 

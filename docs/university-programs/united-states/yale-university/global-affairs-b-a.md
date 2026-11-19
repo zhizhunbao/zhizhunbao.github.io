@@ -1,10 +1,10 @@
 ---
-title: "5.4.45 Global Affairs (B.A.)"
+title: "5.5.45 Global Affairs (B.A.)"
 description: "University Programs > United States > Yale University > Global Affairs (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.45 Global Affairs (B.A.)
+# 5.5.45 Global Affairs (B.A.)
 
 ## Glossary
 

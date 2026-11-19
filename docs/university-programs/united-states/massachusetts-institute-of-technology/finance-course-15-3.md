@@ -1,10 +1,10 @@
 ---
-title: "5.2.31 Finance (Course 15-3)"
+title: "5.3.31 Finance (Course 15-3)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Finance (Course 15-3): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.31 Finance (Course 15-3)
+# 5.3.31 Finance (Course 15-3)
 
 ## Glossary
 

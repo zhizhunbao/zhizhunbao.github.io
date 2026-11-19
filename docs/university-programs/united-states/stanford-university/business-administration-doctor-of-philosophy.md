@@ -1,10 +1,10 @@
 ---
-title: "5.3.154 Business Administration, Doctor of Philosophy"
+title: "5.4.154 Business Administration, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Business Administration, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.154 Business Administration, Doctor of Philosophy
+# 5.4.154 Business Administration, Doctor of Philosophy
 
 ## Glossary
 

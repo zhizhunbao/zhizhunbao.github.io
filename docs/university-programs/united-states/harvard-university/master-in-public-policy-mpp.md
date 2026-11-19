@@ -1,10 +1,10 @@
 ---
-title: "5.1.59 Master in Public Policy (MPP)"
+title: "5.2.59 Master in Public Policy (MPP)"
 description: "University Programs > United States > Harvard University > Master in Public Policy (MPP): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.59 Master in Public Policy (MPP)
+# 5.2.59 Master in Public Policy (MPP)
 
 ## Glossary
 

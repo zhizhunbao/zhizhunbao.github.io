@@ -1,10 +1,10 @@
 ---
-title: "5.1.18 English (B.A.)"
+title: "5.2.18 English (B.A.)"
 description: "University Programs > United States > Harvard University > English (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.18 English (B.A.)
+# 5.2.18 English (B.A.)
 
 ## Glossary
 

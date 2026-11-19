@@ -1,10 +1,10 @@
 ---
-title: "5.4.157 Religious Studies (Ph.D.)"
+title: "5.5.157 Religious Studies (Ph.D.)"
 description: "University Programs > United States > Yale University > Religious Studies (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.157 Religious Studies (Ph.D.)
+# 5.5.157 Religious Studies (Ph.D.)
 
 ## Glossary
 

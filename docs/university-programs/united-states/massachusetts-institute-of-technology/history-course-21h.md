@@ -1,10 +1,10 @@
 ---
-title: "5.2.33 History (Course 21H)"
+title: "5.3.33 History (Course 21H)"
 description: "University Programs > United States > Massachusetts Institute of Technology > History (Course 21H): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.33 History (Course 21H)
+# 5.3.33 History (Course 21H)
 
 ## Glossary
 

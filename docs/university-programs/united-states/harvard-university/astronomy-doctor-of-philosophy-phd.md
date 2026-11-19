@@ -1,10 +1,10 @@
 ---
-title: "5.1.96 Astronomy, Doctor of Philosophy (PhD)"
+title: "5.2.96 Astronomy, Doctor of Philosophy (PhD)"
 description: "University Programs > United States > Harvard University > Astronomy, Doctor of Philosophy (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.96 Astronomy, Doctor of Philosophy (PhD)
+# 5.2.96 Astronomy, Doctor of Philosophy (PhD)
 
 ## Glossary
 

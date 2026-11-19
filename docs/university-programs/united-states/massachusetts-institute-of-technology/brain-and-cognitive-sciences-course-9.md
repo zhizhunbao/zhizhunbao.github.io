@@ -1,10 +1,10 @@
 ---
-title: "5.2.11 Brain and Cognitive Sciences (Course 9)"
+title: "5.3.11 Brain and Cognitive Sciences (Course 9)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Brain and Cognitive Sciences (Course 9): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.11 Brain and Cognitive Sciences (Course 9)
+# 5.3.11 Brain and Cognitive Sciences (Course 9)
 
 ## Glossary
 

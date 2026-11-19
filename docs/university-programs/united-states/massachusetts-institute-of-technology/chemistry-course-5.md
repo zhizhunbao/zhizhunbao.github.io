@@ -1,10 +1,10 @@
 ---
-title: "5.2.15 Chemistry (Course 5)"
+title: "5.3.15 Chemistry (Course 5)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Chemistry (Course 5): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.15 Chemistry (Course 5)
+# 5.3.15 Chemistry (Course 5)
 
 ## Glossary
 

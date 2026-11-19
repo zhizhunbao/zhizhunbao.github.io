@@ -1,10 +1,10 @@
 ---
-title: "5.2.88 Aircraft Systems Engineering (PhD, ScD)"
+title: "5.3.88 Aircraft Systems Engineering (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Aircraft Systems Engineering (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.88 Aircraft Systems Engineering (PhD, ScD)
+# 5.3.88 Aircraft Systems Engineering (PhD, ScD)
 
 ## Glossary
 

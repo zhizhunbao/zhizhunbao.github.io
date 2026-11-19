@@ -1,10 +1,10 @@
 ---
-title: "5.2.63 Master of Architecture"
+title: "5.3.63 Master of Architecture"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Architecture: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.63 Master of Architecture
+# 5.3.63 Master of Architecture
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.2.82 Aeronautics, Astronautics, and Statistics (PhD)"
+title: "5.3.82 Aeronautics, Astronautics, and Statistics (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Aeronautics, Astronautics, and Statistics (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.82 Aeronautics, Astronautics, and Statistics (PhD)
+# 5.3.82 Aeronautics, Astronautics, and Statistics (PhD)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.4.67 Physics and Geosciences (B.S.)"
+title: "5.5.67 Physics and Geosciences (B.S.)"
 description: "University Programs > United States > Yale University > Physics and Geosciences (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.67 Physics and Geosciences (B.S.)
+# 5.5.67 Physics and Geosciences (B.S.)
 
 ## Glossary
 

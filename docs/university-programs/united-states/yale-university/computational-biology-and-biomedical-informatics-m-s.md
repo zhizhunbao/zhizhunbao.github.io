@@ -1,10 +1,10 @@
 ---
-title: "5.4.85 Computational Biology and Biomedical Informatics (M.S.)"
+title: "5.5.85 Computational Biology and Biomedical Informatics (M.S.)"
 description: "University Programs > United States > Yale University > Computational Biology and Biomedical Informatics (M.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.85 Computational Biology and Biomedical Informatics (M.S.)
+# 5.5.85 Computational Biology and Biomedical Informatics (M.S.)
 
 ## Glossary
 

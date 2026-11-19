@@ -1,10 +1,10 @@
 ---
-title: "5.4.47 History (B.A.)"
+title: "5.5.47 History (B.A.)"
 description: "University Programs > United States > Yale University > History (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.47 History (B.A.)
+# 5.5.47 History (B.A.)
 
 ## Glossary
 

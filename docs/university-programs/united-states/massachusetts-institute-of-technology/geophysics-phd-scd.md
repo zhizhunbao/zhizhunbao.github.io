@@ -1,10 +1,10 @@
 ---
-title: "5.2.120 Geophysics (PhD, ScD)"
+title: "5.3.120 Geophysics (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Geophysics (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.120 Geophysics (PhD, ScD)
+# 5.3.120 Geophysics (PhD, ScD)
 
 ## Glossary
 

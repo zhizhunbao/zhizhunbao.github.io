@@ -1,10 +1,10 @@
 ---
-title: "5.1.86 Master of Science – Epidemiology (80-credit)"
+title: "5.2.86 Master of Science – Epidemiology (80-credit)"
 description: "University Programs > United States > Harvard University > Master of Science – Epidemiology (80-credit): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.86 Master of Science – Epidemiology (80-credit)
+# 5.2.86 Master of Science – Epidemiology (80-credit)
 
 ## Glossary
 

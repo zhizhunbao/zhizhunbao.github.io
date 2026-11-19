@@ -1,10 +1,10 @@
 ---
-title: "5.4.30 Economics and Mathematics (B.A.)"
+title: "5.5.30 Economics and Mathematics (B.A.)"
 description: "University Programs > United States > Yale University > Economics and Mathematics (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.30 Economics and Mathematics (B.A.)
+# 5.5.30 Economics and Mathematics (B.A.)
 
 ## Glossary
 

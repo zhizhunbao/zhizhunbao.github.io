@@ -1,10 +1,10 @@
 ---
-title: "5.2.125 Mathematics and Computational Science (PhD, ScD)"
+title: "5.3.125 Mathematics and Computational Science (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mathematics and Computational Science (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.125 Mathematics and Computational Science (PhD, ScD)
+# 5.3.125 Mathematics and Computational Science (PhD, ScD)
 
 ## Glossary
 

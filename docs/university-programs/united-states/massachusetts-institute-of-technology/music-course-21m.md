@@ -1,10 +1,10 @@
 ---
-title: "5.2.46 Music (Course 21M)"
+title: "5.3.46 Music (Course 21M)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Music (Course 21M): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.46 Music (Course 21M)
+# 5.3.46 Music (Course 21M)
 
 ## Glossary
 

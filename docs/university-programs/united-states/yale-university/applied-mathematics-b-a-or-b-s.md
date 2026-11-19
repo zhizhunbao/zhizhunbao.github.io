@@ -1,10 +1,10 @@
 ---
-title: "5.4.4 Applied Mathematics (B.A. or B.S.)"
+title: "5.5.4 Applied Mathematics (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Applied Mathematics (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.4 Applied Mathematics (B.A. or B.S.)
+# 5.5.4 Applied Mathematics (B.A. or B.S.)
 
 ## Glossary
 

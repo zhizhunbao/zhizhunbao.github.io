@@ -1,10 +1,10 @@
 ---
-title: "5.1.14 East Asian Studies (B.A.)"
+title: "5.2.14 East Asian Studies (B.A.)"
 description: "University Programs > United States > Harvard University > East Asian Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.14 East Asian Studies (B.A.)
+# 5.2.14 East Asian Studies (B.A.)
 
 ## Glossary
 

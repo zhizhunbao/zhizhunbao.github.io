@@ -1,10 +1,10 @@
 ---
-title: "5.2.47 Nuclear Science and Engineering (Course 22)"
+title: "5.3.47 Nuclear Science and Engineering (Course 22)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Nuclear Science and Engineering (Course 22): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.47 Nuclear Science and Engineering (Course 22)
+# 5.3.47 Nuclear Science and Engineering (Course 22)
 
 ## Glossary
 

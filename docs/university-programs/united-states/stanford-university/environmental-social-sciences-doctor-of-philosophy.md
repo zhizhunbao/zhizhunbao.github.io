@@ -1,10 +1,10 @@
 ---
-title: "5.3.175 Environmental Social Sciences, Doctor of Philosophy"
+title: "5.4.175 Environmental Social Sciences, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Environmental Social Sciences, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.175 Environmental Social Sciences, Doctor of Philosophy
+# 5.4.175 Environmental Social Sciences, Doctor of Philosophy
 
 ## Glossary
 

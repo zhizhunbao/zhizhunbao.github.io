@@ -1,10 +1,10 @@
 ---
-title: "5.4.113 American Studies (Ph.D.)"
+title: "5.5.113 American Studies (Ph.D.)"
 description: "University Programs > United States > Yale University > American Studies (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.113 American Studies (Ph.D.)
+# 5.5.113 American Studies (Ph.D.)
 
 ## Glossary
 

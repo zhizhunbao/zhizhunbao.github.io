@@ -1,10 +1,10 @@
 ---
-title: "5.3.207 Statistics, Doctor of Philosophy"
+title: "5.4.207 Statistics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Statistics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.207 Statistics, Doctor of Philosophy
+# 5.4.207 Statistics, Doctor of Philosophy
 
 ## Glossary
 

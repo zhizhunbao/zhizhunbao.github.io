@@ -1,10 +1,10 @@
 ---
-title: "5.2.39 Management (Course 15-1)"
+title: "5.3.39 Management (Course 15-1)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Management (Course 15-1): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.39 Management (Course 15-1)
+# 5.3.39 Management (Course 15-1)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.47 Computer Science, Master of Liberal Arts (A.L.M.)"
+title: "5.2.47 Computer Science, Master of Liberal Arts (A.L.M.)"
 description: "University Programs > United States > Harvard University > Computer Science, Master of Liberal Arts (A.L.M.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.1.47 Computer Science, Master of Liberal Arts (A.L.M.)
+# 5.2.47 Computer Science, Master of Liberal Arts (A.L.M.)
 
 ## Glossary
 
